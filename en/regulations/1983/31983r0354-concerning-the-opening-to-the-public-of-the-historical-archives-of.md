@@ -1,0 +1,172 @@
+---
+title: "Council Regulation (EEC, Euratom) No 354/83 of 1 February 1983 concerning the opening to the public of the historical archives of the European Economic Community and the European Atomic Energy Community"
+identifier: "31983R0354"
+eli: "http://data.europa.eu/eli/reg/1983/354/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1983-02-01
+entry_into_force: 1983-04-02
+last_amended: 2015-03-26
+consolidated_version: "01983R0354-20150326"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01983R0354-20150326"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EEC, Euratom) No 354/83 of 1 February 1983 concerning the opening to the public of the historical archives of the European Economic Community and the European Atomic Energy Community
+
+**COUNCIL REGULATION (EEC, EURATOM) No 354/83**
+
+**of 1 February 1983**
+
+**concerning the opening to the public of the historical archives of the European Economic Community and the European Atomic Energy Community**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>COUNCIL REGULATION (EC, EURATOM) No 1700/2003 of 22 September 2003</td><td> L 243</td><td>1</td><td>27.9.2003</td></tr>
+<tr><td></td><td>COUNCIL REGULATION (EU) 2015/496 of 17 March 2015</td><td> L 79</td><td>1</td><td>25.3.2015</td></tr>
+</table>
+
+**COUNCIL REGULATION (EEC, EURATOM) No 354/83**
+
+**of 1 February 1983**
+
+**concerning the opening to the public of the historical archives of the European Economic Community and the European Atomic Energy Community**
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 235 thereof,
+
+Having regard to the Treaty establishing the European Atomic Energy Community, and in particular Article 203 thereof,
+
+Having regard to the proposal from the Commission ( 1 ),
+
+Having regard to the opinion of the European Parliament ( 2 ),
+
+Whereas, in carrying out their task, the institutions of the European Economic Community and the European Atomic Energy Community have accumulated a vast collection of archives; whereas these archives constitute the property of these Communities, each of which has legal personality;
+
+Whereas it is standard practice, both in Member States and in international organizations, to make archives available to the public after a number of years has passed; whereas common rules concerning the opening to the public of the historical archives of the European Communities should be laid down;
+
+Whereas some of the documents and records emanating from institutions of the European Economic Community and the European Atomic Energy Community are held physically in the archives of the Member States; whereas the Member States apply different rules to determine when and on what conditions their archives may be made available to the public; whereas classified documents and records emanating from Community institutions should be prevented from being released to the public through national archives on terms less strict than those provided for in this Regulation;
+
+Whereas the processing and critical analysis of Community archives is not only of value to historical research in general but can at the same time facilitate the activities of bodies involved in Community affairs and thereby contribute to the better attainment of all the Communities' objectives;
+
+Whereas the Treaties have not provided for any specific powers of action regarding the establishment of common rules for this subject;
+
+Whereas certain essential principles alone need to be determined, adoption of the requisite rules for the implementation, at internal level, of such principles being left to each Community institution,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. This Regulation seeks to ensure that documents of historical or administrative value are preserved and made available to the public wherever possible.
+
+To that end, each institution of the European Community and of the European Atomic Energy Community, as well as the European Economic and Social Committee, the Committee of Regions, agencies and similar bodies set up by the legislator (hereinafter referred to as the institutions) shall establish its historical archives and open them to the public on the terms provided for by this Regulation after the expiry of a period of 30 years starting from the date of the creation of the document.
+
+2\. For the purposes of this Regulation:
+
+(a) ‘archives of the institutions of the European Communities’, means all those documents of whatever type and in whatever medium which have originated in or been received by one of the institutions or by their representatives or servants in the performance of their duties, which relate to the activities of the European Community and/or the European Atomic Energy Community (hereinafter referred to as the European Communities);
+
+(b) ‘historical archives of the institutions of the European Communities’, consist of that part of the archives of the institutions of the European Communities which has been selected, on the terms laid down in Article 7, for permanent preservation.
+
+3\. All documents available to the public before expiry of the period provided for in paragraph 1 shall remain available without restriction.
+
+4\. After the expiry of the 30-year period provided for in paragraph 1, access to the historical archives shall be given to any person who applies for it and agrees to abide by internal rules established for the purpose by each institution.
+
+5\. The historical archives shall be accessible in copy form. However, the institutions may release the originals of the documents or records if the user shows a special and duly substantiated interest.
+
+## Article 2
+
+1\. In the case of documents covered by the exception relating to privacy and the integrity of the individual, as defined in Article 4(1)(b) of Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents ( 3 ) and that relating to the commercial interests of a natural or legal person, including intellectual property, as defined in the first indent of Article 4(2) of Regulation No 1049/2001, the exceptions may continue to apply to all or part of a document after the 30-year period if the relevant conditions for their application are satisfied.
+
+2\. Documents covered by the exception relating to privacy and the integrity of the individual, as defined in Article 4(1)(b) of Regulation (EC) No 1049/2001, including files of staff of the European Communities, may be disclosed in accordance with Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data ( 4 ), and in particular Articles 4 and 5 thereof.
+
+3\. Before deciding to make available to the public documents which, if disclosed, could undermine the commercial interests of a natural or legal person, including intellectual property, as defined in the first indent of Article 4(2) of Regulation (EC) No 1049/2001, the institution shall inform the person concerned, in accordance with the rules to be defined by each institution, of its intention to make the documents in question accessible to the public. The documents shall not be released if, taking account of the observations of the person concerned, the institution considers that their disclosure would undermine such commercial interests, unless there is an overriding public interest in disclosure.
+
+4\. Sensitive documents within the meaning of Article 9 of Regulation (EC) No 1049/2001 shall be accessible within the limits laid down in that Article.
+
+## Article 3
+
+The public shall not have access to documents that have been classified in accordance with Article 10 of Council Regulation No 3 of 31 July 1958 implementing Article 24 of the Treaty establishing the European Atomic Energy Community ( 5 ), and have not been declassified.
+
+## Article 5
+
+For the sake of compliance with the 30-year rule provided for in Article 1(1), each institution shall in good time, and not later than the 25th year following the date of the creation of a document, examine all documents classified in accordance with the rules of the institution concerned in order to decide whether or not to declassify them. Documents not declassified at the first such examination shall be re-examined periodically and at least every five years.
+
+## Article 6
+
+Where, after the expiry of the 30-year period provided for in Article 1(1), a Member State intends to release to the public documents originating from the institutions and covered by Article 2 or Article 3, it shall consult the institution concerned in order to take a decision that does not jeopardise the attainment of the objectives of this Regulation.
+
+## Article 7
+
+Each institution shall transfer to its historical archives all documents contained in their current archives no later than 15 years after their date of creation. According to the criteria laid down by each institution pursuant to Article 9, there shall be an initial sorting process with the purpose of separating documents that are to be preserved from those that have no administrative or historical value.
+
+## Article 8
+
+1\. Each institution, other than the Court of Justice of the European Union (CJEU) and the European Central Bank (ECB), shall deposit at the European University Institute (EUI) in Florence the documents which are part of its historical archives and which it has opened to the public in accordance with this Regulation. The deposit shall take place in accordance with the Annex.
+
+Notwithstanding the first subparagraph, the depositing institutions may, for legal or administrative reasons, exclude the deposit of certain original documents at the EUI. In that case, they shall deposit a microform or digital copy of such documents.
+
+2\. Each institution shall, on request, supply the Member States and the other institutions to the extent that the Member State concerned is not the one in which the institution is situated or the institutions concerned are not situated in the same Member State, with a complete set of microform copies of its historical archives, in so far as public access to them is available under this Regulation.
+
+3\. The CJEU and the ECB may deposit their historical archives at the EUI on a voluntary basis.
+
+4\. The depositing institutions shall retain the ownership of their archives, as well as exclusive responsibility for the composition of the documents and files that are deposited at or otherwise made available to the EUI.
+
+5\. The deposit of the historical archives of the institutions at the EUI shall not affect the protection of the archives as provided for in Article 2 of Protocol No 7 on the Privileges and Immunities of the European Union, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union.
+
+6\. The EUI shall ensure the preservation and protection of deposited archives. This preservation and protection shall comply with recognised international standards for the physical protection of archives and shall at least respect the technical and security rules that correspond with those used for the preservation and management of public archives in Italy. To this end, the deposited documents shall be preserved in a purpose-built repository.
+
+7\. The EUI shall be solely responsible for the staff called on to manage the historical archives of the Union deposited at the EUI. The EUI shall ensure that the staff assigned to the management of the historical archives has the requisite professional qualifications necessary to carry out the work in this domain.
+
+8\. Each depositing institution has the right to receive information with respect to the management of its archives by the EUI and to carry out an inspection of the archives that it has deposited there.
+
+9\. The EUI shall make available to the public the historical archives that it receives pursuant to paragraphs 1 and 3. The institutions may also make available to the public a copy of the same historical archives.
+
+10\. The costs for the management of the historical archives of the Union shall be financed through contributions by all depositing institutions to the relevant budget line, within the limits of the yearly appropriations made available by the budgetary authority in compliance with Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union ( 6 ). Such financial contributions shall not cover costs related to the provision and adaptation of the buildings and repositories to house the archives and its staff.
+
+The size of the contributions referred to in the first subparagraph shall be proportionate to the size of the respective establishment plans of the depositing institutions. Each contribution shall be recalculated whenever additional institutions begin to deposit their historical archives at the EUI or at least every five years.
+
+11\. The EUI shall act as processor in accordance with Article 2 of Regulation (EC) No 45/2001, under instructions from the depositing institutions. The EUI shall process any personal data contained in the historical archives of the institutions in accordance with the guarantees set out in that Regulation.
+
+12\. The European Data Protection Supervisor shall continue to have supervisory powers over the institutions with respect to the processing of personal data contained in the historical archives deposited with the EUI.
+
+## Article 9
+
+1\. Each institution shall adopt internal rules for the application of this Regulation. These shall include rules for the preservation and opening to the public of historical archives and on the protection of personal data contained therein. Wherever possible, the institutions shall make their archives available to the public by electronic means, including digitised and born-digital archives, and facilitate their consultation on the internet. They shall also conserve documents which are available in forms meeting special needs (such as Braille, large text or recordings).
+
+2\. Each institution shall publish information annually on its historical archiving activities.
+
+3\. On behalf of the depositing institutions, the Commission shall conclude a framework partnership agreement with the EUI. That framework partnership agreement shall include detailed provisions on the mutual roles and responsibilities of the institutions and of the EUI for the management of the historical archives of the Union, including their deposit, preservation, access and public consultation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**PROVISIONS FOR THE DEPOSIT OF THE HISTORICAL ARCHIVES OF THE INSTITUTIONS AT THE EUROPEAN UNIVERSITY INSTITUTE IN FLORENCE**
+
+1\. In the case of non-digital archives, the original documents shall be deposited at the EUI for permanent preservation, together with a microform and/or digital copy thereof.
+
+In the case of digital archives, the EUI shall have permanent access to the documents in such a way as to allow it to fulfil its obligation to make the historical archives accessible to the public from a single location and to promote their consultation. The originating institutions shall remain responsible for the permanent preservation of their digital archives.
+
+2\. The deposit shall take place in annual instalments and, to the extent possible, under the normal archival processing procedures of the institutions.
+
+3\. The EUI shall not modify the archival classification established by the depositing institutions, or eliminate or alter documents or files.
+
+4\. The EUI shall return to the depositing institutions the originals of any deposited documents and files if requested by these institutions. The depositing institutions shall return the originals to the EUI as soon as they no longer need them.
+
+5\. The EUI shall immediately inform depositing institutions about any circumstances that could put at risk the inviolability of the archives that they have deposited.
+
+( 1 ) OJ No C 132, 2. 6. 1981, p. 6.
+
+( 2 ) OJ No C 327, 14. 12. 1981, p. 45.
+
+( 3 ) OJ L 145, 31.5.2001, p. 43.
+
+( 4 ) OJ L 8, 12.1.2002, p. 1.
+
+( 5 ) OJ No 17, 6.10.1958, p. 406/58.
+
+( 6 ) OJ L 298, 26.10.2012, p. 1

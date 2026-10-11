@@ -1,0 +1,543 @@
+---
+title: "Council Regulation (EC) No 168/2007 of 15 February 2007 establishing a European Union Agency for Fundamental Rights"
+identifier: "32007R0168"
+eli: "http://data.europa.eu/eli/reg/2007/168/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2007-02-15
+entry_into_force: 2007-02-11
+last_amended: 2022-04-27
+consolidated_version: "02007R0168-20220427"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007R0168-20220427"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 168/2007 of 15 February 2007 establishing a European Union Agency for Fundamental Rights
+
+**COUNCIL REGULATION (EC) No 168/2007**
+
+**of 15 February 2007**
+
+**establishing a European Union Agency for Fundamental Rights**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/555 of 5 April 2022 </td><td> L 108</td><td>1</td><td>7.4.2022</td></tr>
+</table>
+
+**COUNCIL REGULATION (EC) No 168/2007**
+
+**of 15 February 2007**
+
+**establishing a European Union Agency for Fundamental Rights**
+
+## CHAPTER 1 — SUBJECT MATTER, OBJECTIVE, SCOPE, TASKS AND AREAS OF ACTIVITY
+
+### Article 1 — Subject matter
+
+The European Union Agency for Fundamental Rights (the Agency) is hereby established.
+
+### Article 2 — Objective
+
+The objective of the Agency shall be to provide the relevant Union institutions, bodies, offices and agencies and the Member States when implementing Union law with assistance and expertise relating to fundamental rights in order to support them when they take measures or formulate courses of action within their respective spheres of competence to fully respect fundamental rights.
+
+### Article 3 — Scope
+
+1\. The Agency shall carry out its tasks for the purpose of meeting the objective set out in Article 2 within the competences of the Union.
+
+2\. In carrying out its tasks, the Agency shall refer to fundamental rights as referred to in Article 6 of the Treaty on European Union (TEU).
+
+3\. The Agency shall deal with fundamental rights issues in the Union and the Member States when implementing Union law, except for Union or Member States’ acts or activities in relation with or in the framework of the common foreign and security policy.
+
+### Article 4 — Tasks
+
+1\. To meet the objective set in Article 2 and within its competences laid down in Article 3, the Agency shall:
+
+(a) collect, record, analyse and disseminate relevant, objective, reliable and comparable information and data, including results from research and monitoring communicated to it by Member States, Union institutions, bodies, offices and agencies, research centres, national bodies, non-governmental organisations, third countries and international organisations, in particular by the competent bodies of the Council of Europe;
+
+(b) develop methods and standards to improve the comparability, objectivity and reliability of data at European level, in cooperation with the Commission and the Member States;
+
+(c) carry out, cooperate with or encourage scientific research and surveys, preparatory studies and feasibility studies, including, where appropriate and compatible with its priorities and its annual and multiannual work programmes, at the request of the European Parliament, the Council or the Commission;
+
+(d) formulate and publish conclusions and opinions on specific thematic topics, for the Union institutions and the Member States when implementing Union law, either on its own initiative or at the request of the European Parliament, the Council or the Commission;
+
+(e) publish an annual report on fundamental-rights issues covered by the areas of the Agency's activity, also highlighting examples of good practice;
+
+(f) publish thematic reports based on its analysis, research and surveys;
+
+(g) publish an annual report on its activities; and
+
+(h) develop a communication strategy and promote dialogue with civil society, in order to raise public awareness of fundamental rights and actively disseminate information about its work.
+
+2\. The conclusions, opinions and reports referred to in paragraph 1 may concern proposals from the Commission under Article 293 of the Treaty on the Functioning of the European Union (TFEU) or positions taken by the institutions in the course of legislative procedures only where a request by the respective institution has been made in accordance with paragraph 1, point (d). They shall not deal with the legality of acts within the meaning of Article 263 TFEU or with the question of whether a Member State has failed to fulfil an obligation under the Treaties within the meaning of Article 258 TFEU.
+
+3\. The Scientific Committee shall be consulted before adoption of the report referred to in paragraph 1, point (e).
+
+4\. The Agency shall submit the reports referred to in paragraph 1, points (e) and (g) no later than 15 June each year to the European Parliament, the Council, the Commission, the Court of Auditors, the European Economic and Social Committee and the Committee of the Regions.
+
+### Article 5 — Areas of activity
+
+The Agency shall carry out its tasks on the basis of its annual and multiannual work programmes, which shall be in accordance with the available financial and human resources. This shall be without prejudice to the responses of the Agency to requests from the European Parliament, the Council or the Commission under Article 4(1), points (c) and (d) outside the areas determined by the annual and multiannual work programmes, provided that its financial and human resources so permit.
+
+### Article 5a — Annual and multiannual programming
+
+1\. Each year the Director shall draw up a draft programming document, containing in particular the annual and multiannual work programmes, in accordance with Article 32 of Commission Delegated Regulation (EU) 2019/715 ( 1 ).
+
+2\. The Director shall submit the draft programming document to the Management Board. The Director shall submit the draft programming document to the European Parliament, the Council and the Commission no later than 31 January each year, as endorsed by the Management Board. In the Council, the competent preparatory body shall discuss the draft multiannual work programme and may invite the Agency to present that draft.
+
+3\. The Director shall also submit the draft programming document to the national liaison officers referred to in Article 8(1) and to the Scientific Committee no later than 31 January each year with a view to allowing the relevant Member States and the Scientific Committee to issue their opinions on the draft.
+
+4\. In light of the outcome of the discussion within the competent Council preparatory body and of the opinions received from the Commission, the Member States and the Scientific Committee, the Director shall submit the draft programming document to the Management Board for adoption. The Director shall submit the adopted programming document to the European Parliament, the Council, the Commission and the national liaison officers referred to in Article 8(1).
+
+## CHAPTER 2 — WORKING METHODS AND COOPERATION
+
+### Article 6 — Working methods
+
+1\. In order to ensure the provision of objective, reliable and comparable information, the Agency shall, drawing on the expertise of a variety of organisations and bodies in each Member State and taking account of the need to involve national authorities in the collection of data:
+
+(a) set up and coordinate information networks and use existing networks;
+
+(b) organise meetings of external experts; and
+
+(c) whenever necessary, set up ad hoc working parties.
+
+2\. In pursuing its activities, the Agency shall, in order to achieve complementarity and guarantee the best possible use of resources, take account, where appropriate, of information collected and of activities undertaken, in particular by:
+
+(a) union institutions, bodies, offices and agencies, as well as the bodies, offices and agencies of the Member States;
+
+(b) the Council of Europe, by referring to the findings and activities of the Council of Europe's monitoring and control mechanisms and of the Council of Europe Commissioner for Human Rights; and
+
+(c) the Organisation for Security and Cooperation in Europe (OSCE), the United Nations and other international organisations.
+
+3\. The Agency may enter into contractual relations, in particular subcontracting arrangements, with other organisations, in order to accomplish any tasks which it may entrust to them. The Agency may also award grants to promote appropriate cooperation and joint ventures, in particular to national and international organisations as referred to in Articles 8 and 9.
+
+### Article 7 — Relations with relevant Union bodies, offices and agencies
+
+The Agency shall ensure appropriate coordination with relevant Union bodies, offices and agencies. The terms of cooperation shall be laid down in memoranda of understanding where appropriate.
+
+### Article 8 — Cooperation with organisations at Member State and international level
+
+1\. Each Member State shall nominate a government official as a national liaison officer.
+
+The national liaison officer shall be the main contact point for the Agency in the Member State.
+
+The Agency and the national liaison officers shall work together in a spirit of mutual and close cooperation.
+
+The Agency shall communicate to the national liaison officers all documents drawn up in accordance with Article 4(1).
+
+2\. To help it carry out its tasks, the Agency shall cooperate with:
+
+(a) governmental organisations and public bodies competent in the field of fundamental rights in the Member States, including national human rights institutions; and
+
+(b) the Organisation for Security and Cooperation in Europe (OSCE), especially the Office for Democratic Institutions and Human Rights (ODIHR), the United Nations and other international organisations.
+
+3\. The administrative arrangements for cooperation pursuant to paragraph 2 shall comply with Union law and shall be adopted by the Management Board on the basis of the draft submitted by the Director after the Commission has delivered an opinion. Where the Commission expresses its disagreement with those arrangements the Management Board shall re-examine and adopt them, with amendments where necessary, by a two-thirds majority of all members.
+
+### Article 9 — Cooperation with the Council of Europe
+
+In order to avoid duplication and in order to ensure complementarity and added value, the Agency shall coordinate its activities with those of the Council of Europe, particularly with regard to its annual and multiannual work programmes and cooperation with civil society in accordance with Article 10.
+
+To that end, the Union shall, in accordance with the procedure provided for in Article 218 TFEU, enter into an agreement with the Council of Europe for the purpose of establishing close cooperation between the latter and the Agency. That agreement shall include the appointment of an independent person by the Council of Europe to sit on the Agency’s Management Board and on its Executive Board, in accordance with Articles 12 and 13.
+
+### Article 10 — Cooperation with civil society; Fundamental Rights Platform
+
+1\. The Agency shall closely cooperate with non-governmental organisations and with institutions of civil society, active in the field of fundamental rights including the combating of racism and xenophobia at national, European or international level. To that end, the Agency shall establish a cooperation network (Fundamental Rights Platform), composed of non-governmental organisations dealing with human rights, trade unions and employer's organisations, relevant social and professional organisations, churches, religious, philosophical and non-confessional organisations, universities and other qualified experts of European and international bodies and organisations.
+
+2\. The Fundamental Rights Platform shall constitute a mechanism for the exchange of information and pooling of knowledge. It shall ensure close cooperation between the Agency and relevant stakeholders.
+
+3\. The Fundamental Rights Platform shall be open to all interested and qualified stakeholders in accordance with paragraph 1. The Agency may address the members of the Fundamental Rights Platform in accordance with specific needs related to areas identified as a priority for the Agency's work.
+
+4\. The Agency shall call upon the Fundamental Rights Platform in particular, to:
+
+(a) make suggestions to the Management Board on the annual and multiannual work programmes to be adopted pursuant to Article 5a;
+
+(b) give feedback and suggest follow-up to the Management Board on the annual report provided for in Article 4(1)(e); and
+
+(c) communicate outcomes and recommendations of conferences, seminars and meetings relevant to the work of the Agency to the Director and the Scientific Committee.
+
+5\. The Fundamental Rights Platform shall be coordinated under the authority of the Director.
+
+## CHAPTER 3 — ORGANISATION
+
+### Article 11 — Bodies of the Agency
+
+The Agency shall comprise:
+
+(a) a Management Board;
+
+(b) an Executive Board;
+
+(c) a Scientific Committee; and
+
+(d) a Director.
+
+### Article 12 — Management Board
+
+1\. The Management Board shall be composed of persons with sound knowledge in the field of fundamental rights and with appropriate experience in the management of public or private sector organisations, including administrative and budgetary skills, as follows:
+
+(a) one independent person appointed by each Member State, having high level responsibilities in an independent national human rights institution or other public or private sector organisation;
+
+(b) one independent person appointed by the Council of Europe; and
+
+(c) two representatives of the Commission.
+
+The Member States, the Commission and the Council of Europe shall endeavour to achieve an equal representation of women and men on the Management Board.
+
+2\. Each member of the Management Board may be represented by an alternate member meeting the above requirements and appointed by the same procedure. The list of the members and alternate members of the Board shall be made public and shall be updated by the Agency on its web site.
+
+3\. The term of office of the members and alternate members of the Management Board shall be five years. A former member or alternate member may be reappointed for one more non-consecutive term.
+
+4\. Apart from normal replacement or death, the term of office of the member or the alternate member shall end only when he or she resigns. However, where a member or an alternate member no longer meets the criteria of independence, he or she shall resign forthwith and shall notify the Commission and the Director. In those cases apart from normal replacement, the party concerned shall appoint a new member or a new alternate member for the remaining term of office. The party concerned shall also appoint a new member or a new alternate member for the remaining term of office if the Management Board has established, based on a proposal of one third of its members or of the Commission, that the respective member or alternate member no longer meets the criteria of independence. Where the remaining term of office is less than two years, the term of office of the new member or alternate member may be extended to a full term of five years.
+
+5\. The Management Board shall elect its Chairperson and Vice-Chairperson and the other two members of the Executive Board referred to in Article 13(1) from its members appointed pursuant to paragraph 1, point (a) of this Article to serve for a two-and-a-half year term, which may be renewed once.
+
+The Management Board’s Chairperson and Vice-Chairperson shall be elected by a majority of two thirds of the members of the Management Board referred to in paragraph 1, points (a) and (c) of this Article. The other two members of the Executive Board referred to in Article 13(1) shall be elected by a majority of the members of the Management Board referred to in paragraph 1, points (a) and (c) of this Article.
+
+6\. The Management Board shall ensure that the Agency performs the tasks entrusted to it. It shall be the Agency's planning and monitoring body. In particular, it shall:
+
+(a) adopt the Agency’s annual and multiannual work programmes;
+
+(b) adopt the annual reports referred to in Article 4(1), points (e) and (g), comparing, in the latter one, in particular, the results achieved with the objectives of the annual and multiannual work programmes;
+
+(c) appoint and, if necessary, dismiss the Agency's Director;
+
+(d) adopt the Agency's annual draft and final budgets;
+
+(e) in accordance with paragraphs 7a and 7b of this Article, exercise, with respect to the staff of the Agency, the powers conferred by the Staff Regulations of Officials of the European Union (the ‘Staff Regulations’) and by the Conditions of Employment of Other Servants of the Union (the ‘Conditions of Employment’) laid down in Council Regulation (EEC, Euratom, ECSC) No 259/68 ( 2 ) on the appointing authority and on the authority empowered to conclude a contract of employment, respectively (‘the appointing authority powers’);
+
+(f) draw up an annual estimate of expenditure and revenue for the Agency and send it to the Commission, in accordance with Article 20(5);
+
+(g) adopt the Agency's rules of procedure on the basis of the draft submitted by the Director after the Commission, the Scientific Committee and the person mentioned in paragraph 1(b) have delivered an opinion;
+
+(h) adopt the financial rules applicable to the Agency on the basis of the draft submitted by the Director after the Commission has delivered an opinion, in accordance with Article 21(11);
+
+(i) adopt the implementing rules for giving effect to the Staff Regulations and the Conditions of Employment, in accordance with Article 110(2) of the Staff Regulations;
+
+(j) adopt the arrangements on transparency and access to documents in accordance with Article 17(2);
+
+(k) appoint and revoke the members of the Scientific Committee in accordance with Article 14(1) and (3);
+
+(l) establish that a member or an alternate member of the Management Board no longer meets the criteria of independence, in accordance with paragraph 4;
+
+(m) adopt a security strategy, including rules on the exchange of EU classified information;
+
+(n) adopt rules for the prevention and management of conflicts of interest in respect of its members as well as of the Scientific Committee; and
+
+(o) adopt and regularly update the communication strategy referred to in Article 4(1), point (h).
+
+7\. The Management Board may delegate its responsibilities to the Executive Board except for matters referred to in points (a), (b), (c), (d), (e), (g), (h), (k) and (l) of paragraph 6.
+
+7a. The Management Board shall adopt, in accordance with Article 110(2) of the Staff Regulations, a decision based on Article 2(1) of the Staff Regulations and on Article 6 of the Conditions of Employment, delegating relevant appointing authority powers to the Director and defining the conditions under which that delegation of powers can be suspended. The Director shall be authorised to sub-delegate those powers.
+
+7b. Where exceptional circumstances so require, the Management Board may by way of a decision temporarily suspend the delegation of the appointing authority powers to the Director and those sub-delegated by the Director and exercise them itself or delegate them to one of its members or to a staff member other than the Director.
+
+8\. As a general rule, decisions by the Management Board shall be taken by a majority of all members.
+
+Decisions referred to in paragraph 6, points (a) to (e), (g), (k) and (l) shall be taken by a two-thirds majority of all members.
+
+Decisions referred to in Article 25(2) shall be taken by unanimity.
+
+Each member of the Management Board, or in his or her absence his or her alternate, shall have one vote. The Chairperson shall have the casting vote.
+
+The person appointed by the Council of Europe may vote only on decisions referred to in paragraph 6, points (a), (b) and (k).
+
+9\. The Chairperson shall convene the Management Board twice a year, without prejudice to extraordinary meetings. The Chairperson shall convene extraordinary meetings on his or her own initiative or at the request of the Commission or of at least one third of the members of the Management Board.
+
+10\. The Chairperson or Vice-Chairperson of the Scientific Committee and the Director of the European Institute for Gender Equality may attend meetings of the Management Board as observers. The Directors of other relevant Union agencies and bodies as well as of other international bodies mentioned in Articles 8 and 9 may also attend as observers when invited to do so by the Executive Board.
+
+### Article 13 — Executive Board
+
+1\. The Management Board shall be assisted by an Executive Board. The Executive Board shall supervise the necessary preparatory work for the decisions to be adopted by the Management Board. In particular, it shall scrutinise budgetary and human resources matters.
+
+2\. The Executive Board shall also:
+
+(a) review the Agency’s programming document referred to in Article 5a, based on a draft prepared by the Director, and submit it to the Management Board for adoption;
+
+(b) review the Agency’s draft annual budget and submit it to the Management Board for adoption;
+
+(c) review the draft annual report on the Agency’s activities and submit it to the Management Board for adoption;
+
+(d) adopt an anti-fraud strategy for the Agency, proportionate to the fraud risks, taking into account the costs and benefits of the measures to be implemented and based on a draft prepared by the Director;
+
+(e) ensure adequate follow-up to the findings and recommendations stemming from the internal or external audit reports and evaluations, as well as from investigations of the European Anti-Fraud Office (OLAF) or of the European Public Prosecutor’s Office (EPPO);
+
+(f) without prejudice to the responsibilities of the Director set out in Article 15(4), assist and advise him or her in the implementation of the decisions of the Management Board with a view to reinforcing the supervision of administrative and budgetary management.
+
+3\. Where necessary, for reasons of urgency, the Executive Board may take provisional decisions on behalf of the Management Board, including on the suspension of the delegation of the appointing authority powers in accordance with the conditions referred to in Article 12(7a) and (7b) and on budgetary matters.
+
+4\. The Executive Board shall be composed of the Chairperson and the Vice-Chairperson of the Management Board, two other members of the Management Board elected by the Management Board in accordance with Article 12(5) and one of the representatives of the Commission in the Management Board.
+
+The person appointed by the Council of Europe in the Management Board may participate in the meetings of the Executive Board.
+
+5\. The Executive Board shall be convened by the Chairperson. It may also be convened at the request of one of its members. It shall adopt its decisions by a majority of its members present. The person appointed by the Council of Europe may vote on items related to the decisions on which that person has a right to vote in the Management Board in accordance with Article 12(8).
+
+6\. The Director shall take part in the meetings of the Executive Board, without voting rights.
+
+### Article 14 — Scientific Committee
+
+1\. The Scientific Committee shall be composed of 11 independent persons, highly qualified in the field of fundamental rights, with adequate competences in scientific quality and research methodologies. The Management Board shall appoint the 11 members and approve a reserve list established by order of merit following a transparent call for applications and selection procedure and after having consulted the competent committee of the European Parliament. The Management Board shall ensure even geographical representation and shall endeavour to achieve an equal representation of women and men on the Scientific Committee. The members of the Management Board shall not be members of the Scientific Committee. The rules of procedure referred to in Article 12(6), point (g) shall lay down the detailed conditions governing the appointment of the Scientific Committee.
+
+2\. The term of office of the members of the Scientific Committee shall be five years. It shall not be renewable.
+
+3\. The members of the Scientific Committee shall be independent. They may be replaced only at their own request or in the event of their being permanently prevented from fulfilling their duties. However, where a member no longer meets the criteria of independence, he or she shall resign forthwith and shall notify the Commission and the Director. Alternatively, the Management Board may declare, on a proposal of one third of its members or of the Commission, a lack of independence and revoke the appointment of the person concerned. The Management Board shall appoint the first available person in line on the reserve list for the remaining term of office. Where the remaining term of office is less than two years, the term of office of the new member may be extended to a full term of five years. The list of members of the Scientific Committee shall be made public and shall be updated by the Agency on its website.
+
+4\. The Scientific Committee shall elect its Chairperson and Vice-Chairperson for a term of office of one year.
+
+5\. The Scientific Committee shall be the guarantor of the scientific quality of the Agency's work, guiding the work to that effect. For that purpose, the Director shall involve the Scientific Committee as early as appropriate in the preparation of all documents drawn up in accordance with Article 4(1) (a), (b), (c), (d), (e), (f), and (h).
+
+The Scientific Committee shall in particular advise the Director and the Agency on the scientific research methodology applied in the Agency’s work.
+
+6\. The Scientific Committee shall pronounce itself by two thirds majority. It shall be convened by its Chairperson four times per year. If necessary, the Chairperson shall launch a written procedure or shall convene extraordinary meetings on his or her own initiative or at the request of at least four members of the Scientific Committee.
+
+### Article 15 — Director
+
+1\. The Agency shall be headed by a Director appointed by the Management Board in accordance with a cooperation (concertation) procedure provided for in paragraph 2.
+
+The Director shall be appointed on the basis of his or her personal merit, experience in the field of fundamental rights and administrative and management skills.
+
+2\. This cooperation procedure shall be as follows:
+
+(a) on the basis of a list drawn up by the Commission after a call for candidates and a transparent selection procedure, applicants will be asked before an appointment is made to address the Council and the competent European Parliament Committee and to reply to questions;
+
+(b) the European Parliament and the Council of the European Union will then give their opinions and state their orders of preference;
+
+(c) the Management Board will appoint the Director taking these opinions into account.
+
+3\. The Director’s term of office shall be five years.
+
+In the course of the 12 months preceding the end of that five-year period, the Commission shall carry out an evaluation in order to assess in particular:
+
+(a) the performance of the Director;
+
+(b) the Agency’s duties and requirements in the coming years.
+
+The Management Board, acting on a proposal from the Commission, taking into account the evaluation, may extend the term of office of the Director once for no more than five years.
+
+The Management Board shall inform the European Parliament and the Council about its intention to extend the Director’s term of office. Within a period of one month before the Management Board formally takes its decision to extend that term of office, the Director may be asked to make a declaration before the competent committee of the European Parliament and to answer questions from its members.
+
+If his or her term of office is not extended, the Director shall remain in office until the appointment of his or her successor.
+
+4\. The Director shall be responsible for:
+
+(a) the performance of the tasks referred to in Article 4 and in particular the preparation and publication of the documents drawn up in accordance with Article 4(1), points (a) to (h) in cooperation with the Scientific Committee;
+
+(b) the preparation and implementation of the Agency’s programming document referred to in Article 5a;
+
+(c) matters of day-to-day administration;
+
+(d) the implementation of decisions adopted by the Management Board;
+
+(e) the implementation of the Agency’s budget, in accordance with Article 21;
+
+(f) the implementation of effective monitoring and evaluation procedures relating to the performance of the Agency against its objectives in accordance with professionally recognised standards and performance indicators;
+
+(g) the preparation of an action plan to follow up on the conclusions of retrospective evaluations assessing the performance of programmes and activities that entail significant spending, in accordance with Article 29 of Delegated Regulation (EU) 2019/715;
+
+(h) reporting annually to the Management Board on the results of the monitoring and evaluation system;
+
+(i) the preparation of an anti-fraud strategy for the Agency and its presentation to the Executive Board for approval;
+
+(j) the preparation of an action plan to follow up on the conclusions of internal or external audit reports and evaluations, as well as investigations by OLAF and reporting on progress to the Commission and the Management Board;
+
+(k) cooperation with national liaison officers;
+
+(l) cooperation with civil society, including coordination of the Fundamental Rights Platform in accordance with Article 10.
+
+5\. The Director shall perform his/her tasks independently. He or she shall be accountable for the management of his/her activities to the Management Board and shall participate in its meetings without voting rights.
+
+6\. The Director may be called upon at any time by the European Parliament or by the Council to attend a hearing on any matter linked to the Agency's activities.
+
+7\. The Director may be dismissed before his or her term has expired by the decision of the Management Board, on the basis of a proposal of two thirds of its members or of the Commission, in the event of misconduct, unsatisfactory performance or recurring or serious irregularities.
+
+## CHAPTER 4 — OPERATION
+
+### Article 16 — Independence and public interests
+
+1\. The Agency shall fulfil its tasks in complete independence.
+
+2\. The members and alternate members of the Management Board, the members of the Scientific Committee and the Director shall undertake to act in the public interest. For this purpose, they shall make a statement of interests indicating either the absence of any interests which might be considered prejudicial to their independence or any direct or indirect interests which might be considered prejudicial to their independence. The statement shall be made in writing when taking office and shall be revised if changes occur with regard to the interests. It shall be published by the Agency on its website.
+
+### Article 17 — Transparency and access to documents
+
+1\. The Agency shall develop good administrative practices in order to ensure the highest possible level of transparency concerning its activities.
+
+Regulation (EC) No 1049/2001 shall apply to documents held by the Agency.
+
+2\. The Management Board shall, within six months of the commencement of the Agency's operation, adopt specific rules for the practical implementation of paragraph 1. These shall include, inter alia, rules on:
+
+(a) openness of meetings;
+
+(b) publication of the work of the agency, including the work of the Scientific Committee; and
+
+(c) arrangements to implement Regulation (EC) No 1049/2001.
+
+3\. Where the Agency takes decisions under Article 8 of Regulation (EC) No 1049/2001, a complaint may be lodged with the Ombudsman or an action may be brought in the Court of Justice of the European Union (Court of Justice), as provided for in Articles 228 and 263 TFEU respectively.
+
+### Article 18 — Data protection
+
+Regulation (EC) No 45/2001 shall apply to the Agency.
+
+### Article 19 — Review by the Ombudsman
+
+The operations of the Agency shall be subject to the supervision of the Ombudsman in accordance with Article 228 TFEU.
+
+## CHAPTER 5 — FINANCIAL PROVISIONS
+
+### Article 20 — Drawing up of the budget
+
+1\. Estimates of all the revenue and expenditure of the Agency shall be prepared for each financial year, corresponding to the calendar year, and shall be shown in the budget of the Agency.
+
+2\. The revenue and expenditure shown in the budget of the Agency shall be in balance.
+
+3\. The revenue of the Agency shall, without prejudice to other resources, comprise a subsidy from the Union, entered in the general budget of the Union (Commission section).
+
+This revenue may be complemented by:
+
+(a) payments received for services rendered in the framework of the implementation of tasks listed in Article 4; and
+
+(b) financial contributions from the organisations or countries referred to in Articles 8, 9 and 28.
+
+4\. The expenditure of the Agency shall include staff remuneration, administrative and infrastructure costs and operating expenses.
+
+5\. Each year the Management Board, on the basis of a draft drawn up by the Director, shall produce an estimate of revenue and expenditure for the Agency for the following financial year. This estimate, which shall include a draft establishment plan, shall be transmitted by the Management Board to the Commission by 31 March at the latest.
+
+6\. The estimate shall be transmitted by the Commission to the European Parliament and the Council (hereinafter the budgetary authority) together with the preliminary draft budget of the European Union.
+
+7\. On the basis of the estimate, the Commission shall enter in the preliminary draft general budget of the Union the estimates it considers necessary for the establishment plan and the amount of the subsidy to be charged to the general budget, which it shall place before the budgetary authority in accordance with Article 314 TFEU.
+
+8\. The budgetary authority shall authorise the appropriations for the subsidy to the Agency. The budgetary authority shall adopt the Agency's establishment plan.
+
+9\. The Agency's budget shall be adopted by the Management Board. It shall become final following the adoption of the general budget of the European Union. Where appropriate, it shall be adjusted accordingly.
+
+10\. The Management Board shall, as soon as possible, notify the budgetary authority of its intention to implement any project which may have significant financial implications for the funding of the Agency's budget, in particular any projects relating to property such as the rental or purchase of buildings. It shall inform the Commission thereof.
+
+Where a branch of the budgetary authority has notified its intention to deliver an opinion, it shall forward its opinion to the Management Board within six weeks from the date of notification of the project.
+
+### Article 21 — Implementation of the budget
+
+1\. The Director shall implement the Agency's budget.
+
+2\. By 1 March at the latest following each financial year, the Agency's accounting officer shall communicate the provisional accounts to the Commission's accounting officer, together with a report on the budgetary and financial management for that financial year. The Commission's accounting officer shall consolidate the provisional accounts of the institutions and decentralised bodies in accordance with Article 128 of Council Regulation (EC, Euratom) No 1605/2002 ( 3 ) (the Financial Regulation).
+
+3\. Not later than 31 March following each financial year, the Commission's accounting officer shall transmit the Agency's provisional accounts to the Court of Auditors, together with a report on the budgetary and financial management for that financial year. The report on the budgetary and financial management for that financial year shall also be transmitted to the European Parliament and the Council.
+
+4\. On receipt of the Court of Auditors' observations on the Agency's provisional accounts, pursuant to Article 129 of the Financial Regulation, the Director shall draw up the Agency's final accounts under his own responsibility and forward them to the Management Board for an opinion.
+
+5\. The Management Board shall deliver an opinion on the Agency's final accounts.
+
+6\. The Director shall, not later than 1 July following each financial year, transmit the final accounts to the European Parliament, the Council, the Commission and the Court of Auditors, together with the Management Board's opinion.
+
+7\. The final accounts shall be published.
+
+8\. The Director shall send the Court of Auditors a reply to its observations not later than 30 September. He/she shall also send this reply to the Management Board.
+
+9\. The Director shall submit to the European Parliament, at the latter's request, any information required for the smooth application of the discharge procedure for the financial year in question, as laid down in Article 146(3) of the Financial Regulation.
+
+10\. The European Parliament, on a recommendation from the Council acting by a qualified majority, shall, before 30 April of year N + 2, give a discharge to the Director in respect of the implementation of the budget for year N.
+
+11\. The financial rules applicable to the Agency shall be adopted by the Management Board after the Commission has been consulted. They may not depart from Regulation (EC, Euratom) No 2343/2002, unless specifically required for the Agency's operation and with the Commission's prior consent.
+
+### Article 22 — Combating fraud
+
+1\. In order to combat fraud, corruption and other unlawful activities, the provisions of Regulation (EC) No 1073/1999 shall apply without restrictions to the Agency.
+
+2\. The Agency shall accede to the Inter-institutional Agreement of 25 May 1999 between the European Parliament, the Council of the European Union and the Commission of the European Communities concerning internal investigations by the European Anti-fraud Office (OLAF) ( 4 ) and shall issue, without delay, the appropriate provisions applicable to its entire staff.
+
+3\. The decisions concerning funding and the implementing agreements and instruments resulting from them shall explicitly stipulate that the Court of Auditors and OLAF may carry out, if necessary, on-the-spot checks on the recipients of the Agency's funding and the staff responsible for allocating it.
+
+## CHAPTER 6 — GENERAL PROVISIONS
+
+### Article 23 — Legal status and location
+
+1\. The Agency shall have legal personality.
+
+2\. In each of the Member States, the Agency shall enjoy the most extensive legal capacity accorded to legal persons under their laws. In particular it may acquire and dispose of movable and immovable property and may be a party to legal proceedings.
+
+3\. The Agency shall be represented by its Director.
+
+4\. The Agency shall legally succeed the European Monitoring Centre on Racism and Xenophobia. It shall assume all the legal rights and obligations, financial commitments or liabilities of the Centre. Employment contracts concluded by the Centre before the adoption of this Regulation shall be honoured.
+
+5\. The seat of the Agency shall be Vienna.
+
+### Article 24 — Staff
+
+1\. The Staff Regulations and the Conditions of Employment and the rules adopted jointly by the Union institutions for the purpose of applying the Staff Regulations and the Conditions of Employment shall apply to the staff of the Agency and its Director.
+
+2\. The Management Board may adopt provisions to allow national experts from Member States to be employed on secondment at the Agency.
+
+### Article 25 — Language arrangements
+
+1\. The provisions of Regulation No 1 of 15 April 1958 shall apply to the Agency.
+
+2\. The Management Board shall decide on the internal language arrangements for the Agency.
+
+3\. The translation services required for the functioning of the Agency shall be provided by the Translation Centre for the Bodies of the European Union.
+
+### Article 26 — Privileges and immunities
+
+Protocol No 7 on the Privileges and Immunities of the European Union, annexed to the TEU and to the TFEU, shall apply to the Agency.
+
+### Article 27 — Jurisdiction of the Court of Justice
+
+1\. The contractual liability of the Agency shall be governed by the law applicable to the contract in question.
+
+The Court of Justice shall have jurisdiction pursuant to an arbitration clause contained in a contract concluded by the Agency.
+
+2\. In the case of non-contractual liability, the Agency shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by the Agency or its servants in the performance of their duties.
+
+The Court of Justice shall have jurisdiction in disputes relating to compensation for any such damage.
+
+3\. The Court of Justice shall have jurisdiction in actions brought against the Agency under the conditions provided for in Articles 263 and 265 TFEU.
+
+### Article 28 — Participation and scope in respect of candidate countries and countries with which a Stabilisation and Association Agreement has been concluded
+
+1\. The Agency shall be open to the participation of candidate countries as observers.
+
+2\. The participation referred to in paragraph 1 and the relevant modalities shall be determined by a decision of the relevant Association Council, taking into account the specific status of each country. The decision shall indicate in particular the nature, extent and manner in which those countries will participate in the Agency’s work, within the framework set in Articles 4 and 5, including provisions relating to participation in initiatives undertaken by the Agency, to the financial contribution and to staff. The decision shall comply with this Regulation and with the Staff Regulations and the Conditions of Employment. The decision shall provide that the participating country may appoint an independent person fulfilling the qualifications for persons referred to in Article 12(1), point (a) as observer to the Management Board without a right to vote. Upon the decision of the Association Council the Agency may deal with fundamental rights issues within the scope of Article 3(1) in the relevant country, to the extent necessary for the gradual alignment to Union law of the country concerned.
+
+3\. The Council, acting unanimously on a proposal by the Commission, may decide to invite a country with which a Stabilisation and Association Agreement has been concluded by the Union to participate in the Agency as an observer. If it does so, paragraph 2 shall apply accordingly.
+
+## CHAPTER 7 — FINAL PROVISIONS
+
+### Article 30 — Evaluations and review
+
+1\. The Agency shall regularly carry out ex ante and ex post evaluations of its activities when these necessitate significant expenditure. The Director shall notify the Management Board of the results of these evaluations.
+
+2\. The Agency shall forward annually to the budgetary authority any information relevant to the outcome of the evaluation procedures.
+
+3\. By 28 April 2027, and every five years thereafter, the Commission shall commission an evaluation to assess in particular the impact, effectiveness and efficiency of the Agency and its working practices. The evaluation shall take into account the views of the Management Board and other stakeholders at both Union and national levels.
+
+4\. On the occasion of every second evaluation as referred to in paragraph 3, there shall also be an assessment of the results achieved by the Agency having regard to its objectives, mandate and tasks. The evaluation may, in particular, address the possible need to modify the mandate of the Agency, and the financial implications of any such modifications.
+
+5\. The Commission shall submit the conclusions of the evaluation referred to in paragraph 3 to the Management Board. The Management Board shall examine the conclusions of the evaluation and issue to the Commission such recommendations as may be necessary regarding changes in the Agency, its working practices and the scope of its mission.
+
+6\. The Commission shall report to the European Parliament and the Council on the findings of the evaluation referred to in paragraph 3 and the recommendations of the Management Board referred to in paragraph 5. The findings of that evaluation and those recommendations shall be made public.
+
+### Article 32 — Commencement of the Agency’s operation
+
+The Agency shall become operational by 1 March 2007.
+
+### Article 33 — Repeal
+
+1\. Regulation (EC) No 1035/97 is hereby repealed with effect from 1 March 2007.
+
+2\. References to the repealed Regulation shall be construed as references to this Regulation.
+
+### Article 34 — Entry into force and application
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply with effect from 1 March 2007.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Commission Delegated Regulation (EU) 2019/715 of 18 December 2018 on the framework financial regulation for the bodies set up under the TFEU and Euratom Treaty and referred to in Article 70 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council (OJ L 122, 10.5.2019, p. 1).
+
+( 2 ) OJ L 56, 4.3.1968, p. 1.
+
+( 3 ) OJ L 248, 16.9.2002, p. 1. Regulation as last amended by Regulation (EC, Euratom) No 1995/2006 (OJ L 390, 30.12.2006, p. 1).
+
+( 4 ) OJ L 136, 31.5.1999, p. 15.

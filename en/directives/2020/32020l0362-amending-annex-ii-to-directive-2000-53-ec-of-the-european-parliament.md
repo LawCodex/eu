@@ -79,6 +79,7 @@ Ursula VON DER LEYEN
 
 In Annex II to Directive 2000/53/EC, entry 14 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘14. Hexavalent chromium as an anti-corrosion agent of the carbon steel cooling system in absorption refrigerators up to 0,75 % by weight in the cooling solution:<table><tbody><tr><td>(i)</td><td>designed to operate fully or partly with electrical heater, having an average utilised electrical power input &lt; 75W at constant running conditions;</td></tr>
 </tbody>
 </table>
@@ -90,3 +91,4 @@ In Annex II to Directive 2000/53/EC, entry 14 is replaced by the following:
 </table>
 </td><td>Vehicles type approved before 1 January 2020 and spare parts for these vehicles Vehicles type approved before 1 January 2026 and spare parts for these vehicles </td><td>X’</td></tr>
 </tbody>
+</table>

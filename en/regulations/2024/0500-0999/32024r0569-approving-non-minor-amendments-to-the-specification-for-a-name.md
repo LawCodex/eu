@@ -1,0 +1,70 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/569 of 7 February 2024 approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications [Cecina de León (PGI)]"
+identifier: "32024R0569"
+eli: "http://data.europa.eu/eli/reg_impl/2024/569/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-02-07
+entry_into_force: 2024-12-16
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0569"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/569 of 7 February 2024 approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications [Cecina de León (PGI)]
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/569**
+
+**of 7 February 2024**
+
+**approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications [‘Cecina de León’ (PGI)]**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs (1), and in particular Article 52(2) thereof,
+
+Whereas:
+
+(1) Pursuant to the first subparagraph of Article 53(1) of Regulation (EU) No 1151/2012, the Commission examined Spain’s application for the approval of amendments to the specification for the protected geographical indication ‘Cecina de León’, registered under Commission Regulation (EC) No 1107/96 (2) as amended by Implementing Regulation (EU) No 1184/2012 (3).
+
+(2) Since the amendments in question are not minor within the meaning of Article 53(2) of Regulation (EU) No 1151/2012, the Commission published the amendment application in the Official Journal of the European Union (4) as required by Article 50(2)(a) of that Regulation.
+
+(3) As no statement of opposition under Article 51 of Regulation (EU) No 1151/2012 has been received by the Commission, the amendments to the specification should be approved,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The amendments to the specification published in the Official Journal of the European Union regarding the name ‘Cecina de León’ (PGI) are hereby approved.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 7 February 2024.
+
+For the Commission,
+
+On behalf of the President,
+
+Janusz WOJCIECHOWSKI
+
+Member of the Commission
+
+(1) OJ L 343, 14.12.2012, p. 1.
+
+(2) Commission Regulation (EC) No 1107/96 of 12 June 1996 on the registration of geographical indications and designations of origin under the procedure laid down in Article 17 of Council Regulation (EEC) No 2081/92 (OJ L 148, 21.6.1996, p. 1).
+
+(3) Commission Implementing Regulation (EU) No 1184/2012 of 7 December 2012 approving non-minor amendments to the specification for a name entered in the register of protected designations of origin and protected geographical indications (Cecina de León (PGI)) (OJ L 338, 12.12.2012, p. 16).
+
+(4) OJ C 322, 12.9.2023, p. 3.
+
+ELI: http://data.europa.eu/eli/reg_impl/2024/569/oj
+
+ISSN 1977-0677 (electronic edition)

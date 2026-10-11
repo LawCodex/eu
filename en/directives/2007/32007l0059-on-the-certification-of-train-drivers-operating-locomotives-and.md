@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **on the certification of train drivers operating locomotives and trains on the railway system in the Community**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2014/82/EU of 24 June 2014 </td><td> L 184</td><td>11</td><td>25.6.2014</td></tr>
 <tr><td> M2</td><td> COMMISSION DIRECTIVE (EU) 2016/882 of 1 June 2016 </td><td> L 146</td><td>22</td><td>3.6.2016</td></tr>
 <tr><td></td><td> COMMISSION REGULATION (EU) 2019/554 of 5 April 2019 </td><td> L 97</td><td>1</td><td>8.4.2019</td></tr>
+</table>
 
 **DIRECTIVE 2007/59/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

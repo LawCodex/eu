@@ -1,0 +1,183 @@
+---
+title: "Commission Regulation (EC) No 1480/2004 of 10 August 2004 laying down specific rules concerning goods arriving from the areas not under the effective control of the Government of Cyprus in the areas in which the Government exercises effective control"
+identifier: "32004R1480"
+eli: "http://data.europa.eu/eli/reg/2004/1480/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-08-10
+entry_into_force: 2004-12-28
+last_amended: 2023-03-06
+consolidated_version: "02004R1480-20230306"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R1480-20230306"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1480/2004 of 10 August 2004 laying down specific rules concerning goods arriving from the areas not under the effective control of the Government of Cyprus in the areas in which the Government exercises effective control
+
+**COMMISSION REGULATION (EC) No 1480/2004**
+
+**of 10 August 2004**
+
+**laying down specific rules concerning goods arriving from the areas not under the effective control of the Government of Cyprus in the areas in which the Government exercises effective control**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 531/2011 of 31 May 2011 </td><td> L 146</td><td>4</td><td>1.6.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/1166 of 6 July 2022 </td><td> L 181</td><td>11</td><td>7.7.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/455 of 2 March 2023 </td><td> L 67</td><td>41</td><td>3.3.2023</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 1480/2004**
+
+**of 10 August 2004**
+
+**laying down specific rules concerning goods arriving from the areas not under the effective control of the Government of Cyprus in the areas in which the Government exercises effective control**
+
+## Article 1 — Rules of origin
+
+The origin of any product to which this Regulation applies shall be determined in accordance with the provisions in force in the Community.
+
+## Article 2 — Accompanying document
+
+1\. The accompanying document referred to in Article 4(5) of Council Regulation (EC) No 866/2004 shall fulfil the following conditions:
+
+1\. it shall contain all the particulars necessary for identifying the goods to which it relates, in particular:
+
+(a) a description of the goods;
+
+(b) the item number, marks and numbers of goods, if any;
+
+(c) the number and kind of packages;
+
+(d) the volume and value of the goods;
+
+(e) the name and the address of the producer of the goods;
+
+(f) the name and the address of the consignor and the consignee;
+
+2\. it shall ensure the compliance with the rules of origin referred to in Article 1 and certify unambiguously that the goods to which it relates originate in the areas as defined in Article 1(1) of Protocol No 10 of the 2003 Act of Accession; for that purpose, before issuing such a document, the Turkish Cypriot Chamber of Commerce or any other authorised body shall carry out controls as necessary to ascertain that the specifications given by the producer and the consignor are accurate. Such controls shall include at least one verification at the producer's premises.
+
+The accompanying document shall be made out on forms corresponding to the specimen given in Annex I.
+
+2\. Operators requesting an accompanying document shall submit a written application to the issuing bodies referred to above. This application shall contain the following information:
+
+1\. a statement by the producer by which he
+
+(a) declares that the goods concerned originate in the areas as defined in Article 1(1) of Protocol No 10 of the Act of Accession 2003;
+
+(b) undertakes to keep available for control purposes for a time period of at least three years from the date of application all accounts concerning the production (including the purchase of raw materials) and the sale of the goods and to accept that controls can be made at any reasonable time by the bodies mentioned in paragraph 1 or by the Commission services;
+
+2\. a statement by the consignor concerning the destination of the goods.
+
+The application form shall be made out on forms corresponding to the specimen given in Annex II.
+
+3\. The bodies mentioned in paragraph 1(2) shall forward to the Commission, the Government of Cyprus, and the authorities of the Eastern Sovereign Base Area the names and titles of the persons entrusted to sign the documents as well as a specimen of their signature and the stamp used.
+
+4\. The authorities of the Republic of Cyprus shall inform the Commission services of cases of reasonable doubt as to the compliance of the goods with the origin criteria. In such cases, the authorities of the Republic of Cyprus shall allow the goods to cross the line under the conditions set out in Article 4(2) of Council Regulation (EC) No 866/2004, subject to any precautionary measures judged necessary while awaiting the results of subsequent verification.
+
+If it is established that the documents have been issued without the conditions having been properly fulfilled, all duties and taxes due on the release for free circulation of the goods into the customs territory of the Community shall be due, at the rate applicable to third countries in the absence of any preferential treatment. The provisions concerning the incurrence of a customs debt and its recovery shall apply mutatis mutandis.
+
+## Article 3 — Phytosanitary inspection and reporting
+
+1\. Independent phytosanitary experts appointed by the Commission, deployed under the Technical Assistance and Information Exchange instrument (TAIEX), and operating in coordination with the Turkish Cypriot Chamber of Commerce for the implementation of Regulation (EC) No 866/2004 (‘the experts’), shall inspect all goods consisting of plants, plant products and other objects listed in Part A and Part B of Annex XI to Commission Implementing Regulation (EU) 2019/2072 ( 1 ) at the stages of production, of harvest and of marketing, to ascertain that they:
+
+(a) are free from the Union quarantine pests listed in Annex II to Regulation (EU) 2019/2072;
+
+(b) comply with the thresholds for the presence of Union regulated non-quarantine pests listed in Annex IV to Regulation (EU) 2019/2072;
+
+(c) comply with the requirements for introduction into the Union set out in Annex VII to that Regulation; and
+
+(d) comply with the measures to prevent the presence of regulated non-quarantine pests on specific plants for planting set out in Annex V to Regulation (EU) 2019/2072.
+
+Where relevant, they shall also inspect all plants, plant products and other objects listed in Annex XII to Implementing Regulation (EU) 2019/2072, to ascertain that they are free from the respective protected zone quarantine pests listed in Annex III to that Regulation.
+
+2\. In the case of potatoes, the above experts shall verify that the potatoes in the consignment were grown directly from seed potatoes certified in one of the Member States or from seed potatoes certified in any other country for which the entry into the Union of potatoes intended for planting is not prohibited pursuant to Annex VI of Implementing Regulation (EU) 2019/2072 or from farm saved seed potatoes which were, under supervision of the experts, grown as the first offspring of the certified seed potatoes referred to in this paragraph.
+
+3\. If the experts, to the best of their knowledge and as far as can be determined, establish that the relevant plants, plant products or other objects in the consignment comply with the requirements of paragraphs 1 and 2 and with the relevant requirements and checks as set out in Annex II to Regulation (EC) No 866/2004, they shall:
+
+(a) establish a report of their findings, filled in completely and duly signed by at least one of the experts, using the form provided for in Annex III to this Regulation; and
+
+(b) add that report, as a supplement, to the accompanying document referred to in Article 2 of this Regulation.
+
+The experts shall not issue ‘Reports of Phytosanitary inspection’ in respect of plants intended for planting, including tubers of Solanum tuberosum L intended for planting.
+
+4\. The experts shall consequently seal the lorries or other means of transport in such a way as to prevent any opening of the consignment until it crosses the line.
+
+Commodities covered by this Article may only be moved across the line if points (a) and (b) of paragraph 3 are fulfilled.
+
+5\. Upon arrival in the areas in which the Government of the Republic of Cyprus exercises effective control, the competent authorities shall examine the consignment. Where applicable, the ‘Report of phytosanitary inspection’ shall be replaced by a plant passport provided for Article 79(1) or Article 80(1) of Regulation (EU) 2016/2031 of the European Parliament and of the Council ( 2 ).
+
+## Article 4 — Food and product safety, counterfeit and pirated goods
+
+1\. For food safety reasons the movement across the line of compound feedings stuffs, feed additives, pre-mixtures, or all feedings stuffs containing products of animal origin and any product falling under the Commission Decisions listed in Annex IV as well as similar decisions adopted in the future shall be prohibited. Articles 6, 7 and 18 of Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 3 ) shall apply mutatis mutandis.
+
+2\. The authorities of the Republic of Cyprus and the authorities of the Eastern Sovereign Base Area shall ensure that goods crossing the line comply with the EC rules on health, safety, environmental and consumer protection and on the prohibition on the bringing in of counterfeit and pirated goods.
+
+## Article 5 — Trade defence measures
+
+No accompanying document shall be issued for goods which are subject to EU trade defence measures, including goods incorporating materials subject to such measures. This is without prejudice to the application of the Community's anti-dumping, anti-subsidy, safeguard or other trade defence instruments.
+
+## Article 6 — VAT
+
+In the event of goods originating in the Areas being transferred to other Member States, their previous entry into the areas under the effective control of the Government shall be treated as having been an importation of goods in accordance with Article 7 of Council Directive 77/388/EEC ( 4 ) for which the owner of the goods or any other person designated or accepted as being liable by the Government of the Republic of Cyprus shall be liable for the payment of import VAT in accordance with Article 21(4) of that Directive.
+
+## Article 7 — Emergencies
+
+Other emergencies in the meaning of Article 11(4) of Regulation (EC) No 866/2004 shall include any situation or circumstance which may give rise to or threatens to give rise to serious and enduring economic damage to a region of the Republic of Cyprus or any situation or circumstance which is posing or threatens to pose a risk to the functioning of the Internal Market, in particular where such threat arises by the non-application in the Areas of import duties equivalent to those established under the Common Customs Tariff on raw materials used in the processing of goods.
+
+## Article 8 — Communication obligations
+
+1\. The Turkish Cypriot Chamber of Commerce or another body authorised pursuant to Article 4(5) of Regulation (EC) No 866/2004 shall communicate to the Commission on a monthly basis the type, volume, and value of goods for which it has issued the documents referred to in Article 2(1), and details of any irregularities discovered and any sanctions applied.
+
+2\. The authorities of the Republic of Cyprus, in accordance with Article 4(2) and (3) of Regulation (EC) No 866/2004, shall communicate to the Commission on a monthly basis the type, volume and the value of goods that have, according to the declarations contained in the documents referred to in Article 2(1), crossed the line, details of any irregularities discovered and any sanctions applied, and details of any tariffs or duties levied on goods subject to export refunds or intervention measures.
+
+3\. The authorities of the Republic of Cyprus shall communicate to the Commission every three months the type, the volume, and the value of goods the final destination of which had not been the Republic of Cyprus according to the declarations contained in the documents referred to in Article 2(1). Goods having a Member State other than Cyprus as their final destination shall be separately mentioned.
+
+## Article 9 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Specimen of the accompanying document referred to in Article 2(1)
+
+►(1) C1
+
+## ANNEX II — Specimen of the application form referred to in Article 2(2)
+
+►(1) C1
+
+## ANNEX III
+
+**Model of the ‘Report of phytosanitary inspection’ referred to in Article 3(2)**
+
+►(1) M2
+
+►(2) M3
+
+## ANNEX IV
+
+**List of Commission Decisions referred to in Article 4(1)**
+
+— Commission Decision 2002/80/EC, as last amended by Decision 2004/429/EC, imposing special conditions on the import of figs, hazelnuts and pistachios and certain products derived thereof originating in or consigned from Turkey
+
+— Commission Decision 2002/79/EC, as last amended by 2004/429/EC, imposing special conditions on the import of peanuts and certain products derived from peanuts originating in or consigned from China
+
+— Commission Decision 2000/49/EC, as last amended by 2004/429/EC, imposing special conditions on the import of peanuts and certain products derived from peanuts originating in or consigned from Egypt
+
+— Commission Decision 2003/493/EC, as last amended by 2004/428/EC, imposing special conditions on the import of Brazil nuts in shell originating in or consigned from Brazil
+
+— Commission Decisions 1997/830/EC, as last amended by 2004/429/EC imposing special conditions on the import of pistachios and certain products derived from pistachios originating in or consigned from Iran
+
+— Commission Decision 2004/92/EC of 21 January 2004 on emergency measures regarding chilli and chilli products
+
+( 1 ) Commission Implementing Regulation (EU) 2019/2072 of 28 November 2019 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants, and repealing Commission Regulation (EC) No 690/2008 and amending Commission Implementing Regulation (EU) 2018/2019 (OJ L 319, 10.12.2019, p. 1).
+
+( 2 ) Regulation (EU) 2016/2031 of the European Parliament and of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).
+
+( 3 ) OJ L 31, 1.2.2002, p. 1.
+
+( 4 ) OJ L 145, 13.6.1977, p. 1.

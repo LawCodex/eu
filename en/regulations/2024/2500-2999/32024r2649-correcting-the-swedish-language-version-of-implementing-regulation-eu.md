@@ -1,0 +1,66 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/2649 of 10 October 2024 correcting the Swedish language version of Implementing Regulation (EU) 2023/1773 laying down the rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards reporting obligations for the purposes of the carbon border adjustment mechanism during the transitional period"
+identifier: "32024R2649"
+eli: "http://data.europa.eu/eli/reg_impl/2024/2649/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-10-10
+entry_into_force: 2025-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2649"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/2649 of 10 October 2024 correcting the Swedish language version of Implementing Regulation (EU) 2023/1773 laying down the rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards reporting obligations for the purposes of the carbon border adjustment mechanism during the transitional period
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2649**
+
+**of 10 October 2024**
+
+**correcting the Swedish language version of Implementing Regulation (EU) 2023/1773 laying down the rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards reporting obligations for the purposes of the carbon border adjustment mechanism during the transitional period**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2023/956 of the European Parliament and of the Council of 10 May 2023 establishing a carbon border adjustment mechanism (1), and in particular Article 35(7) thereof,
+
+Whereas:
+
+(1) The Swedish language version of Commission Implementing Regulation (EU) 2023/1773 (2) contains an error in Section 1 point 39 in Annex II as regards the defined type of gas. The erroneous term, denoting another type of gas also covered by that Regulation, has been used every time the defined term occurs in Annexes II, III and IV. The error affects the substance of those provisions.
+
+(2) The Swedish language version of Implementing Regulation (EU) 2023/1773 should therefore be corrected accordingly. The other language versions are not affected.
+
+(3) The measures provided for in this Implementing Regulation are in accordance with the opinion of the CBAM Committee, delivered prior to the adoption of Implementing Regulation (EU) 2023/1773,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+(Does not concern the English language)
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 10 October 2024.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 130, 16.5.2023, p. 52, ELI: http://data.europa.eu/eli/reg/2023/956/oj.
+
+(2) Commission Implementing Regulation (EU) 2023/1773 of 17 August 2023 laying down the rules for the application of Regulation (EU) 2023/956 of the European Parliament and of the Council as regards reporting obligations for the purposes of the carbon border adjustment mechanism during the transitional period (OJ L 228, 15.9.2023, p. 94, ELI: http://data.europa.eu/eli/reg_impl/2023/1773/oj).
+
+ELI: http://data.europa.eu/eli/reg_impl/2024/2649/oj
+
+ISSN 1977-0677 (electronic edition)

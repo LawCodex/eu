@@ -1,0 +1,110 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/2074 of 23 September 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country (Text with EEA relevance)"
+identifier: "32019R2074"
+eli: "http://data.europa.eu/eli/reg_del/2019/2074/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-09-23
+entry_into_force: 2019-12-14
+last_amended: 2021-12-20
+consolidated_version: "02019R2074-20211220"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2074-20211220"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/2074 of 23 September 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/2074**
+
+**of 23 September 2019**
+
+**supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/2089 of 21 September 2021 </td><td> L 427</td><td>149</td><td>30.11.2021</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/2074**
+
+**of 23 September 2019**
+
+**supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards rules on specific official controls on consignments of certain animals and goods originating from, and returning to the Union following a refusal of entry by a third country**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+This Regulation lays down rules for the performance of specific official controls at border control posts on consignments of the categories of animals and goods referred to in Article 47(1)(a), (b) and (c) of Regulation (EU) 2017/625 originating from and returning to the Union following a refusal of entry by a third country.
+
+## Article 2 — Specific official controls on consignments of animals and goods originating from and returning to the Union following a refusal of entry by a third country
+
+1\. The competent authority at the border control post of arrival into the Union shall perform documentary and identity checks on consignments of animals and goods referred to in Article 47(1)(a), (b) and (c) of Regulation (EU) 2017/625 originating from and returning to the Union following a refusal of entry by a third country.
+
+2\. The competent authority at the border control post of arrival into the Union shall perform physical checks on the following consignments originating from and returning to the Union following a refusal of entry by a third country:
+
+(a) consignments of animals referred to in Article 47(1)(a) of Regulation (EU) 2017/625;
+
+(b) consignments of goods referred to in Article 47(1)(b) and (c) of Regulation (EU) 2017/625 where non-compliance of those goods with the rules referred to in Article 1(2) of Regulation (EU) 2017/625 is suspected in order to confirm or eliminate that suspicion.
+
+3\. The competent authority at the border control post of arrival into the Union shall verify compliance of consignments of animals and goods with the following requirements:
+
+(a) for animals referred to in Article 47(1)(a) of Regulation (EU) 2017/625 and for germinal products referred to in Article 47(1)(b) of Regulation (EU) 2017/625, the animal health and welfare requirements, as appropriate, set out in the rules referred to in Article 1(2)(d) and (f) of Regulation (EU) 2017/625;
+
+(b) for products of animal origin and composite products referred to in Article 47(1)(b) of Regulation (EU) 2017/625:
+
+(i) the animal health requirements set out in the rules referred to in Article 1(2)(d) of Regulation (EU) 2017/625;
+
+(ii) the additional rules laid down in Article 3 of this Regulation;
+
+(c) for animal by-products referred to in Article 47(1)(b) of Regulation (EU) 2017/625 and for derived products, the requirements set out in the rules referred to in Article 1(2)(e) of Regulation (EU) 2017/625;
+
+(d) for plants, plant products, and other objects referred to in Article 47(1)(c) of Regulation (EU) 2017/625, the plant health requirements set out in the rules referred to in Article 1(2)(g) of Regulation (EU) 2017/625.
+
+4\. The competent authority at the border control post of arrival into the Union shall inform the competent authority at the place of destination via the information management system for official controls referred to in Article 131 of Regulation (EU) 2017/625 (‘IMSOC’) of the fact that the consignment has been accepted to enter the Union with a specified place of destination indicated in the Common Health Entry Document (CHED).
+
+## Article 3 — Additional rules on specific official controls on consignments of products of animal origin and composite products
+
+1\. The competent authority at the border control post of arrival into the Union shall authorise the entry into the Union of the following consignments of products originating from and returning into the Union following a refusal of entry by a third country provided that they comply with the requirements set out in paragraph 2:
+
+(a) products of animal origin listed in the Annex to Commission Implementing Regulation (EU) 2021/632 ( 1 );
+
+(b) composite products listed in Chapters 15 to 22 of the Annex to Implementing Regulation (EU) 2021/632 that are subject to veterinary checks at border control posts of arrival into the Union in accordance with Article 3 of that Implementing Regulation.
+
+2\. The consignments of products referred to in paragraph 1 shall be accompanied by the following documents:
+
+(a) the original official certificate issued by the competent authority of the Member State ( 2 ) from which the goods originate and were dispatched to a third country (‘Member State of origin’), or its electronic equivalent submitted in IMSOC, or an authenticated copy thereof;
+
+(b) the official declaration of the competent authority or of other public authorities of the third country indicating the reason for the refusal of entry, the place and date of unloading and re-loading in the third country and confirming that:
+
+(i) the consignment did not undergo any other handling than unloading, storage and re-loading;
+
+(ii) the unloading and re-loading of the products of animal origin and composite products was handled hygienically to avoid cross contamination;
+
+(iii) the products of animal origin and composite products were stored under hygienic conditions and at the required temperature for the relevant types of goods;
+
+(c) the declaration of the competent authority of the place of destination in the Union that they agree to receive the consignment; however, that declaration shall not be required where the consignment returns to the establishment of origin of the consignment which is located in the same Member State as the border control post of arrival into the Union.
+
+3\. By way of derogation from paragraph 2(a), where it is not possible to provide the documents referred to in that provision, the origin of the consignment may be authenticated in another way on the basis of documented evidence presented by the operator responsible for the consignment.
+
+4\. The competent authority at the border control post of arrival into the Union may grant exemptions from the requirements laid down in paragraph 2(b) for sealed consignments, with an intact origin seal, provided that the operator responsible for the consignment submits a declaration stating the reason for the refusal of entry by the third country and confirming that transport has taken place under conditions appropriate for the relevant type of products of animal origin and composite products.
+
+5\. The competent authority at the border control post of arrival shall monitor the transport and arrival at the place of destination of the consignment in accordance with Delegated Regulation (EU) 2019/1666, where the competent authority of the place of destination has issued the declaration referred to in paragraph 2(c).
+
+## Article 4 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 14 December 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Commission Implementing Regulation (EU) 2021/632 of 13 April 2021 laying down rules for the application of Regulation (EU) 2017/625 of the European Parliament and of the Council as regards the lists of animals, products of animal origin, germinal products, animal by-products and derived products, composite products, and hay and straw subject to official controls at border control posts, and repealing Implementing Regulation (EU) 2019/2007 and Commission Decision 2007/275/EC (OJ L 132, 19.4.2021, p. 24).
+
+( 2 ) In accordance with the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and in particular Article 5(4) of the Protocol on Ireland/Northern Ireland in conjunction with Annex 2 to that Protocol, for the purposes of this Regulation, references to Member States include the United Kingdom in respect of Northern Ireland.

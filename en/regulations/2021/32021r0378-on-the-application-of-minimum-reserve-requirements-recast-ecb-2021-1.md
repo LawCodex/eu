@@ -1,0 +1,462 @@
+---
+title: "Regulation (EU) 2021/378 of the European Central Bank of 22 January 2021 on the application of minimum reserve requirements (recast) (ECB/2021/1)"
+identifier: "32021R0378"
+eli: "http://data.europa.eu/eli/reg/2021/378/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-01-22
+entry_into_force: 2021-11-16
+last_amended: 2023-09-20
+consolidated_version: "02021R0378-20230920"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R0378-20230920"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2021/378 of the European Central Bank of 22 January 2021 on the application of minimum reserve requirements (recast) (ECB/2021/1)
+
+**REGULATION (EU) 2021/378 OF THE EUROPEAN CENTRAL BANK**
+
+**of 22 January 2021**
+
+**on the application of minimum reserve requirements (recast) (ECB/2021/1)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> REGULATION (EU) 2022/2419 OF THE EUROPEAN CENTRAL BANK of 6 December 2022 </td><td> L 318</td><td>7</td><td>12.12.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/1679 OF THE EUROPEAN CENTRAL BANK of 25 August 2023 </td><td> L 216</td><td>96</td><td>1.9.2023</td></tr>
+</table>
+
+**REGULATION (EU) 2021/378 OF THE EUROPEAN CENTRAL BANK**
+
+**of 22 January 2021**
+
+**on the application of minimum reserve requirements (recast) (ECB/2021/1)**
+
+## Article 1 — Subject matter and scope
+
+This Regulation establishes the minimum reserve requirements for the following institutions:
+
+(a) credit institutions which are either:
+
+(i) authorised in accordance with Article 8 of Directive 2013/36/EU of the European Parliament and of the Council ( 1 ); or
+
+(ii) exempt from such authorisation pursuant to Article 2(5) of Directive 2013/36/EU;
+
+(b) branches of credit institutions, including branches established in Member States whose currency is the euro (euro area Member State) of credit institutions with neither their registered office nor their head office located in a euro area Member State; but excluding branches established outside of a euro area Member State of credit institutions which are established in a euro area Member State.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘minimum reserves’ means the amount of funds that an institution is required to hold as reserves in its reserve accounts with the relevant national central bank;
+
+(2) ‘minimum reserve requirements’ means all the requirements that institutions are required to comply with pursuant to this Regulation in relation to minimum reserves as regards the calculation, notification, acknowledgement, and maintenance of minimum reserves, and reporting and verification;
+
+(3) ‘euro area Member State’ means a Member State whose currency is the euro;
+
+(4) ‘credit institution’ means ‘credit institution’ as defined in Article 4(1)(1) of Regulation (EU) No 575/2013;
+
+(5) ‘branch’ means ‘branch’ as defined in Article 4(1)(17) of Regulation (EU) No 575/2013;
+
+(6) ‘relevant NCB’ means the national central bank (NCB) of the euro area Member State in which the institution is resident;
+
+(7) ‘reserve accounts’ means the accounts in which an institution holds its reserves with the relevant NCB;
+
+(8) ‘reserve base’ means the sum of the eligible liabilities used for calculating the minimum reserves of an institution;
+
+(9) ‘reserve ratio’ means the percentage applied to items of the reserve base for calculating an institution’s minimum reserves;
+
+(10) ‘maintenance period’ means the period over which compliance with minimum reserve requirements is assessed;
+
+(11) ‘end-of-day balance’ means the reserve holdings at the time when the finalisation of payment activities has taken place and entries relating to access to the standing facilities of the Eurosystem have been made;
+
+(12) ‘NCB business day’ means any day on which a particular NCB is open for the purpose of conducting Eurosystem monetary policy operations;
+
+(13) ‘TARGET business day’ means ‘business day’ or ‘TARGET business day’ as defined in Article 2(13) of Guideline (EU) 2022/912 of the European Central Bank (ECB/2022/8) ( 2 ), in conjunction with point (13) of Annex III to that Guideline;
+
+(14) ‘resident’ means any natural or legal person residing in any of the euro area Member States within the meaning of Article 1(4) of Council Regulation (EC) No 2533/98 ( 3 );
+
+(15) ‘merger’ means an operation whereby one or more credit institutions (the acquired institutions), on being dissolved without going into liquidation, transfer all their assets and liabilities to another credit institution (the acquiring institution), which may be a newly established credit institution;
+
+(16) ‘division’ means an operation whereby one credit institution (the institution being divided), on being dissolved without going into liquidation, transfers all its assets and liabilities to more than one institution (the recipient institutions), which may be newly established credit institutions.
+
+## Article 3 — Reserve holdings
+
+1\. Institutions referred to in Article 1 shall hold minimum reserves, calculated in accordance with Article 6, as follows:
+
+(a) the average end-of-day balance on one or more reserve accounts over the maintenance period shall be equal to or shall exceed the amount calculated for that period in accordance with Article 6;
+
+(b) minimum reserves shall be held on reserve accounts, denominated in euro, with the relevant NCBs in each euro area Member State in which they are established;
+
+(c) settlement accounts with the NCBs may be used as reserve accounts for the purposes of this Regulation;
+
+(d) funds subject to any legal, contractual, regulatory or other restriction that would prevent the institution from liquidating, transferring, assigning or disposing of such funds during the relevant maintenance period shall be excluded from the reserve holdings.
+
+For the purposes of point (d), institutions shall notify the relevant NCB of any restrictions referred to therein without undue delay.
+
+2\. Where an institution has several branches in the same euro area Member State, the following shall apply:
+
+(a) the registered office or head office, if located in that Member State, shall fulfil the minimum reserve requirements set out in this Article for those branches in that Member State;
+
+(b) that institution shall designate one of its branches in the same Member State for the purposes of fulfilling the minimum reserve requirements in this Article where it has neither a registered office nor a head office in that Member State;
+
+(c) the relevant NCB shall use all end-of-day balances in the reserve accounts of the branches of that institution in the same Member State to assess whether paragraph 1(a) of this Article is fulfilled.
+
+3\. The European Central Bank (ECB) shall publish the following lists of institutions on its website:
+
+(a) institutions subject to minimum reserve requirements pursuant to this Regulation;
+
+(b) institutions exempted from minimum reserve requirements pursuant to Article 4, excluding those institutions referred to in points (a) to (c) of Article 4(2).
+
+## Article 4 — Exemptions from minimum reserve requirements
+
+1\. Institutions shall be exempt from the minimum reserve requirements in Article 3 where either of the following apply:
+
+(a) an authorisation referred to in Article 1(a)(i) is withdrawn or renounced; or
+
+(b) an institution is subject to winding-up proceedings pursuant to Directive 2001/24/EC of the European Parliament and of the Council ( 4 ).
+
+2\. The ECB may grant exemptions from the minimum reserve requirements in Article 3, upon request by the relevant NCB, where any of the following apply:
+
+(a) an institution is subject to a reorganisation measure pursuant to Directive 2001/24/EC;
+
+(b) an institution is subject to a freezing order imposed by the Union or by a Member State, or is subject to measures imposed by the Union pursuant to Article 75 of the Treaty, which restricts the institution’s ability to use its funds;
+
+(c) that institution’s access to the Eurosystem’s open market operations or standing facilities has been suspended or excluded by the ECB and NCBs (Eurosystem) pursuant to Guideline (EU) 2015/510 of the European Central Bank (ECB/2014/60) ( 5 );
+
+(d) it is not appropriate to require minimum reserves from that institution.
+
+For the purposes of point (c) of the first subparagraph, where an institution’s access to the Eurosystem’s open market operations or standing facilities is restored by the Governing Council of the ECB pursuant to Article 158 of Guideline (EU) 2015/510 (ECB/2014/60), the exemption shall no longer apply from the start of the next maintenance period.
+
+3\. For the purposes of granting exemptions in accordance with paragraph 2(d), the relevant NCBs and the ECB shall take all of the following into account:
+
+(a) whether that institution is authorised to pursue special-purpose functions only;
+
+(b) whether that institution is prohibited from exercising active banking functions in competition with other credit institutions;
+
+(c) whether that institution is under a legal obligation to have all its deposits earmarked for purposes relating to regional and/or international development assistance.
+
+For the purposes of point (a), an institution is authorised to pursue special-purpose functions only where it exercises specific public administration tasks or the institution is forbidden by law or statute to undertake the business of credit institutions.
+
+4\. The exemptions referred to in this Article shall apply from the start of the maintenance period in which the relevant event occurs.
+
+## Article 5 — Reserve base
+
+1\. Institutions shall calculate their reserve base using the statistical information on the following liabilities reported pursuant to Regulation (EU) 2021/379 (ECB/2021/2):
+
+(a) deposits;
+
+(b) debt securities issued.
+
+Where an institution holds liabilities owed to a branch of the same entity located outside the euro area, or to the head office or registered office of the same entity which is located outside the euro area, those liabilities shall be included in the reserve base.
+
+2\. The following liabilities shall be excluded from the reserve base calculated pursuant to paragraph 1:
+
+(a) liabilities owed to any other institution where that institution:
+
+(i) is subject to minimum reserve requirements pursuant to this Regulation; and
+
+(ii) is not exempt or has not been granted an exemption from minimum reserve requirements pursuant to Article 4;
+
+(b) liabilities owed to the ECB or to an NCB of a euro area Member State.
+
+3\. Where liabilities are excluded from the reserve base in accordance with paragraph 2, the institution shall:
+
+(a) inform the relevant NCB of the excluded amount without undue delay;
+
+(b) provide evidence of those liabilities;
+
+(c) deduct the amount of those liabilities from the reserve base after providing evidence of the amount to the relevant NCB in accordance with point (b).
+
+For the purposes of point (b), where an institution is unable to provide evidence to the relevant NCB of the amount of liabilities within the category of ‘debt securities issued’, that institution shall apply the standard deduction published on the ECB’s website to the outstanding amount of the debt securities which it has issued and which have an original maturity of up to and including two years.
+
+4\. The ECB, when determining the standard deduction applied to liabilities within the debt securities category with a maturity of up to two years referred to in paragraph 3, shall take into account the euro area-wide macro ratio between the stock of relevant instruments issued by credit institutions and held by other credit institutions and by the ECB and relevant NCBs and the total amount outstanding of such instruments issued by credit institutions.
+
+5\. Institutions shall calculate their reserve base with respect to a particular maintenance period on the basis of the data relating to the month two months prior to the month within which the maintenance period starts.
+
+6\. Tail institutions, as defined in Article 2 of Regulation (EU) 2021/379 (ECB/2021/2), shall calculate their reserve base for two consecutive maintenance periods beginning with the maintenance period starting in the third month after the end of a quarter, on the basis of end-of-quarter data reported in accordance with Regulation (EU) 2021/379 (ECB/2021/2). Those institutions shall notify the relevant NCB of their minimum reserves in accordance with Article 7.
+
+## Article 6 — Calculation of minimum reserves
+
+1\. Minimum reserves held by institutions pursuant to Article 3 shall be calculated using the following reserve ratios for each of the liabilities of the reserve base referred to in Article 5:
+
+(a) a reserve ratio of 0 % shall apply to the following categories referred to in Part 2 of Annex II to Regulation (EU) 2021/379 (ECB/2021/2):
+
+(i) deposits which fulfil one of the following conditions:
+
+— have an agreed maturity over two years;
+
+— are redeemable at notice over two years;
+
+— are repurchase agreements (repos);
+
+(ii) debt securities issued with an original maturity over two years;
+
+(b) a reserve ratio of 1 % on all other liabilities included in the reserve base.
+
+2\. NCBs or the institution shall deduct a lump sum allowance of EUR 100 000 from the calculation of minimum reserves of each institution, subject to the requirements of Articles 10 to 12.
+
+3\. NCBs shall use the minimum reserves calculated in accordance with Article 6 for the following:
+
+(a) to remunerate holdings of minimum reserves;
+
+(b) to assess whether Article 3(1)(a) is fulfilled.
+
+## Article 7 — Notification of minimum reserves
+
+1\. NCBs shall establish the procedure for notifying institutions’ individual minimum reserves. That procedure shall include whether the relevant NCB or the institution calculates the minimum reserves in accordance with Article 6.
+
+2\. Where the relevant NCB calculates an institution’s minimum reserves pursuant to paragraph 1, all of the following shall apply:
+
+(a) the relevant NCB shall notify that institution of its minimum reserves at the latest three NCB business days before the start of the maintenance period;
+
+(b) that institution shall acknowledge its minimum reserves at the latest on the NCB business day preceding the start of the maintenance period;
+
+(c) where the institution does not reply to the notification referred to in point (a) by the end of the NCB business day preceding the start of the maintenance period, the acknowledgement referred to in point (b) shall be deemed to have taken place and the minimum reserves notified shall apply to that institution for that maintenance period.
+
+3\. Where an institution calculates its minimum reserves pursuant to paragraph 1, all of the following shall apply:
+
+(a) that institution shall notify the relevant NCB of its minimum reserves at the latest three NCB business days before the start of the maintenance period;
+
+(b) the relevant NCB shall acknowledge that institution’s minimum reserves at the latest on the NCB business day preceding the start of the maintenance period;
+
+(c) if the relevant NCB does not reply to the notification referred to in point (a) by the end of the NCB business day preceding the start of the maintenance period, the acknowledgement referred to in point (b) shall be deemed to have taken place and the minimum reserves notified shall apply to that institution for that maintenance period.
+
+4\. For the purposes of paragraphs 2 and 3, the relevant NCB may specify an earlier date for the notification of the minimum reserves.
+
+5\. NCBs may specify the conditions and time limits within which institutions may revise the reserve base and the minimum reserves notified in accordance with this Article. No revisions shall be permitted after the acknowledgement of minimum reserves referred to in paragraphs 2 and 3.
+
+6\. The relevant NCBs shall make available calendars indicating the time limits for the notification and acknowledgement of data relevant to the calculation of minimum reserves for the implementation of the procedures mentioned in this Article.
+
+7\. Where an institution has failed to report the statistical information specified in Regulation (EU) 2021/379 (ECB/2021/2), the relevant NCB shall estimate the minimum reserves of that institution for the relevant maintenance period on the basis of historical information reported by the institution and any other relevant information, and shall notify the institution of its minimum reserves at least three NCB business days before the start of that maintenance period.
+
+## Article 8 — Maintenance period
+
+1\. A maintenance period shall begin on the settlement day of the main refinancing operation following the meeting of the Governing Council at which the assessment of the monetary policy stance is pre-scheduled and shall end the day before the start of the following maintenance period, unless otherwise specified by the Governing Council.
+
+2\. The Executive Board of the ECB shall publish a calendar of maintenance periods on the website of the ECB. NCBs shall also publish that calendar on their respective websites. That calendar shall be published by the ECB and the NCBs at least three months before the start of each calendar year.
+
+3\. The Governing Council may modify the calendar referred to in paragraph 2. That modified calendar shall be published on the websites of the ECB and of the NCBs before the maintenance period to which the modification relates.
+
+## Article 9 — Remuneration
+
+1\. The relevant NCB shall remunerate holdings of minimum reserves in the reserve accounts at 0 %.
+
+2\. The relevant NCB shall pay the remuneration, if any, on the holdings of minimum reserves on the second TARGET business day following the end of the maintenance period over which the remuneration was earned.
+
+3\. Funds included in holdings of minimum reserves that are subsequently excluded from those minimum reserves pursuant to Article 3(1)(d) shall be remunerated by the relevant NCB in accordance with the rules applicable to non-monetary policy deposits in Guideline (EU) 2019/671 of the European Central Bank (ECB/2019/7) ( 6 ), with effect from the date the specific condition of Article 3(1)(d) applies, as determined by the relevant NCB.
+
+## Article 10 — Indirect holding of minimum reserves through an intermediary
+
+1\. An institution may apply to the relevant NCB for permission to hold all its minimum reserves indirectly through an intermediary institution where that intermediary institution:
+
+(a) is resident in the same Member State;
+
+(b) is subject to minimum reserve requirements;
+
+(c) normally carries out certain administrative tasks (e.g. treasury management) for that institution, beyond the holding of minimum reserves.
+
+2\. For the purposes of paragraph 1, where an institution applies for permission to hold all its minimum reserves indirectly through an intermediary institution, it shall conclude an agreement with that intermediary institution to that effect. That agreement shall specify at least the following:
+
+(a) whether the applicant wishes to access Eurosystem standing facilities and open market operations;
+
+(b) a notice period of at least 12 months, without prejudice to the provisions in Article 10(7)(b).
+
+Where an institution gives notice as referred to in point (b), it shall inform the relevant NCB thereof without undue delay.
+
+3\. Where the parent of a group consolidates in its statistical reporting the business of subsidiaries which are resident in the same Member State in accordance with Article 6(1) of Regulation (EU) 2021/379 (ECB/2021/2), that parent may apply to the relevant NCB for permission to hold the minimum reserves of the group as an intermediary.
+
+4\. Where a parent applies for permission to hold the minimum reserves of the group as an intermediary pursuant to paragraph 3, that parent shall conclude an agreement with each institution in that group to act as an intermediary. Those agreements shall specify at least the following:
+
+(a) whether the parent or subsidiaries will access Eurosystem standing facilities and open market operations;
+
+(b) a notice period of at least 12 months.
+
+5\. The relevant NCB may grant permission to the applicant institution to hold minimum reserves through an intermediary and shall notify that institution and the intermediary institution thereof without undue delay. That permission shall take effect from the start of the first maintenance period following the date permission is granted, and shall apply for the duration of the agreement referred to in paragraph 2 or 4, or until the permission is withdrawn pursuant to paragraphs 7 and 8.
+
+A permission granted to an institution to hold minimum reserves through an intermediary pursuant to Article 10 of Regulation (EC) No 1745/2003 (ECB/2003/9) shall be deemed to be granted in accordance with this paragraph for the purposes of this Regulation.
+
+6\. Where an intermediary institution holds minimum reserves for another institution pursuant to this Article, it shall hold those reserves in its own reserve accounts in addition to its own reserves held in accordance with this Regulation.
+
+7\. The ECB or the relevant NCB may, at any time, withdraw the permission granted pursuant to paragraph 5 where any of the following apply:
+
+(a) either party to the agreement referred to in paragraph 2 or 4 fails to fulfil the requirements of this Regulation;
+
+(b) either party to the agreement referred to in paragraph 2 or 4 requests such withdrawal of permission pursuant to this Article;
+
+(c) the conditions for the indirect holding of minimum reserves specified in paragraph 1 are no longer fulfilled;
+
+(d) prudential reasons relating to the intermediary institution exist.
+
+8\. The relevant NCB or the ECB shall consider the following when determining whether to withdraw permission pursuant to paragraph 7:
+
+(a) whether the parties have agreed to terminate the agreement by mutual consent;
+
+(b) whether the institution holding its minimum reserves indirectly through an intermediary is able to fulfil its own reserve requirements.
+
+9\. Where the relevant NCB or the ECB withdraws permission pursuant to paragraph 7, the following shall apply:
+
+(a) the withdrawal of the permission shall take effect at the end of a maintenance period except where the permission is withdrawn pursuant to paragraph 7(d);
+
+(b) where the permission is withdrawn pursuant to paragraph 7(d), the withdrawal shall have immediate effect and the minimum notification period provided for in point (c) of this paragraph shall not apply;
+
+(c) the relevant NCB or the ECB shall notify both parties to the agreement referred to in paragraph 2 or 4 of the withdrawal at least five working days before the end of the final maintenance period for which the permission applies.
+
+10\. Where the ECB imposes sanctions pursuant to Regulation (EC) No 2532/98, it may impose those sanctions on the intermediary institution and the institution for which it holds reserves.
+
+## Article 11 — Aggregated reporting of the reserve base
+
+1\. Where an institution applies to the relevant NCB for permission to hold all its minimum reserves indirectly through a parent institution pursuant to Article 10(3), that parent institution may apply to the relevant NCB for permission to report the reserve base and the reserve base of the institutions in that group on an aggregated basis and in accordance with Regulation (EU) 2021/379 (ECB/2021/2). NCBs may grant permission to parent institutions to report the reserve base on an aggregated basis and in accordance with Regulation (EU) 2021/379 (ECB/2021/2).
+
+2\. Where a parent institution applies to the relevant NCB for permission to report the reserve base on an aggregated basis pursuant to paragraph 1, the relevant NCB shall ensure that the agreement referred to in Article 10(4) includes an acknowledgement of the potential loss of the deduction of the lump sum allowance referred to in Article 6(2) at an individual level.
+
+3\. Where the relevant NCB grants permission to a parent institution to report the reserve base on an aggregated basis pursuant to paragraph 1, it shall notify the relevant institution thereof without undue delay. That permission shall take effect from the start of the first maintenance period following the date that the permission is granted, and shall apply for the duration of the agreement referred to in paragraph 2 or until that permission is withdrawn.
+
+4\. Where the relevant NCB grants permission to a parent institution to report the reserve base on an aggregated basis pursuant to paragraph 1, one lump sum allowance referred to in Article 6(2) shall be automatically deducted from the minimum reserves held by the intermediary institution.
+
+5\. A permission granted to an institution by the ECB to report the reserve base on an aggregated basis pursuant to Article 11 of Regulation (EC) No 1745/2003 (ECB/2003/9) shall be considered valid and applicable for the purposes of this Regulation until that permission is withdrawn.
+
+## Article 12 — Mergers and divisions
+
+1\. Where a merger takes effect during a maintenance period, all of the following shall apply:
+
+(a) the acquiring institution shall fulfil the requirements of this Regulation for the acquired institution;
+
+(b) the acquiring institution’s minimum reserves shall be reduced by each lump sum allowance applicable pursuant to Article 6(2);
+
+(c) NCBs shall assess whether institutions fulfil the requirements of Article 3(1)(a) by taking into account the end-of day holdings in the reserve accounts of both the acquiring and acquired institutions.
+
+2\. The following shall apply during the maintenance period immediately following the maintenance period referred to in paragraph 1:
+
+(a) the minimum reserves of the acquiring institution shall be reduced in accordance with Article 6(2) by only one lump sum; and
+
+(b) the acquiring institution’s minimum reserves shall be calculated for the purposes of Article 6 using a reserve base which aggregates the reserve bases of the acquired institutions and of the acquiring institution.
+
+For the purposes of point (b), the calculation shall use the reserve bases of each institution for the relevant maintenance period as if the merger had not occurred, and in accordance with the rules set out in Annex III, Part 2 of Regulation (EU) 2021/379 (ECB/2021/2).
+
+The first subparagraph shall also apply for subsequent maintenance periods where the conditions of paragraph 4 of Part 2 of Annex III to Regulation (EU) 2021/379 (ECB/2021/2) are met.
+
+3\. Where a division takes effect during a maintenance period, the following shall apply:
+
+(a) the recipient institutions which are credit institutions shall fulfil the requirements of this Regulation for the institution being divided;
+
+(b) each of the recipient credit institutions shall fulfil the requirements of this Regulation for that part of the reserve base of the institution being divided that is allocated to it;
+
+(c) reserves held by the institution being divided shall be allocated proportionally between the recipient institutions;
+
+(d) the lump sum allowance referred to in Article 6(2) shall be deducted from the minimum reserves of each recipient institution.
+
+4\. The following shall apply during the maintenance period immediately following the maintenance period in which the division takes effect and until the recipient institutions report their respective reserve bases in accordance with Regulation (EU) 2021/379 (ECB/2021/2):
+
+(a) each recipient institution shall fulfil the requirements of this Regulation for that part of the reserve base of the institution being divided that is allocated to it, if any; and
+
+(b) the lump sum allowance referred to in Article 6(2) shall be deducted from the minimum reserves of each recipient institution.
+
+## Article 13 — Delegation of powers in the event of adoption of the euro
+
+1\. Where a Member State adopts the euro in accordance with the Treaty, the Governing Council hereby delegates power to the Executive Board to determine, after taking into consideration the views of the Market Operations Committee of the ESCB, the following:
+
+(a) the dates of a transitional maintenance period for the application of minimum reserve requirements pursuant to Article 3 to institutions established in that Member State, with the start date being the date of the adoption of the euro in that Member State;
+
+(b) the manner of calculation of the reserve base referred to in Article 5 during the transitional maintenance period referred to in point (a);
+
+(c) the deadline for the calculation and verification of the minimum reserves by the institutions established in that Member State or by the relevant NCB for the transitional maintenance period.
+
+The Executive Board shall adopt and publish a decision pursuant to the first subparagraph at least two months prior to the date of the adoption of the euro in the relevant Member State and shall notify the Governing Council thereof.
+
+2\. The Governing Council further delegates to the Executive Board the power to allow for a deduction from the reserve base of liabilities owed to institutions established in the Member State adopting the euro by institutions established in other euro area Member States for the relevant maintenance periods during and immediately following the transitional maintenance period referred to in paragraph 1(a).
+
+This first subparagraph shall apply where institutions in the Member State adopting the euro do not appear on the list of institutions referred to in Article 3(3)(a) at the time the minimum reserves are calculated. In this event, decisions adopted by the Executive Board allowing for the deduction pursuant to this paragraph may further specify the manner of in which the deduction of such liabilities shall be calculated.
+
+## Article 14 — Verification
+
+1\. The relevant NCBs may exercise the right to verify the accuracy and quality of the information on the reserve base provided by institutions, in accordance with Article 6(3) of Regulation (EC) No 2531/98.
+
+2\. Where an institution notifies its calculation of minimum reserves pursuant to Article 7(3), the relevant NCB shall verify the accuracy of that calculation and shall monitor the consistency with the statistical information reported pursuant to Regulation (EU) 2021/379 (ECB/2021/2).
+
+## Article 15 — Repeal
+
+1\. Regulation (EC) No 1745/2003 (ECB/2003/9) is repealed with effect from 26 June 2021.
+
+2\. References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex II.
+
+## Article 16 — Final provisions
+
+This Regulation shall enter into force on the fifth day following its publication in the Official Journal of the European Union.
+
+It shall apply from 26 June 2021. However, Article 3 shall apply from 28 July 2021, on the first day of the fifth maintenance period in 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX I — Repealed Regulation with list of the successive amendments thereto
+
+Regulation (EC) No 1745/2003 of the European Central Bank (ECB/2003/9) (OJ L 250, 2.10.2003, p. 10).
+
+Regulation (EC) No 1052/2008 of the European Central Bank (ECB/2008/10) (OJ L 282, 25.10.2008, p. 14).
+
+Regulation (EU) No 1358/2011 of the European Central Bank (ECB/2011/26) (OJ L 338, 21.12.2011, p. 51).
+
+Regulation (EU) No 1376/2014 of the European Central Bank (ECB/2014/52) (OJ L 366, 20.12.2014, p. 79).
+
+Regulation (EU) 2016/1705 of the European Central Bank (ECB/2016/26) (OJ L 257, 23.9.2016, p. 10).
+
+## ANNEX II — Correlation table
+
+| Regulation (EC) No 1745/2003 | This Regulation |
+| --- | --- |
+| Article 1 | Article 2 |
+| Article 2(1) | Article 1 |
+| Article 2(2), first subparagraph | Article 4(1) |
+| Article 2(2), second subparagraph | Article 4(2), 4(3) |
+| Article 2(3) | Article 3(3) |
+| — | Article (3)(1)(d) and Article 3(4) |
+| Article 3(1) | Article 5(1) |
+| Article 3(2) | Article 5(2) |
+| Article 3(2a), first subparagraph | Article 5(3) |
+| Article 3(2a), second subparagraph | Article 5(4) |
+| — | Article 5(5) |
+| Article 3(3) | Article 5(6) |
+| Article 3(4) | Article 5(7) |
+| Article 4(1) | Article 6(1)(a) |
+| Article 4(2) | Article 6(1)(b) |
+| Article 5(1) | Article 6(1), introductory sentence and Article 6(3) |
+| Article 5(2) | Article 6(2) |
+| Article 5(3) | Article 7(1) to (5) |
+| Article 5(4) | Article 7(6) |
+| Article 5(5) | Article 7(7) |
+| Article 6(1), first and second sentences | Article 3(1)(b) |
+| Article 6(1), third sentence | Article 3(1)(c) |
+| Article 6(2) | Article 3(1)(a) |
+| Article 6(3) | Article 3(2) |
+| Article 7 | Article 8 |
+| Article 8 | Article 9 |
+| Article 9 | Article 14(1) |
+| Article 10(1) and (2) | Article 10(1) and (2), 10(5) |
+| Article 10(3) | Article 10(6) and (10) |
+| Article 10(4) | Article 10(7) and Article 10(9)(a) and (c) |
+| Article 10(5) | Article 10(9)(b) |
+| — | Article 10(4) to (5) and (8) |
+| Article 10(6) | Recital 5, Article 14(2) |
+| Article 11 | Article 11 |
+| Article 12 | — |
+| Article 13 | Article 12 |
+| Article 13a | Article 13 |
+| Article 14 | Article 15 |
+| — |  |
+| Article 15 | Article 16 |
+| — | Annexes I and II |
+
+( 1 ) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+
+( 2 ) Guideline (EU) 2022/912 of the European Central Bank of 24 February 2022 on a new-generation Trans-European Automated Real-time Gross Settlement Express Transfer system (TARGET) and repealing Guideline ECB/2012/27 (ECB/2022/8) (OJ L 163, 17.6.2022, p. 84).
+
+( 3 ) Council Regulation (EC) No 2533/98 of 23 November 1998 concerning the collection of statistical information by the European Central Bank (OJ L 318, 27.11.1998, p. 8).
+
+( 4 ) Directive 2001/24/EC of the European Parliament and of the Council of 4 April 2001 on the reorganisation and winding up of credit institutions (OJ L 125, 5.5.2001, p. 15).
+
+( 5 ) Guideline (EU) 2015/510 of the European Central Bank of 19 December 2014 on the implementation of the Eurosystem monetary policy framework (ECB/2014/60) (OJ L 91, 2.4.2015, p. 3).
+
+( 6 ) Guideline (EU) 2019/671 of the European Central Bank of 9 April 2019 on domestic asset and liability management operations by the national central banks (ECB/2019/7) (OJ L 113, 29.4.2019, p. 11).

@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(codified version)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2011/77/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 September 2011 </td><td> L 265</td><td>1</td><td>11.10.2011</td></tr>
+</table>
 
 **DIRECTIVE 2006/116/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -192,9 +194,11 @@ This Directive is addressed to the Member States.
 
 **Repealed Directive with its amendment**
 
+<table>
 <tbody><tr><td>Council Directive 93/98/EEC (OJ L 290, 24.11.1993, p. 9) </td><td rowspan="2">Article 11(2) only</td></tr>
 <tr><td>Directive 2001/29/EC of the European Parliament and of the Council (OJ L 167, 22.6.2001, p. 10) </td></tr>
 </tbody>
+</table>
 
 **PART B**
 

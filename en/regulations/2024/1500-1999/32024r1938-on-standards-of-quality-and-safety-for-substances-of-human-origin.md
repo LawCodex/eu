@@ -1,0 +1,2125 @@
+---
+title: "Regulation (EU) 2024/1938 of the European Parliament and of the Council of 13 June 2024 on standards of quality and safety for substances of human origin intended for human application and repealing Directives 2002/98/EC and 2004/23/EC (Text with EEA relevance)"
+identifier: "32024R1938"
+eli: "http://data.europa.eu/eli/reg/2024/1938/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-06-13
+entry_into_force: 2025-01-01
+last_amended: 2024-07-17
+consolidated_version: "02024R1938-20240717"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1938-20240717"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2024/1938 of the European Parliament and of the Council of 13 June 2024 on standards of quality and safety for substances of human origin intended for human application and repealing Directives 2002/98/EC and 2004/23/EC (Text with EEA relevance)
+
+**REGULATION (EU) 2024/1938 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 June 2024**
+
+**on standards of quality and safety for substances of human origin intended for human application and repealing Directives 2002/98/EC and 2004/23/EC**
+
+**(Text with EEA relevance)**
+
+**REGULATION (EU) 2024/1938 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 June 2024**
+
+**on standards of quality and safety for substances of human origin intended for human application and repealing Directives 2002/98/EC and 2004/23/EC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Regulation establishes measures that set high standards of quality and safety for all substances of human origin (SoHO) intended for human application and for activities related to those substances. It ensures a high level of human health protection, in particular for SoHO donors, SoHO recipients and offspring from medically assisted reproduction, including by strengthening the continuity of supply of critical SoHO.
+
+### Article 2 — Scope
+
+1\. This Regulation applies to:
+
+(a) SoHO intended for human application and SoHO used to manufacture products regulated by other Union legislation, as referred to in paragraph 6, and intended for human application;
+
+(b) SoHO donors, SoHO recipients and offspring from medically assisted reproduction;
+
+(c) SoHO activities that have a direct impact on the quality, safety or effectiveness of SoHO, as follows:
+
+(i) SoHO donor registration;
+
+(ii) SoHO donor history review and medical examination;
+
+(iii) testing of SoHO donors or of persons from whom SoHO are collected for autologous or within-relationship use;
+
+(iv) collection;
+
+(v) processing;
+
+(vi) quality control;
+
+(vii) storage;
+
+(viii) release;
+
+(ix) distribution;
+
+(x) import;
+
+(xi) export;
+
+(xii) human application;
+
+(xiii) clinical-outcome registration.
+
+2\. This Regulation does not apply to:
+
+(a) organs intended for transplantation within the meaning of Article 3, points (h) and (q), of Directive 2010/53/EU;
+
+(b) breast milk when used exclusively for feeding one’s own child, without any processing carried out by a SoHO entity.
+
+3\. This Regulation shall be without prejudice to national legislation which establishes rules relating to aspects of SoHO other than their quality and safety and other than the safety of SoHO donors.
+
+4\. By way of derogation from paragraph 1 of this Article, the provisions of this Regulation concerning the publication or communication of information, in particular the obligations in that respect set out in Article 4(2), Article 7, Article 19(3), Articles 29, 31, 41, 63, 64 and 67 and Article 81(3), point (b), shall not apply when such publication or communication might imply a risk to national security and defence.
+
+5\. In the case of SoHO intended for autologous use where:
+
+(a) SoHO are processed or stored before human application, this Regulation applies;
+
+(b) SoHO are neither processed nor stored before human application, this Regulation does not apply.
+
+6\. In the case of SoHO collected for the purposes of manufacturing medical devices, regulated by Regulation (EU) 2017/745, medicinal products, regulated by Directive 2001/83/EC, advanced therapy medicinal products, regulated by Regulation (EC) No 1394/2007, or investigational medicinal products, regulated by Regulation (EU) No 536/2014, the provisions of this Regulation applicable to the SoHO activities referred to in paragraph 1, points (c)(i) to (iv) and (viii), of this Article apply. Insofar as the SoHO activities referred to in paragraph 1, points (c)(vii), (ix), (x) and (xi), of this Article are carried out on SoHO up to and including their distribution to a manufacturer regulated by other Union legislation, as referred to in this paragraph, this Regulation also applies.
+
+7\. By way of derogation from paragraph 6, where SoHO are used to manufacture products regulated by other Union legislation and those products are exclusively for therapeutic use on the person from whom the SoHO were collected, the provisions of this Regulation relating to the SoHO activities referred to in paragraph 1, points (c)(iii) and (iv), apply.
+
+8\. Where non-viable SoHO or their derivatives, within the meaning of Article 2, points (16) and (17), of Regulation (EU) 2017/745, incorporate, as an integral part, a medical device, and where the action of the non-viable SoHO or their derivatives is principal to that of the medical device, this Regulation applies to the non-viable SoHO or their derivatives and the final combination shall be subject to this Regulation. Where the action of the non-viable SoHO or their derivatives is ancillary to that of the medical device, this Regulation applies to all SoHO activities to which the non-viable SoHO or their derivatives are subjected up to and including their distribution for integration into the medical device, and the final combination shall be subject to Regulation (EU) 2017/745.
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘substance of human origin’ or ‘SoHO’ means any substance collected from the human body, whether it contains cells or not and whether those cells are living or not, including SoHO preparations resulting from the processing of such substance;
+
+(2) ‘critical SoHO’ means a SoHO for which an insufficient supply will result in serious harm or risk of serious harm to recipients’ health or in a serious interruption in the manufacture of products regulated by other Union legislation, as referred to in Article 2(6), where an insufficient supply of such products will result in serious harm or risk of serious harm to human health;
+
+(3) ‘reproductive SoHO’ means human sperm, oocytes, ovarian and testicular tissue intended to be used for the purpose of medically assisted reproduction or restoring endocrine function; for the purposes of this definition, embryos are considered reproductive SoHO even though they are not collected from the human body;
+
+(4) ‘blood component’ means a constituent of blood, such as red blood cells, white blood cells, platelets and plasma, that can be separated from it;
+
+(5) ‘SoHO donation’ means a process by which a person voluntarily and altruistically gives SoHO from their own body for persons in need, or authorises the use of such SoHO after their death; it includes the necessary medical formalities, examination and treatments and monitoring of the SoHO donor, irrespective of whether that donation is successful or not; it also includes, where applicable, the consent given by an authorised person in accordance with national legislation;
+
+(6) ‘SoHO donor’ means a living or deceased SoHO donor;
+
+(7) ‘living SoHO donor’ means a living person who has volunteered to a SoHO entity, or has been presented by a person granting consent on their behalf, in accordance with national legislation, with a view to making a donation of SoHO, for the purpose of use in a person other than themselves, and other than in situations of within-relationship use;
+
+(8) ‘deceased SoHO donor’ means a deceased person who has been referred to a SoHO entity with a view to SoHO collection, and from whom consent had been granted in that respect or from whom SoHO collection is permitted, in accordance with national legislation;
+
+(9) ‘SoHO recipient’ means the person to whom SoHO are applied or the human application of SoHO is envisaged, whether by allogeneic, autologous or within-relationship use;
+
+(10) ‘recipient’ means a SoHO recipient or any person receiving a product manufactured from SoHO, regulated by other Union legislation, as referred to in Article 2(6);
+
+(11) ‘consent’ means:
+
+(a) the permission given freely without coercion by a living SoHO donor or a SoHO recipient for an action affecting them to proceed;
+
+(b) the permission given freely without coercion by any person granting consent on behalf of a living SoHO donor or a SoHO recipient who has no capacity to consent, or the authorisation granted under national legislation, for an action to proceed in relation to the living SoHO donor or the SoHO recipient; or
+
+(c) the permission given freely without coercion by any person granting consent, or the authorisation granted under national legislation, for an action to proceed in the case of a deceased SoHO donor in accordance with national legislation;
+
+(12) ‘allogeneic use’ means the human application of SoHO collected from a person other than the SoHO recipient;
+
+(13) ‘autologous use’ means the human application of SoHO collected from a person to the same person;
+
+(14) ‘within-relationship use’ means the use of reproductive SoHO for medically assisted reproduction between persons with an intimate physical relationship;
+
+(15) ‘third-party donation’ means a donation of reproductive SoHO to be used for medically assisted reproduction in a SoHO recipient with whom the SoHO donor does not have an intimate physical relationship;
+
+(16) ‘medically assisted reproduction’ means any laboratory or medical intervention, including any preparatory steps, that involves the handling of reproductive SoHO for the purpose of the facilitation of pregnancy or for preservation of fertility;
+
+(17) ‘preservation of fertility’ means the process of saving or protecting a person’s reproductive SoHO intended to be used later in that person’s life;
+
+(18) ‘offspring from medically assisted reproduction’ means children born following medically assisted reproduction;
+
+(19) ‘human application’ means being inserted, implanted, injected, infused, transfused, transplanted, ingested, transferred, inseminated or otherwise added to the human body in order to create a biological interaction with that body;
+
+(20) ‘SoHO donor recruitment’ means any activity aimed at informing persons about activities related to SoHO donation or at encouraging them to donate SoHO;
+
+(21) ‘SoHO donor registration’ means recording in a registry, and transferring to other registries, where appropriate, information on a SoHO donor that is essential for identifying a match with a prospective SoHO recipient;
+
+(22) ‘collection’ means a process by which SoHO are obtained from a person, including any preparatory steps, such as hormone treatment, needed to facilitate the process at, or under the supervision of, a SoHO entity;
+
+(23) ‘processing’ means any operation involved in the handling of SoHO, including, but not limited to, washing, shaping, separation, decontamination, sterilisation, preservation and packaging, except for the preparatory handling of SoHO for immediate human application during a surgical intervention, without the SoHO being removed from the surgical field before they are applied;
+
+(24) ‘quality control’ means performing a pre-defined test or set of tests or checks to confirm that pre-defined quality criteria are met;
+
+(25) ‘storage’ means the maintenance of SoHO under appropriate controlled conditions;
+
+(26) ‘release’ means a process through which it is verified that a SoHO meets defined quality and safety criteria and fulfils the conditions of any applicable authorisation, before distribution or export;
+
+(27) ‘distribution’ means providing, within the Union, released SoHO:
+
+(a) intended for human application to a specific SoHO recipient in the same or in another SoHO entity;
+
+(b) intended for human application in general, without the prior identification of a specific SoHO recipient, in the same or in another SoHO entity;
+
+(c) intended for the manufacture of products regulated by other Union legislation, as referred to in Article 2(6), to a manufacturer of such products;
+
+(28) ‘import’ means activities carried out to bring SoHO into the Union from a third country before their release;
+
+(29) ‘third-country supplier’ means an organisation, located outside the Union, which is contracted to supply SoHO or to perform activities that might influence the quality and safety of the SoHO imported;
+
+(30) ‘export’ means activities carried out to send SoHO from the Union to a third country;
+
+(31) ‘clinical-outcome registration’ means the management of a clinical registry where information on the results from the implementation of a clinical-outcome monitoring plan are recorded, including transferring such information to other registries;
+
+(32) ‘clinical-outcome monitoring plan’ means a programme for evaluating the safety and effectiveness of a SoHO preparation following human application;
+
+(33) ‘SoHO entity’ means an entity legally established in the Union that carries out one or more of the SoHO activities referred to in Article 2(1), point (c);
+
+(34) ‘critical SoHO entity’ means a SoHO entity that carries out activities contributing to the supply of critical SoHO and the scale of those activities is such that a failure to carry them out cannot be compensated by activities of other SoHO entities or alternative substances or products for recipients;
+
+(35) ‘SoHO establishment’ means a SoHO entity that carries out any of the following SoHO activities:
+
+(a) both processing and storage;
+
+(b) release;
+
+(c) import;
+
+(d) export;
+
+(36) ‘responsible person’ means an appointed person in a SoHO entity who has the responsibility of ensuring compliance with this Regulation;
+
+(37) ‘SoHO preparation’ means a type of SoHO that:
+
+(a) has been subjected to processing and, where relevant, one or more other SoHO activities referred to in Article 2(1), point (c);
+
+(b) has a specific clinical indication; and
+
+(c) is intended for human application to a SoHO recipient or is intended for distribution;
+
+(38) ‘SoHO preparation authorisation’ means the formal approval by a SoHO competent authority of a SoHO preparation;
+
+(39) ‘effectiveness of SoHO’ means the extent to which the human application of SoHO achieves the intended biological or clinical outcome in the SoHO recipient;
+
+(40) ‘SoHO clinical study’ means an experimental evaluation of a SoHO preparation, with the objective of drawing conclusions regarding its safety and effectiveness;
+
+(41) ‘SoHO compendium’ means a list kept up-to-date by the SoHO Coordination Board (SCB) of decisions, taken at Member State level, and opinions, issued by SoHO competent authorities and by the SCB, on the regulatory status of specific substances, products or activities, and published on the EU SoHO Platform;
+
+(42) ‘vigilance’ means a set of organised surveillance and reporting procedures relating to adverse reactions and adverse events;
+
+(43) ‘adverse reaction’ means any incident which could be reasonably associated with the quality or safety of SoHO, or their collection from a SoHO donor or human application to a SoHO recipient, that caused harm to a living SoHO donor, to a SoHO recipient or to offspring from medically assisted reproduction;
+
+(44) ‘adverse event’ means any incident or error associated with SoHO activities that can affect the quality or safety of SoHO in such a way that implies a risk of harm to a living SoHO donor, to a SoHO recipient or to offspring from medically assisted reproduction;
+
+(45) ‘serious adverse reaction’ or ‘SAR’ means an adverse reaction that results in any of the following:
+
+(a) death;
+
+(b) life-threatening, disabling or incapacitating condition, including transmission of a pathogen or of a toxic substance that might cause such condition;
+
+(c) transmission of a genetic disorder that:
+
+(i) in the case of medically assisted reproduction with third-party donation, resulted in pregnancy loss or might result in a life-threatening, disabling or incapacitating condition in the offspring from medically assisted reproduction; or
+
+(ii) in the case of medically assisted reproduction in the context of within-relationship use, resulted in pregnancy loss or might result in a life-threatening, disabling or incapacitating condition in the offspring from medically assisted reproduction, due to a pre-implantation genetic test error;
+
+(d) hospitalisation or prolongation of hospitalisation;
+
+(e) the need for a major clinical intervention to prevent or reduce the effects of any of the results referred to in points (a) to (d);
+
+(f) prolonged sub-optimal health of a SoHO donor following single or multiple SoHO donations;
+
+(46) ‘serious adverse event’ or ‘SAE’ means an adverse event that poses a risk of any of the following:
+
+(a) inappropriate SoHO distribution;
+
+(b) a defect posing a risk to SoHO recipients or SoHO donors is detected in one SoHO entity that would have implications for other SoHO recipients or SoHO donors because of shared practices, services, supplies or critical equipment;
+
+(c) loss of a quantity of SoHO that causes human applications to be postponed or cancelled;
+
+(d) loss of highly matched SoHO or SoHO for autologous use;
+
+(e) a mix-up of reproductive SoHO in such a way that an oocyte is fertilised with sperm from a person other than the intended person, or reproductive SoHO are applied to a SoHO recipient other than the intended SoHO recipient;
+
+(f) loss of the traceability of SoHO;
+
+(47) ‘imputability’ means the likelihood that an adverse reaction, in a living SoHO donor, is associated with the collection process or that such a reaction, in a SoHO recipient or offspring from medically assisted reproduction, is associated with the human application of the SoHO;
+
+(48) ‘seriousness’ means the degree of severity of an adverse reaction, involving harm to a living SoHO donor, a SoHO recipient or offspring from medically assisted reproduction or for public health in general, or the degree of severity of an adverse event involving a risk of such harm;
+
+(49) ‘quality management system’ means a formalised system that documents the processes, procedures, and responsibilities to support achieving defined quality standards in a consistent manner;
+
+(50) ‘delegated body’ means a legal body to which the SoHO competent authority has delegated certain SoHO supervisory activities in accordance with Article 9(1);
+
+(51) ‘audit’ means a systematic and independent examination to determine whether activities and the related results of such activities comply with legislation and planned arrangements and whether such arrangements are applied effectively and are suitable to achieve the objectives;
+
+(52) ‘inspection’ means a formal and objective control by a SoHO competent authority or delegated body to assess compliance with the requirements of this Regulation and other relevant Union or national legislation;
+
+(53) ‘traceability’ means the ability to locate and identify SoHO from collection to human application, disposal or distribution for the manufacture of products regulated by other Union legislation, as referred to in Article 2(6);
+
+(54) ‘Single European Code’ means the unique identifier applied to certain SoHO distributed in the Union;
+
+(55) ‘EDQM SoHO monograph’ means a specification of the critical quality parameters of a particular SoHO preparation defined by the European Directorate for the Quality of Medicines & HealthCare of the Council of Europe (EDQM);
+
+(56) ‘compensation’ means making good of any losses or the reimbursement of expenses associated with SoHO donation;
+
+(57) ‘financial neutrality of donation’ means that no financial gain or loss will be incurred by the SoHO donor as a result of the donation;
+
+(58) ‘SoHO donor-base resilience’ means the capacity of the donation collection system to rely on a large number of SoHO donors for a given SoHO category;
+
+(59) ‘European self-sufficiency’ means the Union’s degree of independence from third countries in relation to the collection, the distribution and any other SoHO activity, related to critical SoHO.
+
+### Article 4 — More stringent Member State measures
+
+1\. Member States may maintain or introduce within their territories national measures that are more stringent than those provided for in this Regulation on condition that those measures are compatible with Union law, and are proportionate to the risk to human health, including in light of relevant scientific knowledge.
+
+2\. Member States shall make publicly available details of the more stringent measures adopted in accordance with paragraph 1 without undue delay, including via the internet. The SoHO national authority shall submit the details of any such more stringent measures to the EU SoHO Platform.
+
+## CHAPTER II — MEMBER STATES’ SOHO COMPETENT AUTHORITIES
+
+### Article 5 — Designation of SoHO competent authorities
+
+1\. Member States shall designate the SoHO competent authority or authorities to which they confer responsibility for SoHO supervisory activities. The SoHO competent authority or authorities designated shall be independent from any SoHO entity.
+
+2\. A Member State may confer responsibilities for SoHO supervisory activities to more than one SoHO competent authority, at national, regional or local level.
+
+3\. Member States shall ensure that SoHO competent authorities:
+
+(a) have the autonomy to act and make decisions independently and impartially while respecting the internal administrative organisational requirements determined under national legislation;
+
+(b) have the necessary powers:
+
+(i) to properly perform the SoHO supervisory activities they have been made responsible for, including having access to the premises of, and documents and samples kept by, SoHO entities and any third parties contracted by a SoHO entity;
+
+(ii) to order the immediate suspension or cessation of a SoHO activity that poses an immediate risk to SoHO donors, SoHO recipients, offspring from medically assisted reproduction or the general public;
+
+(c) have, or have access to, sufficient human and financial resources, operational capacity, and expertise, including technical expertise, to achieve the aims of, and fulfil their obligations under, this Regulation;
+
+(d) are subject to appropriate confidentiality obligations in order to comply with Article 75.
+
+4\. When a Member State designates only one SoHO competent authority in accordance with paragraph 1 of this Article, that SoHO competent authority shall also be considered as the SoHO national authority. When a Member State designates more than one SoHO competent authority in accordance with that paragraph, it shall designate a single SoHO national authority among them, in accordance with national law. The SoHO national authority shall be responsible for the tasks referred to in Article 8(2). The designation of a single SoHO national authority shall not prevent the Member State from assigning certain tasks to other SoHO competent authorities, in particular the management of SoHO rapid alerts, in order to ensure an efficient and agile communication when serious adverse reactions or serious adverse events involve more than one Member State.
+
+5\. Member States shall submit to the EU SoHO Platform, and keep updated, information on:
+
+(a) the name and contact details of the SoHO national authority referred to in paragraph 4;
+
+(b) the names and contact details of any SoHO competent authority designated in accordance with paragraph 1, when such SoHO competent authority is different from the SoHO national authority referred to in paragraph 4.
+
+### Article 6 — Independence and impartiality
+
+1\. When performing their tasks and exercising their powers, SoHO competent authorities shall act independently and impartially, in the public interest and free from any external influence, such as political influence or industry interference.
+
+2\. SoHO competent authorities shall ensure that personnel performing SoHO supervisory activities, including inspectors and assessors, have no financial or other interest that might be considered prejudicial to their independence and, in particular, that they are not placed in a situation that may, directly or indirectly, affect the impartiality of their professional conduct. Personnel performing SoHO supervisory activities shall provide a declaration of their interests and regularly update that declaration. On that basis, SoHO competent authorities shall take the relevant measures to mitigate the risk of conflict of interests.
+
+### Article 7 — Transparency
+
+1\. SoHO competent authorities shall:
+
+(a) carry out the SoHO supervisory activities they have been made responsible for in a transparent manner, at least by complying with the publication requirements provided for in this Regulation; and
+
+(b) make any enforcement decision pursuant to Article 19(7), (8) and (9), Article 25(3), (4) and (5), or Article 27(8), point (h), and the reasons for it, accessible and clear to the public in cases where:
+
+(i) a SoHO entity does not comply with this Regulation; or
+
+(ii) there is a serious risk to the safety of SoHO donors, recipients or offspring from medically assisted reproduction or to public health.
+
+2\. Paragraph 1 of this Article shall be without prejudice to Article 75 and to national legislation on access to information.
+
+3\. SoHO competent authorities shall lay down in their internal rules practical arrangements for implementing the transparency rules referred to in paragraph 1.
+
+### Article 8 — General responsibilities and obligations of SoHO competent authorities
+
+1\. SoHO competent authorities shall be responsible, within their territory, for SoHO supervisory activities in order to verify the effective compliance by:
+
+(a) SoHO entities with the requirements set out in this Regulation; and
+
+(b) SoHO preparations with their corresponding authorisation.
+
+2\. The SoHO national authority designated in accordance with Article 5(4) shall be responsible for coordinating the information exchanges with the Commission and with other Member States’ SoHO national authorities, as well as for carrying out other tasks, provided for in Article 4(2), Article 12(4), Article 13(2), (3) and (4), Article 16(1), Article 31(4), Article 33(13) and (14), Article 34(2), Article 62, Article 64(3), Article 65(3) and (4), and Article 68(2) and (5). The SoHO national authority may also be responsible for the task provided for in Article 12(1).
+
+3\. SoHO competent authorities shall:
+
+(a) have, or have access to, a sufficient number of suitably qualified and experienced personnel, human and financial resources, operational capacity, and expertise, including technical expertise, to carry out the SoHO supervisory activities they have been made responsible for, efficiently and effectively;
+
+(b) have procedures in place to ensure compliance with the confidentiality obligations set out in Article 75;
+
+(c) ensure the independence, impartiality, transparency, effectiveness, quality, suitability for purpose and consistency of their SoHO supervisory activities;
+
+(d) have appropriate and properly maintained premises and equipment to ensure that the personnel can perform their SoHO supervisory activities safely, efficiently and effectively;
+
+(e) have a quality management system or standardised documented procedures in place for the SoHO supervisory activities they have been made responsible for that includes a plan for continuity of their activities in the case of crisis situations that impede the normal performance of their tasks;
+
+(f) develop and implement, or provide access to, training programmes to ensure that personnel performing SoHO supervisory activities receive, for their area of competence, appropriate training;
+
+(g) provide opportunities for their personnel to participate in the Union training referred to in Article 70 where such training is available and relevant.
+
+### Article 9 — Delegation of certain SoHO supervisory activities to other bodies
+
+1\. Member States may empower a SoHO competent authority responsible for any of the SoHO supervisory activities referred to in Articles 20, 22, 27, 28 and 29, Article 31(1), Article 32(1), Article 33(2) and (3), Article 33(4), point (a), and Article 33(5), (6) and (8) to (12), to delegate that SoHO supervisory activity to one or more other bodies (‘delegated bodies’).
+
+2\. Member States shall ensure that the delegated bodies have the powers needed to effectively perform the SoHO supervisory activities delegated to them and fulfil the obligations set out in Article 10. SoHO competent authorities that delegate SoHO supervisory activities in accordance with paragraph 1 of this Article to a delegated body shall have in place a written agreement with that delegated body.
+
+3\. The delegating SoHO competent authorities shall ensure that the written agreement referred to in paragraph 2 of this Article includes at least the following:
+
+(a) a precise description of the SoHO supervisory activities that the delegated body is expected to perform, and the conditions under which those activities are expected to be performed;
+
+(b) the condition that the delegated body participates in certification or other schemes at Union level, when available, to ensure the uniform application of principles of good practices required for their relevant sector;
+
+(c) a precise description of the arrangements ensuring an efficient and effective coordination between the delegating SoHO competent authority and the delegated body;
+
+(d) provisions on the fulfilment of the obligations set out in Articles 10 and 11;
+
+(e) provisions on its termination in the case of withdrawal of the delegation pursuant to Article 11.
+
+4\. SoHO competent authorities that have delegated SoHO supervisory activities pursuant to paragraph 1 shall submit the names and contact details of the delegated bodies, together with the details concerning the delegated SoHO supervisory activities, to the EU SoHO Platform.
+
+### Article 10 — Obligations of the delegated bodies
+
+1\. Delegated bodies to which SoHO supervisory activities are delegated in accordance with Article 9 shall:
+
+(a) meet the obligations set out in Article 8(3);
+
+(b) inform the delegating SoHO competent authorities, on a regular basis and whenever those delegating SoHO competent authorities so request, of the outcome of the SoHO supervisory activities performed by them;
+
+(c) immediately inform the delegating SoHO competent authorities whenever the outcome of the delegated SoHO supervisory activities indicates non-compliance or points to the likelihood of non-compliance, unless specific written arrangements established between those delegating SoHO competent authorities and the delegated bodies provide otherwise; and
+
+(d) fully cooperate with the delegating SoHO competent authorities, including by providing access to their premises and documentation, including their information technology (IT) systems.
+
+2\. Articles 6 and 75 and, where relevant, Articles 23 and 30 shall apply to delegated bodies.
+
+### Article 11 — Obligations of the delegating SoHO competent authorities
+
+SoHO competent authorities that have delegated certain SoHO supervisory activities to delegated bodies in accordance with Article 9 shall:
+
+(a) regularly conduct audits of the delegated bodies;
+
+(b) fully or partly withdraw the delegation without delay, where necessary, and in particular in cases where:
+
+(i) there is evidence that the delegated bodies are failing to properly perform the SoHO supervisory activities delegated to them;
+
+(ii) the delegated bodies have failed to take appropriate and timely action to remedy the shortcomings identified in the course of conducting SoHO supervisory activities; or
+
+(iii) there is evidence that the independence or impartiality of the delegated bodies has been compromised.
+
+The interval between the audits referred to in the first paragraph, point (a), of this Article shall be determined by the delegating SoHO competent authority, taking into account the participation of the delegated bodies in certification or other schemes referred to in Article 9(3), point (b), as well as the scope and the impact of the delegated SoHO supervisory activities on the quality and safety of SoHO.
+
+### Article 12 — Communication and coordination between SoHO competent authorities
+
+1\. Where more than one SoHO competent authority is responsible for performing SoHO supervisory activities in a Member State pursuant to Article 5(2), the Member State or the SoHO national authority shall ensure efficient and effective coordination between all the SoHO competent authorities concerned in order to guarantee consistency and effectiveness of the SoHO supervisory activities performed on its territory.
+
+2\. Within a Member State, SoHO competent authorities shall cooperate with each other. They shall communicate information to each other and, in particular, to the SoHO national authority as necessary for the effective implementation of the SoHO supervisory activities provided for in this Regulation and of the tasks of the SoHO national authority, as referred to in Article 8(2).
+
+3\. In cases where a SoHO competent authority issues an opinion to a SoHO entity on the applicability of this Regulation to a particular substance, product or activity on its territory, that SoHO competent authority shall notify the SoHO national authority of the opinion issued, which, in turn, shall notify the SCB, for publication of that opinion in the SoHO compendium.
+
+4\. Following a duly substantiated request from the SoHO national authority of another Member State, the SoHO national authority shall without undue delay, and ensuring compliance with the confidentiality obligations set out in Article 75, inform the requesting SoHO national authority of the outcome of the SoHO supervisory activities concerning a SoHO entity on its territory, and, as necessary and proportionate, provide the requesting SoHO national authority with the relevant documentation related to the SoHO supervisory activities referred to in Articles 27 and 28.
+
+### Article 13 — Consultation and cooperation with authorities of other regulatory sectors
+
+1\. Member States shall ensure that their SoHO national authority has appropriate mechanisms in place to communicate with the competent authorities for organs designated under Directive 2010/53/EU and any competent authorities designated under other Union legislation referred to in Article 2(6) of this Regulation within the Member State concerned.
+
+2\. In all cases where questions arise as to the regulatory status of a substance, product or activity, the SoHO competent authorities shall, in addition to the obligation set out in Article 12(2), consult, via the SoHO national authority, with the competent authorities referred to in paragraph 1 of this Article, as appropriate, with a view to reaching a decision on the regulatory status of that substance, product or activity. In such cases, the SoHO competent authorities involved in the consultation shall also consult the SoHO compendium, and consider any relevant regulatory status decision and take into account any relevant opinion included therein.
+
+3\. In the course of the consultation referred to in paragraph 2, the SoHO competent authorities involved in such consultation may also, via their SoHO national authority, submit a request to the SCB for an opinion on the regulatory status of the substance, product or activity under this Regulation. The SoHO competent authorities shall do so in all cases where the consultation referred to in paragraph 2 has not lead to a decision on the regulatory status of such a substance, product or activity in the Member State concerned.
+
+The SoHO competent authorities involved in the consultation referred to in paragraph 2 of this Article may also, via their SoHO national authority, indicate if they consider that there is a need for the SCB to consult, before issuing its opinion and in accordance with Article 69(1), point (c), with the relevant equivalent advisory bodies established under other relevant Union legislation referred to in Article 2(6).
+
+The SoHO competent authorities involved in the consultation shall take into account the opinion issued by the SCB following such a request.
+
+4\. When a consultation referred to in paragraph 2 and, where relevant, paragraph 3 of this Article leads to a regulatory status decision, the SoHO competent authorities shall, via their SoHO national authority, inform the SCB of the decision taken in the Member State concerned with a view to the publication thereof by the SCB in the SoHO compendium, pursuant to Article 69(1), point (e). The SoHO competent authorities shall include a description of the reasons for the decision, and where the decision taken differs from the SCB opinion, provide a justification.
+
+5\. The Commission shall, upon a duly substantiated request from a Member State following the consultation referred to in paragraph 2 of this Article, or may on its own initiative, by means of implementing acts, determine the regulatory status of a substance, product or activity under this Regulation, where such a determination is needed to avoid risks to the safety of SoHO donors, recipients or offspring from medically assisted reproduction, or risks of a compromised access of recipients to safe and effective treatment. Such a request from a Member State shall be considered duly substantiated where questions arise in respect of the regulatory status of a substance, product or activity under this Regulation, in particular where such questions cannot be resolved at Member State level, or in consultations conducted in accordance with Article 69(1), point (c), between the SCB and the advisory bodies established under other relevant Union legislation referred to in Article 2(6).
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+6\. In the case of SoHO referred to in Article 2(6) or (8), the SoHO competent authorities shall cooperate with the competent authorities responsible for the supervisory activities under other relevant Union legislation referred to in Article 2(6), with a view to ensuring coherent oversight. During that process, the SoHO competent authorities may seek, via their SoHO national authority, the assistance and advice of the SCB concerning, inter alia, good cooperation practices that ensure coherent oversight when the regulatory status of SoHO changes.
+
+7\. The consultation and cooperation referred to in paragraphs 2, 3 and 6 may also be initiated on the basis of a request from a SoHO entity for an opinion.
+
+8\. Where a SoHO competent authority takes an enforcement decision concerning a SoHO entity that performs SoHO activities and activities regulated by other Union legislation and overseen by competent authorities as referred to in paragraph 1, the SoHO competent authority shall, without undue delay, via the SoHO national authority, inform the relevant competent authority designated under that other Union legislation of its decision.
+
+### Article 14 — Obligations as regards Commission controls
+
+SoHO competent authorities and delegated bodies shall cooperate with the Commission in respect of the performance of the Commission controls referred to in Article 71. In particular, they shall:
+
+(a) take appropriate follow-up measures to remedy the shortcomings identified through those Commission controls;
+
+(b) provide the necessary technical assistance and the available documentation, upon justified request, as well as any other support that the Commission requests to enable it to perform controls efficiently and effectively, including facilitating access to all premises or any part thereof, and to documentation, including IT systems, of the SoHO competent authority or delegated body that is relevant for the execution of their duties.
+
+### Article 15 — Transparency regarding fees for technical services required for making SoHO available
+
+Member States may take appropriate measures which aim to ensure transparency in the fees in respect of technical services required for making SoHO available.
+
+## CHAPTER III — SOHO SUPERVISORY ACTIVITIES
+
+### Article 16 — Register of SoHO entities
+
+1\. SoHO national authorities shall establish and maintain a register of SoHO entities on their territory. In carrying out that task, SoHO national authorities may make use of the EU SoHO Platform in accordance with Article 74(1). In such case, the SoHO national authority shall instruct SoHO competent authorities, where necessary, and SoHO entities to register directly on the EU SoHO Platform.
+
+2\. In cases where SoHO national authorities establish registries of SoHO entities outside the EU SoHO Platform, the SoHO competent authorities shall submit the information included in such registries to the EU SoHO Platform. SoHO competent authorities shall be responsible for ensuring that the information regarding the SoHO entities on their territory registered pursuant to Article 17 in the register of SoHO entities and on the EU SoHO Platform is consistent, and shall submit any changes in that information to the EU SoHO Platform without undue delay.
+
+3\. The Commission may adopt implementing acts concerning the set of data to be published for registered SoHO entities to facilitate the transfer of information from national registries to the EU SoHO Platform.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 17 — Registration of SoHO entities
+
+1\. SoHO competent authorities shall have procedures in place for the registration of SoHO entities in accordance with Article 35.
+
+2\. SoHO competent authorities shall verify that each SoHO entity registered in a national registry or the EU SoHO Platform has provided the information pursuant to Article 35(3) before publication of the registration on the EU SoHO Platform. Where national registries are in place, the SoHO competent authority shall submit the information on the registration to the EU SoHO Platform after carrying out that verification.
+
+3\. SoHO competent authorities shall verify whether an authorisation is required under Article 19, 25 or 26 for a registered SoHO entity, taking into account the declaration referred to in Article 35(4).
+
+4\. SoHO competent authorities shall identify whether the SoHO entity is a critical SoHO entity, in accordance with the criteria agreed by the SCB, taking into account the self-assessment carried out by the SoHO entity, where applicable, as referred to in Article 35(4). SoHO competent authorities shall update the registration information accordingly.
+
+5\. Where, on the basis of the information provided, an entity does not fall within the definition of a SoHO entity as set out in Article 3, point (33), the SoHO competent authority shall remove the registration from the EU SoHO Platform and, where applicable, from the national registry, and inform the entity without undue delay.
+
+6\. SoHO competent authorities shall:
+
+(a) acknowledge receipt of the registration without undue delay;
+
+(b) request the SoHO entity to provide supplementary details on the information provided in accordance with Article 35(3), if needed;
+
+(c) provide instructions on the procedures to be followed to apply for an authorisation, where relevant;
+
+(d) where applicable, inform the SoHO entity of its status as a critical SoHO entity and of the related obligations pursuant to Articles 64 and 67;
+
+(e) inform the SoHO entity that its registration has been verified and published on the EU SoHO Platform.
+
+7\. In the case of changes in the information registered by the SoHO entity in accordance with Article 35(6), SoHO competent authorities shall verify those changes and publish the updated registration on the EU SoHO Platform without undue delay, including in the case of cessation of SoHO activities of the SoHO entity concerned.
+
+### Article 18 — SoHO preparation authorisation system
+
+1\. SoHO competent authorities shall establish and maintain a system for granting SoHO preparation authorisations to SoHO entities located in their territory. Such a system shall include the reception and processing of applications and the approval of clinical-outcome monitoring plans to generate the evidence required for authorisation, where necessary, and shall allow for the suspension or withdrawal of authorisations.
+
+2\. SoHO competent authorities shall authorise SoHO preparations in accordance with Articles 19, 20 and 21 and, where applicable, Article 22.
+
+3\. The requirement of SoHO preparation authorisation shall be waived for SoHO that are intended to be distributed for the manufacture of products regulated by other Union legislation, as referred to in Article 2(6).
+
+4\. SoHO preparation authorisations shall be valid throughout the Union for the period set out in the authorisation granted pursuant to Article 19(2), point (e), or until the SoHO competent authority has suspended or withdrawn the authorisation. Where a Member State has adopted a more stringent measure in accordance with Article 4, which relates to a specific SoHO preparation, that Member State may decline to recognise the validity of the SoHO preparation authorisation of another Member State until the SoHO entity authorised for that SoHO preparation has demonstrated to that Member State compliance with that more stringent measure.
+
+### Article 19 — Authorisation of SoHO preparations
+
+1\. SoHO competent authorities shall provide guidelines and templates for the submission of applications for SoHO preparation authorisations in accordance with Article 39, and for the design of the clinical-outcome monitoring plans referred to in Article 21. When developing those guidelines and templates, SoHO competent authorities shall use the templates and take into account the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d). SoHO competent authorities may establish simplified procedures for applications concerning modifications to previously authorised SoHO preparations. SoHO competent authorities may use the secure communication channel on the EU SoHO Platform for the exchange, with the SoHO entity, of documents relating to the application for authorisation of SoHO preparations.
+
+2\. Upon receipt of an application for a SoHO preparation authorisation, SoHO competent authorities shall:
+
+(a) acknowledge receipt of the application without undue delay;
+
+(b) assess the SoHO preparation pursuant to Article 20 and examine agreements between the applicant SoHO entity and any SoHO entity or third party contracted by that applicant SoHO entity to perform activities or relevant steps of the processing in relation to the SoHO preparation, where applicable;
+
+(c) request the applicant SoHO entity to provide supplementary information, if needed;
+
+(d) grant or refuse the approval for clinical-outcome monitoring plans, as appropriate, in accordance with Article 20(4), points (c) and (d), and indicate a time limit for the applicant SoHO entity to submit the results of the approved clinical-outcome monitoring;
+
+(e) on the basis of the assessment under point (b) of this paragraph, and of the results of the clinical-outcome monitoring referred to in point (d) of this paragraph, where applicable, grant or refuse the authorisation for the SoHO preparation and, indicate which conditions apply, if any.
+
+3\. SoHO competent authorities shall submit information regarding the authorisation granted in respect of the SoHO preparation, including a summary of the evidence used to authorise that SoHO preparation, to the EU SoHO Platform and, for that SoHO preparation, they shall amend accordingly the authorisation information of the SoHO entity concerned.
+
+4\. SoHO competent authorities shall conclude the SoHO preparation authorisation steps referred to in paragraph 2 of this Article, within the time limit set out for the authorisation taking into account best practices documented and published by the SCB, as referred to in Article 69(1), point (d). Such time limit may be extended for:
+
+(a) the duration of the consultations referred to in Article 13(2) and (3);
+
+(b) the time needed to prepare and submit a response to a request for additional information to the SoHO entity;
+
+(c) the time needed to perform clinical-outcome monitoring; or
+
+(d) the time needed to perform additional validation or to generate additional quality and safety data as requested by the SoHO competent authority.
+
+5\. For SoHO preparations that incorporate a medical device, as defined in Article 2, point (1), of Regulation (EU) 2017/745, as an integral part, and where that medical device has an action that is ancillary to that of the SoHO preparation, SoHO competent authorities shall verify that the medical device has been certified by the notified body under that Regulation.
+
+6\. Where a SoHO competent authority receives in the course of the conformity assessment procedure pursuant to Article 52 of Regulation (EU) 2017/745 a request for an opinion in relation to a medical device that incorporates a SoHO preparation as an integral part, and where that medical device has an action that is principal to that of the SoHO preparation, it shall provide an opinion regarding compliance of the SoHO preparation part with this Regulation, in accordance with Section 5.3.1 of Annex IX to that Regulation, and inform the SCB of the opinion provided.
+
+7\. SoHO competent authorities may, in accordance with national legislation, suspend the SoHO preparation authorisation where SoHO supervisory activities demonstrate, or give reasonable ground for suspecting, that such SoHO preparation, or any activities performed in respect of that preparation, do not comply with the conditions of its authorisation or with this Regulation. SoHO competent authorities shall, in accordance with national legislation, suspend the SoHO preparation authorisation when an imminent risk to the safety of SoHO donors, recipients or offspring from medically assisted reproduction, or an imminent risk of unnecessary wastage of critical SoHO, is identified.
+
+SoHO competent authorities shall specify a period of time for the investigation of the suspected non-compliance and for SoHO entities to rectify a confirmed non-compliance, during which the suspension will remain in place.
+
+8\. Where SoHO competent authorities have confirmed cases of non-compliance as referred to in paragraph 7, and SoHO entities are not able to rectify them in the specified time period, SoHO competent authorities shall, in accordance with national legislation, withdraw the SoHO preparation authorisation from the SoHO entities concerned.
+
+9\. SoHO competent authorities may, in accordance with national legislation, withdraw the SoHO preparation authorisation if a suspension, as referred to in paragraph 7, is not sufficient to resolve the identified shortcomings.
+
+10\. In cases of suspension or withdrawal of a SoHO preparation authorisation, as referred to in paragraphs 7, 8 and 9, SoHO competent authorities shall, without undue delay, amend accordingly the authorisation information for the SoHO entity concerned on the EU SoHO Platform.
+
+11\. Where the procedures referred to in this Article have not been carried out, SoHO competent authorities may exceptionally authorise, at the request of the SoHO entity responsible for a planned human application of a SoHO preparation to a specific SoHO recipient within their territory, that human application provided that:
+
+(a) the specific SoHO recipient has no therapeutic alternative, the treatment cannot be postponed or the specific SoHO recipient’s prognosis is life-threatening;
+
+(b) the safety and effectiveness of the SoHO preparation can reasonably be assumed on the basis of the available clinical data; and
+
+(c) the SoHO recipient concerned is informed that the SoHO preparation concerned has not been authorised under this Regulation.
+
+SoHO competent authorities may require that the SoHO entity concerned provide a summary of the clinical outcome in the specific case and shall inform the SoHO national authority of that exceptional authorisation without undue delay.
+
+12\. The Commission may adopt implementing acts concerning the procedures to authorise SoHO preparations pursuant to this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 20 — Assessment of SoHO preparations
+
+1\. The assessment of a SoHO preparation shall include a review of all SoHO activities that are performed for that SoHO preparation and that might influence the quality, safety and effectiveness of that SoHO preparation.
+
+2\. SoHO preparation assessors who meet the requirements set out in Article 23 shall carry out the assessment of SoHO preparations.
+
+3\. Where a SoHO preparation that is subject to an application for SoHO preparation authorisation pursuant to Article 19 has been duly authorised in another SoHO entity in the same or in another Member State, SoHO competent authorities may authorise that SoHO preparation, provided that the SoHO competent authorities have verified, with the permission of the SoHO entities concerned, that the SoHO activities performed and the steps of the processing applied for that SoHO preparation are carried out by the applicant SoHO entity in such a manner that the quality, safety and effectiveness results of the SoHO preparation will be equivalent to those demonstrated in the SoHO entity where the SoHO preparation was first authorised.
+
+4\. Where a SoHO preparation that is subject to an application for SoHO preparation authorisation pursuant to Article 19 has not been authorised in another SoHO entity, or where the SoHO competent authority chooses not to take a SoHO preparation authorisation in another Member State into account, the SoHO competent authority shall:
+
+(a) assess the adequacy of the information provided by the applicant SoHO entity pursuant to Article 39(2), point (b);
+
+(b) initiate the consultation provided for in Article 13, if, during the assessment of the information referred to in point (a) of this paragraph, questions arise as to whether the SoHO preparation falls, in part or fully, within the scope of this Regulation or other Union legislation, taking into account the activities performed for the SoHO preparation and the intended human application;
+
+(c) evaluate the benefit-risk assessment carried out by the applicant SoHO entity pursuant to Article 39(2), point (c), including the scientific evidence and clinical data provided regarding the expected benefit and risk;
+
+(d) in cases where the evidence provided in accordance with point (c) of this paragraph is not sufficient to provide certainty that the benefit outweighs the risk or where the risk is more than negligible, evaluate the plan to gather further evidence of safety and effectiveness through clinical-outcome monitoring, and the plan’s proportionality to the level of risk and expected benefit of the SoHO preparation in accordance with Article 21;
+
+(e) consult the SCB, pursuant to Article 69(1) on the evidence necessary and sufficient for the authorisation of a particular SoHO preparation where the best practices referred to in paragraph 7 of this Article are not sufficient;
+
+(f) assess, in the case of a clinical-outcome monitoring plan previously approved pursuant to Article 19(2), point (d), the results of the clinical-outcome monitoring upon its completion and submission of the results by the applicant.
+
+5\. When assessing the SoHO preparation pursuant to paragraph 4, points (d) and (f), SoHO competent authorities shall verify, in the cases where the applicant SoHO entity has proposed to record, and recorded, the results of the clinical-outcome monitoring in an existing clinical registry, whether that clinical registry has data quality management procedures in place that ensure adequate accuracy and completeness of data.
+
+6\. SoHO competent authorities shall conduct the assessment referred to in paragraphs 3 and 4 of this Article by means of a remote document review. SoHO competent authorities may also, as part of the SoHO preparation assessment, carry out inspections pursuant to Articles 27, 28 and 29. Pursuant to Article 12, Member States shall ensure communication and cooperation between SoHO preparation assessors and inspectors.
+
+7\. When conducting the assessment steps referred to in paragraph 4 of this Article, SoHO competent authorities shall take into account the best practices documented and published by the SCB, as referred to in Article 69(1), point (d).
+
+### Article 21 — Clinical-outcome monitoring plans
+
+1\. In cases where the scientific evidence and clinical data provided as part of the benefit-risk assessment carried out by the applicant SoHO entity, as referred to in Article 20(4), point (c), is not sufficient, or where the risk is more than negligible, the SoHO competent authority shall approve a clinical-outcome monitoring plan submitted by the applicant SoHO entity. The approved clinical-outcome monitoring plan shall be the basis for the gathering of further evidence to allow for the assessment and authorisation of the new SoHO preparation or a new indication for the SoHO preparation.
+
+2\. Clinical-outcome monitoring plans shall not be approved in cases where scientific evidence and clinical data provided as part of the benefit-risk assessment indicate a relevant level of risk without a significant expected benefit.
+
+3\. The clinical-outcome monitoring plan shall include the following:
+
+(a) in cases of low risk, and an expected positive benefit-risk assessment, pro-active clinical follow-up of a pre-defined number of SoHO recipients;
+
+(b) in cases of moderate risk, and an expected positive benefit-risk assessment, in addition to point (a), a SoHO clinical study of a pre-defined number of SoHO recipients required to be able to assess pre-defined clinical end-points;
+
+(c) in cases of high risk, and an expected positive benefit-risk assessment, and in cases where the risk or the benefit are not evaluable due to a lack of scientific and clinical data or knowledge, in addition to point (a), a SoHO clinical study of a pre-defined number of SoHO recipients required to be able to assess pre-defined clinical endpoints with a comparison to standard therapy.
+
+4\. In the cases referred to in paragraph 3, points (b) and (c), SoHO competent authorities shall register each approved SoHO clinical study on the EU SoHO Platform, providing the following information:
+
+(a) the name and address of the SoHO entity carrying out the SoHO clinical study;
+
+(b) a description of the SoHO type and the intended clinical indication;
+
+(c) a summary of the processing methodology;
+
+(d) a summary of the study design;
+
+(e) the planned date of commencement and completion of the SoHO clinical study.
+
+5\. In cases where SoHO supervisory activities indicate a risk for SoHO donors, SoHO recipients or offspring from medically assisted reproduction, SoHO competent authorities may withdraw the previous approval of the clinical-outcome monitoring plan. In such cases, the record on the EU SoHO Platform shall be modified without undue delay.
+
+### Article 22 — Joint SoHO preparation assessments
+
+1\. At the request of one or more SoHO competent authorities, via their SoHO national authority to another SoHO national authority, SoHO preparation assessments referred to in Article 20 may be carried out by SoHO preparation assessors assigned by more than one Member State, as a joint SoHO preparation assessment.
+
+2\. With the prior consent of the SoHO national authority, the SoHO competent authority receiving a request for a joint SoHO preparation assessment shall make all reasonable efforts to accept such a request, taking into account its available resources.
+
+3\. The SoHO competent authorities participating in a joint SoHO preparation assessment shall conclude a written agreement prior to carrying out the joint SoHO preparation assessment. Such a written agreement shall specify at least the following:
+
+(a) the scope of the joint SoHO preparation assessment;
+
+(b) the roles of the participating SoHO preparation assessors during and following the joint SoHO preparation assessment;
+
+(c) the powers and responsibilities of each participating SoHO competent authority.
+
+The SoHO competent authorities participating in the joint SoHO preparation assessment shall commit themselves in the agreement referred to in the first subparagraph to jointly accept the results of that assessment. That agreement shall be signed by all the participating SoHO competent authorities, including the respective SoHO national authorities.
+
+4\. Member States may set up joint SoHO preparation assessment programmes to facilitate frequent or routine joint SoHO preparation assessments. Member States may operate such programmes under a single written agreement as referred to in paragraph 3.
+
+5\. For the purpose of coordinating and performing joint SoHO preparation assessments, SoHO competent authorities shall take into account the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d).
+
+### Article 23 — Specific requirements concerning SoHO preparation assessors
+
+1\. SoHO preparation assessors shall:
+
+(a) possess a diploma, certificate or other evidence of formal qualifications in the field of medical, pharmaceutical or life sciences, awarded on completion of a university course of study or a course recognised as equivalent by the Member State concerned;
+
+(b) have expertise in the processes being assessed or the human applications for which the SoHO preparations will be used.
+
+2\. The assessment of SoHO preparations referred to in Article 20 may be done jointly by a team of persons which collectively have the qualifications and experience set out in paragraph 1 of this Article.
+
+3\. In exceptional cases, SoHO competent authorities may consider that a person’s considerable and relevant experience exempts that person from the requirements set out in paragraph 1.
+
+4\. Before SoHO preparation assessors take up their duties, SoHO competent authorities shall provide SoHO preparation assessors with a specific induction training on the procedures to be followed for the assessment of SoHO preparations in accordance with Articles 20 and 21.
+
+5\. SoHO competent authorities shall ensure that the specific induction training is complemented by specialised training for assessment of processing methods and technologies used for specific types of SoHO preparations, as well as by continuous training, as appropriate, throughout the career of the SoHO preparation assessors. SoHO competent authorities shall make all reasonable efforts to ensure that SoHO preparation assessors participating in joint SoHO preparation assessments have completed the relevant Union training referred to in Article 70(1) and are included in the list referred to in Article 70(5).
+
+6\. SoHO preparation assessors may be assisted by technical experts provided that SoHO competent authorities ensure that those experts comply with the requirements of this Regulation, in particular with those set out in Articles 6, 75 and 76.
+
+### Article 24 — SoHO establishment authorisation system
+
+1\. SoHO competent authorities shall establish and maintain a system for receiving and processing applications for SoHO establishment authorisation in their territory. The system shall allow for the suspension and withdrawal of authorisations.
+
+2\. In accordance with Article 25, SoHO competent authorities shall authorise as SoHO establishments the SoHO entities that fall within the definition of a SoHO establishment as set out in Article 3, point (35).
+
+3\. SoHO competent authorities shall include all SoHO activities to be carried out by a SoHO establishment in the authorisation granted, including those SoHO activities to be carried out outside of the premises of the SoHO establishment.
+
+4\. SoHO competent authorities may decide that certain SoHO entities that do not fall within the definition of a SoHO establishment as set out in Article 3, point (35), also need to be authorised as SoHO establishments, in particular SoHO entities that:
+
+(a) have significant influence on the quality and safety of SoHO due to the scale, criticality or complexity of the SoHO activities they perform; or
+
+(b) carry out SoHO activities in connection with multiple SoHO establishments.
+
+SoHO competent authorities shall inform the SoHO entity of such a decision and of the resulting obligation to comply with all provisions of this Regulation relating to SoHO establishments, including the submission of an application for SoHO establishment authorisation.
+
+5\. SoHO establishment authorisations shall be valid throughout the Union for the period set out in the terms of the authorisation, when such a time period has been defined, or until a SoHO competent authority has suspended or withdrawn the authorisation, or until the SoHO establishment has ceased to conduct SoHO activities. Where a Member State has adopted a more stringent measure in accordance with Article 4, which relates to a specific SoHO establishment authorisation, that Member State may decline to recognise the validity of the SoHO establishment authorisation of another Member State until it has verified compliance with that more stringent measure.
+
+### Article 25 — Authorisation of SoHO establishments
+
+1\. SoHO competent authorities shall provide guidelines and templates to allow that applications for SoHO establishment authorisations are submitted in accordance with Article 46. When developing those guidelines and templates, SoHO competent authorities shall take into account the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d). SoHO competent authorities may use the secure communication channel on the EU SoHO Platform for the exchange, with the SoHO establishment, of documents relating to the application for a SoHO establishment authorisation.
+
+2\. Upon receipt of an application for a SoHO establishment authorisation, SoHO competent authorities shall:
+
+(a) acknowledge receipt of the application without undue delay;
+
+(b) assess the application;
+
+(c) examine agreements between the applicant SoHO establishment and any SoHO entities contracted by that SoHO establishment to perform SoHO activities;
+
+(d) request the applicant SoHO establishment to provide supplementary information, if needed;
+
+(e) carry out an on-site inspection of the applicant SoHO establishment pursuant to Article 27, and, where applicable, of SoHO entities or third parties contracted by the SoHO establishment pursuant to Article 28;
+
+(f) inform the applicant SoHO establishment, without undue delay, of the outcome of the assessment and inspections referred to in points (b), (c) and (e), and in point (d), where relevant;
+
+(g) grant or refuse the authorisation of the applicant SoHO establishment as a SoHO establishment, as appropriate, and indicate which SoHO and which SoHO activities for each SoHO are subject to the authorisation and which conditions apply, if any;
+
+(h) submit information regarding the authorisation granted in respect of the SoHO establishment, by amending the status of the SoHO entity to SoHO establishment on the EU SoHO Platform without undue delay;
+
+(i) assess and, as appropriate, authorise any significant changes made by the SoHO establishment to the information provided in the application and communicated to them pursuant to Article 46(2), and update that information on the EU SoHO Platform.
+
+3\. SoHO competent authorities may, in accordance with national legislation, suspend the SoHO establishment authorisation, or the authorisation of certain SoHO activities which the SoHO establishment is authorised to perform, where SoHO supervisory activities demonstrate, or give reasonable grounds for suspecting that the SoHO establishment concerned does not comply with the conditions of its authorisation or with this Regulation. SoHO competent authorities shall, in accordance with national legislation, suspend the SoHO establishment authorisation when an imminent risk to the safety of SoHO donors, recipients or offspring from medically assisted reproduction, or an imminent risk of unnecessary wastage of critical SoHO, is identified.
+
+SoHO competent authorities shall specify a period of time for the investigation of a suspected non-compliance and for the SoHO establishment to rectify a confirmed non-compliance, during which the suspension will remain in place.
+
+4\. In cases where SoHO competent authorities have confirmed cases of non-compliance as referred to in paragraph 3 and SoHO establishments are not able to rectify them in the specified time period, SoHO competent authorities shall, in accordance with national legislation, withdraw the authorisation of those SoHO establishments.
+
+5\. SoHO competent authorities may, in accordance with national legislation, withdraw the SoHO establishment authorisation if a suspension, as referred to in paragraph 3, is not sufficient to resolve the identified shortcomings.
+
+6\. In cases of suspension or withdrawal of a SoHO establishment authorisation, as referred to in paragraphs 3, 4 and 5, SoHO competent authorities shall, without undue delay, amend accordingly the authorisation status of the SoHO establishment concerned on the EU SoHO Platform.
+
+### Article 26 — Authorisation of importing SoHO establishments
+
+1\. SoHO competent authorities shall authorise as importing SoHO establishments those SoHO entities that import SoHO, as referred to in Article 24(2).
+
+2\. Article 24(1), (3) and (5) and Article 25 shall apply, mutatis mutandis, to the authorisation of importing SoHO establishments.
+
+3\. Upon receipt of an application for an importing SoHO establishment authorisation, SoHO competent authorities shall act in accordance with Article 25(2). SoHO competent authorities shall also assess the procedures in place at the applicant importing SoHO establishment to ensure that the imported SoHO are equivalent, in terms of quality, safety and effectiveness, to SoHO preparations authorised in accordance with this Regulation.
+
+4\. With regard to Article 25(2), point (e), and in cases where the imported SoHO are not physically received by the importing SoHO establishment but are sent directly to the SoHO entity for human application to a specific SoHO recipient or to an operator for manufacturing a product regulated by other Union legislation, as referred to in Article 2(6), SoHO competent authorities may choose to carry out an inspection by means of remote document review.
+
+5\. SoHO competent authorities may require to inspect any third-country supplier to the applicant importing SoHO establishment prior to granting or refusing the importing SoHO establishment authorisation, in particular in cases where the application concerns regular and repeated import of SoHO from the same third-country supplier.
+
+6\. By way of derogation from paragraph 1, SoHO competent authorities may authorise imports of SoHO for immediate human application to a specific SoHO recipient, when requested by the SoHO entity responsible for that human application and when duly justified by the clinical circumstances on a case-by-case basis. SoHO competent authorities may also authorise imports of SoHO in emergency situations for immediate human application to SoHO recipients whose health would be seriously endangered without such an import of SoHO.
+
+7\. The Commission is empowered to adopt delegated acts in accordance with Article 77 to supplement this Regulation by laying down specific criteria for the assessment of the applications in the course of the authorisation of importing SoHO establishments.
+
+8\. Where, in the case of risk to quality and safety of imported SoHO, imperative grounds of urgency so require, the procedure provided for in Article 78 shall apply to delegated acts adopted pursuant to this Article.
+
+### Article 27 — Inspections of SoHO establishments
+
+1\. SoHO competent authorities of the Member States where SoHO establishments are located shall carry out inspections of those SoHO establishments, and, where applicable, of SoHO entities or third parties contracted by SoHO establishments.
+
+2\. SoHO competent authorities shall carry out the following inspections of SoHO establishments, as appropriate:
+
+(a) announced routine system inspections;
+
+(b) announced or unannounced inspections, in particular for the investigation of fraudulent or other illegal activities, or on the basis of information that indicates possible non-compliance with this Regulation;
+
+(c) announced or unannounced inspections targeted at a specific activity or topic as provided for in Article 20(6), Article 26(5), Article 29 and Article 33(6).
+
+3\. SoHO competent authorities that identify during inspections cases of non-compliance with this Regulation may include follow-up to those inspections, where necessary and proportionate, to verify that SoHO establishments have undertaken appropriate corrective and preventive actions.
+
+4\. SoHO competent authorities shall carry out on-site inspections. However, exceptionally, SoHO competent authorities may conduct inspections, in full or in part, by virtual means, or by remote document review, provided that:
+
+(a) such inspection modes do not pose a risk to the quality and safety of SoHO;
+
+(b) such inspection modes do not prejudice the effectiveness of inspections;
+
+(c) protection of SoHO donors, SoHO recipients or offspring from medically assisted reproduction is respected; and
+
+(d) the maximum interval between two on-site inspections pursuant to paragraph 9 is not exceeded.
+
+5\. SoHO competent authorities shall ensure that inspections are carried out by inspectors who meet the requirements set out in Article 30.
+
+6\. The inspections shall include the verification that SoHO establishments comply with the standards, or elements thereof, set out in Chapters VI and VII.
+
+In cases where the SoHO establishments follow:
+
+(a) the technical guidelines published by the ECDC and by the EDQM referred to in Article 56(4), point (a), and Article 59(4), point (a), as applicable, the inspectors shall consider the standards set out in this Regulation to be met, insofar as they are addressed by such guidelines;
+
+(b) other guidelines as referred to in Article 56(4), point (b), and Article 59(4), point (b), adopted by the Member State in accordance with paragraph 7 of this Article, the inspectors shall consider the standards set out in this Regulation to be met, insofar as they are addressed by such guidelines;
+
+(c) guidelines other than those referred to in point (a) or (b) of this paragraph, or other technical methods that are not addressed in guidelines, applied in specific circumstances, as referred to in Article 56(4), point (c), and Article 59(4), point (c), the inspectors shall evaluate the steps taken by the SoHO establishments to ensure the adequacy of such guidelines or technical methods, and their compliance with the standards set out in this Regulation; for that evaluation, the SoHO establishments shall provide the inspectors with all the necessary information, pursuant to Article 56(7) and Article 59(7).
+
+7\. When adopting the guidelines referred to in paragraph 6, point (b), of this Article, the Member State shall, prior to the inspection, verify and document that those guidelines are adequate to achieve compliance with the standards set out in Chapters VI and VII and shall make those guidelines available on the EU SoHO Platform. Those guidelines shall be deemed to be adequate to achieve compliance with the standards of this Regulation where they have been established to be equivalent with the technical guidelines published by the ECDC and by the EDQM referred to in paragraph 6, point (a), of this Article.
+
+8\. Inspectors shall carry out one or more of the following activities:
+
+(a) inspect premises;
+
+(b) evaluate and verify compliance of the procedures and the SoHO activities performed with the requirements of this Regulation;
+
+(c) examine any documents or other records relating to the requirements of this Regulation;
+
+(d) where applicable, evaluate the design and implementation of the quality management system in place pursuant to Article 37;
+
+(e) evaluate compliance with the vigilance and the traceability systems;
+
+(f) take samples for analysis, copies of documents, and photographs or videos, if required;
+
+(g) evaluate the SoHO entity emergency plan in place in accordance with Article 67, where applicable;
+
+(h) order or propose to the SoHO competent authority, the suspension or cessation of any procedure or activity or impose other measures, where necessary and proportionate to the risk detected; in such case, the inspector shall take all the necessary steps without undue delay.
+
+9\. Following the inspection referred to in Article 25(2), point (e), SoHO competent authorities shall carry out periodic inspections pursuant to paragraph 2, point (a), of this Article, so that the interval between two on-site inspections shall not exceed, in any event, 4 years. The frequency of inspections shall take account of:
+
+(a) identified risks associated with the type of SoHO that are subject to the SoHO establishment authorisation and the SoHO activities carried out;
+
+(b) the SoHO establishments’ past record as regards the outcome of previous inspections and their compliance with this Regulation;
+
+(c) the certification or accreditation by international bodies, where relevant;
+
+(d) the reliability and effectiveness of the quality management system referred to in Article 37.
+
+10\. Following each inspection, the SoHO competent authorities shall draw up a report on the findings of the inspection and provide it to the SoHO establishment concerned. Where the result of the inspection so requires, the SoHO competent authorities shall, as appropriate, set out any corrective or preventive action needed or shall request the SoHO establishment to respond with a proposal for such actions, with associated dates for completion.
+
+11\. For the purpose of inspections referred to in paragraph 1 of this Article, SoHO competent authorities shall take into account the relevant best practices on inspections documented and published by the SCB, as referred to in Article 69(1), point (d).
+
+12\. The Commission may adopt implementing acts concerning technical elements of the procedures to be followed for inspections of SoHO establishments.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 28 — Inspections of SoHO entities, other than SoHO establishments, and of third parties
+
+1\. SoHO competent authorities may carry out, pursuant to Article 27(1), inspections of SoHO entities other than SoHO establishments, and of the third parties contracted, as necessary and proportionate to the risks associated with the SoHO and the SoHO activities registered for that SoHO entity, and to the SoHO entity’s past compliance records.
+
+2\. In the cases referred to in paragraph 1 of this Article, Article 27 shall apply, mutatis mutandis, to the inspection of SoHO entities other than SoHO establishments and of the third parties contracted.
+
+### Article 29 — Joint inspections
+
+1\. At the request of one or more SoHO competent authorities, via their SoHO national authority to another SoHO national authority, inspections pursuant to Article 27(1) and Article 28(1) may be carried out with the participation of inspectors sent for that purpose by another Member State as a joint inspection.
+
+2\. With the prior consent of the SoHO national authority, the SoHO competent authority receiving a request for a joint inspection shall make all reasonable efforts to accept such a request, taking into account its available resources, in cases where:
+
+(a) the SoHO entity to be inspected performs SoHO activities in more than one Member State, that have impact in the requesting Member State;
+
+(b) the SoHO competent authorities of the requesting Member State require specialist technical expertise of another Member State for that inspection;
+
+(c) the SoHO competent authorities of the Member State receiving the request agree that there are other reasonable grounds for conducting a joint inspection.
+
+3\. Where the SoHO competent authority receives a request for joint inspection of a SoHO entity, it may decline that request, in particular if:
+
+(a) there has been a joint inspection in that SoHO entity within the previous year; or
+
+(b) a joint inspection of that SoHO entity is already being planned.
+
+4\. The SoHO competent authorities participating in a joint inspection shall conclude a written agreement prior to carrying out the joint inspection. Such a written agreement shall specify at least the following:
+
+(a) the scope and objective of the joint inspection;
+
+(b) the roles of the participating inspectors during and following the inspection, including the designation of the SoHO competent authority leading the inspection;
+
+(c) the powers and responsibilities of each participating SoHO competent authorities.
+
+The SoHO competent authorities participating in the joint inspection shall commit themselves in the agreement referred to in the first subparagraph to jointly accept the results of that inspection. That agreement shall be signed by all the participating SoHO competent authorities, including the respective SoHO national authorities.
+
+5\. The SoHO competent authority leading the joint inspection shall be a SoHO competent authority of the Member State in which the joint inspection takes place and shall ensure that the joint inspection is carried out in accordance with the national legislation of that Member State.
+
+The SoHO competent authority supervising the SoHO entity to be inspected through a joint inspection shall inform that SoHO entity in advance about the joint inspection and its nature, unless there are reasonable and duly justified grounds to suspect that such prior communication would compromise the effectiveness of the joint inspection.
+
+6\. Member States may set up joint inspection programmes to facilitate routine joint inspections. Member States may operate such programmes under a single written agreement as referred to in paragraph 4.
+
+7\. For the purpose of coordinating and performing joint inspections, SoHO competent authorities shall take into account the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d).
+
+### Article 30 — Specific requirements concerning inspectors
+
+1\. Inspectors shall possess a diploma, certificate or other evidence of formal qualifications in a relevant field, awarded on completion of a university course of study or a course recognised as equivalent by the Member State concerned.
+
+In exceptional cases, SoHO competent authorities may consider that a person’s considerable and relevant experience exempts that person from the requirements set out in the first subparagraph.
+
+2\. Before inspectors take up their duties, SoHO competent authorities shall provide inspectors with a specific induction training. For the specific induction training, SoHO competent authorities shall take into account the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d).
+
+3\. SoHO competent authorities shall ensure that the specific induction training includes at least the following:
+
+(a) the inspection techniques and procedures to be followed, including practical exercises;
+
+(b) an overview of relevant Union and national inspection guidance, where applicable, and the best practices documented and published by the SCB, as referred to in Article 69(1), point (d);
+
+(c) an overview of the authorisation systems in the Member State concerned;
+
+(d) the legal framework applicable to the performance of SoHO supervisory activities;
+
+(e) an overview of the technical aspects concerning SoHO activities;
+
+(f) SoHO technical guidelines as referred to in Articles 56 and 59;
+
+(g) an overview of the organisation and functioning of national regulatory authorities in the field of SoHO and related fields;
+
+(h) an overview of the national healthcare system and SoHO organisational structures in the Member State concerned.
+
+4\. SoHO competent authorities shall ensure that the specific induction training is complemented by specialised training for inspection of specific types of SoHO establishments and by continuous training, as appropriate. SoHO competent authorities shall make all reasonable efforts to ensure that inspectors participating in joint inspections have completed the relevant Union training referred to in Article 70(1) and are included in the list referred to in Article 70(5).
+
+5\. Inspectors may be assisted by technical experts provided that the SoHO competent authorities ensure that those experts comply with the relevant requirements of this Regulation.
+
+### Article 31 — Extraction, submission and publication of activity data
+
+1\. SoHO competent authorities shall verify that SoHO entities that have activity data collection and reporting obligations pursuant to Article 41 submit to their SoHO competent authorities, via the EU SoHO Platform, an annual report with those activity data. The EU SoHO Platform shall allow for the compilation of the annual reports submitted by the SoHO entities and provide the SoHO competent authorities with an annual aggregated report with the activity data from their SoHO entities.
+
+2\. By way of derogation from paragraph 1 of this Article, Member States may decide that SoHO entities shall submit the activity data referred to in Article 41(1) to SoHO competent authorities through national or international registries, in cases where such registries collect activity data matching the data sets indicated on the EU SoHO Platform. In such case, the SoHO competent authorities shall submit those activity data in accordance with the implementing acts adopted pursuant to Article 41(3).
+
+3\. SoHO competent authorities shall ensure that the annual aggregated report of activity data for their SoHO entities is made publicly available in their Member States, including via the internet. The annual aggregated report of activity data may also be published on the EU SoHO Platform after review and approval by SoHO national authorities.
+
+4\. The Commission shall compile the annual aggregated reports from the SoHO competent authorities and prepare an annual Union SoHO activity report. After having shared that report with the SoHO national authorities for their review and approval, the Commission shall publish the annual Union SoHO activity report and make it available on the EU SoHO Platform.
+
+### Article 32 — Traceability
+
+1\. SoHO competent authorities shall verify that SoHO entities have appropriate procedures in place to ensure traceability and coding of SoHO as referred to in Article 42.
+
+2\. SoHO competent authorities shall establish procedures for the unique identification of SoHO establishments that are to apply the Single European Code pursuant to Article 43. SoHO competent authorities shall ensure that such identification complies with the technical standards established for that coding system. For that purpose, SoHO competent authorities may use a SoHO establishment identification code generated by the EU SoHO Platform.
+
+### Article 33 — Vigilance
+
+1\. SoHO competent authorities shall be responsible for the supervision of vigilance associated with SoHO activities.
+
+2\. SoHO competent authorities shall provide guidance and templates for the submission of SAR or SAE notifications and investigation reports as referred to in Article 44. The guidance and templates provided shall take into account the best practices documented and published by the SCB as referred to in Article 69(1), point (d). SoHO competent authorities shall also establish procedures for the receipt of SAR or SAE notifications pursuant to Article 44.
+
+3\. Upon receipt of a SAR or SAE notification pursuant to Article 44(3), SoHO competent authorities shall:
+
+(a) verify that the notification includes the information referred to in Article 44(3);
+
+(b) respond to the submitting SoHO entity if additional documentation or corrections are required.
+
+4\. Upon receipt of a SAR or SAE notification pursuant to Article 44(3), SoHO competent authorities may:
+
+(a) provide advice on the investigation planned by the SoHO entity;
+
+(b) request advice from the SCB pursuant to Article 69(1).
+
+Where the SAR notification concerns a transmission of a communicable disease that is rare, or unexpected for that SoHO type, SoHO national authorities shall inform the ECDC. In such cases, the SoHO national authority shall take into account any advice or information provided by the ECDC or its SoHO expert network.
+
+5\. Upon receipt of a SAR or SAE investigation report, SoHO competent authorities shall:
+
+(a) verify that the investigation report includes the information required pursuant to Article 44(7);
+
+(b) assess the results of the investigation and of the corrective and preventive actions described;
+
+(c) request additional documentation from the submitting SoHO entity, if required;
+
+(d) inform the submitting SoHO entity of the conclusion of the assessment, if corrections are required.
+
+6\. SoHO competent authorities may carry out inspections, pursuant to Article 27 or 28, as appropriate, when the SAR or SAE notification or the investigation report received indicates, or gives reasonable grounds for suspecting, that requirements of this Regulation have not been complied with, or they may carry out inspections to verify an accurate implementation of the corrective and preventive actions planned, or when they consider that a particular serious adverse reaction or serious adverse event might constitute a public health threat.
+
+7\. Where a SAR or SAE notification concerns a risk to public health, SoHO competent authorities shall, without delay, communicate essential information to other SoHO competent authorities via the SoHO rapid alert procedure referred to in Article 34. SoHO competent authorities receiving that information shall in turn communicate it to the general public, where relevant.
+
+8\. Upon receipt of a SAR or SAE notification with implications for quality, safety or supply of a product manufactured from a SoHO and regulated by other Union legislation, as referred to in Article 2(6), SoHO competent authorities shall inform, without undue delay and via their SoHO national authority, the relevant authorities competent for that product, pursuant to Article 13(6).
+
+9\. Upon receipt of information regarding a serious incident within the meaning of Article 2, point (65), of Regulation (EU) 2017/745, or information regarding a serious adverse reaction within the meaning of Article 1, point (12), of Directive 2001/83/EC, associated with a product manufactured from or with SoHO, where that information indicates a possible association with the quality or safety of the SoHO used to manufacture that product, the SoHO competent authorities shall communicate without undue delay the information to the SoHO establishment that released the SoHO, to facilitate possible actions to prevent further distribution of the SoHO implicated in the serious incident or serious adverse reaction.
+
+10\. Upon receipt of information regarding a serious incident and field safety corrective action within the meaning of Article 2, points (65) and (68), of Regulation (EU) 2017/745, as well as within the meaning of Article 2, points (68) and (71), of Regulation (EU) 2017/746 of the European Parliament and of the Council ( 1 ), the SoHO competent authorities receiving such information shall communicate it to the SoHO entities that may be using the medical device concerned when carrying out their SoHO activities. The SoHO competent authorities shall also submit that information to their SoHO national authority, provided that the incident falls within the definition of a serious adverse reaction as set out in Article 3, point (45), of this Regulation or the definition of a serious adverse event as set out in Article 3, point (46), of this Regulation.
+
+11\. SoHO competent authorities or Member States shall ensure that the procedures referred to in paragraphs 1 to 6 of this Article provide for an adequate interconnection between the SAR and SAE notifications pursuant to this Article and the reporting system established in accordance with Article 11 of Directive 2010/53/EU, for instance where a SAR or SAE notification relates to SoHO donations by SoHO donors that also donated organs.
+
+12\. SoHO competent authorities shall submit to their SoHO national authority an annual summary of the SAR and SAE notifications and the investigation reports of confirmed serious adverse reactions and serious adverse events. That summary shall, where necessary, include recommendations arising from an analysis of the serious adverse reactions and serious adverse events reported.
+
+13\. SoHO national authorities shall submit an annual summary of confirmed SAR or SAE notifications and of the related investigation reports to the EU SoHO Platform before 30 June of the subsequent year and shall make an aggregated version of that summary publicly available in their Member State, including via the internet. SoHO national authorities shall include in the annual summary the numbers and types of SAR or SAE notifications reported to them that meet the thresholds of seriousness and imputability as set out in the best practices documented and published by the SCB, as referred to in Article 69(1), point (d).
+
+14\. The Commission shall aggregate the annual summaries of the SoHO national authorities, and prepare and publish an annual Union SoHO vigilance report, after having shared it with the SoHO national authorities for review and approval. That report shall include overall pattern analysis and recommendations.
+
+15\. The Commission may adopt implementing acts concerning the procedures to be followed for consultation and coordination between SoHO competent authorities and the ECDC concerning relevant SAR or SAE notifications and investigations.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 34 — SoHO rapid alerts
+
+1\. SoHO competent authorities shall, upon receipt of a SAR or SAE notification or other information with implications for quality, safety or supply of SoHO in more than one Member State, inform their SoHO national authority, which shall in turn launch a SoHO rapid alert on the EU SoHO Platform.
+
+2\. SoHO national authorities shall launch a SoHO rapid alert in particular in the following circumstances:
+
+(a) a risk to the quality or safety of SoHO has been identified concerning SoHO that have been distributed from their Member State to at least one other Member State;
+
+(b) an outbreak of a communicable disease has occurred in their Member State and they have put in place SoHO donor deferral or testing measures to mitigate the risks of transmission by SoHO;
+
+(c) a defect or serious supply interruption has occurred concerning equipment, devices, materials or reagents that are critical for the collection, processing, storage or distribution of SoHO and that might be used in other Member States;
+
+(d) other information is available to the SoHO national authorities that could reasonably be considered useful in other Member States to reduce risks to the quality or safety of SoHO and where the launch of a SoHO rapid alert is proportionate and necessary.
+
+3\. The ECDC, with the support of its SoHO expert network, may also launch a SoHO rapid alert on the EU SoHO Platform when surveillance of communicable diseases indicates a new risk to the safety of SoHO. The ECDC may indicate in such a SoHO rapid alert that it has provided guidelines on the mitigation of risks associated with communicable disease outbreaks, in particular concerning the eligibility and testing of SoHO donors.
+
+4\. SoHO national authorities that receive a SoHO rapid alert shall communicate relevant information to SoHO competent authorities in their Member State and to the relevant SoHO entities without undue delay with a view to ensuring that risk mitigating actions can be taken promptly and that relevant information available among professionals in the SoHO sector can be shared with the SoHO competent authorities. SoHO national authorities may also supplement the information provided in the SoHO rapid alert with further information such as details of relevant risk mitigating actions taken in their Member State.
+
+5\. SoHO national authorities and the ECDC shall take into account the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d), when launching and handling a SoHO rapid alert.
+
+## CHAPTER IV — GENERAL OBLIGATIONS ON SOHO ENTITIES
+
+### Article 35 — SoHO entity registration
+
+1\. Entities shall register as a SoHO entity before commencing any of the SoHO activities referred to in Article 2(1), point (c).
+
+Entities may request from a SoHO competent authority within their territory an opinion on whether the activities they are carrying out are subject to the registration requirements set out in this Chapter.
+
+2\. SoHO activities shall only be carried out by persons who operate within a registered SoHO entity.
+
+3\. In order to register as a SoHO entity, the SoHO entity shall provide the following information:
+
+(a) name of the SoHO entity and all addresses where SoHO activities are performed by the SoHO entity;
+
+(b) name and contact details of the responsible person as referred to in Article 36;
+
+(c) acknowledgment from the SoHO entity that it may be inspected pursuant to Article 28 and that it will cooperate with the relevant SoHO competent authority in any matter relating to the conduct of SoHO supervisory activities in accordance with this Regulation;
+
+(d) a list of the SoHO concerned and of the SoHO activities referred to in Article 2(1), point (c), that the SoHO entity carries out; where the SoHO entity carries out the SoHO activity referred to in Article 2(1), point (c)(iv), it shall also provide the name of the SoHO establishment responsible for the SoHO release prior to distribution;
+
+(e) where applicable, a list of SoHO establishments for which the SoHO entity performs SoHO activities covered by an agreement;
+
+(f) where applicable, details of any accreditation or certification received from an external body;
+
+(g) where applicable, information regarding activities carried out and regulated under other Union legislation, as referred to in Article 13(1).
+
+4\. SoHO entities shall declare, when registering, whether they need an authorisation pursuant to Article 19, 25 or 26. They shall also carry out a self-assessment of whether they meet the criteria for being a critical SoHO entity and communicate the result.
+
+5\. In Member States where the EU SoHO Platform is used for registration of SoHO entities, as referred to in Article 16(1), entities falling within the definition of a SoHO entity as set out in Article 3, point (33), shall register directly on the EU SoHO Platform in accordance with the instructions from their SoHO competent authorities.
+
+6\. SoHO entities shall register without undue delay changes to information registered pursuant to paragraph 3, points (a), (b) and (d) to (g). Where such changes indicate SoHO activities, including processing and storage, or release, or import or export of SoHO, those SoHO entities shall apply for an authorisation as SoHO establishment.
+
+7\. Where a registered SoHO entity partially or totally ceases to carry out its SoHO activities, it shall communicate this change on the register for SoHO entities without undue delay, indicating to which SoHO entity it will transfer SoHO for storage, and the data referred to in Article 42, where applicable.
+
+8\. Where the SoHO stored is intended for autologous or within-relationship use, or is a highly matched SoHO for a specific SoHO recipient, and the SoHO entity ceases SoHO activities affecting the storage or the possible use of such SoHO, it shall inform the persons from whom such SoHO were collected, and provide them with information about the new SoHO entity that will store such SoHO.
+
+### Article 36 — Responsible person
+
+1\. SoHO entities shall appoint a person responsible, within their entity, for ensuring that SoHO activities carried out by the SoHO entity comply with the requirements of this Regulation applicable to those SoHO activities.
+
+2\. The responsible person shall be in possession of a diploma, certificate or other evidence of formal qualifications in the field of medical, pharmaceutical or life sciences awarded on completion of a university course of study or a course recognised as equivalent by the Member State concerned and shall have at least 2 years of experience in the relevant field.
+
+3\. SoHO entities shall inform their SoHO competent authority of the name and contact details of the responsible person. Where the responsible person is permanently or temporarily replaced, SoHO entities shall without undue delay inform their SoHO competent authorities of the name and contact details of the new responsible person and the date on which the responsibility of that person is assumed.
+
+4\. The responsible person may fulfil the role of releasing officer, as referred to in Article 49, or the role of physician, as referred to in Article 50, provided that that person is in possession of the required qualifications or experience as laid down in those Articles.
+
+### Article 37 — Quality management system
+
+1\. SoHO entities shall establish, maintain and update a quality management system that is appropriate, taking into account their SoHO activities and that achieves a high level of quality of SoHO.
+
+2\. SoHO entities shall design the quality management system in a way that ensures that SoHO activities are carried out in a consistent manner, by personnel that have documented and periodically assessed competence to perform the tasks allocated to them and that SoHO activities are carried out in facilities that are designed and maintained in a manner that prevents SoHO contamination, or cross-contamination between SoHO, or loss of traceability. In that respect, SoHO entities shall take into account the technical guidelines for quality management published by the EDQM, together with the EDQM good practice guidelines, as indicated on the EU SoHO Platform. Alternative approaches to the design of the quality management system may be applied where SoHO entities can demonstrate to their SoHO competent authorities that they achieve an equivalent level of quality.
+
+3\. SoHO entities shall put in place procedures and specifications covering, where applicable to their SoHO activities, the following:
+
+(a) documentation of roles, responsibilities of personnel and organisation;
+
+(b) selection, training and competence assessment of personnel;
+
+(c) the procurement qualification, validation and monitoring of premises, materials and equipment, including IT systems;
+
+(d) other documentation relevant for the quality management system put in place;
+
+(e) quality control, and monitoring of key performance indicators of SoHO activities;
+
+(f) quarantine and release;
+
+(g) withdrawal of SoHO from the inventory of released SoHO and recalls;
+
+(h) internal audits;
+
+(i) management of contracted third parties;
+
+(j) management of cases where procedures have not been followed or specifications have not been met;
+
+(k) complaints;
+
+(l) management of traceability and vigilance, pursuant to Articles 42, 43 and 44;
+
+(m) continuity planning.
+
+4\. SoHO entities shall review the quality management system at regular intervals to verify its effectiveness and introduce corrective and preventive actions, if deemed necessary.
+
+5\. The Commission may adopt implementing acts regarding selected elements and specifications of the quality management system in order to ensure uniform quality management.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 38 — SoHO preparation authorisation
+
+1\. SoHO entities shall not release or, in the context of autologous or within-relationship use, shall not prepare and immediately apply to a SoHO recipient, SoHO preparations without prior SoHO preparation authorisation, other than in the context of the implementation of an approved clinical-outcome monitoring plan as part of a SoHO preparation authorisation.
+
+2\. SoHO entities may request an opinion from their SoHO competent authorities on the applicability of the authorisation requirements in this Regulation to their SoHO activities prior to submitting an application for a SoHO preparation authorisation.
+
+3\. SoHO entities may request from their SoHO competent authorities a derogation from the requirement for a SoHO preparation authorisation in health emergency situations referred to in Article 65, or for a specific SoHO recipient when justified by the clinical circumstances as referred to in Article 19(11).
+
+### Article 39 — Application for SoHO preparation authorisation
+
+1\. SoHO entities shall submit applications for SoHO preparation authorisation to the SoHO competent authority in their territory.
+
+2\. Applications for SoHO preparation authorisation shall include the following:
+
+(a) the name and contact details of the applicant SoHO entity responsible for the SoHO preparation authorisation;
+
+(b) details of the SoHO activities performed for that SoHO preparation and including at least:
+
+(i) a description of the SoHO used for the SoHO preparation;
+
+(ii) a list of the specific SoHO donor eligibility criteria, including SoHO donor tests specific for the SoHO preparation;
+
+(iii) a summary of SoHO collection procedures and any specific quality control tests and checks carried out on the collected SoHO prior to processing;
+
+(iv) a description of the steps of the processing applied, including details of relevant materials and equipment used, environmental conditions and the process parameters and controls at each step;
+
+(v) a description of equipment, reagents and materials coming into direct contact with the SoHO during processing and their certification status in accordance with Regulation (EU) 2017/745, where applicable, and, in the case of the use of in-house developed equipment, reagents or materials, evidence of the validation of their quality;
+
+(vi) any specific conditions and time limits for storage and transport, including validation of those conditions and limits;
+
+(vii) a specification of the SoHO preparation, including quality control and release parameters;
+
+(viii) data resulting from process validation and equipment qualification;
+
+(ix) details of any SoHO entities or third parties contracted to perform activities or relevant steps of the processing applied to the SoHO preparation;
+
+(x) the clinical indications for which the SoHO preparation is to be applied and the clinical data justifying this indication;
+
+(xi) where relevant, non-clinical data on the effectiveness and toxicity of the SoHO preparation;
+
+(c) the results of a benefit-risk assessment conducted in respect of the combination of SoHO activities performed for the SoHO preparation, together with the intended clinical indication for which the application for SoHO preparation authorisation is submitted, taking into account:
+
+(i) whether the SoHO preparation is described in, and aligned with, an EDQM SoHO monograph included in the technical guidelines referred to in Article 59(4), point (a), or a specification included in the other guidelines referred to in Article 59(4), point (b) or (c);
+
+(ii) whether the SoHO preparation meets the quality criteria defined in a monograph or specification as referred to in point (i) of this point and whether it is intended to be used for the indication and with the mode of human application to which that monograph or specification refers, where such details are provided in that monograph, or whether it meets the requirements set out in the other guidelines referred to in Article 59(4), point (b);
+
+(iii) information regarding previous use and authorisation of the SoHO preparation or a comparable SoHO preparation in other SoHO entities, as available on the EU SoHO Platform;
+
+(iv) where applicable, clinical functionality evidence generated as part of conformity assessment procedures, in accordance with Regulation (EU) 2017/745, of a certified medical device that is critical to the specific processing for the SoHO preparation, in cases where the applicant SoHO entity has access to such data;
+
+(v) documentation of a standardised process of identification, quantification and evaluation of any risks to SoHO donors, SoHO recipients or the offspring from medically assisted reproduction arising from the chain of activities performed for the SoHO preparation and taking into account the technical guidelines published by the EDQM for the performance of such risk assessments, as referred to in Article 56(4), point (a), and Article 59(4), point (a);
+
+(d) in cases where the indicated risk is greater than negligible, or the expected clinical effectiveness is unknown, a proposed plan for clinical-outcome monitoring for the purpose of providing further evidence, where necessary, for the SoHO preparation authorisation, in line with the results of the benefit-risk assessment and pursuant to point (c);
+
+(e) an indication of the data which is to be regarded as proprietary and which is to be accompanied, where appropriate, by a verifiable justification.
+
+3\. If the application for SoHO preparation authorisation includes clinical-outcome registration, in accordance with Article 20(5), the applicant shall provide details of the clinical registry to the SoHO competent authority and request approval for its use.
+
+4\. Where applicable, in accordance with Article 20(4), point (d), and Article 21, SoHO entities shall prepare and distribute the SoHO preparation concerned solely for the implementation and within the limitations, of a clinical-outcome monitoring plan that has been approved by the SoHO competent authority, pursuant to Article 19(2), point (d), and submit the results and their analysis to their SoHO competent authority in accordance with the time limit set in the approval.
+
+5\. The applicant SoHO entity remains responsible for collecting the clinical-outcome monitoring data and shall be in a position to make those data available upon request from the SoHO competent authority.
+
+6\. SoHO entities shall not make any significant change as to the steps of the processing applied or the activities performed for an authorised SoHO preparation, without the prior written SoHO preparation authorisation from the SoHO competent authorities. Significant changes for which an application for an updated SoHO preparation authorisation shall be required shall be those having an impact on the intended clinical indication or on the quality, safety or effectiveness of the SoHO preparation.
+
+7\. The SoHO entity authorised for the SoHO preparation shall be based in the Member State where the application for the SoHO preparation authorisation is submitted.
+
+### Article 40 — SoHO clinical studies
+
+1\. Where SoHO entities carry out, in the context of approved clinical-outcome monitoring plans, SoHO clinical studies as referred to in Article 21(3), points (b) and (c), with SoHO preparations that are not yet authorised, the SoHO entities shall comply with the requirements set out in this Regulation and in particular with the standards laid down in Chapters VI and VII.
+
+2\. Before commencing a SoHO clinical study for the risk level referred to in Article 21(3), point (c), SoHO entities shall:
+
+(a) apply for a favourable opinion from a relevant ethics committee and shall communicate such an opinion to their SoHO competent authority; such an opinion shall address the ethical, legal and methodological aspects of the SoHO clinical study in order to determine the capacity of the study, as designed, to draw robust conclusions;
+
+(b) await approval by the SoHO competent authority of the clinical-outcome monitoring plan, as referred to in Article 19(2), point (d), and Article 21.
+
+3\. When applying SoHO to SoHO recipients in the context of a SoHO clinical study, SoHO entities shall ensure that the intended SoHO recipients, or persons granting consent on their behalf, are informed that the SoHO preparation concerned has not yet been authorised in accordance with this Regulation and that the SoHO preparation is being applied in the context of a SoHO clinical study that forms part of the authorisation process for that SoHO preparation.
+
+4\. The person responsible for the SoHO clinical study shall be adequately qualified and trained.
+
+5\. In the course of a SoHO clinical study, SoHO entities shall comply with the vigilance and reporting requirements set out in Article 44.
+
+### Article 41 — Activity data collection and reporting
+
+1\. SoHO entities shall collect and report data relating to any of the following SoHO activities:
+
+(a) SoHO donor registration;
+
+(b) collection;
+
+(c) distribution;
+
+(d) import;
+
+(e) export;
+
+(f) human application.
+
+2\. The data collected pursuant to paragraph 1 shall comprise the data set indicated on the EU SoHO Platform.
+
+3\. The Commission shall adopt implementing acts laying down technical procedures for setting and updating the list of data sets to be reported to ensure uniformity and compatibility and comparability of the annual activity data reports, and for extraction, submission and publication of activity data.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+4\. SoHO entities shall submit to the EU SoHO Platform an annual report of the data collected pursuant to this Article before 30 June of the subsequent year.
+
+5\. By way of derogation from paragraph 4 of this Article, where Member States require SoHO entities to report activity data as referred to in Article 31(2), the SoHO entities shall submit their annual report of activity data to the indicated registries before 30 June of the subsequent year.
+
+### Article 42 — Traceability and coding
+
+1\. SoHO entities shall implement a traceability system, in order to unambiguously link each SoHO donor or the person from whom SoHO are collected for autologous or within-relationship use, to their SoHO and to all the documents, samples, SoHO preparations and SoHO entities that are associated with that SoHO at any point.
+
+Importing SoHO establishments shall ensure an equivalent level of traceability with regard to imported SoHO.
+
+2\. The traceability system referred to in paragraph 1 of this Article shall be able to:
+
+(a) identify the SoHO donor or the person from whom SoHO are collected for autologous or within-relationship use and the SoHO establishment releasing the SoHO;
+
+(b) identify the SoHO recipient at the SoHO entity applying the SoHO to the SoHO recipient, or the manufacturer of products regulated by other Union legislation, as referred to in Article 2(6);
+
+(c) locate and identify all relevant data relating to the quality and safety of the SoHO and any materials or equipment that have come into contact with those SoHO that might pose a risk to their quality or safety.
+
+3\. SoHO entities distributing SoHO shall apply a code that contains the information required by the traceability system referred to in paragraph 1 of this Article. SoHO entities shall ensure that the code generated:
+
+(a) is unique within the Union;
+
+(b) is machine-readable, unless the size or storage conditions mean that a machine-readable code cannot be applied;
+
+(c) does not reveal the identity of the SoHO donor or the person from whom SoHO are collected in the case of autologous use;
+
+(d) complies with technical rules for the Single European Code referred to in Article 43, where applicable as indicated in that Article.
+
+The first subparagraph shall not apply in the context of autologous or within-relationship use of SoHO collected in the same SoHO entity where they are applied.
+
+4\. SoHO entities shall include the codes referred to in paragraph 3, on the labels applied to the SoHO, prior to its distribution, or on the documents accompanying the distributed SoHO, where it can be guaranteed that such documents will not be separated from the SoHO or will be kept digitally linked to the SoHO concerned.
+
+5\. SoHO entities shall use a labelling system that meets the labelling requirements set out in the relevant technical guidelines referred to in Article 56(4) and Article 59(4).
+
+6\. SoHO entities shall keep the data necessary to ensure traceability, appropriately safeguarded and accessible to the SoHO competent authority, for a minimum of 30 years from the SoHO distribution date or, where applicable, from the date of disposal or export. They may store the data in electronic form. Where a SoHO entity ceases its activity, the traceability data shall be transferred to a contracted SoHO entity for the remaining part of the traceability period, after informing the SoHO competent authority.
+
+7\. The Commission shall adopt implementing acts concerning the minimum SoHO donor and SoHO recipient data to be kept to ensure traceability.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 43 — European coding system
+
+1\. SoHO entities shall apply a Single European Code to SoHO distributed for human application. In cases where SoHO are transferred for further processing in another SoHO entity or released for manufacture of products regulated by other Union legislation, as referred to in Article 2(6), or exported to third countries, SoHO entities shall, at least, apply the elements of the Single European Code that allow for the identification of the donation. The Single European Code shall also appear on the primary packaging of the SoHO concerned or on a label attached thereto, or on the documents referring to that SoHO where it can be ensured that such documents accompany the SoHO concerned.
+
+2\. Paragraph 1 of this Article shall not apply to:
+
+(a) reproductive SoHO for within-relationship use;
+
+(b) blood or blood components for transfusion or for the manufacture of medicinal products;
+
+(c) SoHO applied to a SoHO recipient without being stored;
+
+(d) SoHO imported into the Union by way of derogation and authorised directly by SoHO competent authorities pursuant to Article 26(6);
+
+(e) SoHO that are imported to or collected in the same SoHO entity where they are applied.
+
+3\. The Commission shall adopt implementing acts concerning the format of the Single European Code and the requirements related to its application to SoHO entities and to SoHO at the point of distribution.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 44 — Vigilance and reporting
+
+1\. SoHO entities shall maintain a system for detecting, investigating and recording information concerning adverse reactions and adverse events, including those detected during clinical-outcome monitoring as part of a SoHO preparation authorisation application as referred to in Article 39.
+
+2\. SoHO entities shall make all reasonable efforts to encourage prospective parents of children born from third-party donation to communicate information concerning serious genetic conditions as soon as they emerge in the children, to the SoHO entity where they were treated. The SoHO entity shall communicate, without undue delay, that information to the SoHO establishment that released the reproductive SoHO for human application with a view to investigating the suspected serious adverse reaction and preventing further distribution of SoHO from the implicated SoHO donor, in accordance with national legislation on the storage and use of reproductive SoHO.
+
+3\. In cases where SoHO entities detect or suspect that an adverse reaction or adverse event falls within the definition of a serious adverse reaction as set out in Article 3, point (45), or the definition of a serious adverse event as set out in Article 3, point (46), they shall submit a notification to their SoHO competent authorities without undue delay and shall include the following information:
+
+(a) a description of the suspected serious adverse reaction or serious adverse event;
+
+(b) a preliminary assessment of the level of imputability, where applicable;
+
+(c) details of any immediate steps taken to limit harm, where applicable;
+
+(d) a preliminary assessment of the seriousness of the consequences of the suspected serious adverse reaction or serious adverse event.
+
+4\. SoHO entities other than SoHO establishments shall communicate adverse reactions or adverse events to the SoHO establishment for which they carry out SoHO activities on the basis of an agreement or to the SoHO establishment that distributed the SoHO to them, as appropriate. In such cases, the SoHO establishments which receive the communication shall be responsible for the investigation and shall report to their SoHO competent authorities when the adverse reaction or adverse event concerned is deemed to be a serious adverse reaction or serious adverse event.
+
+SoHO entities other than those referred to in the first subparagraph shall investigate and report serious adverse reactions or serious adverse events directly to their SoHO competent authorities.
+
+5\. Upon receipt of information regarding a serious incident and field safety corrective action within the meaning of Regulation (EU) 2017/745 or (EU) 2017/746, concerning a medical device or in vitro diagnostic medical device that is used by a SoHO entity, the SoHO entity receiving such information shall communicate it to its SoHO competent authority.
+
+6\. SoHO entities shall have in place a procedure to accurately, efficiently and verifiably withdraw from distribution or use those SoHO affected, or suspected to be affected, by serious adverse reactions or serious adverse events, as referred to in paragraph 3, as appropriate. In the case of reproductive SoHO, such procedure shall be in accordance with national legislation.
+
+7\. SoHO entities shall conduct an investigation of each serious adverse reaction or serious adverse event detected by, or communicated to, them in accordance with paragraph 4. On completion of that investigation, SoHO entities shall provide an investigation report to their SoHO competent authorities. The SoHO entities shall include in the report:
+
+(a) a full description of the investigation of the serious adverse reaction or serious adverse event and the final assessment of the imputability of the serious adverse reaction to the collection process or to the human application of the SoHO, where applicable;
+
+(b) the final assessment of the seriousness of the harm to a SoHO donor, a SoHO recipient or the offspring from medically assisted reproduction or for public health in general, including a risk assessment of the likelihood of recurrence, where relevant;
+
+(c) a description of the corrective or preventive actions that have been taken to limit any harm or to prevent recurrence.
+
+8\. SoHO entities shall communicate information concerning a serious adverse reaction or serious adverse event to other SoHO entities engaged in the collection, processing, testing, storage and distribution of SoHO collected from the same SoHO donor, or otherwise possibly affected. They shall only communicate information necessary and appropriate in order to facilitate traceability and ensure quality and safety of SoHO in such cases, and shall, in particular, limit the information to details necessary to take risk mitigating actions. A risk assessment of the seriousness and likelihood of recurrence shall be included in the communication. SoHO entities shall, where relevant, also communicate such information to organ procurement organisations in cases where the SoHO donor who is implicated in the serious adverse reaction or serious adverse event has also donated organs or to manufacturers in cases where SoHO collected from that SoHO donor have been distributed to manufacture products regulated by other Union legislation, as referred to in Article 2(6).
+
+## CHAPTER V — GENERAL OBLIGATIONS ON SOHO ESTABLISHMENTS
+
+### Article 45 — SoHO establishment authorisation
+
+1\. SoHO establishments shall not carry out any of the SoHO activities that would qualify them as a SoHO establishment as defined in Article 3, point (35), without prior SoHO establishment authorisation. This shall apply regardless of whether all SoHO activities are carried out by the SoHO establishment itself or whether one or more are contracted to another SoHO entity.
+
+In the case of a decision on the need for a SoHO establishment authorisation under Article 24(4), the SoHO entity shall not carry out the SoHO activity requiring SoHO establishment authorisation as communicated by the SoHO competent authority, without prior SoHO establishment authorisation.
+
+2\. In cases where SoHO establishments contract other SoHO entities to perform a part or all of certain SoHO activities, the SoHO establishments shall ensure that those contracted SoHO entities carry out those contracted SoHO activities in compliance with this Regulation. Such contracted SoHO entities may be audited by the contracting SoHO establishment or inspected by the SoHO competent authority, in particular in cases where the contracted SoHO entity has not been accredited, certified or authorised, as part of a national programme, for the specific contracted SoHO activities.
+
+3\. The requirement to obtain a SoHO establishment authorisation shall be without prejudice to more stringent measures adopted by a Member State in accordance with Article 4 and directly affecting the SoHO activities carried out in the SoHO establishment or contracted SoHO entities concerned pursuant to paragraph 2 of this Article.
+
+### Article 46 — Application for SoHO establishment authorisation
+
+1\. SoHO entities shall submit the application for authorisation as SoHO establishment to the SoHO competent authorities of their territories.
+
+2\. The applicant SoHO establishment shall provide the name and contact details of the responsible person as referred to in Article 36.
+
+The SoHO establishment shall not make any significant changes with regard to the SoHO or the SoHO activities subject to the authorisation without the prior written authorisation of the SoHO competent authority.
+
+3\. Significant changes for the purposes of paragraph 2 means changes relating to the types of SoHO concerned, to the types of SoHO activities carried out, to the use of new premises or to the modification of premises having an impact on the conditions under which SoHO activities are carried out.
+
+4\. SoHO establishments shall also, without undue delay, inform their SoHO competent authorities of any changes of an administrative nature, related to the SoHO establishment authorisation, including a permanent or temporary replacement of the responsible person.
+
+5\. The legal entity that holds the SoHO establishment authorisation shall be based in the Member State where the SoHO establishment is authorised.
+
+### Article 47 — Importing SoHO establishment authorisation
+
+1\. SoHO establishments shall not import SoHO without a prior importing SoHO establishment authorisation.
+
+2\. In the case of import of human plasma that is intended to be used for the manufacture of medicinal products regulated by other Union legislation and which is included in a plasma master file (PMF) as referred to in Directive 2001/83/EC, paragraph 1 of this Article shall not apply as the importers are to be authorised by other Union legislation. In those cases, the importers shall be registered as SoHO entities.
+
+3\. SoHO entities responsible for human application to a specific SoHO recipient may submit a request to their SoHO competent authorities for a derogation from the requirement for an importing SoHO establishment authorisation in the circumstances referred to in Article 26(6).
+
+4\. The Commission shall adopt delegated acts in accordance with Article 77 to supplement this Regulation by laying down obligations and procedures for importing SoHO establishments regarding the import of SoHO in order to verify equivalent standards of quality, safety and effectiveness of such imports.
+
+### Article 48 — Application for importing SoHO establishment authorisation
+
+1\. Article 46 shall apply mutatis mutandis to the applications for importing SoHO establishment authorisations.
+
+2\. Prior to applying for an importing SoHO establishment authorisation, SoHO establishments shall put in place written agreements with one or more third-country suppliers. Such agreements shall include the elements set out in paragraph 3, point (b).
+
+3\. The applicant SoHO establishment shall provide:
+
+(a) documentation of the accreditation, designation, authorisation or licence granted by a competent authority or authorities to the third-country supplier for carrying out the activities related to the SoHO to be imported;
+
+(b) a written agreement as referred to in paragraph 2 that shall include, at least:
+
+(i) details of the third-country supplier contracted;
+
+(ii) the requirements to be met to ensure the equivalence of the quality, safety and effectiveness of the SoHO to be imported;
+
+(iii) the right of the SoHO competent authorities to inspect the activities, including the facilities, of any third-country supplier or entity sub-contracted by that supplier, contracted by the importing SoHO establishment;
+
+(c) documentation describing the imported SoHO and demonstrating that the procedures the third-country suppliers have in place will ensure that the imported SoHO will be equivalent, in terms of quality, safety and effectiveness, to SoHO authorised in accordance with this Regulation.
+
+4\. The importing SoHO establishment shall be responsible for the physical reception and visual examination and verification of imported SoHO prior to their release. The importing SoHO establishment shall verify coherence between the SoHO received and the associated documentation and conduct an examination of the integrity of packaging, labelling and transport conditions, taking into account the relevant standards and technical guidelines as referred to in Articles 57, 58 and 59.
+
+5\. The releasing officer of an importing SoHO establishment shall release imported SoHO for distribution only after that officer has verified compliance with the quality, safety and effectiveness requirements specified in the agreement referred to in paragraph 3, point (b), and when the physical and documentation controls referred to in paragraph 4 are satisfactory.
+
+6\. An authorised importing SoHO establishment may delegate the physical reception, visual examination and verification referred to in paragraph 4 to the SoHO entity that will apply the SoHO to a SoHO recipient in cases where the import of SoHO is organised for a specific SoHO recipient.
+
+In the case of national or international donor registries that are authorised as importing SoHO establishments, the physical and documentation controls referred to in paragraph 5 may be delegated to the SoHO entity that receives the imported SoHO for human application and the release step may be completed remotely.
+
+7\. The Commission shall adopt implementing acts specifying the information to be provided in an application for an importing SoHO establishment authorisation to ensure compatibility and comparability of such data.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 49 — Releasing officer
+
+1\. In cases where a SoHO establishment releases SoHO, it shall appoint one or more releasing officers.
+
+2\. The releasing officer shall be in possession of a diploma, certificate or other evidence of formal qualifications in the field of medical, pharmaceutical or life sciences awarded on completion of a university course of study or a course recognised as equivalent by the Member State concerned and shall have at least 2 years of experience in the relevant field.
+
+3\. The releasing officer may delegate the task of releasing SoHO as referred to in paragraph 1 to other persons who shall be qualified by training and experience to perform such a task. In such cases, those persons shall perform that task under the responsibility of the releasing officer who will always be responsible for the release.
+
+The responsibility for releasing SoHO may be delegated to an alternate in the event of short-term absence of the releasing officer, provided that the alternate meets the requirements set out in paragraph 2.
+
+### Article 50 — Physician
+
+1\. Each SoHO establishment shall appoint a physician who carries out their tasks in the same Member State and who shall at least fulfil the following conditions and have the following qualifications:
+
+(a) possession of formal qualification as a physician; and
+
+(b) at least 2 years’ practical experience in the relevant field.
+
+2\. The physician referred to in paragraph 1 shall be responsible for at least the following tasks:
+
+(a) development, review and approval of procedures for establishing and applying SoHO donor eligibility criteria, procedures for SoHO collection and criteria for the allocation of SoHO;
+
+(b) supervision of the implementation of procedures referred to in point (a) when they are carried out by SoHO entities contracted by the SoHO establishment;
+
+(c) the clinical aspects of investigation of suspected adverse reactions in SoHO donors, SoHO recipients and offspring from medically assisted reproduction from the perspective of the SoHO establishment;
+
+(d) design and supervision, in collaboration with treating physicians, of clinical-outcome monitoring plans to generate evidence required to support applications for SoHO preparation authorisations pursuant to Article 39;
+
+(e) other tasks of relevance to the health of SoHO donors, SoHO recipients and offspring from medically assisted reproduction in relation to SoHO collected or supplied by the SoHO establishment.
+
+3\. The physician may delegate the tasks referred to in paragraph 2 to other persons who shall be qualified by training and experience to perform such tasks. In such cases, those persons shall perform those tasks under the responsibility of the physician.
+
+4\. By way of derogation from paragraph 2 of this Article, where SoHO entities are authorised as SoHO establishments in accordance with Article 24(4), the physician shall be responsible for those tasks that are relevant to the SoHO activities performed by the SoHO entities and that have a direct influence on the health of SoHO donors, SoHO recipients and, where relevant, offspring from medically assisted reproduction.
+
+### Article 51 — Export
+
+1\. SoHO establishments shall ensure that SoHO released for export comply with the requirements of this Regulation.
+
+2\. By way of derogation from paragraph 1 of this Article, SoHO that do not comply with all the relevant standards and guidelines referred to in Articles 58 and 59 may be released for export in the case of exceptional release pursuant to Article 61(3). Nevertheless, SoHO establishments shall even in those circumstances comply with the standards referred to in Chapter VI, as well as the obligations related to vigilance and traceability.
+
+## CHAPTER VI — SOHO DONOR PROTECTION
+
+### Article 52 — Objectives regarding SoHO donor protection
+
+1\. SoHO entities shall ensure respect for the dignity and integrity of SoHO donors.
+
+2\. SoHO entities shall ensure high levels of safety and protect the health of living SoHO donors from risks related to the SoHO donation, by identifying and minimising such risks before, during and after the SoHO collection.
+
+3\. SoHO competent authorities shall verify the compliance with this Chapter as well as with national legislation on consent and voluntary and unpaid donation.
+
+### Article 53 — Standards concerning SoHO donor protection
+
+1\. Where SoHO are collected from SoHO donors, regardless of whether or not the SoHO donor is related to the intended recipient, SoHO entities shall:
+
+(a) meet all applicable consent or authorisation requirements in force in the Member State concerned;
+
+(b) provide SoHO donors or, where applicable, any persons granting consent on their behalf, in accordance with national legislation, with:
+
+(i) the information referred to in Article 55 in a way that is adequate in view of their capacity to understand it;
+
+(ii) the contact details of the SoHO entity responsible for collection from which they can request further information, if needed;
+
+(c) safeguard the rights of the living SoHO donor to physical and mental integrity, to non-discrimination, to privacy and to the protection of the personal data, including health data concerning them, in accordance with Regulation (EU) 2016/679;
+
+(d) ensure that SoHO donation is voluntary and unpaid, pursuant to Article 54;
+
+(e) verify the eligibility of the living SoHO donor on the basis of a donor health evaluation that aims to identify, with a view to minimising, any risk that the SoHO collection might pose to the SoHO donor’s health;
+
+(f) document the results of the living SoHO donor health evaluation;
+
+(g) communicate and clearly explain the results of the living SoHO donor health evaluation to the living SoHO donor or, where applicable, any persons granting consent on their behalf, in accordance with national legislation;
+
+(h) identify and minimise any risks to the health of the living SoHO donor during the SoHO collection procedure, including exposure to reagents or solutions that might be harmful to health;
+
+(i) in cases where SoHO can be donated repeatedly, and frequent donation might negatively influence the living SoHO donor’s health, verify, by means of registries, as referred to in paragraph 3 of this Article, that living SoHO donors are not donating more frequently than indicated as safe in technical guidelines referred to in Article 56(4) and monitor relevant health indicators to evaluate whether their health is not compromised;
+
+(j) in cases where SoHO donation implies a significant risk to a living SoHO donor, develop and implement a plan for monitoring the SoHO donor’s health after donation as referred to in paragraph 4;
+
+(k) in the case of an unrelated SoHO donation, refrain from revealing the SoHO donor’s identity to the recipient or to the offspring from medically assisted reproduction, apart from in circumstances where such information exchange is permitted in the Member State concerned.
+
+2\. In the course of the living SoHO donor health evaluations referred to in paragraph 1, point (e), of this Article, SoHO entities shall conduct interviews with the SoHO donors and gather information concerning the SoHO donors’ present and recent state of physical, and, where appropriate, mental health and their health histories to assure the safety of the SoHO donation process for those SoHO donors. SoHO entities may perform additional tests as part of the SoHO donor health evaluations. They shall perform such tests in cases where evaluations indicate that additional tests are necessary to establish the eligibility of those SoHO donors from the perspective of their own protection. The physician referred to in Article 50 shall approve the procedure and criteria for SoHO donor health evaluations.
+
+3\. SoHO entities that collect SoHO from living SoHO donors as referred to in paragraph 1, point (i), of this Article shall register such SoHO donors in a SoHO entity registry or, where available, in national or recognised international registries, to verify donation frequency. SoHO entity-level and national registries shall have the possibility of interconnectivity with other such registries. Where a SoHO entity-level registry or a national registry is used, and where the circumstances point to a risk that a SoHO donor is donating too frequently in more than one SoHO entity located in one or more Member States, SoHO entities shall verify whether this is the case by consulting with interconnected SoHO donor registries on a case-by-case basis. SoHO entities shall be in a position to demonstrate to their SoHO competent authorities, on request, that an appropriate procedure that mitigates such risk is in place. Such procedures shall take into account the technical guidelines referred to in Article 56(4).
+
+4\. SoHO entities that collect SoHO from living SoHO donors that are subjected to a surgical procedure in order to donate, or that are treated with prescribed medication to facilitate SoHO donation, shall ensure that the plan for monitoring the SoHO donor’s health after SoHO donation, as referred to in paragraph 1, point (j), is proportionate to the risks associated with the SoHO donation. SoHO entities shall include in the plan the time period during which the monitoring shall continue.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 77 to supplement this Regulation in cases where additional standards are needed in order to ensure the protection of SoHO donors.
+
+6\. Where, in the case of risk to the safety of living SoHO donors, imperative grounds of urgency so require, the procedure provided for in Article 78 shall apply to delegated acts adopted pursuant to this Article.
+
+### Article 54 — Standards concerning voluntary and unpaid nature of SoHO donations
+
+1\. SoHO entities shall not provide financial incentives or inducements to SoHO donors or any persons granting consent on their behalf.
+
+2\. Where Member States allow for the compensation of living SoHO donors, in accordance with the principle of voluntary and unpaid donation and based on transparent criteria, including through fixed allowances, or through non-financial forms of compensation, the conditions for such compensation shall be established in national legislation, including by setting an upper limit for compensation that shall endeavour to guarantee financial neutrality, consistent with the standards laid down in this Article. Member States may delegate the setting of conditions for such compensation to independent bodies that are established in accordance with national legislation. The setting of conditions for such compensation shall be based on criteria that take into account the practices documented by the SCB, as referred to in Article 69(1), point (g). SoHO donors may choose not to be compensated.
+
+3\. When Member States allow for the compensation of SoHO donors as referred to in paragraph 2, the conditions for such compensation applied by each Member State shall be made available to the SCB for sharing with the SoHO national authorities of the other Member States via the EU SoHO Platform and the information shall be updated without undue delay if it has been modified.
+
+4\. Member States shall ensure that any promotion and publicity activities in support of the donation of SoHO do not refer to compensation, without prejudice to the right of SoHO donors to be informed of their rights, in accordance with national law.
+
+5\. SoHO entities may compensate living SoHO donors as provided for by their Member States pursuant to paragraph 2. At the request of their SoHO competent authority, SoHO entities shall provide information in a transparent manner on the details of how they have implemented the conditions laid down in national legislation.
+
+6\. Member States shall ensure compliance with standards concerning voluntary and unpaid donation, equivalent to those laid down in this Article, also when SoHO are donated exclusively for use in research without any human application.
+
+### Article 55 — Standards concerning information to be provided prior to consent
+
+1\. SoHO entities shall provide living SoHO donors or, where applicable, any persons granting consent on behalf of a SoHO donor, with all appropriate information relating to the SoHO donation process, in accordance with national legislation.
+
+2\. SoHO entities shall provide the information referred to in paragraph 1 before the consent to donate is granted. SoHO entities shall provide the information in an accurate and clear manner, using terms that are easily understood by the SoHO donors or, if applicable, any persons granting consent on their behalf. The information shall not be misleading, in particular as to the benefits of the donation for future recipients of the SoHO concerned.
+
+3\. In the case of living SoHO donors or, where applicable, persons granting consent on their behalf, SoHO entities shall provide information regarding:
+
+(a) the purpose and nature of the SoHO donation;
+
+(b) the intended use of the donated SoHO, specifically covering proven benefits for the future SoHO recipients and any possible research or commercial uses of SoHO, including the use to manufacture products regulated by other Union legislation, as referred to in Article 2(6), to which specific consent shall be granted;
+
+(c) the consequences and risks of the SoHO donation;
+
+(d) the obligation for consent, in accordance with national legislation, in order for SoHO collection to be carried out;
+
+(e) the right to revoke consent and any restrictions on that right after the collection;
+
+(f) the purpose of the tests that will be performed in the course of the SoHO donor health evaluation, in accordance with Article 53(2);
+
+(g) the right of the SoHO donor or, where applicable, the person granting consent on their behalf to receive the confirmed results of the tests when relevant for their health, in accordance with national legislation;
+
+(h) the recording and protection of SoHO donor’s personal data, including health data, and medical confidentiality, including any potential sharing of data in the interest of the SoHO donor health monitoring and of public health, as necessary and proportionate, in accordance with Article 76;
+
+(i) the possibility that the SoHO donor identity may be revealed to the offspring from medically assisted reproduction that is born as a result of their SoHO donation in cases where national legislation grants that right to such offspring;
+
+(j) other applicable safeguards to protect the SoHO donor.
+
+4\. In the case of deceased SoHO donors, SoHO entities shall provide any persons granting consent to collection on their behalf in accordance with national legislation, with the information referred to in paragraph 3, points (a), (b), (d) and (e).
+
+### Article 56 — Implementation of the standards concerning SoHO donor protection
+
+1\. When the Commission deems it necessary to provide binding rules on the implementation of a particular standard or element of a standard referred to in Article 53 or 55, in order to ensure convergent and high levels of SoHO donor protection, the Commission may adopt implementing acts setting out particular procedures to be followed and applied to meet such standard, or element thereof.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+2\. On duly justified imperative grounds of urgency relating to a risk to SoHO donor health, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 79(3).
+
+3\. The implementing acts adopted in accordance with paragraphs 1 and 2 of this Article shall also apply to SoHO entities when they apply the standards concerning SoHO donor protection, or elements thereof, as referred to in Articles 53 and 55.
+
+4\. For those standards concerning SoHO donor protection, or elements thereof, for which no implementing act has been adopted, SoHO entities shall take into account:
+
+(a) the most recent technical guidelines, as indicated on the EU SoHO Platform, as follows:
+
+(i) published by the ECDC concerning the prevention of communicable disease transmission;
+
+(ii) published by the EDQM concerning SoHO donor protection other than from transmission of communicable diseases;
+
+(b) other guidelines, adopted by Member States, as referred to in Article 27(6), point (b);
+
+(c) other guidelines or technical methods, applied in specific circumstances, as referred to in Article 27(6), point (c).
+
+5\. In the cases referred to in paragraph 4, point (a), of this Article, for the purposes of Article 28 in conjunction with Article 27, SoHO entities shall demonstrate to their SoHO competent authorities, for each of the standards or elements thereof, which and to what extent they follow the technical guidelines referred to in paragraph 4, point (a), of this Article.
+
+6\. In the cases referred to in paragraph 4, point (b), of this Article, for the purposes of Article 28 in conjunction with Article 27, SoHO entities shall demonstrate to their SoHO competent authorities, for each of the standards or elements thereof, which and to what extent they follow the guidelines referred to in paragraph 4, point (b), of this Article.
+
+7\. In the cases referred to in paragraph 4, point (c), of this Article, for the purposes of Article 28 in conjunction with Article 27, SoHO entities shall provide during inspection a justification to their SoHO competent authorities for each specific standard or element thereof, that the other guidelines are adequate to achieve the level of quality and safety set out in that standard. That justification may be based on a documented demonstration of equivalence with the technical guidelines published by the ECDC and by the EDQM referred to in paragraph 4, point (a), of this Article.
+
+Where other technical methods are applied, SoHO entities shall perform a risk assessment to demonstrate that the technical methods applied achieve a high level of protection of SoHO donors, and they shall record the practice followed to establish such technical methods. They shall make the assessment and record available for review by their SoHO competent authorities during inspection or on specific request of the SoHO competent authorities.
+
+## CHAPTER VII — PROTECTION OF SOHO RECIPIENTS AND OFFSPRING FROM MEDICALLY ASSISTED REPRODUCTION
+
+### Article 57 — Objectives regarding protection of SoHO recipients and offspring from medically assisted reproduction
+
+SoHO entities shall protect the health of SoHO recipients and offspring from medically assisted reproduction from risks posed by SoHO and their human application, within the scope of their competences. They shall do so by identifying and minimising or eliminating those risks.
+
+### Article 58 — Standards concerning protection of SoHO recipients and offspring from medically assisted reproduction
+
+1\. SoHO entities shall establish procedures that achieve high levels of quality and safety of SoHO. Such procedures shall ensure that benefits for SoHO recipients and offspring from medically assisted reproduction outweigh residual risks. They shall, in particular, achieve a high level of assurance that pathogens, toxins or genetic conditions that are potentially life-threatening, disabling or incapacitating and originate from a third-party donor, are not transmitted to SoHO recipients or offspring from medically assisted reproduction. Procedures to prevent the transmission of serious genetic conditions shall include genetic testing to the extent that national legislation allows for such testing.
+
+2\. In the procedures referred to in paragraph 1, SoHO entities shall mitigate the risks of communicable disease transmission from SoHO donors to SoHO recipients by combining at least the following measures:
+
+(a) reviewing and evaluating SoHO donors’ current and past health, travel and relevant behavioural histories and, where relevant, their family history, to allow for the application of temporary or permanent deferrals of SoHO donors when risks cannot be minimised by SoHO donor testing;
+
+(b) testing of SoHO donors for communicable diseases in laboratories duly accredited, certified or authorised, by using certified and validated testing methods or, when not feasible, by using other methods validated by those laboratories;
+
+(c) when feasible, taking other measures that reduce or eliminate any potential communicable pathogens.
+
+3\. In the procedures referred to in paragraph 1, SoHO entities shall mitigate the risks of non-communicable disease transmission, when they are relevant to the SoHO concerned, including the transmission of serious genetic conditions and cancer, from SoHO donors to the SoHO recipients or to offspring from medically assisted reproduction by combining at least the following measures:
+
+(a) reviewing the SoHO donors’ current and past health and, where relevant, their family history, to allow for the application of temporary or permanent deferral of SoHO donors that carry a risk of transmitting cancerous cells, serious genetic conditions or other non-communicable diseases that might be passed to a SoHO recipient by human application of SoHO;
+
+(b) where the transmission of serious genetic conditions is an identified risk, and in particular in the case of medically assisted reproduction with third-party donation, and insofar as national legislation allows for any of the following testing:
+
+(i) routinely testing SoHO donors for potentially life-threatening, disabling or incapacitating genetic conditions with a significant prevalence in the SoHO donor population; or
+
+(ii) testing SoHO recipients to identify genetic risk for potentially life-threatening, disabling or incapacitating conditions, according to family history, combined with testing third party SoHO donors for such identified serious genetic conditions to ensure matching that will prevent such conditions occurring in the offspring from medically assisted reproduction.
+
+4\. In the procedures referred to in paragraph 1, SoHO entities shall take measures to mitigate the risks of communicable or non-communicable disease transmission to the SoHO recipients resulting from cross-contamination between SoHO during collection, processing, storage and distribution. Such measures shall ensure that physical contact between SoHO from different SoHO donors, as well as SoHO collected from different persons for future autologous or within-relationship use, is avoided or, in cases where pooling of SoHO is necessary for the effectiveness or feasibility of the SoHO preparation, such contact is limited to a justifiable level.
+
+5\. In the procedures referred to in paragraph 1, SoHO entities shall mitigate risks arising from microbial contamination of SoHO from the environment, the personnel, the equipment and the materials coming into contact with SoHO during collection, processing, storage or distribution. SoHO entities shall mitigate such risks by combining at least the following measures:
+
+(a) specifying and verifying the hygiene procedures of the personnel of the SoHO entity in contact with the SoHO throughout the SoHO preparation chain;
+
+(b) specifying and verifying the cleanliness of collection areas, taking into account the degree of exposure of SoHO to the environment during collection, and of storage areas;
+
+(c) in cases where SoHO are exposed to the environment during processing, specifying, based on a structured and documented risk assessment for each SoHO preparation, validating and maintaining a defined air quality in processing areas;
+
+(d) specifying, procuring and decontaminating equipment and materials that come into contact with SoHO during collection, processing, storage or distribution, such that their sterility, where necessary, is ensured;
+
+(e) performing quality control testing of SoHO to detect microbial contamination and using methods of inactivation or elimination of microorganisms, where feasible and appropriate.
+
+6\. In the procedures referred to in paragraph 1, SoHO entities shall mitigate the risks that any reagents and solutions added to SoHO or coming into contact with SoHO during collection, processing, storage and distribution might be transferred to SoHO recipients and have a harmful effect on their health, by combining at least the following measures:
+
+(a) specifying such reagents and solutions prior to their purchase and use;
+
+(b) verifying any required certifications of such reagents and solutions;
+
+(c) demonstrating the removal of such reagents and solutions, when necessary, prior to distribution.
+
+7\. In the procedures referred to in paragraph 1 of this Article, SoHO entities shall mitigate the risks that inherent properties of SoHO, necessary for clinical effectiveness, might be changed by any SoHO activity performed, in a manner that renders the SoHO ineffective or less effective when applied to SoHO recipients, by combining at least the following measures:
+
+(a) conducting comprehensive process validation and equipment qualification as referred to in Article 39(2), point (b)(viii);
+
+(b) gathering evidence of effectiveness as referred to in Article 39(2), point (d), when needed.
+
+8\. In the procedures referred to in paragraph 1 of this Article, SoHO entities shall mitigate the risks that SoHO cause an unexpected immune reaction in SoHO recipients by combining at least the following measures:
+
+(a) adequately typing and matching of SoHO recipients to SoHO donors, when such matching is necessary;
+
+(b) putting in place procedures to reduce, when feasible, those elements of SoHO that stimulate an unintended immune response, as applicable;
+
+(c) correctly distributing and applying SoHO to the correct SoHO recipients pursuant to Article 42.
+
+9\. In the procedures referred to in paragraph 1, SoHO entities shall mitigate any other avoidable risk to the health, including where related to the protection of dignity, in accordance with national law, of SoHO recipients or of offspring from medically assisted reproduction arising from SoHO applied and not addressed in paragraphs 2 to 8, by applying procedures that SoHO entities have validated as safely and effectively mitigating the risk concerned or that are demonstrated by published scientific evidence as mitigating the risk.
+
+10\. SoHO entities that distribute reproductive SoHO from third-party donation shall comply with rules established in national legislation regarding the limits to the number of offspring from medically assisted reproduction or of human applications with reproductive SoHO from a single SoHO donor, where applicable. SoHO entities shall monitor compliance with such rules via registries for reproductive SoHO donors, in accordance with the national legislation. Without prejudice to such rules, when reproductive SoHO are distributed to another Member State, the distributing SoHO entity shall respect the limits imposed by the receiving Member State. This Article shall not affect Member States’ rules concerning limits on the cross-border distribution of reproductive SoHO.
+
+11\. When carrying out SoHO activities, SoHO entities shall, to the extent possible, make use of technologies that reduce the risk of human error.
+
+12\. SoHO entities shall not:
+
+(a) apply SoHO preparations to SoHO recipients without proven benefit, except in the context of:
+
+(i) a clinical-outcome monitoring plan approved by their SoHO competent authority pursuant to Article 19(2), point (d);
+
+(ii) an individual treatment attempt with respect to the treating physician’s therapeutic decision pursuant to Article 19(11); or
+
+(iii) a health emergency situation pursuant to Article 65;
+
+(b) apply SoHO preparations to SoHO recipients unnecessarily; SoHO entities shall make optimal use of SoHO, taking into account therapeutic alternatives, and following the most up-to-date guidelines as referred to in Article 59;
+
+(c) advertise or promote particular SoHO to potential SoHO recipients, or to any persons granting consent on their behalf, or to healthcare professionals using information that is misleading, in particular, as to the potential use and benefits to SoHO recipients, or minimising the associated risks of the SoHO concerned;
+
+(d) distribute or apply allogeneic SoHO for purposes other than the prevention or treatment of a medical condition, including through reconstructive surgery, or for medically assisted reproduction.
+
+13\. For the measures referred to in paragraphs 2 and 3, SoHO entities shall verify the eligibility of a SoHO donor by means of:
+
+(a) an interview with the SoHO donor, in the case of donation from a living SoHO donor or, where applicable, with any persons granting consent on their behalf; or
+
+(b) in the case of collection of SoHO from deceased SoHO donors, an interview with a relevant person that is informed regarding the SoHO donor’s health and lifestyle history.
+
+In the case of donation from a living SoHO donor, the interview referred to in the first subparagraph, point (a), of this paragraph may also include any part of the interview conducted as part of the evaluation referred to in Article 53(1), point (e). For living SoHO donors that donate repeatedly, the interviews referred to in the first subparagraph, point (a), of this paragraph may be limited to aspects that might have changed and may be replaced with questionnaires. Interviews shall be added in cases where responses provided in questionnaires indicate changes in relevant information. This shall be without prejudice to Article 53(1), points (d) and (e), and Article 53(2).
+
+14\. SoHO entities shall document the results of SoHO donor eligibility verification as referred to in paragraphs 2 and 3, and shall communicate and clearly explain the results of SoHO donor eligibility verification to SoHO donors or, where relevant, any persons granting consent on their behalf, in accordance with national legislation.
+
+Where SoHO is collected from deceased SoHO donors, SoHO entities shall communicate and explain the results of the SoHO donor eligibility verification, in particular any condition identified in the deceased SoHO donor that might imply a risk for the health of the deceased SoHO donors’ relatives or close contacts, to the relevant persons, in accordance with national legislation.
+
+15\. SoHO entities applying SoHO to SoHO recipients shall obtain their consent or, where relevant, that of any person granting consent on their behalf, in accordance with national legislation, for the human application of SoHO.
+
+SoHO entities shall inform the SoHO recipients or any person granting consent on their behalf, of, at least, the following:
+
+(a) the safeguards intended to protect the personal data, including health data, of the SoHO recipients and, where relevant, of the offspring from medically assisted reproduction;
+
+(b) the need for SoHO recipients to report back any unintended reactions following the human application of SoHO or any serious genetic conditions in offspring from medically assisted reproduction with third-party donation, as referred to in Article 44(2).
+
+16\. The Commission is empowered to adopt delegated acts in accordance with Article 77 to supplement this Regulation in cases where additional standards are deemed necessary to ensure the protection of SoHO recipients or offspring from medically assisted reproduction from risks associated with SoHO.
+
+17\. Where, in the case of risk to SoHO recipients and offspring from medically assisted reproduction arising from inadequate levels of quality and safety of SoHO, imperative grounds of urgency so require, the procedure provided for in Article 78 shall apply to delegated acts adopted pursuant to this Article.
+
+### Article 59 — Implementation of the standards concerning protection of SoHO recipients and offspring from medically assisted reproduction
+
+1\. When the Commission deems it necessary to establish binding rules on the implementation of a particular standard, or elements thereof, referred to in Article 58, in order to ensure convergent and high levels of protection of SoHO recipients and offspring from medically assisted reproduction, the Commission may adopt implementing acts setting out particular procedures to be applied to meet such standard or element thereof.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+2\. On duly justified imperative grounds of urgency relating to a risk to the health of the SoHO recipient or of the offspring from medically assisted reproduction, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 79(3).
+
+3\. The implementing acts adopted in accordance with paragraphs 1 and 2 of this Article shall also apply to SoHO entities when they apply the standards, or elements thereof, concerning protection of SoHO recipients and offspring from medically assisted reproduction as referred to in Article 58.
+
+4\. For those standards, or elements thereof, concerning protection of SoHO recipients and offspring from medically assisted reproduction for which no implementing act has been adopted, SoHO entities shall take into account:
+
+(a) the most recent technical guidelines, as indicated on the EU SoHO Platform, as follows:
+
+(i) published by the ECDC concerning the prevention of communicable disease transmission;
+
+(ii) published by the EDQM concerning protection of SoHO recipients and offspring from medically assisted reproduction other than from transmission of communicable disease;
+
+(b) other guidelines, adopted by Member States, as referred to in Article 27(6), point (b);
+
+(c) other guidelines or technical methods, applied in specific circumstances, as referred to in Article 27(6), point (c).
+
+5\. In the cases referred to in paragraph 4, point (a), of this Article, for the purposes of Article 28 in conjunction with Article 27, SoHO entities shall demonstrate to their SoHO competent authorities, for each of the standards or elements thereof, which and to what extent they follow the technical guidelines referred to in paragraph 4, point (a), of this Article.
+
+6\. In the cases referred to in paragraph 4, point (b), of this Article, for the purposes of Article 28 in conjunction with Article 27, SoHO entities shall demonstrate to their SoHO competent authorities, for each of the standards or elements thereof, which and to what extent they follow the technical guidelines referred to in paragraph 4, point (b), of this Article.
+
+7\. In the cases referred to in paragraph 4, point (c), of this Article, for the purposes of Article 28 in conjunction with Article 27, SoHO entities shall provide during inspection a justification to their SoHO competent authorities, for each specific standard, or element thereof, that the other guidelines are adequate to achieve the level of quality and safety set out in that standard. That justification may be based on a documented demonstration of equivalence with the technical guidelines published by the ECDC and by the EDQM referred to in paragraph 4, point (a), of this Article.
+
+Where other technical methods are applied, SoHO entities shall perform a risk assessment to demonstrate that the technical methods applied achieve a high level of protection of SoHO donors, and record the practice followed to establish the technical methods. They shall make the assessment and record available for review by their SoHO competent authorities during inspection or on specific request of the SoHO competent authorities.
+
+### Article 60 — SoHO release
+
+A SoHO establishment that releases SoHO for distribution or export shall have a procedure in place, under the control of the releasing officer as referred to in Article 49, for SoHO release to ensure that the standards, or elements thereof, referred to in Articles 58 and 59 and their implementation, have been verified and documented prior to release and that all conditions included in any applicable authorisations granted in accordance with this Regulation have been complied with.
+
+SoHO processed for autologous use or within-relationship use, without SoHO storage, shall not require release before human application. In such cases, the SoHO preparation authorisation shall include a specification of the quality control parameters to be monitored during the processing.
+
+### Article 61 — Exceptional release
+
+1\. The physician referred to in Article 50 may authorise a releasing officer in a SoHO establishment referred to in Article 49, to release a certain SoHO preparation for distribution and for human application to an intended SoHO recipient even in cases where that SoHO preparation does not meet all of the relevant standards referred to in Articles 58 and 59, or does not fully comply with its SoHO preparation authorisation, or has been imported under the derogation referred to in Article 26(6), provided that the potential benefit for the SoHO recipient outweighs the risks and that no alternative is available. The exceptional release condition shall be explicitly indicated on the label or in the documentation accompanying the released SoHO preparation.
+
+2\. Exceptional release referred to in paragraph 1 of this Article shall be authorised in the case of release for distribution, on the basis of a documented request from the physician treating the intended SoHO recipient, where such a request includes a confirmation of full knowledge of, and agreement to, any deviation from this Regulation. The physician referred to in Article 50 shall document the agreement together with a benefit-risk assessment. In such circumstances, the intended SoHO recipient, or person granting consent on their behalf, shall be informed of the exceptional release and shall be required to give consent in accordance with national legislation prior to the human application of SoHO.
+
+The SoHO establishment which releases the SoHO preparation for distribution, in coordination with the SoHO entity which applies that SoHO preparation, where applicable, shall establish a plan for monitoring the SoHO recipient’s health after human application. The plan shall provide for monitoring the risks associated with the exceptional SoHO release. The SoHO establishment, in coordination with that SoHO entity, shall set out a time period during which the monitoring shall continue.
+
+3\. Exceptional release, as referred to in paragraph 1, may also be authorised in the case of release for export, on the basis of a documented request from a treating physician, or from a regulatory authority, in a third country, where such a request includes a confirmation of full knowledge of, and agreement to, any deviation from this Regulation.
+
+4\. Exceptional release, as referred to in paragraph 1 of this Article, may also be authorised in the case of certain SoHO to be used for the manufacture of a product regulated by other Union legislation and intended for a specific recipient, in cases where the SoHO preparation does not meet all of the relevant standards and guidelines referred to in Article 58 or 59 and on the basis of a documented request from the manufacturer, where such a request includes a confirmation of full knowledge of, and agreement to, any deviation from this Regulation.
+
+## CHAPTER VIII — SUPPLY CONTINUITY
+
+### Article 62 — Critical SoHO supply sufficiency
+
+1\. Member States shall, within their territories and in collaboration with SoHO national authorities, SoHO competent authorities and SoHO entities, each within their respective competence, consider all reasonable efforts for achieving a sufficient, adequate and resilient supply of critical SoHO with a view to appropriately meet recipients’ needs, and to contribute to European self-sufficiency.
+
+2\. Member States shall make all reasonable efforts to:
+
+(a) facilitate public participation in SoHO donation activities for critical SoHO, with a view to ensuring a broad SoHO donor-base and SoHO donor-base resilience built on the standards concerning voluntary and unpaid donation in accordance with Article 54;
+
+(b) ensure that SoHO donor recruitment and retention strategies are put in place for critical SoHO, including communication campaigns and education programmes;
+
+(c) carry out the activities as referred to in paragraph 1 of this Article through preparedness and response measures, with due regard to Article 54; and
+
+(d) ensure optimal use of critical SoHO, taking into account therapeutic alternatives.
+
+Accordingly, Member States shall encourage the collection of SoHO with a strong public and non-profit sector involvement.
+
+3\. Critical SoHO entities shall establish appropriate mechanisms for the continuous monitoring of their stocks of critical SoHO and shall be able, in the event of shortages or upon request, to communicate such information to their SoHO competent authorities.
+
+SoHO competent authorities shall, in turn, establish appropriate mechanisms to receive such information referred to in the first subparagraph and shall be able to get an overview of the availability of critical SoHO in their territories, when needed.
+
+4\. In cases where the availability of critical SoHO depends on commercial interests, each Member State shall seek that the critical SoHO entities, within the limit of their responsibilities, provide an appropriate and continuous supply of critical SoHO for recipients in their territory.
+
+### Article 63 — National SoHO emergency plans
+
+1\. Member States, in collaboration with SoHO national authorities, shall draw up national SoHO emergency plans setting out measures to be applied without undue delay when the demand or the supply situation for critical SoHO presents, or is likely to present, a serious risk to human health.
+
+2\. In developing national SoHO emergency plans, Member States shall ensure cooperation and consultation, as appropriate, with their health surveillance bodies, military medical services, civil protection services and other services routinely involved in emergency responses. Member States shall implement national SoHO emergency plans in coordination with other response actions at national or Union level, if adopted, and, where relevant, in a manner consistent with the national prevention, preparedness and response plans developed in accordance with Article 6 of Regulation (EU) 2022/2371 and with Directive (EU) 2022/2557 of the European Parliament and of the Council ( 2 ).
+
+3\. Member States shall draw up the plans referred to in paragraph 1 of this Article, setting out the following elements:
+
+(a) potential risks to the supply of critical SoHO;
+
+(b) the designation of critical SoHO entities and any other relevant third party to be involved in the supply of critical SoHO;
+
+(c) a consolidated national overview of critical SoHO entity emergency plans referred to in Article 67;
+
+(d) the powers and responsibilities of SoHO competent authorities in situations of emergency as referred to in paragraph 1 of this Article;
+
+(e) procedures for sharing information, where appropriate, via the EU SoHO Platform, as well as elements of information to be exchanged with the SoHO national authorities of the other Member States and with other parties concerned, as appropriate, including in cases of shortages of critical SoHO with cross-border impact;
+
+(f) preparedness and response measures for specific identified risks, in particular those concerning communicable disease outbreaks, war or terrorist attacks and environmental disasters;
+
+(g) a procedure for the assessment and authorisation, in the context of a health emergency situation and in accordance with Article 65, of requests from SoHO entities for derogations from the obligation to have a SoHO preparation authorisation pursuant to Article 38(1);
+
+(h) a mechanism to ensure that in a health emergency situation, critical SoHO are prioritised according to specific medical needs.
+
+4\. Member States shall take into account the guidance of the ECDC, for emergencies related to epidemiological outbreaks, and the guidelines published by the EDQM, for emergency planning in general.
+
+5\. Member States shall involve relevant stakeholders in the elaboration of their national SoHO emergency plans, in particular by cooperating with their critical SoHO entities, as well as with the EDQM and the ECDC. Member States shall review at least every 4 years such plans in order to take into account changes in the designation of critical SoHO entities, the organisation of SoHO competent authorities and the experience gained from implementing the plans and simulation exercises.
+
+6\. Member States shall present a summary of their national SoHO emergency plans, and major reviews of those plans, within the SCB.
+
+7\. The SCB, in cooperation with the Commission, shall support a coordinated approach to ensure the implementation of the national SoHO emergency plans in cases where an emergency affects more than one Member States or in the case of emergencies with an effect beyond the Union, to communicate and collaborate with relevant international organisations and authorities.
+
+### Article 64 — Supply alerts for critical SoHO
+
+1\. Critical SoHO entities shall, without undue delay, send a SoHO supply alert to their SoHO competent authorities in the event of significant shortages of supply of critical SoHO, indicating the underlying reasons, the expected impact on recipients and any mitigating actions taken, including in relation to possible alternative supply channels if appropriate.
+
+Shortages shall be considered significant when:
+
+(a) the human application of critical SoHO or the distribution of critical SoHO for the manufacture of products regulated by other Union legislation, as referred to in Article 2(6), is cancelled or postponed, or there is a significant risk of being cancelled or postponed, due to unavailability; and
+
+(b) the situation referred to in point (a) poses a serious risk to human health.
+
+2\. SoHO competent authorities that receive a SoHO supply alert referred to in paragraph 1 of this Article shall:
+
+(a) communicate that SoHO supply alert to their SoHO national authority;
+
+(b) implement appropriate measures to mitigate the risks, to the extent possible; and
+
+(c) take into account the information received in accordance with paragraph 1 of this Article in the review of the national SoHO emergency plans referred to in Article 63.
+
+3\. The SoHO national authorities shall submit, without undue delay, to the EU SoHO Platform the SoHO supply alert received in cases where the supply interruption might affect other Member States and may do so where such interruption might be addressed through cooperation, including through exchange of SoHO, between Member States as referred to in Article 63(3), point (e).
+
+### Article 65 — Derogation from the obligations to authorise SoHO preparations in health emergency situations
+
+1\. By way of derogation from Article 19, SoHO competent authorities may permit, at the request of a SoHO entity as referred to in Article 38(3) and duly justified by a health emergency situation, the distribution, or preparation for immediate human application, of SoHO preparations within their territory even if the procedures referred to in Article 19 have not been carried out, provided that:
+
+(a) the human application of those SoHO preparations is in the interest of public health;
+
+(b) the SoHO preparations have a level of quality and safety that is acceptable considering the requirements of this Regulation or the available data indicate a positive benefit-risk assessment; and
+
+(c) the SoHO preparation is for immediate human application to a defined group of SoHO recipients, who have no therapeutic alternative, the treatment cannot be postponed, the prognosis is life-threatening and the expected benefit outweighs the risks.
+
+The intended SoHO recipients or, where applicable, persons granting consent on their behalf, shall be informed of the derogation and shall give their consent to the immediate human application of that SoHO preparation, in accordance with national legislation, prior to the human application itself.
+
+2\. SoHO competent authorities shall:
+
+(a) indicate the period of time for which the permission referred to in paragraph 1 is granted and if such SoHO preparations may be distributed to other Member States;
+
+(b) instruct the requesting SoHO entity to submit an application for a SoHO preparation authorisation pursuant to Article 39 and collect retrospectively data on the human application of the SoHO preparation during the health emergency situation;
+
+(c) inform the SoHO national authority of the permission referred to in paragraph 1, provided for the SoHO preparation concerned.
+
+3\. The SoHO national authority shall inform the Commission and the other Member States via the EU SoHO Platform of any decision to permit the distribution, or preparation for immediate human application, of SoHO preparations in accordance with paragraph 1.
+
+4\. In cases where such SoHO preparations might be distributed to other Member States, the SoHO national authority of the receiving Member State shall confirm the validity of the permission within its territory before the distribution takes place.
+
+### Article 66 — Emergency derogations in man-made or natural disasters
+
+1\. Insofar as necessary to ensure supply of critical SoHO, Member States may allow for derogations from certain standards and obligations set out in this Regulation when large scale life-threatening situations in the context of man-made or natural disasters, in particular in the context of armed conflicts, pose a risk to human life, and such derogations are the only measure available to mitigate the risk. Derogations shall not be granted from the provisions of this Regulation that concern voluntary and unpaid donation and SoHO donor consent. The derogations shall be applied in a manner that ensures the protection of SoHO donors and SoHO recipients to the maximum extent possible in the circumstances of the crisis.
+
+2\. Member States granting such derogations shall inform the other Member States and the Commission without undue delay and provide reasons for the measures taken.
+
+### Article 67 — SoHO entity emergency plans
+
+Each critical SoHO entity shall draw up a SoHO entity emergency plan that implements the national SoHO emergency plan as referred to in Article 63.
+
+Member States may consider that the measures set out in this Chapter are at least equivalent to the obligations laid down in Directive (EU) 2022/2557.
+
+## CHAPTER IX — SOHO COORDINATION BOARD
+
+### Article 68 — SoHO Coordination Board
+
+1\. The SoHO Coordination Board (SCB) is hereby established in order to promote coordination between Member States concerning the implementation of this Regulation and of the delegated and implementing acts adopted pursuant thereto, and to support them in that coordination, as well as to facilitate cooperation with stakeholders in that regard.
+
+2\. Each Member State shall appoint two permanent members and two alternates representing the SoHO national authority and, where the Member State chooses so, the Ministry of Health or other relevant authorities.
+
+The SoHO national authority may nominate members from other SoHO competent authorities. Those members shall ensure that the views and suggestions they express are endorsed by the SoHO national authority.
+
+The SCB may invite experts and observers to attend its meetings, and may cooperate with other external experts, as appropriate. The SCB may also invite, where relevant, other Union institutions, bodies, offices and agencies. In such cases, they shall have observer status.
+
+3\. Member States shall submit the names and affiliation of their nominated members and alternates, together with the corresponding declaration of interests for any member and alternate, stating the absence of any financial or other interest, to the Commission. The Commission shall make publicly available on the EU SoHO Platform the membership list indicating the name, the institution of origin and the declaration of interests of each nominated member and alternate.
+
+4\. The Commission shall make the rules of procedures of the SCB, the agenda and the summary minutes of each meeting, as well as the best practices documented and published by the SCB, as referred to in Article 74(3), point (d), of this Regulation, publicly available on the EU SoHO Platform, provided that such publication does not undermine the protection of any public or private interest, as referred to in Article 4 of Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 3 ).
+
+5\. The representative of the Commission shall co-chair the meetings of the SCB together with a representative of the SoHO national authority of a Member State, elected by and from among the representatives of the Member States in the SCB, and in accordance with the rules of procedure of the SCB.
+
+6\. The Commission shall provide the secretariat for the SCB in accordance with Article 72.
+
+7\. The SCB shall deliberate by seeking to achieve consensus as far as possible. If consensus cannot be achieved, the SCB shall deliberate and adopt an opinion or other positions by, at least, a majority of two thirds of the votes of all the Member States. The representative of the Commission co-chairing the SCB shall not take part in votes of the SCB. Each Member State shall have one vote.
+
+8\. When establishing the SCB, the Commission shall put forward the rules of procedure of the SCB which shall be approved by the SCB within the first semester of its functioning. The rules of procedure shall, in particular, lay down procedures for the following:
+
+(a) scheduling of meetings;
+
+(b) election of the SoHO national authority co-chairing the meetings of the SCB and the duration of this mandate;
+
+(c) deliberation and voting, as well as timeframes for issuing opinions, taking into account the complexity of the file, the available evidence or other relevant factors;
+
+(d) adoption of opinions or other positions, including in cases of urgency;
+
+(e) submission of requests for advice to the SCB, and for other communications to the SCB;
+
+(f) consultation with advisory bodies established under other relevant Union legislation;
+
+(g) delegation of tasks to working groups, including on vigilance, inspection, and traceability, and on the applicability of this Regulation;
+
+(h) delegation of ad-hoc tasks to SCB members or technical experts to explore, and report to the SCB on, specific technical topics, as required;
+
+(i) invitation of experts to take part in the work of the SCB working groups and to contribute to ad-hoc tasks, on the basis of their personal experience and expertise or on behalf of recognised Union level or global professional associations;
+
+(j) invitation of individuals, organisations, or public entities in the capacity of observers;
+
+(k) declarations regarding conflict of interests of SCB members, alternates, observers and invited experts;
+
+(l) establishment of working groups, including their composition and rules of procedure, and the delegation of ad-hoc tasks.
+
+9\. The Commission may, by means of implementing acts, adopt the necessary measures for the management of the SCB.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 69 — Tasks of the SoHO Coordination Board
+
+1\. The SCB shall assist SoHO competent authorities regarding the coordinated implementation of this Regulation and of the implementing and delegated acts adopted pursuant to it, by:
+
+(a) preparing opinions, at the request of SoHO competent authorities, submitted via their SoHO national authority, in accordance with Article 13(3), first subparagraph, on the regulatory status under this Regulation of a substance, product or activity and including such opinions in the SoHO compendium;
+
+(b) drawing up, by 7 August 2025, a list of the existing substances, products or activities for which an opinion on the regulatory status under this Regulation is not available but is needed to avoid risks to the safety of SoHO donors, recipients or offspring from medically assisted reproduction, or risks of a compromised access of recipients to safe and effective treatments, making it publicly available on the EU SoHO Platform, and subsequently updating that list at its discretion;
+
+(c) initiating at Union level, when preparing the opinions referred to in point (a) of this paragraph, a consultation with equivalent advisory bodies established under other relevant Union legislation in accordance with Article 13(3), second subparagraph, and including in the SoHO compendium the opinions concerning the Union legislation to be applied in cases where there is agreement with the equivalent advisory bodies;
+
+(d) documenting and publishing best practices on the implementation of SoHO supervisory activities on the EU SoHO Platform;
+
+(e) recording information notified in accordance with Article 13(4), and including such information in the SoHO compendium;
+
+(f) setting indicative criteria for ‘critical SoHO’ and for ‘critical SoHO entity’, providing and updating a list of what is considered a ‘critical SoHO’ by Member States, and making such information available to the SoHO national authorities on the EU SoHO Platform;
+
+(g) documenting practices followed by Member States to establish the conditions for compensation as referred to in Article 54(2);
+
+(h) providing assistance and advice for the cooperation between SoHO competent authorities and other competent authorities, with a view to ensuring coherent oversight where the regulatory status of SoHO changes, as provided for in Article 13(6);
+
+(i) providing advice on the minimum evidence necessary for the authorisation of a particular SoHO preparation, as referred to in Article 20(4), point (e);
+
+(j) liaising for the exchange of experience and good practices, as relevant, with the EDQM and the ECDC regarding technical standards within their respective areas of expertise, as well as with the European Medicines Agency on authorisations and supervisory activities concerning the implementation of the PMF certification pursuant to Directive 2001/83/EC, to support the harmonised implementation of standards and technical guidelines;
+
+(k) collaborating for the effective organisation of joint inspections and joint SoHO preparation assessment involving more than one Member State;
+
+(l) providing advice to the Commission on the functional specifications of the EU SoHO Platform;
+
+(m) in cooperation with the Commission, and, where appropriate, with the Advisory Committee on public health emergencies established pursuant to Article 24 of Regulation (EU) 2022/2371, supporting a coordinated approach to ensure the implementation of the national SoHO emergency plans in cases where an emergency affects more than one Member State or in the case of emergencies with an effect beyond the Union, in accordance with Article 63(7) of this Regulation;
+
+(n) providing assistance in other matters related to the coordination or the implementation of this Regulation.
+
+2\. The Commission may adopt implementing acts setting out criteria and procedures for the consultation of advisory bodies established under other relevant Union legislation in relation to the performance of the SCB tasks.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+## CHAPTER X — UNION ACTIVITIES
+
+### Article 70 — Union training and exchange of SoHO competent authorities’ personnel
+
+1\. The Commission shall, in cooperation with SoHO national authorities, organise Union training on the implementation of this Regulation.
+
+2\. The Commission may provide Union training to personnel of SoHO competent authorities of EEA Member States, of countries that are applicants or candidates for Union membership and to personnel of bodies to whom specific responsibilities for SoHO supervisory activities have been delegated. It may organise aspects of the training in collaboration with international organisations and regulators working in the field of SoHO.
+
+3\. SoHO competent authorities shall ensure that the knowledge and materials acquired through the Union training activities referred to in paragraph 1 of this Article are disseminated as necessary and appropriately used in the personnel training activities referred to in Article 8.
+
+4\. The Commission may support, in cooperation with the SoHO national authorities, the organisation of programmes for the exchange of SoHO competent authorities’ personnel between two or more Member States and for the temporary secondment of personnel from one Member State to the other as part of personnel training.
+
+5\. The Commission shall maintain a list of the SoHO competent authority personnel that have successfully completed the Union training referred to in paragraph 1 of this Article, with a view to facilitating joint activities, in particular those referred to in Articles 22, 29, and 71. The Commission shall make this list available to the SoHO national authorities.
+
+### Article 71 — Commission controls
+
+1\. The Commission shall perform controls to confirm whether Member States effectively apply the requirements relating to:
+
+(a) SoHO competent authorities and delegated bodies provided for in Chapter II;
+
+(b) the SoHO supervisory activities carried out by SoHO competent authorities and delegated bodies;
+
+(c) the notification and reporting requirements of this Regulation.
+
+2\. The Commission shall organise the controls referred to in paragraph 1 in cooperation with the SoHO national authorities, and shall carry them out in a manner that avoids unnecessary administrative burden.
+
+3\. When performing the controls referred to in paragraph 1 of this Article, the Commission shall consult the relevant best practices documented and published by the SCB, as referred to in Article 69(1), point (d), on SoHO supervisory activities.
+
+4\. The Commission, in carrying out the controls referred to in paragraph 1 of this Article, may be supported by experts from the SoHO competent authorities selected, whenever possible, from the list referred to in Article 70(5). Experts from the SoHO competent authorities shall be given the same rights of access as the Commission.
+
+5\. Following each control, the Commission shall:
+
+(a) prepare a draft report on the findings and, where appropriate, include recommendations addressing the shortcomings identified;
+
+(b) send a copy of the draft report referred to in point (a) to the SoHO national authority concerned for its comments;
+
+(c) take the comments referred to in point (b) into account in preparing the final report; and
+
+(d) make publicly available a summary of the final report on the EU SoHO Platform.
+
+### Article 72 — Assistance by the Union
+
+1\. To facilitate the fulfilment of the requirements provided for in this Regulation, the Commission shall support implementation by:
+
+(a) providing secretariat and technical, scientific and logistic support to the SCB and its working groups;
+
+(b) funding Commission controls in Member States, including the costs of Member State experts assisting the Commission;
+
+(c) providing funding from the relevant Union programmes in support of public health to:
+
+(i) support collaborative work between SoHO competent authorities and organisations representing groups of SoHO entities and SoHO professionals with the aim of facilitating efficient and effective implementation of this Regulation, and in particular of collaborating on initiatives to achieve sufficiency of supply, including actions to promote donation and optimal use of critical SoHO, and on training activities referred to in Article 70(1) and programmes for the exchange of SoHO competent authorities’ personnel referred to in Article 70(4);
+
+(ii) where applicable, support financially in accordance with the relevant Union programmes, the development and updating of technical guidelines with a view to contributing to the implementation of this Regulation, including through cooperation, as provided for in Union law, with the EDQM on the guidelines published by them;
+
+(d) facilitating the cooperation between the SCB and advisory bodies established by other Union legislation referred to in Article 2(6), in particular through the organisation of joint meetings on the experience acquired with the application of Article 69(1), point (c), and aiming for a common approach to the assessment of the regulatory status of substances, products and activities, taking into account the specificities and the scope of each legal framework;
+
+(e) establishing, managing and maintaining the EU SoHO Platform.
+
+2\. With regard to the support referred to in paragraph 1, point (a), the Commission shall, in particular, organise the meetings of the SCB and its working groups, the travel, reimbursement and special allowances for participants in those meetings.
+
+3\. Upon request from Member States, technical support may be provided, through the Technical Support Instrument established by Regulation (EU) 2021/240 of the European Parliament and of the Council ( 4 ), for the reform of national or regional SoHO supply supervision, provided those reforms aim to achieve compliance with this Regulation.
+
+4\. In order to perform the activities referred to in paragraph 1 to the mutual benefit of the Commission and of the beneficiaries, relating to preparation, management, monitoring and controls, as well as to support expenditure, the Commission shall have recourse to the technical and administrative assistance it might need.
+
+## CHAPTER XI — EU SOHO PLATFORM
+
+### Article 73 — Establishment, management and maintenance of the EU SoHO Platform
+
+1\. The Commission shall establish, manage and maintain a digital platform to facilitate efficient and effective exchange of information concerning SoHO activities in the Union, as provided for in this Regulation (the ‘EU SoHO Platform’).
+
+2\. The processing of personal data, including health data, by the SoHO entities, the SoHO competent authorities, the Member States and the Commission through the EU SoHO Platform shall only be carried out in cases where it is necessary for the performance of the tasks, the achievement of the objectives and the fulfilment of obligations as laid down in this Regulation. The processing of personal data, including health data, shall be carried out in accordance with the applicable Union data protection legislation.
+
+3\. The Commission shall provide instructions, materials and training on the correct use of the EU SoHO Platform for SoHO competent authorities via their SoHO national authority. The Commission shall, where appropriate and in cooperation with their SoHO national authority, provide instructions and training for SoHO entities on the correct use of the EU SoHO Platform. Those training materials shall be available on the EU SoHO Platform.
+
+### Article 74 — General functionalities of the EU SoHO Platform
+
+1\. The EU SoHO Platform shall enable SoHO entities, SoHO competent authorities, Member States and the Commission to process information, data and documents concerning SoHO and SoHO activities, including the submission, retrieval, storage, management, handling, exchange, analysis, publication, tracking and deletion of such data and documents as provided for in this Regulation.
+
+2\. The EU SoHO Platform shall provide a secure channel for restricted exchange of information and data, in particular:
+
+(a) between Member States’ SoHO national authorities;
+
+(b) between two SoHO competent authorities within the Member State or between a SoHO competent authority and its SoHO national authority;
+
+(c) between SoHO national authorities and the Commission, in particular in relation to activity data concerning SoHO activities of SoHO entities, the summaries of notifications and investigation reports of confirmed serious adverse reaction or serious adverse event, SoHO rapid alerts and SoHO supply alerts;
+
+(d) between SoHO national authorities and the SCB;
+
+(e) between SoHO national authorities and the ECDC, in relation to SoHO rapid alerts related to communicable diseases, where applicable;
+
+(f) between SoHO entities and their respective SoHO competent authorities, when the SoHO competent authorities choose to use the EU SoHO Platform for such exchanges.
+
+3\. The EU SoHO Platform shall provide public access to information regarding:
+
+(a) the registration and authorisation status of SoHO entities and their identification code and the SoHO establishment identification code;
+
+(b) approved SoHO clinical studies and authorised SoHO preparations;
+
+(c) the annual Union SoHO activity report and annual Union SoHO vigilance report, in aggregated and anonymised formats, after their approval by SoHO national authorities;
+
+(d) relevant best practices documented and published by the SCB;
+
+(e) technical guidelines for quality management published by the EDQM;
+
+(f) technical guidelines concerning the prevention of communicable and non-communicable diseases published by the ECDC and the EDQM, and concerning protection of SoHO donors, SoHO recipients and offspring from medically assisted reproduction;
+
+(g) the name, the institution of origin and the declaration of interests of each SCB member and alternate;
+
+(h) the SoHO compendium;
+
+(i) the list of the existing substances, products or activities for which an opinion on the regulatory status under this Regulation is not available and is needed as referred to in Article 69(1), point (b);
+
+(j) the more stringent measures adopted by Member States in accordance with Article 4;
+
+(k) the rules of procedure of the SCB, the agenda and the summary minutes of each meeting, unless such publication undermines the protection of a public or private interest, as referred to in Article 4 of Regulation (EC) No 1049/2001;
+
+(l) the list of SoHO national authorities.
+
+4\. By 7 August 2025, the Commission shall adopt implementing acts laying down technical specifications for the EU SoHO Platform, covering its management, maintenance, functions, including its minimal functionalities, the roles and responsibilities of each of the parties listed in paragraph 1, the retention periods for personal data and the technical and organisational measures to ensure the safety and security of personal data processed, including health data.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+## CHAPTER XII — PROCEDURAL PROVISIONS
+
+### Article 75 — Confidentiality
+
+1\. Unless otherwise provided for in this Regulation or in national legislation on confidentiality, and without prejudice to Regulation (EC) No 1049/2001, each party involved in the application of this Regulation shall respect the confidentiality of information and data obtained in carrying out their tasks in order to protect the effective implementation of this Regulation, in particular for the purpose of authorisations, inspections, investigations or Commission controls.
+
+2\. Information and data may be exchanged on a confidential basis between SoHO competent authorities and between SoHO national authorities and the Commission, and shall not be disclosed without the prior agreement of the SoHO competent authorities from whom that information originates.
+
+3\. Paragraphs 1 and 2 shall not affect the rights and obligations of the Commission, Member States and SoHO competent authorities with regard to the exchange of information and the dissemination of alerts, nor the obligations of persons to provide information under national criminal law.
+
+4\. The Commission and Member States may exchange confidential information with regulatory authorities of third countries with which they have concluded bilateral or multilateral confidentiality arrangements, as necessary and proportionate for the protection of human health.
+
+5\. Without prejudice to national legislation on the publication of the outcome of SoHO supervisory activities, SoHO competent authorities may publish or make otherwise publicly available the outcome of SoHO supervisory activities regarding individual SoHO entities provided that the following conditions are met:
+
+(a) the SoHO entity concerned is given the opportunity to comment on the information that the SoHO competent authority intends to publish or make otherwise publicly available, prior to its publication or release, taking into account the urgency of the situation;
+
+(b) the information or data which is published or made otherwise publicly available takes into account the comments expressed by the SoHO entity concerned or is published or released together with such comments;
+
+(c) the information or data concerned is made available in the interest of public health protection and is proportionate to the severity, extent and nature of the associated risk;
+
+(d) the information or data made publicly available does not unnecessarily undermine the protection of legal rights of the SoHO entity or any other natural or legal person;
+
+(e) the information or data made publicly available does not undermine the protection of court proceedings and legal advice.
+
+6\. Regarding information or data that is, by its nature, covered by professional secrecy and that is obtained by SoHO competent authorities in carrying out SoHO supervisory activities, SoHO competent authorities may only publish or make that information or data publicly available, without prejudice to national legislation, provided that the conditions laid down in paragraph 5, point (c), are met.
+
+### Article 76 — Data protection
+
+1\. Personal data required for the application of Article 5(5), Article 9(4), Articles 33 and 34, Article 35(3), points (a) and (b), Article 36(3), Article 39(2), point (a), Article 46(2), Article 64 and Article 68(3) shall be collected for the purpose of identifying the relevant contact persons within the relevant SoHO entities, SoHO competent authorities or delegated bodies, and shall only be processed further for the purpose of ensuring the administration and transparency of the SoHO supervisory activities and SoHO activities concerned.
+
+2\. Personal data, including data concerning health, exchanged through the EU SoHO Platform and required for the application of Articles 73 and 74 shall, where necessary, be processed in the interest of public health and for the following purposes:
+
+(a) to help to identify and evaluate risks associated with a particular SoHO donation or SoHO donor;
+
+(b) to process relevant information on clinical-outcome monitoring.
+
+3\. Personal data, including data concerning health, required for the application of Articles 33, 34, 39, 42 and 44, Article 53(1), points (e) and (f), Article 53(3), and Article 58(13), (14) and (15), shall only be processed for the purpose of ensuring quality and safety of SoHO and protecting the concerned SoHO donors, SoHO recipients and offspring from medically assisted reproduction. Those data shall be directly related to the performance of the supervisory activities and SoHO activities concerned and be limited to the extent necessary and proportionate for that purpose.
+
+4\. All information shall be processed by the Commission, Member States, SoHO competent authorities, including SoHO national authorities, delegated bodies, SoHO entities and any third party contracted by a SoHO entity, as applicable, in such a way that the personal data of the subjects remain protected in accordance with the applicable legislation on personal data protection. They shall, in particular, minimise the risk that subjects can be identified and shall limit the information processed to elements necessary and appropriate for carrying out their tasks and fulfilling their obligations under this Regulation.
+
+5\. The Commission, Member States, SoHO competent authorities, including SoHO national authorities, delegated bodies, SoHO entities and any third party contracted by a SoHO entity, shall implement appropriate technical and organisational measures to protect information and personal data processed, including health data, against unauthorised or unlawful access, disclosure, dissemination, alteration, destruction or accidental loss, in particular where the processing involves transmission over a network.
+
+6\. In relation to their responsibilities to process personal data to comply with the obligations of this Regulation, SoHO entities and SoHO competent authorities of the Member States shall be regarded as controllers as defined in Article 4, point (7), of Regulation (EU) 2016/679.
+
+7\. In relation to its responsibility to establish and manage the EU SoHO Platform, as referred to in Article 73 of this Regulation and the processing of personal data, including health data, that might result from that activity, the Commission shall be regarded as a controller as defined in Article 3, point (8), of Regulation (EU) 2018/1725.
+
+8\. For the purposes of this Article, the Commission is empowered to adopt delegated acts in accordance with Article 77 to supplement this Regulation by laying down the retention periods for personal data, including health data, as appropriate to their purpose and specific criteria that would allow identification of data relevant for public health protection as referred to in paragraph 2 of this Article.
+
+### Article 77 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 26(7), Article 47(4), Article 53(5), Article 58(16) and Article 76(8) shall be conferred on the Commission for an indeterminate period of time from 6 August 2024.
+
+3\. The delegation of power referred to in Article 26(7), Article 47(4), Article 53(5), Article 58(16) and Article 76(8) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 26(7), Article 47(4), Article 53(5), Article 58(16) or Article 76(8) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
+
+### Article 78 — Urgency procedure
+
+1\. Delegated acts adopted under this Article shall enter into force without delay and shall apply as long as no objection is expressed in accordance with paragraph 2. The notification of a delegated act to the European Parliament and to the Council shall state the reasons for the use of the urgency procedure.
+
+2\. Either the European Parliament or the Council may object to a delegated act in accordance with the procedure referred to in Article 77(6). In such case, the Commission shall repeal the act immediately following the notification of the decision to object by the European Parliament or by the Council.
+
+### Article 79 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and Article 5(4), third subparagraph, of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+### Article 80 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall, by 7 August 2029, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendment affecting them.
+
+## CHAPTER XIII — TRANSITIONAL PROVISIONS
+
+### Article 81 — Transitional provisions concerning establishments designated, authorised, accredited or licensed under Directives 2002/98/EC and 2004/23/EC
+
+1\. Blood establishments designated, authorised, accredited or licensed in accordance with Article 5(1) of Directive 2002/98/EC and tissue establishments designated, authorised, accredited or licensed in accordance with Article 6(1) of Directive 2004/23/EC before 7 August 2027  shall be deemed to be registered as SoHO entities and deemed to be authorised as SoHO establishments, in accordance with this Regulation and shall, as such, be subject to the relevant obligations provided for under this Regulation.
+
+2\. Tissue establishments that are designated, authorised, accredited or licensed as importing tissue establishments in accordance with Article 9(1) of Directive 2004/23/EC before 7 August 2027  shall be deemed to be authorised as importing SoHO establishments in accordance with this Regulation and shall, as such, be subject to the relevant obligations provided for under this Regulation.
+
+3\. For blood establishments referred to in paragraph 1 of this Article, SoHO competent authorities shall:
+
+(a) verify whether those establishments fall within the definition of a SoHO establishment as set out in Article 3, point (35);
+
+(b) submit to the EU SoHO Platform the information referred to in Article 35(3), points (a) and (d), and the information regarding the registration and authorisation status according to the verification referred to in point (a) of this paragraph.
+
+4\. For tissue establishments referred to in paragraphs 1 and 2 of this Article, the Commission shall:
+
+(a) verify whether those establishments fall within the definition of a SoHO establishment as set out in Article 3, point (35);
+
+(b) transfer to the EU SoHO Platform the relevant information from the EU Tissue Establishment Compendium of the EU Coding Platform laid down in Commission Directive 2006/86/EC ( 5 ), including the information regarding the registration and authorisation status according to the verification referred to in point (a) of this paragraph;
+
+(c) inform the SoHO competent authorities of the establishments that do not fall within the definition of a SoHO establishment according to the verification referred to in point (a) of this paragraph.
+
+5\. SoHO competent authorities shall inform those establishments not falling within the definition of a SoHO establishment, according to the verification referred to in paragraph 3, point (a), and paragraph 4, point (a), and based on the information referred to in paragraph 4, point (c), that they are deemed to be registered as SoHO entities only and that they, as such, are subject to the obligations relevant for SoHO entities under this Regulation.
+
+### Article 82 — Transitional provisions concerning SoHO preparations
+
+1\. The preparations resulting from tissue and cell preparation processes designated, authorised, accredited or licensed in accordance with Article 6(2) of Directive 2004/23/EC before 7 August 2027  shall be deemed to be authorised as the corresponding SoHO preparations in accordance with this Regulation.
+
+2\. Blood components that were verified by SoHO competent authorities as complying with applicable quality and safety requirements for blood components in accordance with Article 5(3) and Article 23 of Directive 2002/98/EC or with the blood component monographs included in the edition of the Guide to the preparation, use and quality assurance of blood components of the EDQM indicated on the EU SoHO Platform on 7 August 2027  , or that were otherwise designated, authorised, accredited or licensed under national legislation before that date, shall be deemed to be authorised as the corresponding SoHO preparations in accordance with this Regulation.
+
+3\. SoHO competent authorities shall submit the information about the SoHO preparations referred to in paragraphs 1 and 2 to the EU SoHO Platform, and link those SoHO preparations, deemed to be authorised pursuant to those paragraphs, to the respective SoHO entities.
+
+4\. The Commission may adopt implementing acts in order to establish uniform procedures for ensuring that SoHO preparations deemed to be authorised pursuant to paragraphs 1 and 2 are fully documented in line with the requirements for SoHO preparation authorisation in this Regulation.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 79(2).
+
+### Article 83 — Transitional provisions concerning SoHO not addressed explicitly in Directive 2002/98/EC or 2004/23/EC
+
+Entities carrying out one or more of the SoHO activities referred to in Article 2(1), points (c)(i), (iv) to (ix) and (xii), of this Regulation, in respect of SoHO not addressed explicitly in Directive 2002/98/EC or 2004/23/EC, before 7 August 2027  shall be allowed to continue such activities until 8 August 2028  , without applying this Regulation, except for the following requirements:
+
+(a) registration as SoHO entities pursuant to Article 35 of this Regulation;
+
+(b) application for any and all relevant SoHO preparation authorisations, where required pursuant to Article 38 of this Regulation;
+
+(c) application for a SoHO establishment authorisation, where required pursuant to Article 45 of this Regulation;
+
+(d) compliance with the standards referred to in Chapters VI and VII of this Regulation for the SoHO activities carried out during the transition phase.
+
+Such SoHO entities shall comply with the requirements referred to in the first paragraph, points (b) and (c), by 8 November 2027  .
+
+### Article 84 — Status of SoHO in storage or distributed before the application of this Regulation
+
+1\. SoHO already in storage before 7 August 2027  shall not be subject to the relevant obligations provided for under this Regulation, provided that those SoHO are released and distributed before 8 August 2029  , under the condition that those SoHO were fully compliant with the applicable Union legislation and national law in force at the time when those SoHO were collected.
+
+2\. SoHO which have been distributed before 7 August 2027  and kept under appropriate control conditions until that date shall not be subject to the relevant obligations provided for under this Regulation.
+
+3\. SoHO already in storage before 7 August 2027  , and not distributed as referred to in paragraph 1 of this Article, and for which no alternative SoHO are available, in particular because the SoHO are autologous, intended for within-relationship use or highly matched for a specific SoHO recipient, shall only be subject to Article 61. Those SoHO shall be subject to that Article from that date.
+
+## CHAPTER XIV — FINAL PROVISIONS
+
+### Article 85 — Repeals
+
+Directives 2002/98/EC and 2004/23/EC are repealed with effect from 7 August 2027.
+
+### Article 86 — Evaluation
+
+The Commission shall, by 8 August 2032  , assess the application of this Regulation, produce an evaluation report on the progress towards achievement of the objectives of this Regulation and present its main findings to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions. The evaluation report shall include an assessment of the implementation of Article 54. For the purpose of the evaluation report, the Commission shall use aggregated and anonymised data and information gathered from SoHO competent authorities and from data and information submitted to the EU SoHO Platform. Member States shall provide the Commission with additional information as necessary and proportionate for the preparation of the evaluation report, including information on the conditions for compensation of SoHO donors pursuant to Article 54. The evaluation report shall, where appropriate, be accompanied by a legislative proposal to amend this Regulation.
+
+### Article 87 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Unless otherwise provided for in paragraph 2, it shall apply from 7 August 2027.
+
+2\. The Commission is empowered to adopt the delegated acts referred to in Article 47(4), and the implementing acts referred to in Article 41(3), Article 42(7), Article 43(3), Article 48(7) and Article 74(4) from 6 August 2024.
+
+Article 68 and Article 69(1), point (b), shall apply from 7 August 2024.
+
+Article 80, Article 81(3), (4) and (5) and Article 82(3) shall apply from 7 August 2028.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( ) Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176).
+
+( ) Directive (EU) 2022/2557 of the European Parliament and of the Council of 14 December 2022 on the resilience of critical entities and repealing Council Directive 2008/114/EC (OJ L 333, 27.12.2022, p. 164).
+
+( ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( ) Regulation (EU) 2021/240 of the European Parliament and of the Council of 10 February 2021 establishing a Technical Support Instrument (OJ L 57, 18.2.2021, p. 1).
+
+( ) Commission Directive 2006/86/EC of 24 October 2006 implementing Directive 2004/23/EC of the European Parliament and of the Council as regards traceability requirements, notification of serious adverse reactions and events and certain technical requirements for the coding, processing, preservation, storage and distribution of human tissues and cells (OJ L 294, 25.10.2006, p. 32).

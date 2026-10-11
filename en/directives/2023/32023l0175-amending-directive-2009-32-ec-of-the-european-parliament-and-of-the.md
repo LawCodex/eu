@@ -82,11 +82,13 @@ Annex I to Directive 2009/32/EC is amended as follows:
 
 (a) In Part II, the following new entry is inserted after the entry for hexane:
 
+<table>
 <tbody><tr><td rowspan="4">‘2-methyloxolane</td><td>Production or fractionation of fats and oils and production of cocoa butter</td><td>1 mg/kg in the fat or oil or cocoa butter</td></tr>
 <tr><td rowspan="2">Preparation of defatted protein products and defatted flours</td><td>10 mg/kg in the food containing the defatted protein products and the defatted flours</td></tr>
 <tr><td>30 mg/kg in the defatted soya products as sold to the final consumer</td></tr>
 <tr><td>Preparation of defatted cereal germs</td><td>5 mg/kg in the defatted cereal germs’</td></tr>
 </tbody>
+</table>
 
 (b) In Part III, the following new entry is inserted after the entry for hexane:
 
@@ -99,6 +101,7 @@ Annex I to Directive 2009/32/EC is amended as follows:
 
 Specific purity criteria for the extraction solvents listed in Annex I
 
+<table>
 <tbody><tr><td colspan="2">2-methyloxolane</td></tr>
 <tr><td>CAS number</td><td>96-47-9</td></tr>
 <tr><td>Assay</td><td>Content not less than 99,9 % expressed on dry basis</td></tr>
@@ -107,3 +110,4 @@ Specific purity criteria for the extraction solvents listed in Annex I
 <tr><td>2-methylfuran</td><td>Not more than 500 mg/kg (expressed on dry basis)</td></tr>
 <tr><td>Ethanol</td><td>Not more than 450 mg/kg (expressed on dry basis)’</td></tr>
 </tbody>
+</table>

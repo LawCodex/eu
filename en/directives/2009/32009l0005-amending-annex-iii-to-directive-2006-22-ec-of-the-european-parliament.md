@@ -84,6 +84,7 @@ In accordance with Article 9(3), the following table contains guidelines on a co
 
 1\. Groups of infringements against Regulation (EC) No 561/2006
 
+<table>
 <tbody><tr><td rowspan="2">No</td><td rowspan="2">Legal basis</td><td colspan="2" rowspan="2">Type of infringement</td><td colspan="3">Level of seriousness (1)</td></tr>
 <tr><td>VSI</td><td>SI</td><td>MI</td></tr>
 <tr><td>A</td><td colspan="3">Crew</td><td></td><td></td><td></td></tr>
@@ -128,9 +129,11 @@ In accordance with Article 9(3), the following table contains guidelines on a co
 <tr><td>E1</td><td>Art. 10.1</td><td colspan="2">Link between wage and distance travelled or amount of goods carried</td><td>X</td><td></td><td></td></tr>
 <tr><td colspan="7">(1) VSI = Very Serious Infringement/SI = Serious Infringement/MI = Minor Infringement.</td></tr>
 </tbody>
+</table>
 
 2\. Groups of infringements against Regulation (EEC) No 3821/85
 
+<table>
 <tbody><tr><td rowspan="2">No</td><td rowspan="2">Legal basis</td><td rowspan="2">Type of infringements</td><td colspan="3">Level of seriousness (1)</td></tr>
 <tr><td>VSI</td><td>SI</td><td>MI</td></tr>
 <tr><td>F</td><td colspan="2">Installation of recording equipment</td><td></td><td></td><td></td></tr>
@@ -190,6 +193,7 @@ In accordance with Article 9(3), the following table contains guidelines on a co
 <tr><td>L4</td><td>Art. 16.3</td><td>Lost or theft of driver card not formally declared to the competent authorities of the Member State where the theft occurred</td><td>X</td><td></td><td></td></tr>
 <tr><td colspan="6">(1) VSI = Very Serious Infringement/SI = Serious Infringement/MI = Minor Infringement.’</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 102, 11.4.2006, p. 35.
 

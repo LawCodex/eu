@@ -1,0 +1,338 @@
+---
+title: "Council Regulation (EC) No 479/2009 of 25 May 2009 on the application of the Protocol on the excessive deficit procedure annexed to the Treaty establishing the European Community (Codified version)"
+identifier: "32009R0479"
+eli: "http://data.europa.eu/eli/reg/2009/479/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-05-25
+entry_into_force: 2010-01-01
+last_amended: 2014-09-01
+consolidated_version: "02009R0479-20140901"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0479-20140901"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 479/2009 of 25 May 2009 on the application of the Protocol on the excessive deficit procedure annexed to the Treaty establishing the European Community (Codified version)
+
+**COUNCIL REGULATION (EC) No 479/2009**
+
+**of 25 May 2009**
+
+**on the application of the Protocol on the excessive deficit procedure annexed to the Treaty establishing the European Community**
+
+**(Codified version)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 679/2010 of 26 July 2010 </td><td> L 198</td><td>1</td><td>30.7.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 220/2014 of 7 March 2014 </td><td> L 69</td><td>101</td><td>8.3.2014</td></tr>
+</table>
+
+**COUNCIL REGULATION (EC) No 479/2009**
+
+**of 25 May 2009**
+
+**on the application of the Protocol on the excessive deficit procedure annexed to the Treaty establishing the European Community**
+
+**(Codified version)**
+
+## CHAPTER I — DEFINITIONS
+
+### Article 1
+
+1\. For the purposes of the Protocol on the excessive deficit procedure and of this Regulation, the terms in paragraphs 2 to 6 are defined according to Regulation (EU) No 549/2013 of the European Parliament and the Council of 21 May 2013 on the European system of national and regional accounts in the European Union (hereinafter referred to as ESA 2010). The codes in brackets refer to ESA 2010.
+
+2\. ‘Government’ means the sector of ‘general government’ (S.13), that is ‘central government’ (S.1311), ‘state government’ (S.1312), ‘local government’ (S.1313) and ‘social security funds’ (S.1314), to the exclusion of commercial operations, as defined in ESA 2010  .
+
+The exclusion of commercial operations means that the sector of ‘general government’ (S.13) comprises only institutional units producing non-market services as their main activity.
+
+3\. ‘Government deficit (surplus)’ means the net borrowing (net lending) ( B.9  ) of the sector of ‘general government’ (S.13), as defined in ESA 2010  . The interest comprised in the government deficit is the interest ( D.41  ), as defined in ESA 2010  .
+
+4\. ‘Government investment’ means the gross fixed capital formation (P.51) of the sector of ‘general government’ (S.13), as defined in ESA 2010  .
+
+5\. ‘Government debt’ means the total gross debt at nominal value outstanding at the end of the year of the sector of ‘general government’ (S.13), with the exception of those liabilities the corresponding financial assets of which are held by the sector of ‘general government’ (S.13).
+
+Government debt is constituted by the liabilities of general government in the following categories: currency and deposits (AF.2); debt securities (AF.3) and loans (AF. 4), as defined in ESA 2010.
+
+The nominal value of a liability outstanding at the end of the year is the face value.
+
+The nominal value of an index-linked liability corresponds to its face value adjusted by the index-related change in the value of the principal accrued to the end of the year.
+
+Liabilities denominated in a foreign currency, or exchanged from one foreign currency through contractual agreements to one or more other foreign currencies shall be converted into the other foreign currencies at the rate agreed on in those contracts and shall be converted into the national currency on the basis of the representative market exchange rate prevailing on the last working day of each year.
+
+Liabilities denominated in the national currency and exchanged through contractual agreements to a foreign currency shall be converted into the foreign currency at the rate agreed on in those contracts and shall be converted into the national currency on the basis of the representative market exchange rate prevailing on the last working day of each year.
+
+Liabilities denominated in a foreign currency and exchanged through contractual agreements to the national currency shall be converted into the national currency at the rate agreed on in those contracts.
+
+6\. ‘Gross domestic product’ means gross domestic product at current market prices (GDP mp) (B.1*g), as defined in ESA 2010  .
+
+### Article 2
+
+1\. ‘Planned government deficit and government debt level figures’ means the figures established for the current year by the Member States. They shall be the most recent official forecasts, taking into account the most recent budgetary decisions and economic developments and prospects. They should be produced in as short a time as possible before the reporting deadline.
+
+2\. ‘Actual government deficit and government debt level figures’ means estimated, provisional, half-finalised or final results for a past year. The planned data together with the actual data shall form a consistent time series as far as the definitions and concepts are concerned.
+
+### Article 2a
+
+‘Access’ means that relevant documents and other information must be provided when requested, either immediately or as promptly afterwards as is consistent with the time needed to collect the requested information.
+
+## CHAPTER II — RULES AND COVERAGE OF REPORTING
+
+### Article 3
+
+1\. Member States shall report to the Commission (Eurostat) their planned and actual government deficits and levels of government debt twice a year, the first time before 1 April of the current year (year n) and the second time before 1 October of year n.
+
+Member States shall inform the Commission (Eurostat) which national authorities are responsible for the excessive deficit procedure reporting.
+
+2\. Before 1 April of year n, Member States shall:
+
+(a) report to the Commission (Eurostat) their planned government deficit for year n, an up-to-date estimate of their actual government deficit for year n-1 and their actual government deficits for years n-2, n-3 and n-4;
+
+(b) simultaneously provide the Commission (Eurostat) with their planned data for year n and the actual data for years n-1, n-2, n-3 and n-4 of their corresponding public accounts budget deficits in accordance with the definition which is given most prominence nationally and with the figures which explain the transition between the public accounts budget deficit and their government deficit for the sub-sector S.1311;
+
+(c) simultaneously provide the Commission (Eurostat) with their actual data for years n-1, n-2, n-3 and n-4 of their corresponding working balances and with the figures which explain the transition between the working balances of each government sub-sector and their government deficit for the sub-sectors S.1312, S.1313 and S.1314;
+
+(d) report to the Commission (Eurostat) their planned level of government debt at the end of year n and their levels of actual government debt at the end of years n-1, n-2, n-3 and n-4;
+
+(e) simultaneously provide the Commission (Eurostat), for years n-1, n-2, n-3 and n-4, with the figures which explain the contribution of the government deficit and other factors relevant to the variation in the level of their government debt by sub-sector.
+
+3\. Before 1 October of year n, Member States shall report to the Commission (Eurostat) their:
+
+(a) updated planned government deficit for year n and their actual government deficits for years n-1, n-2, n-3 and n-4 and shall comply with the requirements of points (b) and (c) of paragraph 2;
+
+(b) updated planned level of government debt at the end of year n and their levels of actual government debt at the end of years n-1, n-2, n-3 and n-4, and shall comply with the requirements of paragraph 2(e).
+
+4\. The figures for the planned government deficit reported to the Commission (Eurostat) in accordance with paragraphs 2 and 3 shall be expressed in national currency and in budget years.
+
+The figures for actual government deficit and actual government debt level reported to the Commission (Eurostat) in accordance with paragraphs 2 and 3 shall be expressed in national currency and in calendar years, with the exception of the up-to-date estimates for year n-1, which may be expressed in budget years.
+
+Where the budget year differs from the calendar year, Member States shall also report to the Commission (Eurostat) their figures for actual government deficit and actual government debt level in budget years for the two budget years preceding the current budget year.
+
+### Article 4
+
+Member States shall, in accordance with the procedure laid down in Article 3(1), (2) and (3), provide the Commission (Eurostat) with the figures for their government investment expenditure and interest expenditure (consolidated).
+
+### Article 5
+
+Member States shall provide the Commission (Eurostat) with a forecast of their gross domestic product for year n and the actual amount of their gross domestic product for years n-1, n-2, n-3 and n-4, under the same timing conditions as those indicated in Article 3(1).
+
+### Article 6
+
+1\. Member States shall inform the Commission (Eurostat), as soon as it becomes available, of any major revision in their actual and planned government deficit and debt figures already reported.
+
+2\. Major revisions in the actual deficit and debt figures already reported shall be properly documented. In any case, revisions which result in the reference values as specified in the Protocol on the excessive deficit procedure being exceeded, or revisions which mean that a Member State’s data no longer exceed the reference values, shall be reported and properly documented.
+
+### Article 7
+
+Member States shall make public the actual deficit and debt data and other data for past years reported to the Commission (Eurostat) in accordance with Articles 3 to 6.
+
+## CHAPTER III — QUALITY OF DATA
+
+### Article 8
+
+1\. The Commission (Eurostat) shall regularly assess the quality both of actual data reported by Member States and of the underlying government sector accounts compiled according to ESA 2010  (hereinafter referred to as government accounts). Quality of actual data means compliance with accounting rules, completeness, reliability, timeliness, and consistency of the statistical data. The assessment will focus on areas specified in the inventories of Member States such as the delimitation of the government sector, the classification of government transactions and liabilities, and the time of recording.
+
+2\. Member States shall provide the Commission (Eurostat), as promptly as possible, with the relevant statistical information requested for the needs of the data quality assessment, without prejudice to the provisions of Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics ( 7 ) relating to statistical confidentiality.
+
+The statistical information referred to in the first subparagraph shall be limited to the information strictly necessary to check the compliance with ESA rules. In particular, ‘statistical information’ means:
+
+(a) data from national accounts;
+
+(b) inventories;
+
+(c) EDP notification tables;
+
+(d) additional questionnaires and clarification related to the notifications.
+
+The format of the questionnaires shall be defined by the Commission (Eurostat) after consultation of the Committee on Monetary, Financial and Balance of Payments Statistics (hereinafter referred to as CMFB).
+
+3\. The Commission (Eurostat) shall report regularly to the European Parliament and to the Council on the quality of the actual data reported by Member States. The report shall address the overall assessment of the actual data reported by Member States as regards to the compliance with accounting rules, completeness, reliability, timeliness, and consistency of the data.
+
+### Article 9
+
+1\. Member States shall provide the Commission (Eurostat) with a detailed inventory of the methods, procedures and sources used to compile actual deficit and debt data and the underlying government accounts.
+
+2\. The inventories shall be prepared in accordance with guidelines adopted by the Commission (Eurostat) after consultation of CMFB.
+
+3\. The inventories shall be updated following revisions in the methods, procedures and sources adopted by Member States to compile their statistical data.
+
+4\. Member States shall make their inventories public.
+
+5\. The issues referred to in paragraphs 1, 2 and 3 may be addressed in the visits mentioned in Article 11.
+
+### Article 10
+
+1\. In the event of a doubt regarding the correct implementation of the ESA 2010  accounting rules, the Member State concerned shall request clarification from the Commission (Eurostat). The Commission (Eurostat) shall promptly examine the issue and communicate its clarification to the Member State concerned and, when appropriate, to the CMFB.
+
+2\. For cases which are either complex or of general interest in the view of the Commission or the Member State concerned, the Commission (Eurostat) shall take a decision after consultation of the CMFB. The Commission (Eurostat) shall make decisions public, together with the opinion of the CMFB, without prejudice to the provisions relating to statistical confidentiality of Regulation (EC) No 322/97.
+
+### Article 11
+
+1\. The Commission (Eurostat) shall ensure a permanent dialogue with Member States’ statistical authorities. To this end, the Commission (Eurostat) shall carry out in all Member States regular dialogue visits, as well as possible methodological visits.
+
+2\. When organising dialogue and methodological visits, the Commission (Eurostat) shall transmit its provisional findings to the Member States concerned for comments.
+
+### Article 11a
+
+The dialogue visits are designed to review actual data reported according to Article 8, to examine methodological issues, to discuss statistical processes and sources described in the inventories, and to assess compliance with the accounting rules. The dialogue visits shall be used to identify risks or potential problems with respect to the quality of the reported data.
+
+### Article 11b
+
+1\. The methodological visits are designed to monitor the processes and verify the accounts which justify the reported data, and to draw detailed conclusions as to the quality of reported data, as described in Article 8(1).
+
+2\. The methodological visits shall only be undertaken in exceptional cases where significant risks or problems with respect to the quality of the data have been clearly identified.
+
+3\. For the purposes of this Regulation, it could be considered that there are significant risks or problems with the quality of the data notified by a Member State in such cases as:
+
+(a) there are frequent and sizeable revisions of the deficit or debt that are not clearly and adequately explained;
+
+(b) the Member State concerned is not sending to the Commission (Eurostat) all the statistical information requested in the context of the rounds for clarification of the EDP notification or as a consequence of a dialogue visit, in the period agreed between them and has not clearly and adequately explained the reason for the delay or non-response;
+
+(c) the Member State concerned changes, unilaterally and without a clear explanation, the sources and methods for estimating the deficit and debts of the general government set out in the inventory, with a material effect on estimates;
+
+(d) there are outstanding methodological issues likely to have a material effect on the debt or deficit statistics which have not been resolved between the Member State and the Commission (Eurostat) arising from the rounds for clarification or the previous dialogue visits, resulting in reservations from the Commission (Eurostat) in two subsequent EDP notifications;
+
+(e) there are persistent, unusually high stock-flow adjustments not clearly explained.
+
+4\. Mainly taking into account the criteria mentioned in paragraph 3, the Commission (Eurostat), after informing the CMFB, shall decide to carry out a methodological visit.
+
+5\. The Commission should provide the Economic and Financial Committee with full information about the reasons behind the methodological visits.
+
+### Article 12
+
+1\. Member States are expected to provide, at the request of the Commission (Eurostat), and on a voluntary basis, the assistance of experts in national accounting, including for the preparation and carrying-out of the methodological visits. In the exercise of their duties, these experts shall provide independent expertise. A list of those experts in national accounting shall be constituted on the basis of proposals sent to the Commission (Eurostat) by the national authorities responsible for the excessive deficit reporting.
+
+The Commission shall lay down the rules and procedures related to the selection of the experts, taking into account an appropriate distribution of experts across Member States and an appropriate rotation of experts between Member States, their working arrangements and the financial details. The Commission shall share with the Member States the full cost incurred by the Member States for the assistance of their national experts.
+
+2\. In the framework of the methodological visits, the Commission (Eurostat) shall have the right to access the accounts of all government entities at central, state, local and social security levels, including the provision of existing underlying detailed accounting and budgetary information.
+
+In this context, accounting and budgetary information includes:
+
+— transactions and balance sheets,
+
+— relevant statistical surveys and questionnaires of general government and further related information, such as analytical documents,
+
+— information from relevant national, regional and local authorities on the execution of the budget of all sub-sectors of the general government,
+
+— the accounts of extra-budgetary bodies, corporations, and non-profit institutions and other similar bodies that are part of the general government sector in national accounts,
+
+— the accounts of social security funds.
+
+Member States shall take all necessary measures to facilitate the methodological visits. Those visits may be carried out at national authorities involved in the excessive deficit procedure reporting, as well as at all services directly or indirectly involved in the production of government accounts and debt. In both cases, the national statistical institutes as national coordinators according to Article 5(1) of Regulation (EC) No 223/2009, shall support the Commission (Eurostat) in the organisation and coordination of the visits. Member States shall ensure that those national authorities and services, and where necessary, their national authorities who have a functional responsibility for the control of the public accounts, provide the Commission officials or other experts referred to in paragraph 1 with the assistance necessary to carry out their duties, including making documents available to justify the reported actual deficit and debt data and the underlying government accounts. Confidential records of the national statistical system as well as other confidential data should be provided to the Commission (Eurostat) only for the purpose of assessing the quality thereof. Experts in national accounting assisting the Commission (Eurostat) in the framework of the methodological visits shall sign a commitment to respect the confidentiality before accessing those confidential records or data.
+
+3\. The Commission (Eurostat) shall ensure that officials and experts participating in these visits meet every guarantee as regards technical competence, professional independence and observance of confidentiality.
+
+### Article 13
+
+The Commission (Eurostat) shall report to the Economic and Financial Committee on the findings of dialogue and methodological visits, including any comments on these findings made by the Member State concerned. Those reports, along with any comments made by the Member State concerned, after having been transmitted to the Economic and Financial Committee, shall be made public, without prejudice to the provisions concerning statistical confidentiality in Regulation (EC) No 322/97.
+
+## CHAPTER IV — PROVISION OF DATA BY THE COMMISSION — (EUROSTAT)
+
+### Article 14
+
+1\. The Commission (Eurostat) shall provide the actual government deficit and debt data for the application of the Protocol on the excessive deficit procedure, within three weeks after the reporting deadlines referred to in Article 3(1) or after revisions as referred to in Article 6(1). That provision of data shall be effected through publication.
+
+2\. The Commission (Eurostat) shall not delay the provision of the actual government deficit and debt data of Member States where a Member State has not reported its own data.
+
+### Article 15
+
+1\. The Commission (Eurostat) may express a reservation on the quality of the actual data reported by the Member States. No later than three working days before the planned publication date, the Commission (Eurostat) shall communicate to the Member State concerned and to the President of the Economic and Financial Committee the reservation it intends to express and make public. Where the issue is resolved after publication of the data and the reservation, withdrawal of the reservation shall be made public immediately thereafter.
+
+2\. The Commission (Eurostat) may amend actual data reported by Member States and provide the amended data and a justification of the amendment where there is evidence that actual data reported by Member States do not comply with the requirements of Article 8(1). No later than three working days before the planned publication date, the Commission (Eurostat) shall communicate to the Member State concerned and to the President of the Economic and Financial Committee the amended data and the justification for the amendment.
+
+## CHAPTER V — GENERAL PROVISIONS
+
+### Article 16
+
+1\. Member States shall ensure that the actual data reported to the Commission (Eurostat) are provided in accordance with the principles established by Article 2 of Regulation (EC) No 223/2009. In this regard, the responsibility of the national statistical authorities is to ensure the compliance of reported data with Article 1 of this Regulation and the underlying ESA 2010  accounting rules. Member States shall ensure that the national statistical authorities are provided with access to all relevant information necessary to perform these tasks.
+
+2\. Member States shall take appropriate measures to ensure that institutions and officials responsible for the reporting of the actual data to the Commission (Eurostat) and of the underlying government accounts are accountable and act in accordance with principles established by Article 2 of Regulation (EC) No 223/2009.
+
+### Article 17
+
+In the event of a revision of ESA 2010  or of an amendment to its methodology decided on by the European Parliament and the Council or the Commission in accordance with the rules of competence and procedure laid down in the Treaty and in Regulation (EC) No 2223/96, the Commission shall introduce the new references to ESA 2010  into Articles 1 and 3 of this Regulation.
+
+### Article 18
+
+Regulation (EC) No 3605/93 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and be read in accordance with the correlation table set out in Annex II.
+
+### Article 19
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Repealed Regulation with list of its successive amendments**
+
+| Council Regulation (EC) No 3605/93 | (OJ L 332, 31.12.1993, p. 7). |
+| --- | --- |
+| Council Regulation (EC) No 475/2000 | (OJ L 58, 3.3.2000, p. 1). |
+| Commission Regulation (EC) No 351/2002 | (OJ L 55, 26.2.2002, p. 23). |
+| Council Regulation (EC) No 2103/2005 | (OJ L 337, 22.12.2005, p. 1). |
+
+## ANNEX II
+
+**CORRELATION TABLE**
+
+| Regulation (EC) No 3605/93 | This Regulation |
+| --- | --- |
+| Section 1 | Chapter I |
+| Article 1(1) to (5) | Article 1(1) to (5) |
+| Article 2 | Article 1(6) |
+| Article 3 | Article 2 |
+| Section 2 | Chapter II |
+| Article 4(1) | Article 3(1) |
+| Article 4(2), first to fifth indents | Article 3(2), points (a) to (e) |
+| Article 4(3), first and second indents | Article 3(3), points (a) and (b) |
+| Article 4(4) | Article 3(4) |
+| Article 5 | Article 4 |
+| Article 6 | Article 5 |
+| Article 7 | Article 6 |
+| Article 8 | Article 7 |
+| Section 2a | Chapter III |
+| Article 8a(1) | Article 8(1) |
+| Article 8a(2), first subparagraph | Article 8(2), first subparagraph |
+| Article 8a(2), second subparagraph, first to fourth indents | Article 8(2), second subparagraph, points (a) to (d) |
+| Article 8a(2), third subparagraph | Article 8(2), third subparagraph |
+| Article 8a(3) | Article 8(3) |
+| Article 8b | Article 9 |
+| Article 8c | Article 10 |
+| Article 8d, first paragraph, first and second sentences | Article 11(1) |
+| Article 8d, first paragraph, third sentence | Article 11(3), third subparagraph |
+| Article 8d, second paragraph, first and second sentences | Article 11(2) |
+| Article 8d, second paragraph, third sentence | Article 11(3), second subparagraph |
+| Article 8d, second paragraph, fourth and fifth sentences | Article 11(3), first subparagraph |
+| Article 8d, third paragraph | Article 11(4) |
+| Article 8e | Article 12 |
+| Article 8f | Article 13 |
+| Section 2b | Chapter IV |
+| Article 8g | Article 14 |
+| Article 8h | Article 15 |
+| Section 2c | Chapter V |
+| Article 8i | Article 16 |
+| Article 8j | Article 17 |
+| — | Article 18 |
+| — | Article 19 |
+| — | Annex I |
+| — | Annex II |
+
+( 1 ) Opinion of 21 October 2008 (not yet published in the Official Journal).
+
+( 2 ) OJ C 88, 9.4.2008, p. 1.
+
+( 3 ) OJ L 332, 31.12.1993, p. 7.
+
+( 4 ) See Annex I.
+
+( 5 ) OJ L 310, 30.11.1996, p. 1.
+
+( 6 ) OJ L 112, 29.4.1997, p. 56.
+
+( 7 ) OJ L 87, 31.3.2009, p. 164.

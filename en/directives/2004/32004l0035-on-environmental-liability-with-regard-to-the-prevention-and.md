@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on environmental liability with regard to the prevention and remedying of environmental damage**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2006/21/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2006 </td><td> L 102</td><td>15</td><td>11.4.2006</td></tr>
 <tr><td></td><td> DIRECTIVE 2009/31/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 April 2009 </td><td> L 140</td><td>114</td><td>5.6.2009</td></tr>
 <tr><td></td><td> DIRECTIVE 2013/30/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 June 2013 </td><td> L 178</td><td>66</td><td>28.6.2013</td></tr>
 <tr><td></td><td> REGULATION (EU) 2019/1010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>115</td><td>25.6.2019</td></tr>
+</table>
 
 **DIRECTIVE 2004/35/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

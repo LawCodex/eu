@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on settlement finality in payment and securities settlement systems**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2009/44/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 May 2009 </td><td> L 146</td><td>37</td><td>10.6.2009</td></tr>
@@ -30,6 +31,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> REGULATION (EU) No 909/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 </td><td> L 257</td><td>1</td><td>28.8.2014</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/879 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2019 </td><td> L 150</td><td>296</td><td>7.6.2019</td></tr>
 <tr><td></td><td> REGULATION (EU) 2024/886 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 886</td><td>1</td><td>19.3.2024</td></tr>
+</table>
 
 **DIRECTIVE 98/26/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

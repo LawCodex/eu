@@ -91,6 +91,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, the following entry 43 is added:
 
+<table>
 <tbody><tr><td>‘43</td><td>Bis(2-ethylhexyl) phthalate in rubber components in engine systems, designed for use in equipment that is not intended solely for consumer use and provided that no plasticised material comes into contact with human mucous membranes or into prolonged contact with human skin and the concentration value of bis(2-ethylhexyl) phthalate does not exceed:<table><tbody><tr><td>(a)</td><td>30 % by weight of the rubber for<table><tbody><tr><td>(i)</td><td>gasket coatings;</td></tr>
 </tbody>
 </table>
@@ -108,3 +109,4 @@ In Annex III to Directive 2011/65/EU, the following entry 43 is added:
 </table>
  For the purposes of this entry, “prolonged contact with human skin” means continuous contact of more than 10 minutes duration or intermittent contact over a period of 30 minutes, per day. </td><td>Applies to category 11 and expires on 21 July 2024.’</td></tr>
 </tbody>
+</table>

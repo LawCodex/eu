@@ -1,0 +1,760 @@
+---
+title: "Council Regulation (EU) 2023/1529 of 20 July 2023 concerning restrictive measures in view of Iran’s military support of Russia’s war of aggression against Ukraine"
+identifier: "32023R1529"
+eli: "http://data.europa.eu/eli/reg/2023/1529/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2023-07-20
+entry_into_force: 2023-11-01
+last_amended: 2026-08-01
+consolidated_version: "02023R1529-20260801"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R1529-20260801"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2023/1529 of 20 July 2023 concerning restrictive measures in view of Iran’s military support of Russia’s war of aggression against Ukraine
+
+**COUNCIL REGULATION (EU) 2023/1529**
+
+**of 20 July 2023**
+
+**concerning restrictive measures in view of Iran’s military support to Russia’s war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region as well as Iran’s actions undermining freedom of navigation in the Middle East**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/2793 of 11 December 2023 </td><td> L 2793</td><td>1</td><td>11.12.2023</td></tr>
+<tr><td> M2</td><td> COUNCIL REGULATION (EU) 2024/1338 of 14 May 2024 </td><td> L 1338</td><td>1</td><td>15.5.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1604 of 31 May 2024 </td><td> L 1604</td><td>1</td><td>31.5.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1793 of 24 June 2024 </td><td> L 1793</td><td>1</td><td>24.6.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1971 of 15 July 2024 </td><td> L 1971</td><td>1</td><td>16.7.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2697 of 14 October 2024 </td><td> L 2697</td><td>1</td><td>14.10.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2896 of 18 November 2024 </td><td> L 2896</td><td>1</td><td>18.11.2024</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2024/2897 of 18 November 2024 </td><td> L 2897</td><td>1</td><td>18.11.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/1548 of 25 July 2025 </td><td> L 1548</td><td>1</td><td>25.7.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/262 of 29 January 2026 </td><td> L 262</td><td>1</td><td>29.1.2026</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2026/271 of 29 January 2026 </td><td> L 271</td><td>1</td><td>30.1.2026</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2026/1164 of 22 May 2026 </td><td> L 1164</td><td>1</td><td>26.5.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1225 of 8 June 2026 </td><td> L 1225</td><td>1</td><td>8.6.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1853 of 24 July 2026 </td><td> L 1853</td><td>1</td><td>27.7.2026</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2026/1891 of 30 July 2026 </td><td> L 1891</td><td>1</td><td>31.7.2026</td></tr>
+</table>
+
+C1
+
+C3
+
+**COUNCIL REGULATION (EU) 2023/1529**
+
+**of 20 July 2023**
+
+**concerning restrictive measures in view of Iran’s military support to Russia’s war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region as well as Iran’s actions undermining freedom of navigation in the Middle East**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘brokering services’ means:
+
+(i) the negotiation or arrangement of transactions for the purchase, sale or supply of goods and technology or of financial and technical services, including from a third country to any other third country; or
+
+(ii) the selling or buying of goods and technology or of financial and technical services, including where they are located in third countries for their transfer to another third country;
+
+(b) ‘claim’ means any claim, whether asserted in legal proceedings or not, made before or after the date of entry into force of this Regulation, under, or in connection with, a contract or transaction, in particular:
+
+(i) a claim for the performance of any obligation arising under, or in connection with, a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(c) ‘contract or transaction’ means any transaction in whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose ‘contract’ includes a bond, guarantee or indemnity, in particular a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(d) ‘competent authorities’ refers to the competent authorities of the Member States as identified on the websites listed in Annex I;
+
+(e) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds but may be used to obtain funds, goods or service;
+
+(f) ‘financing or financial assistance’ means any action, irrespective of the particular means chosen, whereby the person, entity or body concerned, conditionally or unconditionally, disburses or commits to disburse its own funds or economic resources, including but not limited to grants, loans, guarantees, suretyships, bonds, letters of credit, supplier credits, buyer credits, import or export advances and all types of insurance and reinsurance, including export credit insurance; payment as well as terms and conditions of payment of the agreed price for a good or a service, made in line with normal business practice, do not constitute financing or financial assistance;
+
+(g) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(h) ‘funds’ means financial assets and benefit of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale;
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(i) ‘freezing of funds’ means preventing any movement, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(j) ‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, advice, training, the transmission of working knowledge or skills or consulting services, including verbal forms of assistance;
+
+(k) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace.
+
+## Article 2
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, goods and technology which might contribute to Iran’s capability to manufacture Unmanned Aerial Vehicles (UAVs) or missiles as listed in Annex II, whether or not originating in the Union, to any natural or legal person, entity or body in Iran or for use in Iran.
+
+The transit via the territory of Iran of the goods and technology, as referred to in the first subparagraph, exported from the Union, shall be prohibited.
+
+2\. It shall be prohibited:
+
+(a) to provide technical assistance, brokering services or other services related to goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Iran, or for use in Iran;
+
+(b) to provide financing or financial assistance related to the goods and technology referred to in paragraph 1 for any sale, supply, transfer or export of those goods and technology, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Iran, or for use in Iran;
+
+(c) to sell, license or transfer in any other way intellectual property rights or trade secrets as well as grant rights to access or re-use any material or information protected by means of intellectual property rights or which constitute trade secrets related to the goods and technology referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods and technology, directly or indirectly to any natural or legal person, entity or body in Iran or for use in Iran.
+
+3\. By way of derogation from paragraphs 1 and 2 of this Article, and without prejudice to the authorisation requirements set out in Regulation (EU) 2021/821, where applicable, competent authorities may authorise the sale, supply, transfer, transit or export of the goods and technology referred to in paragraph 1 or the provision of related technical or financial assistance, for non-military use and for a non-military end-user, after having determined that such goods or technology or the related technical or financial assistance are necessary for:
+
+(a) medical or pharmaceutical purposes; or
+
+(b) humanitarian purposes, health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or on the environment, or as a response to natural disasters; or
+
+(c) official purposes of diplomatic representations of the Union and Member States, including delegations, embassies and missions, in Iran.
+
+4\. Competent authorities may annul, suspend, modify or revoke an authorisation which they have granted pursuant to paragraph 3 if they deem that such annulment, suspension, modification or revocation is necessary for the effective implementation of this Regulation.
+
+5\. Authorisations required pursuant to Regulation (EU) 2021/821 for the export of goods and technology referred to in paragraph 1 shall be granted separately by the relevant competent authorities in accordance with the rules and procedures laid down in Regulation (EU) 2021/821. Such authorisations shall be valid throughout the Union.
+
+6\. Communications of authorisations granted under Regulation (EU) 2021/821 shall follow the applicable procedure through the relevant channels referred to in Article 23 (6) of that Regulation (the ‘DUES system’).
+
+7\. The prohibitions in paragraphs 1 and 2 of this Article shall not apply until 27 October 2023 to obligations arising from a contract concluded before 26 July 2023, or ancillary contracts necessary for the execution of such a contract.
+
+## Article 2a
+
+1\. It shall be prohibited to engage in any transaction, directly or indirectly, with ports and locks listed in Annex IV.
+
+2\. Annex IV shall include ports and locks that are:
+
+(a) owned, operated or controlled by any natural or legal person, entity or body listed in Annex III;
+
+(b) owned, operated, or controlled by a legal person, entity or body whose proprietary rights are directly or indirectly owned for 50 % or more by an entity listed in Annex III;
+
+(c) owned, operated or controlled by a natural or legal person, entity or body acting on behalf or at the direction of an entity referred to in point (a) or (b) of this paragraph; or
+
+(d) used for the transfer of Iranian UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine.
+
+3\. Paragraph 1 shall not apply in the case of a vessel in need of assistance seeking a place of refuge, of an emergency port call for reasons of maritime safety, or for saving life at sea, or for humanitarian purposes, or for the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment, or as a response to natural disasters.
+
+## Article 3
+
+1\. All funds and economic resources belonging to, or owned, held or controlled by natural or legal persons, entities or bodies:
+
+(a) responsible for, supporting or involved in Iran’s UAV or missile programme;
+
+(b) supplying, selling or otherwise involved in transferring Iran’s UAVs or missiles or related technologies or components thereof:
+
+(i) to Russia in support of its war of aggression against Ukraine;
+
+(ii) to armed groups and entities undermining peace and security in the Middle East and the Red Sea region;
+
+(iii) to natural or legal persons, entities or bodies acting in breach of United Nations Security Council Resolution 2216 (2015);
+
+(ba) responsible for, supporting, implementing or benefiting from Iran’s actions or policies undermining the freedom of navigation in the Middle East; or,
+
+(c) associated with natural or legal persons, entities or bodies referred to in point (a), (b) or (ba).
+
+as listed in Annex III, shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in Annex III.
+
+## Article 3a
+
+By way of derogation from Article 3, competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of the natural persons listed in Annex III and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+
+(d) necessary for extraordinary expenses, provided that the competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
+
+(e) to be paid into or from an account belonging to a diplomatic mission, or consular post or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic mission, or consular post or international organisation.
+
+## Article 3b
+
+By way of derogation from Article 3, competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, provided that the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 3(1) was listed in Annex III, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex III; and
+
+(d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+## Article 3c
+
+By way of derogation from Article 3 and provided that a payment by a natural or legal person, entity or body listed in Annex III is due under a contract or agreement that was concluded by, or under an obligation that arose for the natural or legal person, entity or body concerned, before the date on which that natural or legal person, entity or body was included in Annex III, competent authorities may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources shall be used for a payment by a natural or legal person, entity or body listed in Annex III; and
+
+(b) the payment is not in breach of Article 3(2).
+
+## Article 3ca
+
+1\. By way of derogation from Article 3 of this Regulation, the competent authorities may authorise the making available of certain funds or economic resources to entities listed under entry numbers 10, 11 and 12 in Annex III to this Regulation, under such conditions as the competent authorities deem appropriate and after having determined that such funds or economic resources are necessary for ground handling services as defined in Article 3, point (23), of Regulation (EU) 2018/1139 of the European Parliament and of the Council ( 1 ).
+
+2\. By way of derogation from Article 3, the competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources are necessary to deal with critical and clearly identified air safety matters and after prior consultation of the European Union Aviation Safety Agency.
+
+3\. The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under this Article within 2 weeks of such authorisation.
+
+## Article 3d
+
+1\. Article 3(2) shall not prevent the crediting of frozen accounts by financial or credit institutions that received funds transferred by third parties to the account of a listed natural or legal person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the relevant competent authority of such transactions without delay.
+
+2\. Paragraph 1 of Article 3 shall not apply to the addition to frozen accounts of interest or other earnings on those accounts, payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to the measures provided for in Article 3, or payments due under judicial, administrative or arbitral decisions rendered in the Union or enforceable in the Member State concerned, provided that any such interest, other earnings and payments remain subject to the measures provided for in that paragraph.
+
+## Article 3e
+
+1\. Article 3(2) shall not apply to funds or economic resources made available by organisations and agencies which are pillar-assessed by the Union and with which the Union has signed a financial framework partnership agreement on the basis of which the organisations and agencies act as humanitarian partners of the Union, provided that the provision of such funds or economic resources is necessary for exclusively humanitarian purposes in Iran.
+
+2\. In cases not covered by paragraph 1 of this Article, and by way of derogation from Article 3, the competent authorities may grant specific or general authorisations, under such general or specific conditions as they deem appropriate, to release certain frozen funds or economic resources or to make available certain funds or economic resources, provided that the provision of such funds or economic resources is necessary for exclusively humanitarian purposes in Iran.
+
+3\. In the absence of a negative decision, a request for information or a notification for additional time from the competent authority within five working days of the date of receipt of a request for authorisation under paragraph 2, the authorisation shall be considered granted.
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 2 and 3 within two weeks of the granting of that authorisation.
+
+## Article 3f
+
+1\. Article 3 shall not apply to funds or economic resources that are needed for:
+
+(a) humanitarian purposes, the evacuation or repatriation of persons, or initiatives providing support to victims of natural, nuclear or chemical disasters;
+
+(b) the operation of flights required for attending meetings with the objective of seeking a solution to the Iranian military support to Russia’s war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region, or of promoting the policy objectives of the restrictive measures;
+
+(c) an emergency landing, take-off or overflight, or
+
+(d) travel for official purposes of members of the diplomatic or consular missions of Member States in Iran or of international organisations enjoying immunities in accordance with international law.
+
+2\. Natural and legal persons, entities and bodies shall inform the competent authority of the Member State where they are resident, located, established or incorporated of the making available of funds or economic resources pursuant to paragraph 1 within 2 weeks of their being made available. The Member State concerned shall inform the other Member States and the Commission of any information received under this paragraph within 2 weeks of its receipt.
+
+## Article 5
+
+1\. Natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as information on accounts and the amounts frozen in accordance with Article 3(1), to the competent authority of the Member State where they are established or located, and transmit such information, directly or through the Member State, to the Commission; and
+
+(b) cooperate with the competent authority in any verification of the information referred to in point (a).
+
+2\. The obligation in paragraph (1) shall apply subject to national rules regarding the confidentiality of information held by judicial authorities, and consistent with respect for the confidentiality of communications between lawyers and their clients guaranteed by Article 7 of the Charter of the Fundamental Rights of the European Union.
+
+3\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+4\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 6
+
+1\. The Commission and Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information in respect of:
+
+(a) funds frozen under Article 3 and authorisations granted under Articles 2, 3a, 3b and 3c; and
+
+(b) infringements of the provisions of this Regulation, enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 7
+
+1\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 3, it shall amend Annex III accordingly.
+
+2\. The Council shall communicate a decision pursuant to paragraph 1, including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body with an opportunity to submit observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision concerned and inform the natural or legal person, entity or body concerned accordingly.
+
+4\. The list in Annex III shall be reviewed at regular intervals and at least every 12 months.
+
+5\. The Commission shall be empowered to amend Annex I on the basis of information supplied by Member States.
+
+## Article 8
+
+1\. Annex III shall include the grounds for the listing of the natural and legal persons, entities and bodies therein.
+
+2\. Annex III shall contain, where available, the information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include names and aliases, date and place of birth, nationality, passport and identity card numbers, gender, address, if known; and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number, and place of business.
+
+## Article 9
+
+1\. Member States shall lay down rules on the penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+2\. Member States shall notify the Commission of the laying down of the rules referred to in paragraph 1 without delay after the entry into force of this Regulation and shall subsequently notify it of any amendments thereto.
+
+## Article 10
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 11
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, in particular a claim for extension or payment of a bond, guarantee or indemnity, or a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in Annex III;
+
+(b) any other Iranian person, entity or body;
+
+(c) any natural or legal person, entity or body acting through or on behalf of one of the natural or legal persons, entities or bodies referred to in points (a) and (b).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that the satisfying of the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to seek judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 12
+
+1\. It shall be prohibited to participate, knowingly or intentionally, in activities the object or effect of which is to circumvent the prohibitions set out in this Regulation.
+
+2\. Natural or legal persons, entities or bodies listed in Annex III, shall:
+
+(a) report within six weeks from the date of listing in Annex III funds or economic resources within the jurisdiction of a Member State belonging to, owned, held or controlled by them, to the competent authorities of the Member State in which those funds or economic resources are located; and
+
+(b) cooperate with the competent authorities concerned in the verification of such information.
+
+3\. Failure to comply with paragraph 2 shall be considered as participation, as referred to in paragraph 1, in activities the object or effect of which is to circumvent the measures referred to in Article 3.
+
+4\. The Member State concerned shall inform the Commission within two weeks of the reporting of information pursuant to paragraph 2(a).
+
+5\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+6\. Any processing of personal data pursuant to this Article shall be carried out in accordance with this Regulation and Regulations (EU) 2016/679 and (EU) 2018/1725 and only insofar as is necessary for the application of this Regulation.
+
+## Article 13
+
+1\. The Council, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) shall process personal data in order to carry out their tasks under this Regulation. These tasks shall include:
+
+(a) as regards the Council, preparing and making amendments to Annex III;
+
+(b) as regards the High Representative, preparing amendments to Annex III;
+
+(c) as regards the Commission:
+
+(i) adding the contents of Annex III to the electronic, consolidated list of persons, groups and entities subject to Union financial sanctions and to the interactive sanctions map, both of which are publicly available;
+
+(ii) processing information on the impact of the measures provided for in this Regulation, such as the value of frozen funds and information on authorisations granted by the competent authorities.
+
+2\. The Council, the Commission and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons only to the extent that such processing is necessary for the preparation of Annex III.
+
+3\. For the purposes of this Regulation, the Council, the Commission and the High Representative are designated as ‘controller’ within the meaning of point (8) of Article 3 of Regulation (EU) 2018/1725 in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+## Article 14
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex I. Member States shall notify the Commission of any changes in the addresses of their websites as listed in Annex I.
+
+2\. Member States shall notify the Commission of the designation of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall subsequently notify it of any change of designation.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex I.
+
+## Article 15
+
+Any information provided to or received by the Commission in accordance with this Regulation shall be used by the Commission only for the purposes for which it was provided or received.
+
+## Article 16
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or vessel under the jurisdiction of a Member State;
+
+(c) to any natural person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 17
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Websites for information on competent authorities and the address for notifications to the Commission
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+## ANNEX II — LIST OF ITEMS REFERRED TO IN ARTICLE 2
+
+**INTRODUCTORY NOTES**
+
+1\. Where “ex” precedes the HS/CN code, the goods covered by Regulation (EU) 2023/1529 constitute only a part of the scope of the HS/CN code and are determined by both the description given in this Annex and the scope of the HS/CN code.
+
+2\. Definitions of terms between ‘single quotation marks’ are given in a technical note to the relevant item.
+
+3\. Definitions of terms between “double quotation marks” can be found in Annex I to Regulation (EU) 2021/821.
+
+**Category 1 – Special materials and related equipment**
+
+<table>
+<tbody><tr><td>Description</td><td>HS/CN code</td></tr>
+<tr><td colspan="2">Energetic materials as follows and mixtures thereof:</td></tr>
+<tr><td>Ammonium picrate (CAS 131-74-8);</td><td>ex 2908 99 00 </td></tr>
+<tr><td>Black powder;</td><td>ex 3601 00 00 </td></tr>
+<tr><td>Hexanitrodiphenylamine (CAS 131-73-7);</td><td>ex 2921 44 00 </td></tr>
+<tr><td>Difluoroamine (CAS 10405-27-3);</td><td>ex 2812 90 00 </td></tr>
+<tr><td>Nitrostarch (CAS 9056-38-6);</td><td>ex 3505 10 50 </td></tr>
+<tr><td>Tetranitronaphthalene;</td><td>ex 2902 90 00 </td></tr>
+<tr><td>Trinitroanisol;</td><td>ex 2909 30 90 </td></tr>
+<tr><td>Trinitronaphthalene;</td><td>ex 2902 90 00 </td></tr>
+<tr><td>Trinitroxylene;</td><td>ex 2902 41 00  ex 2902 42 00  ex 2902 43 00  ex 2902 44 00 </td></tr>
+<tr><td>N-methyl-2-pyrrolidinone; 1-methyl-2-pyrrolidinone (CAS 872-50-4);</td><td>ex 2939 79 90 </td></tr>
+<tr><td>Dioctylmaleate (CAS 142-16-5);</td><td>ex 2917 19 80 </td></tr>
+<tr><td>Ethylhexylacrylate (CAS 103-11-7);</td><td>ex 2916 12 00 </td></tr>
+<tr><td>Triethylaluminium (TEA) (CAS 97-93-8), trimethylaluminium (TMA) (CAS 75-24-1), and other pyrophoric metal alkyls and aryls of lithium, sodium, magnesium, zinc or boron;</td><td>ex 2931 90 00 </td></tr>
+<tr><td>Nitrocellulose (CAS 9004-70-0);</td><td>3912 20 </td></tr>
+<tr><td>Nitroglycerin (or glyceroltrinitrate, trinitroglycerine) (NG) (CAS 55-63-0);</td><td>ex 2920 90 70 </td></tr>
+<tr><td>2,4,6-trinitrotoluene (TNT) (CAS 118-96-7);</td><td>ex 2904 20 00 </td></tr>
+<tr><td>Ethylenediaminedinitrate (EDDN) (CAS 20829-66-7);</td><td>ex 2920 90 70 </td></tr>
+<tr><td>Pentaerythritoltetranitrate (PETN) (CAS 78-11-5);</td><td>ex 2920 90 70 </td></tr>
+<tr><td>Lead azide (CAS 13424-46-9), normal lead styphnate (CAS 15245-44-0) and basic lead styphnate (CAS 12403-82-6), and primary explosives or priming compositions containing azides or azide complexes;</td><td>ex 2850 00 60  ex 2908 99 00 </td></tr>
+<tr><td>Diethyldiphenylurea (CAS 85-98-3); dimethyldiphenylurea (CAS 611-92-7); methylethyldiphenyl urea</td><td>ex 2924 21 00 </td></tr>
+<tr><td>N,N-diphenylurea (unsymmetrical diphenylurea) (CAS 603-54-3);</td><td>ex 2924 21 00 </td></tr>
+<tr><td>Methyl-N,N-diphenylurea (methyl unsymmetrical diphenylurea) (CAS 13114-72-2);</td><td>ex 2924 21 00 </td></tr>
+<tr><td>Ethyl-N,N-diphenylurea (ethyl unsymmetrical diphenylurea) (CAS 64544-71-4);</td><td>ex 2924 21 00 </td></tr>
+<tr><td>4-Nitrodiphenylamine (4-NDPA)(CAS 836-30-6);</td><td>ex 2921 44 00 </td></tr>
+<tr><td>2,2-dinitropropanol (CAS 918-52-5);</td><td>ex 2905 59 98 </td></tr>
+<tr><td>Fibrous and filamentary materials, not controlled by 1C010 () or 1C210 (), for use in “composite” structures and with a specific modulus of 3,18 x 106 m or greater and a specific tensile strength of 7,62 x 104 m or greater</td><td>ex 5402 11  ex 5501 11  ex 5503 11  ex 6815 11  ex 6815 12  ex 6815 19  ex 7019 19 10 </td></tr>
+<tr><td>Nanomaterials as follows: a. Semiconductor nanomaterials;  b. Composite-based nanomaterials; or  c. Any of the following carbon-based nanomaterials:  1. Carbon nanotubes;  2. Carbon nanofibres;  3. Fullerenes;  4. Graphenes; or  5. Carbon onions.  Notes:For the purpose of this control, nanomaterial means a material that meets at least one of the following criteria:  1.Consists of particles, with one or more external dimensions in the size range 1 - 100 nm for more than 1 % of their number size distribution;  2.Has internal or surface structures in one or more dimensions in the size range 1 - 100 nm; or  3.Has a specific surface area by volume greater than 60 m2/cm3, excluding materials consisting of particles with a size lower than 1 nm </td><td>ex 2805 30  ex 2846 10  ex 2846 90  ex 5402 11  ex 5501 11  ex 5503 11  ex 6815 11  ex 6815 12  ex 6815 13  ex 6815 19  ex 7019 12  ex 7019 19 </td></tr>
+<tr><td>Tungsten, tungsten carbide and alloys, not controlled by 1C117 (), 1C226 (), II.A1.013 () or II.A1.017 (), containing more than 90 % tungsten by weight. Note 1:For the purpose of this control, wire is excluded  Note 2:For the purpose of this control, surgical or medical instruments are excluded </td><td>2849 90 30  ex 8101 10  ex 8101 94  ex 8101 97  ex 8101 99 </td></tr>
+<tr><td>Ultra-High-Molecular-Weight Polyethylene (UHMWPE), not controlled by 1C010 () or 1C210 (), presented in any of the following forms: a. Primary forms;  b. Filament yarn or monofilaments;  c. Filament tows;  d. Rovings;  e. Staple or chopped fibres;  f. Fabrics;  g. Pulp or flocks. </td><td>ex 3901 20 10  ex 3901 20 90  ex 5402 39  ex 5402 49  ex 5402 59  ex 5402 69  ex 5404 90 90  ex 5407 20 11  ex 5407 20 19  ex 5501 90  ex 5503 90  ex 5506 90  ex 5601 30 </td></tr>
+<tr><td colspan="2">(1)  Ref. Annex I to Regulation (EU) 2021/821  (2)  Ref. Annex I to Regulation (EU) 2021/821  (3)  Ref. Annex I to Regulation (EU) 2021/821  (4)  Ref. Annex I to Regulation (EU) 2021/821  (5)  Ref. Annex II to Regulation (EU) No 267/2012  (6)  Ref. Annex II to Regulation (EU) No 267/2012  (7)  Ref. Annex I to Regulation (EU) 2021/821  (8)  Ref. Annex I to Regulation (EU) 2021/821 </td></tr>
+</tbody>
+</table>
+
+**Category 2 – Materials processing**
+
+| Description | HS/CN code |
+| --- | --- |
+| Bearings and bearing systems not controlled by 2A001 and 2A101: a. Ball bearings or Solid ball bearings, having tolerances specified by the manufacturer in accordance with ABEC 7, ABEC 7P, or ABEC 7T or ISO Standard Class 4 or better (or equivalents) and having any of the following characteristics; 1. Manufactured for use at operating temperatures above 573 K (300 °C) either by using special materials or by special heat treatment; or 2. With lubricating elements or component modifications that, according to the manufacturer’s specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million ‘DN’; b. Solid tapered roller bearings, having tolerances specified by the manufacturer in accordance with ANSI/ABMA Class 00 (inch) or Class A (metric) or better (or equivalents) and having either of the following characteristics: 1. With lubricating elements or component modifications that, according to the manufacturer’s specifications, are specially designed to enable the bearings to operate at speeds exceeding 2,3 million ‘DN’; or 2. Manufactured for use at operating temperatures below 219 K (– 54 °C) or above 423 K (150 °C); c. Gas-lubricated foil bearing manufactured for use at operating temperatures of 561 K (288 °C) or higher and a unit load capacity exceeding 1 MPa; d. Active magnetic bearing systems; e. Fabric-lined self-aligning or fabric-lined journal sliding bearings manufactured for use at operating temperatures below 219 K (– 54 °C) or above 423 K (150 °C). | ex 8482 10 ex 8482 20 ex 8482 30 ex 8482 40 ex 8482 50 ex 8482 80 ex 8482 91 |
+| Technical Notes: 1. ‘DN’ is the product of the bearing bore diameter in mm and the bearing rotational velocity in rpm. 2. Operating temperatures include those temperatures obtained when a gas turbine engine has stopped after operation. |  |
+| Concealed object detection equipment operating in the frequency range from 30 GHz to 3 000 GHz and having a spatial resolution of 0,1 mrad (milliradian) up to and including 1 mrad (milliradian) at a standoff distance of 100 m; and components, other than those specified in the CML or in Regulation (EU) 2021/821. Note: Concealed object detection equipment includes but is not limited to equipment for screening people, documents, baggage, other personal effects, cargo and/or mail. Technical Note: The range of frequencies span what is generally considered as the millimetre-wave, submillimetre-wave and terahertz frequency regions. | ex 8526 10 ex 8526 92 ex 8482 10 90 |
+| “Numerical control” units for machine tools and “numerically controlled” machine tools, other than those specified in the CML or in Regulation (EU) 2021/821 (see List of Items Controlled): a. “Numerical control” units for machine tools: 1. Having four interpolating axes that can be coordinated simultaneously for contouring control; or 2. Having two or more axes that can be coordinated simultaneously for contouring control and a minimum programmable increment better (less) than 0,001 mm; 3. “Numerical control” units for machine tools having two, three or four interpolating axes that can be coordinated simultaneously for contouring control, and capable of receiving directly (on-line) and processing computer-aided-design (CAD) data for internal preparation of machine instructions; or b. Motion control boards specially designed for machine tools and having any of the following characteristics: 1. Interpolation in more than four axes; 2. Capable of real-time processing of data to modify tool path, feed rate and spindle data, during the machining operation, by any of the following: a. Automatic calculation and modification of part program data for machining in two or more axes by means of measuring cycles and access to source data; or b. Adaptive control with more than one physical variable measured and processed by means of a computing model (strategy) to change one or more machining instructions to optimize the process; or 3. Capable of receiving and processing CAD data for internal preparation of machine instructions; c. “Numerically controlled” machine tools that, according to the manufacturer’s technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes and that have both of the following characteristics: 1. Two or more axes that can be coordinated simultaneously for contouring control; and 2. Positioning accuracies according to ISO 230/2 (2006), with all compensations available: a. Better than 15 μm along any linear axis (overall positioning) for grinding machines; b. Better than 15 μm along any linear axis (overall positioning) for milling machines; or c. Better than 15 μm along any linear axis (overall positioning) for turning machines; or d. Machine tools, as follows, for removing or cutting metals, ceramics or “composites”, that, according to the manufacturer’s technical specifications, can be equipped with electronic devices for simultaneous contouring control in two or more axes: 1. Machine tools for turning, grinding, milling or any combination thereof, having two or more axes that can be coordinated simultaneously for contouring control and having any of the following characteristics: a. One or more contouring “tilting spindles”; Note: this applies to machine tools for grinding or milling only. b. “Camming” (axial displacement) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); Note: this applies to machine tools for turning only. c. “Run-out” (out-of-true running) in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); or d. The positioning accuracies, with all compensations available, are less (better) than: 0,001° on any rotary axis; 2. Electrical discharge machines (EDM) of the wire feed type that have five or more axes that can be coordinated simultaneously for contouring control. | ex 8537 10 10 ex 8537 10 98 ex 8456 30 ex 8457 10 ex 8457 20 ex 8457 30 ex 8458 11 ex 8458 91 ex 8459 10 ex 8459 31 ex 8459 51 ex 8459 61 ex 8460 12 ex 8460 22 ex 8460 23 ex 8460 24 |
+| Assemblies, circuit boards or inserts specially designed for machine tools controlled in this annex: a. Spindle assemblies, consisting of spindles and bearings as a minimal assembly, with radial (“run-out”) or axial (“camming”) axis motion in one revolution of the spindle less (better) than 0,0006 mm total indicator reading (TIR); b. Single point diamond cutting tool inserts, having all of the following characteristics: 1. Flawless and chip-free cutting edge when magnified 400 times in any direction; 2. Cutting radius from 0,1 to 5 mm inclusive; and 3. Cutting radius out-of-roundness less (better) than 0,002 mm TIR. c. Specially designed printed circuit boards with mounted components capable of upgrading, according to the manufacturer’s specifications, “numerical control” units, machine tools or feed-back devices to or above the levels specified in this Annex. Technical Note: This entry does not control measuring interferometer systems, without closed or open loop feedback, containing a laser to measure slide movement errors of machine-tools, dimensional inspection machines or similar equipment. | ex 8207 19 ex 8207 20 ex 8207 50 ex 8207 60 ex 8207 90 ex 8466 10 ex 8466 20 20 ex 8466 20 91 ex 8466 20 98 ex 8466 30 ex 8466 93 ex 8466 93 |
+| “Software” specially designed for the “development”, “production”, or “use” of the machine tools controlled in this Annex |  |
+| “Numerical controlled” machine tools, having one or more linear axis with a travel length greater than 8 000 mm. | ex 8456 ex 8457 ex 8458 ex 8459 ex 8460 |
+
+**Category 3 – Electronics**
+
+| Description | HS/CN code |
+| --- | --- |
+| Integrated circuits as follows: Field Programable Gate Array (FPGA), microcontrollers, microprocessors, signal processors, signal analysers, Analogue-to-Digital Converters (ADC), voltage regulators, video encoders and DC-DC converters | ex 8542 31 ex 8542 39 |
+| “Monolithic Microwave Integrated Circuits” (“MMIC”) amplifiers and devices | ex 8542 33 8543 70 02 |
+| RF filters or Electromagnetic Interference (EMI) filters | ex 8548 00 |
+| Tantalum capacitors | 8532 21 |
+| Aluminium electrolytic capacitors | 8532 22 |
+| Ceramic dielectric multilayer capacitors | 8532 24 |
+| Storage integrated circuits, as follows: a. Electrically erasable programmable read-only memories (EEPROMs) with a storage capacity; 1. Exceeding 16 Mbits per package for flash memory types; or 2. Exceeding either of the following limits for all other EEPROM types: a. Exceeding 1 Mbit per package; or b. Exceeding 256 kbit per package and a maximum access time of less than 80 ns; b. Static random access memories (SRAMs) with a storage capacity: 1. Exceeding 1 Mbit per package; or 2. Exceeding 256 kbit per package and a maximum access time of less than 25 ns | ex 8542 32 |
+| Mounted piezo-electric crystals | 8541 60 |
+| ‘Semiconductor devices’ fulfilling the military standard MIL-STD-750D or other equivalent standard. Technical note: For the purpose of this control ‘semiconductor devices’ are electronic components that rely on the electronic properties of a semiconductor material, such as diodes, transducers, photosensitive devices, thyristors, diacs, triacs or transistors, including metal–oxide–semiconductor field-effect transistors (MOSFETs), FETs, FINFETs, IGBT, etc. | ex 8541 10 ex 8541 21 ex 8541 29 ex 8541 30 ex 8541 49 ex 8541 51 ex 8541 59 |
+| Electrical plugs, connectors, jacks, jumpers, terminals, sockets or adapters, having any of the following: a. Rated for operation at an ambient temperature above 398K (125 °C); b. Rated for operation at an ambient temperature below 218K (– 55 °C); or c. Rated for operation over the entire ambient temperature range from 218K (– 55 °C) to 398K (125 °C). | ex 8536 69 ex 8536 90 |
+| Static converters | 8504 40 |
+| Machines and apparatus for the manufacture of boules or wafers | 8486 10 |
+| Machines and apparatus for the manufacture of semiconductor devices or of electronic integrated circuits | 8486 20 |
+| Equipment for the manufacture of Printed Circuit Boards (PCBs) and specially designed components and accessories therefor, as follows: a. Film processing equipment; b. Solder mask coating equipment; c. Photo plotter equipment; d. Plating or electroplating deposition equipment; e. Vacuum chambers and presses; f. Roll laminators; g. Alignment equipment; or h. Etching equipment. | ex 8424 89 40 ex 8479 89 70 ex 8543 30 40 ex 8486 40 ex 8420 10 81 ex 8479 90 15 |
+| Automated optical inspection equipment for testing Printed Circuit Boards (PCBs), based on optical or electrical sensors, and capable to detect any of the following quality defects: a. Spacing, area, volume or height; b. Bill boarding; c. Components (presence, absence, flipped, offset, polarity, or skew); d. Solder (bridging, insufficient solder joints); e. Leads (insufficient paste, lifting); f. Tombstoning; or g. Electrical (shorts, opens, resistance, capacitance, power, grid performance). | ex 9030 31 ex 9030 32 ex 9030 33 20 ex 9030 33 70 ex 9030 39 00 ex 9030 84 ex 9030 89 ex 9031 49 10 ex 9031 49 90 ex 9031 80 20 ex 9031 80 80 |
+| Oscilloscopes and oscillographs | 9030 20 |
+| Instruments and apparatus for measuring or checking semiconductor wafers or devices | 9030 82 |
+| Signal generators | 8543 20 |
+| Chemicals and materials of the type used in the production of Printed Circuit Boards (PCBs), as follows: a. PCB “composite” substrates made of glass fibre or cotton (e.g. FR-4, FR-2, FR 6, CEM-1, G-10, etc.); b. Multilayer PCB substrates, containing at least one layer of any of the following materials: 1. Aluminium; 2. Polytetrafluoroethylene (PTFE); or 3. Ceramic materials (e.g. alumina, titanium oxide, etc.); c. Etchant chemicals; 1. Ferric chloride (7705-08-0); 2. Cupric chloride (7447-39-4); 3. Ammonium persulphate (7727-54-0); 4. Sodium persulphate (7775-27-1); or 5. Chemical preparations specially designed for etching and containing any of the chemicals included in points 1 to 4. Note: This control does not control ‘chemical mixtures’ containing one or more of the chemicals specified in this entry in which no individually specified chemical constitutes more than 10 % by the weight of the mixture. d. Copper foil with a minimum purity 95 % and of a thickness less than 100 μm; e. Polymeric substances and films thereof of less than 0,5 mm of thickness, as follows: 1. Aromatic polyimides; 2. Parylenes; 3. Benzocyclobutenes (BCBs); or 4. Polybenzoxazoles. | ex 3921 90 55 ex 8534 00 ex 2827 39 20 ex 2827 39 85 ex 2833 40 ex 3824 99 96 ex 7410 11 ex 7410 21 ex 3919 10 80 ex 3919 90 80 |
+| “Software” specially designed for the test, “development” or “production” of Printed Circuit Boards (PCBs). | N/A |
+| Radio frequency systems and equipment not included in Regulation (EU) 2021/821, components and accessories, specially designed or modified to develop any of the following functions: a. Take control and command of UAVs. b. Deliberately and selectively interfere with, deny, inhibit, degrade or deceive radio frequency signals for the control and command of unmanned aircraft. c. Use the specific features of the radio frequency protocol used by drones to interfere with their operation. | ex 8517 62 ex 8517 71 ex 8517 79 ex 8525 50 ex 8526 92 ex 8529 10 ex 8543 70 90 |
+
+**Category 4 – Computers**
+
+| Description | HS/CN code |
+| --- | --- |
+| Electronic computers and related equipment, and “electronic assemblies” and specially designed components therefor, rated for operation at an ambient temperature above 343 K (70 °C) | ex 8471 |
+| “Digital computers”, including equipment of “signal processing” or “image enhancement”, having an “Adjusted Peak Performance” (“APP”) equal to or greater than 0,0128 Weighted TeraFLOPS (WT) | ex 8471 |
+| Hybrid computers and “electronic assemblies” and specially designed components therefor containing analogue-to-digital converters having all of the following characteristics: a. 32 channels or more; and b. A resolution of 14 bit (plus sign bit) or more with a conversion rate of 200 000 Hz or more | ex 8471 |
+
+**Category 5 – Telecommunications and information security**
+
+| Description | HS/CN code |
+| --- | --- |
+| Telecommunications apparatus, devices or machines, for “aircraft” | ex 8517 62 ex 8517 69 |
+
+**Category 6 – Sensors and lasers**
+
+<table>
+<tbody><tr><td>Description</td><td>HS/CN code</td></tr>
+<tr><td>Cameras for aerial survey</td><td>ex 9006 30 </td></tr>
+<tr><td>Optical Sensors as follows: a. Image intensifier tubes and specially designed components therefor, as follows:  1. Image intensifier tubes having all the following:  a. A peak response in wavelength range exceeding 400 nm, but not exceeding 1 050 nm;  b. A microchannel plate for electron image amplification with a hole pitch (centre-to-centre spacing) of less than 25 μm; and  c. Having any of the following:  1. An S-20, S-25 or multialkali photocathode; or  2. A GaAs or GaInAs photocathode;  2. Specially designed microchannel plates having both of the following characteristics:  a. 15 000 or more hollow tubes per plate; and  b. Hole pitch (centre-to-centre spacing) of less than 25 μm  b. Direct view imaging equipment operating in the visible or infrared spectrum, incorporating image intensifier tubes having the characteristics of the image intensifier tube included in this control. </td><td>ex 8529 90  ex 8542 39  ex 9006 91  ex 9013 80  ex 9025 80  ex 9025 90  ex 9026 80  ex 9026 90  ex 9027 50  ex 9032 10 </td></tr>
+<tr><td>Telescopic sights for fitting to arms; periscopes; telescopes designed to form parts of machines, appliances, instruments or apparatus of this chapter or Section XVI</td><td>9013 10 </td></tr>
+<tr><td>Night vision cameras</td><td>8525 83 </td></tr>
+<tr><td>Cameras that meet the criteria of Note 3 to 6A003.b.4 ()</td><td>ex 8525 89  ex 9006 30 </td></tr>
+<tr><td>Airborne laser rangefinders</td><td>ex 9013 20 00  ex 9013 80 00  ex 9013 90 80  ex 9015 10  ex 9015 80  ex 9015 90  ex 9031 80 20  ex 9031 80 80  ex 9031 90 00  ex 9033 00 90 </td></tr>
+<tr><td>‘Primary cells’ or batteries and components having an energy density of 150 Wh/kg or more at 293 K (20 °C) Technical Notes:  1.For the purposes of this control, ‘energy density’ (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in ohms and the mass in kilograms.  2.For the purposes of this control, a ‘cell’ is defined as an electrochemical device, which has positive and negative electrodes, an electrolyte, and is a source of electrical energy. It is the basic building block of a battery.  3.For the purposes of this control, a ‘primary cell’ is a ‘cell’ that is not designed to be charged by any other source. </td><td>ex 8506 </td></tr>
+<tr><td>Radar systems, equipment and major components, other than those specified in the CML or in Regulation (EU) 2021/821, and specially designed components therefor, as follows: a. Airborne radar equipment, other than those specified in the CML or in Regulation (EU) 2021/821, and specially designed components therefor;  b. “Space-qualified” “laser” radar or Light Detection and Ranging (LIDAR) equipment specially designed for surveying or for meteorological observation;  c. Millimeter wave enhanced vision radar imaging systems specially designed for rotary wing aircraft and having all of the following:  1. Operates at a frequency of 94 GHz;  2. An average output power of less than 20 mW;  3. Radar beam width of 1 degree; and  4. Operating range equal to or greater than 1 500 m </td><td>ex 8526 10  ex 8529 90  ex 9015 10  ex 90 </td></tr>
+<tr><td>“Magnetometers”, “Superconductive” electromagnetic sensors, and specially designed components therefor, as follows: a. “Magnetometers”, other than those specified in the CML or in Regulation (EU) 2021/821, having a ‘sensitivity’ lower (better) than 1,0 nT (rms) per square root Hz  Technical Note: For the purposes of this control, ‘sensitivity’ (noise level) is the root mean square of the device-limited noise floor which is the lowest signal that can be measured.  b. “Superconductive” electromagnetic sensors, components manufactured from “superconductive” materials:  1. Designed for operation at temperatures below the “critical temperature” of at least one of their “superconductive” constituents (including Josephson effect devices or “superconductive” quantum interference devices (SQUIDS));  2. Designed for sensing electromagnetic field variations at frequencies of 1 kHz or less; and  3. Having any of the following characteristics:  a. Incorporating thin-film SQUIDS with a minimum feature size of less than 2 μm and with associated input and output coupling circuits;  b. Designed to operate with a magnetic field slew rate exceeding 1 x 106 magnetic flux quanta per second;  c. Designed to function without magnetic shielding in the earth’s ambient magnetic field; or  d. Having a temperature coefficient less (smaller) than 0,1 magnetic flux quantum/K </td><td>ex 9015 80  ex 9031 80 </td></tr>
+<tr><td>Gravity meters (gravimeters) for ground use, other than those specified in the CML or in Regulation (EU) 2021/821, as follows: a. Having a static accuracy of less (better) than 100 μGal; or  b. Being of the quartz element (Worden) type </td><td>ex 9015 80 </td></tr>
+<tr><td>“Software”, other than those specified in the CML or in Regulation (EU) 2021/821, specially designed for the “development”, “production”, or “use” of goods controlled by 6A002 (), 6A003 (), and radars, magnetometers and gravity meters included in Category 6 of this Regulation.</td><td>N/A</td></tr>
+<tr><td colspan="2">(1)  Ref. Annex I to Regulation (EU) 2021/821  (2)  Ref. Annex I to Regulation (EU) 2021/821  (3)  Ref. Annex I to Regulation (EU) 2021/821 </td></tr>
+</tbody>
+</table>
+
+**Category 7 – Navigation and avionics**
+
+| Description | HS/CN code |
+| --- | --- |
+| Inertial Navigation systems, Inertial Measuring Units (IMU), accelerometers or gyros, and parts and accessories thereof | ex 9014 20 ex 9014 80 ex 9014 90 |
+| Aerials and aerial reflectors for “aircraft” or guidance systems, parts suitable for use therewith | ex 8517 71 ex 8529 10 |
+| “Satellite navigation system” equipment, including aerials and antennas suitable for the reception of GNSS signals, and parts thereof | ex 8526 91 ex 8529 90 ex 8526 10 ex 8526 92 ex 8517 71 ex 8529 10 |
+| Digital flight data recorders | 8543 70 04 |
+| Radio navigational aid apparatus for “aircraft” and specially designed components thereof | ex 8526 91 ex 8529 90 |
+| Flight control units for “Unmanned Aerial Vehicles” (“UAVs”), and parts thereof | ex 8537 10 ex 8807 30 |
+| Remote control units for “Unmanned Aerial Vehicles” (“UAVs”), and parts thereof | ex 8517 61 ex 8526 92 ex 8537 10 ex 8543 70 90 ex 8807 30 |
+
+**Category 9 – Aerospace and propulsion**
+
+| Description | HS/CN code |
+| --- | --- |
+| “Unmanned aerial vehicles” (“UAVs”) other than those designed for carrying passengers, and parts thereof | 8806 21 8806 22 8806 23 8806 24 8806 29 8806 91 8806 92 8806 93 8806 94 8806 99 ex 8807 30 |
+| Aero gas turbine engines (turboprop, turbojet and turbofan) for “aircraft”, and specially designed components thereof | ex 8411 11 ex 8411 12 ex 8411 21 ex 8411 22 ex 8411 91 |
+| Spark-ignition reciprocating or rotary internal combustion piston engines for “aircraft” | 8407 10 |
+| Parts suitable for use solely or principally with internal combustion piston engine for “aircraft” | 8409 10 |
+| Compression-ignition internal combustion piston engines for “aircraft” | ex 8408 90 |
+| Servomotor for “Unmanned Aerial Vehicles” (“UAVs”) | ex 8501 ex 8807 30 |
+| Launch systems for “UAVs”, and parts thereof | ex 8805 10 ex 8807 30 |
+| Ground support equipment for “UAVs” | ex 8805 10 |
+| Testing equipment for aerospace and propulsion, and specially designed components therefor, other than those specified in the CML or in Regulation (EU) 2021/821. Note: this control includes the following items, and the related “software”: — Load release test bench and other facilities to simulate safe separation from the “aircraft” or launch system. — Salt spray chambers for temperature and humidity ranges to perform oxidation tests. — Chambers to perform fungus tests. — Devices for acceleration, shock and transport shock tests. — Vibration chambers with altitude, temperature and humidity ranges. — Chambers for explosive decompression tests. — Chambers for temperature, humidity and solar radiation tests. — Devices to estimate the captured solar radiation for solar radiation tests. — Vibrators for sinusoidal, random and shock tests, combinable with altitude, temperature and humidity tests. — Vibration table for longitudinal and lateral tests combined with temperature chambers. — Overpressure chambers. | ex 9031 20 ex 9031 80 |
+| ‘Flight termination’ systems and specifically designed components. Note: this control covers digital and analogic communications standards for Flight Termination Systems, including encrypted operational modes. Technical notes: 1. For the purpose of this control ‘flight termination’ can involve a controlled descent, self-destruction of the missile, or detonation of the warhead to minimize the risk of collateral damage 2. For the purpose of this control, components include ground and on board equipment, command exciters, encoders, amplifier controllers, command verification receivers, amplifiers, transmitters, decoders and receivers. | ex 8526 92 ex 8529 90 |
+
+**Category 10 – Technology**
+
+“Technology”, designed or specifically adapted for the test, development or production of equipment listed in this Annex
+
+“Technology” for the “use” of machine tools controlled in this Annex.
+
+## ANNEX III — List of natural and legal persons, entities and bodies referred to in Article 3
+
+A. Natural persons
+
+<table>
+<tbody><tr><td>  </td><td>Names (Transliteration into Latin script)</td><td>Names</td><td>Identifying information</td><td>Reasons for listing</td><td>Date of listing</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>1.</td><td>Hadi ZAHOURIAN</td><td>هادى ظهوریان (Farsi spelling) </td><td>Position(s): Chief Executive Officer (CEO) of Shakad Sanat Asmari POB: Tehran, Iran  Nationality: Iranian  Gender: Male  Passport number: 0055312047 (National ID)  Associated entities: Shakad Sanat Asmari </td><td>Hadi Zahourian is Chief Executive Officer (CEO) of Shakad Sanat Asmari. Shakad Sanat Asmari is an Iranian company that develops and manufactures components for the Shahed unmanned aerial vehicles (UAVs).  As the CEO of Shakad Sanat Asmari, Hadi Zahourian is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>3.</td><td>Ehsan Rahat VARNOSFADRANI</td><td>احسان راحت وارنوسفدرانی (Farsi spelling) </td><td>Position(s): Chief scientist of Shakad Sanat Asmari DOB: 1983  POB: Bahman, Iran  Nationality: Iranian  Gender: Male  Associated entities: Shakad Sanat Asmari </td><td>Ehsan Rahat Varnosfadrani is the Chief scientist and former Chief Executive Officer (CEO) of Shakad Sanat Asmari. Shakad Sanat Asmari is an Iranian company that develops and manufactures components for the Shahed unmanned aerial vehicles (UAVs).  As the Chief scientist and former CEO of Shakad Sanat Asmari, Ehsan Rahat Varnosfadrani is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>4.</td><td>Rahmatollah HEIDARI a.k.a. Rehmatollah HEIDARI </td><td>رحمت الله حیدرى (Farsi spelling) </td><td>Position(s): Managing Director and member of the board of directors of Iran-based Baharestan Kish Company DOB: 22.9.1985  Nationality: Iranian  Gender: Male  Associated entities: Baharestan Kish Company; Islamic Revolutionary Guard Corps (IRGC) </td><td>Rahmatollah Heidari is the Managing Director and a member of the board of directors of Baharestan Kish Company. Baharestan Kish Company manufactures unmanned aerial vehicle (UAV) components for the Islamic Revolutionary Guard Corps (IRGC).  As the Managing Director and a member of the board of directors of Baharestan Kish Company, Rahmatollah Heidari is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td>5.</td><td>Nader Khoon SIAVASH</td><td>نادر خون سیاوش (Farsi spelling) </td><td>Position(s): Director of Aerospace Industries Organization (AIO) DOB: 30.4.1963  Nationality: Iranian  Gender: Male  Passport number: 0028892753 (National ID)  Associated entities: Aerospace Industries Organization (AIO); Defence Industries Organization (DIO); Islamic Revolutionary Guard Corps (IRGC) </td><td>Nader Khoon Siavash is the Director of Aerospace Industries Organization (AIO). AIO is an organisation which reports to the Iranian Ministry of Defence and Armed Forces Logistics (MODAFL), and is active in Iran’s unmanned aerial vehicle (UAV) programme.  As Director of AIO, Nader Khoon Siavash is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>6.</td><td>Ehsan IMANINEJAD a.k.a. Ehsan IMANIJAD </td><td>احسان ایمانی نژاد (Farsi spelling) </td><td>Position(s): Chief Executive Officer (CEO) of Saad Sazeh Faraz Sharif DOB: 1982  POB: Shahrivar, Iran  Nationality: Iranian  Gender: Male  Associated entities: Saad Sazeh Faraz Sharif </td><td>Ehsan Imaninejad is Chief Executive Officer (CEO) of Saad Sazeh Faraz Sharif. Saad Sazeh Faraz Sharif (a.k.a. Daria Fanavar Borhan Sharif) is an Iranian company that offers aerospace engineering services and manufactures parts of the Shahed unmanned aerial vehicles (UAVs).  As CEO of Saad Sazeh Faraz Sharif, Ehsan Imaninejad is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>7.</td><td>Mohammad-Reza Gharaei ASHTIANI</td><td>[image] (Farsi spelling) </td><td>Position(s): Deputy Chief of Staff of the Iranian Armed Forces DOB: 1960  POB: Tehran, Iran  Nationality: Iranian  Gender: male </td><td>Mohammad-Reza Gharaei Ashtiani has been the Deputy Chief of Staff of the Iranian Armed Forces since August 2024. He was the Minister of Defence of the Islamic Republic of Iran (August 2021-August 2024) and was responsible for the EU-listed Ministry of Defence and Armed Forces Logistics (MODAFL).  MODAFL is responsible for the planning, logistics and funding of Iran’s Armed Forces. It is also a key player in Iran’s defence industry with multiple conglomerates and subordinates active in research and development, maintenance and manufacturing of military equipment, including the manufacturing of unmanned aerial vehicles (UAVs).  MODAFL is also involved in the set-up of a joint plant for the production of UAVs and the sale of UAVs to Russia intended for use in Russia’s war of aggression against Ukraine.  In his function as Deputy Chief of Staff of the Iranian Armed Forces, Mohammad-Reza Gharaei Ashtiani coordinates and oversees the conventional army and the Islamic Revolutionary Guard Corps (IRGC) and is a close associate of the Supreme Leader of Iran. As he oversees the IRGC, this also includes the IRGC Aerospace Force, responsible for Iran’s UAV program. He is thus in a supervising role for both the missile and the UAV program. In his role, he is also supporting Iranian military cooperation with Russia.  As Deputy Chief of Staff of the Iranian Armed Forces, Mohammad-Reza Gharaei Ashtiani is directly involved in Iran’s UAV and missile programmes and is involved in transferring Iran’s UAVs to Russia in support of its war of aggression against Ukraine. </td><td>31.5.2024</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>9.</td><td>Hossein Hatefi ARDAKANI a.k.a.  Hasan HASHEM; Hossein Hatafi ARDAKANI; Hossein Hatfi ARDAKANI </td><td><br>[image]  <br> (Farsi spelling) </td><td>Position(s): chairperson of the board of directors of Kavan Electronics Behrad LLC; procurement agent for the IRGC DOB: 21.9.1985  POB: Ardakan, Iran  Nationality: Iranian  Gender: male  Passport number: U34290111 (Iran);  4449916581 (Iran)  Associated entities: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO); Kavan Electronics Behrad LLC  Associated individuals: Mehdi Dehghani MOHAMMADABADI </td><td>Hossein Hatefi Ardakani serves as chairperson of the board of directors and is a shareholder of Iran-based and EU-listed Kavan Electronics Behrad LLC. Using a complex network of shell and foreign companies, including EU-listed Kavan Electronics Behrad LLC, Ardakani supports the IRGC SSJO’s efforts in obtaining crucial goods for the UAV production.  As chairperson of the board of Kavan Electronics Behrad LLC, he is responsible for leading the company’s board, defining its strategic objectives and overseeing its business, hence he is involved in transferring Iran’s UAVs to Russia.  Hossein Hatefi Ardakani is therefore supporting Iran’s UAV programme. He is also involved in transferring Iran’s UAVs to Russia in support of its war of aggression against Ukraine. </td><td>31.5.2024</td></tr>
+<tr><td>10.</td><td>Mehdi Dehghani MOHAMMADABADI</td><td><br>[image]  <br> (Farsi spelling) </td><td>Position(s): CEO of Kavan Electronics Behrad LLC DOB: 23.9.1982  Nationality: Iranian  Gender: male  Passport number: 4433172081 (Iran)  Associated entities: Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO); Kavan Electronics Behrad LLC  Associated individuals: Hossein Hatefi ARDAKANI </td><td>Mehdi Dehghani Mohammadabadi serves as CEO, member of the board of directors, as well as a shareholder of the Iran-based and EU-listed Kavan Electronics Behrad LLC. Kavan Electronics Behrad LLC is a company involved in the supply of unmanned aerial vehicle (UAV) items to the EU-listed Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO).  As CEO, he is responsible for managing and steering the company. As a member of the board, he is involved in all significant decisions the company takes. Hence he is involved in transferring Iran’s UAVs to Russia.  Mehdi Dehghani Mohammadabadi is therefore involved in Iran’s UAV programme. He is also involved in transferring Iran’s UAVs to Russia in support of its war of aggression against Ukraine. </td><td>31.5.2024</td></tr>
+<tr><td>11.</td><td>Ismail QAANI a.k.a. Esma’il QANI; Esmaeil GHA’ANI; Esmaeil GHAANI; Esmail QA’ANI; Ismail Akbar QAANI </td><td><br>[image]  <br> (Farsi spelling) </td><td>Position(s): Commander of the IRGC Qods Force DOB: 8.8.1957  POB: Mashad, Iran  Nationality: Iranian  Gender: male  Rank: Brigadier-General  Passport number: D9003033; D9008347  Associated entities: Islamic Revolutionary Guard Corps (IRGC); IRGC-Qods Force </td><td>Ismail Qaani is the Commander of the EU-listed Islamic Revolutionary Guard Corps Qods Force (IRGC-QF). The IRGC-QF is responsible for orchestrating a network of regional militias that have aggressively expanded Iran’s military influence across the Arab world in recent decades.  Under Qaani’s command, the IRGC-QF facilitates and supports unmanned aerial vehicle (UAV) and missile attacks by transferring Iranian weapons to militias in the Middle East and Red Sea region.  Under Qaani’s orders, the IRGC-QF enables and supports the drone and missile attacks by Houthis.  Therefore, in his capacity as leader of the IRGC-QF, Ismail Qaani is involved in transferring Iran’s missiles and UAVs to armed groups and entities undermining peace and security in the Middle East and Red Sea region. </td><td>31.5.2024</td></tr>
+<tr><td>12.</td><td>Afshin Khaji FARD</td><td><br>[image]  <br> (Farsi spelling) </td><td>Position(s): Head of Iranian Aviations Industries Organisation (IAIO) POB: Abadan, Iran  Nationality: Iranian  Gender: male  National ID no.: 1819457850  Associated entities: Iranian Aviations Industries Organisation (IAIO); Ministry of Defence and Armed Forces Logistics (MODAFL) </td><td>Afshin Khaji Fard is the head of the EU-listed Iranian Aviations Industries Organisation (IAIO), a state-owned company under the authority of the EU-listed Ministry of Defence and Armed Forces Logistics (MODAFL). The IAIO is responsible for planning and managing Iran’s military aviation industry, including developing unmanned aerial vehicles (UAVs).  In his capacity as head of the IAIO, Fard has publicly promoted Iran’s UAV industry and frequently stated that the IAIO is actively involved in innovating Iran’s UAVs.  Therefore, Afshin Khaji Fard is supporting and involved in Iran’s UAV programme. </td><td>31.5.2024</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>15.</td><td>Ali JAFARABADI</td><td>علی جعفرآبادی (Farsi spelling) </td><td>Position(s): commander of the Islamic Revolutionary Guard Corps (IRGC) Aerospace Force Space Division DOB: 1975  POB: Iran  Nationality: Iranian  Gender: male </td><td>Ali Jafarabadi is the commander of the Islamic Revolutionary Guard Corps (IRGC) Aerospace Force Space Division. The IRGC Aerospace Force Space Division has operational control over several Iranian missile systems and is involved in the development and future launch of satellite carriers, which are essential for the development of long-range ballistic missile systems, which Iran continues to develop.  Therefore, Ali Jafarabadi is involved in the development of the Iranian missile programme. </td><td>14.10.2024</td></tr>
+<tr><td>16.</td><td>Mehdi GOGERDCHIAN</td><td>مهدی گوگردچیان (Farsi spelling) </td><td>Position(s): managing director of Iran Aircraft Manufacturing Industries (HESA) DOB: 14.8.1975  POB: Iran  Nationality: Iranian  Gender: male  Passport number: 1286966558 (Iran) </td><td>Mehdi Gogerdchian is the managing director of EU-listed Iran Aircraft Manufacturing Industries (HESA). The company is controlled by the EU-listed Iran Aviation Industries Organization (IAIO), a subsidiary of the EU-listed Iranian Ministry of Defence and Armed Forces Logistics (MODAFL), which is responsible for planning and managing Iran’s military aviation industry. HESA specialises in the development and manufacturing of unmanned aerial vehicles (UAVs), especially Shahed drones, which are being used by Russia in its war against Ukraine.  Mehdi Gogerdchian is therefore involved in Iran’s UAV programme. </td><td>14.10.2024</td></tr>
+<tr><td>17.</td><td>Seyed Hamzeh GHALANDARI</td><td>سید حمزه قلندری (Farsi spelling) </td><td>Position(s): deputy defence minister of Iran DOB: 16.7.1984  Nationality: Iranian  Gender: male  Passport number: D10009455 (Iran) </td><td>Seyed Hamzeh Ghalandari is the deputy defence minister of Iran, with a focus on international affairs within the ministry. The EU-listed Iranian Ministry of Defence and Armed Forces Logistics (MODAFL) is responsible for the Iranian arms industry, including unmanned aerial vehicles (UAVs) and ballistic missiles.  In light of his high-level role as deputy defence minister, Seyed Hamzeh Ghalandari is involved in the development of Iran’s UAV and missile programmes. </td><td>14.10.2024</td></tr>
+<tr><td>18.</td><td>Reza Khosravi MOGHADDAM</td><td>رضا خسروي مقدم (Farsi spelling) </td><td>Position(s): Iranian military attaché in Russia Nationality: Iranian  Gender: male </td><td>Reza Khosravi Moghaddam is the military attaché of the Iranian embassy in Russia, representing and promoting his country’s defence industry. He is responsible for bilateral relations in this field. In his function, Moghaddam is a forward element of the Iranian EU-listed Ministry of Defence and Armed Forces Logistics (MODAFL). MODAFL is responsible for the Iranian arms industry, including the development and production of military weapons, such as unmanned aerial vehicles (UAVs) and ballistic missiles.  In his role, Moghaddam actively promotes the defence industry of Iran, and in particular the arms trade between Iran and Russia, thereby promoting Iran’s UAV and missile programmes.  Iran has been supplying Russia with UAVs and ballistic missiles that are being deployed by Russia against Ukraine.  Therefore, Reza Khosravi Moghaddam is involved in Iran’s UAV and missile programme. </td><td>14.10.2024</td></tr>
+<tr><td>19.</td><td>Seid Mir Ahmad NOOSHIN</td><td>سید میراحمد نوشین (Farsi spelling) </td><td>Position(s): director of the Aerospace Industries Organisation (AIO) DOB: 11.1.1966  Nationality: Iranian  Gender: male  Passport number: G9311208 </td><td>Seid Mir Ahmad Nooshin is the director of EU-listed Aerospace Industries Organisation (AIO). The AIO is an organisation which reports to the EU-listed Iranian Ministry of Defence and Armed Forces Logistics (MODAFL) and plays a key role in Iran’s unmanned aerial vehicle (UAV) and ballistic missile programmes. The AIO oversees Iran’s production of missiles, including by EU-listed entities Shahid Hemmat Industries Group (SHIG) and Shahid Baheri Industrial Group (SBIG). Seid Mir Ahmad Nooshin is therefore involved in Iran’s missile programme. </td><td>14.10.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>20.</td><td>Mohammad Reza KHIABANI</td><td>محمدرضا مدرس خیابانی (Farsi spelling) </td><td>Position(s): Director of IRISL Nationality: Iranian  Gender: male  Associated entities: Islamic Republic of Iran Shipping Lines (IRISL); Islamic Revolutionary Guard Corps Navy (IRGCN); Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC/SSJO) </td><td>Mohammad Reza Khiabani is the director of the EU-listed Islamic Republic of Iran Shipping Lines (IRISL), which is a major Iranian maritime carrier. For years, ships belonging to or managed by IRISL or its affiliated companies, have been implicated in shipping military related cargo and other activities aimed at providing support to Russia in support of its war of aggression against Ukraine and to armed groups and entities undermining peace and security in the Middle East and the Red Sea region, in particular in relation with the Islamic Revolutionary Guard Corps (IRGC) and some of its branches, notably the (EU-listed) Islamic Revolutionary Guard Corps Navy (IRGCN) and the (EU-listed) Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC/SSJO).  The (EU-listed) Islamic Revolutionary Guard Corps Navy (IRGCN) converts container ships owned or previously owned by IRISL Group into drone carriers. The IRGCN is part of the IRGC, and includes an unmanned aerial vehicle (UAV) division and a missiles division. The IRGCN is involved in Iran’s UAV and missile programmes and involved in transferring Iran’s missiles to armed groups and entities undermining peace and security in the Middle East and the Red Sea region.  The IRGC/SSJO is a research and development unit that is part of the IRGC that develops and manufactures ground penetrating radar, communication systems, weaponry, combat vehicles and electronic cyberwarfare equipment. The IRGC/SSJO is involved in Iran’s UAV and missile programmes and in transferring Iranian UAVs to Russia in support of its war of aggression against Ukraine.  Therefore, in his principal managerial position as director of IRISL, Mohammad Reza Khiabani is involved in transferring Iran’s UAVs or missiles or related technologies to Russia in support of its war of aggression against Ukraine and to armed groups and entities undermining peace and security in the Middle East and the Red Sea region, and is associated with branches of the IRGC, in particular the (EU-listed) IRGC/SSJO and the (EU-listed) IRGCN. </td><td>18.11.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>21.</td><td>Amir RADFAR</td><td>امیر رادفر (Farsi spelling) </td><td>Position(s): Director of Shahid Bagheri Industrial Group (SBIG) DOB: 22.12.1971  Nationality: Iranian  Gender: male </td><td>Amir Radfar is the director of Shahid Bagheri Industrial Group (SBIG). SBIG manufactures solid-fuel ballistic missiles and is a subsidiary of the EU-listed Aerospace Industries Organization (AIO), which oversees the development and production of Iran’s ballistic missiles. Amir Radfar is therefore involved in Iran’s missile programme.</td><td>29.1.2026</td></tr>
+<tr><td>22.</td><td>Hossein HEMSI</td><td>  </td><td>Position(s): CEO and shareholder of Fanavaran Sanat Ertebatat Company DOB: 27.10.1982  Nationality: Iranian  Gender: male  National ID number: 0532987276 </td><td>Hossein Hemsi is the CEO and shareholder of Fanavaran Sanat Ertebatat Company (FSE). FSE is a private company supplying critical electronic components and jam-resistance guidance systems to the Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO) and thereby involved in Iran’s unmanned aerial vehicle (UAV) programme. Therefore, in his capacity as CEO and shareholder of FSE, Hossein Hemsi is involved in Iran’s UAV programme. </td><td>29.1.2026</td></tr>
+<tr><td>23.</td><td>Armin Ghorsi ANBARAN</td><td>عنبران آرمین قرصی (Farsi spelling) </td><td>Position(s): Board Member and shareholder of Fanavaran Sanat Ertebatat Company DOB: 21.9.1983  Nationality: Iranian  Gender: male  National ID number: 0065911601 </td><td>Armin Ghorsi Anbaran is a Board Member and shareholder of Fanavaran Sanat Ertebatat Company (FSE). FSE is a private company supplying critical electronic components and jam-resistance guidance systems to the Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO) and thereby is involved in Iran’s unmanned aerial vehicle (UAV) programme. Therefore, in his capacity as Board Member and shareholder of FSE, Armin Ghorsi Anbaran is involved in Iran’s UAV programme. </td><td>29.1.2026</td></tr>
+<tr><td>24.</td><td>Hossein BAKSHAYESH</td><td>حسین بخشایش (Farsi spelling) </td><td>Position(s): CEO and Managing Director of Sahara Thunder DOB: 22.5.1964  Nationality: Iranian  Gender: male  National ID number: 1189810190 </td><td>Hossein Bakshayesh is the CEO and managing director of Sahara Thunder. Sahara Thunder is an Iranian import-export trading company which acts as a front company for the Iranian Ministry of Defence and Armed Forces Logistics (MODAFL). In this capacity, it supplies unmanned aerial vehicles (UAVs), individual components, and related technology to Russia and receives payment from Russia for delivery of those goods and services. As CEO and managing director of Sahara Thunder, Hossein Bakshayesh therefore supplies and is otherwise involved in transferring Iran’s UAVs to Russia in support of its war of aggression against Ukraine. </td><td>29.1.2026</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>25.</td><td>Mohammad AKBARZADEH</td><td>محمد اکبرزاده (Farsi spelling) </td><td>Position(s): Deputy Commander for Political Affairs of the Islamic Revolutionary Guard Corps Navy (IRGCN) Nationality: Iranian  Gender: male </td><td>Mohammad Akbarzadeh is Deputy Commander for Political Affairs of the EU-listed Islamic Revolutionary Guard Corps Navy (IRGCN) and acts as the spokesperson for the IRGCN. The IRGCN implements Iran’s policies undermining the freedom of navigation in the Strait of Hormuz by enforcing a toll system in the Strait of Hormuz and by threatening, harassing, and attacking multiple commercial vessels in the Strait of Hormuz. In his statements, Akbarzadeh states that Iran has complete control over the Strait of Hormuz and threatens to use missiles or drones against vessels transiting the Strait of Hormuz.  Mohammad Akbarzadeh therefore supports and implements Iran’s actions and policies undermining the freedom of navigation in the Middle East. </td><td>8.6.2026</td></tr>
+<tr><td>26.</td><td>Hamid HOSSEINI</td><td>حمید حسینی (Farsi spelling) </td><td>Position(s): Spokesperson for Iran’s Oil, Gas and Petrochemical Products Exporters’ Union. Nationality: Iranian  Gender: male </td><td>Hamid Hosseini is the spokesperson for Iran’s Oil, Gas and Petrochemical Products Exporters’ Union and member of Iran’s Chamber of Commerce. Iran’s Oil, Gas and Petrochemical Products Exporters’ Union is an industry association whose members are companies involved in the production and export of petroleum, gas and petrochemicals products. The Iranian government and the Islamic Revolutionary Guards Corps are heavily involved in Iran’s oil exports.  Iran has implemented a policy which requires vessels transiting through the Strait of Hormuz to submit information, undergo assessment, and pay transit fees to Iranian authorities. In his capacity as spokesperson for Iran’s Oil, Gas and Petrochemical Products Exporters’ Union Hosseini explains and promotes this policy through statements in international and Iranian media outlets.  Hamid Hosseini therefore supports and implements Iran’s actions and policies undermining the freedom of navigation in the Middle East. </td><td>8.6.2026</td></tr>
+<tr><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+B. Legal persons, entities and bodies
+
+<table>
+<tbody><tr><td>  </td><td>Names (Transliteration into Latin script)</td><td>Names</td><td>Identifying information</td><td>Reasons for listing</td><td>Date of listing</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>1.</td><td>Shakad Sanat Asmari</td><td>شکاد صنعت آسمارىö (Farsi spelling) </td><td>Address: Haft-e Tir Sq, 378 Moftah Shomali St, third floor, Tehran, Iran, postal code 1588944546 Type of entity: Limited Liability Company  Place of registration: Tehran, Iran  Date of registration: 24.10.2016  Principal place of business: Iran </td><td>Shakad Sanat Asmari is an Iranian company that develops and manufactures components for the Shahed unmanned aerial vehicles (UAVs). It is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>National ID: 14006189580 Registration number: 498744  Associated individuals: Hadi Zahourian (Chief Executive Officer); Mohammad Shahab Khanian (Deputy Chief Executive Officer); Ehsan Rahat Varnosfadrani (Chief scientist and former Chief Executive Officer) </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>2.</td><td>Baharestan Kish Company</td><td>شرکت بهارستان کیش (Farsi spelling) </td><td>Address no. 1: Unit 17, Fifth Floor, Yas Building, Number 116, Sheikh Fazlollah Highway, Teimuri Blvd, before Sharif University Metro Station, Tehran, Iran; Address no. 2: Unit 18, Fifth Floor, Yas Building, Number 116, Sheikh Fazlollah Highway, Teimuri Blvd, before Sharif University Metro Station, Tehran, Iran;  Address no. 3: Unit 19, Fifth Floor, Yas Building, Number 116, Sheikh Fazlollah Highway, Teimuri Blvd, before Sharif University Metro Station, Tehran 1459994450, Iran;  Address no. 4: No 47, East 18th Street, Farhang Boulevard, Sa’adat Abad, Tehran 1997857976, Iran;  Address no. 5: Unit 2, First Floor, EX35, Number 2, Exhibition Industrial Town, Kish Island 7941659854, Iran;  Place of registration:Iran  Date of registration: 2002  Associated individuals: Rahmatollah Heidari (Managing Director and a member of the board of directors) </td><td>Baharestan Kish Company manufactures unmanned aerial vehicle (UAV) components for the Islamic Revolutionary Guard Corps (IRGC). The company has also worked on Shahed UAV components, which were exported to Russia.  Baharestan Kish Company has overseen various defense-related projects, which included the manufacturing of UAVs.  It is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td>3.</td><td>Saad Sazeh Faraz Sharif a.k.a.  Daria Fanavar Borhan Sharif; Sadid Sazeh Parvaz Sharif </td><td>سدید سازه پرواز شریف/داریا فن آور برهان شریف/شرکت سعد سازه فراز شریف (Farsi spelling) </td><td>Address: Tehran Province – Tehran City – Central Sector – Tehran City – Shahrak Ansar Neighborhood – Tehran Karaj Highway – Chogan Street 9 – Plate 0 – Ground Floor Type of entity: Limited Liability Company  Place of registration:Tehran, Iran  Date of registration: 2017  Registration number: 534295  Principal place of business: Iran  Associated individuals: Ehsan Imaninejad (Chief Executive Officer) </td><td>Saad Sazeh Faraz Sharif is an Iranian company that offers aerospace engineering services and manufactures parts of the Shahed unmanned aerial vehicles (UAVs). It is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>4.</td><td>Sarmad Electronic Sepahan Company a.k.a.  Sarmad Electronics; Sarmad Electronic Sepahan; Sarmad Electronics Co. </td><td>سرمد الکترونیک سپاهان (Farsi spelling) </td><td>Address: Second Floor, No 309, Alley 28, South Abou Na’im Street, Jaber Ansari Street, Isfahan, Iran Place of registration: Iran  Date of registration: 2014  Principal place of business: Iran </td><td>Sarmad Electronic Sepahan Company is an Iranian company that produces the specific components used in Iranian unmanned aerial vehicles (UAVs). Those UAVs are deployed by Russia in its war of aggression against Ukraine. Servomotors and flowmotors in detached Iranian UAVs found on the Ukrainian battlefield have been traced back directly to Sarmad Electronic Sepahan Company.  The company itself advertises its activities in Iran by claiming to be active in large sensitive industries in the country, including that of UAVs.  It is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>5.</td><td>Kimia Part Sivan Company (KIPAS) a.k.a.  Kimiar Parts Sibon </td><td>شرکت کیمیا پارت سیوان (کیپس) (Farsi spelling) </td><td>Address: 1st Street, 6th Side Street, No 81, Jey Industrial Park, Isfahan 8376100000, Iran; Place of registration: Iran  Registration number: 10320661315 or 414950 or 47779. </td><td>Kimia Part Sivan Company (KIPAS) is an Iran-based company that has worked with Iran’s Islamic Revolutionary Guard Corps Quds Force (IRGC-QF) to improve the force’s unmanned aerial vehicle (UAV) programme. KIPAS officials have conducted UAV flight tests for the IRGC-QF and have provided technical assistance for IRGC-QF UAVs transferred to Iraq for use in IRGC-QF operations. KIPAS has also procured valuable UAV components for onward use by the IRGC.  It is therefore supporting and involved in Iran’s UAV programme. </td><td>11.12.2023</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>6.</td><td>Khatam al-Anbiya Central Headquarters (KCHG) a.k.a. Khatam al-Anbiye Central Headquarters; KACHQ </td><td><br>[image]  <br> (Farsi spelling) </td><td>Type of entity: government entity Associated entities: Islamic Revolutionary Guard Corps (IRGC)  Associated individuals: Gholam Ali RASHID (commander of KCHG) </td><td>The Khatam al-Anbiya Central Headquarters (KCHG) is the central entity in the command chain of Iran’s armed forces making operational military decisions, as well as coordinating between Iran’s conventional army (Artesh) and the Islamic Revolutionary Guard Corps (IRGC), which both procure and deploy unmanned aerial vehicles (UAVs). The KCHG’s mission is to oversee offensive and defensive operations, including through its regional and thematic headquarters such as the ones in the Persian Gulf or Gulf of Oman, which report to the main headquarters. It is also responsible for planning and coordinating joint military operations, including drills.  The KCHG is headed by the EU-listed IRGC commander Gholam Ali Rashid, who has overseen UAV deployments and supervised UAV battlefield readiness in drills and exercises.  Preceding IRGC and Artesh in the command chain, thereby overseeing all of Iran’s armed forces, intelligence and EU-listed Khatam al-Anbiya Construction Headquarters, Khatam al-Anbiya Central Headquarters is at the core of Iran’s military forces and therefore involved in transferring UAVs to Russia in support of its war of aggression against Ukraine and to armed groups and entities undermining peace and security in the Middle East and the Red Sea region. Furthermore, the KCHG is involved in Iran’s UAV programme. </td><td>31.5.2024</td></tr>
+<tr><td>7.</td><td>Kavan Electronics Behrad LLC a.k.a. Kavan Electronics;  Kavan Electronic co. LTD;  Kavan Electronic Company;  Kavan Electronic Sadr Aria Engineering Limited Liability Company </td><td><br>[image]  <br> (Farsi spelling) </td><td>Address: No 63, Unit 4, Shahrara, Patrice Lumumba St., Abshori Sharghi St., Tehran 144593491, Iran Type of entity: limited liability company (LLC)  Place of registration: Iran  Date of registration: 13.7.2016  Registration number: 495080 (Iran)  National ID number: 14005997725 (Iran)  Principal place of business: Iran  Associated entities: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO)  Associated individuals:  Hossein Hatefi ARDAKANI (Chairman of the Board of Directors); Mehdi Dehghani MOHAMMADABADI (CEO) </td><td>Kavan Electronics Behrad LLC is an Iran-based company procuring and selling servomotors and other components relevant for the manufacturing of unmanned aerial vehicles (UAVs) to the EU-listed Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO) The company’s Chairman of the Board of Directors is the EU-listed Hossein Hatefi Ardakani, who oversees a transnational procurement network that spans the Middle East and East Asia, which caters for the production of UAVs overseen by the IRGC SSJO.  Kavan Electronics Behrad LLC is therefore involved in Iran’s UAV programme. It is also involved in transferring Iran’s UAVs to Russia in support of its war of aggression against Ukraine. </td><td>31.5.2024</td></tr>
+<tr><td>8.</td><td>Islamic Revolutionary Guard Corps Navy (IRGCN) a.k.a.  Nirooy-e Daryaei-e Sepah;  NEDSA </td><td><br>[image]  <br> (Farsi spelling) </td><td>Type of entity: government entity Place of registration: Bandar Abbas, Iran  Date of registration: 1981  Principal place of business: Iran  Associated entities: Islamic Revolutionary Guard Corps (IRGC) </td><td>The Islamic Revolutionary Guard Corps Navy (IRGCN) is part of the IRGC, and includes an unmanned aerial vehicles (UAVs) division and a missiles division. The IRGC Navy is equipped with Iranian UAVs and missiles and engages in asymmetrical warfare methods.  The IRGC Navy has a Naval Academy in which it provides training on firing anti-ship missiles and operating UAVs. Iranian-backed militias and proxies are trained at the Naval Academy.  The IRGC Navy is involved in facilitating the transport of Iranian arms, including Iranian UAVs and missiles. Those missiles and UAVs are deployed by armed groups like the Houthis and Hezbollah to undermine peace and security in the Middle East and Red Sea region.  Therefore, the IRGC Navy is involved in Iran’s UAV and missile programmes and involved in transferring Iran’s missiles to armed groups and entities undermining peace and security in the Middle East and the Red Sea region. </td><td>31.5.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>9.</td><td>Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO)</td><td>سازمان تحقیقات و جهادخودکفایی سپاه پاسداران (Farsi spelling) </td><td>Type of entity: government entity Place of registration: Iran  Principal place of business: Iran  Associated entities: Kavan Electronics Behrad LLC </td><td>The Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO) is a research and development unit that develops and manufactures ground penetrating radar, communication systems, weaponry, combat vehicles and electronic cyberwarfare equipment. As part of the Islamic Revolutionary Guard Corps (IRGC), the IRGC SSJO has been involved in research, development and procurement activities linked to the development of Iranian UAVs and missiles.  The IRGC SSJO is therefore involved in Iran’s UAV and missile programmes and in transferring Iranian UAVs to Russia in support of its war of aggression against Ukraine. </td><td>24.6.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>10.</td><td>Saha Airlines</td><td>هواپیمایی ساها (Farsi spelling) </td><td>Address: Ayat Saeedi St., 65 meters from Fatah, Tehran, Iran Type of entity: government entity  Place of registration: Tehran, Iran </td><td>Saha Airlines is an Iranian state airline, wholly owned by the Islamic Republic of Iran Air Force. It has been used repeatedly to transfer Iranian-made unmanned aerial vehicles (UAVs) and related technologies to Russia, which have been used in Russia’s war of aggression against Ukraine. Saha Airlines is therefore involved in transferring Iranian-made UAVs and related technologies to Russia in support of its war of aggression against Ukraine. </td><td>14.10.2024</td></tr>
+<tr><td>11.</td><td>Mahan Air</td><td>ماهان ایر (Farsi spelling) </td><td>Address: No 21 Mahan Air Tower – Azadegan Street, Karaj Highway, Tehran, Iran Post box 1481655761  Place of registration: Tehran, Iran </td><td>Mahan Air is a private Iranian airline based in Tehran. It has been used repeatedly to transfer Iranian-made unmanned aerial vehicles (UAVs) and related technologies to Russia, which have been used in Russia’s war of aggression against Ukraine.  Mahan Air is therefore involved in transferring Iranian-made UAVs and related technologies to Russia in support of its war of aggression against Ukraine. </td><td>14.10.2024</td></tr>
+<tr><td>12.</td><td>Iran Air (a.k.a. the Airline of the Islamic Republic of Iran; Homa; Iran Air Cargo; Iran Air Ground Services; Iran Air Catering) </td><td>ایران ایر (Farsi spelling) </td><td>Address: Central Offices, Airport Boulevard, Tehran, Iran Type of entity: government entity  Place of registration: Tehran, Iran </td><td>Iran Air is an Iranian state airline controlled by Iran’s Ministry of Infrastructure, and therefore subordinate to the country’s military-political leadership. It has been used repeatedly to transfer Iranian-made unmanned aerial vehicles (UAVs) and related technologies to Russia, which have been used in Russia’s war of aggression against Ukraine.  Iran Air is therefore involved in transferring Iranian-made UAVs and related technologies to Russia in support of its war of aggression against Ukraine. </td><td>14.10.2024</td></tr>
+<tr><td>13.</td><td>Basamad Electronic Pouya Engineering Co. (a.k.a. Dynamic Electronic Frequency Engineering Limited Liability Company) </td><td>بسامد الکترونیک پویا (Farsi spelling) </td><td>Address: No. 63 Unit 4, Shahrara, Patrice Lumumba St. Abshori St., Tehran, 144593491, Iran Type of entity: limited liability company  Registration number: 466887  National ID number: 14004684489  Associated individuals: Hossein Hatefi Ardakani (CEO)  Associated entities: Kavan Electronics Behrad LLC </td><td>Basamad Electronic Pouya Engineering Co. is an Iranian procurement firm. It is part of a procurement network overseen by EU-listed Hossein Hatefi Ardakani, Basamad Electronic Pouya Engineering Co.’s CEO and largest shareholder. Hossein Hatefi Ardakani is an Iranian businessman who is involved, through the procurement network he oversees, in the supply of unmanned aerial vehicle (UAV) items to the EU-listed Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organization (IRGC SSJO), which are then supplied to Russia to support Russia’s war of aggression against Ukraine.  Basamad Electronic Pouya Engineering Co. is therefore associated with a natural person involved in Iran’s UAV programme and in transferring Iranian-made UAVs to Russia in support of its war of aggression against Ukraine. </td><td>14.10.2024</td></tr>
+<tr><td>14.</td><td>Iran Alumina Company (IAC) (a.k.a. I.A.C.; Iran Alumina Co.) </td><td>آلومینای ایران شرکت (Farsi spelling) </td><td>Address 1: 100, Somayyeh St., Tehran, Iran (head office) Address 2: Kilometer 7 turnpike Sankhast, Jajarm, North Khorasan, Iran (factory)  Principal place of business: Khorasan province, Iran </td><td>Iran Alumina Company (IAC) is Iran’s sole producer of aluminium oxide (Al2O3) or alumina powder, which is used in the fabrication of solid fuel propellant used to launch rockets and missiles. The facility operates on behalf of the Islamic Revolutionary Guard Corps (IRGC) in producing missile fuel from metal powder. IAC is a subsidiary of the state-owned mines and metal holding company Iranian Mines and Mining Industries Development and Renovation Organisation (IMIDRO), which is controlled by the Iranian Ministry of Industries and Mines. Therefore, Iran Alumina Company (IAC) is involved in Iran’s missile programme. </td><td>14.10.2024</td></tr>
+<tr><td>15.</td><td>Shahid Haj Ali Movahed Research Center (a.k.a. Shahid Movahed Industry; Shahid Mohaved Industries; SHIG Department 7500) </td><td>مرکز تحقیقات شهید حاج علی موحد  (Farsi spelling) </td><td>Address: c/o SHIG, Damavand Tehran Highway, PO Box 16595-159, Tehran, Iran Principal place of business: Tehran Province, Iran </td><td>Shahid Haj Ali Movahed Research Center is a subsidiary of the EU-listed Shahid Hemmat Industries Group (SHIG), an industrial group subordinate to the state-controlled EU-listed Aerospace Industries Organisation (AIO), which supports Iran’s liquid-propellant ballistic missile programme. The Center has been involved in the research, testing and manufacture of Iranian missiles. The Center is directly involved in missile development, including in the context of cooperation between Iran and the DPRK, from which it received specialist support for the development of long-range missiles.  Therefore, Shahid Haj Ali Movahed Research Center is involved in Iran’s missile programme. </td><td>14.10.2024</td></tr>
+<tr><td>16.</td><td>Teyf Tadbir Engineering Company (a.k.a. Teyf Tadbir Arya Engineering Company; Teif Tadbir Arya; Teyf Tadbir Aria) </td><td>شرکت مهندسی تیف تدبیر (Farsi spelling) </td><td>Address: Unit 10, No. 1, End of Bahar, Kardan Street, Patrice Street, Tehran 144596443, Iran Registration number: 427320 (Iran)  Associated individuals: Hossein Hatefi Ardakani (CEO)  Associated entities: Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organization (IRGC SSJO) </td><td>Teyf Tadbir Engineering Company is an Iranian procurement firm. Its CEO is EU-listed Hossein Hatefi Ardakani, an Iranian businessman who oversees a transnational procurement network for unmanned aerial vehicle (UAV) components. He operates through his Tehran-based firms, including Teyf Tadbir Engineering Company and the EU-listed Kavan Electronics LLC. Through his procurement network, Hossein Hatefi Ardakani is involved in the supply of UAV items to the EU-listed Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organization (IRGC SSJO). These items are used in Iran’s Shahed-series UAVs, which Iran supplies to Russia to support Russia’s war of aggression against Ukraine.  Teyf Tadbir Engineering Company is therefore associated with natural and legal persons and entities involved in Iranian-made UAV programme and also involved in transferring Iran’s UAVs to Russia in support of its war of aggression against Ukraine. </td><td>14.10.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>17.</td><td>MG Flot LLC</td><td>  </td><td>Address: Apartment 1, ul Lenina, Akhty, 18D, 368730, Russia Type of entity: shipping company  Registration number: IMO 6016988 </td><td>MG Flot LLC is a Russian shipping company whose vessels are involved in shipping Iranian military-related commodities, including unmanned aerial vehicles (UAV) components, to Russia. MG Flot LLC’s vessels, including the cargo ship Rasul Gamzatov (IMO: 8861058; MMSI: 273157300), have been transporting Iranian-made weapons and ammunition, including UAV components, across the Caspian Sea to resupply Russian troops fighting in Ukraine.  Therefore, MG Flot LLC is involved in transferring Iran’s UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine. </td><td>18.11.2024</td></tr>
+<tr><td>18.</td><td>VTS Broker LLC</td><td>  </td><td>Address: Office 19, ul Dzerzhinskogo, 72B, Astrakhan, 414015, Russia Type of entity: shipping company  Registration number: IMO 5122966 </td><td>VTS Broker LLC is a Russian shipping company whose vessels are involved in shipping Iranian military-related commodities, including unmanned aerial vehicles (UAV) components, to Russia. VTS Broker LLC’s vessels, including the cargo ship Musa Jalil (IMO: 8846814; MMSI: 273353660), have been transporting Iranian-made weapons and ammunition, including UAV components, across the Caspian Sea to resupply Russian troops fighting in Ukraine.  Therefore, VTS Broker LLC is involved in transferring Iran’s UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine. </td><td>18.11.2024</td></tr>
+<tr><td>19.</td><td>Arapax LLC</td><td>  </td><td>Address: Apartment 6, ul Savushkina, 2, Astrakhan, 414056, Russia Type of entity: shipping company  Registration number: IMO 6189893 </td><td>Arapax LLC is a Russian shipping company whose vessels are involved in shipping Iranian military-related commodities, including unmanned aerial vehicles (UAV) components, to Russia. Arapax LLC’s vessels, including the cargo ship Begey (IMO: 8943210; MMSI: 273421560), have been transporting Iranian-made weapons and ammunition, including UAV components, across the Caspian Sea to resupply Russian troops fighting in Ukraine.  Therefore, Arapax LLC is involved in transferring Iran’s UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine. </td><td>18.11.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>20.</td><td>Islamic Republic of Iran Shipping Lines (IRISL)</td><td>گروه کشتیرانی جمهوری اسلامی ایران (Farsi spelling) </td><td>Place of registration: Iran Associated individuals: Mohammad Reza Khiabani (director)  Associated entities: Islamic Revolutionary Guard Corps Navy (IRGCN); Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC/SSJO) </td><td>Islamic Republic of Iran Shipping Lines (IRISL) is a major Iranian maritime carrier. For years, ships belonging to or managed by IRISL or its affiliated companies, have been implicated in shipping military related cargo and other activities aimed at providing support to Russia in support of its war of aggression against Ukraine and to armed groups and entities undermining peace and security in the Middle East and the Red Sea region, in particular in relation with the Islamic Revolutionary Guard Corps (IRGC) and some of its branches, notably the (EU-listed) Islamic Revolutionary Guard Corps Navy (IRGCN) and the (EU-listed) Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC/SSJO).  The (EU-listed) Islamic Revolutionary Guard Corps Navy (IRGCN) converts container ships owned or previously owned by IRISL Group into drone carriers. The IRGCN is part of the IRGC, and includes an unmanned aerial vehicle (UAV) division and a missiles division. The IRGCN is involved in Iran’s UAV and missile programmes and involved in transferring Iran’s missiles to armed groups and entities undermining peace and security in the Middle East and the Red Sea region.  The IRGC/SSJO is a research and development unit that is part of the IRGC that develops and manufactures ground penetrating radar, communication systems, weaponry, combat vehicles and electronic cyberwarfare equipment. The IRGC/SSJO is involved in Iran’s UAV and missile programmes and in transferring Iranian UAVs to Russia in support of its war of aggression against Ukraine.  Therefore, IRISL is involved in transferring Iran’s UAVs or missiles or related technologies to Russia in support of its war of aggression against Ukraine and to armed groups and entities undermining peace and security in the Middle East and the Red Sea region, and is associated with branches of the IRGC, in particular the (EU-listed) IRGC/SSJO and the (EU-listed) IRGCN. </td><td>18.11.2024</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>21.</td><td>Sahara Thunder a.k.a. Tondar Sahara Co.  a.k.a. Tondar Sahra Private Limited Company  a.k.a. Desert Thunder Company </td><td>شرکت تندر صحرا (Farsi spelling) </td><td>Address: No. 2, Moghadas Alley, Ghasir St., Beheshti St. Tehran, Iran Address: Fifth Floor, No. 2, Shahid Hassan Moghadam Alley, Shahid Ahmad Ghsir Str. Argentine, Saei St. Tehran, Iran  Place of registration: Iran  Business Registration Number 94186  National ID: 10101382714  Chamber of Commerce Number:131454  Website: www.saharathunder.com </td><td>Sahara Thunder is an Iranian import-export trading company which acts as a front company for the Iranian Ministry of Defence and Armed Forces Logistics (MODAFL). In this capacity, it supplies unmanned aerial vehicles (UAVs), individual components, and related technology to Russia and receives payment from Russia for delivery of those goods and services. Therefore, Sahara Thunder supplies and is otherwise involved in transferring Iran’s UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine. </td><td>29.1.2026</td></tr>
+<tr><td>22.</td><td>Fanavaran Sanat Ertebatat Company (FSE)</td><td>شرکت فن آوران صنعت ارتباطات (Farsi spelling) </td><td>Address: Yousef Abad Neighbourhood, Kordestan Express Way, Seyyed Sohrab Akhlaqi street 37, Tehran, Iran Type of entity: Private company  National ID: 10102884046  Business Number: 247799 </td><td>Fanavaran Sanat Ertebatat Company (FSE) is a private company supplying critical electronic components and jam-resistant guidance systems to the Islamic Revolutionary Guard Corps Research and Self-Sufficiency Jihad Organisation (IRGC SSJO). It is also a member of the Iranian Aviation and Space Industries Association (IASIA), which procures components on behalf of the IRGC for the manufacturing of unmanned aerial vehicles (UAVs). FSE is therefore involved in Iran’s UAV programme. </td><td>29.1.2026</td></tr>
+<tr><td>23.</td><td>Pishgaman Tejarat Rafi Novin Co.</td><td>پیشگامان تجارت رفیع نوین (Farsi spelling) </td><td>Address: Tehran Leyzan Hossein Abad Javanshir Street, Corner of Ordibehesht St., No. 10, Postal Code: 166993356, Iran Type of entity: Private Limited Company  Place of registration: Iran  Date of registration: 10.12.2007  Registration number: 311045  National ID: 10103503385 </td><td>Pishgaman Tejarat Rafi Novin Co. is a private company with links to entities involved in Iran’s missile programme. Pishgaman Tejarat Rafi Novin Co. has procured significant amounts of ammonium perchlorate, a key propellant for solid-fuel missiles, from foreign suppliers for Iran’s missile programme. Pishgaman Tejarat Rafi Novin Co. is therefore involved in Iran’s missile programme.</td><td>29.1.2026</td></tr>
+<tr><td>24.</td><td>Arsang Safe Trading Co.</td><td>شزکت ایمن تجارت ارسنگ (Farsi spelling) </td><td>Address: 901, Negin Saii Tower, Vali-asr St., 14338 Tehran, 901, Negin Saii Tower, vali-asr st., 14338, Iran Place of registration: Iran  Date of registration: 3.3.2014  Registration number: 450913 </td><td>Arsang Safe Trading Co. is instrumental in aiding Russia’s acquisition of Close Range Ballistic Missiles (CRBMs) and unmanned aerial vehicles (UAVs) from Iran through its collaboration with Sahara Thunder. The Supply, Research, and Industry Affairs Section of Iran’s Ministry of Defence and Armed Forces Logistics (MODAFL) oversees these military deals, playing a leading role in Iran’s military research and development efforts. Sahara Thunder has had time charter contracts with India-based companies for the vessel CHEM, which has been used for multiple shipments of UAVs, since 2022. Arsang Safe Trading Co. provided ship management services for these shipments, ensuring the smooth transfer of UAVs.  As a subsidiary of MODAFL, Sahara Thunder is crucial in the design, development, manufacture, and sale of UAVs used by Russia in the war of aggression against Ukraine.  Arsang Safe Trading Co. is associated with Sahara Thunder and is involved in transferring Iran’s UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine. </td><td>29.1.2026</td></tr>
+<tr><td>25.</td><td>Asia Marine Crown Agency a.k.a. Asia Marine Crown Shipping Agency  a.k.a. Asia Marine Crown Shipping Agency Services Company  a.k.a. Taj Daryaye Asia </td><td>شرکت تاج دریای آسیا (Farsi spelling) </td><td>Address: Unit. 7, 1st Floor, BLDG No. 21, Kar Va Tejarat Av., Vanak St., Vanak Sq, Tehran, Iran Place of registration: Iran  Date of registration: 9.1.2019  Registration number: 10977  ID number: 14008069775 </td><td>Asia Marine Crown Agency is a front company for Iran’s Ministry of Defence and Armed Forces Logistics (MODAFL). This agency has served as the port agent in Bandar Abbas, Iran, facilitating several shipments of unmanned aerial vehicle (UAV) parts and dual use goods for Sahara Thunder projects which provide UAVs to Russia. Sahara Thunder, another MODAFL front company, oversees Iran’s commercial activities related to the design, development, manufacture, and sale of UAVs, many of which are transferred to Russia for use in its war of aggression against Ukraine. Asia Marine Crown Agency is involved in transferring Iran’s UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine. </td><td>29.1.2026</td></tr>
+<tr><td>26.</td><td>Khojir Missile Development and Production a.k.a. Khojir Missile Production Complex </td><td>  </td><td>Location: Teheran Province, Iran Place of registration: Iran </td><td>Khojir Missile Development and Production is leading Iran’s ballistic missile programme, which is massively expanding its production capabilities. Khojir Missile Development and Production was expanded significantly in recent years to build weapons for Russia and the so-called ‘Axis of Resistance’. This expansion follows an October 2022 deal where Iran agreed to supply missiles to Russia for its war of aggression against Ukraine. Since Russia’s 2022 invasion of Ukraine, Iran has sent powerful surface-to-surface ballistic missiles to Russia, including Fath-360 Close Range Ballistic Missiles (CRBMs). Khojir facility is used to produce various missile types and is managed by the Islamic Revolutionary Guards Corps (IRGC) and Defence and Armed Forces Logistics Ministry (MODAFL). These facilities are used to develop and manufacture advanced weapons systems, including solid-propellant ballistic missiles.  Therefore, Khojir Missile Development and Production is supplying or otherwise involved in transferring Iran’s missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine. </td><td>29.1.2026</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>27.</td><td>Islamic Revolutionary Guard Corps Navy (IRGCN) Hormozgan Provincial Command</td><td>  </td><td>Place of registration: Iran</td><td>The Islamic Revolutionary Guard Corps Navy (IRGCN) Hormozgan Provincial Command is a sub-division of the EU-listed IRGCN. The IRGCN has assumed control of the Strait of Hormuz and implemented a toll system in the Strait whereby vessels are required to provide identifying documentation as well as cargo and destination information to intermediaries who then pass the information on to the Hormozgan Provincial Command. On the basis of this information, the Hormozgan Provincial Command screens vessels and determines which ones are allowed to transit through the Strait, sometimes subject to the payment of a toll. The IRGCN’s Hormozgan Provincial Command therefore implements Iran’s actions or policies undermining the freedom of navigation in the Middle East. </td><td>8.6.2026</td></tr>
+</tbody>
+</table>
+
+## ANNEX IV — List of ports and locks as referred to in Article 2a
+
+|  | Name | Grounds for inclusion | Date of application |
+| --- | --- | --- | --- |
+| 1. | Amirabad Port, Iran | Article 2a(1), point (d): used for the transfer of Iranian UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine | 18.11.2024 |
+| 2. | Anzali Port, Iran | Article 2a(1), point (d): used for the transfer of Iranian UAVs or missiles or related technologies or components thereof to Russia in support of its war of aggression against Ukraine | 18.11.2024 |
+
+( 1 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).

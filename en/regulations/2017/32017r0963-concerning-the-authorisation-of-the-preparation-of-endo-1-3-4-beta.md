@@ -1,0 +1,211 @@
+---
+title: "Commission Implementing Regulation (EU) 2017/963 of 7 June 2017 concerning the authorisation of the preparation of endo-1,3(4)-beta-glucanase produced by Aspergillus aculeatinus (formerly classified as Aspergillus aculeatus) (CBS 589.94), endo-1,4-beta-glucanase produced by Trichoderma reesei (formerly classified as Trichoderma longibrachiatum) (CBS 592.94), alpha-amylase produced by Bacillus amyloliquefaciens (DSM 9553), endo-1,4-beta-xylanase produced by Trichoderma viride (NIBH FERM BP4842) and bacillolysin produced by Bacillus amyloliquefaciens (DSM 9554) as a feed additive for all avian species and weaned piglets and amending Regulations (EC) No 358/2005 and (EU) No 1270/2009 (holder of the authorisation Kemin Europa NV) (Text with EEA relevance. )"
+identifier: "32017R0963"
+eli: "http://data.europa.eu/eli/reg_impl/2017/963/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2017-06-07
+entry_into_force: 2018-01-04
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0963"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2017/963 of 7 June 2017 concerning the authorisation of the preparation of endo-1,3(4)-beta-glucanase produced by Aspergillus aculeatinus (formerly classified as Aspergillus aculeatus) (CBS 589.94), endo-1,4-beta-glucanase produced by Trichoderma reesei (formerly classified as Trichoderma longibrachiatum) (CBS 592.94), alpha-amylase produced by Bacillus amyloliquefaciens (DSM 9553), endo-1,4-beta-xylanase produced by Trichoderma viride (NIBH FERM BP4842) and bacillolysin produced by Bacillus amyloliquefaciens (DSM 9554) as a feed additive for all avian species and weaned piglets and amending Regulations (EC) No 358/2005 and (EU) No 1270/2009 (holder of the authorisation Kemin Europa NV) (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2017/963**
+
+**of 7 June 2017**
+
+**concerning the authorisation of the preparation of endo-1,3(4)-beta-glucanase produced by Aspergillus aculeatinus (formerly classified as Aspergillus aculeatus) (CBS 589.94), endo-1,4-beta-glucanase produced by Trichoderma reesei (formerly classified as Trichoderma longibrachiatum) (CBS 592.94), alpha-amylase produced by Bacillus amyloliquefaciens (DSM 9553), endo-1,4-beta-xylanase produced by Trichoderma viride (NIBH FERM BP4842) and bacillolysin produced by Bacillus amyloliquefaciens (DSM 9554) as a feed additive for all avian species and weaned piglets and amending Regulations (EC) No 358/2005 and (EU) No 1270/2009 (holder of the authorisation Kemin Europa NV)**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (1), and in particular Articles 9(2) thereof,
+
+Whereas:
+
+(1) Regulation (EC) No 1831/2003 provides for the authorisation of additives for use in animal nutrition and for the grounds and procedures for granting such authorisation. Article 10 of that Regulation provides for the re-evaluation of additives authorised pursuant to Council Directive 70/524/EEC (2).
+
+(2) The preparation of endo-1,3(4)-beta-glucanase produced by Aspergillus aculeatinus (formerly classified as Aspergillus aculeatus) (CBS 589.94), endo-1,4-beta-glucanase produced by Trichoderma reesei (formerly classified as Trichoderma longibrachiatum) (CBS 592.94), alpha-amylase produced by Bacillus amyloliquefaciens (DSM 9553), endo-1,4-beta-xylanase produced by Trichoderma viride (NIBH FERM BP4842) and bacillolysin produced by Bacillus amyloliquefaciens (DSM 9554) was authorised without a time limit in accordance with Directive 70/524/EEC as a feed additive for chickens for fattening by Commission Regulation (EC) No 358/2005 (3), for turkeys for fattening and weaned piglets by Commission Regulation (EU) No 1270/2009 (4). That preparation was subsequently entered in the Register of feed additives as an existing product, in accordance with Article 10(1) of Regulation (EC) No 1831/2003.
+
+(3) In accordance with Article 10(2) of Regulation (EC) No 1831/2003 in conjunction with Article 7 of that Regulation, an application was submitted for the re-evaluation of the preparation of endo-1,3(4)-beta-glucanase produced by Aspergillus aculeatinus (formerly classified as Aspergillus aculeatus) (CBS 589.94), endo-1,4-beta-glucanase produced by Trichoderma reesei (formerly classified as Trichoderma longibrachiatum) (CBS 592.94), alpha-amylase produced by Bacillus amyloliquefaciens (DSM 9553), endo-1,4-beta-xylanase produced by Trichoderma viride (NIBH FERM BP4842) and bacillolysin produced by Bacillus amyloliquefaciens (DSM 9554) as a feed additive for chickens for fattening, turkeys for fattening and for weaned piglets and, in accordance with Article 7 of that Regulation, for a new authorisation as a feed additive for all avian species. The applicant requested that additive to be classified in the additive category ‘zootechnical additives’. That application was accompanied by the particulars and documents required under Article 7(3) of Regulation (EC) No 1831/2003.
+
+(4) The European Food Safety Authority (‘the Authority’) concluded in its opinion of 9 September 2015 (5) that, under the proposed conditions of use, it does not have an adverse effect on animal health, human health or the environment. The Authority also concluded that the use of that preparation has the potential to be efficacious in chickens for fattening, turkeys for fattening and in laying hens (6). It was considered that those conclusions can be extended to chickens reared for laying and turkeys reared for breeding. The Authority further considered that the mode of action of the enzymes present in the additive can be considered to be similar in all avian species, therefore the conclusions on the efficacy in major poultry species can be extrapolated to minor poultry species and ornamental birds.
+
+(5) Concerning the use of the additive on weaned piglets, the Authority could not conclude on the efficacy of the additive in weaned piglets owing to lack of data. There was however a significantly higher weight gain and better feed to gain ratio than the controls in one study and in a second one, the results showed an improvement in the average daily weight gain of females, although this was not seen in males. These evidences have been judged a substantial indication of the improvement of zootechnical parameters of weight gain in addition to the long history of use. Therefore it was considered that the provided data meets the conditions for the demonstration of the efficacy of the additive for weaned piglets.
+
+(6) The Authority does not consider that there is a need for specific requirements of post-market monitoring. It also verified the report on the method of analysis of the feed additive in feed submitted by the Reference Laboratory set up by Regulation (EC) No 1831/2003.
+
+(7) The assessment of the preparation endo-1,3(4)-beta-glucanase produced by Aspergillus aculeatinus (formerly classified as Aspergillus aculeatus) (CBS 589.94), endo-1,4-beta-glucanase produced by Trichoderma reesei (formerly classified as Trichoderma longibrachiatum) (CBS 592.94), alpha-amylase produced by Bacillus amyloliquefaciens (DSM 9553), endo-1,4-beta-xylanase produced by Trichoderma viride (NIBH FERM BP4842) and bacillolysin produced by Bacillus amyloliquefaciens (DSM 9554) shows that the conditions for authorisation, as provided for in Article 5 of Regulation (EC) No 1831/2003, are satisfied. Accordingly, the use of that preparation should be authorised as specified in the Annex to this Regulation.
+
+(8) Regulations (EC) No 358/2005 and (EU) No 1270/2009 should be amended accordingly.
+
+(9) Since safety reasons do not require the immediate application of the modifications to the conditions of authorisation, it is appropriate to allow a transitional period for interested parties to prepare themselves to meet the new requirements resulting from the authorisation.
+
+(10) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Authorisation
+
+The preparation specified in the Annex, belonging to the additive category ‘zootechnical additives’ and to the functional group ‘digestibility enhancers’, is authorised as an additive in animal nutrition, subject to the conditions laid down in that Annex.
+
+## Article 2 — Amendments to Regulation (EC) No 358/2005
+
+In Annex I to Regulation (EC) No 358/2005 entry E 1620 on endo-1,3(4)-beta-glucanase EC 3.2.1.6, endo-1,4-beta-glucanase EC 3.2.1.4, alpha-amylase EC 3.2.1.1, bacillolysin EC 3.4.24.28 and endo-1,4-beta-xylanase EC 3.2.1.8 is deleted.
+
+## Article 3 — Amendment to Regulation (EU) No 1270/2009
+
+Regulation (EC) No 1270/2009 is amended as follows:
+
+(1) Article 2 is deleted.
+
+(2) Annex II is deleted.
+
+## Article 4 — Transitional measures
+
+The preparation specified in the Annex, and feed containing that preparation, which are produced and labelled before 28 December 2017 in accordance with the rules applicable before 28 June 2017 may continue to be placed on the market and used until the existing stocks are exhausted.
+
+## Article 5 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 7 June 2017.
+
+For the Commission
+
+The President
+
+Jean-Claude JUNCKER
+
+(1) OJ L 268, 18.10.2003, p. 29.
+
+(2) Council Directive 70/524/EEC of 23 November 1970 concerning additives in feedingstuffs (OJ L 270, 14.12.1970, p. 1).
+
+(3) Commission Regulation (EC) No 358/2005 of 2 March 2005 concerning the authorisations without a time limit of certain additives and the authorisation of new uses of additives already authorised in feedingstuffs (OJ L 57, 3.3.2005, p. 3).
+
+(4) Commission Regulation (EU) No 1270/2009 of 21 December 2009 concerning the permanent authorisations of certain additives in feedingstuffs (OJ L 339, 22.12.2009, p. 28).
+
+(5) EFSA Journal 2015; 13(9):4234.
+
+(6) Owing to lack of adequate data on enzyme recovery, the efficacy studies could not reach conclusions on efficacy at the recommended dose but were instead based on calculations and refer only to the nominal dose.
+
+## ANNEX
+
+<table>
+<tbody><tr><td rowspan="2">Identification number of the additive</td><td rowspan="2">Name of the holder of authorisation</td><td rowspan="2">Additive</td><td rowspan="2">Composition, chemical formula, description, analytical method</td><td rowspan="2">Species or category of animal</td><td rowspan="2">Maximum age</td><td>Minimum content</td><td>Maximum content</td><td rowspan="2">Other provisions</td><td rowspan="2">End of period of authorisation</td></tr>
+<tr><td colspan="2">Units of activity/kg of complete feedingstuff with a moisture content of 12 %</td></tr>
+<tr><td colspan="10">Category of zootechnical additives. Functional group: digestibility enhancers</td></tr>
+<tr></tr>
+<tr><td>4a1620i</td><td>Kemin Europa NV</td><td>Endo-1,3(4)-beta-glucanase EC 3.2.1.6  Endo-1,4-beta-glucanase  EC 3.2.1.4  Alpha-amylase  EC 3.2.1.1  Endo-1,4-beta-xylanase EC 3.2.1.8  Bacillolysin  EC 3.4.24.28 </td><td>Additive composition Preparation of: <table><tbody><tr><td>—</td><td>endo-1,3(4)-beta-glucanase produced by Aspergillus aculeatinus (formerly classified as Aspergillus aculeatus) (CBS 589.94),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>endo-1,4-beta-glucanase produced by Trichoderma reesei (formerly classified as Trichoderma longibrachiatum) (CBS 592.94),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>alpha-amylase produced by Bacillus amyloliquefaciens (DSM 9553),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>endo-1,4-beta-xylanase produced by Trichoderma viride (NIBH FERM BP4842),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>bacillolysin produced by Bacillus amyloliquefaciens (DSM 9554) having a minimum activity of:</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Endo-1,3(4)-beta-glucanase: 2 350 U (1)/g,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Endo-1,4-beta-glucanase: 18 000 U (2)/g,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>alpha-amylase: 400 U (3)/g,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>Endo-1,4-beta-xylanase: 35 000 U (4)/g,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>bacillolysin 1 700 U (5)/g</td></tr>
+</tbody>
+</table>
+ Solid form  Characterisation of the active substance <table><tbody><tr><td>—</td><td>endo-1,3(4)-beta-glucanase produced by Aspergillus aculeatinus (CBS 589.94),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>endo-1,4-beta-glucanase produced by Trichoderma reesei (CBS 592.94),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>alpha-amylase produced by Bacillus amyloliquefaciens (DSM 9553),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>endo-1,4-beta-xylanase produced by Trichoderma viride (NIBH FERM BP4842),</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>bacillolysin produced by Bacillus amyloliquefaciens (DSM 9554).</td></tr>
+</tbody>
+</table>
+</td><td>Chickens for fattening Chickens reared for laying  Minor avian species for laying  Minor avian species reared for laying  Ornamental birds  Piglets (weaned) </td><td>—</td><td>Endo-1,3(4)-beta-glucanase 1 175 U  Endo-1,4-beta-glucanase  9 000 U  Alpha-amylase  200 U  Endo-1,4-beta-xylanase  17 500 U  Bacillolysin  850 U </td><td>—</td><td><table><tbody><tr><td>1.</td><td>In the directions for use of the additive and premixtures, the storage conditions and stability to heat treatment shall be indicated.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>For use in weaned piglets up to 35 kg of body weight.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>For users of the additive and premixtures, feed business operators shall establish operational procedures and organisational measures to address potential risks resulting from its use. Where those risks cannot be eliminated or reduced to a minimum by such procedures and measures, the additive and premixtures shall be used with personal protective equipment, including breathing protection and skin protection.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>4.</td><td>Recommended use level in laying hens: endo-1,3(4)- beta glucanase: 1 175 U; endo-1,4-beta-glucanase: 9 000 U; alpha-amylase: 200 U; endo-1,4-beta-xylanase: 17 500 U; bacillolysin: 850 U/kg of complete feed.</td></tr>
+</tbody>
+</table>
+</td><td>28 June 2027</td></tr>
+<tr><td></td><td></td><td></td><td>Analytical method (6) For the determination in feed additive of: <table><tbody><tr><td>—</td><td>endo-1,3(4)-beta-glucanase in the feed additives: colorimetric method based on the enzymatic hydrolysis of glucanase on the barley beta-glucan substrate at pH 7,5 and 30 °C,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>endo-1,4-beta-glucanase in the feed additives: colorimetric method based on the enzymatic hydrolysis of cellulase on the carboxymethylcellulose at pH 4,8 and 50 °C,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>alpha-amylase in the feed additives: colorimetric method based on the formation of water soluble dyed fragments produced by the action of amylase on azurine cross-linked starch polymer substrates at pH 7,5 and 37 °C,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>endo-1,4-beta-xylanase in the feed additives: colorimetric method based on the enzymatic hydrolysis of xylanase on the birchwood xylane substrate at pH 5,3 and 50 °C,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>bacillolysin: colorimetric method based on the release of azo-dye resulting from the action of protease on the azo-casein substrate at pH 7,5 and 37 °C.</td></tr>
+</tbody>
+</table>
+ For the determination in premixtures and feedingstuffs of: <table><tbody><tr><td>—</td><td>endo-1,3(4)-beta-glucanase: plate test method based on the glucanase diffusion and the subsequent decolouring of the red agar medium due to the beta-glucan hydrolysis,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>endo-1,4-beta-glucanase: colorimetric method based on the quantification of the water soluble dye fragments produced by the action of cellulase on azurine cross-linked water insoluble HE-cellulose substrate,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>alpha-amylase: colorimetric method based on the formation of water soluble blue fragments produced by the action of amylase on azurine cross-linked insoluble blue-coloured starch polymer substrates,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>endo-1,4-beta-xylanase: colorimetric method based on the quantification of water soluble dyed fragments produced by the action of xylanase on azurine cross-linked wheat arabinoxylan,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>bacillolysin: test plate method based on the diffusion of protease in the azo-casein agar medium and the subsequent hydrolysis of casein.</td></tr>
+</tbody>
+</table>
+</td><td>All Turkeys Laying hens  Minor avian species for fattening </td><td></td><td>Endo-1,3(4)beta-glucanase 588 U  Endo-1,4-beta-glucanase  4 500 U  Alpha-amylase  100 U  Endo-1,4-beta-xylanase  8 750 U  Bacillolysin  425 U </td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+(1) 1 U is the amount of enzyme which liberates 0,0056 micromoles of reducing sugars (glucose equivalents) from barley beta-glucan per minute at pH 7,5 and 30 °C.
+
+(2) 1 U is the amount of enzyme which liberates 0,0056 micromoles of reducing sugars (glucose equivalents) from carboxymethylcellulose per minute at pH 4,8 and 50 °C.
+
+(3) 1 U is the amount of enzyme which hydrolyses 1 micromole of glycosidic linkages from water insoluble cross-linked starch polymer per minute at pH 7,5 and 37 °C.
+
+(4) 1 U is the amount of enzyme which liberates 0,0067 micromoles of reducing sugars (xylose equivalents) from birchwood xylan per minute at pH 5,3 and 50 °C.
+
+(5) 1 U is the amount of enzyme which solubilises one microgram of azo-casein substrate per minute at pH 7,5 and 37 °C.
+
+(6) Details of the analytical methods are available at the following address of the Reference Laboratory: https://ec.europa.eu/jrc/en/eurl/feed-additives/evaluation-reports

@@ -1,0 +1,3462 @@
+---
+title: "Council Regulation (EU) 2017/1509 of 30 August 2017 concerning restrictive measures against the Democratic People's Republic of Korea and repealing Regulation (EC) No 329/2007"
+identifier: "32017R1509"
+eli: "http://data.europa.eu/eli/reg/2017/1509/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2017-08-30
+entry_into_force: 2017-12-15
+last_amended: 2025-12-17
+consolidated_version: "02017R1509-20251217"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R1509-20251217"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2017/1509 of 30 August 2017 concerning restrictive measures against the Democratic People's Republic of Korea and repealing Regulation (EC) No 329/2007
+
+**COUNCIL REGULATION (EU) 2017/1509**
+
+**of 30 August 2017**
+
+**concerning restrictive measures against the Democratic People's Republic of Korea and repealing Regulation (EC) No 329/2007**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2017/1548 of 14 September 2017 </td><td> L 237</td><td>39</td><td>15.9.2017</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/1568 of 15 September 2017 </td><td> L 238</td><td>10</td><td>16.9.2017</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2017/1836 of 10 October 2017 </td><td> L 261</td><td>1</td><td>11.10.2017</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2017/1858 of 16 October 2017 </td><td> L 265I</td><td>1</td><td>16.10.2017</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/1859 of 16 October 2017 </td><td> L 265I</td><td>5</td><td>16.10.2017</td></tr>
+<tr><td> M6</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/1897 of 18 October 2017 </td><td> L 269</td><td>1</td><td>19.10.2017</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2017/2062 of 13 November 2017 </td><td> L 295</td><td>4</td><td>14.11.2017</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/12 of 8 January 2018 </td><td> L 4</td><td>1</td><td>9.1.2018</td></tr>
+<tr><td> M9</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/53 of 12 January 2018 </td><td> L 10</td><td>1</td><td>13.1.2018</td></tr>
+<tr><td> M10</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/87 of 22 January 2018 </td><td> L 16I</td><td>1</td><td>22.1.2018</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2018/285 of 26 February 2018 </td><td> L 55</td><td>1</td><td>27.2.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/286 of 26 February 2018 </td><td> L 55</td><td>15</td><td>27.2.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/324 of 5 March 2018 </td><td> L 63</td><td>1</td><td>6.3.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/548 of 6 April 2018 </td><td> L 91</td><td>2</td><td>9.4.2018</td></tr>
+<tr><td> M15</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/602 of 19 April 2018 </td><td> L 101</td><td>16</td><td>20.4.2018</td></tr>
+<tr><td> M16</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/714 of 14 May 2018 </td><td> L 120</td><td>1</td><td>16.5.2018</td></tr>
+<tr><td> M17</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/814 of 1 June 2018 </td><td> L 137</td><td>1</td><td>4.6.2018</td></tr>
+<tr><td> M18</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1009 of 17 July 2018 </td><td> L 181</td><td>1</td><td>18.7.2018</td></tr>
+<tr><td> M19</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1074 of 30 July 2018 </td><td> L 194</td><td>32</td><td>31.7.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1231 of 13 September 2018 </td><td> L 231</td><td>11</td><td>14.9.2018</td></tr>
+<tr><td> M21</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1284 of 24 September 2018 </td><td> L 240</td><td>2</td><td>25.9.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1606 of 25 October 2018 </td><td> L 268</td><td>20</td><td>26.10.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1654 of 6 November 2018 </td><td> L 276</td><td>3</td><td>7.11.2018</td></tr>
+<tr><td> M24</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/93 of 21 January 2019 </td><td> L 19</td><td>3</td><td>22.1.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1083 of 21 June 2019 </td><td> L 171</td><td>8</td><td>26.6.2019</td></tr>
+<tr><td> M26</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/1207 of 15 July 2019 </td><td> L 191</td><td>1</td><td>17.7.2019</td></tr>
+<tr><td> M28</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/730 of 2 June 2020 </td><td> L 172I</td><td>1</td><td>3.6.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1129 of 30 July 2020 </td><td> L 247</td><td>5</td><td>31.7.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/1300 of 5 August 2021 </td><td> L 283</td><td>1</td><td>6.8.2021</td></tr>
+<tr><td> M31</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/659 of 21 April 2022 </td><td> L 120</td><td>5</td><td>21.4.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/1331 of 28 July 2022 </td><td> L 201</td><td>5</td><td>1.8.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/1503 of 9 September 2022 </td><td> L 235</td><td>6</td><td>12.9.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/2180 of 8 November 2022 </td><td> L 288</td><td>5</td><td>9.11.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/2429 of 12 December 2022 </td><td> L 318I</td><td>13</td><td>12.12.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/720 of 31 March 2023 </td><td> L 94</td><td>1</td><td>3.4.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/2576 of 13 November 2023 </td><td> L 2576</td><td>1</td><td>14.11.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1602 of 31 May 2024 </td><td> L 1602</td><td>1</td><td>31.5.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2070 of 26 July 2024 </td><td> L 2070</td><td>1</td><td>29.7.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/3152 of 16 December 2024 </td><td> L 3152</td><td>1</td><td>16.12.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/2558 of 15 December 2025 </td><td> L 2558</td><td>1</td><td>16.12.2025</td></tr>
+</table>
+
+C1
+
+C2
+
+C4
+
+C6
+
+**COUNCIL REGULATION (EU) 2017/1509**
+
+**of 30 August 2017**
+
+**concerning restrictive measures against the Democratic People's Republic of Korea and repealing Regulation (EC) No 329/2007**
+
+## CHAPTER I — Definitions
+
+### Article 1
+
+This Regulation shall apply:
+
+(a) within the territory of the Union;
+
+(b) on board any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+### Article 2
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘branch’ of a financial or credit institution means a place of business which forms a legally dependent part of a financial or credit institution and which carries out directly all or some of the transactions inherent in the business of financial or credit institutions;
+
+(2) ‘brokering services’ means:
+
+(a) the negotiation or arrangement of transactions for the purchase, sale or supply of goods and technology or of financial and technical services, including from a third country to any other third country; or
+
+(b) the selling or buying of goods and technology or of financial and technical services, including where they are located in third countries for their transfer to another third country;
+
+(3) ‘claim’ means any claim, whether asserted by legal proceedings or not under or in connection with a contract or transaction, and includes in particular:
+
+(a) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(b) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(c) a claim for compensation in respect of a contract or transaction;
+
+(d) a counterclaim;
+
+(e) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(4) ‘competent authorities’ refers to the competent authorities as identified on the websites listed in Annex I;
+
+(5) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(6) ‘credit institution’ means a credit institution as defined in point (1) of Article 4(1) of Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 1 ), including branches thereof, as defined in point (17) of Article 4(1) of that Regulation, located in the Union, whether its head office is situated within the Union or in a third country;
+
+(7) ‘diplomatic missions, consular posts and their members’ has the same meaning as in the 1961 Vienna Convention on Diplomatic Relations and the 1963 Vienna Convention on Consular Relations, and also includes missions of the DPRK to international organisations hosted in the Member States and DPRK members of those missions;
+
+(8) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, actual or potential, which are not funds but can be used to obtain funds, goods or services, including vessels, such as maritime vessels;
+
+(9) ‘financial institution’ means
+
+(a) an undertaking, other than a credit institution, which carries out one or more of the activities listed in points (2) to (12), (14) and (15) of Annex I to Directive 2013/36/EU of the European Parliament and of the Council ( 2 ), including the activities of currency exchange offices (bureaux de change);
+
+(b) an insurance undertaking as defined in point (1) of Article 13 of Directive 2009/138/EC of the European Parliament and of the Council ( 3 ), insofar as it carries out life assurance activities covered by that Directive;
+
+(c) an investment firm as defined in point (1) of Article 4(1) of Directive 2004/39/EC of the European Parliament and of the Council ( 4 );
+
+(d) a collective investment undertaking marketing its units or shares;
+
+(e) an insurance intermediary as defined in point (5) of Article 2 of Directive 2002/92/EC of the European Parliament and of the Council ( 5 ) where it acts with respect to life insurance and other investment-related services, with the exception of a tied insurance intermediary as defined in point (7) of that Article;
+
+(f) branches, when located in the Union, of financial institutions as referred to in points (a) to (e), whether their head office is situated in a Member State or in a third country;
+
+(10) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(11) ‘freezing of funds’ means preventing any moving, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the use of the funds, including portfolio management;
+
+(12) ‘funds’ means financial assets and benefits of every kind, including but not limited to:
+
+(a) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(b) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(c) publicly and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(d) interest, dividends or other income on or value accruing from or generated by assets;
+
+(e) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(f) letters of credit, bills of lading, bills of sale;
+
+(g) documents evidencing an interest in funds or financial resources;
+
+(13) ‘insurance’ means an undertaking or commitment whereby one or more natural or legal persons are obliged, in return for a payment, to provide one or more other persons, in the event of the materialisation of a risk, with an indemnity or a benefit as determined by the undertaking or commitment;
+
+(14) ‘investment services’ means the following services and activities:
+
+(a) reception and transmission of orders in relation to one or more financial instruments;
+
+(b) execution of orders on behalf of clients;
+
+(c) dealing on own account;
+
+(d) portfolio management;
+
+(e) investment advice;
+
+(f) underwriting of financial instruments and/or placing of financial instruments on a firm-commitment basis;
+
+(g) placing of financial instruments without a firm-commitment basis;
+
+(h) any service in relation to the admission to trading on a regulated market or trading on a multilateral trading facility;
+
+(15) ‘payee’ means a natural or legal person who is the intended recipient of the transfer of funds;
+
+(16) ‘payer’ means a person who holds a payment account and allows a transfer of funds from that payment account, or, where there is no payment account, that gives a transfer-of-funds order;
+
+(17) ‘payment service provider’ means the categories of payment service provider referred to in Article 1(1) of Directive 2007/64/EC of the European Parliament and of the Council ( 6 ), natural or legal persons benefiting from a waiver pursuant to Article 26 of Directive 2007/64/EC and legal persons benefiting from a waiver pursuant to Article 9 of Directive 2009/110/EC of the European Parliament and of the Council ( 7 ), providing transfer-of-funds services;
+
+(18) ‘reinsurance’ means the activity consisting in accepting risks ceded by an insurance undertaking or by another reinsurance undertaking or, in the case of the association of underwriters known as Lloyd's, the activity consisting in accepting risks, ceded by any member of Lloyd's, by an insurance or reinsurance undertaking other than the association of underwriters known as Lloyd's;
+
+(19) ‘services incidental to’ means services rendered on a fee or contract basis by units mainly engaged in the production of transportable goods, as well as services typically related to the production of such goods;
+
+(20) ‘shipowner’ means the registered owner of a seagoing ship, or any other person such as the bareboat charterer who is responsible for the operation of the ship;
+
+(21) ‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, advice, training, transmission of working knowledge or skills or consulting services; including verbal forms of assistance;
+
+(22) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace;
+
+(23) ‘transfer of funds’ means:
+
+(a) any transaction at least partially carried out by electronic means on behalf of a payer through a payment service provider, with a view to making funds available to a payee through a payment service provider, irrespective of whether the payer and the payee are the same person and irrespective of whether the payment service provider of the payer and that of the payee are one and the same, including:
+
+(i) a credit transfer as defined in point (1) of Article 2 of Regulation (EU) No 260/2012 of the European Parliament and of the Council ( 8 );
+
+(ii) a direct debit as defined in point (2) of Article 2 of Regulation (EU) No 260/2012;
+
+(iii) a money remittance as defined in point (13) of Article 4 of Directive 2007/64/EC, whether national or cross border;
+
+(iv) a transfer carried out using a payment card, an electronic money instrument, or a mobile phone, or any other digital or IT prepaid or postpaid device with similar characteristics; and
+
+(b) any transaction by non-electronic means, such as in cash, cheques or accountancy orders, with a view to making funds available to a payee irrespective of whether the payer and the payee are the same person.
+
+(24) ‘a vessel crewed by the DPRK’ means:
+
+(a) a vessel whose manning is controlled by:
+
+(i) a natural person of DPRK nationality; or
+
+(ii) a legal person, entity or body incorporated or constituted under the law of the DPRK;
+
+(b) a vessel entirely manned by DPRK nationals.
+
+## CHAPTER II — Export and import restrictions
+
+### Article 3
+
+1\. It shall be prohibited:
+
+(a) to sell, supply, transfer or export, directly or indirectly, the goods and technology, including software, listed in Annex II, whether or not originating in the Union, to any natural or legal person, entity or body in, or for use in the DPRK;
+
+(b) to sell, supply, transfer or export aviation fuel, directly or indirectly, as listed in Annex III to the DPRK or transport to DPRK aviation fuel on board the flag vessels or aircraft of Member States, whether or not originating in the territories of Member States;
+
+(c) to import, purchase or transfer, directly or indirectly, the goods and technology listed in Annex II from the DPRK, whether or not originating in the DPRK;
+
+(d) to import, purchase or transfer, directly or indirectly, gold, titanium ore, vanadium ore and rare-earth minerals, as listed in Annex IV, from the DPRK, whether or not originating in the DPRK;
+
+(e) to import, purchase or transfer, directly or indirectly, coal, iron and iron ore, as listed in Annex V, from the DPRK, whether or not originating in the DPRK;
+
+(f) to import, purchase or transfer, directly or indirectly, from DPRK petroleum products, as listed in Annex VI, whether or not originating in the DPRK; and
+
+(g) to import, purchase or transfer, directly or indirectly, copper, nickel, silver and zinc, as listed in Annex VII, from the DPRK, whether or not originating in the DPRK;
+
+2\. Part I of Annex II shall include all items, materials, equipment, goods and technology, including software, which are dual-use items or technology as defined in Annex I to Council Regulation (EC) No 428/2009 ( 9 ).
+
+Part II of Annex II shall include other items, materials, equipment, goods and technology which could contribute to the DPRK's nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.
+
+Part III of Annex II shall include certain key components for the ballistic-missile sector.
+
+Part IV of Annex II shall include weapons of mass destruction-related items, materials, equipment, goods and technology designated, pursuant to paragraph 25 of UNSCR 2270 (2016).
+
+Part V of Annex II shall include weapons of mass destruction-related items, materials, equipment, goods and technology designated, pursuant to paragraph 4 of UNSCR 2321 (2016).
+
+Part VI of Annex II shall include weapons of mass destruction-related items, materials, equipment, goods and technology designated pursuant to paragraph 4 of UNSCR 2371 (2017).
+
+Part VII of Annex II shall include conventional arms-related items, materials, equipment, goods and technology designated, pursuant to paragraph 5 of UNSCR 2371 (2017).
+
+Part VIII of Annex II shall include weapons of mass destruction-related items, materials, equipment, goods and technology designated, pursuant to paragraph 4 of UNSCR 2375 (2017).
+
+Part IX of Annex II shall include conventional arms-related items, materials, equipment, goods and technology designated, pursuant to paragraph 5 of UNSCR 2375 (2017).
+
+Annex III shall include the aviation fuel referred to in point (b) of paragraph 1.
+
+Annex IV shall include the gold, titanium ore, vanadium ore and rare-earth minerals, referred to in point (d) of paragraph 1.
+
+Annex V shall include the coal, iron and iron ore, referred to in point (e) of paragraph 1.
+
+Annex VI shall include the petroleum products referred to in point (f) of paragraph 1.
+
+Annex VII shall include the copper, nickel, silver and zinc, referred to in point (g) of paragraph 1.
+
+3\. The prohibition referred to in point (b) of paragraph 1 shall not apply with respect to the sale or supply of aviation fuel to civilian passenger aircraft outside the DPRK exclusively for consumption during their flight to the DPRK and their return to the airport of origin.
+
+### Article 4
+
+1\. By way of derogation from point (b) of Article 3(1), the competent authorities of the Member States may authorise the sale, supply or transfer of aviation fuel, provided that the Member State has obtained the advance approval of the Sanctions Committee on an exceptional case-by-case basis for the transfer to the DPRK of such products for verified essential humanitarian needs and subject to specified arrangements for effective monitoring of delivery and use.
+
+2\. By way of derogation from point (e) of Article 3(1), the competent authorities of the Member States may authorise the import, purchase or transfer of coal provided that the competent authorities of the Member States have determined on the basis of credible information that the shipment originated outside of the DPRK and was transported through the DPRK solely for export from the Port of Rajin (Rason), that the exporting state has notified the Sanctions Committee in advance of such transactions, and that the transactions are unrelated to generating revenue for the DPRK's nuclear or ballistic missile programmes and other activities prohibited by UNSCRs 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017) or 2371 (2017), or by this Regulation.
+
+3\. The Member State concerned shall notify the other Member States and the Commission of any authorisation granted pursuant to paragraphs 1 and 2.
+
+### Article 5
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, to the DPRK any item, except food or medicine, if the exporter knows or has reasonable grounds to believe that:
+
+(a) the item is destined directly or indirectly for the DPRK's armed forces; or
+
+(b) the export of the item could support or enhance the operational capabilities of the armed forces of a State other than the DPRK.
+
+2\. It shall be prohibited to import, purchase or transport from DPRK items referred to in paragraph 1 if the importer or transporter knows or has reasonable grounds to believe that one of the grounds in point (a) or (b) of paragraph 1 is met.
+
+### Article 6
+
+1\. By way of derogation from Article 5, the competent authorities of the Member States may authorise the sale, supply, transfer or export of an item to the DPRK, or the import, purchase or transport of an item from the DPRK, where:
+
+(a) the item does not relate to the production, development, maintenance or use of military goods, or development or the maintenance of military personnel, and the competent authority has determined that the item would not directly contribute to the development of the operational capabilities of the DPRK's armed forces or to exports that support or enhance the operational capabilities of armed forces of a third country other than the DPRK;
+
+(b) the Sanctions Committee has determined that a particular supply, sale or transfer would not be contrary to the objectives of UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) or 2321 (2016); or
+
+(c) the competent authority of the Member State is satisfied that the activity is exclusively for either humanitarian or livelihood purposes which will not be used by DPRK persons, entities or bodies to generate revenue, and is not related to any activity prohibited by UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016) or 2321 (2016), provided that the Member State notifies the Sanctions Committee in advance of such a determination and informs the Sanctions Committee of measures taken to prevent the diversion of the item for any prohibited purpose.
+
+2\. The Member State concerned shall notify the other Member States and the Commission of its intention to grant an authorisation under this Article at least one week prior to granting the authorisation.
+
+### Article 7
+
+1\. It shall be prohibited:
+
+(a) to provide, directly or indirectly, technical assistance and brokering services related to goods and technology listed in the EU Common List of Military Equipment or in Annex II, and related to the provision, manufacture, maintenance and use of goods listed in the EU Common List of Military Equipment or in Annex II, to any natural or legal person, entity or body in, or for use in the DPRK;
+
+(b) to provide, directly or indirectly, financing or financial assistance related to goods and technology listed in the EU Common List of Military Equipment or in Annex II, including in particular grants, loans and export credit insurance, as well as insurance and reinsurance, for any sale, supply, transfer or export of such items, or for any provision of related technical assistance to any natural or legal person, entity or body in, or for use in the DPRK;
+
+(c) to obtain, directly or indirectly, technical assistance related to goods and technology listed in the EU Common List of Military Equipment or in Annex II, and to the provision, manufacture, maintenance and use of goods listed in the EU Common List of Military Equipment or in Annex II from any natural or legal person, entity or body in, or for use in the DPRK;
+
+(d) to obtain, directly or indirectly, financing or financial assistance related to goods and technology listed in the EU Common List of Military Equipment or in Annex II, including in particular grants, loans and export credit insurance, for any sale, supply, transfer or export of such items, or for any provision of related technical assistance from any natural or legal person, entity or body in, or for use in, the DPRK.
+
+2\. The prohibitions set out in paragraph 1 shall not apply to non-combat vehicles which have been manufactured or fitted with materials to provide ballistic protection, intended solely for protective use of personnel of the Union and its Member States in the DPRK.
+
+### Article 8
+
+1\. By way of derogation from Article 3(1) and Article 7(1), the competent authorities of the Member States may authorise, under the terms and conditions they deem appropriate, the direct or indirect supply, sale, transfer or export of the items and technology, including software, referred to in point (a) and (b) of Article 3(1) or the assistance or brokering services referred to in Article 7(1), provided that the goods and technology, assistance or brokering services are for food, agricultural, medical or other humanitarian purposes.
+
+2\. By way of derogation from point (a) of Article 3(1) and points (a) and (b) of Article 7(1), the competent authorities of the Member States may authorise the transactions referred to therein under the conditions they deem appropriate and provided that the UNSC has approved the request.
+
+3\. The Member State concerned shall notify the other Member States and the Commission of any request for approval which it has submitted to the UNSC pursuant to paragraph 3.
+
+4\. The Member State concerned shall notify the other Member States and the Commission within four weeks of authorisations granted pursuant to this Article.
+
+### Article 9
+
+1\. In addition to the obligation to provide the competent customs authorities with the pre-arrival and pre-departure information as determined in the relevant provisions concerning entry and exit summary declarations as well as customs declarations in Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 10 ), in Commission Delegated Regulation (EU) 2015/2446 ( 11 ) and in Commission Implementing Regulation (EU) 2015/2447 ( 12 ), the person who provides the information referred to in paragraph 2 shall declare whether the goods are covered by the EU Common List of Military Equipment or by this Regulation and, where their export is subject to authorisation, specify the goods and technology covered by the export licence granted.
+
+2\. The required additional information shall be submitted using an electronic customs declaration or, in the absence of such a declaration, in any other electronic or written form, as appropriate.
+
+### Article 10
+
+1\. It shall be prohibited:
+
+(a) to sell, supply, transfer or export, directly or indirectly, luxury goods as listed in Annex VIII, to the DPRK;
+
+(b) to import, purchase or transfer from the DPRK, directly or indirectly, luxury goods, as listed in Annex VIII, whether or not originating in the DPRK.
+
+2\. The prohibition referred to in point (b) of paragraph 1 shall not apply to travellers' personal effects or to goods of a non-commercial nature for travellers' personal use contained in their luggage.
+
+3\. The prohibitions referred to in paragraph 1 shall not apply to goods which are necessary for the official purposes of diplomatic or consular missions of Member States in the DPRK or of international organisations enjoying immunities in accordance with international law, or to the personal effects of their staff.
+
+4\. The competent authorities of the Member States may authorise, under the conditions they deem appropriate, a transaction with regard to goods referred to in point (17) of Annex VIII, provided that the goods are for humanitarian purposes.
+
+### Article 11
+
+It shall be prohibited:
+
+(a) to sell, supply, transfer or export, directly or indirectly, gold, precious metals and diamonds as listed in Annex IX, whether or not originating in the Union, to or for the Government of the DPRK, its public bodies, corporations and agencies, the Central Bank of the DPRK and any person, entity or body acting on their behalf or at their direction, or any entity or body owned or controlled by them;
+
+(b) to import, purchase or transport, directly or indirectly, gold, precious metals and diamonds, as listed in Annex IX, whether or not originating in the DPRK, from the Government of the DPRK, its public bodies, corporations and agencies, the Central Bank of the DPRK and any person, entity or body acting on their behalf or at their direction, or any entity or body owned or controlled by them;
+
+(c) to provide, directly or indirectly, technical assistance or brokering services, financing or financial assistance, related to the goods referred to in points (a) and (b), to the Government of the DPRK, its public bodies, corporations and agencies, the Central Bank of the DPRK and any person, entity or body acting on their behalf or at their direction, or any entity or body owned or controlled by them.
+
+### Article 12
+
+It shall be prohibited to sell, supply, transfer or export, directly or indirectly, newly printed or unissued DPRK denominated banknotes and minted coinage, to or for the benefit of the Central Bank of DPRK.
+
+### Article 13
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, statues as listed in Annex X, from DPRK whether or not originating in the DPRK.
+
+### Article 14
+
+By way of derogation from the prohibition in Article 13, the competent authorities of the Member States may authorise the import, purchase or transfer, provided that the Member State concerned has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+### Article 15
+
+It shall be prohibited to sell, supply, transfer or export, directly or indirectly, helicopters and vessels, as listed in Annex XI, to the DPRK.
+
+### Article 16
+
+By way of derogation from the prohibition in Article 15, the competent authorities of the Member States may authorise such a sale, supply, transfer or export, provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+### Article 16a
+
+1\. It shall be prohibited to import, purchase or transfer, directly or indirectly, seafood, including fish, crustaceans, molluscs, and other aquatic invertebrates in all forms, as listed in Annex XIa, from the DPRK, whether or not originating in the DPRK.
+
+2\. It shall be prohibited to purchase or transfer, directly or indirectly, fishing rights from the DPRK.
+
+### Article 16b
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, lead and lead ore, as listed in Annex XIb, from the DPRK, whether or not originating in the DPRK.
+
+### Article 16c
+
+It shall be prohibited to sell, supply, transfer or export, directly or indirectly, condensates and natural gas liquids, as listed in Annex XIc, to the DPRK.
+
+### Article 16d
+
+It shall be prohibited to sell, supply, transfer or export, directly or indirectly, all refined petroleum products, as listed in Annex XId, whether or not originating in the Union, to the DPRK.
+
+### Article 16e
+
+1\. By way of derogation from Article 16d, the competent authorities of the Member States may authorise transactions in refined petroleum products that are determined to be exclusively for humanitarian purposes, provided that all of the following conditions are met:
+
+(a) the transactions do not involve individuals or entities that are associated with the DPRK's nuclear or ballistic missile programmes or other activities prohibited by UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) or 2397 (2017), including the persons, entities and bodies listed in Annexes XIII, XV, XVI and XVII;
+
+(b) the transaction is unrelated to generating revenue for the DPRK's nuclear or ballistic missile programmes or other activities prohibited by UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) or 2397 (2017);
+
+(c) the Sanctions Committee has not notified the Member States that 90 % of the aggregate annual limit has been reached; and
+
+(d) the Member State concerned notifies the Sanctions Committee of the amount of the export and information on all parties to the transaction every 30 days.
+
+2\. The Member State concerned shall notify the other Member States and the Commission of any authorisation granted pursuant to paragraph 1.
+
+### Article 16f
+
+It shall be prohibited to sell, supply, transfer or export, directly or indirectly, crude oil, as listed in Annex XIe, whether or not originating in the Union, to the DPRK.
+
+### Article 16g
+
+1\. By way of derogation from Article 16f, the competent authorities of the Member States may authorise transactions in crude oil, provided that all of the following conditions are met:
+
+(a) the competent authority of the Member State has determined that the transaction is exclusively for humanitarian purposes; and
+
+(b) the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis, in accordance with paragraph 4 of UNSCR 2397 (2017).
+
+2\. The Member State concerned shall notify the other Member States and the Commission of any authorisation granted pursuant to paragraph 1.
+
+### Article 16h
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, textiles, as listed in Annex XIf, from the DPRK, whether or not originating in the DPRK.
+
+### Article 16i
+
+1\. By way of derogation from Article 16h, the competent authorities of the Member States may authorise the import, purchase or transfer of textiles, provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+2\. By way of derogation from Article 16h, the competent authorities of the Member States may authorise the import, purchase or transfer of textiles by no later than 10 December 2017 provided that:
+
+(a) the import, purchase or transfer is due under a written contract that entered into force prior to 11 September 2017; and
+
+(b) the Member State concerned notifies the Sanctions Committee of the details of such import, purchase or transfer by no later than 24 January 2018.
+
+3\. The Member State concerned shall notify the other Member States and the Commission of any authorisation granted pursuant to paragraphs 1 and 2.
+
+### Article 16j
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, food and agricultural products listed in Annex XIg from the DPRK, whether or not originating in the DPRK.
+
+### Article 16k
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, machinery and electrical equipment listed in Annex XIh from the DPRK, whether or not originating in the DPRK.
+
+### Article 16l
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, earth and stone, including magnesite and magnesia, listed in Annex XIi from the DPRK, whether or not originating in the DPRK.
+
+### Article 16m
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, wood listed in Annex XIj from the DPRK, whether or not originating in the DPRK.
+
+### Article 16n
+
+It shall be prohibited to import, purchase or transfer, directly or indirectly, vessels listed in Annex XIk from the DPRK, whether or not originating in the DPRK.
+
+### Article 16o
+
+1\. By way of derogation from Articles 16j to 16n, the competent authorities of the Member States may authorise the import, purchase or transfer of the items referred to in those Articles by no later than 21 January 2018 provided that:
+
+(a) the import, purchase or transfer is due under a written contract that entered into force prior to 22 December 2017; and
+
+(b) the Member State concerned notifies the Sanctions Committee of the details of such import, purchase or transfer by no later than 5 February 2018.
+
+2\. The Member State concerned shall notify the other Member States and the Commission of any authorisation granted pursuant to paragraph 1.
+
+### Article 16p
+
+It shall be prohibited to sell, supply, transfer or export to the DPRK, directly or indirectly, all industrial machinery, transportation vehicles, and iron, steel and other metals listed in part A of Annex XIl, whether or not originating in the Union.
+
+### Article 16q
+
+1\. The competent authorities of the Member States may authorise the export of spare parts needed to maintain the safe operation of DPRK commercial civilian passenger aircraft of the aircraft models and types listed in part B of Annex XIl.
+
+2\. The Member State concerned shall notify the other Member States and the Commission of any authorisation granted pursuant to paragraph 1.
+
+## CHAPTER III — Restrictions on Certain Commercial Activities
+
+### Article 17
+
+1\. It shall be prohibited, in the territory of the Union, to accept or approve investment in any commercial activity, where such investment is made by:
+
+(a) natural or legal persons, entities or bodies of the Government of the DPRK;
+
+(b) the Workers' Party of Korea;
+
+(c) nationals of the DPRK;
+
+(d) legal persons, entities or bodies incorporated or constituted under the law of the DPRK;
+
+(e) natural or legal persons, entities or bodies acting on behalf or at the direction of persons, entities or bodies referred to in (a) to (d); and
+
+(f) natural or legal persons, entities or bodies owned or controlled by the natural or legal persons, entities or bodies referred to in (a) to (d).
+
+2\. It shall be prohibited:
+
+(a) to establish, maintain or operate a joint venture or a cooperative entity with any natural or legal person, entity or body referred to in paragraph 1 or domiciled in the DPRK or to, to take, maintain or extend an ownership interest, including by acquisition in full or the acquisition of shares and other securities of a participatory nature in any legal person, entity or body that is referred to in paragraph 1 or is domiciled in the DPRK, or in activities or assets in the DPRK;
+
+(b) to grant financing or financial assistance to any natural or legal person, entity or body referred to in points (d) to (f) of paragraph 1 or for the documented purpose of financing such natural or legal persons, entities or bodies;
+
+(c) to provide investment services directly or indirectly related to the activities referred to in points (a) and (b) of this paragraph; and
+
+(d) to participate directly or indirectly in joint ventures or in any other business arrangements with entities listed in Annex XIII, as well as with natural or legal persons, entities or bodies acting for or on their behalf or direction.
+
+3\. Existing joint ventures or cooperative entities referred to in point (a) of paragraph 2, shall be closed by 9 January 2018, or within 120 days after the Sanctions Committee has denied a request for approval.
+
+### Article 17a
+
+1\. By way of derogation from point (a) of Article 17(2), the competent authorities of the Member States may authorise such activities, in particular those regarding joint ventures or cooperative entities that are non-commercial, public utility infrastructure projects not generating profit, provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+2\. By way of derogation from point (a) of Article 17(2), and in insofar as they do not relate to joint ventures or cooperative entities, the competent authorities of the Member States may authorise such activities, provided that the Member State has determined that those activities are exclusively for humanitarian purposes, and are not in the sectors of mining, refining, chemical, metallurgy or the metalworking, aerospace or conventional arms-related industries.
+
+The Member State concerned shall notify the other Member States and the Commission of any authorisation granted pursuant to paragraphs 1 or 2.
+
+### Article 17b
+
+By way of derogation from Article 17(3), the competent authorities of the Member States may authorise such joint venture or cooperative entity to remain operational, provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+### Article 18
+
+1\. It shall be prohibited:
+
+(a) to provide, directly or indirectly, any services incidental to mining or any services incidental to manufacturing in the chemical, mining and refining industry, that are referred to in part A of Annex XII, to any natural or legal person, entity or body in, or for use in, the DPRK; and
+
+(b) to provide, directly or indirectly, computer and related services as referred to in part B of Annex XII, to any natural or legal person, entity or body in, or for use in, the DPRK.
+
+2\. The prohibition in point (b) of paragraph 1 shall not apply with respect to computer and related services, insofar as such services are intended to be used exclusively for the official purposes of a diplomatic or consular mission or an international organisation enjoying immunities in the DPRK in accordance with international law.
+
+3\. The prohibition in point (b) of paragraph 1 shall not apply with respect to the provision of computer and related services by public bodies or by legal persons, entities or bodies that receive public funding from the Union or Member States to provide these services for development purposes that directly address the needs of the civilian population or the promotion of denuclearisation.
+
+### Article 19
+
+1\. By way of derogation from point (a) of Article 18(1), the competent authorities of the Member States may authorise the provision of services incidental to mining and the provision of services incidental to manufacturing in the chemical, mining and refining industries, insofar as such services are intended to be used exclusively for development purposes that directly address the needs of the civilian population or the promotion of denuclearisation.
+
+2\. In cases not covered by Article 18(3), and by way of derogation from point (b) of Article 18(1), the competent authorities of the Member States may authorise the provision of computer and related services, insofar as those services are intended to be used exclusively for development purposes that directly address the needs of the civilian population or the promotion of denuclearisation.
+
+### Article 20
+
+1\. It shall be prohibited:
+
+(a) to lease or otherwise make available real property, directly or indirectly, to persons, entities or bodies of the Government of the DPRK, for any purpose other than diplomatic or consular activities, pursuant to the 1961 Vienna Convention on Diplomatic Relations and the 1963 Vienna Convention on Consular Relations;
+
+(b) to lease real property, directly or indirectly, from persons, entities or bodies of the Government of the DPRK; and
+
+(c) to engage in any activity linked to the use of real property that persons, entities or bodies of the Government of the DPRK own, lease or are otherwise entitled to use, except for the provision of goods and services which:
+
+(i) are essential for the functioning of diplomatic missions or consular posts, pursuant to the 1961 and 1963 Vienna Conventions; and
+
+(ii) cannot be used to generate income or profit, directly or indirectly, for the Government of the DPRK.
+
+2\. For the purposes of this Article ‘real property’ means land, buildings and parts thereof which are located outside the territory of the DPRK.
+
+## CHAPTER IV — Restrictions on Transfers of Funds and Financial Services
+
+### Article 21
+
+1\. It shall be prohibited to transfer funds, including clearing of funds, to and from the DPRK.
+
+2\. It shall be prohibited for credit and financial institutions to enter into, or continue to participate in, any transactions with:
+
+(a) credit and financial institutions domiciled in the DPRK;
+
+(b) branches or subsidiaries falling within the scope of Article 1 of credit and financial institutions domiciled in the DPRK;
+
+(c) branches or subsidiaries falling outside the scope of Article 1 of credit and financial institutions domiciled in the DPRK;
+
+(d) credit and financial institutions that are not domiciled in the DPRK, that fall within the scope of Article 1 and that are controlled by persons, entities or bodies domiciled in the DPRK;
+
+(e) credit and financial institutions that are not domiciled in DPRK or do not fall within the scope of Article 1, but are controlled by persons, entities or bodies domiciled in the DPRK.
+
+3\. The prohibitions in paragraphs 1 and 2 shall not apply to any transfer of funds or transaction which is necessary for the official purposes of a diplomatic or consular mission of a Member State in the DPRK or an international organisation enjoying immunities in DPRK in accordance with international law.
+
+4\. The prohibitions in paragraphs 1 and 2 shall not apply to any of the following transactions, provided that they involve a transfer of funds for amounts equal to or below EUR 15 000 or equivalent:
+
+(a) transactions regarding foodstuffs, healthcare or medical equipment or for agricultural or humanitarian purposes;
+
+(b) transactions regarding the execution of the exemptions provided for in this Regulation;
+
+(c) transactions in connection with a specific trade contract not prohibited by this Regulation;
+
+(d) transactions required exclusively for the implementation of projects funded by the Union or its Member States for development purposes directly addressing the needs of the civilian population or the promotion of denuclearisation; and
+
+(e) transactions regarding a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such transactions are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+5\. The prohibitions in paragraphs 1 and 2 shall not apply to transactions regarding personal remittances, provided that they involve a transfer of funds for amounts equal to or below EUR 5 000 or equivalent.
+
+### Article 22
+
+1\. By way of derogation from the prohibitions in Article 21(1) and (2), the competent authorities of the Member States may authorise:
+
+(a) the transactions mentioned in points (a) to (e) of Article 21(4) with a value above EUR 15 000 or equivalent; and
+
+(b) the transactions mentioned in Article 21(5) with a value above EUR 5 000 or equivalent.
+
+2\. The requirement for authorisation referred to in paragraph 1 shall apply regardless of whether the transfer of funds is executed in a single operation or in several operations which appear to be linked. For the purpose of this Regulation, ‘operations which appear to be linked’ includes:
+
+(a) a series of consecutive transfers from or to the same credit or financial institution within the scope of Article 21(2) to or from the same DPRK person, entity or body, which are made in connection with a single obligation to transfer funds, where each individual transfer falls below EUR 15 000 for transactions mentioned in Article 21(4) or EUR 5 000 for transactions mentioned in Article 21(5), but which, in the aggregate, meet the criteria for authorisation; and
+
+(b) a chain of transfers involving different payment service providers, or natural or legal persons, which is related to a single obligation to make a transfer of funds.
+
+3\. The Member States shall notify each other and the Commission of any authorisation granted pursuant to paragraph 1.
+
+4\. By way of derogation from the prohibitions in Article 21(1) and (2), the competent authorities of the Member States may authorise transactions regarding payments to satisfy claims against the DPRK, its nationals or legal persons, entities or bodies incorporated or constituted under the law of the DPRK, and transactions of a similar nature that do not contribute to activities prohibited by this Regulation, on a case-by-case basis and if the Member State concerned has notified the other Members States and the Commission at least 10 days in advance of granting an authorisation.
+
+### Article 23
+
+1\. Credit and financial institutions shall, in their activities, including the clearing of funds, with credit and financial institutions referred to in Article 21(2):
+
+(a) apply customer due diligence measures established pursuant to Articles 13 and 14 of Directive (EU) 2015/849 of the European Parliament and of the Council ( 13 );
+
+(b) ensure compliance with anti-money-laundering and counter-terrorist-financing procedures established pursuant to Directive (EU) 2015/849 and Regulation (EU) 2015/847 of the European Parliament and of the Council ( 14 );
+
+(c) require that information on payers as well as information on payees accompanying transfers of funds is provided as required by Regulation (EU) 2015/847 and refuse to process the transaction if any of this information is missing or incomplete;
+
+(d) maintain records of the transactions in accordance with point (b) of Article 40 of Directive (EU) 2015/849;
+
+(e) where there are reasonable grounds to suspect that funds could contribute to the DPRK's nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes or activities (‘proliferation financing’), promptly notify the competent Financial Intelligence Unit (FIU) as defined by Directive (EU) 2015/849, or any other competent authority designated by the Member State concerned, without prejudice to Article 7(1) or Article 33 of this Regulation;
+
+(f) promptly report any suspicious transactions, including attempted transactions;
+
+(g) refrain from carrying out transactions which they reasonably suspect could be related to proliferation financing until they have completed the necessary action in accordance with point (e) and have complied with any instructions from the relevant FIU or competent authority.
+
+2\. For the purposes of paragraph 1, the FIU, or any other competent authority serving as a national centre for receiving and analysing suspicious transactions, shall receive reports regarding potential proliferation financing and shall have access, directly or indirectly, on a timely basis, to the financial, administrative and law-enforcement information that it requires in order to perform that function properly, including the analysis of suspicious transaction reports.
+
+### Article 24
+
+It shall be prohibited for credit and financial institutions:
+
+(a) to open an account with a credit or financial institution referred to in Article 21(2);
+
+(b) to establish a correspondent banking relationship with a credit or financial institution referred to in Article 21(2);
+
+(c) to open representative offices in the DPRK, or to establish a new branch or subsidiary, in the DPRK; and
+
+(d) to establish a joint venture with or to take an ownership interest in a credit or financial institution referred to in Article 21(2).
+
+### Article 25
+
+1\. By way of derogation from the prohibitions in points (b) and (d) of Article 24, the competent authorities of the Member States may authorise transactions if they have been approved by the Sanctions Committee in advance.
+
+2\. The Member State concerned shall promptly notify the other Member States and the Commission of any authorisation under paragraph 1.
+
+### Article 26
+
+In accordance with the requirements of UNSCR 2270 (2016), credit and financial institutions shall, on 31 May 2016 at the latest:
+
+(a) close any account with a credit or financial institution referred to in Article 21(2);
+
+(b) terminate any correspondent banking relationship with a credit or financial institution referred to in Article 21(2);
+
+(c) close representative offices, branches, and subsidiaries in the DPRK;
+
+(d) terminate joint ventures with a credit or financial institution referred to in Article 21(2); and
+
+(e) relinquish any ownership interest in a credit or financial institution referred to in Article 21(2).
+
+### Article 27
+
+1\. By way of derogation from points (a) and (c) of Article 26, the competent authorities of the Member States may authorise certain representative offices, subsidiaries or accounts to remain operational, provided that the Sanctions Committee has determined on a case-by-case basis that such offices, subsidiaries or accounts are required for the delivery of humanitarian activities or the activities of diplomatic missions in the DPRK or the activities of the UN or its specialised agencies or related organisations or any other purpose consistent with the objectives of UNSCRs 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) or 2371 (2017).
+
+2\. The Member State concerned shall promptly notify the other Member States and the Commission of any authorisation granted pursuant to paragraph 1.
+
+### Article 28
+
+1\. It shall be prohibited for credit and financial institutions to open an account for DPRK diplomatic missions or consular posts, and their DPRK members.
+
+2\. On 11 April 2017 at the latest, credit and financial institutions shall close any account held or controlled by a DPRK diplomatic mission or consular post, and their DPRK members.
+
+### Article 29
+
+1\. By way of derogation from Article 28(1), the competent authorities of the Member States may authorise, upon request of a DPRK diplomatic mission, consular post, or one of their members, the opening of one account per mission, post and member, provided that the mission or post is hosted in that Member State or the member of the mission or post is accredited to that Member State.
+
+2\. By way of derogation from Article 28(2), the competent authorities of the Member States may authorise an account to remain open, upon request by a DPRK mission, post, or member, provided that the Member State has determined that:
+
+(i) the mission or post is hosted in that Member State or the member of that mission or post is accredited to that Member State; and
+
+(ii) the mission, post or its member does not hold any other account within that Member State.
+
+In the event that the mission, post or the DPRK member holds more than one account within that Member State, the mission, post, or member may indicate which account shall be retained.
+
+3\. Subject to the applicable rules of the 1961 Vienna Convention on Diplomatic Relations and the 1963 Vienna Convention on Consular Relations, the Member States shall inform the other Member States and the Commission of the names and identifying information of any DPRK member of the diplomatic mission and consular post accredited to that Member State, at the latest on 13 March 2017, and of subsequent updates within one week.
+
+4\. The competent authorities of the Member States may inform credit and financial institutions in that Member State of the identity of any DPRK member of a diplomatic mission or consular post accredited to that or any other Member State.
+
+5\. The Member States shall inform the other Member States and the Commission of any authorisation granted pursuant to paragraphs 1 and 2.
+
+### Article 30
+
+It shall be prohibited:
+
+(a) to authorise the opening of a representative office or the establishment of a branch or subsidiary in the Union of a credit or financial institution referred to in Article 21(2);
+
+(b) to conclude agreements for, or on behalf of, a credit or financial institution referred to in Article 21(2) pertaining to the opening of a representative office or the establishment of a branch or subsidiary in the Union;
+
+(c) to grant an authorisation for taking up and pursuing the business of a credit institution or for any other business requiring prior authorisation, by a representative office, branch or subsidiary of a credit or financial institution referred to in Article 21(2), if the representative office, branch or subsidiary was not operational before 19 February 2013;
+
+(d) to acquire or to extend a participation, or to acquire any other ownership interest, in a credit or financial institution falling within the scope of Article 1 by any credit or financial institution referred to in Article 21(2); and
+
+(e) to operate or facilitate the operation of a representative office, branch or subsidiary of a credit or financial institution referred to in Article 21(2).
+
+### Article 31
+
+It shall be prohibited:
+
+(a) to sell or purchase public or public-guaranteed bonds issued after 19 February 2013, directly or indirectly, to or from any of the following:
+
+(i) the DPRK or its Government, and its public bodies, corporations and agencies;
+
+(ii) the Central Bank of the DPRK;
+
+(iii) any credit or financial institution referred to in Article 21(2);
+
+(iv) a natural person or a legal person, entity or body acting on behalf or at the direction of a legal person, entity or body referred to in point (i) or (ii);
+
+(v) a legal person, entity or body owned or controlled by a person, entity or body referred to in point (i), (ii) or (iii);
+
+(b) to provide brokering services with regard to public or public-guaranteed bonds issued after 19 February 2013 to a person, entity or body referred to in point (a);
+
+(c) to assist a person, entity or body referred to in point (a) in order to issue public or public-guaranteed bonds, by providing brokering services, advertising or any other service with regard to such bonds.
+
+### Article 32
+
+It shall be prohibited to provide financing or financial assistance for trade with the DPRK, including the granting of export credits, guarantees or insurance to natural or legal persons, entities or bodies involved in such trade.
+
+### Article 33
+
+1\. By way of derogation from Article 32, the competent authorities of the Member States may authorise financial support for trade with the DPRK, provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+## CHAPTER V — Freezing of Funds and Economic Resources
+
+### Article 34
+
+1\. All funds and economic resources belonging to, owned, held or controlled by the persons, entities and bodies listed in Annexes XIII, XV, XVI and XVII shall be frozen.
+
+2\. All vessels listed in Annex XIV shall be seized, if the Sanctions Committee has so specified.
+
+3\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of the natural or legal persons, entities or bodies listed in Annexes XIII, XV, XVI and XVII.
+
+4\. Annex XIII shall include the persons, entities and bodies designated by the Sanctions Committee or the UNSC pursuant to paragraph 8(d) of UNSCR 1718 (2006), and paragraph 8 of UNSCR 2094 (2013).
+
+Annex XIV shall include the vessels that have been designated by the Sanctions Committee pursuant to paragraph 12 of UNSCR 2321 (2016) and paragraph 8 of UNSCR 2375 (2017).
+
+Annex XV shall include persons, entities and bodies not listed in Annex XIII and XIV, who, pursuant to point (b) of Article 27(1) of Decision (CFSP) 2016/849, or any equivalent subsequent provision, have been identified by the Council:
+
+(a) as responsible for, including through supporting or promoting, the DPRK's nuclear-related, ballistic missile-related or other weapons of mass destruction-related programmes, or persons, entities or bodies acting on their behalf or at their direction, or persons, entities or bodies owned or controlled by them, including through illicit means;
+
+(b) as providing financial services or the transfer to, through or from the territory of the Union, or involving nationals of Member States or entities organised under their laws, or persons or financial institutions in the territory of the Union, of any financial or other assets or resources that could contribute to the DPRK's nuclear-related, ballistic missile-related or other weapons of mass destruction-related programmes, or persons, entities or bodies acting on their behalf or at their direction, or persons, entities or bodies owned or controlled by them; or
+
+(c) as involved in, including through the provision of financial services, the supply to or from the DPRK of arms and related material of all types, or of items, materials, equipment, goods and technology which could contribute to the DPRK's nuclear-related, ballistic missile-related or other weapons of mass destruction-related programmes.
+
+5\. Annex XVI shall include the persons, entities or bodies not covered by Annex XIII, XIV or XV who are working on behalf of or at the direction of a person, entity or body listed in Annex XIII, XIV or XV or persons assisting in the evasion of sanctions or violating the provisions of this Regulation.
+
+6\. Annex XVII shall include the entities or bodies of the Government of the DPRK, or the Workers' Party of Korea, persons, entities or bodies acting on their behalf or at their direction, and entities or bodies owned or controlled by them, which are associated with the DPRK's nuclear or ballistic missile programs or other activities prohibited by UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) or 2371 (2017), and which are not covered by Annexes XIII, XIV, XV or XVI.
+
+7\. The prohibition in paragraphs 1 and 3, inasmuch as they refer to the persons, entities or bodies listed in Annex XVII, shall not apply where the funds and economic resources are required to carry out the activities of the DPRK's missions to the UN and its specialised agencies and related organisations or other diplomatic and consular missions of the DPRK, or where the competent authority of the Member State has obtained advance approval of the Sanctions Committee on a case-by-case basis that the funds, financial assets or economic resources are required for the delivery of humanitarian assistance, denuclearisation or any other purpose consistent with the objectives of UNSCR 2270 (2016).
+
+8\. Paragraph 3 shall not prevent financial or credit institutions in the Union from crediting frozen accounts where they receive funds transferred by third parties to the account of a listed natural or legal person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall notify the competent authorities about such transactions without delay.
+
+9\. Provided that any such interest, other earnings and payments are frozen in accordance with paragraph 1, paragraph 3 shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts; and
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which the person, entity or body referred to in this article was designated.
+
+10\. Paragraphs 1 and 3 shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Sanctions Committee as regards Annexes XIII, XVI and XVII, and by the Council as regards Annex XV.
+
+### Article 35
+
+1\. By way of derogation from Article 34, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under the conditions they deem appropriate, where the following conditions are met:
+
+(a) after having determined that the funds or economic resources concerned are necessary to satisfy the basic needs of natural or legal persons, entities or bodies listed in Annexes XIII, XV, XVI or XVII and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums and public utility charges and payments intended exclusively for:
+
+(i) reasonable professional fees and reimbursement of incurred expenses associated with the provision of legal services; or
+
+(ii) fees or services charges for routine holding or maintenance of frozen funds or economic resources; and
+
+(b) where the authorisation concerns a person, entity or body listed in Annex XIII, the Member State concerned has notified the Sanctions Committee of that determination and its intention to grant an authorisation, and the Sanctions Committee has not objected to that course of action within five working days of notification.
+
+2\. By way of derogation from Article 34, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources or the making available of certain frozen funds or economic resources, after having determined that the funds or economic resources are necessary for extraordinary expenses, provided that:
+
+(a) where the authorisation concerns a person, entity or body listed in Annex XIII, the Sanctions Committee has been notified of this determination by the Member State concerned and that the determination has been approved by that Committee;
+
+(b) where the authorisation concerns a person, entity or body listed in Annex XV, XVI or XVII the Member State concerned has notified other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation.
+
+3\. The Member State concerned shall promptly notify the other Member States and the Commission of any authorisation granted under paragraphs 1 and 2.
+
+### Article 36
+
+1\. By way of derogation from Article 34, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, where the following conditions are met:
+
+(a) the funds or economic resources are the subject of a judicial, administrative or arbitral decision established prior to the date on which the person, entity or body referred to in Article 34 was designated, or of a judicial, administrative or arbitral lien rendered prior to that date;
+
+(b) the funds or economic resources are to be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a lien, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision or lien is not for the benefit of a person, entity or body listed in Annex XIII, XV, XVI or XVII;
+
+(d) recognising the decision or lien is not contrary to public policy in the Member State concerned;
+
+(e) the decision or lien in respect of persons, entities and bodies listed in Annex XIII has been notified by the Member State concerned to the Sanctions Committee.
+
+2\. By way of derogation from Article 34, and provided that a payment by a person, entity or body listed in Annex XV, XVI or XVII is due under a contract or agreement that was concluded by, or under an obligation for the person, entity or body concerned that arose before the date on which that person, entity or body has been designated, the competent authorities of the Member States may authorise, under the conditions they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the contract is not related to any item, operation, service or transaction referred to in point (a) of Article 3(1), Article 3(3) or Article 7; and
+
+(b) the payment is not directly or indirectly received by a person, entity or body listed in Annex XV, XVI or XVII.
+
+3\. The Member State concerned shall, at least 10 days prior to the granting of each authorisation pursuant to paragraph 2, notify the other Member States and the Commission of that determination and of its intention to grant an authorisation.
+
+### Article 37
+
+Without prejudice to Article 34(10), the prohibitions in Article 34(1) and (3) shall not apply with regard to funds and economic resources belonging or made available to the Foreign Trade Bank or the Korean National Insurance Company (KNIC) in so far as such funds and economic resources are meant exclusively for the official purposes of a diplomatic or consular mission in the DPRK, or for humanitarian assistance activities which are undertaken by, or in coordination with, the United Nations.
+
+## CHAPTER VI — Restrictions on Transport
+
+### Article 38
+
+1\. Cargo, including personal luggage and checked baggage, within or transiting through the Union, including airports, seaports and free zones, as referred to in Articles 243 to 249 of Regulation (EU) No 952/2013, shall be liable for inspection for the purposes of ensuring that it does not contain items prohibited by UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2371 (2017), or by this Regulation where:
+
+(a) the cargo originates from the DPRK;
+
+(b) the cargo is destined for the DPRK;
+
+(c) the cargo has been brokered or facilitated by the DPRK or its nationals or its individuals or entities acting on their behalf or at their direction, or entities owned or controlled by them;
+
+(d) the cargo has been brokered or facilitated by persons, entities or bodies listed in Annex XIII;
+
+(e) the cargo is being transported on a DPRK flagged vessel or aircraft registered to the DPRK, or on a stateless vessel or aircraft.
+
+2\. Where the cargo within or transiting through the Union, including airports, seaports and free zones, falls outside of the scope of paragraph 1, it shall be liable for inspection where there are reasonable grounds to believe that it may contain items the sale, supply, transfer or export of which is prohibited by this Regulation in the following circumstances:
+
+(a) the cargo originates in the DPRK;
+
+(b) the cargo is destined for the DPRK; or
+
+(c) the cargo has been brokered or facilitated by the DPRK or its nationals or individuals or entities acting on their behalf.
+
+3\. Paragraphs 1 and 2 shall be without prejudice to the inviolability and protection of diplomatic and consular bags provided for in the 1961 Vienna Convention on Diplomatic Relations and the 1963 Vienna Convention on Consular Relations.
+
+4\. The provision of bunkering or ship-supply services, or any other servicing of vessels, to DPRK vessels is prohibited where the providers of the service have information, including from the competent customs authorities on the basis of the pre-arrival and pre-departure information referred to in Article 9(1), that provides reasonable grounds to believe that the vessels carry items whose supply, sale, transfer or export is prohibited by this Regulation, unless the provision of such services is necessary for humanitarian purposes.
+
+### Article 39
+
+1\. It shall be prohibited to provide access to ports in the territory of the Union to any vessel:
+
+(a) that is owned, operated or crewed by the DPRK;
+
+(b) that is flagged to the DPRK;
+
+(c) where there are reasonable grounds to believe that it is owned or controlled, directly or indirectly, by a person or entity listed in Annex XIII, XV, XVI or XVII;
+
+(d) where there are reasonable grounds to believe that it contains items the supply, sale, transfer or export of which is prohibited by this Regulation;
+
+(e) which has refused to be inspected after such an inspection has been authorised by the vessel's flag State or State of registration;
+
+(f) which is without nationality and has refused to be inspected in accordance with Article 38(1); or
+
+(g) that is listed under Annex XIV, if the Sanctions Committee has so specified.
+
+2\. Paragraph 1 shall not apply:
+
+(a) in the case of an emergency;
+
+(b) where the vessel is returning to its port of origin;
+
+(c) in the case of a vessel coming into port for inspection where that concerns a vessel within the scope of points (a) to (e) of paragraph 1.
+
+### Article 40
+
+1\. By way of derogation from the prohibition in Article 39(1), where that concerns a vessel within the scope of points (a) to (e), the competent authorities of the Member States may authorise that vessel to come into port if:
+
+(a) the Sanctions Committee has determined in advance that this is required for humanitarian purposes or any other purpose consistent with the objectives of UNSCR 2270 (2016); or
+
+(b) the Member State has determined in advance that this is required for humanitarian purposes or any other purpose consistent with the objectives of this Regulation.
+
+2\. By way of derogation from the prohibition in Article 39(1), where that concerns a vessel within the scope of point (f), the competent authorities of the Member States may authorise that vessel to come into port if the Sanctions Committee has so directed.
+
+3\. By way of derogation from the prohibition in Article 39(1), where that concerns a vessel within the scope of point (g), the competent authorities of the Member States may authorise a vessel to come into port if the Sanctions Committee has determined in advance that such entry is required for humanitarian purposes or any other purposes consistent with the objectives of UNSCRs 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017) or 2375 (2017).
+
+### Article 41
+
+1\. It shall be prohibited for any aircraft operated by DPRK carriers or originating from the DPRK to take off from, land in or overfly the territory of the Union.
+
+2\. Paragraph 1 shall not apply:
+
+(a) where the aircraft is landing for inspection;
+
+(b) in the case of an emergency landing.
+
+### Article 42
+
+By way of derogation from Article 41, the competent authorities of the Member States may authorise an aircraft to take off from, land in or overfly the territory of the Union if those competent authorities have determined in advance that this is required for humanitarian purposes or any other purpose consistent with the objectives of this Regulation.
+
+### Article 43
+
+1\. It shall be prohibited:
+
+(a) to lease or charter vessels or aircraft or provide crew services to the DPRK, persons or entities listed in Annex XIII, XV, XVI or XVII, any other DPRK entities, any other persons or entities which have assisted in violating the provisions of UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016) or 2371 (2017) or any person or entity acting on behalf of, or at the direction of, any such person or entity, and entities owned or controlled by them;
+
+(b) to procure vessel or aircraft crew services from the DPRK;
+
+(c) to own, lease, operate, charter, insure or provide vessel classification services or associated services to any vessel flagged to the DPRK;
+
+(d) to provide vessel classification services to vessels listed in Annex XVIII;
+
+(e) to apply for or to assist in the registration or maintenance on the register of any vessel that is owned, controlled or operated by the DPRK or DPRK nationals, any vessel listed in Annex XVIII or that has been deregistered by another State pursuant to paragraph 24 of UNSCR 2321 (2016), paragraph 8 of UNSCR 2375 (2017) or paragraph 12 of UNSCR 2397 (2017); or
+
+(f) to provide insurance or reinsurance services to vessels owned, controlled or operated by the DPRK or vessels listed in Annex XVIII.
+
+2\. Annex XVIII shall include the vessels not listed in Annex XIV, which the Council has reasons to believe were involved in activities, or the transport of items, prohibited by UNSCRs 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) or 2397 (2017).
+
+### Article 44
+
+1\. By way of derogation from the prohibition in point (a) of Article 43(1), the competent authorities of the Member States may authorise the leasing, chartering or provision of crew services, provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+2\. By way of derogation from the prohibitions in points (c) and (e) of Article 43(1), the competent authorities of the Member States may authorise the owning, leasing, operating, chartering of, or providing vessel classification services or associated services to any DPRK flagged vessel, or the registration, or maintenance on the register, of any vessel that is owned, controlled or operated by the DPRK or DPRK nationals, provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+3\. By way of derogation from the prohibition in point (d) of Article 43(1), the competent authorities of the Member States may authorise vessel classification services to vessels listed in Annex XVIII, provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+4\. By way of derogation from the prohibitions in point (e) of Article 43(1), the competent authorities of the Member States may authorise the registration of a vessel that has been deregistered by another State pursuant to paragraph 12 of UNSCR 2397 (2017), provided that the Member State has obtained the advance approval of the Sanctions Committee on a case-by-case basis.
+
+5\. By way of derogation from the prohibition in point (f) of Article 43(1), the competent authorities of the Member States may authorise the provision of insurance or reinsurance services, provided that the Sanctions Committee has determined in advance on a case-by-case basis that the vessel is engaged in activities exclusively for livelihood purposes which will not be used by DPRK individuals or entities to generate revenue or exclusively for humanitarian purposes.
+
+6\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 1, 2, 3, 4 and 5.
+
+### Article 44a
+
+It shall be prohibited to facilitate or engage in ship-to-ship transfers to or from any DPRK flagged vessel of any goods or items that are being sold, supplied, transferred or exported to or from the DPRK.
+
+## CHAPTER VII — General and Final Provisions
+
+### Article 45
+
+1\. Without prejudice to Article 34(10), the competent authorities of the Member States may authorise any activities otherwise prohibited by UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) or 2397 (2017) if the Sanctions Committee has determined, on a case-by-case basis, that they are necessary to facilitate the work of international and non-governmental organisations carrying out assistance and relief activities in the DPRK for the benefit of the civilian population in the DPRK or for any other purpose consistent with the objectives of those UNSCRs.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+### Article 45a
+
+1\. Unless otherwise provided for in this Regulation, and by way of derogation from the prohibitions arising from UNSCR 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) or 2397 (2017), the competent authorities of Member States may authorise any activities, on a case-by-case basis, which are necessary for the functioning of diplomatic missions or consular posts in the DPRK pursuant to the 1961 and 1963 Vienna Conventions, or of international organisations enjoying immunities in accordance with international law in the DPRK.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+### Article 46
+
+The Commission shall be empowered to:
+
+(a) amend Annex I on the basis of information supplied by Member States;
+
+(b) amend Parts II, III, IV, V, VI, VII, VIII and IX of Annex II and Annexes VI, VII, IX, X, XI, Xia, XIb, XIc, XId, XIe, XIf, XIg, XIh, XIi, XIj, XIk and XIl on the basis of determinations made by either the Sanctions Committee or the UNSC and to update nomenclature codes from the Combined Nomenclature as set out in Annex I to Regulation (EEC) No 2658/87;
+
+(c) amend Annex VIII in order to refine or adapt the list of goods included therein, taking into account any definition or guidelines that may be promulgated by the Sanctions Committee or to update nomenclature codes from the Combined Nomenclature as set out in Annex I to Regulation (EEC) No 2658/87;
+
+(d) amend Annexes III, IV and V on the basis of determinations made by either the Sanctions Committee or the UNSC, or decisions taken concerning these Annexes in Decision (CFSP) 2016/849;
+
+(e) amend Annex XII in order to refine or adapt the list of services included therein, taking into account information provided by Member States as well as any definition or guidelines that may be issued by the United Nations Statistical Commission, or in order to add reference numbers taken from the Central Product Classification system for goods and services promulgated by the United Nations Statistical Commission.
+
+### Article 47
+
+1\. Where the Security Council or the Sanctions Committee lists a natural or legal person, entity or body, the Council shall include such natural or legal person, entity or body in Annex XIII and XIV.
+
+2\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 34(1), (2) or (3) or to designate a vessel pursuant to Article 43 it shall amend Annexes XV, XVI, XVII and XVIII accordingly.
+
+3\. The Council shall communicate its decision to the natural or legal person, entity or body referred to in paragraphs 1 and 2, including the grounds for listing, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body with an opportunity to present observations.
+
+4\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the natural or legal person, entity or body referred to in paragraphs 1 and 2 accordingly.
+
+5\. Where the United Nations decides to delist a natural or legal person, entity or body, or to amend the identifying data of a listed natural or legal person, entity or body, the Council shall amend Annexes XIII and XIV accordingly.
+
+### Article 47a
+
+1\. Annexes XV, XVI, XVII and XVIII shall be reviewed at regular intervals and at least every 12 months.
+
+2\. Annexes XIII, XIV, XV, XVI, XVII and XVIII shall include the grounds for the listing of persons, entities, bodies and vessels concerned.
+
+3\. Annexes XIII, XIV, XV, XVI, XVII and XVIII shall also include, where available, information necessary to identify the natural or legal persons, entities, bodies and vessels concerned. With regard to natural persons, such information may include names including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business.
+
+### Article 48
+
+The Commission and Member States shall immediately notify each other of the measures taken under this Regulation and shall supply each other with any other relevant information at their disposal in connection with this Regulation, in particular information in respect of violations and enforcement problems and judgments handed down by national courts.
+
+### Article 49
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them in, or through, the websites as listed in Annex I.
+
+2\. Member States shall notify the Commission of their competent authorities without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+### Article 50
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as accounts and amounts frozen in accordance with Article 34, to the competent authorities of the Member States, where they are resident or located, and shall promptly transmit such information, directly or through the relevant Member States, to the Commission and;
+
+(b) cooperate with the competent authorities, in any verification of this information.
+
+2\. Any additional information directly received by the Commission shall promptly be made available to the Member State concerned.
+
+3\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+### Article 51
+
+The Commission shall process personal data in order to carry out the tasks incumbent on it under this Regulation and in accordance with the provisions of Regulation (EC) No 45/2001.
+
+### Article 52
+
+It shall be prohibited to participate knowingly and intentionally in activities the object or effect of which is to circumvent the prohibitions contained in this Regulation.
+
+### Article 53
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed by this Regulation, including claims for indemnity or any other claim of that type, such as a claim for compensation or a claim under a guarantee, notably a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated persons, entities or bodies listed in Annex XIII, XV, XVI or XVII, or the shipowners of vessels listed in Annex XIV or Annex XVIII;
+
+(b) any other DPRK person, entity or body, including the Government of the DPRK and its public bodies, corporations and agencies;
+
+(c) any person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in points (a) and (b).
+
+2\. The performance of a contract or transaction shall be regarded as having been affected by the measures imposed by this Regulation where the existence or content of the claim results directly or indirectly from those measures.
+
+3\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the person seeking the enforcement of that claim.
+
+4\. This Article is without prejudice to the right of the persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+### Article 54
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person, entity or body implementing it, or its directors or employees, unless it is proven that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to liability of any kind on their part, if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+### Article 55
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+2\. Member States shall notify the Commission of those rules without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+### Article 56
+
+Regulation (EC) No 329/2007 is hereby repealed. References to the repealed Regulation shall be construed as references to this Regulation.
+
+### Article 57
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+## ANNEX II
+
+**Goods and technology referred to in points (a) and (c) of Article 3(1) and in Article 7**
+
+The notes, acronyms and abbreviations, and the definitions in Annex I to Regulation (EC) No 428/2009 apply for the purpose of this Annex.
+
+**PART I**
+
+All goods and technology listed in Annex I to Regulation (EC) No 428/2009.
+
+**PART II**
+
+Other items, materials, equipment, goods and technology which could contribute to DPRK's nuclear-related, other weapons of mass destruction-related or ballistic missile-related programmes.
+
+Unless otherwise stated, reference numbers used in the column entitled ‘Description’ refer to the descriptions of dual use items and technology set out in Annex I to Regulation (EC) No 428/2009.
+
+A reference number in the column entitled ‘Related item from Annex I to Regulation (EC) No 428/2009’ means that the characteristics of the item described in the column ‘Description’ lie outside the parameters set out in the description of the dual use entry referred to.
+
+Definitions of terms between ‘single quotation marks’ are given in a technical note to the relevant item.
+
+Definitions of terms between "double quotation marks" can be found in Annex I to Regulation (EC) No 428/2009, except the following:
+
+**GENERAL NOTES**
+
+The object of the prohibitions contained in this Annex should not be defeated by the export of any non-prohibited goods (including plant) containing one or more prohibited components when the prohibited component or components are the principal element of the goods and can feasibly be removed or used for other purposes.
+
+N.B.: In judging whether the prohibited component or components are to be considered the principal element, it is necessary to weigh the factors of quantity, value and technological know-how involved and other special circumstances which might establish the prohibited component or components as the principal element of the goods being procured.
+
+Goods specified in this Annex include both new and used goods.
+
+**GENERAL TECHNOLOGY NOTE (GTN)**
+
+**(To be read in conjunction with Part C)**
+
+The sale, supply, transfer or export of "technology" which is "required" for the "development", "production" or "use" of goods the sale, supply, transfer or export of which is prohibited in Part A (Goods), is prohibited in accordance with the provisions of Part B.
+
+The "technology" "required" for the "development", "production" or "use" of prohibited goods remains under prohibition even when applicable to non-prohibited goods.
+
+Prohibitions do not apply to that "technology" which is the minimum necessary for the installation, operation, maintenance (checking) and repair of those goods which are not prohibited.
+
+Prohibitions on "technology" transfer do not apply to information "in the public domain", to "basic scientific research" or to the minimum necessary information for patent applications.
+
+**A. GOODS**
+
+II.A0. NUCLEAR MATERIALS, FACILITIES, AND EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.A0.001 | Hollow cathode lamps as follows: a. Iodine hollow cathode lamps with windows in pure silicon or quartz; b. Uranium hollow cathode lamps. | N/A |
+| II.A0.002 | Faraday isolators in the wavelength range 500 nm – 650 nm. | N/A |
+| II.A0.003 | Optical gratings in the wavelength range 500 nm – 650 nm. | N/A |
+| II.A0.004 | Optical fibres in the wavelength range 500 nm – 650 nm coated with anti-reflecting layers in the wavelength range 500 nm – 650 nm and having a core diameter greater than 0,4 mm but not exceeding 2 mm. | N/A |
+| II.A0.005 | Nuclear reactor vessel components and testing equipment, other than those specified in 0A001, as follows: a. Seals; b. Internal components; c. Sealing, testing and measurement equipment. | 0A001 |
+| II.A0.006 | Nuclear detection systems, other than those specified in 0A001.j. or 1A004.c., for detection, identification or quantification of radioactive materials or radiation of nuclear origin and specially designed components thereof. N.B: For personal equipment refer to II.A1.004 below. | 0A001.j. 1A004.c. |
+| II.A0.007 | Bellows-sealed valves other than those specified in 0B001.c.6., 2A226 or 2B350, made of aluminium alloy or stainless steel type 304, 304L or 316L. | 0B001.c.6. 2A226 2B350 |
+| II.A0.008 | Laser mirrors, other than those specified in 6A005.e., consisting of substrates having a thermal expansion coefficient of 10– 6 K– 1 or less at 20 °C (e.g. fused silica or sapphire). Note: This item does not cover optical systems specially designed for astronomical applications, except if the mirrors contain fused silica. | 0B001.g.5. 6A005.e. |
+| II.A0.009 | Laser lenses, other than those specified in 6A005.e.2, consisting of substrates having a thermal expansion coefficient of 10– 6 K– 1 or less at 20 °C (e.g. fused silica). | 0B001.g. 6A005.e.2. |
+| II.A0.010 | Pipes, piping, flanges, fittings made of, or lined with nickel, or nickel alloy containing more than 40 % nickel by weight, other than those specified in 2B350.h.1. | 2B350 |
+| II.A0.011 | Vacuum pumps other than those specified in 0B002.f.2. or 2B231, as follows: a. Turbo-molecular pumps having a flow-rate equal to or greater than 400 l/s; b. Roots type vacuum roughing pumps having a volumetric aspiration flow-rate greater than 200 m3/h; c. Bellows-sealed, scroll, dry compressor, and bellows-sealed, scroll, dry vacuum pumps. | 0B002.f.2. 2B231 |
+| II.A0.012 | Shielded enclosures for the manipulation, storage and handling of radioactive substances (hot cells). | 0B006 |
+| II.A0.013 | ‘Natural uranium’ or ‘depleted uranium’ or thorium in the form of metal, alloy, chemical compound or concentrate and any other material containing one or more of the foregoing, other than those specified in 0C001. | 0C001 |
+| II.A0.014 | Detonation chambers having a capacity of explosion absorption of more than 2,5 kg TNT equivalent. | N/A |
+
+II.A1. SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.A1.001 | Bis(2-ethylhexyl) phosphoric acid (HDEHP or D2HPA) Chemical Abstract Number (CAS): [CAS 298-07-7] solvent in any quantity, with a purity greater than 90 %. | N/A |
+| II.A1.002 | Fluorine gas CAS: [7782-41-4], with a purity of at least 95 %. | N/A |
+| II.A1.003 | Ring-shaped seals and gaskets, having an inner diameter of 400 mm or less, made of any of the following materials: a. Copolymers of vinylidene fluoride having 75 % or more beta crystalline structure without stretching; b. Fluorinated polyimides containing 10 % by weight or more of combined fluorine; c. Fluorinated phosphazene elastomers containing 30 % by weight or more of combined fluorine; d. Polychlorotrifluoroethylene (PCTFE, e.g. Kel-F ®); e. Fluoro-elastomers (e.g. Viton ®, Tecnoflon ®); f. Polytetrafluoroethylene (PTFE). | 1A001 |
+| II.A1.004 | Personal equipment for detecting radiation of nuclear origin, other than that specified in 1A004.c., including personal dosimeters. | 1A004.c. |
+| II.A1.005 | Electrolytic cells for fluorine production, other than those specified in 1B225, with an output capacity greater than 100 g of fluorine per hour. | 1B225 |
+| II.A1.006 | Catalysts, other than those specified in 1A225 or 1B231, containing platinum, palladium or rhodium, usable for promoting the hydrogen isotope exchange reaction between hydrogen and water for the recovery of tritium from heavy water or for the production of heavy water. | 1A225 1B231 |
+| II.A1.007 | Aluminium and its alloys, other than those specified in 1C002.b.4. or 1C202.a., in crude or semi-fabricated form having either of the following characteristics: a. ‘Capable of’ an ultimate tensile strength of 460 MPa or more at 293 K (20 °C); or b. Having a tensile strength of 415 MPa or more at 298 K (25 °C). Technical note: The phrase alloys ‘capable of’ encompasses alloys before or after heat treatment. | 1C002.b.4. 1C202.a. |
+| II.A1.008 | Magnetic metals, of all types and of whatever form, other than those specified in 1C003.a. having an ‘initial relative permeability’ of 120 000 or more and a thickness between 0,05 mm and 0,1 mm. Technical note: Measurement of ‘initial relative permeability’ must be performed on fully annealed materials. | 1C003.a. |
+| II.A1.009 | ‘Fibrous or filamentary materials’ or prepregs, other than those specified in 1C010.a., 1C010.b., 1C210.a. or 1C210.b., as follows: a. Aramid ‘fibrous or filamentary materials’ having either of the following characteristics: 1. A ‘specific modulus’ exceeding 10 × 106 m; or 2. A ‘specific tensile strength’ exceeding 17 × 104 m; b. Glass ‘Gfibrous or filamentary materials’ having either of the following characteristics: 1. A ‘specific modulus’ exceeding 3,18 × 106 m; or 2. A ‘specific tensile strength’ exceeding 76,2 × 103 m; c. Thermoset resin-impregnated continuous ‘yarns’, ‘rovings’, ‘tows’ or ‘tapes’ with a width of 15 mm or less (once prepregs), made from glass ‘fibrous or filamentary materials’ other than those specified in I.A1.010.a. below; d. Carbon ‘fibrous or filamentary materials’; e. Thermoset resin-impregnated continuous ‘yarns’, ‘rovings’, ‘tows’, or ‘tapes’, made from carbon ‘fibrous or filamentary materials’; f. Polyacrylonitrile (PAN) continuous ‘yarns’, ‘rovings’, ‘tows’ or ‘tapes’; g. Para-aramid ‘fibrous or filamentary materials’ (Kevlar® and other Kevlar®-like fibres). | 1C010.a. 1C010.b. 1C210.a. 1C210.b. |
+| II.A1.010 | Resin-impregnated or pitch-impregnated fibres (prepregs), metal or carbon-coated fibres (preforms) or ‘carbon fibre preforms’, as follows: a. Made from ‘fibrous or filamentary materials’ specified in II.A1.009 above; b. Epoxy resin ‘matrix’ impregnated carbon ‘fibrous or filamentary materials’ (prepregs), specified in 1C010.a., 1C010.b. or 1C010.c., for the repair of aircraft structures or laminates, of which the size of individual sheets does not exceed 50 cm × 90 cm; c. Prepregs specified in 1C010.a., 1C010.b. or 1C010.c., when impregnated with phenolic or epoxy resins having a glass transition temperature (Tg) less than 433 K (160 °C) and a cure temperature lower than the glass transition temperature. | 1C010 1C210 |
+| II.A1.011 | Reinforced silicon carbide ceramic composites usable for nose tips, re-entry vehicles, nozzle flaps, usable in ‘missiles’, other than those specified in 1C107. | 1C107 |
+| II.A1.012 | Not used. |  |
+| II.A1.013 | Tantalum, tantalum carbide, tungsten, tungsten carbide and alloys thereof, other than those specified in 1C226, having both of the following characteristics: a. In forms having a hollow cylindrical or spherical symmetry (including cylinder segments) with an inside diameter between 50 mm and 300 mm; and b. A mass greater than 5 kg. | 1C226 |
+| II.A1.014 | ‘Elemental powders’ of cobalt, neodymium or samarium or alloys or mixtures thereof containing at least 20 % by weight of cobalt, neodymium or samarium, with a particle size less than 200 μm. Technical note: ‘Elemental powder’ means a high purity powder of one element. | N/A |
+| II.A1.015 | Pure tributyl phosphate (TBP) [CAS No 126-73-8] or any mixture having a TBP content of more than 5 % by weight. | N/A |
+| II.A1.016 | Maraging steel, other than those specified by 1C116 or 1C216. Technical notes: 1. The phrase maraging steel ‘capable of’ encompasses maraging steel before or after heat treatment. 2. Maraging steels are iron alloys generally characterised by high nickel, very low carbon content and the use of substitutional elements or precipitates to produce strengthening and age-hardening of the alloy. | 1C116 1C216 |
+| II.A1.017 | Metals, metal powders and material as follows: a. Tungsten and tungsten alloys, other than those specified in 1C117, in the form of uniform spherical or atomized particles of 500 μm (micrometre) diameter or less with a tungsten content of 97 % by weight or more; b. Molybdenum and molybdenum alloys, other than those specified in 1C117, in the form of uniform spherical or atomized particles of 500 μm diameter or less with a molybdenum content of 97 % by weight or more; c. Tungsten materials in the solid form, other than those specified in 1C226 having material compositions as follows: 1. Tungsten and alloys containing 97 % by weight or more of tungsten; 2. Copper infiltrated tungsten containing 80 % by weight or more of tungsten; or 3. Silver infiltrated tungsten containing 80 % by weight or more of tungsten. | 1C117 1C226 |
+| II.A1.018 | Soft magnetic alloys, other than those specified in 1C003, having a chemical composition as follows: a. Iron content between 30 % and 60 %; and b. Cobalt content between 40 % and 60 %. | 1C003 |
+| II.A1.019 | Not used. |  |
+| II.A1.020 | Graphite, other than that specified in 0C004 or 1C107.a., designed or specified for use in Electrical Discharge Machining (EDM) machines. | 0C004 1C107.a. |
+| II.A1.021 | Steel alloys in sheet or plate form, having any of the following characteristics: (a) Steel alloys ‘capable of’ ultimate tensile strength of 1 200 MPa or more, at 293 K (20 °C); or (b) Nitrogen-stabilised duplex stainless steel. Note: the phrase alloys ‘capable of’ encompasses alloys before or after heat treatment. Technical note: ‘nitrogen-stabilised duplex stainless steel’ has a two-phase microstructure consisting of grains of ferritic and austenitic steel with the addition of nitrogen to stabilise the microstructure. | 1C116 1C216 |
+| II.A1.022 | Carbon-Carbon Composite material. | 1A002.b.1 |
+| II.A1.023 | Nickel alloys in crude or semi-fabricated form, containing 60 % by weight or more nickel. | 1C002.c.1.a |
+| II.A1.024 | Titanium alloys in sheet or plate form ‘capable of’ an ultimate tensile strength of 900 MPa or more at 293 K (20 °C). Note: the phrase alloys ‘capable of’ encompasses alloys before or after heat treatment. | 1C002.b.3 |
+| II.A1.025 | Titanium alloys, other than those specified in 1C002 and 1C202. | 1C002 1C202 |
+| II.A1.026 | Zirconium and zirconium alloys, other than those specified in 1C011, 1C111 and 1C234. | 1C011 1C111 1C234 |
+| II.A1.027 | Explosive materials other than those specified in 1C239, or materials or mixtures containing more than 2 % by weight of such explosive materials, with a crystalline density higher than 1,5 g/cm3 and with a detonation speed higher than 5 000 m/s. | 1C239 |
+
+II.A2. MATERIALS PROCESSING
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.A2.001 | Vibration test systems, equipment and components thereof, other than those specified in 2B116: a. Vibration test systems employing feedback or closed loop techniques and incorporating a digital controller, capable of vibrating a system at an acceleration equal to or greater than 0,1 g rms between 0,1 Hz and 2 kHz and imparting forces equal to or greater than 50 kN, measured ‘bare table’; b. Digital controllers, combined with specially designed vibration test ‘software’, with a ‘real-time control bandwidth’ greater than 5 kHz designed for use with vibration test systems specified in a.; Technical note:‘Real-time control bandwidth’ is defined as the maximum rate at which a controller can execute complete cycles of sampling, processing data and transmitting control signals. c. Vibration thrusters (shaker units), with or without associated amplifiers, capable of imparting a force equal to or greater than 50 kN, measured ‘bare table’, and usable in vibration test systems specified in a.; d. Test piece support structures and electronic units designed to combine multiple shaker units in a system capable of providing an effective combined force equal to or greater than 50 kN, measured ‘bare table’, and usable in vibration systems specified in a. Technical note: ‘bare table’ means a flat table, or surface, with no fixture or fittings. | 2B116 |
+| II.A2.002 | Machine tools, other than those specified in 2B001 or 2B201 and any combination thereof, for removing (or cutting) metals, ceramics, or ‘composites’ that, according to the manufacturer's technical specification, can be equipped with electronic devices for ‘numerical control’, having positioning accuracies of equal to or less (better) than 30 μm according to ISO 230/2 (1988) or national equivalents along any linear axis. Technical note: Manufacturers calculating positioning accuracy in accordance with ISO 230/2 (1997) should consult the competent authorities of the Member State in which they are established. | 2B001 2B201 |
+| II.A2.002a | Components and numerical controls, specially designed for machine tools specified in 2B001, 2B201 or I.A2.002 above. | N/A |
+| II.A2.003 | Balancing machines and related equipment as follows: a. Balancing machines, designed or modified for dental or other medical equipment, having all the following characteristics: 1. Not capable of balancing rotors/assemblies having a mass greater than 3 kg; 2. Capable of balancing rotors/assemblies at speeds greater than 12 500 rpm; 3. Capable of correcting unbalance in two planes or more; and 4. Capable of balancing to a residual specific unbalance of 0,2 g × mm per kg of rotor mass; b. ‘Indicator heads’ designed or modified for use with machines specified in a. above. Technical note: ‘Indicator heads’ are sometimes known as balancing instrumentation. | 2B119 |
+| II.A2.004 | Remote manipulators that can be used to provide remote actions in radiochemical separation operations or hot cells, other than those specified in 2B225, having either of the following characteristics: a. A capability of penetrating a hot cell wall of 0,3 m or more (through the wall operation); or b. A capability of bridging over the top of a hot cell wall with a thickness of 0,3 m or more (over the wall operation). Technical note: Remote manipulators provide translation of human operator actions to a remote operating arm and terminal fixture. They may be of master/slave type or operated by joystick or keypad. | 2B225 |
+| II.A2.005 | Controlled atmosphere heat treatment furnaces or oxidation furnaces capable of operation at temperatures above 400 °C. Note: This item does not cover tunnel kilns with roller or car conveyance, tunnel kilns with conveyor belt, pusher type kilns or shuttle kilns, specially designed for the production of glass, tableware ceramics or structural ceramics. | 2B226 2B227 |
+| II.A2.006 | Not used. |  |
+| II.A2.007 | ‘Pressure transducers’, other than those defined in 2B230, capable of measuring absolute pressures at any point in the range 0 to 200 kPa and having both of the following characteristics: a. Pressure sensing elements made of or protected by ‘Materials resistant to corrosion by uranium hexafluoride (UF6)’; and b. Having either of the following characteristics: 1. A full scale of less than 200 kPa and an ‘accuracy’ of better than ± 1 % of full scale; or 2. A full scale of 200 kPa or greater and an ‘accuracy’ of better than 2 kPa. Technical note: For the purposes of 2B230 ‘accuracy’ includes non-linearity, hysteresis and repeatability at ambient temperature. | 2B230 |
+| II.A2.008 | Liquid-liquid contacting equipment (mixer-settlers, pulsed columns, plate columns, centrifugal contactors); and liquid distributors, vapour distributors or liquid collectors designed for such equipment, where all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials: a. Alloys with more than 25 % nickel and 20 % chromium by weight; b. Fluoropolymers; c. Glass (including vitrified or enamelled coating or glass lining); d. Graphite or ‘carbon graphite’; e. Nickel or alloys with more than 40 % nickel by weight; f. Tantalum or tantalum alloys; g. Titanium or titanium alloys; h. Zirconium or zirconium alloys; or i. Stainless steel. Technical note: ‘Carbon graphite’ is a composition consisting of amorphous carbon and graphite, in which the graphite content is 8 % or more by weight. | 2B350.e. |
+| II.A2.009 | Industrial equipment and components, other than those specified in 2B350.d., as follows: Heat exchangers or condensers with a heat transfer surface area greater than 0,05 m2, and less than 30 m2; and tubes, plates, coils or blocks (cores) designed for such heat exchangers or condensers, where all surfaces that come in direct contact with the fluid(s) are made from any of the following materials: a. Alloys with more than 25 % nickel and 20 % chromium by weight; b. Fluoropolymers; c. Glass (including vitrified or enamelled coating or glass lining); d. Graphite or ‘carbon graphite’; e. Nickel or alloys with more than 40 % nickel by weight; f. Tantalum or tantalum alloys; g. Titanium or titanium alloys; h. Zirconium or zirconium alloys; i. Silicon carbide; j. Titanium carbide; or k. Stainless steel. Note: This item does not cover vehicle radiators. Technical note: The materials used for gaskets and seals and other implementation of sealing functions do not determine the status of control of the heat exchanger. | 2B350.d. |
+| II.A2.010 | Multiple-seal, and seal-less pumps, other than those specified in 2B350.i, suitable for corrosive fluids, or vacuum pumps and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come in direct contact with the chemical(s) being processed are made from any of the following materials: a. Alloys with more than 25 % nickel and 20 % chromium by weight; b. Ceramics; c. Ferrosilicon; d. Fluoropolymers; e. Glass (including vitrified or enamelled coatings or glass lining); f. Graphite or ‘carbon graphite’; g. Nickel or alloys with more than 40 % nickel by weight; h. Tantalum or tantalum alloys; i. Titanium or titanium alloys; j. Zirconium or zirconium alloys; k. Niobium (columbium) or niobium alloys; l. Stainless steel; m. Aluminium alloys; or n. Rubber. Technical notes: The materials used for gaskets and seals and other implementations of sealing functions do not determine the status of control of the pump. The term ‘rubber’ encompasses all kinds of natural and synthetic rubbers. | 2B350.i. |
+| II.A2.011 | ‘Centrifugal separators’, other than those specified in 2B352.c., capable of continuous separation without the propagation of aerosols and manufactured from: a. Alloys with more than 25 % nickel and 20 % chromium by weight; b. Fluoropolymers; c. Glass (including vitrified or enamelled coating or glass lining); d. Nickel or alloys with more than 40 % nickel by weight; e. Tantalum or tantalum alloys; f. Titanium or titanium alloys; or g. Zirconium or zirconium alloys. Technical note: ‘Centrifugal separators’ include decanters. | 2B352.c. |
+| II.A2.012 | Sintered metal filters, other than those specified in 2B352.d., made of nickel or nickel alloy with more than 40 % nickel by weight. | 2B352.d. |
+| II.A2.013 | Spin-forming machines and flow-forming machines, other than those specified by 2B009, 2B109 or 2B209 and specially designed components therefor. Technical note: For the purpose of this item, machines combining the functions of spin-forming and flow-forming are regarded as flow-forming machines. | 2B009 2B109 2B209 |
+| II.A2.014 | Equipment and reagents, other than those specified in 2B350 or 2B352, as follows: a. Fermenters capable of cultivation of pathogenic ‘micro-organisms’ or viruses, or capable of toxin production, without the propagation of aerosols, and having a total capacity of 10 l or more; b. Agitators for fermenters as mentioned in a. above; Technical Note: Fermenters include bioreactors, chemostats and continuous-flow systems. c. Laboratory equipment as follows: 1. Polymerase chain reaction (PCR)-equipment 2. Genetic sequencing equipment; 3. Genetic synthesizers; 4. Electroporation equipment; 5. Specific reagents associated with the equipment in I.A2.014.c. numbers 1. to 4. above; d. Filters, micro-filters, nano-filters or ultra-filters usable in industrial or laboratory biology for continuous filtering, except filters specially designed or modified for medical or clear water production purposes and to be used in the framework of EU or UN officially supported projects; e. Ultracentrifuges, rotors and adaptors for ultracentrifuges; f. Freeze drying equipment. | 2B350 2B352 |
+| II.A2.015 | Equipment, other than that specified in 2B005, 2B105 or 3B001.d., for the deposition of metallic overlays as follows, and specially designed components and accessories therefor: a. Chemical vapour deposition (CVD) production equipment; b. Physical vapour deposition (PVD) production equipment; c. Production equipment for deposition by means of inductive or resistance heating. | 2B005 2B105 3B001.d. |
+| II.A2.016 | Open tanks or containers, with or without agitators, with a total internal (geometric) volume greater than 0,5 m3 (500 litres), where all surfaces that come in direct contact with the chemical(s) being processed or contained are made from any of the following materials: a. Alloys with more than 25 % nickel and 20 % chromium by weight; b. Fluoropolymers; c. Glass (including vitrified or enamelled coatings or glass lining); d. Nickel or alloys with more than 40 % nickel by weight; e. Tantalum or tantalum alloys; f. Titanium or titanium alloys; g. Zirconium or zirconium alloys; h. Niobium (columbium) or niobium alloys; i. Stainless steel; j. Wood; or k. Rubber. Technical note: The term ‘rubber’ encompasses all kinds of natural and synthetic rubbers. | 2B350 |
+
+II.A3. ELECTRONICS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.A3.001 | High voltage direct current power supplies, other than those specified in 0B001.j.5. or 3A227, having both of the following characteristics: a. Capable of continuously producing, over a time period of eight hours, 10 kV or more, with output power of 5 kW or more with or without sweeping; and b. Current or voltage stability better than 0,1 % over a time period of four hours. | 0B001.j.5. 3A227 |
+| II.A3.002 | Mass spectrometers, other than those specified in 0B002.g. or 3A233, capable of measuring ions of 200 atomic mass units or more and having a resolution of better than 2 parts in 200, as follows, and ion sources therefor: a. Inductively coupled plasma mass spectrometers (ICP/MS); b. Glow discharge mass spectrometers (GDMS); c. Thermal ionisation mass spectrometers (TIMS); d. Electron bombardment mass spectrometers which have a source chamber constructed from, lined with or plated with ‘materials resistant to corrosion by uranium hexafluoride UF6’; e. Molecular beam mass spectrometers having either of the following characteristics: 1. A source chamber constructed from, lined with or plated with stainless steel or molybdenum and equipped with a cold trap capable of cooling to 193 K (– 80 °C) or less; or 2. A source chamber constructed from, lined with or plated with materials resistant to UF6; f. Mass spectrometers equipped with a micro-fluorination ion source designed for actinides or actinide fluorides. | 0B002.g. 3A233 |
+| II.A3.003 | Frequency changers or generators, other than those specified by 0B001.b.13. or 3A225, having all of the following characteristics, and specially designed components and software therefor: a. Multiphase output capable of providing a power of 40 W or greater; b. Capable of operating in the frequency range between 600 and 2 000 Hz; and c. Frequency control better (less) than 0,1 %. Technical notes: 1. Frequency changers are also known as converters, inverters, generators, electronic test equipment, AC power supplies, variable speed motor drives or variable frequency drives. 2. The functionality specified in this item may be met by certain equipment marketed as: electronic test equipment, AC power supplies, variable speed motor drives or variable frequency drives. | 0B001.b.13. 3A225 |
+| II.A3.004 | Spectrometers and diffractometers, designed for the indicative test or quantitative analysis of the elemental composition of metals or alloys without chemical decomposition of the material. | N/A |
+
+II.A6. SENSORS AND LASERS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.A6.001 | Yttrium aluminium garnet (YAG) rods. | N/A |
+| II.A6.002 | Optical equipment and components, other than those specified in 6A002 or 6A004.b. as follows: Infrared optics in the wavelength range 9 μm – 17 μm and components thereof, including cadmium telluride (CdTe) components. | 6A002 6A004.b. |
+| II.A6.003 | Wave front corrector systems, other than mirrors specified in 6A004.a., 6A005.e. or 6A005.f., for use with a laser beam having a diameter exceeding 4 mm, and specially designed components thereof, including control systems, phase front sensors and ‘deformable mirrors’ including bimorph mirrors. | 6A004.a. 6A005.e. 6A005.f. |
+| II.A6.004 | Argon ion ‘lasers’, other than those specified in 0B001.g.5., 6A005.a.6. and/or 6A205.a., having an average output power equal to or greater than 5 W. | 0B001.g.5. 6A005.a.6. 6A205.a. |
+| II.A6.005 | Semiconductor ‘lasers’, other than those specified in 0B001.g.5., 0B001.h.6. or 6A005.b., and components thereof, as follows: a. Individual semiconductor ‘lasers’ with an output power greater than 200 mW each, in quantities larger than 100; b. Semiconductor ‘laser’ arrays having an output power greater than 20 W. Notes: 1. Semiconductor ‘lasers’ are commonly called ‘laser’ diodes. 2. This item does not cover ‘laser’ diodes with a wavelength in the range 1,2 μm – 2,0 μm. | 0B001.g.5. 0B001.h.6. 6A005.b. |
+| II.A6.006 | Tunable semiconductor ‘lasers’ and tunable semiconductor ‘laser’ arrays, other than those specified in 0B001.h.6. or 6A005.b., of a wavelength between 9 μm and 17 μm, as well as array stacks of semiconductor ‘lasers’ containing at least one tunable semiconductor ‘laser’ array of such wavelength. Note: Semiconductor ‘lasers’ are commonly called ‘laser’ diodes. | 0B001.h.6. 6A005.b. |
+| II.A6.007 | Solid state ‘tunable’‘lasers’, other than those specified in 0B001.g.5., 0B001.h.6. or 6A005.c.1., and specially designed components thereof, as follows: a. Titanium-sapphire lasers, b. Alexandrite lasers. | 0B001.g.5. 0B001.h.6. 6A005.c.1. |
+| II.A6.008 | Neodymium-doped (other than glass) ‘lasers’, other than those specified in 6A005.c.2.b., having an output wavelength greater than 1,0 μm but not exceeding 1,1 μm and output energy exceeding 10 J per pulse. | 6A005.c.2.b. |
+| II.A6.009 | Components of acousto-optics, as follows: a. Framing tubes and solid-state imaging devices having a recurrence frequency equal to or exceeding 1 kHz; b. Recurrence frequency supplies; c. Pockels cells. | 6A203.b.4. |
+| II.A6.010 | Radiation-hardened cameras, or lenses thereof, other than those specified in 6A203.c., specially designed, or rated as radiation-hardened, to withstand a total radiation dose greater than 50 × 103 Gy (silicon) (5 × 106 rad (silicon)) without operational degradation. Technical note: The term Gy (silicon) refers to the energy in Joules per kilogram absorbed by an unshielded silicon sample when exposed to ionising radiation. | 6A203.c. |
+| II.A6.011 | Tunable pulsed dye laser amplifiers and oscillators, other than those specified in 0B001.g.5., 6A005 and or 6A205.c., having all of the following characteristics: a. Operating at wavelengths between 300 nm and 800 nm; b. An average output power greater than 10 W but not exceeding 30 W; c. A repetition rate greater than 1 kHz; and d. Pulse width less than 100 ns. Note: This item does not cover single mode oscillators. | 0B001.g.5. 6A005 6A205.c. |
+| II.A6.012 | Pulsed carbon dioxide ‘lasers’, other than those specified in, 0B001.h.6., 6A005.d. or 6A205.d., having all of the following characteristics: a. Operating at wavelengths between 9 μm and 11 μm; b. A repetition rate greater than 250 Hz; c. An average output power greater than 100 W but not exceeding 500 W; and d. Pulse width less than 200 ns. | 0B001.h.6. 6A005.d. 6A205.d. |
+| II.A6.013 | Lasers, other than those specified in 6A005 or 6A205. | 6A005 6A205 |
+
+II.A7. NAVIGATION AND AVIONICS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.A7.001 | Inertial navigation systems and specially designed components thereof, as follows: a. Inertial navigation systems which are certified for use on ‘civil aircraft’ by civil authorities of a State participating in the Wassenaar Arrangement, and specially designed components thereof, as follows: 1. Inertial navigation systems (INS) (gimballed or strapdown) and inertial equipment designed for ‘aircraft’, land vehicle, vessels (surface or underwater) or ‘spacecraft’ for attitude, guidance or control, having any of the following characteristics, and specially designed components thereof: a. Navigation error (free inertial) subsequent to normal alignment of 0,8 nautical mile per hour (nm/hr) ‘Circular Error Probable’ (CEP) or less (better); or b. Specified to function at linear acceleration levels exceeding 10 g; 2. Hybrid Inertial Navigation Systems embedded with Global Navigation Satellite Systems(s) (GNSS) or with ‘Data-Based Referenced Navigation’ (‘DBRN’) System(s) for attitude, guidance or control, subsequent to normal alignment, having an INS navigation position accuracy, after loss of GNSS or ‘DBRN’ for a period of up to four minutes, of less (better) than 10 metres ‘Circular Error Probable’ (CEP); 3. Inertial Equipment for Azimuth, Heading, or North Pointing having any of the following characteristics, and specially designed components thereof: a. Designed to have an Azimuth, Heading, or North Pointing accuracy equal to, or less (better) than 6 arc minutes RMS at 45 degrees latitude; or b. Designed to have a non-operating shock level of at least 900 g at a duration of at least 1 msec. b. Theodolite systems incorporating inertial equipment specially designed for civil surveying purposes and designed to have an Azimuth, Heading, or North Pointing accuracy equal to, or less (better) than 6 arc minutes RMS at 45 degrees latitude, and specially designed components thereof. c. Inertial or other equipment using accelerometers specified in 7A001 or 7A101, where such accelerometers are specially designed and developed as MWD (Measurement While Drilling) sensors for use in down-hole well services operations. Note: The parameters of a.1. and a.2. are applicable with any of the following environmental conditions: 1. Input random vibration with an overall magnitude of 7,7 g rms in the first half hour and a total test duration of one and a half hours per axis in each of the three perpendicular axes, when the random vibration meets the following: a. A constant power spectral density (PSD) value of 0,04 g2/Hz over a frequency interval of 15 to 1 000 Hz; and b. The PSD attenuates with a frequency from 0,04 g2/Hz to 0,01 g2/Hz over a frequency interval from 1 000 to 2 000 Hz; 2. A roll and yaw rate equal to or greater than + 2,62 radian/s (150 deg/s); or 3. According to national standards equivalent to 1. or 2. above. Technical notes: 1. a.2. refers to systems in which an INS and other independent navigation aids are built into a single unit (embedded) in order to achieve improved performance. 2. ‘Circular Error Probable’ (CEP) – In a circular normal distribution, the radius of the circle containing 50 % of the individual measurements being made, or the radius of the circle within which there is a 50 % probability of being located. | 7A001 7A003 7A101 7A103 |
+
+II.A9. AEROSPACE AND PROPULSION
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.A9.001 | Explosive bolts. | N/A |
+| II.A9.002 | Internal combustion engines (i.e. axial piston or rotary piston type), designed or modified for propelling ‘aircrafts’ or ‘lighter-than-air-vehicles’ and specially designed components therefor. | N/A |
+| II.A9.003 | Trucks, other than those specified in 9A115, having more than one motorised axle and a payload exceeding 5 tonnes. Note: This item includes flatbed trailers, semi trailers and other trailers. | 9A115 |
+
+**B. SOFTWARE**
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.B.001 | Software required for the development, production or use of the items in Part A. (Goods). | N/A |
+
+**C. TECHNOLOGY**
+
+| No | Description Items, materials, equipment, goods and technology | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| II.C.001 | Technology required for the development, production or use of the items in Part A. (Goods). | N/A |
+
+**PART III**
+
+Other items, materials, equipment, goods and technology which could contribute to DPRK's ballistic-missile sector.
+
+**A. GOODS**
+
+III.A1. SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| III.A1.001 | Unwrought aluminium | 1C002 |
+| III.A1.002 | Aluminium waste and scrap | 1C002 |
+| III.A1.003 | Aluminium powders and flakes | 1C111 |
+| III.A1.004 | Aluminium bars, rods and profiles | 1C002 |
+| III.A1.005 | Aluminium wire | 1C002 |
+| III.A1.006 | Aluminium plates, sheets and strip, of a thickness exceeding 0,2 mm | 1C002 |
+| III.A1.007 | Aluminium tubes and pipes | 1C002 |
+| III.A1.008 | Aluminium tube or pipe fittings (for example, couplings, elbows, sleeves) | 1C002 |
+| III.A1.009 | Stranded wire, cables, plaited bands and the like, of aluminium, not electrically insulated | 1C002 |
+
+**PART IV**
+
+Weapons of mass destruction-related items, materials, equipment, goods and technology identified and designated pursuant to paragraph 25 of UN Security Council Resolution 2270 (2016).
+
+**A. GOODS**
+
+IV.A0. NUCLEAR MATERIALS, FACILITIES AND EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IV.A0.001 | Ring Magnets Permanent magnet materials having both the following characteristics: i. Ring-shaped magnet with a relation between outer and inner diameter smaller or equal to 1.6:1; and ii. Made of any of the following magnetic materials: aluminium-nickel-cobalt, ferrites, samarium-cobalt, or neodymium-iron-boron. | 3A201.b. |
+| IV.A0.002 | Frequency Changers (also known as converters or inverters) Frequency changers, other than those specified in entries 0B001.b.13 or 3A225 of Annex 1, having all of the following characteristics, and specially designed software therefore: i. Multiphase frequency output; ii. Capable of providing a power of 40 W or greater; and iii. Capable of operating anywhere (at any one point or more) within the frequency range of between 600 and 2 000 Hz. Technical Notes: (1) Frequency changers are also known as converters or inverters. (2) The functionality specified above may be met by certain equipment described or marketed as electronic test equipment, AC power supplies, variable speed motor drives, or variable frequency drives. | 0B001.b.13. 3A225 |
+
+IV.A1. SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IV.A1.001 | Maraging steel having both the following characteristics: i. ‘capable of’ an ultimate tensile strength of 1 500 MPa or more at 293 K (20 °C). ii. In bar or tube form, with an outer diameter of 75 mm or greater. | 1C216 |
+| IV.A1.002 | Magnetic alloy materials in sheet or thin strip form having both of the following characteristics: (a) Thickness of 0,05 mm or less; or height of 25 mm or less, and (b) Made of any of the following magnetic alloy materials: iron-chromium-cobalt, iron-cobalt-vanadium, iron- chromium-cobalt-vanadium, or iron-chromium. | 1C005 |
+| IV.A1.003 | High-strength Aluminium Alloy Aluminium alloys having both the following characteristics: i. ‘capable of’ an ultimate tensile of strength of 415 MPa or more at 293 K (20 °C) and ii. In bar or tube form, with an outer diameter of 75 mm or greater. Technical Note: The phrase ‘capable of’ encompasses aluminium alloy before or after heat treatment. | 1C202 |
+| IV.A1.004 | ‘Fibrous or filamentary materials’ and prepregs, as follows: i. Carbon, aramid, or glass ‘fibrous or filamentary materials’ having both of the following characteristics: (1) A ‘specific modulus’ exceeding 3,18 × 106 m; and (2) A ‘specific tensile strength’ exceeding 76,2 × 103 m; ii. Prepregs: Thermoset resin-impregnated continuous ‘yarns’, ‘rovings’, ‘tows’ or ‘tapes’ with a width of 30 mm or less, made from carbon, aramid, or glass ‘fibrous or filamentary materials’ controlled in (a) above. | 1C210 |
+| IV.A1.005 | Filament winding machines and related equipment, as follows: i. Filament winding machines having all of the following characteristics: (1) Having motions for positioning, wrapping, and winding fibres coordinated and programmed in two or more axes; (2) Specially designed to fabricate composite structures or laminates from ‘fibrous or filamentary materials’; and (3) Capable of winding cylindrical tubes of diameter of 75 mm or greater; ii. Coordinating and programming controls for filament winding machines specified in (a) above; iii. Mandrels for filament winding machines specified in (a) above. | 1B201 |
+| IV.A1.006 | Metal hydrides such as, zirconium | 1B231 |
+| IV.A1.007 | Sodium metal (7440-23-5) | 1C350 |
+| IV.A1.008 | Sulphur trioxide (7446-11-9) | 1C350 |
+| IV.A1.009 | Aluminium chloride (7446-70-0) | N/A |
+| IV.A1.010 | Potassium Bromide (7758-02-3) | 1C350 |
+| IV.A1.011 | Sodium bromide (7647-15-6) | 1C350 |
+| IV.A1.012 | Dichloromethane (75-09-2) | 1C350 |
+| IV.A1.013 | Isopropyl bromide (75-26-3) | 1C350 |
+| IV.A1.014 | Isopropyl ether (108-20-3) | 1C350 |
+| IV.A1.015 | Monoisopropylamine (75-31-0) | 1C350 |
+| IV.A1.016 | Trimethylamine (75-50-3) | 1C350 |
+| IV.A1.017 | Tributylamine (102-82-9) | 1C350 |
+| IV.A1.018 | Triethylamine (121-44-8) | 1C350 |
+| IV.A1.019 | N,N-Dimethylaniline (121-69-7) | 1C350 |
+| IV.A1.020 | Pyridine (110-86-1) | 1C350 |
+
+IV.A2. MATERIALS PROCESSING
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IV.A2.001 | Flow-forming Machines As described in INFCIRC/254/Rev.9/Part2 and S/2014/253 | 2B209 |
+| IV.A2.002 | Laser welding equipment | N/A |
+| IV.A2.003 | 4- and 5-axis CNC machine tools | 2B201 |
+| IV.A2.004 | Plasma cutting equipment | N/A |
+| IV.A2.005 | Reaction vessels, reactors, agitators, heat exchangers, condensers, pumps, valves, storage tanks, containers, receivers, and distillation or absorption columns that meet performance parameters described in S/2006/853 and S/2006/853/corr.1 Single-seal pumps with manufacturer's specified maximum flow-rate greater than 0,6 m3/h and casings (pump bodies), preformed casing liners, impellers, rotors or jet pump nozzles designed for such pumps, in which all surfaces that come into direct contact with the chemical(s) being processed are made from any of the following materials: (a) nickel or alloys with more than 40 % nickel by weight; (b) alloys with more than 25 % nickel and 20 % chromium by weight; (c) fluoropolymers (polymeric or elastomeric materials with more than 35 % fluorine by weight); (d) glass or glass-lined (including vitrified or enamelled coating); (e) graphite or carbon-graphite; (f) tantalum or tantalum alloys; (g) titanium or titanium alloys; (h) zirconium or zirconium alloys; (i) ceramics; (j) ferrosilicon (high silicon iron alloys); or (k) niobium (columbium) or niobium alloys. | 2B350 |
+| IV.A2.006 | Conventional or turbulent air-flow clean-air rooms and self-contained fan-HEPA filter units that could be used for P3 or P4 (BSL 3, BSL 4, L3, L4) containment facilities. | 2B352 |
+
+**PART V**
+
+Weapons of mass destruction-related items, materials, equipment, goods and technology identified and designated pursuant to paragraph 4 of UN Security Council Resolution 2321 (2016).
+
+**A. GOODS**
+
+V.A1. SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| V.A1.001 | Isocyanates (TDI (Toluene di-isocyanate), MDI (Methylene bis (phenyl isocyanate)), IPDI (Isophorone diiosocyanate), HNMDI or HDI (Hexamethylene diisocyanate), and DDI (dimeryl diisocyanate) and production equipment. | N/A |
+| V.A1.002 | Ammonium nitrate, chemically pure or in phase stabilized version (PSAN). | 1C111 |
+| V.A1.003 | Polymeric Substances (Hydroxyl Terminated Poly-Ether (HTPE), Hydroxyl Terminated Caprolactone Ether (HTCE), Polypropylene glycol (PPG), Polydiethyleneglycol adipate (PGA) and Polyethylene | 1C111 |
+| V.A1.004 | Manganese metal Brazing Foils. | 1C111 |
+
+V.A2. MATERIALS PROCESSING
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| V.A2.001 | Hydroforming machines. | 2B109 |
+| V.A2.002 | Thermal treatment furnaces — Temperature > 850 °C and one dimension > 1 m, | II.A2.005 2B226 2B227 |
+| V.A2.003 | Electrical Discharge Machines (EDMs) | 2B001.d |
+| V.A2.004 | Friction stir welding machines. | N/A |
+| V.A2.005 | Floor-mounted fume hoods (walk-in style) with a minimum nominal width of 2,5 meters, | 2B352 |
+| V.A2.006 | Batch centrifuges with a rotor capacity of 4 L or greater, usable with biological materials | II.A2.014.e. 2B350 2B352 |
+| V.A2.007 | Fermenters with an internal volume of 10-20 L (0,01-0,02 m3), usable with biological materials | 2B352 II.A2.014.a. |
+
+V.A6. SENSORS AND LASERS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| V.A6.001 | High-speed imaging cameras except those used in medical imaging systems | 6A003.a.2 |
+
+V.A9. AEROSPACE AND PROPULSION
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| V.A9.001 | Non-destructive test chambers with a 1m or more critical internal dimension. | 9B106 |
+| V.A9.002 | Turbo-pumps for liquid or hybrid rocket engines | 9A006 |
+| V.A9.003 | Countermeasure Subsystems and Penetration Aids (e.g. jammers, chaff, decoys) designed to saturate, confuse, or evade missile defences. | N/A |
+| V.A9.004 | Truck chassis with 6 or more axles | 9A115 II.A9.003 |
+
+**B. SOFTWARE**
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| V.B.001 | Modelling and design software related to the modelling of aerodynamic and thermodynamic analysis of rocket or unmanned aerial vehicle systems. | N/A |
+
+**PART VI**
+
+Weapons of mass destruction-related items, materials, equipment, goods and technology identified and designated pursuant to paragraph 4 of UNSCR 2371 (2017).
+
+**A. GOODS**
+
+VI.A1. SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VI.A1.001 | Explosive bolts, nuts and shackles, flexible linear-shaped charges, ball locks, compression springs, circular cutting devices and acceleration rockets usable for staging mechanisms | N/A |
+| VI.A1.002 | All environmental test chambers capable of simulating flight conditions (temperature, pressure, shock and vibration) except those used for civilian aircraft safety purposes | 9B106 |
+| VI.A1.003 | Rapid prototyping, including additive manufacturing equipment | N/A |
+| VI.A1.004 | Polyacrylonitrile (PAN) fibre usable as a precursor for carbon fibre production and its associated production equipment | 1C010 1C210 9C110 |
+| VI.A1.005 | For point 12 of the list in the report of the Committee prepared in accordance with paragraph 25 of resolution 2270 (2016) (S/2016/308, annex) read ‘Metal hydrides, such as zirconium hydride, beryllium hydride, aluminium hydride, lithium aluminium hydride and titanium hydride’ | 1C111 |
+| VI.A1.006 | Plasticizers usable in composite propellants, such as — dioctyl adipate (DOA) (CAS 123-79-5) — dioctyl sebacate (DOS) (CAS 122-62-3) — dioctyl azelate (DOZ) (CAS 103-24-2) | 1C111 |
+| VI.A1.007 | Maraging steel capable of an ultimate tensile strength of 1 950 MPa or more at 293 K (20 °C) and in any of the following forms: (a) Sheet, plate or tubing with a wall or plate thickness equal to or less than 5,0 mm; (b) Tubular forms with a wall thickness of 50 mm or less and having an inner diameter of 270 mm or more | 1C216 |
+| VI.A1.008 | Filament winding machines and related equipment: Filament winding machines or fibre/tow-placement machines, of which the motions for positioning, wrapping and winding fibres can be coordinated and programmed in two or more axes and which are designed to fabricate composite structures or laminates from fibrous or filamentary materials, coordinating and programming controls and precision mandrels for such equipment | 1B001 1B101 1B201 |
+| VI.A1.009 | Full face-mask air-purifying and air-supplying respirators except those used in breathing apparatus for firefighters | 1A004.a. 2B352 |
+| VI.A1.010 | Additional chemicals suitable for decontamination of chemical warfare agents: Diethylenetriamine (CAS 111-40-0) | N/A |
+| VI.A1.011 | Nerve agent chemoprophylaxis: — Butyrylcholinesterase (BCHE) — Pyridostigmine bromide (CAS 101-26-8) — Obidoxime chloride (CAS 114-90-9) | N/A |
+
+**PART VII**
+
+Conventional arms-related items, materials, equipment, goods and technology designated, pursuant to paragraph 5 of UNSCR 2371 (2017).
+
+**A. GOODS**
+
+VII.A1. SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.A1.001 | ‘Composite’ structures or laminates consisting of an organic ‘matrix’ and materials as follows: Note: Does not apply to ‘composite’ structures or laminates, made from epoxy resin impregnated carbon ‘fibrous or filamentary materials’, for the repair of ‘civil aircraft’ structures or laminates, having all of the following: — An area not exceeding 1 m2; — A length not exceeding 2,5 m; — A width exceeding 15 mm. Does not apply to semi-finished items, specially designed for purely civilian applications as follows: sporting goods, automotive industry, machine tool industry, medical applications. Does not apply to finished items specially designed for a specific application. (a) Inorganic ‘fibrous or filamentary materials’ that have a ‘specific modulus’ exceeding 2,54 × 106 m and a melting, softening, decomposition or sublimation point exceeding 1 649 °C in an inert environment. Note: Does not apply to the following — Discontinuous, multiphase, polycrystalline alumina fibres in chopped fibre or random mat form containing 3 % by weight or more silica with a ‘specific modulus’ of less than 10 × 106 m — Molybdenum and molybdenum alloy fibres — Boron fibres — Discontinuous ceramic fibres with a melting, softening, decomposition or sublimation point lower than 1 770 °C in an inert environment. (b) ‘Fibrous or filamentary materials’ having any of the following: 1. Materials composed of aromatic polyetherimides having a glass transition temperature (Tg) exceeding 290 °C, 2. Polyarylene ketones, 3. Polyarylene sulphides where the arlylene group is biphenylene, triphenylene or combinations thereof, 4. Polybiphenylenethersulphone having a Tg exceeding 290 °C, or 5. Any of the above materials ‘commingled’ with any of the following: a. Organic ‘fibrous or filamentary materials’, with a ‘specific modulus’ exceeding 12,7 × 106 m and a ‘specific tensile strength’ exceeding 23,5 × 104 m. b. Carbon ‘fibrous or filamentary materials’, having a ‘specific modulus’ exceeding 14,65 × 106 m; and specific tensile strength exceeding 26,82 × 104 m. c. Inorganic ‘fibrous or filamentary materials’, having a ‘specific modulus’ exceeding 2,54 × 106 m; and a melting, softening, decomposition or sublimation point exceeding 1 649 °C in an inert environment. Notes: 1. Does not apply to polyethylene. 2. Does not apply to — ‘fibrous or filamentary materials’, for the repair of civil aircraft structures or laminates, having an area not exceeding 1 m2; a length not exceeding 2,5 m; and a width exceeding 15 mm. — Mechanically chopped, milled or cut carbon ‘fibrous or filamentary materials’ 25,0 mm or less in length. 3. Does not apply to discontinuous, multiphase, polycrystalline alumina fibres in chopped fibre or random mat form, containing 3 % by weight or more silica, with a ‘specific modulus’ of less than 10 × 106 m; molybdenum and molybdenum alloy fibres; boron fibres; discontinuous ceramic fibres with a melting, softening, decomposition or sublimation point lower than 1 770 °C in an inert environment. (c) Organic ‘fibrous or filamentary materials’ with a ‘specific modulus’ exceeding 12,7 × 106 m and with a ‘specific tensile strength’ exceeding 23,5 × 104 m. (d) Carbon ‘fibrous or filamentary materials’ having a ‘specific modulus’ exceeding 14,65 × 106 m and a specific tensile exceeding 26,82 × 104 m. (e) Fully or partially resin-impregnated or pitch-impregnated ‘fibrous or filamentary materials’ (prepregs), metal or carbon-coated ‘fibrous or filamentary materials’ (preforms) or carbon fibre preforms having any of the following ‘fibrous or filamentary materials’ and resins: 1. Inorganic ‘fibrous or filamentary materials’ with a ‘specific modulus’ exceeding 2,54 × 106 m and a melting, softening, decomposition or sublimation point exceeding 1 649 °C in an inert environment, or 2. Organic or carbon ‘fibrous or filamentary materials’, having all of the following: a. ‘Specific modulus’ exceeding 10,15 × 106 m; and b. ‘Specific tensile strength’ exceeding 17,7 × 104 m; or 3. Resin or pitch, from unprocessed fluorinated compounds such as: a. Fluorinated polyimides containing 10 % by weight or more of combined fluorine; b. Fluorinated phosphazene elastomers containing 30 % by weight or more of combined fluorine; or 4. Phenolic resins with Dynamic Mechanical Analysis glass transition temperature (DMA Tg) equal to, or exceeding, 180 °C and having a phenolic resin; or 5. Other resin or pitch with Dynamic Mechanical Analysis glass transition temperature (DMA Tg) equal to, or exceeding, 232 °C. Note: Does not apply to — Epoxy resin ‘matrix’ impregnated carbon ‘fibrous or filamentary materials’ (prepregs) for the repair of ‘civil aircraft’ structures or laminates, having all of the following; — An area not exceeding 1 m2; — A length not exceeding 2,5 m; and — A width exceeding 15 mm | 1A002 1A202 |
+| VII.A1.002 | ‘Fibrous or filamentary materials’ having any of the following: (a) Materials composed of aromatic polyetherimides having a glass transition temperature (Tg) exceeding 290 °C. (b) Polyarylene ketones. (c) Polyarylene sulphides where the arlylene group is biphenylene, triphenylene or combinations thereof (d) Polybiphenylenethersulphone having a Tg exceeding 290 °C, or (e) Any of the above materials commingled with any of the following: 1. Organic ‘fibrous or filamentary materials’, with a ‘specific modulus’ exceeding 12,7 × 106 m and ‘specific tensile strength’ exceeding 23,5 × 104 m, 2. Carbon ‘fibrous or filamentary materials’, having a ‘specific modulus’ exceeding 14,65 × 106 m and ‘specific tensile strength’ exceeding 26,82 × 104 m, 3. Inorganic ‘fibrous or filamentary materials’, having a ‘specific modulus’ exceeding 2,54 × 106 m and melting, softening, decomposition or sublimation point exceeding 1 649 °C in an inert environment. Notes: 1. Does not apply to polyethylene. 2. Does not apply to: — ‘fibrous or filamentary materials’, for the repair of civil aircraft structures or laminates, having an area not exceeding 1 m2; a length not exceeding 2,5 m; and a width exceeding 15 mm. — Mechanically chopped, milled or cut carbon ‘fibrous or filamentary materials’ 25,0 mm or less in length. 3. Does not apply to discontinuous, multiphase, polycrystalline alumina fibres in chopped fibre or random mat form, containing 3 % by weight or more silica, with a ‘specific modulus’ of less than 10 × 106 m; molybdenum and molybdenum alloy fibres; boron fibres; discontinuous ceramic fibres with a melting, softening, decomposition or sublimation point lower than 1 770 °C in an inert environment | 1C008 1C010 1C210 9C110 |
+| VII.A1.003 | Equipment for the ‘production’ or inspection of ‘composite’ structures Specially designed components and accessories to include: (a) Filament winding machines, of which the motions for positioning, wrapping and winding fibres are coordinated and programmed in three or more ‘primary servo positioning’ axes, specially designed for the manufacture of ‘composite’ structures or laminates, from ‘fibrous or filamentary materials’. (b) ‘Tape-laying machines’, of which the motions for positioning and laying tape are coordinated and programmed in five or more ‘primary servo positioning’ axes, specially designed for the manufacture of ‘composite’ airframe or missile structures. (c) Multidirectional, multidimensional weaving machines or interlacing machines, including adapters and modification kits, specially designed or modified for weaving, interlacing or braiding fibres for ‘composite’ structures. (d) Equipment specially designed or adapted for the ‘production’ of reinforcement fibres, as follows: 1. Equipment for converting polymeric fibres (such as polyacrylonitrile, rayon, pitch or polycarbosilane) into carbon fibres or silicon carbide fibres, including special equipment to strain the fibre during heating; 2. Equipment for the chemical vapor deposition of elements or compounds, on heated filamentary substrates, to manufacture silicon carbide fibres; 3. Equipment for the wet-spinning of refractory ceramics (such as aluminium oxide); 4. Equipment for converting aluminium containing precursor fibres into alumina fibres by heat treatment; 5. Equipment for producing prepregs specified in VII.A1.003, paragraph ‘d’, under ‘Materials’, by the hot melt method; 6. Non-destructive inspection equipment specially designed for ‘composite’ materials, as follows: a. X-ray tomography systems for three dimensional defect inspection; b. Numerically controlled ultrasonic testing machines of which the motions for positioning transmitters or receivers are simultaneously coordinated and programmed in four or more axes to follow the three dimensional contours of the component under inspection. Notes: 1. For the purposes of this ‘tape-laying machines’ have the ability to lay one or more ‘filament bands’ limited to widths greater than 25 mm and less than or equal to 305 mm, and to cut and restart individual ‘filament band’ courses during the laying process. 2. The technique of interlacing includes knitting. | 1B001.a. 1B001.b. 1B001.c. 1B001.d. 1B001.e. 1B001 1B101 1B201 |
+| VII.A1.004 | Metal alloys, metal alloy powder and alloyed materials including the following: (a) Aluminides, including: 1. Nickel aluminides containing a minimum of 15 % by weight aluminium, a maximum of 38 % by weight aluminium and at least one additional alloying element; 2. Titanium aluminides containing 10 % by weight or more aluminium and at least one additional alloying element. (b) Metal alloys made from the powder or particulate material including: 1. Nickel alloys having a stress-rupture life of 10 000 hours or longer at 650 °C at a stress of 676 MPa or a low cycle fatigue life of 10 000 cycles or more at 550 °C at a maximum stress of 1 095 MPa; 2. Niobium alloys having a stress-rupture life of 10 000 hours or longer at 800 °C at a stress of 400 MPa or a low cycle fatigue life of 10 000 cycles or more at 700 °C at a maximum stress of 700 MPa; 3. Titanium alloys having a stress-rupture life' of 10 000 hours or longer at 450 °C at a stress of 200 MPa or a low cycle fatigue life of 10 000 cycles or more at 450 °C at a maximum stress of 400 MPa; 4. Aluminium alloys having a tensile strength of 240 MPa or more at 200 °C or a tensile strength of 415 MPa or more at 25 °C; 5. Magnesium alloys having a tensile strength of 345 MPa or more and a corrosion rate of less than 1 mm/year in 3 % sodium chloride aqueous solution measured in accordance with ASTM standard G-31 or national equivalents; 6. Metal alloy powder or particulate material, having all of the following and made from any of the following composition systems: a. Nickel alloys (Ni-Al-X, Ni-X-Al) qualified for turbine engine parts or components, i.e. with less than 3 non-metallic particles (introduced during the manufacturing process) larger than 100 μm in 109 alloy particles b. Niobium alloys (Nb-Al-X or Nb-X-Al, Nb-Si-X or Nb-X-Si, Nb Ti X or Nb-X-Ti) c. Titanium alloys (Ti-Al-X or Ti-X-Al) d. Aluminium alloys (Al-Mg-X or Al-X-Mg, Al-Zn-X or Al-X-Zn, Al Fe-X or Al-X-Fe) or e. Magnesium alloys (Mg-Al-X or Mg-X-Al) 7. Made in a controlled environment by any of the following processes: a. ‘Vacuum atomization’ b. ‘Gas atomization’ c. ‘Rotary atomization’ d. ‘Splat quenching’ e. ‘Melt spinning and comminution’ Note: Unless provision to the contrary is made, the words ‘metals’ and ‘alloys’ cover crude and semi-fabricated forms. Crude forms: anodes, balls, bars (including notched bars and wire bars), billets, blocks, blooms, brickets, cakes, cathodes, crystals, cubes, dice, grains, granules, ingots, lumps, pellets, pigs, powder, rondelles, shot, slabs, slugs, sponge, sticks. Semi-fabricated forms: Wrought or worked materials fabricated by rolling, drawing, extruding, forging, impact extruding, pressing, graining, atomising, and grinding, i.e.: angles, channels, circles, discs, dust, flakes, foils and leaf, forging, plate, powder, pressings and stampings, ribbons, rings, rods (including bare welding rods, wire rods, and rolled wire), sections, shapes, sheets, strip, pipe and tubes (including tube rounds, squares, and hollows), drawn or extruded wire. Cast material produced by casting in sand, die, metal, plaster or other types of moulds, including high pressure castings, sintered forms, and forms made by powder metallurgy. | 1C002 1C202 |
+| VII.A1.005 | Magnetic metals, of all types and of whatever form, having any of the following: (a) Initial relative permeability of 120 000 or more and a thickness of 0,5 mm or less (b) Magnetostrictive alloys having any of the following: 1. A saturation magnetostriction of more than 5 × 10– 4; or 2. A magnetomechanical coupling factor (k) of more than 0,8; or (c) Amorphous or ‘nanocrystalline’ alloy strips, having all of the following: 1. A composition having a minimum of 75 % by weight of iron, cobalt or nickel; 2. A saturation magnetic induction (Bs) of 1,6 T or more; and any of the following: a. A strip thickness of 0,02 mm or less; or b. An electrical resistivity of 2 × 10– 4 ohm cm or more. | 1C003 |
+| VII.A1.006 | Uranium titanium alloys or tungsten alloys with a ‘matrix’ based on iron, nickel or copper, having all of the following: (a) A density exceeding 17,5 g/cm3; (b) An elastic limit exceeding 880 MPa; (c) An ultimate tensile strength exceeding 1 270 MPa; and (d) An elongation exceeding 8 %. | 1C004 |
+| VII.A1.007 | ‘Superconductive’ composite conductors in lengths exceeding 100 m or with a mass exceeding 100 g, as follows: (a) ‘Superconductive’‘composite’ conductors containing one or more niobium-titanium ‘filaments’, having all of the following: 1. Embedded in a ‘matrix’ other than a copper or copper-based mixed ‘matrix’; and 2. Having a cross-section area less than 0,28x 10– 4 mm2 (6 μm in diameter for circular ‘filaments’); (b) ‘Superconductive’‘composite’ conductors consisting of one or more ‘superconductive’‘filaments’ other than niobium-titanium, having all of the following: 1. A ‘critical temperature’ at zero magnetic induction exceeding – 263,31 °C; and 2. Remaining in the ‘superconductive’ state at a temperature of – 268,96 °C when exposed to a magnetic field oriented in any direction perpendicular to the longitudinal axis of conductor and corresponding to a magnetic induction of 12 T with critical current density exceeding 1 750 A/mm2 on overall cross-section of the conductor. (c) ‘Superconductive’‘composite’ conductors consisting of one or more ‘superconductive’‘filaments’, which remain ‘superconductive’ above – 158,16 °C | 1C005 |
+| VII.A1.008 | Fluids and lubricating materials, as follows: (a) Lubricating materials containing, as their principal ingredients, any of the following: 1. Phenylene or alkylphenylene ethers or thio-ethers, or their mixtures, containing more than two ether or thio-ether functions or mixtures thereof; or 2. Fluorinated silicone fluids with a kinematic viscosity of less than 5 000 mm2/s (5 000 centistokes) measured at 25 °C; (b) Damping or flotation fluids having all of the following: 1. Purity exceeding 99,8 %; 2. Containing less than 25 particles of 200 μm or larger in size per 3. 100 ml; and 4. Made from at least 85 % of any of the following: a. Dibromotetrafluoroethane (CAS 25497-30-7, 124-73-2, 27336-23-8); b. Polychlorotrifluoroethylene (oily and waxy modifications only); or c. Polybromotrifluoroethylene (c) Fluorocarbon electronic cooling fluids having all of the following: 1. Containing 85 % by weight or more of any of the following, or mixtures thereof: a. Monomeric forms of perfluoropolyalkylether-triazines or perfluoroaliphatic-ethers; b. Perfluoroalkylamines; c. Perfluorocycloalkanes; or d. Perfluoroalkanes e. Density at 298 K (25 °C) of 1,5 g/ml or more; f. In a liquid state at 273 K (0 °C); and g. Containing 60 % or more by weight of fluorine Note: Does not apply to materials specified and packages as medical products | 1C006 |
+| VII.A1.009 | Ceramic powders, non-‘composite’ ceramic materials, ceramic-‘matrix’‘composite’ materials and precursor materials, as follows: (a) Ceramic powders of single or complex borides of titanium, having total metallic impurities, excluding intentional additions, of less than 5 000 ppm, an average particle size equal to or less than 5 μm and no more than 10 % of the particles larger than 10 μm; (b) Non-‘composite’ ceramic materials in crude or semi-fabricated form, composed of borides of titanium with a density of 98 % or more of the theoretical density; (c) Ceramic-ceramic ‘composite’ materials with a glass or oxide-‘matrix’ and reinforced with fibres having all of the following: 1. Made from any of the following materials: a. Si-N; b. Si-C; c. Si-A1-O-N; or d. Si-O-N; and 2. Having a ‘specific tensile strength’ exceeding 12,7 × 103 m (d) Ceramic-ceramic ‘composite’ materials, with or without a continuous metallic phase, incorporating particles, whiskers or fibres, where carbides or nitrides of silicon, zirconium or boron form the ‘matrix’; (e) Precursor materials (i.e., special purpose polymeric or metallo-organic materials) for producing any phase or phases of the materials specified above, as follows: 1. Polydiorganosilanes (for producing silicon carbide); 2. Polysilazanes (for producing silicon nitride); 3. Polycarbosilazanes (for producing ceramics with silicon, carbon and nitrogen components); (f) Ceramic-ceramic ‘composite’ materials with an oxide or glass ‘matrix’ reinforced with continuous fibres from any of the following systems: 1. Al2O3 (CAS 1344-28-1); or 2. Si-C-N. Notes: 1. Does not apply to abrasives. 2. Does not apply to ‘composites’ containing fibres from these systems with a fibre ‘tensile strength’ of less than 700 MPa at 1 273 K (1 000 °C) or fibre tensile creep resistance of more than 1 per cent creep strain at 100 MPa load and 1 273 K (1 000 °C) for 100 hours. | 1C007 |
+| VII.A1.010 | Non-fluorinated polymeric substances as follows: (a) Imides as follows: 1. Bismaleimides; 2. Aromatic polyamide-imides (PAI) having a ‘glass transition temperature (Tg)’ exceeding 290 °C; 3. Aromatic polyimides having a ‘glass transition temperature (Tg)’ exceeding 232 °C; 4. Aromatic polyetherimides having a ‘glass transition temperature (Tg)’ exceeding 290°C; (b) Polyarylene ketones; (c) Polyarylene sulphides, where the arylene group is biphenylene, triphenylene or combinations thereof; (d) Polybiphenylenethersulphone having a ‘glass transition temperature (Tg)’ exceeding 290°C. Note: Applies to the substances in liquid or solid ‘fusible’ form, including resin, powder, pellet, film, sheet, tape, or ribbon. | 1C008 |
+| VII.A1.011 | Unprocessed fluorinated compounds as follows: (a) Fluorinated polyimides containing 10 % by weight or more of combined fluorine; (b) Fluorinated phosphazene elastomers containing 30 % by weight or more of combined fluorine. | 1C009 |
+| VII.A1.012 | ‘Fibrous or filamentary materials’ as follows: (a) Organic ‘fibrous or filamentary materials’, having all of the following: 1. ‘specific modulus’ exceeding 12,7 × 106 m; and 2. ‘specific tensile strength’ exceeding 23,5 × 104 m; (b) Carbon ‘fibrous or filamentary materials’, having all of the following: 1. ‘specific modulus’ exceeding 14,65 × 106 m; and 2. ‘specific tensile strength’ exceeding 26,82 × 104 m; (c) Inorganic ‘fibrous or filamentary materials’, having all of the following: 1. ‘Specific modulus’ exceeding 2,54 × 106 m; and 2. Melting, softening, decomposition or sublimation point exceeding 1 649 °C in an inert environment (d) ‘Fibrous or filamentary materials’, having any of the following: 1. Composed of any of the following: a. Polyetherimides specified in VII.A1.010 b. Other materials specified in VII.A1.010 2. Composed of materials specified above and commingled with other fibres specified in VII.A1.012. (e) Fully or partially resin-impregnated or pitch-impregnated fibrous or filamentary materials (prepregs), metal or carbon-coated ‘fibrous or filamentary materials’ (preforms) or carbon fibre preforms, having all of the following: 1. Having any of the following: a. Inorganic ‘fibrous or filamentary materials’ specified above b. Organic or carbon ‘fibrous or filamentary materials’, having all of the following: 1. ‘Specific modulus’ exceeding 10,15 × 106 m; and 2. ‘Specific tensile strength’ exceeding 17,7 × 104 m; and 2. Having any of the following: a. Resin or pitch, specified in previous sections; b. ‘Dynamic Mechanical Analysis glass transition temperature (DMA Tg)’ equal to or exceeding 180 °C and having a phenolic resin; or c. ‘Dynamic Mechanical Analysis glass transition temperature (DMA Tg)’ equal to or exceeding 232 °C and having a resin or pitch, not specified earlier and not being a phenolic resin. Notes: 1. Does not apply to polyethylene. 2. Does not apply to ‘fibrous or filamentary materials’, for the repair of ‘civil aircraft’ structures or laminates, having all of the following: (a) An area not exceeding 1 m2; (b) A length not exceeding 2,5 m; and (c) A width exceeding 15 mm. Or to mechanically chopped, milled or cut carbon ‘fibrous or filamentary materials’ 25,0 mm or less in length. 3. Does not apply to the following: (a) Discontinuous, multiphase, polycrystalline alumina fibres in chopped fibre or random mat form, containing 3 % by weight or more silica, with a ‘specific modulus’ of less than 10 × 106 m; (b) Molybdenum and molybdenum alloy fibres; (c) Boron fibres; (d) Discontinuous ceramic fibres with a melting, softening, decomposition or sublimation point lower than 2 043 K (1 770 °C) in an inert environment. 4. Does not apply to: (a) Epoxy resin ‘matrix’ impregnated carbon ‘fibrous or filamentary materials’ (prepregs) for the repair of ‘civil aircraft’ structures or laminates, having all of the following; 1. An area not exceeding 1 m2; 2. A length not exceeding 2,5 m; and 3. A width exceeding 15 mm. (b) Fully or partially resin-impregnated or pitch-impregnated mechanically chopped, milled or cut carbon ‘fibrous or filamentary materials’ 25,0 mm or less in length when using a resin or pitch other than those specified previously. | 1C010.a. 1C010.b. 1C010.c. |
+| VII.A1.013 | Metals and compounds, as follows: (a) Metals in particle sizes of less than 60 μm whether spherical, atomized, spheroidal, flaked or ground, manufactured from material consisting of 99 % or more of zirconium, magnesium and alloys thereof; (b) Boron or boron alloys, with a particle size of 60 μm or less, as follows: 1. Boron with a purity of 85 % by weight or more; 2. Boron alloys with a boron content of 85 % by weight or more; (c) Guanidine nitrate (CAS 506-93-4); (d) Nitroguanidine (NQ) (CAS 556-88-7) Note: The metals referred to here also refer to metals or alloys encapsulated in aluminium, magnesium, zirconium or beryllium. | 1C011 |
+| VII.A1.014 | Body armour and components therefor, as follows: (a) Soft body armour not manufactured to military standards or specifications, or to their equivalents, and specially designed components therefor; (b) Hard body armour plates providing ballistic protection equal to or less than level IIIA (NIJ 0101.06, July 2008) or national equivalents. Note: this paragraph does not apply to body armour when accompanying its user for the user's own personal protection, to body armour designed to provide frontal protection only from both fragment and blast from non-military explosive devices, and to body armour designed to provide protection only from knife, spike, needle or blunt trauma. | 1A005 |
+
+VII.A4. COMPUTERS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.A4.001 | Electronic computers and related systems, equipment and components, or ‘electronic assemblies’ having any of the following: (a) Specially designed to have any of the following: 1. Radiation hardened to exceed any of the following specifications: a. Total dose 5 × 103 Gy (Si); b. Dose rate upset 5 × 106 Gy (Si)/s; or c. Single event upset 1 × 10– 8 error/bit/day. | 4A001 |
+
+VII.A5. TELECOMUNICATIONS AND ‘INFORMATION SECURITY’
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.A5.001 | Telecommunication systems and equipment, and specially designed components and accessories therefor, having any of the following characteristics, functions or features: (a) Specially designed to have any of the following: 1. User programmable spreading codes; or 2. A total transmitted bandwidth which is 100 or more times the bandwidth of any one information channel and in excess of 50 kHz. Note: Does not apply to radio equipment specially designed for use with any of the following: (a) Civil cellular radio-communications systems; or (b) Fixed or mobile satellite earth stations for commercial civil telecommunications. (b) Being digitally controlled radio receivers having all of the following: 1. More than 1 000 channels; 2. A ‘channel switching time’ of less than 1 ms; 3. Automatic searching or scanning of a part of the electromagnetic spectrum; and 4. Identification of the received signals or the type of transmitter. Note: Does not apply to radio equipment specially designed for use with civil cellular radio-communications systems. Technical note: ‘Channel switching time’: the time (i.e., delay) to change from one receiving frequency to another, to arrive at or within ± 0,05 % of the final specified receiving frequency. Items having a specified frequency range of less than ± 0,05 % around their centre frequency are defined to be incapable of channel frequency switching. | 5A001.b. |
+| VII.A5.002 | Telecommunication test, inspection and production equipment and specially designed components or accessories therefor, specially designed for the ‘development’ or ‘production’ of telecommunication equipment, functions or features. Note: Does not apply to optical fibre characterization equipment. | 5B002 |
+
+VII.A6 SENSORS AND LASERS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.A6.001 | Hydrophones having any of the following: (a) Incorporating continuous flexible sensing elements (b) Incorporating flexible assemblies of discrete sensing elements with either a diameter or length less than 20 mm and with a separation between elements of less than 20 mm; (c) Having any of the following sensing elements: 1. Optical fibres; 2. ‘Piezoelectric polymer’ films other than polyvinylidene-fluoride (PVDF) and its co-polymers {P(VDF-TrFE) and P(VDF-TFE)}; 3. ‘Flexible piezoelectric composites’ 4. Lead-magnesium-niobate/lead-titanate (i.e., Pb(Mg 1/3 Nb 2/3)O3-PbTiO3, or PMN-PT) piezoelectric single crystals grown from solid solution; or 5. Lead-indium-niobate/lead-magnesium niobate/lead-titanate (i.e., Pb(In1/2 Nb1/2)O3–Pb(Mg1/3 Nb2/3)O3–PbTiO3, or PIN-PMN-PT) piezoelectric single crystals grown from solid solution; (d) Designed to operate at depths exceeding 35 m with acceleration compensation; or (e) Designed for operation at depths exceeding 1 000 m. Note: The status of hydrophones specially designed for other equipment is determined by the status of the other equipment. | 6A001.a. |
+| VII.A6.002 | Towed acoustic hydrophone arrays having any of the following: (a) Hydrophone group spacing of less than 12,5 m or ‘able to be modified’ to have hydrophone group spacing of less than 12,5 m; (b) Designed or ‘able to be modified’ to operate at depths exceeding 35 m; (c) Heading sensors specified in VII.A6.003 (d) Longitudinally reinforced array hoses; (e) An assembled array of less than 40 mm in diameter; (f) Hydrophone characteristics specified in (a) above or a hydrophone with a hydrophone sensitivity better than 180 dB at any depth with no acceleration, or (g) Accelerometer-based hydro-acoustic with the following: 1. Composed of three accelerometers arranged along three distinct axes; 2. Having an overall ‘acceleration sensitivity’ better than 48 dB (reference 1 000 mV rms per 1g); 3. Designed to operate at depths greater than 35 metres; and 4. Operating frequency below 20 kHz. | 6A001.a. |
+| VII.A6.003 | Heading sensors having all of the following: (a) An ‘accuracy’ of better than 0,5°; and (b) Designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m; | 6A001.a. |
+| VII.A6.004 | Bottom or bay-cable hydrophone arrays having any of the following: (a) Incorporating hydrophones specified in VII.A6.002 or a hydrophone with a hydrophone sensitivity better than 180 dB at any depth with no acceleration. (b) Incorporating multiplexed hydrophone group signal modules having all of the following characteristics: 1. Designed to operate at depths exceeding 35 m or having an adjustable or removable depth sensing device in order to operate at depths exceeding 35 m; and 2. Capable of being operationally interchanged with towed acoustic hydrophone array modules; or (c) Incorporating accelerometer based hydro-acoustic sensors. Technical note: Accelerometer-based hydro-acoustic sensors having all of the following: 1. Composed of three accelerometers arranged along three distinct axes; 2. Having an overall ‘acceleration sensitivity’ better than 48 dB (reference 1 000 mV rms per 1g); 3. Designed to operate at depths greater than 35 metres; and 4. Operating frequency below 20 kHz. Notes: 1. Does not apply to particle velocity sensors or geophones. 2. Also applies to receiving equipment, whether or not related in normal application to separate active equipment, and specially designed components therefor. | 6A001.a. |
+| VII.A6.005 | ‘Monospectral imaging sensors’ and ‘multispectral imaging sensors’, designed for remote sensing applications and having any of the following: (a) An Instantaneous-Field-Of-View (IFOV) of less than 200 μrad (microradians); or (b) Specified for operation in the wavelength range exceeding 400 nm but not exceeding 30 000 nm and having all the following; 1. Providing output imaging data in digital format; and 2. Having any of the following characteristics: a. ‘Space-qualified’; or b. Designed for airborne operation, using other than silicon detectors, and having an IFOV of less than 2,5 mrad (milliradians); Note: Does not apply to monospectral imaging sensors' with a peak response in the wavelength range exceeding 300 nm but not exceeding 900 nm and only incorporating any of the following non ‘space-qualified’ detectors or non-‘space-qualified’‘focal plane arrays’: (a) Charge Coupled Devices not designed or modified to achieve ‘charge multiplication’; or (b) Complementary Metal Oxide Semiconductor devices not designed or modified to achieve ‘charge multiplication’. | 6A002 |
+| VII.A6.006 | ‘Space-qualified’ components for optical systems, as follows: (a) Components lightweighted to less than 20 % ‘equivalent density’ compared with a solid blank of the same aperture and thickness; (b) Raw substrates, processed substrates having surface coatings (single-layer or multi-layer, metallic or dielectric, conducting, semiconducting or insulating) or having protective films; (c) Segments or assemblies of mirrors designed to be assembled in space into an optical system with a collecting aperture equivalent to or larger than a single optic 1 m in diameter; (d) Components manufactured from ‘composite’ materials having a coefficient of linear thermal expansion equal to or less than 5 × 10– 6 in any coordinate direction; | 6A004.a. |
+| VII.A6.007 | Optical control equipment as follows: (a) Equipment specially designed to maintain the surface figure or orientation of the ‘space-qualified’ components specified above. (b) Steering, tracking, stabilization and resonator alignment equipment as follows: 1. Beam steering mirror stages designed to carry mirrors having diameter or major axis length greater than 50 mm and having all of the following, and specially designed electronic control equipment therefor: a. A maximum angular travel of ±26 mrad or more; b. A mechanical resonant frequency of 500 Hz or more; and c. An angular ‘accuracy’ of 10 μrad (microradians) or less (better); 2. Resonator alignment equipment having bandwidths equal to or more than 100 Hz and an accuracy of 10 μrad or less (better); (c) Gimbals having all of the following: 1. A maximum slew exceeding 5°; 2. A bandwidth of 100 Hz or more; 3. Angular pointing errors of 200 μrad (microradians) or less; and 4. Having any of the following: a. Exceeding 0,15 m but not exceeding 1 m in diameter or major axis length and capable of angular accelerations exceeding 2 rad (radians)/s2; or b. Exceeding 1 m in diameter or major axis length and capable of angular accelerations exceeding 0,5 rad (radians)/s2. | 6A004.d. |
+| VII.A6.008 | ‘Magnetometers’ using superconductive technology (SQUID) and having any of the following: (a) SQUID systems designed for stationary operation, without specially designed subsystems designed to reduce in-motion noise, and having a ‘sensitivity’ equal to or lower (better) than 50 fT (rms) per square root Hz at a frequency of 1 Hz; or (b) SQUID systems having an in-motion-magnetometer ‘sensitivity’ lower (better) than 2 pT (rms) per square root Hz at a frequency of 1 Hz and specially designed to reduce in- | 6A006 Except: — 6A006.a.3 "Magnetometers" using fluxgate "technology" — 6A006.a.4 Induction coil "magnetometers" — 6A006.b. Underwater electric field sensors |
+| VII.A6.009 | ‘Magnetometers’ using optically pumped or nuclear precession (proton/Overhauser) ‘technology’ having a ‘sensitivity’ lower (better) than 2 pT (rms) per square root Hz at a frequency of 1 Hz; | 6A006 |
+| VII.A6.010 | ‘Magnetic gradiometers’ using multiple ‘magnetometers’ specified in VII.A6; | 6A006 |
+| VII.A6.011 | ‘Compensation systems’ for the following: (a) ‘Magnetometers’ using optically pumped or nuclear precession (proton/ Overhauser) ‘technology’ having a ‘sensitivity’ lower (better) than 20 pT (rms) per square root Hz at a frequency of 1 Hz, and using optically pumped or nuclear precession (proton/Overhauser) ‘technology’ that will permit these sensors to realize a ‘sensitivity’ lower (better) than 2 pT rms per square root Hz. (b) Underwater electric field sensors having a ‘sensitivity’ lower (better) than 8 nanovolt per meter per square root Hz when measured at 1 Hz. (c) ‘Magnetic gradiometers’ specified in VII.A6.010 that will permit these sensors to realize a ‘sensitivity’ lower (better) than 3 pT/m rms per square root H Note: Fibre optic ‘intrinsic magnetic gradiometers’ having a magnetic gradient field ‘sensitivity’ lower (better) than 0,3 nT/m (rms) per square root Hz; ‘Intrinsic magnetic gradiometers’, using ‘technology’ other than fibre-optic ‘technology’, having a magnetic gradient field ‘sensitivity’ lower (better) than 0,015 nT/m (rms) per square root Hz. | 6A006 |
+| VII.A6.012 | Underwater electromagnetic receivers incorporating ‘magnetometer’ specified by section 1 or 2 ‘Magnetic and electric field sensors’. | 6A006 |
+
+VII.A7. NAVIGATION AND AVIONICS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.A7.001 | Accelerometers as follows and specially designed components therefor: (a) Linear accelerometers having any of the following: 1. Specified to function at linear acceleration levels less than or equal to 15 g and having any of the following: a. A ‘bias’‘stability’ of less (better) than 130 micro g with respect to a fixed calibration value over a period of one year; or b. A ‘scale factor’‘stability’ of less (better) than 130 ppm with respect to a fixed calibration value over a period of one year; 2. Specified to function at linear acceleration levels exceeding 15 g but less than or equal to 100 g and having all of the following: a. A ‘bias’‘repeatability’ of less (better) than 1 250 micro g over a period of one year; and b. A ‘scale factor’‘repeatability’ of less (better) than 1 250 ppm over a period of one year; or 3. Designed for use in inertial navigation or guidance systems and specified to function at linear acceleration levels exceeding 100 g; Note: paragraphs above do not apply to accelerometers limited to measurement of only vibration or shock. (b) Angular or rotational accelerometers, specified to function at linear acceleration levels exceeding 100 g. | 7A001 |
+| VII.A7.002 | Gyros or angular rate sensors, having any of the following and specially designed components therefor: (a) Specified to function at linear acceleration levels less than or equal to 100 g and having any of the following: 1. A rate range of less than 500 degrees per second and having any of the following: a. A ‘bias’‘stability’ of less (better) than 0,5 degree per hour, when measured in a 1 g environment over a period of one month, and with respect to a fixed calibration value; or b. An ‘angle random walk’ of less (better) than or equal to 0,0035 degree per square root hour; or Note: this paragraph does not apply to ‘spinning mass gyros’. 2. A rate range greater than or equal to 500 degrees per second and having any of the following: a. A ‘bias’‘stability’ of less (better) than 4 degrees per hour, when measured in a 1 g environment over a period of three minutes, and with respect to a fixed calibration value; or b. An ‘angle random walk’ of less (better) than or equal to 0,1 degree per square root hour; or Note: this paragraph does not apply to ‘spinning mass gyros’. (b) Specified to function at linear acceleration levels exceeding 100 g. | 7A002 |
+| VII.A7.003 | ‘Inertial measurement equipment or systems’, having any of the following: Notes: 1. ‘Inertial measurement equipment or systems’ incorporate accelerometers or gyroscopes to measure changes in velocity and orientation in order to determine or maintain heading or position without requiring an external reference once aligned. ‘Inertial measurement equipment or systems’ include: — Attitude and Heading Reference Systems (AHRSs); — Gyrocompasses; — Inertial Measurement Units (IMUs); — Inertial Navigation Systems (INSs); — Inertial Reference Systems (IRSs); — Inertial Reference Units (IRUs). 2. This paragraph does not apply to ‘inertial measurement equipment or systems’ which are certified for use on ‘civil aircraft’ by civil aviation authorities of one or more Member States. (a) Designed for ‘aircraft’, land vehicles or vessels, providing position without the use of ‘positional aiding references’, and having any of the following ‘accuracies’ subsequent to normal alignment: 1. 0,8 nautical miles per hour (nm/hr) ‘Circular Error Probable’ (‘CEP’) rate or less (better); 2. 0,5 % distanced travelled ‘CEP’ or less (better); or 3. Total drift of 1 nautical mile ‘CEP’ or less (better) in a 24 hr period; (b) Designed for ‘aircraft’, land vehicles or vessels, with an embedded ‘positional aiding reference’ and providing position after loss of all ‘positional aiding references’ for a period of up to 4 minutes, having an ‘accuracy’ of less (better) than 10 metres ‘CEP’; (c) Designed for ‘aircraft’, land vehicles or vessels, providing heading or True North determination and having any of the following: 1. A maximum operating angular rate less (lower) than 500 deg/s and a heading ‘accuracy’ without the use of ‘positional aiding references’ equal to or less (better) than 0,07 deg sec(Lat) (equivalent to 6 arc minutes rms at 45 degrees latitude); or 2. A maximum operating angular rate equal to or greater (higher) than 500 deg/s and a heading ‘accuracy’ without the use of ‘positional aiding references’ equal to or less (better) than 0,2 deg sec (Lat) (equivalent to 17 arc minutes rms at 45 degrees latitude); (d) Providing acceleration measurements or angular rate measurements, in more than one dimension, and having any of the following: 1. Performance specified for accelerometers and gyros described above along any axis, without the use of any aiding references; or 2. Being ‘space-qualified’ and providing angular rate measurements having an ‘angle random walk’ along any axis of less (better) than or equal to 0,1 degree per square root hour. | 7A003 |
+
+VII.A8. MARINE
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.A8.001 | Air independent power systems specially designed for underwater use, as follows: (a) Brayton or Rankine cycle engine air independent power systems having any of the following: 1. Chemical scrubber or absorber systems, specially designed to remove carbon dioxide, carbon monoxide and particulates from recirculated engine exhaust; 2. Systems specially designed to use a monoatomic gas; 3. Devices or enclosures, specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; or 4. Systems having all of the following: a. Specially designed to pressurise the products of reaction or for fuel reformation; b. Specially designed to store the products of the reaction; and c. Specially designed to discharge the products of the reaction against a pressure of 100 kPa or more; | 8A002.j. |
+| VII.A8.002 | Diesel cycle engine air independent systems having all of the following: (a) Chemical scrubber or absorber systems, specially designed to remove carbon dioxide, carbon monoxide and particulates from recirculated engine exhaust; (b) Systems specially designed to use a monoatomic gas; (c) Devices or enclosures, specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; and (d) Specially designed exhaust systems that do not exhaust continuously the products of combustion; | 8A002.j. |
+| VII.A8.003 | Fuel cell air independent power systems with an output exceeding 2kW and having any of the following: (a) Devices or enclosures, specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; or (b) Systems having all of the following: 1. Specially designed to pressurise the products of reaction or for fuel reformation; 2. Specially designed to store the products of the reaction; and 3. Specially designed to discharge the products of the reaction against a pressure of 100 kPa or more | 8A002.j. |
+| VII.A8.004 | Stirling cycle engine air independent power systems having all of the following: (a) Devices or enclosures, specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; and (b) Specially designed exhaust systems which discharge the products of combustion against a pressure of 100 kPa or more; | 8A002.p. |
+| VII.A8.005 | Manned, tethered submersible vehicles designed to operate at depths exceeding 1 000 m. | 8A001.a. |
+
+VII.A9. AEROSPACE AND PROPULSION
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.A9.001 | Equipment, tooling or fixtures, specially designed for manufacturing gas turbine engine blades, vanes or ‘tip shrouds’, as follows: (a) Directional solidification or single crystal casting equipment; (b) Casting tooling, manufactured from refractory metals or ceramics, as follows: 1. Cores 2. Shells (moulds) 3. Combined core and shell (mould) units (c) Directional-solidification or single-crystal additive-manufacturing equipment. | 9B001 |
+| VII.A9.002 | Aero gas turbine engines, except aero gas turbine engines which meet all of the following: (a) Certified by civil aviation authorities of one or more Member States; and (b) Intended to power non-military manned ‘aircraft’ for which any of the following has been issued by civil aviation authorities of one or more Member States for the ‘aircraft’ with this specific engine type: 1. A civil type certificate; or 2. An equivalent document recognized by the International Civil Aviation Organization. | 9A001 |
+
+**B. SOFTWARE**
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.B.001 | ‘Software’ for the ‘development’ of the material listed in VII.A1. | 1D002 |
+| VII.B.002 | ‘Software’ specially designed for the ‘development’ or ‘production’ of equipment as follows: (a) Machine tools for turning having two or more axes which can be coordinated simultaneously for ‘contouring control’ having any of the following: 1. ‘Unidirectional positioning repeatability’ equal to or less (better) than 0,9 μm along one or more linear axis with a travel length less than 1,0 m; or 2. ‘Unidirectional positioning repeatability’ equal to or less (better) than 1,1 μm along one or more linear axis with a travel length equal to or greater than 1,0 m. (b) Machine tools for milling having any of the following: 1. Three linear axes plus one rotary axis which can be coordinated simultaneously for ‘contouring control’ having any of the following: a. ‘Unidirectional positioning repeatability’ equal to or less (better) than 0,9 μm along one or more linear axis with a travel length less than 1,0 m; or b. ‘Unidirectional positioning repeatability’ equal to or less (better) than 1,1 μm along one or more linear axis with a travel length equal to or greater than 1,0 m. 2. Five or more axes which can be coordinated simultaneously for ‘contouring control’ having any of the following: a. ‘Unidirectional positioning repeatability’ equal to or less (better) than 0,9 μm along one or more linear axis with a travel length less than 1,0 m; b. ‘Unidirectional positioning repeatability’ equal to or less (better) than 1,4 μm along one or more linear axis with a travel length equal to or greater than 1 m and less than 4 m; c. ‘Unidirectional positioning repeatability’ equal to or less (better) than 6,0 μm along one or more linear axis with a travel length equal to or greater than 4 m; 3. A ‘unidirectional positioning repeatability’ for jig boring machines equal to or less (better) than 1,1 μm along one or more linear axis. 4. Electrical discharge machines of the non-wire type which have two or more rotary axes which can be coordinated simultaneously for ‘contouring control’. 5. Deep-hole-drilling machines and turning machines modified for deep-hole-drilling, having a maximum depth-of-bore capability exceeding 5 m. 6. ‘Numerically controlled’ or manual machine tools, and specially designed components, controls and accessories therefor, specially designed for the shaving, finishing, grinding or honing of hardened (Rc = 40 or more) spur, helical and double-helical gears with a pitch diameter exceeding 1 250 mm and a face width of 15 % of pitch diameter or larger finished to a quality of AGMA 14 or better (equivalent to ISO 1 328 class 3). | 2D001 2D002 |
+| VII.B.003 | ‘Software’ for marine systems, equipment, components, test, inspection and ‘production’ equipment and other related technology | 8D001 8D002 |
+
+**C. TECHNOLOGY**
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VII.C.001 | ‘Technology’ for the ‘development’ or ‘production’ of equipment or materials listed in VII.A | 1E001 1E002 1E102 1E103 1E104 1E201 |
+| VII.C.002 | ‘Technology’ for the repair of ‘composite’ structures, laminates or materials specified by the ‘systems, equipment and components’ listed in VII.A1. Note: Does not apply to technology for the repair of civil aircraft structures using carbon ‘fibrous or filamentary materials’ and epoxy resins, contained in aircraft manufacturers' manuals. | 1E001 1E002 1E201 1E103 |
+| VII.C.003 | ‘Technology’ for marine systems, equipment, components, test, inspection and ‘production’ equipment and other related technology. | 8E001 8E002 |
+
+**PART VIII**
+
+Weapons of mass destruction-related items, materials, equipment, goods and technology designated, pursuant to paragraph 4 of UNSCR 2375 (2017).
+
+**A. GOODS**
+
+VIII.A0. NUCLEAR MATERIALS, FACILITIES, AND EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VIII.A0.001 | Ring magnets (except those designed for consumer electronics or automobile applications) | 0B001 |
+| VIII.A0.002 | Hot cells | 0B006 |
+| VIII.A0.003 | Glove boxes suitable for use with radioactive materials | 0B005 |
+| VIII.A0.004 | Electrolytic cells for fluorine production | 0B001 |
+| VIII.A0.005 | Particle accelerators | N/A |
+| VIII.A0.006 | Freon and chilled-water cooling systems capable of continuous cooling capacity of 100 000 Btu/hr (29,3 kW) or greater | 0B001 0B002 1B231 |
+| VIII.A0.007 | Bellows-sealed valves | 0B001 2A226 |
+| VIII.A0.008 | Monel equipment, including valves, piping, tanks and vessels (pipes and valves greater than 8-in diameter and rated for 500 psi and tanks greater than 500 l) | 0B001 2A226 2B350 |
+| VIII.A0.009 | Grade 304, 316 and austenitic stainless steel plates, valves, piping, tanks and vessels (pipes and valves greater than 8-in diameter and rated for 500 psi and tanks greater than 500 l) | 0B001 1C116 1C216 |
+| VIII.A0.010 | Vacuum valves, piping, flanges, gaskets and related equipment specially designed for use in high-vacuum service (0,1 Pa or lower pressure) | 0B001 0B002 2A226 2B350 |
+
+VIII.A1. SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VIII.A1.001 | Radiation detection, monitoring and measurement equipment | 1A004 6A002 6A102 |
+| VIII.A1.002 | Radiographic detection equipment such as X-ray converters, and storage phosphor image plates (except X-ray equipment specially designed for medical use) | 1B001 9B007 |
+| VIII.A1.003 | Tributyl phosphate (CAS 126-73-8) | N/A |
+| VIII.A1.004 | Nitric acid in concentrations of 20 % of weight or greater | 1C111 |
+| VIII.A1.005 | Fluorine (except that used for strictly civilian purposes, such as refrigerants, including freon and fluoride for toothpaste production) | 1C350 |
+| VIII.A1.006 | Alpha-emitting radionuclides | 1C236 |
+| VIII.A1.007 | Radiation-hardened television cameras | 6A003 |
+
+VIII.A2. MATERIALS PROCESSING
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VIII.A2.001 | Hardened steel and tungsten carbide precision ball bearings (3-mm diameter or greater) | 2A001 2A101 |
+| VIII.A2.002 | Isostatic presses | 2B004 2B104 2B204 |
+| VIII.A2.003 | Electroplating equipment designed for coating parts with nickel or aluminium | 2B005 |
+| VIII.A2.004 | Bellows manufacturing equipment, including hydraulic forming equipment and bellows forming dies | 2B009 2B109 2B209 |
+| VIII.A2.005 | Metal inert gas welders (greater than 180 A DC) | N/A |
+| VIII.A2.006 | Centrifugal multiplane balancing machines | 2B119 2B219 |
+| VIII.A2.007 | Seismic detection equipment or seismic intrusion-detection systems that detect, classify and determine the bearing of the source of a detected signal | 2B116 9B006 |
+
+VIII.A3. ELECTRONICS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VIII.A3.001 | Frequency changers capable of operating in the frequency range of 300-600 Hz | 3A225 |
+| VIII.A3.002 | Mass spectrometers | 3A233 |
+| VIII.A3.003 | All flash X-ray machines and ‘parts’ or ‘components’ of pulsed power systems designed therefrom, including Marx generators, high-power pulse-shaping networks, high-voltage capacitors and triggers | 3A102 |
+| VIII.A3.004 | Electronic equipment of synthesized frequencies within the range of 31,8 GHz or greater and power output of 100 mW or greater for time-delay generation or time-interval measurement, as follows: (a) digital time delay generators with a resolution of 50 nanoseconds or less over time intervals of 1 microsecond or greater; or (b) multichannel (i.e., with 3 or more channels) or modular time interval meters and chronometry equipment with resolution of 50 nanoseconds or less over time intervals of 1 microsecond or greater | 3B002 |
+| VIII.A3.005 | Chromatography and spectrometry analytical instruments | 3A233 |
+
+**B. SOFTWARE**
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| VIII.B.001 | Software for neutronic calculations/modelling | 0D001 |
+| VIII.B.002 | Software for radiation transport calculations/modelling | 0D001 |
+| VIII.B.003 | Software for hydrodynamic calculations/modelling (except those used strictly for civilian purposes, such as but not limited to communal heating utilities) | 0D001 |
+
+**PART IX**
+
+Conventional arms-related items, materials, equipment, goods and technology designated, pursuant to paragraph 5 of UNSCR 2375 (2017).
+
+**A. GOODS**
+
+IX.A1. SPECIAL MATERIALS AND RELATED EQUIPMENT
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.A1.001 | Seals, gaskets, sealants or fuel bladders, specially designed for ‘aircraft’ or aerospace use, made from more than 50 % by weight of any of the fluorinated polyimides or fluorinated phosphazene elastomers. | 1A001 |
+| IX.A1.002 | Manufactures of non-‘fusible’ aromatic polyimides in film, sheet, tape or ribbon: (a) A thickness exceeding 0,254 mm; or (b) Coated or laminated with carbon, graphite, metals or magnetic substances. Note: The category above does not apply to manufactures when coated or laminated with copper and designed for the production of electronic printed circuit boards. | 1A003 |
+| IX.A1.003 | Protective and detection equipment and components, not specially designed for military use, as follows: (a) Full face masks, filter canisters, protective suits, gloves and shoes, detection systems and decontamination equipment specially designed or modified for defence against any of the following: 1. ‘Biological agents’; 2. ‘Radioactive materials’; or 3. Chemical warfare (CW) agents. | 1A004.a. Except 1A004.a: riot control agents |
+| IX.A1.004 | Equipment and devices, specially designed to initiate charges and devices containing ‘energetic materials’, by electrical means, as follows: (a) Explosive detonator firing sets designed to drive explosive detonators specified in item (b); (b) Electrically driven explosive detonators, as follows: 1. Exploding bridge (EB); 2. Exploding bridge wire (EBW); 3. Slapper; or 4. Exploding foil initiators (EFI). | 1A007 |
+| IX.A1.005 | Charges, devices and components, as follows: (a) ‘Shaped charges’; 1. Net Explosive Quantity (NEQ) greater than 90 g; and 2. Outer casing diameter equal to or greater than 75 mm; (b) Linear shaped cutting charges; 1. An explosive load greater than 40 g/m; and 2. A width of 10 mm or more; (c) Detonating cord with explosive core load greater than 64 g/m; or (d) Cutters and severing tools, having a NEQ greater than 3,5 kg, and other severing tools. | 1A008 |
+| IX.A1.006 | Equipment for the production or inspection of ‘composite’ structures or laminates or ‘fibrous or filamentary materials’ as follows, and specially designed components and accessories therefor: (a) ‘Tow-placement machines’, of which the motions for positioning and laying tows are coordinated and programmed in two or more ‘primary servo positioning’ axes, specially designed for the manufacture of ‘composite’ airframe or missile structures. | 1B001.g. |
+| IX.A1.007 | Equipment for producing metal alloys, metal alloy powder or alloyed material specially designed to avoid contamination and specially designed for use in one of the following processes: (a) Vacuum atomization; (b) Gas atomization; (c) Rotary atomization; (d) Splat quenching; (e) Melt spinning and comminution; (f) Melt extraction and comminution; (g) Mechanical alloying; or (h) Plasma atomization. | 1B002 |
+| IX.A1.008 | Tools, dies, moulds or fixtures, for ‘superplastic forming’ or ‘diffusion bonding’ titanium, aluminium or their alloys: (a) Airframe or aerospace structures; (b) ‘Aircraft’ or aerospace engines; or (c) Specially designed components for structures specified in item (a) or for engines specified in item (b). | 1B003 |
+| IX.A1.009 | Materials specially designed for use as absorbers of electromagnetic waves, or intrinsically conductive polymers, as follows: (a) Intrinsically conductive polymeric materials with a ‘bulk electrical conductivity’ exceeding 10 000 S/m (Siemens per metre) or a ‘sheet (surface) resistivity’ of less than 100 ohms/square, based on any of the following polymers: 1. Polyaniline; 2. Polypyrrole; 3. Polythiophene; 4. Poly phenylene-vinylene; or 5. Poly thienylene-vinylene. Technical note: ‘Bulk electrical conductivity’ and ‘sheet (surface) resistivity’ should be determined using ASTM D-257 or national equivalents. | 1C001.c. |
+| IX.A1.010 | ‘Superconductive’‘composite’ conductors consisting of one or more ‘superconductive’‘filaments’, which remain ‘superconductive’ above 115 K (– 158,16 °C). Technical note: For the purposes of the item above, ‘filaments’ may be in wire, cylinder, film, tape or ribbon form. | 1C005.a. |
+| IX.A1.011 | ‘Fibrous or filamentary materials’, as follows: (a) Organic ‘fibrous or filamentary materials’, having all of the following: 1. ‘Specific modulus’ exceeding 12,7 × 106 m; and 2. ‘Specific tensile strength’ exceeding 23,5 × 104 m; Note: This item does not apply to polyethylene. (b) Carbon ‘fibrous or filamentary materials’, having all of the following: 1. ‘Specific modulus’ exceeding 14,65 × 106 m; and 2. ‘Specific tensile strength’ exceeding 26,82 × 104 m; (c) Inorganic ‘fibrous or filamentary materials’, having all of the following: 1. ‘Specific modulus’ exceeding 2,54 × 106 m; and 2. Melting, softening, decomposition or sublimation point exceeding 1 922 K (1 649 °C) in an inert environment. | 1C010.a. 1C010.b. 1C010.c. |
+
+IX.A2. MATERIALS PROCESSING
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.A2.001 | Anti-friction bearings and bearing systems, as follows, and components therefore: Note: This category does not apply to balls with tolerances specified by the manufacturer in accordance with ISO 3290 as grade 5 or worse. (a) Ball bearings and solid roller bearings, having all tolerances specified by the manufacturer in accordance with ISO 492 Tolerance Class 4 (or national equivalents) or better, and having both ‘rings’ and ‘rolling elements’, made from monel or beryllium; Technical notes: 1. ‘Ring’ —annular part of a radial rolling bearing incorporating one or more raceways (ISO 5593:1997). 2. ‘Rolling element’ —ball or roller which rolls between raceways (ISO 5593:1997). (b) Active magnetic bearing systems using any of the following: 1. Materials with flux densities of 2,0 T or greater and yield strengths greater than 414 MPa; 2. All-electromagnetic three-dimensional homopolar bias designs for actuators; or 3. High-temperature (450 K (177 °C) and above) position sensors. | 2A001.a. 2A001.c. |
+| IX.A2.002 | Machine tools and any combination thereof, for removing (or cutting) metals, ceramics or ‘composites’, which, according to the manufacturer's technical specification, can be equipped with electronic devices for ‘numerical control’: (a) Machine tools for grinding having any of the following: 1. Three or more axes which can be coordinated simultaneously for ‘contouring control’ and a ‘unidirectional positioning repeatability’ equal to or less (better) than 1,1 μm along one or more linear axis; or 2. Five or more axes which can be coordinated simultaneously for ‘contouring control’; (b) Machine tools for removing metals, ceramics or ‘composites’, having all of the following: 1. Removing material by means of any of the following: a. Water or other liquid jets, including those employing abrasive additives; b. Electron beam; or c. ‘Laser’ beam; and 2. At least two rotary axes that can be coordinated simultaneously for ‘contouring control’. | 2B001.c. |
+| IX.A2.003 | Numerically controlled optical finishing machine tools equipped for selective material removal to produce non-spherical optical surfaces having all of the following characteristics: (a) Finishing the form to less (better) than 1,0 μm; (b) Finishing to a roughness less (better) than 100 nm rms; (c) Four or more axes which can be coordinated simultaneously for ‘contouring control’; and (d) Using any of the following processes: 1. ‘Magnetorheological finishing (MRF)’; 2. ‘Electrorheological finishing (ERF)’; 3. ‘Energetic particle beam finishing’; 4. ‘Inflatable membrane tool finishing’; or 5. ‘Fluid jet finishing’. Technical notes: For the purposes of the items above: 1. ‘MRF’ is a material removal process using an abrasive magnetic fluid whose viscosity is controlled by a magnetic field. 2. ‘ERF’ is a removal process using an abrasive fluid whose viscosity is controlled by an electric field. 3. ‘Energetic particle beam finishing’ uses Reactive Atom Plasmas (RAP) or ion beams to selectively remove material. 4. ‘Inflatable membrane tool finishing’ is a process that uses a pressurized membrane that deforms to contact the workpiece over a small area 5. ‘Fluid jet finishing’ makes use of a fluid stream for material removal | 2B002.a. 2B002.b. 2B002.c. 2B002.d. |
+| IX.A2.004 | Hot ‘isostatic presses’ having all of the following, and specially designed components and accessories therefor: (a) A controlled thermal environment within the closed cavity and a chamber cavity with an inside diameter of 406 mm or more; and (b) Having any of the following: 1. A maximum working pressure exceeding 207 MPa; 2. A controlled thermal environment exceeding 1 773 K (1 500 °C); or 3. A facility for hydrocarbon impregnation and removal of resultant gaseous degradation products. | 2B004 2B104 2B204 |
+| IX.A2.005 | Equipment specially designed for the deposition, processing and in-process control of inorganic overlays, coatings and surface modifications, as follows: (a) Chemical vapour deposition (CVD) production equipment having all of the following: 1. A process modified for one of the following: a. Pulsating CVD; b. Controlled nucleation thermal deposition (CNTD); or c. Plasma enhanced or plasma assisted CVD; and 2. Having any of the following: a. Incorporating high vacuum (equal to or less than 0,01 Pa) rotating seals; or b. Incorporating in situ coating thickness control; (b) Ion implantation production equipment having beam currents of 5 mA or more; (c) Electron beam physical vapour deposition (EB-PVD) production equipment incorporating power systems rated for over 80 kW and having any of the following: 1. A liquid pool level ‘laser’ control system which regulates precisely the ingots feed rate; or 2. A computer controlled rate monitor operating on the principle of photo-luminescence of the ionized atoms in the evaporant stream to control the deposition rate of a coating containing two or more elements; (d) Plasma spraying production equipment having any of the following: 1. Operating at reduced pressure controlled atmosphere (equal to or less than 10 kPa measured above and within 300 mm of the gun nozzle exit) in a vacuum chamber capable of evacuation down to 0,01 Pa prior to the spraying process; or 2. Incorporating in situ coating thickness control; (e) Sputter deposition production equipment capable of current densities of 0,1 mA/mm2 or higher at a deposition rate of 15 μm/h or more; (f) Cathodic arc deposition production equipment incorporating a grid of electromagnets for steering control of the arc spot on the cathode; or (g) Ion plating production equipment capable of in situ measurement of any of the following: 1. Coating thickness on the substrate and rate control; or 2. Optical characteristics. | 2B005 |
+| IX.A2.006 | Dimensional inspection or measuring systems, equipment and ‘electronic assemblies’, as follows: (a) Computer-controlled or ‘numerically controlled’ Coordinate Measuring Machines (CMM), having a three-dimensional (volumetric) maximum permissible error of length measurement (E0,MPE) at any point within the operating range of the machine (i.e., within the length of axes) equal to or less (better) than 1,7 + L/1 000 μm (L is the measured length in mm), according to ISO 10360-2 (2009); (b) Linear and angular displacement measuring instruments, as follows: 1. ‘Linear displacement’ measuring instruments having any of the following: a. Non-contact-type measuring systems with a ‘resolution’ equal to or less (better) than 0,2 μm within a measuring range up to 0,2 mm; b. Linear Variable Differential Transformer (LVDT) systems: 1. Having any of the following: a. ‘Linearity’ equal to or less (better) than 0,1 % measured from 0 to the ‘full operating range’, for LVDTs with a ‘full operating range’ up to and including ± 5 mm; or b. ‘Linearity’ equal to or less (better) than 0,1 % measured from 0 to 5 mm for LVDTs with a ‘full operating range’ greater than ± 5 mm; and 2. Drift equal to or less (better) than 0,1 % per day at a standard ambient test room temperature ± 1 K; Technical note: For the purposes of item b. above, ‘full operating range’ is half of the total possible linear displacement of the LVDT. For example, LVDTs with a ‘full operating range’ up to and including ± 5 mm can measure a total possible linear displacement of 10 mm. c. Measuring systems having all of the following: 1. Containing a ‘laser’; 2. A ‘resolution’ over their full scale of 0,200 nm or less (better); and 3. Capable of achieving a ‘measurement uncertainty’ equal to or less (better) than (1,6 + L/2 000 ) nm (L is the measured length in mm) at any point within a measuring range, when compensated for the refractive index of air and measured over a period of 30 seconds at a temperature of 20 ± 0,01 °C; or d. ‘Electronic assemblies’ specially designed to provide feedback capability in systems specified above; 2. Angular displacement measuring instruments; Note: The category above does not apply to optical instruments, such as autocollimators, using collimated light (e.g., ‘laser’ light) to detect angular displacement of a mirror. (c) Equipment for measuring surface roughness (including surface defects), by measuring optical scatter with a sensitivity of 0,5 nm or less (better). | 2B006.b. 2B206.b. |
+| IX.A2.007 | ‘Robots’ having any of the following characteristics and specially designed controllers and ‘end-effectors’ therefor: (a) Capable in real time of full three-dimensional image processing or full three-dimensional ‘scene analysis’ to generate or modify ‘programs’ or to generate or modify numerical program data; Technical note: The ‘scene analysis’ limitation does not include approximation of the third dimension by viewing at a given angle, or limited greyscale interpretation for the perception of depth or texture for the approved tasks (2 1/2 D). (b) Specially designed to comply with national safety standards applicable to potentially explosive munitions environments; (c) Specially designed or rated as radiation-hardened to withstand greater than 5 × 103 Gy (Si) without operational degradation; or (d) Specially designed to operate at altitudes exceeding 30 000 m. | 2B007 2B207 |
+| IX.A2.008 | Assemblies or units, specially designed for machine tools, or dimensional inspection or measuring systems and equipment, as follows: (a) Linear position feedback units having an overall ‘accuracy’ less (better) than (800 + (600 × L/1 000 )) nm (L equals the effective length in mm); (b) Rotary position feedback units having an ‘accuracy’ less (better) than 0,00025 °; or (c) ‘Compound rotary tables’ and ‘tilting spindles’, for use with machine tools to or above the levels specified by this category. | 2B008 |
+| IX.A2.009 | Spin-forming machines and flow-forming machines, which, according to the manufacturer's technical specification, can be equipped with ‘numerical control’ units or a computer control and having all of the following: (a) Three or more axes which can be coordinated simultaneously for ‘contouring control’; and (b) A roller force more than 60 kN. Technical note: Machines combining the functions of spin-forming and flow-forming are regarded as flow-forming machines. | 2B009 2B109 2B209 |
+
+IX.A3. ELECTRONICS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.A3.001 | Electronic items, as follows: (a) General-purpose integrated circuits, as follows: Notes: 1. The status of wafers (finished or unfinished), in which the function has been determined, is to be evaluated against the parameters of 3A001.a. 2. Integrated circuits include the following types: — ‘Monolithic integrated circuits’; — ‘Hybrid integrated circuits’; — ‘Multichip integrated circuits’; — ‘Film-type integrated circuits’, including silicon-on-sapphire integrated circuits; — ‘Optical integrated circuits’; — ‘Three-dimensional integrated circuits’; — ‘Monolithic Microwave Integrated Circuits’ (‘MMICs’). | 3A001.a |
+| IX.A3.002 | Integrated circuits designed or rated as radiation hardened to withstand any of the following: (a) A total dose of 5 × 103 Gy (Si) or higher; (b) A dose rate upset of 5 × 106 Gy (Si)/s or higher; or (c) A fluence (integrated flux) of neutrons (1 MeV equivalent) of 5 × 1 013 n/cm2 or higher on silicon, or its equivalent for other materials; Note: The category above does not apply to Metal Insulator Semiconductors (MIS). | 3A001.a. |
+| IX.A3.003 | ‘Microprocessor microcircuits’, ‘microcomputer microcircuits’, microcontroller microcircuits, storage integrated circuits manufactured from a compound semiconductor, analogue-to-digital converters, integrated circuits that contain analogue-to-digital converters and store or process the digitized data, digital-to-analogue converters, electro-optical or ‘optical integrated circuits’ designed for ‘signal processing’, field programmable logic devices, custom integrated circuits for which either the function is unknown or the status of the equipment in which the integrated circuit will be used is unknown, Fast Fourier Transform (FFT) processors, Electrical Erasable Programmable Read-Only Memories (EEPROMs), flash memories, Static Random-Access Memories (SRAMs) or Magnetic Random-Access Memories (MRAMs), having any of the following: (a) Rated for operation at an ambient temperature above 398 K (+ 125 °C); (b) Rated for operation at an ambient temperature below 218 K (– 55 °C); or (c) Rated for operation over the entire ambient temperature range from 218 K (– 55 °C) to 398 K (+ 125 °C); Note: This category does not apply to integrated circuits for civil automobile or railway train applications. | 3A001.a.2 |
+| IX.A3.004 | Electro-optical and ‘optical integrated circuits’, designed for ‘signal processing’ and having all of the following: (a) One or more than one internal ‘laser’ diode; (b) One or more than one internal light detecting element; and (c) Optical waveguides; | 3A001.a. |
+| IX.A3.005 | 4. Field programmable logic devices having any of the following: (a) A maximum number of single-ended digital input/outputs of greater than 700; or (b) An ‘aggregate one-way peak serial transceiver data rate’ of 500 Gb/s or greater; Note: This category includes — Simple Programmable Logic Devices (SPLDs); — Complex Programmable Logic Devices (CPLDs); — Field Programmable Gate Arrays (FPGAs); — Field Programmable Logic Arrays (FPLAs); — Field Programmable Interconnects (FPICs). | 3A001.a. |
+| IX.A3.006 | Neural network integrated circuits; | 3A001.a. |
+| IX.A3.007 | Custom integrated circuits for which the function is unknown, or the status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following: (a) More than 1 500 terminals; (b) A typical ‘basic gate propagation delay time’ of less than 0,02 ns; or (c) An operating frequency exceeding 3 GHz; | 3A001.a. |
+| IX.A3.008 | Direct Digital Synthesizer (DDS) integrated circuits having any of the following: (a) A Digital-to-Analogue Converter (DAC) clock frequency of 3,5 GHz or more and a DAC resolution of 10 bit or more, but less than 12 bit; or (b) A DAC clock frequency of 1,25 GHz or more and a DAC resolution of 12 bit or more; Technical note: The DAC clock frequency may be specified as the master clock frequency or the input clock frequency. | 3A001.a. |
+| IX.A3.009 | Microwave or millimetre wave items, as follows: (a) Travelling-wave ‘vacuum electronic devices’, pulsed or continuous wave; 1. Devices operating at frequencies exceeding 31,8 GHz; 2. Devices having a cathode heater with a turn-on time to rated RF power of less than 3 seconds; 3. Coupled cavity devices, or derivatives thereof, with a ‘fractional bandwidth’ of more than 7 % or a peak power exceeding 2,5 kW; 4. Devices based on helix, folded waveguide, or serpentine waveguide circuits, or derivatives thereof, having any of the following: a. An ‘instantaneous bandwidth’ of more than one octave, and average power (expressed in kW) times frequency (expressed in GHz) of more than 0,5; b. An ‘instantaneous bandwidth’ of one octave or less, and average power (expressed in kW) times frequency (expressed in GHz) of more than 1; c. Being ‘space-qualified’; or d. Having a gridded electron gun; 5. Devices with a ‘fractional bandwidth’ of greater than or equal to 10 %, with any of the following: a. An annular electron beam; b. A non-axisymmetric electron beam; or c. Multiple electron beams; (b) Crossed-field amplifier ‘vacuum electronic devices’ with a gain of more than 17 dB; (c) Thermionic cathodes designed for ‘vacuum electronic devices’ producing an emission current density at rated operating conditions exceeding 5 A/cm2 or a pulsed (non-continuous) current density at rated operating conditions exceeding 10 A/cm2; (d) ‘Vacuum electronic devices’ with the capability to operate in a ‘dual mode’; Technical note: ‘Dual mode’ means that the ‘vacuum electronic device’ beam current can be intentionally changed between continuous-wave and pulsed mode operation by use of a grid and produces a peak pulse output power greater than the continuous-wave output power. | 3A001.b. |
+| IX.A3.010 | ‘Monolithic Microwave Integrated Circuit’ (‘MMIC’) amplifiers that are any of the following: (a) Rated for operation at frequencies exceeding 2,7 GHz up to and including 6,8 GHz with a ‘fractional bandwidth’ of greater than 15 %, and having any of the following: 1. A peak saturated power output greater than 75 W (48,75 dBm) at any frequency exceeding 2,7 GHz up to and including 2,9 GHz; 2. A peak saturated power output greater than 55 W (47,4 dBm) at any frequency exceeding 2,9 GHz up to and including 3,2 GHz; 3. A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 3,2 GHz up to and including 3,7 GHz; or 4. A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 3,7 GHz up to and including 6,8 GHz; (b) Rated for operation at frequencies exceeding 6,8 GHz up to and including 16 GHz with a ‘fractional bandwidth’ of greater than 10 %, and having any of the following: 1. A peak saturated power output greater than 10W (40 dBm) at any frequency exceeding 6,8 GHz up to and including 8,5 GHz; or 2. A peak saturated power output greater than 5W (37 dBm) at any frequency exceeding 8,5 GHz up to and including 16 GHz; (c) Rated for operation with a peak saturated power output greater than 3 W (34,77 dBm) at any frequency exceeding 16 GHz up to and including 31,8 GHz, and with a ‘fractional bandwidth’ of greater than 10 %; (d) Rated for operation with a peak saturated power output greater than 0,1n W (– 70 dBm) at any frequency exceeding 31,8 GHz up to and including 37 GHz; (e) Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43,5 GHz, and with a ‘fractional bandwidth’ of greater than 10 %; (f) Rated for operation with a peak saturated power output greater than 31,62 mW (15 dBm) at any frequency exceeding 43,5 GHz up to and including 75 GHz, and with a ‘fractional bandwidth’ of greater than 10 %; (g) Rated for operation with a peak saturated power output greater than 10 mW (10 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a ‘fractional bandwidth’ of greater than 5 %; or (h) Rated for operation with a peak saturated power output greater than 0,1 nW (– 70 dBm) at any frequency exceeding 90 GHz; Notes: 1. The status of the MMIC whose rated operating frequency includes frequencies listed in more than one frequency range is determined by the lowest peak saturated power output threshold. 2. This category does not apply to MMICs if they are specially designed for other applications, e.g., telecommunications, radar, automobiles. | 3A001.b. |
+| IX.A3.011 | Discrete microwave transistors that are any of the following: a. Rated for operation at frequencies exceeding 2,7 GHz up to and including 6,8 GHz and having any of the following: 1. A peak saturated power output greater than 400 W (56 dBm) at any frequency exceeding 2,7 GHz up to and including 2,9 GHz; 2. A peak saturated power output greater than 205 W (53,12 dBm) at any frequency exceeding 2,9 GHz up to and including 3,2 GHz; 3. A peak saturated power output greater than 115 W (50,61 dBm) at any frequency exceeding 3,2 GHz up to and including 3,7 GHz; or 4. A peak saturated power output greater than 60 W (47,78 dBm) at any frequency exceeding 3,7 GHz up to and including 6,8 GHz; b. Rated for operation at frequencies exceeding 6,8 GHz up to and including 31,8 GHz and having any of the following: 1. A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 6,8 GHz up to and including 8,5 GHz; 2. A peak saturated power output greater than 15 W (41,76 dBm) at any frequency exceeding 8,5 GHz up to and including 12 GHz; 3. A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or 4. A peak saturated power output greater than 7 W (38,45 dBm) at any frequency exceeding 16 GHz up to and including 31,8 GHz; c. Rated for operation with a peak saturated power output greater than 0,5 W (27 dBm) at any frequency exceeding 31,8 GHz up to and including 37 GHz; d. Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43,5 GHz; or e. Rated for operation with a peak saturated power output greater than 0,1 nW (-70 dBm) at any frequency exceeding 43,5 GHz; Notes: 1. The status of a transistor whose rated operating frequency includes frequencies listed in more than one frequency range is determined by the lowest peak saturated power output threshold. 2. This category includes bare dice, dice mounted on carriers or dice mounted in packages. Some discrete transistors may also be referred to as power amplifiers. | 3A001.b. |
+| IX.A3.012 | Microwave solid-state amplifiers and microwave assemblies/modules containing microwave solid-state amplifiers that are any of the following: (a) Rated for operation at frequencies exceeding 2,7 GHz up to and including 6,8 GHz with a ‘fractional bandwidth’ of greater than 15 % and having any of the following: 1. A peak saturated power output greater than 500 W (57 dBm) at any frequency exceeding 2,7 GHz up to and including 2,9 GHz; 2. A peak saturated power output greater than 270 W (54,3 dBm) at any frequency exceeding 2,9 GHz up to and including 3,2 GHz; 3. A peak saturated power output greater than 200 W (53 dBm) at any frequency exceeding 3,2 GHz up to and including 3,7 GHz; or 4. A peak saturated power output greater than 90 W (49,54 dBm) at any frequency exceeding 3,7 GHz up to and including 6,8 GHz; (b) Rated for operation at frequencies greater than 6,8 GHz up to and including 31,8 GHz with a ‘fractional bandwidth’ of greater than 10 % and having any of the following: 1. A peak saturated power output greater than 70 W (48,54 dBm) at any frequency exceeding 6,8 GHz up to and including 8,5 GHz; 2. A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 8,5 GHz up to and including 12 GHz; 3. A peak saturated power output greater than 30 W (44,77 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or 4. A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 16 GHz up to and including 31,8 GHz; (c) Rated for operation with a peak saturated power output greater than 0,5 W (27 dBm) at any frequency exceeding 31,8 GHz up to and including 37 GHz; (d) Rated for operation with a peak saturated power output greater than 2 W (33 dBm) at any frequency exceeding 37 GHz up to and including 43,5 GHz, and with a ‘fractional bandwidth’ of greater than 10 %; (e) Rated for operation at frequencies exceeding 43,5 GHz and having any of the following: 1. A peak saturated power output greater than 0,2 W (23 dBm) at any frequency exceeding 43,5 GHz up to and including 75 GHz, and with a ‘fractional bandwidth’ of greater than 10 %; 2. A peak saturated power output greater than 20 mW (13 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a ‘fractional bandwidth’ of greater than 5 %; or 3. A peak saturated power output greater than 0,1 nW (- 70 dBm) at any frequency exceeding 90 GHz; Note: The status of an item whose rated operating frequency includes frequencies listed in more than one frequency range is determined by the lowest peak saturated power output threshold. | 3A001.b. |
+| IX.A3.013 | Electronically or magnetically tunable band-pass or band-stop filters, having more than 5 tunable resonators capable of tuning across a 1,5:1 frequency band (fmax/fmin) in less than 10 μs and having any of the following: (a) A band-pass bandwidth of more than 0,5 % of centre frequency; or (b) A band-stop bandwidth of less than 0,5 % of centre frequency; | 3A001.b. |
+| IX.A3.014 | Converters and harmonic mixers that are any of the following: (a) Designed to extend the frequency range of ‘signal analysers’ beyond 90 GHz; (b) Designed to extend the operating range of signal generators as follows: 1. Beyond 90 GHz; 2. To an output power greater than 100 mW (20 dBm) anywhere within the frequency range exceeding 43,5 GHz but not exceeding 90 GHz; (c) Designed to extend the operating range of network analysers as follows: 1. Beyond 110 GHz; 2. To an output power greater than 31,62 mW (15 dBm) anywhere within the frequency range exceeding 43,5 GHz but not exceeding 90 GHz; 3. To an output power greater than 1 mW (0 dBm) anywhere within the frequency range exceeding 90 GHz but not exceeding 110 GHz; or (d) Designed to extend the frequency range of microwave test receivers beyond 110 GHz; | 3A001.b. |
+| IX.A3.015 | Microwave power amplifiers containing ‘vacuum electronic devices’ specified above and having all of the following: (a) Operating frequencies above 3 GHz; (b) An average output power to mass ratio exceeding 80 W/kg; and (c) A volume of less than 400 cm3; Note: This category does not apply to equipment designed or rated for operation in any frequency band which is ‘allocated by the International Telecommunication Union (ITU)’ for radio communications services, but not for radio determination. | 3A001.b. |
+| IX.A3.016 | Microwave Power Modules (MPMs) consisting of, at least, a travelling-wave ‘vacuum electronic device’, a ‘Monolithic Microwave Integrated Circuit’ (‘MMIC’) and an integrated electronic power conditioner and having all of the following: (a) A ‘turn-on time’ from off to fully operational in less than 10 seconds; (b) A volume less than the maximum rated power in watts multiplied by 10 cm3/W; and (c) An ‘instantaneous bandwidth’ of greater than 1 octave (fmax > 2fmin) and having any of the following: 1. For frequencies equal to or less than 18 GHz, an RF output power greater than 100 W; or 2. A frequency greater than 18 GHz; Technical notes: 1. To calculate the volume in item b. above, the following example is provided: for a maximum rated power of 20 W, the volume would be: 20 W × 10 cm3/W = 200 cm3. 2. The ‘turn-on time’ in item a. above refers to the time from fully off to fully operational, i.e., it includes the warm-up time of the MPM. | 3A001.b. |
+| IX.A3.017 | Oscillators or oscillator assemblies, specified to operate with a single sideband (SSB) phase noise, in dBc/Hz, less (better) than -(126 + 20log10F -20log10f) anywhere within the range of 10 Hz ≤ F ≤ 10 kHz; Technical note: In the category above, F is the offset from the operating frequency in Hz and f is the operating frequency in MHz. | 3A001.b. |
+| IX.A3.018 | ‘Frequency synthesizer’‘electronic assemblies’ having a ‘frequency switching time’ as specified by any of the following: (a) Less than 143 ps; (b) Less than 100 μs for any frequency change exceeding 2,2 GHz within the synthesized frequency range exceeding 4,8 GHz but not exceeding 31,8 GHz; (c) Less than 500 μs for any frequency change exceeding 550 MHz within the synthesized frequency range exceeding 31,8 GHz but not exceeding 37 GHz; (d) Less than 100 μs for any frequency change exceeding 2,2 GHz within the synthesized frequency range exceeding 37 GHz but not exceeding 90 GHz; or (e) Less than 1 ms within the synthesized frequency range exceeding 90 GHz; | 3A001.b. |
+| IX.A3.019 | ‘Transmit/receive modules’, ‘transmit/receive MMICs’, ‘transmit modules’ and ‘transmit MMICs’, rated for operation at frequencies above 2,7 GHz and having all of the following: (a) A peak saturated power output (in watts), Psat, greater than 505,62 divided by the maximum operating frequency (in GHz) squared [Psat > 505,62 W * GHz2/fGHz 2] for any channel; (b) A ‘fractional bandwidth’ of 5 % or greater for any channel; (c) Any planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤ 15 cm * GHz * N/fGHz] where N is the number of transmit or transmit/receive channels; and (d) An electronically variable phase shifter per channel; Technical notes: 1. A ‘transmit/receive module’ is a multifunction ‘electronic assembly’ that provides bidirectional amplitude and phase control for transmission and reception of signals. 2. A ‘transmit module’ is an ‘electronic assembly’ that provides amplitude and phase control for transmission of signals. 3. A ‘transmit/receive MMIC’ is a multifunction ‘MMIC’ that provides bidirectional amplitude and phase control for transmission and reception of signals. 4. A ‘transmit MMIC’ is a ‘MMIC’ that provides amplitude and phase control for transmission of signals. 5. 2,7 GHz should be used as the lowest operating frequency (fGHz) in the formula in item (c) for transmit/receive or transmit modules that have a rated operation range extending downward to 2,7 GHz and below [d ≤15 cm * GHz * N/2,7 GHz]. 6. Item IX.A3.019 applies to ‘transmit/receive modules’ or ‘transmit modules’ with or without a heat sink. The value of d in item 11.c. does not include any portion of the ‘transmit/receive module’ or ‘transmit module’ that functions as a heat sink. 7. ‘Transmit/receive modules’, ‘transmit modules’, ‘transmit/receive MMICs’ or ‘transmit MMICs’ may or may not have N integrated radiating antenna elements where N is the number of transmit or transmit/receive channels. | 3A001.b. |
+| IX.A3.020 | Surface acoustic wave and surface skimming (shallow bulk) acoustic devices with any of the following: (a) A carrier frequency exceeding 6 GHz; (b) A carrier frequency exceeding 1 GHz, but not exceeding 6 GHz and having any of the following: 1. A ‘frequency side-lobe rejection’ exceeding 65 dB; 2. A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100; 3. A bandwidth of greater than 250 MHz; or 4. A dispersive delay of more than 10 μs; or (c) A carrier frequency of 1 GHz or less and having any of the following: 1. A product of the maximum delay time and the bandwidth (time in μs and bandwidth in MHz) of more than 100; 2. A dispersive delay of more than 10 μs; or 3. A ‘frequency side-lobe rejection’ exceeding 65 dB and a bandwidth greater than 100 MHz; | 3A001.c. |
+| IX.A3.021 | Bulk (volume) acoustic wave which permit the direct processing of signals at frequencies exceeding 6 GHz; | 3A001.c. |
+| IX.A3.022 | Acoustic-optic ‘signal processing’ devices employing interaction between acoustic waves (bulk wave or surface wave) and light waves which permit the direct processing of signals or images, including spectral analysis, correlation or convolution; | 3A001.c. |
+| IX.A3.023 | Electronic devices and circuits containing components, manufactured from ‘superconductive’ materials, specially designed for operation at temperatures below the ‘critical temperature’ of at least one of the ‘superconductive’ constituents and having any of the following: (a) Current switching for digital circuits using ‘superconductive’ gates with a product of delay time per gate (in seconds) and power dissipation per gate (in watts) of less than 10– 14 J; or (b) Frequency selection at all frequencies using resonant circuits with Q-values exceeding 10 000 ; | 3A001.d. |
+| IX.A3.024 | High-energy cells, as follows: (a) ‘Primary cells’ having an ‘energy density’ exceeding 550 Wh/kg at 20 °C; (b) ‘Secondary cells’ having an ‘energy density’ exceeding 350 Wh/kg at 20 °C; Technical notes: 1. For the purposes of high-energy devices, ‘energy density’ (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared, then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms. 2. For the purposes of high-energy devices, a ‘cell’ is defined as an electrochemical device, which has positive and negative electrodes and an electrolyte, and is a source of electrical energy. It is the basic building block of a battery. 3. For the purposes of high-energy devices, a ‘primary cell’ is a ‘cell’ that is not designed to be charged by any other source. 4. For the purposes of high-energy devices, a ‘secondary cell’ is a ‘cell’ that is designed to be charged by an external electrical source. Note: High-energy devices do not apply to batteries, including single-cell batteries. | 3A001.e. |
+| IX.A3.025 | High-energy storage capacitors, as follows: (a) Capacitors with a repetition rate of less than 10 Hz (single shot capacitors) and having all of the following: 1. A voltage rating equal to or more than 5 kV; 2. An energy density equal to or more than 250 J/kg; and 3. A total energy equal to or more than 25 kJ; (b) Capacitors with a repetition rate of 10 Hz or more (repetition rated capacitors) and having all of the following: 1. A voltage rating equal to or more than 5 kV; 2. An energy density equal to or more than 50 J/kg; 3. A total energy equal to or more than 100 J; and 4. A charge/discharge cycle life equal to or more than 10 000 ; | 3A001.e. |
+| IX.A3.026 | ‘Superconductive’ electromagnets and solenoids, specially designed to be fully charged or discharged in less than one second and having all of the following: Note: The item above does not apply to ‘superconductive’ electromagnets or solenoids specially designed for Magnetic Resonance Imaging (MRI) medical equipment. (a) Energy delivered during the discharge exceeding 10 kJ in the first second; (b) Inner diameter of the current carrying windings of more than 250 mm; and (c) Rated for a magnetic induction of more than 8 T or ‘overall current density’ in the winding of more than 300 A/mm2; | 3A001.e. |
+| IX.A3.027 | Solar cells, cell-interconnect-coverglass (CIC) assemblies, solar panels, and solar arrays, which are ‘space-qualified’, having a minimum average efficiency exceeding 20 % at an operating temperature of 301 K (28 °C) under simulated ‘AM0’ illumination with an irradiance of 1 367 watts per square metre (W/m2); Technical note: ‘AM0’, or ‘Air Mass Zero’, refers to the spectral irradiance of sunlight in the Earth's outer atmosphere when the distance between the Earth and the sun is one astronomical unit (AU). | 3A001.e. |
+| IX.A3.028 | Rotary input type absolute position encoders having an ‘accuracy’ equal to or less (better) than 1,0 second of arc and specially designed encoder rings, discs or scales therefor; | 3A001.f. |
+| IX.A3.029 | Solid-state pulsed power switching thyristor devices and ‘thyristor modules’, using either electrically, optically or electron radiation controlled switch methods and having any of the following: 1. A maximum turn-on current rate of rise (di/dt) greater than 30 000 A/μs and off-state voltage greater than 1 100 V; or 2. A maximum turn-on current rate of rise (di/dt) greater than 2 000 A/μs and having all of the following: a. An off-state peak voltage equal to or greater than 3 000 V; and b. A peak (surge) current equal to or greater than 3 000 A; Notes: 1. Item (g) above includes: — Silicon Controlled Rectifiers (SCRs); — Electrical Triggering Thyristors (ETTs); — Light Triggering Thyristors (LTTs); — Integrated Gate Commutated Thyristors (IGCTs); — Gate Turn-off Thyristors (GTOs); — MOS Controlled Thyristors (MCTs); — Solidtrons. 2. Item (g) above does not apply to thyristor devices and ‘thyristor modules’ incorporated into equipment designed for civil railway or ‘civil aircraft’ applications. Technical note: For the purposes of item (g) above, a ‘thyristor module’ contains one or more thyristor devices. | 3A001.g. |
+| IX.A3.030 | Solid-state power semiconductor switches, diodes or ‘modules’, having all of the following: 1. Rated for a maximum operating junction temperature greater than 488 K (215 °C); 2. Repetitive peak off-state voltage (blocking voltage) exceeding 300 V; and 3. Continuous current greater than 1 A. Note: Repetitive peak off-state voltage in the item above includes drain to source voltage, collector to emitter voltage, repetitive peak reverse voltage and peak repetitive off-state blocking voltage. | 3A001.h. |
+| IX.A3.031 | Recording equipment and oscilloscopes, as follows 1. Digital data recorders having all of the following: a. A sustained ‘continuous throughput’ of more than 6,4 Gbit/s to disk or solid-state drive memory; and b. A processor that performs analysis of radio frequency signal data while it is being recorded; Technical notes: 1. For recorders with a parallel bus architecture, the ‘continuous throughput’ rate is the highest word rate multiplied by the number of bits in a word. 2. ‘Continuous throughput’ is the fastest data rate the instrument can record to disk or solid-state drive memory without the loss of any information while sustaining the input digital data rate or digitizer conversion rate. 2. Real-time oscilloscopes having a vertical root-mean-square (rms) noise voltage of less than 2 % of full-scale at the vertical scale setting that provides the lowest noise value for any input 3 dB bandwidth of 60 GHz or greater per channel; | 3A002.a. |
+| IX.A3.032 | ‘Signal analysers’, as follows: 1. ‘Signal analysers’ having a 3 dB resolution bandwidth (RBW) exceeding 10 MHz anywhere within the frequency range exceeding 31,8 GHz but not exceeding 37 GHz; 2. ‘Signal analysers’ having Displayed Average Noise Level (DANL) less (better) than - 150 dBm/Hz anywhere within the frequency range exceeding 43,5 GHz but not exceeding 90 GHz; 3. ‘Signal analysers’ having a frequency exceeding 90 GHz; 4. ‘Signal analysers’ having all of the following: a. ‘Real-time bandwidth’ exceeding 170 MHz; and b. Having any of the following: 1. 100 % probability of discovery, with less than a 3 dB reduction from full amplitude due to gaps or windowing effects, of signals having a duration of 15 μs or less; or 2. A ‘frequency mask trigger’ function with 100 % probability of trigger (capture) for signals having a duration of 15 μs or less; Technical notes: 1. Probability of discovery in item 1. above is also referred to as probability of intercept or probability of capture. 2. For the purposes of item 1. above, the duration for 100 % probability of discovery is equivalent to the minimum signal duration necessary for the specified level measurement uncertainty. Note: The category above does not apply to those ‘signal analysers’ using only constant percentage bandwidth filters (also known as octave or fractional octave filters). | 3A002.c. |
+| IX.A3.033 | Signal generators having any of the following: 1. Specified to generate pulse-modulated signals having all of the following, anywhere within the frequency range exceeding 31,8 GHz but not exceeding 37 GHz: a. ‘Pulse duration’ of less than 25 ns; and b. On/off ratio equal to or exceeding 65 dB; 2. An output power exceeding 100 mW (20 dBm) anywhere within the frequency range exceeding 43,5 GHz but not exceeding 90 GHz; 3. A ‘frequency switching time’ as specified by any of the following: a. Less than 100 μs for any frequency change exceeding 2,2 GHz within the frequency range exceeding 4,8 GHz but not exceeding 31,8 GHz b. Less than 500 μs for any frequency change exceeding 550 MHz within the frequency range exceeding 31,8 GHz but not exceeding 37 GHz; or c. Less than 100 μs for any frequency change exceeding 2,2 GHz within the frequency range exceeding 37 GHz but not exceeding 90 GHz; | 3A002.d. |
+| IX.A3.034 | Network analysers having any of the following: 1. An output power exceeding 31,62 mW (15 dBm) anywhere within the operating frequency range exceeding 43,5 GHz but not exceeding 90 GHz; 2. An output power exceeding 1 mW (0 dBm) anywhere within the operating frequency range exceeding 90 GHz but not exceeding 110 GHz; 3. ‘Non-linear vector measurement functionality’ at frequencies exceeding 50 GHz but not exceeding 110 GHz; or 4. A maximum operating frequency exceeding 110 GHz; Technical note: ‘Non-linear vector measurement functionality’ is an instrument's ability to analyse the test results of devices driven into the large-signal domain or the non-linear distortion range. | 3A002.e. |
+| IX.A3.035 | Microwave test receivers having all of the following; 1. A maximum operating frequency exceeding 110 GHz; and 2. Being capable of measuring amplitude and phase simultaneously; | 3A002.f. |
+| IX.A3.036 | Atomic frequency standards being any of the following: 1. ‘Space-qualified’; 2. Non-rubidium and having a long-term stability less (better) than 1 × 10– 11/month; or 3. Non-‘space-qualified’ and having all of the following: a. Being a rubidium standard; b. Long-term stability less (better) than 1 × 10– 11/month; and c. Total power consumption of less than 1 Watt. | 3A002.f. |
+| IX.A3.037 | Equipment for the manufacturing of semiconductor devices or materials, as follows and specially designed components and accessories therefor: (a) Equipment designed for ion implantation and having any of the following: 1. Being designed and optimized to operate at a beam energy of 20 keV or more and a beam current of 10 mA or more for hydrogen, deuterium or helium implant; 2. Direct write capability; 3. A beam energy of 65 keV or more and a beam current of 45 mA or more for high-energy oxygen implant into a heated semiconductor material ‘substrate’; or 4. Being designed and optimized to operate at a beam energy of 20 keV or more and a beam current of 10 mA or more for silicon implant into a semiconductor material ‘substrate’ heated to 600 °C or greater; (b) Lithography equipment as follows and imprint lithography equipment capable of producing features of 45 nm or less: 1. Align and expose step and repeat (direct step on wafer) or step and scan (scanner) equipment for wafer processing using photo-optical or X-ray methods and having any of the following: a. A light source wavelength shorter than 193 nm; or b. Capable of producing a pattern with a ‘Minimum Resolvable Feature size’ (MRF) of 45 nm or less; Technical note: The ‘Minimum Resolvable Feature size’ (MRF) is calculated by the following formula: [image] where the K factor = 0,35 (c) Equipment specially designed for mask using deflected focused electron beam, ion beam or ‘laser’ beam; | 3B001.b. 3B001.f. 3B001.f. |
+| IX.A3.038 | Equipment designed for device processing using direct writing methods; Masks and reticles, designed for integrated circuits. | 3B001.g. |
+| IX.A3.038 | Test equipment specially designed for testing finished or unfinished semiconductor and microwave devices as follows and specially designed components and accessories therefor: (a) For testing S-parameters of transistor devices at frequencies exceeding 31,8 GHz; (b) For testing microwave integrated circuits specified above. | 3B002 |
+| IX.A3.039 | Hetero-epitaxial materials consisting of a ‘substrate’ having stacked epitaxially grown multiple layers with any of the following: (a) Silicon (Si); (b) Germanium (Ge); (c) Silicon Carbide (SiC); or (d) ‘III/V compounds’ of gallium or indium. Note: This item does not apply to a ‘substrate’ having one or more P-type epitaxial layers of GaN, InGaN, AlGaN, InAlN, InAlGaN, GaP, GaAs, AlGaAs, InP, InGaP, AlInP or InGaAlP, independent of the sequence of the elements, except if the P-type epitaxial layer is between N-type layers. | 3C001 |
+| IX.A3.040 | Resist materials as follows and ‘substrates’ coated with the following resists: (a) Resists designed for semiconductor lithography as follows: 1. Positive resists adjusted (optimized) for use at wavelengths less than 245 nm but equal to or greater than 15 nm; 2. Resists adjusted (optimized) for use at wavelengths less than 15 nm but greater than 1 nm; (b) All resists designed for use with electron beams or ion beams, with a sensitivity of 0,01 μcoulomb/mm2 or better; (c) All resists optimized for surface imaging technologies; (d) All resists designed or optimized for use with imprint lithography equipment capable of producing features of 45 nm or less that use either a thermal or photo-curable process. | 3C002 |
+| IX.A3.041 | Organo-inorganic compounds: (a) Organo-metallic compounds of aluminium, gallium or indium, having a purity (metal basis) better than 99,999 %; (b) Organo-arsenic, organo-antimony and organo-phosphorus compounds, having a purity (inorganic element basis) better than 99,999 %. | 3C003 |
+| IX.A3.042 | Hydrides of phosphorus, arsenic or antimony, having a purity better than 99,999 %, even diluted in inert gases or hydrogen. Note: The item above does not apply to hydrides containing 20 % molar or more of inert gases or hydrogen. | 3C004 |
+| IX.A3.043 | Silicon carbide (SiC), gallium nitride (GaN), aluminium nitride (AlN) or aluminium gallium nitride (AlGaN) semiconductor ‘substrates’, or ingots, boules or other preforms of those materials, having resistivities greater than 10 000 ohm-cm at 20 °C. | 3C005 |
+| IX.A3.044 | ‘Substrates’ specified in item 5 above with at least one epitaxial layer of silicon carbide, gallium nitride, aluminium nitride or aluminium gallium nitride. | 3C006 |
+
+IX.A6. SENSORS AND LASERS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.A6.001 | Optical sensors or equipment and components therefor, as follows: (a) Special support components for optical sensors, as follows: 1. ‘Space-qualified’ cryocoolers; | 6A002.d. |
+| IX.A6.002 | Non-‘space-qualified’ cryocoolers having a cooling source temperature below 218 K (– 55 °C), as follows: (a) Closed cycle type with a specified Mean-Time-To-Failure (MTTF) or Mean-Time-Between-Failures (MTBF), exceeding 2 500 hours; (b) Joule-Thomson (JT) self-regulating minicoolers having bore (outside) diameters of less than 8 mm; | 6A002.d. |
+| IX.A6.003 | Optical sensing fibres specially fabricated either compositionally or structurally, or modified by coating, to be acoustically, thermally, inertially, electromagnetically or nuclear radiation sensitive. | 6A002.d. |
+| IX.A6.004 | Cameras, systems or equipment, and components therefor, as follows: (a) Instrumentation cameras and specially designed components therefor, as follows: Note: Instrumentation cameras, specified above, with modular structures should be evaluated by their maximum capability, using plug-ins available according to the camera manufacturer's specifications. | 6A003 |
+| IX.A6.005 | High-speed cinema recording cameras using any film format from 8 mm to 16 mm inclusive, in which the film is continuously advanced throughout the recording period, and that are capable of recording at framing rates exceeding 13 150 frames/s; Note: The item above does not apply to cinema recording cameras designed for civil purposes. 2. Mechanical high-speed cameras, in which the film does not move, capable of recording at rates exceeding 1 000 000 frames/s for the full framing height of 35 mm film, or at proportionately higher rates for lesser frame heights, or at proportionately lower rates for greater frame heights; 3. Mechanical or electronic streak cameras as follows: a. Mechanical streak cameras having writing speeds exceeding 10 mm/μs; b. Electronic streak cameras having temporal resolution better than 50 ns; 4. Electronic framing cameras having a speed exceeding 1 000 000 frames/s; 5. Electronic cameras having all of the following: a. An electronic shutter speed (gating capability) of less than 1 μs per full frame; and b. A read-out time allowing a framing rate of more than 125 full frames per second; 6. Plug-ins having all of the following characteristics: a. Specially designed for instrumentation cameras which have modular structures and which are specified in this item; and b. Enabling these cameras to meet the characteristics specified above, according to the manufacturer's specifications; | 6A003 |
+| IX.A6.006 | Imaging cameras, as follows: Note: The item above does not apply to television or video cameras, specially designed for television broadcasting. 1. Video cameras incorporating solid-state sensors, having a peak response in the wavelength range exceeding 10 nm, but not exceeding 30 000 nm and having all of the following: a. Having any of the following: 1. More than 4 × 106‘active pixels’ per solid-state array for monochrome (black and white) cameras; 2. More than 4 × 106‘active pixels’ per solid-state array for colour cameras incorporating three solid-state arrays; or 3. More than 12 × 106‘active pixels’ for solid-state array colour cameras incorporating one solid-state array; and b. Having any of the following: 1. Optical mirrors specified below; 2. Optical control equipment specified below; or 3. The capability for annotating internally generated ‘camera tracking data’; Technical notes: 1. For the purposes of this entry, digital video cameras should be evaluated by the maximum number of ‘active pixels’ used for capturing moving images. 2. For the purposes of this entry, ‘camera tracking data’ is the information necessary to define camera line of sight orientation with respect to the Earth. This includes: (a) the horizontal angle the camera line of sight makes with respect to the Earth's magnetic field direction; and (b) the vertical angle between the camera line of sight and the Earth's horizon. | 6A003 |
+| IX.A6.007 | Scanning cameras and scanning camera systems; a. A peak response in the wavelength range exceeding 10 nm, but not exceeding 30 000 nm; b. Linear detector arrays with more than 8 192 elements per array; and c. Mechanical scanning in one direction; Note: The item above does not apply to scanning cameras and scanning camera systems, specially designed for any of the following: (a) Industrial or civilian photocopiers; (b) Image scanners specially designed for civil, stationary, close proximity scanning applications (e.g., reproduction of images or print contained in documents, artwork or photographs); or (c) Medical equipment. | 6A003 |
+| IX.A6.008 | Imaging cameras incorporating image intensifier tubes having any of the following: a. Having all of the following: 1. A peak response in the wavelength range exceeding 400 nm but not exceeding 1 050 nm; 2. Electron image amplification using any of the following: a. A microchannel plate with a hole pitch (centre-to-centre spacing) of 12 μm or less; or b. An electron sensing device with a non-binned pixel pitch of 500 μm or less, specially designed or modified to achieve ‘charge multiplication’ other than by a microchannel plate; and 3. Any of the following photocathodes: a. Multialkali photocathodes (e.g., S-20 and S-25) having a luminous sensitivity exceeding 350 μA/lm; b. GaAs or GaInAs photocathodes; or c. Other ‘III/V compound’ semiconductor photocathodes having a maximum ‘radiant sensitivity’ exceeding 10 mA/W; or b. Having all of the following: 1. A peak response in the wavelength range exceeding 1 050 nm but not exceeding 1 800 nm; 2. Electron image amplification using any of the following: a. A microchannel plate with a hole pitch (centre-to-centre spacing) of 12 μm or less; or b. An electron sensing device with a non-binned pixel pitch of 500 μm or less, specially designed or modified to achieve ‘charge multiplication’ other than by a microchannel plate; and 3. ‘III/V compound’ semiconductor (e.g., GaAs or GaInAs) photocathodes and transferred electron photocathodes, having a maximum ‘radiant sensitivity’ exceeding 15 mA/W; | 6A003 |
+| IX.A6.009 | Imaging cameras incorporating ‘focal plane arrays’ having any of the following: a. Incorporating non-‘space-qualified’‘focal plane arrays’ having any of the following: 1. Having all of the following: a. Individual elements with a peak response within the wavelength range exceeding 900 nm but not exceeding 1 050 nm; and b. Any of the following: 1. A response ‘time constant’ of less than 0,5 ns; or 2. Specially designed or modified to achieve ‘charge multiplication’ and having a maximum ‘radiant sensitivity’ exceeding 10 mA/W; 2. Having all of the following: a. Individual elements with a peak response in the wavelength range exceeding 1 050 nm but not exceeding 1 200 nm; and b. Any of the following: 1. A response ‘time constant’ of 95 ns or less; or 2. Specially designed or modified to achieve ‘charge multiplication’ and having a maximum ‘radiant sensitivity’ exceeding 10 mA/W; or 3. Being non-‘space-qualified’ non-linear (two-dimensional) ‘focal plane arrays’ having individual elements with a peak response in the wavelength range exceeding 1 200 nm but not exceeding 30 000 nm; 4. Being non-‘space-qualified’ linear (one-dimensional) ‘focal plane arrays’ having all of the following: a. Individual elements with a peak response in the wavelength range exceeding 1 200 nm but not exceeding 3 000 nm; and b. Any of the following: 1. A ratio of ‘scan direction’ dimension of the detector element to the ‘cross-scan direction’ dimension of the detector element of less than 3,8; or 2. Signal processing in the detector elements; or 5. Being non-‘space-qualified’ linear (one-dimensional) ‘focal plane arrays’ having individual elements with a peak response in the wavelength range exceeding 3 000 nm but not exceeding 30 000 nm; b. Incorporating non-‘space-qualified’ non-linear (two-dimensional) infrared ‘focal plane arrays’ based on ‘microbolometer’ material having individual elements with an unfiltered response in the wavelength range equal to or exceeding 8 000 nm but not exceeding 14 000 nm; or c. Incorporating non-‘space-qualified’‘focal plane arrays’ having all of the following: 1. Individual detector elements with a peak response in the wavelength range exceeding 400 nm but not exceeding 900 nm; 2. Specially designed or modified to achieve ‘charge multiplication’ and having a maximum ‘radiant sensitivity’ exceeding 10 mA/W for wavelengths exceeding 760 nm; and 3. Greater than 32 elements. Notes: 1. Imaging cameras specified in item 4 above include ‘focal plane arrays’ combined with sufficient ‘signal processing’ electronics, beyond the read-out integrated circuit, to enable as a minimum the output of an analogue or digital signal once power is supplied. 2. Item 4.a. does not apply to imaging cameras incorporating linear ‘focal plane arrays’ with 12 elements or fewer, not employing time-delay-and-integration within the element and designed for any of the following: (a) Industrial or civilian intrusion alarm, traffic or industrial movement control or counting systems; (b) Industrial equipment used for inspection or monitoring of heat flows in buildings, equipment or industrial processes; (c) Industrial equipment used for inspection, sorting or analysis of the properties of materials; (d) Equipment specially designed for laboratory use; or (e) Medical equipment. 3. Item 4.b. does not apply to imaging cameras having any of the following: (a) A maximum frame rate equal to or less than 9 Hz; (b) Having all of the following: 1. Having a minimum horizontal or vertical ‘Instantaneous Field of View (IFOV)’ of at least 10 mrad (milliradians); 2. Incorporating a fixed focal-length lens that is not designed to be removed; 3. Not incorporating a ‘direct view’ display; and Technical note: ‘Direct view’ refers to an imaging camera operating in the infrared spectrum that presents a visual image to a human observer using a near-to-eye microdisplay incorporating any light-security mechanism. 4. Having any of the following: a. No facility to obtain a viewable image of the detected field of view; or b. The camera is designed for a single kind of application and designed not to be user modified; or Technical note: ‘Instantaneous Field of View (IFOV)’ specified in note 3.b. is the lesser figure of the ‘Horizontal IFOV’ or the ‘Vertical IFOV’. ‘Horizontal IFOV’ = horizontal Field of View (FOV)/number of horizontal detector elements. ‘Vertical IFOV’ = vertical Field of View (FOV)/number of vertical detector elements. (c) The camera is specially designed for installation into a civilian passenger land vehicle and having all of the following: 1. The placement and configuration of the camera within the vehicle are solely to assist the driver in the safe operation of the vehicle. | 6A003 |
+| IX.A6.010 | Optical mirrors (reflectors), as follows: 1. ‘Deformable mirrors’ having an active optical aperture greater than 10 mm and having any of the following, and specially designed components therefor: a. Having all the following: 1. A mechanical resonant frequency of 750 Hz or more; and 2. More than 200 actuators; or b. A Laser Induced Damage Threshold (LIDT) being any of the following: 1. Greater than 1 kW/cm2 using a ‘CW laser’; or 2. Greater than 2 J/cm2 using 20 ns ‘laser’ pulses at 20 Hz repetition rate; 2. Lightweight monolithic mirrors having an average ‘equivalent density’ of less than 30 kg/m2 and a total mass exceeding 10 kg; 3. Lightweight ‘composite’ or foam mirror structures having an average ‘equivalent density’ of less than 30 kg/m2 and a total mass exceeding 2 kg; Note: Items 2 and 3 above do not apply to mirrors specially designed to direct solar radiation for terrestrial heliostat installations. | 6A004.a. |
+| IX.A6.011 | Mirrors specially designed for beam steering mirror stages with a flatness of λ/10 or better (λ is equal to 633 nm) and having any of the following: a. Diameter or major axis length greater than or equal to 100 mm; or b. Having all of the following: 1. Diameter or major axis length greater than 50 mm but less than 100 mm; and 2. A Laser Induced Damage Threshold (LIDT) being any of the following: a. Greater than 10 kW/cm2 using a ‘CW laser’; or b. Greater than 20 J/cm2 using 20 ns ‘laser’ pulses at 20 Hz repetition rate; | 6A004.b. |
+| IX.A6.012 | Optical components made from zinc selenide (ZnSe) or zinc sulphide (ZnS) with transmission in the wavelength range exceeding 3 000 nm but not exceeding 25 000 nm and having any of the following: 1. Exceeding 100 cm3 in volume; or 2. Exceeding 80 mm in diameter or length of major axis and 20 mm in thickness (depth); (c) ‘Space-qualified’ components for optical systems, as follows: 1. Components lightweighted to less than 20 % ‘equivalent density’ compared with a solid blank of the same aperture and thickness; 2. Raw substrates, processed substrates having surface coatings (single-layer or multi-layer, metallic or dielectric, conducting, semiconducting or insulating) or having protective films; 3. Segments or assemblies of mirrors designed to be assembled in space into an optical system with a collecting aperture equivalent to or larger than a single optic 1 m in diameter; 4. Components manufactured from ‘composite’ materials having a coefficient of linear thermal expansion equal to or less than 5 × 10– 6 in any coordinate direction. | 6A004.c. |
+| IX.A6.013 | Non-‘tunable’ continuous-wave ‘(CW) lasers’ having any of the following: 1. Output wavelength less than 150 nm and output power exceeding 1 W; 2. Output wavelength of 150 nm or more but not exceeding 510 nm and output power exceeding 30 W; Note: Item 2 above does not apply to Argon ‘lasers’ having an output power equal to or less than 50 W. 3. Output wavelength exceeding 510 nm but not exceeding 540 nm and any of the following: a. Single transverse mode output and output power exceeding 50 W; or b. Multiple transverse mode output and output power exceeding 150 W; 4. Output wavelength exceeding 540 nm but not exceeding 800 nm and output power exceeding 30 W; 5. Output wavelength exceeding 800 nm but not exceeding 975 nm and any of the following: a. Single transverse mode output and output power exceeding 50 W; or b. Multiple transverse mode output and output power exceeding 80 W; 6. Output wavelength exceeding 975 nm but not exceeding 1 150 nm and any of the following: a. Single transverse mode and output power exceeding 500 W; or b. Multiple transverse mode output and any of the following: 1. ‘Wall-plug efficiency’ exceeding 18 % and output power exceeding 500 W; or 2. Output power exceeding 2 kW; Notes: 1. Item b. above does not apply to multiple transverse mode, industrial ‘lasers’ with output power exceeding 2 kW and not exceeding 6 kW with a total mass greater than 1 200 kg. For the purposes of this note, total mass includes all components required to operate the ‘laser’, e.g., ‘laser’, power supply, heat exchanger, but excludes external optics for beam conditioning and/or delivery. 2. Item b. above does not apply to multiple transverse mode, industrial ‘lasers’ having any of the following: (a) Output power exceeding 500 W but not exceeding 1 kW and having all of the following: 1. Beam Parameter Product (BPP) exceeding 0,7 mm · mrad; and 2. ‘Brightness’ not exceeding 1 024 W/(mm · mrad)2; (b) Output power exceeding 1 kW but not exceeding 1,6 kW and having a BPP exceeding 1,25 mm · mrad; (c) Output power exceeding 1,6 kW but not exceeding 2,5 kW and having a BPP exceeding 1,7 mm · mrad; (d) Output power exceeding 2,5 kW but not exceeding 3,3 kW and having a BPP exceeding 2,5 mm · mrad; (e) Output power exceeding 3,3 kW but not exceeding 4 kW and having a BPP exceeding 3,5 mm · mrad; (f) Output power exceeding 4 kW but not exceeding 5 kW and having a BPP exceeding 5 mm · mrad; (g) Output power exceeding 5 kW but not exceeding 6 kW and having a BPP exceeding 7,2 mm · mrad; (h) Output power exceeding 6 kW but not exceeding 8 kW and having a BPP exceeding 12 mm · mrad; or (i) Output power exceeding 8 kW but not exceeding 10 kW and having a BPP exceeding 24 mm · mrad; Technical note: For the purposes of note 2.a., ‘brightness’ is defined as the output power of the ‘laser’ divided by the squared Beam Parameter Product (BPP), i.e., (output power)/BPP2. | 6A005.a.1. 6A005.a.2. 6A005.a.3 6A005.a.4. 6A005.a.5. 6A005.a.6. |
+| IX.A6.014 | ‘Tunable’‘lasers’ having any of the following: 1. Output wavelength less than 600 nm and any of the following: a. Output energy exceeding 50 mJ per pulse and ‘peak power’ exceeding 1 W; or b. Average or CW output power exceeding 1 W; Note: Item 1. above does not apply to dye ‘lasers’ or other liquid ‘lasers’, having a multimode output and a wavelength of 150 nm or more but not exceeding 600 nm and all of the following: 1. Output energy less than 1,5 J per pulse or a ‘peak power’ less than 20 W; and 2. Average or CW output power less than 20 W. 2. Output wavelength of 600 nm or more but not exceeding 1 400 nm, and any of the following: a. Output energy exceeding 1 J per pulse and ‘peak power’ exceeding 20 W; or b. Average or CW output power exceeding 20 W; or 3. Output wavelength exceeding 1 400 nm and any of the following: a. Output energy exceeding 50 mJ per pulse and ‘peak power’ exceeding 1 W; or b. Average or CW output power exceeding 1 W; | 6A005.c. |
+| IX.A6.015 | Other semiconductor ‘lasers’, as follows: Notes: 1. Includes semiconductor ‘lasers’ having optical output connectors (e.g., fibre-optic pigtails). 2. The status of semiconductor ‘lasers’ specially designed for other equipment is determined by the status of the other equipment. a. Individual single-transverse mode semiconductor ‘lasers’ having any of the following: 1. Wavelength equal to or less than 1 510 nm and average or CW output power, exceeding 1,5 W; or 2. Wavelength greater than 1 510 nm and average or CW output power, exceeding 500 mW; b. Individual, multiple-transverse mode semiconductor ‘lasers’ having any of the following: 1. Wavelength of less than 1 400 nm and average or CW output power, exceeding 15 W; 2. Wavelength equal to or greater than 1 400 nm and less than 1 900 nm and average or CW output power, exceeding 2,5 W; or 3. Wavelength equal to or greater than 1 900 nm and average or CW output power, exceeding 1 W; c. Individual semiconductor ‘laser’‘bars’ having any of the following: 1. Wavelength of less than 1 400 nm and average or CW output power, exceeding 100 W; 2. Wavelength equal to or greater than 1 400 nm and less than 1 900 nm and average or CW output power, exceeding 25 W; or 3. Wavelength equal to or greater than 1 900 nm and average or CW output power, exceeding 10 W; d. Semiconductor ‘laser’‘stacked arrays’ (two-dimensional arrays) having any of the following: 1. Wavelength less than 1 400 nm and having any of the following: a. Average or CW total output power less than 3 kW and having average or CW output ‘power density’ greater than 500 W/cm2; b. Average or CW total output power equal to or exceeding 3 kW but less than or equal to 5 kW, and having average or CW output ‘power density’ greater than 350W/cm2; c. Average or CW total output power exceeding 5 kW; d. Peak pulsed ‘power density’ exceeding 2 500 W/cm2; or Note: Item d. does not apply to epitaxially fabricated monolithic devices. e. Spatially coherent average or CW total output power, greater than 150 W; 2. Wavelength greater than or equal to 1 400 nm but less than 1 900 nm, and having any of the following: a. Average or CW total output power less than 250 W and average or CW output ‘power density’ greater than 150 W/cm2; b. Average or CW total output power equal to or exceeding 250 W but less than or equal to 500 W, and having average or CW output ‘power density’ greater than 50W/cm2; c. Average or CW total output power exceeding 500 W; d. Peak pulsed ‘power density’ exceeding 500 W/cm2; or Note: Item d. does not apply to epitaxially fabricated monolithic devices. e. Spatially coherent average or CW total output power, exceeding 15 W; 3. Wavelength greater than or equal to 1 900 nm and having any of the following: a. Average or CW output ‘power density’ greater than 50 W/cm2; b. Average or CW output power greater than 10 W; or c. Spatially coherent average or CW total output power, exceeding 1,5W; or 4. At least one ‘laser’‘bar’ specified above; Technical note: For the purposes of this category ‘power density’ means the total ‘laser’ output power divided by the emitter surface area of the ‘stacked array’. | 6A005.d.1 |
+| IX.A6.016 | ‘Chemical lasers’, as follows: a. Hydrogen Fluoride (HF) ‘lasers’; b. Deuterium Fluoride (DF) ‘lasers’; c. ‘Transfer lasers’, as follows: 1. Oxygen Iodine (O2-I) ‘lasers’; 2. Deuterium Fluoride-Carbon dioxide (DF-CO2) ‘lasers’; 3. ‘Non-repetitive pulsed’ Nd: glass ‘lasers’ having any of the following: a. ‘Pulse duration’ not exceeding 1 μs and output energy exceeding 50 J per pulse; or b. ‘Pulse duration’ exceeding 1 μs and output energy exceeding 100 J per pulse; | 6A005.d.5 |
+| IX.A6.017 | Components, as follows: 1. Mirrors cooled either by ‘active cooling’ or by heat pipe cooling; Technical note: ‘Active cooling’ is a cooling technique for optical components using flowing fluids within the subsurface (nominally less than 1 mm below the optical surface) of the optical component to remove heat from the optic. 2. Optical mirrors or transmissive or partially transmissive optical or electro-optical components, other than fused tapered fibre combiners and Multi-Layer Dielectric gratings (MLDs), specially designed for use with specified ‘lasers’; 3. Fibre ‘laser’ components: a. Multimode to multimode fused tapered fibre combiners having all of the following: 1. An insertion loss better (less) than or equal to 0,3 dB maintained at a rated total average or CW output power (excluding output power transmitted through the single mode core if present) exceeding 1 000 W; and 2. Number of input fibres equal to or greater than 3; b. Single-mode to multimode fused tapered fibre combiners having all of the following: 1. An insertion loss better (less) than 0,5 dB maintained at a rated total average or CW output power exceeding 4 600 W; 2. Number of input fibres equal to or greater than 3; and 3. Having any of the following: a. A Beam Parameter Product (BPP) measured at the output not exceeding 1,5 mm mrad for a number of input fibres less than or equal to 5; or b. A BPP measured at the output not exceeding 2,5 mm mrad for a number of input fibres greater than 5; c. MLDs having all of the following: 1. Designed for spectral or coherent beam combination of 5 or more fibre ‘lasers’; and 2. CW ‘Laser’ Induced Damage Threshold (LIDT) greater than or equal to 10 kW/cm2. | 6A005.e. |
+| IX.A6.018 | Gravity meters (gravimeters) and gravity gradiometers, as follows: (a) Gravity meters designed or modified for ground use and having a static ‘accuracy’ of less (better) than 10 μGal; Note: Item (a) does not apply to ground gravity meters of the quartz element (Worden) type. (b) Gravity meters designed for mobile platforms and having all of the following: 1. A static ‘accuracy’ of less (better) than 0,7 mGal; and 2. An in-service (operational) ‘accuracy’ of less (better) than 0,7 mGal having a ‘time-to-steady-state registration’ of less than 2 minutes under any combination of attendant corrective compensations and motional influences; Technical note: For the purposes of item (b), ‘time-to-steady-state registration’ (also referred to as the gravimeter's response time) is the time over which the disturbing effects of platform-induced accelerations (high-frequency noise) are reduced. (c) Gravity gradiometers. | 6A007 |
+| IX.A6.019 | 1. Radar systems, equipment and assemblies, having any of the following, and specially designed components therefor: Note: This section does not apply to: — Secondary Surveillance Radar (SSR); — Civil Automotive Radar; — Displays or monitors used for Air Traffic Control (ATC); — Meteorological (weather) Radar; — Precision Approach Radar (PAR) equipment conforming to International Civil Aviation Organization (ICAO) standards and employing electronically steerable linear (one-dimensional) arrays or mechanically positioned passive antennae. (a) Operating at frequencies from 40 GHz to 230 GHz and having any of the following: 1. An average output power exceeding 100 mW; or 2. Locating ‘accuracy’ of 1 m or less (better) in range and 0,2 degree or less (better) in azimuth; (b) A tunable bandwidth exceeding ± 6,25 % of the ‘centre operating frequency’; Technical note: The ‘centre operating frequency’ equals one half of the sum of the highest plus the lowest specified operating frequencies. (c) Capable of operating simultaneously on more than two carrier frequencies; (d) Capable of operating in synthetic aperture radar (SAR), inverse synthetic aperture radar (ISAR) or side-looking airborne radar (SLAR) mode; (e) Incorporating electronically steerable array antennae; (f) Capable of height-finding non-cooperative targets; (g) Specially designed for airborne (balloon or airframe mounted) operation and having Doppler ‘signal processing’ for the detection of moving targets; (h) Employing processing of radar signals and using any of the following: 1. ‘Radar spread spectrum’ techniques; or 2. ‘Radar frequency agility’ techniques; (i) Providing ground-based operation with a maximum ‘instrumented range’ exceeding 185 km; Note: Item (i) above does not apply to: (a) Fishing ground surveillance radar; (b) Ground radar equipment specially designed for en-route air traffic control and having all of the following: 1. A maximum ‘instrumented range’ of 500 km or less; 2. Configured so that radar target data can be transmitted only one way from the radar site to one or more civil ATC centres; 3. Contains no provisions for remote control of the radar scan rate from the en-route ATC centre; and 4. Permanently installed. (c) Weather balloon tracking radars. (j) Being ‘laser’ radar or Light Detection and Ranging (LIDAR) equipment and having any of the following: 1. ‘Space-qualified’; 2. Employing coherent heterodyne or homodyne detection techniques and having an angular resolution of less (better) than 20 μrad (microradians); or 3. Designed for carrying out airborne bathymetric littoral surveys to International Hydrographic Organization (IHO) Order 1a Standard (5th Edition, February 2008) for Hydrographic Surveys or better, and using one or more ‘lasers’ with a wavelength exceeding 400 nm but not exceeding 600 nm; Notes: 1. LIDAR equipment specially designed for surveying is only specified by 3. 2. The item above does not apply to LIDAR equipment specially designed for meteorological observation. 3. Parameters in the IHO Order 1a Standard (5th Edition, February 2008) are summarized as follows: Horizontal Accuracy (95 % confidence level) = 5 m + 5 % of depth. Depth Accuracy for Reduced Depths (95 % confidence level) = ± √(a2+ (b * d)2) where: a = 0,5 m = constant-depth error, i.e., the sum of all constant-depth errors b = 0,013 = factor of depth-dependent error b * d = depth-dependent error, i.e., the sum of all depth-dependent errors d = depth Feature Detection = Cubic features > 2 m in depths up to 40 m; 10 % of depth beyond 40 m. (k) Having ‘signal processing’ subsystems using ‘pulse compression’ and having any of the following: 1. A ‘pulse compression’ ratio exceeding 150; or 2. A compressed pulse width of less than 200 ns; or Note: Item 2. above does not apply to two-dimensional ‘marine radar’ or ‘vessel traffic service’ radar, having all of the following: (a) ‘Pulse compression’ ratio not exceeding 150; (b) Compressed pulse width of greater than 30 ns; (c) Single and rotating mechanically scanned antenna; (d) Peak output power not exceeding 250 W; and (e) Not capable of ‘frequency hopping’. (l) Having data processing subsystems and having any of the following: 1. ‘Automatic target tracking’ providing, at any antenna rotation, the predicted target position beyond the time of the next antenna beam passage; or Note: The item above does not apply to conflict alert capability in ATC systems, or ‘marine radar’. 2. Configured to provide superposition and correlation, or fusion, of target data within six seconds from two or more ‘geographically dispersed’ radar sensors to improve the aggregate performance beyond that of any single sensor specified in items (f) or (i). Note: The item above does not apply to systems, equipment and assemblies used for ‘vessel traffic services’. Technical notes: 1. For the purposes of this section, ‘marine radar’ is a radar that is used to navigate safely at sea, in inland waterways or in near-shore environments. 2. For the purposes of this section, ‘vessel traffic service’ is a vessel traffic monitoring and control service similar to air traffic control for ‘aircraft’. | 6A008 |
+| IX.A6.020 | Optical equipment, as follows: (a) Equipment for measuring absolute reflectance to an ‘accuracy’ of equal to or better than 0,1 % of the reflectance value; (b) Equipment other than optical surface scattering measurement equipment, having an unobscured aperture of more than 10 cm, specially designed for the non-contact optical measurement of a non-planar optical surface figure (profile) to an ‘accuracy’ of 2 nm or less (better) against the required profile. Note: The item above does not apply to microscopes. | 6B004 |
+| IX.A6.021 | Equipment to produce, align and calibrate land-based gravity meters with a static ‘accuracy’ of better than 0,1 mGal. | 6B007 |
+| IX.A6.022 | Pulse radar cross-section measurement systems having transmit pulse widths of 100 ns or less, and specially designed components therefor. | 6B008 |
+| IX.A6.023 | Optical sensor materials, as follows: (a) Elemental tellurium (Te) of purity levels of 99,9995 % or more; (b) Single crystals (including epitaxial wafers) of any of the following: 1. Cadmium zinc telluride (CdZnTe) with zinc content of less than 6 % by ‘mole fraction’; 2. Cadmium telluride (CdTe) of any purity level; or 3. Mercury cadmium telluride (HgCdTe) of any purity level. Technical note: ‘Mole fraction’ is defined as the ratio of moles of ZnTe to the sum of the moles of CdTe and ZnTe present in the crystal. | 6C002 |
+| IX.A6.024 | Optical materials, as follows: (a) Zinc selenide (ZnSe) and zinc sulphide (ZnS) ‘substrate blanks’, produced by the chemical vapour deposition process and having any of the following: 1. A volume greater than 100 cm3; or 2. A diameter greater than 80 mm and a thickness of 20 mm or more; (b) Electro-optic materials and non-linear optical materials, as follows: 1. Potassium titanyl arsenate (KTA) (CAS 59400-80-5); 2. Silver gallium selenide (AgGaSe2, also known as AGSE) (CAS 12002-67-4); 3. Thallium arsenic selenide (Tl3AsSe3, also known as TAS) (CAS 16142-89-5); 4. Zinc germanium phosphide (ZnGeP2, also known as ZGP, zinc germanium biphosphide or zinc germanium diphosphide); or 5. Gallium selenide (GaSe) (CAS 12024-11-2); | 6C004.a. 6C004.b. |
+| IX.A6.025 | ‘Substrate blanks’ of silicon carbide or beryllium beryllium (Be/Be) deposited materials, exceeding 300 mm in diameter or major axis length; | 6C004.d. |
+| IX.A6.026 | Glass, including fused silica, phosphate glass, fluorophosphate glass, zirconium fluoride (ZrF4) (CAS 7783-64-4) and hafnium fluoride (HfF4) (CAS 13709-52-9) and having all of the following: 1. A hydroxyl ion (OH–) concentration of less than 5 ppm; 2. Integrated metallic purity levels of less than 1 ppm; and 3. High homogeneity (index of refraction variance) less than 5 × 10– 6; (e) Synthetically produced diamond material with an absorption of less than 10– 5 cm– 1 for wavelengths exceeding 200 nm but not exceeding 14 000 nm. | 6C004.e. |
+| IX.A6.027 | ‘Laser’ materials, as follows: (a) Synthetic crystalline ‘laser’ host material in unfinished form as follows: 1. Titanium doped sapphire; (b) Rare-earth-metal doped double-clad fibres; 1. Nominal ‘laser’ wavelength of 975 nm to 1 150 nm and having all of the following: a. Average core diameter equal to or greater than 25 μm; and b. Core ‘Numerical Aperture’ (‘NA’) less than 0,065; or Note: The item above does not apply to double-clad fibres having an inner glass cladding diameter exceeding 150 μm and not exceeding 300 μm. 2. Nominal ‘laser’ wavelength exceeding 1 530 nm and having all of the following: a. Average core diameter equal to or greater than 20 μm; and b. Core ‘NA’ less than 0,1. Technical notes: 1. For the purposes of the item above, the core ‘Numerical Aperture’ (‘NA’) is measured at the emission wavelengths of the fibre. 2. Item (b) above includes fibres assembled with end caps. | 6C005 |
+
+IX.A7. NAVIGATION AND AVIONICS
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.A7.001 | ‘Star trackers’ and components therefor, as follows: (a) ‘Star trackers’ with a specified azimuth ‘accuracy’ of equal to or less (better) than 20 seconds of arc throughout the specified lifetime of the equipment; (b) Components specially designed for equipment specified in item (a), as follows: 1. Optical heads or baffles; 2. Data processing units. Technical note: ‘Star trackers’ are also referred to as stellar attitude sensors or gyro-astro compasses. | 7A004 |
+| IX.A7.002 | Global Navigation Satellite Systems (GNSS) receiving equipment having any of the following and specially designed components therefor: (a) Employing a decryption algorithm specially designed or modified for government use to access the ranging code for position and time; or (b) Employing ‘adaptive antenna systems’. Note: Item (b) does not apply to GNSS receiving equipment that only uses components designed to filter, switch or combine signals from multiple omni-directional antennae that do not implement adaptive antenna techniques. Technical note: For the purposes of item (b), ‘adaptive antenna systems’ dynamically generate one or more spatial nulls in an antenna array pattern by signal processing in the time domain or frequency domain. | 7A005 |
+| IX.A7.003 | Airborne altimeters operating at frequencies other than 4,2 to 4,4 GHz inclusive and having any of the following: (a) ‘Power management’; or (b) Using phase shift key modulation. | 7A006 |
+| IX.A7.004 | Test, calibration or alignment equipment, specially designed for equipment specified in the section above. | 7B001 |
+| IX.A7.005 | Equipment specially designed to characterize mirrors for ring ‘laser’ gyros, as follows: (a) Scatterometers having a measurement ‘accuracy’ of 10 ppm or less (better); (b) Profilometers having a measurement ‘accuracy’ of 0,5 nm (5 angstrom) or less (better). | 7B002 |
+| IX.A7.006 | Equipment specially designed for the ‘production’ of equipment specified IN IX.A7. Note: Including: — Gyro tuning test stations; — Gyro dynamic balance stations; — Gyro run-in/motor test stations; — Gyro evacuation and fill stations; — Centrifuge fixtures for gyro bearings; — Accelerometer axis align stations; — Fibre-optic gyro coil winding machines. | 7B003 |
+
+IX.A8. MARINE
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.A8.001 | Systems, equipment and components, specially designed or modified for submersible vehicles and designed to operate at depths exceeding 1 000 m, as follows: 1. Pressure housings or pressure hulls with a maximum inside chamber diameter exceeding 1,5 m; 2. Direct current propulsion motors or thrusters; 3. Umbilical cables, and connectors therefor, using optical fibre and having synthetic strength members; 4. Components manufactured from material as follows: ‘Syntactic foam’ designed for underwater use and having all of the following: a. Designed for marine depths exceeding 1 000 m; and b. A density less than 561 kg/m3; | 8A002.a. |
+| IX.A8.002 | Systems specially designed or modified for the automated control of the motion of submersible vehicles specified above, using navigation data, having closed loop servo-controls and having any of the following: 1. Enabling a vehicle to move within 10 m of a predetermined point in the water column; 2. Maintaining the position of the vehicle within 10 m of a predetermined point in the water column; or 3. Maintaining the position of the vehicle within 10 m while following a cable on or under the seabed; | 8A002.b. |
+| IX.A8.003 | Fibre-optic pressure hull penetrators; | 8A002.c. |
+| IX.A8.004 | ‘Robots’ specially designed for underwater use, controlled by using a dedicated computer and having any of the following: (a) Systems that control the ‘robot’ using information from sensors which measure force or torque applied to an external object, distance to an external object, or tactile sense between the ‘robot’ and an external object; or (b) The ability to exert a force of 250 N or more or a torque of 250 Nm or more and using titanium-based alloys or ‘composite’‘fibrous or filamentary materials’ in their structural members; | 8A002.h. |
+| IX.A8.005 | Stirling cycle engine air independent power systems having all of the following: (a) Devices or enclosures, specially designed for underwater noise reduction in frequencies below 10 kHz, or special mounting devices for shock mitigation; and (b) Specially designed exhaust systems which discharge the products of combustion against a pressure of 100 kPa or more; | 8A002.j. |
+| IX.A8.006 | Noise reduction systems designed for use on vessels of 1 000 tonnes displacement or more, as follows: (a) Systems that attenuate underwater noise at frequencies below 500 Hz and consist of compound acoustic mounts for the acoustic isolation of diesel engines, diesel generator sets, gas turbines, gas turbine generator sets, propulsion motors or propulsion reduction gears, specially designed for sound or vibration isolation and having an intermediate mass exceeding 30 % of the equipment to be mounted; (b) ‘Active noise reduction or cancellation systems’ or magnetic bearings, specially designed for power transmission systems. Technical note: ‘Active noise reduction or cancellation systems’ incorporate electronic control systems capable of actively reducing equipment vibration by the generation of anti-noise or anti-vibration signals directly to the source. | 8A002.j. |
+
+IX.A9. AEROSPACE AND PROPULSION
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.A9.001 | Aero gas turbine engines: (a) Incorporating any of the ‘technologies’ specified in paragraph 2 of the section below entitled ‘Technology’; or Note 1: This item does not apply to aero gas turbine engines which meet all of the following: (a) Certified by civil aviation authorities; and (b) Intended to power non-military manned ‘aircraft’ for which any of the following has been issued by civil aviation authorities for the ‘aircraft’ with this specific engine type: 1. A civil type certificate; or 2. An equivalent document recognized by ICAO. Note 2: This item does not apply to aero gas turbine engines designed for Auxiliary Power Units (APUs) approved by the civil aviation authority of the Member State. (b) Designed to power an ‘aircraft’ designed to cruise at Mach 1 or higher, for more than 30 minutes. | 9A001 |
+| IX.A9.002 | ‘Marine gas turbine engines’ with an ISO standard continuous power rating of 24 245 kW or more and a specific fuel consumption not exceeding 0,219 kg/kWh in the power range from 35 to 100 %, and specially designed assemblies and components therefor. Note: The term ‘marine gas turbine engines’ includes those industrial, or aero-derivative, gas turbine engines adapted for a ship's electric power generation or propulsion. | 9A002 |
+| IX.A9.003 | Specially designed assemblies or components, incorporating any of the ‘technologies’ specified in paragraph 2 of the section below entitled ‘Technology’, for any of the following aero gas turbine engines: (a) Specified in item 1 above; or (b) Whose design or production origins are unknown to the manufacturer. | 9A003 |
+| IX.A9.004 | Space launch vehicles, ‘spacecraft’, ‘spacecraft buses’, ‘spacecraft payloads’, ‘spacecraft’ on-board systems or equipment, and terrestrial equipment, as follows: (a) Space launch vehicles; (b) ‘Spacecraft’; (c) ‘Spacecraft buses’; (d) ‘Spacecraft payloads’ incorporating items specified in this list; (e) On-board systems or equipment, specially designed for ‘spacecraft’ and having any of the following functions: 1. ‘Command and telemetry data handling’; (f) Terrestrial equipment specially designed for ‘spacecraft’, as follows: 1. Telemetry and telecommand equipment; 2. Simulators. | 9A004 |
+| IX.A9.005 | Liquid rocket propulsion systems. | 9A005 |
+| IX.A9.006 | Systems and components, specially designed for liquid rocket propulsion systems, as follows: (a) Cryogenic refrigerators, flightweight dewars, cryogenic heat pipes or cryogenic systems, specially designed for use in space vehicles and capable of restricting cryogenic fluid losses to less than 30 % per year; (b) Cryogenic containers or closed-cycle refrigeration systems capable of providing temperatures of 100 K (– 173 °C) or less for ‘aircraft’ capable of sustained flight at speeds exceeding Mach 3, launch vehicles or ‘spacecraft’; (c) Slush hydrogen storage or transfer systems; (d) High-pressure (exceeding 17,5 MPa) turbo pumps, pump components or their associated gas generator or expander cycle turbine drive systems; (e) High-pressure (exceeding 10,6 MPa) thrust chambers and nozzles therefor; (f) Propellant storage systems using the principle of capillary containment or positive expulsion (i.e., with flexible bladders); (g) Liquid propellant injectors with individual orifices of 0,381 mm or smaller in diameter (an area of 1,14 × 10– 3 cm2 or smaller for non-circular orifices) and specially designed for liquid rocket engines; (h) One-piece carbon-carbon thrust chambers or one-piece carbon-carbon exit cones, with densities exceeding 1,4 g/cm3 and tensile strengths exceeding 48 MPa | 9A006 |
+| IX.A9.007 | Solid rocket propulsion systems. | 9A007 |
+| IX.A9.008 | Components specially designed for solid rocket propulsion systems, as follows: (a) Insulation and propellant bonding systems, using liners to provide a ‘strong mechanical bond’ or a barrier to chemical migration between the solid propellant and case insulation material; (b) Filament-wound ‘composite’ motor cases exceeding 0,61 m in diameter or having ‘structural efficiency ratios (PV/W)’ exceeding 25 km; Technical note: ‘Structural efficiency ratio (PV/W)’ is the burst pressure (P) multiplied by the vessel volume (V) divided by the total pressure vessel weight (W). (c) Nozzles with thrust levels exceeding 45 kN or nozzle throat erosion rates of less than 0,075 mm/s; (d) Movable nozzle or secondary fluid injection thrust vector control systems, capable of any of the following: 1. Omni-axial movement exceeding ± 5°; 2. Angular vector rotations of 20°/s or more; or 3. Angular vector accelerations of 40°/s2 or more. | 9A008 |
+| IX.A9.009 | Hybrid rocket propulsion systems. | 9A009 |
+| IX.A9.010 | Specially designed components, systems and structures, for launch vehicles, launch vehicle propulsion systems or ‘spacecraft’, as follows: (a) Components and structures, specially designed for launch vehicle propulsion systems manufactured using any of the following: 1. ‘Fibrous or filamentary materials’; 2. Metal ‘matrix’‘composite’ materials; or 3. Ceramic ‘matrix’‘composite’ materials. | 9A010 |
+| IX.A9.011 | ‘Unmanned Aerial Vehicles’ (‘UAVs’), unmanned ‘airships’, related equipment and components, as follows: (a) ‘UAVs’ or unmanned ‘airships’, designed to have controlled flight out of the direct ‘natural vision’ of the ‘operator’ and having any of the following: 1. Having all of the following: a. A maximum ‘endurance’ greater than or equal to 30 minutes but less than 1 hour; and b. Designed to take off and have stable controlled flight in wind gusts equal to or exceeding 46,3 km/h (25 knots); or 2. A maximum ‘endurance’ of 1 hour or greater; Technical notes: 1. For the purposes of the item above, ‘operator’ is a person who initiates or commands the ‘UAV’ or unmanned ‘airship’ flight. 2. For the purposes of the item above, ‘endurance’ is to be calculated for International Standard Atmosphere (ISA) conditions (ISO 2533:1975) at sea level in zero wind. 3. For the purposes of the item above, ‘natural vision’ means unaided human sight, with or without corrective lenses. (b) Related equipment and components, as follows: 1. Equipment or components, specially designed to convert a manned ‘aircraft’ or a manned ‘airship’ to a ‘UAV’ or unmanned ‘airship’, specified in item (a) above; 2. Air breathing reciprocating or rotary internal combustion type engines, specially designed or modified to propel ‘UAVs’ or unmanned ‘airships’, at altitudes above 15 240 metres (50 000 feet). | 9A012 |
+| IX.A9.012 | On-line (real-time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment specially designed for the ‘development’ of gas turbine engines, assemblies or components and incorporating any of the ‘technologies’ specified in paragraph 2 (b) or 2 (c) of the section below entitled ‘Technology’. | 9B002 |
+| IX.A9.013 | Equipment specially designed for the ‘production’ or test of gas turbine brush seals designed to operate at tip speeds exceeding 335 m/s and temperatures in excess of 773 K (500 °C), and specially designed components or accessories therefor. | 9B003 |
+| IX.A9.014 | Tools, dies or fixtures, for the solid-state joining of ‘superalloy’, titanium or intermetallic airfoil-to-disk combinations described in paragraph 2 of the section below entitled ‘Technology’ for gas turbines. | 9B004 |
+| IX.A9.015 | On-line (real-time) control systems, instrumentation (including sensors) or automated data acquisition and processing equipment, specially designed for use in wind tunnels designed for speeds of Mach 1,2 or more. | 9B005 |
+| IX.A9.016 | Acoustic vibration test equipment capable of producing sound pressure levels of 160 dB or more (referenced to 20 Pa) with a rated output of 4 kW or more at a test cell temperature exceeding 1 273 K (1 000 °C), and specially designed quartz heaters therefor. | 9B006 |
+| IX.A9.017 | Equipment specially designed for inspecting the integrity of rocket motors and using Non-Destructive Test (NDT) techniques other than planar X-ray or basic physical or chemical analysis. | 9B007 |
+| IX.A9.018 | Direct measurement wall skin friction transducers specially designed to operate at a test flow total (stagnation) temperature exceeding 833 K (560 °C). | 9B008 |
+| IX.A9.019 | Tooling specially designed for producing gas turbine engine powder metallurgy rotor components having all of the following: (a) Designed to operate at stress levels of 60 % of ultimate tensile strength (UTS) or more measured at a temperature of 873 K (600 °C); and (b) Designed to operate at 873 K (600 °C) or more. Note: The item above does not specify tooling for the production of powder. | 9B008 |
+| IX.A9.020 | Equipment specially designed for the production of items specified by ‘Unmanned Aerial Vehicles’ (‘UAVs’), unmanned ‘airships’ and components. | 9B010 |
+
+**B. SOFTWARE**
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.B.001 | ‘Software’ specially designed or modified for the ‘development’, ‘production’ or ‘use’ of equipment specified in IX.A1. | 1D001 1D002 1D003 |
+| IX.B.002 | ‘Software’ for the ‘development’ of material specified in IX.A1. | 1D001 1D002 1D003 |
+| IX.B.003 | ‘Software’ specially designed or modified to enable non-listed equipment to perform the functions of any equipment specified in IX.A1. | 1D001 1D002 1D003 |
+| IX.B.004 | ‘Software’ specially designed or modified for the ‘development’, ‘production’ or ‘use’ of equipment specified in IX.A2 | 2D001 |
+| IX.B.005 | ‘Software’ specially designed or modified to allow non-listed equipment to function as equipment specified IX.A2 | 2D003 2D101 2D202 |
+| IX.B.006 | ‘Software’ specially designed for the ‘development’, ‘production’ or ‘use’ of equipment specified in IX.A3. | 3D001 3D002 3D003 |
+| IX.B.007 | ‘Software’ specially designed or modified to allow non-listed equipment to function as equipment specified in IX.A3 | 3D001 3D002 3D003 |
+| IX.B.008 | ‘Software’ specially designed for the ‘development’, ‘production’ or ‘use’ of equipment specified in IX.A6. | 6D001 6D003 6D002 6D102 6D203 6D203 |
+| IX.B.009 | ‘Software’ specially designed or modified to allow non-listed equipment to function as equipment specified in IX.A6. | 6D001 6D003 6D002 6D102 6D203 6D203 |
+| IX.B.010 | ‘Software’ specially designed or modified for the ‘development’, ‘production’ or ‘use’ of equipment specified in IX.A7. | 7D001 7D002 7D003 7D004 7D005 7D102 7D103 7D104 |
+| IX.B.011 | ‘Software’ specially designed or modified to allow non-listed equipment to function as equipment specified IX.A7. | 7D001 7D002 7D003 7D004 7D005 7D102 7D103 7D104 |
+| IX.B.012 | ‘Source code’ for the operation or maintenance of equipment specified IX.A7. | 7D001 7D002 7D003 7D004 7D005 7D102 7D103 7D104 |
+| IX.B.013 | Computer-Aided Design (CAD) ‘software’ specially designed for the ‘development’ of ‘active flight control systems’, helicopter multi-axis fly-by-wire or fly-by-light controllers or helicopter ‘circulation controlled anti-torque or circulation-controlled direction control systems’. | 7D001 7D002 7D003 7D004 7D005 7D102 7D103 7D104 |
+| IX.B.014 | ‘Software’ specially designed or9modified for the ‘development’, ‘production’ or ‘use’ of equipment. Specified in IX.A9. | 9D001 9D002 9D003 9D004 9D005 9D101 9D103 9D104 9D105 |
+| IX.B.015 | ‘Software’ specially designed or modified to allow non-listed equipment to function as equipment specified in IX.A9. | 9D001 9D002 9D003 9D004 9D005 9D101 9D103 9D104 9D105 |
+
+**C. TECHNOLOGY**
+
+| No | Description | Related item from Annex I to Regulation (EC) No 428/2009 |
+| --- | --- | --- |
+| IX.C.001 | ‘Technology’ for the ‘development’, ‘production’ or ‘use’ of equipment or ‘software’ specified in IX.A1. | 2E001 |
+| IX.C.002 | ‘Technology’ for the ‘development’, ‘production’ or ‘use’ of equipment or materials specified in IX.A3 | 3E001 3E003 3E101 3E102 3E201 |
+| IX.C.003 | ‘Technology’ for the ‘development’, ‘production’ and ‘use’ of equipment or ‘software’, specified in IX.A7. | 7E001 7E002 7E003 7E004 7D005 7E101 7E102 7E104 |
+| IX.C.004 | ‘Technology’ for the ‘development’, ‘production’ or ‘use’ of equipment or software, specified in IX.A9. | 9E001 9E002 |
+| IX.C.005 | Other ‘technology’, as follows: (a) ‘Technology’‘required’ for the ‘development’ or ‘production’ of any of the following gas turbine engine components or systems: 1. Gas turbine blades, vanes or ‘tip shrouds’, made from directionally solidified (DS) or single crystal (SC) alloys and having (in the 001 Miller Index Direction) a stress-rupture life exceeding 400 hours at 1 273 K (1 000 °C) at a stress of 200 MPa, based on the average property values; 2. Combustors having any of the following: a. ‘Thermally decoupled liners’ designed to operate at ‘combustor exit temperature’ exceeding 1 883 K (1 610 °C); b. Non-metallic liners; c. Non-metallic shells; or d. Liners designed to operate at ‘combustor exit temperature’ exceeding 1 883 K (1 610 °C) and having holes that meet the parameters specified by 9E003.c.; 3. Components that are any of the following: a. Manufactured from organic ‘composite’ materials designed to operate above 588 K (315 °C); b. Manufactured from any of the following: 1. Metal ‘matrix’‘composites’; or 2. Ceramic ‘matrix’‘composites’; or c. Stators, vanes, blades, tip seals (shrouds), rotating blings, rotating blisks, or ‘splitter ducts’, that are all of the following: 1. Not specified above; 2. Designed for compressors or fans; and 3. Manufactured from material ‘fibrous or filamentary materials’ with resins; 4. Uncooled turbine blades, vanes or ‘tip-shrouds’, designed to operate at a ‘gas path temperature’ of 1 373 K (1 100 °C) or more; 5. Cooled turbine blades, vanes, ‘tip-shrouds’, designed to operate at a ‘gas path temperature’ of 1 693 K (1 420 °C) or more; 6. Airfoil-to-disk blade combinations using solid-state joining; 7. Gas turbine engine components using ‘diffusion bonding’‘technology’; 8. ‘Damage tolerant’ gas turbine engine rotor components using powder metallurgy materials; 9. Hollow fan blades. | 9E003.a. |
+| IX.C.006 | ‘Technology’ for gas turbine engine ‘Full Authority Digital Engine Control (FADEC) systems’, as follows: 1. ‘Development’‘technology’ for deriving the functional requirements for the components necessary for the ‘FADEC system’ to regulate engine thrust or shaft power (e.g., feedback sensor time constants and accuracies, fuel valve slew rate); 2. ‘Development’ or ‘production’‘technology’ for control and diagnostic components unique to the ‘FADEC system’ and used to regulate engine thrust or shaft power; 3. ‘Development’‘technology’ for the control law algorithms, including ‘source code’, unique to the ‘FADEC system’ and used to regulate engine thrust or shaft power; Note: Item (b) above does not apply to technical data related to engine-‘aircraft’ integration required by civil aviation authorities of one or more Member States to be published for general airline use (e.g., installation manuals, operating instructions, instructions for continued airworthiness) or interface functions (e.g., input/output processing, airframe thrust or shaft power demand). | 9E003.h. |
+| IX.C.007 | ‘Technology’ for adjustable flow path systems designed to maintain engine stability for gas generator turbines, fan or power turbines, or propelling nozzles, as follows: 1. ‘Development’‘technology’ for deriving the functional requirements for the components that maintain engine stability; 2. ‘Development’ or ‘production’‘technology’ for components unique to the adjustable flow path system and that maintain engine stability; 3. ‘Development’‘technology’ for the control law algorithms, including ‘source code’, unique to the adjustable flow path system and that maintain engine stability | 9E003.i |
+
+## ANNEX III
+
+**Aviation fuel referred to in point (b) of Article 3(1)**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| Code | Description |
+| --- | --- |
+| From 2710 12 31 till 2710 12 59 | Gasoline |
+| 2710 12 70 | Naptha-type jet fuel |
+| 2710 19 21 | Kerosene-type jet fuel |
+| 2710 19 25 | Kerosene-type rocket fuel |
+
+## ANNEX IV
+
+**Gold, titanium ore, vanadium ore and rare earth minerals referred to in point (d) of Article 3(1)**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+Code Description
+
+ex 2530 90 00 Ores of the rare earth metals
+
+ex 26 12 Monazites and other ores used solely or principally for the extraction of uranium or thorium
+
+ex 2614 00 00 Titanium ore
+
+ex 2615 90 00 Vanadium ore
+
+2616 90 00 10 Gold ores and concentrates
+
+## ANNEX V
+
+**Coal, iron and iron ore as referred to in point (e) of Article 3(1)**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+<table>
+<tbody><tr><td>Code</td><td>Description</td></tr>
+<tr><td>ex 26 01 </td><td>Iron ore</td></tr>
+<tr><td>2701 </td><td>Coal; briquettes, ovoids and similar solid fuels manufactured from coal</td></tr>
+<tr><td>2702 </td><td>Lignite, whether or not agglomerated, excluding jet</td></tr>
+<tr><td>2703 </td><td>Peat (including peat litter), whether or not agglomerated</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2704 </td><td>Coke and semi-coke of coal, of lignite or of peat, whether or not agglomerated; retort carbon</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>7201 </td><td>Pig iron and spiegeleisen in pigs, blocks or other primary forms</td></tr>
+<tr><td>7202 </td><td>Ferro-alloys</td></tr>
+<tr><td>7203 </td><td>Ferrous products obtained by direct reduction of iron ore and other spongy ferrous products, in lumps, pellets or similar forms; iron having a minimum purity by weight of 99,94 %, in lumps, pellets or similar forms</td></tr>
+<tr><td>7204 10 00 </td><td>Waste and scrap of cast iron</td></tr>
+<tr><td>ex 7204 30 00 </td><td>Waste and scrap of tinned iron or steel</td></tr>
+<tr><td>ex 7204 41 </td><td>Other waste and scrap: Turnings, shavings, chips, milling waste, sawdust, filings, trimmings and stampings, whether or not in bundles</td></tr>
+<tr><td>ex 7204 49 </td><td>Other waste and scrap: Other</td></tr>
+<tr><td>ex 7204 50 00 </td><td>Other waste and scrap: Remelting scrap ingot</td></tr>
+<tr><td>ex 7205 10 00 </td><td>Granules</td></tr>
+<tr><td>ex 7205 29 00 </td><td>Powders, other than of alloy steel</td></tr>
+<tr><td>ex 7206 10 00 </td><td>Ingots</td></tr>
+<tr><td>ex 7206 90 00 </td><td>Other</td></tr>
+<tr><td>ex 72 07 </td><td>Semi-finished products of iron or non-alloy steel</td></tr>
+<tr><td>ex 72 08 </td><td>Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, hot-rolled, not clad, plated or coated</td></tr>
+<tr><td>ex 72 09 </td><td>Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, cold-rolled (cold-reduced), not clad, plated or coated</td></tr>
+<tr><td>ex 72 10 </td><td>Flat-rolled products of iron or non-alloy steel, of a width of 600 mm or more, clad, plated or coated</td></tr>
+<tr><td>ex 72 11 </td><td>Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, not clad, plated or coated</td></tr>
+<tr><td>ex 72 12 </td><td>Flat-rolled products of iron or non-alloy steel, of a width of less than 600 mm, clad, plated or coated</td></tr>
+<tr><td>ex 72 14 </td><td>Other bars and rods of iron or non-alloy steel, not further worked than forged, hot-rolled, hot-drawn or hot-extruded, but including those twisted after rolling</td></tr>
+<tr><td>ex 72 15 </td><td>Other bars and rods of iron or non-alloy steel</td></tr>
+<tr><td>ex 72 16 </td><td>Angles, shapes and sections of iron or non-alloy steel</td></tr>
+<tr><td>ex 72 17 </td><td>Wire of iron or non-alloy steel</td></tr>
+</tbody>
+</table>
+
+## ANNEX VI
+
+**Petroleum products referred to in point (f) of Article 3(1)**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  | 2707 | Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents |
+| --- | --- | --- |
+|  | 2709 | Petroleum oils and oils obtained from bituminous minerals, crude |
+|  | 2710 | Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils |
+|  | 2711 | Petroleum gases and other gaseous hydrocarbons |
+|  | 2712 10 | Petroleum jelly |
+|  | 2712 20 | Paraffin wax containing by weight less than 0,75 % of oil |
+| Ex | 2712 90 | Other |
+|  | 2713 | Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals |
+| Ex | 2714 | Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks |
+| Ex | 2715 | Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs) |
+|  |  | – Preparations containing petroleum oils or oils obtained from bituminous minerals |
+|  | 3403 11 | – – Preparations for the treatment of textile materials, leather, furskins or other materials |
+|  | 3403 19 | – – Other |
+|  |  | – Other |
+| Ex | 3403 91 | – – Preparations for the treatment of textile materials, leather, furskins or other materials |
+| Ex | 3403 99 | – – Other |
+|  |  | – – – – – Chemical products or preparations, predominantly composed of organic compounds, not elsewhere specified or included |
+| Ex | 3824 99 92 | – – – – – – In the form of a liquid at 20 °C |
+| Ex | 3824 99 93 | – – – – – – Other |
+| Ex | 3824 99 96 | – – – – – Other |
+|  | 3826 00 10 | – Fatty-acid mono-alkyl esters, containing by volume 96,5 % or more of esters (FAMAE) |
+|  | 3826 00 90 | – Other |
+
+## ANNEX VII
+
+**Copper, nickel, silver and zinc referred to in point (g) of Article 3(1)**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+**Copper**
+
+|  | 2603 | Copper ores and concentrates |
+| --- | --- | --- |
+|  | 74 | Copper and articles thereof |
+|  | 8536 90 95 30 | Rivet contacts – of copper – plated with silver nickel alloy AgNi10 or with silver containing by weight 11,2 % (± 1,0 %) of tin oxide and of indium oxide taken together – with a thickness of the plating of 0,3 mm (– 0/+ 0,015mm) |
+| ex | 8538 90 99 | Copper parts suitable for use solely or principally with the apparatus of heading 8535 , 8536 or 8537 |
+|  | 8544 11 | Winding wire of copper |
+|  |  | – Other copper electric conductors, for a voltage not exceeding 1 000 V: |
+| ex | 8544 42 | – – Fitted with connectors |
+| ex | 8544 49 | – – Other |
+|  |  | – Other electric conductors, for a voltage exceeding 1 000 V: |
+|  | 8544 60 10 | – – With copper conductors |
+
+**Nickel**
+
+|  | 2604 | Nickel ores and concentrates |
+| --- | --- | --- |
+|  |  | Ferro-alloys: |
+|  | 7202 60 | – Ferro-nickel |
+|  |  | Wire of stainless steel: |
+|  | 7223 00 11 | – – Containing by weight 28 % or more but not more than 31 % of nickel and 20 % or more but not more than 22 % of chromium |
+|  | 75 | Nickel and articles thereof |
+|  | 8105 90 00 10 | Bars or wires made of cobalt alloy containing, by weight: — 35 % (± 2 %) cobalt, — 25 % (± 1 %) nickel, — 19 % (± 1 %) chromium and — 7 % (± 2 %) iron conforming to the material specifications AMS 5842, of a kind used in the aerospace industry |
+
+**Silver**
+
+|  | 2616 10 | Silver ores and concentrates |
+| --- | --- | --- |
+
+**Zinc**
+
+|  | 2608 | Zinc ores and concentrates |
+| --- | --- | --- |
+|  | 79 | Zinc and articles thereof |
+
+## ANNEX VIII
+
+**Luxury goods referred to in Article 10**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+**(1) Horses**
+
+|  | 0101 21 00 | Pure-bred breeding animals |
+| --- | --- | --- |
+| ex | 0101 29 90 | Other |
+
+**(2) Caviar and caviar substitutes**
+
+|  | 1604 31 00 | Caviar |
+| --- | --- | --- |
+|  | 1604 32 00 | Caviar substitutes |
+
+**(3) Truffles and preparations thereof**
+
+|  | 0709 59 50 | Truffles |
+| --- | --- | --- |
+| ex | 0710 80 69 | Other |
+| ex | 0711 59 00 | Other |
+| ex | 0712 39 00 | Other |
+| ex | 2001 90 97 | Other |
+|  | 2003 90 10 | Truffles |
+| ex | 2103 90 90 | Other |
+| ex | 2104 10 00 | Soups and broths and preparations therefor |
+| ex | 2104 20 00 | Homogenised composite food preparations |
+| ex | 2106 00 00 | Food preparations not elsewhere specified or included |
+
+**(4) Wines (including sparkling wines), beers, spirits and spirituous beverages**
+
+|  | 2203 00 00 | Beer made from malt |
+| --- | --- | --- |
+|  | 2204 10 11 | Champagne |
+|  | 2204 10 91 | Asti spumante |
+|  | 2204 10 93 | Other |
+|  | 2204 10 94 | With a protected geographical indication (PGI) |
+|  | 2204 10 96 | Other varietal wines |
+|  | 2204 10 98 | Other |
+|  | 2204 21 00 | In containers holding 2 litres or less |
+|  | 2204 29 00 | Other |
+|  | 2205 00 00 | Vermouth and other wine of fresh grapes flavoured with plants or aromatic substances |
+|  | 2206 00 00 | Other fermented beverages (for example, cider, perry, mead, saké); mixtures of fermented beverages and mixtures of fermented beverages with non-alcoholic beverages, not elsewhere specified or included |
+|  | 2207 10 00 | Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol or higher |
+|  | 2208 00 00 | Undenatured ethyl alcohol of an alcoholic strength by volume of less than 80 % vol; spirits, liqueurs and other spirituous beverages |
+
+**(5) Cigars and cigarillos**
+
+|  | 2402 10 00 | Cigars, cheroots and cigarillos, containing tobacco |
+| --- | --- | --- |
+|  | 2402 90 00 | Other |
+
+**(6) Perfumes, toilet waters and cosmetics, including beauty and make-up products**
+
+|  | 3303 | Perfumes and toilet waters |
+| --- | --- | --- |
+|  | 3304 00 00 | Beauty or make-up preparations and preparations for the care of the skin (other than medicaments), including sunscreen or suntan preparations; manicure or pedicure preparations |
+|  | 3305 00 00 | Preparations for use on the hair |
+|  | 3307 00 00 | Pre-shave, shaving or aftershave preparations, personal deodorants, bath preparations, depilatories and other perfumery, cosmetic or toilet preparations, not elsewhere specified or included; prepared room deodorisers, whether or not perfumed or having disinfectant properties |
+|  | 6704 00 00 | Wigs, false beards, eyebrows and eyelashes, switches and the like, of human or animal hair or of textile materials; articles of human hair not elsewhere specified or included |
+
+**(7) Leather, saddlery and travel goods, handbags and similar articles of a value exceeding EUR 50 each**
+
+| ex | 4201 00 00 | Saddlery and harness for any animal (including traces, leads, knee pads, muzzles, saddle-cloths, saddlebags, dog coats and the like), of any material |
+| --- | --- | --- |
+| ex | 4202 00 00 | Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels, spectacle cases, binocular cases, camera cases, musical instrument cases, gun cases, holsters and similar containers; travelling-bags, insulated food or beverages bags, toilet bags, rucksacks, handbags, shopping-bags, wallets, purses, map-cases, cigarette-cases, tobacco-pouches, tool bags, sports bags, bottle-cases, jewellery boxes, powder boxes, cutlery cases and similar containers, of leather or of composition leather, of sheeting of plastics, of textile materials, of vulcanised fibre or of paperboard, or wholly or mainly covered with such materials or with paper |
+| ex | 4205 00 90 | Other |
+| ex | 9605 00 00 | Travel sets for personal toilet, sewing or shoe or clothes cleaning |
+
+**(8) Coats of a value exceeding EUR 75 each, or other garments, clothing accessories and shoes (regardless of their material) of a value exceeding EUR 20 each**
+
+| ex | 4203 00 00 | Articles of apparel and clothing accessories, of leather or of composition leather |
+| --- | --- | --- |
+| ex | 4303 00 00 | Articles of apparel, clothing accessories and other articles of furskin |
+| ex | 6101 00 00 | Men's or boys' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, knitted or crocheted, other than those of heading 6103 |
+| ex | 6102 00 00 | Women's or girls' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, knitted or crocheted, other than those of heading 6104 |
+| ex | 6103 00 00 | Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted |
+| ex | 6104 00 00 | Women's or girls' suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear), knitted or crocheted |
+| ex | 6105 00 00 | Men's or boys' shirts, knitted or crocheted |
+| ex | 6106 00 00 | Women's or girls' blouses, shirts and shirt-blouses, knitted or crocheted |
+| ex | 6107 00 00 | Men's or boys' underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles, knitted or crocheted |
+| ex | 6108 00 00 | Women's or girls' slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns and similar articles, knitted or crocheted |
+| ex | 6109 00 00 | T-shirts, singlets and other vests, knitted or crocheted |
+| ex | 6110 00 00 | Jerseys, pullovers, cardigans, waistcoats and similar articles, knitted or crocheted |
+| ex | 6111 00 00 | Babies' garments and clothing accessories, knitted or crocheted |
+| ex | 6112 11 00 | Of cotton |
+| ex | 6112 12 00 | Of synthetic fibres |
+| ex | 6112 19 00 | Of other textile materials |
+|  | 6112 20 00 | Ski suits |
+|  | 6112 31 00 | Of synthetic fibres |
+|  | 6112 39 00 | Of other textile materials |
+|  | 6112 41 00 | Of synthetic fibres |
+|  | 6112 49 00 | Of other textile materials |
+| ex | 6113 00 10 | Of knitted or crocheted fabrics of heading 5906 |
+| ex | 6113 00 90 | Other |
+| ex | 6114 00 00 | Other garments, knitted or crocheted |
+| ex | 6115 00 00 | Pantyhose, tights, stockings, socks and other hosiery, including graduated compression hosiery (for example, stockings for varicose veins) and footwear without applied soles, knitted or crocheted |
+| ex | 6116 00 00 | Gloves, mittens and mitts, knitted or crocheted |
+| ex | 6117 00 00 | Other made-up clothing accessories, knitted or crocheted; knitted or crocheted parts of garments or of clothing accessories |
+| ex | 6201 00 00 | Men's or boys' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, other than those of heading 6203 |
+| ex | 6202 00 00 | Women's or girls' overcoats, car coats, capes, cloaks, anoraks (including ski jackets), windcheaters, wind-jackets and similar articles, other than those of heading 6204 |
+| ex | 6203 00 00 | Men's or boys' suits, ensembles, jackets, blazers, trousers, bib and brace overalls, breeches and shorts (other than swimwear) |
+| ex | 6204 00 00 | Women's or girls. suits, ensembles, jackets, blazers, dresses, skirts, divided skirts, trousers, bib and brace overalls, breeches and shorts (other than swimwear) |
+| ex | 6205 00 00 | Men's or boys' shirts |
+| ex | 6206 00 00 | Women's or girls' blouses, shirts and shirt-blouses |
+| ex | 6207 00 00 | Men's or boys' singlets and other vests, underpants, briefs, nightshirts, pyjamas, bathrobes, dressing gowns and similar articles |
+| ex | 6208 00 00 | Women's or girls' singlets and other vests, slips, petticoats, briefs, panties, nightdresses, pyjamas, négligés, bathrobes, dressing gowns and similar articles |
+| ex | 6209 00 00 | Babies' garments and clothing accessories |
+| ex | 6210 10 00 | Of fabrics of heading 5602 or 5603 |
+| ex | 6210 20 00 | Other garments, of the type described in subheadings 6201 11 to 6201 19 |
+| ex | 6210 30 00 | Other garments, of the type described in subheadings 6202 11 to 6202 19 |
+| ex | 6210 40 00 | Other men's or boys' garments |
+| ex | 6210 50 00 | Other women's or girls' garments |
+|  | 6211 11 00 | Men's or boys' |
+|  | 6211 12 00 | Women's or girls' |
+|  | 6211 20 00 | Ski suits |
+| ex | 6211 32 00 | Of cotton |
+| ex | 6211 33 00 | Of man-made fibres |
+| ex | 6211 39 00 | Of other textile materials |
+| ex | 6211 42 00 | Of cotton |
+| ex | 6211 43 00 | Of man-made fibres |
+| ex | 6211 49 00 | Of other textile materials |
+| ex | 6212 00 00 | Brassières, girdles, corsets, braces, suspenders, garters and similar articles and parts thereof, whether or not knitted or crocheted |
+| ex | 6213 00 00 | Handkerchiefs |
+| ex | 6214 00 00 | Shawls, scarves, mufflers, mantillas, veils and the like |
+| ex | 6215 00 00 | Ties, bow ties and cravats |
+| ex | 6216 00 00 | Gloves, mittens and mitts |
+| ex | 6217 00 00 | Other made-up clothing accessories; parts of garments or of clothing accessories, other than those of heading 6212 |
+| ex | 6401 00 00 | Waterproof footwear with outer soles and uppers of rubber or of plastics, the uppers of which are neither fixed to the sole nor assembled by stitching, riveting, nailing, screwing, plugging or similar processes |
+| ex | 6402 20 00 | Footwear with upper straps or thongs assembled to the sole by means of plugs |
+| ex | 6402 91 00 | Covering the ankle |
+| ex | 6402 99 00 | Other |
+| ex | 6403 19 00 | Other |
+| ex | 6403 20 00 | Footwear with outer soles of leather, and uppers which consist of leather straps across the instep and around the big toe |
+| ex | 6403 40 00 | Other footwear, incorporating a protective metal toecap |
+| ex | 6403 51 00 | Covering the ankle |
+| ex | 6403 59 00 | Other |
+| ex | 6403 91 00 | Covering the ankle |
+| ex | 6403 99 00 | Other |
+| ex | 6404 19 10 | Slippers and other indoor footwear |
+| ex | 6404 20 00 | Footwear with outer soles of leather or composition leather |
+| ex | 6405 00 00 | Other footwear |
+| ex | 6504 00 00 | Hats and other headgear, plaited or made by assembling strips of any material, whether or not lined or trimmed |
+| ex | 6505 00 10 | Of fur felt or of felt of wool and fur, made from the hat bodies, hoods or plateaux of heading 6501 00 00 |
+| ex | 6505 00 30 | Peaked caps |
+| ex | 6505 00 90 | Other |
+| ex | 6506 99 00 | Of other materials |
+| ex | 6601 91 00 | Having a telescopic shaft |
+| ex | 6601 99 00 | Other |
+| ex | 6602 00 00 | Walking sticks, seat-sticks, whips, riding-crops and the like |
+| ex | 9619 00 81 | Napkins and napkin liners for babies |
+
+**(9) Carpets, rugs and tapestries, hand-made or not**
+
+|  | 5701 00 00 | Carpets and other textile floor coverings, knotted, whether or not made up |
+| --- | --- | --- |
+|  | 5702 10 00 | ‘Kelem’, ‘Schumacks’, ‘Karamanie’ and similar hand-woven rugs |
+|  | 5702 20 00 | Floor coverings of coconut fibres (coir) |
+|  | 5702 31 80 | Other |
+|  | 5702 32 00 | Of man-made textile materials |
+|  | 5702 39 00 | Of other textile materials |
+|  | 5702 41 90 | Other |
+|  | 5702 42 00 | Of man-made textile materials |
+|  | 5702 50 00 | Other, not of pile construction, not made up |
+|  | 5702 91 00 | Of wool or fine animal hair |
+|  | 5702 92 00 | Of man-made textile materials |
+|  | 5702 99 00 | Of other textile materials |
+|  | 5703 00 00 | Carpets and other textile floor coverings, tufted, whether or not made up |
+|  | 5704 00 00 | Carpets and other textile floor coverings, of felt, not tufted or flocked, whether or not made up |
+|  | 5705 00 00 | Other carpets and other textile floor coverings, whether or not made up |
+|  | 5805 00 00 | Hand-woven tapestries of the type Gobelins, Flanders, Aubusson, Beauvais and the like, and needle-worked tapestries (for example, petit point, cross stitch), whether or not made up |
+
+**(10) Pearls, precious and semi-precious stones, articles of pearls, jewellery, gold- or silversmith articles**
+
+|  | 7101 00 00 | Pearls, natural or cultured, whether or not worked or graded but not strung, mounted or set; pearls, natural or cultured, temporarily strung for convenience of transport |
+| --- | --- | --- |
+|  | 7102 00 00 | Diamonds, whether or not worked, but not mounted or set |
+|  | 7103 00 00 | Precious stones (other than diamonds) and semi-precious stones, whether or not worked or graded but not strung, mounted or set; ungraded precious stones (other than diamonds) and semi-precious stones, temporarily strung for convenience of transport |
+|  | 7104 20 00 | Other, unworked or simply sawn or roughly shaped |
+|  | 7104 90 00 | Other |
+|  | 7105 00 00 | Dust and powder of natural or synthetic precious or semi-precious stones |
+|  | 7106 00 00 | Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form |
+|  | 7107 00 00 | Base metals clad with silver, not further worked than semi-manufactured |
+|  | 7108 00 00 | Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form |
+|  | 7109 00 00 | Base metals or silver, clad with gold, not further worked than semi-manufactured |
+|  | 7110 11 00 | Unwrought or in powder form |
+|  | 7110 19 00 | Other |
+|  | 7110 21 00 | Unwrought or in powder form |
+|  | 7110 29 00 | Other |
+|  | 7110 31 00 | Unwrought or in powder form |
+|  | 7110 39 00 | Other |
+|  | 7110 41 00 | Unwrought or in powder form |
+|  | 7110 49 00 | Other |
+|  | 7111 00 00 | Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured |
+|  | 7113 00 00 | Articles of jewellery and parts thereof, of precious metal or of metal clad with precious metal |
+|  | 7114 00 00 | Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal |
+|  | 7115 00 00 | Other articles of precious metal or of metal clad with precious metal |
+|  | 7116 00 00 | Articles of natural or cultured pearls, precious or semi-precious stones (natural, synthetic or reconstructed) |
+
+**(11) Coins and banknotes, not being legal tender**
+
+| ex | 4907 00 30 | Banknotes |
+| --- | --- | --- |
+|  | 7118 10 00 | Coin (other than gold coin), not being legal tender |
+| ex | 7118 90 00 | Other |
+
+**(12) Cutlery of precious metal or plated or clad with precious metal**
+
+|  | 7114 00 00 | Articles of goldsmiths' or silversmiths' wares and parts thereof, of precious metal or of metal clad with precious metal |
+| --- | --- | --- |
+|  | 7115 00 00 | Other articles of precious metal or of metal clad with precious metal |
+| ex | 8214 00 00 | Other articles of cutlery (for example, hair clippers, butchers' or kitchen cleavers, choppers and mincing knives, paperknives); manicure or pedicure sets and instruments (including nail files) |
+| ex | 8215 00 00 | Spoons, forks, ladles, skimmers, cake-servers, fish-knives, butter-knives, sugar tongs and similar kitchen or tableware |
+| ex | 9307 00 00 | Swords, cutlasses, bayonets, lances and similar arms and parts thereof and scabbards and sheaths therefor |
+
+**(13) Tableware of porcelain, china, stone- or earthenware or fine pottery**
+
+|  | 6911 00 00 | Tableware, kitchenware, other household articles and toilet articles, of porcelain or china |
+| --- | --- | --- |
+|  | 6912 00 23 | Stoneware |
+|  | 6912 00 25 | Earthenware or fine pottery |
+|  | 6912 00 83 | Stoneware |
+|  | 6912 00 85 | Earthenware or fine pottery |
+|  | 6914 10 00 | Of porcelain or china |
+|  | 6914 90 00 | Other |
+
+**(14) Items of lead crystal**
+
+| ex | 7009 91 00 | Unframed |
+| --- | --- | --- |
+| ex | 7009 92 00 | Framed |
+| ex | 7010 00 00 | Carboys, bottles, flasks, jars, pots, phials, ampoules and other containers, of glass, of a kind used for the conveyance or packing of goods; preserving jars of glass; stoppers, lids and other closures, of glass |
+|  | 7013 22 00 | Of lead crystal |
+|  | 7013 33 00 | Of lead crystal |
+|  | 7013 41 00 | Of lead crystal |
+|  | 7013 91 00 | Of lead crystal |
+| ex | 7018 10 00 | Glass beads, imitation pearls, imitation precious or semi-precious stones and similar glass smallwares |
+| ex | 7018 90 00 | Other |
+| ex | 7020 00 80 | Other |
+| ex | 9405 10 50 | Of glass |
+| ex | 9405 20 50 | Of glass |
+| ex | 9405 50 00 | Non-electrical lamps and lighting fittings |
+| ex | 9405 91 00 | Of glass |
+
+**(15) Electronic items for domestic use of a value exceeding EUR 50 each**
+
+| ex | 8414 51 | Table, floor, wall, window, ceiling or roof fans, with a self-contained electric motor of an output not exceeding 125 W |
+| --- | --- | --- |
+| ex | 8414 59 00 | Other |
+| ex | 8414 60 00 | Hoods having a maximum horizontal side not exceeding 120 cm |
+| ex | 8415 10 00 | Window or wall types, self-contained or ‘split-system’ |
+| ex | 8418 10 00 | Combined refrigerator-freezers, fitted with separate external doors |
+| ex | 8418 21 00 | Compression-type |
+| ex | 8418 29 00 | Other |
+| ex | 8418 30 00 | Freezers of the chest type, not exceeding 800 litres capacity |
+| ex | 8418 40 00 | Freezers of the upright type, not exceeding 900 litres capacity |
+| ex | 8419 81 00 | For making hot drinks or for cooking or heating food |
+| ex | 8422 11 00 | Of the household type |
+| ex | 8423 10 00 | Personal weighing machines, including baby scales; household scales |
+| ex | 8443 12 00 | Offset printing machinery, sheet fed, office type (using sheets with one side not exceeding 22 cm and the other side not exceeding 36 cm in the unfolded state) |
+| ex | 8443 31 00 | Machines which perform two or more of the functions of printing, copying or facsimile transmission, capable of connecting to an automatic data-processing machine or to a network |
+| ex | 8443 32 00 | Other, capable of connecting to an automatic data-processing machine or to a network |
+| ex | 8443 39 00 | Other |
+| ex | 8450 11 00 | Fully-automatic machines |
+| ex | 8450 12 00 | Other machines, with built-in centrifugal drier |
+| ex | 8450 19 00 | Other |
+| ex | 8451 21 00 | Each of a dry linen capacity not exceeding 10 kg |
+| ex | 8452 10 00 | Sewing machines of the household type |
+| ex | 8470 10 00 | Electronic calculators capable of operation without an external source of electric power and pocket-size data-recording, reproducing and displaying machines with calculating functions |
+| ex | 8470 21 00 | Incorporating a printing device |
+| ex | 8470 29 00 | Other |
+| ex | 8470 30 00 | Other calculating machines |
+| ex | 8471 00 00 | Automatic data-processing machines and units thereof; magnetic or optical readers, machines for transcribing data onto data media in coded form and machines for processing such data, not elsewhere specified or included |
+| ex | 8472 90 40 | Word-processing machines |
+| ex | 8472 90 90 | Other |
+| ex | 8479 60 00 | Evaporative air coolers |
+| ex | 8508 11 00 | Of a power not exceeding 1 500 W and having a dust bag or other receptacle capacity not exceeding 20 l |
+| ex | 8508 19 00 | Other |
+| ex | 8508 60 00 | Other vacuum cleaners |
+| ex | 8509 80 00 | Other appliances |
+| ex | 8516 31 00 | Hairdryers |
+| ex | 8516 50 00 | Microwave ovens |
+| ex | 8516 60 10 | Cookers (incorporating at least an oven and a hob) |
+| ex | 8516 71 00 | Coffee or tea makers |
+| ex | 8516 72 00 | Toasters |
+| ex | 8516 79 00 | Other |
+| ex | 8517 11 00 | Line telephone sets with cordless handsets |
+| ex | 8517 12 00 | Telephones for cellular networks or for other wireless networks |
+| ex | 8517 18 00 | Other |
+| ex | 8517 61 00 | Base stations |
+| ex | 8517 62 00 | Machines for the reception, conversion and transmission or regeneration of voice, images or other data, including switching and routing apparatus |
+| ex | 8517 69 00 | Other |
+| ex | 8526 91 00 | Radio navigational aid apparatus |
+| ex | 8529 10 31 | For reception via satellite |
+| ex | 8529 10 39 | Other |
+| ex | 8529 10 65 | Inside aerials for radio or television broadcast receivers, including built-in types |
+| ex | 8529 10 69 | Other |
+| ex | 8531 10 00 | Burglar or fire alarms and similar apparatus |
+| ex | 8543 70 10 | Electrical machines with translation or dictionary functions |
+| ex | 8543 70 30 | Aerial amplifiers |
+| ex | 8543 70 50 | Sunbeds, sunlamps and similar suntanning equipment |
+| ex | 8543 70 90 | Other |
+|  | 9504 50 00 | Video game consoles and machines, other than those of subheading 9504 30 |
+|  | 9504 90 80 | Other |
+
+**(16) Electrical/electronic or optical apparatus for recording and reproducing sound and images, of a value exceeding EUR 50 each**
+
+| ex | 8519 00 00 | Sound recording or sound reproducing apparatus |
+| --- | --- | --- |
+| ex | 8521 00 00 | Video recording or reproducing apparatus, whether or not incorporating a video tuner |
+| ex | 8525 80 30 | Digital cameras |
+| ex | 8525 80 91 | Only able to record sound and images taken by the television camera |
+| ex | 8525 80 99 | Other |
+| ex | 8527 00 00 | Reception apparatus for radio-broadcasting, whether or not combined, in the same housing, with sound recording or reproducing apparatus or a clock |
+| ex | 8528 71 00 | Not designed to incorporate a video display or screen |
+| ex | 8528 72 00 | Other, colour |
+| ex | 9006 00 00 | Photographic (other than cinematographic) cameras; photographic flashlight apparatus and flashbulbs other than discharge lamps of heading 8539 |
+| ex | 9007 00 00 | Cinematographic cameras and projectors, whether or not incorporating sound recording or reproducing apparatus |
+
+**(17) Vehicles for the transport of persons on earth, air or sea of a value exceeding EUR 10 000 each, teleferics, chairlifts, ski-draglines, traction mechanisms for funiculars, motorbikes of a value exceeding EUR 1 000 each, as well as their accessories and spare parts**
+
+| ex | 4011 10 00 | Of a kind used on motor cars (including station wagons and racing cars) |
+| --- | --- | --- |
+| ex | 4011 20 00 | Of a kind used on buses or lorries |
+| ex | 4011 30 00 | Of a kind used on aircraft |
+| ex | 4011 40 00 | Of a kind used on motorcycles |
+| ex | 4011 90 00 | Other |
+| ex | 7009 10 00 | Rear-view mirrors for vehicles |
+| ex | 8407 00 00 | Spark-ignition reciprocating or rotary internal combustion piston engines |
+| ex | 8408 00 00 | Compression-ignition internal combustion piston engines (diesel or semi-diesel engines) |
+| ex | 8409 00 00 | Parts suitable for use solely or principally with the engines of heading 8407 or 8408 |
+| ex | 8411 00 00 | Turbojets, turbopropellers and other gas turbines |
+|  | 8428 60 00 | Teleferics, chairlifts, ski-draglines, traction mechanisms for funiculars |
+| ex | 8431 39 00 | Parts and acccessories of teleferics, chairlifts, ski-draglines, traction mechanisms for funiculars |
+| ex | 8483 00 00 | Transmission shafts (including cam shafts and crank shafts) and cranks; bearing housings and plain shaft bearings; gears and gearing; ball or roller screws; gear boxes and other speed changers, including torque converters; flywheels and pulleys, including pulley blocks; clutches and shaft couplings (including universal joints) |
+| ex | 8511 00 00 | Electrical ignition or starting equipment of a kind used for spark-ignition or compression-ignition internal combustion engines (for example, ignition magnetos, magneto-dynamos, ignition coils, sparking plugs and glow plugs, starter motors); generators (for example, dynamos, alternators) and cut-outs of a kind used in conjunction with such engines |
+| ex | 8512 20 00 | Other lighting or visual signalling equipment |
+| ex | 8512 30 10 | Burglar alarms of a kind used for motor vehicles |
+| ex | 8512 30 90 | Other |
+| ex | 8512 40 00 | Windscreen wipers, defrosters and demisters |
+| ex | 8544 30 00 | Ignition wiring sets and other wiring sets of a kind used in vehicles, aircraft or ships |
+| ex | 8603 00 00 | Self-propelled railway or tramway coaches, vans and trucks, other than those of heading 8604 |
+| ex | 8605 00 00 | Railway or tramway passenger coaches, not self-propelled; luggage vans, post office coaches and other special purpose railway or tramway coaches, not self-propelled (excluding those of heading 8604 ) |
+| ex | 8607 00 00 | Parts of railway or tramway locomotives or rolling stock |
+| ex | 8702 00 00 | Motor vehicles for the transport of ten or more persons, including the driver |
+| ex | 8703 00 00 | Motor cars and other motor vehicles principally designed for the transport of persons (other than those of heading 8702 ), including station wagons and racing cars, including snowmobiles |
+| ex | 8706 00 00 | Chassis fitted with engines, for the motor vehicles of headings 8701 to 8705 |
+| ex | 8707 00 00 | Bodies (including cabs), for the motor vehicles of headings 8701 to 8705 |
+| ex | 8708 00 00 | Parts and accessories of the motor vehicles of headings 8701 to 8705 |
+| ex | 8711 00 00 | Motorcycles (including mopeds) and cycles fitted with an auxiliary motor, with or without side-cars; side-cars |
+| ex | 8712 00 00 | Bicycles and other cycles (including delivery tricycles), not motorised |
+| ex | 8714 00 00 | Parts and accessories of vehicles of headings 8711 to 8713 |
+| ex | 8716 10 00 | Trailers and semi-trailers of the caravan type, for housing or camping |
+| ex | 8716 40 00 | Other trailers and semi-trailers |
+| ex | 8716 90 00 | Parts |
+| ex | 8801 00 00 | Balloons and dirigibles; gliders, hang gliders and other non-powered aircraft |
+| ex | 8802 11 00 | Of an unladen weight not exceeding 2 000 kg |
+| ex | 8802 12 00 | Of an unladen weight exceeding 2 000 kg |
+|  | 8802 20 00 | Aeroplanes and other aircraft, of an unladen weight not exceeding 2 000 kg |
+| ex | 8802 30 00 | Aeroplanes and other aircraft, of an unladen weight exceeding 2 000 kg but not exceeding 15 000 kg |
+| ex | 8802 40 00 | Aeroplanes and other aircraft, of an unladen weight exceeding 15 000 kg |
+| ex | 8803 10 00 | Propellers and rotors and parts thereof |
+| ex | 8803 20 00 | Undercarriages and parts thereof |
+| ex | 8803 30 00 | Other parts of aeroplanes or helicopters |
+| ex | 8803 90 10 | Of kites |
+| ex | 8803 90 90 | Other |
+| ex | 8805 10 00 | Aircraft launching gear and parts thereof; deck-arrestor or similar gear and parts thereof |
+| ex | 8901 10 00 | Cruise ships, excursion boats and similar vessels principally designed for the transport of persons; ferry-boats of all kinds |
+| ex | 8901 90 00 | Other vessels for the transport of goods and other vessels for the transport of both persons and goods |
+| ex | 8903 00 00 | Yachts and other vessels for pleasure or sports; rowing boats and canoes |
+
+**(18) Clocks and watches and their parts**
+
+|  | 9101 00 00 | Wristwatches, pocket-watches and other watches, including stopwatches, with case of precious metal or of metal clad with precious metal |
+| --- | --- | --- |
+|  | 9102 00 00 | Wristwatches, pocket-watches and other watches, including stopwatches, other than those of heading 9101 |
+|  | 9103 00 00 | Clocks with watch movements, excluding clocks of heading 9104 |
+|  | 9104 00 00 | Instrument panel clocks and clocks of a similar type for vehicles, aircraft, spacecraft or vessels |
+|  | 9105 00 00 | Other clocks |
+|  | 9108 00 00 | Watch movements, complete and assembled |
+|  | 9109 00 00 | Clock movements, complete and assembled |
+|  | 9110 00 00 | Complete watch or clock movements, unassembled or partly assembled (movement sets); incomplete watch or clock movements, assembled; rough watch or clock movements |
+|  | 9111 00 00 | Watch cases and parts thereof |
+|  | 9112 00 00 | Clock cases and cases of a similar type for other goods of this chapter, and parts thereof |
+|  | 9113 00 00 | Watch straps, watch bands and watch bracelets, and parts thereof |
+|  | 9114 00 00 | Other clock or watch parts |
+
+**(19) Musical instruments**
+
+|  | 9201 00 00 | Pianos, including automatic pianos; harpsichords and other keyboard stringed instruments |
+| --- | --- | --- |
+|  | 9202 00 00 | Other string musical instruments (for example, guitars, violins, harps) |
+|  | 9205 00 00 | Wind musical instruments (for example, keyboard pipe organs, accordions, clarinets, trumpets, bagpipes), other than fairground organs and mechanical street organs |
+|  | 9206 00 00 | Percussion musical instruments (for example, drums, xylophones, cymbals, castanets, maracas) |
+|  | 9207 00 00 | Musical instruments, the sound of which is produced, or must be amplified, electrically (for example, organs, guitars, accordions) |
+
+**(20) Works of art, collectors' pieces and antiques**
+
+|  | 9700 | Works of art, collectors' pieces and antiques |
+| --- | --- | --- |
+
+**(21) Articles and equipment for sports, including skiing, golf, diving and water sports**
+
+| ex | 4015 19 00 | Other |
+| --- | --- | --- |
+| ex | 4015 90 00 | Other |
+| ex | 6210 40 00 | Other men's or boys' garments |
+| ex | 6210 50 00 | Other women's or girls' garments |
+|  | 6211 11 00 | Men's or boys' |
+|  | 6211 12 00 | Women's or girls' |
+|  | 6211 20 00 | Ski suits |
+| ex | 6216 00 00 | Gloves, mittens and mitts |
+|  | 6402 12 00 | Ski-boots, cross-country ski footwear and snowboard boots |
+| ex | 6402 19 00 | Other |
+|  | 6403 12 00 | Ski-boots, cross-country ski footwear and snowboard boots |
+|  | 6403 19 00 | Other |
+|  | 6404 11 00 | Sports footwear; tennis shoes, basketball shoes, gym shoes, training shoes and the like |
+|  | 6404 19 90 | Other |
+| ex | 9004 90 00 | Other |
+| ex | 9020 00 00 | Other breathing appliances and gas masks, excluding protective masks having neither mechanical parts nor replaceable filters |
+|  | 9506 11 00 | Skis |
+|  | 9506 12 00 | Ski-fastenings (ski-bindings) |
+|  | 9506 19 00 | Other |
+|  | 9506 21 00 | Sailboards |
+|  | 9506 29 00 | Other |
+|  | 9506 31 00 | Clubs, complete |
+|  | 9506 32 00 | Golf balls |
+|  | 9506 39 00 | Other |
+|  | 9506 40 00 | Articles and equipment for table tennis |
+|  | 9506 51 00 | Lawn-tennis rackets, whether or not strung |
+|  | 9506 59 00 | Other |
+|  | 9506 61 00 | Lawn-tennis balls |
+|  | 9506 69 10 | Cricket and polo balls |
+|  | 9506 69 90 | Other |
+|  | 9506 70 | Ice skates and roller skates, including skating boots with skates attached |
+|  | 9506 91 | Articles and equipment for general physical exercise, gymnastics or athletics |
+|  | 9506 99 10 | Cricket and polo equipment, other than balls |
+|  | 9506 99 90 | Other |
+|  | 9507 00 00 | Fishing rods, fish-hooks and other line fishing tackle; fish landing nets, butterfly nets and similar nets; decoy ‘birds’ (other than those of heading 9208 or 9705 ) and similar hunting or shooting requisites |
+
+**(22) Articles and equipment for billiard, automatic bowling, casino games and games operated by coins or banknotes**
+
+|  | 9504 20 00 | Articles and accessories for billiards of all kinds |
+| --- | --- | --- |
+|  | 9504 30 00 | Other games, operated by coins, banknotes, bank cards, tokens or by any other means of payment, other than automatic bowling alley equipment |
+|  | 9504 40 00 | Playing cards |
+|  | 9504 50 00 | Video game consoles and machines, other than those of subheading 9504 30 |
+|  | 9504 90 80 | Other |
+
+## ANNEX IX
+
+**List of gold, precious metals and diamonds referred to in Article 11**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+HS Code Description
+
+7102 Diamonds, whether or not worked, but not mounted or set
+
+7106 Silver (including silver plated with gold or platinum), unwrought or in semi-manufactured forms, or in powder form
+
+7108 Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form
+
+7109 Base metals or silver, clad with gold, not further worked than semi-manufactured
+
+7110 Platinum, unwrought or in semi-manufactured forms, or in powder form
+
+7111 Base metals, silver or gold, clad with platinum, not further worked than semi-manufactured
+
+ex 7112 Waste and scrap of precious metal or of metal clad with precious metal; other waste and scrap containing precious metal or precious-metal compounds, of a kind used principally for the recovery of precious metal
+
+## ANNEX X
+
+**The statues referred to in Article 13**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+| ex | 4420 10 | Statues and statuettes of wood |
+| --- | --- | --- |
+|  |  | – Statues and statuettes of stone |
+| ex | 6802 91 | – – Marble, travertine and alabaster |
+| ex | 6802 92 | – – Other calcareous stone |
+| ex | 6802 93 | – – Granite |
+| ex | 6802 99 | – – Other stone |
+| ex | 6809 90 | Statues and statuettes of plaster or of compositions based on plaster |
+| ex | 6810 99 | Statues and statuettes of cement, of concrete or of artificial stone, whether or not reinforced |
+| ex | 6913 | Ceramic statues and statuettes |
+|  |  | Articles of goldsmiths' or silversmiths' wares |
+|  |  | – Of precious metal whether or not plated or clad with precious metal |
+| ex | 7114 11 | – – Statuettes of silver, whether or not plated or clad with other precious metal |
+| ex | 7114 19 | – – Statuettes of other precious metal, whether or not plated or clad with precious metal |
+| ex | 7114 20 | – Statues and statuettes of base metal clad with precious metal |
+|  |  | – Statues and statuettes of base metal |
+| ex | 8306 21 | – – Statues and statuettes plated with precious metal |
+| ex | 8306 29 | – – Other statues and statuettes |
+| ex | 9505 | Statues and statuettes for festive, carnival or other entertainment use |
+| ex | 9602 | Statuettes of worked vegetable or mineral carving material |
+| ex | 9703 | Original statuary, of any material |
+
+## ANNEX XI
+
+**The helicopters and vessels referred to in Article 15**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+**Helicopters**
+
+8802 11 Of an unladen weight not exceeding 2 000 kg
+
+8802 12 Of an unladen weight exceeding 2 000 kg
+
+**Vessels**
+
+8901 Cruise ships, excursion boats, ferry-boats, cargo ships, barges and similar vessels for the transport of persons or goods
+
+8902 Fishing vessels; factory ships and other vessels for processing or preserving fishery products
+
+8903 Yachts and other vessels for pleasure or sports; rowing boats and canoes
+
+8904 Tugs and pusher crafts
+
+8906 Other vessels, including warships and lifeboats other than rowing boats
+
+8907 10 Inflatable rafts
+
+## ANNEX XIa
+
+**Seafood referred to in Article 16a**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+<table>
+<tbody><tr><td>Code</td><td>Description</td></tr>
+<tr><td>03 </td><td>Fish and crustaceans, molluscs and other aquatic invertebrates</td></tr>
+<tr><td>ex 1603 </td><td>Extracts and juices of fish or crustaceans, molluscs or other aquatic invertebrates</td></tr>
+<tr><td>1604 </td><td>Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs</td></tr>
+<tr><td>1605 </td><td>Crustaceans, molluscs and other aquatic invertebrates, prepared or preserved</td></tr>
+<tr><td>1902 20 10 </td><td>Stuffed pasta, whether or not cooked or otherwise prepared containing more than 20 % by weight of fish, crustaceans, molluscs or other aquatic invertebrate</td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>ex 2104 </td><td>Soups and broths and preparations therefor; homogenised composite food preparations, containing fish, crustaceans, molluscs or other aquatic invertebrates</td></tr>
+</tbody>
+</table>
+
+## ANNEX XIb
+
+**Lead and lead ore referred to in Article 16b**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in paragraph 2 of Article 1 of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+Code Description
+
+2607 00 00 Lead ores and concentrates
+
+7801 Unwrought lead
+
+7802 00 00 Lead waste and scrap
+
+7804 Lead plates, sheets, strip and foil; lead powders and flakes
+
+ex 7806 00 00 Other articles of lead
+
+7806 00 10 – Containers with an anti-radiation lead covering, for the transport or storage of radioactive materials
+
+ex 7806 00 80 – the following lead articles:
+
+— collapsible tubes for packing colours or other products;
+
+— vats, reservoirs, drums and similar containers other than those from 7806 00 10 (for acids or other chemicals), not fitted with mechanical or thermal equipment;
+
+— lead weights for fishing nets, lead weights for clothing, curtains, … etc. …;
+
+— weights for clocks, and general purpose counterweights;
+
+— skeins, hanks and ropes of lead fibres or strands used for packing or for caulking pipe joints;
+
+— parts of building structures;
+
+— yacht keels, divers' breast plates;
+
+— electroplating anodes;
+
+— lead bars, rods, profiles and wire other than those under 7801 ;
+
+— tubes and pipes and tube or pipe fittings (for example, couplings, elbows, sleeves), of lead.
+
+## ANNEX XIc
+
+**Condensates and natural gas liquids referred to in Article 16c**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+CN code Description
+
+2709 00 10 Natural gas condensates
+
+2711 11 Liquefied natural gas
+
+## ANNEX XId
+
+**Refined petroleum products referred to in Article 16d**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  | CN code | Description |
+| --- | --- | --- |
+|  | 2707 | Oils and other products of the distillation of high temperature coal tar; similar products in which the weight of the aromatic constituents exceeds that of the non-aromatic constituents |
+|  | 2710 | Petroleum oils and oils obtained from bituminous minerals, other than crude; preparations not elsewhere specified or included, containing by weight 70 % or more of petroleum oils or of oils obtained from bituminous minerals, these oils being the basic constituents of the preparations; waste oils |
+|  | 2711 | Petroleum gases and other gaseous hydrocarbons |
+|  |  | Petroleum jelly; paraffin wax, microcrystalline petroleum wax, slack wax, ozokerite, lignite wax, peat wax, other mineral waxes, and similar products obtained by synthesis or by other processes, whether or not coloured |
+|  | 2712 10 | – Petroleum jelly |
+|  | 2712 20 | – Paraffin wax containing by weight less than 0,75 % of oil |
+| Ex | 2712 90 | – Other than petroleum jelly and Paraffin wax containing by weight less than 0,75 % of oil |
+|  | 2713 | Petroleum coke, petroleum bitumen and other residues of petroleum oils or of oils obtained from bituminous minerals |
+| Ex | 2714 | Bitumen and asphalt, natural; bituminous or oil-shale and tar sands; asphaltites and asphaltic rocks |
+| Ex | 2715 | Bituminous mixtures based on natural asphalt, on natural bitumen, on petroleum bitumen, on mineral tar or on mineral tar pitch (for example, bituminous mastics, cut-backs) |
+|  |  | Lubricating preparations (including cutting-oil preparations, bolt or nut release preparations, anti-rust or anti-corrosion preparations and mould-release preparations, based on lubricants) and preparations of a kind used for the oil or grease treatment of textile materials, leather, furskins or other materials, but excluding preparations containing, as basic constituents, 70 % or more by weight of petroleum oils or of oils obtained from bituminous minerals. |
+|  |  | – Containing petroleum oils or oils obtained from bituminous minerals |
+|  | 3403 11 | – – Preparations for the treatment of textile materials, leather, furskins or other materials |
+|  | 3403 19 | – – Other than preparations for the treatment of textile materials, leather, furskins or other materials |
+|  |  | – Other than containing petroleum oils or oils obtained from bituminous minerals |
+| Ex | 3403 91 | – – Preparations for the treatment of textile materials, leather, furskins or other materials |
+| Ex | 3403 99 | – – Other than preparations for the treatment of textile materials, leather, furskins or other materials |
+|  |  | – – – – – Chemical products or preparations, predominantly composed of organic compounds, not elsewhere specified or included |
+| Ex | 3824 99 92 | – – – – – – In the form of a liquid at 20 °C |
+| Ex | 3824 99 93 | – – – – – – Other |
+| Ex | 3824 99 96 | – – – – – Other |
+|  |  | Biodiesel and mixtures thereof, not containing or containing less than 70 % by weight of petroleum oils or oils obtained from bituminous minerals |
+|  | 3826 00 10 | – Fatty-acid mono-alkyl esters, containing by volume 96,5 % or more of esters (FAMAE) |
+|  | 3826 00 90 | – Other |
+
+## ANNEX XIe
+
+**Crude oil referred to in Article 16f**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+|  | CN code | Description |
+| --- | --- | --- |
+|  | 2709 00 90 | Petroleum oils and oils obtained from bituminous minerals, crude, other than natural gas condensates |
+
+## ANNEX XIf
+
+**Textiles referred to in Article 16h**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+Chapter Description
+
+50 Silk
+
+51 Wool, fine or coarse animal hair; horsehair yarn and woven fabric
+
+52 Cotton
+
+53 Other vegetable textile fibres; paper yarn and woven fabrics of paper yarn
+
+54 Man-made filaments; strip and the like of man-made textile materials
+
+55 Man-made staple fibres
+
+56 Wadding, felt and nonwovens; special yarns; twine, cordage, ropes and cables and articles thereof
+
+57 Carpets and other textile floor coverings
+
+58 Special woven fabrics; tufted textile fabrics; lace; tapestries; trimmings; embroidery
+
+59 Impregnated, coated, covered or laminated textile fabrics; textile articles of a kind suitable for industrial use
+
+60 Knitted or crocheted fabrics
+
+61 Articles of apparel and clothing accessories, knitted or crocheted
+
+62 Articles of apparel and clothing accessories, not knitted or crocheted
+
+63 Other made-up textile articles; sets; worn clothing and worn textile articles; rags
+
+## ANNEX XIg
+
+**FOOD AND AGRICULTURAL PRODUCTS REFERRED TO IN ARTICLE 16j**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+CN code Description
+
+07 Edible vegetables and certain roots and tubers
+
+08 Edible fruit and nuts; peel of citrus fruit or melons
+
+12 Oil seeds and oleaginous fruits; miscellaneous grains, seeds and fruit; industrial or medicinal plants; straw and fodder
+
+## ANNEX XIh
+
+**MACHINERY AND ELECTRICAL EQUIPMENT REFERRED TO IN ARTICLE 16k**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+CN code Description
+
+84 Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+
+85 Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles
+
+## ANNEX XIi
+
+**EARTH AND STONE, INCLUDING MAGNESITE AND MAGNESIA, REFERRED TO IN ARTICLE 16l**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+CN code Description
+
+25 Salt; sulphur; earths and stone; plastering materials, lime and cement
+
+## ANNEX XIj
+
+**WOOD REFERRED TO IN ARTICLE 16m**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+CN code Description
+
+44 Wood and articles of wood; wood charcoal
+
+## ANNEX XIk
+
+**VESSELS REFERRED TO IN ARTICLE 16n**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+CN code Description
+
+89 Ships, boats and floating structures
+
+## ANNEX XIl
+
+**PART A**
+
+**Industrial machinery, transportation vehicles, and iron, steel and other metals referred to in Article 16p**
+
+**EXPLANATORY NOTE**
+
+The nomenclature codes are taken from the Combined Nomenclature as defined in Article 1(2) of Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff and as set out in Annex I thereto, which are valid at the time of publication of this Regulation and mutatis mutandis as amended by subsequent legislation.
+
+CN code Description
+
+72 Iron and steel
+
+73 Articles of iron or steel
+
+74 Copper and articles thereof
+
+75 Nickel and articles thereof
+
+76 Aluminium and articles thereof
+
+78 Lead and articles thereof
+
+79 Zinc and articles thereof
+
+80 Tin and articles thereof
+
+81 Other base metals; cermets; articles thereof
+
+82 Tools, implements, cutlery, spoons and forks, of base metal; parts thereof of base metal
+
+83 Miscellaneous articles of base metal
+
+84 Nuclear reactors, boilers, machinery and mechanical appliances; parts thereof
+
+85 Electrical machinery and equipment and parts thereof; sound recorders and reproducers, television image and sound recorders and reproducers, and parts and accessories of such articles
+
+86 Railway or tramway locomotives, rolling stock and parts thereof; railway or tramway track fixtures and fittings and parts thereof; mechanical (including electromechanical) traffic signalling equipment of all kinds
+
+87 Vehicles other than railway or tramway rolling stock, and parts and accessories thereof
+
+88 Aircraft, spacecraft, and parts thereof
+
+89 Ships, boats and floating structures
+
+**PART B**
+
+**Aircraft models and types referred to in Article 16q(1)**
+
+An-24R/RV, An-148-100B, Il-18D, Il-62M, Tu-134B-3, Tu-154B, Tu-204-100B, and Tu-204-300.
+
+## ANNEX XII
+
+**List of services referred to in Article 18**
+
+**NOTES**
+
+1\. Central Products Classification (CPC) codes are set out in Statistical Office of the United Nations, Statistical Papers, Series M, No. 77, Provisional Central Product Classification, 1991.
+
+2\. Only the parts of the CPC codes described below are covered by the prohibition.
+
+**Part A:**
+
+**Services incidental to mining and manufacturing in the chemical, mining and refining industry:**
+
+| Description of services | Stemming from CPC Code |
+| --- | --- |
+| Tunnelling, overburden removal and other development and preparation work of mineral properties and sites, except for mining oil and gas. | CPC 5115 |
+| Geological, geophysical, geochemical and other scientific consulting services as they relate to the location of mineral deposits, oil and gas and groundwater by studying the properties of the earth and rock formations and structures. Included here are the services of analysing the results of subsurface surveys, the study of earth sample and core, and assistance and advice in developing and extracting mineral resources. | CPC 86751 |
+| Gathering services of information on subsurface earth formations by different methods, including seismographic, gravimetric, magnetometric and other subsurface surveying methods. | CPC 86752 |
+| Gathering services of information on the shape, position and/or boundaries of a portion of the Earth's surface by different methods, including transit, photogrammetric and hydrographic surveying, for the purpose of preparing maps. | CPC 86753 |
+| Oil and gas field service activities provided on a fee or contract basis as follows: directional drilling and redrilling; ‘spudding in’; derrick building, repairing and dismantling; cementing oil and gas well casings; pumping wells and plugging and abandoning wells. | CPC 8830 |
+| Manufacture of coke — operation of coke ovens chiefly for the production of coke or semi-coke from hardcoal and lignite, of retort carbon and residual products such as coal tar or pitch; Agglomeration of coke; Manufacture of refined petroleum products — production of liquid or gaseous fuels (e.g. ethane, butane or propane), illuminating oils, lubricatingoils or greases or other products from crude petroleum or bituminous minerals or their fractionation products; Manufacture or extraction of such products as petroleum jelly, paraffin wax, other petroleum waxes and such residual products as petroleum coke and petroleum bitumen; Manufacture of nuclear fuel — extraction of uranium metal from pitchblende or other uranium bearing ores; Manufacture of alloys, dispersions or mixtures of natural uranium or its compounds; Manufacture of enriched uranium and its compounds, plutonium and its compounds, or alloys, dispersions or mixtures of these compounds; Manufacture of uranium depleted in U 235 and its compounds, thorium and its compounds, or alloys, dispersions or mixtures of these compounds; Manufacture of other radio-active elements, isotopes or compounds; and Manufacture of non-irradiated fuel elements for use in nuclear reactors. | CPC 8845 |
+| Manufacture of basic chemicals, except fertilizers and nitrogen compounds; Manufacture of fertilizers and nitrogen compounds; Manufacture of plastics in primary forms and of synthetic rubber; Manufacture of pesticides and other agro-chemical products; Manufacture of paints, varnishes and similar coatings, printing ink and mastics; Manufacture of botanical products; Manufacture of soap and detergents, cleaning and polishing preparations, perfumes and toilet preparations and Manufacture of man-made fibres. | CPC 8846 |
+| Manufacture of basic metals on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8851 |
+| Manufacture of fabricated metal products, except machinery and equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8852 |
+| Manufacture of machinery and equipment on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8853 |
+| Manufacture of office, accounting and computing machinery, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8854 |
+| Manufacture of electrical machinery and apparatus on a fee or contract basis in the chemical, mining and refining industry. | CPC 8855 |
+| Manufacture of motor vehicles, trailers and semi-trailers, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8858 |
+| Manufacture of other transport equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8859 |
+| Repair services of fabricated metal products, except machinery and equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8861 |
+| Repair services of machinery and equipment on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8862 |
+| Repair services of office, accounting and computing machinery, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8863 |
+| Repair services of electrical machinery and apparatus on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8864 |
+| Repair services of motor vehicles, trailers and semi-trailers, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8867 |
+| Repair services of other transport equipment, on a fee or contract basis, in the chemical, mining and refining industry. | CPC 8868 |
+
+**Part B:**
+
+**Computer and related services (CPC: 84)**
+
+| Description of services | Stemming from CPC Code |
+| --- | --- |
+| Consultancy services related to the installation of computer hardware; Software implementation services; Data processing services; Data base services; Maintenance and repair services of office machinery and equipment including computers; Data preparation services; Training services for staff of clients. | CPC 84 |
+
+## ANNEX XIII
+
+**List of persons, entities and bodies referred to in Article 34(1) and 34(3)**
+
+**(a) Natural persons**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Alias</td><td>Identifying information</td><td>Date of UN designation</td><td>Statement of reasons</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>1.</td><td>Yun Ho-jin</td><td>Yun Ho-chin</td><td>DOB: 13.10.1944 Nationality: DPRK  Address: Pyongyang, DPRK </td><td>16.7.2009</td><td>Director of Namchongang Trading Corporation; oversees the import of items needed for the uranium enrichment programme.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>2.</td><td>Ri Je-Son</td><td>Korean name: [image]; Chinese name:[image]  a.k.a. Ri Che Son </td><td>DOB: 1938</td><td>16.7.2009</td><td>Former Minister of Atomic Energy Industry. Former Director of the General Bureau of Atomic Energy (GBAE), chief agency directing DPRK’s nuclear programme; facilitated several nuclear endeavours, including GBAE’s management of Yongbyon Nuclear Research Centre and Namchongang Trading Corporation.</td></tr>
+<tr><td>3.</td><td>Hwang Sok-hwa</td><td>Hwang Sok Ha</td><td>DOB: 26.9.1943</td><td>16.7.2009</td><td>Director in the General Bureau of Atomic Energy (GBAE); involved in the Democratic People’s Republic of Korea’s nuclear programme; as Chief of the Scientific Guidance Bureau in the GBAE, served on the Science Committee inside the Joint Institute for Nuclear Research.</td></tr>
+<tr><td>4.</td><td>Ri Hong-sop</td><td>  </td><td>DOB: 26.2.1940 Nationality: DPRK  Address: Pyongyang, DPRK </td><td>16.7.2009</td><td>Former director, Yongbyon Nuclear Research Centre, and Head of Nuclear Weapons Institute, oversaw three core facilities that assist in the production of weapons-grade plutonium: the Fuel Fabrication Facility, the Nuclear Reactor, and the Reprocessing Plant.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>5.</td><td>Han Yu-ro</td><td>  </td><td>  </td><td>16.7.2009</td><td>Director of Korea Ryongaksan General Trading Corporation; involved in DPRK's ballistic missile programme.</td></tr>
+<tr><td>6.</td><td>Paek Chang-Ho</td><td>Pak Chang-Ho; Paek Ch'ang-Ho </td><td>DOB: 18.6.1964 POB: Kaesong, DPRK  Passport: 381420754  Passport date of issue: 7.12.2011  Passport date of expiration: 7.12.2016 </td><td>22.1.2013</td><td>Senior official and head of the satellite control centre of Korean Committee for Space Technology.</td></tr>
+<tr><td>7.</td><td>Chang Myong- Chin</td><td>Jang Myong-Jin</td><td>DOB: 19.2.1968 DOB: 1965 or 1966 </td><td>22.1.2013</td><td>General Manager of the Sohae Satellite Launching Station and head of launch centre at which the 13 April and 12 December 2012 launches took place.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>8.</td><td>Ra Ky’ong-Su</td><td>Ra Kyung-Su; Chang, Myong Ho;  Chang Myo’ng-Ho;  Chang Myong-Ho;  Ra Kyong-Su </td><td>DOB: 4.6.1954 Passport number: 645120196  Nationality: DPRK </td><td>22.1.2013</td><td>Ra Ky’ong-Su is a Tanchon Commercial Bank (TCB) official. In this capacity he has facilitated transactions for TCB. Tanchon was designated by the Sanctions Committee in April 2009 as the main DPRK financial entity responsible for sales of conventional arms, ballistic missiles, and goods related to the assembly and manufacture of such weapons.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>9.</td><td>Kim Kwang-il</td><td>  </td><td>DOB: 1.9.1969 Passport: PS381420397 </td><td>22.1.2013</td><td>Kim Kwang-il is a Tanchon Commercial Bank (TCB) official. In this capacity, he has facilitated transactions for TCB and the Korea Mining Development Trading Corporation (KOMID). Tanchon was designated by the Sanctions Committee in April 2009 as the main DPRK financial entity responsible for sales of conventional arms, ballistic missiles, and goods related to the assembly and manufacture of such weapons. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td>10.</td><td>Yo'n Cho'ng Nam</td><td>  </td><td>  </td><td>7.3.2013</td><td>Chief Representative for the Korea Mining Development Trading Corporation (KOMID). The KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons</td></tr>
+<tr><td>11.</td><td>Ko Ch'o'l-Chae</td><td>  </td><td>  </td><td>7.3.2013</td><td>Deputy Chief Representative for the Korea Mining Development Trading Corporation (KOMID). The KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>12.</td><td>Mun Cho’ng-Ch’o’l</td><td>Mun Chong-Chol</td><td>DOB: 23.12.1964 Nationality: DPRK  Address: C/O Tanchon Commercial Bank, Pyongyang, DPRK, Saemaeul 1-Dong, Pyongchon District </td><td>7.3.2013</td><td>Mun Cho’ng-Ch’o’l is a Tanchon Commercial Bank (TCB) official. In this capacity he has facilitated transactions for TCB. Tanchon was designated by the Sanctions Committee in April 2009 and is the main DPRK financial entity for sales of conventional arms, ballistic missiles, and goods related to the assembly and manufacture of such weapons.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>13.</td><td>Choe Chun-Sik</td><td>Choe Chun Sik; Ch’oe Ch’un Sik </td><td>DOB: 12.10.1954 Nationality: DPRK  Address: DPRK </td><td>2.3.2016</td><td>Choe Chun-sik was the director of the Second Academy of Natural Sciences (SANS) and was the head of the DPRK’s long-range missile programme.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>14.</td><td>Choe Song Il</td><td>  </td><td>Nationality: DPRK Passport: 472320665  Date of expiration: 26.9.2017  Passport: 563120356 </td><td>2.3.2016</td><td>Tanchon Commercial Bank Representative. Served as the Tanchon Commercial Bank Representative in Vietnam.</td></tr>
+<tr><td>15.</td><td> Hyon Kwang Il  </td><td>Hyon Gwang Il</td><td>DOB: 27.5.1961 Nationality: DPRK </td><td>2.3.2016</td><td> Hyon Kwang Il is the Department Director for Scientific Development at the National Aerospace Development Administration.  </td></tr>
+<tr><td>16.</td><td>Jang Bom Su</td><td>Jang Pom Su, Jang Hyon U</td><td>DOB: 15.4.1957, 22.2.1958 Nationality: DPRK  Passport: 836110034 (diplomatic)  Passport date of expiration: 1.1.2020 </td><td>2.3.2016</td><td>Tanchon Commercial Bank Representative in Syria.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>17.</td><td>Jang Yong Son</td><td>  </td><td>DOB: 20.2.1957 Nationality: DPRK  Passport no: 563110024 (issued by the DPRK) </td><td>2.3.2016</td><td>Korea Mining Development Trading Corporation (KOMID) Representative. Served as the KOMID Representative in Iran.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>18.</td><td>Jon Myong Guk</td><td>Cho 'n Myo 'ng-kuk; Jon Yong Sang</td><td>DOB: 18.10.1976, 25.8.1976 Nationality: DPRK  Passport: 4721202031  Passport date of expiration: 21.2.2017  Passport: 836110035 (diplomatic)  Passport date of expiration: 1.1.2020 </td><td>2.3.2016</td><td>Tanchon Commercial Bank Representative in Syria.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>19.</td><td>Kang Mun Kil</td><td>Jiang Wen-ji; Jian Wenji </td><td>DOB: 9.2.1963 Passport number: PS 472330208 (expires 4.7.2017)  Nationality: DPRK  Address: DPRK </td><td>2.3.2016</td><td>Kang Mun Kil has conducted nuclear procurement activities as a representative of Namchongang, also known as Namhung.</td></tr>
+<tr><td>20.</td><td>Kang Ryong</td><td>  </td><td>DOB: 21.8.1969 Nationality: DPRK </td><td>2.3.2016</td><td>Former Korea Mining Development Trading Corporation (KOMID) Representative in Syria.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>21.</td><td>Kim Jung Jong</td><td>Kim Chung Chong</td><td>DOB: 7.11.1966 Nationality: DPRK  Passport: 199421147  Passport date of expiration: 29.12.2014  Passport: 381110042  Passport date of expiration: 25.1.2016  Passport: 563210184  Passport date of expiration: 18.6.2018 </td><td>2.3.2016</td><td>Tanchon Commercial Bank Representative. Served as the Tanchon Commercial Bank Representative in Vietnam.</td></tr>
+<tr><td>22.</td><td>Kim Kyu</td><td>  </td><td>DOB: 30.7.1968 Nationality: DPRK </td><td>2.3.2016</td><td>Korea Mining Development Trading Corporation (KOMID) External Affairs Officer.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>23.</td><td>Kim Tong My’ong</td><td>Kim Chin-So’k; Kim Tong-Myong;  Kim Jin-Sok;  Kim, Hyok-Chol;  Kim Tong-Myo’ng;  Kim Tong Myong;  Kim Hyok Chol </td><td>DOB: a) 1964 b) 28.8.1962 Nationality: DPRK  Passport no: 290320764 (issued by the DPRK) </td><td>2.3.2016</td><td>Kim Tong My’ong is the President of Tanchon Commercial Bank (TCB) and has held various positions within TCB since at least 2002. He has also played a role in managing Amroggang’s affairs.</td></tr>
+<tr><td>24.</td><td>Kim Yong Chol</td><td>Kim Yong-Chol; Kim Young-Chol;  Kim Young-Cheol;  Young-Chul </td><td>DOB. 18.2.1962 Nationality: DPRK  Passport no: 472310168 (issued by the DPRK) </td><td>2.3.2016</td><td>KOMID Representative. Served as the KOMID Representative in Iran.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>25.</td><td>Ko Tae Hun</td><td>Kim Myong Gi</td><td>DOB: 25.5.1972; Passport number: 563120630;  Passport date of expiration: 20.3.2018;  Nationality: DPRK </td><td>2.3.2016</td><td>Tanchon Commercial Bank official.</td></tr>
+<tr><td>26.</td><td>Ri Man Gon</td><td>  </td><td>DOB: 29.10.1945; Passport number: P0381230469;  Passport date of expiration: 6.4.2016;  Nationality: DPRK </td><td>2.3.2016</td><td>Former Minister of the Munitions Industry Department.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>27.</td><td>Ryu Jin</td><td>  </td><td>DOB: 7.8.1965 Nationality: DPRK  Passport: 563410081 </td><td>2.3.2016</td><td>KOMID Representative in Syria.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>28.</td><td>Yu Chol U</td><td>  </td><td>DOB: 8.8.1959 Nationality: DPRK  Address: DPRK </td><td>2.3.2016</td><td>Yu Chol U is the Director of the National Aerospace Development Administration.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>29.</td><td>Pak Chun Il</td><td>  </td><td>Passport: 563410091; DOB: 28.7.1954;  Nationality: DPRK </td><td>30.11.2016</td><td>Served as the DPRK Ambassador to Egypt and provides support to KOMID. Concluded his tour of duty and left Egypt on 15 November 2016.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>30.</td><td>Kim Song Chol</td><td>Kim Hak Song</td><td>DOB 26.3.1968 DOB 15.10.1970  Nationality: DPRK  Passport: 381420565  Passport: 654120219 </td><td>30.11.2016</td><td>Kim Song Chol is a KOMID official who has conducted business in Sudan in the interest of KOMID, a designated entity.</td></tr>
+<tr><td>31.</td><td>Son Jong Hyok</td><td>Son Min</td><td>DOB 20.5.1980 Nationality: DPRK </td><td>30.11.2016</td><td>Son Jong Hyok is a KOMID official who has conducted business in Sudan in the interest of KOMID, a designated entity.</td></tr>
+<tr><td>32.</td><td>Kim Se Gon</td><td>  </td><td>DOB 13.11.1969 Nationality: DPRK  Passport PD472310104 </td><td>30.11.2016</td><td>Kim Se Gon works on behalf of the Ministry of Atomic Energy Industry, a designated entity.</td></tr>
+<tr><td>33.</td><td>Ri Won Ho</td><td>  </td><td>DOB 17.7.1964 Nationality: DPRK  Passport 381310014 </td><td>30.11.2016</td><td>Ri Won Ho is a DPRK Ministry of State Security Official stationed in Syria supporting KOMID, a designated entity.</td></tr>
+<tr><td>34.</td><td>Jo Yong Chol</td><td>Cho Yong Chol</td><td>DOB: 30.9.1973 Nationality: DPRK. </td><td>30.11.2016</td><td>Jo Yong Chol is a DPRK Ministry of State Security Official stationed in Syria supporting KOMID, a designated entity.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>35.</td><td>Kim Chol Sam</td><td>Jin Tiesan (金铁三) </td><td>DOB: 11.3.1971 Nationality: DPRK  Passport no: 645120378 (issued by the DPRK) </td><td>30.11.2016</td><td>Kim Chol Sam is a representative for Daedong Credit Bank (DCB), who has been involved in managing transactions on behalf of DCB Finance Limited. As an overseas-based representative of DCB, it is suspected that Kim Chol Sam has facilitated transactions worth hundreds of thousands of dollars and likely managed millions of dollars in DPRK-related accounts with potential links to nuclear/missile programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>36.</td><td>Kim Sok Chol</td><td>  </td><td>DOB: 8.5.1955 Nationality: DPRK  Address: Myanmar  Passport number: 472310082 </td><td>30.11.2016</td><td>Former DPRK Ambassador to Myanmar. He operates as a KOMID facilitator. He was paid by KOMID for his assistance and arranges meetings on behalf of KOMID, including a meeting between KOMID and Myanmar’s defense related persons to discuss financial matters.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>37.</td><td>Chang Chang Ha</td><td>Jang Chang Ha</td><td>DOB: 10.1.1964 Nationality: DPRK </td><td>30.11.2016</td><td>Chang Chang Ha is the President of the Second Academy of Natural Sciences (SANS), a designated entity.</td></tr>
+<tr><td>38.</td><td>Cho Chun Ryong</td><td>Jo Chun Ryong</td><td>DOB: 4.4.1960 Nationality: DPRK. </td><td>30.11.2016</td><td>Cho Chun Ryong is the Chairman of the Second Economic Committee (SEC), a designated entity.</td></tr>
+<tr><td>39.</td><td>Son Mun San</td><td>  </td><td>DOB: 23.1.1951 Nationality: DPRK </td><td>30.11.2016</td><td>Son Mun San is the Director-General of the External Affairs Bureau of the General Bureau of Atomic Energy (GBAE), a designated ent</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>40.</td><td>Cho Il U</td><td>Cho Il Woo; Cho Ch’o’l;  Jo Chol </td><td>DOB:10.5.1945 POB: Musan, North Hamgyo’ng Province, DPRK  Nationality: DPRK  Passport No: 736410010  Address: DPRK </td><td>2.6.2017</td><td>Director of the Fifth Bureau of the Reconnaissance General Bureau. Cho is believed to be in charge of overseas espionage operations and foreign intelligence collection for the DPRK.</td></tr>
+<tr><td>41.</td><td>Cho Yon Chun</td><td>Jo Yon Jun</td><td>DOB: 28.9.1937 Nationality: DPRK  Address: DPRK </td><td>2.6.2017</td><td>Vice Director of the Organization and Guidance Department, which directs key personnel appointments for the Workers’ Party of Korea and the DPRK’s military.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>42.</td><td>Choe Hwi</td><td>  </td><td>DOB: 1954 or 1955. Gender: male.  Nationality: DPRK.  Address: DPRK </td><td>2.6.2017</td><td>First Vice Director of the Workers' Party of Korea Propaganda and Agitation Department, which controls all DPRK media and is used by the government to control the public.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>43.</td><td>Jo Yong-Won</td><td>Cho Yongwon</td><td>DOB: 24.10.1957 Passport number: 108210124 (Expired: 4 June 2023)  Nationality: DPRK  Gender: male  Address: DPRK </td><td>2.6.2017</td><td>Secretary and Chief of Organisation and Guidance Department of the Worker’s Party of Korea and former Vice Director of the Worker’s Party of Korea’s Organization and Guidance Department, which directs key personnel appointments for the Workers’ Party of Korea and the DPRK’s military.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>44.</td><td>Kim Chol Nam</td><td>  </td><td>DOB: 19.2.1970 Nationality: DPRK  Passport: 563120238  Address: DPRK </td><td>2.6.2017</td><td>President of Korea Kumsan Trading Corporation, a company that procures supplies for General Bureau of Atomic Energy and serves as a cash route to DPRK.</td></tr>
+<tr><td>45.</td><td>Kim Kyong Ok</td><td>  </td><td>DOB: 1937 or 1938 Nationality: DPRK  Address: Pyongyang, DPRK </td><td>2.6.2017</td><td>Vice Director of the Organization and Guidance Department, which directs key personnel appointments for the Workers' Party of Korea and DPRK's military.</td></tr>
+<tr><td>46.</td><td>Kim Tong-Ho</td><td>  </td><td>DOB: 18.8.1969 Gender: male  Nationality: DPRK  Passport: 745310111  Address: Vietnam. </td><td>2.6.2017</td><td>Vietnam Representative for Tanchon Commercial Bank, which is the main DPRK financial entity for weapons and missile-related sales.</td></tr>
+<tr><td>47.</td><td>Min Byong Chol</td><td>Min Pyo'ng-ch'o'l; Min Byong-chol;  Min Byong Chun </td><td>DOB: 10.8.1948 Gender: male  Nationality: DPRK  Address: DPRK </td><td>2.6.2017</td><td>Member of the Workers' Party of Korea's Organization and Guidance Department, which directs key personnel appointments for the Workers' Party of Korea and DPRK's military.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>48.</td><td>Paek Se Bong</td><td>Paek Se Pong</td><td>DOB: 21.3.1938 Nationality: DPRK </td><td>2.6.2017</td><td>Paek Se Bong is a former Chairman of the Second Economic Committee, a former member of the National Defence Commission, and a former Vice Director of Munitions Industry Department (MID).</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>49.</td><td>Pak Han Se</td><td>Kang Myong Chol</td><td>Nationality: DPRK Passport 290410121  Address: DPRK </td><td>2.6.2017</td><td>Vice Chairman of the Second Economic Committee, which oversees the production of DPRK's ballistic missiles and directs the activities of Korea Mining Development Corporation, DPRK's premier arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>50.</td><td>Pak To Chun</td><td>Pak Do Chun; Pak To’-Ch’un </td><td>DOB: 9.3.1944 Nationality: DPRK </td><td>2.6.2017</td><td>Pak To Chun is a former Secretary of Munitions Industry Department (MID) and currently advises on affairs relating to nuclear and missile programmes. He is a former State Affairs Commission member and is a member Workers’ Party of Korea Political Bureau. Died on 27 July 2022.</td></tr>
+<tr><td>51.</td><td>Ri Jae Il</td><td>Ri, Chae-Il</td><td>YOB: 1934 Nationality: DPRK </td><td>2.6.2017</td><td>Vice Director of the Workers’ Party of Korea Propaganda and Agitation Department, which controls all DPRK’s media and is used by the government to control the public. Died on 4 February 2021.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>52.</td><td>Ri Su Yong</td><td>  </td><td>DOB: 25.6.1968 Nationality: DPRK  Passport No: 654310175  Address: n/a  Gender: male  Served as Korea Ryonbong General Corporation representative in Cuba </td><td>2.6.2017</td><td>Official for Korea Ryonbong General Corporation, specialises in acquisition for DPRK's defence industries and support to Pyongyang's military-related sales. Its procurements also probably support the DPRK's chemical weapons programme.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>53.</td><td>Ri Yong Mu</td><td>Ri Yong-Mu</td><td>DOB: 25.1.1925 Nationality: DPRK  Address: DPRK </td><td>  </td><td>Vice Chairman of the State Affairs Commission, which directs and guides all DPRK’s military, defence, and security-related affairs, including acquisition and procurement. Died on 27 January 2022.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>54.</td><td>Choe Chun Yong</td><td>Ch'oe Ch'un-yong</td><td>Gender: male Nationality: DPRK  Passport: 65441078 </td><td>5.8.2017</td><td>Representative for Ilsim International Bank, which is affiliated with the DPRK military and has a close relationship with the Korea Kwangson Banking Corporation. Ilsim International Bank has attempted to evade United Nations sanctions.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>55.</td><td>Han Jang Su</td><td>Chang-Su Han</td><td>DOB: 8.11.1969 POB: Pyongyang, DPRK  Nationality: DPRK  Passport No.: 745420176, expires on 19.10.2020  Gender: male </td><td>4.8.2017</td><td>Former representative of the Foreign Trade Bank.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>56.</td><td>Jang Song Chol</td><td>  </td><td>DOB: 12.3.1967 Nationality: DPRK </td><td>5.8.2017</td><td>Korea Mining Development Corporation (KOMID) representative overseas.</td></tr>
+<tr><td>57.</td><td>Jang Sung Nam</td><td>  </td><td>DOB: 14.7.1970 Gender: male  Nationality: DPRK  Passport: 563120368, issued on 22.3.2013  Passport date of expiration: 22.3.2018  Address: DPRK </td><td>5.8.2017</td><td>Chief of an overseas Tangun Trading Corporation branch, which is primarily responsible for the procurement of commodities and technologies to support the DPRK's defence research and development programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>58.</td><td>Jo Chol Song</td><td>Cho Ch’o’l-so’ng</td><td>DOB: 25.9.1984 Nationality: DPRK  Passport No: 654320502, expires on 16.9.2019  Gender: male </td><td>4.8.2017</td><td>Representative for the Korea Kwangson Banking Corporation and former Deputy Representative for the Korea Kwangson Banking Corporation, which provides financial services in support to Tanchon Commercial Bank and Korea Hyoksin Trading, a subordinate entity of Korea Ryonbong General Corporation.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>59.</td><td>Kang Chol Su</td><td>  </td><td>DOB: 13.2.1969 Nationality: DPRK  Passport: 472234895 </td><td>5.8.2017</td><td>Official for Korea Ryonbong General Corporation, which specializes in acquisition for the DPRK's defence industries and support for the DPRK's military-related overseas sales. Its procurements also likely support the DPRK's chemical weapons programme.</td></tr>
+<tr><td>60.</td><td>Kim Mun Chol</td><td>Kim Mun-ch'o'l</td><td>DOB: 25.3.1957 Nationality: DPRK </td><td>5.8.2017</td><td>Representative for Korea United Development Bank.</td></tr>
+<tr><td>61.</td><td>Kim Nam Ung</td><td>  </td><td>Nationality: DPRK Passport: 654110043 </td><td>5.8.2017</td><td>Representative for Ilsim International Bank, which is affiliated with the DPRK military and has a close relationship with the Korea Kwangson Banking Corporation. Ilsim International Bank has attempted to evade United Nations sanctions.</td></tr>
+<tr><td>62.</td><td>Pak Il Kyu</td><td>Pak Il-Gyu</td><td>Gender: male Nationality: DPRK  Passport: 563120235 </td><td>5.8.2017</td><td>Official for Korea Ryonbong General Corporation, which specializes in acquisition for DPRK's defence industries and support to Pyongyang's military-related sales. Its procurements also likely support the DPRK's chemical weapons programme.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>63.</td><td>Pak Yong Sik</td><td>Pak Yo’ng-sik</td><td>DOB: 1950 Nationality: DPRK  Address: DPRK </td><td>11.9.2017</td><td>Former member of the Workers’ Party of Korea Central Military Commission, which is responsible for the development and implementation of the Workers’ Party of Korea military policies, commands and controls the DPRK’s military, and helps direct the country’s military defence industries.</td></tr>
+<tr><td>64.</td><td>Ch’oe So’k Min</td><td>Choe Sok Min</td><td>DOB: 25.7.1978 Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Former overseas Foreign Trade Bank representative. In 2016, Ch’oe So’k-min was the deputy representative of the Foreign Trade Bank branch office in that overseas location. He has been associated with cash transfers from that overseas Foreign Trade Bank office to banks affiliated with North Korean special organizations and Reconnaissance General Bureau operatives located overseas in an effort to evade sanctions.</td></tr>
+<tr><td>65.</td><td>Chu Hyo’k</td><td>Ju Hyok</td><td>DOB: 23.11.1986 Passport number 836420186, issued 28.10.2016 (expires 28.10.2021);  Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Former overseas Foreign Trade Bank Deputy representative.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>66.</td><td>Kim Jong Sik</td><td>Kim Cho'ng-sik</td><td>YOB: 1967-1969. Nationality: DPRK  Gender: male  Address: DPRK </td><td>22.12.2017</td><td>A leading official guiding the DPRK's WMD development efforts. Serving as Deputy Director of the Workers' Party of Korea Munitions Industry Department.</td></tr>
+<tr><td>67.</td><td>Kim Kyong Il</td><td>Kim Kyo'ng-il</td><td>Location: Libya DOB: 1.8.1979  Passport No 836210029.  Nationality: DPRK.  Gender: male </td><td>22.12.2017</td><td>Kim Kyong Il is a Foreign Trade Bank deputy chief representative in Libya.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>68.</td><td>Kim Tong Chol</td><td>Kim Tong-ch’o’l</td><td>DOB: 28.1.1966 Nationality: DPRK  Gender: male  Passport no:  a) 927234267  b) 108120258 (issued by the DPRK on 14.2.2018; expiration date 14.2.2023) </td><td>22.12.2017</td><td>Former overseas Foreign Trade Bank Deputy representative.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>69.</td><td>Ko Chol Man</td><td>Ko Ch'o'l-man</td><td>DOB: 30.9.1967 Passport No 472420180  Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Ko Chol Man is an overseas Foreign Trade Bank representative.</td></tr>
+<tr><td>70.</td><td>Ku Ja Hyong</td><td>Ku Cha-hyo'ng</td><td>Location: Libya DOB: 8.9.1957  Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Ku Ja Hyong is a Foreign Trade Bank chief representative in Libya.</td></tr>
+<tr><td>71.</td><td>Mun Kyong Hwan</td><td>Mun Kyo'ng-hwan</td><td>DOB: 22.8.1967 Passport No 381120660 expires 25.3.2016.  Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Mun Kyong Hwan is an overseas Bank of East Land representative.</td></tr>
+<tr><td>72.</td><td>Pae Won Uk</td><td>Pae Wo'n-uk</td><td>DOB: 22.8.1969 Nationality: DPRK  Passport No 472120208 expires 22.2.2017  Gender: male </td><td>22.12.2017</td><td>Pae Won Uk is an overseas Daesong Bank representative.</td></tr>
+<tr><td>73.</td><td>Pak Bong Nam</td><td>Lui Wai Ming; Pak Pong Nam;  Pak Pong-nam </td><td>DOB: 6.5.1969. Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Pak Bong Nam is an overseas Ilsim International Bank representative.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>74.</td><td>Pak Mun Il</td><td>Pak Mun-il</td><td>DOB 1.1.1965 Passport number: 563335509 expires 27.8.2018.  Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Former overseas representative of Korea Daesong Bank.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>75.</td><td>Ri Chun Hwan</td><td>Ri Ch'un-hwan</td><td> DOB: 21.8.1957 Passport No 563233049 expires 9.5.2018.  Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Ri Chun Hwan is an overseas Foreign Trade Bank representative.</td></tr>
+<tr><td>76.</td><td>Ri Chun Song</td><td>Ri Ch'un-so'ng</td><td>DOB: 30.10.1965 Passport No 654133553 expires 11.3.2019.  Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Ri Chun Song is an overseas Foreign Trade Bank representative.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>77.</td><td>Ri Pyong Chul</td><td>Ri Pyong Chol; Ri Pyo’ng-ch’o’l </td><td>DOB: 1948 Nationality: DPRK  Gender: male  Address: DPRK </td><td>22.12.2017</td><td>Vice Chairman of the Workers’ Party of Korea (WPK) Central Military Commission. Former Secretary of the Worker’s Party and Member of the Political Bureau. Former Alternate Member of the Political Bureau of the Workers’ Party of Korea and First Vice Director of the Munitions Industry Department.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>78.</td><td>Ri Song Hyok</td><td>Li Cheng He</td><td>DOB: 19.3.1965 Nationality: DPRK  Gender: male  Passport no: 654234735 (issued by the DPRK) </td><td>22.12.2017</td><td>Ri Song Hyok is an overseas representative for Koryo Bank and Koryo Credit Development Bank and has reportedly established front companies to procure items and conduct financial transactions on behalf of the DPRK.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>79.</td><td>Ri U’n So’ng</td><td>Ri Eun Song; Ri Un Song </td><td>DOB: 23.7.1969 Nationality: DPRK  Gender: male </td><td>22.12.2017</td><td>Former overseas Korea Unification Development Bank representative.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>80.</td><td>Tsang Yung Yuan</td><td>Neil Tsang, Yun Yuan Tsang</td><td>DOB: 20.10.1957 Passport No: 302001581 </td><td>30.3.2018</td><td>Tsang Yung Yuan has coordinated DPRK coal exports with a DPRK broker operating in a third country, and he has a history of other sanctions evasion activities.</td></tr>
+<tr><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+**(b) Legal persons, entities and bodies**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Alias</td><td>Location</td><td>Date of UN designation</td><td>Other information</td></tr>
+<tr><td>1.</td><td>Korea Mining Development Trading Corporation</td><td>CHANGGWANG SINYONG CORPORATION; EXTERNAL TECHNOLOGY GENERAL CORPORATION; DPRKN MINING DEVELOPMENT TRADING COOPERATION; ‘KOMID’</td><td>Central District, Pyongyang, DPRK</td><td>24.4.2009</td><td>Primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td>2.</td><td>Korea Ryonbong General Corporation</td><td>KOREA YONBONG GENERAL CORPORATION; LYON-GAKSAN GENERAL TRADING CORPORATION </td><td>Pot'onggang District, Pyongyang, DPRK; Rakwon-dong, Pothonggang District, Pyongyang, DPRK </td><td>24.4.2009</td><td>Defence conglomerate specialising in acquisition for DPRK defence industries and support to that country's military-related sales.</td></tr>
+<tr><td>3.</td><td>Tanchon Commercial Bank</td><td>CHANGGWANG CREDIT BANK; KOREA CHANGGWANG CREDIT BANK</td><td>Saemul 1- Dong Pyongchon District, Pyongyang, DPRK </td><td>24.4.2009</td><td>Main DPRK financial entity for sales of conventional arms, ballistic missiles, and goods related to the assembly and manufacture of such weapons.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>4.</td><td>Namchongang Trading Corporation</td><td>a) NCG, b) NAMCHONGANG TRADING, c) NAM CHON GANG CORPORATION, d) NOMCHONGANG TRADING CO., e) NAM CHONG GAN TRADING CORPORATION, f) Namhung Trading Corporation, g) Korea Daeryonggang Trading Corporation, h) Korea Tearyonggang Trading Corporation</td><td>a) Chilgol, Pyongyang, Democratic People’s Republic of Korea, b) Sengujadong 11-2/(or Kwangbok-dong), Mangyongdae District, Pyongyang, Democratic People’s Republic of Korea; Telephone numbers: +850-2-18111, 18222 (ext. 8573);  Facsimile number: +850-2-381-4687 </td><td>16.7.2009</td><td>Namchongang is a DPRK trading company subordinate to the General Bureau of Atomic Energy (GBAE). Namchongang has been involved in the procurement of Japanese origin vacuum pumps that were identified at a DPRK nuclear facility, as well as nuclear-related procurement associated with a German individual. It has further been involved in the purchase of aluminium tubes and other equipment specifically suitable for a uranium enrichment program from the late 1990s. Its representative is a former diplomat who served as DPRK’s representative for the IAEA inspection of the Yongbyon nuclear facilities in 2007. Namchongang’s proliferation activities are of grave concern given the DPRK’s past proliferation activities.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>5.</td><td>Hong Kong Electronics</td><td>HONG KONG ELECTRONICS KISH CO</td><td>Sanaee St., Kish Island, Iran.</td><td>16.7.2009</td><td>Owned or controlled by, or acts or purports to act for or on behalf of Tanchon Commercial Bank and KOMID. Hong Kong Electronics has transferred millions of dollars of proliferation-related funds on behalf of Tanchon Commercial Bank and KOMID (both designated by the Sanctions Committee in April 2009) since 2007. Hong Kong Electronics has facilitated the movement of money from Iran to the DPRK on behalf of KOMID.</td></tr>
+<tr><td>6.</td><td>Korea Hyoksin Trading Corporation</td><td>KOREA HYOKSIN EXPORT AND IMPORT CORPORATION</td><td>Rakwon-dong, Pothonggang District, Pyongyang, DPRK.</td><td>16.7.2009</td><td>A DPRK company based in Pyongyang that is subordinate to Korea Ryonbong General Corporation (designated by the Sanctions Committee in April 2009) and is involved in the development of weapons of mass destruction.</td></tr>
+<tr><td>7.</td><td>General Bureau of Atomic Energy (GBAE)</td><td>General Department of Atomic Energy (GDAE)</td><td>Haeudong, Pyongchen District, Pyongyang, DPRK.</td><td>16.7.2009</td><td>The GBAE is responsible for the DPRK's nuclear programme, which includes the Yongbyon Nuclear Research Centre and its 5 MWe (25 MWt) plutonium production research reactor, as well as its fuel fabrication and reprocessing facilities. The GBAE has held nuclear-related meetings and discussions with the International Atomic Energy Agency. GBAE is the primary DPRK Government agency that oversees nuclear programmes, including the operation of the Yongbyon Nuclear Research Centre. </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>8.</td><td>Korean Tangun Trading Corporation</td><td>a) Kuryonggang Trading Corporation b) Ryungseng Trading Corporation c) Ryung Seng Trading Corporation d) Ryungsong Trading Corporation e) Kore Kuryonggang Trading Corporation</td><td>Pyongyang, DPRK</td><td>16.7.2009</td><td>Korea Tangun Trading Corporation is subordinate to DPRK’s Second Academy of Natural Sciences and is primarily responsible for the procurement of commodities and technologies to support DPRK’s defence research and development programmes, including, but not limited to, weapons of mass destruction and delivery system programmes and procurement, including materials that are controlled or prohibited under relevant multilateral control regimes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>9.</td><td>Korean Committee for Space Technology</td><td>DPRK Committee for Space Technology; Department of Space Technology of the DPRK; Committee for Space Technology; KCST </td><td>Pyongyang, DPRK</td><td>22.1.2013</td><td>The Korean Committee for Space Technology (KCST) orchestrated the DPRK's launches on 13 April 2012 and 12 December 2012 via the satellite control centre and Sohae launch area.</td></tr>
+<tr><td>10.</td><td>Bank of East Land</td><td>Dongbang Bank; Tongbang U'Nhaeng;  Tongbang Bank </td><td>P.O.32, BEL Building, Jonseung-Dung, Moranbong District, Pyongyang, DPRK.</td><td>22.1.2013</td><td>DPRK financial institution Bank of East Land facilitates weapons-related transactions for, and other support to, arms manufacturer and exporter Green Pine Associated Corporation (Green Pine). Bank of East Land has actively worked with Green Pine to transfer funds in a manner that circumvents sanctions. In 2007 and 2008, Bank of East Land facilitated transactions involving Green Pine and Iranian financial institutions, including Bank Melli and Bank Sepah. The Security Council designated Bank Sepah in Resolution 1747 (2007) for providing support to Iran's ballistic missile programme. Green Pine was designated by the Sanctions Committee in April 2012.</td></tr>
+<tr><td>11.</td><td>Korea Kumryong Trading Corporation</td><td>  </td><td>  </td><td>22.1.2013</td><td>Used as an alias by the Korea Mining Development Trading Corporation (KOMID) to carry out procurement activities. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td>12.</td><td>Tosong Technology Trading Corporation</td><td>  </td><td>Pyongyang, DPRK</td><td>22.1.2013</td><td>The Korea Mining Development Corporation (KOMID) is the parent company of Tosong Technology Trading Corporation. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td>13.</td><td>Korea Ryonha Machinery Joint Venture Corporation</td><td>Chosun Yunha Machinery Joint Operation Company; Korea Ryenha Machinery J/V Corporation; Ryonha Machinery Joint Venture Corporation; Ryonha Machinery Corporation; Ryonha Machinery; Ryonha Machine Tool; Ryonha Machine Tool Corporation; Ryonha Machinery Corp; Ryonhwa Machinery Joint Venture Corporation; Ryonhwa Machinery JV; Huichon Ryonha Machinery General Plant; Unsan; Unsan Solid Tools; and Millim Technology Company </td><td>Tongan-dong, Central District, Pyongyang, DPRK; Mangungdae-gu, Pyongyang, DPRK; Mangyongdae District, Pyongyang, DPRK. Email addresses: ryonha@silibank.com; sjc117@hotmail.com; and millim@silibank.com  Telephone numbers: 8502-18111; 8502-18111-8642; and 850 2 18111-3818642  Facsimile number: 8502-381-4410 </td><td>22.1.2013</td><td>Korea Ryonbong General Corporation is the parent company of Korea Ryonha Machinery Joint Venture Corporation. Korea Ryonbong General Corporation was designated by the Sanctions Committee in April 2009 and is a defence conglomerate specialising in acquisition for DPRK defence industries and support to that country's military-related sales.</td></tr>
+<tr><td>14.</td><td>Leader (Hong Kong) International</td><td>Leader International Trading Limited; Leader (Hong Kong) International Trading Limited</td><td>LM-873, RM B, 14/F, Wah Hen Commercial Centre, 383 Hennessy Road, Wanchai, Hong Kong, China. </td><td>22.1.2013</td><td>Leader International (Hong Kong company registration number 1177053), facilitates shipments on behalf of the Korea Mining Development Trading Corporation (KOMID). KOMID was designated by the Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td>15.</td><td>Green Pine Associated Corporation</td><td>Cho'ngsong United Trading Company; Chongsong Yonhap; Ch'o'ngsong Yo'nhap; Chosun Chawo'n Kaebal T'uja Hoesa; Jindallae; Ku'm- haeryong Company LTD; Natural Resources Development and Investment Corporation; Saeingp'il Company; National Resources Development and Investment Corporation; Saeng Pil Trading Corporation</td><td>c/o Reconnaissance General Bureau Headquarters, HyongjesanGuyok, Pyongyang, DPRK Nungrado, Pyongyang, DPRK  Rakrang No. 1 Rakrang District Pyongyang Korea, Chilgol-1  dong, Mangyongdae District, Pyongyang, DPRK  Telephone number: +850-2-18111(ext. 8327).  Facsimile number: +850-2-3814685 and +850-2-3813372  Email addresses:  pac@silibank.com and kndic@co.chesin.com. </td><td>2.5.2012</td><td>Green Pine Associated Corporation (‘Green Pine’) has taken over many of the activities of the Korea Mining Development Trading Corporation (KOMID). KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.  Green Pine is also responsible for approximately half of the arms and related materiel exported by the DPRK.  Green Pine has been identified for sanctions for exporting arms or related materiel from DPRK. Green Pine specialises in the production of maritime military craft and armaments, such as submarines, military boats and missile systems, and has exported torpedoes and technical assistance to Iranian defence-related firms. </td></tr>
+<tr><td>16.</td><td>Amroggang Development Banking Corporation</td><td>Amroggang Development Bank; Amnokkang Development Bank </td><td>Tongan-dong, Pyongyang, DPRK</td><td>2.5.2012</td><td>Amroggang, which was established in 2006, is a Tanchon Commercial Bank-related company managed by Tanchon officials. Tanchon plays a role in financing KOMID's sales of ballistic missiles and has also been involved in ballistic missile transactions from KOMID to Iran's Shahid Hemmat Industrial Group (SHIG). Tanchon Commercial Bank was designatedby the Sanctions Committee in April 2009 and is the main DPRK financial entity for sales of conventional arms, ballistic missiles and goods related to the assembly and manufacture of such weapons. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons. The Security Council designated SHIG in Resolution 1737 (2006) as an entity involved in Iran's ballistic missile programme.</td></tr>
+<tr><td>17.</td><td>Korea Heungjin Trading Company</td><td>Hunjin Trading Co.; Korea Henjin Trading Co.; Korea Hengjin Trading Company</td><td>Pyongyang, DPRK.</td><td>2.5.2012</td><td>The Korea Heungjin Trading Company is used by KOMID for trading purposes. It is suspected it has been involved in supplying missile-related goods to Iran's Shahid Hemmat Industrial Group (SHIG). Heungjin has been associated with KOMID, and, more specifically, KOMID's procurement office. Heungjin has been used to procure an advanced digital controller with applications in missile design. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons. The Security-Council designated SHIG in Resolution 1737 (2006) as an entity involved in Iran's ballistic missile programme.</td></tr>
+<tr><td>18.</td><td>Second Academy of Natural Sciences</td><td>2nd Academy of Natural Sciences; Che 2 Chayon Kwahakwon; Academy of Natural Sciences; Chayon Kwahak-Won; National Defense Academy; Kukpang Kwahak-Won; Second Academy of Natural Sciences Research Institute; Sansri </td><td>Pyongyang, DPRK</td><td>7.3.2013</td><td>The Second Academy of Natural Sciences is a national-level organisation responsible for research and development of the DPRK's advanced weapons systems, including missiles and probably nuclear weapons. The Second Academy of Natural Sciences uses a number of subordinateorganisations to obtain technology, equipment, and information from overseas, including Tangun Trading Corporation, for use in the DPRK's missile and probably nuclear weapons programmes. Tangun Trading Corporation was designated by the Sanctions Committee in July 2009 and is primarily responsible for the procurement of commodities and technologies to support DPRK's defence research and development programmes, including, but not limited to, weapons of mass destruction and delivery system programmes and procurement, including materials that are controlled or prohibited under relevant multilateral control regimes.</td></tr>
+<tr><td>19.</td><td>Korea Complex Equipment Import Corporation</td><td>  </td><td>Rakwon-dong, Pothonggang District, Pyongyang, DPRK.</td><td>7.3.2013</td><td>Korea Ryonbong General Corporation is the parent company of Korea Complex Equipment Import Corporation. Korea Ryonbong General Corporation was designated by the Sanctions Committee in April 2009 and is a defence conglomerate specialising in acquisition for DPRK defence industries and support to that country's military-related sales.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>20.</td><td>Ocean Maritime Management Company, Limited (OMM)</td><td>a) East Sea Shipping Company; b) Korea Mirae Shipping Co. Ltd c) Haeyang Crew Management Company</td><td>Address: Donghung Dong, Central District. PO BOX 120. Pyongyang, DPRK; Alternate address: Dongheung-dong Changwang Street, Chung-Ku, PO Box 125, Pyongyang;  IMO number: 1790183 </td><td>28.7.2014</td><td>Ocean Maritime Management Company, Limited is the operator/manager of the vessel Chong Chon Gang. It played a key role in arranging the shipment of concealed cargo of arms and related materiel from Cuba to the DPRK in July 2013. As such, Ocean Maritime Management Company, Limited contributed to activities prohibited by the resolutions, namely the arms embargo imposed by resolution 1718 (2006), as modified by resolution 1874 (2009), and contributed to the evasion of the measures imposed by these resolutions.</td></tr>
+<tr><td>  </td><td>Vessels with IMO Number:</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>(a) Chol Ryong (Ryong Gun Bong) 8606173 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(b) Chong Bong (Greenlight) (Blue Nouvelle) 8909575 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(c) Chong Rim 2 8916293 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(g) Hoe Ryong 9041552 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(h) Hu Chang (O Un Chong Nyon) 8330815 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(i) Hui Chon (Hwang Gum San 2) 8405270 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(j) Ji Hye San (Hyok Sin 2) 8018900 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(k) Kang Gye (Pi Ryu Gang) 8829593 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(l) Mi Rim 8713471 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(m) Mi Rim 2 9361407 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(n) O Rang (Po Thong Gang) 8829555 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(p) Ra Nam 2 8625545 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(q) Ra Nam 3 9314650 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(r) Ryo Myong 8987333 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(s) Ryong Rim (Jon Jin 2) 8018912 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(t) Se Pho (Rak Won 2) 8819017 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(u) Songjin (Jang Ja San Chong Nyon Ho) 8133530 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(v) South Hill 2 8412467 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(x) Tan Chon (Ryon Gang 2) 7640378 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(y) Thae Pyong San (Petrel 1) 9009085 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(z) Tong Hung San (Chong Chon Gang) 7937317 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td>  </td><td>(aa) Tong Hung 1 8661575 </td><td>  </td><td>  </td><td>2.3.2016</td><td>  </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>21.</td><td>Academy of National Defense Science</td><td>  </td><td>Pyongyang, DPRK</td><td>2.3.2016</td><td>The Academy of National Defense Science is involved in the DPRK's efforts to advance the development of its ballistic missile and nuclear weapons programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>22.</td><td>Chongchongang Shipping Company</td><td>a) Chong Chon Gang Shipping Co. Ltd. b) Chongchongang Shipping Co LTD</td><td>Address: 817 Haeun, Donghung-dong, Central District, Pyongyang, DPRK; Alternate Address: 817, Haeum, Tonghun-dong, Chung-gu, Pyongyang, DPRK;  IMO number: 5342883 </td><td>2.3.2016</td><td>The Chongchongang Shipping Company, through its vessel, the Chong Chon Gang, attempted to directly import the illicit shipment of conventional weapons and arms to the DPRK in July 2013.</td></tr>
+<tr><td>23.</td><td>Daedong Credit Bank (DCB)</td><td>a) DCB b) Taedong Credit Bank c) Dae-Dong Credit Bank</td><td>Address: Suite 401, Potonggang Hotel, Ansan-Dong, Pyongchon District, Pyongyang, DPRK; Alternate Address: Ansan-dong, Botonggang Hotel, Pongchon, Pyongyang, DPRK;  SWIFT: DCBKKPPY </td><td>2.3.2016</td><td>Daedong Credit Bank (DCB) has provided financial services to the Korea Mining Development Trading Corporation (KOMID) and Tanchon Commercial Bank (TCB). Since at least 2007, DCB has facilitated hundreds of financial transactions worth millions of dollars on behalf of KOMID and TCB. In some cases, DCB has knowingly facilitated transactions by using deceptive financial practices.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>24.</td><td>Hesong Trading Company</td><td>  </td><td>Pyongyang, DPRK</td><td>2.3.2016</td><td>The Korea Mining Development Corporation (KOMID) is the parent company of Hesong Trading Corporation.</td></tr>
+<tr><td>25.</td><td>Korea Kwangson Banking Corporation (KKBC)</td><td>KKBC</td><td>Jungson-dong, Sungri Street, Central District, Pyongyang, DPRK</td><td>2.3.2016</td><td>KKBC provides financial services in support to Tanchon Commercial Bank and Korea Hyoksin Trading Corporation, a subordinate of the Korea Ryonbong General Corporation. Tanchon Commercial Bank has used KKBC to facilitate funds transfers likely amounting to millions of dollars, including transfers involving Korea Mining Development Corporation related funds.</td></tr>
+<tr><td>26.</td><td>Korea Kwangsong Trading Corporation</td><td>  </td><td>Rakwon-dong, Pothonggang District, Pyongyang, DPRK</td><td>2.3.2016</td><td>The Korea Ryongbong General Corporation is the parent company of Korea Kwangsong Trading Corporation.</td></tr>
+<tr><td>27.</td><td>Ministry of Atomic Energy Industry</td><td>MAEI</td><td>Haeun-2-dong, Pyongchon District, Pyongyang, DPRK</td><td>2.3.2016</td><td>The Ministry of Atomic Energy Industry was created in 2013 for the purpose of modernising the DPRK's atomic energy industry to increase the production of nuclear materials, improve their quality, and further develop an independent DPRK nuclear industry. As such, the MAEI is known to be a critical player in the DPRK's development of nuclear weapons and is in charge of day-to-day operation of the country's nuclear weapons programme, and under it are other nuclear-related organisations. Under this ministry are a number of nuclear-related organisations and research centres, as well as two committees: an Isotope Application Committee and a Nuclear Energy Committee. The MAEI also directs a nuclear research centre at Yongbyun, the site of the DPRK's known plutonium facilities. Furthermore, in the 2015 Panel of Experts (POE) report, the POE stated that Ri Je-son, a former director of the GBAE who was designated by the Committee established pursuant to resolution 1718 (2006) in 2009 for engagement in or support for nuclear related programmes, was appointed ashead of the MAEI on April 9, 2014.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>28.</td><td>Munitions Industry Department</td><td>Military Supplies Industry Department; MID;  Machine Industry Department </td><td>Pyongyang, DPRK</td><td>2.3.2016</td><td>The Munitions Industry Department (MID) is involved in key aspects of the DPRK’s missile programme. MID is responsible for overseeing the development of the DPRK’s ballistic missiles, including the Taepo Dong-2. The MID oversees the DPRK’s weapons production and R & D programmes, including the DPRK’s ballistic missile programme. The Second Economic Committee and the Second Academy of Natural Sciences – also designated in August 2010 – are subordinate to the MID. The MID in recent years has worked to develop the KN08 road-mobile ICBM. The MID oversees the DPRK’s nuclear programme. The Nuclear Weapons Institute is subordinate to the MID.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>29.</td><td>National Aerospace Technology Administration (NATA)</td><td>f.k.a.: National Aerospace Development Administration; f.k.a.: NADA </td><td>DPRK</td><td>2.3.2016</td><td>NATA is involved in the DPRK’s development of space science and technology, including satellite launches and carrier rockets.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>30.</td><td>Office 39</td><td>Office #39; Office No. 39; Bureau 39; Central Committee Bureau 39; Third Floor; Division 39</td><td>a) Second KWP Government Building (Korean – Ch’o’ngsa, Urban Town (Korean-Dong), Chung Ward, Pyongyang, DPRK b) Chung-Guyok (Central District), Sosong Street, Kyongrim-Dong, Pyongyang, DPRK c) Changwang Street, Pyongyang DPRK</td><td>2.3.2016</td><td>DPRK government entity.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>31.</td><td>Reconnaissance General Bureau</td><td>Chongch'al Ch'ongguk; KPA Unit 586; RGB</td><td>Hyongjesan- Guyok, Pyongyang, DPRK; Alternate Address: Nungrado, Pyongyang, DPRK</td><td>2.3.2016</td><td>The Reconnaissance General Bureau is the DPRK's premiere intelligence organisation, created in early 2009 by the merger of existing intelligence organisations from the Korean Workers' Party, the Operations Department and Office 35, and the Reconnaissance Bureau of the Korean People's Army. The Reconnaissance General Bureau trades in conventional arms and controls the DPRK conventional arms firm Green Pine Associated Corporation.</td></tr>
+<tr><td>32.</td><td>Second Economic Committee</td><td>  </td><td>Kangdong, DPRK</td><td>2.3.2016</td><td>The Second Economic Committee is involved in key aspects of the DPRK's missile programme. The Second Economic Committee is responsible for overseeing the production of the DPRK's ballistic missiles, and directs the activities of KOMID.</td></tr>
+<tr><td>33.</td><td>Korea United Development Bank</td><td>  </td><td>Pyongyang, DPRK</td><td>30.11.2016</td><td>SWIFT/BIC: KUDBKPPY; Korea United Development Bank Operates in the financial services industry of the DPRK economy.</td></tr>
+<tr><td>34.</td><td>Ilsim International Bank</td><td>  </td><td>Pyongyang, DPRK</td><td>30.11.2016</td><td>SWIFT: ILSIKPPY; Ilsim International Bank is affiliated to the DPRKmilitary and has a close relationship with Korea Kwangson Banking Corporation (KKBC), a designated entity. Ilsim International Bank has attempted to evade United Nations sanctions.</td></tr>
+<tr><td>35.</td><td>Korea Daesong Bank</td><td>Choson Taesong Unhaeng; Taesong Bank</td><td>Segori-dong, Gyongheung St. Potonggang District, Pyongyang, DPRK</td><td>30.11.2016</td><td>SWIFT/BIC: KDBKKPPY; Daesong Bank is owned and controlled by Office 39 of the Workers Party of Korea, a designated entity.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>36.</td><td>Singwang Economics and Trading General Corporation</td><td>  </td><td>Address: DPRK</td><td>30.11.2016</td><td>Is a DPRK firm for trading in coal. DPRK generates a significant share of the money for its nuclear and ballistic missile programmes by mining natural resources and selling those resources abroad.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>37.</td><td>Korea Foreign Technical Trade Center</td><td>  </td><td>DPRK</td><td>30.11.2016</td><td>Korea Foreign Technical Trade Center is a DPRK firm trading in coal. DPRK generates a significant share of the funds needed to finance its nuclear and ballistic missile programmes by mining natural resources and selling those resources abroad.</td></tr>
+<tr><td>38.</td><td>Korea Pugang Trading Corporation</td><td>  </td><td>Rakwon-dong, Pothonggang District, Pyongyang, DPRK</td><td>30.11.2016</td><td>Korea Pugang Trading Corporation is owned by the Korea Ryonbong General Corporation, DPRK's defence conglomerate specialising in acquisition for DPRK's defence industries and support to Pyongyang's military related sales.</td></tr>
+<tr><td>39.</td><td>Korea International Chemical Joint Venture Company</td><td>Choson International Chemicals Joint Operation Company; Chosun International Chemicals Joint Operation Company; International Chemical Joint Venture Company</td><td>Hamhung, South Hamgyong Province, DPRK; Man gyongdae-kuyok, Pyongyang, DPRK; Mangyungdae-gu, Pyongyang, DPRK</td><td>30.11.2016</td><td>Korea International Chemical Joint Venture Company is a subsidiary of Korea Ryonbong General Corporation — DPRK's defence conglomerate specialising in acquisition for DPRK's defence industries and support to Pyongyang's military related sales — and has engaged in proliferation-related transactions.</td></tr>
+<tr><td>40.</td><td>DCB Finance Limited</td><td>  </td><td>Akara Building, 24 de Castro Street, Wickhams Cay I, Road Town, Tortola, British Virgin Islands; Dalian, China</td><td>30.11.2016</td><td>DCB Finance Limited is a front company for Daedong Credit Bank (DCB), a designated entity.</td></tr>
+<tr><td>41.</td><td>Korea Taesong Trading Company</td><td>  </td><td>Pyongyang, DPRK</td><td>30.11.2016</td><td>Korea Taesong Trading Company has acted on behalf of KOMID in dealings with Syria.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>42.</td><td>Korea Daesong General Trading Corporation</td><td>Daesong Trading; Daesong Trading Company; Korea Daesong Trading Company; Korea Daesong Trading Corporation</td><td>Address: Pulgan Gori Dong 1, Potonggang District, Pyongyang City, DPRK; Telephone: +850-2-18111-8208. Fax: +850-2-381-4432;  Email: daesong@star-co.net.kp </td><td>30.11.2016</td><td>Is affiliated with Office 39 through minerals (gold) exports, metals, machinery, agricultural products, ginseng, jewellery, and light industry products.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>43.</td><td>Kangbong Trading Corporation</td><td>  </td><td>DPRK</td><td>2.6.2017</td><td>The Kangbong Trading Corporation sold, supplied, transferred, or purchased, directly or indirectly, to or from DPRK, metal, graphite, coal, or software, where revenue or goods received may benefit the Government of DPRK o the Workers' Party of Korea. The Kangbong Trading Corporation's parent is the Ministry of People's Armed Forces.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>44.</td><td>Korea Kumsan Trading Corporation</td><td>  </td><td>Address: Haeun 2-dong, Pyogchon District, Pyongyang City/Mangyongdae, DPRK; Telephone: +850-2-18111-8550. Fax: +850-2-381-4410/4416;  Email: mhs-ip@star-co.net.kp </td><td>2.6.2017</td><td>Korea Kumsan Trading Corporation is owned or controlled by, or acting or purporting to act for or on behalf of, directly or indirectly, the General Bureau of Atomic Energy, which oversees the DPRK’s nuclear programme.</td></tr>
+<tr><td>45.</td><td>Koryo Bank</td><td>  </td><td>Koryo Bank Building, Pulgun Street, Pyongyang, DPRK</td><td>2.6.2017</td><td>Koryo Bank operates in the financial services industry in the DPRK’s economy and is associated with Office 38 and Office 39 of the KWP.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>46.</td><td>Strategic Rocket Force of the Korean People's Army</td><td>Strategic Rocket Force; Strategic Rocket Force Command of KPA; Strategic Force; Strategic Forces</td><td>Pyongyang, DPRK</td><td>2.6.2017</td><td>The Strategic Rocket Force of the Korean People's Army is in charge of all DPRK ballistic missile programmes and is responsible for SCUD and NODONG launches.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>47.</td><td>Foreign Trade Bank</td><td>a) Mooyokbank b) Korea Trading Bank</td><td>Address: FTB Building, Jungsong-dong, Central District, Pyongyang, DPRK; SWIFT/BIC: FTBDKPPY </td><td>4.8.2017</td><td>Foreign Trade Bank is a state-owned bank and acts as the DPRK’s primary foreign exchange bank and has provided key financial support to the Korea Kwangson Banking Corporation.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>48.</td><td>Korean National Insurance Company (KNIC)</td><td>Korea National Insurance Corporation; Korea Foreign Insurance Company</td><td>Central District, Pyongyang, DPRK</td><td>5.8.2017</td><td>The Korean National Insurance Company is a DPRK financial and insurance company and is affiliated with Office 39.</td></tr>
+<tr><td>49.</td><td>Koryo Credit Development Bank</td><td>Daesong Credit Development Bank; Koryo Global Credit Bank; Koryo Global Trust Bank</td><td>Pyongyang, DPRK</td><td>5.8.2017</td><td>Koryo Credit Development Bank operates in the financial services industry in the DPRK's economy.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>50.</td><td>Mansudae Overseas Project Group of Companies</td><td>Mansudae Art Studio</td><td>Yanggakdo International Hotel, RYUS, Pyongyang, DPRK</td><td>4.8.2017</td><td>Mansudae Overseas Project Group of Companies engaged in, facilitated, or was responsible for the exportation of workers from the DPRK to other nations for construction-related activities including for statues and monuments to generate revenue for the Government of the DPRK or the Workers’ Party of Korea. The Mansudae Overseas Project Group of Companies has been reported to conduct business in countries in Africa and Southeast Asia including Algeria, Angola, Botswana, Benin, Cambodia, Chad, the Democratic Republic of the Congo, Equatorial Guinea, Malaysia, Mozambique, Madagascar, Namibia, Syria, Togo, and Zimbabwe.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>51.</td><td>Central Military Commission of the Worker's Party of Korea (CMC)</td><td>  </td><td>Pyongyang, DPRK</td><td>11.9.2017</td><td>The Central Military Commission is responsible for the development and implementation of the Workers' Party of Korea's military policies, commands and controls the DPRK's military, and directs the country's military defence industries in coordination with the State Affairs Commission.</td></tr>
+<tr><td>52.</td><td>Organization and Guidance Department (OGD)</td><td>  </td><td>DPRK</td><td>11.9.2017</td><td>The Organization and Guidance Department is a very powerful body of the Worker's Party of Korea. It directs key personnel appointments for the Workers' Party of Korea, the DPRK's military, and the DPRK's government administration. It also purports to control the political affairs of all of the DPRK and is instrumental in implementing the DPRK's censorship policies.</td></tr>
+<tr><td>53.</td><td>Propaganda and Agitation Department (PAD)</td><td>  </td><td>Pyongyang, DPRK</td><td>11.9.2017</td><td>The Propaganda and Agitation Department has full control over the media, which it uses as a tool to control the public on behalf of the DPRK leadership. The Propaganda and Agitation Department also engages in or is responsible for censorship by the Government of the DPRK, including newspaper and broadcast censorship.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>54.</td><td>Ministry of National Defence</td><td>Ministry of National Defense; Ministry of Defence;  Ministry of Defense;  f.k.a.: Ministry of the People’s Armed Forces (MPAF) </td><td>Pyongyang, DPRK</td><td>22.12.2017</td><td>The Ministry of National Defence manages the general administrative and logistical needs of the Korean People’s Army.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>55.</td><td>CHANG AN SHIPPING & TECHNOLOGY</td><td>[image]; CHANG AN SHIPPING AND TECHNOLOGY </td><td>Room 2105, DL1849, Trend Centre, 29-31 Cheung Lee Street, Chai Wan, Hong Kong, China</td><td>30.3.2018</td><td>Registered owner, ship manager, and commercial manager of Panama-flagged vessel HUA FU, a cargo ship that loaded DPRK coal at Najin DPRK on 24 September 2017.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>56.</td><td>CHONMYONG SHIPPING CO</td><td>CHON MYONG SHIPPING COMPANY LIMITED</td><td>Address: Kalrimgil 2-dong, Mangyongdae-guyok, Pyongyang, DPRK; Saemaul 2-dong, Pyongchon-guyok, Pyongyang, DPRK; IMO number: 5571322 </td><td>30.3.2018</td><td>Registered owner of CHON MYONG 1, a DPRK-flagged vessel that conducted ship-to-ship transfer of fuel in late December 2017.</td></tr>
+<tr><td>57.</td><td>FIRST OIL JV CO LTD</td><td>  </td><td>Address: Jongbaek 1-dong, Rakrang-guyok, Pyongyang, DPRK; IMO number: 5963351 </td><td>30.3.2018</td><td>Owner of the DPRK tanker PAEK MA, which was involved in ship to ship transfer operations for oil in mid-January 2018.</td></tr>
+<tr><td>58.</td><td>HAPJANGGANG SHIPPING CORP</td><td>  </td><td>Address: Kumsong 3-dong, Mangyongdae-guyok, Pyongyang, DPRK; IMO number: 5787684 </td><td>30.3.2018</td><td>Registered owner of the DPRK tanker NAM SAN 8, which is believed to have been involved in ship to ship transfer operations for oil, and owner of vessel HAP JANG GANG 6.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>59.</td><td>HUAXIN SHIPPING HONGKONG LTD</td><td>[image]</td><td>Room 2105, Trend Centre, 29-31 Cheung Lee Street, Chai Wan, Hong Kong, China</td><td>30.3.2018</td><td>Ship and commercial manager of the ASIA BRIDGE 1. Hong Kong-owned vessel, the probable ‘ASIA BRIDGE 1’ was instructed on 19 October 2017 by Huaxin Shipping to make preparations for entry into Nampo, DPRK to receive a shipment of coal bound for Vietnam. The ‘ASIA BRIDGE 1’ was instructed by an unidentified employee of Huaxin Shipping Ltd to make preparations to receive 8 000 metric tonnes of coal and then sail to Cam Pha, Vietnam. The master of the vessel was instructed to cover the ship's name and other markings using canvas while in port at Nampo.</td></tr>
+<tr><td>60.</td><td>KINGLY WON INTERNATIONAL CO., LTD</td><td>  </td><td>Trust Company Complex, Ajeltake Road, Ajeltake Island, Majuro MH 96960, Marshall Islands</td><td>30.3.2018</td><td>In 2017, Tsang Yung Yuan (aka Neil Tsang) and Kingly Won attempted to engage in an oil deal valued at over USD 1 million with a petroleum company in a third country to illicitly transfer to the DPRK. Kingly Won acted as a broker for that petroleum company and a Chinese company that reached out to Kingly Won to purchase marine oil on its behalf.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>61.</td><td>KOREA ACHIM SHIPPING CO</td><td>  </td><td>Address: Sochang-dong, Chung-guyok, Pyongyang, DPRK IMO number: 5936312 </td><td>30.3.2018</td><td>Registered owner of DPRK tanker CHON MA SAN. DPRK-flagged CHON MA SAN prepared for likely ship to ship transfer operations in late January 2018. The master of the DPRK-flagged motor tanker YU JONG 2 reported on November 18, 2017 to an unidentified DPRK-based controller that the vessel was avoiding a storm in advance of a ship to ship transfer. The master suggested that the YU JONG 2 load fuel oil before the DPRK-flagged tanker CHON MA SAN since the CHON MA SAN’s larger size was better suited to conduct ship to ship transfers in a storm. After the CHON MA SAN loaded fuel oil from a vessel, the YU JONG 2 loaded 1 168 kilolitres of fuel oil on November 19, 2017 through a ship to ship transfer operation.</td></tr>
+<tr><td>62.</td><td>KOREA ANSAN SHIPPING COMPANY</td><td>a) KOREA ANSAN SHPG COMPANY b) Korea Ansan SHPG CO</td><td>Address: Pyongchon 1-dong, Pyongchon-guyok, Pyongyang, DPRK; IMO number: 5676084 </td><td>30.3.2018</td><td>Registered owner of DPRK tanker AN SAN 1 believed to have been involved in ship to ship transfer operations for oil.</td></tr>
+<tr><td>63.</td><td>KOREA MYONGDOK SHIPPING CO</td><td>  </td><td>Address: Chilgol 2-dong, Mangyongdae-guyok, Pyongyang, DPRK; IMO number: 5985863 </td><td>30.3.2018</td><td>Registered owner of the YU PHYONG 5. In late November 2017, the YU PHYONG 5 conducted a ship-to-ship transfer of 1 721 metric tons of fuel oil.</td></tr>
+<tr><td>64.</td><td>KOREA SAMJONG SHIPPING</td><td>  </td><td>Address: Tonghung-dong, Chung-guyok, Pyongyang, DPRK; IMO number: 5954061 </td><td>30.3.2018</td><td>Registered owner of DPRK tankers SAM JONG 1 and SAM JONG 2. Both vessels are believed to have imported refined petroleum to DPRK in violation of UN sanctions in late January 2018.</td></tr>
+<tr><td>65.</td><td>KOREA SAMMA SHIPPING CO</td><td>Korea Samma SHPG CO</td><td>Address: Rakrang 3-dong, Rakrang-guyok, Pyongyang, DPRK; IMO number: 5145892 </td><td>30.3.2018</td><td>A DPRK-flagged tanker, SAM MA 2 owned by Korea Samma Shipping Company, conducted a ship-to-ship transfer of oil and fabricated documents in mid-October 2017, loading almost 1 600 metric tons of fuel oil in one transaction. The ship master was instructed to erase SAMMA SHIPPING and the Korean words found on the ship’s seal and instead put ‘Hai Xin You 606’ to mask its identity as a DPRK vessel.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>66.</td><td>KOREA YUJONG SHIPPING CO LTD</td><td>  </td><td>Puksong 2-dong, Pyongchon-guyok, Pyongyang, DPRK; Company Number IMO 5434358 </td><td>30.3.2018</td><td>Registered owner of the DPRK tanker YU JONG 2, which loaded 1 168 kilolitres of fuel oil on 19 November 2017 through a ship to ship transfer operation.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>67.</td><td>KOTI CORP</td><td>  </td><td>Address: Panama City, Panama; IMO number: 5982254 </td><td>30.3.2018</td><td>Ship manager and commercial manager of the Panama-flagged vessel KOTI, which conducted ship-to-ship transfers of likely petroleum product to the DPRK-flagged KUM UN SAN 3 on December 9, 2017.</td></tr>
+<tr><td>68.</td><td>MYOHYANG SHIPPING CO</td><td>  </td><td>Address: Kumsong 3-dong, Mangyondae-guyok, Pyongyang, DPRK; IMO number: 5988369 </td><td>30.3.2018</td><td>Ship manager of DPRK oil products tanker YU SON, which is believed to have been involved in ship to ship transfer operations for oil.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>69.</td><td>PAEKMA SHIPPING CO</td><td>Care of First Oil JV Co Ltd</td><td>Jongbaek 1-dong, Rakrang-guyok, Pyongyang, DPRK</td><td>30.3.2018</td><td>Registered owner of the DPRK tanker PAEK MA, which was involved in ship to ship transfer operations for oil in mid-January 2018.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>70.</td><td>PHYONGCHON SHIPPING & MARINE</td><td>PHYONGCHON SHIPPING AND MARINE</td><td>Address: Otan-dong, Chung-guyok, Pyongyang, DPRK; IMO number: 5878561 </td><td>30.3.2018</td><td>Registered owner of DPRK tanker JI SONG 6, which is believed to have been involved in ship to ship transfer operations of oil in late January 2018. The company also owns vessels JI SONG 8 and WOORY STAR.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>71.</td><td>PRO-GAIN GROUP CORPORATION</td><td>  </td><td>  </td><td>30.3.2018</td><td>Company owned or controlled by Tsang Yung Yuan and involved in illicit transfers of DPRK coal.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>72.</td><td>SHANGHAI DONGFENG SHIPPING CO LTD</td><td>  </td><td>Room 601, 433, Chifeng Lu, Hongkou Qu, Shanghai, 200083, China</td><td>30.3.2018</td><td>Registered owner, ship and commercial manager of the DONG FENG 6, a vessel that loaded coal at Hamhung, DPRK on 11 July 2017 for export in violation of UN sanctions.</td></tr>
+<tr><td>73.</td><td>SHEN ZHONG INTERNATIONAL SHIPPING</td><td>[image]</td><td>Unit 503, 5th Floor, Silvercord Tower 2, 30, Canton Road, Tsim Sha Tsui, Kowloon, Hong Kong, China</td><td>30.3.2018</td><td>Ship and commercial manager of HAO FAN 2 and HAO FAN 6, St Kitts-Nevis-flagged vessels. The HAO FAN 6 loaded coal at Nampo, DPRK on 27 August 2017. HAO FAN 2 loaded North Korean coal at Nampo, DPRK on 3 June 2017.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>74.</td><td>WEIHAI WORLD-SHIPPING FREIGHT</td><td>  </td><td>Address: 419-201, Tongyi Lu, Huancui Qu, Weihai, Shandong 264200, China; IMO number: 5905801 </td><td>30.3.2018</td><td>Ship and commercial manager of the XIN GUANG HAI, a vessel that on loaded coal at Taean, DPRK, on 27 October 2017 and had an ETA of 14 November 2017 to Cam Pha, Vietnam, but it did not arrive.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>75.</td><td>YUK TUNG ENERGY PTE LTD</td><td>  </td><td>Address: 80 Raffles Place, #17-22 UOB Plaza, Singapore, 048624, Singapore; IMO number: 5987860 </td><td>30.3.2018</td><td>Ship manager and commercial manager of the YUK TUNG, which conducted ship-to-ship transfer of refined petroleum product.</td></tr>
+</tbody>
+</table>
+
+## ANNEX XIV
+
+The vessels referred to in Article 34(2) and point (g) of Article 39(1) and applicable measures as specified by the Sanctions Committee
+
+A. Vessels subject to a seizure
+
+|  | Vessel name | IMO number | Designated as economic resources of | Date of UN designation |
+| --- | --- | --- | --- | --- |
+| 1. | CHON MYONG 1 DPRK oil tanker M/V CHON MYONG 1 conducted a ship-to-ship transfer, likely for oil, in late December 2017. | 8712362 |  | 30.3.2018 |
+| 2. | AN SAN 1 DPRK tanker M/V AN SAN 1 was involved in ship-to-ship transfer operations, likely for oil, in late January 2018. | 7303803 |  | 30.3.2018 |
+| 3. | YU PHYONG 5 DPRK merchant vessel M/V YU PHONG 5 imported refined petroleum products to Nampo, DPRK, on 29 November 2017 through a ship-to-ship transfer conducted on 26 November 2017. | 8605026 |  | 30.3.2018 |
+| 4. | SAM JONG 1 DPRK merchant vessel M/V SAM JONG 1 was involved in ship-to-ship transfer operations of oil in late January 2018. | 8405311 |  | 30.3.2018 |
+| 5. | SAM JONG 2 DPRK merchant vessel M/V SAM JONG 2 was involved in ship-to-ship transfer operations of oil in late January 2018. | 7408873 |  | 30.3.2018 |
+| 6. | SAM MA 2 DPRK oil tanker M/V SAM MA 2 imported refined petroleum products in October, early November and mid-November 2017 through multiple ship-to-ship transfers. | 8106496 |  | 30.3.2018 |
+| 7. | YU JONG 2 DPRK oil tanker M/V YU JONG 2 was involved in ship-to-ship transfer operations for oil in November 2017. M/V YU JONG 2 was also involved in a ship-to-ship transfer operation, likely for oil, with M/V MIN NING DE YOU 078 on 16 February 2018. | 8604917 |  | 30.3.2018 |
+| 8. | PAEK MA DPRK vessel M/V PAEK MA was involved in ship-to-ship transfer operations for oil in mid-January 2018. | 9066978 |  | 30.3.2018 |
+| 9. | JI SONG 6 DPRK tanker M/V JI SONG 6 was involved in ship-to-ship transfer operations of oil in late January 2018. | 8898740 |  | 30.3.2018 |
+| 10. | CHON MA SAN DPRK vessel M/V CHON MA SAN was involved in ship-to-ship transfer operations for oil in mid-November 2017. | 8660313 |  | 30.3.2018 |
+| 11. | NAM SAN 8 DPRK crude oil tanker M/V NAM SAN 8 is believed to have been involved in ship-to-ship transfer operations for oil. | 8122347 |  | 30.3.2018 |
+| 12. | YU SON DPRK tanker M/V YU SON is believed to have been involved in ship-to-ship transfer operations for oil. | 8691702 |  | 30.3.2018 |
+| 13. | WOORY STAR DPRK cargo vessel M/V WOORY STAR is believed to have been involved in illicit transfers of prohibited DPRK goods. | 8408595 |  | 30.3.2018 |
+| 14. | JI SONG 8 DPRK cargo vessel M/V JI SONG 8 is owned by Phyongchon Shipping & Marine and is believed to have been involved in illicit transfers of prohibited DPRK goods. | 8503228 | Phyongchon Shipping & Marine | 30.3.2018 |
+| 15. | HAP JANG GANG 6 Other information: DPRK cargo vessel M/V HAP JANG GANG 6 is owned by Hapjanggang Shipping Corp and is believed to have been involved in illicit transfers of prohibited DPRK goods. | 9066540 | Hapjanggang Shipping Corp | 30.3.2018 |
+
+B. Vessels which are prohibited entry into ports
+
+<table>
+<tbody><tr><td>  </td><td>Vessel name</td><td>IMO number</td><td>Date of UN designation</td></tr>
+<tr><td>1.</td><td>PETREL 8 Other information: na </td><td>9562233 (MMSI: 620233000) </td><td>3.10.2017</td></tr>
+<tr><td>2.</td><td>HAO FAN 6 Other information: na </td><td>8628597 (MMSI: 341985000) </td><td>3.10.2017</td></tr>
+<tr><td>3.</td><td>TONG SAN 2 Other information: na </td><td>8937675 (MMSI: 445539000) </td><td>3.10.2017</td></tr>
+<tr><td>4.</td><td>JIE SHUN Other information: na </td><td>8518780 (MMSI: 514569000) </td><td>3.10.2017</td></tr>
+<tr><td>5.</td><td>BILLIONS NO. 18 Other information: na </td><td>9191773</td><td>28.12.2017</td></tr>
+<tr><td>6.</td><td>UL JI BONG 6 Other information: na </td><td>9114555</td><td>28.12.2017</td></tr>
+<tr><td>7.</td><td>RUNG RA 2 Other information: na </td><td>9020534</td><td>28.12.2017</td></tr>
+<tr><td>8.</td><td>RYE SONG GANG 1 Other information: na </td><td>7389704</td><td>28.12.2017</td></tr>
+<tr><td>9.</td><td>CHON MYONG 1 Other information: DPRK oil tanker M/V CHON MYONG 1 conducted a ship-to-ship transfer, likely for oil, in late December 2017. </td><td>8712362</td><td>30.3.2018</td></tr>
+<tr><td>10.</td><td>AN SAN 1 Other information: DPRK tanker M/V AN SAN 1 was involved in ship-to-ship transfer operations, likely for oil, in late January 2018. </td><td>7303803</td><td>30.3.2018</td></tr>
+<tr><td>11.</td><td>YU PHYONG 5 Other information: DPRK merchant vessel M/V YU PHONG 5 imported refined petroleum products to Nampo, DPRK, on 29 November 2017 through a ship-to-ship transfer conducted on 26 November 2017. </td><td>8605026</td><td>30.3.2018</td></tr>
+<tr><td>12.</td><td>SAM JONG 1 Other information: DPRK merchant vessel M/V SAM JONG 1 was involved in ship-to-ship transfer operations of oil in late January 2018. </td><td>8405311</td><td>30.3.2018</td></tr>
+<tr><td>13.</td><td>SAM JONG 2 Other information: DPRK merchant vessel M/V SAM JONG 2 was involved in ship-to-ship transfer operations of oil in late January 2018. </td><td>7408873</td><td>30.3.2018</td></tr>
+<tr><td>14.</td><td>SAM MA 2 Other information: DPRK oil tanker M/V SAM MA 2 imported refined petroleum products in October, early November and mid-November 2017 through multiple ship-to-ship transfers. </td><td>8106496</td><td>30.3.2018</td></tr>
+<tr><td>15.</td><td>YU JONG 2 Other information: DPRK oil tanker M/V YU JONG 2 was involved in ship-to-ship transfer operations for oil in November 2017. M/V YU JONG 2 was also involved in a ship-to-ship transfer operation, likely for oil, with M/V MIN NING DE YOU 078 on 16 February 2018. </td><td>8604917</td><td>30.3.2018</td></tr>
+<tr><td>16.</td><td>PAEK MA Other information: DPRK vessel M/V PAEK MA was involved in ship-to-ship transfer operations for oil in mid-January 2018. </td><td>9066978</td><td>30.3.2018</td></tr>
+<tr><td>17.</td><td>JI SONG 6 Other information: DPRK tanker M/V JI SONG 6 was involved in ship-to-ship transfer operations of oil in late January 2018. </td><td>8898740</td><td>30.3.2018</td></tr>
+<tr><td>18.</td><td>CHON MA SAN Other information: DPRK vessel M/V CHON MA SAN was involved in ship-to-ship transfer operations for oil in mid-November 2017. </td><td>8660313</td><td>30.3.2018</td></tr>
+<tr><td>19.</td><td>NAM SAN 8 Other information: DPRK crude oil tanker M/V NAM SAN 8 is believed to have been involved in ship-to-ship transfer operations for oil. </td><td>8122347</td><td>30.3.2018</td></tr>
+<tr><td>20.</td><td>YU SON Other information: DPRK tanker M/V YU SON is believed to have been involved in ship-to-ship transfer operations for oil. </td><td>8691702</td><td>30.3.2018</td></tr>
+<tr><td>21.</td><td>WOORY STAR Other information: DPRK cargo vessel M/V WOORY STAR is believed to have been involved in illicit transfers of prohibited DPRK goods. </td><td>8408595</td><td>30.3.2018</td></tr>
+<tr><td>22.</td><td>ASIA BRIDGE 1 Other information: M/V ASIA BRIDGE 1 loaded DPRK coal at Nampo, DPRK, on 22 October 2017 and transferred it to Cam Pha,Vietnam. </td><td>8916580</td><td>30.3.2018</td></tr>
+<tr><td>23.</td><td>XIN GUANG HAI Other information: Merchant vessel M/V XIN GUANG HAI loaded DPRK coal at Taean, DPRK, on 27 October 2017 and transferred it to Port Klang, Malaysia, on 18 December 2017. </td><td>9004700</td><td>30.3.2018</td></tr>
+<tr><td>24.</td><td>HUA FU Other information: M/V HUA FU loaded DPRK coal at Najin, DPRK, on 24 September 2017. </td><td>9020003</td><td>30.3.2018</td></tr>
+<tr><td>25.</td><td>YUK TUNG Other information: M/V YUK TUNG engaged in a ship-to-ship transfer, likely for oil, with M/V RYE SONG GANG in January 2018. </td><td>9030591</td><td>30.3.2018</td></tr>
+<tr><td>26.</td><td>KOTI Other information: M/V KOTI engaged in a ship-to-ship transfer, likely for oil, with M/V KUM UN SAN 3 on 9 December 2017. </td><td>9417115</td><td>30.3.2018</td></tr>
+<tr><td>27.</td><td>DONG FENG 6 Other information: M/V DONG FENG 6 loaded DPRK coal at Hamhung, DPRK, on 11 July 2017, for export in violation of UN sanctions. </td><td>9008201</td><td>30.3.2018</td></tr>
+<tr><td>28.</td><td>HAO FAN 2 Other information: M/V HAO FAN 2 loaded DPRK coal at Nampo, DPRK, on 3 June 2017, for export in violation of UN sanctions. </td><td>8747604</td><td>30.3.2018</td></tr>
+<tr><td>29.</td><td>HAO FAN 6 Other information: M/V HAO FAN 6 loaded DPRK coal at Nampo, DPRK, on 27 August 2017. </td><td>8628597</td><td>30.3.2018</td></tr>
+<tr><td>30.</td><td>JIN HYE Other information: M/V JIN HYE engaged in a ship-to-ship transfer with M/V CHON MA SAN on 16 December 2017. </td><td>8518572</td><td>30.3.2018</td></tr>
+<tr><td>31.</td><td>FAN KE Other information: M/V FAN KE loaded DPRK coal at Nampo, DPRK, in September/October 2017. </td><td>8914934</td><td>30.3.2018</td></tr>
+<tr><td>32.</td><td>WAN HENG 11 Other information: M/V WAN HENG 11 engaged in a ship-to-ship transfer, likely for oil, with M/V RYE SONG GANG 1 on 13 February 2018.  Wan Heng 11, formerly a Belize-flagged vessel, is now operating as a DPRK-flagged vessel named the KUMJINGANG3 or Kum Jin Gang 3. </td><td>8791667</td><td>30.3.2018</td></tr>
+<tr><td>33.</td><td>MIN NING DE YOU 078 Other information: M/V MIN NING DE YOU engaged in a ship-to-ship transfer, likely for oil, with M/V YU JONG 2 on 16 February 2018. </td><td>Does not exist</td><td>30.3.2018</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>34.</td><td>SHANG YUAN BAO The merchant vessel M/V SHANG YUAN BAO engaged in a ship-to-ship transfer, likely for oil, with UN-designated DPRK vessel M/V PAEK MA on May 18, 2018. The SHANG YUAN BAO also engaged in a ship-to-ship transfer, likely for oil, with the DPRK vessel MYONG RYU 1 on June 2, 2018. </td><td>8126070</td><td>16.10.2018</td></tr>
+<tr><td>35.</td><td>NEW REGENT The M/V NEW REGENT engaged in a ship-to-ship transfer, likely for oil, with DPRK oil tanker KUM UN SAN 3 on June 7, 2018. </td><td>8312497</td><td>16.10.2018</td></tr>
+<tr><td>36.</td><td>KUM UN SAN 3 The DPRK oil tanker KUM UN SAN 3 engaged in a ship-to-ship transfer, likely for oil, with the M/V NEW REGENT on June 7, 2018. </td><td>8705539</td><td>16.10.2018</td></tr>
+</tbody>
+</table>
+
+## ANNEX XV
+
+**List of persons, entities and bodies referred to in Article 34(1) and 34(3)**
+
+**(a) Natural persons designated in accordance with point (a) of Article 34(4)**
+
+<table>
+<tbody><tr><td>  </td><td>Name (and possible aliases)</td><td>Alias</td><td>Identifying information</td><td>Date of designation</td><td>Reasons</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>1.</td><td>CHON Chi Bu 전지부 </td><td>CHON Chi-bu</td><td>Gender: male</td><td>22.12.2009</td><td>Member of the General Bureau of Atomic Energy, former technical director of Yongbyon. Photographs connected him to nuclear reactor in Syria before it was bombed by Israel in 2007.</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>4.</td><td>PAK Jae-gyong 박재경 </td><td>PAK Chae-Kyong PAK Jae Gyong </td><td>DOB: 10.6.1933 Passport number: 554410661  Gender: male </td><td>22.12.2009</td><td>General of the Korean People’s Army. Former Deputy Director of the General Political Department of the People’s Armed Forces and former Deputy Director of the Logistics Bureau of the People’s Armed Forces (military adviser to late Kim Jong-Il). Present at Kim Jong Un’s inspection of Strategic Rocket Force Command in 2012. Former member of the Central Committee of the Workers’ Party of Korea. President of the Korean Committee of Veterans against Imperialism. Pak Jae Gyong was described as a member of veteran cadres invited to banquets with Kim Jong Un in Pyongyang on 9 September 2022 on the occasion of the 74th anniversary of the founding of the DPRK.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>5.</td><td>RYOM Yong 렴영 </td><td>  </td><td>Gender: male</td><td>22.12.2009</td><td>Director of the General Bureau of Atomic Energy (entity designated by the United Nations), in charge of international relations.</td></tr>
+<tr><td>6.</td><td>SO Sang-kuk 서상국 </td><td>SO Sang Kuk</td><td>DOB: 30.11.1938 Gender: male </td><td>22.12.2009</td><td>Head of the Department of Nuclear Physics, Kim Il Sung University.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>7.</td><td>KIM Yong Chol 김영철 </td><td>KIM Yong-Chol; KIM Young-Chol; KIM Young-Cheol; KIM Young-Chul</td><td>DOB: 1946 POB: Pyongan-Pukto, DPRK  Gender: male </td><td>19.12.2011</td><td>Alternate Member of Political Bureau and Member of the Central Committee of the Workers’ Party of Korea, Member of the State Affairs Commission of the Democratic People’s Republic of Korea and from June 2023, United Front Department Advisor. Former commander of Reconnaissance General Bureau (RGB), an entity sanctioned by the United Nations Security Council.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>8.</td><td>CHOE Kyong-song 최경성 </td><td>CHOE Kyong song</td><td>DOB: 1945 Gender: male </td><td>20.5.2016</td><td>Colonel General in the Korean People’s Army. Former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td>9.</td><td>CHOE Yong-ho 최용호 </td><td>CHOE Yong Ho</td><td>Gender: male</td><td>20.5.2016</td><td>Colonel General in the Korean People’s Army/Korean People’s Army Air Force General. Former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. Commander of Korean People’s Army Air Force and Anti-aircraft force. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>10.</td><td>HONG Sung-Mu 홍승무 </td><td>HONG Sung Mu</td><td>DOB: 1.1.1942 Gender: male </td><td>20.5.2016</td><td>Vice Director of the Munitions Industry Department (MID). The MID – designated by the UN Security Council on 2 March 2016 – is involved in key aspects of the DPRK’s missile programme. The MID is responsible for overseeing the development of the DPRK’s ballistic missiles, including research and development programmes. As such, Hong is responsible for the DPRK’s nuclear arms-related, ballistic-missile-related or other weapons of mass destruction-related programmes. He witnessed the launch of the Hwasong-15 intercontinental ballistic missile on 28 November 2017. He participated in a meeting of the Central Military Commission of the Korean Workers’ Party in July 2020 dedicated to ‘deterrence from war’, a euphemism used to refer to the DPRK nuclear programme. He was re-elected to Party Central Committee in January 2021. In March 2023, he was photographed with Kim Jong Un inspecting purported nuclear warheads ready for mounting on ballistic missiles, and in September 2024, he was photographed with Kim Jong Un inspecting a DPRK uranium enrichment facility. </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>11.</td><td>JO Kyongchol 조경철 </td><td>JO Kyong Chol</td><td>Gender: male</td><td>20.5.2016</td><td>General in the Korean People’s Army. Appointed as a Member of the Central Military Commission of the Workers’ Party of Korea in June 2022, which is a key body for national defence matters in the DPRK. Director of the Military Security Command. As such, he is responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Re-elected to Party Central Committee in January 2021. Accompanied Kim Jong Un to large-scale artillery drills in March 2024.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>12.</td><td>KIM Chun-sam 김춘삼 </td><td>KIM Chun Sam</td><td>Gender: male</td><td>20.5.2016</td><td>Lieutenant General, former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. Former Director of the Operations Department of the Military Headquarters of the Korean People’s Army and first vice chief of the Military Headquarters. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td>13.</td><td>KIM Chun-sop 김춘섭 </td><td>KIM Chun Sop</td><td>Gender: male</td><td>20.5.2016</td><td>Former director of the Munitions Industry Department (MID). The MID – designated by the UN Security Council on 2 March 2016 – is involved in key aspects of the DPRK’s missile programme. The MID is responsible for overseeing the development of the DPRK’s ballistic missiles, including research and development programmes. Former member of the National Defence Commission, which was a key body for national defence matters in the DPRK. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Present at a photo session for those who contributed to successful SLBM test in May 2015.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>14.</td><td>KIM Jong-gak (alias KIM Jong Gak) </td><td>  </td><td>DOB: 20.7.1941 POB: Pyongyang, DPRK  Gender: male </td><td>20.5.2016</td><td>Former Director of the General Political Department of the Korean’s People’s Army. Vice Marshal in the Korean People’s Army, rector of the Military University of Kim Il-Sung, former Minister of the People’s Armed Forces and former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>15.</td><td>KIM Rak Kyom</td><td>KIM Rak-gyom; KIM Rak Gyom</td><td>Gender: male</td><td>20.5.2016</td><td>Four Star General, former Commander of the Strategic Rocket Force, an entity designated by the United Nations, which comprises four strategic and tactical missile units, including the KN-08 (ICBM) brigade. Former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. Media reports identified KIM as attending the April 2016 ICBM engine test with KIM Jong Un. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Ordered ballistic rocket firing drill.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>16.</td><td>KIM Won-hong 김원홍 </td><td>KIM Won Hong</td><td>DOB: 7.1.1945 POB: Pyongyang, DPRK  Passport number: 745310010  Gender: male </td><td>20.5.2016</td><td>General of the Korean People’s Army. Former First Deputy Director of the General Political Department of the Korean People’s Army. Former Director of the State Security Department. Former Minister of State Security. Former Member of the Central Military Commission of the Workers’ Party of Korea and National Defence Commission, which was a key body for national defence matters in the DPRK. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>17.</td><td>PAK Jong-chon 박정천 </td><td>PAK Jong Chon</td><td>Gender: male</td><td>20.5.2016</td><td>Member of the Political Bureau of the Central Committee of the Workers’ Party, Vice-Chairman of the Central Military Commission, Secretary of the Central Committee of the Worker’s Party of Korea. Member of the State Affairs Commission, Marshal and former Chief of the General Staff. Performed the formal review at the 25 April 2022 military parade, which indicates his role in and responsibility for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Pak accompanied Kim Jong Un on a visit to Russia in September 2023 along with other high-level military commanders and arms industry officials.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>18.</td><td>LI Yong-ju 리용주 </td><td>RI Yong Ju</td><td>Gender: male</td><td>20.5.2016</td><td>Admiral of the Korean People’s Army. Former member of the Central Military Commission of the Workers’ Party of Korea, which is a key body for national defence matters in the DPRK. Former Commander in chief of the Korean People’s Navy, which is involved in the development of ballistic-missile programmes and in the development of the nuclear capacities of the DPRK naval forces. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td>19.</td><td>SON Chol-ju 손철주 </td><td>SON Chol Ju</td><td>Gender: male</td><td>20.5.2016</td><td>Colonel General of the Korean People’s Army. Vice Director, Guidance Bureau of the Korean People’s Army General Political Bureau and former Political Director of the Air and Anti-Air Forces, which oversee the development of modernised anti-aircraft rockets. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Son was listed as participating in a meeting of the Central Military Commission in May 2020 as Deputy Director responsible for the organisation of the Korean People’s Army.</td></tr>
+<tr><td>20.</td><td>YUN Jong-rin 윤정린 </td><td>YUN Jong Rin</td><td>Gender: male</td><td>20.5.2016</td><td>General of the Korean People’s Army, former commander of the Supreme Guard Command. Former member of the Central Military Commission of the Workers’ Party of Korea and member of the National Defence Commission, which was a key body for national defence matters in the DPRK. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>21.</td><td>HONG Yong Chil 홍영칠 </td><td>  </td><td>Gender: male</td><td>20.5.2016</td><td>Vice Director of the Munitions Industry Department (MID). The MID – designated by the UNSC on 2 March 2016 – is involved in key aspects of the DPRK’s missile programme. The MID is responsible for overseeing the development of the DPRK’s ballistic missiles, including R&D programmes. The Second Economic Committee and the Second Academy of Natural Sciences – also designated in August 2010 – are subordinate to the MID. He is vice department director of the Central Committee of the Workers’ Party of Korea. Hong accompanied Kim Jong Un in 2023 and 2024 to a site linked to the DPRK munitions industry. Hong was described in 2019 as one of the leading officials in the field of national defence science. He accompanied Kim Jong Un during the firing of a new type of tactical guided weapon, and during the inspection of a new type of submarine under construction. He was one of the scientists congratulated by Kim Jong Un in 2017 for the launch of the Hwasong-15 intercontinental ballistic missile (ICBM) and observed earlier engine tests and other ballistic launches. In 2016, he accompanied Kim Jong Un to a meeting with scientists in which research to mount nuclear warheads on tactical and strategic missiles was discussed. He may have played a significant role in the DPRK’s nuclear test on 6 January 2016. As such, he is responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>22.</td><td>RI Hak Chol 리학철 </td><td>RI Hak Chul; RI Hak Cheol</td><td>DOB: 19.1.1963 or 8.5.1966 Passport numbers: 381320634,  PS- 563410163  Gender: male </td><td>20.5.2016</td><td>President of Green Pine Associated Corporation (‘Green Pine’). According to the UN Sanctions Committee in 2012, Green Pine had taken over many of the activities of the Korea Mining Development Trading Corporation (KOMID). KOMID was designated by the Committee in April 2009 and is the DPRK’s primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons. Green Pine was also seen as responsible for approximately half of the arms and related materiel exported by the DPRK. Green Pine was identified for sanctions for exporting arms or related materiel from the DPRK. Green Pine specialises in the production of maritime military craft and armaments, such as submarines, military boats and missile systems, and has exported torpedoes and technical assistance to Iranian defence-related firms. Green Pine has been designated by the UNSC.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>23.</td><td>YUN Chang Hyok 윤창혁 </td><td>  </td><td>DOB: 9.8.1965 Gender: male </td><td>20.5.2016</td><td>Deputy Director of the Satellite Control Centre, National Aerospace Technology Administration (NATA), which Kim Jong Un visited prior to the intercontinental ballistic missile (ICBM) test on 24 March 2022. NATA is subject to sanctions under UNSCR 2270 (2016) for involvement in the DPRK’s development of space science and technology, including satellite launches and carrier rockets. UNSCR 2270 (2016) condemned the DPRK’s satellite launch of 7 February 2016 for using ballistic missile technology and being in serious violation of Resolutions 1718 (2006), 1874 (2009), 2087 (2013) and 2094 (2013). As such, he is responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. On 23 November 2023, the High Representative of the Union for Foreign Affairs and Security Policy, on behalf of the European Union, condemned the DPRK’s launch of a military satellite using ballistic missile technology for violating UN Security Council Resolutions.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>24.</td><td>RI Myong Su 리명수 </td><td>  </td><td>DOB: 1937 POB: Myongchon, North Hamgyong, DPRK  Gender: male </td><td>7.4.2017</td><td>Vice Marshall of the Korean People’s Army, first vice commander of the Korean People’s Army Supreme Command. Until 2018, member of the Central Military Commission of the Workers’ Party of Korea and Chief of Staff of the People’s Armed Forces. Chief military representative at a state funeral in May 2022, but described as veteran in an April 2022 parade. Ri Myong Su has been influential in national defence matters including the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. Ri is a member of the Supreme People’s Assembly (SPA).</td></tr>
+<tr><td>25.</td><td>SO Hong Chan 서홍찬 </td><td>  </td><td>DOB: 30.12.1957 POB: Kangwon, DPRK  Passport: PD836410105  Passport date of expiration: 27.11.2021  Gender: male </td><td>7.4.2017</td><td>Former First Vice-Minister of the People’s Armed Forces, former Director General of the Rear Services Bureau and former member of the Central Military Commission of the Workers’ Party of Korea. Re-elected as a Member of the Central Committee in January 2021. In this capacity, So Hong Chan is responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td>26.</td><td>WANG Chang Uk 왕창욱 </td><td>  </td><td>DOB: 29.5.1960 Gender: male </td><td>7.4.2017</td><td>Minister for Industry and Atomic Energy, promoted to full Member of the Workers’ Party of Korea Central Committee in December 2021. In this capacity, Wang Chang Uk is responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td>27.</td><td>JANG Chol 장철 </td><td>  </td><td>DOB: 31.3.1961 POB: Pyongyang, DPRK  Passport number: 563310042  Gender: male </td><td>7.4.2017</td><td>Member of the State Physical Culture and Sports Guidance Commission and former president of the State Academy of Sciences, an organisation dedicated to the development of technological and scientific capacities of the DPRK. In this latter capacity, Jang Chol held a strategic position for the development of DPRK nuclear activities. As such, responsible for supporting or promoting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>28.</td><td>KIM Su Gil 김수길 </td><td>KIM Su-gil</td><td>DOB: 1950 Gender: male </td><td>21.4.2022</td><td>In his capacity as Director of the Korean People’s Army General Political Bureau between 2018 and 2021 and a Member of the State Affairs Commission between 2019 and 2021, and his position since 2023 as Chief Secretary of the Pyongyang City Party Committee and Alternate Member of the Political Bureau, he is responsible for the implementation of the Korean Workers’ Party decisions, related to the development of nuclear and ballistic programmes in violation of United Nations Security Council Resolutions 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017), and 2397 (2017). In February 2024, he led a party delegation to Russia and held several meetings with senior Russian leadership.</td></tr>
+<tr><td>29.</td><td>JON Il Ho 전일호 </td><td>JON Il-Ho</td><td>DOB: 1955 or 1956 Nationality: DPRK  Gender: male </td><td>21.4.2022</td><td>President of Kim Jong Un University of National Defence since December 2023, an institution that is involved in the development of the DPRK’s illegal weapons programmes. In addition, in his capacity as Chair of the Worker’s Party of Korea (WPK) Committee of the Academy for Defence Research and a member of the Central Committee of the WPK, Jon also plays a major role in and is responsible for the development of the DPRK’s weapons of mass destruction programmes. Promoted to Colonel General in August 2019, recipient of the February 16 Science and Technology Prize, Director of the Research Institute of Automation and Institute Director of Kim Chaek University of Technology, and Vice Director of a Department of the Central Committee of the WPK, he participated at the launches of the Hwasong-14 intercontinental ballistic missile (ICBM) on 4 July 2017 and 28 July 2017, as well as most other missile launches in 2017, 2019 and March 2020.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>30.</td><td>JONG Sung Il 정승일 </td><td>JONG Sung-Il</td><td>DOB: 20.3.1961 Passport number: 927240105  Nationality: DPRK  Gender: male </td><td>21.4.2022</td><td>In his capacity as a ‘Senior Party Official’ and ‘leading official in the field of national defence science’ and identified by a UN Member State as a former Vice-Director of the Munitions Industry Department of the Central Committee of Workers’ Party of Korea in 2017, he plays a major role in and is responsible for the development of the DPRK’s weapons of mass destruction programmes, in particular ballistic missiles. He was present during the Hwasong-14 intercontinental ballistic missile (ICBM) tests on 4 July 2017 and 28 July 2017 and present during ballistic missiles/large Multiple Launch Rocket System launches on 24 August 2019 and 10 September 2019.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>31.</td><td>YU Jin 유진 </td><td>YU Jin</td><td>DOB: 1960 Nationality: DPRK  Gender: male </td><td>21.4.2022</td><td>In his capacity as former Director of the Munitions Industry Department and, since 1 January 2023, Member of the Central Committee of Workers’ Party of Korea, he is responsible for playing a major role in the development of the DPRK’s weapons of mass destruction programmes both in nuclear and ballistic fields. He accompanied Kim Jong Un to the National Aerospace Development Administration prior to the March 2022 intercontinental ballistic missile (ICBM) launch and took part in the 2021 National Defence Exhibition, which displayed apparently new weapons systems. As Deputy Director, he was present during the Hwasong-14 ICBM tests of 4 July 2017 and 28 July 2017, as well as Kim Jong Un’s inspection of a new type of submarine, which the DPRK indicated was intended for the ‘strategic’ purpose of deploying submarine-launched ballistic missiles, possibly capable of carrying nuclear warheads, on 22 July 2019 and the ballistic missile launches of 25 July and 30 July 2019, and 2 August 2019.</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>32.</td><td>KIM Kwang Yon 김광연</td><td>  </td><td>DOB: 30.7.1966 Nationality: DPRK  Gender: male  Passport number: 563210059 (expired 2018); 654410104 (expired 2019) </td><td>12.12.2022</td><td>In his capacity as a representative for Korea Mining Development Trading Corporation (KOMID) in Southern Africa, KIM Kwang Yon takes part in activities for an entity designated on 24 April 2009 by the Committee established pursuant to UNSCR 1718 (2006) as being engaged in or providing support for DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. As such, he is directly involved in providing funds and supplies for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td>33.</td><td>KIM Su Il 김수일 </td><td>  </td><td>DOB: 4.3.1985 Nationality: DPRK  Gender: male  Passport number: 108220348; 745220480  Address: Ho Chi Minh, Vietnam </td><td>12.12.2022</td><td>Since 2016, KIM Su Il has been an agent in Viet Nam for the Munitions Industry Department, performing economic, trading, mining and shipping activities associated with the Department’s business activities to earn foreign currency for the DPRK. He is involved in the export of DPRK products such as anthracite and titanium concentrate. He also earned foreign currency by importing and exporting raw materials to and from the DPRK and exporting Vietnamese goods to China and other countries. He is therefore responsible for financial activities supporting the DPRK’s nuclear and ballistic programmes.</td></tr>
+<tr><td>34.</td><td>PAK Kwang Hun 박광훈</td><td>BAK Gwang Hun</td><td>DOB: 1970 Nationality: DPRK  Gender: male </td><td>12.12.2022</td><td>In his capacity as a representative for Korea Ryonbong General Corporation (Ryonbong), PAK Kwang Hun takes part in activities for an entity designated on 24 April 2009 by the Committee established pursuant to UNSCR 1718 (2006) as being engaged in or providing support for DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. As such, he is directly involved in providing funds and supplies for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td>35.</td><td>KIM Ho Kyu 김호규</td><td>KIM Ho Gyu</td><td>DOB: 15.9.1970 Nationality: DPRK  Gender: male  Address: DPRK Consulate General in Nakhodka, Russian Federation  Function or profession: Representative for Korea Ryonbong General Corporation (Ryonbong)  Deputy Consul at DPRK Consulate General in Nakhodka, Russian Federation </td><td>12.12.2022</td><td>In his capacity as a representative for Korea Ryonbong General Corporation (Ryonbong), KIM Ho Kyu takes part in activities for an entity designated on 24 April 2009 by the Committee established pursuant to UNSCR 1718 (2006) as being engaged in or providing support for DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. As such, he is directly involved in providing funds and supplies for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td>36.</td><td>JONG Yong Nam 정영남 </td><td>  </td><td>DOB: 26.1.1966 Nationality: DPRK  Gender: male  Passport number: PS 927120050  Address: Minsk, Belarus  Function or profession: Representative in Minsk of the Second Academy of Natural Sciences of the DPRK </td><td>12.12.2022</td><td>In his capacity as a representative in Minsk, Belarus, of an organisation with direct links to the Second Academy of Natural Sciences in the DPRK, JONG Yong Nam takes part in activities for a sanctioned entity set out in UNSCR 2094 (2013). This entity is known for its proliferation activities benefitting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. As such, he is directly involved in providing funds and supplies for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>37.</td><td>SONG Rim 송림 </td><td>Naya Liu</td><td>DOB: 25.2.1991 Nationality: DPRK  Gender: male </td><td>31.5.2024</td><td>The UN Panel of Experts reports that Song Rim is a worker for the ‘Biryugang Overseas Technology Cooperation Company’ (‘Head of IT Development Department’), which is directly linked to the ‘Hapjanggang Trading Corporation’, which is subordinate to the Ministry of Rocket Industry of the Democratic People’s Republic of Korea. A DPRK IT worker, Song Rim was identified in an apparent promotional video for a voice phishing hacking application, as highlighted by the Panel of Experts in its 2022 midterm report. The individual is therefore directly involved in providing support for the DPRK’s illicit programmes.</td></tr>
+<tr><td>38.</td><td>KIM Chol Sok</td><td>Sok Kha; Lee Un-Kang; Chang Sok-kha; Kang Hyok; Li Yun-chiang; Steven Lee</td><td>DOB: 1.1.1970 Nationality: DPRK  Gender: male  Passport: D0004492 (Cambodian diplomatic passport, currently invalid) </td><td>31.5.2024</td><td>The UN Panel of Experts reports that an intelligence officer of the Reconnaissance General Bureau of the DPRK, named Kim Chol Sok, operated hotels, casinos, restaurants and bars in Cambodia as of mid-2020 and worked to expand his business activities in tourism as well as in other business sectors, such as the mining of precious metals. Through his illicit activity in Cambodia, he is generating foreign currency whilst working for the Reconnaissance General Bureau. The Reconnaissance General Bureau of the DPRK is under UN sanctions since UNSCR 2270 (2016) of 2 March 2016. Kim Chol Sok is directly involved in violating UNSC resolutions and providing funds for the DPRK’s illicit programmes.</td></tr>
+<tr><td>39.</td><td>RIM Yong Hyok</td><td>Abu Rim</td><td>DOB: 4.3.1972 POB: DPRK  Nationality: DPRK  Gender: male  Deputy Representative for the Korea Mining Development Trading Corporation (KOMID) in Syria </td><td>31.5.2024</td><td>Rim Yong Hyok is the Deputy Representative for the UN-sanctioned Korea Mining Development Trading Corporation (KOMID) in Syria, which is the primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons from the DPRK. According to the United Nations Security Council Report on the Korea Mining and Development Trading Company (KOMID) and its subsidiary proxy cells, DPRK state-owned enterprises have been known to play a major role in the DPRK’s arms sales in global conflicts. Rim Yong Hyok has been promoting and supplying DPRK-made weapons and ammunition in Syria, including to Russian nationals, prompting his designation under US sanctions. He is directly involved in the DPRK’s illicit programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+**(b) Legal persons, entities and bodies designated in accordance with point (a) of Article 34(4)**
+
+<table>
+<tbody><tr><td>  </td><td>Name (and possible aliases)</td><td>Alias</td><td>Location</td><td>Date of designation</td><td>Reasons</td></tr>
+<tr><td>1.</td><td>Korea Pugang mining and Machinery Corporation ltd</td><td>  </td><td>  </td><td>22.12.2009</td><td>Subsidiary of Korea Ryongbong General Corporation (entity designated by the UNSC, 24.4.2009); operates facilities for the production of aluminium powder, which can be used in missiles.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>2.</td><td>Korean Ryengwang Trading Corporation a.k.a. KOREA RYONGWANG TRADING CORPORATION </td><td>  </td><td>Rakwon-dong, Pothonggang District, Pyongyang, DPRK</td><td>22.12.2009</td><td>Subsidiary of Korea Ryongbong General Corporation (entity designated by the UNSC, 24.4.2009).</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>3.</td><td>Sobaeku United Corp. (alias Sobaeksu United Corp.)</td><td>  </td><td>  </td><td>22.12.2009</td><td>State-owned company, involved in research into, and the acquisition, of sensitive products and equipment. It possesses several deposits of natural graphite, which provide raw material for two processing facilities, which, inter alia, produce graphite blocks that can be used in missiles.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>4.</td><td>Yongbyon Nuclear Scientific Research Centre 녕변 원자력 연구소  영변 원자력 연구소 </td><td>  </td><td>  </td><td>22.12.2009</td><td>Facilities capable of producing fissile material for military uses, including a 5MW (e) reactor, a plutonium reprocessing facility (radio-chemical laboratory), a Light Water Reactor (LWR) and a reported uranium enrichment facility. The Centre is maintained by the General Bureau of Atomic Energy (entity designated by the UNSC, 16.7.2009). In June 2024, the International Atomic Energy Agency (IAEA) stated that they had observed the intermittent discharge of water from the cooling system of the LWR at Yongbyon since December 2023, consistent with the operation of the LWR. The IAEA also detected ongoing indications of operation of the 5MW(e) reactor and of the reported centrifuge enrichment facility. The UN Panel of Experts, in its March 2024 report, also detected significant ongoing activity at Yongbyon. Satellite imagery taken throughout 2025 confirmed continued operations and the completion of several new construction projects.</td></tr>
+<tr><td colspan="6"> —————</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>5.</td><td>Korean People’s Army 조선인민군 </td><td>  </td><td>  </td><td>16.10.2017</td><td>The Korean People’s Army includes the Strategic Force (previously Strategic Rocket Force), which controls the DPRK’s nuclear and conventional strategic missile units. The Strategic Rocket Force has been listed by the United Nations Security Council Resolution 2356 (2017).</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>6.</td><td>Ministry of Rocket Industry 로케트공업부 </td><td>Rocket Industry Department</td><td>Pyongchon, DPRK</td><td>12.12.2022</td><td>The UN Panel of Experts received information on an individual employed by companies linked to the Ministry of Rocket Industry who is involved in the procurement of finance through the sale of voice-phishing hacking applications. The UN Panel of Experts has also received information from multiple UN Member States on an individual procuring aluminium powder and other commodities known to be used in solid-fuel propellant for the Ministry of Rocket Industry. The UN Panel reports that the Ministry of Rocket Industry is an agency of the Munitions Industry Department. As the Munitions Industry Department is responsible for the development of nuclear and missile technology, the funding procured by the Ministry of Rocket Industry could be used to support the development of nuclear and missile technology prohibited by UNSCRs.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>7.</td><td>Hapjanggang Trading Corporation 합장강무역회사 </td><td>  </td><td>  </td><td>31.5.2024</td><td>The UN Panel of Experts reports that the ‘Hapjanggang Trading Corporation’ is a subordinate to the Ministry of Rocket Industry of the DPRK. The Ministry of Rocket Industry is an agency of the Munitions Industry Department, which is responsible for the development of nuclear and missile technology. As such, the entity is directly involved in the DPRK’s illicit programmes.</td></tr>
+<tr><td colspan="6"></td></tr>
+</tbody>
+</table>
+
+**(c) Natural persons designated in accordance with point (b) of Article 34(4)**
+
+<table>
+<tbody><tr><td>  </td><td>Name (and possible aliases)</td><td>Alias</td><td>Identifying information</td><td>Date of designation</td><td>Reasons</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>1.</td><td>JON Il-chun 전일춘 </td><td>JON Il Chun</td><td>DOB: 24.8.1941 Gender: male </td><td>22.12.2010</td><td>Former Director of ‘Office 39’, an office of the Worker’s Party of Korea responsible for acquiring hard currency, and former Director General of the State Development Bank. In this capacity, he was responsible for procuring financial resources that could be used to support the nuclear and ballistic missile programme. ‘Office 39’ was also in charge of bypassing sanctions by purchasing goods through DPRK diplomatic representations. Representative of the National Defence Commission, which was a key body for national defence matters in the DPRK, he was elected director-general of the State Development Bank in March 2010. Elected Workers’ Party of Korea Central Committee alternate member in May 2016 at the 7th Party Congress of Workers’ Party of Korea.</td></tr>
+<tr><td>2.</td><td>KIM Tong-un 김동운 </td><td>KIM Tong Un</td><td>DOB: 1.11.1936 Gender: male </td><td>22.12.2009</td><td>Former director of ‘Office 39’ of the Central Committee of the Workers’ Party of Korea, which was involved in proliferation financing. He may have also worked in another Party unit, ‘Office 38’, to raise funds for the leadership and elites that could have supported the nuclear and ballistic missile programme.</td></tr>
+<tr><td>3.</td><td>KIM Yong Nam 김영남 </td><td>KIM Yong-Nam, KIM Young-Nam, KIM Yong-Gon</td><td>DOB: 2.12.1947 POB: Sinuju, DPRK  Gender: male </td><td>20.4.2018</td><td>KIM Yong Nam has been identified by the Panel of Experts as an agent of the Reconnaissance General Bureau, an entity that has been designated by the United Nations. He and his son KIM Su Gwang have been identified by the Panel of Experts as engaging in a pattern of deceptive financial practices, which could have contributed to the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. KIM Yong Nam opened various current and savings accounts in the European Union and was involved in various large bank transfers to bank accounts in the European Union or to accounts outside the European Union while working as a diplomat, including to accounts in the name of his son KIM Su Gwang and daughter-in-law KIM Kyong Hui.</td></tr>
+<tr><td>4.</td><td>DJANG Tcheul Hy 장철희 </td><td>JANG Tcheul-hy, JANG Cheul-hy, JANG Chol-hy, DJANG Cheul-hy, DJANG Chol-hy, DJANG Tchoul-hy, KIM Tcheul-hy</td><td>DOB: 11.5.1950 POB: Kangwon  Gender: female </td><td>20.4.2018</td><td>DJANG Tcheul Hy was involved together with her husband KIM Yong Nam, her son KIM Su Gwang and her daughter-in-law KIM Kyong Hui in a pattern of deceptive financial practices, which could have contributed to the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. She was the owner of several bank accounts in the European Union, which were opened by her son KIM Su Gwang in her name. She was also involved in several bank transfers from accounts from her daughter-in-law KIM Kyong Hui to bank accounts outside the Union.</td></tr>
+<tr><td>5.</td><td>KIM Su Gwang 김수광 </td><td>KIM Sou-Kwang, KIM Sou-Gwang, KIM Son-Kwang, KIM Su-Kwang, KIM Soukwang, KIM Su-gwang, KIM Son-gwang</td><td>DOB: 18.8.1976 POB: Pyongyang, DPRK  Diplomat, DPRK Embassy, Belarus  Gender: male </td><td>20.4.2018</td><td>KIM Su Gwang has been identified by the Panel of Experts as an agent of the Reconnaissance General Bureau, an entity that has been designated by the United Nations. He and his father KIM Yong Nam have been identified by the Panel of Experts as engaging in a pattern of deceptive financial practices, which could have contributed to the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. KIM Su Gwang opened multiple bank accounts in several Member States, including under family members’ names. He was involved in various large bank transfers to bank accounts in the European Union or to accounts outside the European Union while working as a diplomat, including to accounts in the name of his spouse KIM Kyong Hui.</td></tr>
+<tr><td>6.</td><td>KIM Kyong Hui 김경희 </td><td>  </td><td>DOB: 6.5.1981 POB: Pyongyang, DPRK  Gender: female </td><td>20.4.2018</td><td>KIM Kyong Hui was involved together with her husband KIM Su Gwang, her father-in-law KIM Yong Nam and her mother-in-law DJANG Tcheul Hy in a pattern of deceptive financial practices, which could have contributed to the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. She received several bank transfers from her husband KIM Su Gwang and father-in-law KIM Yong Nam, and transferred money to accounts outside the Union in her name or the name of her mother-in-law, DJANG Tcheul Hy.</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>7.</td><td>KIM Kyong Nam 김경남 </td><td>  </td><td>DOB: 11.07.1976 Nationality: DPRK  Gender: male  Foreign Trade Bank of the Democratic People’s Republic of Korea Representative in Khabarovsk, Russian Federation </td><td>31.5.2024</td><td>The UN Panel of Experts has received information from multiple UN Member States on Kim Kyong Nam being a representative of the Foreign Trade Bank (FTB), the DPRK’s primary foreign exchange bank. FTB was sanctioned by the Security Council Committee established pursuant to UNSCR 1718 (2006) on 26 July 2022. In his position, Kim Kyong Nam is directly involved in providing support for the DPRK’s illicit programmes.</td></tr>
+</tbody>
+</table>
+
+**(d) Legal persons, entities and bodies designated in accordance with point (b) of Article 34(4)**
+
+|  | Name (and possible aliases) | Alias | Location | Date of designation | Reasons |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Korea Namgang Trading Corporation (NTC) 조선남강무역회사 | Korea Namgang Trading Company | Pyongyang, DPRK | 31.5.2024 | The Korea Namgang Trading Corporation is responsible for the expatriation of workers from the DPRK including expatriation to generate revenue for the DPRK government or the Workers’ Party of Korea. The Namgang Trading Corporation is involved in the logistics cycle of expatriating workers and handles DPRK personnel’s visas, passports and departures for overseas employment. Its personnel then remit funds back to the DPRK, some of which are routed directly back to the DPRK government. The DPRK’s continued expatriation of DPRK nationals as illicit labourers is part of an ongoing effort to undermine and evade UNSCR 2375 (2017) and UNSCR 2397(2017). |
+
+**(e) Natural persons designated in accordance with point (c) of Article 34(4)**
+
+**(f) Legal persons, entities and bodies designated in accordance with point (c) of Article 34(4)**
+
+|  | Name | Alias | Identifying information | Date of designation | Reasons |
+| --- | --- | --- | --- | --- | --- |
+| 1. | Unica |  | Type of ship: delivery vessel, oil tanker Principal place of business: DPRK, People’s Republic of China IMO: 8514306 | 12.12.2022 | The oil tanker and delivery vessel Unica actively participates in ship-to-ship transfers of refined petroleum and vessel identity laundering in order to effectively deliver refined petroleum to the DPRK, in violation of UNSCR 2397 (2017). Unica is regularly cited by the UN Panel of Experts pursuant to UNSCR 1874 (2009) for designation by the Committee. Unica is therefore involved in supplies that could contribute to the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. |
+| 2. | New Konk |  | Type of ship: delivery vessel, oil tanker Owner: New Konk Ocean International Company Limited Principal place of business: DPRK, People’s Republic of China IMO: 9036387 | 12.12.2022 | The oil tanker and delivery vessel New Konk actively participates in ship-to-ship transfers of refined petroleum and vessel identity laundering in order to effectively deliver refined petroleum to the Democratic People’s Republic of Korea, in violation of UNSCR 2397 (2017). New Konk is regularly cited by the UN Panel of Experts pursuant to UNSCR 1874 (2009) for designation by the Committee. New Konk is therefore involved in supplies that could contribute to the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. |
+
+## ANNEX XVI
+
+**List of persons, entities or bodies referred to in Article 34(1) and 34(3)**
+
+**(a) Natural persons**
+
+<table>
+<tbody><tr><td>  </td><td>Name (and possible aliases)</td><td>Identifying information</td><td>Date of designation</td><td>Reasons</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>1.</td><td>KIM Hyok Chan 김혁찬 </td><td>Date of birth: 9.6.1970 Passport number: 563410191 </td><td>16.10.2017</td><td>Kim Hyok Chan has served as Secretary at the DPRK embassy in Angola and as representative of Green Pine, a UN listed entity, including negotiating contracts for the refurbishment of Angolan naval vessels in violation of the prohibitions imposed by United Nations Security Council Resolutions.</td></tr>
+<tr><td>2.</td><td>CHOE Chan Il 촤찬일 </td><td>  </td><td>22.1.2018</td><td>Director of the Dandong office of Korea Heungjin Trading Company, a UN designated entity. Korea Heungjin is used by KOMID, another UN designated entity, for trading purposes. KOMID was designated by the UN Sanctions Committee in April 2009 and is the DPRK’s primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td>3.</td><td>KIM Chol Nam 김철남 </td><td>  </td><td>22.1.2018</td><td>Dandong branch of Sobaeksu United Director of the Corp which has been designated by the Union. Representative of the Beijing branch of Korea Changgwang Trading Corporation, which has been identified by the UN Panel of Experts as an alias of KOMID. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons.</td></tr>
+<tr><td>4.</td><td>JON Chol Young a.k.a: JON Chol Yong  전철영 </td><td>Date of birth: 30.4.1975 Passport number: 563410192  Diplomat DPRK Embassy, Angola </td><td>22.1.2018</td><td>Former representative in Angola of Green Pine Associated Corporation and DPRK diplomat accredited to Angola. Green Pine has been designated by the UN for activities including violating the UN arms embargo. Green Pine has also negotiated contracts for the refurbishment of Angolan naval vessels in violation of the prohibitions imposed by United Nations Security Council Resolutions. </td></tr>
+<tr><td>5.</td><td>AN Jong Hyuk a.k.a: An Jong Hyok  안정혁  안종혁 </td><td>Date of birth: 14.3.1970 Passport number: 563410155 </td><td>22.1.2018</td><td>Representative of Saeng Pil Trading Corporation, an alias of Green Pine Associated Corporation, and DPRK diplomat in Egypt. Green Pine has been designated by the UN for activities including breach of the UN arms embargo.  An Jong Hyuk was authorized to conduct all types of business on behalf of Saeng Pil, including signing and implementing contracts and banking business. The company specializes in the construction of naval vessels and the design, fabrication and installation of electronic communication and marine navigation equipment. </td></tr>
+<tr><td>6.</td><td>YUN Chol a.k.a. CHOL Yun 윤철 </td><td>  </td><td>22.1.2018</td><td>Yun Chol has been identified by the UN Panel of Experts as contact person of the DPRK Company General Precious Metal involved in the sale of lithium-6, a UN prohibited nuclear-related item, and DPRK diplomat. General Precious Metal has previously been identified by the Union as an alias of the UN designated entity Green Pine. </td></tr>
+<tr><td>7.</td><td>CHOE Kwang Hyok 최광혁 </td><td>  </td><td>22.1.2018</td><td>Choe Kwang Hyok has served as a representative of Green Pine Associated Corporation, a UN designated entity. Choe Kwang Hyok has been identified by the UN Panel of Experts as chief executive of Beijing King Helong International Trading Ltd, an alias of Green Pine. He has also been identified by the UN Panel of Experts as director of Hong Kong King Helong Int'l Trading Ltd and operator of the DPRK entity named Beijing representative office of Korea Unhasu Trading Company, which are also aliases of Green Pine. </td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>8.</td><td>KIM Chang Hyok a.k.a: James Kim  김창혁 </td><td>Date of birth: 29.4.1963 Place of birth: N. Hamgyong  Passport number: 472130058  Gender: male </td><td>22.1.2018</td><td>Kim Chang Hyok has been identified by the UN Panel of Experts as the representative of Pan Systems Pyongyang in Malaysia. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. Established multiple accounts in Malaysia in the name of front companies of ‘Glocom’, itself a front company of designated entity Pan Systems Pyongyang. The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms. The September 2023 Report of the UN Panel of Experts identified Pan Systems as exporting and providing training in the use of military telecommunications equipment to the Ethiopian armed forces via front companies in Malaysia and Indonesia. </td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>9.</td><td>PARK Young Han 박영한 </td><td>  </td><td>22.1.2018</td><td>Director of Beijing New Technology which has been identified by the UN Panel of Experts as a front company of KOMID. KOMID was designated by the Sanctions Committee in April 2009 and is the DPRK's primary arms dealer and main exporter of goods and equipment related to ballistic missiles and conventional weapons. Legal representative of Guancaiweixing Trading Co., Ltd, which was identified by the UN Panel of Experts as the shipper of an intercepted shipment to Eritrea of military-related items in August 2012. </td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>10.</td><td>RYANG Su Nyo 량수니오 </td><td>Date of birth: 11.8.1959 Place of birth: Japan  Gender: male </td><td>22.1.2018</td><td>Director of Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms. The September 2023 Report of the UN Panel of Experts identified the company as exporting and providing training in the use of military telecommunications equipment to the Ethiopian armed forces via front companies in Malaysia and Indonesia.</td></tr>
+<tr><td>11.</td><td>PYON Won Gun 변원군 </td><td>Date of birth: 13.3.1968 Place of birth: S. Phyongan  Service passport number: 836220035  Passport number: 290220142  Gender: male </td><td>22.1.2018</td><td>Director of Glocom, a front company of Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. Glocom advertises radio communications equipment for military and paramilitary organizations.  Pyon Won Gun has also been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms. As of July 2024, Glocom continued to operate and was actively selling military telecommunications equipment. </td></tr>
+<tr><td>12.</td><td>PAE Won Chol 배원철 </td><td>Date of birth: 30.8.1969 Place of birth: Pyongyang  Diplomatic Passport number: 654310150  Gender: male </td><td>22.1.2018</td><td>Pae Won Chol has been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms. The September 2023 Report of the UN Panel of Experts identified the company as exporting and providing training in the use of military telecommunications equipment to the Ethiopian armed forces via front companies in Malaysia and Indonesia.</td></tr>
+<tr><td>13.</td><td>RI Sin Song 리신송 </td><td>Gender: male</td><td>22.1.2018</td><td>Ri Sin Song has been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms. The September 2023 Report of the UN Panel of Experts identified the company as exporting and providing training in the use of military telecommunications equipment to the Ethiopian armed forces via front companies in Malaysia and Indonesia.</td></tr>
+<tr><td>14.</td><td>KIM Sung Su 김성수 </td><td>Gender: male</td><td>22.1.2018</td><td>Kim Sung Su has been identified by the UN Panel of Experts as representative of Pan Systems Pyongyang in China. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms. The September 2023 Report of the UN Panel of Experts identified the company as exporting and providing training in the use of military telecommunications equipment to the Ethiopian armed forces via front companies in Malaysia and Indonesia.</td></tr>
+<tr><td>15.</td><td>KIM Pyong Chol 김병철 </td><td>Gender: male</td><td>22.1.2018</td><td>Kim Pyong Chol has been identified by the UN Panel of Experts as a DPRK national operating Pan Systems Pyongyang. Pan Systems Pyongyang has been designated by the Union for assisting in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau which has been designated by the United Nations. The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms. The September 2023 Report of the UN Panel of Experts identified the company as exporting and providing training in the use of military telecommunications equipment to the Ethiopian armed forces via front companies in Malaysia and Indonesia.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>16.</td><td>CHOE Kwang Su 최광수 </td><td>Date of birth: 20.4.1955 Passport number: 381210143 (expiration date: 3.6.2016) </td><td>22.1.2018</td><td>Choe Kwang Su has been identified by the UN Panel of Experts as a representative of Haegeumgang Trading Company. In this capacity Choe Kwang Su signed a DPRK – Mozambique military cooperation contract in violation of the prohibitions imposed by United Nations Security Council Resolutions. The contract concerned the supply of arms and arm-related material to Monte Binga, a company controlled by the Government of Mozambique.</td></tr>
+<tr><td>17.</td><td>PAK In Su a.k.a: Daniel Pak  박인수 </td><td>Date of birth: 22.5.1957 Place of birth: N. Hamgyong  Diplomatic passport number: 290221242 </td><td>22.1.2018</td><td>Pak In Su has been identified by the UN Panel of Experts as being involved in activities related to the sale of coal from DPRK in Malaysia in violation of the prohibitions imposed by the United Nations Security Council Resolutions.</td></tr>
+<tr><td>18.</td><td>SON Young-Nam 손영남 </td><td>  </td><td>22.1.2018</td><td>Son Young-Nam has been identified by the UN Panel of Experts as being involved in the smuggling of gold and other items to the DPRK in violation of the prohibitions imposed by United Nations Security Council Resolutions.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>19.</td><td>KIM Il-Su a.k.a. KIM Il Su  김일수 </td><td>DOB: 2.9.1965 POB: Pyongyang, DPRK  Gender: male </td><td>3.7.2015</td><td>Manager in the reinsurance department of the Korea National Insurance Corporation (KNIC) based in the headquarters in Pyongyang and former authorised chief representative of KNIC in Hamburg, acting on behalf of KNIC or at its direction. The UN Panel of Experts in its September 2023 and March 2024 reports found that KNIC continued to operate and expand its activities in various third countries.</td></tr>
+<tr><td>20.</td><td>KANG Song-Sam a.k.a. KANG Song Sam </td><td>DOB: 5.7.1972 POB: Pyongyang, DPRK  Gender: male </td><td>3.7.2015</td><td>Former authorised representative of the Korea National Insurance Corporation (KNIC) in Hamburg, continues to act for or on behalf of KNIC or at its direction. The UN Panel of Experts in its September 2023 and March 2024 reports found that KNIC continued to operate and expand its activities in various third countries.</td></tr>
+<tr><td>21.</td><td>CHOE Chun-Sik a.k.a. CHOE Chun Sik  최천식 </td><td>DOB: 23.12.1963 POB: Pyongyang, DPRK  Passport number: 745132109  Valid until 12.2.2020  Gender: male </td><td>3.7.2015</td><td>Director in the reinsurance department of the Korea National Insurance Corporation (KNIC) based in the headquarters in Pyongyang acting on behalf of KNIC or at its direction. The UN Panel of Experts in its September 2023 and March 2024 reports found that KNIC continued to operate and expand its activities in various third countries.</td></tr>
+<tr><td>22.</td><td>SIN Kyu-Nam a.k.a. SIN Kyu Nam  신규남 </td><td>DOB: 12.9.1972 POB: Pyongyang, DPRK  Passport number: PO472132950  Gender: male </td><td>3.7.2015</td><td>Director in the reinsurance department of the Korea National Insurance Corporation (KNIC) based in the headquarters in Pyongyang and former authorised representative of KNIC in Hamburg, acting on behalf of KNIC or at its direction. The UN Panel of Experts in its September 2023 and March 2024 reports found that KNIC continued to operate and expand its activities in various third countries.</td></tr>
+<tr><td>23.</td><td>PAK Chun-San a.k.a. PAK Chun San  박천산 </td><td>DOB: 18.12.1953 POB: Pyongyang, DPRK  Passport number: PS472220097  Gender: male </td><td>3.7.2015</td><td>Director in the reinsurance department of the Korea National Insurance Corporation (KNIC) based in the headquarters in Pyongyang at least until December 2015 and former authorised chief representative of KNIC in Hamburg, continues to act for or on behalf of KNIC or at its direction. The UN Panel of Experts in its September 2023 and March 2024 reports found that KNIC continued to operate and expand its activities in various third countries.</td></tr>
+<tr><td>24.</td><td>SO Tong Myong 서동명 </td><td>DOB: 10.9.1956 Gender: male </td><td>3.7.2015</td><td>Former president of the Korea National Insurance Corporation (KNIC), former KNIC Executive Management Committee Chairman (June 2012); former KNIC General Manager, September 2013, acting on behalf of KNIC or at its direction. The UN Panel of Experts in its September 2023 and March 2024 reports found that KNIC continued to operate and expand its activities in various third countries.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>25.</td><td>PAK Hwa Song a.k.a. PAK Hwa-Song  박화성 </td><td>Co-founder of the CONGO ACONDE company POB: DPRK  Passport number: 654331357  Nationality: DPRK  Gender: male  Address: Democratic Republic of the Congo (DRC) </td><td>21.4.2022</td><td>Pak Hwa Song is engaged in sanctions evasion and responsible for supporting financially the DPRK’s nuclear and ballistic programmes. He is co-founder of the CONGO ACONDE company, a front company of the PAEKHO TRADING CORPORATION. PAEKHO is involved in the export of statues to several Sub-Saharan countries in violation of UN sanctions. Pak also opened a bank account in a Lubumbashi branch of a Cameroon-based bank in violation of UNSC resolutions. Pak works with Hwang Kil Su. He provides financial services supporting the DPRK’s regime and nuclear programmes.</td></tr>
+<tr><td>26.</td><td>HWANG Kil Su a.k.a. HWANG Kil-Su  황길수 </td><td>Co-founder of the CONGO ACONDE company POB: DPRK  Passport number: 654331363  Nationality: DPRK  Gender: male  Address: Democratic Republic of the Congo (DRC) </td><td>21.4.2022</td><td>Hwang Kil Su is engaged in sanctions evasion and responsible for supporting financially the DPRK’s nuclear and ballistic programmes. He is co-founder of the CONGO ACONDE company, a front company of the PAEKHO TRADING CORPORATION. PAEKHO is involved in the export of statues to several Sub-Saharan countries in violation of UNSC resolutions. Hwang also opened a bank account in a Lubumbashi branch of a Cameroon-based bank in violation of UNSC resolutions. Hwang works with Pak Hwa Song. He provides financial services supporting the DPRK’s regime and nuclear programmes.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>27.</td><td>IM Song Sun a.k.a. IM Song-Sun </td><td>Nationality: DPRK Gender: male </td><td>21.4.2022</td><td>In his capacity as a representative of the Corman Construction Company (Tong Bang), a front company for the UN-designated Mansudae Overseas Project (MOP) Group (also known as Mansudae Art Studio), Im Song Sun is engaged in sanctions evasion in violation of the provisions of UNSCRs 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) or 2397(2017). He has managed construction by this company in Senegal and has received payments on contracts awarded to MOP and Corman Construction, and therefore he is responsible for financial activities supporting the DPRK’s nuclear and ballistic programmes. The US government sanctioned Im Song Sun in 2023 for similar reasons. The UN Panel of Experts in March 2024 found that artists linked to Mansudae Overseas Project Group continued to operate abroad.</td></tr>
+<tr><td>28.</td><td>CHOE Song Chol a.k.a. CHOE Song-Chol </td><td>Nationality: DPRK Gender: male </td><td>21.4.2022</td><td>In his capacity as a representative of the Corman Construction company (Tong Bang), a front company for UN-designated Mansudae Overseas Project Group (also known as Mansudae Art Studio), Choe Song Chol is engaged in sanctions evasion in violation of the provisions of UNSCRs 1718 (2006), 1874 (2009), 2087 (2013), 2094 (2013), 2270 (2016), 2321 (2016), 2356 (2017), 2371 (2017), 2375 (2017) or 2397(2017). He has managed construction by this company in Senegal and has received payments on contracts awarded to MOP and Corman Construction, and therefore he is responsible for financial activities supporting the DPRK’s nuclear and ballistic programmes. The US government sanctioned Choe Song Chol in 2023 for similar reasons. The UN Panel of Experts in March 2024 found that artists linked to Mansudae Overseas Project Group continued to operate abroad.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>29.</td><td>KIL Jong Hun</td><td>DOB: 7.8.1965 / 20.2.1972 Passport number: 563410081 / 472410022  Nationality: DPRK  Gender: male </td><td>12.12.2022</td><td>In his capacity as a representative for the Korea Mining Development Trading Corporation (KOMID), Kil Jong Hun is responsible for providing assistance in arms procurement for Equatorial Guinea, thus evading the international arms embargo set out in relevant UNSCRs. He has been under US sanctions since 2015. Previously employed as the representative of the designated entity KOMID in Namibia under diplomatic status, he has set up a bank account in South Africa. Due to his position, he continues his proliferation activities for KOMID, providing valuable finance for the DPRK despite international sanctions.</td></tr>
+<tr><td>30.</td><td>PYON Kwang Chol</td><td>DOB: 16.9.1964 Nationality: DPRK  Gender: male </td><td>12.12.2022</td><td>In his capacity as a deputy representative for a suspected front company of the Second Academy of Natural Sciences in Dalian (China), PYON Kwang Chol takes part in activities for a sanctioned entity set out in UNSCR 2094 (2013). This entity is known for its proliferation activities benefitting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. As such, he is directly involved in providing funds and supplies for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>31.</td><td>O Yong Ho</td><td>Date of Birth: 25.12.1961 Passport number: 108410041  Nationality: DPRK  Gender: male </td><td>12.12.2022</td><td>In his capacity as a representative in Moscow, Russian Federation, with direct links to the Second Academy of Natural Sciences, O Yong Ho takes part, under diplomatic status, in activities for a sanctioned entity set out in UNSCR 2094 (2013). This entity is known for its proliferation activities benefiting the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. He sought to procure missile-applicable items from third countries on behalf of the DPRK’s missile program, including aramid fiber, stainless steel tubes, and ball bearings. He has also sought to procure multiple goods controlled by the Nuclear Suppliers Group with ballistic missile applications, including Kevlar thread, aramid fiber, aviation oil, ball bearings, and precision milling machines. As such, he is directly involved in providing funds and supplies for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>32.</td><td>AN Se-Ho 안세호 </td><td>DOB: 15.6.1976 Passport: 572110043  Nationality: DPRK  Gender: male  Intermediary for the construction project of an ammunition factory in Mali </td><td>31.5.2024</td><td>An Se-Ho is a DPRK diplomat who was formerly the First Secretary at the Embassy of the DPRK in Conakry (Guinea). The embassy closed in December 2023. He was the main coordinator for the construction of an ammunition factory in Mali. In 2022, he met the Malian Minister of Territorial Administration and Decentralisation, Abdoulaye Maïga. In November 2022, he also met senior officials of the Malian junta to discuss the construction of the factory in Dialakorobougou, near Bamako.</td></tr>
+<tr><td>33.</td><td>Oleg Nikolaevich KOZHEMYAKO Олег Николаевич КОЖЕМЯКО </td><td>DOB: 17.3.1962 POB: Chernigovka, (Russian: Черниговка), Russian Federation  Passport: 572110043  Nationality: Russian  Gender: male  Governor, Primorsky Krai, Russian Federation </td><td>31.5.2024</td><td>In his capacity as governor of the Primorsky Krai region of the Russian Federation, Oleg Nikolaevich Kozhemyako played an instrumental role in the September 2023 official visit of Kim Jong Un to the Russian Federation. During that visit, Mr. Kozhemyako presented weaponry and uniforms to Kim Jong Un as gifts for him to take back to the DPRK, in violation of UN Security Council resolutions. Such material will then be used by the DPRK armed forces and reengineered, constituting an indirect transfer of technology to the DPRK. He is thus assisting in the evasion of UN sanctions.</td></tr>
+<tr><td colspan="5"></td></tr>
+</tbody>
+</table>
+
+**(b) Legal persons, entities and bodies.**
+
+<table>
+<tbody><tr><td>  </td><td>Name (and possible aliases)</td><td>Location</td><td>Date of designation</td><td>Reasons</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>1.</td><td>Korea International Exhibition Corporation 조선국제전람사 </td><td>Address: Jungsong-dong, Central District, Sungri St, Pyonyang, DPRK Telephone: 850 2 381 5926  Email: kiec@silibank.net.kp </td><td>16.10.2017</td><td>The Korea International Exhibition Corporation has assisted designated entities in the evasion of sanctions by hosting the Pyongyang International Trade Fair, which provides designated entities with the opportunity to breach UN sanctions by continuing economic activity.</td></tr>
+<tr><td>2.</td><td>Korea Rungrado General Trading Corporation a.k.a. Rungrado Trading Corporation  조선릉라도무역총회사 </td><td>Address: Segori-dong, Pothonggang District, Pyongyang, DPRK Telephone: 850-2-18111-3818022  Fax: 850-2-3814507  Email: rrd@co.chesin.com </td><td>16.10.2017</td><td>The Panel of Experts reported that Korea Rungrado General Trading Corporation has assisted in violating sanctions imposed by the United Nations Security Council Resolutions through the sale of Scud missiles to Egypt.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>3.</td><td>Maritime Administrative Bureau a.k.a. Maritime Administration of DPR Korea  a.k.a. DPRK National Maritime Supervision Bureau  조선민주주의인민공화국 국가해사감독국 </td><td>Address: Ryonhwa-2Dong, Central District, Pyongyang, DPRK PO Box 416  Telephone: 850-2-18111 Ex 8059  Fax 850 2 381 4410  Email: mab@silibank.net.kp  Website: www.ma.gov.kp </td><td>16.10.2017</td><td>The Maritime Administrative Bureau has assisted in the evasion of sanctions imposed by the United Nations Security Council including by renaming and re-registering assets of designated entities and providing false documentation to vessels subject to United Nations sanctions.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>4.</td><td>Pan Systems Pyongyang a.k.a. Wonbang Trading Co.; Glocom; International Golden Services; International Global System </td><td>Address: Room 818, Pothonggang Hotel, Ansan-Dong, Pyongchon district, Pyongyang, DPRK</td><td>16.10.2017</td><td>Pan Systems has assisted in the evasion of sanctions imposed by the United Nations Security Council through the attempted sale of arms and related materiel to Eritrea. Pan Systems is also controlled by and works on behalf of the Reconnaissance General Bureau, an entity that has been designated by the United Nations. The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms. The September 2023 Report of the UN Panel of Experts identified the company as exporting and providing training in the use of military telecommunications equipment to the Ethiopian armed forces via front companies in Malaysia and Indonesia. </td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>5.</td><td>Eritech Computer Assembly & Communication Technology PLC</td><td>Address: Denden Street N028, Asmara, 257, Eritrea</td><td>21.4.2022</td><td>Eritech Computer Assembly & Communication technology PLC is placed under the authority or under the direction of the Eritrean Defense Forces and is domiciled within their complex of the Asha Golgol Military Technical Center, used for the production, modification or repair of civil and military and paramilitary equipment. It is engaged in sanctions evasion and responsible for supporting the DPRK’s nuclear and ballistic programmes since it was identified as the intended recipient in July 2016 of a shipment from China of military communications equipment of DPRK origin. Most of the equipment concerned came from GLOCOM, a DPRK company specialised in the supply of military transmission equipment, linked to the DPRK intelligence services in violation, in particular, of UNSCR 2270 (2016). The March 2023 Final Report of the UN Panel of Experts presents information that Pan Systems continues to engage in attempts to export arms.</td></tr>
+<tr><td>6.</td><td>Korea General Corporation for External Construction (Aliases: KOGEN, GENCO) 조선대외건설총회사 </td><td>Address: Taedonggang District, Pyongyang, Democratic People’s Republic of Korea</td><td>21.4.2022</td><td>The Korea General Corporation for External Construction (KOGEN) has advertised itself as using DPRK employees for projects in other countries, including through the official DPRK internet portal Naenara. KOGEN is, thereby, engaged in sanctions evasion by violating UNSCR 2397 (2017), which prohibits the deployment of overseas workers whose wages are paid to the DPRK government and could be used to support the nuclear and ballistic missile programmes, and is responsible for supporting financially the DPRK’s nuclear and ballistic programmes as it transfers all or part of the wages of workers it sends abroad to the regime, a practice prohibited by UNSCR 2397 (2017).</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>7.</td><td>Chilsong Trading Corporation</td><td>Address: Pyongyang, Democratic People’s Republic of Korea</td><td>21.4.2022</td><td>Chilsong Trading Corporation is engaged in sanctions evasion in violation of UNSCR 2270 (2016) and is responsible for supporting the DPRK’s nuclear and ballistic programmes as it is notably represented by a DPRK citizen, CHOE Jin-myong, who markets military communications equipment and negotiated with the DAERYONGGANG TRADING CORPORATION, an entity sanctioned by the United Nations Security Council on 16 July 2009.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>8.</td><td>Korea Paekho Trading Corporation (Alias: Joson Paekho Muyok Hoesa)  조선백호무역회사 </td><td>Address: Chongryu 3-dong, Taedonggang District, Pyongyang, Democratic People’s Republic of Korea</td><td>21.4.2022</td><td>Paekho Trading Corporation is an art company involved in constructing statues overseas, in exporting artwork statues produced by Paekho Art Studio, and facilitates illicit labour and access to international financial systems. It specifically targets development grants and loans, as well as foreign-direct investment earmarked for municipal projects. It is, thereby, engaged in the evasion of sanctions and responsible for supporting financially the DPRK’s nuclear and ballistic programmes. In July 2024, the company was seen participating in a trade fair of DPRK products in Vladivostok, Russia, and in November 2024, it was seen participating in the 16th Pyongyang Autumn International Trade Fair.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>9.</td><td>Korea Rounsan Trading Corporation 로은산무역회사 </td><td>  </td><td>12.12.2022</td><td>The Korean Rounsan Trading Corporation is a subordinate company of the Ministry of Rocket Industry of the DPRK. As such, the entity is directly involved in providing support for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes. The company is particularly involved in establishing joint ventures in the DPRK, promoting large-scale projects with Chinese companies, sending DPRK workers, and managing the procurement of large European equipment.</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>10.</td><td>Eastern Stevedoring Company (a.k.a. Vostochnaya Stevedoring Company LLC) OOO ‘Восточная Стивидорная Компания’ </td><td>Address: 14a, ul. Vnutriportovaya. Vrangel-1 692941 Nakhodka, Russian Federation</td><td>31.5.2024</td><td>The Eastern Stevedoring Company, also known as the Vostochnaya Stevedoring Company, operates the terminals at the main container port of the Russian Far-East in Vostochny Port. It is through this port in the Russian Federation that thousands of containers of DPRK weapons and ammunition have been transferred to the Russian armed forces before being transported to near the front line in Ukraine. As operator of Vostochny Port, the Eastern Stevedoring Company has been involved in arms transfers from the DPRK to the Russian Federation, in violation of UNSCR 1718 (2006) and UNSCR 1874 (2009).</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>11.</td><td>Royal Shune Lei</td><td>Address: Building 37, Room 6, Bahosi Housing, Lanmadaw Township, Yangon, Myanmar/Burma</td><td>16.12.2024</td><td>The UN Panel of Experts reports that Royal Shune Lei, a Myanmar/Burma company working as an intermediary firm for the armed forces of Myanmar/Burma, is identified as working with the Korea Mining Development Trading Corporation (KOMID) for supply of arms and weapons from the DPRK. Such arms transfers from the DPRK are a breach of UN Security Council Resolutions. As such, the entity is assisting in the evasion of UN sanctions.</td></tr>
+</tbody>
+</table>
+
+## ANNEX XVII
+
+**List of persons, entities or bodies referred to in Article 34(1) and 34(3)**
+
+## ANNEX XVIII — Vessels referred to in points (d), (e) and (f) of Article 43(1)
+
+( 1 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms (OJ L 176, 27.6.2013, p. 1).
+
+( 2 ) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+
+( 3 ) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).
+
+( 4 ) Directive 2004/39/EC of the European Parliament and of the Council of 21 April 2004 on markets in financial instruments amending Council Directives 85/611/EEC and 93/6/EEC and Directive 2000/12/EC of the European Parliament and of the Council and repealing Council Directive 93/22/EEC (OJ L 145, 30.4.2004, p. 1).
+
+( 5 ) Directive 2002/92/EC of the European Parliament and of the Council of 9 December 2002 on insurance mediation (OJ L 9, 15.1.2003, p. 3).
+
+( 6 ) Directive 2007/64/EC of the European Parliament and of the Council of 13 November 2007 on payment services in the internal market (OJ L 319, 5.12.2007, p. 1).
+
+( 7 ) Directive 2009/110/EC of the European Parliament and of the Council of 16 September 2009 on the taking up, pursuit and prudential supervision of the business of electronic money institutions (OJ L 267, 10.10.2009, p. 7).
+
+( 8 ) Regulation (EU) No 260/2012 of the European Parliament and of the Council of 14 March 2012 establishing technical and business requirements for credit transfers and direct debits in euro and amending Regulation (EC) No 924/2009 (OJ L 94, 30.3.2012, p. 22)
+
+( 9 ) Council Regulation (EC) No 428/2009 of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items (OJ L 134, 29.5.2009, p. 1).
+
+( 10 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 11 ) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 29.12.2015, p. 1).
+
+( 12 ) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558).
+
+( 13 ) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+
+( 14 ) Regulation (EU) 2015/847 of the European Parliament and of the Council of 20 May 2015 on information accompanying transfers of funds and repealing Regulation (EC) No 1781/2006 (OJ L 141, 5.6.2015, p. 1).

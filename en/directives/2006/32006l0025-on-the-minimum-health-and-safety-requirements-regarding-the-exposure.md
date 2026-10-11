@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on the minimum health and safety requirements regarding the exposure of workers to risks arising from physical agents (artificial optical radiation) (19th individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE 2007/30/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 20 June 2007</td><td> L 165</td><td>21</td><td>27.6.2007</td></tr>
 <tr><td> M2</td><td>REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008</td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
 <tr><td></td><td>COUNCIL DIRECTIVE 2013/64/EU of 17 December 2013</td><td> L 353</td><td>8</td><td>28.12.2013</td></tr>
 <tr><td></td><td>REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019</td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+</table>
 
 **DIRECTIVE 2006/25/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -323,6 +325,7 @@ Hskin radiant exposure: the time and wavelength integral or sum of the irradianc
 
 **Exposure limit values for non-coherent optical radiation**
 
+<table>
 <tbody><tr><td>Index</td><td>Wavelength nm</td><td>Exposure limit value</td><td>Units</td><td>Comment</td><td>Part of the body</td><td>Hazard</td></tr>
 <tr><td>a.</td><td>180-400 (UVA, UVB and UVC) </td><td>Heff = 30 Daily value 8 hours </td><td>[J m-2]</td><td>  </td><td><br> <br><table><tbody><tr><td>eye</td><td>cornea conjunctiva  lens </td></tr>
 </tbody>
@@ -345,6 +348,7 @@ Hskin radiant exposure: the time and wavelength integral or sum of the irradianc
 <tr><td>o.</td><td>380-3 000  (Visible, IRA  and IRB) </td><td>Hskin = 20 000 t0,25 for t &lt; 10 s </td><td>H: [J m-2] t: [seconds] </td><td>  </td><td>skin</td><td>burn</td></tr>
 <tr><td colspan="7">Note 1: The range of 300 to 700 nm covers parts of UVB, all UVA and most of visible radiation; however, the associated hazard is commonly referred to as ‘blue light’ hazard. Blue light strictly speaking covers only the range of approximately 400 to 490 nm. Note 2: For steady fixation of very small sources with an angular subtense &lt; 11 mrad, LB can be converted to EB. This normally applies only for ophthalmic instruments or a stabilized eye during anaesthesia. The maximum ‘stare time’ is found by: tmax = 100/EB with EB expressed in W m-2. Due to eye movements during normal visual tasks this does not exceed 100 s. </td></tr>
 </tbody>
+</table>
 
 **Table 1.2**
 
@@ -514,6 +518,7 @@ G integrated radiance: the integral of the radiance over a given exposure time e
 
 **Applied correction factors and other calculation parameters**
 
+<table>
 <tbody><tr><td>Parameter as listed in ICNIRP</td><td>Valid spectral range (nm)</td><td>Value</td></tr>
 <tr><td rowspan="3">CA</td><td>λ &lt; 700</td><td>CA = 1,0 </td></tr>
 <tr><td>700 — 1 050 </td><td>CA = 10 0,002 (λ - 700)</td></tr>
@@ -527,11 +532,13 @@ G integrated radiance: the integral of the radiance over a given exposure time e
 <tr><td>450 — 500</td><td>T1 = 10 · [10 0,02 (λ - 450)] s</td></tr>
 <tr><td>λ &gt; 500</td><td>T1 = 100 s</td></tr>
 </tbody>
+</table>
 
 | Parameter as listed in ICNIRP | Valid for biological effect | Value |
 | --- | --- | --- |
 | αmin | all thermal effects | αmin = 1,5 mrad |
 
+<table>
 <tbody><tr><td>Parameter as listed in ICNIRP</td><td>Valid angular range (mrad)</td><td>Value</td></tr>
 <tr><td rowspan="3">CE</td><td>α &lt; αmin</td><td>CE = 1,0 </td></tr>
 <tr><td>αmin &lt; α &lt; 100</td><td>CE = α/αmin</td></tr>
@@ -540,12 +547,15 @@ G integrated radiance: the integral of the radiance over a given exposure time e
 <tr><td>1,5 &lt; α &lt; 100</td><td>T2 = 10 · [10 (α - 1,5 ) / 98,5 ] s</td></tr>
 <tr><td>α &gt; 100</td><td>T2 = 100 s</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Parameter as listed in ICNIRP</td><td>Valid exposure time range (s)</td><td>Value</td></tr>
 <tr><td rowspan="3">γ</td><td>t ≤ 100</td><td>γ = 11 [mrad]</td></tr>
 <tr><td>100 &lt; t &lt; 104</td><td>γ = 1,1 t 0,5  [mrad]</td></tr>
 <tr><td>t &gt; 104</td><td>γ = 110 [mrad]</td></tr>
 </tbody>
+</table>
 
 **Table 2.6**
 
@@ -559,6 +569,7 @@ Each of the following three general rules should be applied to all repetitive ex
 
 3\. The exposure from any single pulse within a group of pulses shall not exceed the single-pulse exposure limit value multiplied by a cumulative-thermal correction factor Cp=N-0,25 , where N is the number of pulses. This rule applies only to exposure limits to protect against thermal injury, where all pulses delivered in less than Tmin are treated as a single pulse.
 
+<table>
 <tbody><tr><td>Parameter</td><td>Valid spectral range (nm)</td><td>Value</td></tr>
 <tr><td rowspan="7">Tmin</td><td>315 &lt; λ ≤ 400</td><td>Tmin = 10 -9 s (= 1 ns)</td></tr>
 <tr><td>400 &lt; λ ≤ 1 050 </td><td>Tmin = 18· 10 -6 s (= 18 μs)</td></tr>
@@ -568,6 +579,7 @@ Each of the following three general rules should be applied to all repetitive ex
 <tr><td>1 800 &lt; λ ≤ 2 600 </td><td>Tmin = 10 -3 s (= 1 ms)</td></tr>
 <tr><td>2 600 &lt; λ ≤ 10 6</td><td>Tmin = 10 -7 s (= 100 ns)</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 245, 26.8.1992, p. 23.
 

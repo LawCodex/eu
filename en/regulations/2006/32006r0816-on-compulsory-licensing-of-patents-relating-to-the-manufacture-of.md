@@ -1,0 +1,315 @@
+---
+title: "Regulation (EC) No 816/2006 of the European Parliament and of the Council of 17 May 2006 on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems"
+identifier: "32006R0816"
+eli: "http://data.europa.eu/eli/reg/2006/816/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-05-17
+entry_into_force: 2006-05-25
+last_amended: 2026-01-19
+consolidated_version: "02006R0816-20260119"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R0816-20260119"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 816/2006 of the European Parliament and of the Council of 17 May 2006 on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems
+
+**REGULATION (EC) No 816/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 May 2006**
+
+**on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/2645 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2025 </td><td> L 2645</td><td>1</td><td>30.12.2025</td></tr>
+</table>
+
+**REGULATION (EC) No 816/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 May 2006**
+
+**on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems**
+
+## Article 1 — Scope
+
+This Regulation establishes a procedure for the grant of compulsory licences in relation to patents and supplementary protection certificates concerning the manufacture and sale of pharmaceutical products, when such products are intended for export to eligible importing countries in need of such products in order to address public health problems.
+
+Member States shall grant a compulsory licence to any person making an application in accordance with Article 6 and subject to the conditions set out in Articles 6 to 10.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘pharmaceutical product’ means any product of the pharmaceutical sector, including medicinal products as defined in Article 1(2) of Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use ( 1 ), active ingredients and diagnostic kits ex vivo;
+
+(2) ‘rights-holder’ means the holder of any patent or supplementary protection certificate in relation to which a compulsory licence has been applied for under this Regulation;
+
+(3) ‘importing country’ means the country to which the pharmaceutical product is to be exported;
+
+(4) ‘competent authority’ for the purposes of Articles 1 to 11, 16 and 17 means any national authority having competence to grant compulsory licences under this Regulation in a given Member State.
+
+## Article 3 — Competent authority
+
+The competent authority as defined in Article 2(4) shall be that which has competence for the granting of compulsory licences under national patent law, unless the Member State determines otherwise.
+
+Member States shall notify the Commission of the designated competent authority as defined in Article 2(4).
+
+Notifications shall be published in the Official Journal of the European Union.
+
+## Article 4 — Eligible importing countries
+
+The following are eligible importing countries:
+
+(a) any least-developed country appearing as such in the United Nations list;
+
+(b) any member of the WTO, other than the least-developed country members referred to in point (a), that has made a notification to the Council for TRIPs of its intention to use the system as an importer, including whether it will use the system in whole or in a limited way;
+
+(c) any country that is not a member of the WTO, but is listed in the OECD Development Assistance Committee's list of low-income countries with a gross national product per capita of less than USD 745, and has made a notification to the Commission of its intention to use the system as an importer, including whether it will use the system in whole or in a limited way.
+
+However, any WTO member that has made a declaration to the WTO that it will not use the system as an importing WTO member is not an eligible importing country.
+
+## Article 5 — Extension to least-developed and developing countries which are not members of the WTO
+
+The following provisions shall apply to importing countries eligible under Article 4 which are not WTO members:
+
+(a) the importing country shall make the notification referred to in Article 8(1) directly to the Commission;
+
+(b) the importing country shall, in the notification referred to in Article 8(1), state that it will use the system to address public health problems and not as an instrument to pursue industrial or commercial policy objectives and that it will adopt the measures referred to in paragraph 4 of the Decision;
+
+(c) the competent authority may, at the request of the rights-holder, or on its own initiative if national law allows the competent authority to act on its own initiative, terminate a compulsory licence granted pursuant to this Article if the importing country has failed to honour its obligations referred to in point (b). Before terminating a compulsory licence, the competent authority shall take into account any views expressed by the bodies referred to in Article 6(3)(f).
+
+## Article 6 — Application for a compulsory licence
+
+1\. Any person may submit an application for a compulsory licence under this Regulation to a competent authority in the Member State or States where patents or supplementary protection certificates have effect and cover his intended activities of manufacture and sale for export.
+
+2\. If the person applying for a compulsory licence is submitting applications to authorities in more than one country for the same product, he shall indicate that fact in each application, together with details of the quantities and importing countries concerned.
+
+3\. The application pursuant to paragraph 1 shall set out the following:
+
+(a) the name and contact details of the applicant and of any agent or representative whom the applicant has appointed to act for him before the competent authority;
+
+(b) the non-proprietary name of the pharmaceutical product or products which the applicant intends to manufacture and sell for export under the compulsory licence;
+
+(c) the amount of pharmaceutical product which the applicant seeks to produce under the compulsory licence;
+
+(d) the importing country or countries;
+
+(e) where applicable, evidence of prior negotiation with the rights-holder pursuant to Article 9;
+
+(f) evidence of a specific request from:
+
+(i) authorised representatives of the importing country or countries; or
+
+(ii) a non-governmental organisation acting with the formal authorisation of one or more importing countries; or
+
+(iii) UN bodies or other international health organisations acting with the formal authorisation of one or more importing countries,
+
+indicating the quantity of product required.
+
+4\. Purely formal or administrative requirements necessary for the efficient processing of the application may be prescribed under national law. Such requirements shall not add unnecessarily to the costs or burdens placed upon the applicant and, in any event, shall not render the procedure for granting compulsory licences under this Regulation more burdensome than the procedure for the granting of other compulsory licences under national law.
+
+## Article 7 — Rights of the rights-holder
+
+The competent authority shall notify the rights-holder without delay of the application for a compulsory licence. Before the grant of the compulsory licence, the competent authority shall give the rights-holder an opportunity to comment on the application and to provide the competent authority with any relevant information regarding the application.
+
+## Article 8 — Verification
+
+1\. The competent authority shall verify that:
+
+(a) each importing country cited in the application which is a WTO member has made a notification to the WTO pursuant to the Decision,
+
+or
+
+(b) each importing country cited in the application which is not a WTO member has made a notification to the Commission pursuant to this Regulation in respect of each of the products covered by the application that:
+
+(i) specifies the names and expected quantities of the product(s) needed;
+
+(ii) unless the importing country is a least-developed country, confirms that the country has established that it had insufficient or no manufacturing capacity in the pharmaceutical sector in relation to a particular product or products in one of the ways set out in the Annex to the Decision;
+
+(iii) confirms that where a pharmaceutical product is patented in the territory of the importing country, that importing country has granted or intends to grant a compulsory licence for import of the product concerned in accordance with Article 31 of the TRIPS Agreement and the provisions of the Decision.
+
+This paragraph is without prejudice to the flexibility that least-developed countries have under the Decision of the Council for TRIPS of 27 June 2002.
+
+2\. The competent authority shall verify that the quantity of product cited in the application does not exceed that notified to the WTO by an importing country which is a WTO member, or to the Commission by an importing country which is not a WTO member, and that, taking into account other compulsory licences granted elsewhere, the total amount of product authorised to be produced for any importing country does not significantly exceed the amount notified by that country to the WTO, in the case of importing countries which are WTO members, or to the Commission, in the case of importing countries which are not WTO members.
+
+## Article 9 — Prior negotiation
+
+1\. The applicant shall provide evidence to satisfy the competent authority that he has made efforts to obtain authorisation from the rights-holder and that such efforts have not been successful within a period of thirty days before submitting the application.
+
+2\. The requirement in paragraph 1 shall not apply in situations of national emergency or other circumstances of extreme urgency or in cases of public non-commercial use under Article 31(b) of the TRIPS Agreement.
+
+## Article 10 — Compulsory licence conditions
+
+1\. The licence granted shall be non-assignable, except with that part of the enterprise or goodwill which enjoys the licence, and non-exclusive. It shall contain the specific conditions set out in paragraphs 2 to 9 to be fulfilled by the licensee.
+
+2\. The amount of product(s) manufactured under the licence shall not exceed what is necessary to meet the needs of the importing country or countries cited in the application, taking into account the amount of product(s) manufactured under other compulsory licences granted elsewhere.
+
+3\. The duration of the licence shall be indicated.
+
+4\. The licence shall be strictly limited to all acts necessary for the purpose of manufacturing the product in question for export and distribution in the country or countries cited in the application. No product made or imported under the compulsory licence shall be offered for sale or put on the market in any country other than that cited in the application, except where an importing country avails itself of the possibilities under subparagraph 6(i) of the Decision to export to fellow members of a regional trade agreement that share the health problem in question.
+
+5\. Products made under the licence shall be clearly identified, through specific labelling or marking, as being produced pursuant to this Regulation. The products shall be distinguished from those made by the rights-holder through special packaging and/or special colouring/shaping, provided that such distinction is feasible and does not have a significant impact on price. The packaging and any associated literature shall bear an indication that the product is subject to a compulsory licence under this Regulation, giving the name of the competent authority and any identifying reference number, and specifying clearly that the product is exclusively for export to and distribution in the importing country or countries concerned. Details of the product characteristics shall be made available to the customs authorities of the Member States.
+
+6\. Before shipment to the importing country or countries cited in the application, the licensee shall post on a website the following information:
+
+(a) the quantities being supplied under the licence and the importing countries to which they are supplied;
+
+(b) the distinguishing features of the product or products concerned.
+
+The website address shall be communicated to the competent authority.
+
+7\. If the product(s) covered by the compulsory licence are patented in the importing countries cited in the application, the product(s) shall only be exported if those countries have issued a compulsory licence for the import, sale and/or distribution of the products.
+
+8\. The competent authority may at the request of the rights-holder or on its own initiative, if national law allows the competent authority to act on its own initiative, request access to books and records kept by the licensee, for the sole purpose of checking whether the terms of the licence, and in particular those relating to the final destination of the products, have been met. The books and records shall include proof of exportation of the product, through a declaration of exportation certified by the customs authority concerned, and proof of importation from one of the bodies referred to in Article 6(3)(f).
+
+9\. The licensee shall be responsible for the payment of adequate remuneration to the rights-holder as determined by the competent authority as follows:
+
+(a) in the cases referred to in Article 9(2), the remuneration shall be a maximum of 4 % of the total price to be paid by the importing country or on its behalf;
+
+(b) in all other cases, the remuneration shall be determined taking into account the economic value of the use authorised under the licence to the importing country or countries concerned, as well as humanitarian or non-commercial circumstances relating to the issue of the licence.
+
+10\. The licence conditions are without prejudice to the method of distribution in the importing country.
+
+Distribution may be carried out for example by any of the bodies listed in Article 6(3)(f) and on commercial or non-commercial terms including completely without charge.
+
+## Article 11 — Refusal of the application
+
+The competent authority shall refuse an application if any of the conditions set out in Articles 6 to 9 are not met, or if the application does not contain the elements necessary to allow the competent authority to grant the licence in accordance with Article 10. Before refusing an application, the competent authority shall give the applicant an opportunity to rectify the situation and to be heard.
+
+## Article 12 — Notification
+
+When a compulsory licence has been granted, the Member State shall notify the Council for TRIPS through the intermediary of the Commission of the grant of the licence, and of the specific conditions attached to it.
+
+The information provided shall include the following details of the licence:
+
+(a) the name and address of the licensee;
+
+(b) the product or products concerned;
+
+(c) the quantity to be supplied;
+
+(d) the country or countries to which the product or products are to be exported;
+
+(e) the duration of the licence;
+
+(f) the address of the website referred to in Article 10(6).
+
+## Article 13 — Prohibition of importation
+
+1\. The import into the Community of products manufactured under a compulsory licence granted pursuant to the Decision and/or this Regulation for the purposes of release for free circulation, re-export, placing under suspensive procedures or placing in a free zone or free warehouse shall be prohibited.
+
+2\. Paragraph 1 shall not apply in the case of re-export to the importing country cited in the application and identified in the packaging and documentation associated with the product, or placing under a transit or customs warehouse procedure or in a free zone or free warehouse for the purpose of re-export to that importing country.
+
+## Article 14 — Action by customs authorities
+
+1\. If there are sufficient grounds for suspecting that products manufactured under a compulsory licence granted pursuant to the Decision and/or this Regulation are being imported into the Community contrary to Article 13(1), customs authorities shall suspend the release of, or detain, the products concerned for the time necessary to obtain a decision of the competent authority on the character of the merchandise. Member States shall ensure that a body has the authority to review whether such importation is taking place. The period of suspension or detention shall not exceed 10 working days unless special circumstances apply, in which case the period may be extended by a maximum of 10 working days. Upon expiry of that period, the products shall be released, provided that all customs formalities have been complied with.
+
+2\. The competent authority, the rights-holder and the manufacturer or exporter of the products concerned shall be informed without delay of the suspended release or detention of the products and shall be given all information available with respect to the products concerned. Due account shall be taken of national provisions on the protection of personal data and commercial and industrial secrecy and professional and administrative confidentiality.
+
+The importer, and where appropriate, the exporter shall be given ample opportunity to supply the competent authority with the information which it deems appropriate regarding the products.
+
+3\. If it is confirmed that products suspended for release or detained by customs authorities were intended for import into the Community contrary to the prohibition in Article 13(1), the competent authority shall ensure that the products are seized and disposed of in accordance with national legislation.
+
+4\. The procedure of suspension or detention or seizure of the goods shall be carried out at the expense of the importer. If it is not possible to recover those expenses from the importer, they may, in accordance with national legislation, be recovered from any other person responsible for the attempted illicit importation.
+
+5\. If the products suspended for release or detained by customs authorities are subsequently found not to violate the prohibition in Article 13(1), the customs authorities shall release the products to the consignee, provided that all customs formalities have been complied with.
+
+6\. The competent authority shall inform the Commission of any decisions on seizure or destruction adopted pursuant to this Regulation.
+
+## Article 15 — Personal luggage exception
+
+Articles 13 and 14 shall not apply to goods of a non-commercial nature contained in travellers' personal luggage for personal use within the limits laid down in respect of relief from customs duty.
+
+## Article 16 — Termination or review of the licence
+
+1\. Subject to adequate protection of the legitimate interests of the licensee, a compulsory licence granted pursuant to this Regulation may be terminated by a decision of the competent authority or by one of the bodies referred to in Article 17 if the licence conditions are not respected by the licensee.
+
+The competent authority shall have the authority to review, upon reasoned request by the rights-holder or the licensee, whether the licence conditions have been respected. This review shall be based on the assessment made in the importing country where appropriate.
+
+2\. Termination of a licence granted under this Regulation shall be notified to the Council for TRIPS through the intermediary of the Commission.
+
+3\. Following termination of the licence, the competent authority, or any other body appointed by the Member State, shall be entitled to establish a reasonable period of time within which the licensee shall arrange for any product in his possession, custody, power or control to be redirected at his expense to countries in need as referred to in Article 4 or otherwise disposed of as prescribed by the competent authority, or by another body appointed by the Member State, in consultation with the rights-holder.
+
+4\. When notified by the importing country that the amount of pharmaceutical product has become insufficient to meet its needs, the competent authority may, following an application by the licensee, modify the conditions of the licence permitting the manufacture and export of additional quantities of the product to the extent necessary to meet the needs of the importing country concerned. In such cases the licensee's application shall be processed in accordance with a simplified and accelerated procedure, whereby the information set out in Article 6(3), points (a) and (b), shall not be required provided that the original compulsory licence is identified by the licensee. In situations where Article 9(1) applies but the derogation set out in Article 9(2) does not apply, no further evidence of negotiation with the rights-holder will be required, provided that the additional amount requested does not exceed 25 % of the amount granted under the original licence.
+
+In situations where Article 9(2) applies, no evidence of negotiation with the rights-holder will be required.
+
+## Article 17 — Appeals
+
+1\. Appeals against any decision of the competent authority, and disputes concerning compliance with the conditions of the licence, shall be heard by the appropriate body responsible under national law.
+
+2\. Member States shall ensure that the competent authority and/or the body referred to in paragraph 1 have the power to rule that an appeal against a decision granting a compulsory licence shall have suspensory effect.
+
+## Article 18 — Safety and efficacy of medicinal products
+
+1\. Where the application for a compulsory licence concerns a medicinal product, the applicant may avail himself of:
+
+(a) the scientific opinion procedure as provided for under Article 58 of Regulation (EC) No 726/2004, or
+
+(b) any similar procedures under national law, such as scientific opinions or export certificates intended exclusively for markets outside the Community.
+
+2\. If a request for any of the above procedures concerns a product which is a generic of a reference medicinal product which is or has been authorised under Article 6 of Directive 2001/83/EC, the protection periods set out in Article 14(11) of Regulation (EC) No 726/2004 and in Articles 10(1) and 10(5) of Directive 2001/83/EC shall not apply.
+
+## Article 18a — Union compulsory licence
+
+1\. By way of derogation from Article 1, second subparagraph, from Article 2, point (4), and from Article 3, the Commission may grant a compulsory licence applicable to the whole of the Union where the activities of manufacture and sale for export are spread across different Member States and would therefore require compulsory licences for the same product in more than one Member State.
+
+2\. Any person may submit an application for a Union compulsory licence referred to in paragraph 1 of this Article. By way of derogation from Article 6(1) and (2), that application shall be submitted to the Commission. The application shall fulfil the requirements laid down in Article 6(3), points (a) to (f), and shall specify the Member States in which the activities of manufacture and sale for export of the product to be covered by the Union compulsory licence are to be carried out.
+
+Articles 7, 8, 9 and 12 shall apply mutatis mutandis.
+
+3\. The Union compulsory licence referred to in paragraph 1 of this Article shall be subject to the conditions set out in Article 10 and shall specify that it is applicable to the whole of the Union.
+
+4\. The Commission shall, by means of an implementing act:
+
+(a) grant a Union compulsory licence referred to in paragraph 1;
+
+(b) reject an application for a Union compulsory licence submitted pursuant to paragraph 2;
+
+(c) modify or terminate the Union compulsory licence granted pursuant to point (a).
+
+In cases referred to in the first subparagraph, point (b), of this paragraph, Article 11 shall apply mutatis mutandis.
+
+In cases referred to in the first subparagraph, point (c), of this paragraph, Article 5, point (c), and Article 16 shall apply mutatis mutandis.
+
+The implementing acts referred to in the first subparagraph of this paragraph shall be adopted in accordance with the examination procedure referred to in Article 18b(2).
+
+On duly justified imperative grounds of urgency relating to the impact of the public health problems to be addressed, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 18b(3).
+
+## Article 18b — Committee procedure
+
+1\. The Commission shall be assisted by a committee (the “Compulsory Licensing Committee”). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+4\. Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and Article 5(4), third subparagraph, of Regulation (EU) No 182/2011 shall apply.
+
+## Article 18c — Applicability to and in the United Kingdom in respect of Northern Ireland
+
+The procedure for granting a Union compulsory licence under Article 18a, and a Union compulsory licence granted under that Article, shall not apply to and in the United Kingdom in respect of Northern Ireland. The United Kingdom in respect of Northern Ireland shall ensure that the products manufactured under such a licence are not imported into the Union or Northern Ireland in accordance with Article 13, and shall take the necessary actions to that end in accordance with Article 14.
+
+## Article 19 — Review
+
+Three years after the entry into force of this Regulation, and every three years thereafter, the Commission shall present a report to the European Parliament, the Council, and the European Economic and Social Committee on the operation of this Regulation including any appropriate plans for amendments. The report shall cover, in particular:
+
+(a) the application of Article 10(9) on determining the remuneration of the rights-holder;
+
+(b) the application of the simplified and accelerated procedure referred to in Article 16(4);
+
+(c) the sufficiency of the requirements under Article 10(5) to prevent trade diversion, and
+
+(d) the contribution this Regulation has made to the implementation of the system established by the Decision.
+
+## Article 20 — Entry into force
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ L 311, 28.11.2001, p. 67. Directive as last amended by Directive 2004/27/EC (OJ L 136, 30.4.2004, p. 34).

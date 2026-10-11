@@ -249,11 +249,13 @@ S. COVENEY
 |  | 5. | In Annex I to Directive 72/245/EEC, the following is inserted in the list under point 5.2 after the entry for Ireland: ‘25 for Croatia’. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>6.</td><td>In Annex I to Directive 74/61/EEC, the following is inserted in the list under point 5.1.1 after the entry for Greece:<table><tbody><tr><td>‘—</td><td>“25” for Croatia’.</td></tr>
 </tbody>
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 7. | In Annex I to Directive 74/408/EEC, the following is inserted in the list under point 6.2.1 after the entry for Greece: ‘25. for Croatia’. |
 | --- | --- | --- |
@@ -276,6 +278,7 @@ S. COVENEY
 |  | 13. | In Annex I to Directive 76/760/EEC, the following is inserted in the list under point 4.2.1 after the entry for Greece: ‘25 for Croatia’. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>14.</td><td>Annex I to Directive 76/761/EEC is amended as follows:<table><tbody><tr><td>(a)</td><td>the following is inserted in the list under point 5.2.1 after the entry for Ireland: ‘25 for Croatia’; </td></tr>
 </tbody>
 </table>
@@ -284,6 +287,7 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 15. | In Annex I to Directive 76/762/EEC, the following is inserted in the list under point 4.2.1 after the entry for Greece: ‘25 for Croatia’. |
 | --- | --- | --- |
@@ -330,6 +334,7 @@ S. COVENEY
 |  | 29. | In Appendix 5 to Annex I to Directive 2001/56/EC, the following is inserted in the list under point 1.1.1 after the entry for Ireland: ‘25 for Croatia’. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>30.</td><td>Annex I to Directive 2001/85/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>in point 7.6.11.1, the following is added to the list: ‘Izlaz u slučaju opasnosti’; </td></tr>
 </tbody>
 </table>
@@ -338,7 +343,9 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>31.</td><td>Directive 2002/24/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>in part A of Annex IV, point 47 of Side 2 of the model is replaced by the following:<table><tbody><tr><td>‘47.</td><td>Fiscal power or national code number(s), if applicable:<table><tbody><tr><td>Belgium: …</td><td>Bulgaria: …</td><td>Czech Republic: …</td></tr>
 <tr><td>Denmark: …</td><td>Germany: …</td><td>Estonia: …</td></tr>
 <tr><td>Ireland: …</td><td>Greece: …</td><td>Spain: …</td></tr>
@@ -371,7 +378,9 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>32.</td><td>Directive 2003/37/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>in Appendix 1 to Chapter C of Annex II, the following is inserted in the first indent of point 1 after the entry for Ireland: ‘25 for Croatia;’; </td></tr>
 </tbody>
 </table>
@@ -470,10 +479,12 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 33. | In Appendix 5 to Annex I to Directive 2003/97/EC, the following is inserted in point 1.1 after the entry for Ireland: ‘25 for Croatia,’. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>34.</td><td>Annex VII to Directive 2007/46/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>in section 1 of point 1, the following is inserted in the list after the entry for Ireland: ‘25 for Croatia;’; </td></tr>
 </tbody>
 </table>
@@ -482,6 +493,7 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 35. | In Annex VI to Directive 2009/57/EC, the following is inserted in the list under the first paragraph after the entry for Ireland: ‘25. for Croatia’. |
 | --- | --- | --- |
@@ -492,6 +504,7 @@ S. COVENEY
 |  | 37. | In Annex VI to Directive 2009/75/EC, the following is inserted in the list under the first paragraph after the entry for Ireland: ‘25. for Croatia’. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>38.</td><td>Directive 2009/144/EC is amended as follows:<table><tbody><tr><td>(a)</td><td>in Annex III A, the following is inserted in footnote 1 to point 5.4.1 after the entry for Ireland: ‘25 for Croatia,’; </td></tr>
 </tbody>
 </table>
@@ -503,6 +516,7 @@ S. COVENEY
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **PART B**
 

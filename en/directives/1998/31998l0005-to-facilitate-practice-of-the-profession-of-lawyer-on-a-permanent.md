@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **to facilitate practice of the profession of lawyer on a permanent basis in a Member State other than that in which the qualification was obtained**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/100/EC of 20 November 2006 </td><td> L 363</td><td>141</td><td>20.12.2006</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/25/EU of 13 May 2013 </td><td> L 158</td><td>368</td><td>10.6.2013</td></tr>
+</table>
 
 |  | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
 | --- | --- | --- | --- | --- |
@@ -44,6 +46,7 @@ retrieved: 2026-10-11
 
 (a) ‘lawyer’ means any person who is a national of a Member State and who is authorised to pursue his professional activities under one of the following professional titles:
 
+<table>
 <tbody><tr><td>Belgium</td><td>Avocat/Advocaat/Rechtsanwalt</td></tr>
 <tr><td colspan="2"></td></tr>
 <tr><td>Bulgaria</td><td>Aдвокат</td></tr>
@@ -89,6 +92,7 @@ retrieved: 2026-10-11
 <tr><td>Sweden</td><td>Advokat</td></tr>
 <tr><td>United Kingdom</td><td>Advocate/Barrister/Solicitor</td></tr>
 </tbody>
+</table>
 
 (b) ‘home Member State’ means the Member State in which a lawyer acquired the right to use one of the professional titles referred to in (a) before practising the profession of lawyer in another Member State;
 

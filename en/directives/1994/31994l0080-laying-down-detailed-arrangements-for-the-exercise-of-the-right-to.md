@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **laying down detailed arrangements for the exercise of the right to vote and to stand as a candidate in municipal elections by citizens of the Union residing in a Member State of which they are not nationals**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td>Council Directive 96/30/EC of 13 May 1996 </td><td> L 122</td><td>14</td><td>22.5.1996</td></tr>
 <tr><td> M2</td><td> COUNCIL DIRECTIVE 2006/106/EC of 20 November 2006 </td><td> L 363</td><td>409</td><td>20.12.2006</td></tr>
 <tr><td> M3</td><td> COMMISSION IMPLEMENTING DECISION of 19 July 2012 </td><td> L 192</td><td>29</td><td>20.7.2012</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/19/EU of 13 May 2013 </td><td> L 158</td><td>231</td><td>10.6.2013</td></tr>
+</table>
 
 | A1 | ACT concerning the conditions of accession of the Czech Republic, the Republic of Estonia, the Republic of Cyprus, the Republic of Latvia, the Republic of Lithuania, the Republic of Hungary, the Republic of Malta, the Republic of Poland, the Republic of Slovenia and the Slovak Republic and the adjustments to the Treaties on which the European Union is founded | L 236 | 33 | 23.9.2003 |
 | --- | --- | --- | --- | --- |

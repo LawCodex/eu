@@ -1,0 +1,724 @@
+---
+title: "Commission Regulation (EC) No 340/2008 of 16 April 2008 on the fees and charges payable to the European Chemicals Agency pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Text with EEA relevance)"
+identifier: "32008R0340"
+eli: "http://data.europa.eu/eli/reg/2008/340/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-04-16
+entry_into_force: 2008-07-24
+last_amended: 2025-11-05
+consolidated_version: "02008R0340-20251105"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R0340-20251105"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 340/2008 of 16 April 2008 on the fees and charges payable to the European Chemicals Agency pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 340/2008**
+
+**of 16 April 2008**
+
+**on the fees and charges payable to the European Chemicals Agency pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 254/2013 of 20 March 2013 </td><td> L 79</td><td>7</td><td>21.3.2013</td></tr>
+<tr><td> M2</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 211/2014 of 27 February 2014 </td><td> L 67</td><td>1</td><td>7.3.2014</td></tr>
+<tr><td> M3</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/864 of 4 June 2015 </td><td> L 139</td><td>1</td><td>5.6.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/895 of 22 June 2018 </td><td> L 160</td><td>1</td><td>25.6.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/876 of 31 May 2021 </td><td> L 192</td><td>3</td><td>1.6.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2067 of 15 October 2025 </td><td> L 2067</td><td>1</td><td>16.10.2025</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 340/2008**
+
+**of 16 April 2008**
+
+**on the fees and charges payable to the European Chemicals Agency pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH)**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1 — Subject matter
+
+This Regulation lays down the amounts, and rules for payment, of the fees and charges levied by the European Chemicals Agency, hereinafter the ‘Agency’, as provided for in Regulation (EC) No 1907/2006.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+1\. ‘SME’ means a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC;
+
+2\. ‘medium enterprise’ means a medium-sized enterprise within the meaning of Recommendation 2003/361/EC;
+
+3\. ‘small enterprise’ means a small enterprise within the meaning of Recommendation 2003/361/EC;
+
+4\. ‘micro enterprise’ means a micro enterprise within the meaning of Recommendation 2003/361/EC.
+
+## CHAPTER II — FEES AND CHARGES
+
+### Article 3 — Fees for registrations submitted under Articles 6, 7 or 11 of Regulation (EC) No 1907/2006
+
+1\. The Agency shall levy a fee, as provided for in paragraphs 2, 3 and 4 of this Article, for any registration of a substance under Article 6, 7 or 11 of Regulation (EC) No 1907/2006.
+
+However, no fee shall be levied for the registration of a substance in a quantity of between 1 and 10 tonnes where the submission of the registration contains all the information required in Annex VII to Regulation (EC) No 1907/2006, as provided for in Article 74(2) of that Regulation.
+
+2\. Where the submission for registration of a substance in the range of 1 to 10 tonnes does not contain all the information required in Annex VII to Regulation (EC) No 1907/2006, the Agency shall levy a fee, as set out in Annex I to this Regulation.
+
+The Agency shall levy a fee for any registration of a substance in a quantity of 10 tonnes or more, as set out in Annex I.
+
+3\. In the case of a joint submission the Agency shall levy a reduced fee on each registrant, as set out in Annex I.
+
+However, if a registrant submits separately part of the relevant information referred to in Article 10(a)(iv), (vi), (vii) and (ix) of Regulation (EC) No 1907/2006, the Agency shall levy a fee for an individual submission on that registrant, as set out in Annex I to this Regulation.
+
+4\. Where the registrant is an SME, the Agency shall levy a reduced fee, as set out in Table 2 of Annex I.
+
+5\. Fees due under paragraphs 1 to 4 shall be paid within 14 calendar days from the date on which the invoice is notified to the registrant by the Agency.
+
+However, invoices linked to a registration of a pre-registered substance that is submitted to the Agency during the two months that precede the relevant registration deadline of Article 23 of Regulation (EC) No 1907/2006 shall be paid within 30 days from the date on which the invoice is notified to the registrant by the Agency.
+
+6\. Where the payment is not made before expiry of the deadline provided for in paragraph 5, the Agency shall set a second deadline for the payment. Where the payment is not made before expiry of the second deadline, the registration shall be rejected.
+
+7\. Where the registration has been rejected due to the failure of the registrant to submit missing information or due to his failure to pay the fee before expiry of the deadlines, the fees paid in relation to that registration before its rejection shall not be refunded or otherwise credited to the registrant.
+
+### Article 4 — Fees for registrations submitted under Article 17(2), Article 18(2) or (3) or Article 19 of Regulation (EC) No 1907/2006
+
+1\. The Agency shall levy a fee, as provided for in paragraphs 2, 3 and 4 of this Article, for any registration of an on-site or transported isolated intermediate under Article 17(2), Article 18(2) or (3) or Article 19 of Regulation (EC) No 1907/2006.
+
+However, no fee shall be levied for the registration of an on-site or transported isolated intermediate in a quantity of between 1 and 10 tonnes where the submission of the registration contains all the information required in Annex VII to Regulation (EC) No 1907/2006 as provided for in Article 74(2) of that Regulation.
+
+The fees under this Article shall only apply to registrations of on-site or transported isolated intermediates submitted under Article 17(2), Article 18(2) or (3) or Article 19 of Regulation (EC) No 1907/2006. In the case of registrations of intermediate substances that require the information specified in Article 10 of Regulation (EC) No 1907/2006, the fees set out in Article 3 of this Regulation shall apply.
+
+2\. Where the submission for registration of an on-site or transported isolated intermediate in the range of 1 to 10 tonnes does not contain all the information required in Annex VII to Regulation (EC) No 1907/2006, the Agency shall levy a fee, as set out in Annex II to this Regulation.
+
+The Agency shall levy a fee for any registration of an on-site or transported isolated intermediate in a quantity of 10 tonnes or more, as set out in Annex II.
+
+3\. In the case of a joint submission the Agency shall levy a reduced fee on each registrant, as set out in Annex II.
+
+However, if a registrant submits separately part of the relevant information referred to in Article 17(2)(c) and (d), or Article 18(2)(c) and (d) of Regulation (EC) No 1907/2006, the Agency shall levy a fee for an individual submission on that registrant, as set out in Annex II to this Regulation.
+
+4\. Where the registrant is an SME, the Agency shall levy a reduced fee, as set out in Table 2 of Annex II.
+
+5\. Fees due under paragraphs 1 to 4 shall be paid within 14 calendar days from the date on which the invoice is notified to the registrant by the Agency.
+
+However, invoices linked to a registration of a pre-registered substance that is submitted to the Agency during the two months that precede the relevant registration deadline of Article 23 of Regulation (EC) No 1907/2006 shall be paid within 30 days from the date on which the invoice is notified to the registrant by the Agency.
+
+6\. Where the payment is not made before the expiry of the deadline provided for in paragraph 5, the Agency shall set a second deadline for the payment. Where the payment is not made before the expiry of the second deadline, the registration shall be rejected.
+
+7\. Where the registration has been rejected due to the failure of the registrant to submit missing information or due to his failure to pay the fee before expiry of the deadlines, the fees paid in relation to that registration before its rejection shall not be refunded or otherwise credited to the registrant.
+
+### Article 5 — Fees for updates of a registration under Article 22 of Regulation (EC) No 1907/2006
+
+1\. The Agency shall levy a fee, as provided for in paragraphs 2, 3 and 4 of this Article, for updates of a registration under Article 22 of Regulation (EC) No 1907/2006.
+
+However, the Agency shall not levy a fee for the following updates of a registration:
+
+(a) a change from a higher to a lower tonnage range;
+
+(b) a change from a lower to a higher tonnage range if the registrant has previously paid the fee for that higher tonnage range;
+
+(c) a change in the status of the registrant or his identity, provided that it does not involve a change in legal personality;
+
+(d) a change in the composition of the substance;
+
+(e) information on new uses including uses advised against;
+
+(f) information on new risks of the substance;
+
+(g) a change in the classification and labelling of the substance;
+
+(h) a change in the chemical safety report;
+
+(i) a change in the guidance on safe use;
+
+(j) a notification that a test listed in Annex IX or X to Regulation (EC) No 1907/2006 must be developed;
+
+(k) a request for previously confidential information to be accessible.
+
+2\. The Agency shall levy a fee for updates of the tonnage range, as set out in Tables 1 and 2 of Annex III.
+
+For other updates, the Agency shall levy a fee, as set out in Tables 3 and 4 of Annex III.
+
+For change in the access granted to information in the registration, the Agency shall levy a fee per item for which an update is made, as set out in Tables 3 and 4 of Annex III.
+
+In the case of an update concerning study summaries or robust study summaries, the Agency shall levy a fee for each study summary or robust study summary for which the update is made.
+
+3\. In the case of an update to a joint submission the Agency shall levy a reduced fee on each registrant submitting the update, as set out in Annex III.
+
+However, if part of the relevant information referred to in Article 10(a)(iv), (vi), (vii) and (ix), Article 17(2)(c) and (d), or Article 18(2)(c) and (d) of Regulation (EC) No 1907/2006 is submitted separately, the Agency shall levy a fee for an individual submission, as set out in Annex III to this Regulation.
+
+4\. Where the registrant is an SME, the Agency shall levy a reduced fee, as set out in Annex III.
+
+However, in cases of updates involving a change in the identity of the registrant, the SME reduction shall apply only if the new entity is an SME.
+
+5\. Fees due under paragraphs 1 to 4 shall be paid within 14 calendar days from the date on which the invoice is notified to the registrant by the Agency.
+
+6\. Where the payment is not made before expiry of the deadline provided for in paragraph 5, the Agency shall set a second deadline for the payment.
+
+Where the payment is not made before expiry of the second deadline, in the case of updates of the tonnage range submitted in accordance with Article 22(1)(c) of Regulation (EC) No 1907/2006, the update shall be rejected.
+
+Where the payment is not made before the expiry of the second deadline, in the case of other updates, the Agency shall reject the update. Where the applicant so requests, the Agency shall extend the second deadline provided that the request for extension has been submitted before the expiry of the second deadline. Where the payment is not made before the expiry of the extended deadline, the Agency shall reject the update.
+
+7\. Where the update has been rejected due to the failure of the registrant to submit missing information or due to his failure to pay the fee before expiry of the deadlines, the fees paid in relation to that update before its rejection shall not be refunded or otherwise credited to the registrant.
+
+### Article 6 — Fees for requests under Article 10(a)(xi) of Regulation (EC) No 1907/2006
+
+1\. The Agency shall levy a fee, as provided for in paragraphs 2, 3 and 4 of this Article, for any request under Article 10(a)(xi) of Regulation (EC) No 1907/2006.
+
+2\. The Agency shall levy a fee per item for which a request is made, as set out in Annex IV.
+
+In the case of a request concerning study summaries or robust study summaries, the Agency shall levy a fee for each study summary or robust study summary for which the request is made.
+
+3\. In the case of a request that refers to a joint submission, the Agency shall levy a reduced fee, as set out in Annex IV. In the case of a request by the lead registrant, the Agency shall levy a reduced fee to the lead registrant only, as set out in Annex IV.
+
+4\. Where the request is made by an SME, the Agency shall levy a reduced fee, as set out in Table 2 of Annex IV.
+
+5\. The date on which the fee levied for a request is received by the Agency shall be considered to be the date of receipt of the request.
+
+### Article 7 — Fees and charges for notifications under Article 9 of Regulation (EC) No 1907/2006
+
+1\. The Agency shall levy a fee, as set out in Table 1 of Annex V to this Regulation, for any notification for an exemption from the general obligation to register for product and process orientated research and development, hereinafter ‘PPORD’, under Article 9 of Regulation (EC) No 1907/2006.
+
+Where the notification is made by an SME, the Agency shall levy a reduced fee as set out in Table 1 of Annex V.
+
+2\. The Agency shall levy a charge, as set out in Table 2 of Annex V to this Regulation, for any request to extend an exemption from the general obligation to register for PPORD under Article 9 of Regulation (EC) No 1907/2006.
+
+Where the request is made by an SME, the Agency shall levy a reduced charge as set out in Table 2 of Annex V.
+
+3\. Fees due under paragraph 1 shall be paid within seven calendar days from the date on which the invoice is notified by the Agency to the manufacturer, importer, or producer of articles making the notification.
+
+Charges due under paragraph 2 shall be paid within 30 calendar days from the date on which the invoice is notified by the Agency to the manufacturer, importer, or producer of articles requesting an extension.
+
+4\. Where the payment is not made before expiry of the deadline provided for in paragraph 3, the Agency shall set a second deadline for the payment.
+
+Where the payment is not made before expiry of the second deadline, the notification or the request for an extension shall be rejected.
+
+5\. Where a notification or the request for an extension has been rejected due to the failure of the manufacturer, importer, or producer of articles to submit missing information or due to his failure to pay the fee or charges before expiry of the deadlines, the fees or charges paid in relation to that notification or that request for an extension before their respective rejection shall not be refunded or otherwise credited to the person making the notification or the request.
+
+### Article 8 — Fees for applications under Article 62 of Regulation (EC) No 1907/2006
+
+1\. The Agency shall levy a fee, as provided for in paragraphs 2 and 3 of this Article, for any application for an authorisation of a substance under Article 62 of Regulation (EC) No 1907/2006.
+
+2\. The Agency shall levy a base fee for any application for an authorisation of a substance, as set out in Annex VI. The base fee shall cover the application for an authorisation for one substance and one use.
+
+The Agency shall levy an additional fee, as set out in Annex VI to this Regulation, for each additional use and for each additional substance that meets the definition of a group of substances as defined in point 1.5 of Annex XI to Regulation (EC) No 1907/2006 and that is covered by the application. No additional fee shall be levied where more than one applicant is party to the application for an authorisation.
+
+Where the applicants that are party to a joint application for an authorisation are of different sizes, the highest fee applicable to any of those applicants shall be levied for that application.
+
+Where a joint application for an authorisation is submitted, the applicants shall make every effort to share the fee in a fair, transparent and non-discriminatory manner, in particular with regard to SMEs.
+
+The Agency shall levy a reduced fee as set out in point 2 of Annex VI to this Regulation for applications for authorisation for uses of substances in the production of legacy spare parts for the repair of articles or complex products no longer produced as described in point (a) of Article 1 of Commission Implementing Regulation (EU) 2021/876 ( 1 ) and in the repair of articles or complex products no longer produced as described in point (b) of Article 1 of that Regulation, submitted in accordance with that Implementing Regulation.
+
+The Agency shall issue one invoice covering the base fee and any applicable additional fees.
+
+3\. Where the application is submitted by a medium enterprise or by two or more SMEs only, of which the largest enterprise is a medium enterprise, the Agency shall levy a reduced base fee and reduced additional fees, as set out in Table 2 of Annex VI.
+
+Where the application is submitted by a small enterprise or by two or more SMEs only, of which the largest enterprise is a small enterprise, the Agency shall levy a reduced base fee and reduced additional fees, as set out in Table 3 of Annex VI.
+
+Where the application is submitted by one or more micro enterprises only, the Agency shall levy a reduced base fee and reduced additional fees, as set out in Table 4 of Annex VI.
+
+4\. The date on which the fee levied for the application for an authorisation is received by the Agency shall be considered to be the date of receipt of the application.
+
+### Article 9 — Charges for reviews of authorisations under Article 61 of Regulation (EC) No 1907/2006
+
+1\. The Agency shall levy a charge, as provided for in paragraphs 2 and 3 of this Article, for any submission of a review report under Article 61 of Regulation (EC) No 1907/2006.
+
+2\. The Agency shall levy a base charge for submission of any review report, as set out in Annex VII. The base charge shall cover the submission of a review report for one substance and one use.
+
+The Agency shall levy an additional charge, as set out in Annex VII to this Regulation, for each additional use and for each additional substance that meets the definition of a group of substances as defined in point 1.5 of Annex XI to Regulation (EC) No 1907/2006 and that is covered by the review report. No additional charge shall be levied where there is more than one party to a review report.
+
+Where the entities that are party to the submission of a joint review report are of different sizes, the highest charge applicable to any of those applicants shall be levied to that submission.
+
+Where a joint review report is submitted, the holders of the authorisation shall make every effort to share the charge in a fair, transparent and non-discriminatory manner, in particular with regard to SMEs.
+
+The Agency shall levy a reduced charge as set out in point 2 of Annex VII to this Regulation for applications for authorisation for uses of substances in the production of legacy spare parts for the repair of articles or complex products no longer produced as described in point (a) of Article 1 of Implementing Regulation (EU) 2021/876 and in the repair of articles or complex products no longer produced as described in point (b) of Article 1 of that Regulation, submitted in accordance with that Implementing Regulation
+
+The Agency shall issue one invoice covering the base charge and any applicable additional charges.
+
+3\. Where the application is submitted by a medium enterprise or by two or more SMEs only, of which the largest enterprise is a medium enterprise, the Agency shall levy a reduced base charge and reduced additional charges, as set out in Table 2 of Annex VII.
+
+Where the application is submitted by a small enterprise or by two or more SMEs only, of which the largest enterprise is a small enterprise, the Agency shall levy a reduced base charge and reduced additional charges, as set out in Table 3 of Annex VII.
+
+Where the application is submitted by one or more micro enterprises only, the Agency shall levy a reduced base charge and reduced additional charges as set out in Table 4 of Annex VII.
+
+4\. The date on which the charge levied for submission of the review report is received by the Agency shall be considered to be the date of receipt of the submission.
+
+### Article 10 — Fees for appeals against a decision of the Agency under Article 92 of Regulation (EC) No 1907/2006
+
+1\. The Agency shall levy a fee, as set out in Annex VIII to this Regulation, for any submission of an appeal against a decision of the Agency under Article 92 of Regulation (EC) No 1907/2006.
+
+2\. Where the appeal is submitted by an SME, the Agency shall levy a reduced fee, as set out in Table 2 of Annex VIII.
+
+3\. If the appeal is considered inadmissible by the Board of Appeal, the fee shall not be refunded.
+
+4\. The Agency shall refund the fee levied in accordance with paragraph 1 of this Article if the Executive Director of the Agency rectifies a decision in accordance with Article 93(1) of Regulation (EC) No 1907/2006, or if the appeal is decided in favour of the appellant.
+
+5\. An appeal shall not be considered to be received by the Board of Appeal until the relevant fee has been received by the Agency.
+
+### Article 11 — Other charges
+
+1\. A charge may be levied for administrative and technical services provided by the Agency at the request of a party which are not covered by another fee or charge provided for in this Regulation. The level of the charge shall take into account the workload involved.
+
+However, charges shall not be levied for the assistance provided by its Helpdesk and for the support to Member States as provided for in Article 77(2)(h) and (i) of Regulation (EC) No 1907/2006.
+
+The Executive Director of the Agency may decide not to levy a charge on international organisations or countries that request assistance from the Agency.
+
+2\. The charges for administrative services shall be paid within 30 calendar days from the date on which the invoice is notified by the Agency.
+
+3\. Where the payment is not made before expiry of the deadline provided for in paragraph 2, the Agency shall set a second deadline for the payment.
+
+Where the payment is not made before expiry of the second deadline, the Agency shall reject the request.
+
+4\. In the absence of contractual agreement to the contrary, the charges for technical services shall be paid before the service is provided.
+
+5\. A classification of the services and charges shall be drawn up by the Management Board of the Agency and adopted after a favourable opinion by the Commission.
+
+### Article 12 — Only representatives
+
+In the case of an only representative referred to in Article 8 of Regulation (EC) No 1907/2006, the assessment of whether the reduction for SMEs applies shall be determined by reference to the headcount, turnover and balance sheet information of the non-Community manufacturer, formulator of a preparation, or producer of an article that is represented by that only representative in connection with the transaction concerned, including relevant information from linked and partner companies of the non-Community manufacturer, formulator of a preparation, or producer of an article, in accordance with Recommendation 2003/361/EC.
+
+### Article 13 — Reductions and fee waiver
+
+1\. A natural or legal person that claims to be entitled to a reduced fee or charge under Articles 3 to 10 shall inform the Agency thereof at the time of the submission of the registration, update of registration, request, notification, application, review report or appeal giving rise to the payment of the fee.
+
+2\. A natural or legal person that claims to be entitled to the fee waiver under Article 74(2) of Regulation (EC) No 1907/2006 shall inform the Agency thereof at the time of the submission of the registration.
+
+3\. The Agency may request, at any time, evidence that the conditions for a reduction of fees or charges or for a fee waiver apply.
+
+Where the evidence to be submitted to the Agency is not in one of the official languages of the Union, it shall be accompanied with a certified translation into any of those official languages.
+
+4\. Where a natural or legal person that claims to be entitled to a reduction or a fee waiver cannot demonstrate that it is entitled to such a reduction or waiver, the Agency shall levy the full fee or charge as well as an administrative charge.
+
+Where a natural or legal person that has claimed to be entitled to a reduction has already paid a reduced fee or charge, but cannot demonstrate that it is entitled to such a reduction, the Agency shall levy the balance of the full fee or charge as well as an administrative charge.
+
+Paragraphs 2, 3 and 5 of Article 11 shall apply mutatis mutandis.
+
+## CHAPTER III — PAYMENT OF REMUNERATION BY THE AGENCY
+
+### Article 14 — Transfers of funds to Member States
+
+1\. A proportion of the fees and charges collected under this Regulation shall be transferred to the competent authorities of the Member States in the following cases:
+
+(a) where the competent authority of the Member State notifies to the Agency the conclusion of an evaluation procedure for a substance in accordance with Article 46(4) of Regulation (EC) No 1907/2006;
+
+(b) where the competent authority has appointed a member of the Committee for Risk Assessment who acts as rapporteur in the context of an authorisation procedure, including in the context of a review;
+
+(c) where the competent authority of the Member State has appointed a member of the Committee for Socioeconomic Analysis who acts as rapporteur in the context of an authorisation procedure, including in the context of a review;
+
+(d) where the competent authority of the Member State has appointed a member of the Committee for Risk Assessment who acts as rapporteur in the context of a restrictions procedure;
+
+(e) where the competent authority of the Member State has appointed a member of the Committee for Socioeconomic Analysis who acts as rapporteur in the context of a restrictions procedure;
+
+(f) where appropriate, for other tasks performed by the competent authorities at the request of the Agency.
+
+When the Committees referred to in this paragraph decide to appoint a co-rapporteur, the transfer shall be divided between the rapporteur and the co-rapporteur.
+
+2\. The amounts for each of the tasks identified under paragraph 1 of this Article and the maximum proportion of the fees and charges to be transferred to the competent authorities of the Member States as well as any arrangements necessary for the transfer, shall be set by the Management Board of the Agency following a favourable opinion from the Commission. In fixing the amounts to be transferred, the Management Board of the Agency shall comply with the principles of economy, efficiency and effectiveness as defined in Article 27 of Regulation (EC, Euratom) No 1605/2002. It shall also ensure that the Agency continues to have available sufficient financial resources to undertake its tasks as defined in Regulation (EC) No 1907/2006, having regard to its existing budgetary appropriations and pluriannual estimates of income, including a Community subsidy, and it shall take into account the workload for the competent authorities of the Member States.
+
+3\. Transfers provided for in paragraph 1 shall be made only after the relevant report has been made available to the Agency.
+
+However, the Management Board of the Agency may decide to authorise pre-financing or interim payments in accordance with Article 81(1) of Regulation (EC, Euratom) No 1605/2002.
+
+4\. The transfers of funds provided for in points (b) to (e) of paragraph 1 are intended to compensate competent authorities of a Member State for the work of the rapporteur or co-rapporteur and for any related scientific and technical support and shall be without prejudice to the obligation of Member States not to give instructions incompatible with the independence of the Agency.
+
+### Article 15 — Other remuneration
+
+In fixing the amounts of the payments made to remunerate experts or co-opted members of the committees for work done for the Agency in accordance with Article 87(3) of Regulation (EC) No 1907/2006, the Management Board of the Agency shall take into account the workload involved and it shall comply with the principles of economy, efficiency and effectiveness as defined in Article 27 of the Regulation (EC, Euratom) No 1605/2002. It shall also ensure that the Agency has sufficient financial resources available to undertake its tasks as defined in Regulation (EC) No 1907/2006, having regard to its existing budgetary appropriations and pluriannual estimates of income, including a Community subsidy.
+
+## CHAPTER IV — PAYMENTS
+
+### Article 16 — Mode of payment
+
+1\. The fees and charges shall be paid in euro.
+
+2\. Payments shall be made only after the Agency has issued an invoice, with the exception of payments due under Article 10.
+
+3\. Payments shall be made by means of a transfer to the bank account of the Agency.
+
+### Article 17 — Identification of the payment
+
+1\. Every payment must indicate in the reference field the invoice number, with the exception of payments due under Article 10.
+
+Payments due under Article 10 shall indicate in the reference field the identity of the appellant(s) and, if available, the number of the decision that is being appealed.
+
+2\. If the purpose of the payment cannot be established, the Agency shall set a deadline by which the payer must notify it in writing of the purpose of the payment. If the Agency does not receive a notification of the purpose of the payment before expiry of that deadline, the payment shall be considered invalid and the amount concerned shall be refunded to the payer.
+
+### Article 18 — Date of payment
+
+1\. The date on which the full amount of the payment is deposited in a bank account held by the Agency shall be considered to be the date on which the payment has been made.
+
+2\. The payment shall be considered to have been made in time where sufficient documentary evidence is produced to show that the payer ordered the transfer to the bank account indicated on the invoice before expiry of the relevant deadline.
+
+A confirmation of the transfer order issued by a financial institution shall be regarded as sufficient evidence. However, where the transfer requires the use of the SWIFT electronic bank payment method, the acknowledgement of provision of the transfer order shall take the form of a copy of the SWIFT report, stamped and signed by a duly authorised official of a financial institution.
+
+### Article 19 — Insufficient payment
+
+1\. A deadline for payment shall be considered to have been observed only if the full amount of the fee or charge has been paid in due time.
+
+2\. When an invoice relates to a group of transactions, the Agency may attribute any under-payment to any of the relevant transactions. The criteria for the attribution of payments shall be laid down by the Management Board of the Agency.
+
+### Article 20 — Refund of amounts paid in excess
+
+1\. The arrangements for the refund to the payer of amounts paid in excess of a fee or a charge shall be fixed by the Executive Director of the Agency and published on the website of the Agency.
+
+However, where an amount paid in excess is under EUR 100 and the party concerned has not expressly requested a refund, the amount paid in excess shall not be refunded.
+
+2\. It shall not be possible to count any amounts paid in excess towards future payments to the Agency.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 21 — Provisional estimate
+
+The Management Board of the Agency shall, when producing an estimate of the overall expenditure and income for the following financial year in accordance with Article 96(5) of Regulation (EC) No 1907/2006, include a specific provisional estimate of income from fees and charges which is separate from income from any subsidy from the Community.
+
+### Article 22 — Review
+
+1\. The fees and charges provided for in this Regulation shall be reviewed annually by reference to the inflation rate as measured by means of the European Index of Consumer Prices as published by Eurostat pursuant to Regulation (EC) No 2494/95. A first review shall be carried out by 1 June 2009.
+
+2\. The Commission shall also keep this Regulation under continual review in the light of significant information becoming available in relation to underlying assumptions for anticipated income and expenditure of the Agency. By 31 January 2015, the Commission shall review this Regulation with a view to amend it, if appropriate, taking into account in particular the costs of the Agency and the related costs of the services provided by the competent authorities of the Member States.
+
+### Article 23 — Entry into force
+
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Fees for registrations submitted under Article 6, 7 or 11 of Regulation (EC) No 1907/2006**
+
+**Table 1**
+
+**Standard fees**
+
+|  | Individual submission | Joint submission |
+| --- | --- | --- |
+| Fee for substances in the range of 1 to 10 tonnes | EUR 2 078 | EUR 1 558 |
+| Fee for substances in the range 10 to 100 tonnes | EUR 5 585 | EUR 4 190 |
+| Fee for substances in the range 100 to 1 000 tonnes | EUR 14 939 | EUR 11 204 |
+| Fee for substances above 1 000 tonnes | EUR 40 270 | EUR 30 202 |
+
+**Table 2**
+
+**Reduced fees for SMEs**
+
+|  | Medium enterprise (Individual submission) | Medium enterprise (Joint submission) | Small enterprise (Individual submission) | Small enterprise (Joint submission) | Micro enterprise (Individual submission) | Micro enterprise (Joint submission) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fee for substances in the range of 1 to 10 tonnes | EUR 1 131 | EUR 848 | EUR 609 | EUR 457 | EUR 87 | EUR 65 |
+| Fee for substances in the range 10 to 100 tonnes | EUR 3 038 | EUR 2 279 | EUR 1 636 | EUR 1 227 | EUR 234 | EUR 175 |
+| Fee for substances in the range 100 to 1 000 tonnes | EUR 8 126 | EUR 6 094 | EUR 4 375 | EUR 3 282 | EUR 625 | EUR 469 |
+| Fee for substances above 1 000 tonnes | EUR 21 904 | EUR 16 428 | EUR 11 795 | EUR 8 846 | EUR 1 685 | EUR 1 264 |
+
+## ANNEX II
+
+**Fees for registrations submitted under Article 17(2), Article 18(2) and (3) or Article 19 of Regulation (EC) No 1907/2006**
+
+**Table 1**
+
+**Standard fees**
+
+|  | Individual submission | Joint submission |
+| --- | --- | --- |
+| Fee | EUR 2 078 | EUR 1 558 |
+
+**Table 2**
+
+**Reduced fees for SMEs**
+
+|  | Medium enterprise (Individual submission) | Medium enterprise (Joint submission) | Small enterprise (Individual submission) | Small enterprise (Joint submission) | Micro enterprise (Individual submission) | Micro enterprise (Joint submission) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Fee | EUR 1 131 | EUR 848 | EUR 609 | EUR 457 | EUR 87 | EUR 65 |
+
+## ANNEX III
+
+**Fees for the update of registrations under Article 22 of Regulation (EC) No 1907/2006**
+
+**Table 1**
+
+**Standard fees for the update of the tonnage range**
+
+|  | Individual submission | Joint submission |
+| --- | --- | --- |
+| From 1-10 tonnes range to 10-100 tonnes range | EUR 3 507 | EUR 2 630 |
+| From 1-10 tonnes range to 100-1 000 tonnes range | EUR 12 861 | EUR 9 645 |
+| From 1-10 tonnes range to over 1 000 tonnes range | EUR 38 192 | EUR 28 644 |
+| From 10-100 tonnes range to 100-1 000 tonnes range | EUR 9 353 | EUR 7 015 |
+| From 10-100 tonnes range to over 1 000 tonnes range | EUR 34 685 | EUR 26 013 |
+| From 100-1 000 tonnes range to over 1 000 tonnes range | EUR 25 332 | EUR 18 998 |
+
+**Table 2**
+
+**Reduced fees for SMEs for the update of the tonnage range**
+
+|  | Medium enterprise (Individual submission) | Medium enterprise (Joint submission) | Small enterprise (Individual submission) | Small enterprise (Joint submission) | Micro enterprise (Individual submission) | Micro enterprise (Joint submission) |
+| --- | --- | --- | --- | --- | --- | --- |
+| From 1-10 tonnes range to 10-100 tonnes range | EUR 1 908 | EUR 1 431 | EUR 1 027 | EUR 770 | EUR 147 | EUR 110 |
+| From 1-10 tonnes range to 100-1 000 tonnes range | EUR 6 995 | EUR 5 246 | EUR 3 767 | EUR 2 825 | EUR 538 | EUR 404 |
+| From 1-10 tonnes range to over 1 000 tonnes range | EUR 20 774 | EUR 15 580 | EUR 11 186 | EUR 8 389 | EUR 1 598 | EUR 1 198 |
+| From 10-100 tonnes range to 100-1 000 tonnes range | EUR 5 087 | EUR 3 816 | EUR 2 739 | EUR 2 055 | EUR 391 | EUR 294 |
+| From 10-100 tonnes range to over 1 000 tonnes range | EUR 18 866 | EUR 14 150 | EUR 10 159 | EUR 7 619 | EUR 1 451 | EUR 1 088 |
+| From 100-1 000 tonnes range to over 1 000 tonnes range | EUR 13 779 | EUR 10 334 | EUR 7 419 | EUR 5 564 | EUR 1 060 | EUR 795 |
+
+**Table 3**
+
+**Standard fees for other updates**
+
+<table>
+<tbody><tr><td colspan="4">Type of update</td></tr>
+<tr><td>Change in identity of the registrant involving a change in legal personality</td><td colspan="3">EUR 1 949 </td></tr>
+<tr><td colspan="2">Type of update</td><td>Individual submission</td><td>Joint submission</td></tr>
+<tr><td rowspan="7">Change in the access granted to information in the submission:</td><td>Degree of purity and/or identity of impurities or additives</td><td>EUR 5 846 </td><td>EUR 4 384 </td></tr>
+<tr><td>Relevant tonnage band</td><td>EUR 1 949 </td><td>EUR 1 461 </td></tr>
+<tr><td>A study summary or a robust study summary</td><td>EUR 5 846 </td><td>EUR 4 384 </td></tr>
+<tr><td>Information in the safety data sheet</td><td>EUR 3 897 </td><td>EUR 2 923 </td></tr>
+<tr><td>Trade name of the substance</td><td>EUR 1 949 </td><td>EUR 1 461 </td></tr>
+<tr><td>IUPAC name for non-phase-in substances referred to in Article 119(1), point (a), of Regulation (EC) No 1907/2006</td><td>EUR 1 949 </td><td>EUR 1 461 </td></tr>
+<tr><td>IUPAC name for substances referred to in Article 119(1), point (a), of Regulation (EC) No 1907/2006 used as intermediates, in scientific research and development or in product and process orientated research and development</td><td>EUR 1 949 </td><td>EUR 1 461 </td></tr>
+</tbody>
+</table>
+
+**Table 4**
+
+**Reduced fees for SMEs for other updates**
+
+<table>
+<tbody><tr><td colspan="2">Type of update</td><td colspan="2">Medium enterprise</td><td colspan="2">Small enterprise</td><td colspan="2">Micro enterprise</td></tr>
+<tr><td colspan="2">Change in identity of the registrant involving a change in legal personality</td><td colspan="2">EUR 1 060 </td><td colspan="2">EUR 571 </td><td colspan="2">EUR 82 </td></tr>
+<tr><td colspan="2">Type of update</td><td>Medium enterprise (Individual submission) </td><td>Medium enterprise (Joint submission) </td><td>Small enterprise (Individual submission) </td><td>Small enterprise (Joint submission) </td><td>Micro enterprise (Individual submission) </td><td>Micro enterprise (Joint submission) </td></tr>
+<tr><td rowspan="7">Change in the access granted to information in the submission:</td><td>Degree of purity and/or identity of impurities or additives</td><td>EUR 3 180 </td><td>EUR 2 385 </td><td>EUR 1 712 </td><td>EUR 1 284 </td><td>EUR 245 </td><td>EUR 183 </td></tr>
+<tr><td>Relevant tonnage band</td><td>EUR 1 060 </td><td>EUR 795 </td><td>EUR 571 </td><td>EUR 428 </td><td>EUR 82 </td><td>EUR 61 </td></tr>
+<tr><td>A study summary or a robust study summary</td><td>EUR 3 180 </td><td>EUR 2 385 </td><td>EUR 1 712 </td><td>EUR 1 284 </td><td>EUR 245 </td><td>EUR 183 </td></tr>
+<tr><td>Information in the safety data sheet</td><td>EUR 2 120 </td><td>EUR 1 590 </td><td>EUR 1 141 </td><td>EUR 856 </td><td>EUR 163 </td><td>EUR 122 </td></tr>
+<tr><td>Trade name of the substance</td><td>EUR 1 060 </td><td>EUR 795 </td><td>EUR 571 </td><td>EUR 428 </td><td>EUR 82 </td><td>EUR 61 </td></tr>
+<tr><td>IUPAC name for non-phase-in substances referred to in Article 119(1), point (a), of Regulation (EC) No 1907/2006</td><td>EUR 1 060 </td><td>EUR 795 </td><td>EUR 571 </td><td>EUR 428 </td><td>EUR 82 </td><td>EUR 61 </td></tr>
+<tr><td>IUPAC name for substances referred to in Article 119(1), point (a), of Regulation (EC) No 1907/2006 used as intermediates, in scientific research and development or in product and process orientated research and development</td><td>EUR 1 060 </td><td>EUR 795 </td><td>EUR 571 </td><td>EUR 428 </td><td>EUR 82 </td><td>EUR 61 </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**Fees for requests under Article 10(a), point (xi), of Regulation (EC) No 1907/2006**
+
+**Table 1**
+
+**Standard fees**
+
+| Item for which confidentiality is requested | Individual submission | Joint submission |
+| --- | --- | --- |
+| Degree of purity and/or identity of impurities or additives | EUR 5 846 | EUR 4 384 |
+| Relevant tonnage band | EUR 1 949 | EUR 1 461 |
+| A study summary or a robust study summary | EUR 5 846 | EUR 4 384 |
+| Information in the safety data sheet | EUR 3 897 | EUR 2 923 |
+| Trade name of the substance | EUR 1 949 | EUR 1 461 |
+| IUPAC name for non-phase-in substances referred to in Article 119(1), point (a), of Regulation (EC) No 1907/2006 | EUR 1 949 | EUR 1 461 |
+| IUPAC name for substances referred to in Article 119(1), point (a), of Regulation (EC) No 1907/2006 used as intermediates, in scientific research and development or in product and process orientated research and development | EUR 1 949 | EUR 1 461 |
+
+**Table 2**
+
+**Reduced fees for SMEs**
+
+| Item for which confidentiality is requested | Medium enterprise (Individual submission) | Medium enterprise (Joint submission) | Small enterprise (Individual submission) | Small enterprise (Joint submission) | Micro enterprise (Individual submission) | Micro enterprise (Joint submission) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Degree of purity and/or identity of impurities or additives | EUR 3 180 | EUR 2 385 | EUR 1 712 | EUR 1 284 | EUR 245 | EUR 183 |
+| Relevant tonnage band | EUR 1 060 | EUR 795 | EUR 571 | EUR 428 | EUR 82 | EUR 61 |
+| A study summary or a robust study summary | EUR 3 180 | EUR 2 385 | EUR 1 712 | EUR 1 284 | EUR 245 | EUR 183 |
+| Information in the safety data sheet | EUR 2 120 | EUR 1 590 | EUR 1 141 | EUR 856 | EUR 163 | EUR 122 |
+| Trade name of the substance | EUR 1 060 | EUR 795 | EUR 571 | EUR 428 | EUR 82 | EUR 61 |
+| IUPAC name for non-phase-in substances referred to in Article 119(1), point (a), of Regulation (EC) No 1907/2006 | EUR 1 060 | EUR 795 | EUR 571 | EUR 428 | EUR 82 | EUR 61 |
+| IUPAC name for substances referred to in Article 119(1), point (a), of Regulation (EC) No 1907/2006 used as intermediates, in scientific research and development or in product and process orientated research and development | EUR 1 060 | EUR 795 | EUR 571 | EUR 428 | EUR 82 | EUR 61 |
+
+## ANNEX V
+
+**Fees and charges for PPORD notifications under Article 9 of Regulation (EC) No 1907/2006**
+
+**Table 1**
+
+**Fees for PPORD Notifications**
+
+| Standard fee | EUR 650 |
+| --- | --- |
+| Reduced fee for medium enterprise | EUR 353 |
+| Reduced fee for small enterprise | EUR 190 |
+| Reduced fee for micro enterprise | EUR 27 |
+
+**Table 2**
+
+**Charges for the extension of a PPORD exemption**
+
+| Standard charge | EUR 1 299 |
+| --- | --- |
+| Reduced charge for medium enterprise | EUR 707 |
+| Reduced charge for small enterprise | EUR 380 |
+| Reduced charge for micro enterprise | EUR 54 |
+
+## ANNEX VI
+
+**1\. Fees for applications for an authorisation under Article 62 of Regulation (EC) No 1907/2006**
+
+**Table 1**
+
+**Standard fees**
+
+| Base fee | EUR 64 650 |
+| --- | --- |
+| Additional fee per substance | EUR 12 930 |
+| Additional fee per use | EUR 58 185 |
+
+**Table 2**
+
+**Reduced fees for medium enterprises**
+
+| Base fee | EUR 40 575 |
+| --- | --- |
+| Additional fee per substance | EUR 8 115 |
+| Additional fee per use | EUR 36 518 |
+
+**Table 3**
+
+**Reduced fees for small enterprises**
+
+| Base fee | EUR 24 345 |
+| --- | --- |
+| Additional fee per substance | EUR 4 869 |
+| Additional fee per use | EUR 21 911 |
+
+**Table 4**
+
+**Reduced fees for micro enterprises**
+
+| Base fee | EUR 5 410 |
+| --- | --- |
+| Additional fee per substance | EUR 1 082 |
+| Additional fee per use | EUR 4 869 |
+
+**2\. Fees for applications for an authorisation for uses of substances in the production of legacy spare parts or in the repair of no-longer-produced articles or complex products as referred to in Article 8(2), fifth subparagraph**
+
+### Table 1 — Standard fees
+
+| Base fee | EUR 32 325 |
+| --- | --- |
+| Additional fee per substance | EUR 6 465 |
+| Additional fee per use | EUR 29 092 |
+
+### Table 2 — Reduced fees for medium enterprises
+
+| Base fee | EUR 20 287 |
+| --- | --- |
+| Additional fee per substance | EUR 4 057 |
+| Additional fee per use | EUR 18 259 |
+
+### Table 3 — Reduced fees for small enterprises
+
+| Base fee | EUR 12 172 |
+| --- | --- |
+| Additional fee per substance | EUR 2 434 |
+| Additional fee per use | EUR 10 955 |
+
+### Table 4 — Reduced fees for micro enterprises
+
+| Base fee | EUR 2 705 |
+| --- | --- |
+| Additional fee per substance | EUR 541 |
+| Additional fee per use | EUR 2 434 |
+
+## ANNEX VII
+
+**1\. Charges for the review of an authorisation under Article 61 of Regulation (EC) No 1907/2006**
+
+**Table 1**
+
+**Standard charges**
+
+| Base charge | EUR 64 650 |
+| --- | --- |
+| Additional charge per substance | EUR 12 930 |
+| Additional charge per use | EUR 58 185 |
+
+**Table 2**
+
+**Reduced charges for medium enterprises**
+
+| Base charge | EUR 40 575 |
+| --- | --- |
+| Additional charge per substance | EUR 8 115 |
+| Additional charge per use | EUR 36 518 |
+
+**Table 3**
+
+**Reduced charges for small enterprises**
+
+| Base charge | EUR 24 345 |
+| --- | --- |
+| Additional charge per substance | EUR 4 869 |
+| Additional charge per use | EUR 21 911 |
+
+**Table 4**
+
+**Reduced charges for micro enterprises**
+
+| Base charge | EUR 5 410 |
+| --- | --- |
+| Additional charge per substance | EUR 1 082 |
+| Additional charge per use | EUR 4 869 |
+
+**2\. Charges for the review of an authorisation granted for uses of substances in the production of legacy spare parts or in the repair of no-longer-produced articles or complex products as referred to in Article 9(2), fifth subparagraph**
+
+### Table 1 — Standard charges
+
+| Base charge | EUR 32 325 |
+| --- | --- |
+| Additional charge per substance | EUR 6 465 |
+| Additional charge per use | EUR 29 092 |
+
+### Table 2 — Reduced charges for medium enterprises
+
+| Base charge | EUR 20 287 |
+| --- | --- |
+| Additional charge per substance | EUR 4 057 |
+| Additional charge per use | EUR 18 259 |
+
+### Table 3 — Reduced charges for small enterprises
+
+| Base charge | EUR 12 172 |
+| --- | --- |
+| Additional charge per substance | EUR 2 434 |
+| Additional charge per use | EUR 10 955 |
+
+### Table 4 — Reduced charges for micro enterprises
+
+| Base charge | EUR 2 705 |
+| --- | --- |
+| Additional charge per substance | EUR 541 |
+| Additional charge per use | EUR 2 434 |
+
+## ANNEX VIII
+
+**Fees for appeals under Article 92 of Regulation (EC) No 1907/2006**
+
+**Table 1**
+
+**Standard fees**
+
+| Appeal against decision taken under | Fee |
+| --- | --- |
+| Article 9 or 20 of Regulation (EC) No 1907/2006 | EUR 2 858 |
+| Article 27 or 30 of Regulation (EC) No 1907/2006 | EUR 5 716 |
+| Article 51 of Regulation (EC) No 1907/2006 | EUR 8 574 |
+
+**Table 2**
+
+**Reduced fees for SMEs**
+
+| Appeal against decision taken under | Fee |
+| --- | --- |
+| Article 9 or 20 of Regulation (EC) No 1907/2006 | EUR 1 794 |
+| Article 27 or 30 of Regulation (EC) No 1907/2006 | EUR 3 587 |
+| Article 51 of Regulation (EC) No 1907/2006 | EUR 5 381 |
+
+( 1 ) Commission Implementing Regulation (EU) 2021/876 of 31 May 2021 laying down rules for the application of Regulation (EC) No 1907/2006 as regards applications for authorisation and review reports for the uses of substances in the production of legacy spare parts and in the repair of articles and complex products no longer produced and amending Regulation (EC) No 340/2008 (OJ 192.).

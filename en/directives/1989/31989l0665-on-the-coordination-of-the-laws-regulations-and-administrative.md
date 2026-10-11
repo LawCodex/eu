@@ -24,11 +24,13 @@ retrieved: 2026-10-11
 
 **(89/665/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL DIRECTIVE 92/50/EEC of 18 June 1992</td><td> L 209</td><td>1</td><td>24.7.1992</td></tr>
 <tr><td></td><td> DIRECTIVE 2007/66/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2007 </td><td> L 335</td><td>31</td><td>20.12.2007</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/23/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 </td><td> L 94</td><td>1</td><td>28.3.2014</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 

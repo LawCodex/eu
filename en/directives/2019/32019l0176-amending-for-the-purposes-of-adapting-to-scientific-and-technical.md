@@ -89,6 +89,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 37 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘37</td><td>Lead in the plating layer of high voltage diodes on the basis of a zinc borate glass body</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 1-7 and 10;</td></tr>
 </tbody>
 </table>
@@ -103,3 +104,4 @@ In Annex III, entry 37 is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>

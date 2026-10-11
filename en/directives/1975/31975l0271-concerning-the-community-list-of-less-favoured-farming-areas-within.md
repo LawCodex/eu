@@ -34,6 +34,7 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 76/401/EEC of 6 April 1976</td><td> L 108</td><td>22</td><td>26.4.1976</td></tr>
@@ -51,6 +52,7 @@ Amended by:
 <tr><td></td><td>Commission Decision of 7 April 1993</td><td> L 108</td><td>134</td><td>1.5.1993</td></tr>
 <tr><td></td><td>Commission Decision of 13 February 1997</td><td> L 60</td><td>64</td><td>1.3.1997</td></tr>
 <tr><td></td><td>Commission Decision of 8 April 1998</td><td> L 127</td><td>29</td><td>29.4.1998</td></tr>
+</table>
 
 Corrected by:
 
@@ -108,6 +110,7 @@ ANNEXBILAGANHANGANNEXEALLEGATOBIJLAGE
 
 ZONES DÉFAVORISÉES AU SENS DE L'ARTICLE 3 PARAGRAPHE 3 DE LA DIRECTIVE 75/268/CEE
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 01 — Département de l'Ain </td></tr>
 <tr><td colspan="2">Arrondissement de Belley</td></tr>
@@ -1695,9 +1698,11 @@ ZONES DÉFAVORISÉES AU SENS DE L'ARTICLE 3 PARAGRAPHE 3 DE LA DIRECTIVE 75/268/
 <tr><td>  </td><td>Trois-Îlets</td></tr>
 <tr><td>  </td><td>Vauclin</td></tr>
 </tbody>
+</table>
 
 MOUNTAIN AND HILL AREAS UNDER ARTICLE 3 (3) OF DIRECTIVE 75/268/EEC
 
+<table>
 <tbody><tr><td>Region</td><td>Department</td><td>Canton</td><td>Municipality</td><td> Total areas  (ha) </td><td> Utilized agricultural area  (ha) </td></tr>
 <tr><td rowspan="2">Aquitaine</td><td rowspan="2">Pyrénées-Atlantiques</td><td rowspan="2">Iholdy</td><td> Arhansus </td><td>532</td><td>332</td></tr>
 <tr><td> Juxue </td><td>1 517</td><td>728</td></tr>
@@ -1713,6 +1718,7 @@ MOUNTAIN AND HILL AREAS UNDER ARTICLE 3 (3) OF DIRECTIVE 75/268/EEC
 <tr><td>Vals-les-Bains</td><td> Saint-Julien-du-Serre </td><td>978</td><td>169</td></tr>
 <tr><td>Vals-les-Bains</td><td> Vesseaux </td><td>1 871</td><td>275</td></tr>
 </tbody>
+</table>
 
 ZONES DÉFAVORISÉES AU SENS DE L'ARTICLE 3 PARAGRAPHE 4 DE LA DIRECTIVE 75/268/CEE
 
@@ -1822,11 +1828,13 @@ DÉPARTEMENT DES VOSGES (88)
 
 PRA Vôge (en partie)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 88 — Département des Vosges </td></tr>
 PRA Vôge<tr><td>Bains-les-Bains</td><td>Viomenil</td></tr>
 <tr><td>Xertigny</td><td>Charmoix-Vorgueilleux</td></tr>
 </tbody>
+</table>
 
 PRA Plateau lorrain (en partie)
 
@@ -1852,6 +1860,7 @@ Ainvelle
 
 Senaide
 
+<table>
 <tbody><tr><td>Cantons</td><td>Communes</td></tr>
 <tr><td colspan="2"> 88 — Département des Vosges </td></tr>
 PRA Plateau lorrain<tr><td rowspan="14">Bruyères</td><td>Aydoilles</td></tr>
@@ -2020,6 +2029,7 @@ PRA Plateau lorrain<tr><td rowspan="14">Bruyères</td><td>Aydoilles</td></tr>
 <tr><td>Vomécourt</td></tr>
 <tr><td>Xaffévillers</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DU DOUBS (25)
 
@@ -2751,10 +2761,12 @@ Saint-Antoin (fraction)
 
 Montagne (fraction)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 38 — Département de l'Isère </td></tr>
 Arrondissement de Grenoble<tr><td>Roybon</td><td>Lentiol, Saint-Clair-sur-Galaure</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DE LA SAVOIE (73)
 
@@ -2944,6 +2956,7 @@ PRA Sologne bourbonnaise (en totalité)
 
 PRA Clunysois (en totalité)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 71 — Département de la Saône-et-Loire </td></tr>
 <tr><td colspan="2">Zone enclavée entre le Clunysois, le Charollais et l'Autunois</td></tr>
@@ -2954,6 +2967,7 @@ PRA Clunysois (en totalité)
 <tr><td>St-Gengoux-le-National</td><td>Bissy-sous-Uxelles, Chapaize, Chissey-les-Mâcon</td></tr>
 <tr><td>Cluny</td><td>Berze-le-Chatel, Blanot, Bray, Cortambert, Donzy-le-Pertuis</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DE L'YONNE (89)
 
@@ -3617,6 +3631,7 @@ PRA Sologne (en totalité)
 
 PRA Pays fort et Sancerrois
 
+<table>
 <tbody><tr><td>Canton d'Argent-sur-Sauldre:</td><td>Blancafort</td></tr>
 <tr><td>Canton d'Aubigny-sur-Nère:</td><td>Oizon</td></tr>
 <tr><td rowspan="2">Canton de la Chapelle-d'Angillon:</td><td>La Chapelle-d'Angillon</td></tr>
@@ -3643,6 +3658,7 @@ PRA Pays fort et Sancerrois
 <tr><td>Vailly</td></tr>
 <tr><td>Villegenon</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DU LOIRET (45)
 
@@ -3686,11 +3702,13 @@ PRA Bas Berry (en totalité)
 
 PRA Brenne (en totalité)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 36 — Département de l'Indre </td></tr>
 Arrondissement de Châteauroux<tr><td>Châteauroux</td><td>Saint-Maur, Niherne</td></tr>
 <tr><td>Buzançais</td><td>Villedieu-sur-Indre, La Chapelle-Orthemale</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT D'INDRE-ET-LOIRE
 
@@ -3710,6 +3728,7 @@ PRA Brandes (en totalité)
 
 PRA Confolentais (en totalité)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 16 — Département de la Charente </td></tr>
 <tr><td colspan="2">Arrondissement de Confolens</td></tr>
@@ -3726,6 +3745,7 @@ Arrondissement de Jonzac<tr><td>Montguyon</td><td>La Barde, Boresse-et-Martron, 
 <tr><td>Mirambeau</td><td>Boisredon, Courpignac, Soubran</td></tr>
 <tr><td>Montendre</td><td>Chamouillac, Corignac, Coux, Jussas, Montendre, Soumeras</td></tr>
 </tbody>
+</table>
 
 18\. ZÔNE LIMOUSIN
 
@@ -3797,10 +3817,12 @@ PRA Côteaux du Gers (en totalité)
 
 PRA Côteaux de Gascogne (en totalité)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 31 — Département de la Haute-Garonne </td></tr>
 PRA Les Vallées<tr><td>Carbonne</td><td>Bois-la-Pierre</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DES HAUTES-PYRÉNÉES (65)
 
@@ -3838,6 +3860,7 @@ PRA Rouergue (en totalité)
 
 PRA Bas Quercy de Montpezat (en totalité sauf 8 communes: Bioule, La Française, Lamothe-Cardeville, Lizac, Moissac, Montastruc, Piquecos, Realville)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 82 — Département du Tarn-et-Garonne </td></tr>
 <tr><td colspan="2">Arrondissement de Montauban</td></tr>
@@ -3848,6 +3871,7 @@ PRA Bas Quercy de Montpezat (en totalité sauf 8 communes: Bioule, La Française
 <tr><td colspan="2">Arrondissement de Castelsarrasin</td></tr>
 <tr><td>Castelsarrasin</td><td>Albefeuille-Lagarde, Barry-d'Islemade, Castelsarrasin, Labastide-du-Temple, Meauzac</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DU LOT-ET-GARONNE (47)
 
@@ -4053,11 +4077,13 @@ Visker
 
 Castera-Lou
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 65 — Département des Hautes-Pyrénées </td></tr>
 PRA Vallée de l'Adour<tr><td>Castelnau-Rivière-Basse</td><td>Villefranque</td></tr>
 <tr><td>Tarbes</td><td>Montignac</td></tr>
 </tbody>
+</table>
 
 24\. ZÔNE ENSEMBLE SOUS-PYRÉNÉEN (II)
 
@@ -4437,11 +4463,13 @@ Schoenbourg
 
 Ratzwiller
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 67 — Département du Bas-Rhin </td></tr>
 Arrondissement de Saverne<tr><td>Drulingen</td><td>Adamswiller, Asswiller, Baerendorf, Berg, Bettwiller, Burbach, Bust, Diemeringen, Druhingen, Durstel, Eschwiller, Eywiller, Goerlingen, Gungwiller, Hirschland, Kirrberg, Macwiller, Ottwiller, Rauwiller, Rexigen, Siewiller, Thal-Drulingen, Weyer</td></tr>
 <tr><td>Sarre-Union</td><td>Altwiller, Bissert, Butten, Dehlingen, Diedendorf, Domfessel, Harskirchen, Hinsingen, Lorentzen, Ratzwiller, Rimsdorf, Shopperten, Voellerdingen, Wolfskirchen</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DE LA MOSELLE (57)
 
@@ -4499,12 +4527,14 @@ Volmunster
 
 Philippsbourg
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 57 — Département de la Moselle </td></tr>
 Arrondissement de Sarrebourg<tr><td>Lorquin</td><td>Métairies-Saint-Quirin, Niderhoff, Vasperviller</td></tr>
 <tr><td>Phalsbourg</td><td>Arzviller, Dannelbourg, Danne et Quatre-Vents, Guntzviller, Henridorff, St-Louis, Vilsberg</td></tr>
 <tr><td>Sarrebourg</td><td>Hartzviller, Plaine de Walsch, Troisfontaines</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DU HAUT-RHIN (68)
 
@@ -4520,6 +4550,7 @@ DÉPARTEMENT DES VOSGES (88)
 
 PRA Montagne vosgienne (partie non classée en zone de montagne)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 88 — Département des Vosges </td></tr>
 Arrondissement d'Épinal<tr><td>Charmes</td><td>Charmes, Essegney, Vincey</td></tr>
@@ -4528,13 +4559,16 @@ Arrondissement d'Épinal<tr><td>Charmes</td><td>Charmes, Essegney, Vincey</td></
 <tr><td>Épinal-Ouest</td><td>Chantraine, Darnieulles, Les Forges, Golbey, Uxegney, Épinal</td></tr>
 <tr><td>Rambervillers</td><td>Rambervillers</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 08 — Département des Ardennes </td></tr>
 Arrondissement de Charleville-Mézières<tr><td>Renwez</td><td>Arreux, Harcy, Les Mazures, Montcornet-en-Ardenne, Renwez, Secheval</td></tr>
 <tr><td>Rocroi</td><td>Bourg-Fidèle, Gué-D'Hossus, Maubert-Fontaine, Regniowez, Rocroi, Sevigny-la-Forêt, Taillette</td></tr>
 <tr><td>Signy-le-Petit</td><td>Brognon, Éteignières, La Neuville-aux-Joutes, Neuvillez-Beaulieu, Signy-le-Petit</td></tr>
 </tbody>
+</table>
 
 b) ZÔNE ÎLES DU PONANT
 
@@ -4644,6 +4678,7 @@ Yves
 
 Port-des-Barques
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 17 — Département de Charente-Maritime </td></tr>
 <tr><td colspan="2">Arrondissement de La Rochelle</td></tr>
@@ -4659,6 +4694,7 @@ Port-des-Barques
 <tr><td>Mirambeau</td><td>Saint-Bonnet, Saint-Thomas-de-Conac, Saint-Sorlin</td></tr>
 <tr><td>Saint-Genis-de-Saintonge</td><td>Saint-Dizant, Saint-Fort-de-Gironde</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DES DEUX-SÈVRES (79)
 
@@ -4818,10 +4854,12 @@ Allinges
 
 PRA Albanais (partie non classée en montagne)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 74 — Département de la Haute-Savoie </td></tr>
 Arrondissement de Saint-Julien-en-Genevois<tr><td>Saint-Julien-en-Genevois</td><td> Chênex,   Feigères, Valleiry, Viry</td></tr>
 </tbody>
+</table>
 
 DÉPARTEMENT DE L'ARDÈCHE
 
@@ -4847,11 +4885,13 @@ Serrières
 
 Limony
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 69 — Département du Rhône </td></tr>
 Arrondissement de Lyon<tr><td>Condrieu</td><td>Ampuis, Condrieu, Loire, Sainte-Colombe-les-Vienne, Saint-Cyr-sur-le-Rhône, Saint-Romain-en-Gal, Tupin-et-Semons</td></tr>
 <tr><td>Givors</td><td>Givors, Montagny</td></tr>
 </tbody>
+</table>
 
 e) ZÔNE PROVENCE-CÔTE D'AZUR
 
@@ -4947,11 +4987,13 @@ Saint-Amant-Tallende
 
 Sayat (fraction)
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 58 — Département de la Nièvre </td></tr>
 <tr><td colspan="2">Arrondissement de Cosne-sur-Loire</td></tr>
 <tr><td>Saint-Amand-en-Puisaye</td><td>Arquian, Bitry, Dampierre-sous-Bouhy, Saint-Amand-en-Puisaye, Saint-Vérain</td></tr>
 </tbody>
+</table>
 
 Note:
 
@@ -4961,6 +5003,7 @@ PRA: petite zone agricole
 
 MOUNTAIN AREAS PURSUANT TO ARTICLE 23 OF REGULATION (EC) No 950/97
 
+<table>
 <tbody><tr><td>Region</td><td>Department</td><td>Canton</td><td>Municipality</td><td> Total area  (ha) </td><td> UAA  (ha) </td></tr>
 <tr><td rowspan="9">AQUITAINE</td><td rowspan="9">Pyrénées-Atlantiques</td><td>Hasparren</td><td> — Saint-Martin-d'Arberoue </td><td>1 469</td><td>1 033</td></tr>
 <tr><td>Hendaye</td><td> — Biriatou </td><td>1 104</td><td>150</td></tr>
@@ -4972,6 +5015,7 @@ MOUNTAIN AREAS PURSUANT TO ARTICLE 23 OF REGULATION (EC) No 950/97
 <tr><td> — Lasseubetat </td><td>706</td><td>459</td></tr>
 <tr><td>Saint-Palais</td><td> — Orègue </td><td>3 643</td><td>1 876</td></tr>
 </tbody>
+</table>
 
 ( 1 ) See page 1 of this Official Journal.
 

@@ -91,6 +91,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 7(c)-II is replaced by the following:
 
+<table>
 <tbody><tr><td>‘7(c)-II</td><td>Lead in dielectric ceramic in capacitors for a rated voltage of 125 V AC or 250 V DC or higher</td><td>Does not apply to applications covered by point 7(c)-I and 7(c)-IV of this Annex. Expires on: <table><tbody><tr><td>—</td><td>21 July 2021 for categories 1-7 and 10;</td></tr>
 </tbody>
 </table>
@@ -105,3 +106,4 @@ In Annex III, entry 7(c)-II is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>

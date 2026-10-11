@@ -1,0 +1,408 @@
+---
+title: "Regulation (EU) 2016/2336 of the European Parliament and of the Council of 14 December 2016 establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic and repealing Council Regulation (EC) No 2347/2002"
+identifier: "32016R2336"
+eli: "http://data.europa.eu/eli/reg/2016/2336/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2016-12-14
+entry_into_force: 2016-07-29
+last_amended: 2016-12-23
+consolidated_version: "02016R2336-20161223"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R2336-20161223"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2016/2336 of the European Parliament and of the Council of 14 December 2016 establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic and repealing Council Regulation (EC) No 2347/2002
+
+**REGULATION (EU) 2016/2336 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 December 2016**
+
+**establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic and repealing Council Regulation (EC) No 2347/2002**
+
+**REGULATION (EU) 2016/2336 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 December 2016**
+
+**establishing specific conditions for fishing for deep-sea stocks in the north-east Atlantic and provisions for fishing in international waters of the north-east Atlantic and repealing Council Regulation (EC) No 2347/2002**
+
+## Article 1 — Objectives
+
+This Regulation shall contribute to the achievement of the objectives listed in Article 2 of Regulation (EU) No 1380/2013 as far as deep-sea species and habitats are concerned. In addition, it shall aim at:
+
+(a) improving scientific knowledge on deep-sea species and their habitats;
+
+(b) preventing significant adverse impacts on VMEs within the framework of deep-sea fishing and ensuring the long-term conservation of deep-sea fish stocks;
+
+(c) ensuring that Union measures for the purpose of sustainable management of deep-sea fish stocks are consistent with the Resolutions adopted by the General Assembly of the United Nations, in particular Resolutions 61/105 and 64/72.
+
+## Article 2 — Scope
+
+1\. This Regulation applies to fishing activities or intended fishing activities in the following waters:
+
+(a) by Union fishing vessels and third-country fishing vessels in Union waters of the North Sea, of the north-western waters and of the south-western waters as well as Union waters of ICES zone IIa;
+
+(b) by Union fishing vessels in international waters of CECAF areas 34.1.1, 34.1.2 and 34.2.
+
+2\. Paragraph 1 of this Article is without prejudice to Article 16(5).
+
+## Article 3 — Subject matter
+
+1\. This Regulation applies to species that occur in deep-sea waters and that are characterised by a combination of the following biological factors: maturation at relatively old ages, slow growth, long life expectancies, low natural mortality rates, intermittent recruitment of successful year classes and spawning that may not occur every year (‘deep-sea species’).
+
+2\. For the purposes of this Regulation, deep-sea species and, among them, most vulnerable species are listed in Annex I.
+
+## Article 4 — Definitions
+
+1\. For the purposes of this Regulation, the definitions provided for in Article 4 of Regulation (EU) No 1380/2013 and Article 2 of Council Regulation (EC) No 734/2008 ( 1 ) apply.
+
+2\. In addition, the following definitions apply:
+
+(a) ‘ICES zones’ means the zones defined in Regulation (EC) No 218/2009 of the European Parliament and of the Council ( 2 );
+
+(b) ‘CECAF areas’ means the areas defined in Regulation (EC) No 216/2009 of the European Parliament and of the Council ( 3 );
+
+(c) ‘Regulatory Area of the NEAFC’ means the waters subject to the Convention on Future Multilateral Cooperation in North-East Atlantic Fisheries which lie beyond the waters under the fisheries jurisdiction of the contracting parties to that Convention;
+
+(d) ‘most vulnerable species’ means the deep-sea species that are indicated in the third column ‘Most vulnerable (x)’ of the table in Annex I;
+
+(e) ‘métier’ means fishing activities targeting certain species by a certain gear in a certain area;
+
+(f) ‘deep-sea métier’ means a métier that targets deep-sea species in accordance with the indications laid down in Article 5(2);
+
+(g) ‘fisheries monitoring centre’ means an operational centre established by a flag Member State and equipped with computer hardware and software enabling automatic data reception, processing and electronic data transmission;
+
+(h) ‘encounters’ means catches of such quantities of VME indicator species that are above the threshold levels set out in Annex IV;
+
+(i) ‘unintended catches’ means incidental catches of marine organisms which, under Article 15 of Regulation (EU) No 1380/2013, must be landed and counted against quotas either because they are below the minimum conservation reference size or because they exceed the quantities permitted under the catch composition and by-catch rules;
+
+(j) ‘VME indicators’ means those included in Annex III;
+
+(k) ‘existing deep-sea fishing areas’ means the portion of the area referred to in point (a) of Article 2(1), where deep-sea fishing activities have historically occurred and that is determined in accordance with Article 7.
+
+## Article 5 — Fishing authorisations
+
+1\. Fishing activities targeting deep-sea species shall be subject to a fishing authorisation (the ‘targeting fishing authorisation’). The targeting fishing authorisation shall indicate the deep-sea species that the vessel is authorised to target.
+
+2\. For the purpose of paragraph 1, a fishing vessel carrying out a fishing activity shall be deemed to target deep-sea species if its communications about catches (in the logbook, landing declarations, sales notes or similar document) in a calendar year concerned contain at least 8 % of deep-sea species in any fishing trip.
+
+However, this shall not apply to fishing vessels for which the overall recording of deep-sea species in the calendar year concerned is less than 10 tonnes. This subparagraph is without prejudice to paragraph 6.
+
+3\. Fishing activities of fishing vessels that, although not targeting deep-sea species, catch deep-sea species as a by-catch, shall be subject to a fishing authorisation (the ‘by-catch fishing authorisation’). The by-catch fishing authorisation shall indicate the deep-sea species that the vessel may encounter as by-catch while targeting other species.
+
+4\. The two types of fishing authorisations referred to in paragraphs 1 and 3 of this Article, respectively, shall be clearly distinguishable in the electronic database referred to in Article 116 of Regulation (EC) No 1224/2009.
+
+5\. Fishing vessels not holding any fishing authorisation under this Article shall be prohibited from fishing for deep-sea species in excess of 100 kg in each fishing trip. Deep-sea species caught in excess of 100 kg by such vessels shall not be retained on board, transhipped or landed, except for unintended catches of deep-sea species subject to the landing obligation set out in Article 15 of Regulation (EU) No 1380/2013, which shall be landed and counted against quotas.
+
+6\. A fishing vessel holding a by-catch fishing authorisation and having access to a quota for by-catches of deep-sea species that exceeds by no more than 15 % the threshold of 10 tonnes set out in paragraph 2 of this Article, shall not be considered to be targeting deep-sea species. It shall land such catches and count them against the quota. Unintended catches of deep-sea species subject to the landing obligation set out in Article 15 of Regulation (EU) No 1380/2013 shall be landed and counted against quotas.
+
+7\. This Regulation shall apply mutatis mutandis to issuance of fishing authorisations to third-country fishing vessels pursuant to Council Regulation (EC) No 1006/2008 ( 4 ).
+
+## Article 6 — Capacity management
+
+1\. The aggregate fishing capacity measured in gross tonnage and in kilowatts of all Union fishing vessels to which a Member State has issued a targeting fishing authorisation shall at no time exceed the aggregate fishing capacity of the vessels of that Member State, during 2009-2011, whichever year provides the higher figure, which:
+
+(a) have caught 10 tonnes or more of deep-sea species during any of the three calendar years between 2009-2011, whichever year provides the higher figure; and
+
+(b) are registered in any of the outermost regions, within the meaning of Article 349 TFEU, of that Member State and where the catches of deep-sea species of each such vessel in any of the three calendar years between 2009-2011 constituted at least 10 % of their total yearly catches, whichever year provides the higher figure.
+
+2\. By way of derogation from point (a) of paragraph 1, where a Member State has been allocated fishing opportunities for species listed in Annex I before 12 January 2017, but its vessels have not caught 10 tonnes or more of deep-sea species in any of the reference years, the aggregate fishing capacity of such Member State shall at no time exceed the aggregate fishing capacity of its vessels in any of the three latest years in which at least one of its vessels caught 10 tonnes or more of deep-sea species, whichever year provides the higher figure.
+
+## Article 7 — Existing deep-sea fishing areas
+
+1\. By 13 July 2017, Member States whose vessels have been granted a deep-sea fishing permit in accordance with Article 3(1) of Regulation (EC) No 2347/2002, and as far as it relates to fishing activities by vessels catching more than 10 tonnes each calendar year, shall inform the Commission, by means of VMS records or, if VMS records are not available, by means of other relevant and verifiable information, of the locations of fishing activities for deep-sea species of such vessels during the reference calendar years 2009-2011.
+
+2\. On the basis of information provided under paragraph 1, as well as on the basis of the best available scientific and technical information, the Commission shall, by 13 January 2018, determine, by means of implementing acts, the existing deep-sea fishing areas. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 18.
+
+## Article 8 — General requirements for applications for fishing authorisations
+
+1\. Each application for a fishing authorisation shall be accompanied by a detailed description of the area where the fishing vessel intends to carry out fishing activities, the type of gears, the depth range at which the activities will be carried out, the intended frequency and duration of the fishing activity, as well as the names of the deep-sea species concerned.
+
+2\. Targeting fishing authorisations shall only be issued for fishing activities within the existing deep-sea fishing areas.
+
+3\. By way of derogation from paragraph 2 of this Article, and until the determination of the existing deep-sea fishing areas in accordance with Article 7, targeting fishing authorisations may be issued provided that the fishing vessel has presented evidence that it had been exercising fishing activities in the deep-sea métier for at least three years before the application for the fishing authorisation is lodged. Such fishing authorisation may be issued only in respect of locations where such previous fishing activities have been carried out.
+
+4\. No fishing authorisation shall be issued for the purpose of fishing with bottom trawls at a depth below 800 metres.
+
+5\. By way of derogation from paragraph 2, a Member State may submit a request to conduct exploratory fisheries in locations outside the existing deep-sea fishing areas. Such a request shall be accompanied by an impact assessment conducted in accordance with the standards set out in the 2008 FAO International Guidelines for the management of Deep-Sea Fisheries in the High Seas. When submitting such a request, the Member State shall indicate the estimated duration of exploratory fisheries and the estimated number of vessels taking part and their capacity. It shall propose mitigating measures to prevent an encounter with or effectively protect VMEs.
+
+6\. The Commission, after having assessed the information provided by the Member States and on the basis of advice from a scientific advisory body, may, by means of implementing acts, grant an approval to conduct the requested exploratory fisheries. In the approval the Commission may, in particular, define:
+
+(a) the area for exploratory fisheries;
+
+(b) the maximum number of vessels and the maximum capacity;
+
+(c) the duration of such fisheries not exceeding one year, renewable once;
+
+(d) the maximum percentage of the total allowable catch of deep-sea species that may be caught in the exploratory fisheries; and
+
+(e) mitigating measures that must be complied with in order to protect VMEs.
+
+7\. In order to ensure a collection of representative data that is adequate for the assessment and management of deep-sea fish stocks and of encounters with VMEs, any fishing authorisation issued in accordance with paragraph 6 shall require the presence of scientific observers or remote electronic monitoring on the vessel concerned during the first 12 months of the duration of the fishing authorisation.
+
+8\. On the basis of a request and of information provided by the Member State concerned, the Commission may adjust, by means of implementing acts, the determination of the existing deep-sea fishing area in order to include the locations of the fishing activities conducted under a fishing authorisation issued in accordance with paragraphs 5 and 6 of this Article.
+
+## Article 9 — Specific requirements for the protection of VMEs
+
+1\. This Article shall apply to fishing operations with bottom gears below a depth of 400 metres.
+
+2\. Where, in the course of fishing operations, the quantity of VME indicators, as defined in Annex III, that has been caught in that fishing operation exceeds the thresholds defined in Annex IV, an encounter with VMEs shall be considered to have taken place. The fishing vessel shall immediately cease fishing in the area concerned. It shall resume operations only when reaching an alternative area at least five nautical miles from the area in which the encounter occurred.
+
+3\. The fishing vessel shall immediately report each encounter with VMEs to the competent national authorities who shall notify the Commission without delay.
+
+4\. Member States shall use the best available scientific and technical information, including biogeographical information and the information referred to in paragraph 3, to identify where VMEs are known to occur or are likely to occur. In addition, a competent scientific advisory body shall be requested by the Commission to carry out an annual assessment of areas where VMEs are known to occur or are likely to occur.
+
+That assessment shall be conducted in accordance with the 2008 FAO International Guidelines for the Management of Deep-Sea Fisheries in the High Seas, shall apply the precautionary approach to fisheries management as referred to in point 8 of Article 4(1) of Regulation (EU) No 1380/2013 and shall be made publicly available.
+
+5\. Where, on the basis of the procedure referred to in paragraph 4, areas where VMEs are known to occur, or are likely to occur, have been identified, Member States and the competent scientific advisory body shall inform the Commission in a timely manner.
+
+6\. By 13 January 2018, on the basis of the best scientific and technical information available and of the assessments and identifications carried out by Member States and the scientific advisory body, the Commission shall adopt implementing acts for the purpose of establishing a list of areas where VMEs are known to occur or are likely to occur. The Commission shall review the list annually on the basis of advice received from the Scientific, Technical and Economic Committee for Fisheries and, where appropriate, amend the list by means of implementing acts. The Commission may remove an area from the list provided that it determines, on the basis of an impact assessment and after consulting the competent scientific advisory body, that there is sufficient evidence to indicate that VMEs are not present, or that appropriate conservation and management measures have been adopted which ensure that significant adverse impacts on VMEs in that area are prevented. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 18.
+
+7\. The Commission may review, on the basis of the best available scientific information, the VME indicators, and is empowered to amend the list included in Annex III by means of delegated acts in accordance with Article 17.
+
+8\. New impact assessments shall be required if there are significant changes to the techniques used for carrying out fisheries with bottom gear, or where there is new scientific information indicating the presence of VMEs in a given area.
+
+9\. Fishing with bottom gears shall be prohibited in all areas listed in accordance with paragraph 6.
+
+## Article 10 — Application of specific control provisions
+
+Fisheries and fishing activities covered by this Regulation shall also be subject to the provisions in Articles 7, 17, 42, 43 and 45, Article 84(1)(a), Article 95(3), Article 104(1), Article 105(3)(c), Article 107(1), Article 108(1) and Article 115(c) of, and Annex I to, Regulation (EC) No 1224/2009, except where otherwise provided for in this Regulation.
+
+## Article 11 — Designated ports
+
+1\. Member States shall designate the ports in which any landing or transhipment of deep-sea species or any mixture thereof in excess of 100 kg is to take place. By 13 March 2017, Member States shall transmit to the Commission the list of those designated ports.
+
+2\. No quantity of any mixture of deep-sea species in excess of 100 kg may be landed at any place other than the ports which have been designated by Member States pursuant to paragraph 1.
+
+## Article 12 — Prior notification
+
+By way of derogation from Article 17 of Regulation (EC) No 1224/2009, the masters of all Union fishing vessels intending to land 100 kg or more of deep-sea species shall, irrespective of the length of the fishing vessel, be required to notify, at least four hours before the estimated time of arrival at port, their flag Member State's competent authority of that intention. The master or any other person responsible for the operation of vessels of 12 metres in length or less shall notify the competent authorities at least one hour before the estimated time of arrival at port.
+
+## Article 13 — Logbook entries in deep waters
+
+1\. Where the obligation to keep a logbook applies, masters of Union fishing vessels holding a fishing authorisation in accordance with Article 5(1) or (3) shall, when engaged in a deep-sea métier or when fishing below 400 metres:
+
+(a) draw a new line in the paper logbook after each haul; or
+
+(b) when they are subject to the electronic recording and reporting system, record separately after each haul.
+
+2\. Masters of Union fishing vessels shall also record in the vessel's logbook any quantities of deep-sea species listed in Annex I caught, retained on board, transhipped or landed in accordance with Article 5(5), and any quantities of VME indicators listed in Annex III above the thresholds set out in Annex IV, including species compositions and weight, and report those quantities to the competent authorities.
+
+## Article 14 — Withdrawal of fishing authorisations
+
+Without prejudice to Article 7(4) and Article 92 of Regulation (EC) No 1224/2009, and in accordance with Article 90(1) thereof, the fishing authorisations referred to in Article 5(1) and (3) of this Regulation shall be withdrawn for a duration of at least two months in any of the following cases:
+
+(a) failure to conform to the conditions set in the fishing authorisation with regard to limits on the use of gears, allowed areas of operation or catch limits on the species whose targeting is allowed; or
+
+(b) failure to take on board a scientific observer or to allow sampling of catches for scientific purposes as specified in Article 16 of this Regulation.
+
+## Article 15 — Rules on data collection and reporting
+
+1\. Without prejudice to more specific provisions in this Regulation, Regulation (EC) No 199/2008 shall apply.
+
+2\. When collecting data on deep-sea métiers in accordance with the general rules on data collection and with the precision levels laid down in the relevant multiannual Union programme for collection and management of biological, technical, environmental, social and economic data, Member States shall observe the specific data collection and reporting requirements set out in Annex II for the deep-sea métier.
+
+3\. Member States shall include the necessary conditions in all fishing authorisations issued in accordance with Article 5 to ensure that the vessel concerned participates, in cooperation with the relevant scientific institute, in any data collection scheme the scope of which would comprise the fishing activities for which authorisations are issued.
+
+4\. The master of a vessel, or any other person responsible for the vessel's operation, shall be required to take on board the scientific observer whom the Member State has assigned for his vessel, unless this is not possible for security reasons. The master shall facilitate the discharging of the scientific observer's tasks.
+
+5\. Upon a request from the Commission, a Member State shall submit annual reports containing aggregate data on the number of vessels flying its flag that are involved in deep-sea fishing, their fishing area, the type of gear, the size, the number of each type of fishing authorisations issued, their originating port, the total deep-sea fishing opportunities available to its vessels and the aggregate percentage of the use of such fishing opportunities. Those reports shall be made publicly available.
+
+## Article 16 — Observer coverage
+
+1\. Member States shall establish a programme for observer coverage to ensure the collection of relevant, timely and accurate data on the catch and by-catch of deep-sea species and encounters with VMEs and other relevant information for the effective implementation of this Regulation. Vessels using bottom trawls or bottom set gillnets with a fishing authorisation to target deep-sea species shall be subject to at least 20 % observer coverage, excluding vessels that, for security reasons, are not suitable to receive an observer. All other vessels with an authorisation to catch deep-sea species shall be subject to at least 10 % observer coverage, excluding vessels that, for security reasons, are not suitable to receive an observer.
+
+2\. Where an operator has been requested by its Member State to receive an observer on board its vessel, the absence of an observer for reasons beyond the control of the operator shall not prevent that vessel from leaving the port.
+
+3\. By 1 January 2018, the Commission shall seek scientific advice, based on the data collected under this Regulation, on whether the observer coverage set out in paragraph 1 of this Article is sufficient to achieve the objectives of Article 1, in particular to prevent significant adverse impact on VMEs within the framework of deep-sea fishing, and on whether it should be adapted on the basis of an updated sampling methodology. The Commission shall, without delay, inform the European Parliament and the Council of the results of the scientific advice sought.
+
+4\. Where, on the basis of the scientific advice referred to in paragraph 3, the Commission considers that the percentages of the observer coverage set out in paragraph 1 should be adjusted, the Commission may, as a matter of urgency, submit a proposal for the revision of those percentages.
+
+5\. By way of derogation from Article 2, this Article shall apply mutatis mutandis to fishing for deep-sea species by vessels using bottom trawls or bottom set gillnets in the Regulatory Area of the NEAFC.
+
+## Article 17 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 9(7) shall be conferred on the Commission for a period of five years from 12 January 2017.  The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 9(7) may be revoked at any time by the European Parliament or by the Council.  A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 9(7) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months from the notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object.  That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 18 — Committee procedure
+
+1\. The Commission shall be assisted by a Committee for fisheries and aquaculture. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 19 — Evaluation
+
+1\. By 13 January 2021, the Commission shall, on the basis of Member States' reports and scientific advice that it shall request to that effect, evaluate the impact of the measures laid down in this Regulation and determine to what extent the objectives referred to in points (a) and (b) of Article 1 have been achieved.
+
+2\. The evaluation shall focus on trends in the following subjects:
+
+(a) the use of all types of fishing gear when targeting deep-sea species, with a particular emphasis on the impact on the most vulnerable species and on VMEs;
+
+(b) the vessels that have changed to using gears with a reduced impact on the sea bottom, and progress as regards the prevention, minimisation and, where possible, the elimination of unintended catches;
+
+(c) the range of operation of vessels engaging in each deep-sea métier;
+
+(d) the completeness and reliability of data that Member States provide to scientific bodies for the purpose of stock assessment, or to the Commission in case of specific data calls;
+
+(e) the deep-sea stocks for which the scientific advice has improved;
+
+(f) the effectiveness of accompanying measures to eliminate discards and reduce catches of the most vulnerable species;
+
+(g) the quality of the impact assessments carried out pursuant to Article 8;
+
+(h) the number of vessels and ports in the Union directly affected by the implementation of this Regulation;
+
+(i) the effectiveness of measures established to ensure the long-term sustainability of deep-sea fish stocks and to prevent by-catch of non-target species, in particular by-catch of the most vulnerable species;
+
+(j) the extent to which VMEs have been effectively protected through the restriction of authorised fishing activities to existing deep-sea fishing areas, the move-on rule and/or by other measures;
+
+(k) the application of the depth limitation of 800 metres.
+
+3\. On the basis of the evaluation referred to in paragraph 1 of this Article, the Commission may make proposals for amendments to this Regulation, as appropriate. In particular, if that evaluation indicates that fishing with bottom gears does not comply with the objectives set out in Article 1, the Commission may submit a proposal to amend this Regulation with the aim of ensuring that targeting fishing authorisations for vessels using bottom trawls or bottom-set gillnets expire or are revoked and that any measures necessary regarding bottom gears, including longliners, are put in place to ensure the protection of the most vulnerable species and VMEs.
+
+## Article 20 — Repeal and transitional provisions
+
+1\. Regulation (EC) No 2347/2002 is repealed.
+
+2\. References to the repealed Regulation shall be construed as references to this Regulation.
+
+3\. By way of derogation from paragraph 1 of this Article, Articles 3, 7 and 9 of Regulation (EC) No 2347/2002 shall continue to apply to Union fishing vessels carrying out fishing activities in the Regulatory Area of NEAFC.
+
+4\. Special fishing permits issued in accordance with Regulation (EC) No 2347/2002 shall remain valid for a maximum period of one year after 12 January 2017.
+
+## Article 21 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Deep-sea species**
+
+| Scientific name | Common name | Most vulnerable (x) |
+| --- | --- | --- |
+| Centrophorus spp. | Gulper sharks |  |
+| Centroscyllium fabricii | Black dogfish | x |
+| Centroscymnus coelolepis | Portuguese dogfish | x |
+| Centroscymnus crepidater | Longnose velvet dogfish | x |
+| Dalatias licha | Kitefin shark | x |
+| Etmopterus princeps | Greater lanternshark | x |
+| Apristuris spp. | Iceland catshark |  |
+| Chlamydoselachus anguineus | Frilled shark |  |
+| Deania calcea | Birdbeak dogfish |  |
+| Galeus melastomus | Blackmouth dogfish |  |
+| Galeus murinus | Mouse catshark |  |
+| Hexanchus griseus | Bluntnose six-gilled shark | x |
+| Etmopterus spinax | Velvet belly |  |
+| Oxynotus paradoxus | Sailfin roughshark (Sharpback shark) |  |
+| Scymnodon ringens | Knifetooth dogfish |  |
+| Somniosus microcephalus | Greenland shark |  |
+| Alepocephalidae | Smoothheads (Slickheads) |  |
+| Alepocephalus Bairdii | Baird's smoothhead |  |
+| Alepocephalus rostratus | Risso's smoothhead |  |
+| Aphanopus carbo | Black scabbardfish |  |
+| Argentina silus | Greater silver smelt |  |
+| Beryx spp. | Alfonsinos |  |
+| Chaceon (Geryon) affinis | Deep-water red crab |  |
+| Chimaera monstrosa | Rabbitfish (rattail) |  |
+| Hydrolagus mirabilis | Large-eyed rabbitfish (Ratfish) |  |
+| Rhinochimaera atlantica | Straightnose rabbitfish |  |
+| Coryphaenoides rupestris | Roundnose grenadier |  |
+| Epigonus telescopus | Black cardinalfish | x |
+| Helicolenus dactilopterus | Bluemouth (Bluemouth redfish) |  |
+| Hoplostethus atlanticus | Orange roughy | x |
+| Macrourus berglax | Roughhead grenadier (Rough rattail) |  |
+| Molva dypterigia | Blue ling |  |
+| Mora moro | Common mora |  |
+| Antimora rostrata | Blue antimora (Blue hake) |  |
+| Pagellus bogaraveo | Red (blackspot) seabream |  |
+| Polyprion americanus | Wreckfish |  |
+| Reinhardtius hippoglossoides | Greenland halibut |  |
+| Cataetyx laticeps |  |  |
+| Hoplosthetus mediterraneus | Silver roughy (Pink) |  |
+| Macrouridae other than Coryphaenoides rupestris and Macrourus berglax | Grenadiers (rattails) other than roundnose grenadier and roughhead grenadier |  |
+| Nesiarchus nasutus | Black gemfish |  |
+| Notocanthus chemnitzii | Snubnosed spiny eel |  |
+| Raja fyllae | Round skate |  |
+| Raja hyperborea | Arctic skate |  |
+| Raja nidarosiensus | Norwegian skate |  |
+| Trachyscorpia cristulata | Spiny (deep-sea) scorpionfish |  |
+| Lepidopus caudatus | Silver scabbardfish (Cutlass fish) |  |
+| Lycodes esmarkii | Greater eelpout |  |
+| Sebastes viviparus | Small redfish (Norway haddock) |  |
+
+## ANNEX II
+
+**Specific data collection and reporting requirements referred to in Article 15(2)**
+
+1\. Member States shall ensure that data collected for an area that comprises both Union waters and international waters are further disaggregated so that they refer to Union waters or international waters separately.
+
+2\. Where the activity in the deep-sea métier overlaps with activity in another métier in the same area, the data collection concerning the former shall be carried out separately from the data collection concerning the latter.
+
+3\. Discards shall be sampled in all deep-sea métiers. The sampling strategy for landings and discards shall cover all the species listed in Annex I, as well as species belonging to the seabed ecosystem such as deep-water corals, sponges or other organisms belonging to the same ecosystem.
+
+4\. An observer deployed on board shall be requested to identify and document the weight of any stony coral, soft coral, sponges or other organisms belonging to the same ecosystem taken on board by the vessel's gear.
+
+5\. Where the applicable multiannual data collection plan requires the collection of fishing effort data in terms of hours fished by trawls and soak time for passive gear, Member States shall collect and be ready to present, together with such fishing effort data, the following additional data:
+
+(a) geographical location of the fishing activities on a haul-by-haul basis, from VMS data transmitted by the vessel to the fisheries monitoring centre;
+
+(b) the fishing depths at which the gears are deployed in the event that the vessel is subject to reporting by electronic logbook. The master of the vessel shall notify fishing depth following the standardised reporting format.
+
+## ANNEX III
+
+**VME Indicator species**
+
+The following is a list of VME habitat types, with the taxa most likely to be found in those habitats which shall be considered as VME indicators.
+
+| VME Habitat type | Representative Taxa |
+| --- | --- |
+| 1. Cold-water coral reef |  |
+| (a) Lophelia pertusa reef | Lophelia pertusa |
+| (b) Solenosmilia variabilis reef | Solenosmilia variabilis |
+| 2. Coral garden |  |
+| (a) Hard bottom garden |  |
+| (i) Hard bottom gorgonian and black coral gardens | Anthothelidae Chrysogorgiidae Isididae, Keratoisidinae Plexauridae Acanthogorgiidae Coralliidae Paragorgiidae Primnoidae Schizopathidae |
+| (ii) Colonial scleractinians on rocky outcrops | Lophelia pertusa Solenosmilia variabilis |
+| (iii) Non-reefal scleractinian aggregations | Enallopsammia rostrata Madrepora oculata |
+| (b) Soft-bottom coral gardens |  |
+| (i) Soft-bottom gorgonian and black coral gardens | Chrysogorgiidae |
+| (ii) Cup-coral fields | Caryophylliidae |
+| (iii) Cauliflower coral fields | Flabellidae Nephtheidae |
+| 3. Deep-sea sponge aggregations |  |
+| (a) Other sponge aggregations | Geodiidae Ancorinidae Pachastrellidae |
+| (b) Hard-bottom sponge gardens | Axinellidae Mycalidae Polymastiidae Tetillidae |
+| (c) Glass sponge communities | Rossellidae Pheronematidae |
+| 4. Sea pen fields | Anthoptilidae Pennatulidae Funiculinidae Halipteridae Kophobelemnidae Protoptilidae Umbellulidae Vigulariidae |
+| 5. Tube-dwelling anemone patches | Cerianthidae |
+| 6. Mud- and sand-emergent fauna | Bourgetcrinidae Antedontidae Hyocrinidae Xenophyophora Syringamminidae |
+| 7. Bryzoan patches |  |
+
+## ANNEX IV
+
+An encounter with a possible VME is defined as:
+
+(a) for a trawl tow, and other fishing gear than longlines: the presence of more than 30 kg of live coral and/or 400 kg of live sponge of VME indicators; and
+
+(b) for a longline set: the presence of VME indicators on 10 hooks per 1 000 hook segment or per 1 200 m section of longline, whichever is the shorter.
+
+( 1 ) Council Regulation (EC) No 734/2008 of 15 July 2008 on the protection of vulnerable marine ecosystems in the high seas from the adverse impacts of bottom fishing gears (OJ L 201, 30.7.2008, p. 8).
+
+( 2 ) Regulation (EC) No 218/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in the north-east Atlantic (OJ L 87, 31.3.2009, p. 70).
+
+( 3 ) Regulation (EC) No 216/2009 of the European Parliament and of the Council of 11 March 2009 on the submission of nominal catch statistics by Member States fishing in certain areas other than those of the North Atlantic (OJ L 87, 31.3.2009, p. 1).
+
+( 4 ) Council Regulation (EC) No 1006/2008 of 29 September 2008 concerning authorisations for fishing activities of Community fishing vessels outside Community waters and the access of third country vessels to Community waters, amending Regulations (EEC) No 2847/93 and (EC) No 1627/94 and repealing Regulation (EC) No 3317/94 (OJ L 286, 29.10.2008, p. 33).

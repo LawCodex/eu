@@ -243,6 +243,7 @@ The following minimum requirements, inasmuch as they apply to work equipment in 
 |  | 2.1. | Work equipment control devices which affect safety must be clearly visible and identifiable and appropriately marked where necessary. Except where necessary for certain control devices, control devices must be located outside danger zones and in such a way that their operation cannot pose any additional hazard. They must not give rise to any hazard as a result of any unintentional operation. If necessary, from the main control position, the operator must be able to ensure that no person is present in the danger zones. If this is impossible, a safe system such as an audible and/or visible warning signal must be given automatically whenever the machinery is about to start. An exposed worker must have the time and the means quickly to avoid hazards caused by the starting or stopping of the work equipment. Control systems must be safe and must be chosen making due allowance for the failures, faults and constraints to be expected in the planned circumstances of use. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>2.2.</td><td>It must be possible to start work equipment only by deliberate action on a control provided for the purpose. The same shall apply: <table><tbody><tr><td>—</td><td>to restart it after a stoppage for whatever reason,</td></tr>
 </tbody>
 </table>
@@ -251,6 +252,7 @@ The following minimum requirements, inasmuch as they apply to work equipment in 
 </table>
  unless such a restart or change does not subject exposed workers to any hazard.  This requirement does not apply to restarting or a change in operating conditions as a result of the normal operating cycle of an automatic device. </td></tr>
 </tbody>
+</table>
 
 |  | 2.3. | All work equipment must be fitted with a control to stop it completely and safely. Each work station must be fitted with a control to stop some or all of the work equipment, depending on the type of hazard, so that the equipment is in a safe state. The equipment’s stop control must have priority over the start controls. When the work equipment or the dangerous parts of it have stopped, the energy supply of the actuators concerned must be switched off. |
 | --- | --- | --- |
@@ -267,6 +269,7 @@ The following minimum requirements, inasmuch as they apply to work equipment in 
 |  | 2.7. | Where there is a risk of rupture or disintegration of parts of the work equipment, likely to pose significant danger to the safety and health of workers, appropriate protection measures must be taken. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>2.8.</td><td>Where there is a risk of mechanical contact with moving parts of work equipment which could lead to accidents, those parts must be provided with guards or devices to prevent access to danger zones or to halt movements of dangerous parts before the danger zones are reached. The guards and protection devices must: <table><tbody><tr><td>—</td><td>be of robust construction,</td></tr>
 </tbody>
 </table>
@@ -287,6 +290,7 @@ The following minimum requirements, inasmuch as they apply to work equipment in 
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 2.9. | Areas and points for working on, or maintenance of, work equipment must be suitably lit in line with the operation to be carried out. |
 | --- | --- | --- |

@@ -1,0 +1,822 @@
+---
+title: "Regulation (EU) 2017/2403 of the European Parliament and of the Council of 12 December 2017 on the sustainable management of external fishing fleets, and repealing Council Regulation (EC) No 1006/2008"
+identifier: "32017R2403"
+eli: "http://data.europa.eu/eli/reg/2017/2403/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2017-12-12
+entry_into_force: 2022-12-18
+last_amended: 2026-01-10
+consolidated_version: "02017R2403-20260110"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2403-20260110"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2017/2403 of the European Parliament and of the Council of 12 December 2017 on the sustainable management of external fishing fleets, and repealing Council Regulation (EC) No 1006/2008
+
+**REGULATION (EU) 2017/2403 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 December 2017**
+
+**on the sustainable management of external fishing fleets, and repealing Council Regulation (EC) No 1006/2008**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/498 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 March 2019 </td><td> L 85I</td><td>25</td><td>27.3.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2842 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 November 2023 </td><td> L 2842</td><td>1</td><td>20.12.2023</td></tr>
+</table>
+
+**REGULATION (EU) 2017/2403 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 12 December 2017**
+
+**on the sustainable management of external fishing fleets, and repealing Council Regulation (EC) No 1006/2008**
+
+## TITLE I — GENERAL PROVISIONS
+
+##### Article 1 — Subject matter
+
+This Regulation sets out rules for issuing and managing fishing authorisations for:
+
+(a) Union fishing vessels conducting fishing operations in waters under the sovereignty or jurisdiction of a third country, under the auspices of an RFMO to which the Union is a contracting party, in or outside Union waters, or on the high seas; and
+
+(b) third-country fishing vessels conducting fishing operations in Union waters.
+
+##### Article 2 — Relationship to international and Union law
+
+This Regulation shall apply without prejudice to the provisions:
+
+(a) in SFPAs and other fisheries agreements concluded between the Union and third countries;
+
+(b) adopted by RFMOs to which the Union is a contracting party;
+
+(c) in Union law implementing or transposing provisions referred to in points (a) and (b).
+
+##### Article 3 — Definitions
+
+1\. For the purpose of this Regulation, the definitions set out in Article 4 of the Basic Regulation and in points 1 to 4, 15, 16 and 22 of Article 2 of the IUU Regulation shall apply, save as otherwise provided for in this Regulation.
+
+2\. For the purpose of this Regulation, the following definitions also apply:
+
+(a) ‘support vessel’ means a vessel other than a craft carried on board that is not equipped with operational fishing gear designed to catch or attract fish and that facilitates, assists or prepares fishing operations;
+
+(b) ‘fishing authorisation’ means, in respect of a Union fishing vessel, an authorisation:
+
+— within the meaning of point 10 of Article 4 of the Control Regulation,
+
+— issued by a third country entitling a Union fishing vessel to carry out specific fishing operations in the waters under the sovereignty or jurisdiction of that third country, during a specified period, in a given area or for a given fishery under specific conditions,
+
+and, in respect of a third-country fishing vessel, an authorisation entitling it to carry out in Union waters specific fishing operations during a specified period, in a given area or for a given fishery under specific conditions;
+
+(c) ‘direct authorisation’ means a fishing authorisation issued by a third-country competent authority to a Union fishing vessel outside the framework of an SFPA or of an agreement on exchange of fishing opportunities and joint management of species of common interest;
+
+(d) ‘third-country waters’ means waters under the sovereignty or jurisdiction of a third country. The waters of a Member State that are not Union waters are considered as third-country waters for the purpose of this Regulation;
+
+(e) ‘observer programme’ means a scheme under the auspices of an RFMO, an SFPA, a third country or a Member State that provides observers on board fishing vessels including, where specifically provided for in the applicable observer scheme, to verify the vessel’s compliance with the rules adopted by that RFMO or that third country, or under that SFPA;
+
+(f) ‘chartering’ means an arrangement by which a fishing vessel flying the flag of a Member State is contracted for a defined period by an operator in either another Member State or a third country without a change of flag;
+
+(g) ‘fishing operation’ means all activities in connection with searching for fish, the shooting, towing and hauling of active gears, setting, soaking, removing or resetting of passive gears and the removal of any catch from the gear, keep nets, or from a transport cage to fattening and farming cages.
+
+## TITLE II — FISHING OPERATIONS BY UNION FISHING VESSELS OUTSIDE UNION WATERS
+
+### CHAPTER I — Common provisions
+
+##### Article 4 — General principle
+
+Without prejudice to the requirement to obtain an authorisation from the competent organisation or third country, a Union fishing vessel shall not carry out fishing operations outside Union waters unless it has been authorised by its flag Member State, and the fishing operations are indicated in a valid fishing authorisation issued in accordance with Chapters II to V, as appropriate.
+
+##### Article 5 — Eligibility criteria
+
+1\. A flag Member State may only issue a fishing authorisation for fishing operations outside Union waters if:
+
+(a) it has received complete and accurate information, in accordance with the requirements of the Annex or the SFPA concerned or RFMO concerned, about the fishing vessel and the associated support vessel(s), including non-Union support vessels;
+
+(b) the fishing vessel has a valid fishing licence under Article 6 of the Control Regulation;
+
+(c) the fishing vessel and any associated support vessel apply the relevant IMO ship identification number scheme insofar as is required under Union law;
+
+(d) the fishing vessel is not included in an IUU vessel list adopted by an RFMO and/or by the Union pursuant to the IUU Regulation;
+
+(e) where applicable, fishing opportunities are available to the flag Member State under the fisheries agreement concerned or the relevant provisions of the RFMO; and
+
+(f) where applicable, the fishing vessel complies with the requirements set out in Article 6.
+
+2\. The Commission is empowered to adopt delegated acts, in accordance with Article 44, for the purpose of amending the Annex to ensure appropriate monitoring of the activities of fishing vessels under this Regulation, in particular through new data requirements resulting from fisheries agreements or the development of information technologies.
+
+##### Article 6 — Reflagging operations
+
+1\. This Article applies to vessels that, during the 5 years preceding the application for a fishing authorisation, have:
+
+(a) left the Union fishing fleet register and been reflagged in a third country; and
+
+(b) subsequently returned to the Union fishing fleet register.
+
+2\. A flag Member State may only issue a fishing authorisation if it has verified that, during the period that the vessel referred to in paragraph 1 operated under a third-country flag, it did not:
+
+(a) engage in IUU fishing;
+
+(b) operate in waters of a third country identified as a country allowing non-sustainable fishing pursuant to point (a) of Article 4(1) of Regulation (EU) No 1026/2012 of the European Parliament and of the Council ( 1 );
+
+(c) operate in waters of a third country listed as non-cooperating pursuant to Article 33 of the IUU Regulation; and
+
+(d) operate in waters of a third country identified as non-cooperating in fighting IUU fishing pursuant to Article 31 of the IUU Regulation after a period of 6 weeks following the adoption of the decision of the Commission identifying that third country as such, except for any operations carried out in the event that the Council has rejected a proposal to designate that third country as non-cooperating pursuant to Article 33 of that Regulation.
+
+3\. To that end, an operator shall provide the following information related to the period during which the vessel operated under a third-country flag required by a flag Member State:
+
+(a) a declaration of catches and fishing effort during the relevant period as required by the third-country flag state;
+
+(b) a copy of any fishing authorisations permitting fishing operations during the relevant period;
+
+(c) an official statement by the third country where the vessel was reflagged listing the sanctions the vessel or the operator had been subject to during the relevant period;
+
+(d) complete flag history during the period when the vessel had left the Union fleet register.
+
+4\. A flag Member State shall not issue a fishing authorisation to a vessel that has been reflagged in a third country:
+
+(a) listed as non-cooperating in fighting IUU fishing pursuant to Article 33 of the IUU Regulation;
+
+(b) identified as non-cooperating in fighting IUU fishing pursuant to Article 31 of the IUU Regulation after a period of 6 weeks following the adoption of the decision of the Commission identifying that third country as such, except for any operations carried out in the event that the Council has rejected a proposal to designate that third country as non-cooperating pursuant to Article 33 of that Regulation; or
+
+(c) identified as allowing non-sustainable fishing pursuant to point (a) of Article 4(1) of Regulation (EU) No 1026/2012.
+
+5\. Paragraph 4 shall not apply if the flag Member State is satisfied that, as soon as the circumstances described in points (b) to (d) of paragraph 2 or points (a) to (c) of paragraph 4 became applicable, the operator:
+
+(a) ceased fishing operations; and
+
+(b) immediately started the relevant administrative procedures to remove the vessel from the fishing fleet register of the third country.
+
+##### Article 7 — Management of fishing authorisations
+
+1\. When applying for a fishing authorisation, an operator shall provide the flag Member State with complete and accurate data.
+
+2\. An operator shall immediately inform the flag Member State of any change to the related data.
+
+3\. A flag Member State shall on a regular basis monitor whether the conditions on the basis of which a fishing authorisation has been issued continue to be met during the period of validity of that authorisation.
+
+4\. If, as a result of the final outcome of the monitoring activities referred to in paragraph 3, there is evidence that the conditions on the basis of which a fishing authorisation has been issued are no longer met, the flag Member State shall take appropriate action, including amending or withdrawing the authorisation and, if necessary, imposing sanctions. The sanctions applied by the flag Member State in respect of infringements shall be sufficiently stringent to ensure effective compliance with the rules, to prevent infringements and to deprive offenders of the benefits derived from infringements. The flag Member State shall immediately notify the operator and the Commission thereof. Where relevant, the Commission shall notify the secretariat of the RFMO or the third country concerned accordingly.
+
+5\. Upon a reasoned request from the Commission, a flag Member State shall take appropriate action as provided for in paragraph 4, in the event of contravention of conservation and management measures of marine biological resources adopted by an RFMO to which the Union is a contracting party, or under SFPAs.
+
+6\. Where the Union is a contracting party to an RFMO and a Union fishing vessel does not comply with the conditions set out in point (b) of Article 21 as established in the final inspection report recognised by the RFMO, and where the flag Member State fails to take the appropriate action as provided for in paragraph 4 of this Article, the Commission may by decision require the flag Member State concerned to ensure that the Union fishing vessel concerned fulfils those conditions.
+
+Where the flag Member State concerned has not taken appropriate action to comply with the Commission decision referred to in the first subparagraph within a period of 15 days, the Commission shall send the updated details of the fishing vessels referred to in Article 22 to the Secretariat of the RFMO to address the vessel concerned. The Commission shall inform the flag Member State of its action. The flag Member State shall notify the operator of the action of the Commission.
+
+7\. Where the Union has concluded an SFPA with a third country and a Union fishing vessel does not comply with the conditions set out in point (b) of Article 10 as established in the final inspection report recognised by the competent authorities, and where the flag Member State fails to take the appropriate action as provided for in paragraph 4 of this Article, the Commission may by decision require the flag Member State concerned to ensure that the Union fishing vessel concerned fulfils those conditions.
+
+Where the flag Member State concerned has not taken appropriate action to comply with the Commission decision referred to in the first subparagraph within a period of 15 days, the Commission shall send the updated details of the fishing vessels to the third country to address the Union fishing vessel concerned. The Commission shall inform the flag Member State of its action. The flag Member State shall notify the operator of the action of the Commission.
+
+### CHAPTER II — Fishing operations by Union fishing vessels in third-country waters
+
+#### Section 1 — Fishing operations under sfpas
+
+##### Article 8 — Scope
+
+This Section shall apply to fishing operations carried out by Union fishing vessels in third-country waters under an SFPA.
+
+##### Article 9 — RFMO membership
+
+A Union fishing vessel may only carry out fishing operations in waters of a third country on stocks managed by an RFMO if that third country is a contracting party to that RFMO.
+
+##### Article 10 — Conditions for fishing authorisations by the flag Member State
+
+A flag Member State may only issue a fishing authorisation for fishing operations carried out in third-country waters under an SFPA if:
+
+(a) the eligibility criteria set out in Article 5 are fulfilled;
+
+(b) the conditions set out in the relevant SFPA are complied with;
+
+(c) the operator has paid all fees due under the relevant agreements, and where applicable, related financial sanctions established by a judicial or administrative decision having final and binding effect; and
+
+(d) the fishing vessel has a valid fishing authorisation issued by the third country with sovereignty or jurisdiction over the waters where the fishing operations take place.
+
+##### Article 11 — Procedure for obtaining fishing authorisations of the third country
+
+1\. For the purpose of point (d) of Article 10, a flag Member State that has verified that the conditions set out in points (a) to (c) of Article 10 are complied with shall send to the Commission the corresponding application for the authorisation of the third country.
+
+2\. The application referred to in paragraph 1 shall contain the information required under the SFPA.
+
+3\. The flag Member State shall send the application to the Commission at least 10 calendar days before the deadline for the transmission of applications laid down in the SFPA. The Commission may send a duly justified request to the flag Member State for any additional information necessary for verifying the conditions.
+
+4\. Upon receipt of the application or any additional information requested pursuant to paragraph 3 of this Article, the Commission shall conduct a preliminary examination to determine whether the conditions set out in points (a) to (c) of Article 10 are met. The Commission shall then:
+
+(a) send the application to the third country without delay and, in any event, before the expiry of the deadline for the transmission of applications laid down in the SFPA, provided that the deadline set out in paragraph 3 of this Article has been met; or
+
+(b) notify the Member State that the application is refused.
+
+5\. If a third country informs the Commission that it has decided to issue, refuse, suspend or withdraw a fishing authorisation for a Union fishing vessel under the agreement, the Commission shall immediately inform the flag Member State accordingly, if possible by electronic means.
+
+##### Article 12 — Temporary reallocation of unused fishing opportunities in the framework of SFPAs
+
+1\. During a specific year or any other relevant period of the implementation of a protocol to an SFPA taking into account validity periods of the fishing authorisations and fishing seasons, the Commission may identify unused fishing opportunities and inform Member States benefiting from the corresponding shares of the allocation accordingly.
+
+2\. Within 10 calendar days of receipt of this information from the Commission, the Member States referred to in paragraph 1 may:
+
+(a) inform the Commission that they will use their fishing opportunities later in the relevant period of implementation by providing a fishing plan with detailed information on the number of fishing authorisations requested, the estimated catches, area and period of fishing; or
+
+(b) notify the Commission of the use of their fishing opportunities through exchanges of fishing opportunities, pursuant to Article 16(8) of the Basic Regulation.
+
+3\. If certain Member States have not informed the Commission of one of the actions referred to in paragraph 2, or have informed it of a partial use of their fishing opportunities only, and, if as a result, fishing opportunities remain unused, the Commission may launch a call for interest for the available unused fishing opportunities among the other Member States benefiting from a share of the allocation. The Commission shall at the same time inform all Member States of the launch of the call for interest.
+
+4\. Within 10 calendar days of receipt of the call for interest referred to in paragraph 3, Member States benefiting from a share of the allocation may communicate their interest in the available unused fishing opportunities to the Commission. In support for their request, they shall provide a fishing plan with detailed information on the number of fishing authorisations requested, the estimated catches, area and period of fishing.
+
+5\. If deemed necessary for the assessment of the request, the Commission may ask the Member States concerned for additional information.
+
+6\. In the absence of interest in the total amount of the available unused fishing opportunities by the Member States benefiting from a share of the allocation at the end of the 10-day period referred to in paragraph 4, the Commission may extend the call for interest to all Member States. A Member State may communicate its interest in the unused fishing opportunities under the conditions referred to in that paragraph.
+
+7\. On the basis of the information provided by Member States in accordance with paragraph 4 or 6 of this Article, the unused fishing opportunities shall be reallocated by the Council in accordance with Article 43(3) TFEU, solely on a temporary basis for the relevant period of time referred to in paragraph 1 of this Article.
+
+The Commission shall inform the Member States of the Member States to which the reallocation has been made and the quantities reallocated.
+
+8\. The temporary reallocation of fishing opportunities shall be based on transparent and objective criteria including, where applicable, those of an environmental, social and economic nature. Those criteria may include:
+
+(a) the fishing opportunities available for reallocation;
+
+(b) the number of requesting Member States;
+
+(c) the share assigned to each requesting Member State in the initial allocation of fishing opportunities;
+
+(d) the historic catch and effort levels of each requesting Member State, where applicable;
+
+(e) the viability of the fishing plans provided by the requesting Member States, in light of the number, type and characteristics of vessels and gear used.
+
+##### Article 13 — Sub-allocation of a yearly quota broken down into several successive catch limits
+
+1\. Where a protocol to an SFPA sets monthly or quarterly catch limits or other subdivisions of the fishing opportunities available for the relevant year, and where the fishing opportunities allocated are not all used during the same monthly, quarterly or otherwise applicable period of time, the corresponding available fishing opportunities shall be sub-allocated by the Council in accordance with Article 43(3) TFEU among the Member States concerned for the relevant periods of time.
+
+2\. The sub-allocation of the available fishing opportunities shall be carried out using transparent and objective criteria. It shall be consistent with the annual fishing opportunities allocated to Member States under the relevant Council Regulation.
+
+#### Section 2 — Fishing operations under agreements on exchange or joint management
+
+##### Article 14 — Applicable provisions
+
+1\. Articles 8 to 11 shall apply mutatis mutandis to Union fishing vessels fishing in third-country waters under an agreement on exchange of fishing opportunities or joint management of fish stocks of common interest.
+
+2\. By way of derogation from Article 11, a flag Member State may provide the Commission with the details of Union fishing vessels that are eligible for carrying out fishing operations in third-country waters under the relevant agreement. When it is established that the conditions set out in points (a) to (c) of Article 10 are met, the Commission shall forward the details of the relevant Union fishing vessels to the third country without delay. As soon as the third country informs the Commission that the details of those Union fishing vessels have been approved, the Commission shall inform the flag Member State accordingly. The Union fishing vessels for which the required details have been provided shall be considered to have a valid fishing authorisation for the purpose of point (d) of Article 10. The Commission shall also inform the flag Member State without delay by electronic means of any notification by the third country that a Union fishing vessel is not eligible for carrying out fishing operations in its waters.
+
+##### Article 15 — Consultations with third countries in respect of Union fishing vessels
+
+The Commission is empowered to adopt delegated acts, in accordance with Article 44, in order to supplement Article 10 by implementing in Union law the outcome of the consultations between the Union and third countries with which the Union has concluded an agreement, or of arrangements with coastal states with which fish stocks are shared, as regards the conditions for fishing authorisations.
+
+#### Section 3 — Fishing operations under direct authorisations
+
+##### Article 16 — Scope
+
+This Section shall apply to fishing operations carried out by Union fishing vessels in waters of a third country outside the framework of an agreement referred to in Section 1 or 2.
+
+##### Article 17 — Conditions for fishing authorisations by the flag Member States
+
+1\. A flag Member State may only issue a fishing authorisation for fishing operations carried out in third-country waters outside the framework of an agreement referred to in Section 1 or 2 if:
+
+(a) the eligibility criteria set out in Article 5 are fulfilled;
+
+(b) no SFPA or agreement on exchange of fishing opportunities or joint management with the third country concerned is in force or provisionally applied;
+
+(c) the operator has provided each of the following:
+
+— a copy of or an exact reference to the applicable fisheries legislation as provided to the operator by the third country with sovereignty or jurisdiction over the waters where the activities take place,
+
+— a scientific evaluation demonstrating the sustainability of the planned fishing operations, including consistency with the provisions of Article 62 of UNCLOS, as applicable,
+
+— a designated official, public bank account number for the payment of all the fees;
+
+(d) in the event that the fishing operations are to be carried out on species managed by an RFMO, the third country is a contracting party to that organisation; and
+
+(e) the operator has provided either:
+
+— a valid fishing authorisation for the fishing vessel concerned, issued by the third country with sovereignty or jurisdiction over the waters where the fishing operations take place; or
+
+— a written confirmation issued by the third country with sovereignty or jurisdiction over the waters where the fishing operations take place, following the discussions between the operator and that third country, of the terms of the intended direct authorisation to give the operator access to its fishing resources, including the duration, conditions, and fishing opportunities expressed as effort or catch limits.
+
+2\. In any event, fishing operations shall not commence until the third country has issued the valid fishing authorisation referred to in point (e) of paragraph 1. The flag Member State shall suspend its authorisation if the third-country authorisation has not been issued by the beginning of the planned fishing operations.
+
+3\. The scientific evaluation referred to in the second indent of point (c) of paragraph 1 shall be provided by an RFMO or by a regional fisheries body with scientific competence or shall be provided by, or in cooperation with, the third country. The scientific evaluation emanating from the third country shall be reviewed by a scientific institute or body of a Member State or of the Union.
+
+##### Article 18 — Procedure for obtaining fishing authorisations of the third country
+
+1\. A flag Member State that has verified that the conditions set out in points (a) to (e) of Article 17(1) are complied with shall send the Commission the relevant information listed in the Annex, and information related to the fulfilment of the conditions set out in point (c) of Article 17(1).
+
+2\. If the Commission considers that the information referred to in paragraph 1 of this Article is insufficient to assess the fulfilment of the conditions set out in Article 17, it shall request further information or justification within 10 working days of the receipt of that information.
+
+3\. If, following the request for further information or justification referred to in paragraph 2 of this Article and after discussions with the Member State concerned, the Commission finds that the conditions set out in Article 17 are not met, it may object to the granting of the fishing authorisation within 30 calendar days of receipt of all the required information or justification. If the Commission finds that those conditions are met, it shall inform the Member State concerned without delay of its intention not to object.
+
+4\. The flag Member State may issue the fishing authorisation upon expiry of the period referred to in paragraph 2. Where the Commission has requested further information in accordance with that paragraph, the flag Member State may issue the fishing authorisation if no objection has been raised by the Commission within the deadline referred to in paragraph 3 or prior to that deadline, provided that the Commission has informed the Member State of its intention not to raise objections.
+
+5\. By way of derogation from paragraphs 1 to 4, in the event of renewal of a fishing authorisation with the same terms and conditions and within 2 years from the granting of the initial fishing authorisation, the flag Member State may issue the fishing authorisation upon verification of the information received in relation to the conditions set out in points (a), (b), (d) and (e) of Article 17(1) and shall inform the Commission thereof without delay.
+
+6\. If a third country informs the Commission that it has decided to issue, refuse, suspend or withdraw a direct authorisation to a Union fishing vessel, the Commission shall immediately inform the flag Member State accordingly.
+
+7\. If a third country informs the flag Member State that it has decided to issue, refuse, suspend or withdraw a direct authorisation to a Union fishing vessel, the flag Member State shall immediately inform the Commission accordingly.
+
+8\. An operator shall provide the flag Member State with a copy of the agreed final conditions between him and the third country, including a copy of the direct authorisation.
+
+#### Section 4 — Fishing operations by Union fishing vessels in United Kingdom waters
+
+##### Article 18a — Scope
+
+This Section shall apply until 31 December 2019, by way of derogation from Section 3, to fishing operations carried out by Union fishing vessels in United Kingdom waters.
+
+##### Article 18b — Definition
+
+For the purposes of this Section, ‘United Kingdom waters’ means the waters under the sovereignty or jurisdiction of the United Kingdom established in accordance with international law.
+
+##### Article 18c — Procedure for obtaining fishing authorisations from the United Kingdom
+
+1\. A flag Member State that has verified that the conditions set out in Article 5 are complied with shall send to the Commission the corresponding application or list of applications for authorisation by the United Kingdom.
+
+2\. Each application or list of applications shall contain the information requested by the United Kingdom for the issuing of the authorisation, in the required format, as communicated by the United Kingdom to the Commission.
+
+3\. The Commission shall inform the Member States of the information and format referred to in paragraph 2. The Commission may send a request to the flag Member State for any additional information necessary for verifying compliance with the conditions referred to in paragraphs 1 and 2.
+
+4\. Upon receipt of the application or any additional information requested pursuant to paragraph 3, the Commission shall forward the application to the United Kingdom without delay.
+
+5\. As soon as the United Kingdom informs the Commission that it has decided to issue or refuse an authorisation to a Union fishing vessel, the Commission shall immediately inform the flag Member State accordingly.
+
+6\. A flag Member State may only issue a fishing authorisation for fishing operations in United Kingdom waters after having been informed that the United Kingdom has decided to issue an authorisation to the relevant Union fishing vessel.
+
+7\. Fishing operations shall not commence until both the flag Member State and the United Kingdom have issued a fishing authorisation.
+
+8\. Where the United Kingdom informs the Commission that it has decided to suspend or withdraw a fishing authorisation for a Union fishing vessel, the Commission shall immediately inform the flag Member State accordingly. The Member State shall suspend or withdraw its fishing authorisation for fishing operations in United Kingdom waters accordingly.
+
+9\. Where the United Kingdom informs the flag Member State directly that it has decided to issue, refuse, suspend or withdraw a fishing authorisation for a Union fishing vessel, the flag Member State shall immediately inform the Commission accordingly. The Member State shall suspend or withdraw its fishing authorisation for fishing operations in United Kingdom waters accordingly.
+
+##### Article 18d — Monitoring
+
+The Commission shall monitor the issuing of fishing authorisations by the United Kingdom for fishing operations carried out by Union fishing vessels in United Kingdom waters.
+
+### CHAPTER III — Fishing operations by Union fishing vessels under the auspices of RFMOs
+
+##### Article 19 — Scope
+
+This Chapter shall apply to fishing operations carried out by Union fishing vessels fishing for stocks under the auspices of an RFMO, in or outside Union waters, insofar as their operations are subject to an authorisation regime put in place by the RFMO.
+
+##### Article 20 — Fishing authorisations
+
+1\. A Union fishing vessel the fishing operations of which are subject to an authorisation regime adopted by the RFMO shall not carry out fishing operations under the auspices of the RFMO unless:
+
+(a) the Union is a contracting party to the RFMO;
+
+(b) it has been issued with a fishing authorisation by its flag Member State;
+
+(c) it has been included in the relevant register or list of authorised vessels of the RFMO; and
+
+(d) where the fishing operations are carried out in third-country waters, it has been issued with a fishing authorisation by the relevant third country in accordance with Chapter II.
+
+2\. Point (a) of paragraph 1 of this Article shall not apply in respect of Union fishing vessels fishing exclusively in Union waters that have already been issued with a fishing authorisation in accordance with Article 7 of the Control Regulation.
+
+##### Article 21 — Conditions for fishing authorisations by the flag Member States
+
+A flag Member State may issue a fishing authorisation only if:
+
+(a) the eligibility criteria set out in Article 5 are fulfilled;
+
+(b) the rules laid down by the RFMO or the transposing Union law are complied with; and
+
+(c) where the fishing operations are carried out in third-country waters, the criteria set out in Article 10 or 17 are complied with.
+
+##### Article 22 — Registration by RFMOs
+
+1\. A flag Member State shall send the Commission details of vessels it has authorised for fishing operations in accordance with Article 20 of this Regulation or, in the case of Article 20(2) of this Regulation, in accordance with Article 7 of the Control Regulation.
+
+2\. The details referred to in paragraph 1 shall be drawn up in accordance with conditions laid down by the RFMO and accompanied by the information required by that organisation.
+
+3\. The Commission may request any additional information that it deems necessary from the flag Member State within a period of 10 days after receiving the details referred to in paragraph 1. It shall provide a justification for any such request.
+
+4\. When it is satisfied that the conditions set out in Article 21 are met, and within a period of 15 days after receiving the details referred to in paragraph 1 of this Article, the Commission shall send the details of authorised vessels to the RFMO.
+
+5\. If the RMFO register or list is not public, the Commission shall circulate the details of authorised vessels to the Member States involved in the relevant fishery.
+
+### CHAPTER IV — Fishing operations by Union fishing vessels on the high seas
+
+##### Article 23 — Scope
+
+This Chapter shall apply to fishing operations carried out on the high seas falling outside the scope of Chapter III by Union fishing vessels exceeding 24 metres in overall length.
+
+##### Article 24 — Conditions for fishing authorisations by the flag Member States
+
+A flag Member State may issue a fishing authorisation for fishing operations on the high seas only if:
+
+(a) the eligibility criteria set out in Article 5 are fulfilled;
+
+(b) the planned fishing operations are:
+
+— in accordance with a scientific evaluation, demonstrating the sustainability of the planned fishing operations, provided or validated by a scientific institute in the flag Member State, or
+
+— part of a research programme, including a scheme for data collection, organised by a scientific body. The scientific protocol of the research, which will be required in any event, shall be validated by a scientific institute in the flag Member State.
+
+##### Article 25 — Procedure for obtaining fishing authorisations
+
+1\. A flag Member State that has verified that the conditions set out in Article 24 are complied with, shall send to the Commission the information listed in the Annex, and information related to the fulfilment of the conditions set out in Article 5.
+
+2\. If the Commission considers that the information provided in accordance with paragraph 1 of this Article is insufficient to assess the fulfilment of the conditions set out in Article 24, it shall request further information or justification within 10 calendar days of receipt of that information.
+
+3\. If, after receiving the requested additional information or justification referred to in paragraph 2 of this Article, the Commission finds that the conditions set out in Article 24 are not met, it may object to the granting of the fishing authorisation within five calendar days of receipt of the additional information or justification. If the Commission finds that the conditions are met, it shall inform the Member State concerned without delay of its intention not to object.
+
+4\. The flag Member State may issue the fishing authorisation upon expiry of the period referred to in paragraph 2. Where the Commission has requested further information in accordance with that paragraph, the flag Member State may issue the fishing authorisation if no objection has been raised by the Commission within the deadline referred to in paragraph 3 or prior to that deadline, provided that the Commission informed the Member State of its intention not to raise objections.
+
+### CHAPTER V — Chartering of Union fishing vessels
+
+##### Article 26 — Principles
+
+1\. A Union fishing vessel shall not carry out fishing operations under chartering arrangements in waters in which an SFPA is in force or is provisionally applied.
+
+2\. A Union fishing vessel shall not carry out fishing operations under more than one chartering arrangement at the same time or engage in sub-chartering.
+
+3\. Union fishing vessels shall operate under chartering agreements in waters under the auspices of an RFMO only if the State to which the vessel is chartered is a contracting party to that organisation.
+
+4\. A chartered Union fishing vessel shall not use the fishing opportunities of its flag Member State during the period of application of the charter. The catches of a chartered Union fishing vessel shall be counted against the fishing opportunities of the chartering State.
+
+5\. Nothing in this Regulation shall diminish the responsibilities of the flag Member State with respect to its obligations under international law, the Control Regulation, the IUU Regulation or other provisions of the CFP, including reporting requirements.
+
+6\. The holder of the fishing licence of a Union fishing vessel that is to be chartered shall inform the flag Member State of the chartering arrangement before its start. That Member State shall inform the Commission thereof without delay.
+
+##### Article 27 — Management of fishing authorisations under a chartering arrangement
+
+When issuing a fishing authorisation to a vessel in accordance with Article 17, 21 or 24, and when the relevant fishing operations are carried out under a chartering arrangement, the flag Member State shall verify that:
+
+(a) the chartering State’s competent authority has officially confirmed that the arrangement is in line with its national law; and
+
+(b) the details of the chartering arrangement are specified in the fishing authorisation including time period, fishing opportunities and fishing area.
+
+### CHAPTER VII — Observation and reporting obligations
+
+##### Article 29 — Observer programme data
+
+If data are collected on board a Union fishing vessel under an observer programme, related reports shall be sent, in accordance with the transmission rules specified in the observer programme, without delay to the competent authority of the flag Member State.
+
+##### Article 30 — Information to third countries
+
+1\. When carrying out fishing operations under this Title the master of a Union fishing vessel or that master’s representative shall make the relevant catch declarations and landing declarations available to the third country, and in addition send its flag Member State an electronic copy of those data.
+
+2\. A flag Member State shall assess, through cross-checking in accordance with Article 109 of the Control Regulation, the consistency of the data referred to in paragraph 1 of this Article, with the data it has received in accordance with that Regulation and, where applicable, in accordance with relevant provisions of the SFPA.
+
+3\. The non-transmission of catch declarations or landing declarations to the third country referred to in paragraph 1 of this Article shall also be considered serious infringements for the purposes of Article 90 of the Control Regulation depending on the gravity of the infringement in question which shall be determined by the competent authority of the flag Member State, taking into account criteria such as the nature of the damage, its value, the economic situation of the offender and the extent of the infringement or its repetition.
+
+## TITLE III — FISHING OPERATIONS BY THIRD-COUNTRY FISHING VESSELS IN UNION WATERS
+
+##### Article 31 — RFMO membership requirements
+
+A third-country fishing vessel may only carry out fishing operations in Union waters on stocks managed by an RFMO if the third country is a contracting party to that RFMO.
+
+##### Article 32 — General principles
+
+1\. A third-country fishing vessel shall not engage in fishing operations in Union waters unless it has been issued with a fishing authorisation by the Commission. It shall only be issued with such an authorisation if it fulfils the eligibility criteria set out in Article 5.
+
+2\. A third-country vessel authorised to fish in Union waters shall comply with the rules governing the fishing operations of Union vessels in the fishing area in which it operates. Should the provisions laid down in the relevant fisheries agreement be different, the provisions shall be stated explicitly either in that agreement or by means of rules agreed with the third country implementing that agreement.
+
+3\. If a third-country fishing vessel is sailing through Union waters without an authorisation issued under this Regulation, its fishing gear shall be lashed and stowed in accordance with the conditions laid down in Article 47 of the Control Regulation so that it is not readily usable for fishing operations.
+
+##### Article 33 — Conditions for fishing authorisations
+
+1\. The Commission may only issue an authorisation to a third-country fishing vessel for fishing operations in Union waters if:
+
+(a) there is a surplus of allowable catch that would cover the proposed fishing opportunities as required under Article 62(2) and (3) of UNCLOS;
+
+(b) the conditions set out in the relevant fisheries agreement are complied with and the fishing vessel is eligible under the fisheries agreement with the third country concerned and, where relevant, is on the list of vessels under that agreement;
+
+(c) the information required under the agreement for the fishing vessel and the associated support vessel(s) is complete and accurate, and the vessel and any associated support vessel(s) have an IMO number when so required under Union law;
+
+(d) the fishing vessel is not included in an IUU vessel list adopted by an RFMO and/or by the Union pursuant to the IUU Regulation;
+
+(e) the third country is not listed as non-cooperating pursuant to the IUU Regulation or as allowing non-sustainable fishing pursuant to Regulation (EU) No 1026/2012.
+
+2\. Point (a) of paragraph 1 shall not apply to third-country vessels carrying out fishing operations under an agreement on exchange of fishing opportunities or joint management of fish stocks of common interest.
+
+##### Article 34 — Procedure for obtaining fishing authorisations
+
+1\. The third country concerned shall send the Commission the applications for its fishing vessels before the deadline in the agreement concerned or that set by the Commission.
+
+2\. The Commission may ask the third country for additional information necessary for verifying that the conditions provided for in Article 33 have been met.
+
+3\. When it is established that the conditions referred to in paragraph 2 are met, the Commission shall issue a fishing authorisation and inform the third country and the Member States concerned of this without delay.
+
+##### Article 35 — Management of fishing authorisations
+
+1\. If a condition set out in Article 33 is no longer met, the Commission shall take the appropriate action, including amending or withdrawing the authorisation, and inform the third country and the Member States concerned of this.
+
+2\. The Commission may refuse, suspend or withdraw the authorisation issued to the third-country fishing vessel in cases where a fundamental change of circumstances has occurred or in cases of a serious threat to the sustainable exploitation, management and conservation of marine biological resources, or where it is essential in order to prevent or suppress IUU fishing, or in cases where the Union has decided to suspend or sever relations with the third country concerned.
+
+The Commission shall immediately inform the third country concerned in the event that it refuses, suspends or withdraws the authorisation in accordance with the first subparagraph.
+
+##### Article 36 — Closure of fishing operations
+
+1\. Where fishing opportunities granted to a third country are deemed to have been exhausted, the Commission shall immediately notify it and the competent inspection authorities of the Member States of this. To ensure the continuance of fishing operations of non-exhausted fishing opportunities, which may also affect the exhausted opportunities, the third country shall submit to the Commission technical measures preventing any negative impact on the exhausted fishing opportunities.
+
+2\. From the date of the notification referred to in paragraph 1, the fishing authorisations issued to vessels flying the flag of that third country concerned shall be considered to be suspended for the fishing operations concerned and the vessels shall no longer be authorised to engage in those fishing operations.
+
+3\. Fishing authorisations shall be considered to be withdrawn where a suspension of fishing authorisations in accordance with paragraph 2 concerns all the operations for which they have been granted.
+
+4\. The third country shall ensure that the fishing vessels concerned are informed immediately of the application of this Article and that they cease all fishing operations concerned. The third country shall also inform the Commission without delay when fishing vessels flying its flag have ceased their fishing operations.
+
+##### Article 37 — Overfishing of quotas in Union waters
+
+1\. When the Commission establishes that a third country has exceeded the quotas it has been allocated for a stock or group of stocks, the Commission shall operate deductions from the quotas allocated to that country for that stock or group of stocks in subsequent years. The Commission shall endeavour to ensure that the amount of the deduction is consistent with deductions imposed on Member States in similar circumstances.
+
+2\. If a deduction in accordance with paragraph 1 cannot be made on the quota for a stock or group of stocks that was overfished as such because that quota for a stock or group of stocks is not sufficiently available to the third country concerned, the Commission may, after consultation with the third country concerned, operate from quotas in subsequent years for other stocks or groups of stocks available to that third country in the same geographical area, or to the corresponding commercial value.
+
+##### Article 38 — Control and enforcement
+
+1\. A third-country vessel authorised to fish in Union waters shall comply with the control rules governing the fishing operations of Union vessels in the fishing area in which it operates.
+
+2\. A third-country vessel authorised to fish in Union waters shall provide to the Commission or the body designated by it, and, where relevant, to the coastal Member State, the data which Union vessels are required to send to the flag Member State under the Control Regulation.
+
+3\. The Commission, or the body designated by it, shall send the data referred to in paragraph 2 to the coastal Member State.
+
+4\. A third-country vessel authorised to fish in Union waters shall provide upon request to the Commission or the body designated by it the observer reports produced under applicable observer programmes.
+
+5\. A coastal Member State shall record all infringements committed by third-country fishing vessels, including the related sanctions, in the national register provided for in Article 93 of the Control Regulation.
+
+## TITLE IIIa — FISHING OPERATIONS BY UNITED KINGDOM FISHING VESSELS IN UNION WATERS
+
+##### Article 38a — Scope
+
+This Title shall apply until 31 December 2019, by way of derogation from Title III, to fishing operations carried out by United Kingdom fishing vessels in Union waters.
+
+##### Article 38b — Fishing operations by United Kingdom fishing vessels
+
+United Kingdom fishing vessels may carry out fishing operations in Union waters, in accordance with the conditions set out in Council Regulations (EU) 2019/124 ( 2 ) and (EU) 2018/2025 ( 3 ) establishing the fishing opportunities.
+
+##### Article 38c — General principles
+
+1\. A United Kingdom fishing vessel shall not engage in fishing operations in Union waters unless it has been issued with a fishing authorisation by the Commission. It shall only be issued with such an authorisation if it fulfils the eligibility criteria set out in paragraph 2.
+
+2\. The Commission may issue a fishing authorisation to United Kingdom fishing vessels if:
+
+(a) the fishing vessel has a valid fishing licence issued by the United Kingdom authority;
+
+(b) the fishing vessel is listed by the United Kingdom in a fleet register accessible to the Commission;
+
+(c) the fishing vessel and any associated support vessel apply the relevant IMO ship identification number scheme insofar as is required under Union law;
+
+(d) the fishing vessel is not included in an IUU vessel list adopted by an RFMO and/or by the Union pursuant to the IUU Regulation;
+
+(e) the United Kingdom is not listed as non-cooperating pursuant to the IUU Regulation or as allowing non-sustainable fishing opportunities pursuant to Regulation (EU) No 1026/2012;
+
+(f) fishing opportunities are available to the United Kingdom.
+
+3\. A United Kingdom fishing vessel authorised to fish in Union waters shall comply with the rules governing the fishing operations of Union fishing vessels in the fishing area in which it operates.
+
+##### Article 38d — Procedure for obtaining fishing authorisations
+
+1\. The United Kingdom shall send to the Commission the application or list of applications for authorisations for its fishing vessels.
+
+2\. The Commission may ask the United Kingdom for additional information necessary for verifying that the conditions provided for in Article 38c(2) are met.
+
+3\. When it is established that the conditions provided for in Article 38c(2) are met, the Commission may issue a fishing authorisation and inform the United Kingdom and the Member States concerned accordingly without delay.
+
+##### Article 38e — Management of fishing authorisations
+
+1\. If any of the conditions set out in Article 38c(2) is no longer met, the Commission shall take the appropriate action, including amending or withdrawing the authorisation, and inform the United Kingdom and the Member States concerned accordingly.
+
+2\. The Commission may refuse to issue authorisations or suspend or withdraw any authorisation issued to a United Kingdom fishing vessel in any of the following cases:
+
+(a) where a fundamental change of circumstances has occurred;
+
+(b) in the event of a serious threat to the sustainable exploitation, management and conservation of marine biological resources;
+
+(c) where it is essential in order to prevent or suppress IUU fishing;
+
+(d) where the Commission deems it appropriate on the basis of its findings resulting from its monitoring activities pursuant to Article 18d;
+
+(e) where the United Kingdom unduly refuses, suspends or withdraws the authorisation of Union fishing vessels to United Kingdom waters.
+
+3\. The Commission shall immediately inform the United Kingdom in the event that it refuses, suspends or withdraws the authorisation in accordance with paragraph 2.
+
+##### Article 38f — Closure of fishing operations
+
+1\. Where fishing opportunities granted to the United Kingdom are deemed to have been exhausted, the Commission shall immediately notify the United Kingdom and the competent inspection authorities of the Member States thereof. With a view to ensuring the continuation of fishing operations of non-exhausted fishing opportunities, which may also affect the exhausted opportunities, the Commission shall request the United Kingdom to communicate to it technical measures preventing any negative impact on the exhausted fishing opportunities.
+
+2\. From the date of the notification referred to in paragraph 1, the fishing authorisations issued to vessels flying the flag of the United Kingdom shall be considered to be suspended for the fishing operations concerned and the vessels shall no longer be authorised to engage in those fishing operations.
+
+3\. Fishing authorisations shall be considered to be withdrawn where a suspension of fishing authorisations in accordance with paragraph 2 concerns all the operations for which they have been granted.
+
+##### Article 38g — Overfishing of quotas in Union waters
+
+When the Commission establishes that the United Kingdom has exceeded the quotas it has been allocated for a stock or group of stocks, the Commission shall operate deductions from other quotas allocated to the United Kingdom. The Commission shall endeavour to ensure that the amount of the deduction is consistent with deductions imposed on Member States in similar circumstances.
+
+##### Article 38h — Control and enforcement
+
+1\. A United Kingdom fishing vessel authorised to fish in Union waters shall comply with the control rules governing the fishing operations of Union fishing vessels in the fishing area in which it operates.
+
+2\. A United Kingdom fishing vessel authorised to fish in Union waters shall provide to the Commission or the body designated by it, and, where relevant, to the coastal Member State, the data which Union fishing vessels are required to send to the flag Member State under the Control Regulation.
+
+3\. The Commission, or the body designated by it, shall send the data received in accordance with paragraph 2 to the coastal Member State.
+
+4\. A United Kingdom fishing vessel authorised to fish in Union waters shall provide upon request to the Commission or the body designated by it the observer reports produced under applicable observer programmes.
+
+5\. A coastal Member State shall record any infringements committed by United Kingdom fishing vessels, including the related sanctions, in the national register provided for in Article 93 of the Control Regulation.
+
+##### Article 38i — Quota transfers and exchanges
+
+1\. A Member State may engage in informal discussions with the United Kingdom and, as appropriate, establish a possible outline of an intended quota transfer or exchange.
+
+2\. Upon notification to the Commission by the Member State concerned, the Commission may carry out the corresponding quota transfer or exchange.
+
+3\. The Commission shall inform the Member States of the agreed quota transfer or exchange.
+
+4\. The fishing opportunities received from or transferred to the United Kingdom under the quota transfer or exchange shall be deemed to be quotas allocated to the Member State concerned, or deducted from such quotas, from the moment that the quota transfer or exchange takes effect. Such allocation or deduction shall not change the existing distribution key for the purpose of allocating fishing opportunities among Member States in accordance with the principle of relative stability of fishing activities.
+
+## TITLE IV — DATA AND INFORMATION
+
+##### Article 39 — Union database for fishing authorisations issued under this Regulation
+
+1\. The Commission shall set up and maintain an electronic Union fishing authorisation database containing all fishing authorisations granted in accordance with Titles II and III, made of a public part and a secure part. That database shall:
+
+(a) record all information submitted in accordance with the Annex and other information submitted to the Commission for the purpose of issuing fishing authorisations under Titles II and III, including the name, city, country of residence of the owner and of up to five main beneficial owners, and display the status of each authorisation as soon as possible;
+
+(b) be used for data and information exchange between the Commission and a Member State; and
+
+(c) be used for the purposes of sustainable management of fishing fleets as well as for the purposes of control only.
+
+2\. The list of all fishing authorisations issued under Titles II and III in the database shall be publicly accessible and contain all of the following information:
+
+(a) the name and flag of the vessel and its CFR and IMO numbers where required under Union law;
+
+(b) the type of authorisation including target species or species group(s); and
+
+(c) the authorised time and area of fishing operation (start and end dates; fishing area).
+
+3\. A Member State shall use the database to submit applications for fishing authorisations to the Commission and to keep its details updated, as required under Articles 11, 18, 22 and 26, and a third country shall use the database to submit applications for fishing authorisations as required under Article 34.
+
+##### Article 40 — Technical requirements
+
+1\. The exchange of information referred to in Titles II and III and in this Title shall be carried out in an electronic format.
+
+2\. The Commission may adopt implementing acts, without prejudice to the provisions of Directive 2007/2/EC of the European Parliament and of the Council ( 4 ), establishing technical operational requirements for the recording, formatting and transmission of the information referred to in Titles II and III and in this Title. The technical operational requirements shall become applicable not earlier than 6 months, and not later than 18 months, after their adoption. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 45(2).
+
+##### Article 41 — Access to data
+
+Without prejudice to Article 110 of the Control Regulation, the Member States or the Commission shall grant access to the secure part of the Union database for external fishing fleets’ fishing authorisations referred to in Article 39 of this Regulation to the relevant competent administrative services involved in the management of fishing fleets.
+
+##### Article 42 — Data management, protection of personal data and confidentiality
+
+Data obtained under this Regulation shall be handled in accordance with Articles 112 and 113 of the Control Regulation, Regulation (EC) No 45/2001 and Directive 95/46/EC and its national implementing rules.
+
+##### Article 43 — Relations with third countries and RFMOs
+
+1\. When a Member State receives information from a third country or an RFMO which is relevant for the effective application of this Regulation, it shall communicate that information to the Commission or the body designated by it, and, where appropriate, to other Member States concerned, provided that it is permitted to do so under bilateral agreements with that third country or the rules of the RFMO concerned.
+
+2\. The Commission or the body designated by it may, in the framework of fisheries agreements concluded between the Union and third countries, under the auspices of RFMOs to which the Union is a contracting party, communicate relevant information concerning non-compliance with the rules of this Regulation, or serious infringements, to other parties to those agreements or organisations subject to the consent of the Member State that supplied the information and in accordance with Regulation (EC) No 45/2001.
+
+## TITLE V — PROCEDURES, DELEGATION AND IMPLEMENTING MEASURES
+
+##### Article 44 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 5(2) and Article 15 shall be conferred on the Commission for a period of 5 years from 17 January 2018. The Commission shall draw up a report in respect of the delegation of power not later than 9 months before the end of that 5-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than 3 months before the end of each period.
+
+3\. The delegation of power referred to in Article 5(2) and Article 15 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of that decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 5(2) and Article 15 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
+
+##### Article 45 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee for Fisheries and Aquaculture established under Article 47 of the Basic Regulation. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+## TITLE VI — FINAL PROVISIONS
+
+##### Article 46 — Repeal
+
+1\. The FAR is hereby repealed.
+
+2\. References to provisions of the repealed Regulation shall be construed as references to this Regulation.
+
+##### Article 47 — Transitional provisions concerning the temporary reallocation of fishing opportunities under existing protocols
+
+1\. By way of derogation from Article 12, for those protocols to SFPAs that are in force or are provisionally applied on 17 January 2018, the procedure for temporary reallocation of fishing opportunities set out in this Article shall be used until the expiry of the protocol in question.
+
+2\. In the context of an SFPA if, on the basis of the requests for transmission of applications referred to in Article 11, it appears that the number of fishing authorisations or the amount of fishing opportunities allocated to the Union under a protocol are not fully utilised, the Commission shall inform the Member States concerned and shall request them to confirm not making use of those fishing opportunities. The absence of a reply within the deadlines, to be set by the Council upon the conclusion of the SFPA, shall be considered as confirmation that the vessels of the Member State concerned are not making full use of their fishing opportunities in the given period.
+
+3\. After confirmation by the Member State concerned, the Commission shall assess the total non-utilised fishing opportunities and shall make that assessment available to the Member States.
+
+4\. Member States wishing to make use of the non-utilised fishing opportunities referred to in paragraph 3 shall submit to the Commission a list of all vessels for which they intend to request a fishing authorisation, as well as the request for the transmission of applications for each of those vessels, in accordance with Article 11.
+
+5\. The Commission shall decide on the reallocation, in close cooperation with the Member States concerned.
+
+If a Member State concerned objects to that reallocation, the Commission shall, by means of implementing acts, decide on the reallocation taking into account the criteria laid down in paragraph 8 of this Article, and shall notify the Member States concerned thereof. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 45(2).
+
+6\. The transmission of applications in accordance with this Article shall in no way affect the allocation of fishing opportunities or their exchange amongst Member States, in accordance with Article 16 of the Basic Regulation.
+
+7\. The Commission shall not be prevented from applying the mechanism referred to in paragraphs 2 to 5 until the deadlines referred to in paragraph 2 are finalised.
+
+8\. For the reallocation of fishing opportunities under this Article, the Commission shall take into account, in particular:
+
+(a) the date of each of the requests received;
+
+(b) the fishing opportunities available for reallocation;
+
+(c) the number of requests received;
+
+(d) the number of requesting Member States; and
+
+(e) if fishing opportunities are fully or partly based on amounts of fishing effort or catches, the fishing effort expected to be deployed or the catches expected to be made by each of the vessels concerned.
+
+##### Article 48 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+## ANNEX
+
+**List of data to be provided**
+
+I APPLICANT
+
+1 Name of the economic operator
+
+2 Email
+
+3 Address
+
+4 Fax
+
+5 Telephone
+
+6 Name of the owner
+
+7 Email
+
+8 Address
+
+9 Fax
+
+10 Telephone
+
+11 Name of association or agent representing the economic operator
+
+12 Email
+
+13 Address
+
+14 Fax
+
+15 Telephone
+
+16 Name(s) of master(s)
+
+17 Email
+
+18 Address
+
+19 Fax
+
+20 Telephone
+
+II FISHING VESSEL
+
+21 Vessel name
+
+22 Vessel identifier (IMO number, CFR number, etc.)
+
+23 Method of fish preservation on board
+
+24 Vessel type FAO code
+
+25 Gear type FAO code
+
+III FISHING CATEGORY FOR WHICH AUTHORISATION IS REQUESTED
+
+26 Type of authorisation (direct authorisation; high seas; support)
+
+27 Fisheries area (FAO Area(s), Subarea(s), Division(s), Subdivision(s) as appropriate)
+
+28 Area of operation (high seas; third country — specify)
+
+29 Landing ports
+
+30 Target species FAO code(s) (or fishing category for SFPA)
+
+31 Authorisation period requested (start and end dates)
+
+32 List of support vessels (vessel name; IMO number; CFR number)
+
+IV CHARTERING
+
+33 Vessel operating under chartering arrangement (Y/N)
+
+34 Type of chartering arrangement
+
+35 Period of chartering (start and end dates)
+
+36 Fishing opportunities (mt) allocated to vessel under chartering
+
+37 Third country allocating fishing opportunities to the vessel under chartering
+
+( 1 ) Regulation (EU) No 1026/2012 of the European Parliament and of the Council of 25 October 2012 on certain measures for the purpose of the conservation of fish stocks in relation to countries allowing non-sustainable fishing (OJ L 316, 14.11.2012, p. 34).
+
+( 2 ) Council Regulation (EU) 2019/124 of 30 January 2019 fixing for 2019 the fishing opportunities for certain fish stocks and groups of fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters (OJ L 29, 31.1.2019, p. 1).
+
+( 3 ) Council Regulation (EU) 2018/2025 of 17 December 2018 fixing for 2019 and 2020 the fishing opportunities for Union fishing vessels for certain deep-sea fish stocks (OJ L 325, 20.12.2018, p. 7).
+
+( 4 ) Directive 2007/2/EC of the European Parliament and of the Council of 14 March 2007 establishing an Infrastructure for Spatial Information in the European Community (INSPIRE) (OJ L 108, 25.4.2007, p. 1).

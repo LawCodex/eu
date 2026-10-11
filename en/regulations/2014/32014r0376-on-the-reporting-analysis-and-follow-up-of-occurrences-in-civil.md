@@ -1,0 +1,839 @@
+---
+title: "Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 Text with EEA relevance"
+identifier: "32014R0376"
+eli: "http://data.europa.eu/eli/reg/2014/376/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-04-03
+entry_into_force: 2014-07-11
+last_amended: 2018-09-11
+consolidated_version: "02014R0376-20180911"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0376-20180911"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 Text with EEA relevance
+
+**REGULATION (EU) No 376/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 3 April 2014**
+
+**on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2018/1139 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 4 July 2018 </td><td> L 212</td><td>1</td><td>22.8.2018</td></tr>
+</table>
+
+**REGULATION (EU) No 376/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 3 April 2014**
+
+**on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Objectives
+
+1\. This Regulation aims to improve aviation safety by ensuring that relevant safety information relating to civil aviation is reported, collected, stored, protected, exchanged, disseminated and analysed.
+
+This Regulation ensures:
+
+(a) that, where appropriate, safety action is taken in a timely manner based on analysis of the information collected;
+
+(b) the continued availability of safety information by introducing rules on confidentiality and on the appropriate use of information and through the harmonised and enhanced protection of reporters and persons mentioned in occurrence reports; and
+
+(c) that aviation safety risks are considered and dealt with at both Union level and national level.
+
+2\. The sole objective of occurrence reporting is the prevention of accidents and incidents and not to attribute blame or liability.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions apply:
+
+(1) ‘reporter’ means a natural person who reports an occurrence or other safety-related information pursuant to this Regulation;
+
+(2) ‘aircraft’ means any machine that can derive support in the atmosphere from the reactions of the air other than the reactions of the air against the earth's surface;
+
+(3) ‘incident’ means an incident within the meaning of Regulation (EU) No 996/2010;
+
+(4) ‘serious incident’ means a serious incident within the meaning of Regulation (EU) No 996/2010;
+
+(5) ‘accident’ means an accident within the meaning of Regulation (EU) No 996/2010;
+
+(6) ‘disidentified information’ means information arising from occurrence reports from which all personal data such as names or addresses of natural persons have been removed;
+
+(7) ‘occurrence’ means any safety-related event which endangers or which, if not corrected or addressed, could endanger an aircraft, its occupants or any other person and includes in particular an accident or serious incident;
+
+(8) ‘organisation’ means any organisation providing aviation products and/or which employs, contracts or uses the services of persons required to report occurrences in accordance with Article 4(6);
+
+(9) ‘anonymisation’ means the removal from occurrence reports of all personal details relating to the reporter and to the persons mentioned in occurrence reports and any details, including the name of the organisation(s) involved in the occurrence, which may reveal the identity of the reporter or of a third party or lead to that information being inferred from the occurrence report;
+
+(10) ‘hazard’ means a situation or an object with the potential to cause death or injury to a person, damage to equipment or a structure, loss of material, or a reduction of ability to perform a prescribed function;
+
+(11) ‘safety investigation authority’ means the permanent national civil aviation safety investigation authority conducting or supervising safety investigations as referred to in Article 4 of Regulation (EU) No 996/2010;
+
+(12) ‘just culture’ means a culture in which front-line operators or other persons are not punished for actions, omissions or decisions taken by them that are commensurate with their experience and training, but in which gross negligence, wilful violations and destructive acts are not tolerated;
+
+(13) ‘point of contact’ means:
+
+(a) where a request for information is made by an interested party established in a Member State, the competent authority designated by each Member State in accordance with Article 6(3);
+
+(b) where a request for information is made by an interested party established outside the Union, the Commission;
+
+(14) ‘interested party’ means any natural or legal person or any official body, whether or not having its own legal personality, that is in a position to participate in the improvement of aviation safety by having access to information on occurrences exchanged by the Member States and which falls within one of the categories of interested parties set out in Annex II;
+
+(15) ‘State Safety Programme’ means an integrated set of legal acts and activities aimed at managing civil aviation safety in a Member State;
+
+(16) ‘European Aviation Safety Plan’ means safety issues assessment and the related action plan at European level;
+
+(17) ‘European Aviation Safety Programme’ means the integrated set of regulations at Union level, together with the activities and processes used to jointly manage the safety of civil aviation at European level;
+
+(18) ‘safety management system’ means a systematic approach to managing aviation safety including the necessary organisational structures, accountabilities, policies and procedures, and includes any management system that, independently or integrated with other management systems of the organisation, addresses the management of safety.
+
+## Article 3 — Subject matter and scope
+
+1\. This Regulation lays down rules on:
+
+(a) the reporting of occurrences which endanger or which, if not corrected or addressed, would endanger an aircraft, its occupants, any other person, equipment or installation affecting aircraft operations; and the reporting of other relevant safety-related information in that context;
+
+(b) analysis and follow-up action in respect of reported occurrences and other safety-related information;
+
+(c) the protection of aviation professionals;
+
+(d) appropriate use collected safety information;
+
+(e) the integration of information into the European Central Repository; and
+
+(f) the dissemination of anonymised information to interested parties for the purpose of providing such parties with the information they need in order to improve aviation safety.
+
+2\. This Regulation applies to occurrences and other safety-related information involving civil aircraft to which Regulation (EU) 2018/1139 of the European Parliament and of the Council ( 1 ) applies.
+
+However, this Regulation shall not apply to occurrences and other safety-related information involving unmanned aircraft for which a certificate or declaration is not required pursuant to Article 56(1) and (5) of Regulation (EU) 2018/1139, unless the occurrence or other safety-related information involving such unmanned aircraft resulted in a fatal or serious injury to a person or it involved aircraft other than unmanned aircraft.
+
+Member States may decide to apply this Regulation also to occurrences and other safety-related information involving the aircraft to which Regulation (EU) 2018/1139 does not apply.
+
+## Article 4 — Mandatory reporting
+
+1\. Occurrences which may represent a significant risk to aviation safety and which fall into the following categories shall be reported by the persons listed in paragraph 6 through the mandatory occurrence reporting systems pursuant to this Article:
+
+(a) occurrences related to the operation of the aircraft, such as:
+
+(i) collision-related occurrences;
+
+(ii) take-off and landing-related occurrences;
+
+(iii) fuel-related occurrences;
+
+(iv) in-flight occurrences;
+
+(v) communication-related occurrences;
+
+(vi) occurrences related to injury, emergencies and other critical situations;
+
+(vii) crew incapacitation and other crew-related occurrences;
+
+(viii) meteorological conditions or security-related occurrences;
+
+(b) occurrences related to technical conditions, maintenance and repair of aircraft, such as:
+
+(i) structural defects;
+
+(ii) system malfunctions;
+
+(iii) maintenance and repair problems;
+
+(iv) propulsion problems (including engines, propellers and rotor systems) and auxiliary power unit problems;
+
+(c) occurrences related to air navigation services and facilities, such as:
+
+(i) collisions, near collisions or potential for collisions;
+
+(ii) specific occurrences of air traffic management and air navigation services (ATM/ANS);
+
+(iii) ATM/ANS operational occurrences;
+
+(d) occurrences related to aerodromes and ground services, such as:
+
+(i) occurrences related to aerodrome activities and facilities;
+
+(ii) occurrences related to handling of passengers, baggage, mail and cargo;
+
+(iii) occurrences related to aircraft ground handling and related services.
+
+2\. Each organisation established in a Member State shall establish a mandatory reporting system to facilitate the collection of details of occurrences referred to in paragraph 1.
+
+3\. Each Member State shall establish a mandatory reporting system to facilitate the collection of details of occurrences including the collection of details of occurrences collected by organisations pursuant to paragraph 2.
+
+4\. The European Aviation Safety Agency (‘the Agency’) shall establish a mandatory reporting system to facilitate the collection of details of occurrences, including the collection of details of occurrences collected pursuant to paragraph 2 by organisations which have been certified or approved by the Agency.
+
+5\. The Commission shall, by means of implementing acts, adopt a list classifying occurrences to be referred to when reporting occurrences pursuant to paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 19(2).
+
+The Commission shall include in those implementing acts a separate list classifying occurrences applicable to aircraft other than complex motor-powered aircraft. The list shall be a simplified version of the list referred to in the first subparagraph and shall, where appropriate, be adapted to the specificities of that branch of aviation.
+
+6\. The following natural persons shall report the occurrences referred to in paragraph 1 through the system established in accordance with paragraph 2 by the organisation which employs, contracts or uses the services of the reporter or, failing that, through the system established in accordance with paragraph 3 by the Member State of establishment of their organisation, or by the State which issued, validated or converted the pilot's licence, or through the system established in accordance with paragraph 4 by the Agency:
+
+(a) the pilot in command, or, in cases where the pilot in command is unable to report the occurrence, any other crew member next in the chain of command of an aircraft registered in a Member State or an aircraft registered outside the Union but used by an operator for which a Member State ensures oversight of operations or an operator established in the Union;
+
+(b) a person engaged in designing, manufacturing, continuous airworthiness monitoring, maintaining or modifying an aircraft, or any equipment or part thereof, under the oversight of a Member State or of the Agency;
+
+(c) a person who signs an airworthiness review certificate, or a release to service in respect of an aircraft or any equipment or part thereof, under the oversight of a Member State or of the Agency;
+
+(d) a person who performs a function which requires him or her to be authorised by a Member State as a staff member of an air traffic service provider entrusted with responsibilities related to air navigation services or as a flight information service officer;
+
+(e) a person who performs a function connected with the safety management of an airport to which Regulation (EC) No 1008/2008 of the European Parliament and of the Council ( 2 ) applies;
+
+(f) a person who performs a function connected with the installation, modification, maintenance, repair, overhaul, flight-checking or inspection of air navigation facilities for which a Member State ensures the oversight;
+
+(g) a person who performs a function connected with the ground handling of aircraft, including fuelling, loadsheet preparation, loading, de-icing and towing at an airport covered by Regulation (EC) No 1008/2008.
+
+7\. The persons listed in paragraph 6 shall report occurrences within 72 hours of becoming aware of the occurrence, unless exceptional circumstances prevent this.
+
+8\. Following notification of an occurrence, any organisation established in a Member State which is not covered by paragraph 9 shall report to the competent authority of that Member State, as referred to in Article 6(3), the details of occurrences collected in accordance with paragraph 2 of this Article as soon as possible, and in any event no later than 72 hours after becoming aware of the occurrence.
+
+9\. Following notification of an occurrence, each organisation established in a Member State which is certified or approved by the Agency shall report to the Agency the details of occurrences collected in accordance with paragraph 2 as soon as possible, and in any event no later than 72 hours after becoming aware of the occurrence.
+
+## Article 5 — Voluntary reporting
+
+1\. Each organisation established in a Member State shall establish a voluntary reporting system to facilitate the collection of:
+
+(a) details of occurrences that may not be captured by the mandatory reporting system;
+
+(b) other safety-related information which is perceived by the reporter as an actual or potential hazard to aviation safety.
+
+2\. Each Member State shall establish a voluntary reporting system to facilitate the collection of:
+
+(a) details of occurrences that may not be captured by the mandatory reporting system;
+
+(b) other safety-related information which is perceived by the reporter as an actual or potential hazard to aviation safety.
+
+That system shall also include, but shall not be limited to, the collection of information transferred by organisations pursuant to paragraph 6.
+
+3\. The Agency shall establish a voluntary reporting system to facilitate the collection of:
+
+(a) details of occurrences that may not be captured by the mandatory reporting system;
+
+(b) other safety-related information which is perceived by the reporter as an actual or potential hazard to aviation safety.
+
+That system shall also include, but shall not be limited to, the collection of information transferred by organisations certified or approved by the Agency pursuant to paragraph 5.
+
+4\. The voluntary reporting systems shall be used to facilitate the collection of details of occurrences and safety-related information:
+
+(a) not subject to mandatory reporting pursuant to Article 4(1);
+
+(b) reported by persons who are not listed in Article 4(6).
+
+5\. Each organisation established in a Member State and certified or approved by the Agency shall report to the Agency, in a timely manner, details of occurrences and safety-related information which have been collected pursuant to paragraph 1 and which may involve an actual or potential aviation safety risk.
+
+6\. Each organisation established in a Member State that is not certified or approved by the Agency shall, in a timely manner, report to the competent authority of that Member State, as designated pursuant to Article 6(3), the details of occurrences and other safety-related information which have been collected pursuant to paragraph 1 of this Article and which may involve an actual or potential aviation safety risk. Member States may require any organisation established in their territory to report the details of all occurrences collected pursuant to paragraph 1 of this Article.
+
+7\. Member States, the Agency and organisations may establish other safety information collection and processing systems to collect details of occurrences that might not be captured by the reporting systems referred to in Article 4 and in paragraphs 1, 2 and 3 of this Article. Those systems may include reporting to entities other than those set out in Article 6(3) and may involve the active participation of:
+
+(a) the aviation industry;
+
+(b) professional organisations of aviation staff.
+
+8\. Information received from voluntary and mandatory reporting may be integrated into a single system.
+
+## Article 6 — Collection and storage of information
+
+1\. Each organisation established in a Member State shall designate one or more persons to handle independently the collection, evaluation, processing, analysis and storage of details of occurrences reported pursuant to Articles 4 and 5.
+
+The handling of the reports shall be done with a view to preventing the use of information for purposes other than safety, and shall appropriately safeguard the confidentiality of the identity of the reporter and of the persons mentioned in occurrence reports, with a view to promoting a ‘just culture’.
+
+2\. By agreement with the competent authority, small organisations may put in place a simplified mechanism for the collection, evaluation, processing, analysis and storage of details of occurrences. They may share those tasks with organisations of the same nature, while complying with the rules on confidentiality and protection pursuant to this Regulation.
+
+3\. Each Member State shall designate one or more competent authorities to establish a mechanism to independently collect, evaluate, process, analyse and store details of occurrences reported pursuant to Articles 4 and 5.
+
+The handling of the reports shall be done with a view to preventing the use of information for purposes other than safety, and shall appropriately safeguard the confidentiality of the identity of the reporter and of the persons mentioned in occurrence reports, with a view to promoting a ‘just culture’.
+
+The authorities which may be designated pursuant to the first subparagraph, either jointly or separately, are the following:
+
+(a) the national civil aviation authority; and/or
+
+(b) the safety investigation authority; and/or
+
+(c) any other independent body or entity based in the Union that is entrusted with this function.
+
+Where a Member State designates more than one body or entity, it shall designate one of them as point of contact for the transfer of information referred to in Article 8(2).
+
+4\. The Agency shall designate one or more persons to establish a mechanism to independently collect, evaluate, process, analyse and store details of occurrences reported in accordance with Articles 4 and 5.
+
+The handling of the reports shall be done with a view to preventing the use of information for purposes other than safety, and shall appropriately safeguard the confidentiality of the identity of the reporter and of the persons mentioned in occurrence reports, with a view to promoting a ‘just culture’.
+
+5\. Organisations shall store occurrence reports drawn up on the basis of details of occurrences collected in accordance with Articles 4 and 5 in one or more databases.
+
+6\. The competent authorities referred to in paragraph 3 shall store occurrence reports drawn up on the basis of details of occurrences collected in accordance with Articles 4 and 5 in a national database.
+
+7\. Relevant information on accidents and serious incidents collected or issued by safety investigation authorities shall also be stored in the national database.
+
+8\. The Agency shall store occurrence reports drawn up on the basis of details of occurrences collected in accordance with Articles 4 and 5 in a database.
+
+9\. Safety investigation authorities shall have full access to their respective national database referred to in paragraph 6 for the purpose of discharging their responsibilities pursuant to Article 5(4) of Regulation (EU) No 996/2010.
+
+10\. Civil aviation authorities of Member States shall have full access to their respective national database referred to in paragraph 6 for the purposes of their safety-related responsibilities.
+
+## Article 7 — Quality and content of occurrence reports
+
+1\. Occurrence reports referred to in Article 6 shall contain at least the information listed in Annex I.
+
+2\. Occurrence reports referred to in paragraphs 5, 6 and 8 of Article 6 shall include a safety risk classification for the occurrence concerned. That classification shall be reviewed and if necessary amended, and shall be endorsed by the competent authority of the Member State or the Agency, in accordance with the common European risk classification scheme referred to in paragraph 5 of this Article.
+
+3\. Organisations, Member States and the Agency shall establish data quality checking processes to improve data consistency, notably between the information collected initially and the report stored in the database.
+
+4\. The databases referred to in paragraphs 5, 6 and 8 of Article 6 shall use formats which are:
+
+(a) standardised to facilitate information exchange; and
+
+(b) compatible with the ECCAIRS software and the ADREP taxonomy.
+
+5\. The Commission, in close cooperation with the Member States and the Agency through the network of aviation safety analysts, referred to in Article 14(2), shall develop a common European risk classification scheme to enable the organisations, Member States and the Agency to classify occurrences in terms of safety risk. In so doing, the Commission shall take into account the need for compatibility with existing risk classification schemes.
+
+The Commission shall develop that scheme by 15 May 2017.
+
+6\. The Commission shall be empowered to adopt delegated acts in accordance with Article 18 to define the common European risk classification scheme.
+
+7\. The Commission shall, by means of implementing acts, adopt the arrangements for the implementation of the common European risk classification scheme. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 19(2).
+
+8\. The Commission and the Agency shall support the competent authorities of the Member States in their task of data integration, including for example in:
+
+(a) the integration of the minimum information referred to in paragraph 1;
+
+(b) the risk classification of occurrences referred to in paragraph 2; and
+
+(c) the establishment of data quality checking processes referred to in paragraph 3.
+
+The Commission and the Agency shall provide that support in such a way as to contribute to the harmonisation of the data entry process across Member States, in particular by providing to staff working in the bodies or entities referred to in Article 6(1), (3) and (4):
+
+(a) guidance material;
+
+(b) workshops; and
+
+(c) appropriate training.
+
+## Article 8 — European Central Repository
+
+1\. The Commission shall manage a European Central Repository to store all occurrence reports collected in the Union.
+
+2\. Each Member State shall, in agreement with the Commission, update the European Central Repository by transferring to it all information relating to safety stored in the national databases referred to in Article 6(6).
+
+3\. The Agency shall agree with the Commission the technical protocols for transferring to the European Central Repository all occurrence reports collected by the Agency under Regulation (EC) No 216/2008 and its implementing rules, particularly for occurrences stored in the Internal Occurrence Reporting System (IORS), as well as the information collected pursuant to Articles 4(9) and 5(5).
+
+4\. The Commission shall, by means of implementing acts, adopt the arrangements for the management of the European Central Repository as referred to in paragraph 1 and 2. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 19(2).
+
+## Article 9 — Exchange of information
+
+1\. Member States and the Agency shall participate in an exchange of information by making all information relating to safety stored in their respective reporting databases available to the competent authorities of the other Member States, the Agency and the Commission, through the European Central Repository.
+
+Occurrence reports shall be transferred to the European Central Repository no later than 30 days after having been entered in the national database.
+
+Occurrence reports shall be updated whenever necessary with additional information relating to safety.
+
+2\. Member States shall also transfer information related to accidents and serious incidents to the European Central Repository as follows:
+
+(a) during the course of the investigation: preliminary factual information on accidents and serious incidents;
+
+(b) when the investigation is completed:
+
+(i) the final investigation report; and
+
+(ii) when available, a summary in English of the final investigation report.
+
+3\. A Member State or the Agency shall forward all pertinent safety-related information to the relevant authority of the Member State or the Agency as soon as possible if, while collecting details of occurrences or when storing occurrence reports or carrying out an analysis in accordance with Article 13(6), it identifies safety matters which it considers either:
+
+(a) to be of interest to other Member States or the Agency; or
+
+(b) to possibly require safety action to be taken by other Member States or the Agency.
+
+## Article 10 — Dissemination of information stored in the European Central Repository
+
+1\. Any entity entrusted with regulating civil aviation safety, or any safety investigation authority, within the Union shall have secure full online access to information on occurrences contained in the European Central Repository.
+
+The information shall be used in accordance with Articles 15 and 16.
+
+2\. Interested parties listed in Annex II may request access to certain information contained in the European Central Repository.
+
+Interested parties established within the Union shall address requests for information to the point of contact of the Member State in which they are established.
+
+Interested parties established outside the Union shall address their request to the Commission.
+
+The Commission shall inform the competent authority of the Member State concerned when a request is made pursuant to this paragraph.
+
+3\. Subject to Article 15(2) of Regulation (EU) No 996/2010, information contained in the European Central Repository relating to ongoing safety investigations conducted in accordance with that Regulation shall not be disclosed to interested parties pursuant to this Article.
+
+4\. For security reasons, interested parties shall not be granted direct access to the European Central Repository.
+
+## Article 11 — Processing of requests and decisions
+
+1\. Requests for information contained in the European Central Repository shall be submitted using forms approved by the point of contact. Those forms shall contain at least the items set out in Annex III.
+
+2\. A point of contact which receives a request shall verify that:
+
+(a) the request is made by an interested party;
+
+(b) it is competent to deal with that request.
+
+Where the point of contact determines that another Member State or the Commission is competent to deal with the request, it shall transfer it to that Member State or to the Commission, as appropriate.
+
+3\. A point of contact which receives a request shall evaluate on a case-by-case basis whether the request is justified and practicable.
+
+A point of contact may supply information to interested parties on paper or by using secure electronic means of communication.
+
+4\. Where the request is accepted, the point of contact shall determine the amount and the level of information to be supplied. Without prejudice to Articles 15 and 16, the information shall be limited to what is strictly required for the purpose of the request.
+
+Information unrelated to the interested party's own equipment, operations or field of activity shall be supplied only in aggregated or anonymised form. Information in non-aggregated form may be provided to the interested party if it provides a detailed written justification. That information shall be used in accordance with Articles 15 and 16.
+
+5\. The point of contact shall supply interested parties listed in point (b) of Annex II only with information relating to the interested party's own equipment, operations or field of activity.
+
+6\. A point of contact receiving a request from an interested party listed in point (a) of Annex II may take a general decision to supply information on a regular basis to that interested party, provided that:
+
+(a) the information requested is related to the interested party's own equipment, operations or field of activity;
+
+(b) the general decision does not grant access to the entire content of the database;
+
+(c) the general decision relates only to anonymised information.
+
+7\. The interested party shall use the information received pursuant to this Article subject to the following conditions:
+
+(a) the interested party shall use the information only for the purpose specified in the request form, which should be compatible with the objective of this Regulation as stated in Article 1; and
+
+(b) the interested party shall not disclose the information received without the written consent of the information provider and shall take the necessary measures to ensure appropriate confidentiality of the information received.
+
+8\. The decision to disseminate information pursuant to this Article shall be limited to what is strictly required for the purpose of its user.
+
+## Article 12 — Record of requests and exchange of information
+
+1\. The point of contact shall record each request received and the action taken pursuant to that request.
+
+That information shall be transmitted in a timely manner to the Commission whenever a request is received and/or action is taken.
+
+2\. The Commission shall make available the updated list of requests received and action taken by the various points of contact and by the Commission itself to all points of contact.
+
+## Article 13 — Occurrence analysis and follow-up at national level
+
+1\. Each organisation established in a Member State shall develop a process to analyse occurrences collected in accordance with Articles 4(2) and 5(1) in order to identify the safety hazards associated with identified occurrences or groups of occurrences.
+
+Based on that analysis, each organisation shall determine any appropriate corrective or preventive action, required to improve aviation safety.
+
+2\. When, following the analysis referred to in paragraph 1, an organisation established in a Member State identifies any appropriate corrective or preventive action required to address actual or potential aviation safety deficiencies, it shall:
+
+(a) implement that action in a timely manner; and
+
+(b) establish a process to monitor the implementation and effectiveness of the action.
+
+3\. Each organisation established in a Member State shall regularly provide its employees and contracted personnel with information concerning the analysis of, and follow-up on, occurrences for which preventive or corrective action is taken.
+
+4\. Where an organisation established in a Member State which is not covered by paragraph 5 identifies an actual or potential aviation safety risk as a result of its analysis of occurrences or group of occurrences reported pursuant to Articles 4(8) and 5(6), it shall transmit to the competent authority of that Member State, within 30 days from the date of notification of the occurrence by the reporter:
+
+(a) the preliminary results of the analysis performed pursuant to paragraph 1, if any; and
+
+(b) any action to be taken pursuant to paragraph 2.
+
+The organisation shall report the final results of the analysis, where required, as soon as they are available and, in principle, no later than three months from the date of notification of the occurrence.
+
+A competent authority of a Member State may request organisations to transmit to it the preliminary or final results of the analysis of any occurrence of which it has been notified but in relation to which it has received no follow-up or only the preliminary results.
+
+5\. Where an organisation established in a Member State and certified or approved by the Agency identifies an actual or potential aviation safety risk as a result of its analysis of occurrences or group of occurrences reported pursuant to Articles 4(9) and 5(5), it shall transmit to the Agency, within 30 days from the date of notification of the occurrence by the reporter:
+
+(a) the preliminary results of the analysis performed pursuant to paragraph 1, if any; and
+
+(b) any action to be taken pursuant to paragraph 2.
+
+The organisation certified or approved by the Agency shall transmit to the Agency the final results of the analysis, where required, as soon as they are available and, in principle, no later than three months from the date of notification of the occurrence.
+
+The Agency may request organisations to transmit to it the preliminary or final results of the analysis of any occurrence of which it has been notified but in relation to which it has received no follow-up or only the preliminary results.
+
+6\. Each Member State and the Agency shall develop a process to analyse the information relating to occurrences which are directly reported to them in accordance with Articles 4(6), 5(2) and 5(3) in order to identify the safety hazards associated with those occurrences. Based on that analysis, they shall determine any appropriate corrective or preventive action required to improve aviation safety.
+
+7\. When, following the analysis referred to in paragraph 6, a Member State or the Agency identifies any appropriate corrective or preventive action required to address actual or potential aviation safety deficiencies, it shall:
+
+(a) implement that action in a timely manner; and
+
+(b) establish a process to monitor the implementation and effectiveness of the action.
+
+8\. For each occurrence or group of occurrences monitored in accordance with paragraph 4 or 5, each Member State and the Agency shall have access to the analysis made and shall appropriately monitor action taken by the organisations for which it is respectively responsible.
+
+If a Member State or the Agency concludes that the implementation and the effectiveness of the reported action is inappropriate to address actual or potential safety deficiencies, it shall ensure that additional appropriate action is taken and implemented by the relevant organisation.
+
+9\. Where available, information relating to the analysis and the follow-up of individual occurrences or groups of occurrences obtained pursuant to this Article shall be stored in the European Central Repository, in accordance with Article 8(2) and (3), in a timely manner and no later than two months after their storage in the national database.
+
+10\. Member States shall use information obtained from the analysis of occurrence reports to identify remedial action to be taken, if any, within the State Safety Programme.
+
+11\. In order to inform the public of the level of safety in civil aviation, each Member State shall publish a safety review at least once a year. The safety review shall:
+
+(a) contain aggregated and anonymised information on the type of occurrences and safety-related information reported through its national mandatory and voluntary reporting systems;
+
+(b) identify trends;
+
+(c) identify the action it has taken.
+
+12\. Member States may also publish anonymised occurrence reports and risk analysis outcomes.
+
+## Article 14 — Occurrence analysis and follow up at Union level
+
+1\. The Commission, the Agency and the competent authorities of the Member States shall, in collaboration, participate regularly in the exchange and analysis of information contained in the European Central Repository.
+
+Without prejudice to the confidentiality requirements laid down in this Regulation, observers may be invited on a case-by-case basis, where appropriate.
+
+2\. The Commission, the Agency and the competent authorities of the Member States shall collaborate through a network of aviation safety analysts.
+
+The network of aviation safety analysts shall contribute to the improvement of aviation safety in the Union, in particular by performing safety analysis in support of the European Aviation Safety Programme and the European Aviation Safety Plan.
+
+3\. The Agency shall support the activities of the network of aviation safety analysts by, for example, providing assistance for the preparation and organisation of the meetings of the network.
+
+4\. The Agency shall include information about the result of information analysis referred to in paragraph 1 in the annual safety review referred to in Article 15(4) of Regulation (EC) No 216/2008.
+
+## Article 15 — Confidentiality and appropriate use of information
+
+1\. Member States and organisations, in accordance with their national law, and the Agency shall take the necessary measures to ensure the appropriate confidentiality of the details of occurrences received by them pursuant to Articles 4, 5 and 10.
+
+Each Member State, each organisation established in a Member State, or the Agency shall process personal data only to the extent necessary for the purposes of this Regulation and without prejudice to national legal acts implementing Directive 95/46/EC.
+
+2\. Without prejudice to the provisions relating to the protection of safety information in Articles 12, 14 and 15 of Regulation (EU) No 996/2010, information derived from occurrence reports shall be used only for the purpose for which it has been collected.
+
+Member States, the Agency and organisations shall not make available or use the information on occurrences:
+
+(a) in order to attribute blame or liability; or
+
+(b) for any purpose other than the maintenance or improvement of aviation safety.
+
+3\. The Commission, the Agency and the competent authorities of the Member States, when discharging their obligations under Article 14 in relation to the information contained in the European Central Repository, shall:
+
+(a) ensure the confidentiality of the information; and
+
+(b) limit the use of the information to what is strictly necessary in order to discharge their safety-related obligations without attributing blame or liability; in this respect, the information shall be used in particular for risk management and for analysis of safety trends which may lead to safety recommendations or actions, addressing actual or potential safety deficiencies.
+
+4\. Member States shall ensure that their competent authorities referred to in Article 6(3) and their competent authorities for the administration of justice cooperate with each other through advance administrative arrangements. These advance administrative arrangements shall seek to ensure the correct balance between the need for proper administration of justice, on the one hand, and the necessary continued availability of safety information, on the other.
+
+## Article 16 — Protection of the information source
+
+1\. For the purposes of this Article, ‘personal details’ includes in particular names or addresses of natural persons.
+
+2\. Each organisation established in a Member State shall ensure that all personal details are made available to staff of that organisation other than persons designated in accordance with Article 6(1) only where absolutely necessary in order to investigate occurrences with a view to enhancing aviation safety.
+
+Disidentified information shall be disseminated within the organisation as appropriate.
+
+3\. Each Member State shall ensure that no personal details are ever recorded in the national database referred to in Article 6(6). Such disidentified information shall be made available to all relevant parties, for example to allow them to discharge their obligations in relation to aviation safety improvement.
+
+4\. The Agency shall ensure that no personal details are ever recorded in the Agency database referred to in Article 6(8). Such disidentified information shall be made available to all relevant parties, for example to allow them to discharge their obligations in relation to aviation safety improvement.
+
+5\. Member States and the Agency shall not be prevented from taking any action necessary for maintaining or improving aviation safety.
+
+6\. Without prejudice to applicable national criminal law, Member States shall refrain from instituting proceedings in respect of unpremeditated or inadvertent infringements of the law which come to their attention only because they have been reported pursuant to Articles 4 and 5.
+
+The first subparagraph shall not apply in the cases referred to in paragraph 10. Member States may retain or adopt measures to strengthen the protection of reporters or persons mentioned in occurrence reports. Member States may in particular apply this rule without the exceptions referred to in paragraph 10.
+
+7\. If disciplinary or administrative proceedings are instituted under national law, information contained in occurrence reports shall not be used against:
+
+(a) the reporters; or
+
+(b) the persons mentioned in occurrence reports.
+
+The first subparagraph shall not apply in the cases referred to in paragraph 10.
+
+Member States may retain or adopt measures to strengthen the protection of reporters or persons mentioned in occurrence reports. Member States may in particular extend that protection to civil or criminal proceedings.
+
+8\. Member States may adopt or maintain in force legislative provisions ensuring a higher level of protection for reporters or for persons mentioned in occurrence reports than those established in this Regulation.
+
+9\. Except where paragraph 10 applies, employees and contracted personnel who report or are mentioned in occurrence reports collected in accordance with Articles 4 and 5 shall not be subject to any prejudice by their employer or by the organisation for which the services are provided on the basis of the information supplied by the reporter.
+
+10\. The protection under paragraphs 6, 7 and 9 of this Article shall not apply to any of the following situations:
+
+(a) in cases of wilful misconduct;
+
+(b) where there has been a manifest, severe and serious disregard of an obvious risk and profound failure of professional responsibility to take such care as is evidently required in the circumstances, causing foreseeable damage to a person or property, or which seriously compromises the level of aviation safety.
+
+11\. Each organisation established in a Member State shall, after consulting its staff representatives, adopt internal rules describing how ‘just culture’ principles, in particular the principle referred to in paragraph 9, are guaranteed and implemented within that organisation.
+
+The body designated pursuant to paragraph 12 may ask to review the internal rules of the organisations established in its Member State before those internal rules are implemented.
+
+12\. Each Member State shall designate a body responsible for the implementation of paragraphs 6, 9 and 11.
+
+Employees and contracted personnel may report to that body alleged infringements of the rules established by this Article. Employees and contracted personnel shall not be penalised for reporting alleged infringements. Employees and contracted personnel may inform the Commission about such alleged infringements.
+
+Where appropriate, the designated body shall advise the relevant authorities of its Member State concerning remedies or penalties in application of Article 21.
+
+13\. On 15 May 2019 and every five years thereafter, each Member State shall send the Commission a report on the application of this Article, and in particular on the activities of the body designated pursuant to paragraph 12. The report shall not contain any personal data.
+
+## Article 17 — Updating of the annexes
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 18 in order to:
+
+(a) update the list of mandatory data fields in occurrence reports laid down in Annex I where, in the light of experience gained in the application of this Regulation, changes prove necessary in order to improve aviation safety;
+
+(b) update the request for European Central Repository information form provided in Annex III, to take account of experience gained and of new developments;
+
+(c) align any of the Annexes with the ECCAIRS software and the ADREP taxonomy, as well as with legal acts adopted by the Union and with international agreements.
+
+With a view to updating the list of mandatory fields, the Agency and the network of aviation safety analysts referred to in Article 14(2) shall provide the Commission with appropriate opinion(s).
+
+## Article 18 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 7(6) and Article 17 shall be conferred on the Commission for a period of five years from the entry into force of this Regulation. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 7(6) and Article 17 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 7(6) and Article 17 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 19 — Committee procedure
+
+1\. The Commission shall be assisted by the committee established by Article 65 of Regulation (EC) No 216/2008. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+## Article 20 — Access to documents and protection of personal data
+
+1\. With the exception of Articles 10 and 11, which establish stricter rules on access to the data and information contained in the European Central Repository, this Regulation shall apply without prejudice to Regulation (EC) No 1049/2001.
+
+2\. This Regulation shall apply without prejudice to national legal acts implementing Directive 95/46/EC and in accordance with Regulation (EC) No 45/2001.
+
+## Article 21 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of this Regulation. The penalties provided for shall be effective, proportionate and dissuasive. Member States shall notify to the Commission those provisions and any subsequent amendment affecting them.
+
+## Article 22 — Amendment to Regulation (EU) No 996/2010
+
+Article 19 of Regulation (EU) No 996/2010 is deleted.
+
+However, that Article shall remain applicable until the date of application of this Regulation in accordance with Article 24(3).
+
+## Article 23 — Repeals
+
+Directive 2003/42/EC, Regulation (EC) No 1321/2007 and Regulation (EC) No 1330/2007 are repealed. They shall remain applicable until the date of application of this Regulation in accordance with Article 24(3).
+
+## Article 24 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. By 16 November 2020, the Commission shall publish and send to the European Parliament and to the Council an evaluation report on the implementation of this Regulation. That report shall cover, in particular, the contribution made by this Regulation to reducing the number of aircraft accidents and related fatalities. If appropriate and on the basis of that report, the Commission shall make proposals for amending this Regulation.
+
+3\. This Regulation shall apply from 15 November 2015 and not before the entry into force of the implementing measures referred to in Article 4(5). Article 7(2) shall apply once the delegated and implementing acts specifying and developing the European common risk classification scheme referred to in Article 7(6) and (7) enter into force.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — LIST OF REQUIREMENTS APPLICABLE TO THE MANDATORY AND VOLUNTARY OCCURRENCE REPORTING SCHEMES
+
+Note: The data fields must be completed with the information requested. If it is not possible for the competent authorities of the Member States or the Agency to include that information because it has not been provided by the organisation or the reporter, the data field may be completed with the value ‘unknown’. However, with a view to ensuring that the appropriate information is transmitted, use of that ‘unknown’ value should, to the best extent possible, be avoided, and the report should, where possible, be completed with the information later.
+
+1\. COMMON MANDATORY DATA FIELDS
+
+When entering, in their respective databases, information on every occurrence mandatorily reported and, to the best extent possible, every occurrence voluntarily reported, organisations, Member States and the Agency must ensure that occurrence reports recorded in their databases contain at least the following information:
+
+(1) Headline
+
+— Headline
+
+(2) Filing Information
+
+— Responsible Entity
+
+— File Number
+
+— Occurrence Status
+
+(3) When
+
+— UTC Date
+
+(4) Where
+
+— State/Area of Occurrence
+
+— Location of Occurrence
+
+(5) Classification
+
+— Occurrence Class
+
+— Occurrence Category
+
+(6) Narrative
+
+— Narrative Language
+
+— Narrative
+
+(7) Events
+
+— Event Type
+
+(8) Risk classification
+
+2\. SPECIFIC MANDATORY DATA FIELDS
+
+**2.1. Aircraft-related data fields**
+
+When entering, in their respective databases, information on every occurrence mandatorily reported and, to the best extent possible, every occurrence voluntarily reported, organisations, Member States and the Agency must ensure that occurrence reports recorded in their databases contain at least the following information:
+
+(1) Aircraft Identification
+
+— State of Registry
+
+— Make/Model/Series
+
+— Aircraft serial number
+
+— Aircraft Registration
+
+— Call sign
+
+(2) Aircraft Operation
+
+— Operator
+
+— Type of operation
+
+(3) Aircraft Description
+
+— Aircraft Category
+
+— Propulsion Type
+
+— Mass Group
+
+(4) History of Flight
+
+— Last Departure Point
+
+— Planned Destination
+
+— Flight Phase
+
+(5) Weather
+
+— Weather relevant
+
+**2.2. Data fields relating to air navigation services**
+
+When entering, in their respective databases, information on every occurrence mandatorily reported and, to the best extent possible, every occurrence voluntarily reported, organisations, Member States and the Agency must ensure that occurrence reports recorded in their databases contain at least the following information:
+
+(1) ATM relation
+
+— ATM contribution
+
+— Service affected (effect on ATM service)
+
+(2) ATS Unit Name
+
+**2.2.1. Separation Minima Infringement/Loss of Separation and Airspace Infringement-related data fields**
+
+When entering, in their respective databases, information on every occurrence mandatorily reported and, to the best extent possible, every occurrence voluntarily reported, organisations, Member States and the Agency must ensure that occurrence reports recorded in their databases contain at least the following information:
+
+(1) Airspace
+
+— Airspace type
+
+— Airspace class
+
+— FIR/UIR name
+
+**2.3. Aerodrome-related data fields**
+
+When entering, in their respective databases, information on every occurrence mandatorily reported and, to the best extent possible, every occurrence voluntarily reported, organisations, Member States and the Agency must ensure that occurrence reports recorded in their databases contain at least the following information:
+
+(1) Location Indicator (ICAO indicator of the airport)
+
+(2) Location on the aerodrome
+
+**2.4. Aircraft damage or personal injury-related data fields**
+
+When entering, in their respective databases, information on every occurrence mandatorily reported and, to the best extent possible, every occurrence voluntarily reported, organisations, Member States and the Agency must ensure that occurrence reports recorded in their databases contain at least the following information:
+
+(1) Severity
+
+— Highest Damage
+
+— Injury Level
+
+(2) Injuries to persons
+
+— Number of injuries on ground (fatal, serious, minor)
+
+— Number of injuries on aircraft (fatal, serious, minor)
+
+## ANNEX II — INTERESTED PARTIES
+
+(a) List of interested parties which may receive information on the basis of a case-by-case decision under Article 11(4) or on the basis of a general decision under Article 11(6):
+
+1\. Manufacturers: designers and manufacturers of aircraft, engines, propellers and aircraft parts and appliances, and their respective associations; designers and manufacturers of air traffic management (ATM) systems and constituents; designers and manufacturers of systems and constituents for air navigation services (ANS); designers and manufacturers of systems and equipment used on the air side of aerodromes
+
+2\. Maintenance: organisations involved in the maintenance or overhaul of aircraft, engines, propellers and aircraft parts and appliances; in the installation, modification, maintenance, repair, overhaul, flight checking or inspection of air navigation facilities; or in the maintenance or overhaul of aerodrome air side systems, constituents and equipment
+
+3\. Operators: airlines and operators of aircraft and associations of airlines and operators; aerodrome operators and associations of aerodrome operators
+
+4\. Air navigation services providers and providers of ATM-specific functions
+
+5\. Aerodrome service providers: organisations in charge of ground handling of aircraft, including fuelling, loadsheet preparation, loading, de-icing and towing at an aerodrome, as well as rescue and firefighting, or other emergency services
+
+6\. Aviation training organisations
+
+7\. Third-country organisations: governmental aviation authorities and accident investigation authorities from third countries
+
+8\. International aviation organisations
+
+9\. Research: public or private research laboratories, centres or entities; or universities engaged in aviation safety research or studies
+
+(b) List of interested parties which may receive information on the basis of a case-by-case decision under Article 11(4) and (5):
+
+1\. Pilots (on a personal basis)
+
+2\. Air traffic controllers (on a personal basis) and other ATM/ANS staff carrying out safety-related tasks
+
+3\. Engineers/technicians/air traffic safety electronics staff/aviation (or aerodrome) managers (on a personal basis)
+
+4\. Professional representative bodies of staff carrying out safety-related tasks
+
+## ANNEX III — REQUEST FOR INFORMATION FROM THE EUROPEAN CENTRAL REPOSITORY
+
+1\. Name:
+
+Function/position:
+
+Company:
+
+Address:
+
+Tel.:
+
+E-mail:
+
+Date:
+
+Nature of business:
+
+Category of interested party (see Annex II to Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation ( 3 )):
+
+2\. Information requested (please be as specific as possible; include the relevant date/period in which you are interested):
+
+3\. Reason for the request:
+
+4\. Explain the purpose for which the information will be used:
+
+5\. Date by which the information is requested:
+
+6\. The completed form should be sent, via e-mail, to: (point of contact)
+
+7\. Access to information
+
+The point of contact is not required to supply any requested information. It may do so only if it is confident that the request is compatible with Regulation (EU) No 376/2014. The requestor commits itself and its organisation to restrict the use of the information to the purpose it has described under point 4. It is also recalled that information provided on the basis of this request is made available only for the purposes of flight safety as provided in Regulation (EU) No 376/2014 and not for other purposes such as, in particular, attributing blame or liability or for commercial purposes.
+
+The requestor is not allowed to disclose information provided to it to anyone without the written consent of the point of contact.
+
+Failure to comply with these conditions may lead to a refusal of access to further information from the European Central Repository and, where applicable, to the imposition of penalties.
+
+8\. Date, place and signature:
+
+( 1 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1).
+
+( 2 ) Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.2008, p. 3).
+
+( 3 ) OJ L 122, 24.4.2014, p. 18.

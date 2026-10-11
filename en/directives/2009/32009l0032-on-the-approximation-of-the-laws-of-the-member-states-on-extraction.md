@@ -26,11 +26,13 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2010/59/EU of 26 August 2010 </td><td> L 225</td><td>10</td><td>27.8.2010</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2016/1855 of 19 October 2016 </td><td> L 284</td><td>19</td><td>20.10.2016</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2023/175 of 26 January 2023 </td><td> L 25</td><td>67</td><td>27.1.2023</td></tr>
+</table>
 
 **DIRECTIVE 2009/32/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -192,6 +194,7 @@ Nitrous oxide
 
 **Extraction solvents for which conditions of use are specified**
 
+<table>
 <tbody><tr><td>Name</td><td>Conditions of use (summary description of extraction) </td><td>Maximum residue limits in the extracted foodstuff or food ingredient</td></tr>
 <tr><td rowspan="5">Hexane (1)</td><td>Production or fractionation of fats and oils and production of cocoa butter</td><td>1 mg/kg in the fat or oil or cocoa butter</td></tr>
 <tr><td rowspan="2">Preparation of defatted protein products and defatted flours</td><td>10 mg/kg in the food containing the defatted protein products and the defatted flours</td></tr>
@@ -216,11 +219,13 @@ Nitrous oxide
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3">(1)  Hexane means a commercial product consisting essentially of acyclic saturated hydrocarbons containing six carbon atoms and distilling between 64 °C and 70 °C. The combined use of Hexane and Ethylmethylketone is forbidden.  (2)  The level of n-Hexane in this solvent should not exceed 50 mg/kg. The combined use of Hexane and Ethylmethylketone is forbidden.  (3)  ‘Gelatine’ means natural, soluble protein, gelling or non-gelling, obtained by the partial hydrolysis of collagen produced from bones, hides and skins, tendons and sinews of animals, in accordance with the relevant requirements of Regulation (EC) No 853/2004.  (4)  ‘Collagen’ means the protein-based product derived from animal bones, hides, skins and tendons manufactured in accordance with the relevant requirements of Regulation (EC) No 853/2004. </td></tr>
 </tbody>
+</table>
 
 **PART III**
 
 **Extraction solvents for which conditions of use are specified**
 
+<table>
 <tbody><tr><td>Name</td><td>Maximum residue limits in the foodstuff due to the use of extraction solvents in the preparation of flavourings from natural flavouring materials</td></tr>
 <tr><td>Diethyl ether</td><td>2 mg/kg</td></tr>
 <tr><td>Hexane (1)</td><td>1 mg/kg</td></tr>
@@ -240,11 +245,13 @@ Nitrous oxide
 <tr><td>Propan-2-ol</td><td>1 mg/kg</td></tr>
 <tr><td colspan="2">(1)  The combined use of Hexane and Ethylmethylketone is forbidden. </td></tr>
 </tbody>
+</table>
 
 **PART IV**
 
 **Specific purity criteria for the extraction solvents listed in Annex I**
 
+<table>
 <tbody><tr><td colspan="2">2-methyloxolane</td></tr>
 <tr><td>CAS number</td><td>96-47-9</td></tr>
 <tr><td>Assay</td><td>Content not less than 99,9 % expressed on dry basis</td></tr>
@@ -253,6 +260,7 @@ Nitrous oxide
 <tr><td>2-methylfuran</td><td>Not more than 500 mg/kg (expressed on dry basis)</td></tr>
 <tr><td>Ethanol</td><td>Not more than 450 mg/kg (expressed on dry basis)</td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
@@ -275,6 +283,7 @@ Nitrous oxide
 
 **(referred to in Article 9)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Time-limit for transposition</td></tr>
 <tr><td>88/344/EEC</td><td>13 June 1991</td></tr>
 <tr><td rowspan="2">92/115/EEC</td><td>a. 1 July 1993</td></tr>
@@ -284,6 +293,7 @@ Nitrous oxide
 <tr><td>b. 27 April 1999 (2)</td></tr>
 <tr><td colspan="2">(1)  In accordance with Article 2(1) of Directive 92/115/EEC:  ‘Member States shall amend their laws, regulations and administrative provisions in such a way as to:  — permit trade in products complying with this Directive at the latest by 1 July 1993,  — prohibit trade in products not complying with this Directive with effect from 1 January 1994.’  (2)  In accordance with Article 2(1) of Directive 97/60/EC:  ‘Member States shall amend their laws, regulations and administrative provisions so as to:  — authorise trade in products complying with Directive 88/344/EEC, as amended by this Directive by 27 October 1998 at the latest;  — ban trade in products not complying with Directive 88/344/EEC, as amended by this Directive, as from 27 April 1999. However, products placed on the market or labelled before that date and not complying with Directive 88/344/EEC, as amended by this Directive, may be marketed until stocks are used up.’ </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

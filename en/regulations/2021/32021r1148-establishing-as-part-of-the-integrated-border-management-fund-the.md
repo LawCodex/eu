@@ -1,0 +1,1175 @@
+---
+title: "Regulation (EU) 2021/1148 of the European Parliament and of the Council of 7 July 2021 establishing, as part of the Integrated Border Management Fund, the Instrument for Financial Support for Border Management and Visa Policy"
+identifier: "32021R1148"
+eli: "http://data.europa.eu/eli/reg/2021/1148/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-07-07
+entry_into_force: 2021-09-02
+last_amended: 2026-06-12
+consolidated_version: "02021R1148-20260612"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R1148-20260612"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2021/1148 of the European Parliament and of the Council of 7 July 2021 establishing, as part of the Integrated Border Management Fund, the Instrument for Financial Support for Border Management and Visa Policy
+
+**REGULATION (EU) 2021/1148 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 July 2021**
+
+**establishing, as part of the Integrated Border Management Fund, the Instrument for Financial Support for Border Management and Visa Policy**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1349 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1349</td><td>1</td><td>22.5.2024</td></tr>
+</table>
+
+**REGULATION (EU) 2021/1148 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 July 2021**
+
+**establishing, as part of the Integrated Border Management Fund, the Instrument for Financial Support for Border Management and Visa Policy**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+##### Article 1 — Subject matter
+
+This Regulation establishes the Instrument for Financial Support for Border Management and Visa Policy (the ‘Instrument’), as part of the Integrated Border Management Fund (the ‘Fund’), for the period from 1 January 2021 to 31 December 2027.
+
+This Regulation establishes the Fund jointly with Regulation (EU) 2021/1077 for the period from 1 January 2021 to 31 December 2027.
+
+This Regulation lays down the policy objective of the Instrument, the specific objectives of the Instrument and measures to implement those specific objectives, the budget for the period from 1 January 2021 to 31 December 2027, the forms of Union funding and the rules for providing such funding.
+
+##### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘border crossing point’ means border crossing point as defined in point 8 of Article 2 of Regulation (EU) 2016/399;
+
+(2) ‘European integrated border management’ means European integrated border management as referred to in Article 3 of Regulation (EU) 2019/1896;
+
+(3) ‘external borders’ means external borders as defined in point 2 of Article 2 of Regulation (EU) 2016/399 and internal borders at which controls have not yet been lifted;
+
+(4) ‘external border section’ means external border section as defined in point (11) of Article 2 of Regulation (EU) 2019/1896;
+
+(5) ‘hotspot area’ means hotspot area as defined in point (23) of Article 2 of Regulation (EU) 2019/1896;
+
+(6) ‘internal borders at which controls have not yet been lifted’ means:
+
+(a) the common border between a Member State fully implementing the Schengen acquis and a Member State bound to apply the Schengen acquis in full, in conformity with its Act of Accession, but for which the relevant Council Decision authorising it to fully apply that acquis has not yet entered into force;
+
+(b) the common border between two Member States bound to apply the Schengen acquis in full, in conformity with their respective Acts of Accession, but for which the relevant Council Decision authorising them to fully apply that acquis has not yet entered into force;
+
+(7) ‘emergency situation’ means a situation resulting from urgent and exceptional pressure, in which a large or disproportionate number of third-country nationals have crossed, are crossing or are expected to cross the external borders of one or more Member States or in which incidents related to illegal immigration or cross-border crime occur at the external borders of one or more Member States, and those incidents have a decisive impact on border security to such an extent that they risk jeopardising the functioning of the Schengen area, or any other situation in respect of which it has been duly substantiated that immediate action at the external borders within the objectives of the Instrument is required;
+
+(8) ‘specific actions’ means transnational or national projects that bring Union added value in accordance with the objectives of the Instrument for which one, several or all Member States may receive an additional allocation to their programmes;
+
+(9) ‘operating support’ means a part of a Member State’s allocation which may be used as support to the public authorities responsible for carrying out the tasks and providing the services which constitute a public service for the Union;
+
+(10) ‘Union actions’ means transnational projects or projects of particular interest to the Union implemented in accordance with the objectives of the Instrument;
+
+(11) ‘solidarity action’ means an action, the scope of which is set out in point (b) of Article 56(2) of Regulation (EU) 2024/1351 of the European Parliament of the Council ( 1 ), funded through financial contributions provided by Member States, referred to in Article 64(1) of that Regulation.
+
+##### Article 3 — Objectives of the Instrument
+
+1\. As part of the Fund, the policy objective of the Instrument is to ensure strong and effective European integrated border management at the external borders, thereby contributing to ensuring a high level of internal security within the Union, while safeguarding the free movement of persons within it and fully respecting the relevant Union acquis and the international obligations of the Union and the Member States arising from the international instruments to which they are party.
+
+2\. Within the policy objective set out in paragraph 1, the Instrument shall contribute to the following specific objectives:
+
+(a) supporting effective European integrated border management at the external borders, implemented by the European Border and Coast Guard as a shared responsibility of the European Border and Coast Guard Agency and the national authorities responsible for border management, to facilitate legitimate border crossings, to prevent and detect illegal immigration and cross-border crime and to effectively manage migratory flows;
+
+(b) supporting the common visa policy to ensure a harmonised approach with regard to the issuance of visas and to facilitate legitimate travel, while helping to prevent migratory and security risks.
+
+3\. Within the specific objectives set out in paragraph 2, the Instrument shall be implemented through the implementation measures listed in Annex II.
+
+##### Article 4 — Non-discrimination and respect for fundamental rights
+
+Actions funded under the Instrument shall be implemented in full compliance with the rights and principles enshrined in the Union acquis and the Charter and with the Union’s international obligations as regards fundamental rights, in particular by ensuring compliance with the principles of non-discrimination and non-refoulement.
+
+##### Article 5 — Scope of support
+
+1\. Within its objectives and in accordance with the implementation measures listed in Annex II, the Instrument shall, in particular, support the actions listed in Annex III.
+
+To address unforeseen or new circumstances, the Commission is empowered to adopt delegated acts in accordance with Article 31 to amend the list of actions in Annex III in order to add new actions.
+
+2\. To achieve its objectives, the Instrument may support, in line with Union priorities, actions as referred to in Annex III in and in relation to third countries, where appropriate, in accordance with Article 20.
+
+3\. As regards actions in and in relation to third countries, the Commission and the Member States, together with the European External Action Service, shall, in accordance with their respective responsibilities, ensure coordination with relevant Union policies, strategies and instruments. They shall, in particular, ensure that actions in and in relation to third countries:
+
+(a) are carried out in synergy and in coherence with other actions outside the Union supported through other Union instruments;
+
+(b) are coherent with external Union policy, respect the principle of policy coherence for development and are consistent with the strategic programming documents for the region or country in question;
+
+(c) focus on measures that are not development-oriented; and
+
+(d) serve the interests of internal Union policies and are consistent with activities undertaken within the Union.
+
+4\. The following actions shall not be eligible:
+
+(a) actions as referred to in point (a) of paragraph 1 of Annex III at those internal borders at which controls have not yet been lifted;
+
+(b) actions related to the temporary reintroduction of border control at internal borders within the meaning of point 1 of Article 2 of Regulation (EU) 2016/399;
+
+(c) actions of which the primary purpose is customs control.
+
+By way of derogation from the first subparagraph, where an emergency situation occurs, actions as referred to in the first subparagraph may be considered eligible.
+
+## CHAPTER II — FINANCIAL AND IMPLEMENTATION FRAMEWORK
+
+### SECTION 1 — Common provisions
+
+##### Article 6 — General principles
+
+1\. Support provided under the Instrument shall complement national, regional and local interventions, and shall focus on bringing Union added value to the achievement of the objectives of the Instrument.
+
+2\. The Commission and the Member States shall ensure that the support provided under the Instrument and by the Member States is consistent with the relevant actions, policies and priorities of the Union, and is complementary to support provided under other Union instruments.
+
+3\. The Instrument shall be implemented under direct, shared or indirect management in accordance with points (a), (b) and (c) of the first subparagraph of Article 62(1) of the Financial Regulation.
+
+##### Article 7 — Budget
+
+1\. The financial envelope for the implementation of the Instrument for the period from 1 January 2021 to 31 December 2027 shall be EUR 5 241 000 000 in current prices.
+
+2\. As a result of the programme-specific adjustment provided for in Article 5 of Regulation (EU, Euratom) 2020/2093, the amount referred to in paragraph 1 of this Article shall be increased by an additional allocation of EUR 1 000 000 000 in constant 2018 prices as specified in Annex II to that Regulation.
+
+3\. The financial envelope shall be used as follows:
+
+(a) EUR 3 668 000 000 shall be allocated to the Member States’ programmes, of which EUR 200 568 000 shall be allocated to the Special Transit Scheme referred to in Article 17;
+
+(b) EUR 1 573 000 000 shall be allocated to the thematic facility referred to in Article 8.
+
+4\. The additional allocation referred to in paragraph 2 shall be allocated to the thematic facility referred to in Article 8.
+
+5\. At the initiative of the Commission, up to 0,52 % of the financial envelope shall be allocated to technical assistance, as referred to in Article 35 of Regulation (EU) 2021/1060, for the implementation of the Instrument.
+
+6\. In accordance with the relevant provisions of their respective association agreements, arrangements shall be made in order to specify the nature and modes of the participation in the Instrument of countries associated with the implementation, application and development of the Schengen acquis. As soon as possible after the country concerned has notified its decision to accept the content of the Instrument and to implement it in its internal legal order, in accordance with the relevant association agreement, the Commission shall submit a recommendation to the Council for the opening of negotiations on those arrangements under Article 218(3) TFEU. On receipt of the recommendation, the Council shall act without delay in deciding to authorise the opening of those negotiations. The financial contributions from those countries shall be added to the overall resources available from the financial envelope referred to in paragraph 1.
+
+7\. In accordance with Article 26 of Regulation (EU) 2021/1060, up to 5 % of the initial allocation to a Member State from any of the funds under that Regulation under shared management may be transferred to the Instrument under direct or indirect management at the request of that Member State. The Commission shall implement those resources directly in accordance with point (a) of the first subparagraph of Article 62(1) of the Financial Regulation or indirectly in accordance with point (c) of that subparagraph. Those resources shall be used for the benefit of the Member State concerned.
+
+##### Article 8 — General provisions on the implementation of the thematic facility
+
+1\. The amount referred to in point (b) of Article 7(3) shall be allocated flexibly through a thematic facility using shared, direct or indirect management as set out in work programmes. Given the internal nature of the Instrument, the thematic facility shall primarily serve internal Union policy in accordance with the specific objectives set out in Article 3(2).
+
+Funding from the thematic facility shall be used for its components, which are as follows:
+
+(a) specific actions;
+
+(b) Union actions; and
+
+(c) emergency assistance as referred to in Article 25.
+
+Technical assistance at the initiative of the Commission, as referred to in Article 35 of Regulation (EU) 2021/1060, shall also receive support from the amount referred to in point (b) of Article 7(3) of this Regulation.
+
+2\. Funding from the thematic facility shall address priorities with a high Union added value or be used to respond to urgent needs, in line with agreed Union priorities as reflected in Annex II, including the need to protect the external borders and to prevent and detect cross-border crime at the external borders, in particular migrant smuggling and trafficking in human beings, and irregular immigration, as well as to effectively manage migratory flows and support the common visa policy.
+
+The funding referred to in the first subparagraph of this paragraph, with the exception of funding used for emergency assistance in accordance with Article 25, shall only support the actions listed in Annex III.
+
+3\. The Commission shall engage with civil society organisations and relevant networks, in particular with a view to preparing and evaluating the work programmes for Union actions financed under the Instrument.
+
+4\. When funding from the thematic facility is provided under direct or indirect management to Member States, the Commission shall ensure that projects affected by a reasoned opinion delivered by the Commission in respect of infringement proceedings under Article 258 TFEU that put in doubt the legality and regularity of expenditure or the performance of projects are not selected.
+
+5\. For the purposes of Article 23 and Article 24(2) of Regulation (EU) 2021/1060, where funding from the thematic facility is implemented under shared management, the Member State concerned shall ensure that, and the Commission shall assess whether, the envisaged actions are not affected by a reasoned opinion delivered by the Commission in respect of infringement proceedings under Article 258 TFEU that put in doubt the legality and regularity of expenditure or the performance of the actions.
+
+6\. The Commission shall establish the overall amount to be made available for the thematic facility under the annual appropriations of the Union budget.
+
+7\. The Commission shall, by means of implementing acts, adopt financing decisions as referred to in Article 110 of the Financial Regulation for the thematic facility identifying objectives and actions to be supported and specifying the amounts for each of the components referred to in the second subparagraph of paragraph 1 of this Article. Financing decisions may be annual or multiannual and may cover one or more components of the thematic facility referred to in the second subparagraph of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 32(3) of this Regulation.
+
+8\. The Commission shall ensure that the distribution of resources among the specific objectives set out in Article 3(2) is fair and transparent. The Commission shall report on the use and the distribution of the thematic facility between the components referred to in the second subparagraph of paragraph 1 of this Article, including on the support provided to actions in or in relation to third countries under the Union actions.
+
+9\. Following the adoption of a financing decision as referred to in paragraph 7, the Commission may amend the Member States’ programmes accordingly.
+
+### SECTION 2 — Support and implementation under shared management
+
+##### Article 9 — Scope
+
+1\. This section applies to the amount referred to in point (a) of Article 7(3) and the additional resources to be implemented under shared management in accordance with the financing decision for the thematic facility referred to in Article 8.
+
+2\. Support under this section shall be implemented under shared management in accordance with Article 63 of the Financial Regulation and Regulation (EU) 2021/1060.
+
+##### Article 10 — Budgetary resources
+
+1\. The amount referred to in point (a) of Article 7(3) shall be allocated to Member States’ programmes indicatively as follows:
+
+(a) EUR 3 057 000 000 in accordance with Annex I;
+
+(b) EUR 611 000 000 for the adjustment of the allocations to the Member States’ programmes referred to in Article 14(1).
+
+2\. Where the amount referred to in point (b) of paragraph 1 of this Article is not fully allocated, the remaining amount may be added to the amount referred to in point (b) of Article 7(3).
+
+3\. Support under this Regulation may be financed, for the purposes of solidarity actions, by contributions made by Member States and by other public or private donors as external assigned revenue in accordance with Article 21(5) of the Financial Regulation.
+
+##### Article 11 — Pre-financing
+
+1\. In accordance with Article 90(4) of Regulation (EU) 2021/1060, the pre-financing for the Instrument shall be paid in yearly instalments before 1 July of each year, subject to the availability of funds, as follows:
+
+(a) 2021: 4 %;
+
+(b) 2022: 3 %;
+
+(c) 2023: 5 %;
+
+(d) 2024: 5 %;
+
+(e) 2025: 5 %;
+
+(f) 2026: 5 %.
+
+2\. Where a Member State’s programme is adopted after 1 July 2021, the earlier instalments shall be paid in the year of its adoption.
+
+##### Article 12 — Co-financing rates
+
+1\. The contribution from the Union budget shall not exceed 75 % of the total eligible expenditure for a project.
+
+2\. The contribution from the Union budget may be increased to 90 % of the total eligible expenditure for projects implemented under specific actions.
+
+3\. The contribution from the Union budget may be increased to 90 % of the total eligible expenditure for the actions listed in Annex IV.
+
+4\. The contribution from the Union budget may be increased to 100 % of the total eligible expenditure for operating support, including the Special Transit Scheme referred to in Article 17.
+
+5\. The contribution from the Union budget may be increased to 100 % of the total eligible expenditure in accordance with Article 85(2) or (3) of Regulation (EU) 2018/1240.
+
+6\. The contribution from the Union budget may be increased to 100 % of the total eligible expenditure for emergency assistance as referred to in Article 25.
+
+7\. The contribution from the Union budget may be increased to 100 % of the total eligible expenditure for technical assistance at the initiative of Member States, within the limits set out in point (b)(vi) of Article 36(5) of Regulation (EU) 2021/1060.
+
+7a. The contribution from the Union budget may be increased to 100 % of the total eligible expenditure for solidarity actions.
+
+8\. The Commission decision approving a Member State’s programme shall set the co-financing rate and the maximum amount of support from the Instrument for the types of action covered by the contribution referred to in paragraphs 1 to 7.
+
+9\. The Commission decision approving a Member State’s programme shall set out for each type of action whether the co-financing rate is applied in respect of:
+
+(a) the total contribution, including the public and private contribution; or
+
+(b) the public contribution only.
+
+##### Article 13 — Member States’ programmes
+
+1\. Each Member State shall ensure that the priorities addressed in its programme are consistent with and respond to Union priorities and challenges in the area of border management and visa policy and are fully in accordance with the relevant Union acquis and the international obligations of the Union and Member States arising from the international instruments to which they are party. In defining the priorities of their programmes, Member States shall ensure that the implementation measures listed in in Annex II are adequately addressed in their programmes.
+
+Given the internal nature of the Instrument, Member States’ programmes shall primarily serve internal Union policy in accordance with the specific objectives set out in Article 3(2) of this Regulation.
+
+The Commission shall assess the Member States’ programmes in accordance with Article 23 of Regulation (EU) 2021/1060.
+
+2\. Within the resources allocated in Article 10(1), and without prejudice to paragraph 3 of this Article, each Member State shall allocate, within its programme, a minimum of 10 % to the specific objective set out in point (b) of Article 3(2).
+
+3\. A Member State may allocate less than the minimum percentage referred to in paragraph 2 only if it provides a detailed explanation in its programme as to why allocating resources below that level would not jeopardise the achievement of the relevant objective.
+
+4\. The Commission shall ensure that the knowledge and expertise of the relevant decentralised agencies, in particular the European Border and Coast Guard Agency, eu-LISA and the European Union Agency for Fundamental Rights, established by Council Regulation (EC) No 168/2007 ( 2 ), are taken into account as regards the areas of their competence, at an early stage and in a timely manner, in the development of the Member States’ programmes.
+
+5\. The Commission shall consult the European Border and Coast Guard Agency on the actions included under operating support to ensure the consistency and complementarity of the actions of the European Border and Coast Guard Agency and those of the Member States regarding border management, to avoid double financing and to achieve cost efficiency. The Commission shall, where necessary, consult eu-LISA on the actions included under operating support for which eu-LISA has particular expertise in accordance with its mandate.
+
+6\. The Commission may involve, where appropriate, relevant decentralised agencies, including those referred to in paragraph 4, in the monitoring and evaluation tasks specified in Section 5, in particular with a view to ensuring that the actions implemented with the support of the Instrument are compliant with the relevant Union acquis and agreed Union priorities.
+
+7\. Following the adoption of recommendations within the scope of this Regulation in accordance with Regulation (EU) No 1053/2013 and the issuing of recommendations in the framework of carrying out vulnerability assessments in accordance with Regulation (EU) 2019/1896, the Member State concerned shall examine, together with the Commission, the most appropriate approach to addressing those recommendations with the support of the Instrument.
+
+8\. The Commission shall, where relevant, involve the European Border and Coast Guard Agency in the process of examining the most appropriate approach to addressing the recommendations referred to in paragraph 7 with the support of the Instrument. In that context, the Commission may, where relevant, draw on the expertise of other Union bodies, offices and agencies with respect to specific issues falling within their areas of competence.
+
+9\. When implementing paragraph 7, the Member State concerned shall make the implementation of measures to address any identified deficiencies, especially measures to address serious deficiencies and assessments of non-compliance, a priority for its programme.
+
+10\. Where necessary, the programme of the Member State in question shall be amended in accordance with Article 24 of Regulation (EU) 2021/1060 to take into account the recommendations referred to in paragraph 7 of this Article.
+
+11\. In cooperation and consultation with the Commission and the European Border and Coast Guard Agency in accordance with the that Agency’s areas of competence, the Member State concerned may reallocate resources under its programme, including those programmed for operating support, with the aim of addressing the recommendations referred to in paragraph 7 where those recommendations have financial implications.
+
+12\. Whenever a Member State decides to implement a project with or in a third country with the support of the Instrument, the Member State concerned shall consult the Commission prior to the approval of the project.
+
+13\. Whenever a Member State decides to implement an action with, in or in relation to a third country with the support of the Instrument in relation to the monitoring, detection, identification, tracking, prevention and interception of unauthorised border crossings for the purpose of detecting, preventing and combating irregular immigration and cross-border crime or for the purpose of contributing to the protection of migrants and contributing to saving the lives of migrants, that Member State shall ensure that it has notified the Commission of any bilateral or multilateral cooperation agreement with that third country in accordance with Article 76(3) of Regulation (EU) 2019/1896.
+
+14\. As regards equipment, including means of transport, and ICT systems required for effective and secure border control, including for search and rescue operations, and purchased with the support of the Instrument:
+
+(a) the Member States shall ensure that the standards established in accordance with Articles 16 and 64 of Regulation (EU) 2019/1896 are met when launching the purchase procedures for the equipment and ICT systems to be developed with the support of the Instrument;
+
+(b) all large-scale operating equipment for border management, such as aerial and maritime means of transport and surveillance, purchased by the Member States shall be registered in the technical equipment pool of the European Border and Coast Guard Agency for the purpose of making that equipment available in accordance with Article 64(9) of Regulation (EU) 2019/1896;
+
+(c) they may be additionally used in the following complementary areas: customs control, maritime operations of a multipurpose character and for achieving the objectives of the Internal Security Fund and of the Asylum, Migration and Integration Fund;
+
+(d) Member States shall, in order to support coherent planning for capability development for the European Border and Coast Guard and the possible use of joint procurement, communicate to the Commission, as part of the reporting requirement under Article 29, the available multiannual planning for the equipment expected to be purchased under the Instrument, and the Commission shall transmit that information to the European Border and Coast Guard Agency.
+
+Equipment and ICT systems as referred to in the first subparagraph shall only be eligible for financial support from the Instrument where the requirement set out in point (a) of the first subparagraph is met.
+
+For the purposes of point (c) of the first subparagraph, equipment and ICT systems shall remain available and deployable for effective and secure border control activities. The use of equipment in the complementary areas referred to in point (c) of the first subparagraph shall not exceed 30 % of the total period of use of that equipment. ICT systems developed for the purposes of point (c) of the first subparagraph shall provide data and services to the border management systems at national or Union level. Member States shall inform the Commission in the annual performance report of multiple use as referred to in point (c) of the first subparagraph and the place of deployment for multi-purpose equipment and ICT systems.
+
+15\. Where Member States are implementing actions under the Instrument, they shall pay particular attention to their international obligations regarding search and rescue operations at sea. Equipment and ICT systems as referred to in points (a) to (d) of the first subparagraph of paragraph 14 may be used for search and rescue operations in situations which might arise during border surveillance operations at sea.
+
+16\. Training in the field of border management carried out with the support of the Instrument shall be based on the relevant harmonised and quality-assured European educational and common training standards for border and coast guards, in particular the common core curricula referred to in Article 62(6) of Regulation (EU) 2019/1896.
+
+17\. Member States shall in particular pursue the actions listed in Annex IV in their programmes. To address unforeseen or new circumstances and to ensure the effective implementation of funding, the Commission is empowered to adopt delegated acts in accordance with Article 31 to amend the list of actions eligible for higher co-financing rates in Annex IV.
+
+18\. Programming as referred to in Article 22(5) of Regulation (EU) 2021/1060 shall be based on the types of intervention set out in Table 1 of Annex VI to this Regulation and shall include an indicative breakdown of the programmed resources by type of intervention within each specific objective set out in Article 3(2) of this Regulation.
+
+##### Article 14 — Mid-term review
+
+1\. In 2024, the Commission shall allocate to the programmes of the Member States concerned the additional amount referred to in point (b) of Article 10(1) in accordance with the criteria referred to in point (c) of paragraph 1 and paragraphs 2 to 10 of Annex I. The allocation shall be based on the most recent available statistical data for the criteria referred to in point (c) of paragraph 1 and paragraphs 2 to 10 of Annex I. Funding shall be effective as of 1 January 2025.
+
+2\. Where at least 10 % of the initial allocation to a programme referred to in point (a) of Article 10(1) of this Regulation has not been covered by payment applications submitted in accordance with Article 91 of Regulation (EU) 2021/1060, the Member State concerned shall not be eligible to receive the additional allocation for its programme referred to in point (b) of Article 10(1) of this Regulation.
+
+3\. When allocating the funds from the thematic facility referred to in Article 8 of this Regulation as of 1 January 2025, the Commission shall take into account the progress made by the Member States in achieving the milestones of the performance framework referred to in Article 16 of Regulation (EU) 2021/1060 and identified shortcomings in implementation.
+
+##### Article 15 — Specific actions
+
+1\. A Member State may receive funding for specific actions in addition to its allocation under Article 10(1), provided that that funding is subsequently earmarked as such in its programme and is used to contribute to the implementation of the objectives of the Instrument.
+
+2\. Funding for specific actions shall not be used for other actions in the Member State’s programme, except in duly justified circumstances and as approved by the Commission through the amendment of the Member State’s programme.
+
+##### Article 16 — Operating support
+
+1\. A Member State may use up to 33 % of the amount allocated to its programme under the Instrument to finance operating support for the public authorities responsible for carrying out the tasks and providing the services which constitute a public service for the Union.
+
+2\. When using operating support, a Member State shall comply with the relevant Union acquis.
+
+3\. A Member State shall explain, in its programme and in the annual performance reports referred to in Article 29, how the use of operating support will contribute to the achievement of the objectives of the Instrument. Before the approval of the Member State’s programme, the Commission shall assess the baseline situation in the Member States which have indicated their intention to use operating support, following a consultation of the European Border and Coast Guard Agency and, where appropriate, eu-LISA within the scope of those agencies’ areas of competence in accordance with Article 13(4), and taking into account the information provided by those Member States and, where relevant, the information available as a result of Schengen evaluations and vulnerability assessments, including recommendations following Schengen evaluations and vulnerability assessments.
+
+4\. Without prejudice to point (c) of Article 5(4), operating support shall be concentrated on actions covered by expenditure as laid down in Annex VII.
+
+5\. To address unforeseen or new circumstances or to ensure the effective implementation of funding, the Commission is empowered to adopt delegated acts in accordance with Article 31 to amend Annex VII in respect of expenditure that is eligible for operating support.
+
+##### Article 17 — Operating support for the Special Transit Scheme
+
+1\. The Instrument shall provide support to cover foregone fees from visas issued for the purpose of transit and additional costs incurred in implementing the facilitated transit scheme in accordance with Regulations (EC) No 693/2003 and (EC) No 694/2003.
+
+2\. The resources allocated to Lithuania for the Special Transit Scheme in accordance with point (a) of Article 7(3) shall be made available as additional operating support for Lithuania, including for investment in infrastructures, in accordance with the expenditure that is eligible for operating support within its programme referred to in Annex VII.
+
+3\. By way of derogation from Article 16(1), Lithuania may use the amount allocated to it in accordance with point (a) of Article 7(3) to finance operating support in addition to the amount referred to in Article 16(1).
+
+4\. The Commission and Lithuania shall review the application of this Article in the event of changes which have an impact on the existence or functioning of the Special Transit Scheme.
+
+5\. Following a reasoned request by Lithuania, the resources allocated for the Special Transit Scheme in accordance with in point (a) of Article 7(3) shall be reviewed and, where necessary, adjusted before the adoption of the last work programme for the thematic facility referred to in Article 8, within the limits of the budgetary resources referred to in point (b) of Article 7(3), through the thematic facility referred to in Article 8.
+
+##### Article 18 — Management verifications and audits of projects carried out by international organisations
+
+1\. This Article applies to international organisations or their agencies as referred to in point (c)(ii) of the first subparagraph of Article 62(1) of the Financial Regulation whose systems, rules and procedures have been positively assessed by the Commission pursuant to Article 154(4) and (7) of that Regulation for the purpose of indirectly implementing grants financed from the Union budget (‘international organisations’).
+
+2\. Without prejudice to point (a) of the first paragraph of Article 83 of Regulation (EU) 2021/1060 and to Article 129 of the Financial Regulation, where the international organisation is a beneficiary as defined in point (9) Article 2 of Regulation (EU) 2021/1060, the managing authority shall not be required to carry out the management verifications referred to in point (a) of the first subparagraph of Article 74(1) of Regulation (EU) 2021/1060, provided that the international organisation submits to the managing authority the documents referred to in points (a), (b) and (c) of the first subparagraph of Article 155(1) of the Financial Regulation.
+
+3\. Without prejudice to point (c) of the first subparagraph of Article 155(1) of the Financial Regulation, the management declaration to be submitted by the international organisation shall confirm that the project complies with applicable law and the conditions for support of the project.
+
+4\. In addition, where costs are to be reimbursed pursuant to point (a) of Article 53(1) of Regulation (EU) 2021/1060, the management declaration to be submitted by the international organisation shall confirm that:
+
+(a) invoices and proof of their payment by the beneficiary have been verified;
+
+(b) the accounting records or accounting codes maintained by the beneficiary for transactions linked to the expenditure declared to the managing authority have been verified.
+
+5\. Where costs are to be reimbursed pursuant to point (b), (c) or (d) of Article 53(1) of Regulation (EU) 2021/1060, the management declaration to be submitted by the international organisation shall confirm that the conditions for reimbursement of expenditure have been met.
+
+6\. The documents referred to in points (a) and (c) of the first subparagraph of Article 155(1) of the Financial Regulation shall be provided to the managing authority together with each payment claim submitted by the beneficiary.
+
+7\. The beneficiary shall submit the accounts to the managing authority each year by 15 October. The accounts shall be accompanied by an opinion of an independent audit body that has been drawn up in accordance with internationally accepted audit standards. That opinion shall establish whether the control systems in place function properly and are cost-effective and whether the underlying transactions are legal and regular. That opinion shall also state whether the audit work puts in doubt the assertions made in the management declarations submitted by the international organisation, including information on suspicions of fraud. That opinion shall provide assurance that expenditure included in the payment claims submitted by the international organisation to the managing authority is legal and regular.
+
+8\. Without prejudice to existing possibilities for carrying out further audits as referred to in Article 127 of the Financial Regulation, the managing authority shall draw up the management declaration referred to in point (f) of the first subparagraph of Article 74(1) of Regulation (EU) 2021/1060. The managing authority shall do so by relying on the documents provided by the international organisation pursuant to paragraphs 2 to 5 and 7 of this Article instead of by relying on the management verifications referred to in Article 74(1) of that Regulation.
+
+9\. The document setting out the conditions for support referred to in Article 73(3) of Regulation (EU) 2021/1060, shall include the requirements set out in this Article.
+
+10\. Paragraph 2 shall not apply, and consequently a managing authority shall be required to carry out management verifications, where:
+
+(a) that managing authority identifies a specific risk of irregularity or an indication of fraud with respect to a project initiated or implemented by the international organisation;
+
+(b) the international organisation fails to submit to that managing authority the documents referred to in paragraphs 2 to 5 and 7; or
+
+(c) the documents referred to in paragraphs 2 to 5 and 7 that have been submitted by the international organisation are incomplete.
+
+11\. Where a project in which an international organisation is a beneficiary as defined in point (9) of Article 2 of Regulation (EU) 2021/1060, is part of a sample as referred to in Article 79 of that Regulation, the audit authority may perform its work on the basis of a subsample of transactions that relate to that project. Where errors are found in the subsample, the audit authority, if relevant, may request the auditor of the international organisation to assess the full scope and the total amount of errors in that project.
+
+### SECTION 3 — Support and implementation under direct or indirect management
+
+##### Article 19 — Scope
+
+The Commission shall implement support under this Section either directly in accordance with point (a) of the first subparagraph of Article 62(1) of the Financial Regulation or indirectly in accordance with point (c) of that subparagraph.
+
+##### Article 20 — Eligible entities
+
+1\. The following entities are eligible for Union financing:
+
+(a) legal entities established in:
+
+(i) a Member State or an overseas country or territory linked to it;
+
+(ii) a third country listed in the work programme, under the conditions specified in paragraph 3;
+
+(b) legal entities created under Union law or any international organisation relevant for the purposes of the Instrument.
+
+2\. Natural persons are not eligible for Union financing.
+
+3\. Entities as referred to in point (a)(ii) of paragraph 1 shall participate as part of a consortium composed of at least two independent entities, at least one of which is established in a Member State.
+
+Entities participating as part of a consortium as referred to in the first subparagraph of this paragraph shall ensure that the actions in which they participate comply with the principles enshrined in the Charter and contribute to the achievement of the objectives of the Instrument.
+
+##### Article 21 — Union actions
+
+1\. At the Commission’s initiative, the Instrument may be used to finance Union actions related to the objectives of the Instrument, in accordance with Annex III.
+
+2\. Union actions may provide funding in any of the forms laid down in the Financial Regulation, in particular grants, prizes and procurement.
+
+3\. Grants implemented under direct management shall be awarded and managed in accordance with Title VIII of the Financial Regulation.
+
+4\. Members of the evaluation committee assessing the proposals, referred to in Article 150 of the Financial Regulation, may be external experts.
+
+5\. Contributions to a mutual insurance mechanism may cover the risk associated with the recovery of funds due by recipients and shall be considered a sufficient guarantee under the Financial Regulation. Article 37(7) of Regulation (EU) 2021/695 of the European Parliament and of the Council ( 3 ) shall apply.
+
+##### Article 22 — Technical assistance at the initiative of the Commission
+
+In accordance with Article 35 of Regulation (EU) 2021/1060, the Instrument may support technical assistance implemented at the initiative of, or on behalf of, the Commission, at a financing rate of 100 %.
+
+##### Article 23 — Audits
+
+Audits of the use of the Union contribution carried out by persons or entities, including by persons or entities other than those mandated by Union institutions, bodies, offices or agencies, shall form the basis of the overall assurance pursuant to Article 127 of the Financial Regulation.
+
+##### Article 24 — Information, communication and publicity
+
+1\. The recipients of Union funding shall acknowledge the origin of those funds and ensure the visibility of the Union funding, in particular when promoting the actions and their results, by providing coherent, effective, meaningful and proportionate targeted information to multiple audiences, including the media and the public. The visibility of Union funding shall be ensured and such information shall be provided, except in duly justified cases where it is not possible or appropriate to display such information publicly or where the release of such information is restricted by law, in particular for reasons of security, public order, criminal investigations or the protection of personal data. To ensure the visibility of Union funding, recipients of Union funding shall refer to the origin of that funding when publicly communicating on the action concerned, and shall display the Union emblem.
+
+2\. To reach the widest possible audience, the Commission shall implement information and communication actions relating to the Instrument, to actions taken pursuant to the Instrument and to the results obtained.
+
+Financial resources allocated to the Instrument shall also contribute to the corporate communication of the political priorities of the Union, insofar as those priorities are related to the objectives of the Instrument.
+
+3\. The Commission shall publish the work programmes of the thematic facility referred to in Article 8. For support provided under direct or indirect management, the Commission shall publish the information referred to in Article 38(2) of the Financial Regulation on a publicly available website and shall update that information regularly. That information shall be published in an open, machine-readable format which allows data to be sorted, searched, extracted and compared.
+
+### SECTION 4 — Support and implementation under shared, direct or indirect management
+
+##### Article 25 — Emergency assistance
+
+1\. The Instrument shall provide financial assistance to address urgent and specific needs in the event of duly justified emergency situations.
+
+In response to such duly justified emergency situations, the Commission may provide emergency assistance within the limits of available resources.
+
+2\. Emergency assistance may take the form of grants awarded directly to the decentralised agencies.
+
+3\. Emergency assistance may be allocated to Member States’ programmes in addition to the allocation under Article 10(1), provided that it is subsequently earmarked as such in the Member States’ programmes. That funding shall not be used for other actions in the Member State’s programme except in duly justified circumstances and as approved by the Commission through the amendment of the Member State’s programme. Pre-financing for emergency assistance may amount to 95 % of the Union contribution, subject to the availability of funds.
+
+4\. Grants implemented under direct management shall be awarded and managed in accordance with Title VIII of the Financial Regulation.
+
+5\. Where necessary for the implementation of an action, emergency assistance may cover expenditure which was incurred prior to the date of submission of the grant application or the request for assistance for that action, provided that that expenditure was not incurred prior to 1 January 2021.
+
+6\. Emergency assistance shall be provided in a manner that is entirely consistent with both the relevant Union acquis and international obligations of the Union and Member States arising from the international instruments to which they are party.
+
+7\. On duly justified imperative grounds of urgency and to ensure that there is a timely availability of resources for emergency assistance, the Commission may separately adopt a financing decision, as referred to in Article 110 of the Financial Regulation, for emergency assistance by way of an immediately applicable implementing act in accordance with the procedure referred to in Article 32(4). Such an act shall remain in force for a period not exceeding 18 months.
+
+##### Article 26 — Cumulative and alternative financing
+
+1\. An action that has received a contribution under the Instrument may also receive a contribution from any other Union programme, including funds under shared management, provided that the contributions do not cover the same costs. The rules of the relevant Union programme shall apply to the corresponding contribution to the action. The cumulative financing shall not exceed the total eligible costs of the action. The support from the different Union programmes may be calculated on a pro-rata basis in accordance with the documents setting out the conditions for support.
+
+2\. In accordance with Article 73(4) of Regulation (EU) 2021/1060, the European Regional Development Fund or the European Social Fund Plus may support actions attributed a Seal of Excellence label as defined in point (45) of Article 2 of that Regulation. In order to be attributed a Seal of Excellence label, the actions shall comply with the following cumulative conditions:
+
+(a) they have been assessed in a call for proposals under the Instrument;
+
+(b) they comply with the minimum quality requirements of that call for proposals; and
+
+(c) they cannot be financed under that call for proposals due to budgetary constraints.
+
+### SECTION 5 — Monitoring, reporting and evaluation
+
+#### Subsection 1 — Common provisions
+
+##### Article 27 — Monitoring and reporting
+
+1\. In compliance with its reporting requirements pursuant to point (h)(iii) of the first subparagraph of Article 41(3) of the Financial Regulation, the Commission shall present to the European Parliament and to the Council information on the core performance indicators listed in Annex V to this Regulation.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 31 to amend Annex V in order to make the necessary adjustments to the core performance indicators listed in that Annex.
+
+3\. Indicators to report on the progress of the Instrument towards the achievement of the specific objectives set out in Article 3(2) are set out in Annex VIII. For output indicators, the baselines shall be set at zero. The milestones set for 2024 and the targets set for 2029 shall be cumulative.
+
+4\. The Commission shall also report on the use of the thematic facility referred to in Article 8 for supporting actions in or in relation to third countries and the share of the thematic facility used for supporting such actions.
+
+5\. The performance reporting system shall ensure that data for monitoring the implementation and the results of the programme are collected efficiently, effectively and in a timely manner. To that end, proportionate reporting requirements shall be imposed on recipients of Union funds and, where appropriate, on Member States.
+
+6\. To ensure the effective assessment of the Instrument’s progress towards the achievement of its objectives, the Commission is empowered to adopt delegated acts in accordance with Article 31 to amend Annex VIII to review or complement the indicators where considered necessary and to supplement this Regulation with provisions on the establishment of a monitoring and evaluation framework, including on information to be provided by the Member States. Any amendment to Annex VIII shall apply only to projects selected after the entry into force of that amendment.
+
+##### Article 28 — Evaluation
+
+1\. By 31 December 2024, the Commission shall carry out a mid-term evaluation of this Regulation. In addition to what is provided for in Article 45(1) of Regulation (EU) 2021/1060, the mid-term evaluation shall assess the following:
+
+(a) the effectiveness of the Instrument, including the progress made towards the achievement of its objectives, taking into account all relevant information already available, in particular the annual performance reports referred to in Article 29 and the output and result indicators set out in Annex VIII;
+
+(b) the efficiency of the use of resources allocated to the Instrument and the efficiency of the management and control measures put in place to implement it;
+
+(c) the continued relevance and appropriateness of the implementation measures listed in in Annex II;
+
+(d) the coordination, coherence and complementarity between the actions supported under the Instrument and support provided by other Union funds;
+
+(e) the Union added value of actions implemented under the Instrument.
+
+That mid-term evaluation shall take into account the results of the retrospective evaluation of the effects of the instrument for financial support for external borders and visa, as part of the Internal Security Fund, for the 2014-2020 period.
+
+2\. In addition to what is provided for in Article 45(2) of the Regulation (EU) 2021/1060, the retrospective evaluation shall include the elements listed in paragraph 1 of this Article. Moreover, the impact of the Instrument shall be evaluated.
+
+3\. The mid-term evaluation and the retrospective evaluation shall be carried out in a timely manner in order to contribute to the decision-making process, including, where appropriate, to the revision of this Regulation.
+
+4\. The Commission shall ensure that information in the mid-term and retrospective evaluations is made publicly available, except in duly justified cases where the release of that information is restricted by law, in particular for reasons of the functioning or security of the external borders as part of European integrated border management, security, public order, criminal investigations or the protection of personal data.
+
+5\. In the mid-term evaluation and retrospective evaluation, the Commission shall pay particular attention to the evaluation of actions implemented with, in or in relation to third countries in accordance with Article 5 and Article 13(12) and (13).
+
+#### Subsection 2 — Rules for shared management
+
+##### Article 29 — Annual performance reports
+
+1\. By 15 February 2023 and by 15 February of each subsequent year up to and including 2031, Member States shall submit to the Commission an annual performance report as referred to in Article 41(7) of Regulation (EU) 2021/1060.
+
+The reporting period shall cover the last accounting year, as defined in point (29) of Article 2 of Regulation (EU) 2021/1060, preceding the year of submission of the report. The report submitted by 15 February 2023 shall cover the period from 1 January 2021.
+
+2\. The annual performance reports shall, in particular, set out information on:
+
+(a) the progress in the implementation of the Member State’s programme and in achieving the milestones and targets set out therein, taking into account the most recent data as required under Article 42 of Regulation (EU) 2021/1060;
+
+(aa) the implementation of solidarity actions, including a breakdown of the financial contributions by actions and a description of the main results achieved as a result of the funding;
+
+(b) any issues affecting the performance of the Member State’s programme and the action taken to address them, including information on any reasoned opinions issued by the Commission in respect of infringement proceedings under Article 258 TFEU linked to the implementation of the Instrument;
+
+(c) the complementarity between the actions supported under the Instrument and the support provided by other Union funds, in particular those actions taken in or in relation to third countries;
+
+(d) the contribution of the Member State’s programme to the implementation of the relevant Union acquis and action plans;
+
+(e) the implementation of communication and visibility actions;
+
+(f) the fulfilment of the applicable enabling conditions and their application throughout the programming period, in particular compliance with fundamental rights;
+
+(g) the level of expenditure in accordance with Article 85(2) and (3) of Regulation (EU) 2018/1240 included in the accounts pursuant to the Article 98 of Regulation (EU) 2021/1060;
+
+(h) the implementation of projects in or in relation to a third country.
+
+The annual performance reports shall include a summary covering all the points set out in the first subparagraph of this paragraph. The Commission shall ensure that the summaries provided by Member States are translated into all official languages of the Union and made publicly available.
+
+3\. The Commission may provide observations on annual performance reports within two months of the date of their receipt. Where the Commission does not provide observations by that deadline, the report shall be deemed to have been accepted.
+
+4\. On its website, the Commission shall provide the links to the websites referred to in Article 49(1) of Regulation (EU) 2021/1060.
+
+5\. In order to ensure uniform conditions for the implementation of this Article, the Commission shall adopt an implementing act establishing the template for the annual performance report. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 32(2).
+
+##### Article 30 — Monitoring and reporting under shared management
+
+1\. Monitoring and reporting in accordance with Title IV of Regulation (EU) 2021/1060 shall use, as appropriate, the codes for the types of intervention set out in Annex VI to this Regulation. To address unforeseen or new circumstances and to ensure the effective implementation of the funding, the Commission is empowered to adopt delegated acts in accordance with Article 31 to amend Annex VI.
+
+2\. The indicators set out in Annex VIII to this Regulation shall be used in accordance with Article 16(1) and Articles 22 and 42 of Regulation (EU) 2021/1060.
+
+## CHAPTER III — TRANSITIONAL AND FINAL PROVISIONS
+
+##### Article 31 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in the second subparagraph of Article 5(1), Article 13(17), Article 16(5), Article 27(2) and (6) and Article 30(1) shall be conferred on the Commission until 31 December 2027.
+
+3\. The delegation of powers referred to in the second subparagraph of Article 5(1), Article 13(17), Article 16(5), Article 27(2) and (6) and Article 30(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and the Council.
+
+6\. A delegated act adopted pursuant to the second subparagraph of Article 5(1), Article 13(17), Article 16(5), Article 27(2) and (6) or Article 30(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+##### Article 32 — Committee procedure
+
+1\. The Commission shall be assisted by a committee (the ‘Committee for the Home Affairs Funds’). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+4\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+##### Article 33 — Transitional provisions
+
+1\. This Regulation shall not affect the continuation of or modification of the actions initiated pursuant to Regulation (EU) No 515/2014 which shall continue to apply to those actions until their closure.
+
+2\. The financial envelope for the Instrument may also cover technical and administrative assistance expenses necessary to ensure the transition between the Instrument and the measures adopted pursuant to Regulation (EU) No 515/2014.
+
+3\. In accordance with point (a) of the second subparagraph of Article 193(2) of the Financial Regulation, taking into account the delayed entry into force of this Regulation, and in order to ensure continuity, for a limited period, costs incurred in respect of actions supported under this Regulation under direct management and which have already begun may be considered eligible for financing as of 1 January 2021, even if those costs were incurred before the grant application or the request for assistance was submitted.
+
+4\. Member States may continue after 1 January 2021 to support a project selected and started under Regulation (EU) No 515/2014, in accordance with Regulation (EU) No 514/2014, provided that all of the following conditions are met:
+
+(a) the project has two phases identifiable from a financial point of view with separate audit trails;
+
+(b) the total cost of the project exceeds EUR 2 500 000 ;
+
+(c) payments made by the responsible authority to beneficiaries for the first phase of the project shall be included in payment requests to the Commission under Regulation (EU) No 514/2014 and expenditure for the second phase of the project shall be included in payment applications under Regulation (EU) 2021/1060;
+
+(d) the second phase of the project complies with the applicable law and is eligible for support from the Instrument under this Regulation and Regulation (EU) 2021/1060;
+
+(e) the Member State commits to complete the project, render it operational and report on it in the annual performance report submitted by 15 February 2024.
+
+The provisions of this Regulation and Regulation (EU) 2021/1060 shall apply to the second phase of a project as referred to in the first subparagraph of this paragraph.
+
+This paragraph shall apply only to projects which have been selected under shared management pursuant to Regulation (EU) No 514/2014.
+
+##### Article 34 — Entry into force and application
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX I
+
+**Criteria for the allocation of funding to the Member States’ programmes**
+
+1\. The budgetary resources available under Article 10 shall be broken down between the Member States as follows:
+
+(a) each Member State shall receive a fixed amount of EUR 8 000 000 in current prices from the Instrument at the start of the programming period only, with the exception of Cyprus, Malta and Greece, which shall each receive a fixed amount of EUR 28 000 000 in current prices;
+
+(b) an amount of EUR 200 568 000 for the Special Transit Scheme referred to in Article 17 shall be allocated to Lithuania at the start of the programming period only; and
+
+(c) the remaining budgetary resources referred to in Article 10 shall be distributed based on the following criteria:
+
+(i) 30 % for external land borders;
+
+(ii) 35 % for external sea borders;
+
+(iii) 20 % for airports;
+
+(iv) 15 % for consular offices.
+
+2\. The budgetary resources available under point (c)(i) and (ii) of paragraph 1 for external land borders and external sea borders shall be broken down between Member States as follows:
+
+(a) 70 % for the weighted length of their external land borders and external sea borders; and
+
+(b) 30 % for the workload at their external land and external sea borders, as determined in accordance with point (a) of paragraph 6.
+
+The weighted length referred to in point (a) of the first subparagraph of this paragraph shall be established by applying the weighting factors referred to in paragraph 10 for each specific external border section.
+
+3\. The budgetary resources available under point (c)(iii) of paragraph 1 for airports shall be broken down between Member States in accordance with the workload at their airports, as determined in accordance with point (b) of paragraph 6.
+
+4\. The budgetary resources available under point (c)(iv) of paragraph 1 for consular offices shall be broken down between Member States as follows:
+
+(a) 50 % for the number of consular offices, excluding honorary consulates, of the Member States in the countries listed in Annex I to Regulation (EU) 2018/1806 of the European Parliament and of the Council ( 4 ), and
+
+(b) 50 % for the workload relating to the management of visa policy at consular offices of Member States in the countries listed in Annex I to Regulation (EU) 2018/1806, as determined in accordance with point (c) of paragraph 6 of this Annex.
+
+5\. For the purpose of the distribution of resources under point (c)(ii) of paragraph 1 of this Annex, ‘external sea borders’ shall mean the outer limit of the territorial sea of the Member States as defined in accordance with Articles 4 to 16 of the United Nations Convention on the Law of the Sea. However, the definition of ‘external sea borders’ shall take into account cases where long range operations outside the outer limit of the territorial sea of the Member States have been carried out in high threat areas on a regular basis in order to prevent irregular immigration or illegal entry. The definition of ‘external sea borders’ in that regard shall be determined by taking into account operational data over the past two years as provided by the Member States concerned and as assessed by the European Border and Coast Guard Agency for the purposes of the report referred to in paragraph 9 of this Annex. That definition shall be used exclusively for the purposes of this Regulation.
+
+6\. For the purposes of the initial allocation of funding, the assessment of the workload shall be based on the most recent average figures covering the years 2017, 2018 and 2019. For the purposes of the mid-term review, the assessment of the workload shall be based on the most recent average figures covering the years 2021, 2022 and 2023. The assessment of the workload shall be based on the following factors:
+
+(a) at external land borders and external sea borders:
+
+(i) 70 % for the number of crossings of the external borders at border crossing points;
+
+(ii) 30 % for the number of third-country nationals refused entry at the external borders;
+
+(b) at airports:
+
+(i) 70 % for the number of crossings of the external borders at border crossing points;
+
+(ii) 30 % for the number of third-country nationals refused entry at the external borders;
+
+(c) at consular offices:
+
+(i) the number of visa applications for short stays or airport transits.
+
+7\. The reference figures for the number of consular offices as referred to in point (a) of paragraph 4 shall be calculated on the basis of the information notified to the Commission in accordance with Article 40(4) of Regulation (EC) No 810/2009 of the European Parliament and of the Council ( 5 ).
+
+Where Member States have not provided the statistics concerned, the most recent available data for those Member States shall be used. Where there is no data available for a Member State, the reference figure shall be zero.
+
+8\. The reference figures for the workload referred to:
+
+(a) in points (a)(i) and (b)(i) of paragraph 6 shall be the most recent statistics provided by Member States in accordance with Union law;
+
+(b) in points (a)(ii) and (b)(ii) of paragraph 6 shall be the most recent statistics produced by the Commission (Eurostat) on the basis of data provided by Member States in accordance with Union law;
+
+(c) in point (c) of paragraph 6 shall be the most recent visa statistics as referred to in Article 46 of Regulation (EC) No 810/2009.
+
+Where Member States have not provided the statistics concerned, the most recent available data for those Member States shall be used. Where there is no data available for a Member State, the reference figure shall be zero.
+
+9\. The European Border and Coast Guard Agency shall provide the Commission with a report on resources, broken down by external land borders, external sea borders and airports, as referred to in point (c) of paragraph 1. Parts of that report may be classified, where appropriate, in accordance with Article 92 of Regulation (EU) 2019/1896. After consultation of the Commission, the European Border and Coast Guard Agency shall make a non-classified version of the report publicly available.
+
+10\. For the purposes of the initial allocation, the report referred to in paragraph 9 of this Annex shall identify the average impact level for each border section based on the most recent average figures covering the years 2017, 2018 and 2019. For the purposes of the mid-term review, the report referred to in paragraph 9 of this Annex shall identify the average impact level for each border section based on the most recent average figures covering the years 2021, 2022 and 2023. It shall determine the following specific weighting factors per section applying the impact levels determined in accordance with Article 34(1) and (2) of Regulation (EU) 2019/1896:
+
+(a) factor 1 for low impact level;
+
+(b) factor 3 for medium impact level;
+
+(c) factor 5 for high and critical impact level.
+
+## ANNEX II
+
+**Implementation measures**
+
+1\. The Instrument shall contribute to the specific objective set out in point (a) of Article 3(2) by focusing on the following implementation measures:
+
+(a) the improvement of border control in accordance with point (a) of Article 3(1) of Regulation (EU) 2019/1896 by:
+
+(i) reinforcing capacities for carrying out checks and surveillance at the external borders, including measures to facilitate legitimate border crossings and, where appropriate, measures related to:
+
+— the prevention and detection of cross-border crime at the external borders, in particular migrant smuggling, trafficking in human beings, and terrorism,
+
+— the management of continuously high levels of migration at the external borders, including through technical and operational reinforcement and through mechanisms and procedures for the identification of vulnerable persons and unaccompanied minors and for the identification of persons who are in need of, or who wish to apply for, international protection, the provision of information to such persons, and the referral of such persons;
+
+(ii) implementing technical and operational measures within the Schengen area which are related to border control, while safeguarding the free movement of persons within it;
+
+(iii) carrying out analyses of the risks for internal security and analyses of the threats that may affect the functioning or security of the external borders;
+
+(b) the development of the European Border and Coast Guard by providing support to national authorities responsible for border management to pursue measures related to capability development and common capacity building, joint procurement, the establishment of common standards and any other measures streamlining the cooperation and coordination between the Member States and the European Border and Coast Guard Agency;
+
+(c) the enhancement of inter-agency cooperation at national level among the national authorities responsible for border control or for tasks carried out at the border, and enhancing cooperation at Union level between the Member States, or between the Member States, on the one hand, and the relevant Union bodies, offices and agencies or third countries, on the other;
+
+(d) ensuring the uniform application of the Union acquis in relation to external borders, including through the implementation of recommendations from quality control mechanisms such as the Schengen evaluation mechanism in accordance with Regulation (EU) No 1053/2013, vulnerability assessments in accordance with Regulation (EU) 2019/1896 and national quality control mechanisms;
+
+(e) the setting up, operation and maintenance of large-scale IT systems pursuant to Union law in the area of border management, in particular SIS, ETIAS, the EES and Eurodac for border management purposes, including the interoperability of those large-scale IT systems and their communication infrastructure, and actions to enhance data quality and the provision of information;
+
+(f) increasing capacity to render assistance to persons in distress at sea and supporting search and rescue operations in situations which might arise during a border surveillance operation at sea;
+
+(g) support to search and rescue operations in the context of carrying out border surveillance at sea;
+
+(h) support to solidarity actions, in line with the scope of support set out in point 1 of Annex III.
+
+2\. The Instrument shall contribute to the specific objective set out in point (b) of Article 3(2) by focusing on the following implementation measures:
+
+(a) the provision of efficient and client-friendly services to visa applicants while maintaining the security and integrity of visa procedures, and fully respecting the human dignity and the integrity of applicants and visa holders in accordance with Article 7(2) of Regulation (EC) No 767/2008;
+
+(b) support to Member States in issuing visas, including visas with limited territorial validity, as referred to in Article 25 of Regulation (EC) No 810/2009, issued on humanitarian grounds, for reasons of national interest or because of international obligations;
+
+(c) ensuring the uniform application of the Union acquis in relation to visas, including the further development and modernisation of the common policy on visas;
+
+(d) the development of different forms of cooperation between Member States in visa processing;
+
+(e) the setting up, operation and maintenance of large-scale IT systems pursuant to Union law in the area of the common policy on visas, in particular the VIS, including the interoperability of those large-scale IT systems and their communication infrastructure, and actions to enhance data quality and the provision of information.
+
+## ANNEX III
+
+**Scope of support**
+
+1\. Within the specific objective set out in point (a) of Article 3(2), the Instrument shall in particular support the following:
+
+(a) infrastructure, buildings, systems and services required at border crossing points and for border surveillance between border crossing points;
+
+(b) operating equipment, including means of transport and ICT systems, required for effective and secure border control at border crossing points and for border surveillance, in accordance with standards developed by the European Border and Coast Guard Agency, where such standards exist;
+
+(c) training in the field of, or contributing to the development of, European integrated border management, taking into account operational needs and risk analyses, including challenges identified in the recommendations referred to in Article 13(7), and full compliance with fundamental rights;
+
+(d) the joint deployment of immigration liaison officers to third countries in accordance with Regulation (EU) 2019/1240 of the European Parliament and of the Council ( 6 ) and secondments of border guards and other relevant experts to Member States or from a Member State to a third country, reinforcement of cooperation and operational capacity of networks of experts or liaison officers, and the exchange of best practices and boosting the capacity of European networks to assess, promote, support and develop Union policies;
+
+(e) the exchange of best practices and expertise, studies, pilot projects, and other relevant actions aiming to implement or develop European integrated border management, including measures aiming to develop the European Border and Coast Guard, such as common capacity building, joint procurement, establishment of common standards and other measures streamlining the cooperation and coordination between the European Border and Coast Guard Agency and Member States, and measures related to the referral of vulnerable persons in need of assistance and persons who are in need of, or who wish to apply for, international protection;
+
+(f) actions developing innovative methods or deploying new technologies with a potential for transferability to other Member States, in particular deploying the results of security research projects where such deployment has been identified by the European Border and Coast Guard Agency, acting under Article 66 of Regulation (EU) 2019/1896, as contributing to the development of operational capabilities of the European Border and Coast Guard;
+
+(g) preparatory, monitoring, administrative and technical activities required to implement external border policies, including to strengthen the governance of the Schengen area by developing and implementing the evaluation mechanism, established by Regulation (EU) No 1053/2013 to verify the application of the Schengen acquis and Regulation (EU) 2016/399, including mission expenditure for experts of the Commission and the Member States participating in on-site visits and measures to implement recommendations issued following vulnerability assessments carried out by the European Border and Coast Guard Agency in accordance with Regulation (EU) 2019/1896;
+
+(h) actions to enhance the quality of data stored in ICT systems and to improve the exercise of a data subject’s rights to information, access to, and rectification and erasure of, his or her personal data, and to the restriction of the processing thereof;
+
+(i) identification, fingerprinting, registration, security checks, debriefing, provision of information, medical and vulnerability screening and, where necessary, medical care and referral of third country nationals to the appropriate procedure at the external borders;
+
+(j) actions that aim to enhance awareness of external border policies among stakeholders and the general public, including corporate communication of the political priorities of the Union;
+
+(k) the development of statistical tools, methods and indicators that respect the principle of non-discrimination;
+
+(l) operating support for the implementation of European integrated border management.
+
+2\. Within the specific objective set out in point (b) of Article 3(2), the Instrument shall in particular support the following:
+
+(a) infrastructure and buildings required for the processing of visa applications and consular cooperation, including security measures, and other actions that aim to improve the quality of service for visa applicants;
+
+(b) operating equipment and ICT systems required for the processing of visa applications and consular cooperation;
+
+(c) training of consular and other staff contributing to the common visa policy and consular cooperation;
+
+(d) the exchange of best practices and the exchange of experts, including the secondment of experts, as well as boosting the capacity of European networks to assess, promote, support and further develop Union policies and objectives;
+
+(e) studies, pilot projects and other relevant actions, such as actions that aim to improve knowledge through analyses, monitoring and evaluation;
+
+(f) actions developing innovative methods or deploying new technologies with a potential for transferability to other Member States, especially projects that aim to test and validate the outcome of Union-funded research projects;
+
+(g) preparatory, monitoring, administrative and technical activities, including to strengthen the governance of the Schengen area by developing and implementing the evaluation mechanism as established by Regulation (EU) No 1053/2013 to verify the application of the Schengen acquis, including mission expenditure for experts of the Commission and the Member States participating in on-site visits;
+
+(h) activities to raise awareness among stakeholders and the general public regarding visa policies, including corporate communication of the political priorities of the Union;
+
+(i) the development of statistical tools, methods and indicators that respect the principle of non-discrimination;
+
+(j) operating support for the implementation of the common visa policy;
+
+(k) support to Member States in issuing visas, including visas with limited territorial validity, as referred to in Article 25 of Regulation (EC) No 810/2009, issued on humanitarian grounds, for reasons of national interest or because of international obligations.
+
+3\. Within the policy objective set out in Article 3(1), the Instrument shall in particular support the following:
+
+(a) infrastructure and buildings required for the hosting of large-scale IT systems and associated communication infrastructure components;
+
+(b) equipment and communication systems necessary to ensure the proper functioning of large-scale IT systems;
+
+(c) training and communication activities in relation to large-scale IT systems;
+
+(d) the development and upgrading of large-scale IT systems;
+
+(e) studies, proof of concepts, pilot projects and other relevant actions related to the implementation of large-scale IT systems, including their interoperability;
+
+(f) actions developing innovative methods or deploying new technologies with a potential for transferability to other Member States, especially projects that aim to test and validate the outcome of Union-funded research projects;
+
+(g) the development of statistical tools, methods and indicators for large-scale IT systems in the field of visa policy and borders that respect the principle of non-discrimination;
+
+(h) actions to enhance the quality of data stored in ICT systems and improve the exercise of a data subject’s rights to information, access to, rectification and erasure of, his or her personal data, and to the restriction of the processing thereof;
+
+(i) operating support for the implementation of large-scale IT systems.
+
+## ANNEX IV
+
+**Actions eligible for higher co-financing rates in accordance with article 12(3) and article 13(17)**
+
+(1) The purchase of operating equipment, through joint procurement schemes with the European Border and Coast Guard Agency, to be put at the disposal of the European Border and Coast Guard Agency for its operational activities in accordance with Article 64(14) of Regulation (EU) 2019/1896;
+
+(2) Measures supporting inter-agency cooperation between a Member State and a neighbouring third country with which the Union shares a common land or maritime border;
+
+(3) The development of the European Border and Coast Guard Agency by providing support to national authorities responsible for border management to pursue measures related to common capacity building, joint procurement, the establishment of common standards and any other measures streamlining the cooperation and coordination between the Member States and the European Border and Coast Guard Agency, as outlined in point (b) of paragraph 1 of Annex II;
+
+(4) The joint deployment of immigration liaison officers as referred to in Annex III;
+
+(5) Measures within the framework of border control enhancing the identification of, and the immediate support to, victims of trafficking in human beings, as well as developing and supporting adequate referral mechanisms for those target groups and measures in the framework of border control enhancing cross-border cooperation for detecting traffickers;
+
+(6) The development of integrated child protection systems at the external borders, including through the sufficient training of staff and the exchange of good practice among Member States and with the European Border and Coast Guard Agency;
+
+(7) Measures deploying, transferring, testing and validating new methodology or technology, including pilot projects and follow-up measures to Union-funded research projects, as referred to in Annex III, and measures to enhance the quality of data stored in ICT systems in the field of visa policy and borders and to improve the exercise of a data subject’s rights to information, access to, rectification and erasure of, his or her personal data, and to the restriction of the processing thereof, in the context of actions falling within the scope of the Instrument;
+
+(8) Measures targeting the identification and referral to protection services of vulnerable persons and immediate assistance to such persons;
+
+(9) Measures for setting up and running hotspot areas in Member States facing existing or potential exceptional and disproportionate migratory pressure;
+
+(10) The further development of different forms of cooperation among Member States in visa processing, as outlined in point (d) of paragraph 2 of Annex II;
+
+(11) Increasing the consular presence or representation of Member States in third countries whose nationals must be in possession of visas when crossing the external borders within the meaning of Regulation (EU) 2018/1806, in particular in third countries in which no Member State is currently present;
+
+(12) Measures which aim to improve the interoperability of ICT systems.
+
+## ANNEX V
+
+**Core performance indicators as referred to in article 27(1)**
+
+**Specific objective set out in point (a) of Article 3(2)**
+
+1\. The number of items of equipment registered in the technical equipment pool of the European Border Coast Guard Agency.
+
+2\. The number of items of equipment put at the disposal of the European Border Coast Guard Agency.
+
+3\. The number of initiated/improved forms of cooperation of national authorities with the EUROSUR national coordination centres.
+
+4\. The number of border crossings through automated border control systems and e-gates.
+
+5\. The number of addressed recommendations from Schengen evaluations and from vulnerability assessments in the area of border management.
+
+6\. The number of participants who report three months after a training activity that they are using the skills and competences acquired during that training activity.
+
+7\. The number of persons who have applied for international protection at border crossing points.
+
+8\. The number of persons refused entry by border authorities.
+
+**Specific objective set out in point (b) of Article 3(2)**
+
+1\. The number of new/upgraded consulates outside the Schengen area:
+
+1.1. of which the number of consulates upgraded to enhance client-friendliness for visa applicants.
+
+2\. The number of addressed recommendations from Schengen evaluations in the area of the common visa policy.
+
+3\. The number of visa applications using digital means.
+
+4\. The number of initiated/improved forms of cooperation set up among Member States in visa processing.
+
+5\. The number of participants who report three months after a training activity that they are using the skills and competences acquired during that training activity.
+
+## ANNEX VI
+
+**TYPES OF INTERVENTION**
+
+**TABLE 1: CODES FOR THE INTERVENTION FIELD DIMENSION**
+
+I. European integrated border management
+
+001 Border checks
+
+002 Border surveillance – air equipment
+
+003 Border surveillance – land equipment
+
+004 Border surveillance – maritime equipment
+
+005 Border surveillance – automated border surveillance systems
+
+006 Border surveillance – other measures
+
+007 Technical and operational measures within the Schengen area which are related to border control
+
+008 Situational awareness and exchange of information
+
+009 Risk analysis
+
+010 Processing of data and information
+
+011 Hotspot areas
+
+012 Measures related to the identification and referral of vulnerable persons
+
+013 Measures related to the identification and referral of persons who are in need of, or who wish to apply for, international protection
+
+014 European Border and Coast Guard development
+
+015 Inter-agency cooperation – national level
+
+016 Inter-agency cooperation – Union level
+
+017 Inter-agency cooperation – with third countries
+
+018 Joint deployment of immigration liaison officers
+
+019 Large-scale IT systems – Eurodac for border management purposes
+
+020 Large-scale IT systems – Entry/Exit System (EES)
+
+021 Large-scale IT systems – European Travel Information and Authorisation System (ETIAS) – others
+
+022 Large-scale IT systems – European Travel Information and Authorisation System (ETIAS) – Article 85(2) of Regulation (EU) 2018/1240
+
+023 Large-scale IT systems – European Travel Information and Authorisation System (ETIAS) – Article 85(3) of Regulation (EU) 2018/1240
+
+024 Large-scale IT systems – Schengen Information System (SIS)
+
+025 Large-scale IT systems – Interoperability
+
+026 Operating support – Integrated border management
+
+027 Operating support – Large-scale IT systems for border management purposes
+
+028 Operating support – Special Transit Scheme
+
+029 Data quality and data subjects’ rights to information, access to, rectification and erasure of, their personal data, and to the restriction of the processing thereof
+
+030 Solidarity actions
+
+II. Common visa policy
+
+001 Improving visa application processing
+
+002 Enhancing the efficiency, client-friendly environment and security at consulates
+
+003 Document security/document advisers
+
+004 Consular cooperation
+
+005 Consular coverage
+
+006 Large-scale IT systems – Visa Information System (VIS)
+
+007 Other ICT systems for visa application processing purposes
+
+008 Operating support – Common visa policy
+
+009 Operating support – Large-scale IT systems for visa application processing purposes
+
+010 Operating support – Special Transit Scheme
+
+011 Issuance of visas with limited territorial validity
+
+012 Data quality and data subjects’ rights to information, access to, rectification and erasure of, their personal data, and to the restriction of the processing thereof
+
+III. Technical assistance
+
+001 Information and communication
+
+002 Preparation, implementation, monitoring and control
+
+003 Evaluation and studies, data collection
+
+004 Capacity building
+
+**TABLE 2: CODES FOR THE TYPE OF ACTION DIMENSION**
+
+001 Infrastructure and buildings
+
+002 Means of transport
+
+003 Other operating equipment
+
+004 Communication systems
+
+005 IT systems
+
+006 Training
+
+007 Exchange of best practices – between Member States
+
+008 Exchange of best practices – with third countries
+
+009 Deployment of experts
+
+010 Studies, proofs of concept, pilot projects and similar actions
+
+011 Communication activities
+
+012 Development of statistical tools, methods and indicators
+
+013 Deployment or other follow-up of research projects
+
+**TABLE 3: CODES FOR THE IMPLEMENTATION DIMENSION**
+
+001 Actions covered by Article 12(1)
+
+002 Specific actions
+
+003 Actions listed in Annex IV
+
+004 Operating support
+
+005 Special Transit Scheme referred to in Article 17
+
+006 Actions covered by Article 85(2) of Regulation (EU) 2018/1240
+
+007 Actions covered by Article 85(3) of Regulation (EU) 2018/1240
+
+008 Emergency assistance
+
+009 Solidarity actions
+
+**TABLE 4: CODES FOR THEPARTICULAR THEMES DIMENSION**
+
+001 Cooperation with third countries
+
+002 Actions in or in relation to third countries
+
+003 Implementation of Schengen evaluation recommendations
+
+004 Implementation of vulnerability assessment recommendations
+
+005 Actions supporting the development and operation of EUROSUR
+
+006 None of the above
+
+## ANNEX VII
+
+**Expenditure eligible for operating support**
+
+(a) Within the specific objective set out in point (a) of Article 3(2), operating support shall cover the following costs to the extent that they are not covered by the European Border and Coast Guard Agency in the context of its operational activities:
+
+(1) staff costs, including for training;
+
+(2) maintenance or repair of equipment and infrastructure;
+
+(3) service costs within the scope of this Regulation;
+
+(4) running costs for operations;
+
+(5) costs related to real estate, including rental and depreciation.
+
+A host Member State within the meaning of point (20) of Article 2 of Regulation (EU) 2019/1896 may use operating support for the purposes of covering its own running costs for its participation in the operational activities referred to in that point that fall within the scope of this Regulation or for the purposes of its national border control activities.
+
+(b) Within the specific objective set out in point (b) of Article 3(2), operating support shall cover:
+
+(1) staff costs, including for training;
+
+(2) service costs;
+
+(3) maintenance or repair of equipment and infrastructure;
+
+(4) costs related to real estate, including rental and depreciation.
+
+(c) Within the policy objective set out in Article 3(1), operating support for large-scale IT systems shall cover:
+
+(1) staff costs, including for training;
+
+(2) operational management and maintenance of large-scale IT systems and their communication infrastructures, including the interoperability of those systems and rental of secure premises.
+
+(d) In addition to covering the costs listed in points (a), (b) and (c) of this Annex, operating support within Lithuania’s programme shall provide support in accordance with Article 17(1).
+
+## ANNEX VIII
+
+**Output and result indicators as referred to in article 27(3)**
+
+**Specific objective set out in point (a) of Article 3(2)**
+
+**Output indicators**
+
+1\. The number of items of equipment purchased for border crossing points:
+
+1.1. of which the number of automated border control systems/self-service systems/e-gates purchased.
+
+2\. The number of items of infrastructure maintained/repaired.
+
+3\. The number of hotspot areas supported.
+
+4\. The number of facilities for border crossing points constructed/upgraded.
+
+5\. The number of aerial vehicles purchased:
+
+5.1. of which the number of unmanned aerial vehicles purchased.
+
+6\. The number of maritime transport means purchased.
+
+7\. The number of land transport means purchased.
+
+8\. The number of participants supported:
+
+8.1. of which the number of participants in training activities.
+
+9\. The number of immigration liaison officers deployed to third countries.
+
+10\. The number of IT functionalities developed/maintained/upgraded.
+
+11\. The number of large-scale IT systems developed/maintained/upgraded:
+
+11.1. of which the number of large-scale IT systems developed.
+
+12\. The number of cooperation projects with third countries.
+
+13\. The number of persons who have applied for international protection at border crossing points.
+
+**Result indicators**
+
+14\. The number of items of equipment registered in the technical equipment pool of the European Border and Coast Guard Agency.
+
+15\. The number of items of equipment put at the disposal of the European Border and Coast Guard Agency.
+
+16\. The number of initiated/improved forms of cooperation of national authorities with the EUROSUR national coordination centres.
+
+17\. The number of border crossings through automated border control systems and e-gates.
+
+18\. The number of addressed recommendations from Schengen evaluations and from vulnerability assessments in the area of border management.
+
+19\. The number of participants who report three months after a training activity that they are using the skills and competences acquired during that training activity.
+
+20\. The number of persons refused entry by border authorities.
+
+**Specific objective set out in point (b) of Article 3(2)**
+
+**Output indicators**
+
+1\. The number of projects supporting the digitalisation of visa processing.
+
+2\. The number of participants supported:
+
+2.1. of which the number of participants in training activities.
+
+3\. The number of staff deployed to consulates in third countries:
+
+3.1. of which the number of staff deployed for visa processing.
+
+4\. The number of IT functionalities developed/maintained/upgraded.
+
+5\. The number of large-scale IT systems developed/maintained/upgraded:
+
+5.1. of which the number of large-scale IT systems developed.
+
+6\. The number of items of infrastructure maintained/repaired.
+
+7\. The number of real estates rented/depreciated.
+
+**Result indicators**
+
+8\. The number of new/upgraded consulates outside the Schengen area:
+
+8.1. of which the number of consulates upgraded to enhance client-friendliness for visa applicants.
+
+9\. The number of addressed recommendations from Schengen evaluations in the area of the common visa policy.
+
+10\. The number of visa applications using digital means.
+
+11\. The number of initiated/improved forms of cooperation set up among Member States in visa processing.
+
+12\. The number of participants who report three months after a training activity that they are using the skills and competences acquired during that training activity.
+
+( 1 ) Regulation (EU) 2024/1351 of the European Parliament and of the Council of 14 May 2024 on asylum and migration management, amending Regulations (EU) 2021/1147, and (EU) 2021/1060 and repealing Regulation (EU) No 604/2013 (OJ L, 2024/1351, 22.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1351/oj).
+
+( 2 ) Council Regulation (EC) No 168/2007 of 15 February 2007 establishing a European Union Agency for Fundamental Rights (OJ L 53, 22.2.2007, p. 1).
+
+( 3 ) Regulation (EU) 2021/695 of the European Parliament and of the Council of 28 April 2021 establishing Horizon Europe – the Framework Programme for Research and Innovation, laying down its rules for participation and dissemination, and repealing Regulations (EU) No 1290/2013 and (EU) No 1291/2013 (OJ L 170, 12.5.2021, p. 1).
+
+( 4 ) Regulation (EU) 2018/1806 of the European Parliament and of the Council of 14 November 2018 listing the third countries whose nationals must be in possession of visas when crossing the external borders and those whose nationals are exempt from that requirement (OJ L 303, 28.11.2018, p. 39).
+
+( 5 ) Regulation (EC) No 810/2009 of the European Parliament and of the Council of 13 July 2009 establishing a Community Code on Visas (Visa Code) (OJ L 243, 15.9.2009, p. 1).
+
+( 6 ) Regulation (EU) 2019/1240 of the European Parliament and of the Council of 20 June 2019 on the creation of a European network of immigration liaison officers (OJ L 198, 25.7.2019, p. 88).

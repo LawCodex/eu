@@ -1,0 +1,157 @@
+---
+title: "Commission Implementing Regulation (EU) No 307/2012 of 11 April 2012 establishing implementing rules for the application of Article 8 of Regulation (EC) No 1925/2006 of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods"
+identifier: "32012R0307"
+eli: "http://data.europa.eu/eli/reg_impl/2012/307/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2012-04-11
+entry_into_force: 2012-12-21
+last_amended: 2023-04-09
+consolidated_version: "02012R0307-20230409"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0307-20230409"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 307/2012 of 11 April 2012 establishing implementing rules for the application of Article 8 of Regulation (EC) No 1925/2006 of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 307/2012**
+
+**of 11 April 2012**
+
+**establishing implementing rules for the application of Article 8 of Regulation (EC) No 1925/2006 of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/842 of 26 May 2021 </td><td> L 186</td><td>16</td><td>27.5.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/612 of 17 March 2023 </td><td> L 80</td><td>89</td><td>20.3.2023</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 307/2012**
+
+**of 11 April 2012**
+
+**establishing implementing rules for the application of Article 8 of Regulation (EC) No 1925/2006 of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods**
+
+## Article 1 — Subject matter
+
+This Regulation establishes implementing rules for the application of Article 8 of Regulation (EC) No 1925/2006 and in particular:
+
+(a) the conditions for the use of the procedure referred to in paragraphs 1 and 2 of Article 8 of Regulation (EC) No 1925/2006; and
+
+(b) the procedure referred to in paragraphs 4 and 5 of Article 8 of Regulation (EC) No 1925/2006 concerning substances listed in Annex III, Part C thereto.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation the following definitions shall apply:
+
+(a) ‘request’ means the submission to the Commission by a Member State of information, including scientific data, for the purpose of initiating the procedure under paragraph 2 of Article 8 of Regulation (EC) No 1925/2006;
+
+(b) ‘file’ means a file as referred to in paragraphs 4 and 5 of Article 8 of Regulation (EC) No 1925/2006 that is submitted by a food business operator or interested party to the Authority;
+
+(c) ‘placing on the market’ as defined by Article 3(8) of Regulation (EC) No 178/2002.
+
+## Article 3 — Conditions to be met for the request
+
+1\. In the assessment of the conditions under which the concerned substance is added to foods or used in the manufacture of foods, as laid down in paragraph 1 of Article 8 of Regulation (EC) No 1925/2006, the placing on the market in one or more Member States of the food product to which the substance has been added shall be taken into account.
+
+2\. Member States may submit a request to the Commission when the assessment referred to in paragraph 1 shows at least one of the following:
+
+(a) a potential risk to consumers is associated with the ingestion of amounts of the substance that greatly exceed those reasonably expected under normal conditions of consumption of a balanced and varied diet, due to the conditions under which the substance is added to food or used in the manufacture of food;
+
+(b) a potential risk to consumers is associated with the consumption of this substance by the general adult population or other specified population group for which a potential risk has been identified.
+
+3\. For the purposes of this Regulation those conditions that would result in the ingestion of amounts of a substance greatly exceeding those reasonably expected to be ingested under normal conditions of consumption of a balanced and varied diet shall occur under actual circumstances and shall be assessed on a case-by-case basis in comparison with the average intake of the concerned substance by the general adult population or other specified population group for which health concerns have been raised.
+
+4\. The conditions and requirements laid down in paragraphs 1, 2 and 3 of this Article and the requirements laid down in Article 4 of this Regulation, shall apply mutatis mutandis where the procedure under Article 8 of Regulation (EC) No 1925/2006 is initiated by the Commission.
+
+## Article 4 — Content of the request
+
+1\. The request shall contain the available and relevant generally accepted scientific evidence demonstrating that the conditions specified in Article 8(1) of Regulation (EC) No 1925/2006 are met and shall include:
+
+(a) Evidence demonstrating the addition of the substance to food or use of the substance in the manufacture of food.
+
+Such evidence shall include information on the current placing on the market of food products containing the substance as referred to in paragraph 1 of Article 3 of this Regulation.
+
+(b) In cases referred to in Article 3(2)(a), evidence demonstrating that intake of the substance greatly exceeds normal conditions of consumption of a balanced and varied diet, as assessed in accordance with Article 3(3).
+
+Such evidence shall include scientific data that represents actual dietary intake of the substance obtained from the most recently available dietary intake surveys or food consumption surveys. The inclusion of foods to which the substance has been added and/or food supplements containing the substance may be taken into account. Member States shall provide justification for the basis of their assessment of ‘normal conditions of consumption of a balanced and varied diet’ when making the request.
+
+(c) Evidence demonstrating a potential risk to consumers from consumption of the substance.
+
+This evidence shall consist of relevant scientific data including unpublished validated reports, scientific opinions by a public risk assessment body or independent and peer-reviewed articles. A summary of the scientific data and the list of references of the scientific data shall be provided.
+
+2\. The Commission may ask the Member State to provide clarifications or additional information if the request is incomplete.
+
+3\. The Commission shall publish any complete request made by a Member State on its official website.
+
+4\. The Commission shall send the request to the Authority accompanied by all the available information, following consultation of the Member States. The Authority shall adopt a scientific opinion within a specified time limit as laid down by Article 29(3) of Regulation (EC) No 178/2002.
+
+5\. Interested parties may submit comments to the Commission within 30 days from the publication by the Authority of its opinion.
+
+## Article 5 — Substance listed in Part C of Annex III to Regulation (EC) No 1925/2006
+
+1\. Until the adoption of standard data formats pursuant to Article 39f of Regulation (EC) No 178/2002, the Authority shall only consider valid a file, presented in an electronic format, which allows downloading, printing and searching of documents.
+
+After the adoption of standard data formats, the file shall be presented in accordance with those standard data formats to be considered valid.
+
+Where the Authority considers a file not valid, it shall inform the food business operator or interested party that has submitted the file and the Commission of the reasons why it considers that file not valid.
+
+2\. The Authority shall only take into consideration, for the purposes of the decision referred to in Article 8(5) of Regulation (EC) No 1925/2006, files submitted within 24 months from the entry into force of a decision listing a substance in Part C of Annex III to that Regulation, pursuant to Article 8(2) thereof.
+
+## Article 5a — Pre-submission advice
+
+At the request of a food business operator or any other interested party, the staff of the Authority shall provide advice on the rules applicable to, and the content required for, the submission of a file containing the scientific data aiming to demonstrate the safety of a substance listed in Part C of Annex III to Regulation (EC) No 1925/2006.
+
+Food business operators and other interested parties may request pre-submission advice for a potential submission from the day of the adoption of an opinion by the Authority under Article 8(2) of Regulation (EC) No 1925/2006, which identifies the possibility of harmful effects on health associated with the intake of a substance.
+
+Such pre-submission advice shall be provided in accordance with Article 32a of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.
+
+## Article 5b — Notification of studies
+
+1\. Food business operators and other interested parties shall notify to the Authority, without delay, the title, the scope, and the starting and planned completion dates of any study commissioned or carried out by them to demonstrate the safety of a substance listed in Part C of Annex III to Regulation (EC) No 1925/2006, as well as the laboratory or testing facility located in the Union carrying out that study.
+
+2\. Laboratories and other testing facilities located in the Union shall also, without delay, notify the Authority of the title and the scope of any study commissioned by food business operators and other interested parties, carried out by such laboratories or other testing facilities to demonstrate the safety of a substance listed in Part C of Annex III to Regulation (EC) No 1925/2006, its starting and planned completion dates, as well as the name of the food business operator or interested party who has commissioned that study.
+
+3\. Studies notified in accordance with this article shall be included by the Authority in the database referred to in Article 32b(1) of Regulation (EC) No 178/2002.
+
+## Article 5c — Transparency
+
+Where the Authority is to deliver an opinion on a substance under scrutiny listed in Part C of Annex III to Regulation (EC) No 1925/2006, on the basis of a valid file, it shall:
+
+(a) make public the data submitted in that file in accordance with Article 38(1)(c) of Regulation (EC) No 178/2002, which shall apply mutatis mutandis;
+
+(b) consult stakeholders and the public, pursuant to Article 32c(2) of Regulation (EC) No 178/2002, which shall apply mutatis mutandis, on the basis of the non-confidential version of the data submitted in accordance with this Regulation.
+
+## Article 5d — Confidentiality
+
+Upon the submission of a file, the food business operator or other interested party may request the treatment as confidential of certain parts of the information or data submitted.
+
+Such a confidentiality request shall be accompanied by a verifiable justification that demonstrates that the disclosure of such information or data significantly harms the interests of the requestor, within the meaning of Article 39(2) and (3) of Regulation (EC) No 178/2002, which shall apply mutatis mutandis.
+
+## Article 6 — Opinion of the Authority
+
+1\. The Authority shall assess the validity of each file submitted under Article 5 of this Regulation within 30 days from its receipt.
+
+2\. The Authority shall give its opinion on the files it considers valid under Article 5 of this Regulation within nine months from the end of the 24-month period referred to in Article 5(2) of this Regulation.
+
+3\. Where multiple files on the same substance or group of substances are submitted in accordance with Article 5 of this Regulation, the Authority shall issue a single opinion on those files.
+
+4\. The Authority may request from the food business operator or the interested party to provide additional information to their file within 15 days from the date of receipt of the Authority’s request.
+
+Where the Authority requests additional information, including information with regard to the conditions of use of the substance in a food or in a category of foods and the purpose of that use, it may extend the time limit referred to in paragraph 2.
+
+The time limit may be extended only once by up to three months. That time limit shall include the time set in the first subparagraph for the food business operator or any interested party to provide the requested information.
+
+5\. Where the Authority extends the time limit in accordance with paragraph 4, it shall inform thereof all food business operators or interested parties that have submitted the file with regard to the same substance or group of substances and the Commission.
+
+The Authority shall make the additional information provided in accordance with paragraph 4 available to the Commission and to the Member States.
+
+## Article 7
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.

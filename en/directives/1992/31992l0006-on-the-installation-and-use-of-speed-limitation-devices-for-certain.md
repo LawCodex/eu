@@ -30,9 +30,11 @@ on the installation and use of speed limitation devices for certain categories o
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Directive 2002/85/EC of the European Parliament and of the Council of 5 November 2002</td><td> L 327</td><td>8</td><td>4.12.2002</td></tr>
+</table>
 
 Corrected by:
 

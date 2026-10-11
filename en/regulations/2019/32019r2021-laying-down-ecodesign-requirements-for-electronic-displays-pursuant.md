@@ -1,0 +1,1026 @@
+---
+title: "Commission Regulation (EU) 2019/2021 of 1 October 2019 laying down ecodesign requirements for electronic displays pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EC) No 642/2009 (Text with EEA relevance.)"
+identifier: "32019R2021"
+eli: "http://data.europa.eu/eli/reg/2019/2021/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-10-01
+entry_into_force: 2020-01-09
+last_amended: 2021-05-01
+consolidated_version: "02019R2021-20210501"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2021-20210501"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2019/2021 of 1 October 2019 laying down ecodesign requirements for electronic displays pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EC) No 642/2009 (Text with EEA relevance.)
+
+**COMMISSION REGULATION (EU) 2019/2021**
+
+**of 1 October 2019**
+
+**laying down ecodesign requirements for electronic displays pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EC) No 642/2009**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2021/341 of 23 February 2021 </td><td> L 68</td><td>108</td><td>26.2.2021</td></tr>
+</table>
+
+C1
+
+**COMMISSION REGULATION (EU) 2019/2021**
+
+**of 1 October 2019**
+
+**laying down ecodesign requirements for electronic displays pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EC) No 642/2009**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes ecodesign requirements for the placing on the market and putting into service of electronic displays, including televisions, monitors and digital signage displays.
+
+2\. This Regulation shall not apply to the following:
+
+(a) any electronic display with a screen area smaller than or equal to 100 square centimetres;
+
+(b) projectors;
+
+(c) all-in-one video conference systems;
+
+(d) medical displays;
+
+(e) virtual reality headsets;
+
+(f) displays integrated or to be integrated into products listed into Article 2, point 3(a) and point 4 of Directive 2012/19/EU;
+
+(g) electronic displays that are components or sub-assemblies as defined in point 2 of Article 2 of Directive 2009/125/EC;
+
+(h) industrial displays.
+
+3\. The requirements in points A and B of Annex II shall not apply to the following displays:
+
+(a) broadcast displays;
+
+(b) professional displays;
+
+(c) security displays;
+
+(d) digital interactive whiteboards;
+
+(e) digital photo frames;
+
+(f) digital signage displays.
+
+4\. The requirements in points A, B and C of Annex II shall not apply to the following displays:
+
+(a) status displays;
+
+(b) control panels.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation the following definitions shall apply:
+
+(1) ‘electronic display’ means a display screen and associated electronics that, as its primary function, displays visual information from wired or wireless sources;
+
+(2) ‘television’ means an electronic display designed primarily for the display and reception of audiovisual signals and which consists of an electronic display and one or more tuners/receivers;
+
+(3) ‘tuner/receiver’ means an electronic circuit that detects television broadcast signal, such as terrestrial digital or satellite, but not internet unicast, and facilitates the selection of a TV channel from a group of broadcast channels;
+
+(4) ‘monitor’or‘computer monitor’ or ‘computer display’ means an electronic display intended for one person for close viewing such as in a desk-based environment;
+
+(5) ‘digital signage display’ means an electronic display that is designed primarily to be viewed by multiple people in non-desktop based and non domestic environments. Its specifications shall include all of the following features:
+
+(a) unique identifier to enable addressing a specific display screen;
+
+(b) a function disabling unauthorised access to the display settings and displayed image;
+
+(c) network connection (encompassing a hard-wired or wireless interface) for controlling, monitoring or receiving the information to display from remote unicast or multicast but not broadcast sources;
+
+(d) designed to be installed hanging, mounted or fixed to a physical structure for viewing by multiple people and not placed on the market with a ground stand;
+
+(e) does not integrate a tuner to display broadcast signals;
+
+(6) ‘screen area’ means the viewable area of the electronic display calculated by multiplying the maximum viewable image width by the maximum viewable image height along the surface of the panel (both flat or curved);
+
+(7) ‘digital photo frame’ means an electronic display that displays exclusively still visual information;
+
+(8) ‘projector’ means an optical device for processing analogue or digital video image information, in any format, to modulate a light source and project the resulting image onto an external surface;
+
+(9) ‘status display’ means a display used to show simple but changing information such as selected channel, time or power consumption. A simple light indicator is not considered a status display;
+
+(10) ‘control panel’ means an electronic display whose main function is to display images associated with product operational status; it may provide user interaction by touch or other means to control the product operation. It may be integrated into products or specifically designed and marketed to be used exclusively with the product;
+
+(11) ‘all-in-one video conference system’ means a dedicated system designed for video conferencing and collaboration, integrated within a single enclosure, whose specification shall include all of the following features:
+
+(a) support for specific videoconference protocol ITU-T H.323 or IETF SIP as delivered by the manufacturer;
+
+(b) camera(s), display and processing capabilities for two-way real-time video including packet loss resilience;
+
+(c) loudspeaker and audio processing capabilities for two-way real-time hands-free audio including echo cancellation;
+
+(d) an encryption function;
+
+(e) HiNA;
+
+(12) ‘HiNA’ means High Network Availability as defined in Article 2 of Regulation (EC) No 1275/2008;
+
+(13) ‘broadcast display’ means an electronic display designed and marketed for professional use by broadcasters and video production houses for video content creation. Its specifications shall include all of the following characteristics:
+
+(a) colour calibration function;
+
+(b) input signal analysis function for input signal monitoring and error detection, such as wave-form monitor/vector scope, RGB cut off, facility to check the video signal status at actual pixel resolution, interlace mode and screen marker;
+
+(c) Serial Digital Interface (SDI) or Video over internet Protocol (VoIP) integrated with the product;
+
+(d) not intended for use in public areas;
+
+(14) ‘digital interactive whiteboard’ means an electronic display which allows direct user interaction with the displayed image. The digital interactive whiteboard is designed primarily to provide presentations, lessons or remote collaboration, including the transmission of audio and video signals. Its specification shall include all of the following features:
+
+(a) primarily designed to be installed hanging, mounted on a ground stand, set on a shelf or desk or fixed to a physical structure for viewing by multiple people;
+
+(b) to be necessarily used with computer software with specific functionalities to manage content and interaction;
+
+(c) integrated or designed to be specifically used with a computer for running the software in point (b);
+
+(d) a display screen area greater than 40 dm2;
+
+(e) user interaction by finger or pen touch or other means such as hand, arm gesture or voice;
+
+(15) ‘professional display’ means an electronic display designed and marketed for professional use for editing video and graphic images. Its specification shall include all of the following features:
+
+— contrast ratio of at least 1000:1 measured at a perpendicular to the vertical plane of the screen and at least 60:1 measured at a horizontal viewing angle of at least 85° relative to that perpendicular and at least 83° from the perpendicular on a curved screen, with or without a screen cover glass;
+
+— native resolution of at least 2,3 mega pixels;
+
+— colour Gamut support greater or equal to 38,4 % of CIE LUV;
+
+— colour and luminance uniformity as specified for grade 1, 2 or 3 monitors in EBU Tech. 3320, as applicable to the professional application of the display;
+
+(16) ‘security display’ means an electronic display whose specification shall include all of the following features:
+
+(a) self-monitoring function capable of communicating at least one of the following information to a remote server:
+
+— power status;
+
+— internal temperature from anti-overload thermal sensing;
+
+— video source;
+
+— audio source and audio status (volume/mute);
+
+— model and firmware version;
+
+(b) user-specified specialist form factor facilitating the installation of the display into professional housings or consoles;
+
+(17) ‘integrated’, referring to a display which is part of another product as a functional component, means an electronic display that is not able to be operated independently from the product and that depends on it for providing its functions, including power;
+
+(18) ‘medical display’ means an electronic display covered by the scope of:
+
+(a) Council Directive 93/42/EEC ( 1 ) concerning medical devices; or
+
+(b) Regulation (EU) 2017/745 of the European Parliament and of the Council ( 2 ) on medical devices; or
+
+(c) Council Directive 90/385/EEC ( 3 ) on the approximation of the laws of the Member States relating to active implantable medical devices; or
+
+(d) Directive 98/79/EC of the European Parliament and of the Council ( 4 ) on in vitro diagnostic medical devices; or
+
+(e) Regulation (EU) 2017/746 of the European Parliament and of the Council ( 5 ) on in vitro diagnostic medical devices;
+
+(19) ‘grade-1 monitor’ means a monitor for high-level technical quality evaluation of images at key points in a production or broadcast workflow, such as image capture, post-production, transmission and storage;
+
+(20) ‘Virtual reality headset’ means a head-weareable device that provides immersive virtual reality for the wearer by displaying stereoscopic images for each eye with head motion tracking functions;
+
+(21) ‘industrial display’ means an electronic display exclusively designed, tested and marketed for use in industrial environments for measuring, testing, monitoring or control. Its design must provide at least all the following:
+
+(a) operating temperatures between 0 °C and +50 °C;
+
+(b) operating humidity conditions between 20 % and 90 % non-condensing;
+
+(c) minimum level of ingress protection (IP 65) ensuring no ingress of dust and complete protection against contact (dust-tight) with no effect for water projected by a nozzle (6,3 mm) against the enclosure;
+
+(d) EMC immunity suitable for industrial environments.
+
+For the purposes of the Annexes, additional definitions are set out in Annex I.
+
+## Article 3 — Ecodesign requirements
+
+The ecodesign requirements set out in Annex II shall apply from the dates indicated therein.
+
+## Article 4 — Conformity assessment
+
+1\. The conformity assessment procedure referred to in Article 8 of Directive 2009/125/EC shall be the internal design control system set out in Annex IV to that Directive or the management system set out in Annex V to that Directive.
+
+2\. For the purposes of conformity assessment pursuant to Article 8 of Directive 2009/125/EC, the technical documentation shall contain the reason why certain, if any, plastic parts are not marked as per the exemption set out in point D(2) of Annex II, and the details and results of the calculations set out in Annexes II and III to this Regulation.
+
+3\. Where the information included in the technical documentation for a particular model has been obtained:
+
+(a) from a model that has the same technical characteristics relevant for the technical information to be provided but is produced by a different manufacturer, or
+
+(b) by calculation on the basis of design or extrapolation from another model of the same or a different manufacturer, or both,
+
+the technical documentation shall include the details of such calculation, the assessment undertaken by the manufacturer to verify the accuracy of the calculation and, where appropriate, the declaration of identity between the models of different manufacturers.
+
+The technical documentation shall include a list of all equivalent models, including the model identifiers.
+
+4\. The technical documentation shall include the information in the order and as set out in Annex VI of Regulation (EU) 2019/2013. For market surveillance purposes, manufacturers, importers or authorised representatives may, without prejudice to Annex IV, point 2(g) of Directive 2009/125/EC, refer to the technical documentation uploaded to the product database which contains the same information laid down in Regulation (EU) 2019/2013.
+
+## Article 5 — Verification procedure for market surveillance purposes
+
+Member State authorities shall apply the verification procedure set out in Annex IV to this Regulation when performing the market surveillance checks referred to in Article 3 point 2 of Directive 2009/125/EC.
+
+## Article 6 — Circumvention and software updates
+
+The manufacturer or importer or authorised representative shall not place on the market products designed to be able to detect they are being tested (e.g. by recognising the test conditions or test cycle) and to react specifically by automatically altering their performance during the test with the aim of reaching a more favourable level, for any of the parameters declared by the manufacturer, importer or authorised representative, in the technical documentation or included in any of the documentation provided.
+
+The energy consumption of the product and any of the other declared parameters shall not deteriorate after a software or firmware update when measured with the same test standard originally used for the declaration of conformity, except with explicit consent of the end-user prior to the update. No performance change shall occur as a result of rejecting the update.
+
+A software update shall never have the effect of changing the product's performance in a way that makes it non-compliant with the ecodesign requirements applicable for the declaration of conformity.
+
+## Article 7 — Indicative benchmarks
+
+The indicative benchmarks for the best-performing products and technologies available on the market at the time of adopting this Regulation are set out in Annex V.
+
+## Article 8 — Review
+
+The Commission shall review this Regulation in the light of technological progress and shall present the results of the assessment, including, if appropriate, a draft revision proposal, to the Consultation Forum no later than 25 December 2022.
+
+This review shall in particular assess:
+
+(a) the need to update the definitions or the scope of the Regulation;
+
+(b) the appropriateness of the balance of stringency between larger and smaller products;
+
+(c) the need to adapt regulatory requirements as result of new technologies available, such as HDR, 3D mode, high frame rate, resolution levels above UHD-8K;
+
+(d) the appropriateness of the allowances;
+
+(e) the appropriateness of setting on-mode energy efficiency requirements for digital signage displays or other displays not covered in this respect;
+
+(f) the appropriateness of setting different or additional requirements to enhance durability, to facilitate repair and reuse, including the time frame for making available spare parts, and for including a standardised external power supply;
+
+(g) the appropriateness of setting different or additional requirements to improve dismantling at end of life and recyclability, including in relation to critical raw materials and in relation to the conveying of information to recyclers;
+
+(h) resource efficiency requirements for displays integrated into products covered by Directive 2009/125/EC and into any other product belonging to the scope of Directive 2012/19/EU.
+
+## Article 9 — Amendment to Regulation (EC) No 1275/2008
+
+Annex I to Regulation (EC) No 1275/2008 is amended as follows:
+
+(a) point 2 is replaced by the following:
+
+‘2. Information technology equipment intended primarily for use in the domestic environment, but excluding desktop computers, integrated desktop computers and notebook computers as defined in Commission Regulation (EU) No 617/2013, as well as electronic displays covered by Regulation (EU) 2019/2021 ( *1 ).
+
+(b) in point 3, the last entry is replaced by the following:
+
+‘and other equipment for the purpose of recording or reproducing sound or images, including signals or other technologies for the distribution of sound and image other than by telecommunications, but excluding electronic displays covered by Regulation (EU) 2019/2021’.
+
+## Article 10 — Repeal
+
+Regulation (EC) No 642/2009 is repealed with effect from 1 March 2021.
+
+## Article 11 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 March 2021. However, Article 6, first paragraph shall apply from 25 December 2019.
+
+## Article 12 — Transitional compliance equivalence
+
+If no unit belonging to the same model or equivalent models was placed on the market before 1 November 2020, the units of models placed on the market between 1 November 2020 and 28 February 2021 which comply with the provisions of this regulation shall be considered compliant with the requirements of Regulation (EC) No 642/2009.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Definitions applicable for the Annexes
+
+The following definitions shall apply:
+
+(1) ‘on mode’ or ‘active mode’ means a condition in which the electronic display is connected to a power source, has been activated and is providing one or more of its display functions;
+
+(2) ‘off mode’ means a condition in which the electronic display is connected to the mains power source and is not providing any function; the following shall also be considered as off mode:
+
+(1) conditions providing only an indication of off mode condition;
+
+(2) conditions providing only functionalities intended to ensure electromagnetic compatibility pursuant to Directive 2014/30/EU of the European Parliament and of the Council ( 6 );
+
+(3) ‘standby mode’ means a condition where the electronic display is connected to a power source, depends on energy input from that source to work as intended and provides only the following functions, which may persist for an indefinite time:
+
+— reactivation function, or reactivation function and only an indication of enabled reactivation function; and/or
+
+— information or status display;
+
+(4) ‘organic light emitting diode (OLED)’ means a technology in which light is produced from a solid state device embodying a pn junction of organic material. A junction emits optical radiation when excited by electric current;
+
+(5) ‘microLED display’ means an electronic display where individual pixels are lit using microscopic LED technology;
+
+(6) ‘normal configuration’ means a display setting which is recommended to the end-user by the manufacturer from the initial set up menu or the factory setting that the electronic display has for the intended product use. It must deliver the optimal quality for the end user in the intended environment and for the intended use. The normal configuration is the condition in which the values for off, standby, networked standby and on mode are measured;
+
+(7) ‘External Power Supply (EPS)’ means a device as defined in Commission Regulation (EU) 2019/1782 ( 7 );
+
+(8) ‘USB’ means Universal Serial Bus;
+
+(9) ‘Automatic Brightness Control (ABC)’ means the automatic mechanism that, when enabled, controls the brightness of an electronic display as a function of the ambient light level illuminating the front of the display;
+
+(10) ‘default’, referring to a specific feature or setting, means the value of a specific feature as set at the factory and available when the customer uses the product for the first time and after performing a ‘reset to factory settings’ action, if allowed by the product;
+
+(11) ‘luminance’ means the photometric measure of the luminous intensity per unit area of light traveling in a given direction, expressed in units of candelas per square meter (cd/m2). The term brightness is often used to ‘subjectively’ qualify the luminance of a display;
+
+(12) ‘close viewing’ means a viewing distance comparable to that obtained when viewing an electronic display held in the hand or when sitting at the desk;
+
+(13) ‘forced menu’ means a specific menu, appearing upon initial start-up of the display or upon a reset to factory settings, offering a set of alternative display settings, pre-defined by the manufacturer;
+
+(14) ‘network’ means a communication infrastructure with a topology of links and an architecture that includes the physical components, organisational principles and communication procedures and formats (protocols);
+
+(15) ‘network interface’ or ‘network port’ means a wired or wireless physical interface, providing network connection, through which functions of the electronic display can be remotely activated and data received or sent. Interfaces to input data such as video and audio signals, but not originated from a network source and not using a network address, are not considered to be a network interface;
+
+(16) ‘network availability’ means the capability of an electronic display to activate functions after a remotely initiated trigger has been detected by a network interface;
+
+(17) ‘networked display’ means an electronic display that can connect to a network using one of its network interfaces, if enabled;
+
+(18) ‘networked standby mode’ means a condition in which the electronic display is able to resume a function by way of a remotely initiated trigger from a network interface;
+
+(19) ‘reactivation function’ means a function that via a remote switch, a remote control unit, an internal sensor, a timer or, for networked displays in networked standby mode, the network, provides a switch from standby mode or networked standby mode to a mode, other than off-mode, providing additional functions;
+
+(20) ‘room presence sensor’ or ‘gesture detection sensor’ or ‘occupancy sensor’ means a sensor monitoring and reacting to the movements in the space around the product whose signal can trigger the switching to on mode. Lack of movement detection for a predetermined time can be used to switch into standby mode or networked standby mode;
+
+(21) ‘pixel (picture element)’ means the area of the smallest element of a picture that can be distinguished from its neighbouring elements;
+
+(22) ‘touch functionality’ means the possibility of inputting commands using, as input device, a touch-sensitive device, that generally is in the form of a transparent film layered on top of an electronic display panel;
+
+(23) ‘brightest on mode configuration’ means the configuration of the electronic display, set by the manufacturer, which provides an acceptable picture with the highest measured peak white luminance;
+
+(24) ‘shop configuration’ means the configuration for use specifically in the context of demonstrating the electronic display, for example in high illumination (retail) conditions and not involving an auto power-off if no user action or presence is detected. This configuration may be not accessible through a displayed menu;
+
+(25) ‘dismantling’ means possibly irreversible taking apart of an assembled product into its constituent materials and/or components;
+
+(26) ‘disassembling’ means reversible taking apart of an assembled product into its constituent materials and/or components without functional damage that would preclude reassembling, reuse or refurbishment of the product;
+
+(27) ‘step’ referring to dismantling or disassembling, means an operation that finishes with a change of tool or with the removal of a component or part;
+
+(28) ‘Printed Circuit Board’(PCB) means an assembly that mechanically supports and electrically connects electronic or electrical components using conductive tracks, pads and other features etched from one or more sheet layers of conductive metal laminated onto or between sheet layers of a non-conductive substrate;
+
+(29) ‘PMMA’ means PolyMethylMethAcrylate;
+
+(30) ‘flame retardant’ or ‘fire retardant’ means a substance that markedly retards the propagation of a flame;
+
+(31) ‘halogenated flame retardant’ means a flame retardant that contains any halogen;
+
+(32) ‘homogeneous material’ means one material of uniform composition throughout or a material consisting of a combination of materials, that cannot be disjointed or separated into different materials by mechanical actions such as unscrewing, cutting, crushing, grinding and abrasive processes;
+
+(33) ‘product database’ means a collection of data concerning products which is arranged in a systematic manner and consists of a consumer-oriented public part, where information concerning individual product parameters is accessible by electronic means, of an online portal for accessibility and of a compliance part, with clearly specified accessibility and security requirements, as laid down in Regulation (EU) 2017/1369;
+
+(34) ‘equivalent model’ means a model which has the same technical characteristics relevant for the technical information to be provided, but which is placed on the market or put into service by the same manufacturer, importer or authorised representative as another model with a different model identifier;
+
+(35) ‘model identifier’ means the code, usually alphanumeric, which distinguishes a specific product model from other models with the same trade mark of the same manufacturer’s, importer’s or authorised representative’s name;
+
+(36) ‘spare part’ means a separate part that can replace a part with the same function in a product;
+
+(37) ‘professional repairer’ means an operator or undertaking which provides services of repair and professional maintenance of electronic displays;
+
+(38) ‘declared values’ means the values provided by the manufacturer, importer or authorised representative for the stated, calculated or measured technical parameters in accordance with Article 4, for the verification of compliance by the Member State authorities;
+
+(39) ‘HD resolution’ means 1920 x 1080 pixels or 2 073 600 pixels;
+
+(40) ‘UHD resolution’ means 3840 x 2160 pixels or 8 294 400 pixels.
+
+## ANNEX II — Ecodesign requirements
+
+**A. ENERGY EFFICIENCY REQUIREMENTS**
+
+**1\. ENERGY EFFICIENCY INDEX LIMITS FOR ON-MODE**
+
+The energy efficiency index (EEI) of an electronic display shall be calculated using the following equation:
+
+[image]
+
+Where:
+
+A represents the screen area in dm2;
+
+Pmeasured is the measured power in Watts in on mode in the normal configuration, in standard dynamic range (SDR);
+
+corr is a correction factor of 10 for OLED electronic displays that do not apply the ABC allowance in point B (1). This shall apply until 28 February 2023. corr shall be zero in all other cases.
+
+The EEI of an electronic display shall not exceed the maximum EEI (EEImax ) according to the limits in Table 1 from the dates indicated.
+
+The declared values of the on mode power (Pmeasured ) and screen area (A) as listed in Table 5 of Annex VI of delegated Regulation 2019/2013 shall be used for the calculation of EEI.
+
+**Table 1**
+
+**EEI limits for on-mode**
+
+|  | EEImax for electronic displays with resolution up to HD | EEImax for electronic displays with resolution above HD and up to UHD | EEImax for electronic displays with resolution above UHD and for MicroLED displays |
+| --- | --- | --- | --- |
+| 1 March 2021 | 0,90 | 1,10 | n.a. |
+| 1 March 2023 | 0,75 | 0,90 | 0,90 |
+
+**B. ALLOWANCES AND ADJUSTMENTS FOR THE PURPOSE OF THE EEI CALCULATION AND FUNCTIONAL REQUIREMENTS**
+
+From 1 March 2021, electronic displays shall meet the requirements listed below.
+
+**1\. Electronic displays with automatic brightness control (ABC)**
+
+Electronic displays qualify for a 10 % reduction in Pmeasured , if they meet all of the following requirements:
+
+(a) ABC is enabled in the normal configuration of the electronic display and persists in any other standard dynamic range configuration available to the end-user;
+
+(b) the value of Pmeasured , in the normal configuration, is measured with ABC disabled or, if ABC cannot be disabled, in an ambient light condition of 100 lux measured at the ABC sensor;
+
+(c) the value of Pmeasured with ABC disabled, if applicable, shall be equal to or greater than the on mode power measured with ABC enabled in an ambient light condition of 100 lux measured at the ABC sensor;
+
+(d) with ABC enabled, the measured value of the on mode power must decrease by 20 % or more when the ambient light condition, measured at the ABC sensor, is reduced from 100 lux to 12 lux; and
+
+(e) the ABC control of the display screen luminance meets all of the following characteristics when the ambient light condition measured at the ABC sensor changes:
+
+— the measured screen luminance at 60 lux is between 65 % and 95 % of the screen luminance measured at 100 lux;
+
+— the measured screen luminance at 35 lux is between 50 % and 80 % of the screen luminance measured at 100 lux; and
+
+— the measured screen luminance at 12 lux is between 35 % and 70 % of the screen luminance measured at 100 lux.
+
+**2\. Forced menu and set up menus**
+
+Electronic displays may be placed on the market with a forced menu on initial activation proposing alternative settings. Where a forced menu is provided, the normal configuration shall be set as default choice, otherwise the normal configuration shall be the out-of-the-box setting.
+
+If the user selects a configuration other than the normal configuration and this configuration results in a higher power demand than the normal configuration, a warning message about the likely increase in energy use shall appear and confirmation of the action shall be explicitly requested.
+
+If the user selects a setting other than those that are part of the normal configuration and this setting results in a higher energy consumption than the normal configuration, a warning message about the likely increase in energy consumption shall appear and confirmation of the action explicitly requested.
+
+A change by the user in a single parameter in any setting shall not trigger any change in any other energy-relevant parameter, unless unavoidable. In such a case a warning message shall appear about the change of other parameters and the confirmation of the change shall be explicitly requested.
+
+**3\. Peak white luminance ratio**
+
+In the normal configuration, the peak white luminance of the electronic display in a 100 lux ambient light viewing environment shall not be less than 220 cd/m2 or, if the electronic display is primarily intended for close viewing by a single user, not less than 150 cd/m2.
+
+If the electronic display’s peak white luminance in the normal configuration is set to lower values, it shall not be less than 65 % of the peak white luminance of the display, in a 100 lux ambient light viewing environment in the brightest on mode configuration.
+
+**C. OFF MODE, STANDBY AND NETWORKED STANDBY MODE REQUIREMENTS**
+
+From 1 March 2021, electronic displays shall meet the requirements listed below.
+
+**1\. Power demand limits other than on-mode**
+
+Electronic displays shall not exceed power demand limits in the different modes and conditions listed in Table 2:
+
+**Table 2**
+
+**power demand limits other than on-mode, in Watts**
+
+|  | Off mode | Standby mode | Networked standby mode |
+| --- | --- | --- | --- |
+| Maximum limits | 0,30 | 0,50 | 2,00 |
+| Allowances for additional functions when present and enabled |  |  |  |
+| Status display | 0,0 | 0,20 | 0,20 |
+| Deactivation using room presence detection | 0,0 | 0,50 | 0,50 |
+| Touch functionality, if usable for activation | 0,0 | 1,00 | 1,00 |
+| HiNA function | 0,0 | 0,0 | 4,00 |
+| Total maximum power demand with all additional functions when present and enabled | 0,30 | 2,20 | 7,70 |
+
+**2\. Availability of off, standby and networked standby modes**
+
+Electronic displays shall provide off mode or standby mode or a networked standby mode or other modes which do not exceed the applicable power demand requirements for standby mode.
+
+The configuration menu, instruction manuals and other documentation, if any, shall refer to off mode, standby mode or networked standby mode using those terms.
+
+Automatic switch to off mode and/or standby mode and/or another mode which does not exceed the applicable power demand requirements for standby mode shall be set as default, including for networked displays where the network interface is enabled when in on mode.
+
+Networked standby mode shall be disabled in ‘normal configuration’ of a networked television. The end user shall be prompted to confirm the activation of networked standby, if it is needed for a chosen remotely activated function, and must be able to disable it.
+
+Networked electronic displays shall comply with the requirements for networked standby mode with the reactivation trigger device connected to the network and ready to activate a trigger instruction when required to.
+
+With networked standby mode disabled, networked electronic displays shall comply with the requirements of standby mode.
+
+**3\. Automatic standby in televisions**
+
+(a) Televisions shall provide a power management function, enabled as delivered by the manufacturer that, within 4 hours following the last user interaction, shall switch the television from on mode into standby mode or networked standby mode or another mode which does not exceed the applicable power demand requirements respectively for standby or networked standby mode. Before such automatic switch, televisions shall show, for at least 20 seconds, an alert message warning the user of the impending switch, with possibility of delaying or temporarily cancelling it.
+
+(b) If the television provides a function allowing the user to shorten, extend or disable the 4-hour period for automatic mode transitions detailed in (a), a warning message shall appear about a potential increase in energy use and a confirmation of the new setting must be requested when an extension beyond the 4-hour period or disabling is selected.
+
+(c) If the television is equipped with a room presence sensor, the automatic transition from on mode into any mode as detailed in (a) applies if no presence is detected for no more than 1 hour.
+
+(d) Televisions with various selectable input sources shall prioritise the power management protocols of the signal source selected and displayed over those default power management mechanisms described in the paragraphs (a) to (c) above.
+
+**4\. Automatic standby in displays other than televisions**
+
+Electronic displays other than televisions, with various selectable input sources shall switch, as configured in the normal configuration, into standby mode, networked standby mode or another mode which does not exceed the applicable power demand requirements respectively for standby or networked standby mode when no input is detected by any input source for over 10 seconds and, for digital interactive whiteboards and for broadcast displays, for over 60 minutes.
+
+Before triggering such a switch, a warning message shall be displayed and the switch completed within 10 minutes.
+
+**D. MATERIAL EFFICIENCY REQUIREMENTS**
+
+From 1 March 2021, electronic displays shall meet the requirements indicated below.
+
+**1\. Design for dismantling, recycling and recovery**
+
+(a) Manufacturers, importers or their authorised representatives shall ensure that joining, fastening or sealing techniques do not prevent the removal, using commonly available tools, of the components indicated in point 1 of Annex VII of Directive 2012/19/EU on WEEE or in Article 11 of Directive 2006/66/EC on batteries and accumulators and waste batteries and accumulators, when present.
+
+(b) The derogations indicated in Article 11 of Directive 2006/66/EC about permanent connection between the electronic display and the battery or accumulator apply.
+
+(c) Manufacturers, importers or their authorised representatives shall, without prejudice to point 1 of Article 15 of Directive 2012/19/EU, make available, on a free-access website, the dismantling information needed to access any of the products components referred to in point 1 of Annex VII of Directive 2012/19/EU.
+
+(d) This dismantling information shall include the sequence of dismantling steps, tools or technologies needed to access the targeted components.
+
+(e) This end of life information shall be available until at least 15 years after the placing on the market of the last unit of a product model.
+
+**2\. Marking of plastic components**
+
+Plastic components heavier than 50 g:
+
+(a) Shall be marked by specifying the type of polymer with the appropriate standard symbols or abbreviated terms set between the punctuation marks ‘>’ and ‘&lt;’ as specified in available standards. The marking shall be legible.
+
+Plastic components are exempt from marking requirements in the following circumstances:
+
+(i) the marking is not possible because of the shape or size;
+
+(ii) the marking would impact on the performance or functionality of the plastic component; and
+
+(iii) marking is technically not possible because of the molding method.
+
+For the following plastic components no marking is required:
+
+(i) packaging, tape, labels and stretch wraps;
+
+(ii) wiring, cables and connectors, rubber parts and anywhere not enough appropriate surface area is available for the marking to be of a legible size;
+
+(iii) PCB assemblies, PMMA boards, optical components, electrostatic discharge components, electromagnetic interference components, speakers;
+
+(iv) transparent parts where the marking would obstruct the function of the part in question.
+
+(b) Components containing flame retardants shall additionally be marked with the abbreviated term of the polymer followed by hyphen, then the symbol ‘FR’ followed by the code number of the flame retardant in parentheses. The marking on the enclosure and stand components shall be clearly visible and readable.
+
+**3\. Cadmium logo**
+
+Electronic displays with a screen panel in which concentration values of Cadmium (Cd) by weight in homogeneous materials exceed 0,01 % as defined in Directive 2011/65/EU on the restriction of the use of certain hazardous substances in electrical and electronic equipment, shall be labelled with the ‘Cadmium inside’ logo. The logo shall be clearly visible durable, legible and indelible. The logo shall be in the form of the following graphic:
+
+Cadmium inside Cadmium free
+
+[image] [image]
+
+The dimension of ‘a’ shall be greater than 9 mm and the typeface to be used is ‘Gill Sans’.
+
+An additional ‘Cadmium inside’ logo shall be firmly attached internally on the display panel or molded in a position clearly visible to workers once the external back cover bearing the external logo is removed.
+
+A ‘Cadmium free’ logo shall be used if concentration values of Cadmium (Cd) by weight in any homogeneous material part of the display do not exceed 0,01 % as defined in Directive 2011/65/EU.
+
+**4\. Halogenated flame retardants**
+
+The use of halogenated flame retardants is not allowed in the enclosure and stand of electronic displays.
+
+**5\. Design for repair and reuse**
+
+(a) Availability of spare parts:
+
+(1) manufacturers, importers or authorised representatives of electronic displays shall make available to professional repairers at least the following spare parts: internal power supply, connectors to connect external equipment (cable, antenna, USB, DVD and Blu-Ray), capacitors above 400 microfarads, batteries and accumulators, DVD/Blu-Ray module if applicable and HD/SSD module if applicable for a minimum period of seven years after placing the last unit of the model on the market;
+
+(2) manufacturers, importers or authorised representatives of electronic displays shall make available to professional repairers and end-users at least the following spare parts: external power supply and remote control for a minimum period of seven years after placing the last unit of the model on the market;
+
+(3) manufacturers shall ensure that these spare parts can be replaced with the use of commonly available tools and without permanent damage to the appliance;
+
+(4) the list of spare parts concerned by point 1 and the procedure for ordering them shall be publicly available on the free access website of the manufacturer, importer or authorised representative, at the latest two years after the placing on the market of the first unit of a model and until the end of the period of availability of these spare parts; and
+
+(5) the list of spare parts concerned by point 2 and the procedure for ordering them and the repair instructions shall be publicly available on the manufacturer’s, the importer’s or authorised representative’s free access website, at the moment of the placing on the market of the first unit of a model and until the end of the period of availability of these spare parts.
+
+(b) Access to repair and maintenance information
+
+After a period of two years after the placing on the market of the first unit of a model or of an equivalent model, and until the end of the period mentioned under (a), the manufacturer, importer or authorised representative shall provide access to the appliance repair and maintenance information to professional repairers in the following conditions:
+
+(1) the manufacturer’s, importer’s or authorised representative’s website shall indicate the process for professional repairers to register for access to information; to accept such a request, manufacturers, importers or authorised representative may require the professional repairer to demonstrate that:
+
+(i) the professional repairer has the technical competence to repair electronic displays and complies with the applicable regulations for repairers of electrical equipment in the Member States where it operates. Reference to an official registration system as professional repairer, where such system exists in the Member States concerned, shall be accepted as proof of compliance with this point;
+
+(ii) the professional repairer is covered by insurance covering liabilities resulting from its activity, regardless of whether this is required by the Member State;
+
+(2) the manufacturers, importers or authorised representatives shall accept or refuse the registration within 5 working days from the date of request by the professional repairer;
+
+(3) manufacturers, importers or authorised representatives may charge reasonable and proportionate fees for access to the repair and maintenance information or for receiving regular updates. A fee is reasonable if it does not discourage access by failing to take into account the extent to which the professional repairer uses the information.
+
+Once registered, a professional repairer shall have access to the requested repair and maintenance information within one working day after requesting it. The available repair and maintenance information shall include:
+
+— the unequivocal appliance identification;
+
+— a disassembly map or exploded view;
+
+— list of necessary repair and test equipment;
+
+— component and diagnosis information (such as minimum and maximum theoretical values for measurements);
+
+— wiring and connection diagrams;
+
+— diagnostic fault and error codes (including manufacturer-specific codes, where applicable); and
+
+— data records of reported failure incidents stored on the electronic display (where applicable).
+
+(c) Maximum delivery time of spare parts
+
+(1) during the period mentioned under point 5(a)(1) and point 5(a)(2), the manufacturer, importer or authorised representatives shall ensure the delivery of the spare parts for electronic displays within 15 working days after having received the order;
+
+(2) in the case of spare parts available only to professional repairers, this availability may be limited to professional repairers registered in accordance with point (b).
+
+**E. INFORMATION AVAILABILITY REQUIREMENTS**
+
+From 1 March 2021, the product manufacturer, importer or authorised representative shall make available the information set out below when placing on the market the first unit of a model or of an equivalent model.
+
+The information shall be provided free of charge to third parties dealing with professional repair and reuse of electronic displays (including third party maintenance actors, brokers and spare parts providers).
+
+**1\. Availability of software and firmware updates**
+
+(a) The latest available version of the firmware shall be made available for a minimum period of eight years after the placing on the market of the last unit of a certain product model, free of charge or at a fair, transparent and non-discriminatory cost. The latest available security update to the firmware shall be made available until at least eight years after the placing on the market of the last product of a certain product model, free of charge.
+
+(b) Information on the minimum guaranteed availability of software and firmware updates, availability of spare parts and product support shall be indicated in the product information sheet as from Annex V of Regulation (EU) 2019/2013.
+
+## ANNEX III — Measurement methods and calculations
+
+For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the Official Journal of the European Union or other reliable, accurate and reproducible methods, which take into account the generally recognised state-of-the-art, and in line with the following provisions.
+
+Where a parameter is declared pursuant to Article 4, its declared value shall be used by the manufacturer, importer or authorised representative for the calculations in this Annex.
+
+In the absence of existing relevant standards and until the publication of the references of the relevant harmonised standards in the Official Journal, the transitional testing methods set out in Annex IIIa or other reliable, accurate and reproducible methods, which take into account the generally recognised state-of-the-art, shall be used.
+
+Measurements and calculations shall meet the technical definitions, conditions, equations and parameters set out in this Annex. Electronic displays which can operate in both 2D and 3D modes shall be tested when they operate in 2D mode.
+
+An electronic display which is split into two or more physically separate units, but placed on the market in a single package, shall, for checking the conformity with the requirements of this Annex, be treated as a single electronic display. Where multiple electronic displays that can be placed on the market separately are combined in a single system, the individual electronic displays shall be treated as single displays.
+
+**1\. General conditions**
+
+Measurements shall be made at an ambient temperature of 23 °C +/- 5 °C.
+
+**2\. Measurements of on mode power demand**
+
+Measurements of the power demand referred to in Annex II, point A (1) shall fulfil all of the following conditions:
+
+(a) measurements of power demand (Pmeasured ) shall be made in the normal configuration;
+
+(b) measurements shall be made using a dynamic broadcast-content video signal representing typical broadcast content for electronic displays in standard dynamic range (SDR). The measurement shall be the average power consumed over 10 consecutive minutes;
+
+(c) measurements shall be made after the electronic display has been in the off mode or, if an off-mode is not available, in standby mode, for a minimum of 1 hour immediately followed by a minimum of 1 hour in the on mode and shall be completed before a maximum of 3 hours in on-mode. The relevant video signal shall be displayed during the entire on mode duration. For electronic displays that are known to stabilise within 1 hour, these durations may be reduced if the resulting measurement can be shown to be within 2 % of the results that would otherwise be achieved using the durations described here;
+
+(d) where ABC is available, measurements shall be made with it switched off. If ABC cannot be switched off, then the measurements shall be performed in an ambient light condition of 100 lux measured at the ABC sensor.
+
+**Measurements of peak white luminance**
+
+Measurements of the peak white luminance referred to in Annex II, point B.3 shall be made:
+
+(a) with a luminance meter, detecting that portion of the screen exhibiting a full (100 %) white image, which is part of a ‘full screen test’ pattern that does not exceed the average picture level (APL) point where any power limiting or other irregularity occurs in the electronic display luminance drive system affecting the electronic display luminance;
+
+(b) without disturbing the luminance meter’s detection point on the electronic display whilst switching between any of the conditions referred to in Annex II, point B.3.
+
+Measurements of Standard Dynamic Range, High Dynamic Range, screen luminance for Automatic Brightness Control, Peak White luminance ratio and other luminance measurements shall be made as detailed in Table 3a.
+
+**Table 3a**
+
+**References and qualifying notes**
+
+|  | Notes |
+| --- | --- |
+| P measured Standard dynamic range (SDR) on-mode, ‘normal’ | Power measurement notes (See Annex IIIa for informative notes regarding the testing of Displays with a standardised DC input or a non-removable battery providing the primary power. For the purposes of these Transitional Measurement Methods a standardised DC input is solely one compatible with the various forms of USB power delivery. Video Signals Notes The 10-minute Dynamic Broadcast video sequence described in existing relevant standards shall be replaced with an updated 10-minute Dynamic Broadcast video sequence. This is available for download at: https://circabc.europa.eu/ui/group/1582d77c-d930-4c0d-b163-4f67e1d42f5b/library/23ab249b-6ebc-4f45-9b0e-df07bc61a596?p=1&n=10&sort=modified_DESC. Two files are available, in SD and HD. They are respectively titled ‘SD Dynamic Video Power.mp4’, and ‘HD Dynamic Video Power.mp4’. SD resolution is made available for the limited types of display that cannot accept or display higher resolution standards. The HD resolution file is used for all other display resolutions since this closely matches the average picture level (APL) of the current IEC HD dynamic broadcast dynamic test sequence described in existing relevant standards. Upscaling from HD to higher native resolution shall be performed by the Unit Under Test (UUT) and not by an external device. Where upscaling has to be performed by an external device the full details of the device and the signal interface with the UUT shall be recorded. The data signal from the downloaded file storage system to the UUT digital signal interface shall be confirmed to provide peak white and full black video levels. If the file playback system has special picture optimisation features (e.g. deep blacks or enhanced colour processing) these shall be disabled. For repeatability of measurement purposes, the details of the file storage and playback system shall be recorded as well as the type of digital interface with the UUT (e.g. HDMI, DVI etc.) The power measurement P measured is an average value from the full 10-minute length of the dynamic test sequence, taken with ABC disabled. |
+| P measured High dynamic range (HDR) on-mode ‘normal’ (auto mode switching to HDR) | No existing relevant standard is published so far. Following the P measured (SDR) dynamic test sequence measurement two HDR dynamic test sequences shall be played. These 5-minute sequences are rendered in HD resolution only, in the common HDR standards of HLG and HDR10. Upscaling from HD to a higher native display resolution shall be performed by the UUT and not an external device. Where upscaling has to be performed by an external device the full details of the device and the signal interface with the UUT shall be recorded. These files are available for download at: https://circabc.europa.eu/ui/group/1582d77c-d930-4c0d-b163-4f67e1d42f5b/library/38df374d-f367-4b72-93d6-3f48143ad661?p=1&n=10&sort=modified_DESC and have identical programme content. The files are respectively titled ‘HDR-HLG Power.mp4’ and ‘HDR_HDR10 Power.mp4’ It is essential that the UUT switch to the HDR display mode is confirmed in the picture settings menu before power data is logged. The integrated power measurement for each sequence (P av) shall be summed and halved for the calculation of the label HDR energy efficiency class and label HDR power declaration. If the UUT cannot be tested in one of these HDR formats, this shall be noted and the power declared shall be the Pav measured for the HDR format that is supported. An ABC allowance does not apply in HDR display mode. P measured HDR = 0.5 * (P av HLG + P av HDR10) If one of these HDR display modes is not supported, the measured numerical value of (Pav HLG) or (Pav HDR10) as appropriate, shall be used for Label VII and Label VIII declarations. |
+| Screen Luminance Measurement for automatic brightness control (ABC) control characteristics evaluation and any other peak white luminance measurement requirement. | No existing relevant standards can be used. A new variant of the ‘box and outline’ dynamic test pattern providing a dynamic format with colour shall be used for all peak white display luminance measurements and not the 3-bar black and white pattern. A set of these variant dynamic test patterns, which combine the box and outline format and VESA L10 to L80 white measurement box format shall be used as described in Section 1.2.4. of Annex IIIa and are available for download at: https://circabc.europa.eu/ui/group/1582d77c-d930-4c0d-b163-4f67e1d42f5b/library/4f4b47a4-c078-49c4-a859-84421fc3cf5e?p=1&n=10&sort=modified_DESC. They are contained in the subfolders labelled SD, HD and UHD. Each subfolder contains eight peak white dynamic test patterns from L10 to L80. A resolution may be chosen according to the native resolution and signal compatibility of the UUT. The selection of a pattern with the appropriate resolution shall be based upon a) the minimum required white box dimensions for correct operation of the contact luminance measuring instrument and b) the fact that no power limiting effect exhibited by the UUT (large areas of white may result in a reduction of peak white levels). Any upscaling shall be performed by the UUT and not an external device. The data signal from the downloaded file storage system to the UUT digital signal interface shall be confirmed to provide peak white and full black video levels and have no other video enhancement processing (e.g. deep blacks / colour enhancement) Both the storage system and signal interface type shall be noted. For displays tested using a USB, or USB compatible data interface with the feature of power delivery, both the UUT and USB connected signal source shall operate from their own power source with the data path only connected.. |
+| Measurements related to ABC for ‘Allowances and adjustments for the purposes of the EEI calculation and functional requirements’ | The methodology for ABC ambient light source set-up and luminance control as specified in existing standards shall not be used for the purposes of ABC related measurements for this regulation. The methodology to be used is detailed in Section 1.2.5. of Annex IIIa. |
+| Peak white luminance ratio | No existing relevant standards can be used. The ‘box and outline’ dynamic test pattern selected for the ABC peak white luminance measurements (Annex III.a Section 1.2.4) shall be used to measure the peak white luminance of the ‘normal configuration’ with ABC on. If this is less than 150 cd/m2 for monitors or 220 cd/m2 for other display products, then a further measurement shall be made of the peak white luminance of the brightest pre-set configuration in the user menu (not the shop configuration). ABC need not be on for the luminance ratio measurements but the status of the ABC (on or off) shall apply to both measurements. Where ABC is on, the illuminance shall be 100lux for both measurements. Care shall be taken to ensure that the dynamic test pattern selected for peak white luminance measurement in the ‘normal configuration’ does not cause luminance instability in the brightest pre-set configuration. A smaller peak white box pattern shall be selected for both measurements if instability occurs. |
+| General notes | The following test standards provide important supporting information for the specification of test equipment and the required testing conditions relevant to measurement and testing guidance given in this Annex. EN 50564:2011 EN 50643:2018 EN 62087-1:2016 EN 62087- 2:2016 EN 62087-3:2016 EN IEC 62680 series of standards 2013 to 2020 IEC TR 63274 ED1:2020 (Advisory technical report on HDR testing requirements) |
+
+## ANNEX IIIa — Transitional methods
+
+**1\. ADDITIONAL ELEMENTS FOR MEASUREMENTS AND CALCULATIONS**
+
+**Table 3b**
+
+**Test equipment requirements and UUT (*1) configuration**
+
+<table>
+<tbody><tr><td>Description of Equipment</td><td>Capabilities</td><td>Additional Capabilities and Characteristics</td></tr>
+<tr><td>Power Measuring</td><td>Defined in relevant standard</td><td>Data logging function</td></tr>
+<tr><td>Luminance Measuring Device (LMD)</td><td>Defined in relevant standard</td><td>Contact probe type with data logging function</td></tr>
+<tr><td>Illuminance Measuring Device (IMD) </td><td>Defined in relevant standard</td><td>Data logging function</td></tr>
+<tr><td>Signal Generation Equipment</td><td>Defined in relevant standard</td><td>See Relevant Notes in Annex III Table 3a. References and qualifying notes</td></tr>
+<tr><td>Light Source (Projector) </td><td>Shall provide an illuminance at the ABC sensor of less than 12 lux and up to 150 lux for TVs and monitors and up to 20,000 lux for Digital Signage Display from a minimum distance of approximately 1.5 m from ABC sensor</td><td>Solid state lamp engine (LED, Laser or LED /Laser combination). Colour gamut of projector shall be equal to or better than REC 709.  Tilting Mounting platform allowing precise alignment of projector beam. This may be combined with or replaced by a built in Optical alignment feature. </td></tr>
+<tr><td>Light Source (dimmable LED Lamp) </td><td>As specified in Section 1.2.1</td><td>  </td></tr>
+<tr><td>Computer for simultaneous data logging on common timescale</td><td>At least 3 appropriate ports allowing interface with power, luminance and illuminance measuring devices.</td><td>USB and Thunderbolt ports are considered to be appropriate ports</td></tr>
+<tr><td>Computer with slide show and or picture editing application interfaced with projector</td><td>Application allowing projection of full-frame white image slides with simultaneous control over colour temperature and luminance (grey) level</td><td>  </td></tr>
+<tr><td colspan="3">(*1)  Unit Under Test </td></tr>
+</tbody>
+</table>
+
+**1.1. Summary of order of testing**
+
+1\. Setup UUT on a stand identifying location of Auto Brightness Control (ABC) sensor where applicable and position display luminance and ambient light measuring instruments.
+
+2\. Run through initial setup confirming correct implementation of forced menu warnings and default settings of ‘normal configuration’.
+
+3\. Mute Audio where applicable.
+
+4\. Continue warm-up of sample while setting up test equipment and identifying peak white dynamic test pattern providing stable display luminance and power measurement.
+
+5\. If the ABC allowance is claimed, determine the illumination range and the ABC latency required for the sample. Profile the ABC of display luminance between 100 lux and 12 lux ambient light levels and measure on-mode power reduction between those limits. To provide detailed profiling of the ABC influence on power and display luminance, the ambient illumination range may be divided into several steps from just above the 100 lux illumination datum point (e.g. 120 lux) through 60 lux, 35 lux and 12 lux to the darkest level allowed by the test environment. For Digital Signage Displays (DSD) additional profiling may be recorded up to daylight illuminance levels of 20 000 lux for data gathering for future reviews of the Regulation.
+
+6\. Measure peak luminance in the normal configuration. If this is less than 150 cd/m2 for a monitor or 220 cd/m2 for other display types, also measure the peak luminance of the brightest pre-set configuration in the user menu (not the shop configuration).
+
+7\. Measure the on-mode power using the SDR dynamic broadcast video sequence with ABC disabled. Measure the on-mode power using the HDR dynamic broadcast video sequences confirming that HDR mode has been triggered (confirmed by display notification at start of HDR playback and / or change in normal configuration picture settings).
+
+8\. Measure the power requirement of low power and off modes and the time required by the automatic power down functions to take effect.
+
+**1.2. Details of testing**
+
+**1.2.1. UUT (display) and measuring instrument set up**
+
+[image]
+
+Figure 1: Physical set up of Display and ambient light source
+
+If ABC function is available and the UUT is supplied with a stand this shall be attached to the display part and the UUT placed on a horizontal table or platform of at least 0,75 metres height covered in a black low reflectivity material (typical materials are felt, fleece or canvas theatrical backdrop). All parts of the stand shall remain exposed. Displays intended primarily for wall mounting shall be frame mounted for ease of access with the lower edge of the display at least 0,75 metres from the floor. The floor surface under the display and up to 0,5 metres in front of the display must not be highly reflective and ideally covered in black, low reflectivity material.
+
+The physical location of the UUT ABC sensor shall be determined and measured coordinates of that location, relative to a fixed point outside the UUT, noted. The distances H and D as well as the projector beam angle (see Figure 1) shall be noted to aid repeatability of measurements. Depending on, the light source illuminance level requirements the distances H&D shall normally be equal ± 5mm and measure between 1,5 m to 3 m. For the projector beam angle adjustment, a black slide with a small white centre box can be used to focus at the ABC sensor and provide a narrow beam of light for angular measurement. If an ABC sensor is designed to work optimally with an illuminance beam angle outside the 45 o recommended, this preferred angle may be employed and the details recorded. Where a non-contact (distant location) luminance meter is used with a low beam angle for the light source, care shall be taken to ensure that the source is not reflected in the area of the display used for luminance measurement.
+
+An illuminance meter shall be mounted as close as possible to the ABC sensor, taking precautions to avoid reflections of ambient light from the meter casing entering the sensor. This may be achieved by various methods in combination, including shrouding the illuminance meter in black felt and facilitating an adjustable mechanical mounting which does not allow the meter casing to protrude beyond the front of the ABC sensor.
+
+The following proven procedure is recommended for an accurate and repeatable logging of ABC sensor illuminance levels with a minimum of mechanical mounting challenges. This procedure allows correction for any illuminance error introduced by the practical impossibility of mounting the illuminance meter at exactly the same physical position as the ABC sensor for simultaneous illumination. The procedure thus allows simultaneous illumination of the ABC sensor and illumination meter without physical disturbance of the UUT and meter after set-up. With appropriate logging software, the required step changes in illuminance can be synchronised to on-mode power measurement and display luminance measurement to automatically log and profile the ABC.
+
+The illuminance meter shall be located a few centimetres away from the ABC sensor to ensure that direct reflections of the projector beam, from the meter casing, cannot enter the ABC sensor. The illuminance meter detector horizontal axis shall be on the same horizontal axis as the ABC sensor with the meter vertical axis strictly parallel to the display vertical plane. The physical coordinates of the meter mounting point relative to the fixed external point used to record the physical location of the ABC sensor shall be measured and noted.
+
+The projector shall be mounted in a position with the axis of its projected beam in line with a vertical plane perpendicular to the display surface and running through the vertical axis of the ABC sensor (see Figure 1). The projector platform height, tilt and distance from the UUT shall be adjusted to allow a full frame peak white projected image to focus on an area covering the ABC sensor and illuminance meter whilst delivering the maximum ambient illumination level (lux) required at the sensor for testing. In this context it shall be noted that some Digital Signage Displays have ABC operative in ambient light conditions from up to 20 000 lux to below 100 lux.
+
+The contact luminance meter for display luminance measurement shall be rigged to align with the centre of the UUT screen.
+
+The projected illuminance image overlapping the horizontal surface below the UUT display shall not extend beyond the vertical plane of the display unless a reflective stand encroaches into a larger forward area than this, in which case the edge of the image shall be aligned with the extremities of the stand (see Figure 1). The top horizontal edge of the projected image shall not be less than 1 cm below the lower edge of the contact luminance meter shroud. This may be achieved by optical adjustment or the physical positioning of the projector, within the constraints of the required 45o beam angle and the required maximum illuminance at the ABC sensor.
+
+With the UUT and illuminance meter position coordinates noted and the projector producing a stable illuminance within the range to be measured (normally stability is achieved a few minutes from switch-on with solid state lamp engines) the UUT shall be moved sufficiently to allow the illuminance meter front face and detector centre to be aligned with the physical position coordinates noted for the UUT ABC sensor. The illuminance measured at this point shall be noted and the meter returned to its original set-up position along with the UUT. The illuminance shall be measured again at the set-up position. The percentage difference between the illuminance measured at the two test positions (if any) may be applied in final reporting as a correction factor to all further illuminance measurements (this correction factor does not change with illuminance level). This provides an accurate data set for the illuminance at the ABC sensor even though the lux measuring instrument is not situated at that point and allows the simultaneous plotting of display luminance, power and illuminance to accurately profile the ABC.
+
+No further physical changes shall be made to the test set up.
+
+Unlike televisions, digital signage displays may have more than one ambient light sensor. For testing purposes, the technician shall determine a single sensor to be utilised in the test, eliminating the other light sensors by obscuring them with opaque tape. Unwanted sensors may also be disabled if control is provided to do so. In most instances the most suitable sensor to use would be a front-facing one. Measurement methods for digital signage displays with multiple light sensors may be explored further as a test method refinement to be qualified in a harmonised standard.
+
+For test laboratories preferring to use a dimmable lamp source instead of a projector light source in the described test set up, the following lamp specification shall apply and the measured lamp characteristics recorded.
+
+The light source used for illuminating the ABC sensor to specific illuminance levels shall use a dimmable LED reflector lamp and shall have a diameter of 90 mm ± 5 mm. The rated beam angle of the lamp shall be 40 ° ± 5 °. The rated correlated colour temperature (CCT) shall be 2700 K ± 300 K throughout the illuminance range 12 lux to the peak illuminance required for testing. The rated colour rendering index (CRI) shall be 80 ± 3. The front surface of the lamp shall be clear (i.e., not coloured or coated with a spectrum modifying material) and may have a smooth or granular front surface; when shined against a uniform white surface, the diffusion pattern shall appear smooth to the naked eye. The lamp assembly shall not modify the spectrum of the LED source, including the IR and UV bands. The characteristics of the light shall not vary across the full range of dimming required for the ABC testing.
+
+**1.2.2. Check of correct implementation of ‘normal configuration’ and energy impact warnings.**
+
+A power meter shall be connected to the UUT for observation purposes and at least one video signal source provided. During this test the persistence of ABC in all other pre-set configurations, except ‘shop configuration’ shall be confirmed.
+
+**1.2.3. Audio Setting**
+
+An input signal shall be provided containing audio and video (the 1 kHz tone on the SDR video power test material is ideal) The sound volume setting shall be reduced to a zero-display indication, or a mute control activated. It must be confirmed that activation of the mute control has no effect on ‘normal configuration’ picture parameters.
+
+**1.2.4. Identifying the peak white luminance pattern for peak white luminance measurements**
+
+When a UUT displays a peak white pattern, the display may quickly dim within the first few seconds and gradually dim until stable. This makes it impossible to measure, in a consistent and repeatable way, power and luminance values, immediately after the image is displayed. In order to have repeatable measurements, some level of stability must be achieved. Testing on displays using current technology indicates that 30 seconds shall be sufficient time to allow for luminance stability of a peak white image. As a practical observation, this time window also allows for any on-screen status display to disappear.
+
+Current display products often have built-in electronics and display drive software to protect the display power supply from being over-driven and the screen from suffering persistence (burn-in) by limiting total power to the screen. This can result in a limited luminance and limited power consumption when displaying, for example a large area of white dynamic test pattern.
+
+In this test methodology, the measurement of peak luminance is made while displaying a 100% white dynamic test pattern, but the area of white is empirically limited to avoid the triggering of protection mechanisms. The appropriate dynamic test pattern is determined by displaying the range of eight ‘box and outline’ dynamic test patterns based on VESA ‘L’ dynamic test patterns from smallest (L 10) to largest (L 80), while recording power and screen luminance. A graph of power and screen luminance vs L pattern shall assist in determining if and when display drive limiting is occurring. For example, if power consumption is increasing from L 10 to L 60, while luminance is either increasing or constant (not decreasing) then those patterns are not appearing to cause limiting. If dynamic test pattern L 70 indicates no increase in power consumption or luminance (where there was an increase in previous L patterns), this would indicate that limiting is occurring at L 70 or between L 60 and L 70. It may also be that limiting has occurred between L 50 and L60 and the graphed points at L 60 were in fact sloping downward. Therefore, the largest pattern where we are sure no limiting occurs is L 50 and this is the correct pattern to use for the peak luminance measurement. Where a luminance ratio has to be declared, the selection of the luminance pattern shall be made in the brightest pre-set setting. If the UUT is known to have display luminance drive characteristics which do not allow the selection of an optimum, peak-white-luminance dynamic test pattern by the above selection procedure the following simplified selection process may be employed. For displays equal to or greater than 15,24 cm (6 inches) and less than 30,48 cm (12 inches) diagonally, the L 40 PeakLumMotion signal shall be used. For displays greater than or equal to 30,48 cm (12 inches) diagonally, the L 20 PeakLumMotion signal shall be used. The dynamic peak white luminance dynamic test pattern selected by either procedure shall be declared and used for all luminance testing.
+
+**1.2.5. Determination of ABC ambient light control range and latency of ABC action.**
+
+For the purposes of Regulation (EU) 2019/2021, an ABC power allowance is provided in the EEI declaration if the ABC control characteristic meets specific requirements of display luminance control between ambient light levels of 100 lux and 12 lux with datum points of 60 lux and 35 lux. The change in display luminance between 100 lux and 12 lux ambient light change must provide at least 20 % decrease in display power requirement for conformance with the regulation ABC power allowance. The dynamic luminance ‘L’ dynamic test pattern used to assess ABC luminance control conformance may also be simultaneously used to assess the power reduction conformance.
+
+For digital signage displays, a much wider range of ABC control with illuminance change may apply and the test methodology described here may be extended to gather data for future revisions of the Regulation.
+
+1.2.5.1 ABC Latency Profiling
+
+The latency of the ABC control function is the time delay between the ambient light change sensed at the ABC detector and the resulting change in UUT display luminance. Testing data has shown that this delay can be as long as 60 seconds and this must be taken into account when profiling ABC control. For latency estimation, the 100 lux slide (see 1.2.5.2), at a stable display luminance condition, is switched to the 60 lux slide and the time interval required to achieve a stable lower display luminance level recorded. At the lower stable luminance level, the 60 lux slide is switched to the 100 lux slide and the time interval to achieve a stable higher luminance level noted. The higher value of time interval is the one used for latency with a discretional 10 seconds added. This is saved as the slide show projection period for each slide.
+
+1.2.5.2 Light Source Illumination Control
+
+For ABC profiling, a peak white dynamic test pattern as identified in 1.2.4 is displayed on the UUT, as the brightness of the light source is altered from white through a range of grey slides to simulate ambient illumination changes. For illumination level control the first slide grey transparency is altered to achieve the starting point of the profiling (e.g. 120 lux) by measuring the lux level at the illuminance meter. The slide is saved and copied. A new grey transparency level is set for the copy to the required datum point of 100 lux and the slide saved and copied. The process is repeated for the datum points of 60 lux, 35 lux and 12 lux. A black (0 % transparency) illuminance slide can be added here for data plotting symmetry and the datum point slides copied and introduced in ascending illumination order back to 120 lux.
+
+1.2.5.3 Light Source Colour Temperature Control
+
+A further requirement is to set a colour temperature for the white point of the projected light to ensure repeatability of test data if a different projector light source is used for verification purposes. For this test methodology a white point colour temperature of 2700K ± 300K is specified for consistency with ABC methodology in earlier test standards.
+
+This white point is readily set in any major computer application for slide creation by the use of a suitable colour solid fill (e.g. Red/Orange) and transparency adjustment. With these tools the normally colder projector white point may be adjusted to the 2700K suggested, by altering the transparency of the selected colour whilst measuring colour temperature via a function of the illuminance meter. Once the required temperature is achieved it is applied to all slides.
+
+1.2.5.4 Data Recording
+
+The power consumption, screen luminance and illuminance at the ABC sensor are measured and logged during the slide show. This data must correlate with time. Data points for three parameters must be logged in order to relate power consumption, to screen luminance and illuminance of the ABC sensor. Any number of slides can be created between datum points for high granularity of data within the constraints of available test time duration.
+
+For DSD designed to operate in a wide range of ambient lighting conditions the operating range of the ABC control over display luminance can be manually established with the black transparency control operating on a single projected slide of peak white pre-set to the required colour temperature. The recommended pre-set configuration of the DSD for a wide range of ambient light operating conditions shall be selected from the user menu. At a stable display luminance point the projected slide shall be switched from 0 % to 100 % black transparency to establish the latency period. This shall then be applied to slide grey transparency steps from black to a point where no change occurs in display luminance to establish the operating range of the ABC. A slide show can then be created in the granularity required to profile that range.
+
+**1.2.6. Display luminance measurements**
+
+With ABC enabled and 100 lux ambient light level measured at the illuminance meter, the UUT shall display the selected peak white luminance pattern (see 1.2.4) at a stable luminance. For Regulation conformance, luminance measurement shall confirm that the display luminance level is 220 cd/m2 or more for all display categories other than monitors. For monitors, a conformance level of 150 cd/m2or more is required. For displays without ABC or devices that do not claim the ABC allowance, measurements may be made without the ambient light part of the test rig.
+
+For those displays which by design intention have a declared display peak white luminance level, in the normal configuration, of less than the conformance requirement of 220 cd/m2or 150 cd/m2, as applicable, a further peak white measurement shall be made in the pre-set viewing configuration providing the highest measured peak white luminance. For Regulation conformance the calculated ratio of the normal viewing configuration peak white luminance measurement and the highest peak white luminance measurement shall be 65 % or greater. This is declared as the ‘luminance ratio’.
+
+For those UUT with ABC that can be switched off a further Conformance test shall be conducted in the normal configuration. The stabilised peak white luminance pattern shall be displayed in the measured 100 lux ambient illumination condition. It shall be confirmed that the UUT power requirement, measured with ABC on, is the same as or less than the power requirement measured at a stabilised luminance with ABC off. If the measured power is not the same, the mode which yields the highest measured power shall be used for on mode power.
+
+**1.2.7. Measurement of on-mode power**
+
+For each of the UUT powering systems covered below, SDR power shall be measured in the normal configuration, using the HD version of the 10 minute ‘SDR dynamic video power test’ file, unless input signal compatibility is restricted to SD. The file source and UUT input interface shall be confirmed to be capable of delivering full black and full white video data levels. Any upscaling of HD video resolution to the native resolution of the UUT display must be processed by the UUT and not an external device where the UUT allows this. If an external device must be used to achieve upscaling to the native resolution of the UUT then details of that device and its interface with the UUT shall be recorded. The power declaration is the average power determined during the playback of the full 10-minute file.
+
+HDR power, where the function applies, is measured using the two 5-minute HDR files ‘HDR-HLG power’ and ‘HDR- HDR10 power’. If one of these HDR modes is not supported, HDR power shall be declared on the supported mode.
+
+Test instrumentation characteristics and test conditions as detailed in relevant standards apply to all power testing.
+
+Product warm up with current UUT display technology need not be protracted and is most conveniently conducted with the dynamic peak white luminance dynamic test pattern identified in section 1.2.4 above. When power readings are stable with the UUT displaying this pattern power measurements with the SDR and HDR dynamic video power test files may commence.
+
+Where a product has ABC, this shall be switched off. If it cannot be switched off the product shall be tested in the 100 lux measured ambient light conditions described in section 1.2.5 above.
+
+For UUT intended for use on AC mains including those using a standardised DC input but with an external power supply (EPS) provided packaged with the UUT, on-mode power shall be measured at the AC supply point.
+
+(a) For UUT with a standardised DC input (only USB-compatible power delivery standards apply) power measurement shall be made at the DC input. This is facilitated by a USB break out unit (BOU) which maintains the data path of the supply connector and UUT DC input but interrupts the power delivery path to allow current measurement and Voltage measurement inputs to the power meter. The USB BOU power meter combination must be fully tested to ensure that their design and maintenance condition do not interfere with the cable impedance sensing function of some USB power delivery standards. The power recorded via the USB BOU shall be the power Pmeasured declared for the on-mode power measurement declaration (Ecodesign and Labelling in SDR mode and HDR mode).
+
+(b) For unusual UUT covered by the definitions of the Regulation but designed to operate from an internal battery which cannot be bypassed or removed for the required power testing the following methodology is proposed. The caveats for EPS and standardised DC input detailed above apply in the choice of AC or DC input power declaration.
+
+For the purposes of the methodology the following qualifications apply:
+
+Fully charged battery: Point during charging when according to the manufacturer’s instructions, by indicator or time period the product does not need to be charged anymore. Visual profiling of this point shall be made for subsequent reference with a graphical representation of the power meter charging log made with power measurements of 1 second granularity in a 30-minute period before and after the fully charged point.
+
+Fully discharged battery: A point in on-mode, with the UUT disconnected from an external power source, where the display switches off automatically (not through auto standby functions) or ceases to function while displaying an image.
+
+If there is no indicator or no stated charge time period the battery shall be fully discharged. The battery shall then be recharged with all display user-controlled functions off. The power input against time with a data granularity no less than one reading per second shall be automatically logged. Where the log shows the start of a low power flat line battery maintenance mode or the start of a very low power period with spaced bursts of power, the time logged to that point from the start of the charge cycle of the battery, shall be regarded as the basic charge time.
+
+Preparation of battery: Any unused Li-ion batteries shall be fully charged and fully discharged once, prior to conducting the first test on a UUT. All other unused battery chemistry/technology types shall be fully charged and fully discharged three times, prior to conducting the first test on the UUT.
+
+Method
+
+Set up UUT for all the relevant testing as described in this testing methodology document. For the choice of AC or DC power measurement declaration, apply the caveats on powering above.
+
+All dynamic test sequences involving power measurement for regulation conformance and declaration shall be performed with the product battery fully charged and the external power source disconnected. The fully charged condition shall be confirmed by the power meter log charging profile graph. The product shall be switched to the measurement mode required and the dynamic test sequence started immediately. After the dynamic test sequence is completed the product shall be switched off and a logged charging sequence commenced. When the charging log profile indicates a fully charged condition, the average power recorded from the logged start of charging to the logged start of the fully charged condition is used to calculate the power to be recorded for the Regulation requirement.
+
+Standby, networked standby and off modes (if applicable) will require long periods of battery loading to provide good data repeatability from the recharge average power (e.g. 48 hours for off or standby and 24 hours for networked standby)
+
+For luminance measurement and ABC luminance profiling the external power source can remain connected.
+
+For the ABC power reduction test, the appropriate dynamic peak luminance sequence shall be continuously played for 30 minutes in a 12 lux ambient light condition. The battery shall be immediately recharged and the average power noted. The same shall be repeated for the 100 lux ambient condition and the difference between the average recharge powers confirmed to be 20 % or more.
+
+For the SDR power declaration the appropriate 10-minute SDR dynamic power measurement sequence shall be played 3 times sequentially and the average battery recharge power requirement logged (P measured (SDR) = recharge energy /total playback time).For the HDR power declaration each of the two five-minute HDR dynamic power measurement files shall be played three times in quick succession and the average battery recharge power requirement logged (P measured (HDR) = recharge energy /total playback time).
+
+**1.2.8. Measure power requirement of low power and off modes**
+
+Test instrumentation and test conditions as detailed in relevant standards apply to all low power and off mode power testing. The AC or DC power measuring caveats of 1.2.7 above apply and the special test procedure for battery powered displays covered in 1.2.7 shall be used where applicable.
+
+## ANNEX IV — Verification procedure for market surveillance purposes
+
+The verification tolerances defined in this Annex relate only to the verification by Member State authorities of the declared values and shall not be used by the manufacturer, importer or authorised representative as an allowed tolerance to establish the values in the technical documentation or in interpreting these values with a view to achieving compliance or to communicate better performance by any means.
+
+Where a model has been designed to be able to detect it is being tested (e.g. by recognising the test conditions or test cycle), and to react specifically by automatically altering its performance during the test with the objective of reaching a more favourable level for any of the parameters specified in this Regulation or included in the technical documentation or included in any of the documentation provided, the model and all equivalent models shall be considered not compliant.
+
+As part of verifying that a product model complies with the requirements laid down in this Regulation pursuant to Article 3(2) of Directive 2009/125/EC the authorities of the Member States shall apply the following procedure for the requirements referred to in Annex I.
+
+**1\. General procedure**
+
+The Member States authorities shall verify one single unit of the model.
+
+The model shall be considered to comply with the applicable requirements if:
+
+(a) the values given in the technical documentation pursuant to point 2 of Annex IV to Directive 2009/125/EC (declared values) and, where applicable, the values used to calculate these values are not more favourable for the manufacturer, importer or authorised representative than the results of the corresponding measurements carried out pursuant to paragraph (g) thereof;
+
+(b) the declared values meet any requirements laid down in this Regulation and any product information published by the manufacturer, importer or authorised representative does not contain values that are more favourable for the manufacturer, importer or authorised representative than the declared values;
+
+(c) when the Member State authorities test the unit of the model, the determined values (the values of the relevant parameters as measured in testing and the values calculated from these measurements) comply with the respective verification tolerances as given in Table 3; and
+
+(d) when the Member State authorities check the unit of the model, it complies with the functional requirements and the requirements on repair and end-of-life aspects.
+
+**1.1. Verification procedure for requirements established in Annex II, point B.1**
+
+The model shall be considered to comply with the applicable requirements if:
+
+(a) the ABC of the product is enabled by default and persists in all SDR modes, except in the shop configuration;
+
+(b) the measured on mode power of the product decreases by 20 % or more when the ambient light condition measured at the ABC sensor is reduced from 100 lux to 12 lux;
+
+(c) the ABC control of display luminance meets the requirements of Annex II, point B.1(e).
+
+**1.2. Verification procedure for requirements established in Annex II, point B.2**
+
+The model shall be considered to comply with the applicable requirements if:
+
+(a) the normal configuration is provided as the default choice on initial activation of the electronic display; and
+
+(b) if the user selects a mode other than normal configuration, a second selection process is prompted to confirm the choice.
+
+**1.3. Verification procedure for requirements established in Annex II, point B.3**
+
+The model shall be considered to comply with the applicable requirements if the determined value of the peak white luminance or, if applicable, the peak white luminance ratio, meets the value required in point B.3.
+
+**1.4. Verification procedure for requirements established in Annex II, point C.1**
+
+The model shall be considered to comply with the applicable requirements if, when connected to the power source:
+
+(a) the off mode and/or standby mode and/or another mode which does not exceed the applicable power demand requirements for off mode and/or standby mode, is set as default;
+
+(b) if the unit provides networked standby mode with HiNA, the unit does not exceed the applicable power demand requirements for HiNA when networked standby is enabled; and
+
+(c) if the unit provides networked standby mode without HiNA, the unit does not exceed the applicable power demand requirements without HiNA when networked standby is enabled.
+
+**1.5. Verification procedure for requirements established in Annex II, point C.2**
+
+The model shall be considered to comply with the applicable requirements if:
+
+(a) the unit provides off mode and/or standby mode, and/or another mode which does not exceed the applicable power demand requirements for off mode and/or standby mode, when the electronic display is connected to the power source; and
+
+(b) the activation of the network availability requires the end-user’s intervention; and
+
+(c) the network availability can be disabled by the end-user; and
+
+(d) it complies with the requirements for standby mode when networked standby mode is not enabled.
+
+**1.6. Verification procedure for requirements established in Annex II, point C.3**
+
+The model shall be considered to comply with the applicable requirements if:
+
+(a) within 4 hours in on mode following the last user interaction or within 1 hour if a room presence sensor is enabled and no movement is detected, the television automatically switches from on mode to standby mode or off mode or networked standby mode, if enabled, or another mode which does not exceed the applicable power demand requirements for standby mode. Member State authorities shall use the applicable procedure to measure the power demand after the automatic power down functionality switches the television into the applicable power mode; and
+
+(b) the function is set as default; and
+
+(c) in on mode, the television shows an alert message before automatically switching from on mode to the applicable mode; and
+
+(d) if the television provides a function allowing the user to modify the 4-hour period for automatic mode transitions detailed in (a), a warning message is prompted about a potential increase in energy use and a confirmation of the new setting is requested when an extension beyond the 4-hour period or disabling is selected; and
+
+(e) if the television is equipped with a room presence sensor, the automatic transition from on mode into any mode as detailed in (a) applies if no presence is detected for no more than 1 hour; and
+
+(f) in televisions with various selectable input sources the power management protocols of the signal source selected is prioritised over those default power management mechanisms described in (a) above.
+
+**1.7. Verification procedure for requirements established in Annex II, point C.4**
+
+The model shall be tested for each end user selectable signal input interface type which has specified that it can carry power management control signals or data. Where there are two or more identical signal interfaces not labelled for a specific host product type (e.g. HDMI-1, HDMI-2, etc.) it is sufficient to test one of these signal interfaces selected at random. Where there are labelled or menu designated signal interfaces (e.g. computer, set top box or analogous) the appropriate host signal source device should be connected to the designated signal interface for the test. The model shall be considered to comply with the applicable requirement if no signal by any input source is detected and the model switches into standby mode, off mode or networked standby mode.
+
+**1.8. Verification procedure for requirements established in Annex II, point D and E**
+
+The model shall be considered to comply with the applicable requirements if, when the Member State authorities check the unit of the model, it complies with the requirements on resource efficiency in Annex II, points D and E.
+
+The requirements of Annex II, D.4. shall be deemed to be complied with if:
+
+— The determined value for HFRs identified in Directive 2011/65/EU does not exceed the relevant maximum concentration values defined in Annex II of Directive 2011/65/EU; and
+
+— For other HFRs, the determined value for any homogenous material does not exceed 0,1 % by weight of halogen content. Where the determined value for any homogenous material exceeds 0,1 % by weight of halogen content, the model may still be considered compliant where documentary checks or any other appropriate, reproducible methods show that the halogen content is not attributable to flame retardant.
+
+**2\. Procedure if requirements are not achieved**
+
+If the results referred to in point 1(c) and 1(d) related to requirements not involving measured values are not achieved, the model and all equivalent models shall be considered not to comply.
+
+If the results referred to in point 1(c) and 1(d) related to requirements involving measured values are not achieved, the Member State authorities shall select three additional units of the same model or equivalent models for testing. The model shall be considered to comply with the applicable requirements if, for these three units, the arithmetical mean of the determined values complies with the respective verification tolerances given in Table 3. Otherwise the model and all equivalent models shall be considered not to comply.
+
+The Member State authorities shall provide all relevant information to the authorities of the other Member States and to the Commission without delay after a decision being taken on the non-compliance of the model.
+
+The Member State authorities shall use the measurement and calculation methods set out in Annex III and only use the procedure described in points 1 and 2 for the requirements referred to in this Annex.
+
+**3\. Verification tolerances**
+
+The Member State authorities shall only apply the verification tolerances that are set out in Table 3. No other tolerances, such as those set out in harmonised standards or in any other measurement method, shall be applied.
+
+The verification tolerances defined in this Annex relate only to the verification of the measured parameters by the Member State authorities and shall not be used by the manufacturer as an allowed tolerance on the values in the technical documentation to achieve compliance with the requirements. Declared values shall not be more favourable for the manufacturer than the values reported in the technical documentation.
+
+**Table 3**
+
+**Verification tolerances**
+
+<table>
+<tbody><tr><td>Parameter</td><td>Verification tolerances</td></tr>
+<tr><td>On mode power demand, (Pmeasured, Watts) excluding allowances and adjustments in Annex II, point B, for the purposes of EEI calculation set out in Annex II, point A.</td><td>The determined value (*1) shall not exceed the declared value by more than 7 %</td></tr>
+<tr><td>Off mode, standby mode and networked standby mode power demand (Watts), as applicable</td><td>The determined value (*1) shall not exceed the declared value by more than 0,10 Watt if the declared value is 1,00 W or less, or by more than 10 % if the declared value is more than 1,00 W</td></tr>
+<tr><td>Peak white luminance ratio</td><td>Where applicable, the determined value shall not be lower than 60 % of the peak white luminance of the brightest on mode configuration provided by the electronic display</td></tr>
+<tr><td>Peak white luminance (cd/m2)</td><td>The determined value (*1) shall not be lower than the declared value by more than 8 %</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Visible screen diagonal in centimetres</td><td>The determined value (*1) shall not be lower than the declared value by more than 1 cm</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Screen area in dm2</td><td>The determined value (*1) shall not be lower than the declared value by more than 0,1 dm2</td></tr>
+<tr><td>Timed functions as set out in Annex II, points C.3 and C.4</td><td>The switch shall be completed within 5 seconds of the set out values</td></tr>
+<tr><td>Weight of plastic components as qualified in Annex II, point D.2</td><td>The determined value (*1) shall not be different from the declared value by more than 5 grams</td></tr>
+<tr><td colspan="2">(*1)  In the case of three additional units tested as prescribed in Annex IV point 2(a), the determined value means the arithmetic mean of the values determined for these three additional units. </td></tr>
+</tbody>
+</table>
+
+## ANNEX V — Benchmarks
+
+The best available technology on the market, at the time of entry into force of this Regulation, for the environmental aspects that were considered significant and are quantifiable is indicated below.
+
+The following indicative benchmarks are identified for the purpose of part 3, point 2 of Annex I to Directive 2009/125/EC. They refer to the best available technology at the time of drafting this Regulation for electronic displays on the market.
+
+<table>
+<tbody><tr><td colspan="2">Diagonal of screen area</td><td>HD</td><td>UHD</td></tr>
+<tr><td>(cm)</td><td>(inches)</td><td>Watt</td><td>Watt</td></tr>
+<tr><td>55,9 </td><td>22</td><td>15</td><td>  </td></tr>
+<tr><td>81,3 </td><td>32</td><td>25</td><td>  </td></tr>
+<tr><td>108,0 </td><td>43</td><td>33</td><td>47</td></tr>
+<tr><td>123,2 </td><td>49</td><td>43</td><td>57</td></tr>
+<tr><td>152,4 </td><td>60</td><td>62</td><td>67</td></tr>
+<tr><td>165,1 </td><td>65</td><td>56</td><td>71</td></tr>
+<tr><td colspan="4">Other functioning modes:</td></tr>
+<tr><td colspan="3">Off mode (physical switch):</td><td>0,0 W</td></tr>
+<tr><td colspan="3">Off mode (no physical switch):</td><td>0,1 W</td></tr>
+<tr><td colspan="3">Standby</td><td>0,2 W</td></tr>
+<tr><td colspan="3">Networked standby (non-HiNA):</td><td>0,9 W</td></tr>
+</tbody>
+</table>
+
+( 1 ) Council Directive 93/42/EEC of 14 June 1993 concerning medical devices (OJ L 169, 12.7.1993, p. 1).
+
+( 2 ) Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC (OJ L 117, 5.5.2017, p. 1).
+
+( 3 ) Council Directive 90/385/EEC of 20 June 1990 on the approximation of the laws of the Member States relating to active implantable medical devices (OJ L 189, 20.7.1990, p. 17).
+
+( 4 ) Directive 98/79/EC of the European Parliament and of the Council of 27 October 1998 on in vitro diagnostic medical devices (OJ L 331, 7.12.1998, p. 1).
+
+( 5 ) Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176).
+
+( *1 ) Commission Regulation (EU) 2019/2021 of 1 October 2019 laying down eco-design requirements for electronic displays pursuant to Directive 2009/125/EC of the European Parliament and of the Council, amending Commission Regulation (EC) No 1275/2008 and repealing Commission Regulation (EC) 642/2009 (OJ L 315, 5.12.2019, p. 241).’
+
+( 6 ) Directive 2014/30/EU of the European Parliament and of the Council of 26 February 2014 on the harmonisation of the laws of the Member States relating to electromagnetic compatibility (OJ L 96, 29.3.2014, p. 79).
+
+( 7 ) Commission Regulation (EU) 2019/1782 of 1 October 2019 laying down ecodesign requirements for external power supplies pursuant to Directive 2009/125/EC of the European Parliament and of the Council and repealing Commission Regulation (EC) No 278/2009 (see page 95 of this Official Journal).

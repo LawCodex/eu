@@ -1,0 +1,67 @@
+---
+title: "Council Regulation (ECSC, EC, Euratom) No 2300/94 of 22 September 1994 correcting the weighting applicable in the United Kingdom and adjusting the weighting applicable in Greece to the remuneration and pensions of officials and other servants of the European Communities"
+identifier: "31994R2300"
+eli: "http://data.europa.eu/eli/reg/1994/2300/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1994-09-22
+entry_into_force: 1993-07-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31994R2300"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (ECSC, EC, Euratom) No 2300/94 of 22 September 1994 correcting the weighting applicable in the United Kingdom and adjusting the weighting applicable in Greece to the remuneration and pensions of officials and other servants of the European Communities
+
+COUNCIL REGULATION (ECSC, EC, EURATOM) No 2300/94 of 22 September 1994 correcting the weighting applicable in the United Kingdom and adjusting the weighting applicable in Greece to the remuneration and pensions of officials and other servants of the European Communities
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing a Single Council and a Single Commission of the European Communities,
+
+Having regard to the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities laid down by Council Regulation (EEC, Euratom, ECSC) No 259/68 (1), as last amended by Regulation (Euratom, ECSC, EC) No 3608/93 (2), and in particular Articles 63, 64, 65, 65a and 82 of and Annex XI to the Staff Regulations and the first paragraph of Article 20 and Article 64 of the Conditions of Employment,
+
+Having regard to the proposal from the Commission,
+
+Whereas Eurostat has corrected its 1993 report to take into account the price corrections made by the United Kingdom's Central Statistical Office; whereas, therefore, the weighting applicable in the United Kingdom should be corrected with effect from 1 July 1993;
+
+Whereas in the second half of 1993 the cost of living increased substantially in Greece, a Member State where officials and other servants of the European Communities are employed; whereas, therefore, the weightings applicable to the remuneration and pensions of these officials and other servants pursuant to Regulation (Euratom, ECSC, EC) No 3608/93 should be adjusted with effect from 1 January 1994,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+With effect from 1 July 1993, the weighting applicable to the remuneration of officials and other servants employed in the country referred to below shall be as follows:
+
+United Kingdom (except Culham): 107,3.
+
+## Article 2
+
+1\. With effect from 1 January 1994, the weighting applicable to the remuneration of officials and other servants employed in the country referred to below shall be as follows:
+
+Greece: 85,4.
+
+2\. The weightings applicable to pensions shall be determined in accordance with Article 82 (1) of the Staff Regulations.
+
+Articles 3 to 10 of Regulation (ECSC, EEC, Euratom) No 2175/88 (3) shall continue to apply.
+
+## Article 3
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 22 September 1994.
+
+For the Council
+
+The President
+
+N. BLUEM
+
+(1) OJ No L 56, 4. 3. 1968, p. 1.
+
+(2) OJ No L 328, 29. 12. 1993, p. 1.
+
+(3) OJ No L 191, 22. 7. 1988, p. 1.

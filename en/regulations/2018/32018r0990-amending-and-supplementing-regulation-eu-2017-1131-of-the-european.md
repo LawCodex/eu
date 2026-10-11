@@ -1,0 +1,248 @@
+---
+title: "Commission Delegated Regulation (EU) 2018/990 of 10 April 2018 amending and supplementing Regulation (EU) 2017/1131 of the European Parliament and of the Council with regard to simple, transparent and standardised (STS) securitisations and asset-backed commercial papers (ABCPs), requirements for assets received as part of reverse repurchase agreements and credit quality assessment methodologies (Text with EEA relevance.)"
+identifier: "32018R0990"
+eli: "http://data.europa.eu/eli/reg_del/2018/990/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2018-04-10
+entry_into_force: 2018-11-07
+last_amended: 2021-09-12
+consolidated_version: "02018R0990-20210912"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0990-20210912"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2018/990 of 10 April 2018 amending and supplementing Regulation (EU) 2017/1131 of the European Parliament and of the Council with regard to simple, transparent and standardised (STS) securitisations and asset-backed commercial papers (ABCPs), requirements for assets received as part of reverse repurchase agreements and credit quality assessment methodologies (Text with EEA relevance.)
+
+**COMMISSION DELEGATED REGULATION (EU) 2018/990**
+
+**of 10 April 2018**
+
+**amending and supplementing Regulation (EU) 2017/1131 of the European Parliament and of the Council with regard to simple, transparent and standardised (STS) securitisations and asset-backed commercial papers (ABCPs), requirements for assets received as part of reverse repurchase agreements and credit quality assessment methodologies**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>COMMISSION DELEGATED REGULATION (EU) 2021/1383 of 15 June 2021</td><td> L 298</td><td>1</td><td>23.8.2021</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2018/990**
+
+**of 10 April 2018**
+
+**amending and supplementing Regulation (EU) 2017/1131 of the European Parliament and of the Council with regard to simple, transparent and standardised (STS) securitisations and asset-backed commercial papers (ABCPs), requirements for assets received as part of reverse repurchase agreements and credit quality assessment methodologies**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — CRITERIA FOR ESTABLISHING A SIMPLE, TRANSPARENT AND STANDARDISED (STS) SECURITISATION OR ASSET-BACKED COMMERCIAL PAPER (ABCP) — (Article 15(7) of Regulation (EU) 2017/1131)
+
+### Article 1 — Amendment to Regulation (EU) 2017/1131
+
+In Article 11(1) of Regulation (EU) 2017/1131, point (c) is replaced by the following:
+
+‘(c) a simple, transparent and standardised (STS) securitisation, as determined in accordance with the criteria and conditions laid down in Articles 20, 21 and 22 of Regulation (EU) 2017/2402 of the European Parliament and of the Council ( *1 ), or an STS ABCP, as determined in accordance with the criteria and conditions laid down in Articles 24, 25 and 26 of that Regulation.
+
+## CHAPTER 2 — QUANTITATIVE AND QUALITATIVE CREDIT QUALITY REQUIREMENTS FOR ASSETS RECEIVED AS PART OF REVERSE REPURCHASE AGREEMENTS — (Article 15(7) of Regulation (EU) 2017/1131)
+
+### Article 2 — Quantitative and qualitative liquidity requirements for the assets referred to in Article 15(6) of Regulation (EU) 2017/1131
+
+1\. Reverse repurchase agreements as referred to in Article 15(6) of Regulation (EU) 2017/1131 shall meet established market standards and their terms and conditions shall enable managers of MMFs to fully enforce their rights in case of default of the counterparty to such agreements, or their early termination and give managers of MMFs the unrestricted right to sell any assets received as collateral,
+
+2\. The assets referred to in Article 15(6) of Regulation (EU) 2017/1131 shall be subject to a haircut, that is equal to the volatility adjustment figures referred to in tables 1 and 2 of Article 224(1) of Regulation (EU) No 575/2013 for a given residual maturity, in respect of a 5-day liquidation period and the highest assessment in terms of credit quality step.
+
+3\. Where necessary, managers of MMFs shall apply an additional haircut to the one referred to in paragraph 2. To assess whether such an additional haircut is necessary, they shall take into account all of the following factors:
+
+(a) the credit quality assessment of the counterparty to the reverse repurchase agreement;
+
+(b) the margin period of risk, as defined in Article 272(9) of Regulation (EU) No 575/2013;
+
+(c) the credit quality assessment of the issuer or of the asset that is used as collateral;
+
+(d) the remaining maturity of the assets used as collateral;
+
+(e) the volatility of the price of the assets used as collateral.
+
+4\. For the purpose of paragraph 3, managers of MMFs shall put in place a clear haircut policy adapted to each asset, referred to in Article 15(6) of Regulation (EU) 2017/1131, received as collateral. That policy shall be documented and shall substantiate each decision to apply a specific haircut to the value of an asset.
+
+5\. Managers of MMFs shall regularly revise the haircut referred to in paragraph 2, taking into account changes in the residual maturity of the assets used as collateral. They shall also revise the additional haircut referred to in paragraph 3, whenever the factors referred to in that paragraph change.
+
+6\. Paragraphs 1 to 5 shall not apply if the counterparty to the reverse repurchase agreement is any of the following:
+
+(a) a credit institution supervised under Directive 2013/36/EU of the European Parliament and of the Council ( 1 ), or a credit institution authorised in a third country in respect of which an equivalence decision has been adopted in accordance with Article 114(7) of Regulation (EU) No 575/2013;
+
+(b) an investment firm supervised under Directive 2014/65/EU of the European Parliament and of the Council ( 2 ), or an investment firm authorised in a third country in respect of which an equivalence decision has been adopted in accordance with Article 47 of Regulation (EU) No 600/2014;
+
+(c) an insurance undertaking supervised under Directive 2009/138/EC of the European Parliament and of the Council ( 3 ), or an insurance undertaking authorised in a third country in respect of which an equivalence decision has been adopted in accordance with Article 260 of that Directive;
+
+(d) a central counterparty authorised under Regulation (EU) No 648/2012 of the European Parliament and of the Council ( 4 );
+
+(e) the European Central Bank;
+
+(f) a national central bank;
+
+(g) a third country central bank, provided that the prudential supervisory and regulatory requirements applied in that country have been recognised as equivalent to those applied in the Union in accordance with Article 114(7) of Regulation (EU) No 575/2013.
+
+## CHAPTER 3 — CREDIT QUALITY ASSESSMENT CRITERIA — (Article 22 of Regulation (EU) 2017/1131)
+
+### Article 3 — Criteria for validating the internal credit quality assessment methodologies referred to in Article 19(3) of Regulation (EU) 2017/1131
+
+1\. Managers of MMFs shall validate the credit quality assessment methodologies referred to in Article 19(3) of Regulation (EU) 2017/1131 provided they fulfil all of the following criteria:
+
+(a) the internal credit quality assessment methodologies are applied in a systematic way with respect to different issuers and instruments;
+
+(b) the internal credit quality assessment methodologies are supported by a sufficient number of relevant qualitative and quantitative criteria;
+
+(c) the internal credit quality assessment methodologies' qualitative and quantitative inputs are reliable, using data samples of an appropriate size;
+
+(d) past internal credit quality assessments produced using the internal credit quality assessment methodologies have been properly reviewed by the managers of the MMFs in question to determine whether the credit quality assessment methodologies are a suitable indicator of credit quality;
+
+(e) the internal credit quality assessment methodologies contain controls and processes for their development and related approvals that allow for suitable challenge;
+
+(f) the internal credit quality assessment methodologies incorporate factors that managers of MMFs deem relevant to determine the credit quality of an issuer or an instrument;
+
+(g) the internal credit quality assessment methodologies systematically apply key credit quality assumptions and supporting criteria to produce all credit quality assessments, unless there is an objective reason for diverging from this requirement;
+
+(h) the internal credit quality assessment methodologies contain procedures to ensure that the criteria referred to in points (b), (c) and (g) supporting the relevant factors in the internal credit quality assessment methodologies are of a reliable quality and relevant to the issuer or instrument being assessed.
+
+2\. As part of the validation process of the internal credit quality assessment methodologies, managers of MMFs shall assess the sensitivity of the methodologies to changes in any of their underlying credit quality assumptions and criteria.
+
+3\. Managers of MMFs shall have processes in place to ensure that any anomalies or deficiencies highlighted by the back testing referred to in Article 19(3) of Regulation (EU) 2017/1131 are identified and appropriately addressed.
+
+4\. The internal credit quality assessment methodologies referred to in Article 19(3) of Regulation (EU) 2017/1131 shall:
+
+(a) continue to be used, unless there are objective reasons to conclude that the internal credit quality assessment methodologies have to be changed or to be discontinued;
+
+(b) be capable of promptly incorporating any finding from ongoing monitoring or a review, in particular where changes in structural macroeconomic or financial market conditions would potentially affect a credit assessment produced using those internal credit quality assessment methodologies;
+
+(c) make it possible to compare past internal credit quality assessments.
+
+5\. The internal credit quality assessment methodology referred to in Article 19(3) of Regulation (EU) 2017/1131 shall be promptly improved if any review, including validation, shows that it is not appropriate to ensure systematic credit quality assessment.
+
+6\. The internal credit quality assessment procedure shall specify in advance the situations where the internal credit quality assessment is deemed to be favourable.
+
+### Article 4 — Criteria for quantifying credit risk, and the relative risk of default of the issuer and of the instrument, as referred to in Article 20(2)(a) of Regulation (EU) 2017/1131
+
+1\. The criteria for quantifying the credit risk of an issuer, and the relative risk of default of an issuer and of the instrument, referred to in Article 20(2)(a) of Regulation (EU) 2017/1131, shall be the following:
+
+(a) bond pricing information, including credit spreads and the pricing of comparable fixed income instruments and related securities;
+
+(b) pricing of money market instruments relating to the issuer, the instrument or the industry sector;
+
+(c) credit default-swap pricing information, including credit default-swap spreads for comparable instruments;
+
+(d) default statistics relating to the issuer, the instrument or the industry sector;
+
+(e) financial indices relating to the geographic location, the industry sector or the asset class of the issuer or instrument;
+
+(f) financial information relating to the issuer, including profitability ratios, interest coverage ratio, leverage metrics and the pricing of new issues, including the existence of more junior securities.
+
+2\. Where necessary and relevant, managers of MMFs shall apply additional criteria to the ones referred to in paragraph 1.
+
+### Article 5 — Criteria for establishing qualitative indicators in relation to the issuer of the instrument, referred to in Article 20(2)(b) of Regulation (EU) 2017/1131
+
+1\. The criteria for establishing qualitative indicators in relation to the issuer of the instrument, referred to in Article 20(2)(b) of Regulation (EU) 2017/1131, shall be the following:
+
+(a) an analysis of any underlying assets, which for exposure to securitisation shall include the credit risk of the issuer and the credit risk of the underlying assets;
+
+(b) an analysis of any structural aspects of the relevant instruments issued by an issuer, which for structured finance instruments shall include an analysis of the inherent operational and counterparty risk of the structured finance instrument;
+
+(c) an analysis of the relevant market(s), including the degree of volume and liquidity of those markets;
+
+(d) a sovereign analysis, including the extent of explicit and contingent liabilities and the size of foreign exchange reserves compared to foreign exchange liabilities;
+
+(e) an analysis of governance risk relating to the issuer, including frauds, conduct fines, litigation, financial restatements, exceptional items, management turnover, borrower concentration and audit quality;
+
+(f) securities-related research on the issuer or market sector;
+
+(g) where relevant, an analysis of the credit ratings or rating outlook given to the issuer of an instrument by a credit rating agency registered with the ESMA and selected by the manager of an MMF if suited to the specific investment portfolio of the MMF.
+
+2\. Where necessary and relevant, managers of MMFs shall apply additional criteria to the ones referred to in paragraph 1.
+
+### Article 6 — Criteria for establishing qualitative credit risk indicators in realtion to the issuer of the instrument, as referred to in Article 20(2)(b) of Regulation (EU) 2017/1131
+
+Insofar as is possible, managers of MMFs shall assess the following qualitative credit risk criteria for an issuer of an instrument:
+
+(a) the financial situation of the issuer, or, where applicable, of the guarantor;
+
+(b) the sources of liquidity of the issuer, or, where applicable, of the guarantor;
+
+(c) the ability of the issuer to react to future market-wide or issuer-specific events, including the ability to repay debt in a highly adverse situation;
+
+(d) the strength of the issuer's industry within the economy relative to economic trends and the issuer's competitive positon in its industry.
+
+### Article 7 — Overrides
+
+1\. Managers of MMFs may override the output of an internal credit quality assessment methodology only in exceptional circumstances, including stressed market conditions, and where there is an objective reason for doing so. Managers of MMFs which override the output of an internal credit quality assessment methodology shall document that decision.
+
+2\. As part of the documenting process referred to in paragraph 1, managers of MMFs shall specify the person who is responsible for the decision as well as the objective reason for taking that decision.
+
+### Article 8 — Material change as referred to in Article 19(4)(d) of Regulation (EU) 2017/1131
+
+1\. There will be a material change as referred to in Article 19(4)(d) of Regulation (EU) 2017/1131 whenever:
+
+(a) there is a material change with respect to any of the following:
+
+(i) bond pricing information, including credit spreads and the pricing of comparable fixed income instruments and related securities;
+
+(ii) credit default-swap pricing information, including credit default-swap spreads for comparable instruments;
+
+(iii) default statistics relating to the issuer or instrument;
+
+(iv) financial indices relating to the geographic location, industry sector or asset class of the issuer or instrument;
+
+(v) analysis of underlying assets, in particular for structured instruments;
+
+(vi) analysis of the relevant market(s), including their volume and liquidity;
+
+(vii) analysis of the structural aspects of the relevant instruments;
+
+(viii) securities-related research;
+
+(ix) financial situation of the issuer;
+
+(x) sources of liquidity of the issuer;
+
+(xi) ability of the issuer to react to future market-wide or issuer-specific events, including the ability to repay debt in a highly adverse situation;
+
+(xii) strength of the issuer's industry within the economy relative to economic trends and the issuer's competitive positon in its industry;
+
+(xiii) analysis of the credit ratings or rating outlook given to the issuer or instrument by a credit rating agency or agencies selected by the manager of the MMF as being suited to the specific investment portfolio of the MMF.
+
+(b) a money market instrument, securitisation or ABCP is downgraded below the two highest short-term credit ratings provided by any credit rating agency regulated and certified in accordance with Regulation (EC) No 1060/2009 of the European Parliament and of the Council ( 5 ).
+
+2\. Managers of MMFs shall assess the material change in the criteria referred to in paragraph 1(a) by considering risk factors and the results of the stress test scenarios referred to in Article 28 of Regulation (EU) 2017/1131.
+
+3\. For the purpose of paragraph 1(b), managers of MMFs shall establish an internal procedure for the selection of credit rating agencies suited to the specific investment portfolio of the MMF concerned and for the determination of the frequency with which the MMF shall monitor the ratings of those agencies.
+
+4\. Managers of MMFs shall take into account a downgrading as referred to in paragraph 1(b) and thereupon carry out their own assessment according to their internal credit quality assessment methodology.
+
+5\. The revision of the internal credit quality assessment methodology shall constitute a material change as referred to in Article 19(4)(d) of Regulation (EU) 2017/1131, except if managers of MMFs can substantiate that the change is not material.
+
+### Article 9 — Quantitative and qualitative credit quality requirements for assets referred to in Article 15(6)(a) of Regulation (EU) 2017/1131
+
+Managers of MMFs shall apply Articles 3 to 8 of this Regulation when assessing the credit quality of the liquid transferable securities or money market instruments referred to in Article 15(6)(a) of Regulation (EU) 2017/1131.
+
+### Article 10
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 21 July 2018, with the exception of Article 1 which shall apply from 1 January 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( *1 ) Regulation (EU) 2017/2402 of the European Parliament and of the Council of 12 December 2017 laying down a general framework for securitisation and creating a specific framework for simple, transparent and standardised securitisation, and amending Directives 2009/65/EC, 2009/138/EC and 2011/61/EU and Regulations (EC) No 1060/2009 and (EU) No 648/2012 (OJ L 347, 28.12.2017, p. 35)’.
+
+( 1 ) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).
+
+( 2 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).
+
+( 3 ) Directive 2009/138/EC of the European Parliament and of the Council of 25 November 2009 on the taking-up and pursuit of the business of Insurance and Reinsurance (Solvency II) (OJ L 335, 17.12.2009, p. 1).
+
+( 4 ) Regulation (EU) No 648/2012 of the European Parliament and of the Council of 4 July 2012 on OTC derivatives, central counterparties and trade repositories (OJ L 201, 27.7.2012, p. 1).
+
+( 5 ) Regulation (EC) No 1060/2009 of the European Parliament and of the Council of 16 September 2009 on credit rating agencies (OJ L 302, 17.11.2009, p. 1).

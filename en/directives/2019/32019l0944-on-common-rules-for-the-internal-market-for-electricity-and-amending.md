@@ -26,11 +26,13 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) 2022/869 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 30 May 2022 </td><td> L 152</td><td>45</td><td>3.6.2022</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/1791 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 September 2023 </td><td> L 231</td><td>1</td><td>20.9.2023</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1711 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1711</td><td>1</td><td>26.6.2024</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2019/944 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

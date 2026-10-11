@@ -1,0 +1,257 @@
+---
+title: "Commission Regulation (EU) 2024/1487 of 29 May 2024 defining data requirements for the approval of safeners and synergists and establishing a work programme for the gradual review of safeners and synergists on the market in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council"
+identifier: "32024R1487"
+eli: "http://data.europa.eu/eli/reg/2024/1487/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-05-29
+entry_into_force: 2021-10-01
+last_amended: 2025-12-03
+consolidated_version: "02024R1487-20251203"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1487-20251203"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) 2024/1487 of 29 May 2024 defining data requirements for the approval of safeners and synergists and establishing a work programme for the gradual review of safeners and synergists on the market in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council
+
+**COMMISSION REGULATION (EU) 2024/1487**
+
+**of 29 May 2024**
+
+**defining data requirements for the approval of safeners and synergists and establishing a work programme for the gradual review of safeners and synergists on the market in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2025/2274 of 12 November 2025 </td><td> L 2274</td><td>1</td><td>13.11.2025</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) 2024/1487**
+
+**of 29 May 2024**
+
+**defining data requirements for the approval of safeners and synergists and establishing a work programme for the gradual review of safeners and synergists on the market in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## CHAPTER 1 — SUBJECT MATTER
+
+### Article 1 — Subject matter
+
+This Regulation establishes:
+
+(a) the work programme for the gradual review of the safeners and synergists already used in plant protection products on 19 June 2024 and procedures relating to that programme;
+
+(b) the data requirements that an application for the approval of a safener or a synergist needs to fulfil.
+
+## CHAPTER 2 — ESTABLISHMENT OF THE WORK PROGRAMME FOR THE GRADUAL REVIEW OF SAFENERS AND SYNERGISTS ALREADY ON THE MARKET, LIST THEREOF AND PROCEDURES FOR THEIR GRADUAL REVIEW
+
+### Article 2 — Establishment of the work programme
+
+The work programme for the gradual review of the safeners and synergists already used in plant protection products on 19 June 2024, set out in Annex I, is hereby established.
+
+### Article 3 — List of safeners and synergists already on the market
+
+1\. By 19 July 2024, the Commission shall publish, by electronic means and in a manner accessible to the general public, a list of all substances or preparations known to the Commission as being used as safeners or synergists contained in at least one plant protection product authorised for the placing on the market in at least one Member State on 19 June 2024.
+
+2\. By 19 December 2024, any interested party may submit a notification of further substances or preparations potentially used as safeners or synergists in plant protection products authorised for the placing on the market in at least one Member State on 19 June 2024.
+
+3\. The notification referred to in paragraph 2 shall include the information referred to in Sections 1.3, 1.4, 1.6 and 1.7 of Part A of the Annex to Commission Regulation (EU) No 283/2013 ( 1 ) and evidence that the notified substance or preparation is used as a safener or synergist in at least one plant protection product authorised in at least one Member State.
+
+The notification shall be submitted electronically to the Commission at the following address: sante-secteur-ppp@ec.europa.eu.
+
+4\. The Commission shall provide Member States and the Authority with a summary of the notifications received.
+
+Member States and the Authority may provide their comments to the Commission within 2 months from the date of being informed by the Commission.
+
+5\. The Commission shall update the list referred to in paragraph 1, taking into account the safeners and synergists contained in plant protection products authorised for the placing on the market in Member States on 19 June 2024 by 19 March 2025.
+
+### Article 4 — Request for inclusion in the work programme for gradual review
+
+1\. Any interested party wishing to submit an application, in accordance with Article 7 of Regulation (EC) No 1107/2009, for the approval of a safener or synergist included in the list referred to in Article 3(1), may submit a request for inclusion of that safener or synergist in the work programme for gradual review by 19 June 2025.
+
+The request shall be submitted electronically to the Commission at the following address: sante-secteur-ppp@ec.europa.eu, and contain the information listed in Annex II.
+
+2\. Within 1 month from receipt of a request for inclusion of a safener or synergist in the work programme for the gradual review, the Commission shall indicate, in the list referred to in Article 3(1) of this Regulation, that a request pursuant to the paragraph 1 of this Article has been made for the respective substance or preparation. It shall also inform those parties requesting the inclusion of a safener or synergist in the gradual review, of the contact details of other parties requesting the inclusion in the review of the same safener or synergist.
+
+### Article 5 — Non-inclusion of a safener or a synergist in the work programme for gradual review
+
+Where no request for inclusion in the work programme for gradual review is received for a safener or synergist listed in the list referred to in Article 3(1) within the deadline set out in Article 4(1), the Commission shall adopt a decision stating that the respective safener or synergist is not included in the work programme for gradual review.
+
+### Article 6 — Adoption of the work programme
+
+1\. From 19 July 2025, for any substance or preparation for which the Commission has indicated in the list of safeners and synergists referred to in Article 3(1) that a request for inclusion in the work programme for gradual review has been received, the person or persons requesting the inclusion of a safener or synergist shall be considered individually or collectively as the applicant for the approval of that safener or synergist within the meaning of Articles 7 to 13 of Regulation (EC) No 1107/2009.
+
+2\. By 19 December 2025, following consultation with Member States, the Commission shall adopt the work programme by amending Annex I to this Regulation, specifying the safeners and synergists included in the work programme and designating for each of them a rapporteur Member State and co-rapporteur Member State.
+
+### Article 7 — Data sharing, notification of intended studies and pre-submission advice
+
+1\. Applicants for the approval of the same safener or synergist shall undertake all reasonable efforts to submit a joint application, or to share relevant scientific data.
+
+2\. Following the amendment of Annex I to this Regulation, in accordance with Article 6(2), applicants for the approval of a safener or a synergist shall, without delay, in accordance with Article 32b(2) of Regulation (EC) No 178/2002 notify the Authority of the title and the scope of any study commissioned or carried out by them to support an application for the approval of a safener or a synergist, as well as the laboratory or testing facility carrying out that study, and its starting and planned completion dates.
+
+Applicants for the approval of a safener or synergist shall take, where possible, measures to minimise animal testing. As part of the notification process mentioned in the preceding subparagraph, applicants shall inform the Authority if any conducted or commissioned study incorporates the utilisation of alternative testing methods. The notification shall include details on the alternative methods employed and the rationale for their use.
+
+3\. Applicants for the approval of a safener or a synergist may, in accordance with Article 32a(1) of Regulation (EC) No 178/2002, request pre-submission advice from the Authority until the complete submission of their application. The Authority shall inform the rapporteur Member State of the request and they shall jointly provide general advice.
+
+### Article 8 — Submission and content of the application for approval of safeners and synergists in the work programme for gradual review
+
+1\. By 19 June 2028, applicants for the approval of a safener or a synergist shall, individually or collectively, submit the application for approval of the safeners or synergists to the rapporteur Member State. The application shall be in standard IUCLID data format and be submitted via the central submission system as specified in Article 7 of Commission Implementing Regulation (EU) 2020/1740 ( 2 ).
+
+2\. The application shall contain the data as required for safeners and synergists set out in Article 11.
+
+### Article 9 — Procedure for the evaluation of the admissibility of applications for safeners and synergists in the work programme for gradual review
+
+1\. The rapporteur Member State shall deem an application admissible if it satisfies the following criteria:
+
+(a) it has been submitted by the date set out, in accordance with the format and using the central submission system referred to in Article 8(1);
+
+(b) it contains all the elements set out in Article 11;
+
+(c) it contains all studies, in full, that have been previously notified in accordance with Article 32b of Regulation (EC) No 178/2002;
+
+(d) the relevant fee as set by the rapporteur Member State in accordance with Article 74 of Regulation (EC) No 1107/2009 has been paid.
+
+2\. The rapporteur Member State shall, within 45 days following the date specified in Article 8(1), inform the applicant, the co-rapporteur Member State, the Commission, and the Authority of the date of receipt of the application and of its admissibility.
+
+3\. If the application is not submitted by the date set out in Article 8(1), the rapporteur Member State shall promptly inform the applicant, the co-rapporteur Member State, the Commission, the other Member States and the Authority that the application is deemed inadmissible due to a missed deadline.
+
+4\. If an application is submitted by the date set out in Article 8(1), but does not satisfy the criteria set out in paragraph 1, point (b) or (d), the rapporteur Member State shall notify the applicant within 1 month from the date of receipt of the application of the specific elements that are missing and set a 14-day period for the submission of the missing elements via the central submission system referred to in Article 8(1).
+
+5\. If an application is submitted by the date set out in Article 8(1), but the application does not satisfy the criteria set out in paragraph 1, point (c), the rapporteur Member State shall, in cooperation with the Authority, inform the applicant within 1 month from the date of receipt of the application. The applicant shall be given a 14-day period to provide a valid justification for this non-compliance.
+
+6\. If the missing elements referred to in paragraph 4 or the valid justification referred to in paragraph 5 are not provided within the 14-day period, the application shall be deemed inadmissible and Article 32b(5) of Regulation (EC) No 178/2002 shall apply.
+
+7\. In case of such inadmissibility, the rapporteur Member State shall promptly inform the applicant, the co-rapporteur Member State, the Commission, the other Member States, and the Authority that the application is deemed inadmissible and of the reasons for the inadmissibility.
+
+8\. The assessment of the admissibility of a resubmitted application shall only commence after the 6-month period mentioned in Article 32b(5) of Regulation (EC) No 178/2002 has elapsed following the notification of the necessary studies and/or submission of studies, as applicable.
+
+### Article 10 — Data protection and confidentiality
+
+1\. When submitting test and study reports as part of an application for an authorisation for a plant protection product containing a safener or a synergist, the applicant may claim data protection pursuant to Article 59(3) of Regulation (EC) No 1107/2009.
+
+Article 59(1) and (2) of Regulation (EC) No 1107/2009 shall apply.
+
+2\. When submitting the application for the approval of a safener or a synergist, the applicants may submit a request, pursuant to Article 63(1) of Regulation (EC) No 1107/2009, to treat certain information, including certain parts of the dossier, as confidential and shall identify the confidential and non-confidential versions of the information submitted.
+
+Article 63(2), (2a), (2b) and (3) of Regulation (EC) No 1107/2009 shall apply.
+
+## CHAPTER 3 — DEFINITION OF DATA REQUIREMENTS FOR SAFENERS AND SYNERGISTS
+
+### Article 11 — Data requirements for safeners and synergists
+
+In addition to the data requirements set out in Article 8 of Regulation (EC) No 1107/2009, an application for the approval of a safeners or a synergist shall include:
+
+(a) the data as required for active substances pursuant to Regulation (EU) No 283/2013, and the supplementary data listed in Annex III to this Regulation;
+
+(b) the data as required for plant protection products pursuant to Commission Regulation (EU) No 284/2013 ( 3 ), and the supplementary data listed in Annex III to this Regulation;
+
+(c) where relevant, the identification and proposal of a residue definition for the purposes of risk assessment;
+
+(d) where relevant, a proposal for classification in one or more hazard classes in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council ( 4 );
+
+(e) where relevant, a justification for any IUCLID Validation Assistant check failures;
+
+(f) the summaries and results of scientific peer-reviewed open literature, as referred in Article 8(5) of Regulation (EC) No 1107/2009;
+
+(g) an assessment according to the current scientific and technical knowledge of all information submitted;
+
+(h) the identification and proposal for any necessary and appropriate risk mitigation measures;
+
+(i) all relevant information related to the notification of the studies as required in accordance with Article 32b of Regulation (EC) No 178/2002.
+
+## CHAPTER 4 — FINAL PROVISIONS
+
+### Article 12 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — List of safeners and synergists included in the work programme for gradual review as referred to in Article 6(2)
+
+| Safener | Common name, ISO-name, and/or synonyms | Chemical name (IUPAC and CA nomenclature) | CAS number | EC number | Rapporteur Member State (RMS) | Co-rapporteur Member State (Co-RMS) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Cloquintocet mexyl | Cloquintocet-mexyl | heptan-2-yl 2-(5-chloroquinolin-8-yl)oxyacetate | 99607-70-2 | 619-447-3 | ES | PT |
+| Cloquintocet | Cloquintocet | 2-[(5-chloroquinolin-8-yl)oxy]acetic acid | 88349-88-6 | 635-476-4 and 926-839-0 | ES | PT |
+| Cyprosulfamide | Cyprosulfamide | N-[4-(cyclopropylcarbamoyl)phenyl]sulfonyl-2-methoxybenzamide | 221667-31-8 | 619-679-5 | NL | BE |
+| Isoxadifen-ethyl | Isoxadifen-ethyl | ethyl 5,5-diphenyl-4H-1,2-oxazole-3-carboxylate | 163520-33-0 | 443-870-0 | AT | SI |
+| Mefenpyr-diethyl | Mefenpyr-diethyl | diethyl 1-(2,4-dichlorophenyl)-5-methyl-4H-pyrazole-3,5-dicarboxylate | 135590-91-9 | 603-923-2 | AT | DE |
+| Metcamifen | Metcamifen | 2-methoxy-N-{4-[(methylcarbamoyl)amino]benzenesulfonyl}benzamide | 129531-12-0 | 884-589-7 | IT | RO |
+| Synergist | Common name, ISO-name, and/or synonyms | Chemical name (IUPAC and CA nomenclature) | CAS number | EC number | Rapporteur Member State (RMS) | Co-rapporteur Member State (Co-RMS) |
+| Piperonyl butoxide | Piperonyl butoxide | 5-[2-(2-butoxyethoxy)ethoxymethyl]-6-propyl-1,3-benzodioxole | 51-03-6 | 200-076-7 | EL | DE |
+| Rape seed oil | Rape seed oil | Not available | 8002-13-9 | Not available | NL | FI |
+| Edetic acid (EDTA) | Edetic acid (EDTA) | 2,2',2",2"'-(Ethane-1,2-diyldinitrilo)tetraacetic acid | 60-00-4 | 200-449-4 | DK | PL |
+| Disodium EDTA dihydrate | Disodium EDTA dihydrate | disodium dihydrogen 2,2',2",2"'-(ethane-1,2- diyldinitrilo)tetraacetate dihydrate | 6381-92-6 | 205-358-3 | DK | PL |
+
+## ANNEX II
+
+**Content of notification of interest to apply for the approval of a safener or synergist as referred to in Article 4(1)**
+
+**1\. Identification data on the notifying party:**
+
+1.1. manufacturer of the substance (name, address, including location of plant);
+
+1.2. notifying company (name, address, etc.) (if different from 1.1):
+
+1.2.1. acting as sole representative designated by the manufacturer?: Yes/No;
+
+1.3. Identification of the contact person responsible for the notification and further engagements:
+
+1.3.1. Name;
+
+1.3.1.1. Postal address;
+
+1.3.1.2. Email;
+
+1.3.1.3. Primary phone number;
+
+1.3.1.4. Alternative phone number.
+
+**2\. Identification of the safener or synergist:**
+
+2.1. name of the safener or synergist;
+
+2.2. CAS number safener or synergist;
+
+2.3. EC number safener or synergist.
+
+## ANNEX III
+
+**Supplementary data requirements for submission of applications for the approval of safeners and synergists as referred to in Article 11(1), points (a) and (b)**
+
+1\. A description of the intended purpose of the use of the safener or synergist and the dose and manner of their use or proposed use.
+
+2\. An evaluation of the nature and extent of benefits that accrue from the presence of the safener or synergist following use of the plant protection product, in comparison to an untreated control and in comparison to the use of the same plant protection product not containing the safener or synergist.
+
+3\. Reports in summary form of preliminary tests, including glasshouse and field studies, used to assess the activity or dose range finding of the safeners or synergists contained in a plant protection product, when requested by the competent authority. These reports must provide additional information for the competent authority in order to justify the recommended dose of the safener or synergist, and when several are used their ratio.
+
+4\. Sufficient information to permit an evaluation of the level, duration and consistency of control or protection or other intended effects of the plant protection product.
+
+4.1. In case of safeners, the following three types of studies:
+
+(a) an investigation of the effects of a treatment on a representative use with a plant protection product containing the relevant safener in relation to the control of the target crop and effect on the treated plants or plant products;
+
+(b) an investigation of the effects of a treatment on a representative use with the same plant protection product without the relevant safener in relation to the control of the target crop and effect on the treated plants or plant products in order to prove that the safener eliminates or reduces phytotoxic effects of the plant protection product;
+
+(c) an investigation of the effects of a treatment on a representative use with the same plant protection product containing the relevant safener but no active substance in order to prove that the safener has no efficacy on its own.
+
+4.2. In case of synergists, the following three types of studies:
+
+(a) an investigation of the effects of a treatment on a representative use with a plant protection product containing the relevant synergist in relation to the control of the target organism and effect on the treated plants or plant products;
+
+(b) an investigation of the effects of a treatment on a representative use with the same plant protection product without the relevant synergist in relation to the control of the target organism and effect on the treated plants or plant products in order to prove that the synergist increases the efficacy of the product against the treated pests;
+
+(c) an investigation of the effects of a treatment on a representative use with the same plant protection product containing the relevant synergist but no active substance in order to prove that the synergist has no efficacy on its own.
+
+( 1 ) Commission Regulation (EU) No 283/2013 of 1 March 2013 setting out the data requirements for active substances, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market (OJ L 93, 3.4.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/283/oj).
+
+( 2 ) Commission Implementing Regulation (EU) 2020/1740 of 20 November 2020 setting out the provisions necessary for the implementation of the renewal procedure for active substances, as provided for in Regulation (EC) No 1107/2009 of the European Parliament and of the Council, and repealing Commission Implementing Regulation (EU) No 844/2012 (OJ L 392, 23.11.2020, p. 20, ELI: http://data.europa.eu/eli/reg_impl/2020/1740/oj).
+
+( 3 ) Commission Regulation (EU) No 284/2013 of 1 March 2013 setting out the data requirements for plant protection products, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market (OJ L 93, 3.4.2013, p. 85, ELI: http://data.europa.eu/eli/reg/2013/284/oj).
+
+( 4 ) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1, ELI: http://data.europa.eu/eli/reg/2008/1272/oj).

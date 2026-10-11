@@ -1,0 +1,588 @@
+---
+title: "Commission Delegated Regulation (EU) 2017/891 of 13 March 2017 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to penalties to be applied in those sectors and amending Commission Implementing Regulation (EU) No 543/2011"
+identifier: "32017R0891"
+eli: "http://data.europa.eu/eli/reg_del/2017/891/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2017-03-13
+entry_into_force: 2017-12-15
+last_amended: 2026-07-09
+consolidated_version: "02017R0891-20260709"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0891-20260709"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2017/891 of 13 March 2017 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to penalties to be applied in those sectors and amending Commission Implementing Regulation (EU) No 543/2011
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/891**
+
+**of 13 March 2017**
+
+**supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to penalties to be applied in those sectors and amending Commission Implementing Regulation (EU) No 543/2011**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2018/1145 of 7 June 2018 </td><td> L 208</td><td>1</td><td>17.8.2018</td></tr>
+<tr><td> M2</td><td> COMMISSION DELEGATED REGULATION (EU) 2020/743 of 30 March 2020 </td><td> L 176</td><td>1</td><td>5.6.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/652 of 10 February 2021 </td><td> L 135</td><td>4</td><td>21.4.2021</td></tr>
+<tr><td> M4</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/2245 of 12 October 2021 </td><td> L 453</td><td>3</td><td>17.12.2021</td></tr>
+<tr><td> M5</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/2092 of 25 August 2022 </td><td> L 281</td><td>18</td><td>31.10.2022</td></tr>
+<tr><td> M6</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/2513 of 26 September 2022 </td><td> L 326</td><td>6</td><td>21.12.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/2528 of 17 October 2022 </td><td> L 328</td><td>70</td><td>22.12.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2508 of 17 July 2024 </td><td> L 2508</td><td>1</td><td>24.9.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2184 of 10 September 2025 </td><td> L 2184</td><td>1</td><td>4.12.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/912 of 27 April 2026 </td><td> L 912</td><td>1</td><td>6.7.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/891**
+
+**of 13 March 2017**
+
+**supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to penalties to be applied in those sectors and amending Commission Implementing Regulation (EU) No 543/2011**
+
+## TITLE I — INTRODUCTORY PROVISIONS
+
+##### Article 1 — Subject matter and scope
+
+This Regulation supplements Regulation (EU) No 1308/2013 as regards the fruit and vegetables and processed fruit and vegetables sectors as referred to in Article 1(2)(i) and (j) of that Regulation, with the exception of marketing standards, and supplements Regulation (EU) No 1306/2013 as regards penalties to be applied in those sectors.
+
+However, Title II of this Regulation shall only apply to products of the fruit and vegetables sector as referred to in Article 1(2)(i) of Regulation (EU) No 1308/2013 and to such products intended for processing.
+
+## TITLE II — PRODUCER ORGANISATIONS
+
+### CHAPTER I — Requirements and recognition
+
+#### Section 1 — Definitions
+
+##### Article 2 — Definitions
+
+For the purposes of this Title the following definitions shall apply:
+
+(a) ‘producer’ means a farmer within the meaning of Article 4(1)(a) of Regulation (EU) No 1307/2013 of the European Parliament and of the Council ( 1 ) producing fruit and vegetables as referred to in Article 1(2)(i) of Regulation (EU) No 1308/2013 and such products intended solely for processing;
+
+(b) ‘producer member’ means a producer or legal entity constituted by producers that is a member of a producer organisation or association of producer organisations;
+
+(c) ‘subsidiary’ means a company in which one or more producer organisations or associations of producer organisations have taken shares or constituted capital and which contributes to the objectives of those organisations or associations;
+
+(d) ‘transnational producer organisation’ and a ‘transnational association of producer organisations’ means a producer organisation and an association of producer organisations complying with the definitions laid down in Article 2, points (a) and (b), of Commission Delegated Regulation (EU) 2016/232 ( 2 ), respectively;
+
+If not otherwise specified, the reference in this Regulation to producer organisations includes transnational producer organisations and the reference to associations of producer organisations includes transnational associations of producer organisations.
+
+#### Section 2 — Recognition criteria and other requirements
+
+##### Article 3 — Legal status of producer organisations
+
+Member States shall define the legal entities which may apply for recognition pursuant to Article 154 of Regulation (EU) No 1308/2013 in the light of their national legal and administrative structures. Where applicable, they shall also lay down provisions on clearly defined parts of legal entities which may apply for recognition pursuant to that Article. Member States may adopt complementary rules on recognition of producer organisations and on legal entities which may apply for recognition as producer organisations.
+
+##### Article 4 — Product coverage
+
+1\. Member States shall recognise producer organisations in respect of the product or the group of products specified in the application for recognition.
+
+2\. Member States shall recognise producer organisations in respect of a product or group of products solely intended for processing where the producer organisations are able to ensure that such products are either processed by themselves, by a subsidiary or are delivered for processing through a system of supply contracts.
+
+##### Article 5 — Minimum number of members
+
+For the purposes of Article 154(1)(b) of Regulation (EU) No 1308/2013, Member States shall lay down a minimum number of members.
+
+When laying down the minimum number of members of a producer organisation, Member States may provide that where an applicant for recognition is wholly or partly made up of members which are themselves legal entities or clearly defined parts of legal entities made up of producers, the minimum number of producers may be calculated on the basis of the number of producers associated with each of the legal entities or clearly defined parts of legal entities.
+
+##### Article 6 — Minimum length of membership
+
+1\. The minimum membership period of a producer shall not be less than one year.
+
+2\. Resignation from membership shall be notified to the producer organisation in writing. Member States shall lay down the notice period, which shall not exceed six months, and the date on which resignation shall take effect.
+
+##### Article 7 — Structures and activities of producer organisations
+
+Member States shall verify that producer organisations have at their disposal the staff, infrastructure and equipment necessary to fulfil the requirements laid down in Articles 152, 154 and 160 of Regulation (EU) No 1308/2013 and to ensure their essential functioning, in particular as regards:
+
+(a) the knowledge of their members' production;
+
+(b) the technical means for collecting, sorting, storing and packaging the production of their members;
+
+(c) marketing the production of their members;
+
+(d) commercial and budgetary management; and
+
+(e) centralised cost-based accounting and a system of invoicing according to national law.
+
+##### Article 8 — Value or volume of marketable production
+
+1\. For the purposes of determining the size of the producer organisation in accordance with Article 154(1), point (b), of Regulation (EU) No 1308/2013, the value or volume of marketable production shall be calculated on the same basis as the value of marketed production set out in Articles 30 and 31 of Commission Delegated Regulation (EU) 2022/126 ( 3 ).
+
+2\. In circumstances when the historical data on marketed production of a member for the application of paragraph 1 is not sufficient, the value of the marketable production shall be equal to the actual value of marketed production during a period of 12 consecutive months. Those 12 months shall fall within the three years preceding the year in which the application for recognition is submitted.
+
+##### Article 9 — Minimum value of marketed production
+
+For the purposes of Article 154(1)(b) of Regulation (EU) No 1308/2013, Member States shall, in addition to a minimum number of members, lay down a minimum value of marketed production for producer organisations implementing an operational programme.
+
+##### Article 10 — Provision of technical means
+
+For the purposes of Article 154(1)(c) of Regulation (EU) No 1308/2013 and Article 7(b) of this Regulation, a producer organisation which is recognised for a product for which the provision of technical means is necessary, shall be considered to fulfil its obligation in that regard, where it provides an adequate level of technical means itself or through its members, or through subsidiaries, or through an association of producer organisations of which it is a member or by outsourcing.
+
+##### Article 11 — Producer organisations' main activities
+
+1\. The main activity of a producer organisation shall relate to the concentration of supply and the placing on the market of the products of its members for which it is recognised.
+
+The placing on the market referred to in the first subparagraph shall be carried out by the producer organisation, or under the control of the producer organisation in the case of outsourcing as set out in Article 13. Placing on the market shall include among others the decision on the product to be sold, the way of selling and unless the sale is by means of auction, the negotiation of its quantity and price.
+
+Producer organisations shall keep records, including accounting documents, for at least five years, which demonstrate that the producer organisation concentrated supply and placed on the market members' products for which it is recognised.
+
+2\. A producer organisation may sell products of producers that are not members of the producer organisation or of an association of producer organisations, where it is recognised in respect of those products and provided that the economic value of that activity is below the value of its marketed production calculated in accordance with Article 31 of Delegated Regulation (EU) 2022/126.
+
+However, in case the value of marketed production of a producer organisation decreases by 35 % or more for a given year in relation to the average of the three previous 12-month reference periods due to natural disasters, climatic events, plant diseases or pest infestations falling outside the responsibility and control of the producer organisation, the value of marketed production shall be deemed to represent 85 % of the average value of marketed production in the three previous 12-month reference periods, for the purpose of establishing the economic value of the activity referred to in the first subparagraph.
+
+The producer organisation affected by the events referred to in the second subparagraph and involved in selling products of producers that are not its members, shall prove to the competent authority of the Member State concerned that the decrease in the value of marketed production fell outside its responsibility and control.
+
+3\. The marketing of fruit and vegetables that are bought directly from another producer organisation and of products for which the producer organisation is not recognised shall not be considered as forming part of the producer organisation's activities.
+
+4\. Where Article 31(7) of Delegated Regulation (EU) 2022/126  applies, paragraph 2 of this Article shall apply mutatis mutandis to the subsidiaries concerned.
+
+##### Article 12 — Marketing of the production outside the producer organisation
+
+1\. Where the producer organisation so authorises in its statutes and where this is in compliance with the terms and conditions laid down by the Member State and the producer organisation, the producer members may:
+
+(a) sell products directly or outside their holdings to consumers for their personal needs;
+
+(b) market by themselves or through another producer organisation designated by their own producer organisation, quantities of products which, in terms of volume or value, are marginal compared to the volume or value of marketable production of their organisation of the products concerned;
+
+(c) market by themselves or through another producer organisation designated by their own producer organisation, products which because of their characteristics or because of the limited production in volume or in value of the producer members, are normally not covered by the commercial activities of the producer organisation.
+
+2\. The percentage of the production that the producer members market outside the producer organisation, as referred to in paragraph 1 shall not exceed 25 % in volume or in value of the marketable production of each producer member.
+
+However, Member States may set a lower percentage of the production that the producer members may market outside the producer organisation than the one set out in the first subparagraph. Member States may increase that percentage up to 40 % in case of products covered by Council Regulation (EC) No 834/2007 ( 4 ) or where producer members market their production through another producer organisation designated by their own producer organisation.
+
+##### Article 13 — Outsourcing
+
+1\. The activities that a Member State may permit to be outsourced in accordance with Article 155 of Regulation (EU) No 1308/2013 shall relate to the objectives as set out in Article 152(1)(c) of that Regulation and may include, among others, collecting, storing, packaging and marketing the product of the members of the producer organisation.
+
+For the purposes of Article 155 of Regulation (EU) No 1308/2013, the term ‘subsidiary’ includes any entity in a chain of subsidiaries. However, Member States may exclude the outsourcing of activities to an entity within a chain of subsidiaries.
+
+2\. A producer organisation outsourcing an activity shall enter into a written commercial arrangement by way of a contract, agreement or protocol with another entity, including one or several of its members or a subsidiary or an entity within a chain of subsidiaries, for the purpose of carrying out of the activity concerned. The producer organisation shall remain responsible for ensuring the carrying out of the outsourced activity and overall management control and supervision of the commercial arrangement for the carrying out of the activity.
+
+However, the activity shall be considered as carried out by the producer organisation if it is carried out by an association of producer organisations or a cooperative whose members are themselves cooperatives where the producer organisation is a member thereof or by a subsidiary or an entity within a chain of subsidiaries, complying with the 90 % requirement referred to in Article 31(7) of Delegated Regulation (EU) 2022/126  .
+
+3\. The overall management control and supervision referred to in the first subparagraph of paragraph 2 shall be effective and require that the outsourcing contract, agreement or protocol:
+
+(a) enables the producer organisation to issue binding instructions and includes provisions enabling the producer organisation to terminate the contract, agreement or protocol if the service provider does not meet the terms and conditions of the outsourcing contract;
+
+(b) lays down detailed terms and conditions, including regular reporting obligations and deadlines which enable the producer organisation to exercise effective control over the outsourced activities.
+
+Outsourcing contracts, agreements or protocols as well as the reports referred to in point (b) of the first subparagraph shall be kept by the producer organisation for at least 5 years for the purpose of ex-post checks and be accessible to all members on request.
+
+##### Article 14 — Transnational producer organisations
+
+1\. The head office of a transnational producer organisation shall be located in the Member State in which the transnational producer organisation achieves the majority of the value of marketed production calculated in accordance with Articles 31 and 32 of Delegated Regulation (EU) 2022/126.
+
+Alternatively, the head office may be established in the Member State where the majority of producer members are located, if the Member States concerned so agree.
+
+2\. Where the transnational producer organisation implements an operational programme and where, at the moment of applying for a new operational programme, the majority of the value of marketed production is achieved in another Member State or where the majority of the producer members are located in a Member State other than that where the head office of that transnational producer organisation is located, the head office shall be maintained in the current Member State until the end of the implementation of the new operational programme.
+
+However, if at the end of the implementation of that new operational programme, the majority of the value of marketed production is still achieved or the majority of the organisation's members are still located in a Member State other than that where the head office is currently located, the head office shall be transferred to that other Member State, unless the Member States concerned agree that the location of the head office shall not be changed.
+
+3\. The Member State in which the head office of the transnational producer organisation is located shall be responsible for the following:
+
+(a) recognising the transnational producer organisation;
+
+(c) establishing the necessary administrative cooperation with the other Member States in which the members are located with respect to compliance with the terms of recognition and the system of checks and administrative penalties. Those other Member States shall give all necessary assistance to the Member State in which the head office is located in due time; and
+
+(d) providing, on the request of a Member State in which the members are located, all relevant documentation, including any applicable legislation available, translated into the official language or one of the official languages of that Member State.
+
+##### Article 15 — Mergers of producer organisations
+
+1\. Where producer organisations merge, the producer organisation resulting from the merger shall assume the rights and obligations of the individual producer organisations that merged. The Member State shall ensure that the producer organisation resulting from the merger complies with all recognition criteria and maintains one of the existing numbers or is assigned a new number for the purposes of the unique identification system referred to in Article 22 of Implementing Regulation (EU) 2017/892.
+
+The producer organisation resulting from the merger may either operate the programmes in parallel and separately until 1 January of the year following the merger, or merge the operational programmes from the moment of the merger.
+
+Article 34 of this Regulation shall apply to operational programmes that are merged.
+
+2\. By way of derogation from the second subparagraph of paragraph 1, Member States may authorise on the basis of a duly substantiated request, operational programmes to continue to be implemented in parallel until they reach their natural conclusion.
+
+##### Article 16 — Non-producer members
+
+1\. Member States may determine the conditions under which any natural or legal person who is not a producer may be accepted as a member of a producer organisation.
+
+2\. When setting the conditions referred to in paragraph 1, Member States shall ensure, in particular, compliance with Article 153(2)(c) and Article 159(a)(i) of Regulation (EU) No 1308/2013.
+
+3\. The natural or legal persons referred to in paragraph 1 shall not:
+
+(a) be taken into account for the recognition criteria;
+
+(b) benefit directly from the measures financed by the Union.
+
+Member States may restrict or prohibit the natural or legal persons' right to vote on decisions relating to operational funds, in line with the conditions referred to in paragraph 1.
+
+##### Article 17 — Democratic accountability of producer organisations
+
+1\. Where a producer organisation has a legal structure requiring democratic accountability under the applicable national legislation, it shall be considered to fulfill this requirement for the purposes of this Regulation unless the Member State decides otherwise.
+
+2\. For producer organisations other than the one referred to in paragraph 1, Member States shall set a maximum percentage of voting rights and shares or capital which any natural or legal person may hold in a producer organisation. The maximum percentage of voting rights and shares or capital shall be below 50 % of the total voting rights and below 50 % of the shares or capital.
+
+In duly justified cases, Member States may set a higher maximum percentage of shares or capital that a legal person may hold in a producer organisation provided that measures are adopted to ensure that an abuse of power by such legal person is in any case avoided.
+
+By way of derogation from the first subparagraph, in the case of producer organisations implementing an operational programme on 17 May 2014, the maximum percentage of shares or capital set by the Member State pursuant to the first subparagraph shall only apply after the end of that operational programme.
+
+3\. Member States' authorities shall carry out checks, based on a risk analysis, on voting rights and shareholdings. Where the members of the producer organisation are legal persons themselves, these checks shall include the identities of the natural or legal persons that hold shares or capital of the members.
+
+4\. Where a producer organisation is a clearly defined part of a legal entity, Member States shall adopt measures to restrict or prohibit the powers of that legal entity to modify, approve or reject decisions of the producer organisation.
+
+#### Section 3 — Associations of producer organisations
+
+##### Article 18 — Rules on producer organisations applicable to associations of producer organisations
+
+Articles 3, 6, 11(3), 13, 15 and 17 shall apply mutatis mutandis to associations of producer organisations. Where the association of producer organisations sells the products of its member producer organisations, Article 11(2) shall apply mutatis mutandis.
+
+##### Article 19 — Recognition of associations of producer organisations
+
+1\. Member States may recognise associations of producer organisations under Article 156 of Regulation (EU) No 1308/2013 in respect of the activity or activities concerning the product or the group of products specified in the application for recognition where the association of producer organisations is capable of carrying out effectively those activities.
+
+2\. An association of producer organisations recognised under Article 156 of Regulation (EU) No 1308/2013 may carry out any of the activities or functions of a producer organisation, even when the marketing of the products concerned continues to be carried out by its members.
+
+3\. For a given product or group of products and activity, a producer organisation shall be a member only of one association of producer organisations that implements an operational programme.
+
+4\. Member States may adopt complementary rules on recognition of associations of producer organisations.
+
+##### Article 20 — Members of associations of producer organisations who are not producer organisations
+
+1\. Member States may determine the conditions under which natural or legal persons other than a recognised producer organisation may be a member of an association of producer organisations.
+
+2\. Members of a recognised association of producer organisations who are not recognised producer organisations shall not:
+
+(a) be taken into account for the recognition criteria;
+
+(b) benefit directly from the measures financed by the Union.
+
+Member States may permit, restrict or prohibit those members' right to vote on decisions relating to operational programmes.
+
+##### Article 21 — Transnational association of producer organisations
+
+1\. The head office of a transnational association of producer organisations shall be located in the Member State in which the member producer organisations achieve the majority of the value of marketed production.
+
+Alternatively, the head office may be established in the Member State where the majority of member producer organisations are located, if the Member States concerned so agree.
+
+2\. Where the transnational association of producer organisations implements an operational programme and where, at the moment of applying for a new operational programme, the majority of the value of marketed production is achieved in another Member State or where the majority of member producer organisations are located in a Member State other than that where the head office of that transnational association is located, the head office shall be maintained in the current Member State until the end of the implementation of the new operational programme.
+
+However, if at the end of the implementation of that new operational programme, the majority of the value of marketed production is still achieved or the majority of member producer organisations are still located in a Member State other than that where the head office is currently located, the head office shall be transferred to that other Member State, unless the Member States concerned agree that the location of the head office shall not be changed.
+
+3\. The Member State in which the head office of the transnational association of producer organisations is located shall be responsible for the following:
+
+(a) recognising the association;
+
+(c) establishing the necessary administrative cooperation with the other Member States in which the associated organisations are located with respect to compliance with the terms of recognition, the implementation of the operational programme by the member producer organisations and the system of checks and administrative penalties. Those other Member States shall give all necessary assistance to the Member State in which the head office is located; and
+
+(d) providing, on the request of a Member State in which the members are located, all relevant documentation, including any applicable legislation available, translated into the official language or one of the official languages of that Member State.
+
+### CHAPTER II — Operational funds and operational programmes
+
+#### Section 1 — Value of marketed production
+
+#### Section 2 — Operational funds
+
+#### Section 3 — Operational programmes
+
+#### Section 4 — Aid
+
+### CHAPTER III — Crisis prevention and management measures
+
+#### Section 1 — General provisions
+
+#### Section 2 — Investments making the management of the volumes placed on the market more efficient
+
+#### Section 3 — Support related to mutual funds
+
+#### Section 4 — Replanting of orchards following mandatory grubbing-up
+
+#### Section 5 — Market withdrawals
+
+#### Section 6 — Green harvesting and non-harvesting
+
+#### Section 7 — Harvest insurance
+
+#### Section 8 — Support related to coaching
+
+### CHAPTER IV — National financial assistance
+
+### CHAPTER V — General provisions
+
+#### Section 1 — Notifications and reports
+
+##### Article 55 — Notification of producer prices of fruit and vegetables on the internal market
+
+1\. Member States shall notify the Commission, by 12.00 hours (Brussels time) each Wednesday, of the producer prices recorded in representative markets of the production areas of the fruit and vegetables concerned during the previous week, where data are available, as follows:
+
+(a) for fruit and vegetables covered by the general marketing standard set out in Part A of Annex I to Commission Delegated Regulation (EU) 2023/2429 ( 5 ), the price of products meeting that standard;
+
+(b) for products covered by a specific marketing standard set out in Part B of Annex I to Delegated Regulation (EU) 2023/2429, the price of products of class I.
+
+Member States shall only notify prices of fruit and vegetables produced within their territory. The prices shall cover conventional, non-organic fruit and vegetables intended for the fresh market.
+
+2\. Regarding the requirement referred to in paragraph 1, Member States shall notify the weighted average price for each product, their types, varieties and sizes or packaging presentations referred to in Annex VI to this Regulation, if applicable. Additionally, for prices reported by type, variety and, where applicable, size and packaging presentations, a national weighted average price per product, except for tomatoes, shall also be notified. Where recorded prices concern other types, varieties, sizes or packaging presentations than those specified in Annex VI, Member States shall notify the Commission of the types, varieties, sizes and presentations of the products concerned.
+
+3\. The notified prices shall be ex-packaging station, sorted, packaged and, where applicable, on pallets, expressed in euro per 100 kilograms net weight.
+
+4\. Member States may notify the price as specified in paragraph 2 of other fruit and vegetables and their varieties not mentioned in Annex VI on a voluntary basis.
+
+5\. Member States shall notify the Commission, within six months after the date of the notification, of the methodology used to establish the prices referred to in paragraph 2, including the representative markets and their weights, as well as any modification thereof.
+
+#### Section 2 — Monitoring and evaluation of operational programmes and of national strategies
+
+#### Section 3 — Administrative penalties
+
+##### Article 59 — Non-respect of recognition criteria
+
+1\. If a Member State has established that a producer organisation fails to respect one of the recognition criteria linked to the requirements laid down in Articles 5 and 7, Article 11(1) and (2) and Article 17, it shall send to the producer organisation in question no later than two months after the failure has been identified, by registered delivery, a warning letter stating the failure identified, the corrective measures required and the time periods within which those measures have to be taken, which shall not exceed four months. Once a failure is established, Member States shall suspend the payments of aid granted to fruit and vegetables producer organisations for the implementation of operational programmes referred to in Article 50 of Regulation (EU) 2021/2115 of the European Parliament and of the Council ( 6 ) or in Article 5(6), first subparagraph, point (c), of Regulation (EU) 2021/2117 of the European Parliament and of the Council ( 7 ), until satisfactory corrective measures are taken.
+
+2\. A failure to take the corrective measures referred to in paragraph 1 within the time period fixed by the Member State shall lead to the suspension of the recognition of the producer organisation. The Member State shall notify the producer organisation of the period of suspension, which shall start immediately after the expiry of the time period fixed for taking those corrective measures and shall not exceed 12 months from the date of the receipt of the warning letter by the producer organisation. This is without prejudice to the application of horizontal national legislation which may provide for the suspension of such an action following the commencement of connected legal proceedings.
+
+During the suspension of the recognition, the producer organisation may continue its activity, but aid payments shall be withheld until the suspension of the recognition is lifted. The yearly aid amount shall be reduced by 2 % for each calendar month or part thereof during which recognition is suspended.
+
+The suspension shall end on the day of the check which confirms that the recognition criteria in question have been fulfilled.
+
+3\. If the criteria are not fulfilled by the end of the period of suspension set by the competent authority of the Member State, the Member State shall withdraw the recognition with effect from the date from which the conditions for recognition were not fulfilled, or, if it is not possible to identify that date, from the date when the failure was established. This is without prejudice to the application of horizontal national legislation which may provide for the suspension of recognition following the commencement of connected legal proceedings. Outstanding aid concerning the period during which the failure has been identified shall not be paid and unduly paid aid shall be recovered.
+
+4\. If a Member State has established that a producer organisation fails to respect any of the recognition criteria laid down in Article 154 of Regulation (EU) No 1308/2013 other than those mentioned in paragraph 1, it shall send to the producer organisation in question, no later than two months after the failure has been established, by registered delivery, a warning letter stating the failure identified, the corrective measures required and the time periods within which these measures have to be taken, which shall not exceed four months.
+
+5\. A failure to take the corrective measures referred to in paragraph 4 within the time period fixed by the Member State shall lead to a suspension of the payments of aid granted to fruit and vegetables producer organisations for the implementation of operational programmes referred to in Article 50 of Regulation (EU) 2021/2115 or in Article 5(6), first subparagraph, point (c), of Regulation (EU) 2021/2117 and a reduction of the yearly aid amount by 1 % for each entire month and each fraction of a month, following the expiry of that time period. This is without prejudice to the application of horizontal national legislation which may provide for the suspension of such an action following the commencement of connected legal proceedings.
+
+6\. Member States shall withdraw recognition if the producer organisation does not prove compliance with the minimum volume or value of marketed production criteria as required by Article 154(1)(b) of Regulation (EU) No 1308/2013 by 15 October of the second year following the year in which those criteria were not complied with. Withdrawal shall take effect from the date from which the conditions for recognition were not fulfilled, or, if it is not possible to identify that date, from the date when the failure was established. Outstanding aid concerning the period during which the failure has been identified shall not be paid and unduly paid aid shall be recovered.
+
+However, when a producer organisation delivers to the Member State proof that due to natural disasters, adverse climatic events, diseases or pest infestations, despite having undertaken the risk prevention measures it is not able to respect the recognition criteria laid down in Article 154(1)(b) of Regulation (EU) No 1308/2013 in respect of the minimum volume or value of marketable production laid down by Member States, the Member State may, for the year in question, derogate from the minimum volume or value of marketable production for this producer organisation.
+
+### CHAPTER VI — Extension of rules
+
+##### Article 68 — Conditions for the extension of rules
+
+1\. Article 164 of Regulation (EU) No 1308/2013 shall apply to products of the fruit and vegetables and processed fruit and vegetables sectors provided that the rules referred to in paragraph 4 of that Article:
+
+(a) have been in force for at least one year;
+
+(b) are made binding for no more than three years.
+
+However, Member States may derogate from the condition laid down in point (a) of the first subparagraph of this paragraph where the aim of the rules to be extended is one of those referred to in points (a), (e), (f), (h), (i) (j), (m) and (n) of the first subparagraph of Article 164(4) of Regulation (EU) No 1308/2013.
+
+2\. The rules which are made binding on all producers in a specific economic area shall not apply to products delivered for processing under a contract signed before the beginning of the harvest, unless the extension of rules expressly covers such products, with the exception of the rules on market reporting referred to in point (a) of the first subparagraph of Article 164(4) of Regulation (EU) No 1308/2013.
+
+3\. Rules of producer organisations or associations of producer organisations may not be made binding on producers of organic products covered by Regulation (EC) No 834/2007 unless they have been agreed by at least 50 % of producers covered by that Regulation in the economic area in which the producer organisation or the association of producer organisations operates and that organisation or association covers at least 60 % of such production of that area.
+
+4\. The rules referred to in point (b) of the first subparagraph of Article 164(4) of Regulation (EU) No 1308/2013 shall not apply to products which were produced outside the specific economic area referred to in Article 164(2) of that Regulation.
+
+##### Article 69 — National rules
+
+1\. For the purposes of Article 164(2) of Regulation (EU) No 1308/2013, Member States may decide that the economic area that is taken into account in the case of extension of rules of an interbranch organisation is a region or the entire national territory where production and marketing conditions are homogenous.
+
+2\. For the purpose of determining representativeness of producer organisations and associations of producer organisations within the meaning of Article 164(3) of Regulation (EU) No 1308/2013, Member States shall lay down rules excluding:
+
+(a) producers whose production is intended essentially for direct sale to consumers on the holding or in the production area;
+
+(b) direct sales as referred to in point (a);
+
+(c) produce delivered for processing under a contract signed before the beginning of the harvest, unless the extended rules expressly cover such products;
+
+(d) producers or production of organic products covered by Regulation (EU) 2018/848 of the European Parliament and of the Council ( 8 ), unless the extension of rules in accordance with Article 164 of Regulation (EU) No 1308/2013 expressly and specifically covers such producers or products.
+
+##### Article 71 — Repeal of extension of rules
+
+The Commission shall adopt the decision referred to in Article 175(d) of Regulation (EU) No 1308/2013 requiring a Member State to repeal an extension of rules decided on by that Member State pursuant to Article 164(1) of that Regulation where it finds that:
+
+(a) the decision of the Member State excludes competition in a substantial part of the internal market or jeopardises the free trade, or that the objectives of the Article 39 of the Treaty are endangered;
+
+(b) Article 101(1) of the Treaty applies to the rules extended to other producers;
+
+(c) the provisions of this Chapter have not been complied with.
+
+The Commission's decision with regard to those rules shall apply from the date of the notification of such a finding to the Member State concerned.
+
+##### Article 72 — Buyers of produce sold on the tree
+
+1\. In cases where producers not belonging to a producer organisation sell their produce on the tree, the buyer shall, for the purposes of compliance with the rules regarding production reporting and marketing, be considered as having produced that produce.
+
+2\. The Member State concerned may decide that rules other than those referred to in paragraph 1 may be made binding on buyers where they are responsible for the management of the production concerned.
+
+## TITLE III — TRADE WITH THIRD COUNTRIES ENTRY PRICE SYSTEM
+
+##### Article 73 — Definitions
+
+For the purposes of this Chapter:
+
+(a) ‘lot’ means the goods presented under a declaration of release for free circulation, covering only goods of the same origin falling within one single CN code; and
+
+(b) ‘importer’ means the declarant within the meaning of Article 5(15) of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 9 ); and
+
+(c) ‘market week’ means the period from Monday to Friday of the week preceding the deadline for notification by Member States to the Commission in accordance with Article 74.
+
+##### Article 74 — Notification of weighted average representative prices and quantities of imported products
+
+1\. For each product and for the periods set out in Part A of Annex VII, for each market week and origin, Member States shall notify the Commission, by 18:00 (Brussels times) each Monday of the quantity and weighted average representative price of the imported products sold in the Member States during the previous market week.
+
+For the products for which the period of application referred to in Part A of Annex VII does not cover the entire year, the first market week for which the prices shall be notified is the second week before the beginning of the period of application. For those products, the last market week whose prices shall be notified is the week preceding the end date of the period of application.
+
+2\. The price referred to in paragraph 1, first subparagraph, shall be recorded for all the available varieties and sizes, at the importer or wholesaler stage for each import market or, where no prices at that stage are available, the wholesaler or retailer stage.
+
+It shall be recorded for each import market that Member States consider representative, and which shall include at least Milan, Perpignan and Rungis or, where no import markets are defined by the Member States, the weighted average representative price shall be recorded at national level.
+
+Where the weighted average representative price is established at the wholesaler or retailer stage, it shall be reduced by:
+
+(a) 9 % to take into account the wholesaler’s trade margin; and
+
+(b) EUR 0,7245 per 100 kilograms in respect of the costs of handling and market taxes and charges.
+
+3\. The weighted average representative prices shall be reduced by the following amounts:
+
+(a) a marketing margin of 15 % for the marketing centres Milan and Rungis and of 8 % for other marketing centres; and
+
+(b) the costs of transport and insurance within the customs territory of the Union.
+
+4\. For the costs of transport and insurance to be deducted pursuant to paragraph 3, point (b), Member States may fix standard amounts for deduction. Such standard amounts and the methods for calculating them, as well as possible modification thereof, shall be notified to the Commission immediately.
+
+5\. For products listed in Part A of Annex VII covered by a specific marketing standard, the representative prices shall be the weighted average of Class I and Class II of each product concerned, unless products in one class account for at least 90 % of the total quantities marketed, in which case only the quotations for that class shall be taken into account.
+
+For products listed in Part A of Annex VII that are not covered by a specific marketing standard, product prices complying with the general marketing standard shall be deemed to be representative.
+
+6\. Where the quantity referred to in paragraph 1, first subparagraph, for a product is less than 10 tonnes in a market week, the corresponding weighted average representative price shall not be notified to the Commission. The threshold of 10 tonnes shall be intended as the cumulative volume over the market week. If the market week has less than five working days, Member States shall apply a proportional reduction of 2 tonnes per non-working day to that threshold.
+
+##### Article 75 — Entry price basis
+
+1\. For the purposes of Article 181(1) of Regulation (EU) No 1308/2013, the products of the fruit and vegetables and processed fruit and vegetables sectors referred to in that Article shall be those listed in Annex VII to this Regulation.
+
+2\. Where the customs value of the products listed in Part A of Annex VII to this Regulation and determined in accordance with Article 70 of Regulation (EU) No 952/2013 is higher by more than 8 % than the flat-rate calculated by the Commission as a standard import value at the time of the declaration of release of the products for free circulation, the importer shall provide a guarantee in accordance with Article 148 of Commission Implementing Regulation (EU) 2015/2447 ( 10 ). The guarantee shall apply during the period of application determined in Annex VII to this Regulation for each product. The import duty to which the products listed in Part A of Annex VII to this Regulation may be subjected, shall be the amount of the duty due if the product in question had been classified on the basis of the standard import value concerned.
+
+The first subparagraph shall not apply when the standard import value is higher than the entry prices listed in Annex 2 of Section I of Part Three of Annex I to Council Regulation (EEC) No 2658/87 ( 11 ), or where the declarant requests the immediate entry in the accounts of the amount of duties to which the goods may ultimately be liable instead of providing a guarantee.
+
+3\. Where the customs value of the products listed in Part A of Annex VII to this Regulation is calculated in accordance with Article 74(2), point (c), of Regulation (EU) No 952/2013, the duty shall be deducted as provided for in Article 38(1) of Implementing Regulation (EU) 2017/892. In that case, for the period of application determined in Annex VII to this Regulation for each product, the importer shall provide a guarantee equal to the amount of duty which they would have paid if the classification of the products had been made on the basis of the standard import value applicable.
+
+4\. The customs value of the goods imported on consignment shall be directly determined in accordance with Article 74(2)(c) of Regulation (EU) No 952/2013, and for this purpose, the standard import value calculated in accordance with Article 38 of Implementing Regulation (EU) 2017/892 shall apply during the periods in force.
+
+5\. The importer shall have one month from the sale of the products in question, subject to a limit of four months from the date of acceptance of the declaration of release for free circulation, to prove that the lot was disposed of under the conditions confirming the correctness of the prices referred to in Article 70 of Regulation (EU) No 952/2013, or to determine the customs value referred to in Article 74(2)(c) of that Regulation.
+
+Failure to meet one of these deadlines shall entail the loss of the guarantee provided, without prejudice to the application of paragraph 6.
+
+The guarantee provided shall be released to the extent that proof of the conditions of disposal is provided to the satisfaction of the customs authorities. Otherwise the guarantee shall be forfeit by way of payment of the import duties.
+
+In order to prove that the lot was disposed of under the conditions set out in the first subparagraph, the importer shall make available, in addition to the invoice, all documents needed for the carrying out of the relevant customs controls in relation to the sale and disposal of each product of the lot in question, including documents relating to the transport, insurance, handling and storage of the lot.
+
+Where the marketing standards referred to in Article 3 of Implementing Regulation (EU) No 543/2011 require the product variety or the type of the fruit and vegetables to be indicated on the packaging, the product variety or the type of the fruit and vegetables that form part of the lot shall be indicated on documents related to transport, invoices and the delivery order.
+
+6\. The time limit of four months referred to in the first subparagraph of paragraph 5 may be extended by the competent authorities of the Member State by a maximum of three months at the request of the importer, which must be duly justified.
+
+If on verification, the competent authorities of the Member States establish that the requirements of this Article have not been met, they shall recover the duty due in accordance with Article 105 of Regulation (EU) No 952/2013. The amount of the duty to be recovered or remaining to be recovered shall include interest from the date the goods were released for free circulation up to the date of recovery. The interest rate applied shall be that in force for recovery operations under national law.
+
+## TITLE IV — GENERAL, TRANSITIONAL AND FINAL PROVISIONS
+
+##### Article 77 — Notifications
+
+1\. Member States shall designate a single competent authority or body responsible for fulfilling the notification obligations with respect to each one of the following topics:
+
+(b) producer prices of fruit and vegetables on the internal market, as provided for in Article 55;
+
+(c) prices and quantities of the products imported from third countries and sold on the representative import markets referred to in Article 74;
+
+(d) import volumes put into free circulation, as provided for in Article 39 of Implementing Regulation (EU) 2017/892.
+
+2\. Member States shall notify the Commission of the designation and the contact details of the authority or body concerned, and every change of this information.
+
+The list of the designated authorities or bodies containing their names and addresses shall be made available to the Member States and to the public by every appropriate means via the information systems put in place by the Commission, including publication on the internet.
+
+3\. The notifications provided for in this Regulation and in Implementing Regulation (EU) 2017/892 shall be made in accordance with Commission Regulation (EC) No 792/2009 ( 12 ).
+
+4\. If a Member State fails to make a notification as required under Regulation (EU) No 1308/2013, this Regulation or Implementing Regulation (EU) 2017/892, or if the notification appears incorrect in the light of objective facts in the Commission's possession, the Commission may suspend part or all of the monthly payments referred to in Article 17 of Regulation (EU) No 1306/2013 as regards the fruit and vegetables sector until the notification is made correctly.
+
+##### Article 81 — Entry into force and application
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX VI
+
+**Price notification referred to in article 55(1)**
+
+<table>
+<tbody><tr><td>Product</td><td>Type/variety</td><td>Presentation/size</td><td>Representative markets</td></tr>
+<tr><td rowspan="3">Tomatoes</td><td>Round</td><td>Size 47-102 mm, in bulk, in packages of 5 or 6 kg</td><td rowspan="3">Belgium Greece  Spain  France  Italy  Netherlands  Poland  Portugal  Romania </td></tr>
+<tr><td>Truss</td><td>All kinds of trusses but only if the average size of the individual tomatoes is 47 mm or above 47 mm, in packages of 3 to 10 kg</td></tr>
+<tr><td>Special/Cherry</td><td>Loose or truss tomatoes, special tomatoes, only if the average size of the individual tomatoes is below 47 mm (40 mm in case of cherry tomatoes), in packages of around 250 to 500 g</td></tr>
+<tr><td>Apricots</td><td>All types and varieties</td><td>Size 40-50 mm, trays or packages of around 5 to 10 kg or packages of 500 g to 1 kg</td><td>Bulgaria Greece  Spain  France  Italy  Hungary  Romania </td></tr>
+<tr><td rowspan="2">Nectarines</td><td>White flesh Yellow flesh </td><td>Size A/B, trays or packages of around 6 to 10 kg</td><td rowspan="2">Greece Spain  France  Italy </td></tr>
+<tr><td>Flat nectarines</td><td>Size A/B, trays or packages of around 5 kg</td></tr>
+<tr><td rowspan="2">Peaches</td><td>White flesh Yellow flesh </td><td>Size A/B, trays or packages of around 6 to 10 kg and packages of 500 g to 1 kg</td><td rowspan="2">Greece Spain  France  Italy </td></tr>
+<tr><td>Flat peaches</td><td>Size A/B, trays or packages of around 5 kg</td></tr>
+<tr><td>Table grapes</td><td>All types and varieties with seeds All type and varieties seedless </td><td>Trays of 300 to 700 g and packages of 3 to 10 kg</td><td>Greece Spain  France  Italy </td></tr>
+<tr><td rowspan="5">Pears</td><td>Blanquilla</td><td>Size 55/60, packages of around 5 to 10 kg</td><td rowspan="5">Belgium Greece  Spain  France  Italy  Netherlands  Austria  Poland  Portugal  Romania </td></tr>
+<tr><td>Conference</td><td>Size 60/65+, packages of around 5 to 10 kg</td></tr>
+<tr><td>Williams Rocha </td><td>Size 65+/75+, packages of around 5 to 10 kg</td></tr>
+<tr><td>Abbé Fétel Kaiser </td><td>Size 70/75, packages of around 5 to 10 kg</td></tr>
+<tr><td>Doyenné du Comice</td><td>Size 75/90, packages of around 5 to 10 kg</td></tr>
+<tr><td>Apples</td><td>Braeburn Cox orange  Elstar  Gala  Golden delicious  Jonagold (or Jonagored)  Idared  Fuji  Shampion  Granny Smith  Red delicious and other red varieties  Ligol  Boskoop </td><td>Size 65/80, packages of around 4 to 20 kg</td><td>Belgium Germany  Greece  Spain  France  Italy  Hungary  Netherlands  Poland  Portugal  Romania </td></tr>
+<tr><td>Lemons</td><td>All varieties</td><td>Sizes 3-4, packages of around 10 to 20 kg</td><td>Greece Spain  Italy </td></tr>
+<tr><td>Clementines</td><td>All varieties</td><td>Sizes 1-X-3, packages of around 8 to 20 kg</td><td>Greece Spain  Italy  France </td></tr>
+<tr><td>Mandarins</td><td>All varieties</td><td>Sizes 1-X-3, packages of around 8 to 20 kg</td><td>Greece Spain  Italy </td></tr>
+<tr><td>Oranges</td><td>National weighted average of main varieties covering at least 70 % of the representative market in the reference period of the notification</td><td>Size 3-6, packages of around 8 to 20 kg</td><td>Greece Spain  Italy  Portugal </td></tr>
+<tr><td>Kiwis</td><td>Green Hayward</td><td>Sizes 85-90 and 95-125, packages of around 3 to 10 kg</td><td>Greece Spain  France  Italy  Portugal </td></tr>
+<tr><td>Cauliflowers</td><td>All types and varieties</td><td>Size 16 to 20 cm</td><td>Belgium Germany  Greece  Spain  France  Italy  Netherlands  Poland  Portugal  Romania </td></tr>
+<tr><td>Eggplants (aubergines)</td><td>All types and varieties</td><td>Size 40+/70+</td><td>Greece Spain  France  Italy  Netherlands  Romania </td></tr>
+<tr><td>Watermelons</td><td>National weighted average of most representative types and varieties covering at least 70 % of the representative market</td><td>Usual standards in the representative market</td><td>Bulgaria Greece  Spain  Italy  Hungary  Romania </td></tr>
+<tr><td>Melons</td><td>National weighted average of most representative types and varieties covering at least 70 % of the representative market</td><td>Usual standards in the representative market</td><td>Greece Spain  France  Italy  Portugal  Romania </td></tr>
+<tr><td>Cucumbers</td><td>Smooth varieties</td><td>350 to 500 g, arranged in the package</td><td>Bulgaria, Germany  Greece  Spain  France  Italy  Hungary  Netherlands  Poland  Romania  Finland </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Garlic</td><td>All varieties</td><td>Size 45-60 mm packages of around 2-5 kg</td><td>Spain France  Italy  Romania  Portugal  Poland </td></tr>
+</tbody>
+</table>
+
+## ANNEX VII — List of products for the purposes of the entry price system set out in Title III
+
+Without prejudice to the rules for the interpretation of the Combined Nomenclature, the description of the products is deemed to be indicative only. For the purposes of this Annex, the scope of the arrangements provided for in the Title III is determined by the scope of the CN codes as they exist at the time of adoption of this Regulation. Where ‘ex’ appears before the CN code, the scope of the additional duties is determined both by the scope of the CN code and that of the description of the products, and the corresponding period of application.
+
+**PART A**
+
+| CN code | Description | Period of application |
+| --- | --- | --- |
+| 0702 00 10 , 0702 00 91 , 0702 00 99 | Whole tomatoes, with greatest diameter of less than 47 mm, Other tomatoes in trusses, Other tomatoes | From 1 January to 31 December |
+| ex 0707 00 05 | Cucumbers, not intended for processing | From 1 January to 31 December |
+| ex 0709 91 00 | Globe artichokes | From 1 November to 30 June |
+| 0709 93 10 | Courgettes | From 1 January to 31 December |
+| ex 0805 10 22 , ex 0805 10 24 , ex 0805 10 28 | Navel oranges, White oranges, Other sweet oranges | From 1 December to 31 May |
+| ex 0805 22 00 | Clementines, fresh | From 1 November to end of February |
+| ex 0805 21 10 , ex 0805 21 90 , ex 0805 29 00 | Satsumas, fresh Mandarins and tangerines, fresh Wilkings and similar citrus hybrids, other than tangerines, satsumas and clementines, fresh | From 1 November to end of February |
+| ex 0805 50 10 | Lemons (Citrus limon, Citrus limonum), fresh | From 1 June to 31 May |
+| ex 0806 10 10 | Table grapes | From 21 July to 20 November |
+| ex 0808 10 80 | Apples | From 1 July to 30 June |
+| ex 0808 30 90 | Pears | From 1 July to 30 April |
+| ex 0809 10 00 | Apricots | From 1 June to 31 July |
+| ex 0809 29 00 | Cherries, other than sour cherries | From 21 May to 10 August |
+| ex 0809 30 20 , ex 0809 30 30 , ex 0809 30 80 | Flat peaches (Prunus persica var. platycarpa) and flat nectarines (Prunus persica var. platerina), Nectarines, Other peaches | From 11 June to 30 September |
+| ex 0809 40 05 | Plums | From 11 June to 30 September |
+
+**PART B**
+
+| CN code | Description | Period of application |
+| --- | --- | --- |
+| ex 0707 00 05 | Cucumbers intended for processing | From 1 May to 31 October |
+| ex 0809 21 00 | Sour cherries (Prunus cerasus) | From 21 May to 10 August |
+
+( 1 ) Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009 (OJ L 347, 20.12.2013, p. 608).
+
+( 2 ) Commission Delegated Regulation (EU) 2016/232 of 15 December 2015 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to certain aspects of producer cooperation (OJ L 44, 19.2.2016, p. 1, ELI: http://data.europa.eu/eli/reg_del/2016/232/oj).
+
+( 3 ) Commission Delegated Regulation (EU) 2022/126 of 7 December 2021 supplementing Regulation (EU) 2021/2115 of the European Parliament and of the Council with additional requirements for certain types of intervention specified by Member States in their CAP Strategic Plans for the period 2023 to 2027 under that Regulation as well as rules on the ratio for the good agricultural and environmental condition (GAEC) standard 1 (OJ L 20, 31.1.2022, p. 52, ELI: http://data.europa.eu/eli/reg_del/2022/126/oj).
+
+( 4 ) Council Regulation (EC) No 834/2007 of 28 June 2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91 (OJ L 189, 20.7.2007, p. 1).
+
+( 5 ) Commission Delegated Regulation (EU) 2023/2429 of 17 August 2023 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards marketing standards for the fruit and vegetables sector, certain processed fruit and vegetable products and the bananas sector, and repealing Commission Regulation (EC) No 1666/1999 and Commission Implementing Regulations (EU) No 543/2011 and (EU) No 1333/2011 (OJ L, 2023/2429, 3.11.2023, ELI: http://data.europa.eu/eli/reg_del/2023/2429/oj).
+
+( 6 ) Regulation (EU) 2021/2115 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013 (OJ L 435, 6.12.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/2115/oj).
+
+( 7 ) Regulation (EU) 2021/2117 of the European Parliament and of the Council of 2 December 2021 amending Regulations (EU) No 1308/2013 establishing a common organisation of the markets in agricultural products, (EU) No 1151/2012 on quality schemes for agricultural products and foodstuffs, (EU) No 251/2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and (EU) No 228/2013 laying down specific measures for agriculture in the outermost regions of the Union (OJ L 435, 6.12.2021, p. 262, ELI:http://data.europa.eu/eli/reg/2021/2117/oj).
+
+( 8 ) Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/848/oj).
+
+( 9 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 10 ) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558, ELI: http://data.europa.eu/eli/reg_impl/2015/2447/oj).
+
+( 11 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).
+
+( 12 ) Commission Regulation (EC) No 792/2009 of 31 August 2009 laying down detailed rules for the Member States' notification to the Commission of information and documents in implementation of the common organisation of the markets, the direct payments' regime, the promotion of agricultural products and the regimes applicable to the outermost regions and the smaller Aegean islands (OJ L 228, 1.9.2009, p. 3).

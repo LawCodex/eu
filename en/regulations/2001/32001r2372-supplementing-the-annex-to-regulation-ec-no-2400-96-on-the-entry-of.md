@@ -1,0 +1,79 @@
+---
+title: "Commission Regulation (EC) No 2372/2001 of 4 December 2001 supplementing the Annex to Regulation (EC) No 2400/96 on the entry of certain names in the \"Register of protected designations of origin and protected geographical indications\" provided for in Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs"
+identifier: "32001R2372"
+eli: "http://data.europa.eu/eli/reg/2001/2372/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2001-12-04
+entry_into_force: 2001-07-04
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32001R2372"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 2372/2001 of 4 December 2001 supplementing the Annex to Regulation (EC) No 2400/96 on the entry of certain names in the "Register of protected designations of origin and protected geographical indications" provided for in Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs
+
+Commission Regulation (EC) No 2372/2001
+
+of 4 December 2001
+
+supplementing the Annex to Regulation (EC) No 2400/96 on the entry of certain names in the "Register of protected designations of origin and protected geographical indications" provided for in Council Regulation (EEC) No 2081/92 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 2081/92 of 14 July 1992 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs(1), as last amended by Commission Regulation (EC) No 2796/2000(2), and in particular Article 6(3) and (4) thereof,
+
+Whereas:
+
+(1) Under Article 5 of Regulation (EEC) No 2081/92, France has sent the Commission an application for the registration of the name "Pélardon" as a designation of origin.
+
+(2) In accordance with Article 6(1) of that Regulation, the application has been found to meet all the requirements laid down therein and in particular to contain all the information required in accordance with Article 4 thereof.
+
+(3) No statements of objection have been received by the Commission under Article 7 of that Regulation in respect of the name given in the Annex to this Regulation following its publication in the Official Journal of the European Communities(3).
+
+(4) The name should therefore be entered in the "Register of protected designations of origin and protected geographical indications" and hence be protected throughout the Community as a protected designation of origin.
+
+(5) The Annex to this Regulation supplements the Annex to Commission Regulation (EC) No 2400/96(4), as last amended by Regulation (EC) No 2036/2001(5),
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The name in the Annex hereto is added to the Annex to Regulation (EC) No 2400/96 and entered as a protected designation of origin (PDO) in the "Register of protected designations of origin and protected geographical indications" provided for in Article 6(3) of Regulation (EEC) No 2081/92.
+
+## Article 2
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 4 December 2001.
+
+For the Commission
+
+Franz Fischler
+
+Member of the Commission
+
+(1) OJ L 208, 24.7.1992, p. 1.
+
+(2) OJ L 324, 21.12.2000, p. 26.
+
+(3) OJ C 81, 13.3.2001, p. 5.
+
+(4) OJ L 327, 18.12.1996, p. 11.
+
+(5) OJ L 275, 18.10.2001, p. 9.
+
+## ANNEX
+
+PRODUCTS LISTED IN ANNEX I TO THE EC TREATY, INTENDED FOR HUMAN CONSUMPTION
+
+Cheese
+
+FRANCE
+
+Pélardon (PDO)

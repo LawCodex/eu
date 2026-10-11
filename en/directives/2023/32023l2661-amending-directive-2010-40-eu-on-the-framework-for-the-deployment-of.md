@@ -713,6 +713,7 @@ The adoption of specifications, the issuing of mandates for standards and the se
 
 ## ANNEX III — ‘ANNEX III — List of data types
 
+<table>
 <tbody><tr><td>Data type</td><td>Geographical coverage</td><td>Date referred in Article 6a(1), second subparagraph</td><td>Date referred in Article 6a(1), third subparagraph</td></tr>
 <tr><td colspan="4"><table><tbody><tr><td>1.</td><td>Data relating to the provision of EU-wide road traffic information and navigation services (as referred to in Annex I, Priority area I, paragraphs 1.2, 1.3):</td></tr>
 </tbody>
@@ -835,6 +836,7 @@ The adoption of specifications, the issuing of mandates for standards and the se
 <tr><td rowspan="2">Category Location of identified access nodes for all scheduled modes, including information on accessibility of access nodes and paths within an interchange (such as existence of lifts, escalators) </td><td>Urban nodes as defined in Article 3, point (p), of Regulation (EU) No 1315/2013 and listed in that Regulation, including those administered by the cities</td><td>31 December 2026</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and(c)</td></tr>
 <tr><td>The entire transport network of the Union</td><td>31 December 2028</td><td>Delegated acts to be adopted pursuant to Article 7(1a), points (a), (b) and (c)</td></tr>
 </tbody>
+</table>
 
 NOTE 1: “Not applicable: no obligation to make the data created or updated before the date set out in the third column of this Annex available pursuant to Article 6a(1)”.
 

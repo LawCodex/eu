@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the common system of value added tax**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL DIRECTIVE 2006/138/EC of 19 December 2006 </td><td> L 384</td><td>92</td><td>29.12.2006</td></tr>
@@ -59,6 +60,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2022/890 of 3 June 2022 </td><td> L 155</td><td>1</td><td>8.6.2022</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2025/425 of 18 February 2025 </td><td> L 425</td><td>1</td><td>28.2.2025</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2025/516 of 11 March 2025 </td><td> L 516</td><td>1</td><td>25.3.2025</td></tr>
+</table>
 
 |  | ACT concerning the conditions of accession of the Republic of Croatia and the adjustments to the Treaty on European Union, the Treaty on the Functioning of the European Union and the Treaty establishing the European Atomic Energy Community | L 112 | 21 | 24.4.2012 |
 | --- | --- | --- | --- | --- |
@@ -73,6 +75,7 @@ C4
 
 **on the common system of value added tax**
 
+<table>
 <tr><td colspan="2">TABLE OF CONTENTS</td></tr>
 <tr><td>TITLE 1 —</td><td>SUBJECT MATTER AND SCOPE</td></tr>
 <tr><td>TITLE II —</td><td>TERRITORIAL SCOPE</td></tr>
@@ -237,6 +240,7 @@ C4
 <tr><td>Part A —</td><td>Repealed Directives with their successive amendments</td></tr>
 <tr><td>Part B —</td><td>Time limits for transposition into national law (referred to in Article 411)</td></tr>
 <tr><td>ANNEX XII —</td><td>CORRELATION TABLE</td></tr>
+</table>
 
 ## TITLE I — SUBJECT MATTER AND SCOPE
 
@@ -4522,6 +4526,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX V — CATEGORIES OF GOODS COVERED BY WAREHOUSING ARRANGEMENTS OTHER THAN CUSTOMS WAREHOUSING AS PROVIDED FOR UNDER ARTICLE 160(2)
 
+<table>
 <tbody><tr><td>  </td><td>CN-code</td><td>Description of goods</td></tr>
 <tr><td>(1)</td><td>0701 </td><td>Potatoes</td></tr>
 <tr><td>(2)</td><td>0711 20 </td><td>Olives</td></tr>
@@ -4562,6 +4567,7 @@ This Directive is addressed to the Member States.
 <tr><td>(25)</td><td>ex 8112 92 </td><td rowspan="2">Indium</td></tr>
 <tr><td>  </td><td>ex 8112 99 </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI — LIST OF SUPPLIES OF GOODS AND SERVICES AS REFERRED TO IN POINT (D) OF ARTICLE 199(1)
 
@@ -4815,6 +4821,7 @@ Directive 2006/98/EC (OJ L 363, 20.12.2006, p. 129) — (only point 2 of the Ann
 
 **(referred to in Article 411)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Deadline for transposition</td></tr>
 <tr><td>Directive 67/227/EEC</td><td>1 January 1970</td></tr>
 <tr><td>Directive 77/388/EEC</td><td>1 January 1978</td></tr>
@@ -4860,9 +4867,11 @@ Directive 2006/98/EC (OJ L 363, 20.12.2006, p. 129) — (only point 2 of the Ann
 <tr><td>Directive 2006/98/EC</td><td>1 January 2007</td></tr>
 <tr><td colspan="2"></td></tr>
 </tbody>
+</table>
 
 ## ANNEX XII — CORRELATION TABLE
 
+<table>
 <tbody><tr><td>Directive 67/227/EEC</td><td>Directive 77/388/EEC</td><td>Amending Directives</td><td>Other acts</td><td>This Directive</td></tr>
 <tr><td>Article 1, first paragraph</td><td>  </td><td>  </td><td>  </td><td>Article 1(1)</td></tr>
 <tr><td>Article 1, second and third paragraphs</td><td>  </td><td>  </td><td>  </td><td>—</td></tr>
@@ -5662,6 +5671,7 @@ Directive 2006/98/EC (OJ L 363, 20.12.2006, p. 129) — (only point 2 of the Ann
 <tr><td>  </td><td>  </td><td>  </td><td>Annex XIV(7), second subparagraph, of the 2003 Act of Accession</td><td>—</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>Annex XIV(7), third subparagraph, of the 2003 Act of Accession</td><td>Article 390</td></tr>
 </tbody>
+</table>
 
 ( 1 ) Council Directive 2009/132/EC of 19 October 2009 determining the scope of Article 143(b) and (c) of Directive 2006/112/EC as regards exemption from value added tax on the final importation of certain goods (OJ L 292, 10.11.2009, p. 5).
 

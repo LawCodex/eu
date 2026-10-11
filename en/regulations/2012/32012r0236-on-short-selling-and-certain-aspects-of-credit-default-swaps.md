@@ -1,0 +1,852 @@
+---
+title: "Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps Text with EEA relevance"
+identifier: "32012R0236"
+eli: "http://data.europa.eu/eli/reg/2012/236/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2012-03-14
+entry_into_force: 2012-01-01
+last_amended: 2024-01-16
+consolidated_version: "02012R0236-20240116"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02012R0236-20240116"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 236/2012 of the European Parliament and of the Council of 14 March 2012 on short selling and certain aspects of credit default swaps Text with EEA relevance
+
+**REGULATION (EU) No 236/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 March 2012**
+
+**on short selling and certain aspects of credit default swaps**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 909/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 July 2014 </td><td> L 257</td><td>1</td><td>28.8.2014</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/27 of 27 September 2021 </td><td> L 6</td><td>9</td><td>11.1.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2869 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2869</td><td>1</td><td>20.12.2023</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/2845 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2845</td><td>1</td><td>27.12.2023</td></tr>
+</table>
+
+**REGULATION (EU) No 236/2012 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 March 2012**
+
+**on short selling and certain aspects of credit default swaps**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Scope
+
+1\. This Regulation shall apply to the following:
+
+(a) financial instruments within the meaning of point (a) of Article 2(1) that are admitted to trading on a trading venue in the Union, including such instruments when traded outside a trading venue;
+
+(b) derivatives referred to in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC that relate to a financial instrument referred to in point (a) or to an issuer of such a financial instrument, including such derivatives when traded outside a trading venue;
+
+(c) debt instruments issued by a Member State or the Union and derivatives referred to in points (4) to (10) of Section C of Annex I to Directive 2004/39/EC that relate or are referenced to debt instruments issued by a Member State or the Union.
+
+2\. Articles 18, 20 and 23 to 30 shall apply to all financial instruments within the meaning of point (a) of Article 2(1).
+
+#### Article 2 — Definitions
+
+1\. For the purpose of this Regulation, the following definitions apply:
+
+(a) ‘financial instrument’ means an instrument listed in Section C of Annex I to Directive 2004/39/EC;
+
+(b) ‘short sale’ in relation to a share or debt instrument means any sale of the share or debt instrument which the seller does not own at the time of entering into the agreement to sell including such a sale where at the time of entering into the agreement to sell the seller has borrowed or agreed to borrow the share or debt instrument for delivery at settlement, not including:
+
+(i) a sale by either party under a repurchase agreement where one party has agreed to sell the other a security at a specified price with a commitment from the other party to sell the security back at a later date at another specified price;
+
+(ii) a transfer of securities under a securities lending agreement; or
+
+(iii) entry into a futures contract or other derivative contract where it is agreed to sell securities at a specified price at a future date;
+
+(c) ‘credit default swap’ means a derivative contract in which one party pays a fee to another party in return for a payment or other benefit in the case of a credit event relating to a reference entity and of any other default, relating to that derivative contract, which has a similar economic effect;
+
+(d) ‘sovereign issuer’ means any of the following that issues debt instruments:
+
+(i) the Union;
+
+(ii) a Member State, including a government department, an agency, or a special purpose vehicle of the Member State;
+
+(iii) in the case of a federal Member State, a member of the federation;
+
+(iv) a special purpose vehicle for several Member States;
+
+(v) an international financial institution established by two or more Member States which has the purpose of mobilising funding and provide financial assistance to the benefit of its members that are experiencing or threatened by severe financing problems; or
+
+(vi) the European Investment Bank;
+
+(e) ‘sovereign credit default swap’ means a credit default swap where a payment or other benefit will be paid in the case of a credit event or default relating to a sovereign issuer;
+
+(f) ‘sovereign debt’ means a debt instrument issued by a sovereign issuer;
+
+(g) ‘issued sovereign debt’ means the total of sovereign debt issued by a sovereign issuer that has not been redeemed;
+
+(h) ‘issued share capital’ in relation to a company, means the total of ordinary and any preference shares issued by the company but does not include convertible debt securities;
+
+(i) ‘home Member State’ means:
+
+(i) in relation to an investment firm within the meaning of point (1) of Article 4(1) of Directive 2004/39/EC, or to a regulated market within the meaning of point (14) of Article 4(1) of Directive 2004/39/EC, the home Member State within the meaning of point (20) of Article 4(1) of Directive 2004/39/EC;
+
+(ii) in relation to a credit institution, the home Member State within the meaning of point (7) of Article 4 of Directive 2006/48/EC of the European Parliament and of the Council of 14 June 2006 relating to the taking up and pursuit of the business of credit institutions ( 1 );
+
+(iii) in relation to a legal person not referred to in point (i) or (ii), the Member State in which its registered office is situated or, if it has no registered office, the Member State in which its head office is situated;
+
+(iv) in relation to a natural person, the Member State in which that person’s head office is situated, or, where there is no head office, the Member State in which that person is domiciled;
+
+(j) ‘relevant competent authority’ means:
+
+(i) in relation to sovereign debt of a Member State, or, in the case of a federal Member State, in relation to sovereign debt of a member of the federation, or a credit default swap relating to a Member State or a member of a federation, the competent authority of that Member State;
+
+(ii) in relation to sovereign debt of the Union or a credit default swap relating to the Union, the competent authority of the jurisdiction in which the department issuing the debt is situated;
+
+(iii) in relation to sovereign debt of several Member States acting through a special purpose vehicle or a credit default swap relating to such a special purpose vehicle, the competent authority of the jurisdiction in which the special purpose vehicle is established;
+
+(iv) in relation to sovereign debt of an international financial institution established by two or more Member States, which has the purpose to mobilise funding and provide financial assistance to the benefit of its members that are experiencing or threatened by severe financing problems, the competent authority of the jurisdiction in which the international financial institution is established;
+
+(v) in relation to a financial instrument other than an instrument referred to in points (i) to (iv), the competent authority for that financial instrument as defined in point (7) of Article 2 of Commission Regulation (EC) No 1287/2006 ( 2 ) and determined in accordance with Chapter III of that Regulation;
+
+(vi) in relation to a financial instrument that is not covered under points (i) to (v), the competent authority of the Member State in which the financial instrument was first admitted to trading on a trading venue;
+
+(vii) in relation to a debt instrument issued by the European Investment Bank, the competent authority of the Member State in which the European Investment Bank is located;
+
+(k) ‘market making activities’ means the activities of an investment firm, a credit institution, a third-country entity, or a firm as referred to in point (l) of Article 2(1) of Directive 2004/39/EC, which is a member of a trading venue or of a market in a third country, the legal and supervisory framework of which has been declared equivalent by the Commission pursuant to Article 17(2) where it deals as principal in a financial instrument, whether traded on or outside a trading venue, in any of the following capacities:
+
+(i) by posting firm, simultaneous two-way quotes of comparable size and at competitive prices, with the result of providing liquidity on a regular and ongoing basis to the market;
+
+(ii) as part of its usual business, by fulfilling orders initiated by clients or in response to clients’ requests to trade;
+
+(iii) by hedging positions arising from the fulfilment of tasks under points (i) and (ii);
+
+(l) ‘trading venue’ means a regulated market within the meaning of point (14) of Article 4(1) of Directive 2004/39/EC, or a multilateral trading facility within the meaning of point (15) of Article 4(1) of Directive 2004/39/EC;
+
+(m) ‘principal venue’ in relation to a share means the venue for the trading of that share with the highest turnover;
+
+(n) ‘authorised primary dealer’ means a natural or legal person who has signed an agreement with a sovereign issuer or who has been formally recognised as a primary dealer by or on behalf of a sovereign issuer and who, in accordance with that agreement or recognition, has committed to dealing as principal in connection with primary and secondary market operations relating to debt issued by that issuer;
+
+(o) ‘central counterparty’ means a legal entity which interposes itself between the counterparties to the contracts traded within one or more financial markets, becoming the buyer to every seller and the seller to every buyer and which is responsible for the operation of a clearing system;
+
+(p) ‘trading day’ means a trading day as referred to in Article 4 of Regulation (EC) No 1287/2006;
+
+(q) ‘turnover’ of a share means turnover within the meaning of point (9) of Article 2 of Regulation (EC) No 1287/2006.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 42 specifying the definitions laid down in paragraph 1 of this Article, in particular specifying when a natural or legal person is considered to own a financial instrument for the purposes of the definition of short sale in point (b) of paragraph 1.
+
+#### Article 3 — Short and long positions
+
+1\. For the purposes of this Regulation, a position resulting from either of the following shall be considered to be a short position relating to issued share capital or issued sovereign debt:
+
+(a) a short sale of a share issued by a company or of a debt instrument issued by a sovereign issuer;
+
+(b) entering into a transaction which creates or relates to a financial instrument other than an instrument referred to in point (a) where the effect or one of the effects of the transaction is to confer a financial advantage on the natural or legal person entering into that transaction in the event of a decrease in the price or value of the share or debt instrument.
+
+2\. For the purposes of this Regulation, a position resulting from either of the following shall be considered to be a long position relating to issued share capital or issued sovereign debt:
+
+(a) holding a share issued by a company or a debt instrument issued by a sovereign issuer;
+
+(b) entering into a transaction which creates or relates to a financial instrument other than an instrument referred to in point (a) where the effect or one of the effects of the transaction is to confer a financial advantage on the natural or legal person entering into that transaction in the event of an increase in the price or value of the share or debt instrument.
+
+3\. For the purposes of paragraphs 1 and 2, the calculation of a short or a long position, in respect of any position held by the relevant person indirectly, including through or by way of any index, basket of securities or any interest in any exchange traded fund or similar entity, shall be determined by the natural or legal person in question acting reasonably having regard to publicly available information as to the composition of the relevant index or basket of securities, or of the interests held by the relevant exchange traded fund or similar entity. In calculating such a short or long position, no person shall be required to obtain any real-time information as to such composition from any person.
+
+For the purposes of paragraphs 1 and 2 the calculation of a short or long position relating to sovereign debt shall include any sovereign credit default swap that relates to the sovereign issuer.
+
+4\. For the purposes of this Regulation, the position remaining after deducting any long position that a natural or legal person holds in relation to the issued share capital from any short position that that natural or legal person holds in relation to that capital shall be considered a net short position in relation to the issued share capital of the company concerned.
+
+5\. For the purposes of this Regulation, the position remaining after deducting any long position that a natural or legal person holds in relation to issued sovereign debt and any long position in debt instruments of a sovereign issuer the pricing of which is highly correlated to the pricing of the given sovereign debt from any short position that that natural or legal person holds in relation to the same sovereign debt shall be considered a net short position in relation to the issued sovereign debt of the sovereign issuer concerned.
+
+6\. The calculation of sovereign debt under paragraphs 1 to 5 shall be for each single sovereign issuer even if separate entities issue sovereign debt on behalf of the sovereign issuer.
+
+7\. The Commission shall be empowered to adopt delegated acts in accordance with Article 42 specifying:
+
+(a) cases in which a natural or legal person is considered to hold a share or debt instrument for the purposes of paragraph 2;
+
+(b) cases in which a natural or legal person has a net short position for the purposes of paragraphs 4 and 5 and the method of calculation of such position;
+
+(c) the method of calculating positions for the purposes of paragraphs 3, 4 and 5 when different entities in a group have long or short positions or for fund management activities relating to separate funds.
+
+For the purposes of point (c) of the first subparagraph, the method of calculation shall take into account, in particular, whether different investment strategies are pursued in relation to a particular issuer through more than one separate fund managed by the same fund manager, whether the same investment strategy is pursued in relation to a particular issuer through more than one fund, and whether more than one portfolio within the same entity is managed on a discretionary basis pursuing the same investment strategy in relation to a particular issuer.
+
+#### Article 4 — Uncovered position in a sovereign credit default swap
+
+1\. For the purposes of this Regulation, a natural or legal person shall be considered to have an uncovered position in a sovereign credit default swap where the sovereign credit default swap does not serve to hedge against:
+
+(a) the risk of default of the issuer where the natural or legal person has a long position in the sovereign debt of that issuer to which the sovereign credit default swap relates; or
+
+(b) the risk of a decline of the value of the sovereign debt where the natural or legal person holds assets or is subject to liabilities, including but not limited to financial contracts, a portfolio of assets or financial obligations the value of which is correlated to the value of the sovereign debt.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 42 specifying, for the purposes of paragraph 1 of this Article:
+
+(a) cases in which a sovereign credit default swap transaction is considered to be hedging against a default risk or the risk of a decline of the value of the sovereign debt, and the method of calculation of an uncovered position in a sovereign credit default swap;
+
+(b) the method of calculating positions where different entities in a group have long or short positions or for fund management activities relating to separate funds.
+
+## CHAPTER II — TRANSPARENCY OF NET SHORT POSITIONS
+
+#### Article 5 — Notification to competent authorities of significant net short positions in shares
+
+1\. A natural or legal person who has a net short position in relation to the issued share capital of a company that has shares admitted to trading on a trading venue shall notify the relevant competent authority, in accordance with Article 9, where the position reaches or falls below a relevant notification threshold referred to in paragraph 2 of this Article.
+
+2\. A relevant notification threshold is a percentage that equals 0,1 % of the issued share capital of the company concerned and each 0,1 % above that.
+
+3\. The European Supervisory Authority (European Securities and Markets Authority) (ESMA) may issue an opinion to the Commission on adjusting the thresholds referred to in paragraph 2, taking into account the developments in financial markets.
+
+4\. The Commission shall be empowered to adopt delegated acts in accordance with Article 42 modifying the thresholds referred to in paragraph 2 of this Article, taking into account the developments in financial markets.
+
+#### Article 6 — Public disclosure of significant net short positions in shares
+
+1\. A natural or legal person who has a net short position in relation to the issued share capital of a company that has shares admitted to trading on a trading venue shall disclose details of that position to the public, in accordance with Article 9, where the position reaches or falls below a relevant publication threshold referred to in paragraph 2 of this Article.
+
+2\. A relevant publication threshold is a percentage that equals 0,5 % of the issued share capital of the company concerned and each 0,1 % above that.
+
+3\. ESMA may issue an opinion to the Commission on adjusting the thresholds referred to in paragraph 2, taking into account the developments in financial markets.
+
+4\. The Commission shall be empowered to adopt delegated acts in accordance with Article 42 modifying the thresholds referred to in paragraph 2 of this Article, taking into account the developments in financial markets.
+
+5\. This Article is without prejudice to laws, regulations and administrative provisions adopted in relation to takeover bids, merger transactions and other transactions affecting the ownership or control of companies regulated by the supervisory authorities appointed by Member States pursuant to Article 4 of Directive 2004/25/EC of the European Parliament and of the Council of 21 April 2004 on takeover bids ( 3 ) that require disclosure of short positions beyond the requirements of this Article.
+
+#### Article 7 — Notification to competent authorities of significant net short positions in sovereign debt
+
+1\. A natural or legal person who has a net short position relating to issued sovereign debt shall notify the relevant competent authority, in accordance with Article 9, where such a position reaches or falls below the relevant notification thresholds for the sovereign issuer concerned.
+
+2\. The relevant notification thresholds shall consist of an initial amount and then additional incremental levels in relation to each sovereign issuer, as specified in the measures taken by the Commission in accordance with paragraph 3. ESMA shall publish on its website the notification thresholds for each Member State.
+
+3\. The Commission shall be empowered to adopt delegated acts in accordance with Article 42 specifying the amounts and incremental levels referred to in paragraph 2 of this Article.
+
+The Commission shall:
+
+(a) ensure that the thresholds are not set at such a level as to require notification of positions which are of minimal value;
+
+(b) take into account the total amount of outstanding issued sovereign debt for each sovereign issuer, and the average size of positions held by market participants relating to the sovereign debt of that sovereign issuer; and
+
+(c) take into account the liquidity of each sovereign bond market.
+
+#### Article 8 — Notification to competent authorities of uncovered positions in sovereign credit default swaps
+
+Where a competent authority suspends restrictions in accordance with Article 14(2), a natural or legal person who has an uncovered position in a sovereign credit default swap shall notify the relevant competent authority where such a position reaches or falls below the relevant notification thresholds for the sovereign issuer, as specified in accordance with Article 7.
+
+#### Article 9 — Method of notification and disclosure
+
+1\. Any notification or disclosure under Article 5, 6, 7 or 8 shall set out details of the identity of the natural or legal person who holds the relevant position, the size of the relevant position, the issuer in relation to which the relevant position is held and the date on which the relevant position was created, changed or ceased to be held.
+
+For the purposes of Articles 5, 6, 7 and 8, natural and legal persons that hold significant net short positions shall keep, for a period of 5 years, records of the gross positions which make a significant net short position.
+
+2\. The relevant time for calculation of a net short position shall be at midnight at the end of the trading day on which the natural or legal person holds the relevant position. That time shall apply to all transactions irrespective of the means of trading used, including transactions executed through manual or automated trading, and irrespective of whether the transactions have taken place during normal trading hours. The notification or disclosure shall be made not later than at 15.30 on the following trading day. The times specified in this paragraph shall be calculated according to the time in the Member State of the relevant competent authority to whom the relevant position must be notified.
+
+3\. The notification of information to a relevant competent authority shall ensure the confidentiality of the information and incorporate mechanisms for authenticating the source of the notification.
+
+4\. The public disclosure of information set out in Article 6 shall be made in a manner ensuring fast access to information on a non-discriminatory basis. That information shall be posted on a central website operated or supervised by the relevant competent authority. The competent authorities shall communicate the address of that website to ESMA, which, in turn, shall put a link to all such central websites on its own website.
+
+5\. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the details of the information to be provided for the purposes of paragraph 1.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 31 March 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+6\. In order to ensure uniform conditions of application of paragraph 4, ESMA shall develop draft implementing technical standards specifying the means by which information may be disclosed to the public.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 31 March 2012.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 10 — Application of notification and disclosure requirements
+
+The notification and disclosure requirements under Articles 5, 6, 7 and 8 apply to natural or legal persons domiciled or established within the Union or in a third country.
+
+#### Article 11 — Information to be provided to ESMA
+
+1\. The competent authorities shall provide information in summary form to ESMA on a quarterly basis on net short positions relating to issued share capital and to issued sovereign debt, and on uncovered positions relating to sovereign credit default swaps, for which it is the relevant competent authority and receives notifications under Articles 5, 7 and 8.
+
+2\. ESMA may request at any time, in order to carry out its duties under this Regulation, additional information from a relevant competent authority on net short positions relating to issued share capital and to issued sovereign debt, or on uncovered positions relating to sovereign credit default swaps.
+
+The competent authority shall provide the requested information to ESMA at the latest within 7 calendar days. Where there are adverse events or developments which constitute a serious threat to financial stability or to market confidence in the Member State concerned or in another Member State, the competent authority shall provide ESMA with any available information based on the notification requirements under Articles 5, 7 and 8 within 24 hours.
+
+3\. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the details of the information to be provided in accordance with paragraphs 1 and 2.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 31 March 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+4\. In order to ensure uniform conditions of application of paragraph 1, ESMA shall develop draft implementing technical standards defining the format of information to be provided in accordance with paragraphs 1 and 2.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 31 March 2012.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 11a — Accessibility of information on the European single access point
+
+1\. From 10 July 2026, when making public any information referred to in Article 6(1) of this Regulation, the natural or legal person shall submit that information at the same time to the collection body referred to in paragraph 3 of this Article for the purpose of making it accessible on the European single access point (ESAP) established under Regulation (EU) 2023/2859 of the European Parliament and of the Council ( 4 ).
+
+That information shall comply with the following requirements:
+
+(a) be submitted in a data extractable format as defined in Article 2, point (3), of Regulation (EU) 2023/2859 or, where required by Union law, in a machine-readable format, as defined in Article 2, point (4), of that Regulation;
+
+(b) be accompanied by the following metadata:
+
+(i) all the names of the natural or legal person to which the information relates;
+
+(ii) for legal persons, the legal entity identifier of the person, as specified pursuant to Article 7(4), point (b), of Regulation (EU) 2023/2859;
+
+(iii) for legal persons, the size of the person by category, as specified pursuant to Article 7(4), point (d), of that Regulation;
+
+(iv) the type of information as classified pursuant to Article 7(4), point (c), of that Regulation;
+
+(v) an indication of whether the information contains personal data.
+
+2\. For the purposes of paragraph 1, point (b)(ii), legal persons shall obtain a legal entity identifier.
+
+3\. For the purpose of making the information referred to in paragraph 1 of this Article accessible on ESAP, the collection body as defined in Article 2, point (2), of Regulation (EU) 2023/2859 shall be the competent authority.
+
+4\. For the purpose of ensuring the efficient collection and management of information submitted in accordance with paragraph 1, ESMA shall develop draft implementing technical standards to specify:
+
+(a) any other metadata to accompany the information;
+
+(b) the structuring of data in the information;
+
+(c) for which information a machine-readable format is required and, in such cases, which machine-readable format is to be used.
+
+For the purposes of point (c), ESMA shall assess the advantages and disadvantages of different machine-readable formats and conduct appropriate field tests.
+
+ESMA shall submit those draft implementing technical standards to the Commission.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph of this paragraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+5\. Where necessary, ESMA shall adopt guidelines to ensure that the metadata submitted in accordance with paragraph 4, first subparagraph, point (a), are correct.
+
+## CHAPTER III — UNCOVERED SHORT SALES
+
+#### Article 12 — Restrictions on uncovered short sales in shares
+
+1\. A natural or legal person may enter into a short sale of a share admitted to trading on a trading venue only where one of the following conditions is fulfilled:
+
+(a) the natural or legal person has borrowed the share or has made alternative provisions resulting in a similar legal effect;
+
+(b) the natural or legal person has entered into an agreement to borrow the share or has another absolutely enforceable claim under contract or property law to be transferred ownership of a corresponding number of securities of the same class so that settlement can be effected when it is due;
+
+(c) the natural or legal person has an arrangement with a third party under which that third party has confirmed that the share has been located and has taken measures vis-à-vis third parties necessary for the natural or legal person to have a reasonable expectation that settlement can be effected when it is due.
+
+2\. In order to ensure uniform conditions of application of paragraph 1, ESMA shall develop draft implementing technical standards to determine the types of agreements, arrangements and measures that adequately ensure that the share will be available for settlement. In determining what measures are necessary to have a reasonable expectation that settlement can be effected when it is due, ESMA shall take into account, inter alia, the intraday trading and the liquidity of the shares.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 31 March 2012.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 13 — Restrictions on uncovered short sales in sovereign debt
+
+1\. A natural or legal person may enter into a short sale of sovereign debt only where one of the following conditions is fulfilled:
+
+(a) the natural or legal person has borrowed the sovereign debt or has made alternative provisions resulting in a similar legal effect;
+
+(b) the natural or legal person has entered into an agreement to borrow the sovereign debt or has another absolutely enforceable claim under contract or property law to be transferred ownership of a corresponding number of securities of the same class so that settlement can be effected when it is due;
+
+(c) the natural or legal person has an arrangement with a third party under which that third party has confirmed that the sovereign debt has been located or otherwise has a reasonable expectation that settlement can be effected when it is due.
+
+2\. The restrictions in paragraph 1 do not apply if the transaction serves to hedge a long position in debt instruments of an issuer, the pricing of which has a high correlation with the pricing of the given sovereign debt.
+
+3\. Where the liquidity of sovereign debt falls below the threshold determined in accordance with the methodology referred to in paragraph 4, the restrictions referred to in paragraph 1 may be temporarily suspended by the relevant competent authority. Before suspending those restrictions, the relevant competent authority shall notify ESMA and the other competent authorities about the proposed suspension.
+
+A suspension shall be valid for an initial period not exceeding 6 months from the date of its publication on the website of the relevant competent authority. The suspension may be renewed for periods not exceeding 6 months if the grounds for the suspension continue to apply. If the suspension is not renewed by the end of the initial period or of any subsequent renewal period it shall automatically expire.
+
+ESMA shall, within 24 hours of notification by the relevant competent authority, issue an opinion based on paragraph 4 on the notified suspension or renewal of suspension. The opinion shall be published on ESMA’s website.
+
+4\. The Commission shall adopt delegated acts in accordance with Article 42 specifying the parameters and methods for calculating the threshold of liquidity referred to in paragraph 3 of this Article in relation to issued sovereign debt.
+
+The parameters and methods for Member States to calculate the threshold shall be set in such a way that where it is reached, it represents a significant decline relative to the average level of liquidity for the sovereign debt concerned.
+
+The threshold shall be defined based on objective criteria specific to the relevant sovereign debt market, including the total amount of outstanding issued sovereign debt for each sovereign issuer.
+
+5\. In order to ensure uniform conditions of application of paragraph 1, ESMA may develop draft implementing technical standards to determine the types of agreements or arrangements that adequately ensure that the sovereign debt will be available for settlement. ESMA shall, in particular, take into account the need to preserve liquidity of markets, especially sovereign bond and sovereign bond repurchase markets.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 31 March 2012.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 14 — Restrictions on uncovered sovereign credit default swaps
+
+1\. A natural or legal person may enter into sovereign credit default swap transactions only where that transaction does not lead to an uncovered position in a sovereign credit default swap as referred to in Article 4.
+
+2\. A competent authority may temporarily suspend restrictions referred to in paragraph 1, where it has objective grounds for believing that its sovereign debt market is not functioning properly and that such restrictions might have a negative impact on the sovereign credit default swap market, especially by increasing the cost of borrowing for sovereign issuers or affecting the sovereign issuers’ ability to issue new debt. Those grounds shall be based on the following indicators:
+
+(a) a high or rising interest rate on the sovereign debt;
+
+(b) a widening of interest rate spreads on the sovereign debt compared to the sovereign debt of other sovereign issuers;
+
+(c) a widening of the sovereign credit default swap spreads compared to the own curve and compared to other sovereign issuers;
+
+(d) the timeliness of the return of the price of the sovereign debt to its original equilibrium after a large trade;
+
+(e) the amounts of sovereign debt that can be traded.
+
+The competent authority may also use indicators other than those set out in points (a) to (e) of the first subparagraph.
+
+Before suspending restrictions under this Article, the relevant competent authority shall notify ESMA and the other competent authorities of the proposed suspension and the grounds on which it is based.
+
+A suspension shall be valid for an initial period not exceeding 12 months from the date of its publication on the website of the relevant competent authority. The suspension may be renewed for periods not exceeding 6 months if the grounds for the suspension continue to apply. If the suspension is not renewed by the end of the initial period or of any subsequent renewal period, it shall automatically expire.
+
+ESMA shall, within 24 hours of the notification by the relevant competent authority, issue an opinion on the intended suspension or on the renewal of that suspension, irrespective of whether the competent authority has based the suspension on the indicators set out in points (a) to (e) of the first subparagraph or on other indicators. Where the intended suspension or renewal of a suspension is based on the second subparagraph, that opinion shall also include an assessment of the indicators used by the competent authority. The opinion shall be published on ESMA’s website.
+
+#### Article 15 — Buy-in procedures
+
+A central counterparty in a Member State that provides clearing services for shares shall ensure that procedures are in place which comply with all of the following requirements:
+
+(a) where a natural or legal person who sells shares is not able to deliver the shares for settlement within four business days of the day on which settlement is due, procedures are automatically triggered for the buy-in of the shares to ensure delivery for settlement;
+
+(b) where the buy-in of the shares for delivery is not possible, an amount is paid to the buyer based on the value of the shares to be delivered at the delivery date plus an amount for losses incurred by the buyer as a result of the settlement failure;
+
+(c) the natural or legal person who fails to settle reimburses all amounts paid pursuant to points (a) and (b).
+
+## CHAPTER IV — EXEMPTIONS
+
+#### Article 16 — Exemption where the principal trading venue is in a third country
+
+1\. Articles 5, 6, 12 and 15 shall not apply to shares of a company admitted to trading on a trading venue in the Union where the principal venue for the trading of the shares is located in a third country.
+
+2\. The relevant competent authority for shares of a company that are traded on a trading venue in the Union and a venue located in a third country shall determine, at least every 2 years, whether the principal venue for the trading of those shares is located in a third country.
+
+The relevant competent authority shall notify ESMA of any such shares identified as having their principal trading venue located in a third country.
+
+Every 2 years ESMA shall publish the list of shares for which the principal trading venue is located in a third country. The list shall be effective for a 2-year period.
+
+3\. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the method for calculation of the turnover to determine the principal venue for the trading of a share.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 31 March 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+4\. In order to ensure uniform conditions of application of paragraphs 1 and 2 ESMA shall develop draft implementing technical standards to determine:
+
+(a) the date on which and period in respect of which any calculation determining the principal trading venue for a share is to be made;
+
+(b) the date by which the relevant competent authority shall notify ESMA of those shares for which the principal trading venue is in a third country;
+
+(c) the date from which the list is to be effective following publication by ESMA.
+
+ESMA shall submit those draft implementing technical standards to the Commission by 31 March 2012.
+
+Power is conferred on the Commission to adopt the implementing technical standards referred to in the first subparagraph in accordance with Article 15 of Regulation (EU) No 1095/2010.
+
+#### Article 17 — Exemption for market making activities and primary market operations
+
+1\. Articles 5, 6, 7, 12, 13 and 14 shall not apply to transactions performed due to market making activities.
+
+2\. The Commission may, in accordance with the procedure referred to in Article 44(2), adopt decisions determining that the legal and supervisory framework of a third country ensures that a market authorised in that third country complies with legally binding requirements which are, for the purpose of the application of the exemption set out in paragraph 1, equivalent to the requirements under Title III of Directive 2004/39/EC, under Directive 2003/6/EC of the European Parliament and of the Council of 28 January 2003 on insider dealing and market manipulation (market abuse) ( 5 ) and under Directive 2004/109/EC of the European Parliament and of the Council of 15 December 2004 on the harmonisation of transparency requirements in relation to information about issuers whose securities are admitted to trading on a regulated market ( 6 ), and which are subject to effective supervision and enforcement in that third country.
+
+The legal and supervisory framework of a third country may be considered equivalent where that third country’s:
+
+(a) markets are subject to authorisation and to effective supervision and enforcement on an ongoing basis;
+
+(b) markets have clear and transparent rules regarding admission of securities to trading so that such securities are capable of being traded in a fair, orderly and efficient manner, and are freely negotiable;
+
+(c) security issuers are subject to periodic and ongoing information requirements ensuring a high level of investor protection; and
+
+(d) market transparency and integrity are ensured by preventing market abuse in the form of insider dealing and market manipulation.
+
+3\. Articles 7, 13 and 14 shall not apply to the activities of a natural or legal person where, acting as an authorised primary dealer pursuant to an agreement with a sovereign issuer, it is dealing as principal in a financial instrument in relation to primary or secondary market operations relating to the sovereign debt.
+
+4\. Articles 5, 6, 12, 13 and 14 of this Regulation shall not apply to a natural or legal person where it enters into a short sale of a security or has a net short position in relation to the carrying out of a stabilisation under Chapter III of Commission Regulation (EC) No 2273/2003 of 22 December 2003 implementing Directive 2003/6/EC of the European Parliament and of the Council as regards exemptions for buy-back programmes and stabilisation of financial instruments ( 7 ).
+
+5\. The exemption referred to in paragraph 1 shall apply only where the natural or legal person concerned has notified the competent authority of its home Member State in writing that it intends to make use of the exemption. The notification shall be made not less than 30 calendar days before the natural or legal person first intends to use the exemption.
+
+6\. The exemption referred to in paragraph 3 shall apply only where the authorised primary dealer has notified the relevant competent authority in relation to the sovereign debt concerned in writing that it intends to make use of the exemption. The notification shall be made not less than 30 calendar days before the natural or legal person acting as authorised primary dealer first intends to use the exemption.
+
+7\. The competent authority referred to in paragraphs 5 and 6 may prohibit the use of the exemption if it considers that the natural or legal person does not satisfy the conditions of the exemption. Any prohibition shall be imposed within the 30 calendar day period referred to in paragraph 5 or 6 or subsequently if the competent authority becomes aware that there have been changes in the circumstances of the natural or legal person so that it no longer satisfies the conditions of the exemption.
+
+8\. A third-country entity that is not authorised in the Union shall send the notification referred to in paragraphs 5 and 6 to the competent authority of the main trading venue in the Union in which it trades.
+
+9\. A natural or legal person who has given a notification under paragraph 5 shall as soon as possible notify in writing the competent authority of its home Member State where there are any changes affecting that person’s eligibility to use the exemption, or if it no longer wishes to use the exemption.
+
+10\. A natural or legal person who has given a notification under paragraph 6 shall as soon as possible notify in writing the relevant competent authority in relation to sovereign debt concerned where there are any changes affecting that person’s eligibility to use the exemption, or if it no longer wishes to use the exemption.
+
+11\. The competent authority of the home Member State may request information, in writing, from a natural or legal person operating under the exemptions set out in paragraph 1, 3 or 4 about short positions held or activities conducted under the exemption. The natural or legal person shall provide the information not later than 4 calendar days after the request is made.
+
+12\. A competent authority shall notify ESMA within 2 weeks of notification in accordance with paragraph 5 or 9 of any market makers and in accordance with paragraph 6 or 10 of any authorised primary dealers who are making use of the exemption and of any market makers and authorised primary dealers who are no longer making use of the exemption.
+
+13\. ESMA shall publish and keep up to date on its website a list of market makers and authorised primary dealers who are using the exemption.
+
+14\. A notification under this Article may be made by a person to a competent authority and by a competent authority to ESMA at any time within 60 calendar days before 1 November 2012.
+
+## CHAPTER V — POWERS OF INTERVENTION OF COMPETENT AUTHORITIES AND OF ESMA
+
+### SECTION 1 — Powers of competent authorities
+
+#### Article 18 — Notification and disclosure in exceptional circumstances
+
+1\. Subject to Article 22, a competent authority may require natural or legal persons who have net short positions in relation to a specific financial instrument or class of financial instruments to notify it or to disclose to the public details of the position where the position reaches or falls below a notification threshold fixed by the competent authority and where:
+
+(a) there are adverse events or developments which constitute a serious threat to financial stability or to market confidence in the Member State concerned or in one or more other Member States; and
+
+(b) the measure is necessary to address the threat and will not have a detrimental effect on the efficiency of financial markets which is disproportionate to its benefits.
+
+2\. Paragraph 1 of this Article shall not apply to financial instruments in respect of which transparency is already required under Articles 5 to 8. A measure under paragraph 1 may apply in circumstances or be subject to exceptions specified by the competent authority. Exceptions may in particular be specified to apply to market making activities and primary market activities.
+
+#### Article 19 — Notification by lenders in exceptional circumstances
+
+1\. Subject to Article 22, a competent authority may take the measure referred to in paragraph 2 of this Article where:
+
+(a) there are adverse events or developments which constitute a serious threat to financial stability or to market confidence in the Member State concerned or in one or more other Member States; and
+
+(b) the measure is necessary to address the threat and will not have a detrimental effect on the efficiency of financial markets which is disproportionate to its benefits.
+
+2\. A competent authority may require natural or legal persons engaged in the lending of a specific financial instrument or class of financial instruments to notify any significant change in the fees requested for such lending.
+
+#### Article 20 — Restrictions on short selling and similar transactions in exceptional circumstances
+
+1\. Subject to Article 22, a competent authority may take one or more of the measures referred to in paragraph 2 of this Article where:
+
+(a) there are adverse events or developments which constitute a serious threat to financial stability or to market confidence in the Member State concerned or in one or more other Member States; and
+
+(b) the measure is necessary to address the threat and will not have a detrimental effect on the efficiency of financial markets which is disproportionate to its benefits.
+
+2\. A competent authority may prohibit or impose conditions relating to natural or legal persons entering into:
+
+(a) a short sale; or
+
+(b) a transaction other than a short sale which creates, or relates to, a financial instrument and the effect or one of the effects of that transaction is to confer a financial advantage on the natural or legal person in the event of a decrease in the price or value of another financial instrument.
+
+3\. A measure taken under paragraph 2 may apply to transactions concerning all financial instruments, financial instruments of a specific class or a specific financial instrument. The measure may apply in circumstances or be subject to exceptions specified by the competent authority. Exceptions may in particular be specified to apply to market making activities and primary market activities.
+
+#### Article 21 — Restrictions on sovereign credit default swap transactions in exceptional circumstances
+
+1\. Subject to Article 22, a competent authority may restrict the ability of natural or legal persons to enter into sovereign credit default swap transactions or may limit the value of sovereign credit default swap positions that those persons are permitted to enter into where:
+
+(a) there are adverse events or developments which constitute a serious threat to financial stability or to market confidence in the Member State concerned or in one or more other Member States; and
+
+(b) the measure is necessary to address the threat and will not have a detrimental effect on the efficiency of financial markets which is disproportionate to its benefits.
+
+2\. A measure taken under paragraph 1 may apply to sovereign credit default swap transactions of a specific class or to specific sovereign credit default swap transactions. The measure may apply in circumstances or be subject to exceptions specified by the competent authority. Exceptions may in particular be specified to apply to market making activities and primary market activities.
+
+#### Article 22 — Measures by other competent authorities
+
+Without prejudice to Article 26, a competent authority in relation to a financial instrument for which it is not the relevant competent authority may impose or renew a measure under Article 18, 19, 20 or 21 only with the consent of the relevant competent authority.
+
+#### Article 23 — Power to restrict short selling of financial instruments temporarily in the case of a significant fall in price
+
+1\. Where the price of a financial instrument on a trading venue has fallen significantly during a single trading day in relation to the closing price on that venue on the previous trading day, the competent authority of the home Member State for that venue shall consider whether it is appropriate to prohibit or restrict natural or legal persons from engaging in short selling of the financial instrument on that trading venue or otherwise limit transactions in that financial instrument on that trading venue in order to prevent a disorderly decline in the price of the financial instrument.
+
+Where the competent authority is satisfied under the first subparagraph that it is appropriate to do so, it shall in the case of a share or a debt instrument, prohibit or restrict natural and legal persons from entering into a short sale on that trading venue or in the case of another type of financial instrument, limit transactions in that financial instrument on that trading venue in order to prevent a disorderly decline in the price of the financial instrument.
+
+2\. The measure under paragraph 1 shall apply for a period not exceeding the end of the trading day following the trading day on which the fall in price occurs. If, at the end of the trading day following the trading day on which the fall in price occurs, there is, despite the measure being imposed, a further significant fall in value of at least half of the amount specified in paragraph 5 of the financial instrument from the closing price of the first trading day, the competent authority may extend the measure for a further period not exceeding 2 trading days after the end of the second trading day.
+
+3\. The measure under paragraph 1 shall apply in circumstances or be subject to exceptions specified by the competent authority. Exceptions may in particular be specified to apply to market making activities and primary market activities.
+
+4\. A competent authority of the home Member State of a venue where a financial instrument has during a single trading day fallen by the value referred to in paragraph 5 shall notify ESMA about the decision taken under paragraph 1 at the latest 2 hours after the end of that trading day. ESMA shall immediately inform the competent authorities of the home Member States of venues which trade the same financial instrument.
+
+If a competent authority disagrees with the action taken by another competent authority on a financial instrument traded on different venues regulated by different competent authorities, ESMA may assist those authorities in reaching an agreement in accordance with Article 19 of Regulation (EU) No 1095/2010.
+
+The conciliation shall be completed before midnight at the end of the same trading day. If the competent authorities concerned fail to reach an agreement within the conciliation phase, ESMA may take a decision in accordance with Article 19(3) of Regulation (EU) No 1095/2010. The decision shall be taken before the opening of the next trading day.
+
+5\. The fall in value shall be 10 % or more in the case of a liquid share, as defined in Article 22 of Regulation (EC) No 1287/2006, and for illiquid shares and other classes of financial instruments an amount to be specified by the Commission.
+
+6\. ESMA may issue and send to the Commission an opinion on adjusting the threshold referred to in paragraph 5, taking into account the developments in financial markets.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 42 modifying the thresholds referred to in paragraph 5 of this Article, taking into account the developments in financial markets.
+
+7\. The Commission shall adopt delegated acts in accordance with Article 42 specifying what constitutes a significant fall in value for financial instruments other than liquid shares, taking into account the specificities of each class of financial instrument and the differences of volatility.
+
+8\. In order to ensure consistent application of this Article, ESMA shall develop draft regulatory technical standards specifying the method of calculation of the 10 % fall for liquid shares and of the fall in value specified by the Commission as referred to in paragraph 7.
+
+ESMA shall submit those draft regulatory technical standards to the Commission by 31 March 2012.
+
+Power is delegated to the Commission to adopt the regulatory technical standards referred to in the first subparagraph in accordance with Articles 10 to 14 of Regulation (EU) No 1095/2010.
+
+#### Article 24 — Period of restrictions
+
+A measure imposed under Article 18, 19, 20 or 21 shall be valid for an initial period not exceeding 3 months from the date of publication of the notice referred to in Article 25.
+
+The measure may be renewed for further periods not exceeding 3 months if the grounds for taking the measure continue to apply. If the measure is not renewed by the end of such a 3-month period, it shall automatically expire.
+
+#### Article 25 — Notice of restrictions
+
+1\. A competent authority shall publish on its website notice of any decision to impose or renew any measure referred to in Articles 18 to 23.
+
+2\. The notice shall specify at least details of:
+
+(a) the measures imposed including the instruments and classes of transactions to which they apply and their duration;
+
+(b) the reasons why the competent authority believes it is necessary to impose the measures including the evidence supporting those reasons.
+
+3\. A measure under Articles 18 to 23 shall take effect when the notice is published or at a time specified in the notice that is after its publication and shall only apply in relation to a transaction entered into after the measure takes effect.
+
+#### Article 26 — Notification to ESMA and other competent authorities
+
+1\. Before imposing or renewing any measure under Article 18, 19, 20 or 21 and before imposing any restriction under Article 23, a competent authority shall notify ESMA and the other competent authorities of the measure it proposes.
+
+2\. The notification shall include details of the proposed measures, the classes of financial instruments and transactions to which they will apply, the evidence supporting the reasons for those measures and when the measures are intended to take effect.
+
+3\. Notification of a proposal to impose or renew a measure under Article 18, 19, 20 or 21 shall be made not less than 24 hours before the measure is intended to take effect or to be renewed. In exceptional circumstances, a competent authority may make the notification less than 24 hours before the measure is intended to take effect where it is not possible to give 24 hours notice. A notification of a restriction under Article 23 shall be made before the measure is intended to take effect.
+
+4\. A competent authority that receives notification under this Article may take measures in accordance with Articles 18 to 23 in that Member State where it is satisfied that the measure is necessary to assist the competent authority making the notification. The competent authority that receives notification shall also give notice in accordance with paragraphs 1 to 3 where it proposes to take measures.
+
+### SECTION 2 — Powers of ESMA
+
+#### Article 27 — Coordination by ESMA
+
+1\. ESMA shall perform a facilitation and coordination role in relation to measures taken by the competent authorities under Section 1. In particular ESMA shall ensure that a consistent approach is taken by competent authorities regarding measures taken, especially regarding where it is necessary to use powers of intervention, the nature of any measures imposed and the commencement and duration of such measures.
+
+2\. After receiving notification under Article 26 of any measure that is to be imposed or renewed under Article 18, 19, 20 or 21, ESMA shall within 24 hours issue an opinion on whether it considers the measure or proposed measure is necessary to address the exceptional circumstances. The opinion shall state whether ESMA considers that adverse events or developments have arisen which constitute a serious threat to financial stability or to market confidence in one or more Member States, whether the measure or proposed measure is appropriate and proportionate to address the threat and whether the proposed duration of any such measure is justified. If ESMA considers that the taking of any measure by the other competent authorities is necessary to address the threat, it shall also state this in its opinion. The opinion shall be published on ESMA’s website.
+
+3\. Where a competent authority proposes to take or takes measures contrary to an ESMA opinion under paragraph 2 or declines to take measures contrary to an ESMA opinion under that paragraph, it shall publish on its website within 24 hours of receiving ESMA’s opinion a notice fully explaining its reasons for doing so. Where such a situation arises ESMA shall consider whether the conditions are satisfied and it is an appropriate case for the use of its powers of intervention under Article 28.
+
+4\. ESMA shall review measures under this Article regularly and in any event at least every 3 months. If the measure is not renewed by the end of such a 3-month period, it shall automatically expire.
+
+#### Article 28 — ESMA intervention powers in exceptional circumstances
+
+1\. In accordance with Article 9(5) of Regulation (EU) No 1095/2010, ESMA shall, subject to paragraph 2 of this Article, either:
+
+(a) require natural or legal persons who have net short positions in relation to a specific financial instrument or class of financial instruments to notify a competent authority or to disclose to the public details of any such position; or
+
+(b) prohibit or impose conditions on, the entry by natural or legal persons into a short sale or a transaction which creates, or relates to, a financial instrument other than financial instruments referred to in point (c) of Article 1(1) where the effect or one of the effects of the transaction is to confer a financial advantage on such person in the event of a decrease in the price or value of another financial instrument.
+
+A measure may apply in particular circumstances, or be subject to exceptions specified by ESMA. Exceptions may in particular be specified to apply to market-making activities and primary market activities.
+
+2\. ESMA shall take a decision under paragraph 1 only if:
+
+(a) the measures listed in points (a) and (b) of paragraph 1 address a threat to the orderly functioning and integrity of financial markets or to the stability of the whole or part of the financial system in the Union and there are cross-border implications; and
+
+(b) no competent authority has taken measures to address the threat or one or more of the competent authorities have taken measures that do not adequately address the threat.
+
+3\. Where taking measures referred to in paragraph 1 ESMA shall take into account the extent to which the measure:
+
+(a) significantly addresses the threat to the orderly functioning and integrity of financial markets or to the stability of the whole or part of the financial system in the Union or significantly improves the ability of the competent authorities to monitor the threat;
+
+(b) does not create a risk of regulatory arbitrage;
+
+(c) does not have a detrimental effect on the efficiency of financial markets, including by reducing liquidity in those markets or creating uncertainty for market participants, that is disproportionate to the benefits of the measure.
+
+Where one or more competent authorities have taken a measure under Article 18, 19, 20 or 21, ESMA may take any of the measures referred to in paragraph 1 of this Article without issuing the opinion provided for in Article 27.
+
+4\. Before deciding to impose or renew any measure referred to in paragraph 1, ESMA shall consult the ESRB and, where appropriate, other relevant authorities.
+
+5\. Before deciding to impose or renew any measure referred to in paragraph 1, ESMA shall notify the competent authorities concerned of the measure it proposes to take. The notification shall include details of the proposed measures, the class of financial instruments and transactions to which they will apply, the evidence supporting the reasons for those measures and when the measures are intended to take effect.
+
+6\. The notification shall be made not less than 24 hours before the measure is to take effect or to be renewed. In exceptional circumstances, ESMA may make the notification less than 24 hours before the measure is intended to take effect where it is not possible to give 24 hours’ notice.
+
+7\. ESMA shall publish on its website notice of any decision to impose or renew any measure referred to in paragraph 1. The notice shall at least specify:
+
+(a) the measures imposed including the instruments and classes of transactions to which they apply, and their duration; and
+
+(b) the reasons why ESMA is of the opinion that it is necessary to impose the measures including the evidence supporting those reasons.
+
+8\. After deciding to impose or renew any measure referred to in paragraph 1, ESMA shall immediately notify the competent authorities of the measures taken.
+
+9\. A measure shall take effect when the notice is published on the ESMA website or at a time specified in the notice that is after its publication and shall only apply in relation to a transaction entered into after the measure takes effect.
+
+10\. ESMA shall review the measures referred to in paragraph 1 at appropriate intervals and at least every 3 months. If the measure is not renewed by the end of such a 3-month period it shall automatically expire. Paragraphs 2 to 9 shall apply to a renewal of measures.
+
+11\. A measure adopted by ESMA under this Article shall prevail over any previous measure taken by a competent authority under Section 1.
+
+#### Article 29 — ESMA’s powers in emergency situations relating to sovereign debt
+
+In the case of an emergency situation relating to sovereign debt or sovereign credit default swaps, Articles 18 and 38 of Regulation (EU) No 1095/2010 shall apply.
+
+#### Article 30 — Further specification of adverse events or developments
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 42 specifying criteria and factors to be taken into account by the competent authorities and by ESMA in determining in which cases the adverse events or developments referred to in Articles 18 to 21 and Article 27 and the threats referred to in point (a) of Article 28(2) arise.
+
+#### Article 31 — Inquiries by ESMA
+
+ESMA may, on the request of one or more of the competent authorities, the European Parliament, the Council or the Commission or on its own initiative conduct an inquiry into a particular issue or practice relating to short selling or relating to the use of credit default swaps to assess whether that issue or practice poses any potential threat to financial stability or market confidence in the Union.
+
+ESMA shall publish a report setting out its findings and any recommendations relating to the issue or practice within 3 months as from the end of any such inquiry.
+
+## CHAPTER VI — ROLE OF COMPETENT AUTHORITIES
+
+#### Article 32 — Competent authorities
+
+Each Member State shall designate one or more of the competent authorities for the purpose of this Regulation.
+
+Where a Member State designates more than one competent authority, it shall clearly determine their respective roles and it shall designate the authority to be responsible for coordinating the cooperation and the exchange of information with the Commission, ESMA and the competent authorities of the other Member States.
+
+Member States shall inform the Commission, ESMA and the competent authorities of the other Member States of those designations.
+
+#### Article 33 — Powers of competent authorities
+
+1\. In order to fulfil their duties under this Regulation, the competent authorities shall have all the supervisory and investigatory powers that are necessary for the exercise of their functions. They shall exercise their powers in any of the following ways:
+
+(a) directly;
+
+(b) in collaboration with other authorities;
+
+(c) by application to the competent judicial authorities.
+
+2\. In order to fulfil their duties under this Regulation, the competent authorities shall, in accordance with national law, have the power:
+
+(a) to gain access to any document in any form and to receive or take a copy thereof;
+
+(b) to require information from any natural or legal person and if necessary to summon and question a natural or legal person with a view to obtaining information;
+
+(c) to carry out on-site inspections with or without prior announcement;
+
+(d) to require existing telephone and existing data traffic records;
+
+(e) to require the cessation of any practice that is contrary to the provisions in this Regulation;
+
+(f) to require the freezing and/or the sequestration of assets.
+
+3\. The competent authorities shall, without prejudice to points (a) and (b) of paragraph 2, have the power in individual cases to require a natural or legal person entering into a credit default swap transaction to provide:
+
+(a) an explanation about the purpose of the transaction and whether it is for the purposes of hedging against a risk or otherwise; and
+
+(b) information verifying the underlying risk where the transaction is for hedging purposes.
+
+#### Article 34 — Professional secrecy
+
+1\. The obligation of professional secrecy shall apply to all natural or legal persons who work or who have worked for the competent authority or for any authority or natural or legal person to whom the competent authority has delegated tasks, including auditors and experts contracted by the competent authority. Confidential information covered by professional secrecy may not be disclosed to any other natural or legal person or authority except where such disclosure is necessary for legal proceedings.
+
+2\. All the information exchanged between the competent authorities under this Regulation that concerns business or operational conditions and other economic or personal affairs shall be considered confidential and shall be subject to the requirements of professional secrecy, except where the competent authority states at the time of communication that such information may be disclosed or such disclosure is necessary for legal proceedings.
+
+#### Article 35 — Obligation to cooperate
+
+The competent authorities shall cooperate where necessary or expedient for the purposes of this Regulation. In particular, the competent authorities shall, without undue delay, supply each other with information which is relevant for the purposes of carrying out their duties under this Regulation.
+
+#### Article 36 — Cooperation with ESMA
+
+The competent authorities shall cooperate with ESMA for the purposes of this Regulation in accordance with Regulation (EU) No 1095/2010.
+
+The competent authorities shall provide, without delay, ESMA with all the information necessary to carry out its duties in accordance with Regulation (EU) No 1095/2010.
+
+#### Article 37 — Cooperation in case of request for on-site inspections or investigations
+
+1\. The competent authority of one Member State may request assistance from the competent authority of another Member State with regard to on-site inspections or investigations.
+
+The requesting competent authority shall inform ESMA of any request referred to in the first subparagraph. In case of an investigation or an inspection with cross-border effects, ESMA may and if requested shall coordinate the investigation or inspection.
+
+2\. Where a competent authority receives a request from a competent authority of another Member State to carry out an on-site inspection or an investigation, it may:
+
+(a) carry out the on-site inspection or investigation itself;
+
+(b) allow the competent authority which submitted the request to participate in an on-site inspection or investigation;
+
+(c) allow the competent authority which submitted the request to carry out the on-site inspection or investigation itself;
+
+(d) appoint auditors or experts to carry out the on-site inspection or investigation;
+
+(e) share specific tasks relating to supervisory activities with the other competent authorities.
+
+3\. ESMA may request the competent authorities to carry out specific investigatory tasks and on-site inspections where information is reasonably required by ESMA to enable it to exercise a power expressly conferred on it by this Regulation.
+
+#### Article 38 — Cooperation with third countries
+
+1\. The competent authorities shall, where possible, conclude cooperation arrangements with supervisory authorities of third countries concerning the exchange of information with supervisory authorities of third countries, the enforcement of obligations arising under this Regulation in third countries and the taking of similar measures in third countries by their supervisory authorities to complement measures taken under Chapter V. These cooperation arrangements shall ensure at least an efficient exchange of information that allows the competent authorities to carry out their duties under this Regulation.
+
+A competent authority shall inform ESMA and the competent authorities of the other Member States where it proposes to enter into such an arrangement.
+
+2\. The cooperation arrangement shall contain provisions on the exchange of data and information necessary for the relevant competent authority to comply with the obligation set out in Article 16(2).
+
+3\. ESMA shall coordinate the development of cooperation arrangements between the competent authorities and the relevant supervisory authorities of third countries. For that purpose, ESMA shall prepare a template document for cooperation arrangements that may be used by the competent authorities.
+
+ESMA shall also coordinate the exchange between the competent authorities of information obtained from supervisory authorities of third countries that may be relevant to the taking of measures under Chapter V.
+
+4\. The competent authorities shall conclude cooperation arrangements on the exchange of information with the supervisory authorities of third countries only where the information disclosed is subject to guarantees of professional secrecy which are at least equivalent to those set out in Article 34. Such exchange of information shall be intended for the performance of the tasks of those competent authorities.
+
+#### Article 39 — Transfer and retention of personal data
+
+With regard to transfer of personal data between Member States or between Member States and a third country, Member States shall apply Directive 95/46/EC. With regard to transfer of personal data by ESMA to Member States or to a third country, ESMA shall comply with Regulation (EC) No 45/2001.
+
+Personal data referred to in the first paragraph shall be retained for a maximum period of 5 years.
+
+#### Article 40 — Disclosure of information to third countries
+
+A competent authority may transfer to a supervisory authority of a third country data and the analysis of data where the conditions laid down in Article 25 or 26 of Directive 95/46/EC are fulfilled but such transfer shall be made only on a case-by-case basis. The competent authority shall be satisfied that the transfer is necessary for the purposes of this Regulation. Any such transfer shall be made under agreement that the third country shall not transfer the data to the supervisory authority of another third country without the express written authorisation of the competent authority.
+
+A competent authority shall disclose information which is confidential pursuant to Article 34 and which is received from a competent authority of another Member State to a supervisory authority of a third country only where the competent authority has obtained the express agreement of the competent authority which transmitted the information and, where applicable, the information is disclosed solely for the purposes for which that competent authority gave its agreement.
+
+#### Article 41 — Penalties
+
+Member States shall establish rules on penalties and administrative measures, applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. Those penalties and administrative measures shall be effective, proportionate and dissuasive.
+
+In accordance with Regulation (EU) No 1095/2010, ESMA may adopt guidelines to ensure a consistent approach is taken concerning the penalties and administrative measures to be established by Members States.
+
+Member States shall notify the Commission and ESMA of the provisions referred to in the first and second subparagraphs by 1 July 2012 and shall notify them without delay of any subsequent amendment affecting those provisions.
+
+ESMA shall publish on its website and update regularly a list of existing penalties and administrative measures applicable in each Member State.
+
+Member States shall provide ESMA annually with aggregate information regarding the penalties and administrative measures imposed. If a competent authority discloses to the public the fact that a penalty or an administrative measure has been imposed, it shall, contemporaneously, notify ESMA thereof.
+
+## CHAPTER VII — DELEGATED ACTS
+
+#### Article 42 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 2(2), Article 3(7), Article 4(2), Article 5(4), Article 6(4), Article 7(3), Article 17(2), Article 23(5) and Article 30 shall be conferred on the Commission for an indeterminate period of time.
+
+3\. The delegation of power referred to in Article 2(2), Article 3(7), Article 4(2), Article 5(4), Article 6(4), Article 7(3), Article 17(2), Article 23(5) and Article 30 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. The decision to revoke shall take effect on the day following its publication in the Official Journal of the European Union or on a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 2(2), Article 3(7), Article 4(2), Article 5(4), Article 6(4), Article 7(3), Article 17(2), Article 23(5) and Article 30 shall enter into force only if no objection has been expressed by either the European Parliament or the Council within a period of 3 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 3 months at the initiative of the European Parliament or of the Council.
+
+#### Article 43 — Deadline for the adoption of delegated acts
+
+The Commission shall adopt the delegated acts under Article 2(2), Article 3(7), Article 4(2), Article 5(4), Article 6(4), Article 7(3), Article 17(2), Article 23(5) and Article 30 by 31 March 2012.
+
+The Commission may extend the deadline referred to in the first paragraph by 6 months.
+
+## CHAPTER VIII — IMPLEMENTING ACTS
+
+#### Article 44 — Committee procedure
+
+1\. The Commission shall be assisted by the European Securities Committee established by Commission Decision 2001/528/EC ( 8 ). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## CHAPTER IX — TRANSITIONAL AND FINAL PROVISIONS
+
+#### Article 45 — Review and report
+
+By 30 June 2013, the Commission shall, in light of discussions with the competent authorities and ESMA, report to the European Parliament and the Council on:
+
+(a) the appropriateness of the notification and disclosure thresholds under Articles 5, 6, 7 and 8;
+
+(b) the impact of the individual disclosure requirements under Article 6, in particular with regard to the efficiency and volatility of financial markets;
+
+(c) the appropriateness of direct, centralised reporting to ESMA;
+
+(d) the operation of the restrictions and requirements in Chapters II and III;
+
+(e) the appropriateness of the restrictions on the uncovered sovereign credit default swaps and the appropriateness of any other restrictions or conditions on short selling or credit default swaps.
+
+#### Article 46 — Transitional provision
+
+1\. Existing measures falling within the scope of this Regulation, in force before 15 September 2010, may remain applicable until 1 July 2013 provided that they are notified to the Commission by 24 April 2012.
+
+2\. Credit default swap transactions resulting in an uncovered position in a sovereign credit default swap that have been concluded before 25 March 2012 or during a suspension of restrictions on uncovered sovereign credit default swaps in accordance with Article 14(2) may be held until the maturity date of the credit default swap contract.
+
+#### Article 47 — Staff and resources of ESMA
+
+By 31 December 2012, ESMA shall assess its staffing and resources needs arising from the assumption of its powers and duties under this Regulation and submit a report to the European Parliament, the Council and the Commission.
+
+#### Article 48 — Entry into force
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 November 2012.
+
+However, Article 2(2), Article 3(7), Article 4(2), Article 7(3), Article 9(5), Article 11(3) and (4), Article 12(2), Article 13(4) and (5), Article 16(3) and (4), Article 17(2), Article 23(5), (7) and (8), and Articles 30, 42, 43 and 44 shall apply from 25 March 2012.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ L 177, 30.6.2006, p. 1.
+
+( 2 ) Commission Regulation (EC) No 1287/2006 of 10 August 2006 implementing Directive 2004/39/EC of the European Parliament and of the Council as regards record-keeping obligations for investment firms, transaction reporting, market transparency, admission of financial instruments to trading, and defined terms for the purposes of that Directive (OJ L 241, 2.9.2006, p. 1).
+
+( 3 ) OJ L 142, 30.4.2004, p. 12.
+
+( 4 ) Regulation (EU) 2023/2859 of the European Parliament and of the Council of 13 December 2023 establishing a European single access point providing centralised access to publicly available information of relevance to financial services, capital markets and sustainability (OJ L, 2023/2859, 20.12.2023, ELI: http://data.europa.eu/eli/reg/2023/2859/oj).
+
+( 5 ) OJ L 96, 12.4.2003, p. 16.
+
+( 6 ) OJ L 390, 31.12.2004, p. 38.
+
+( 7 ) OJ L 336, 23.12.2003, p. 33.
+
+( 8 ) OJ L 191, 13.7.2001, p. 45.

@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DECISION (EU) 2024/1254 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 April 2024 </td><td> L 1254</td><td>1</td><td>30.4.2024</td></tr>
+</table>
 
 **DIRECTIVE 2009/12/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

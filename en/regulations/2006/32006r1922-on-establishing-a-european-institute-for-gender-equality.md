@@ -1,0 +1,383 @@
+---
+title: "Regulation (EC) No 1922/2006 of the European Parliament and of the Council of 20 December 2006 on establishing a European Institute for Gender Equality"
+identifier: "32006R1922"
+eli: "http://data.europa.eu/eli/reg/2006/1922/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-12-20
+entry_into_force: 2006-06-27
+last_amended: 2007-01-19
+consolidated_version: "02006R1922-20070119"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R1922-20070119"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1922/2006 of the European Parliament and of the Council of 20 December 2006 on establishing a European Institute for Gender Equality
+
+**REGULATION (EC) No 1922/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 December 2006**
+
+**on establishing a European Institute for Gender Equality**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> ADDENDUM to Regulation (EC) No 1922/2006 of the European Parliament and of the Council of 20 December 2006 establishing a European Institute for Gender Equality</td><td> L 54</td><td>3</td><td>22.2.2007</td></tr>
+</table>
+
+**REGULATION (EC) No 1922/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 December 2006**
+
+**on establishing a European Institute for Gender Equality**
+
+### Article 1 — Establishment of the Institute
+
+A European Institute for Gender Equality (hereinafter referred to as ‘the Institute’) is hereby established.
+
+### Article 2 — Objectives
+
+The overall objectives of the Institute shall be to contribute to and strengthen the promotion of gender equality, including gender mainstreaming in all Community policies and the resulting national policies, and the fight against discrimination based on sex, and to raise EU citizens' awareness of gender equality by providing technical assistance to the Community institutions, in particular the Commission, and the authorities of the Member States, as set out in Article 3.
+
+### Article 3 — Tasks
+
+1\. To meet the objectives set in Article 2, the Institute shall:
+
+(a) collect, analyse and disseminate relevant objective, comparable and reliable information as regards gender equality, including results from research and best practice communicated to it by Member States, Community institutions, research centres, national equality bodies, non-governmental organisations, social partners, relevant third countries and international organisations, and suggest areas for further research;
+
+(b) develop methods to improve the objectivity, comparability and reliability of data at European level by establishing criteria that will improve the consistency of information and take into account gender issues when collecting data;
+
+(c) develop, analyse, evaluate and disseminate methodological tools in order to support the integration of gender equality into all Community policies and the resulting national policies and to support gender mainstreaming in all Community institutions and bodies;
+
+(d) carry out surveys on the situation in Europe as regards gender equality;
+
+(e) set up and coordinate a European Network on Gender Equality, involving the centres, bodies, organisations and experts dealing with gender equality and gender mainstreaming in order to support and encourage research, optimise the use of available resources and foster the exchange and dissemination of information;
+
+(f) organise ad hoc meetings of experts to support the institute's research work, encourage the exchange of information among researchers and promote the inclusion of a gender perspective in their research;
+
+(g) in order to raise EU citizens' awareness of gender equality, organise, with relevant stakeholders, conferences, campaigns and meetings at European level, and present the findings and conclusions to the Commission;
+
+(h) disseminate information regarding positive examples of non-stereotypical roles for women and men in every walk of life, present its findings and initiatives designed to publicise and build on such success stories;
+
+(i) develop dialogue and cooperation with non-governmental and equal opportunities organisations, universities and experts, research centres, social partners and related bodies actively seeking to achieve equality at national and European level;
+
+(j) set up documentation resources accessible to the public;
+
+(k) make information on gender mainstreaming available to public and private organisations; and
+
+(l) provide information to the Community Institutions on gender equality and gender mainstreaming in the accession and candidate countries.
+
+2\. The Institute shall publish an annual report on its activities.
+
+### Article 4 — Areas of activity and working methods
+
+1\. The Institute shall carry out its tasks within the competences of the Community and in the light of the objectives adopted and priority areas identified in its annual programme, and with due regard to the available budgetary resources.
+
+2\. The work programme of the Institute shall be in line with the Community priorities in the field of gender equality and the work programme of the Commission, including its statistical and research work.
+
+3\. In pursuing its activities, the Institute shall, in order to avoid duplication and to ensure the best possible use of resources, take account of existing information from whatever source and in particular of activities already carried out by the Community institutions and by other institutions, bodies and competent national and international organisations and work closely with the competent Commission services, including Eurostat. The Institute shall ensure appropriate coordination with all relevant Community agencies and Union bodies to be determined in a memorandum of understanding where appropriate.
+
+4\. The Institute shall ensure that the information disseminated is comprehensible to the final users.
+
+5\. The Institute may enter into contractual relations, in particular subcontracting arrangements, with other organisations, in order to accomplish any tasks which it may entrust to them.
+
+### Article 5 — Legal personality and capacity
+
+The Institute shall have legal personality. It shall enjoy, in each of the Member States, the most extensive legal capacity accorded to legal persons under their laws. In particular, it may acquire or dispose of movable or immovable property and may be a party to legal proceedings.
+
+### Article 6 — Independence of the Institute
+
+The Institute shall carry out its activities independently in the public interest.
+
+### Article 7 — Access to documents
+
+1\. Regulation (EC) No 1049/2001 shall apply to documents held by the Institute.
+
+2\. The Management Board shall adopt arrangements for implementing Regulation (EC) No 1049/2001 within six months of the establishment of the Institute.
+
+3\. Decisions taken by the Institute pursuant to Article 8 of Regulation (EC) No 1049/2001 may give rise to the lodging of a complaint to the Ombudsman or form the subject of an action before the Court of Justice, under the conditions laid down in Articles 195 and 230 of the Treaty respectively.
+
+4\. Regulation (EC) No 45/2001 shall apply to the processing of data by the Institute.
+
+### Article 8 — Cooperation with organisations at national and European level, international organisations and third countries
+
+1\. To help it carry out its tasks, the Institute shall cooperate with organisations and experts in the Member States, such as equality bodies, research centres, universities, non-governmental organisations, social partners as well as with relevant organisations at European or international level and third countries.
+
+2\. Should agreements with international organisations or with third countries prove necessary for the Institute to carry out its tasks efficiently, the Community shall, in accordance with the procedure provided for in Article 300 of the Treaty, enter into such agreements with the international organisations or with third countries in the interests of the Institute. This provision shall not preclude ad hoc cooperation with such organisations or third countries.
+
+### Article 9 — Composition of the Institute
+
+The Institute shall comprise:
+
+(a) a Management Board;
+
+(b) an Experts' Forum;
+
+(c) a Director and his or her staff.
+
+### Article 10 — Management Board
+
+1\. The Management Board shall consist of:
+
+(a) eighteen representatives appointed by the Council, on the basis of a proposal from each Member State concerned;
+
+(b) one member representing the Commission, appointed by the Commission;
+
+2\. The members of the Management Board shall be appointed in such a way as to secure the highest standards of competence and a broad range of relevant and transdisciplinary expertise in the area of gender equality.
+
+The Council and the Commission shall aim to achieve a balanced representation between men and women on the Management Board.
+
+Alternates who represent the member in his or her absence shall be appointed by the same procedure.
+
+The list of the members and alternates of the Management Board shall be published by the Council in the Official Journal of the European Union, on the website of the Institute and on other relevant websites.
+
+3\. The term of office shall be three years. For each term of office, the members appointed by the Council shall represent eighteen Members States in the order of the rotating Presidencies, one member being nominated by each Member State concerned.
+
+4\. The Management Board shall elect its Chairperson and Vice-Chairperson to serve for a period of three years.
+
+5\. Each member of the Management Board referred to under paragraph 1(a) or (b), or in his or her absence, his or her alternate, shall have one vote.
+
+6\. The Management Board shall take the decisions necessary for the operation of the Institute. In particular, it shall:
+
+(a) adopt, on the basis of a draft drawn up by the Director, as referred to in Article 12, after consultation with the Commission, the annual work programme and the medium term work programme, covering a three-year period, in accordance with the budget and the available resources; the programmes may be reviewed whenever necessary; the first annual work programme shall be adopted not later than nine months after the appointment of the Director;
+
+(b) adopt the annual report referred to in Article 3(2), comparing, in particular, the results achieved with the objectives of the annual work programme; this report shall be forwarded by 15 June at the latest to the European Parliament, the Council, the Commission, the Court of Auditors, the European Economic and Social Committee and the Committee of the Regions and shall be published on the website of the Institute;
+
+(c) exercise disciplinary authority over the Director and appoint or dismiss him or her pursuant to Article 12; and
+
+(d) adopt the Institute's annual draft and final budgets.
+
+7\. The Management Board shall adopt the Institute's internal rules on the basis of a proposal drawn up by the Director after consultation with the Commission.
+
+8\. Decisions by the Management Board shall be taken by a majority of its members. The Chairperson shall have the casting vote. In the cases referred to in paragraph 6 and in Article 12(1), decisions shall be taken by a two-thirds majority of its members.
+
+9\. The Management Board shall adopt its rules of procedure on the basis of a proposal drawn up by the Director after consultation with the Commission.
+
+10\. The Chairperson shall convene the Management Board at least once a year. The Chairperson shall convene additional meetings on his or her own initiative or at the request of one-third of the members of the Management Board.
+
+11\. The Institute shall forward annually to the European Parliament and the Council (hereinafter referred to as the ‘budgetary authority’) any information relevant to the outcome of the evaluation procedures.
+
+12\. The Directors of the European Foundation for the Improvement of Living and Working Conditions, the European Agency for Safety and Health at Work, the Centre for the Development of Vocational Training and of the European Union Agency for Fundamental Rights may as appropriate be invited to attend meetings of the Management Board as observers in order to coordinate the respective working programmes as regards gender mainstreaming.
+
+### Article 11 — Experts' Forum
+
+1\. The Experts' Forum shall be composed of members from competent bodies specialised in gender equality issues, on the basis of one representative designated by each Member State, two members representing other relevant organisations specialised in gender equality issues designated by the European Parliament, as well as three members designated by the Commission and representing interested parties at European level, with one representative each from:
+
+(a) an appropriate non-governmental organisation at Community level which has a legitimate interest in contributing to the fight against discrimination on grounds of sex and the promotion of gender equality;
+
+(b) employers' organisations at Community level; and
+
+(c) workers' organisations at Community level.
+
+The Member States and the Commission shall aim to achieve a balanced representation between men and women in the Experts' Forum.
+
+Members may be replaced by alternates, appointed at the same time.
+
+2\. Members of the Experts' Forum shall not be members of the Management Board.
+
+3\. The Experts' Forum shall support the Director in ensuring the excellence and independence of activities of the Institute.
+
+4\. The Experts' Forum shall constitute a mechanism for an exchange of information in relation to gender equality issues and the pooling of knowledge. It shall ensure close cooperation between the Institute and competent bodies in the Member States.
+
+5\. The Experts' Forum shall be chaired by the Director or, in his/her absence, by a deputy from within the Institute. It shall meet regularly at the invitation of the Director, or at the request of at least a third of its members, and at least once per year. Its operational procedures shall be specified in the Institute's internal rules and shall be made public.
+
+6\. Representatives of the Commission's departments shall participate in the work of the Experts' Forum.
+
+7\. The Institute shall provide the technical and logistic support necessary for the Experts' Forum and provide a secretariat for its meetings.
+
+8\. The Director may invite experts or representatives of relevant economic sectors, employers, trade unions, professional or research bodies, or non-governmental organisations with recognised experience in disciplines related to the work of the Institute to cooperate in specific tasks and to take part in the relevant activities of the Experts' Forum.
+
+### Article 12 — Director
+
+1\. The Institute shall be headed by a Director appointed by the Management Board on the basis of a list of candidates proposed by the Commission after an open competition, following publication in the Official Journal of the European Union and elsewhere of a call for expressions of interest. Before being appointed, the candidate selected by the Management Board shall be asked to make a declaration before the competent committee(s) of the European Parliament and answer questions from its/their members.
+
+2\. The Director's term of office shall be 5 years. On a proposal from the Commission and after evaluation, that term of office may be extended once for a period of not more than 5 years. In the evaluation, the Commission shall assess in particular:
+
+(a) the results achieved in the first term of office and the way they were achieved,
+
+(b) the Institute's duties and requirements in the coming years.
+
+3\. The Director shall be responsible, under the supervision of the Management Board, for:
+
+(a) performance of the tasks referred to in Article 3;
+
+(b) preparing and implementing the Institute's annual and medium-term programmes of activities;
+
+(c) preparing the meetings of the Management Board and the Experts' Forum;
+
+(d) preparing and publishing the annual report referred to in Article 3(2);
+
+(e) all staff-related matters, and in particular exercising the powers provided for in Article 13(3);
+
+(f) matters of day-to-day administration; and
+
+(g) the implementation of effective monitoring and evaluation procedures relating to the performance of the Institute against its objectives according to professionally recognised standards. The Director shall report annually to the Management Board on the results of the monitoring system.
+
+4\. The Director shall be accountable for the management of his/her activities to the Management Board and shall take part in its meetings without voting rights. He/she may also be invited by the European Parliament to report during a hearing on significant issues linked to the Institute's activities.
+
+5\. The Director shall be the Institute's legal representative.
+
+### Article 13 — Staff
+
+1\. The Staff Regulations of officials of the European Communities and the Conditions of Employment of other servants of the European Communities laid down in Regulation (EEC, ECSC, Euratom) No 259/68 ( 12 ) and the rules adopted jointly by the European Community institutions for the purpose of applying these Staff Regulations and Conditions of Employment shall apply to the staff of the Institute.
+
+2\. The Management Board, in agreement with the Commission, shall adopt the necessary implementing measures, in accordance with the arrangements provided for in Article 110 of the Staff Regulations. The Management Board may adopt provisions to allow national experts from Member States to be employed on secondment at the Institute.
+
+3\. The Institute shall exercise in respect of its staff the powers devolved to the appointing authority.
+
+### Article 14 — Drawing up of the budget
+
+1\. Estimates of all the revenue and expenditure of the Institute shall be prepared for each financial year, corresponding to the calendar year, and shall be shown in the budget of the Institute.
+
+2\. The revenue and expenditure shown in the budget of the Institute shall be in balance.
+
+3\. The revenue of the Institute shall, without prejudice to other resources, comprise:
+
+(a) a subsidy from the Community, entered in the general budget of the European Union (Commission section);
+
+(b) payments received for services rendered;
+
+(c) any financial contributions from the organisations or third countries referred to in Article 8; and
+
+(d) any voluntary contribution from the Member States.
+
+4\. The expenditure of the Institute shall include staff remuneration, administrative and infrastructure costs and operating expenses.
+
+5\. Each year the Management Board, on the basis of a draft drawn up by the Director, shall produce an estimate of revenue and expenditure for the Institute for the following financial year. This estimate, which shall include a draft establishment plan, shall be forwarded by the Management Board to the Commission by 31 March at the latest.
+
+6\. The estimate shall be forwarded by the Commission to the budgetary authority together with the preliminary draft general budget of the European Union.
+
+7\. On the basis of the estimate, the Commission shall enter in the preliminary draft general budget of the European Union the estimates it deems necessary for the establishment plan and the amount of the subsidy to be charged to the general budget, which it shall place before the budgetary authority in accordance with Article 272 of the Treaty.
+
+8\. The budgetary authority shall authorise the appropriations for the subsidy to the Institute and shall adopt the establishment plan for the Institute.
+
+9\. The budget of the Institute shall be adopted by the Management Board. It shall become final following final adoption of the general budget of the European Union. Where appropriate, it shall be adjusted accordingly.
+
+10\. The Management Board shall, as soon as possible, notify the budgetary authority of its intention to implement any project which may have significant financial implications for the funding of its budget, in particular any projects relating to property such as the rental or purchase of buildings. It shall inform the Commission thereof.
+
+Where a branch of the budgetary authority has notified its intention to deliver an opinion, it shall forward its opinion to the Management Board within a period of six weeks from the date of notification of the project.
+
+### Article 15 — Implementation of the budget
+
+1\. The Director shall implement the budget of the Institute.
+
+2\. By 1 March at the latest following each financial year, the Institute's accounting officer shall communicate the provisional accounts to the Commission's accounting officer together with a report on the budgetary and financial management for that financial year. The Commission's accounting officer shall consolidate the provisional accounts of the institutions and decentralised bodies in accordance with Article 128 of Regulation (EC, Euratom) No 1605/2002.
+
+3\. By 31 March at the latest following each financial year, the Commission's accounting officer shall forward the Institute's provisional accounts to the Court of Auditors, together with the report mentioned in paragraph 2. The report shall also be forwarded to the European Parliament and the Council.
+
+4\. On receipt of the Court of Auditors' observations on the Institute's provisional accounts, pursuant to Article 129 of the Regulation (EC, Euratom) No 1605/2002, the Director shall draw up the Institute's final accounts under his or her own responsibility and forward them to the Management Board for an opinion.
+
+5\. The Management Board shall deliver an opinion on the Institute's final accounts.
+
+6\. By 1 July at the latest following each financial year, the Director shall forward the final accounts to the European Parliament, the Council, the Commission and the Court of Auditors, together with the Management Board's opinion.
+
+7\. The final accounts shall be published.
+
+8\. The Director shall send the Court of Auditors a reply to its observations by 30 September at the latest. He or she shall also send that reply to the Management Board.
+
+9\. The Director shall submit to the European Parliament, at the latter's request, any information required for the smooth application of the discharge procedure for the financial year in question, as laid down in Article 146(3) of the Regulation (EC, Euratom) No 1605/2002.
+
+10\. By 30 April of year N + 2, the European Parliament, on a recommendation from the Council acting by a qualified majority, shall give a discharge to the Director in respect of the implementation of the budget for year N.
+
+11\. The financial rules applicable to the Institute shall be adopted by the Management Board after the Commission has been consulted. They may not depart from Regulation (EC, Euratom) No 2343/2002 unless specifically required for the Institute's operation and with the Commission's prior consent.
+
+### Article 16 — Languages
+
+1\. The provisions laid down in Regulation No 1 of 15 April 1958 determining the languages to be used in the European Economic Community ( 13 ) shall apply to the Institute.
+
+2\. The translation services required for the functioning of the Institute shall, in principle, be provided by the Translation Centre for the Bodies of the European Union set up by Council Regulation (EC) No 2965/94 ( 14 ).
+
+### Article 17 — Privileges and immunities
+
+The Protocol on the Privileges and Immunities of the European Communities shall apply to the Institute.
+
+### Article 18 — Liability
+
+1\. The contractual liability of the Institute shall be governed by the law applicable to the contract in question.
+
+The Court of Justice shall have jurisdiction pursuant to an arbitration clause contained in any contracts concluded by the Institute.
+
+2\. In the case of non-contractual liability, the Institute shall, in accordance with the general principles common to the laws of the Member States, make good any damage caused by the Institute or its servants in the performance of their duties.
+
+The Court of Justice shall have jurisdiction in disputes relating to compensation for any such damage.
+
+### Article 19 — Participation of third countries
+
+1\. The Institute shall be open to the participation of countries which have concluded agreements with the European Community by virtue of which they have adopted and apply Community legislation in the field covered by this Regulation.
+
+2\. Arrangements shall be made under the relevant provisions of those agreements, specifying in particular the nature, extent and manner in which those countries are to participate in the Institute's work, including provisions relating to participation in the initiatives undertaken by the Institute, financial contributions and staff. As regards staff matters, those agreements shall, at all events, be in accordance with the Staff Regulations of officials of the European Communities and the Conditions of employment of other servants of the European Communities.
+
+### Article 20 — Evaluation
+
+1\. By 18 January 2010, the Institute shall commission an independent external evaluation of its achievements on the basis of terms of reference issued by the Management Board in agreement with the Commission. The evaluation shall assess the impact of the Institute on the promotion of gender equality and shall include an analysis of the synergy effects. It shall, in particular, address the possible need to modify or extend the tasks of the Institute, including the financial implications of any such modification or extension of the tasks. Such evaluation shall also examine the appropriateness of the management structure in carrying out the Institute's tasks. The evaluation shall take into account the views of the stakeholders, at both Community and national level.
+
+2\. The Management Board, in agreement with the Commission, shall decide the timing of future evaluations, taking into account the results of the evaluation report mentioned in paragraph 1.
+
+### Article 21 — Review clause
+
+The Management Board shall examine the conclusions of the evaluation mentioned in Article 20 and issue to the Commission such recommendations as may be necessary regarding changes in the Institute, its working practices and remit. The Commission shall forward the evaluation report and the recommendations to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions and make them public. After examination of the evaluation report and the recommendations, the Commission may submit any proposals which it deems necessary concerning this Regulation.
+
+### Article 22 — Administrative control
+
+The operations of the Institute shall be subject to the supervision of the Ombudsman in accordance with the provisions of Article 195 of the Treaty.
+
+### Article 23 — Start of the Institute's activities
+
+The Institute shall be operational as soon as possible and in any event not later than 19 January 2008.
+
+### Article 24 — Entry into force
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## STATEMENT BY THE COUNCIL, THE EUROPEAN PARLIAMENT AND THE COMMISSION
+
+Equality between men and women is a fundamental principle of the European Union. The Council, European Parliament and the European Commission aim to increase the awareness, the pooling of resources and the exchange of experience in the area of gender equality, in particular through the establishment of a European Institute for Gender Equality.
+
+With regard to the organisation of the Institute, the Council, the European Parliament and the Commission state that the management structure, and in particular the number of representatives of the Member States on the Management Board, is determined by reference to the specific nature of the European Institute for Gender Equality and does not therefore constitute a precedent for other agencies in the future.
+
+In order to ensure an orderly rotation of the members appointed by the Council, the Member States shall be divided into three groups of nine in the order of the forthcoming Presidencies. For the first term of office, the Council representatives shall be composed of members drawn from the first two groups of Member States; for the second term of office, the Council representatives shall be drawn from the third and first groups and for the third term of office from the second and third groups, and so on for subsequent terms of office ( 15 ). In the event of any future enlargement the rotation system will be adjusted accordingly.
+
+( 1 ) OJ C 24, 31.1.2006, p. 29.
+
+( 2 ) Opinion of the European Parliament of 14 March 2006 (not yet published in the Official Journal), Council Common Position of 18 September 2006 (OJ C 295 E, 5.12.2006, p. 57) and Position of the European Parliament of 14 December 2006 (not yet published in the Official Journal). Council Decision of 19 December 2006.
+
+( 3 ) European Commission Feasibility Study for a European Gender Institute (conducted by PLS Ramboll Management, DK, 2002).
+
+( 4 ) OJ C 102 E, 28.4.2004, p. 638.
+
+( 5 ) Council Regulation (EEC) No 1365/75 of 26 May 1975 on the creation of a European Foundation for the Improvement of Living and Working Conditions (OJ L 139, 30.5.1975, p. 1). Regulation as last amended by Regulation (EC) No 1111/2005 (OJ L 184, 15.7.2005, p. 1).
+
+( 6 ) Council Regulation (EC) No 2062/94 of 18 July 1994 establishing a European Agency for Safety and Health at Work (OJ L 216, 20.8.1994, p. 1). Regulation as last amended by Regulation (EC) No 1112/2005 (OJ L 184, 15.7.2005, p. 5).
+
+( 7 ) Council Regulation (EEC) No 337/75 of 10 February 1975 establishing a European Centre for the Development of Vocational Training (OJ L 39, 13.2.1975, p. 1). Regulation as last amended by Regulation (EC) No 2051/2004 (OJ L 355, 1.12.2004, p. 1).
+
+( 8 ) Member States meeting in the framework of the European Council in December 2003 requested the Commission to prepare a proposal for a human rights agency by extending the mandate of the European Monitoring Centre on Racism and Xenophobia.
+
+( 9 ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( 10 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and of the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+( 11 ) OJ L 357, 31.12.2002, p. 72.
+
+( 12 ) OJ L 56, 4.3.1968, p. 1. Regulation as last amended by Regulation (EC, Euratom) No 723/2004 (OJ L 124, 27.4.2004, p. 1).
+
+( 13 ) OJ 17, 6.10.1958, p. 385. Regulation as last amended by Regulation (EC) No 920/2005 (OJ L 156, 18.6.2005, p. 3).
+
+( 14 ) Council Regulation (EC) No 2965/94 of 28 November 1994 setting up a Translation Centre for bodies of the European Union (OJ L 314, 7.12.1994, p. 1). Regulation as last amended by Regulation (EC) No 920/2005.
+
+( 15 ) First term (2007 to 2009):
+
+i) DE, PT, SI, FR, CZ, SE, ES, BE, HU; (ii) PL, DK, CY, IE, LT, EL, IT, LV, LU;
+
+Second term (2010 to 2012):
+
+i) NL, SK, MT, UK, EE, BG, AT, RO, FI; (i) DE, PT, SI, FR, CZ, SE, ES, BE, HU;
+
+Third term (2013 to 2015):
+
+i) PL, DK, CY, IE, LT, EL, IT, LV, LU; (iii) NL, SK, MT, UK, EE, BG, AT, RO, FI.

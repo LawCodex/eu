@@ -1,0 +1,395 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/1195 of 11 July 2022 establishing measures to eradicate and prevent the spread of Synchytrium endobioticum (Schilbersky) Percival"
+identifier: "32022R1195"
+eli: "http://data.europa.eu/eli/reg_impl/2022/1195/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-07-11
+entry_into_force: 2022-09-26
+last_amended: 2024-09-30
+consolidated_version: "02022R1195-20240930"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1195-20240930"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/1195 of 11 July 2022 establishing measures to eradicate and prevent the spread of Synchytrium endobioticum (Schilbersky) Percival
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1195**
+
+**of 11 July 2022**
+
+**establishing measures to eradicate and prevent the spread of Synchytrium endobioticum (Schilbersky) Percival**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2382 of 9 September 2024 </td><td> L 2382</td><td>1</td><td>10.9.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1195**
+
+**of 11 July 2022**
+
+**establishing measures to eradicate and prevent the spread of Synchytrium endobioticum (Schilbersky) Percival**
+
+## Article 1 — Subject matter
+
+This Regulation sets out measures for the purpose of eradicating Synchytrium endobioticum (Schilbersky) Percival, and preventing its spread within the Union territory.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘specified pest’ means Synchytrium endobioticum (Schilbersky) Percival;
+
+(2) ‘specified plants’ means plants of Solanum tuberosum L. other than seeds.
+
+## Article 3 — Surveys and laboratory tests of the specified pest
+
+1\. The competent authorities shall carry out annual, risk-based surveys for the presence of the specified pest, at least by visual inspection, of tubers in the production sites where specified plants are grown or stored.
+
+2\. In case of suspicion of the infection of specified plants by the specified pest, samples shall be taken and tested for the presence of the specified pest, using the methods set out in Annex I.
+
+3\. Member States shall report to the Commission and the other Member States, by 30 April of each year, the results of the surveys referred to in paragraph 1, which were carried out in the preceding year. They shall report those results in accordance with the template set out in Annex II.
+
+## Article 4 — Designation of infested production sites and infected specified plants
+
+1\. The competent authorities shall designate a production site as infested by the specified pest where the presence of the specified pest in that site has been officially conﬁrmed by the tests referred to in Article 3(2).
+
+Plots demarcated by the competent authorities as contaminated, in accordance with Article 2(1) of Directive 69/464/EEC, before 1 January 2022, shall be deemed to be designated as infested production sites.
+
+2\. Specified plants grown in a production site designated as infested by the specified pest or which have been in contact with soil in which the specified pest has been found shall be officially designated as infected.
+
+## Article 5 — Establishment of demarcated areas
+
+1\. Where the presence of the specified pest is officially confirmed, the competent authorities shall, without delay, demarcate an area in accordance with paragraph 2. They shall determine the pathotype using the methods laid down in point 5 of Annex I.
+
+2\. The demarcated area shall consist of:
+
+(a) an infested zone, including at least the production site designated as infested; and
+
+(b) a buffer zone, surrounding the infested zone.
+
+The delimitation of the buffer zone referred to in the first subparagraph, point (b), shall be based on sound scientific principles, the biology of the specified pest, the level of infestation, the distribution and frequency of cultivation of specified plants in the area concerned, the environmental and geographical conditions, as well as the specific risk of spread of resting spores.
+
+3\. The competent authorities shall carry out appropriate investigations to identify the origin of the infection. They shall trace the specified plants associated with the case of infection concerned, including those which were moved before the establishment of the demarcated area.
+
+4\. Within the demarcated area, the competent authorities shall raise awareness amongst professional operators concerning the threat of the specified pest, and the measures adopted to eradicate it and to prevent its spread outside of that area. They shall ensure that professional operators are aware of the delimitation of the demarcated area, the infested zone and the buffer zone, and of the provisions of this Regulation.
+
+## Article 6 — Eradication measures
+
+1\. Specified plants, which originate from an infested zone, shall be destroyed or processed under safe conditions to prevent any further spread of the specified pest. If it is no longer possible to determine the production site from which infected specified plants originate, the entire lot in which the infected specified plants have been found shall be destroyed or processed under conditions which prevent any further spread of the specified pest.
+
+2\. In an infested zone, all of the following measures shall apply:
+
+(a) no specified plants shall be planted, grown or stored;
+
+(b) no other plants, intended for replanting outside the infested zone, shall be grown or stored, both in the ground or anywhere else;
+
+(c) soil shall be removed from plants other than those referred to in points (a) and (b), by appropriate methods ensuring that there is no identifiable risk of spreading the specified pest, before these plants are moved from the infested zone into the buffer zone, or out of the demarcated area, or immediately after;
+
+(d) machinery shall be cleaned from soil and plant debris, before or immediately after being moved out of the infested zone and before entering any production site located in the buffer zone or outside of the demarcated area;
+
+(e) any soil or debris originating from an infested zone may only be moved and used or deposited outside that zone under conditions ensuring that there is no identifiable risk of spreading the specified pest.
+
+3\. Plants other than those referred to in paragraph 2, points (a) and (b) from which soil has not been removed may only be moved out of the demarcated area if the following two conditions are fulfilled:
+
+(a) they are transported for the purpose of removing soil from those plants by appropriate methods ensuring that there is no identifiable risk of spreading the specified pest;
+
+(b) the transport and the removal of soil take place under official supervision, and appropriate measures have been put in place to effectively prevent the spread of the specified pest.
+
+4\. The competent authorities shall ensure that:
+
+(a) in the buffer zone, no plants intended for replanting outside the demarcated area are grown;
+
+(b) in the buffer zone, only specified plants are grown of a variety, which is resistant to the pathotypes of the specified pest found in the infested zone or to all pathotypes known to occur in their Member State, as provided for in Article 7, and other than for the production of specified plants for planting; and
+
+(c) any soil or debris originating from the buffer zone is moved and used or deposited outside the demarcated area under conditions, such that there is no identifiable risk of spreading the specified pest.
+
+5\. Member States shall notify those measures to the Commission and the other Member States, immediately after they have been taken.
+
+## Article 7 — Potato varieties resistant to pathotypes of the specified pest
+
+1\. A potato variety shall be designated as resistant to a particular pathotype of the specified pest, where it reacts to a contamination by the pathogenic agent of that pathotype in such a way that no resting spores are produced.
+
+2\. Testing for resistance shall be carried out in accordance with the protocol set out in Annex III. The degree of resistance of potato varieties shall be quantified in accordance with the standard scoring notation set out in the table in Annex III.
+
+3\. Member States shall notify to the Commission and the other Member States, each year by 31 January, a list of all new varieties of potatoes which they have authorised for marketing in the preceding year, and which they have found, by carrying out the testing referred to in paragraph 2, to be resistant to the specified pest. They shall state the varieties together with the pathotypes to which they are resistant, as well as the method used to determine that resistance.
+
+## Article 8 — Notification of the confirmed presence of the specified pest on a resistant potato variety
+
+1\. Professional operators, and any other person that become aware of any symptoms of the specified pest, resulting from a breakdown or change in the effectiveness of a resistant potato variety, which relates to a suspected change in the pathotype of the specified pest or a new pathotype, shall notify the competent authorities thereof.
+
+2\. In all cases reported pursuant to paragraph 1, the competent authorities shall investigate the pathotype involved, and confirm, using the methods set out in Annexes I and III, whether the presence is due to a change in the pathotype of the specified pest or to a new pathotype.
+
+3\. The competent authorities shall immediately record the information obtained pursuant to paragraphs 1 and 2.
+
+Member States shall notify to the Commission and the other Member States, each year by 31 January, the details of the confirmations made pursuant to paragraph 2 as regards the preceding year.
+
+## Article 9 — Revocation of the measures
+
+1\. The competent authorities may revoke the measures adopted pursuant to Article 6 concerning a demarcated area, where that demarcated area becomes free from the specified pest in accordance with the conditions set out in Annex IV.
+
+2\. Following the revocation of the measures pursuant to paragraph 1, the competent authorities shall inspect at harvest the first crop of specified plants, which are susceptible to the relevant pathotype of the specified pest. That first crop shall not be moved out of the demarcated area until that inspection is accomplished, unless the movement is carried out under the control of the competent authority.
+
+3\. By way of derogation from paragraph 1, and after a minimum of 10 years since the last detection of the specified pest in specific parts of the infested zone, the competent authorities may partially revoke the measures applicable in the respective parts of the demarcated areas concerned, in accordance with point 2 of Annex IV.
+
+4\. By way of derogation from Article 6(2), point (a), where the conditions for a partial revocation of the measures provided for in Article 6 are fulfilled, specified plants not intended for planting may be grown provided that they are of a variety which is resistant to the pathotypes of the specified pest found on the infested site of production or to all pathotypes known to occur in the Member State concerned.
+
+## Article 10 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Methods of testing for detection and identification of the specified pest referred to in Article 3(2)
+
+**1\. Testing by means of spores**
+
+For detection and identification, summer sporangia and resting spores are used, which are obtained from soil after sieving, or directly from the plant material.
+
+**2\. Methods for detection**
+
+For the extraction of spores of the specified pest from soil, one of the following methods shall be used:
+
+(a) soil sieving method, as described by Pratt (1976) ( 1 );
+
+(b) soil sieving method, as described by van Leeuwen et al. (2005) ( 2 );
+
+(c) zonal centrifuge technique for high throughput sample processing, as described by Wander et al. (2007) ( 3 ).
+
+**3\. Methods for identification**
+
+After extraction, the spores of the specified pest shall be identified by one of the following methods:
+
+(a) morphological identification under a light microscope at 100x – 400x magnification;
+
+(b) conventional PCR using primers based on Lévesque et al. (2001) ( 4 ) and van den Boogert et al. (2005) ( 5 );
+
+(c) real-time PCR using primers and probes following van Gent-Pelzer et al. (2010) ( 6 );
+
+(d) real-time PCR using primers and probes following Smith et al. (2014) ( 7 ).
+
+**4\. Viability of resting spores**
+
+Determination of viability of the resting spores may be achieved by microscopic examination or bioassay. Viability of sporangia may be determined by microscopic examination of sporangia mounted in lactophenol or in water (Przetakiewicz 2015) ( 8 ). Sporangia with granular contents or with slightly rounded-off protoplasm may be considered viable. Those permanently plasmolysed or with no apparent content shall be considered dead.
+
+As an alternative, or in case of doubt, a bioassay, as described in point 3 of Annex IV, may be carried out.
+
+**5\. Determination of pathotypes**
+
+The determination of pathotypes shall require fresh warts.
+
+The inoculum for the test shall be produced by one of the following methods:
+
+(a) method of SASA (Science and Advice for Scottish Agriculture), consisting of the two following steps:
+
+(i) production of inoculum
+
+Old (brown) wart tissue shall be broken into smaller pieces and air dried at room temperature until it becomes hard. The hard tissue shall be ground, either manually or mechanically.
+
+The ground material shall be dry-sieved, collecting the fraction from 25 to 75 μm, and then extracted using the chloroform method of Pratt (1976)1;
+
+(ii) production of fresh warts
+
+Approximately 10 mg of extracted resting spores shall be sprinkled onto the surface of 10 ml sterile distilled water in a small plastic Petri dish and incubated in the dark at 20 °C until germination.
+
+Potato tubers with small sprouts about 1 to 2 mm long shall be placed in transparent plastic boxes, lined with damp tissue paper with the marked sprouts facing up. The sprouts shall be ringed with melted Vaseline using a syringe. The ring shall be unbroken and high enough to hold the spore suspension without leaking.
+
+The 10 ml of germinating resting spores shall be diluted further to 20 ml with sterile water and placed within the rings using a pipette or a squeeze bottle until the sprout is completely submerged in spore suspension. The plastic boxes shall be covered with lids and incubated for 4 days at 10 °C, after which the boxes shall be opened, the inoculum and Vaseline rings shall be removed and the boxes shall be moved to a misted glasshouse at 15 to 18 °C (16 h light);
+
+(b) method of Spiekermann & Kothoff (1924) ( 9 );
+
+(c) method of Potoček et al. (1991) ( 10 );
+
+(d) method of Glynne-Lemmerzahl (Glynne 1925 ( 11 ); Lemmerzahl 1930 ( 12 ); Noble and Glynne 1970 ( 13 )).
+
+For determination of all pathotypes known to be relevant for the Union (1(D1), 2(G1), 6(O1), 18(T1) and 38(Nevșehir), a differential infection test with various varieties of the specified plant shall be used as indicated in the table. The infection test shall be carried out following the protocol mentioned under point (d) (Glynne-Lemmerzahl method).
+
+**Selective sensitivity of potato cultivars for the determination of S. endobioticum pathotypes**
+
+<table>
+<tbody><tr><td rowspan="2">Cultivar</td><td colspan="4">S. endobioticum pathotypes</td><td>  </td></tr>
+<tr><td>1(D1)</td><td>2(G1)</td><td>6(O1)</td><td>18(T1)</td><td>38(Nevșehir)</td></tr>
+<tr><td>Tomensa/Evora/Deodara</td><td>S</td><td>S</td><td>S</td><td>S</td><td>S</td></tr>
+<tr><td>Irga/Producent</td><td>R</td><td>S</td><td>S</td><td>S</td><td>S</td></tr>
+<tr><td>Talent</td><td>R</td><td>R*</td><td>R*</td><td>S</td><td>S</td></tr>
+<tr><td>Saphir</td><td>R</td><td>S</td><td>R</td><td>R</td><td>S</td></tr>
+<tr><td>Ikar/Gawin/Karolin/Belita</td><td>R</td><td>R</td><td>R</td><td>R</td><td>R</td></tr>
+<tr><td colspan="6">‘S’: Susceptible ‘R’: Resistant  *: indicates a weak susceptibility of the variety to S. endobioticum (‘presence of non-necrotic sori fields without the formation of warts’). </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Survey template as referred to in Article 3**
+
+Template for presenting results of potato wart disease surveys carried out during the calendar year preceding the year of reporting.
+
+Please use this table only for the survey results for potatoes harvested in your country.
+
+<table>
+<tbody><tr><td rowspan="2">Member State</td><td rowspan="2">Category</td><td rowspan="2">Cropping area (ha)</td><td colspan="2">Visual inspection of tubers</td><td colspan="2">Laboratory testing</td><td rowspan="2">Initial size of the infested area (1) (ha)</td><td rowspan="2">Updated size of the infested area (2) (ha)</td><td rowspan="2">Notification numbers of the new outbreaks notified, as applicable, in accordance with Implementing Regulation (EU) 2019/1715</td><td rowspan="2">Additional information</td></tr>
+<tr><td>Number of lots</td><td>Number of suspicious lots</td><td>Number of tested samples</td><td>Number of positive samples</td></tr>
+<tr><td rowspan="2">  </td><td>Potato tubers for planting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers other than for planting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">(1)  Total size of the infested area previous to the year covered by the report.  (2)  Total size of the infested area in the year covered by the report. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III — Protocol for the assessment of the resistance of a variety referred to in Article 7(2)
+
+The protocol for the assessment of the resistance of a variety shall include the following steps.
+
+1\. A minimum of 40 tubers or eye plugs per variety of the specified plant shall be tested. They shall be divided into two groups (replicates).
+
+2\. The test shall generally last for 2 years. Only in case that a variety shows to be extremely susceptible to a pathotype of the specified pest, the length of the test may be reduced to 1 year.
+
+3\. Before a testing season starts, the inoculum shall be tested for purity, using the methods described in Annex I.
+
+4\. A positive control, in the form of a variety of the specified plant, which is extremely susceptible to the pathotype of the specified pest to be tested, shall always be included in the test.
+
+5\. One of the following testing methods shall be used:
+
+(i) the Glynne-Lemmerzahl method (Glynne 1925, Lemmerzahl 1930, Noble & Glynne 1970);
+
+(ii) the Spieckermann method (Spieckermann & Kothoff 1924); or
+
+(iii) the SASA (Science and Advice for Scottish Agriculture) method, consisting of all of the following steps:
+
+— tuber preparation:
+
+Tubers shall be removed from the cold store around 10 days before intended inoculation, washed gently, dried and stored in the dark at room temperature to induce sprouting.
+
+A highly susceptible variety (‘Morene’ or a variety with comparable susceptibility) shall be included in each inoculation to serve as positive control;
+
+— germination of resting spores:
+
+Conditions to induce germination of resting spores shall be set up 21 days prior to inoculation.
+
+Approximately 10 mg of extracted spores shall be sprinkled onto the surface of 10 ml of sterile distilled water in small plastic Petri dishes and incubated in the dark at 20 °C until germination.
+
+The content of each Petri dish shall be diluted with another 10 ml of sterile distilled water for the inoculation;
+
+— inoculation and incubation of sprouts:
+
+When the sprouts reach 1 mm in length, they shall be ringed with melted Vaseline. The Vaseline ring shall be unbroken to hold the spore suspension without leaking and high enough for the suspension to cover the sprout.
+
+A single sprout or a single cluster of sprouts shall be ringed on each tuber.
+
+The tubers shall be placed in plastic boxes, lined with damp tissue paper with the ringed sprouts facing upwards.
+
+The Vaseline rings shall be filled with spore suspension, using a pipette or a squeeze bottle until the sprout is completely submerged.
+
+The plastic boxes shall be covered with lids and incubated for 4 days at 10 °C in the dark, after which the Vaseline rings shall be removed and the boxes shall be placed open in a glasshouse at 15–18 °C under periodic misting (3 times per day for 30 min).
+
+In cases where the infection failed, for example because the sprout rotted or failed to develop, the tuber may be retested using another sprout;
+
+— assessment:
+
+Sprouts shall be examined for infection 28 days after the inoculation, using a stereo microscope with 10–15x magnification and a light microscope.
+
+Reactions of score 4 or 5, as set out in the table, shall be observed on the positive control on at least 80 % of tubers. At least one tuber shall show a score of 5.
+
+6\. All tubers shall be assessed and given a resistance ranking score from 1 to 5, as set out in the table.
+
+7\. Each tested variety shall be placed in a resistance group (‘highly resistant’, ‘resistant’, ‘slightly susceptible’, or ‘extremely susceptible’), according to the range of scores observed within the respective population of individual tubers or eye plugs tested:
+
+(i) a variety shall be considered ‘highly resistant’, if all tubers in all replicates have a score of 1;
+
+(ii) a variety shall be considered ‘resistant’, if all tubers in all replicates have a score between 1 and 3;
+
+(iii) a variety shall be considered ‘slightly susceptible’, if one or more tubers score 4 (if only one tuber scores 4, the test may be repeated, in order to exclude impurity in the variety lot);
+
+(iv) a variety shall be considered ‘extremely susceptible’, if at least one tuber in one replicate scores 5.
+
+**Standard scoring notations for potato testing populations**
+
+| Standard score | Group of resistance | Resistance description | Description |
+| --- | --- | --- | --- |
+| 1 | R1 | Extremely resistant | Early defence necrosis; no visible sorus formation. |
+| 2 | R1 | Resistant | Late defence necrosis; sorus formation partially visible, sori immature or necrotic before maturity. |
+| 3 | R2 | Weakly resistant | Very late defence necrosis; single ripe sori or sorus fields developed, but completely surrounded by necrosis; up to five non-necrotic summer sori permitted, clear necrosis in other zones of the same tuber piece. No formation of warts or resting spores. To decide between groups 3 and 4, it may be necessary to prepare thin slides of infected tissue: if there are no resting spores, the score shall be 3. |
+| 4 | S1 | Slightly susceptible | Scattered infections; sori or sorus fields non-necrotic, few in number; late necrosis can be present on other infection sites on the sprout; the sprout can be slightly malformed (thickened). Resting (winter) sporangia are present. To decide between group 3 and 4, it may be necessary to prepare thin slides of infected tissue: if resting spores are present, the score shall be 4. |
+| 5 | S2 | Extremely susceptible | Dense infection fields, numerous ripe non-necrotic sori and sorus fields, fields with dense non-necrotic infection sites, predominant wart formation. |
+
+## ANNEX IV — Conditions for revocation of the measures as referred to in Article 9
+
+**1\. Conditions for revocation of the measures**
+
+1.1. After a minimum of 50 years since the last detection of the specified pest, if there is a gapless record of crops in the infested zone showing that the provisions of Article 6(2) and (3) have been complied with during the whole time and that the infested zone has not been used as permanent grassland.
+
+Where the infested zone has been used as permanent grassland, the measures may only be revoked where no signs of infection with the specified pest have been discovered in soil samples which were taken by applying the scheme to be used to obtain the soil for the testing set out in point 1.2;
+
+or
+
+1.2. After a minimum of 20 years, since the last detection of the specified pest, if there is a gapless record of crops showing that the provisions of Article 6(2) and (3) have been complied with during the whole time and that the infested zone was not used as permanent grassland; and
+
+— no signs of infection with the specified pest have been discovered in two bioassays (as described in point (3) with susceptible potato cultivars; or
+
+— no signs of infection with the specified pest have been discovered in 1 bioassay (as described in point (3) with susceptible potato cultivars and no viable resting spores have been found during a direct examination of the soil from the infested zone by microscope following an extraction of spores with one of the methods provided for in point 2 of Annex I.
+
+The scheme to be used to obtain the soil for the testing shall include all of the following steps:
+
+— the infested zone shall be divided into units of 0,33 ha each;
+
+— 60 subsamples shall be taken from each unit to a depth of 20 cm and evenly distributed throughout the area or pooled according to known infested foci;
+
+— the subsamples shall be thoroughly mixed, so as to obtain 3 samples per ha.
+
+**2\. Partial revocation of the measures**
+
+After a minimum of 10 years since the last detection of the specified pest in areas of the infested zone, the partial revocation of the measures provided for in Article 6 may be considered for these areas, where there is a gapless record of crops showing that the provisions of Article 6(2) and (3), have been complied with during the whole time and that the infested zone was not used as permanent grassland, and:
+
+(a) no signs of infection with the specified pest shall be discovered in two bioassays, as described in point 3, with susceptible potato cultivars; or
+
+(b) no signs of infection with the specified pest have been discovered in one bioassay, as described in point 3, with susceptible potato cultivars and less than 5 viable resting spores per gram of soil have been found during a direct examination of the soil from the infested zone by microscope following an extraction of spores with one of the methods provided for in point 2 of Annex I.
+
+The scheme to be used to obtain the soil for the testing shall include all of the following steps:
+
+— the infested zone shall be divided into units of 0,33 ha each;
+
+— 60 subsamples shall be taken from each unit to a depth of 20 cm and evenly distributed throughout the area or pooled according to known infested foci;
+
+— the subsamples shall be thoroughly mixed, so as to obtain 3 samples per ha.
+
+Where these conditions are not met, the partial revocation of the measures may be considered again following a waiting period of minimum 2 years. In determining the length of that waiting period, Member States shall take into account the level of infection and/or the number of viable spores detected.
+
+**3\. Bioassays for the purpose of revocation of the measures**
+
+Several tubers of the specified plants shall be incubated in pots together with at least 5 l of soil under temperature, moisture and light conditions, which are favourable to potato growth. A cultivar which is highly susceptible to all pathotypes shall be used (such as Deodara, Evora, Morene, Tomensa, Maritiema, Arran Chief).
+
+The growing potato plants shall be cut back when reaching a height of about 60 cm. After approximately 100 days, the newly formed tubers shall be examined for warts.
+
+Negative controls of soil free from the specified pest and positive controls of infested soil must always be included in the test. The test is considered valid, if warts are produced in tubers of the positive control and no warts are produced in tubers of the negative control. Temperature and humidity conditions in the glasshouse shall be recorded. Warts produced in test samples shall be examined microscopically for the presence of summer sporangia and/or resting spores.
+
+The entire test shall be carried out under conditions preventing any further spread of the specified pest.
+
+( 1 ) Pratt MA. 1976. A wet-sieving and flotation technique for the detection of resting sporangia of Synchytrium endobioticum in soil. Annals of Applied Biology 82: 21 – 29.
+
+( 2 ) van Leeuwen GCM, Wander JGN, Lamers J, Meffert JP, van den Boogert PHJF, Baayen RP. 2005. Direct examination of soil for sporangia of Synchytrium endobioticum using chloroform, calcium chloride and zinc sulphate as extraction reagents. EPPO Bulletin 35: 25 – 31.
+
+( 3 ) Wander JGN, van den Berg W, van den Boogert PHJF, Lamers JG, van Leeuwen GCM, Hendrickx G, Bonants P. 2007. A novel technique using the Hendrickx centrifuge for extracting winter sporangia of Synchytrium endobioticum from soil. European Journal of Plant Pathology 119: 165 – 174.
+
+( 4 ) Lévesque CA, de Jong SN, Ward LJ & de Boer SH (2001) Molecular phylogeny and detection of Synchytrium endobioticum, the causal agent of potato wart. Canadian Journal of Plant Pathology 23: 200–201.
+
+( 5 ) van den Boogert PHJF, van Gent-Pelzer MPE, Bonants PJM, de Boer SH, Wander JGN, Lévesque CA, van Leeuwen GCM, Baayen RP. 2005. Development of PCR-based detection methods for the quarantine phytopathogen Synchytrium endobioticum, causal agent of potato wart disease. European Journal of Plant Pathology 113: 47 – 57.
+
+( 6 ) van Gent-Pelzer MPE, Krijger M, Bonants PJM. 2010. Improved real-time PCR assay for the detection of the quarantine potato pathogen, Synchytrium endobioticum, in zonal centrifuge extracts from soil and in plants. European Journal of Plant Pathology 126: 129 – 133.
+
+( 7 ) Smith DS, Rocheleau H, Chapados JT, Abbott C, Ribero S, Redhead SA, Lévesque CA, De Boer SH. 2014. Phylogeny of the genus Synchytrium and the development of TaqMan PCR assay for sensitive detection of Synchytrium endobioticum in soil. Phytopathology 104: 422 – 432.
+
+( 8 ) Przetakiewicz, J. 2015. The Viability of Winter Sporangia of Synchytrium endobioticum (Schilb.) Perc. From Poland. American Journal of Potato Research 92:704-708.
+
+( 9 ) Spieckermann A, Kothoff P. 1924. Testing potatoes for wart resistance. Deutsche Landwirtschaftliche Presse 51: 114 – 115.
+
+( 10 ) Potoček J, Krajíčková K, Klabzubová S, Krejcar Z, Hnízdil M, Novák F, Perlová V. 1991. Identification of new Synchytrium endobioticum (Schilb.) Perc. pathotypes in Czech Republic. Ochrana Rostlin 27: 191 – 205.
+
+( 11 ) Glynne MD. 1925. Infection experiments with wart disease of potatoes. Synchytrium endobioticum. Annals of Applied Biology 12: 34 – 60.
+
+( 12 ) Lemmerzahl J. 1930. A new simplified method for inoculation of potato cultivars to test for wart resistance. Züchter 2: 288 – 297.
+
+( 13 ) Noble M, Glynne MD. 1970. Wart disease of potatoes. FAO Plant Protection Bulletin 18: 125 – 135.

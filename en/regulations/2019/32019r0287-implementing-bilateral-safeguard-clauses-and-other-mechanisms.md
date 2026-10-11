@@ -1,0 +1,351 @@
+---
+title: "Regulation (EU) 2019/287 of the European Parliament and of the Council of 13 February 2019 implementing bilateral safeguard clauses and other mechanisms allowing for the temporary withdrawal of preferences in certain trade agreements concluded between the European Union and third countries"
+identifier: "32019R0287"
+eli: "http://data.europa.eu/eli/reg/2019/287/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-02-13
+entry_into_force: 2019-07-08
+last_amended: 2026-06-29
+consolidated_version: "02019R0287-20260629"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0287-20260629"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/287 of the European Parliament and of the Council of 13 February 2019 implementing bilateral safeguard clauses and other mechanisms allowing for the temporary withdrawal of preferences in certain trade agreements concluded between the European Union and third countries
+
+**REGULATION (EU) 2019/287 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 February 2019**
+
+**implementing bilateral safeguard clauses and other mechanisms allowing for the temporary withdrawal of preferences in certain trade agreements concluded between the European Union and third countries**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1362 of 13 March 2024 </td><td> L 1362</td><td>1</td><td>17.5.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2634 of 29 July 2024 </td><td> L 2634</td><td>1</td><td>4.10.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/880 of 25 February 2025 </td><td> L 880</td><td>1</td><td>8.5.2025</td></tr>
+<tr><td> M4</td><td> COMMISSION DELEGATED REGULATION (EU) 2026/542 of 12 March 2026 </td><td> L 542</td><td>1</td><td>9.6.2026</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/547 of 12 March 2026 </td><td> L 547</td><td>1</td><td>9.6.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2019/287 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 13 February 2019**
+
+**implementing bilateral safeguard clauses and other mechanisms allowing for the temporary withdrawal of preferences in certain trade agreements concluded between the European Union and third countries**
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down provisions for the implementation of bilateral safeguard clauses and other mechanisms for the temporary withdrawal of tariff preferences or of other preferential treatment contained in the trade agreements concluded between the Union and one or more third countries and referred to in the Annex to this Regulation.
+
+These provisions shall apply without prejudice to any specific provisions contained in the trade agreements and listed in the Annex in relation to bilateral safeguard clauses or other mechanisms for the temporary withdrawal of tariff preferences or of other preferential treatment, where such provisions are not in accordance with this Regulation.
+
+This Regulation shall therefore not prevent the Commission from negotiating such specific provisions in future trade agreements.
+
+2\. Article 194 of Regulation (EU) No 1308/2013 of the European Parliament and of the Council ( 1 ) shall continue to apply to the application of safeguard measures for the temporary withdrawal of tariff preferences or of other preferential treatment contained in trade agreements concluded between the Union and third countries that are not referred to in the Annex to this Regulation.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+(1) ‘Agreement’ means a trade agreement referred to in the Annex to this Regulation;
+
+(2) ‘bilateral safeguard clause’ means a provision relating to the temporary suspension of tariff preferences that is set out in an Agreement;
+
+(3) ‘interested parties’ means parties affected by the imports of the product;
+
+(4) ‘Union industry’ means either the Union producers as a whole of the like or directly competitive product who operate within the territory of the Union or Union producers whose collective output of the like or directly competitive product constitutes a major proportion of the total Union production of that product; where a like or a directly competitive product is only one of several products that are made by the Union producers, the Union industry shall be defined in relation to the specific operations that are involved in the production of the like or directly competitive product;
+
+(5) ‘serious injury’ means a significant overall impairment to the position of Union industry;
+
+(6) ‘threat of serious injury’ means serious injury that is clearly imminent, the determination of the existence of which shall be based on verifiable information;
+
+(7) ‘sensitive product’ means a product identified in a specific Agreement as being relatively more vulnerable to a surge of imports than other products;
+
+(8) ‘transition period’ means a period of 10 years from the entry into force of an Agreement, unless otherwise defined in the relevant Agreement;
+
+(9) ‘country concerned’ means a third country that is a party to an Agreement.
+
+### Article 3 — Principles
+
+1\. A safeguard measure may be imposed in accordance with this Regulation where a product originating in a country concerned is imported into the Union:
+
+(a) in such increased quantities, in absolute terms or relative to Union production; and
+
+(b) under such conditions, as to cause or threaten to cause serious injury to the Union industry; and
+
+(c) the increase of imports is the result of the effect of obligations incurred under the respective Agreement, including of the reduction or the elimination of the customs duties on that product.
+
+2\. A safeguard measure may take one of the following forms:
+
+(a) a suspension of a further reduction of the rate of customs duty on the product concerned provided for in the Tariff Elimination Schedule of the Agreement with the country concerned;
+
+(b) an increase in the rate of customs duty on the product concerned to a level which does not exceed the lesser of:
+
+(i) the most-favoured-nation applied rate of customs duty on the product concerned in effect at the time the safeguard measure is taken; or
+
+(ii) the base rate of customs duty as specified in the Tariff Elimination Schedule of the Agreement with the country concerned.
+
+### Article 4 — Monitoring
+
+1\. The Commission shall regularly monitor the evolution of import statistics of any sensitive products mentioned in the Annex to this Regulation in respect of each Agreement. For that purpose, the Commission shall cooperate and exchange data with Member States and the Union industry on a regular basis.
+
+2\. Upon a duly justified request by the Union industry concerned, the Commission may extend the scope of the monitoring referred to in paragraph 1 to any products or sectors other than those mentioned in the Annex.
+
+3\. The Commission shall present an annual monitoring report to the European Parliament and to the Council concerning statistics on imports of sensitive products and of any products or sectors to which monitoring has been extended.
+
+### Article 5 — Initiation of an investigation
+
+1\. An investigation shall be initiated by the Commission at the request of a Member State, of any natural or legal person that is acting on behalf of the Union industry, or of any association not having legal personality that is acting on behalf of the Union industry, or on the Commission's own initiative, where there is sufficient prima facie evidence of serious injury or the threat of serious injury to the Union industry, as determined on the basis of factors referred to in Article 6(5).
+
+2\. Requests for the initiation of an investigation may also be submitted jointly by the Union industry, or by any natural or legal person that is acting on behalf of the Union industry or any association not having legal personality that is acting on behalf of the Union industry, and trade unions. In addition, requests for the initiation of an investigation may be supported by trade unions. This does not affect the right of the Union industry to withdraw the request.
+
+3\. Requests for the initiation of an investigation shall contain the following information:
+
+(a) the rate and amount of the increase in imports of the product concerned, in absolute and relative terms;
+
+(b) the share of the domestic market taken by the increased imports, and the changes regarding the Union industry with respect to the level of sales, production, productivity, capacity utilisation, profits and losses, and employment.
+
+4\. The scope of the product that is subject to the investigation may cover one or several tariff lines or one or several subsegments of one or several tariff lines, depending on the specific market circumstances, or may follow any product segmentation commonly applied in the Union industry.
+
+5\. An investigation may also be initiated where there is a surge of imports concentrated in one or several Member States, provided that there is sufficient prima facie evidence of serious injury or the threat of serious injury to the Union industry, as determined on the basis of factors referred to in Article 6(5).
+
+6\. The Commission shall provide a copy of the request to initiate an investigation to the Member States before it initiates the investigation. Where the Commission intends to initiate an investigation on its own initiative pursuant to paragraph 1, it shall provide information to the Member States once it has determined the need to initiate that investigation.
+
+7\. Where it is apparent to the Commission that there is sufficient prima facie evidence to justify the initiation of an investigation, the Commission shall initiate the investigation and shall publish a notice on initiation of investigation (the ‘notice of initiation’) in the Official Journal of the European Union. The investigation shall be initiated within one month of the Commission receiving the request pursuant to paragraph 1.
+
+8\. The notice of initiation shall contain the following elements:
+
+(a) a summary of the information received by the Commission and a request that all relevant information be communicated to the Commission;
+
+(b) the period within which interested parties may make their views known in writing and submit information to the Commission, if such views and information are to be taken into account during the investigation;
+
+(c) the period within which interested parties may apply to be heard by the Commission in accordance with Article 6(9).
+
+### Article 6 — Conduct of investigation
+
+1\. Following the publication of the notice of initiation in accordance with Article 5(7) and (8), the Commission shall initiate an investigation.
+
+2\. The Commission may request Member States to supply information, and Member States shall take all necessary steps to give effect to any such requests. If the requested information is of general interest and is not confidential within the meaning of Article 12, it shall be added to the non-confidential file as provided for in paragraph 8 of this Article.
+
+3\. Where possible, the investigation shall be concluded within six months from the date on which the notice of initiation is published in the Official Journal of the European Union. That time limit may be extended by a further period of three months in exceptional circumstances, such as the involvement of an unusually high number of interested parties or complex market situations. The Commission shall notify all interested parties of any such extensions and explain the reasons therefor.
+
+4\. The Commission shall seek all information that it considers necessary to determine the conditions set out in Article 3(1) and shall, where appropriate, verify that information.
+
+5\. The Commission shall evaluate all relevant factors of an objective and quantifiable nature that affect the situation of the Union industry, in particular the rate and amount of the increase in imports of the product concerned in absolute and relative terms, the share of the domestic market taken by the increased imports, and changes regarding the Union industry with respect to the level of sales, production, productivity, capacity utilisation, profits and losses, and employment. This list is not exhaustive, and the Commission may take other relevant factors into consideration for its determination of the existence of serious injury or threat of serious injury, such as stocks, prices, return of capital employed, cash flow, the level of market shares, and other factors which are causing or may have caused serious injury, or threaten to cause serious injury to the Union industry.
+
+6\. Interested parties who have submitted information pursuant to point (b) of Article 5(8) and representatives of the country concerned may, upon written request, inspect all information obtained by the Commission in connection with the investigation, other than internal documents prepared by the Union authorities or authorities of the Member States, provided that such information is relevant to the presentation of their case, is not confidential within the meaning of Article 12, and is used by the Commission in the investigation. Interested parties may also communicate their views on such information. Where there is sufficient prima facie evidence in support of those views, the Commission shall take them into consideration.
+
+7\. The Commission shall ensure that all data and statistics which are used for the investigation are representative, available, comprehensible, transparent and verifiable.
+
+8\. As soon as the necessary technical framework is in place, the Commission shall ensure password-protected online access to the non-confidential file (the ‘online platform’), which it shall manage and through which all information which is relevant and is not confidential within the meaning of Article 12 shall be disseminated. Interested parties, Member States and the European Parliament shall be granted access to the online platform.
+
+9\. The Commission shall hear interested parties, in particular where they have made a written application within the period laid down in the notice of initiation published in the Official Journal of the European Union demonstrating that they are likely to be affected by the outcome of the investigation and that there are special reasons for them to be heard orally. The Commission shall hear interested parties on further occasions if there are special reasons therefor.
+
+10\. The Commission shall facilitate access to the investigation for diverse and fragmented industry sectors, which are largely composed of small and medium-sized enterprises (SMEs), through a dedicated SME Helpdesk, for example by raising awareness, by providing general information and explanations on procedures and on how to submit a request, by releasing standard questionnaires in all official languages of the Union and by replying to general, non-case-specific queries. The SME Helpdesk shall make available standard forms for statistics to be submitted for standing purposes and questionnaires.
+
+11\. Where information is not supplied within the time limits set by the Commission, or where the investigation is significantly impeded, the Commission may reach a decision on the basis of the available facts. Where the Commission finds that any interested party or any third party has supplied it with false or misleading information, it shall disregard that information and may make use of the facts available.
+
+12\. The Commission shall have in place the office of the Hearing Officer whose powers and responsibilities are set out in a mandate adopted by the Commission and who shall safeguard the effective exercise of the procedural rights of the interested parties.
+
+13\. The Commission shall notify the country or countries concerned in writing of the initiation of an investigation.
+
+### Article 7 — Prior surveillance measures
+
+1\. The Commission may adopt prior surveillance measures with regard to imports of a product from a country concerned where the trend of imports of that product is such that it could lead to one of the situations referred to in Articles 3 and 5. Those prior surveillance measures shall be adopted by means of implementing acts in accordance with the advisory procedure referred to in Article 17(2).
+
+2\. Prior surveillance measures shall be valid for a limited period. Unless otherwise provided, they shall cease to be valid at the end of the second six-month period following the first six months after the introduction of those measures.
+
+### Article 8 — Imposition of provisional safeguard measures
+
+1\. The Commission shall adopt provisional safeguard measures in critical circumstances where a delay is likely to cause damage which would be difficult to repair, making immediate action necessary, pursuant to a preliminary determination by the Commission on the basis of the factors referred to in Article 6(5) that there is sufficient prima facie evidence that a product originating in the country concerned is imported:
+
+(a) in such increased quantities, in absolute terms or relative to Union production; and
+
+(b) under such conditions, as to cause or threaten to cause serious injury to the Union industry; and
+
+(c) the increase of imports is the result of the reduction or the elimination of the customs duties on that product.
+
+Those provisional safeguard measures shall be adopted by means of implementing acts in accordance with the advisory procedure referred to in Article 17(2).
+
+2\. On duly justified imperative grounds of urgency, where a Member State requests immediate intervention by the Commission, and where the conditions set out in paragraph 1 of this Article are met, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 17(4). The Commission shall take a decision within five working days of receiving the request.
+
+3\. Provisional safeguard measures shall not apply for more than 200 calendar days.
+
+4\. Where the provisional safeguard measures are repealed because the investigation reveals that the conditions set out in Article 3(1) are not met, any customs duty collected as a result of those provisional safeguard measures shall be refunded automatically.
+
+5\. Provisional safeguard measures shall apply to every product which is put into free circulation after the date of entry into force of those measures. However, such measures shall not prevent the release into free circulation of products already on their way to the Union, where the destination of such products cannot be changed.
+
+### Article 9 — Termination of investigations and proceedings without measures
+
+1\. Where an investigation leads to the conclusion that the conditions set out in Article 3(1) are not met, the Commission shall publish a decision terminating the investigation and proceedings in accordance with the examination procedure referred to in Article 17(3).
+
+2\. The Commission shall make public a report setting out its findings and reasoned conclusions reached on all relevant issues of fact and law, with due regard to the protection of confidential information within the meaning of Article 12.
+
+### Article 10 — Imposition of definitive safeguard measures
+
+1\. Where an investigation leads to the conclusion that the conditions set out in Article 3(1) are met, the Commission may adopt definitive safeguard measures in accordance with the examination procedure referred to in Article 17(3).
+
+2\. The Commission shall make public a report containing a summary of the material facts and considerations relevant to the determination, with due regard to the protection of confidential information within the meaning of Article 12.
+
+### Article 11 — Duration and review of safeguard measures
+
+1\. A safeguard measure shall remain in force only for such period of time as may be necessary to prevent or remedy the serious injury to Union industry and to facilitate adjustment. That period shall not exceed two years, unless it is extended under paragraph 2.
+
+2\. The initial duration of a safeguard measure, as referred to in paragraph 1, may be extended by up to two years, provided that the safeguard measure continues to be necessary to prevent or remedy serious injury to Union industry and that there is evidence that the Union industry is adjusting.
+
+3\. Any Member State, any natural or legal person that is acting on behalf of the Union industry, or any association not having legal personality that is acting on behalf of the Union industry, may request an extension as referred to in paragraph 2 of this Article. In such case, before deciding on the extension, the Commission shall conduct a review to investigate whether the conditions laid down in paragraph 2 of this Article are met, having regard to the factors referred to in Article 6(5). The Commission may initiate such review on its own initiative if there is sufficient prima facie evidence that the conditions laid down in paragraph 2 of this Article have been met. The safeguard measure shall remain in force pending the outcome of that review.
+
+4\. The notice of initiation of the review referred to in paragraph 3 of this Article shall be published in accordance with Article 5(7) and (8). The review shall be conducted in accordance with Article 6.
+
+5\. Any decision regarding an extension pursuant to paragraph 2 of this Article shall be made in accordance with Articles 9 and 10.
+
+6\. The total duration of a safeguard measure shall not exceed four years, including the period of application of any provisional safeguard measure, the initial period of application and any extension thereof.
+
+### Article 12 — Confidentiality
+
+1\. Information received pursuant to this Regulation shall be used only for the purpose for which it was requested.
+
+2\. Information of a confidential nature and information provided on a confidential basis received pursuant to this Regulation shall not be disclosed without the express consent of the supplier of such information.
+
+3\. Each request for confidentiality shall state the reasons why the information should be confidential. Interested parties that provide confidential information shall be required to provide non-confidential summaries thereof. Those summaries shall be sufficiently detailed to permit a reasonable understanding of the substance of the confidential information. In exceptional circumstances, such interested parties may indicate that it is not possible to summarise the information. In such cases, the interested party shall provide a statement of the reasons why a summary is not possible. However, if it appears that a request for confidentiality is unjustified and if the supplier of the information wishes neither to make it public nor to authorise its disclosure in general terms or in the form of a summary, the information concerned may be disregarded.
+
+4\. Information shall in any case be considered to be confidential if its disclosure is likely to have a significantly adverse effect upon the supplier or source of that information.
+
+5\. Paragraphs 1 to 4 shall not preclude reference by the Union authorities to general information, and in particular to the reasons for which decisions were taken pursuant to this Regulation. The Union authorities shall, however, take into account the legitimate interest of natural and legal persons concerned that their business secrets should not be disclosed.
+
+### Article 13 — Report
+
+1\. The Commission shall submit an annual report to the European Parliament and to the Council on the application, implementation and fulfilment of the obligations contained in each Agreement, including with regard to the Trade and Sustainable Development chapter, if the Agreement contains such chapter, and in this Regulation.
+
+2\. The report shall include, inter alia, information on the application of any provisional and definitive safeguard measures, any prior surveillance measures, any regional surveillance and safeguard measures, the termination of any investigations or proceedings without measures, and information on the activities of the various bodies responsible for the implementation of the Agreement and on the activities of the domestic advisory groups.
+
+3\. The report shall set out a summary of the statistics and the evolution of trade with each country concerned.
+
+4\. The European Parliament may, within two months of submission of the Commission's report, invite the Commission to a meeting of its committee responsible to present and explain any issues related to the implementation of this Regulation.
+
+5\. No later than three months after submitting its report to the European Parliament and to the Council, the Commission shall make it public.
+
+### Article 14 — Other mechanisms and criteria for the temporary withdrawal of tariff preferences or of other preferential treatment
+
+1\. Where an Agreement provides for other mechanisms or criteria allowing for the temporary withdrawal of tariff preferences or of other preferential treatment with respect to certain products, such as a stabilisation mechanism in relation to the Union's outermost regions, for example, where the conditions laid down in the relevant Agreement are met, the Commission shall adopt implementing acts to:
+
+(a) suspend, or confirm the non-suspension of, the tariff preferences or other preferential treatment for the product concerned;
+
+(b) reinstate the tariff preferences or other preferential treatment where the conditions laid down in the relevant Agreement are met;
+
+(c) adjust the suspension to conform with the conditions in the relevant Agreement; or
+
+(d) take any other action specified in the relevant Agreement.
+
+Those acts shall be adopted in accordance with the examination procedure referred to in Article 17(3).
+
+2\. On duly justified imperative grounds of urgency, where a delay in taking the action referred to in paragraph 1 of this Article would cause damage which would be difficult to repair, or in order to prevent a negative impact on the situation of the Union market, in particular as a result of an increase in imports, or as otherwise provided in the relevant Agreement, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 17(4).
+
+### Article 15 — Delegated acts
+
+The Commission is empowered to adopt delegated acts in accordance with Article 16 in order to amend the Annex with a view to adding or deleting entries relating to:
+
+(a) an Agreement;
+
+(b) any specific provisions as referred to in the second subparagraph of Article 1(1);
+
+(c) any sensitive products;
+
+(d) any provisions laying down specific rules for other mechanisms as referred to in Article 14 concerning inter alia, if applicable, monitoring, deadlines for investigations, and reporting.
+
+### Article 16 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 15 shall be conferred on the Commission for a period of five years from 14 March 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 15 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 15 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 17 — Committee procedure
+
+1\. The Commission shall be assisted by the committee established by Article 3(1) of Regulation (EU) 2015/478 of the European Parliament and of the Council ( 2 ). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+4\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011 shall apply in conjunction with Article 4 thereof.
+
+### Article 18 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — SPECIFIC PROVISIONS CONTAINED IN THE AGREEMENTS AND IMPLEMENTED BY THIS REGULATION
+
+**Free Trade Agreement between the European Union and the Republic of Singapore**
+
+| Date of application | 21.11.2019 |
+| --- | --- |
+| Bilateral safeguard clauses or other mechanisms | Chapter Three Trade Remedies, Section C Bilateral Safeguard Clause |
+| Provision(s) contained in the Agreement | Article 3.11.3 ‘3. The determination referred to in Article 3.10 (Application of Bilateral Safeguard Measure) shall not be made unless the investigation demonstrates on the basis of objective evidence the existence of a causal link between increased imports from the other party and serious injury or the threat thereof. In this respect, due consideration shall be given to other factors, including imports of the same product from other countries.’ Article 3.11.4 ‘4. Each Party shall ensure that its competent authorities complete any such investigation within one year of the date of its initiation.’ Article 3.11.5(c) ‘5. Neither Party shall apply a bilateral safeguard measure as set out in paragraph 1 of Article 3.10 (Application of Bilateral Safeguard Measure): […] (c) beyond the expiration of the transition period, except with the consent of the other Party.’ Article 3.11.6 ‘6. No measure shall be applied again to the import of the same good during the transition period, unless a period of time equal to half of the period during which the safeguard measure was applied previously has elapsed. In this case, paragraph 3 of Article 3.13 (Compensation) shall not apply.’ Article 3.11.7 ‘7. When a Party terminates a bilateral safeguard measure, the rate of customs duty shall be the rate that, according to its Schedule included in Annex 2-A, would have been in effect but for the measure.’ |
+
+**Free Trade Agreement between the European Union and the Socialist Republic of Viet Nam**
+
+| Date of application | 1.8.2020 |
+| --- | --- |
+| Bilateral safeguard clauses or other mechanisms | Chapter 3 Trade Remedies, Section C Bilateral safeguard clause |
+| Provision(s) contained in the Agreement | Article 3.11.4 ‘4. The investigation shall also demonstrate, on the basis of objective evidence, the existence of a causal link between increased imports and the serious injury or threat thereof. The investigation shall also take into consideration the existence of any factor other than increased imports which may also cause injury at the same time.’ Article 3.11.5 ‘5. Each Party shall ensure that its competent authorities complete the investigation referred to in paragraph 1 within one year of the date of its initiation.’ Article 3.11.6(c) ‘6. A Party shall not apply a bilateral safeguard measure: […] (c) beyond the expiration of the transition period, except with the consent of the other Party.’ Article 3.11.7 ‘7. In order to facilitate adjustment in a situation where the expected duration of a bilateral safeguard measure is more than two years, the Party applying the measure shall progressively liberalise the measure at regular intervals during the period of application.’ Article 3.11.8 ‘8. When a Party terminates a bilateral safeguard measure, the rate of customs duty shall be the rate that, according to its schedule included in Annex 2-A (Reduction or Elimination of Customs Duties), would have been in effect but for the measure.’ Article 3.14 ‘14. In order to ensure the maximum efficiency for the application of the trade remedy rules under this Chapter, the investigating authorities of the Parties shall use the English language as a basis for communications and documents exchanged in the context of trade remedy investigations between the Parties.’ |
+
+**Agreement between the European Union and Japan for an Economic Partnership**
+
+| Date of application | 1.2.2019 |
+| --- | --- |
+| Bilateral safeguard clauses or other mechanisms | Chapter 5 Trade Remedies, Section A General provisions and Section B Bilateral safeguard measures, and Article 18 Safeguard of Annex 2-C Motor Vehicles and Parts |
+| Provision(s) contained in the Agreement | Article 5.1(d) ‘(d) “transition period” means, in relation to a particular originating good, the period beginning on the date of entry into force of this Agreement and ending 10 years after the date of completion of tariff reduction or elimination on that good in accordance with Annex 2-A.’ Article 5.2.2(b)(ii) ‘(ii) most-favoured-nation applied rate of customs duty in effect on the day immediately preceding the date of entry into force of this Agreement.’ Article 5.3.2 ‘2. Bilateral safeguard measures may only be applied during the transition period.’ Article 5.3.3 ‘3. In order to facilitate adjustment in a situation where the expected duration of a bilateral safeguard measure exceeds one year, the Party maintaining the bilateral safeguard measure shall progressively liberalise the bilateral safeguard measure at regular intervals during the period of application.’ Article 5.3.4 ‘4. No bilateral safeguard measure shall be applied to the import of a particular originating good which has already been subject to such a bilateral safeguard measure for a period of time equal to the duration of the previous bilateral safeguard measure or one year, whichever is longer.’ Article 5.3.5 ‘5. Upon the termination of a bilateral safeguard measure, the rate of customs duty for the originating good subject to the measure shall be the rate which would have been in effect but for the bilateral safeguard measure.’ Article 5.4.2 ‘2. The investigation shall in all cases be completed within one year following its date of initiation.’ Article 5.4.4 ‘4. The determination that increased imports of an originating good have caused or are threatening to cause serious injury to a domestic industry shall not be made unless the investigation demonstrates, on the basis of objective evidence, the existence of a causal link between the increased imports of the originating good and the serious injury or threat of serious injury to the domestic industry. In this determination, factors other than the increased imports of the originating good which are also causing injury to the domestic industry at the same time shall be taken into consideration.’ Article 5.8 ‘8. The notifications referred to in paragraph 1 of Article 5.5 and paragraph 2 of Article 5.7 and any other communication between the Parties under this Section shall be made in English.’ Article 18 Safeguard of Annex 2-C Motor Vehicles and Parts ‘1. During the 10 years following the entry into force of this Agreement, each of the Parties reserves the right to suspend equivalent concessions or other equivalent obligations in the event that the other Party (*): (a) does not apply or ceases applying a UN Regulation as specified in Appendix 2-C-1; or (b) introduces or amends any other regulatory measure that nullifies or impairs the benefits of the application of a UN Regulation as specified in Appendix 2-C-1. 2. Suspensions pursuant to paragraph 1 shall remain in force only until a decision is made in accordance with the accelerated dispute settlement procedure referred to in Article 19 of this Annex or a mutually acceptable solution is found, including through consultations under subparagraph (b) of Article 19 of this Annex, whichever is earlier. (*) The level of the suspension of concessions or other obligations shall be no more than the level of the amount of the bilateral trade between the Parties of products covered by the UN Regulation referred to in subparagraph 1(a) or (b) of this Article.’ |
+
+**Free Trade Agreement between the European Union and New Zealand**
+
+| Date of application | 1.6.2024 |
+| --- | --- |
+| Bilateral safeguard clauses or other mechanisms | Chapter 5 Trade Remedies, Section D Bilateral Safeguard Measures |
+| Provision(s) contained in the Agreement | Article 5.7(c), (e) and (g) ‘(c) “serious deterioration” means major difficulties in a sector of the economy producing like or directly competitive goods; […] (e) “threat of serious deterioration” means a serious deterioration that is clearly imminent on the basis of facts and not merely on allegation, conjecture or remote possibility; […] (g) “transition period” means a period of seven years starting from the date of entry into force of this Agreement.’ Article 5.8.2(b)(ii) ‘(ii) the most-favoured-nation applied rate of customs duty in effect on the day immediately preceding the date of entry into force of this Agreement.’ Article 5.9.1(a) and (c) ‘1. A bilateral safeguard measure shall not be applied: (a) except to the extent, and for such time, as may be necessary to prevent or remedy the serious injury or the threat of serious injury to the domestic industry or the serious deterioration or the threat of serious deterioration in the economic situation of the outermost region or regions; […] (c) beyond the expiration of the transition period.’ Article 5.9.2(a) ‘2. The period referred to in point (b) of paragraph 1 may be extended by one year provided that: (a) the competent investigating authorities of the importing Party determine, in conformity with the procedures specified in Sub-Section 1 (Procedural rules applicable to bilateral safeguard measures), that the bilateral safeguard measure continues to be necessary to prevent or remedy the serious injury or the threat of serious injury to the domestic industry or the serious deterioration or the threat of serious deterioration in the economic situation of the outermost region or regions;’ Article 5.9.3 ‘3. When a Party ceases to apply a bilateral safeguard measure, the rate of customs duty shall be the rate that would have been in effect for the good concerned, in accordance with Annex 2-A (Tariff elimination schedules).’ Article 5.9.4 ‘4. A bilateral safeguard measure shall not be applied to the import of a good of a Party which has already been subject to such a bilateral safeguard measure for a period of time equal to half of the duration of the previous bilateral safeguard measure.’ Article 5.9.5 ‘5. A Party shall not apply to the same good and at the same time: (a) a provisional bilateral safeguard measure, a bilateral safeguard measure or an outermost regions safeguard measure pursuant to this Agreement; and (b) a safeguard measure pursuant to Article XIX of GATT 1994 and the Agreement on Safeguards.’ Article 5.10.1 ‘1. In critical circumstances, where delay would cause damage that would be difficult to repair, a Party may apply a provisional bilateral safeguard measure, pursuant to a preliminary determination that there is clear evidence that imports of a good originating in the other Party have increased as a result of the reduction or elimination of a customs duty under this Agreement, and that such imports cause serious injury or the threat of serious injury to the domestic industry or serious deterioration or the threat of serious deterioration in the economic situation of the outermost region or regions.’ Article 5.10.3 ‘3. The customs duty imposed as a result of the provisional bilateral safeguard measure shall promptly be refunded if the subsequent investigation referred to in Sub-Section 1 (Procedural rules applicable to bilateral safeguard measures) does not determine that the increased imports of the good subject to the provisional bilateral safeguard measure cause serious injury or the threat of serious injury to the domestic industry or serious deterioration or the threat of serious deterioration in the economic situation of the outermost region or regions.’ Article 5.11 ‘Outermost regions 1. Where any product originating in New Zealand is being directly imported into the territory of one or several outermost regions of the Union (*) in such increased quantities and under such conditions as to cause serious deterioration or the threat of serious deterioration in the economic situation of the outermost region or regions concerned, the Union, after having examined alternative solutions, may exceptionally apply bilateral safeguard measures limited to the territory of the outermost region or regions concerned. 2. For the purposes of paragraph 1, the determination of serious deterioration shall be based on objective factors, including the following elements: (a) the increase in the volume of imports in absolute or relative terms to the domestic production and to the imports from other sources; and (b) the effect of such imports on the situation of the relevant industry or the economic sector concerned, including on the levels of sales, production, financial situation and employment. 3. Without prejudice to paragraph 1, this Section applies to any safeguard measure adopted under this Article, mutatis mutandis. (*) On the date of entry into force of this Agreement, the outermost regions of the Union are Guadeloupe, French Guiana, Martinique, Reunion, Mayotte, St. Martin, the Azores, Madeira and the Canary Islands. This Article shall also apply to a country or an overseas territory that changes its status to an outermost region by a decision of the European Council in accordance with the procedure set out in Article 355(6) of the TFEU from the date of adoption of that decision. In the event that an outermost region of the Union changes its status in accordance with the same procedure, Article 5.11 (Outermost regions) shall cease to be applicable from the date of entry into force of the relevant decision of the European Council. The Union shall notify New Zealand of any change concerning the status of the territories considered as outermost regions of the Union.’ Article 5.14.2 ‘2. In order to apply a bilateral safeguard measure, the competent investigating authority shall demonstrate on the basis of objective evidence the existence of a causal link between the increased imports of the product concerned and the serious injury or the threat of serious injury or the existence of a causal link between the increased imports of the product concerned and the serious deterioration or the threat of serious deterioration. The competent investigating authority shall also examine known factors other than the increased imports to ensure that the injury caused by such other factors is not attributed to the increased imports.’ Article 5.14.3 ‘3. The investigation shall in all cases be completed within one year after the date of its initiation.’ |
+
+**Economic Partnership Agreement between the European Union, of the one part, and the Republic of Kenya, Member of the East African Community, of the other Part**
+
+<table>
+<tbody><tr><td>Date of Application</td><td>1.7.2024</td></tr>
+<tr><td>Bilateral safeguard clauses and/or other mechanisms</td><td>Title VI Trade Defence Measures</td></tr>
+<tr><td>Provision(s) contained in the Agreement</td><td>Article 50.1‘1.After having examined alternative solutions, a Party may apply safeguard measures of limited duration which derogate from Articles 10 and 11 under the conditions and in accordance with the procedures laid down in this Article.’ Article 50.2 ‘2. Safeguard measures referred to in paragraph 1 may be taken where a product originating in one Party is being imported into the territory of the other Party in such increased quantities and under such conditions as to cause or threaten to cause:  (a) serious injury to the domestic industry producing like or directly competitive products in the territory of the importing Party;  (b) disturbances in a sector of the economy, particularly where those disturbances produce major social problems, or difficulties which could bring about a serious deterioration in the economic situation of the importing Party; or  (c) disturbances in the markets of like or directly competitive agricultural products (1) or in the mechanisms regulating those markets.  Article 50.3(b) and (c) ‘3. Safeguard measures referred to in this Article shall not exceed what is necessary to remedy or prevent the serious injury or disturbances, as defined in paragraphs 2 and 5(b). The safeguard measures of the importing Party may only consist of one or more of the following:  (b) an increase in the customs duty on the product concerned up to a level which does not exceed the customs duty applied to other WTO members; and  (c) the introduction of tariff quotas on the product concerned.’  Article 50.4 ‘4.Without prejudice to paragraphs 1 to 3, where any product originating in the EAC Partner State(s) is being imported in such increased quantities and under such conditions as to cause or threaten to cause one of the situations referred to under paragraph 2 to one or several of the EU outermost regions, the EU may take surveillance or safeguard measures limited to the region or regions concerned in accordance with the procedures laid down in paragraphs 6 to 9.’ Article 50.5 ‘5. (a) Without prejudice to paragraphs 1 to 3, where any product originating in the EU is being imported in such increased quantities and under such conditions as to cause or threaten to cause one of the situations referred to in paragraph 2 to the EAC Partner State(s), the EAC Partner State(s) may take surveillance or safeguard measures limited to their territory in accordance with the procedures laid down in paragraphs 6 to 9.  (b) The EAC Partner State(s) may take safeguard measures, in accordance with the procedures laid down in paragraphs 6 to 9, where a product originating in the EU as a result of the reduction of duties is being imported into their territory in such increased quantities and under such conditions as to cause or threaten to cause disturbances to an infant industry producing like or directly competitive products. Such provision is only applicable for a period of ten (10) years from the date of entry into force of this Agreement. This period may be extended by the EPA Council for a period of a maximum of five (5) years.’  Article 50.6 ‘6. (a) Safeguard measures referred to in this Article shall be maintained only for such a time as may be necessary to prevent or remedy serious injury or disturbances as defined in paragraphs 2, 4 and 5.  (b) Safeguard measures referred to in this Article shall not be applied for a period exceeding two (2) years. Where the circumstances warranting the imposition of safeguard measures continue to exist, such measures may be extended for a further period of no more than two (2) years. Where the EAC Partner State(s) apply a safeguard measure, or where the EU applies a safeguard measure limited to the territory of one or more of its outermost regions, such measure may nevertheless be applied for a period not exceeding four (4) years and, where the circumstances warranting the imposition of safeguard measures continue to exist, may be extended for a further period of four (4) years.  (c) Safeguard measures referred to in this Article that exceed one (1) year shall contain clear elements progressively leading to their elimination by the end of the set period, at the latest.  (d) No safeguard measure referred to in this Article shall be applied to the import of a product that has previously been subject to such a measure for a period of at least one (1) year since the expiry of the measure.’  Article 50.7 ‘7. For the implementation of paragraphs 1 to 6, the following provisions shall apply:  (a) where a Party takes the view that one of the circumstances set out in paragraphs 2, 4 or 5 exists, it shall immediately refer the matter to the Committee of Senior Officials for examination;  (b) the Committee of Senior Officials may make any recommendation needed to remedy the circumstances which have arisen; if no recommendation has been made by the Committee of Senior Officials aimed at remedying the circumstances, or no other satisfactory solution has been reached within thirty (30) days of the matter being referred to the Committee of Senior Officials, the importing Party may adopt the appropriate measures to remedy the circumstances in accordance with this Article;  (c) before taking any measure provided for in this Article or, in the cases to which paragraph 8 of this Article applies, as soon as possible, the EAC Partner State(s) shall supply the Committee of Senior Officials with all relevant information required for a thorough examination of the situation, with a view to seeking a solution acceptable to the Parties concerned;  (d) in the selection of safeguard measures pursuant to this Article, priority must be given to those which least disturb the operation of this Agreement;  (e) any safeguard measure taken pursuant to this Article shall be notified in writing immediately to the Committee of Senior Officials and shall be the subject of periodic consultations within that body, particularly with a view to establishing a timetable for their abolition as soon as circumstances permit.’  Article 50.8 ‘8.Where exceptional circumstances require immediate action, the importing Party concerned may take the measures provided for in paragraph 3, 4 or 5 on a provisional basis without complying with the requirements of paragraph 7. Such action may be taken for a maximum period of one hundred and eighty (180) days where measures are taken by the EU, and of two hundred (200) days where measures are taken by the EAC Partner State(s) or where measures taken by the EU are limited to the territory of one or more of its outermost regions. The duration of any such provisional measure shall be counted as a part of the initial period and any extension referred to in paragraph 6. In the taking of such provisional measures, the interest of all Parties involved shall be taken into account, including their level of development. The importing Party concerned shall inform the other Party and shall immediately refer the matter to the Committee of Senior Officials for examination.’ Article 50.9 ‘9.If an importing Party subjects imports of a product to an administrative procedure having as its purpose the rapid provision of information on the trend of trade flows liable to give rise to the problems referred to in this Article, it shall inform the Committee of Senior Officials without delay.’ Article 50.10 ‘10.The WTO Agreement shall not be invoked to preclude a Party from adopting safeguard measures in conformity with this Article.’</td></tr>
+<tr><td colspan="2">(1)  For the purpose of this article, agricultural products are those covered by Annex I to the WTO Agreement on Agriculture.’ </td></tr>
+</tbody>
+</table>
+
+**Interim Trade Agreement between the European Union and the Republic of Chile**
+
+| Date of Application | 01/02/2025 |
+| --- | --- |
+| Bilateral safeguard clauses and/or other mechanisms | Chapter Five Trade Remedies, Section C Bilateral Safeguard Measures |
+| Provision(s) contained in the Agreement | Article 5.9(b) ‘(b) “transition period” means: (i) a period of seven years from the date of entry into force of this Agreement; or (ii) for any good for which the schedule in Annex 2 of the Party applying a bilateral safeguard measure provides for a tariff elimination period of seven years, the tariff elimination period for that good plus two years.’ Article 5.10.2(b)(ii) ‘(ii) the applied most-favoured-nation rate of customs duty on the good in effect on the day immediately preceding the date of entry into force of this Agreement.’ Article 5.11.1(c) ‘1. A bilateral safeguard measure shall not be applied: … (c) beyond the expiration of the transition period as defined in subparagraph (b) of Article 5.9.’ Article 5.11.2 ‘2. When a Party ceases to apply a bilateral safeguard measure, the rate of customs duty shall be the rate that would have been in effect for the good in accordance with its schedule in Annex 2.’ Article 5.11.3 ‘3. In order to facilitate adjustment of the industry concerned in a situation where the expected duration of a bilateral safeguard measure exceeds one year, the Party applying the measure shall progressively liberalise it at regular intervals during the period of application.’ Article 5.14. ‘1. A Party shall not apply a bilateral safeguard measure as referred to in this Section to the import of a good that has previously been subject to such a measure, unless a period of time equal to half of the time during which the safeguard measure was applied for the immediately preceding period has elapsed. A bilateral safeguard measure that has been applied more than once on the same good may not be extended by another two years as provided for in subparagraph (b) of Article 5.11(1). 2. A Party shall not apply, with respect to the same good and during the same period: (a) a bilateral safeguard measure or a provisional bilateral safeguard measure under this Agreement; and (b) a global safeguard measure pursuant to Article XIX of GATT 1994 and the Safeguards Agreement.’ Article 5.15 ‘Outermost regions* of the European Union 1. If any good originating in Chile is being imported into the territory of one or more of the outermost regions of the European Union in such increased quantities and under such conditions as to cause or threaten to cause serious deterioration in the economic situation of the outermost region concerned, the European Union, after having examined alternative solutions, may exceptionally apply bilateral safeguard measures limited to the territory of the region concerned. 2. For the purposes of paragraph 1, “serious deterioration” means major difficulties in a sector of the economy producing like or directly competitive goods. The determination of serious deterioration shall be based on objective factors, including the following: (a) the increase in the volume of imports, in absolute terms or relative to domestic production and to imports from other sources; and (b) the effect of the imports referred to in paragraph 1 on the situation of the industry or economic sector concerned, including on the levels of sales, production, financial situation and employment. 3. Without prejudice to paragraph 1, other provisions of this Section applicable to bilateral safeguard measures are also applicable to any safeguard measures adopted under this Article. Any reference to “serious injury” in other provisions of this Section shall be understood as “serious deterioration” when applied in relation to outermost regions of the European Union. * On the date of entry into force of this Agreement, the outermost regions of the European Union are: Guadeloupe, French Guiana, Martinique, Réunion, Mayotte, St. Martin, the Azores, Madeira and the Canary Islands. This Article also applies to a country or an overseas territory that changes its status into that of an outermost region by way of a decision of the European Council in accordance with the procedure set out in Article 355(6) of the Treaty on the Functioning of the European Union, as from the date of adoption of that decision. In the event that an outermost region of the European Union, following that procedure, ceases to be an outermost region, this Article shall cease to be applicable to that country or overseas territory as from the date of the decision of the European Council in that regard. The European Union shall notify Chile of any change in the territories considered as outermost regions of the European Union.’ Article 5.17.2 ‘2. The application shall be considered to have been made by or on behalf of the domestic industry if it is supported by domestic producers whose collective output constitutes more than 50 % of the total domestic production of the like or directly competitive goods produced by the portion of the domestic industry expressing either support for or opposition to the application. However, a competent investigating authority shall not initiate an investigation if the domestic producers expressing support for the application account for less than 25 % of the total domestic production of the like or directly competitive goods produced by the domestic industry.’ Article 5.18.3(a) ‘(a) evidence of serious injury or threat thereof caused by increased imports of a good originating in the other Party as a result of the reduction or elimination of a customs duty under this Agreement; the investigation shall demonstrate, on the basis of objective evidence, the existence of a causal link between the increased imports of the good concerned and the serious injury or threat thereof; known factors other than the increased imports shall also be examined to ensure that the serious injury or threat thereof caused by those other factors is not attributed to the increased imports;’ Article 5.18.5 ‘5. Each Party shall ensure that its competent investigating authority completes any investigation pursuant to this Article within 12 months of the date of its initiation.’ Article 5.19.2 ‘2. Interested parties providing confidential information are requested to furnish non-confidential summaries thereof or, if such parties indicate that the information cannot be summarised, the reasons therefor. The summaries shall be sufficiently detailed to permit a reasonable understanding of the substance of the information submitted in confidence. However, if the competent investigating authority finds that a request for confidentiality is not warranted and if the interested party concerned is either unwilling to make the information public or to authorise its disclosure in generalised or summary form, the competent investigating authority may disregard such information, unless it can be demonstrated to the satisfaction of that authority, in view of information from appropriate sources, that the information is correct.’ Article 5.22 ‘In order to facilitate the submission of documents in safeguard procedures, the competent investigating authority of the Party in charge of the procedure shall accept documents submitted in English by interested parties, provided that those parties submit later, within a longer deadline set by the competent authority, a translation of the documents into the language of the safeguard procedure’. |
+
+**Association Agreement between the European Union and the European Atomic Energy Community, and their Member States of the one part, and the Republic of Moldova, of the other part**
+
+| Date of Application | 4.10.2025 |
+| --- | --- |
+| Other mechanisms |  |
+| Provisions contained in the Agreement | Annex XV – E Article 2 – Production standards ‘1. Moldova shall align its legislation to the Union legislation listed in Appendix B to this Annex by 31 December 2027.’ ‘5. If, notwithstanding paragraph 4, the Commission cannot conclude that Moldova has met its obligation under paragraph 1, the Union may suspend all or part of the preferences granted pursuant to Article 1 for relevant products. The Union shall, without delay, deliver to Moldova a notification setting out its intention to suspend preferences. The suspension may not apply earlier than 30 days after the date of the delivery of the notification to Moldova. 6. At Moldova’s request and following the delivery of new information, the Commission shall review Moldova’s compliance with paragraph 1 with respect to the relevant Union legislation. The review shall take no longer than four weeks and may involve consultations between the Parties. If the Commission concludes that Moldova has complied with paragraph 1, the Union shall reintroduce the suspended part of the preferences under Article 1 within two months.’ Article 3 – Safeguard measures ‘1. If serious economic, societal or environmental difficulties of a sectoral or regional nature, liable to persist have arisen or threaten to arise in either Party, including in the case of the Union in one or several Member States, as result of imports of a product covered by the additional liberalisation under Article 1, the Party concerned may take appropriate safeguard measures with respect to the preferences granted under Article 1. 2. The Party concerned shall, without delay, notify the other Party of its intention to take safeguard measures and shall provide all relevant information. The Parties shall immediately enter into consultations with a view to finding a mutually acceptable solution. 3. The Party concerned may not take safeguard measures until one month has elapsed after the date of notification under paragraph 2, unless the consultation procedure under paragraph 2 has been concluded before the expiration of the stated time limit. When exceptional circumstances requiring immediate action exclude prior examination, the Party concerned may immediately apply the safeguard measures strictly necessary to remedy the situation.’ |
+
+### Joint statement of the European Parliament and the Commission
+
+The European Parliament and the Commission agree on the importance of close cooperation concerning the implementation of the Agreements listed in the Annex to the Regulation (EU) 2019/287 of the European Parliament and of the Council of 13 February 2019 implementing bilateral safeguard clauses and other mechanisms allowing for the temporary withdrawal of preferences in certain trade agreements concluded between the European Union and third countries. To that end they agree that where the European Parliament adopts a recommendation to initiate a safeguard investigation, the Commission will carefully examine whether the conditions under the Regulation for ex officio initiation are fulfilled. Where the Commission considers that those conditions are not fulfilled, it will present a report to the committee responsible of the European Parliament including an explanation of all the factors relevant to the initiation of such an investigation.
+
+( 1 ) Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (OJ L 347, 20.12.2013, p. 671).
+
+( 2 ) Regulation (EU) 2015/478 of the European Parliament and of the Council of 11 March 2015 on common rules for imports (OJ L 83, 27.3.2015, p. 16).

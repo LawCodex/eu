@@ -1,0 +1,1172 @@
+---
+title: "Regulation (EU) 2020/1056 of the European Parliament and of the Council of 15 July 2020 on electronic freight transport information (Text with EEA relevance)"
+identifier: "32020R1056"
+eli: "http://data.europa.eu/eli/reg/2020/1056/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2020-07-15
+entry_into_force: 2020-04-16
+last_amended: 2025-01-09
+consolidated_version: "02020R1056-20250109"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R1056-20250109"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2020/1056 of the European Parliament and of the Council of 15 July 2020 on electronic freight transport information (Text with EEA relevance)
+
+**REGULATION (EU) 2020/1056 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 July 2020**
+
+**on electronic freight transport information**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1157 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 </td><td> L 1157</td><td>1</td><td>30.4.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2025 of 15 July 2024 </td><td> L 2025</td><td>1</td><td>20.12.2024</td></tr>
+</table>
+
+**REGULATION (EU) 2020/1056 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 July 2020**
+
+**on electronic freight transport information**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Regulation establishes a legal framework for the electronic communication of regulatory information between the economic operators concerned and competent authorities in relation to the transport of goods on the territory of the Union.
+
+For that purpose, this Regulation:
+
+(a) lays down the conditions based on which competent authorities are required to accept regulatory information when that information is made available electronically by the economic operators concerned;
+
+(b) lays down rules on the provision of services related to making regulatory information available electronically by the economic operators concerned to competent authorities.
+
+#### Article 2 — Scope
+
+1\. This Regulation applies to:
+
+(a) regulatory information requirements set out in:
+
+(i) Article 6(1) of EEC Council Regulation No 11 ( 1 );
+
+(ii) Article 3 of Council Directive 92/106/EEC ( 2 );
+
+(iii) Article 8(3) of Regulation (EC) No 1072/2009 of the European Parliament and of the Council ( 3 );
+
+(iv) Article 9(2), 16(1) and Article 18(4) of Regulation (EU) 2024/1157 of the European Parliament and of the Council ( 4 ); this Regulation is without prejudice to controls by customs offices provided for in relevant provisions of Union legal acts;
+
+(v) Chapter 5.4 of Part 5 of Annex A to the European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR), concluded at Geneva on 30 September 1957, as referred to in Section I.1 of Annex I to Directive 2008/68/EC of the European Parliament and of the Council ( 5 ); Chapter 5.4 of Part 5 of the Regulations concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF concluded at Vilnius on 3 June 1999, as referred to in Section II.1 of Annex II to that Directive; and Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN), concluded at Geneva on 26 May 2000, as referred to in Section III.1 of Annex III to that Directive;
+
+(b) regulatory information requirements laid down in delegated or implementing acts adopted by the Commission pursuant to a Union legal act referred to in point (a) of this paragraph or pursuant to Directive (EU) 2016/797 of the European Parliament and of the Council ( 6 ) or to Regulation (EC) No 300/2008 of the European Parliament and of the Council ( 7 ). Those delegated or implementing acts shall be listed in Part A of Annex I to this Regulation;
+
+(c) regulatory information requirements set out in the provisions of national law listed in Part B of Annex I to this Regulation.
+
+2\. By 21 August 2021, Member States shall notify the Commission of the provisions of national law and corresponding regulatory information requirements that require the provision of information identical, in whole or in part, to the information to be provided pursuant to the regulatory information requirements referred to in points (a) and (b) of paragraph 1.
+
+Subsequent to that notification, the Member States shall notify the Commission of any provisions of national law that:
+
+(a) introduce changes to regulatory information requirements set out in the provisions of national law listed in Part B of Annex I; or
+
+(b) lay down new relevant regulatory information requirements that require the provision of information identical, in whole or in part, to the information to be provided pursuant to the regulatory information requirements referred to in points (a) and (b) of paragraph 1.
+
+Member States shall make such notifications within one month from the adoption of such provisions.
+
+3\. The Commission shall adopt delegated acts in accordance with Article 14, amending:
+
+(a) Part A of Annex I in order to incorporate references to any regulatory information requirements referred to in point (b) of paragraph 1 of this Article;
+
+(b) Part B of Annex I in order to incorporate or delete references to national law and regulatory information requirements in accordance with the notifications made pursuant to paragraph 2 of this Article.
+
+#### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘regulatory information’ means information, whether or not presented in the form of a document, that is related to the transport of goods in the territory of the Union, including of goods in transit, which is to be made available by an economic operator concerned in accordance with the provisions referred to in Article 2(1) in order to prove compliance with the relevant requirements of the acts laying down those provisions;
+
+(2) ‘regulatory information requirement’ means a requirement to provide regulatory information;
+
+(3) ‘competent authority’ means a public authority, agency or other body which is competent to perform tasks pursuant to the legal acts referred to in Article 2(1) and for which access to regulatory information is necessary, such as checking, enforcing, validating or monitoring compliance on the territory of a Member State;
+
+(4) ‘electronic freight transport information’ or ‘eFTI’ means a set of data elements that are processed by electronic means for the purpose of exchanging regulatory information among the economic operators concerned and between the economic operators concerned and competent authorities;
+
+(5) ‘eFTI data subset’ means a set of structured data elements that correspond to the regulatory information required pursuant to specific Union legal act or national law referred to in Article 2(1);
+
+(6) ‘eFTI common data set’ means a comprehensive set of structured data elements that correspond to all the eFTI data subsets, where the data elements common to the different eFTI data subsets are included only once;
+
+(7) ‘data element’ means the smallest unit of information which has a unique definition and precise technical characteristics, such as format, length and character type;
+
+(8) ‘processing’ means an operation or set of operations performed on eFTI, whether or not by automated means, such as collection, recording, organisation, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making eFTI available, alignment or combination, restriction, erasure or destruction;
+
+(9) ‘operation log’ means an automated record of the electronic processing of eFTI;
+
+(10) ‘eFTI platform’ means a solution based on information and communication technology (ICT), such as an operating system, an operating environment, or a database, intended to be used for the processing of eFTI;
+
+(11) ‘eFTI platform developer’ means a natural or legal person which has developed or acquired an eFTI platform either for the purpose of processing regulatory information related to its own economic activity or for putting that platform on the market;
+
+(12) ‘eFTI service’ means a service consisting of eFTI processing by means of an eFTI platform, alone or in combination with other ICT solutions, including other eFTI platforms;
+
+(13) ‘eFTI service provider’ means a natural or legal person which provides an eFTI service to the economic operators concerned on the basis of a contract;
+
+(14) ‘economic operator concerned’ means a transport or logistics operator, or any other natural or legal person, who is responsible for making regulatory information available to competent authorities in accordance with the relevant regulatory information requirements;
+
+(15) ‘human-readable format’ means a way of presenting data in an electronic form that can be used as information by a natural person without requiring any further processing;
+
+(16) ‘machine-readable format’ means a way of presenting data in an electronic form that can be used for automatic processing by a machine;
+
+(17) ‘conformity assessment body’ means a conformity assessment body within the meaning of Regulation (EC) No 765/2008, which is accredited in accordance with that Regulation to carry out the conformity assessment of eFTI platforms or eFTI service providers;
+
+(18) ‘shipment’ means the transport of a determined set of goods, including waste, between the first place of pick-up and final place of delivery under the terms of a single transport contract or of multiple consecutive transport contracts, including, where applicable, the transfer between different modes of transport, irrespective of the quantity or number of containers, packages or pieces transported.
+
+## CHAPTER II — REGULATORY INFORMATION MADE AVAILABLE ELECTRONICALLY
+
+#### Article 4 — Requirements for economic operators concerned
+
+1\. For the purposes of Article 5(1), (2) and (3), the economic operators concerned shall comply with the requirements set out in this Article.
+
+2\. Where the economic operators concerned make regulatory information available electronically to a competent authority, they shall do so on the basis of data processed on a certified eFTI platform and, if applicable, by a certified eFTI service provider. That regulatory information shall be made available by the economic operators concerned in machine-readable format and, at the request of the competent authority, in human-readable format.
+
+3\. Information in machine-readable format shall be made available via an authenticated and secure connection to the data source of an eFTI platform. The economic operators concerned shall communicate the unique electronic identifying link referred to in point (e) of Article 9(1) that enables the competent authority to uniquely identify the regulatory information related to the shipment.
+
+4\. Information in human-readable format requested by competent authorities shall be made available on the spot, on the screen of an electronic device owned by the economic operator concerned.
+
+#### Article 5 — Requirements for competent authorities
+
+1\. As from 30 months after the date of entry into force of the first of the delegated and implementing acts referred to in Articles 7 and 8, competent authorities shall accept regulatory information made available electronically by the economic operators concerned in accordance with Article 4, including where such regulatory information is requested by competent authorities as additional information.
+
+1a. By way of derogation from paragraph 1, competent authorities shall accept regulatory information, including additional information, pursuant to Regulation (EU) 2024/1157 as from 21 May 2026.
+
+3\. Where regulatory information required pursuant to a specific Union legal act or national law referred to in Article 2(1) includes official validation, such as stamps or certificates, the respective authority shall provide that validation electronically, in accordance with the requirements established by the delegated and implementing acts referred to in Articles 7 and 8.
+
+4\. In order to comply with the requirements set out in paragraphs 1 to 3 of this Article, Member States shall take measures to enable all their competent authorities to access and process regulatory information made available by the economic operators concerned in accordance with Article 4. Those measures shall comply with delegated and implementing acts referred to in Articles 7 and 8.
+
+#### Article 6 — Confidential commercial information
+
+Competent authorities, eFTI service providers and the economic operators concerned shall take measures to ensure the confidentiality of commercial information that is processed and exchanged in accordance with this Regulation and ensure that such information may be accessed and processed only when authorised.
+
+#### Article 7 — eFTI common data set and eFTI data subsets
+
+1\. The Commission shall adopt delegated acts in accordance with Article 14 to supplement this Regulation by establishing and amending the eFTI common data set and eFTI data subsets in relation to the respective regulatory information requirements referred to in Article 2(1), including corresponding specifications on the definition and technical characteristics for each data element included in the eFTI common data set and eFTI data subsets.
+
+2\. When adopting the delegated acts referred to in paragraph 1, the Commission shall:
+
+(a) take into account relevant international conventions and Union law; and
+
+(b) seek to ensure the interoperability of the eFTI common data set and eFTI data subsets with relevant data models that are accepted internationally or at Union level, including multimodal data models.
+
+3\. The first such delegated act shall cover all the elements referred to in paragraph 1 and shall be adopted no later than 21 February 2023.
+
+4\. By way of derogation from paragraph 3, elements referred to in paragraph 1 that are related to information requirements set out in the provisions referred to in point (iv) of Article 2(1)(a) shall be adopted no later than the date referred to in Article 27(5) of Regulation (EU) 2024/1157.
+
+#### Article 8 — Common procedures and rules for access
+
+1\. The Commission shall adopt implementing acts laying down common procedures and detailed rules, including common technical specifications, for access by competent authorities to eFTI platforms, including procedures for the processing of regulatory information and for communication between competent authorities and the economic operators concerned in relation to that information.
+
+2\. When adopting the implementing acts referred to in paragraph 1, the Commission shall seek to enhance the efficiency of the administrative procedures and to minimise compliance costs both for the economic operators concerned and competent authorities.
+
+3\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2). The first such implementing act shall cover all the elements referred to in paragraph 1 of this Article and shall be adopted no later than 21 February 2023.
+
+4\. By way of derogation from paragraph 3, elements referred to in paragraph 1 that are specifically related to the accessing and processing by the authorities of regulatory information in relation to requirements set out in the provisions referred to in point (iv) of Article 2(1)(a), including the communication with the economic operators in relation to that information, shall be adopted no later than the date referred to in Article 27(5) of Regulation (EU) 2024/1157.
+
+## CHAPTER III — eFTI PLATFORMS AND eFTI SERVICE PROVIDERS
+
+### SECTION 1 — Requirements for eFTI platforms and eFTI service providers
+
+#### Article 9 — Functional requirements for eFTI platforms
+
+1\. The eFTI platforms used for processing regulatory information shall provide functionalities that ensure that:
+
+(a) personal data can be processed in accordance with Regulation (EU) 2016/679;
+
+(b) commercial data can be processed in accordance with Article 6;
+
+(c) competent authorities can access and process data in accordance with the specifications adopted by means of delegated and implementing acts referred to in Articles 7 and 8;
+
+(d) the economic operators concerned can make information available to competent authorities in accordance with Article 4;
+
+(e) a unique electronic identifying link can be established between a shipment and the related data elements, including a structured reference to the eFTI platform where the data is made available, such as a unique reference identifier;
+
+(f) data can be processed solely on the basis of authorised and authenticated access;
+
+(g) all data processing is duly recorded in operation logs in order to allow, as a minimum, the identification of each distinct processing operation, the natural or legal person having made the operation and the sequencing of the operations on each individual data element; if an operation involves modifying or erasing an existing data element, the original data element shall be preserved;
+
+(h) data can be archived and remain accessible for competent authorities in accordance with the relevant Union legal acts and national law laying down the respective regulatory information requirements;
+
+(i) the operation logs referred to in point (g) of this paragraph are archived and remain accessible for competent authorities for auditing purposes for the period of time specified in the relevant Union legal acts and national law laying down the respective regulatory information requirements and, for monitoring purposes, for the periods of time referred to in Article 17;
+
+(j) data is protected against corruption and theft;
+
+(k) the data elements processed correspond to the eFTI common data set and to eFTI data subsets as established by the delegated acts referred to in Article 7, and can be processed in any of the official languages of the Union as provided for by the relevant Union legal acts and national law laying down the respective regulatory information requirements.
+
+2\. The Commission shall adopt implementing acts laying down detailed specifications regarding the requirements set out in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2). When adopting those specifications, the Commission shall:
+
+(a) seek to ensure the interoperability of the eFTI platforms;
+
+(b) take into account relevant existing technical solutions and standards;
+
+(c) ensure that those specifications remain, to the largest extent possible, technologically neutral.
+
+The first such implementing act shall cover all the elements referred to in paragraph 1 of this Article and shall be adopted no later than 21 August 2023.
+
+3\. By way of derogation from paragraph 2, elements referred to in paragraph 1 that are specifically related to the processing of regulatory information in relation to requirements set out in the provisions referred to in point (iv) of Article 2(1)(a) shall be adopted no later than the date referred to in Article 27(5) of Regulation (EU) 2024/1157.
+
+#### Article 10 — Requirements for eFTI service providers
+
+1\. eFTI service providers shall ensure that:
+
+(a) data is processed only by authorised users and in accordance with clearly defined and assigned processing rights within the eFTI platform, in accordance with the relevant regulatory information requirements;
+
+(b) data is stored and accessible in accordance with the Union legal acts and national law laying down the respective regulatory information requirements;
+
+(c) competent authorities have immediate access to regulatory information concerning a freight transport operation processed by means of their eFTI platforms, free of any charges or fees;
+
+(d) data is appropriately secured, including against unauthorised or unlawful processing and against accidental loss, destruction or damage.
+
+2\. The Commission shall adopt implementing acts laying down detailed rules regarding the requirements set out in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2). The first such implementing act covering all the elements referred to in paragraph 1 of this Article shall be adopted no later than 21 August 2023.
+
+### SECTION 2 — Certification
+
+#### Article 11 — Conformity assessment bodies
+
+1\. Conformity assessment bodies shall be accredited in accordance with Regulation (EC) No 765/2008 for the purposes of performing the certification of eFTI platforms and eFTI service providers as set out in Articles 12 and 13 of this Regulation.
+
+2\. For the purposes of accreditation, conformity assessment bodies shall meet the requirements laid down in Annex II. National accreditation bodies shall communicate to the national authority designated in accordance with paragraph 3 of this Article the address of the website where they make publicly available the information on the accredited conformity assessment bodies, including an up-to-date list of these bodies.
+
+3\. Each Member State shall designate an authority that shall maintain an up-to-date list of the accredited conformity assessment bodies, eFTI platforms and eFTI service providers which hold a valid certification on the basis of the information provided pursuant to paragraph (2) of this Article and to Article 12(2) and Article 13(2). Those designated national authorities shall make that list publicly available on an official government website.
+
+4\. By 31 March each year, those designated national authorities shall notify to the Commission the list referred to in paragraph 3 together with the address of the website where that list is publicly available. The Commission shall publish those website addresses on its official website.
+
+#### Article 12 — Certification of eFTI platforms
+
+1\. Upon application by an eFTI platform developer, a conformity assessment body shall assess the compliance of the eFTI platform with the requirements laid down in Article 9(1). In the case of a positive assessment, the conformity assessment body shall issue a compliance certificate for that eFTI platform. In the case of a negative assessment, the conformity assessment body shall provide the reasons for the negative assessment to the applicant.
+
+2\. Each conformity assessment body shall maintain an up-to-date list of the eFTI platforms that it has certified and for which it has withdrawn or suspended certification. It shall make that list publicly available on its website and shall communicate the address of that website to the designated national authority referred to in Article 11(3).
+
+3\. Information made available to competent authorities by means of a certified eFTI platform shall be accompanied by a certification mark.
+
+4\. The eFTI platform developer shall apply for a reassessment of its certification if the technical specifications laid down in the implementing acts referred to in Article 9(2) are revised.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 14 to supplement this Regulation by laying down rules on the certification of eFTI platforms and on the use of the certification mark, including rules on the renewal, suspension and withdrawal of certification.
+
+#### Article 13 — Certification of eFTI service providers
+
+1\. Upon application by an eFTI service provider, a conformity assessment body shall assess the compliance of the eFTI service provider with the requirements laid down in Article 10(1). In the case of a positive assessment, the conformity assessment body shall issue a compliance certificate. In the case of a negative assessment, the conformity assessment body shall provide the reasons for the negative assessment to the applicant.
+
+2\. Each conformity assessment body shall maintain an up-to-date list of the eFTI service providers that it has certified and for which it has withdrawn or suspended certification. It shall make that list publicly available on its website and shall communicate the address of that website to the designated national authority referred to in Article 11(3).
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 14 to supplement this Regulation by laying down rules on certification of eFTI service providers, including rules on the renewal, suspension and withdrawal of certification.
+
+## CHAPTER IV — DELEGATIONS OF POWER AND IMPLEMENTING PROVISIONS
+
+#### Article 14 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 2(3), Article 7, Article 12(5) and Article 13(3) shall be conferred on the Commission for a period of five years from 20 August 2020. The Commission shall draw up a report in respect of the delegation of power no later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension no later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 2(3), Article 7, Article 12(5), Article 13(3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 2(3), Article 7, Article 12(5) and Article 13(3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 15 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## CHAPTER V — FINAL PROVISIONS
+
+#### Article 16 — Review
+
+1\. No later than 21 February 2029, the Commission shall carry out an evaluation of this Regulation and present a report on the main findings to the European Parliament, to the Council and to the European Economic and Social Committee.
+
+The Commission shall also assess possible initiatives with a view in particular to:
+
+(a) establishing the obligation for economic operators to make available electronically regulatory information to competent authorities, in accordance with this Regulation;
+
+(b) establishing further interoperability and interconnectivity between the eFTI environment and the different ICT systems and platforms used for recording and processing regulatory information as provided for in other Union transport law.
+
+These assessments shall in particular cover the amendment of this Regulation and that of other relevant Union legal acts and shall be accompanied, where appropriate, by a legislative proposal.
+
+2\. Member States shall provide the Commission with the necessary information set out in Article 17 for the preparation of the report referred to in paragraph 1 of this Article.
+
+#### Article 17 — Monitoring
+
+By 21 August 2027, and every five years thereafter, Member States shall provide the Commission, on the basis of the operation logs referred to in points (g) and (i) of Article 9(1), with the number of times competent authorities accessed and processed the regulatory information that was made available electronically by the economic operators concerned in accordance with Article 4.
+
+That information shall be provided in respect of each year covered by the reporting period.
+
+#### Article 18 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. It shall apply from 21 August 2024.
+
+3\. However, Article 2(2), Article 5(4), Article 7, Article 8, Article 9(2) and Article 10(2) shall apply from the date of entry into force of this Regulation.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — REGULATORY INFORMATION THAT FALLS WITHIN THE SCOPE OF THIS REGULATION
+
+**PART A – Regulatory information requirements referred to in point (b) of Article 2(1)**
+
+List of delegated and implementing acts referred to in point (b) of Article 2(1):
+
+(1) Commission Implementing Regulation (EU) 2015/1998 ( 8 ) laying down detailed measures for the implementation of the common basic standards on aviation security: Annex 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g).
+
+**PART B – National law**
+
+The relevant provisions of national law requiring the provision of information identical, in whole or in part, to the information specified in points (a) and (b) of Article 2(1) of Regulation (EU) 2020/1056 are listed below.
+
+**Austria**
+
+(1) Federal Law Gazette No. 593/1995 ( 9 ): §17
+
+(2) Federal Law Gazette II No. 399/1997 ( 10 ): §3
+
+(3) Federal Law Gazette II No. 132/2007 ( 11 ): §3(1) and §3(2)
+
+(4) Federal Law Gazette II No. 207/2016 ( 12 ): §10(2)
+
+(5) Federal Law Gazette II No. 395/2001 ( 13 ): §3(1)(2)(c)
+
+(6) Ordinance of the Tyrolean Regional Government No. 1413/1998 ( 14 ): §4; and Ordinance of the Vorarlberg Regional Government No. 45/1998 ( 15 ): §4
+
+(7) Ordinance of the Tyrolean Regional Government No. 464/1999 ( 16 ): §4; and Ordinance of the Salzburg Regional Government No. 68/1999 ( 17 ): §4
+
+(8) Federal Law Gazette No. 1027/1994 ( 18 ): §2
+
+(9) Federal Law Gazette II No. 192/2017 ( 19 ): §8
+
+(10) Federal Law Gazette I No. 102/2002 ( 20 ): §19(1)
+
+(11) Federal Law Gazette No. 522/1973 ( 21 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(12) Federal Law Gazette II No. 203/2019 ( 22 ): §5 and §7(3)
+
+(13) Federal Law Gazette No. 225/1985 ( 23 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(14) Federal Law Gazette III No. 67/2008 ( 24 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(15) Federal Law Gazette I No. 44/2016 ( 25 ): §21a (2)
+
+(16) Federal Law Gazette III No. 59/2003 ( 26 ): Article 3(4)
+
+**Belgium**
+
+(1) Royal Decree of 2 November 2017 on the transport of dangerous goods by rail, excluding explosives and radioactive substances ( 27 ): Article 13 and Part 5, Chapter 5.4 of Annex III
+
+(2) Royal Decree of 12 July 2016 on the transport of explosives by road and rail ( 28 ): Article 15 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR) and Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(3) Act of 15 July 2013 on the transport of goods by road ( 29 ):
+
+(a) Article 17
+
+(b) Article 29(1), Article 29(2)(1)
+
+(4) Ministerial Decree of 23 May 2014 implementing the Royal Decree of 22 May 2014 on the transport of goods by road ( 30 ): Article 33, Article 34(1) and Article 35(1)
+
+(5) Decree of the Government of the Brussels-Capital Region of 22 September 2022 on the transport of dangerous goods by road and by inland waterway ( 31 ): Article 15 and Article 16 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR) and Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(6) Royal Decree of 28 June 2009 on the transport of dangerous goods by road or rail, excluding explosives and radioactive substances ( 32 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(7) Royal Decree of 31 July 2009 on the transport of dangerous goods by inland waterway ( 33 ): Article 1 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(8) Decree of 6 July 2012 on the transport of dangerous goods by inland waterway ( 34 ): Article 8(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(9) Royal Decree of 24 September 2006 laying down the general police regulations for navigation on inland waterways in Belgium ( 35 ): Annex, Article 1.10.1(c) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(10) Decree of the Flemish Government of 16 September 2022 on the electronic reporting of data by ships ( 36 ), amending the Decree of the Flemish Government of 25 May 2018: Article 5, points 2, 9, 10, 11, 12, 13, 14, 15, 17, 20 and 21
+
+**Bulgaria**
+
+(1) Road Transport Act ( 37 ): Article 53(1), Article 91(1), Article 91(2) and Article 91(3)(1, 3, 5 and 8)
+
+(2) Ordinance No. 33 of 03/11/1999 ( 38 ): Article 89(3)
+
+(3) Ordinance No. 11 of 31/10/2002 ( 39 ): Article 19(1)(3)
+
+(4) Ordinance No. N-14 of 27/08/2009 ( 40 ): Article 13(3) and Article 14(1)
+
+(5) Ordinance No. 40 of 14/01/2004 ( 41 ): Article 43(1)(1) and Article 43(1)(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by Road (ADR)
+
+(6) Rail Transport Act 97/2000 ( 42 ): Article 90 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(7) Ordinance No. 46 of 30/11/2001 ( 43 ): Article 25(1) and Article 31a(1) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(8) Ordinance No. 16 of 20/06/2006 ( 44 ): Article 9(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(9) Ordinance No. 53 of 10/02/2003 ( 45 ): Article 12, Points 1 and 2
+
+(10) Merchant Shipping Code ( 46 ):
+
+(a) Article 106, Article 110
+
+(b) Article 120(1), Article 120(2)
+
+**Croatia**
+
+(1) Combined Freight Transport Act (Official Gazette no. 120/2016) ( 47 ): Article 7, Points 1 and 2
+
+(2) Law on sustainable waste management (Official Gazette no. 84/2021) ( 48 ): Article 24(3), Article 24(8), in conjunction with Waste management ordinance (Official Gazette no. 106/2022), Article 7
+
+(3) Law of road transport (Official Gazette no. 41/2018) ( 49 ): Article 79, Article 80, Article 87(8) and Article 95(2)
+
+(4) Ordinance on permits in the carriage of cargo (Official Gazette no. 57/2018) ( 50 ): Article 9(3)
+
+(5) Law on the transport of dangerous goods (Official Gazette no. 79/2007) ( 51 ):
+
+(a) Article 3(1) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR);
+
+(b) Article 3(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF;
+
+(c) Article 3(3) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+**Cyprus**
+
+(1) Road Transport of Dangerous Goods Law of 2004 as amended to date: Article 5(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR) ( 52 )
+
+(2) Technical Safety Directive (TSD) No 1 – National Aviation Security Programme (NASP) Implementation Act (public version) of 6 June 2020 ( 53 ): Chapter 6.3.2.6, points (a)-(g)
+
+(3) Motor Vehicles and Road Traffic Law of 1972 as amended to date: Article 2(2D)(3)(e)
+
+**Czechia**
+
+(1) Act No. 111/1994 Coll. on Road Transport ( 54 ): Section 23(2)(a)
+
+(2) Act No. 266/1994 Coll. (Railways Act ( 55 )): Article 63(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(3) Section 85a of Act No. 49/1997 Coll. on civil aviation and amending Act No. 455/1991 Coll., on trade licensing (Trade Licensing Act), as amended
+
+(4) Decree No. 478/2000 Coll. ( 56 ): Section 1, implementing Act No. 111/1994 Coll. on Road Transport, as amended
+
+(5) Communication No. 102/2011 Coll. of the Ministry of Foreign Affairs ( 57 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways
+
+**Denmark**
+
+(1) Executive Order no. 531 of 24 May 2018 on certain forms of combined freight transport ( 58 ): §7(1)
+
+(2) Law on control of compliance with EEC Regulation No 11/1960 (LBK No 119 of 21 February 1990) ( 59 ): §2(1)
+
+(3) Executive Order no. 828 of 10 June 2017 on road transport of dangerous goods ( 60 ): §5(3), §17(1), §18(1) and §19(1)
+
+(4) Executive Order no. 601 of 23 June 2009 on rail transport of dangerous goods ( 61 ): §1(1) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(5) Executive Order no. 541 of 12 June 2012 on the use of RID in national transport and transport of dangerous goods in hand luggage, etc. ( 62 ) §8(1) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(6) Executive Order no. 240 of 16 February 2022 on freight transport ( 63 ): §36
+
+**Estonia**
+
+(1) Regulation 150/1996 ( 64 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(2) Estonian Railways Act ( 65 ): Article 111 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(3) Estonian Waste Act ( 66 ): Article 108 (1), Article 113 (1) and Article 115 (3)
+
+(4) Estonian Civil Aviation Security Programme: point 6.3.2.6
+
+(5) Estonian Road Transport Act ( 67 ):
+
+(a) Article 29(3), Article 29(4), Article 29(5)
+
+(b) Article 32(1)
+
+(c) Article 33(6)
+
+(d) Article 35(10)(1), Article 35(10)(2)
+
+**Finland**
+
+(1) Road Transport Contract Act 345/1979 ( 68 ): Section 9
+
+(2) Act on Transport Services 320/2017 ( 69 ): Section 24
+
+(3) Regulation on the Transport of Dangerous Goods by Road ( 70 ): with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(4) Regulation on the Transport of Dangerous Goods by Rail ( 71 ): with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+**France**
+
+(1) French Transport Code ( 72 ):
+
+(a) Article R.3411-13
+
+(b) Article L 4461 Alinea 1, Article R 4412 Alinea 1, Article R 4461 Alinea 1, Article R 4461 Alinea 2
+
+(2) Order of 9 November 1999 concerning the transport or rental documents that must be on board of vehicles for the road transport of goods ( 73 ):
+
+(a) Article 4-II, Article 5-I, Article 5-II, Article 6
+
+(b) Article 4-III
+
+(c) Article 4-IV
+
+(3) Order of 25 September 1991 concerning the performance of combined transport of goods between the Member States of the European Economic Community ( 74 ): Article 2, Article 5
+
+(4) Order of 24 July 2018 ( 75 ) concerning the declaration of loading on inland waterways managed by Voies Navigables de France as amended by Order of 23 December 2021 ( 76 ): Alinea 2
+
+(5) Amended Order of 29 May 2009 concerning the Transport of Dangerous Goods by Land: 3.4.2.1 Annex I ( 77 ), 3.5 Annex I ( 78 ), 3.9.4 Annex I ( 79 ), Appendix IV.9 ( 80 ) and Appendix IV.10 ( 81 )
+
+**Germany**
+
+(1) Regulation on Cross-Border Road Haulage and Cabotage of 28/12/2011 ( 82 ): Article 17
+
+(2) Road Haulage Act of 22/06/1998 ( 83 ): Article 7(1)(3)
+
+(3) Ordinance on the Transport of Dangerous Goods by Road, Rail and Inland Waterways of 26/03/2021 ( 84 ): §1(3) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR), Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF, Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN); §35(2)
+
+(4) Ordinance on Exemptions from the Regulations on the Transport of Dangerous Goods of 11/03/2019 ( 85 ): Exemption 9, Exemption 18, Exemption 20, Exemption 21, Exemption 22, Exemption 24 and Exemption 28
+
+**Greece**
+
+(1) Presidential Decree 63/1986 ( 86 ): Article 4
+
+(2) Law No.1815/1988 ( 87 ): Article 98(2)
+
+(3) Joint Ministerial Decision 200035/2023 ( 88 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Section I.1 of Annex I (ADR) to Directive 2008/68/EC of the European Parliament and of the Council, as applicable
+
+(4) Joint Ministerial Decision 200035/2023 ( 89 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Section II.1 (RID) of Annex II to Directive 2008/68/EC of the European Parliament and of the Council, as applicable
+
+(5) Law Νo.3646/2008 ( 90 ): Article 7
+
+(6) Law No.2203/1994 ( 91 ): Article 4(7)(c)
+
+(7) Decision Υ.Π.Α. Δ15/Α/17143/1505/2016 ( 92 ): Chapter 6
+
+(8) Joint Ministerial Decision Γ5/55376/2022 ( 93 ): Article 6(2)
+
+**Hungary**
+
+(1) Government Decree 261/2011. (XII. 7.) ( 94 ): Paragraph 22
+
+(2) Government Decree 386/2021. (VI. 30.) ( 95 ): Paragraph 3 (1) and Annex 1 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(3) Government Decree 387/2021. (VI. 30.) ( 96 ): Paragraph 3 (1) and Annex 1 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(4) Government Decree 388/2021. (VI. 30.) ( 97 ): Paragraph 3 (1) and Annex 1 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(5) ITM Decree 39/2021. (VII. 30.) ( 98 ): Annex 1(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(6) Government Decree 266/2003. (XII. 24.) ( 99 ): Paragraph 3
+
+(7) Government Decree 313/2014 (XII. 12.) ( 100 ): Annex 1
+
+(8) Government Decree 101/1996 (VII. 12.) ( 101 ): Article 4 (7)(c)
+
+**Ireland**
+
+(1) S.I. No. 175/1975 ( 102 )
+
+(2) S.I. No. 60/1994 ( 103 ): Regulation 5 and Regulation 6
+
+(3) S.I. No. 698/2011 ( 104 ): Regulation 3(1)(b)
+
+(4) S.I. No. 419/2007 ( 105 )
+
+(5) S.I. No 349/2011 ( 106 ): Regulation 57(g)(vii) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(6) S.I. No 651/2010 ( 107 ): Regulations 8(e) and 12(3)(b) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(7) S.I. No. 226/2003 ( 108 ): reference to Point 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g) of the Annex of Commission Implementing Regulation (EU) 2015/1998
+
+**Italy**
+
+(1) Decree of the Ministry of Transport and Navigation of 15 February 2001 ( 109 ): Article 3(1)
+
+(2) Law No. 298 of 6 June 1974 ( 110 ), as amended: Article 46-bis (1-bis), Article 46-ter, (1) and (2)
+
+(3) Legislative Decree No 35 of 27 January 2010 ( 111 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR), Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF and Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+**Latvia**
+
+(1) Law on Carriage by Road, 23.8.1995 ( 112 ): Section 9, enabling compliance checks with point 6.1 of Cabinet Regulation No. 411 of 24.5.2011‘Procedures for the Organising and Implementation of Road Transport Control’
+
+(2) Cabinet Regulation No. 225, 29.4.2003 ( 113 ): Points 3 and 4
+
+(3) Law on Carriage by Rail, 21.12.2000 ( 114 ): Section 24(1) and Section 25(1)
+
+(4) Cabinet Regulation No. 226 ( 115 ): Point 2 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF, enabling compliance checks with point 6 of Cabinet Regulation No. 541 of 5.7.2011‘Procedures for Control of the Movement of Dangerous Goods’
+
+(5) Cabinet Regulation No. 674 ( 116 ): Point 3 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+**Lithuania**
+
+(1) Code of the Inland Waterway Transport ( 117 ): Article 26(2), Article 40, Article 42, (3) and (4) and Article 47(4)
+
+(2) Rules of Carriage of Goods by Inland Waterways (Order No 269) ( 118 ): Points 36, 37, 41, 44, 45, 52, 54, 80, 110, 111, 117, 124, 125 and 128
+
+(3) Road Transport Code ( 119 ):
+
+(a) Article 9(1)(4)
+
+(b) Article 14(2), Article 29(2), Article 29(3), Article 29(5)
+
+(4) Resolution No 1613-7 of the Government of the Republic of Lithuania of 10 November 2010 ( 120 ): Point 66.2 referring to Annex 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g) of Commission Implementing Regulation (EU) 2015/1998
+
+(5) Order No D1-207 of the Minister of Environment of the Republic of Lithuania of 27 April 2004 ( 121 ): Point 20
+
+(6) Order No 3D-90 of the Minister of Agriculture of the Republic of Lithuania of 12 February 2018 ( 122 ): Point 35
+
+**Luxembourg**
+
+(1) Grand-Ducal Regulation of 13 January 1966 on the carriage of goods by road ( 123 ): Article 3
+
+(2) Ministerial Regulation of 8 April 1968 on carriage document numbering procedures ( 124 ): Article 1
+
+(3) Grand-Ducal Regulation of 19 April 2012 implementing and ratifying Regulation (EC) No 1072/2009 ( 125 ): Article 6
+
+(4) Grand Ducal Decree of 6 February 2009 publishing the European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR) ( 126 ): Article 1 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(5) Law of 13 March 2007 adopting the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN) ( 127 ): Article 1 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(6) Grand Ducal Decree of 6 February 2009 publishing the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID) ( 128 ): Article 1 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(7) Grand-Ducal Regulation of 27 February 2011 laying down the conditions for the approval of regulated agents and known consignors and the conditions for designating account consignors with regard to aviation security controls ( 129 ): Article 11(6) referring to Annex 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g) of Commission Implementing Regulation (EU) 2015/1998
+
+**Malta**
+
+(1) Motor Vehicles (Carriage of Goods by Road) Regulations (S.L. 65.19) ( 130 ):
+
+(a) Regulation 48
+
+(b) Regulation 78, Regulation 79(1), Regulation 80
+
+(2) Motor Vehicles (Carriage of Dangerous Goods by Road) Regulations (S.L.65.22) ( 131 ): Regulation 3(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+**Poland**
+
+(1) Act of 6 September 2001 on road transport ( 132 ):
+
+(a)
+
+— Article 4(22)(j), enabling compliance checks with Article 38(2) of Transport Law Act of 15 November 1984 ( 133 ) read jointly, where applicable, with definitions of ‘combined transport’ and ‘sender’ as provided for in Article 4 points 13 and 14b of the Act on road transport
+
+— Article 4(22)(x), enabling compliance checks with Article 6(1) of CMR Convention
+
+— Article 87(1)(3)
+
+(b) Article 4(22)(e), enabling compliance checks with Article 8(3) of Regulation (EC) No 1072/2009
+
+(c) Article 31(a)
+
+(d) Article 4(22)(c), enabling compliance checks with Article 16 and Article 18(1) of Regulation (EC) No 1013/2006
+
+(e) Article 4(22)(v), enabling compliance checks with Article 67(2)(1) of Waste Transportation Act of 14 December 2012
+
+(2) Act of 28 March 2003 on railway transport ( 134 ): Article 13(4), enabling compliance checks with Article 38(2) of Transport Law Act of 15 November 1984
+
+(3) Act of 21 December 2000 on inland waterway navigation ( 135 ): Article 9(2)(7), enabling compliance checks with Article 38(2) of Transport Law Act of 15 November 1984, and Article 16 read jointly with the Annex of the Regulation of Minister of Infrastructure of 23 January 2003 on evidence form applied in inland waterway navigation
+
+(4) Act of 19 March 2021 on Transport of Dangerous Goods ( 136 ): Article 11, enabling compliance checks with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR), Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF and Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(5) Act of 14 December 2012 on waste ( 137 ): Article 24a(1), enabling compliance checks with §8 of the Regulation of the Minister for the Environment of 7 October 2016 on detailed requirements for waste transport
+
+(6) Act of 3 July 2002 – Aviation Law ( 138 ): Article 21(2a), enabling compliance checks with Annex 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g) of Commission Implementing Regulation (EU) 2015/1998
+
+**Portugal**
+
+(1) Decree-Law No 257/2007 of 16 July 2007 ( 139 ): Article 19
+
+(2) Decree-Law No 41-A/2010 of 29 April 2010 ( 140 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR) and Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+**Romania**
+
+(1) Convention on the Contract for the International Carriage of Goods by Road (CMR), ratified by Decree No 451/1972 ( 141 ): Article 6(1), enabling compliance checks with Article 2(1) and Article 7(2) of Ordinance no. 26 of 31/08/2011 regarding the establishment of the State Inspectorate for Road Transport Control
+
+(2) Ordinance No 88/1999 ( 142 ):
+
+(a) Article 3, Points 1 and 2
+
+(b) Article 5
+
+(3) Ordinance No 27 of 31 August 2011 on road haulage ( 143 ): Article 3(14), Article 24(1), Article 27 and Article 32
+
+(4) Order No 980 of the Minister for Transport and Infrastructure of 30 November 2011 ( 144 ): Article 19, Article 29(1), Article 39(1), Article 39(2) and Article 46(2)
+
+(5) Decision No 1326/2009 on carriage of dangerous goods in Romania ( 145 ): Article 6 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR), Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF and Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(6) Government Decision No 1193/2012 approving the National Aviation Security Programme ( 146 ): Article 1 referring to Annex 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g) of Commission Implementing Regulation (EU) 2015/1998
+
+**Slovakia**
+
+(1) Decree No. 274/2002 Coll. ( 147 ): §9, with reference to the aircraft operator’s obligation to submit a Cargo Manifest on entry into the territory of Slovak Republic
+
+(2) Decision of the Ministry of Transport and Construction of the Slovak Republic No. 08204/2016/C410-SCLVD/04511 ( 148 ): Article 6.6.1 referring to Annex 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g) of Commission Implementing Regulation (EU) 2015/1998
+
+(3) Notification of the Ministry of Foreign Affairs of the Slovak Republic No. 331/2010 Coll. ( 149 ): §5c(1) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(4) Act No 56/2012 Coll. ( 150 ): §34(2) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(5) Act No 514/2009 Coll. ( 151 ): §23(2) and §23(3) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+**Slovenia**
+
+(1) Road Transport Contracts Act (UL RS Nos 126/03, 102/07 and 49/11 – ZPCP-2C) ( 152 ): Article 41
+
+(2) Decree on combined transport (UL RS Nos 4/01 and 49/13) ( 153 ): Article 8
+
+(3) Road Transport Act (UL RS Nos 6/16) ( 154 ): Article 109(1)
+
+(4) Decree on the implementation of Regulation (EC) No 1013/2006 of the European Parliament and the Council on shipments of waste (UL RS Nos 78/16 and 94/21) ( 155 ): reference to Articles 16(c) and Article 18(1) of Regulation (EC) No 1013/2006
+
+(5) Transport of Dangerous Goods Act (UL RS No 33/06) ( 156 ): Article 3 with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR) and Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(6) Agreement between the Ministry of Transport of the Republic of Slovenia and the Federal Minister for Transport, Innovation and Technology of the Republic of Austria on the transport of dangerous goods by road Karavanka tunnel ( 157 ): Article 3(4)
+
+**Spain**
+
+(1) Order FOM/2861/2012 of 13 December ( 158 ): Article 1 and Article 3(1)
+
+(2) Order of 30 September 1993 laying down special rules for certain types of combined transport of goods between Member States of the EEC ( 159 ): Article 5
+
+(3) Resolution of 21 January 2021 of the Secretariat-General for Transport and Mobility ( 160 ): Annex. Chapter 6. Point 6.3.2.6
+
+(4) Royal Decree 97/2014 ( 161 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(5) Royal Decree 412/2001 ( 162 ) with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+**Sweden**
+
+(1) Regulations of the Swedish Civil Contingencies Agency (MSBFS 2022:3) ( 163 ): Annex S Chapter 11.1, Chapter 16.4, Sections 18.1.2-18.1.4
+
+(2) Regulations of the Swedish Civil Contingencies Agency (MSBFS 2022:4) ( 164 ): Annex S Chapter 16.4
+
+(3) Waste Ordinance (2020:614) ( 165 ): Chapter 6 §19
+
+(4) Swedish Transport Agency’s Regulations (TSFS 2020:80) ( 166 ) on aviation security: Chapter 17 §4 referring to Annex 6.3.2.6 (a), (b), (c), (d), (e), (f) and (g) of Commission Implementing Regulation (EU) 2015/1998
+
+(5) Swedish Transport Agency’s Regulations and General Guidelines (TSFS 2019:39) ( 167 ): §3
+
+(6) Ordinance (SFS 1998:786) ( 168 ) on international road transport within the European Economic Area (EEA): §3f and §3g
+
+**The Netherlands**
+
+(1) Decree of 26 October 1983 ( 169 ), establishing regulations for the prevention of collision or propulsion on the public waters in the Kingdom, which are open to navigation (Stb. 1984, 682), Article 1.10(1b), referring to Article 8.1.2.1.b and 8.1.2.1.c of the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(2) Decree of 15 September 1994 ( 170 ), implementing the Police Regulations for the navigation of the Rhine (Stb. 1994, 770), Article 1.10(1t), referring to Article 8.1.2.1.b and 8.1.2.1.c of the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+(3) Regulation for road transport of goods (Stcrt. 2009, 75) ( 171 ), enabling compliance checks with Article 2.13 of Road Transport Act (Stb. 2008, 492) ( 172 ): Article 15 (1) and Article 15 (5) (b) (2)
+
+(4) Regulation for the transport of dangerous goods by road ( 173 ): Article 3, enabling compliance checks with Article 2 of Decree of 5 June 1996 (Stb.1996, 297) ( 174 ), with regard to information requirements in accordance with Chapter 5.4 of Part 5 of Annex A of the Agreement concerning the International Carriage of Dangerous Goods by road (ADR)
+
+(5) Regulation for the transport of dangerous goods by rail ( 175 ): Article 3, enabling compliance checks with Article 2 of Decree of 5 June 1996 (Stb.1996, 297) ( 176 ), with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), appearing as Appendix C to COTIF
+
+(6) Regulation for the transport of dangerous goods by inland waterways ( 177 ): Article 3, enabling compliance checks with Article 2 of Decree of 5 June 1996 (Stb.1996, 297) ( 178 ), with regard to information requirements in accordance with Chapter 5.4 of Part 5 of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)
+
+## ANNEX II — REQUIREMENTS RELATING TO CONFORMITY ASSESSMENT BODIES
+
+1\. A conformity assessment body shall be established under national law and have legal personality.
+
+2\. A conformity assessment body shall be a third-party body independent of the organisation or the eFTI platform or platform service provider it assesses.
+
+A body belonging to a business association or professional federation representing undertakings involved in the design, manufacturing, provision, assembly, use or maintenance of eFTI platform or platform service provider which it assesses may, on condition that its independence and the absence of any conflict of interest are demonstrated, be considered such a body.
+
+3\. A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the eFTI platform or platform service provider which they assess, nor the representative of any of those parties.
+
+A conformity assessment body, its top level management and the personnel responsible for carrying out the conformity assessment tasks shall not be directly involved in the design, manufacture or construction, the marketing, installation, use or maintenance of that eFTI platform or platform service provider, or represent the parties engaged in those activities. They shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are accredited. This shall in particular apply to consultancy services.
+
+Conformity assessment bodies shall ensure that the activities of their subsidiaries or subcontractors do not affect the confidentiality, objectivity or impartiality of their conformity assessment activities.
+
+4\. Conformity assessment bodies and their personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical competence in the specific field, and shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in the results of those activities.
+
+5\. A conformity assessment body shall be capable of carrying out all the conformity assessment tasks assigned to it by Articles 12 and 13 of this Regulation, whether those tasks are carried out by the conformity assessment body itself or on its behalf and under its responsibility.
+
+A conformity assessment body shall have at its disposal the necessary:
+
+(a) personnel with technical knowledge and sufficient and appropriate experience to perform the conformity assessment tasks;
+
+(b) descriptions of procedures in accordance with which conformity assessment is carried out;
+
+(c) procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure and the degree of complexity of the technology in question.
+
+A conformity assessment body shall have the means necessary to perform the technical and administrative tasks connected with the conformity assessment activities in an appropriate manner.
+
+6\. The personnel responsible for carrying out conformity assessment tasks shall have the following:
+
+(a) sound technical and vocational training covering all the conformity assessment activities;
+
+(b) satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;
+
+(c) appropriate knowledge and understanding of the requirements set out in Articles 9 and 10 of this Regulation;
+
+(d) the ability to draw up compliance certificates, records and reports demonstrating that assessments have been carried out.
+
+7\. The impartiality of the conformity assessment bodies, their top level management and of the personnel responsible for carrying out the conformity assessment tasks shall be guaranteed.
+
+The remuneration of the top level management and personnel responsible for carrying out the conformity assessment tasks of a conformity assessment body shall not depend on the number of assessments carried out or on the results of those assessments.
+
+8\. Conformity assessment bodies shall take out liability insurance, unless liability is assumed by the State in accordance with national law or the Member State itself is directly responsible for the conformity assessment.
+
+9\. The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Articles 12 and 13 of this Regulation or any provision of national law giving effect to them, except to the competent authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.
+
+10\. Conformity assessment bodies shall participate in, or ensure that their personnel responsible for carrying out the conformity assessment tasks are informed of, the relevant standardisation activities and relevant regulatory activities.
+
+( 1 ) EEC Council: Regulation No 11 concerning the abolition of discrimination in transport rates and conditions, in implementation of Article 79(3) of the Treaty establishing the European Economic Community (OJ P 52, 16.8.1960, p. 1121).
+
+( 2 ) Council Directive 92/106/EEC of 7 December 1992 on the establishment of common rules for certain types of combined transport of goods between Member States (OJ L 368, 17.12.1992, p. 38).
+
+( 3 ) Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market (OJ L 300, 14.11.2009, p. 72).
+
+( 4 ) Regulation (EU) 2024/1157 of the European Parliament and of the Council of 11 April 2024on shipments of waste, amending Regulations (EU) No 1257/2013 and (EU) 2020/1056 and repealing Regulation (EC) No 1013/2006 (OJ L, 2024/1157, 30.4.2024, ELI:http://data.europa.eu/eli/reg/2024/1157/oj).
+
+( 5 ) Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L 260, 30.9.2008, p. 13).
+
+( 6 ) Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union (OJ L 138, 26.5.2016, p. 44).
+
+( 7 ) Regulation (EC) No 300/2008 of the European Parliament and of the Council of 11 March 2008 on common rules in the field of civil aviation security and repealing Regulation (EC) No 2320/2002 (OJ L 97, 9.4.2008, p. 72).
+
+( 8 ) Commission Implementing Regulation (EU) 2015/1998 of 5 November 2015 laying down detailed measures for the implementation of the common basic standards on aviation security (OJ L 299, 14.11.2015, p. 1).
+
+( 9 ) Federal Act regarding the commercial transport of goods using motor vehicles (Güterbeförderungsgesetz (Goods Transportation Act) 1995 – GütbefG), original version: Federal Law Gazette No. 593/1995, last amended by Federal Law Gazette I No. 18/2022.
+
+( 10 ) Ordinance of the Federal Minister for Science and Transport on the exemption of international combined transport from authorisations (Combined Transport Exemption Ordinance), Federal Law Gazette II No. 399/1997 [CELEX No.: 31992L0106].
+
+( 11 ) Ordinance of the Federal Minister for Transport, Innovation and Technology on the checklists to be carried during cabotage (Kabotagekontrollverordnung – KKV), Federal Law Gazette II No. 132/2007.
+
+( 12 ) Ordinance of the Federal Minister for Transport, Innovation and Technology on the granting of CEMT permits (CEMT-Genehmigungs-Vergabeverordnung – CEMT-VV), Federal Law Gazette II No. 207/2016.
+
+( 13 ) Ordinance of the Federal Minister for Transport, Innovation and Technology on restrictions for transport units carrying dangerous substances when driving in motorway tunnels, original version: Federal Law Gazette II No. 395/2001.
+
+( 14 ) Ordinance of the Tyrolean Regional Government of 10 November 1998 (Bote für Tirol No. 1413/1998 – Tyrolean Regional Government Gazette IIb2-V--89/103), issuing traffic restrictions on the transport of dangerous goods for the Arlberg Tunnel (S 16), including the portal structures.
+
+( 15 ) Ordinance of the Vorarlberg Regional Government – Official Journal of the state of Vorarlberg No. 45/1998 issuing traffic restrictions on the transport of dangerous goods for the Arlberg Tunnel (S 16).
+
+( 16 ) Ordinance of the Tyrolean Regional Government of 1 December 1998 issuing traffic restrictions on the transport of dangerous goods for the Felbertauern tunnel (Bote für Tirol No. 464/1999).
+
+( 17 ) Ordinance of the Salzburg Regional Government of 26 May 1999 (State Law Gazette No. 68/1999) issuing traffic restrictions on the transport of dangerous goods for the Felbertauern tunnel.
+
+( 18 ) Ordinance of the Federal Minister for National Industry and Transport on exemptions from the night-time driving bans for trips using combined transport, original version: Federal Law Gazette No. 1027/1994, last amended by Federal Law Gazette II No. 76/2007.
+
+( 19 ) Ordinance of the Federal Minister for Transport, Innovation and Technology on determining the Verified Gross Mass (VGM) of sea freight containers (VGM-V), original version: Federal Law Gazette II No. 192/2017.
+
+( 20 ) Regulatory provisions accompanying the EC Waste Shipment Regulation in: Federal Act on sustainable waste management (Abfallwirtschaftsgesetz 2002 – AWG 2002), original version: Federal Law Gazette I No. 102/2002, [CELEX No.: 31975L0442, 31991L0156, 31991L0689, 31994L0031, 31975L0439, 32000L0076, 31991L0157, 31998L0101, 31993L0086, 31978L0176, 31991L0692, 31996L0059, 31994L0062, 32000L0053, 31996L0061, 31996L0082 and 31999L0031], last amended by Federal Law Gazette I No. 66/2023.
+
+( 21 ) European Agreement concerning the international carriage of dangerous goods by road (ADR), original version: Federal Law Gazette No. 522/1973, last amended by Federal Law Gazette III No. 103/2023.
+
+( 22 ) Ordinance of the Federal Minister for Transport, Innovation and Technology on the carriage of small quantities of dangerous goods by road (Gefahrgutbeförderungsverordnung Geringe Mengen – GGBV-GM), Federal Law Gazette II No. 203/2019.
+
+( 23 ) Regulation concerning the International Carriage of Dangerous Goods by Rail (RID – Appendix C to the Convention), original version: Federal Law Gazette No. 225/1985, last amended by Federal Law Gazette III No. 110/2023.
+
+( 24 ) European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (and) together with the Regulations and the declaration, original version: Federal Law Gazette III No. 67/2008, last amended by Federal Law Gazette III No. 45/2023, [CELEX No.: 32022L2407].
+
+( 25 ) Federal law enacting a law to combat wage and social dumping (wage and social dumping law – LSD-BG), original version: Federal Law Gazette I No. 44/2016 [CELEX No.: 32014L0067], last amended by Federal Law Gazette I No. 111/2022 [CELEX No.: 32020L1057].
+
+( 26 ) Agreement between the Federal Minister for Transport, Innovation and Technology of the Republic of Austria and the Ministry for Transport of the Republic of Slovenia on the carriage of dangerous goods through the Karawanks road tunnel (Federal Law Gazette III No. 59/2003).
+
+( 27 ) Royal Decree of 2 November 2017 (2017013157) on the transport of dangerous goods by rail, excluding explosives and radioactive substances (Publication in the Belgian Official Gazette of 27 November 2017, as most recently amended in the Belgian Official Gazette of 6 May 2020 (2019015279).
+
+( 28 ) Royal Decree of 12 July 2016 (2016011316) on the transport of explosives by road and rail (Publication in the Belgian Official Gazette of 5 August 2016, as most recently amended in the Belgian Official Gazette of 11 September 2019 (2019014359).
+
+( 29 ) Act of 15 July 2013 (2013014763) on the transport of goods by road and implementing Regulation (EC) No 1071/2009 of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive 96/26/EC, and Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market.
+
+( 30 ) Ministerial Decree of 23 May 2014 (2014014286) implementing the Royal Decree of 22 May 2014 on the transport of goods by road.
+
+( 31 ) Decree of 22 September 2022 (2022042182) of the Government of the Brussels-Capital Region on the transport of dangerous goods by road and by inland waterway, with the exception of explosive and radioactive materials.
+
+( 32 ) Royal Decree of 28 June 2009 (2009014168) on the transport of dangerous goods by road or rail, excluding explosives and radioactive substances), as amended by the Decree of the Walloon Government of 23 May 2019 (2019041354).
+
+( 33 ) Royal Decree of 31 July 2009 on the transport of dangerous goods by inland waterway, as amended by the Decree of the Walloon Government of 3 December 2021 (2021205807).
+
+( 34 ) Decree of 6 July 2012 on the transport of dangerous goods by inland water-way (2012204382).
+
+( 35 ) Royal Decree of 24 September 2006 laying down the general police regulations for navigation on inland waterways in Belgium.
+
+( 36 ) Decree of the Flemish Government of 16 September 2022 (2022033695) on the electronic reporting of data by ships and amending the Decree of the Flemish Government of 25 May 2018 adapting the regulations regarding the transport of dangerous goods by inland waterway to scientific and technical progress.
+
+( 37 ) Road Transport Act (Promulgated, State Gazette (SG) No 82/17.9.1999, in force as of 17.9.1999; amended and supplemented, SG No 11/31.1.2002; amended, SG No 45/30.4.2002; amended and supplemented, SG No 99/11.11.2003, in force as of 12.12.2003; amended, SG No 70/10.8.2004, in force as of 1.1.2005, SG No 88/4.11.2005; amended and supplemented, SG No 92/18.11.2005, in force as of 18.11.2005; amended, SG No 95/29.11.2005, in force as of 1.3.2006; amended and supplemented, SG No 102/20.12.2005, SG No 103/23.12.2005, in force as of 1.1.2006; amended, SG No 105/29.12.2005, in force as of 1.1.2006, SG No 30/11.4.2006, in force as of 12.7.2006; amended and supplemented, SG No 85/20.10.2006, in force as of 20.10.2006; amended, SG No 92/14.11.2006, in force as of 14.11.2006, SG No 102/19.12.2006; amended and supplemented, SG No 42/29.5.2007, SG No 80/5.10.2007, in force as of 5.10.2007; supplemented, SG No 109/20.12.2007, in force as of 1.1.2008; amended, SG No 102/28.11.2008, SG No 93/24.11.2009, in force as of 25.12.2009; supplemented, SG No 41/1.6.2010; amended and supplemented, SG No 17/25.2.2011; amended, SG No 38/18.5.2012, in force as of 1.7.2012, SG No 50/3.7.2012, in force as of 3.7.2012; supplemented, SG No 60/7.8.2012, in force as of 7.8.2012; amended and supplemented, SG No 99/14.12.2012; amended, SG No 103/28.12.2012, in force as of 1.1.2013, SG No 15/15.2.2013, in force as of 1.1.2014, SG No 23/8.3.2013, in force as of 8.3.2013, SG No 66/26.7.2013, in force as of 26.7.2013; amended and supplemented, SG No 109/20.12.2013, in force as of 1.1.2014; amended, SG No 11/7.2.2014, in force as of 30.12.2013; amended and supplemented, SG No 60/22.7.2014; amended, SG No 98/28.11.2014, in force as of 28.11.2014, SG No 107/24.12.2014, in force as of 1.1.2015, SG No 14/20.2.2015; supplemented, SG No 60/7.8.2015; amended, SG No 81/20.10.2015, in force as of 1.4.2016, SG No 100/18.12.2015, in force as of 20.11.2015; amended and supplemented, SG No 32/22.4.2016, in force as of 1.4.2016; amended, SG No 58/26.7.2016, SG No 59/29.7.2016, in force as of 1.8.2016; amended and supplemented, SG No 9/26.1.2017, SG No 93/21.11.2017, SG No 62/27.7.2018, in force as of 28.1.2019, SG No 80/28.9.2018, in force as of 28.6.2019, SG No 105/18.12.2018, in force as of 1.1.2019, SG No 60/7.7.2020, in force as of 7.7.2020, SG No 71/11.8.2020, in force as of 11.8.2020, SG No 108/22.12.2020, amended, SG No 21/12.3.2021; amended and supplemented, SG No 22/16.3.2021; amended, SG No 23/19.3.2021, in force as of 19.3.2021); Decision No. 11 of the Constitutional Court of the Republic of Bulgaria of 30.9.2021 – SG No. 84 of 8.10.2021.
+
+( 38 ) Ordinance No. 33 of 3.11.1999 on public transport of passengers and goods on the territory of the Republic of Bulgaria.
+
+( 39 ) Ordinance No. 11 of 31.10.2002 on international road transport of passengers and goods regarding a consignment note by sample according to the Convention on the Contract for International Carriage of Goods by Road (CMR).
+
+( 40 ) Ordinance No. N-14 of 27.8.2009 on the manner of conducting, scope and organization of controlling inspections on the roadside and on/at the premises of undertakings and on the classification of carriers and persons performing transport at their own expense.
+
+( 41 ) Ordinance No. 40 of 14.1.2004 concerning the conditions and procedures for the carriage of dangerous goods by road, Promulgated, State Gazette (SG) No 15/24.2.2004, in force as of 25.5.2004; amended and supplemented, SG No 12/6.2.2007; supplemented, SG No 67/17.8.2007; amended and supplemented, SG No 16/26.2.2010, in force as of 30.6.2009; corrected, SG No 18/5.3.2010; amended, SG No 100/20.12.2011; amended and supplemented, SG No 87/4.10.2013, in force as of 4.10.2013; supplemented, SG No 76/2.10.2015, in force as of 2.10.2015; amended and supplemented, SG No 76/19.9.2017; corrected, SG No 77/26.9.2017; amended and supplemented, SG No 33/17.4.2018, SG No 81/2.10.2018; amended, SG No 76/27.9.2019, in force as of 27.9.2019).
+
+( 42 ) Rail Transport Act (Promulgated, State Gazette (SG) No 97/28.11.2000, in force as of 1.1.2002; amended and supplemented, SG No 47/10.5.2002; amended, SG No 96/11.10.2002, SG No 70/10.8.2004, in force as of 1.1.2005, SG No 115/30.12.2004, in force as of 1.1.2005; supplemented, SG No 77/27.9.2005, in force as of 27.9.2005; amended, SG No 88/4.11.2005, SG No 36/2.5.2006, in force as of 1.7.2006, SG No 37/5.5.2006, in force as of 1.7.2006; supplemented, SG No 62/1.8.2006, in force as of 1.1.2007; amended and supplemented, SG No 92/14.11.2006, in force as of 14.11.2006; amended, SG No 108/29.12.2006, in force as of 1.1.2007; amended and supplemented, SG No 22/24.3.2009; amended, SG No 35/12.5.2009, in force as of 12.5.2009, SG No 74/15.9.2009, in force as of 15.9.2009; amended and supplemented, SG No 81/13.10.2009, SG No 87/5.11.2010, SG No 47/21.6.2011, in force as of 21.6.2011, SG No 15/15.2.2013, in force as of 1.1.2014; amended, SG No 68/2.8.2013, in force as of 2.8.2013, SG No 17/6.3.2015, in force as of 6.3.2015; amended and supplemented, SG No 47/26.6.2015, SG No 19/11.3.2016; amended, SG No 58/26.7.2016, SG No 96/1.12.2017, in force as of 1.1.2018; supplemented, SG No 103/28.12.2017, in force as of 1.1.2018; amended and supplemented, SG No 17/23.2.2018, in force as of 23.2.2018; amended, SG No 77/18.9.2018, in force as of 1.1.2019; amended and supplemented, SG No 20/8.3.2019, in force as of 8.3.2019; amended, SG No 62/6.8.2019, in force as of 6.8.2019; supplemented, SG No 79 of 8.9.2020; amended and supplemented, SG No 11/9.2.2021).
+
+( 43 ) Ordinance No. 46 of 30 November 2001 on the transport of dangerous goods by rail (Adopted by the Minister for Transport and Communications – Promulgated, State Gazette (SG) No 107/11.12.2001, in force as of 1.1.2002; amended and supplemented, SG No 99/8.12.2006; amended, SG No 63/3.8.2007; amended and supplemented, SG No 44/12.6.2009, SG No 46/17.6.2011; supplemented, SG No 44/17.5.2013; amended and supplemented, SG No 24/31.3.2015, SG No 78/29.9.2017, SG No 55/12.7.2019).
+
+( 44 ) Ordinance No. 16 of 20 June 2006 on the handling and transport of dangerous and/or polluting goods by sea and of dangerous goods by inland waterway (Title amended in SG No 46/2013) (Adopted by the Minister for Transport – Promulgated, State Gazette (SG) No 53/30.6.2006, in force as of 30.6.2006; amended and supplemented, SG No 46/19.6.2009, in force as of 30.6.2009; supplemented, SG No 91/19.11.2010, in force as of 30.11.2010; amended and supplemented, SG No 46/21.5.2013; supplemented, SG No 67/30.7.2013, SG No 59/4.8.2015; amended and supplemented, SG No 45/6.6.2017, SG No 95/28.11.2017, SG No 62/6.8.2019).
+
+( 45 ) Ordinance No. 53 of 10 February 2003 on the combined transport of goods (Adopted by the Minister for Transport and Communications – Promulgated, State Gazette (SG) No 18/25.2.2003).
+
+( 46 ) Merchant Shipping Code – Promulgated, State Gazette No. 55/14.07.1970 and No. 56/17.07.1970, effective as of 1.1.1971; corrected, SG No. 58/24.07.1970; amended, SG No. 55/18.07.1975; supplemented, SG No. 10/6.02.1987; amended, SG No. 30/13.04.1990; amended and supplemented, SG No. 85/24.07.1998; effective as of 1.1.1998, supplemented, SG No. 12/11.02.2000; amended and supplemented, SG No. 41/24.04.2001, SG No. 113/3.12.2002, SG No. 55/25.06.2004; amended, SG No. 42/17.05.2005; supplemented, SG No. 77/27.09.2005; effective as of 27.9.2005, amended and supplemented, SG No. 87/1.11.2005; amended, SG No. 94/25.11.2005; effective as of 1.1.2006, supplemented, SG No. 104/27.12.2005; effective as of 27.12.2005, amended, SG No. 30/11.04.2006; effective as of 12.7.2006, supplemented, SG No. 62/1.08.2006; effective as of 1.1.2007, amended, SG No. 108/29.12.2006, effective as of 1.1.2007, SG No. 36/4.04.2008, amended and supplemented, SG No. 71/12.08.2008, supplemented, SG No. 98/14.11.2008, amended, SG No. 12/13.02.2009, effective as of 1.1.2010 – amended, SG No. 32/28.04.2009, amended and supplemented, SG No. 85/29.10.2010, SG No. 92/22.11.2011, amended, SG No. 38/18.05.2012, effective as of 1.7.2012, SG No. 77/9.10.2012, effective as of 9.10.2012, SG No. 15/15.02.2013, effective as of 1.1.2014, SG No. 28/19.03.2013, amended and supplemented, SG No. 109/20.12.2013, amended, SG No. 14/20.02.2015, amended and supplemented, SG No. 52/10.07.2015, amended, SG No. 58/26.07.2016, amended and supplemented, SG No. 93/21.11.2017, amended, SG No. 28/29.03.2018, SG No. 62/6.08.2019, effective as of 6.8.2019, amended and supplemented, SG No. 104/8.12.2020.
+
+( 47 ) Combined Freight Transport Act (Official Gazette no. 120/2016).
+
+( 48 ) Law on sustainable waste management (Official Gazette no. 84/2021).
+
+( 49 ) Law of road transport (Official Gazette no. 41/2018).
+
+( 50 ) Ordinance on permits in the carriage of cargo (Official Gazette no. 57/2018).
+
+( 51 ) Law on the transport of dangerous goods (Official Gazette no. 79/2007).
+
+( 52 ) The Road Transport of Dangerous Goods Law of 2004 – 29(I)/2004.
+
+( 53 ) Technical Safety Directive (TSD) No 1 – National Aviation Security Programme (NASP) Implementation Act (public version) of 6 June 2020.
+
+( 54 ) Act No. 111/1994 Coll., on Road Transport, as amended (zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů).
+
+( 55 ) Act No. 266/1994 Coll. (Railways Act) refers to Decree No. 8/1985 Coll., Decree of the Minister of Foreign Affairs on the Convention concerning International Carriage by Rail (COTIF) (Zákon č. 266/1994 Sb: Článek 63(2)).
+
+( 56 ) Act No. 111/1994 Coll., on Road Transport, as amended (zákon č. 111/1994 Sb., o silniční dopravě, ve znění pozdějších předpisů), in conjunction with Decree No. 478/2000 Coll., implementing Act on Road Transport, as amended (vyhláška č. 478/2000 Sb., kterou se provádí zákon o silniční dopravě, ve znění pozdějších předpisů).
+
+( 57 ) Communication of the Ministry of Foreign Affairs No. 102/2011 Coll. on the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (102/2011 Sb.m.s. SDĚLENÍ Ministerstva zahraničních věcí).
+
+( 58 ) Executive Order no. 531 of 24 May 2018 on certain forms of combined freight transport.
+
+( 59 ) Law on control of compliance with EEC Regulation No 11/1960 on the elimination of discrimination in transport prices and transport conditions, LBK No 119 of 21 February 1990.
+
+( 60 ) Executive Order no. 828 of 10 June 2017 on road transport of dangerous goods.
+
+( 61 ) Executive Order no. 601 of 23 June 2009 on rail transport of dangerous goods.
+
+( 62 ) Executive Order no. 541 of 12 June 2012 on the use of RID in national transport and transport of dangerous goods in hand luggage, etc..
+
+( 63 ) Executive Order no. 240 of 16 February 2022 on freight transport.
+
+( 64 ) Regulation no 150 of Government of the Republic of Estonia from 28.5.1996 on joining to the European Agreement Concerning the International Carriage of Dangerous Goods by Road (ADR) (entered into force for Estonia on 25.7.1996) (Ühinemine ohtlike veoste rahvusvahelise autoveo Euroopa kokkuleppega (ADR)), (RT II 1996, 29, 104).
+
+( 65 ) Estonian Railways Act (RT I, 30.10.2020, 1), (Raudteeseadus) Estonian Chemicals Act, (RT I, 10.11.2015, 2), (Kemikaaliseadus).
+
+( 66 ) Estonian Waste Act (RT I 2004, 9, 52), (Jäätmeseadus).
+
+( 67 ) Estonian Road Transport Act (RT I, 11.01.2018, 1), (Autoveoseadus).
+
+( 68 ) Road Transport Contract Act (Tiekuljetussopimuslaki, 345/1979).
+
+( 69 ) Act on Transport Services (Laki liikenteen palveluista, 320/2017).
+
+( 70 ) Regulation of the Finnish Transport and Communications Agency on the Transport of Dangerous Goods by Road (Liikenne- ja viestintäviraston määräys vaarallisten aineiden kuljetuksesta tiellä, TRAFICOM/473662/03.04.03.00/2022).
+
+( 71 ) Regulation of the Finnish Transport and Communications Agency on the Transport of Dangerous Goods by Rail (Liikenne- ja viestintäviraston määräys vaarallisten aineiden kuljetuksesta rautatiellä (TRAFICOM/474029/03.04.02.00/2022)).
+
+( 72 ) French Transport Code.
+
+( 73 ) Order of 9 November 1999 (EQUT9901586A) relating to the transport or rental documents that must be on board vehicles for the road transport of goods.
+
+( 74 ) Order of 25 September 1991 (EQUT9101416A) relating to the performance of combined transport of goods between the Member States of the European Economic Community.
+
+( 75 ) Order of 24 July 2018 relating to the declaration of loading on inland waterways managed by Voies Navigables de France, taken pursuant to Article R. 4461-1 of the Transport Code.
+
+( 76 ) Order of 23 December 2021 amending the Order of 24 July 2018 relating to the declaration of loading on inland waterways managed by Voies Navigables de France, adopted pursuant to Article R. 4461-1 of the Transport Code.
+
+( 77 ) 3.4.2.1 Annex I, Fireworks, ‘Transport carried out in accordance with 3.4.2 of Annex I of the Dangerous Good order (DEVP0911622A) ’.
+
+( 78 ) 3.5 Annex I, Transport of LPG storage tanks, ‘Transport carried out in accordance with 3.5 of Annex I of the Dangerous Good order ’.
+
+( 79 ) 3.9.4 Annex I, Transport of waste containing asbestos, ‘Waste from road sites contaminated with unbound asbestos’ or ‘Waste from rehabilitation site after disaster contaminated with asbestos’ or ‘Waste from demolition site after disaster contaminated with unbound asbestos’ and ‘Transport carried out according to the provisions of 3.9 of appendix I of the Dangerous Good order ’.
+
+( 80 ) Appendix IV.9, IBC delivery of certain dangerous goods, ‘Delivery according to 3.7.1 of Annex I of the Dangerous Good order ’.
+
+( 81 ) Appendix IV.10, Mobile fuel distribution, ‘Transport carried out in accordance with 3.7.2 of Annex I of the Dangerous Good order ’.
+
+( 82 ) Regulation on Cross-Border Road Haulage and Cabotage (Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr) of 28 December 2011 (Federal Law Gazette 2012 I p. 42), as amended by Article 2 of the Regulations of 9 December 2020 (Federal Law Gazette I p. 2905).
+
+( 83 ) Road Haulage Act (Güterkraftverkehrsgesetz) of 22 June 1998 (Federal Law Gazette I, p. 1485), as amended by Article 3a of the Act of 26 November 2020 (Federal Law Gazette I, p. 2575).
+
+( 84 ) GGVSEB Promulgation of the Ordinance on the Transport of Dangerous Goods by Road, Rail and Inland Waterways (Recast) of 26 March 2021 (Federal Law Gazette I p. 481).
+
+( 85 ) GGAV Promulgation of the Ordinance on the Transport of Dangerous Goods of 11 March 2019 (Federal Law Gazette I p. 229) as last amended by Article 2 of the Ordinance of 28 June 2023 (Federal Law Gazette I No. 174).
+
+( 86 ) ΦΕΚ (Official Government Gazette of the Hellenic Republic) 26/A/18-3-1986 ΠΔ (presidential decree) 63/1986.
+
+( 87 ) ΦΕΚ (Official Government Gazette of the Hellenic Republic) 250/A/11-11-1988 No.1815/1988.
+
+( 88 ) ΦΕΚ (Official Government Gazette of the Hellenic Republic) 4101/B/23-6-2023 ΚΥΑ (joint ministerial decision) 200035/2023.
+
+( 89 ) ΦΕΚ (Official Government Gazette of the Hellenic Republic) 4101/B/23-6-2023 KYA (joint ministerial decision) 200035/2023.
+
+( 90 ) ΦΕΚ (Official Government Gazette of the Hellenic Republic) 36/Α/29-2-2008 Νo.3646/2008.
+
+( 91 ) ΦΕΚ (Official Government Gazette of the Hellenic Republic 58/Α/15-4-1994 No.2203/1994.
+
+( 92 ) ΦEΚ (Official Government Gazette of the Hellenic Republic) 2607/Β/24-8-2016 (decision Υ.Π.Α.) Δ15/Α/17143/1505/2016 – (implementation of Regulation (EU) 2015/1998).
+
+( 93 ) ΦΕΚ (Official Government Gazette of the Hellenic Republic) 6238/B/27-12-2021 KYA (joint ministerial decision) Γ5/353651/2021 as amended by ΦΕΚ (Official Government Gazette of the Hellenic Republic) 815/Β/23-2-2022 KYA (joint ministerial decision) Γ5/55376/2022.
+
+( 94 ) 261/2011. (XII. 7.) Government Decree on the transportation of goods by road carried out for hire or reward or own account and road passenger transport services carried out for hire or reward or own account, and amendments concerning related regulations, OJ No. 146; Magyar Közlöny 146-es szám 2011.06.30.
+
+( 95 ) 386/2021. (VI. 30.) Government Decree on the promulgation of the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN) and on certain aspects of their domestic application OJ No. 124; Magyar Közlöny 124-es szám 2021.06.30.
+
+( 96 ) 387/2021. (VI. 30.) Government Decree on the publication of Annexes ‘A’ and ‘B’ to the Agreement on the International Carriage of Dangerous Goods by Road and on certain aspects of its domestic application OJ No. 124; Magyar Közlöny 124-es szám 2021.06.30.
+
+( 97 ) 388/2021. (VI. 30.) Government Decree on the publication of Annex C to the Protocol amending the Convention concerning International Carriage by Rail (COTIF), done at Vilnius on 3 June 1999, and on certain aspects of its domestic application OJ No. 124; Magyar Közlöny 124-es szám 2021.06.30.
+
+( 98 ) 39/2021. (VII. 30.) ITM Decree on the domestic application of Annexes A and B to the Agreement concerning the International Carriage of Dangerous Goods by Road (Annex 1 to the ITM Decree 39/2021 (VII. 30.)). Detailed rules and additional requirements for the domestic application of the ADR Regulation OJ No. 145; Magyar Közlöny 145-es szám 2021.07.30.
+
+( 99 ) 266/2003. (XII. 24.) Government Decree on the facilitation of international combined transport of goods.
+
+( 100 ) 313/2014 (XII. 12.) Government Decree on the rules on the official control of disaster management and the imposition of fines in connection with the transport of dangerous goods by air OJ No. 173; Magyar Közlöny 173-es szám 2014.12.12.
+
+( 101 ) 101/1996 (VII. 12.) Government Decree on the publication of the Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal, signed in Basel on 22 March 1989.
+
+( 102 ) S.I. 175 of 1975 – European Communities (Prohibition of Discrimination in Transport Rates and Conditions) Regulations, 1975.
+
+( 103 ) S.I. No. 60/1994 – European Communities (Combined Transport of Goods Between Member States) Regulations, 1994.
+
+( 104 ) S.I. No. 698/2011 – European Union (International Road Haulage Market) Regulations 2011, as amended.
+
+( 105 ) S.I. 419/2007 – Waste Management (Shipments of Waste) Regulations 2007, as amended.
+
+( 106 ) S.I. No. 349 of 2011 – European Communities (Carriage of Dangerous Goods by Road and Use of Transportable Pressure Equipment) Regulations, 2011, as amended.
+
+( 107 ) S.I. No. 651/2010 – European Communities (Transport of Dangerous Goods by Rail) Regulations, 2010, as amended.
+
+( 108 ) S.I. No. 226/2003 – European Communities (Civil Aviation Security) Regulations 2003, as amended.
+
+( 109 ) Decree of the Ministry of Transport and Navigation of 15 February 2001 on the Transposition of Council Directive 92/106/EEC of 7 December 1992 on the establishment of common rules for certain types of combined transport of goods between Member States, OJ L 368 of 17 December 1992.
+
+( 110 ) Law No 298 of 6 June 1974 ‘Establishing the national register of road hauliers for hire or reward, rules of road haulage and introduction of a system of bracket tariffs for the carriage of goods by road’ (Official Gazette No 200 of 31 July 1974), as amended.
+
+( 111 ) Legislative Decree No 35 of 27 January 2010 implementing Directive 2008/68/EC on ‘the inland transport of dangerous goods’, published in Official Gazette No 58 of 11 March 2010.
+
+( 112 ) Section 9 of Law on Carriage by Road. Adoption 23.8.1995 Entry into force: 26.9.1995.
+
+( 113 ) Point 3 and 4, Republic of Latvia, Cabinet Regulation No. 225. Adoption: 29.4.2003. Procedures for Performing Combined Transport Operations for Reward, Combined Own-account Carriage or Combined Transport Operations by a Hired Vehicle, and also the Requirements for the Accompanying Document of Goods of the Combined Transport Operations. Adoption: 29.4.2003. Entry into force: 1.5.2004.
+
+( 114 ) Section 25 of Carriage by Rail Law. Adoption: 21.12.2000. Entry into force: 19.1.2001.
+
+( 115 ) Section 3, Points 3 and 4 of Law on the Movement of Dangerous Goods. Adoption: 14.10.2010. Entry into force: 1.1.2011. Point 2 of Cabinet Regulation No. 226 ‘Regulations Regarding Carriage of Dangerous Goods by Rail’. Adoption: 29.4.2003. Entry into force: 7.5.2003. Point 3 of Cabinet Regulation No. 674 ‘Regulations Regarding the Carriage of Dangerous Goods’. Adoption: 6.9.2005. Entry into force: 10.9.2005. Regulations Regarding Carriage of dangerous Goods by Rail. Adoption: 29.4.2003. Entry into force: 7.5.2003. Section 1, Article 9. (Annex 2) Nolīgums par starptautisko dzelzceļa kravu satiksmi (SMGS) / The Agreement on International Goods Transport by Rail (SMGS). Adoption: 14.7.2015. Entry into force: 1.7.2015.
+
+( 116 ) Point 3 of Cabinet Regulation No. 674 ‘Regulations Regarding the Carriage of Dangerous Goods’. Adoption: 6.9.2005. Entry into force: 10.9.2005.
+
+( 117 ) Code of the Inland Waterway Transport, No I-1534 of 24 September 1996.
+
+( 118 ) Rules of Carriage of Goods by Inland Waterways, No 269 of 28 September 2000.
+
+( 119 ) Road Transport Code, No I-1628 of 19 November 1996.
+
+( 120 ) Resolution No 1613-7 of the Government of the Republic of Lithuania of 10 November 2010.
+
+( 121 ) Order No D1-207 of the Minister of Environment of the Republic of Lithuania of 27 April 2004.
+
+( 122 ) Order No 3D-90 of the Minister of Agriculture of the Republic of Lithuania of 12 February 2018.
+
+( 123 ) Grand-Ducal Regulation of 13 January 1966 on the carriage of goods by road for consideration.
+
+( 124 ) Ministerial Regulation of 8 April 1968 on carriage document numbering procedures.
+
+( 125 ) Grand-Ducal Regulation of 19 April 2012 implementing and ratifying Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market.
+
+( 126 ) Grand Ducal Decree of 6 February 2009 publishing the European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR), done at Geneva on 30 September 1957 and subject, together with the protocol, to adoption by the Law of 23 April 1970.
+
+( 127 ) Law of 13 March 2007 adopting the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN), done at Geneva on 26 May 2000 – Legilux (public.lu).
+
+( 128 ) Grand Ducal Decree of 6 February 2009 publishing the Regulation concerning the International Carriage of Dangerous Goods by Rail (RID), Appendix C to the Convention concerning International Carriage by Rail (COTIF), done at Vilnius on 3 June 1999 and adopted by the Law of 15 June 2006, including the amendments in force on 1 January 2009.
+
+( 129 ) Grand-Ducal Regulation of 27 February 2011 laying down the conditions for the approval of regulated agents and known consignors and the conditions for designating account consignors with regard to aviation security controls.
+
+( 130 ) Motor Vehicles (Carriage of Goods by Road) Regulations, (S.L. 65.19) of 1 May 2004.
+
+( 131 ) Motor Vehicles (Carriage of Dangerous Goods by Road) Regulations, (S.L.65.22) of 1 May 2004.
+
+( 132 ) Ustawa z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2020 r. poz. 8) / The Act of 15 November 1984 – Transport Law (Journal of Laws of 2020, item 8).
+
+( 133 ) Ustawa z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2022 r. poz. 180 późn. zm.) / The Act of 6 September 2001 on road transport (Journal of Laws of 2022, item 180 as amended).
+
+( 134 ) Ustawa z dnia 28 marca 2003 r.o transporcie kolejowym (Dz. U. z 2021, poz. 1984) / The Act of 28 March on railway transport (Journal of Laws of 2021, item 1984).
+
+( 135 ) Ustawa z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2020 r. poz. 1863 z późn. zm.) / The Act of 21 December 2000 on inland waterway navigation (Journal of Laws of 2020, item 1863 as amended).
+
+( 136 ) Ustawa z dnia 19 marca 2021 r. o przewozie towarów niebezpiecznych (Dz. U. z 2021 r. poz. 756 z późn. zm.) / The Act of 19 March 2021 on transport of dangerous goods (Journal of Laws of 2021, item 756 as amended). Umowa ADR (Dz. U. z 2021 r. poz. 874) / ADR Agreement (Journal of Laws of 2021, item 874). Umowa RID (Dz. U. z 2021 r. poz. 992) / RID Agreement (Journal of Laws of 2021, item 992). Umowa ADN (Dz. U. z 2021 r. poz. 1165) / ADN Agreement (Journal of Laws of 2021, item 1165).
+
+( 137 ) Ustawa z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2021 r., poz. 779 z późn. zm.) / The Act of 14 December 2012 on waste (Journal of Laws of 2021, item 779 as amended).
+
+( 138 ) Ustawa z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2020 r. poz. 1970 z późn. Zm.) / The Act of 3 July 2002 – Aviation Law (Journal of Laws of 2020, item 1970 as amended).
+
+( 139 ) Decree-Law No 257/2007 of 16 July 2007, as amended by Decree-Law No 137/2008 of 21 July 2008, and by Decree-Law No 136/2009 of 5 June 2009.
+
+( 140 ) Decree-Law No 41-A/2010 of 29 April 2010, as amended.
+
+( 141 ) The Convention on the Contract for the International Carriage of Goods by Road (CMR), to which Romania acceded by Decree No 451/1972.
+
+( 142 ) Ordinance No 88/1999 laying down rules for combined transport of goods, as published in Part I of Official Gazette No 423 of 31 August 1999, as subsequently amended.
+
+( 143 ) Ordinance No 27 of 31 August 2011 on road haulage, as published in Part I of Official Gazette No 625 of 2 September 2011, as subsequently amended.
+
+( 144 ) Detailed rules implementing the provisions on the organisation and carrying out of road transport operations and related activities, as laid down in Government Ordinance No 27/2011 on road transport, as approved by Order No 980 of the Minister for Transport and Infrastructure of 30 November 2011, as published in Part I of Official Gazette Nos 854 and 854bis of 2 December 2011, as subsequently amended.
+
+( 145 ) Decision No 1326/2009 on carriage of dangerous goods in Romania, as published in Part I of Official Gazette No 815 of 27 November 2009, as subsequently amended and supplemented.
+
+( 146 ) Government Decision No 1193/2012 approving the National Aviation Security Programme, as published in Part I of Official Gazette of Romania No 841 of 13 December 2012.
+
+( 147 ) Decree of the Ministry of Transport, Posts and Telecommunications of the Slovak Republic No. 274/2002 Coll. on details of licenses for domestic air carriers and permits for foreign air carriers.
+
+( 148 ) Decision of the Ministry of Transport and Construction of the Slovak Republic No. 08204/2016/C410-SCLVD/04511 of 25 January 2016 issuing the National civil aviation security programme against acts of unlawful interference.
+
+( 149 ) European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN) (Notification of the Ministry of Foreign Affairs of the Slovak Republic No. 331/2010 Coll.), as amended.
+
+( 150 ) Act No 56/2012 Coll. on Roads Transport.
+
+( 151 ) Act No 514/2009 Coll. on Rail Transport.
+
+( 152 ) Road Transport Contracts Act (Uradni list RS [UL RS; Official Gazette of the Republic of Slovenia] Nos 126/03, 102/07, 49/11 – ZPCP-2C and 18/23 – ZDU-1O).
+
+( 153 ) Decree on combined transport (UL RS Nos 4/01 and 49/13).
+
+( 154 ) Road Transport Act (Zakon o prevozih v cestnem prometu) (UL RS Nos 6/16 – official consolidated text, 67/19, 94/21, 54/22 – ZU JPP, 105/22 – ZZNŠPP and 18/23 – ZDU-1O).
+
+( 155 ) Decree on the implementation of the Regulation (EC) on shipments of waste (UL RS Nos 78/16 and 94/21).
+
+( 156 ) Transport of Dangerous Goods Act (UL RS Nos 33/06 – official consolidated text, 41/09, 97/10 and 56/15) in conjunction with the Decision on the publication of Annexes A and B to the European Agreement concerning the International Carriage of Dangerous Goods by Road (UL RS Nos 9/03, 66/03, 9/05, 9/07, 125/08, 97/10, 14/13, 10/15, 9/17, 33/18, 8/19, 26/21 and 9/23).
+
+( 157 ) Agreement between the Ministry of Transport of the Republic of Slovenia and the Federal Minister for Transport, Innovation and Technology of the Republic of Austria on the transport of dangerous goods by road Karavanka tunnel (UL RS No 52/03) (Dogovor med Ministrstvom za promet Republike Slovenije in zveznim ministrom za promet, inovacijo in tehnologijo Republike Avstrije o prevozu nevarnega blaga skozi cestni predor Karavanke).
+
+( 158 ) Order FOM/2861/2012 of 13 December 2012, (BOE-A-2013-154) regulating the administrative control document required for the provision of public transport of goods by road.
+
+( 159 ) Order of 30 September 1993, (BOE-A-1993-24770) laying down special rules for certain types of combined transport of goods between Member States of the EEC (Transposition of Council Directive 92/106/EEC of 7 December 1992).
+
+( 160 ) Resolution of 21 January 2021 of the Secretariat-General for Transport and Mobility, (BOE-A-2021-1380) approving the update of the public part of the national civil aviation security programme.
+
+( 161 ) Royal Decree 97/2014 of 14 February, (BOE-A-2014-2110) regulating the transport of dangerous goods by road on Spanish territory.
+
+( 162 ) Royal Decree 412/2001 of 20 April, (BOE-A-2001-8796) regulating various aspects relating to the transport of dangerous goods by rail.
+
+( 163 ) Swedish Civil Contingencies Agency’s regulations (MSBFS 2022:3) on the transport of dangerous goods on- and off-road (ADR-S).
+
+( 164 ) Swedish Civil Contingencies Agency’s regulations (MSBFS 2022:4) on the transport of dangerous goods by rail (RID-S).
+
+( 165 ) Waste Ordinance (2020:614).
+
+( 166 ) Swedish Transport Agency’s regulations (TSFS 2020:80) on aviation security.
+
+( 167 ) Swedish Transport Agency’s regulations and general guidelines (TSFS 2019:39) on the transport of packaged dangerous goods by sea in sea areas D and E and in inland waterways.
+
+( 168 ) Ordinance (1998:786) on international road transport within the European Economic Area (EEA).
+
+( 169 ) Decree of 26 October 1983 (BWBR0003628), establishing regulations for the prevention of collision or propulsion on the public waters in the Kingdom, which are open to navigation (Bulletin of Acts and Decrees 1984, 682) (as amended).
+
+( 170 ) Decree of 15 September 1994 (BWBR0006923), implementing the Police Regulations for Rhine Navigation in the Netherlands (Bulletin of Acts and Decrees 1994, 770) (as amended).
+
+( 171 ) Regulation for the implementation of the Road Transport Act (BWBR0025704) (Regulation for road transport of goods) (Government Gazette 2009, 75) (as amended).
+
+( 172 ) Act of October 30, 2008 (BWBR0024800) amending the regulation of professional goods transport and own account transport with trucks (Road Transport Act) (Stb. 2008, 492) (as amended).
+
+( 173 ) Regulation for the transport of dangerous goods by road (BWBR0010054).
+
+( 174 ) Decree of 5 June 1996 (BWBR0008080) laying down further rules for the transport of dangerous goods (Transport of Dangerous Goods Decree) (Stb.1996, 297).
+
+( 175 ) Regulation for the transport of dangerous goods by rail (BWBR0010053).
+
+( 176 ) Decree of 5 June 1996 (BWBR0008080) laying down further rules for the transport of dangerous goods (Transport of Dangerous Goods Decree) (Stb.1996, 297).
+
+( 177 ) Regulation for the transport of dangerous goods by inland waterways (BWBR0010115).
+
+( 178 ) Decree of 5 June 1996, (BWBR0008080) laying down further rules for the transport of dangerous goods (Transport of Dangerous Goods Decree) (Stb.1996, 297).

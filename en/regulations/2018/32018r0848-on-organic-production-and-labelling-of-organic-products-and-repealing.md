@@ -1,0 +1,3601 @@
+---
+title: "Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007"
+identifier: "32018R0848"
+eli: "http://data.europa.eu/eli/reg/2018/848/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2018-05-30
+entry_into_force: 2018-12-19
+last_amended: 2025-03-25
+consolidated_version: "02018R0848-20250325"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0848-20250325"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007
+
+**REGULATION (EU) 2018/848 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 30 May 2018**
+
+**on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/427 of 13 January 2020 </td><td> L 87</td><td>1</td><td>23.3.2020</td></tr>
+<tr><td> M2</td><td>Amended by:  COMMISSION DELEGATED REGULATION (EU) 2021/269 of 4 December 2020 </td><td> L 60</td><td>24</td><td>22.2.2021</td></tr>
+<tr><td></td><td> REGULATION (EU) 2020/1693 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 November 2020 </td><td> L 381</td><td>1</td><td>13.11.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1794 of 16 September 2020 </td><td> L 402</td><td>23</td><td>1.12.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/642 of 30 October 2020 </td><td> L 133</td><td>1</td><td>20.4.2021</td></tr>
+<tr><td></td><td>Amended by:  COMMISSION DELEGATED REGULATION (EU) 2025/452 of 19 December 2024 </td><td> L 452</td><td>1</td><td>5.3.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/715 of 20 January 2021 </td><td> L 151</td><td>1</td><td>3.5.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/716 of 9 February 2021 </td><td> L 151</td><td>5</td><td>3.5.2021</td></tr>
+<tr><td> M9</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1006 of 12 April 2021 </td><td> L 222</td><td>3</td><td>22.6.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1691 of 12 July 2021 </td><td> L 334</td><td>1</td><td>22.9.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1697 of 13 July 2021 </td><td> L 336</td><td>3</td><td>23.9.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/474 of 17 January 2022 </td><td> L 98</td><td>1</td><td>25.3.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/207 of 24 November 2022 </td><td> L 29</td><td>6</td><td>1.2.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2867 of 2 September 2024 </td><td> L 2867</td><td>1</td><td>11.11.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/405 of 13 December 2024 </td><td> L 405</td><td>1</td><td>26.2.2025</td></tr>
+</table>
+
+C3
+
+**REGULATION (EU) 2018/848 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 30 May 2018**
+
+**on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+#### Article 1 — Subject matter
+
+This Regulation establishes the principles of organic production and lays down the rules concerning organic production, related certification and the use of indications referring to organic production in labelling and advertising, as well as rules on controls additional to those laid down in Regulation (EU) 2017/625.
+
+#### Article 2 — Scope
+
+1\. This Regulation applies to the following products originating from agriculture, including aquaculture and beekeeping, as listed in Annex I to the TFEU and to products originating from those products, where such products are, or are intended to be, produced, prepared, labelled, distributed, placed on the market, imported into or exported from the Union:
+
+(a) live or unprocessed agricultural products, including seeds and other plant reproductive material;
+
+(b) processed agricultural products for use as food;
+
+(c) feed.
+
+This Regulation also applies to certain other products closely linked to agriculture listed in Annex I to this Regulation, where they are, or are intended to be, produced, prepared, labelled, distributed, placed on the market, imported into or exported from the Union.
+
+2\. This Regulation applies to any operator involved, at any stage of production, preparation and distribution, in activities relating to the products referred to in paragraph 1.
+
+3\. Mass catering operations carried out by a mass caterer as defined in point (d) of Article 2(2) of Regulation (EU) No 1169/2011 are not subject to this Regulation except as set out in this paragraph.
+
+Member States may apply national rules or, in the absence thereof, private standards, on the production, labelling and control of products originating from mass catering operations. The organic production logo of the European Union shall not be used in the labelling, the presentation or the advertising of such products, and shall not be used to advertise the mass caterer.
+
+4\. Except where otherwise provided, this Regulation applies without prejudice to related Union legislation, in particular, legislation in the fields of safety of the food chain, animal health and welfare, plant health and plant reproductive material.
+
+5\. This Regulation applies without prejudice to other specific Union law relating to the placing of products on the market and, in particular, to Regulation (EU) No 1308/2013 of the European Parliament and of the Council ( 1 ) and to Regulation (EU) No 1169/2011.
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending the list of products set out in Annex I by adding further products to the list, or by amending those added entries. Only products which are closely linked to agricultural products shall be eligible for inclusion in that list.
+
+#### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘organic production’ means the use, including during the conversion period referred to in Article 10, of production methods that comply with this Regulation at all stages of production, preparation and distribution;
+
+(2) ‘organic product’ means a product resulting from organic production, other than a product produced during the conversion period referred to in Article 10. The products of hunting or fishing of wild animals are not considered as organic products;
+
+(3) ‘agricultural raw material’ means an agricultural product that has not been subjected to any operation of preservation or processing;
+
+(4) ‘preventive measures’ means measures that are to be taken by operators at every stage of production, preparation and distribution in order to ensure the preservation of biodiversity and soil quality, measures for the prevention and control of pests and diseases and measures that are to be taken to avoid negative effects on the environment, animal health and plant health;
+
+(5) ‘precautionary measures’ means measures that are to be taken by operators at every stage of production, preparation, and distribution to avoid contamination with products or substances that are not authorised for use in organic production in accordance with this Regulation, and to avoid the commingling of organic products with non-organic products;
+
+(6) ‘conversion’ means the transition from non-organic to organic production within a given period, during which the provisions of this Regulation concerning organic production apply;
+
+(7) ‘in-conversion product’ means a product that is produced during the conversion period referred to in Article 10;
+
+(8) ‘holding’ means all the production units operated under single management for the purpose of producing live or unprocessed agricultural products, including products originating from aquaculture and beekeeping, referred to in point (a) of Article 2(1) or products listed in Annex I other than essential oils and yeast;
+
+(9) ‘production unit’ means all assets of a holding, such as primary production premises, land parcels, pasturages, open air areas, livestock buildings or parts thereof, hives, fish ponds, containment systems and sites for algae or aquaculture animals, rearing units, shore or seabed concessions, and premises for the storage of crops, of crop products, of algae products, of animal products, of raw materials and of any other relevant inputs managed as described in point (10), point (11) or point (12);
+
+(10) ‘organic production unit’ means a production unit, excluding during the conversion period referred to in Article 10, which is managed in compliance with the requirements applicable to organic production;
+
+(11) ‘in-conversion production unit’ means a production unit, during the conversion period referred to in Article 10, which is managed in compliance with the requirements applicable to organic production; it may be constituted of land parcels or other assets for which the conversion period referred to in Article 10 starts at different moments in time;
+
+(12) ‘non-organic production unit’ means a production unit which is not managed in compliance with the requirements applicable to organic production;
+
+(13) ‘operator’ means the natural or legal person responsible for ensuring that this Regulation is complied with at every stage of production, preparation and distribution that are under that person’s control;
+
+(14) ‘farmer’ means a natural or legal person, or a group of natural or legal persons, regardless of the legal status of that group and its members under national law, who exercises an agricultural activity;
+
+(15) ‘agricultural area’ means agricultural area as defined in point (e) of Article 4(1) of Regulation (EU) No 1307/2013;
+
+(16) ‘plants’ means plants as defined in point (5) of Article 3 of Regulation (EC) No 1107/2009;
+
+(17) ‘plant reproductive material’ means plants and all parts of plants, including seeds, at any stage of growth that are capable of, and intended for, producing entire plants;
+
+(18) ‘organic heterogeneous material’ means a plant grouping within a single botanical taxon of the lowest known rank which:
+
+(a) presents common phenotypic characteristics;
+
+(b) is characterised by a high level of genetic and phenotypic diversity between individual reproductive units, so that that plant grouping is represented by the material as a whole, and not by a small number of units;
+
+(c) is not a variety within the meaning of Article 5(2) of Council Regulation (EC) No 2100/94 ( 2 );
+
+(d) is not a mixture of varieties; and
+
+(e) has been produced in accordance with this Regulation;
+
+(19) ‘organic variety suitable for organic production’ means a variety as defined in Article 5(2) of Regulation (EC) No 2100/94 which:
+
+(a) is characterised by a high level of genetic and phenotypical diversity between individual reproductive units; and
+
+(b) results from organic breeding activities referred to in point 1.8.4 of Part I of Annex II to this Regulation;
+
+(20) ‘mother plant’ means an identified plant from which plant reproductive material is taken for the reproduction of new plants;
+
+(21) ‘generation’ means a group of plants constituting a single step in the line of descent of plants;
+
+(22) ‘plant production’ means production of agricultural crop products including harvesting of wild plant products for commercial purposes;
+
+(23) ‘plant products’ means plant products as defined in point (6) of Article 3 of Regulation (EC) No 1107/2009;
+
+(24) ‘pest’ means a pest as defined in Article 1(1) of Regulation (EU) 2016/2031 of the European Parliament and of the Council ( 3 );
+
+(25) ‘biodynamic preparations’ means mixtures traditionally used in biodynamic farming;
+
+(26) ‘plant protection products’ means the products referred to in Article 2 of Regulation (EC) No 1107/2009;
+
+(27) ‘livestock production’ means the production of domestic or domesticated terrestrial animals, including insects;
+
+(28) ‘veranda’ means an additional, roofed, uninsulated, outdoor part of a building intended for poultry, the longest side usually being equipped with wire fencing or netting, with an outdoor climate, natural and, where necessary, artificial illumination, and a littered floor;
+
+(29) ‘pullets’ means young animals of the Gallus gallus species that are of an age of less than 18 weeks;
+
+(30) ‘laying hens’ means animals of the Gallus gallus species that are intended for the production of eggs for consumption and that are of an age of at least 18 weeks;
+
+(31) ‘usable area’ means usable area as defined in point (d) of Article 2(2) of Council Directive 1999/74/EC ( 4 );
+
+(32) ‘aquaculture’ means aquaculture as defined in point (25) of Article 4(1) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council ( 5 );
+
+(33) ‘aquaculture products’ means aquaculture products as defined in point (34) of Article 4(1) of Regulation (EU) No 1380/2013;
+
+(34) ‘closed recirculation aquaculture facility’ means a facility on land or in a vessel where aquaculture takes place within an enclosed environment involving the recirculation of water and which depends on permanent external energy input to stabilise the environment for the aquaculture animals;
+
+(35) ‘energy from renewable sources’ means energy from renewable non-fossil sources such as wind, solar, geothermal, wave, tidal, hydropower, landfill gas, sewage treatment plant gas and biogases;
+
+(36) ‘hatchery’ means a place for the breeding, hatching and rearing through the early life stages of aquaculture animals, in particular finfish and shellfish;
+
+(37) ‘nursery’ means a place where an intermediate aquaculture production system is applied between the hatchery and grow-out stages. The nursery stage is completed within the first third of the production cycle, with the exception of species undergoing a smoltification process;
+
+(38) ‘water pollution’ means pollution as defined in point (33) of Article 2 of Directive 2000/60/EC and in point (8) of Article 3 of Directive 2008/56/EC of the European Parliament and of the Council ( 6 ), in the waters to which each of those Directives applies;
+
+(39) ‘polyculture’ means the rearing in aquaculture of two or more species, usually from different trophic levels, in the same culture unit;
+
+(40) ‘production cycle’ means the lifespan of an aquaculture animal or alga, from the earliest life stage (fertilised eggs, in the case of aquaculture animals) to harvesting;
+
+(41) ‘locally grown species’ means aquaculture species which are neither alien nor locally absent species within the meaning of points (6) and (7), respectively, of Article 3 of Council Regulation (EC) No 708/2007 ( 7 ), as well as the species listed in Annex IV to that Regulation;
+
+(42) ‘veterinary treatment’ means all courses of a curative or preventive treatment against an occurrence of a specific disease;
+
+(43) ‘veterinary medicinal product’ means a veterinary medicinal product as defined in point (2) of Article 1 of Directive 2001/82/EC of the European Parliament and of the Council ( 8 );
+
+(44) ‘preparation’ means the operations of preserving or processing of organic or in-conversion products, or any other operation that is carried out on an unprocessed product without altering the initial product, such as slaughtering, cutting, cleaning or milling, as well as packaging, labelling or alterations made to the labelling relating to organic production;
+
+(45) ‘food’ means food as defined in Article 2 of Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 9 );
+
+(46) ‘feed’ means feed as defined in point (4) of Article 3 of Regulation (EC) No 178/2002;
+
+(47) ‘feed materials’ mean feed materials as defined in point (g) of Article 3(2) of Regulation (EC) No 767/2009 of the European Parliament and of the Council ( 10 );
+
+(48) ‘placing on the market’ means placing on the market as defined in point (8) of Article 3 of Regulation (EC) No 178/2002;
+
+(49) ‘traceability’ means the ability to trace and follow food, feed or any product referred to in Article 2(1), and any substance intended or expected to be incorporated into food, feed or any product referred to in Article 2(1), through all stages of production, preparation and distribution;
+
+(50) ‘stage of production, preparation and distribution’ means any stage from the primary production of an organic product through its storage, processing, transport, and sale or supply to the final consumer, including, where relevant, labelling, advertising, import, export and subcontracting activities;
+
+(51) ‘ingredient’ means an ingredient as defined in point (f) of Article 2(2) of Regulation (EU) No 1169/2011 or, for products other than food, any substance or product used in the manufacture or preparation of products that is still present in the finished product, even in altered form;
+
+(52) ‘labelling’ means any words, particulars, trade marks, brand name, pictorial matter or symbol relating to a product that are placed on any packaging, document, notice, label, ring or collar that accompanies or refers to that product;
+
+(53) ‘advertising’ means any presentation of products to the public, by any means other than a label, that is intended or is likely to influence and shape attitudes, beliefs and behaviours in order to directly or indirectly promote the sale of products;
+
+(54) ‘competent authorities’ means competent authorities as defined in point (3) of Article 3 of Regulation (EU) 2017/625;
+
+(55) ‘control authority’ means an organic control authority as defined in point (4) of Article 3 of Regulation (EU) 2017/625, or an authority recognised by the Commission or by a third country recognised by the Commission for the purposes of carrying out controls in third countries for the import of organic and in-conversion products into the Union;
+
+(56) ‘control body’ means a delegated body as defined in point (5) of Article 3 of Regulation (EU) 2017/625, or a body recognised by the Commission or by a third country recognised by the Commission for the purposes of carrying out controls in third countries for the import of organic and in-conversion products into the Union;
+
+(57) ‘non-compliance’ means non-compliance with this Regulation or non-compliance with the delegated or implementing acts adopted in accordance with this Regulation;
+
+(58) ‘genetically modified organism’ or ‘GMO’ means a genetically modified organism as defined in point (2) of Article 2 of Directive 2001/18/EC of the European Parliament and of the Council ( 11 ) which is not obtained through the techniques of genetic modification listed in Annex I.B to that Directive;
+
+(59) ‘produced from GMOs’ means derived in whole or in part from GMOs but not containing or consisting of GMOs;
+
+(60) ‘produced by GMOs’ means derived by using a GMO as the last living organism in the production process, but not containing or consisting of GMOs nor produced from GMOs;
+
+(61) ‘food additive’ means a food additive as defined in point (a) of Article 3(2) of Regulation (EC) No 1333/2008 of the European Parliament and of the Council ( 12 );
+
+(62) ‘feed additives’ mean feed additives as defined in point (a) of Article 2(2) of Regulation (EC) No 1831/2003 of the European Parliament and of the Council ( 13 );
+
+(63) ‘engineered nanomaterial’ means an engineered nanomaterial as defined in point (f) of Article 3(2) of Regulation (EU) 2015/2283 of the European Parliament and of the Council ( 14 );
+
+(64) ‘equivalence’ means meeting the same objectives and principles by applying rules which ensure the same level of assurance of conformity;
+
+(65) ‘processing aid’ means a processing aid as defined in point (b) of Article 3(2) of Regulation (EC) No 1333/2008 for food and in point (h) of Article 2(2) of Regulation (EC) No 1831/2003 for feed;
+
+(66) ‘food enzyme’ means a food enzyme as defined in point (a) of Article 3(2) of Regulation (EC) No 1332/2008 of the European Parliament and of the Council ( 15 );
+
+(67) ‘ionising radiation’ means ionising radiation as defined in point (46) of Article 4 of Council Directive 2013/59/Euratom ( 16 );
+
+(68) ‘prepacked food’ means prepacked food as defined in point (e) of Article 2(2) of Regulation (EU) No 1169/2011;
+
+(69) ‘poultry house’ means a fixed or mobile building for accommodating flocks of poultry, which includes all surfaces covered by roofs, including a veranda; the house may be subdivided into separate compartments, each accommodating a single flock;
+
+(70) ‘soil-related crop cultivation’ means production in living soil or in soil that is mixed or fertilised with materials and products that are allowed in organic production in connection with the subsoil and bedrock;
+
+(71) ‘unprocessed products’ means unprocessed products as defined in point (n) of Article 2(1) of Regulation (EC) No 852/2004 of the European Parliament and of the Council ( 17 ), irrespective of packaging or labelling operations;
+
+(72) ‘processed products’ means processed products as defined in point (o) of Article 2(1) of Regulation (EC) No 852/2004, irrespective of packaging or labelling operations;
+
+(73) ‘processing’ means processing as defined in point (m) of Article 2(1) of Regulation (EC) No 852/2004; this includes the use of substances referred to in Articles 24 and 25 of this Regulation but does not include packaging or labelling operations;
+
+(74) ‘integrity of organic or in-conversion products’ means the fact that the product does not exhibit non-compliance which:
+
+(a) in any stage of production, preparation and distribution affects the organic or in-conversion characteristics of the product; or
+
+(b) is repetitive or intentional;
+
+(75) ‘pen’ means an enclosure that includes a part in which animals are provided with protection from adverse weather conditions.
+
+## CHAPTER II — OBJECTIVES AND PRINCIPLES OF ORGANIC PRODUCTION
+
+#### Article 4 — Objectives
+
+Organic production shall pursue the following general objectives:
+
+(a) contributing to protection of the environment and the climate;
+
+(b) maintaining the long-term fertility of soils;
+
+(c) contributing to a high level of biodiversity;
+
+(d) substantially contributing to a non-toxic environment;
+
+(e) contributing to high animal welfare standards and, in particular, to meeting the species-specific behavioural needs of animals;
+
+(f) encouraging short distribution channels and local production in the various areas of the Union;
+
+(g) encouraging the preservation of rare and native breeds in danger of extinction;
+
+(h) contributing to the development of the supply of plant genetic material adapted to the specific needs and objectives of organic agriculture;
+
+(i) contributing to a high level of biodiversity, in particular by using diverse plant genetic material, such as organic heterogeneous material and organic varieties suitable for organic production;
+
+(j) fostering the development of organic plant breeding activities in order to contribute to favourable economic perspectives of the organic sector.
+
+#### Article 5 — General principles
+
+Organic production is a sustainable management system that is based on the following general principles:
+
+(a) respect for nature’s systems and cycles and the sustainment and enhancement of the state of the soil, the water and the air, of the health of plants and animals, and of the balance between them;
+
+(b) the preservation of natural landscape elements, such as natural heritage sites;
+
+(c) the responsible use of energy and natural resources, such as water, soil, organic matter and air;
+
+(d) the production of a wide variety of high-quality food and other agricultural and aquaculture products that respond to consumers’ demand for goods that are produced by the use of processes that do not harm the environment, human health, plant health or animal health and welfare;
+
+(e) ensuring the integrity of organic production at all stages of the production, preparation and distribution of food and feed;
+
+(f) the appropriate design and management of biological processes, based on ecological systems and using natural resources which are internal to the management system, using methods that:
+
+(i) use living organisms and mechanical production methods;
+
+(ii) practice soil-related crop cultivation and land-related livestock production, or practice aquaculture which complies with the principle of the sustainable exploitation of aquatic resources;
+
+(iii) exclude the use of GMOs, products produced from GMOs, and products produced by GMOs, other than veterinary medicinal products;
+
+(iv) are based on risk assessment and the use of precautionary measures and preventive measures, where appropriate;
+
+(g) the restriction of the use of external inputs; where external inputs are required or the appropriate management practices and methods referred to in point (f) do not exist, the external inputs shall be limited to:
+
+(i) inputs from organic production; in the case of plant reproductive material, priority shall be given to varieties selected for their ability to meet the specific needs and objectives of organic agriculture;
+
+(ii) natural or naturally-derived substances;
+
+(iii) low solubility mineral fertilisers;
+
+(h) the adaptation of the production process, where necessary and within the framework of this Regulation, to take account of the sanitary status, regional differences in the ecological balance, climatic and local conditions, stages of development and specific husbandry practices;
+
+(i) the exclusion from the whole organic food chain of animal cloning, of rearing artificially induced polyploid animals and of ionising radiation;
+
+(j) the observance of a high level of animal welfare respecting species-specific needs.
+
+#### Article 6 — Specific principles applicable to agricultural activities and aquaculture
+
+As regards agricultural activities and aquaculture, organic production shall, in particular, be based on the following specific principles:
+
+(a) the maintenance and enhancement of soil life and natural soil fertility, soil stability, soil water retention and soil biodiversity, preventing and combating loss of soil organic matter, soil compaction and soil erosion, and the nourishing of plants primarily through the soil ecosystem;
+
+(b) the limitation of the use of non-renewable resources and external inputs to a minimum;
+
+(c) the recycling of waste and by-products of plant and animal origin as input in plant and livestock production;
+
+(d) the maintenance of plant health by preventive measures, in particular the choice of appropriate species, varieties or heterogeneous material resistant to pests and diseases, appropriate crop rotations, mechanical and physical methods and protection of the natural enemies of pests;
+
+(e) the use of seeds and animals with a high degree of genetic diversity, disease resistance and longevity;
+
+(f) in the choosing of plant varieties, having regard to the particularities of the specific organic production systems, focussing on agronomic performance, disease resistance, adaptation to diverse local soil and climate conditions and respect for the natural crossing barriers;
+
+(g) the use of organic plant reproductive material, such as plant reproductive material of organic heterogeneous material and of organic varieties suitable for organic production;
+
+(h) the production of organic varieties through natural reproductive ability and focussing on containment within natural crossing barriers;
+
+(i) without prejudice to Article 14 of Regulation (EC) No 2100/94 and to the national plant variety rights granted under Member States’ national law, the possibility for farmers to use plant reproductive material obtained from their own farms in order to foster genetic resources adapted to the special conditions of organic production;
+
+(j) in the choosing of animal breeds, having regard to a high degree of genetic diversity, the capacity of animals to adapt to local conditions, their breeding value, their longevity, their vitality and their resistance to disease or health problems;
+
+(k) the practice of site-adapted and land-related livestock production;
+
+(l) the application of animal husbandry practices which enhance the immune system and strengthen the natural defence against diseases, including regular exercise and access to open air areas and pastures;
+
+(m) the feeding of livestock with organic feed composed of agricultural ingredients resulting from organic production and of natural non-agricultural substances;
+
+(n) the production of organic livestock products derived from animals that have been raised on organic holdings throughout their lives since birth or hatching;
+
+(o) the continuing health of the aquatic environment and the quality of surrounding aquatic and terrestrial ecosystems;
+
+(p) the feeding of aquatic organisms with feed from sustainably exploited fisheries in accordance with Regulation (EU) No 1380/2013 or with organic feed composed of agricultural ingredients resulting from organic production, including organic aquaculture, and of natural non-agricultural substances;
+
+(q) avoiding any endangerment of species of conservation interest that might arise from organic production.
+
+#### Article 7 — Specific principles applicable to the processing of organic food
+
+The production of processed organic food shall be based, in particular, on the following specific principles:
+
+(a) the production of organic food from organic agricultural ingredients;
+
+(b) the restriction of the use of food additives, of non-organic ingredients with mainly technological and sensory functions, and of micronutrients and processing aids, so that they are used to a minimum extent and only in cases of essential technological need or for particular nutritional purposes;
+
+(c) the exclusion of substances and processing methods that might be misleading as regards the true nature of the product;
+
+(d) the processing of organic food with care, preferably through the use of biological, mechanical and physical methods;
+
+(e) the exclusion of food containing, or consisting of, engineered nanomaterials.
+
+#### Article 8 — Specific principles applicable to the processing of organic feed
+
+The production of processed organic feed shall be based, in particular, on the following specific principles:
+
+(a) the production of organic feed from organic feed materials;
+
+(b) the restriction of the use of feed additives and processing aids, so that they are used to a minimum extent and only in cases of essential technological or zootechnical needs or for particular nutritional purposes;
+
+(c) the exclusion of substances and processing methods that might be misleading as regards the true nature of the product;
+
+(d) the processing of organic feed with care, preferably through the use of biological, mechanical and physical methods.
+
+## CHAPTER III — PRODUCTION RULES
+
+#### Article 9 — General production rules
+
+1\. Operators shall comply with the general production rules laid down in this Article.
+
+2\. The entire holding shall be managed in compliance with the requirements of this Regulation that apply to organic production.
+
+3\. For the purposes and uses referred to in Articles 24 and 25 and in Annex II, only products and substances that have been authorised pursuant to those provisions may be used in organic production, provided that their use in non-organic production has also been authorised in accordance with the relevant provisions of Union law and, where applicable, in accordance with national provisions based on Union law.
+
+The following products and substances referred to in Article 2(3) of Regulation (EC) No 1107/2009 shall be allowed for use in organic production, provided that they are authorised pursuant to that Regulation:
+
+(a) safeners, synergists and co-formulants as components of plant protection products;
+
+(b) adjuvants that are to be mixed with plant protection products.
+
+The use in organic production of products and substances for purposes other than those covered by this Regulation shall be allowed, provided that their use complies with the principles laid down in Chapter II.
+
+4\. Ionising radiation shall not be used in the treatment of organic food or feed, and in the treatment of raw materials used in organic food or feed.
+
+5\. The use of animal cloning, and the rearing of artificially induced polyploid animals, shall be prohibited.
+
+6\. Preventive and precautionary measures shall be taken, where appropriate, at every stage of production, preparation and distribution.
+
+7\. Notwithstanding paragraph 2, a holding may be split into clearly and effectively separated production units for organic, in-conversion and non-organic production, provided that for the non-organic production units:
+
+(a) as regards livestock, different species are involved;
+
+(b) as regards plants, different varieties that can be easily differentiated are involved.
+
+As regards algae and aquaculture animals, the same species may be involved, provided that there is a clear and effective separation between the production sites or units.
+
+8\. By way of derogation from point (b) of paragraph 7, in the case of perennial crops which require a cultivation period of at least three years, different varieties that cannot be easily differentiated, or the same varieties, may be involved, provided that the production in question is within the context of a conversion plan, and provided that the conversion of the last part of the area related to the production in question to organic production begins as soon as possible and is completed within a maximum of five years.
+
+In such cases:
+
+(a) the farmer shall notify the competent authority, or, where appropriate, the control authority or the control body, of the start of harvest of each of the products concerned at least 48 hours in advance;
+
+(b) upon completion of the harvest, the farmer shall inform the competent authority, or, where appropriate, the control authority or the control body, of the exact quantities harvested from the units concerned and of the measures taken to separate the products;
+
+(c) the conversion plan and the measures to be taken to ensure the effective and clear separation shall be confirmed each year by the competent authority, or, where appropriate, by the control authority or the control body, after the start of the conversion plan.
+
+9\. The requirements concerning different species and varieties, laid down in points (a) and (b) of paragraph 7, shall not apply in the case of research and educational centres, plant nurseries, seed multipliers and breeding operations.
+
+10\. Where, in the cases referred to in paragraphs 7, 8 and 9, not all production units of a holding are managed under organic production rules, the operators shall:
+
+(a) keep the products used for the organic and in-conversion production units separate from those used for the non-organic production units;
+
+(b) keep the products produced by the organic, in-conversion and non-organic production units separate from each other;
+
+(c) keep adequate records to show the effective separation of the production units and of the products.
+
+11\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending paragraph 7 of this Article by adding further rules on the splitting of a holding into organic, in-conversion and non-organic production units, in particular in relation to products listed in Annex I, or by amending those added rules.
+
+#### Article 10 — Conversion
+
+1\. Farmers and operators that produce algae or aquaculture animals shall comply with a conversion period. During the whole conversion period they shall apply all rules on organic production laid down in this Regulation, in particular the applicable rules on conversion set out in this Article and in Annex II.
+
+2\. The conversion period shall start at the earliest when the farmer or the operator that produces algae or aquaculture animals has notified the activity to the competent authorities, in accordance with Article 34(1), in the Member State in which the activity is carried out and in which that farmer or operator’s holding is subject to the control system.
+
+3\. No previous period may be retroactively recognised as being part of the conversion period, except where:
+
+(a) the operator’s land parcels were subject to measures which were defined in a programme implemented pursuant to Regulation (EU) No 1305/2013 for the purpose of ensuring that no products or substances other than those authorised for use in organic production have been used on those land parcels; or
+
+(b) the operator can provide proof that the land parcels were natural or agricultural areas that, for a period of at least three years, have not been treated with products or substances that are not authorised for use in organic production.
+
+4\. Products produced during the conversion period shall not be marketed as organic products or as in-conversion products.
+
+However, the following products produced during the conversion period and in compliance with paragraph 1 may be marketed as in-conversion products:
+
+(a) plant reproductive material, provided that a conversion period of at least 12 months has been complied with;
+
+(b) food products of plant origin and feed products of plant origin, provided that the product contains only one agricultural crop ingredient, and provided that a conversion period of at least 12 months before the harvest has been complied with.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending point 1.2.2 of Part II of Annex II by adding conversion rules for species other than those regulated in Part II of Annex II on 17 June 2018, or by amending those added rules.
+
+6\. The Commission shall, where appropriate, adopt implementing acts specifying the documents to be supplied for the purpose of the retroactive recognition of a previous period in accordance with paragraph 3 of this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 11 — Prohibition of the use of GMOs
+
+1\. GMOs, products produced from GMOs, and products produced by GMOs shall not be used in food or feed, or as food, feed, processing aids, plant protection products, fertilisers, soil conditioners, plant reproductive material, micro-organisms or animals in organic production.
+
+2\. For the purposes of the prohibition laid down in paragraph 1, with regard to GMOs and products produced from GMOs for food and feed, operators may rely on the labels of a product that have been affixed or provided pursuant to Directive 2001/18/EC, Regulation (EC) No 1829/2003 of the European Parliament and of the Council ( 18 ) or Regulation (EC) No 1830/2003 of the European Parliament and of the Council ( 19 ) or any accompanying document provided pursuant thereto.
+
+3\. Operators may assume that no GMOs and no products produced from GMOs have been used in the manufacture of purchased food and feed where such products do not have a label affixed or provided, or are not accompanied by a document provided, pursuant to the legal acts referred to in paragraph 2, unless they have obtained other information indicating that the labelling of the products concerned is not in conformity with those legal acts.
+
+4\. For the purposes of the prohibition laid down in paragraph 1, with regard to products not covered by paragraphs 2 and 3, operators using non-organic products purchased from third parties shall require the vendor to confirm that those products are not produced from GMOs or produced by GMOs.
+
+#### Article 12 — Plant production rules
+
+1\. Operators that produce plants or plant products shall comply, in particular, with the detailed rules set out in Part I of Annex II.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending:
+
+(a) points 1.3 and 1.4 of Part I of Annex II as regards derogations;
+
+(b) point 1.8.5 of Part I of Annex II as regards the use of in-conversion and non-organic plant reproductive material;
+
+(c) point 1.9.5 of Part I of Annex II by adding further provisions concerning agreements between operators of agricultural holdings, or by amending those added provisions;
+
+(d) point 1.10.1 of Part I of Annex II by adding further pest- and weed-management measures, or by amending those added measures;
+
+(e) Part I of Annex II by adding further detailed rules and cultivation practices for specific plants and plant products, including rules for sprouted seeds, or by amending those added rules.
+
+#### Article 13 — Specific provisions for the marketing of plant reproductive material of organic heterogeneous material
+
+1\. Plant reproductive material of organic heterogeneous material may be marketed without complying with the requirements for registration and without complying with the certification categories of pre-basic, basic and certified material or with the requirements for other categories, which are set out in Directives 66/401/EEC, 66/402/EEC, 68/193/EEC, 98/56/EC, 2002/53/EC, 2002/54/EC, 2002/55/EC, 2002/56/EC, 2002/57/EC, 2008/72/EC and 2008/90/EC or acts adopted pursuant to those Directives.
+
+2\. Plant reproductive material of organic heterogeneous material as referred to in paragraph 1 may be marketed following a notification of the organic heterogeneous material by the supplier to the responsible official bodies referred to in Directives 66/401/EEC, 66/402/EEC, 68/193/EEC, 98/56/EC, 2002/53/EC, 2002/54/EC, 2002/55/EC, 2002/56/EC, 2002/57/EC, 2008/72/EC and 2008/90/EC, made by means of a dossier containing:
+
+(a) the contact details of the applicant;
+
+(b) the species and denomination of the organic heterogeneous material;
+
+(c) the description of the main agronomic and phenotypic characteristics that are common to that plant grouping, including breeding methods, any available results from tests on those characteristics, the country of production and the parental material used;
+
+(d) a declaration by the applicant concerning the truth of the elements in points (a), (b) and (c); and
+
+(e) a representative sample.
+
+That notification shall be sent by registered letter, or by any other means of communication accepted by the official bodies, with confirmation of receipt requested.
+
+Three months after the date shown on the return receipt, provided that no additional information was requested or that no formal refusal for reasons of incompleteness of the dossier or non-compliance as defined in Article 3(57) was communicated to the supplier, the responsible official body shall be deemed to have acknowledged the notification and its content.
+
+After having expressly or implicitly acknowledged the notification, the responsible official body may proceed to the listing of the notified organic heterogeneous material. That listing shall be free of charge to the supplier.
+
+The listing of any organic heterogeneous material shall be communicated to the competent authorities of the other Member States and to the Commission.
+
+Such organic heterogeneous material shall fulfil the requirements laid down in the delegated acts adopted in accordance with paragraph 3.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 54 supplementing this Regulation by setting out rules governing the production and marketing of plant reproductive material of organic heterogeneous material of particular genera or species, as regards:
+
+(a) the description of the organic heterogeneous material, including the relevant breeding and production methods and parental material used;
+
+(b) the minimum quality requirements for seeds lots, including identity, specific purity, germination rates and sanitary quality;
+
+(c) labelling and packaging;
+
+(d) information and samples of production to be kept by the professional operators;
+
+(e) where applicable, maintenance of the organic heterogeneous material.
+
+#### Article 14 — Livestock production rules
+
+1\. Livestock operators shall comply, in particular, with the detailed production rules set out in Part II of Annex II and in any implementing acts referred to in paragraph 3 of this Article.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending:
+
+(a) points 1.3.4.2, 1.3.4.4.2 and 1.3.4.4.3 of Part II of Annex II by reducing the percentages as regards the origin of animals, once sufficient availability on the Union market of organic animals has been established;
+
+(b) point 1.6.6 of Part II of Annex II as regards the limit on organic nitrogen linked to the total stocking density;
+
+(c) point 1.9.6.2(b) of Part II of Annex II as regards the feeding of bee colonies;
+
+(d) points 1.9.6.3(b) and (e) of Part II of Annex II as regards the acceptable treatments for the disinfection of apiaries and the methods and treatments to fight against Varroa destructor;
+
+(e) Part II of Annex II by adding detailed rules on livestock production for species other than species regulated in that Part on 17 June 2018, or by amending those added rules, as regards:
+
+(i) derogations as regards the origin of animals;
+
+(ii) nutrition;
+
+(iii) housing and husbandry practices;
+
+(iv) health care;
+
+(v) animal welfare.
+
+3\. The Commission shall, where appropriate, adopt implementing acts regarding Part II of Annex II providing rules on:
+
+(a) the minimum period to be complied with for feeding of suckling animals with maternal milk, referred to in point 1.4.1(g);
+
+(b) the stocking density and the minimum surface for indoor and outdoor areas that are to be complied with for specific livestock species to ensure that the developmental, physiological and ethological needs of animals are met in accordance with points 1.6.3, 1.6.4 and 1.7.2,
+
+(c) the characteristics of and technical requirements for the minimum surface for indoor and outdoor areas;
+
+(d) the characteristics of and technical requirements for buildings and pens for all livestock species other than bees, to ensure that the developmental, physiological and ethological needs of animals are met in accordance with point 1.7.2;
+
+(e) requirements for vegetation and the characteristics of protected facilities and open air areas.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 15 — Production rules for algae and aquaculture animals
+
+1\. Operators that produce algae and aquaculture animals shall comply, in particular, with the detailed production rules set out in Part III of Annex II and in any implementing acts referred to in paragraph 3 of this Article.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending:
+
+(a) point 3.1.3.3 of Part III of Annex II as regards feed for carnivorous aquaculture animals;
+
+(b) point 3.1.3.4 of Part III of Annex II by adding further specific rules on feed for certain aquaculture animals, or by amending those added rules;
+
+(c) point 3.1.4.2 of Part III of Annex II as regards veterinary treatments for aquaculture animals;
+
+(d) Part III of Annex II by adding further detailed conditions per species for broodstock management, breeding and juvenile production, or by amending those added detailed conditions.
+
+3\. The Commission shall, where appropriate, adopt implementing acts laying down detailed rules per species or per group of species on the stocking density, and on the specific characteristics for production systems and containment systems, in order to ensure that the species-specific needs are met.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+4\. For the purpose of this Article and of Part III of Annex II, ‘stocking density’ means the live weight of aquaculture animals per cubic metre of water at any time during the grow-out phase and, in the case of flatfish and shrimp, the weight per square metre of surface.
+
+#### Article 16 — Production rules for processed food
+
+1\. Operators that produce processed food shall comply, in particular, with the detailed production rules set out in Part IV of Annex II and in any implementing acts referred to in paragraph 3 of this Article.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending:
+
+(a) point 1.4 of Part IV of Annex II as regards precautionary measures and preventive measures to be taken by operators;
+
+(b) point 2.2.2 of Part IV of Annex II as regards the types and composition of products and substances that are allowed for use in processed food, as well as conditions under which they may be used;
+
+(c) point 2.2.4 of Part IV of Annex II as regards the calculation of the percentage of agricultural ingredients referred to in points (a)(ii) and (b)(i) of Article 30(5), including the food additives authorised pursuant to Article 24 for use in organic production that are considered as agricultural ingredients for the purpose of such calculations.
+
+Those delegated acts shall not include the possibility of using flavouring substances or flavouring preparations which are neither natural, within the meaning of Article 16(2), (3) and (4) of Regulation (EC) No 1334/2008 of the European Parliament and of the Council ( 20 ), nor organic.
+
+3\. The Commission may adopt implementing acts laying down the techniques authorised in the processing of food products.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 17 — Production rules for processed feed
+
+1\. Operators that produce processed feed shall comply, in particular, with the detailed production rules set out in Part V of Annex II and in any implementing acts referred to in paragraph 3 of this Article.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending point 1.4 of Part V of Annex II by adding further precautionary and preventive measures to be taken by operators, or by amending those added measures.
+
+3\. The Commission may adopt implementing acts laying down the techniques authorised for use in the processing of feed products.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 18 — Production rules for wine
+
+1\. Operators that produce products of the wine sector shall comply, in particular, with the detailed production rules set out in Part VI of Annex II.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending:
+
+(a) point 3.2 of Part VI of Annex II by adding further oenological practices, processes and treatments that are prohibited, or by amending those added elements;
+
+(b) point 3.3. of Part VI of Annex II.
+
+#### Article 19 — Production rules for yeast used as food or feed
+
+1\. Operators that produce yeast to be used as food or feed shall comply, in particular, with the detailed production rules set out in Part VII of Annex II.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending point 1.3 of Part VII of Annex II by adding further detailed yeast production rules, or by amending those added rules.
+
+#### Article 20 — Absence of certain production rules for specific livestock species and species of aquaculture animals
+
+Pending the adoption of:
+
+(a) additional general rules for other livestock species than those regulated in point 1.9 of Part II of Annex II in accordance with point (e) of Article 14(2);
+
+(b) the implementing acts referred to in Article 14(3) for livestock species; or
+
+(c) the implementing acts referred to in Article 15(3) for species or group of species of aquaculture animals;
+
+a Member State may apply detailed national production rules for specific species or groups of species of animals in relation to the elements to be covered by the measures referred to in points (a), (b) and (c), provided that those national rules are in accordance with this Regulation, and provided that they do not prohibit, restrict or impede the placing on the market of products which have been produced outside its territory and which comply with this Regulation.
+
+#### Article 21 — Production rules for products not falling within the categories of products referred to in Articles 12 to 19
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending Annex II by adding detailed production rules, as well as rules on the obligation to convert, for products that do not fall within the categories of products referred to in Articles 12 to 19, or by amending those added rules.
+
+Those delegated acts shall be based on the objectives and principles of organic production laid down in Chapter II and shall comply with the general production rules laid down in Articles 9, 10 and 11 as well as existing detailed production rules laid down for similar products in Annex II. They shall lay down requirements concerning, in particular, the treatments, practices and inputs that are allowed or prohibited, or conversion periods for the products concerned.
+
+2\. In the absence of the detailed production rules referred to in paragraph 1:
+
+(a) operators shall, as regards products referred to in paragraph 1, comply with the principles laid down in Articles 5 and 6, mutatis mutandis with the principles laid down in Article 7, and with the general production rules laid down in Articles 9 to 11;
+
+(b) a Member State may, as regards products referred to in paragraph 1, apply detailed national production rules, provided that those rules are in accordance with this Regulation, and provided that they do not prohibit, restrict or impede the placing on the market of products which have been produced outside its territory and which comply with this Regulation.
+
+#### Article 22 — Adoption of exceptional production rules
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 54 supplementing this Regulation by laying down:
+
+(a) the criteria to determine whether a situation qualifies as catastrophic circumstances deriving from an ‘adverse climatic event’, ‘animal diseases’, an ‘environmental incident’, a ‘natural disaster’ or a ‘catastrophic event’, as defined in points (h), (i), (j), (k) and (l) of Article 2(1) of Regulation (EU) No 1305/2013, respectively, as well as any comparable situation;
+
+(b) specific rules, including possible derogations from this Regulation, on how Member States are to deal with such catastrophic circumstances if they decide to apply this Article; and
+
+(c) specific rules on monitoring and reporting in such cases.
+
+Those criteria and rules shall be subject to the principles of organic production laid down in Chapter II.
+
+2\. Where a Member State has formally recognised an event as a natural disaster as referred to in Article 18(3) or Article 24(3) of Regulation (EU) No 1305/2013, and that event makes it impossible to comply with the production rules laid down in this Regulation, that Member State may grant derogations from the production rules for a limited period until organic production can be re-established, subject to the principles laid down in Chapter II and to any delegated act adopted in accordance with paragraph 1.
+
+3\. Member States may adopt measures in accordance with the delegated act referred to in paragraph 1 to allow organic production to continue or recommence in the event of catastrophic circumstances.
+
+#### Article 23 — Collection, packaging, transport and storage
+
+1\. Operators shall ensure that organic products and in-conversion products are collected, packaged, transported and stored in accordance with the rules set out in Annex III.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending:
+
+(a) Section 2 of Annex III;
+
+(b) Sections 3, 4 and 6 of Annex III by adding further special rules for the transport and reception of the products concerned, or by amending those added rules.
+
+#### Article 24 — Authorisation of products and substances for use in organic production
+
+1\. The Commission may authorise certain products and substances for use in organic production, and shall include any such authorised products and substances in restrictive lists, for the following purposes:
+
+(a) as active substances to be used in plant protection products;
+
+(b) as fertilisers, soil conditioners and nutrients;
+
+(c) as non-organic feed material of plant, algal, animal or yeast origin or as feed material of microbial or mineral origin;
+
+(d) as feed additives and processing aids;
+
+(e) as products for the cleaning and disinfection of ponds, cages, tanks, raceways, buildings or installations used for animal production;
+
+(f) as products for the cleaning and disinfection of buildings and installations used for plant production, including for storage on an agricultural holding;
+
+(g) as products for cleaning and disinfection in processing and storage facilities.
+
+2\. In addition to products and substances authorised in accordance with paragraph 1, the Commission may authorise certain products and substances for use in the production of processed organic food and of yeast used as food or feed, and shall include any such authorised products and substances in restrictive lists, for the following purposes:
+
+(a) as food additives and processing aids;
+
+(b) as non-organic agricultural ingredients to be used for the production of processed organic food;
+
+(c) as processing aids for the production of yeast and yeast products.
+
+3\. The authorisation of the products and substances referred to in paragraph 1 for use in organic production shall be subject to the principles laid down in Chapter II and to the following criteria, which shall be evaluated as a whole:
+
+(a) they are essential for sustained production and for the use for which they are intended;
+
+(b) all of the products and substances concerned are of plant, algal, animal, microbial or mineral origin, except in cases where products or substances from such sources are not available in sufficient quantities or qualities or where alternatives are not available;
+
+(c) in the case of products referred to in point (a) of paragraph 1:
+
+(i) their use is essential for the control of a pest for which other biological, physical or breeding alternatives, cultivation practices or other effective management practices are not available;
+
+(ii) if such products are not of plant, algal, animal, microbial or mineral origin and are not identical to their natural form, their conditions for use preclude any direct contact with the edible parts of the crop;
+
+(d) in the case of products referred to in point (b) of paragraph 1, their use is essential for building or maintaining the fertility of the soil or to fulfil specific nutritional requirements of crops, or for specific soil-conditioning purposes;
+
+(e) in the case of products referred to in points (c) and (d) of paragraph 1:
+
+(i) their use is necessary to maintain animal health, animal welfare and vitality and contributes to an appropriate diet fulfilling the physiological and behavioural needs of the species concerned or their use is necessary to produce or preserve feed because the production or preservation of feed is not possible without having recourse to such substances;
+
+(ii) feed of mineral origin, trace elements, vitamins or provitamins are of natural origin, except in cases where products or substances from such sources are not available in sufficient quantities or qualities or where alternatives are not available;
+
+(iii) the use of non-organic feed material of plant or animal origin is necessary because feed material of plant or animal origin produced in accordance with organic production rules is not available in sufficient quantity;
+
+(iv) the use of non-organic spices, herbs and molasses is necessary because such products are not available in organic form; they have to be produced or prepared without chemical solvents and their use is limited to 1 % of the feed ration for a given species, calculated annually as a percentage of the dry matter of feed from agricultural origin.
+
+4\. The authorisation of the products and substances referred to in paragraph 2 for use in the production of processed organic food or for the production of yeast used as food or feed shall be subject to the principles laid down in Chapter II and to the following criteria, which shall be evaluated as a whole:
+
+(a) alternative products or substances authorised in accordance with this Article or techniques compliant with this Regulation are not available;
+
+(b) it would be impossible to produce or preserve the food or to fulfil given dietary requirements provided for on the basis of Union legislation without having recourse to those products and substances;
+
+(c) they are to be found in nature and may only have undergone mechanical, physical, biological, enzymatic or microbial processes, except in cases where products or substances from such sources are not available in sufficient quantities or qualities;
+
+(d) the organic ingredient is not available in sufficient quantity.
+
+5\. The authorisation of the use of chemically synthesised products and substances, in accordance with paragraphs 1 and 2 of this Article, shall be strictly limited to cases where the use of external inputs referred to in point (g) of Article 5 would contribute to unacceptable impacts on the environment.
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending paragraphs 3 and 4 of this Article by adding further criteria for the authorisation of products and substances referred to in paragraphs 1 and 2 of this Article for use in organic production in general, and in the production of processed organic food in particular, as well as further criteria for the withdrawal of such authorisations, or by amending those added criteria.
+
+7\. Where a Member State considers that a product or substance should be added to or withdrawn from the lists of authorised products and substances referred to in paragraphs 1 and 2, or that the specifications of use referred to in the production rules should be amended, it shall ensure that a dossier giving the reasons for the inclusion, withdrawal or other amendments is officially sent to the Commission and to the other Member States and is made publicly available, subject to Union and national legislation on data protection.
+
+The Commission shall publish any requests referred to in this paragraph.
+
+8\. The Commission shall regularly review the lists referred to in this Article.
+
+The list of non-organic ingredients referred to in point (b) of paragraph 2 shall be reviewed at least once a year.
+
+9\. The Commission shall adopt implementing acts concerning the authorisation or withdrawal of authorisation of products and substances in accordance with paragraphs 1 and 2 that may be used in organic production in general and in the production of processed organic food in particular, and establishing the procedures to be followed for such authorisations and the lists of such products and substances and, where appropriate, their description, compositional requirements and conditions for use.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 25 — Authorisation of non-organic agricultural ingredients for processed organic food by Member States
+
+1\. Where it is necessary in order to ensure access to certain agricultural ingredients, and where such ingredients are not available in organic form in sufficient quantity, a Member State may, at the request of an operator, provisionally authorise the use of non-organic agricultural ingredients for the production of processed organic food on its territory for a period of maximum six months. That authorisation shall apply to all operators in that Member State.
+
+2\. The Member State shall immediately notify the Commission and the other Member States, via a computer system that enables the electronic exchange of documents and information made available by the Commission, of any authorisation granted for its territory in accordance with paragraph 1.
+
+3\. The Member State may prolong the authorisation provided for in paragraph 1 two times for a maximum of six months each, provided that no other Member State has objected by indicating, via the system referred to in paragraph 2, that such ingredients are available in organic form in sufficient quantity.
+
+4\. A control authority or a control body recognised in accordance with Article 46(1) may grant a provisional authorisation, as referred to in paragraph 1 of this Article, for a maximum of six months to operators in third countries that request such an authorisation and that are subject to controls by that control authority or control body, provided that the conditions of that paragraph are fulfilled in the third country concerned. The authorisation may be prolonged for a maximum of two times six months each.
+
+5\. Where, after two prolongations of a provisional authorisation, a Member State considers, on the basis of objective information, that the availability of such ingredients in organic form remains insufficient to meet the qualitative and quantitative needs of operators, it may make a request to the Commission in accordance with Article 24(7).
+
+#### Article 26 — Collection of data concerning the availability on the market of organic and in-conversion plant reproductive material, organic animals and organic aquaculture juveniles
+
+1\. Each Member State shall ensure that a regularly updated database is established for the listing of the organic and in-conversion plant reproductive material, excluding seedlings but including seed potatoes, which is available on its territory.
+
+2\. Member States shall have in place systems that allow operators that market organic or in-conversion plant reproductive material, organic animals or organic aquaculture juveniles, and that are able to supply them in sufficient quantities and within a reasonable period, to make public on a voluntary basis, free of charge, together with their names and contact details, information on the following:
+
+(a) the organic and in-conversion plant reproductive material, such as plant reproductive material of organic heterogeneous material or of organic varieties suitable for organic production, excluding seedlings but including seed potatoes, which is available; the quantity in weight of that material; and the period of the year of its availability; such material shall be listed using at least the Latin scientific name;
+
+(b) the organic animals for which derogation may be provided in accordance with point 1.3.4.4 of Part II of Annex II; the number of available animals categorised by sex; information, if relevant, relating to the different species of animals as regards the breeds and strains available; the races of the animals; the age of the animals; and any other relevant information;
+
+(c) the organic aquaculture juveniles available on the holding and their health status in accordance with Council Directive 2006/88/EC ( 21 ) and the production capacity for each aquaculture species.
+
+3\. Member States may also set up systems which allow operators that market breeds and strains adapted to organic production in accordance with point 1.3.3 of Part II of Annex II or organic pullets and that are able to supply those animals in sufficient quantities and within a reasonable period to make public the relevant information on a voluntary basis, free of charge, together with names and contact details.
+
+4\. Operators that opt to include information on plant reproductive material, animals or aquaculture juveniles in the systems referred to in paragraphs 2 and 3 shall ensure that the information is updated regularly, and shall ensure that the information is withdrawn from the lists once the plant reproductive material, animals or aquaculture juveniles are no longer available.
+
+5\. For the purpose of paragraphs 1, 2 and 3, Member States may continue to use relevant information systems that are already in existence.
+
+6\. The Commission shall make public the link to each of the national databases or systems on a dedicated website of the Commission, in order to allow users to have access to such databases or systems throughout the Union.
+
+7\. The Commission may adopt implementing acts providing:
+
+(a) technical details for establishing and maintaining the databases referred to in paragraph 1 and the systems referred to in paragraph 2;
+
+(b) specifications as regards the collection of information referred to in paragraph 1 and 2;
+
+(c) specifications as regards the arrangements for participation in the databases referred to in paragraph 1 and in the systems referred to in paragraphs 2 and 3; and
+
+(d) details as regards the information to be provided by Member States in accordance with Article 53(6).
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 27 — Obligations and actions in the event of suspicion of non-compliance
+
+Where an operator suspects that a product it has produced, prepared, imported or has received from another operator does not comply with this Regulation, that operator shall, subject to Article 28(2):
+
+(a) identify and separate the product concerned;
+
+(b) check whether the suspicion can be substantiated;
+
+(c) not place the product concerned on the market as an organic or in-conversion product and not use it in organic production, unless the suspicion can be eliminated;
+
+(d) where the suspicion has been substantiated or where it cannot be eliminated, immediately inform the relevant competent authority, or, where appropriate, the relevant control authority or control body, and provide it with available elements, where appropriate;
+
+(e) fully cooperate with the relevant competent authority, or, where appropriate, with the relevant control authority or control body, in verifying and identifying the reasons for the suspected non-compliance.
+
+#### Article 28 — Precautionary measures to avoid the presence of non-authorised products and substances
+
+1\. In order to avoid contamination with products or substances that are not authorised in accordance with the first subparagraph of Article 9(3) for use in organic production, operators shall take the following precautionary measures at every stage of production, preparation and distribution:
+
+(a) put in place and maintain measures that are proportionate and appropriate to identify the risks of contamination of organic production and products with non-authorised products or substances, including systematic identification of critical procedural steps;
+
+(b) put in place and maintain measures that are proportionate and appropriate to avoid risks of contamination of organic production and products with non-authorised products or substances;
+
+(c) regularly review and adjust such measures; and
+
+(d) comply with other relevant requirements of this Regulation that ensure the separation of organic, in-conversion and non-organic products.
+
+2\. Where an operator suspects, due to the presence of a product or substance that is not authorised pursuant to the first subparagraph of Article 9(3) for use in organic production in a product that is intended to be used or marketed as an organic or in-conversion product, that the latter product does not comply with this Regulation, the operator shall:
+
+(a) identify and separate the product concerned;
+
+(b) check whether the suspicion can be substantiated;
+
+(c) not place the product concerned on the market as an organic or in-conversion product and not use it in organic production unless the suspicion can be eliminated;
+
+(d) where the suspicion has been substantiated or where it cannot be eliminated, immediately inform the relevant competent authority, or, where appropriate, the relevant control authority or control body, and provide it with available elements, where appropriate;
+
+(e) fully cooperate with the relevant competent authority, or, where appropriate, with the relevant control authority or control body, in identifying and verifying the reasons for the presence of non-authorised products or substances.
+
+3\. The Commission may adopt implementing acts laying down uniform rules to specify:
+
+(a) the procedural steps to be followed by operators in accordance with points (a) to (e) of paragraph 2 and the relevant documents to be provided by them;
+
+(b) the proportionate and appropriate measures to be adopted and reviewed by operators to identify and avoid risks of contamination in accordance with points (a), (b) and (c) of paragraph 1.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 29 — Measures to be taken in the event of the presence of non-authorised products or substances
+
+1\. Where the competent authority, or, where appropriate, the control authority or control body, receives substantiated information about the presence of products or substances that are not authorised pursuant to the first subparagraph of Article 9(3) for use in organic production, or has been informed by an operator in accordance with point (d) of Article 28(2), or detects such products or substances in an organic or an in-conversion product:
+
+(a) it shall immediately carry out an official investigation in accordance with Regulation (EU) 2017/625 with a view to determining the source and the cause in order to verify compliance with the first subparagraph of Article 9(3) and with Article 28(1); such investigation shall be completed as soon as possible, within a reasonable period, and shall take into account the durability of the product and the complexity of the case;
+
+(b) it shall provisionally prohibit both the placing on the market of the products concerned as organic or in-conversion products and their use in organic production pending the results of the investigation referred to in point (a).
+
+2\. The product concerned shall not be marketed as an organic or in-conversion product or used in organic production where the competent authority, or, where appropriate, the control authority or control body, has established that the operator concerned:
+
+(a) has used products or substances not authorised pursuant to the first subparagraph of Article 9(3) for use in organic production;
+
+(b) has not taken the precautionary measures referred to in Article 28(1); or
+
+(c) has not taken measures in response to relevant previous requests from the competent authorities, control authorities or control bodies.
+
+3\. The operator concerned shall be given an opportunity to comment on the results of the investigation referred to in point (a) of paragraph 1. The competent authority, or, where appropriate, the control authority or control body, shall keep records of the investigation it has carried out.
+
+Where required, the operator concerned shall take such corrective measures as necessary to avoid future contamination.
+
+4\. By 31 December 2025  , the Commission shall present a report to the European Parliament and the Council on the implementation of this Article, on the presence of products and substances not authorised pursuant to the first subparagraph of Article 9(3) for use in organic production and on the assessment of the national rules referred to in paragraph 5 of this Article. That report may be accompanied, where appropriate, by a legislative proposal for further harmonisation.
+
+5\. Member States having in place rules providing for products that contain more than a certain level of products or substances not authorised pursuant to the first subparagraph of Article 9(3) for use in organic production not to be marketed as organic products may continue to apply those rules, provided that those rules do not prohibit, restrict or impede the placing on the market of products produced in other Member States as organic products, where those products were produced in compliance with this Regulation. Member States that make use of this paragraph shall inform the Commission without delay.
+
+6\. The competent authorities shall document the results of the investigations referred to in paragraph 1, as well as any measures they have taken for the purpose of formulating best practices and further measures to avoid the presence of products and substances not authorised pursuant to the first subparagraph of Article 9(3) for use in organic production.
+
+Member States shall make such information available to the other Member States and to the Commission via a computer system that enables the electronic exchange of documents and information made available by the Commission.
+
+7\. Member States may take appropriate measures on their territory to avoid the unintended presence in organic agriculture of products and substances not authorised pursuant to the first subparagraph of Article 9(3) for use in organic production. Such measures shall not prohibit, restrict or impede the placing on the market of products produced in other Member States as organic or in-conversion products, where those products were produced in compliance with this Regulation. Member States that make use of this paragraph shall inform the Commission and the other Member States without delay.
+
+8\. The Commission shall adopt implementing acts laying down uniform rules to specify:
+
+(a) the methodology to be applied by competent authorities, or, where appropriate, by control authorities or control bodies, for the detection and evaluation of the presence of products and substances not authorised pursuant to the first subparagraph of Article 9(3) for use in organic production;
+
+(b) the details and format of the information to be made available by Member States to the Commission and other Member States in accordance with paragraph 6 of this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+9\. By 31 March of each year, Member States shall electronically transmit to the Commission relevant information about cases involving contamination with non-authorised products or substances in the previous year, including information collected at border control posts, concerning the nature of contamination detected, and in particular the cause, the source and the level of contamination as well as the volume and nature of products contaminated. This information shall be collected by the Commission through the computer system made available by the Commission and shall be used to facilitate the formulation of best practices for avoiding contamination.
+
+## CHAPTER IV — LABELLING
+
+#### Article 30 — Use of terms referring to organic production
+
+1\. For the purposes of this Regulation, a product shall be regarded as bearing terms referring to organic production where, in the labelling, advertising material or commercial documents, such a product, its ingredients or feed materials used for its production are described in terms suggesting to the purchaser that the product, ingredients or feed materials have been produced in accordance with this Regulation. In particular, the terms listed in Annex IV and their derivatives and diminutives, such as ‘bio’ and ‘eco’, whether alone or in combination, may be used throughout the Union and in any language listed in that Annex for the labelling and advertising of products referred to in Article 2(1) which comply with this Regulation.
+
+2\. For the products referred to in Article 2(1), the terms referred to in paragraph 1 of this Article shall not be used anywhere in the Union, in any language listed in Annex IV, for the labelling, advertising material or commercial documents of a product which does not comply with this Regulation.
+
+Furthermore, no terms, including terms used in trademarks or company names, or practices shall be used in labelling or advertising if they are liable to mislead the consumer or user by suggesting that a product or its ingredients comply with this Regulation.
+
+3\. Products that have been produced during the conversion period shall not be labelled or advertised as organic products or as in-conversion products.
+
+However, plant reproductive material, food products of plant origin and feed products of plant origin that have been produced during the conversion period, which comply with Article 10(4), may be labelled and advertised as in-conversion products by using the term ‘in-conversion’ or a corresponding term, together with the terms referred to in paragraph 1.
+
+4\. The terms referred to in paragraph 1 and 3 shall not be used for a product for which Union law requires the labelling or advertising to state that the product contains GMOs, consists of GMOs or is produced from GMOs.
+
+5\. For processed food, the terms referred to in paragraph 1 may be used:
+
+(a) in the sales description, and in the list of ingredients where such a list is mandatory pursuant to Union legislation, provided that:
+
+(i) the processed food complies with the production rules set out in Part IV of Annex II and with the rules laid down in accordance with Article 16(3);
+
+(ii) at least 95 % of the agricultural ingredients of the product by weight are organic; and
+
+(iii) in the case of flavourings, they are only used for natural flavouring substances and natural flavouring preparations labelled in accordance with Article 16(2), (3) and (4) of Regulation (EC) No 1334/2008 and all of the flavouring components and carriers of flavouring components in the flavouring concerned are organic;
+
+(b) only in the list of ingredients, provided that:
+
+(i) less than 95 % of the agricultural ingredients of the product by weight are organic, and provided that those ingredients comply with the production rules set out in this Regulation; and
+
+(ii) the processed food complies with the production rules set out in points 1.5, 2.1(a), 2.1(b) and 2.2.1 of Part IV of Annex II, with the exception of the rules on restricted use of non-organic agricultural ingredients set out in point 2.2.1 of Part IV of Annex II, and with the rules laid down in accordance with Article 16(3);
+
+(c) in the sales description and in the list of ingredients, provided that:
+
+(i) the main ingredient is a product of hunting or fishing;
+
+(ii) the term referred to in paragraph 1 is clearly related in the sales description to another ingredient which is organic and different from the main ingredient;
+
+(iii) all other agricultural ingredients are organic; and
+
+(iv) the processed food complies with the production rules set out in points 1.5, 2.1(a), 2.1(b) and 2.2.1 of Part IV of Annex II, with the exception of the rules on restricted use of non-organic agricultural ingredients set out in point 2.2.1 of Part IV of Annex II, and with the rules laid down in accordance with Article 16(3).
+
+The list of ingredients referred to in points (a), (b) and (c) of the first subparagraph shall indicate which ingredients are organic. The references to organic production may only appear in relation to the organic ingredients.
+
+The list of ingredients referred to in points (b) and (c) of the first subparagraph shall include an indication of the total percentage of organic ingredients in proportion to the total quantity of agricultural ingredients.
+
+The terms referred to in paragraph 1, when used in the list of ingredients referred to in points (a), (b), and (c) of the first subparagraph of this paragraph, and the indication of the percentage referred to in the third subparagraph of this paragraph shall appear in the same colour, identical size and style of lettering as the other indications in the list of ingredients.
+
+6\. For processed feed, the terms referred to in paragraph 1 may be used in the sales description and in the list of ingredients, provided that:
+
+(a) the processed feed complies with the production rules set out in Parts II, III and V of Annex II and with the specific rules laid down in accordance with Article 17(3);
+
+(b) all of the ingredients of agricultural origin that are contained in the processed feed are organic; and
+
+(c) at least 95 % of the dry matter of the product are organic.
+
+7\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending:
+
+(a) this Article by adding further rules on the labelling of products listed in Annex I, or by amending those added rules; and
+
+(b) the list of terms set out in Annex IV, taking into account linguistic developments within the Member States.
+
+8\. The Commission may adopt implementing acts to set detailed requirements for the application of paragraph 3 of this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 31 — Labelling of products and substances used in crop production
+
+Notwithstanding the scope of this Regulation as set out in Article 2(1), products and substances used in plant protection products or as fertilisers, soil conditioners or nutrients that have been authorised in accordance with Articles 9 and 24 may bear a reference indicating that those products or substances have been authorised for use in organic production in accordance with this Regulation.
+
+#### Article 32 — Compulsory indications
+
+1\. Where products bear terms as referred to in Article 30(1), including products labelled as in-conversion products in accordance with Article 30(3):
+
+(a) the code number of the control authority or control body to which the operator that carried out the last production or preparation operation is subject shall also appear in the labelling; and
+
+(b) in the case of prepacked food, the organic production logo of the European Union referred to in Article 33 shall also appear on the packaging, except in cases referred to in Article 30(3) and points (b) and (c) of Article 30(5).
+
+2\. Where the organic production logo of the European Union is used, an indication of the place where the agricultural raw materials of which the product is composed have been farmed shall appear in the same visual field as the logo and shall take one of the following forms, as appropriate:
+
+(a) ‘EU Agriculture’, where the agricultural raw material has been farmed in the Union;
+
+(b) ‘non-EU Agriculture’, where the agricultural raw material has been farmed in third countries;
+
+(c) ‘EU/non-EU Agriculture’, where a part of the agricultural raw materials has been farmed in the Union and a part of it has been farmed in a third country.
+
+For the purposes of the first subparagraph, the word ‘Agriculture’ may be replaced by ‘Aquaculture’ where appropriate and the words ‘EU’ and ‘non-EU’ may be replaced or supplemented by the name of a country, or by the name of a country and a region, if all of the agricultural raw materials of which the product is composed have been farmed in that country and, if applicable, in that region.
+
+For the indication of the place where the agricultural raw materials of which the product is composed have been farmed, as referred to in the first and third subparagraphs, small quantities by weight of ingredients may be disregarded, provided that the total quantity of the disregarded ingredients does not exceed 5 % of the total quantity by weight of agricultural raw materials.
+
+The words ‘EU’ or ‘non-EU’ shall not appear in a colour, size and style of lettering that is more prominent than the name of the product.
+
+3\. The indications referred to in paragraphs 1 and 2 of this Article and in Article 33(3) shall be marked in a conspicuous place in such a way as to be easily visible, and shall be clearly legible and indelible.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending paragraph 2 of this Article and Article 33(3) by adding further rules on labelling, or by amending those added rules.
+
+5\. The Commission shall adopt implementing acts relating to:
+
+(a) practical arrangements for the use, presentation, composition and size of the indications referred to in point (a) of paragraph 1 and in paragraph 2 of this Article and in Article 33(3);
+
+(b) the assignment of code numbers to control authorities and control bodies;
+
+(c) the indication of the place where the agricultural raw materials were farmed, in accordance with paragraph 2 of this Article and with Article 33(3).
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 33 — Organic production logo of the European Union
+
+1\. The organic production logo of the European Union may be used in the labelling, presentation and advertising of products which comply with this Regulation.
+
+The organic production logo of the European Union may also be used for information and educational purposes related to the existence and advertising of the logo itself, provided that such use is not liable to mislead the consumer as regards the organic production of specific products, and provided that the logo is reproduced in accordance with the rules set out in Annex V. In such case, the requirements of Article 32(2) and point 1.7 of Annex V shall not apply.
+
+The organic production logo of the European Union shall not be used for processed food as referred to in points (b) and (c) of Article 30(5) and for in-conversion products as referred to in Article 30(3).
+
+2\. Except where used in accordance with the second subparagraph of paragraph 1, the organic production logo of the European Union is an official attestation in accordance with Articles 86 and 91 of Regulation (EU) 2017/625.
+
+3\. The use of the organic production logo of the European Union shall be optional for products imported from third countries. Where that logo appears in the labelling of such products, the indication referred to in Article 32(2) shall also appear in the labelling.
+
+4\. The organic production logo of the European Union shall follow the model set out in Annex V, and shall comply with the rules set out in that Annex.
+
+5\. National logos and private logos may be used in the labelling, presentation and advertising of products which comply with this Regulation.
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending Annex V as regards the organic production logo of the European Union and the rules relating thereto.
+
+## CHAPTER V — CERTIFICATION
+
+#### Article 34 — Certification system
+
+1\. Prior to placing any products on the market as ‘organic’ or as ‘in-conversion’ or prior to the conversion period, operators and groups of operators referred to in Article 36 which produce, prepare, distribute or store organic or in-conversion products, which import such products from a third country or export such products to a third country, or which place such products on the market, shall notify their activity to the competent authorities of the Member State in which it is carried out and in which their undertaking is subject to the control system.
+
+Where the competent authorities have conferred their responsibilities or delegated certain official control tasks or certain tasks related to other official activities to more than one control authority or control body, the operators or groups of operators shall indicate in the notification referred to in the first subparagraph which control authority or control body verifies whether their activity complies with this Regulation and provides the certificate referred to in Article 35(1).
+
+2\. Operators that sell prepacked organic products directly to the final consumer or user shall be exempted from the notification obligation referred to in paragraph 1 of this Article and from the obligation to be in the possession of a certificate referred to in Article 35(2) provided that they do not produce, prepare, store other than in connection with the point of sale, or import such products from a third country, or subcontract such activities to another operator.
+
+3\. Where operators or groups of operators subcontract any of their activities to third parties, both the operators or groups of operators and the third parties to whom those activities have been subcontracted shall comply with paragraph 1, unless the operator or group of operators has declared in the notification referred to in paragraph 1 that it remains responsible as regards organic production and that it has not transferred that responsibility to the subcontractor. In such cases, the competent authority, or, where appropriate, the control authority or control body, shall verify that the subcontracted activities comply with this Regulation, in the context of the control it carries out on the operators or groups of operators that have subcontracted their activities.
+
+4\. Member States may designate an authority or approve a body which is to receive the notifications referred to in paragraph 1.
+
+5\. Operators, groups of operators and subcontractors shall keep records in accordance with this Regulation on the different activities they engage in.
+
+6\. Member States shall keep updated lists containing the names and addresses of operators and groups of operators that have notified their activities in accordance with paragraph 1 and shall make public in an appropriate manner, including by means of links to a single internet website, a comprehensive list of this data, together with the information relating to the certificates provided to those operators and groups of operators in accordance with Article 35(1). When doing so, Member States shall comply with the requirements for the protection of personal data under Regulation (EU) 2016/679 of the European Parliament and of the Council ( 22 ).
+
+7\. Member States shall ensure that any operator or group of operators that complies with this Regulation and, in cases where a fee is collected in accordance with Articles 78 and 80 of Regulation (EU) 2017/625, that pays a reasonable fee covering the cost of controls is entitled to be covered by the control system. Member States shall ensure that any fees that may be collected are made public.
+
+8\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending Annex II as regards the requirements for keeping records.
+
+9\. The Commission may adopt implementing acts to provide details and specifications regarding:
+
+(a) the format and technical means of the notification referred to in paragraph 1;
+
+(b) the arrangements for the publication of the lists referred to in paragraph 6; and
+
+(c) the procedures and the arrangements for publication of the fees referred to in paragraph 7.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 35 — Certificate
+
+1\. Competent authorities, or, where appropriate, control authorities or control bodies, shall provide a certificate to any operator or group of operators that has notified its activity in accordance with Article 34(1) and complies with this Regulation. The certificate shall:
+
+(a) be issued in electronic form wherever possible;
+
+(b) allow at least the identification of the operator or group of operators including the list of the members, the category of products covered by the certificate and its period of validity;
+
+(c) certify that the notified activity complies with this Regulation; and
+
+(d) be issued in accordance with the model set out in Annex VI.
+
+2\. Without prejudice to paragraph 8 of this Article and to Article 34(2), operators and groups of operators shall not place products referred to in Article 2(1) on the market as organic products or in-conversion products unless they are already in possession of a certificate as referred to in paragraph 1 of this Article.
+
+3\. The certificate referred to in this Article shall be an official certificate within the meaning of point (a) of Article 86(1) of Regulation (EU) 2017/625.
+
+4\. An operator or a group of operators shall not be entitled to obtain a certificate from more than one control body in relation to activities carried out in the same Member State regarding the same category of products, including cases in which that operator or group of operators operates at different stages of production, preparation and distribution.
+
+5\. Members of a group of operators shall not be entitled to obtain an individual certificate for any of the activities covered by the certification of the group of operators to which they belong.
+
+6\. Operators shall verify the certificates of those operators that are their suppliers.
+
+7\. For the purposes of paragraphs 1 and 4 of this Article, products shall be classified in accordance with the following categories:
+
+(a) unprocessed plants and plant products, including seeds and other plant reproductive material;
+
+(b) livestock and unprocessed livestock products;
+
+(c) algae and unprocessed aquaculture products;
+
+(d) processed agricultural products, including aquaculture products, for use as food;
+
+(e) feed;
+
+(f) wine;
+
+(g) other products listed in Annex I to this Regulation or not covered by the previous categories.
+
+8\. Member States may exempt from the obligation to be in the possession of a certificate, provided for in paragraph 2, operators that sell unpacked organic products other than feed directly to the final consumer, provided that those operators do not produce, prepare, store other than in connection with the point of sale, or import such products from a third country, or subcontract such activities to a third party, and provided that:
+
+(a) such sales do not exceed 5 000 kg per year;
+
+(b) such sales do not represent an annual turnover in relation to unpacked organic products exceeding EUR 20 000 ; or
+
+(c) the potential certification cost of the operator exceeds 2 % of the total turnover on unpacked organic products sold by that operator.
+
+If a Member State decides to exempt the operators referred to in the first subparagraph, it may set stricter limits than those set in the first subparagraph.
+
+Member States shall inform the Commission and the other Member States of any decision to exempt operators pursuant to the first subparagraph and of the limits up to which such operators are exempted.
+
+9\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending the model of the certificate set out in Annex VI.
+
+10\. The Commission shall adopt implementing acts to provide details and specifications regarding the form of the certificate referred to in paragraph 1 and the technical means by which it is issued.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 36 — Group of operators
+
+1\. Each group of operators shall:
+
+(a) only be composed of members who are farmers or operators that produce algae or aquaculture animals and who in addition may be engaged in processing, preparation or placing on the market of food or feed;
+
+(b) only be composed of members:
+
+(i) of which the individual certification cost represents more than 2 % of each member’s turnover or standard output of organic production and whose annual turnover of organic production is not more than EUR 25 000 or whose standard output of organic production is not more than EUR 15 000 per year; or
+
+(ii) who have each holdings of maximum:
+
+— five hectares,
+
+— 0,5 hectares, in the case of greenhouses, or
+
+— 15 hectares, exclusively in the case of permanent grassland;
+
+(c) be established in a Member State or a third country;
+
+(d) have legal personality;
+
+(e) only be composed of members whose production activities or possible additional activities referred to in point (a) take place in geographical proximity to each other in the same Member State or in the same third country;
+
+(f) set up a joint marketing system for the products produced by the group; and
+
+(g) establish a system for internal controls comprising a documented set of control activities and procedures in accordance with which an identified person or body is responsible for verifying compliance with this Regulation of each member of the group.
+
+The system for internal controls (ICS) shall comprise documented procedures on:
+
+(i) the registration of the members of the group;
+
+(ii) the internal inspections, which include the annual internal physical on-the-spot inspections of each member of the group, and any additional risk-based inspections, in any case scheduled by the ICS manager and conducted by ICS inspectors, whose roles are defined in point (h);
+
+(iii) the approval of new members in an existing group or, where appropriate, the approval of new production units or new activities of existing members upon the approval by the ICS manager on the basis of the internal inspection report;
+
+(iv) the training of the ICS inspectors, which is to take place at least annually and to be accompanied by an assessment of the knowledge acquired by the participants;
+
+(v) the training of members of the group on the ICS procedures and the requirements of this Regulation;
+
+(vi) the control of documents and records;
+
+(vii) the measures in cases of non-compliance detected during the internal inspections, including their follow-up;
+
+(viii) the internal traceability, which shows the origin of the products delivered in the joint marketing system of the group and allows the tracing of all products of all members throughout all stages, such as production, processing, preparation or placing on the market, including estimating and cross-checking the yields of each member of the group;
+
+(h) appoint an ICS manager and one or more ICS inspectors who may be a member of the group. Their positions shall not be combined. The number of ICS inspectors shall be adequate and proportional in particular to the type, structure, size, products, activities and output of organic production of the group. The ICS inspectors shall be competent with regard to the products and activities of the group.
+
+The ICS manager shall:
+
+(i) verify the eligibility of each member of the group regarding the criteria set out in points (a), (b) and (e);
+
+(ii) ensure that there is a written and signed membership agreement between each member and the group, by which the members commit themselves to:
+
+— comply with this Regulation,
+
+— participate in the ICS and comply with the ICS procedures, including the tasks and responsibilities assigned to them by the ICS manager and the obligation for records keeping,
+
+— permit access to production units and premises and be present during the internal inspections carried out by the ICS inspectors and official controls carried out by the competent authority or, where appropriate, the control authority or control body, make available to them all documents and records and countersign the inspection reports,
+
+— accept and implement the measures in cases of non-compliances in accordance with the decision of the ICS manager or the competent authority or, where appropriate, the control authority or control body, within the given time-frame,
+
+— immediately inform the ICS manager on suspected non-compliance;
+
+(iii) develop the ICS procedures and the relevant documents and records, keep them up to date and make them readily available to the ICS inspectors, and where relevant, to the members of the group;
+
+(iv) draw up the list of the members of the group and keep it up to date;
+
+(v) assign tasks and responsibilities to the ICS inspectors;
+
+(vi) be the liaison between the members of the group and the competent authority or, where appropriate, the control authority or control body, including requests for derogations;
+
+(vii) verify annually the conflict of interest statements of the ICS inspectors;
+
+(viii) schedule internal inspections and ensure their adequate implementation in accordance with the ICS manager’s schedule referred to in point (ii) of the second paragraph of point (g);
+
+(ix) ensure adequate trainings for the ICS inspectors and carry out an annual assessment of ICS inspectors’ competences and qualifications;
+
+(x) approve new members or new production units or new activities of existing members;
+
+(xi) decide on measures in case of non-compliance in line with the ICS measures established by documented procedures in accordance with point g and ensure the follow-up of those measures;
+
+(xii) decide to subcontract activities, including the subcontracting of the tasks of ICS inspectors, and sign relevant agreements or contracts.
+
+The ICS inspector shall:
+
+(i) carry out internal inspections of the members of the group according to the schedule and the procedures provided by the ICS manager;
+
+(ii) draft internal inspection reports on the basis of a template and submit it within a reasonable time to the ICS manager;
+
+(iii) submit at appointment a written and signed statement on conflict of interest and update it annually;
+
+(iv) participate in trainings.
+
+2\. Competent authorities, or, where appropriate, control authorities or control bodies, shall withdraw the certificate referred to in Article 35 for the whole group where deficiencies in the set-up or functioning of the system for internal controls referred to in paragraph 1, in particular as regards failures to detect or address non-compliance by individual members of the group of operators, affect the integrity of organic and in-conversion products.
+
+At least the following situations shall be considered as deficiencies in the ICS:
+
+(a) producing, processing, preparing or placing on the market of products from suspended/withdrawn members or production units;
+
+(b) placing on the market of products for which the ICS manager has prohibited the use of reference to organic production in their labelling or advertising;
+
+(c) adding new members to the list of members or changing the activities of existing members without following the internal approval procedure;
+
+(d) not carrying out the annual physical on-the-spot inspection of a member of the group in a given year;
+
+(e) failing to indicate the members which have been suspended or withdrawn in the list of members;
+
+(f) serious deviations in findings between internal inspections carried out by the ICS inspectors and official controls carried out by the competent authority or, where appropriate, the control authority or control body;
+
+(g) serious deficiencies in imposing appropriate measures or carrying out the necessary follow-up in response to non-compliance identified by the ICS inspectors or by the competent authority or, where appropriate, the control authority of control body;
+
+(h) inadequate number of ICS inspectors or inadequate competences of ICS inspectors for the type, structure, size, products, activities and output of organic production of the group.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 54 amending paragraphs 1 and 2 of this Article by adding provisions, or by amending those added provisions, in particular as regards:
+
+(a) the responsibilities of the individual members of a group of operators;
+
+(b) the criteria to determine the geographical proximity of the members of the group, such as the sharing of facilities or sites;
+
+(c) the set-up and functioning of the system for internal controls, including the scope, content and frequency of the controls to be carried out and the criteria to identify deficiencies in the set-up or functioning of the system for internal controls.
+
+4\. The Commission may adopt implementing acts laying down specific rules concerning:
+
+(a) the composition and dimension of a group of operators;
+
+(b) the documents and record-keeping systems, the system for internal traceability and the list of operators;
+
+(c) the exchange of information between a group of operators and the competent authority or authorities, control authorities or control bodies, and between the Member States and the Commission.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+## CHAPTER VI — OFFICIAL CONTROLS AND OTHER OFFICIAL ACTIVITIES
+
+#### Article 37 — Relationship with Regulation (EU) 2017/625 and additional rules for official controls and other official activities in relation to organic production and labelling of organic products
+
+The specific rules of this Chapter shall apply, in addition to the rules laid down in Regulation (EU) 2017/625, save as otherwise provided for in Article 40(2) of this Regulation, and in addition to Article 29 of this Regulation, save as otherwise provided for in Article 41(1) of this Regulation, to the official controls and other official activities performed to verify throughout the entire process at all stages of production, preparation and distribution that the products referred to in Article 2(1) of this Regulation have been produced in compliance with this Regulation.
+
+#### Article 38 — Additional rules on official controls and on action to be taken by the competent authorities
+
+1\. Official controls performed in accordance with Article 9 of Regulation (EU) 2017/625 for the verification of compliance with this Regulation shall include, in particular:
+
+(a) the verification of the application by operators of preventive and precautionary measures, as referred to in Article 9(6) and in Article 28 of this Regulation, at every stage of production, preparation and distribution;
+
+(b) where the holding includes non-organic or in-conversion production units, the verification of the records and of the measures or procedures or arrangements in place to ensure the clear and effective separation between organic, in-conversion and non-organic production units as well as between the respective products produced by those units, and of the substances and products used for organic, in-conversion and non-organic production units; such verification shall include checks on parcels for which a previous period was recognised retroactively as part of the conversion period, and checks on the non-organic production units;
+
+(c) where organic, in-conversion and non-organic products are collected simultaneously by operators, are prepared or stored in the same preparation unit, area or premises, or are transported to other operators or units, the verification of the records and of the measures, procedures or arrangements in place to ensure that operations are carried out separated by place or time, that suitable cleaning measures and, where appropriate, measures to prevent substitution of products are implemented, that organic products and in-conversion products are identified at all times and that organic, in-conversion and non-organic products are stored, before and after the preparation operations, separated by place or time from each other;
+
+(d) the verification of the set-up and functioning of the internal control system of groups of operators;
+
+(e) where operators are exempted from the notification obligation in accordance with Article 34(2) of this Regulation or from the obligation to be in the possession of a certificate in accordance with Article 35(8) of this Regulation, the verification that the requirements for that exemption have been fulfilled and the verification of the products sold by those operators.
+
+2\. Official controls performed in accordance with Article 9 of Regulation (EU) 2017/625 for the verification of compliance with this Regulation shall be performed throughout the entire process at all stages of production, preparation and distribution on the basis of the likelihood of non-compliance as defined in point (57) of Article 3 of this Regulation, which shall be determined taking into account, in addition to the elements referred to in Article 9 of Regulation (EU) 2017/625, in particular the following elements:
+
+(a) the type, size and structure of the operators and groups of operators;
+
+(b) the length of time during which operators and groups of operators have been involved in organic production, preparation and distribution;
+
+(c) the results of the controls performed in accordance with this Article;
+
+(d) the point in time relevant for the activities carried out;
+
+(e) the product categories;
+
+(f) the type, quantity and value of products and their development over time;
+
+(g) the possibility of commingling of products or contamination with non-authorised products or substances;
+
+(h) the application of derogations or exceptions to the rules by operators and groups of operators;
+
+(i) the critical points for non-compliance and the likelihood of non-compliance at every stage of production, preparation and distribution;
+
+(j) subcontracting activities.
+
+3\. In any case, all operators and groups of operators, with the exception of those referred to in Articles 34(2) and 35(8), shall be subject to a verification of compliance at least once a year.
+
+The verification of compliance shall include a physical on-the-spot inspection, except where the following conditions have been satisfied:
+
+(a) the previous controls of the operator or group of operators concerned have not revealed any non-compliance affecting the integrity of organic or in-conversion products during at least three consecutive years; and
+
+(b) the operator or group of operators concerned has been assessed on the basis of the elements referred to in paragraph 2 of this Article and in Article 9 of Regulation (EU) 2017/625 as presenting a low likelihood of non-compliance.
+
+In this case, the period between two physical on-the-spot inspections shall not exceed 24 months.
+
+4\. Official controls performed in accordance with Article 9 of Regulation (EU) 2017/625 for the verification of compliance with this Regulation shall:
+
+(a) be performed in accordance with Article 9(4) of Regulation (EU) 2017/625 while ensuring that a minimum percentage of all official controls of operators or groups of operators are carried out without prior notice;
+
+(b) ensure that a minimum percentage of additional controls to those referred in paragraph 3 of this Article are carried out;
+
+(c) be carried out by taking a minimum number of the samples that have been taken in accordance with point (h) of Article 14 of Regulation (EU) 2017/625;
+
+(d) ensure that a minimum number of operators that are members of a group of operators are controlled in connection with the verification of compliance referred to in paragraph 3 of this Article.
+
+5\. The delivery or renewal of the certificate referred to in Article 35(1) shall be based on the results of the verification of compliance referred to in paragraphs 1 to 4 of this Article.
+
+6\. The written record to be drawn up regarding each official control that has been performed to verify compliance with this Regulation in accordance with Article 13(1) of Regulation (EU) 2017/625 shall be countersigned by the operator or groups of operators as confirmation of their receipt of that written record.
+
+7\. Article 13(1) of Regulation (EU) 2017/625 shall not apply to audits and inspections carried out by competent authorities in the context of their supervisory activities over control bodies to which certain official control tasks or certain tasks related to other official activities have been delegated.
+
+8\. The Commission is empowered to adopt delegated acts in accordance with Article 54:
+
+(a) supplementing this Regulation by laying down specific criteria and conditions for the performance of official controls conducted to ensure the traceability at all stages of production, preparation and distribution, and compliance with this Regulation, concerning:
+
+(i) checks of documentary accounts;
+
+(ii) controls performed on specific categories of operators;
+
+(iii) where appropriate, the period within which the controls provided for in this Regulation, including the physical on-the-spot inspections referred to in paragraph 3 of this Article, are to be performed and the particular premises in or area on which they are to be performed;
+
+(b) amending paragraph 2 of this Article by adding further elements based on practical experience, or by amending those added elements.
+
+9\. The Commission may adopt implementing acts to specify:
+
+(a) the minimum percentage of all official controls of operators or groups of operators that are to be carried out without prior notice as referred to in point (a) of paragraph 4;
+
+(b) the minimum percentage of additional controls referred to in point (b) of paragraph 4;
+
+(c) the minimum number of samples referred to in point (c) of paragraph 4;
+
+(d) the minimum number of operators that are members of a group of operators referred to in point (d) of paragraph 4.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 39 — Additional rules on actions to be taken by the operators and groups of operators
+
+1\. In addition to the obligations laid down in Article 15 of Regulation (EU) 2017/625, operators and groups of operators shall:
+
+(a) keep records to demonstrate their compliance with this Regulation;
+
+(b) make all declarations and other communications that are necessary for official controls;
+
+(c) take relevant practical measures to ensure compliance with this Regulation;
+
+(d) provide, in form of a declaration to be signed and updated as necessary:
+
+(i) the full description of the organic or in-conversion production unit and of the activities to be performed in accordance with this Regulation;
+
+(ii) the relevant practical measures to be taken to ensure compliance with this Regulation;
+
+(iii) an undertaking:
+
+— to inform in writing and without undue delay buyers of the products and to exchange relevant information with the competent authority, or, where appropriate, with the control authority or control body, in the event that a suspicion of non-compliance has been substantiated, that a suspicion of non-compliance cannot be eliminated, or that non-compliance that affects the integrity of the products in question has been established,
+
+— to accept the transfer of the control file in the case of change of control authority or control body or, in the case of withdrawal from organic production, the keeping of the control file for at least five years by the last control authority or control body,
+
+— to immediately inform the competent authority or the authority or body designated in accordance with Article 34(4) in the event of withdrawal from organic production, and
+
+— to accept the exchange of information among those authorities or bodies in the event that subcontractors are subject to controls by different control authorities or control bodies.
+
+2\. The Commission may adopt implementing acts to provide details and specifications regarding:
+
+(a) the records for demonstrating compliance with this Regulation;
+
+(b) the declarations and other communications that are necessary for official controls;
+
+(c) the relevant practical measures for ensuring compliance with this Regulation.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 40 — Additional rules on the delegation of official control tasks and tasks related to other official activities
+
+1\. Competent authorities may delegate to control bodies certain official control tasks and certain tasks related to other official activities only if the following conditions, in addition to those set out in Chapter III of Regulation (EU) 2017/625, are satisfied:
+
+(a) the delegation contains a detailed description of the delegated official control tasks and tasks related to other official activities, including reporting obligations and other specific obligations, and of the conditions under which the control body may carry them out. In particular, the control body shall have submitted the following to the competent authorities for prior approval:
+
+(i) its risk assessment procedure, which is to determine, in particular, the basis for the intensity and frequency of the verification of compliance of the operators and groups of operators, which is to be established on the basis of the elements referred to in Article 9 of Regulation (EU) 2017/625 and of Article 38 of this Regulation, and which is to be followed for official controls on operators and groups of operators;
+
+(ii) the standard control procedure, which is to contain a detailed description of the control measures that the control body undertakes to apply to the operators and groups of operators that are subject to its controls;
+
+(iii) a list of measures that are in conformity with the common catalogue referred to in Article 41(4), and that are to be applied to operators and groups of operators in cases of suspected or established non-compliance;
+
+(iv) the arrangements for the effective monitoring of the official control tasks and tasks related to other official activities carried out in relation to operators and groups of operators and the arrangements for reporting on those tasks.
+
+The control body shall notify subsequent amendment of the elements referred to in points (i) to (iv) to the competent authority;
+
+(b) those competent authorities have procedures and arrangements in place to ensure the supervision of control bodies, including to verify that the delegated tasks are carried out effectively, independently and objectively, in particular as regards the intensity and frequency of the verification of compliance.
+
+At least once a year, competent authorities shall, pursuant to point (a) of Article 33 of Regulation (EU) 2017/625, organise audits of the control bodies to whom they have delegated official control tasks or tasks related to other official activities.
+
+2\. By way of derogation from Article 31(3) of Regulation (EU) 2017/625, competent authorities may delegate to a control body the decision concerning the tasks provided for in point (b) of Article 138(1) and in Article 138(2) and (3) of that Regulation.
+
+3\. For the purpose of point (b)(iv) of Article 29 of Regulation (EU) 2017/625, the standard for the delegation of certain official control tasks and certain tasks related to other official activities to verify compliance with this Regulation which is relevant in relation to the scope of this Regulation is the most recently notified version of the international harmonised standard for ‘Conformity assessment – Requirements for bodies certifying products, processes and services’, the reference of which has been published in the Official Journal of the European Union.
+
+4\. Competent authorities shall not delegate the following official control tasks and tasks related to other official activities to control bodies:
+
+(a) the supervision and audit of other control authorities or control bodies;
+
+(b) the power to grant derogations other than derogations for the use of plant reproductive material not obtained from organic production;
+
+(c) the authority to receive notifications of activities by operators or groups of operators under Article 34(1) of this Regulation;
+
+(d) the assessment of the likelihood of non-compliance with the provisions of this Regulation that determine the frequency with which physical checks are to be performed on organic consignments prior to their release for free circulation into the Union in accordance with Article 54 of Regulation (EU) 2017/625;
+
+(e) the establishment of the common catalogue of measures referred to in Article 41(4) of this Regulation.
+
+5\. Competent authorities shall not delegate official control tasks or tasks related to other official activities to natural persons.
+
+6\. Competent authorities shall ensure that information received from control bodies pursuant to Article 32 of Regulation (EU) 2017/625 and information on the measures applied by control bodies in the case of established or likely non-compliance is collected and used by the competent authorities in order to supervise the activities of those controls bodies.
+
+7\. Where a competent authority has fully or partially withdrawn the delegation of certain official control tasks or certain tasks related to other official activities in accordance with point (b) of Article 33 of Regulation (EU) 2017/625, it shall decide whether any certificates issued by the control bodies concerned before the date of that partial or full withdrawal are to remain valid, and shall inform the operators concerned of that decision.
+
+8\. Without prejudice to point (b) of Article 33 of Regulation (EU) 2017/625, before fully or partly withdrawing the delegation of official control tasks or tasks related to other official activities in the cases referred to in that point, competent authorities may fully or partly suspend that delegation:
+
+(a) for a period that shall not exceed 12 months, during which the control body is to remedy the shortcomings identified during audits and inspections or to address the non-compliance about which information was shared with other control authorities and control bodies, with competent authorities as well as with the Commission in accordance with Article 43 of this Regulation; or
+
+(b) for the period during which the accreditation referred to in point (b)(iv) of Article 29 of Regulation (EU) 2017/625, in connection with Article 40(3) of this Regulation, is suspended.
+
+Where the delegation of official control tasks or tasks related to other official activities has been suspended, the control bodies concerned shall not issue certificates referred to in Article 35 for those parts for which the delegation has been suspended. Competent authorities shall decide whether any certificates issued by the control bodies concerned before the date of that partial or full suspension are to remain valid, and shall inform the operators concerned of that decision.
+
+Without prejudice to Article 33 of Regulation (EU) 2017/625, the competent authorities shall lift the suspension of the delegation of official control tasks or tasks related to other official activities as soon as possible once the control body has remedied the shortcomings or non-compliances referred to in point (a) of the first subparagraph or once the accreditation body has lifted the suspension of the accreditation referred to in point (b) of the first subparagraph.
+
+9\. Where a control body to whom competent authorities have delegated certain official control tasks or certain tasks related to other official activities has also been recognised by the Commission in accordance with Article 46(1) of this Regulation to carry out control activities in third countries, and the Commission intends to withdraw or has withdrawn the recognition of that control body, competent authorities shall organise audits or inspections on the control body as regards its activities in the Member State(s) concerned in accordance with point (a) of Article 33 of Regulation (EU) 2017/625.
+
+10\. The control bodies shall transmit to the competent authorities:
+
+(a) a list of the operators which were subject to their controls on 31 December of the previous year by 31 January of each year; and
+
+(b) information on the official controls and other official activities carried out in the previous year to support the preparation of the part on organic production and labelling of organic products of the annual report referred to in Article 113 of Regulation (EU) 2017/625 by 31 March of each year.
+
+11\. The Commission is empowered to adopt delegated acts in accordance with Article 54 supplementing this Regulation as regards conditions for the delegation of official control tasks and tasks related to other official activities to control bodies additional to the conditions laid down in paragraph 1 of this Article.
+
+#### Article 41 — Additional rules on actions in the event of suspected and established non-compliance, and common catalogue of measures
+
+1\. Subject to Article 29, where a competent authority, or, where appropriate, a control authority or control body, suspects or receives substantiated information, including information from other competent authorities, or, where appropriate, from other control authorities or control bodies, that an operator intends to use or to place on the market a product which may not be in compliance with this Regulation but which bears terms referring to the organic production, or where such competent authority, control authority or control body has been informed by an operator of a suspicion of non-compliance in accordance with Article 27:
+
+(a) it shall immediately carry out an official investigation in accordance with Regulation (EU) 2017/625 with a view to verifying compliance with this Regulation; such investigation shall be completed as soon as possible, within a reasonable period, and shall take into account the durability of the product and the complexity of the case;
+
+(b) it shall provisionally prohibit both the placing on the market of the products concerned as organic or in-conversion products and their use in organic production pending the results of the investigation referred to in point (a). Before taking such a decision, the competent authority, or, where appropriate, the control authority or control body, shall give the operator an opportunity to comment.
+
+2\. In the event that the results of the investigation referred to in point (a) of paragraph 1 do not show any non-compliance affecting the integrity of organic or in-conversion products, the operator shall be allowed to use the products concerned or to place them on the market as organic or in-conversion products.
+
+3\. Member States shall take any measures, and provide for any necessary sanctions, to prevent fraudulent use of the indications referred to in Chapter IV of this Regulation.
+
+4\. Competent authorities shall provide a common catalogue of measures for cases of suspected non-compliance and established non-compliance to be applied in their territory, including by control authorities and control bodies.
+
+5\. The Commission may adopt implementing acts to specify uniform arrangements for the cases where competent authorities are to take measures in relation to suspected or established non-compliance.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 42 — Additional rules on measures in the event of non-compliance affecting integrity
+
+1\. In the event of non-compliance affecting the integrity of organic or in-conversion products throughout any of the stages of production, preparation and distribution, for example as result of the use of non-authorised products, substances or techniques, or commingling with non-organic products, competent authorities, and, where appropriate, control authorities and control bodies, shall ensure, in addition to the measures to be taken in accordance with Article 138 of Regulation (EU) 2017/625, that no reference is made to organic production in the labelling and advertising of the entire lot or production run concerned.
+
+2\. In the event of serious, or repetitive or continued non-compliance, competent authorities, and, where appropriate, control authorities and control bodies, shall ensure that the operators or the groups of operators concerned, in addition to the measures laid down in paragraph 1 and any appropriate measures taken in particular in accordance with Article 138 of Regulation (EU) 2017/625, are prohibited from marketing products which refer to organic production for a given period, and that their certificate referred to in Article 35 be suspended or withdrawn, as appropriate.
+
+#### Article 43 — Additional rules on the exchange of information
+
+1\. In addition to the obligations laid down in Article 105(1) and Article 106(1) of Regulation (EU) 2017/625, competent authorities shall immediately share information with other competent authorities, as well as with the Commission, on any suspicion of non–compliance that affects the integrity of organic or in-conversion products.
+
+Competent authorities shall share that information with other competent authorities and the Commission via a computer system that enables the electronic exchanges of documents and information made available by the Commission.
+
+2\. In cases where suspected or established non-compliance has been identified with regard to products under the control of other control authorities or control bodies, control authorities and control bodies shall immediately inform those other control authorities or control bodies.
+
+3\. Control authorities and control bodies shall exchange other relevant information with other control authorities and control bodies.
+
+4\. Upon receiving a request for information that is justified by the need to guarantee that a product has been produced in accordance with this Regulation, control authorities and control bodies shall exchange with other competent authorities, as well as with the Commission, information on the results of their controls.
+
+5\. Competent authorities shall exchange information on the supervision of the control bodies with national accreditation bodies as defined in point (11) of Article 2 of Regulation (EC) No 765/2008 of the European Parliament and of the Council ( 23 ).
+
+6\. Competent authorities shall take appropriate measures and establish documented procedures in order to ensure that information about the results of controls is communicated to the paying agency in accordance with its needs for the purpose of Article 58 of Regulation (EU) No 1306/2013 of the European Parliament and of the Council ( 24 ) and the acts adopted on the basis of that Article.
+
+7\. The Commission may adopt implementing acts to specify the information to be provided by the competent authorities, control authorities and control bodies in charge of the official controls and other official activities in accordance with this Article, the relevant recipients of that information and the procedures in accordance with which this information is to be provided, including the functionalities of the computer system referred to in paragraph 1.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+## CHAPTER VII — TRADE WITH THIRD COUNTRIES
+
+#### Article 44 — Export of organic products
+
+1\. A product may be exported from the Union as an organic product and may bear the organic production logo of the European Union, provided that it complies with the rules for organic production under this Regulation.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 supplementing this Regulation as regards documents intended for customs authorities in third countries, in particular as regards the issuing of organic export certificates in electronic form wherever possible and the provision of assurances that exported organic products comply with this Regulation.
+
+#### Article 45 — Import of organic and in-conversion products
+
+1\. A product may be imported from a third country for the purpose of placing that product on the market within the Union as an organic product or as an in-conversion product, provided that the following three conditions are met:
+
+(a) the product is a product as referred to in Article 2(1);
+
+(b) one of the following applies:
+
+(i) the product complies with Chapters II, III and IV of this Regulation, and all operators and groups of operators referred to in Article 36, including exporters in the third country concerned, have been subject to controls by control authorities or control bodies recognised in accordance with Article 46, and those authorities or bodies have provided all such operators, groups of operators and exporters with a certificate confirming that they comply with this Regulation;
+
+(ii) in cases where the product comes from a third country which is recognised in accordance with Article 47, that product complies with the conditions laid down in the relevant trade agreement; or
+
+(iii) in cases where the product comes from a third country which is recognised in accordance with Article 48, that product complies with the equivalent production and control rules of that third country and is imported with a certificate of inspection confirming this compliance that was issued by the competent authorities, control authorities or control bodies of that third country; and
+
+(c) the operators in third countries are able at any time to provide the importers and the national authorities in the Union and in those third countries with information allowing the identification of the operators that are their suppliers and the control authorities or control bodies of those suppliers, with a view to ensuring the traceability of the organic or in-conversion product concerned. That information shall also be made available to the control authorities or control bodies of the importers.
+
+2\. The Commission may, in accordance with the procedure set out in Article 24(9), grant specific authorisations for the use of products and substances in third countries and in the outermost regions of the Union, taking into account differences in the ecological balance in plant or animal production, specific climatic conditions, traditions and local conditions in those areas. Such specific authorisations may be granted for a renewable period of two years and shall be subject to the principles laid down in Chapter II and to the criteria set out in Article 24(3) and (6).
+
+3\. When providing for the criteria for determining whether a situation qualifies as catastrophic circumstances, and when laying down specific rules on how to deal with such circumstances in accordance with Article 22, the Commission shall take into account differences in the ecological balance, climate and local conditions in third countries and in the outermost regions of the Union.
+
+4\. The Commission shall adopt implementing acts to lay down specific rules concerning the content of the certificates referred to in point (b) of paragraph 1, the procedure to be followed for their issuance, their verification and the technical means by which the certificate is issued, in particular as regards the role of competent authorities, control authorities and control bodies, ensuring the traceability and compliance of imported products intended to be placed on the Union market as organic products or as in-conversion products as referred to in paragraph 1.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+5\. Compliance with the conditions and measures for the import of organic products and in-conversion products referred to in paragraph 1 into the Union shall be ascertained at border control posts, in accordance with Article 47(1) of Regulation (EU) 2017/625. The frequency of the physical checks referred to in Article 49(2) of that Regulation shall depend on the likelihood of non-compliance as defined in point (57) of Article 3 of this Regulation.
+
+#### Article 46 — Recognition of control authorities and control bodies
+
+1\. The Commission may adopt implementing acts to recognise control authorities and control bodies that are competent to carry out controls and to issue organic certificates in third countries, to withdraw the recognition of such control authorities and control bodies, and to establish a list of recognised control authorities and control bodies.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+2\. Control authorities and control bodies shall be recognised in accordance with paragraph 1 for the control of the import of the categories of products listed in Article 35(7) if they fulfil the following criteria:
+
+(a) they are legally established in one Member State or third country;
+
+(b) they have the capacity to carry out controls to ensure that the conditions set out in points (a), (b)(i) and (c) of Article 45(1) and in this Article are met in relation to organic products and in-conversion products intended for import into the Union, without delegating control tasks; for the purposes of this point, control tasks carried out by persons working under an individual contract or a formal agreement that place them under the management control and the procedures of the contracting control authorities or control bodies shall not be considered as delegation, and the prohibition to delegate control tasks shall not apply to sampling;
+
+(c) they offer adequate guarantees of objectivity and impartiality and are free from any conflict of interest as regards the exercise of their control tasks; in particular, they have procedures in place ensuring that the staff performing controls and other actions is free from any conflict of interest, and that the operators are not inspected by the same inspectors for more than 3 years consecutively;
+
+(d) in the case of control bodies, they are accredited for the purpose of their recognition in accordance with this Regulation by only one accreditation body under the relevant harmonised standard for ‘Conformity assessment – Requirements for bodies certifying products, processes and services’, the reference of which has been published in the Official Journal of the European Union;
+
+(e) they have the expertise, equipment and infrastructure required to carry out control tasks, and have a sufficient number of suitable qualified and experienced staff;
+
+(f) they have the capacity and the competency to carry out their certification and control activities in accordance with the requirements of this Regulation and in particular Commission Delegated Regulation (EU) 2021/1698 ( 25 ) for each type of operator (single operator or group of operators) in each third country and for each category of products they want to be recognised for;
+
+(g) they have procedures and arrangements in place to ensure the impartiality, the quality, the consistency, the effectiveness and the appropriateness of controls and other actions performed by them;
+
+(h) they have sufficient qualified and experienced staff so that controls and other actions can be performed effectively and in due time;
+
+(i) they have appropriate and properly maintained facilities and equipment to ensure that staff can perform controls and other actions effectively and in due time;
+
+(j) they have procedures in place in order to ensure that their staff have access to the premises of, and documents kept by operators so as to be able to accomplish their tasks;
+
+(k) they have internal skills, training and procedures suitable to perform effective controls, including inspections, on operators as well as on the internal control system of a group of operators, if any;
+
+(l) their previous recognition for a specific third country and/or for a category of products has not been withdrawn in accordance with paragraph 2a or their accreditation has not been withdrawn or suspended by any accreditation body in accordance with its procedures for the suspension or withdrawal established in accordance with the relevant international standard, in particular the International Organisation for Standardisation (ISO) standard 17011 – Conformity assessment – general requirements for accreditation bodies accrediting conformity assessment bodies, during the 24 months preceding:
+
+(i) their request for recognition for the same third country and/or for the same category of products, except where the previous recognition was withdrawn in accordance with point (k) of paragraph 2a;
+
+(ii) their request for an extension of the scope of recognition to an additional third country in accordance with Article 2 of Delegated Regulation (EU) 2021/1698, except where the previous recognition was withdrawn in accordance with point (k) of paragraph 2a of this Article;
+
+(iii) their request for an extension of the scope of recognition to an additional category of products in accordance with Article 2 of Delegated Regulation (EU) 2021/1698;
+
+(m) in the case of control authorities, they are public administrative organisations in the third country for which they request recognition;
+
+(n) they meet the procedural requirements laid down in Chapter I of Delegated Regulation (EU) 2021/1698; and
+
+(o) they meet any additional criteria that may be laid down in a delegated act adopted pursuant to paragraph 7.
+
+2a. The Commission may withdraw the recognition of a control authority or control body for a specific third country and/or a category of products if:
+
+(a) one of the recognition criteria set out in paragraph 2 is no longer met;
+
+(b) the Commission has not received the annual report referred to in Article 4 of Delegated Regulation (EU) 2021/1698 by the deadline specified in that Article or the information included in the annual report is incomplete, inaccurate or does not comply with the requirements set out in that Regulation;
+
+(c) the control authority or control body does not make available or does not communicate all the information related to the technical dossier referred to in paragraph 4, to the control system applied by it, or to the up-to-date list of operators or groups of operators or to the organic products covered by the scope of its recognition;
+
+(d) the control authority or control body does not notify the Commission within 30 calendar days of changes to its technical dossier referred to in paragraph 4;
+
+(e) the control authority or control body does not provide information requested by the Commission or by a Member State within the deadlines set, or the information is incomplete, inaccurate or does not comply with the requirements set out in this Regulation, in Delegated Regulation (EU) 2021/1698 and in an implementing act to be adopted pursuant to paragraph 8, or does not cooperate with the Commission, in particular during the investigations of a non-compliance;
+
+(f) the control authority or control body does not agree to an on-the-spot examination or audit initiated by the Commission;
+
+(g) the result of the on-the-spot examination or audit indicates a systematic malfunctioning of control measures or the control authority or control body is unable to implement all the recommendations made by the Commission after the on-the-spot examination or audit, in their proposed action plan submitted to the Commission;
+
+(h) the control authority or control body fails to take adequate corrective measures in response to the non-compliances and infringements observed within a deadline set by the Commission according to the severity of the situation, which shall not be shorter than 30 calendar days;
+
+(i) in case an operator changes its control authority or control body, the control authority or control body does not communicate to the new control authority or control body the relevant elements of the control file, including written records, of the operator within a maximum of 30 calendar days after having received the request for transfer from the operator or the new control authority or control body;
+
+(j) there is a risk for the consumer to be misled about the true nature of the products covered by the scope of the recognition; or
+
+(k) the control authority or control body has not certified any operator for 48 consecutive months in the third country for which it is recognised.
+
+3\. The accreditation referred to in point (d) of paragraph 2 may only be granted by:
+
+(a) a national accreditation body in the Union in accordance with Regulation (EC) No 765/2008; or
+
+(b) an accreditation body outside the Union that is a signatory of a multilateral recognition arrangement under the auspices of the International Accreditation Forum.
+
+4\. Control authorities and control bodies shall submit a request for recognition to the Commission. Such request shall consist of a technical dossier containing all information that is necessary to ensure that the criteria set out in paragraph 2 are met.
+
+The control authorities shall provide the latest assessment report issued by the competent authority, and the control bodies shall provide the accreditation certificate issued by the accreditation body. Where appropriate, control authorities or control bodies shall also provide latest reports on the regular on-the-spot evaluation, surveillance and multiannual re-assessment of their activities.
+
+5\. Based on the information referred to under paragraph 4 and on any other relevant information relating to the control authority or control body, the Commission shall ensure appropriate supervision of the recognised control authorities and control bodies by regularly reviewing their performance and recognition. For the purposes of that supervision, the Commission may request additional information from the accreditation bodies or the competent authorities, as appropriate.
+
+6\. The nature of the supervision referred to in paragraph 5 shall be determined on the basis of an assessment of the likelihood of non-compliance, taking into account, in particular, the activity of the control authority or control body, the type of products and operators under its control and the changes in the production rules and control measures.
+
+The recognition of control authorities or of control bodies referred to in paragraph 1 shall in particular be withdrawn without delay, in accordance with the procedure referred to in that paragraph, where serious or repetitive infringements as regards the certification or the controls and actions laid down in accordance with paragraph 8 have been detected and where the control authority or control body concerned has failed to take appropriate and timely remedial action in reaction to a request by the Commission within a period determined by the Commission. Such period shall be determined in accordance with the severity of the problem and in general shall not be less than 30 days.
+
+7\. The Commission is empowered to adopt delegated acts in accordance with Article 54:
+
+(a) amending paragraph 2 of this Article by adding further criteria to those laid down therein for the recognition of the control authorities and control bodies referred to in paragraph 1 of this Article and for the withdrawal of such recognition, or by amending those added criteria;
+
+(b) supplementing this Regulation as regards:
+
+(i) the exercise of the supervision of the control authorities and control bodies recognised by the Commission in accordance with paragraph 1, including on-the-spot examinations; and
+
+(ii) the controls and other actions to be performed by those control authorities and control bodies.
+
+8\. The Commission may adopt implementing acts to ensure the application of the measures to be taken in relation to cases of suspected or established non-compliance, in particular those affecting the integrity of organic or in-conversion products imported under the recognition provided for in this Article. Such measures may consist in particular in the verification of the integrity of organic or in-conversion products before placing the products on the market within the Union and, where appropriate, in the suspension of the authorisation for the placing on the market of such products within the Union as organic products or in-conversion products.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+9\. On duly justified imperative grounds of urgency relating to unfair practices or practices which are incompatible with the principles and rules on organic production, the protection of consumers’ confidence or the protection of fair competition between operators, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 55(3) to take the measures referred to in paragraph 8 of this Article or to decide on the withdrawal of the recognition of the control authorities and control bodies referred to in paragraph 1 of this Article.
+
+#### Article 47 — Equivalence under a trade agreement
+
+A recognised third country referred to in point (b)(ii) of Article 45(1) is a third country which the Union has recognised under a trade agreement as having a system of production meeting the same objectives and principles by applying rules which ensure the same level of assurance of conformity as those of the Union.
+
+#### Article 48 — Equivalence under Regulation (EC) No 834/2007
+
+1\. A recognised third country referred to in point (b)(iii) of Article 45(1) is a third country which has been recognised for the purposes of equivalence under Article 33(2) of Regulation (EC) No 834/2007, including those recognised under the transitional measure provided for in Article 58 of this Regulation.
+
+That recognition shall expire on 31 December 2026  .
+
+2\. On the basis of annual reports to be sent to the Commission, by 31 March of each year, by the third countries referred to in paragraph 1 regarding the implementation and enforcement of the control measures established by them, and in the light of any other information received, the Commission shall ensure appropriate supervision of the recognised third countries by regularly reviewing their recognition. For this purpose, the Commission may request the assistance of Member States. The nature of the supervision shall be determined on the basis of an assessment of the likelihood of non-compliance, taking into account in particular the volume of exports to the Union from the third country concerned, the results of the monitoring and supervisory activities carried out by the competent authority and the results of previous controls. The Commission shall regularly report to the European Parliament and the Council on the outcome of its review.
+
+3\. The Commission shall, by means of an implementing act, establish a list of the third countries referred to in paragraph 1 and may amend that list by means of implementing acts.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 54 supplementing this Regulation as regards the information to be sent by the third countries listed in accordance with paragraph 3 of this Article which is necessary for the supervision of their recognition by the Commission, as well as the exercise of that supervision by the Commission, including through on-the-spot examination.
+
+5\. The Commission may adopt implementing acts to ensure the application of measures in relation to cases of suspected or established non-compliance, in particular those affecting the integrity of organic or in-conversion products imported from third countries referred to in this Article. Such measures may consist in particular in the verification of the integrity of organic or in-conversion products before placing the products on the market within the Union and, where appropriate, in the suspension of the authorisation for the placing on the market of such products within the Union as organic products or in-conversion products.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 49 — Report from the Commission on the application of Articles 47 and 48
+
+By 31 December 2022  , the Commission shall present a report to the European Parliament and the Council on the state of application of Articles 47 and 48, in particular as regards the recognition of third countries for the purpose of equivalence.
+
+## CHAPTER VIII — GENERAL PROVISIONS
+
+### SECTION 1 — Free movement of organic and in-conversion products
+
+#### Article 50 — Non-prohibition and non-restriction of the marketing of organic and in-conversion products
+
+Competent authorities, control authorities and control bodies shall not, on grounds that relate to the production, labelling or presentation of the products, prohibit or restrict the marketing of organic or in-conversion products subject to control by another competent authority, control authority or control body located in another Member State where those products comply with this Regulation. In particular, no official controls and other official activities other than those under Regulation (EU) 2017/625 shall be performed and no fees for official controls and other official activities other than those provided for in Chapter VI of that Regulation shall be collected.
+
+### SECTION 2 — Information, reporting and related derogations
+
+#### Article 51 — Information relating to the organic sector and trade
+
+1\. Each year Member States shall transmit to the Commission the information necessary for the implementation and monitoring of the application of this Regulation. As far as possible, such information shall be based on established sources of data. The Commission shall take into account the data needs and synergies between potential data sources, in particular their use for statistical purposes where appropriate.
+
+2\. The Commission shall adopt implementing acts as regards the system to be used for transmitting the information referred to in paragraph 1, the details of information to be transmitted, and the date by which that information is to be transmitted.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+#### Article 52 — Information relating to the competent authorities, control authorities and control bodies
+
+1\. Members States shall keep a regularly updated list of:
+
+(a) the names and addresses of the competent authorities; and
+
+(b) the names, addresses and code numbers of the control authorities and control bodies.
+
+Member States shall transmit those lists, and any change thereof, to the Commission and make them public, except where such transmission and publication has already taken place in accordance with Article 4(4) of Regulation (EU) 2017/625.
+
+2\. Based on the information provided for under paragraph 1, the Commission shall regularly publish on the internet an updated list of control authorities and control bodies referred to in point (b) of paragraph 1.
+
+#### Article 53 — Derogations, authorisations and report
+
+1\. The derogations from the use of organic plant reproductive material and from the use of organic animals provided in points 1.8.5 of Part I of Annex II and points 1.3.4.3 and 1.3.4.4 of Part II of Annex II, with the exception of point 1.3.4.4.2 of Part II of Annex II, shall expire on 31 December 2036  .
+
+2\. From 1 January 2029  , based on the conclusions as regards availability of organic plant reproductive material and animals presented in the report provided for in paragraph 7 of this Article, the Commission shall be empowered to adopt delegated acts in accordance with Article 54 amending this Regulation by:
+
+(a) ending the derogations referred to in point 1.8.5 of Part I of Annex II and in points 1.3.4.3 and 1.3.4.4 of Part II of Annex II, with the exception of point 1.3.4.4.2 of Part II of Annex II, at an earlier date than 31 December 2036  or extending them beyond that date; or
+
+(b) ending the derogation referred to in point 1.3.4.4.2 of Part II of Annex II.
+
+3\. From 1 January 2027  , the Commission shall be empowered to adopt delegated acts in accordance with Article 54 amending point (b) of Article 26(2) to extend the scope of the information system referred to in Article 26(2) to pullets and point 1.3.4.3 of Part II of Annex II to base the derogations concerning pullets on the data collected in accordance with this system.
+
+4\. From 1 January 2026  , the Commission shall be empowered to adopt delegated acts in accordance with Article 54, based on the information as regards availability of organic protein feed for poultry and porcine animals made available by Member States in accordance with paragraph 6 of this Article or presented in the report referred to in paragraph 7 of this Article, ending the authorisations to use non-organic protein feed in the nutrition of poultry and porcine animals referred to in points 1.9.3.1(c) and 1.9.4.2(c) of Part II of Annex II at an earlier date than 31 December 2026  or extending them beyond that date.
+
+5\. When extending the derogations or authorisations referred to in paragraphs 2, 3 and 4, the Commission shall do so only for as long as it has information, in particular information provided by Member States in accordance with paragraph 6, that confirms the unavailability on the Union market of the plant reproductive material, animal or feed concerned.
+
+6\. By 30 June of each year, Member States shall make available to the Commission and to the other Member States:
+
+(a) information provided in the database referred to in Article 26(1) and in the systems referred to in Article 26(2) and, if relevant, in the systems referred to in Article 26(3);
+
+(b) information on the derogations granted in accordance with point 1.8.5 of Part I of Annex II and points 1.3.4.3 and 1.3.4.4 of Part II of Annex II; and
+
+(c) information on the availability on the Union market of organic protein feed for poultry and porcine animals and on the authorisations granted in accordance with points 1.9.3.1(c) and 1.9.4.2(c) of Part II of Annex II.
+
+7\. By 31 December 2026  , the Commission shall present a report to the European Parliament and the Council on the availability on the Union market of and, if relevant, on the causes of limited access to:
+
+(a) organic plant reproductive material;
+
+(b) organic animals covered by the derogations referred to in points 1.3.4.3 and 1.3.4.4 of Part II of Annex II;
+
+(c) organic protein feed intended for the nutrition of poultry and porcine animals subject to the authorisations referred to in points 1.9.3.1(c) and 1.9.4.2(c) of Part II of Annex II.
+
+In drawing up that report, the Commission shall take into account, in particular, the data collected in accordance with Article 26 and the information relating to the derogations and the authorisations referred to in paragraph 6 of this Article.
+
+## CHAPTER IX — PROCEDURAL, TRANSITIONAL AND FINAL PROVISIONS
+
+### SECTION 1 — Procedural provisions
+
+#### Article 54 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 2(6), Article 9(11), Article 10(5), Article 12(2), Article 13(3), Article 14(2), Article 15(2), Article 16(2), Article 17(2), Article 18(2), Article 19(2), Article 21(1), Article 22(1), Article 23(2), Article 24(6), Article 30(7), Article 32(4), Article 33(6), Article 34(8), Article 35(9), Article 36(3), Article 38(8), Article 40(11), Article 44(2), Article 46(7), Article 48(4), Article 53(2), (3) and (4), Article 57(3) and Article 58(2) shall be conferred on the Commission for a period of five years from 17 June 2018.  The Commission shall draw up a report in respect of the delegation of power no later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 2(6), Article 9(11), Article 10(5), Article 12(2), Article 13(3), Article 14(2), Article 15(2), Article 16(2), Article 17(2), Article 18(2), Article 19(2), Article 21(1), Article 22(1), Article 23(2), Article 24(6), Article 30(7), Article 32(4), Article 33(6), Article 34(8), Article 35(9), Article 36(3), Article 38(8), Article 40(11), Article 44(2), Article 46(7), Article 48(4), Article 53(2), (3) and (4), Article 57(3) and Article 58(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 2(6), Article 9(11), Article 10(5), Article 12(2), Article 13(3), Article 14(2), Article 15(2), Article 16(2), Article 17(2), Article 18(2), Article 19(2), Article 21(1), Article 22(1), Article 23(2), Article 24(6), Article 30(7), Article 32(4), Article 33(6), Article 34(8), Article 35(9), Article 36(3), Article 38(8), Article 40(11), Article 44(2), Article 46(7), Article 48(4), Article 53(2), (3) and (4), Article 57(3) and Article 58(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 55 — Committee procedure
+
+1\. The Commission shall be assisted by a committee called the ‘Organic Production Committee’. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+4\. Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+### SECTION 2 — Repeal and transitional and final provisions
+
+#### Article 56 — Repeal
+
+Regulation (EC) No 834/2007 is repealed.
+
+However, that Regulation shall continue to apply for the purpose of completing the examination of pending applications from third countries, as provided for in Article 58 of this Regulation.
+
+References to the repealed Regulation shall be construed as references to this Regulation.
+
+#### Article 57 — Transitional measures relating to control authorities and control bodies recognised under Article 33(3) of Regulation (EC) No 834/2007
+
+1\. The recognition of control authorities and control bodies granted under Article 33(3) of Regulation (EC) No 834/2007 shall expire by 31 December 2024  at the latest.
+
+2\. The Commission shall, by means of an implementing act, establish a list of the control authorities and control bodies recognised under Article 33(3) of Regulation (EC) No 834/2007, and may amend that list by means of implementing acts.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 55(2).
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 54 supplementing this Regulation as regards the information to be sent by the control authorities and control bodies referred to in paragraph 2 of this Article which is necessary for the purpose of the supervision of their recognition by the Commission, as well as the exercise of that supervision by the Commission, including through on-the-spot examination.
+
+#### Article 58 — Transitional measures relating to applications from third countries submitted under Article 33(2) of Regulation (EC) No 834/2007
+
+1\. The Commission shall complete the examination of applications from third countries which have been submitted under Article 33(2) of Regulation (EC) No 834/2007 and which are pending on 17 June 2018. That Regulation shall apply to the examination of such applications.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 54 supplementing this Regulation by laying down the procedural rules necessary for the examination of the applications referred to in paragraph 1 of this Article, including on the information to be submitted by third countries.
+
+#### Article 59 — Transitional measures relating to the first recognition of control authorities and control bodies
+
+By way of derogation from the date of application referred to in the second paragraph of Article 61, Article 46 shall apply from 17 June 2018 insofar as necessary in order to allow a timely recognition of control authorities and control bodies.
+
+#### Article 60 — Transitional measures for stocks of organic products produced in accordance with Regulation (EC) No 834/2007
+
+Products produced in accordance with Regulation (EC) No 834/2007 before 1 January 2022  may be placed on the market after that date until stocks are exhausted.
+
+#### Article 61 — Entry into force and application
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2022.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**OTHER PRODUCTS REFERRED TO IN ARTICLE 2(1)**
+
+— Yeasts used as food or feed,
+
+— maté, sweetcorn, vine leaves, palm hearts, hop shoots, and other similar edible parts of plants and products produced therefrom,
+
+— sea salt and other salts for food and feed,
+
+— silkworm cocoon suitable for reeling,
+
+— natural gums and resins,
+
+— beeswax,
+
+— essential oils,
+
+— cork stoppers of natural cork, not agglomerated, and without any binding substances,
+
+— cotton, not carded or combed,
+
+— wool, not carded or combed,
+
+— raw hides and untreated skins,
+
+— plant-based traditional herbal preparations.
+
+## ANNEX II
+
+**DETAILED PRODUCTION RULES REFERRED TO IN CHAPTER III**
+
+**Part I: Plant production rules**
+
+In addition to the production rules laid down in Articles 9 to 12, the rules set out in this Part shall apply to organic plant production.
+
+**1\. General requirements**
+
+1.1. Organic crops, except those which are naturally grown in water, shall be produced in living soil, or in living soil mixed or fertilised with materials and products allowed in organic production, in connection with the subsoil and bedrock.
+
+1.2. Hydroponic production, which is a method of growing plants which do not naturally grow in water with their roots in a nutrient solution only or in an inert medium to which a nutrient solution is added, is prohibited.
+
+1.3. By way of derogation from point 1.1, the following shall be allowed:
+
+(a) the production of sprouted seeds, which include sprouts, shoots and cress, solely living on the nutritional reserves available in the seeds, by moistening them in clear water, provided that the seeds are organic. The use of growing medium shall be prohibited, except the use of an inert medium intended solely to keep the seeds moist when the components of that inert medium are authorised in compliance with Article 24;
+
+(b) the obtaining of chicory heads, including by dipping them in clear water, provided that the plant reproductive material is organic. The use of a growing medium shall be allowed only when its components are authorised in compliance with Article 24.
+
+1.4. By way of derogation from point 1.1, the following practices shall be allowed:
+
+(a) growing plants for the production of ornamentals and herbs in pots to be sold together with the pot to the final consumer;
+
+(b) growing seedlings or transplants in containers for further transplanting.
+
+1.5. By way of derogation from point 1.1, growing crops in demarcated beds shall only be allowed for the surfaces that have been certified as organic for that practice before 28 June 2017 in Finland, Sweden and Denmark. No extension of those surfaces shall be permitted.
+
+That derogation shall expire on 31 December 2031  .
+
+By 31 December 2026  , the Commission shall present a report to the European Parliament and the Council on the use of demarcated beds in organic agriculture. That report may be accompanied, where appropriate, by a legislative proposal on the use of demarcated beds in organic agriculture.
+
+1.6. All plant production techniques used shall prevent or minimise any contribution to the contamination of the environment.
+
+1.7. Conversion
+
+1.7.1. For plants and plant products to be considered as organic products, the production rules laid down in this Regulation shall have been applied with respect to the parcels during a conversion period of at least two years before sowing, or, in the case of grassland or perennial forage, during a period of at least two years before its use as organic feed, or, in the case of perennial crops other than forage, during a period of at least three years before the first harvest of organic products.
+
+1.7.2. Where the land or one or more parcels thereof have been contaminated with products or substances not authorised for use in organic production, the competent authority may decide to extend the conversion period for the land or parcels concerned beyond the period referred to in point 1.7.1.
+
+1.7.3. In the case of treatment with a product or a substance not authorised for use in organic production, the competent authority shall require a new conversion period in accordance with point 1.7.1.
+
+That period may be shortened in the following two cases:
+
+(a) treatment with a product or a substance not authorised for use in organic production as part of a compulsory control measure for pests or weeds, including quarantine organisms or invasive species, imposed by the competent authority of the Member State concerned;
+
+(b) treatment with a product or a substance not authorised for use in organic production as part of scientific tests approved by the competent authority of the Member State concerned.
+
+1.7.4. In the cases referred to in points 1.7.2 and 1.7.3, the length of the conversion period shall be fixed taking into account the following requirements:
+
+(a) the process of degradation of the product or substance concerned must guarantee, at the end of the conversion period, an insignificant level of residues in the soil and, in the case of a perennial crop, in the plant;
+
+(b) the harvest following the treatment may not be placed on the market as organic or in-conversion products.
+
+1.7.4.1. Member States shall inform the Commission and the other Member States of any decision taken by them which lays down compulsory measures related to treatment with a product or a substance not authorised for use in organic production.
+
+1.7.4.2. In the case of treatment with a product or a substance which is not authorised for use in organic production, point 1.7.5(b) shall not apply.
+
+1.7.5. In the case of land associated with organic livestock production:
+
+(a) the conversion rules shall apply to the whole area of the production unit on which animal feed is produced;
+
+(b) notwithstanding point (a), the conversion period may be reduced to one year for pasturages and open air areas used by non-herbivore species.
+
+1.8. Origin of plants including plant reproductive material
+
+1.8.1. For the production of plants and plant products other than plant reproductive material, only organic plant reproductive material shall be used.
+
+1.8.2. To obtain organic plant reproductive material to be used for the production of products other than plant reproductive material, the mother plant and, where relevant, other plants intended for plant reproductive material production shall have been produced in accordance with this Regulation for at least one generation, or, in the case of perennial crops, for at least one generation during two growing seasons.
+
+1.8.3. When choosing organic plant reproductive material, operators shall give preference to organic plant reproductive material suitable for organic agriculture.
+
+1.8.4. For the production of organic varieties suitable for organic production, the organic breeding activities shall be conducted under organic conditions and shall focus on enhancement of genetic diversity, reliance on natural reproductive ability, as well as agronomic performance, disease resistance and adaptation to diverse local soil and climate conditions.
+
+All multiplication practices except meristem culture shall be carried out under certified organic management.
+
+1.8.5. Use of in-conversion and non-organic plant reproductive material.
+
+1.8.5.1. By way of derogation from point 1.8.1, where the data collected in the database referred to in Article 26(1) or the systems referred to in Article 26(2) show that the qualitative or quantitative needs of the operator regarding relevant organic plant reproductive material are not met, the operator may use in-conversion plant reproductive material in accordance with Article 10(4), second subparagraph, point (a), or plant reproductive material authorised in accordance with point 1.8.6.
+
+In addition, in case of a lack of availability of organic seedlings, ‘in-conversion seedlings’, marketed in compliance with Article 10(4), second subparagraph, point (a), may be used when grown as follows:
+
+(a) through a cultivation cycle from seeds to final seedling lasting at least 12 months on a land parcel that, during that same period, has completed a conversion period of at least 12 months; or
+
+(b) on an organic or in-conversion land parcel or in containers if covered by the derogation referred to in point 1.4, provided that the seedlings have originated from in-conversion seeds, harvested from a plant grown on a land parcel that has completed a conversion period of at least 12 months.
+
+Where organic or in-conversion plant reproductive material or plant reproductive material authorised in accordance with point 1.8.6 is not available in sufficient quality or quantity to fulfil the operator’s needs, competent authorities may authorise the use of non-organic plant reproductive material subject to points 1.8.5.3 to 1.8.5.8.
+
+Such individual authorisation shall be issued only in one of the following situations:
+
+(a) where no variety of the species that the operator wants to obtain is registered in the database referred to in Article 26(1) or the systems referred to in Article 26(2);
+
+(b) where no operator who markets plant reproductive material, is able to deliver the relevant organic or in-conversion plant reproductive material or plant reproductive material authorised in accordance with point 1.8.6 in time for sowing or planting in situations where the user has ordered the plant reproductive material in reasonable time to allow the preparation and supply of organic or in-conversion plant reproductive material or of plant reproductive material authorised in accordance with point 1.8.6;
+
+(c) where the variety that the operator wants to obtain is not registered as organic or in-conversion plant reproductive material or as plant reproductive material authorised in accordance with point 1.8.6 in the database referred to in Article 26(1) or the systems referred to Article 26(2) and the operator is able to demonstrate that none of the registered alternatives of the same species are appropriate in particular to the agronomic and pedo-climatic conditions and necessary technological properties for the production to be obtained;
+
+(d) where it is justified for use in research, test in small-scale field trials, for variety conservation purposes of for product innovation and agreed by the competent authorities of the Member State concerned.
+
+Prior to requesting any such authorisation, operators shall consult the database referred to in Article 26(1) or the systems referred to in Article 26(2) in order to verify whether relevant organic or in-conversion plant reproductive material or plant reproductive material authorised in accordance with point 1.8.6 is available and thus whether their request is justified.
+
+When in compliance with Article 6 (i) operators may use both organic and in-conversion plant reproductive material obtained from their own holding, irrespective of the qualitative and quantitative availability according to the database referred to in Article 26(1) or the system referred to in point (a) of Article 26(2).
+
+1.8.5.2. By way of derogation from point 1.8.1, operators in third countries may use in-conversion plant reproductive material in accordance with Article 10(4), second subparagraph, point (a), or plant reproductive material authorised in accordance with point 1.8.6 when organic plant reproductive material is justified to be not available in sufficient quality or quantity in the territory of the third country in which the operator is located.
+
+Without prejudice to relevant national rules, operators in third countries may use both organic and in-conversion plant reproductive material obtained from their own holding.
+
+Control authorities or control bodies recognised in accordance with Article 46(1) may authorise operators in third countries to use non-organic plant reproductive material in an organic production unit, when organic or in-conversion plant reproductive material or plant reproductive material authorised in accordance with point 1.8.6 is not available in sufficient quality or quantity in the territory of the third country in which the operator is located, under the conditions laid down in points 1.8.5.3, 1.8.5.4, 1.8.5.5 and 1.8.5.8.
+
+1.8.5.3. Non-organic plant reproductive material shall not be treated after harvest with plant protection products other than those authorised for the treatment of plant reproductive material in accordance with Article 24(1) of this Regulation, unless chemical treatment has been prescribed in accordance with Regulation (EU) 2016/2031 for phytosanitary purposes by the competent authorities of the Member State concerned for all varieties and heterogeneous material of a given species in the area in which the plant reproductive material is to be used.
+
+Where the non-organic plant reproductive material treated with the prescribed chemical treatment referred to in the first paragraph is used, the parcel on which the treated plant reproductive material is growing shall be subject, where appropriate, to a conversion period as provided in points 1.7.3 and 1.7.4.
+
+1.8.5.4. The authorisation to use non-organic plant reproductive material shall be obtained before the sowing or planting of the crop.
+
+1.8.5.5. The authorisation to use non-organic plant reproductive material shall be granted to individual users for one season at a time, and the competent authorities, control authority or body responsible for authorisations shall list the quantities of the authorised plant reproductive material.
+
+1.8.5.6. The competent authorities of the Member States shall create an official list of species, subspecies or varieties (grouped if applicable) for which it is established that organic or in-conversion plant reproductive material is available in sufficient quantities and for the appropriate varieties in their territory. No authorisations shall be issued for the species, subspecies or varieties included in that list in the territory of the Member State concerned pursuant to point 1.8.5.1 unless these are justified by one of the purposes referred to in point 1.8.5.1(d). If the quantity or quality of organic or in-conversion plant reproductive material available for a species, subspecies or variety on the list turns out to be insufficient or inappropriate, due to exceptional circumstances, the competent authorities of the Member States may remove a species, subspecies or variety from the list.
+
+The competent authorities of the Member States shall keep their list updated on an annual basis and shall make that list publicly available.
+
+By 30 June each year and for the first time by 30 June 2022, the competent authorities of the Member States shall transmit to the Commission and to the other Member States the link to the internet website where the updated list is made publicly available. The Commission shall publish the links to the national updated lists on a dedicated website.
+
+1.8.5.7. By way of derogation from point 1.8.5.5, the competent authorities of the Member States may annually grant a general authorisation to all operators concerned for the use of:
+
+(a) a given species or subspecies when and in so far as no variety is registered in the database referred to in Article 26(1) or the system referred to in point (a) of Article 26(2);
+
+(b) for a given variety when and in so far as the conditions laid down in point 1.8.5.1(c) are fulfilled.
+
+When using a general authorisation, operators shall keep records of the quantity used and competent authority responsible for authorisations shall list the quantities of authorised non-organic plant reproductive material.
+
+The competent authorities of the Member States shall keep the list of species, subspecies or varieties for which a general authorisation is issued updated on an annual basis and shall make that list publicly available.
+
+By 30 June each year and for the first time by 30 June 2022, the competent authorities of the Member States shall transmit to the Commission and to the other Member States the link to the internet website where the updated list is made publicly available. The Commission shall publish the links to the national updated lists on a dedicated website.
+
+1.8.5.8. Competent authorities shall not authorise the use of non-organic seedlings in the case of seedlings of species that have a cultivation cycle completed in one growing season, from the transplantation of the seedling to the first harvest of product.
+
+1.8.6. Competent authorities or, where appropriate, control authorities or control bodies recognised in accordance with Article 46(1) may authorise operators producing plant reproductive material for use in organic production to use non-organic plant reproductive material, when mother plants or, where relevant, other plants intended for the production of plant reproductive material and produced in compliance with point 1.8.2 are not available in sufficient quantity or quality, and to place such material on the market for use in organic production provided that the following conditions are met:
+
+(a) the non-organic plant reproductive material used has not been treated after harvest with plant protection products other than those authorised in accordance with Article 24(1) of this Regulation, unless chemical treatment has been prescribed in accordance with Regulation (EU) 2016/2031 for phytosanitary purposes by the competent authorities of the Member State concerned for all varieties and heterogeneous material of a given species in the area in which the plant reproductive material is to be used. Where non-organic plant reproductive material treated with such prescribed chemical treatment is used, the land parcel on which the treated plant reproductive material is growing shall be subject, where appropriate, to a conversion period as provided in points 1.7.3 and 1.7.4;
+
+(b) the non-organic plant reproductive material used is not a seedling of species that have a cultivation cycle completed in one growing season, from the transplantation of the seedling to the first harvest of product;
+
+(c) the plant reproductive material is grown in compliance with all other relevant organic plant production requirements;
+
+(d) the authorisation to use non-organic plant reproductive material shall be obtained before that material is sown or planted;
+
+(e) the competent authority, control authority or control body responsible for the authorisation shall grant the authorisation only to individual users and for one season at a time, and shall list the quantities of the authorised plant reproductive material;
+
+(f) by way of derogation from point (e), the competent authorities of the Member States may annually grant a general authorisation for the use of a given species or subspecies or variety of non-organic plant reproductive material and make the list of species, subspecies or varieties publicly available and keep it updated on an annual basis. In that case, those competent authorities shall list the quantities of authorised non-organic plant reproductive material;
+
+(g) the authorisations granted in accordance with this paragraph shall expire on 31 December 2036.
+
+By 30 June of each year, and for the first time by 30 June 2023, the competent authorities of the Member States shall notify the Commission and the other Member States of the information on the authorisations granted in accordance with the first paragraph.
+
+Operators who produce and market the plant reproductive material produced in accordance with the first paragraph shall be allowed to make public, on a voluntary basis, the relevant specific information on the availability of such plant reproductive material in the national systems established in accordance with Article 26(2). Operators that opt to include such information shall ensure that the information is updated regularly, and is withdrawn from the national systems once the plant reproductive material is no longer available. When relying on the general authorisation referred to in point (f), operators shall keep records of the quantity used.
+
+1.9. Soil management and fertilisation
+
+1.9.1. In organic plant production, tillage and cultivation practices shall be used that maintain or increase soil organic matter, enhance soil stability and soil biodiversity, and prevent soil compaction and soil erosion.
+
+1.9.2. The fertility and biological activity of the soil shall be maintained and increased:
+
+(a) except in the case of grassland or perennial forage, by the use of multiannual crop rotation including mandatory leguminous crops as the main or cover crop for rotating crops and other green manure crops;
+
+(b) in the case of greenhouses or perennial crops other than forage, by the use of short-term green manure crops and legumes as well as the use of plant diversity; and
+
+(c) in all cases, by the application of livestock manure or organic matter, both preferably composted, from organic production.
+
+1.9.3. Where the nutritional needs of plants cannot be met by the measures provided for in points 1.9.1 and 1.9.2, only fertilisers and soil conditioners that have been authorised pursuant to Article 24 for use in organic production shall be used, and only to the extent necessary. Operators shall keep records of the use of those products, including the date or dates on which each product was used, the name of the product, the amount applied and the crop and parcels concerned.
+
+1.9.4. The total amount of livestock manure, as defined in Directive 91/676/EEC, used in the in-conversion and organic production units shall not exceed 170 kg of nitrogen per year/hectare of agricultural area used. That limit shall only apply to the use of farmyard manure, dried farmyard manure and dehydrated poultry manure, composted animal excrement, including poultry manure, composted farmyard manure and liquid animal excrement.
+
+1.9.5. Operators of agricultural holdings may establish written cooperation agreements exclusively with operators of other agricultural holdings and undertakings which comply with the organic production rules, for the purpose of spreading surplus manure from organic production units. The maximum limit referred to in point 1.9.4 shall be calculated on the basis of all of the organic production units involved in such cooperation.
+
+1.9.6. Preparations of micro-organisms may be used to improve the overall condition of the soil or to improve the availability of nutrients in the soil or in the crops.
+
+1.9.7. For compost activation, appropriate plant-based preparations and preparations of micro-organisms may be used.
+
+1.9.8. Mineral nitrogen fertilisers shall not be used.
+
+1.9.9. Biodynamic preparations may be used.
+
+1.10. Pest and weed management
+
+1.10.1. The prevention of damage caused by pests and weeds shall rely primarily on the protection by:
+
+— natural enemies,
+
+— the choice of species, varieties and heterogeneous material,
+
+— crop rotation,
+
+— cultivation techniques such as biofumigation, mechanical and physical methods, and
+
+— thermal processes such as solarisation and, in the case of protected crops, shallow steam treatment of the soil (to a maximum depth of 10 cm).
+
+1.10.2. Where plants cannot adequately be protected from pests by measures provided for in point 1.10.1 or in the case of an established threat to a crop, only products and substances authorised pursuant to Articles 9 and 24 for use in organic production shall be used, and only to the extent necessary. Operators shall keep records proving the need for the use of such products, including the date or dates on which each product was used, the name of the product, its active substances, the amount applied, the crop and parcels concerned, and the pest or disease to be controlled.
+
+1.10.3. In relation to products and substances used in traps or in dispensers of products and substances other than pheromones, the traps or dispensers shall prevent the products and substances from being released into the environment and shall prevent contact between the products and substances and the crops being cultivated. All traps, including pheromone traps, shall be collected after use and shall be safely disposed of.
+
+1.11. Products used for cleaning and disinfection
+
+Only those products for cleaning and disinfection in plant production authorised pursuant to Article 24 for use in organic production shall be used for that purpose. Operators shall keep records of the use of those products including the date or dates on which each product was used, the name of the product, its active substances, and the location of such use.
+
+1.12. Record-keeping obligation
+
+Operators shall keep records regarding the parcels concerned and the amount of the harvest. In particular, operators shall keep records of any other external input used on each parcel and, where applicable, keep available documentary evidence on any derogation from production rules obtained in accordance with point 1.8.5.
+
+1.13. Preparation of unprocessed products
+
+If preparation operations other than processing are carried out on plants, the general requirements laid down in points 1.2, 1.3, 1.4, 1.5 and 2.2.3 of Part IV shall apply mutatis mutandis to such operations.
+
+**2\. Detailed rules for specific plants and plant products**
+
+2.1. Rules on mushroom production
+
+For the production of mushrooms, substrates may be used if they are composed only of the following components:
+
+(a) farmyard manure and animal excrement:
+
+(i) either from organic production units or from in-conversion units in their second year of conversion; or
+
+(ii) referred to in point 1.9.3, only when the product referred to in point (i) is not available, provided that that farmyard manure and animal excrement do not exceed 25 % of the weight of total components of the substrate, excluding the covering material and any added water, before composting;
+
+(b) products of agricultural origin, other than those referred to in point (a), from organic production units;
+
+(c) peat, not treated with chemical products;
+
+(d) wood, not treated with chemical products after felling;
+
+(e) mineral products referred to in point 1.9.3, water and soil.
+
+2.2. Rules concerning the collection of wild plants
+
+The collection of wild plants and parts thereof growing naturally in natural areas, forests and agricultural areas is considered as organic production, provided that:
+
+(a) for a period of at least three years before the collection, those areas were not treated with products or substances other than those authorised pursuant to Articles 9 and 24 for use in organic production;
+
+(b) the collection does not affect the stability of the natural habitat or the maintenance of the species in the collection area.
+
+Operators shall keep records of the period and location of the collection, the species concerned and the quantity of wild plants collected.
+
+**Part II: Livestock production rules**
+
+In addition to the production rules laid down in Articles 9, 10, 11 and 14, the rules laid down in this Part shall apply to organic livestock production.
+
+**1\. General requirements**
+
+1.1. Except in the case of beekeeping, landless livestock production, where the farmer intending to produce organic livestock does not manage agricultural land and has not established a written cooperation agreement with a farmer as regards the use of organic production units or in-conversion production units for that livestock, shall be prohibited.
+
+Operators shall keep available documentary evidence on any derogation from livestock production rules obtained in accordance with points 1.3.4.3, 1.3.4.4, 1.7.5, 1.7.8, 1.9.3.1(c) and 1.9.4.2(c).
+
+1.2. Conversion
+
+1.2.1. In the case of simultaneous start of conversion of the production unit, including pasturage or any land used for animal feed, and of the animals existing on this production unit at the beginning of the conversion period of this production unit as referred to in points 1.7.1 and 1.7.5(b) of Part I, animals and animal products may be considered organic at the end of the conversion period of the production unit, even if the conversion period laid down in point 1.2.2 of this Part for the type of animal concerned is longer than the conversion period for the production unit.
+
+By derogation from point 1.4.3.1, in the case of such simultaneous conversion and during the conversion period of the production unit, animals present in this production unit since the beginning of the conversion period may be fed with in-conversion feed produced on the in-conversion production unit during the first year of conversion and/or with feed in accordance with point 1.4.3.1 and/or with organic feed.
+
+Non-organic animals may be introduced into an in-conversion production unit after the start of the conversion period in accordance with point 1.3.4.
+
+1.2.2. Conversion periods specific to the type of animal production are set out as follows:
+
+(a) 12 months in the case of bovine animals and equine animals for meat production, and in any case no less than three quarters of their lifetime;
+
+(b) six months in the case of ovine animals, caprine animals and porcine animals and animals for milk production;
+
+(c) 10 weeks for poultry for meat production, except for Peking ducks, brought in before they are three days old;
+
+(d) seven weeks for Peking ducks brought in before they are three days old;
+
+(e) six weeks in the case of poultry for egg production brought in before they are three days old;
+
+(f) 12 months for bees.
+
+During the conversion period, the wax shall be replaced with wax coming from organic beekeeping.
+
+However, non-organic beeswax may be used:
+
+(i) where beeswax from organic beekeeping is not available on the market;
+
+(ii) where it is proven free of contamination with products or substances not authorised for use in organic production; and
+
+(iii) provided that it comes from the cap;
+
+(g) three months for rabbits;
+
+(h) 12 months for cervine animals.
+
+1.3. Origin of animals
+
+1.3.1. Without prejudice to the rules on conversion, organic livestock shall be born or hatched and raised on organic production units.
+
+1.3.2. With regard to the breeding of organic animals:
+
+(a) reproduction shall use natural methods; however, artificial insemination shall be allowed;
+
+(b) reproduction shall not be induced or impeded by treatment with hormones or other substances with a similar effect, except as a form of veterinary therapeutic treatment in the case of an individual animal;
+
+(c) other forms of artificial reproduction, such as cloning and embryo transfer, shall not be used;
+
+(d) the choice of breeds shall be appropriate to the principles of organic production, shall ensure a high standard of animal welfare and shall contribute to the prevention of any suffering and to avoiding the need for the mutilation of animals.
+
+1.3.3. When choosing breeds or strains, operators shall consider giving preference to breeds or strains with a high degree of genetic diversity, the capacity of animals to adapt to local conditions, their breeding value, their longevity, their vitality and their resistance to disease or health problems, all without impairment of their welfare. In addition, breeds or strains of animals shall be selected to avoid specific diseases or health problems associated with some breeds or strains used in intensive production, such as porcine stress syndrome, possibly leading to pale-soft-exudative (PSE) meat, sudden death, spontaneous abortion and difficult births requiring caesarean operations. Preference shall be given to indigenous breeds and strains.
+
+To choose the breeds and strains in accordance with the first paragraph, operators shall use the information available in the systems referred to in Article 26(3).
+
+1.3.4. Use of non-organic animals
+
+1.3.4.1. By way of derogation from point 1.3.1, for breeding purposes, non-organically raised animals may be brought to an organic production unit when breeds are in danger of being lost to farming as referred to in point (b) of Article 28(10) of Regulation (EU) No 1305/2013 and acts adopted on the basis thereof. In such case, the animals of those breeds need not necessarily be nulliparous.
+
+1.3.4.2. By way of derogation from point 1.3.1, for the renovation of apiaries, 20 % per year of the queen bees and swarms may be replaced by non-organic queen bees and swarms in the organic production unit, provided that the queen bees and swarms are placed in hives with combs or comb foundations coming from organic production units. In any case, one swarm or queen bee may be replaced per year by a non-organic swarm or a queen bee.
+
+1.3.4.3. By way of derogation from point 1.3.1, where a flock is constituted for the first time, or is renewed or reconstituted, and where the qualitative and quantitative needs of farmers cannot be met, the competent authority may decide that non-organically reared poultry may be brought into an organic poultry production unit, provided that the pullets for the production of eggs and poultry for meat production are less than three days old. Products derived from them may only be considered as organic if the conversion period specified in point 1.2 has been complied with.
+
+1.3.4.4. By way of derogation from point 1.3.1, where the data collected in the system referred to in point (b) of Article 26(2) shows that the qualitative or quantitative needs of the farmer regarding organic animals are not met, competent authorities may authorise the introduction of non-organic animals into an organic production unit, subject to the conditions provided for in points 1.3.4.4.1 to 1.3.4.4.4.
+
+Prior to requesting any such derogation, the farmer shall consult the data collected in the system referred to in point (b) of Article 26(2) in order to verify whether his or her request is justified.
+
+For operators in third countries, control authorities and control bodies recognised in accordance with Article 46(1) may authorise the introduction of non-organic animals into an organic production unit where organic animals are not available in sufficient quality or quantity in the territory of the country where the operator is located.
+
+1.3.4.4.1. For breeding purposes, non-organic young animals may be introduced when a herd or flock is constituted for the first time. They shall be reared in accordance with the organic production rules immediately after they are weaned. In addition, the following restrictions shall apply on the date on which those animals enter the herd or flock:
+
+(a) bovine animals, equine animals and cervine animals shall be less than six months old;
+
+(b) ovine animals and caprine animals shall be less than 60 days old;
+
+(c) porcine animals shall weigh less than 35 kg;
+
+(d) rabbits shall be less than three months old.
+
+1.3.4.4.2. For breeding purposes, non-organic adult male and non-organic nulliparous female animals may be introduced for the renewal of a herd or flock. They shall be reared subsequently in accordance with the organic production rules. In addition, the number of female animals shall be subject to the following restrictions per year:
+
+(a) up to a maximum of 10 % of adult equine animals or bovine animals and 20 % of the adult porcine animals, ovine animals, caprine animals, rabbits or cervine animals may be introduced;
+
+(b) for units with fewer than 10 equine animals, cervine animals or bovine animals or rabbits, or with fewer than five porcine animals, ovine animals or caprine animals, any such renewal shall be limited to a maximum of one animal per year.
+
+1.3.4.4.3. The percentages set in point 1.3.4.4.2 may be increased up to 40 %, provided that the competent authority has confirmed that any of following conditions is fulfilled:
+
+(a) a major extension to the farm has been undertaken;
+
+(b) one breed has been replaced with another;
+
+(c) a new livestock specialisation has been initiated.
+
+1.3.4.4.4. In the cases referred to in points 1.3.4.4.1, 1.3.4.4.2 and 1.3.4.4.3, non-organic animals may only be considered as organic if the conversion period specified in point 1.2 has been complied with. The conversion period laid down in point 1.2.2 shall start, at the earliest, once the animals are introduced into the in-conversion production unit.
+
+1.3.4.4.5. In the cases referred to in points 1.3.4.4.1 to 1.3.4.4.4, non-organic animals shall either be kept separate from other livestock or shall be kept identifiable until the end of the conversion period referred to in point 1.3.4.4.4.
+
+1.3.4.5. Operators shall keep records or documentary evidence of the origin of animals, identifying the animals in accordance with appropriate systems (per animal or by batch/flock/hive), of the veterinary records of the animals introduced in the holding, the date of arrival, and the conversion period.
+
+1.4. Nutrition
+
+1.4.1. General nutrition requirements
+
+With regard to nutrition, the following rules shall apply:
+
+(a) feed for livestock shall be obtained primarily from the agricultural holding where the animals are kept or shall be obtained from organic or in-conversion production units belonging to other holdings in the same region;
+
+(b) livestock shall be fed with organic or in-conversion feed that meets the animal’s nutritional requirements at the various stages of its development; restricted feeding shall not be permitted in livestock production unless justified for veterinary reasons;
+
+(c) livestock shall not be kept in conditions or on a diet which may encourage anaemia;
+
+(d) fattening practices shall always respect the normal nutritional patterns for each species and the animals’ welfare at each stage of the rearing process; force-feeding is forbidden;
+
+(e) with the exception of porcine animals, poultry and bees, livestock shall have permanent access to pasture whenever conditions allow or shall have permanent access to roughage;
+
+(f) growth promoters and synthetic amino-acids shall not be used;
+
+(g) suckling animals shall preferably be fed on maternal milk for a minimum period laid down by the Commission in accordance with point (a) of Article 14(3); milk replacers containing chemically synthesised components or components of plant origin shall not be used during that period;
+
+(h) feed materials of plant, algal, animal or yeast origin shall be organic;
+
+(i) non-organic feed materials of plant, algal, animal or yeast origin, feed materials of microbial or of mineral origin, feed additives and processing aids may be used only if they have been authorised pursuant to Article 24 for use in organic production.
+
+1.4.2. Grazing
+
+1.4.2.1. Grazing on organic land
+
+Without prejudice to point 1.4.2.2, organic animals shall graze on organic land. However, non-organic animals may use organic pasturage for a limited period each year, provided that they have been raised in an environmental friendly way on land supported under Articles 23, 25, 28, 30, 31 and 34 of Regulation (EU) No 1305/2013 and that they are not present on the organic land at the same time as organic animals.
+
+1.4.2.2. Grazing on common land and transhumance
+
+1.4.2.2.1. Organic animals may graze on common land, provided that:
+
+(a) the common land has not been treated with products or substances not authorised for use in organic production for at least three years;
+
+(b) any non-organic animals which use the common land have been raised in an environmental friendly way on land supported under Articles 23, 25, 28, 30, 31 and 34 of Regulation (EU) No 1305/2013;
+
+(c) any livestock products from organic animals that were produced during the period when those animals grazed on common land are not considered as organic products unless adequate segregation from non-organic animals can be proved.
+
+1.4.2.2.2. During the period of transhumance, organic animals may graze on non-organic land when they are being moved on foot from one grazing area to another. During that period, organic animals shall be kept separate from other animals. The uptake of non-organic feed, in the form of grass and other vegetation on which the animals graze, shall be allowed:
+
+(a) for a maximum of 35 days covering both the outward and return journeys; or
+
+(b) for a maximum of 10 % of the total feed ration per year, calculated as a percentage of the dry matter of feedstuffs of agricultural origin.
+
+1.4.3. In-conversion feed
+
+1.4.3.1. For agricultural holdings that produce organic livestock:
+
+(a) up to 25 % on average of the feed formula of rations may comprise in-conversion feed from the second year of conversion. This percentage may be increased to 100 % if this in-conversion feed comes from the holding where the livestock is kept; and
+
+(b) up to 20 % of the total average amount of feed fed to livestock may originate from the grazing or harvesting of permanent pastures, perennial forage parcels or protein crops sown under organic management on lands in their first year of conversion, provided that those lands are part of the holding itself.
+
+When both types of in-conversion feed referred to in points (a) and (b) are being used for feeding, the total combined percentage of such feed shall not exceed the percentage fixed in point (a).
+
+1.4.3.2. The figures in point 1.4.3.1 shall be calculated annually as a percentage of the dry matter of feed of plant origin.
+
+1.4.4. Record-keeping of the feeding regime
+
+Operators shall keep records of the feeding regime and, where relevant, the grazing period. In particular, they shall keep records of the name of the feed, including any form of feed used e.g. compound feed, proportions of various feed materials of rations and proportion of feed from their own holding or the same region and, where relevant, periods of access to grazing areas, periods of transhumance where restrictions apply and documentary evidence of the application of points 1.4.2 and 1.4.3.
+
+1.5. Health care
+
+1.5.1. Disease prevention
+
+1.5.1.1. Disease prevention shall be based on breed and strain selection, husbandry management practices, high-quality feed, exercise, appropriate stocking density and adequate and appropriate housing maintained in hygienic conditions.
+
+1.5.1.2. Immunological veterinary medicinal products may be used.
+
+1.5.1.3. Chemically synthesised allopathic veterinary medicinal products, including antibiotics and boluses of synthesised allopathic chemical molecules, shall not be used for preventive treatment.
+
+1.5.1.4. Substances to promote growth or production (including antibiotics, coccidiostatics and other artificial aids for growth promotion purposes) and hormones and similar substances for the purpose of controlling reproduction or for other purposes (e.g. induction or synchronisation of oestrus) shall not be used.
+
+1.5.1.5. Where livestock is obtained from non-organic production units, special measures such as screening tests or quarantine periods shall apply, depending on local circumstances.
+
+1.5.1.6. Only the products for cleaning and disinfection in livestock buildings and installations authorised pursuant to Article 24 for use in organic production shall be used for that purpose. Operators shall keep records of the use of those products including the date or dates on which the product was used, the name of the product, its active substances, and the location of such use.
+
+1.5.1.7. Housing, pens, equipment and utensils shall be properly cleaned and disinfected to prevent cross-infection and the build-up of disease carrying organisms. Faeces, urine and uneaten or spilt feed shall be removed as often as necessary to minimise smell and to avoid attracting insects or rodents. Rodenticides, to be used only in traps, and products and substances authorised pursuant to Articles 9 and 24 for use in organic production may be used for the elimination of insects and other pests in buildings and other installations where livestock are kept.
+
+1.5.2. Veterinary treatment
+
+1.5.2.1. Where animals become sick or injured despite preventive measures to ensure animal health, they shall be treated immediately.
+
+1.5.2.2. Disease shall be treated immediately to avoid suffering of the animal. Chemically synthesised allopathic veterinary medicinal products, including antibiotics, may be used where necessary, under strict conditions and under the responsibility of a veterinarian, when the use of phytotherapeutic, homeopathic and other products is inappropriate. In particular, restrictions with respect to courses of treatment and withdrawal periods shall be defined.
+
+1.5.2.3. Feed materials of mineral origin authorised pursuant to Article 24 for use in organic production, nutritional additives authorised pursuant to Article 24 for use in organic production, and phytotherapeutic and homeopathic products shall be used in preference to treatment with chemically synthesised allopathic veterinary medicinal products, including antibiotics, provided that their therapeutic effect is effective for the species of animal and for the condition for which the treatment is intended.
+
+1.5.2.4. With the exception of vaccinations, treatments for parasites and compulsory eradication schemes, where an animal or a group of animals receives more than three courses of treatments with chemically synthesised allopathic veterinary medicinal products, including antibiotics, within 12 months, or more than one course of treatment if their productive lifecycle is less than one year, neither the livestock concerned nor produce derived from such livestock shall be sold as organic products, and the livestock shall be subject to the conversion periods referred to in point 1.2.
+
+1.5.2.5. The withdrawal period between the last administration to an animal of a chemically synthesised allopathic veterinary medicinal product, including of an antibiotic, under normal conditions of use, and the production of organically produced foodstuffs from that animal shall be twice the withdrawal period referred to in Article 11 of Directive 2001/82/EC, and shall be at least 48 hours.
+
+1.5.2.6. Treatments related to the protection of human and animal health imposed on the basis of Union legislation shall be allowed.
+
+1.5.2.7. Operators shall keep records or documentary evidence of any treatment applied and, in particular, the identification of the animals treated, the date of treatment, diagnosis, the posology, the name of the treatment product and, where applicable, the veterinary prescription for veterinary care, and the withdrawal period applied before livestock products can be marketed and labelled as organic.
+
+1.6. Housing and husbandry practices
+
+1.6.1. Insulation, heating and ventilation of the building shall ensure that air circulation, dust level, temperature, relative air humidity and gas concentration are kept within limits which ensure the well-being of the animals. The building shall permit plentiful natural ventilation and light to enter.
+
+1.6.2. Housing for livestock shall not be mandatory in areas with appropriate climatic conditions enabling animals to live outdoors. In such cases, animals shall have access to shelters or shady areas to protect them from adverse weather conditions.
+
+1.6.3. The stocking density in buildings shall provide for the comfort, well-being and species-specific needs of the animals, and shall depend in particular on the species, the breed and the age of the animals. It shall also take account of the behavioural needs of the animals, which depend in particular on the size of the group and the animals’ sex. The density shall ensure the animals’ welfare by providing them with sufficient space to stand naturally, to move, to lie down easily, to turn round, to groom themselves, to assume all natural postures and to make all natural movements, such as stretching and wing flapping.
+
+1.6.4. The minimum surface for indoor and outdoor areas, and the technical details relating to housing, laid down in the implementing acts referred to in Article 14(3), shall be complied with.
+
+1.6.5. Open air areas may be partially covered. Verandas shall not be considered as open air areas.
+
+1.6.6. The total stocking density shall not exceed the limit of 170 kg of organic nitrogen per year and hectare of agricultural area.
+
+1.6.7. To determine the appropriate density of livestock referred to in point 1.6.6, the competent authority shall set out the livestock units equivalent to the limit referred to in point 1.6.6, following the figures laid down in each of the specific requirements per type of animal production.
+
+1.6.8. Cages, boxes and flat decks to raise livestock shall not be used for any livestock species.
+
+1.6.9. When livestock is treated individually for veterinary reasons, it shall be kept in spaces that have a solid floor and shall be provided with straw or appropriate bedding. The animal must be able to turn around easily and to lie down comfortably at full length.
+
+1.6.10. Organic livestock may not be reared in a pen on very wet or marshy soil.
+
+1.7. Animal welfare
+
+1.7.1. All persons involved in keeping animals and in handling animals during transport and slaughter shall possess the necessary basic knowledge and skills as regards the health and the welfare needs of the animals and shall have followed adequate training, as required in particular in Council Regulation (EC) No 1/2005 ( 26 ) and Council Regulation No (EC) 1099/2009 ( 27 ), to ensure proper application of the rules set out in this Regulation.
+
+1.7.2. Husbandry practices, including stocking densities and housing conditions, shall ensure that the developmental, physiological and ethological needs of the animals are met.
+
+1.7.3. Livestock shall have permanent access to open air areas that allow the animals to exercise, preferably pasture, whenever weather and seasonal conditions and the state of the ground allow, except where restrictions and obligations related to the protection of human and animal health have been imposed on the basis of Union legislation.
+
+1.7.4. The number of livestock shall be limited with a view to minimising overgrazing, poaching of soil, erosion, and pollution caused by animals or by the spreading of their manure.
+
+1.7.5. Tethering or isolation of livestock shall be prohibited, except in relation to individual animals for a limited period and insofar as this is justified for veterinary reasons. The isolation of livestock may only be authorised, and only for a limited period, where workers’ safety is compromised or for animal welfare reasons. Competent authorities may authorise the tethering of cattle in farms with a maximum of 50 animals (excluding young stock) where it is not possible to keep the cattle in groups appropriate to their behaviour requirements, provided they have access to pastures during the grazing period, and have access to open air areas at least twice a week when grazing is not possible.
+
+1.7.6. Duration of transport of livestock shall be minimised.
+
+1.7.7. Any suffering, pain and distress shall be avoided and shall be kept to a minimum during the entire life of the animal, including at the time of slaughter.
+
+1.7.8. Without prejudice to developments in Union legislation on animal welfare, tail-docking of sheep, beak trimming undertaken in the first three days of life, and dehorning may exceptionally be allowed, but only on a case-by-case basis and only when those practices improve the health, welfare or hygiene of the livestock or where workers’ safety would otherwise be compromised. Disbudding may be allowed only on a case by case basis when it improves the health, welfare or hygiene of the livestock or where workers’ safety would otherwise be compromised. The competent authority shall only authorise such operations where the operator has duly notified and justified the operations to that competent authority and where the operation is to be carried out by qualified personnel.
+
+1.7.9. Any suffering to the animals shall be reduced to a minimum by applying adequate anaesthesia and/or analgesia and by carrying out each operation at only the most appropriate age by qualified personnel.
+
+1.7.10. Physical castration shall be allowed in order to maintain the quality of products and traditional production practices, but only under the conditions set out in point 1.7.9.
+
+1.7.11. The loading and unloading of animals shall be carried out without the use of any type of electrical or other painful stimulation to coerce the animals. The use of allopathic tranquillisers, prior to or during transport, shall be prohibited.
+
+1.7.12. Operators shall keep records or documentary evidence of any specific operation applied and justifications for the application of point 1.7.5, 1.7.8, 1.7.9 or 1.7.10. As regards animals leaving the holding, the following data shall be recorded, where relevant: age, number of animals, weight of slaughter animals, appropriate identification (per animal or by batch/flock/hive) date of departure and destination.
+
+1.8. Preparation of unprocessed products
+
+If preparation operations other than processing are carried out on livestock, the general requirements laid down in points 1.2, 1.3, 1.4, 1.5 and 2.2.3 of Part IV shall apply mutatis mutandis to such operations.
+
+1.9. Additional general rules
+
+1.9.1. For bovine animals, ovine animals, caprine animals and equine animals
+
+1.9.1.1. Nutrition
+
+With regard to nutrition, the following rules shall apply:
+
+(a) at least 60 % of the feed shall come from the farm itself or, if this is not feasible or such feed is not available, shall be produced in cooperation with other organic or in-conversion production units and feed operators using feed and feed material from the same region. This percentage shall be raised to 70 % as from 1 January 2024  ;
+
+(b) animals shall have access to pasturage for grazing whenever conditions allow;
+
+(c) notwithstanding point (b), male bovine animals over one year old shall have access to pasturage or an open air area;
+
+(d) where animals have access to pasturage during the grazing period and where the winter housing system allows the animals to move freely, the obligation to provide open air areas during the winter months may be waived;
+
+(e) rearing systems shall be based on maximum use of grazing pasturage, by reference to the availability of pastures in the different periods of the year;
+
+(f) at least 60 % of the dry matter in daily rations shall consist of roughage, fresh or dried fodder, or silage. This percentage may be reduced to 50 % for animals in dairy production for a maximum period of three months in early lactation.
+
+1.9.1.2. Housing and husbandry practices
+
+With regard to housing and husbandry practices, the following rules shall apply:
+
+(a) housing shall have smooth, but not slippery floors;
+
+(b) housing shall be provided with a comfortable, clean and dry laying or rest area of sufficient size, which shall consist of a solid construction which is not slatted. Ample dry bedding strewn with litter material shall be provided in the rest area. The litter shall comprise straw or other suitable natural material. The litter may be improved and enriched with any mineral product that is authorised pursuant to Article 24 as a fertiliser or soil conditioner for use in organic production;
+
+(c) notwithstanding point (a) of the first subparagraph of Article 3(1) and the second subparagraph of Article 3(1) of Council Directive 2008/119/EC ( 28 ), the housing of calves in individual boxes shall be forbidden after the age of one week, unless for individual animals for a limited period, and insofar as this is justified for veterinary reasons;
+
+(d) when a calf is treated individually for veterinary reasons, it shall be kept in spaces that have a solid floor and shall be provided with straw bedding. The calf must be able to turn around easily and to lie down comfortably at full length.
+
+1.9.2. For cervine animals
+
+1.9.2.1. Nutrition
+
+With regard to nutrition, the following rules shall apply:
+
+(a) at least 60 % of the feed shall come from the farm itself or, if this is not feasible or such feed is not available, shall be produced in cooperation with other organic or in-conversion production units and feed operators using feed and feed material from the same region. This percentage shall be raised to 70 % as from 1 January 2024  ;
+
+(b) animals shall have access to pasturage for grazing whenever conditions allow;
+
+(c) where animals have access to pasturage during the grazing period and where the winter housing system allows the animals to move freely, the obligation to provide open air areas during the winter months may be waived;
+
+(d) rearing systems shall be based on maximum use of grazing pasturage by reference to the availability of pastures in the different periods of the year;
+
+(e) at least 60 % of the dry matter in daily rations shall consist of roughage, fresh or dried fodder, or silage. This percentage may be reduced to 50 % for female cervine animals in milk production for a maximum period of three months in early lactation;
+
+(f) natural grazing shall be ensured in a pen during the period of vegetation. Pens that cannot provide feed by grazing during the period of vegetation shall not be allowed;
+
+(g) feeding shall only be allowed in the event of a shortage of grazing due to poor weather conditions;
+
+(h) farmed animals in a pen shall be provided with clean and fresh water. If a natural source of water that is easily accessible to animals is not available, watering places shall be provided.
+
+1.9.2.2. Housing and husbandry practices
+
+With regard to housing and husbandry practices, the following rules shall apply:
+
+(a) cervine animals shall be provided with hiding places, shelters and fences that do not harm animals;
+
+(b) in red deer pens, animals must be able to roll in the mud to ensure skin grooming and body temperature regulation;
+
+(c) any housing shall have smooth, but not slippery floors;
+
+(d) any housing shall be provided with a comfortable, clean and dry laying or rest area of sufficient size, consisting of a solid construction which is not slatted. Ample dry bedding strewn with litter material shall be provided in the rest area. The litter shall comprise straw or other suitable natural material. The litter may be improved and enriched with any mineral product authorised pursuant to Article 24 as a fertiliser or soil conditioner for use in organic production;
+
+(e) feeding places shall be installed in areas protected from the weather and accessible both to animals and to persons attending to them. The soil where feeding places are located shall be consolidated, and the feeding apparatus shall be equipped with a roof;
+
+(f) if permanent access to feed cannot be ensured, the feeding places shall be designed so that all animals can feed at the same time.
+
+1.9.3. For porcine animals
+
+1.9.3.1. Nutrition
+
+With regard to nutrition, the following rules shall apply:
+
+(a) at least 30 % of the feed shall come from the farm itself or, if this is not feasible or such feed is not available, shall be produced in cooperation with other organic or in-conversion production units and feed operators using feed and feed material from the same region;
+
+(b) roughage, fresh or dried fodder, or silage shall be added to the daily ration;
+
+(c) where farmers are unable to obtain protein feed exclusively from organic production, and the competent authority has confirmed that organic protein feed is not available in sufficient quantity, non-organic protein feed may be used until 31 December 2026  provided that the following conditions are fulfilled:
+
+(i) it is not available in organic form;
+
+(ii) it is produced or prepared without chemical solvents;
+
+(iii) its use is limited to the feeding of piglets of up to 35 kg with specific protein compounds; and
+
+(iv) the maximum percentage authorised per period of 12 months for those animals does not exceed 5 %. The percentage of the dry matter of feed from agricultural origin shall be calculated.
+
+1.9.3.2. Housing and husbandry practices
+
+With regard to housing and husbandry practices, the following rules shall apply:
+
+(a) the housing shall have smooth, but not slippery floors;
+
+(b) the housing shall be provided with a comfortable, clean and dry laying or rest area of sufficient size, consisting of a solid construction which is not slatted. Ample dry bedding strewn with litter material shall be provided in the rest area. The litter shall comprise straw or other suitable natural material. The litter may be improved and enriched with any mineral product authorised pursuant to Article 24 as a fertiliser or soil conditioner for use in organic production;
+
+(c) there shall always be a bed made of straw or other suitable material large enough to ensure that all pigs in a pen can lie down at the same time in the most space-consuming way;
+
+(d) sows shall be kept in groups, except in the last stages of pregnancy and during the suckling period, during which time the sow must be able to move freely in her pen and her movement shall only be restricted for short periods;
+
+(e) without prejudice to any additional requirements for straw, a few days before expected farrowing, sows shall be provided with a quantity of straw or other suitable natural material sufficient to enable them to build nests;
+
+(f) exercise areas shall permit dunging and rooting by porcine animals. For the purposes of rooting, different substrates may be used.
+
+1.9.4. For poultry
+
+1.9.4.1. Origin of animals
+
+To prevent the use of intensive rearing methods, poultry shall either be reared until they reach a minimum age or else shall come from slow-growing poultry strains adapted to outdoor rearing.
+
+The competent authority shall define the criteria of slow-growing strains or draw up a list of those strains and provide this information to operators, other Member States and the Commission.
+
+Where slow-growing poultry strains are not used by the farmer, the minimum age at slaughter shall be as follows:
+
+(a) 81 days for chickens;
+
+(b) 150 days for capons;
+
+(c) 49 days for Peking ducks;
+
+(d) 70 days for female Muscovy ducks;
+
+(e) 84 days for male Muscovy ducks;
+
+(f) 92 days for Mulard ducks;
+
+(g) 94 days for guinea fowl;
+
+(h) 140 days for male turkeys and roasting geese; and
+
+(i) 100 days for female turkeys.
+
+1.9.4.2. Nutrition
+
+With regard to nutrition, the following rules shall apply:
+
+(a) at least 30 % of the feed shall come from the farm itself or, if this is not feasible or such feed is not available, be produced in cooperation with other organic or in-conversion production units and feed operators using feed and feed material from the same region;
+
+(b) roughage, fresh or dried fodder, or silage shall be added to the daily ration;
+
+(c) where farmers are unable to obtain protein feed exclusively from organic production for poultry species, and the competent authority has confirmed that organic protein feed is not available in sufficient quantity, non-organic protein feed may be used until 31 December 2026  , provided that the following conditions are fulfilled:
+
+(i) it is not available in organic form;
+
+(ii) it is produced or prepared without chemical solvents;
+
+(iii) its use is limited to the feeding of young poultry with specific protein compounds; and
+
+(iv) the maximum percentage authorised per period of 12 months for those animals does not exceed 5 %. The percentage of the dry matter of feed of agricultural origin shall be calculated.
+
+1.9.4.3. Animal welfare
+
+Live plucking of poultry shall be prohibited.
+
+1.9.4.4. Housing and husbandry practices
+
+With regard to housing and husbandry practices, the following rules shall apply:
+
+(a) at least one third of the floor area shall be solid, that is, not of slatted or of grid construction, and shall be covered with a litter material such as straw, wood shavings, sand or turf;
+
+(b) in poultry houses for laying hens, a sufficiently large part of the floor area available to the hens shall be available for the collection of bird droppings;
+
+(c) buildings shall be emptied of livestock between each batch of poultry that has been reared. The buildings and fittings shall be cleaned and disinfected during this time. In addition, when the rearing of each batch of poultry has been completed, runs shall be left empty during a period to be established by the Member States in order to allow vegetation to grow back. The operator shall keep records or documentary evidence of the application of such period. Those requirements shall not apply where poultry are not reared in batches, are not kept in runs and are free to roam throughout the day;
+
+(d) poultry shall have access to an open air area for at least one third of their life. However, laying hens and finisher poultry shall have access to an open air area for at least one third of their life, except where temporary restrictions have been imposed on the basis of Union legislation;
+
+(e) continuous daytime open air access shall be provided from as early an age as practically possible and whenever physiological and physical conditions allow, except where temporary restrictions have been imposed on the basis of Union legislation;
+
+(f) by way of derogation from point 1.6.5, in the case of breeding birds and pullets aged under 18 weeks, when the conditions specified in point 1.7.3 as regards restrictions and obligations related to the protection of human and animal health imposed on the basis of Union legislation are met and prevent breeding birds and pullets aged under 18 weeks from having access to open air areas, verandas shall be considered as open air areas and, in such cases, shall have a wire mesh barrier to keep other birds out;
+
+(g) open air areas for poultry shall permit fowl to have easy access to adequate numbers of drinking troughs;
+
+(h) open air areas for poultry shall be covered mainly with vegetation;
+
+(i) under conditions where feed availability from the range area is limited, for example, due to long term snow cover or arid weather conditions, supplementary feeding of roughage shall be included as part of poultry diets;
+
+(j) where poultry are kept indoors due to restrictions or obligations imposed on the basis of Union legislation, they shall have permanent access to sufficient quantities of roughage and suitable material in order to meet their ethological needs;
+
+(k) water fowl shall have access to a stream, pond, lake or a pool whenever the weather and hygienic conditions permit, in order to respect their species-specific needs and animal welfare requirements; when weather conditions do not permit such access, they shall have access to water which enables them to dip their head therein so as to clean plumage;
+
+(l) natural light may be supplemented by artificial means to provide a maximum of 16 hours light per day, with a continuous nocturnal rest period without artificial light of at least eight hours;
+
+(m) the total usable surface area for fattening poultry in poultry houses of any production unit shall not exceed 1 600 m2;
+
+(n) not more than 3 000 laying hens shall be allowed in a single compartment of a poultry house.
+
+1.9.5. For rabbits
+
+1.9.5.1. Nutrition
+
+With regard to nutrition, the following rules shall apply:
+
+(a) at least 70 % of the feed shall come from the farm itself or, if this is not feasible or such feed is not available, shall be produced in cooperation with other organic or in-conversion production units and feed operators using feed and feed material from the same region;
+
+(b) rabbits shall have access to pasturage for grazing whenever conditions allow;
+
+(c) rearing systems shall be based on maximum use of grazing pasturage by reference to the availability of pastures in the different periods of the year;
+
+(d) fibrous feed such as straw or hay shall be provided when grass is not sufficient. Forage shall comprise at least 60 % of the diet.
+
+1.9.5.2. Housing and husbandry practices
+
+With regard to housing and husbandry practices, the following rules shall apply:
+
+(a) housing shall be provided with a comfortable, clean and dry laying or rest area of sufficient size, consisting of a solid construction which is not slatted. Ample dry bedding strewn with litter material shall be provided in the rest area. The litter shall comprise straw or other suitable natural material. The litter may be improved and enriched with any mineral product authorised pursuant to Article 24 as a fertiliser or soil conditioner for use in organic production;
+
+(b) rabbits shall be kept in groups.
+
+(c) rabbit farms shall use robust breeds adapted to outdoor conditions;
+
+(d) rabbits shall have access to:
+
+(i) covered shelter including dark hiding places;
+
+(ii) an outdoor run with vegetation, preferably pasture;
+
+(iii) a raised platform on which they can sit, either inside or out;
+
+(iv) nesting material for all nursing does.
+
+1.9.6. For bees
+
+1.9.6.1. Origin of animals
+
+For beekeeping, preference shall be given to the use of Apis mellifera and their local ecotypes.
+
+1.9.6.2. Nutrition
+
+With regard to nutrition, the following rules shall apply:
+
+(a) at the end of the production season hives shall be left with sufficient reserves of honey and pollen for the bees to survive the winter;
+
+(b) bee colonies may only be fed where the survival of the colony is endangered due to climatic conditions. In such case, bee colonies shall be fed with organic honey, organic pollen, organic sugar syrups, or organic sugar.
+
+1.9.6.3. Health care
+
+With regard to health care, the following rules shall apply:
+
+(a) for the purposes of protecting frames, hives and combs, in particular from pests, only rodenticides used in traps, and appropriate products and substances authorised pursuant to Articles 9 and 24 for use in organic production shall be permitted;
+
+(b) physical treatments for disinfection of apiaries such as steam or direct flame shall be permitted;
+
+(c) the practice of destroying the male brood shall only be permitted for the purpose of isolating the infestation of Varroa destructor;
+
+(d) if, despite all preventive measures, the colonies become sick or infested, they shall be treated immediately and, if necessary, may be placed in isolation apiaries;
+
+(e) formic acid, lactic acid, acetic acid and oxalic acid, as well as menthol, thymol, eucalyptol or camphor, may be used in cases of infestation with Varroa destructor;
+
+(f) if a treatment is applied with chemically synthesised allopathic products, including antibiotics, other than products and substances authorised pursuant to Articles 9 and 24 for use in organic production, for the duration of that treatment, the treated colonies shall be placed in isolation apiaries and all the wax shall be replaced with wax coming from organic beekeeping. Subsequently, the conversion period of 12 months laid down in point 1.2.2 shall apply to those colonies.
+
+1.9.6.4. Animal welfare
+
+With regard to beekeeping, the following additional general rules shall apply:
+
+(a) the destruction of bees in the combs as a method associated with the harvesting of apiculture products shall be prohibited;
+
+(b) mutilation such as clipping the wings of queen bees shall be prohibited.
+
+1.9.6.5. Housing and husbandry practices
+
+With regard to housing and husbandry practices, the following rules shall apply:
+
+(a) apiaries shall be placed in areas which ensure the availability of nectar and pollen sources consisting essentially of organically produced crops or, where appropriate, of spontaneous vegetation or non-organically managed forests or crops that are only treated with low environmental impact methods;
+
+(b) apiaries shall be kept at sufficient distance from sources that may lead to the contamination of apiculture products or to the poor health of the bees;
+
+(c) the siting of the apiaries shall be such that, within a radius of 3 km from the apiary site, nectar and pollen sources consist essentially of organically produced crops or spontaneous vegetation or crops treated with low environmental impact methods equivalent to those provided for in Articles 28 and 30 of Regulation (EU) No 1305/2013 which cannot affect the qualification of beekeeping production as being organic. That requirement does not apply where flowering is not taking place, or the bee colonies are dormant;
+
+(d) the hives and materials used in beekeeping shall be made basically of natural materials presenting no risk of contamination to the environment or the apiculture products;
+
+(e) the beeswax for new foundations shall come from organic production units;
+
+(f) only natural products such as propolis, wax and plant oils may be used in the hives;
+
+(g) synthetic chemical repellents shall not be used during honey extraction operations;
+
+(h) brood combs shall not be used for honey extraction;
+
+(i) beekeeping shall not be considered as organic when practiced in regions or areas designated by Member States as regions or areas where organic beekeeping is not practicable.
+
+1.9.6.6. Record-keeping obligations
+
+Operators shall keep a map on an appropriate scale or geographic coordinates of the location of hives to be provided to the control authority or control body demonstrating that the areas accessible to the colonies meet the requirements of this Regulation.
+
+The following information shall be entered in the register of the apiary with regard to feeding: name of the product used, dates, quantities and hives where the product is used.
+
+The zone where the apiary is situated shall be recorded together with the identification of the hives and the period of moving.
+
+All the measures applied shall be recorded in the register of the apiary, including the removals of the supers and the honey extraction operations. The amount and dates of the collection of honey shall also be recorded.
+
+**Part III: Production rules for algae and aquaculture animals**
+
+**1\. General requirements**
+
+1.1. Operations shall be situated in locations that are not subject to contamination with products or substances not authorised for use in organic production, or with pollutants that would compromise the organic nature of the products.
+
+1.2. Organic and non-organic production units shall be adequately separated in accordance with the minimum separation distances set by Member States, where applicable. Such separation measures shall be based on the natural situation, separate water distribution systems, distances, the tidal flow, and the upstream and the downstream location of the organic production unit. Algae and aquaculture production shall not be considered as organic when practiced at locations or in areas designated by Member State authorities as locations or areas which are unsuitable for such activities.
+
+1.3. An environmental assessment that is appropriate to the production unit shall be required for any new operators applying for organic production and producing more than 20 tonnes of aquaculture products per year to ascertain the conditions of the production unit and its immediate environment and likely effects of its operation. The operator shall provide the environmental assessment to the control authority or control body. The content of the environmental assessment shall be based on Annex IV to Directive 2011/92/EU of the European Parliament and of the Council ( 29 ). If the production unit has already been subject to an equivalent assessment, that assessment may be used for this purpose.
+
+1.4. Mangrove destruction shall not be permitted.
+
+1.5. The operator shall provide a sustainable management plan proportionate to the production unit for aquaculture and algae harvesting.
+
+1.6. The plan shall be updated annually and shall detail the environmental effects of the operation and the environmental monitoring to be undertaken, and shall list the measures to be taken to minimise negative impacts on the surrounding aquatic and terrestrial environments, including, where applicable, nutrient discharge into the environment per production cycle or per annum. The plan shall record the surveillance and repair of technical equipment.
+
+1.7. Defensive and preventive measures taken against predators in accordance with Directive 92/43/EEC and national rules shall be recorded in the sustainable management plan.
+
+1.8. Where applicable, coordination shall take place with the neighbouring operators in drawing up the management plan.
+
+1.9. Aquaculture and algae business operators shall draw up as part of the sustainable management plan a waste reduction schedule to be put in place at the commencement of operations. Where possible, the use of residual heat shall be limited to energy from renewable sources.
+
+1.10. Preparation of unprocessed products
+
+If preparation operations, other than processing, are carried out on algae or aquaculture animals, the general requirements laid down in points 1.2, 1.3, 1.4, 1.5 and 2.2.3 of Part IV shall apply mutatis mutandis to such operations.
+
+1.11. Operators shall keep available documentary evidence on any derogation from production rules for aquaculture animals obtained in accordance with points 3.1.2.1(d) and (e).
+
+**2\. Requirements for algae**
+
+In addition to the general production rules laid down in Articles 9, 10, 11 and 15, and where relevant in Section 1 of this Part, the rules laid down in this Section shall apply to the organic collection and production of algae. Those rules shall apply mutatis mutandis to the production of phytoplankton.
+
+2.1. Conversion
+
+2.1.1. The conversion period for a production unit for algae collection shall be six months.
+
+2.1.2. The conversion period for a production unit for algae cultivation shall be a period of six months or one full production cycle, whichever is the longer.
+
+2.2. Production rules for algae
+
+2.2.1. The collection of wild algae and parts thereof is considered as organic production provided that:
+
+(a) the growing areas are suitable from a health point of view and are of high ecological status as defined by Directive 2000/60/EC, or are of equivalent quality to:
+
+— the production zones classed as A and B in Regulation (EC) No 854/2004 of the European Parliament and of the Council ( 30 ), until 13 December 2019, or
+
+— the corresponding classification areas set out in the implementing acts adopted by the Commission in accordance with Article 18(8) of Regulation (EU) 2017/625, from 14 December 2019;
+
+(b) the collection does not affect significantly the stability of the natural ecosystem or the maintenance of the species in the collection area.
+
+2.2.2. The cultivation of algae shall take place in areas with environmental and health characteristics at least equivalent to those outlined in point 2.2.1(a) in order to be considered organic. In addition the following production rules shall apply:
+
+(a) sustainable practices shall be used in all stages of production, from the collection of juvenile algae to harvesting;
+
+(b) to ensure that a wide gene-pool is maintained, the collection of juvenile algae in the wild shall take place on a regular basis so as to maintain and increase the diversity of indoor culture stock;
+
+(c) fertilisers shall not be used, except in indoor facilities, and only if they have been authorised pursuant to Article 24 for use in organic production for this purpose.
+
+Operators shall keep records of the use of those products, including the date or dates on which each product was used, the name of the product, and the amount applied, with information on the lots/tanks/basins concerned.
+
+2.3. Algae cultivation
+
+2.3.1. Algae culture at sea shall only utilise nutrients naturally occurring in the environment, or from organic aquaculture animal production, preferably located nearby as part of a polyculture system.
+
+2.3.2. In facilities on land where external nutrient sources are used, the nutrient levels in the effluent water shall be verifiably the same, or lower, than the inflowing water. Only nutrients of plant or mineral origin authorised pursuant to Article 24 for use in organic production may be used.
+
+Operators shall keep records of the use of those products, including the date or dates on which the product are used, the name of the product, and the amount applied with information on the lots/tanks/basins concerned.
+
+2.3.3. Culture density or operational intensity shall be recorded and shall maintain the integrity of the aquatic environment by ensuring that the maximum quantity of algae which can be supported without negative effects on the environment is not exceeded.
+
+2.3.4. Ropes and other equipment used for growing algae shall be re-used or recycled where possible.
+
+2.4. Sustainable collection of wild algae
+
+2.4.1. A once-off biomass estimate shall be undertaken at the outset of algae collection.
+
+2.4.2. Documentary accounts shall be maintained in the unit or premises and shall enable the operator to identify and the control authority or control body to verify that the collectors have supplied only wild algae produced in accordance with this Regulation.
+
+2.4.3. Collection shall be carried out in such a way that the amounts collected do not cause a significant impact on the state of the aquatic environment. Measures such as collection technique, minimum sizes, ages, reproductive cycles or size of remaining algae shall be taken to ensure that algae can regenerate and to ensure that by-catches are prevented.
+
+2.4.4. If algae are collected from a shared or common collection area, documentary evidence produced by the relevant authority designated by the Member State concerned shall be available showing that the total collection complies with this Regulation.
+
+**3\. Requirements for aquaculture animals**
+
+In addition to the general production rules laid down in Article 9, 10, 11 and 15, and where relevant in Section 1 of this Part, the rules laid down in this Section shall apply to the organic production of species of fish, crustaceans, echinoderms and molluscs. Those rules also shall apply mutatis mutandis to the production of zooplankton, micro-crustaceans, rotifers, worms and other aquatic feed animals.
+
+3.1. General requirements
+
+3.1.1. Conversion
+
+The following conversion periods for aquaculture production units shall apply for the following types of aquaculture facilities including the existing aquaculture animals:
+
+(a) for facilities that cannot be drained, cleaned and disinfected, a conversion period of 24 months;
+
+(b) for facilities that have been drained, or fallowed, a conversion period of 12 months;
+
+(c) for facilities that have been drained, cleaned and disinfected, a conversion period of six months;
+
+(d) for open water facilities, including those producing bivalve molluscs, a conversion period of three months.
+
+3.1.2. Origin of aquaculture animals
+
+3.1.2.1. With regard to the origin of the aquaculture animals, the following rules shall apply:
+
+(a) organic aquaculture shall be based on the rearing of young stock originating from organic broodstock and from organic production units;
+
+(b) locally grown species shall be used, and breeding shall aim to produce strains which are better adapted to production conditions, ensuring good animal health and welfare and good utilisation of feed resources. Documentary evidence of their origin and treatment shall be provided for the competent authority, or, where appropriate, the control authority or control body;
+
+(c) species shall be chosen which are robust and can be produced without causing significant damage to wild stocks;
+
+(d) for breeding purposes, wild-caught or non-organic aquaculture animals may be brought into a holding only in duly justified cases where no organic breed is available or where new genetic stock for breeding purposes is brought into the production unit after an authorisation has been granted by the competent authority with a view to improving the suitability of genetic stock. Such animals shall be kept under organic management for at least three months before they may be used for breeding. For animals that are on the IUCN Red List of endangered species, the authorisation to use wild-caught specimens may only be granted in the context of conservation programmes recognised by the relevant public authority in charge of the conservation effort;
+
+(e) for on-growing purposes, the collection of wild aquaculture juveniles shall be specifically restricted to the following cases:
+
+(i) natural influx of fish or crustacean larvae and juveniles when filling ponds, containment systems and enclosures;
+
+(ii) restocking of wild fry or crustacean larvae of species that are not on the IUCN Red List of endangered species in extensive aquaculture farming inside wetlands, such as brackish water ponds, tidal areas and costal lagoons, provided that:
+
+— the restocking is in line with management measures approved by the relevant authorities to ensure the sustainable exploitation of the species concerned, and
+
+— the animals are fed exclusively with feed naturally available in the environment.
+
+By way of derogation from point (a), Member States may authorise the introduction for on-growing purposes on an organic production unit of a maximum of 50 % of non-organic juveniles of species that were not developed as organic in the Union by 1 January 2022  , provided that at least the latter two thirds of the duration of the production cycle are managed under organic management. Such derogation may be granted for a maximum period of two years and shall not be renewable.
+
+For aquaculture holdings situated outside the Union, such derogation may only be granted by control authorities or control bodies that have been recognised in accordance with Article 46(1) for species that were not developed as organic in either the territory of the country in which the holding is located or the Union. Such derogation may be granted for a maximum period of two years and shall not be renewable.
+
+3.1.2.2. With regard to breeding, the following rules shall apply:
+
+(a) hormones and hormone-derivates shall not be used;
+
+(b) the artificial production of monosex strains, except by hand-sorting, the induction of polyploidy, artificial hybridisation and cloning shall not be used;
+
+(c) appropriate strains shall be chosen.
+
+3.1.2.3. Juvenile production
+
+In the larval rearing of marine fish species, rearing systems (preferably the ‘mesocosm’ or ‘large volume rearing’) may be used. Those rearing systems shall meet the following requirements:
+
+(a) the initial stocking density shall be below 20 eggs or larvae per litre;
+
+(b) the larval rearing tank shall have a volume of minimum 20 m3; and
+
+(c) the larvae shall feed on the natural plankton developing in the tank, supplemented as appropriate by externally produced phytoplankton and zooplankton.
+
+3.1.2.4. Operators shall keep records of the origin of animals, identifying the animals/batches of animals, the date of arrival and type of species, the quantities, the organic or non-organic status, and the conversion period.
+
+3.1.3. Nutrition
+
+3.1.3.1. With regard to feed for fish, crustaceans and echinoderms, the following rules shall apply:
+
+(a) animals shall be fed with feed that meets the animals’ nutritional requirements at the various stages of its development;
+
+(b) feeding regimes shall be designed with the following priorities:
+
+(i) animal health and welfare;
+
+(ii) high product quality, including the nutritional composition of the product, which shall ensure high quality of the final edible product;
+
+(iii) low environmental impact;
+
+(c) the plant fraction of feed shall be organic and the feed fraction derived from aquatic animals shall originate from organic aquaculture or from fisheries that have been certified as sustainable under a scheme recognised by the competent authority in line with the principles laid down in Regulation (EU) No 1380/2013;
+
+(d) non-organic feed materials of plant, animal, algal or yeast origin, feed materials of mineral or microbial origin, feed additives, and processing aids shall only be used if they have been authorised under this Regulation for use in organic production;
+
+(e) growth promoters and synthetic amino-acids shall not be used.
+
+3.1.3.2. With regard to bivalve molluscs and other species which are not fed by man, but instead feed on natural plankton, the following rules shall apply:
+
+(a) such filter-feeding animals shall receive all their nutritional requirements from nature, except in the case of juveniles reared in hatcheries and nurseries;
+
+(b) the growing areas shall be suitable from a health point of view and shall either be of high ecological status as defined by Directive 2000/60/EC or of good environmental status as defined by Directive 2008/56/EC or of equivalent quality to:
+
+— the production zones classed as A in Regulation (EC) No 854/2004, until 13 December 2019, or
+
+— the corresponding classification areas set out in the implementing acts adopted by the Commission in accordance with Article 18(8) of Regulation (EU) 2017/625, from 14 December 2019.
+
+3.1.3.3. Specific rules on feed for carnivorous aquaculture animals
+
+Feed for carnivorous aquaculture animals shall be sourced with the following priorities:
+
+(a) organic feed of aquaculture origin;
+
+(b) fish meal and fish oil from organic aquaculture trimmings sourced from fish, crustaceans or molluscs;
+
+(c) fish meal and fish oil and feed material of fish origin derived from trimmings of fish, crustaceans or molluscs already caught for human consumption in sustainable fisheries;
+
+(d) fish meal and fish oil and feed material of fish origin derived from whole fish, crustaceans or molluscs caught in sustainable fisheries and not used for human consumption;
+
+(e) organic feed materials of plant or animal origin.
+
+3.1.3.4. Specific rules on feed for certain aquaculture animals
+
+In the grow-out phase, fish in inland waters, penaeid shrimps and freshwater prawns and tropical freshwater fish shall be fed as follows:
+
+(a) they shall be fed with feed naturally available in ponds and lakes;
+
+(b) where natural feed referred to in point (a) is not available in sufficient quantities, organic feed of plant origin, preferably grown on the farm itself, or algae may be used. Operators shall keep documentary evidence of the need to use additional feed;
+
+(c) where natural feed is supplemented in accordance with point (b):
+
+(i) the feed ration of penaeid shrimps and freshwater prawns (Macrobrachium spp.) may consist of a maximum of 25 % fishmeal and 10 % fish oil derived from sustainable fisheries;
+
+(ii) the feed ration of siamese catfish (Pangasius spp.) may consist of a maximum of 10 % fishmeal or fish oil derived from sustainable fisheries.
+
+In the grow-out phase and in earlier life stages in nurseries and hatcheries, organic cholesterol may be used to supplement the diets of penaeid shrimps and freshwater prawns (Macrobrachium spp.), in order to secure their quantitative dietary need.
+
+3.1.3.5. Operators shall keep records of specific feeding regimes, in particular, on the name and quantity of feed and the use of additional feed, and the respective animals/batches of animals fed.
+
+3.1.4. Health care
+
+3.1.4.1. Disease prevention
+
+With regard to disease prevention, the following rules shall apply:
+
+(a) disease prevention shall be based on keeping the animals in optimal conditions by appropriate siting, taking into account, inter alia, the species’ requirements for good water quality, flow and exchange rate, the optimal design of the holdings, the application of good husbandry and management practices, including regular cleaning and disinfection of premises, high-quality feed, appropriate stocking density, and breed and strain selection;
+
+(b) immunological veterinary medicines may be used;
+
+(c) an animal health management plan shall detail biosecurity and disease prevention practices including a written agreement for health counselling, proportionate to the production unit, with qualified aquaculture animal health services who shall visit the farm at a frequency of not less than once per year or, in the case of bivalve shellfish, not less than once every two years;
+
+(d) holding systems, equipment and utensils shall be properly cleaned and disinfected;
+
+(e) bio-fouling organisms shall be removed only by physical means or by hand and where appropriate returned to the sea at a distance from the farm;
+
+(f) only substances for cleaning and disinfection of equipment and facilities authorised pursuant to Article 24 for use in organic production may be used;
+
+(g) with regard to fallowing, the following rules shall apply:
+
+(i) the competent authority, or, where appropriate, control authority or control body, shall determine whether fallowing is necessary and shall determine the appropriate duration which shall be applied and documented after each production cycle in open water containment systems at sea;
+
+(ii) it shall not be mandatory for bivalve mollusc cultivation;
+
+(iii) during fallowing the cage or other structure used for aquaculture animal production is emptied, disinfected and left empty before being used again;
+
+(h) where appropriate, uneaten fish-feed, faeces and dead animals shall be removed promptly to avoid any risk of significant environmental damage as regards water status quality, to minimise disease risks, and to avoid attracting insects or rodents;
+
+(i) ultraviolet light and ozone may only be used in hatcheries and nurseries;
+
+(j) for biological control of ectoparasites, preference shall be given to the use of cleaner fish and to the use of freshwater, marine water and sodium chloride solutions.
+
+3.1.4.2. Veterinary treatments
+
+With regard to veterinary treatments, the following rules shall apply:
+
+(a) disease shall be treated immediately to avoid suffering to the animal. Chemically synthesised allopathic veterinary medicinal products, including antibiotics, may be used where necessary, under strict conditions and under the responsibility of a veterinarian, where the use of phytotherapeutic, homeopathic and other products is inappropriate. Where appropriate, restrictions with respect to courses of treatment and withdrawal periods shall be defined;
+
+(b) treatments related to the protection of human and animal health imposed on the basis of Union legislation shall be allowed;
+
+(c) when despite preventive measures to ensure animal health referred to in point 3.1.4.1 a health problem arises, veterinary treatments may be used in the following order of preference:
+
+(i) substances from plants, animals or minerals in a homoeopathic dilution;
+
+(ii) plants and their extracts not having anaesthetic effects; and
+
+(iii) substances such as trace elements, metals, natural immunostimulants or authorised probiotics;
+
+(d) the use of allopathic treatments shall be limited to two courses of treatment per year, with the exception of vaccinations and compulsory eradication schemes. However, in the cases of a production cycle of less than a year, a limit of one allopathic treatment shall apply. Where the indicated limits for allopathic treatments are exceeded, the aquaculture animals concerned shall not be marketed as organic products;
+
+(e) the use of parasite treatments, other than through compulsory control schemes operated by Member States, shall be limited as follows:
+
+(i) for salmon, to maximum two courses of treatment per year, or to one course of treatment per year where the production cycle is less than 18 months;
+
+(ii) for all species other than salmon, to two courses of treatment per year, or to one course of treatment per year where the production cycle is less than 12 months;
+
+(iii) for all species, to no more than four courses of treatment in total, regardless of the length of the production cycle of the species;
+
+(f) the withdrawal period for allopathic veterinary treatments and parasite treatments in accordance with point (d), including treatments under compulsory control and eradication schemes, shall be twice the withdrawal period referred to in Article 11 of Directive 2001/82/EC or, where this period is not specified, 48 hours;
+
+(g) any use of veterinary medicinal products shall be declared to the competent authority, or, where appropriate, to the control authority or control body, before the animals are marketed as organic products. Treated stock shall be clearly identifiable.
+
+3.1.4.3. Record-keeping of disease prevention
+
+Operators shall keep records of the disease prevention measures applied giving details of fallowing, cleaning and water treatment, and of any veterinary and other parasite treatment applied and in particular, the date of treatment, diagnosis, the posology, the name of the treatment product, and veterinary prescription for veterinary care, where applicable, and withdrawal periods applied before aquaculture products can be marketed and labelled as organic.
+
+3.1.5. Housing and husbandry practices
+
+3.1.5.1. Closed recirculation aquaculture animal production facilities shall be prohibited, with the exception of hatcheries and nurseries or facilities for the production of species used for organic feed organisms.
+
+3.1.5.2. Artificial heating or cooling of water shall only be permitted in hatcheries and nurseries. Natural borehole water may be used to heat or cool water at all stages of production.
+
+3.1.5.3. The husbandry environment of the aquaculture animals shall be designed in such a way that, in accordance with their species-specific needs, the aquaculture animals:
+
+(a) have sufficient space for their welfare and have the relevant stocking density laid down in the implementing acts referred to in Article 15(3);
+
+(b) are kept in water of good quality with, inter alia, an adequate flow and exchange rate, sufficient oxygen levels and keeping a low level of metabolites;
+
+(c) are kept in temperature and light conditions in accordance with the requirements of the species and having regard to the geographic location.
+
+In considering the effects of stocking density on the welfare of produced fish, the condition of the fish (such as fin damage, other injuries, growth rate, behaviour expressed and overall health) and the water quality shall be monitored and taken into account.
+
+In the case of freshwater fish, the bottom type shall be as close as possible to natural conditions.
+
+In the case of carp and similar species:
+
+— the bottom shall be natural earth,
+
+— organic and mineral fertilisation of the ponds and lakes shall be carried out only with fertilisers and soil conditioners that have been authorised pursuant to Article 24 for use in organic production, with a maximum application of 20 kg nitrogen/ha,
+
+— treatments involving synthetic chemicals for the control of hydrophytes and plant coverage present in production waters shall be prohibited.
+
+Operators shall keep records of monitoring and maintenance measures concerning animal welfare and water quality. In case of fertilisation of ponds and lakes, the operators shall keep records of the application of fertilisers and soil conditioners, including the date of application, the name of the product, the amount applied, and the location of the application concerned.
+
+3.1.5.4. The design and construction of aquatic containment systems shall provide flow rates and physiochemical parameters that safeguard the animals’ health and welfare, and that provide for their behavioural needs.
+
+The specific characteristics for production systems and containment systems for species or group of species laid down in the implementing acts referred to in Article 15(3) shall be complied with.
+
+3.1.5.5. Rearing units on land shall meet the following conditions:
+
+(a) flow-through systems shall allow the monitoring and control of the flow rate and water quality of both in-flowing and out-flowing water;
+
+(b) at least 10 % of the perimeter (‘land-water interface’) area shall have natural vegetation.
+
+3.1.5.6. Containment systems at sea shall meet the following conditions:
+
+(a) they shall be located where water flow, depth and water-body exchange rates are adequate to minimise the impact on the seabed and the surrounding water body;
+
+(b) they shall have suitable cage design, construction and maintenance with regard to their exposure to the operating environment.
+
+3.1.5.7. Containment systems shall be designed, located and operated to minimise the risk of escape incidents.
+
+3.1.5.8. If fish or crustaceans escape, appropriate action shall be taken to reduce the impact on the local ecosystem, including recapture where appropriate. Records shall be kept.
+
+3.1.5.9. For aquaculture animal production in fishponds, tanks or raceways, farms shall be equipped with either natural-filter beds, settlement ponds, biological filters or mechanical filters to collect waste nutrients or use algae or animals (bivalves) which contribute to improving the quality of the effluent. Effluent monitoring shall be carried out at regular intervals where appropriate.
+
+3.1.6. Animal welfare
+
+3.1.6.1. All persons involved in keeping aquaculture animals shall possess the necessary basic knowledge and skills as regards the health and the welfare needs of those animals.
+
+3.1.6.2. The handling of aquaculture animals shall be minimised, and shall be undertaken with the greatest care. Proper equipment and protocols shall be used to avoid stress and physical damage associated with handling procedures. Broodstock shall be handled in such a manner as to minimise physical damage and stress, and shall be handled under anaesthesia where appropriate. Grading operations shall be kept to a minimum and shall only be used where required to ensure fish welfare.
+
+3.1.6.3. The following restrictions shall apply to the use of artificial light:
+
+(a) for prolonging natural day length, it shall not exceed a maximum that respects the ethological needs, geographical conditions and general health of the animals; this maximum shall not exceed 14 hours per day, except where necessary for reproductive purposes;
+
+(b) abrupt changes in light intensity shall be avoided at the changeover time through the use of dimmable lights or background lighting.
+
+3.1.6.4. Aeration shall be permitted to ensure animal welfare and health. Mechanical aerators shall be preferably powered by renewable energy sources.
+
+3.1.6.5. Oxygen may only be used for uses linked to animal health and welfare requirements and for critical periods of production or transport, and only in the following cases:
+
+(a) exceptional cases of a change in temperature, a drop in atmospheric pressure or accidental water pollution;
+
+(b) occasional stock management procedures, such as sampling and sorting;
+
+(c) in order to assure the survival of the farm stock.
+
+Operators shall keep records of such uses, indicating whether applied under point (a) (b) or (c).
+
+3.1.6.6. Appropriate measures shall be taken to keep the duration of the transport of aquaculture animals to a minimum.
+
+3.1.6.7. Any suffering shall be kept to a minimum during the entire life of the animal, including at the time of slaughter.
+
+3.1.6.8. Eyestalk ablation, including all similar practices such as ligation, incision and pinching, is prohibited.
+
+3.1.6.9. Slaughter techniques shall render fish immediately unconscious and insensible to pain. Handling prior to slaughter shall be performed in a way that avoids injuries while keeping suffering and stress at a minimum. Differences in harvesting sizes, species, and production sites shall be taken into account when considering optimal slaughtering methods.
+
+3.2. Detailed rules for molluscs
+
+3.2.1. Origin of seed
+
+With regard to the origin of seed, the following rules shall apply:
+
+(a) wild seed from outside the boundaries of the production unit may be used in the case of bivalve shellfish, provided that there is no significant damage to the environment, provided that it is permitted by local legislation and provided that the wild seed comes from:
+
+(i) settlement beds which are unlikely to survive winter weather or are surplus to requirements; or
+
+(ii) natural settlement of shellfish seed on collectors;
+
+(b) for the cupped oyster (Crassostrea gigas), preference shall be given to stock which is selectively bred to reduce spawning in the wild;
+
+(c) records shall be kept of how, where and when wild seed was collected to allow traceability back to the collection area;
+
+(d) wild seed may only be collected after the competent authority has granted authorisation to do so.
+
+3.2.2. Housing and husbandry practices
+
+With regard to housing and husbandry practices, the following rules shall apply:
+
+(a) production may be carried out in the same area of water as organic finfish and algae production, in a polyculture system that shall be documented in the sustainable management plan. Bivalve molluscs may also be grown together with gastropod molluscs, such as periwinkles, in polyculture;
+
+(b) organic bivalve mollusc production shall take place within areas delimited by posts, floats or other clear markers and shall, where appropriate, be restrained by net bags, cages or other man made means;
+
+(c) organic shellfish farms shall minimise risks to species of conservation interest. If predator nets are used, their design shall not permit diving birds to be harmed.
+
+3.2.3. Cultivation
+
+With regard to cultivation, the following rules shall apply:
+
+(a) cultivation on mussel ropes and other methods listed in the implementing acts referred to in Article 15(3) may be used in organic production;
+
+(b) the bottom cultivation of molluscs is only permitted where no significant environmental impact is caused at the collection and growing sites. A survey and report supporting the evidence of minimal environmental impact shall be added as a separate chapter to the sustainable management plan, and shall be provided by the operator to the competent authority, or, where appropriate, to the control authority or control body, before starting operations.
+
+3.2.4. Management
+
+With regard to management, the following rules shall apply:
+
+(a) production shall use a stocking density not in excess of that used for non-organic molluscs in the locality. Sorting, thinning and stocking density adjustments shall be made according to the biomass and to ensure animal welfare and high product quality;
+
+(b) biofouling organisms shall be removed by physical means or by hand and where appropriate returned to the sea away from mollusc farms. Molluscs may be treated once during the production cycle with a lime solution to control competing fouling organisms.
+
+3.2.5. Specific cultivation rules for oysters
+
+Cultivation in bags on trestles shall be permitted. Those or other structures in which the oysters are contained shall be set out so as to avoid the formation of a total barrier along the shoreline. Stock shall be positioned carefully on the beds in relation to tidal flow to optimise production. Production shall meet the requirements set out in the implementing acts referred to in Article 15(3).
+
+**Part IV: Processed food production rules**
+
+In addition to the general production rules laid down in Articles 9, 11 and 16, the rules laid down in this Part shall apply to the organic production of processed food.
+
+**1\. General requirements for the production of processed food**
+
+1.1. Food additives, processing aids and other substances and ingredients used for processing food and any processing practice applied, such as smoking, shall comply with the principles of good manufacturing practice ( 31 ).
+
+1.2. Operators producing processed food shall establish and update appropriate procedures based on a systematic identification of critical processing steps.
+
+1.3. The application of the procedures referred to in point 1.2 shall ensure that the produced processed products comply with this Regulation at all times.
+
+1.4. Operators shall comply with and implement the procedures referred to in point 1.2, and, without prejudice to Article 28, shall in particular,:
+
+(a) take precautionary measures and keep records of those measures;
+
+(b) implement suitable cleaning measures, monitor their effectiveness and keep records of those operations;
+
+(c) guarantee that non-organic products are not placed on the market with an indication referring to organic production.
+
+1.5. The preparation of processed organic, in-conversion and non-organic products shall be kept separate from each other in time or space. Where organic, in-conversion and non-organic products, in any combination, are prepared or stored in the preparation unit concerned, the operator shall:
+
+(a) inform the competent authority, or, where appropriate, the control authority or control body, accordingly;
+
+(b) carry out the operations continuously until the production run has been completed, separately in place or time from similar operations performed on any other kind of product (organic, in-conversion or non-organic);
+
+(c) store organic, in-conversion and non-organic products, before and after the operations, separate by place or time from each other;
+
+(d) keep available an updated register of all operations and quantities processed;
+
+(e) take the necessary measures to ensure identification of lots and to avoid mixtures or exchanges between organic, in-conversion and non-organic products;
+
+(f) carry out operations on organic or in-conversion products only after suitable cleaning of the production equipment.
+
+1.6. Products, substances and techniques that reconstitute properties that are lost in the processing and storage of organic food, that correct the results of negligence in the processing of organic food, or that otherwise may be misleading as to the true nature of products intended to be marketed as organic food, shall not be used.
+
+1.7. Operators shall keep available documentary evidence on authorisations for the use of non-organic agricultural ingredients for the production of processed organic food in accordance with Article 25 if they have obtained or used such authorisations.
+
+**2\. Detailed requirements for the production of processed food**
+
+2.1. The following conditions shall apply to the composition of processed organic food:
+
+(a) the product shall be produced mainly from agricultural ingredients or products intended for use as food listed in Annex I; for the purpose of determining whether a product has been produced mainly from those products, added water and salt shall not be taken into account;
+
+(b) an organic ingredient shall not be present together with the same ingredient in non-organic form;
+
+(c) an in-conversion ingredient shall not be present together with the same ingredient in organic or non-organic form.
+
+2.2. Use of certain products and substances in processing of food
+
+2.2.1. Only food additives, processing aids and non-organic agricultural ingredients authorised pursuant to Article 24 or Article 25 for use in organic production, and the products and substances referred to in point 2.2.2 may be used in the processing of food, with the exception of products and substances of the wine sector, for which point 2 of Part VI shall apply, and with the exception of yeast, for which point 1.3 of Part VII shall apply.
+
+2.2.2. In the processing of food, the following products and substances may be used:
+
+(a) preparations of micro-organisms and food enzymes normally used in food processing, provided that food enzymes to be used as food additives have been authorised pursuant to Article 24 for use in organic production;
+
+(b) substances and products defined in points (c) and (d)(i) of Article 3(2) of Regulation (EC) No 1334/2008 that have been labelled as natural flavouring substances or natural flavouring preparations in accordance with Article 16(2), (3) and (4) of that Regulation;
+
+(c) colours for stamping meat and eggshells in accordance with Article 17 of Regulation (EC) No 1333/2008;
+
+(d) natural colours and natural coating substances for the traditional decorative colouring of the shell of boiled eggs produced with the intention of placing them on the market at a given period of the year;
+
+(e) drinking water and organic or non-organic salt (with sodium chloride or potassium chloride as basic components) generally used in food processing;
+
+(f) minerals (trace elements included), vitamins, amino acids and micronutrients, provided that:
+
+(i) their use in food for normal consumption is ‘directly legally required’, in the meaning of being directly required by provisions of Union law or provisions of national law compatible with Union law, with the consequence that the food cannot be placed at all on the market as food for normal consumption if those minerals, vitamins, amino acids or micronutrients are not added; or
+
+(ii) as regards food placed on the market as having particular characteristics or effects in relation to health or nutrition or in relation to needs of specific groups of consumers:
+
+— in products referred to in points (a) and (b) of Article 1(1) of Regulation (EU) No 609/2013 of the European Parliament and of the Council ( 32 ) their use is authorised by that Regulation and acts adopted on the basis of Article 11(1) of that Regulation for the products concerned, or
+
+— in products regulated by Commission Directive 2006/125/EC ( 33 ), their use is authorised by that Directive.
+
+2.2.3. Only the products for cleaning and disinfection authorised pursuant to Article 24 for use in processing shall be used for that purpose.
+
+Operators shall keep records of the use of those products, including the date or dates on which each product was used, the name of the product, its active substances and the location of such use.
+
+2.2.4. For the purpose of the calculation referred to in Article 30(5), the following rules shall apply:
+
+(a) certain food additives authorised pursuant to Article 24 for use in organic production shall be calculated as agricultural ingredients;
+
+(b) preparations and substances referred to in points (a), (c), (d), (e) and (f) of point 2.2.2 shall not be calculated as agricultural ingredients;
+
+(c) yeast and yeast products shall be calculated as agricultural ingredients.
+
+2.3. Operators shall keep records of any input used in the food production. In case of production of composite products, complete recipes/formulae showing the quantities of input and output shall be kept available for the competent authority or control body.
+
+**Part V: Processed feed production rules**
+
+In addition to the general production rules laid down in Articles 9, 11 and 17, the rules laid down in this Part shall apply to the organic production of processed feed.
+
+**1\. General requirements for the production of processed feed**
+
+1.1. Feed additives, processing aids and other substances and ingredients used for processing feed, and any processing practice used, such as smoking, shall comply with the principles of good manufacturing practice.
+
+1.2. Operators that produce processed feed shall establish and update appropriate procedures based on a systematic identification of the critical processing steps.
+
+1.3. The application of the procedures referred to in point 1.2 shall ensure that the produced processed products comply with this Regulation at all times.
+
+1.4. Operators shall comply with and implement the procedures referred to in point 1.2, and, without prejudice to Article 28, shall in particular:
+
+(a) take precautionary measures and keep records of those measures;
+
+(b) implement suitable cleaning measures, monitor their effectiveness and keep records of those operations;
+
+(c) guarantee that non-organic products are not placed on the market with an indication referring to organic production.
+
+1.5. The preparation of processed organic, in-conversion and non-organic products shall be kept separate from each other in time or space. Where organic, in-conversion and non-organic products, in any combination, are prepared or stored in the preparation unit concerned, the operator shall:
+
+(a) inform the control authority or control body accordingly;
+
+(b) carry out the operations continuously until the production run has been completed, separately in place or time from similar operations performed on any other kind of product (organic, in-conversion or non-organic);
+
+(c) store organic, in-conversion and non-organic products, before and after the operations, separate by place or time from each other;
+
+(d) keep available an updated register of all operations and quantities processed;
+
+(e) take the necessary measures to ensure identification of lots and to avoid mixtures or exchanges between organic, in-conversion and non-organic products;
+
+(f) carry out operations on organic or in-conversion products only after suitable cleaning of the production equipment.
+
+**2\. Detailed requirements for the production of processed feed**
+
+2.1. Organic feed materials, or in-conversion feed materials, shall not enter simultaneously with the same feed materials produced by non-organic means into the composition of the organic feed product.
+
+2.2. Any feed materials used or processed in organic production shall not have been processed with the aid of chemically synthesised solvents.
+
+2.3. Only non-organic feed material of plant, algal, animal or yeast origin, feed material of mineral origin, and feed additives and processing aids authorised pursuant to Article 24 for use in organic production may be used in the processing of feed.
+
+2.4. Only the products for cleaning and disinfection authorised pursuant to Article 24 for use in processing shall be used for that purpose.
+
+Operators shall keep records of the use of those products, including the date or dates on which each product was used, the name of the product, its active substances, and the location of such use.
+
+2.5. Operators shall keep records of any input used in the feed production. In the case of production of composite products, complete recipes/formulae showing the quantities of input and output shall be kept available for the competent authority or control body.
+
+**Part VI: Wine**
+
+**1\. Scope**
+
+1.1. In addition to the general production rules laid down in Articles 9, 10, 11, 16 and 18, the rules laid down in this Part shall apply to the organic production of the products of the wine sector as referred to in point (l) of Article 1(2) of Regulation (EU) No 1308/2013.
+
+1.2. Commission Delegated Regulations (EU) 2019/934 ( 34 ) and (EU) 2019/33 ( 35 ) shall apply, save as explicitly provided otherwise in this Part.
+
+**2\. Use of certain products and substances**
+
+2.1. Products of the wine sector shall be produced from organic raw material.
+
+2.2. Only products and substances authorised in accordance with Article 24 for use in organic production may be used for the making of products of the wine sector, including during the oenological practices, processes and treatments, subject to the conditions and restrictions laid down in Regulation (EU) No 1308/2013 and Delegated Regulation (EU) 2019/934, and in particular in Part A of Annex I to the latter Regulation.
+
+2.3. Operators shall keep records of the use of any product and substance used in the wine production and for cleaning and disinfection, including the date or dates on which each product was used, the name of the product, its active substances, and where applicable, the location of such use.
+
+**3\. Oenological practices and restrictions**
+
+3.1. Without prejudice to Sections 1 and 2 of this Part and to specific prohibitions and restrictions provided for in Sections 3.2, 3.3 and 3.4, only oenological practices, processes and treatments, including the restrictions provided for in Article 80 and Article 83(2) of Regulation (EU) No 1308/2013, in Article 3, Articles 5 to 9 and Articles 11 to 13 of Delegated Regulation (EU) 2019/934, and in the Annexes to those Regulations used before 1 August 2010 shall be permitted.
+
+3.2. The use of the following oenological practices, processes and treatments shall be prohibited:
+
+(a) partial concentration through cooling in accordance with point (c) of Section B.1 of Part I of Annex VIII to Regulation (EU) No 1308/2013;
+
+(b) elimination of sulphur dioxide by physical processes as referred to in entry 5 of Table 1 of Part A of Annex I to Delegated Regulation (EU) 2019/934;
+
+(c) electrodialysis treatment to ensure the tartaric stabilisation of the wine as referred to in entry 10 of Table 1 of Part A of Annex I to Delegated Regulation (EU) 2019/934;
+
+(d) correction of the alcohol content of wine as referred to in entry 12 of Table 1 of Part A of Annex I to Delegated Regulation (EU) 2019/934;
+
+(e) treatment with cation exchangers for tartaric stabilisation of the wine as referred to in entry 13 of Table 1 of Part A of Annex I to Delegated Regulation (EU) 2019/934.
+
+3.3. The use of the following oenological practices, processes and treatments is permitted under the following conditions:
+
+(a) heat treatments as referred to in entry 2 of Table 1 of Part A of Annex I to Delegated Regulation (EU) 2019/934, provided that the temperature does not exceed 75 °C;
+
+(b) centrifugation and filtration with or without an inert filtering agent as referred to in entry 3 of Table 1 of Part A of Annex I to Delegated Regulation (EU) 2019/934, provided that the size of the pores is not smaller than 0,2 micrometres;
+
+(c) partial vacuum evaporation as referred to in point (a) of Section E of Part I of Annex VIII to Regulation (EU) No 1308/2013, whether used on its own or in combination with distillation as referred in point (d) of this Section, provided that partial vacuum evaporation is used only for the production of de-alcoholised wine with an alcoholic strength by volume not exceeding 0,5 % vol. and that the temperature used does not exceed 75 °C and that the size of the pores for the filtration is not smaller than 0,2 micrometres;
+
+(d) distillation as referred to in point (c) of Section E of Part I of Annex VIII to Regulation (EU) No 1308/2013, whether used on its own or in combination with partial vacuum evaporation as referred in point (c) of this Section, provided that distillation is used only for the production of de-alcoholised wine with an alcoholic strength by volume not exceeding 0,5 % vol. and that it is used under vacuum and that the temperature used does not exceed 75 °C and that the size of the pores for the filtration is not smaller than 0,2 micrometres.
+
+3.4. Any amendment introduced after 1 August 2010 concerning the oenological practices, processes and treatments provided for in Regulation (EU) No 1308/2013 or in Delegated Regulation (EU) 2019/934 may apply to the organic production of wine only after those measures have been included as permitted in this Section and, if required, after an evaluation in accordance with Article 24 of this Regulation.
+
+**Part VII: Yeast used as food or feed**
+
+In addition to the general production rules laid down in Articles 9, 11, 16, 17 and 19, the rules laid down in this Part shall apply to the organic production of yeast used as food or feed.
+
+**1\. General requirements**
+
+1.1. For the production of organic yeast, only organically produced substrates shall be used. However, until 31 December 2024  , the addition of up to 5 % non-organic yeast extract or autolysate to the substrate (calculated in weight of dry matter) is allowed for the production of organic yeast where operators are unable to obtain yeast extract or autolysate from organic production.
+
+1.2. Organic yeast shall not be present in organic food or feed together with non-organic yeast.
+
+1.3. The following products and substances may be used in the production, confection and formulation of organic yeast:
+
+(a) processing aids authorised pursuant to Article 24 for use in organic production;
+
+(b) products and substances referred to in points (a), (b) and (e) of point 2.2.2 of Part IV.
+
+1.4. Only the products for cleaning and disinfection authorised pursuant to Article 24 for use in processing shall be used for that purpose.
+
+1.5. Operators shall keep records of any product and substance used for yeast production and for cleaning and disinfection, including the date or dates on which each product was used, the name of the product, its active substances, and the location of such use.
+
+## ANNEX III
+
+**COLLECTION, PACKAGING, TRANSPORT AND STORAGE OF PRODUCTS**
+
+**1\. Collection of products and transport to preparation units**
+
+Operators may carry out the simultaneous collection of organic, in-conversion and non-organic products only where appropriate measures have been taken to prevent any possible mixture or exchange between organic, in-conversion and non-organic products and to ensure the identification of the organic and in-conversion products. The operator shall keep the information relating to collection days, hours, the circuit and date and time of the reception of the products available to the control authority or control body.
+
+**2\. Packaging and transport of products to other operators or units**
+
+**2.1. Information to be provided**
+
+2.1.1. Operators shall ensure that organic products and in-conversion products are transported to other operators or units, including wholesalers and retailers, only in appropriate packaging, containers or vehicles closed in such a manner that alteration, including substitution, of the content cannot be achieved without manipulation or damage of the seal and provided with a label stating, without prejudice to any other indications required by Union law:
+
+(a) the name and address of the operator and, where different, of the owner or seller of the product;
+
+(b) the name of the product;
+
+(c) the name or the code number of the control authority or control body to which the operator is subject; and
+
+(d) where relevant, the lot identification mark in accordance with a marking system either approved at national level or agreed with the control authority or control body and which permits the linking of the lot with the records referred to in Article 34(5).
+
+2.1.2. Operators shall ensure that compound feed authorised in organic production transported to other operators or holdings, including wholesalers and retailers, are provided with a label stating, in addition to any other indications required by Union law:
+
+(a) the information provided in point 2.1.1;
+
+(b) where relevant, by weight of dry matter:
+
+(i) the total percentage of organic feed materials;
+
+(ii) the total percentage of in-conversion feed materials;
+
+(iii) the total percentage of feed materials not covered by points (i) and (ii);
+
+(iv) the total percentage of feed of agricultural origin;
+
+(c) where relevant, the names of organic feed materials;
+
+(d) where relevant, the names of in-conversion feed materials; and
+
+(e) for compound feed that cannot be labelled in accordance with Article 30(6), the indication that such feed may be used in organic production in accordance with this Regulation.
+
+2.1.3. Without prejudice to Directive 66/401/EEC, operators shall ensure that on the label of the packaging of a mixture of fodder plant seeds containing organic and in-conversion or non-organic seeds of certain different plant species for which an authorisation has been issued under the relevant conditions laid down in point 1.8.5 of Part I of Annex II to this Regulation, information is provided on the exact components of the mixture, shown by percentage by weight of each component species, and where appropriate varieties.
+
+In addition to the relevant requirements under Annex IV to Directive 66/401/EEC, that information shall include besides the indications required in the first paragraph of this point also the list of the component species of the mixture that are labelled as organic or in-conversion. The minimum total percentage by weight of organic and in-conversion seeds in the mixture shall be at least 70 %.
+
+In case the mixture contains non-organic seeds, the label shall also include the following statement: ‘The use of the mixture is only allowed within the scope of the authorisation and in the territory of the Member State of the competent authority which authorised the use of this mixture in conformity with point 1.8.5 of Annex II to Regulation (EU) 2018/848 on organic production and labelling of organic products.’
+
+2.1.4. The information referred to in points 2.1.1 and 2.1.2 may be presented solely on an accompanying document, if such a document can be undeniably linked with the packaging, container or vehicular transport of the product. This accompanying document shall include information on the supplier or the transporter.
+
+2.2. The closing of packaging, containers or vehicles shall not be required where:
+
+(a) the transport takes place directly between two operators, both of which are subject to the organic control system;
+
+(b) the transport includes only organic or only in-conversion products;
+
+(c) the products are accompanied by a document giving the information required under point 2.1; and
+
+(d) both the expediting and the receiving operators keep documentary records of such transport operations available for the control authority or control body.
+
+**3\. Special rules for transporting feed to other production or preparation units or storage premises**
+
+When transporting feed to other production or preparation units or storage premises, operators shall ensure that the following conditions are met:
+
+(a) during transport, organically produced feed, in-conversion feed, and non-organic feed are effectively physically separated;
+
+(b) vehicles or containers which have transported non-organic products are only used to transport organic or in-conversion products if:
+
+(i) suitable cleaning measures, the effectiveness of which has been checked, have been carried out before commencing the transport of organic or in-conversion products and the operators keep records of those operations;
+
+(ii) all appropriate measures are implemented, depending on the risks evaluated in accordance with control arrangements, and where necessary, operators guarantee that non-organic products cannot be placed on the market with an indication referring to organic production;
+
+(iii) the operator keeps documentary records of such transport operations available for the control authority or control body;
+
+(c) the transport of finished organic or in-conversion feed is separated physically or in time from the transport of other finished products;
+
+(d) during transport, the quantity of products at the start and each individual quantity delivered in the course of a delivery round is recorded.
+
+**4\. Transport of live fish**
+
+4.1. Live fish shall be transported in suitable tanks with clean water which meets their physiological needs in terms of temperature and dissolved oxygen.
+
+4.2. Before transport of organic fish and fish products, tanks shall be thoroughly cleaned, disinfected and rinsed.
+
+4.3. Precautions shall be taken to reduce stress. During transport, the density shall not reach a level which is detrimental to the species.
+
+4.4. Records shall be kept for operations referred to in points 4.1, 4.2 and 4.3.
+
+**5\. Reception of products from other operators or units**
+
+On receipt of an organic or in-conversion product, the operator shall check the closing of the packaging, container or vehicle where it is required and the presence of the indications provided for in Section 2.
+
+The operator shall cross-check the information on the label referred to in Section 2 with the information on the accompanying documents. The result of those verifications shall be explicitly mentioned in the records referred to in Article 34(5).
+
+**6\. Special rules for the reception of products from a third country**
+
+Where organic or in-conversion products are imported from a third country, they shall be transported in appropriate packaging or containers, closed in a manner that prevents the substitution of the content and bearing the identification of the exporter and any other marks and numbers that serve to identify the lot, and shall be accompanied by the certificate of control for import from third countries where appropriate.
+
+On receipt of an organic or in-conversion product imported from a third country, the natural or legal person to whom the imported consignment is delivered and who receives it for further preparation or marketing shall check the closing of the packaging or container and, in the case of products imported in accordance with point (b)(iii) of Article 45(1), shall check that the certificate of inspection referred to in that Article covers the type of product contained in the consignment. The result of this verification shall be explicitly mentioned in the records referred to in Article 34(5).
+
+**7\. Storage of products**
+
+7.1. Areas for the storage of products shall be managed in such a way as to ensure identification of lots and to avoid any mixing or contamination with products or substances not in compliance with the organic production rules. Organic and in-conversion products shall be clearly identifiable at all times.
+
+7.2. No input products or substances other than those authorised pursuant to Articles 9 and 24 for use in organic production shall be stored in organic or in-conversion plant and livestock production units.
+
+7.3. Allopathic veterinary medicinal products, including antibiotics, may be stored in agricultural and aquaculture holdings provided that they have been prescribed by a veterinarian in connection with the treatment referred to in points 1.5.2.2 of Part II and 3.1.4.2(a) of Part III of Annex II, that they are stored in a supervised location and that they are entered in the records referred to in Article 34(5).
+
+7.4. Where operators handle organic, or in-conversion or non-organic products in any combination and the organic or in-conversion products are stored in storage facilities in which also other agricultural products or foodstuffs are stored:
+
+(a) the organic or in-conversion products shall be kept separate from the other agricultural products or foodstuffs;
+
+(b) every measure shall be taken to ensure identification of consignments and to avoid mixtures or exchanges between organic, in-conversion and non-organic products;
+
+(c) suitable cleaning measures, the effectiveness of which has been checked, shall have been carried out before the storage of organic or in-conversion products and the operators shall keep records of those operations.
+
+7.5. Only the products for cleaning and disinfection authorised pursuant to Article 24 for use in organic production shall be used in storage facilities for that purpose.
+
+## ANNEX IV
+
+**TERMS REFERRED TO IN ARTICLE 30**
+
+| BG | : | биологичен. |
+| --- | --- | --- |
+
+| ES | : | ecológico, biológico, orgánico. |
+| --- | --- | --- |
+
+| CS | : | ekologické, biologické. |
+| --- | --- | --- |
+
+| DA | : | økologisk. |
+| --- | --- | --- |
+
+| DE | : | ökologisch, biologisch. |
+| --- | --- | --- |
+
+| ET | : | mahe, ökoloogiline. |
+| --- | --- | --- |
+
+| EL | : | βιολογικό. |
+| --- | --- | --- |
+
+| EN | : | organic. |
+| --- | --- | --- |
+
+| FR | : | biologique. |
+| --- | --- | --- |
+
+| GA | : | orgánach. |
+| --- | --- | --- |
+
+| HR | : | ekološki. |
+| --- | --- | --- |
+
+| IT | : | biologico. |
+| --- | --- | --- |
+
+| LV | : | bioloģisks, ekoloģisks. |
+| --- | --- | --- |
+
+| LT | : | ekologiškas. |
+| --- | --- | --- |
+
+| LU | : | biologesch, ökologesch. |
+| --- | --- | --- |
+
+| HU | : | ökológiai. |
+| --- | --- | --- |
+
+| MT | : | organiku. |
+| --- | --- | --- |
+
+| NL | : | biologisch. |
+| --- | --- | --- |
+
+| PL | : | ekologiczne. |
+| --- | --- | --- |
+
+| PT | : | biológico. |
+| --- | --- | --- |
+
+| RO | : | ecologic. |
+| --- | --- | --- |
+
+| SK | : | ekologické, biologické. |
+| --- | --- | --- |
+
+| SL | : | ekološki. |
+| --- | --- | --- |
+
+| FI | : | luonnonmukainen. |
+| --- | --- | --- |
+
+| SV | : | ekologisk. |
+| --- | --- | --- |
+
+## ANNEX V
+
+**ORGANIC PRODUCTION LOGO OF THE EUROPEAN UNION AND CODE NUMBERS**
+
+**1\. Logo**
+
+1.1. The organic production logo of the European Union shall comply with the model below:
+
+[image]
+
+1.2. The reference colour is green 50/0/100/0 in the CMYK process, No 376 in the Pantone colour chart and 169/201/56 in the RGB colour model.
+
+1.3. The organic production logo of the European Union may also be used in black and white as shown below, or in a totally inverted white and black (negative format), but only where it is not practicable to use the colour model:
+
+[image]
+
+1.4. If the background colour of the packaging or label is dark, the symbols may be used in negative format, using the background colour of the packaging or label.
+
+1.5. If a logo is used on a background which makes it difficult to see it, a delimiting outer line around the logo shall be used to improve the contrast with the background.
+
+1.6. Where there are indications in a single colour on the packaging, the organic production logo of the European Union may be used in the same colour.
+
+1.7. The organic production logo of the European Union shall have a height of at least 9 mm and a width of at least 13,5 mm; the proportion ratio height/width shall always be 1:1,5. Exceptionally, the minimum size may be reduced to a height of 6 mm for very small packages.
+
+1.8. The organic production logo of the European Union may be associated with graphical or textual elements referring to organic production under the condition that they do not modify or change the nature of the organic production logo of the European Union, nor any of the indications defined in accordance with Article 32. When associated to national or private logos using a green colour different from the reference colour provided for in point 1.2, the organic production logo of the European Union may be used in that non-reference colour.
+
+**2\. Code numbers**
+
+The general format of the code numbers shall be as follows:
+
+**AB-CDE-999**
+
+where:
+
+(a) ‘AB’ is the ISO code for the country where the controls take place;
+
+(b) ‘CDE’ is a term, indicated in three letters to be decided by the Commission or each Member State, like ‘bio’ or ‘öko’ or ‘org’ or ‘eko’ establishing a link with organic production; and
+
+(c) ‘999’ is the reference number, indicated in maximum three digits, to be assigned by:
+
+(i) each Member State’s competent authority to the control authorities or control bodies to which it has delegated control tasks;
+
+(ii) the Commission, to:
+
+— the control authorities and control bodies recognised by the Commission pursuant to Article 46,
+
+— to the competent authorities of third countries recognised by the Commission pursuant to Article 48.
+
+## ANNEX VI
+
+**MODEL OF THE CERTIFICATE**
+
+**CERTIFICATE PURSUANT TO ARTICLE 35(1) OF REGULATION (EU) 2018/848 ON ORGANIC PRODUCTION AND THE LABELLING OF ORGANIC PRODUCTS**
+
+**Part I: Mandatory elements**
+
+<table>
+<tbody><tr><td>1. Document number</td><td>2. (choose as appropriate) — Operator  — Group of operators – see point 9 </td></tr>
+<tr><td>3. Name and address of the operator or group of operators:</td><td>4. Name and address of the competent authority, or, where appropriate, control authority or control body of the operator or group of operators and code number in the case of control authority or control body:</td></tr>
+<tr><td colspan="2">5. Activity or activities of the operator or group of operators (choose as appropriate)</td></tr>
+<tr><td colspan="2">— Production</td></tr>
+<tr><td colspan="2">— Preparation</td></tr>
+<tr><td colspan="2">— Distribution/ Placing on the market</td></tr>
+<tr><td colspan="2">— Storing</td></tr>
+<tr><td colspan="2">— Import</td></tr>
+<tr><td colspan="2">— Export</td></tr>
+<tr><td colspan="2">6. Category or categories of products as referred to in Article 35(7) of Regulation (EU) 2018/848 of the European Parliament and of the Council (1) and production methods (choose as appropriate)</td></tr>
+<tr><td colspan="2">(a) unprocessed plants and plant products, including seeds and other plant reproductive material Production method:  □ organic production excluding during the conversion period  □□ production during the conversion period  □ organic production with non-organic production </td></tr>
+<tr><td colspan="2">(b) livestock and unprocessed livestock products Production method:  □ organic production excluding during the conversion period  □ production during the conversion period  □ organic production with non-organic production </td></tr>
+<tr><td colspan="2">(c) algae and unprocessed aquaculture products Production method:  □ organic production excluding during the conversion period  □ production during the conversion period  □ organic production with non-organic production </td></tr>
+<tr><td colspan="2">(d) processed agricultural products, including aquaculture products, for use as food Production method:  □ production of organic products  □ production of in-conversion products  □ organic production with non-organic production </td></tr>
+<tr><td colspan="2">(e) feed Production method:  □ production of organic products  □ production of in-conversion products  □ organic production with non-organic production </td></tr>
+<tr><td colspan="2">(f) wine Production method:  □ production of organic products  □ production of in-conversion products  □ organic production with non-organic production </td></tr>
+<tr><td colspan="2">(g) other products listed in Annex I to Regulation (EU) 2018/848 or not covered by the previous categories Production method:  □ production of organic products  □ production of in-conversion products  □ organic production with non-organic production </td></tr>
+<tr><td colspan="2">This document has been issued in accordance with Regulation (EU) 2018/848 to certify that the operator or group of operators (choose as appropriate) complies with that Regulation.</td></tr>
+<tr><td>7. Date, place Name and signature on behalf of the issuing competent authority, or, where appropriate, control authority or control body, or qualified electronic seal: </td><td>8. Certificate valid from…[insert date] to …[insert date]</td></tr>
+<tr><td colspan="2">(1)  Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1). </td></tr>
+</tbody>
+</table>
+
+9\. List of members of the group of operators as defined in Article 36 of Regulation (EU) 2018/848
+
+Name of member Address or other form of member identification
+
+**Part II: Specific optional elements**
+
+One or more elements to be completed if so decided by the competent authority or, where appropriate, the control authority or control body that issues the certificate to the operator or group of operators in accordance with Article 35 of Regulation (EU) 2018/848.
+
+**1\. Directory of products**
+
+<table>
+<tbody><tr><td>Name of the product and/or Combined Nomenclature (CN) code as referred to in Council Regulation (EEC) No 2658/87 (1) for products within the scope of Regulation (EU) 2018/848</td><td>□ Organic □ In-conversion </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">(1)  Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1). </td></tr>
+</tbody>
+</table>
+
+**2\. Quantity of products**
+
+| Name of the product and/or CN code as referred to in Regulation (EEC) No 2658/87 for products within the scope of Regulation (EU) 2018/848 | □ Organic □ In-conversion | Quantity estimated in kilograms, litres or, where relevant, in number of units |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**3\. Information on the land**
+
+| Name of the product | □ Organic □ In-conversion □ Non-organic | Surface in hectares |
+| --- | --- | --- |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+
+**4\. List of premises or units where the activity is performed by the operator or group of operators**
+
+| Address or geolocation | Description of the activity or activities as referred to in point 5 of part I |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+**5\. Information on the activity or activities carried out by the operator or group of operators and whether the activity is, or the activities are performed for their own purpose or as a subcontractor carrying out the activity or activities for another operator, while the subcontractor remains responsible for the activity or activities performed**
+
+| Description of the activity or activities as referred to in point 5 of part I | □ Carrying out activity/activities for own purpose □ Carrying out activity/activities as a subcontractor for another operator, while the subcontractor remains responsible for the activity or activities performed |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+**6\. Information on the activity or activities carried out by the subcontracted third party in accordance with Article 34(3) of Regulation (EU) 2018/848**
+
+| Description of the activity or activities as referred to in point 5 of part I | □ Operator or group of operators remains responsible □ Subcontracted third party is responsible |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+**7\. List of subcontractors carrying out an activity or activities for the operator or group of operators in accordance with Article 34(3) of Regulation (EU) 2018/848, for which the operator or group of operators remains responsible as regards organic production and for which it has not transferred that responsibility to the subcontractor**
+
+| Name and address | Description of the activity or activities as referred to in point 5 of part I |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+
+**8\. Information on the accreditation of the control body in accordance with Article 40(3) of Regulation (EU) 2018/848**
+
+(a) name of the accreditation body;
+
+(b) hyperlink to the accreditation certificate.
+
+**9\. Other information**
+
+( 1 ) Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (OJ L 347, 20.12.2013, p. 671).
+
+( 2 ) Council Regulation (EC) No 2100/94 of 27 July 1994 on Community plant variety rights (OJ L 227, 1.9.1994, p. 1).
+
+( 3 ) Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).
+
+( 4 ) Council Directive 1999/74/EC of 19 July 1999 laying down minimum standards for the protection of laying hens (OJ L 203, 3.8.1999, p. 53).
+
+( 5 ) Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC (OJ L 354, 28.12.2013, p. 22).
+
+( 6 ) Directive 2008/56/EC of the European Parliament and of the Council of 17 June 2008 establishing a framework for community action in the field of marine environmental policy (Marine Strategy Framework Directive) (OJ L 164, 25.6.2008, p. 19).
+
+( 7 ) Council Regulation (EC) No 708/2007 of 11 June 2007 concerning use of alien and locally absent species in aquaculture (OJ L 168, 28.6.2007, p. 1).
+
+( 8 ) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products (OJ L 311, 28.11.2001, p. 1).
+
+( 9 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+( 10 ) Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed, amending European Parliament and Council Regulation (EC) No 1831/2003 and repealing Council Directive 79/373/EEC, Commission Directive 80/511/EEC, Council Directives 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC and Commission Decision 2004/217/EC (OJ L 229, 1.9.2009, p. 1).
+
+( 11 ) Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC (OJ L 106, 17.4.2001, p. 1).
+
+( 12 ) Regulation (EC) No 1333/2008 of the European Parliament and of the Council of 16 December 2008 on food additives (OJ L 354, 31.12.2008, p. 16).
+
+( 13 ) Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (OJ L 268, 18.10.2003, p. 29).
+
+( 14 ) Regulation (EU) 2015/2283 of the European Parliament and of the Council of 25 November 2015 on novel foods, amending Regulation (EU) No 1169/2011 of the European Parliament and of the Council and repealing Regulation (EC) No 258/97 of the European Parliament and of the Council and Commission Regulation (EC) No 1852/2001 (OJ L 327, 11.12.2015, p. 1).
+
+( 15 ) Regulation (EC) No 1332/2008 of the European Parliament and of the Council of 16 December 2008 on food enzymes and amending Council Directive 83/417/EEC, Council Regulation (EC) No 1493/1999, Directive 2000/13/EC, Council Directive 2001/112/EC and Regulation (EC) No 258/97 (OJ L 354, 31.12.2008, p. 7).
+
+( 16 ) Council Directive 2013/59/Euratom of 5 December 2013 laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation, and repealing Directives 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom and 2003/122/Euratom (OJ L 13, 17.1.2014, p. 1).
+
+( 17 ) Regulation (EC) No 852/2004 of the European Parliament and of the Council of 29 April 2004 on the hygiene of foodstuffs (OJ L 139, 30.4.2004, p. 1).
+
+( 18 ) Regulation (EC) No 1829/2003 of the European Parliament and of the Council of 22 September 2003 on genetically modified food and feed (OJ L 268, 18.10.2003, p. 1).
+
+( 19 ) Regulation (EC) No 1830/2003 of the European Parliament and of the Council of 22 September 2003 concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms and amending Directive 2001/18/EC (OJ L 268, 18.10.2003, p. 24).
+
+( 20 ) Regulation (EC) No 1334/2008 of the European Parliament and of the Council of 16 December 2008 on flavourings and certain food ingredients with flavouring properties for use in and on foods and amending Council Regulation (EEC) No 1601/91, Regulations (EC) No 2232/96 and (EC) No 110/2008 and Directive 2000/13/EC (OJ L 354, 31.12.2008, p. 34).
+
+( 21 ) Council Directive 2006/88/EC of 24 October 2006 on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals (OJ L 328, 24.11.2006, p. 14).
+
+( 22 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 23 ) Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (OJ L 218, 13.8.2008, p. 30).
+
+( 24 ) Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (OJ L 347, 20.12.2013, p. 549).
+
+( 25 ) Delegated Regulation (EU) 2021/1698 of 13 July 2021 supplementing Regulation (EU) 2018/848 of the European Parliament and of the Council with procedural requirements for the recognition of control authorities and control bodies that are competent to carry out controls on operators and groups of operators certified organic and on organic products in third countries and with rules on their supervision and the controls and other actions to be performed by those control authorities and control bodies (OJ L 336, 23.9.2021, p. 7).
+
+( 26 ) Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 (OJ L 3, 5.1.2005, p. 1).
+
+( 27 ) Council Regulation (EC) No 1099/2009 of 24 September 2009 on the protection of animals at the time of killing (OJ L 303, 18.11.2009, p. 1).
+
+( 28 ) Council Directive 2008/119/EC of 18 December 2008 laying down minimum standards for the protection of calves (OJ L 10, 15.1.2009, p. 7).
+
+( 29 ) Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (OJ L 26, 28.1.2012, p. 1).
+
+( 30 ) Regulation (EC) No 854/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific rules for the organisation of official controls on products of animal origin intended for human consumption (OJ L 139, 30.4.2004, p. 206).
+
+( 31 ) Good manufacturing practices (GMPs) as defined in Article 3(a) of Commission Regulation (EC) No 2023/2006 of 22 December 2006 on good manufacturing practice for materials and articles intended to come into contact with food (OJ L 384, 29.12.2006, p. 75).
+
+( 32 ) Regulation (EU) No 609/2013 of the European Parliament and of the Council of 12 June 2013 on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control and repealing Council Directive 92/52/EEC, Commission Directives 96/8/EC, 1999/21/EC, 2006/125/EC and 2006/141/EC, Directive 2009/39/EC of the European Parliament and of the Council and Commission Regulations (EC) No 41/2009 and (EC) No 953/2009 (OJ L 181, 29.6.2013, p. 35).
+
+( 33 ) Commission Directive 2006/125/EC of 5 December 2006 on processed cereal-based foods and baby foods for infants and young children (OJ L 339, 6.12.2006, p. 16).
+
+( 34 ) Commission Delegated Regulation (EU) 2019/934 of 12 March 2019 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files (OJ L 149, 7.6.2019, p. 1, ELI: http://data.europa.eu/eli/reg_del/2019/934/oj).
+
+( 35 ) Commission Delegated Regulation (EU) 2019/33 of 17 October 2018 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation (OJ L 9, 11.1.2019, p. 2, ELI: http://data.europa.eu/eli/reg_del/2019/33/oj).

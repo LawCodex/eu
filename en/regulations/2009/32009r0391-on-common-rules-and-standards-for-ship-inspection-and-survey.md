@@ -1,0 +1,458 @@
+---
+title: "Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations (recast) (Text with EEA relevance)"
+identifier: "32009R0391"
+eli: "http://data.europa.eu/eli/reg/2009/391/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-04-23
+entry_into_force: 2010-01-01
+last_amended: 2021-01-01
+consolidated_version: "02009R0391-20210101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0391-20210101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations (recast) (Text with EEA relevance)
+
+**REGULATION (EC) No 391/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**on common rules and standards for ship inspection and survey organisations**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1355/2014 of 17 December 2014 </td><td> L 365</td><td>82</td><td>19.12.2014</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/492 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 March 2019 </td><td> L 85I</td><td>5</td><td>27.3.2019</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 391/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 23 April 2009**
+
+**on common rules and standards for ship inspection and survey organisations**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+This Regulation establishes measures to be followed by organisations entrusted with the inspection, survey and certification of ships for compliance with the international conventions on safety at sea and prevention of marine pollution, while furthering the objective of freedom to provide services. This includes the development and implementation of safety requirements for hull, machinery and electrical and control installations of ships falling under the scope of the international conventions.
+
+## Article 2
+
+For the purpose of this Regulation the following definitions shall apply:
+
+(a) ‘ship’ means a ship falling within the scope of the international conventions;
+
+(b) ‘international conventions’ means the International Convention for the Safety of Life at Sea of 1 November 1974 (SOLAS 74) with the exception of chapter XI-2 of the Annex thereto, the International Convention on Load Lines of 5 April 1966 and the International Convention for the Prevention of Pollution from Ships of 2 November 1973 (MARPOL), together with the protocols and amendments thereto, and the related codes of mandatory status in all Member States, with the exception of paragraphs 16.1, 18.1 and 19 of part 2 of the IMO Instruments Implementation Code, and of sections 1.1, 1.3, 3.9.3.1, 3.9.3.2 and 3.9.3.3 of part 2 of the IMO Code for Recognized Organizations, in their up-to-date version;
+
+(c) ‘organisation’ means a legal entity, its subsidiaries and any other entities under its control, which jointly or separately carry out tasks falling under the scope of this Regulation;
+
+(d) ‘control’ means, for the purpose of point (c), rights, contracts or any other means, in law or in fact, which, either separately or in combination confer the possibility of exercising decisive influence on a legal entity or enable that entity to carry out tasks falling under the scope of this Regulation;
+
+(e) ‘recognised organisation’ means an organisation recognised in accordance with this Regulation;
+
+(f) ‘authorisation’ means an act whereby a Member State grants an authorisation or delegates powers to a recognised organisation;
+
+(g) ‘statutory certificate’ means a certificate issued by or on behalf of a flag State in accordance with the international conventions;
+
+(h) ‘rules and procedures’ means a recognised organisation’s requirements for the design, construction, equipment, maintenance and survey of ships;
+
+(i) ‘class certificate’ means a document issued by a recognised organisation certifying the fitness of a ship for a particular use or service in accordance with the rules and procedures laid down and made public by that recognised organisation;
+
+(j) ‘location’ means the place of the registered office, central administration or principal place of business of an organisation.
+
+## Article 3
+
+1\. Member States which wish to grant an authorisation to any organisation which is not yet recognised shall submit a request for recognition to the Commission together with complete information on, and evidence of, the organisation’s compliance with the minimum criteria set out in Annex I and on the requirement and its undertaking that it shall comply with the provisions of Articles 8(4), 9, 10 and 11.
+
+2\. The Commission, together with the respective Member States submitting the request, shall carry out assessments of the organisations for which the request for recognition was received in order to verify that the organisations meet and undertake to comply with the requirements referred to in paragraph 1.
+
+3\. The Commission shall, in accordance with the regulatory procedure referred to in Article 12(3), refuse to recognise organisations which fail to meet the requirements referred to in paragraph 1 or whose performance is considered an unacceptable threat to safety or the environment on the basis of the criteria laid down in accordance with Article 14.
+
+## Article 4
+
+1\. Recognition shall be granted by the Commission in accordance with the regulatory procedure referred to in Article 12(3).
+
+2\. Recognition shall only be granted to organisations which meet the requirements referred to in Article 3.
+
+3\. Recognition shall be granted to the relevant legal entity, which is the parent entity of all legal entities that constitute the recognised organisation. The recognition shall encompass all legal entities that contribute to ensuring that that organisation provides cover for their services worldwide.
+
+4\. The Commission, acting in accordance with the regulatory procedure referred to in Article 12(3), may limit the recognition as regards certain types of ships, ships of a certain size, certain trades, or a combination thereof, in accordance with the proven capacity and expertise of the organisation concerned. In such a case, the Commission shall state the reasons for the limitation and the conditions under which the limitation shall be removed or can be widened. The limitation may be reviewed at any time.
+
+5\. The Commission shall draw up and regularly update a list of the organisations recognised in accordance with this Article. That list shall be published in the Official Journal of the European Union.
+
+## Article 5
+
+Where the Commission considers that a recognised organisation has failed to fulfil the minimum criteria set out in Annex I or its obligations under this Regulation, or that the safety and pollution prevention performance of a recognised organisation has worsened significantly, without, however, it constituting an unacceptable threat to safety or the environment, it shall require the recognised organisation concerned to undertake the necessary preventive and remedial action within specified deadlines to ensure full compliance with those minimum criteria and obligations and, in particular, remove any potential threat to safety or the environment, or to otherwise address the causes of the worsening performance.
+
+The preventive and remedial action may include interim protective measures when the potential threat to safety or the environment is immediate.
+
+However, and without prejudice to their immediate implementation, the Commission shall give to all Member States which have granted an authorisation to the recognised organisation concerned, advance notice of the measures that it intends to take.
+
+## Article 6
+
+1\. In addition to the measures taken under Article 5, the Commission may, in accordance with the advisory procedure referred to in Article 12(2), impose fines on a recognised organisation:
+
+(a)
+
+— whose serious or repeated failure to fulfil the minimum criteria set out in Annex I or its obligations under Articles 8(4), 9, 10 and 11,
+
+or
+
+— whose worsening performance
+
+reveals serious shortcomings in its structure, systems, procedures or internal controls; or
+
+(b) which has deliberately provided incorrect, incomplete or misleading information to the Commission in the course of its assessment pursuant to Article 8(1) or otherwise obstructed that assessment.
+
+2\. Without prejudice to paragraph 1, where a recognised organisation fails to undertake the preventive and remedial action required by the Commission, or incurs unjustified delays, the Commission may impose periodic penalty payments on that organisation until the required action is fully carried out.
+
+3\. The fines and periodic penalty payments referred to in paragraphs 1 and 2 shall be dissuasive and proportionate to both the gravity of the case and the economic capacity of the recognised organisation concerned, taking into account, in particular, the extent to which safety or the protection of the environment has been compromised.
+
+They shall be imposed only after the recognised organisation and the Member States concerned have been given the opportunity to submit their observations.
+
+The aggregate amount of the fines and periodic penalty payments imposed shall not exceed 5 % of the total average turnover of the recognised organisation in the preceding three business years for the activities falling under the scope of this Regulation.
+
+4\. The Court of Justice of the European Communities shall have unlimited jurisdiction to review decisions whereby the Commission has fixed a fine or periodic penalty payment. It may cancel, reduce or increase the fine or periodic penalty payment imposed.
+
+## Article 7
+
+1\. The Commission shall withdraw the recognition of an organisation:
+
+(a) whose repeated and serious failure to fulfil the minimum criteria set out in Annex I or its obligations under this Regulation is such that it constitutes an unacceptable threat to safety or the environment;
+
+(b) whose repeated and serious failure in its safety and pollution prevention performance is such that it constitutes an unacceptable threat to safety or the environment;
+
+(c) which prevents or repeatedly obstructs the assessment by the Commission;
+
+(d) which fails to pay the fines and/or periodic penalty payments referred to in Article 6(1) and (2); or
+
+(e) which seeks to obtain financial cover or reimbursement of any fines imposed on it pursuant to Article 6.
+
+2\. For the purpose of points (a) and (b) of paragraph 1, the Commission shall decide on the basis of all the available information, including:
+
+(a) the results of its own assessment of the recognised organisation concerned pursuant to Article 8(1);
+
+(b) reports submitted by Member States pursuant to Article 10 of Directive 2009/15/EC;
+
+(c) analyses of casualties involving ships classed by the recognised organisations;
+
+(d) any recurrence of the shortcomings referred to in point (a) of Article 6(1);
+
+(e) the extent to which the fleet in the recognised organisation’s class is affected; and
+
+(f) the ineffectiveness of the measures referred to in Article 6(2).
+
+3\. Withdrawal of recognition shall be decided by the Commission, upon its own initiative or at the request of a Member State, in accordance with the regulatory procedure referred to in Article 12(3) and after the recognised organisation concerned has been given the opportunity to submit its observations.
+
+## Article 8
+
+1\. All recognised organisations shall be assessed by the Commission, together with the Member State or Member States which authorised them in accordance with Article 3(2) of Directive 2009/15/EC, on a regular basis and at least every two years, to verify that they meet the obligations under this Regulation and fulfil the minimum criteria set out in Annex I to this Regulation. The assessment shall be confined to those activities of the recognised organisations, which fall within the scope of this Regulation.
+
+2\. In selecting the recognised organisations for assessment, the Commission shall pay particular attention to the safety and pollution prevention performance of the recognised organisation, to the casualty records and to the reports produced by Member States in accordance with Article 10 of Directive 2009/15/EC.
+
+3\. The assessment may include a visit to regional branches of the recognised organisation as well as random inspection of ships, both in service and under construction, for the purpose of auditing the recognised organisation’s performance. In this case the Commission shall, where appropriate, inform the Member State in which the regional branch is located. The Commission shall provide the Member States with a report on the results of the assessment.
+
+4\. Each recognised organisation shall make available the results of its quality system management review to the Committee referred to in Article 12(1), on an annual basis.
+
+## Article 9
+
+1\. Recognised organisations shall ensure that the Commission has access to the information necessary for the purposes of the assessment referred to in Article 8(1). No contractual clauses may be invoked to restrict this access.
+
+2\. Recognised organisations shall ensure in their contracts with shipowners or operators for the issue of statutory certificates or class certificates to a ship that such issue shall be made conditional on the parties not opposing the access of the Commission inspectors on board that ship for the purposes of Article 8(1).
+
+## Article 10
+
+1\. Recognised organisations shall consult with each other periodically with a view to maintaining equivalence and aiming for harmonisation of their rules and procedures and the implementation thereof. They shall cooperate with each other with a view to achieving consistent interpretation of the international conventions, without prejudice to the powers of the flag States. Recognised organisations shall, in appropriate cases, agree on the technical and procedural conditions under which they will mutually recognise the class certificates for materials, equipment and components based on equivalent standards, taking the most demanding and rigorous standards as the reference.
+
+Where mutual recognition cannot be agreed upon for serious safety reasons, recognised organisations shall clearly state the reasons therefor.
+
+Where a recognised organisation ascertains by inspection or otherwise that material, a piece of equipment or a component is not in compliance with its certificate, that organisation may refuse to authorise the placing on board of that material, piece of equipment or component. The recognised organisation shall immediately inform the other recognised organisations, stating the reasons for its refusal.
+
+Recognised organisations shall recognise, for classification purposes, certificates of marine equipment bearing the wheel mark in accordance with Council Directive 96/98/EC of 20 December 1996 on marine equipment ( 1 ).
+
+They shall provide the Commission and the Member States with periodic reports on fundamental progress in standards and mutual recognition of certificates for materials, equipment and components.
+
+2\. The Commission shall submit a report to the European Parliament and the Council by 17 June 2014, based on an independent study, on the level reached in the process of harmonising the rules and procedures and on mutual recognition of certificates for materials, equipment and components.
+
+3\. The recognised organisations shall cooperate with port State control administrations where a ship of their class is concerned, in particular in order to facilitate the rectification of reported deficiencies or other discrepancies.
+
+4\. The recognised organisations shall provide to all Member States’ administrations which have granted any of the authorisations provided for in Article 3 of Directive 2009/15/EC and to the Commission all relevant information about their classed fleet, transfers, changes, suspensions and withdrawals of class, irrespective of the flag the ships fly.
+
+Information on transfers, changes, suspensions, and withdrawals of class, including information on all overdue surveys, overdue recommendations, conditions of class, operating conditions or operating restrictions issued against their classed ships, irrespective of the flag the ships fly, shall also be communicated electronically to the common inspection database used by the Member States for the implementation of Directive 2009/16/EC of the European Parliament and of the Council of 23 April 2009 on port State control ( 2 ) at the same time as it is recorded within the recognised organisation’s own systems and in any case no later than 72 hours after the event that gave rise to the obligation to communicate the information. That information, with the exception of recommendations and conditions of class which are not overdue, shall be published on the website of these recognised organisations.
+
+5\. The recognised organisations shall not issue statutory certificates to a ship, irrespective of its flag, which has been declassed or is changing class for safety reasons, before giving the opportunity to the competent administration of the flag State to give its opinion within a reasonable time as to whether a full inspection is necessary.
+
+6\. In cases of transfer of class from one recognised organisation to another, the losing organisation shall, without undue delay, provide the gaining organisation with the complete history file of the ship and, in particular, inform it of:
+
+(a) any overdue surveys;
+
+(b) any overdue recommendations and conditions of class;
+
+(c) operating conditions issued against the ship; and
+
+(d) operating restrictions issued against the ship.
+
+New certificates for the ship can be issued by the gaining organisation only after all overdue surveys have been satisfactorily completed and all overdue recommendations or conditions of class previously issued in respect of the ship have been completed as specified by the losing organisation.
+
+Prior to the issue of the certificates, the gaining organisation must advise the losing organisation of the date of issue of the certificates and confirm the date, place and action taken to satisfy each overdue survey, overdue recommendation and overdue condition of class.
+
+Recognised organisations shall establish and implement appropriate common requirements concerning cases of transfer of class where special precautions are necessary. Those cases shall, as a minimum, include the transfer of class of ships of 15 years of age or over and the transfer from a non-recognised organisation to a recognised organisation.
+
+Recognised organisations shall cooperate with each other in properly implementing the provisions of this paragraph.
+
+## Article 11
+
+1\. Recognised organisations shall set up by 17 June 2011 and maintain an independent quality assessment and certification entity in accordance with the applicable international quality standards where the relevant professional associations working in the shipping industry may participate in an advisory capacity.
+
+2\. The quality assessment and certification entity shall carry out the following tasks:
+
+(a) frequent and regular assessment of the quality management systems of recognised organisations, in accordance with the ISO 9001 quality standard criteria;
+
+(b) certification of the quality management systems of recognised organisations, including organisations for which recognition has been requested in accordance with Article 3;
+
+(c) issue of interpretations of internationally recognised quality management standards, in particular to take account of the specific features of the nature and obligations of recognised organisations; and
+
+(d) adoption of individual and collective recommendations for the improvement of recognised organisations’ processes and internal control mechanisms.
+
+3\. The quality assessment and certification entity shall have the necessary governance and competences to act independently of the recognised organisations and shall have the necessary means to carry out its duties effectively and to the highest professional standards, safeguarding the independence of the persons performing them. The quality assessment and certification entity will lay down its working methods and rules of procedure.
+
+4\. The quality assessment and certification entity may request assistance from other external quality assessment bodies.
+
+5\. The quality assessment and certification entity shall provide the interested parties, including flag States and the Commission, with full information on its annual work plan as well as on its findings and recommendations, particularly with regard to situations where safety might have been compromised.
+
+6\. The quality assessment and certification entity shall be periodically assessed by the Commission.
+
+7\. The Commission shall report to the Member States on the results and follow-up of its assessment.
+
+## Article 12
+
+1\. The Commission shall be assisted by the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) established by Regulation (EC) No 2099/2002 of the European Parliament and of the Council ( 3 ).
+
+2\. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+3\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+## Article 13
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 14a amending Annex I, without broadening its scope, in order to update the minimum criteria set out therein, taking into account, in particular, the relevant decisions of the IMO.
+
+2\. Amendments to the international conventions defined in Article 2(b) of this Regulation may be excluded from the scope of this Regulation, pursuant to Article 5 of Regulation (EC) No 2099/2002.
+
+## Article 14
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 14a in order to supplement this Regulation by establishing the following:
+
+(a) criteria to measure the effectiveness of the rules and procedures as well as the performance of the recognised organisations as regards the safety of, and the prevention of pollution from, their classed ships, having particular regard to the data produced by the Paris Memorandum of Understanding on Port State Control or by other similar schemes;
+
+(b) criteria to determine when such performance is to be considered an unacceptable threat to safety or the environment, which may take into account specific circumstances affecting smaller-sized or highly specialised organisations.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 14a in order to supplement this Regulation by establishing detailed rules on the imposition of fines and periodic penalty payments pursuant to Article 6, and, if necessary, regarding the withdrawal of recognition of ship inspection and survey organisations pursuant to Article 7.
+
+3\. Without prejudice to the immediate application of the minimum criteria set out in Annex I, the Commission may, in accordance with the regulatory procedure referred to in Article 12(3), adopt rules on their interpretation and may consider the establishment of objectives for the general minimum criteria referred to in point 3, Part A of Annex I.
+
+## Article 14a
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 13(1) and Article 14(1) and (2) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 13(1) and Article 14(1) and (2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 4 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 13(1) and Article 14(1) and (2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 15
+
+1\. The organisations which, at the entry into force of this Regulation, had been granted recognition in accordance with Directive 94/57/EC shall retain their recognition, subject to the provisions of paragraph 2.
+
+2\. Without prejudice to Articles 5 and 7, the Commission shall re-examine all limited recognitions granted under Directive 94/57/EC in light of Article 4(3) of this Regulation by 17 June 2010, with a view to deciding, in accordance with the regulatory procedure referred to in Article 12(3), whether the limitations are to be replaced by others or removed. The limitations shall continue to apply until the Commission has taken a decision.
+
+## Article 16
+
+In the course of the assessment pursuant to Article 8(1), the Commission shall verify that the holder of the recognition is the relevant legal entity within the organisation to which the provisions of this Regulation shall apply. If that is not the case, the Commission shall take a decision amending that recognition.
+
+Where the Commission amends the recognition, the Member States shall adapt their agreements with the recognised organisation to take account of the amendment.
+
+## Article 17
+
+The Commission shall, on a biennial basis, inform the European Parliament and the Council on the application of this Regulation.
+
+## Article 18
+
+References in Community and national law to Directive 94/57/EC shall be construed, as appropriate, as being made to this Regulation and shall be read in accordance with the correlation table in Annex II.
+
+## Article 19
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**MINIMUM CRITERIA FOR ORGANISATIONS TO OBTAIN OR TO CONTINUE TO ENJOY COMMUNITY RECOGNITION**
+
+**(referred to in Article 3)**
+
+**A. GENERAL MINIMUM CRITERIA**
+
+1\. A recognised organisation must have legal personality in the State of its location. Its accounts shall be certified by independent auditors.
+
+2\. The recognised organisation must be able to document extensive experience in assessing the design and construction of merchant ships.
+
+3\. The recognised organisation must be equipped at all times with significant managerial, technical, support and research staff commensurate with the size of the fleet in its class, its composition and the organisation’s involvement in the construction and conversion of ships. The recognised organisation must be capable of assigning to every place of work, when and as needed, means and staff commensurate with the tasks to be carried out in accordance with general minimum criteria under points 6 and 7 and with the specific minimum criteria under part B.
+
+4\. The recognised organisation must have and apply a set of own comprehensive rules and procedures, or the demonstrated ability thereto, for the design, construction and periodic survey of merchant ships, having the quality of internationally recognised standards. They must be published and continually upgraded and improved through research and development programmes.
+
+5\. The recognised organisation must have its register of ships published on an annual basis or maintained in an electronic database accessible to the public.
+
+6\. The recognised organisation must not be controlled by shipowners or shipbuilders, or by others engaged commercially in the manufacture, equipping, repair or operation of ships. The recognised organisation is not substantially dependent on a single commercial enterprise for its revenue. The recognised organisation does not carry out class or statutory work if it is identical to or has business, personal or family links to the shipowner or operator. This incompatibility shall also apply to surveyors employed by the recognised organisation.
+
+7\. The recognised organisation must operate in accordance with the provisions set out in the Annex to IMO Resolution A.789(19) on specifications on the survey and certification functions of recognised organisations acting on behalf of the administration, in so far as they cover matters falling within the scope of this Regulation.
+
+**B. SPECIFIC MINIMUM CRITERIA**
+
+1\. The recognised organisation must provide worldwide coverage by its exclusive surveyors or, in exceptional and duly justified cases, through exclusive surveyors of other recognised organisations.
+
+2\. The recognised organisation must be governed by a code of ethics.
+
+3\. The recognised organisation must be managed and administered in such a way as to ensure the confidentiality of information required by the administration.
+
+4\. The recognised organisation must provide relevant information to the administration, to the Commission and to interested parties.
+
+5\. The recognised organisation, its surveyors and its technical staff shall carry out their work without in any way harming the intellectual property rights of shipyards, equipment suppliers, and shipowners, including patents, licences, know-how, or any other kind of knowledge whose use is legally protected at international, Community or national level; under no circumstances, and without prejudice to the assessment powers of Member States and the Commission and in particular under Article 9, may either the recognised organisation or the surveyors and technical staff, whom it employs pass on or divulge commercially relevant data obtained in the course of their work of inspecting, checking, and monitoring ships under construction or repair.
+
+6\. The recognised organisation’s management must define and document its policy and objectives for, and commitment to, quality and must ensure that this policy is understood, implemented and maintained at all levels in the recognised organisation. The recognised organisation’s policy must refer to safety and pollution prevention performance targets and indicators.
+
+7\. The recognised organisation must ensure that:
+
+(a) its rules and procedures are established and maintained in a systematic manner;
+
+(b) its rules and procedures are complied with and an internal system to measure the quality of service in relation to these rules and procedures is put in place;
+
+(c) the requirements of the statutory work for which the recognised organisation is authorised are satisfied and an internal system to measure the quality of service in relation to compliance with the international conventions is put in place;
+
+(d) the responsibilities, powers and interrelation of personnel whose work affects the quality of the recognised organisation’s services are defined and documented;
+
+(e) all work is carried out under controlled conditions;
+
+(f) a supervisory system is in place which monitors the actions and work carried out by surveyors and technical and administrative staff employed by the recognised organisation;
+
+(g) surveyors have an extensive knowledge of the particular type of ship on which they carry out their work as relevant to the particular survey to be carried out and of the relevant applicable requirements;
+
+(h) a system for qualification of surveyors and continuous updating of their knowledge is implemented;
+
+(i) records are maintained, demonstrating achievement of the required standards in the items covered by the services performed, as well as the effective operation of the quality system;
+
+(j) a comprehensive system of planned and documented internal audits of the quality related activities is maintained in all locations;
+
+(k) the statutory surveys and inspections required by the harmonised system of survey and certification for which the recognised organisation is authorised are carried out in accordance with the provision set out in the Annex and Appendix to IMO Resolution A.948(23) on survey guidelines under the harmonised system of survey and certification;
+
+(l) clear and direct lines of responsibility and control are established between the central and the regional offices of the recognised organisation and between the recognised organisations and their surveyors.
+
+8\. The recognised organisation must have developed, implemented and must maintain an effective internal quality system based on appropriate parts of internationally recognised quality standards and in compliance with EN ISO/IEC 17020:2004 (inspection bodies) and with EN ISO 9001:2000 (quality management systems, requirements), as interpreted and certified by the quality assessment and certification entity referred to in Article 11(1).
+
+9\. The rules and procedures of the recognised organisation must be implemented in such a way that the organisation remains in a position to derive from its own direct knowledge and judgment a reliable and objective declaration on the safety of the ships concerned by means of class certificates on the basis of which statutory certificates can be issued.
+
+10\. The recognised organisation must have the necessary means of assessing, through the use of qualified professional staff and pursuant to the provisions set out in the Annex to IMO Resolution A.913(22) on guidelines on implementation of the International Safety Management (ISM) Code by administrations, the application and maintenance of the safety management system, both shore-based and on board ships, intended to be covered in the certification.
+
+11\. The recognised organisation must allow participation in the development of its rules and procedures by representatives of the administration and other parties concerned.
+
+## ANNEX II
+
+**Correlation table**
+
+| Directive 94/57/EC | Directive 2009/15/EC | This Regulation |
+| --- | --- | --- |
+| Article 1 | Article 1 | Article 1 |
+| Article 2(a) | Article 2(a) | Article 2(a) |
+| Article 2(b) | Article 2(b) | — |
+| Article 2(c) | Article 2(c) | — |
+| Article 2(d) | Article 2(d) | Article 2(b) |
+| Article 2(e) | Article 2(e) | Article 2(c) |
+| — | Article 2(f) | Article 2(d) |
+| Article 2(f) | Article 2(g) | Article 2(e) |
+| Article 2(g) | Article 2(h) | Article 2(f) |
+| Article 2(h) | Article 2(i) | Article 2(g) |
+| Article 2(i) | Article 2(k) | Article 2(i) |
+| — | Article 2(j) | Article 2(h) |
+| Article 2(j) | Article 2(l) | — |
+| Article 2(k) | — | Article 2(j) |
+| Article 3 | Article 3 | — |
+| Article 4(1) first phrase | — | Article 3(1) |
+| Article 4(1) second phrase | — | Article 3(2) |
+| Article 4(1) third phrase | — | — |
+| Article 4(1) fourth phrase | — | Article 4(1) |
+| — | — | Article 3(3) |
+| — | — | Article 4(2), (3), (4) |
+| — | — | Article 5 |
+| — | — | Article 6 |
+| — | — | Article 7 |
+| Article 5(1) | Article 4(1) | — |
+| Article 5(3) | Article 4(2) | — |
+| Article 6(1), (2), (3), (4) | Article 5(1), (2), (3), (4) | — |
+| Article 6(5) | — | — |
+| Article 7 | Article 6 | Article 12 |
+| Article 8(1) first indent | Article 7(1), point (a) of first subparagraph | — |
+| Article 8(1) second indent | — | Article 13(1) |
+| Article 8(1) third indent | Article 7(1), point (b) of first subparagraph | — |
+| — | Article 7(1) second subparagraph | Article 13(1) second subparagraph |
+| Article 8(2) | Article 7(2) | — |
+| Article 8(2) second subparagraph | — | Article 13(2) |
+| Article 9(1) | — | — |
+| Article 9(2) | — | — |
+| Article 10(1) introductory wording | Article 8 | — |
+| Article 10(1)(a), (b), (c), (2), (3), (4) | — | — |
+| Article 11(1), (2) | Article 9(1), (2) | — |
+| Article 11(3), (4) | — | Article 8(1), (2) |
+| Article 12 | Article 10 | — |
+| Article 13 | — | — |
+| Article 14 | Article 11(1), (2) | — |
+| — | Article 11(3) | — |
+| — | Article 12 | — |
+| — |  | Article 9 |
+| Article 15(1) |  |  |
+|  |  | Article 10(1), (2) |
+| Article 15(2) |  | Article 10(3) |
+| Article 15(3) | — | Article 10(4) |
+| Article 15(4) |  | Article 10(5) |
+| Article 15(5) |  | Article 10(6) first, second, third, fifth subparagraphs |
+| — |  | Article 10(6) fourth subparagraph |
+| Article 16 | Article 13 | — |
+| Article 17 | Article 16 | — |
+| — | Article 14 | — |
+| — | Article 15 | — |
+|  |  | Article 11 |
+|  |  | Article 14 |
+|  |  | Article 15 |
+|  |  | Article 16 |
+|  |  | Article 17 |
+|  |  | Article 18 |
+|  |  | Article 19 |
+| Annex |  | Annex I |
+|  | Annex I |  |
+|  | Annex II | Annex II |
+
+( 1 ) OJ L 46, 17.2.1997, p. 25.
+
+( 2 ) See page 57 of this Official Journal.
+
+( 3 ) OJ L 324, 29.11.2002, p. 1.
+
+( 4 ) OJ L 123, 12.5.2016, p. 1.

@@ -127,6 +127,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘343</td><td>Fluometuron CAS No: 2164-17-2  CIPAC No: 159 </td><td>1,1-dimethyl-3-(α,α,α -trifluoro-m-tolyl)urea</td><td>≥ 940 g/kg</td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as herbicide on cotton may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on fluometuron, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 11 March 2011 shall be taken into account.  In this overall assessment Member States shall: <table><tbody><tr><td>(a)</td><td>pay particular attention to the protection of the operators and workers and ensure that conditions of use include the application of adequate personal protective equipment;</td></tr>
 </tbody>
@@ -151,5 +152,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicants submit to the Commission the information set out in points (a), (b) and (c) by 31 March 2013 and the information set out in point (d) within 6 months from the notification of the decision classifying fluometuron.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

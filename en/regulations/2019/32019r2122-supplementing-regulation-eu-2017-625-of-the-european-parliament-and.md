@@ -1,0 +1,592 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/2122 of 10 October 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market and amending Commission Regulation (EU) No 142/2011 (Text with EEA relevance)"
+identifier: "32019R2122"
+eli: "http://data.europa.eu/eli/reg_del/2019/2122/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-10-10
+entry_into_force: 2019-05-18
+last_amended: 2026-04-22
+consolidated_version: "02019R2122-20260422"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R2122-20260422"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/2122 of 10 October 2019 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market and amending Commission Regulation (EU) No 142/2011 (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/2122**
+
+**of 10 October 2019**
+
+**supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market and amending Commission Regulation (EU) No 142/2011**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/2089 of 21 September 2021 </td><td> L 427</td><td>149</td><td>30.11.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/887 of 28 March 2022 </td><td> L 154</td><td>23</td><td>7.6.2022</td></tr>
+<tr><td> M3</td><td> COMMISSION DELEGATED REGULATION (EU) 2023/182 of 23 November 2022 </td><td> L 26</td><td>5</td><td>30.1.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/1674 of 19 June 2023 </td><td> L 216</td><td>1</td><td>1.9.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/273 of 4 February 2026 </td><td> L 273</td><td>1</td><td>13.4.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/2122**
+
+**of 10 October 2019**
+
+**supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of animals and goods exempted from official controls at border control posts, specific controls on passengers’ personal luggage and on small consignments of goods sent to natural persons which are not intended to be placed on the market and amending Commission Regulation (EU) No 142/2011**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Regulation lays down rules for the cases where and the conditions under which certain categories of animals and goods are exempted from official controls at border control posts, and the cases where and the conditions under which specific control tasks may be performed by customs authorities or other public authorities, insofar as those tasks are not already falling under the responsibility of those authorities, on passengers’ personal luggage and non-commercial movements of pet animals into the Union.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘research and diagnostic samples’ means research and diagnostic samples as defined in point (38) of Annex I to Regulation (EU) No 142/2011;
+
+(2) ‘IMSOC’ means the information management system for official controls referred to in Article 131 of Regulation (EU) 2017/625;
+
+(3) ‘fresh fishery products’ means fresh fishery products as defined in point 3.5 of Annex I to Regulation (EC) No 853/2004 of the European Parliament and of the Council ( 1 );
+
+(4) ‘prepared fishery products’ means prepared fishery products as defined in point 3.6 of Annex I to Regulation (EC) No 853/2004;
+
+(5) ‘processed fishery products’ means ‘processed fishery products’ as defined in point 7.4 of Annex I to Regulation (EC) No 853/2004;
+
+(6) ‘pet animal’ means pet animal as defined in point (11) of Article 4 of Regulation (EU) 2016/429 of the European Parliament and of the Council ( 2 );
+
+(7) ‘non-commercial movement’ means non-commercial movement as defined in point (14) of Article 4 of Regulation (EU) 2016/429;
+
+(8) ‘petfood’ means petfood as defined in point (19) of Annex I to Regulation (EU) No 142/2011;
+
+(9) ‘pet owner’ means a pet owner as defined in Article 4, point (13), of Regulation (EU) 2016/429;
+
+(10) ‘authorised person’ means an authorised person as defined in Article 4, point (15), of Regulation (EU) 2016/429;
+
+(11) ‘travellers’ point of entry’ means a travellers’ point of entry as defined in Article 2, point (2), of Commission Delegated Regulation (EU) 2026/131 ( 3 ).
+
+## Article 3 — Animals intended for scientific purposes
+
+1\. Invertebrates intended for scientific purposes such as research, educational activities or research related to product development activities shall be exempted from official controls at border control posts other than controls carried out in accordance with Article 15(2) of Regulation (EU) No 1143/2014, provided that:
+
+(a) they comply with the animal health requirements set out in the rules referred to in point (d) of Article 1(2) of Regulation (EU) 2017/625;
+
+(b) their entry into the Union is authorised in advance for that purpose by the competent authority of the Member State ( 4 ) of destination;
+
+(c) when the activities related to the scientific purposes have been carried out, they and products derived from them, with the exception of the quantities used for the scientific purposes, shall be disposed of or re-dispatched to the third country of origin.
+
+2\. Paragraph 1 shall not apply to honey bees (Apis mellifera), bumble bees (Bombus spp.), molluscs belonging to the phylum Mollusca and crustaceans belonging to the subphylum Crustacea.
+
+## Article 4 — Research and diagnostic samples, and samples of products of animal origin and of composite products for product analysis and quality testing, including organoleptic analysis
+
+1\. The competent authority may exempt research and diagnostic samples from official controls at border control posts provided that:
+
+(a) the competent authority of the Member State of destination has issued to the user of the samples an authorisation in advance for their introduction into the Union in accordance with Article 27(1) of Regulation (EU) No 142/2011 and this authorisation is recorded in an official document delivered by that authority;
+
+(b) they are accompanied by the official document referred to in point (a) or by a copy thereof until they reach the user referred to in point (a) or in the case referred to in point (c) the border control post of entry;
+
+(c) in the case of entry into the Union via a Member State other than the Member State of destination, the operator presents the samples at a border control post.
+
+2\. In the case referred in paragraph 1(c), the competent authority of the border control post shall inform through the IMSOC the competent authority of the Member State of destination of the introduction of the samples.
+
+3\. The competent authority of the Member State of destination may exempt samples of products of animal origin and of composite products for product analysis and quality testing, including organoleptic analysis, from official controls at border control posts provided that:
+
+(a) the competent authority has issued to the operator responsible for the analysis or testing of the samples in advance of their entry into the Union an authorisation for their introduction into the Union in accordance with paragraph 4 and that authorisation is recorded in an official document delivered by that authority;
+
+(b) the samples are accompanied by the official document referred to in point (a) or by a copy thereof, and, where requested by the competent authority, by the certificate or declaration referred to in paragraph 4, point (b) or, where applicable, by any document required under national rules referred to in paragraph 4, point (c)(ii), until the samples reach the operator responsible for the product analysis and quality testing, including organoleptic analysis.
+
+Where samples referred to in the first subparagraph enter the Union via a Member State other than the Member State of destination, the operator shall present such samples at a border control post.
+
+4\. The competent authority of the Member State of destination shall specify in the authorisation for the introduction into the Union of samples of products of animal origin and of composite products for product analysis and quality testing, including organoleptic analysis, the following:
+
+(a) the samples originate from third countries or regions of third countries listed:
+
+(i) in Commission Implementing Regulation (EU) 2021/404 ( 5 ), in case of samples from products of animal origin falling within the scope of Commission Delegated Regulation (EU) 2020/692 ( 6 ); or
+
+(ii) in Commission Implementing Regulation (EU) 2021/405 ( 7 ), in case of samples from products of animal origin not falling within the scope of Delegated Regulation (EU) 2020/692;
+
+(b) the official veterinarian has completed and signed at least the relevant animal health attestation for the samples in the relevant certificate or declaration drawn up in accordance with the models established in Commission Implementing Regulation (EU) 2020/2235 ( 8 );
+
+(c) that, depending on the commodity, the samples comply with the following:
+
+(i) relevant requirements laid down in Commission Delegated Regulation (EU) 2020/692 ( 9 ); or
+
+(ii) national rules in accordance with Articles 230(2), 234(3) and 238(4) of Regulation (EU) 2016/429, where applicable;
+
+(d) the public health requirements for:
+
+— entry into the Member State of destination, which may include labelling and packaging requirements for the samples; and
+
+— the analysis or testing of the samples by the operator;
+
+(e) the operator responsible for the analysis or testing of the samples, including a reference to the address of the operator’s premises for which the samples are destined;
+
+(f) the competent authority responsible for official controls at the operator’s premises for which the samples are destined; and
+
+(g) the obligations of the operator responsible for the analysis or testing not to mix the samples with food destined for placing on the market, to keep records on the use of the samples and to dispose of the samples after the product analysis or the quality testing in accordance with Regulation (EC) No 1069/2009 of the European Parliament and of the Council ( 10 ).
+
+5\. The competent authority of the Member State of destination shall specify in the authorisations referred to in paragraphs 1(a) and paragraph 3, first subparagraph, point (a) the maximum amount of samples exempted from official controls at border control posts.
+
+## Article 5 — Plants, plant products and other objects intended for scientific purposes
+
+1\. Plants, plant products and other objects are exempted from identity and physical checks at border control posts other than controls carried out pursuant to Article 15(2) of Regulation (EU) No 1143/2014, provided that they are intended for scientific purposes in accordance with Article 48(1) of Regulation (EU) 2016/2031.
+
+2\. The competent authority of the border control post of first arrival of the consignment shall perform documentary checks on the authorisation referred to in Article 48(1) of Regulation (EU) 2016/2031. In case of identified or suspected non-compliance, the competent authority of the border control post of first arrival may perform identity and physical checks on the consignment or request such checks to be carried out by the person responsible for the quarantine station or the confinement facility that has been designated by the competent authority.
+
+3\. If the competent authority of the border control post of first arrival of the consignment requests identity and physical checks to be carried out by the person responsible for the quarantine station or the confinement facility that has been designated by the competent authority, the competent authority of the border control post of first arrival of the consignment shall inform through the IMSOC the competent authority of the quarantine station or the confinement facility of the results of the documentary checks and of the subsequent departure of the consignment for the quarantine station or the confinement facility. The competent authority of the quarantine station or the confinement facility shall inform through the IMSOC the competent authority of the border control post of first arrival of the consignment of the arrival of the consignment at the quarantine station or the confinement facility. The competent authority of the quarantine station or the confinement facility shall carry out identity and physical checks.
+
+## Article 6 — Products of animal origin and composite products on board means of transport operating internationally which are not unloaded and are intended for consumption by the crew and passengers
+
+1\. Products of animal origin and composite products are exempted from official controls at border control posts provided that:
+
+(a) they are intended for consumption by the crew and passengers on board means of transport operating internationally; and
+
+(b) they are not unloaded on Union territory.
+
+2\. Direct transfer of goods referred to in paragraph 1 unloaded at a port from one means of transport operating internationally to another means of transport operating internationally is exempted from official controls at border control posts provided that:
+
+(a) it takes place in accordance with the agreement of the competent authority of the border control post; and
+
+(b) it takes place under customs supervision.
+
+3\. The operator responsible for the goods referred to in paragraph 1 shall request the agreement referred to in paragraph 2(a) prior to the transfer of these goods from one means of transport operating internationally to another means of transport operating internationally.
+
+## Article 7 — Goods which form part of passengers’ personal luggage and are intended for personal consumption or use
+
+Products of animal origin, composite products, products derived from animal by-products, plants, plant products and other objects which form part of passengers’ personal luggage and which are intended for personal consumption or use, are exempted from official controls at border control posts provided that they belong to at least one of the following categories:
+
+(a) goods listed in Part 1 of Annex I provided that the quantity in each category does not exceed the weight limit of 2 kg;
+
+(b) eviscerated fresh fishery products or prepared fishery products, or processed fishery products provided that their combined quantity does not exceed the weight limit of 20 kg or the weight of one fish, whichever weight is the highest;
+
+(c) products of animal origin and composite products other than those referred to in points (a) and (b) of this Article and other than those referred to in Part 2 of Annex I, provided that their combined quantity does not exceed the weight limit of 2 kg;
+
+(d) plants, other than plants for planting, plant products and other objects;
+
+(e) goods, other than plants for planting, coming from Andorra, Iceland, Liechtenstein, Norway, San Marino or Switzerland;
+
+(f) fishery products coming from the Faroe Islands or Greenland;
+
+(g) goods, other than plants for planting and other than fishery products, coming from the Faroe Islands or Greenland provided that their combined quantity does not exceed the weight limit of 10 kg.
+
+## Article 8 — Information on goods which form part of passengers’ personal luggage and are intended for personal consumption or use
+
+1\. In all points of entry into the Union, the competent authority shall display information by means of one of the posters set out in Annex II, in at least one of the official languages of the Member State of introduction into the Union, placed in locations which are easily visible to passengers arriving from third countries.
+
+2\. The competent authority may complement the information referred to in paragraph 1 with additional information, including:
+
+(a) the information set out in Annex III;
+
+(b) information appropriate to the local conditions.
+
+3\. International passenger transport operators, including airport, port and rail operators and travel agencies shall:
+
+(a) draw the attention of their customers to the rules laid down in Article 7 and in this Article, in particular by providing the information set out in Annexes II and III;
+
+(b) accept that the competent authority displays the information referred to in paragraphs 1 and 2 within their premises in locations which are easily visible to passengers arriving from third countries.
+
+## Article 9 — Specific official controls on goods which form part of passengers’ personal luggage
+
+1\. For goods which form part of passengers’ personal luggage, the competent authorities, the customs authorities or other public authorities responsible, in cooperation with port, airport and rail operators and with operators responsible for other points of entry shall organise specific official controls at points of entry into the Union. These specific official controls shall be risk-based and effective.
+
+2\. The controls referred to in paragraph 1 of this Article shall:
+
+(a) aim in particular at detecting the presence of goods referred to in Article 7;
+
+(b) aim at verifying that the conditions laid down in Article 7 are met; and
+
+(c) be carried out by appropriate means, which may include the use of scanning equipment or specifically trained detector dogs, to screen large volumes of goods.
+
+3\. The competent authorities, the customs authorities or other public authorities responsible, which carry out specific official controls shall:
+
+(a) aim at identifying the goods which are non-compliant with the rules laid down in Article 7;
+
+(b) ensure that the non-compliant goods identified are seized and destroyed in accordance with national legislation and, where applicable, in accordance with Articles 197 to 199 of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 11 );
+
+(c) review, at least once per year and before 1 October, their applied mechanisms and actions, establish the level of compliance achieved, and, on a risk-basis, adapt those mechanisms and actions if necessary, to achieve the objectives laid down in points (a) and (b) of paragraph 2.
+
+4\. The review referred to in point (c) of paragraph 3 shall ensure that risks to public health, animal health and plant health are minimised.
+
+The review shall take into account:
+
+(a) data collected on the approximate number of consignments which are in breach of the rules laid down in Article 7;
+
+(b) the number of specific official controls done;
+
+(c) the total quantified amount of seized and destroyed consignments which were found in passengers’ personal luggage and which were not in compliance with Article 7; and
+
+(d) any other relevant information.
+
+## Article 10 — Small consignments of goods sent to natural persons which are not intended to be placed on the market
+
+1\. Small consignments of products of animal origin, composite products, products derived from animal by-products, plants, plant products and other objects sent to natural persons, which are not intended to be placed on the market, are exempted from official controls at border control posts provided that they belong to at least one of the categories listed in Article 7, points (b) to (g).
+
+2\. Member States shall carry out specific official controls on those goods in accordance with Article 9.
+
+3\. Postal services shall draw the attention of their customers to the rules laid down in paragraph 1, in particular by providing the information set out in Annexe III.
+
+## Article 11 — Pet animals
+
+The following pet animals entering the Union during a non-commercial movement are exempted from official controls at border control posts other than official controls carried out in accordance with Article 15(2) of Regulation (EU) No 1143/2014 and official controls carried out to verify compliance with Article 57(1) of Regulation (EC) No 865/2006, provided that they meet the conditions laid down in Part VI of Regulation (EU) 2016/429 and, where applicable, in Delegated Regulation (EU) 2026/131:
+
+(1) pet animals of a species listed in Part A of Annex I to Regulation (EU) 2016/429 that:
+
+(a) are moved from a third country or a territory listed in accordance with Article 17(1), point (a), of Delegated Regulation (EU) 2026/131, and at the request of the competent authorities, the customs authorities or other public authorities, on a risk-based and non-discriminatory basis, meet the following conditions:
+
+(i) the pet owner or the authorised person:
+
+— presents the passports of the animals referred to in Article 20, point (a), of Delegated Regulation (EU) 2026/131, which demonstrate compliance with the requirements of movement laid down in that Delegated Regulation, or presents the passports of the animals referred to in Article 11(1) of Delegated Regulation (EU) 2026/131, where the conditions laid down in Article 20, point (b), of that Delegated Regulation are met;
+
+— makes the animals available for the checks referred to in point (ii);
+
+(ii) the animals are subjected to documentary and identity checks;
+
+(b) are moved from a third country or a territory other than those listed in accordance with Article 17(1), point (a), of Delegated Regulation (EU) 2026/131, and meet the following conditions:
+
+(i) the pet owner or the authorised person:
+
+— on arrival, contacts the competent authorities, the customs authorities or other public authorities responsible for the checks at the travellers’ point of entry;
+
+— presents the animal health certificate referred to in Article 18(1) of Delegated Regulation (EU) 2026/131, that demonstrates compliance with the requirements of movement laid down in that Delegated Regulation, or the passport referred to in Article 11(1) of Delegated Regulation (EU) 2026/131, where the conditions laid down in Article 20, point (b), of that Delegated Regulation are met;
+
+— makes the animals available for the checks referred to in point (ii);
+
+(ii) the animals are subjected to documentary checks and identity checks at the travellers’ point of entry on a systematic basis;
+
+(c) meet the conditions laid down in Article 15, point (b), of Delegated Regulation (EU) 2026/131 as regards the movement of pet dogs by military personnel, law enforcement personnel or search-and-rescue teams through a point of entry into the Union other than a travellers’ point of entry, and are subjected to checks in accordance with the specific arrangements defined by the competent authority in the permit referred to in Article 15, point (b)(i), of that Delegated Regulation;
+
+(d) meet the conditions for the derogation provided for in Article 29 of Delegated Regulation (EU) 2026/131, and are subjected to checks on a systematic basis and in accordance with the specific arrangements defined by the competent authority in the permit referred to in Article 29(1), point (a), of that Delegated Regulation; or
+
+(e) originate from and are returned to the Union following a refusal of entry of the animals, the pet owner or the authorised person by the competent authority of a third country or a territory, and meet the following conditions:
+
+(i) the pet owner or the authorised person:
+
+— on arrival, contacts the competent authorities, the customs authorities or other public authorities responsible for the checks at the travellers’ point of entry;
+
+— presents the passport referred to in Article 11(1) of Delegated Regulation (EU) 2026/131;
+
+— where applicable, presents the animal health certificate issued by the competent authority of the Member State of origin or any other valid document, that accompanied the pet animals for the non-commercial movement to the third country or the territory;
+
+— where applicable, presents the official document issued by the competent authority or other public authority of the third country or the territory, that indicates the reasons for the refusal;
+
+— makes the animals available for the checks referred to in point (ii);
+
+(ii) the animals are subjected to documentary checks and identity checks at the travellers’ point of entry on a systematic basis;
+
+(2) birds of avian species listed in Part B of Annex I to Regulation (EU) 2016/429 that:
+
+(a) are moved from a third country or a territory not referred to in Article 28 of Delegated Regulation (EU) 2026/131, and meet the following conditions:
+
+(i) the pet owner or the authorised person:
+
+— on arrival, contacts the competent authorities, the customs authorities or other public authorities responsible for the checks at the travellers’ point of entry;
+
+— presents the animal health certificate referred to in Article 26(1) of Delegated Regulation (EU) 2026/131, that demonstrates compliance with the requirements of movement laid down in that Delegated Regulation;
+
+— makes the birds available for the checks referred to in point (ii);
+
+(ii) the birds are subjected to documentary checks and identity checks at the travellers’ point of entry on a systematic basis;
+
+(b) meet the conditions for the derogation provided for in Article 29 of Delegated Regulation (EU) 2026/131, and are subjected to checks on a systematic basis and in accordance with the specific arrangements defined by the competent authority in the permit referred to in Article 29(1), point (a), of that Delegated Regulation; or
+
+(c) originate from and are returned to the Union following a refusal of entry of the birds, the pet owner or the authorised person by the competent authority of a third country or a territory, and meet the following conditions:
+
+(i) the pet owner or the authorised person:
+
+— on arrival, contacts the competent authorities, the customs authorities or other public authorities responsible for the checks at the travellers’ point of entry;
+
+— where applicable, presents the animal health certificate issued by the competent authority of the Member State of origin or any other valid document that accompanied the pet animals for the non-commercial movement to the third country or the territory;
+
+— where applicable, presents the official document issued by the competent authority or other public authority of the third country or the territory, that indicates the reasons for the refusal;
+
+— makes the birds available for the checks referred to in point (ii);
+
+(ii) the birds are subjected to documentary checks and identity checks at the travellers’ point of entry on a systematic basis;
+
+(3) birds of avian species listed in Part B of Annex I to Regulation (EU) 2016/429 that are moved from a third country or a territory referred to in Article 28 of Delegated Regulation (EU) 2026/131;
+
+(4) pet animals of species other than birds listed in Part B of Annex I to Regulation (EU) 2016/429.
+
+## Article 11a — Requirements for official controls on pet animals
+
+The competent authorities, the customs authorities or other public authorities that have been designated to perform the checks referred to in Article 11, points (1) and (2), of this Regulation shall:
+
+(a) be fully informed of the rules laid down in Part VI of Regulation (EU) 2016/429 and in Delegated Regulation (EU) 2026/131;
+
+(b) ensure that their staff receive appropriate and regular training enabling them to undertake their duties competently and perform the checks in a consistent manner;
+
+(c) keep records of the checks that have been carried out and of instances of non-compliance identified during those checks; and
+
+(d) document the outcome of the checks in the relevant section of the animal health certificate for each pet animal, when required in accordance with Article 18(2), point (k), and Article 26(2), point (j), of Delegated Regulation (EU) 2026/131.
+
+## Article 11b — Measures to be taken in case of non-compliance of pet animals or pet animals not made available for official controls
+
+1\. Where the pet animal is not made available by the pet owner or the authorised person for the checks referred to in Article 11, points (1) and (2), of this Regulation, or where the outcome of those checks reveals that a pet animal does not comply with the conditions laid down in Part VI of Regulation (EU) 2016/429 or in Delegated Regulation (EU) 2026/131, the competent authorities, the customs authorities or other public authorities that have been designated to perform the checks shall decide, after consultation with the official veterinarian and, where necessary, with the pet owner or the authorised person, to:
+
+(a) isolate the pet animal under official supervision for the time necessary for it to comply;
+
+(b) adopt any other administrative decision for the pet animal to comply;
+
+(c) re-dispatch the pet animal outside the Union; or
+
+(d) where the application of the measures referred to in points (a), (b) and (c) is not practical, order that the pet animal be killed in accordance with applicable national rules relating to the protection of pet animals at the time of killing.
+
+2\. Where the non-commercial movement of a pet animal into the Union is refused by the competent authorities, the customs authorities or other public authorities responsible for the checks referred to in Article 11, points (1) and (2), the pet animal shall be isolated under official supervision, pending the adoption of the measures provided for in paragraph 1, points (c) and (d).
+
+3\. The measures referred to in this Article shall be applied at the expense of the pet owner or the authorised person.
+
+## Article 12 — Information on pet animals
+
+1\. In all points of entry into the Union, the competent authority shall display information in the poster set out in Annex IV, in at least one of the official languages of the Member State of introduction into the Union, by prominent notices placed in locations which are easily visible to passengers arriving from third countries.
+
+2\. International passenger transport operators, including airport, port and rail operators shall accept that the competent authority displays the information referred to in paragraph 1 within their premises in locations which are easily visible to passengers arriving from third countries.
+
+## Article 13 — Repeal of Regulation (EC) No 206/2009
+
+1\. Regulation (EC) No 206/2009 is repealed with effect from 14 December 2019.
+
+2\. References to the repealed act shall be construed as references to this Regulation and read in accordance with the correlation table in Annex V.
+
+## Article 14 — Amendment to Regulation (EU) No 142/2011
+
+In Article 27 of Regulation (EU) No 142/2011, paragraph 2 is deleted.
+
+## Article 15 — Entry into force and date of application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 14 December 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**PART 1**
+
+**List of goods referred to in Article 7(a)**
+
+1\. Powdered infant milk, other infant formula and food for special medical purposes, under the conditions that these products:
+
+(i) do not require refrigeration before opening;
+
+(ii) are packaged proprietary brand products for direct sale to the final consumer; and
+
+(iii) that the packaging is unbroken unless in current use; and
+
+(iv) are intended for use by the passengers.
+
+2\. Petfood required for health-related reasons, under the conditions that these products:
+
+(i) are intended for the pet accompanying the passenger;
+
+(ii) are shelf-stable;
+
+(iii) are packaged proprietary brand products for direct sale to the final consumer; and
+
+(iv) that the packaging is unbroken unless in current use.
+
+**PART 2**
+
+**List of products of animal origin and composite products which are not exempted from official controls at border control posts provided for in Article 7, point (c)**
+
+<table>
+<tbody><tr><td>Combined Nomenclature code ()</td><td>Description</td><td>Qualification and explanation</td></tr>
+<tr><td>ex Chapter 2 (0201 -0210 ) </td><td>Meat and edible meat offal</td><td>All, excluding frogs’ legs (CN code 0208 90 70 )</td></tr>
+<tr><td>0401 -0406 </td><td>Dairy produce</td><td>All</td></tr>
+<tr><td>ex 0504 00 00 </td><td>Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, chilled, frozen, salted, in brine, dried or smoked</td><td>All, excluding casings</td></tr>
+<tr><td colspan="3"> —————</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1501 00 </td><td>Pig fat (including lard) and poultry fat, other than that of heading 0209 or 1503 </td><td>All</td></tr>
+<tr><td>1502 00 </td><td>Fats of bovine animals, sheep or goats, other than those of heading 1503 </td><td>All</td></tr>
+<tr><td>1503 00 </td><td>Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared</td><td>All</td></tr>
+<tr><td>1506 00 00 </td><td>Other animal fats and oils and their fractions, whether or not refined, but not chemically modified</td><td>All</td></tr>
+<tr><td>1601 00 </td><td>Sausages and similar products, of meat, meat offal, blood or insects; food preparations based on these products</td><td>All, excluding insects</td></tr>
+<tr><td>1602 </td><td>Other prepared or preserved meat, meat offal, blood or insects</td><td>All, excluding insects</td></tr>
+<tr><td>1702 11 00  1702 19 00 </td><td>Lactose and lactose syrup</td><td>All</td></tr>
+<tr><td>ex 1901 </td><td>Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of headings 0401 to 0404 , not containing cocoa or containing less than 5 % by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included</td><td>Only those preparations containing meat or milk, or both</td></tr>
+<tr><td>ex 1902 </td><td>Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared</td><td>Preparations containing meat or milk, or both, excluding shelf-stable pasta, noodles and couscous not containing meat ()</td></tr>
+<tr><td>ex 1905 </td><td>Bread, pastry, cakes, biscuits and other bakers’ wares, whether or not containing cocoa; communion wafers, empty cachets of a kind suitable for pharmaceutical use, sealing wafers, rice paper and similar products</td><td>Preparations containing meat or milk, or both, excluding shelf-stable breads, cakes, prepared pastries, biscuits (including crackers), waffles and wafers, rusks, toasted bread and similar toasted products, and chips and crisps not containing meat ()</td></tr>
+<tr><td>ex 2004 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 2006 ()</td><td>Only those preparations containing meat or milk, or both</td></tr>
+<tr><td>ex 2005 </td><td>Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006 </td><td>Preparations containing meat or milk, or both, excluding shelf-stable potato chips and crisps suitable for immediate consumption and not containing meat ()</td></tr>
+<tr><td>ex 2103 </td><td>Sauces and preparations thereof; mixed condiments and mixed seasonings; mustard flour and meal and prepared mustard</td><td>Only preparations containing meat or milk, or both</td></tr>
+<tr><td>ex 2104 </td><td>Soups and broths and preparations therefore; homogenised composite food preparations</td><td>Preparations containing meat or milk, or both, excluding shelf-stable soup stocks and flavourings packaged for the final consumer and not containing meat ()</td></tr>
+<tr><td>ex 2105 00 </td><td>Ice cream and other edible ice, whether or not containing cocoa</td><td>Only those preparations containing milk</td></tr>
+<tr><td>ex 2106 </td><td>Food preparations not elsewhere specified or included</td><td>Preparations containing meat or milk, or both, excluding shelf-stable food supplements packaged for the final consumer, containing processed animal products (including glucosamine, chondroitin or chitosan) and not containing meat ()</td></tr>
+<tr><td>ex 2309 </td><td>Preparations of a kind used in animal feeding</td><td>Only petfood, dog chews and mixtures of meals containing meat or milk, or both</td></tr>
+<tr><td colspan="3">(1)  Annex I to Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).  (2)  In accordance with Commission Delegated Regulation (EU) 2021/630 of 16 February 2021 supplementing Regulation (EU) 2017/625 of the European Parliament and of the Council as regards certain categories of goods exempted from official controls at border control posts and amending Commission Decision 2007/275/EC (OJ L 132, 19.4.2021, p. 17).  (3)  In accordance with Delegated Regulation (EU) 2021/630.  (4)  Heading 2006 reads: ‘vegetables, fruit, nuts, fruit-peel and other parts of plants, preserved by sugar (drained, glacé or crystallised)’.  (5)  In accordance with Delegated Regulation (EU) 2021/630.  (6)  In accordance with Delegated Regulation (EU) 2021/630.  (7)  In accordance with Delegated Regulation (EU) 2021/630.  Notes:  1. Column 1: Where only certain products under any code are required to be examined and no specific subdivision under this code exists in the goods nomenclature, the code is marked ‘ex’ (e.g. ex 19 01: only those preparations containing meat or milk, or both should be included).  2. Column 2: The description of the goods is as laid down in the description column of Annex I to Regulation (EEC) No 2658/87.  3. Column 3: This column gives details of the products covered. </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Posters referred to in Article 8(1)**
+
+The posters can be found at:
+
+https://ec.europa.eu/food/animals/animalproducts/personal_imports_en
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+## ANNEX III — Information referred to in point (a) of Article 8(2)
+
+[image] Keep infectious animal diseases out of the EU!
+
+Animal products may carry pathogens causing infectious disease
+
+Due to the risk of introducing diseases into the European Union (EU) ( 12 ), there are strict procedures for the introduction of certain animal products into the EU. These procedures do not apply to the movements of animal products between the Member States of the EU, or for animal products coming in small quantities for personal consumption from Andorra, Iceland, Liechtenstein, Norway, San Marino and Switzerland.
+
+All animal products not conforming to these rules shall be surrendered on arrival in the EU for official disposal. Failure to declare such items may result in a fine or criminal prosecution.
+
+The following goods may be introduced into the EU as long as they comply with the conditions and weight limits indicated in points 1 to 5 below.
+
+1\. Small quantities of meat and milk and their products (other than powdered infant milk, other infant formula, foods for special medical purposes and petfood required for health-related reasons)
+
+You may only bring in or send to the EU personal consignments of meat and milk and their products (other than powdered infant milk, other infant formula, food for special medical purposes and petfood required for health-related reasons) provided that they come from the Faeroe Islands or Greenland, and their weight does not exceed 10 kg per person.
+
+2\. Powdered infant milk, other infant formula and food for special medical purposes
+
+You may only bring into the EU personal consignments of powdered infant milk, other infant formula, and food for special medical purposes provided that:
+
+— they come from the Faroe Islands or Greenland, and their combined quantity does not exceed the weight limit of 10 kg per person, and that:
+
+(a) the product does not require refrigeration before consumption;
+
+(b) the product is a packaged proprietary brand product; and
+
+(c) the packaging is unbroken unless in current use,
+
+— they come from other countries (other than the Faroe Islands or Greenland), and their combined quantity does not exceed the weight limit of 2 kg per person, and that:
+
+(a) the product does not require refrigeration before consumption;
+
+(b) the product is a packaged proprietary brand product; and
+
+(c) the packaging is unbroken unless in current use.
+
+3\. Petfood required for health-related reasons
+
+You may only bring into the EU personal consignments of petfood required for reasons related to the health of the pet accompanying the passenger provided that:
+
+— they come from the Faroe Islands or Greenland, and their combined quantity does not exceed the weight limit of 10 kg per person, and that:
+
+(a) the product does not require refrigeration before consumption;
+
+(b) the product is a packaged proprietary brand product; and
+
+(c) the packaging is unbroken unless in current use,
+
+— they come from other countries (other than the Faroe Islands or Greenland), and their combined quantity does not exceed the weight limit of 2 kg per person, and that:
+
+(a) the product does not require refrigeration before consumption;
+
+(b) the product is a packaged proprietary brand product; and
+
+(c) the packaging is unbroken unless in current use.
+
+4\. Small quantities of fishery products for personal human consumption
+
+You may only bring in or send to the EU personal consignments of fishery products (including fresh, dried, cooked, cured or smoked fish, and certain shellfish, such as prawns, lobsters, dead mussels and dead oysters) provided that:
+
+— fresh fish are eviscerated,
+
+— the weight of the fishery products does not exceed, per person, 20 kg or the weight of one fish, whichever weight is the highest.
+
+These restrictions do not apply to fishery products coming from the Faroe Islands or Greenland.
+
+5\. Small quantities of other animal products for personal human consumption
+
+You may only bring in or send to the EU other animal products, such as honey, live oysters, live mussels and snails for example, provided that:
+
+— they come from the Faroe Islands or Greenland, and their combined weight does not exceed 10 kg per person,
+
+— they come from other countries (other than the Faroe Islands or Greenland) and their combined weight does not exceed 2 kg per person.
+
+Please note that you may bring in or send to the EU small quantities of animal products from several of the above five categories (paragraphs 1 to 5) provided that they comply with the rules explained in each of the relevant paragraphs.
+
+6\. Larger quantities of animal products
+
+You may only bring in or send to the EU larger quantities of animal products if they meet the requirements for commercial consignments, which include:
+
+— certification requirements, as laid down in the appropriate official EU official certificate,
+
+— the presentation of the goods, with the correct documentation, to a EU border control post, on arrival in the EU.
+
+7\. Exempted products
+
+The following products are exempted from the rules set out in points 1 to 6 provided that they meet the requirements of Article 3(1), point (a), of Delegated Regulation (EU) 2021/630:
+
+— confectionery (including sweets), white chocolate and other food preparations, not containing cocoa, and confectionery (including sweets), chocolate and other food preparations, spreads, and preparations for making beverages, containing cocoa;
+
+— pasta, noodles and couscous;
+
+— prepared foods obtained by the swelling or roasting of cereals or cereal products, prepared foods obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes and roasted cereal flakes or swelled cereals (e.g. breakfast cereals, mueslis, granolas), and prepared foods obtained from rice and other cereals;
+
+— breads, cakes, prepared pastries, biscuits (including crackers), waffles and wafers, rusks, toasted bread and similar toasted products, and chips and crisps (including potato chips and crisps);
+
+— olives stuffed with fish;
+
+— extracts, essences and concentrates, of coffee, tea or maté and preparations with a basis of these products or with a basis of coffee, tea or maté thereof;
+
+— roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates thereof;
+
+— miso containing a small amount of fish soup stock and soy sauce containing a small amount of fish soup stock;
+
+— soup stocks and flavourings packaged for the final consumer;
+
+— food supplements packaged for the final consumer, containing processed animal products (including glucosamine, chondroitin or chitosan);
+
+— liqueurs and cordials.
+
+Composite products that have in their composition as products of animal origin only enzymes, flavourings, additives or vitamin D3 are exempted from the rules set out in points 1 to 6 provided that they meet the requirements of Article 3(1), point (b), of Delegated Regulation (EU) 2021/630.
+
+## ANNEX IV — Poster referred to in Article 12
+
+The poster can be found at:
+
+https://ec.europa.eu/food/animals/pet-movement/poster-diseases-dont-respect-borders_en
+
+[image]
+
+## ANNEX V — Correlation table referred to in Article 13(2)
+
+| Regulation (EC) No 206/2009 | This Regulation |
+| --- | --- |
+| Article 1(1) Article 1(2) Article 1(3) Article 1(4) Article 2(1)(a) Article 2(1)(b) Article 2(1)(c) Article 2(1)(d) Article 2(2)(a) Article 2(2)(b) Article 2(3) Article 3(1) Article 3(2) Article 3(3) Article 3(4)(a) Article 3(4)(b) Article 4 Article 5(1) Article 5(2) Article 5(3) Article 6(1)(a) Article 6(1)(b) Article 6(2) Article 6(3) Article 7 Article 8 Article 9 Article 10 Article 11 Annex I, Part 1 Annex I, Part 2 Annex II, Part 1 Annex II, Part 2 Annex III Annex IV Annex V Annex VI Annex VII | __ Article 7(e) and (f) and Article 10(1) __ __ __ Article 7(a) and Article 10(1) Article 7(b) and Article 10(1) Article 7(c) and Article 10(1) __ Article 7(a) and Article 10(1) Article 7(g) and Article 10(1) Article 8(1) Article 8(1) Article 8(2) Article 8(1) __ Article 8(3)(a) and Article 10(3) Articles 9(1) and 10(2) Article 9(2)(a) and (b) and Article 10(2) Article 9(2)(c) and Article 10(2) Article 9(3)(a) and Article 10(2) Article 9(3)(b) and Article 10(2) __ __ __ __ __ __ __ Annex I, Part 2 Annex I, Part 2 Annex I, Part 1, point (1) Annex I, Part 1, point (2) Annex II Annex III __ __ __ |
+
+( 1 ) Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food on animal origin (OJ L 139, 30.4.2004, p. 55).
+
+( 2 ) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (OJ L 84, 31.3.2016, p. 1).
+
+( 3 ) Commission Delegated Regulation (EU) 2026/131 of 20 January 2026 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for non-commercial movement of pet animals (OJ L, 2026/131, 27.3.2026, ELI: http://data.europa.eu/eli/reg_del/2026/131/oj).
+
+( 4 ) In accordance with the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and in particular Article 5(4) of the Protocol on Ireland/Northern Ireland in conjunction with Annex 2 to that Protocol, for the purposes of this Regulation, references to Member States include the United Kingdom in respect of Northern Ireland.
+
+( 5 ) Commission Implementing Regulation (EU) 2021/404 of 24 March 2021 laying down the lists of third countries, territories or zones thereof from which the entry into the Union of animals, germinal products and products of animal origin is permitted in accordance with Regulation (EU) 2016/429 of the European Parliament and of the Council (OJ L 114, 31.3.2021, p. 1).
+
+( 6 ) Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (OJ L 174, 3.6.2020, p. 379).
+
+( 7 ) Commission Implementing Regulation (EU) 2021/405 of 24 March 2021 laying down the lists of third countries or regions thereof authorised for the entry into the Union of certain animals and goods intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council (OJ L 114, 31.3.2021, p. 118).
+
+( 8 ) Commission Implementing Regulation (EU) 2020/2235 of 16 December 2020 laying down rules for the application of Regulations (EU) 2016/429 and (EU) 2017/625 of the European Parliament and of the Council as regards model animal health certificates, model official certificates and model animal health/official certificates, for the entry into the Union and movements within the Union of consignments of certain categories of animals and goods, official certification regarding such certificates and repealing Regulation (EC) No 599/2004, Implementing Regulations (EU) No 636/2014 and (EU) 2019/628, Directive 98/68/EC and Decisions 2000/572/EC, 2003/779/EC and 2007/240/EC (OJ L 442, 30.12.2020, p. 1).
+
+( 9 ) Commission Delegated Regulation (EU) 2020/692 of 30 January 2020 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin (OJ L 174, 3.6.2020, p. 379).
+
+( 10 ) Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) (OJ L 300, 14.11.2009, p. 1).
+
+( 11 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 12 ) In accordance with the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, and in particular Article 5(4) of the Protocol on Ireland/Northern Ireland in conjunction with Annex 2 to that Protocol, references to European Union in this Annex include the United Kingdom in respect of Northern Ireland.

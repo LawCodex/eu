@@ -1,0 +1,405 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/1192 of 11 July 2022 establishing measures to eradicate and prevent the spread of Globodera pallida (Stone) Behrens and Globodera rostochiensis (Wollenweber) Behrens"
+identifier: "32022R1192"
+eli: "http://data.europa.eu/eli/reg_impl/2022/1192/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-07-11
+entry_into_force: 2022-09-26
+last_amended: 2024-08-20
+consolidated_version: "02022R1192-20240820"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1192-20240820"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/1192 of 11 July 2022 establishing measures to eradicate and prevent the spread of Globodera pallida (Stone) Behrens and Globodera rostochiensis (Wollenweber) Behrens
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1192**
+
+**of 11 July 2022**
+
+**establishing measures to eradicate and prevent the spread of Globodera pallida (Stone) Behrens and Globodera rostochiensis (Wollenweber) Behrens**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2060 of 30 July 2024 </td><td> L 2060</td><td>1</td><td>31.7.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1192**
+
+**of 11 July 2022**
+
+**establishing measures to eradicate and prevent the spread of Globodera pallida (Stone) Behrens and Globodera rostochiensis (Wollenweber) Behrens**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1 — Subject matter
+
+This Regulation sets out measures for the purpose of eradicating Globodera pallida (Stone) Behrens and Globodera rostochiensis (Wollenweber) Behrens, and preventing their spread within the Union territory.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘specified pest’ means a specimen belonging to the species Globodera pallida (Stone) Behrens or the species Globodera rostochiensis (Wollenweber) Behrens;
+
+(2) ‘resistant potato variety’ means a variety that, when grown, significantly inhibits the development of a particular population of the specified pests;
+
+(3) ‘specified plants’ means:
+
+(a) plants of Solanum tuberosum L. (potato) other than seeds; or
+
+(b) the plants listed in Annex I;
+
+(4) ‘detection survey’ means a methodical procedure for determining the presence of the specified pests in a specific area;
+
+(5) ‘monitoring survey’ means a methodical procedure carried out over a defined period of time to determine the distribution of the specified pests in a specific Member State, or a certain part of it.
+
+## CHAPTER II — OFFICIAL DETECTION SURVEYS
+
+### Article 3 — Official detection surveys
+
+1\. Competent authorities shall carry out an official detection survey for the presence of the specified pest on the production sites, in which the plants listed in Annex I, intended for replanting, or potatoes intended for the production of potato tubers for planting, are to be planted or stored under conditions, where the roots or other parts of the plant are in direct contact with the soil of the production site.
+
+2\. The official detection surveys shall be carried out in the period between the harvesting of the latest crop and the planting of the plants or potato tubers for planting referred to in paragraph 1.
+
+By way of derogation from the first subparagraph, the official detection survey may be carried out:
+
+(a) earlier than that period, on the condition that the competent authority keeps available a record about the documentary evidence of the results of that official detection survey, confirming that the specified pests have not been found, and that potatoes and other host plants listed in point 1 of Annex I were not present at the time of the detection survey and have not been grown since the conduct of that survey; or
+
+(b) during a period when crops which are not harvested, such as green manure or catch crops, are grown on the production site concerned.
+
+3\. An official detection survey shall not be required for:
+
+(a) the planting of plants listed in Annex I, intended for replanting within the same place of production situated within an area defined by the competent authorities;
+
+(b) the planting of potatoes, intended for the production of potato tubers for planting to be used within the same place of production situated within an area defined by the competent authorities;
+
+(c) the planting of plants listed in points 2 and 3 of Annex I, intended for replanting where the harvested plants are to be subject to the officially approved measures referred to in point 1 of Annex II.
+
+4\. Member States shall officially record the results of the official detection surveys and make them accessible to the Commission, on request, in accordance with the template set out in Annex IV.
+
+### Article 4 — Sampling and testing for official detection surveys
+
+1\. In the case of production sites in which potato tubers intended for planting, or plants listed in point 1 of Annex I intended for the production of plants for planting, are to be planted or stored, the official detection survey shall involve sampling and testing for the presence of the specified pest, carried out in accordance with Annex III.
+
+2\. In the case of production sites in which plants listed in points 2 and 3 of Annex I, intended for the production of plants for planting, are to be planted or stored, the official detection survey shall involve sampling and testing for the specified pest, carried out in accordance with Annex III.
+
+3\. By way of derogation from paragraph 2, no sampling and testing for the specified pest shall be required if a production site has:
+
+(a) no history of the presence of the specified pest during the past 12 years, based on the results of appropriate officially approved testing; or
+
+(b) a known cropping history in which no potatoes or other host plants listed in point 1 of Annex I have been grown in the past 12 years.
+
+### Article 5 — Designation of infested production sites and infested specified plants
+
+1\. When the specified pests have been found present in a production site during an official detection survey or an official monitoring survey, as referred to in Article 6, and that presence has been officially confirmed by the tests referred to in Article 4 and Article 7(2), the competent authorities shall designate the site as infested.
+
+Fields officially recorded by the competent authorities as infested, in accordance with Article 8(1) or 8(2) of Directive 2007/33/EC, before 1 January 2022, shall be deemed to be designated as infested production sites.
+
+2\. Specified plants originating from a production site designated as infested pursuant to paragraph 1, or those, which have been in contact with soil, in which the specified pests have been found, shall be designated as infested.
+
+## CHAPTER III — OFFICIAL MONITORING SURVEYS
+
+### Article 6 — Official monitoring surveys
+
+1\. Annual risk-based official monitoring surveys shall be carried out on production sites used for the production of potatoes, other than those intended for the production of potato tubers intended for planting, in order to determine the distribution of the specified pests on those sites.
+
+2\. Member States shall report to the Commission and the other Member States, by 30 April of each year, the results of the monitoring surveys referred to in paragraph 1 which were carried out in the preceding year in accordance with the template set out in Annex IV.
+
+### Article 7 — Sampling and testing for official monitoring surveys
+
+1\. The official monitoring surveys shall be carried out on at least 0,5 % of the acreage used in the relevant year for the production of potatoes, other than potatoes intended for the production of potato tubers for planting.
+
+2\. Those official monitoring surveys shall involve sampling and testing for the presence of specified pests, in accordance with point 2 of Annex III.
+
+3\. Where Member States use the sample size referred to in point 6 of Annex III, they shall notify the details of the areas, where that sample size has been used, to the Commission and the other Member States.
+
+## CHAPTER IV — MEASURES
+
+### Article 8 — Eradication measures
+
+1\. In a production site which has been officially designated as infested pursuant to Article 5(1), the competent authorities, or the professional operators under the official supervision of the competent authorities, shall apply, for the purpose of eradicating the specified pests, all of the following measures:
+
+(a) no potatoes intended for the production of potato tubers for planting shall be planted;
+
+(b) no plants listed in Annex I and intended for the production of plants for planting shall be planted or stored, with the exception of specified plants listed in points 2 or 3 of Annex I, provided that these plants, after their harvest, are to be subject to the officially approved measures referred to in point 1 of Annex II, so that there is no identifiable risk of spreading the specified pest; and
+
+(c) machinery shall be cleaned from soil and plant debris before or immediately after being moved out of that production site and before entering any production site located outside, which has not been designated as infested pursuant to Article 5(1).
+
+2\. If production sites to be used for production of potatoes other than those intended for the production of potato tubers for planting are officially designated as infested pursuant to Article 5(1), those production sites shall be subject to an official control programme aiming to ensure that the specified pests are not spread out of those production sites.
+
+The official control programme referred to in the first subparagraph shall take into account, as applicable, all of the following elements:
+
+(a) the particular production and marketing systems for host plants of the specified pests in the relevant Member State;
+
+(b) the characteristics of the population of the present specified pests;
+
+(c) the use of resistant potato varieties of the highest levels of resistance available (resistance score 8 or 9, as specified in point 1 of Annex V, where available);
+
+(d) other agronomic options for pest suppression, as mentioned in point 1 of Annex III to Directive 2009/128/EC; and
+
+(e) the measures described in Article 12(1), point (b).
+
+Member States shall notify the official control programme to the Commission and the other Member States.
+
+3\. The degree of resistance of potato varieties shall be quantified in accordance with the standard scoring notation table set out in point 1 of Annex V.
+
+Testing for resistance shall be carried out in accordance with the protocol set out in point 2 of Annex V.
+
+### Article 9 — Measures on infested plants
+
+1\. The competent authorities, or the professional operators under the official supervision of the competent authorities, shall apply, for the purpose of eradicating the specified pests, all of the following measures on specified plants, which have been designated as infested pursuant to Article 5:
+
+(a) potatoes intended for the production of potato tubers shall not be planted;
+
+(b) potatoes intended for industrial processing or grading shall be subject to officially approved measures in accordance with point 2 of Annex II; and
+
+(c) plants listed in points 2 or 3 of Annex I shall not be planted unless they have been subject to the officially approved measures as referred to in point 1 of Annex II, so that they are no longer infested.
+
+2\. The measures taken under paragraph 1, point (b), shall take into consideration the particular production and marketing systems for host plants of the specified pest in the Member State concerned and the characteristics of the population of the specified pest.
+
+## CHAPTER V — NOTIFICATIONS OF SPECIFIED PESTS AND VARIETIES AND REVOCATION OF MEASURES
+
+### Article 10 — Notification of the confirmed presence of the specified pest on a resistant potato variety
+
+1\. Professional operators, and any other person, that become aware of any symptoms of the specified pest, resulting from a breakdown or a change in the effectiveness of a resistant potato variety which relates to an exceptional change in the composition of nematode species, pathotype or virulence group, shall notify the competent authorities thereof.
+
+2\. In all cases reported pursuant to paragraph 1, as well as when they become aware of such cases, the competent authorities shall investigate the potato cyst nematode species and, where applicable, the pathotype or virulence group involved, and confirm their presence by appropriate methods.
+
+3\. By 31 January of each year, Member States shall notify to the Commission and to the other Member States the details of the confirmations made pursuant to paragraph 2 as regards the preceding year.
+
+### Article 11 — Notification of resistant varieties to the specified pests
+
+Member States shall notify to the Commission and the other Member States, by 31 January of each year, a list of all new varieties of potatoes which they have authorised for marketing during the preceding year, and which they have found, by official tests as referred to in Annex V, to be resistant to the specified pests. They shall indicate the varieties together with the species, pathotypes, virulence groups or populations of the specified pests to which they are resistant, as well as the relative susceptibility.
+
+### Article 12 — Official re-sampling and testing with a view to revoke the measures in an infested production site
+
+1\. The competent authorities may carry out re-sampling of an infested production site designated pursuant to Article 5(1), and testing, in accordance with one of the following methods:
+
+(a) official re-sampling of the production site, and testing, using one of the methods specified in Annex III, after a minimum period of six years counting from the positive confirmation of the specified pest, or counting from the growing of the last potato crop; or
+
+(b) official re-sampling of the production site, and testing, using one of the methods specified in Annex III, after a water inundation in accordance with the following conditions:
+
+(i) the inundation shall take place during an uninterrupted period of 12 weeks with a soil temperature of at least 16 °C at a depth of 15 cm and a water layer of at least 5 cm above the ground;
+
+(ii) runoff from the inundation area due to terrain elevation shall be excluded;
+
+(iii) inundation is not allowed on sites of production, which are under official control due to the presence of Synchytrium endobioticum;
+
+(iv) if the inundation is carried out in the open field or if surface water is used from a source for which contamination with Ralstonia solanacearum cannot be excluded, no plants of Solanum tuberosum or Solanum lycopersicum shall be planted in the treated production site at least during the growing season following the inundation.
+
+The period provided for in paragraph 1, point (a), may be reduced to a minimum of three years, if effective and officially approved control measures have been implemented.
+
+2\. If the presence of the specified pests is not confirmed, following the official re-sampling and testing referred to in paragraph 1, the competent authorities shall update the official record referred to in Article 3(4) and in Article 5(1) and immediately revoke any restrictions imposed on the respective production site.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+### Article 14 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — List of specified plants referred to in Article 2, point (3)(b)
+
+1\. Host plants with roots:
+
+Solanum lycopersicum L.
+
+Solanum melongena L.
+
+2\. Other plants with roots:
+
+Allium porrum L.
+
+Asparagus officinalis L.
+
+Beta vulgaris L.
+
+Brassica spp.
+
+Capsicum spp.
+
+Fragaria L.
+
+3\. Bulbs, tubers and rhizomes, not subjected to the officially approved measures as referred to in point 1(a) of Annex II, grown in soil and intended for replanting, other than those for which there is evidence, in form of their packaging or other, that they are intended for sale to final users not involved in professional plant or cut flower production, of:
+
+Allium ascalonicum L.
+
+Allium cepa L.
+
+Dahlia spp.
+
+Gladiolus Tourn. Ex L.
+
+Hyacinthus spp.
+
+Iris spp.
+
+Lilium spp.
+
+Narcissus L.
+
+Tulipa L.
+
+## ANNEX II — Official measures as referred to in Article 3(3), point (c), Article 9, first paragraph, points (b) and (c), and point 3 of Annex I
+
+1\. The officially approved measures referred to in Article 3(3), point (c), Article 9, first paragraph, point (c), and in point 3 of Annex I are the following:
+
+(a) disinfestation by appropriate methods, such that there is no identifiable risk of spreading the specified pest; or
+
+(b) removal of soil by washing or brushing until practically free of soil, such that there is no identifiable risk of spreading the specified pest and disposal of waste soil according to a procedure for which it has been established that there is no risk of spreading the specified pest.
+
+2\. The officially approved measures referred to in Article 9, first paragraph, point (b) are delivery to a processing or grading plant with appropriate and officially approved waste disposal procedures, including for waste soil, for which it has been established that there is no risk of spreading the specified pest.
+
+## ANNEX III — Sampling and testing as referred to in Articles 4 and 7
+
+1\. Sampling and testing for the official detection surveys, as referred to in Article 4(1) and (2), is carried out as follows:
+
+Sampling involving a soil sample with a standard rate of at least 1 500 ml soil/ha collected from at least 100 cores/ha, preferably in a rectangular grid of not less than 5 m in width and not more than 20 m in length between sampling points covering the entire production site. The whole sample is used for further examination, i.e. extraction of cysts, species identification and, if applicable, pathotype/virulence group determination.
+
+Testing applying the following methods for the extraction of the specified pest, which are described in the relevant validated and internationally recognised diagnostic protocols:
+
+(a) with regard to extraction, methods based on the Fenwick can, Schuiling centrifuge, Seinhorst elutriator or Kort elutriator;
+
+(b) with regard to detection and identification, one of the following:
+
+(i) isolation of Globodera cysts from the debris based on cyst morphology, followed by species identification based on morphology of individual cysts and juveniles, combined with the conventional PCR test based on Bulman & Marshall, 1997 ( 1 ) (in case of doubt about the presence of G. tabacum, the conventional PCR test based on Skantar et al., 2007 ( 2 ) may be performed additionally);
+
+(ii) isolation of Globodera cysts from the debris based on cyst morphology, followed by species identification based on morphology of individual cysts and juveniles, combined with real-time PCR based on Gamel et al., 2017 or real-time PCR based on Lombard et al. 2024 ( 3 );
+
+(iii) isolation of nematode cysts from the debris, followed by species detection with real-time PCR based on Gamel et al., 2017 (3) ;
+
+(iv) isolation of nematode cysts from the debris based on cyst morphology, followed by species detection and identification based on real-time PCR of viable cysts and living juveniles based on Lombard et al. 2024.
+
+2\. Sampling for the official monitoring survey, as referred to in Article 7, is carried out in accordance with one of the following:
+
+(a) the sampling referred to in point 1, with a minimum sampling rate of soil of at least 400 ml/ha;
+
+(b) targeted sampling of at least 400 ml of soil after visual examination of roots where there are visual symptoms; or
+
+(c) sampling of at least 400 ml of soil associated with the potatoes after harvesting provided that the production site where the potatoes were grown is traceable.
+
+Testing for the official monitoring survey, as referred to in Article 7, is carried out in accordance with point 1.
+
+3\. By way of derogation from point 1, the standard sampling rate may be reduced to a minimum of 400 ml of soil/ha in each of the following cases:
+
+(a) there is documentary evidence that no potatoes or plants listed in point 1 of Annex I have been grown and were present in the production site in the six years prior to the official detection survey;
+
+(b) no specimen of the specified pest has been found during the last two successive official detection surveys in samples of 1 500 ml soil/ha and no potatoes or plants listed in point 1 of Annex I, other than those for which an official detection survey is required in accordance with Article 4(1), have been grown after the first official detection survey had been carried out;
+
+(c) no specimen of the specified pest or cysts of the specified pest without live content have been found in the last official detection survey, which must have consisted of a sample size of at least 1 500 ml soil/ha and no potatoes or plants listed in point 1 of Annex I, other than those for which an official detection survey is required in accordance with Article 4(1), have been grown in the production site since the last official detection survey had been carried out.
+
+4\. Sampling rate may be reduced for fields larger than 8 ha and 4 ha, respectively, in each of the following cases:
+
+(a) in the case of the standard rate referred to in point 1, the first 8 ha shall be sampled at the rate specified therein, but may be reduced for each additional hectare to a minimum of 400 ml of soil/ha;
+
+(b) in the case of the reduced rate referred to in point 3, the first 4 ha shall be sampled at the rate specified therein, but may be further reduced for each additional hectare to a minimum of 200 ml of soil/ha.
+
+5\. The use of the reduced sample size, as referred to in points 3 and 4, may be continued in the subsequent official detection survey referred to in Article 3(1), as long as the specified pests have not been found in the production site concerned.
+
+6\. The standard size of the soil sample may be reduced to a minimum of 200 ml of soil/ha, provided that the production site is situated in an area declared free from the specified pest, and designated, maintained and surveyed in accordance with the relevant International Standards for Phytosanitary Measures (ISPM No 4) ( 4 ).
+
+7\. The minimum size of the soil sample in all cases is 200 ml of soil per production site.
+
+## ANNEX IV — Survey template as referred to in Articles 3 and 6
+
+Template for presenting results of potato cyst nematode surveys carried out during the calendar year preceding the year of reporting.
+
+Please use this table only for the survey results for potatoes harvested in your country.
+
+<table>
+<tbody><tr><td rowspan="2">Member State</td><td rowspan="2">Type of survey</td><td rowspan="2">Category</td><td rowspan="2">Cropping area (ha) (1)</td><td rowspan="2">Area surveyed (ha)</td><td rowspan="2">Applied sampling rate following points 1-7 to Annex III to Implementing Regulation (EU) 2022/1192 (2)</td><td colspan="3">Infested area following laboratory testing (ha)</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Only G. p.(3)</td><td>Only G. r.(4)</td><td>G. p. and G. r. present together in the same production site</td><td>Initial size of the infested area (5) (ha)</td><td>Updated size of the infested area (6) (ha)</td><td>Notification numbers of the new outbreaks notified, as applicable, in accordance with implementing Regulation (EU) 2019/1715</td><td>Additional information</td></tr>
+<tr><td rowspan="2">  </td><td>Detection (Article 3 of Implementing Regulation (EU) 2022/1192)</td><td>— Potato tubers for the production of tubers for planting (7); and — Other host plants, as listed in Annex I to Implementing Regulation (EU) 2022/1192 (8) </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Monitoring (Article 6 of Implementing Regulation (EU) 2022/1192)</td><td>Potatoes other than those for planting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="13">(1)  Only relevant in case of monitoring surveys.  (2)  Sampling rate in the meaning of Annex III to Implementing Regulation (EU) 2022/1192 (mostly determined by the sample volume); use an individual row for each sampling rate, respectively.  (3)  Globodera pallida.  (4)  Globodera rostochiensis.  (5)  Total size of the infested area in the year preceding the year covered by the report.  (6)  Total size of the infested area in the year covered by the report.  (7)  No detection survey is required for the planting of potatoes intended for the production of potato tubers to be used within the same place of production situated within an area defined by the competent authorities.  (8)  No detection survey is required for the planting of plants of Annex I intended for replanting within the same place of production situated within an area defined by the competent authorities and for plants listed in points 2 and 3 of Annex I, intended for replanting, where the harvested plants are to be subject to officially approved measures referred to in point 1 of Annex II. </td></tr>
+</tbody>
+</table>
+
+## ANNEX V
+
+**Quantification of the degree of resistance of potato varieties and protocol for resistant testing, as referred to in Article 8(3)**
+
+1\. Degree of resistance
+
+The relative susceptibility of a given potato variety is attributed in accordance with the scores indicated in the table and the formula set out in point 2.16. Score 9 corresponds to the highest level of resistance.
+
+**Standard scoring notation in relation to relative susceptibility of potato varieties for the specified pests**
+
+| Relative susceptibility (%) (RS) | Score |
+| --- | --- |
+| ≤ 1 | 9 |
+| 1 < RS ≤ 3 | 8 |
+| 3 < RS ≤ 5 | 7 |
+| 5 < RS ≤ 10 | 6 |
+| 10 < RS ≤ 15 | 5 |
+| 15 < RS ≤ 25 | 4 |
+| 25 < RS ≤ 50 | 3 |
+| 50 < RS ≤ 100 | 2 |
+| > 100 | 1 |
+
+2\. Protocol for resistance testing
+
+2.1. The test shall be performed in a quarantine facility, either in open space, glasshouses or climate chambers.
+
+2.2. The test shall be performed in pots each containing at least one litre of soil or other suitable substrate.
+
+2.3. The soil temperature in the test containers throughout the duration of the test shall not exceed 25 °C and adequate watering shall be provided.
+
+2.4. When planting the test or control variety one potato eye plug of each test or control variety shall be used.
+
+2.5. The potato variety ‘Désirée’ shall be used as a standard susceptible control variety in every test. Additional fully susceptible control varieties of local relevance may be added as internal controls.
+
+2.6. The following standard populations of the specified pest shall be used in resistance tests against Globodera rostochiensis pathotypes Ro1, Ro5 and Globodera pallida pathotypes Pa1 and Pa3:
+
+Ro1: population Ecosse
+
+Ro5: population Harmerz
+
+Pa1: population Scottish
+
+Pa3: population Chavornay
+
+Other populations of local relevance may be added. For these populations, records of how their pathotype was determined shall be available. New virulent populations may be added, taking into account where such populations may not yet be stable and pathotypes not yet established.
+
+2.7. The identity of the standard population used shall be checked using appropriate methods. It is recommended that at least two resistant varieties or two differential standard clones of known resistance capacity are used in the test experiments.
+
+2.8. The inoculum of specified pest (Pi) shall consist in total of five infective eggs and juveniles per ml of soil. The specified pest may be inoculated as cysts, or combined as eggs and juveniles in a suspension.
+
+2.9. The viability of the content of cysts of the specified pest used as the inoculum source shall be at least 70 %. It is recommended that the cysts are 6 to 24 months old and are kept for at least four months at 4 °C immediately prior to use.
+
+2.10. There shall be at least four replicates (pots) per combination of population of the specified pest and potato variety tested.
+
+2.11. The duration of the test shall be at least three months and the maturity of developing females shall be checked before completing the experiment.
+
+2.12. Cysts of the specified pest from the four replicates shall be extracted and counted separately for each pot.
+
+2.13. The final population (Pf) on the standard susceptible control variety at the end of the resistance test shall be determined by counting all cysts from all replicates and the eggs and juveniles from at least four replicates.
+
+2.14. A multiplication rate of at least 20 × (Pf/Pi) on the standard susceptible control variety shall be achieved.
+
+2.15. The coefficient of variation (CV) on the standard susceptible control variety shall not exceed 35 %. Other statistical tests may be applied at a later stage if there is evidence that those tests will increase the precision of the test results.
+
+2.16. The relative susceptibility of the tested potato variety to the standard susceptible control variety shall be determined and expressed as a percentage according to the formula:
+
+Pftest variety/Pfstandard susceptible control variety × 100 %.
+
+2.17. If a tested potato variety has a relative susceptibility of 3 % or more, cyst counts will suffice. In cases where the relative susceptibility is less than 3 %, eggs and juveniles shall be counted in addition to cyst counts.
+
+2.18. Where the results of tests in the first year indicate that a variety is fully susceptible to a pathotype (when the score is &lt; 3), there is no requirement to repeat these tests in the second year.
+
+2.19. If the tested variety is not fully susceptible to a pathotype (when the score is ≥ 3), the results of the tests shall be confirmed by at least one other trial performed in another year. The arithmetic mean of the relative susceptibility in the two years shall be used to derive the score in accordance with the table set out in point 1.
+
+( 1 ) Bulman, S.R. & Marshall, J.W. (1997). Differentiation of Australasian potato cyst nematode (PCN) populations using the Polymerase Chain Reaction (PCR). New Zealand Journal of Crop and Horticultural Science 25, pp. 123–129.
+
+( 2 ) Skantar, A.M., Handoo, Z.A., Carta, L.K., Chitwood, D.J. (2007). Morphological and molecular identification of Globodera pallida associated with Potato in Idaho. Journal of Nematology 39(2), pp. 133–144.
+
+( 3 ) Lombard L, Dekker-Nooren CCEM, Wuijster B, van Kessel, SP, van Duivenbode I, van Bruggen AS, van Heese EYJ (2024) Comparing the effectiveness of real time PCRs to simultaneously detect and identify viable Globodera pallida and G. rostochiensis. Eur J Plant Pathol, https://doi.org/10.1007/s10658-024-02864-7
+
+( 4 ) ISPM 4. 1995.Requirements for the establishment of pest free areas. Rome, IPPC, FAO. https://www.ippc.int/en/publications/614/

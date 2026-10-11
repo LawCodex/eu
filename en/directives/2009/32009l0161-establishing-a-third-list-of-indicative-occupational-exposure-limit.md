@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2017/164 of 31 January 2017 </td><td> L 27</td><td>115</td><td>1.2.2017</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2009/161/EU**
 
@@ -68,6 +70,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX
 
+<table>
 <tbody><tr><td rowspan="3">CAS (1)</td><td rowspan="3">NAME OF AGENT</td><td colspan="4">LIMIT VALUES</td><td>Notation (2)</td></tr>
 <tr><td colspan="2">8 hours (3)</td><td colspan="2">Short term (4)</td><td>  </td></tr>
 <tr><td>mg/m3(5)</td><td>ppm (6)</td><td>mg/m3</td><td>ppm</td><td>  </td></tr>
@@ -93,3 +96,4 @@ This Directive is addressed to the Member States.
 <tr><td>7783-06-4</td><td>Hydrogen sulphide</td><td>7 </td><td>5 </td><td>14 </td><td>10 </td><td>—</td></tr>
 <tr><td colspan="7">(1)  CAS: Chemical Abstract Service Registry Number.  (2)  A skin notation assigned to the occupational exposure limit value indicates the possibility of significant uptake through the skin.  (3)  Measured or calculated in relation to a reference period of 8 hours time-weighted average (TWA).  (4)  Short-term exposure limit (STEL). A limit value above which exposure should not occur and which is related to a 15-minute period unless otherwise specified.  (5)  mg/m3: milligrams per cubic metre of air at 20 °C and 101,3 KPa.  (6)  ppm: parts per million by volume in air (ml/m3).  (7)  During exposure monitoring for mercury and its divalent inorganic compounds, account should be taken of relevant biological monitoring techniques that complement the IOELV.  (8)  When selecting an appropriate exposure monitoring method, account should be taken of potential limitations and interferences that may arise in the presence of other sulphur compounds.  (9)  The mist is defined as the thoracic fraction. </td></tr>
 </tbody>
+</table>

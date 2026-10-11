@@ -1,0 +1,597 @@
+---
+title: "Council Regulation (EU) 2016/1104 of 24 June 2016 implementing enhanced cooperation in the area of jurisdiction, applicable law and the recognition and enforcement of decisions in matters of the property consequences of registered partnerships"
+identifier: "32016R1104"
+eli: "http://data.europa.eu/eli/reg/2016/1104/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2016-06-24
+entry_into_force: 2016-07-28
+last_amended: 2016-07-08
+consolidated_version: "02016R1104-20160708"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1104-20160708"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2016/1104 of 24 June 2016 implementing enhanced cooperation in the area of jurisdiction, applicable law and the recognition and enforcement of decisions in matters of the property consequences of registered partnerships
+
+**COUNCIL REGULATION (EU) 2016/1104**
+
+**of 24 June 2016**
+
+**implementing enhanced cooperation in the area of jurisdiction, applicable law and the recognition and enforcement of decisions in matters of the property consequences of registered partnerships**
+
+**COUNCIL REGULATION (EU) 2016/1104**
+
+**of 24 June 2016**
+
+**implementing enhanced cooperation in the area of jurisdiction, applicable law and the recognition and enforcement of decisions in matters of the property consequences of registered partnerships**
+
+## CHAPTER I — SCOPE AND DEFINITIONS
+
+### Article 1 — Scope
+
+1\. This Regulation shall apply to matters of the property consequences of registered partnerships.
+
+It shall not apply to revenue, customs or administrative matters.
+
+2\. The following shall be excluded from the scope of this Regulation:
+
+(a) the legal capacity of partners,
+
+(b) the existence, validity or recognition of a registered partnership,
+
+(c) maintenance obligations,
+
+(d) the succession to the estate of a deceased partner,
+
+(e) social security,
+
+(f) the entitlement to transfer or adjustment between partners, in the case of dissolution or annulment of the registered partnership, of rights to retirement or disability pension accrued during the registered partnership and which have not generated pension income during the registered partnership,
+
+(g) the nature of rights in rem relating to a property, and
+
+(h) any recording in a register of rights in immoveable or moveable property, including the legal requirements for such recording, and the effects of recording or failing to record such rights in a register.
+
+### Article 2 — Competence in matters of property consequences of registered partnerships within the Member States
+
+This Regulation shall not affect the competence of the authorities of the Member States to deal with matters of property consequences of registered partnerships.
+
+### Article 3 — Definitions
+
+1\. For the purposes of this Regulation:
+
+(a) ‘registered partnership’ means the regime governing the shared life of two people which is provided for in law, the registration of which is mandatory under that law and which fulfils the legal formalities required by that law for its creation;
+
+(b) ‘property consequences of a registered partnership’ means the set of rules concerning the property relationships of the partners, between themselves and in their relations with third parties, as a result of the legal relationship created by the registration of the partnership or its dissolution;
+
+(c) ‘partnership property agreement’ means any agreement between partners or future partners by which they organise the property consequences of their registered partnership;
+
+(d) ‘authentic instrument’ means a document in a matter of the property consequences of a registered partnership which has been formally drawn up or registered as an authentic instrument in a Member State and the authenticity of which:
+
+(i) relates to the signature and the content of the authentic instrument, and
+
+(ii) has been established by a public authority or other authority empowered for that purpose by the Member State of origin;
+
+(e) ‘decision’ means any decision in a matter of the property consequences of a registered partnership given by a court of a Member State, whatever the decision may be called, including a decision on the determination of costs or expenses by an officer of the court;
+
+(f) ‘court settlement’ means a settlement in a matter of the property consequences of a registered partnership which has been approved by a court, or concluded before a court in the course of proceedings;
+
+(g) ‘Member State of origin’ means the Member State in which the decision has been given, the authentic instrument drawn up, or the court settlement approved or concluded;
+
+(h) ‘Member State of enforcement’ means the Member State in which recognition and/or enforcement of the decision, the authentic instrument, or the court settlement is requested.
+
+2\. For the purposes of this Regulation, the term ‘court’ means any judicial authority and all other authorities and legal professionals with competence in matters of property consequences of registered partnerships which exercise judicial functions or act by delegation of power by a judicial authority or under its control, provided that such other authorities and legal professionals offer guarantees with regard to impartiality and the right of all parties to be heard, and provided that their decisions under the law of the Member State in which they operate:
+
+(a) may be made the subject of an appeal to or review by a judicial authority; and
+
+(b) have a similar force and effect as a decision of a judicial authority on the same matter.
+
+The Member States shall notify the Commission of the other authorities and legal professionals referred to in the first subparagraph in accordance with Article 64.
+
+## CHAPTER II — JURISDICTION
+
+### Article 4 — Jurisdiction in the event of the death of one of the partners
+
+Where a court of a Member State is seised in matters of the succession of a registered partner under Regulation (EU) No 650/2012, the courts of that State shall have jurisdiction to rule on matters of the property consequences of the registered partnership arising in connection with that succession case.
+
+### Article 5 — Jurisdiction in cases of dissolution or annulment
+
+1\. Where a court of a Member State is seised to rule on the dissolution or annulment of a registered partnership, the courts of that State shall have jurisdiction to rule on the property consequences of the registered partnership arising in connection with that case of dissolution or annulment, where the partners so agree.
+
+2\. If the agreement referred to in paragraph 1 of this Article is concluded before the court is seised to rule on matters of the property consequences of the registered partnership, the agreement shall comply with Article 7.
+
+### Article 6 — Jurisdiction in other cases
+
+Where no court of a Member State has jurisdiction pursuant to Article 4 or 5 or in cases other than those provided for in those Articles, jurisdiction to rule on the property consequences of a registered partnership shall lie with the courts of the Member State:
+
+(a) in whose territory the partners are habitually resident at the time the court is seised, or failing that,
+
+(b) in whose territory the partners were last habitually resident, insofar as one of them still resides there at the time the court is seised, or failing that,
+
+(c) in whose territory the respondent is habitually resident at the time the court is seised, or failing that,
+
+(d) of the partners' common nationality at the time the court is seised, or failing that,
+
+(e) under whose law the registered partnership was created.
+
+### Article 7 — Choice of court
+
+1\. In cases which are covered by Article 6, the parties may agree that the courts of the Member State whose law is applicable pursuant to Article 22 or Article 26(1) or the courts of the Member State under whose law the registered partnership was created shall have exclusive jurisdiction to rule on the property consequences of their registered partnership.
+
+2\. The agreement referred to in paragraph 1 shall be expressed in writing and dated and signed by the parties. Any communication by electronic means which provides a durable record of the agreement shall be deemed equivalent to writing.
+
+### Article 8 — Jurisdiction based on the appearance of the defendant
+
+1\. Apart from jurisdiction derived from other provisions of this Regulation, a court of a Member State whose law is applicable pursuant to Article 22 or Article 26(1), and before which a defendant enters an appearance shall have jurisdiction. This rule shall not apply where appearance was entered to contest the jurisdiction, or in cases covered by Article 4.
+
+2\. Before assuming jurisdiction pursuant to paragraph 1, the court shall ensure that the defendant is informed of his right to contest the jurisdiction and of the consequences of entering or not entering an appearance.
+
+### Article 9 — Alternative jurisdiction
+
+1\. If a court of the Member State that has jurisdiction pursuant to Article 4, 5, or point (a), (b), (c) or (d) of Article 6 holds that its law does not provide for the institution of registered partnership, it may decline jurisdiction. If the court decides to decline, it shall do so without undue delay.
+
+2\. Where a court referred to in paragraph 1 of this Article declines jurisdiction and where the parties agree to confer jurisdiction to the courts of any other Member State in accordance with Article 7, jurisdiction to rule on the property consequences of the registered partnership shall lie with the courts of that Member State.
+
+In other cases, jurisdiction to rule on the property consequences of a registered partnership shall lie with the courts of any other Member State pursuant to Article 6 or 8.
+
+3\. This Article shall not apply when the parties have obtained a dissolution or annulment of a registered partnership which is capable of being recognised in the Member State of the forum.
+
+### Article 10 — Subsidiary jurisdiction
+
+Where no court of a Member State has jurisdiction pursuant to Articles 4, 5, 6, 7 or 8, or when all the courts pursuant to Article 9 have declined jurisdiction and no court of a Member State has jurisdiction pursuant to point (e) of Article 6, Article 7 or 8, the courts of a Member State shall have jurisdiction in so far as immoveable property of one or both partners are located in the territory of that Member State, but in that event the court seised shall have jurisdiction to rule only in respect of the immoveable property in question.
+
+### Article 11 — Forum necessitatis
+
+Where no court of a Member State has jurisdiction pursuant to Article 4, 5, 6, 7, 8, or 10 or when all of the courts pursuant to Article 9 have declined jurisdiction and no court of a Member State has jurisdiction pursuant to point (e) of Articles 6, or Article 7, 8 or 10, the courts of a Member State may, on an exceptional basis, rule on the property consequences of a registered partnership if proceedings cannot reasonably be brought or conducted or would be impossible in a third State with which the case is closely connected.
+
+The case must have a sufficient connection with the Member State of the court seised.
+
+### Article 12 — Counterclaims
+
+The court in which proceedings are pending pursuant to Article 4, 5, 6, 7, 8, 10 or 11 shall also have jurisdiction to rule on a counterclaim if it falls within the scope of this Regulation.
+
+### Article 13 — Limitation of proceedings
+
+1\. Where the estate of the deceased whose succession falls under Regulation (EU) No 650/2012 comprises assets located in a third State, the court seised to rule on the property consequences of a registered partnership may, at the request of one of the parties, decide not to rule on one or more of such assets if it may be expected that its decision in respect of those assets will not be recognised and, where applicable, declared enforceable in that third State.
+
+2\. Paragraph 1 shall not affect the right of the parties to limit the scope of the proceedings under the law of the Member State of the court seised.
+
+### Article 14 — Seising a court
+
+For the purpose of this Chapter, a court shall be deemed to be seised:
+
+(a) at the time when the document instituting the proceedings or an equivalent document is lodged with the court, provided that the applicant has not subsequently failed to take the steps he was required to take to have service effected on the defendant;
+
+(b) if the document has to be served before being lodged with the court, at the time when it is received by the authority responsible for service, provided that the applicant has not subsequently failed to take the steps he was required to take to have the document lodged with the court; or
+
+(c) if the proceedings are opened on the court's own motion, at the time when the decision to open the proceedings is taken by the court, or, where such a decision is not required, at the time when the case is registered by the court.
+
+### Article 15 — Examination as to jurisdiction
+
+Where a court of a Member State is seised of a matter concerning the property consequences of a registered partnership over which it has no jurisdiction under this Regulation, it shall declare of its own motion that it has no jurisdiction.
+
+### Article 16 — Examination as to admissibility
+
+1\. Where a defendant habitually resident in a State other than the Member State where the action was brought does not enter an appearance, the court having jurisdiction pursuant to this Regulation shall stay the proceedings so long as it is not shown that the defendant has been able to receive the document instituting the proceedings or an equivalent document in time to arrange for his defence, or that all necessary steps have been taken to this end.
+
+2\. Article 19 of Regulation (EC) No 1393/2007 of the European Parliament and of the Council ( 1 ) shall apply instead of paragraph 1 of this Article if the document instituting the proceedings or an equivalent document had to be transmitted from one Member State to another pursuant to that Regulation.
+
+3\. Where Regulation (EC) No 1393/2007 is not applicable, Article 15 of the Hague Convention of 15 November 1965 on the service abroad of judicial and extrajudicial documents in civil or commercial matters shall apply if the document instituting the proceedings or an equivalent document had to be transmitted abroad pursuant to that Convention.
+
+### Article 17 — Lis pendens
+
+1\. Where proceedings involving the same cause of action and between the same parties are brought before courts of different Member States, any court other than the court first seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established.
+
+2\. In the cases referred to in paragraph 1, upon request by a court seised of the dispute, any other court seised shall without delay inform the former court of the date when it was seised.
+
+3\. Where the jurisdiction of the court first seised is established, any court other than the court first seised shall decline jurisdiction in favour of that court.
+
+### Article 18 — Related actions
+
+1\. Where related actions are pending in the courts of different Member States, any court other than the court first seised may stay its proceedings.
+
+2\. Where the actions referred to in paragraph 1 are pending at first instance, any court other than the court first seised may also, on the application of one of the parties, decline jurisdiction if the court first seised has jurisdiction over the actions in question and its law permits the consolidation thereof.
+
+3\. For the purposes of this Article, actions are deemed to be related where they are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable decisions resulting from separate proceedings.
+
+### Article 19 — Provisional, including protective, measures
+
+Application may be made to the courts of a Member State for such provisional, including protective, measures as may be available under the law of that State, even if under this Regulation, the courts of another Member State have jurisdiction as to the substance of the matter.
+
+## CHAPTER III — APPLICABLE LAW
+
+### Article 20 — Universal application
+
+The law designated as applicable by this Regulation shall be applied whether or not it is the law of a Member State.
+
+### Article 21 — Unity of the applicable law
+
+The law applicable to the property consequences of a registered partnership shall apply to all assets that are subject to those consequences, regardless of where the assets are located.
+
+### Article 22 — Choice of the applicable law
+
+1\. The partners or future partners may agree to designate or to change the law applicable to the property consequences of their registered partnership, provided that that law attaches property consequences to the institution of the registered partnership and that that law is one of the following:
+
+(a) the law of the State where the partners or future partners, or one of them, is habitually resident at the time the agreement is concluded
+
+(b) the law of a State of nationality of either partner or future partner at the time the agreement is concluded, or
+
+(c) the law of the State under whose law the registered partnership was created.
+
+2\. Unless the partners agree otherwise, a change of the law applicable to the property consequences of their registered partnership made during the partnership shall have prospective effect only.
+
+3\. Any retroactive change of the applicable law under paragraph 2 shall not adversely affect the rights of third parties deriving from that law.
+
+### Article 23 — Formal validity of the agreement on a choice of applicable law
+
+1\. The agreement referred to in Article 22 shall be expressed in writing, dated and signed by both partners. Any communication by electronic means which provides a durable record of the agreement shall be deemed equivalent to writing.
+
+2\. If the law of the Member State in which both partners have their habitual residence at the time the agreement is concluded lays down additional formal requirements for partnership property agreements, those requirements shall apply.
+
+3\. If the partners are habitually resident in different Member States at the time the agreement is concluded and the laws of those States provide for different formal requirements for partnership property agreements, the agreement shall be formally valid if it satisfies the requirements of either of those laws.
+
+4\. If only one of the partners is habitually resident in a Member State at the time the agreement is concluded and that State lays down additional formal requirements for partnership property agreements, those requirements shall apply.
+
+### Article 24 — Consent and material validity
+
+1\. The existence and validity of an agreement on choice of law, or of any term thereof, shall be determined by the law which would govern it pursuant to Article 22 if the agreement or term were valid.
+
+2\. Nevertheless, a partner may, in order to establish that he did not consent, rely upon the law of the country in which he has his habitual residence at the time the court is seised if it appears from the circumstances that it would not be reasonable to determine the effect of his conduct in accordance with the law specified in paragraph 1.
+
+### Article 25 — Formal validity of a partnership property agreement
+
+1\. The partnership property agreement shall be expressed in writing, dated and signed by both partners. Any communication by electronic means which provides a durable record of the agreement shall be deemed equivalent to writing.
+
+2\. If the law of the Member State in which both partners have their habitual residence at the time the agreement is concluded lays down additional formal requirements for partnership property agreements, those requirements shall apply.
+
+If the partners are habitually resident in different Member States at the time the agreement is concluded and the laws of those States provide for different formal requirements for partnership property agreements, the agreement shall be formally valid if it satisfies the requirements of either of those laws.
+
+If only one of the partners is habitually resident in a Member State at the time the agreement is concluded and that State lays down additional formal requirements for partnership property agreements, those requirements shall apply.
+
+3\. If the law applicable to the property consequences of a registered partnership imposes additional formal requirements, those requirements shall apply
+
+### Article 26 — Applicable law in the absence of choice by the parties
+
+1\. In the absence of a choice-of-law agreement pursuant to Article 22, the law applicable to the property consequences of registered partnerships shall be the law of the State under whose law the registered partnership was created.
+
+2\. By way of exception and upon application by either partner, the judicial authority having jurisdiction to rule on matters of the property consequences of a registered partnership may decide that the law of a State other than the State whose law is applicable pursuant to paragraph 1 shall govern the property consequences of the registered partnership if the law of that other State attaches property consequences to the institution of the registered partnership and if the applicant demonstrates that:
+
+(a) the partners had their last common habitual residence in that other State for a significantly long period of time; and
+
+(b) both partners had relied on the law of that other State in arranging or planning their property relations.
+
+The law of that other State shall apply as from the creation of the registered partnership, unless one partner disagrees. In the latter case, the law of that other State shall have effect as from the establishment of the last common habitual residence in that other State.
+
+The application of the law of the other State shall not adversely affect the rights of third parties deriving from the law applicable pursuant to paragraph 1.
+
+This paragraph shall not apply when the partners have concluded a partnership property agreement before the establishment of their last common habitual residence in that other State.
+
+### Article 27 — Scope of the applicable law
+
+The law applicable to the property consequences of registered partnerships pursuant to this Regulation shall govern, inter alia:
+
+(a) the classification of property of either or both partners into different categories during and after the registered partnership,
+
+(b) the transfer of property from one category to the other one,
+
+(c) the responsibility of one partner for liabilities and debts of the other partner,
+
+(d) the powers, rights and obligations of either or both partners with regard to property,
+
+(e) the partition, distribution or liquidation of the property upon dissolution of the registered partnership,
+
+(f) the effects of the property consequences of registered partnerships on a legal relationship between a partner and third parties, and
+
+(g) the material validity of a partnership property agreement.
+
+### Article 28 — Effects in respect of third parties
+
+1\. Notwithstanding point (f) of Article 27, the law applicable to the property consequences of a registered partnership between the partners may not be invoked by a partner against a third party in a dispute between the third party and either or both of the partners unless the third party knew or, in the exercise of due diligence, should have known of that law.
+
+2\. The third party is deemed to possess the knowledge of the law applicable to the property consequences of the registered partnership, if:
+
+(a) that law is the law of:
+
+(i) the State whose law is applicable to the transaction between a partner and the third party,
+
+(ii) the State where the contracting partner and the third party have their habitual residence or,
+
+(iii) in cases involving immoveable property, the State in which the property is situated;
+
+or
+
+(b) either partner had complied with the applicable requirements for disclosure or registration of the property consequences of the registered partnership specified by the law of:
+
+(i) the State whose law is applicable to the transaction between a partner and the third party,
+
+(ii) the State where the contracting partner and the third party have their habitual residence, or
+
+(iii) in cases involving immoveable property, the State in which the property is situated.
+
+3\. Where the law applicable to the property consequences of a registered partnership cannot be invoked by a partner against a third party by virtue of paragraph 1, the property consequences of the registered partnership in respect of the third party shall be governed:
+
+(a) by the law of the State whose law is applicable to the transaction between a partner and the third party; or
+
+(b) in cases involving immoveable property or registered assets or rights, by the law of the State in which the property is situated or in which the assets or rights are registered.
+
+### Article 29 — Adaptation of rights in rem
+
+Where a person invokes a right in rem to which he is entitled under the law applicable to the property consequences of a registered partnership and the law of the Member State in which the right is invoked does not know the right in rem in question, that right shall, if necessary and to the extent possible, be adapted to the closest equivalent right under the law of that State, taking into account the aims and the interests pursued by the specific right in rem and the effects attached to it.
+
+### Article 30 — Overriding mandatory provisions
+
+1\. Nothing in this Regulation shall restrict the application of the overriding mandatory provisions of the law of the forum.
+
+2\. Overriding mandatory provisions are provisions the respect for which is regarded as crucial by a Member State for safeguarding its public interests, such as its political, social or economic organisation, to such an extent that they are applicable to any situation falling within their scope, irrespective of the law otherwise applicable to the property consequences of a registered partnership pursuant to this Regulation.
+
+### Article 31 — Public policy (ordre public)
+
+The application of a provision of the law of any State specified by this Regulation may be refused only if such application is manifestly incompatible with the public policy (ordre public) of the forum.
+
+### Article 32 — Exclusion of renvoi
+
+The application of the law of any State specified by this Regulation means the application of the rules of law in force in that State other than its rules of private international law.
+
+### Article 33 — States with more than one legal system — territorial conflicts of laws
+
+1\. Where the law specified by this Regulation is that of a State which comprises several territorial units each of which has its own rules of law in respect of the property consequences of registered partnerships, the internal conflict-of-laws rules of that State shall determine the relevant territorial unit whose rules of law are to apply.
+
+2\. In the absence of such internal conflict-of-laws rules:
+
+(a) any reference to the law of the State referred to in paragraph 1 shall, for the purposes of determining the law applicable pursuant to provisions referring to the habitual residence of the partners, be construed as referring to the law of the territorial unit in which the partners have their habitual residence;
+
+(b) any reference to the law of the State referred to in paragraph 1 shall, for the purposes of determining the law applicable pursuant to provisions referring to the nationality of the partners, be construed as referring to the law of the territorial unit with which the partners have the closest connection;
+
+(c) any reference to the law of the State referred to in paragraph 1 shall, for the purposes of determining the law applicable pursuant to any other provisions referring to other elements as connecting factors, be construed as referring to the law of the territorial unit in which the relevant element is located.
+
+### Article 34 — States with more than one legal system — inter-personal conflicts of laws
+
+In relation to a State which has two or more systems of law or sets of rules applicable to different categories of persons in respect of the property consequences of registered partnerships, any reference to the law of such a State shall be construed as referring to the system of law or set of rules determined by the rules in force in that State. In the absence of such rules, the system of law or the set of rules with which the partners have the closest connection shall apply.
+
+### Article 35 — Non-application of this Regulation to internal conflicts of laws
+
+A Member State which comprises several territorial units each of which has its own rules of law in respect of the property consequences of registered partnerships shall not be required to apply this Regulation to conflicts of laws arising between such units only.
+
+## CHAPTER IV — RECOGNITION, ENFORCEABILITY AND ENFORCEMENT OF DECISIONS
+
+### Article 36 — Recognition
+
+1\. A decision given in a Member State shall be recognised in the other Member States without any special procedure being required.
+
+2\. Any interested party who raises the recognition of a decision as the principal issue in a dispute may, in accordance with the procedures provided for in Articles 44 to 57, apply for the decision to be recognised.
+
+3\. If the outcome of the proceedings in a court of a Member State depends on the determination of an incidental question of recognition, that court shall have jurisdiction over that question.
+
+### Article 37 — Grounds of non-recognition
+
+A decision shall not be recognised:
+
+(a) if such recognition is manifestly contrary to public policy (ordre public) in the Member State in which recognition is sought;
+
+(b) where it was given in default of appearance, if the defendant was not served with the document which instituted the proceedings or with an equivalent document in sufficient time and in such a way as to enable him to arrange for his defence, unless the defendant failed to commence proceedings to challenge the decision when it was possible for him to do so;
+
+(c) if it is irreconcilable with a decision given in proceedings between the same parties in the Member State in which recognition is sought;
+
+(d) if it is irreconcilable with an earlier decision given in another Member State or in a third State involving the same cause of action and between the same parties, provided that the earlier decision fulfils the conditions necessary for its recognition in the Member State in which recognition is sought.
+
+### Article 38 — Fundamental rights
+
+Article 37 of this Regulation shall be applied by the courts and other competent authorities of the Member States in observance of the fundamental rights and principles recognised in the Charter, in particular in Article 21 thereof on the principle of non-discrimination.
+
+### Article 39 — Prohibition of review of jurisdiction of the court of origin
+
+1\. The jurisdiction of the court of the Member State of origin may not be reviewed.
+
+2\. The public policy (ordre public) criterion referred to in Article 37 shall not apply to the rules on jurisdiction set out in Articles 4 to 12.
+
+### Article 40 — No review as to substance
+
+Under no circumstances may a decision given in a Member State be reviewed as to its substance.
+
+### Article 41 — Staying of recognition proceedings
+
+A court of a Member State in which recognition is sought of a decision given in another Member State may stay the proceedings if an ordinary appeal against the decision has been lodged in the Member State of origin.
+
+### Article 42 — Enforceability
+
+Decisions given in a Member State and enforceable in that State shall be enforceable in another Member State when, on the application of any interested party, they have been declared enforceable there in accordance with the procedure provided for in Articles 44 to 57.
+
+### Article 43 — Determination of domicile
+
+To determine whether, for the purposes of the procedure provided for in Articles 44 to 57, a party is domiciled in the Member State of enforcement, the court seised shall apply the internal law of that Member State.
+
+### Article 44 — Jurisdiction of local courts
+
+1\. The application for a declaration of enforceability shall be submitted to the court or competent authority of the Member State of enforcement communicated by that Member State to the Commission in accordance with Article 64.
+
+2\. The local jurisdiction shall be determined by reference to the place of domicile of the party against whom enforcement is sought, or to the place of enforcement.
+
+### Article 45 — Procedure
+
+1\. The application procedure shall be governed by the law of the Member State of enforcement.
+
+2\. The applicant shall not be required to have a postal address or an authorised representative in the Member State of enforcement.
+
+3\. The application shall be accompanied by the following documents:
+
+(a) a copy of the decision which satisfies the conditions necessary to establish its authenticity;
+
+(b) the attestation issued by the court or competent authority of the Member State of origin using the form established in accordance with the advisory procedure referred to in Article 67(2), without prejudice to Article 46.
+
+### Article 46 — Non-production of the attestation
+
+1\. If the attestation referred to in point (b) of Article 45(3) is not produced, the court or competent authority may specify a time for its production or accept an equivalent document or, if it considers that it has sufficient information before it, dispense with its production.
+
+2\. If the court or competent authority so requires, a translation or transliteration of the documents shall be produced. The translation shall be done by a person qualified to do translations in one of the Member States.
+
+### Article 47 — Declaration of enforceability
+
+The decision shall be declared enforceable immediately on completion of the formalities set out in Article 45 without any review under Article 37. The party against whom enforcement is sought shall not at this stage of the proceedings be entitled to make any submissions on the application.
+
+### Article 48 — Notice of the decision on the application for a declaration of enforceability
+
+1\. The decision on the application for a declaration of enforceability shall forthwith be brought to the notice of the applicant in accordance with the procedure laid down by the law of the Member State of enforcement.
+
+2\. The declaration of enforceability shall be served on the party against whom enforcement is sought, accompanied by the decision, if not already served on that party.
+
+### Article 49 — Appeal against the decision on the application for a declaration of enforceability
+
+1\. The decision on the application for a declaration of enforceability may be appealed by either party.
+
+2\. The appeal shall be lodged with the court communicated by the Member State concerned to the Commission in accordance with Article 64.
+
+3\. The appeal shall be dealt with in accordance with the rules governing procedure in contradictory matters.
+
+4\. If the party against whom enforcement is sought fails to appear before the appellate court in proceedings concerning an appeal brought by the applicant, Article 16 shall apply even where the party against whom enforcement is sought is not domiciled in any of the Member States.
+
+5\. An appeal against the declaration of enforceability shall be lodged within 30 days of service thereof. If the party against whom enforcement is sought is domiciled in a Member State other than that in which the declaration of enforceability was given, the time for appealing shall be 60 days and shall run from the date of service, either on him in person or at his residence. No extension may be granted on account of distance.
+
+### Article 50 — Procedure to contest the decision given on appeal
+
+The decision given on the appeal may be contested only by the procedure communicated by the Member State concerned to the Commission in accordance with Article 64.
+
+### Article 51 — Refusal or revocation of a declaration of enforceability
+
+The court with which an appeal is lodged under Article 49 or Article 50 shall refuse or revoke a declaration of enforceability only on one of the grounds specified in Article 37. It shall give its decision without delay.
+
+### Article 52 — Staying of proceedings
+
+The court with which an appeal is lodged under Article 49 or Article 50 shall, on the application of the party against whom enforcement is sought, stay the proceedings if the enforceability of the decision is suspended in the Member State of origin by reason of an appeal.
+
+### Article 53 — Provisional, including protective, measures
+
+1\. When a decision must be recognised in accordance with this Chapter, nothing shall prevent the applicant from availing himself of provisional, including protective, measures in accordance with the law of the Member State of enforcement without a declaration of enforceability under Article 47 being required.
+
+2\. The declaration of enforceability shall carry with it by operation of law the power to proceed to any protective measures.
+
+3\. During the time specified for an appeal pursuant to Article 49(5) against the declaration of enforceability and until any such appeal has been determined, no measures of enforcement may be taken other than protective measures against the property of the party against whom enforcement is sought.
+
+### Article 54 — Partial enforceability
+
+1\. Where a decision has been given in respect of several matters and the declaration of enforceability cannot be given for all of them, the court or competent authority shall give it for one or more of them.
+
+2\. An applicant may request a declaration of enforceability limited to parts of a decision.
+
+### Article 55 — Legal aid
+
+An applicant who, in the Member State of origin, has benefited from complete or partial legal aid or exemption from costs or expenses shall be entitled, in any proceedings for a declaration of enforceability, to benefit from the most favourable legal aid or the most extensive exemption from costs or expenses provided for by the law of the Member State of enforcement.
+
+### Article 56 — No security, bond or deposit
+
+No security, bond or deposit, however described, shall be required of a party who in one Member State applies for recognition, enforceability or enforcement of a decision given in another Member State on the ground that he is a foreign national or that he is not domiciled or resident in the Member State of enforcement.
+
+### Article 57 — No charge, duty or fee
+
+In proceedings for the issue of a declaration of enforceability, no charge, duty or fee calculated by reference to the value of the matter at issue may be levied in the Member State of enforcement.
+
+## CHAPTER V — AUTHENTIC INSTRUMENTS AND COURT SETTLEMENTS
+
+### Article 58 — Acceptance of authentic instruments
+
+1\. An authentic instrument established in a Member State shall have the same evidentiary effects in another Member State as it has in the Member State of origin, or the most comparable effects, provided that this is not manifestly contrary to public policy (ordre public) in the Member State concerned.
+
+A person wishing to use an authentic instrument in another Member State may ask the authority establishing the authentic instrument in the Member State of origin to fill in the form established in accordance with the advisory procedure referred to in Article 67(2) describing the evidentiary effects which the authentic instrument produces in the Member State of origin.
+
+2\. Any challenge relating to the authenticity of an authentic instrument shall be made before the courts of the Member State of origin and shall be decided upon under the law of that State. The authentic instrument challenged shall not produce any evidentiary effect in another Member State for as long as the challenge is pending before the competent court.
+
+3\. Any challenge relating to the legal acts or legal relationships recorded in an authentic instrument shall be made before the courts having jurisdiction under this Regulation and shall be decided upon under the law applicable pursuant to Chapter III. The authentic instrument challenged shall not produce any evidentiary effect in a Member State other than the Member State of origin as regards the matter being challenged for as long as the challenge is pending before the competent court.
+
+4\. If the outcome of proceedings in a court of a Member State depends on the determination of an incidental question relating to the legal acts or legal relationships recorded in an authentic instrument in matters of property consequences of registered partnerships, that court shall have jurisdiction over that question.
+
+### Article 59 — Enforceability of authentic instruments
+
+1\. An authentic instrument which is enforceable in the Member State of origin shall be declared enforceable in another Member State on the application of any interested party in accordance with the procedure provided for in Articles 44 to 57.
+
+2\. For the purposes of point (b) of Article 45(3), the authority which established the authentic instrument shall, on the application of any interested party, issue an attestation using the form established in accordance with the advisory procedure referred to in Article 67(2).
+
+3\. The court with which an appeal is lodged under Article 49 or Article 50 shall refuse or revoke a declaration of enforceability only if enforcement of the authentic instrument is manifestly contrary to public policy (ordre public) in the Member State of enforcement.
+
+### Article 60 — Enforceability of court settlements
+
+1\. Court settlements which are enforceable in the Member State of origin shall be declared enforceable in another Member State on the application of any interested party in accordance with the procedure provided for in Articles 44 to 57.
+
+2\. For the purposes of point (b) of Article 45(3), the court which approved the settlement or before which it was concluded shall, on the application of any interested party, issue an attestation using the form established in accordance with the advisory procedure referred to in Article 67(2).
+
+3\. The court with which an appeal is lodged under Article 49 or 50 shall refuse or revoke a declaration of enforceability only if enforcement of the court settlement is manifestly contrary to public policy (ordre public) in the Member State of enforcement.
+
+## CHAPTER VI — GENERAL AND FINAL PROVISIONS
+
+### Article 61 — Legalisation and other similar formalities
+
+No legalisation or other similar formality shall be required in respect of documents issued in a Member State in the context of this Regulation.
+
+### Article 62 — Relations with existing international conventions
+
+1\. This Regulation shall not affect the application of the bilateral or multilateral conventions to which one or more Member States are party at the time of adoption of this Regulation or of a decision pursuant to the second or third subparagraph of Article 331(1) TFEU and which concerns matters covered by this Regulation, without prejudice to the obligations of the Member States under Article 351 TFEU.
+
+2\. Notwithstanding paragraph 1, this Regulation shall, as between Member States, take precedence over conventions concluded between them in so far as such conventions concern matters governed by this Regulation.
+
+### Article 63 — Information made available to the public
+
+The Member States shall, with a view to making the information available to the public within the framework of the European Judicial Network in civil and commercial matters, provide the Commission with a short summary of their national legislation and procedures relating to the property consequences of registered partnerships, including information on the type of authority which has competence in matters of the property consequences of registered partnerships and on the effects in respect of third parties referred to in Article 28.
+
+The Member States shall keep the information permanently updated.
+
+### Article 64 — Information on contact details and procedures
+
+1\. By 29 April 2018, the Member States shall communicate to the Commission:
+
+(a) the courts or authorities with competence to deal with applications for a declaration of enforceability in accordance with Article 44(1) and with appeals against decisions on such applications in accordance with Article 49(2);
+
+(b) the procedures to contest the decision given on appeal referred to in Article 50;
+
+The Member States shall apprise the Commission of any subsequent changes to that information.
+
+2\. The Commission shall publish the information communicated in accordance with paragraph 1 in the Official Journal of the European Union, with the exception of the addresses and other contact details of the courts and authorities referred to in point (a) of paragraph 1.
+
+3\. The Commission shall make all information communicated in accordance with paragraph 1 publicly available through any appropriate means, in particular through the European Judicial Network in civil and commercial matters.
+
+### Article 65 — Establishment and subsequent amendment of the list containing the information referred to in Article 3(2)
+
+1\. The Commission shall, on the basis of the notifications by the Member States, establish the list of the other authorities and legal professionals referred to in Article 3(2).
+
+2\. The Member States shall notify the Commission of any subsequent changes to the information contained in that list. The Commission shall amend the list accordingly.
+
+3\. The Commission shall publish the list and any subsequent amendments in the Official Journal of the European Union.
+
+4\. The Commission shall make all information notified in accordance with paragraphs 1 and 2 publicly available through any other appropriate means, in particular through the European Judicial Network in civil and commercial matters.
+
+### Article 66 — Establishment and subsequent amendment of the attestations and forms referred to in point (b) of Article 45(3), and Articles 58, 59 and 60
+
+The Commission shall adopt implementing acts establishing and subsequently amending the attestations and forms referred to in point (b) of Article 45(3) and Articles 58, 59 and 60. Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 67(2).
+
+### Article 67 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 68 — Review clause
+
+1\. By 29 January 2027, and every 5 years thereafter, the Commission shall present to the European Parliament, the Council and the European Economic and Social Committee a report on the application of this Regulation. Where necessary, the report shall be accompanied by proposals to amend this Regulation.
+
+2\. By 29 January 2024, the Commission shall present to the European Parliament, the Council and the European Economic and Social Committee a report on the application of Articles 9 and 38 of this Regulation. This report shall evaluate in particular the extent to which these Articles have ensured access to justice.
+
+3\. For the purposes of the reports referred to in paragraphs 1 and 2, Member shall communicate to the Commission relevant information on the application of this Regulation by their courts.
+
+### Article 69 — Transitional provisions
+
+1\. This Regulation shall apply only to legal proceedings instituted, to authentic instruments formally drawn up or registered and to court settlements approved or concluded on or after 29 January 2019 subject to paragraphs 2 and 3
+
+2\. If the proceedings in the Member State of origin were instituted before 29 January 2019, decisions given on or after that date shall be recognised and enforced in accordance with Chapter IV as long as the rules of jurisdiction applied comply with those set out in Chapter II.
+
+3\. Chapter III shall apply only to partners who register their partnership or who specify the law applicable to the property consequences of their registered partnership on or after 29 January 2019.
+
+### Article 70 — Entry into force
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. This Regulation shall apply in the Member States which participate in enhanced cooperation in the area of jurisdiction, applicable law and the recognition and enforcement of decisions on the property regimes of international couples, covering both matters of matrimonial property regimes and the property consequences of registered partnerships, as authorised by Decision (EU) 2016/954.
+
+It shall apply from 29 January 2019, except for Articles 63 and 64 which shall apply from 29 April 2018, and Articles 65, 66 and 67, which shall apply from 29 July 2016. For those Member States which participate in enhanced cooperation by virtue of a decision adopted in accordance with the second or third subparagraph of Article 331(1) TFEU, this Regulation shall apply as from the date indicated in the decision concerned.
+
+This Regulation shall be binding in its entirety and directly applicable in the participating Member States in accordance with the Treaties.
+
+( 1 ) Regulation (EC) No 1393/2007 of the European Parliament and of the Council of 13 November 2007 on the service in the Member States of judicial and extrajudicial documents in civil or commercial matters (service of documents), and repealing Council Regulation (EC) No 1348/2000 (OJ L 324, 10.12.2007, p. 79).

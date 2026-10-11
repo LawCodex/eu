@@ -1,0 +1,559 @@
+---
+title: "Council Regulation (EU) 2023/2147 of 9 October 2023 concerning restrictive measures in view of activities undermining the stability and political transition of Sudan"
+identifier: "32023R2147"
+eli: "http://data.europa.eu/eli/reg/2023/2147/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2023-10-09
+entry_into_force: 2024-01-11
+last_amended: 2026-07-15
+consolidated_version: "02023R2147-20260715"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R2147-20260715"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2023/2147 of 9 October 2023 concerning restrictive measures in view of activities undermining the stability and political transition of Sudan
+
+**COUNCIL REGULATION (EU) 2023/2147**
+
+**of 9 October 2023**
+
+**concerning restrictive measures in view of activities undermining the stability and political transition of Sudan**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/384 of 22 January 2024 </td><td> L 384</td><td>1</td><td>22.1.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1783 of 24 June 2024 </td><td> L 1783</td><td>1</td><td>24.6.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/3156 of 16 December 2024 </td><td> L 3156</td><td>1</td><td>16.12.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/376 of 24 February 2025 </td><td> L 376</td><td>1</td><td>25.2.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/1480 of 18 July 2025 </td><td> L 1480</td><td>1</td><td>18.7.2025</td></tr>
+<tr><td> M7</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/2368 of 20 November 2025 </td><td> L 2368</td><td>1</td><td>20.11.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/251 of 29 January 2026 </td><td> L 251</td><td>1</td><td>29.1.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/887 of 21 April 2026 </td><td> L 887</td><td>1</td><td>21.4.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1394 of 22 June 2026 </td><td> L 1394</td><td>1</td><td>22.6.2026</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2026/1724 of 13 July 2026 </td><td> L 1724</td><td>1</td><td>14.7.2026</td></tr>
+</table>
+
+**COUNCIL REGULATION (EU) 2023/2147**
+
+**of 9 October 2023**
+
+**concerning restrictive measures in view of activities undermining the stability and political transition of Sudan**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and in particular:
+
+(i) a claim for the performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(b) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(c) ‘competent authorities’ refers to the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(d) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds, but which may be used to obtain funds, goods or services;
+
+(e) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(f) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(g) ‘funds’ means financial assets and benefits of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale;
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(h) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace;
+
+(i) ‘brokering services’ means:
+
+(i) the negotiation or arrangement of transactions for the purchase, sale or supply of goods and technology or of financial and technical services, including from a third country to any other third country; or
+
+(ii) the selling or buying of goods and technology or of financial and technical services, including where they are located in third countries for their transfer to another third country;
+
+(j) ‘financing or financial assistance’ means any action, irrespective of the particular means chosen, whereby the person, entity or body concerned, conditionally or unconditionally, disburses or commits to disburse its own funds or economic resources, including but not limited to grants, loans, guarantees, suretyships, bonds, letters of credit, supplier credits, buyer credits, import or export advances and all types of insurance and reinsurance, including export credit insurance; payment, as well as terms and conditions of payment, of the agreed price for a good or a service, made in line with normal business practice, does not constitute financing or financial assistance;
+
+(k) ‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, advice, training, transmission of working knowledge or skills or consulting services, including verbal forms of assistance.
+
+## Article 1a
+
+1\. It shall be prohibited to purchase, import, or transfer, directly or indirectly, gold, as listed in Annex III, if it originates in Sudan and it has been exported from Sudan into the Union or into any third country after 15 July 2026.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods, directly or indirectly in relation to the prohibition in paragraph 1;
+
+(b) provide financing or financial assistance related to the goods as referred to in paragraph 1 for any purchase, import or transfer of those goods, or for the provision of related technical assistance, brokering services or other services, directly or indirectly in relation to the prohibition in paragraph 1.
+
+3\. The prohibitions in paragraphs 1 and 2 shall not apply to gold which is necessary for the official purposes of diplomatic missions, consular posts or international organisations in Sudan enjoying immunities in accordance with international law.
+
+## Article 1b
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, goods which might be used for gold mining or gold exploitation, as listed in Annex IV, whether or not originating in the Union, to any natural or legal person, entity or body in Sudan or for use in Sudan.
+
+2\. It shall be prohibited to:
+
+(a) provide technical assistance, brokering services or other services related to the goods referred to in paragraph 1 and to the provision, manufacture, maintenance and use of those goods, directly or indirectly to any natural or legal person, entity or body in Sudan or for use in Sudan;
+
+(b) provide financing or financial assistance related to the goods referred to in paragraph 1 for any sale, supply, transfer or export of those goods, or for the provision of related technical assistance, brokering services or other services, directly or indirectly to any natural or legal person, entity or body in Sudan or for use in Sudan.
+
+3\. Without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821 of the European Parliament and of the Council ( 1 ), where applicable, the prohibitions in paragraphs 1 and 2 shall not apply to goods intended for humanitarian purposes, public health emergencies, the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health and safety or the environment, or as a response to natural disasters.
+
+4\. With regard to goods falling under CN code 2837 11, and without prejudice to the authorisation requirements pursuant to Regulation (EU) 2021/821, the prohibitions in paragraphs 1 and 2 of this Article shall not apply to the execution until 16 January 2027 of contracts concluded before 15 July 2026, or ancillary contracts necessary for the execution of such contracts.
+
+## Article 2
+
+1\. All funds and economic resources belonging to, owned, held or controlled by any natural or legal person, entity or body as listed in Annex I shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in Annex I.
+
+3\. Annex I shall include natural or legal persons, entities or bodies:
+
+(a) responsible for, or having directly or indirectly engaged in, providing support to, or benefitting from, actions or policies that threaten the peace, stability or security of Sudan;
+
+(b) obstructing or undermining efforts to resume the political transition in Sudan;
+
+(c) obstructing the delivery of, access to, or distribution of humanitarian assistance in Sudan, including attacks on health and humanitarian workers and the seizure and destruction of humanitarian or health infrastructure and assets;
+
+(d) involved in planning, directing or committing acts in Sudan that constitute serious human rights violations or abuses or violations of international humanitarian law, including killings and maimings, rape and other serious forms of sexual and gender-based violence, abduction and forced displacement;
+
+(e) associated with the natural or legal persons, entities or bodies covered by points (a) to (d).
+
+## Article 3
+
+1\. By way of derogation from Article 2, the competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of natural or legal persons, entities or bodies listed in Annex I, and dependent family members of such natural persons, including payments for food, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees or the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+
+(d) necessary for extraordinary expenses, provided that the relevant competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
+
+(e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 4
+
+1\. Article 2(1) and (2) shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United National General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognised by a Member State in accordance with national procedures;
+
+(f) Member States’ specialised agencies; or
+
+(g) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (f) while and to the extent that they are acting in those capacities.
+
+2\. Without prejudice to paragraph 1, and by way of derogation from Article 2(1) and (2), competent authorities of a Member State may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources under such conditions as they deem appropriate, after having determined that the provision of such funds or economic resources is necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs.
+
+3\. In the absence of a negative decision, a request for information or a notification for additional time from the competent authority within five working days of the date of receipt of a request for authorisation under paragraph 2, the authorisation shall be considered granted.
+
+The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this Article within four weeks of such authorisation.
+
+## Article 5
+
+1\. By way of derogation from Article 2(1), competent authorities may authorise the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 2 was listed in Annex I, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I; and
+
+(d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 6
+
+1\. By way of derogation from Article 2(1) and provided that a payment by a natural or legal person, entity or body listed in Annex I is due under a contract or agreement that was concluded by, or an obligation that arose for, the natural or legal person, entity or body concerned, before the date on which that natural or legal person, entity or body was included in Annex I, the competent authorities may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources will be used for a payment by a natural or legal person, entity or body listed in Annex I; and
+
+(b) the payment is not in breach of Article 2(2).
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 7
+
+1\. Article 2(2) shall not prevent the crediting of frozen accounts by financial or credit institutions that receive funds transferred by third parties onto the account of a listed natural or legal person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the relevant competent authority about any such transaction without delay.
+
+2\. Article 2(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose before the date on which the natural or legal person, entity or body referred to in Article 2 was included in Annex I; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in a Member State or enforceable in the Member State concerned;
+
+provided that any such interest, other earnings and payments are frozen in accordance with Article 2(1).
+
+## Article 8
+
+1\. Natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as information on accounts and the amounts frozen in accordance with Article 3(1), to the competent authority of the Member State where they are established or located, and transmit such information, directly or through the Member State, to the Commission; and
+
+(b) cooperate with the competent authority in any verification of the information referred to in point (a).
+
+2\. The obligation in paragraph 1 shall apply subject to national or other applicable rules regarding the confidentiality of information held by judicial authorities, and consistent with respect for the confidentiality of communications between lawyers and their clients guaranteed by Article 7 of the Charter of the Fundamental Rights of the European Union. For this purpose, such communications include those relating to legal advice provided by other certified professionals who are authorised under national law to represent their clients in judicial proceedings, insofar as such legal advice is provided in connection with pending or prospective judicial proceedings.
+
+3\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+4\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+5\. The competent authorities of the Member States, including enforcement authorities, customs authorities within the meaning of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 2 ), competent authorities within the meaning of Regulation (EU) No 575/2013 ( 3 ), Directive (EU) 2015/849 ( 4 ) and Directive 2014/65/EU ( 5 ) of the European Parliament and of the Council, as well as administrators of official registers wherein natural persons, legal persons, entities and bodies as well as immovable or movable property are registered, shall process and exchange without delay information, including personal data and, if necessary, the information referred to in paragraph 1, point (a), with other competent authorities of their Member State, of other Member States and the Commission, if such processing and exchange is necessary to carry out the tasks of the processing authority or the receiving authority under this Regulation, in particular when they detect instances of a breach or circumvention, or attempts at a breach or circumvention, of the prohibitions set out in this Regulation.
+
+6\. Any processing of personal data shall be carried out in accordance with this Regulation and Regulations (EU) 2016/679 and (EU) 2018/1725 of the European Parliament and of the Council only insofar as it is necessary for the application of this Regulation and to ensure effective cooperation between Member States as well as with the European Commission in its application.
+
+## Article 9
+
+1\. It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Article 2.
+
+2\. Natural or legal persons, entities or bodies listed in Annex I, shall:
+
+(a) report within six weeks of the date of their listing in Annex I funds or economic resources within the jurisdiction of a Member State belonging to, owned, held or controlled by them to the competent authority of the Member State where those funds or economic resources are located; and
+
+(b) cooperate with that competent authority in the verification of such information.
+
+3\. Failure to comply with paragraph 2 shall be considered to be participation, as referred to in paragraph 1, in activities the object or effect of which is to circumvent the measures referred to in Article 2.
+
+4\. The Member State concerned shall inform the Commission within two weeks of the receipt of the information referred to in paragraph 2, point (a).
+
+5\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+6\. Any processing of personal data shall be carried out in accordance with this Regulation and Regulations (EU) 2016/679 and (EU) 2018/1725 of the European Parliament and of the Council and only insofar as it is necessary for the application of this Regulation.
+
+## Article 10
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 11
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, notably a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) natural or legal persons, entities or bodies listed in Annex I;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the natural or legal persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 12
+
+1\. The Commission and Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information in respect of:
+
+(a) funds frozen under Article 2 and authorisations granted under Articles 3, 4(2), 5 and 6;
+
+(b) violation and enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 13
+
+1\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 2, it shall amend Annex I accordingly.
+
+2\. The Council shall communicate a decision pursuant to paragraph 1, including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body with an opportunity to submit observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision concerned and inform the natural or legal person, entity or body concerned accordingly.
+
+4\. The list in Annex I shall be reviewed at regular intervals and at least every 12 months.
+
+5\. The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 14
+
+1\. Annex I shall include the grounds for the listing of natural or legal persons, entities or bodies concerned.
+
+2\. Annex I shall contain, where available, the information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include: names and aliases; date and place of birth; nationality; passport and identity card numbers; gender; address, if known; and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 15
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall also provide for appropriate measures of confiscation of the proceeds of such infringements.
+
+2\. Member States shall notify the Commission of the rules referred to in paragraph 1 without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 16
+
+1\. The Council, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) may process personal data in order to carry out their tasks under this Regulation. These tasks shall include:
+
+(a) as regards the Council, preparing and making amendments to Annex I;
+
+(b) as regards the High Representative, preparing amendments to Annex I;
+
+(c) as regards the Commission:
+
+(i) adding the contents of Annex I to the electronic, consolidated list of persons, groups and entities subject to Union financial sanctions and to the interactive sanctions map, both of which are publicly available;
+
+(ii) processing information on the impact of the measures provided for in this Regulation, such as the value of frozen funds and information on authorisations granted by the competent authorities.
+
+2\. The Council, the Commission and the High Representative shall process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons only to the extent that such processing is necessary for the preparation of Annex I.
+
+3\. For the purposes of this Regulation, the Council, the Commission and the High Representative are designated as ‘controller’ within the meaning of point (8) of Article 3 of Regulation (EU) 2018/1725 in order to ensure that the natural persons concerned can exercise their rights under that Regulation.
+
+## Article 17
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. Member States shall notify the Commission of any changes in the addresses of their websites as listed in Annex II.
+
+2\. Member States shall notify the Commission of the designation of their competent authorities, and of the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 18
+
+Any information provided to or received by the Commission pursuant to this Regulation shall be used by the Commission only for the purposes for which it was provided or received.
+
+## Article 19
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or vessel under the jurisdiction of a Member State;
+
+(c) to any natural person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 20
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**List of natural and legal persons, entities or bodies referred to in Article 2**
+
+**A. Natural Persons**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td>1.</td><td>Mirghani Idriss SULEIMAN</td><td>Nationality: Sudanese Gender: male  Function: Lieutenant General in the SAF;  Director General of Defence Industries System;  Head of Sudanese Army Production Agency  Associated individuals: General Abdelfattah Al-Burhan, Commander-in-Chief of the SAF  Associated entities: Defense Industry System, SMT Engineering; SAF </td><td>Lieutenant General Mirghani Idriss Suleiman is an officer of the SAF and Director General of Defense Industry System (DIS), a company sanctioned by the European Union for providing support to actions and policies that threaten the peace, stability and security of Sudan. DIS is described as Sudan’s largest defence enterprise, generating an estimated USD 2 billion in revenue through hundreds of subsidiaries across various sectors of Sudan’s economy. DIS manufactures a range of small arms, conventional weapons, ammunition and military vehicles for the SAF.  As the Director General of DIS, Mirghani Idriss Suleiman has travelled extensively with General Abdelfattah Al-Burhan, Commander-in-Chief of the SAF, since the beginning of the war, allegedly, to enhance the SAF’s capabilities to fight the RSF on several fronts in Khartoum, Darfur and Kordofan.  Therefore, Mirghani Idriss Suleiman provides support to actions or policies that threaten the peace, stability or security of Sudan. </td><td>24.6.2024</td></tr>
+<tr><td>2.</td><td>EL TAHIR Mohamed EL AWAD EL AMIN a.k.a.  EL TAHIR Mohamed  EL AWAD EL AMIN  AL-TAHER;  Mohammed AL-AWAD AL-AMIN </td><td>Nationality: Sudanese Gender: male  Function: Lieutenant General, Commander of the Sudanese Air Force since 1 September 2022;  Former Dean of the Sudanese Air Force College; Former Commander of the Khartoum Air Base  Associated individuals: General Abdelfattah Al-Burhan, Supreme Commander of the SAF;  Lieutenant General Yasir al-Atta, Assistant Commander-in-Chief of the SAF;  General Mohamed Osman al-Hussein, Chief of Staff of SAF Land Forces  Associated entities: SAF </td><td>El Tahir Mohamed El Awad El Amin is a Lieutenant General in the SAF and Commander of the Sudanese Air Force since 1 September 2022. He is therefore in charge of the operations carried out by the Air Force of the SAF since the outbreak of the conflict between the SAF, the RSF and their allied militias on 15 April 2023, as underscored by his participation in publicly disclosed high-level meetings of senior commanders of the SAF headed by the Commander-in-Chief Abdelfattah Al-Burhan in the General Command of the SAF in Khartoum in May and July 2023. El Tahir Mohamed El Awad El Amin therefore holds a direct command responsibility in the indiscriminate aerial bombing carried out by the Air Force of the SAF in densely populated residential areas, notably in Khartoum, Omdurman, Nyala (South Darfur) and in North Kordofan, documented by the United Nations Integrated Transition Assistance Mission in Sudan (UNITAMS) in its 31 August 2023 and 13 November 2023 reports to the Secretary-General, by the United Nations High Commissioner for Human Rights in its 22 February 2024 report and by the United Nations Panel of Experts on Sudan in its 15 January 2024 report.  El Tahir Mohamed El Awad El Amin has thus been engaged directly in the continuation of the Sudanese conflict, which threatens the peace, stability and security of Sudan, and has been involved in planning, directing and committing aerial operations which have resulted in serious human rights violations and violations of international humanitarian law by causing high numbers of civilian casualties, leading to displacement of the civilian population and to the destruction of critical infrastructures, including medical facilities such as the East Nile Hospital in Khartoum in May 2023 and the Babiker Nahar Paediatric Hospital in El-Fasher in May 2024. </td><td>24.6.2024</td></tr>
+<tr><td>3.</td><td>Ali Ahmed KARTI MOHAMED</td><td>DOB: 11.3.1953 POB: Hagar Elassal — Sudan  Nationality: Sudanese  Gender: male  Function: Stalwart of the National Congress Party;  Secretary-General of the Sudanese Islamist Movement;  Former Sudanese Minister of Foreign Affairs  ID number: 11822483949  Associated entities:  Sudanese Foreign Ministry;  Sudanese Islamic Movement </td><td>Ali Ahmed Karti Mohamed was the Sudanese Minister of Foreign Affairs under the Government of Omar al-Bashir. Following the fall of the al-Bashir regime, Ali Ahmed Karti Mohamed was selected as one of the leaders of the Sudanese Islamist Movement (SIM) and led efforts to derail Sudan’s progress towards a full democratic transition, by undermining the former civilian-led transitional government and the Framework Political Agreement process. This contributed to the conflict between the SAF and RSF, which began on 15 April 2023. He and other hardline Sudanese Islamists are actively obstructing efforts to reach a ceasefire to end the conflict and they are opposing civilian efforts to restore Sudan’s democratic transition. Ali Ahmed Karti Mohamed is a stalwart of the National Congress Party (NCP), founded by Omar Al-Bashir in 1998. The NCP is the successor organisation to the Brotherhood-affiliated National Islamic Front.  Ali Ahmed Karti Mohamed is currently the Secretary-General of the SIM, a broad alliance of Islamist groups, and is considered to be the man behind the NCP’s resurgence. The Islamist movement has a strong influence on the SAF, police and intelligence services.  Therefore, Ali Ahmed Karti Mohamed engages directly or indirectly in, provides support to, or benefits from, actions or policies that threaten the peace, stability or security of Sudan. </td><td>24.6.2024</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>5.</td><td>Mustafa Ibrahim ABDEL NABI MOHAMED</td><td>Nationality: Sudanese Gender: male  Function: Director of al-Khaleej Bank; majority shareholder of Shield Protective Solutions Co. Ltd. (Sudan); financial adviser to the leader of the RSF  Passport number: B CH 4930920  Associated individuals: Musa Hamdan Dagalo Musa, brother of RSF leader Mohamed Hamdan Dagalo  Associated entities: Al-Khaleej Bank; Shield Protective Solutions Co. Ltd. (Sudan) </td><td>Mustafa Ibrahim Abdel Nabi Mohamed is a former senior official of the Sudanese Central Bank who became the RSF’s financial adviser, helping it to manage a web of proxy companies and entities. A UN Panel of Experts Report on sanctions in Darfur recently referred to a former senior official of the Sudanese Central Bank who is based in Dubai and has become the RSF’s financial adviser without naming him. The report also explains that al Khaleej Bank became instrumental to the RSF’s financing in 2019 when its majority ownership was acquired by individuals and entities associated with the RSF.  Media reports and think-tanks have identified him as Mustafa Ibrahim Abdel Nabi Mohamed. He is a Director of Al Khaleej Bank, a Sudanese bank.  Over 60 % of the shares of Al Khaleej Bank are held by companies associated with the family of Mohammad Hamdan Dagalo (Hemedti), the head of the RSF.  Mustafa Ibrahim Abdel Nabi Mohamed is also the majority shareholder of Shield Protective Solutions Co. Ltd. The other shareholder in this company is one of the brothers of Hemedti, namely Musa Hamdan Dagalo Musa, and this company holds over 14 % of the shareholding in al Khaleej Bank.  As a financial adviser to the RSF and the Dagalo family, Mustafa Ibrahim Abdel Nabi Mohamed is engaging directly or indirectly in providing support to, or benefitting from, actions or policies that threaten the peace, stability or security of Sudan. </td><td>24.6.2024</td></tr>
+<tr><td>6.</td><td>Masar Abdurahman ASEEL a.k.a.  Massar Abdelrahman ASSIL  Masar Abdelrahman ESEIL  Massar ASSEL  Masar ASIL </td><td>Gender: male Function: Amir of the Mahamid clan in West Darfur;  Member of the Native Administration in West Darfur </td><td>Masar Abdurahman Aseel is a prominent tribal leader of the Mahamid clan in West Darfur. The Mahamid clan belongs to the Rizeigat tribe which gathers Arab communities inhabiting Darfur and Chad. He holds the title of Amir and is a member of the Native Administration in West Darfur. Masar Abdurahman Aseel has facilitated the attacks led by the Rapid Support Forces (RSF) and their allied militias against local communities living in El Geneina (West Darfur), especially the Massalit people, since April 2023. In particular, he directly contributed to the recruitment and arming of militias by the RSF and to the coordination between these forces, as is reported by the 15th final report of the United Nations Panel of Experts on Sudan published in January 2024, to carry out their ethnically targeted attacks, notably against the Massalit communities, in West Darfur between late April and early November 2023. Propaganda videos featuring Masar Abdurahman Aseel were published by the RSF in March and in April 2024, demonstrating his warmongering support to the RSF and his role in rallying the troops behind the RSF to join their fight against the SAF since 15 April 2023.  Masar Abdurahman Aseel has therefore engaged directly in, provided support to and benefitted from actions and policies that threaten the peace, stability and security of Sudan. By supporting the seizing of West Darfur by the RSF, Masar Abdurahman Aseel has strengthened his position and influence within the Native Administration of West Darfur, at the expense of other community leaders, notably belonging to the Massalit community, which have been targeted by the RSF and their allied militias. </td><td>24.6.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>7.</td><td>Salah Abdallah Mohamed SALAH a.k.a.  SALAH GOSH </td><td>DOB: 1957 POB: Nuri, Sudan  Nationality: Sudanese  Passport: YSJCYKRYG1U5  Gender: male  Function: former national security advisor of the Republic of Sudan; former Director of the Sudanese National Intelligence and Security Service  Associated individuals: former President of the Republic of Sudan, Omar Al-Bashir; General Abdelfattah Al-Burhan  Associated entities: National Intelligence and Security Service (NISS) </td><td>Salah Abdallah Mohamed Salah is the former national security advisor of the Republic of Sudan and the former Director of the Sudanese National Intelligence and Security Service (NISS). Salah Abdallah Mohamed Salah is responsible for several coups d’état in Sudan – notably those in 2012 and 2019 – and helped in the execution of a coup d’état in 2021. He is widely considered to be Sudan’s spymaster. Due to his expertise as a former security official, he played a role in helping former regime elements to return to power and undermined efforts to establish a civilian government in Sudan.  After the fall of the Al-Bashir regime, Salah Abdallah Mohamed Salah continues to be involved in activities that destabilise peace and stability in the country. Although he is rarely seen in public, he remains active and is considered to be the ‘mastermind’ behind many of the actions carried out by the Sudanese Armed Forces (SAF) and the intelligence operations department as part of the ongoing crisis.  Therefore, Salah Abdallah Mohamed Salah is considered to be a leader among the hardliner elements of the former Al-Bashir regime, who is responsible for security and military-related efforts and is embedded in the structures of the SAF. His ideological ties to the former Al-Bashir regime, and in particular to the National Congress Party (NCP) are a strong driver of the narrative that fuels the war against the opposing front, namely the Rapid Support Forces (RSF).  Salah Abdallah Mohamed Salah has therefore been involved in actions that threaten the peace, stability or security of Sudan and in actions undermining the efforts to resume the political transition in Sudan. </td><td>16.12.2024</td></tr>
+<tr><td>8.</td><td>Tijani KARSHOM a.k.a.  KHARSHOM;  KARSHOUM;  KHARSHOUM;  AL-TIJANI AL-TAHIR KARSHOUM </td><td>Nationality: Sudanese Gender: male  Function: former Deputy Governor (or ‘Wali’ in local parlance) of West Darfur; de facto Governor of West Darfur  Associated individuals: Abdulrahman JUMA BARAKALLAH; Masar Abdurahman ASEEL  Associated entities: Gathering of Sudan Liberation Forces (GSLF) </td><td>Tijani Karshom is a leading member of the Mahamid tribe and was Deputy Governor of West Darfur at the time of the massacre of the Massalit tribe in El Geneina, the capital of West Darfur, in June 2023. He is also a member of the Gathering of Sudan Liberation Forces (GSLF), which facilitated the recruitment of militia to fight alongside the Rapid Support Forces (RSF). Tijani Karshom holds responsibility in the fatal attack on the Governor of West Darfur in El Geneina in June 2023, for having instructed the RSF to prevent civilians trapped in El Geneina from leaving the city, and for having directed two attacks on camps for internally displaced persons. After the El Geneina massacre, he established a committee to collect and bury bodies in mass graves. He has also been involved in efforts to hide bodies after a second massacre, in Ardamatta, West Darfur, in November 2023.  Tijani Karshom is also responsible for having led an attack in El Geneina alongside the RSF and for having directed artillery fire on the Governor of West Darfur’s office in May 2023, a month before the Governor’s assassination.  Tijani Karshom has therefore been involved in actions that threaten the peace, stability and security of Sudan and has been involved in planning, directing or committing acts in West Darfur that constitute serious human rights abuses and violations of international humanitarian law, including killings, rape and other serious forms of sexual and gender-based violence, and abduction. </td><td>16.12.2024</td></tr>
+<tr><td>9.</td><td>Mohamed Ali Ahmed SUBIR</td><td>Nationality: Sudanese Gender: male  Function: Lieutenant General; Director of the Directorate of Military Intelligence (DMI) of the Sudanese Armed Forces (SAF)  Associated entities: Sudanese Armed Forces (SAF); Directorate of Military Intelligence (DMI) </td><td>Mohamed Ali Ahmed Subir is a Lieutenant General in the Sudanese Armed Forces (SAF) and the Director of the Directorate of Military Intelligence (DMI) of the SAF. In this capacity, he has been in charge of the operations carried out by the DMI since the outbreak, on 15 April 2023, of the conflict between the SAF, the Rapid Support Forces (RSF) and their allied armed groups. This is underscored by his participation in publicly disclosed high-level meetings of senior commanders of the SAF, headed by Commander-in-Chief Abdelfattah Al-Burhan of the General Command of the SAF in Khartoum in May and July 2023. Mohamed Ali Ahmed Subir therefore holds a command responsibility in the harassment, arbitrary arrest and detention of: human rights defenders; local community activists, including anti-war activists; lawyers; medical professionals; volunteers supporting emergency services; members of political parties and of resistance committees; and people perceived as supporters of the RSF.  Mohamed Ali Ahmed Subir has also been involved in several cases of sexual violence, including rape and rape threats, attributed to the DMI, and in the perpetration by the DMI of acts amounting to torture and other forms of ill-treatment.  Mohamed Ali Ahmed Subir is also responsible for the imposition of significant restrictions by the DMI on aid access and delivery.  Mohamed Ali Ahmed Subir has therefore been directly involved in the perpetration by the DMI of acts that constitute serious human rights violations and violations of international humanitarian law, and is thus responsible for actions that directly undermine efforts to resume the political transition in Sudan. </td><td>16.12.2024</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>11.</td><td>Abu Aqla Mohamed Ahmed KAIKAL</td><td>Nationality: Sudanese Gender: male  Function: Commander of a SAF-affiliated militia  Associated entities: SAF </td><td>Abu Aqla Mohamed Ahmed Kaikal is a Sudanese Military Commander who served in the Rapid Support Forces (RSF) in the Jazira state in Sudan until he defected to the Sudanese Armed Forces (SAF) in October 2024. In December 2023, he was appointed by the RSF as Governor of the Jazira state, after the RSF violently took over that area. The RSF is responsible for attacking cities and humanitarian hubs in the Jazira state, leading to massive displacement of civilians, hunger, shortage of medicines and impediment of humanitarian aid. Jazira state specifically has been a centre of violence committed by the RSF during Kaikal’s governorship. Therefore, Abu Aqla Mohamed Ahmed Kaikal is responsible for actions and policies that threaten the peace, stability and security of Sudan. In addition, he is responsible for directing acts in Sudan that constitute serious human rights violations, and for obstructing the delivery of, access to and distribution of humanitarian assistance in Sudan.</td><td>18.7.2025</td></tr>
+<tr><td>12.</td><td>Hussein BARSHAM</td><td>Nationality: Sudanese Gender: male  Function: Military Field Commander of the RSF  Associated entities: RSF; Misseria tribe </td><td>Hussein Barsham is a Military Field Commander of the Rapid Support Forces (RSF), an organisation that has been accused by international non-governmental organisations of ethnic cleansing and even genocide against the Masalit tribe and other non-Arab groups in Darfur. As a Commander, Hussein Barsham has led RSF soldiers in the capture of the Baleela airport from the Sudanese Armed Forces (SAF), and the capture of localities in the West Kordofan state, such as Meiram. He has played a leading role in RSF operations that have resulted in mass atrocities, including targeted killings, ethnic violence, forced displacement and violence against civilians, particularly in Darfur and other conflict-affected regions of Sudan. Under his command, RSF forces have been involved in mass killings and atrocities. Barsham has been engaged in the fighting in the Kordofan region. He has led attacks on several localities and has been present at the sites of atrocities and mass executions committed by soldiers under his command. Such acts constitute war crimes.  Hussein Barsham is therefore responsible for actions that threaten the peace, stability and security of Sudan. He is also responsible for undermining efforts to resume the political transition in Sudan and for directing or committing acts in Sudan that constitute serious human rights violations or abuses or violations of international humanitarian law. </td><td>18.7.2025</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>16.</td><td>Edris KAFUTI</td><td>Nationality: Sudanese Gender: male  Function: Field Commander of the RSF  Associated entities: RSF </td><td>Edris Kafuti is an RSF field commander. He has been identified as a key perpetrator of the atrocities committed by the RSF in El Fasher in October 2025. During that incident, he harassed detained individuals. Edris Kafuti is therefore responsible for committing acts in Sudan that constitute serious human rights violations or abuses, as well as violations of international humanitarian law. He is also responsible for actions that threaten the peace, stability or security of Sudan. </td><td>29.1.2026</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>19.</td><td>Abu Zaid Talha AL-MISBAH</td><td>Nationality: Sudanese Gender: male  Function: Commander of the Baraa bin Malik Battalion (BBMB)  Associated entities: SAF; Baraa bin Malik Battalion (BBMB) </td><td>Abu Zaid Talha Al-Misbah is the Commander of the Baraa bin Malik Battalion (BBMB), an Islamist militia fighting alongside the Sudanese Armed Forces (SAF) in the conflict between the SAF, the Rapid Support Forces (RSF) and their allied armed groups, which has been ongoing since 15 April 2023. Abu Zaid Talha Al-Misbah took part in the defence of the Armored Corps base in south Khartoum between June and August 2023. He also headed Baraa bin Malik Battalion’s fighters who flooded into the Republican palace in Khartoum in March 2025. Abu Zaid Talha Al-Misbah is therefore participating actively in the war efforts led by the SAF, which are obstructing and undermining efforts to resume the political transition in Sudan.  Abu Zaid Talha Al-Misbah holds command responsibility for the summary executions of civilians carried out by the Baraa bin Malik Battalion in Khartoum North in September 2024 and in Gezirah in January 2025, which constitute serious human rights violations, as documented by, among others, the December 2025 report of the Independent International Fact-Finding Mission for Sudan of the Human Rights Council of the United Nations and the February 2025 report of Human Rights Watch.  Abu Zaid Talha Al-Misbah has therefore been directly involved in the perpetration by the Baraa bin Malik Battalion of acts that constitute serious human rights violations, and he is also responsible for undermining efforts to resume the political transition in Sudan. </td><td>29.1.2026</td></tr>
+<tr><td>20.</td><td>Al-Tayyib AL-IMAM JODA</td><td>Nationality: Sudanese Gender: male  Function: Emir of the Nafeidiya clan of the Kawahla tribe from the Sarhan area west of Gezirah  Associated entities: SAF; Sudan Shield Forces; Kawahla tribe; Nafeidiya clan </td><td>Al-Tayyib Al-Imam Joda is the Emir of the Nafeidiya clan of the Kawahla tribe from the Sarhan area west of Gezirah State. He was among the community leaders who assisted the Sudanese Armed Forces (SAF) and allied militias, in particular the Sudan Shield Forces, in recruiting and organising the campaign of systematic targeting of Kanabi farming communities in Gezirah and Sennar States, which included mass arrests, mass killings, mass graves and burned villages, notably before and after the recapture of Wad Madani by the SAF and their allies in January 2025. Al-Tayyib Al-Imam Joda expressed his full support for the Sudan Shield Forces, a paramilitary group allied to the SAF, headed by Abu Aqla Mohamed Kaikal which has committed serious human rights violations in Gezirah State.  Al-Tayyib Al-Imam Joda has repeatedly called for the arming of the civilian population, has recruited combatants on behalf of the SAF and the Sudan Shield Forces, and has incited violence against the Kanabi people by accusing them of siding with the Rapid Support Forces (RSF).  Al-Tayyib Al-Imam Joda has therefore been involved in planning, directing and committing acts in Sudan that constitute serious human rights violations and that directly undermine efforts to resume the political transition in Sudan. </td><td>29.1.2026</td></tr>
+</tbody>
+</table>
+
+**B. Entities**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td>1.</td><td>Defense Industries System a.k.a.:  Military Industry Corporation;  Defense Industries Corporation </td><td>Address: Khartoum North, Khartoum 10783 Type of entity: Public entity  Date of registration: 1993 </td><td>Defense Industries System (DIS), previously known as the Military Industrial Corporation (MIC), is a large Sudanese Armed Forces (SAF)-owned conglomerate which manages a network of military-controlled companies. DIS generates substantial annual revenues, estimated at USD 2 billion in 2020. DIS manufactures and provides the SAF with a range of military equipment, including weapons, ammunition, aircraft and military vehicles, which are used by the armed forces in the conflict in Sudan.  DIS controls together with SMT Engineering (SMT), through a network of direct and indirect shareholdings, numerous companies of the SAF-controlled GIAD conglomerate, which is also involved in the production of weapons and vehicles for the armed forces, as well as in the provision of services to the SAF, in particular through a partnership between GIAD for Automotive Services and the Corps of Engineers.  The Director General of DIS has accompanied Commander Al-Burhan during his official visits abroad since April 2023.  Therefore, DIS provides support to SAF actions and policies that threaten the peace, stability and security of Sudan. In addition, DIS is associated with SMT which also provides support to the SAF’s actions and policies that threaten the peace, stability and security of Sudan. </td><td>22.1.2024</td></tr>
+<tr><td>2.</td><td>SMT Engineering a.k.a.:  Sudan Master Technology;  SMT </td><td>Address: SMT Building Madani Road, KM 50 Khartoum, Giad Industrial Complex, Gamhuria Street Khartoum Type of entity: State Controlled Company </td><td>SMT Engineering (SMT) is a Sudan-based company which owns or controls, together with DIS, numerous companies of the SAF-controlled GIAD conglomerate, through a network of direct and indirect shareholdings. SMT is the main shareholder of three GIAD companies in which DIS owns the rest of the shares (GIAD for the automotive and truck industry, GIAD complex for heavy mechanism industries and GIAD metal industries complex). SMT also owns or controls, directly or indirectly, many other companies that are part of the GIAD conglomerate and in which DIS also holds stakes, such as GIAD for Automotive Services. The GIAD conglomerate is involved in the production of weapons and vehicles for the armed forces, as well as in the provision of services to the SAF, in particular through a partnership between GIAD for Automotive Services and the Corps of Engineers.  DIS is a large SAF-owned conglomerate which provides support for SAF actions and policies that threaten the peace, stability and security of Sudan, in particular through the manufacture and provision of a range of military equipment, including weapons, ammunition, aircraft and military vehicles, which are used by the armed forces in the conflict in Sudan.  Therefore, SMT Engineering provides support for SAF actions and policies that threaten the peace, stability and security of Sudan. It is also associated with DIS, which also provides support for SAF actions and policies that threaten the peace, stability and security of Sudan. </td><td>22.1.2024</td></tr>
+<tr><td>3.</td><td>Zadna International Company for Investment Limited</td><td>Address: Doha Street Property 436, Manshia Doha Street, Khartoum, Sudan, 11429 Type of entity: State Controlled Company  Date of registration: 1997 </td><td>Zadna International Company for Investment Limited (Zadna) is a holding company in agriculture and construction, which is 99 % owned by the SAF controlled Special Fund for the Social Security of the Armed Forces (SFSSAF), formerly known as the Charity Organisation for the Support of the Armed Forces. The leader of the SAF, Commander Al-Burhan, appointed in October 2021 General El Mirghani Idris Suleiman as Chairman of Zadna, who is one of his friends and Director of DIS.  In May 2023, he also appointed Dr. Taha Hussein Yousef as Director-General of Zadna.  The SFSSAF and Zadna are part of the vast network of companies and organisations owned or controlled by the SAF, which are used to sustain the power of the armed forces over the Sudanese economy.  Zadna is a leading company engaged in high-profile international business deals and is one of the top revenue earners in the army’s network of companies. Therefore, it generates substantial revenues for the benefit of the SAF, which enables the armed forces to finance and continue the conflict in Sudan.  Therefore, Zadna International Company for Investment Limited provides support for SAF actions and policies that threaten the peace, stability and security of Sudan. </td><td>22.1.2024</td></tr>
+<tr><td>4.</td><td>Al Junaid Multi Activities Co Ltd a.k.a.  Ajmac multi activities company;  Al Gunade </td><td>Address: Street 3 Khartoum Block 17 Alryad, Sudan Industrial Area 13, Sharjah, UAE P.O. Box 61401, Sharjah  Type of entity: Limited Company  Date of registration: 2009 </td><td>Al Junaid Multi Activities Co Ltd (Al Junaid) is a Sudanese holding company controlled by Rapid Support Forces’ (RSF) Commander Mohamed Hamdan Dagalo (Hemedti) and his brother, RSF Deputy Commander Abdul Rahim Dagalo. The company is owned by Abdul Rahim Dagalo and his two sons. Hemedti himself is on its board of directors. Based in Khartoum, Al Junaid operates subsidiaries across multiple economic sectors, including gold mining and trade, and covers a large part of Sudan’s gold industry. The company has mining concessions in Darfur, in particular in the vicinity of Jebel Amer (North Darfur) and in the Singo area (South Darfur), and it also operates beyond that region.  The gold mines of Darfur are under the control of the RSF, including the Jebel Amer site since 2017.  Gold mining and trade through Al Junaid generates a substantial source of revenue for the Dagalo family and the RSF, which enables them to finance and continue the conflict in Sudan.  The RSF is also using Al Junaid’s gold production and exports to secure military support from the United Arab Emirates (UAE), to which most of Sudan’s gold production is smuggled, and from the Wagner Group, including the provision of weapons used by the RSF in the conflict in Sudan.  Therefore, Al Junaid Multi Activities Co Ltd provides support for RSF actions that threaten the peace, stability and security of Sudan. </td><td>22.1.2024</td></tr>
+<tr><td>5.</td><td>Tradive General Trading Co</td><td>Address: P.O. Box 86436, Dubai (UAE) Type of entity: Limited Company  Date of registration: 2018 </td><td>Tradive General Trading Co (Tradive) is a company based in the UAE whose director and ultimate beneficial owner is RSF Major Algoney Hamdan Dagalo, the youngest brother of Mohammed Hamdan Dagalo (Hemedti). Tradive is part of the RSF’s commercial network which generates stable revenue for the RSF enabling them to finance and continue the conflict in Sudan. It is used as an RSF front company, channelling substantial sums into and out of the RSF, and enabling the purchase of material to support RSF operations.  For instance, Tradive has purchased vehicles for the RSF, including Toyota Hilux and Land Cruiser pick-up trucks, which are often converted into highly mobile ‘technicals’, which are armed desert vehicles. In the first half of 2019, more than one thousand such vehicles were imported into Sudan from the UAE. These converted vehicles have been used by the RSF for a long time and continue to be used by it in the conflict in Sudan, in particular to patrol the areas under RSF control.  Therefore, Tradive General Trading Co provides support for RSF actions that threaten the peace, stability and security of Sudan. </td><td>22.1.2024</td></tr>
+<tr><td>6.</td><td>GSK ADVANCE COMPANY LTD</td><td>Address: Ahmed Khair Street, Khartoum 11111, Sudan Type of entity: Limited Company </td><td>GSK is a Sudan-based information technology and security company, which is 60 % owned by RSF Major Algoney Hamdan Dagalo, the youngest brother of Mohamed Hamdan Dagalo (Hemedti). GSK is part of the RSF’s commercial network which generates stable revenue for the RSF enabling them to finance and continue the conflict in Sudan. It is used by the RSF as a front company, facilitating cash flows into the RSF and being involved in the RSF’s procurement processes.  In addition, since at least 2019, GSK has been working with Aviatrade LLC, a Russia-based military supply company, on the purchase and supply of material and equipment for the benefit of the RSF, including the corresponding training, and on the purchase and supply of unmanned aerial vehicles, monitoring equipment and spare parts. Reconnaissance and weaponised drones are used by the RSF in the conflict in Sudan.  Therefore, GSK Advance Company LTD provides support for RSF actions that threaten the peace, stability and security of Sudan. </td><td>22.1.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>7.</td><td>Alkhaleej Bank Co Ltd a.k.a.:  Khaleej Bank;  Al Rowad Bank For Development & Investment;  Al Rowad Bank For Development And Investment;  Al-Khaleej Bank;  بنك الخليج </td><td> Address: Albaraka Tower, 6th Floor, 1 Al Qasr, Khartoum, Sudan <br> Website: https://al-khaleejbank.com/alkhaleej/ <br> Type of entity: Financial institution <br> SWIFT/BIC code: KHJBSDKH and 5040942458 <br> Principal place of business: Khartoum, Sudan   <br> Associated individuals or entities: Mustafa Ibrahim Abdel Nabi Mohamed, designated by the Union on 24.6.2024; Musa Hamdan Dagalo Musa, brother of RSF Commander Mohamed Hamdan Dagalo; Shield Protective Solutions Co. Ltd. (Sudan) </td><td>Alkhaleej Bank Co Ltd (‘Alkhaleej’) plays an essential role in the Rapid Support Forces’ (RSF) efforts to finance its own operations, complicating efforts to stop the fighting in Sudan. Alkhaleej is largely owned by companies linked to family members of RSF Commander Mohamed Hamdan Dagalo (Hemedti) and is therefore considered to be controlled by the RSF. Before and during the war, the RSF has established complex financial networks using profits from its gold business to fund weapons, salaries and media campaigns, and to gain political support. It controls a network of up to 50 companies, including Alkhaleej, which became a key financier and received USD 50 million from Sudan’s Central Bank in March 2023. Furthermore, Alkhaleej has international banking ties that allow the RSF to operate within the global financial system. Hemedti’s network reportedly owns a significant portion of Alkhaleej, with some estimates suggesting majority control.  The RSF’s business activities span multiple sectors, including transport, construction, agriculture and banking, making Hemedti one of Sudan’s wealthiest and most powerful figures. Alkhaleej plays a crucial role in those operations, offering a direct or indirect financial lifeline to the RSF.  As a key financier and facilitator of the RSF and its armed attacks and actions, Alkhaleej Bank Co Ltd is therefore engaging directly or indirectly in providing support to, or benefitting from, actions or policies that threaten the peace, stability or security of Sudan. </td><td>18.7.2025</td></tr>
+<tr><td>8.</td><td>Red Rock Mining Company a.k.a. Red Rock Ltd </td><td> Address: Blok 9, Kafory, Khartoum, Sudan <br> Telephone: + 249 1203 47711 <br> Website: https://redrockmining.co/contact-us/# <br> Email: corporate@redrockmining.net <br> info@redrocksd.com <br> Type of entity: mining company <br> Date of registration: 1960s <br> Principal place of business: United Arab Emirates   <br> Address: Office 320, Emarat Atrium Building, Business Bay, Dubai, United Arab Emirates <br> Associated individuals or entities: SMT Engineering </td><td>Red Rock Mining Company is a mining and exploration company. Its parent company is SMT Engineering (SMT), which is subject to restrictive measures by the Union, the United States and the United Kingdom. SMT is a major joint shareholder, along with the Defense Industries System (DIS), in three companies involved in the production of weapons and vehicles for the Sudanese Armed Forces (SAF). The mining sector is of particular importance for the fuelling of conflict. Mining areas are often linked to war zones and represent strategically important sites to conquer for the conflict parties, increasing competition and tensions. Red Rock Mining Company is present and active in Sudan. It further holds a concession near al Damazin, which was taken over by the SAF in 2012.  Red Rock Mining Company provides funding to the armed groups behind the Sudanese conflict, most prominently to the SAF. Red Rock Mining Company has a 99 % shareholding in Advanced Mining Works, which is part of the multi-sectoral network of corporations and shareholdings headed by the parent company GIAD. GIAD is involved, among others, in the production of weapons and vehicles for SAF, as well as in the provision of services. The GIAD conglomerate is controlled by the SAF via the DIS.  Red Rock Mining Company is therefore an entity providing support to actions or policies that threaten the peace, stability and security of Sudan. It is also associated with designated individuals and entities. </td><td>18.7.2025</td></tr>
+</tbody>
+</table>
+
+## ANNEX II — Websites for information on the competent authorities and address for notifications to the Commission
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+## ANNEX III — LIST OF GOODS AS REFERRED TO IN ARTICLE 1A
+
+|  | CN code | Description |
+| --- | --- | --- |
+|  | 7108 | Gold (including gold plated with platinum), unwrought or in semi-manufactured forms, or in powder form |
+|  | 7112 91 | Waste and scrap of gold, including metal clad with gold but excluding sweepings containing other precious metals |
+| ex | 7118 90 | Gold coins |
+
+## ANNEX IV — LIST OF GOODS AS REFERRED TO IN ARTICLE 1B
+
+|  | CN code | Description |
+| --- | --- | --- |
+|  | 2805 40 | Mercury |
+|  | 2837 11 | Cyanides and cyanide oxides of sodium |
+
+( 1 ) Regulation (EU) 2021/821 of the European Parliament and of the Council of 20 May 2021 setting up a Union regime for the control of exports, brokering, technical assistance, transit and transfer of dual-use items (OJ L 206, 11.6.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/821/oj).
+
+( 2 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 3 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+( 4 ) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+
+( 5 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).

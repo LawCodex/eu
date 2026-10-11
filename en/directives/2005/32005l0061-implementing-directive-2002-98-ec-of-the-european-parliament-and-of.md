@@ -278,6 +278,7 @@ Imputability level (NA, 0-3)
 
 Imputability levels to assess serious adverse reactions.
 
+<table>
 <tbody><tr><td colspan="2">Imputability level</td><td>Explanation</td></tr>
 <tr><td>NA</td><td>Not assessable</td><td>When there is insufficient data for imputability assessment.</td></tr>
 <tr><td rowspan="2">0</td><td>Excluded</td><td>When there is conclusive evidence beyond reasonable doubt for attributing the adverse reaction to alternative causes.</td></tr>
@@ -286,6 +287,7 @@ Imputability levels to assess serious adverse reactions.
 <tr><td>2</td><td>Likely, Probable</td><td>When the evidence is clearly in favour of attributing the adverse reaction to the blood or blood component.</td></tr>
 <tr><td>3</td><td>Certain</td><td>When there is conclusive evidence beyond reasonable doubt for attributing the adverse reaction to the blood or blood component.</td></tr>
 </tbody>
+</table>
 
 **PART C**
 
@@ -325,6 +327,7 @@ Reporting establishment
 
 Reporting period
 
+<table>
 <tbody><tr><td colspan="2" rowspan="3">This Table refers to<table><tbody><tr><td></td><td>[ ] Whole blood</td></tr>
 </tbody>
 </table>
@@ -377,6 +380,7 @@ Reporting period
 <tr><td colspan="2" rowspan="2">Other serious reactions (specify)</td><td>Total</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Deaths</td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 
@@ -394,6 +398,7 @@ Reporting date (year/month/day)
 
 Date of serious adverse event (year/month/day)
 
+<table>
 <tbody><tr><td rowspan="2">Serious adverse event, which may affect quality and safety of blood component due to a deviation in:</td><td colspan="4">Specification</td></tr>
 <tr><td>Product defect</td><td>Equipment failure</td><td>Human error</td><td>Other (specify) </td></tr>
 <tr><td>Whole blood collection</td><td></td><td></td><td></td><td></td></tr>
@@ -405,6 +410,7 @@ Date of serious adverse event (year/month/day)
 <tr><td>Materials</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Others (specify)</td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **PART B**
 
@@ -433,6 +439,7 @@ Reporting establishment
 
 Total number of blood and blood components processed:
 
+<table>
 <tbody><tr><td rowspan="2">Serious adverse event, affecting quality and safety of blood component due to a deviation in:</td><td rowspan="2">Total number</td><td colspan="4">Specification</td></tr>
 <tr><td>Product defect</td><td>Equipment failure</td><td>Human error</td><td>Other (specify) </td></tr>
 <tr><td>Whole blood collection</td><td></td><td></td><td></td><td></td><td></td></tr>
@@ -444,3 +451,4 @@ Total number of blood and blood components processed:
 <tr><td>Materials</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Others (specify)</td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>

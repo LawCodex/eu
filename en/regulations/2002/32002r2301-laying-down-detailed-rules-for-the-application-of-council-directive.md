@@ -1,0 +1,65 @@
+---
+title: "Commission Regulation (EC) No 2301/2002 of 20 December 2002 laying down detailed rules for the application of Council Directive 1999/105/EC as regards the definition of small quantities of seed"
+identifier: "32002R2301"
+eli: "http://data.europa.eu/eli/reg/2002/2301/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2002-12-20
+entry_into_force: 2002-01-26
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32002R2301"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 2301/2002 of 20 December 2002 laying down detailed rules for the application of Council Directive 1999/105/EC as regards the definition of small quantities of seed
+
+Commission Regulation (EC) No 2301/2002
+
+of 20 December 2002
+
+laying down detailed rules for the application of Council Directive 1999/105/EC as regards the definition of small quantities of seed
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Directive 1999/105/EC of 22 December 1999 on the marketing of forest reproductive material(1), and in particular Article 14(4) thereof,
+
+Whereas:
+
+(1) In accordance with Directive 1999/105/EC the supplier's label or document must include information about the germination percentage and the number of germinable seeds of the reproductive material. However, these requirements do not apply to small quantities of seeds.
+
+(2) The thresholds for small quantities should therefore be determined.
+
+(3) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Seeds and Propagating Material for Agriculture, Horticulture and Forestry,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+For the purposes of Article 14 of Directive 1999/105/EC a quantity of seed shall be considered as small if it does not exceed the amounts specified in the Annex to this Regulation for the different species.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Communities.
+
+It shall apply from 1 January 2003.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 20 December 2002.
+
+For the Commission
+
+David Byrne
+
+Member of the Commission
+
+(1) OJ L 11, 15.1.2000, p. 17.
+
+## ANNEX
+
+Small quantities
+
+>TABLE>

@@ -1,0 +1,528 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/2105 of 29 July 2022 laying down rules on conformity checks of marketing standards for olive oil and methods of analysis of the characteristics of olive oil"
+identifier: "32022R2105"
+eli: "http://data.europa.eu/eli/reg_impl/2022/2105/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-07-29
+entry_into_force: 2022-12-11
+last_amended: 2024-11-11
+consolidated_version: "02022R2105-20241111"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R2105-20241111"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/2105 of 29 July 2022 laying down rules on conformity checks of marketing standards for olive oil and methods of analysis of the characteristics of olive oil
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/2105**
+
+**of 29 July 2022**
+
+**laying down rules on conformity checks of marketing standards for olive oil and methods of analysis of the characteristics of olive oil**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2707 of 21 October 2024 </td><td> L 2707</td><td>1</td><td>22.10.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/2105**
+
+**of 29 July 2022**
+
+**laying down rules on conformity checks of marketing standards for olive oil and methods of analysis of the characteristics of olive oil**
+
+## Article 1 — Scope
+
+This Regulation lays down rules on:
+
+(a) the checks of conformity with marketing standards for the olive oils referred to in Article 2 of Delegated Regulation (EU) 2022/2104 and their implementation by operators;
+
+(b) the cooperation and assistance between competent authorities with regard to the conformity checks referred to in point (a);
+
+(c) the records to be kept by operators who produce or hold olive oil and the approval of packaging plants;
+
+(d) the methods of analysis for determining the characteristics of olive oil.
+
+## Article 2 — Obligations of Member States concerning conformity checks
+
+1\. Member States shall carry out conformity checks on olive oil to verify the implementation of the marketing standards laid down in Commission Delegated Regulation (EU) 2022/2104 on the basis of a risk analysis referred to in Article 3.
+
+2\. Member States shall verify that operators comply with their obligations under Article 5(1).
+
+3\. Each Member State shall notify the Commission, in accordance with Commission Delegated Regulation (EU) 2017/1183 ( 1 ) of the name and address of the authority or authorities competent to perform conformity checks in accordance with this Regulation. The Commission shall inform the other Member States and, on request, any interested party of those competent authorities. Member States shall inform the Commission about any changes as they occur.
+
+## Article 3 — Frequency of conformity checks and risk analysis
+
+1\. For the purposes of this Article, ‘olive oil marketed’ means the total quantity of olive oil that is made available on the market in a Member State and exported from that Member State.
+
+2\. Member States shall carry out at least one conformity check per year per thousand tonnes of olive oil marketed on their territory.
+
+3\. Member States shall ensure that conformity checks are carried out selectively, based on a risk analysis, and with appropriate frequency, to verify that the olive oil marketed corresponds to the category declared.
+
+4\. The criteria to assess the risk are in particular:
+
+(a) the category of olive oil within the meaning of Article 2 of Delegated Regulation (EU) 2022/2104, the period of production, its price as compared to other vegetable oils, the blending and packing operations, the storage facilities and conditions, the country of origin, the country of destination, the means of transport or the volume of the lot;
+
+(b) the position of the operators in the marketing chain, the volume and value marketed by them, the range of oil categories they place on the market, the type of business carried out such as milling, storage, refining, blending, packaging or retail sale;
+
+(c) findings made during previous checks including the number and type of defects found, the usual quality of olive oil marketed, the performance of technical equipment used;
+
+(d) the reliability of operators’ quality assurance systems or self-checking systems related to the conformity with marketing standards;
+
+(e) the place where the conformity check is carried out, in particular if it is the first point of entry into the Union, the last point of exit from the Union or the place where the oils are produced, packaged, loaded or sold to the final consumer;
+
+(f) any other information that might indicate a risk of non-compliance.
+
+5\. Member States shall lay down in advance:
+
+(a) the criteria for assessing the risk of non-conformity of lots;
+
+(b) on the basis of a risk analysis for each risk category, the minimum number of operators or lots and quantities which will be subject to a conformity check.
+
+6\. Where checks reveal significant irregularities, Member States shall increase the frequency of checks in relation to marketing stage, oil category, origin, or other criteria.
+
+## Article 4 — Cooperation between Member States with regard to conformity checks
+
+1\. If any irregularity is detected and the operator shown on the label is established in another Member State, the Member State concerned shall make a request for verification in accordance with Commission Implementing Regulation (EU) 2019/1715 ( 2 ) to the Member State in which the operator appearing on the label is established.
+
+2\. In addition to the requirements laid down in Article 16 of Implementing Regulation (EU) 2019/1715, the request referred to in paragraph 1 of this Article shall be accompanied by all information needed for the verification, and in particular:
+
+(a) the date of sampling or purchase of the olive oil in question;
+
+(b) the name or business name and address of the operator where the sample was taken or where the olive oil concerned was purchased;
+
+(c) the number of batches concerned;
+
+(d) a copy of all labels appearing on the packaging of the olive oil concerned;
+
+(e) the results of the analysis or of the other comparative expert opinions indicating the methods used and the name and address of the laboratory or expert;
+
+(f) where applicable, the name of the supplier of the olive oil in question as declared by the marketing outlet.
+
+3\. In addition to the requirements laid down in Article 22 of Implementing Regulation (EU) 2019/1715, the Member State to which the request is addressed, shall take samples at the latest before the end of the month following that of the request and verify the indications on the labelling concerned. It shall respond within 3 months from the date of the request.
+
+4\. When a sample of extra virgin olive oil fails to comply with the limit set for the median of organoleptic defects in Table A of Annex I to Delegated Regulation (EU) 2022/2104, the Member States concerned shall notify this as a non-compliance in accordance with Article 16 of Implementing Regulation (EU) 2019/1715, unless the national authorities suspect intentional action by businesses or individuals for the purpose of deceiving purchasers and gaining undue advantage therefrom.
+
+## Article 5 — Obligations of operators
+
+1\. For the purpose of conformity checks, operators from the mill and up to the bottling stage shall keep entry and withdrawal registers for each category of olive oil they hold.
+
+2\. At the request of the Member State in which the operator appearing on the label is established, the operator shall supply documentation with regard to the fulfilment of the requirements referred to in Articles 6, 8 and 10 of Delegated Regulation (EU) 2022/2104 based on one or more of the following elements:
+
+(a) factual elements or scientifically established facts;
+
+(b) results of analyses or automatic recordings taken on representative samples;
+
+(c) administrative or accounting information kept in accordance with Union and national rules.
+
+## Article 6 — Optional approval of packaging plants at national level
+
+1\. Member States shall have the possibility to approve packaging plants situated on their territory.
+
+2\. When they decide to make use of paragraph 1, Member States shall grant approval and allocate an alphanumeric identification to any packaging plant so requesting, which meets the following conditions:
+
+(a) possesses packaging facilities;
+
+(b) undertakes to collect and keep the documentation referred to in Article 5;
+
+(c) has a storage system which makes it possible to check the provenance of the olive oils for which the labelling of the place of origin is mandatory in accordance with Article 8(1) of Delegated Regulation (EU) 2022/2104.
+
+3\. When they decide to make use of paragraph 1, Member States shall notify the Commission of the relevant arrangements in accordance with Directive (EU) 2015/1535 of the European Parliament and of the Council ( 3 ).
+
+## Article 7 — Methods of analysis used for determining the characteristics of olive oils
+
+The characteristics of olive oils set out in Annex I to Commission Delegated Regulation (EU) 2022/2104 shall be determined in accordance with methods of analysis set out in Annex I to this Regulation.
+
+## Article 8 — Sampling for conformity checks
+
+1\. Samples for conformity checks shall be taken in accordance with international standards EN ISO 661 on the preparation of test samples and EN ISO 5555 on sampling. However, for batches of packaged olive oil, sampling shall be carried out in accordance with Annex II. In case of bulk oils for which the sampling cannot be performed in accordance with the EN ISO 5555 standard, the sampling shall be performed in accordance with instructions provided by the competent authority of the Member State.
+
+2\. Without prejudice to standard EN ISO 5555 and Chapter 6 of standard EN ISO 661, the samples taken shall be put as quickly as possible in a dark place, away from heat and sent to the laboratory for analysis no later than on the fifth working day after they are taken, otherwise the samples shall be kept in such a way that they will not be degraded or damaged during transport or storage before being sent to the laboratory.
+
+## Article 9 — Verification of the characteristics of olive oils
+
+1\. Member States shall verify compliance of the olive oils with the characteristics of olive oils set out in Annex I to Commission Delegated Regulation (EU) 2022/2104:
+
+(a) in any order; or
+
+(b) by following the order set out on the flow-chart in Annex III to this Regulation, until one of the decisions appearing in the flow-chart is reached.
+
+2\. For the purpose of the verification provided for in paragraph 1, the analyses for the determination of the acidity level, peroxide value, K232, K268 or K270, ΔΚ, fatty acid ethyl esters, waxes and the organoleptic characteristics, where applicable, any counter-analyses required under national law shall be carried out before the minimum durability date in case of packaged olive oil. In case of sampling of bulk oils, those analyses shall be carried out within 6 months after the month in which the sample was taken.
+
+3\. No time limit shall apply to the verification of other characteristics of olive oil set out in Annex I to Delegated Regulation (EU) 2022/2104.
+
+4\. For packaged olive oil, unless the sample was taken less than 2 months before the minimum durability date, if the results of the analyses do not match the characteristics of the category of olive oil declared, the operator from which the sample was taken shall be notified no later than one month before the minimum durability date.
+
+5\. For the purpose of determining the characteristics of olive oil by the methods set out in Annex I to this Regulation, the results of the analyses shall be directly compared with the limits set out in Annex I to Delegated Regulation (EU) 2022/2104, which take into account the repeatability and reproducibility of the analysis methods used.
+
+6\. The rules of this Article shall apply for each primary sample taken in accordance with Annex II.
+
+## Article 10 — Tasting panels
+
+1\. For the purpose of conformity checks, tasting panels, approved by Member States on their territory, shall assess the organoleptic characteristics of virgin olive oils set out in Annex I to Delegated Regulation (EU) 2022/2104 and shall report on those characteristics and on the category.
+
+2\. The terms of approval of tasting panels shall be set by Member States and ensure that:
+
+(a) the requirements of the method referred to in Annex I, point 5 for the determination of the organoleptic characteristics of virgin olive oil are met;
+
+(b) the panel leader is given training recognised for this purpose by the Member State;
+
+(c) continued approval depends on the performance at an annual review of the tasting panel by the Member State.
+
+3\. Member States shall notify the Commission, in accordance with Delegated Regulation (EU) 2017/1183, of the list of approved tasting panels on their territory and inform the Commission of any change to that list without delay.
+
+4\. Where no tasting panel on a Member State’s territory fulfils the terms of approval referred to in paragraph 2, the Member State shall call on a tasting panel approved in another Member State.
+
+## Article 11 — Verification of the organoleptic characteristics of virgin olive oils
+
+1\. The organoleptic characteristics of virgin olive oils set out in Annex I to Delegated Regulation (EU) 2022/2104 shall be deemed consistent with the declared category if a tasting panel approved by a Member State confirms the category.
+
+2\. Where the tasting panel does not confirm the declared category as regards the organoleptic characteristics, at the request of the operator subject to the control, the competent authorities shall have two counter-assessments carried out by other approved tasting panels without delay. At least one of the tasting panels shall be a panel approved by the Member State in which the olive oil was produced. The characteristics concerned shall be deemed consistent with the characteristics declared if the two counter-assessments confirm the declared category. If this is not the case, regardless of the type of defects determined during the counter-assessments, the declared category shall be declared inconsistent with the characteristics, and the operator subject to the control shall bear the costs of the counter-assessments.
+
+3\. When the oil is produced outside the Union, the two counter-analyses shall be carried out by two tasting panels different from the one that initially established the non-conformity.
+
+4\. When carrying out counter-assessments, tasting panels shall assess the olive oil in two separate tasting sessions. The results from the two sessions for the olive oil subject to the counter-assessment must be statistically homogenous. If not, the sample must be re-analysed again twice. The reported values of the organoleptic characteristics of the olive oil subject to the counter-assessment shall be calculated as the average of the values obtained for those characteristics in the two statistically homogenous sessions.
+
+## Article 12 — Oil content of oil cake and other residues
+
+1\. The oil content of oil cake and other residues resulting from the extraction of olive oil (CN codes 2306 90 11 and 2306 90 19 ) shall be determined using the method set out in Annex IV.
+
+2\. The oil content referred to in paragraph 1 shall be expressed as a percentage of the weight of oil to the weight of dry matter.
+
+## Article 13 — Penalties
+
+1\. Where it is found that the marketing standards laid down in Delegated Regulation (EU) 2022/2104 are not respected, Member States shall apply effective, proportionate and dissuasive penalties to be determined in the light of the seriousness of the irregularity detected.
+
+2\. By 31 May of each year, Member States shall notify the Commission, in accordance with Delegated Regulation (EU) 2017/1183, of the measures taken to that end and without delay of any amendments to those measures.
+
+## Article 14 — Reporting
+
+By 31 May of each year, Member States shall submit to the Commission a report in accordance with Delegated Regulation (EU) 2017/1183 on the implementation of this Regulation during the previous calendar year. The report shall contain at least the results of the conformity checks carried out on olive oil in accordance with the form set out in Annex V to this Regulation.
+
+## Article 15 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — METHODS OF ANALYSIS USED FOR DETERMINING THE CHARACTERISTICS OF OLIVE OILS
+
+|  | Characteristics of olive oils | IOC method to be used |
+| --- | --- | --- |
+| 1 | Acidity | COI/T.20/Doc. No 34 (Determination of free fatty acids, cold method) |
+| 2 | Peroxide value | COI/T.20/Doc. No 35 (Determination of peroxide value) |
+| 3 | 2-glyceryl monopalmitate | COI/T.20/Doc. No 23 (Determination of the percentage of 2-glyceryl monopalmitate) |
+| 4 | K232, K268 or K270, ΔΚ | COI/T.20/Doc. No 19 (Spectrophotometric investigation in the ultraviolet) |
+| 5 | Organoleptic characteristics | COI/T.20/Doc. No 15 (Sensory analysis of olive oil – Method for the organoleptic assessment of virgin olive oil) – except for its points 4.4 and 10.4 |
+| 6 | Fatty acid composition, including trans-isomers | COI/T.20/Doc. No 33 (Determination of fatty acid methyl esters by gas chromatography) |
+| 7 | Fatty acid ethyl esters, waxes | COI/T.20/Doc. No 28 (Determination of the content of waxes and fatty acid ethyl esters by capillary gas chromatography) |
+| 8 | Total sterols, sterol composition, erythrodiol, uvaol and aliphatic alcohols | COI/T.20/Doc. No 26 (Determination of the composition and content of sterols, triterpenic dialcohols and aliphatic alcohols by capillary gas chromatography) |
+| 9 | Stigmastadienes | COI/T-20/Doc. No 11 (Determination of stigmastadienes in vegetable oils) |
+| 10 | ΔΕCN42 | COI/T.20/Doc. No 20 (Determination of the difference between actual and theoretical content of triacyglycerols with ECN 42) |
+
+## ANNEX II
+
+**SAMPLING OF OLIVE OIL DELIVERED IN PACKAGES**
+
+This method of sampling is applied to batches of olive oil put up in packages. Different sampling methods apply, depending on whether the package exceeds 5 litres or not.
+
+For the purposes of this Annex, the following definitions apply:
+
+(a) ‘package’ means the container which is in direct contact with the olive oil;
+
+(b) ‘batch’ means a set of packages which are produced, manufactured and packed in circumstances such that the olive oil contained in each package is considered to be homogenous in terms of all analytical characteristics. The individuation of a batch must be done in accordance with Directive 2011/91/EU of the European Parliament and of the Council ( 4 );
+
+(c) ‘increment’ means the quantity of olive oil contained in a package of up to 5 litres or extracted from a package exceeding 5 litres, when packages are selected from a random point of the batch.
+
+**1\. CONTENT OF PRIMARY SAMPLE**
+
+**1.1. Primary samples for packages up to 5 litres**
+
+A primary sample for packages of up to 5 litres shall be constituted in accordance with Table 1.
+
+Table 1
+
+Primary sample minimum size must comprise the following:
+
+<table>
+<tbody><tr><td colspan="2">Where the packaging has a capacity of</td><td colspan="2">The primary sample must comprise the olive oil from</td></tr>
+<tr><td>(a)</td><td>750 ml or more</td><td>(a)</td><td>at least 1 package;</td></tr>
+<tr><td>(b)</td><td>less than 750 ml</td><td>(b)</td><td>the minimum number of packages with a total capacity of at least 750 ml</td></tr>
+</tbody>
+</table>
+
+The content of the primary sample must be homogenised before carrying out the different assessments and analyses.
+
+**1.2. Primary samples for packages exceeding 5 litres**
+
+Primary Sample for packages exceeding 5 litres shall be constituted from the total number of increments extracted from the minimum number of packages set out in Table 2. The packages shall be selected randomly from the batch. Once constituted, the primary sample shall be of sufficient volume to allow for the division in multiple units.
+
+Table 2
+
+Minimum number of packages to be selected randomly
+
+| Number of packages in the batch | Minimum number of packages to be selected |
+| --- | --- |
+| Up to 10 | 1 |
+| From … 11 to 150 | 2 |
+| From … 151 to 500 | 3 |
+| From … 501 to 1 500 | 4 |
+| From … 1 501 to 2 500 | 5 |
+| > 2 500 per 1 000 packages | 1 extra package |
+
+After homogenising the content of each package, the increment is extracted and poured into a common container for homogenisation by stirring, so that it will be best protected from air.
+
+The content of the primary sample must be poured into a series of packages of a minimum capacity of 1 litre, each one of which constitutes a unit of the primary sample. Each package unit must be filled in a way to minimise the air layer on top and then suitably closed and sealed to ensure the product is tamper-proof. These package units must be labelled to ensure correct identification.
+
+**2\. INCREASING THE NUMBER OF PRIMARY SAMPLES**
+
+2.1. The number of primary samples may be increased by each Member State, according to their own necessity.
+
+2.2. When checking the homogeneity of a batch, the competent authority may increase the number of primary samples according to the following table:
+
+Table 3
+
+Number of primary samples determined by the size of batch
+
+| Size of batch (litres) | Number of primary samples |
+| --- | --- |
+| Less than 7 500 | 2 |
+| From 7 500 to less than 25 000 | 3 |
+| From 25 000 to less than 75 000 | 4 |
+| From 75 000 to less than 125 000 | 5 |
+| Equal to and more than 125 000 | 6 + 1 for each 50 000 litres more |
+
+2.3. The formation of each primary sample must be carried out in accordance with the procedures referred to in points 1.1 and 1.2.
+
+2.4. When randomly selecting packages for increments, the packages selected for one primary sample must be contiguous to packages selected for another primary sample. It is necessary to take note of the location of each randomly selected package and to identify it unambiguously.
+
+**3\. ANALYSES AND RESULTS**
+
+3.1. Where all the results of the analyses for all primary samples comply with the characteristics of the category of olive oil declared, the whole batch is to be declared compliant.
+
+3.2. When one of the results of the analyses of at least one primary sample does not comply with the characteristics of the declared category of olive oil, the whole sampling batch shall be declared non-compliant.
+
+## ANNEX III
+
+**FLOW-CHART FOR VERIFYING WHETHER AN OLIVE OIL SAMPLE IS CONSISTENT WITH THE CATEGORY DECLARED**
+
+**General table**
+
+[image]
+
+**Table 1**
+
+**Extra virgin olive oil — Quality criteria**
+
+[image]
+
+**Table 2**
+
+**Virgin olive oil — Quality criteria**
+
+[image]
+
+**Table 3**
+
+**Extra virgin olive oil and virgin olive oil — Purity criteria**
+
+[image] ►(1)(2)(3)(4)(5)(6) C1
+
+**Table 4**
+
+**Lampante olive oil — Purity criteria**
+
+[image] ►(1)(2)(3)(4)(5)(6) C1
+
+**Table 5**
+
+**Refined olive oil — Quality criteria**
+
+[image]
+
+**Table 6**
+
+**Olive oil (composed of refined olive oil and virgin olive oils) — Quality criteria**
+
+[image]
+
+**Table 7**
+
+**Refined olive oil and olive oil composed of refined olive oil and virgin olive oils — Purity criteria**
+
+[image] ►(1)(2)(3)(4) C1
+
+**Table 8**
+
+**Crude olive-pomace-oil — Purity criteria**
+
+[image] ►(1)(2)(3)(4) C1
+
+**Table 9**
+
+**Refined olive-pomace-oil — Quality criteria**
+
+[image]
+
+**Table 10**
+
+**Olive-pomace oil — Quality criteria**
+
+[image]
+
+**Table 11**
+
+**Refined olive-pomace oil and olive-pomace oil — Purity criteria**
+
+[image] ►(1)(2)(3)(4) C1
+
+## ANNEX IV
+
+**Method for measuring the oil content in olive cake and residues**
+
+**1\. MATERIALS**
+
+**1.1. Apparatus**
+
+— suitable extraction apparatus fitted with a 200 to 250 ml round-bottomed flask,
+
+— electrically heated bath (e.g. sand bath, water bath) or hotplate,
+
+— analytical balance,
+
+— oven regulated to a maximum of 80 °C,
+
+— electrically heated oven fitted with a thermostatic device regulated to 103 ± 2 °C and one that can be swept with a stream of air or operated at reduced pressure,
+
+— mechanical mill, easy to clean, and one that allows the olive residues to be ground without a rise in their temperature or any appreciable alteration in their content of moisture, volatile matter or substances extractable with hexane,
+
+— extraction thimble and cotton wool or filter paper from which substances extractable with hexane have already been removed,
+
+— desiccator,
+
+— sieve with 1 mm diameter apertures,
+
+— small particles of previously dried pumice stone.
+
+**1.2. Reagent**
+
+Normal hexane, technical grade, which must leave a residue of less than 0,002 g per 100 ml, on complete evaporation.
+
+**2\. PROCEDURE**
+
+**2.1. Preparation of the test sample**
+
+If necessary, use the mechanical mill, which has previously been properly cleaned, to grind the laboratory sample in order to reduce it to particles that can pass completely through the sieve.
+
+Use about one twentieth of the sample to complete the process of cleaning the mill, discard the ground material, grind the remainder and collect, mix carefully and analyse without delay.
+
+**2.2. Test portion**
+
+As soon as the grinding operation has been completed, weigh out about 10 g of the sample to the nearest 0,01 g for testing.
+
+**2.3. Preparation of the extraction thimble**
+
+Place the test portion in the thimble and plug with cotton wool. If a filter paper is used, envelope the test portion in it.
+
+**2.4. Preliminary drying**
+
+If the olive residues are very moist (i.e. moisture and volatile matter content more than 10 %), carry out preliminary drying by placing the loaded thimble (or filter paper) in the oven heated for an appropriate time at not more than 80 °C in order to reduce the moisture and volatile matter content to less than 10 %.
+
+**2.5. Preparation of the round-bottomed flask**
+
+Weigh to the nearest 1 mg the flask containing one or two particles of pumice stone, previously dried in the stove at 103 ± 2 °C and then cooled in a desiccator for not less than one hour.
+
+**2.6. Initial extraction**
+
+Into the extraction apparatus insert the thimble (or filter paper) containing the test portion. Pour into the flask the requisite quantity of hexane. Fit the flask to the extraction apparatus and place the whole on the electrically heated bath. Adjust the rate of heating in such a way that the reflux rate is not less than three drops per second (moderate, not violent boiling). After four hours extraction, allow to cool. Remove the thimble from the extraction apparatus and place it in a stream of air in order to drive off most of the impregnating solvent.
+
+**2.7. Second extraction**
+
+Tip the contents of the thimble into the micro-grinder and grind as finely as possible. Return the ground mixture to the thimble without loss and place it back in the extraction apparatus.
+
+Continue the extraction for a further two hours using the same round-bottomed flask containing the initial extract.
+
+The resultant solution in the extraction flask must be clear. If not, filter it through a filter paper and wash the original flask and the filter paper several times with hexane. Collect the filtrate and the washing solvent in a second round-bottomed flask which has been dried and tared to the nearest 1 mg.
+
+**2.8. Removal of solvent and weighing of extract**
+
+Remove the greater part of the solvent by distillation on an electrically heated bath. Remove the last traces of solvent by heating the flask in the oven at 103 ± 2 °C for 20 minutes. Assist the elimination process either by blowing in air, or preferably an inert gas, at intervals or by using reduced pressure.
+
+Leave the flask in a desiccator to cool for at least one hour and weigh to the nearest 1 mg.
+
+Heat again for 10 minutes under the same conditions, cool in a desiccator and reweigh.
+
+The difference between the two weightings shall not exceed 10 mg. If it does, heat again for periods of 10 minutes followed by cooling and weighing until the weight difference is 10 mg or less. Note the last weight of the flask.
+
+Carry out duplicate determinations on the test sample.
+
+**3\. EXPRESSION OF RESULTS**
+
+**3.1. Method of calculation and formula**
+
+(a) The extract expressed as a percentage by mass of the product as received is equal to:
+
+[image]
+
+where:
+
+| S | = | is the percentage by mass of extract of the product as received, |
+| --- | --- | --- |
+
+| m0 | = | is the mass, in grams, of the test portion, |
+| --- | --- | --- |
+
+| m1 | = | is the mass, in grams, of the extract after drying. |
+| --- | --- | --- |
+
+Take as the result the arithmetic mean of the duplicate determinations, providing the repeatability conditions are satisfied.
+
+Express the result to the first decimal place.
+
+(b) The extract is expressed on a dry matter basis by using the formula:
+
+[image]
+
+where:
+
+| S | = | is the percentage of extract by means of the product as received (see point (a)), |
+| --- | --- | --- |
+
+| U | = | is its moisture and volatile matter content. |
+| --- | --- | --- |
+
+**3.2. Repeatability**
+
+The difference between the duplicate determinations carried out simultaneously or in rapid succession by the same analyst shall not exceed 0,2 g of hexane extract per 100 g of sample.
+
+If this condition is not satisfied, repeat the analysis on two other test portions. If, in this case too, the difference exceeds 0,2 g, take as the result the arithmetic mean of the four determinations.
+
+## ANNEX V
+
+Form for reporting results of conformity checks referred to in Article 14 in conformity with Commission Delegated Regulation (EU) 2017/1183
+
+<table>
+<tbody><tr><td colspan="4">  </td><td colspan="6">Labelling</td><td colspan="3">Chemical parameters</td><td colspan="3">Organoleptic characteristics(4)</td><td colspan="2">Final conclusion</td></tr>
+<tr><td>Sample</td><td>Category</td><td>Country of origin</td><td>Place of inspection(1)</td><td>Legal name</td><td>Place of origin</td><td>Storage conditions</td><td>Erroneous information</td><td>Legibility</td><td>C/NC(3)</td><td>Parameters out of limit Y/N </td><td>If so, please indicate which one(s)(2)</td><td>C/NC(3)</td><td>Median defect</td><td>Fruity Median</td><td>C/NC(3)</td><td>Required action</td><td>Sanction</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="18">(1)  Internal market (mill, bottlers, retail stage), export, import.  (2)  Each characteristic of olive oil set out in Annex I to Commission Delegated Regulation (EU) 2022/2104 shall have a code.  (3)  Conform/not conform.  (4)  Required only for virgin olive oils within the meaning of Part VIII, point 1, of Annex VII to Regulation (EU) No 1308/2013 </td></tr>
+</tbody>
+</table>
+
+( 1 ) Commission Delegated Regulation (EU) 2017/1183 of 20 April 2017 on supplementing Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council with regard to the notifications to the Commission of information and documents (OJ L 171, 4.7.2017, p. 100).
+
+( 2 ) Commission Implementing Regulation (EU) 2019/1715 of 30 September 2019 laying down rules for the functioning of the information management system for official controls and its system components (the IMSOC Regulation) (OJ L 261, 14.10.2019, p. 37).
+
+( 3 ) Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).
+
+( 4 ) Directive 2011/91/EU of the European Parliament and of the Council of 13 December 2011 on indications or marks identifying the lot to which a foodstuff belongs (OJ L 334, 16.12.2011, p. 1).

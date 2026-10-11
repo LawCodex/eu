@@ -1,0 +1,5694 @@
+---
+title: "Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance)"
+identifier: "32019R0006"
+eli: "http://data.europa.eu/eli/reg/2019/6/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2018-12-11
+entry_into_force: 2019-10-20
+last_amended: 2022-01-28
+consolidated_version: "02019R0006-20220128"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0006-20220128"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (Text with EEA relevance)
+
+**REGULATION (EU) 2019/6 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 December 2018**
+
+**on veterinary medicinal products and repealing Directive 2001/82/EC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/805 of 8 March 2021 </td><td> L 180</td><td>3</td><td>21.5.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/183 of 23 November 2022 </td><td> L 26</td><td>7</td><td>30.1.2023</td></tr>
+</table>
+
+**REGULATION (EU) 2019/6 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 11 December 2018**
+
+**on veterinary medicinal products and repealing Directive 2001/82/EC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+#### Article 1 — Subject matter
+
+This Regulation lays down rules for the placing on the market, manufacturing, import, export, supply, distribution, pharmacovigilance, control and use of veterinary medicinal products.
+
+#### Article 2 — Scope
+
+1\. This Regulation shall apply to veterinary medicinal products prepared industrially or by a method involving an industrial process and intended to be placed on the market.
+
+2\. In addition to the products referred to in paragraph 1 of this Article, Articles 94 and 95 shall also apply to active substances used as starting materials in veterinary medicinal products.
+
+3\. In addition to the products referred to in paragraph 1 of this Article, Articles 94, 105, 108, 117, 120, 123 and 134 shall also apply to inactivated immunological veterinary medicinal products which are manufactured from pathogens and antigens obtained from an animal or animals in an epidemiological unit and used for the treatment of that animal or those animals in the same epidemiological unit or for the treatment of an animal or animals in a unit having a confirmed epidemiological link.
+
+4\. By way of derogation from paragraphs 1 and 2 of this Article, only Articles 55, 56, 94, 117, 119, 123, 134 and Section 5 of Chapter IV shall apply to veterinary medicinal products authorised in accordance with Article 5(6).
+
+5\. By way of derogation from paragraph 1 of this Article, Articles 5 to 15, 17 to 33, 35 to 54, 57 to 72, 82 to 84, 95, 98, 106, 107, 110, 112 to 116, 128, 130 and 136 shall not apply to homeopathic veterinary medicinal products which are registered in accordance with Article 86.
+
+6\. In addition to the products referred to in paragraph 1 of this Article, Chapter VII shall also apply to:
+
+(a) substances that have anabolic, anti-infectious, antiparasitic, anti-inflammatory, hormonal, narcotic or psychotropic properties and that may be used in animals;
+
+(b) veterinary medicinal products prepared in a pharmacy or by a person permitted to do so under national law, in accordance with a veterinary prescription for an individual animal or a small group of animals (‘magistral formula’);
+
+(c) veterinary medicinal products prepared in a pharmacy in accordance with the directions of a pharmacopoeia and intended to be supplied directly to the end-user (‘officinal formula’). Such officinal formula shall be subject to a veterinary prescription when intended for food-producing animals.
+
+7\. This Regulation shall not apply to:
+
+(a) veterinary medicinal products containing autologous or allogeneic cells or tissues that have not been subjected to an industrial process;
+
+(b) veterinary medicinal products based on radio-active isotopes;
+
+(c) feed additives as defined in point (a) of Article 2(2) of Regulation (EC) No 1831/2003 of the European Parliament and of the Council ( 1 );
+
+(d) veterinary medicinal products intended for research and development;
+
+(e) medicated feed and intermediate products as defined in points (a) and (b) of Article 3(2) of Regulation (EU) 2019/4.
+
+8\. This Regulation shall, except as regards the centralised marketing authorisation procedure, be without prejudice to national provisions on fees.
+
+9\. Nothing in this Regulation shall prevent a Member State from maintaining or introducing on its territory any national control measure it deems appropriate regarding narcotic and psychotropic substances.
+
+#### Article 3 — Conflict of laws
+
+1\. Where a veterinary medicinal product referred to in Article 2(1) of this Regulation also falls within the scope of Regulation (EU) No 528/2012 of the European Parliament and of the Council ( 2 ) or Regulation (EC) No 1831/2003, and there is a conflict between this Regulation and Regulation (EU) No 528/2012 or Regulation (EC) No 1831/2003, this Regulation shall prevail.
+
+2\. For the purpose of paragraph 1 of this Article, the Commission may, by means of implementing acts, adopt decisions on whether a specific product or group of products is to be considered as a veterinary medicinal product. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+#### Article 4 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘veterinary medicinal product’ means any substance or combination of substances which fulfils at least one of the following conditions:
+
+(a) it is presented as having properties for treating or preventing disease in animals;
+
+(b) its purpose is to be used in, or administered to, animals with a view to restoring, correcting or modifying physiological functions by exerting a pharmacological, immunological or metabolic action;
+
+(c) its purpose is to be used in animals with a view to making a medical diagnosis;
+
+(d) its purpose is to be used for euthanasia of animals;
+
+(2) ‘substance’ means any matter of the following origin:
+
+(a) human;
+
+(b) animal;
+
+(c) vegetable;
+
+(d) chemical;
+
+(3) ‘active substance’ means any substance or mixture of substances intended to be used in the manufacture of a veterinary medicinal product that, when used in its production, becomes an active ingredient of that product;
+
+(4) ‘excipient’ means any constituent of a veterinary medicinal product other than an active substance or packaging material;
+
+(5) ‘immunological veterinary medicinal product’ means a veterinary medicinal product intended to be administered to an animal in order to produce active or passive immunity or to diagnose its state of immunity;
+
+(6) ‘biological veterinary medicinal product’ means a veterinary medicinal product where an active substance is a biological substance;
+
+(7) ‘biological substance’ means a substance that is produced by or extracted from a biological source and that needs for its characterisation and the determination of its quality a combination of physico-chemical-biological testing, together with knowledge of the production process and its control;
+
+(8) ‘reference veterinary medicinal product’ means a veterinary medicinal product authorised in accordance with Article 44, 47, 49, 52, 53 or 54 as referred to in Article 5(1) on the basis of an application submitted in accordance with Article 8;
+
+(9) ‘generic veterinary medicinal product’ means a veterinary medicinal product which has the same qualitative and quantitative composition of active substances and the same pharmaceutical form as the reference veterinary medicinal product, and with regard to which bioequivalence with the reference veterinary medicinal product has been demonstrated;
+
+(10) ‘homeopathic veterinary medicinal product’ means a veterinary medicinal product prepared from homeopathic stocks in accordance with a homeopathic manufacturing procedure described by the European Pharmacopoeia or, in the absence thereof, by the pharmacopoeias used officially in Member States;
+
+(11) ‘antimicrobial resistance’ means the ability of micro-organisms to survive or to grow in the presence of a concentration of an antimicrobial agent which is usually sufficient to inhibit or kill micro-organisms of the same species;
+
+(12) ‘antimicrobial’ means any substance with a direct action on micro-organisms used for treatment or prevention of infections or infectious diseases, including antibiotics, antivirals, antifungals and anti-protozoals;
+
+(13) ‘antiparasitic’ means a substance that kills or interrupts the development of parasites, used for the purpose of treating or preventing an infection, infestation or disease caused or transmitted by parasites, including substances with a repelling activity;
+
+(14) ‘antibiotic’ means any substance with a direct action on bacteria that is used for treatment or prevention of infections or infectious diseases;
+
+(15) ‘metaphylaxis’ means the administration of a medicinal product to a group of animals after a diagnosis of clinical disease in part of the group has been established, with the aim of treating the clinically sick animals and controlling the spread of the disease to animals in close contact and at risk and which may already be subclinically infected;
+
+(16) ‘prophylaxis’ means the administration of a medicinal product to an animal or group of animals before clinical signs of a disease, in order to prevent the occurrence of disease or infection;
+
+(17) ‘clinical trial’ means a study which aims to examine under field conditions the safety or efficacy of a veterinary medicinal product under normal conditions of animal husbandry or as part of normal veterinary practice for the purpose of obtaining a marketing authorisation or a change thereof;
+
+(18) ‘pre-clinical study’ means a study not covered by the definition of clinical trial which aims to investigate the safety or efficacy of a veterinary medicinal product for the purpose of obtaining a marketing authorisation or a change thereof;
+
+(19) ‘benefit-risk balance’ means an evaluation of the positive effects of the veterinary medicinal product in relation to the following risks relating to the use of that product:
+
+(a) any risk relating to the quality, safety and efficacy of the veterinary medicinal products as regards animal or human health;
+
+(b) any risk of undesirable effects on the environment;
+
+(c) any risk relating to the development of resistance;
+
+(20) ‘common name’ means the international non-proprietary name recommended by the World Health Organization (WHO) for a substance or, if one does not exist, the name generally used;
+
+(21) ‘name of the veterinary medicinal product’ means either an invented name not liable to confusion with the common name, or a common or scientific name accompanied by a trademark or the name of the marketing authorisation holder;
+
+(22) ‘strength’ means the content of active substances in a veterinary medicinal product, expressed quantitatively per dosage unit, per unit of volume or per unit of weight according to the pharmaceutical form;
+
+(23) ‘competent authority’ means an authority designated by a Member State in accordance with Article 137;
+
+(24) ‘labelling’ means information on the immediate packaging or the outer packaging;
+
+(25) ‘immediate packaging’ means the container or any other form of packaging that is in direct contact with the veterinary medicinal product;
+
+(26) ‘outer packaging’ means packaging in which the immediate packaging is placed;
+
+(27) ‘package leaflet’ means a documentation leaflet on a veterinary medicinal product which contains information to ensure its safe and efficacious use;
+
+(28) ‘letter of access’ means an original document, signed by the data owner or its representative, which states that the data may be used for the benefit of the applicant in relation to the competent authorities, the European Medicines Agency established by Regulation (EC) No 726/2004 (‘the Agency’) or the Commission for the purposes of this Regulation;
+
+(29) ‘limited market’ means a market for one of the following medicinal product types:
+
+(a) veterinary medicinal products for the treatment or prevention of diseases that occur infrequently or in limited geographical areas;
+
+(b) veterinary medicinal products for animal species other than cattle, sheep for meat production, pigs, chickens, dogs and cats;
+
+(30) ‘pharmacovigilance’ means the science and activities relating to the detection, assessment, understanding and prevention of suspected adverse events or any other problem related to a medicinal product;
+
+(31) ‘pharmacovigilance system master file’ means a detailed description of the pharmacovigilance system used by the marketing authorisation holder with respect to one or more authorised veterinary medicinal products;
+
+(32) ‘control’ means any task performed by a competent authority for the verification of compliance with this Regulation;
+
+(33) ‘veterinary prescription’ means a document issued by a veterinarian for a veterinary medicinal product or a medicinal product for human use for its use in animals;
+
+(34) ‘withdrawal period’ means the minimum period between the last administration of a veterinary medicinal product to an animal and the production of foodstuffs from that animal which under normal conditions of use is necessary to ensure that such foodstuffs do not contain residues in quantities harmful to public health;
+
+(35) ‘placing on the market’ means the first making available of a veterinary medicinal product on the whole of the Union market or in one or more Member States, as applicable;
+
+(36) ‘wholesale distribution’ means all activities consisting of procuring, holding, supplying or exporting veterinary medicinal products whether for profit or not, apart from retail supply of veterinary medicinal products to the public;
+
+(37) ‘aquatic species’ mean species referred to in point (3) of Article 4 of Regulation (EU) 2016/429 of the European Parliament and of the Council ( 3 );
+
+(38) ‘food-producing animals’ mean food-producing animals as defined in point (b) of Article 2 of Regulation (EC) No 470/2009;
+
+(39) ‘variation’ means a change to the terms of the marketing authorisation for a veterinary medicinal product as referred to in Article 36;
+
+(40) ‘advertising of veterinary medicinal products’ means the making of a representation in any form in connection with veterinary medicinal products in order to promote the supply, distribution, sale, prescription or use of veterinary medicinal products and comprising also the supply of samples and sponsorships;
+
+(41) ‘signal management process’ means a process for performing active surveillance of pharmacovigilance data for veterinary medicinal products in order to assess the pharmacovigilance data and determine whether there is any change to the benefit-risk balance of those veterinary medicinal products, with a view to detecting risks to animal or public health or protection of the environment;
+
+(42) ‘potential serious risk to human or animal health or to the environment’ means a situation where there is a significantly high probability that a serious hazard resulting from the use of a veterinary medicinal product will affect human or animal health or the environment;
+
+(43) ‘novel therapy veterinary medicinal product’ means:
+
+(a) a veterinary medicinal product specifically designed for gene therapy, regenerative medicine, tissue engineering, blood product therapy, phage therapy;
+
+(b) a veterinary medicinal product issued from nanotechnologies; or
+
+(c) any other therapy which is considered as a nascent field in veterinary medicine;
+
+(44) ‘epidemiological unit’ means an epidemiological unit as defined in point (39) of Article 4 of Regulation (EU) 2016/429.
+
+## CHAPTER II — MARKETING AUTHORISATIONS – GENERAL PROVISIONS AND RULES ON APPLICATIONS
+
+### Section 1 — General provisions
+
+#### Article 5 — Marketing authorisations
+
+1\. A veterinary medicinal product shall be placed on the market only when a competent authority or the Commission, as applicable, has granted a marketing authorisation for that product in accordance with Article 44, 47, 49, 52, 53 or 54.
+
+2\. A marketing authorisation for a veterinary medicinal product shall be valid for an unlimited period of time.
+
+3\. Decisions to grant, refuse, suspend, revoke or amend by way of a variation a marketing authorisation shall be made public.
+
+4\. A marketing authorisation for a veterinary medicinal product shall only be granted to an applicant established in the Union. The requirement to be established in the Union shall also apply to marketing authorisation holders.
+
+5\. A marketing authorisation for a veterinary medicinal product intended for one or more food-producing animal species may only be granted if the pharmacologically active substance is allowed in accordance with Regulation (EC) No 470/2009 and any acts adopted on the basis thereof for the animal species concerned.
+
+6\. In the case of veterinary medicinal products intended for animals which are exclusively kept as pets: aquarium or pond animals, ornamental fish, cage birds, homing pigeons, terrarium animals, small rodents, ferrets and rabbits, Member States may allow exemptions from this Article, provided that such veterinary medicinal products are not subject to a veterinary prescription and that all necessary measures are in place in the Member State to prevent unauthorised use of those veterinary medicinal products for other animals.
+
+#### Article 6 — Submission of applications for marketing authorisations
+
+1\. Applications for marketing authorisations shall be submitted to the competent authority where they concern the granting of marketing authorisations in accordance with any of the following procedures:
+
+(a) the national procedure laid down in Articles 46 and 47;
+
+(b) the decentralised procedure laid down in Articles 48 and 49;
+
+(c) the mutual recognition procedure laid down in Articles 51 and 52;
+
+(d) the subsequent recognition procedure laid down in Article 53.
+
+2\. Applications for marketing authorisations shall be submitted to the Agency where they concern the granting of marketing authorisations in accordance with the centralised marketing authorisation procedure laid down in Articles 42 to 45.
+
+3\. Applications referred to in paragraphs 1 and 2 shall be submitted electronically and the formats made available by the Agency shall be used.
+
+4\. The applicant shall be responsible for the accuracy of the information and documentation submitted with respect to its application.
+
+5\. Within 15 days of receipt of the application, the competent authority or the Agency, as applicable, shall notify the applicant as to whether all the information and documentation required in accordance with Article 8 have been submitted and whether the application is valid.
+
+6\. Where the competent authority or the Agency, as applicable, considers that the application is incomplete, it shall inform the applicant accordingly and shall set a time limit for submitting the missing information and documentation. If the applicant fails to provide the missing information and documentation within the time limit set, the application shall be considered to have been withdrawn.
+
+7\. If the applicant fails to provide a complete translation of the required documentation within a period of six months after having received the information referred to in Article 49(7), 52(8) or 53(2), the application shall be considered to have been withdrawn.
+
+#### Article 7 — Languages
+
+1\. The language or languages of the summary of the product characteristics and the information on the labelling and on the package leaflet shall, unless the Member State determines otherwise, be an official language or languages of the Member State where the veterinary medicinal product is made available on the market.
+
+2\. Veterinary medicinal products may be labelled in several languages.
+
+### Section 2 — Dossier requirements
+
+#### Article 8 — Data to be submitted with the application
+
+1\. An application for a marketing authorisation shall contain the following:
+
+(a) the information set out in Annex I;
+
+(b) technical documentation necessary for demonstrating the quality, safety and efficacy of the veterinary medicinal product in accordance with the requirements set out in Annex II;
+
+(c) a summary of the pharmacovigilance system master file.
+
+2\. Where the application concerns an antimicrobial veterinary medicinal product, the following shall be submitted in addition to the information, technical documentation and summary listed in paragraph 1:
+
+(a) documentation on the direct or indirect risks to public or animal health or to the environment of use of the antimicrobial veterinary medicinal product in animals;
+
+(b) information about risk mitigation measures to limit antimicrobial resistance development related to the use of the veterinary medicinal product.
+
+3\. Where the application concerns a veterinary medicinal product intended for food-producing animals and containing pharmacologically active substances that are not allowed in accordance with Regulation (EC) No 470/2009 and with any acts adopted on the basis thereof for the animal species concerned, a document certifying that a valid application for the establishment of maximum residue limits has been submitted to the Agency in accordance with that Regulation shall be submitted in addition to the information, technical documentation and summary listed in paragraph 1 of this Article.
+
+4\. Paragraph 3 of this Article shall not apply to veterinary medicinal products intended for animals of the equine species that have been declared as not being intended for slaughter for human consumption in the single lifetime identification document referred to in point (c) of Article 114(1) of Regulation (EU) 2016/429 and in any acts adopted on the basis thereof and the active substances contained in those veterinary medicinal products are not allowed in accordance with Regulation (EC) No 470/2009 or with any acts adopted on the basis thereof.
+
+5\. Where the application concerns a veterinary medicinal product containing or consisting of genetically modified organisms within the meaning of Article 2 of Directive 2001/18/EC of the European Parliament and of the Council ( 4 ), the application shall, in addition to the information, technical documentation and summary listed in paragraph 1 of this Article, be accompanied by:
+
+(a) a copy of the written consent of the competent authorities to the deliberate release into the environment of the genetically modified organisms for research and development purposes, as provided for in Part B of Directive 2001/18/EC;
+
+(b) the complete technical file supplying the information required under Annexes III and IV to Directive 2001/18/EC;
+
+(c) the environmental risk assessment in accordance with the principles set out in Annex II to Directive 2001/18/EC; and
+
+(d) the results of any investigations performed for the purposes of research or development.
+
+6\. Where the application is submitted in accordance with the national procedure set out in Articles 46 and 47, the applicant shall, in addition to the information, technical documentation and summary listed in paragraph 1 of this Article, submit a declaration stating that he or she has not submitted an application for a marketing authorisation for the same veterinary medicinal product in another Member State or in the Union and, if applicable, that no such marketing authorisation has been granted in another Member State or in the Union.
+
+### Section 3 — Clinical trials
+
+#### Article 9 — Clinical trials
+
+1\. An application for the approval of a clinical trial shall be submitted in accordance with the applicable national law to a competent authority of the Member State in which the clinical trial is to take place.
+
+2\. Approvals of clinical trials shall be granted on condition that food-producing animals used in the clinical trials or their produce do not enter the food chain unless an appropriate withdrawal period has been set by the competent authority.
+
+3\. The competent authority shall issue a decision to approve or refuse a clinical trial within 60 days of the receipt of a valid application.
+
+4\. The clinical trials shall be carried out taking due account of the international guidelines on good clinical practice of the International Cooperation on Harmonisation of Technical Requirements for Registration of Veterinary Medicinal Products (‘VICH’).
+
+5\. Data stemming from clinical trials shall be submitted with the application for a marketing authorisation for the purposes of providing the documentation referred to in point (b) of Article 8(1).
+
+6\. Data stemming from clinical trials conducted outside the Union may be taken into consideration for the assessment of an application for a marketing authorisation only if those trials were designed, implemented and reported in accordance with the international guidelines on good clinical practice of the VICH.
+
+### Section 4 — Labelling and package leaflet
+
+#### Article 10 — Labelling of the immediate packaging of veterinary medicinal products
+
+1\. The immediate packaging of a veterinary medicinal product shall contain the following information and shall, subject to Article 11(4), contain no information other than:
+
+(a) the name of the veterinary medicinal product, followed by its strength and pharmaceutical form;
+
+(b) a statement of the active substances expressed qualitatively and quantitatively per unit or according to the form of administration for a particular volume or weight, using their common names;
+
+(c) the batch number, preceded by the word ‘Lot’;
+
+(d) the name or company name or logo name of the marketing authorisation holder;
+
+(e) the target species;
+
+(f) the expiry date, in the format: ‘mm/yyyy’, preceded by the abbreviation ‘Exp.’;
+
+(g) special storage precautions, if any;
+
+(h) route of administration; and
+
+(i) if applicable, the withdrawal period, even if such period is zero.
+
+2\. The information referred to in paragraph 1 of this Article shall appear in easily legible and clearly comprehensible characters, or in abbreviations or pictograms common throughout the Union as listed in accordance with Article 17(2).
+
+3\. Notwithstanding paragraph 1, a Member State may decide that, on the immediate packaging of a veterinary medicinal product made available in its territory, an identification code shall be added to the information required under paragraph 1.
+
+#### Article 11 — Labelling of the outer packaging of veterinary medicinal products
+
+1\. The outer packaging of a veterinary medicinal product shall contain the following information and shall contain no information other than:
+
+(a) the information referred to in Article 10(1);
+
+(b) the contents by weight, volume or number of immediate packaging units of the veterinary medicinal product;
+
+(c) a warning that the veterinary medicinal product must be kept out of the sight and reach of children;
+
+(d) a warning that the veterinary medicinal product is ‘for animal treatment only’;
+
+(e) without prejudice to Article 14(4), a recommendation to read the package leaflet;
+
+(f) in the case of homeopathic veterinary medicinal products, the statement ‘homeopathic veterinary medicinal product’;
+
+(g) in the case of veterinary medicinal products not subject to a veterinary prescription, the indication or indications;
+
+(h) the marketing authorisation number.
+
+2\. A Member State may decide that, on the outer packaging of a veterinary medicinal product made available in its territory, an identification code shall be added to the information required under paragraph 1. Such a code may be used to replace the marketing authorisation number referred to in point (h) of paragraph 1.
+
+3\. The information referred to in paragraph 1 of this Article shall appear in easily legible and clearly comprehensible characters, or in abbreviations or pictograms common throughout the Union, as listed in accordance with Article 17(2).
+
+4\. Where there is no outer packaging, all the information referred to in paragraphs 1 and 2 shall appear on the immediate packaging.
+
+#### Article 12 — Labelling of small immediate packaging units of veterinary medicinal products
+
+1\. By way of derogation from Article 10, immediate packaging units which are too small to contain in a readable form the information referred to in that Article shall contain the following information and shall contain no information other than:
+
+(a) the name of veterinary medicinal product;
+
+(b) the quantitative particulars of the active substances;
+
+(c) the batch number, preceded by the word ‘Lot’;
+
+(d) the expiry date, in the format: ‘mm/yyyy’, preceded by the abbreviation ‘Exp.’.
+
+2\. The immediate packaging units referred to in paragraph 1 of this Article shall have an outer packaging containing information required in Article 11(1), (2) and (3).
+
+#### Article 13 — Additional information on the immediate packaging or outer packaging of veterinary medicinal products
+
+By way of derogation from Articles 10(1), 11(1) and 12(1), Member States may, within their territory, and on request of the applicant, allow an applicant to include on the immediate packaging or outer packaging of a veterinary medicinal product additional useful information which is compatible with the summary of the product characteristics and which is not an advertisement for a veterinary medicinal product.
+
+#### Article 14 — Package leaflet of veterinary medicinal products
+
+1\. The marketing authorisation holder shall make readily available a package leaflet for each veterinary medicinal product. That package leaflet shall contain at least the following information:
+
+(a) the name or company name and permanent address or registered place of business of the marketing authorisation holder and of the manufacturer and, where applicable, of the representative of the marketing authorisation holder;
+
+(b) the name of the veterinary medicinal product, followed by its strength and pharmaceutical form;
+
+(c) qualitative and quantitative composition of the active substance or substances;
+
+(d) the target species, the dosage for each species, the method and route of administration and, if necessary, advice on correct administration;
+
+(e) the indications for use;
+
+(f) the contra-indications and adverse events;
+
+(g) if applicable, the withdrawal period, even if such period is zero;
+
+(h) special storage precautions, if any;
+
+(i) information essential for safety or health protection, including any special precautions relating to use and any other warnings;
+
+(j) information on the collection systems referred to in Article 117 applicable to the veterinary medicinal product concerned;
+
+(k) the marketing authorisation number;
+
+(l) contact details of the marketing authorisation holder or its representative, as appropriate, for the reporting of suspected adverse events;
+
+(m) classification of the veterinary medicinal product as referred to in Article 34.
+
+2\. The package leaflet may bear additional information concerning distribution, possession or any necessary precaution in conformity with the marketing authorisation, provided that the information is not promotional. That additional information shall appear in the package leaflet clearly separated from the information referred to in paragraph 1.
+
+3\. The package leaflet shall be written and designed to be readable, clear and understandable, in terms that are comprehensible to the general public. Member States may decide that it shall be made available on paper or electronically, or both.
+
+4\. By derogation from paragraph 1, the information required in accordance with this Article may, alternatively, be provided on the packaging of the veterinary medicinal product.
+
+#### Article 15 — General requirement regarding product information
+
+The information listed in Articles 10 to 14 shall comply with the summary of the product characteristics as set out in Article 35.
+
+#### Article 16 — Package leaflet of registered homeopathic veterinary medicinal products
+
+By way of derogation from Article 14(1), the package leaflet of homeopathic veterinary medicinal products registered in accordance with Article 86 shall contain at least the following information:
+
+(a) the scientific name of the stock or stocks followed by the degree of dilution, using the symbols of the European Pharmacopoeia or, in the absence thereof, of the pharmacopoeias used officially in Member States;
+
+(b) name or company name and permanent address or registered place of business of the registration holder and, where appropriate, of the manufacturer;
+
+(c) method of administration and, if necessary, route of administration;
+
+(d) pharmaceutical form;
+
+(e) special storage precautions, if any;
+
+(f) the target species and, where appropriate, dosage for each such species;
+
+(g) a special warning, if necessary, for the homeopathic veterinary medicinal product;
+
+(h) registration number;
+
+(i) withdrawal period, if applicable;
+
+(j) the statement ‘homeopathic veterinary medicinal product’.
+
+#### Article 17 — Implementing powers with respect to this Section
+
+1\. The Commission shall, when appropriate, by means of implementing acts, establish uniform rules on the identification code referred to in Articles 10(3) and 11(2). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+2\. The Commission shall, by means of implementing acts, adopt a list of the abbreviations and pictograms common throughout the Union to be used for the purposes of Articles 10(2) and 11(3). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+3\. The Commission shall, by means of implementing acts, provide uniform rules on the size of small immediate packaging units referred to in Article 12. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+### Section 5 — Specific requirements for generic, hybrid and combination veterinary medicinal products and for applications based on informed consent and bibliographic data
+
+#### Article 18 — Generic veterinary medicinal products
+
+1\. By way of derogation from point (b) of Article 8(1), it shall not be required that an application for a marketing authorisation for a generic veterinary medicinal product contain the documentation on safety and efficacy if all the following conditions are fulfilled:
+
+(a) bioavailability studies have demonstrated bioequivalence of a generic veterinary medicinal product with the reference veterinary medicinal product or a justification is provided as to why such studies were not performed;
+
+(b) the application satisfies the requirements set out in Annex II;
+
+(c) the applicant demonstrates that the application concerns a generic veterinary medicinal product of a reference veterinary medicinal product for which the period of protection of the technical documentation laid down in Articles 39 and 40 has elapsed or is due to elapse in less than two years.
+
+2\. Where the active substance of a generic veterinary medicinal product consists of salts, esters, ethers, isomers and mixtures of isomers, complexes or derivatives differing from the active substance used in the reference veterinary medicinal product, it shall be considered to be the same active substance as that used in the reference veterinary medicinal product, unless it differs significantly in respect of properties with regard to safety or efficacy. Where it differs significantly in respect of those properties, the applicant shall submit additional information in order to prove the safety or efficacy of the various salts, esters or derivatives of the authorised active substance of the reference veterinary medicinal product.
+
+3\. Where several immediate-release oral pharmaceutical forms of a generic veterinary medicinal product are presented, they shall be considered to be the same pharmaceutical form.
+
+4\. Where the reference veterinary medicinal product is not authorised in the Member State in which the application for the generic veterinary medicinal product is submitted, or the application is submitted in accordance with Article 42(4) and the reference veterinary medicinal product is authorised in a Member State, the applicant shall indicate in its application the Member State in which the reference veterinary medicinal product has been authorised.
+
+5\. The competent authority or the Agency, as applicable, may request information on the reference veterinary medicinal product from the competent authority of the Member State where it is authorised. Such information shall be transmitted to the requestor within 30 days of receipt of the request.
+
+6\. The summary of the product characteristics of the generic veterinary medicinal product shall be essentially similar to that of the reference veterinary medicinal product. However, that requirement shall not apply to those parts of the summary of the product characteristics of the reference veterinary medicinal product that refer to indications or pharmaceutical forms which are still covered by patent law at the time when the generic veterinary medicinal product is authorised.
+
+7\. A competent authority or the Agency, as applicable, may require the applicant to provide safety data concerning the potential risks posed by the generic veterinary medicinal product to the environment where the marketing authorisation for the reference veterinary medicinal product was granted before 1 October 2005.
+
+#### Article 19 — Hybrid veterinary medicinal products
+
+1\. By way of derogation from Article 18(1), the results of appropriate pre-clinical studies or clinical trials shall be required when the veterinary medicinal product does not meet all the characteristics of a generic veterinary medicinal product because of one or more of the following reasons:
+
+(a) there are changes in the active substance or substances, indications for use, strength, pharmaceutical form or route of administration of the generic veterinary medicinal product compared to the reference veterinary medicinal product;
+
+(b) bioavailability studies cannot be used to demonstrate bioequivalence with the reference veterinary medicinal product; or
+
+(c) there are differences relating to raw materials or in manufacturing processes of the biological veterinary medicinal product and the reference biological veterinary medicinal product.
+
+2\. The pre-clinical studies or clinical trials for a hybrid veterinary medicinal product may be conducted with batches of the reference veterinary medicinal product authorised in the Union or in a third country.
+
+The applicant shall demonstrate that the reference veterinary medicinal product authorised in a third country has been authorised in accordance with requirements equivalent to those established in the Union for the reference veterinary medicinal product and are so highly similar that they can substitute each other in the clinical trials.
+
+#### Article 20 — Combination veterinary medicinal products
+
+By way of derogation from point (b) of Article 8(1), in the case of veterinary medicinal products containing active substances used in the composition of authorised veterinary medicinal products it shall not be required to provide safety and efficacy data relating to each individual active substance.
+
+#### Article 21 — Application based on informed consent
+
+By way of derogation from point (b) of Article 8(1), an applicant for a marketing authorisation for a veterinary medicinal product shall not be required to provide the technical documentation on quality, safety and efficacy if that applicant demonstrates permission, in the form of a letter of access, to use such documentation submitted in respect of the already authorised veterinary medicinal product.
+
+#### Article 22 — Application based on bibliographic data
+
+1\. By way of derogation from point (b) of Article 8(1), the applicant shall not be required to provide the documentation on safety and efficacy if that applicant demonstrates that the active substances of the veterinary medicinal product have been in well-established veterinary use within the Union for at least 10 years, that their efficacy is documented and that they provide an acceptable level of safety.
+
+2\. The application shall satisfy the requirements set out in Annex II.
+
+### Section 6 — Marketing authorisations for limited market and in exceptional circumstances
+
+#### Article 23 — Applications for limited markets
+
+1\. By way of derogation from point (b) of Article 8(1), the applicant shall not be required to provide the comprehensive safety or efficacy documentation required in accordance with Annex II, if all of the following conditions are met:
+
+(a) the benefit of the availability on the market of the veterinary medicinal product to the animal or public health outweighs the risk inherent in the fact that certain documentation has not been provided;
+
+(b) the applicant provides the evidence that the veterinary medicinal product is intended for a limited market.
+
+2\. Where a veterinary medicinal product has been granted a marketing authorisation in accordance with this Article, the summary of product characteristics shall clearly state that only a limited assessment of safety or efficacy has been conducted due to the lack of comprehensive safety or efficacy data.
+
+#### Article 24 — Validity of a marketing authorisation for a limited market and procedure for its re-examination
+
+1\. By way of derogation from Article 5(2), a marketing authorisation for a limited market shall be valid for a period of five years.
+
+2\. Before the expiry of the five-year period of validity referred to in paragraph 1 of this Article, marketing authorisations for a limited market granted in accordance with Article 23 shall be re-examined on the basis of an application from the holder of that marketing authorisation. That application shall include an updated benefit-risk assessment.
+
+3\. A holder of a marketing authorisation for a limited market shall submit an application for a re-examination to the competent authority that granted the authorisation or to the Agency, as applicable, at least six months before the expiry of the five-year period of validity referred to in paragraph 1 of this Article. The application for re-examination shall be limited to demonstrating that the conditions referred to in Article 23(1) continue to be fulfilled.
+
+4\. When an application for re-examination has been submitted, the marketing authorisation for a limited market shall remain valid until a decision has been adopted by the competent authority or the Commission, as applicable.
+
+5\. The competent authority or the Agency, as applicable, shall assess applications for a re-examination and for an extension of the validity of the marketing authorisation.
+
+On the basis of that assessment, if the benefit-risk balance remains positive, the competent authority or the Commission, as applicable, shall extend the validity of the marketing authorisation by additional periods of five years.
+
+6\. The competent authority or the Commission, as applicable, may at any time grant a marketing authorisation valid for an unlimited period of time in respect of a veterinary medicinal product authorised for a limited market, provided that the holder of the marketing authorisation for a limited market submits the missing data on safety or efficacy referred to in Article 23(1).
+
+#### Article 25 — Applications in exceptional circumstances
+
+By way of derogation from point (b) of Article 8(1), in exceptional circumstances related to animal or public health, an applicant may submit an application which does not meet all requirements of that point, for which the benefit of the immediate availability on the market of the veterinary medicinal product concerned to the animal or public health outweighs the risk inherent in the fact that certain quality, safety or efficacy documentation has not been provided. In such a case, the applicant shall be required to demonstrate that for objective and verifiable reasons certain quality, safety or efficacy documentation required in accordance with Annex II cannot be provided.
+
+#### Article 26 — Terms of the marketing authorisation in exceptional circumstances
+
+1\. In the exceptional circumstances referred to in Article 25, a marketing authorisation may be granted subject to one or more of the following requirements for the marketing authorisation holder:
+
+(a) a requirement to introduce conditions or restrictions, in particular concerning the safety of the veterinary medicinal product;
+
+(b) a requirement to notify to the competent authorities or the Agency, as applicable, of any adverse event relating to the use of the veterinary medicinal product;
+
+(c) a requirement to conduct post-authorisation studies.
+
+2\. Where a veterinary medicinal product has been granted a marketing authorisation in accordance with this Article, the summary of product characteristics shall clearly state that only a limited assessment of quality, safety or efficacy has been conducted due to the lack of comprehensive quality, safety or efficacy data.
+
+#### Article 27 — Validity of a marketing authorisation in exceptional circumstances and procedure for its re-examination
+
+1\. By way of derogation from Article 5(2), a marketing authorisation in exceptional circumstances shall be valid for a period of one year.
+
+2\. Before the expiry of the one-year period of validity referred to in paragraph 1 of this Article, marketing authorisations granted in accordance with Articles 25 and 26 shall be re-examined on the basis of an application from the holder of that marketing authorisation. That application shall include an updated benefit-risk assessment.
+
+3\. A holder of a marketing authorisation in exceptional circumstances shall submit an application for re-examination to the competent authority that granted the authorisation or to the Agency, as applicable, at least three months before the expiry of the one-year period of validity referred to in paragraph 1. The application for re-examination shall demonstrate that the exceptional circumstances related to animal health or public health remain.
+
+4\. When an application for re-examination has been submitted, the marketing authorisation shall remain valid until a decision has been adopted by the competent authority or the Commission, as applicable.
+
+5\. The competent authority or the Agency, as applicable, shall assess the application.
+
+On the basis of that assessment, if the benefit-risk balance remains positive, the competent authority or the Commission, as applicable, shall extend the validity of the marketing authorisation for one year.
+
+6\. The competent authority or the Commission, as applicable, may at any time grant a marketing authorisation valid for an unlimited period of time in respect of a veterinary medicinal product authorised in accordance with Articles 25 and 26, provided that the marketing authorisation holder submits the missing data on quality, safety or efficacy referred to in Article 25.
+
+### Section 7 — Examination of applications and basis for granting marketing authorisations
+
+#### Article 28 — Examination of applications
+
+1\. The competent authority or the Agency, as applicable, to which the application has been submitted in accordance with Article 6 shall:
+
+(a) verify that the data submitted complies with the requirements laid down in Article 8;
+
+(b) assess the veterinary medicinal product regarding the quality, safety and efficacy documentation provided;
+
+(c) draw up a conclusion on the benefit-risk balance for the veterinary medicinal product.
+
+2\. During the process of examination of applications for marketing authorisations for veterinary medicinal products containing or consisting of genetically modified organisms as referred to in Article 8(5) of this Regulation, the Agency shall hold the necessary consultations with the bodies set up by the Union or Member States in accordance with Directive 2001/18/EC.
+
+#### Article 29 — Requests to laboratories in the course of the examination of applications
+
+1\. The competent authority or the Agency, as applicable, examining the application may require an applicant to provide to the European Union reference laboratory, an official medicines control laboratory or a laboratory that a Member State has designated for that purpose samples which are necessary to:
+
+(a) test the veterinary medicinal product, its starting materials and, if necessary, intermediate products or other constituent materials in order to ensure that the control methods employed by the manufacturer and described in the application documents are satisfactory;
+
+(b) verify that, in the case of veterinary medicinal products intended for food-producing animals, the analytical detection method proposed by the applicant for the purposes of residue depletion tests is satisfactory and suitable for use to reveal the presence of residue levels, particularly those exceeding the maximum residue level of the pharmacologically active substance established by the Commission in accordance with Regulation (EC) No 470/2009, and for the purpose of official controls of animals and products of animal origin in accordance with Regulation (EU) 2017/625.
+
+2\. The time limits laid down in Articles 44, 47, 49, 52 and 53 shall be suspended until the samples requested in accordance with paragraph 1 of this Article have been provided.
+
+#### Article 30 — Information on manufacturers in third countries
+
+The competent authority or the Agency, as applicable, to which the application has been submitted in accordance with Article 6 shall ascertain, through the procedure laid down in Articles 88, 89 and 90, that the manufacturers of veterinary medicinal products from third countries are able to manufacture the veterinary medicinal product concerned or carry out control tests in accordance with the methods described in the documentation submitted in support of the application in accordance with Article 8(1). A competent authority or the Agency, as applicable, may request the relevant competent authority to present information ascertaining that the manufacturers of veterinary medicinal products are able to carry out the activities referred to in this Article.
+
+#### Article 31 — Additional information from the applicant
+
+The competent authority or the Agency, as applicable, to which the application has been submitted in accordance with Article 6, shall inform the applicant if the documentation submitted in support of the application is insufficient. The competent authority or the Agency, as applicable, shall request the applicant to provide additional information within a given time limit. In such a case the time limits laid down in Articles 44, 47, 49, 52 and 53 shall be suspended until the additional information has been provided.
+
+#### Article 32 — Withdrawal of applications
+
+1\. An applicant may withdraw the application for marketing authorisation submitted to a competent authority or the Agency, as applicable, at any time before the decision referred to in Article 44, 47, 49, 52 or 53 has been taken.
+
+2\. If an applicant withdraws the application for a marketing authorisation submitted to a competent authority or the Agency, as applicable, before the examination of the application as referred to in Article 28 has been completed, the applicant shall communicate the reasons for doing so to the competent authority or the Agency, as applicable, to which the application was submitted in accordance with Article 6.
+
+3\. The competent authority or the Agency, as applicable, shall make publicly available the information that the application has been withdrawn, together with the report or the opinion, as applicable, if already drawn up, after deletion of any commercially confidential information.
+
+#### Article 33 — Outcome of the assessment
+
+1\. The competent authority or the Agency, as applicable, examining the application in accordance with Article 28, shall prepare, respectively, an assessment report or an opinion. In case of a favourable assessment, that assessment report or opinion shall include the following:
+
+(a) a summary of the product characteristics containing the information laid down in Article 35;
+
+(b) details of any conditions or restrictions to be imposed as regards the supply or safe and effective use of the veterinary medicinal product concerned, including the classification of a veterinary medicinal product in accordance with Article 34;
+
+(c) the text of the labelling and package leaflet referred to in Articles 10 to 14.
+
+2\. In the case of an unfavourable assessment, the assessment report or the opinion referred to in paragraph 1 shall contain the justification for its conclusions.
+
+#### Article 34 — Classification of veterinary medicinal products
+
+1\. The competent authority or the Commission, as applicable, granting a marketing authorisation as referred to in Article 5(1) shall classify the following veterinary medicinal products as subject to veterinary prescription:
+
+(a) veterinary medicinal products which contain narcotic drugs or psychotropic substances, or substances frequently used in the illicit manufacture of those drugs or substances, including those covered by the United Nations Single Convention on Narcotic Drugs of 1961 as amended by the 1972 Protocol, the United Nations Convention on Psychotropic Substances of 1971, the United Nations Convention against Illicit Traffic in Narcotic Drugs and Psychotropic Substances of 1988 or by Union legislation on drug precursors;
+
+(b) veterinary medicinal products for food-producing animals;
+
+(c) antimicrobial veterinary medicinal products;
+
+(d) veterinary medicinal products intended for treatments of pathological processes which require a precise prior diagnosis or the use of which may have effects which impede or interfere with subsequent diagnostic or therapeutic measures;
+
+(e) veterinary medicinal products used for euthanasia of animals;
+
+(f) veterinary medicinal products containing an active substance that has been authorised for less than five years in the Union;
+
+(g) immunological veterinary medicinal products;
+
+(h) without prejudice to Council Directive 96/22/EC ( 5 ), veterinary medicinal products containing active substances having a hormonal or thyrostatic action or beta-agonists.
+
+2\. The competent authority or the Commission, as applicable, may, notwithstanding paragraph 1 of this Article, classify a veterinary medicinal product as subject to veterinary prescription if it is classified as a narcotic drug in accordance with national law or where special precautions are contained in the summary of product characteristics referred to in Article 35.
+
+3\. By way of derogation from paragraph 1, the competent authority or the Commission, as applicable, may, except as regards veterinary medicinal products referred to in points (a), (c), (e) and (h) of paragraph 1, classify a veterinary medicinal product as not subject to veterinary prescription if all of the following conditions are fulfilled:
+
+(a) the administration of the veterinary medicinal product is restricted to pharmaceutical forms requiring no particular knowledge or skill in using the products;
+
+(b) the veterinary medicinal product does not present a direct or indirect risk, even if administered incorrectly, to the animal or animals treated or to other animals, to the person administering it or to the environment;
+
+(c) the summary of the product characteristics of the veterinary medicinal product does not contain any warnings of potential serious adverse events deriving from its correct use;
+
+(d) neither the veterinary medicinal product nor any other product containing the same active substance has previously been the subject of frequent adverse event reporting;
+
+(e) the summary of the product characteristics does not refer to contra-indications related to the use of the product concerned in combination with other veterinary medicinal products commonly used without prescription;
+
+(f) there is no risk for public health as regards residues in food obtained from treated animals even where the veterinary medicinal product is used incorrectly;
+
+(g) there is no risk to public or animal health as regards the development of resistance to substances even where the veterinary medicinal product containing those substances is used incorrectly.
+
+#### Article 35 — Summary of the product characteristics
+
+1\. The summary of the product characteristics referred to in point (a) of Article 33(1) shall contain, in the order indicated below, the following information:
+
+(a) name of the veterinary medicinal product followed by its strength and pharmaceutical form and, where applicable, a list of the names of the veterinary medicinal product, as authorised in different Member States;
+
+(b) qualitative and quantitative composition of the active substance or substances and qualitative composition of excipients and other constituents stating their common name or their chemical description and their quantitative composition, if that information is essential for proper administration of the veterinary medicinal product;
+
+(c) clinical information:
+
+(i) target species;
+
+(ii) indications for use for each target species;
+
+(iii) contra-indications;
+
+(iv) special warnings;
+
+(v) special precautions for use, including in particular special precautions for safe use in the target species, special precautions to be taken by the person administering the veterinary medicinal product to the animals and special precautions for the protection of the environment;
+
+(vi) frequency and seriousness of adverse events;
+
+(vii) use during pregnancy, lactation or lay;
+
+(viii) interaction with other medicinal products and other forms of interaction;
+
+(ix) administration route and dosage;
+
+(x) symptoms of overdose and, where applicable, emergency procedures and antidotes in the event of overdose;
+
+(xi) special restrictions for use;
+
+(xii) special conditions for use, including restrictions on the use of antimicrobial and antiparasitic veterinary medicinal products in order to limit the risk of development of resistance;
+
+(xiii) if applicable, withdrawal periods, even if such periods are zero;
+
+(d) pharmacological information:
+
+(i) Anatomical Therapeutic Chemical Veterinary Code (‘ATCvet Code’);
+
+(ii) pharmacodynamics;
+
+(iii) pharmacokinetics.
+
+In case of an immunological veterinary medicinal product, instead of points (i), (ii) and (iii), immunological information;
+
+(e) pharmaceutical particulars:
+
+(i) major incompatibilities;
+
+(ii) shelf life, where applicable after reconstitution of the medicinal product or after the immediate packaging has been opened for the first time;
+
+(iii) special precautions for storage;
+
+(iv) nature and composition of immediate packaging;
+
+(v) requirement to use take-back schemes for veterinary medicinal products for the disposal of unused veterinary medicinal products or waste materials derived from the use of such products and, if appropriate, additional precautions regarding hazardous waste disposal of unused veterinary medicinal products or waste materials derived from the use of such products;
+
+(f) name of the marketing authorisation holder;
+
+(g) marketing authorisation number or numbers;
+
+(h) date of the first marketing authorisation;
+
+(i) date of the last revision of the summary of the product characteristics;
+
+(j) if applicable, for veterinary medicinal products referred to in Article 23 or 25, the statement:
+
+(i) ‘marketing authorisation granted for a limited market and therefore assessment based on customised requirements for documentation’; or
+
+(ii) ‘marketing authorisation in exceptional circumstances and therefore assessment based on customised requirements for documentation’;
+
+(k) information on the collection systems referred to in Article 117 applicable to the veterinary medicinal product concerned;
+
+(l) classification of the veterinary medicinal product as referred to in Article 34 for each Member State in which it is authorised.
+
+2\. In the case of generic veterinary medicinal products, the parts of the summary of the product characteristics of the reference veterinary medicinal product that refer to indications or pharmaceutical forms which are protected by patent law in a Member State at the time of placing of the generic veterinary medicinal product on the market may be omitted.
+
+#### Article 36 — Decisions granting marketing authorisations
+
+1\. Decisions granting marketing authorisations referred to in Article 5(1) shall be taken on the basis of the documents prepared in accordance with Article 33(1) and shall set out any conditions attached to the placing on the market of the veterinary medicinal product and the summary of the product characteristics (‘terms of the marketing authorisation’).
+
+2\. Where the application concerns an antimicrobial veterinary medicinal product, the competent authority or the Commission, as applicable, may require the marketing authorisation holder to conduct post-authorisation studies in order to ensure that the benefit-risk balance remains positive given the potential development of antimicrobial resistance.
+
+#### Article 37 — Decisions refusing marketing authorisations
+
+1\. Decisions refusing marketing authorisations referred to in Article 5(1) shall be taken on the basis of the documents prepared in accordance with Article 33(1) and shall be duly justified and include the reasons for refusal.
+
+2\. A marketing authorisation shall be refused if any of the following conditions are met:
+
+(a) the application does not comply with this Chapter;
+
+(b) the benefit-risk balance of the veterinary medicinal product is negative;
+
+(c) the applicant has not provided sufficient information on the quality, safety or efficacy of the veterinary medicinal product;
+
+(d) the veterinary medicinal product is an antimicrobial veterinary medicinal product presented for use as performance enhancer in order to promote the growth of treated animals or to increase yields from treated animals;
+
+(e) the proposed withdrawal period is not long enough to ensure food safety or is insufficiently substantiated;
+
+(f) the risk for public health in case of development of antimicrobial resistance or antiparasitic resistance outweighs the benefits of the veterinary medicinal product to animal health;
+
+(g) the applicant has not provided sufficient proof of efficacy as regards the target species;
+
+(h) the qualitative or quantitative composition of the veterinary medicinal product is not as stated in the application;
+
+(i) risks to public or animal health or to the environment are not sufficiently addressed; or
+
+(j) the active substance within the veterinary medicinal product meets the criteria for being considered persistent, bioaccumulative and toxic or very persistent and very bioaccumulative, and the veterinary medicinal product is intended to be used in food-producing animals, unless it is demonstrated that the active substance is essential to prevent or control a serious risk to animal health.
+
+3\. A marketing authorisation for an antimicrobial veterinary medicinal product shall be refused if the antimicrobial is reserved for treatment of certain infections in humans as provided for in paragraph 5.
+
+4\. The Commission shall adopt delegated acts in accordance with Article 147 in order to supplement this Regulation by establishing the criteria for the designation of the antimicrobials which are to be reserved for treatment of certain infections in humans in order to preserve the efficacy of those antimicrobials.
+
+5\. The Commission shall, by means of implementing acts, designate antimicrobials or groups of antimicrobials reserved for treatment of certain infections in humans. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+6\. The Commission shall, when adopting the acts referred to in paragraphs 4 and 5, take into account the scientific advice of the Agency, the EFSA and other relevant Union agencies.
+
+### Section 8 — Protection of technical documentation
+
+#### Article 38 — Protection of technical documentation
+
+1\. Without prejudice to the requirements and obligations laid down in Directive 2010/63/EU, technical documentation on quality, safety and efficacy originally submitted with a view to obtaining a marketing authorisation or a variation thereof shall not be referred to by other applicants for a marketing authorisation or a variation of the terms of a marketing authorisation for a veterinary medicinal product unless:
+
+(a) the period of the protection of technical documentation as set out in Articles 39 and 40 of this Regulation has elapsed, or is due to elapse in less than two years;
+
+(b) the applicants have obtained written agreement in the form of a letter of access with regard to that documentation.
+
+2\. The protection of the technical documentation as set out to in paragraph 1 (‘the protection of technical documentation’) shall also apply in Member States where the veterinary medicinal product is not authorised or is no longer authorised.
+
+3\. A marketing authorisation or a variation to the terms of a marketing authorisation differing from the marketing authorisation previously granted to the same marketing authorisation holder only with regard to target species, strengths, pharmaceutical forms, administration routes or presentations shall be regarded as the same marketing authorisation as the one previously granted to the same marketing authorisation holder for the purpose of applying the rules of the protection of technical documentation.
+
+#### Article 39 — Periods of the protection of technical documentation
+
+1\. The period of the protection of technical documentation shall be:
+
+(a) 10 years for veterinary medicinal products for cattle, sheep for meat production, pigs, chickens, dogs and cats;
+
+(b) 14 years for antimicrobial veterinary medicinal products for cattle, sheep for meat production, pigs, chickens, dogs and cats containing an antimicrobial active substance which has not been an active substance in a veterinary medicinal product authorised within the Union on the date of the submission of the application;
+
+(c) 18 years for veterinary medicinal products for bees;
+
+(d) 14 years for veterinary medicinal products for animal species other than those referred to in points (a) and (c).
+
+2\. The protection of technical documentation shall apply from the day when the marketing authorisation for the veterinary medicinal product was granted in accordance with Article 5(1).
+
+#### Article 40 — Prolongation and additional periods of the protection of technical documentation
+
+1\. Where the first marketing authorisation is granted for more than one animal species referred to in point (a) or (b) of Article 39(1) or a variation is approved in accordance with Article 67 extending the marketing authorisation to another species referred to in point (a) or (b) of Article 39(1), the period of the protection provided for in Article 39 shall be prolonged by one year for each additional target species, provided that, in the case of a variation, the application has been submitted at least three years before the expiration of the protection period laid down in point (a) or (b) of Article 39(1).
+
+2\. Where the first marketing authorisation is granted for more than one animal species referred to in point (d) of Article 39(1), or a variation is approved in accordance with Article 67 extending the marketing authorisation to another animal species not referred to in point (a) of Article 39(1), the period of the protection provided for in Article 39 shall be prolonged by four years, provided that, in the case of a variation, the application has been submitted at least three years before the expiration of the protection period laid down in point (d) of Article 39(1).
+
+3\. The period of the protection of technical documentation provided for in Article 39 of the first marketing authorisation, prolonged by any additional periods of protection due to any variations or new authorisations belonging to the same marketing authorisation, shall not exceed 18 years.
+
+4\. Where an applicant for a marketing authorisation for a veterinary medicinal product or for a variation to the terms of a marketing authorisation submits an application in accordance with Regulation (EC) No 470/2009 for the establishment of a maximum residue limit, together with safety and residues tests and pre-clinical studies and clinical trials during the application procedure, other applicants shall not refer to results of those tests, studies and trials for a period of five years from the granting of the marketing authorisation for which they were carried out. The prohibition on using those results shall not apply, insofar as the other applicants have obtained a letter of access with regard to those tests, studies and trials.
+
+5\. If a variation to the terms of the marketing authorisation approved in accordance with Article 67 involves a change to the pharmaceutical form, administration route or dosage, which is assessed by the Agency or the competent authorities referred to in Article 66 to have demonstrated:
+
+(a) a reduction in the antimicrobial or antiparasitic resistance; or
+
+(b) an improvement of the benefit-risk balance of the veterinary medicinal product,
+
+the results of the concerned pre-clinical studies or clinical trials shall benefit from four years protection.
+
+The prohibition on using those results shall not apply, insofar as the other applicants have obtained a letter of access with regard to those studies and trials.
+
+#### Article 41 — Patent-related rights
+
+Conducting the necessary tests, studies and trials with a view to applying for a marketing authorisation in accordance with Article 18 shall not be regarded as contrary to patent-related rights or to supplementary-protection certificates for veterinary medicinal products and medicinal products for human use.
+
+## CHAPTER III — PROCEDURES FOR MARKETING AUTHORISATIONS
+
+### Section 1 — Marketing authorisations valid throughout the Union (‘centralised marketing authorisations’)
+
+#### Article 42 — Scope of the centralised marketing authorisation procedure
+
+1\. Centralised marketing authorisations shall be valid throughout the Union.
+
+2\. Centralised marketing authorisation procedure shall apply in respect of the following veterinary medicinal products:
+
+(a) veterinary medicinal products developed by means of one of the following biotechnological processes:
+
+(i) recombinant DNA technology;
+
+(ii) controlled expression of genes coding for biologically active proteins in prokaryotes and eukaryotes including transformed mammalian cells;
+
+(iii) hybridoma and monoclonal antibody methods;
+
+(b) veterinary medicinal products intended primarily for use as performance enhancers in order to promote the growth of treated animals or to increase yields from treated animals;
+
+(c) veterinary medicinal products containing an active substance which has not been authorised as a veterinary medicinal product within the Union at the date of the submission of the application;
+
+(d) biological veterinary medicinal products which contain or consist of engineered allogeneic tissues or cells;
+
+(e) novel therapy veterinary medicinal products.
+
+3\. Points (d) and (e) of paragraph 2 shall not apply to veterinary medicinal products consisting exclusively of blood components.
+
+4\. For veterinary medicinal products other than those referred to in paragraph 2, a centralised marketing authorisation may be granted if no other marketing authorisation has been granted for the veterinary medicinal product within the Union.
+
+#### Article 43 — Application for centralised marketing authorisation
+
+1\. An application for a centralised marketing authorisation shall be submitted to the Agency. The application shall be accompanied by the fee payable to the Agency for the examination of the application.
+
+2\. The application for a centralised marketing authorisation of a veterinary medicinal product shall state a single name for the veterinary medicinal product to be used throughout the Union.
+
+#### Article 44 — Procedure for centralised marketing authorisation
+
+1\. The Agency shall assess the application referred to in Article 43. The Agency shall prepare, as an outcome of the assessment, an opinion containing the information referred to in Article 33.
+
+2\. The Agency shall issue the opinion referred to in paragraph 1 within 210 days of receipt of a valid application. Exceptionally, where a particular expertise is required, the time limit may be extended by a maximum of 90 days.
+
+3\. When an application is submitted for a marketing authorisation in respect of veterinary medicinal products of major interest, particularly from the point of view of animal health and therapeutic innovation, the applicant may request an accelerated assessment procedure. The request shall be duly substantiated. If the Agency accepts the request, the time limit of 210 days shall be reduced to 150 days.
+
+4\. The Agency shall forward the opinion to the applicant. Within 15 days of receipt of the opinion, the applicant may provide written notice to the Agency that he or she wishes to request a re-examination of the opinion. In such a case, Article 45 shall apply.
+
+5\. Where the applicant has not provided written notice in accordance with paragraph 4, the Agency shall, without undue delay, forward its opinion to the Commission.
+
+6\. The Commission may request clarifications from the Agency as regards the content of the opinion, in which case the Agency shall provide a response to this request within 90 days.
+
+7\. The applicant shall submit to the Agency the necessary translations of the summary of product characteristics, package leaflet and labelling in accordance with Article 7, within the time limit set by the Agency, but at the latest on the date that the draft decision is forwarded to the competent authorities in accordance with paragraph 8 of this Article.
+
+8\. Within 15 days of receipt of the opinion of the Agency, the Commission shall prepare a draft decision to be taken in respect of the application. Where a draft decision envisages granting of a marketing authorisation, it shall include the opinion of the Agency prepared in accordance with paragraph 1. Where the draft decision is not in accordance with the opinion of the Agency, the Commission shall annex a detailed explanation of the reasons for the differences. The Commission shall forward the draft decision to the competent authorities of Member States and to the applicant.
+
+9\. The Commission shall, by means of implementing acts, take a decision to grant or refuse a centralised marketing authorisation in accordance with this Section and on the basis of the opinion of the Agency. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+10\. The Agency shall make its opinion publicly available, after deleting any commercially confidential information.
+
+#### Article 45 — Re-examination of the opinion of the Agency
+
+1\. Where the applicant requests a re-examination of the opinion of the Agency in accordance with Article 44(4), that applicant shall forward to the Agency detailed grounds for such request within 60 days of receipt of the opinion.
+
+2\. Within 90 days of receipt of the detailed grounds for the request, the Agency shall re-examine its opinion. The conclusions reached and the reasons for those conclusions shall be annexed to its opinion and shall form an integral part thereof.
+
+3\. Within 15 days of the re-examination of its opinion, the Agency shall forward its opinion to the Commission and the applicant.
+
+4\. Subsequent to the procedure set out in paragraph 3 of this Article, Article 44(6) to (10) shall apply.
+
+### Section 2 — Marketing authorisations valid in a single Member State (‘national marketing authorisations’)
+
+#### Article 46 — Scope of national marketing authorisation
+
+1\. An application for a national marketing authorisation shall be submitted to the competent authority in the Member State for which the authorisation is applied. The competent authority shall grant a national marketing authorisation in accordance with this Section and applicable national provisions. A national marketing authorisation shall be valid only in the Member State of the competent authority which granted it.
+
+2\. National marketing authorisations shall not be granted in respect of veterinary medicinal products which fall within the scope of Article 42(2), or for which a national marketing authorisation has been granted, or for which an application for a national marketing authorisation is pending in another Member State at the time of the application.
+
+#### Article 47 — Procedure for national marketing authorisation
+
+1\. The procedure for granting or refusing a national marketing authorisation for a veterinary medicinal product shall be completed within a maximum of 210 days of the submission of the valid application.
+
+2\. The competent authority shall prepare an assessment report containing the information referred to in Article 33.
+
+3\. The competent authority shall make the assessment report publicly available, after deleting any commercially confidential information.
+
+### Section 3 — Marketing authorisations valid in several Member States (‘decentralised marketing authorisations’)
+
+#### Article 48 — Scope of decentralised marketing authorisation
+
+1\. Decentralised marketing authorisations shall be granted by the competent authorities in the Member States in which the applicant seeks to obtain a marketing authorisation (‘Member States concerned’) in accordance with this Section. Such decentralised marketing authorisations shall be valid in those Member States.
+
+2\. Decentralised marketing authorisations shall not be granted in respect of veterinary medicinal products for which a national marketing authorisation has been granted, or for which an application for a marketing authorisation is pending at the time of the application for a decentralised marketing authorisation, or which fall within the scope of Article 42(2).
+
+#### Article 49 — Procedure for decentralised marketing authorisation
+
+1\. An application for a decentralised marketing authorisation shall be submitted to the competent authority in the Member State chosen by the applicant to prepare an assessment report and to act in accordance with this Section (‘reference Member State’) and to the competent authorities in the other Member States concerned.
+
+2\. The application shall list the Member States concerned.
+
+3\. If the applicant indicates that one or more of the Member States concerned shall no longer be considered as such, the competent authorities in those Member States shall provide to the competent authority in the reference Member State and to the competent authorities in the other Member States concerned any information they consider relevant with respect to the withdrawal of the application.
+
+4\. Within 120 days of receipt of a valid application, the competent authority in the reference Member State shall prepare an assessment report containing the information referred to in Article 33 and shall forward it to the competent authorities in the Member States concerned and to the applicant.
+
+5\. Within 90 days of receipt of the assessment report referred to in paragraph 4, the competent authorities in the Member States concerned shall examine the report and inform the competent authority in the reference Member State whether they have any objections to it on the ground that the veterinary medicinal product would pose a potential serious risk to human or animal health or to the environment. The competent authority in the reference Member State shall forward the assessment report resulting from that examination to the competent authorities in the Member States concerned and to the applicant.
+
+6\. On the request of the competent authority in the reference Member State or the competent authority in any of the Member States concerned, the coordination group shall be convened to examine the assessment report within the period referred to in paragraph 5.
+
+7\. Where the assessment report is favourable and where no competent authority has informed the competent authority in the reference Member State of an objection thereto, as referred to in paragraph 5, the competent authority in the reference Member State shall record that there is an agreement, close the procedure and, without undue delay, inform the applicant and the competent authorities in all Member States accordingly. The competent authorities in the Member States concerned shall grant a marketing authorisation in conformity with the assessment report within 30 days of receipt of both the information on the agreement from the competent authority in the reference Member State and the complete translations of the summary of product characteristics, labelling and package leaflet from the applicant.
+
+8\. Where the assessment report is unfavourable and where none of the competent authorities in the Member States concerned has informed the competent authority in the reference Member State of an objection thereto, as set out in paragraph 5, the competent authority in the reference Member State shall record that there is a refusal to grant the marketing authorisation, close the procedure and, without undue delay, inform the applicant and the competent authorities in all Member States accordingly.
+
+9\. Where a competent authority in a Member State concerned informs the competent authority in the reference Member State of an objection to the assessment report in accordance with paragraph 5 of this Article, the procedure referred to in Article 54 shall apply.
+
+10\. If at any stage of the procedure for a decentralised marketing authorisation the competent authority in a Member State concerned invokes the reasons referred to in Article 110(1) for prohibiting the veterinary medicinal product, that Member State shall no longer be considered as a Member State concerned.
+
+11\. The competent authority in the reference Member State shall make the assessment report publicly available, after deleting any commercially confidential information.
+
+#### Article 50 — Request by the applicant for re-examination of the assessment report
+
+1\. Within 15 days of receipt of the assessment report referred to in Article 49(5), the applicant may provide written notice to the competent authority in the reference Member State requesting a re-examination of the assessment report. In that case, the applicant shall forward to the competent authority in the reference Member State detailed grounds for such a request within 60 days of receipt of that assessment report. The competent authority in the reference Member State shall without delay forward that request and the detailed grounds to the coordination group.
+
+2\. Within 60 days of receipt of the detailed grounds for the request for re-examination of the assessment report, the coordination group shall re-examine the assessment report. The conclusions reached by the coordination group and the reasons for those conclusions shall be annexed to the assessment report and shall form an integral part thereof.
+
+3\. Within 15 days of the re-examination of the assessment report, the competent authority in the reference Member State shall forward the assessment report to the applicant.
+
+4\. Subsequent to the procedure set out in paragraph 3 of this Article, Article 49(7), (8), (10) and (11) shall apply.
+
+### Section 4 — Mutual recognition of national marketing authorisations
+
+#### Article 51 — Scope of mutual recognition of national marketing authorisations
+
+A national marketing authorisation for a veterinary medicinal product, granted in accordance with Article 47, shall be recognised in other Member States in accordance with the procedure laid down in Article 52.
+
+#### Article 52 — Procedure for mutual recognition of national marketing authorisations
+
+1\. An application for mutual recognition of a national marketing authorisation shall be submitted to the competent authority in the Member State that granted the national marketing authorisation in accordance with Article 47 (‘reference Member State’) and to the competent authorities in the Member States where the applicant seeks to obtain a marketing authorisation (‘Member States concerned’).
+
+2\. The application for mutual recognition shall list the Member States concerned.
+
+3\. A minimum of six months shall elapse between the decision granting the national marketing authorisation and the submission of the application for mutual recognition of that national marketing authorisation.
+
+4\. If the applicant indicates that one or more of the Member States concerned shall no longer be considered as such, the competent authorities in those Member States shall provide to the competent authority in the reference Member State and to the competent authorities in the other Member States concerned any information they consider relevant with respect to the withdrawal of the application.
+
+5\. Within 90 days of receipt of a valid application for mutual recognition, the competent authority in the reference Member State shall prepare an updated assessment report containing the information referred to in Article 33 for the veterinary medicinal product and shall forward it to the competent authorities in the Member States concerned and to the applicant.
+
+6\. Within 90 days of receipt of the updated assessment report referred to in paragraph 5, the competent authorities in the Member States concerned shall examine it and inform the competent authority in the reference Member State of whether they have any objections to it on the ground that the veterinary medicinal product would pose a potential serious risk to human or animal health or to the environment. The competent authority in the reference Member State shall forward the assessment report resulting from that examination to the competent authorities in the Member States concerned and to the applicant.
+
+7\. On the request of the competent authority in the reference Member State or the competent authority in any of the Member States concerned, the coordination group shall be convened to examine the updated assessment report within the period referred to in paragraph 6.
+
+8\. Where no competent authority of any Member State concerned has informed the competent authority in the reference Member State of an objection to the updated assessment report, as referred to in paragraph 6, the competent authority in the reference Member State shall record that there is an agreement, close the procedure and, without undue delay, inform the applicant and the competent authorities in all Member States accordingly. The competent authorities in the Member States concerned shall grant a marketing authorisation in conformity with the updated assessment report within 30 days of receipt of both the information on the agreement from the competent authority in the reference Member State and the complete translations of the summary of product characteristics, labelling and package leaflet from the applicant.
+
+9\. Where a competent authority in a Member State concerned informs the competent authority in the reference Member State of an objection to the updated assessment report in accordance with paragraph 6 of this Article, the procedure referred to in Article 54 shall apply.
+
+10\. If at any stage of the procedure for mutual recognition the competent authority in a Member State concerned invokes the reasons referred to in Article 110(1) for prohibiting the veterinary medicinal product, that Member State shall no longer be considered as a Member State concerned.
+
+11\. The competent authority in the reference Member State shall make the assessment report publicly available, after deleting any commercially confidential information.
+
+### Section 5 — Subsequent recognition in the mutual recognition and decentralised marketing authorisation procedures
+
+#### Article 53 — Subsequent recognition of marketing authorisations by additional Member States concerned
+
+1\. After completion of a decentralised procedure laid down in Article 49 or a mutual recognition procedure laid down in Article 52 granting a marketing authorisation, the marketing authorisation holder may submit an application for a marketing authorisation for the veterinary medicinal product to the competent authorities in additional Member States concerned and to the competent authority in the reference Member State referred to in Article 49 or 52, as applicable, in accordance with the procedure laid down in this Article. In addition to the data referred to in Article 8, the application shall include the following:
+
+(a) a list of all decisions granting, suspending or revoking marketing authorisations which concern the veterinary medicinal product;
+
+(b) information on the variations introduced since the grant of the marketing authorisation by decentralised procedure laid down in Article 49(7) or by mutual recognition procedure laid down in Article 52(8);
+
+(c) a summary report on pharmacovigilance data.
+
+2\. The competent authority in the reference Member State referred to in Article 49 or 52, as applicable, shall forward within 60 days to the competent authorities in the additional Member States concerned the decision to grant the marketing authorisation and any variations thereto and shall, within that period, prepare and forward an updated assessment report concerning that marketing authorisation and those variations, as applicable, and inform the applicant accordingly.
+
+3\. The competent authority in each additional Member State concerned shall grant a marketing authorisation in conformity with the updated assessment report referred to in paragraph 2 within 60 days of receipt of both the data and information referred to in paragraph 1 and the complete translations of the summary of product characteristics, labelling and package leaflet.
+
+4\. By derogation from paragraph 3 of this Article, if the competent authority in an additional Member State concerned has reasons for refusing the marketing authorisation on the ground that the veterinary medicinal product would pose a potential serious risk to human or animal health or to the environment, it shall, at the latest within a period of 60 days of receipt of both the data and information referred to in paragraph 1 and updated assessment report referred to in paragraph 2 of this Article raise its objections and provide a detailed statement of the reasons to the competent authority in the reference Member State referred to in Article 49 or 52, as applicable, and to the competent authorities in the Member States concerned, referred to in those Articles, and to the applicant.
+
+5\. In the case of objections raised by the competent authority in an additional Member State concerned in accordance with paragraph 4, the competent authority in the reference Member State shall take any appropriate steps in order to seek an agreement as regards the objections made. The competent authorities in the reference Member State and in the additional Member State concerned shall make their best efforts to reach an agreement on the action to be taken.
+
+6\. The competent authority in the reference Member State shall provide the applicant with the opportunity to provide, orally or in writing, the applicant’s point of view as regards the objections raised by the competent authority in an additional Member State concerned.
+
+7\. Where, following the steps taken by the competent authority in the reference Member State, an agreement is reached by the competent authorities in the reference Member State and in the Member States which have already granted a marketing authorisation and the competent authorities in the additional Member States concerned, the competent authorities in the additional Member States concerned shall grant a marketing authorisation in accordance with paragraph 3.
+
+8\. If the competent authority in the reference Member State has not been able to find an agreement with the competent authorities in the Member States concerned and additional Member States concerned at the latest within 60 days from the date on which the objections referred to in paragraph 4 of this Article were raised, it shall refer the application together with the updated assessment report referred to in paragraph 2 of this Article and the objections of the competent authorities in the additional Member States concerned to the coordination group in accordance with the review procedure laid down in Article 54.
+
+### Section 6 — Review procedure
+
+#### Article 54 — Review procedure
+
+1\. If the competent authority in a Member State concerned raises, in accordance with Article 49(5), 52(6), 53(8) or 66(8) an objection as referred to in those Articles to, respectively, the assessment report or the updated assessment report, it shall provide without delay a detailed statement of the reasons for any such objection to the competent authority in the reference Member State, to the competent authorities in the Member States concerned and to the applicant or the marketing authorisation holder. The competent authority in the reference Member State shall refer the points of disagreement without delay to the coordination group.
+
+2\. The competent authority in the reference Member State shall take, within 90 days of receipt of the objection, any appropriate steps in order to seek an agreement as regards the objection raised.
+
+3\. The competent authority in the reference Member State shall provide the applicant or the marketing authorisation holder with the opportunity to provide, orally or in writing, their point of view as regards the objection raised.
+
+4\. Where an agreement among the competent authorities referred to in Articles 49(1), 52(1), 53(1) and 66(1) is reached, the competent authority in the reference Member State shall close the procedure and inform the applicant or the marketing authorisation holder. The competent authorities in the Member States concerned shall grant or vary a marketing authorisation.
+
+5\. When the competent authorities referred to in Articles 49(1), 52(1), 53(1) and 66(1) reach an agreement by consensus to refuse the marketing authorisation or to reject the variation, the competent authority in the reference Member State shall close the procedure and inform the applicant or the marketing authorisation holder thereof, duly justifying the refusal or the rejection. The competent authorities in the Member States concerned shall thereafter refuse the marketing authorisation or reject the variation.
+
+6\. If an agreement among the competent authorities referred to in Articles 49(1), 52(1), 53(1) and 66(1) cannot be reached by consensus, the coordination group shall provide the Commission with the assessment report referred to in Articles 49(5), 52(6), 53(2) and 66(3), respectively, together with information on the points of disagreement at the latest within a period of 90 days from the date on which the objection referred to in paragraph 1 of this Article was raised.
+
+7\. Within 30 days of receipt of the report and information referred to in paragraph 6, the Commission shall prepare a draft decision to be taken in respect of the application. The Commission shall forward the draft decision to the competent authorities and to the applicant or the marketing authorisation holder.
+
+8\. The Commission may request clarifications from the competent authorities or the Agency. The time limit laid down in paragraph 7 shall be suspended until the clarifications have been provided.
+
+9\. For the purpose of the work-sharing procedure in respect of variations requiring assessment in accordance with Article 66, references in this Article to a competent authority in the reference Member State shall be understood as references to a competent authority agreed upon in accordance with Article 65(3), and references to Member States concerned as references to relevant Member States.
+
+10\. The Commission shall, by means of implementing acts, take a decision to grant, change, refuse or revoke a marketing authorisation or to reject a variation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+## CHAPTER IV — POST-MARKETING AUTHORISATION MEASURES
+
+### Section 1 — Union product database
+
+#### Article 55 — Union database on veterinary medicinal products
+
+1\. The Agency shall establish and, in collaboration with the Member States, maintain, a Union database on veterinary medicinal products (‘product database’).
+
+2\. The product database shall contain at least the following information:
+
+(a) for veterinary medicinal products authorised within the Union by the Commission and by the competent authorities:
+
+(i) name of the veterinary medicinal product;
+
+(ii) active substance or substances, and the strength of the veterinary medicinal product;
+
+(iii) summary of product characteristics;
+
+(iv) package leaflet;
+
+(v) the assessment report;
+
+(vi) list of sites where the veterinary medicinal product is manufactured; and
+
+(vii) the dates of the placing of the veterinary medicinal product on the market in a Member State;
+
+(b) for homeopathic veterinary medicinal products registered in accordance with Chapter V within the Union by the competent authorities:
+
+(i) name of the registered homeopathic veterinary medicinal product;
+
+(ii) package leaflet; and
+
+(iii) lists of sites where the registered homeopathic veterinary medicinal product is manufactured;
+
+(c) veterinary medicinal products allowed to be used in a Member State in accordance with Article 5(6);
+
+(d) the annual volume of sales and information on the availability for each veterinary medicinal product.
+
+3\. The Commission shall, by means of implementing acts, adopt the necessary measures and practical arrangements laying down:
+
+(a) the technical specifications of the product database including the electronic data exchange mechanism for exchanging with the existing national systems and the format for electronic submission;
+
+(b) the practical arrangements for the functioning of the product database, in particular to ensure protection of commercially confidential information and security of exchange of information;
+
+(c) detailed specifications of the information to be included, updated and shared in the product database and by whom;
+
+(d) contingency arrangements to be applied in case of unavailability of any of the functionalities of the product database;
+
+(e) where appropriate, data to be included in the product database in addition to the information referred to in paragraph 2 of this Article.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+#### Article 56 — Access to the product database
+
+1\. The competent authorities, the Agency and the Commission shall have full access to the information in the product database.
+
+2\. Marketing authorisation holders shall have full access to the information in the product database as regards their marketing authorisations.
+
+3\. The general public shall have access to information in the product database, without the possibility to change the information therein, as regards the list of the veterinary medicinal products, the summary of product characteristics, package leaflets and, after the deletion of any commercially confidential information by the competent authority, assessment reports.
+
+### Section 2 — Collection of data by Member States and responsibilities of marketing authorisation holders
+
+#### Article 57 — Collection of data on antimicrobial medicinal products used in animals
+
+1\. Member States shall collect relevant and comparable data on the volume of sales and on the use of antimicrobial medicinal products used in animals, to enable in particular the direct or indirect evaluation of the use of such products in food-producing animals at farm level, in accordance with this Article and within the time limits set out in paragraph 5.
+
+2\. Member States shall send collated data on the volume of sales and the use per animal species and per types of antimicrobial medicinal products used in animals to the Agency in accordance with paragraph 5 and within the time limits referred to therein. The Agency shall cooperate with Member States and with other Union agencies to analyse those data and shall publish an annual report. The Agency shall take into account those data when adopting any relevant guidelines and recommendations.
+
+3\. The Commission shall adopt delegated acts in accordance with Article 147, in order to supplement this Article, establishing the requirements as regards:
+
+(a) the types of antimicrobial medicinal products used in animals for which data shall be collected;
+
+(b) the quality assurance that Member States and the Agency shall put in place to ensure quality and comparability of data; and
+
+(c) the rules on the methods of gathering data on the use of the antimicrobial medicinal products used in animals and on the method of transfer of those data to the Agency.
+
+4\. The Commission shall, by means of implementing acts, set up the format for the data to be collected in accordance with this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+5\. Member States shall be allowed to apply a progressive stepwise approach regarding the obligations set out in this Article so that:
+
+(a) within two years from 28 January 2022, data shall be collected at least for the species and categories included in Commission Implementing Decision 2013/652/EU ( 6 ) in its version of 11 December 2018;
+
+(b) within five years from 28 January 2022, data shall be collected for all food-producing animal species;
+
+(c) within eight years from 28 January 2022, data shall be collected for other animals which are bred or kept.
+
+6\. Nothing in point (c) of paragraph 5 shall be understood to include an obligation to collect data from natural persons keeping companion animals.
+
+#### Article 58 — Responsibilities of the marketing authorisation holders
+
+1\. The marketing authorisation holder shall be responsible for the marketing of its veterinary medicinal products. The designation of a representative shall not relieve the marketing authorisation holder of legal responsibility.
+
+2\. The marketing authorisation holder shall, within the limits of its responsibilities, ensure appropriate and continued supplies of its veterinary medicinal products.
+
+3\. After a marketing authorisation has been granted, the marketing authorisation holder shall, in respect of the methods of manufacture and control stated in the application for that marketing authorisation, take account of scientific and technical progress and introduce any changes that may be required to enable the veterinary medicinal product to be manufactured and controlled by means of generally accepted scientific methods. The introduction of such changes shall be subject to the procedures laid down in Section 3 of this Chapter.
+
+4\. The marketing authorisation holder shall ensure that the summary of product characteristics, package leaflet and labelling is kept up to date with current scientific knowledge.
+
+5\. The marketing authorisation holder shall not place generic veterinary medicinal products and hybrid veterinary medicinal products on the Union market until the period of the protection of technical documentation for the reference veterinary medicinal product, as set out in Articles 39 and 40, has elapsed.
+
+6\. The marketing authorisation holder shall record in the product database the dates when its authorised veterinary medicinal products are placed on the market, information on the availability for each veterinary medicinal product in each relevant Member State and, as applicable, the dates of any suspension or revocation of the marketing authorisations concerned.
+
+7\. On the request of the competent authorities, the marketing authorisation holder shall provide them with sufficient quantities of samples to enable controls to be made on its veterinary medicinal products placed on the Union market.
+
+8\. On the request of a competent authority, the marketing authorisation holder shall provide technical expertise to facilitate the implementation of the analytical method for detecting residues of the veterinary medicinal products in the European Union reference laboratory designated under Regulation (EU) 2017/625.
+
+9\. On the request of a competent authority or the Agency, the marketing authorisation holder shall, within the time limit set in that request, provide data demonstrating that the benefit-risk balance remains positive.
+
+10\. The marketing authorisation holder shall without delay inform the competent authority which has granted the marketing authorisation or the Commission, as applicable, of any prohibition or restriction imposed by a competent authority or by an authority of a third country and of any other new information which might influence the assessment of the benefits and risks of the veterinary medicinal product concerned, including from the outcome of the signal management process carried out in accordance with Article 81.
+
+11\. The marketing authorisation holder shall provide the competent authority, the Commission or the Agency, as applicable, within the time limit set, with all data in its possession relating to the volume of sales of the veterinary medicinal product concerned.
+
+12\. The marketing authorisation holder shall record in the product database the annual volume of sales for each of its veterinary medicinal products.
+
+13\. The marketing authorisation holder shall without delay inform the competent authority which has granted the marketing authorisation or the Commission, as applicable, of any action which the holder intends to take in order to cease the marketing of a veterinary medicinal product prior to taking such action, together with the reasons for such action.
+
+#### Article 59 — Small and medium-sized enterprises
+
+Member States shall, in accordance with their national law, take appropriate measures to advise small and medium-sized enterprises on compliance with the requirements of this Regulation.
+
+### Section 3 — Changes to the terms of the marketing authorisations
+
+#### Article 60 — Variations
+
+1\. The Commission shall, by means of implementing acts, establish a list of variations not requiring assessment. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+2\. The Commission shall take account of the following criteria when adopting the implementing acts referred to in paragraph 1:
+
+(a) the need for a scientific assessment of changes in order to determine the risk to public or animal health or to the environment;
+
+(b) whether changes have an impact on the quality, safety or efficacy of the veterinary medicinal product;
+
+(c) whether changes imply no more than a minor alteration to the summary of product characteristics;
+
+(d) whether changes are of an administrative nature.
+
+#### Article 61 — Variations that do not require assessment
+
+1\. Where a variation is included in the list established in accordance with Article 60(1), the marketing authorisation holder shall record the change including, as applicable, the summary of product characteristics, labelling or package leaflet in languages referred to in Article 7, in the product database within 30 days following the implementation of that variation.
+
+2\. If necessary, competent authorities or, where the veterinary medicinal product is authorised under the centralised marketing authorisation procedure, the Commission shall, by means of implementing acts, amend the marketing authorisation in accordance with the change recorded as referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+3\. The competent authority of the reference Member State or, in the case of variation to the terms of a national marketing authorisation, the competent authority of the relevant Member State, or the Commission, as applicable, shall inform the marketing authorisation holder and the competent authorities in the relevant Member States as to whether the variation is approved or rejected by recording that information in the product database.
+
+#### Article 62 — Application for variations requiring assessment
+
+1\. Where a variation is not included in the list established in accordance with Article 60(1), the marketing authorisation holder shall submit an application for a variation requiring assessment to the competent authority which has granted the marketing authorisation or to the Agency, as applicable. The applications shall be submitted electronically.
+
+2\. The application referred to in paragraph 1 shall contain:
+
+(a) a description of the variation;
+
+(b) data referred to in Article 8 relevant to the variation;
+
+(c) details of the marketing authorisations affected by the application;
+
+(d) where the variation leads to consequential variations to the terms of the same marketing authorisation, a description of those consequential variations;
+
+(e) where the variation concerns marketing authorisations granted under the mutual recognition or decentralised procedures, a list of Member States which granted those marketing authorisations.
+
+#### Article 63 — Consequential changes to product information
+
+Where a variation entails consequential changes to the summary of the product characteristics, the labelling or the package leaflet, those changes shall be considered as part of that variation for the purposes of the examination of the application for a variation.
+
+#### Article 64 — Groups of variations
+
+When the marketing authorisation holder applies for several variations not included in the list established in accordance with Article 60(1) regarding the same marketing authorisation or for one variation not appearing in that list in respect of several different marketing authorisations, that marketing authorisation holder may submit one application for all variations.
+
+#### Article 65 — Work-sharing procedure
+
+1\. When the marketing authorisation holder applies for one or more variations which are identical in all relevant Member States and which do not appear in the list established in accordance with Article 60(1) regarding several marketing authorisations which are held by the same marketing authorisation holder and which have been granted by different competent authorities or the Commission, that marketing authorisation holder shall submit an identical application to competent authorities in all relevant Member States and, where a variation to a centrally authorised veterinary medicinal product is included, to the Agency.
+
+2\. Where any of the marketing authorisations referred to in paragraph 1 of this Article is a centralised marketing authorisation, the Agency shall assess the application in accordance with the procedure laid down in Article 66.
+
+3\. Where none of the marketing authorisations referred to in paragraph 1 of this Article is a centralised marketing authorisation, the coordination group shall agree upon a competent authority among those having granted the marketing authorisations to assess the application in accordance with the procedure laid down in Article 66.
+
+4\. The Commission may, by means of implementing acts, adopt the necessary arrangements regarding the functioning of the worksharing procedure. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+#### Article 66 — Procedure for variations requiring assessment
+
+1\. If an application for a variation fulfils the requirements laid down in Article 62, the competent authority, the Agency, the competent authority agreed in accordance with Article 65(3), or the competent authority in the reference Member State, as applicable, shall within 15 days acknowledge receipt of a valid application.
+
+2\. If the application is incomplete, the competent authority, the Agency, the competent authority agreed in accordance with Article 65(3), or the competent authority in the reference Member State, as applicable, shall require the marketing authorisation holder to provide the missing information and documentation within a reasonable time limit.
+
+3\. The competent authority, the Agency, the competent authority agreed in accordance with Article 65(3), or the competent authority in the reference Member State, as applicable, shall assess the application and prepare, respectively, an assessment report or an opinion, in accordance with Article 33, on the variation. That assessment report or opinion shall be prepared within 60 days following the receipt of a valid application. In case the assessment of an application requires more time due to its complexity, the relevant competent authority or the Agency, as applicable, may extend this period to 90 days. In such a case, the relevant competent authority or the Agency, as applicable, shall inform the marketing authorisation holder accordingly.
+
+4\. Within the period referred to in paragraph 3, the relevant competent authority or the Agency, as applicable, may require the marketing authorisation holder to provide supplementary information within a set time limit. The procedure shall be suspended until the supplementary information has been provided.
+
+5\. Where the opinion referred to in paragraph 3 is prepared by the Agency, the Agency shall forward it to the Commission and to the marketing authorisation holder.
+
+6\. Where the opinion referred to in paragraph 3 of this Article is prepared by the Agency in accordance with Article 65(2), the Agency shall forward it to all competent authorities in the relevant Member States, to the Commission and to the marketing authorisation holder.
+
+7\. Where the assessment report referred to in paragraph 3 of this Article is prepared by the competent authority agreed in accordance with Article 65(3), or prepared by the competent authority in the reference Member State, it shall be forwarded to the competent authorities in all relevant Member States and to the marketing authorisation holder.
+
+8\. Where a competent authority does not agree with the assessment report referred to in paragraph 7 of this Article it received, the review procedure laid down in Article 54 shall apply.
+
+9\. Subject to the outcome of the procedure provided for in paragraph 8, if applicable, the opinion or the assessment report referred to in paragraph 3 shall be forwarded to the marketing authorisation holder without delay.
+
+10\. Within 15 days of receipt of the opinion or the assessment report, the marketing authorisation holder may submit a written request to the competent authority, the Agency, the competent authority agreed in accordance with Article 65(3), or the competent authority in the reference Member State, as applicable, for a re-examination of the opinion or the assessment report. Detailed grounds for requesting a re-examination shall be submitted to the competent authority, the Agency, the competent authority agreed in accordance with Article 65(3) or the competent authority in the reference Member State, as applicable, within 60 days of receipt of the opinion or the assessment report.
+
+11\. Within 60 days of receipt of the grounds for the request for re-examination, the competent authority, the Agency, the competent authority agreed in accordance with Article 65(3) or the competent authority in the reference Member State, as applicable, shall re-examine the points of the opinion or the assessment report identified in the request for re-examination by the marketing authorisation holder and adopt a re-examined opinion or assessment report. The reasons for the conclusions reached shall be annexed to the re-examined opinion or the assessment report.
+
+#### Article 67 — Measures to close the procedure for variations requiring assessment
+
+1\. Within 30 days of the completion of the procedure laid down in Article 66 and of receiving the complete translations of the summary of the product characteristics, labelling and package leaflet from the marketing authorisation holder, the competent authority, the Commission or the competent authorities in the Member States listed in accordance with point (e) of Article 62(2), as applicable, shall amend the marketing authorisation or reject the variation in line with the opinion or the assessment report referred to in Article 66 and inform the marketing authorisation holder of the grounds for the rejection.
+
+2\. In the case of a centralised marketing authorisation, the Commission shall prepare a draft decision to be taken in respect of the variation. Where the draft decision is not in accordance with the opinion of the Agency, the Commission shall provide a detailed explanation of the reasons for not following the opinion of the Agency. The Commission shall, by means of implementing acts, adopt a decision to amend the marketing authorisation or reject the variation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+3\. The competent authority or the Commission, as applicable, shall notify the marketing authorisation holder of the amended marketing authorisation without delay.
+
+4\. The competent authority, the Commission, the Agency, or the competent authorities in the Member States listed in accordance with point (e) of Article 62(2), as applicable, shall update the product database accordingly.
+
+#### Article 68 — Implementation of variations requiring assessment
+
+1\. A marketing authorisation holder may implement a variation requiring assessment only after a competent authority or the Commission, as applicable, has amended the decision granting the marketing authorisation in accordance with that variation, has set a time limit for the implementation and has notified the marketing authorisation holder thereof in accordance with Article 67(3).
+
+2\. Where requested by a competent authority or the Commission, a marketing authorisation holder shall supply, without delay, any information related to the implementation of a variation.
+
+### Section 4 — Harmonisation of the summaries of product characteristics for nationally authorised products
+
+#### Article 69 — Scope of the harmonisation of summaries of product characteristics of a veterinary medicinal product
+
+A harmonised summary of product characteristics shall be prepared in accordance with the procedure laid down in Articles 70 and 71 for:
+
+(a) reference veterinary medicinal products which have the same qualitative and quantitative composition of their active substances and the same pharmaceutical form and for which marketing authorisations have been granted in accordance with Article 47 in different Member States for the same marketing authorisation holder;
+
+(b) generic and hybrid veterinary medicinal products.
+
+#### Article 70 — Procedure for harmonisation of summaries of product characteristics for the reference veterinary medicinal products
+
+1\. The competent authorities shall submit annually to the coordination group a list of reference veterinary medicinal products and their summary of product characteristics for which a marketing authorisation has been granted in accordance with Article 47 if, according to the competent authority, they should be subject to the procedure for harmonisation of their summaries of product characteristics.
+
+2\. The marketing authorisation holder may apply for the procedure of harmonisation of summaries of product characteristics for a reference veterinary medicinal product by submitting to the coordination group the list of different names of this veterinary medicinal product and the different summaries of product characteristics for which a marketing authorisation has been granted in accordance with Article 47 in different Member States.
+
+3\. The coordination group shall, taking into account the lists provided by the Member States in accordance with paragraph 1 or any application received from a marketing authorisation holder in accordance with paragraph 2, draw up annually and publish a list of reference veterinary medicinal products which shall be subject to harmonisation of their summaries of product characteristics and shall appoint a reference Member State for each reference veterinary medicinal product concerned.
+
+4\. When drawing up the list of reference veterinary medicinal products which shall be subject to harmonisation of their summaries of product characteristics, the coordination group may decide on prioritising its work on harmonisation of summaries of product characteristics, taking into account the recommendations of the Agency on class or group of reference veterinary medicinal products that shall be harmonised in order to protect human or animal health or the environment, including mitigation measures to prevent the risk to the environment.
+
+5\. On the request of the competent authority in the reference Member State referred to in paragraph 3 of this Article, the marketing authorisation holder shall provide the coordination group with a summary that specifies the differences between the summaries of product characteristics, its proposal for a harmonised summary of product characteristics, package leaflet and labelling in accordance with Article 7, supported by the appropriate existing data submitted in accordance with Article 8 and which are relevant to the proposal for harmonisation concerned.
+
+6\. Within 180 days of receipt of the information referred to in paragraph 5, the competent authority in the reference Member State shall examine, in consultation with the marketing authorisation holder, the documents submitted in accordance with paragraph 5, prepare a report and submit it to the coordination group and to the marketing authorisation holder.
+
+7\. After receipt of the report, if the coordination group agrees by consensus on the harmonised summary of product characteristics, the competent authority in the reference Member State shall record that there is an agreement, close the procedure, inform the marketing authorisation holder accordingly and transmit to the same marketing authorisation holder the harmonised summary of product characteristics.
+
+8\. The marketing authorisation holder shall submit to the competent authorities in each relevant Member State the necessary translations of the summary of product characteristics, package leaflet and labelling in accordance with Article 7, within the time limit set by the coordination group.
+
+9\. Following an agreement in accordance with paragraph 7, the competent authorities in each relevant Member State shall amend the marketing authorisation in conformity with the agreement within 30 days of receipt of the translations referred to in paragraph 8.
+
+10\. The competent authority in the reference Member State shall take any appropriate steps in order to seek an agreement within the coordination group before the initiation of the procedure referred to in paragraph 11.
+
+11\. Where the agreement is not reached because of lack of consensus in favour of a harmonised summary of product characteristics following the efforts referred to in paragraph 10 of this Article, the procedure for a Union interest referral referred to in Articles 83 and 84 shall apply.
+
+12\. In order to maintain the level of harmonisation of the summary of product characteristics achieved, any future variation of the marketing authorisations concerned shall follow the mutual recognition procedure.
+
+#### Article 71 — Procedure for harmonisation of summaries of product characteristics for generic and hybrid veterinary medicinal products
+
+1\. When the procedure referred to in Article 70 has been closed and a harmonised summary of product characteristics for a reference veterinary medicinal product has been agreed, the marketing authorisation holders of generic veterinary medicinal products shall apply, within 60 days of the decision by the competent authorities in each Member State and in accordance with Article 62, for the harmonisation of the following sections of the summary of product characteristics for the generic veterinary medicinal products concerned, as applicable:
+
+(a) target species;
+
+(b) clinical information referred to in point (c) of Article 35(1);
+
+(c) the withdrawal period.
+
+2\. By way of derogation from paragraph 1, in the case of a marketing authorisation for a hybrid veterinary medicinal product supported by additional pre-clinical studies or clinical trials, the relevant sections of the summary of product characteristics referred to in paragraph 1 shall not be considered to be subject to harmonisation.
+
+3\. The marketing authorisation holders of generic and hybrid veterinary medicinal products shall ensure that the summaries of products characteristics of their products shall be essentially similar to those of the reference veterinary medicinal products.
+
+#### Article 72 — Environmental safety documentation and environmental risk assessment of certain veterinary medicinal products
+
+The list referred to in Article 70(1) shall not contain any reference veterinary medicinal product authorised before 1 October 2005 and which is identified as potentially harmful to the environment and has not been subject to an environmental risk assessment.
+
+Where the reference veterinary medicinal product is authorised before 1 October 2005 and is identified as potentially harmful to the environment and has not been subject to an environmental risk assessment, the competent authority shall request the marketing authorisation holder to update the relevant environmental safety documentation referred to in point (b) of Article 8(1), taking into account the review referred to in Article 156, and, if applicable, the environmental risk assessment of generic veterinary medicinal products of such reference medicinal products.
+
+### Section 5 — Pharmacovigilance
+
+#### Article 73 — Union pharmacovigilance system
+
+1\. Member States, the Commission, the Agency and marketing authorisation holders shall collaborate in setting up and maintaining a Union pharmacovigilance system to carry out pharmacovigilance tasks with respect to the safety and efficacy of authorised veterinary medicinal products in order to ensure continuous assessment of the benefit-risk balance.
+
+2\. Competent authorities, the Agency and marketing authorisation holders shall take the necessary measures to make available means to report and encourage reporting of the following suspected adverse events:
+
+(a) any unfavourable and unintended reaction in any animal to a veterinary medicinal product;
+
+(b) any observation of a lack of efficacy of a veterinary medicinal product following its administration to an animal, whether or not in accordance with the summary of product characteristics;
+
+(c) any environmental incidents observed following the administration of a veterinary medicinal product to an animal;
+
+(d) any noxious reaction in humans exposed to a veterinary medicinal product;
+
+(e) any finding of a pharmacologically active substance or marker residue in a product of animal origin exceeding the maximum levels of residues established in accordance with Regulation (EC) No 470/2009 after the set withdrawal period has been respected;
+
+(f) any suspected transmission of an infectious agent via a veterinary medicinal product;
+
+(g) any unfavourable and unintended reaction in an animal to a medicinal product for human use.
+
+#### Article 74 — Union pharmacovigilance database
+
+1\. The Agency shall, in collaboration with Member States, establish and maintain a Union pharmacovigilance database for the reporting and recording of suspected adverse events referred to in Article 73(2) (the ‘pharmacovigilance database’), which shall also include the information on qualified person responsible for pharmacovigilance as referred to in Article 77(8), the reference numbers of the pharmacovigilance system master file, the results and outcomes of the signal management process and results of pharmacovigilance inspections in accordance with Article 126.
+
+2\. The pharmacovigilance database shall be interconnected with the product database referred to in Article 55.
+
+3\. The Agency shall, in collaboration with the Member States and the Commission, draw up the functional specifications for the pharmacovigilance database.
+
+4\. The Agency shall ensure that information reported is uploaded in the pharmacovigilance database and made accessible in accordance with Article 75.
+
+5\. The system of the pharmacovigilance database shall be established as a data-processing network allowing transmission of data between Member States, the Commission, the Agency and the marketing authorisation holders to ensure that in the event of an alert related to pharmacovigilance data, options for risk management and any appropriate measures can be considered as referred to in Articles 129, 130 and 134.
+
+#### Article 75 — Access to the pharmacovigilance database
+
+1\. The competent authorities shall have full access to the pharmacovigilance database.
+
+2\. Marketing authorisation holders shall have access to the pharmacovigilance database with respect to data related to the veterinary medicinal products for which they hold a marketing authorisation and to other non-confidential data related to veterinary medicinal products for which they do not hold a marketing authorisation to the extent necessary for them to comply with their pharmacovigilance responsibilities as referred to in Articles 77, 78 and 81.
+
+3\. The general public shall have access to the pharmacovigilance database, without the possibility to change the information therein, as regards the following information:
+
+(a) the number and at the latest within two years from 28 January 2022 the incidence of suspected adverse events reported each year, broken down by veterinary medicinal product, animal species and type of suspected adverse event;
+
+(b) the results and outcomes referred to in Article 81(1) that arise from the signal management process performed by the marketing authorisation holder for veterinary medicinal products or groups of veterinary medicinal products.
+
+#### Article 76 — Reporting and recording of suspected adverse events
+
+1\. Competent authorities shall record in the pharmacovigilance database all suspected adverse events which were reported to them and that occurred in the territory of their Member State, within 30 days of receipt of the suspected adverse event report.
+
+2\. Marketing authorisation holders shall record in the pharmacovigilance database all suspected adverse events which were reported to them and that occurred within the Union or in a third country or that have been published in the scientific literature with regard to their authorised veterinary medicinal products, without delay and no later than within 30 days of receipt of the suspected adverse event report.
+
+3\. The Agency may request the holder of a marketing authorisation for centrally authorised veterinary medicinal products, or for nationally authorised veterinary medicinal products in cases where they fall within the scope of a Union interest referral referred to in Article 82, to collect specific pharmacovigilance data additional to the data listed in Article 73(2) and to carry out post-marketing surveillance studies. The Agency shall state in detail the reasons for the request, set an appropriate time limit and inform competent authorities thereof.
+
+4\. Competent authorities may request the holder of a marketing authorisation for nationally authorised veterinary medicinal products to collect specific pharmacovigilance data, additional to the data listed in Article 73(2) and to carry out post-marketing surveillance studies. The competent authority shall state in detail the reasons for the request, set an appropriate time limit and inform other competent authorities and the Agency thereof.
+
+#### Article 77 — Pharmacovigilance responsibilities of the marketing authorisation holder
+
+1\. Marketing authorisation holders shall establish and maintain a system for collecting, collating and evaluating information on the suspected adverse events concerning their authorised veterinary medicinal products, enabling them to fulfil their pharmacovigilance responsibilities (‘pharmacovigilance system’).
+
+2\. The marketing authorisation holder shall have in place one or more pharmacovigilance system master files describing in detail the pharmacovigilance system with respect to its authorised veterinary medicinal products. For each veterinary medicinal product, the marketing authorisation holder shall not have more than one pharmacovigilance system master file.
+
+3\. The marketing authorisation holder shall designate a local or regional representative for the purpose of receiving reports of suspected adverse events who is able to communicate in the languages of the relevant Member States.
+
+4\. The marketing authorisation holder shall be responsible for the pharmacovigilance of the veterinary medicinal product for which it holds a marketing authorisation and shall continuously evaluate by appropriate means the benefit-risk balance of this veterinary medicinal product and, if necessary, take appropriate measures.
+
+5\. The marketing authorisation holder shall comply with good pharmacovigilance practice for veterinary medicinal products.
+
+6\. The Commission shall, by means of implementing acts, adopt necessary measures on good pharmacovigilance practice for veterinary medicinal products and also on the format and content of the pharmacovigilance system master file and its summary. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+7\. Where the pharmacovigilance tasks have been contracted out by the marketing authorisation holder to a third party, those arrangements shall be set out in detail in the pharmacovigilance system master file.
+
+8\. The marketing authorisation holder shall designate one or more qualified persons responsible for pharmacovigilance to carry out the tasks provided for in Article 78. Those qualified persons shall reside and operate in the Union and shall be appropriately qualified and be permanently at the disposal of the marketing authorisation holder. Only one such qualified person shall be designated for each pharmacovigilance system master file.
+
+9\. The tasks, set out in Article 78, of the qualified person responsible for pharmacovigilance referred to in paragraph 8 of this Article may be outsourced to a third party under the conditions set out in that paragraph. In such cases, those arrangements shall be specified in detail in the contract and included in the pharmacovigilance system master file.
+
+10\. The marketing authorisation holder shall, based on the assessment of the pharmacovigilance data, and where necessary, submit without undue delay an application for a variation to the terms of a marketing authorisation in accordance with Article 62.
+
+11\. The marketing authorisation holder shall not make a public announcement on pharmacovigilance information in relation to its veterinary medicinal products without giving prior or simultaneous notification of its intention to the competent authority having granted the marketing authorisation or to the Agency, as applicable.
+
+The marketing authorisation holder shall ensure that such public announcement is presented objectively and is not misleading.
+
+#### Article 78 — Qualified person responsible for pharmacovigilance
+
+1\. The qualified person responsible for pharmacovigilance as referred to in Article 77(8) shall ensure that the following tasks are carried out:
+
+(a) elaborating and maintaining the pharmacovigilance system master file;
+
+(b) allocating reference numbers to the pharmacovigilance system master file and communicating that reference number to the pharmacovigilance database for each product;
+
+(c) notifying the competent authorities and the Agency, as applicable, of the place of operation;
+
+(d) establishing and maintaining a system which ensures that all suspected adverse events which are brought to the attention of the marketing authorisation holder are collected and recorded in order to be accessible at least at one site in the Union;
+
+(e) compiling the suspected adverse event reports referred to in Article 76(2), evaluating them, where necessary, and recording them in the pharmacovigilance database;
+
+(f) ensuring that any request from the competent authorities or the Agency for the provision of additional information necessary for the evaluation of the benefit-risk balance of a veterinary medicinal product is answered fully and promptly;
+
+(g) providing competent authorities or the Agency, as applicable, with any other information relevant to detecting a change to the benefit-risk balance of a veterinary medicinal product, including appropriate information on post-marketing surveillance studies;
+
+(h) applying the signal management process referred to in Article 81 and ensuring that any arrangements for the fulfilment of responsibilities referred to in Article 77(4) are in place;
+
+(i) monitoring the pharmacovigilance system and ensuring that if needed, an appropriate preventive or corrective action plan is prepared, implemented and, where necessary, ensuring changes to the pharmacovigilance system master file;
+
+(j) ensuring that all personnel of the marketing authorisation holder involved in the performance of pharmacovigilance activities receives continued training;
+
+(k) communicating any regulatory measure that is taken in a third country and is related to pharmacovigilance data to the competent authorities and to the Agency within 21 days of receipt of such information.
+
+2\. The qualified person referred to in Article 77(8) shall be the contact point for the marketing authorisation holder regarding pharmacovigilance inspections.
+
+#### Article 79 — Pharmacovigilance responsibilities of the competent authorities and the Agency
+
+1\. Competent authorities shall lay down the necessary procedures to evaluate the results and outcomes of the signal management process recorded in the pharmacovigilance database in accordance with Article 81(2) as well as suspected adverse events reported to them, consider options for risk management and take any appropriate measures referred to in Articles 129, 130 and 134 concerning marketing authorisations.
+
+2\. Competent authorities may impose specific requirements on veterinarians and other healthcare professionals in respect of the reporting of suspected adverse events. The Agency may organise meetings or a network for groups of veterinarians or other healthcare professionals, where there is a specific need for collecting, collating or analysing specific pharmacovigilance data.
+
+3\. Competent authorities and the Agency shall make publicly available all important information on adverse events relating to the use of a veterinary medicinal product. It shall be done in a timely manner by any publicly available means of communication with a prior or simultaneous notification to the marketing authorisation holder.
+
+4\. Competent authorities shall verify, by means of controls and inspections referred to in Articles 123 and 126, that marketing authorisation holders comply with the requirements relating to pharmacovigilance laid down in this Section.
+
+5\. The Agency shall lay down the necessary procedures to evaluate suspected adverse events reported to it regarding centrally authorised veterinary medicinal products, and recommend risk management measures to the Commission. The Commission shall take any appropriate measures referred to in Articles 129, 130 and 134 concerning marketing authorisations.
+
+6\. The competent authority or the Agency, as applicable, may at any time request the marketing authorisation holder to submit a copy of the pharmacovigilance system master file. The marketing authorisation holder shall submit that copy at the latest within seven days of receipt of the request.
+
+#### Article 80 — Delegation of tasks by competent authority
+
+1\. A competent authority may delegate any of the tasks entrusted to it as referred to in Article 79 to a competent authority in another Member State subject to the written agreement of the latter.
+
+2\. The delegating competent authority shall inform the Commission, the Agency and other competent authorities of the delegation as referred to in paragraph 1 and make that information public.
+
+#### Article 81 — Signal management process
+
+1\. Marketing authorisation holders shall carry out a signal management process for their veterinary medicinal products, if necessary, taking into account sales data and other relevant pharmacovigilance data of which they can reasonably be expected to be aware and which may be useful for that signal management process. That data may include scientific information gathered from scientific literature reviews.
+
+2\. Where the outcome of the signal management process identifies a change to the benefit-risk balance or a new risk, marketing authorisation holders shall notify it without delay and no later than within 30 days to the competent authorities or to the Agency, as applicable, and take the necessary action in accordance with Article 77(10).
+
+The marketing authorisation holder shall record, at least annually, all results and outcomes of the signal management process, including a conclusion on the benefit-risk balance, and, if applicable, references to relevant scientific literature in the pharmacovigilance database.
+
+In the case of veterinary medicinal products referred to in point (c) of Article 42(2), the marketing authorisation holder shall record in the pharmacovigilance database all results and outcomes of the signal management process, including a conclusion on the benefit-risk balance, and, if applicable, references to relevant scientific literature according to the frequency specified in the marketing authorisation.
+
+3\. The competent authorities and the Agency may decide to perform a targeted signal management process for a given veterinary medicinal product or a group of veterinary medicinal products.
+
+4\. For the purpose of paragraph 3, the Agency and the coordination group shall share the tasks related to the targeted signal management process and shall jointly select for each veterinary medicinal product or group of veterinary medicinal products a competent authority or the Agency as responsible for such targeted signal management process (‘lead authority’).
+
+5\. When selecting a lead authority, the Agency and the coordination group shall take into account the fair allocation of tasks and shall avoid duplication of work.
+
+6\. Where the competent authorities or the Commission, as applicable, consider that follow-up action is necessary, they shall take appropriate measures as referred to in Articles 129, 130 and 134.
+
+### Section 6 — Union interest referral
+
+#### Article 82 — Scope of the Union interest referral
+
+1\. Where the interests of the Union are involved, and in particular the interests of public or animal health or of the environment related to the quality, safety or efficacy of veterinary medicinal products, the marketing authorisation holder, one or more of the competent authorities in one or more Member States or the Commission may refer its concern to the Agency for the application of the procedure laid down in Article 83. The matter of concern shall be clearly identified.
+
+2\. The marketing authorisation holder, the concerned competent authority or the Commission shall inform the other parties concerned accordingly.
+
+3\. The competent authorities in the Member States and marketing authorisation holders shall forward to the Agency on its request all available information relating to the Union interest referral.
+
+4\. The Agency may limit the Union interest referral to specific parts of the terms of the marketing authorisation.
+
+#### Article 83 — Union interest referral procedure
+
+1\. The Agency shall publish on its website information that a referral has been made in accordance with Article 82 and shall invite interested parties to provide comments.
+
+2\. The Agency shall request the Committee referred to in Article 139 to consider the referred matter. The Committee shall issue a reasoned opinion within 120 days of the matter being referred to it. That period may be extended by the Committee for a further period of up to 60 days, taking into account the views of the marketing authorisation holders concerned.
+
+3\. Before issuing its opinion, the Committee shall provide the marketing authorisation holders concerned with the opportunity to present explanations within a specified time limit. The Committee may suspend the time limit referred to in paragraph 2 to allow the marketing authorisation holders concerned to prepare the explanations.
+
+4\. In order to consider the matter, the Committee shall appoint one of its members to act as a rapporteur. The Committee may appoint independent experts to give advice on specific questions. When appointing such experts, the Committee shall define their tasks and specify the time limit for the completion of their tasks.
+
+5\. Within 15 days of its adoption by the Committee, the Agency shall forward the opinion of the Committee to the Member States, the Commission and the marketing authorisation holders concerned, together with an assessment report on one or more veterinary medicinal products and the reasons for its conclusions.
+
+6\. Within 15 days of receipt of the opinion of the Committee, the marketing authorisation holder may notify the Agency in writing of its intention to request a re-examination of that opinion. In that case, the marketing authorisation holder shall forward to the Agency the detailed reasons for the request of re-examination within 60 days of receipt of the opinion.
+
+7\. Within 60 days of receipt of a request as referred to in paragraph 6, the Committee shall re-examine its opinion. The reasons for the conclusion reached shall be annexed to the assessment report referred to in paragraph 5.
+
+#### Article 84 — Decision following the Union interest referral
+
+1\. Within 15 days of receipt of the opinion referred to in Article 83(5), and subject to the procedures referred to in Article 83(6) and (7), the Commission shall prepare a draft decision. If the draft decision is not in accordance with the opinion of the Agency, the Commission shall also provide a detailed explanation of the reasons for the differences in an annex to that draft decision.
+
+2\. The Commission shall forward the draft decision to Member States.
+
+3\. The Commission shall, by means of implementing acts, take a decision on the Union interest referral. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2). Unless otherwise stated in the referral notification in accordance with Article 82, the decision of the Commission shall apply to the veterinary medicinal products concerned by the referral.
+
+4\. Where the veterinary medicinal products concerned by the referral have been authorised in accordance with the national, mutual recognition or decentralised procedures, the decision of the Commission referred to in paragraph 3 shall be addressed to all Member States and communicated for information to the marketing authorisation holders concerned.
+
+5\. Competent authorities and marketing authorisation holders concerned shall take any necessary action with regard to the marketing authorisations for the veterinary medicinal products concerned to comply with the decision of the Commission referred to in paragraph 3 of this Article within 30 days of its notification, unless a different period is laid down in that decision. Such action shall include, where appropriate, a request to the marketing authorisation holder to submit an application for a variation referred to in Article 62(1).
+
+6\. In the case of centrally authorised veterinary medicinal products concerned by the referral, the Commission shall send its decision referred to in paragraph 3 to the marketing authorisation holder and shall communicate it also to the Member States.
+
+7\. Nationally authorised veterinary medicinal products which have been subject to a referral procedure shall be transferred to a mutual recognition procedure.
+
+## CHAPTER V — HOMEOPATHIC VETERINARY MEDICINAL PRODUCTS
+
+#### Article 85 — Homeopathic veterinary medicinal products
+
+1\. Homeopathic veterinary medicinal products that meet the conditions set out in Article 86 shall be registered in accordance with Article 87.
+
+2\. Homeopathic veterinary medicinal products that do not meet the conditions set out in Article 86 shall be subject to Article 5.
+
+#### Article 86 — Registration of homeopathic veterinary medicinal products
+
+1\. A homeopathic veterinary medicinal product that meets all of the following conditions shall be subject to a registration procedure:
+
+(a) it is administered by a route described in the European Pharmacopoeia or, in the absence thereof, by the pharmacopoeias used officially in Member States;
+
+(b) it has a sufficient degree of dilution to guarantee its safety, and shall not contain more than one part per 10 000 of the mother tincture;
+
+(c) it has no therapeutic indication appearing on its labelling or in any information relating thereto.
+
+2\. Member States may lay down procedures for the registration of homeopathic veterinary medicinal products in addition to those laid down in this Chapter.
+
+#### Article 87 — Application and procedure for registration of homeopathic veterinary medicinal products
+
+1\. The following documents shall be included in the application for a registration of a homeopathic veterinary medicinal product:
+
+(a) scientific name or other name given in a pharmacopoeia of the homeopathic stock or stocks, together with a statement of the route of administration, pharmaceutical form and degree of dilution to be registered;
+
+(b) a dossier describing how the homeopathic stock or stocks are obtained and controlled, and justifying their homeopathic use, on the basis of an adequate bibliography; in the case of homeopathic veterinary medicinal products containing biological substances, a description of the measures taken to ensure the absence of pathogens;
+
+(c) the manufacturing and control file for each pharmaceutical form and a description of the method of dilution and potentisation;
+
+(d) the manufacturing authorisation for the homeopathic veterinary medicinal products concerned;
+
+(e) copies of any registrations obtained for the same homeopathic veterinary medicinal products in other Member States;
+
+(f) the text to appear on the package leaflet, outer packaging and immediate packaging of the homeopathic veterinary medicinal products to be registered;
+
+(g) data concerning the stability of the homeopathic veterinary medicinal product;
+
+(h) in the case of homeopathic veterinary medicinal products intended for food-producing animal species, the active substances shall be those pharmacologically active substances allowed in accordance with Regulation (EC) No 470/2009 and any acts adopted on the basis thereof.
+
+2\. An application for registration may cover a series of homeopathic veterinary medicinal products of the same pharmaceutical form and derived from the same homeopathic stock or stocks.
+
+3\. The competent authority may determine the conditions under which the registered homeopathic veterinary medicinal product may be made available.
+
+4\. The procedure of registration of a homeopathic veterinary medicinal product shall be completed within 90 days of the submission of a valid application.
+
+5\. A registration holder of homeopathic veterinary medicinal products shall have the same obligations as a marketing authorisation holder, subject to Article 2(5).
+
+6\. A registration for a homeopathic veterinary medicinal product shall only be granted to an applicant established in the Union. The requirement to be established in the Union shall also apply to registration holders.
+
+## CHAPTER VI — MANUFACTURING, IMPORT AND EXPORT
+
+#### Article 88 — Manufacturing authorisations
+
+1\. A manufacturing authorisation shall be required in order to carry out any of the following activities:
+
+(a) to manufacture veterinary medicinal products even if intended only for export;
+
+(b) to engage in any part of the process of manufacturing a veterinary medicinal product or of bringing a veterinary medicinal product to its final state, including engagement in the processing, assembling, packaging and repackaging, labelling and relabelling, storing, sterilising, testing or releasing it for supply as part of that process; or
+
+(c) to import veterinary medicinal products.
+
+2\. Notwithstanding paragraph 1 of this Article, Member States may decide that a manufacturing authorisation shall not be required for preparation, dividing up, changes in packaging or presentation of veterinary medicinal products, where those processes are carried out solely for retail directly to the public in accordance with Articles 103 and 104.
+
+3\. Where paragraph 2 applies, the package leaflet shall be given with each divided part and the batch number and expiry date shall be clearly indicated.
+
+4\. The competent authorities shall record the manufacturing authorisations granted by them in the database on manufacturing and wholesale distribution set up in accordance with Article 91.
+
+5\. Manufacturing authorisations shall be valid throughout the Union.
+
+#### Article 89 — Application for manufacturing authorisation
+
+1\. An application for a manufacturing authorisation shall be submitted to a competent authority in the Member State in which the manufacturing site is located.
+
+2\. An application for a manufacturing authorisation shall contain at least the following information:
+
+(a) veterinary medicinal products which are to be manufactured or imported;
+
+(b) name or company name and permanent address or registered place of business of the applicant;
+
+(c) pharmaceutical forms which are to be manufactured or imported;
+
+(d) details about the manufacturing site where the veterinary medicinal products are to be manufactured or imported;
+
+(e) a statement to the effect that the applicant fulfils the requirements laid down in Articles 93 and 97.
+
+#### Article 90 — Procedure for granting of manufacturing authorisations
+
+1\. Before granting a manufacturing authorisation, the competent authority shall carry out an inspection of the manufacturing site.
+
+2\. The competent authority may require the applicant to submit further information in addition to that supplied in the application pursuant to Article 89. Where the competent authority exercises that right, the time limit referred to in paragraph 4 of this Article shall be suspended or revoked until the applicant has submitted the additional data required.
+
+3\. A manufacturing authorisation shall apply only to the manufacturing site and the pharmaceutical forms specified in the application referred to in Article 89.
+
+4\. Member States shall lay down procedures for granting or refusing manufacturing authorisations. Such procedures shall not exceed 90 days from receipt by the competent authority of an application for manufacturing authorisation.
+
+5\. A manufacturing authorisation may be granted conditionally, subject to a requirement for the applicant to undertake actions or introduce specific procedures within a given time period. Where a manufacturing authorisation has been conditionally granted, it shall be suspended or revoked if the requirements are not complied with.
+
+#### Article 91 — Database on manufacturing and wholesale distribution
+
+1\. The Agency shall establish and maintain a Union database on manufacturing, import and wholesale distribution (‘manufacturing and wholesale distribution database’).
+
+2\. The manufacturing and wholesale distribution database shall include information regarding the grant, suspension or revocation by competent authorities of any manufacturing authorisations, wholesale distribution authorisations, certificates of good manufacturing practice, and registrations of manufacturers, importers and distributors of active substances.
+
+3\. Competent authorities shall record in the manufacturing and wholesale distribution database information on manufacturing and wholesale distribution authorisations and certificates granted in accordance with Articles 90, 94 and 100 together with information on importers, manufacturers and distributors of active substances registered in accordance with Article 95.
+
+4\. The Agency shall, in collaboration with Member States and the Commission, draw up functional specifications, including the format for electronic submissions of data, for the manufacturing and wholesale distribution database.
+
+5\. The Agency shall ensure that information reported to the manufacturing and wholesale distribution database is collated and made accessible and that the information is shared.
+
+6\. The competent authorities shall have full access to the manufacturing and wholesale distribution database.
+
+7\. The general public shall have access to information in the manufacturing and wholesale distribution database, without the possibility to change that information therein.
+
+#### Article 92 — Changes to manufacturing authorisations on request
+
+1\. If the holder of a manufacturing authorisation requests a change in that manufacturing authorisation, the procedure for examining such a request shall not exceed 30 days from the day on which the competent authority receives the request. In justified cases, including when an inspection is necessary, that period of time may be extended by the competent authority to 90 days.
+
+2\. The request referred to in paragraph 1 shall contain a description of the requested change.
+
+3\. Within the period referred to in paragraph 1, the competent authority may require the holder of the manufacturing authorisation to provide supplementary information within a set time limit and may decide to perform an inspection. The procedure shall be suspended until such time as the supplementary information has been provided.
+
+4\. The competent authority shall assess the request referred to in paragraph 1, inform the holder of the manufacturing authorisation of the outcome of the assessment and, where appropriate, amend the manufacturing authorisation, and update, where appropriate, the manufacturing and wholesale distribution database.
+
+#### Article 93 — Obligations of the holder of a manufacturing authorisation
+
+1\. The holder of a manufacturing authorisation shall:
+
+(a) have at its disposal suitable and sufficient premises, technical equipment and testing facilities, for the activities stated in its manufacturing authorisation;
+
+(b) have at its disposal the services of at least one qualified person referred to in Article 97 and ensure that the qualified person operates in compliance with that Article;
+
+(c) enable the qualified person referred to in Article 97 to carry out his or her duties, particularly by providing access to all the necessary documents and premises, and by placing at his or her disposal all the necessary technical equipment and testing facilities;
+
+(d) give at least a 30 days prior notice to the competent authority before the replacement of the qualified person referred to in Article 97 or, if prior notice is not possible because the replacement is unexpected, inform the competent authority immediately;
+
+(e) have at its disposal the services of staff complying with the legal requirements existing in the relevant Member State as regards both manufacture and controls;
+
+(f) allow the representatives of the competent authority access to the premises at any time;
+
+(g) keep detailed records of all veterinary medicinal products which the holder of a manufacturing authorisation supplies in accordance with Article 96, and keep samples of each batch;
+
+(h) only supply veterinary medicinal products to wholesale distributors of veterinary medicinal products;
+
+(i) inform the competent authority and the marketing authorisation holder immediately if the holder of a manufacturing authorisation obtains information that veterinary medicinal products which fall within the scope of its manufacturing authorisation are, or are suspected of being, falsified irrespective of whether those veterinary medicinal products were distributed within the legal supply chain or by illegal means, including illegal sale by means of information society services;
+
+(j) comply with good manufacturing practice for veterinary medicinal products and use as starting materials only active substances which have been manufactured in accordance with good manufacturing practice for active substances and distributed in accordance with good distribution practice for active substances;
+
+(k) verify that each manufacturer, distributor and importer within the Union from whom the holder of a manufacturing authorisation obtains active substances is registered with the competent authority of the Member State in which the manufacturer, distributor and importer are established, in accordance with Article 95;
+
+(l) perform audits based on a risk assessment on the manufacturers, distributors and importers from whom the holder of a manufacturing authorisation obtains active substances.
+
+2\. The Commission shall, by means of implementing acts, adopt measures on good manufacturing practice for veterinary medicinal products and active substances used as starting materials, referred to in point (j) of paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+#### Article 94 — Certificates of good manufacturing practice
+
+1\. Within 90 days of an inspection, the competent authority shall issue a certificate of good manufacturing practice of the manufacturer for the manufacturing site concerned if the inspection establishes that the manufacturer in question is in compliance with the requirements laid down in this Regulation and with the implementing act referred to in Article 93(2).
+
+2\. If the outcome of the inspection referred to in paragraph 1 of this Article is that the manufacturer does not comply with good manufacturing practice, such information shall be entered into the manufacturing and wholesale distribution database referred to in Article 91.
+
+3\. The conclusions reached following an inspection of a manufacturer shall be valid throughout the Union.
+
+4\. A competent authority, the Commission or the Agency may require a manufacturer established in a third country to undergo an inspection as referred to in paragraph 1, without prejudice to any arrangements which may have been concluded between the Union and a third country.
+
+5\. Importers of veterinary medicinal products shall ensure, before those products are supplied to the Union, that the manufacturer established in a third country is in possession of a certificate of good manufacturing practice issued by a competent authority or, where the third country is party to an arrangement concluded between the Union and the third country, there is an equivalent confirmation.
+
+#### Article 95 — Importers, manufacturers and distributors of active substances established in the Union
+
+1\. Importers, manufacturers and distributors of active substances used as starting materials in veterinary medicinal products, that are established in the Union, shall register their activity with the competent authority of the Member State in which they are established and shall comply with good manufacturing practice or good distribution practice, as applicable.
+
+2\. The registration form for registering the activity with the competent authority shall include at least the following information:
+
+(a) name or company name and permanent address or registered place of business;
+
+(b) the active substances which are to be imported, manufactured or distributed;
+
+(c) particulars regarding the premises and the technical equipment.
+
+3\. The importers, manufacturers and distributors of active substances referred to in paragraph 1 shall submit the registration form to the competent authority at least 60 days prior to the intended start of their activity. The importers, manufacturers and distributors of active substances in operation before 28 January 2022 shall submit the registration form to the competent authority by 29 March 2022.
+
+4\. The competent authority may, based on a risk assessment, decide to carry out an inspection. If the competent authority notifies within 60 days of receipt of the registration form that an inspection will be carried out, the activity shall not begin before the competent authority has notified that the activity may start. In such a case, the competent authority shall carry out the inspection and communicate to the importers, manufacturers and distributors of active substances referred to in paragraph 1 the results of the inspection within 60 days of the notification of its intention to carry out the inspection. If within 60 days of receipt of the registration form the competent authority has not notified that an inspection will be carried out, the activity may start.
+
+5\. The importers, manufacturers and distributors of active substances referred to in paragraph 1 shall communicate annually to the competent authority the changes which have taken place as regards the information provided in the registration form. Any changes that may have an impact on the quality or safety of the active substances that are manufactured, imported or distributed shall be notified immediately.
+
+6\. Competent authorities shall enter the information provided in accordance with paragraph 2 of this Article and with Article 132 in the manufacturing and wholesale distribution database referred to in Article 91.
+
+7\. This Article shall be without prejudice to Article 94.
+
+8\. The Commission shall, by means of implementing acts, adopt measures on good distribution practice for active substances used as starting materials in veterinary medicinal products. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+#### Article 96 — Record keeping
+
+1\. The holder of a manufacturing authorisation shall record the following information in respect of all veterinary medicinal products that it supplies:
+
+(a) date of the transaction;
+
+(b) name of the veterinary medicinal product, and marketing authorisation number if applicable, as well as pharmaceutical form and strength, as appropriate;
+
+(c) quantity supplied;
+
+(d) name or company name and permanent address or registered place of business of the recipient;
+
+(e) batch number;
+
+(f) date of expiry.
+
+2\. The records referred to in paragraph 1 shall be available for inspection by competent authorities for one year after the date of expiry of the batch or at least five years from recording, whichever is longer.
+
+#### Article 97 — Qualified person responsible for manufacturing and batch release
+
+1\. The holder of a manufacturing authorisation shall have permanently at its disposal the services of at least one qualified person who fulfils the conditions laid down in this Article and is responsible, in particular, for carrying out the duties specified in this Article.
+
+2\. The qualified person referred to in paragraph 1 shall hold a university degree in one or more of the following scientific disciplines: pharmacy, human medicine, veterinary medicine, chemistry, pharmaceutical chemistry and technology, or biology.
+
+3\. The qualified person referred to in paragraph 1 shall have acquired practical experience over at least two years, in one or more undertakings which are authorised manufacturers, in the activities of quality assurance of medicinal products, of qualitative analysis of medicinal products, of quantitative analysis of active substances and the checking necessary to ensure the quality of veterinary medicinal products.
+
+The duration of practical experience required in the first subparagraph may be reduced by one year where a university course lasts for at least five years and by a year and a half where the university course lasts for at least six years.
+
+4\. The holder of the manufacturing authorisation, if a natural person, may assume the responsibility referred to in paragraph 1, if he or she personally fulfils the conditions referred to in paragraphs 2 and 3.
+
+5\. The competent authority may lay down appropriate administrative procedures to verify that a qualified person referred to in paragraph 1 fulfils the conditions referred to in paragraphs 2 and 3.
+
+6\. The qualified person referred to in paragraph 1 shall ensure that each batch of the veterinary medicinal products is manufactured in compliance with good manufacturing practice, and tested in compliance with the terms of the marketing authorisation. That qualified person shall draw up a control report to that effect. Such control reports shall be valid throughout the Union.
+
+7\. Where veterinary medicinal products are imported, the qualified person referred to in paragraph 1 shall ensure that each imported production batch has undergone in the Union a full qualitative and a quantitative analysis of at least all the active substances, and all the other tests necessary to ensure the quality of the veterinary medicinal products in accordance with the requirements of the marketing authorisation and that the batch manufactured is in compliance with good manufacturing practice.
+
+8\. The qualified person referred to in paragraph 1 shall keep records in respect of each released production batch. Those records shall be kept up to date as operations are carried out and shall remain at the disposal of the competent authority for one year after the date of expiry of the batch or at least five years from recording, whichever is longer.
+
+9\. Where veterinary medicinal products manufactured in the Union are exported and subsequently imported back into the Union from a third country, paragraph 6 shall apply.
+
+10\. Where veterinary medicinal products are imported from third countries with which the Union has made arrangements regarding application of standards of good manufacturing practice at least equivalent to those laid down in accordance with Article 93(2) and it is demonstrated that the tests referred to in paragraph 6 of this Article have been carried out in the exporting country, the qualified person may draw up the control report referred to in paragraph 6 of this Article without the necessary tests referred to in paragraph 7 of this Article being carried out, unless the competent authority of the Member State of importation decides otherwise.
+
+#### Article 98 — Certificates of veterinary medicinal products
+
+1\. On the request of a manufacturer or an exporter of veterinary medicinal products, or of the authorities of an importing third country, the competent authority or the Agency shall certify that:
+
+(a) the manufacturer holds a manufacturing authorisation;
+
+(b) the manufacturer possesses a certificate of good manufacturing practice as referred to in Article 94; or
+
+(c) the veterinary medicinal product concerned has been granted a marketing authorisation in that Member State or, in the case of a request to the Agency, that it has been granted a centralised marketing authorisation.
+
+2\. When issuing such certificates, the competent authority or the Agency, as applicable, shall take into account the relevant prevailing administrative arrangements with regard to the content and format of such certificates.
+
+## CHAPTER VII — SUPPLY AND USE
+
+### Section 1 — Wholesale distribution
+
+#### Article 99 — Wholesale distribution authorisations
+
+1\. The wholesale distribution of veterinary medicinal products shall be subject to the holding of a wholesale distribution authorisation.
+
+2\. The holders of a wholesale distribution authorisation shall be established in the Union.
+
+3\. Wholesale distribution authorisations shall be valid throughout the Union.
+
+4\. Member States may decide that supplies of small quantities of veterinary medicinal products from one retailer to another in the same Member State shall not be subject to the requirement of holding a wholesale distribution authorisation.
+
+5\. By derogation from paragraph 1, a holder of a manufacturing authorisation shall not be required to hold a wholesale distribution authorisation for the veterinary medicinal products covered by the manufacturing authorisation.
+
+6\. The Commission shall, by means of implementing acts, adopt measures on good distribution practice for veterinary medicinal products. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+#### Article 100 — Application and procedures for wholesale distribution authorisations
+
+1\. An application for a wholesale distribution authorisation shall be submitted to the competent authority in the Member State in which the site or sites of the wholesale distributor are located.
+
+2\. An applicant shall demonstrate in the application that the following requirements are met:
+
+(a) the applicant has at its disposal technically competent staff and in particular at least one person designated as responsible person, meeting the conditions provided for in national law;
+
+(b) the applicant has suitable and sufficient premises complying with the requirements laid down by the relevant Member State as regards the storage and handling of veterinary medicinal products;
+
+(c) the applicant has a plan guaranteeing effective implementation of any withdrawal or recall from the market ordered by the competent authorities or the Commission or undertaken in cooperation with the manufacturer or marketing authorisation holder of the veterinary medicinal product concerned;
+
+(d) the applicant has an appropriate record-keeping system ensuring compliance with the requirements referred to in Article 101;
+
+(e) the applicant has a statement to the effect that it fulfils the requirements referred to in Article 101.
+
+3\. Member States shall lay down procedures to grant, refuse, suspend, revoke or change a wholesale distribution authorisation.
+
+4\. The procedures referred to in paragraph 3 shall not exceed 90 days, starting, if applicable, from the date on which the competent authority receives an application in accordance with national law.
+
+5\. The competent authority shall:
+
+(a) inform the applicant of the outcome of the evaluation;
+
+(b) grant, refuse or change the wholesale distribution authorisation; and
+
+(c) upload the relevant information of the authorisation in the manufacturing and wholesale distribution database referred to in Article 91.
+
+#### Article 101 — Obligations of wholesale distributors
+
+1\. Wholesale distributors shall obtain veterinary medicinal products only from holders of a manufacturing authorisation or from other holders of a wholesale distribution authorisation.
+
+2\. A wholesale distributor shall supply veterinary medicinal products only to persons permitted to carry out retail activities in a Member State in accordance with Article 103(1), other wholesale distributors of veterinary medicinal products and to other persons or entities in accordance with national law.
+
+3\. The holder of a wholesale distribution authorisation shall have permanently at its disposal the services of at least one responsible person for wholesale distribution.
+
+4\. Wholesale distributors shall, within the limits of their responsibility, ensure appropriate and continued supply of veterinary medicinal product to persons authorised to supply it in accordance with Article 103(1), so that the needs for animal health in the relevant Member State are covered.
+
+5\. A wholesale distributor shall comply with the good distribution practice for veterinary medicinal products as referred to in Article 99(6).
+
+6\. Wholesale distributors shall immediately inform the competent authority and, where applicable, the marketing authorisation holder, of veterinary medicinal products they receive or are offered which they identify as falsified or suspected to be falsified.
+
+7\. A wholesale distributor shall keep detailed records of at least the following information in respect of each transaction:
+
+(a) date of the transaction;
+
+(b) name of the veterinary medicinal product including, as appropriate, pharmaceutical form and strength;
+
+(c) batch number;
+
+(d) expiry date of the veterinary medicinal product;
+
+(e) quantity received or supplied, stating pack size and number of packs;
+
+(f) name or company name and permanent address or registered place of business of the supplier in the event of purchase or of the recipient in the event of sale.
+
+8\. At least once a year, the holder of a wholesale distribution authorisation shall carry out a detailed audit of the stock and compare the incoming and outgoing veterinary medicinal products recorded with veterinary medicinal products currently held in stock. Any discrepancies found shall be recorded. The records shall be available for inspection by the competent authorities for a period of five years.
+
+#### Article 102 — Parallel trade in veterinary medicinal products
+
+1\. For the purpose of parallel trade in veterinary medicinal products, the wholesale distributor shall ensure that the veterinary medicinal product it intends to obtain from a Member State (‘source Member State’) and distribute in another Member State (‘destination Member State’) share a common origin with the veterinary medicinal product already authorised in the destination Member State. The veterinary medicinal products are considered as sharing a common origin if they fulfil all the following conditions:
+
+(a) they have the same qualitative and quantitative composition in terms of active substances and excipients;
+
+(b) they have the same pharmaceutical form;
+
+(c) they have the same clinical information and, if applicable, withdrawal period; and
+
+(d) they have been manufactured by the same manufacturer or by a manufacturer working under licence according to the same formulation.
+
+2\. The veterinary medicinal product obtained from a source Member State shall comply with the labelling and language requirements of the destination Member State.
+
+3\. Competent authorities shall lay down administrative procedures for the parallel trade in veterinary medicinal products and administrative procedure for the approval of the application for parallel trade in such products.
+
+4\. Competent authorities of the destination Member State shall, in the product database as referred to in Article 55, make available to public the list of veterinary medicinal products that are parallel traded in that Member State.
+
+5\. A wholesale distributor that is not the marketing authorisation holder shall notify the marketing authorisation holder and the competent authority of the source Member State of its intention to parallel trade the veterinary medicinal product to a destination Member State.
+
+6\. Each wholesale distributor intending to parallel trade a veterinary medicinal product to a destination Member State shall comply with at least the following obligations:
+
+(a) submit a declaration to the competent authority in the destination Member State and take appropriate measures to ensure that the wholesale distributor in the source Member State will keep it informed of any pharmacovigilance issues;
+
+(b) notify the marketing authorisation holder in the destination Member State about the veterinary medicinal product to be obtained from the source Member State and intended to be placed on the market in the destination Member State at least one month prior to submitting to the competent authority the application for parallel trade in that veterinary medicinal product;
+
+(c) submit a written declaration to the competent authority of the destination Member State that the marketing authorisation holder in the destination Member State was notified in accordance with point (b) together with a copy of that notification;
+
+(d) not trade a veterinary medicinal product which has been recalled from the market of the source Member State or destination Member State for quality, safety or efficacy reasons;
+
+(e) collect suspected adverse events and report them to the marketing authorisation holder of the parallel-traded veterinary medicinal product.
+
+7\. The following information shall be attached to the list referred to in paragraph 4 in respect of all veterinary medicinal products:
+
+(a) name of the veterinary medicinal products;
+
+(b) active substances;
+
+(c) pharmaceutical forms;
+
+(d) classification of the veterinary medicinal products in the destination Member State;
+
+(e) marketing authorisation number of the veterinary medicinal products in the source Member State;
+
+(f) marketing authorisation number of the veterinary medicinal products in the destination Member State;
+
+(g) name or company name and permanent address or registered place of business of the wholesale distributor in the source Member State and of the wholesale distributor in the destination Member State.
+
+8\. This Article shall not apply to centrally authorised veterinary medicinal products.
+
+### Section 2 — Retail
+
+#### Article 103 — Retail of veterinary medicinal products and record keeping
+
+1\. The rules on retail of veterinary medicinal products shall be determined by national law, unless otherwise provided in this Regulation.
+
+2\. Without prejudice to Article 99(4), retailers of veterinary medicinal products shall obtain veterinary medicinal products only from holders of a wholesale distribution authorisation.
+
+3\. Retailers of veterinary medicinal products shall keep detailed records of the following information in respect of each transaction of veterinary medicinal products requiring a veterinary prescription under Article 34:
+
+(a) date of the transaction;
+
+(b) name of the veterinary medicinal product including, as appropriate, pharmaceutical form and strength;
+
+(c) batch number;
+
+(d) quantity received or supplied;
+
+(e) name or company name and permanent address or registered place of business of the supplier in the event of purchase, or of the recipient in the event of sale;
+
+(f) name and contact details of the prescribing veterinarian and, where appropriate, a copy of the veterinary prescription;
+
+(g) marketing authorisation number.
+
+4\. Where Member States consider it necessary, they may require retailers to keep detailed records of any transaction of veterinary medicinal products not subject to veterinary prescription.
+
+5\. At least once a year, a retailer shall carry out a detailed audit of the stock and compare the incoming and outgoing veterinary medicinal products recorded with veterinary medicinal products currently held in stock. Any discrepancies found shall be recorded. The results of the detailed audit and the records referred to in paragraph 3 of this Article shall be available for inspection by the competent authorities in accordance with Article 123 for a period of five years.
+
+6\. Member States may impose conditions justified on grounds of protection of public and animal health or of the environment for the retail on their territory of veterinary medicinal products provided that such conditions comply with Union law, are proportionate and non-discriminatory.
+
+#### Article 104 — Retail of veterinary medicinal products at a distance
+
+1\. Persons permitted to supply veterinary medicinal products in accordance with Article 103(1) of this Regulation may offer veterinary medicinal products by means of information society services in the meaning of Directive (EU) 2015/1535 of the European Parliament and of the Council ( 7 ) to natural or legal persons established in the Union provided that those veterinary medicinal products are not subject to a veterinary prescription pursuant to Article 34 of this Regulation and that they comply with this Regulation and applicable law of the Member State in which the veterinary products are retailed.
+
+2\. By way of derogation from paragraph 1 of this Article, a Member State may allow persons permitted to supply veterinary medicinal products in accordance with Article 103(1) to offer veterinary medicinal products subject to a veterinary prescription pursuant to Article 34 by means of information society services, provided that the Member State has provided a secure system for such supplies. Such permission shall only be granted to persons established in their territory and supply shall only occur within the territory of that Member State.
+
+3\. The Member State referred to in paragraph 2 shall ensure that adapted measures are in place in order to guarantee that the requirements relating to a veterinary prescription are respected as regards supply by means of information society services and shall notify the Commission and other Member States if it makes use of the derogation referred to in paragraph 2 and shall, when necessary, cooperate with the Commission and other Member States to avoid any unintended consequences of such supply. The Member States shall establish rules on appropriate penalties to ensure that the national rules adopted are respected, including rules on the withdrawal of such permissions.
+
+4\. The persons and activities referred to in paragraphs 1 and 2 of this Article shall be subject to the controls referred to in Article 123 by the competent authority of the Member State in which the retailer is established.
+
+5\. In addition to the information requirements set out in Article 6 of Directive 2000/31/EC of the European Parliament and of the Council ( 8 ), retailers offering veterinary medicinal products by means of information society services shall provide at least the following information:
+
+(a) the contact details of the competent authority of the Member State in which the retailer offering the veterinary medicinal products is established;
+
+(b) a hyperlink to the website of the Member State of establishment set up in accordance with paragraph 8 of this Article;
+
+(c) the common logo established in accordance with paragraph 6 of this Article is clearly displayed on every page of the website that relates to the offer for sale at a distance of veterinary medicinal products and contains a hyperlink to the entry of the retailer in the list of permitted retailers referred to in point (c) of paragraph 8 of this Article.
+
+6\. The Commission shall establish a common logo pursuant to paragraph 7 that is recognisable throughout the Union, while enabling the identification of the Member State where the person offering veterinary medicinal products for sale at a distance is established. The logo shall be clearly displayed on websites offering veterinary medicinal products for sale at a distance.
+
+7\. The Commission shall, by means of implementing acts, adopt the design of the common logo referred to in paragraph 6 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+8\. Each Member State shall set up a website regarding sale of veterinary medicinal products at a distance, providing at least the following information:
+
+(a) information on its national law applicable to the offering of veterinary medicinal products for sale at a distance by means of information society services, in accordance with paragraphs 1 and 2, including information on the fact that there may be differences between Member States regarding the classification of the supply of the veterinary medicinal products;
+
+(b) information on the common logo;
+
+(c) a list of retailers established in the Member State permitted to offer veterinary medicinal products for sale at a distance by means of information society services in accordance with paragraphs 1 and 2 as well as the website addresses of those retailers.
+
+9\. The Agency shall set up a website providing information on the common logo. The Agency’s website shall explicitly mention that the websites of Member States contain information on persons permitted to offer veterinary medicinal products for sale at a distance by means of information society services in the relevant Member State.
+
+10\. Members States may impose conditions, justified on grounds of public health protection, for the retail, on their territory, of veterinary medicinal products offered for sale at a distance by means of information society services.
+
+11\. The websites set up by Member States shall contain a hyperlink to the website of the Agency set up in accordance with paragraph 9.
+
+#### Article 105 — Veterinary prescriptions
+
+1\. A veterinary prescription for an antimicrobial medicinal product for metaphylaxis shall only be issued after a diagnosis of the infectious disease by a veterinarian.
+
+2\. The veterinarian shall be able to provide justification for a veterinary prescription of antimicrobial medicinal products, in particular for metaphylaxis and for prophylaxis.
+
+3\. A veterinary prescription shall be issued only after a clinical examination or any other proper assessment of the health status of the animal or group of animals by a veterinarian.
+
+4\. By way of derogation from point (33) of Article 4 and paragraph 3 of this Article, a Member State may allow a veterinary prescription to be issued by a professional, other than a veterinarian, who is qualified to do so in accordance with applicable national law at the time of entry into force of this Regulation. Such prescriptions shall be valid only in that Member State and shall exclude prescriptions of antimicrobial medicinal products and any other veterinary medicinal products where a diagnosis by a veterinarian is necessary.
+
+Veterinary prescriptions issued by a professional, other than a veterinarian shall be, mutatis mutandis, subject to paragraphs 5, 6, 8, 9 and 11 of this Article.
+
+5\. A veterinary prescription shall contain at least the following elements:
+
+(a) identification of the animal or groups of animals to be treated;
+
+(b) full name and contact details of the animal owner or keeper;
+
+(c) issue date;
+
+(d) full name and contact details of the veterinarian including, if available, the professional number;
+
+(e) signature or an equivalent electronic form of identification of the veterinarian;
+
+(f) name of the prescribed medicinal product, including its active substances;
+
+(g) pharmaceutical form and strength;
+
+(h) quantity prescribed, or the number of packs, including pack size;
+
+(i) dosage regimen;
+
+(j) for food-producing animal species, withdrawal period even if such period is zero;
+
+(k) any warnings necessary to ensure the proper use including, where relevant, to ensure prudent use of antimicrobials;
+
+(l) if a medicinal product is prescribed in accordance with Articles 112, 113 and 114, a statement to that effect;
+
+(m) if a medicinal product is prescribed in accordance with Article 107(3) and (4), a statement to that effect.
+
+6\. The quantity of the medicinal products prescribed shall be limited to the amount required for the treatment or therapy concerned. As regards antimicrobial medicinal products for metaphylaxis or prophylaxis, they shall be prescribed only for a limited duration to cover the period of risk.
+
+7\. Veterinary prescriptions issued in accordance with paragraph 3 shall be recognised throughout the Union.
+
+8\. The Commission may, by means of implementing acts, set a model format for the requirements set in paragraph 5 of this Article. That model format shall also be made available in electronic version. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+9\. The medicinal product prescribed shall be supplied in accordance with applicable national law.
+
+10\. A veterinary prescription for antimicrobial medicinal products shall be valid for five days from the date of its issue.
+
+11\. In addition to the requirements set out in this Article, Member States may lay down rules on record-keeping for veterinarians when issuing veterinary prescriptions.
+
+12\. Notwithstanding Article 34, a veterinary medicinal product classified as subject to veterinary prescription under that Article may be administered without a veterinary prescription by a veterinarian personally, unless otherwise provided for under applicable national law. The veterinarian shall keep records of such personal administration without prescription in accordance with applicable national law.
+
+### Section 3 — Use
+
+#### Article 106 — Use of medicinal products
+
+1\. Veterinary medicinal products shall be used in accordance with the terms of the marketing authorisation.
+
+2\. The use of veterinary medicinal products in accordance with this Section shall be without prejudice to Articles 46 and 47 of Regulation (EU) 2016/429.
+
+3\. Member States may lay down any procedures they deem necessary for the implementation of Articles 110 to 114 and 116.
+
+4\. Member States may, if duly justified, decide that a veterinary medicinal product shall be administered only by a veterinarian.
+
+5\. Inactivated immunological veterinary medicinal products referred to in Article 2(3) shall only be used in the animals referred to therein in exceptional circumstances, in accordance with a veterinary prescription, and if no immunological veterinary medicinal product is authorised for the target animal species and the indication.
+
+6\. The Commission shall adopt delegated acts in accordance with Article 147, in order to supplement this Article, as necessary, which establish the rules on appropriate measures to ensure the effective and safe use of veterinary medicinal products authorised and prescribed for oral administration via routes other than medicated feed, such as mixing of water for drinking with a veterinary medicinal product or as manual mixing of a veterinary medicinal product into feed and administered by the animal keeper to food-producing animals. The Commission shall take into account the scientific advice of the Agency, when adopting those delegated acts.
+
+#### Article 107 — Use of antimicrobial medicinal products
+
+1\. Antimicrobial medicinal products shall not be applied routinely nor used to compensate for poor hygiene, inadequate animal husbandry or lack of care or to compensate for poor farm management.
+
+2\. Antimicrobial medicinal products shall not be used in animals for the purpose of promoting growth nor to increase yield.
+
+3\. Antimicrobial medicinal products shall not be used for prophylaxis other than in exceptional cases, for the administration to an individual animal or a restricted number of animals when the risk of an infection or of an infectious disease is very high and the consequences are likely to be severe.
+
+In such cases, the use of antibiotic medicinal products for prophylaxis shall be limited to the administration to an individual animal only, under the conditions laid down in the first subparagraph.
+
+4\. Antimicrobial medicinal products shall be used for metaphylaxis only when the risk of spread of an infection or of an infectious disease in the group of animals is high and where no other appropriate alternatives are available. Member States may provide guidance regarding such other appropriate alternatives and shall actively support the development and application of guidelines which promote the understanding of risk factors associated with metaphylaxis and include criteria for its initiation.
+
+5\. Medicinal products which contain the designated antimicrobials referred to in Article 37(5) shall not be used in accordance with Articles 112, 113 and 114.
+
+6\. The Commission may, by means of implementing acts, and taking into consideration scientific advice of the Agency, establish a list of antimicrobials which:
+
+(a) shall not be used in accordance with Articles 112, 113 and 114; or
+
+(b) shall only be used in accordance with Articles 112, 113 and 114 subject to certain conditions.
+
+When adopting those implementing acts, the Commission shall take account of the following criteria:
+
+(a) risks to animal or public health if the antimicrobial is used in accordance with Articles 112, 113 and 114;
+
+(b) risk for animal or public health in case of development of antimicrobial resistance;
+
+(c) availability of other treatments for animals;
+
+(d) availability of other antimicrobial treatments for humans;
+
+(e) impact on aquaculture and farming if the animal affected by the condition receives no treatment.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+7\. A Member State may further restrict or prohibit the use of certain antimicrobials in animals on its territory if the administration of such antimicrobials to animals is contrary to the implementation of a national policy on prudent use of antimicrobials.
+
+8\. Measures adopted by the Member States on the basis of paragraph 7 shall be proportionate and justified.
+
+9\. The Member State shall inform the Commission of any measure it has adopted on the basis of paragraph 7.
+
+#### Article 108 — Record-keeping by owners and keepers of food-producing animals
+
+1\. Owners or, where the animals are not kept by the owners, keepers of food-producing animals shall keep records of the medicinal products they use and, if applicable, a copy of the veterinary prescription.
+
+2\. Records referred to in paragraph 1 shall include:
+
+(a) date of the first administration of the medicinal product to the animals;
+
+(b) name of the medicinal product;
+
+(c) quantity of the medicinal product administered;
+
+(d) name or company name and permanent address or registered place of business of the supplier;
+
+(e) evidence of acquisition of the medicinal products they use;
+
+(f) identification of the animal or group of animals treated;
+
+(g) name and contact details of the prescribing veterinarian, if applicable;
+
+(h) withdrawal period even if such period is zero;
+
+(i) duration of treatment.
+
+3\. If the information to be recorded in accordance with paragraph 2 of this Article is already available on the copy of a veterinary prescription, in a record kept on the farm or for equine animals recorded in the single lifetime identification document referred to in Article 8(4), it does not need to be recorded separately.
+
+4\. Member States may lay down additional requirements for record-keeping by owners and keepers of food-producing animals.
+
+5\. The information contained in those records shall be available for inspections by the competent authorities in accordance with Article 123 for a period of at least five years.
+
+#### Article 109 — Record-keeping obligations for equine animals
+
+1\. The Commission shall adopt delegated acts in accordance with Article 147 in order to supplement this Regulation as regards the content and format of the information necessary to apply Articles 112(4) and 115(5) and to be contained in the single lifetime identification document referred to in Article 8(4).
+
+2\. The Commission shall, by means of implementing acts, lay down model forms for entering the information necessary to apply Articles 112(4) and 115(5) and to be contained in the single lifetime identification document referred to in Article 8(4). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+#### Article 110 — Use of immunological veterinary medicinal products
+
+1\. The competent authorities may, in accordance with the applicable national law, prohibit the manufacture, import, distribution, possession, sale, supply or use of immunological veterinary medicinal products on their territory or in a part of it if at least one of the following conditions is fulfilled:
+
+(a) the administration of the product to animals may interfere with the implementation of a national programme for the diagnosis, control or eradication of animal disease;
+
+(b) the administration of the product to animals may cause difficulties in certifying the absence of disease in live animals or contamination of foodstuffs or other products obtained from treated animals;
+
+(c) the strains of disease agents to which the product is intended to confer immunity is largely absent in terms of geographic spread from the territory concerned.
+
+2\. By way of derogation from Article 106(1) of this Regulation, and in the absence of a veterinary medicinal product as referred to in Article 116 of this Regulation, in the event of an outbreak of a listed disease as referred to in Article 5 of Regulation (EU) 2016/429 or an emerging disease as referred to in Article 6 of that Regulation, a competent authority may allow the use of an immunological veterinary medicinal product not authorised within the Union.
+
+3\. By way of derogation from Article 106(1) of this Regulation, when an immunological veterinary medicinal product has been authorised but is no longer available within the Union for a disease which is not referred to in Article 5 or 6 of Regulation (EU) 2016/429 but which is already present in the Union, a competent authority may, in the interest of animal health and welfare and public health, allow the use of an immunological veterinary medicinal product not authorised within the Union on a case by case basis.
+
+4\. The competent authorities shall inform the Commission without delay when paragraphs 1, 2 and 3 are applied, together with information on the conditions imposed within the implementation of those paragraphs.
+
+5\. If an animal is to be exported to a third country and thereby subject to specific binding health rules in that third country, a competent authority may permit the use, solely for that animal concerned, of an immunological veterinary medicinal product that is not covered by a marketing authorisation in the relevant Member State but its use is allowed in the third country to where the animal is to be exported.
+
+#### Article 111 — Use of veterinary medicinal products by veterinarians providing services in other Member States
+
+1\. A veterinarian providing services in a Member State other than the one in which the veterinarian is established (‘host Member State’) shall be allowed to possess and administer veterinary medicinal products which are not authorised in the host Member State to animals or groups of animals which are under the veterinarian’s care in the necessary quantity not exceeding the amount required for the treatment prescribed by the veterinarian, provided that the following conditions are met:
+
+(a) a marketing authorisation for the veterinary medicinal product to be administered to the animals has been granted by the competent authorities of the Member State in which the veterinarian is established or by the Commission;
+
+(b) the veterinary medicinal products concerned are transported by the veterinarian in their original packaging;
+
+(c) the veterinarian follows the good veterinary practice applied in the host Member State;
+
+(d) the veterinarian sets the withdrawal period specified on the labelling or package leaflet of the veterinary medicinal product used;
+
+(e) the veterinarian does not retail any veterinary medicinal product to an owner or keeper of animals treated in the host Member State unless this is permissible under the rules of the host Member State.
+
+2\. Paragraph 1 shall not apply to immunological veterinary medicinal products except in the case of toxins and sera.
+
+#### Article 112 — Use of medicinal products outside the terms of the marketing authorisation in non-food-producing animal species
+
+1\. By way of derogation from Article 106(1), where there is no authorised veterinary medicinal product in a Member State for an indication concerning a non-food-producing animal species, the veterinarian responsible may, under his or her direct personal responsibility and in particular to avoid causing unacceptable suffering, exceptionally treat the animals concerned with the following medicinal product:
+
+(a) a veterinary medicinal product authorised under this Regulation in the relevant Member State or in another Member State for use in the same species or another animal species for the same indication or for another indication;
+
+(b) if there is no veterinary medicinal product as referred to in point (a) of this paragraph, a medicinal product for human use authorised in accordance with Directive 2001/83/EC or Regulation (EC) No 726/2004;
+
+(c) if there is no medicinal product as referred to in point (a) or (b) of this paragraph, a veterinary medicinal product prepared extemporaneously in accordance with the terms of a veterinary prescription.
+
+2\. Except as regards immunological veterinary medicinal products, where there is no medicinal product available as referred to in paragraph 1, the veterinarian responsible may under his or her direct responsibility and in particular to avoid causing unacceptable suffering exceptionally treat a non-food-producing animal with a veterinary medicinal product authorised in a third country for the same animal species and same indication.
+
+3\. The veterinarian may administer the medicinal product personally or allow another person to do so under the veterinarian’s responsibility, in accordance with national provisions.
+
+4\. This Article shall also apply to the treatment by a veterinarian of an animal of the equine species provided that it is declared as not being intended for slaughter for human consumption in the single lifetime identification document referred to in Article 8(4).
+
+5\. This Article shall apply also when an authorised veterinary medicinal product is not available in the relevant Member State.
+
+#### Article 113 — Use of medicinal products outside the terms of the marketing authorisation in food-producing terrestrial animal species
+
+1\. By way of derogation from Article 106(1), where there is no authorised veterinary medicinal product in a Member State for an indication concerning a food-producing terrestrial animal species, the veterinarian responsible may, under his or her direct personal responsibility, and in particular to avoid causing unacceptable suffering, exceptionally treat the animals concerned with the following medicinal product:
+
+(a) a veterinary medicinal product authorised under this Regulation in the relevant Member State or in another Member State for use in the same or in another food-producing terrestrial animal species for the same indication, or for another indication;
+
+(b) if there is no veterinary medicinal product as referred to in point (a) of this paragraph, a veterinary medicinal product authorised under this Regulation in the relevant Member State for use in a non-food-producing animal species for the same indication;
+
+(c) if there is no veterinary medicinal product as referred to in point (a) or (b) of this paragraph, a medicinal product for human use authorised in accordance with Directive 2001/83/EC or Regulation (EC) No 726/2004; or
+
+(d) if there is no medicinal product as referred to in point (a), (b) or (c) of this paragraph, a veterinary medicinal product prepared extemporaneously in accordance with the terms of a veterinary prescription.
+
+2\. Except as regards immunological veterinary medicinal products, where there is no medicinal product available as referred to in paragraph 1, the veterinarian responsible may under his or her direct personal responsibility, and in particular to avoid causing unacceptable suffering, exceptionally treat food-producing terrestrial animals with a veterinary medicinal product authorised in a third country for the same animal species and same indication.
+
+3\. The veterinarian may administer the medicinal product personally or allow another person to do so under the veterinarian’s responsibility, in accordance with national provisions.
+
+4\. Pharmacologically active substances included in the medicinal product used in accordance with paragraphs 1 and 2 of this Article shall be allowed in accordance with Regulation (EC) No 470/2009 and any acts adopted on the basis thereof.
+
+5\. This Article shall apply also when an authorised veterinary medicinal product is not available in the relevant Member State.
+
+#### Article 114 — Use of medicinal products for food-producing aquatic species
+
+1\. By way of derogation from Article 106(1), where there is no authorised veterinary medicinal product in a Member State for an indication concerning a food-producing aquatic species, the veterinarian responsible may, under his or her direct personal responsibility, and in particular to avoid causing unacceptable suffering, treat the animals concerned with the following medicinal product:
+
+(a) a veterinary medicinal product authorised under this Regulation in the relevant Member State or in another Member State for use in the same or in another food-producing aquatic species and for the same indication or for another indication;
+
+(b) if there is no veterinary medicinal product as referred to in point (a) of this paragraph, a veterinary medicinal product authorised under this Regulation in the relevant Member State or in another Member State for use with a food-producing terrestrial species containing a substance present in the list established in accordance with paragraph 3;
+
+(c) if there is no veterinary medicinal product as referred to in point (a) or (b) of this paragraph, a medicinal product for human use authorised in accordance with Directive 2001/83/EC or Regulation (EC) No 726/2004 and containing substances present in the list established in accordance with paragraph 3 of this Article; or
+
+(d) if there is no medicinal product as referred to in point (a), (b) or (c) of this paragraph, a veterinary medicinal product prepared extemporaneously in accordance with the terms of a veterinary prescription.
+
+2\. By way of derogation from points (b) and (c) of paragraph 1, and until the list referred to in paragraph 3 is established, the veterinarian responsible may, under his or her direct personal responsibility and in particular to avoid causing unacceptable suffering, exceptionally treat food-producing aquatic species of a particular holding with the following medicinal product:
+
+(a) a veterinary medicinal product authorised under this Regulation in the relevant Member State or in another Member State for use with a food-producing terrestrial animal species;
+
+(b) if there is no veterinary medicinal product as referred to in point (a) of this paragraph, a medicinal product for human use authorised in accordance with Directive 2001/83/EC or Regulation (EC) No 726/2004.
+
+3\. The Commission shall, by means of implementing acts, at the latest within five years from 28 January 2022, establish a list of substances used in veterinary medicinal products authorised in the Union for use in food-producing terrestrial animal species or substances contained in a medicinal product for human use authorised in the Union in accordance with Directive 2001/83/EC or Regulation (EC) No 726/2004, which may be used in food-producing aquatic species in accordance with paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+The Commission, when adopting those implementing acts, shall take account of the following criteria:
+
+(a) risks to the environment if the food-producing aquatic species are treated with those substances;
+
+(b) impact on animal and public health if the food-producing aquatic species affected cannot receive an antimicrobial listed in accordance with Article 107(6);
+
+(c) availability or lack of availability of other medicinal products, treatments or measures for prevention or treatment of diseases or certain indications in food-producing aquatic species.
+
+4\. Except as regards immunological veterinary medicinal products, where there is no medicinal product available as referred to in paragraphs 1 and 2, the veterinarian responsible may, under his or her direct personal responsibility and in particular to avoid causing unacceptable suffering, exceptionally treat food-producing aquatic species with a veterinary medicinal product authorised in a third country for the same species and same indication.
+
+5\. The veterinarian may administer the medicinal product personally or allow another person to do so under the veterinarian’s responsibility, in accordance with national provisions.
+
+6\. Pharmacologically active substances included in the medicinal product used in accordance with paragraphs 1, 2 and 4 of this Article shall be allowed in accordance with Regulation (EC) No 470/2009 and any acts adopted on the basis thereof.
+
+7\. This Article shall apply also when an authorised veterinary medicinal product is not available in the relevant Member State.
+
+#### Article 115 — Withdrawal period for medicinal products used outside the terms of the marketing authorisation in food-producing animal species
+
+1\. For the purpose of Articles 113 and 114, unless a medicinal product used has a withdrawal period provided in its summary of the product characteristics for the animal species in question, a withdrawal period shall be set by the veterinarian in accordance with the following criteria:
+
+(a) for meat and offal from food-producing mammals and poultry and farmed game birds the withdrawal period shall not be less than:
+
+(i) the longest withdrawal period provided in its summary of the product characteristics for meat and offal multiplied by factor 1,5;
+
+(ii) 28 days if the medicinal product is not authorised for food-producing animals;
+
+(iii) one day, if the medicinal product has a zero withdrawal period and is used in a different taxonomic family than the target species authorised;
+
+(b) for milk from animals producing milk for human consumption the withdrawal period shall not be less than:
+
+(i) the longest withdrawal period for milk provided in the summary of the product characteristics for any animal species multiplied by factor 1,5;
+
+(ii) seven days, if the medicinal product is not authorised for animals producing milk for human consumption;
+
+(iii) one day, if the medicinal product has a zero withdrawal period;
+
+(c) for eggs from animals producing eggs for human consumption the withdrawal period shall not be less than:
+
+(i) the longest withdrawal period for eggs provided in the summary of the product characteristics for any animal species multiplied by factor 1,5;
+
+(ii) 10 days, if the product is not authorised for animals producing eggs for human consumption;
+
+(d) for aquatic species producing meat for human consumption the withdrawal period shall not be less than:
+
+(i) the longest withdrawal period for any of the aquatic species indicated in the summary of the product characteristics multiplied by factor of 1,5 and expressed as degree-days;
+
+(ii) if the medicinal product is authorised for food-producing terrestrial animal species, the longest withdrawal period for any of the food-producing animal species indicated in the summary of product characteristics multiplied by a factor of 50 and expressed as degree-days, but not exceeding 500 degree-days;
+
+(iii) 500 degree-days, if the medicinal product is not authorised for food-producing animal species;
+
+(iv) 25 degree-days if the highest withdrawal period for any animal species is zero.
+
+2\. If the calculation of the withdrawal period according to points (a)(i), (b)(i), (c)(i), (d)(i) and (ii) of paragraph 1 results in a fraction of days, the withdrawal period shall be rounded up to the nearest number of days.
+
+3\. The Commission shall adopt delegated acts in accordance with Article 147 in order to amend this Article by amending the rules laid down in paragraphs 1 and 4 thereof in the light of new scientific evidence.
+
+4\. For bees, the veterinarian shall determine the appropriate withdrawal period by assessing the specific situation of the particular beehive or beehives on a case-by-case basis and in particular the risk of residue in honey or in any other foodstuffs harvested from beehives intended for human consumption.
+
+5\. By way of derogation from Article 113(1) and (4), the Commission shall, by means of implementing acts, establish a list of substances which are essential for the treatment of equine species, or which bring added clinical benefit compared to other treatment options available for equine species and for which the withdrawal period for equine species shall be six months. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+#### Article 116 — Health situation
+
+By way of derogation from Article 106(1), a competent authority may allow the use in its territory of veterinary medicinal products not authorised in that Member State, where the situation of animal or public health so requires, and the marketing of those veterinary medicinal products is authorised in another Member State.
+
+#### Article 117 — Collection and disposal of waste of veterinary medicinal products
+
+Member States shall ensure that appropriate systems are in place for the collection and disposal of waste of veterinary medicinal products.
+
+#### Article 118 — Animals or products of animal origin imported into the Union
+
+1\. Article 107(2) shall apply, mutatis mutandis, to operators in third countries and those operators shall not use the designated antimicrobials referred to in Article 37(5), insofar as relevant in respect of animals or products of animal origin exported from such third countries to the Union.
+
+2\. The Commission shall adopt delegated acts in accordance with Article 147 in order to supplement this Article by providing the necessary detailed rules on the application of paragraph 1 of this Article.
+
+### Section 4 — Advertising
+
+#### Article 119 — Advertising of veterinary medicinal products
+
+1\. Only veterinary medicinal products that are authorised or registered in a Member State may be advertised in that Member State, unless otherwise decided by the competent authority in accordance with applicable national law.
+
+2\. The advertising of a veterinary medicinal product shall make it clear that it aims at promoting the supply, sale, prescription, distribution or use of the veterinary medicinal product.
+
+3\. The advertising shall not be formulated in such a way as to suggest that the veterinary medicinal product could be a feed or a biocide.
+
+4\. The advertising shall comply with the summary of the product characteristics of the advertised veterinary medicinal product.
+
+5\. The advertising shall not include information in any form which could be misleading or lead to incorrect use of the veterinary medicinal product.
+
+6\. The advertising shall encourage the responsible use of the veterinary medicinal product, by presenting it objectively and without exaggerating its properties.
+
+7\. The suspension of a marketing authorisation shall preclude any advertising, during the period of that suspension, of the veterinary medicinal product in the Member State in which it is suspended.
+
+8\. Veterinary medicinal products shall not be distributed for promotional purposes except for small quantities of samples.
+
+9\. Antimicrobial veterinary medicinal products shall not be distributed for promotional purposes as samples or in any other presentation.
+
+10\. The samples referred to in paragraph 8 shall be appropriately labelled indicating that they are samples and shall be given directly to veterinarians or other persons allowed to supply such veterinary medicinal products during sponsored events or by sales representatives during their visits.
+
+#### Article 120 — Advertising of veterinary medicinal products subject to veterinary prescription
+
+1\. The advertising of veterinary medicinal products that are subject to veterinary prescription in accordance with Article 34 shall be allowed only when made exclusively to the following persons:
+
+(a) veterinarians;
+
+(b) persons permitted to supply veterinary medicinal products in accordance with national law.
+
+2\. By way of derogation from paragraph 1 of this Article, advertising of veterinary medicinal products that are subject to veterinary prescription in accordance with Article 34 to professional keepers of animals may be permitted by the Member State provided the following conditions are met:
+
+(a) the advertising is limited to immunological veterinary medicinal products;
+
+(b) the advertising includes an express invitation to the professional keepers of animal to consult the veterinarian about the immunological veterinary medicinal product.
+
+3\. Notwithstanding paragraphs 1 and 2, the advertising of inactivated immunological veterinary medicinal products which are manufactured from pathogens and antigens obtained from an animal or animals in an epidemiological unit and used for the treatment of that animal or those animals in the same epidemiological unit or for the treatment of an animal or animals in a unit having a confirmed epidemiological link shall be prohibited.
+
+#### Article 121 — Promotion of medicinal products used in animals
+
+1\. Where medicinal products are being promoted to persons qualified to prescribe or supply them in accordance with this Regulation, no gifts, pecuniary advantages or benefit in kind may be supplied, offered or promised to such persons unless they are inexpensive and relevant to the practice of prescription or supply of medicinal products.
+
+2\. Persons qualified to prescribe or supply medicinal products as referred to in paragraph 1 shall not solicit or accept any inducement prohibited under that paragraph.
+
+3\. Paragraph 1 shall not prevent hospitality being offered, directly or indirectly, at events for purely professional and scientific purposes. Such hospitality shall always be strictly limited to the main objectives of the event.
+
+4\. Paragraphs 1, 2 and 3 shall not affect existing measures or trade practice in Member States relating to prices, margins and discounts.
+
+#### Article 122 — Implementation of advertising provisions
+
+Member States may lay down any procedures they deem necessary for the implementation of Articles 119, 120 and 121.
+
+## CHAPTER VIII — INSPECTIONS AND CONTROLS
+
+#### Article 123 — Controls
+
+1\. Competent authorities shall carry out controls of the following persons:
+
+(a) manufacturers and importers of veterinary medicinal products and active substances;
+
+(b) distributors of active substances;
+
+(c) marketing authorisation holders;
+
+(d) holders of a wholesale distribution authorisation;
+
+(e) retailers;
+
+(f) owners and keepers of food-producing animals;
+
+(g) veterinarians;
+
+(h) holders of a registration for homeopathic veterinary medicinal products;
+
+(i) holders of veterinary medicinal products referred to in Article 5(6); and
+
+(j) any other persons having obligations under this Regulation.
+
+2\. The controls referred to in paragraph 1 shall be carried out regularly, on a risk-basis, in order to verify that the persons referred to in paragraph 1 comply with this Regulation.
+
+3\. The risk-based controls referred to in paragraph 2 shall be carried out by the competent authorities taking account of at least:
+
+(a) the intrinsic risks associated with the activities of the persons referred to in paragraph 1 and the location of their activities;
+
+(b) the past record of the persons referred to paragraph 1 as regards the results of controls performed on them and their previous compliance;
+
+(c) any information that might indicate non-compliance;
+
+(d) the potential impact of non-compliance on public health, animal health, animal welfare and the environment.
+
+4\. Controls may also be carried out on the request of a competent authority of another Member State, the Commission or the Agency.
+
+5\. Controls shall be carried out by representatives of the competent authority.
+
+6\. Inspections may be carried out as part of the controls. Such inspections may be made unannounced. During those inspections the representatives of a competent authority shall at least be empowered to:
+
+(a) inspect the premises, equipment, means of transport, records, documents and systems, related to the objective of the inspection;
+
+(b) inspect and take samples with a view to submitting them for an independent analysis by an Official Medicines Control Laboratory or by a laboratory designated for that purpose by a Member State;
+
+(c) document any evidence deemed necessary by the representatives;
+
+(d) carry out the same controls on any parties performing the tasks required under this Regulation with, for or on behalf of the persons referred to in paragraph 1.
+
+7\. The representatives of the competent authorities shall keep a record of every control that they carry out and where necessary shall draw up a report. The person referred to in paragraph 1 shall be promptly informed in writing by the competent authority of any case of non-compliance identified through the controls and shall have the opportunity to submit comments within a time limit set by the competent authority.
+
+8\. The competent authorities shall have procedures or arrangements in place to ensure that staff performing controls are free from any conflict of interest.
+
+#### Article 124 — Audits by the Commission
+
+The Commission may carry out audits in Member States on their competent authorities for the purpose of confirming the appropriateness of the controls carried out by those competent authorities. Such audits shall be coordinated with the relevant Member State and shall be carried out in a manner which avoids unnecessary administrative burden.
+
+After each audit, the Commission shall draft a report containing, where appropriate, recommendations to the relevant Member State. The Commission shall send the draft report to the competent authority for comments and shall take into account any such comments in drawing up the final report. The final report and the comments shall be made public by the Commission.
+
+#### Article 125 — Certificate of suitability
+
+In order to verify whether the data submitted for obtaining a certificate of suitability complies with the monographs of the European Pharmacopoeia, the standardisation body for nomenclatures and quality norms within the meaning of the Convention on the elaboration of a European Pharmacopoeia accepted by Council Decision 94/358/EC ( 9 ) (European Directorate for the Quality of Medicines and Healthcare (‘EDQM’)) may ask the Commission or the Agency to request an inspection by a competent authority when the starting material concerned is subject to a European Pharmacopoeia monograph.
+
+#### Article 126 — Specific rules on pharmacovigilance inspections
+
+1\. The competent authorities and the Agency shall ensure that all pharmacovigilance system master files in the Union are regularly checked and that the pharmacovigilance systems are being correctly applied.
+
+2\. The Agency shall coordinate and the competent authorities shall carry out inspections on the pharmacovigilance systems of veterinary medicinal products authorised in accordance with Article 44.
+
+3\. The competent authorities shall carry out inspections on the pharmacovigilance systems of veterinary medicinal products authorised in accordance with Articles 47, 49, 52 and 53.
+
+4\. The competent authorities of the Member States in which the pharmacovigilance system master files are located shall carry out inspections of the pharmacovigilance systems master files.
+
+5\. Notwithstanding paragraph 4 of this Article and pursuant to Article 80, a competent authority may enter into any work-sharing initiatives and delegation of responsibilities with other competent authorities to avoid the duplication of inspections of pharmacovigilance systems.
+
+6\. The results of the pharmacovigilance inspections shall be recorded in the pharmacovigilance database as referred to in Article 74.
+
+#### Article 127 — Proof of the product quality for veterinary medicinal products
+
+1\. The marketing authorisation holder shall have at its disposal the results of the control tests carried out on the veterinary medicinal product or on the constituents and intermediate products of the manufacturing process, in accordance with the methods laid down in the marketing authorisation.
+
+2\. If a competent authority concludes that a batch of a veterinary medicinal product is not in conformity with the control report of the manufacturer or the specifications provided for in the marketing authorisation, it shall take measures in relation to the marketing authorisation holder and the manufacturer, and shall inform accordingly the competent authorities of other Member States in which the veterinary medicinal product is authorised, and also the Agency in case the veterinary medicinal product is authorised under the centralised procedure.
+
+#### Article 128 — Proof of the product quality specific for immunological veterinary medicinal products
+
+1\. For the purposes of application of Article 127(1), competent authorities may require the holder of a marketing authorisation for immunological veterinary medicinal products to submit to the competent authorities the copies of all the control reports signed by the qualified person in accordance with Article 97.
+
+2\. The holder of a marketing authorisation for immunological veterinary medicinal products shall ensure that an adequate number of representative samples of each batch of veterinary medical products is held in stock at least up to the expiry date, and provide samples promptly to the competent authorities on request.
+
+3\. Where necessary for reasons of human or animal health, a competent authority may require the holder of a marketing authorisation for an immunological veterinary medicinal product to submit samples of batches of the bulk product or of the immunological veterinary medicinal product for control by an Official Medicines Control Laboratory before the product is placed on the market.
+
+4\. On the request of a competent authority, the marketing authorisation holder shall promptly supply the samples referred to in paragraph 2, together with the control reports referred to in paragraph 1, for control testing. The competent authority shall inform the competent authorities in other Member States in which the immunological veterinary medicinal product is authorised, as well as the EDQM and the Agency in case the immunological veterinary medicinal product is authorised under the centralised procedure, of its intention to control batches of the immunological veterinary medicinal product.
+
+5\. On the basis of the control reports referred to in this Chapter, the laboratory responsible for the control shall repeat, on the samples provided, all the tests carried out by the manufacturer on the finished immunological veterinary medicinal product, in accordance with the relevant specifications in its dossier for marketing authorisation.
+
+6\. The list of tests to be repeated by the laboratory responsible for the control shall be restricted to justified tests, provided that all competent authorities in the relevant Member States, and, if appropriate, the EDQM, agree to such a restriction.
+
+For immunological veterinary medicinal products authorised under the centralised procedure, the list of tests to be repeated by the control laboratory may be reduced only upon agreement of the Agency.
+
+7\. The competent authorities shall recognise the results of the tests referred to in paragraph 5.
+
+8\. Unless the Commission is informed that a longer period is necessary to conduct the tests, the competent authorities shall ensure that the control is completed within 60 days of receipt of the samples and control reports.
+
+9\. The competent authority shall notify the competent authorities of other relevant Member States, the EDQM, the marketing authorisation holder and, if appropriate, the manufacturer, of the results of the tests within the same period of time.
+
+10\. The competent authority shall verify that the manufacturing processes used in the manufacture of immunological veterinary medicinal products are validated and that batch-to-batch consistency is ensured.
+
+## CHAPTER IX — RESTRICTIONS AND PENALTIES
+
+#### Article 129 — Temporary safety restrictions
+
+1\. The competent authority and, in the case of centrally authorised veterinary medicinal products, also the Commission may, in the event of a risk to public or animal health or to the environment that requires urgent action, impose temporary safety restrictions on the marketing authorisation holder and other persons having obligations under this Regulation. Those temporary safety restrictions may include:
+
+(a) restriction of supply of the veterinary medicinal product at the request of the competent authority and, in the case of centrally authorised veterinary medicinal products, also at the request of the Commission to the competent authority;
+
+(b) restriction of the use of the veterinary medicinal product at the request of the competent authority and, in the case of centrally authorised veterinary medicinal products, also at the request of the Commission to the competent authority;
+
+(c) suspension of a marketing authorisation by the competent authority having granted that marketing authorisation and, in the case of centrally authorised veterinary medicinal products, by the Commission.
+
+2\. The competent authority concerned shall inform, at the latest on the following working day, the other competent authorities and the Commission of any temporary safety restriction imposed. In the case of centralised marketing authorisations, the Commission shall inform, within the same time, the competent authorities of any temporary safety restriction imposed.
+
+3\. Competent authorities and the Commission may, at the same time as imposing a restriction in accordance with paragraph 1 of this Article, refer the issue to the Agency in accordance with Article 82.
+
+4\. Where applicable, the marketing authorisation holder shall submit an application for a variation to the terms of the marketing authorisation in accordance with Article 62.
+
+#### Article 130 — Suspending, revoking, or varying the terms, of marketing authorisations
+
+1\. The competent authority or, in the case of centralised marketing authorisations, the Commission shall suspend or revoke the marketing authorisation or request the marketing authorisation holder to submit an application for a variation to the terms of the marketing authorisation if the benefit-risk balance of the veterinary medicinal product is no longer positive or is insufficient to ensure food safety.
+
+2\. The competent authority or, in the case of centralised marketing authorisations, the Commission, shall revoke the marketing authorisation if the marketing authorisation holder no longer fulfils the requirement on establishment in the Union referred to in Article 5(4).
+
+3\. The competent authority or, in the case of centralised marketing authorisations, the Commission may suspend or revoke the marketing authorisation or request the marketing authorisation holder to submit an application for a variation to the terms of the marketing authorisation, as applicable, in the case of one or more of the following reasons:
+
+(a) the marketing authorisation holder does not comply with the requirements set out in Article 58;
+
+(b) the marketing authorisation holder does not comply with the requirements set out in Article 127;
+
+(c) the pharmacovigilance system established in accordance with Article 77(1) is inadequate;
+
+(d) the marketing authorisation holder does not fulfil its obligations laid down in Article 77;
+
+(e) the qualified person responsible for pharmacovigilance does not fulfil his or her tasks as laid down in Article 78.
+
+4\. For the purpose of paragraphs 1, 2 and 3, in the case of centralised marketing authorisations, before taking action, the Commission shall request, where appropriate, the opinion of the Agency within a time limit which it shall determine in view of the urgency of the matter, in order to examine the reasons referred to in those paragraphs. The holder of the marketing authorisation for the veterinary medicinal product shall be invited to provide oral or written explanations within a given time limit set by the Commission.
+
+Following an opinion of the Agency, the Commission shall adopt, where necessary, provisional measures, which shall be applied immediately. The Commission shall, by means of implementing acts, take a final decision. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 145(2).
+
+5\. Member States shall lay down procedures for application of paragraphs 1, 2 and 3.
+
+#### Article 131 — Suspending or revoking a wholesale distribution authorisation
+
+1\. In the event of non-compliance with the requirements laid down in Article 101(3), the competent authority shall suspend or revoke the wholesale distribution authorisation of veterinary medicinal products.
+
+2\. In the event of non-compliance with the requirements laid down in Article 101, other than paragraph 3 thereof, the competent authority may, without prejudice to any other appropriate measures under national law, take one or more of the following measures:
+
+(a) suspend the wholesale distribution authorisation;
+
+(b) suspend the wholesale distribution authorisation for one or more categories of veterinary medicinal products;
+
+(c) revoke the wholesale distribution authorisation for one or more categories of veterinary medicinal products.
+
+#### Article 132 — Removal of importers, manufacturers and distributors of active substance from the manufacturing and wholesale distribution database
+
+In the event of non-compliance by importers, manufacturers and distributors of active substances with the requirements laid down in Article 95, the competent authority shall, temporarily or definitively, remove those importers, manufacturers and distributors from the manufacturing and wholesale distribution database.
+
+#### Article 133 — Suspending or revoking manufacturing authorisations
+
+In the event of non-compliance with the requirements laid down in Article 93, the competent authority shall, without prejudice to any other appropriate measures under national law, take one or more of the following measures:
+
+(a) suspend the manufacture of veterinary medicinal products;
+
+(b) suspend imports of veterinary medicinal products from third countries;
+
+(c) suspend or revoke the manufacturing authorisation for one or more pharmaceutical forms;
+
+(d) suspend or revoke the manufacturing authorisation for one or more activities in one or more manufacturing sites.
+
+#### Article 134 — Prohibiting the supply of veterinary medicinal products
+
+1\. In the event of a risk to public or animal health or to the environment, the competent authority or, in the case of centrally authorised veterinary medicinal products, the Commission, shall prohibit the supply of a veterinary medicinal product and require the marketing authorisation holder or suppliers to cease the supply or recall of the veterinary medicinal product from the market if any of the following conditions apply:
+
+(a) the benefit-risk balance of the veterinary medicinal product is no longer positive;
+
+(b) the qualitative or quantitative composition of the veterinary medicinal product is not as stated in the summary of the product characteristics referred to in Article 35;
+
+(c) the recommended withdrawal period is insufficient to ensure food safety;
+
+(d) the control tests referred to in Article 127(1) have not been carried out; or
+
+(e) the incorrect labelling might lead to a serious risk to animal or public health.
+
+2\. The competent authorities or the Commission may confine the prohibition on supply and recall from the market solely to the contested production batches of the veterinary medicinal product concerned.
+
+#### Article 135 — Penalties imposed by Member States
+
+1\. Member States shall lay down rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+Member States shall, by 28 January 2022, notify the Commission of those rules and of those measures and shall notify it, without delay, of any subsequent amendments affecting them.
+
+2\. The competent authorities shall ensure the publication of information on the type and number of cases where financial penalties were imposed, having regard to the legitimate interest of the concerned parties for the protection of their business secrets.
+
+3\. Member States shall inform the Commission immediately of any litigation against the holders of marketing authorisations for centrally authorised veterinary medicinal products brought for infringement of this Regulation.
+
+#### Article 136 — Financial penalties imposed by the Commission on holders of marketing authorisation for centrally authorised veterinary medicinal products
+
+1\. The Commission may impose financial penalties in the form of fines or periodic penalty payments on the holders of marketing authorisation for centrally authorised veterinary medicinal products granted under this Regulation if they fail to comply with any of their obligations laid down in Annex III in connection with the marketing authorisations.
+
+2\. The Commission may, insofar as specifically provided for in the delegated acts referred to in point (b) of paragraph 7, impose the financial penalties referred to in paragraph 1 also on a legal entity or legal entities other than the marketing authorisation holder provided that such entities form part of the same economic entity as the marketing authorisation holder and that such other legal entities:
+
+(a) exerted a decisive influence over the marketing authorisation holder; or
+
+(b) were involved in, or could have addressed, such failure to comply with the obligation by the marketing authorisation holder.
+
+3\. Where the Agency or a competent authority of a Member State is of the opinion that a marketing authorisation holder has failed to comply with any of the obligations, as referred to in paragraph 1, it may request the Commission to investigate whether to impose financial penalties pursuant to that paragraph.
+
+4\. In determining whether to impose a financial penalty and in determining its appropriate amount, the Commission shall be guided by the principles of effectiveness, proportionality and dissuasiveness and take into consideration, where relevant, the seriousness and the effects of the failure to comply with the obligations.
+
+5\. For the purposes of paragraph 1, the Commission shall also take into account:
+
+(a) any infringement procedure initiated by a Member State against the same marketing authorisation holder on the basis of the same legal grounds and the same facts; and
+
+(b) any sanctions, including penalties, already imposed on the same marketing authorisation holder on the basis of the same legal grounds and the same facts.
+
+6\. Where the Commission finds that the marketing authorisation holder has failed, intentionally or negligently, to comply with its obligations, as referred to in paragraph 1, it may adopt a decision imposing a fine not exceeding 5 % of the marketing authorisation holder’s Union turnover in the business year preceding the date of that decision.
+
+Where the marketing authorisation holder continues to fail to comply with its obligations referred to in paragraph 1, the Commission may adopt a decision imposing periodic penalty payments per day not exceeding 2,5 % of the marketing authorisation holder’s average daily Union turnover in the business year preceding the date of that decision.
+
+Periodic penalty payments may be imposed for a period running from the date of notification of the relevant Commission's decision until the failure to comply with the obligation by the marketing authorisation holder, as referred to in paragraph 1, has been brought to an end.
+
+7\. The Commission shall adopt delegated acts in accordance with Article 147 in order to supplement this Regulation by laying down:
+
+(a) procedures to be applied by the Commission when imposing fines or periodic penalty payments, including rules on the initiation of the procedure, measures of inquiry, rights of defence, access to file, legal representation and confidentiality;
+
+(b) further detailed rules on the imposition by the Commission of financial penalties on legal entities other than the marketing authorisation holder;
+
+(c) rules on duration of procedure and limitation periods;
+
+(d) elements to be taken into account by the Commission when setting the level of, and imposing, fines and periodic penalty payments, as well as the conditions and methods for their collection.
+
+8\. When conducting the investigation on a failure to comply with any of the obligations referred to in paragraph 1, the Commission may cooperate with national competent authorities and rely on resources provided by the Agency.
+
+9\. Where the Commission adopts a decision imposing a financial penalty, it shall publish a concise summary of the case, including the names of the marketing authorisation holders involved and the amounts of, and reasons for, the financial penalties imposed, having regard to the legitimate interest of the marketing authorisation holders for the protection of their business secrets.
+
+10\. The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions whereby the Commission has imposed financial penalties. The Court of Justice of the European Union may cancel, reduce or increase the fine or periodic penalty payment imposed by the Commission.
+
+## CHAPTER X — REGULATORY NETWORK
+
+#### Article 137 — Competent authorities
+
+1\. Member States shall designate the competent authorities to carry out tasks under this Regulation.
+
+2\. Member States shall ensure that adequate financial resources are available to provide the staff and other resources necessary for the competent authorities to carry out the activities required by this Regulation.
+
+3\. The competent authorities shall cooperate with each other in the performance of their tasks under this Regulation and shall give the competent authorities of other Member States necessary and useful support to this end. Competent authorities shall communicate the appropriate information to each other.
+
+4\. On reasoned request, the competent authorities shall forthwith communicate the written records referred to in Article 123 and control reports referred to in Article 127 to the competent authorities of other Member States.
+
+#### Article 138 — Scientific opinion for international organisations for animal health
+
+1\. The Agency may give scientific opinions, in the context of cooperation with international organisations for animal health, for the evaluation of veterinary medicinal products intended exclusively for markets outside the Union. For that purpose, an application shall be submitted to the Agency in accordance with Article 8. The Agency may, after consulting the relevant organisation, draw up a scientific opinion.
+
+2\. The Agency shall establish specific procedural rules for the implementation of paragraph 1.
+
+#### Article 139 — Committee for Veterinary Medicinal Products
+
+1\. A Committee for Veterinary Medicinal Products (‘the Committee’) is hereby set up within the Agency.
+
+2\. The Executive Director of the Agency or his or her representative and representatives of the Commission shall be entitled to attend all meetings of the Committee, working parties and scientific advisory groups.
+
+3\. The Committee may establish standing and temporary working parties. The Committee may establish scientific advisory groups in connection with the evaluation of specific types of veterinary medicinal products, to which the Committee may delegate certain tasks associated with drawing up the scientific opinions referred to in point (b) of Article 141(1).
+
+4\. The Committee shall establish a standing working party with the sole remit of providing scientific advice to undertakings. The Executive Director, in consultation with the Committee shall set up the administrative structures and procedures allowing the development of advice for undertakings, as referred to in point (n) of Article 57(1) of Regulation (EC) No 726/2004, particularly regarding the development of novel therapy veterinary medicinal products.
+
+5\. The Committee shall establish a standing working party for pharmacovigilance with a remit including evaluating potential signals in pharmacovigilance arising from the Union pharmacovigilance system, proposing the options for risk management referred to in Article 79 to the Committee and to the coordination group, and coordinating the communication about pharmacovigilance between the competent authorities and the Agency.
+
+6\. The Committee shall establish its own rules of procedure. Those rules shall, in particular, lay down:
+
+(a) procedures for appointing and replacing the Chair;
+
+(b) the appointment of members of any working parties or scientific advisory groups on the basis of the lists of accredited experts referred to in the second subparagraph of Article 62(2) of Regulation (EC) No 726/2004 and procedures for consultation of working parties and scientific advisory groups;
+
+(c) a procedure for urgent adoption of opinions, particularly in relation to the provisions of this Regulation on market surveillance and pharmacovigilance.
+
+The rules of procedure shall enter into force after receiving a favourable opinion from the Commission and the Management Board of the Agency.
+
+7\. The Secretariat of the Agency shall provide technical, scientific and administrative support for the Committee, and shall ensure consistency and quality of opinions of the Committee and appropriate coordination between the Committee and other committees of the Agency referred to in Article 56 of Regulation (EC) No 726/2004 and the coordination group.
+
+8\. The opinions of the Committee shall be publicly accessible.
+
+#### Article 140 — Members of the Committee
+
+1\. Each Member State shall, after consultation of the Management Board of the Agency, appoint for a three-year term which may be renewed, one member and an alternate member of the Committee. The alternates shall represent and vote for the members in their absence and may also be appointed to act as rapporteurs.
+
+2\. Members and alternates of the Committee shall be appointed on the basis of their relevant expertise and experience in the scientific assessment of veterinary medicinal products, in order to guarantee the highest level of qualifications and a broad spectrum of relevant expertise.
+
+3\. A Member State may delegate its tasks within the Committee to another Member State. Each Member State may represent no more than one other Member State.
+
+4\. The Committee may co-opt a maximum of five additional members chosen on the basis of their specific scientific competence. Those members shall be appointed for a term of three years, which may be renewed, and shall not have alternates.
+
+5\. With a view to the co-opting of such members, the Committee shall identify the specific complementary scientific competence of the additional members. Co-opted members shall be chosen among experts nominated by Member States or the Agency.
+
+6\. The Committee may appoint, for the purpose of performing its tasks referred to in Article 141, one of its members to act as rapporteur. The Committee may also appoint a second member to act as a co-rapporteur.
+
+7\. The members of the Committee may be accompanied by experts in specific scientific or technical fields.
+
+8\. Members of the Committee and experts responsible for assessing veterinary medicinal products shall rely on the scientific evaluation and resources available to competent authorities. Each competent authority shall monitor and ensure the scientific level and independence of the evaluation carried out and provide appropriate contribution to the tasks of the Committee, and facilitate the activities of appointed Committee members and experts. To that end, Member States shall provide adequate scientific and technical resources to the members and experts they have nominated.
+
+9\. Member States shall refrain from giving Committee members and experts instructions incompatible with their own individual tasks, or with the tasks of the Committee and responsibilities of the Agency.
+
+#### Article 141 — Tasks of the Committee
+
+1\. The Committee shall have the following tasks:
+
+(a) carry out the tasks conferred on it under this Regulation and Regulation (EC) No 726/2004;
+
+(b) prepare scientific opinions of the Agency on questions relating to the evaluation and use of veterinary medicinal products;
+
+(c) prepare opinions on scientific matters concerning the evaluation and use of veterinary medicinal products on the request of the Executive Director of the Agency or the Commission;
+
+(d) prepare opinions of the Agency on questions concerning the admissibility of applications submitted in accordance with the centralised procedure, and on granting, varying, suspending or revoking marketing authorisations for centrally authorised veterinary medicinal products;
+
+(e) take due account of any request made by Member States for scientific opinions;
+
+(f) provide guidance on important questions and issues of general scientific nature;
+
+(g) give a scientific opinion, in the context of cooperation with the World Organisation for Animal Health, concerning the evaluation of certain veterinary medicinal products intended exclusively for markets outside the Union;
+
+(h) advise on the maximum limits for residues of veterinary medicinal products and biocidal products used in animal husbandry which may be accepted in foodstuffs of animal origin in accordance with Regulation (EC) No 470/2009;
+
+(i) provide scientific advice on the use of antimicrobials and antiparasitics in animals in order to minimise the occurrence of resistance in the Union, and update that advice when needed;
+
+(j) provide objective scientific opinions to the Member States on the questions which are referred to the Committee.
+
+2\. The members of the Committee shall ensure that there is appropriate coordination between the tasks of the Agency and the work of competent authorities.
+
+3\. When preparing opinions, the Committee shall use its best endeavours to reach a scientific consensus. If such consensus cannot be reached, the opinion shall consist of the position of the majority of members and divergent positions, with the grounds on which they are based.
+
+4\. If there is a request for re-examination of an opinion where this possibility is provided for in the Union law, the Committee shall appoint a different rapporteur and, where necessary, a different co-rapporteur from those appointed for the opinion. The re-examination procedure may deal only with the points of the opinion initially identified by the applicant and may be based only on the scientific data available when the Committee adopted the opinion. The applicant may request that the Committee consult a scientific advisory group in connection with the re-examination.
+
+#### Article 142 — Coordination group for mutual recognition and decentralised procedures for veterinary medicinal products
+
+1\. The coordination group for mutual recognition and decentralised procedures for veterinary medicinal products (‘the coordination group’) shall be set up.
+
+2\. The Agency shall provide a secretariat for the coordination group to assist in the operations of the procedures of the coordination group and to ensure an appropriate liaison between this group, the Agency and competent authorities.
+
+3\. The coordination group shall draw up its rules of procedure, which shall enter into force after receiving a favourable opinion from the Commission. Those rules of procedure shall be made public.
+
+4\. The Executive Director of the Agency or his or her representative and representatives of the Commission shall be entitled to attend all meetings of the coordination group.
+
+5\. The coordination group shall cooperate closely with the competent authorities and the Agency.
+
+#### Article 143 — Members of the coordination group
+
+1\. The coordination group shall be composed of one representative per Member State appointed for a renewable period of three years. Member States may appoint an alternate representative. Members of the coordination group may arrange to be accompanied by experts.
+
+2\. Members of the coordination group and their experts shall rely on the scientific and regulatory resources available to their competent authorities, on the relevant scientific assessments and on the recommendations of the Committee for the fulfilment of their tasks. Each competent authority shall monitor the quality of the evaluations carried out by their representative and facilitate their activities.
+
+3\. Members of the coordination group shall use their best endeavours to reach consensus on matters under discussion.
+
+#### Article 144 — Tasks of the coordination group
+
+The coordination group shall have the following tasks:
+
+(a) examine questions concerning mutual recognition and decentralised procedures;
+
+(b) examine advice from the pharmacovigilance working party of the Committee concerning risk management measures in pharmacovigilance related to veterinary medicinal products authorised in Member States and issue recommendations to the Member States and to the marketing authorisation holders, as necessary;
+
+(c) examine questions concerning variations to the terms of marketing authorisations granted by Member States;
+
+(d) provide recommendations to Member States whether a specific veterinary medicinal product or a group of veterinary medicinal products is to be considered a veterinary medicinal product within the scope of this Regulation;
+
+(e) coordinate the selection of the lead authority responsible for the assessment of the results of the signal management process referred to in Article 81(4);
+
+(f) draw up and publish an annual list of reference veterinary medicinal products which shall be subject to harmonisation of the summaries of product characteristics in accordance with Article 70(3).
+
+## CHAPTER XI — COMMON AND PROCEDURAL PROVISIONS
+
+#### Article 145 — Standing Committee on Veterinary Medicinal Products
+
+1\. The Commission shall be assisted by the Standing Committee on Veterinary Medicinal Products (‘the Standing Committee’). The Standing Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 146 — Amendments to Annex II
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 147(2) in order to amend Annex II by adapting the requirements regarding the technical documentation on the quality, safety and efficacy of veterinary medicinal products to technical and scientific progress.
+
+2\. The Commission shall adopt delegated acts in accordance with Article 147(3) amending Annex II in order to achieve a sufficient level of detail that ensures legal certainty and harmonisation as well as any necessary updating, while avoiding unnecessary disruption with Annex II, including as regards the introduction of specific requirements for novel therapy veterinary medicinal products. When adopting those delegated acts, the Commission shall have due regard to animal and public health and environmental considerations.
+
+#### Article 147 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 37(4), 57(3), 106(6), 109(1), 115(3), 118(2), 136(7) and 146(1) and (2) shall be conferred on the Commission for a period of five years from 27 January 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for the periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The power to adopt delegated acts referred to in Article 146(2) shall be conferred on the Commission for a period from 27 January 2019 until 28 January 2022.
+
+4\. The delegation of power referred to in Articles 37(4), 57(3), 106(6), 109(1), 115(3), 118(2), 136(7) and 146(1) and (2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+5\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law Making.
+
+6\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+7\. A delegated act adopted pursuant to Articles 37(4), 57(3), 106(6), 109(1), 115(3), 118(2), 136(7) and 146(1) and (2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 148 — Data protection
+
+1\. Member States shall apply Regulation (EU) 2016/679 of the European Parliament and of the Council ( 10 ) to the processing of personal data carried out in the Member States pursuant to this Regulation.
+
+2\. Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 11 ) shall apply to the processing of personal data carried out by the Commission and the Agency pursuant to this Regulation.
+
+## CHAPTER XII — TRANSITIONAL AND FINAL PROVISIONS
+
+#### Article 149 — Repeal
+
+Directive 2001/82/EC is repealed.
+
+References to the repealed Directive shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex IV.
+
+#### Article 150 — Relation with other Union acts
+
+1\. Nothing in this Regulation shall be understood to affect the provisions of Directive 96/22/EC.
+
+2\. Commission Regulation (EC) No 1234/2008 ( 12 ) shall not apply to veterinary medicinal products covered by this Regulation.
+
+3\. Commission Regulation (EC) No 658/2007 ( 13 ) shall not apply to veterinary medicinal products covered by this Regulation.
+
+#### Article 151 — Prior applications
+
+1\. The procedures concerning the applications for marketing authorisations for veterinary medicinal products or for variations that have been validated in accordance with Regulation (EC) No 726/2004 before 28 January 2022 shall be completed in accordance with Regulation (EC) No 726/2004.
+
+2\. The procedures concerning the applications for marketing authorisations for veterinary medicinal products that have been validated in accordance with Directive 2001/82/EC before 28 January 2022 shall be completed in accordance with that Directive.
+
+3\. Procedures initiated on the basis of Articles 33, 34, 35, 39, 40 and 78 of Directive 2001/82/EC before 28 January 2022 shall be completed in accordance with that Directive.
+
+#### Article 152 — Existing veterinary medicinal products, marketing authorisations and registrations
+
+1\. Marketing authorisations of veterinary medicinal products and registrations of homeopathic veterinary medicinal products granted in accordance with Directive 2001/82/EC or Regulation (EC) No 726/2004 before 28 January 2022 shall be deemed to have been issued in accordance with this Regulation, and are, as such, subject to the relevant provisions of this Regulation.
+
+The first subparagraph of this paragraph shall not apply to marketing authorisations for antimicrobial veterinary medicinal products containing antimicrobials which have been reserved for treatment in humans in accordance with implementing acts referred to in Article 37(5).
+
+2\. Veterinary medicinal products placed on the market in accordance with Directive 2001/82/EC or Regulation (EC) No 726/2004 may continue to be made available until 29 January 2027, even if they are not in compliance with this Regulation.
+
+3\. By way of derogation from paragraph 1 of this Article, the periods of protection referred to in Article 39 shall not apply to reference veterinary medicinal products for which an authorisation has been granted before 28 January 2022 and, instead, the corresponding provisions in the repealed acts referred to in paragraph 1 of this Article shall continue to apply in that respect.
+
+#### Article 153 — Transitional provisions regarding delegated and implementing acts
+
+1\. The delegated acts referred to in Article 118(2) and the implementing acts referred to in Articles 37(5), 57(4), 77(6), 95(8), 99(6) and 104(7) shall be adopted before 28 January 2022. Such delegated and implementing acts shall apply from 28 January 2022.
+
+2\. Without prejudice to the date of application of this Regulation, the Commission shall adopt the delegated acts referred to in Article 37(4) at the latest by 27 September 2021. Such delegated acts shall apply from 28 January 2022.
+
+3\. Without prejudice to the date of application of this Regulation, the Commission shall adopt the delegated acts referred to in Articles 57(3) and 146(2) and the implementing acts referred to in Articles 55(3) and 60(1) at the latest by 27 January 2021. Such delegated and implementing acts shall apply from 28 January 2022.
+
+4\. Without prejudice to the date of application of this Regulation, the Commission shall adopt the delegated acts referred to in Article 109(1) and the implementing acts referred to in Articles 17(2) and (3), 93(2), 109(2) and 115(5) at the latest by 29 January 2025. Such delegated and implementing acts shall apply at the earliest on 28 January 2022.
+
+5\. Without prejudice to the date of application of this Regulation, the Commission is empowered to adopt delegated and implementing acts provided for in this Regulation as from 27 January 2019. Such delegated and implementing acts, unless otherwise provided in this Regulation, shall apply from 28 January 2022.
+
+When adopting the delegated and implementing acts referred to in this Article, the Commission shall allow sufficient time between their adoption and their start of application.
+
+#### Article 154 — Establishment of the pharmacovigilance database and of the manufacturing and wholesale distribution database
+
+Without prejudice to the date of application of this Regulation, the Agency, in collaboration with the Member States and the Commission, shall, in accordance with Articles 74 and 91 respectively, ensure the establishment of the pharmacovigilance database and of the manufacturing and wholesale distribution database at the latest by 28 January 2022.
+
+#### Article 155 — Initial input to the product database by competent authorities
+
+At the latest by 28 January 2022, the competent authorities shall submit, electronically, information on all veterinary medicinal products authorised in their Member State at that time to the Agency, using the format referred to in point (a) of Article 55(3).
+
+#### Article 156 — Review of rules for environmental risk assessment
+
+By 28 January 2022, the Commission shall present a report to the European Parliament and to the Council on a feasibility study of an active substance based review system (‘monographs’) and other potential alternatives for the environmental risk assessment of veterinary medicinal products, to be accompanied, if appropriate, by a legislative proposal.
+
+#### Article 157 — Commission report on traditional herbal products used to treat animals
+
+The Commission shall report to the European Parliament and to the Council by 29 January 2027, on traditional herbal products used to treat animals in the Union. If appropriate, the Commission shall make a legislative proposal in order to introduce a simplified system for registering traditional herbal products used to treat animals.
+
+The Member States shall provide information to the Commission on such traditional herbal products within their territories.
+
+#### Article 158 — Review of measures regarding animals of the equine species
+
+No later than 29 January 2025, the Commission shall present a report to the European Parliament and to the Council on its assessment of the situation as regards the treatment with medicinal products of animals of the equine species and their exclusion from the food chain, including with regard to imports of animals of the equine species from third countries, to be accompanied by any appropriate action by the Commission taking into account, in particular, public health, animal welfare, the risks of fraud and the level playing field with third countries.
+
+#### Article 159 — Transitional provisions regarding certain certificates of good manufacturing practice
+
+Without prejudice to the date of application of this Regulation, the obligations regarding certificates of good manufacturing practice for inactivated immunological veterinary medicinal products which are manufactured from pathogens and antigens obtained from an animal or animals in an epidemiological unit and used for the treatment of that animal or those animals in the same epidemiological unit or for the treatment of an animal or animals in a unit having a confirmed epidemiological link shall only start to apply from the date of application of the implementing acts laying down specific measures on good manufacturing practice for those veterinary medicinal products referred to in Article 93(2).
+
+#### Article 160 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 28 January 2022.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**INFORMATION REFERRED TO IN POINT (A) OF ARTICLE 8(1)**
+
+1\. Legal basis for the application for the marketing authorisation
+
+2\. Applicant
+
+2.1. Name or company name and permanent address or registered place of business of the applicant
+
+2.2. Name or company name and permanent address or registered place of business of manufacturer(s) or importer(s) of the finished veterinary medicinal product and name or company name and permanent address or registered place of business of the manufacturer of the active substance(s)
+
+2.3. Name and address of the sites involved in the different stages of the manufacturing, importing, control and batch release
+
+3\. Identification of the veterinary medicinal product
+
+3.1. Name of the veterinary medicinal product and Anatomical Therapeutic Chemical Veterinary code (ATCvet Code)
+
+3.2. Active substance(s) and, if applicable, diluent(s)
+
+3.3. Strength or, in case of immunological veterinary medicinal product, biological activity, potency or titre
+
+3.4. Pharmaceutical form
+
+3.5. Route of administration
+
+3.6. Target species
+
+4\. Manufacturing and pharmacovigilance information
+
+4.1. Proof of a manufacturing authorisation or certificate of good manufacturing practice
+
+4.2. Reference number of pharmacovigilance system master file
+
+5\. Veterinary medicinal product information
+
+5.1. Proposed summary of the product characteristics drawn up in accordance with Article 35
+
+5.2. Description of the final presentation of the veterinary medicinal product, including packaging and labelling
+
+5.3. Proposed text of the information to be provided on the immediate packaging, outer packaging and the package leaflet in accordance with Articles 10 to 16
+
+6\. Other information
+
+6.1. List of countries in which a marketing authorisation has been granted or revoked for the veterinary medicinal product
+
+6.2. Copies of all the summaries of product characteristics as included in the terms of marketing authorisations granted by Member States
+
+6.3. List of countries in which an application has been submitted or refused
+
+6.4. List of Member States in which the veterinary medicinal product is to be placed on the market
+
+6.5. Critical expert reports on quality, safety and efficacy of the veterinary medicinal product.
+
+## ANNEX II — REQUIREMENTS REFERRED TO IN ARTICLE 8(1), POINT (B)
+
+<table>
+<tr><td colspan="2">Table of Contents</td></tr>
+<tr><td>SECTION I</td><td>GENERAL PRINCIPLES AND REQUIREMENTS</td></tr>
+<tr><td>I.1.</td><td>General principles</td></tr>
+<tr><td>I.2.</td><td>Dossier composition requirements</td></tr>
+<tr><td>I.2.1.</td><td>Part 1: Summary of the dossier</td></tr>
+<tr><td>I.2.2.</td><td>Part 2: Quality documentation (physicochemical, biological or microbiological information)</td></tr>
+<tr><td>I.2.3.</td><td>Part 3: Safety documentation (safety and residues tests)</td></tr>
+<tr><td>I.2.4.</td><td>Part 4: Efficacy documentation (pre-clinical studies and clinical trial(s))</td></tr>
+<tr><td>I.2.5.</td><td>Detailed requirements for different types of veterinary medicinal products or marketing authorisation dossiers</td></tr>
+<tr><td>SECTION II</td><td>REQUIREMENTS FOR VETERINARY MEDICINAL PRODUCTS OTHER THAN BIOLOGICAL VETERINARY MEDICINAL PRODUCTS</td></tr>
+<tr><td>II.1.</td><td>Part 1: Summary of the dossier</td></tr>
+<tr><td>II.2.</td><td>Part 2: Quality documentation (physicochemical, biological or microbiological information)</td></tr>
+<tr><td>II.2A.</td><td>Product description</td></tr>
+<tr><td>II.2A1.</td><td>Qualitative and quantitative composition</td></tr>
+<tr><td>II.2A2.</td><td>Product development</td></tr>
+<tr><td>II.2B.</td><td>Description of the manufacturing method</td></tr>
+<tr><td>II.2C.</td><td>Production and control of starting material</td></tr>
+<tr><td>II.2C1.</td><td>Active substance(s)</td></tr>
+<tr><td>II.2C1.1.</td><td>Active substances listed in pharmacopoeias</td></tr>
+<tr><td>II.2C1.2.</td><td>Active substances not listed in a pharmacopoeia</td></tr>
+<tr><td>II.2C1.3.</td><td>Physicochemical characteristics liable to affect bioavailability</td></tr>
+<tr><td>II.2C2.</td><td>Excipients</td></tr>
+<tr><td>II.2C3.</td><td>Packaging (container-closure systems)</td></tr>
+<tr><td>II.2C3.1.</td><td>Active substance</td></tr>
+<tr><td>II.2C3.2.</td><td>Finished product</td></tr>
+<tr><td>II.2C4.</td><td>Substances of biological origin</td></tr>
+<tr><td>II.2D.</td><td>Control tests carried out on isolated intermediates during the manufacturing process</td></tr>
+<tr><td>II.2E.</td><td>Control tests on the finished product</td></tr>
+<tr><td>II.2E1.</td><td>General characteristics of the finished product</td></tr>
+<tr><td>II.2E2.</td><td>Identification and assay of active substance(s)</td></tr>
+<tr><td>II.2E3.</td><td>Identification and assay of excipient components</td></tr>
+<tr><td>II.2E4.</td><td>Microbiological controls</td></tr>
+<tr><td>II.2E5.</td><td>Batch-to-batch consistency</td></tr>
+<tr><td>II.2E6.</td><td>Other controls</td></tr>
+<tr><td>II.2F.</td><td>Stability test</td></tr>
+<tr><td>II.2F1.</td><td>Active substance(s)</td></tr>
+<tr><td>II.2F2.</td><td>Finished product</td></tr>
+<tr><td>II.2G.</td><td>Other information</td></tr>
+<tr><td>II.3</td><td>Part 3: Safety documentation (safety and residues tests)</td></tr>
+<tr><td>II.3A.</td><td>Safety tests</td></tr>
+<tr><td>II.3A1.</td><td>Precise identification of the product and of its active substance(s)</td></tr>
+<tr><td>II.3A2.</td><td>Pharmacology</td></tr>
+<tr><td>II.3A2.1.</td><td>Pharmacodynamics</td></tr>
+<tr><td>II.3A2.2.</td><td>Pharmacokinetics</td></tr>
+<tr><td>II.3A3.</td><td>Toxicology</td></tr>
+<tr><td>II.3A4.</td><td>Other requirements</td></tr>
+<tr><td>II.3A.4.1.</td><td>Special studies</td></tr>
+<tr><td>II.3A.4.2.</td><td>Observations in humans</td></tr>
+<tr><td>II.3A.4.3.</td><td>Development of resistance and related risk in humans</td></tr>
+<tr><td>II.3A5.</td><td>User safety</td></tr>
+<tr><td>II.3A6.</td><td>Environmental risk assessment</td></tr>
+<tr><td>II.3B.</td><td>Residue tests</td></tr>
+<tr><td>II.3B1.</td><td>Identification of the product</td></tr>
+<tr><td>II.3B2.</td><td>Depletion of residues (metabolism and residue kinetics)</td></tr>
+<tr><td>II.3B3.</td><td>Residue analytical method</td></tr>
+<tr><td>II.4.</td><td>Part 4: Efficacy documentation (pre-clinical studies and clinical trial(s))</td></tr>
+<tr><td>II.4A.</td><td>Pre-clinical studies</td></tr>
+<tr><td>II.4A1.</td><td>Pharmacology</td></tr>
+<tr><td>II.4A.1.1.</td><td>Pharmacodynamics</td></tr>
+<tr><td>II.4A.1.2.</td><td>Pharmacokinetics</td></tr>
+<tr><td>II.4A2.</td><td>Development of resistance and related risk in animals</td></tr>
+<tr><td>II.4A3.</td><td>Dose determination and confirmation</td></tr>
+<tr><td>II.4A4.</td><td>Tolerance in the target animal species</td></tr>
+<tr><td>II.4B.</td><td>Clinical trial(s)</td></tr>
+<tr><td>II.4B1.</td><td>General principles</td></tr>
+<tr><td>II.4B2.</td><td>Documentation</td></tr>
+<tr><td>II.4B2.1.</td><td>Results of pre-clinical studies</td></tr>
+<tr><td>II.4B2.2.</td><td>Results of clinical trials</td></tr>
+<tr><td>SECTION III</td><td>REQUIREMENTS FOR BIOLOGICAL VETERINARY MEDICINAL PRODUCTS</td></tr>
+<tr><td>SECTION IIIa</td><td>REQUIREMENTS FOR BIOLOGICAL VETERINARY MEDICINAL PRODUCTS OTHER THAN IMMUNOLOGICAL VETERINARY MEDICINAL PRODUCTS</td></tr>
+<tr><td>IIIa.1.</td><td>Part 1: Summary of the dossier</td></tr>
+<tr><td>IIIa.2.</td><td>Part 2: Quality documentation (physicochemical, biological or microbiological information)</td></tr>
+<tr><td>IIIa.2A.</td><td>Product description</td></tr>
+<tr><td>IIIa.2A1.</td><td>Qualitative and quantitative composition</td></tr>
+<tr><td>IIIa.2A2.</td><td>Product development</td></tr>
+<tr><td>IIIa.2A3.</td><td>Characterisation</td></tr>
+<tr><td>IIIa.2A3.1.</td><td>Elucidation of structure and other characteristics</td></tr>
+<tr><td>IIIa.2A3.2.</td><td>Impurities</td></tr>
+<tr><td>IIIa.2B.</td><td>Description of the manufacturing method</td></tr>
+<tr><td>IIIa.2C.</td><td>Production and control of starting materials</td></tr>
+<tr><td>IIIa.2C1.</td><td>Starting materials listed in pharmacopoeias</td></tr>
+<tr><td>IIIa.2C2.</td><td>Starting materials not listed in a pharmacopoeia</td></tr>
+<tr><td>IIIa.2C2.1.</td><td>Starting materials of biological origin</td></tr>
+<tr><td>IIIa.2C2.2.</td><td>Starting materials of non-biological origin</td></tr>
+<tr><td>IIIa.2D.</td><td>Control tests during the manufacturing process</td></tr>
+<tr><td>IIIa.2E.</td><td>Control tests on the finished product</td></tr>
+<tr><td>IIIa.2E1</td><td>Finish product specification</td></tr>
+<tr><td>IIIa.2E2</td><td>Method descriptions and validation of release tests</td></tr>
+<tr><td>IIIa.2E3.</td><td>Reference standards or materials</td></tr>
+<tr><td>IIIa.2F.</td><td>Batch-to-batch consistency</td></tr>
+<tr><td>IIIa.2F1.</td><td>Active substance</td></tr>
+<tr><td>IIIa.2F2.</td><td>Finished product</td></tr>
+<tr><td>IIIa.2G.</td><td>Stability tests</td></tr>
+<tr><td>IIIa.2H.</td><td>Other information</td></tr>
+<tr><td>IIIa.3.</td><td>Part 3: Safety documentation (safety and residues tests)</td></tr>
+<tr><td>IIIa.3A.</td><td>Safety tests</td></tr>
+<tr><td>IIIa.3A1.</td><td>Precise identification of the product and of its active substance(s):</td></tr>
+<tr><td>IIIa.3A2.</td><td>Pharmacology</td></tr>
+<tr><td>IIIa.3A2.1.</td><td>Pharmacodynamics</td></tr>
+<tr><td>IIIa.3A2.2.</td><td>Pharmacokinetics</td></tr>
+<tr><td>IIIa.3A3.</td><td>Toxicology</td></tr>
+<tr><td>IIIa.3A3.1.</td><td>Single-dose toxicity</td></tr>
+<tr><td>IIIa.3A3.2.</td><td>Repeat-dose toxicity</td></tr>
+<tr><td>IIIa.3A3.3.</td><td>Tolerance in the target species</td></tr>
+<tr><td>IIIa.3A3.4.</td><td>Reproductive toxicity including developmental toxicity</td></tr>
+<tr><td>IIIa.3A3.5.</td><td>Genotoxicity</td></tr>
+<tr><td>IIIa.3A3.6.</td><td>Carcinogenicity</td></tr>
+<tr><td>IIIa.3A3.7.</td><td>Exceptions</td></tr>
+<tr><td>IIIa.3A4.</td><td>Other requirements</td></tr>
+<tr><td>IIIa.3A4.1.</td><td>Special studies</td></tr>
+<tr><td>IIIa.3A4.2.</td><td>Observations in humans</td></tr>
+<tr><td>IIIa.3A4.3.</td><td>Development of resistance and related risk in humans</td></tr>
+<tr><td>IIIa.3A5.</td><td>User safety</td></tr>
+<tr><td>IIIa.3A6.</td><td>Environmental risk assessment</td></tr>
+<tr><td>IIIa.3A6.1.</td><td>Environmental risk assessment of veterinary medicinal products not containing or consisting of genetically modified organisms</td></tr>
+<tr><td>IIIa.3A6.2.</td><td>Environmental risk assessment for veterinary medicinal products containing or consisting of genetically modified organisms</td></tr>
+<tr><td>IIIa.3B.</td><td>Residue tests</td></tr>
+<tr><td>IIIa.3B1.</td><td>Identification of the product</td></tr>
+<tr><td>IIIa.3B2.</td><td>Depletion of residues</td></tr>
+<tr><td>IIIa.3B3.</td><td>Residue analytical method</td></tr>
+<tr><td>IIIa.4.</td><td>Part 4: Efficacy documentation (pre-clinical studies and clinical trial(s))</td></tr>
+<tr><td>IIIa.4A.</td><td>Pre-clinical studies</td></tr>
+<tr><td>IIIa.4A1.</td><td>Pharmacology</td></tr>
+<tr><td>IIIa.4A1.1.</td><td>Pharmacodynamics</td></tr>
+<tr><td>IIIa.4A1.2.</td><td>Pharmacokinetics</td></tr>
+<tr><td>IIIa.4A2.</td><td>Development of resistance and related risk in animals</td></tr>
+<tr><td>IIIa.4A3.</td><td>Dose determination and confirmation</td></tr>
+<tr><td>IIIa.4A4.</td><td>Tolerance in the target animal species</td></tr>
+<tr><td>IIIa.4B.</td><td>Clinical trials</td></tr>
+<tr><td>IIIa.4B1.</td><td>General principles</td></tr>
+<tr><td>IIIa.4B2.</td><td>Documentation</td></tr>
+<tr><td>IIIa.4B2.1.</td><td>Clinical trials</td></tr>
+<tr><td>IIIa.4B2.2.</td><td>Clinical trials</td></tr>
+<tr><td>SECTION IIIb</td><td>REQUIREMENTS FOR IMMUNOLOGICAL VETERINARY MEDICINAL PRODUCTS</td></tr>
+<tr><td>IIIb.1.</td><td>Part 1: Summary of the dossier</td></tr>
+<tr><td>IIIb.2.</td><td>Part 2: Quality documentation (physicochemical, biological and microbiological information)</td></tr>
+<tr><td>IIIb.2.A.</td><td>Product description</td></tr>
+<tr><td>IIIb.2A1.</td><td>Qualitative and quantitative composition</td></tr>
+<tr><td>IIIb.2A2.</td><td>Product development</td></tr>
+<tr><td>IIIb.2B.</td><td>Description of the manufacturing method</td></tr>
+<tr><td>IIIb.2C.</td><td>Production and control of starting materials</td></tr>
+<tr><td>IIIb.2C1.</td><td>Starting materials listed in pharmacopoeias</td></tr>
+<tr><td>IIIb.2C2.</td><td>Starting materials not listed in a pharmacopoeia</td></tr>
+<tr><td>IIIb.2C2.1.</td><td>Starting materials of biological origin</td></tr>
+<tr><td>IIIb.2C2.2.</td><td>Starting materials of non-biological origin</td></tr>
+<tr><td>IIIb.2D.</td><td>Control tests during the manufacturing process</td></tr>
+<tr><td>IIIb.2E.</td><td>Control tests on the finished product</td></tr>
+<tr><td>IIIb.2F.</td><td>Batch-to-batch consistency</td></tr>
+<tr><td>IIIb.2G.</td><td>Stability tests</td></tr>
+<tr><td>IIIb.2H.</td><td>Other information</td></tr>
+<tr><td>IIIb.3.</td><td>Part 3: Safety documentation (safety and residues tests)</td></tr>
+<tr><td>IIIb.3A.</td><td>General requirements</td></tr>
+<tr><td>IIIb.3B.</td><td>Pre-clinical studies</td></tr>
+<tr><td>IIIb.3C.</td><td>Clinical trials</td></tr>
+<tr><td>IIIb.3D.</td><td>Environmental risk assessment</td></tr>
+<tr><td>IIIb.3E.</td><td>Assessment required for veterinary medicinal products containing or consisting of genetically modified organisms</td></tr>
+<tr><td>IIIb.3F.</td><td>Residue tests to be included in the laboratory studies</td></tr>
+<tr><td>IIIb.4.</td><td>Part 4: Efficacy documentation (pre-clinical studies and clinical trial(s))</td></tr>
+<tr><td>IIIb.4A.</td><td>General requirements</td></tr>
+<tr><td>IIIb.4B.</td><td>Pre-clinical studies</td></tr>
+<tr><td>IIIb.4C.</td><td>Clinical trials</td></tr>
+<tr><td>SECTION IV</td><td>REQUIREMENTS FOR SPECIFIC MARKETING AUTHORISATION APPLICATIONS</td></tr>
+<tr><td>IV.1.</td><td>Applications for generic veterinary medicinal products</td></tr>
+<tr><td>IV.2.</td><td>Applications for hybrid veterinary medicinal products</td></tr>
+<tr><td>IV.3.</td><td>Applications for combination veterinary medicinal products</td></tr>
+<tr><td>IV.4.</td><td>Applications based on informed consent</td></tr>
+<tr><td>IV.5.</td><td>Applications based on bibliographic data</td></tr>
+<tr><td>IV.6.</td><td>Applications for limited markets</td></tr>
+<tr><td>IV.7.</td><td>Applications in exceptional circumstances</td></tr>
+<tr><td>SECTION V</td><td>REQUIREMENTS FOR MARKETING AUTHORISATION APPLICATIONS FOR PARTICULAR VETERINARY MEDICINAL PRODUCTS</td></tr>
+<tr><td>V.1.</td><td>Novel therapies veterinary medicinal products</td></tr>
+<tr><td>V.1.1</td><td>General requirements</td></tr>
+<tr><td>V.1.2.</td><td>Quality requirements</td></tr>
+<tr><td>V.1.3.</td><td>Safety requirements</td></tr>
+<tr><td>V.1.4.</td><td>Efficacy requirements</td></tr>
+<tr><td>V.1.5.</td><td>Specific data requirements for particular types of novel therapy products</td></tr>
+<tr><td>V.1.5.1.</td><td>Principles</td></tr>
+<tr><td>V.1.5.2.</td><td>Gene therapy veterinary medicinal products</td></tr>
+<tr><td>V.1.5.3.</td><td>Regenerative medicine, tissue engineering and cell therapy veterinary medicinal products</td></tr>
+<tr><td>V.1.5.4.</td><td>Veterinary medicinal product specifically designed for phage therapy</td></tr>
+<tr><td>V.1.5.5.</td><td>Veterinary medicinal product issued from nanotechnologies</td></tr>
+<tr><td>V.1.5.6.</td><td>RNA antisense therapy and RNA interference therapy products</td></tr>
+<tr><td>V.2.</td><td>Vaccine antigen master file</td></tr>
+<tr><td>V.3.</td><td>Multi-strain dossier</td></tr>
+<tr><td>V.4.</td><td>Vaccine platform technology</td></tr>
+<tr><td>V.5.</td><td>Authorised homeopathic veterinary medicinal products</td></tr>
+</table>
+
+**SECTION I**
+
+**GENERAL PRINCIPLES AND REQUIREMENTS**
+
+**I.1. General principles**
+
+I.1.1. The documentation accompanying an application for a marketing authorisation pursuant to Articles 8, and 18 to 25 shall be presented in accordance with the requirements set out in this Annex and shall take into account the guidance documents published by the Commission and the requirements for electronic format published by the Agency.
+
+I.1.2. In assembling the dossier for application for a marketing authorisation, applicants shall also take into account the most up-to-date veterinary medicinal knowledge and the scientific guidelines relating to the quality, safety and efficacy of veterinary medicinal products published by the Agency.
+
+I.1.3. For veterinary medicinal products, all relevant monographs of the European Pharmacopoeia, including general monographs and the general chapters, are applicable for the appropriate parts of the dossier.
+
+I.1.4. The manufacturing processes for the active substance(s) and finished product shall comply with Good Manufacturing Practice (GMP).
+
+I.1.5. All information which is relevant to the evaluation of the veterinary medicinal product concerned shall be included in the application, whether favourable or unfavourable to the product. In particular, all relevant details related to any incomplete or abandoned study or trial relating to the veterinary medicinal product shall be given.
+
+I.1.6. Pharmacological, toxicological, residue and pre-clinical safety studies shall be carried out in conformity with the provisions related to Good Laboratory Practice (GLP) laid down in Directives 2004/10/EC ( 14 ) and 2004/9/EC ( 15 ) of the European Parliament and of the Council.
+
+I.1.7. All experiments on animals shall be conducted taking into account the principles laid down in Directive 2010/63/EU, notwithstanding the place of conduct of the experiments.
+
+I.1.8. The environmental risk assessment connected with the release of veterinary medicinal products containing or consisting of Genetically Modified Organisms (GMOs) within the meaning of Article 2 of Directive 2001/18/EC shall be provided in the dossier as a separate document. The information shall be presented in accordance with the provisions of Directive 2001/18/EC, taking into account guidance published by the Commission.
+
+I.1.9. The applicant shall confirm in Part 1 of the dossier for an application for marketing authorisation that all submitted data relevant to the quality, safety and efficacy of the veterinary medicinal product, including data publicly available, are not subject to protection of technical documentation.
+
+**I.2. Dossier composition requirements**
+
+Any dossier for an application for marketing authorisation for a veterinary medicinal product shall consist of the following parts:
+
+**I.2.1. Part 1: Summary of the dossier**
+
+Part 1 shall include administrative information as outlined in Annex I, as follows:
+
+(a) Part 1A: points 1 to 4 and 6.1 to 6.4;
+
+(b) Part 1B: point 5;
+
+(c) Part 1C: point 6.5.
+
+With regard to Part 1B, point 5.1, in connection to Article 35(1), point (l), an application proposing classification of a veterinary medicinal product as "not subject to veterinary prescription" shall include a critical review of the product characteristics in order to justify the suitability of such classification taking into consideration target and non-target animal safety, public health as well as environmental safety, as outlined in the criteria given in Article 34(3), points (a) to (g).
+
+Each critical expert report shall be prepared with regard to the state of scientific knowledge at the time of submission of the application. It shall contain an evaluation of the various tests and trials which constitute the marketing authorisation dossier, and shall address all aspects relevant to the assessment of the quality, safety and efficacy of the veterinary medicinal product. It shall give detailed results of the tests and trials submitted and precise bibliographic references. Copies of the bibliographic references cited shall be provided.
+
+The critical expert reports shall be signed and dated by the author of those reports, and information about the author’s educational background, training and occupational experience shall be attached. The professional relationship of the author with the applicant shall be declared.
+
+The critical expert reports and the appendices shall contain precise and clear cross-references to the information contained in the technical documentation.
+
+Where Part 2 is presented using the format of the Common Technical Document (CTD), the quality overall summary (QOS) shall be used for the critical expert report on quality.
+
+For Parts 3 and 4 the critical expert report shall also include a tabulated summary of all technical documentation and relevant data submitted.
+
+**I.2.2. Part 2: Quality documentation (physicochemical, biological or microbiological information)**
+
+(1) The pharmaceutical quality (physicochemical, biological or microbiological) data shall include for the active substance(s) and for the finished veterinary medicinal product information on the manufacturing process, the characterisation and properties, the quality control procedures and requirements, the stability as well as a description of the composition, the development and presentation of the veterinary medicinal product.
+
+(2) All monographs, including specific monographs, general monographs and general chapters of the European Pharmacopoeia are applicable. For immunological veterinary medicinal products, all monographs, including specific monographs, general monographs and general chapters of the European Pharmacopoeia are applicable, unless otherwise justified. In the absence of a European Pharmacopoeia monograph, the monograph of a Member State pharmacopoeia may be applied. In cases where a substance is described neither in the European Pharmacopoeia nor in the pharmacopoeia of a Member State, compliance with the monograph of a third country pharmacopoeia may be accepted if its suitability is demonstrated; in such cases, the applicant shall submit a copy of the monograph accompanied by a translation where appropriate. Data to demonstrate the ability of the monograph to adequately control the quality of the substance shall be presented.
+
+(3) If tests other than those mentioned in the pharmacopoeia are used, the use of such tests shall be justified by providing proof that the materials, if tested in accordance with the pharmacopoeia, would meet the quality requirements of the relevant pharmacopoeial monograph.
+
+(4) All test procedures for analysis and quality control shall take account of established guidance and requirements. The results of the validation studies shall be provided. All the test procedure(s) shall be described in sufficient detail so as to be reproducible in control tests, carried out at the request of the competent authority and in order to be properly assessed by the competent authority. Any special apparatus and equipment, which may be used shall be described in adequate manner, accompanied by a diagram, if relevant. The formulae of the laboratory reagents shall be supplemented, if necessary, by the method of preparation. In the case of test procedures included in the European Pharmacopoeia or the pharmacopoeia of a Member State, this description may be replaced by a detailed reference to the pharmacopoeia in question.
+
+(5) Where available, chemical and biological reference material of the European Pharmacopoeia shall be used. If other reference preparations and standards are used, they shall be identified and described in detail.
+
+(6) The pharmaceutical quality (physicochemical, biological or microbiological) data for the active substance and/or the finished product may be included in the dossier in Common Technical Document (CTD) format.
+
+(7) For biological veterinary medicinal products, including immunologicals, information on solvents needed for making the final product preparation shall be included in the dossier. A biological veterinary medicinal product is regarded as one product even when more than one solvent is required so that different preparations of the final product can be prepared, which may be for administration by different routes or methods of administration. Solvents supplied with biological veterinary medicinal products may be packed together with the active substance vials or separately.
+
+(8) In accordance with Directive 2010/63/EU and the European Convention for the Protection of Vertebrate Animals Used for Experimental and Other Scientific Purposes, tests shall be carried out in such a way as to use the minimum number of animals and to cause the least pain, suffering, distress or lasting harm. If available, an alternative in vitro test shall be used when this leads to replacement or reduction of animal use or reduction of suffering.
+
+**I.2.3. Part 3: Safety documentation (safety and residues tests)**
+
+(1) The dossier on the safety studies shall include the following:
+
+(a) synthesis of the tests which have been carried out in compliance with this Part, with detailed references to the published literature containing an objective discussion of all the results obtained. Omission of any tests or trials listed and inclusion of an alternative type of study shall be indicated and discussed;
+
+(b) statement of compliance with GLP for pre-clinical safety studies, where applicable, together with a discussion of the contribution that any non-GLP study may make to the overall risk assessment, and justification of non-GLP status.
+
+(2) The dossier shall include the following:
+
+(a) an index of all studies and trials included in the dossier;
+
+(b) a justification for the omission of any type of study and trial;
+
+(c) an explanation of the inclusion of an alternative type of study or trial;
+
+(d) a discussion of the contribution that any non-GLP study or trial may make to the overall risk assessment and justification of non-GLP status.
+
+**I.2.4. Part 4: Efficacy documentation (pre-clinical studies and clinical trial(s))**
+
+(1) The dossier on efficacy shall include all pre-clinical and clinical documentation, whether favourable or unfavourable to the veterinary medicinal products, in order to enable an objective overall assessment of the benefit/risk balance of the product.
+
+(2) The dossier on the efficacy studies shall include the following:
+
+(a) synthesis of the tests which have been carried out in compliance with this Part, with detailed references to the published literature containing an objective discussion of all the results obtained. Omission of any tests or trials listed and inclusion of an alternative type of study shall be indicated and discussed;
+
+(b) a statement of compliance with GLP for pre-clinical safety studies, where applicable, together with a discussion of the contribution that any non-GLP study may make to the overall risk assessment, and justification of non-GLP status.
+
+(3) The dossier shall include the following:
+
+(a) an index of all studies included in the dossier;
+
+(b) a justification for the omission of any type of study;
+
+(c) an explanation of the inclusion of an alternative type of study.
+
+(4) The purpose of the trials described in this Part is to demonstrate the efficacy of the veterinary medicinal product. All claims made by the applicant with regard to the properties, effects and use of the product shall be fully supported by results of specific trials contained in the application for marketing authorisation.
+
+(5) All efficacy trials shall be conducted in accordance with a fully considered detailed protocol, which shall be recorded in writing prior to commencement of the trial. The welfare of the trial animals shall be subject to veterinary supervision and shall be taken fully into consideration during the elaboration of any trial protocol and throughout the conduct of the trial.
+
+(6) Clinical trials (field trials) shall be conducted in accordance with established principles of good clinical practice, unless otherwise justified.
+
+(7) Before the commencement of any field trial, the informed consent of the owner of the animals to be used in the trial shall be obtained and documented. In particular, the animal owner shall be informed in writing of the consequences of participation in the trial for the subsequent disposal of treated animals or for the taking of foodstuffs from treated animals.
+
+**I.2.5. Detailed requirements for different types of veterinary medicinal products or marketing authorisation dossiers**
+
+(1) Detailed requirements for different types of veterinary medicinal products or specific types of marketing authorisation dossiers are outlined in the following Sections of this Annex:
+
+(a) Section II describes the standardised requirements for applications for veterinary medicinal products other than biological veterinary medicinal products;
+
+(b) Section III describes the standardised requirements for applications for biological veterinary medicinal products:
+
+(i) Section IIIa describes the standardised requirements for applications for biological veterinary medicinal products other than immunological veterinary medicinal products;
+
+(ii) Section IIIb describes the standardised requirements for applications for immunological veterinary medicinal products;
+
+(c) Section IV describes the dossier requirements for specific types of marketing authorisation dossiers;
+
+(d) Section V describes the dossier requirements for particular types of veterinary medicinal products.
+
+**SECTION II**
+
+**REQUIREMENTS FOR VETERINARY MEDICINAL PRODUCTS OTHER THAN BIOLOGICAL VETERINARY MEDICINAL PRODUCTS**
+
+The following detailed requirements shall apply to veterinary medicinal products other than biological veterinary medicinal products, except where otherwise set out in Section IV.
+
+**II.1. Part 1: Summary of the dossier**
+
+Please refer to Section I.
+
+**II.2. Part 2: Quality documentation (physicochemical, biological or microbiological information)**
+
+**II.2A. Product description**
+
+II.2A1. Qualitative and quantitative composition
+
+(1) Qualitative composition of all the constituents of the medicinal product shall mean the designation or description of:
+
+(a) active substance(s);
+
+(b) excipients, the constituents of the excipients, whatever their nature or the quantity used, including colouring matter, preservatives, adjuvants, stabilisers, thickeners, emulsifiers, flavouring and aromatic substances;
+
+(c) other constituents, intended to be ingested or otherwise administered to animals, of the outer covering of the veterinary medicinal products, such as capsules, gelatine capsules, intraruminal devices;
+
+(d) any relevant data concerning the immediate packaging and if relevant the outer packaging and, where appropriate, its manner of closure, together with details of devices with which the veterinary medicinal product will be used or administered and which will be supplied with the medicinal product.
+
+(2) The usual terminology to be used in describing the constituents of veterinary medicinal products means, notwithstanding the application of the other provisions of Article 8:
+
+(a) in respect of substances which appear in the European Pharmacopoeia or, failing this, in the national pharmacopoeia of one of the Member States, the main title at the head of the monograph in question, with reference to the pharmacopoeia concerned;
+
+(b) in respect of other substances, the international non-proprietary name (INN) recommended by the World Health Organisation (WHO), which may be accompanied by another non-proprietary name, or, failing these, the exact scientific designation;
+
+(c) constituents not having an international non-proprietary name or an exact scientific designation shall be described by a statement of how and from what they were prepared, supplemented, where appropriate, by any other relevant details;
+
+(d) in respect of colouring matter, designation by the ‘E’ code assigned to them by Directive 2009/35/EC of the European Parliament and Council.
+
+(3) In order to give the quantitative composition of all the active substances and excipients of the veterinary medicinal products, it is necessary, depending on the pharmaceutical form concerned, to specify the mass, or the number of units of biological activity, either per dosage-unit or per unit of mass or volume, of each active substance and excipient.
+
+(4) Units of biological activity shall be used for substances which cannot be defined chemically. Where an international unit of biological activity has been defined, this shall be used. Where no international unit has been defined, the units of biological activity shall be expressed in such a way as to provide unambiguous information on the activity of the substances by using where applicable the European Pharmacopoeia Units.
+
+(5) Quantitative composition shall be supplemented:
+
+(a) in respect of single-dose preparations: by the mass or units of biological activity of each active substance in the unit container, taking into account the usable volume of the product, after reconstitution, where appropriate;
+
+(b) in respect of veterinary medicinal products to be administered by drops: by the mass or units of biological activity of each active substance contained per drop or contained in the number of drops corresponding to 1 ml or 1 g of the preparation;
+
+(c) in respect of pharmaceutical forms to be administered in measured quantities: by the mass or units of biological activity of each active substance per measured quantity.
+
+(6) Active substances present in the form of compounds or derivatives shall be described quantitatively by their total mass, and if necessary or relevant, by the mass of the active entity or entities of the molecule.
+
+(7) For veterinary medicinal products containing an active substance which is the subject of an application for marketing authorisation in the Union for the first time, the quantitative statement of an active substance which is a salt or hydrate shall be systematically expressed in terms of the mass of the active entity or entities in the molecule. All subsequently authorised veterinary medicinal products in the Member States shall have their quantitative composition stated in the same way for the same active substance.
+
+II.2A2. Product development
+
+(1) An explanation shall be provided with regard to the choice of composition, constituents, packaging, the intended function of the excipients in the finished product and the method of manufacture including justification of the selection of the method and details of the sterilisation processes and/or aseptic procedures used of the finished product. This explanation shall be supported by scientific data on development pharmaceutics. Any overage, with justification thereof, shall be stated. The microbiological characteristics (microbiological purity and antimicrobial activity) and usage instructions shall be proven to be appropriate for the intended use of the veterinary medicinal product as specified in the marketing authorisation application dossier.
+
+(2) A study of the interaction between finished product and the primary packaging shall be submitted wherever the risk of such interaction is regarded as possible, especially where injectable preparations are concerned.
+
+(3) The proposed pack sizes shall be justified in relation to the proposed route of administration, the posology and the target species in particular for antimicrobial (active) substances.
+
+(4) When a dosing device is provided with the finished product, the accuracy of the doses(s) shall be demonstrated.
+
+(5) When an accompanying test is recommended to be used with the finished product (e.g. a diagnostic test), relevant information about the test shall be provided.
+
+(6) For veterinary medicinal products intended for incorporation into feed, information shall be provided on inclusion rates, instructions for incorporation, homogeneity in-feed and compatibility/suitable feed.
+
+**II.2B. Description of the manufacturing method**
+
+(1) The description of the manufacturing method accompanying the application for marketing authorisation pursuant to Article 8 shall be drafted in such a way as to give an adequate synopsis of the nature of the operations employed.
+
+(2) For that purpose, it shall include at least:
+
+(a) the actual manufacturing formula for the proposed commercial batch size(s), with the quantitative particulars of all the substances used. Any substances that may disappear in the course of manufacture shall be stated; any overage shall be indicated;
+
+(b) description of the various stages of manufacture with information on process operating conditions, in a narrative way accompanied by a process flow chart;
+
+(c) in the case of continuous manufacture, full details of precautions taken to ensure the homogeneity of the finished product. Information as to how a batch is defined shall be provided (for example, expressed in terms of a period of time or a quantity of product, and may be expressed as ranges);
+
+(d) a list of in-process controls including the stage of manufacture at which they are conducted and the acceptance criteria;
+
+(e) experimental studies validating the manufacturing process and, where appropriate, a process validation scheme for production scale batches;
+
+(f) for sterile products, where non-pharmacopoeial sterilisation conditions are used, details of the sterilisation processes and/or aseptic procedures used.
+
+**II.2C. Production and control of starting material**
+
+(1) For the purposes of this point, ‘starting materials’ shall mean active substances, excipients and packaging (immediate packaging with its closure system and, if applicable, outer packaging and any dosing device supplied with the veterinary medicinal product).
+
+(2) The dossier shall include the specifications and information on the tests to be conducted for quality control of all batches of starting materials.
+
+(3) The routine tests carried out on starting materials shall be carried out in the same manner as stated in the dossier.
+
+(4) Where a certificate of suitability has been issued by the European Directorate for the Quality of Medicines and HealthCare for a starting material, active substance or excipient, that certificate constitutes the reference to the relevant monograph of the European Pharmacopoeia.
+
+(5) Where a certificate of suitability is referred to, the manufacturer shall give an assurance in writing to the applicant that the manufacturing process has not been modified since the granting of the certificate of suitability by the European Directorate for the Quality of Medicines and HealthCare. In case the field ‘box of access’ in the certificate is completed and signed, that requirement shall be deemed to be fulfilled without the need for additional assurance.
+
+(6) Certificates of analysis shall be presented for the starting materials in order to demonstrate compliance with the defined specification.
+
+II.2C1. Active substance(s)
+
+(1) The required data shall be submitted in one of the three ways as detailed in points (2) to (4).
+
+(2) The following details shall be submitted:
+
+(a) information on the identity, structure and a list of physicochemical and other relevant properties of the active substance shall be provided, in particular physicochemical properties that potentially affect the safety and efficacy of the active substance. Where relevant, evidence of molecular structure shall include the schematic amino acid sequence and relative molecular mass;
+
+(b) information on the manufacturing process shall include a description of the active substance manufacturing process that represents the applicant’s commitment for the manufacture of the active substance. All materials needed in order to manufacture the active substance(s) shall be listed, identifying where each material is used in the process. Information on the quality and control of those materials shall be provided. Information demonstrating that materials meet standards which are appropriate for their intended use shall be provided;
+
+(c) information on quality control shall contain tests (including acceptance criteria) carried out at every critical step, information on the quality and control of intermediates and process validation and/or evaluation studies as appropriate. It shall also contain validation data for the analytical methods applied to the active substance, where appropriate;
+
+(d) information on impurities shall indicate predictable impurities together with the levels and nature of observed impurities. It shall also contain information on the safety of those impurities where relevant.
+
+(3) Active Substance Master File
+
+For a non-biological active substance, the applicant may arrange for the information on active substance in point (2) to be supplied directly to the competent authorities by the manufacturer of the active substance as an Active Substance Master File. In this case, the manufacturer of the active substance shall provide the applicant with all the data (applicant’s part of the Active Substance Master File) which may be necessary for the latter to take responsibility for the veterinary medicinal product. A copy of the data provided by the active substance manufacturer to the applicant shall be included in the medicinal product dossier. The manufacturer of the active substance shall confirm in writing to the applicant that he shall ensure batch-to-batch consistency and not modify the manufacturing process or specifications without informing the applicant.
+
+(4) Certificate of suitability issued by the European Directorate for the Quality of Medicines and HealthCare
+
+The certificate of suitability and any additional data relevant to the dosage form not covered by the certificate of suitability shall be provided.
+
+II.2C1.1. Active substances listed in pharmacopoeias
+
+(1) Active substances fulfilling the requirements of the European Pharmacopoeia or, in the absence of a European Pharmacopoeia monograph, the pharmacopoeia of one of the Member States shall be deemed to comply sufficiently with Article 8. In this case the description of the analytical methods and procedures shall be replaced in each relevant section by an appropriate reference to the pharmacopoeia in question.
+
+(2) In cases where a specification contained in a monograph of the European Pharmacopoeia or in the national pharmacopoeia of a Member State is insufficient to ensure the quality of the substance, the competent authorities may request more appropriate specifications from the applicant, including acceptance criteria for specific impurities with validated test procedures.
+
+(3) The competent authorities shall inform the authorities responsible for the pharmacopoeia in question. The marketing authorisation holder shall provide the authorities of that pharmacopoeia with the details of the alleged insufficiency and the additional specifications applied.
+
+II.2C1.2. Active substances not listed in a pharmacopoeia
+
+(1) Active substances which are not listed in any pharmacopoeia shall be described in the form of a monograph under the following headings:
+
+(a) the name of the constituent, meeting the requirements of Part II.2A1, point (2) shall be supplemented by any trade or scientific synonyms;
+
+(b) the definition of the substance, set down in a form similar to that used in the European Pharmacopoeia, shall be accompanied by any necessary explanatory evidence, in particular concerning the molecular structure. Where substances may only be described by their manufacturing method, the description shall be sufficiently detailed to characterise a substance which is constant both on its composition and in its effects;
+
+(c) methods of identification may be described in the form of complete techniques as used for production of the substance, and in the form of tests which ought to be carried out as a routine matter;
+
+(d) purity tests shall be described in relation to each individual predictable impurity, especially those which may have a harmful effect, and, if necessary, those which, having regard to the combination of substances to which the application refers, might adversely affect the stability of the medicinal product or distort analytical results;
+
+(e) tests and acceptance criteria to control parameters relevant to the finished product, such as sterility shall be described and methods shall be validated where relevant;
+
+(f) with regard to complex substances of plant or animal origin, a distinction shall be made between the case where multiple pharmacological effects render chemical, physical or biological control of the principal components necessary, and the case of substances containing one or more groups of principles having similar activity, in respect of which an overall method of assay may be accepted.
+
+(2) Those data shall demonstrate that the proposed set of test procedures is sufficient to control the quality of the active substance from the defined source.
+
+II.2C1.3. Physicochemical characteristics liable to affect bioavailability
+
+The following data concerning active substances shall be provided as part of the general description of the active substances if the bioavailability of the veterinary medicinal product depends on them:
+
+(a) crystalline form and solubility;
+
+(b) particle size;
+
+(c) state of hydration;
+
+(d) oil/water coefficient of partition;
+
+(e) pK/pH values.
+
+Points (a) to (c) are not applicable to substances used solely in solution.
+
+II.2C2. Excipients
+
+(1) Excipients fulfilling the requirements of the European Pharmacopoeia or, in the absence of a European Pharmacopoeia monograph, the pharmacopoeia of one of the Member States shall be deemed to comply sufficiently with Article 8. In that case, the description of the analytical methods and procedures shall be replaced in each relevant section by an appropriate reference to the pharmacopoeia in question. Where appropriate, additional tests to control parameters such as particle size, sterility, and/or residual solvents, shall supplement the requirements of the monograph.
+
+(2) In the absence of a pharmacopoeial monograph a specification shall be proposed and justified. The requirements for specifications as set out in Part II.2C1.2(1) points (a) to (e) for the active substance shall be followed. The proposed methods and their supporting validation data shall be presented.
+
+(3) A declaration shall be submitted to confirm that colouring matters for inclusion in veterinary medicinal products satisfy the requirements of Directive 2009/35/EC of the European Parliament and of the Council ( 16 ) except where the application for a marketing authorisation concerns certain veterinary medicinal products for topical use, such as medicated collars and ear tags.
+
+(4) A declaration shall be submitted to confirm that colouring matters used meet the purity criteria laid down in Commission Regulation (EU) No 231/2012 ( 17 ).
+
+(5) For novel excipients, that is to say excipient(s) used for the first time in the Union in a veterinary medicinal product or by a new route of administration, details of manufacture, characterisation, and controls, with cross references to support both clinical and non-clinical safety data shall be provided. For colouring matters, the declarations of compliance in points (3) and (4) shall be considered sufficient.
+
+II.2C3. Packaging (containers and closure systems)
+
+II. 2C3.1. Active substance
+
+(1) Information on the container and its closure system for the active substance including the identity of each immediate packaging material and their specifications shall be given. The level of information required shall be determined by the physical state (liquid, solid) of the active substance.
+
+(2) Where a certificate of suitability for the active substance from the proposed source is submitted and specifies a container and its closure system, the detailed information on these for the active substance from that source may be replaced by a reference to the valid certificate of suitability.
+
+(3) Where an Active Substance Master File from the proposed source is submitted and specifies a container and its closure system, the detailed information on these for the active substance from that source may be replaced by a reference to the Active Substance Master File.
+
+II. 2C3.2. Finished product
+
+(1) Information on the container and its closure system and any device for the finished product including the identity of each immediate packaging material and their specifications shall be given. The level of information required shall be determined by the route of administration of the veterinary medicinal product and the physical state (liquid, solid) of the dosage form.
+
+(2) In the absence of a pharmacopoeial monograph, a specification shall be proposed and justified for the packaging material.
+
+(3) For packaging materials that are used for the first time in the Union and that are in contact with the product, information on their composition, manufacture and safety shall be presented.
+
+II.2C4. Substances of biological origin
+
+(1) Information on the source, processing, characterisation and control of all materials of biological origin (human, animal, herbal or from microorganisms) used in the manufacture of the veterinary medicinal products shall be provided, including viral safety data, in accordance with relevant guidelines.
+
+(2) Documentation shall be supplied to demonstrate that materials originating from animal species relevant for the transmission of transmissible spongiform encephalopathies (TSE) comply with the Note for Guidance on minimising the risk of transmitting animal spongiform encephalopathy agents via human and veterinary medicinal products, as well as with the corresponding monograph of the European Pharmacopoeia. Certificates of Suitability issued by the European Directorate for the Quality of Medicines and HealthCare, with reference to the relevant monograph of the European Pharmacopoeia, may be used to demonstrate compliance.
+
+**II.2D. Control tests carried out on isolated intermediates during the manufacturing process**
+
+(1) For the purposes of this section, ‘isolated intermediate’ shall mean partly processed material that may be stored for a defined amount of time and that shall undergo further processing step(s) before it becomes finished product.
+
+(2) A specification shall be set for each intermediate and the analytical methods shall be described and validated, if applicable.
+
+(3) Information on the primary packaging of the intermediate product shall be provided if different from that for the finished product.
+
+(4) A shelf life and storage conditions for the intermediate product shall be defined on the basis of the data resulting from stability studies.
+
+**II.2E. Control tests on the finished product**
+
+(1) For the control of the finished product, a batch of a finished product comprises all the units of a pharmaceutical form which are made from the same initial quantity of material and have undergone the same series of manufacturing and/or sterilisation operations. In case of continuous manufacture, the batch size may be expressed in terms of a period of time or a quantity of product, and may be expressed as ranges.
+
+(2) The tests, which are carried out on the finished product shall be listed. A justification for the proposed specification shall be provided. The frequency of the tests which are not carried out routinely shall be stated and justified. Acceptance criteria for release shall be indicated.
+
+(3) The dossier shall include particulars relating to control tests on the finished product at release and their validation. They shall be submitted in accordance with the following requirements.
+
+(4) If test procedures and acceptance criteria other than those mentioned in the relevant monographs and general chapters of the European Pharmacopoeia, or failing this, in the pharmacopoeia of a Member State are used, those procedures and criteria shall be justified by providing proof that the finished product would, if tested in accordance with those monographs, meet the quality requirements of that pharmacopoeia for the pharmaceutical form concerned.
+
+II.2E1. General characteristics of the finished product
+
+(1) Certain tests of the general characteristics of a product shall always be included among the tests on the finished product. Those tests shall, wherever applicable, relate to the control of average masses/volumes and maximum deviations, to mechanical, physical tests, visual appearance, physical characteristics such as, pH or particle size. For each of those characteristics, standards and acceptance criteria shall be specified by the applicant.
+
+(2) The conditions of the tests, where appropriate, the equipment/apparatus employed and the standards shall be described in sufficient detail whenever they are not given in the European Pharmacopoeia or the pharmacopoeia of a Member State; the same shall apply in cases where the methods prescribed by such pharmacopoeias are not applicable.
+
+II.2E2. Identification and assay of active substance(s)
+
+(1) Identification and assay of the active substance(s) shall be carried out either in a representative sample from the production batch or in a number of dosage units analysed individually.
+
+(2) Unless there is appropriate justification, the maximum acceptable deviation in the active substance content of the finished product shall not exceed ± 5 % at the time of manufacture.
+
+(3) In certain cases of particularly complex mixtures, where assay of active substances which are very numerous or present in very low amounts would necessitate an intricate investigation difficult to carry out in respect of each production batch, the assay of one or more active substances in the finished product may be omitted, on the express condition that such assays are made at intermediate stages in the production process. That simplified technique may not be extended to the characterisation of the substances concerned. It shall be supplemented by a method of quantitative evaluation, enabling the competent authority to have the conformity of the medicinal product with its specification verified after it has been placed on the market.
+
+(4) An in vivo or in vitro biological assay shall be obligatory when physicochemical methods cannot provide adequate information on the quality of the product. Such an assay shall, whenever possible, include reference materials and statistical analysis allowing calculation of confidence limits. Where those tests cannot be carried out on the finished product, they may be performed at an intermediate stage, as late as possible in the manufacturing process.
+
+(5) The maximum acceptable levels of individual and total degradation products immediately following manufacture shall be indicated. The rationale for the inclusion or exclusion of degradation products in the specification shall be presented.
+
+II.2E3. Identification and assay of excipient components
+
+An identification test and an upper and lower limit test shall be obligatory for each individual antimicrobial preservative and for any excipient that is liable to affect the bioavailability of the active substance, unless the bioavailability is guaranteed by other appropriate tests. An identification test and an upper limit test shall be obligatory for any antioxidant and for any excipient liable to adversely affect physiological functions, with a lower limit test also included for antioxidants at time of release.
+
+II.2E4. Microbiological controls
+
+Particulars of microbiological tests, such as sterility and bacterial endotoxins, shall be included in the analytical particulars wherever such tests shall be undertaken as a matter of routine in order to verify the quality of the product.
+
+II.2E5. Batch-to-batch consistency
+
+In order to ensure the quality of the product is consistent from batch to batch and to demonstrate conformity with the specification, batch data shall be provided giving the results for all tests performed in general on [3] batches manufactured at the proposed manufacturing site(s) according to the described production process.
+
+II.2E6. Other controls
+
+Any other test considered necessary to confirm the quality of the medicinal product shall be controlled.
+
+**II.2F. Stability test**
+
+II.2F1. Active substance(s)
+
+(1) A retest period and storage conditions for the active substance shall be specified except when the manufacturer of the finished product fully retests the active substance immediately before its use in the manufacture of the finished product.
+
+(2) Stability data shall be presented to provide evidence on how the quality of an active substance varies with time under the influence of a variety of environmental factors and to support the defined retest period and storage conditions, if applicable. The type of stability studies conducted, protocols used, the analytical procedures used and their validation together with the detailed results shall be presented.
+
+(3) Where a certificate of suitability for the active substance from the proposed source is available and specifies a retest period and storage conditions, stability data for the active substance from that source may be replaced by a reference to the valid certificate of suitability.
+
+(4) Where an Active Substance Master File from the proposed source is submitted and specifies stability data, the detailed information on the stability for the active substance from that source may be replaced by a reference to the Active Substance Master File.
+
+II.2F2. Finished product
+
+(1) A description shall be given of the investigations by which the shelf life, the recommended storage conditions and the specifications at the end of the shelf life proposed by the applicant have been determined.
+
+(2) The type of stability studies conducted, protocols used, the analytical procedures used and their validation together with the detailed results shall be presented.
+
+(3) Where a finished product requires reconstitution or dilution prior to administration, details of the proposed shelf life and specification for the reconstituted/diluted product are required, supported by relevant stability data.
+
+(4) In the case of multi-dose containers, where relevant, stability data shall be presented to justify a shelf life for the product after it has been broached or opened for the first time and an in-use specification shall be defined.
+
+(5) Where a finished product is liable to give rise to degradation products, the applicant shall declare those products and indicate the identification methods and test procedures used.
+
+(6) Where the stability data show that the assay of the active substance declines on storage, the description of the control tests on the finished product shall include, where appropriate, the chemical and, if necessary, the toxico-pharmacological investigation of the changes that this substance has undergone, and possibly the characterisation and/or assay of the degradation products.
+
+(7) The maximum acceptable level of individual and total degradation products at the end of shelf life shall be indicated and justified.
+
+(8) On the basis of the stability test results, the tests and their acceptance criteria, that are carried out on the finished product over the course of the shelf life shall be listed and justified.
+
+(9) The conclusions shall contain the results of analyses, justifying the proposed shelf life and if appropriate, the in-use shelf life, under the recommended storage conditions.
+
+(10) Additionally, for veterinary medicinal products intended for incorporation into feed, information shall be provided on the stability and the proposed shelf life after incorporation into feed. A specification for the medicated feed manufactured using those veterinary medicinal products in accordance with the recommended instructions for use shall also be provided.
+
+**II.2G. Other information**
+
+Information relating to the quality of the veterinary medicinal product not covered elsewhere in this Part may be included in the dossier under this point.
+
+**II.3 Part 3: Safety documentation (safety and residues tests)**
+
+(1) Each study report shall include:
+
+(a) a copy of the study plan (protocol);
+
+(b) a statement of compliance with good laboratory practice, where applicable;
+
+(c) a description of the methods, apparatus and materials used;
+
+(d) a description and justification of the test system;
+
+(e) a description of the results obtained, in sufficient detail, to allow the results to be critically evaluated independently of their interpretation by the author;
+
+(f) a statistical analysis of the results where appropriate;
+
+(g) a discussion of the results, with comment on observed and no-observed-effect levels, and on any unusual findings;
+
+(h) the name of the laboratory;
+
+(i) the name of the study director;
+
+(j) signature and date;
+
+(k) place and period of time during which the study was undertaken;
+
+(l) key for abbreviations and codes, irrespective of whether they are internationally accepted or not;
+
+(m) description of mathematical and statistical procedures.
+
+(2) Published studies may be accepted if they contain a sufficient amount of data and sufficient details to allow an independent assessment. The experimental techniques shall be described in such detail as to allow them to be reproduced, and the investigator shall establish their validity. Summaries of studies for which detailed reports are not available shall not be accepted as valid documentation. When the substance has been previously evaluated for the establishment of maximum residues limit (‘MRL’) to address certain safety requirements reference may be made to the European public MRL assessment reports (‘EPMARs’). Where reference to EPMAR is made there is no need to submit studies already evaluated as part of the MRL evaluation; only new studies not available for the MRL assessment shall be provided. If the route of exposure (for example, for the user) is not identical to the route used in accordance with Commission Regulation (EU) 2018/782 ( 18 ), new studies might be necessary.
+
+**II.3A. Safety tests**
+
+(1) The safety documentation shall be adequate for assessment of:
+
+(a) the potential toxicity of the veterinary medicinal product and any dangerous or undesirable effects in target species which may occur under the proposed conditions of use;
+
+(b) the potential risks which may result from the exposure of human beings to the veterinary medicinal product, for example, during its administration to the animal;
+
+(c) the potential risks to the environment resulting from the use of the veterinary medicinal product.
+
+(2) In some cases it may be necessary to test the metabolites of the parent compound where these represent the residues of concern.
+
+(3) An excipient used for the first time in a veterinary medicinal product or by a new route of administration shall be treated in the same way as an active substance.
+
+II.3A1. Precise identification of the product and of its active substance(s)
+
+(a) International Non-proprietary Name (INN);
+
+(b) International Union of Pure and Applied Chemistry Name (IUPAC);
+
+(c) Chemical Abstract Service (CAS) number;
+
+(d) therapeutic, pharmacological and chemical classification;
+
+(e) synonyms and abbreviations;
+
+(f) structural formula;
+
+(g) molecular formula,
+
+(h) molecular weight;
+
+(i) degree of purity;
+
+(j) qualitative and quantitative composition of impurities;
+
+(k) description of physical properties:
+
+(i) melting point,
+
+(ii) boiling point,
+
+(iii) vapour pressure,
+
+(iv) solubility in water and organic solvents expressed in g/l, with indication of temperature,
+
+(v) density,
+
+(vi) refraction of light, optical rotation, etc.;
+
+(l) formulation of the product.
+
+II.3A2. Pharmacology
+
+(1) Pharmacological studies are of fundamental importance in clarifying the mechanisms by which the veterinary medicinal product produces its therapeutic effects, and therefore pharmacological studies conducted in experimental and target species of animal shall be included. Cross reference may be made, if applicable, to studies submitted in Part 4 of the dossier.
+
+(2) Where a veterinary medicinal product produces pharmacological effects in the absence of a toxic response, or at doses lower than those required to elicit toxicity, those pharmacological effects shall be taken into account during the evaluation of the safety for the user of the veterinary medicinal product.
+
+(3) The safety documentation shall always be preceded by details of pharmacological investigations undertaken in laboratory animals and all relevant information observed during clinical studies in the target animal.
+
+II.3A2.1. Pharmacodynamics
+
+Information on the mechanism of action of the active substance(s) shall be provided, together with information on primary and secondary pharmacodynamic effects in order to assist in the understanding of any adverse effects in the animal studies. Detailed reporting of pharmacodynamic properties relating to the therapeutic effect shall be reported in Part 4A of the dossier.
+
+II.3A2.2. Pharmacokinetics
+
+Data on the fate of the active substance and its metabolites in laboratory animals shall be provided, covering absorption, distribution, metabolism and excretion (ADME). The data shall be related to the dose/effect findings in the pharmacological and toxicological studies, to determine adequate exposure.
+
+II.3A3. Toxicology
+
+(1) The documentation on toxicology shall follow the guidance published by the Agency on the general approach to testing and guidance on particular studies. Generally, toxicity studies shall be conducted with the active substance(s), not with the formulated product, unless specifically required otherwise.
+
+(2) Animal studies shall be conducted in established strains of laboratory animals for which (preferably) historical data are available.
+
+(3) Single-dose toxicity
+
+Single-dose toxicity studies may be used to predict:
+
+(a) the possible effects of acute overdose in the target species;
+
+(b) the possible effects of accidental administration to humans;
+
+(c) the doses which may usefully be employed in the repeat dose studies.
+
+Single-dose toxicity studies shall reveal the acute toxic effects of the substance and the time course for their onset and remission.
+
+The studies to be carried out shall be selected with a view to providing information on user safety, for example, if substantial exposure by inhalation or dermal contact of the user of the veterinary medicinal product is anticipated, those routes of exposure shall be studied.
+
+(4) Repeat-dose toxicity
+
+Repeat-dose toxicity tests are intended to reveal any physiological and/or pathological changes induced by repeated administration of the active substance or combination of active substances under examination, and to determine how those changes are related to dosage.
+
+A repeat-dose toxicity study in one species of experimental animal shall normally be sufficient. This study may be replaced by a study conducted in the target animal. The frequency and route of administration, and the duration of the study shall be chosen having regard to the proposed conditions of clinical use and/or user exposure. The applicant shall give his reasons for the extent and duration of the studies and the dosages chosen.
+
+(5) Tolerance in the target species
+
+A summary shall be provided of any signs of intolerance which have been observed during studies conducted, usually with the final formulation, in the target species in accordance with the requirements of Part II.4A4 (Tolerance in the target animal species). The studies concerned, the dosages at which the intolerance occurred, and the species and breeds concerned shall be identified. Details of any unexpected physiological changes shall also be provided. The full reports of those studies shall be included in Part 4 of the dossier.
+
+(6) Reproductive toxicity including developmental toxicity
+
+Study of the effects on reproduction
+
+For products intended for use in breeding animals, reproductive safety studies in line with VICH GL43 shall be provided. Reproduction toxicity studies in laboratory animals are not expected for the evaluation of effects on the user.
+
+(7) Study of developmental toxicity
+
+For the evaluation of effects in the target animal species, developmental toxicity studies are not required for products intended only for use in non-breeding animals. For other products a study of developmental toxicity shall be performed in at least one species, which may be the target species. If the study is conducted in the target species, a summary shall be provided here, and the full report of the study shall be included in Part 4 of the dossier.
+
+For the evaluation of user safety, standard developmental toxicity testing in accordance with standard tests based on established guidance (including VICH GL32 and OECD tests) shall be performed in all cases where significant user exposure may be expected.
+
+(8) Genotoxicity
+
+Tests for genotoxic potential shall be performed to reveal changes which a substance may cause in the genetic material of cells. Any substance intended to be included in a veterinary medicinal product for the first time shall be assessed for genotoxic properties.
+
+A standard battery of genotoxicity tests in accordance with standard tests based on established guidance (including VICH GL23 and OECD tests) shall be carried out on the active substance(s).
+
+(9) Carcinogenicity
+
+The decision on whether carcinogenicity testing is required shall take into account the results of genotoxicity tests, structure-activity relationships and the findings in repeat dose toxicity tests that may demonstrate the potential for hyper-/neo-plastic changes.
+
+Any known species specificity of the mechanism of toxicity shall be considered, as well as any differences in metabolism between the test species, target animal species, and human beings.
+
+Carcinogenicity testing shall be conducted according to standard tests based on established guidance (including VICH GL28 and OECD tests).
+
+(10) Exceptions
+
+Where a veterinary medicinal product is intended for topical use, systemic absorption shall be investigated in the target animal species. If it is proved that systemic absorption is negligible, the repeated dose toxicity tests, the tests for reproductive and developmental toxicity and the carcinogenicity tests may be omitted, unless:
+
+(a) under the intended conditions of use, oral ingestion of the veterinary medicinal product by the animal is to be expected, or
+
+(b) under the intended conditions of use, oral exposure of the user of the veterinary medicinal product is to be expected.
+
+II.3A4. Other requirements
+
+II.3A.4.1. Special studies
+
+For particular groups of substances or if the effects observed during repeated dose studies in animals include changes indicative of, for example, immunotoxicity, neurotoxicity or endocrine dysfunction, further testing shall be required, for example, sensitisation studies or delayed neurotoxicity tests. Depending on the nature of the product, it may be necessary to conduct additional studies to assess the underlying mechanism of the toxic effect or the irritation potential.
+
+For products for which there may be exposure to skin and eyes, irritation and sensitisation studies shall be provided. Those studies shall be conducted with the final formulation.
+
+The state of latest scientific knowledge and established guidance shall be taken into account when designing such studies and evaluating their results.
+
+II.3A.4.2. Observations in humans
+
+Information shall be provided showing whether the pharmacologically active substances of the veterinary medicinal product are used as medicinal products in human therapy. If that is the case, a compilation shall be made of all the effects observed (including adverse reactions) in humans and of their cause, to the extent that they may be important for the assessment of the safety of the veterinary medicinal product, where appropriate including results from published studies; where constituents of the veterinary medicinal products are themselves not used or are no longer used as medicinal products in human therapy, the reasons shall be stated, if publicly available.
+
+II.3A.4.3. Development of resistance and related risk in humans
+
+The data requirements described in this point are related to antibacterial substances and may not be fully applicable to other types of antimicrobial (namely antivirals, antifungals and antiprotozoals) although, in principle, the requirements may be followed, where applicable.
+
+Data on the potential emergence of resistant bacteria or resistance determinants of relevance for human health and which are associated with the use of veterinary medicinal products are necessary for those products. The mechanism of the development and selection of such resistance is particularly important in this regard. Where necessary, measures to limit resistance development from the intended use of the veterinary medicinal product shall be proposed by the applicant.
+
+Resistance data relevant for clinical use of the product in target animals shall be addressed in accordance with Part II.4A2. Where relevant, cross reference shall be made to the data set out in Part II.4A2.
+
+(1) For food-producing animals the risk assessment shall address:
+
+(a) the identification of resistant bacteria or resistance determinants that could be associated with human illness (zoonotic and/or commensal bacteria) and are selected by the use of the antimicrobial veterinary medicinal product in target animals (hazard identification);
+
+(b) the probability of release of the identified hazard(s) from the target animal species as a result of the use of the veterinary medicinal product under consideration;
+
+(c) the probability of subsequent human exposure to the identified hazard(s) via the foodborne route or through direct contact, and the resulting consequences (adverse health effects) to human health. Guidance is available in VICH GL27 and EU GLs.
+
+(2) For companion animals consideration of risk to human or public health shall address:
+
+(a) the identification of resistant bacteria or resistance determinants that could be associated with human illness and are selected by the use of the antimicrobial veterinary medicinal product in target animals;
+
+(b) an estimate of exposure of zoonotic and commensal bacteria in the target animal species based on the conditions of use of the veterinary medicinal product under consideration;
+
+(c) consideration of subsequent human exposure to antimicrobial resistance (AMR), and the resulting consequences to human health.
+
+(3) Resistance in the environment shall be addressed.
+
+II.3A5. User safety
+
+This section shall include an assessment of the effects found in Part II.3A to II.3A4 and relate this to the type and extent of human exposure to the product with a view to formulating appropriate user warnings and other risk management measures.
+
+User safety shall be addressed in accordance with Committee for Medicinal Products for Veterinary Use (CVMP) guidelines.
+
+II.3A6. Environmental risk assessment
+
+(1) An environmental risk assessment shall be performed to assess the potential harmful effects that the use of the veterinary medicinal product may cause to the environment and to identify the risk of such effects. The assessment shall also identify any precautionary measures which may be necessary to reduce such risk.
+
+(2) This assessment consists of two phases. The first phase of the assessment shall always be performed. The details of the assessment shall be provided in accordance with guidance published by the Agency. It shall indicate the potential exposure of the environment to the product and the level of risk associated with any such exposure, in particular taking into account the following items:
+
+(a) the target animal species, and the proposed pattern of use;
+
+(b) the method of administration, in particular the likely extent to which the product will enter directly into environmental systems;
+
+(c) the possible excretion of the product, its active substances or relevant metabolites into the environment by treated animals; persistence in such excreta;
+
+(d) the disposal of unused veterinary medicinal product or other waste product.
+
+(3) In the second phase, further specific investigation of the fate and effects of the product on particular ecosystems shall be conducted, in accordance with guidance published by the Agency. The extent of exposure of the product to the environment, and the available information about the physical/chemical, pharmacological and/or toxicological properties of the substance(s) concerned, including metabolites in case of an identified risk, which has been obtained during the conduct of the other tests and trials required by this Regulation, shall be taken into consideration.
+
+(4) For products intended for food producing species, persistent, bioaccumulative and toxic (PBT) or very persistent and very bioaccumulative (vPvB) substances shall be classified according to the criteria in Annex XIII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council ( 19 ) (REACH Regulation) and assessed according to the guidance for PBT and vPvB assessment of substances in veterinary medicines published by the Agency.
+
+**II.3B. Residue tests**
+
+(1) For the purposes of this point, the definitions of Regulation (EC) No 470/2009 shall apply.
+
+(2) The purpose of studying the depletion of residues from the edible tissues or from eggs, milk and honey (wax, if appropriate) derived from treated animals is to determine under what conditions and to what extent residues may persist in foodstuffs produced from those animals. In addition, the studies shall enable the determination of a withdrawal period.
+
+(3) In the case of veterinary medicinal products intended for use in food-producing animals, the residue documentation shall show:
+
+(a) to what extent, and for how long residues of the veterinary medicinal product or its metabolites persist in the edible tissues of the treated animal or in milk, eggs and/or honey (wax, if appropriate) obtained therefrom;
+
+(b) that in order to prevent any risk to the health of the consumer of foodstuffs from treated animals, it is possible to establish realistic withdrawal periods which may be observed under practical farming conditions;
+
+(c) that the analytical method(s) used in the residues depletion study are sufficiently validated to provide the necessary reassurance that the residues data submitted are suitable as the basis for a withdrawal period.
+
+II.3B1. Identification of the product
+
+An identification of the veterinary medicinal product(s) used in the testing shall be provided, including:
+
+(a) composition;
+
+(b) the physical and chemical (potency and purity) test results for the relevant batch(es);
+
+(c) batch identification.
+
+II.3B2. Depletion of residues (metabolism and residue kinetics)
+
+(1) The purpose of these studies, which measure the rate at which residues deplete in the target animal after the last administration of the veterinary medicinal product, is to permit the determination of withdrawal periods necessary to ensure that no residues which may constitute a hazard for consumers are present in foodstuffs obtained from treated animals.
+
+(2) The current status of the MRL for the components of the veterinary medicinal product in the relevant target species shall be reported.
+
+(3) The levels of residues present shall be determined at a sufficient number of time points after the test animals have received the final dose of the veterinary medicinal product. The studies in mammals and birds shall be performed according to VICH GL48 and other relevant guidelines. Residue studies in honey shall be performed according to VICH GL56 and depletion studies in aquatic species according to VICH GL57.
+
+(4) Based on the evaluation, the rationale for the proposed withdrawal period shall be addressed.
+
+II.3B3. Residue analytical method
+
+The residue depletion study (studies), the analytical method(s) and its (their) validation shall be performed in accordance with VICH GL49.
+
+The analytical method shall have regard to the state of scientific and technical knowledge at the time the application is submitted.
+
+**II.4. Part 4: Efficacy documentation (pre-clinical studies and clinical trial(s))**
+
+**II.4A. Pre-clinical studies**
+
+Pre-clinical studies aim to investigate the target animal safety and efficacy of the product and are required to establish the pharmacological activity, pharmacokinetic properties, dose and dosing interval, resistance (if applicable) and the target animal tolerance of the product.
+
+II.4A1. Pharmacology
+
+II.4A.1.1. Pharmacodynamics
+
+(1) The pharmacodynamic effects of the active substance(s) included in the veterinary medicinal product shall be characterised.
+
+(2) The mode of action and the pharmacological effects on which the recommended application is based in practice shall be adequately described, including secondary effects (if any). In general, the effects on the main body functions shall be investigated. The results shall be expressed in quantitative terms (for example, using dose-effect curves and/or time-effect curves) and, wherever possible, in comparison with a substance the activity of which is well known (where the activity is claimed to be higher in comparison to the substance the activity of which is well known, the difference shall be demonstrated and shown to be statistically significant).
+
+(3) Any effect of the other characteristics of the products (such as the route of administration or formulation) on the pharmacological activity of the active substance shall be investigated.
+
+(4) The experimental techniques, unless they are standard procedures, shall be described in such detail as to allow them to be reproduced, and their validity to be established. The experimental results shall be set out clearly and the outcome of any statistical comparisons presented.
+
+(5) Unless good reasons are given to the contrary, any quantitative modification of responses resulting from repeated administration of the substance shall also be investigated.
+
+II.4A.1.2. Pharmacokinetics
+
+(1) Basic pharmacokinetic data on the active substance are required in the context of assessment of the target animal safety and efficacy of the veterinary medicinal product in the target species, in particular if this concerns a new substance or formulation.
+
+(2) The objectives of pharmacokinetic studies in the target animal species may be divided into four main areas:
+
+(a) to describe the basic pharmacokinetic characteristics (namely absorption, distribution, metabolism and excretion) of the active substance in the formulation;
+
+(b) use of this basic pharmacokinetic characteristics to investigate the relationships between dosage regimen, plasma and tissue concentration over time and pharmacological, therapeutic or toxic effects;
+
+(c) where appropriate, to compare pharmacokinetic parameters between different target species and to explore possible species differences having an impact on target animal safety and efficacy of the veterinary medicinal product;
+
+(d) where appropriate, to compare bioavailability to support bridging of safety and efficacy information between different products, pharmaceutical forms, strengths or routes of administration, or to compare the impact of changes in manufacturing or composition.
+
+(3) In the target animal species, pharmacokinetic studies are, as a rule, necessary as a complement to the pharmacodynamic studies to support the establishment of safe and effective dosage regimens (route and site of administration, dose, dosing interval, number of administrations, etc.). Additional pharmacokinetic studies may be required to establish dosage regimens according to certain population variables.
+
+(4) Where pharmacokinetic studies have been submitted under Part 3 of the dossier, cross reference to such studies may be made. For fixed combinations, please refer to Section IV.
+
+II.4A2. Development of resistance and related risk in animals
+
+(1) For relevant veterinary medicinal products (for example, antimicrobials, antiparasitics), information on current resistance (if applicable) and on the potential emergence of resistance of clinical relevance for the claimed indication in the target animal species shall be provided. Where possible, information on the resistance mechanism(s), the molecular genetic basis of resistance, and the rate of transfer of resistance determinants shall be presented. Whenever relevant, information on co-resistance and cross-resistance shall be presented. Measures to limit resistance development in organisms of clinical relevance for the intended use of the veterinary medicinal product shall be proposed by the applicant.
+
+(2) Resistance relevant for risks to humans shall be addressed in accordance with Part II.3A4, point (3). Where relevant, cross-reference shall be made to data set out in Part II.3A4, point (3).
+
+II.4A3. Dose determination and confirmation
+
+Appropriate data shall be provided to justify the proposed dose, dosing interval, duration of treatment and any re-treatment interval.
+
+For studies conducted under field conditions, relevant information shall be provided as outlined in Part II.4B, unless duly justified.
+
+II.4A4. Tolerance in the target animal species
+
+The local and systemic tolerance of the veterinary medicinal product shall be investigated in the target animal species. The purpose of target animal safety studies is to characterise signs of intolerance and to establish an adequate margin of safety using the recommended route(s) of administration. This may be achieved by increasing the dose and/or the duration of treatment. The study report(s) shall contain details of all expected pharmacological effects and all adverse reactions. The conduct of target animal safety studies shall be in accordance with the international guidelines of the International Cooperation on Harmonisation of Technical Requirements for Registration of Veterinary Medicinal Products (‘VICH’) and relevant guideline(s) published by the Agency.. Other pre-clinical studies, including studies provided in part 3, and clinical trials, along with relevant information from the published literature, may also provide information on safety in the target species. Studies on developmental toxicity performed in the target animal species shall be included here, and a summary shall be provided in Part 3 of the dossier.
+
+**II.4B. Clinical trial(s)**
+
+II.4B1. General principles
+
+(1) Clinical trials shall be designed, carried out and reported taking due account of the international guidelines on good clinical practice of the VICH and relevant guidance published by the Agency. Data stemming from clinical trials conducted outside the Union may be taken into consideration for the assessment of an application for a marketing authorisation only if the data are sufficiently representative for the Union situation.
+
+(2) Experimental data such as exploratory/pilot trials, or results from non-experimental approaches shall be confirmed by clinical trials, unless otherwise justified.
+
+(3) The purpose of clinical trials is to examine under field conditions the target animal safety and efficacy of a veterinary medicinal product under normal conditions of animal husbandry and/or as part of good veterinary practice. They shall demonstrate the effect of the veterinary medicinal product after administration to the intended target species using the proposed dosage regimen and the proposed route(s) of administration. The trial design shall aim to support the indications and to take into account any contra-indications according to species, age, breed and sex, directions for use of the veterinary medicinal product as well as any adverse reactions which it may have.
+
+(4) All veterinary clinical trials shall be conducted in accordance with a detailed trial protocol.
+
+(5) For formulations intended for use in veterinary clinical trials in the Union, the words ‘for veterinary clinical trial use only’ shall appear prominently and indelibly on the labelling.
+
+(6) Unless otherwise justified, clinical trials shall be carried out with control animals (controlled clinical trials). The efficacy results obtained with the new product shall be compared with those from the target animal species that have received a veterinary medicinal product authorised in the Union that has demonstrated an acceptable level of efficacy and been approved for the proposed indication(s) for use in the same target animal species, or a placebo or no treatment. All the results obtained, whether positive or negative, shall be reported.
+
+(7) Established statistical principles in accordance with the relevant guidance published by the Agency shall be used in protocol design, analysis and evaluation of clinical trials, unless otherwise justified.
+
+II.4B2. Documentation
+
+II.4B2.1. Results of pre-clinical studies
+
+Wherever possible, particulars shall be given of the results of:
+
+(a) tests demonstrating pharmacological activity, including tests demonstrating the pharmacodynamic mechanisms underlying the therapeutic effect and tests demonstrating the main pharmacokinetic profile;
+
+(b) tests and investigations on resistance, if applicable;
+
+(c) tests demonstrating target animal safety;
+
+(d) tests to determine and confirm the dose (including dose interval, duration of treatment and any re-treatment interval).
+
+Where unexpected results occur during the course of the tests, those results shall be described in detail. Omission of any of those data shall be justified. The following particulars shall be provided in all pre-clinical study reports:
+
+(a) a summary;
+
+(b) a study protocol;
+
+(c) a detailed description of the objectives, design and conduct to include methods, apparatus and materials used, details such as species, age, weight, sex, number, breed or strain of animals, identification of animals, dose, route and schedule of administration;
+
+(d) a statistical analysis of the results, if applicable;
+
+(e) an objective discussion of the results obtained, leading to conclusions on the efficacy and target animal safety of the veterinary medicinal product.
+
+II.4B2.2. Results of clinical trials
+
+All the particulars shall be supplied by each of the investigators on individual record sheets in the case of individual treatment and collective record sheets in the case of collective treatment.
+
+The marketing authorisation holder shall make all necessary arrangements to ensure that the original documents, which formed the basis of the data supplied, are kept for at least five years after the veterinary medicinal product is no longer authorised.
+
+In respect of each clinical trial, the clinical observations shall be summarised in a synopsis of the trials and the results thereof, indicating in particular:
+
+(a) the number of control and test animals treated either individually or collectively, with a breakdown according to species, breed or strain, age and sex;
+
+(b) the number of animals withdrawn prematurely from the trials and the reasons for such withdrawal;
+
+(c) in the case of control animals, whether they have:
+
+(i) received no treatment,
+
+(ii) received a placebo, or
+
+(iii) received another veterinary medicinal product authorised in the Union that has demonstrated an acceptable level of efficacy and been approved for the proposed indication(s) for use in the same target animal species, or
+
+(iv) received the same active substance under investigation in a different formulation or by a different route;
+
+(d) the frequency of observed adverse reactions;
+
+(e) observations as to the effect on animal performance, if appropriate;
+
+(f) details concerning test animals which may be at increased risk owing to their age, their mode of rearing or feeding, or the purpose for which they are intended, or animals the physiological or pathological condition of which requires special consideration;
+
+(g) a statistical evaluation of the results.
+
+The main investigator shall draw general conclusions on the efficacy and target animal safety of the veterinary medicinal product under the proposed conditions of use and in particular any information relating to indications and contraindications, dosage and average duration of treatment and, where appropriate, any interactions observed with other veterinary medicinal products or feed additives as well as any special precautions to be taken during treatment and the clinical signs of overdose, when observed.
+
+**SECTION III**
+
+**REQUIREMENTS FOR BIOLOGICAL VETERINARY MEDICINAL PRODUCTS**
+
+Without prejudice to specific requirements laid down in Union legislation for the control and eradication of specific infectious animal diseases, the following requirements shall apply to biological veterinary medicinal products, except when the products are intended for use in some species or with specific indications as defined in Sections IV and V and in relevant guidelines.
+
+**SECTION IIIa**
+
+**REQUIREMENTS FOR BIOLOGICAL VETERINARY MEDICINAL PRODUCTS OTHER THAN IMMUNOLOGICAL VETERINARY MEDICINAL PRODUCTS**
+
+The following requirements shall apply to biological veterinary medicinal products as defined in Article 4(6), except products defined in Article 4(5) or where otherwise set out in Section IV.
+
+Flexibility is allowed regarding compliance to the requirements specified in this Section, but any deviations from the requirements in this Annex shall be scientifically justified and based on specific properties of the biological product. For particular substances, safety data in addition to the requirements listed in this Section may be required depending on the nature of the product.
+
+**IIIa.1. Part 1: Summary of the dossier**
+
+Please refer to Section I.
+
+**IIIa.2. Part 2: Quality documentation (physicochemical, biological or microbiological information)**
+
+IIIa.2A. Product description
+
+IIIa.2A1. Qualitative and quantitative composition
+
+(1) The qualitative and quantitative composition of the biological veterinary medicinal product shall be stated. This section shall include information regarding:
+
+(a) the active substance(s);
+
+(b) the constituent(s) of the excipients, whatever their nature or the quantity used, including adjuvants, preservatives, stabilisers, thickeners, emulsifiers, colouring matter, flavouring and aromatic substances, markers, etc.;
+
+(c) the composition, that is to say, list of all components of the dosage form and their amount on a per-unit basis (including overages, if any), the function of the components, and a reference to their quality standards (for example, compendial monographs or manufacturer’s specifications);
+
+(d) accompanying reconstitution solvent(s);
+
+(e) the type of container and its closure used for the dosage form and for any accompanying reconstitution solvents and devices, if applicable. If the device is not delivered together with the biological veterinary medicinal product, relevant information about the device shall be provided.
+
+(2) In order to give the quantitative composition of all the active substances and excipients of the veterinary medicinal products, it is necessary, depending on the pharmaceutical form concerned, to specify the mass, or the number of units of biological activity, either per dosage-unit or per unit of mass or volume, of each active substance and excipient.
+
+(3) Where possible, biological activity per units of mass or volume shall be indicated. Where an international unit of biological activity has been defined, this shall be used, unless otherwise justified. Where no international unit has been defined, the units of biological activity shall be expressed in such a way as to provide unambiguous information on the activity of the substances by using, where applicable, the European Pharmacopoeia Units.
+
+(4) The ‘usual terminology’ to be used in describing the constituents of biological veterinary medicinal products notwithstanding the application of the other provisions of Article 8, shall mean:
+
+(a) in respect of substances which appear in the European Pharmacopoeia or, failing this, in the pharmacopoeia of one of the Member States, the main title of the monograph in question, which will be obligatory for all such substances, with reference to the pharmacopoeia concerned;
+
+(b) in respect of other substances, the INN recommended by the WHO, which may be accompanied by another non-proprietary name or, failing these, the exact scientific designation; substances not having an international non-proprietary name or an exact scientific designation shall be described by a statement of how and from what they were prepared, supplemented, where appropriate, by any other relevant details;
+
+(c) in respect of colouring matter, designation by the ‘E’ code assigned to them in Directive 2009/35/EC.
+
+IIIa.2A2. Product development
+
+An explanation shall be provided including but not limited to:
+
+(a) the choice of composition and the choice of the constituents, in particular relative to their intended functions and their respective concentrations;
+
+(b) the inclusion of a preservative in the composition shall be justified;
+
+(c) the immediate packaging and the suitability of the container and its closure system used for the storage and use of the finished product. A study of the interaction between the finished product and the primary packaging shall be submitted wherever the risk of such interaction is regarded as possible, especially where injectable preparations are concerned;
+
+(d) the microbiological characteristics (microbiological purity and antimicrobial activity) and usage instructions;
+
+(e) the possible further packaging, outer packaging, if relevant;
+
+(f) the proposed pack sizes related to the proposed route of administration, the posology and the target species;
+
+(g) any overage(s) in the formulation to guarantee minimum potency at end of shelf life with justification;
+
+(h) the selection of the manufacturing process of the active substance and the finished product;
+
+(i) differences between the manufacturing process(es) used to produce batches used in clinical trials and the process described in the application for marketing authorisation shall be discussed;
+
+(j) when a dosing device is provided with the finished product, the accuracy of the doses(s) shall be demonstrated;
+
+(k) when an accompanying test is recommended to be used with the finished product (e.g. a diagnostic test), relevant information about the test shall be provided.
+
+(l) This explanation shall be supported by scientific data on product development.
+
+IIIa.2A3. Characterisation
+
+IIIa.2A3.1. Elucidation of structure and other characteristics
+
+(1) Characterisation of a biotechnological or biological substance (which includes the determination of physicochemical properties, biological activity, immuno-chemical properties, purity and impurities) by appropriate techniques is necessary to allow a suitable specification to be established. Reference to literature data only is not acceptable, unless otherwise justified by prior knowledge from similar molecules for modifications where there is no safety concern. Adequate characterisation shall be performed in the development phase and, where necessary, following significant process changes.
+
+(2) All relevant information available on the primary, secondary and higher-order structure including post- translational (for example, glycoforms) and other modifications of the active substance shall be provided.
+
+(3) Details shall be provided on the biological activity (namely the specific ability or capacity of a product to achieve a defined biological effect). Usually, the biological activity shall be determined or evaluated using an appropriate, reliable and qualified method. Lack of such an assay shall be justified. It is recognised that the extent of characterisation data will increase during development.
+
+(4) The rationale for selection of the methods used for characterisation shall be provided and their suitability shall be justified.
+
+IIIa.2A3.2. Impurities
+
+(1) Process-related impurities (for example, host cell proteins, host cell DNA, media residues, column leachables) and product-related impurities (for example, precursors, cleaved forms, degradation products, aggregates) shall be addressed. Quantitative information on impurities shall be provided including maximum amount for the highest dose. For certain process-related impurities (for example, antifoam agents), an estimation of clearance may be justified.
+
+(2) In the case that only qualitative data are provided for certain impurities, this shall be justified.
+
+IIIa.2B. Description of the manufacturing method
+
+(1) The description of the manufacturing method accompanying the application for marketing authorisation pursuant to Article 8 shall be drafted in such a way as to give an adequate description of the nature of the operations employed.
+
+(2) The name(s) and address(es) and responsibilities of each manufacturer, including contractors, and each proposed production site or facility involved in manufacture, testing and batch release shall be provided.
+
+(3) The description of the manufacturing process shall include at least:
+
+(a) the various stages of manufacture, including production of the active substance and description of the purification steps;
+
+(b) a process flow chart of all successive steps shall be given so that an assessment can be made of the reproducibility of the manufacturing procedure and of the risks of adverse effects on the finished products, such as microbiological contamination;
+
+(c) in the case of continuous manufacture, full details concerning precautions taken to ensure the homogeneity and consistency of each batch of the finished product. Information on how a batch is defined and on the proposed commercial batch size(s) shall be provided;
+
+(d) listing of all the substances at the appropriate steps where they are used, including those which cannot be recovered in the course of manufacturing;
+
+(e) the details of the blending, with the quantitative particulars of all the substances used, including an example for a representative production batch;
+
+(f) list of in-process controls including the stage of manufacture at which they are conducted and acceptance criteria;
+
+(g) for sterile products, where non-pharmacopoeial sterilisation conditions are used, details of the sterilisation processes and/or aseptic procedures used.
+
+(4) Description, documentation, and results of the validation and/or evaluation studies shall be provided for critical steps or critical assays used in the manufacturing process (for example, validation of the sterilisation process or aseptic processing or filling) and the validation of the production process as a whole shall be demonstrated with provision of results of three consecutive batches produced using the method described.
+
+IIIa.2C. Production and control of starting materials
+
+(1) For the purposes of this point ‘starting materials’ means all components, including the active substances used in the production of the biological veterinary medicinal product. Culture media used for production of the active substances shall be regarded as one starting material.
+
+(2) The qualitative and quantitative composition shall be presented insofar as the authorities consider that this information is relevant to the quality of the finished product and any risks that might be posed.
+
+(3) If materials of animal origin are used for preparation of those culture media, the animal species and the tissue used have to be included and compliance with the relevant monographs including general monographs and general chapters of the European Pharmacopoeia shall be demonstrated.
+
+(4) The applicant shall supply documentation to demonstrate that the starting materials, including seed materials, cell seeds, batches of serum and other material originating from animal species relevant for the transmission of TSE and the manufacturing of the veterinary medicinal product is in compliance with the requirements of the Note for Guidance on minimising the risk of transmitting animal spongiform encephalopathy agents via human and veterinary medicinal products, as well as with the requirements of the corresponding monograph of the European Pharmacopoeia.
+
+(5) Certificates of Suitability issued by the European Directorate for the Quality of Medicines and HealthCare, with reference to the relevant monograph of the European Pharmacopoeia, may be used to demonstrate compliance.
+
+(6) The dossier shall include the specifications, information on the tests to be conducted for the quality control of all batches of starting materials and results from a batch of all components used and shall be submitted in accordance with the following provisions.
+
+(7) Certificates of Analysis shall be presented for the starting materials in order to demonstrate compliance with the defined specification.
+
+(8) Colouring matter shall in all cases satisfy the requirements of Directive 2009/35/EC.
+
+(9) The use of antibiotics during production and preservatives shall be in compliance with the European Pharmacopoeia.
+
+(10) For novel excipients – excipient(s) used for the first time in the Union in a veterinary medicinal product or by a new route of administration – details of manufacture, characterisation, and controls, with cross references to supporting safety data, both clinical and non-clinical, shall be provided. For colouring matters the declarations of compliance as mentioned under Part II.2C2, points (3) and (4) shall be considered sufficient.
+
+IIIa.2C1. Starting materials listed in pharmacopoeias
+
+(1) The monographs of the European Pharmacopoeia shall be applicable to all starting materials appearing in it, unless adequate justification is provided.
+
+(2) In respect of other substances, each Member State may require observance of its own national pharmacopoeia with regard to products manufactured in its territory.
+
+(3) The description of the analytical methods may be replaced by a detailed reference to the pharmacopoeia in question.
+
+(4) The routine tests carried out on each batch of starting materials shall be as stated in the application for marketing authorisation. If tests other than those mentioned in the pharmacopoeia are used, proof shall be supplied that the starting materials meet the quality requirements of that pharmacopoeia.
+
+(5) Where a specification or other provisions contained in a monograph of the European Pharmacopoeia or in the pharmacopoeia of a Member State might be insufficient to ensure the quality of the substance, the competent authorities may request more appropriate specifications from the applicant for marketing authorisation. The alleged insufficiency shall be reported to the authorities responsible for the pharmacopoeia in question.
+
+IIIa.2C2. Starting materials not listed in a pharmacopoeia
+
+IIIa.2C2.1. Starting materials of biological origin
+
+(1) Where source materials such as microorganisms, tissues of either plant or animal origin, cells or fluids (including blood) of human or animal origin or biotechnological cell constructs are used in the manufacture of veterinary medicinal products, the origin, including geographical region, and history of starting materials shall be described and documented. The origin, general health and immunological status of animals used for production shall be indicated and defined pools of source materials shall be used.
+
+(2) Freedom from extraneous agents (bacteria, mycoplasma, fungi and viruses) shall be demonstrated in compliance with the European Pharmacopoeia for seed materials, including cell seeds and pools of serum and, whenever possible, the source materials from which they are derived.
+
+(3) Information shall be provided on all substances of biological origin used at any stage in the manufacturing procedure. The information shall include the manufacturing strategy, purification and inactivation procedures with their validation and all in-process control procedures designed to ensure the quality, safety and batch to batch consistency of the finished product as well as details of any tests for contamination carried out on each batch of the substance. Any special precautions which may be necessary during storage of the starting material and, if necessary, its storage life shall be given.
+
+(4) When starting materials of animal or human origin are used, the measures used to ensure freedom from extraneous agents shall be described. If the presence of extraneous agents is detected or suspected, the corresponding material shall be discarded or processed to reduce the risk of presence with a validated treatment. If after treatment presence is detected or suspected, the corresponding material shall be used only when further processing of the product ensures their elimination and/or inactivation; elimination and/or inactivation of such extraneous agents shall be demonstrated.
+
+(5) When cell seeds are used, the cell characteristics shall be shown to have remained unchanged up to the highest passage level used for the production.
+
+(6) For genetically engineered starting materials this information shall include details such as the description of the starting cells or strains, the construction of the expression vector (name, origin, function of the replicon, promoter enhancer and other regulator elements), control of the sequence of DNA or RNA effectively inserted, oligonucleotide sequences of plasmid vector in cells, plasmid used for cotransfection, added or deleted genes, biological properties of the final construct and the genes expressed, copy number and genetic stability.
+
+(7) In the case of veterinary medicinal products containing or consisting of genetically modified organisms (GMO), the quality part of the application shall also be accompanied by the documents required in accordance with Directive 2001/18/EC.
+
+(8) When required, samples of the biological starting material or reagents used in the testing procedures shall be provided to enable the competent authority to arrange for check tests to be carried out.
+
+IIIa.2C2.2. Starting materials of non-biological origin
+
+(1) The description shall be given in the form of a monograph under the following headings:
+
+(a) the name of the starting material meeting the requirements of point IIIa.2A1(4) shall be supplemented by any trade or scientific synonyms;
+
+(b) the description of the starting material, set down in a form similar to that used in a descriptive item in the European Pharmacopoeia;
+
+(c) the function of the starting material;
+
+(d) methods of identification;
+
+(e) any special precautions which may be necessary during storage of the starting material and, if necessary, its storage life shall be given.
+
+IIIa.2D. Control tests during the manufacturing process
+
+(1) The dossier shall include particulars relating to the in-process control tests, which are carried out on intermediate stages of manufacture with a view to verify the consistency of the manufacturing process and the final product. Specifications shall be set for each control test and the analytical methods shall be described. Validation of the control tests shall be provided, unless otherwise justified.
+
+(2) The specification for the batch(es) of active substance shall define acceptance criteria together with the tests used to exert sufficient control of the quality of the active substance. A test for biological activity shall be included unless otherwise justified. Upper limits, taking into account safety considerations, shall be set for the impurities. Microbiological quality for the active substance shall be specified. Freedom from extraneous agents (bacteria, mycoplasma, fungi and viruses) shall be demonstrated according to the European Pharmacopoeia.
+
+(3) In accordance with Directive 2010/63/EU and the European Convention for the Protection of Vertebrate Animals Used for Experimental and Other Scientific Purposes, tests shall be carried out in such a way as to use the minimum number of animals and to cause the least pain, suffering, distress or lasting harm. If available, an alternative in vitro test shall be used when this leads to replacement or reduction of animal use or reduction of suffering.
+
+IIIa.2E. Control tests on the finished product
+
+IIIa.2E1 Finish product specification
+
+For all tests, the description of the techniques for analysing the finished product shall be set out in sufficient detail for quality assessment.
+
+Where appropriate monographs exist, if test procedures and limits other than those mentioned in the monographs of the European Pharmacopoeia, or failing this, in the pharmacopoeia of a Member State, are used, proof must be supplied that the finished product would, if tested in accordance with those monographs, meet the quality requirements of that pharmacopoeia for the pharmaceutical form concerned. The application for marketing authorisation shall list those tests, which are carried out on representative samples of each batch of finished product. The frequency of the tests carried out on the final bulk instead of on the batch or batches prepared from it, shall be stated, if applicable. The frequency of the tests which are not carried out routinely shall be justified. Acceptance criteria for release shall be indicated and justified. Validation of the control tests carried out on the finished product shall be provided.
+
+Upper limits, taking into account safety considerations, shall be set for the impurities.
+
+IIIa.2E2 Method descriptions and validation of release tests
+
+(1) General characteristics
+
+The tests of general characteristics shall, wherever applicable, relate to the appearance of the finished product and to physical or chemical tests, such as, pH, osmolality, etc. For each of those characteristics, specifications, with appropriate confidence limits, shall be established by the applicant in each particular case.
+
+(2) Identification and potency test
+
+Where necessary, a specific test for identification of the active substance shall be carried out. When appropriate, the identification test may be combined with the potency test.
+
+An activity test or test for quantification of the active substance or test to quantitatively measure the functionality (biological activity/functional effect) which is linked to relevant biological properties shall be implemented to show that each batch will contain the appropriate potency to ensure its safety and efficacy.
+
+A biological assay shall be obligatory when physicochemical methods does not provide adequate information on the quality of the product. Such an assay shall, whenever possible, include reference materials and statistical analysis allowing calculation of confidence limits. Where those tests may not be carried out on the finished product, they may be performed at an intermediate stage, as late as possible in the manufacturing process.
+
+Where degradation occurs during manufacture of the finished product, the maximum acceptable levels of individual and total degradation products immediately following manufacture shall be indicated.
+
+(3) Identification and assay of excipient components
+
+Insofar as is necessary, the excipient(s) shall be subject at least to identification tests. An upper and lower limit test shall be obligatory in respect of preserving agents. An upper limit test for any other excipient components liable to give rise to an adverse reaction shall be obligatory. If applicable, the quantity and nature of the adjuvant and its components shall be verified on the finished product, unless otherwise justified.
+
+(4) Sterility and purity tests
+
+Freedom from extraneous agents (bacteria, mycoplasma, fungi and bacterial endotoxin when relevant) shall be demonstrated in compliance with the European Pharmacopoeia. Appropriate tests to demonstrate the absence of contamination by other substances, shall be carried out according to the nature of the biological veterinary medicinal product, the method and the conditions of manufacture. If fewer tests than required by the relevant European Pharmacopoeia are routinely employed for each batch, the tests carried out shall be critical to the compliance with the monograph. Proof shall be supplied that the biological veterinary medicinal product would meet the requirements, if fully tested according to the monograph.
+
+(5) Residual humidity
+
+Each batch of lyophilised product or tablet shall be tested for residual humidity.
+
+(6) Filling volume
+
+Appropriate tests to demonstrate the correct filling volume shall be carried out.
+
+IIIa.2E3. Reference standards or materials
+
+Information regarding the manufacturing process used to establish the reference material shall be provided. If more than one reference standard has been used for a particular test during product development, a qualification history shall be provided describing how the relationship between the different standards was maintained.
+
+If other reference preparations and standards than those of the European Pharmacopoeia are used, they shall be identified and described in detail.
+
+IIIa.2F. Batch-to-batch consistency
+
+IIIa.2F1. Active substance
+
+In order to ensure that quality of the active substance is consistent from batch to batch and to demonstrate conformity with specifications data from representative batches shall be provided.
+
+IIIa.2F2. Finished product
+
+In order to ensure that quality of the product is consistent from batch to batch and to demonstrate conformity with specifications a full protocol of three consecutive batches representative of the routine production shall be provided.
+
+IIIa.2G. Stability tests
+
+(1) Stability tests cover stability of the active substance and the finished product, including solvent(s), if relevant. If active substance(s) are stored, the intended conditions and duration of storage shall be defined on the basis of stability data; they may be obtained either through testing of the active substances themselves or through appropriate testing of the finished product.
+
+(2) A description shall be given of the tests undertaken to support the shelf life, the recommended storage conditions and the specifications at the end of the shelf life proposed by the applicant. Those tests shall always be real-time studies; they shall be carried out on not fewer than three representative batches produced according to the described production process and on products stored in the final container(s); those tests include biological and physicochemical stability tests carried out at regular intervals, for the finished product until the claimed end of the shelf life.
+
+(3) The conclusions shall contain the results of analyses, justifying the proposed shelf life under all proposed storage conditions. The results obtained during the stability study shall be taken into account when defining appropriate formulation and release specifications to ensure the conformity of the product with the claimed shelf life.
+
+(4) In the case of products administered in feed, information shall also be given as necessary on the shelf life of the product, at the different stages of mixing, when mixed in accordance with the recommended instructions.
+
+(5) Where a finished product requires reconstitution prior to administration or is administered in drinking water, details of the proposed shelf life are required for the product reconstituted as recommended. Data in support of the proposed shelf life for the reconstituted product shall be submitted.
+
+(6) In the case of multi-dose containers, where relevant, stability data shall be presented to justify a shelf life for the product after it has been broached or opened for the first time and an in-use specification shall be defined.
+
+(7) Where a finished product is liable to give rise to degradation products, the applicant shall declare those products and indicate the identification methods and test procedures used.
+
+(8) Stability data obtained from combined products may be used where adequately justified for derivative products containing one or more of the same components.
+
+(9) The efficacy of any preservative system shall be demonstrated. Information on the efficacy of preservatives in other similar biological veterinary medicinal products from the same manufacturer may be sufficient.
+
+IIIa.2H. Other information
+
+Information relating to the quality of the biological veterinary medicinal product not covered by Part IIIa.2 to IIIa2G may be included in the dossier.
+
+**IIIa.3. Part 3: Safety documentation (safety and residues tests)**
+
+(1) Each study report shall include:
+
+(a) a copy of the study plan (protocol);
+
+(b) a statement of compliance with good laboratory practice, where applicable;
+
+(c) a description of the methods, apparatus and materials used;
+
+(d) a description and justification of the test system;
+
+(e) a description of the results obtained, in sufficient detail to allow the results to be critically evaluated independently of their interpretation by the author;
+
+(f) a statistical analysis of the results where appropriate;
+
+(g) a discussion of the results, with comment on observed and no-observed-effect levels, and on any unusual findings;
+
+(h) the name of the laboratory;
+
+(i) the name of the study director;
+
+(j) signature and date;
+
+(k) place and period of time during which the study was undertaken;
+
+(l) key for abbreviations and codes, irrespective of whether they are internationally accepted or not;
+
+(m) description of mathematical and statistical procedures.
+
+(2) Published studies may be accepted if they contain a sufficient amount of data and sufficient details to allow an independent assessment. The experimental techniques shall be described in such detail as to allow them to be reproduced, and the investigator shall establish their validity. Summaries of studies for which detailed reports are not available shall not be accepted as valid documentation. To address certain safety requirements reference may be made to EPMAR when the substance has been previously evaluated for the establishment of MRLs. Where reference to EPMARs is made there is no need to submit studies already evaluated as part of the MRL evaluation; only new studies not available for the MRL assessment shall be provided. If the route of exposure (for example, for the user) is not identical to the route used in accordance with Regulation (EU) 2018/78, new studies may be necessary.
+
+IIIa.3A. Safety tests
+
+(1) The safety documentation shall be adequate for assessment of:
+
+(a) the potential toxicity of the veterinary medicinal product and any dangerous or undesirable effects in target species which may occur under the proposed conditions of use;
+
+(b) the potential risks which may result from the exposure of human beings to the veterinary medicinal product, for example, during its administration to the animal;
+
+(c) the potential risks to the environment resulting from the use of the veterinary medicinal product.
+
+(2) In some cases, it may be necessary to test the metabolites of the parent compound where these represent the residues of concern.
+
+(3) An excipient used for the first time in a veterinary medicinal product or by a new means of administration shall be treated like an active substance.
+
+(4) All sections listed in Part IIIa.3A shall be addressed. Depending on the nature of the product, certain sections may not be relevant and studies may be omitted, where justified.
+
+IIIa.3A1. Precise identification of the product and of its active substance(s):
+
+(a) international non-proprietary name (INN);
+
+(b) International Union of Pure and Applied Chemistry Name (IUPAC);
+
+(c) Chemical Abstract Service (CAS) number;
+
+(d) therapeutic, pharmacological and chemical classification;
+
+(e) synonyms and abbreviations;
+
+(f) structural formula;
+
+(g) molecular formula;
+
+(h) molecular weight;
+
+(i) degree of impurity;
+
+(j) qualitative and quantitative composition of impurities;
+
+(k) description of physical properties;
+
+(l) solubility in water and organic solvents expressed in g/l, with indication of temperature;
+
+(m) refraction of light, optical rotation, etc.;
+
+(n) formulation of the product.
+
+IIIa.3A2. Pharmacology
+
+(1) Pharmacological studies are of fundamental importance in clarifying the mechanisms by which the veterinary medicinal product produces its therapeutic effects, and therefore pharmacological studies conducted in the target species of animal and where applicable in non-target species, shall be included. Cross-reference may be made, if applicable, to studies submitted in Part 4 of the dossier.
+
+(2) Pharmacological studies may also assist in the understanding of toxicological phenomena. Where a veterinary medicinal product produces pharmacological effects in the absence of a toxic response, or at doses lower than those required to elicit toxicity, those pharmacological effects shall be taken into account during the evaluation of the safety of the veterinary medicinal product.
+
+(3) The safety documentation shall always be preceded by details of pharmacological investigations undertaken in laboratory animals and all relevant information observed during clinical studies in the target animal.
+
+IIIa.3A2.1. Pharmacodynamics
+
+Information on the mechanism of action of the active substance(s) shall be provided, together with information on primary and secondary pharmacodynamic effects in order to assist in the understanding of any adverse effects in the animal studies. Detailed reporting of pharmacodynamic properties relating to the therapeutic effect shall be reported in Part 4A of the dossier.
+
+IIIa.3A2.2. Pharmacokinetics
+
+Data on the fate of the active substance and its metabolites in laboratory animals shall be provided, covering absorption, distribution, metabolism and excretion (ADME). The data shall be related to the dose/effect findings in the pharmacological and toxicological studies, to determine adequate exposure.
+
+IIIa.3A3. Toxicology
+
+(1) The documentation on toxicology shall follow the guidance published by the Agency on the general approach to testing and guidance on particular studies. This guidance includes toxicological data required for the establishment of user safety, and the assessment of adverse effects in target animals and the environment.
+
+(2) Toxicity studies shall be conducted with the active substance(s), not with the formulated product, unless specifically required otherwise.
+
+(3) Animal studies shall be conducted in established strains of laboratory animals for which (preferably) historical data are available.
+
+IIIa.3A3.1. Single-dose toxicity
+
+Single-dose toxicity studies may be used to predict:
+
+(a) the possible effects of acute overdose in the target species;
+
+(b) the possible effects of accidental administration to humans;
+
+(c) the doses which may usefully be employed in the repeat dose studies.
+
+Single-dose toxicity studies shall reveal the acute toxic effects of the substance and the time course for their onset and remission.
+
+The studies to be carried out shall be selected with a view to providing information on user safety, for example, if substantial exposure by inhalation or dermal contact of the user of the veterinary medicinal product is anticipated, those routes of exposure shall be studied.
+
+IIIa.3A3.2. Repeat-dose toxicity
+
+Repeat-dose toxicity tests are intended to reveal any physiological and/or pathological changes induced by repeated administration of the active substance or combination of active substances under examination, and to determine how those changes are related to dosage.
+
+A repeat-dose toxicity study in one species of experimental animal shall normally be sufficient. This study may be replaced by a study conducted in the target animal. The frequency and route of administration, and the duration of the study shall be chosen having regard to the proposed conditions of clinical use and/or user exposure. The applicant shall give his reasons for the extent and duration of the studies and the dosages chosen.
+
+IIIa.3A3.3. Tolerance in the target species
+
+A summary shall be provided of any signs of intolerance which have been observed during studies conducted, usually with the final formulation, in the target species in accordance with the requirements of Part IIIa.4A4 (target animal safety). The studies concerned, the dosages at which the intolerance occurred, and the species and breeds concerned shall be identified. Details of any unexpected physiological changes shall also be provided. The full reports of those studies shall be included in Part 4 of the dossier.
+
+IIIa.3A3.4. Reproductive toxicity including developmental toxicity
+
+(1) Study of the effects on reproduction
+
+For products intended for use in breeding animals, reproductive safety studies in line with VICH GL43 shall be provided. Reproduction toxicity studies in laboratory animals are not expected for the evaluation of effects on the user.
+
+(2) Study of developmental toxicity
+
+For the evaluation of effects in the target animal species, developmental toxicity studies are not required for products intended only for use in non-breeding animals. For other products a study of developmental toxicity shall be performed in at least one species, which may be the target species.
+
+For the evaluation of user safety, standard developmental toxicity testing in accordance with standard tests based on established guidance (including VICH GL32 and OECD tests) shall be performed in all cases where significant user exposure may be expected.
+
+IIIa.3A3.5. Genotoxicity
+
+Tests for genotoxic potential shall be performed, unless otherwise justified, to reveal changes which a substance may cause in the genetic material of cells. Any substance intended to be included in a veterinary medicinal product for the first time shall be assessed for genotoxic properties.
+
+A standard battery of genotoxicity tests in accordance with standard tests based on established guidance (including VICH GL23 and OECD tests) shall usually be carried out on the active substance(s).
+
+IIIa.3A3.6. Carcinogenicity
+
+The decision on whether carcinogenicity testing is required shall take into account the results of genotoxicity tests, structure-activity relationships and the findings in repeat dose toxicity tests that may demonstrate the potential for hyper-/neo-plastic changes.
+
+Any known species specificity of the mechanism of toxicity shall be considered, as well as any differences in metabolism between the test species, target animal species, and human beings.
+
+Carcinogenicity testing shall be conducted in accordance with standard tests based on established guidance (including VICH GL28 and OECD tests).
+
+IIIa.3A3.7. Exceptions
+
+Where a veterinary medicinal product is intended for topical use, systemic absorption shall be investigated in the target animal species. If it is proved that systemic absorption is negligible, the repeated dose toxicity tests, the tests for developmental toxicity and the carcinogenicity tests may be omitted, unless:
+
+(a) under the intended conditions of use, oral ingestion of the veterinary medicinal product by the animal is to be expected, or
+
+(b) under the intended conditions of use, oral exposure of the user of the veterinary medicinal product is to be expected.
+
+IIIa.3A4. Other requirements
+
+IIIa.3A4.1. Special studies
+
+For particular groups of substances, or if the effects observed during repeated dose studies in animals include changes indicative of, for example, immunogenicity, immunotoxicity, neurotoxicity or endocrine dysfunction, further testing shall be required, for example, sensitisation studies or delayed neurotoxicity tests. Depending on the nature of the product, it may be necessary to conduct additional studies to assess the underlying mechanism of the toxic effect or the irritation potential.
+
+For products for which there may be exposure to skin and eyes, irritation and sensitisation studies shall be provided. Those studies shall usually be conducted with the final formulation.
+
+The state of scientific knowledge and established guidance shall be taken into account when designing such studies and evaluating their results.
+
+IIIa.3A4.2. Observations in humans
+
+Information shall be provided on whether the pharmacologically active substances of the veterinary medicinal product are used as medicinal products in human therapy; if this the case, a compilation shall be made from published studies of all the effects observed (including adverse reactions) in humans and of their cause, to the extent that they may be important for the assessment of the safety of the veterinary medicinal product, where constituents of the veterinary medicinal products are themselves not used or are no longer used as medicinal products in human therapy for safety reasons, they shall be stated if publicly available.
+
+IIIa.3A4.3. Development of resistance and related risk in humans
+
+The data requirements mentioned in this point are related to antibacterial substances and may not be applicable to other types of antimicrobial (namely antivirals, antifungals and antiprotozoals); for substances other than antibacterial for which the existence of antimicrobial resistance is well established, the same requirements may be followed, where applicable.
+
+Data on the potential emergence of resistant bacteria or resistance determinants of relevance for human health which are associated with the use of veterinary medicinal products are necessary. The mechanism of the development and selection of such resistance is particularly important in this regard. Where necessary, measures to limit resistance development from the intended use of the veterinary medicinal product shall be proposed.
+
+Resistance data relevant for clinical use of the product in target animals shall be addressed in accordance with Part IIIa.4A2. Where relevant, cross reference shall be made to the data set out in Part IIIa.4A2.
+
+(1) For food-producing animals the risk assessment shall address:
+
+(a) the identification of resistant bacteria or resistance determinants that could be associated with human illness (zoonotic and/or commensal bacteria) and are selected by the use of the antimicrobial veterinary medicinal product in target animals (hazard identification);
+
+(b) the probability of release of the identified hazard(s) from the target animal species as a result of the use of the veterinary medicinal product under consideration;
+
+(c) the probability of subsequent human exposure to the identified hazard(s) via the foodborne route or through direct contact, and the resulting consequences (adverse health effects) to human health. Guidance is available in VICH GL27 and EU GLs.
+
+(2) For companion animals, consideration of risk to human or public health shall address:
+
+(a) the identification of resistant bacteria or resistance determinants that could be associated with human illness and are selected by the use of the antimicrobial veterinary medicinal product in target animals;
+
+(b) an estimate of exposure of zoonotic and commensal bacteria in the target animal species based on the conditions of use of the veterinary medicinal product under consideration;
+
+(c) consideration of subsequent human exposure to AMR, and the resulting consequences to human health.
+
+(3) Resistance in the environment shall be addressed.
+
+IIIa.3A5. User safety
+
+The user safety section shall include an assessment of the effects found in Part IIIa.3A to IIIa.3A4 and relate this to the type and extent of human exposure to the product with a view to formulating appropriate user warnings and other risk management measures.
+
+User safety shall be addressed in accordance with CVMP guidelines.
+
+IIIa.3A6. Environmental risk assessment
+
+IIIa.3A6.1. Environmental risk assessment of veterinary medicinal products not containing or consisting of genetically modified organisms
+
+(1) An environmental risk assessment shall be performed to assess the potential harmful effects, which the use of the veterinary medicinal product may cause to the environment and to identify the risk of such effects. The assessment shall also identify any precautionary measures which may be necessary to reduce such risk.
+
+(2) This assessment consists of two phases. The first phase of the assessment shall always be performed. The details of the assessment shall be provided in accordance with guidance published by the Agency. It shall indicate the potential exposure of the environment to the product and the level of risk associated with any such exposure taking into account in particular the following items:
+
+(a) the target animal species, and the proposed pattern of use;
+
+(b) the method of administration, in particular the likely extent to which the product will enter directly into environmental systems;
+
+(c) the possible excretion of the product, its active substances or relevant metabolites into the environment by treated animals; persistence in such excreta;
+
+(d) the disposal of unused veterinary medicinal product or other waste product.
+
+(3) In the second phase, further specific investigation of the fate and effects of the product on particular ecosystems shall be conducted, in accordance with guidance published by the Agency. The extent of exposure of the product to the environment, and the available information about the physical/chemical, pharmacological and/or toxicological properties of the substance(s) concerned, including metabolites in case of an identified risk, which has been obtained during the conduct of the other tests and trials required by this Regulation, shall be taken into consideration.
+
+For products intended for food producing species persistent, bioaccumulative and toxic (PBT) or very persistent and very bioaccumulative (vPvB) substances shall be classified according to the criteria in Annex XIII to the REACH Regulation and assessed in accordance with the guidance for PBT and vPvB assessment of substances in veterinary medicines published by the Agency
+
+IIIa.3A6.2. Environmental risk assessment for veterinary medicinal products containing or consisting of genetically modified organisms
+
+(1) In the case of a veterinary medicinal product containing or consisting of genetically modified organisms the application shall also be accompanied by the documents required under Article 2 and Part C of Directive 2001/18/EC.
+
+(2) Potential adverse effects on human health and the environment, which may occur through gene transfer from GMOs to other organisms or arise from genetic modifications, shall be accurately assessed on a case-by-case basis. The objective of such an environmental risk assessment is to identify and evaluate potential direct and indirect, immediate or delayed adverse effects of the GMO on human health and the environment (including plants and animals) and shall be carried out in accordance with the principles of Annex II to Directive 2001/18/EC.
+
+IIIa.3B. Residue tests
+
+(1) For the purposes of this point, the definitions of Regulation (EC) No 470/2009 shall apply.
+
+(2) The purpose of studying the depletion of residues from the edible tissues or from eggs, milk and honey (wax if appropriate) derived from treated animals is to determine under what conditions and to what extent residues may persist in foodstuffs produced from those animals. In addition, the studies shall enable the determination of a withdrawal period.
+
+(3) In the case of veterinary medicinal products intended for use in food-producing animals, the residue documentation shall show:
+
+(a) to what extent, and for how long, residues of the veterinary medicinal product or its metabolites persist in the edible tissues of the treated animal or in milk, eggs and/or honey (wax if appropriate) obtained therefrom;
+
+(b) that in order to prevent any risk to the health of the consumer of foodstuffs from treated animals, it is possible to establish realistic withdrawal periods which may be observed under practical farming conditions;
+
+(c) that the analytical method(s) used in the residue depletion study are sufficiently validated to provide the necessary reassurance that the residues data submitted are suitable as the basis for a withdrawal period.
+
+IIIa.3B1. Identification of the product
+
+An identification of the veterinary medicinal product(s) used in the testing shall be provided, including:
+
+(a) composition;
+
+(b) the physical and chemical (potency and purity) test results for the relevant batch(es);
+
+(c) batch identification.
+
+IIIa.3B2. Depletion of residues
+
+(1) The purpose of these studies, which measure the rate at which residues deplete in the target animal after the last administration of the veterinary medicinal product, is to permit the determination of withdrawal periods necessary to ensure that no residues which might constitute a hazard for consumers are present in foodstuffs obtained from treated animals.
+
+(2) The current status of the maximum residue limits for the components of the veterinary medicinal product in the relevant target species shall be reported.
+
+(3) The levels of residues present shall be determined at a sufficient number of time points after the test animals have received the final dose of the veterinary medicinal product. The studies in mammals and birds shall be performed according to VICH GL48 and other relevant guidelines. Residue studies in honey shall be performed according to VICH GL56 and depletion studies in aquatic species according to VICH GL57.
+
+(4) Based on the evaluation, the rationale for the proposed withdrawal period shall be addressed.
+
+IIIa.3B3. Residue analytical method
+
+(1) The residue depletion study (studies), the analytical method(s) and its (their) validation shall be performed in accordance with VICH GL49.
+
+(2) The suitability of the analytical method proposed shall be evaluated with regard to the state of scientific and technical knowledge at the time the application is submitted.
+
+**IIIa.4. Part 4: Efficacy documentation (pre-clinical studies and clinical trial(s))**
+
+IIIa.4A. Pre-clinical studies
+
+Pre-clinical studies aim to investigate the target animal safety and efficacy of the product and are required to establish the pharmacological activity, pharmacokinetic properties, dose and dosing interval, resistance (if applicable) and the target animal tolerance of the product.
+
+IIIa.4A1. Pharmacology
+
+IIIa.4A1.1. Pharmacodynamics
+
+(1) The pharmacodynamic effects of the active substance(s) included in the veterinary medicinal product shall be characterised.
+
+(2) The mode of action and the pharmacological effects on which the recommended application in practice is based shall be adequately described, including secondary effects (if any). In general, the effects on the main body functions shall be investigated. The results shall be expressed in quantitative terms (using, for example, dose-effect curves, time-effect curves, etc.) and, wherever possible, in comparison with a substance the activity of which is well known. Where a higher activity is being claimed for an active substance, the difference shall be demonstrated and shown to be statistically significant.
+
+(3) Any effect of the other characteristics of the products (such as the route of administration or formulation) on the pharmacological activity of the active substance shall be investigated.
+
+(4) The experimental techniques, unless they are standard procedures, shall be described in such detail as to allow them to be reproduced, and their validity to be established. The experimental results shall be set out clearly and the outcome of any statistical comparisons presented.
+
+(5) Unless adequate reasons are given to the contrary, any quantitative modification of responses resulting from repeated administration of the substance shall also be investigated.
+
+IIIa.4A1.2. Pharmacokinetics
+
+(1) Basic pharmacokinetic data on the active substance are required in the context of assessment of the target animal safety and efficacy of the veterinary medicinal product in the target species, particularly if this concerns a new substance or formulation.
+
+(2) The objectives of pharmacokinetic studies in the target animal species may be divided into four main areas:
+
+(a) to describe the basic pharmacokinetic characteristics (namely absorption, distribution, metabolism and excretion) of the active substance in the formulation;
+
+(b) to investigate the relationships between dosage regimen, plasma and tissue concentration over time and pharmacological, therapeutic or toxic effects;
+
+(c) where appropriate, to compare pharmacokinetic parameters between different target species and to explore possible species differences having an impact on target animal safety and efficacy of the veterinary medicinal product;
+
+(d) where appropriate, to compare bioavailability to support bridging of safety and efficacy information between different products, pharmaceutical forms, strengths or routes of administration, or to compare the impact of changes in manufacturing or composition, including pilot and final formulations.
+
+(3) In the target animal species, pharmacokinetic studies are, as a rule, necessary as a complement to the pharmacodynamic studies to support the establishment of safe and effective dosage regimens (route and site of administration, dose, dosing interval, number of administrations, etc.). Additional pharmacokinetic studies may be required to establish dosage regimens according to certain population variables.
+
+(4) Where pharmacokinetic studies have been submitted under Part 3 of the dossier, cross-reference to such studies may be made.
+
+(5) For fixed combinations, please refer to Section IV.
+
+IIIa.4A2. Development of resistance and related risk in animals
+
+(1) For relevant biological veterinary medicinal products (for example, substances with antimicrobial and antiparasitic activity), information on current resistance (if applicable) and on the potential emergence of resistance of clinical relevance for the claimed indication in the target animal species shall be provided. Where possible, information on the resistance mechanism(s), the molecular genetic basis of resistance, and the rate of transfer of resistance determinants shall be presented. Whenever relevant, information on co-resistance and cross-resistance shall be presented. Measures to limit resistance development in organisms of clinical relevance for the intended use of the veterinary medicinal product shall be proposed by the applicant.
+
+(2) Resistance relevant for risks to humans shall be addressed in Part 3 of the dossier. Where relevant, cross-reference shall be made to data set out in Part 3 of the dossier.
+
+IIIa.4A3. Dose determination and confirmation
+
+(1) Appropriate data shall be provided to justify the proposed dose, dosing interval, duration of treatment and any re-treatment interval.
+
+(2) For studies conducted under field conditions, relevant information shall be provided as outlined under clinical studies.
+
+IIIa.4A4. Tolerance in the target animal species
+
+(1) The local and systemic tolerance of the veterinary medicinal product shall be investigated in the target animal species. The purpose of target animal safety studies is to characterise signs of intolerance and to establish an adequate margin of safety using the recommended route(s) of administration. This may be achieved by increasing the dose and/or the duration of treatment.
+
+(2) The study report(s) shall contain details of all expected pharmacological effects and all adverse reactions. The conduct of target animal safety studies shall be in accordance with VICH and relevant guidance published by the Agency. Other pre-clinical studies and clinical studies, along with relevant information from the published literature may also provide information on safety in the target species.
+
+IIIa.4B. Clinical trials
+
+IIIa.4B1. General principles
+
+(1) Clinical trials shall be designed, carried out and reported taking into account VICH and relevant guidance published by the Agency. Data stemming from clinical trials conducted outside the Union may be taken into consideration for the assessment of an application for a marketing authorisation only, if the data are sufficiently representative of the Union situation.
+
+(2) Experimental data such as exploratory/pilot trials, or results from non-experimental approaches shall be confirmed by data obtained under normal field conditions, unless otherwise justified.
+
+(3) The purpose of clinical trials is to examine under field conditions the target animal safety and efficacy of a veterinary medicinal product under normal conditions of animal husbandry and/or as part of good veterinary practice. They shall demonstrate the effect of the veterinary medicinal product after administration to the intended target species using the proposed dosage regimen and the proposed route(s) of administration. The trial design shall aim to support the indications and take into account any contra-indications according to species, age, breed and sex, directions for use of the veterinary medicinal product as well as any adverse reactions which it may have.
+
+(4) All veterinary clinical trials shall be conducted in accordance with a detailed trial protocol. For formulations intended for use in veterinary clinical trials in the Union, the words ‘for veterinary clinical trial use only’ shall appear prominently and indelibly on the labelling.
+
+(5) Unless otherwise justified, clinical trials shall be carried out with control animals (controlled clinical trials). The efficacy results obtained with the new product shall be compared with those from the target animal species that have received a veterinary medicinal product authorised in the Union that has demonstrated an acceptable level of efficacy and been approved for the proposed indication(s) for use in the same target animal species, or a placebo or no treatment. All the results obtained, whether positive or negative, shall be reported.
+
+(6) Established statistical principles in accordance with the relevant guidance published by the Agency shall be used in protocol design, analysis and evaluation of clinical trials, unless otherwise justified.
+
+IIIa.4B2. Documentation
+
+The dossier on efficacy shall include all pre-clinical and clinical documentation, whether favourable or unfavourable to the veterinary medicinal products, in order to enable an objective overall assessment of the benefit/risk balance of the product.
+
+IIIa.4B2.1. Results of pre-clinical studies
+
+Wherever possible, particulars shall be given of the results of:
+
+(a) tests demonstrating pharmacological activity;
+
+(b) tests demonstrating the pharmacodynamic mechanisms underlying the therapeutic effect;
+
+(c) tests demonstrating the main pharmacokinetic profile;
+
+(d) tests demonstrating target animal safety;
+
+(e) tests to determine and confirm the dose (including dose interval, duration of treatment and any re-treatment interval);
+
+(f) tests and investigations on resistance, if applicable.
+
+In the case where unexpected results occur during the course of the tests, those results shall be sufficiently detailed. Additionally, the following particulars shall be provided in all pre-clinical study reports.
+
+(a) a summary;
+
+(b) a study protocol;
+
+(c) a detailed description of the objectives, design and conduct to include methods, apparatus and materials used, details such as species, age, weight, sex, number, breed or strain of animals, identification of animals, dose, route and schedule of administration;
+
+(d) a statistical analysis of the results;
+
+(e) an objective discussion of the results obtained, leading to conclusions on the efficacy and target animal safety of the veterinary medicinal product.
+
+Omission of any of those data shall be justified.
+
+IIIa.4B2.2. Results of clinical trials
+
+All the particulars shall be supplied by each of the investigators on individual record sheets in the case of individual treatment and collective record sheets in the case of collective treatment.
+
+The marketing authorisation holder shall make all necessary arrangements to ensure that the original documents, which formed the basis of the data supplied, are kept for at least five years after the veterinary medicinal product is no longer authorised.
+
+In respect of each clinical trial, the clinical observations shall be summarised in a synopsis of the trials and the results thereof, indicating in particular:
+
+(a) the number of control and test animals treated either individually or collectively, with a breakdown according to species, breed or strain, age and sex;
+
+(b) the number of animals withdrawn prematurely from the trials and the reasons for such withdrawal;
+
+(c) in the case of control animals, whether they have:
+
+(i) received no treatment;
+
+(ii) received a placebo;
+
+(iii) received another veterinary medicinal product authorised in the Union that has demonstrated an acceptable level of efficacy and been approved for the proposed indication(s) for use in the same target animal species; or
+
+(iv) received the same active substance under investigation in a different formulation or by a different route;
+
+(d) the frequency of observed adverse reactions;
+
+(e) observations as to the effect on animal performance, if appropriate;
+
+(f) details concerning test animals which may be at increased risk owing to their age, their mode of rearing or feeding, or the purpose for which they are intended, or animals the physiological or pathological condition of which requires special consideration;
+
+(g) a statistical evaluation of the results.
+
+The main investigator shall draw general conclusions on the efficacy and target animal safety of the veterinary medicinal product under the proposed conditions of use, and in particular any information relating to indications and contraindications, dosage and average duration of treatment and, where appropriate, any interactions observed with other veterinary medicinal products or feed additives as well as any special precautions to be taken during treatment and the clinical signs of overdoseage, when observed.
+
+**SECTION IIIb**
+
+**REQUIREMENTS FOR IMMUNOLOGICAL VETERINARY MEDICINAL PRODUCTS**
+
+The following requirements shall apply to immunological veterinary medicinal products as defined in Article 4(5), except where otherwise set out in Section IV.
+
+**IIIb.1. Part 1: Summary of the dossier**
+
+Please refer to Section I.
+
+**IIIb.2. Part 2: Quality documentation (physicochemical, biological and microbiological information)**
+
+IIIb.2.A. Product description
+
+IIIb.2A1. Qualitative and quantitative composition
+
+(1) Qualitative composition of all the constituents of the immunological veterinary medicinal product shall mean the designation or description of:
+
+(a) the active substance(s);
+
+(b) the constituents of the adjuvants;
+
+(c) the constituent(s) of other excipients, whatever their nature or the quantity used, including preservatives, stabilisers, colouring matter, flavouring and aromatic substances, markers, etc.
+
+(d) accompanying reconstitution solvents.
+
+(2) Those data in point (1) shall be supplemented by any relevant data concerning the immediate packaging and if relevant the outer packaging and, where appropriate, its manner of closure, together with details of devices with which the immunological veterinary medicinal product will be used or administered and which will be delivered with the medicinal product. If the device is not delivered together with the immunological veterinary medicinal product, relevant information about the device shall be provided, where necessary for the assessment of the product.
+
+(3) The usual terminology to be used in describing the constituents of immunological veterinary medicinal products, notwithstanding the application of the other provisions of Article 8, means:
+
+(a) in respect of substances which appear in the European Pharmacopoeia or, failing this, in the pharmacopoeia of one of the Member States, the main title of the monograph in question, which will be obligatory for all such substances, with reference to the pharmacopoeia concerned;
+
+(b) in respect of other substances, the INN recommended by the WHO, which may be accompanied by another non-proprietary name or, failing these, the exact scientific designation; substances not having an international non-proprietary name or an exact scientific designation shall be described by a statement of how and from what they were prepared, supplemented, where appropriate, by any other relevant details;
+
+(c) in respect of colouring matter designation by the ‘E’ code assigned to them in Directive 2009/35/EC.
+
+(4) In order to give the quantitative composition of the active substances of an immunological veterinary medicinal product, it is necessary to specify whenever possible the number of organisms, the specific protein content, the mass, the number of International Units (IU) or units of biological activity, either per dosage-unit or volume, and with regard to the adjuvant and to the constituents of the excipients, the mass or the volume of each of them, with due allowance for the details provided in Part IIb.2B.
+
+(5) Where an international unit of biological activity has been defined, this shall be used.
+
+(6) The units of biological activity for which no published data exist shall be expressed in such a way as to provide unambiguous information on the activity of the ingredients, for example, by stating the amount as determined by titration or potency testing of the final product.
+
+(7) The composition shall be given in terms of minimum quantities and, if appropriate, with maximum quantities.
+
+IIIb.2A2. Product development
+
+(1) Explanation shall be provided with regard to, but may not be limited to:
+
+(a) the choice of composition and the choice of the constituents, in particular relative to their intended functions and their respective concentrations;
+
+(b) the inclusion of a preservative in the composition shall be justified;
+
+(c) the immediate packaging and the suitability of the container and its closure system used for the storage and use of the finished product. A study of the interaction between finished product and the primary packaging shall be submitted wherever the risk of such interaction is regarded as possible, especially where injectable preparations are concerned;
+
+(d) the possible further packaging, outer packaging if relevant;
+
+(e) the proposed pack sizes related to the proposed route of administration, the posology and the target species;
+
+(f) any overage(s) in the formulation to guarantee minimum potency/antigen content at end of shelf life with justification;
+
+(g) the selection of the manufacturing process of the active substance and the finished product;
+
+(h) differences between the manufacturing process(es) used to produce batches used in clinical trials and the process described in the application for marketing authorisation shall be discussed;
+
+(i) when an accompanying test is recommended to be used with the finished product (e.g. diagnostic test), relevant information about the test shall be provided.
+
+(2) This explanation shall be supported by scientific data on product development.
+
+IIIb.2B. Description of the manufacturing method
+
+(1) The description of the manufacturing method accompanying the application for marketing authorisation pursuant to Article 8 shall be drafted in such a way as to give an adequate description of the nature of the operations employed, including the identification of the key stages in the production process.
+
+(2) The description of the manufacturing process shall include at least:
+
+(a) the various stages of manufacture (including production of the antigen and purification procedures) accompanied by a process flow chart so that an assessment may be made of the reproducibility of the manufacturing procedure and of the risks of adverse effects on the finished products, such as microbiological contamination;
+
+(b) in the case of continuous manufacture, full details concerning precautions taken to ensure the homogeneity and consistency of each batch of the finished product. Information on how a batch is defined and on the proposed commercial batch size(s) shall be provided;
+
+(c) listing of all the substances at the appropriate steps where they are used, including those which cannot be recovered in the course of manufacturing;
+
+(d) the details of the blending, with the quantitative particulars of all the substances used, including an example for a representative production batch;
+
+(e) list of in-process controls including the stage of manufacture at which they are conducted;
+
+(f) for sterile products, where non-pharmacopoeial sterilisation conditions are used, details of the sterilisation processes and/or aseptic procedures used.
+
+(3) Validation of all the methods of control used in the manufacturing process shall be described, documented and the results provided, unless otherwise justified. The validation of key stages in the production process shall be demonstrated and the validation of the production process as a whole shall be demonstrated with provision of results of three consecutive batches produced using the method described.
+
+IIIb.2C. Production and control of starting materials
+
+(1) For the purposes of this Part, ‘starting materials’ means all components used in the production of the immunological veterinary medicinal product.
+
+(2) Commercially available ready-to-use adjuvant systems designated by a brand name as well as culture media used for production of the active substance consisting of several components shall be regarded as one starting material. Nevertheless, the qualitative and quantitative composition shall be presented insofar as the authorities consider that this information is relevant to the quality of the finished product and any risks that might be posed.
+
+(3) If materials of animal origin are used for preparation of those culture media or adjuvant systems, the animal species and the tissue used have to be included and compliance with the relevant monographs including general monographs and general chapters of the European Pharmacopoeia shall be demonstrated.
+
+(4) The applicant shall supply documentation to demonstrate that the starting materials, including seed materials, cell seeds, batches of serum and other material originating from animal species relevant for the transmission of TSE and the manufacturing of the veterinary medicinal product is in compliance with the requirements of the Note for Guidance on minimising the risk of transmitting animal spongiform encephalopathy agents via human and veterinary medicinal products, as well as with the requirements of the corresponding monograph of the European Pharmacopoeia. Certificates of Suitability issued by the European Directorate for the Quality of Medicines and HealthCare, with reference to the relevant monograph of the European Pharmacopoeia, may be used to demonstrate compliance.
+
+(5) The dossier shall include the specifications, information on the tests to be conducted for the quality control of all batches of starting materials and results for a batch for all components used and shall be submitted in accordance with the requirements of this Part.
+
+(6) Certificates of analysis shall be presented for the starting materials in order to demonstrate compliance with the defined specification.
+
+(7) Colouring matter shall, in all cases, satisfy the requirements of Directive 2009/35/EC.
+
+(8) The use of antibiotics during production and the inclusion of preservatives in the composition of the finished product shall be justified and in compliance with the European Pharmacopoeia.
+
+(9) For novel excipients, that is to say excipient(s) used for the first time in the Union in a veterinary medicinal product or by a new route of administration, details of manufacture, characterisation, and controls, with cross references to supporting safety data, both clinical and non- clinical, shall be provided. For colouring matters the declarations of compliance as mentioned under Part II.2C2, points (3) and (4) shall be considered sufficient.
+
+IIIb.2C1. Starting materials listed in pharmacopoeias
+
+(1) The monographs of the European Pharmacopoeia shall be applicable to all starting materials appearing in it, unless proper justification is provided.
+
+(2) In respect of other substances, each Member State may require observance of its own national pharmacopoeia with regard to products manufactured in its territory.
+
+(3) The description of the analytical methods may be replaced by a detailed reference to the pharmacopoeia in question.
+
+(4) The routine tests carried out on each batch of starting materials shall be as stated in the application for marketing authorisation. If tests other than those mentioned in the pharmacopoeia are used, proof shall be supplied that the starting materials meet the quality requirements of that pharmacopoeia.
+
+(5) In cases where a specification or other provisions contained in a monograph of the European Pharmacopoeia or in the pharmacopoeia of a Member State might be insufficient to ensure the quality of the substance, the competent authorities may request more appropriate specifications from the applicant for marketing authorisation. The alleged insufficiency shall be reported to the authorities responsible for the pharmacopoeia in question.
+
+IIIb.2C2. Starting materials not listed in a pharmacopoeia
+
+IIIb.2C2.1. Starting materials of biological origin
+
+(1) The description shall be given in the form of a monograph.
+
+(2) Vaccine production shall be based on a seed lot system and on established cell seeds, whenever possible. For the production of immunological veterinary medicinal products consisting of serum, the origin, general health and immunological status of the producing animals shall be indicated and defined pools of source materials shall be used.
+
+(3) The origin, including geographical region, and history of starting materials shall be described and documented.
+
+(4) For genetically engineered starting materials this information shall include details such as the description of the starting cells or strains, the construction of the expression vector (name, origin, function of the replicon, promoter enhancer and other regulator elements), control of the sequence of DNA or RNA effectively inserted, oligonucleotide sequences of plasmid vector in cells, plasmid used for cotransfection, added or deleted genes, biological properties of the final construct and the genes expressed, copy number and genetic stability.
+
+(5) In the case of veterinary medicinal products containing or consisting of genetically modified organisms (GMO), the quality part of the application shall also be accompanied by the documents required in accordance with Directive 2001/18/EC.
+
+(6) Seed materials, including cell seeds and raw serum for anti-serum production shall be tested for identity and the absence of extraneous agents shall be demonstrated according to the European Pharmacopoeia.
+
+(7) Information shall be provided on all substances of biological origin used at any stage in the manufacturing procedure. The information shall include:
+
+(a) details of the source of the materials;
+
+(b) details of any processing, purification and inactivation applied, with data on the validation of those processes and controls during production;
+
+(c) details of any tests for contamination carried out on each batch of the substance.
+
+(8) If the presence of extraneous agents is detected or suspected, the corresponding material shall be discarded or processed to reduce the risk of presence with a validated treatment. If after treatment presence is detected or suspected, the corresponding material shall be used only when further processing of the product ensures their elimination and/or inactivation; elimination and/or inactivation of such extraneous agents shall be demonstrated.
+
+(9) When cell seeds are used, the cell characteristics shall be shown to have remained unchanged up to the highest passage level used for the production.
+
+(10) For live attenuated vaccines, confirmation of the stability of the attenuation characteristics of the seed shall be provided. Unless a specific characteristic is associated with the attenuation (e.g. genetic marker, thermal stability), this is typically achieved through absence of reversion to virulence in the target animal species.
+
+(11) When required, samples of the biological starting material or reagents used in the testing procedures shall be provided to enable the competent authority to arrange for check tests to be carried out.
+
+IIIb.2C2.2. Starting materials of non-biological origin
+
+The description shall be given in the form of a monograph under the following headings:
+
+(a) the name of the starting material meeting the requirements of point (3) of Part IIIb.2A1. shall be supplemented by any trade or scientific synonyms;
+
+(b) the description of the starting material, set down in a form similar to that used in a descriptive item in the European Pharmacopoeia;
+
+(c) the function of the starting material;
+
+(d) methods of identification;
+
+(e) any special precautions which may be necessary during storage of the starting material and, if necessary, its storage life shall be given.
+
+IIIb.2D. Control tests during the manufacturing process
+
+(1) The dossier shall include particulars relating to the control tests, which are carried out on intermediate stages of manufacture with a view to verifying the consistency of the manufacturing process and the final product. Specifications shall be set for each control test and the analytical methods shall be described. Validation of the control tests for parameters considered critical to the manufacturing process shall be provided unless otherwise justified.
+
+(2) For inactivated or detoxified vaccines, inactivation or detoxification shall be tested during each production run as soon as possible after the end of the inactivation or detoxification process and after neutralisation if this occurs, but before the next step of production.
+
+(3) In accordance with the provisions of Directive 2010/63/EU and the European Convention for the Protection of Vertebrate Animals Used for Experimental and Other Scientific Purposes, tests shall be carried out in such a way as to use the minimum number of animals and to cause the least pain, suffering, distress or lasting harm. If available, an alternative in vitro test shall be used when this leads to replacement or reduction of animal use or reduction of suffering.
+
+IIIb.2E. Control tests on the finished product
+
+(1) For all tests, the description of the techniques for analysing the finished product shall be set out in sufficient detail for a quality assessment.
+
+(2) Where appropriate monographs exist, if test procedures and limits other than those mentioned in the monographs of the European Pharmacopoeia, or failing this, in the pharmacopoeia of a Member State, are used, proof shall be supplied that the finished product would, if tested in accordance with those monographs, meet the quality requirements of that pharmacopoeia for the pharmaceutical form concerned. The application for marketing authorisation shall list those tests, which are carried out on representative samples of each batch of finished product. The frequency of the tests carried out on the final bulk vaccine instead of on the batch or batches prepared from it, shall be stated. Release limits shall be indicated and justified. Validation of the control tests carried out on the finished product shall be provided.
+
+(3) Information regarding the establishment and replacement of reference material shall be provided. If more than one reference standard has been used, a qualification history shall be provided describing how the relationship between the different standards was maintained.
+
+(4) Where available, chemical and biological reference material of the European Pharmacopoeia shall be used. If other reference preparations and standards are used, they shall be identified and described in detail.
+
+(5) In accordance with the provisions of Directive 2010/63/EU and the European Convention for the Protection of Vertebrate Animals Used for Experimental and Other Scientific Purposes, tests shall be carried out in such a way as to use the minimum number of animals and to cause the least pain, suffering, distress or lasting harm. If available, an alternative in vitro test shall be used when this leads to replacement or reduction of animal use or reduction of suffering.
+
+(6) General characteristics of the finished product
+
+The tests of general characteristics shall, wherever applicable, relate to the appearance and to physical or chemical tests, such as, conductivity, pH, viscosity, etc. For each of those characteristics, specifications, with appropriate acceptance limits, shall be established by the applicant.
+
+(7) Identification of active substance(s)
+
+Where necessary, a specific test for identification shall be carried out. When appropriate, the identification test may be combined with the batch titre or potency test.
+
+(8) Batch titre or potency
+
+A quantification of the active substance shall be carried out on each batch to show that each batch will contain the appropriate potency or titre to ensure its safety and efficacy.
+
+(9) Identification and assay of adjuvants
+
+The quantity and nature of the adjuvant and its components shall be verified on the finished product, unless otherwise justified.
+
+(10) Identification and assay of excipient components
+
+Insofar as is necessary, the excipient(s) shall be subject at least to identification tests.
+
+An upper and lower limit test shall be obligatory in respect of preserving agents. An upper limit test for any other excipient components liable to give rise to an adverse reaction shall be obligatory.
+
+(11) Sterility and purity test
+
+Freedom from extraneous agents (bacteria, mycoplasma, fungi and bacterial endotoxin when relevant) shall be demonstrated for parenterally administered products in compliance with the European Pharmacopoeia. For non-liquid, non-parenterally administered products, where adequately justified, compliance to a maximum bioburden limit instead of sterility test may be acceptable.
+
+Appropriate tests to demonstrate the absence of contamination by extraneous agents or other substances, shall be carried out according to the nature of the immunological veterinary medicinal product, the method and the conditions of manufacture. A risk-based approach to demonstrate the absence of extraneous agents as described in the European Pharmacopoeia shall be used.
+
+(12) Residual humidity
+
+Each batch of lyophilised product shall be tested for residual humidity.
+
+(13) Filling volume
+
+Appropriate tests to demonstrate the correct filling volume shall be carried out.
+
+IIIb.2F. Batch-to-batch consistency
+
+In order to ensure that quality of the product is consistent from batch to batch and to demonstrate conformity with specifications a full protocol of three consecutive batches representative of the routine production giving the results for all tests performed during production and on the finished product shall be provided. Consistency data obtained from combined products may be used for derivative products containing one or more of the same components.
+
+IIIb.2G. Stability tests
+
+(1) Stability tests cover stability of the active substance and the finished product, including solvent(s), if relevant.
+
+(2) A description shall be given of the tests undertaken to support the shelf life, the recommended storage conditions and the specifications at the end of the shelf life proposed for the active substance and the finished product. Those tests shall always be real-time studies.
+
+If intermediate products obtained at various stages of the manufacturing process are stored, the intended conditions and duration of storage shall be adequately justified on the basis of the stability data available.
+
+(3) Stability tests for the finished product shall be carried out on not fewer than three representative batches produced according to the described production process and on products stored in the final container(s); those tests include biological and physicochemical stability tests carried out at regular intervals, for the finished product until 3 months beyond the claimed end of the shelf life.
+
+(4) The conclusions shall contain the results of analyses, justifying the proposed shelf life under all proposed storage conditions. The results obtained during the stability study shall be taken into account when defining appropriate formulation and release specifications to ensure the conformity of the product with the claimed shelf life
+
+(5) In the case of products administered in feed, information shall also be given as necessary on the shelf life of the product, at the different stages of mixing, when mixed in accordance with the recommended instructions.
+
+(6) Where a finished product requires reconstitution prior to administration or is administered in drinking water, details of the proposed shelf life are required for the product reconstituted as recommended. Data in support of the proposed shelf life for the reconstituted product shall be submitted.
+
+(7) Stability data obtained from combined products may be used where adequately justified for derivative products containing one or more of the same components.
+
+(8) In the case of multi-dose containers, where relevant, stability data shall be presented to justify a shelf life for the product after it has been broached or opened for the first time and an in-use shelf-life specification shall be defined.
+
+(9) The efficacy of any preservative system shall be demonstrated.
+
+(10) Information on the efficacy of preservatives in other similar immunological veterinary medicinal products from the same manufacturer may be sufficient.
+
+(11) If active substances are stored, the intended conditions and duration of storage shall be defined on the basis of stability data. Those data may be obtained either through testing of the active substances themselves or through appropriate testing of the finished product.
+
+IIIb.2H. Other information
+
+Information relating to the quality of the immunological veterinary medicinal product not covered by this Section may be included in the dossier.
+
+**IIIb.3. Part 3: Safety documentation (safety and residues tests)**
+
+IIIb.3A. General requirements
+
+(1) The safety documentation shall be adequate for the assessment of:
+
+(a) the safety of the immunological veterinary medicinal product when administered to the target species and any undesirable effects which may occur under the proposed conditions of use; those undesirable effects shall be evaluated in relation to potential benefits of the product;
+
+(b) the potential harmful effects to man of residues of the veterinary medicinal product or substance in foodstuffs obtained from treated animals;
+
+(c) the potential risks which may result from the exposure of human beings to the veterinary medicinal product, for example, during its administration to the animal;
+
+(d) the potential risks to the environment resulting from the use of the veterinary medicinal product.
+
+(2) Pre-clinical safety studies shall be carried out in compliance with GLP requirements.
+
+Non-GLP studies may be accepted for non-target species studies as well as studies evaluating immunological, biological or genetic properties of the vaccine strains, under adequately controlled conditions. Other deviations shall be justified.
+
+(3) All safety trials shall be conducted in accordance with a fully considered detailed protocol, which shall be recorded in writing prior to commencement of the trial. The welfare of the trial animals shall be subject to veterinary supervision and shall be taken fully into consideration during the elaboration of any trial protocol and throughout the conduct of the trial.
+
+(4) Pre-established systematic written procedures for the organisation, conduct, data collection, documentation and verification of safety trials shall be required.
+
+(5) Clinical trials (field trials) shall be conducted in compliance with established principles of good clinical practice (GCP). Deviations shall be justified.
+
+(6) The safety studies shall be in line with the relevant European Pharmacopeia requirements. Deviations shall be justified.
+
+(7) The safety studies shall be carried out in the target species. The dose to be used shall be the quantity of the product to be recommended for use and the batch used for safety testing shall be taken from a batch or batches produced according to the manufacturing process described in Part 2 of the application.
+
+(8) For laboratory tests described in Sections B.1, B.2 and B.3, the dose of the veterinary medicinal product shall contain the maximum titre, antigen content or potency. If necessary, the concentration of the antigen may be adjusted to achieve the required dose.
+
+(9) The safety of an immunological veterinary medicinal product shall be demonstrated for each category of target animal species in which its use is recommended, by each recommended route and method of administration and using the proposed schedule of administration. A worst-case scenario for route and method of administration may be used if scientifically justified.
+
+(10) In the case of immunological veterinary medicinal products consisting of live organisms, special requirements are included under B.6.
+
+(11) The particulars and documents which shall accompany the application for marketing authorisation shall be submitted in accordance with the requirements for pre-clinical studies and clinical trials described in Parts IIIb.4B, point (4), and IIIb.4C, point (3)..
+
+IIIb.3B. Pre-clinical studies
+
+(1) Safety of the administration of one dose
+
+The immunological veterinary medicinal product shall be administered at the recommended dose and by each recommended route and method of administration to animals of each species and each relevant category (e.g. minimum age, pregnant animals, as appropriate) in which it is intended for use.
+
+The animals shall be observed and examined daily for signs of systemic and local reactions until reactions may no longer be expected, but in all cases, at least 14 days after administration. Where appropriate, those studies shall include detailed post-mortem macroscopic and microscopic examinations of the injection site. Other objective criteria shall be recorded, such as rectal temperature and performance measurements.
+
+This study may be part of the repeated dose study required under point 3 or omitted if the results of the overdose study required under point 2 have revealed no major signs of systemic or local reactions. If omitted, the systemic or local reactions seen in the overdose study shall be taken as the basis for describing safety of the product in the Summary of Product Characteristics.
+
+(2) Safety of one administration of an overdose
+
+Only live immunological veterinary medicinal products require overdose testing.
+
+An overdose of the immunological veterinary medicinal product, normally consisting of ten doses, shall be administered by each recommended route(s) and method(s) of administration to animals of the most sensitive categories of the target species, unless the selection of the most sensitive of several similar routes is justified. In the case of immunological veterinary medicinal products administered by injection, the doses and route(s) and method(s) of administration shall be chosen to take account of the maximum volume, which can be administered at any one single injection site.
+
+The animals shall be observed and examined daily for at least 14 days after administration for signs of systemic and local reactions. Other criteria shall be recorded, such as rectal temperature and performance measurements.
+
+Where appropriate, those studies shall include detailed post-mortem macroscopic and microscopic examinations of the injection site if this has not been done under point 1.
+
+(3) Safety of the repeated administration of one dose
+
+In the case of immunological veterinary medicinal products to be administered more than once, as part of the basic administration scheme, a study of the repeated administration of one dose shall be required to reveal any adverse effects induced by such administration.
+
+The test shall be carried out on the most sensitive categories of the target species (such as certain breeds, age groups), using each recommended route and method of administration.
+
+The number of administrations shall not be less than the maximum number recommended; for vaccines, this shall take account of the number of administrations for primary vaccination and the first re-vaccination.
+
+The interval between administrations may be shorter than the one claimed in the Summary of Product Characteristics. The chosen interval shall be justified with respect to the proposed conditions of use.
+
+The animals shall be observed and examined daily for at least 14 days after the last administration for signs of systemic and local reactions. Other objective criteria shall be recorded, such as rectal temperature and performance measurements.
+
+(4) Examination of reproductive performance
+
+Examination of reproductive performance shall be considered when the immunological veterinary product is intended for use or may be used in pregnant animals or laying birds and when data suggest that the starting material from which the product is derived may be a potential risk factor.
+
+Reproductive performance of males and non-pregnant and pregnant females shall be investigated with the recommended dose and by the most sensitive route and method of administration.
+
+For immunological veterinary medicinal products that are recommended for use in pregnant animals, examination of the reproductive performance shall address safety of administration during the entire gestation period or during specific period of gestation taking into account the intended use of the product.
+
+The observation period shall be extended to parturition to investigate possible harmful effects on the progeny, including teratogenic and abortifacient effects.
+
+Those studies may form part of the safety studies described in points 1, 2, 3 or of the field trials provided for in Section IIIb.3C.
+
+(5) Examination of immunological functions
+
+Where the immunological veterinary medicinal product might adversely affect the immune response of the vaccinated animal or of its progeny, suitable tests on immunological function shall be carried out.
+
+(6) Special requirements for live vaccines
+
+(1) Spread of the vaccine strain
+
+Spread of the vaccine strain from vaccinated to unvaccinated target animals shall be investigated, using the recommended route of administration most likely to result in the spread. Moreover, it may be necessary to investigate the spread to non-target animal species which could be highly susceptible to a live vaccine strain. An assessment of the number of animal-to-animal passages likely to occur under normal conditions of use and potential consequences shall be provided.
+
+(2) Dissemination in the vaccinated animal
+
+Faeces, urine, milk, eggs, oral, nasal and other secretions shall be tested for the presence of the organism as appropriate. Moreover, studies may be required of the dissemination of the vaccine strain in the body, with particular attention being paid to the predilection sites for replication of the organism. In the case of live vaccines for zoonoses within the meaning of Directive 2003/99/EC of the European Parliament and of the Council to be used for food producing animals, those studies shall take particularly into account the persistence of the organism at the injection site.
+
+(3) Increase in virulence
+
+Increase in or reversion to virulence shall be investigated with the master seed. If the master seed is not available in sufficient quantity the lowest passage seed used for the production shall be examined. Use of another passage option shall be justified. The initial vaccination shall be carried out using the route and method of administration most likely to lead to an increase in virulence indicative of reversion to virulence. Serial passages shall be made in target animals through five groups of animals, unless there is justification to make more passages or the organism disappears from the test animals sooner. Where the organism fails to replicate adequately, as many passages as possible shall be carried out in the target species.
+
+(4) Biological properties of the vaccine strain
+
+Other tests may be necessary to determine as precisely as possible the intrinsic biological properties of the vaccine strain (e.g. neurotropism).
+
+For vaccines containing live genetically modified organism(s), where the product of a foreign gene is incorporated into the strain as a structural protein, the risk of changing the tropism or virulence of the strain shall be addressed and, where necessary, specific tests shall be conducted.
+
+(5) Recombination or genomic reassortment of strains
+
+The probability of recombination or genomic reassortment with field or other strains shall be evaluated and the consequences of such events discussed.
+
+(7) User safety
+
+This section shall include a discussion of the effects found in Part IIIb.3A to IIIb.3B and relate those effects to the type and extent of human exposure to the product with a view to formulating appropriate user warnings and other risk management measures.
+
+User safety shall be addressed in accordance with relevant guidance published by the Agency.
+
+(8) Interactions
+
+If there is a compatibility statement with other veterinary medicinal products in the summary of product characteristics the safety of the association shall be investigated. Any other known interactions with veterinary medicinal products shall be described.
+
+IIIb.3C. Clinical trials
+
+Unless otherwise justified, results from pre-clinical studies shall be supplemented with data from clinical trials, using batches representative of the manufacturing process described in the marketing authorisation application. Both safety and efficacy may be investigated in the same clinical trials.
+
+IIIb.3D. Environmental risk assessment
+
+(1) An environmental risk assessment shall be performed to assess the potential harmful effects, which the use of the veterinary medicinal product may cause to the environment and to identify the risk of such effects. The assessment shall also identify any precautionary measures which may be necessary to reduce such risk.
+
+(2) This assessment consists of two phases. The first phase of the assessment shall always be performed. The details of the assessment shall be provided in accordance with guidance published by the Agency. It shall indicate the potential exposure of the environment to the product and the level of risk associated with any such exposure, taking into account in particular the following items:
+
+(a) the target animal species and the proposed pattern of use;
+
+(b) the route and method of administration, in particular the likely extent to which the product will enter directly into the environmental system;
+
+(c) the possible excretion or secretion of the product, its active substances into the environment by treated animals, persistence in such excreta or secreta;
+
+(d) the disposal of unused or waste product.
+
+(3) In the case of live vaccine strains which may be zoonotic, the risk to humans shall be assessed.
+
+(4) Where the conclusions of the first phase indicate a relevant potential risk for the environment of the product, the applicant shall proceed to the second phase and evaluate the potential risk(s) that the veterinary medicinal product might pose to the environment. Where necessary, further investigations on the impact of the product (soil, water, air, aquatic systems, non-target organisms) shall be carried out.
+
+(5) For DNA vaccines, a specific safety concern is the potential risk of migration of the DNA to gonadal tissues and potential DNA transfer into germ line cells of vaccinated male and female animals and thus potential transmission to offspring. The applicant shall evaluate and discuss potential risk(s) such immunological veterinary medicinal products might pose on human health and the environment (including plants and animals). If potential risk(s) are identified, investigations on the impact of the vaccine depending on its use in companion animals or in food producing animals shall be carried out to provide information on this point.
+
+IIIb.3E. Assessment required for veterinary medicinal products containing or consisting of genetically modified organisms
+
+(1) In the case of veterinary medicinal products containing or consisting of genetically modified organisms (GMOs) the application shall also be accompanied by the documents required under Article 2 and Part C of Directive 2001/18/EC and the specific guidance dealing with GMOs.
+
+(2) Potential adverse effects on human health and the environment, which may occur through gene transfer from GMOs to other organisms or arise from genetic modifications, shall be accurately assessed on a case-by-case basis. The objective of such an environmental risk assessment is, to identify and evaluate potential direct and indirect, immediate or delayed adverse effects of the GMO on human health and the environment (including plants and animals) and shall be carried out in accordance with the principles of Annex II to Directive 2001/18/EC.
+
+IIIb.3F. Residue tests to be included in the pre-clinical studies
+
+(1) For immunological veterinary medicinal products, it will normally not be necessary to undertake a study of residues.
+
+(2) Where antibiotics, adjuvants, preservatives or any other excipient are used in the manufacture of immunological veterinary medicinal products intended for food producing animals and/or are included in the final formulation, consideration shall be given to the possibility of consumer exposure to residues in foodstuffs derived from treated animals and compliance with MRLs legislation. Consumer safety implications arising from their potential presence in the finished product shall be addressed.
+
+(3) In the case of live vaccines for well-established zoonotic diseases, in addition to the studies of dissemination, the determination of residual vaccine organisms at the injection site may be required. If necessary, the effects of such residues shall be investigated.
+
+(4) A proposal for a withdrawal period shall be made and its adequacy shall be discussed in relation to any residue studies which have been undertaken.
+
+**IIIb.4. Part 4: Efficacy documentation (pre-clinical studies and clinical trial(s))**
+
+IIIb.4A. General requirements
+
+(1) The following general requirements shall be complied with:
+
+(a) the efficacy studies shall be in line with the general European Pharmacopeia requirements; Deviations shall be justified.
+
+(b) the primary parameter on which determination of efficacy is based needs to be defined by the investigator at the time of study design and shall not be changed after the study is completed;
+
+(c) the planned statistical analysis shall be described in detail in the study protocols;
+
+(d) the choice of antigens or vaccine strains shall be justified on the basis of epizoological data;
+
+(e) efficacy trials carried out in the laboratory shall be controlled trials, including untreated control animals unless this is not justified for animal welfare reasons and efficacy can be otherwise demonstrated.
+
+(2) In general, pre-clinical studies shall be supported by trials carried out in field conditions.
+
+When pre-clinical studies fully support the claims made in the summary of product characteristics, trials carried out in field conditions are not required.
+
+Unless otherwise justified, results from pre-clinical studies shall be supplemented with data from clinical trials, using batches representative of the manufacturing process described in the marketing authorisation application. Both safety and efficacy may be investigated in the same clinical trials.
+
+(3) All trials shall be described in sufficient detail so as to be properly assessed by the competent authorities. The validity of all techniques used in the trial shall be demonstrated.
+
+(4) All results obtained, whether favourable or unfavourable, shall be reported:
+
+(a) The efficacy of an immunological veterinary medicinal product shall be demonstrated for each category of target animal species in which its use is recommended, by each recommended route and method of administration and using the proposed schedule of administration. Unless otherwise justified, the onset and duration of immunity shall be established and supported by data from trials.
+
+(b) The influence of passively acquired maternally derived antibodies on the efficacy of vaccines when administered to animals at an age at which maternally acquired immunity is still present shall be adequately evaluated, if appropriate.
+
+(c) The efficacy of each of the components of multivalent and combined immunological veterinary medicinal products shall be demonstrated. If the product is recommended for administration in combination with or at the same time as another veterinary medicinal product, to the efficacy of the association shall be demonstrated by appropriate studies. Any known interactions with any other veterinary medicinal products shall be described.
+
+(d) Whenever a product forms part of a vaccination scheme recommended by the applicant, the priming or booster effect or the contribution of the veterinary immunological product to the efficacy of the scheme as a whole shall be demonstrated.
+
+(e) The dose to be used shall be the quantity of the product to be recommended for use and the batch used for efficacy testing shall be taken from a batch or batches produced according to the manufacturing process described in Part 2 of the application.
+
+(f) For diagnostic immunological veterinary medicinal products administered to animals, the applicant shall indicate how reactions to the product are to be interpreted.
+
+(g) For vaccines intended to allow a distinction between vaccinated and infected animals (marker vaccines), where the efficacy claim is reliant on in vitro diagnostic tests, sufficient data on the diagnostic tests shall be provided to allow adequate assessment of the claims related to the marker properties.
+
+IIIb.4B. Pre-clinical studies
+
+(1) In principle, demonstration of efficacy shall be undertaken under well-controlled laboratory conditions by challenge after administration of the immunological veterinary medicinal product to the target animal under the recommended conditions of use. Insofar as possible, the conditions under which the challenge is carried out shall reflect the natural conditions for infection. Details of the challenge strain and its relevance shall be provided.
+
+(2) For live vaccines, the product used for efficacy testing shall be taken from a batch or batches containing the minimum titre or potency. For other products, product from batches containing the minimum active content or potency expected at the end of the period of validity shall be used, unless otherwise justified.
+
+(3) If possible, the immune mechanism (cell-mediated/humoral, local/general classes of immunoglobulin) which is initiated after the administration of the immunological veterinary medicinal product to target animals by the recommended route of administration shall be specified and documented.
+
+(4) The following shall be provided for all pre-clinical studies:
+
+(a) a summary;
+
+(c) the name of the body having carried out the studies;
+
+(d) a detailed experimental protocol giving a description of the methods, apparatus and materials used, details such as species or breed of animals, categories of animals, where they were obtained, their identification and number, the conditions under which they were housed and fed (stating, inter alia, whether they were free from any specified pathogens and/or specified antibodies, the nature and quantity of any additives contained in the feed), dose, route, schedule and dates of administration, a description and a justification of the statistical methods used;
+
+(e) in the case of control animals, whether they received a placebo or no treatment;
+
+(f) in the case of treated animals and, where appropriate, whether they received the test product or another product authorised in the Union;
+
+(g) all general and individual observations and results obtained (with averages and standard deviations), whether favourable or unfavourable. The data shall be described in sufficient detail to allow the results to be critically evaluated independently of their interpretation by the author. The individual data shall be presented in tabular form. By way of explanation and illustration, the results may be accompanied by reproductions of recordings, photomicrographs, etc.;
+
+(h) the nature, frequency and duration of observed adverse reactions;
+
+(i) the number of animals withdrawn prematurely from the studies and reasons for such withdrawal;
+
+(j) a statistical analysis of the results, where such is called for by the test programme, and variance within the data;
+
+(k) occurrence and course of any intercurrent disease;
+
+(l) all details concerning veterinary medicinal products (other than the product under study), the administration of which was necessary during the course of the study;
+
+(m) any other observations and deviations from the protocol and possible impact on the results;
+
+(n) an objective discussion of the results obtained, leading to conclusions on the safety and efficacy of the product.
+
+IIIb.4C. Clinical trials
+
+(1) Unless otherwise justified, results from pre-clinical studies shall be supplemented with data from field trials, using batches representative of the manufacturing process described in the marketing authorisation application. Both safety and efficacy may be investigated in the same field trial.
+
+(2) Where pre-clinical studies cannot be supportive of efficacy, the performance of field trials alone may be acceptable.
+
+(3) Particulars concerning field trials shall be sufficiently detailed to enable an objective judgement to be made. They shall include the following:
+
+(a) a summary;
+
+(b) a statement of compliance with good clinical practice;
+
+(c) name, address, function and qualifications of the investigator in charge;
+
+(d) place and date of administration, identity code that may be linked to the name and address of the owner of the animal(s);
+
+(e) details of the trial protocol, giving a description of the methods, apparatus and materials used, details such as the route and method of administration, the schedule of administration, the dose, the categories of animals, the duration of observation, the serological response and other investigations carried out on the animals after administration;
+
+(f) in the case of control animals, whether they received a placebo, a competitor product or no treatment;
+
+(g) identification of the treated and control animals (collective or individual, as appropriate), such as species, breeds or strains, age, weight, sex, physiological status;
+
+(h) a brief description of the method of rearing and feeding, stating the nature and quantity of any additives contained in the feed;
+
+(i) all the particulars on observations, performances and results (with averages and standard deviation); individual data shall be indicated when tests and measurements on individuals have been carried out;
+
+(j) a statistical analysis of the results, where such is called for by the test programme, and variance within the data;
+
+(k) all observations and results of the trials, whether favourable or unfavourable, with a full statement of the observations and the results of the objective tests of activity required to evaluate the product; the techniques used shall be specified and the significance of any variations in the results explained;
+
+(l) effects on the animals’ performance;
+
+(m) the number of animals withdrawn prematurely from the trials and reasons for such withdrawal;
+
+(n) the nature, frequency and duration of observed adverse reactions;
+
+(o) occurrence and course of any intercurrent disease;
+
+(p) all details concerning veterinary medicinal products (other than the product under study) which have been administered either prior to or concurrently with the test product or during the observation period; details of any interactions observed;
+
+(q) any other observations and deviations for the protocol and possible impact on the results;
+
+(r) an objective discussion of the results obtained, leading to conclusions on the safety and efficacy of the product.
+
+**SECTION IV**
+
+**REQUIREMENTS FOR SPECIFIC MARKETING AUTHORISATION APPLICATIONS**
+
+**IV.1. Applications for generic veterinary medicinal products**
+
+IV.1.1. Applications based on Article 18 (generic veterinary medicinal products) shall contain the data referred to in Parts 1 and 2 of Section II of this Annex. If required, pursuant to Article 18(7) an environmental risk assessment shall be included. In addition, the dossier shall contain data demonstrating that the product has the same qualitative and quantitative composition in active substance(s) and the same pharmaceutical form as the reference medicinal product; and data, showing bioequivalence with the reference medicinal product or a justification as to why such studies were not performed with reference to established guidance. All immediate-release oral pharmaceutical forms shall be considered to be the same pharmaceutical form.
+
+For biological (including immunological) veterinary medicinal products, the standard generic approach is in principle not considered appropriate, and a hybrid approach shall be followed (see Part IV.2.).
+
+IV.1.2. For generic veterinary medicinal products, the critical expert reports on safety and efficacy shall particularly focus on the following elements:
+
+(a) the grounds for claiming bioequivalence;
+
+(b) a summary of impurities present in batches of the active substance(s) as well as those of the finished medicinal product (and where relevant decomposition products arising during storage) together with an evaluation of those impurities;
+
+(c) an evaluation of the bioequivalence studies or other information that may provide support for claiming bioequivalence in accordance with relevant guidance published by the Agency;
+
+(d) any additional data in order to demonstrate the equivalence of safety and efficacy properties of different salts, esters or derivatives of an authorised active substance;
+
+(e) a review of the user safety risk assessment focusing on differences between the generic and reference veterinary medicinal products (for example, composition in excipients);
+
+(f) a review of environmental risk assessment, where relevant.
+
+IV.1.3. For a generic veterinary medicinal product application containing an antimicrobial substance, information about the level of resistance, as known from bibliographic data, shall be provided.
+
+IV.1.4. For a generic veterinary medicinal product containing an antiparasitic substance, information about the level of resistance, as known from bibliographic data, shall be provided.
+
+IV.1.5. For generic veterinary medicinal products intended to be administered by intramuscular, subcutaneous or transdermal routes, the following additional data shall be provided:
+
+(a) evidence to demonstrate equivalent or differing depletion of residues from the administration site, which may be substantiated by appropriate residue depletion studies;
+
+(b) evidence to demonstrate target animal tolerance at the administration site, which may be substantiated by appropriate target animal tolerance studies.
+
+**IV.2. Applications for hybrid veterinary medicinal products**
+
+IV.2.1. Applications based on Article 19 (hybrid veterinary medicinal products) concern veterinary medicinal products, which are similar to a reference veterinary medicinal product, but which do not meet the conditions in the definition of generic veterinary medicinal product.
+
+IV.2.2. For such applications, the following information shall be supplied:
+
+(a) all the data referred to in Parts 1 and 2 of Sections II or III, as appropriate, of this Annex;
+
+(b) for Parts 3 and 4 of the dossier, hybrid applications may rely in part on the results of the appropriate safety, residue, pre-clinical studies and clinical trials for an already authorised reference veterinary medicinal product, and in part on new data. New data shall include a user safety risk assessment and an environmental risk assessment in accordance with Article 18(7), if applicable. In addition, for relevant products (for example, antimicrobials, antiparasitics) the risk of development of resistance shall be addressed, if applicable.
+
+IV.2.3. In the case of biological (including immunological) veterinary medicinal products, a comprehensive comparability review, addressing the quality, safety and efficacy part shall be provided.
+
+IV.2.4. Where reference is made to data originating from another authorised veterinary medicinal product, a justification for the use and relevance of those data for the new product shall be provided.
+
+IV.2.5. The extent of new data required to support safety and efficacy will depend on the specific characteristics of the individual new product, and its differences to the reference veterinary medicinal product, and shall be determined on a case-by-case basis. New pre-clinical and clinical data for the new product shall be presented for all aspects where the reference veterinary medicinal product does not provide relevant support.
+
+IV.2.6. If new studies are conducted with batches of a reference veterinary medicinal product authorised in a third country, the applicant shall demonstrate that the reference veterinary medicinal product has been authorised in accordance with requirements equivalent to those established in the Union, and are so highly similar that they may substitute each other in the pre-clinical studies or clinical trials.
+
+**IV.3. Applications for combination veterinary medicinal products**
+
+IV.3.1. An application for a fixed combination product with individual active substances, which have already been the object of a marketing authorisation for a veterinary medicinal product in the EEA, shall be submitted under Article 20.
+
+A fixed combination product containing at least one new active substance which has not yet been authorised for a veterinary medicinal product in the EEA, shall be submitted under Article 8.
+
+IV.3.2. For applications submitted under Article 20, a full dossier containing Parts 1, 2, 3 and 4 shall be provided.
+
+IV.3.3. A sound scientific justification based on valid therapeutic principles for the combination of active substances, including clinical data, shall be provided, which demonstrates the need for and contribution of all active substances at the moment of treatment.
+
+IV.3.4. In general, all the data on the safety and efficacy shall be provided for the fixed combination product, and safety and efficacy data for the individual active substances alone are not required, except to clarify their individual pharmacological properties.
+
+IV.3.5. If data on the safety and efficacy of an individual known active substance are available to the applicant with sufficient amount of detail, those data could be provided to obviate the need for some studies with the fixed combination, or contributing relevant information. In that case, possible interaction between active substances shall also be investigated.
+
+IV.3.6. User safety assessment, environmental risk assessment, residues depletion studies, and clinical studies shall be conducted with the fixed combination product.
+
+IV.3.7. Unless the omission is justified, a target animal safety study with the final formulation shall be provided.
+
+**IV.4. Applications based on informed consent**
+
+IV.4.1. Applications based on Article 21 concern products with identical composition, pharmaceutical form and manufacturing process (including raw and starting materials, process parameters and manufacturing sites) as the already authorised veterinary medicinal products.
+
+IV.4.2. The dossier for such applications shall only include data for Part 1A and 1B, as described in Annex I (points 1 to 6.4), provided that the marketing authorisation holder for the already authorised veterinary medicinal product has given the applicant his written consent to refer to the content of Parts 1C, 2, 3 and 4 of the dossier of that product. In that case, there is also no need to submit quality, safety and efficacy critical expert reports. The applicant shall provide proof of the written consent with their application.
+
+**IV.5. Applications based on bibliographic data**
+
+IV.5.1. For veterinary medicinal products for which the active substance(s) has or have been in well-established veterinary use as referred to in Article 22, with recognised efficacy and an acceptable level of safety, the following specific rules shall apply.
+
+IV.5.2. A full dossier (containing Parts 1, 2, 3 and 4) shall be provided. The applicant shall submit Parts 1 and 2 as described in this Annex. For Parts 3 and 4, a detailed scientific bibliography together with information demonstrating the appropriate bridging between bibliographic references and the veterinary medicinal product shall be submitted to address safety and efficacy. The bibliographic data may need to be complemented by some documentation specific to the product, for example, user safety and environmental risk assessments, or residue study data to justify any proposed withdrawal period(s).
+
+IV.5.3. The specific rules set out in Part IV.5.3.1 to IV.5.3.12 shall apply in order to demonstrate well-established veterinary use.
+
+IV.5.3.1. In order to establish a well-established veterinary medicinal use of constituents of veterinary medicinal products, the following factors shall be taken into account:
+
+(a) the time over which an active substance has been regularly used in the target species using the proposed route of administration and dosage regimen;
+
+(b) quantitative aspects of the use of the active substance(s), taking into account the extent to which the substance(s) has or have been used in practice, and the extent of use on a geographical basis;
+
+(c) the degree of scientific interest in the use of the active substance(s) (reflected in the published scientific literature);
+
+(d) the coherence of scientific assessments.
+
+IV.5.3.2. Different periods of time may be necessary for establishing well-established use of different active substances. In any case, the period of time required for establishing a well-established veterinary use of a constituent of a medicinal product shall not be less than 10 years from the first systematic and documented use of that substance as a veterinary medicinal product in the Union.
+
+IV.5.3.3. Veterinary use does not exclusively mean use as an authorised veterinary medicinal product. Well-established veterinary use refers to the use for a specific therapeutic purpose in the target species.
+
+IV.5.3.4. If a substance in well-established use is proposed for entirely new therapeutic indications, it is not possible to solely refer to a well-established veterinary use. Additional data on the new therapeutic indication, together with appropriate safety and residue tests and preclinical and clinical data shall be provided and, in such a case, applications based on Article 21 is not possible.
+
+IV.5.3.5. The published documentation submitted by the applicant shall be freely available to the public and published by a reputable source, preferably peer-reviewed.
+
+IV.5.3.6. The documentation shall contain sufficient details to allow an independent assessment.
+
+IV.5.3.7. The documentation shall cover all aspects of the safety and/or efficacy assessment of the product for the proposed indication in the target species using the proposed route of administration and dosage regimen. It shall include or refer to a review of the relevant literature, taking into account pre- and post-marketing studies and published scientific literature concerning experience in the form of epidemiological studies and, in particular, of comparative epidemiological studies.
+
+IV.5.3.8. All documentation, both favourable and unfavourable, shall be communicated. With respect to the provisions on well-established veterinary use, it is in particular necessary to clarify that bibliographic reference to other sources of evidence (post-marketing studies, epidemiological studies etc.) and not just data related to tests and trials may serve as a valid proof of safety and efficacy of a product if the applicant explains and justifies the use of those sources of evidence satisfactorily.
+
+IV.5.3.9. Public assessment reports or freedom of information summaries cannot be considered to supply sufficient information, apart from the assessment report published by the Agency following the evaluation of an application for the establishment of maximum residue limits, which may be used in an appropriate manner as literature, particularly for the safety tests.
+
+IV.5.3.10. Particular attention shall be paid to any missing information, and justification shall be given as to why demonstration of an acceptable level of safety and/or efficacy may be supported although some information is lacking.
+
+IV.5.3.11. The critical expert reports regarding safety and efficacy shall explain the relevance of any data submitted, which concern a product different from the product intended for marketing. A judgement shall be made whether or not the product studied in the bibliography may be satisfactorily or scientifically bridged to the product, for which the application for a marketing authorisation has been made in spite of the existing differences.
+
+IV.5.3.12. Post-marketing experience with other products containing the same constituents is of particular importance and applicants shall put a special emphasis on this issue.
+
+**IV.6. Applications for limited markets**
+
+IV.6.1. A marketing authorisation may be granted for a limited market in the absence of comprehensive safety and/or efficacy data when, as provided for in Article 23, the applicant demonstrates that the product is intended for use in a limited market and that the benefit of availability of the new product outweighs the risk associated with the omission of some of the safety or efficacy data required by this Annex.
+
+IV.6.2. For such applications, the applicant shall submit Parts 1 and 2 as described in this Annex.
+
+IV.6.3. For Parts 3 and 4, some of the safety or efficacy data required by this Annex may be omitted. As regards the extent of safety and efficacy data that may be omitted, the relevant guidance published by the Agency shall be taken into account.
+
+**IV.7. Applications in exceptional circumstances**
+
+IV.7.1. In exceptional circumstances related to animal or public health, a marketing authorisation may be granted under Article 25 for a veterinary medicinal product, subject to certain specific obligations, conditions and/or restrictions.
+
+IV.7.2. For such applications, the applicant shall submit Part 1 as described in this Annex, together with a justification as to why the benefit of the immediate availability on the market of the veterinary medicinal product concerned outweighs the risk inherent in the fact that certain quality, safety or efficacy documentation has not been provided.
+
+IV.7.3. For Parts 2, 3 and 4, certain quality, safety or efficacy data required by this Annex may be omitted, if the applicant justifies that those data cannot be provided at the time of submission. For the identification of the essential requirements for all such applications, the relevant guidance published by the Agency shall be taken into account.
+
+IV.7.4. Post-authorisation studies may be requested as part of the conditions for marketing authorisation, and shall be designed, conducted, analysed and presented according to the general principles for quality, safety and efficacy tests set out in this Annex, and relevant guidance documents, as applicable depending on the issue to be addressed in the study.
+
+**SECTION V**
+
+**REQUIREMENTS FOR MARKETING AUTHORISATION APPLICATIONS FOR PARTICULAR VETERINARY MEDICINAL PRODUCTS**
+
+This Section lays down specific requirements for identified veterinary medicinal products related to the nature of the active substances contained therein.
+
+**V.1. Novel therapies veterinary medicinal products**
+
+**V.1.1 General requirements**
+
+V.1.1.1. Depending on the active substance and the mode of action, a novel therapy veterinary medicinal product could fall under any of the three product categories:
+
+(a) veterinary medicinal products other than biological veterinary medicinal products;
+
+(b) biological veterinary medicinal products other than immunological veterinary medicinal products;
+
+(c) immunological veterinary medicinal products.
+
+V.1.1.2. In general, marketing authorisation applications for novel therapy veterinary medicinal products, as defined in Article 4(43), shall follow the format and data requirements described in Section II or III of this Annex depending on how the novel therapy is categorised. A full dossier containing Parts 1, 2, 3 and 4 shall normally be provided in accordance with the requirements described in Section II or III and any relevant guidance published by the Agency. Deviations from the requirements of this Annex may be possible when justified. Where appropriate and taking into account the specificities of novel therapy products, additional requirements may be relevant for particular types of products.
+
+V.1.1.3. The manufacturing processes for novel therapy veterinary medicinal products shall comply with the principles of Good Manufacturing Practice (GMP) adapted where necessary, to reflect the specific nature of those products. Guidelines specific to novel therapy veterinary products shall be drawn up, to properly reflect the particular nature of their manufacturing process.
+
+V.1.1.4. According to the specific nature of a novel therapy product the use of the product may potentially be associated with specific risks. Those risks shall be identified applying a risk profiling methodology to identify the risks inherent to the specific product and the risk factors contributing to those risks. In this context, risks would be any potential unfavourable effects that may be attributed to the use of the novel therapy product which are of concern to the target population and/or the user, the consumer, and/or the environment. The risk analysis may cover the entire development. Risk factors that may be considered include the origin of the starting material (cells etc.), the mode of action in the animal (proliferation, initiation of an immune response, permanence in the body, etc.), the level of cell manipulation (for example, the manufacturing process), the combination of the active substance with bioactive molecules or structural materials, the extent of replication competence of viruses or micro-organisms used in vivo, the level of integration of nucleic acids sequences or genes into the genome, the long-time functionality, the risk of oncogenicity, the off-target effects and the mode of administration or use.
+
+V.1.1.5. Based on the evaluation of the information on the identified risks and risk factors a specific profile of each individual risk associated with a specific product shall be established and may be used to determine and justify how the data set provided gives the necessary assurances for quality, safety and efficacy and is adequate to support a marketing authorisation application, especially for those aspects of novel therapy products that are beyond current knowledge.
+
+V.1.1.6. To address data gaps or uncertainties at the time of product authorisation, implementation of post-authorisation measures or studies may be considered on a case-by-case basis. In order to detect early or delayed signals of adverse reactions, to prevent clinical consequences of such reactions and to ensure timely treatment and to gain information on the long-term safety and efficacy of novel therapy veterinary medicinal products a risk management plan shall detail the measures envisaged to ensure such follow up.
+
+V.1.1.7. For any novel therapy product, in particular those considered as a nascent field in veterinary medicine, it is recommended to seek the advice of the Agency in a timely manner before submission of the marketing authorisation dossier in order to classify the product, determine the applicable dossier structure and to receive relevant information about the additional data set which may be necessary to support quality, safety and efficacy.
+
+**V.1.2. Quality requirements**
+
+V.1.2.1. In general, description of the composition, the manufacturing method, consistency of production, controls of starting materials, controls implemented during the manufacturing process, finished product testing including implementation of an activity test or a quantification of the active substance and stability data shall be submitted.
+
+V.1.2.2. The data requirements for manufacturing and testing for novel therapy veterinary medicinal products of biological origin and classified as a biological product or as an immunological product shall in general be in accordance with those for biological or immunological medicinal products (as described in Section III of this Annex) including the need for a relevant potency test. There may be cases where additional requirements are applicable, for example, cells and vector gene constructs.
+
+V.1.2.3. For novel therapy veterinary medicinal products constructed by chemical synthesis, data requirements as for veterinary medicinal products other than biological products (as described in Section II of this Annex) are generally applicable. There may be cases where additional requirements are applicable, for example, a relevant potency test.
+
+**V.1.3. Safety requirements**
+
+V.1.3.1. Depending on the nature of the product and its intended use, further data to evaluate safety for the target animal, the user, the consumer or the environment could be relevant as determined by a risk analysis in each case.
+
+V.1.3.2. The requirements of Directive 2001/18/EC shall be taken into consideration when the treated animal itself could become a genetically modified organism. While Directive 2001/18/EC applies to finished products containing genetic modified organisms, it remains the best technical guide currently available for listing the necessary data. In particular, a main issue is the integration rate of DNA into germ cells (thus transmissible to offspring) or the potential transmission of the genetically modified cells to offspring. It shall also be noted that this problem is not completely the same when considering companion animals and food-producing animals (human consumption of products containing genetic modified organisms).
+
+V.1.3.3. For substances intended for integration into or editing of the genome, appropriate tests shall be performed to evaluate the risk of off-target modifications and/or insertional mutagenesis.
+
+**V.1.4. Efficacy requirements**
+
+V.1.4.1. Efficacy data requirements differ primarily depending on the intended indications for use in the target species. Depending on the novel therapy product categorisation and the intended use in the target species, the efficacy requirements set out in Sections II or III may be applicable for a novel therapy veterinary medicinal product.
+
+V.1.4.2. The indications claimed shall be supported by appropriate data in the target species.
+
+**V.1.5. Specific data requirements for particular types of novel therapy products**
+
+V.1.5.1. Principles
+
+V.1.5.1.1. Taking into account the specificities of novel therapy products, specific requirements additional to the standard requirements for evaluation of quality, safety and efficacy may be appropriate.
+
+V.1.5.1.2. The following sections highlight specific requirements to be considered for particular type of novel therapy products. Those specific requirements established for a particular type of novel therapy product represent a non-exhaustive list of requirements that may need to be adapted to the specific product concerned on a case-by-case basis and based on a risk analysis.
+
+V.1.5.1.3. In all cases and especially for novel therapies that are considered nascent in the field of veterinary medicine, applicants will need to take into account the current state of veterinary medicinal knowledge and the scientific guidance published by the Agency and the Commission, consistent with Section I of this Annex.
+
+V.1.5.2. Gene therapy veterinary medicinal products
+
+V.1.5.2.1. Gene therapy products are biological veterinary medicinal products that contain an active substance which contains or consists of a recombinant nucleic acid used in or administered to animals with a view to regulating, repairing, replacing, adding or deleting a genetic sequence. Their therapeutic, prophylactic or diagnostic effect relates directly to the recombinant nucleic acid sequence they contain, or to the product of genetic expression of this sequence.
+
+V.1.5.2.2. In addition to the data requirements set out in Sections II or III the following requirements shall apply:
+
+(a) information shall be provided on all the starting materials used for the manufacture of the active substance, including the products necessary for the genetic modification of cells, as applicable, subsequent culture and preservation of the genetically modified cells, taking into consideration the possible absence of purification steps;
+
+(b) for products containing a microorganism or a virus, data on the genetic modification, sequence analysis, attenuation of virulence, tropism for specific tissues and cell types, cell cycle dependence of the microorganism or virus, pathogenicity and characteristics of the parental strain shall be provided;
+
+(c) process-related impurities and product-related impurities shall be described in the relevant sections of the dossier and in particular replication competent virus contaminants if the vector is designed to be replication incompetent;
+
+(d) for plasmids, quantification of the different plasmid forms shall be undertaken throughout the shelf life of the product;
+
+(e) for genetically modified cells, the characteristics of the cells before and after the genetic modification, as well as before and after any subsequent freezing/storage procedures, shall be tested. For genetically modified cells, in addition to the specific requirements for gene therapy medicinal products, the quality requirements for cell therapy medicinal products and tissue engineered products shall apply;
+
+(f) off-target insertions (leading, for example, to tumours/cancer, metabolic dysfunctions) and insertional mutagenesis and genotoxicity (insertion of genetic elements and the expression of DNA-modifying proteins as mediators of genotoxic side effects) in target species need to be considered;
+
+(g) germline transmission studies shall be provided, unless otherwise justified.
+
+V.1.5.3. Regenerative medicine, tissue engineering and cell therapy veterinary medicinal products
+
+V.1.5.3.1. Regenerative medicines are considered to encompass a wide area of products and therapies with a general purpose of restoring functions. Those medicines include cell-based therapies in which tissue engineered products are included.
+
+V.1.5.3.2. Cell therapy veterinary medicinal products are biological veterinary medicinal products that contain or consist of cells or tissues that have been subject to substantial manipulation in either nature or function so that biological characteristics, physiological functions or structural properties relevant for the intended clinical use have been altered, or of cells or tissues that are not intended to be used for the same essential function(s) in the recipient and the donor. They are presented as having properties for, or are used in or administered to animals with a view to treating, preventing or diagnosing a disease through the pharmacological, immunological or metabolic action of its cells or tissues or to regenerating, repairing or replacing a tissue.
+
+V.1.5.3.3. In addition to the data requirements set out in Sections II or III the following requirements shall apply:
+
+(a) summary information shall be provided on procurement and testing of the animal tissue and cells used as starting materials. If non-healthy cells or tissues are used as starting materials, their use shall be justified;
+
+(b) the potential variability introduced through the animal tissues and cells shall be addressed as part of the validation of the manufacturing process, characterisation of the active substance and the finished product, development of assays, setting of specifications and stability;
+
+(c) for the genetic modification of the cells, the technical requirements specified for gene therapy products shall apply;
+
+(d) relevant information shall be provided on the characterisation of the cell population or cell mixture in terms of identity, purity (for example, extraneous agents and cellular contaminants), viability, potency, karyology, tumourigenicity and suitability for the intended medicinal use. The genetic stability of the cells shall be demonstrated;
+
+(e) the impact and interactions of any components likely to interact (directly or as a result of degradation or metabolism) with the active substance shall be investigated;
+
+(f) where a three-dimensional structure is part of the intended function, the differentiation state, structural and functional organisation of the cells and, where applicable, the extracellular matrix generated shall be part of the characterisation for those cell-based products.
+
+V.1.5.4. Veterinary medicinal product specifically designed for phage therapy
+
+V.1.5.4.1. Bacteriophages are viruses that depend on bacterial hosts for proliferation and act very specifically on certain bacterial strains. Phage therapy may be used, for example, as an alternative to antibiotics. Generally, bacteriophages consist of a genome, comprised of single or double stranded DNA or RNA, encapsulated by a protein capsid. Due to the diversity of the intended targets for treatment and the specificity of the bacteriophages, it will be necessary to choose the suitable bacteriophage strain against the disease-causing bacterial strain on a case-by-case basis for the individual outbreak of the disease.
+
+V.1.5.4.2. The quality and quantity of the bacteriophages to be used in the finished product are normally variable. Therefore, a fixed qualitative and quantitative composition of bacteriophages will not be the usual situation as the phages need to be adapted on an ongoing basis. Based on this a seed stock of bacteriophages strains need to be established and maintained (comparable with a multi-strain approach).
+
+V.1.5.4.3. Bacteriophages as well as host bacteria/master cell banks for manufacturing shall preferably be produced based on a master seed system. Confirmation shall be provided that the bacteriophage used is lytic.
+
+V.1.5.4.4. The absence of resistance gene(s) and the absence of genes coding for virulence factors shall be shown on all master seeds.
+
+V.1.5.4.5. The indication shall be for prophylactic, metaphylactic and/or therapeutic treatment of one or several specific infection(s) or infectious disease(s). Efficacy of treatment is linked to the lytic activity of phages that confers bactericidal activity on those bacteriophages with specificity for the bacterial strain concerned.
+
+V.1.5.4.6. For genetically modified phages, the genetic modification shall be described.
+
+V.1.5.5. Veterinary medicinal product issued from nanotechnologies
+
+V.1.5.5.1. Nanotechnologies are seen primarily as a technology to generate carriers for chemically synthesised substances but may also be carriers for biological substances. The use of nanoparticles may be a way of controlling delivery of substances with low solubility or toxic compounds.
+
+V.1.5.5.2. ‘Nanotechnology’ corresponds to the design, characterisation, and production of nanomaterials by controlling shape and size at the nanoscale (up to around 100 nm).
+
+V.1.5.5.3. ‘Nanoparticles’ are considered to have two or more dimensions at the nanoscale.
+
+V.1.5.5.4. Within the veterinary field, nanoparticles for drug delivery system are relevant as ‘products issued from nanotechnologies’: nanoparticles are conjugated with substances in order to change the pharmacokinetic and/or pharmacodynamic properties. mRNA drugs are rather encapsulated in nanoparticle delivery systems.
+
+V.1.5.5.5. In addition to the quality data requirements set out in Sections II or III the following requirements shall apply:
+
+(a) size distribution of particles shall be determined;
+
+(b) a suitable in vitro test for their function and possible delivery capacity (if used as drug delivery system) shall be used.
+
+V.1.5.5.6. With regard to safety, the kind of hazards that are introduced by using nanoparticles for drug delivery may be beyond conventional hazards imposed by chemicals in classical delivery matrices. Therefore, the following aspects shall be considered with regard to safety:
+
+(a) The nanoparticles for drug delivery could influence the toxicity of the medicinal product. The toxicity of the active substance is pivotal to the product but the toxicity of the nanoparticle for drug delivery shall also be considered, as they may introduce specific risks (agglomerates, cytotoxicity), may convey impurities by adsorption, may generate toxic materials by degradation or solubilisation, or may be transferred through physiological barrier (haemato-encephalic, foeto-placental, cell and nuclear membranes, etc.). In this context:
+
+(i) when physiological barriers are crossed, the impact of nanoparticles for drug delivery shall be investigated on the corresponding organ(s);
+
+(ii) the impact of agglomerates shall be investigated in the different targeted organs, focusing in particular on the risk of embolism in the smaller blood vessels;
+
+(iii) safety issues of the nanoparticles for drug delivery may be linked to a cumulative effect, a degradation profile or persistence in the body with negative effects on the functions of the targeted organs;
+
+(iv) safety issues might also be perceived at the cell level. Cells might not always be able to eliminate the nanoparticles conveyed through the cell membrane, leading to cytotoxicity especially via the induction of an oxidative stress. The toxicological assays to be implemented shall be able to assess this cytotoxicity and the related aspects, such as the generation of toxic free radicals and biopersistence.
+
+(b) The toxicology profile of the active substances contained in nanoparticles for drug delivery may differ as they may be distributed differently into various internal organs (different solubility in biological matrices), or as they may unexpectedly cross various biological barriers within the body, such as the brain barrier.
+
+(c) The side effects linked to the active substances may be exacerbated when they are delivered by nanoparticles.
+
+(d) Immunosafety issues such as immunotoxicity (direct damage to immune cells), immunostimulation, immunosuppression and immunomodulation (such as complement activation, inflammation, activation of the innate or adaptive immunity), were already identified for nanomedicines.
+
+(e) The capacity of nanoparticles to create inflammatory or allergic reactions shall be considered. The capacity to penetrate into the blood stream and to induce inflammatory reactions may lead to disseminated intravascular coagulation or fibrinolysis with further consequences such as thrombosis. The haemocompatibility of the nanoparticles shall therefore be checked.
+
+V.1.5.6. RNA antisense therapy and RNA interference therapy products
+
+V.1.5.6.1. Antisense therapy and interference therapy products may be generated by synthesis or through recombinant techniques.
+
+V.1.5.6.2. Antisense RNA is a single stranded RNA that is complementary to a protein coding messenger RNA with which it hybridises, and thereby blocks its translation into protein.
+
+V.1.5.6.3. RNA interference is a biological process in which RNA molecules inhibit gene expression or translation, by neutralising targeted mRNA molecules.
+
+V.1.5.6.4. In addition to the data requirements set out in Sections II or III the following requirements shall apply:
+
+(a) the minimum amount of RNA segments per volume needs to be established as part of control tests of the finished product, as well as the confirmation that the RNA segments present the correct sequence;
+
+(b) for certain antisense therapy products falling under Section II of this Annex a potency bioassay may be needed for their release testing;
+
+(c) stability studies shall include a test to monitor the degradation rate of the RNA segments over time;
+
+(d) for RNA antisense therapy products, the possible harmful effects due to on- or off-target binding shall be addressed as well as possible non-antisense harmful effects due to, for example, accumulation, pro-inflammatory responses and aptamer binding;
+
+(e) for RNAi therapy products, the possible harmful effects of off-target interference (due to the positive RNAi strand) shall be addressed, as well as the possibility of crossing the blood-brain barrier and causing central nervous system disorders;
+
+(f) for RNA antisense therapy and RNA interference therapy products intended for gene therapy the requirements for gene therapy veterinary medicinal product shall be considered.
+
+**V.2. Vaccine Antigen Master File**
+
+For particular immunological veterinary medicinal products and by derogation from Section IIIb, Part 2, the concept of a Vaccine Antigen Master File is introduced.
+
+V.2.1. Principles
+
+V.2.1.1. For the purpose of this Annex, a Vaccine Antigen Master File means a stand-alone part of the marketing authorisation application dossier for a vaccine, which contains all relevant information on quality concerning each of the active substances, which are part of the veterinary medicinal product. The stand-alone part may be common to one or more monovalent and/or combined vaccines presented by the same applicant or marketing authorisation holder.
+
+V.2.1.2. The use of Vaccine Antigen Master Files is optional. For combined vaccines, the vaccine antigen(s) to be included in Vaccine Antigen Master File(s) shall be specified and a separate Vaccine Antigen Master File shall be required for each of them.
+
+V.2.1.3. The submission and approval of a Vaccine Antigen Master File shall comply with the relevant guidance published by the Agency.
+
+V.2.2. Content
+
+The Vaccine Antigen Master File dossier shall contain the information in Parts V.2.2.1 to V.2.3.3 extracted from the relevant sections of Part 1 (Summary of the dossier) and Part 2 (Quality documentation) as set out in Section IIIb of this Annex:
+
+V.2.2.1. Summary of the dossier (Part 1)
+
+The name and address of the manufacturer(s) and the site(s) involved in the different stages of manufacture and control of the active substance, accompanied by copies of the corresponding manufacturing authorisations, shall be given.
+
+V.2.2.2. Qualitative and quantitative particulars of the constituents (Part 2.A)
+
+The complete and exact name of the active substance (for example, virus or bacteria strain, antigen) shall be provided, in the same way as mentioned in any finished product. Information on product development relevant to the active substance shall be provided.
+
+V.2.2.3. Description of the manufacturing method (Part 2.B)
+
+The description of the manufacturing method for the active substance shall be provided including validation of the key stages of production and justification, if relevant, of any intermediate storage proposed. For inactivated vaccines, data relevant to the inactivation of the active substance, including the validation of the inactivation process shall be provided.
+
+V.2.2.4. Production and control of starting materials (Part 2.C)
+
+V.2.2.4.1. The standard requirements described in Section IIIb.2C and relevant to the active substance shall apply.
+
+V.2.2.4.2. Information on the active substance (for example, virus/bacteria strain), the substrate/s (cells, culture medium) and all the raw materials (pharmacopoeia or non-pharmacopoeia, biological or non-biological) used in the production of the active substance shall be provided.
+
+V.2.2.4.3. The dossier shall include the specifications, information on the processes implemented and on the tests to be conducted for the quality control of all batches of starting materials and results for a batch for all components used.
+
+V.2.2.4.4. TSE and extraneous agents (EA) risk assessment shall be provided, where applicable. It is to be noted that the target species retained for the finished products making reference to the Vaccine Antigen Master File shall be considered for the TSE and EA risk assessment. Warnings or restrictions of use may be brought in at the Vaccine Antigen Master File level depending on the information presented, which may be mitigated during the risk analysis at the level of the finished product.
+
+V.2.2.4.5. If the active substance is obtained by recombinant techniques, all corresponding relevant data on the genetically modified virus/bacteria shall be provided.
+
+V.2.2.5. Control tests during the manufacturing process (Part 2.D)
+
+The standard requirements described in Section IIIb.2D shall apply for the in-process control tests carried out during the manufacture of the active substance, including validations of key control tests and, if relevant, any intermediate storage proposed (prior to blending).
+
+V.2.2.6. Batch-to-batch consistency (Part 2.F)
+
+The standard requirements described in Section IIIb.2F shall apply for the demonstration of consistency in the manufacture of the antigen.
+
+V.2.2.7. Stability (Part 2.G)
+
+The standard requirements described in Section IIIb.2G to demonstrate the stability of the antigen and, where relevant any intermediate storage, shall apply.
+
+V.2.3. Evaluation and certification
+
+V.2.3.1. For vaccines containing new vaccine antigen(s) where no Vaccine Antigen Master File already exists, the applicant shall submit to the Agency a full marketing authorisation application dossier including all the Vaccine Antigen Master Files corresponding to each single vaccine antigen for which the use of a Vaccine Antigen Master File is intended. A scientific and technical evaluation of each Vaccine Antigen Master File shall be carried out by the Agency. A positive evaluation shall result in a certificate of compliance with Union legislation for each Vaccine Antigen Master File, which shall be accompanied by the evaluation report. The certificate shall apply throughout the Union.
+
+V.2.3.2. Part V.2.3.1 shall also apply to every vaccine, which consists of a novel combination of vaccine antigens, irrespective of whether or not one or more of those vaccine antigens are part of vaccines already authorised in the Union.
+
+V.2.3.3. Changes to the content of a Vaccine Antigen Master File for a vaccine authorised in the Union shall be subject to a scientific and technical evaluation carried out by the Agency. In the case of a positive evaluation, the Agency shall issue a certificate of compliance with Union legislation for the Vaccine Antigen Master File. The certificate issued shall apply throughout the Union.
+
+**V.3. Multi-strain dossier**
+
+V.3.1. For certain immunological veterinary medicinal products and by derogation from the provisions of Section IIIb, Part 2, the concept of the use of a multi-strain dossier is introduced.
+
+V.3.2. A multi-strain dossier means a single dossier containing the relevant data for a unique and thorough scientific assessment of the different options of strains/combinations of strains permitting the authorisation of inactivated vaccines against antigenically variable viruses or bacteria for which rapid or frequent change in the composition of vaccine formulations is needed to ensure efficacy with regard to the epidemiological situation in the field. According to the epidemiological situation where the vaccine is intended to be used, a number of strains could be selected from those included in the dossier to formulate a final product.
+
+V.3.3. Each multi-strain dossier is applicable only to one virus species, bacteria genus or vector for a given disease; mixtures of various viruses belonging to different families, genera, species or bacteria belonging to different families or genera cannot be approved in the context of a multi-strain dossier.
+
+V.3.4. For new applications to multi-strain dossier marketing authorisations where no authorised multi-strain vaccine already exists for a particular virus/bacterium/disease, eligibility for the multi-strain dossier approach shall be confirmed by the Agency before submission of the application.
+
+V.3.5. The submission of multi-strain dossiers shall comply with relevant guidance published by the Agency.
+
+**V.4. Vaccine platform technology**
+
+V.4.1. Principles
+
+V.4.1.1. Vaccine platform technology is a collection of technologies that have in common the use of a ‘backbone’ carrier or vector that is modified with a different antigen or set of antigens for each vaccine derived from the platform. This includes, but may not be limited to, protein-based platforms (virus-like particles), DNA vaccine platforms, mRNA based platforms, replicons (self-replicating RNA) and viral and bacterial vector vaccines.
+
+V.4.1.2. Applications for marketing authorisations of immunological veterinary medicinal products manufactured based on vaccine platform technologies are considered to be eligible for reduced data requirements. A full dossier is required for the first product from a manufacturer based on a particular platform technology for a particular target species. At the time of submission of the first (full) dossier based on the platform technology, the applicant may submit in parallel a ‘Platform Technology Master File’ comprising all data relative to the platform for which there is reasonable scientific certainty that will remain unchanged regardless of the antigen(s)/gene(s) of interest added to the platform. The nature of the data to be included in the Platform Technology Master File will depend on the type of platform.
+
+V.4.1.3. Once a Platform Technology Master File is certified, the certificate may be used to fulfil the relevant data requirements in subsequent applications for marketing authorisations based on the same platform and intended for the same target species.
+
+**V.4.2. Evaluation and certification**
+
+V.4.2.1. The submission of Platform Technology Master Files shall comply with relevant guidance published by the Agency. A scientific and technical evaluation of a Platform Technology Master File shall be carried out by the Agency. A positive evaluation shall result in a certificate of compliance with Union legislation for the Platform Technology Master File, which shall be accompanied by the evaluation report. The certificate shall apply throughout the Union.
+
+V.4.2.2. Changes to the content of a Platform Technology Master File for a vaccine authorised in the Union shall be subject to a scientific and technical evaluation carried out by the Agency.
+
+V.4.2.3. In the case of a positive evaluation the Agency shall issue a certificate of compliance with Union legislation for the Platform Technology Master File.
+
+**V.5. Authorised homeopathic veterinary medicinal products**
+
+V.5.1. Quality (Part 2)
+
+The provisions of Section II.2. Part 2 shall apply to the documents for authorisation of homeopathic veterinary medicinal products referred to in Article 85(2) with the following modifications.
+
+V.5.2. Terminology
+
+The Latin name of the homeopathic stock described in the marketing authorisation application dossier shall be in accordance with the Latin title of the European Pharmacopoeia or, in absence thereof, of an official pharmacopoeia of a Member State. Where relevant the traditional name(s) used in each Member State shall be provided.
+
+V.5.3. Control of starting materials
+
+The particulars and documents on the starting materials, that is to say, all of the materials used including raw materials and intermediates up to the final dilution to be incorporated into the finished authorised homeopathic veterinary medicinal product, accompanying the application, shall be supplemented by additional data on the homeopathic stock.
+
+The general quality requirements shall apply to all of the starting and raw materials as well as intermediate steps of the manufacturing process up to the final dilution to be incorporated into the finished homeopathic product. Where a toxic component is present, this shall be controlled, if possible, in the final dilution. If this is not possible because of the high dilution, the toxic component shall normally be controlled at an earlier stage. Every step of the manufacturing process from the starting materials up to the final dilution to be incorporated into the finished product shall be fully described.
+
+Where dilutions are involved, those dilution steps shall be done in accordance with the homeopathic manufacturing methods laid down in the relevant monograph of the European Pharmacopoeia or, in absence thereof, in an official pharmacopoeia of a Member State.
+
+V.5.4. Control tests on the finished medicinal product
+
+The general quality requirements shall apply to the homeopathic finished veterinary medicinal products. Any exception shall be duly justified by the applicant.
+
+Identification and assay of all the toxicologically relevant constituents shall be carried out. If justified that identification and/or an assay on all the toxicologically relevant constituents is not possible, for example, due to their dilution in the finished medicinal product the quality shall be demonstrated by complete validation of the manufacturing and dilution process.
+
+V.5.5. Stability tests
+
+The stability of the finished product shall be demonstrated. Stability data from the homeopathic stocks are generally transferable to dilutions/potentisations obtained thereof. If no identification or assay of the active substance is possible due to the degree of dilution, stability data of the pharmaceutical form may be considered.
+
+V.5.6. Safety documentation (Part 3)
+
+Part 3 shall apply to homeopathic veterinary medicinal products referred to in Article 4(10) of this Regulation with the following specification, without prejudice to the provisions of Commission Regulation (EU) No 37/2010 ( 20 ) on pharmacologically active substances and their classification regarding maximum residue limits in foodstuffs of animal origin.
+
+Any missing information shall be justified, for example, justification shall be given as to why demonstration of an acceptable level of safety may be supported, even where some studies are lacking.
+
+## ANNEX III
+
+**LIST OF THE OBLIGATIONS REFERRED TO IN ARTICLE 136(1)**
+
+(1) the obligation, as an applicant, to provide accurate information and documentation as referred to in Article 6(4);
+
+(2) the obligation to provide, in an application submitted in accordance with Article 62, the data referred to in point (b) of paragraph 2 of that Article;
+
+(3) the obligation to comply with the conditions referred to in Articles 23 and 25;
+
+(4) the obligation to comply with conditions included in the marketing authorisation of the veterinary medicinal product, as referred to in Article 36(1);
+
+(5) the obligation to introduce any necessary variation to the terms of the marketing authorisation to take account of technical and scientific progress and enable the veterinary medicinal products to be manufactured and checked by means of generally accepted scientific methods, as provided for in Article 58(3);
+
+(6) the obligation to keep up to date the summary of product characteristics, package leaflet and labelling with current scientific knowledge, as provided for in Article 58(4);
+
+(7) the obligation to record in the product database the dates when its authorised veterinary medicinal products are placed on the market and information on the availability for each veterinary medicinal product in each relevant Member State and, as applicable, the dates of any suspension or revocation of the marketing authorisations concerned, as well as data relating to the volume of sales of the medicinal product, as provided in Article 58(6) and (11) respectively;
+
+(8) the obligation to provide within the time limit set at the request of a competent authority or the Agency any data demonstrating that the benefit-risk balance remains positive, as provided for in Article 58(9);
+
+(9) the obligation to supply any new information which may entail a variation to the terms of the marketing authorisation, to notify any prohibition or restriction imposed by the competent authorities of any country in which the veterinary medicinal product is marketed, or to supply any information that may influence the evaluation of the risks and benefits of the medicinal product, as provided for in Article 58(10);
+
+(10) the obligation to place the veterinary medicinal product on the market in accordance with the content of the summary of the product characteristics and the labelling and package leaflet as contained in the marketing authorisation;
+
+(11) the obligation to record and report suspected adverse events for their veterinary medicinal products, in accordance with Article 76(2);
+
+(12) the obligation to collect specific pharmacovigilance data additional to the data listed in Article 73(2) and to carry out post-marketing surveillance studies in accordance with Article 76(3);
+
+(13) the obligation to ensure that public announcements relating to information on pharmacovigilance concerns are presented objectively and are not misleading and to notify them to the Agency, as provided for in Article 77(11);
+
+(14) the obligation to operate a pharmacovigilance system for the fulfilment of pharmacovigilance tasks, including maintenance of a pharmacovigilance system master file in accordance with Article 77;
+
+(15) the obligation to submit, at the request of the Agency, a copy of its pharmacovigilance system master file(s), as provided for in Article 79(6);
+
+(16) the obligation to carry out signal management process and to record the results and outcomes of that process in accordance with Article 81(1) and (2);
+
+(17) the obligation to provide to the Agency all available information relating to the Union interest referral, as referred to in Article 82(3).
+
+## ANNEX IV
+
+**CORRELATION TABLE**
+
+| Directive 2001/82/EC | This Regulation |
+| --- | --- |
+| Article 1 | Article 4 |
+| Article 2(1) | Article 2(1) |
+| Article 2(2) | Article 3 |
+| Article 2(3) | Article 2(2),(3) and (4) |
+| Article 3 | Article 2(4) |
+| Article 4(2) | Article 5(6) |
+| Article 5 | Article 5 |
+| Article 5(1) second sentence | Article 38(3) |
+| Article 5(2) | Article 58(1) |
+| Article 6(1), (2) | Article 8(3) |
+| Article 6(3) | Article 8(4) |
+| Article 7 | Article 116 |
+| Article 8 | Article 116 |
+| Article 8 third sentence |  |
+| Article 9 | Article 9 |
+| Article 10 | Article 112 |
+| Article 11 | Articles 113, 114 and 115 |
+| Article 12 | Article 8 |
+| Article 13(1) | Article 18 |
+| Article 13(2) | Article 4(8) and (9) |
+| Article 13(3),(4) | Article 19 |
+| Article 13(5) | Articles 38, 39 and 40 |
+| Article 13(6) | Article 41 |
+| Article 13a | Article 22 |
+| Article 13b | Article 20 |
+| Article 13c | Article 21 |
+| Article 14 | Article 35 |
+| Article 16 | Article 85 |
+| Article 17 | Article 86 |
+| Article 18 | Article 87 |
+| Article 19 | Article 85 |
+| Article 20 | Article 85 |
+| Article 21(1) | Article 47 |
+| Article 21(2) | Article 46 |
+| Article 22 | Article 48 |
+| Article 23 | Articles 28 and 29 |
+| Article 24 | Article 30 |
+| Article 25 | Article 33 |
+| Article 26(3) | Articles 25 and 26 |
+| Article 27 | Article 58 |
+| Article 27a | Article 58(6) |
+| Article 27b | Article 60 |
+| Article 28 | Article 5(2) |
+| Article 30 | Article 37 |
+| Article 31 | Articles 142 and 143 |
+| Article 32 | Articles 49 and 52 |
+| Article 33 | Article 54 |
+| Article 35 | Article 82 |
+| Article 36 | Article 83 |
+| Article 37 | Article 84 |
+| Article 38 | Article 84 |
+| Article 39 | Article 60 |
+| Article 40 | Article 129 |
+| Article 44 | Article 88 |
+| Article 45 | Article 89 |
+| Article 46 | Article 90 |
+| Article 47 | Article 90 |
+| Article 48 | Article 92 |
+| Article 49 | Article 90 |
+| Article 50 | Articles 93 and 96 |
+| Article 50a | Article 95 |
+| Article 51 | Article 89 |
+| Article 52 | Article 97 |
+| Article 53 | Article 97 |
+| Article 55 | Article 97 |
+| Article 56 | Article 97 |
+| Article 58 | Articles 10 and 11 |
+| Article 59 | Article 12 |
+| Article 60 | Article 11(4) |
+| Article 61 | Article 14 |
+| Article 64 | Article 16 |
+| Article 65 | Articles 99 and 100 |
+| Article 66 | Article 103 |
+| Article 67 | Article 34 |
+| Article 68 | Article 103 |
+| Article 69 | Article 108 |
+| Article 70 | Article 111 |
+| Article 71 | Article 110 |
+| Article 72 | Article 73 |
+| Article 73 | Articles 73 and 74 |
+| Article 74 | Article 78 |
+| Article 75 | Article 77 |
+| Article 76 | Article 79 |
+| Article 78(2) | Article 130 |
+| Article 80 | Article 123 |
+| Article 81 | Article 127 |
+| Article 82 | Article 128 |
+| Article 83 | Articles 129 and 130 |
+| Article 84 | Article 134 |
+| Article 85(1),(2) | Article 133 |
+| Article 85(3) | Articles 119 and 120 |
+| Article 87 | Article 79(2) |
+| Article 88 | Article 146 |
+| Article 89 | Article 145 |
+| Article 90 | Article 137 |
+| Article 93 | Article 98 |
+| Article 95 | Article 9(2) |
+| Article 95a | Article 117 |
+
+( 1 ) Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (OJ L 268, 18.10.2003, p. 29).
+
+( 2 ) Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (OJ L 167, 27.6.2012, p. 1).
+
+( 3 ) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (OJ L 84, 31.3.2016, p. 1).
+
+( 4 ) Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001 on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC (OJ L 106, 17.4.2001, p. 1).
+
+( 5 ) Council Directive 96/22/EC of 29 April 1996 concerning the prohibition on the use in stockfarming of certain substances having a hormonal or thyrostatic action and of ß-agonists, and repealing Directives 81/602/EEC, 88/146/EEC and 88/299/EEC (OJ L 125, 23.5.1996, p. 3).
+
+( 6 ) Commission Implementing Decision 2013/652/EU of 12 November 2013 on the monitoring and reporting of antimicrobial resistance in zoonotic and commensal bacteria (OJ L 303, 14.11.2013, p. 26).
+
+( 7 ) Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).
+
+( 8 ) Directive 2000/31/EC of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market (‘Directive on electronic commerce’) (OJ L 178, 17.7.2000, p. 1).
+
+( 9 ) Council Decision 94/358/EC of 16 June 1994 accepting, on behalf of the European Community, the Convention on the elaboration of a European Pharmacopoeia (OJ L 158, 25.6.1994, p. 17).
+
+( 10 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 11 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 12 ) Commission Regulation (EC) No 1234/2008 of 24 November 2008 concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use and veterinary medicinal products (OJ L 334, 12.12.2008, p. 7).
+
+( 13 ) Commission Regulation (EC) No 658/2007 of 14 June 2007 concerning financial penalties for infringement of certain obligations in connection with marketing authorisations granted under Regulation (EC) No 726/2004 of the European Parliament and of the Council (OJ L 155, 15.6.2007, p. 10).
+
+( 14 ) Directive 2004/10/EC of the European Parliament and of the Council of 11 February 2004 on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances (OJ L 50, 20.2.2004, p. 44).
+
+( 15 ) Directive 2004/9/EC of the European Parliament and of the Council of 11 February 2004 on the inspection and verification of good laboratory practice (GLP) (OJ L 50, 20.2.2004, p. 28).
+
+( 16 ) Directive 2009/35/EC of the European Parliament and of the Council of 23 April 2009 on the colouring matters which may be added to medicinal products (OJ L 109, 30.4.2009, p. 10).
+
+( 17 ) Commission Regulation (EU) No 231/2012 of 9 March 2012 laying down specifications for food additives listed in Annexes II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council (OJ L 83, 22.3.2012, p. 1).
+
+( 18 ) Commission Regulation (EU) 2018/782 of 29 May 2018 establishing the methodological principles for the risk assessment and risk management recommendations referred to in Regulation (EC) No 470/2009 (OJ L 132, 30.5.2018, p. 5).
+
+( 19 ) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1).
+
+( 20 ) Commission Regulation (EU) No 37/2010 of 22 December 2009 on pharmacologically active substances and their classification regarding maximum residue limits in foodstuffs of animal origin (OJ L 15, 20.1.2010, p. 1).

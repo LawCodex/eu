@@ -1,0 +1,262 @@
+---
+title: "European Central Bank Regulation (EC) No 2157/1999 of 23 September 1999 on the powers of the European Central Bank to impose sanctions (ECB/1999/4)"
+identifier: "31999R2157"
+eli: "http://data.europa.eu/eli/reg/1999/2157/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1999-09-23
+entry_into_force: 1999-03-09
+last_amended: 2023-06-26
+consolidated_version: "01999R2157-20230626"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01999R2157-20230626"
+retrieved: 2026-10-11
+---
+
+# European Central Bank Regulation (EC) No 2157/1999 of 23 September 1999 on the powers of the European Central Bank to impose sanctions (ECB/1999/4)
+
+**EUROPEAN CENTRAL BANK REGULATION (EC) No 2157/1999**
+
+**of 23 September 1999**
+
+**on the powers of the European Central Bank to impose sanctions**
+
+**(ECB/1999/4)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EC) No 985/2001 OF THE EUROPEAN CENTRAL BANK of 10 May 2001</td><td> L 137</td><td>24</td><td>19.5.2001</td></tr>
+<tr><td></td><td> REGULATION (EU) No 469/2014 OF THE EUROPEAN CENTRAL BANK of 16 April 2014 </td><td> L 141</td><td>51</td><td>14.5.2014</td></tr>
+<tr><td></td><td> REGULATION (EU) 2017/2095 OF THE EUROPEAN CENTRAL BANK of 3 November 2017 </td><td> L 299</td><td>22</td><td>16.11.2017</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/1814 OF THE EUROPEAN CENTRAL BANK of 7 October 2021 </td><td> L 367</td><td>2</td><td>15.10.2021</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/1092 OF THE EUROPEAN CENTRAL BANK of 25 May 2023 </td><td> L 146</td><td>15</td><td>6.6.2023</td></tr>
+</table>
+
+**EUROPEAN CENTRAL BANK REGULATION (EC) No 2157/1999**
+
+**of 23 September 1999**
+
+**on the powers of the European Central Bank to impose sanctions**
+
+**(ECB/1999/4)**
+
+## Article 1 — Definitions
+
+For the purposes of this Regulation, the term ‘competent national central bank’ means the national central bank of the Member State in whose jurisdiction the alleged infringement has occurred or, for infringements in the field of oversight of systemically important payment systems, it means the Eurosystem central bank that has been identified as a competent authority within the meaning of Article 2(5) of Regulation (EU) No 795/2014 of the European Central Bank (ECB/2014/28) ( 1 ). Other terms used have the same meaning as defined in Article 1 of Regulation (EC) No 2532/98.
+
+## Article 1a — Scope
+
+This Regulation shall only apply to sanctions that may be imposed by the ECB in the exercise of its non-supervisory central bank tasks. It shall not apply to any administrative penalties that may be imposed by the ECB in the exercise of its supervisory tasks.
+
+## Article 1b — Independent investigating unit
+
+1\. For the purposes of deciding whether to initiate an infringement procedure pursuant to Article 2 and exercise the powers laid down in Article 3, the ECB shall establish an internal independent investigating unit (hereinafter ‘investigating unit’) composed of investigating officers who shall perform their investigative functions independently from the Executive Board and the Governing Council, and shall not take part in the deliberations of the Executive Board and Governing Council. The investigating unit shall comprise investigating officers with a range of relevant knowledge, skills and experience.
+
+1a. For the investigation of infringements of Regulation (EU) No 795/2014 (ECB/2014/28), the ECB may appoint as investigating officers: (i) members of staff of the ECB or of a national central bank of a Member State, as long as the appointment is accepted by the relevant national central bank; or (ii) external experts acting on the basis of an appropriate mandate. The ECB may not appoint as investigating officers members of the Market Infrastructure and Payments Committee or members of staff of the ECB or of a national central bank of a Member State who have been directly involved in the activities of the assessment group that carried out the initial oversight assessment identifying an infringement or grounds for suspecting an infringement.
+
+2\. Where the ECB considers that there is a reason to suspect that one or more infringements are being or have been committed, the matter shall be referred to the Executive Board.
+
+3\. Where the Executive Board considers that the applicable sanction could exceed the threshold provided for in Article 10(1), the simplified procedure set out in Article 10 shall not apply and the Executive Board shall refer the matter to the investigating unit. The investigating unit shall take a decision on whether or not to initiate an infringement procedure.
+
+4\. Any reference to the ECB in Articles 2 to 4, Article 5(1) to (3) and Article 6 shall be read as a reference to the investigating unit of the ECB or, where the simplified procedure under Article 10 applies, to the Executive Board.
+
+5\. The provisions of this Article shall be without prejudice to the competence of the competent national central bank to initiate an infringement procedure and conduct an inquiry in accordance with this Regulation.
+
+## Article 2 — Initiation of an infringement procedure
+
+1\. No more than one infringement procedure shall be initiated against the same undertaking based on the same facts. For this purpose, no decision on whether or not to initiate an infringement procedure shall be taken by the ECB or by the competent national central bank until they have informed and consulted with one another.
+
+2\. Prior to a decision to initiate an infringement procedure, the ECB and/or the competent national central bank may request from the undertaking concerned any information relating to the alleged infringement.
+
+3\. Either the ECB or the competent national central bank, as the case may be, shall, upon request, be entitled to assist and cooperate with the other in carrying out the infringement procedure, in particular by transmitting any information that may be deemed relevant.
+
+4\. Unless otherwise agreed between the parties concerned, any communication between the ECB or the competent national central bank, as the case may be, and the undertaking concerned shall be conducted in the official Community language (or in one of the official Community languages) of the Member State in whose jurisdiction the alleged infringement has occurred.
+
+## Article 3 — Powers of the ECB and the competent national central bank
+
+1\. The powers conferred by Regulation (EC) No 2532/98  upon the ECB and the competent national central bank in carrying out the inquiry shall include, for the purpose of obtaining any information relating to the alleged infringement, the right to search for any items of information and the right to conduct a search without prior notification of the undertaking concerned.
+
+2\. The staff of the ECB or of the competent national central bank, as the case may be, who are authorised, in accordance with their respective internal rules, to search for information on the premises of the undertaking concerned, shall exercise their powers upon the production of formal authorisation in writing issued in accordance with their respective internal rules.
+
+3\. Any request made to the undertaking concerned on the basis of the powers conferred upon the ECB or the competent national central bank, as the case may be, shall specify the subject matter and purpose of the investigation.
+
+## Article 4 — Assistance by the authorities of the Member States
+
+1\. The assistance of the authorities of the Member States may be requested by the ECB or the competent national central bank, as the case may be, as a precautionary measure.
+
+2\. No authority of a Member State can act as a substitute for the ECB or the competent national central bank, as the case may be, in the assessment of the need for the investigations.
+
+## Article 5 — Notice of objections
+
+1\. The ECB or the competent national central bank, as the case may be, shall notify the undertaking concerned in writing of the factual results of any inquiry carried out and of the objections raised against the undertaking concerned before any decision is taken on the imposition of a sanction.
+
+2\. The ECB or the competent national central bank, as the case may be, shall, when giving notice of objections, fix a time limit within which the undertaking concerned may inform in writing the ECB or the competent national central bank, as the case may be, of its views on the objections raised, without prejudice to the possibility to develop these views at an oral hearing, if so requested in its written comments. This time limit shall be no less than 30 working days and shall start to run from receipt of the notification referred to in paragraph 1.
+
+3\. Further to the response received from the undertaking concerned, the ECB or the competent national central bank, as the case may be, shall decide whether to carry out further inquiries in order to resolve any outstanding issues. An additional notice of objections pursuant to paragraph 1 shall be sent to the undertaking concerned only if the result of the further inquiries conducted by the ECB or the competent national central bank, as the case may be, is to take new facts into account against the undertaking concerned or to alter the evidence for the contested infringements.
+
+4\. The ECB shall, in its decision to impose a sanction, deal only with those objections which have been notified in the manner outlined in paragraph 1 and in respect of which the undertaking concerned has been afforded the opportunity to make its views known.
+
+## Article 6 — Rights and obligations of the undertaking concerned
+
+1\. The undertaking concerned shall cooperate with the ECB or the competent national central bank, as the case may be, in the inquiry stage of an infringement procedure. The undertaking concerned shall namely have the right to submit any documents, books or records, or copies or extracts thereof, and to provide any written or oral explanations.
+
+2\. The obstruction, non-compliance or non-performance by the undertaking concerned of duties imposed by the ECB or by the competent national central bank, as the case may be, in the exercise of its powers under the infringement procedure may provide sufficient grounds to initiate an infringement procedure under the terms of this Regulation and give rise to the imposition of periodic penalty payments.
+
+3\. The undertaking concerned shall have the right to legal representation during the infringement procedure.
+
+4\. Once it has been notified in accordance with Article 5(1), the undertaking concerned shall have the right to access the documents and other materials compiled by the ECB or by the competent national central bank, as the case may be, which serve as the basis for the evidence of an alleged infringement.
+
+5\. Should the undertaking concerned request in its written comments also to be heard at an oral hearing, this shall be conducted, on the date set, by the persons appointed for that purpose by the ECB or the competent national central bank, as the case may be. Oral hearings will take place on the premises of the ECB or the competent national central bank. Oral hearings shall not be public. Persons shall be heard separately or in the presence of other persons called upon to attend. The undertaking concerned may propose, within reasonable limits, that the ECB or the competent national central bank, as the case may be, should hear persons who may corroborate any aspect of its written comments.
+
+6\. The essential content of the statements made by each person heard shall be recorded in minutes which shall be read and approved by such person only in relation to his or her own statements.
+
+7\. Information and requests to attend oral hearings from the ECB or the competent national central bank, as the case may be, shall be sent to the addressees by registered post with acknowledgement of receipt, or shall be delivered by hand against receipt.
+
+## Article 7 — Confidentiality of the infringement procedure
+
+1\. An infringement procedure shall be carried out subject to the principles of confidentiality and of professional secrecy.
+
+2\. Without prejudice to Article 6(4), the undertaking concerned shall not have access to documents or other materials in the possession of the ECB or the competent national central bank that are deemed to be confidential in relation to third parties or to the ECB or the competent national central bank. These shall include, in particular, documents or other materials containing information relating to the business interests of other undertakings, or internal documents of the ECB, the competent national central bank, other Community institutions or bodies, or other national central banks, such as notes, drafts and other working papers.
+
+## Article 7a — Submission of a proposal to the Executive Board
+
+1\. If the investigating unit or the competent national central bank, as relevant, considers, after completion of the infringement procedure, that a sanction should be imposed on the undertaking concerned, it shall submit a proposal to the Executive Board determining that the undertaking concerned has committed an infringement and specifying the amount of the sanction to be imposed.
+
+If the investigating unit or the competent national central bank considers that one or more of the exceptions set out in Article 9(1) applies, it shall specify this in its proposal.
+
+2\. The investigating unit or the competent national central bank, as relevant, shall base its proposal only on facts and objections on which the undertaking concerned has had the opportunity to comment.
+
+3\. If the Executive Board considers that the file submitted by the investigating unit or the competent national central bank, as relevant, is incomplete, it may return the file, together with a reasoned request for additional information, to the investigating unit or the competent national central bank.
+
+4\. If the Executive Board, on the basis of a complete file, agrees with the proposal of the investigating unit or the competent national central bank, as relevant, to impose a sanction on the undertaking concerned, it shall adopt a decision in accordance with the proposal submitted by the investigating unit or competent national central bank.
+
+5\. If the Executive Board, on the basis of a complete file, considers that the facts described in the proposal of the investigating unit or the competent national central bank, as relevant, do not appear to constitute sufficient evidence of an infringement, the Executive Board may adopt a decision closing the case.
+
+6\. If the Executive Board, on the basis of a complete file, agrees that the undertaking concerned has committed an infringement, as determined in the proposal of the investigating unit or the competent national central bank, as relevant, but disagrees with the proposed sanction, it shall adopt a decision specifying the sanction that it considers appropriate.
+
+7\. If the Executive Board, on the basis of a complete file, does not agree with the proposal of the investigating unit or the competent national central bank, as relevant, but concludes that a different infringement has been committed by the undertaking concerned, or that there is a different factual basis for the proposal of the investigating unit or the competent national central bank, as relevant, it shall inform the undertaking concerned in writing of its findings and of the objections raised against the undertaking concerned.
+
+7a. If the Executive Board, on the basis of a complete file, considers that a sanction shall be imposed, but that one or more of the exceptions set out in Article 9(1) applies, it shall decide whether and to what extent the sanction shall be published.
+
+8\. The Executive Board shall adopt a decision determining whether or not the undertaking concerned has committed an infringement and specifying the sanction to be imposed, if any. Decisions adopted by the Executive Board shall be based only on facts and objections on which the undertaking concerned has had the opportunity to comment.
+
+## Article 8 — Review of the decision by the Governing Council of the ECB
+
+1\. The Governing Council of the ECB may request the undertaking concerned, the Executive Board of the ECB and/or the competent national central bank to provide additional information in order to review the decision of the Executive Board of the ECB.
+
+2\. The Governing Council of the ECB shall fix a time-limit by which the information shall be provided, but this shall be no fewer than 10 working days.
+
+3\. In carrying out the review, the Governing Council may:
+
+(a) confirm the decision of the Executive Board;
+
+(b) amend the decision of the Executive Board by modifying any of the following:
+
+(i) the amount of the sanction to be imposed;
+
+(ii) the grounds giving rise to an infringement;
+
+(iii) whether and to what extent the sanction is published;
+
+(c) set aside the decision of the Executive Board.
+
+## Article 9 — Enforcement of the decision
+
+1\. The ECB shall publish any decision imposing sanctions in case of a breach of an ECB regulation or decision on its official website without undue delay, once the decision has become final in accordance with Article 3(8) of Regulation (EC) No 2532/98.
+
+The publication shall include information on the type and nature of the breach and the identity of the undertaking concerned, as well as the amount and the nature of the sanction, unless the Executive Board determines that such publication would:
+
+(a) jeopardise the stability of the financial markets or the financial system or an ongoing criminal investigation;
+
+(b) cause, in so far as can be determined, disproportionate damage to the undertaking concerned; or
+
+(c) result in the publication of confidential information, which would put at risk legitimate public interests in security, such as the security and protection of the integrity of euro banknotes or the secure management of cyber or operational risks to systemically important payment systems.
+
+In the circumstances referred to in the second subparagraph, points (a) to (c), decisions regarding sanctions shall be published on an anonymised basis. Alternatively, where such circumstances are likely to cease within a reasonable period of time, publication under this paragraph may be postponed for such period of time.
+
+For the purposes of second subparagraph, point (c), the ECB may choose not to publish a decision imposing a sanction where it considers that the risk to legitimate public interests in security may not be mitigated by publishing the relevant decisions on an anonymised basis or by postponing their publication, as referred to in the previous subparagraph.
+
+Where a decision imposing a sanction is under appeal before the Court of Justice of the European Union, the ECB shall, without undue delay, also publish on its official website information on the status of the appeal in question and the outcome thereof.
+
+The information published pursuant to this paragraph shall remain on the official website of the ECB for at least five years.
+
+2\. The decision of the ECB shall establish the manner in which payment of the sanction is to be made.
+
+3\. The ECB may request the national central bank of the Member State in whose jurisdiction the sanction is to be enforced to adopt all measures necessary to that end.
+
+4\. The national central banks shall report to the ECB on the enforcement of the sanction.
+
+5\. The national central bank concerned or the ECB, as the case may be, shall store all the information relevant to the determination and enforcement of the sanction in a file that be kept for at least five years from the date on which the decision on the imposition of the sanction becomes final. The competent national central bank shall forward to the ECB copies of all original documentation and materials in its possession relating to the infringement procedure.
+
+## Article 10 — Simplified procedure for minor infringements
+
+1\. In the event of a minor infringement the Executive Board of the ECB may decide to apply a simplified infringement procedure. The sanction to be imposed under this procedure shall not exceed EUR 25 000 .
+
+2\. The simplified procedure shall entail the following steps:
+
+(a) the Executive Board of the ECB shall notify the undertaking concerned of the alleged infringement;
+
+(b) the notification shall contain all the facts which constitute the evidence of the alleged infringement and the corresponding sanction;
+
+(c) the notification shall inform the undertaking concerned of the fact that the simplified procedure is being applied and of its right to object to this procedure within 10 working days of receipt of the notification; and
+
+(d) if an objection is raised before the deadline laid down in (c) above, the infringement procedure shall be deemed to be initiated and the time limit of 30 working days within which it is possible to exercise the right to be heard shall start as from expiry of the deadline laid down in (c) above. If no objection is raised before the deadline laid down in (c) above, the decision of the Executive Board of the ECB on the imposition of a sanction becomes final.
+
+3\. This Article shall be without prejudice to the procedure applicable in the event of non-compliance with minimum reserve requirements as laid down in Article 11 of this Regulation.
+
+4\. This Article shall not apply to sanctions for infringements of ECB regulations and decisions in the field of oversight of systemically important payment systems.
+
+## Article 11 — Procedure in the event of non-compliance with minimum reserve requirements
+
+1\. In the event of non-compliance as foreseen in Article 7(1) of Regulation (EC) No 2531/98  , Article 2(1) and (3), Articles 3, 4 and 5 and Article 6, with the exception of paragraph 3, of this Regulation shall not be applicable. The time limit foreseen in Article 8(2), shall be reduced to five working days.
+
+2\. Where the ECB imposes a sanction pursuant to Article 7(1) of Regulation (EC) No 2531/98, the applicable sanction shall be calculated using the formula and method specified in Decision (EU) 2021/1815 of the European Central Bank (ECB/2021/45) ( 2 ).
+
+3\. Before any sanction is imposed in accordance with Article 7(1) of Regulation (EC) No 2531/98  , the Executive Board of the ECB or, on its behalf, the competent national central bank shall notify the undertaking concerned of the alleged non-compliance and of the corresponding sanction. The notification shall contain all relevant facts of the alleged non-compliance and shall also inform the undertaking concerned that, unless it submits any objections, the sanction shall be deemed to be imposed by decision of the Executive Board of the ECB.
+
+4\. Upon receipt of the notification, the undertaking concerned shall be given five working days either:
+
+— to acknowledge the alleged non-compliance and agree to the payment of the specified sanction, in which case the infringement procedure shall be deemed to have come to an end,
+
+or
+
+— to present any written information, explanations or objections which may be deemed relevant to a decision on whether or not to impose the sanction. The undertaking concerned may also attach any relevant documents as proof of the content of its reply. The competent national central bank shall without undue delay forward the file to the Executive Board of the ECB, which shall then decide whether or not to impose a sanction.
+
+5\. If no written objections are raised by the undertaking concerned within the established time limit, the sanction shall be deemed to be imposed by decision of the Executive Board of the ECB. After the decision has become final in accordance with the provisions of Regulation (EC) No 2532/98  , the undertaking concerned shall be charged the amount of the sanction specified in the notification.
+
+6\. In the situations foreseen in paragraph 4, first indent, and in paragraph 5, the ECB or the competent national central bank, on behalf of the ECB, as the case may be, shall give notification in writing to the relevant supervisory authorities.
+
+7\. In the situations foreseen in paragraph 4, first indent, and in paragraph 5, the ECB shall publish the imposed sanction in accordance with Article 9(1). Where the Executive Board accepts a proposal submitted by the competent national central bank determining that one or more of the exceptions set out in Article 9(1), second subparagraph, applies, it may decide to publish that decision on an anonymised basis or postpone such publication. Where the exception in Article 9(1), second subparagraph, point (c), applies, the Executive Board may decide not to publish the imposed sanction.
+
+## Article 12 — Time limits
+
+1\. Without prejudice to Article 4 of Regulation (EC) No 2532/98  , the time limits foreseen in this Regulation shall run from the day following receipt of a communication or delivery thereof by hand. Any communication from the undertaking concerned must be received by the addressee or be dispatched by registered post before the relevant time limit has expired.
+
+2\. Where the time limit would expire on a Saturday, Sunday or public holiday, it shall be extended up to the end of the following working day.
+
+3\. For the purposes of this Regulation, relevant public holidays for the ECB shall be those set out in the Annex to this Regulation, whereas public holidays relevant to national central banks shall be those established by law in the respective area of the Member State in which the undertaking concerned is located. The term ‘working day’ shall be construed accordingly. The ECB shall update the Annex of this Regulation whenever necessary.
+
+## ANNEX (Indicative) — List of public holidays (as referred to in paragraph 3 of Article 12)
+
+| New Year's Day | 1 January |
+| --- | --- |
+| Carnival Tuesday (half day) | date varies |
+| Good Friday | date varies |
+| Easter Monday | date varies |
+| Labour Day | 1 May |
+| Anniversary of the Declaration of Robert Schuman | 9 May |
+| Ascension Day | date varies |
+| Whit Monday | date varies |
+| Corpus Christi | date varies |
+| Day of German Unity | 3 October |
+| All Saints' Day | 1 November |
+| Christmas Eve | 24 December |
+| Christmas Day | 25 December |
+| 26 December | 26 December |
+| New Year's Eve | 31 December |
+
+( 1 ) Regulation (EU) No 795/2014 of the European Central Bank of 3 July 2014 on oversight requirements for systemically important payment systems (ECB/2014/28) (OJ L 217, 23.7.2014, p. 16).
+
+( 2 ) Decision (EU) 2021/1815 of the European Central Bank of 7 October 2021 on the methodology applied for the calculation of sanctions for non-compliance with the requirement to hold minimum reserves and related minimum reserve requirements (ECB/2021/45) (OJ L 367,15.10.2021, p. 4).

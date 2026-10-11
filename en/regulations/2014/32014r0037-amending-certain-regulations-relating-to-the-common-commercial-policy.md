@@ -1,0 +1,308 @@
+---
+title: "Regulation (EU) No 37/2014 of the European Parliament and of the Council of 15 January 2014 amending certain regulations relating to the common commercial policy as regards the procedures for the adoption of certain measures"
+identifier: "32014R0037"
+eli: "http://data.europa.eu/eli/reg/2014/37(1)/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-01-15
+entry_into_force: 2013-08-15
+last_amended: 2019-02-20
+consolidated_version: "02014R0037-20190220"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0037-20190220"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 37/2014 of the European Parliament and of the Council of 15 January 2014 amending certain regulations relating to the common commercial policy as regards the procedures for the adoption of certain measures
+
+**REGULATION (EU) No 37/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 January 2014**
+
+**amending certain regulations relating to the common commercial policy as regards the procedures for the adoption of certain measures**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/475 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2015</td><td> L 83</td><td>1</td><td>27.3.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/476 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2015</td><td> L 83</td><td>6</td><td>27.3.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/477 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2015</td><td> L 83</td><td>11</td><td>27.3.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/478 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2015</td><td> L 83</td><td>16</td><td>27.3.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/479 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2015</td><td> L 83</td><td>34</td><td>27.3.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/752 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2015</td><td> L 123</td><td>16</td><td>19.5.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/755 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2015</td><td> L 123</td><td>33</td><td>19.5.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/938 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 June 2015</td><td> L 160</td><td>57</td><td>25.6.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/939 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 June 2015</td><td> L 160</td><td>62</td><td>25.6.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/940 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 June 2015</td><td> L 160</td><td>69</td><td>25.6.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/941 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 June 2015</td><td> L 160</td><td>76</td><td>25.6.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/1145 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 July 2015</td><td> L 191</td><td>1</td><td>17.7.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2015/1843 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 October 2015</td><td> L 272</td><td>1</td><td>16.10.2015</td></tr>
+<tr><td></td><td>REGULATION (EU) 2016/1036 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 June 2016</td><td> L 176</td><td>21</td><td>30.6.2016</td></tr>
+<tr><td></td><td>REGULATION (EU) 2016/1037 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 June 2016</td><td> L 176</td><td>55</td><td>30.6.2016</td></tr>
+<tr><td></td><td>REGULATION (EU) 2016/1076 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 June 2016</td><td> L 185</td><td>1</td><td>8.7.2016</td></tr>
+<tr><td></td><td>REGULATION (EU) 2018/196 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 February 2018</td><td> L 44</td><td>1</td><td>16.2.2018</td></tr>
+<tr><td></td><td>REGULATION (EU) 2019/125 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 January 2019</td><td> L 30</td><td>1</td><td>31.1.2019</td></tr>
+</table>
+
+**REGULATION (EU) No 37/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 January 2014**
+
+**amending certain regulations relating to the common commercial policy as regards the procedures for the adoption of certain measures**
+
+### Article 1
+
+The Regulations listed in the Annex to this Regulation are hereby amended in accordance with the Annex.
+
+### Article 2
+
+References to provisions of the Regulations listed in the Annex to this Regulation shall be construed as being made to those provisions as amended by this Regulation.
+
+References made to the former names of committees shall be construed as being made to the new names of committees as provided for by this Regulation.
+
+Throughout the Regulations listed in the Annex:
+
+(a) any reference to the words 'European Community', 'Community', 'European Communities' or 'Communities' shall be understood as a reference to the 'European Union' or 'Union';
+
+(b) any reference to the words 'common market' shall be understood as a reference to the 'internal market';
+
+(c) any reference to the words 'Committee provided for in Article 113', 'Committee provided for in Article 133', 'Committee referred to in Article 113' or 'Committee referred to in Article 133' shall be understood as a reference to 'Committee provided for in Article 207';
+
+(d) any reference to the words 'Article 113 of the Treaty' or 'Article 133 of the Treaty' shall be understood as a reference to 'Article 207 of the Treaty'.
+
+### Article 3
+
+This Regulation shall not affect procedures initiated for the adoption of measures provided for in the Regulations listed in the Annex to this Regulation where, on or before the entry into force of this Regulation:
+
+(a) the Commission has adopted an act;
+
+(b) consultation is required under one of the Regulations listed in the Annex and such consultation has been initiated; or
+
+(c) a proposal is required under one of the Regulations listed in the Annex and the Commission has adopted such a proposal.
+
+### Article 4
+
+This Regulation shall enter into force on the thirtieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**LIST OF REGULATIONS FALLING UNDER THE COMMON COMMERCIAL POLICY AND AMENDED IN ADAPTATION TO ARTICLE 290 OF THE TREATY ON THE FUNCTIONING OF THE EUROPEAN UNION OR TO THE APPLICABLE PROVISIONS OF REGULATION (EU) No 182/2011**
+
+**5\. Regulation (EC) No 385/96**
+
+As regards Regulation (EC) No 385/96, the implementation of the procedures provided for in that Regulation requires uniform conditions for the adoption of measures necessary for its implementation in accordance with Regulation (EU) No 182/2011.
+
+Accordingly, Regulation (EC) No 385/96 is amended as follows:
+
+(1) Article 5(11) is replaced by the following:
+
+"11. Without prejudice to Article 15(2), where it is apparent to the Commission that there is sufficient evidence to justify initiating a proceeding, it shall do so within 45 days of the date on which the complaint was lodged, or, in the case of initiation pursuant to paragraph 8, no later than six months from the time the sale of the vessel was known or should have been known, and shall publish a notice in the Official Journal of the European Union. Where insufficient evidence has been presented, the complainant shall be so informed within 45 days of the date on which the complaint was lodged with the Commission.
+
+The Commission shall provide information to the Member States once it has determined the need to initiate such a proceeding.".
+
+(2) Article 7 is amended as follows:
+
+(a) paragraph 2 is replaced by the following:
+
+"2. Where measures are unnecessary the investigation or proceeding shall be terminated. The Commission shall terminate the investigation in accordance with the examination procedure referred to in Article 10(2).";
+
+(b) paragraph 4 is replaced by the following:
+
+"4. Where the facts as finally established show that there is injurious pricing and injury caused thereby, an injurious pricing charge shall be imposed on the shipbuilder by the Commission, in accordance with the examination procedure referred to in Article 10(2). The amount of the injurious pricing charge shall be equal to the margin of injurious pricing established. The Commission shall, after having informed the Member States, take the necessary measures for the implementation of its decision, in particular the collection of the injurious pricing charge.".
+
+(3) In Article 8, the first paragraph is replaced by the following:
+
+"The investigation may be terminated without the imposition of an injurious pricing charge if the shipbuilder definitively and unconditionally voids the sale of the injuriously priced vessel or complies with an alternative equivalent remedy accepted by the Commission.".
+
+(4) Article 9(1) is replaced by the following:
+
+"1. If the shipbuilder concerned does not pay the injurious pricing charge imposed under Article 7, countermeasures under the form of denial of loading and unloading rights shall be imposed by the Commission on the vessels built by the shipbuilder in question.
+
+The Commission shall provide information to the Member States once the grounds for countermeasures referred to in the first subparagraph arise.".
+
+(5) Article 10 is replaced by the following:
+
+"Article 10
+
+Committee procedure
+
+1\. The Commission shall be assisted by the Committee established by Council Regulation (EC) No 1225/2009 ( *1 ). That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( *2 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+(6) Article 13(5) is replaced by the following:
+
+"5. The Commission and the Member States, including the officials of either, shall not reveal any information received pursuant to this Regulation for which confidential treatment has been requested by its supplier, without specific permission from that supplier. Exchanges of information between the Commission and the Member States, or any internal documents prepared by the authorities of the Union or the Member States, shall not be divulged except as specifically provided for in this Regulation.".
+
+(7) Article 14(3) is replaced by the following:
+
+"3. Disclosure shall be effected in writing. It shall be effected, with due regard being had to the need to protect confidential information, as soon as possible and, normally, not less than one month before a definitive decision. Where the Commission is not in a position to disclose certain facts or considerations at that time, they shall be disclosed as soon as possible thereafter. Disclosure shall not prejudice any subsequent decision which may be taken by the Commission but, where such a decision is based on any different facts and considerations, they shall be disclosed as soon as possible.".
+
+(8) The following article is inserted:
+
+"Article 14a
+
+Report
+
+The Commission shall include information on the implementation of this Regulation in its annual report on the application and implementation of trade defence measures presented to the European Parliament and to the Council pursuant to Article 22a of Regulation (EC) No 1225/2009.".
+
+**6\. Regulation (EC) No 2271/96**
+
+As regards Regulation (EC) No 2271/96, the Commission should be empowered to adopt delegated acts in accordance with Article 290 of the Treaty on the Functioning of the European Union (TFEU) for the purpose of amending the Annex to that Regulation.
+
+In order to adopt the provisions necessary for the application of that Regulation, the power to adopt acts in accordance with Article 290 TFEU should be delegated to the Commission in respect of adding or deleting laws to or from the Annex to that Regulation. It is of particular importance that the Commission carry out appropriate consultations during its preparatory work, including at expert level. The Commission, when preparing and drawing up delegated acts, should ensure a simultaneous, timely and appropriate transmission of relevant documents to the European Parliament and to the Council.
+
+The implementation of Regulation (EC) No 2271/96 requires uniform conditions for establishing criteria for the authorisation of persons to comply fully or partially with any requirement or prohibition, including requests of foreign courts, in cases where non-compliance would seriously damage their interests or those of the Union. Those measures should be adopted in accordance with Regulation (EU) No 182/2011.
+
+Accordingly, Regulation (EC) No 2271/96 is amended as follows:
+
+(1) In Article 1, the second paragraph is replaced by the following:
+
+"The Commission shall be empowered to adopt delegated acts in accordance with Article 11a to add to the Annex to this Regulation laws, regulations or other legislative instruments of third countries having extraterritorial application and causing adverse effects on the interests of the Union and the interests of natural and legal persons exercising rights under the Treaty on the Functioning of the European Union, and to delete laws, regulations or other legislative instruments when they no longer have such effects.".
+
+(2) In Article 7, point (c) is deleted.
+
+(3) Article 8 is replaced by the following:
+
+"Article 8
+
+1\. For the purpose of implementing Article 7(b), the Commission shall be assisted by the Committee on Extra-territorial Legislation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in paragraph 2 of this Article. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( *3 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+(4) The following article is inserted:
+
+"Article 11a
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 1 shall be conferred on the Commission for a period of five years from 20 February 2014. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 1 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 1 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by four months at the initiative of the European Parliament or of the Council.".
+
+**16\. Regulation (EC) No 55/2008**
+
+As regards Regulation (EC) No 55/2008, in order to ensure uniform conditions for its implementation, implementing powers should be conferred on the Commission. Those powers should be exercised in accordance with Regulation (EU) No 182/2011.
+
+The advisory procedure should be used for the adoption of surveillance and provisional measures and for the temporary suspension of preferential treatment given the effects of such measures and their sequential logic in relation to the adoption of definitive safeguard measures. Where a delay in the imposition of measures would cause damage which would be difficult to repair, it is necessary to allow the Commission to adopt immediately applicable provisional measures.
+
+Accordingly, Regulation (EC) No 55/2008 is amended as follows:
+
+(1) Article 3(3) is replaced by the following:
+
+"3. Notwithstanding other provisions of this Regulation, in particular Article 10, if imports of agricultural products cause serious disturbance to the Union markets and their regulatory mechanisms, the Commission may take the appropriate measures by means of implementing acts. Such implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11a(5).".
+
+(2) Article 4 is replaced by the following:
+
+"Article 4
+
+Implementation of tariff quotas for dairy products
+
+The detailed rules for implementing the tariff quotas for headings 0401 to 0406 shall be determined by the Commission by means of implementing acts. Such implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11a(5).".
+
+(3) Article 8 is deleted.
+
+(4) Article 10 is amended as follows:
+
+(a) in paragraph 1, the introductory wording is replaced by the following:
+
+"1. Where the Commission finds that there is sufficient evidence of fraud, irregularities or systematic failure by Moldova to comply, or to ensure compliance, with the rules of origin of products and the procedures related thereto, or to provide administrative cooperation as referred to in Article 2(1), or to comply with any of the other conditions defined in Article 2(1), it may take measures in accordance with the examination procedure referred to in Article 11a(5) to suspend in whole or in part the preferential arrangements provided for in this Regulation for a period of not more than six months, provided that it has first:";
+
+(b) paragraph 2 is deleted;
+
+(c) paragraph 3 is replaced by the following:
+
+"3. On conclusion of the period of suspension, the Commission shall decide either to terminate the provisional suspension measure or to extend the suspension measure in accordance with the examination procedure referred to in Article 11a(5).".
+
+(5) Article 11 is amended as follows:
+
+(a) paragraph 1 is replaced by the following:
+
+"1. Where a product originating in Moldova is imported on terms which cause, or threaten to cause, serious difficulties to a Union producer of like or directly competing products, Common Customs Tariff duties on that product may be reintroduced at any time by the Commission in accordance with the examination procedure referred to in Article 11a(5).";
+
+(b) paragraphs 5, 6 and 7 are replaced by the following:
+
+"5. The investigation shall be completed within six months after the publication of the notice referred to in paragraph 2 of this Article. The Commission may, in the case of exceptional circumstances, extend that period in accordance with the advisory procedure referred to in Article 11a(4).
+
+6\. The Commission shall take a decision within three months, in accordance with the examination procedure referred to in Article 11a(5). Such a decision shall enter into force within one month from the date of its publication.
+
+7\. Where exceptional circumstances requiring immediate action make an investigation impossible, the Commission may take any preventive measure which is strictly necessary, in accordance with the procedure referred to in Article 11a(6).".
+
+(6) The following article is inserted:
+
+"Article 11a
+
+Committee procedure
+
+1\. For the purpose of Article 3(3) and Articles 11 and 12 of this Regulation, the Commission shall be assisted by the Committee on Safeguards established by Article 4(1) of Council Regulation (EC) No 260/2009 ( *4 ). That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( *5 ).
+
+2\. For the purpose of Article 4 of this Regulation, the Commission shall be assisted by the committee established by Article 195 of Council Regulation (EC) No 1234/2007 ( *6 ). That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+3\. For the purpose of Article 10 of this Regulation, the Commission shall be assisted by the committee established by Article 184 of Regulation (EC) No 450/2008 of the European Parliament and of the Council ( *7 ). That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+4\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+5\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+6\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 4 thereof, shall apply.
+
+(7) In Article 12, the second paragraph is replaced by the following:
+
+"If Moldova does not comply with the rules of origin or does not provide administrative cooperation, as required by Article 2, for the aforementioned Chapters 17, 18, 19 and 21, or if imports of products under these Chapters subject to the preferential arrangements granted under this Regulation significantly exceed the usual levels of exports of Moldova, appropriate measures shall be taken in accordance with the examination procedure referred to in Article 11a(5).".
+
+### Joint statement by the European Parliament, the Council and the Commission regarding Article 15(6) of Regulation (EC) No 1225/2009 and Article 25(6) of Regulation (EC) No 597/2009
+
+The European Parliament, the Council and the Commission consider that the inclusion of Article 15(6) of Regulation (EC) No 1225/2009 and Article 25(6) of Regulation (EC) No 597/2009 is justified exclusively on the basis of the specific characteristics of those Regulations before their amendment by this Regulation. As a consequence, the inclusion of a provision, such as those Articles, is exceptional to those two Regulations and is not a precedent for the drafting of future legislation.
+
+For the sake of clarity, the European Parliament, the Council and the Commission understand that Article 15(6) of Regulation (EC) No 1225/2009 and Article 25(6) of Regulation (EC) No 597/2009 do not introduce decision-making procedures different from or additional to those provided for in Regulation (EU) No 182/2011.
+
+### Council statement on the application of Articles 3(4) and 6(2) of Regulation (EU) No 182/2011 in connection with anti-dumping and countervailing duty proceedings pursuant to Regulations (EC) No 1225/2009 and (EC) No 597/2009
+
+Where a Member State suggests an amendment with respect to either anti-dumping or countervailing duty draft measures provided for in Regulations (EC) No 1225/2009 and (EC) No 597/2009 (the ‘Basic Regulations’), in accordance with Article 3(4) or Article 6(2) of Regulation (EU) No 182/2011 it will:
+
+(a) ensure that the amendment is proposed in a timely manner, which respects the deadlines in the Basic Regulations and reflects the necessity for the Commission to be given sufficient time to undertake any necessary disclosure procedure, properly scrutinise the proposal, and for the Committee to examine any amended draft measure proposed;
+
+(b) ensure that the proposed amendment is consistent with the Basic Regulations as interpreted by the Court of Justice of the European Union and with relevant international obligations;
+
+(c) provide written justification which will, as a minimum, indicate how the suggested amendment relates to the Basic Regulations and to the facts established in the investigation, but may also contain such other supporting arguments as the Member State proposing the amendment considers appropriate.
+
+### Statement by the Commission in connection with anti-dumping and countervailing duty proceedings pursuant to Regulations (EC) No 1225/2009 and (EC) No 597/2009
+
+The Commission recognises the importance of Member States receiving information where provided for in Regulations (EC) No 1225/2009 and (EC) No 597/2009 (the "Basic Regulations") such as to enable them to contribute to fully informed decisions, and it will act to achieve that objective.
+
+*** * ***
+
+For the avoidance of doubt, the Commission understands the reference to consultations in Article 8(5) of Regulation (EU) No 182/2011 as requiring the Commission, except in cases of extreme urgency, to seek the views of the Member States before adopting provisional anti-dumping or countervailing duties.
+
+*** * ***
+
+The Commission will ensure that it effectively manages all aspects of anti-dumping and countervailing duty procedures provided for in Regulations (EC) No 1225/2009 and (EC) No 597/2009, including the possibility of Member States to suggest amendments, in order to ensure that the time periods laid down in, and the obligations towards interested parties created by, the Basic Regulations are respected and that any measures finally imposed are consistent with the facts established by the investigation and the Basic Regulations as interpreted by the Court of Justice of the European Union and in line with the international obligations of the Union.
+
+### Statement by the Commission on codification
+
+The adoption of Regulation (EU) No 37/2014 of the European Parliament and of the Council of 15 January 2014 amending certain regulations relating to the common commercial policy as regards the procedures for the adoption of certain measures and Regulation (EU) No 38/2014 of the European Parliament and of the Council of 15 January 2014 amending certain regulations relating to the common commercial policy as regards the granting of delegated and implementing powers for the adoption of certain measures will entail a substantial number of amendments to the acts in question. In order to improve the legibility of the acts concerned, the Commission will propose a codification of the acts as expeditiously as possible once those two Regulations are adopted, and at the latest by 1 June 2014.
+
+### Statement by the Commission on delegated acts
+
+In the context of Regulation (EU) No 37/2014 of the European Parliament and of the Council of 15 January 2014 amending certain regulations relating to the common commercial policy as regards the procedures for the adoption of certain measures and Regulation (EU) No 38/2014 of the European Parliament and of the Council of 15 January 2014 amending certain regulations relating to the common commercial policy as regards the granting of delegated and implementing powers for the adoption of certain measures, the Commission recalls the commitment it has made in paragraph 15 of the Framework Agreement on relations between the European Parliament and the European Commission to provide to the Parliament full information and documentation on its meetings with national experts within the framework of its work on the preparation of delegated acts.
+
+( *1 ) Council Regulation (EC) No 1225/2009 of 30 November 2009 on protection against dumped imports from countries not members of the European Community (OJ L 343, 22.12.2009, p. 51).
+
+( *2 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).".
+
+( *3 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).".
+
+( *4 ) Council Regulation (EC) No 260/2009 of 26 February 2009 on the common rules for imports (OJ L 84, 31.3.2009, p. 1).
+
+( *5 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission's exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+( *6 ) Council Regulation (EC) No 1234/2007 of 22 October 2007 establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation) (OJ L 299, 16.11.2007, p. 1).
+
+( *7 ) Regulation (EC) No 450/2008 of the European Parliament and of the Council of 23 April 2008 laying down the Community Customs Code (Modernised Customs Code) (OJ L 145, 4.6.2008, p. 1).".

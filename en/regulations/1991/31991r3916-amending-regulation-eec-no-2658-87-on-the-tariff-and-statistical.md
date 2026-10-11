@@ -1,0 +1,97 @@
+---
+title: "Council Regulation ( EEC ) No 3916/91 of 19 December 1991 amending Regulation ( EEC ) No 2658/87 on the tariff and statistical nomenclature and on the Commin Customs Tariff"
+identifier: "31991R3916"
+eli: "http://data.europa.eu/eli/reg/1991/3916/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1991-12-19
+entry_into_force: 1991-04-10
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31991R3916"
+retrieved: 2026-10-11
+---
+
+# Council Regulation ( EEC ) No 3916/91 of 19 December 1991 amending Regulation ( EEC ) No 2658/87 on the tariff and statistical nomenclature and on the Commin Customs Tariff
+
+COUNCIL REGULATION (EEC) N° 3916/91 of 19 December 1991 amending Regulation (EEC) N° 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 28 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas, during the General Agreement on Tariffs and Trade negotiations on the introduction of the harmonized system, the customs duty on the import of seaweeds was increased;
+
+Whereas this increase in the customs duty is proving disadvantageous to economic operators; whereas it is therefoe expedient to apply the customs duty in force prior to the negotiations;
+
+Whereas the balance of concessions and obligations under the General Agreement should not, however, be called into question;
+
+Whereas it is expedient to amend the autonomous customs duty applied to seaweeds; whereas, therefore, Regulation (EEC) N° 2658/87 (1) should be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The combined nomenclature appearing in Annex I to Regulation (EEC) N° 2658/87 is hereby amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.
+
+It shall apply from 1 January 1992.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 19 December 1991.
+
+For the Council
+
+The President
+
+P. DANKERT
+
+COUNCIL REGULATION (EEC) N° 3917/91 of 19 December 1991 amending Regulation (EEC) N° 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 28 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas during the negotiations under the General Agreement on Tariffs and Trade (GATT) on the introduction of the harmonized system, customs duties on the import of certain inedible animal and vegetable fats and oils were increased;
+
+Whereas this increase in customs duties is proving disadvantageous to economic operators; whereas it is therefore expedient to apply the customs duties which applied prior to the negotiations;
+
+Whereas the balance of concessions and obligations under the GATT should not, however, be called into question;
+
+Whereas the autonomous customs duties applied to these products should be amended; whereas, therefore, Regulation (EEC) N° 2658/87 (1) should be amended accordingly;
+
+Whereas it is desirable to cancel the harmful effects on economic operators; whereas provision should therefore be made for retroactivity of the amendment of the customs duties to 1 January 1988, the date on which the harmonized system entered into force,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. The combined nomenclature attached to Regulation (EEC) N° 2658/87 is hereby amended in accordance with the Annex hereto.
+
+2\. The amendments to combined nomenclature subheadings provided for in this Regulation shall be applied as subdivisions of the integrated tariff of the European Communities (Taric) until their insertion in the combined nomenclature under the conditions laid down in Article 12 of Regulation (EEC) N° 2658/87.
+
+## Article 2
+
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Communities.
+
+It shall apply with effect from 1 January 1988.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 19 December 1991.
+
+For the Council
+
+The President
+
+P. DANKERT
+
+(1) OJ N° L 256, 7. 9. 1987, p. 1. Regulation as last amended by Regulation (EEC) N° 3916/91 (see page 28 of this Official Journal).

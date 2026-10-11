@@ -1,0 +1,788 @@
+---
+title: "Commission Regulation (EC) No 1234/2008 of 24 November 2008 concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use and veterinary medicinal products (Text with EEA relevance)"
+identifier: "32008R1234"
+eli: "http://data.europa.eu/eli/reg/2008/1234/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-11-24
+entry_into_force: 2008-09-01
+last_amended: 2026-08-24
+consolidated_version: "02008R1234-20260824"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R1234-20260824"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1234/2008 of 24 November 2008 concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use and veterinary medicinal products (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 1234/2008**
+
+**of 24 November 2008**
+
+**concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 712/2012 of 3 August 2012 </td><td> L 209</td><td>4</td><td>4.8.2012</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/756 of 24 March 2021 </td><td> L 162</td><td>1</td><td>10.5.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1701 of 11 March 2024 </td><td> L 1701</td><td>1</td><td>17.6.2024</td></tr>
+<tr><td> M4</td><td> COMMISSION DELEGATED REGULATION (EU) 2026/863 of 20 April 2026 </td><td> L 863</td><td>1</td><td>4.8.2026</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 1234/2008**
+
+**of 24 November 2008**
+
+**concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down provisions concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use granted in accordance with Regulation (EC) No 726/2004 or Directive 2001/83/EC.
+
+2\. This Regulation shall not apply to transfers of a marketing authorisation from one marketing authorisation holder (hereinafter holder) to another.
+
+3\. Chapter II shall apply only to variations to the terms of marketing authorisations granted in accordance with Chapter 4 of Directive 2001/83/EC.
+
+3a. Chapter IIa shall apply only to variations to the terms of purely national marketing authorisations.
+
+4\. Chapter III shall apply only to variations to the terms of marketing authorisations granted in accordance with Regulation (EC) No 726/2004 (hereinafter centralised marketing authorisations).
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation, the definitions in Article 1 of Directive 2001/83/EC shall apply.
+
+The following definitions shall also apply:
+
+2\. ‘Minor variation of type IA’ means a variation which has only a minimal impact, or no impact at all, on the quality, safety or efficacy of the medicinal product concerned;
+
+3\. ‘Major variation of type II’ means a variation which is not an extension and which may have a significant impact on the quality, safety or efficacy of the medicinal product concerned;
+
+4\. ‘Extension of a marketing authorisation’ or ‘extension’ means a variation which is listed in Annex I and fulfils the conditions laid down therein;
+
+5\. ‘Minor variation of type IB’ means a variation which is neither a minor variation of type IA nor a major variation of type II nor an extension;
+
+6\. ‘Member State concerned’ means a Member State whose competent authority has granted a marketing authorisation for the medicinal product in question;
+
+6a. ‘Reference authority’ means:
+
+(a) the Agency where at least one of the marketing authorisations concerned is a centralised marketing authorisation;
+
+(b) the competent authority of the Member State chosen by the holder and accepted by that competent authority, or chosen by the coordination group referred to in Article 27 of Directive 2001/83/EC if none of the competent authorities of the Member States agrees to act as the reference authority, in the other cases;
+
+7\. ‘Relevant authority’ means:
+
+(a) the competent authority of each Member State concerned;
+
+(b) in the case of centralised marketing authorisations, the Agency;
+
+8\. ‘Urgent safety restriction’ means an interim change in the terms of the marketing authorisation due to new information having a bearing on the safe use of the medicinal product;
+
+9\. ‘Purely national marketing authorisation’ means any marketing authorisation granted by a Member State in accordance with the acquis outside the mutual recognition or decentralised procedure and that has not been subject to a complete harmonisation following a referral procedure.
+
+#### Article 3 — Classification of variations
+
+1\. In relation to any variation which is not an extension the classification laid down in Annex II shall apply.
+
+2\. A variation which is not an extension and whose classification is undetermined after application of the rules provided for in this Regulation, taking into account the guidelines referred to in Article 4(1) and, where relevant, any recommendations delivered pursuant to Article 5, shall by default be considered a minor variation of type IB.
+
+3\. By way of derogation from paragraph 2, a variation which is not an extension and whose classification is undetermined after application of the rules provided for in this Regulation shall be considered a major variation of type II in the following cases:
+
+(a) upon request from the holder when submitting the variation;
+
+(b) where the competent authority of the reference Member State referred to in Article 28 of Directive 2001/83/EC (‘the reference Member State’), in consultation with the other Member States concerned, or the Agency in the case of a centralised marketing authorisation, or the competent authority in the case of a purely national marketing authorisation, concludes, following the assessment of validity of a notification in accordance with Article 9(1), Article 13b(1), or Article 15(1) of this Regulation and taking into account the recommendations delivered pursuant to Article 5, that the variation may have a significant impact on the quality, safety or efficacy of the medicinal product concerned.
+
+#### Article 4 — Guidelines
+
+1\. The Commission shall, after consulting the Member States and the Agency, draw up guidelines on the details of the various categories of variations, on the operation of the procedures laid down in Chapters II, IIa, III and IV of this Regulation, and on the documentation to be submitted pursuant to those procedures.
+
+2\. The guidelines referred to in paragraph 1 shall be regularly updated.
+
+The Agency, in cooperation with the competent authorities of the Member States, shall report annually to the Commission on recommendations on unforeseen variations referred to in Article 5 that result in new classification of variations and provide information on necessary updates to be included in the guidelines referred to in paragraph 1.
+
+The Commission shall without undue delay consider the report and integrate new classification of variations and necessary updates to the guidelines.
+
+3\. The Commission may publish the electronic version of the guidelines on its website. This electronic version may include new classification of variations and necessary updates to the guidelines before the regular update pursuant to paragraph 2.
+
+#### Article 5 — Recommendation on unforeseen variations
+
+1\. Prior to the submission of a variation whose classification is not provided for in this Regulation, a holder may request a recommendation on the classification of the variation as follows:
+
+(a) from the Agency, where the variation refers to a marketing authorisation granted under Regulation (EC) No 726/2004;
+
+(b) from the competent authority of the Member State concerned, where the variation refers to a purely national marketing authorisation;
+
+(c) from the competent authority of the reference Member State, in the other cases.
+
+Where a recommendation is requested from the Agency as set out in the first subparagraph, point (a), it shall consult the coordination group if the recommendation is expected to result in a new classification of variation.
+
+Where a recommendation is requested from the competent authority of the Member State concerned or of the reference Member State as set out in the first subparagraph, points (b) and (c), the relevant authority shall consult the coordination group and the Agency, if the recommendation is expected to result in a new classification of variation.
+
+The recommendations shall be consistent with the guidelines referred to in Article 4(1). It shall be delivered within 60 days following receipt of the request and sent to the holder, the Agency, and the coordination group.
+
+1a. Prior to the examination of a variation whose classification is not provided for in this Regulation, a competent authority of a Member State may request a recommendation on the classification of the variation to the coordination group.
+
+The recommendation referred to in the first subparagraph shall be consistent with the guidelines referred to in Article 4(1). It shall be delivered within 60 days following receipt of the request and sent to the holder, the Agency, and the competent authorities of all Member States.
+
+2\. The Agency and the two coordination groups referred to in paragraph 1 shall cooperate to ensure the coherence of the recommendations delivered in accordance with that paragraph and publish those recommendations after deletion of all information of commercial confidential nature.
+
+3\. The recommendation referred to in paragraph 1 that results in a new classification of variation shall be regularly integrated in the guidelines referred to in Article 4(1) in accordance with Article 4(2), third subparagraph.
+
+#### Article 6 — Variations leading to the revision of product information
+
+Where a variation leads to the revision of the summary of product characteristics, labelling or package leaflet, this revision shall be considered as part of that variation.
+
+#### Article 6a — Additional regulatory tools
+
+For certain changes to the chemical, pharmaceutical and biological information for a medicinal product a holder may rely on a range of process parameters, quality attributes, protocols or summary documents, upon agreement of the relevant authority and subject to the conditions referred to in the Annexes and the guidelines referred to in Article 4(1) with regard to the specific regulatory tool.
+
+#### Article 7 — Grouping of variations
+
+1\. Where several variations are notified or applied for, a separate notification or application in accordance with Chapters II, III, or Article 19 as appropriate shall be submitted in respect of each variation sought.
+
+2\. By way of derogation from paragraph 1, the following shall apply:
+
+(a) where minor variations of type IA to the terms of the same marketing authorisation are notified at the same time, a single notification as referred to in Article 8 or 14 may cover all such variations;
+
+(b) where several variations to the terms of the same marketing authorisation are submitted at the same time, a single submission may cover all such variations provided that the variations concerned fall within one of the cases listed in Annex III;
+
+(c) where several variations to the terms of the same marketing authorisation are submitted at the same time and the variations do not fall within one of the cases listed in Annex III, a single submission may cover all such variations provided that the competent authority of the reference Member State in consultation with the competent authorities of the Member States concerned or, in the case of a centralised marketing authorisation, the Agency agrees to such single submission.
+
+The submission referred to in subparagraphs (b) and (c) shall be made simultaneously to all relevant authorities by means of the following:
+
+(i) a single notification in accordance with Article 9 or 15 where at least one of the variations is a minor variation of type IB and the remaining variations are minor variations;
+
+(ii) a single application in accordance with Article 10 or 16 where at least one of the variations is a major variation of type II and none of the variations is an extension;
+
+(iii) a single application in accordance with Article 19 where at least one of the variations is an extension.
+
+#### Article 7a — Super-grouping of variations
+
+1\. By way of derogation from Articles 7 and 13d, the holder may submit a single notification of variations to the terms of more than one marketing authorisation referred to in Chapters II, IIa and III owned by the same holder where the same or several minor variations of type IA referred to in Article 8, Article 13a or Article 14 are notified at the same time and fall within one of the cases of super-grouping of variations listed in the guidelines referred to in Article 4(1) (‘super-grouping’).
+
+2\. A single notification as referred to in paragraph 1 shall be made simultaneously to the reference authority and all relevant authorities.
+
+## CHAPTER II — VARIATIONS TO MARKETING AUTHORISATIONS GRANTED IN ACCORDANCE WITH CHAPTER 4 OF DIRECTIVE 2001/83/EC
+
+#### Article 8 — Notification procedure for minor variations of type IA
+
+1\. Where a minor variation of type IA is made, the holder shall submit simultaneously to all relevant authorities a notification containing the elements listed in Annex IV. That notification shall be submitted within 12 months following the implementation of the variation as an annual update for all minor variations of type IA or be submitted as part of grouping of variations in accordance with Article 7(2), first subparagraph, points (b) and (c), or as part of super-grouping of variations in accordance with Article 7a.
+
+The notification shall be submitted immediately after the implementation of the variation in the case of minor variations requiring immediate notification for the continuous supervision of the medicinal product concerned.
+
+By way of derogation from the first subparagraph, in justified cases, the competent authority of the reference Member State may accept the immediate submission of the notification after the implementation of the variation.
+
+2\. Within 30 days following receipt of the notification, the measures provided for in Article 11 shall be taken.
+
+#### Article 9 — Notification procedure for minor variations of type IB
+
+1\. The holder shall submit simultaneously to all relevant authorities a notification containing the elements listed in Annex IV.
+
+If the notification fulfils the requirement laid down in the first subparagraph, the competent authority of the reference Member State shall, after consulting the other Member States concerned, acknowledge receipt of a valid notification.
+
+2\. If within 30 days following the acknowledgement of receipt of a valid notification, the competent authority of the reference Member State has not sent the holder an unfavourable opinion, the notification shall be deemed accepted by all relevant authorities.
+
+Where the notification is accepted by the competent authority of the reference Member State, the measures provided for in Article 11 shall be taken.
+
+3\. Where the competent authority of the reference Member State is of the opinion that the notification cannot be accepted, it shall inform the holder and the other relevant authorities, stating the grounds on which its unfavourable opinion is based.
+
+Within 30 days following the receipt of the unfavourable opinion, the holder may submit to all relevant authorities an amended notification in order to take due account of the grounds laid down in that opinion.
+
+If the holder does not amend the notification in accordance with the second subparagraph, the notification shall be deemed rejected by all relevant authorities and the measures provided for in Article 11 shall be taken.
+
+4\. Where an amended notification has been submitted, the competent authority of the reference Member State shall assess it within 30 days following its receipt and the measures provided for in Article 11 shall be taken.
+
+5\. This Article shall not apply where a type IB variation request is submitted in a grouping that includes a variation type II and does not contain an extension. In such case, the prior approval procedure in Article 10 shall apply.
+
+This Article shall not apply where a type IB variation request is submitted in a grouping that includes an extension. In such case, the procedure in Article 19 shall apply.
+
+#### Article 10 — ‘Prior Approval’ procedure for major variations of type II
+
+1\. The holder shall submit simultaneously to all relevant authorities an application containing the elements listed in Annex IV.
+
+If the application fulfils the requirements laid down in the first subparagraph, the competent authority of the reference Member State shall acknowledge receipt of a valid application and inform the holder and the other relevant authorities that the procedure starts from the date of such acknowledgement.
+
+2\. Within 60 days following the acknowledgement of receipt of a valid application, the competent authority of the reference Member State shall prepare an assessment report and a decision on the application, which shall be communicated to the other relevant authorities.
+
+The competent authority of the reference Member State may reduce the period referred to in the first subparagraph, having regard to the urgency of the matter, or may extend it to 90 days for variations listed in Annex V or for grouping of variations in accordance with Article 7(2), first subparagraph, point (c).
+
+3\. Within the period referred to in paragraph 2, the competent authority of the reference Member State may request the holder to provide supplementary information within a time limit set by that competent authority. In this case:
+
+(a) the competent authority of the reference Member State shall inform the other competent authorities concerned of its request for supplementary information;
+
+(b) the procedure shall be suspended until such supplementary information has been provided;
+
+(c) the competent authority of the reference Member State may extend the period referred to in paragraph 2.
+
+4\. Without prejudice to Article 13 and within 30 days following receipt of the decision and of the assessment report referred to in paragraph 2, the relevant authorities shall recognise the decision and inform the competent authority of the reference Member State accordingly.
+
+If, within the period referred to in the first subparagraph, a relevant authority has not expressed its disagreement in accordance with Article 13, the decision shall be deemed recognised by that relevant authority.
+
+5\. Where the decision referred to in paragraph 2 has been recognised by all relevant authorities in accordance with paragraph 4, the measures provided for in Article 11 shall be taken.
+
+6\. This Article shall not apply where a type II variation request is submitted in a grouping that includes an extension. In such case, the procedure in Article 19 shall apply.
+
+#### Article 11 — Measures to close the procedures of Articles 8 to 10
+
+1\. Where reference is made to this Article, the competent authority of the reference Member State shall take the following measures:
+
+(a) it shall inform the holder and the other relevant authorities as to whether the variation is accepted or rejected;
+
+(b) where the variation is rejected, it shall inform the holder and the other relevant authorities of the grounds for the rejection;
+
+(c) it shall inform the holder and the other relevant authorities as to whether the variation requires any amendment to the decision granting the marketing authorisation.
+
+2\. Where reference is made to this Article, each relevant authority shall, where necessary and within the time limit laid down in paragraph 1 of Article 23, amend the decision granting the marketing authorisation in accordance with the accepted variation.
+
+#### Article 12 — Human influenza vaccines
+
+1\. By way of derogation from Article 10, the procedure laid down in paragraphs 2 to 5 shall apply to the examination of variations concerning changes to the active substance for the purposes of the annual update of a human influenza vaccine.
+
+2\. The holder shall submit simultaneously to all relevant authorities an application containing the elements listed in Annex IV.
+
+If the application fulfils the requirements laid down in the first subparagraph, the competent authority of the reference Member State shall acknowledge receipt of a valid application and inform the holder and the other relevant authorities that the procedure starts from the date of such acknowledgement.
+
+3\. The competent authority of the reference Member State shall assess the application submitted. Where deemed necessary, the competent authority of the reference Member State may request additional data to the holder in order to complete its assessment.
+
+4\. The competent authority shall prepare a decision and an assessment report within 45 days from the receipt of a valid application.
+
+The 45-day period referred to in the first subparagraph shall be suspended from the moment when the additional data referred to in paragraph 3 is requested until the data is submitted.
+
+5\. Within 12 days from the receipt of the decision and the assessment report of the competent authority of the reference Member State, the relevant authorities shall adopt a decision accordingly and inform the competent authority of the reference Member State and the holder thereof.
+
+#### Article 13 — Coordination group and arbitration
+
+1\. Where recognition of a decision in accordance with Article 10(4) or approval of an opinion in accordance with Article 20(8), point (b), is not possible on grounds of a potential serious risk to public health, a relevant authority shall request that the matter of disagreement be forthwith referred to the coordination group.
+
+The party in disagreement shall give a detailed statement of the reasons for its position to all Member States concerned and to the holder.
+
+2\. Article 29(3), (4) and (5) of Directive 2001/83/EC shall apply to the matter of disagreement referred to in paragraph 1.
+
+## CHAPTER IIa — VARIATIONS TO PURELY NATIONAL MARKETING AUTHORISATIONS
+
+#### Article 13a — Notification procedure for minor variations of type IA
+
+1\. Where a minor variation of type IA is made, the holder shall submit to the competent authority a notification containing the elements listed in Annex IV. This notification shall be submitted within 12 months following the implementation of the variation as an annual update for all minor variations of type IA or be submitted as part of grouping in accordance with Article 13d(2), first subparagraph, points (b) and (c), or as part of super-grouping of variations in accordance with Article 7a.
+
+The notification shall be submitted immediately after the implementation of the variation in the case of minor variations requiring immediate notification for the continuous supervision of the medicinal product concerned.
+
+By way of derogation from the first subparagraph, in justified cases, the competent authority of the Member State may accept the immediate submission of the notification after the implementation of the variation.
+
+2\. Within 30 days following receipt of the notification, the measures provided for in Article 13e shall be taken.
+
+#### Article 13b — Notification procedure for minor variations of type IB
+
+1\. The holder shall submit to the competent authority a notification containing the elements listed in Annex IV.
+
+If the notification fulfils the requirement laid down in the first subparagraph, the competent authority shall acknowledge receipt of a valid notification.
+
+2\. If within 30 days following the acknowledgement of receipt of a valid notification, the competent authority has not sent the holder an unfavourable opinion, the notification shall be deemed accepted by the competent authority.
+
+Where the notification is accepted by the competent authority, the measures provided for in Article 13e shall be taken.
+
+3\. Where the competent authority is of the opinion that the notification cannot be accepted, it shall inform the holder, stating the grounds on which its unfavourable opinion is based.
+
+Within 30 days following the receipt of the unfavourable opinion, the holder may submit to the competent authority an amended notification in order to take due account of the grounds laid down in that opinion.
+
+If the holder does not amend the notification in accordance with the second subparagraph, the notification shall be deemed rejected.
+
+4\. Where an amended notification has been submitted, the competent authority shall assess it within 30 days following its receipt and the measures provided for in Article 13e shall be taken.
+
+5\. This Article shall not apply where a type IB variation request is submitted in a grouping that includes a variation type II and does not contain an extension. In such case, the prior approval procedure in Article 13c shall apply.
+
+This Article shall not apply where a type IB variation request is submitted in a grouping that includes an extension. In such case, the procedure in Article 19 shall apply.
+
+#### Article 13c — ‘Prior Approval’ procedure for major variations of type II
+
+1\. The holder shall submit to the competent authority an application containing the elements listed in Annex IV.
+
+If the application fulfils the requirements laid down in the first subparagraph, the competent authority shall acknowledge receipt of a valid application.
+
+2\. Within 60 days following the acknowledgement of receipt of a valid application, the competent authority shall conclude the assessment.
+
+The competent authority may reduce the period referred to in the first subparagraph, having regard to the urgency of the matter, or may extend it to 90 days for variations listed in Annex V or for grouping of variations in accordance with Article 13d(2), first subparagraph, point (c).
+
+3\. Within the periods referred to in paragraph 2, the competent authority may request the holder to provide supplementary information within a time limit set by the competent authority. In this case the procedure shall be suspended until such supplementary information has been provided and the competent authority may extend the period referred to in paragraph 2.
+
+4\. Within 30 days after the conclusion of the assessment, the measures provided for in Article 13e shall be taken.
+
+5\. This Article shall not apply where a type II variation request is submitted in a grouping that includes an extension. In such case, the procedure in Article 19 shall apply.
+
+#### Article 13d — Grouping of variations to purely national marketing authorisations
+
+1\. Where several variations are notified or applied for, a separate notification or application in accordance with Articles 13a, 13b, 13c, or 19 as appropriate shall be submitted to the competent authority in respect of each variation sought.
+
+2\. By way of derogation from paragraph 1 the following shall apply:
+
+(a) where the same minor variation(s) of type IA to the terms of one or more marketing authorisations owned by the same holder are notified at the same time to the same competent authority, a single notification as referred to in Article 13a may cover all such variations;
+
+(b) where several variations to the terms of the same marketing authorisation are submitted at the same time to the same competent authority, a single submission may cover all such variations provided that the variations concerned fall within one of the cases listed in Annex III;
+
+(c) where the same variation(s) to the terms of one or more marketing authorisations owned by the same holder are submitted at the same time to the same competent authority and they are not covered under subparagraph (a) or (b), a single submission may cover all such variations provided that the competent authority agrees to such single submission.
+
+The submission referred to in points (b) and (c) shall be made by means of the following:
+
+(i) a single notification in accordance with Article 13b where at least one of the variations is a minor variation of type IB and the remaining variations are minor variations;
+
+(ii) a single application in accordance with Article 13c where at least one of the variations is a major variation of type II and none of the variations is an extension;
+
+(iii) a single application in accordance with Article 19 where at least one of the variations is an extension.
+
+#### Article 13e — Measures to close the procedures of Articles 13a to 13c
+
+Where reference is made to this Article, the competent authority shall take the following measures:
+
+(a) it shall inform the holder as to whether the variation is accepted or rejected;
+
+(b) where the variation is rejected, it shall inform the holder of the grounds for the rejection;
+
+(c) where necessary, it shall amend the decision granting the marketing authorisation in accordance with the accepted variation within the time limit laid down in paragraph 1 of Article 23.
+
+#### Article 13f — Human influenza vaccines
+
+1\. By way of derogation from Article 13c, the procedure laid down in paragraphs 2 to 4 shall apply to the examination of variations concerning changes to the active substance for the purposes of the annual update of a human influenza vaccine.
+
+2\. The holder shall submit to the competent authority an application containing the elements listed in Annex IV.
+
+If the application fulfils the requirements laid down in the first subparagraph, the competent authority shall acknowledge receipt of a valid application.
+
+3\. The competent authority shall assess the application submitted. Where deemed necessary, the competent authority may request additional data to the holder in order to complete its assessment.
+
+4\. The competent authority shall adopt a decision within 45 days from the receipt of a valid application and shall take the measures provided for in Article 13e.
+
+The 45-day period referred to in the first subparagraph shall be suspended from the moment when the additional data referred to in paragraph 3 is requested until the data is submitted.
+
+## CHAPTER III — VARIATIONS TO CENTRALISED MARKETING AUTHORISATIONS
+
+#### Article 14 — Notification procedure for minor variations of type IA
+
+1\. Where a minor variation of type IA is made, the holder shall submit to the Agency a notification containing the elements listed in Annex IV. This notification shall be submitted within 12 months following implementation of the variation as an annual update for all minor variations of type IA or be submitted as part of grouping in accordance with Article 7(2), first subparagraph, points (b) and (c), or as part of super-grouping of variations in accordance with Article 7a.
+
+The notification shall be submitted immediately after the implementation of the variation in the case of minor variations requiring immediate notification for the continuous supervision of the medicinal product concerned.
+
+By way of derogation from the first subparagraph, in justified cases, the Agency may accept the immediate submission of the notification of the variation.
+
+2\. Within 30 days following receipt of the notification, the measures provided for in Article 17 shall be taken.
+
+#### Article 15 — Notification procedure for minor variations of type IB
+
+1\. The holder shall submit to the Agency a notification containing the elements listed in Annex IV.
+
+If the notification fulfils the requirement laid down in the first subparagraph, the Agency shall acknowledge receipt of a valid notification.
+
+2\. If within 30 days following the acknowledgement of receipt of a valid notification the Agency has not sent the holder an unfavourable opinion, its opinion shall be deemed favourable.
+
+Where the opinion of the Agency on the notification is favourable, the measures provided for in Article 17 shall be taken.
+
+3\. Where the Agency is of the opinion that the notification cannot be accepted, it shall inform the holder, stating the grounds on which its unfavourable opinion is based.
+
+Within 30 days of receipt of the unfavourable opinion, the holder may submit to the Agency an amended notification in order to take due account of the grounds laid down in that opinion.
+
+If the holder does not amend the notification in accordance with the second subparagraph, the notification shall be deemed rejected.
+
+4\. Where an amended notification has been submitted, the Agency shall assess it within 30 days following its receipt and the measures provided for in Article 17 shall be taken.
+
+5\. This Article shall not apply where a type IB variation request is submitted in a grouping that includes a variation type II and does not contain an extension. In such case, the prior approval procedure in Article 16 shall apply.
+
+This Article shall not apply where a type IB variation request is submitted in a grouping that includes an extension. In such case, the procedure in Article 19 shall apply.
+
+#### Article 16 — ‘Prior Approval’ procedure for major variations of type II
+
+1\. The holder shall submit to the Agency an application containing the elements listed in Annex IV.
+
+If the application fulfils the requirements laid down in the first subparagraph, the Agency shall acknowledge receipt of a valid application.
+
+2\. The Agency shall issue an opinion on the valid application referred to in paragraph 1 within 60 days following its receipt.
+
+The Agency may reduce the period referred to in the first subparagraph, having regard to the urgency of the matter, or may extend it to 90 days for variations listed in Annex V or for grouping of variations in accordance with Article 7(2), first subparagraph, point (c).
+
+3\. Within the period referred to in paragraph 2, the Agency may request the holder to provide supplementary information within a time limit set by the Agency. The procedure shall be suspended until such time as the supplementary information has been provided. In this case the Agency may extend the period referred to in paragraph 2.
+
+4\. Article 9(1) and (2) of Regulation (EC) No 726/2004 shall apply to the opinion on the valid application.
+
+Within 15 days from the adoption of the final opinion on the valid application, the measures provided for in Article 17 shall be taken.
+
+5\. This Article shall not apply where a type II variation request is submitted in a grouping that includes an extension. In such case, the procedure in Article 19 shall apply.
+
+#### Article 17 — Measures to close the procedures of Articles 14 to 16
+
+1\. Where reference is made to this Article, the Agency shall take the following measures:
+
+(a) it shall inform the holder of the outcome of the assessment;
+
+(b) where the variation is rejected, it shall inform the holder of the grounds for the rejection;
+
+(c) where the outcome of the assessment is favourable and the variation affects the terms of the Commission decision granting the marketing authorisation, the Agency shall transmit to the Commission its opinion and the grounds for its opinion as well as the revised versions of the documents set out in Article 9(4) of Regulation (EC) No 726/2004.
+
+2\. In the cases identified under paragraph 1, point (c), the Commission, having regard to the opinion from the Agency and within the time limit provided for in Article 23(1a), shall amend where necessary the decision granting the marketing authorisation. The Union Register of Medicinal Products provided for in Article 13(1) of Regulation (EC) No 726/2004 shall be updated accordingly.
+
+#### Article 18 — Human influenza and human coronavirus vaccines
+
+1\. By way of derogation from Article 16, the procedure laid down in paragraphs 2 to 6 of this Article shall apply to the examination of variations concerning changes to the active substance for the purposes of the annual update of a human influenza or human coronavirus vaccine.
+
+For annual updates of human coronavirus vaccines that procedure shall only apply after a public announcement of the Agency. The announcement shall be published on the Agency’s webportal and include the timeframe for application.
+
+2\. The holder shall submit to the Agency an application containing the elements listed in Annex IV.
+
+If the application fulfils the requirements laid down in the first subparagraph, the Agency shall acknowledge receipt of a valid application and inform the holder that the procedure starts from the date of such acknowledgement.
+
+3\. The Agency shall assess the application submitted. Where deemed necessary, the Agency may request additional data to complete its assessment.
+
+4\. Within 55 days from the receipt of a valid application, the Agency shall adopt an opinion. The Agency’s opinion on the application shall be transmitted to the holder. Where the Agency’s opinion is favourable, the Agency shall also transmit to the Commission its opinion and the grounds for its opinion as well as the revised versions of the documents set out in Article 9(4) of Regulation (EC) No 726/2004.
+
+5\. The 55-day period referred to in paragraph 4 shall be suspended from the moment when the additional data referred to in paragraph 3 is requested until the data is submitted.
+
+6\. Having regard to the favourable opinion of the Agency, the Commission shall amend where necessary the decision granting the marketing authorisation. The Union Register of Medicinal Products provided for in Article 13(1) of Regulation (EC) No 726/2004 shall be updated accordingly.
+
+## CHAPTER IV
+
+### SECTION 1 — Special procedures
+
+#### Article 19 — Extensions of marketing authorisations
+
+1\. An application for an extension of a marketing authorisation shall be evaluated in accordance with the same procedure as for the initial marketing authorisation to which it relates.
+
+2\. An extension shall either be granted a marketing authorisation in accordance with the same procedure as for the granting of the initial marketing authorisation to which it relates or be included in that marketing authorisation.
+
+#### Article 20 — Worksharing procedure
+
+1\. By way of derogation from Articles 7(1) and Articles 9, 10, 13b, 13c, 13d, 15 and 16 the holder shall follow the worksharing procedure laid down in paragraphs 3 to 9 of this Article in the following cases:
+
+(a) for marketing authorisations referred to in Chapters II and III, where a minor variation of type IB, a major variation of type II, or a group of variations as provided for in Article 7(2)(b) or (c) that does not contain any extension relates to several marketing authorisations owned by the same holder;
+
+(b) for purely national marketing authorisations referred to in Chapter IIa, where a minor variation of type IB, a major variation of type II, or a group of variations as provided for in Article 13d(2)(b) or (c) that does not contain any extension relates to several marketing authorisations owned by the same holder;
+
+(c) for purely national marketing authorisations referred to in Chapter IIa, where a minor variation of type IB, a major variation of type II, or a group of variations as provided for in Article 13d(2)(b) or (c) that does not contain any extension relates to one marketing authorisation that is owned by the same holder in more than one Member State.
+
+Variations covered under (a), (b) or (c) may be subject to the same worksharing procedure.
+
+The reference authority or, in the case of purely national marketing authorisations, the competent authority may refuse to process a submission under the worksharing procedure where the same change(s) to different marketing authorisations require the submission of individual supportive data for each medicinal product concerned or a separate product-specific assessment.
+
+3\. The holder shall submit to all relevant authorities an application containing the elements listed in Annex IV, with an indication of the preferred reference authority.
+
+The coordination group shall choose a reference authority. If the application fulfils the requirements laid down in the first subparagraph, that reference authority shall acknowledge receipt of a valid application.
+
+Where the chosen reference authority is the competent authority of a Member State which has not granted a marketing authorisation for all the medicinal products affected by the application, the coordination group may request another relevant authority to assist the reference authority in the evaluation of that application.
+
+4\. The reference authority shall issue an opinion on a valid application as referred to in paragraph 3 within a period that corresponds to the assessment period of the highest type of variation included following acknowledgement of receipt of a valid application in the case of minor variations of type IB or major variations of type II.
+
+5\. The reference authority may reduce the period referred to in paragraph 4, having regard to the urgency of the matter, or may extend it to 90 days for variations listed in Annex V or for grouping of variations in accordance with Article 7(2), first subparagraph, point (c), or Article 13d(2), first subparagraph, point (c).
+
+6\. Within the period referred to in paragraph 4, the reference authority may request the holder to provide supplementary information within a time limit set by the reference authority. In this case:
+
+(a) the reference authority shall inform the other relevant authorities of its request for supplementary information;
+
+(b) the procedure shall be suspended until such supplementary information has been provided;
+
+(c) the reference authority may extend the period referred to in paragraph 4 to 90 days.
+
+7\. Where the reference authority is the Agency, Article 9(1) and (2) of Regulation (EC) No 726/2004 shall apply to the opinion referred to in paragraph 4.
+
+The Agency’s opinion on the application shall be transmitted to the holder and the Member States, together with the assessment report. Where the outcome of the assessment is favourable and the variation affects the terms of a Commission decision granting the marketing authorisation, the Agency shall also transmit to the Commission its opinion and the grounds for its opinion as well as the revised versions of the documents set out in Article 9(4) of Regulation (EC) No 726/2004.
+
+Where the Agency issues a favourable opinion, the following shall apply:
+
+(a) if the opinion recommends the variation to the terms of a Commission decision granting the marketing authorisation, the Commission shall, having regard to the final opinion and within the time limits provided for in Article 23(1a), amend the decision accordingly, provided that the revised versions of the documents set out in Article 9(4) of Regulation (EC) No 726/2004 have been received. The Union Register of Medicinal Products provided for in Article 13(1) of Regulation (EC) No 726/2004 shall be updated accordingly;
+
+(b) the Member States concerned shall, within 60 days following receipt of the final opinion of the Agency, approve that final opinion, inform the Agency thereof and, where necessary, amend the marketing authorisations concerned accordingly, provided that the documents necessary for the amendment of the marketing authorisation have been transmitted to the Member States concerned.
+
+8\. Where the reference authority is the competent authority of a Member State:
+
+(a) it shall send its opinion to the holder and to all relevant authorities;
+
+(b) without prejudice to Article 13 and within 30 days following receipt of the opinion, the relevant authorities shall approve that opinion and inform the reference authority;
+
+(c) the concerned marketing authorisations shall be amended accordingly within 30 days following the approval of the opinion, provided that the documents necessary for the amendment of the marketing authorisation have been transmitted to the Member States concerned.
+
+9\. Upon request from the reference authority, the Member States concerned shall provide information related to the marketing authorisations affected by the variation for the purpose of verifying the validity of the application and of issuing the opinion on the valid application.
+
+10\. Where harmonisation of a section of the summary of product characteristics of a purely national marketing authorisation has been achieved through a worksharing procedure, any subsequent variation submission affecting the harmonised section shall be transmitted simultaneously to all Member States concerned.
+
+11\. In justified cases, in accordance with the guidelines referred to in Article 4(1), when agreed by the competent authorities of the Member States and the Agency, the holder may choose to follow the worksharing procedure laid down in paragraphs 3 to 9 for the marketing authorisations referred to in Chapters II, IIa and III, where a minor variation of type IB, a major variation of type II, or a group of variations where at least one of the variations is a minor variation of type IB or a major variation of type II that does not contain any extension, relates to several marketing authorisations owned by several holders in more than one Member State.
+
+#### Article 21 — Public health emergency
+
+1\. By way of derogation from Chapters I, II, IIa and III, where a public health emergency at Union level is recognised by the Commission pursuant to Regulation (EU) 2022/2371 of the European Parliament and of the Council ( 1 ) the relevant authorities, or in the case of centralised marketing authorisations, the Commission may, where certain pharmaceutical, non-clinical or clinical data are missing, exceptionally and temporarily accept a variation to the terms of a marketing authorisation for a human vaccine pertaining to the pathogen causing the public health emergency.
+
+2\. The relevant authority may request the holder to provide supplementary information in order to complete its assessment within a time limit set by it.
+
+3\. Variations may be accepted pursuant to paragraph 1 only if the benefit-risk balance of the medicinal product is favourable.
+
+4\. Where a variation is accepted pursuant to paragraph 1, the holder shall submit the missing pharmaceutical, non-clinical and clinical data within a time limit set by the relevant authority.
+
+5\. In the case of centralised marketing authorisations, the missing data and the time limit for submission or compliance shall be specified in the conditions to the marketing authorisation. Where the marketing authorisation has been granted in accordance with Article 14-a of Regulation (EC) No 726/2004 this may be done as part of the specific obligations referred to in paragraph 4 of that Article.
+
+#### Article 22 — Urgent safety restrictions
+
+1\. Where, in the event of a risk to public health in the case of medicinal products, the holder takes urgent safety restrictions on its own initiative, it shall forthwith inform all relevant authorities and, in the case of a centralised marketing authorisation, the Agency.
+
+If the relevant authority or, in the case of a centralised marketing authorisation, the Agency has not raised objections within 24 hours following receipt of that information, the urgent safety restrictions shall be deemed accepted.
+
+2\. In the event of a risk to public health in the case of medicinal products, relevant authorities or, in the case of centralised marketing authorisations, the Commission may impose urgent safety restrictions on the holder.
+
+3\. Where an urgent safety restriction is taken by the holder or imposed by a relevant authority or the Commission, the holder shall submit the corresponding application for variation within 15 days following the initiation of that restriction.
+
+### SECTION 2 — Amendments to the decision granting the marketing authorisation and implementation
+
+#### Article 23 — Amendments to the decision granting the marketing authorisation
+
+1\. Amendments to the decision granting the marketing authorisation resulting from the procedures laid down in Chapters II and IIa shall be made:
+
+(a) in the case of major variations of type II, within two months following receipt of the information referred to in Article 11(1)(c) and Article 13e(a), provided that the documents necessary for the amendment of the marketing authorisation have been transmitted to the Member States concerned;
+
+(b) in the other cases, within six months following receipt of the information referred to in Article 11(1)(c) and Article 13e(a), provided that the documents necessary for the amendment of the marketing authorisation have been transmi tted to the Member States concerned.
+
+1a. Amendments to the decision granting the marketing authorisation resulting from the procedures laid down in Chapter III shall be made:
+
+(a) within two months following receipt of the information referred to in Article 17(1)(c) for the following variations:
+
+(i) variations related to the addition of a new therapeutic indication or to the modification of an existing one;
+
+(ii) variations related to the addition of a new contraindication;
+
+(iii) variations related to a change in posology;
+
+(vi) variations related to changes to the active substance of a seasonal, pre-pandemic or pandemic vaccine against human influenza;
+
+(viii) other type II variations that are intended to implement changes to the decision granting the marketing authorisation due to a significant public health concern;
+
+(ix) variations related to changes to the active substance of a human coronavirus vaccine, including replacement or addition of a serotype, strain, antigen or coding sequence or combination of serotypes, strains, antigens or coding sequences;
+
+(x) variations related to the replacement or addition of a serotype, strain, antigen or coding sequence or combination of serotypes, strains, antigens or coding sequences of a human vaccine that has the potential to address a public health emergency;
+
+(b) within 12 months following receipt of the information referred to in Article 17(1)(c) in the other cases.
+
+The Agency shall determine the variations referred to in point (a)(viii) and provide reasons for such determination.
+
+2\. Where the decision granting a marketing authorisation is amended as a result of one of the procedures laid down in Chapters II, IIa, III and IV, the relevant authority or, in the case of centralised marketing authorisations, the Commission shall notify the amended decision without delay to the holder.
+
+#### Article 23a — Compliance with the paediatric investigation plan
+
+The statement indicating compliance with the agreed completed paediatric investigation plan provided for under Article 28(3) of Regulation (EC) No 1901/2006 shall be included within the technical dossier of the marketing authorisation.
+
+The relevant authority shall provide the holder with a confirmation that the statement is included in the technical dossier within 30 days after the relevant assessment has been concluded.
+
+#### Article 24 — Implementation of variations
+
+1\. Minor variations of type IA may be implemented any time before completion of the procedures laid down in Articles 8, 13a and 14.
+
+Where a notification concerning one or several minor variations of type IA is rejected, the holder shall cease to apply the concerned variation(s) immediately after receipt of the information referred to in Articles 11(1)(a), 13e(a), and 17(1)(a).
+
+2\. Minor variations of type IB may only be implemented in the following cases:
+
+(a) for variations submitted in accordance with the procedures laid down in Chapter II, after the competent authority of the reference Member State has informed the holder that it has accepted the notification pursuant to Article 9, or after the notification is deemed accepted pursuant to Article 9(2);
+
+(b) for variations submitted in accordance with the procedures laid down in Chapter IIa, after the relevant authority has informed the holder that it has accepted the notification pursuant to Article 13b, or after the notification is deemed accepted pursuant to Article 13b(2);
+
+(c) for variations submitted in accordance with the procedures laid down in Chapter III, after the Agency has informed the holder that its opinion referred to in Article 15 is favourable, or after that opinion is deemed favourable pursuant to Article 15(2);
+
+(d) for variations submitted in accordance with the procedure laid down in Article 20, after the reference authority has informed the holder that its opinion is favourable.
+
+3\. Major variations of type II may only be implemented in the following cases:
+
+(a) for variations submitted in accordance with the procedures laid down in Chapter II, 30 days after the competent authority of the reference Member State has informed the holder that it has accepted the variation pursuant to Article 10, under the condition that the documents necessary for the amendment to the marketing authorisation have been provided to the Member States concerned. Where an arbitration procedure has been initiated in accordance with Article 13, the holder shall not implement the variation until the arbitration procedure has concluded that the variation is accepted;
+
+(b) for variations submitted in accordance with the procedures laid down in Chapter IIa, after the competent authority has informed the holder that it has accepted the variation pursuant to Article 13c;
+
+(c) for variations submitted in accordance with the procedures laid down in Chapter III, after the Agency has informed the holder that its opinion referred to in Article 16 is favourable, unless the variation is one referred to in Article 23(1a)(a).
+
+Variations referred to in Article 23(1a)(a) may only be implemented after the Commission has amended the decision granting the marketing authorisation and notified the holder thereof;
+
+(d) for variations submitted in accordance with the procedure laid down in Article 20, 30 days after the reference authority has informed the holder that its opinion is favourable, under the condition that the documents necessary for the amendment to the marketing authorisation have been provided to the Member States concerned; unless an arbitration procedure has been initiated in accordance with Article 13, or unless the procedure concerns a variation to a centralised marketing authorisation as referred to in Article 23(1a)(a).
+
+Where an arbitration procedure has been initiated in accordance with Article 13, or where the worksharing procedure concerns a variation to a centralised marketing authorisation as referred to in Article 23(1a)(a), the holder shall not implement the variation until the arbitration procedure has concluded that the variation is accepted, or until the Commission Decision amending the decision granting the marketing authorisation has been adopted.
+
+4\. An extension may only be implemented after the relevant authority or, in the case of extensions to a centralised marketing authorisation, the Commission has amended the decision granting the marketing authorisation and notified the holder accordingly.
+
+5\. Urgent safety restrictions and variations which are related to safety issues shall be implemented within a time frame agreed by the holder and the relevant authority and, in the case of a centralised marketing authorisation, the Agency.
+
+By way of derogation from the first subparagraph, urgent safety restrictions and variations related to safety issues which concern marketing authorisations granted in accordance with Chapter 4 of Directive 2001/83/EC shall be implemented within a time frame agreed by the holder and the competent authority of the reference Member State, in consultation with the other relevant authorities.
+
+#### Article 24a — Application of national provisions on variations to purely national marketing authorisations
+
+Member States that, in accordance with Article 23b(4) of Directive 2001/83/EC, may continue to apply their national provisions on variations to certain purely national marketing authorisations are listed in Annex VI to this Regulation.
+
+## CHAPTER V — FINAL PROVISIONS
+
+#### Article 25 — Continuous monitoring
+
+Where requested by a relevant authority, the holder shall supply without delay any information related to the implementation of a given variation.
+
+#### Article 27 — Repeal and transitional provision
+
+1\. Regulations (EC) No 1084/2003 and (EC) No 1085/2003 are hereby repealed.
+
+References to the repealed Regulations shall be construed as references to this Regulation.
+
+2\. By way of derogation from paragraph 1, Regulations (EC) Nos 1084/2003 and 1085/2003 shall continue to apply to valid notifications or applications for variations which are pending at the date referred to in the second subparagraph of Article 28.
+
+#### Article 28 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2010.
+
+By way of derogation from the second subparagraph, the recommendations on unforeseen variations provided for in Article 5 may be requested, delivered and published from the date of entry into force referred to in the first subparagraph.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Extensions of marketing authorisations**
+
+1\. Changes to the active substance(s):
+
+(a) replacement of a chemical active substance by a different salt/ester complex/derivative, with the same therapeutic moiety, where the efficacy/safety characteristics are not significantly different;
+
+(b) replacement by a different isomer, a different mixture of isomers, of a mixture by an isolated isomer (e.g. racemate by a single enantiomer), where the efficacy/safety characteristics are not significantly different;
+
+(c) replacement of a biological active substance with one of a slightly different molecular structure where the efficacy or safety characteristics are not significantly different, with the exception of the following:
+
+— changes to the active substance of a seasonal, pre-pandemic or pandemic vaccine against human influenza;
+
+— replacement or, upon agreement of the relevant authorities, addition of a serotype, strain, antigen or coding sequence or combination of serotypes, strains, antigens or coding sequences for a human coronavirus vaccine;
+
+— replacement or, upon agreement of the relevant authorities, addition of a serotype, strain, antigen or coding sequence or combination of serotypes, strains, antigens or coding sequences, for a human vaccine other than for human influenza or coronavirus that has the potential to address a public health emergency in the Union;
+
+(d) modification of the vector used to produce the antigen or the source material, including a new master cell bank from a different source, where the efficacy/safety characteristics are not significantly different;
+
+(e) a new ligand or coupling mechanism for a radiopharmaceutical, where the efficacy/safety characteristics are not significantly different;
+
+(f) change to the extraction solvent or the ratio of herbal drug to herbal drug preparation where the efficacy/safety characteristics are not significantly different.
+
+2\. Changes to strength, pharmaceutical form and route of administration:
+
+(a) change of bioavailability;
+
+(b) change of pharmacokinetics e.g. change in rate of release;
+
+(c) change or addition of a new strength/potency;
+
+(d) change or addition of a new pharmaceutical form;
+
+(e) change or addition of a new route of administration ( 2 ).
+
+## ANNEX II
+
+**Classification of variations**
+
+1\. The following variations shall be classified as minor variations of type IA:
+
+(a) variations of purely administrative nature that are related to the identity and contact details of:
+
+— the holder;
+
+— the manufacturer or supplier of any starting material, reagent, intermediate, active substance used in the manufacturing process or finished product;
+
+(b) variations related to the deletion of any manufacturing site, including for an active substance, intermediate or finished product, packaging site, manufacturer responsible for batch release, site where batch control takes place;
+
+(c) variations related to minor changes to an approved physico-chemical test procedure, where the updated procedure is demonstrated to be at least equivalent to the former test procedure, appropriate validation studies have been performed and the results show that the updated test procedure is at least equivalent to the former;
+
+(d) variations related to changes made to the specifications of the active substance or of an excipient in order to comply with an update of the relevant monograph of the European Pharmacopoeia or of the national pharmacopoeia of a Member State, where the change is made exclusively to comply with the pharmacopoeia and the specifications for product specific properties are unchanged;
+
+(e) variations related to changes in the packaging material not in contact with the finished product, which do not affect the delivery, use, safety or stability of the medicinal product;
+
+(f) variations related to the tightening of specification limits, where the change is not a consequence of any commitment from previous assessment to review specification limits and does not result from unexpected events arising during manufacture;
+
+(g) variations related to changes to a medical device that is an integral part of or in exclusive use with the medicinal product which have no impact on the quality, safety or efficacy of the medicinal product.
+
+2\. The following variations shall be classified as major variations of type II:
+
+(a) variations related to the addition of a new therapeutic indication or to the modification of an existing one;
+
+(b) variations related to significant modifications of the summary of product characteristics due in particular to new quality, pre-clinical, clinical or pharmacovigilance findings;
+
+(c) variations related to changes outside the range of approved specifications, limits or acceptance criteria;
+
+(d) variations related to substantial changes to the manufacturing process, formulation, specifications or impurity profile of the active substance or finished medicinal product which may have a significant impact on the quality, safety or efficacy of the medicinal product;
+
+(f) variations related to the introduction of a new design space, where the design space has been developed in accordance with the relevant European and international scientific guidelines;
+
+(fa) variations related to the introduction of a post approval change management protocol where the protocol has been developed in accordance with the relevant European and international scientific guidelines;
+
+(j) variations related to changes to the active substance of a seasonal, pre-pandemic or pandemic vaccine against human influenza;
+
+(l) variations related to the replacement or, upon agreement of the relevant authorities, addition of a serotype, strain, antigen or coding sequence or combination of serotypes, strains, antigens or coding sequences for a human coronavirus vaccine;
+
+(m) variations related to the replacement or, upon agreement of the relevant authorities, addition of a serotype, strain, antigen or coding sequence or combination of serotypes, strains, antigens or coding sequences of a human vaccine that has the potential to address a public health emergency;
+
+(n) variations related to changes to a medical device that is an integral part of or in exclusive use with the medicinal product which may have a significant impact on the quality, safety or efficacy of the medicinal product.
+
+## ANNEX III
+
+**Cases for grouping variations referred to in Article 7(2)(b) and Article 13d(2)(b)**
+
+1\. One of the variations in the group is an extension of the marketing authorisation.
+
+2\. One of the variations in the group is a major variation of type II; all other variations in the group are variations which are consequential to this major variation of type II.
+
+3\. One of the variations in the group is a minor variation of type IB; all other variations in the group are minor variations which are consequential to this minor variation of type IB.
+
+4\. All variations in the group relate solely to changes of administrative nature to the summary of product characteristics, labelling and package leaflet or insert.
+
+5\. All variations in the group are changes to an Active Substance Master File, Vaccine Antigen Master File or Plasma Master File.
+
+6\. All variations in the group relate to a project intended to improve the manufacturing process and the quality of the medicinal product concerned or its active substances, including related administrative changes.
+
+7\. All variations in the group are changes affecting the quality of a human pandemic influenza or coronavirus vaccine.
+
+8\. All variations in the group are changes to the pharmacovigilance system referred to in Article 8(3), point (ia) of Directive 2001/83/EC.
+
+9\. All variations in the group are consequential to a given urgent safety restriction and submitted in accordance with Article 22.
+
+10\. All variations in the group relate to the implementation of a given class labelling.
+
+11\. All variations in the group are consequential to the assessment of a given periodic safety update report.
+
+12\. All variations in the group are consequential to a given post-authorisation study conducted under the supervision of the holder.
+
+14\. All variations in the group are consequential to a specific procedure or condition carried out pursuant to Article 14(8) of Regulation (EC) No 726/2004 or Article 22 of Directive 2001/83/EC.
+
+## ANNEX IV
+
+**Elements to be submitted**
+
+1\. A list of all the marketing authorisations affected by the notification or application.
+
+2\. A description of all the variations submitted, including:
+
+(a) in the case of minor variations of type IA, the date of implementation for each variation described;
+
+(b) in the case of minor variations of type IA which do not require immediate notification, a description of all minor variations of type IA made in the last 12 months to the terms of the concerned marketing authorisation(s) and which have not been already notified.
+
+3\. All necessary documents as listed in the guidelines referred to in point (b) of Article 4(1).
+
+4\. Where a variation leads to or is the consequence of other variations to the terms of the same marketing authorisation, a description of the relation between these variations.
+
+5\. In the case of variations to centralised marketing authorisations, the relevant fee provided for in Council Regulation (EC) No 297/95 ( 3 ).
+
+6\. In the case of variations to marketing authorisations granted by the competent authorities of Member States:
+
+(a) a list of those Member States with an indication of the reference Member State if applicable;
+
+(b) the relevant fees provided for in the applicable national rules in the Member States concerned.
+
+## ANNEX V
+
+Variations concerning a change to or addition of therapeutic indications.
+
+## ANNEX VI
+
+**List of Member States referred in Article 24a**
+
+the Republic of Bulgaria,
+
+the Federal Republic of Germany.
+
+( 1 ) Regulation (EU) 2022/2371 of the European Parliament and of the Council of 23 November 2022 on serious cross-border threats to health and repealing Decision No 1082/2013/EU (OJ L 314, 6.12.2022, p. 26, ELI: http://data.europa.eu/eli/reg/2022/2371/oj).
+
+( 2 ) For parenteral administration, it is necessary to distinguish between intra-arterial, intravenous, intramuscular, subcutaneous and other routes.
+
+( 3 ) OJ L 35, 15.2.1995, p. 1.

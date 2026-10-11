@@ -1,0 +1,261 @@
+---
+title: "Council Regulation (EEC) No 3922/91 of 16 December 1991 on the harmonization of technical requirements and administrative procedures in the field of civil aviation"
+identifier: "31991R3922"
+eli: "http://data.europa.eu/eli/reg/1991/3922/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1991-12-16
+entry_into_force: 1991-04-10
+last_amended: 2012-04-08
+consolidated_version: "01991R3922-20120408"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01991R3922-20120408"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EEC) No 3922/91 of 16 December 1991 on the harmonization of technical requirements and administrative procedures in the field of civil aviation
+
+**COUNCIL REGULATION (EEC) No 3922/91**
+
+**of 16 December 1991**
+
+**on the harmonization of technical requirements and administrative procedures in the field of civil aviation**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td>COMMISSION REGULATION (EC) No 2176/96 of 13 November 1996</td><td> L 291</td><td>15</td><td>14.11.1996</td></tr>
+<tr><td> M2</td><td>COMMISSION REGULATION (EC) No 1069/1999 of 25 May 1999</td><td> L 130</td><td>16</td><td>26.5.1999</td></tr>
+<tr><td> M3</td><td>COMMISSION REGULATION (EC) No 2871/2000 of 28 December 2000</td><td> L 333</td><td>47</td><td>29.12.2000</td></tr>
+<tr><td></td><td>REGULATION (EC) No 1592/2002 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 July 2002</td><td> L 240</td><td>1</td><td>7.9.2002</td></tr>
+<tr><td></td><td>REGULATION (EC) No 1899/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2006</td><td> L 377</td><td>1</td><td>27.12.2006</td></tr>
+<tr><td></td><td>REGULATION (EC) No 1900/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 December 2006</td><td> L 377</td><td>176</td><td>27.12.2006</td></tr>
+<tr><td> M7</td><td>COMMISSION REGULATION (EC) No 8/2008 of 11 December 2007</td><td> L 10</td><td>1</td><td>12.1.2008</td></tr>
+<tr><td></td><td>REGULATION (EC) No 216/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 February 2008</td><td> L 79</td><td>1</td><td>19.3.2008</td></tr>
+<tr><td> M9</td><td>COMMISSION REGULATION (EC) No 859/2008 of 20 August 2008</td><td> L 254</td><td>1</td><td>20.9.2008</td></tr>
+</table>
+
+**COUNCIL REGULATION (EEC) No 3922/91**
+
+**of 16 December 1991**
+
+**on the harmonization of technical requirements and administrative procedures in the field of civil aviation**
+
+THE COUNCIL OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Economic Community, and in particular Article 84 (2) thereof,
+
+Having regard to the proposal from the Commission ( 1 ),
+
+Having regard to the opinion of the European Parliament ( 2 ),
+
+Having regard to the opinion of the Economic and Social Committee ( 3 ),
+
+Whereas, as provided for in Article 8a of the Treaty, measures should be adopted with the aim of progressively establishing the internal market over a period expiring on 31 December 1992; whereas the internal market will comprise an area without internal frontiers in which the free movement of goods, persons, services and capital is ensured;
+
+Whereas a high general level of safety in civil aviation in Europe should be maintained and current technical requirements and administrative procedures in the Member States should be raised to the highest standard currently attained in the Community;
+
+Whereas safety is a key factor in Community air transport; whereas account should be taken of the Convention on International Civil Aviation, signed in Chicago on 7 December 1944, which provides for implementation of the measures necessary to ensure the safe operation of aircraft;
+
+Whereas the current restrictions on the transfer of aircraft and aviation products and of certain services in the field of aviation between Member States would cause distortions in the internal market;
+
+Whereas the Joint Aviation Authorities (JAA), an associated body of the European Civil Aviation Conference (ECAC), have worked out arrangements to cooperate in the development and implementation of joint aviation requirements (JARs) in all fields relating to the safety of aircraft and their operation;
+
+Whereas, under the common transport policy, technical requirements and administrative procedures relating to the safety of aircraft and their operation should be harmonized on the basis of the JAR codes of the JAA;
+
+Whereas the accession of all Member States to the JAA and the participation of the Commission in its proceedings would facilitate such harmonization;
+
+Whereas, in order to achieve the Community objectives as regards freedom of movement of persons and products and also as regards the common transport policy, Member States should accept the certification of products and of bodies and persons concerned with the design, manufacture, maintenance and operation of products, without further technical work or evaluation, when the product, organization or person has been certificated in accordance with the common technical requirements and administrative procedures;
+
+Whereas safety problems may arise and, in such case, Member States must take all appropriate measures as a matter of urgency; whereas such measures must be duly justified and, where the common technical requirements and administrative procedures present shortcomings, it is for the Commission, exercising its implementing powers, to adopt the necessary amendments;
+
+The application of provisions regarding flight and duty time limitations can result in significant disruption of rosters for undertakings the operating models of which are exclusively based on night-time operation. The Commission should, on the basis of evidence to be provided by the parties concerned, carry out an assessment and propose an adjustment of the provisions regarding flight and duty time limitations to take account of these special operating models.
+
+Whereas it is desirable that funding by the Member States of research to improve aviation safety be coordinated to ensure optimum use of resources and to enable the maximum benefit to be achieved;
+
+By 16 January 2009, the European Aviation Safety Agency should complete a scientific and medical evaluation of Subpart Q and, where relevant, of Subpart O of Annex III. On the basis of the results of this evaluation, and in accordance with the procedure referred to in Article 12(2), the Commission should, if necessary, draw up and submit proposals without delay to amend the relevant technical provisions.
+
+In the review of certain provisions referred to in Article 8a, the course towards further harmonisation of cabin crew training requirements hitherto adopted should be maintained, in order to facilitate the free movement of cabin crew personnel within the Community. In this context, the possibility of further harmonisation of cabin crew qualifications should be re-examined.
+
+The measures necessary for the implementation of this Regulation should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission ( 4 )
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. This Regulation shall apply to the harmonisation of technical requirements and administrative procedures in the field of civil aviation safety related to the operation and maintenance of aircraft and persons and organisations involved in such tasks.
+
+2\. The harmonized technical requirements and administrative procedures referred to in paragraph 1 shall apply to all aircraft operated by operators as defined in Article 2 (a), whether registered in a Member State or in a third country.
+
+3\. The application of this Regulation to the airport of Gibraltar is understood to be without prejudice to the respective legal positions of the Kingdom of Spain and the United Kingdom with regard to the dispute over sovereignty over the territory in which the airport is situated.
+
+4\. Application of this Regulation to Gibraltar airport shall be suspended until the arrangements included in the Joint Declaration made by the Foreign Ministers of the Kingdom of Spain and the United Kingdom on 2 December 1987 enter into operation. The Governments of Spain and the United Kingdom shall inform the Council of such date of entry into operation.
+
+## Article 2
+
+For the purpose of this Regulation:
+
+(a) ‘operator’ means a natural person residing in a Member State or a legal person established in a Member State using one or more aircraft in accordance with the regulations applicable in that Member State, or a Community air carrier as defined in Community legislation;
+
+(b) ‘product’ means a civil aircraft, engine, propeller or appliance;
+
+(c) ‘appliance’ means any instrument, equipment, mechanism, apparatus or accessory used or intended to be used in operating an aircraft in flight, whether installed in, intended to be installed in, or attached to, a civil aircraft, but not forming part of an airframe, engine or propeller;
+
+(d) ‘component’ means a material, part or sub-assembly not covered by the definitions in (b) or (c) for use on civil aircraft, engines, propellers or appliances;
+
+(e) ‘certification’ (of a product, service, organization or person) means any form of legal recognition that such a product, service, body or person complies with the applicable requirements. Such certification comprises two acts:
+
+(i) the act of checking that technically the product, service, organization or person complies with the applicable requirements; this act is referred to as ‘making the technical findings’;
+
+(ii) the act of formal recognition of such compliance with the applicable requirements by the issue of a certificate, licence, approval or other document in the manner required by national laws and procedures; this act is referred to as ‘making the legal findings’;
+
+(f) ‘maintenance’ means all inspections, servicing, modification and repair throughout the life of an aircraft needed to ensure that the aircraft remains in compliance with the type certification and offers a high level of safety in all circumstances; this shall include in particular modifications imposed by the authorities party to the arrangements referred to in (h) in accordance with airworthiness checking concepts;
+
+(g) ‘national variant’ means a national requirement or regulation imposed by a country in addition to or instead of a JAR;
+
+(h) ‘arrangements’ means arrangements developed under the auspices of the European Civil Aviation Conference (ECAC) for cooperation in the development and implementation of joint requirements in all fields relating to the safety and safe operation of aircraft. These arrangements are specified in Annex I;
+
+(i) ‘the Authority’ in Annex III means the competent authority that has granted the air operator's certificate (AOC).
+
+## Article 3
+
+1\. Without prejudice to Article 11, the common technical requirements and administrative procedures applicable in the Community with regard to commercial transportation by aeroplane shall be those specified in Annex III.
+
+2\. References made to Subpart M of Annex III or any of its provisions shall refer to Part-M of Commission Regulation (EC) No 2042/2003 of 20 November 2003 on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks ( 5 ) or its relevant provisions.
+
+## Article 4
+
+1\. With regard to the fields not covered by Annex III, common technical requirements and administrative procedures shall be adopted on the basis of Article 80(2) of the Treaty. The Commission shall, where appropriate and as soon as possible, submit suitable proposals in these fields.
+
+2\. Pending adoption of the proposals referred to in paragraph 1 member States may apply the relevant provisions of their existing national regulations.
+
+## Article 5
+
+Member States shall ensure that their responsible civil aviation authorities meet the conditions for membership of the JAA specified in the arrangements and shall sign such arrangements without reservation before 1 January 1992.
+
+## Article 6
+
+Aircraft operated under an authorisation granted by a Member State in compliance with the common technical requirements and administrative procedures may be operated under the same conditions in other Member States, without further technical requirements or evaluation by those other Member States.
+
+## Article 7
+
+Member States shall recognise the certification granted pursuant to this Regulation by another Member State or by a body acting on its behalf, to bodies or persons placed under its jurisdiction and under its authority, who are concerned with the maintenance of products and the operation of aircraft.
+
+## Article 8
+
+1\. The provisions of Articles 3 to 7 shall not prevent a Member State from reacting immediately to a safety problem which involves a product, person or organisation subject to this Regulation.
+
+If the safety problem results from an inadequate level of safety provided for by the common technical requirements and administrative procedures, or shortcomings in these requirements and procedures, the Member State shall immediately inform the Commission and the other Member States of the measures taken and the reasons therefor.
+
+The Commission shall decide, in accordance with the procedure referred to in Article 12(2), whether an inadequate level of safety or a shortcoming in the common technical requirements and administrative procedures justifies the continued application of the measures adopted pursuant to the first subparagraph of this paragraph. In such a case, the Commission shall also take the necessary steps to amend the common technical requirements and administrative procedures concerned in accordance with Article 4 or Article 11. If the Member State's measures are found not to be justified, it shall revoke the measures in question.
+
+2\. A Member State may grant exemptions from the technical requirements and administrative procedures specified by this Regulation in the case of unforeseen urgent operational circumstances or operational needs of a limited duration.
+
+The Commission and the other Member States shall be informed of any exemptions granted repeatedly or for a period of more than two months.
+
+When the Commission and other Member States are informed of exemptions granted by a Member State in accordance with the second subparagraph, the Commission shall examine whether the exemptions comply with the safety objectives of this Regulation or any other relevant rule of Community legislation.
+
+If the Commission finds that the exemptions granted do not comply with the safety objectives of this Regulation or any other relevant rule of Community legislation, it shall decide on safeguard measures in accordance with the procedure referred to in Article 12a.
+
+In such a case, the Member State concerned shall revoke the exemption.
+
+3\. In cases where a safety level equivalent to that attained by the application of the common technical requirements and administrative procedures set out in Annex III can be achieved by other means, Member States may, without discrimination on grounds of the nationality of the applicants and having regard to the need not to distort competition, grant approval derogating from these provisions.
+
+In such cases the Member State concerned shall notify the Commission of its intention to grant such approval, the reasons therefor and the conditions laid down in order to ensure that an equivalent level of safety is achieved.
+
+The Commission shall, within a period of three months following notification by a Member State, initiate the procedure referred to in Article 12(2) in order to decide whether the proposed approval of the measure can be granted.
+
+In such a case, the Commission shall notify its decision to all Member States, which shall be entitled to apply that measure. The relevant provisions of Annex III may also be amended in accordance with Article 11, so as to reflect that measure.
+
+Articles 6 and 7 shall apply to the measure in question.
+
+4\. Notwithstanding the provisions of paragraphs 1, 2 and 3, a Member State may adopt or maintain provisions relating to OPS 1.1105 point 6, OPS 1.1110 points 1.3 and 1.4.1, OPS 1.1115, and OPS 1.1125 point 2.1 of Subpart Q in Annex III until Community rules based on scientific knowledge and best practices are established.
+
+A Member State shall inform the Commission of the provisions that it decides to maintain.
+
+For national provisions derogating from the OPS 1 provisions referred to in the first subparagraph, which Member States intend to adopt after the date of application of Annex III, the Commission shall, within a period of three months following the notification by a Member State, initiate the procedure referred to in Article 12(2) in order to decide whether these provisions comply with the safety objectives of this Regulation and other rules of Community law, and if they may be made applicable.
+
+In such a case, the Commission shall notify its decision to all Member States, which shall be entitled to apply that measure. The relevant provisions of Annex III may also be amended in accordance with Article 11, so as to reflect that measure.
+
+Articles 6 and 7 shall apply to the measure in question.
+
+## Article 8a
+
+1\. By 16 January 2009, the European Aviation Safety Agency shall conclude a scientific and medical evaluation of the provisions of Subpart Q and, where relevant, of Subpart O of Annex III.
+
+2\. Without prejudice to Article 7 of Regulation (EC) No 1592/2002 of the European Parliament and of the Council of 15 July 2002 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency ( 6 ), the European Aviation Safety Agency shall assist the Commission in the preparation of proposals for the modification of the applicable technical provisions of Subpart O and Subpart Q of Annex III.
+
+## Article 9
+
+Member States shall take the necessary steps to coordinate their research programmes to improve the safety of civil aircraft and their operation and to inform the Commission thereof. After consulting the Member States, the Commission may take any relevant initiative to promote such national research programmes.
+
+## Article 10
+
+Member States shall notify the Commission of:
+
+(a) any new or amended requirement or procedure developed or adopted in accordance with procedures laid down in the Arrangements; and
+
+(b) any modification of the Arrangements; and
+
+(c) the results of consultations with industry and other interested bodies.
+
+## Article 11
+
+1\. The measures, designed to amend non-essential elements of this Regulation by supplementing it, which are necessitated by scientific and technical progress and which amend the common technical requirements and administrative procedures listed in Annex III, shall be adopted in accordance with the regulatory procedure with scrutiny referred to in Article 12(3). On imperative grounds of urgency, the Commission may follow the urgency procedure referred to in Article 12(4).
+
+2\. Where the amendments referred to in paragraph 1 contain a national variant for a Member State the Commission, following the procedure laid down in Article 12(3)  , shall decide whether or not to include that variant in the common technical requirements and administrative procedures.
+
+## Article 12
+
+1\. The Commission shall be assisted by the Air Safety Committee (hereinafter referred to as ‘the Committee’).
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period laid down in Article 5(6) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Article 5a(1) to (4), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+4\. Where reference is made to this paragraph, Article 5a(1), (2), (4) and (6), and Article 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+## Article 12a
+
+Where reference is made to this Article, the safeguard procedure laid down in Article 6 of Decision 1999/468/EC shall apply.
+
+Before adopting its decision, the Commission shall consult the Committee.
+
+The period provided for in Article 6(b) of Decision 1999/468/EC shall be set at three months.
+
+When a Commission decision is referred to the Council by a Member State, the Council, acting by a qualified majority, may take a different decision within a period of three months.
+
+## Article 13
+
+1\. Member States shall assist one another in implementing this Regulation and in monitoring its implementation.
+
+2\. As part of the mutual assistance referred to in paragraph 1 the Member States' competent authorities shall regularly exchange all available information on:
+
+— infringements of this Regulation by non-residents and penalties imposed in respect thereof,
+
+— penalties imposed on its residents by a Member State in respect of such infringements committed in other Member States.
+
+## Article 14
+
+This Regulation shall enter into force on 1 January 1992.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Arrangements referred to in Article 2 (1) (h)
+
+‘Arrangements concerning the Development, the Acceptance and the Implementation of Joint Aviation Requirements (JAR)’, concluded in Cyprus on 11 September 1990.
+
+( 1 ) OJ No C 270, 26.10.1990, p. 3.
+
+( 2 ) OJ No C 267, 14.10.1991, p. 154.
+
+( 3 ) OJ No C 159, 17.6.1991, p. 28.
+
+( 4 ) vOJ L 184, 17.7.1999, p. 23. Decision as amended by Decision 2006/512/EC (OJ L 200, 22.7.2006, p. 11).
+
+( 5 ) OJ L 315, 28.11.2003, p. 1.
+
+( 6 ) OJ L 240, 7.9.2002, p. 1. Regulation as last amended by Commission Regulation (EC) No 1701/2003 (OJ L 243, 27.9.2003, p. 5).

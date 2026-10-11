@@ -1,0 +1,688 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/883 of 14 May 2025 amending Implementing Regulation (EU) 2021/2325 as regards the recognition of certain third countries and control authorities and control bodies for the purpose of importing organic products into the Union"
+identifier: "32025R0883"
+eli: "http://data.europa.eu/eli/reg_impl/2025/883/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-05-14
+entry_into_force: 2026-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0883"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/883 of 14 May 2025 amending Implementing Regulation (EU) 2021/2325 as regards the recognition of certain third countries and control authorities and control bodies for the purpose of importing organic products into the Union
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/883**
+
+**of 14 May 2025**
+
+**amending Implementing Regulation (EU) 2021/2325 as regards the recognition of certain third countries and control authorities and control bodies for the purpose of importing organic products into the Union**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (1), and in particular Article 48(3) and Article 57(2) thereof,
+
+Whereas:
+
+(1) Annex I to Commission Implementing Regulation (EU) 2021/2325 (2) sets out the list of third countries whose systems of production and control measures for organic production of agricultural products are recognised as equivalent to those laid down in Council Regulation (EC) No 834/2007 (3). In the light of new information received by the Commission since the adoption of Implementing Regulation (EU) 2021/2325, certain changes should be made to the information concerning certain third countries.
+
+(2) Australia has informed the Commission of the change of the name of its competent authority, of the change of the name of the control body ‘ACO Certification Limited’ (AU-BIO-001) and of the voluntary withdrawal of the control body ‘AUS-QUAL Pty Ltd’ (AU-BIO-006).
+
+(3) India has informed the Commission that its competent authority has suspended the recognition of the control bodies ‘Sikkim State Organic Certification Agency’ (IN-ORG-028) and ‘Reliable Organic Certification Organisation’ (IN-ORG-033). India has also informed the Commission that its competent authority has recognised the following control bodies: ‘ISCOP (Indian Society for Certification of Organic products)’ (IN-ORG-009), ‘Chhattisgarh State Organic Certification Agency (CGOCERT)’ (IN-ORG-035), ‘GSCI Service Private Limited’ (IN-ORG-036), ‘MS Agroland Services Private Limited’ (IN-ORG-037), ‘Krushi Certification Private Limited’ (IN-ORG-038), ‘CERT ID India Private Limited’ (IN-ORG-039), ‘Andhra Pradesh State Organic Products Certification Authority (APSOPCA)’ (IN-ORG-040), ‘Getcert Private Limited’ (IN-ORG-041), ‘GCL International Assessment Private Limited’ (IN-ORG-042), ‘Shivalik Natural Resources Management Society (SNRMS)’ (IN-ORG-043) and ‘Meghalaya State Organic Certification Body’ (IN-ORG-044). India has also informed the Commission that the control body ‘Rajasthan State Organic Certification Agency (RSOCA)’ (IN-ORG-016) has changed its internet address.
+
+(4) Japan has submitted a request to the Commission to extend the scope of its recognition under Implementing Regulation (EU) 2021/2325 to live animals and unprocessed animal products as well as to all processed agricultural products for use as food, including wine and alcoholic beverages, with organically grown ingredients that have been grown in Japan, or with organically grown ingredients imported into Japan from the European Union, from third countries whose production methods and control measures have been recognised by Japan as equivalent to those laid down in the Japanese legislation or from third countries through the system of control bodies recognised by Japan as competent to certify operators in those third countries as complying with the organic production rules of Japan.
+
+(5) The assessment of the information submitted by Japan concerning its system of production and control measures applicable to the products referred to in recital (4) and the on-the-spot examination carried out by the Commission confirmed that the system of production and control measures of Japan applicable to those products are equivalent to those laid down in Regulation (EC) No 834/2007. Consequently, the recognition of the equivalence of the system of production and control measures in Japan should be extended to those products.
+
+(6) Japan has also informed the Commission that its competent authority has recognised the control body ‘Tsuruoka City’ (JP-BIO-044), that the control body ‘Japan Organic & Natural Foods Association’ (JP-BIO-005) has changed its name and internet address and that the control bodies ‘Overseas Merchandise Inspection Co., Ltd’ (JP-BIO-009), ‘Organic Farming Promotion Association’ (JP-BIO-010) and ‘Aya town miyazaki, Japan’ (JP-BIO-024) have changed their interned address.
+
+(7) The Republic of Korea has informed the Commission that the control bodies ‘KAFCC’ (KR-ORG-006) and ‘The Centre for Environment Friendly Agricultural Products Certification’ (KR-ORG-014) changed their name, that the control body ‘Jayeondeul agri-food certification institute’ (KR-ORG-032) changed its internet address and that the control bodies ‘Konkuk Ecocert Certification Agency’ (KR-ORG-008) and ‘Hankyoung Certification Center Co., Ltd.’ (KR-ORG-036) changed their name and internet address.
+
+(8) The Republic of Korea has also informed the Commission that its competent authority has recognised the control body ‘Greenstar Agrifood Certification Service’ (KR-ORG-022) and has withdrawn the recognition of the control body ‘ORGANIC PROMOTION AGENCY’ (KR-ORG-038).
+
+(9) The United States have informed the Commission that their competent authority has withdrawn the recognition of the control bodies ‘Agricultural Services Certified Organic’ (US-ORG-002), ‘New Hampshire Department of Agriculture, Division of Regulatory Services’ (US-ORG-033), ‘Rhode Island Department of Environmental Management’ (US-ORG-052) and ‘Istituto per la Certificazione Etica e Ambientale’ (ICEA) (US-ORG-066) from the list of control bodies recognised by the United States.
+
+(10) The United States have also informed the Commission that their competent authority has recognised a new accredited control body ‘Kiwa BCS Costa Rica Limitada’ (US-ORG-070).
+
+(11) The United States have also informed the Commission that the control bodies ‘Organic Crop Improvement Association’ (US-ORG-044), ‘CERES’ (US-ORG-062) and ‘Eco-Logica S.A’ (US-ORG-063) have changed their name, that the control body ‘NOFA (US-ORG-036) has changed its name and internet address and that the control bodies ‘Kiwa BCS Öko-Garantie GmbH’ (US-ORG-004), ‘BIOAGRIcert’ (US-ORG-005), ‘Colorado Department of Agriculture’ (US-ORG-007), ‘Control Union Certification’ (US-ORG-008), ‘Georgia Crop Improvement Association, Inc’ (US-ORG-011), ‘Maryland Department of Agriculture (US-ORG-023), ‘Montana Department of Agriculture’ (US-ORG-028), ‘Americert International (OIA North America, LLC)’ (US-ORG-038), ‘Oregon Department of Agriculture’ (US-ORG-041), ‘SCS Global Services, Inc.’ (US-ORG-053), ‘Vermont Organic Farmers, LLC’ (US-ORG-057), ‘Washington State Department of Agriculture’ (US-ORG-058) and ‘Yolo County Department of Agriculture’ (US-ORG-059) have changed their internet address.
+
+(12) Annex II to Implementing Regulation (EU) 2021/2325 sets out the list of control authorities and control bodies recognised for the purpose of equivalence and competent to carry out controls and issue certificates in third countries. Article 2 applied until 31 December 2024. Therefore, the list of control bodies in Annex II to Implementing Regulation (EU) 2021/2325 is obsolete and should be deleted. Annex I to Implementing Regulation (EU) 2021/2325 designated the product categories for which the third countries listed therein were recognised, through reference to their description in Annex II to that Regulation. For reasons of clarity, the description of those product categories should be included in Annex I and the references thereto should be adapted throughout that Annex. Annex I to Implementing Regulation (EU) 2021/2325 should therefore be replaced.
+
+(13) Implementing Regulation (EU) 2021/2325 should therefore be amended accordingly.
+
+(14) The measures provided for in this Regulation are in accordance with the opinion of the Organic Production Committee,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Implementing Regulation (EU) 2021/2325 is amended as follows:
+
+(1) Annex I is replaced by the text in the Annex to this Regulation.
+
+(2) Annex II is deleted.
+
+## Article 2
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 14 May 2025.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 150, 14.6.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/848/oj.
+
+(2) Commission Implementing Regulation (EU) 2021/2325 of 16 December 2021 establishing, pursuant to Regulation (EU) 2018/848 of the European Parliament and of the Council, the list of third countries and the list of control authorities and control bodies that have been recognised under Article 33(2) and (3) of Council Regulation (EC) No 834/2007 for the purpose of importing organic products into the Union (OJ L 465, 29.12.2021, p. 8, ELI: http://data.europa.eu/eli/reg_impl/2021/2325/oj).
+
+(3) Council Regulation (EC) No 834/2007 of 28 June 2007 on organic production and labelling of organic products and repealing Regulation (EEC) No 2092/91 (OJ L 189, 20.7.2007, p. 1, ELI: http://data.europa.eu/eli/reg/2007/834/oj).
+
+## ANNEX — ‘ANNEX
+
+**LIST OF RECOGNISED THIRD COUNTRIES REFERRED TO IN ARTICLE 1 AND THE RELEVANT SPECIFICATIONS**
+
+For the purposes of this Annex, the categories of products are designated by the following codes:
+
+| A: | Unprocessed plant products |
+| --- | --- |
+| B: | Live animals or unprocessed animal products (1) |
+| C: | Unprocessed aquaculture products and algae |
+| D: | Processed agricultural products for use as food (1) (2) |
+| E: | Processed agricultural products for use as feed (2) |
+| F: | Vegetative propagating material and seeds for cultivation |
+
+**ARGENTINA**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Live animals or unprocessed animal products | B |  |
+| Processed agricultural products for use as food (3) | D |  |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+|  | 2. | Origin: products of categories A, B and F that have been grown in Argentina and products of category D processed in Argentina with organically grown ingredients that have been grown in Argentina. |
+| --- | --- | --- |
+
+|  | 3. | Production standard: Ley 25 127 sobre “Producción ecológica, biológica y orgánica”. |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: Servicio Nacional de Sanidad y Calidad Agroalimentaria SENASA, www.senasa.gov.ar |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| AR-BIO-001 | Food Safety SA | www.foodsafety.com.ar |
+| AR-BIO-002 | Ecocert Argentina SA | https://www.ecocert.com/es-AR/home |
+| AR-BIO-003 | LETIS S.A. | www.letis.org |
+| AR-BIO-004 | Organización Internacional Agropecuaria (OIA) | www.oia.com.ar |
+
+|  | 6. | Certificate issuing bodies: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**AUSTRALIA**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Processed agricultural products for use as food (4) | D | Composed essentially of one or more ingredients of plant origin |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+|  | 2. | Origin: products of categories A and F that have been grown in Australia and products of category D processed in Australia with organically grown ingredients that have been grown in Australia. |
+| --- | --- | --- |
+
+|  | 3. | Production standard: national standard for organic and bio-dynamic produce. |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: Department of Agriculture, Fisheries and Forestry (http://www.agriculture.gov.au) |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| AU-BIO-001 | ACO Certification Limited | www.aco.net.au |
+| AU-BIO-003 | Bio-dynamic Research Institute (BDRI) | www.demeter.org.au |
+| AU-BIO-004 | NASAA Certified Organic | www.nasaa.com.au |
+| AU-BIO-005 | Organic Food Chain Pty Ltd (OFC) | www.organicfoodchain.com.au |
+| AU-BIO-007 | Southern Cross Certified Australia Pty Ltd | https://www.sxcertified.com.au |
+
+|  | 6. | Certificate issuing bodies: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**CANADA**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Live animals or unprocessed animal products | B |  |
+| Processed agricultural products for use as food | D |  |
+| Processed agricultural products for use as feed | E |  |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+|  | 2. | Origin: products of category A, B and F that have been grown in Canada and products of category D and E processed in Canada with organically grown ingredients that have been grown in Canada or that have been imported into Canada in accordance with the Canadian legislation. |
+| --- | --- | --- |
+
+|  | 3. | Production standard: Organic Products Regulation. |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: Canadian Food Inspection Agency (CFIA), www.inspection.gc.ca |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| CA-ORG-003 | CCOF Certification Services | www.ccof.org |
+| CA-ORG-004 | Seeds Canada dba Centre for Systems Integration (CSI) | www.csi-ics.com |
+| CA-ORG-005 | Consorzio per il Controllo dei Prodotti Biologici Società a responsabilità limitata (CCPB SRL) | www.ccpb.it |
+| CA-ORG-006 | Ecocert Canada | www.ecocertcanada.com |
+| CA-ORG-007 | Fraser Valley Organic Producers Association (FVOPA) | www.fvopa.ca |
+| CA-ORG-010 | LETIS S.A. | www.letis.com.ar |
+| CA-ORG-013 | Organic Crop Improvement Association (OCIA) | www.ocia.org |
+| CA-ORG-014 | Organic Producers Associa- tion of Manitoba Coop- erative Incorporated (OPAM) | www.opam-mb.com |
+| CA-ORG-015 | Pacific Agricultural Certifi- cation Society (PACS) | www.pacscertifiedorganic.ca |
+| CA-ORG-016 | Pro-Cert Organic Systems Ltd (Pro-Cert) | www.ocpro.ca |
+| CA-ORG-017 | Quality Assurance Inter- national Incorporated (QAI) | http://www.qai-inc.com |
+| CA-ORG-018 | Quality Certification Services (QCS) | www.qcsinfo.org |
+| CA-ORG-019 | Organisme de Certification Québec Vrai (OCQV) | http://www.quebecvrai.org/ |
+| CA-ORG-021 | TransCanada Organic Certification Services (TCO Cert) | http://www.tcocert.ca/contacts/ |
+
+|  | 6. | Certificate issuing bodies: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**COSTA RICA**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Processed agricultural products for use as food (5) | D | Processed plant products only |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+|  | 2. | Origin: products of categories A and F that have been grown in Costa Rica and products of category D processed in Costa Rica with organically grown ingredients that have been grown in Costa Rica. |
+| --- | --- | --- |
+
+|  | 3. | Production standard: Reglamento sobre la agricultura orgánica. |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: Servicio Fitosanitario del Estado, Ministerio de Agricultura y Ganadería, www.sfe.go.cr |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| CR-BIO-002 | Kiwa BCS Costa Rica Limitada | www.kiwa.lat |
+| CR-BIO-003 | Eco-LOGICA | www.eco-logica.com |
+| CR-BIO-007 | Primus Auditing Operations de Costa Rica S.A. | www.primusauditingops.com |
+
+|  | 6. | Certificate issuing bodies: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**ISRAEL**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Processed agricultural products for use as food (6) | D | Composed essentially of one or more ingredients of plant origin |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Origin: products of category A and F that have been grown in Israel and products of category D processed in Israel with organically grown ingredients that have been grown in Israel or that have been imported into Israel:<table><tbody><tr><td>—</td><td>either from the Union,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>or from a third country in the framework of a regime which is recognised as equivalent in accordance with Article 33(2) of Regulation (EC) No 834/2007.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 3. | Production standard: Law for the Regulation of Organic Produce, 5765-2005, and its relevant Regulations. |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: Plant Protection and Inspection Services (PPIS), www. ppis.moag.gov.il |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| IL-ORG-001 | Secal Israel Inspection and certification | www.skal.co.il |
+| IL-ORG-003 | IQC Institute of Quality & Control | www.iqc.co.il |
+| IL-ORG-004 | Plant Protection and Inspection Services (PPIS) | www.ppis.moag.gov.il |
+| IL-ORG-005 | Lab-path Ltd. | www.lab-path.co.il |
+
+**6\. Certificate issuing bodies: as at point 5.**
+
+**7\. Duration of the inclusion:31 December 2026.**
+
+**INDIA**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+|  | 2. | Origin: products of categories A and F that have been grown in India. |
+| --- | --- | --- |
+
+|  | 3. | Production standard: National Programme for Organic Production. |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: Agricultural and Processed Food Products Export Development Authority APEDA, http://www.apeda.gov.in/apedawebsite/index.asp |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| IN-ORG-001 | Aditi Organic Certifications Pvt. Ltd | www.aditicert.net |
+| IN-ORG-003 | Bureau Veritas (India) Pvt. Limited | www.bureauveritas.co.in |
+| IN-ORG-007 | IMO Control Pvt. Ltd | www.imocontrol.in |
+| IN-ORG-009 | ISCOP (Indian Society for Certification of Organic products) | www.iscoporganiccertification.org |
+| IN-ORG-011 | Natural Organic Certification Agro Pvt. Ltd | www.nocaagro.com |
+| IN-ORG-013 | SGS India Pvt. Ltd | www.sgsgroup.in |
+| IN-ORG-014 | Uttarakhand State Organic Certification Agency (USOCA) | www.usoca.org |
+| IN-ORG-016 | Rajasthan State Organic Certification Agency (RSOCA) | www.agriculture.rajasthan.gov.in |
+| IN-ORG-017 | Chhattisgarh Certification Society, India (CGCERT) | www.cgcert.com |
+| IN-ORG-018 | Tamil Nadu Organic Certification Department (TNOCD) | www.tnocd.net |
+| IN-ORG-021 | Madhya Pradesh State Organic Certification Agency (MPSOCA) | www.mpsoca.org |
+| IN-ORG-024 | Odisha State Organic Certification Agency (OSOCA) | www.ossopca.org |
+| IN-ORG-025 | Gujarat Organic Products Certification Agency (GOPCA) | www.gopca.in |
+| IN-ORG-026 | Uttar Pradesh State Organic Certification Agency | www.upsoca.org |
+| IN-ORG-027 | Karnataka State Organic Certification Agency | www.kssoca.org |
+| IN-ORG-029 | Global Certification Society | www.glocert.org |
+| IN-ORG-030 | GreenCert Biosolutions Pvt. Ltd | www.greencertindia.in |
+| IN-ORG-031 | Telangana State Organic Certification Authority | www.tsoca.telangana.gov.in |
+| IN-ORG-032 | Bihar State Seed and Organic Certification Agency (BSSOCA) | www.bssca.co.in |
+| IN-ORG-035 | Chhattisgarh State Organic Certification Agency (CGOCERT) | http://www.cgocert.com |
+| IN-ORG-036 | GSCI Service Private Limited | http://www.gsciservices.com/ |
+| IN-ORG-037 | MS Agroland Services Private Limited | http://www.agrolandgroup.com/ |
+| IN-ORG-038 | Krushi Certification Private Limited | www.krushicert.com |
+| IN-ORG-039 | CERT ID India Private Limited | https://www.foodchainid.com/ |
+| IN-ORG-040 | Andhra Pradesh State Organic Products Certification Authority (APSOPCA) | http://www.apssca.org/apsopca |
+| IN-ORG-041 | Getcert Private Limited | http://www.getcert.co.in |
+| IN-ORG-042 | GCL International Assessment Private Limited | https://gcl-intl.co.in |
+| IN-ORG-043 | Shivalik Natural Resources Management Society (SNRMS) | http://www.snrms.org |
+| IN-ORG-044 | Meghalaya State Organic Certification Body | www.msocb.org |
+
+|  | 6. | Certificate issuing bodies: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**JAPAN**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Live animals or unprocessed animal products | B |  |
+| Processed agricultural products for use as food (7) | D |  |
+
+|  | 2. | Origin: products of category A and B that have been grown in Japan and products of category D processed in Japan with organically grown ingredients that have been grown in Japan or that have been imported into Japan: |
+| --- | --- | --- |
+
+— either from the Union,
+
+— or from a third country for which Japan has recognised that the products have been produced and controlled in that third country in accordance with rules equivalent to those laid down in the Japanese legislation,
+
+— or from a third country for which Japan has recognised control bodies as competent to certify operators as complying with the organic production rules of Japan.
+
+|  | 3. | Production standards: Japanese Agricultural Standard for Organic Products of Plant Origin (Notification No 1605 of the MAFF of October 27, 2005), Japanese Agricultural Standard for Organic Livestock Products (Notification No 1608 of the MAFF of October 27, 2005), Japanese Agricultural Standard for Organic Processed Foods (Notification No 1606 of MOF and MAFF of September 1, 2022), Act on Japanese Agricultural Standards (Act No 175 of May 11, 1950). |
+| --- | --- | --- |
+
+|  | 4. | Competent authorities: Food Manufacture Affairs Division, New Business and Food Industry Department, Minister’s Secretariat, Ministry of Agriculture, Forestry and Fisheries, www.maff.go.jp/j/jas/index.html and Liquor Tax and Industry Division, National Tax Agency https://www.nta.go.jp/english/index.htm and Food and Agricultural Materials Inspection Center (FAMIC), www.famic.go.jp |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| JP-BIO-001 | Hyogo prefectural Organic Agriculture Society, HOAS | www.hyoyuken.org |
+| JP-BIO-002 | AFAS Certification Center Co., Ltd | www.afasseq.com |
+| JP-BIO-003 | NPO Kagoshima Organic Agriculture Association | www.koaa.or.jp |
+| JP-BIO-004 | Center of Japan Organic Farmers Group | www.yu-ki.or.jp |
+| JP-BIO-005 | Japan Organic and Natural Foods Association | jona-japan.org/organic |
+| JP-BIO-006 | Ecocert Japan Limited | www.ecocert.co.jp |
+| JP-BIO-007 | Bureau Veritas Japan Co., Ltd | http://certification.bureauveritas.jp/ cer-business/jas/nintei_list.html |
+| JP-BIO-009 | Overseas Merchandise Inspection Co., Ltd | www.omicnet.com/index.html.en |
+| JP-BIO-010 | Organic Farming Promotion Association | www.laconindia.com |
+| JP-BIO-011 | ASAC Stands for Axis’ System for Auditing and Certification and Association for Sustainable Agricultural Certification | www.axis-asac.net |
+| JP-BIO-012 | Environmentally Friendly Rice Network | www.epfnetwork.org/okome |
+| JP-BIO-013 | Ooita Prefecture Organic Agricultural Research Center | www.d-b.ne.jp/oitayuki |
+| JP-BIO-014 | AINOU | www.ainou.or.jp/ainohtm/disclosure/ninteikouhyou.htm |
+| JP-BIO-015 | SGS Japan Incorporation | www.jp.sgs.com/ja/home_jp_v2.htm |
+| JP-BIO-016 | Ehime Organic Agricultural Association | http://eoaa.sakura.ne.jp/ |
+| JP-BIO-017 | Center for Eco-design Certification Co. Ltd | http://www.eco-de.co.jp/list.html |
+| JP-BIO-018 | Organic Certification Association | http://yuukinin.org/index.html |
+| JP-BIO-020 | Hiroshima Environment and Health Association | https://www.kanhokyo.or.jp/ |
+| JP-BIO-021 | ACCIS Inc. | https://www.accis.jp/ |
+| JP-BIO-022 | Organic Certification Organization Co. Ltd | www.oco45.net |
+| JP-BIO-024 | Aya town miyazaki, Japan | http://www.town.aya.miyazaki.jp/ayatown/organicfarming |
+| JP-BIO-025 | Tokushima Organic Certified Association | http://www.tokukaigi.or.jp/yuuki/ |
+| JP-BIO-027 | NPO Kumamoto Organic Agriculture Association | http://www.kumayuken.org/ |
+| JP-BIO-028 | Hokkaido Organic Promoters Association | http://www.hosk.jp/CCP.html |
+| JP-BIO-029 | Association of organic agriculture certification Kochi corporation NPO | http://www8.ocn.ne.jp/~koaa/jisseki.html |
+| JP-BIO-031 | Wakayama Organic Certified Association | https://woca.jpn.org/w/ |
+| JP-BIO-032 | Shimane Organic Agriculture Association | www.shimane-yuki.or.jp/index.html |
+| JP-BIO-034 | International Nature Farming Research Center | http://www.infrc.or.jp/ |
+| JP-BIO-035 | Organic Certification Center | www.organic-cert.or.jp |
+| JP-BIO-036 | Japan Food Research Laboratories | http://www.jfrl.or.jp/jas.html |
+| JP-BIO-037 | Leafearth Company | http://www.leafearth.jp/ |
+| JP-BIO-038 | Akatonbo | http://www.akatonbo.or.jp/ |
+| JP-BIO-040 | Okayama Agriculture Development Institute | http://www.nokaiken.or.jp |
+| JP-BIO-041 | Japan Agricultural Standard Certification Alliance | http://jascert.or.jp/ |
+| JP-BIO-042 | Japan Association for Inspection and Investigation of Food Including Fats and Oils | www.syken.or.jp |
+| JP-BIO-043 | Miyazaki Organic Agriculture Association | https://www.miyazaki-oaa.com/ |
+| JP-BIO-044 | Tsuruoka City | https://www.city.tsuruoka.lg.jp/index.html |
+
+|  | 6. | Certificate issuing bodies: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**REPUBLIC OF KOREA**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Processed agricultural products for use as food | D |  |
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Origin: products of category D processed in the Republic of Korea with organically grown ingredients that have been grown in the Republic of Korea or that have been imported into the Republic of Korea:<table><tbody><tr><td>—</td><td>either from the Union,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>or from a third country for which the Republic of Korea has recognised that the products have been produced and controlled in that third country in accordance with the rules equivalent to those laid down in the legislation of the Republic of Korea.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 3. | Production standards: Act on Promotion of Environmentally-friendly Agriculture and Fisheries and Management and Support for Organic Food. |
+| --- | --- | --- |
+
+|  | 4. | Competent authorities: Ministry of Agriculture, Food and Rural Affairs, www.enviagro.go.kr/portal/en/main.do and National Agricultural Products Quality Management Service (NAQS), www.naqs.go.kr/eng/main/main.do |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| KR-ORG-002 | WECERT, LLC. | www.wecert.co.kr |
+| KR-ORG-004 | Global Agricultural Food Certification Cooperation Co. Ltd | www.gafc.kr |
+| KR-ORG-006 | KAgrifood Certification Center CO., LTD | www.kafcc.or.kr |
+| KR-ORG-008 | Konkuk Eco Certification Agency | www.en.kkeco.co.kr |
+| KR-ORG-009 | Woorinong Certification | https://blog.naver.com/woorinongin/70107436715 |
+| KR-ORG-010 | ACO Certification Limited | www.aco.net.au |
+| KR-ORG-011 | Kiwa BCS Öko-Garantie GmbH | www.bcs-oeko.com |
+| KR-ORG-012 | BCS Korea | www.bcskorea.com |
+| KR-ORG-013 | Hansol Food, Agriculture, Fisher-Forest Certification Center | www.hansolnonglim.com |
+| KR-ORG-014 | The Centre for Environment Friendly Agricultural Products Certification (Institute of Hadong Green tea) | www.hgreent.or.kr |
+| KR-ORG-015 | ECO-Leaders Certification Co., Ltd | www.ecoleaders.kr |
+| KR-ORG-017 | Jeonnam bioindustry foundation | www.jbf.kr |
+| KR-ORG-020 | Green Organic Co., Ltd. | cafe.naver.com/greenorganic6279 |
+| KR-ORG-022 | Greenstar Agrifood Certification Service | http://그린스타.com/ |
+| KR-ORG-023 | Control Union Korea | www.controlunion.co.kr |
+| KR-ORG-024 | Industry-Academic Cooperation Foundation, SCNU | http://siacf.scnu.ac.kr/web/siacf/home |
+| KR-ORG-026 | Agricultural Products Quality Service | http://apqs.kr |
+| KR-ORG-027 | University Industry Liaison office of CNU | http://sanhak.jnu.ac.kr/eng/ |
+| KR-ORG-029 | Institute of friendly environment-agriculture, Inc. | ifea.co.kr |
+| KR-ORG-030 | Korea crops research institute (co., ltd) | https://blog.naver.com/kor034 |
+| KR-ORG-031 | Korea Organic Certification Co., LTD | koc2022.modoo.at |
+| KR-ORG-032 | Jayeondeul Agri-food Certification Institute | jaci.tistory.com |
+| KR-ORG-033 | Institute of Organic Food Evaluation | www.ioe42.com |
+| KR-ORG-034 | Evergreen Nongouhwi | http://blog.naver.com/evergreen8374 |
+| KR-ORG-035 | ONNURI ORGANIC Co., Ltd. | https://blog.naver.com/onr77830 |
+| KR-ORG-036 | Organic T&C LLC. | www.organictnc.org |
+| KR-ORG-037 | Ctforum. Inc | ctforum.co.kr |
+| KR-ORG-039 | Sungnong | 친환경농산물인증.kr |
+| KR-ORG-040 | Toji Glonics co. Ltd. | cafe.daum.net/thoji |
+| KR-ORG-041 | YANGPYEONG ENVIRONMENT-FRIENDLY CERTIFICATION CENTER | yporganic.net |
+| KR-ORG-042 | Haezin Corporation | cafe.daum.net/haezingood |
+| KR-ORG-043 | Institute of Green Certification | blog.naver.com/green2080_ |
+| KR-ORG-044 | DODAM Eco-Friendly | dodamecocerti.quv.kr |
+
+|  | 6. | Certificate issuing bodies and authorities: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**NEW ZEALAND**
+
+**1\. Product categories**
+
+| Category of products or products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Live animals or unprocessed animal products | B |  |
+| Processed agricultural products for use as food (8) | D |  |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Origin: products of category A, B and F that have been grown in New Zealand and products of category D processed in New Zealand with organically grown ingredients that have been grown in New Zealand or that have been imported into New Zealand:<table><tbody><tr><td>—</td><td>either from the Union,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>or from a third country in the framework of a regime which is recognised as equivalent in accordance with Article 33(2) of Regulation (EC) No 834/2007,</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>or from a third country whose rules of production and inspection have been recognised as equivalent to the MPI Official Organic Assurance Programme on the basis of assurances and information provided by this country’s competent authority in accordance with the provisions established by MPI and provided that only organically produced ingredients intended to be incorporated, up to a maximum of 5 % of products of agricultural origin, in products of category D prepared in New Zealand are imported.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 3. | Production standard: MPI Official Organic Assurance Programme Technical Rules for Organic Production. |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: Ministry for Primary Industries (MPI), http://www.mpi.govt.nz/exporting/food/organics/ |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| NZ-BIO-001 | Ministry for Primary Industries (MPI) | http://www.mpi.govt.nz/exporting/food/ organics/ |
+| NZ-BIO-002 | AsureQuality Limited | https://www.asurequality.com |
+| NZ-BIO-003 | BioGro New Zealand Limited | https://www.biogro.co.nz |
+
+|  | 6. | Certificate-issuing bodies: Ministry for Primary Industries (MPI). |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**TUNISIA**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Processed agricultural products for use as food (9) | D | Composed essentially of one or more ingredients of plant origin |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+|  | 2. | Origin: products of categories A and F that have been grown in Tunisia and products of category D processed in Tunisia with organically grown ingredients that have been grown in Tunisia. |
+| --- | --- | --- |
+
+|  | 3. | Production standards: Law No 99-30 of 5 April 1999 relating to Organic farming; Decree of the Minister for Agriculture of 28 February 2001, approving the standard specifications of the crop production according to the organic method. |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: 40 Ministre de l’Agriculture, des Ressources Hydrauliques et de la Pêche, www.agriculture.tn and www.onagri.tn |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| TN-BIO-001 | Ecocert SA | www.ecocert.com |
+| TN-BIO-007 | Institut national de la normalisation et de la propriété industrielle (INNORPI) | www.innorpi.tn |
+| TN-BIO-008 | CCPB Srl | www.ccpb.it |
+| TN-BIO-009 | CERES GmbH | www.ceres-cert.com |
+| TN-BIO-010 | Kiwa BCS Öko-Garantie GmbH | www.kiwabcs.com |
+
+|  | 6. | Certificate issuing bodies: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+**UNITED STATES**
+
+**1\. Product categories**
+
+| Category of products | Designation of category | Limitations |
+| --- | --- | --- |
+| Unprocessed plant products | A |  |
+| Live animals or unprocessed animal products | B |  |
+| Processed agricultural products for use as food | D |  |
+| Processed agricultural products for use as feed | E |  |
+| Vegetative propagating material and seeds for cultivation | F |  |
+
+<table>
+<tbody><tr><td></td><td>2.</td><td>Origin: products of categories A, B and F and organically grown ingredients in products of categories D and E that:<table><tbody><tr><td>—</td><td>have been grown in the United States, or</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>—</td><td>have been imported into the United States and processed or packaged in the United States in accordance with US legislation.</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+
+|  | 3. | Production standards: Organic Foods Production Act of 1990 (7 U.S.C. 6501 et seq.), National Organic Program (7 CFR 205). |
+| --- | --- | --- |
+
+|  | 4. | Competent authority: United States Department of Agriculture (USDA), Agricultural Marketing Service (AMS), www.usda.gov |
+| --- | --- | --- |
+
+**5\. Control bodies**
+
+| Code number | Name | Internet address |
+| --- | --- | --- |
+| US-ORG-001 | Where Food Comes From Organic | www.wfcforganic.com |
+| US-ORG-003 | Baystate Organic Certifiers | www.baystateorganic.org |
+| US-ORG-004 | Kiwa BCS Öko-Garantie GmbH | www.kiwa.com/de/en/markets/agri-feed-food/ |
+| US-ORG-005 | BIOAGRIcert | http://www.bioagricert.org |
+| US-ORG-006 | CCOF Certification Services | www.ccof.org |
+| US-ORG-007 | Colorado Department of Agriculture | www.colorado.gov/pacific/agplants/organic |
+| US-ORG-008 | Control Union Certification | www.certifications.controlunion.com/en |
+| US-ORG-009 | Clemson University | www.clemson.edu/organic |
+| US-ORG-010 | Ecocert S.A.S. | www.ecocert.com |
+| US-ORG-011 | Georgia Crop Improvement Association, Inc | www.georgiacrop.com/ |
+| US-ORG-013 | Global Organic Alliance, Inc. | www.goa-online.org |
+| US-ORG-015 | Idaho State Department of Agriculture | www.agri.idaho.gov/Categories/ PlantsInsects/Organic/indexOrganicHome.php |
+| US-ORG-018 | Iowa Department of Agriculture and Land Stewardship | https://www.iowaagriculture.gov/ AgDiversification/organiccertification.asp |
+| US-ORG-019 | Kentucky Department of Agriculture | www.kyagr.com/marketing/plantmktg/organic/index.htm |
+| US-ORG-022 | Marin Organic Certified Agriculture | https://www.marincounty.org/depts/ag/moca |
+| US-ORG-023 | Maryland Department of Agriculture | www.mda.state.md.us/md_products/certified_md_organic_farms/index.php |
+| US-ORG-024 | Mayacert S.A | www.mayacert.com |
+| US-ORG-025 | Midwest Organic Services Association, Inc. | www.mosaorganic.org |
+| US-ORG-026 | Minnesota Crop Improvement Association | www.mncia.org |
+| US-ORG-027 | MOFGA Certification Services, LLC | www.mofga.org/ |
+| US-ORG-028 | Montana Department of Agriculture | www.agr.mt.gov/agr/Producer/Organic/ |
+| US-ORG-029 | Monterey County Certified Organic | https://www.co.monterey.ca.us/government/departments-a-h/agricultural-commissioner/ agricultural-resource-programs/ agricultural-product-quality-and-marketing/monterey-county-certifi#ag |
+| US-ORG-030 | Natural Food Certifiers | www.nfccertification.com |
+| US-ORG-031 | Nature’s International Certification Services | www.naturesinternational.com/ |
+| US-ORG-036 | NOFA – New York Certified Organic, LLC | www.nofany.org/organiccertification |
+| US-ORG-037 | Ohio Ecological Food and Farm Association | www.oeffa.org |
+| US-ORG-038 | Americert International (OIA North America, LLC) | www.americertorganic.info/ |
+| US-ORG-039 | Oklahoma Department of Agriculture, Food and Forestry | www.oda.state.ok.us |
+| US-ORG-040 | OneCert, Inc. | www.onecert.com |
+| US-ORG-041 | Oregon Department of Agriculture | www.oda.direct/NOP |
+| US-ORG-042 | Oregon Tilth Certified Organic | www.tilth.org |
+| US-ORG-043 | Organic Certifiers, Inc. | http://www.organiccertifiers.com |
+| US-ORG-044 | Organic Crop Improvement Association (OCIA) | www.ocia.org |
+| US-ORG-046 | Organización Internacional Agropecuraria | www.oia.com.ar |
+| US-ORG-047 | Pennsylvania Certified Organic | www.paorganic.org |
+| US-ORG-048 | Primus Auditing Operations | http://www.primusauditingops.com |
+| US-ORG-049 | Pro-Cert Organic Systems, Ltd | www.pro-cert.org |
+| US-ORG-050 | Quality Assurance International | www.qai-inc.com |
+| US-ORG-051 | Quality Certification Services | www.QCSinfo.org |
+| US-ORG-053 | SCS Global Services, Inc. | www.scsglobalservices.com/services/organic-certification |
+| US-ORG-055 | Texas Department of Agriculture | www.texasagriculture.gov/RegulatoryPrograms/Organics.aspx |
+| US-ORG-056 | Utah Department of Agriculture | http://ag.utah.gov/divisions/plant/organic/index.html |
+| US-ORG-057 | Vermont Organic Farmers, LLC | www.vermontorganic.org/ |
+| US-ORG-058 | Washington State Department of Agriculture | www.agr.wa.gov/departments/organic |
+| US-ORG-059 | Yolo County Department of Agriculture | www.yolocounty.gov/government/general-government-departments/agriculture |
+| US-ORG-062 | CERES (Certification of Environmental Standards, GmbH) | http://www.ceres-cert.com/ |
+| US-ORG-063 | Certificadora de Productos Organicos Eco-LOGICA S.A. | http://www.eco-logica.com/ |
+| US-ORG-064 | Food Safety S.A. | http://www.foodsafety.com.ar/ |
+| US-ORG-065 | IBD Certifications | http://www.ibd.com.br/ |
+| US-ORG-067 | OnMark Certification Services | http://onmarkcertification.com/ |
+| US-ORG-068 | Perry Johnson Registrar Food Safety, Inc. | http://www.pjrfsi.com/ |
+| US-ORG-069 | Certimex (Certificadora Mexicana de Productos y Procesos Ecológicos S.C.) | https://certimexsc.com/cmx/ |
+| US-ORG-070 | Kiwa BCS Costa Rica Limitada | www.kiwa.com |
+
+|  | 6. | Certificate issuing bodies: as at point 5. |
+| --- | --- | --- |
+
+|  | 7. | Duration of the inclusion:31 December 2026. |
+| --- | --- | --- |
+
+’
+
+(1) Pursuant to Article 17(1), point (f), of Regulation (EC) No 834/2007, animals and animal products produced during the conversion period shall not be marketed in the Union with the indications referred to in Articles 23 and 24 of that Regulation used in the labelling and advertising of products. Such products are therefore also excluded from the recognitions as regards product categories B and D for all third countries listed in this Annex.
+
+(2) Ingredients have to be certified by a control authority or control body recognised in accordance with Article 33(3) of Regulation (EC) No 834/2007 or produced and certified within the scope of a third country recognised in accordance with Article 33(2) of that Regulation or produced and certified in the Union in accordance with that Regulation.
+
+(3) Wine and yeast not included.
+
+(4) Wine and yeast not included.
+
+(5) Wine and yeast not included.
+
+(6) Wine and yeast not included.
+
+(7) Processed products for use as foods containing algae not included.
+
+(8) Yeast not included.
+
+(9) Wine and yeast not included.
+
+ELI: http://data.europa.eu/eli/reg_impl/2025/883/oj
+
+ISSN 1977-0677 (electronic edition)

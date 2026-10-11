@@ -76,22 +76,28 @@ José Manuel BARROSO
 
 Permitted method for products with VOC content below 15 % by mass where reactive diluents are not present:
 
+<table>
 <tbody><tr><td rowspan="2">Parameter</td><td rowspan="2">Unit</td><td colspan="2">Test</td></tr>
 <tr><td>Method</td><td>Date of publication</td></tr>
 <tr><td>VOC content</td><td>g/l</td><td>ISO 11890-2</td><td>2006</td></tr>
 </tbody>
+</table>
 
 Permitted methods for products with VOC content equal to or greater than 15 % by mass where reactive diluents are not present:
 
+<table>
 <tbody><tr><td rowspan="2">Parameter</td><td rowspan="2">Unit</td><td colspan="2">Test</td></tr>
 <tr><td>Method</td><td>Date of publication</td></tr>
 <tr><td>VOC content</td><td>g/l</td><td>ISO 11890-1</td><td>2007</td></tr>
 <tr><td>VOC content</td><td>g/l</td><td>ISO 11890-2</td><td>2006</td></tr>
 </tbody>
+</table>
 
 Permitted method for products with VOC content where reactive diluents are present:
 
+<table>
 <tbody><tr><td rowspan="2">Parameter</td><td rowspan="2">Unit</td><td colspan="2">Test</td></tr>
 <tr><td>Method</td><td>Date of publication</td></tr>
 <tr><td>VOC content</td><td>g/l</td><td>ASTMD 2369</td><td>2003’</td></tr>
 </tbody>
+</table>

@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2018/411 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 March 2018 </td><td> L 76</td><td>28</td><td>19.3.2018</td></tr>
 <tr><td> M2</td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1935 of 13 May 2019 </td><td> L 301</td><td>3</td><td>22.11.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2864</td><td>1</td><td>20.12.2023</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/896 of 5 December 2023 </td><td> L 896</td><td>1</td><td>20.3.2024</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2016/97 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

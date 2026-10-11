@@ -1,0 +1,510 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/2013 of 23 July 2024 on measures to prevent the establishment and spread within the Union territory and to eradicate Pomacea (Perry) and repealing Implementing Decision 2012/697/EU"
+identifier: "32024R2013"
+eli: "http://data.europa.eu/eli/reg_impl/2024/2013/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-07-23
+entry_into_force: 2025-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R2013"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/2013 of 23 July 2024 on measures to prevent the establishment and spread within the Union territory and to eradicate Pomacea (Perry) and repealing Implementing Decision 2012/697/EU
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2013**
+
+**of 23 July 2024**
+
+**on measures to prevent the establishment and spread within the Union territory and to eradicate Pomacea (Perry) and repealing Implementing Decision 2012/697/EU**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/2031 of the European Parliament and of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (1), and in particular Article 28(1), points (d) to (g), thereof,
+
+Whereas:
+
+(1) Commission Implementing Decision 2012/697/EU (2) sets out measures to prevent the introduction into and the spread within the Union of the genus Pomacea (Perry) (‘the specified pest’).
+
+(2) Experience gained during the application of Implementing Decision 2012/697/EU shows the need to update those measures to have detailed rules for carrying out surveys and to further detail the measures to eradicate the specified pest.
+
+(3) Commission Implementing Regulation (EU) 2019/2072 (3) lays down, in Part B of Annex II, the list of Union quarantine pests known to occur in the Union territory.
+
+(4) The specified pest is included in that list, as it is known to occur in certain parts of the Union territory, having a significant impact on plants for planting, other than seeds, that can only grow in fresh water or soil that is permanently saturated with fresh water (‘the specified plants’).
+
+(5) To ensure an early detection of the specified pest and its prompt eradication, annual surveys should be carried out in areas of the Union territory where the specified pest is not known to be present, as set out in Article 22 of Regulation (EU) 2016/2031 and pursuant to Commission Implementing Regulation (EU) 2020/1231 (4). Those surveys should be based on the pest survey card on the specified pest published by the European Food Safety Authority, as it takes into account the latest scientific and technical developments.
+
+(6) In view of the biology of the specified pest, the demarcated areas should consist of an infested zone of at least 10 m around the location of the finding of the specified pest, or the entire field in case the finding is located in a cultivated field, and a buffer zone of at least 500 m around the infested zone, but including only water courses and areas that are saturated with fresh water. However, where the infested zone includes a part of a water course, the buffer zone should also include that water course for a length of at least 1 000 m downstream and 500 m upstream from the location where the specified pest has been found, in order to take into account the potential spread of the specified pest by the flow of the water.
+
+(7) Experience with the application of Implementing Decision 2012/697/EU has shown that people tend to move the specified pest outside the demarcated areas, without being aware that it is a quarantine pest whose introduction into and movement within the EU territory is prohibited. For this reason, the competent authorities should raise within the demarcated areas public awareness concerning the threat of that pest and the measures in force to prevent its further spread outside of those areas.
+
+(8) Once the specified pest has been detected, the eradication measures should include the removal and destruction of the specified pest, including its eggs, hygiene protocols for machinery and equipment, as well as a combination of treatments and water management strategies for its eradication.
+
+(9) However, in cases of isolated findings or findings in countries where, due to the climatic conditions, the specified pest cannot establish, the establishment of a demarcated area should not be required when the specified pest is immediately eradicated and there is evidence that the finding is not expected to lead to establishment. This is the most appropriate approach for isolated findings, provided that surveys are carried out to confirm the absence of the specified pest.
+
+(10) Therefore, and for reasons of legal clarity, Implementing Decision 2012/697/EU should be repealed, as its provisions concerning the prevention of the establishment and spread of the specified pest should be replaced in part by this Regulation and in part by Annexes VII and VIII to Implementing Regulation (EU) 2019/2072.
+
+(11) This Regulation should apply from 26 January 2025 in order to ensure that the respective provisions concerning the specified pest apply from the same date as the ones set out in Commission Implementing Regulation (EU) 2024/2004 (5) concerning that pest.
+
+(12) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Subject matter
+
+This Regulation sets out measures to prevent the establishment and spread within the Union territory of Pomacea (Perry) and measures for its eradication.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘specified pest’ means all life stages of the genus Pomacea (Perry);
+
+(2) ‘specified plants’ means plants for planting, other than seeds, that can only grow in fresh water or soil that is permanently saturated with fresh water;
+
+(3) ‘the pest survey card’ means the publication ‘Pest survey card on Pomacea spp.’ (6) of the European Food Safety Authority.
+
+## Article 3 — Surveys of the Union territory
+
+1\. The competent authorities shall conduct annual risk-based surveys for the presence of the specified pest outside of the demarcated areas referred to in Article 4, in the areas of the Union territory where the specified pest is not known to be present, but could become established, taking into account the information referred to in the pest survey card.
+
+2\. The surveys shall consist of visual examinations, at the most appropriate times, to detect the specified pest, on fields of the specified plants and natural or artificial wetlands, such as rivers, lakes, ponds, irrigation channels.
+
+## Article 4 — Establishment of demarcated areas
+
+1\. Where the presence of the specified pest is officially confirmed, the Member State concerned shall, without delay, establish a demarcated area consisting of:
+
+(a) an infested zone, including at least the area within a radius of 10 m around the location where the specified pest has been found to be present or in the case where the specified pest is found in a cultivated field, the entire field and
+
+(b) a buffer zone of a width of at least 500 m surrounding the infested zone.
+
+2\. The buffer zone shall only include water courses and areas that are saturated with fresh water. Where the infested zone includes a part of a water course, the buffer zone shall include that water course for a length of at least 1 000 m downstream and 500 m upstream from the location where the specified pest has been found to be present.
+
+3\. In cases where buffer zones of different demarcated areas overlap, a new demarcated area shall be established including the area covered by the relevant infested zones and buffer zones, to ensure a clear delimitation of the demarcated area.
+
+4\. If the specified pest is found to be present in the buffer zone, the delimitation of the infested zone and buffer zone shall be amended accordingly.
+
+5\. Within the demarcated areas, the competent authorities shall raise public awareness concerning the threat of the specified pest and the measures adopted to prevent its further spread outside of those areas. They shall ensure that the general public and professional operators are aware of the delimitation of the demarcated areas.
+
+## Article 5 — Derogation from establishing demarcated areas
+
+1\. By way of derogation from Article 4(1), the competent authorities may choose not to establish a demarcated area, if all of the following conditions are fulfilled:
+
+(a) the specified pest has been found in one of the following:
+
+(i) an isolated water body (e.g. pond, lake);
+
+(ii) a site of production that is physically isolated from the surrounding waterways;
+
+(iii) a natural water body where, due to low temperatures, the specified pest cannot establish;
+
+(b) there is evidence that the specified pest has not escaped from the place where it has been found;
+
+(c) there is evidence that it is an isolated finding not expected to lead to establishment of the specified pest;
+
+(d) there is no water connection that will allow the natural spread of the specified pest between the location of the finding and the natural environment in the cases described in points 1(a)(i) and (ii);
+
+(e) in case there is a depuration system in the water body, that system has been cleaned up to ensure the absence of the specified pest.
+
+2\. Where the competent authority applies the derogation provided for in paragraph 1, it shall:
+
+(a) take the measures to ensure the prompt eradication of the specified pest and exclude the possibility of its spread;
+
+(b) trace back the origin of the infestation and investigate the pathways associated with the finding of the specified pest as far as possible;
+
+(c) raise public awareness of the threat of the specified pest; and
+
+(d) carry out visual examinations in the site where the specified pest was found and its surroundings, for at least 2 years after the finding, to ensure the absence of the specified pest in the cases described in points 1(a)(i) and (ii).
+
+## Article 6 — Eradication measures
+
+The eradication measures shall include the following:
+
+(a) the removal and destruction of the specified pest;
+
+(b) intensive monitoring for the presence of the specified pest, by inspections twice a year with a specific focus on the buffer zone;
+
+(c) a hygiene protocol for all used agriculture and aquaculture machinery, which may come into contact with the specified pest and be capable of spreading it;
+
+(d) a hygiene protocol for all the equipment for nautical activities and boats, including fishing nets, that remain static in the demarcated area;
+
+(e) a combination of treatments against the specified pest and water management, including desiccation of plots, artificial lakes, ponds and irrigation channels, in those areas where it is applicable.
+
+## Article 7 — Annual surveys in demarcated areas
+
+1\. In the demarcated areas, the competent authorities shall carry out annual surveys, as referred to in Article 19(1) of Regulation (EU) 2016/2031, to detect the presence of the specified pest, taking into account the information referred to in the pest survey card.
+
+2\. Those surveys shall consist of:
+
+(a) visual examinations, at the most appropriate times to detect the specified pest, on fields of the specified plants and natural or artificial wetlands, such as rivers, lakes, ponds, irrigation channels; and
+
+(b) sampling and testing, in the case of findings or suspicion of findings of the specified pest.
+
+## Article 8 — Lifting of demarcation
+
+The demarcation referred to in Article 4 may be lifted if, based on the surveys referred to in Article 7, the specified pest has not been detected in the demarcated area for at least 4 consecutive years.
+
+## Article 9 — Reporting obligations
+
+By 30 April of each year, Member States shall submit to the Commission and to the other Member States the results of the surveys carried out, in the preceding calendar year, pursuant to:
+
+(a) Article 3, outside of the demarcated areas, during the preceding calendar year, using the templates set out in Annex I to Implementing Regulation (EU) 2020/1231;
+
+(b) Article 7, in the demarcated areas, during the preceding calendar year, using one of the templates set out in the Annex to this Regulation.
+
+## Article 10 — Repeal of Implementing Decision 2012/697/EU
+
+Implementing Decision 2012/697/EU is repealed.
+
+## Article 11 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall apply from 26 January 2025.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 23 July 2024.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 317, 23.11.2016, p. 4, ELI: http://data.europa.eu/eli/reg/2016/2031/oj.
+
+(2) Commission Implementing Decision 2012/697/EU of 8 November 2012 as regards measures to prevent the introduction into and the spread within the Union of the genus Pomacea (Perry) (OJ L 311, 10.11.2012, p. 14, ELI: http://data.europa.eu/eli/dec_impl/2012/697/oj).
+
+(3) Commission Implementing Regulation (EU) 2019/2072 of 28 November 2019 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants, and repealing Commission Regulation (EC) No 690/2008 and amending Commission Implementing Regulation (EU) 2018/2019 (OJ L 319, 10.12.2019, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2019/2072/oj).
+
+(4) Commission Implementing Regulation (EU) 2020/1231 of 27 August 2020 on the format and instructions for the annual reports on the results of the surveys and on the format of the multiannual survey programmes and the practical arrangements, respectively provided for in Articles 22 and 23 of Regulation (EU) 2016/2031 of the European Parliament and the Council (OJ L 280, 28.8.2020, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2020/1231/oj).
+
+(5) Commission Implementing Regulation (EU) 2024/2004 of 23 July 2024 amending Implementing Regulation (EU) 2019/2072 as regards the listing of pests and rules on the introduction into, and movement within, the Union territory of plants, plant products and other objects (OJ L, 2024/2004, 26.7.2024, ELI: http://data.europa.eu/eli/reg_impl/2024/2004/oj).
+
+(6) EFSA (European Food Safety Authority), 2020. Pest survey card on Pomacea spp. EFSA supporting publication 2020:EN-1877. 37 pp. doi:10.2903/sp.efsa.2020.EN-1877.
+
+## ANNEX — TEMPLATES FOR REPORTING OF THE RESULTS OF THE ANNUAL SURVEYS CARRIED OUT PURSUANT TO ARTICLE 7
+
+**PART A**
+
+**1\. Template for reporting of the results of annual surveys**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="9"><table><tbody><tr><td>1.</td><td>Description of the Demarcated Area (DA)</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>2.</td><td>Initial size of DA (ha)</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>3.</td><td>Updated size of DA (ha)</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>4.</td><td>Approach (eradication or containment)</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>5.</td><td>Zone</td></tr>
+</tbody>
+</table>
+</td><td colspan="2" rowspan="9"><table><tbody><tr><td>6.</td><td>Survey sites</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>7.</td><td>Risk areas identified</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>8.</td><td>Risk areas inspected</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>9.</td><td>Plant material / Commodity</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>10.</td><td>List of host plant species</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>11.</td><td>Timing</td></tr>
+</tbody>
+</table>
+</td><td colspan="9"><table><tbody><tr><td>12.</td><td>Survey details</td></tr>
+</tbody>
+</table>
+</td><td colspan="4" rowspan="10"><table><tbody><tr><td>13.</td><td>No of symptomatic samples analysed:<table><tbody><tr><td>i:</td><td>Total</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>ii:</td><td>Positive</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>iii:</td><td>Negative</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>iv:</td><td>Undetermined</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td colspan="4" rowspan="10"><table><tbody><tr><td>14.</td><td>No of asymptomatic samples analysed:<table><tbody><tr><td>i:</td><td>Total</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>ii:</td><td>Positive</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>iii:</td><td>Negative</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>iv:</td><td>Undetermined</td></tr>
+</tbody>
+</table>
+</td></tr>
+</tbody>
+</table>
+</td><td colspan="2" rowspan="9"><table><tbody><tr><td>15.</td><td>Notification number of the outbreaks notified, as applicable, in accordance with Implementing Regulation (EU) 2019/1715</td></tr>
+</tbody>
+</table>
+</td><td rowspan="11"><table><tbody><tr><td>16.</td><td>Comments</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="9"><table><tbody><tr><td>A)</td><td>Number of visual examinations</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="9"><table><tbody><tr><td>B)</td><td>Total number of samples taken</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="9"><table><tbody><tr><td>C)</td><td>Type of traps (or other alternative method (e.g. sweep nets))</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="9"><table><tbody><tr><td>D)</td><td>Number of traps (or other capturing method)</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="9"><table><tbody><tr><td>E)</td><td>Number of trapping sites, when different from data reported in (D)</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="9"><table><tbody><tr><td>F)</td><td>Type of tests (e.g. microscopic identification, PCR, ELISA, etc.)</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="9"><table><tbody><tr><td>G)</td><td>Total number of tests</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="9"><table><tbody><tr><td>H)</td><td>Other measures (e.g. sniffer dogs, drones, helicopters, awareness raising campaigns etc.)</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td rowspan="2">Name</td><td rowspan="2">Date of establishment</td><td rowspan="2">Description</td><td rowspan="2">Number</td><td colspan="9"><table><tbody><tr><td>I)</td><td>Number of other measures</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2">Number</td><td rowspan="2">Date</td></tr>
+<tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>i</td><td>ii</td><td>iii</td><td>iv</td><td>i</td><td>ii</td><td>iii</td><td>iv</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+**2\. Instructions how to fill in the template**
+
+If this template is filled, the template in Part B is not to be filled.
+
+For column 1: Indicate the name of the geographical area, outbreak number or any information that allows identification of this demarcated area (DA) and the date when it was established.
+
+For column 2: Indicate the size of the DA before the start of the survey.
+
+For column 3: Indicate the size of the DA after the survey.
+
+For column 4: Indicate the approach: Eradication or Containment. Please, include as many rows as necessary, depending on the number of DA and the approaches these areas are subject to.
+
+For column 5: Indicate the zone of the DA where the survey was carried out, including as many rows as necessary: Infested (IZ) or buffer zone (BZ), using separate rows. When applicable, indicate the area of the IZ where the survey was carried out (e.g. last 20 km adjacent to the BZ, around nurseries, etc.) in different rows.
+
+For column 6: Indicate the number and the description of the survey sites, by choosing one of the following entries for the description:
+
+1\. Open air (production area): 1.1. field (arable, pasture); 1.2. orchard/vineyard; 1.3. nursery; 1.4. forest;
+
+2\. Open air (other): 2.1. private garden; 2.2. public sites; 2.3. conservation area; 2.4. wild plants in areas other than conservation areas; 2.5. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry, wetlands, irrigation and drainage network);
+
+3\. Physically closed conditions: 3.1. greenhouse; 3.2. private site, other than greenhouse; 3.3. public site, other than greenhouse; 3.4. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry).
+
+For column 7: Indicate, which are the risk areas identified based on the biology of the pest, presence of host plants, eco-climatic conditions and risk locations.
+
+For column 8: Indicate the risk areas included in the survey, from those identified in column 7.
+
+For column 9: Indicate plants, fruits, seeds, soil, packaging material, wood, machinery, vehicles, water, other, specifying the specific case.
+
+For column 10: Indicate the list of plant species/genera surveyed using one row per plant species/genera.
+
+For column 11: Indicate the months of the year when the survey was carried out.
+
+For column 12: Indicate the details of the survey, depending on the specific legal requirements of each pest. Indicate with N/A when the information of certain column is not applicable.
+
+For columns 13 and 14: Indicate the results, if applicable, providing the information available in the corresponding columns. ‘Undetermined’ are those analysed samples for which no result was obtained due to different factors (e.g. below detection level, unprocessed sample-not identified, old).
+
+For column 15: Indicate the outbreak notifications of the year when the survey took place for findings in the BZ. The outbreak notification number does not need to be included when the competent authority has decided that the finding is one of the cases referred to in Article 14(2), Article 15(2) or Article 16 of Regulation (EU) 2016/2031. In this case, indicate the reason for not providing this information in column 16 (‘Comments’).
+
+**PART B**
+
+**1\. Template for reporting of the results of statistically-based annual surveys**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="2"><table><tbody><tr><td>1.</td><td>Description of the Demarcated Area (DA)</td></tr>
+</tbody>
+</table>
+</td><td rowspan="3"><table><tbody><tr><td>2.</td><td>Initial size of DA (ha)</td></tr>
+</tbody>
+</table>
+</td><td rowspan="3"><table><tbody><tr><td>3.</td><td>Updated size of DA (ha)</td></tr>
+</tbody>
+</table>
+</td><td rowspan="3"><table><tbody><tr><td>4.</td><td>Approach</td></tr>
+</tbody>
+</table>
+</td><td rowspan="3"><table><tbody><tr><td>5.</td><td>Zone</td></tr>
+</tbody>
+</table>
+</td><td colspan="2" rowspan="2"><table><tbody><tr><td>6.</td><td>Survey sites</td></tr>
+</tbody>
+</table>
+</td><td rowspan="3"><table><tbody><tr><td>7.</td><td>Timing</td></tr>
+</tbody>
+</table>
+</td><td colspan="16"><table><tbody><tr><td>A.</td><td>Survey definition (input parameters for RiBESS+)</td></tr>
+</tbody>
+</table>
+</td><td colspan="7"><table><tbody><tr><td>B.</td><td>Sampling effort</td></tr>
+</tbody>
+</table>
+</td><td colspan="7"><table><tbody><tr><td>C.</td><td>Survey results</td></tr>
+</tbody>
+</table>
+</td><td rowspan="3"><table><tbody><tr><td>25.</td><td>Comments</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td colspan="3"><table><tbody><tr><td>8.</td><td>Target population</td></tr>
+</tbody>
+</table>
+</td><td colspan="2"><table><tbody><tr><td>9.</td><td>Epidemiological units</td></tr>
+</tbody>
+</table>
+</td><td colspan="4"><table><tbody><tr><td>10.</td><td>Detection methods</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>11.</td><td>Sampling effectiveness</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>12.</td><td>Method sensitivity</td></tr>
+</tbody>
+</table>
+</td><td colspan="5"><table><tbody><tr><td>13.</td><td>factors (activities, locations and areas)</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>14.</td><td>N° of epidemiological units inspected</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>15.</td><td>N° of visual examinations</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>16.</td><td>N° samples</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>17.</td><td>N° of traps</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>18.</td><td>N° of trapping sites</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>19.</td><td>N° of tests</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>20.</td><td>N° of other measures</td></tr>
+</tbody>
+</table>
+</td><td colspan="3"><table><tbody><tr><td>21.</td><td>Results</td></tr>
+</tbody>
+</table>
+</td><td colspan="2"><table><tbody><tr><td>22.</td><td>Notification number of the outbreaks notified, as applicable, in accordance with Implementing Regulation (EU) 2019/1715</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>23</td><td>Achieved Confidence level</td></tr>
+</tbody>
+</table>
+</td><td rowspan="2"><table><tbody><tr><td>24.</td><td>Design prevalence</td></tr>
+</tbody>
+</table>
+</td></tr>
+<tr><td>Name</td><td>Date of establishment</td><td>Description</td><td>Number</td><td>Host species</td><td>Area (ha or other more relevant unit)</td><td>Inspection units</td><td>Description</td><td>Units</td><td>Visual examinations</td><td>Trapping</td><td>Testing</td><td>Other methods</td><td>Risk factor</td><td>Risk levels</td><td>N° of locations</td><td>Relative risks</td><td>Proportion of the host population</td><td>Positive</td><td>Negative</td><td>Undetermined</td><td>Number</td><td>Date</td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+
+**2\. Instructions on how to fill in the template**
+
+Explain the underlying assumptions for the survey design per pest. Summarise and justify:
+
+— the target population, epidemiological unit and inspection units;
+
+— the detection method and method sensitivity;
+
+— the risk factor(s), indicating the risk levels and corresponding relative risks and proportions of host plant population.
+
+For column 1: Indicate the name of the geographical area, outbreak number or any information that allows identification of this demarcated area (DA) and the date when it was established.
+
+For column 2: Indicate the size of the DA before the start of the survey.
+
+For column 3: Indicate the size of the DA after the survey.
+
+For column 4: Indicate the approach: Eradication or Containment. Please, include as many rows as necessary, depending on the number of DA per pest and the approaches these areas are subject to.
+
+For column 5: Indicate the zone of the DA where the survey was carried out, including as many rows as necessary: Infested zone (IZ) or buffer zone (BZ), using separate rows. Where applicable, indicate the area of the IZ where the survey was carried out (e.g. last 20 km adjacent to the BZ, around nurseries) in different rows.
+
+For column 6: Indicate the number and the description of the survey sites, by choosing one of the following entries for the description:
+
+1\. Open air (production area): 1.1 field (arable, pasture); 1.2. orchard/vineyard; 1.3. nursery; 1.4. forest;
+
+2\. Open air (other): 2.1. private gardens; 2.2. public sites; 2.3. conservation area; 2.4. wild plants in areas other than conservation areas; 2.5. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry, wetlands, irrigation and drainage network);
+
+3\. Physically closed conditions: 3.1. greenhouse; 3.2. private site, other than greenhouse; 3.3. public site, other than greenhouse; 3.4. other, with specification of the particular case (e.g. garden centre, commercial sites that uses wood packaging material, wood industry).
+
+For column 7: Indicate the months of the year when the surveys were carried out.
+
+For column 8: Indicate the chosen target population providing accordingly the list of host species/genera and area covered. The target population is defined as the ensemble of inspection units. Its size is defined typically for agricultural areas as hectares, but could be lots, fields, greenhouses etc. Please justify the choice made in the underlying assumptions. Indicate the inspection units surveyed. ‘Inspection unit’ means plants, plant parts, commodities, materials, pest vectors that had been scrutinised for identifying and detecting the pests.
+
+For column 9: Indicate the epidemiological units surveyed, indicating its description and unit of measurement. ‘Epidemiological unit’ means a homogeneous area where the interactions between the pest, the host plants and the abiotic and biotic factors and conditions would result into the same epidemiology, should the pest be present. The epidemiological units are a subdivision of the target population that are homogenous in terms of epidemiology with at least one host plant. In some cases the whole host population in a region/area/country may be defined as epidemiological unit. They could be Nomenclature of territorial units for statistics (NUTS) regions, urban areas, forests, rose gardens or farms, or hectares. The choice of the epidemiological units has to be justified in the underlying assumptions.
+
+For column 10: Indicate the methods used during the survey including the number of activities in each case, depending on the specific legal requirements of each pest. Indicate with N/A when the information of certain column is not available.
+
+For column 11: Indicate an estimation of the sampling effectiveness. Sampling effectiveness means the probability of selecting infected plant parts from an infected plant. For vectors, it is the effectiveness of the method to capture a positive vector when it is present in the survey area. For soil, it is the effectiveness of selecting a soil sample containing the pest when the pest is present in the survey area.
+
+For column 12: ‘Method sensitivity’ means the probability of a method to correctly detect pest presence. The method sensitivity is defined as the probability that a truly positive host tests positive. It is the multiplication of the sampling effectiveness (i.e. probability of selecting infected plant parts from an infected plant) by the diagnostic sensitivity (characterised by the visual inspection and/or laboratory test used in the identification process).
+
+For column 13: Provide the risk factors in different rows, using as many rows as necessary. For each risk factor indicate the risk level and corresponding relative risk and proportion of host population.
+
+For column B: Indicate the details of the survey, depending on the specific legal requirements for each pest. Indicate with N/A when the information of certain column is not applicable. The information to be provided in these columns is related to the information included in column 10 ‘Detection methods’.
+
+For column 18: Indicate the number of trapping sites in case this number differs from the number of traps (column 17) (e.g. the same trap is used in different places).
+
+For column 21: Indicate the number of samples found positive, negative or undetermined. ‘Undetermined’ are those analysed samples for which no result was obtained due to different factors (e.g. below detection level, unprocessed sample-not identified, old).
+
+For column 22: Indicate the outbreak notifications of the year when the survey took place. The outbreak notification number does not need to be included when the competent authority has decided that the finding is one of the cases referred to in Article 14(2), Article 15(2) or Article 16 of Regulation (EU) 2016/2031. In this case, indicate the reason for not providing this information in column 25 (‘Comments’).
+
+For column 23: Indicate the sensitivity of the survey, as defined in International Standard for Phytosanitary Measures (ISPM) 31. This value of the achieved confidence level of pest freedom is calculated based on the examinations (and/or samples) performed given the method sensitivity and the design prevalence.
+
+For column 24: Indicate the design prevalence based on a pre-survey estimate of the likely actual prevalence of the pest in the field. The design prevalence is set as a goal of the survey and corresponds to the compromise the risk managers are making between the risk of having the pest and the resources available for the survey. Typically, for a detection survey a value of 1 % is set.
+
+ELI: http://data.europa.eu/eli/reg_impl/2024/2013/oj
+
+ISSN 1977-0677 (electronic edition)

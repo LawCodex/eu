@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **laying down rules facilitating the use of financial and other information for the prevention, detection, investigation or prosecution of certain criminal offences, and repealing Council Decision 2000/642/JHA**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1654 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 31 May 2024 </td><td> L 1654</td><td>1</td><td>19.6.2024</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2019/1153 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

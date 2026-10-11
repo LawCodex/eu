@@ -1,0 +1,163 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/807 of 23 May 2022 correcting Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China"
+identifier: "32022R0807"
+eli: "http://data.europa.eu/eli/reg_impl/2022/807/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-05-23
+entry_into_force: 2022-11-28
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0807"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/807 of 23 May 2022 correcting Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/807**
+
+**of 23 May 2022**
+
+**correcting Implementing Regulation (EU) 2022/191 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/1036 of the European Parliament and of the Council of 8 June 2016 on protection against dumped imports from countries not members of the European Union (1), and in particular Article 9(4) thereof,
+
+Whereas:
+
+(1) By Commission Implementing Regulation (EU) 2022/191 (2), the Commission imposed a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China.
+
+(2) Recital (347) and the Annex to Implementing Regulation (EU) 2022/191 included an error as regards the name of a cooperating not sampled exporting producer Liaocheng BSC Metal Products Co., Ltd. Namely, this company’s name in recital (347) and in the Annex to Implementing Regulation (EU) 2022/191 was erroneously incomplete, i.e. the last three words of the company’s name (‘Products Co., Ltd’) were omitted.
+
+(3) As a result, recital (347) and the Annex to Implementing Regulation (EU) 2022/191 do not reflect the correct full name of the cooperating not sampled exporting producer Liaocheng BSC Metal Products Co., Ltd. Therefore, the Commission has decided to correct recital (347) and the Annex to Implementing Regulation (EU) 2022/191 accordingly. This rectification should take effect as from the entry into force of Implementing Regulation (EU) 2022/191, namely 18 February 2022.
+
+(4) The measures provided for in this Regulation are in accordance with the opinion of the Committee, established by Article 15(1) of Regulation (EU) 2016/1036,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. Recital 347 of Implementing Regulation (EU) 2022/191 is replaced by the following:
+
+‘(347) Following final disclosure, the Commission noted some clerical errors included in the list of cooperating exporting producers that were corrected. These corrections were based on the information provided by the parties concerned in the sampling form. Thus, Shanghai Foreign Trade (Pudong) Co., Ltd. that submitted the sampling information for its related producers Shanghai Rongdun Industry Co., Ltd. and Shanghai Chunri New Energy Technology Co., Ltd., was removed from the list and replaced by its related producers. Likewise, BSC Corporation, a trader exporting the product produced by its related company Liaocheng BSC Metal Products Co., Ltd, was removed from the list and replaced by its related producer.’
+
+2\. The Annex to Implementing Regulation (EU) 2022/191 is replaced by the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force with retroactive effect as from 18 February 2022.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 23 May 2022.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 176, 30.6.2016, p. 21.
+
+(2) Commission Implementing Regulation (EU) 2022/191 of 16 February 2022 imposing a definitive anti-dumping duty on imports of certain iron or steel fasteners originating in the People’s Republic of China (OJ L 36, 17.2.2022, p. 1.)
+
+## ANNEX
+
+Cooperating exporting producers not sampled:
+
+| Country | Name | TARIC additional code |
+| --- | --- | --- |
+| People’s Republic of China | Anhui Goodlink Fastener Co., Ltd | C859 |
+| People’s Republic of China | Beijing Jinzhaobo High Strength Fastener Co., Ltd. | C767 |
+| People’s Republic of China | Liaocheng BSC Metal Products Co., Ltd | C768 |
+| People’s Republic of China | Celo Suzhou Precision Fasteners Co. Ltd | C769 |
+| People’s Republic of China | Changshu City Standard Parts Factory Co., Ltd. | C770 |
+| People’s Republic of China | CHENGLONG TECHNOLOGY (JIAXING) CO., LTD. | C771 |
+| People’s Republic of China | EC International (Nantong) Co., Ltd. | C772 |
+| People’s Republic of China | FASTWELL METAL PRODUCTS CO.,LTD | C773 |
+| People’s Republic of China | Finework (Hunan) New Energy Technology Co.,Ltd | C774 |
+| People’s Republic of China | FRÖTEK Plastic Technology(Wuxi) CO., LTD | C775 |
+| People’s Republic of China | Haining Hisener Trade Co., Ltd | C776 |
+| People’s Republic of China | HAINING JINJIE METAL CO.,LTD | C778 |
+| People’s Republic of China | HAIYAN BOOMING FASTENER CO.,LTD. | C779 |
+| People’s Republic of China | Haiyan C&F Fittings Co.,LTD | C780 |
+| People’s Republic of China | HAIYAN GUANGDA HARDWARE CO., LTD. | C781 |
+| People’s Republic of China | Haiyan Jiamei Hardware Manufacturing And Tech. Co., Ltd | C782 |
+| People’s Republic of China | Haiyan Shangxin Standarf Parts Co., Ltd | C783 |
+| People’s Republic of China | HAIYAN TIANQI STANDARD PARTS CO., LTD. | C784 |
+| People’s Republic of China | Haiyan Wancheng Fasteners Co., Ltd. | C785 |
+| People’s Republic of China | HAIYAN XINGLONG FASTENER CO., LTD | C786 |
+| People’s Republic of China | HAIYAN YIHUI HARDWARE TECHNOLOGY CO., LTD | C787 |
+| People’s Republic of China | HAIYAN YOUSUN ENTERPRISE CO., LTD | C788 |
+| People’s Republic of China | HANDAN HAOSHENG FASTENER CO., LTD. | C789 |
+| People’s Republic of China | HILTI (CHINA) LTD | C790 |
+| People’s Republic of China | Jia Xing Tai Cheng Aoto Parts Co., Ltd | C791 |
+| People’s Republic of China | Jiashan Chaoyi Fastener Co.,Ltd | C792 |
+| People’s Republic of China | JIASHAN GIANT IMP.&EXP.TRADE CO.,LTD | C793 |
+| People’s Republic of China | Jiashan Sanxin Fastener Company Limited | C794 |
+| People’s Republic of China | Jiashan United Oasis Fastener Co.,Ltd | C795 |
+| People’s Republic of China | JIASHAN WEIYUE FASTENER CO.,LTD | C796 |
+| People’s Republic of China | Jiashan Xiaohai Metal Products Factory | C797 |
+| People’s Republic of China | JIASHAN YONGXIN FASTENER CO., LTD | C798 |
+| People’s Republic of China | JIAXING CHENGFENG METAL PRODUCTS CO.,LTD | C799 |
+| People’s Republic of China | JIAXING H.J TECH INDUSTRY LIMITED | C800 |
+| People’s Republic of China | Jiaxing Huanhuan Tong Plastic Industry Co., LTD | C801 |
+| People’s Republic of China | JIAXING KINFAST HARDWARE CO., LTD. | C802 |
+| People’s Republic of China | JIAXING LONGSHENG HARDWARE CO.,LTD | C803 |
+| People’s Republic of China | Jiaxing Shangxiang Import and Export Co., LTD | C804 |
+| People’s Republic of China | JIAXING SULATER AUTO PARTS CO.,LTD. | C805 |
+| People’s Republic of China | JIAXING TAIXIN AUTO PARTS MANUFACTURING CO.,LTD | C806 |
+| People’s Republic of China | Jiaxing Victor Screw Co.,Ltd | C807 |
+| People’s Republic of China | JIAXING ZHENGYING HARDWARE CO.,LTD | C808 |
+| People’s Republic of China | Jinan Huayang Fastener Co., Ltd | C809 |
+| People’s Republic of China | JINAN STAR FASTENER CO., LTD | C810 |
+| People’s Republic of China | Lianyungang Suli Hardware Technology Co., Ltd. | C811 |
+| People’s Republic of China | NEDSCHROEF FASTENERS (KUNSHAN) CO., LTD. | C812 |
+| People’s Republic of China | NEW STARWDH INDUSTRIAL CO.,LTD | C813 |
+| People’s Republic of China | Ningbo Dongxin High-Strength Nut Co., Ltd. | C814 |
+| People’s Republic of China | Ningbo Economic & Technical Development Zone Yonggang Fasteners Co., Ltd. | C815 |
+| People’s Republic of China | Ningbo Haixin Hardware Co., Ltd. | C816 |
+| People’s Republic of China | NINGBO LEMNA PRODUCT TECHNOLOGY CO., LTD. | C817 |
+| People’s Republic of China | Ningbo Minda Machinery & Electronics Co., Ltd. | C818 |
+| People’s Republic of China | Ningbo Nanjubaoge Fastener Manufacturing Co. Ltd | C819 |
+| People’s Republic of China | Ningbo Ningli High-Strength Fastener Co., Ltd | C820 |
+| People’s Republic of China | Ningbo Shengtai Fastener Technology Co., Ltd | C821 |
+| People’s Republic of China | Ningbo Taida Hezhong Fastener Manufacture Co., Ltd. | C822 |
+| People’s Republic of China | Ningbo Zhenghai Yongding Fastener Co., Ltd. | C823 |
+| People’s Republic of China | NINGBO ZHONGBIN FASTENER MFG. CO., LTD | C824 |
+| People’s Republic of China | Ningbo Zhongjiang High Strength Bolts Co., Ltd. | C825 |
+| People’s Republic of China | OK TECH CO., LTD | C826 |
+| People’s Republic of China | PINGHU OTEBAY HARDWARE PRODUCT CO.LTD | C827 |
+| People’s Republic of China | Pinghu Sanjiaozhou Lubricant Co., Ltd. | C828 |
+| People’s Republic of China | Pol Shin Fastener (Zhejiang) Co., Ltd | C829 |
+| People’s Republic of China | QIFENG PRECISION INDUSTRY SCI-TECH CORP. | C830 |
+| People’s Republic of China | Shanghai Autocraft Co.,Ltd. | C831 |
+| People’s Republic of China | SHANGHAI CHAEN CHIA FASTENERS CO.,LTD. | C832 |
+| People’s Republic of China | SHANGHAI EAST BEST FOREIGN TRADE CO.,LTD. | C833 |
+| People’s Republic of China | Shanghai Chunri New Energy Technology Co., Ltd., | C777 |
+| People’s Republic of China | Shanghai Rongdun Industry Co., Ltd. | C834 |
+| People’s Republic of China | Shanghai Galgem Hardware Company Limited | C835 |
+| People’s Republic of China | Shanghai High-Strength Bolts Plant | C836 |
+| People’s Republic of China | SHANGHAI MOREGOOD HARDWARE CO., LTD. | C837 |
+| People’s Republic of China | Shanghai Yueda Nails Co., Ltd. | C838 |
+| People’s Republic of China | SSF INDUSTRIAL CO., LIMITED | C839 |
+| People’s Republic of China | Suzhou Escort Hardware Manufacturing Co. Ltd | C840 |
+| People’s Republic of China | Suzhou Hongly Hardware Co., Ltd | C841 |
+| People’s Republic of China | Suzhou Litto Fastener Co., Ltd | C842 |
+| People’s Republic of China | Suzhou YNK Fastener Co., Ltd. | C843 |
+| People’s Republic of China | Yantai Agrati Fasteners Ltd. | C844 |
+| People’s Republic of China | YUYAO ALFIRSTE HARDWARE CO.,LTD | C845 |
+| People’s Republic of China | Yuyao Zhenrui Metal Co., Ltd | C846 |
+| People’s Republic of China | ZHE JIANG WORLD WIN FASTENER CO., LTD | C847 |
+| People’s Republic of China | Zhejiang Channov Auto Parts Co., Ltd | C848 |
+| People’s Republic of China | ZHEJIANG CHAOBOER HARDWARE CO., LTD | C849 |
+| People’s Republic of China | ZHEJIANG DONGHE MACHINERY TECHNOLOGY CORPORATION LIMITED | C850 |
+| People’s Republic of China | Zhejiang Excellent Industries Co. Ltd | C851 |
+| People’s Republic of China | ZHEJIANG MS TECHNOLOGY CO.,LTD. | C852 |
+| People’s Republic of China | ZHEJIANG NEW SHENGDA FASTENER CO., LTD. | C853 |
+| People’s Republic of China | ZheJiang RuiZhao Technology Co.,Ltd. | C854 |
+| People’s Republic of China | Zhejiang Tianyuan Metal Products Co.,Ltd | C855 |

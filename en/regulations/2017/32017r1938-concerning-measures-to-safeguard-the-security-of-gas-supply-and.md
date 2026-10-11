@@ -1,0 +1,2221 @@
+---
+title: "Regulation (EU) 2017/1938 of the European Parliament and of the Council of 25 October 2017 concerning measures to safeguard the security of gas supply and repealing Regulation (EU) No 994/2010 (Text with EEA relevance. )"
+identifier: "32017R1938"
+eli: "http://data.europa.eu/eli/reg/2017/1938/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2017-10-25
+entry_into_force: 2017-12-15
+last_amended: 2026-06-22
+consolidated_version: "02017R1938-20260622"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R1938-20260622"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2017/1938 of the European Parliament and of the Council of 25 October 2017 concerning measures to safeguard the security of gas supply and repealing Regulation (EU) No 994/2010 (Text with EEA relevance. )
+
+**REGULATION (EU) 2017/1938 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 October 2017**
+
+**concerning measures to safeguard the security of gas supply and repealing Regulation (EU) No 994/2010**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/517 of 18 November 2021 </td><td> L 104</td><td>53</td><td>1.4.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/1032 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 June 2022 </td><td> L 173</td><td>17</td><td>30.6.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1789 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 June 2024 </td><td> L 1789</td><td>1</td><td>15.7.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/1733 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 July 2025 </td><td> L 1733</td><td>1</td><td>10.9.2025</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/261 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 January 2026 </td><td> L 261</td><td>1</td><td>2.2.2026</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/146 of 22 January 2026 </td><td> L 146</td><td>1</td><td>2.6.2026</td></tr>
+</table>
+
+C1
+
+**REGULATION (EU) 2017/1938 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 October 2017**
+
+**concerning measures to safeguard the security of gas supply and repealing Regulation (EU) No 994/2010**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Regulation establishes provisions aiming to safeguard the security of gas supply in the Union by ensuring the proper and continuous functioning of the internal market for gas by allowing for exceptional measures to be implemented when the market can no longer deliver the gas supplies required, including solidarity measure of a last resort, and by providing for the clear definition and attribution of responsibilities among natural gas undertakings, the Member States and the Union regarding both preventive action and the reaction to concrete disruptions of gas supply. This Regulation also establishes transparent mechanisms concerning, in a spirit of solidarity, the coordination of planning for, and response to, emergencies at national, regional and Union level.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(2) ‘customer’ means customer as defined in point 24 of Article 2 of Directive 2009/73/EC;
+
+(3) ‘household customer’ means household customer as defined in point 25 of Article 2 of Directive 2009/73/EC;
+
+(4) ‘essential social service’ means a service related to healthcare, essential social care, emergency, security, education or public administration;
+
+(5) ‘protected customer’ means a household customer who is connected to a gas distribution network and, in addition, where the Member State concerned so decides, may also mean one or more of the following, provided that enterprises or services as referred to in points (a) and (b) do not, jointly, represent more than 20 % of the total annual final gas consumption in that Member State:
+
+(a) a small or medium-sized enterprise, provided that it is connected to a gas distribution network;
+
+(b) an essential social service, provided that it is connected to a gas distribution or transmission network;
+
+(c) a district heating installation to the extent that it delivers heating to household customers, small or medium-sized enterprises, or essential social services, provided that such installation is not able to switch to other fuels than gas;
+
+(6) ‘solidarity protected customer’ means a household customer who is connected to a gas distribution network, and, in addition, may include one or both of the following:
+
+(a) a district heating installation if it is a protected customer in the relevant Member State and only in so far as it delivers heating to households or essential social services other than educational and public administration services;
+
+(b) an essential social service if it is a protected customer in the relevant Member State, other than educational and public administration services;
+
+(7) ‘competent authority’ means a national governmental authority or a national regulatory authority designated by a Member State to ensure the implementation of the measures provided for in this Regulation;
+
+(8) ‘national regulatory authority’ means a national regulatory authority designated in accordance with Article 39(1) of Directive 2009/73/EC;
+
+(9) ‘natural gas undertaking’ means natural gas undertaking as defined in point 1 of Article 2 of Directive 2009/73/EC;
+
+(10) ‘gas supply contract’ means gas supply contract as defined in point 34 of Article 2 of Directive 2009/73/EC;
+
+(11) ‘transmission’ means transmission as defined in point 3 of Article 2 of Directive 2009/73/EC;
+
+(12) ‘transmission system operator’ means transmission system operator as defined in point 4 of Article 2 of Directive 2009/73/EC;
+
+(13) ‘distribution’ means distribution as defined in point 5 of Article 2 of Directive 2009/73/EC;
+
+(14) ‘distribution system operator’ means distribution system operator as defined in point 6 of Article 2 of Directive 2009/73/EC;
+
+(15) ‘interconnector’ means interconnector as defined in point 17 of Article 2 of Directive 2009/73/EC;
+
+(16) ‘emergency supply corridors’ means Union gas supply routes that help Member States to better mitigate the effects of potential disruption of supply or infrastructure;
+
+(17) ‘storage capacity’ means storage capacity as defined in point 28 of Article 2 of Regulation (EC) No 715/2009;
+
+(18) ‘technical capacity’ means technical capacity as defined in point 18 of Article 2 of Regulation (EC) No 715/2009;
+
+(19) ‘firm capacity’ means firm capacity as defined in point 16 of Article 2 of Regulation (EC) No 715/2009;
+
+(20) ‘interruptible capacity’ means interruptible capacity as defined in point 13 of Article 2 of Regulation (EC) No 715/2009;
+
+(21) ‘LNG facility capacity’ means LNG facility capacity as defined in point 24 of Article 2 of Regulation (EC) No 715/2009;
+
+(22) ‘LNG facility’ means LNG facility as defined in point 11 of Article 2 of Directive 2009/73/EC;
+
+(23) ‘storage facility’ means storage facility as defined in point 9 of Article 2 of Directive 2009/73/EC;
+
+(24) ‘system’ means system as defined in point 13 of Article 2 of Directive 2009/73/EC;
+
+(25) ‘system user’ means system user as defined in point 23 of Article 2 of Directive 2009/73/EC;
+
+(26) ‘ancillary services’ means ancillary services as defined in point 14 of Article 2 of Directive 2009/73/EC;
+
+(27) ‘filling trajectory’ means a series of indicative intermediate targets for the underground gas storage facilities of each Member State, representing the filling plan of that Member State, set in accordance with Article 6a(7);
+
+(28) ‘filling target’ means a binding target for the filling level of the aggregated capacity of the underground gas storage facilities;
+
+(29) ‘strategic storage’ means underground storage or part of underground storage of non-liquefied natural gas which is purchased, managed and stored by transmission systems operators, an entity designated by the Member States or an undertaking, and which may be released only after prior notification or public authority authorisation for release, and is generally released in the case of:
+
+(a) major supply scarcity;
+
+(b) a supply disruption; or
+
+(c) the declaration of an emergency as referred to in Article 11(1), point (c);
+
+(30) ‘balancing stock’ means non-liquefied natural gas which is:
+
+(a) purchased, managed and stored underground by transmission system operators or by an entity designated by the Member State, for the sole purposes of carrying out the functions of transmission system operators and of the security of gas supply; and
+
+(b) dispatched only where required to keep the system in operation under secure and reliable conditions in accordance with Article 13 of Directive 2009/73/EC and with Articles 8 and 9 of Regulation (EU) No 312/2014;
+
+(31) ‘underground gas storage facility’ means a storage facility as defined in Article 2, point (9), of Directive 2009/73/EC that is used for the stocking of natural gas, including balancing stock, and that is connected to a transmission or distribution system, excluding above-ground spherical or linepack storage;
+
+(32) ‘gas’ means natural gas as defined in Article 2, point (1), of Directive (EU) 2024/1788 ( 1 );
+
+(33) ‘take-or-pay provision’ means a contractual provision which obliges the buyer to take delivery of, or alternatively pay for, a specified minimum quantity of gas within a given period, regardless of whether the gas is actually received;
+
+(34) ‘deliver-or-pay provision’ means a contractual provision which obliges the seller to pay a contractual fine in the case of a non-delivery of gas.
+
+## Article 3 — Responsibility for the security of gas supply
+
+1\. The security of gas supply shall be the shared responsibility of natural gas undertakings, Member States, in particular through their competent authorities, and the Commission, within their respective areas of activity and competence.
+
+2\. Each Member State shall designate a competent authority. The competent authorities shall cooperate with each other in the implementation of this Regulation. Member States may allow the competent authority to delegate specific tasks set out in this Regulation to other bodies. Where competent authorities delegate the task of declaring any of the crisis levels referred to in Article 11(1), they shall do so only to a public authority, a transmission system operator or a distribution system operator. Delegated tasks shall be performed under the supervision of the competent authority and shall be specified in the preventive action plan and in the emergency plan.
+
+3\. Each Member State shall, without delay, notify the Commission, and make public, the name of its competent authority and any changes thereto.
+
+4\. When implementing the measures provided for in this Regulation, the competent authority shall establish the roles and responsibilities of the different actors concerned in such a way as to ensure a three-level approach which involves, first, the relevant natural gas undertakings, electricity undertakings where appropriate, and industry, second, Member States at national or regional level, and third, the Union.
+
+5\. The Commission shall coordinate the action of the competent authorities at regional and Union levels, pursuant to this Regulation, inter alia, through the GCG or, in particular, in the event of a regional or Union emergency pursuant to Article 12(1), through the crisis management group referred to in Article 12(4).
+
+6\. In the event of a regional or Union emergency, the transmission system operators shall cooperate and exchange information using the ReCo System for Gas established by ENTSOG. ENTSOG shall inform the Commission and the competent authorities of the Member States concerned accordingly.
+
+7\. In accordance with Article 7(2), major transnational risks to the security of gas supply in the Union are to be identified and risk groups are to be established on that basis. Those risk groups shall serve as the basis for enhanced regional cooperation to increase the security of gas supply and shall enable agreement on appropriate and effective cross-border measures of all Member States concerned within the risk groups or outside the risk groups along the emergency supply corridors.
+
+The list of such risk groups and their composition are set out in Annex I. The composition of the risk groups shall not prevent any other form of regional cooperation benefiting security of supply.
+
+8\. The Commission is empowered to adopt delegated acts in accordance with Article 19 in order to update the composition of the risk groups set out in Annex I by amending that Annex in order to reflect the evolution of the major transnational risks to the security of gas supply in the Union and its impact on Member States, taking into account the result of Union-wide simulation of gas supply and infrastructure disruption scenarios carried out by ENTSOG in accordance with Article 7(1). Before proceeding to the update, the Commission shall consult the GCG in the setting provided for in Article 4(4) on the draft update.
+
+## Article 4 — Gas Coordination Group
+
+1\. A Gas Coordination Group (GCG) shall be established to facilitate the coordination of measures concerning the security of gas supply. The GCG shall be composed of representatives of the Member States, in particular representatives of their competent authorities, as well as the Agency for the Cooperation of Energy Regulators (the ‘Agency’), ENTSOG and representative bodies of the industry concerned and those of relevant customers. The Commission shall, in consultation with the Member States, decide on the composition of the GCG, ensuring it is fully representative. The Commission shall chair the GCG. The GCG shall adopt its rules of procedure.
+
+2\. The GCG shall be consulted and shall assist the Commission in particular on the following issues:
+
+(a) the security of gas supply, at any time and more specifically in the event of an emergency;
+
+(b) all information relevant to the security of gas supply at national, regional and Union level;
+
+(c) best practices and possible guidelines to all the parties concerned;
+
+(d) the level of the security of gas supply, benchmarks and assessment methodologies;
+
+(e) national, regional and Union scenarios and testing the levels of preparedness;
+
+(f) the assessment of the preventive action plans and the emergency plans, the coherence across the various plans, and the implementation of the measures provided for therein;
+
+(g) the coordination of measures to deal with an Union emergency, with the Energy Community Contracting Parties and with other third countries;
+
+(h) assistance needed by the most affected Member States.
+
+3\. The Commission shall convene the GCG on a regular basis and shall share the information received from the competent authorities whilst preserving the confidentiality of commercially sensitive information.
+
+4\. The Commission may convene the GCG in a setting which is restricted to the representatives of the Member States and in particular of their competent authorities. The Commission shall convene the GCG in this restricted setting if so requested by one or more of the representatives of the Member States and in particular of their competent authorities. In this case, Article 16(2) shall not apply.
+
+## Article 5 — Infrastructure standard
+
+1\. Each Member State or, where a Member State so provides, its competent authority shall ensure that the necessary measures are taken so that in the event of a disruption of the single largest gas infrastructure, the technical capacity of the remaining infrastructure, determined in accordance with the N – 1 formula as set out in point 2 of Annex II, is able, without prejudice to paragraph 2 of this Article, to satisfy total gas demand of the calculated area during a day of exceptionally high gas demand occurring with a statistical probability of once in 20 years. This shall be done taking into account gas consumption trends, the long-term impact of energy efficiency measures and the utilisation rates of existing infrastructure.
+
+The obligation set out in the first subparagraph of this paragraph shall be without prejudice to the responsibility of the transmission system operators to make the corresponding investments and to the obligations of transmission system operators as laid down in Regulation (EC) No 715/2009 and Directive 2009/73/EC.
+
+2\. The obligation to ensure that the remaining infrastructure has the technical capacity to satisfy total gas demand, as referred to in paragraph 1 of this Article, shall also be considered to be fulfilled where the competent authority demonstrates in the preventive action plan that a disruption of gas supply may be sufficiently compensated for, in a timely manner, by appropriate market-based demand-side measures. For that purpose, the N – 1 formula shall be calculated as set out in point 4 of Annex II.
+
+3\. Where appropriate, in accordance with the risk assessments referred to in Article 7, the competent authorities of neighbouring Member States may agree to fulfil, jointly, the obligation set out in paragraph 1 of this Article. In such case the competent authorities shall provide in the risk assessment the calculation of the N – 1 formula together with an explanation in the regional chapters of the preventive action plans how the agreed arrangements fulfil that obligation. Point 5 of Annex II shall apply.
+
+4\. The transmission system operators shall enable permanent physical capacity to transport gas in both directions (‘bi-directional capacity’) on all interconnections between Member States, except:
+
+(a) in the case of connections to production facilities, to LNG facilities and to distribution networks; or
+
+(b) where an exemption from that obligation has been granted, after detailed assessment and after consulting other Member States and with the Commission in accordance with Annex III.
+
+For the procedure to enable or enhance bi-directional capacity on an interconnection or to obtain or prolong an exemption from that obligation Annex III shall apply. The Commission shall make public the list of exemptions and keep it updated.
+
+5\. A proposal for enabling or enhancing bi-directional capacity or a request for granting or prolongation of an exemption shall include a cost-benefit analysis prepared on the basis of the methodology pursuant to Article 11 of Regulation (EU) No 347/2013 of the European Parliament and of the Council ( 2 ) and shall be based on the following elements:
+
+(a) an assessment of market demand;
+
+(b) projections for demand and supply;
+
+(c) the possible economic impact on existing infrastructure;
+
+(d) a feasibility study;
+
+(e) the costs of bi-directional capacity including the necessary reinforcement of the transmission system; and
+
+(f) the benefits to the security of gas supply taking into account the possible contribution of bi-directional capacity to meeting the infrastructure standard set out in this Article.
+
+6\. National regulatory authorities shall take into account the efficiently incurred costs of fulfilling the obligation set out in paragraph 1 of this Article and the costs of enabling bi-directional capacity so as to grant appropriate incentives when fixing or approving, in a transparent and detailed manner, the tariffs or methodologies in accordance with Article 13 of Regulation (EC) No 715/2009 and Article 41(8) of Directive 2009/73/EC.
+
+7\. In so far as an investment for enabling or enhancing bi-directional capacity is not required by the market but is considered to be necessary for the security of gas supply purposes and where that investment incurs costs in more than one Member State or in one Member State for the benefit of another Member State, the national regulatory authorities of all Member States concerned shall take a coordinated decision on cost allocation before any investment decision is taken. The cost allocation shall take into account the principles described and the elements contained in Article 12(4) of Regulation (EU) No 347/2013, in particular the proportion of the benefits of the infrastructure investments for the increase of the security of gas supply of the Member States concerned as well as investments already made in the infrastructure in question. The cost allocation shall not unduly distort competition and the effective functioning of the internal market and shall seek to avoid any undue distortive effect on the market.
+
+8\. The competent authority shall ensure that any new transmission infrastructure contributes to the security of gas supply through the development of a well-connected network, including, where appropriate, by means of a sufficient number of cross-border entry and exit points relative to market demand and the risks identified.
+
+The competent authority shall assess in the risk assessment whether, with an integrated perspective on gas and electricity systems, internal bottlenecks exist and national entry capacity and infrastructure, in particular transmission networks, are capable of adapting the national and cross-border gas flows to the scenario of disruption of the single largest gas infrastructure at national level and the single largest gas infrastructure of common interest to the risk group identified in the risk assessment.
+
+9\. By way of exception from paragraph 1 of this Article, and subject to the conditions laid down in this paragraph, Luxembourg, Slovenia and Sweden shall not be bound by, but shall endeavour to meet, the obligation set out in that paragraph, while ensuring the gas supplies to protected customers in accordance with Article 6.
+
+The exception shall apply to Luxembourg provided it has:
+
+(a) at least two interconnectors with other Member States;
+
+(b) at least two different sources of gas supply; and
+
+(c) no gas storage facilities on its territory.
+
+The exception shall apply to Slovenia provided it has:
+
+(a) at least two interconnectors with other Member States;
+
+(b) at least two different sources of gas supply; and
+
+(c) no gas storage facilities or an LNG facility on its territory.
+
+The exception shall apply to Sweden provided it has:
+
+(a) no gas transit to other Member States on its territory;
+
+(b) an annual gross inland gas consumption of less than 2 Mtoe; and
+
+(c) less than 5 % of total primary energy consumption from gas.
+
+Luxembourg, Slovenia and Sweden shall inform the Commission of any change affecting the conditions laid down in this paragraph. The exception laid down in this paragraph shall cease to apply where at least one of those conditions is no longer fulfilled.
+
+As part of the national risk assessment carried out in accordance with Article 7(3) Luxembourg, Slovenia and Sweden shall describe the situation with respect to the respective conditions laid down in this paragraph and the prospects for compliance with the obligation in paragraph 1 of this Article, taking into account the economic impact of meeting the infrastructure standard, the gas market development and gas infrastructure projects in the risk group. On the basis of the information provided in the national risk assessment and if the respective conditions laid down in this paragraph are still met, the Commission may decide that the exception can continue to apply for four more years. In the event of a positive decision, the procedure set out in this subparagraph shall be repeated after four years.
+
+## Article 6 — Gas supply standard
+
+1\. The competent authority shall require the natural gas undertakings that it identifies, to take measures to ensure the gas supply to the protected customers of the Member State in each of the following cases:
+
+(a) extreme temperatures during a 7-day peak period occurring with a statistical probability of once in 20 years;
+
+(b) any period of 30 days of exceptionally high gas demand, occurring with a statistical probability of once in 20 years;
+
+(c) for a period of 30 days in the case of disruption of the single largest gas infrastructure under average winter conditions.
+
+By 2 February 2018, each Member State shall notify to the Commission its definition of protected customers, the annual gas consumption volumes of the protected customers and the percentage that those consumption volumes represent of the total annual final gas consumption in that Member State. Where a Member State includes in its definition of protected customers the categories referred to in point (5)(a) or (b) of Article 2, it shall specify the gas consumption volumes corresponding to customers belonging to those categories and the percentage that each of those groups of customers represents in total annual final gas consumption.
+
+The competent authority shall identify the natural gas undertakings referred to in the first subparagraph of this paragraph and shall specify them in the preventive action plan.
+
+Any new non-market-based measures envisaged to ensure the gas supply standard shall comply with the procedure established in Article 9(4) to (9).
+
+Member States may comply with the obligation laid down in the first subparagraph through the implementation of energy efficiency measures or by replacing the gas with a different source of energy, inter alia, renewable energy sources, to the extent that the same level of protection is achieved.
+
+2\. Any increased gas supply standard beyond the 30-day period referred to in points (b) and (c) of paragraph 1 or any additional obligation imposed for reasons of security of gas supply shall be based on the risk assessment, shall be reflected in the preventive action plan and shall:
+
+(a) comply with Article 8(1);
+
+(b) not impact negatively on the ability of any other Member State to supply gas to its protected customers in accordance with this Article in the event of a national, regional or Union emergency; and
+
+(c) comply with Article 12(5) in the event of a regional or Union emergency.
+
+The Commission may require a justification showing compliance of any measure referred to in the first subparagraph with the conditions laid down therein. Such a justification shall be made public by the competent authority of the Member State that introduces the measure.
+
+Any new non-market-based measure pursuant to the first subparagraph of this paragraph, adopted on or after 1 November 2017, shall comply with the procedure established in Article 9(4) to (9).
+
+3\. After the expiry of the periods laid down by the competent authority in accordance with paragraphs 1 and 2, or under more severe conditions than those laid down in paragraph 1, the competent authority and natural gas undertakings shall endeavour to maintain, as far as possible, the gas supply, in particular to protected customers.
+
+4\. The obligations imposed on natural gas undertakings for the fulfilment of the gas supply standards laid down in this Article shall be non-discriminatory and shall not impose an undue burden on those undertakings.
+
+5\. Natural gas undertakings shall be allowed to meet their obligations based on this Article at a regional or Union level, where appropriate. The competent authorities shall not require the gas supply standards laid down in this Article to be met based on infrastructure located only within their territory.
+
+6\. The competent authorities shall ensure that conditions for supplies to protected customers are established without prejudice to the proper functioning of the internal energy market and at a price respecting the market value of the supplies.
+
+## Article 6a — Filling targets and filling trajectories
+
+1\. Subject to paragraphs 2 to 5f, Member States shall meet the following filling targets for the aggregated capacity of all underground gas storage facilities that are located on their territory and directly interconnected to a market area in their territory and for storage facilities listed in Annex Ib at any point in time between 1 October and 1 December each year:
+
+(a) for 2022: 80 %;
+
+(b) from 2023: 90 %.
+
+For the purpose of complying with this paragraph, Member States shall take into account the objective of safeguarding the security of gas supply in the Union in accordance with Article 1.
+
+2\. Notwithstanding paragraph 1 and without prejudice to the obligations of other Member States to fill the underground gas storage facilities concerned, the filling target for each Member State in which the underground gas storage facilities are located shall be reduced to a volume corresponding to 35 % of the average annual gas consumption over the preceding five years for that Member State.
+
+3\. Notwithstanding paragraph 1 and without prejudice to the obligations of other Member States to fill the underground gas storage facilities concerned, the filling target for each Member State in which the underground gas storage facilities are located shall be reduced by the volume which was supplied to third countries during the reference period 2016 to 2021 if the average volume supplied was more than 15 TWh per year during the gas storage withdrawal period (October – April).
+
+4\. For the underground gas storage facilities listed in Annex Ib, the filling targets pursuant to paragraph 1 and the filling trajectories pursuant to paragraph 7 shall apply. The details of the obligations of each Member State will be determined in a bilateral agreement in accordance with Annex Ib.
+
+5\. A Member State may partially meet the filling target by counting the LNG physically stored and available in its LNG facilities if both of the following conditions are met:
+
+(a) the gas system includes significant capacity of LNG storage, accounting annually for more than 4 % of the average national consumption over the preceding five years;
+
+(b) the Member State has imposed an obligation on gas suppliers to store minimum volumes of gas in underground gas storage facilities and/or LNG facilities in accordance with Article 6b(1), point (a).
+
+5a. Notwithstanding paragraph 1 and without prejudice to the obligation of other Member States to fill the underground gas storage facilities concerned, in the case of difficult conditions that limit the ability to ensure that the underground gas storages are filled in accordance with this Regulation, each Member State may decide to deviate from the filling target set out in paragraph 1, point (b) by up to 10 percentage points.
+
+5b. Notwithstanding paragraph 1, in addition to a possible deviation in accordance with the paragraph 5a and without prejudice to the obligation of other Member States to fill the underground gas storage facilities concerned, each Member State may decide to deviate from the filling target set out in paragraph 1, point (b) by up to five percentage points, if:
+
+(a) its national gas production exceeds its average annual gas consumption over the preceding two years; or
+
+(b) specific technical characteristics of an individual underground storage facility with technical capacity above 40 TWh located on its territory require a slow injection rate causing an exceptionally long injection period of more than 115 days.
+
+A Member State may only use the flexibilities provided under the first subparagraph, as long as this does not negatively impact the ability of directly connected Member States to supply gas to their protected customers or this does not negatively impact the functioning of the internal market in gas. The Commission, in cooperation with the Member States using the flexibilities referred to in this subparagraph, shall assess the potential consequences of implementing those flexibilities, and inform the GCG immediately.
+
+5c. In the case of persistent unfavourable market conditions and provided that the security of supply of the Union and the Member States is not undermined, the Commission is empowered to increase, for one filling season, the level of deviation allowed pursuant to paragraph 5a of this Article, by means of a delegated act in accordance with Article 19. Such an increase shall not exceed an additional five percentage points. When assessing a potential increase, the Commission shall take into account, in particular, the level of storage-filling, global gas supply, ENTSOG’s seasonal supply outlook, and indications of market manipulation. When increasing, in accordance with this paragraph, the level of deviation allowed pursuant to paragraph 5a of this Article, the Commission shall adapt the volumes set out in paragraph 2 of this Article and in Article 6c(1) and (5) to the same extent, in order to ensure full consistency in the filling targets applicable to Member States.
+
+5d. Member States may, under the same conditions as those set out in paragraph 5a, decide to deviate by up to three percentage points and eighty-eight hundredth from the volume set out in paragraph 2.
+
+5e. Member States may, under the same conditions as those set out in paragraph 5a of this Article, decide to deviate by up to one percentage point and sixty-six hundredth from the average annual gas consumption volume set out in Article 6c(1) and (5).
+
+5f. A Member State using any of the flexibilities provided for in paragraphs 5a to 5e shall consult the Commission and provide justification immediately. The Commission shall update the GCG and any directly affected Member States on the cumulative effects of all used flexibilities without delay.
+
+6\. In order to meet the filling target, Member States shall strive to follow the filling trajectory set in accordance with paragraph 7.
+
+7\. For 2023 and the following years, each Member State with underground gas storage facilities shall submit to the Commission, by 15 September of the previous year, a filling trajectory with intermediary targets for February, May, July and September, including technical information, for the underground gas storage facilities on its territory and directly interconnected to its market area in an aggregated form. The filling trajectory and the intermediate targets shall be based on the average filling rate during the preceding five years.
+
+For Member States for which the filling target is reduced to 35 % of their average annual gas consumption pursuant to paragraph 2, the intermediate targets of the filling trajectory shall be reduced accordingly.
+
+The Commission shall inform the GCG of the aggregated filling trajectories submitted by Member States without undue delay.
+
+8\. Each Member State shall take all necessary measures in accordance with Article 6b to meet the filling target. Where, in any given year, a Member State does not meet its filling target, it shall take effective measures to ensure the security of supply while taking into consideration the price impact on the gas market. Where a Member State fails to meet the filling target, that Member State shall inform the Commission and the GCG without delay, providing reasons for the failure to meet the filling target and the measures taken.
+
+9\. The filling target shall not apply where and for as long as the Commission has declared a regional or Union emergency pursuant to Article 12 at the request, as the case may be, of one or more Member States that have declared a national emergency.
+
+10\. The competent authority of each Member State may take all necessary measures in accordance with Article 6b to meet the filling trajectory, including the introduction of binding intermediate targets at national level. It shall continuously monitor alignment with the filling trajectory and shall inform the GCG regularly of the alignment with the filling trajectory. The Commission shall regularly inform the GCG of the extent to which each Member State meets the indicative trajectory.
+
+11\. In the event of a substantial and sustained deviation by a Member State from the filling trajectory, compromising the meeting of the filling target, or in the event of a deviation from the filling target which is not allowed pursuant to paragraphs 5a to 5e, the Commission shall, where appropriate, after consulting the GCG and the Member States concerned, issue a recommendation to that Member State or to the other Member States concerned, regarding measures to be taken to remedy that deviation or to minimise the impact on security of supply, while taking into consideration, inter alia, possible difficult conditions or unfavourable market conditions as well as specificities of Member States, such as the technical characteristics and sizes of underground gas storage facilities in relation to domestic gas consumption, the declining importance of the underground low calorific gas storage facilities for the security of gas supply, and existing LNG storage capacity.
+
+## Article 6b — Implementation of filling targets
+
+1\. Member States shall take all necessary measures, including providing for financial incentives or compensation to market participants, to meet the filling targets set pursuant to Article 6a. When ensuring that the filling targets are met, Member States shall prioritise, where possible, market-based measures.
+
+To the extent that any of the measures provided for in this Article are duties and powers of the national regulatory authority pursuant to Article 41 of Directive 2009/73/EC, the national regulatory authorities shall be responsible for taking those measures.
+
+Measures taken pursuant to this paragraph may, in particular, include:
+
+(a) requiring gas suppliers to store minimum volumes of gas in storage facilities, including in underground gas storage facilities and/or in LNG storage facilities, those volumes to be determined on the basis of the amount of gas supplied by gas suppliers to protected customers;
+
+(b) requiring storage system operators to tender their capacities to market participants;
+
+(c) requiring transmission system operators or entities designated by the Member State to purchase and manage balancing stock exclusively for carrying out their functions as transmission system operators and, where necessary, imposing an obligation on other designated entities for the purpose of safeguarding the security of gas supply in the case of an emergency as referred to in Article 11(1), point (c);
+
+(d) using coordinated instruments, such as platforms for the purchase of LNG, with other Member States to maximise the utilisation of LNG and to reduce infrastructure and regulatory barriers to the shared use of LNG to fill underground gas storage facilities;
+
+(e) using voluntary mechanisms for the joint procurement of natural gas, regarding the application of which the Commission may, if necessary, issue guidance by 1 August 2022;
+
+(f) providing financial incentives for market participants, including for storage system operators, such as contracts for difference, or providing compensation to market participants for the shortfall in revenues or for costs incurred by them as a result of obligations on market participants, including storage system operators which cannot be covered by revenue;
+
+(g) requiring storage capacity holders to use or release unused booked capacities, while still obliging the storage capacity holder not using the storage capacity to pay the agreed price for the whole term of the storage contract;
+
+(h) adopting effective instruments for the purchase and management of strategic storage by public or private entities, provided that such instruments do not distort competition or the proper functioning of the internal market;
+
+(i) appointing a dedicated entity tasked with meeting the filling target in the event that the filling target would not otherwise be met;
+
+(j) providing discounts on storage tariffs;
+
+(k) collecting the revenues needed to recover the capital and operational expenditures related to regulated storage facilities as storage tariffs and as a dedicated charge incorporated into transmission tariffs collected only from exit points to final customers located within the same Member States, provided that revenues collected through tariffs are not larger than the allowed revenues.
+
+2\. The measures taken by the Member States pursuant to paragraph 1 of this Article shall be limited to what is necessary to meet the filling trajectories, where relevant, and the filling targets. All measures taken pursuant to Article 6a(8) and (10) shall be clearly defined, transparent, proportionate, non-discriminatory and verifiable. They shall not unduly distort competition or the proper functioning of the internal market in gas or endanger the security of gas supply of other Member States or the Union. Member States shall inform the Commission and the GCG of those measures without delay.
+
+3\. Member States shall take all necessary measures to ensure the use of the existing infrastructure at national and regional level for the benefit of the security of gas supply in an efficient way. Those measures shall under no circumstances block or restrict the cross-border use of storage facilities or LNG facilities and shall not limit cross-border transmission capacities allocated in accordance with Commission Regulation (EU) 2017/459 ( 3 ).
+
+4\. When taking measures pursuant to this Article, Member States shall apply the energy efficiency first principle, while still achieving the objectives of their respective measures, in accordance with Regulation (EU) 2018/1999 of the European Parliament and of the Council ( 4 ).
+
+## Article 6c — Storage arrangements and burden-sharing mechanism
+
+1\. A Member State without underground gas storage facilities shall ensure that market participants within that Member State have in place arrangements with underground storage system operators or other market participants in Member States with underground gas storage facilities. Those arrangements shall provide for the use, by 1 December, of storage volumes corresponding to at least 15 % of the average annual gas consumption over the preceding five years of the Member State without underground gas storage facilities. However, where cross-border transmission capacity or other technical limitations prevent a Member State without underground gas storage facilities from fully using 15 % of those storage volumes, that Member State shall store only those volumes that are technically possible.
+
+In the event that technical limitations do not allow a Member State to comply with the obligation laid down in the first subparagraph, and that Member State has in place an obligation to store other fuels to replace gas, the obligation laid down in the first subparagraph may exceptionally be met by an equivalent obligation to store fuels other than gas. The technical limitations and the equivalence of the measure shall be demonstrated by the Member State concerned.
+
+2\. By way of derogation from paragraph 1, a Member State without underground gas storage facilities may develop a burden-sharing mechanism with one or more Member States with underground gas storage facilities (burden-sharing mechanism).
+
+The burden-sharing mechanism shall be based on the relevant data from the latest risk assessment pursuant to Article 7 and shall take into account all of the following parameters:
+
+(a) the cost of financial support for meeting the filling target, exclusive of the costs of meeting any strategic storage obligations;
+
+(b) the gas volumes needed to meet the demand of protected customers in accordance with Article 6(1);
+
+(c) any technical limitations, including the available underground storage capacity, technical cross-border transmission capacity and withdrawal rates.
+
+Member States without underground gas storage facilities shall demonstrate that they comply with paragraph 1 and shall notify the Commission accordingly.
+
+3\. As a transitional measure, Member States without underground gas storage facilities, but which have underground gas storage facilities included in the last list of projects of common interest referred to in Regulation (EU) 2022/869 of the European Parliament and of the Council ( 5 ) may partially comply with paragraph 1 by counting LNG stocks in existing floating storage units, until their underground gas storage facilities are in operation.
+
+4\. Member States without underground gas storage facilities may provide incentives or financial compensation to market participants or transmission system operators, as relevant, for the shortfall in revenues, or for costs incurred by them, as a result of their compliance with their storage obligations pursuant to this Article, where such a shortfall or such costs cannot be covered by revenue, in order to ensure compliance with their obligation to store gas in other Member States pursuant to paragraph 1 or the implementation of the burden-sharing mechanism. If the incentive or financial compensation is financed through a levy, that levy shall not be applied to cross-border interconnection points.
+
+5\. Notwithstanding paragraph 1, where a Member State has underground gas storage facilities located on its territory and the aggregated capacity of those facilities is larger than the annual gas consumption of that Member State, the Member States without underground gas storage facilities that have access to those facilities shall either:
+
+(a) ensure that, at any point in time between 1 October and 1 December, storage volumes correspond at least to the average usage of the storage capacity over the preceding five years, determined, inter alia, by taking into account the flows during withdrawal season over the preceding five years from the Member States where the storage facilities are located; or
+
+(b) demonstrate that storage capacity equivalent to the volume covered by the obligation under point (a) has been booked.
+
+If the Member State without underground gas storage facilities can demonstrate that storage capacity equivalent to the volume covered by the obligation under point (a) of the first subparagraph has been booked, paragraph 1 shall apply.
+
+The obligation under this paragraph shall be limited to 15 % of the average annual gas consumption over the preceding five years in the Member State concerned.
+
+## Article 6d — Monitoring and enforcement
+
+1\. Storage system operators shall report the filling level, as set pursuant to Article 6a, to the competent authority in each Member State where the underground gas storage facilities concerned are located and, if applicable, to an entity designated by that Member State (the ‘designated entity’).
+
+2\. The competent authority and, if applicable, the designated entity of each Member State shall monitor the filling levels of the underground gas storage facilities on their territory at the end of each month and report the results to the Commission without undue delay. The competent authority shall include information on the share of gas originating in Russia that is being stored in that Member State as part of the working capacity of storage facilities, where such information is available.
+
+The Commission may, where appropriate, invite the European Union Agency for the Cooperation of Energy Regulators (ACER) to assist with such monitoring.
+
+3\. Based on the information provided by the competent authority and, if applicable, the designated entity of each Member State, the Commission shall report regularly to the GCG.
+
+4\. The GCG shall assist the Commission in the monitoring of the filling trajectories and the filling targets, and shall develop guidance for the Commission on adequate measures to ensure better alignment in the event that Member States deviate from the filling trajectories compromising the meeting of the filling target, or to ensure that the filling target is met. Where appropriate, the Commission may adopt measures to make more effective use of the opportunities offered by the demand aggregation and joint purchasing mechanism set up under Council Regulation (EU) 2022/2576 ( 6 ).
+
+5\. Member States shall take the necessary measures to meet the filling target and to enforce upon market participants the storage obligations which are required to meet the filling target, including by imposing sufficiently deterrent sanctions and fines on those market participants. This is without prejudice to the role of the Commission to monitor and ensure proper application of this Regulation, including in providing assistance or guidance to the Member States in their efforts to implement this paragraph.
+
+6\. Where commercially sensitive information is to be exchanged, the Commission may convene meetings of the GCG that are restricted to itself and Member States.
+
+7\. Any information exchanged shall be limited to that which is necessary for the purpose of monitoring compliance with this Regulation.
+
+The Commission, the national regulatory authorities and the Member States shall preserve the confidentiality of commercially sensitive information received for the purposes of carrying out their obligations.
+
+## Article 7 — Risk assessment
+
+1\. By 1 November 2026, ENTSOG shall carry out a Union-wide simulation of gas supply and infrastructure disruption scenarios, including scenarios of a prolonged disruption of a single supply source. The simulation shall include the identification and assessment of emergency gas supply corridors and shall also identify which Member States can address identified risks, including in relation to gas storage and LNG as well as scenarios examining the impact of a decrease in gas demand through energy savings or energy efficiency measures. The gas supply and infrastructure disruption scenarios and the methodology for the simulation shall be defined by ENTSOG in cooperation with the GCG. ENTSOG shall ensure an appropriate level of transparency and access to the modelling assumptions used in its scenarios. The Union-wide simulation of gas supply and infrastructure disruption scenarios shall be repeated every four years until circumstances warrant more frequent updates.
+
+2\. The competent authorities within each risk group listed in Annex I shall make a common assessment at risk group level (‘common risk assessment’) of all relevant risk factors such as natural disasters, technological, commercial, social, political and other risks, which could lead to the materialisation of the major transnational risk to the security of gas supply for which the risk group was created. The competent authorities shall take into account the results of the simulation referred to in paragraph 1 of this Article for the preparation of the risk assessments, preventive action plans and emergency plans.
+
+The competent authorities within each risk group shall agree on a cooperation mechanism to conduct the common risk assessment and report it to the GCG eleven months before the deadline for the notification of the common risk assessment and its updates. At the request of a competent authority the Commission may have a facilitating role in the preparation of the common risk assessment, in particular for the establishment of the cooperation mechanism. If competent authorities within a risk group do not agree on a cooperation mechanism, the Commission shall propose a cooperation mechanism for that risk group, after consulting the competent authorities concerned. The competent authorities concerned shall agree on a cooperation mechanism for that risk group taking utmost account of the Commission's proposal.
+
+10 months before the deadline for the notification of the common risk assessment or its updates, each competent authority shall share and update, within the agreed cooperation mechanism, all national data necessary for the preparation of the common risk assessment, in particular for running the various scenarios referred to in point (c) of paragraph 4.
+
+3\. The competent authority of each Member State shall make a national risk assessment (‘national risk assessment’) of all relevant risks affecting the security of gas supply. Such assessment shall be fully consistent with the assumptions and results of the common risk assessment(s).
+
+4\. The risk assessments referred to in paragraphs 2 and 3 of this Article shall be carried out, as relevant, by:
+
+(a) using the standards specified in Articles 5 and 6. The risk assessment shall describe the calculation of the N – 1 formula at national level and where appropriate include a calculation of the N – 1 formula at regional level. The risk assessment shall also include the assumptions used, including where applicable those for the calculation of the N – 1 formula at regional level, and the data necessary for such calculation. The calculation of the N – 1 formula at national level shall be accompanied by a simulation of disruption of the single largest gas infrastructure using hydraulic modelling for the national territory as well as by a calculation of the N – 1 formula considering the level of gas in storages at 30 % and 100 % of the maximum working volume;
+
+(b) taking into account all relevant national and transnational circumstances, in particular market size, network configuration, actual flows, including outflows from the Member States concerned, the possibility of physical gas flows in both directions including the potential need for consequent reinforcement of the transmission system, the presence of production and storage and the role of gas in the energy mixes, in particular with respect to district heating and electricity generation and for the operation of industries, and safety and gas quality considerations;
+
+(c) running various scenarios of exceptionally high demand for gas and disruption of gas supply, taking into account the history, probability, season, frequency and duration of their occurrence and assessing their likely consequences, such as:
+
+(i) disruption of the infrastructure relevant to the security of gas supply, in particular transmission infrastructure, storages or LNG terminals, including the largest gas infrastructure identified for the calculation of N – 1 formula; and
+
+(ii) disruption of supplies from third-country suppliers, as well as, where appropriate, geopolitical risks;
+
+(d) identifying the interaction and correlation of risks among the Member States in the risk group and with other Member States or other risk groups, as appropriate, including, as regards interconnections, cross-border supplies, cross-border access to storage facilities and bi-directional capacity;
+
+(e) taking into account risks relating to the control of infrastructure relevant to the security of gas supply to the extent that they may involve, inter alia, risks of underinvestment, undermining diversification, misuse of existing infrastructure, including hoarding of storage capacities, or an infringement of Union law;
+
+(f) taking into account the maximal interconnection capacity of each border entry and exit point and various filling levels for storage;
+
+(g) taking into account scenarios of a prolongeddisruption of a single supply source.
+
+5\. The common and national risk assessments shall be prepared in accordance with the relevant template set out in Annex IV or V. If necessary, Member States may include additional information. The Commission is empowered to adopt delegated acts in accordance with Article 19 in order to amend the templates set out in Annexes IV and V, after consulting the GCG, in order to reflect the experience gained in the application of this Regulation, and to reduce the administrative burden on Member States.
+
+6\. Natural gas undertakings, industrial gas customers, the relevant organisations representing the interests of household and industrial gas customers as well as Member States and, where they are not the competent authorities, the national regulatory authorities, shall cooperate with the competent authorities and provide them upon request with all necessary information for the common and national risk assessments.
+
+7\. By 1 October 2018 Member States shall notify to the Commission the first common risk assessment once agreed by all Member States in the risk group and the national risk assessments. The risk assessments shall be updated every four years thereafter unless circumstances warrant more frequent updates. The risk assessments shall take account of progress made in investments needed to cope with the infrastructure standard defined in Article 5 and of country-specific difficulties encountered in the implementation of new alternative solutions. They shall also build on the experience acquired through the simulation of the emergency plans contained in Article 10(3).
+
+## Article 8 — Establishment of preventive action plans and emergency plans
+
+2\. The competent authority of each Member State shall, after consulting the natural gas undertakings, the relevant organisations representing the interests of household and industrial gas customers, including electricity producers, electricity transmission system operators, and, where it is not the competent authority, the national regulatory authority, establish:
+
+(a) a preventive action plan containing the measures needed to remove or mitigate the risks identified, including the effects of energy efficiency and demand-side measures in the common and nationals risk assessments and in accordance with Article 9;
+
+(b) an emergency plan containing the measures to be taken to remove or mitigate the impact of a disruption of gas supply in accordance with Article 10.
+
+3\. The preventive action plan and the emergency plan shall contain a regional chapter, or several regional chapters, where a Member State is a member of different risk groups as defined in Annex I.
+
+The regional chapters shall be developed jointly by all Member States in the risk group before incorporation in the respective national plans. The Commission shall act as a facilitator so as to enable that the regional chapters collectively enhance the security of gas supply in the Union, and, do not give rise to any contradiction, and to overcome any obstacles to cooperation.
+
+The regional chapters shall contain appropriate and effective cross-border measures, including in relation to gas storage and LNG, subject to agreement between the Member States implementing the measures from the same or different risk groups affected by the measure on the basis of the simulation referred to in Article 7(1) and the common risk assessment.
+
+4\. The competent authorities shall report regularly to the GCG on the progress achieved on the preparation and adoption of the preventive action plans and the emergency plans, in particular the regional chapters. In particular, competent authorities shall agree on a cooperation mechanism for the preparation of the preventive action plan and the emergency plan, including the exchange of draft plans. They shall report to the GCG on such agreed cooperation mechanism 16 months before the deadline for agreement of those plans and the updates of those plans.
+
+The Commission may have a facilitating role in the preparation of the preventive action plan and the emergency plan, in particular for the establishment of the cooperation mechanism. If competent authorities within a risk group do not agree on a cooperation mechanism, the Commission shall propose a cooperation mechanism for that risk group. The competent authorities concerned shall agree on the cooperation mechanism for that risk group taking account of the Commission's proposal. The competent authorities shall ensure the regular monitoring of the implementation of the preventive action plan and the emergency plan.
+
+5\. The preventive action plan and the emergency plan shall be developed in accordance with the templates contained in Annexes VI and VII. The Commission is empowered to adopt delegated acts in accordance with Article 19 in order to amend the templates set out in Annexes VI and VII, after consulting the GCG, in order to reflect the experience gained in the application of this Regulation, and to reduce the administrative burden on Member States.
+
+6\. The competent authorities of neighbouring Member States shall in due time consult each other with a view to ensuring consistency between their preventive action plans and their emergency plans.
+
+The competent authorities shall, within each risk group, exchange draft preventive action plans and emergency plans with proposals for cooperation, at the latest five months before the deadline for submission of the plans.
+
+The final versions of the regional chapters referred to in paragraph 3 shall be agreed by all Member States in the risk group. The preventive action plans and emergency plans shall also contain the national measures necessary to implement and enforce the cross-border measures in the regional chapters.
+
+7\. The preventive action plans and the emergency plans shall be made public and notified to the Commission by 1 March 2019. The Commission shall inform the GCG about the notification of the plans and publish them on the Commission's website.
+
+Within four months of the notification by the competent authorities, the Commission shall assess the plans taking into account the views expressed in the GCG.
+
+8\. The Commission shall issue an opinion to the competent authority with the recommendation to review a preventive action plan or an emergency plan if one or more of the following applies:
+
+(a) it is not effective to mitigate the risks as identified in the risk assessment;
+
+(b) it is inconsistent with the risk scenarios assessed or with the plans of another Member State or a risk group;
+
+(c) it does not comply with the requirement laid down in paragraph 1 not unduly to distort competition or the effective functioning of the internal market;
+
+(d) it does not comply with the provisions of this Regulation or other provisions of Union law.
+
+9\. Within three months of notification of the Commission's opinion referred to in paragraph 8, the competent authority concerned shall notify the amended preventive action plan or the emergency plan to the Commission, or shall inform the Commission of the reasons for which it disagree with the recommendations.
+
+In the event of disagreement related to elements referred to in paragraph 8, the Commission may, within four months of the reply of the competent authority, withdraw its request or convene the competent authority and, where the Commission considers it to be necessary, the GCG, in order to consider the issue. The Commission shall set out its detailed reasons for requesting any amendments to the preventive action plan or the emergency plan. The competent authority concerned shall take full account of the detailed reasons of the Commission.
+
+Where applicable, the competent authority concerned shall without delay amend and make the amended preventive action plan or emergency plan public.
+
+Where the final position of the competent authority concerned diverges from the Commission's detailed reasons, that competent authority shall provide and make public, together with its position and the Commission's detailed reasons, the justification underlying its position within two months of receipt of the detailed reasons of the Commission.
+
+10\. For non-market-based measures adopted on or after 1 November 2017, the procedure set out in Article 9(4), (6), (8) and (9) shall apply.
+
+11\. The confidentiality of commercially sensitive information shall be preserved.
+
+12\. Preventive action plans and emergency plans developed under Regulation (EU) No 994/2010, updated in accordance with that Regulation, shall remain in force until the preventive action plans and the emergency plans referred to in paragraph 1 of this Article are established for the first time.
+
+## Article 8a — Measures on cybersecurity
+
+1\. When establishing the preventive action plans and the emergency plans, the Member States shall consider the appropriate measures related to cybersecurity.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 19 to supplement this Regulation by establishing gas sector-specific rules for the cybersecurity aspects of cross-border gas flows, including rules on common minimum requirements, planning, monitoring, reporting and crisis management.
+
+3\. For the purpose of drafting the delegated acts referred to in paragraph 2 of this Article, the Commission shall work closely with the Agency, the European Union Agency for Cybersecurity (ENISA), ENTSOG and a limited number of main stakeholders concerned, as well as entities with existing competences in cybersecurity, within their own mandate, such as Security Operation Centres (SOCs) relevant for regulated entities, and computer security incident response teams (CSIRTs), as referred to in Article 10 of Directive (EU) 2022/2555 of the European Parliament and of the Council ( 7 ).
+
+## Article 9 — Content of preventive action plans
+
+1\. The preventive action plan shall contain:
+
+(a) the results of the risk assessment and a summary of the scenarios considered, as referred to in point (c) of Article 7(4);
+
+(b) the definition of protected customers and the information described in the second subparagraph of Article 6(1);
+
+(c) the measures, volumes and capacities needed to fulfil the infrastructure and gas supply standards laid down in Articles 5 and 6, including, where applicable, the extent to which demand-side measures can sufficiently compensate, in a timely manner, for a disruption of gas supply as referred to in Article 5(2), the identification of the single largest gas infrastructure of common interest in the case of the application of Article 5(3), the necessary gas volumes per category of protected customers and per scenario as referred to in Article 6(1), and any increased gas supply standard including any justification showing compliance with the conditions laid down in Article 6(2) and a description of a mechanism to reduce temporarily any increased gas supply standard or additional obligation in accordance with Article 11(3);
+
+(d) obligations imposed on natural gas undertakings, electricity undertakings where appropriate, and other relevant bodies likely to have an impact on the security of gas supply, such as obligations for the safe operation of the gas system;
+
+(e) other preventive measures designed to address the risks identified in the risk assessment such as those relating to the need to enhance interconnections between neighbouring Member States, to further improve energy efficiency, to prevent capacity hoarding, to reduce gas demand and the possibility to diversify gas routes and sources of gas supply and the regional utilisation of existing storage and LNG capacities, if appropriate, in order to maintain gas supply to all customers as far as possible;
+
+(f) information on the economic impact, effectiveness and efficiency of the measures contained in the plan, including the obligations referred to in point (k);
+
+(g) a description of the effects of the measures contained in the plan on the functioning of the internal energy market as well as national markets, including the obligations referred to in point (k);
+
+(h) a description of the impact of the measures on the environment and on customers;
+
+(i) the mechanisms to be used for cooperation with other Member States, including the mechanisms for preparing and implementing preventive action plans and emergency plans;
+
+(j) information on existing and future interconnections and infrastructure, including those providing access to the internal market, cross-border flows, cross-border access to storage and LNG facilities and the bi-directional capacity, in particular in the event of an emergency;
+
+(k) information on all public service obligations that relate to the security of gas supply;
+
+(l) information on measures related to cybersecurity, as referred to in Article 8a.
+
+Critical information relating to points (a), (c) and (d) of the first subparagraph which, if revealed, could endanger the security of gas supply, may be excluded.
+
+2\. The preventive action plan, in particular the actions to meet the infrastructure standard as laid down in Article 5, shall take into account the Union-wide TYNDP elaborated by ENTSOG pursuant to Article 8(10) of Regulation (EC) No 715/2009.
+
+3\. The preventive action plan shall be based primarily on market-based measures and shall not put an undue burden on natural gas undertakings, or negatively impact on the functioning of the internal market in gas.
+
+4\. Member States, and in particular their competent authorities, shall ensure that all preventive non-market-based measures, such as those referred to in Annex VIII, adopted on or after 1 November 2017, irrespective of whether they are part of the preventive action plan or adopted subsequently, comply with the criteria laid down in the first subparagraph of Article 6(2).
+
+5\. The competent authority shall make public any measure referred to in paragraph 4 which has not yet been included in the preventive action plan, and shall notify to the Commission the description of any such measure and of its impact on the national gas market and, to the extent possible, on the gas markets of other Member States.
+
+6\. If the Commission doubts whether a measure referred to in paragraph 4 of this Article complies with the criteria laid down in the first subparagraph of Article 6(2) it shall request from the Member State concerned the notification of an impact assessment.
+
+7\. An impact assessment pursuant to paragraph 6 shall cover at least the following:
+
+(a) the potential impact on the development of the national gas market and competition at national level;
+
+(b) the potential impact on the internal gas market;
+
+(c) the potential impact on the security of gas supply of neighbouring Member States, in particular for those measures that could reduce the liquidity in regional markets or restrict flows to neighbouring Member States;
+
+(d) the costs and benefits, assessed against alternative market-based-measures;
+
+(e) an assessment of necessity and proportionality in comparison with possible market-based measures;
+
+(f) an appreciation whether the measure ensures equal possibilities for all market participants;
+
+(g) a phase-out strategy, the expected duration of the envisaged measure and an appropriate review calendar.
+
+The analysis referred to in points (a) and (b) shall be carried out by the national regulatory authority. The impact assessment shall be made public by the competent authority and shall be notified to the Commission.
+
+8\. Where the Commission considers, based on the impact assessment, that the measure is likely to endanger the security of gas supply of other Member States or of the Union it shall take a decision within four months of notification of the impact assessment requiring, to the extent necessary, the amendment or withdrawal of the measure.
+
+The adopted measure shall enter into force only when it is approved by the Commission or has been amended in accordance with the Commission decision.
+
+The four-month period shall begin on the day following receipt of a complete notification. The four-month period may be extended with the consent of both the Commission and the competent authority.
+
+9\. Where the Commission considers, based on the impact assessment, that the measure does not comply with the criteria laid down in the first paragraph of Article 6(2) it may issue an opinion within four months of notification of the impact assessment. The procedure set out in Article 8(8) and (9) shall apply.
+
+The four-month period shall begin on the day following receipt of a complete notification. The four-month period may be extended with the consent of both the Commission and the competent authority.
+
+10\. Article 8(9) shall apply to any measure subject to paragraphs 6 to 9 of this Article.
+
+11\. The preventive action plan shall be updated every four years after 1 March 2019 or more frequently if the circumstances so warrant or at the Commission's request. The updated plan shall reflect the updated risk assessment and the results of the tests carried out in accordance with Article 10(3). Article 8 shall apply to the updated plan.
+
+## Article 10 — Content of emergency plans
+
+1\. The emergency plan shall:
+
+(a) build upon the crisis levels referred to in Article 11(1);
+
+(b) define the role and responsibilities of natural gas undertakings, transmission system operators for electricity if relevant and of industrial gas customers including relevant electricity producers, taking account of the different extent to which they are affected in the event of a disruption of gas supply, and their interaction with the competent authorities and where appropriate with the national regulatory authorities at each of the crisis levels referred to in Article 11(1);
+
+(c) define the role and responsibilities of the competent authorities and of the other bodies to which tasks have been delegated as referred to in Article 3(2) at each of the crisis levels referred to in Article 11(1);
+
+(d) ensure that natural gas undertakings and industrial gas customers including relevant electricity producers are given sufficient opportunity to respond to the crisis levels referred to in Article 11(1);
+
+(e) identify, if appropriate, the measures and actions to be taken to mitigate the potential impact of a disruption of gas supply on district heating and the supply of electricity generated from gas, including through an integrated view of energy systems operations across electricity and gas if relevant;
+
+(f) establish detailed procedures and measures to be followed for the crisis levels referred to in Article 11(1), including the corresponding schemes on information flows;
+
+(g) designate a crisis manager and define its role;
+
+(h) identify the contribution of market-based measures for coping with the situation at alert level and mitigating the situation at emergency level;
+
+(i) identify the contribution of non-market-based measures planned or to be implemented for the emergency level, and assess the degree to which the use of such non-market-based measures is necessary to cope with a crisis. The effects of the non-market-based measures shall be assessed and procedures for their implementation defined. Non-market-based measures are to be used only when market-based mechanisms alone can no longer ensure supplies, in particular to protected customers, or for the application of Article 13;
+
+(j) describe the mechanisms used to cooperate with other Member States for the crisis levels referred to in Article 11(1) and information exchange arrangements between the competent authorities;
+
+(k) detail the reporting obligations imposed on natural gas undertakings and, where appropriate, electricity undertakings at alert and emergency levels;
+
+(l) describe the technical or legal arrangements in place to prevent undue gas consumption of customers who are connected to a gas distribution or transmission network but not protected customers;
+
+(m) describe the technical, legal and financial arrangements in place to apply the solidarity obligations laid down in Article 13;
+
+(n) estimate the gas volumes that could be consumed by solidarity protected customers covering at least the cases described in Article 6(1);
+
+(o) establish a list of predefined actions to make gas available in the event of an emergency, including commercial agreements between the parties involved in such actions and the compensation mechanisms for natural gas undertakings where appropriate, taking due account of the confidentiality of sensitive data. Such actions may involve cross-border agreements between Member States and/or natural gas undertakings.
+
+In order to prevent undue gas consumption during an emergency, as referred to in point (l) of the first subparagraph, or during the application of the measures referred to in Article 11(3) and Article 13, the competent authority of the Member State concerned shall inform customers who are not protected customers that they are required to cease or reduce their gas consumption without creating technically unsafe situations.
+
+2\. The emergency plan shall be updated every four years after 1 March 2019 or more frequently if circumstances so warrant or at the Commission's request. The updated plan shall reflect the updated risk assessment and the results of the tests carried out in accordance with paragraph 3 of this Article. Article 8(4) to (11) shall apply to the updated plan.
+
+3\. The measures, actions and procedures contained in the emergency plan shall be tested at least once between its four-year updates referred to in paragraph 2. In order to test the emergency plan, the competent authority shall simulate high and medium impact scenarios and responses in real time in accordance with that emergency plan. The results of the tests shall be presented at the GCG by the competent authority.
+
+4\. The emergency plan shall ensure that cross-border access to infrastructure in accordance with Regulation (EC) No 715/2009 is maintained as far as technically and safely possible in the event of an emergency and shall not introduce any measure unduly restricting the flow of gas across borders.
+
+## Article 11 — Declaration of a crisis
+
+1\. There shall be the following three crisis levels:
+
+(a) early warning level (‘early warning’): where there is concrete, serious and reliable information that an event which is likely to result in significant deterioration of the gas supply situation may occur and is likely to lead to the alert or the emergency level being triggered; the early warning level may be activated by an early warning mechanism;
+
+(b) alert level (‘alert’): where a disruption of gas supply or exceptionally high gas demand which results in significant deterioration of the gas supply situation occurs but the market is still able to manage that disruption or demand without the need to resort to non-market-based measures;
+
+(c) emergency level (‘emergency’): where there is exceptionally high gas demand, significant disruption of gas supply or other significant deterioration of the gas supply situation and all relevant market-based measures have been implemented but the gas supply is insufficient to meet the remaining gas demand so that non-market-based measures have to be additionally introduced with a view, in particular, to safeguarding gas supplies to protected customers in accordance with Article 6.
+
+2\. When the competent authority declares one of the crisis levels referred to in paragraph 1, it shall immediately inform the Commission as well as the competent authorities of the Member States with which the Member State of that competent authority is directly connected and provide them with all the necessary information, in particular with information on the action it intends to take. In the event of an emergency which may result in a call for assistance from the Union and its Member States, the competent authority of the Member State concerned shall without delay notify the Commission's Emergency Response Coordination Centre (ERCC).
+
+3\. Where a Member State has declared an emergency and has indicated that cross-border action is required, any increased gas supply standard or additional obligation under Article 6(2) imposed on natural gas undertakings in other Member States in the same risk group shall be temporarily reduced to the level established in Article 6(1).
+
+The obligations laid down in the first subparagraph of this paragraph shall cease to apply immediately after the competent authority declares an end to an emergency, or the Commission concludes, in accordance with the first subparagraph of paragraph 8, that the declaration of an emergency is not or is no longer justified.
+
+4\. When the competent authority declares an emergency it shall follow the pre-defined action as set out in its emergency plan and shall immediately inform the Commission and the competent authorities in the risk group as well as the competent authorities of the Member States with which the Member State of that competent authority is directly connected in particular of the action it intends to take. In duly justified exceptional circumstances, the competent authority may take action deviating from the emergency plan. The competent authority shall immediately inform the Commission and the competent authorities in its risk group as set out in Annex I, as well as the competent authorities of the Member States with which the Member State of that competent authority is directly connected, of any such action and shall provide a justification for the deviation.
+
+5\. The transmission system operator shall ensure that when an emergency is declared in a neighbouring Member State, capacity at interconnection points to that Member State, irrespective of whether firm or interruptible, and whether it has been booked before or during the emergency, has priority over competing capacity at exit points into storage facilities. The system user of the prioritised capacity shall promptly pay fair compensation to the system user of the firm capacity for the financial loss incurred as a result of prioritisation including a proportionate reimbursement for the cost of the firm capacity being interrupted. The process of determining and paying the compensation shall not affect the implementation of the priority rule.
+
+6\. The Member States and, in particular, the competent authorities shall ensure that:
+
+(a) no measures are introduced which unduly restrict the flow of gas within the internal market at any time;
+
+(b) no measures are introduced that are likely seriously to endanger the gas supply situation in another Member State; and
+
+(c) cross-border access to infrastructure in accordance with Regulation (EC) No 715/2009 is maintained as far as technically and safely possible, in accordance with the emergency plan.
+
+7\. During an emergency and on reasonable grounds, upon a request of the relevant electricity or gas transmission system operator a Member State may decide to prioritise the gas supply to certain critical gas-fired power plants over the gas supply to certain categories of protected customers, if the lack of gas supply to such critical gas-fired power plants either:
+
+(a) could result in severe damage in the functioning of the electricity system; or
+
+(b) would hamper the production and/or transportation of gas.
+
+Member States shall base any such measure on the risk assessment.
+
+Critical gas-fired power plants as referred to in the first subparagraph shall be clearly identified together with the possible gas volumes that would be subject to such a measure and included in the regional chapters of the preventive action plans and emergency plans. Their identification shall be carried out in close cooperation with transmission system operators of the electricity system and the gas system of the Member State concerned.
+
+7a. By way of derogation from Article 6(1), (2) and (3), Article 6b(1), third subparagraph, point (a), Article 6c(2), second subparagraph, point (b), and Article 10(1), point (l), Member States may, exceptionally, decide to take temporary measures to reduce the non-essential gas consumption of protected customers, in particular when one of the crisis levels pursuant to paragraph 1 of this Article or a regional or Union emergency pursuant to Article 12 is declared. Such temporary measures shall be limited to non-essential gas consumption and shall take into account the following elements:
+
+(a) the impact of a disruption on supply chains that are critical for society;
+
+(b) the possible negative impacts in other Member States, in particular on supply chains of downstream sectors that are critical for society;
+
+(c) the potential long-lasting damage to industrial installations;
+
+(d) the possibilities for reducing consumption and substituting products in the Union.
+
+Such exceptional measures may be taken only after an assessment is carried out by the competent authorities with regard to the conditions to determine such non-essential volumes of gas.
+
+As a result of measures referred to in the first subparagraph of this paragraph, the reduction of non-essential gas consumption of vulnerable customers, as defined by Member States in accordance with Article 26 of Directive (EU) 2024/1788, shall be avoided.
+
+8\. The Commission shall verify, as soon as possible, but in any case within five days of receiving the information referred to in paragraph 2 from the competent authority, whether the declaration of an emergency is justified in accordance with point (c) of paragraph 1 and whether the measures taken follow as closely as possible the actions listed in the emergency plan and are not imposing an undue burden on natural gas undertakings and are in accordance with paragraph 6. The Commission may, at the request of another competent authority, natural gas undertakings or on its own initiative, request the competent authority to modify the measures where they are contrary to the conditions referred to in the first sentence of this paragraph. The Commission may also request the competent authority to declare an end to the emergency where it concludes that the declaration of an emergency is not or is no longer justified in accordance with point (c) of paragraph 1.
+
+Within three days of notification of the Commission request, the competent authority shall modify the measures and shall notify the Commission thereof, or shall inform the Commission of the reasons for which it disagrees with the request. In the latter case, the Commission may, within three days of being informed, amend or withdraw its request or, in order to consider the issue, convene the competent authority or, where appropriate, the competent authorities concerned, and, where the Commission considers it to be necessary, the GCG. The Commission shall set out its detailed reasons for requesting any modification to the action. The competent authority shall take full account of the position of the Commission. Where the final decision of the competent authority diverges from the Commission position, the competent authority shall provide the reasons underlying such decision.
+
+9\. When the competent authority declares an end to one of the crisis levels referred to in paragraph 1, it shall inform the Commission as well as the competent authorities of the Member States with which the Member State of that competent authority is directly connected.
+
+## Article 12 — Regional and Union emergency responses
+
+1\. The Commission may declare a regional or Union emergency at the request of a competent authority that has declared an emergency and following the verification in accordance with Article 11(8).
+
+The Commission shall declare, as appropriate, a regional or Union emergency at the request of at least two competent authorities that have declared an emergency and following the verification in accordance with Article 11(8), and where the reasons for such emergencies are linked.
+
+In all cases, when it declares a regional or Union emergency, the Commission, using the means of communication most appropriate to the situation, shall gather the views of, and take due account of all the relevant information provided by other competent authorities. When the Commission decides, following an assessment, that the underlying basis for the regional or Union emergency no longer justifies the declaration of an emergency, it shall declare an end to the regional or Union emergency and shall give its reasons and inform the Council of its decision.
+
+2\. The Commission shall convene the GCG as soon as it declares a regional or Union emergency.
+
+3\. In a regional or Union emergency, the Commission shall coordinate the action of the competent authorities, taking full account of relevant information from, and the results of, the consultation of the GCG. In particular, the Commission shall:
+
+(a) ensure the exchange of information;
+
+(b) ensure the consistency and effectiveness of action at Member State and regional levels in relation to the Union level;
+
+(c) coordinate the actions with regard to third countries.
+
+4\. The Commission may convene a crisis management group composed of the crisis managers referred to in point (g) of Article 10(1), of the Member States concerned by the emergency. The Commission, in agreement with the crisis managers, may invite other relevant stakeholders to participate. The Commission shall ensure that the GCG is informed regularly about the work undertaken by the crisis management group.
+
+5\. The Member States and in particular the competent authorities shall ensure that:
+
+(a) no measures are introduced which unduly restrict the flow of gas within the internal market at any time, in particular the flow of gas to the affected markets;
+
+(b) no measures are introduced that are likely seriously to endanger the gas supply situation in another Member State; and
+
+(c) cross-border access to infrastructure in accordance with Regulation (EC) No 715/2009 is maintained as far as technically and safely possible, in accordance with the emergency plan.
+
+6\. Where, at the request of a competent authority or a natural gas undertaking or on its own initiative, the Commission considers that, in a regional or Union emergency, action taken by a Member State or a competent authority or the behaviour of a natural gas undertaking is contrary to paragraph 5, the Commission shall request that Member State or competent authority to modify its action or to take action in order to ensure compliance with paragraph 5, informing it of the reasons therefor. Due account shall be taken of the need to operate the gas system safely at all times.
+
+Within three days of notification of the Commission request, the Member State or the competent authority shall modify its action and notify the Commission thereof, or shall inform the Commission of the reasons for which it disagrees with the request. In the latter case, the Commission may, within three days of being informed, amend or withdraw its request or convene the Member State or the competent authority and, where the Commission considers it to be necessary, the GCG in order to consider the issue. The Commission shall set out its detailed reasons for requesting any modification to the action. The Member State or the competent authority shall modify its action or take action in order to ensure compliance with paragraph 5 as far as technically and safely possible for the integrity of the gas system. The Member State or the competent authority shall inform the Commission of the measures adopted.
+
+7\. The Commission, after consulting the GCG, shall establish a permanent reserve list for a monitoring task force consisting of industry experts and representatives of the Commission. The monitoring task force may be deployed outside the Union when necessary and shall monitor and report on the gas flows into the Union, in cooperation with the supplying and transiting third countries.
+
+8\. The competent authority shall provide to the Commission's ERCC the information on any need for assistance. ERCC shall assess the overall situation and advise on the assistance that should be provided to the most affected Member States, and where appropriate to third countries.
+
+## Article 13 — Solidarity
+
+1\. If a Member State has requested the application of the solidarity measure pursuant to this Article, a Member State which is directly connected to the requesting Member State or, where the Member State so provides, its competent authority or transmission system operator or distribution system operator shall as far as possible without creating unsafe situations, take the necessary measures to ensure that the gas supply to customers other than solidarity protected customers in its territory is reduced or does not continue to the extent necessary and for as long as the gas supply to solidarity protected customers in the requesting Member State is not satisfied. The requesting Member State shall ensure that the relevant volume of gas is effectively delivered to solidarity protected customers in its territory.
+
+In exceptional circumstances and upon a duly reasoned request by the relevant electricity or gas transmission system operator to its competent authority, the gas supply may also continue to certain critical gas-fired power plants as defined pursuant to Article 11(7) in the Member State providing solidarity if the lack of gas supply to such plants would result in severe damage in the functioning of the electricity system or would hamper the production and/or transportation of gas.
+
+2\. A Member State shall also provide the solidarity measure to another Member State to which it is connected via a third country unless flows are restricted through the third country. Such an extension of the measure shall be subject to the agreement of the relevant Member States, who shall involve, as appropriate, the third country through which they are connected.
+
+3\. A solidarity measure shall be taken as a last resort and shall apply provided that the requesting Member State has:
+
+(a) declared an emergency under Article 11;
+
+(b) not been able to cover the deficit in gas supply to its solidarity protected customers despite the application of the measure referred to in Article 11(3) or, where a Member State has taken temporary measures to reduce the non-essential gas consumption of protected customers in accordance with Article 11(7a), the essential volumes of gas consumption to its solidarity protected customers;
+
+(c) exhausted all market-based measures (voluntary measures), all non-market-based measures (mandatory measures) and other measures contained in its emergency plan;
+
+(d) notified an explicit request to the Commission and to the competent authorities of all Member States with which it is connected either directly or pursuant to paragraph 2 via a third country, accompanied by a description of the implemented measures referred to in point (c) of this paragraph.
+
+3a. The Member States which are obliged to provide solidarity pursuant to paragraph 1 shall be entitled to deduct from the solidarity offer the supplies to its solidarity protected customers or, where a Member State has taken temporary measures to reduce the non-essential gas consumption of protected customers in accordance with Article 11(7a), the supplies of the essential volumes of consumption of gas to its solidarity protected customers.
+
+4\. The Member States that receive a request for a solidarity measure shall make offers on the basis of voluntary demand-side measures as much as and for as long as possible, before resorting to non-market-based measures.
+
+Where market-based measures prove to be insufficient for the Member State providing solidarity to cover the deficit in gas supply to solidarity protected customers in the requesting Member State, the Member State providing solidarity may introduce non-market-based measures in order to comply with the obligations laid down in paragraphs 1 and 2.
+
+5\. If there is more than one Member State that could provide solidarity to a requesting Member State, the requesting Member State shall, after consulting all Member States required to provide solidarity, seek the most advantageous offer on the basis of costs, speed of delivery, reliability and diversification of gas supplies. Where the available market-based offers prove not to be sufficient to cover the deficit in gas supply to the solidarity protected customers in the requesting Member State or, where the requesting Member State has taken temporary measures to reduce the non-essential gas consumption of protected customers in accordance with Article 11(7a), the deficit in gas supply of the essential volumes of gas consumption to its solidarity protected customers, the Member States required to provide solidarity shall be obliged to activate non-market-based measures.
+
+6\. The competent authority of the requesting Member State shall immediately inform the Commission and the competent authorities of the Member States providing solidarity when gas supply to solidarity protected customers in its territory is satisfied or where the obligations under paragraphs 1 and 2 are, based on its needs, reduced, or where they are suspended at the request of the Member State receiving solidarity.
+
+7\. The obligations laid down in paragraphs 1 and 2 shall apply subject to the technically safe and reliable operation of the gas system of a Member State providing solidarity and the limit of the maximum interconnection export capability of the relevant Member State infrastructure towards the requesting Member State. Technical, legal and financial arrangements may reflect such circumstances in particular those under which the market will deliver up to maximum interconnection capacity.
+
+8\. Solidarity under this Regulation shall be provided on the basis of compensation. The Member State requesting solidarity shall promptly pay, or ensure prompt payment of, fair compensation to the Member State providing solidarity.
+
+Where two Member States have agreed on the necessary technical and legal arrangements pursuant to paragraph 10 (solidarity agreement), such fair compensation shall cover at least:
+
+(a) the gas delivered into the territory of the requesting Member State;
+
+(b) all other relevant and reasonable costs incurred when providing solidarity, including, where appropriate, costs of such measures that may have been established in advance;
+
+(c) reimbursement for any compensation resulting from judicial proceedings, arbitration proceedings or similar proceedings and settlements and related costs of such proceedings involving the Member State providing solidarity vis-a-vis entities involved in the provision of such solidarity.
+
+Fair compensation pursuant to the first and second subparagraphs shall include, inter alia, all reasonable costs that the Member State providing solidarity incurs from an obligation to pay compensation by virtue of fundamental rights guaranteed by Union law and by virtue of the applicable international obligations when implementing this Article and further reasonable costs incurred from payment of compensation pursuant to national compensation rules.
+
+Member States shall adopt the necessary measures, in particular the technical, legal and financial arrangements pursuant to paragraph 10, to implement the first, second and third subparagraphs of this paragraph. Such measures may provide for the practical arrangements of prompt payment.
+
+8a. Where two Member States have not agreed on the necessary technical, legal and financial arrangements pursuant to paragraph 10 by means of a solidarity agreement, the delivery of gas pursuant to the obligation laid down in paragraph 1 in the event of an emergency shall be subject to the conditions set out in this paragraph.
+
+The compensation for the solidarity measure shall not exceed reasonable costs. Unless both the Member State requesting solidarity and the Member State providing solidarity agree otherwise, the compensation shall include:
+
+(a) the price for gas in the Member State providing solidarity;
+
+(b) the storage and transport costs;
+
+(c) litigation costs for related judicial or arbitration proceedings involving the Member State providing solidarity;
+
+(d) other indirect costs that are not covered by the price for gas, such as the reimbursement of financial or other damages resulting from enforced firm load shedding of customers related to the provision of solidarity.
+
+Unless the Member State requesting solidarity and the Member State providing solidarity agree on another price, the price for the gas supplied to the Member State requesting solidarity shall correspond to the day-ahead market price in the Member State providing solidarity the day preceding the request for solidarity or the corresponding day-ahead market price at the closest accessible exchange, at the closest accessible virtual trading point, or at an agreed hub over the day preceding the request for solidarity. Compensation for the gas volumes delivered in the context of a solidarity request shall be paid directly by the Member State requesting solidarity to the Member State providing solidarity or the entity both Member States indicate in their response to the solidarity request and the confirmation of receipt and of the volume to be taken.
+
+The Member State to which the request for a solidarity measure is addressed shall provide the solidarity measure as soon as possible and no later than the indicated delivery time for the request. A Member State may refuse to provide solidarity to a Member State requesting solidarity provided that the requested Member State demonstrates that:
+
+(a) it does not have enough gas for the volumes to be supplied to the solidarity protected customers; or
+
+(b) it does not have sufficient interconnection capacity available, as set out in Article 13(7), or gas flows are restricted through a third country.
+
+Such refusal shall be strictly limited to the volumes of gas affected by one or both of the limitations referred to in the fourth subparagraph.
+
+In addition to the default rules provided for in this paragraph, Member States may agree on technical arrangements and on the coordination of the provision of solidarity. This paragraph shall be without prejudice to existing arrangements for the safe and reliable operation of the gas system.
+
+8b. Where two Member States have not agreed on the necessary technical, legal and financial arrangements pursuant to paragraph 10 by means of a solidarity agreement, the Member State requesting the application of the solidarity measures shall issue a solidarity request to another Member State, indicating at least the following information:
+
+(a) the contact details of the competent authority of the Member State;
+
+(b) where relevant, the contact details of the relevant transmission system operators of the Member State;
+
+(c) where relevant, the contact details of the third party acting on behalf of the Member State;
+
+(d) the delivery period including timing of the first possible delivery and the anticipated duration of deliveries;
+
+(e) the delivery and interconnection points;
+
+(f) the gas volume in kWh for each interconnection point;
+
+(g) the gas quality.
+
+The solidarity request shall be sent simultaneously to Member States potentially being able to provide solidarity measures, to the Commission and to the crisis managers designated pursuant to Article 10(1), point (g).
+
+The Member States receiving a solidarity request shall send a response that indicates the contact details referred to in the first subparagraph, points (a), (b) and (c), and the volume and quality that can be supplied to the interconnection points at the time requested as referred to in the first subparagraph, points (d) to (g). If the volume that can be supplied by voluntary measures is insufficient, the response shall indicate the volume resulting from possible curtailment, from the release of strategic stocks or from the application of other measures.
+
+Solidarity requests shall be submitted at least 48 hours before the indicated delivery time for gas.
+
+The response to solidarity requests shall be effective within 18 hours. The confirmation of the volume to be taken by the Member State requesting solidarity shall be effective within six hours of receipt of the solidarity offer and at least 24 hours before the indicated delivery time for gas. The request may be submitted for a period of one day or several days, and the response shall match the requested duration. Where there are several Member States providing solidarity and bilateral solidarity arrangements are in place with one or several of them, those arrangements shall prevail between the Member States having agreed bilaterally. The default rules provided for in this paragraph shall only be applicable in relation to the other Member States providing solidarity.
+
+The Commission may facilitate the implementation of solidarity, in particular by means of a template accessible on a secured online platform to enable real-time transmission of requests and offers.
+
+8c. Where a solidarity measure has been provided in accordance with paragraphs 1 and 2, the final amount of the fair compensation that has been paid by the requesting Member State shall be subject to ex post control by the national regulatory authorities of the providing Member State and the requesting Member State, within three months of the end of the emergency.
+
+Where the national regulatory authorities have not reached an agreement on the calculation of the final amount of the fair compensation, they shall inform the relevant competent authorities, the Commission and the Agency without delay. In that case, or upon a joint request from the national regulatory authorities, the Agency shall calculate the appropriate level of the fair compensation for the indirect costs occurred as a result of the provision of solidarity and provide a factual opinion within three months of the date of referral to the Agency. Before providing such factual opinion, the Agency shall consult the national regulatory authorities and the relevant competent authorities.
+
+The three-month period referred to in the second subparagraph may be extended by an additional period of two months where further information is requested by the Agency. That additional period shall begin on the day following receipt of the complete information. The requesting Member State shall be consulted and give its opinion on the conclusion of the ex post control. Following the consultation with the requesting Member State, the authority which exercises that ex post control is entitled to require a rectification of the amount of the compensation, taking into account the opinion of the requesting Member State. The conclusions of that ex post control shall be transmitted to the Commission, which shall take them into consideration in its report on the emergency pursuant to Article 14(3).
+
+9\. Member States shall ensure that the provisions of this Article are implemented in conformity with the Treaties, the Charter of Fundamental Rights of the European Union, as well as the applicable international obligations. They shall take the necessary measures to that effect.
+
+10\. The Member States shall adopt the necessary measures to ensure that gas is supplied to solidarity protected customers in the requesting Member State in accordance with paragraphs 1 and 2 and shall make their best endeavours to agree on technical, legal and financial arrangements. Such technical, legal and financial arrangements shall be agreed among the Member States which are directly connected or, in accordance with paragraph 2, connected via a third country, and shall be described in their respective emergency plans. Such arrangements may cover, among others, the following elements:
+
+(a) the operational safety of networks;
+
+(b) gas prices to be applied and the methodology for their setting, taking into account the impact on the functioning of the market;
+
+(c) the use of interconnections, including bi-directional capacity and underground gas storage;
+
+(d) gas volumes or the methodology for their setting;
+
+(e) categories of costs that will have to be covered by a fair and prompt compensation, that may include damages for curtailed industry;
+
+(f) an indication of the method how the fair compensation could be calculated.
+
+The financial arrangement agreed between Member States before solidarity is requested shall contain provisions that allow for the calculation of the fair compensation of at least all relevant and reasonable costs incurred when providing solidarity and an undertaking that such compensation will be paid.
+
+Any compensation mechanism shall provide incentives to participate in market-based solutions such as auctions and demand response mechanisms. It shall not create perverse incentives, including in financial terms, for market participants to postpone their action until non-market-based measures are applied. All compensation mechanisms or at least their summary shall be included in the emergency plans.
+
+Where new and significant reasonable costs to be included in the fair compensation arise, as a result of judicial proceedings pursuant to paragraph 8, second subparagraph, point (c), after concluding the ex post control, the providing Member State shall inform immediately the requesting Member State. The national regulatory authorities and, where relevant, the Agency shall carry out a new ex post control pursuant to paragraph 8c. The outcome of that new ex post control is without prejudice to the obligation for a providing Member State to compensate damages to customers under national law and their right to receive a fair compensation.
+
+11\. For as long as a Member State can cover the gas consumption for its solidarity protected customers from its own production, it shall not be considered to be necessary to conclude technical, legal and financial arrangements with Member States with which it is directly connected or, in accordance with paragraph 2, via a third country, for the purpose of receiving solidarity. This shall not affect the obligation of the relevant Member State to provide solidarity to other Member States pursuant to this Article.
+
+15\. The obligations laid down in paragraphs 1 and 2 of this Article shall cease to apply immediately after the declaration of the end of an emergency or when the Commission concludes, in accordance with Article 11(8), first subparagraph, that the declaration of an emergency is not or is no longer justified.
+
+16\. Where the Union incurs costs by virtue of any liability, other than for unlawful acts or conduct pursuant to the second paragraph of Article 340 TFEU, in respect of measures that Member States are required to take pursuant to this Article, those costs shall be reimbursed to it by the Member State receiving solidarity.
+
+## Article 13a — Cooperation between indirectly connected Member States using market-based measures (voluntary measures)
+
+1\. Without prejudice to the principle of energy solidarity, this Article shall apply when Member States which are indirectly connected via another Member State and have received a request for voluntary contribution pursuant to paragraph 2 of this Article contribute to provide the requested gas volumes pursuant to Article 13(1) or (2), using voluntary measures as referred to in Article 13(3), point (c).
+
+2\. The Member State requesting solidarity under Article 13 may send a request for a voluntary contribution on the basis of market-based measures simultaneously to one or more other, indirectly connected Member States to seek the most advantageous offer or combination of offers, on the basis of the cost, speed of delivery, reliability and diversification of gas supplies pursuant to Article 13(4).
+
+Requests pursuant to the first subparagraph of this Article shall be submitted to the indirectly connected Member States potentially being able to provide gas volumes on the basis of voluntary measures, to the Commission and to the crisis managers designated pursuant to Article 10(1), point (g), at least 48 hours before the indicated delivery time for gas. Those requests shall include at least the information referred to in Article 13(8b), first subparagraph.
+
+Member States that receive the request pursuant to the first subparagraph of this Article shall respond to the requesting Member State, and inform the Commission and the crisis managers designated pursuant to Article 10(1), point (g), within 18 hours, indicating whether they can make an offer for gas volumes on the basis of voluntary measures. The response shall include at least the information referred to in Article 13(8a). Member States may respond by indicating their inability to contribute using market-based measures.
+
+3\. When the sum of the gas volumes resulting from the offers pursuant to Article 13(1) and (2) and offers pursuant to this Article do not reach the required volumes, offers pursuant to this Article shall be automatically selected.
+
+When the sum of the gas volumes resulting from the offers pursuant to Article 13(1) and (2) and offers pursuant to this Article exceed the required volumes, offers pursuant to this Article shall be taken into account in the process of selecting offers pursuant to Article 13(4), and the requesting Member State shall, after consulting all involved Member States, seek the most advantageous offer, or a combination of offers amongst offers pursuant to Article 13 or this Article, on the basis of cost, speed of delivery, reliability and diversification. Where contributions under this Article are selected by the requesting Member States, the request pursuant to Article 13(1) and (2) shall be reduced accordingly.
+
+The requesting Member State shall inform the Member States concerned which volumes it has selected within six hours of receipt of the offer and at least 24 hours before the indicated delivery time of gas.
+
+4\. Where an indirectly connected Member State provides a voluntary contribution on the basis of market-based measures to the requesting Member State pursuant to paragraphs 1 and 2 of this Article, fair compensation shall not exceed reasonable costs and may include the costs referred to in Article 13(8a), second subparagraph. The final amount of fair compensation shall be subject to the ex post control mechanism described in Article 13(8c).
+
+5\. The transmission system operators of the Member States concerned shall cooperate and exchange information using the ReCo System for Gas established by ENTSOG pursuant to Article 3(6), in order to identify the available interconnection capacities within six hours of a request of a Member State or the Commission. ENTSOG shall inform the Commission and the competent authorities of the Member States concerned accordingly.
+
+## Article 14 — Information exchange
+
+1\. Where a Member State has declared one of the crisis levels referred to in Article 11(1), the natural gas undertakings concerned shall make available, on a daily basis, in particular the following information to the competent authority of the Member State concerned:
+
+(a) the daily gas demand and gas supply forecasts for the following three days, in million cubic metres per day (mcm/d);
+
+(b) the daily flow of gas at all cross-border entry and exit points as well as at all points connecting a production facility, a storage facility or an LNG terminal to the network, in million cubic metres per day (mcm/d);
+
+(c) the period, expressed in days, for which it is expected that supply of gas to protected customers can be ensured.
+
+2\. In the event of a regional or Union emergency, the Commission may request that the competent authority referred to in paragraph 1 provide it without delay with at least:
+
+(a) the information set out in paragraph 1;
+
+(b) information on the measures planned to be undertaken and those already implemented by the competent authority to mitigate the emergency, and information on their effectiveness;
+
+(c) the requests made for additional measures to be taken by other competent authorities;
+
+(d) the measures implemented at the request of other competent authorities.
+
+3\. After an emergency, the competent authority referred to in paragraph 1 shall, as soon as possible and at the latest six weeks after the end of the emergency, provide the Commission with a detailed assessment of the emergency and the effectiveness of the measures implemented, including an assessment of the economic impact of the emergency, the impact on the electricity sector and the assistance provided to or received from, the Union and its Member States. Where relevant, that assessment shall include a detailed description of the circumstances that led to activating the mechanism referred to in Article 13 and the conditions under which the missing gas supplies were received, including the price and financial compensation paid, and, where relevant, the reasons why the solidarity offers were not accepted or gas was not supplied. Such assessment shall be made available to the GCG and shall be reflected in the updates of the preventive action plans and the emergency plans.
+
+The Commission shall analyse the assessments of the competent authorities and shall inform the Member States, the European Parliament and the GCG of the results of its analysis in an aggregated form.
+
+4\. In duly justified circumstances irrespective of a declaration of an emergency, the competent authority of the most affected Member State may require natural gas undertakings to provide the information referred to in paragraph 1 or additional information necessary to assess the overall situation of the gas supply in the Member State or other Member States, including contractual information, other than price information. The Commission may request from the competent authorities the information provided by natural gas undertakings under this paragraph, provided that the same information has not been transmitted already to the Commission.
+
+5\. Where the Commission considers the gas supply in the Union or part of the Union to be at risk or is likely to be at risk that may lead to the declaration of one of the crisis levels referred to in Article 11(1), it may require the competent authorities concerned to collect and submit to the Commission information necessary to assess of the gas supply situation. The Commission shall share its assessment with the GCG.
+
+6\. In order for the competent authorities and the Commission to assess the security of gas supply situation at national, regional and Union level, each natural gas undertaking shall notify:
+
+(a) to the competent authority concerned the following details of gas supply contracts with a cross-border dimension and a duration of more than one year which it has concluded to procure gas:
+
+(i) contract duration;
+
+(ii) yearly contracted volumes;
+
+(iii) contracted maximum daily volumes in the event of an alert or emergency;
+
+(iv) contracted delivery points;
+
+(v) minimum daily and monthly gas volumes;
+
+(vi) conditions for the suspension of gas deliveries.
+
+(vii) an indication whether the contract individually or cumulatively with its contracts with the same supplier or its affiliates is equivalent to or exceeds the threshold of 28 % as referred to in point (b) of paragraph 6 in the most affected Member State.
+
+(b) to the competent authority of the most affected Member State immediately after their conclusion or modification its gas supply contracts with a duration of more than one year, concluded or modified on or after 1 November 2017 that individually or cumulatively with its contracts with the same supplier or its affiliates is equivalent to 28 % or more of yearly gas consumption in that Member State to be calculated on the basis of the most recent available data. In addition, by 2 November 2018 natural gas undertakings shall notify the competent authority of all existing contracts fulfilling the same conditions. The notification obligation shall not cover price information and shall not apply to the modifications related only to the gas price. The notification obligation shall also apply to all commercial agreements that are relevant for the execution of the gas supply contract excluding price information.
+
+(c) to the Commission and to the competent authorities concerned the following information relating to gas supply contracts for gas that originates in or is exported, directly or indirectly, from the Russian Federation:
+
+(i) the information referred to in Article 5(1) of Regulation (EU) 2026/261 of the European Parliament and of the Council ( 8 );
+
+(ii) information on the quantities to be supplied and taken, including possible flexibilities under take-or-pay provisions or deliver-or-pay provisions;
+
+(iii) delivery schedules (LNG) or nominations (pipeline gas);
+
+(iv) possible contractual flexibilities concerning the annual contracted quantities, including make-up quantities;
+
+(v) conditions for the suspension or termination of gas deliveries, including force majeure provisions;
+
+(vi) information on which law governs the contract and which arbitration mechanism is chosen;
+
+(vii) key elements of other commercial agreements that are relevant for the execution of the gas supply contract, excluding price information.
+
+The competent authority shall notify the data listed in point (a) of the first subparagraph to the Commission in an anonymised form. In the event of new contracts being concluded or changes being made to existing contracts, the whole set of data shall be notified by the end of September of the relevant year. Where the competent authority has doubts whether a given contract obtained under point (b) of the first subparagraph puts the security of gas supply of a Member State or a region at risk, it shall notify the contract to the Commission.
+
+The information referred to in point (c) of the first subparagraph shall be provided no later than 4 March 2026 and for each contract in a disaggregated format, including the relevant text parts in full, excluding price information, in particular where the full knowledge of the formulation of the contractual provisions is crucial for the assessment of the security of gas supply or where certain contractual provisions are interrelated.
+
+Providers of LNG terminal services shall provide the Commission with information concerning services booked by customers from the Russian Federation or by customers controlled by undertakings from the Russian Federation, including contracted services, affected quantities and contract duration.
+
+7\. In circumstances duly justified by the need to guarantee transparency of key gas supply contracts relevant to the security of gas supply, and where the competent authority of the most affected Member State or the Commission considers that a gas supply contract may jeopardise the security of gas supply of a Member State, of a region or of the Union, the competent authority of the Member State or the Commission may request the natural gas undertaking to provide the contract, excluding price information, for the assessment of its impact on the security of gas supply. The request shall be reasoned and may cover also details of any other commercial agreements that are relevant for the execution of the gas supply contract excluding price information. The justification shall include the proportionality of the administrative burden involved.
+
+8\. The competent authorities that receive information on the basis of point (b) of paragraph 6 or paragraph 7 of this Article shall assess the received information for security of gas supply purposes within three months and submit the results of their assessment to the Commission.
+
+9\. The competent authority shall take into account the information received under this Article in the preparation of the risk assessment, preventive action plan and emergency plan or their respective updates. The Commission may adopt an opinion proposing to the competent authority to amend the risk assessments or plans on the basis of the information received under this Article. The competent authority concerned shall review the risk assessment and the plans concerned by the request in accordance with the procedure set out in Article 8(9).
+
+10\. By 2 May 2019, the Member States shall lay down the rules on penalties applicable to infringements by natural gas undertakings of paragraph 6 or 7 of this Article and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+11\. For the purpose of this Article, ‘the most affected Member State’ shall mean a Member State where a contract party of a given contract has the most of its sales of gas or customers located.
+
+12\. All contracts or contractual information received on the basis of paragraphs 6 and 7 as well as the respective assessments by the competent authorities or the Commission shall remain confidential. The competent authorities and the Commission shall ensure full confidentiality.
+
+## Article 15 — Professional secrecy
+
+1\. Any commercially sensitive information received, exchanged or transmitted pursuant to Article 14(4) to (8), and Article 18 excluding the results of the assessments referred to in Article 14(3) and (5) shall be confidential and subject to the conditions of professional secrecy laid down in this Article.
+
+2\. The obligation of professional secrecy shall apply to the following persons who receive confidential information in accordance with this Regulation:
+
+(a) persons who work or who have worked for the Commission;
+
+(b) auditors and experts instructed by the Commission;
+
+(c) persons who work or who have worked for the competent authorities and the national regulatory authorities or for other relevant authorities;
+
+(d) auditors and experts instructed by competent authorities and national regulatory authorities or by other relevant authorities.
+
+3\. Without prejudice to cases covered by criminal law, the other provisions of this Regulation or other relevant Union law, confidential information received by the persons referred to in paragraph 2 in the course of their duties may not be divulged to any other person or authority, except in summary or aggregate form such that an individual market participant or market place cannot be identified.
+
+4\. Without prejudice to cases covered by criminal law, the Commission, the competent authorities and the national regulatory authorities, bodies or persons which receive confidential information pursuant to this Regulation may use confidential information only in the performance of their duties and for the exercise of their functions. Other authorities, bodies or persons may use that information for the purpose for which it was provided to them or in the context of administrative or judicial proceedings specifically related to the exercise of their functions.
+
+## Article 16 — Cooperation with the Energy Community Contracting Parties
+
+1\. Where the Member States and the Energy Community Contracting Parties cooperate in the process of the establishment of risk assessments and preventive action plans and emergency plans, such cooperation may include, in particular, identifying the interaction and correlation of risks and consultations with a view to ensuring consistency of preventive action plans and emergency plans across the border.
+
+2\. With respect to paragraph 1, Energy Community Contracting Parties may participate in the GCG upon invitation by the Commission on all matters of mutual concern.
+
+3\. Member States shall ensure storage obligations under this Regulation are met by using storage facilities in the Union. However, Member States and the Energy Community Contracting Parties’ cooperation may include voluntary arrangements to use storage capacity provided by Energy Community Contracting Parties to store additional volumes of gas for the Member States.
+
+## Article 17 — Monitoring by the Commission
+
+The Commission shall carry out continuous monitoring of security of gas supply measures and report regularly to the GCG.
+
+The Commission shall continuously monitor the exposure of the Union’s energy system to supplies, also via third countries, of gas that originates in or is exported, directly or indirectly, from the Russian Federation in particular on the basis of information notified to the Commission and the competent authorities in accordance with Article 14(6), point (c).
+
+The Commission shall assess the implementation of the phase-out of gas that originates in or is exported, directly or indirectly, from the Russian Federation under Regulation (EU) 2026/261 at national, regional and Union level on the basis of the national diversification plans for gas referred to in Article 9 of that Regulation and report its assessment to the Gas Coordination Group.
+
+On the basis of the assessment referred to in the third paragraph, the Commission shall publish an annual report, which shall provide a comprehensive overview of the progress achieved by Member States in implementing their national diversification plans for gas.
+
+Where relevant, the Commission may issue, within three months of submission of a national diversification plan for gas, a recommendation which identifies possible actions and measures to ensure a secure diversification of gas supply and a timely phase-out of gas that originates in or is exported, directly or indirectly, from the Russian Federation.
+
+Following that recommendation, the Member State concerned shall update its national diversification plan for gas within three months, taking into consideration the Commission’s recommendation.
+
+## Article 17a — Commission reporting
+
+1\. By 28 February 2023 and annually thereafter, the Commission shall submit reports to the European Parliament and to the Council, containing:
+
+(a) an overview of the measures taken by Member States to fulfil the storage obligations;
+
+(b) an overview of the time needed for the certification procedure set out in Article 3a of Regulation (EC) No 715/2009;
+
+(c) an overview of the measures requested by the Commission in order to ensure compliance with the filling trajectories and the filling targets;
+
+(d) an analysis of the potential effects of this Regulation on gas prices and potential gas savings in relation to Article 6b(4);
+
+(e) the information about the share of gas originating in Russia that is being stored in Union storage facilities, provided by Member States where available pursuant to Article 6d(2).
+
+2\. The report that is to be submitted by the Commission by 28 February 2025 shall also include a general assessment of the application of Articles 6a to 6d, Article 7(1) and (4), point (g), Article 13, Article 13a, Article 16(3), Article 17a, Article 18a, Article 20(4), and Annexes Ia and Ib. The report shall be accompanied, where appropriate, by a legislative proposal to amend this Regulation.
+
+## Article 18 — Notifications
+
+The risk assessment, the preventive action plans, the emergency plans and all other documents shall be notified to the Commission electronically through the CIRCABC platform.
+
+All correspondence in connection with a notification shall be transmitted electronically.
+
+## Article 19 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 3(8), Article 7(5) and Article 8(5) shall be conferred on the Commission for a period of five years from 1 November 2017. The power to adopt delegated acts referred to in Article 8a(2) shall be conferred on the Commission for a period of five years from 4 August 2024.  The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 3(8), Article 7(5), Article 8(5) and Article 8a(2) may be revoked at any time by the European Parliament or by the Council.  A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 3(8), Article 7(5), Article 8(5) or Article 8a(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object.  That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 20 — Derogation
+
+1\. This Regulation shall not apply to Malta and Cyprus for as long as no gas is supplied on their respective territories. For Malta and Cyprus the obligations laid down in, and the choices those Member States are entitled to make pursuant to, the following provisions shall be fulfilled and made within the specified time calculated from the date when gas is first supplied on their respective territories:
+
+(a) for point 5 of Article 2, Article 3(2), Article 7(5) and point (a) of Article 14(6): 12 months;
+
+(b) for Article 6(1): 18 months;
+
+(c) for Article 8(7): 24 months;
+
+(d) for Article 5(4): 36 months;
+
+(e) for Article 5(1): 48 months.
+
+In order to fulfil the obligation contained in Article 5(1), Malta and Cyprus may apply the provisions contained in Article 5(2), including by using non-market-based demand-side measures.
+
+2\. Obligations related to the work of the risk groups set out in Articles 7 and 8 with regard to the Southern Gas Corridor and Eastern Mediterranean risk groups shall start to apply from the date when the major infrastructure/pipeline enters the test operation.
+
+3\. For as long as Sweden has access to gas via interconnections exclusively from Denmark as its only source of gas and its only possible provider of solidarity, Denmark and Sweden shall be exempted from the obligation in Article 13(10) to conclude technical, legal and financial arrangements for the purpose of Sweden providing solidarity to Denmark. This shall not affect the obligation of Denmark to provide solidarity and to conclude the necessary technical, legal and financial arrangements to that effect pursuant to Article 13.
+
+4\. Articles 6a to 6d shall not apply to Ireland, Cyprus or Malta for as long as they are not directly interconnected to the gas interconnected system of any other Member States.
+
+## Article 21 — Repeal
+
+Regulation (EU) No 994/2010 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex IX.
+
+## Article 22 — Entry into force
+
+This Regulation shall enter into force on the fourth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 November 2017.
+
+However, Article 13(1) to (6), the first and second subparagraphs of Article 13(8), and Article 13(14) and (15) shall apply from 1 December 2018.
+
+Article 2, points (27) to (31), Articles 6a to 6d, Article 16(3), Article 17a, Article 20(4) and Annex Ib shall apply until 31 December 2027.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Regional cooperation
+
+The risk groups of Member States that serve as the basis for risk associated cooperation as referred to in Article 3(7) are the following:
+
+1\. LNG supply risk group:
+
+(a) Belgium, Bulgaria, Czechia, Denmark, Germany, Estonia, Ireland, Greece, Spain, France, Croatia, Italy, Cyprus, Latvia, Lithuania, Luxembourg, Hungary, Malta, Netherlands, Austria, Poland, Portugal, Romania, Slovenia, Slovakia, Finland, Sweden.
+
+2\. North Sea gas supply risk group:
+
+(b) Belgium, Czechia, Denmark, Germany, Estonia, Ireland, France, Latvia, Lithuania, Luxembourg, Netherlands, Austria, Poland, Finland, Sweden.
+
+3\. North African gas supply risk group:
+
+(c) Spain, France, Italy, Malta, Austria, Portugal, Slovenia.
+
+4\. South-East gas supply risk group:
+
+(d) Bulgaria, Czechia, Greece, Croatia, Italy, Cyprus, Hungary, Austria, Romania, Slovenia, Slovakia.
+
+## ANNEX Ib — Shared responsibility for the filling target and the filling trajectory
+
+With regard to the filling target and the filling trajectory pursuant to Article 6a, the Slovak Republic and Czechia share the responsibility concerning the storage facilities of Dolní Bojanovice. The exact ratio and extent of that responsibility of the Slovak Republic and Czechia is subject to a bilateral agreement of those Member States.
+
+Without prejudice to Article 13 and in accordance with Article 11(6), point (b), the Slovak Republic and Czechia shall ensure that, when a crisis is declared pursuant to this Regulation, no measures affecting the Dolní Bojanovice storage facility that are likely to seriously endanger the gas supply situation or to undermine the ability of natural gas undertakings to supply gas to protected customers in line with the national gas supply standard are introduced.
+
+## ANNEX II
+
+**Calculation of the N – 1 formula**
+
+**1\. Definition of the N – 1 formula**
+
+The N – 1 formula describes the ability of the technical capacity of the gas infrastructure to satisfy total gas demand in the calculated area in the event of disruption of the single largest gas infrastructure during a day of exceptionally high gas demand occurring with a statistical probability of once in 20 years.
+
+Gas infrastructure shall cover the gas transmission network including interconnections, as well as production, LNG and storage facilities connected to the calculated area.
+
+The technical capacity of all remaining available gas infrastructure in the event of disruption of the single largest gas infrastructure shall be at least equal to the sum of the total daily gas demand of the calculated area during a day of exceptionally high gas demand occurring with a statistical probability of once in 20 years.
+
+The results of the N – 1 formula, as calculated below, shall be at least equal to 100 %.
+
+**2\. Calculation method of the N – 1 formula**
+
+[image]
+
+, N – 1 ≥ 100 %
+
+The parameters used for the calculation shall be clearly described and justified.
+
+For the calculation of the EPm, a detailed list of the entry points and their individual capacity shall be provided.
+
+**3\. Definitions of the parameters of the N – 1 formula**
+
+‘Calculated area’ means a geographical area for which the N – 1 formula is calculated, as determined by the competent authority.
+
+**Demand-side definition**
+
+‘Dmax ’ means the total daily gas demand (in mcm/d) of the calculated area during a day of exceptionally high gas demand occurring with a statistical probability of once in 20 years.
+
+**Supply-side definitions**
+
+‘EPm ’: technical capacity of entry points (in mcm/d), other than production, LNG and storage facilities covered by Pm, LNGm and Sm, means the sum of the technical capacity of all border entry points capable of supplying gas to the calculated area.
+
+‘Pm ’: maximal technical production capability (in mcm/d) means the sum of the maximal technical daily production capability of all gas production facilities which can be delivered to the entry points in the calculated area.
+
+‘Sm ’: maximal technical storage deliverability (in mcm/d) means the sum of the maximal technical daily withdrawal capacity of all storage facilities which can be delivered to the entry points of the calculated area, taking into account their respective physical characteristics.
+
+‘LNGm ’: maximal technical LNG facility capacity (in mcm/d) means the sum of the maximal technical daily send-out capacities at all LNG facilities in the calculated area, taking into account critical elements like offloading, ancillary services, temporary storage and re-gasification of LNG as well as technical send-out capacity to the system.
+
+‘Im ’ means the technical capacity of the single largest gas infrastructure (in mcm/d) with the highest capacity to supply the calculated area. When several gas infrastructures are connected to a common upstream or downstream gas infrastructure and cannot be separately operated, they shall be considered as one single gas infrastructure.
+
+**4\. Calculation of the N – 1 formula using demand-side measures**
+
+[image]
+
+, N – 1 ≥ 100 %
+
+**Demand-side definition**
+
+‘Deff ’ means the part (in mcm/d) of Dmax that in the case of a disruption of gas supply can be sufficiently and timely covered with market-based demand-side measures in accordance with point (c) of Article 9(1) and Article 5(2).
+
+**5\. Calculation of the N – 1 formula at regional level**
+
+The calculated area referred to in point 3 shall be extended to the appropriate regional level, where applicable, as determined by the competent authorities of the Member States concerned. The calculation may also extend to the regional level of the risk group, if so agreed with the competent authorities of the risk group. For the calculation of the N – 1 formula at regional level, the single largest gas infrastructure of common interest shall be used. The single largest gas infrastructure of common interest to a region shall be the largest gas infrastructure in the region that directly or indirectly contributes to gas supply to the Member States of that region and shall be defined in the risk assessment.
+
+The calculation of the N – 1 formula at regional level may replace the calculation of the N – 1 formula at national level only where the single largest gas infrastructure of common interest is of major importance for the gas supply of all Member States concerned in accordance with the common risk assessment.
+
+On the level of the risk group, for the calculations referred to in Article 7(4), the single largest gas infrastructure of common interest to the risk groups as listed in Annex I shall be used.
+
+## ANNEX III
+
+**Permanent bi-directional capacity**
+
+1\. For the execution of the provisions set out in this Annex the national regulatory authority may act as the competent authority if so decided by the Member State.
+
+2\. To enable or enhance bi-directional capacity on an interconnection or to obtain or prolong an exemption from that obligation, transmission system operators on both sides of the interconnection shall submit to their competent authorities (‘competent authorities concerned’) and to their regulatory authorities (‘regulatory authorities concerned’) after consulting with all transmission system operators potentially concerned:
+
+(a) a proposal to enable permanent physical capacity to transport gas in both directions for permanent bi-directional capacity concerning the reverse direction (‘physical reverse flow capacity’); or
+
+(b) a request for an exemption from the obligation to enable bi-directional capacity.
+
+The transmission system operators shall endeavour to submit a joint proposal or request for exemption. In the case of a proposal to enable bi-directional capacity, the transmission system operators may make a substantiated proposal for a cross-border cost allocation. Such submission shall take place no later than 1 December 2018 for all interconnections that existed on 1 November 2017, and after completing the feasibility study phase but before the start of detailed technical design phase for new interconnections.
+
+3\. Upon receipt of the proposal or the exemption request the competent authorities concerned shall without delay consult the competent authorities and, where they are not the competent authorities, the national regulatory authorities, of the Member State that could, in accordance with the risk assessment, benefit from the reverse flow capacity, the Agency and the Commission on the proposal or the exemption request. The authorities consulted may issue an opinion within four months of receipt of the consultation request.
+
+4\. The regulatory authorities concerned shall within six months upon receipt of the joint proposal, pursuant to Article 5(6) and (7), after consulting the project promoters concerned, take coordinated decisions on the cross-border allocation of investment costs to be borne by each transmission system operator of the project. Where the regulatory authorities concerned have not reached an agreement within that deadline, they shall inform the competent authorities concerned without delay.
+
+5\. The competent authorities concerned shall on the basis of the risk assessment, the information listed in Article 5(5) of this Regulation, the opinions received following the consultation in accordance with point 3 of this Annex and taking into account the security of gas supply and the contribution to the internal gas market take a coordinated decision. That coordinated decision shall be taken within two months. The period of two months shall start to run after the four-month period allowed for the opinions referred to under point 3 of this Annex, unless all opinions have been received before, or after the six-month period referred to in point 4 of this Annex for regulatory authorities concerned to adopt a coordinated decision. The coordinated decision shall:
+
+(a) accept the proposal for bi-directional capacity. Such decision shall contain a cost benefit analysis, a timeline for implementation and the arrangements for its subsequent use and be accompanied by the coordinated decision on the cross-border cost allocation referred to in point 4 and prepared by the regulatory authorities concerned;
+
+(b) grant or prolong a temporary exemption for a maximum period of four years, if the cost-benefit analysis included in the decision shows that the reverse flow capacity would not enhance the security of gas supply of any relevant Member State or if the investment costs would significantly outweigh the prospective benefits for the security of gas supply; or
+
+(c) require the transmission system operators to amend and resubmit their proposal or exemption request within a maximum period of four months.
+
+6\. The competent authorities concerned shall submit the coordinated decision without delay to the competent authorities and national regulatory authorities who have submitted an opinion in accordance with point 3, the regulatory authorities concerned, the Agency and the Commission including the opinions received following the consultation in accordance with point 3.
+
+7\. Within two months of receipt of the coordinated decision, the competent authorities referred to in point 6 may present their objections to the coordinated decision and submit them to the competent authorities concerned that adopted it, the Agency and the Commission. The objections shall be limited to facts and assessment, in particular cross-border cost allocation that was not subject of consultation in accordance with point 3.
+
+8\. Within three months of receipt of the coordinated decision in accordance with point 6, the Agency shall issue an opinion on the elements of the coordinated decision taking into account any possible objection and submit the opinion to all competent authorities concerned and the competent authorities referred to in point 6 and to the Commission.
+
+9\. Within four months of receipt of the opinion issued by the Agency pursuant to point 8 the Commission may adopt a decision requesting modifications of the coordinated decision. Any such decision of the Commission shall be taken on the basis of: the criteria set out in point 5, the reasons for the decision of the authorities concerned and the opinion of the Agency. The competent authorities concerned shall comply with the request of the Commission by amending their decision within a period of four weeks.
+
+In the event that the Commission does not act within the aforementioned four months period, it shall be considered not to have raised objections to the decision of the competent authorities concerned.
+
+10\. If the competent authorities concerned were not able to adopt a coordinated decision within the deadline set out in point 5 or if the regulatory authorities concerned could not reach an agreement on the cost allocation within the deadline set out in point 4, the competent authorities concerned shall inform the Agency and the Commission at the latest on the day of the expiry of the deadline. Within four months of receipt of that information, the Commission, after possible consultation with the Agency, shall adopt a decision covering all elements of a coordinated decision listed in point 5 with the exception of a cross-border cost allocation and submit that decision to the competent authorities concerned and the Agency.
+
+11\. If the Commission decision pursuant to point 10 of this Annex, requires bi-directional capacity, the Agency shall adopt a decision covering the cross-border cost allocation in line with Article 5(7) of this Regulation within three months of receipt of the Commission decision. Before taking such a decision, the Agency shall consult the regulatory authorities concerned and the transmission system operators. The three-month period may be extended by an additional period of two months where the Agency has to request additional information. The additional period shall begin on the day following receipt of the complete information.
+
+12\. The Commission, the Agency, the competent authorities, the national regulatory authorities and the transmission system operators shall preserve the confidentiality of commercially sensitive information.
+
+13\. Exemptions from the obligation to enable bi-directional capacity granted under Regulation (EU) No 994/2010 shall remain valid unless the Commission or the other concerned Member State requests a revision or their duration expires.
+
+## ANNEX IV
+
+**Template for the common risk assessment**
+
+The following template shall be completed in a language agreed within the risk group.
+
+**General information**
+
+— Member States in the risk group
+
+— Name of the competent authorities responsible for the preparation of the risk assessment ( 9 )
+
+**1\. Description of the system**
+
+Provide a brief description of the gas system of the risk group, covering:
+
+(a) the main gas consumption figures ( 10 ): annual final gas consumption (bcm) and breakdown per type of customers ( 11 ), peak demand (total and breakdown per category of consumer in mcm/d);
+
+(b) a description of the functioning of the gas system in the risk group: main flows (entry/exit/transit), entry/exit point's infrastructure capacity to and out of the region and per Member State, including utilisation rate, LNG facilities (maximal daily capacity, utilisation rate and access regime), etc.;
+
+(c) a breakdown, to the extent possible, of gas import sources per country of origin ( 12 );
+
+(d) a description of the role of storage facilities relevant for the risk group, including cross-border access:
+
+(i) the storage capacity (total and working gas) compared to heating season demand;
+
+(ii) the maximal daily withdrawal capacity at different filling levels (ideally with full storages and end-of-season levels);
+
+(e) a description of the role of domestic production in the risk group:
+
+(i) the volume of production with regard to the annual final gas consumption;
+
+(ii) the maximal daily production capacity;
+
+(f) a description of the role of gas in the electricity production (e.g. importance, role as a back-up for renewables), including gas-fired generating capacity (total (MWe) and as percentage of the total generating capacity) and cogeneration (total (MWe) and as percentage of the total generating capacity).
+
+**2\. Infrastructure standard (Article 5)**
+
+Describe the calculations of the N – 1 formula(s) at regional level for the risk group, if so agreed with the competent authorities of the risk group, and the existing bidirectional capacities, as follows:
+
+(a) N – 1 formula
+
+(i) the identification of the single largest gas infrastructure of common interest for the risk group;
+
+(ii) the calculation of the N – 1 formula at regional level;
+
+(iii) a description of the values used for all elements in the N – 1 formula, including intermediate figures used for the calculation (e.g. for EPm indicate the capacity of all entry points considered under this parameter);
+
+(iv) an indication of the methodologies and assumptions used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations);
+
+(b) bi-directional capacity
+
+(i) indicate the interconnection points equipped with bidirectional capacity and the maximal capacity of bi-directional flows;
+
+(ii) indicate the arrangements governing the use of the reverse flow capacity (e.g. interruptible capacity);
+
+(iii) indicate interconnection points where an exemption has been granted in accordance with Article 5(4), the duration of the exemption and the grounds on which it was granted.
+
+**3\. Identification of risks**
+
+Describe the major transnational risk for which the group was created as well as the risk factors at several instances which could make that risk materialise, their likelihood and consequences.
+
+Non-exhaustive list of risk factors that have to be included in the assessment only if applicable according to the relevant competent authority:
+
+(a) political
+
+— gas disruption from third countries because of different reasons,
+
+— political unrest (either in country of origin or in transit country),
+
+— war/civil war (either in country of origin or in transit country),
+
+— terrorism;
+
+(b) technological
+
+— explosion/fires,
+
+— fires (internal to a given facility),
+
+— leakages,
+
+— lack of adequate maintenance,
+
+— equipment malfunction (failure to start, failure during working time, etc.),
+
+— lack of electricity (or other energy source),
+
+— ICT failure (hardware or software failure, internet, SCADA problems, etc.),
+
+— cyber-attack,
+
+— impact due to excavation works (digging, piling), ground works, etc.;
+
+(c) commercial/market/financial
+
+— agreements with third-country suppliers,
+
+— commercial dispute,
+
+— control of infrastructure relevant for the security of gas supply by third-country entities, which may imply, among others, risks of underinvestment, undermining diversification or non-respect of Union law,
+
+— price volatility,
+
+— underinvestment,
+
+— sudden, unexpected peak demand,
+
+— other risks which could lead to structural underperformance;
+
+(d) social
+
+— strikes (in different related sectors, such as the gas sector, ports, transport, etc.),
+
+— sabotage,
+
+— vandalism,
+
+— theft;
+
+(e) natural
+
+— earthquakes,
+
+— landslides,
+
+— floods (heavy rain, river),
+
+— storms (sea),
+
+— avalanches,
+
+— extreme weather conditions,
+
+— fires (external to the facility, like nearby forests, grassland, etc.).
+
+**Analysis**
+
+(a) describe the major transnational risk and any other relevant risk factors for the risk group, including their likelihood and impact as well as the interaction and correlation of risks among Member States, as appropriate;
+
+(b) describe the criteria used to determine whether a system is exposed to high/unacceptable risks;
+
+(c) set a list of relevant risk scenarios in accordance with the sources of risks and describe how the selection was made;
+
+(d) indicate the extent to which scenarios prepared by ENTSOG have been considered.
+
+**4\. Risk analysis and assessment**
+
+Analyse the set of relevant risk scenarios identified under point 3. In the simulation of risk scenarios include the existing security of gas supply measures, such as, the infrastructure standard calculated using the N – 1 formula as set out in point 2 of Annex II, if appropriate, and the gas supply standard. Per risk scenario:
+
+(a) describe in detail the risk scenario, including all assumptions and, if applicable, the underlying methodologies for their calculation;
+
+(b) describe in detail the results of the simulation carried out, including a quantification of the impact (e.g. volumes of unserved gas, the socioeconomic impact, the impact on district heating, the impact on electricity generation).
+
+**5\. Conclusions**
+
+Describe the main results of the common risk assessment, including the identification of risk scenarios that require further action.
+
+## ANNEX V
+
+**Template for the national risk assessment**
+
+**General information**
+
+Name of the competent authority responsible for the preparation of the present risk assessment ( 13 ).
+
+**1\. Description of the system**
+
+1.1. Provide a brief consolidated description of the regional gas system for each risk group ( 14 ) the Member State participates in, covering:
+
+(a) the main gas consumption figures ( 15 ): annual final gas consumption (bcm and MWh) and breakdown per type of customers ( 16 ), peak demand (total and breakdown per category of consumer in mcm/d);
+
+(b) a description of the functioning of the gas system(s) in the relevant risk groups: main flows (entry/exit/transit), entry/exit point's infrastructure capacity to and out of the risk groups' region(s) and per Member State, including utilisation rate, LNG facilities (maximal daily capacity, utilisation rate and access regime), etc.;
+
+(c) a breakdown, to the extent possible, of percentage gas import sources per country of origin ( 17 );
+
+(d) a description of the role of storage facilities relevant for the risk group, including cross-border access:
+
+(i) the storage capacity (total and working gas) compared to heating season demand;
+
+(ii) the maximal daily withdrawal capacity at different filling levels (ideally with full storages and end-of-season levels);
+
+(e) a description of the role of domestic production in the risk group(s):
+
+(i) the volume of production with regard to the annual final gas consumption;
+
+(ii) the maximal daily production capacity and description of how it can cover maximum daily consumption;
+
+(f) a description of the role of gas in the electricity production (e.g. importance, role as a back-up for renewables), including gas-fired generating capacity (total (MWe) and as percentage of the total generating capacity) and cogeneration (total (MWe) and as percentage of the total generating capacity).
+
+1.2. Provide a brief description of the gas system of the Member State, covering:
+
+(a) the main gas consumption figures: annual final gas consumption (bcm) and breakdown by type of customers, peak demand (mcm/d);
+
+(b) a description of the functioning of the gas system at national level, including infrastructure (to the extent not covered by point 1.1(b)). If applicable, include L-gas system;
+
+(c) the identification of the key infrastructure relevant for the security of gas supply;
+
+(d) a breakdown, to the extent possible, at national level of gas import sources per country of origin;
+
+(e) a description of the role of storage and include:
+
+(i) the storage capacity (total and working) compared to heating season demand;
+
+(ii) the maximal daily withdrawal capacity at different filling levels (ideally with full storages and end-of-season levels);
+
+(f) a description of the role of domestic production and include:
+
+(i) the volume of production with regard to the annual final gas consumption;
+
+(ii) the maximal daily production capacity;
+
+(g) a description of the role of gas in the electricity production (e.g. importance, role as a back-up for renewables), including gas-fired generating capacity (total (MWe) and as percentage of the total generating capacity) and cogeneration (total (MWe) and as percentage of the total generating capacity).
+
+**2\. Infrastructure standard (Article 5)**
+
+Describe how the infrastructure standard is complied with, including the main values used for the N – 1 formula and alternative options for its compliance (with directly connected Member States, demand-side measures) and the existing bidirectional capacities, as follows:
+
+(a) N – 1 formula
+
+(i) the identification of the single largest gas infrastructure;
+
+(ii) the calculation of the N – 1 formula at national level;
+
+(iii) a description of the values used for all elements in the N – 1 formula, including intermediate values used for their calculation (e.g. for EPm indicate the capacity of all entry points considered under this parameter);
+
+(iv) an indication of the methodologies used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations);
+
+(v) an explanation of the results of the calculation of the N – 1 formula considering the level of storages at 30 % and 100 % of the maximum working volume;
+
+(vi) an explanation of the main results of the simulation of the N – 1 formula using a hydraulic model;
+
+(vii) if so decided by the Member State, a calculation of the N – 1 formula using demand-side measures:
+
+— calculation of the N – 1 formula in accordance with point 2 of Annex II,
+
+— description of the values used for all elements in the N – 1 formula, including intermediate figures used for the calculation (if different to the figures described under point 2(a)(iii)),
+
+— indicate the methodologies used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations),
+
+— explain the market-based demand-side measures adopted/to be adopted to compensate a disruption of gas supply and its expected impact (Deff);
+
+(viii) if so agreed with the competent authorities of the relevant risk group(s) or with directly connected Member States, joint calculation(s) of the N – 1 formula:
+
+— calculation of the N – 1 formula in accordance with point 5 of Annex II,
+
+— description of the values used for all elements in the N – 1 formula, including intermediate values used for their calculation (if different to the figures described under point 2(a)(iii)),
+
+— indicate the methodologies and assumptions used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations),
+
+— explain the agreed arrangements to ensure compliance with the N – 1 formula;
+
+(b) bi-directional capacity
+
+(i) indicate the interconnection points equipped with bidirectional capacity and the maximal capacity of bi-directional flows;
+
+(ii) indicate the arrangements governing the use of the reverse flow capacity (e.g. interruptible capacity);
+
+(iii) indicate interconnection points where an exemption has been granted in accordance with Article 5(4), the duration of the exemption and the grounds on which it was granted.
+
+**3\. Identification of risks**
+
+Describe the risk factors which could have negative impact on the security of gas supply in the Member State, their likelihood and consequences.
+
+Non-exhaustive list of types of risk factors that have to be included in the assessment only if applicable according to the competent authority:
+
+(a) political
+
+— gas disruption from third countries because of different reasons,
+
+— political unrest (either in country of origin or in transit country),
+
+— war/civil war (either in country of origin or in transit country),
+
+— terrorism;
+
+(b) technological
+
+— explosion/fires,
+
+— fires (internal to a given facility),
+
+— leakages,
+
+— lack of adequate maintenance,
+
+— equipment malfunction (failure to start, failure during working time, etc.),
+
+— lack of electricity (or other energy source),
+
+— ICT failure (hardware or software failure, internet, SCADA problems, etc.),
+
+— cyber-attack,
+
+— impact due to excavation works (digging, piling), ground works, etc.;
+
+(c) commercial/market/financial
+
+— agreements with third-country suppliers,
+
+— commercial dispute,
+
+— control of infrastructure relevant for the security of gas supply by third-country entities, which may imply, among others, risks of underinvestment, undermining diversification or non-respect of Union law,
+
+— price volatility,
+
+— underinvestment,
+
+— sudden, unexpected peak demand,
+
+— other risks which could lead to structural underperformance;
+
+(d) social
+
+— strikes (in different related sectors, such as the gas sector, ports, transport, etc.),
+
+— sabotage,
+
+— vandalism,
+
+— theft;
+
+(e) natural
+
+— earthquakes,
+
+— landslides,
+
+— floods (heavy rain, river),
+
+— storms (sea),
+
+— avalanches,
+
+— extreme weather conditions,
+
+— fires (external to the facility, like nearby forests, grassland, etc.).
+
+**Analysis**
+
+(a) identify the relevant risk factors for the Member State, including their likelihood and impact;
+
+(b) describe the criteria used to determine whether a system is exposed to high/unacceptable risks;
+
+(c) set a list of relevant risk scenarios in accordance with the risk factors and their likelihood and describe how the selection was made.
+
+**4\. Risk analysis and assessment**
+
+Analyse the set of relevant risk scenarios identified under point 3. In the simulation of risk scenarios include the existing security of gas supply measures, such as the infrastructure standard calculated using the N – 1 formula as set out in point 2 of Annex II, and the gas supply standard. Per risk scenario:
+
+(a) describe in detail the risk scenario, including all assumptions and, if applicable, the underlying methodologies for their calculation;
+
+(b) describe in detail the results of the simulation carried out, including a quantification of the impact (e.g. volumes of unserved gas, the socioeconomic impact, the impact on district heating, the impact on electricity generation).
+
+**5\. Conclusions**
+
+Describe the main results of the common risk assessment the Member States has been involved in, including the identification of risk scenarios that require further action.
+
+## ANNEX VI
+
+**Template for preventive action plan**
+
+**General information**
+
+— Member States in the risk group
+
+— Name of the competent authority responsible for the preparation of the plan ( 18 )
+
+**1\. Description of the system**
+
+1.1. Provide a brief consolidated description of the regional gas system for each risk group ( 19 ) the Member States participates in, covering:
+
+(a) the main gas consumption figures ( 20 ): annual final gas consumption (bcm) and breakdown per type of customers ( 21 ), peak demand (total and breakdown per category of consumer in mcm/d);
+
+(b) a description of the functioning of the gas system in the risk groups: main flows (entry/exit/transit), entry/exit point's infrastructure capacity to and out of the risk group's region(s) and per Member State, including utilisation rate, LNG facilities (maximal daily capacity, utilisation rate and access regime), etc.;
+
+(c) a breakdown, to the extent possible, of gas import sources per country of origin ( 22 );
+
+(d) a description of the role of storage facilities relevant for the region, including cross-border access:
+
+(i) the storage capacity (total and working gas) compared to heating season demand;
+
+(ii) the maximal daily withdrawal capacity at different filling levels (ideally with full storages and end-of-season levels);
+
+(e) a description of the role of domestic production in the region:
+
+(i) the volume of production with regard to the annual final gas consumption;
+
+(ii) the maximal daily production capacity;
+
+(f) a description of the role of gas in the electricity production (e.g. importance, role as a back-up for renewables), including gas-fired generating capacity (total (MWe) and as percentage of the total generating capacity) and cogeneration (total (MWe) and as percentage of the total generating capacity);
+
+(g) a description of the role of energy efficiency measures and their effect on annual final gas consumption.
+
+1.2. Provide a brief description of the gas system per Member State, covering:
+
+(a) the main gas consumption figures: annual final gas consumption (bcm) and breakdown by type of customers, peak demand (mcm/d);
+
+(b) a description of the functioning of the gas system at national level, including infrastructure (to the extent not covered by point 1.1(b));
+
+(c) the identification of the key infrastructure relevant for the security of supply;
+
+(d) a breakdown, to the extent possible, at national level of gas import sources per country of origin;
+
+(e) a description of the role of storage in the Member State and include:
+
+(i) the storage capacity (total and working) compared to heating season demand;
+
+(ii) the maximal daily withdrawal capacity at different filling levels (ideally with full storages and end-of-season levels);
+
+(f) a description of the role of domestic production and include:
+
+(i) the volume of production with regard to the annual final gas consumption;
+
+(ii) the maximal daily production capacity;
+
+(g) a description of the role of gas in the electricity production (e.g. importance, role as a back-up for renewables), including gas-fired generating capacity (total (MWe) and as percentage of the total generating capacity) and cogeneration (total (MWe) and as percentage of the total generating capacity);
+
+(h) a description of the role of energy efficiency measures and their effect on annual final gas consumption.
+
+**2\. Summary of the risk assessment**
+
+Describe briefly the results of the relevant common and national risk assessment carried out in accordance with Article 7, including:
+
+(a) a list of the scenarios assessed and a brief description of the assumptions applied for each one as well as the risks/shortcomings identified;
+
+(b) the main conclusions of the risk assessment.
+
+**3\. Infrastructure standard (Article 5)**
+
+Describe how the infrastructure standard is complied with, including the main values used for the N – 1 formula and alternative options for its compliance (with neighbouring Member States, demand-side measures) and the existing bidirectional capacities, as follows:
+
+**3.1. N – 1 formula**
+
+(i) the identification of the single largest gas infrastructure of common interest for the region;
+
+(ii) the calculation of the N – 1 formula at regional level;
+
+(iii) a description of the values used for all elements in the N – 1 formula, including intermediate figures used for the calculation (e.g. for EPm indicate the capacity of all entry points considered under this parameter);
+
+(iv) an indication of the methodologies and assumptions used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations).
+
+**3.2. National level**
+
+(a) N – 1 formula
+
+(i) the identification of the single largest gas infrastructure;
+
+(ii) the calculation of the N – 1 formula at national level;
+
+(iii) a description of the values used for all elements in the N – 1 formula, including intermediate values used for the calculation (e.g. for EPm indicate the capacity of all entry points considered under this parameter);
+
+(iv) an indication of the methodologies used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations);
+
+(v) if so decided by the Member State, calculation of the N – 1 formula using demand-side measures:
+
+— the calculation of the N – 1 formula in accordance with point 2 of Annex II,
+
+— a description of the values used for all elements in the N – 1 formula, including intermediate figures used for the calculation (if different to the figures described under point 3(a)(iii) of this Annex),
+
+— an indication of the methodologies used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations),
+
+— an explanation of the market-based demand-side measures adopted/to be adopted to compensate a disruption of gas supply and its expected impact (Deff);
+
+(vi) if so agreed with the competent authorities of the relevant risk group(s) or with the directly connected Member States, joint calculation(s) of the N – 1 formula:
+
+— the calculation of the N – 1 formula in accordance with point 5 of Annex II,
+
+— a description of the values used for all elements in the N – 1 formula, including intermediate values used for the calculation (if different to the figures described under point 3(a)(iii) of this Annex),
+
+— an indication of the methodologies and assumptions used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations),
+
+— an explanation of the agreed arrangements to ensure compliance with the N – 1 formula;
+
+(b) bi-directional capacity
+
+(i) indicate the interconnection points equipped with bidirectional capacity and the maximal capacity of bi-directional flows;
+
+(ii) indicate the arrangements governing the use of the reverse flow capacity (e.g. interruptible capacity);
+
+(iii) indicate interconnection points where an exemption has been granted in accordance with Article 5(4), the duration of the exemption and the grounds on which it was granted.
+
+**4\. Compliance with the supply standard (Article 6)**
+
+Describe the measures adopted in order to comply with the supply standard as well as with any increased supply standard or additional obligation imposed for reasons of security of gas supply:
+
+(a) definition of protected customers applied, including categories of customers covered and their annual gas consumption (per category, net value and percentage of the national annual final gas consumption);
+
+(b) gas volumes needed to comply with the supply standard in accordance with the scenarios described in the first subparagraph of Article 6(1);
+
+(c) capacity needed to comply with the supply standard in accordance with the scenarios described in the first subparagraph of Article 6(1);
+
+(d) measure(s) in place to comply with the supply standard:
+
+(i) a description of the measure(s);
+
+(ii) addressees;
+
+(iii) where it exists, describe any ex ante monitoring system for the compliance with the supply standard;
+
+(iv) sanctions regime, if applicable;
+
+(v) describe, per measure:
+
+— the economic impact, effectiveness and efficiency of the measure,
+
+— the impact of the measure on the environment,
+
+— impact of the measures on consumer,
+
+(vi) where non-market-based measures are applied (per measure):
+
+— justify why the measure is necessary (i.e. why security of supply cannot be achieved via market-based measures alone),
+
+— justify why the measure is proportionate (i.e. why the non-market-based measure is the least restrictive means to achieve the intended effect),
+
+— provide an analysis of the impact of such measure:
+
+(1) on other Member State's security of supply;
+
+(2) on the national market;
+
+(3) on the internal market;
+
+(vii) where measures introduced on or after 1 November 2017, please provide a short summary of the impact assessment or a link to the public impact assessment of the measure(s) carried out in accordance with Article 9(4);
+
+(e) if applicable, describe any increased supply standard or additional obligation imposed for reasons of security of gas supply:
+
+(i) a description of the measure(s);
+
+(ii) the mechanism to reduce it to usual values in a spirit of solidarity and in accordance with Article 13;
+
+(iii) if applicable, describe any new increased supply standard or additional obligation imposed for reasons of security of gas supply adopted on or after 1 November 2017;
+
+(iv) addressees;
+
+(v) affected gas volumes and capacities;
+
+(vi) indicate how that measure complies with the conditions laid down in Article 6(2).
+
+**5\. Preventive measures**
+
+Describe the preventive measures in place or to be adopted:
+
+(a) describe each of the preventive measures adopted per identified risk in accordance with the risk assessment, including a description of:
+
+(i) their national or regional dimension;
+
+(ii) their economic impact, effectiveness and efficiency;
+
+(iii) their impact on customers.
+
+Where appropriate, include:
+
+— measures to enhance interconnections between neighbouring Member States,
+
+— measures to diversify gas routes and sources of supply,
+
+— measures to prevent capacity hoarding;
+
+— measures to protect key infrastructure relevant for the security of supply in relation to control by third-country entities (including, where relevant, general or sector-specific investment screening laws, special rights for certain shareholders, etc.);
+
+(b) describe other measures adopted for reasons other than the risk assessment but with a positive impact for the security of supply of the relevant risk group(s) Member State.
+
+(c) where non-market-based measures are applied (per measure):
+
+(i) justify why the measure is necessary (i.e. why the security of supply cannot be achieved via market-based measures alone);
+
+(ii) justify why the measure is proportionate (i.e. why the non-market-based measure is the least restrictive means to achieve the intended effect);
+
+(iii) provide an analysis of the impact of such measure:
+
+— justify why the measure is necessary (i.e. why the security of supply cannot be achieved via market-based measures alone),
+
+— justify why the measure is proportionate (i.e. why the non-market-based measure is the least restrictive means to achieve the intended effect),
+
+— provide an analysis of the impact of such measure:
+
+(1) on other Member State's security of supply;
+
+(2) on the national market;
+
+(3) on the internal market;
+
+(4) explain the extent to which efficiency measures, including on the demand side, have been considered to increase the security of supply;
+
+(5) explain the extent to which renewable energy sources have been considered to increase the security of supply.
+
+**6\. Other measures and obligations (e.g. safety operation of the system)**
+
+Describe other measures and obligations that have been imposed on natural gas undertakings and other relevant bodies likely to have an impact on the security of gas supply, such as obligations for the safe operation of the system, including who would be affected by that obligation as well as the gas volumes covered. Explain precisely when and how those measures would apply.
+
+**7\. Infrastructure projects**
+
+(a) describe future infrastructure projects, including Projects of Common Interests in the relevant risk groups, including an estimated timing for their deployment, capacities and estimated impact on the security of gas supply in the risk group;
+
+(b) indicate how the infrastructure projects take into account the Union-wide TYNDP elaborated by ENTSOG pursuant to Article 8(10) of Regulation (EC) No 715/2009.
+
+**8\. Public service obligations related to the security of supply**
+
+Indicate the existing public service obligations related to the security of supply and briefly describe them (use annexes for more detailed information). Explain clearly who has to comply with such obligations and how. If applicable, describe how and when those public service obligations would be triggered.
+
+**9\. Stakeholder consultations**
+
+In accordance with Article 8(2) of this Regulation, describe the mechanism used for and the results of the consultations carried out, for the development of the plan as well as the emergency plan, with:
+
+(a) gas undertakings;
+
+(b) relevant organisations representing the interests of households;
+
+(c) relevant organisations representing the interests of industrial gas customers, including electricity producers;
+
+(d) national regulatory authority.
+
+**10\. Regional dimension**
+
+Indicate any national circumstances and measures relevant for the security of supply and not covered in the previous sections of the plan.
+
+Indicate how the possible comments received following the consultation described in Article 8(2) have been considered.
+
+**11.1. Calculation of the N – 1 at the level of the risk group if so agreed by the competent authorities of the risk group**
+
+N – 1 formula
+
+(a) the identification of the single largest gas infrastructure of common interest for the risk group;
+
+(b) the calculation of the N – 1 formula at the level of the risk group;
+
+(c) a description of the values used for all elements in the N – 1 formula, including intermediate figures used for the calculation (e.g. for EPm indicate the capacity of all entry points considered under this parameter);
+
+(d) an indication of the methodologies and assumptions used, if any, for the calculation of parameters in the N – 1 formula (e.g. Dmax) (use annexes for detailed explanations).
+
+**11.2. Mechanisms developed for cooperation**
+
+Describe the mechanisms used for the cooperation among the Member States in the relevant risk groups, including for developing cross-border measures in the preventive action plan and the emergency plan.
+
+Describe the mechanisms used for the cooperation with other Member States in the design and adoption of the provisions necessary for the application of Article 13.
+
+**11.3. Preventive measures**
+
+Describe the preventive measures in place or to be adopted in the risk group or as a result of regional agreements:
+
+(a) describe each of the preventive measures adopted per identified risk in accordance with the risk assessment, including a description of:
+
+(i) their impact in the Member States of the risk group;
+
+(ii) their economic impact, effectiveness and efficiency;
+
+(iii) their impact on the environment;
+
+(iv) their impact on customers.
+
+Where appropriate, include:
+
+— measures to enhance interconnections between neighbouring Member States,
+
+— measures to diversify gas routes and sources of supply,
+
+— measures to prevent capacity hoarding;
+
+— measures to protect key infrastructure relevant for the security of supply in relation to control by third-country entities (including, where relevant, general or sector-specific investment screening laws, special rights for certain shareholders, etc.);
+
+(b) describe other measures adopted for reasons other than the risk assessment but with a positive impact for the security of supply of the risk group.
+
+(c) where non-market-based measures are applied (per measure):
+
+(i) justify why the measure is necessary (i.e. why the security of supply cannot be achieved via market-based measures alone);
+
+(ii) justify why the measure is proportionate (i.e. why the non-market-based measure is the least restrictive means to achieve the intended effect);
+
+(iii) provide an analysis of the impact of such a measure:
+
+— justify why the measure is necessary (i.e. why the security of supply cannot be achieved via market-based measures alone),
+
+— justify why the measure is proportionate (i.e. why the non-market-based measure is the least restrictive means to achieve the intended effect),
+
+— provide an analysis of the impact of such a measure:
+
+(1) on other Member State's security of supply;
+
+(2) on the national market;
+
+(3) on the internal market;
+
+(d) explain the extent to which efficiency measures, including on the demand side, have been considered to increase the security of supply;
+
+(e) explain the extent to which renewable energy sources have been considered to increase the security of supply.
+
+## ANNEX VII
+
+**Template for emergency plan**
+
+**General information**
+
+Name of the competent authority responsible for the preparation of the present plan ( 23 )
+
+**1\. Definition of crisis levels**
+
+(a) indicate the body responsible for the declaration of each crisis level and the procedures to follow in each case for such declarations;
+
+(b) where they exist, include here indicators or parameters used to consider whether an event may result in a significant deterioration of the supply situation and to decide upon the declaration of a certain crisis level.
+
+**2\. Measures to be adopted per crisis level ( 24 )**
+
+**2.1. Early Warning**
+
+Describe the measures to be applied at this stage, indicating, per measure:
+
+(i) a brief description of the measure and main actors involved;
+
+(ii) describe the procedure to follow, if applicable;
+
+(iii) indicate the expected contribution of the measure to cope with the impact of any event or prepare ahead of its appearance;
+
+(iv) describe the flows of information among the actors involved.
+
+**2.2. Alert Level**
+
+(a) describe the measures to be applied at this stage, indicating, per measure:
+
+(i) a brief description of the measure and main actors involved;
+
+(ii) describe the procedure to follow, if applicable;
+
+(iii) indicate the expected contribution of the measure to cope with the situation at alert level;
+
+(iv) describe the flows of information among the actors involved;
+
+(b) describe the reporting obligations imposed on natural gas undertakings at alert level.
+
+**2.3. Emergency Level**
+
+(a) establish a list of predefined actions on the supply and demand side to make gas available in the event of an emergency, including commercial agreements between the parties involved in such actions and the compensation mechanisms for natural gas undertakings where appropriate;
+
+(b) describe the market-based measures to be applied at this stage, indicating, per measure:
+
+(i) a brief description of the measure and main actors involved;
+
+(ii) describe the procedure to follow;
+
+(iii) indicate the expected contribution of the measure to mitigate the situation at emergency level;
+
+(iv) describe the flows of information among the actors involved;
+
+(c) describe the non-market-based measures planned or to be implemented for the emergency level, indicating, per measure:
+
+(i) a brief description of the measure and main actors involved;
+
+(ii) provide an assessment of the necessity of such measure in order to cope with a crisis, including the degree of its use;
+
+(iii) describe in detail the procedure to implement the measure (e.g. what would trigger the introduction of this measure, who would take the decision);
+
+(iv) indicate the expected contribution of the measure to mitigate the situation at emergency level as a complement to market-based measures;
+
+(v) assess other effects of the measure;
+
+(vi) justify the compliance of the measure with the conditions laid down in Article 11(6);
+
+(vii) describe the flows of information among the actors involved;
+
+(d) describe reporting obligations imposed on natural gas undertakings.
+
+**3\. Specific measures for the electricity and district heating**
+
+(a) district heating
+
+(i) briefly indicate the likely impact of a disruption of gas supply in the district heating sector;
+
+(ii) indicate measures and actions to be taken to mitigate the potential impact of a disruption of gas supply on district heating. Alternatively, indicate why the adoption of specific measures is not appropriate;
+
+(b) supply of electricity generated from gas
+
+(i) briefly indicate the likely impact of a disruption of gas supply in the electricity sector;
+
+(ii) indicate measures and actions to be taken to mitigate the potential impact of a disruption of gas supply on the electricity sector. Alternatively, indicate why the adoption of specific measures is not appropriate;
+
+(iii) indicate the mechanisms/existing provisions to ensure appropriate coordination, including exchange of information, between main actors in the gas and electricity sectors, in particular transmission system operators at different crisis levels.
+
+**4\. Crisis manager or team**
+
+Indicate who the crisis manager is and define its role.
+
+**5\. Roles and responsibilities of different actors**
+
+(a) per crisis level, define the roles and responsibilities, including interactions with the competent authorities and, where appropriate, with the national regulatory authority, of:
+
+(i) natural gas undertakings;
+
+(ii) industrial customers;
+
+(iii) relevant electricity producers;
+
+(b) per crisis level, define the role and responsibilities of the competent authorities and the bodies to which tasks have been delegated.
+
+**6\. Measures regarding undue consumption by customers who are not protected customers**
+
+Describe measures in place to prevent to the extent possible and without endangering the safe and reliable operation of the gas system or creating unsafe situations, the consumption by customers who are not protected customers of gas supply intended for protected customers during an emergency. Indicate the nature of the measure (administrative, technical, etc.), main actors and the procedures to follow.
+
+**7\. Emergency tests**
+
+(a) indicate the calendar for the real time response simulations of emergency situations;
+
+(b) indicate actors involved, procedures and concrete high and medium impact scenarios simulated.
+
+For the updates of the emergency plan: describe briefly the tests carried out since the last emergency plan was presented and the main results. Indicate which measures have been adopted as a result of those tests.
+
+**8\. Regional Dimension**
+
+**8.1. Measures to be adopted per crisis level:**
+
+8.1.1. Early Warning
+
+Describe the measures to be applied at this stage, indicating, per measure:
+
+(i) brief description of the measure and main actors involved;
+
+(ii) describe the procedure to follow, if applicable;
+
+(iii) indicate the expected contribution of the measure to cope with the impact of any event or prepare ahead of its appearance;
+
+(iv) describe the flows of information among the actors involved.
+
+8.1.2. Alert Level
+
+(a) describe the measures to be applied at this stage, indicating, per measure:
+
+(i) brief description of the measure and main actors involved;
+
+(ii) describe the procedure to follow, if applicable;
+
+(iii) indicate the expected contribution of the measure to cope with the impact of any event or prepare ahead of its appearance;
+
+(iv) describe the flows of information among the actors involved;
+
+(b) describe the reporting obligations imposed on natural gas undertakings at alert. level.
+
+8.1.3. Emergency Level
+
+(a) establish a list of predefined actions on the supply and demand side to make gas available in the event of an emergency, including commercial agreements between the parties involved in such actions and the compensation mechanisms for natural gas undertakings where appropriate;
+
+(b) describe the market-based measures to be applied at this stage, indicating, per measure:
+
+(i) brief description of the measure and main actors involved;
+
+(ii) describe the procedure to follow;
+
+(iii) indicate the expected contribution of the measure to mitigate the situation at emergency level;
+
+(iv) describe the flows of information among the actors involved;
+
+(c) describe the non-market-based measures planned or to be implemented for the emergency level, indicating, per measure:
+
+(i) brief description of the measure and main actors involved;
+
+(ii) provide an assessment of the necessity of such measure in order to cope with a crisis, including the degree of its use;
+
+(iii) describe in detail the procedure to implement the measure (e.g. what would trigger the introduction of the measure, who would take the decision);
+
+(iv) indicate the expected contribution of the measure to mitigate the situation at emergency level as a complement to market-based measures;
+
+(v) assess other effects of the measure;
+
+(vi) justify the compliance of the measure with the conditions established in Article 11(6);
+
+(vii) describe the flows of information among the actors involved;
+
+(d) describe reporting obligations imposed on natural gas undertakings.
+
+**8.2. Cooperation mechanisms**
+
+(a) describe the mechanisms in place to cooperate within each of the relevant risk groups and to ensure appropriate coordination for each crisis level. Describe, to the extent they exist and have not been covered in point 2, the decision-making procedures for appropriate reaction at regional level at each crisis level;
+
+(b) describe the mechanisms in place to cooperate with other Member States out of the risk groups and to coordinate actions for each crisis level.
+
+**8.3. Solidarity among Member States**
+
+(a) describe the agreed arrangements among directly connected Member States to ensure the application of the solidarity principle referred to in Article 13;
+
+(b) if applicable, describe the agreed arrangements between Members States that are connected to each other via a third country to ensure the application of the solidarity principle referred to in Article 13.
+
+## ANNEX VIII
+
+**List of non-market-based security of gas supply measures**
+
+In developing the preventive action plan and the emergency plan the competent authority shall consider the contribution of the following indicative and non-exhaustive list of measures only in the event of an emergency:
+
+(a) supply-side measures:
+
+— use of strategic gas storage,
+
+— enforced use of stocks of alternative fuels (e.g. in accordance with Council Directive 2009/119/EC ( 25 )),
+
+— enforced use of electricity generated from sources other than gas,
+
+— enforced increase of gas production levels,
+
+— enforced storage withdrawal;
+
+(b) demand-side measures:
+
+— various steps of compulsory demand reduction including:
+
+— enforced fuel switching,
+
+— enforced utilisation of interruptible contracts, where not fully utilised as part of market-based measures,
+
+— enforced firm load shedding.
+
+## ANNEX IX
+
+**Correlation table**
+
+| Regulation (EU) No 994/2010 | This Regulation |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2 | Article 2 |
+| Article 3 | Article 3 |
+| Article 6 | Article 5 |
+| Article 8 | Article 6 |
+| Article 9 | Article 7 |
+| Article 4 | Article 8 |
+| Article 5 | Article 9 |
+| Article 10 | Article 10 |
+| Article 10 | Article 11 |
+| Article 11 | Article 12 |
+| — | Article 13 |
+| Article 13 | Article 14 |
+| Article 12 | Article 4 |
+| — | Article 15 |
+| — | Article 16 |
+| Article 14 | Article 17 |
+| — | Article 18 |
+| — | Article 19 |
+| Article 16 | Article 20 |
+| Article 15 | Article 21 |
+| Article 17 | Article 22 |
+| Annex I | Annex II |
+| Article 7 | Annex III |
+| Annex IV | Annex I |
+| — | Annex IV |
+| — | Annex V |
+| — | Annex VI |
+| — | Annex VII |
+| Annex II | — |
+| Annex III | Annex VIII |
+| — | Annex IX |
+
+( 1 ) Directive (EU) 2024/1788 of the European Parliament and of the Council of 13 June 2024 on common rules for the internal markets in renewable gas, natural gas and hydrogen, amending Directive (EU) 2023/1791 and repealing Directive 2009/73/EC (OJ L, 2024/1788, 15.7.2024, ELI: http://data.europa.eu/eli/dir/2024/1788/oj).
+
+( 2 ) Regulation (EU) No 347/2013 of the European Parliament and of the Council of 17 April 2013 on guidelines for trans-European energy infrastructure and repealing Decision No 1364/2006/EC and amending Regulation (EC) No 713/2009, (EC) No 714/2009 and (EC) No 715/2009 (OJ L 115, 25.4.2013, p. 39).
+
+( 3 ) Commission Regulation (EU) 2017/459 of 16 March 2017 establishing a network code on capacity allocation mechanisms in gas transmission systems and repealing Regulation (EU) No 984/2013 (OJ L 72, 17.3.2017, p. 1).
+
+( 4 ) Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).
+
+( 5 ) Regulation (EU) 2022/869 of the European Parliament and of the Council of 30 May 2022 on guidelines for trans-European energy infrastructure, amending Regulations (EC) No 715/2009, (EU) 2019/942 and (EU) 2019/943 and Directives 2009/73/EC and (EU) 2019/944, and repealing Regulation (EU) No 347/2013 (OJ L 152, 3.6.2022, p. 45).
+
+( 6 ) Council Regulation (EU) 2022/2576 of 19 December 2022 enhancing solidarity through better coordination of gas purchases, reliable price benchmarks and exchanges of gas across borders (OJ L 335, 29.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2576/oj).
+
+( 7 ) Directive (EU) 2022/2555 of the European Parliament and of the Council of 14 December 2022 on measures for a high common level of cybersecurity across the Union, amending Regulation (EU) No 910/2014 and Directive (EU) 2018/1972, and repealing Directive (EU) 2016/1148 (NIS 2 Directive)(OJ L 333, 27.12.2022, p. 80).
+
+( 8 ) Regulation (EU) 2026/261 of the European Parliament and of the Council of 26 January 2026 on phasing out Russian natural gas imports and preparing the phase-out of Russian oil imports, improving monitoring of potential energy dependencies and amending Regulation (EU) 2017/1938 (OJ L, 2026/261, 2.2.2026, ELI: http://data.europa.eu/eli/reg/2026/261/oj).
+
+( 9 ) Where this task has been delegated by any competent authority, indicate the name of the body/(ies) responsible for the preparation of the present risk assessment on its behalf.
+
+( 10 ) For the first assessment, include data from the last two years. For updates, include data from the last four years.
+
+( 11 ) Including industrial customers, electricity generation, district heating, residential and services and other (please specify the type of customers included here). Indicate as well the volume of consumption of protected customers.
+
+( 12 ) Describe the methodology applied.
+
+( 13 ) Where this task has been delegated by the competent authority, indicate the name of the body/(ies) responsible for the preparation of the present risk assessment on its behalf.
+
+( 14 ) For the sake of simplicity, present the information at the highest level of the risk groups if possible and merge details as necessary.
+
+( 15 ) For the first assessment, include data from the last two years. For updates, include data from the last four years.
+
+( 16 ) Including industrial customers, electricity generation, district heating, residential and services and other (specify the type of customers included here). Indicate as well the volume of consumption of protected customers.
+
+( 17 ) Describe the methodology applied.
+
+( 18 ) Where this task has been delegated by any competent authority, indicate the name of the body/(ies) responsible for the preparation of this plan on its behalf.
+
+( 19 ) For the sake of simplicity, present the information at the highest level of the risk groups if possible and merge details as necessary
+
+( 20 ) For the first plan, include data from the last two years. For updates, include data from the last four years.
+
+( 21 ) Including industrial customers, electricity generation, district heating, residential and services and other (please specify the type of customers included here).
+
+( 22 ) Describe the methodology applied.
+
+( 23 ) Where this task has been delegated by any competent authority, please indicate the name of the body/(ies) responsible for the preparation of this plan on its behalf.
+
+( 24 ) Include regional and national measures.
+
+( 25 ) Council Directive 2009/119/EC of 14 September 2009 imposing an obligation on Member States to maintain minimum stocks of crude oil and/or petroleum products (OJ L 265, 9.10.2009, p. 9).

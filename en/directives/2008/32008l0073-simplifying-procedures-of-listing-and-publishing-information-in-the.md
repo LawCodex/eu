@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>COUNCIL DECISION of 5 May 2009</td><td> L 145</td><td>43</td><td>10.6.2009</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2008/73/EC**
 

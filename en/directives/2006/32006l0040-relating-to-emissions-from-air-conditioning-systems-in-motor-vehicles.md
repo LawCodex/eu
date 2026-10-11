@@ -240,10 +240,12 @@ Directive 70/156/EEC is amended as follows:
 
 1\. In Annex IV, part I, a new item numbered 61, and footnote, is inserted as follows:
 
+<table>
 <tbody><tr><td rowspan="2">Subject</td><td rowspan="2">Directive No</td><td rowspan="2">Official Journal reference</td><td colspan="10">Applicability</td></tr>
 <tr><td>M1</td><td>M2</td><td>M3</td><td>N1</td><td>N2</td><td>N3</td><td>O1</td><td>O2</td><td>O3</td><td>O4</td></tr>
 <tr><td>‘61. Air-conditioning system</td><td>(2006/40/EC)</td><td>L 161, 14.6.2006, p. 12</td><td>X</td><td></td><td></td><td>X (8)</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 2\. Annex XI is amended as follows:
 

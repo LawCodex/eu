@@ -1,0 +1,67 @@
+---
+title: "Commission Regulation (EC) No 865/97 of 14 May 1997 fixing an export tax on cereal products"
+identifier: "31997R0865"
+eli: "http://data.europa.eu/eli/reg/1997/865/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1997-05-14
+entry_into_force: 1997-04-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:31997R0865"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 865/97 of 14 May 1997 fixing an export tax on cereal products
+
+COMMISSION REGULATION (EC) No 865/97 of 14 May 1997 fixing an export tax on cereal products
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 1766/92 of 30 June 1992 on the common organization of the market in cereals (1), as last amended by Commission Regulation (EC) No 923/96 (2), and in particular Article 16 thereof,
+
+Whereas Article 16 of Regulation (EC) No 1766/92 provides that where quotations or prices on the world market for certain products reach the level of Community prices and such situation is likely to continue and deteriorate thereby disturbing or threatening to disturb the Community market, appropriate measures may be taken; whereas Article 15 of Commission Regulation (EC) No 1501/95 (3), as last amended by Regulation (EC) No 95/96 (4), provides that where such conditions are met, an export tax may be fixed and may vary according to the destination;
+
+Whereas prices on the world market for common wheat and durum wheat have reached the level of those in the Community and the trend in those prices is that they will increase; whereas this situation is likely to lead to an excessive export of common wheat, flour of common wheat and spelt and flour of meslin, groats and meal of common wheat and spelt, as well as durum wheat, flour of durum wheat and groats and meal of durum wheat from the Community; whereas it has therefore been decided to apply an export tax to these products at a level which will avoid disturbance to the Community market;
+
+Whereas Commission Regulation (EEC) No 120/89 (5), as last amended by Regulation (EC) No 2194/96 (6), and in particular Article 3 thereof, is applicable;
+
+Whereas the Management Committee for Cereals has not delivered an opinion within the time-limit set by its Chairman,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The export tax referred to in Article 15 of Regulation (EC) No 1501/95 is fixed at the level set out in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 14 May 1997.
+
+For the Commission
+
+Franz FISCHLER
+
+Member of the Commission
+
+(1) OJ No L 181, 1. 7. 1992, p. 21.
+
+(2) OJ No L 126, 24. 5. 1996, p. 37.
+
+(3) OJ No L 147, 30. 6. 1995, p. 7.
+
+(4) OJ No L 18, 24. 1. 1996, p. 10.
+
+(5) OJ No L 16, 20. 1. 1989, p. 19.
+
+(6) OJ No L 293, 16. 11. 1996, p. 3.
+
+## ANNEX
+
+>TABLE>

@@ -1,0 +1,739 @@
+---
+title: "Commission Delegated Regulation (EU) No 1042/2014 of 25 July 2014 supplementing Regulation (EU) No 514/2014 with regard to the designation and management and control responsibilities of Responsible Authorities and with regard to status and obligations of Audit Authorities"
+identifier: "32014R1042"
+eli: "http://data.europa.eu/eli/reg_del/2014/1042/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2014-07-25
+entry_into_force: 2013-08-15
+last_amended: 2018-10-16
+consolidated_version: "02014R1042-20181016"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R1042-20181016"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) No 1042/2014 of 25 July 2014 supplementing Regulation (EU) No 514/2014 with regard to the designation and management and control responsibilities of Responsible Authorities and with regard to status and obligations of Audit Authorities
+
+**COMMISSION DELEGATED REGULATION (EU) No 1042/2014**
+
+**of 25 July 2014**
+
+**supplementing Regulation (EU) No 514/2014 with regard to the designation and management and control responsibilities of Responsible Authorities and with regard to status and obligations of Audit Authorities**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2018/1291 of 16 May 2018 </td><td> L 241</td><td>1</td><td>26.9.2018</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) No 1042/2014**
+
+**of 25 July 2014**
+
+**supplementing Regulation (EU) No 514/2014 with regard to the designation and management and control responsibilities of Responsible Authorities and with regard to status and obligations of Audit Authorities**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Definitions
+
+For the purposes of this Regulation, the definitions in Regulation (EU) No 514/2014 shall apply. The following definitions shall also apply:
+
+(a) ‘designating authority’ means the ministerial authority of a Member State referred to in Article 26(1) of Regulation (EU) No 514/2014 that designates the Responsible Authority;
+
+(b) ‘competent authorities’ means the Responsible Authority, the Audit Authority and, where appropriate, the Delegated Authority referred to in Article 25(1) of Regulation (EU) No 514/2014;
+
+(c) ‘SFC2014’ means the electronic information system established by Article 2 of Commission Implementing Regulation (EU) No 802/2014 ( 1 );
+
+(d) ‘grant agreement’ means an agreement or an equivalent form of legal instrument on the basis of which the Responsible Authority provides grants to the beneficiary for the purpose of implementing a project under the national programme.
+
+## CHAPTER II — THE RESPONSIBLE AUTHORITY
+
+### SECTION I — Designation of the responsible authority
+
+#### Article 2 — Criteria and procedure for designating the Responsible Authority
+
+1\. The body to be designated as the Responsible Authority shall have an administrative organisation and a system of internal control that comply with the criteria set out in the Annex to this Regulation (‘the designation criteria’). The designation criteria concern:
+
+(a) internal environment,
+
+(b) control activities;
+
+(c) internal information and communication;
+
+(d) internal monitoring and reporting.
+
+Member States may lay down further designation criteria to take account of the size, responsibilities and other characteristics of the Responsible Authority.
+
+2\. The audit body referred to in Article 26(3) of Regulation (EU) No 514/2014 shall assess whether the prospective Responsible Authority complies with the designation criteria in the Annex and shall document its audit findings, conclusions and opinion in an audit report addressed to the designating authority.
+
+3\. If the designating authority is not satisfied that the prospective Responsible Authority complies with the designation criteria, it shall give this body specific instructions to remedy its non-compliances and a deadline for compliance before it may be designated as the Responsible Authority.
+
+Pending compliance, the body may be granted provisional designation as Responsible Authority for no more than 12 months. The length of this provisional period shall be proportionate to the non-compliances identified.
+
+4\. Upon designating the Responsible Authority, the Member State shall notify the Commission without delay through SFC 2014. With this notification, the Member State shall transmit documentation setting out:
+
+(a) the main division of responsibilities between the organisational units of the Responsible Authority;
+
+(b) where appropriate, its relationship with delegated authorities, the activities to be delegated, and the main procedures for supervising these delegated activities; and
+
+(c) a summary of the main procedures for processing financial claims from beneficiaries and for authorising and recording expenditure.
+
+#### Article 3 — Supervision of the Responsible Authority and review of the designation
+
+1\. The designating authority shall supervise the Responsible Authority, in particular on the basis of the information referred to in Article 14(2) of this Regulation, and shall follow up any deficiencies identified.
+
+2\. Member States shall ensure that information indicating that the Responsible Authority no longer complies with the designation criteria is reported to the designating authority without delay.
+
+3\. When the Responsible Authority no longer fully complies with the designation criteria, or its system of internal control is so deficient as to undermine its ability to fulfil its tasks, the designating authority shall put the Responsible Authority on probation. In such cases, the designating authority shall draw up a remedial plan for the Responsible Authority to implement within a period commensurate with the seriousness of the non-compliance or deficiency. This period shall not exceed 12 months from the start of the probation period.
+
+4\. The designating authority shall promptly inform the Commission of any remedial plan drawn up pursuant to paragraph 3 and keep the Commission informed about its progress.
+
+5\. If Responsible Authority designation is ended, the designating authority shall promptly designate another Responsible Authority in accordance with Article 26 of Regulation (EU) No 514/2014 and Article 2 of this Regulation to ensure that payments to beneficiaries continue uninterrupted.
+
+6\. Where the Commission finds that a Member State has not complied with its obligation to draw up a remedial plan pursuant to paragraph 3, or that the Responsible Authority retains its designation while failing to implement the remedial plan within the imposed time-limit, the Commission shall address any remaining deficiencies through the conformity clearance procedure provided for in Article 47 of Regulation (EU) No 514/2014.
+
+### SECTION II — Management and control responsibilities of the responsible authority
+
+#### Article 4 — Tasks of the Responsible Authority
+
+The Responsible Authority shall manage and implement the national programme in accordance with the principles of sound financial management. It shall:
+
+(a) consult partners in accordance with Article 12(1) of Regulation (EU) No 514/2014;
+
+(b) ensure the proper functioning of the monitoring committee referred to in Article 12(4) of Regulation (EU) No 514/2014;
+
+(c) submit a proposal to the Commission for the national programme referred to in Article 14 of Regulation (EU) No 514/2014 and any subsequent revisions using SFC2014;
+
+(d) define and establish the eligibility rules for projects and project costs for all activities, ensuring equality of treatment and avoiding any conflicts of interest, in accordance with the principles of sound financial management;
+
+(e) organise and advertise calls for tenders and proposals, and organise and advertise the subsequent selection and award of projects for financing under the national programme, in accordance with the scope and objectives of the Specific Regulations referred to in Article 2(a) of Regulation (EU) No 514/2014 and with the criteria set out in Article 9 of this Regulation;
+
+(f) ensure that there are systems in place to collect the data required to report the common and programme-specific indicators to the Commission, together with other data on the implementation of the programme and projects;
+
+(g) receive payments from the Commission, and make payments to the beneficiaries;
+
+(h) ensure consistency and complementarity between co-financing under the Specific Regulations and other relevant national and Union instruments;
+
+(i) monitor the projects and check that the expenditure declared for projects has actually been incurred and complies with Union and national rules;
+
+(j) ensure that there is a system for recording and storing in computerised form accounting records for each project under the national programme and that the data on implementation necessary for financial management, monitoring, control and evaluation are collected;
+
+(k) without prejudice to national accounting rules, ensure that beneficiaries and other bodies involved in implementing projects financed under the national programme maintain either a separate accounting system or an adequate accounting code for all transactions relating to the project;
+
+(l) ensure that the evaluations of the national programme referred to in Article 56 and Article 57(1) of Regulation (EU) No 514/2014 are carried out within the relevant time limits;
+
+(m) ensure that the independent evaluators receive, for the purposes of carrying out the evaluation referred to in Article 56 and Article 57(1) of Regulation (EU) No 514/2014 and formulating the evaluation opinion, all necessary information on the management of the national programme;
+
+(n) set up procedures to ensure that all documents regarding expenditure, decisions and control activities have the required audit trail and are held in accordance with the Commission Implementing Regulations adopted on the basis of Article 27(5) of Regulation (EU) No 514/2014.
+
+(o) ensure that the Audit Authority receives, for the purposes of carrying out the audits referred to in Article 29 of Regulation (EU) No 514/2014 and formulating the audit opinion, all necessary information on the management and control procedures applied and expenditure financed under the Specific Regulations;
+
+(p) draw up the implementation reports referred to in Article 54 of Regulation (EU) No 514/2014 and the evaluation reports referred to in Article 57(1) of Regulation (EU) No 514/2014 and submit them to the Commission using SFC2014;
+
+(q) draw up the request for payment in accordance with Article 44 of Regulation (EU) No 514/2014, and submit it to the Commission using SFC2014;
+
+(r) carry out information and publicity activities and disseminate the programme's results, in accordance with Article 53 of Regulation (EU) No 514/2014;
+
+(s) carry out administrative controls and on-the-spot controls in accordance with Article 27 of Regulation (EU) No 514/2014;
+
+(t) cooperate with the Commission and the Responsible Authorities in other Member States; and
+
+(u) respond to the findings of the Audit Authority either by addressing them or, where the findings of the Audit Authority are not accepted, by providing a detailed justification.
+
+#### Article 5 — Delegated Authority
+
+1\. The Responsible Authority may delegate some or all of its tasks to a delegated authority in accordance with Article 25(1)(c) of Regulation (EU) No 514/2014. Any delegation of tasks shall comply with the principles of sound financial management, and shall ensure compliance with the principle of non-discrimination and the visibility of Union funding. The delegated tasks shall not give rise to conflicts of interest.
+
+Where authorised by the Responsible Authority, the Delegated Authority may act as executing body as referred to in Article 8.
+
+2\. The scope of the tasks delegated by the Responsible Authority to the Delegated Authority and the detailed procedures for fulfilling them shall be set out in a document signed by the Responsible Authority and the Delegated Authority. This Act of Delegation shall mention at least:
+
+(a) the relevant Specific Regulation;
+
+(b) the task(s) delegated to the Delegated Authority, including where applicable, the projects for which the Delegated Authority may act as executing body as referred to in Article 8;
+
+(c) the obligation of the Delegated Authority to verify the beneficiaries' compliance with Union and national rules;
+
+(d) the obligation of the Delegated Authority to put in place and to maintain an organisation structure and a management and control system suited to its duties;
+
+(e) the information and the supporting documents the Delegated Authority is to submit to the Responsible Authority and the time limits it is to observe; and
+
+(f) the Responsible Authority's mechanism for supervising the Delegated Authority.
+
+3\. Pursuant to Article 25(1)(a) of Regulation (EU) No 514/2014, communication with the Commission shall not be delegated. The Delegated Authority shall communicate with the Commission via the Responsible Authority.
+
+4\. If the Delegated Authority is not a public administration or a private body with a public service mission governed by national law, the Responsible Authority shall not delegate to it executive powers that involve a large measure of discretion implying political choices.
+
+5\. The Responsible Authority shall remain responsible for the tasks it has delegated. The Responsible Authority shall regularly review the delegated tasks to confirm that the work performed is satisfactory and in compliance with Union and national rules.
+
+6\. For delegated tasks, this Regulation shall apply to the Delegated Authority by analogy.
+
+#### Article 6 — Outsourcing tasks
+
+The Responsible Authority may outsource some of its tasks. It shall, however, remains responsible for them.
+
+The Responsible Authority shall regularly review the outsourced tasks to confirm that the work performed is satisfactory and in compliance with Union and national rules.
+
+### SECTION III — Obligations of the Responsible Authority as regards public intervention
+
+#### Article 7 — The role of the Responsible Authority as awarding body
+
+1\. As a general rule, the Responsible Authority shall award grants for projects under the national programme on the basis of open calls for proposals.
+
+2\. The Responsible Authority may award grants for projects on the basis of a restricted call for proposals.
+
+Restricted calls for proposals are open only to selected organisations because of the specific nature of the project or the technical or administrative competence of the bodies invited to submit proposals.
+
+The grounds justifying the use of a restricted call for proposals shall be set out in the call for proposals.
+
+3\. The Responsible Authority may award grants directly where the specific nature of the project or the technical or administrative competence of the relevant bodies leaves no other choice, such as in the case of de jure or de facto monopolies.
+
+The grounds justifying the use of a direct award shall be set out in the award decision.
+
+4\. In duly justified cases, including continuation of multiannual projects which were selected after a previous call for proposals or in emergency situations, grants may be awarded without a call for proposals.
+
+The grounds justifying that the grant was awarded without a call for proposals shall be set out in the award decision.
+
+5\. When the Responsible Authority acts as an awarding body, neither the Responsible Authority nor any Delegated Authority may be a beneficiary of a grant awarded in accordance with this Article.
+
+6\. The Responsible Authority shall determine who awards grants and shall ensure that conflicts of interest are avoided, in particular when the applicants are national bodies.
+
+#### Article 8 — Conditions under which the Responsible Authority acts as executing body
+
+1\. The Responsible Authority may decide to implement projects directly, either alone or in association with any other national authority, because of administrative powers, technical expertise, or because the characteristics of the project leaves no other choice for the implementation, such as a de jure monopoly or security requirements. In such cases, the Responsible Authority shall be the beneficiary of the grant.
+
+2\. The Responsible Authority's reasons for acting as executing body and selecting any associated national authorities as described in paragraph 1 shall be reported to the Commission in the annual implementation report referred to in Article 54 of Regulation (EU) No 514/2014.
+
+3\. When implementing projects as an executing body, the Responsible Authority shall observe the principle of value for money and prevent conflicts of interest.
+
+4\. The administrative decision to co-finance a project under the national programme shall include any information necessary to monitor the implementation of co-financed products and services and to check the expenditure incurred.
+
+5\. If the Responsible Authority is likely to act as executing body on a regular basis:
+
+(a) the Responsible Authority and the Audit Authority shall not be part of the same body, unless the Audit Authority reports to an outside body and its audit independence is guaranteed; and
+
+(b) the tasks of the Responsible Authority as set out in Article 4 shall not be affected.
+
+#### Article 9 — Selection and award procedure
+
+1\. The calls for proposals referred to in Article 7(1) shall be publicised in a way that ensures open competition and appropriate publicity among potential beneficiaries. Any substantial change to the calls shall be publicised in the same way.
+
+The calls for proposals referred to in Article 7(1) and (2) shall specify at least the following:
+
+(a) objectives;
+
+(b) selection and award criteria;
+
+(c) arrangements for Union and, if applicable, national financing, including, where applicable, the possibility to apply a higher co-financing rate in accordance with Article 16(5) of Regulation (EU) No 514/2014;
+
+(d) arrangements and final date for submission of the proposals;
+
+(e) eligibility rules for the expenditure;
+
+(f) project duration; and
+
+(g) financial and other information to be kept and reported.
+
+2\. Before the award decision is taken, the Responsible Authority shall satisfy itself that the beneficiaries in the project have the capacity to meet the selection and award criteria.
+
+3\. The Responsible Authority shall define the procedures for the receipt of proposals. It shall subject proposals to a formal, technical and budgetary analysis and qualitative assessment applying the criteria laid down in the call for proposals in a transparent and non-discriminatory manner. The Responsible Authority shall record in writing the reasons for the rejection of the other proposals.
+
+4\. The award decision shall indicate at least the name of the beneficiaries, the essential details of the project and its operational objectives, the maximum amount of Union contribution and the maximum rate of co-financing of the total eligible costs.
+
+5\. The Responsible Authority shall inform all applicants of its decision in writing. It shall give unsuccessful candidates the reasons for their rejection with reference to the selection and award criteria.
+
+#### Article 10 — Documents formalising grants when the Responsible Authority acts as awarding body
+
+1\. In cases where the Responsible Authority acts as awarding body, it shall lay down project management procedures which require, at least to:
+
+(a) sign grant agreements with beneficiaries and
+
+(b) monitor the grant agreements, including any amendments thereto, by administrative means such as exchanges of correspondence or written reports.
+
+2\. The grant agreement shall include or indicate the following:
+
+(a) maximum amount of Union contribution;
+
+(b) maximum percentage of Union contribution in accordance with the relevant Specific Regulation;
+
+(c) detailed description and timetable of the project;
+
+(d) if applicable, any major task that the beneficiary intends to subcontract to third parties, together with the related costs;
+
+(e) agreed forward budget and financing plan for the project, including expenditure and income, in accordance with the eligibility rules established;
+
+(f) method for calculating the amount of Union contribution upon the project's closure;
+
+(g) timetable and implementing provisions of the agreement, including provisions on reporting obligations, amendments to the agreement and termination of the agreement;
+
+(h) operational objectives of the project, including quantified objectives and the indicators to be reported on;
+
+(i) provision requiring the beneficiary to collect, in a timely manner, the requisite data for the common indicators set out in the Specific Regulation, and any programme-specific indicators, and to report these data at least once a year;
+
+(j) definition of the eligible costs, including, where applicable, a description of the methodology for determining scale-of-unit costs, lump sums and flat-rate financing;
+
+(k) bookkeeping requirements and conditions relating to payment of the grant;
+
+(l) conditions relating to the audit trail;
+
+(m) provisions relating to data protection and
+
+(n) provisions relating to publicity.
+
+3\. As a general rule, the grant agreement shall be signed before any of the project activities charged to the national programme begin.
+
+4\. The grant agreement shall expressly stipulate that the Commission, or its representatives, and the Court of Auditors exercise powers of audit over all grant beneficiaries, contractors and sub-contractors who receive Union funding under the national programme, and will do so on the basis of documentary and on-the-spot controls.
+
+#### Article 11 — Documents formalising grants when the Responsible Authority acts as executing body
+
+1\. In cases where the Responsible Authority acts as executing body, it shall lay down project management procedures which require at least to:
+
+(a) formalise an administrative decision to co-finance projects and
+
+(b) monitor the administrative decision and any amendments thereto by administrative means such as exchanges of correspondence or written reports.
+
+2\. The administrative decision shall include or indicate the following:
+
+(a) maximum amount of Union contribution;
+
+(b) maximum percentage of Union contribution in accordance with the relevant Specific Regulation;
+
+(c) detailed description and timetable of the project;
+
+(d) if applicable, any major task that the beneficiary intends to subcontract to third parties, together with the related costs;
+
+(e) agreed forward budget and financing plan for the project, including expenditure and income, in accordance with the eligibility rules established;
+
+(f) method for calculating the amount of Union contribution upon the project's closure;
+
+(g) operational objectives of the project, including quantified objectives and the indicators to be used;
+
+(h) provision requiring the Responsible Authority to collect, and report at least once a year, the requisite data for the common indicators set out in the Specific Regulation, and any programme-specific indicators, and to report these data at least once a year;
+
+(i) definition of the eligible costs, including, where applicable, a description of methodology for determining scale-of-unit costs, lump sums and flat-rate financing;
+
+(j) bookkeeping requirements and conditions relating to payment of the grant;
+
+(k) conditions relating to the audit trail;
+
+(l) provisions relating to data protection and
+
+(m) provisions relating to publicity.
+
+3\. As a general rule, the administrative decision shall be taken before any of the project activities charged to the national programme begin.
+
+4\. The administrative decision shall expressly stipulate that the Commission, or its representatives, and the Court of Auditors exercise powers of audit over all grant beneficiaries, contractors and sub-contractors who receive Union funding under the national programme, and will do so on the basis of documentary and on-the-spot controls.
+
+## CHAPTER III — STATUS OF THE AUDIT AUTHORITY AND OBLIGATIONS WITH REGARDS TO AUDITS
+
+#### Article 12 — Status of the Audit Authority
+
+1\. In accordance with the second subparagraph of Article 59(5) of Regulation (EU, Euratom) No 966/2012 and with Article 25(1)(b) of Regulation (EU) No 514/2014, the Audit Authority shall function independently from the Responsible Authority. Functional independence shall be deemed to exist when there is no direct hierarchical relation between the Audit Authority and the Responsible Authority, and the Audit Authority has full autonomy in its opinions and declarations.
+
+2\. All audit work shall be carried out in accordance with internationally accepted audit standards.
+
+#### Article 13 — Outsourcing audit work
+
+The Audit Authority may outsource part of its audit work to another audit body, provided that this body is functionally independent from the Responsible Authority. The Audit Authority shall remain responsible for the work it outsources.
+
+Outsourced audits shall be carried out in accordance with internationally accepted audit standards and under the close monitoring and supervision of the Audit Authority.
+
+#### Article 14 — Audits
+
+1\. To deliver the opinion referred to in the second subparagraph of Article 59(5) of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council ( 2 ), the Audit Authority shall conduct system audits, audits of expenditure and audits of accounts.
+
+2\. System audits shall verify whether the Responsible Authority's management and control system has functioned effectively so as to give reasonable assurance that the financial data included in the request for payment of the annual balance submitted to the Commission in accordance with Article 44 of Regulation (EU) No 514/2014 is legal and regular.
+
+Based on these system audits, the Audit Authority shall verify the compliance with the key requirements set out in Annex to Commission Implementing Regulation (EU) 2015/378 ( 3 ) and whether the Responsible Authority continues to comply with the designation criteria set out in Annex I to the present Regulation.
+
+3\. Audits of expenditure shall be carried out in respect of each financial year on an appropriate sample drawn from the financial data considered eligible by the Responsible Authority (‘the draft accounts’) after completion of all its controls referred to in Article 27 of Regulation (EU) No 514/2014 and Commission Implementing Regulation (EU) 2015/840 ( 4 ).
+
+The financial data shall comprise all types of payments made by the Responsible Authority during a financial year as defined in Article 38 of Regulation (EU) No 514/2014, including advance payments, interim payments, final payments and payments relating to technical assistance and operating support. The financial data shall also comprise, for the Asylum, Migration and Integration Fund, the number of persons relocated, resettled, transferred or legally admitted.
+
+Audits of expenditure shall:
+
+— be carried out on the basis of supporting documents constituting the audit trail and shall verify the legality and regularity of the financial data in the draft accounts,
+
+— where applicable, include on-the-spot verification of the expenditure incurred by the beneficiaries, including mutatis mutandis for payments made under technical assistance and operating support,
+
+— where applicable, include verification of compliance with the requirements set for persons relocated in accordance with Council Decisions (EU) 2015/1523 and 2015/1601, resettled in accordance with Article 17 of Regulation (EU) No 516/2014, transferred in accordance with Article 18 of Regulation (EU) No 516/2014 and legally admitted in accordance with Council Decisions (EU) 2015/1601, for which a lump sum is claimed,
+
+— verify the accuracy and completeness of the payments to beneficiaries and recorded by the Responsible Authority in its accounting system and the reconciliation of the audit trail at all levels.
+
+When the Audit Authority detects an error rate in the draft accounts that is material or problems detected appear to be systemic in nature and therefore entail a risk for other payments funded by the national programme, the Audit Authority shall ensure further examination, including, where necessary, additional audits to establish the scale of the problems. The maximum materiality level shall be 2 % of the Union contribution of the financial data in the ‘draft accounts’.
+
+The Audit Authority shall recommend the necessary corrective actions to the Responsible Authority, including where applicable, flat rate financial corrections in line with Commission Implementing Regulation (EU) 2015/378. The Audit Authority shall report the results of the audits of expenditure and the associated recommendations and corrective measures in the annual control report referred to in Article 14(8).
+
+4\. The Audit Authority shall establish the method for the selection of the appropriate sample (‘the sampling method’) in accordance with internationally accepted auditing standards. The sampling method shall enable the Audit Authority to estimate the total error rate in the ‘draft accounts’ for the financial year.
+
+The Audit Authority shall document, in the annual control report referred to in Article 14(8), its professional judgment used to establish the statistical or non-statistical sampling method and the applicable sampling parameters. The Audit Authority shall keep records of the sampling methodology applied covering the planning, selection, testing and evaluation stages, in order to demonstrate that the selected sampling method is suitable.
+
+When statistical sampling methods cannot be used, a non-statistical sampling method may be used on the professional judgment of the Audit Authority. Any non-statistical sampling method shall provide for a random selection of the sample items and cover a minimum of 10 % of the value of the financial data included in the ‘draft accounts’.
+
+The sampling method chosen and the sample size shall allow the Audit Authority to draw conclusions on the total population from which the sample was drawn.
+
+For this purpose and if applicable, the Audit Authority may stratify the financial data by dividing into strata, each of which is a group of sampling units which have similar characteristics.
+
+When the audit sample includes interim payments and/or final payments clearing advance payments declared in the accounts of previous financial years, these advance payments shall fall within the scope of the audit of expenditure.
+
+However, for reporting in Table 10.2 ‘Results of audits of expenditure’ in the annual control report referred to in Article 14.8, the error rates and audit coverage shall be calculated solely on the basis of the audit sample drawn from the financial data in the ‘draft accounts’ of the current financial year.
+
+5\. Audits on accounts shall be carried out to provide reasonable assurance that the annual accounts give a true and fair view of the financial data reported in the request for payment of the annual balance (‘the final accounts’) submitted by the Responsible Authority to the Commission in accordance with Article 44 of Regulation (EU) No 514/2014.
+
+In order to conclude whether the final accounts give a true and fair view, the Audit Authority shall verify that all the financial data and public contributions received and entered in the accounts prepared by the Responsible Authority for the financial year are correctly recorded in the accounting system and correspond to the supporting accounting records maintained by the Responsible Authority. The Audit Authority shall in particular, on the basis of these accounts:
+
+(a) verify that the total amount of financial data reported in the request for payment of the annual balance agrees with the Responsible Authority's accounting system and, if there are differences, that adequate explanations have been documented for the reconciling amounts;
+
+(b) verify that the amounts withdrawn and recovered, the amounts to be recovered and the irrecoverable amounts as at the end of the financial year, correspond to the amounts entered in the accounting system of the Responsible Authority and are supported by documented decisions of the Responsible Authority;
+
+(c) ascertain that the Responsible Authority has performed the administrative and financial and operational on-the-spot controls in compliance with Article 27 of Regulation (EU) No 514/2014 and Commission Implementing Regulation (EU) 2015/840.
+
+The verifications referred to in points (a), (b) and (c) may be carried out on a sample basis.
+
+On the basis of the total error rate determined by the audits of expenditure and the results of the audit of accounts, the Audit Authority shall calculate the residual error rate to deliver the opinion referred to in the second subparagraph of Article 59(5) of Regulation (EU, Euratom) No 966/2012. The calculation of the residual error rate shall be documented in the annual control report referred to in paragraph 8.
+
+6\. If the Audit Authority's audit findings, on completion of all its audit work, suggest material weaknesses in the effective functioning of the Responsible Authority's management and control system, the Audit Authority shall:
+
+(a) assess the financial impact of these weaknesses in line with Commission Implementing Regulation (EU) 2015/378;
+
+(b) make appropriate recommendations to the Responsible Authority for corrective and preventive measures;
+
+(c) monitor the Responsible Authority's implementation of the measures referred in point (b) above and assess whether an action plan to restore the effective functioning of the management and control systems is in place.
+
+7\. Pursuant to Article 3(2), the Audit Authority shall report its findings to the Designating Authority, including whether, in its opinion, the Responsible Authority continues to comply with the designation criteria.
+
+8\. The Audit Authority shall ensure that all information related to its audit activity referred to in paragraphs 1, 2, 3, 4, 5, 6 and 7 is adequately reported to the Commission. For this purpose, the Audit Authority shall draw up an annual control report setting out the main findings of its audit work. The annual control report shall be drawn up in accordance with the model set out in Annex to this Regulation and shall be sent to the Commission via the electronic data exchange system referred to in Article 2 of Commission Implementing Regulation (EU) No 802/2014. The annual control report shall be sent to the Commission no later than 3 working days after the Responsible Authority submits the request for payment of the annual balance to the Commission in accordance with Article 44 of Regulation (EU) No 514/2014.
+
+## CHAPTER IV — FINAL PROVISION
+
+#### Article 15 — Entry into force
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX — Designation criteria for the Responsible Authority
+
+**1\. Internal Environment**
+
+**(A) Organisational structure**
+
+(1) Organisational structure allowing the Responsible Authority to execute its tasks set out in Article 4.
+
+(2) Organisational structure, defined in an organisation chart, which shows a clear assignment of roles and responsibilities.
+
+**(B) Human resources standards**
+
+(1) Appropriate human resources to carry out the tasks described in Article 4.
+
+(2) Segregation of duties so that no member of staff has responsibility for more than one of authorising, paying or accounting for sums charged to the national programme, and no member of staff performs one of those tasks without being supervised by a second member of staff.
+
+(3) Written definition of the responsibilities of each member of staff, including limits on his or her financial authority.
+
+(4) Appropriate staff training.
+
+(5) Procedures to avoid conflicts of interest, including where a member of staff occupying a position of responsibility or a sensitive position with regard to verification, authorisation, payment and accounting of claims also fulfils other functions outside the Responsible Authority.
+
+**2\. Control Activities**
+
+**(A) Selection of projects**
+
+(1) Procedures regarding the selection and award of grants in accordance with Article 9.
+
+(2) Procedures regarding the content and signature of grant agreements and administrative decisions in accordance with Articles 10 and 11.
+
+**(B) Procedures for administrative and on-the-spot controls**
+
+(1) Procedures for informing the management of the Responsible Authority at an appropriate level, on a regular and timely basis of the results of controls carried out, in order to allow for the revision of the control strategy and internal control procedures when systemic deficiencies are identified or as needed.
+
+(2) Description of the sampling method used when administrative or on-the-spot controls are not exhaustive but performed on a sample basis, and a procedure to report discrepancies and irregularities.
+
+(3) Where documents (in paper or electronic form) relating to the controls carried out on financial claims are retained by other bodies, procedures set up by those bodies and the Responsible Authority to ensure that the Responsible Authority has access to these documents.
+
+**(C) Procedures for authorising payment of financial claims submitted by a beneficiary**
+
+(1) Procedures to ensure the monitoring of the implementation of grant agreements, administrative decisions and contracts according to the contractual terms and conditions.
+
+(2) Procedures for the receipt, recording and processing of financial claims submitted by a beneficiary, defining notably the description of the documents to be used and the procedure for reviewing the work carried out.
+
+(3) Checklist of the verifications required by each member of staff responsible for authorisation, including a review of the work carried out.
+
+(4) Procedure for authorising payment, including verifying compliance with Union and national rules and including the checks required by Articles 5(2) and 27 of Regulation (EU) No 514/2014 to prevent and detect fraud and irregularity with particular regard to the risks faced.
+
+**(D) Procedures for payment**
+
+(1) Procedures to ensure that payments are made only to bank accounts belonging to the beneficiary and that no payments are made in cash.
+
+(2) Procedures to ensure that all payments for which transfers are not executed are re-credited to the budget of the national programme.
+
+**(E) Procedures for accounting**
+
+Accounting procedures to ensure that annual accounts are complete, accurate and timely, and that any errors or omissions are detected and corrected, in particular through periodic controls and reconciliations.
+
+**(F) Procedures for advance payments**
+
+(1) Procedures to ensure that payments of advances to beneficiaries are separately identified in the accounting records.
+
+(2) Procedures to ensure that advances are cleared within the stipulated time limits and those overdue for clearing are identified.
+
+**(G) Procedures for debts**
+
+(1) Procedures to ensure that the criteria provided for in points (A) to (D) apply, mutatis mutandis, to amounts which the Responsible Authority is required to recover in accordance with Article 21(h) of Regulation (EU) No 514/2014.
+
+(2) Procedures to ensure proper follow-up on recovery orders issued and, if applicable, on default interest.
+
+(3) Procedures to ensure that if recovery cannot be made, the cause is identified, so as to evaluate whether the Member State should reimburse the Union Budget.
+
+(4) System for recognising all amounts due and for recording all such debts prior to their receipt in a debtor's ledger.
+
+(5) Procedures to ensure that this debtor's ledger is verified at regular intervals to ensure its reliability and completeness.
+
+**(H) Procedures for detection of irregularities and anti-fraud**
+
+(1) Definitions of irregularities in compliance with Union requirements.
+
+(2) Mechanisms to ensure that irregularities can be detected in a timely manner and that immediate corrective measure can be taken.
+
+(3) Procedures for putting in place proportionate anti-fraud measures.
+
+(4) Procedures to ensure that the Commission is kept informed of irregularities detected and, if appropriate, of any corrective measures taken in the annual accounts.
+
+**(I) Audit trail**
+
+Procedure to ensure an adequate audit trail in accordance with the implementing Regulation adopted on the basis of Article 27(5) of Regulation (EU) No 514/2014, by providing documentary evidence, to be held on the premises of the Responsible Authority, relating to the selection of projects, the authorisation, accounting and payment of financial claims submitted by a beneficiary and the handling of advances and debts.
+
+**3\. Internal Information and Communication**
+
+**(A) Communication**
+
+(1) Procedures to ensure that:
+
+(a) all changes in Union legislation are recorded;
+
+(b) instructions, databases and checklists are updated to reflect these in a timely manner; and
+
+(c) all interested parties, such as the Delegated Authority, are informed of these changes in a timely manner.
+
+(2) Procedures to ensure that all beneficiaries have the necessary information to carry out their tasks and implement operations.
+
+(3) Procedures to ensure adequate ex post information on the results of the selection process is provided to applicants.
+
+**(B) Information systems security**
+
+(1) Security of the information system(s) used is in line with the most recent internationally accepted standards.
+
+(2) Procedures to ensure that financial and technological measures are in proportion to the risks.
+
+**4\. Internal Monitoring and reporting**
+
+**(A) Internal documents and reports**
+
+(1) Documented procedures and corresponding checklists to be completed in order to:
+
+(a) support the work of the monitoring committee referred to in Article 12(4) of Regulation (EU) No 514/2014 and provide it with the information it requires to carry out its tasks, in particular data relating to the national programme's progress towards meeting its objectives, financial data and data relating to indicators and milestones;
+
+(b) draw up annual and final implementation reports and to submit these to the Commission;
+
+(c) draw up the documents constituting the request for payment of the annual balance referred to in Article 44 of Regulation (EU) No 514/2014
+
+(d) ensure that senior management is provided with all necessary reports and information to effectively monitor the implementation of the programmes that it is responsible for; and
+
+(e) ensure that senior management is provided with the reports from independent assessments or audits on the functioning of their systems.
+
+(2) Documented procedures for reporting and monitoring, if the Responsible Authority has entrusted the execution of tasks to another body.
+
+**(B) Monitoring of other tasks not carried out by the authorities themselves**
+
+(1) Where bodies are acting under the responsibility of the Responsible Authority, with the exclusion of delegated authorities, procedures to ensure that supervisory mechanisms are in place to ensure sound financial management.
+
+(2) Where control activities are outsourced, procedures to ensure that supervisory mechanisms are in place to ensure a common control methodology and consistency of the work.
+
+(3) Where the Responsible Authority delegates activities, procedures to ensure that Article 5(4) of this Regulation is complied with.
+
+## ANNEX II
+
+**Model for the annual control report**
+
+**Annual control report [FUND]**
+
+**(1) INTRODUCTION**
+
+This section shall include the following information:
+
+1.1 Identification of the Audit Authority and other bodies that have been involved in preparing the report.
+
+1.2 Reference period (i.e. the financial year ( 5 )).
+
+**(2) COMPLIANCE WITH DESIGNATION CRITERIA AND SIGNIFICANT CHANGES IN MANAGEMENT AND CONTROL SYSTEM(S) (if applicable)**
+
+This section shall include the following information:
+
+2.1 Details of any significant changes in the management and control systems related to the competent authorities' responsibilities (including, where applicable, any delegation of functions), the effective date of such changes as well as the impact of these changes on the audit work.
+
+2.2 Based on the audit work carried out by the Audit Authority, confirmation of whether the management and control system still complies with the designation criteria defined in Article 2 and Annex I of Commission Delegated Regulation (EU) No 1042/2014.
+
+2.3 Information on reporting to the Designating Authority on the Responsible Authority's compliance with the designation criteria set out in Article 2.2 and Annex I of Commission Delegated Regulation (EU) No 1042/2014.
+
+**(3) CHANGES TO THE AUDIT STRATEGY**
+
+This section shall include the following information:
+
+3.1 Details of changes that have been made to the audit strategy and an explanation of the reasons for those changes, in particular details of any modifications to the sampling method used for audits of expenditure (see section 5 below).
+
+**(4) SYSTEM AUDITS**
+
+This section shall include the following information:
+
+4.1 Details of the bodies that have carried out system audits to verify whether the management and control system of the fund have functioned effectively (as provided for in Article 14(2) of Commission Delegated Regulation (EU) No 1042/2014).
+
+4.2 In relation to Table 10.1 ‘Results of system audits’ annexed to the annual control report, a description of the main findings and conclusions drawn from system audits on key requirements.
+
+4.3 Indication of whether any problems detected are considered to be systemic in nature, quantification of irregular financial data and applicable corrective measures to address such systemic errors, including any related financial corrections made in accordance with Article 46 of Regulation (EU) No 514/2014 and Implementing Regulation (EU) No 378/2015.
+
+4.4 Information on the follow-up of audit recommendations from system audits carried out in previous years.
+
+**(5) AUDITS OF EXPENDITURE**
+
+This section shall include the following information:
+
+5.1 Details of the bodies that carried out the audits of expenditure (as provided for in Articles 14.3 and 14.4 of Commission Delegated Regulation (EU) No 1042/2014).
+
+5.2 Description of the sampling methodology applied, specifying the sampling parameters ( 6 ) used and the underlying calculations and professional judgement applied to the sample selection ( 7 ), the calculation of the total error rate (including stratification where applicable) and information on whether the methodology is in line with the audit strategy. If stratification is applied, the strata parameters need to be described.
+
+5.3 Analysis of the principal results of the audits of expenditure, describing the number of sample items audited, the respective amounts and type of financial data audited, the nature ( 8 ) and type ( 9 ) of errors detected and the applicable corrective measures proposed by the Audit Authority (including measures to avoid similar errors in the future, financial corrections for the individual irregularities detected as well as any applicable extrapolated or flat-rate financial corrections ( 10 )). If stratification is applied, further information by strata is to be provided in this section and summarised in Table 10.2 ‘Results of audits of expenditure’ annexed to the annual control report.
+
+5.4 If the audit sample includes interim payments and/or final payment clearing advance payments declared in the accounts of previous financial years, the amount of the advance payments falling within the scope of audits of expenditure, the errors detected and applicable financial corrections relating to these advance payments shall be presented in Table 10.3 ‘Results of audits on additional expenditure’ annexed to the annual control report.
+
+5.5 Explanations on how the error rates presented in Table 10.2 are calculated and, if applicable, information on the audits of additional expenditure presented in Table 10.3.
+
+5.6 Information on whether any irregularities detected by the audits of expenditure are considered to be systemic in nature and therefore entail a risk to other payments, including the quantification of their impact on the population and any related financial corrections.
+
+5.7 Information on the status of implementation by the Responsible Authority of the corrective measures including financial corrections proposed by the Audit Authority as a result of the audits of expenditure before submitting the ‘final accounts’ to the Commission. Any possible deviations between the corrections proposed by the Audit Authority and the corrections implemented by the Responsible Authority should be disclosed.
+
+5.8 Information on the follow-up of audits of expenditure carried out in previous years, in particular on deficiencies of a systemic nature.
+
+**(6) AUDITS OF ACCOUNTS**
+
+This section shall include the following information:
+
+6.1 Details of the bodies that have carried out audits of accounts (as provided for in Article 14.5 of Commission Delegated Regulation (EU) No 1042/2014).
+
+6.2 Description of the audit approach used to verify the financial data in the accounts accompanying the request for payment of the annual balance submitted by the Responsible Authority defined in Article 14.5 of Commission Delegated Regulation (EU) No 1042/2014. This should include a reference to the audit work carried out as part of the system audits (detailed in section 4) and the audits of expenditure (detailed in section 5) with relevance to the assurance required on the accounts.
+
+6.3 Conclusions drawn from the audit of accounts regarding the true and fair view of the financial data in the accounts accompanying the request for payment of the annual balance submitted by the Responsible Authority, as well as the financial corrections made and reflected in the accounts as a result of such audits.
+
+6.4 Indication of whether any irregularities detected are considered to be systemic in nature and the applicable corrective measures taken.
+
+**(7) COORDINATION BETWEEN AUDIT BODIES AND SUPERVISORY WORK BY THE AUDIT AUTHORITY (where applicable)**
+
+This section shall include the following information:
+
+7.1 Description of the procedure for coordination between the Audit Authority and any audit bodies that carried out audits as provided for in Article 13 of Commission Delegated Regulation (EU) No 1042/2014, where appropriate.
+
+7.2 Description of the procedure for supervision and quality review applied by the Audit Authority on the audit work carried out by such audit bodies.
+
+**(8) OTHER INFORMATION**
+
+This section shall include the following information:
+
+8.1 Where applicable, information on reported fraud and suspicions of fraud detected as part of the audits performed by the Audit Authority (including the cases reported by other national or EU bodies and related to the operations audited by the Audit Authority), together with the measures taken.
+
+8.2 Where applicable, subsequent events that occurred after the ‘draft accounts’ for the financial year were transmitted to the Audit Authority and before the associated annual control report was transmitted to the Commission, which may be relevant for the opinion issued by the Audit Authority. In particular, any variances between the financial data presented by the Responsible Authority in the ‘draft accounts’ (i.e. the population from which the audit sample was drawn ( 11 )) and the final accounts submitted to the Commission should be disclosed and explained.
+
+**(9) OVERALL LEVEL OF ASSURANCE**
+
+9.1 Indication of the overall level of assurance on the proper functioning of the management and control system ( 12 ), and explanation of how such a level was obtained from the combination of the results of the system audits, audits of expenditure and accounts. Where relevant, the Audit Authority shall also take into account the results of the audit work carried out by other national or EU audit bodies which may have an impact on the financial data reported for the financial year.
+
+9.2 Assessment of any mitigating and corrective measures implemented by the Responsible Authority such as financial corrections, and an indication of whether additional corrective measures are needed from both a system and financial perspective.
+
+**(10) ANNEXES TO THE ANNUAL CONTROL REPORT**
+
+10.1 Results of system audits (template defined below)
+
+10.2 Results of audits of expenditure (template defined below)
+
+10.3 Results of audits on additional expenditure (if applicable)
+
+10.1 Results of system audits
+
+<table>
+<tbody><tr><td rowspan="2">Audited Entity (e.g. Responsible Authority, Delegated Authority, etc.)</td><td rowspan="2">Title of the audit</td><td rowspan="2">Date of the final audit report</td><td colspan="9">Key requirements (where applicable) [as defined in Table 1- Annex I to Commission Implementing Regulation (EU) No 378/2015] </td><td>  </td><td>  </td></tr>
+<tr><td>KR 1</td><td>KR2</td><td>KR3</td><td>KR4</td><td>KR5</td><td>KR6</td><td>KR7</td><td>KR8</td><td>KR9</td><td>Overall assessment (category 1, 2, 3, 4) (as defined in Table 2 — Annex I to Commission Implementing Regulation (EU) No 378/2015)</td><td>Comments</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>(1)</td><td>  </td><td>  </td></tr>
+<tr><td colspan="14">(1)  Category 1, 2, 3, 4 as defined in Table 2 — Annex I to Commission Implementing Regulation (EU) No 378/2015 </td></tr>
+</tbody>
+</table>
+
+10.2 Results of audits of expenditure
+
+| A | B | C | D | E | F | G | H | I | J |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fund/type of payment (1) | Amount in EUR corresponding to the population or sub-population in the ‘draft accounts’ from which the sample was drawn (2) | Audit sample (EUR amount) (3) | Audit sample (as % of population) [D = C/B] | Amount of errors detected by the Audit Authority in the sample EUR (4) | Error rate % in the sample [F = E/C] (4) | Total error rate in the population (5) | Total errors in the population (EUR amount) [H = G * B] | Financial corrections (EUR amount) implemented by the Responsible Authority as a result of the total error rate (6) | Residual total error rate (7) [J = (H – I)/B] | Comments |
+| Strata (if applicable) (1) |  |  |  |  |  |  |  |  |  |  |
+| Total (A) | Total (B) | Amount EUR | % |  |  |  |  |  |  |  |
+
+10.3 Results of audits on additional expenditure (8)
+
+| K | L | M | N | O |  |
+| --- | --- | --- | --- | --- | --- |
+| Description | Fund/project/payment reference no. | Additional expenditure audited (3) | Amount of errors in the additional expenditure audited (4) | Financial corrections implemented by the Responsible Authority on the additional expenditure audited (6) | Comments |
+| Expenditure linked to interim payments or final payments included in the random/statistical sample |  |  |  |  |  |
+| Other (to be described) … |  |  |  |  |  |
+
+(1) If the financial data — i.e. the audit population — is divided into different strata (e.g. advance payments, interim payments or final payments, other), the information is to be provided by strata where applicable. One line for each stratum and the strata parameters must be described in section 5 of the annual control report.
+
+(2) Column B shall refer to the auditable population, i.e. the ‘draft accounts’ representing all payments made by the Responsible Authority in the current financial year from which the sample was drawn.
+
+(3) If the audit sample drawn from the current financial year includes interim payments and/or final payments clearing advance payments declared in the accounts of previous financial years, these advance payments shall fall within the scope of the audit of expenditure for the sampled interim payments and/or final payment.
+
+However, for reporting purposes only the interim payments or final payments sampled from the draft accounts of the current financial year shall be reported in Table 10.2 (Column C) and taken into consideration for calculating the audit coverage for the current financial year (Column D).
+
+The ‘amount of the advance payments’ cleared by interim payments and/or final payments and verified within the scope of audits of expenditure shall be reported in Table 10.3, Column M. See also footnote 8.
+
+(4) The Audit Authority shall report the errors detected in the sample (as amounts and as percentage of the sample) before any financial corrections are applied by the Responsible Authority as a result of the audit work carried out by the Audit Authority.
+
+Only the amount of errors relating to the audited interim payments or final payments drawn from the draft accounts of the current financial year shall be taken into consideration for the calculating and reporting of the amount of errors and the error rate in Table 10.2, columns E and F.
+
+The amount of detected errors that have an impact on the ‘amount of advance payments’ cleared should be reported in Table 10.3, Column N.
+
+(5) The total error rate in the population is the Audit Authority's estimation of the total error rate in the ‘draft accounts’ for the current financial year. The total error rate shall be calculated before any financial corrections are applied by the Responsible Authority.
+
+The Audit Authority shall describe the methodology used to estimate the total error rate as well as the underlying calculations (including information on stratification, where applicable) in section 5 of the annual control report. In principle, the total error rate shall be the sum of the projected random errors and, if applicable, the total amount of systemic errors in the population and any uncorrected anomalous errors, divided by the population.
+
+(6) Column I shall disclose the financial corrections implemented by the Responsible Authority solely on the auditable population, i.e. the ‘draft accounts’ for the current financial year from which the sample was drawn.
+
+Any financial corrections relating to the ‘amount of advance payments’ cleared should be reported in Table 10.3, Column O.
+
+(7) Column J should disclose the residual error rate in the accounts after the Responsible Authority has implemented the financial corrections for the current financial year only.
+
+Any non-corrected errors in the ‘amount of advance payments’ cleared should not be included in the calculation of the residual error rate for the accounts for the current financial year.
+
+(8) In Table 10.3, the Audit Authority must report the results of any audits carried out on items other than the sampled amounts reported in Table 10.2. If the Audit Authority considers it necessary to carry out additional audits (e.g. risk-based audits, audits on negative or zero payments), the results of these additional audits should also be presented in Table 10.3.
+
+( 1 ) Commission Implementing Regulation (EU) No 802/2014 of 24 July 2014 establishing models for national programmes and establishing the terms and conditions of the electronic data exchange system between the Commission and Member States pursuant to Regulation (EU) No 514/2014 of the European Parliament and of the Council laying down general provisions on the Asylum, Migration and Integration Fund and on the instrument for financial support for police cooperation, prevention and combating crime and crisis management (OJ L 219, 25.7.2014, p. 22).
+
+( 2 ) Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council of 25 October 2012 on the financial rules applicable to the general budget of the Union and repealing Council Regulation (EC, Euratom) No 1605/2002 (OJ L 298, 26.10.2012, p. 1).
+
+( 3 ) Commission Implementing Regulation (EU) 2015/378 of 2 March 2015 laying down rules for the application of Regulation (EU) No 514/2014 of the European Parliament and of the Council with regard to the implementation of the annual clearance of accounts procedure and the implementation of the conformity clearance (OJ L 64, 7.3.2015, p. 30).
+
+( 4 ) Commission Implementing Regulation (EU) 2015/840 of 29 May 2015 on controls carried out by Responsible Authorities pursuant to Regulation (EU) No 514/2014 of the European Parliament and of the Council laying down general provisions on the Asylum, Migration and Integration Fund and on the instrument for financial support for police cooperation, preventing and combating crime, and crisis management (OJ L 134, 30.5.2015, p. 1).
+
+( 5 ) As defined in Article 38 of Regulation (EU) No 514/2014.
+
+( 6 ) The sampling parameters include the sampling unit, population value and size, sample value and size, audit coverage (in EUR and the percentage of items and amounts covered) and the sampling criteria. For statistical sampling, the materiality level, confidence level, expected error rate and sampling interval should also be indicated.
+
+( 7 ) If non-statistical sampling is applied, the Audit Authority should indicate the steps taken to ensure randomness of the sample (and its representativity) and provide a sufficient sample size to enable the Audit Authority to estimate the total error of the population and draw up a valid audit opinion.
+
+( 8 ) For example: eligibility, public procurement, state aid.
+
+( 9 ) Random, systemic or anomalous errors.
+
+( 10 ) Flat-rate and/or extrapolated financial corrections may be applicable for example if there are systemic errors and/or if the total error rate on the draft accounts is material.
+
+( 11 ) Column B of Table 10.2.
+
+( 12 ) The overall level of assurance shall correspond to one of the four categories defined in Commission Implementing Regulation (EU) 2017/646: Category 1 (Works well. No or only minor improvement(s) needed), Category 2 (Works. Some improvement(s) needed), Category 3 (Works partially. Substantial improvements needed) and Category 4 (Essentially does not work).

@@ -1,0 +1,690 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/624 of 8 February 2019 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council (Text with EEA relevance.)"
+identifier: "32019R0624"
+eli: "http://data.europa.eu/eli/reg_del/2019/624/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-02-08
+entry_into_force: 2019-06-26
+last_amended: 2025-04-27
+consolidated_version: "02019R0624-20250427"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0624-20250427"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/624 of 8 February 2019 concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council (Text with EEA relevance.)
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/624**
+
+**of 8 February 2019**
+
+**concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1422 of 26 April 2021 </td><td> L 307</td><td>1</td><td>1.9.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/2258 of 9 September 2022 </td><td> L 299</td><td>5</td><td>18.11.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/687 of 30 January 2025 </td><td> L 687</td><td>1</td><td>7.4.2025</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/624**
+
+**of 8 February 2019**
+
+**concerning specific rules for the performance of official controls on the production of meat and for production and relaying areas of live bivalve molluscs in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+This Regulation lays down specific rules concerning the performance of the official controls referred to in Article 18(1) of Regulation (EU) 2017/625 carried out on products of animal origin.
+
+Those specific rules cover:
+
+(a) criteria and conditions to determine
+
+(i) when the ante-mortem inspection in certain slaughterhouses may be performed under the supervision or under the responsibility of an official veterinarian;
+
+(ii) when the ante-mortem inspection may be performed outside the slaughterhouse in case of emergency slaughter;
+
+(iii) when the ante-mortem inspections may be performed at the holding of provenance;
+
+(iv) the guarantees to be in place for the performance of post-mortem inspections and auditing activities under the responsibility of the official veterinarian as referred to in Article 18(2)(c) and (d) of Regulation (EU) 2017/625;
+
+(v) derogations from Article 18(6) of Regulation (EU) 2017/625 regarding the classification of production and relaying areas in relation to Pectinidae, marine gastropods and echinoderms;
+
+(vi) where the official controls in cutting plants may be performed by staff designated by the competent authorities for that purpose and who are appropriately trained;
+
+(b) the establishment of specific derogations in respect of Rangifer tarandus tarandus, Lagopus lagopus and Lagopus mutus in order to allow the continuation of longstanding local and traditional customs and practices;
+
+(c) the establishment of specific minimum requirements, including training requirements for the official veterinarian, the official auxiliary and the staff designated by the competent authorities, to ensure adequate performance of the tasks described in Article 18 of Regulation (EU) 2017/625;
+
+(d) the establishment of appropriate minimum training requirements for slaughterhouse staff who assist in performing the tasks described in Article 18(3) of Regulation (EU) 2017/625.
+
+## Article 2 — Definitions
+
+The following definitions shall apply for the purpose of this Regulation:
+
+(1) ‘slaughterhouse’ means slaughterhouse as defined in point 1.16 of Annex I of Regulation (EC) No 853/2004;
+
+(2) ‘holding of provenance’ means the holding where the animals were last reared. In the case of semi-domesticated cervids as defined in point 2(q) of Annex I to Regulation (EC) No 999/2001 of the European Parliament and of the Council ( 1 ), it includes round-ups intended to select animals for slaughter;
+
+(3) ‘production area’ means a production area as defined in point 2.5 of Annex I of Regulation (EC) No 853/2004;
+
+(4) ‘relaying area’ means a relaying area as defined in point 2.6 of Annex I of Regulation (EC) No 853/2004;
+
+(5) ‘staff designated by the competent authorities’ means a person other than the official auxiliary and the official veterinarian, who is qualified in accordance with this Regulation to act in such a capacity in cutting plants and to whom the competent authorities assign the performance of specific actions;
+
+(6) ‘risk analysis’ means risk analysis as defined in Article 3(10) of Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 2 );
+
+(7) ‘cutting plant’ means a cutting plant as defined in point 1.17 of Annex I of Regulation (EC) No 853/2004;
+
+(8) ‘poultry’ means poultry as defined in point 1.3 of Annex I of Regulation (EC) No 853/2004;
+
+(9) ‘lagomorphs’ means lagomorphs as defined in point 1.4 of Annex I of Regulation (EC) No 853/2004;
+
+(10) ‘food business operator’ means a food business operator as defined in Article 3(3) of Regulation (EC) No 178/2002;
+
+(11) ‘domestic ungulates’ means domestic ungulates as defined in point 1.2 of Annex I of Regulation (EC) No 853/2004;
+
+(12) ‘meat’ means meat as defined in point 1.1 of Annex I of Regulation (EC) No 853/2004;
+
+(13) ‘farmed game’ means farmed game as defined in point 1.6 of Annex I of Regulation (EC) No 853/2004;
+
+(14) ‘final consumer’ means a final consumer as defined in Article 3(18) of Regulation (EC) No 178/2002;
+
+(15) ‘retail’ means retail as defined in Article 3(7) of Regulation (EC) No 178/2002;
+
+(16) ‘establishment’ means an establishment as defined in Article 2(1)(c) of Regulation (EC) No 852/2004;
+
+(17) ‘Low-capacity slaughterhouse’ means a slaughterhouse designated by the competent authorities on the basis of a risk analysis and in which slaughtering takes place only during part of the working day or takes place during the whole working day but not on each working day of the week;
+
+(18) ‘Low-capacity game-handling establishment’ means a game-handling establishment designated by the competent authorities on the basis of a risk analysis and in which game-handling takes place only during part of the working day or takes place during the whole working day but not on each working day of the week;
+
+(19) ‘livestock unit’ means a livestock unit as defined in Article 17(6) of Regulation (EC) No 1099/2009;
+
+(20) ‘small wild game’ means small wild game as defined in point 1.7 of Annex I of Regulation (EC) No 853/2004;
+
+(21) ‘game-handling establishment’ means a game-handling establishment as defined in point 1.18 of Annex I of Regulation (EC) No 853/2004;
+
+(22) ‘dispatch centre’ means a dispatch centre as defined in point 2.7 of Annex I of Regulation (EC) No 853/2004;
+
+(23) ‘bivalve molluscs’ means bivalve molluscs as defined in point 2.1 of Annex I of Regulation (EC) No 853/2004;
+
+(24) ‘processing’ means processing as defined in Article 2(1)(m) of Regulation (EC) No 852/2004;
+
+(25) ‘viscera’ means viscera as defined in point 1.12 of Annex I of Regulation (EC) No 853/2004;
+
+(26) ‘primary production’ means primary production as defined in Article 3(17) of Regulation (EC) No 178/2002;
+
+(27) ‘milk production holding’ means a milk production holding as defined in point 4.2 of Annex I of Regulation (EC) No 853/2004.
+
+## Article 3 — Criteria and conditions establishing when ante-mortem inspections in certain slaughterhouses may be performed by an official auxiliary
+
+1\. By way of derogation from Article 18(2)(a) of Regulation (EU) 2017/625, ante-mortem inspections may be performed by an official auxiliary under the supervision of the official veterinarian on species other than poultry and lagomorphs, provided that the procedures applied in the slaughterhouse comply with the following criteria and conditions:
+
+(a) the tasks within ante-mortem inspections are of a purely practical nature and only concern one or more of the following:
+
+(i) verification that the food business operator complies with the requirements related to food chain information and to the animal's identity check;
+
+(ii) the preselection of animals showing possible abnormalities as regards human health, animal health and animal welfare requirements;
+
+(b) the official veterinarian is immediately informed by the official auxiliary performing the inspection when possible abnormalities are observed or suspected and the official veterinarian then carries out the ante-mortem inspection in person; and
+
+(c) the official veterinarian regularly verifies that the official auxiliary is carrying out his/her tasks properly.
+
+2\. By way of derogation from Article 18(2)(a) of Regulation (EU) 2017/625, ante-mortem inspections may be performed on all species by an official auxiliary in a slaughterhouse under the responsibility of the official veterinarian, provided that the following criteria and conditions are met:
+
+(a) an ante-mortem inspection has already been carried out by the official veterinarian at the holding of provenance in accordance with Article 5;
+
+(b) the official veterinarian is immediately informed by the official auxiliary performing the inspection when possible abnormalities are observed or suspected and the official veterinarian then carries out the ante-mortem inspection in person;
+
+and
+
+(c) the official veterinarian regularly verifies that the official auxiliary is carrying out his/her tasks properly.
+
+3\. The derogations in paragraphs 1 and 2 shall not apply:
+
+(a) to animals that undergo emergency slaughter referred to in Section I, Chapter VI, of Annex III to Regulation (EC) No 853/2004;
+
+(b) to animals suspected of having a disease or condition that may adversely affect human health;
+
+(c) to bovine animals from establishments defined in Article 4, point (27), of Regulation (EU) 2016/429 of the European Parliament and of the Council ( 3 ), which have not been granted the status ‘free from infection with Mycobacterium tuberculosis complex’ (M. bovis, M. caprae and M. tuberculosis) as laid down in Part II, Chapter 1, Sections 1 and 2, of Annex IV to Commission Delegated Regulation (EU) 2020/689 ( 4 );
+
+(d) to bovine, ovine or caprine animals from establishments defined in Article 4, point (27), of Regulation (EU) 2016/429, which have not been granted the status ‘free from infection with Brucella abortus, B. melitensis and B. suis without vaccination’ as laid down in Part I, Chapter 1, Sections 1 and 2 of Annex IV to Delegated Regulation (EU) 2020/689;
+
+(e) to animals coming from a restricted zone referred to in Article 126(1), point (b)(iii), of Regulation (EU) 2016/429 and subject to restrictions within that zone;
+
+(f) to animals subject to stricter controls due to the spread of emerging diseases or particular diseases listed by the World Organisation for Animal Health.
+
+## Article 4 — Criteria and conditions establishing when ante-mortem inspections may be performed outside the slaughterhouse in the case of emergency slaughter
+
+By way of derogation from Article 18(2)(a) of Regulation (EU) 2017/625, the official veterinarian may perform ante-mortem inspections outside the slaughterhouse in the case of emergency slaughter, only in the case of domestic ungulates and subject to compliance with the requirements for emergency slaughter laid down in points (1), (2) and (6) of Chapter VI of Section I of Annex III to Regulation (EC) No 853/2004.
+
+A model health certificate as set out in Annex V to Commission Implementing Regulation (EU) 2019/628 ( 5 ) shall be issued for animals fit for slaughter. The health certificate shall accompany the animals to the slaughterhouse or be sent in advance in any format. Any observations relevant for subsequent meat inspection shall be recorded in the health certificate.
+
+## Article 5 — General criteria and conditions laying down when ante-mortem inspections may be performed at the holding of provenance
+
+1\. By way of derogation from Article 18(2)(a) and (b) of Regulation (EU) 2017/625, the competent authority may allow ante-mortem inspections on animals intended for slaughter to be performed at the holding of provenance in accordance with the criteria and conditions laid down in paragraph 2 and Article 6.
+
+2\. The following criteria and conditions shall be applied for all species:
+
+(a) checks on records or documentation at the holding of provenance, including verification of the food chain information, shall be carried out;
+
+(b) individual examination of the animals shall be facilitated by the food business operator if required;
+
+(c) ante-mortem inspections at the holding of provenance shall comprise a physical examination of the animals to determine whether:
+
+(i) they have a disease or condition which may be transmitted to animals or humans through handling or consuming the meat of such animals, or whether they are behaving, individually or collectively, in a manner indicating that such a disease has occurred;
+
+(ii) they show general behavioural disturbance, signs of disease or abnormalities which may make the meat of such animals unfit for human consumption;
+
+(iii) there is evidence or reason to suspect that the animals may contain chemical residues in excess of the levels laid down in Union legislation, or residues of forbidden substances;
+
+(iv) they show signs indicating problems related to animal welfare, including excessive dirtiness;
+
+(v) they are fit for transport.
+
+(d) the checks and ante-mortem inspection at the holding of provenance referred to in (a), (b) and (c) shall be carried out by an official veterinarian;
+
+(e) the animals fit for slaughter shall be properly identified and separated from other animals and sent to the slaughterhouse directly from the holding of provenance;
+
+(f) a health certificate as set out in Part I of Annex IV to Implementing Regulation (EU) 2019/628 shall be issued for animals fit for slaughter. The health certificate shall accompany the animals to the slaughterhouse or be sent in advance in any format. Any observations relevant for subsequent meat inspection shall be recorded in the health certificate.
+
+3\. At the slaughterhouse the following additional checks shall be carried out in accordance with Article 18(2)(a) and (b) of Regulation (EU) 2017/625 and Article 3 of this Regulation:
+
+(a) regular verification of the food business operators' obligation to ensure that the animals are identified properly;
+
+(b) regular verification that animal welfare rules have been complied with during transport and at arrival in the slaughterhouse and whether there are signs of any condition which might adversely affect human or animal health.
+
+4\. In the event that the animals are not slaughtered within three days, or 28 days in cases referred to in Article 6(5), from the date of issue of the health certificate referred to in paragraph 2(f):
+
+(a) where the animals have not been dispatched from the holding of provenance to the slaughterhouse, an additional ante-mortem inspection shall be carried out and a new health certificate shall be issued;
+
+(b) where the animals are already on their way to or are at the slaughterhouse, the slaughter may be authorised as soon as the reason for the delay has been assessed, provided that the animals undergo an additional ante-mortem inspection in accordance with Article 11 of Commission Implementing Regulation (EU) 2019/627 ( 6 ).
+
+## Article 6 — Species-specific criteria and conditions laying down when ante-mortem inspections may be performed at the holding of provenance
+
+1\. The competent authorities shall apply the specific criteria and conditions laid down in this Article in the relevant cases of poultry, farmed game, domestic bovine, ovine, caprine and porcine animals and domestic solipeds.
+
+2\. In the case of poultry reared for the production of ‘foie gras’ and of delayed eviscerated poultry, slaughtered at the holding of provenance, the health certificate completed in accordance with the model health certificate set out in Chapter 2 of Annex IV to Commission Implementing Regulation (EU) 2020/2235 ( 7 ) shall accompany the uneviscerated carcasses to the slaughterhouse or cutting plant or be sent in advance in any format, instead of the health certificate referred to in Article 5(2), point (f), of this Regulation.
+
+3\. In the case of domestic bovine, ovine, caprine and porcine animals, domestic solipeds and farmed game slaughtered at the holding of provenance in accordance with Section I, Chapter VIa or Section III, point 3, of Annex III to Regulation (EC) No 853/2004, the health certificate completed in accordance with the model health certificate set out in Chapter 3 of Annex IV to Implementing Regulation (EU) 2020/2235 shall accompany the animals to the slaughterhouse or, in the case of farmed game, either to the slaughterhouse or to the game-handling establishment, or it shall be sent in advance in any format, instead of the health certificate referred to in Article 5(2), point (f), of this Regulation.
+
+4\. In the case of farmed game slaughtered at the holding of provenance in accordance with Section III, point 3(a), of Annex III to Regulation (EC) No 853/2004:
+
+(a) a health certificate completed in accordance with the model health certificate set out in Chapter 4 of Annex IV to Implementing Regulation (EU) 2020/2235 shall accompany the animals to the slaughterhouse or to the game-handling establishment, or it shall be sent in advance in any format, instead of the health certificate referred to in Article 5(2), point (f), of this Regulation;
+
+(b) the official veterinarian shall regularly verify that those carrying out the slaughter and bleeding properly perform their tasks.
+
+5\. By way of derogation from Article 5(4), Member States may allow slaughter of farmed game until 28 days from the date of issue of the health certificate referred to in Article 5(2), point (f), if:
+
+(a) only small quantities of the farmed game meat are directly supplied by the producer to the final consumer or to local retail establishments directly supplying to the final consumer; and
+
+(b) not more than 50 animals are slaughtered per year and per holding of provenance.
+
+## Article 7 — Criteria and conditions for the performance of post-mortem inspections under the responsibility of the official veterinarian, referred to in Article 18(2)(c) of Regulation (EU) 2017/625
+
+1\. Post-mortem inspections referred to in Article 18(2)(c) of Regulation (EU) 2017/625 may be performed by an official auxiliary under the responsibility of the official veterinarian, subject to compliance with Chapter II of Annex II to this Regulation, when the following criteria and conditions are met:
+
+(a) the slaughter or game-handling activities are carried out in a low-capacity slaughterhouse or game-handling establishment which slaughters or handles:
+
+(i) less than 1 000 livestock units per year; or
+
+(ii) less than 150 000 poultry, lagomorphs and small wild game per year;
+
+(b) the competent authority may increase the thresholds laid down in point (a) ensuring that the derogation is applied in the smallest slaughterhouses and game handling establishments complying with the definition of low-capacity slaughterhouse or game-handling establishment and provided that the combined annual production of these establishments does not exceed 5 % of the total amount of fresh meat produced in a Member State:
+
+(i) for the species concerned;
+
+(ii) of all ungulates together;
+
+(iii) of all poultry together; or,
+
+(iv) of all birds and lagomorphs together;
+
+in such case, the competent authorities shall notify this derogation and the evidence to support it in accordance with the procedure laid down in Directive (EU) 2015/1535 of the European Parliament and of the Council ( 8 );
+
+(c) the establishment concerned has sufficient facilities to store meat with abnormalities separately from other meat until the official veterinarian can inspect the meat with abnormalities in person;
+
+(d) the official veterinarian is present in the establishment at least once a day, including regularly during slaughter activities;
+
+(e) the competent authority has put in place a procedure to assess on a regular basis the performance of official auxiliaries in these establishments, including:
+
+(i) monitoring individual performance;
+
+(ii) verifying documentation on inspection findings and comparing it with the corresponding carcasses;
+
+(iii) checks of carcasses in the storage room;
+
+(f) a risk analysis has been carried out by the competent authority, taking at least account of the following elements:
+
+(i) the number of animals slaughtered or handled per hour or per day;
+
+(ii) the species and class of animals slaughtered or handled;
+
+(iii) the throughput of the establishment;
+
+(iv) the historical performance of slaughter or handling activities;
+
+(v) the effectiveness of any additional measures in the food chain taken to guarantee the food safety of animals intended for slaughter;
+
+(vi) the effectiveness of the hazard analysis and critical control point (HACCP)-based procedures;
+
+(vii) audit records;
+
+(viii) the competent authority's historical records of ante-mortem and post-mortem inspections.
+
+2\. For the purpose of point (a) (i) of paragraph 1, the conversion rates laid down in Article 17(6) of Regulation (EC) No 1099/2009 shall be used. However in case of ovine and caprine animals and small (&lt; 100 kg life weight) Cervidae a conversion rate of 0,05 livestock units, and in case of other large game a conversion rate of 0,2 livestock units shall be used.
+
+## Article 8 — Performance of post-mortem inspections by the official veterinarian
+
+Post-mortem inspection shall be performed by the official veterinarian in the following cases:
+
+(a) animals that undergo emergency slaughter referred to in Section I, Chapter VI, of Annex III to Regulation (EC) No 853/2004;
+
+(b) animals suspected of having a disease or condition that may adversely affect human health;
+
+(c) bovine animals from establishments defined in Article 4, point (27), of Regulation (EU) 2016/429, which have not been granted the status ‘free from infection with Mycobacterium tuberculosis complex’ (M. bovis, M. caprae and M. tuberculosis) as laid down in Part II, Chapter 1, Sections 1 and 2, of Annex IV to Delegated Regulation (EU) 2020/689;
+
+(d) bovine, ovine or caprine animals from establishments defined in Article 4, point (27), of Regulation (EU) 2016/429, which have not been granted the status ‘free from infection with Brucella abortus, B. melitensis and B. suis without vaccination’ as laid down in Part I, Chapter 1, Sections 1 and 2 of Annex IV to Delegated Regulation (EU) 2020/689;
+
+(e) animals coming from a restricted zone referred to in Article 126(1), point (b)(iii), of Regulation (EU) 2016/429 and subject to restrictions within that zone;
+
+(f) when stricter controls are necessary to take account of emerging diseases or particular diseases listed by the World Organisation for Animal Health;
+
+(g) in case of derogation on the timing of post-mortem inspection in accordance with Article 13 of Implementing Regulation (EU) 2019/627.
+
+## Article 9 — Criteria and conditions for the performance of auditing activities in slaughterhouses and game-handling establishments
+
+The auditing activities referred to in Article 18(2)(d)(iii) of Regulation (EU) 2017/625 may be performed in slaughterhouses and game-handling establishments by official auxiliaries under the responsibility of the official veterinarian only as regards the collection of information on good hygiene practices and HACCP-based procedures, and subject to compliance with Chapter II of Annex II to this Regulation.
+
+## Article 10 — Criteria and conditions for the performance of official controls including auditing activities in cutting plants
+
+Official controls referred to in Article 18(2)(d), including auditing activities, in cutting plants may also be performed by other staff designated by the competent authorities, by way of derogation from the requirements laid down in Article 18(2)(d) of Regulation (EU) 2017/625, provided that the competent authorities regularly check the work of such staff. Performance of these activities is subject to compliance with Chapter III of Annex II to this Regulation.
+
+## Article 11 — Official controls on Pectinidae, marine gastropods and echinoderms, which are not filter feeders, which are harvested from production areas which are not classified in accordance with Article 18(6) of Regulation (EU) 2017/625
+
+By way of derogation from Article 18(6) of Regulation (EU) 2017/625, the classification of production and relaying areas shall not be required in relation to the harvesting of Pectinidae, marine gastropods and echinoderms, which are not filter feeders, when the competent authorities carry out official controls on such animals in fish auctions, dispatch centres and processing establishments.
+
+Such official controls shall verify compliance with:
+
+(a) the health standards for live bivalve molluscs laid down in Chapter V of Section VII of Annex III to Regulation (EC) No 853/2004;
+
+(b) the specific requirements for Pectinidae, marine gastropods and echinoderms which are not filter feeders, that are harvested outside the classified production areas, laid down in Chapter IX of that Section.
+
+## Article 12 — Specific derogations in respect of Rangifer tarandus tarandus, Lagopus lagopus and Lagopus mutus, as provided for in Article 18(7)(h) of Regulation (EU) 2017/625
+
+1\. In accordance with Article 18(7)(h) of Regulation (EU) 2017/625, the following specific derogations from the official control requirements for Rangifer tarandus tarandus (reindeer) that are laid down in Article 18 of that Regulation may be granted by Sweden and Finland in respect of the areas of those Member States listed in Annex I to this Regulation without affecting the achievement of the objectives of that Regulation:
+
+(a) by way of derogation from Article 18(1) of Regulation (EU) 2017/625, official controls shall not be required on meat derived from Rangifer tarandus tarandus, where it is directly supplied by the producer in small amounts to the final consumer or to local retail establishments directly supplying the final consumer;
+
+(b) by way of derogation from Article 18(2) of Regulation (EU) 2017/625, an ante-mortem inspection is not mandatory for stray reindeer slaughtered in single cases between 1 May and 30 September;
+
+(c) by way of derogation from Article 18(2)(c) and (3) of Regulation (EU) 2017/625, slaughterhouse staff who have received training appropriate to this task in accordance with Article 14 may inspect:
+
+(i) abdominal viscera excluding liver and kidneys;
+
+(ii) genital organs;
+
+(iii) udder.
+
+2\. By way of derogation from Article 18(1) of Regulation (EU) 2017/625, official controls shall not be required on meat derived from Lagopus lagopus and Lagopus mutus (grouse), where they are killed by snaring in the Swedish counties of Norrbotten, Västerbotten and Jämtland and the Swedish municipality of Älvdalen in Dalarna county during the winter hunting season.
+
+## Article 13 — Specific minimum requirements for the official veterinarian, the official auxiliary and the staff designated by the competent authorities
+
+1\. Official veterinarians performing tasks provided for in Article 18 of Regulation (EU) 2017/625 shall comply with the minimum specific requirements set out in Chapter I of Annex II to this Regulation.
+
+By way of derogation from the rules laid down in points 1 to 6 of Chapter I of Annex II, Member States may lay down specific rules for:
+
+(a) official veterinarians working on a part-time basis who are responsible for inspecting small businesses or only carrying out official controls at primary production, in particular controls in milk production holdings and ante-mortem inspections outside slaughterhouses; and
+
+(b) veterinary students having successfully passed an exam on the subjects referred to in point 3 of Chapter I of Annex II and who are temporarily working at a slaughterhouse in the presence of an official veterinarian.
+
+2\. Veterinarians already appointed as official veterinarians before the date of application of this Regulation shall have adequate knowledge of the subjects referred to in point 3 of Chapter I of Annex II to this Regulation. Where necessary, the competent authority shall ensure that such knowledge is obtained through continuing training activities.
+
+3\. Official auxiliaries performing the tasks provided for in Article 18 of Regulation (EU) 2017/625 shall comply with the minimum specific requirements set out in Chapter II of Annex II to this Regulation.
+
+4\. Staff designated by the competent authorities performing the tasks provided for in Article 18 of Regulation (EU) 2017/625 shall comply with the minimum specific requirements set out in Chapter III of Annex II to this Regulation.
+
+## Article 14 — Minimum training requirements for slaughterhouse staff
+
+Slaughterhouse staff assisting in the performance of tasks related to official controls and other control activities in accordance with Article 18(3) of Regulation (EU) 2017/625 shall be trained to the satisfaction of the competent authorities. They shall also comply with the minimum training requirements set out in Chapter II of Annex II to this Regulation to the extent relevant for their assistance tasks.
+
+## Article 15 — Entry into force and applicability
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 14 December 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**SPECIFIC DEROGATIONS FOR THE INSPECTION OF MEAT DERIVED FROM REINDEER (RANGIFER TARANDUS TARANDUS)**
+
+The specific derogations referred to in Article 12(1) shall only apply in the following areas:
+
+(a) In Sweden:
+
+(i) the county of Norrbotten;
+
+(ii) the county of Västerbotten;
+
+(iii) the county of Jämtland;
+
+(iv) the county of Västernorrland;
+
+(v) the Älvdalen municipality in the county of Dalarna;
+
+(vi) the municipalities of Nordanstig, Hudiksvall and Söderhamn in the county of Gävleborg.
+
+(b) In Finland, as they were allowed on 31 December 2014:
+
+(i) the county of Lapland except for the municipalities of Kemi, Keminmaa and Tornio;
+
+(ii) the counties of North Ostrobothnia and Kainuu:
+
+— the municipalities of Kuusamo, Taivalkoski, Pudasjärvi, Suomussalmi and Hyrynsalmi;
+
+— in the municipality of Oulu: the area of the former Yli-Ii municipality and the area to the north of the River Kiiminkijoki in the former Ylikiiminki municipality;
+
+— in the municipality of Ii: the area of the former Kuivaniemi municipality;
+
+— in the municipalities of Puolanka and Utajärvi: the areas to the north of the River Kiiminkijoki and regional road 891 (Hyrynsalmi-Puolanka).
+
+## ANNEX II
+
+**SPECIFIC MINIMUM REQUIREMENTS FOR THE OFFICIAL VETERINARIAN, THE OFFICIAL AUXILIARY AND THE STAFF DESIGNATED BY THE COMPETENT AUTHORITIES**
+
+**CHAPTER I**
+
+**OFFICIAL VETERINARIANS**
+
+1\. The competent authorities may appoint as an official veterinarian only veterinarians who have passed a test meeting the requirements set out in point 3.
+
+2\. The competent authorities must make arrangements for the test for candidates applying to be appointed as an official veterinarian.
+
+3\. The test must demonstrate knowledge of the following subjects, specifically targeted to the tasks of official veterinarian and to the extent necessary depending on the veterinarian's background and qualifications while avoiding any duplication of tests on the knowledge and skills required for veterinary surgeon in accordance with Article 38(3) of Directive 2005/36/EC of the European Parliament and of the Council ( 9 ):
+
+(a) national and Union legislation on human health, food safety, animal health, animal welfare and pharmaceutical substances;
+
+(b) principles of the common agricultural policy, market measures, export refunds and fraud detection, including the global context: World Trade Organisation sanitary and phytosanitary agreement, Codex Alimentarius, the World Organisation for Animal Health;
+
+(c) essentials of food processing and food technology;
+
+(d) principles, concepts and methods of good manufacturing practice and quality management;
+
+(e) pre-harvest quality management (good farming practices);
+
+(f) promotion and use of food hygiene, food-related safety (good hygiene practices);
+
+(g) principles, concepts and methods of risk analysis;
+
+(h) principles, concepts and methods of HACCP, use of HACCP throughout the food production food chain;
+
+(i) auditing and verification of compliance with the requirements referred to in points a) to h);
+
+(j) prevention and control of food-borne hazards to human health;
+
+(k) population dynamics of infection and intoxication;
+
+(l) diagnostic epidemiology;
+
+(m) monitoring and surveillance systems;
+
+(n) principles and diagnostic applications of modern testing methods;
+
+(o) information and communication technology when relevant as working tools;
+
+(p) data-handling and applications of biostatistics;
+
+(q) investigations of outbreaks of food-borne diseases in humans;
+
+(r) relevant aspects concerning transmissible spongiform encephalopathies (TSEs);
+
+(s) animal welfare at the level of production, transport and slaughter;
+
+(t) environmental issues related to food production (including waste management);
+
+(u) precautionary principle and consumer concerns;
+
+(v) principles of training personnel working in the production chain;
+
+(w) health rules as regards animal by-products and derived products;
+
+(x) fraud aspects.
+
+Candidates may acquire the required knowledge as part of their basic veterinary training, or through training undertaken or professional experience acquired after qualifying as veterinarians.
+
+If the competent authorities are satisfied that a candidate has acquired all the required knowledge as part of a university degree, or through continuing education resulting in a postgraduate qualification, professional experience or other qualifications, it shall waive the requirement for a test. If the candidate has partly acquired the required knowledge, the competent authorities shall arrange for tests different from those referred to in point 2 to take account of candidates' background.
+
+4\. The official veterinarian must have aptitude for multidisciplinary cooperation.
+
+5\. Each official veterinarian must undergo practical training for a probationary period of at least 200 hours before starting to work independently. Relevant training during veterinary studies may be included in the probationary period. During this period the probationer is to work under the supervision of existing official veterinarians in slaughterhouses, cutting plants and on holdings. The training must concern the auditing of Good Hygiene Practices and procedures based on the HACCP principles in particular.
+
+6\. The official veterinarian must keep up-to-date and keep abreast of new developments through regular continuing education activities and professional literature in the areas referred to in point 3. The official veterinarian must, wherever possible, undertake annual continuing education activities.
+
+7\. Mutual recognition of the tests for official veterinarians between Member States must apply, when professionals move cross-border or wish to establish themselves in another Member State. In such case the tests must be limited to subjects, essential for human health and animal health protection in the Member States of employment, but not covered by the tests in the Member State of origin.
+
+**CHAPTER II**
+
+**OFFICIAL AUXILIARY**
+
+1\. Only people who have undergone training and passed a test in accordance with the requirements set out in point 5 are allowed to carry out the tasks of an official auxiliary.
+
+2\. The competent authorities shall make arrangements for the tests referred to in point 1. To be eligible for these tests, candidates must prove that they have received:
+
+(a) at least 500 hours of training, including at least 400 hours of practical training, covering the areas referred to in point 5; and
+
+(b) any additional training required to enable official auxiliaries to undertake their duties competently.
+
+3\. The practical training referred to in point 2(a) must take place in slaughterhouses, game-handling establishments and/or cutting plants under the supervision of an official veterinarian.
+
+4\. Training and tests must concern principally red meat or poultry meat. However, people who undergo training for one of these two categories and pass the test must only be required to undergo abridged training to pass the test for the other category. The training and tests must cover wild game, farmed game and lagomorphs, where appropriate.
+
+5\. Training for official auxiliaries must cover, and tests must confirm knowledge of, the following subjects:
+
+(a) in relation to holdings:
+
+(i) theoretical part:
+
+— background related to the farming industry organisation, production methods, international trade standards for animals;
+
+— good livestock husbandry practices;
+
+— basic knowledge of diseases, in particular zoonoses by viruses, bacteria and parasites;
+
+— monitoring for disease, use of medicines and vaccines, residue testing;
+
+— hygiene and health inspection;
+
+— animal welfare on the farm and during transport;
+
+— environmental requirements — in buildings, on farms and in general;
+
+— relevant laws, regulations and administrative provisions;
+
+— consumer concerns and quality control;
+
+(ii) practical part:
+
+— visits to holdings of different types and using different rearing methods;
+
+— visits to production establishments;
+
+— observation of the loading and unloading of animals;
+
+— laboratory demonstrations;
+
+— veterinary checks;
+
+— documentation;
+
+(b) in relation to slaughterhouses, game-handling establishments and cutting plants:
+
+(i) theoretical part:
+
+— background related to meat industry organisation, production methods, international trade standards for food and slaughter and cutting technology;
+
+— basic knowledge of hygiene and good hygienic practices, and in particular industrial hygiene, slaughter, cutting and storage hygiene, hygiene at work;
+
+— basic knowledge of HACCP and the audit of HACCP-based procedures;
+
+— animal welfare on unloading after transport and at the slaughterhouse;
+
+— basic knowledge of the anatomy and physiology of slaughtered animals;
+
+— basic knowledge of the pathology of slaughtered animals;
+
+— basic knowledge of the pathological anatomy of slaughtered animals;
+
+— relevant knowledge concerning TSEs and other important zoonoses and zoonotic agents, as well as important animal diseases;
+
+— knowledge of methods and procedures for the slaughter, inspection, preparation, wrapping, packaging and transport of fresh meat;
+
+— basic knowledge of microbiology;
+
+— ante-mortem inspection;
+
+— sampling and analysis for Trichinella;
+
+— post-mortem inspection;
+
+— administrative tasks;
+
+— knowledge of the relevant laws, regulations and administrative provisions;
+
+— sampling procedure;
+
+— fraud aspects;
+
+(ii) practical part:
+
+— animal identification;
+
+— age checks;
+
+— inspection and assessment of slaughtered animals;
+
+— ante-mortem inspection at the slaughterhouse;
+
+— post-mortem inspection in a slaughterhouse or game-handling establishment;
+
+— sampling and analysis for Trichinella;
+
+— identification of animal species by examining typical parts of the animal;
+
+— identifying and commenting on parts of slaughtered animals in which changes have occurred;
+
+— hygiene control, including the audit of the good hygiene practices and the HACCP-based procedures;
+
+— recording the results of ante-mortem inspections;
+
+— sampling;
+
+— traceability of meat;
+
+— documentation such as evaluation of food chain information and record reading.
+
+6\. The competent authorities may decide to reduce training and tests as regards:
+
+(a) the theoretical part if the official auxiliary demonstrates sufficient education on specific bullet points laid down in point 5(a)(i) or (b)(i) of this Chapter;
+
+(b) the practical part if the official auxiliary demonstrates sufficient working experience on specific bullet points laid down in point 5(a)(ii) or (b)(ii) of this Chapter.
+
+7\. The official auxiliary must have aptitude for multidisciplinary cooperation.
+
+8\. Official auxiliaries must keep up-to-date and abreast of new developments through regular continuing education activities and professional literature. The official auxiliary must, wherever possible, undertake annual continuing training activities.
+
+9\. If official auxiliaries carry out only sampling and analysis in connection with examinations for Trichinella and microbiological criteria, the competent authorities are only required to ensure that they receive training appropriate to these tasks.
+
+10\. Mutual recognition of the tests for official auxiliaries between Member States must apply, when professionals move cross-border or wish to establish themselves in another Member State. In such case the tests must be limited to subjects, essential for human health and animal health protection in the Member States of employment, but not covered by the tests in the Member State of origin.
+
+**CHAPTER III**
+
+**STAFF DESIGNATED BY THE COMPETENT AUTHORITIES**
+
+1\. The competent authorities may only appoint staff who have undergone training and passed a test in accordance with the requirements set out in point 5 of this Chapter.
+
+2\. The competent authorities must make arrangements for the test referred to in point 1. To be eligible for this test, candidates must prove that they have received:
+
+(a) at least 500 hours of training including at least 400 hours of practical training covering the areas referred to in point 5; and
+
+(b) any additional training required to enable staff designated by the competent authorities to undertake their duties competently.
+
+3\. The practical training referred to in point 2(a) must take place in cutting plants, under the supervision of an official veterinarian.
+
+4\. Training and tests must concern principally red meat or poultry meat. However, people who undergo training for one of these two categories and pass the test must only be required to undergo abridged training to pass the test for the other category. The training and tests must cover wild game, farmed game and lagomorphs, where appropriate.
+
+5\. Training for staff designated by the competent authorities must include, and tests must confirm knowledge of, the following subjects in relation to cutting plants:
+
+(i) theoretical part:
+
+— background related to meat industry organisation, production methods, international trade standards for food and cutting technology;
+
+— thorough knowledge of hygiene and good hygienic practices, and in particular industrial hygiene, cutting and storage hygiene, hygiene at work;
+
+— thorough knowledge of HACCP and the audit of HACCP-based procedures;
+
+— relevant knowledge concerning TSEs and other important zoonoses and zoonotic agents;
+
+— knowledge of methods and procedures for the preparation, wrapping, packaging and transport of fresh meat;
+
+— basic knowledge of microbiology;
+
+— administrative tasks;
+
+— knowledge of the relevant laws, regulations and administrative provisions;
+
+— sampling procedure;
+
+— fraud aspects;
+
+(ii) practical part:
+
+— inspection and assessment of slaughtered animals;
+
+— hygiene control, including the audit of the good hygiene practices and the HACCP-based procedures;
+
+— sampling;
+
+— traceability of meat;
+
+— documentation.
+
+6\. The competent authorities may decide to reduce training and tests as regards:
+
+(a) the theoretical part if the staff designated by the competent authorities demonstrates sufficient education on specific bullet points laid down in point 5(i) of this Chapter;
+
+(b) the practical part if the staff designated by the competent authorities demonstrates sufficient working experience on specific bullet points laid down in point 5(ii) of this Chapter.
+
+7\. The staff designated by the competent authorities must have an aptitude for multidisciplinary cooperation.
+
+8\. Staff designated by the competent authorities must keep up-to-date and abreast of new developments through regular continuing education activities and professional literature. The staff designated by the competent authorities must, wherever possible, undertake annual continuing training activities.
+
+9\. Mutual recognition of the tests for other staff designated by competent authorities between Member States must apply, when professionals move cross-border or wish to establish themselves in another Member State. In such case the tests must be limited to subjects, essential for human health and animal health protection in the Member States of employment, but not covered by the tests in the Member State of origin.
+
+( 1 ) Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (OJ L 147, 31.5.2001, p. 1).
+
+( 2 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+( 3 ) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (OJ L 84, 31.3.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/429/oj).
+
+( 4 ) Commission Delegated Regulation (EU) 2020/689 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases (OJ L 174, 3.6.2020, p. 211, ELI: http://data.europa.eu/eli/reg_del/2020/689/oj).
+
+( 5 ) Commission Implementing Regulation (EU) 2019/628 of 8 April 2019 concerning model official certificates for certain animals and goods and amending Regulation (EC) No 2074/2005 and Implementing Regulation (EU) 2016/759 as regards model certificates (see page 101 of this Official Journal).
+
+( 6 ) Commission Implementing Regulation (EU) 2019/627 of 15 March 2019 laying down uniform practical arrangements for the performance of official controls on products of animal origin intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council and amending Commission Regulation (EC) No 2074/2005 as regards official controls (see page 51 of this Official Journal).
+
+( 7 ) Commission Implementing Regulation (EU) 2020/2235 of 16 December 2020 laying down rules for the application of Regulations (EU) 2016/429 and (EU) 2017/625 of the European Parliament and of the Council as regards model animal health certificates, model official certificates and model animal health/official certificates, for the entry into the Union and movements within the Union of consignments of certain categories of animals and goods, official certification regarding such certificates and repealing Regulation (EC) No 599/2004, Implementing Regulations (EU) No 636/2014 and (EU) 2019/628, Directive 98/68/EC and Decisions 2000/572/EC, 2003/779/EC and 2007/240/EC (OJ L 442, 30.12.2020, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2020/2235/oj).
+
+( 8 ) Directive (EU) 2015/1535 of the European Parliament and of the Council of 9 September 2015 laying down a procedure for the provision of information in the field of technical regulations and of rules on Information Society services (OJ L 241, 17.9.2015, p. 1).
+
+( 9 ) Directive 2005/36/EC of the European Parliament and of the Council of 7 September 2005 on the recognition of professional qualifications (OJ L 255, 30.9.2005, p. 22).

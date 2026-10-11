@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2024/299 of 27 October 2023 </td><td> L </td><td>1</td><td>17.1.2024</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2016/2284 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -382,31 +384,37 @@ This Directive is addressed to the Member States.
 
 **Annual emission reporting requirements as referred to in the first subparagraph of Article 8(1)**
 
+<table>
 <tbody><tr><td>Element</td><td>Pollutants</td><td>Time series</td><td>Reporting dates</td></tr>
 <tr><td>Total national emissions by NFR (1) source category (2)</td><td>— SO2, NOx, NMVOC, NH3, CO — heavy metals (Cd, Hg, Pb) (3)  — POPs (4) (total PAHs (5), benzo(a)pyrene, benzo(b)fluoranthene, benzo(k)fluoranthene, indeno(1,2,3-cd)pyrene, dioxins/furans, PCBs (6), HCB (7)) </td><td>Annual, from 1990 to reporting year minus 2 (X-2)</td><td>15 February (9)</td></tr>
 <tr><td>Total national emissions by NFR source category (2)</td><td>— PM2,5, PM10(8) and, if available, BC</td><td>Annual, from 2000 to reporting year minus 2 (X-2)</td><td>15 February (9)</td></tr>
 <tr><td colspan="4">(1)  Nomenclature for reporting (NFR) as provided by the LRTAP Convention.  (2)  natural emissions shall be reported in accordance with the methodologies laid down in the LRTAP Convention and the EMEP/EEA air pollutant emission inventory guidebook. They shall not be included in national totals and shall be reported separately.  (3)  Cd (cadmium), Hg (mercury), Pb (lead).  (4)  POPs (persistent organic pollutants).  (5)  PAHs (Polycyclic aromatic hydrocarbons).  (6)  PCBs (Polychlorinated biphenyls).  (7)  HCB (hexachlorobenzene).  (8)  ‘PM10’ means particles with an aerodynamic diameter equal to or less than 10 micrometres (μm).  (9)  re-submissions due to errors shall be provided within four weeks at the latest and include a clear explanation of the changes made. </td></tr>
 </tbody>
+</table>
 
 **Table B**
 
 **Annual emission reporting requirements as referred to in the second subparagraph of Article 8(1)**
 
+<table>
 <tbody><tr><td>Element</td><td>Pollutants</td><td>Time series</td><td>Reporting date</td></tr>
 <tr><td>Total national emissions by NFR source category (1)</td><td>— heavy metals (As, Cr, Cu, Ni, Se and Zn and their compounds) (2) — TSP (3) </td><td>Annual, from 1990 (2000 for TSP,) to reporting year minus 2 (X-2)</td><td>15 February</td></tr>
 <tr><td colspan="4">(1)  natural emissions shall be reported in accordance with the methodologies laid down in the LRTAP convention and the EMEP/EEA air pollutant emission inventory guidebook. They shall not be included in national totals and shall be reported separately.  (2)  As (arsenic), Cr (chromium), Cu (copper), Ni (nickel), Se (selenium), Zn (zinc).  (3)  TSP (total suspended particles). </td></tr>
 </tbody>
+</table>
 
 **Table C**
 
 **Reporting requirements for emissions and projections as referred to in Article 8(2)**
 
+<table>
 <tbody><tr><td>Element</td><td>Pollutants</td><td>Time series/target years</td><td>Reporting dates</td></tr>
 <tr><td>National gridded data of emissions by source category (GNFR)</td><td>— SO2, NOx, NMVOC, CO, NH3, PM10, PM2,5 — heavy metals (Cd, Hg, Pb)  — POPs (total PAHs, HCB, PCBs, dioxins/furans)  — BC (if available) </td><td>Every four years for reporting year minus 2 (X-2) as from 2017 </td><td>1 May (1)</td></tr>
 <tr><td>Large Point Sources (LPS) by source category (GNFR)</td><td>— SO2, NOx, NMVOC, CO, NH3, PM10, PM2,5 — heavy metals (Cd, Hg, Pb)  — POPs (total PAHs, HCB, PCBs, dioxins/furans)  — BC (if available) </td><td>Every four years for reporting year minus 2 (X-2) as from 2017 </td><td>1 May (1)</td></tr>
 <tr><td>Projected emissions by NFR source category</td><td>— SO2, NOx, NH3, NMVOC, PM2,5 and, if available, BC</td><td>Biennial, covering projection years 2020, 2025, 2030 and, where available, 2040 and 2050 as from 2017 </td><td>15 March</td></tr>
 <tr><td colspan="4">(1)  Re-submissions due to errors shall be provided within four weeks and include a clear explanation of the changes made. </td></tr>
 </tbody>
+</table>
 
 **Table D**
 
@@ -422,6 +430,7 @@ This Directive is addressed to the Member States.
 
 **Table A**
 
+<table>
 <tbody><tr><td rowspan="2">Member State</td><td colspan="3">SO2 reduction compared with 2005</td><td colspan="3">NOx reduction compared with 2005</td><td colspan="3">NMVOC reduction compared with 2005</td></tr>
 <tr><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td></tr>
 <tr><td>Belgium</td><td>43 %</td><td>  </td><td>66 %</td><td>41 %</td><td>  </td><td>59 %</td><td>21 %</td><td>  </td><td>35 %</td></tr>
@@ -455,9 +464,11 @@ This Directive is addressed to the Member States.
 <tr><td>EU 28</td><td>59 %</td><td>  </td><td>79 %</td><td>42 %</td><td>  </td><td>63 %</td><td>28 %</td><td>  </td><td>40 %</td></tr>
 <tr><td colspan="10">(*1)  Member States having the choice to use the national emission total calculated on the basis of fuels used as a basis for compliance under the LRTAP Convention may keep that option in order to ensure coherence between international and Union law. </td></tr>
 </tbody>
+</table>
 
 **Table B**
 
+<table>
 <tbody><tr><td rowspan="2">Member State</td><td colspan="3">NH3 reduction compared with 2005</td><td colspan="3">PM2,5 reduction compared with 2005</td></tr>
 <tr><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td><td>For any year from 2020 to 2029</td><td>  </td><td>For any year from 2030</td></tr>
 <tr><td>Belgium</td><td>2 %</td><td>  </td><td>13 %</td><td>20 %</td><td>  </td><td>39 %</td></tr>
@@ -491,6 +502,7 @@ This Directive is addressed to the Member States.
 <tr><td>EU 28</td><td>6 %</td><td>  </td><td>19 %</td><td>22 %</td><td>  </td><td>49 %</td></tr>
 <tr><td colspan="7">(*1)  Member States having the choice to use the national emission total calculated on the basis of fuels used as a basis for compliance under the LRTAP Convention may keep that option in order to ensure coherence between international and Union law. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

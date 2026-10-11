@@ -1,0 +1,249 @@
+---
+title: "Regulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Community institutions and bodies"
+identifier: "32006R1367"
+eli: "http://data.europa.eu/eli/reg/2006/1367/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-09-06
+entry_into_force: 2006-05-25
+last_amended: 2023-04-29
+consolidated_version: "02006R1367-20230429"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R1367-20230429"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1367/2006 of the European Parliament and of the Council of 6 September 2006 on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Community institutions and bodies
+
+**REGULATION (EC) No 1367/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 September 2006**
+
+**on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Union  institutions and bodies**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/1767 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 October 2021 </td><td> L 356</td><td>1</td><td>8.10.2021</td></tr>
+</table>
+
+**REGULATION (EC) No 1367/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 September 2006**
+
+**on the application of the provisions of the Aarhus Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters to Union  institutions and bodies**
+
+## TITLE I — GENERAL PROVISIONS
+
+### Article 1 — Objective
+
+1\. The objective of this Regulation is to contribute to the implementation of the obligations arising under the UNECE Convention on Access to Information, Public Participation in Decision-making and Access to Justice in Environmental Matters, hereinafter referred to as ‘the Aarhus Convention’, by laying down rules to apply the provisions of the Convention to Union  institutions and bodies, in particular by:
+
+(a) guaranteeing the right of public access to environmental information received or produced by Union  institutions or bodies and held by them, and by setting out the basic terms and conditions of, and practical arrangements for, the exercise of that right;
+
+(b) ensuring that environmental information is progressively made available and disseminated to the public in order to achieve its widest possible systematic availability and dissemination. To that end, the use, in particular, of computer telecommunication and/or electronic technology, where available, shall be promoted;
+
+(c) providing for public participation concerning plans and programmes relating to the environment;
+
+(d) granting access to justice in environmental matters at Union  level under the conditions laid down by this Regulation.
+
+2\. In applying the provisions of this Regulation, the Union  institutions and bodies shall endeavour to assist and provide guidance to the public with regard to access to information, participation in decision-making and access to justice in environmental matters.
+
+### Article 2 — Definitions
+
+1\. For the purpose of this Regulation:
+
+(a) ‘applicant’ means any natural or legal person requesting environmental information;
+
+(b) ‘the public’ means one or more natural or legal persons, and associations, organisations or groups of such persons;
+
+(c) ‘ Union  institution or body’ means any public institution, body, office or agency established by, or on the basis of, TFEU  except when acting in a judicial or legislative capacity. However, the provisions under Title II shall apply to Union  institutions or bodies acting in a legislative capacity;
+
+(d) ‘environmental information’ means any information in written, visual, aural, electronic or any other material form on:
+
+(i) the state of the elements of the environment, such as air and atmosphere, water, soil, land, landscape and natural sites including wetlands, coastal and marine areas, biological diversity and its components, including genetically modified organisms, and the interaction among these elements;
+
+(ii) factors, such as substances, energy, noise, radiation or waste, including radioactive waste, emissions, discharges and other releases into the environment, affecting or likely to affect the elements of the environment referred to in point (i);
+
+(iii) measures (including administrative measures), such as policies, legislation, plans, programmes, environmental agreements, and activities affecting or likely to affect the elements and factors referred to in points (i) and (ii) as well as measures or activities designed to protect those elements;
+
+(iv) reports on the implementation of environmental legislation;
+
+(v) cost-benefit and other economic analyses and assumptions used within the framework of the measures and activities referred to in point (iii);
+
+(vi) the state of human health and safety, including the contamination of the food chain, where relevant, conditions of human life, cultural sites and built structures in as much as they are or may be affected by the state of the elements of the environment referred to in point (i) or, through those elements, by any of the matters referred to in points (ii) and (iii);
+
+(e) ‘plans and programmes relating to the environment’ means plans and programmes,
+
+(i) which are subject to preparation and, as appropriate, adoption by a Union  institution or body;
+
+(ii) which are required under legislative, regulatory or administrative provisions; and
+
+(iii) which contribute to, or are likely to have significant effects on, the achievement of the objectives of Union  environmental policy, such as laid down in the Sixth Union  Environment Action Programme, or in any subsequent general environmental action programme.
+
+General environmental action programmes shall also be considered as plans and programmes relating to the environment.
+
+This definition shall not include financial or budget plans and programmes, namely those laying down how particular projects or activities should be financed or those related to the proposed annual budgets, internal work programmes of a Union  institution or body, or emergency plans and programmes designed for the sole purpose of civil protection;
+
+(f) ‘environmental law’ means Union  legislation which, irrespective of its legal basis, contributes to the pursuit of the objectives of Union  policy on the environment as set out in TFEU  : preserving, protecting and improving the quality of the environment, protecting human health, the prudent and rational utilisation of natural resources, and promoting measures at international level to deal with regional or worldwide environmental problems;
+
+(g) ‘administrative act’ means any non-legislative act adopted by a Union institution or body, which has legal and external effects and contains provisions that may contravene environmental law within the meaning of point (f) of Article 2(1);
+
+(h) ‘administrative omission’ means any failure of a Union institution or body to adopt a non-legislative act which has legal and external effects, where such failure may contravene environmental law within the meaning of point (f) of Article 2(1).
+
+2\. Administrative acts and administrative omissions shall not include measures taken or omissions by a Union  institution or body in its capacity as an administrative review body, such as under:
+
+(a) Articles 81, 82, 86 and 87 of TFEU  (competition rules);
+
+(b) Articles 226 and 228 of TFEU  (infringement proceedings);
+
+(c) Article 195 of TFEU  (Ombudsman proceedings);
+
+(d) Article 280 of TFEU  (OLAF proceedings).
+
+## TITLE II — ACCESS TO ENVIRONMENTAL INFORMATION
+
+### Article 3 — Application of Regulation (EC) No 1049/2001
+
+Regulation (EC) No 1049/2001 shall apply to any request by an applicant for access to environmental information held by Union  institutions and bodies without discrimination as to citizenship, nationality or domicile and, in the case of a legal person, without discrimination as to where it has its registered seat or an effective centre of its activities.
+
+For the purposes of this Regulation, the word ‘institution’ in Regulation (EC) No 1049/2001 shall be read as ‘ Union  institution or body’.
+
+### Article 4 — Collection and dissemination of environmental information
+
+1\. Union  institutions and bodies shall organise the environmental information which is relevant to their functions and which is held by them, with a view to its active and systematic dissemination to the public, in particular by means of computer telecommunication and/or electronic technology in accordance with Articles 11(1) and (2), and 12 of Regulation (EC) No 1049/2001. They shall make this environmental information progressively available in electronic databases that are easily accessible to the public through public telecommunication networks. To that end, they shall place the environmental information that they hold on databases and equip these with search aids and other forms of software designed to assist the public in locating the information they require.
+
+The information made available by means of computer telecommunication and/or electronic technology need not include information collected before the entry into force of this Regulation unless it is already available in electronic form. Union  institutions and bodies shall as far as possible indicate where information collected before entry into force of this Regulation which is not available in electronic form is located.
+
+Union  institutions and bodies shall make all reasonable efforts to maintain environmental information held by them in forms or formats that are readily reproducible and accessible by computer telecommunications or by other electronic means.
+
+2\. The environmental information to be made available and disseminated shall be updated as appropriate. In addition to the documents listed in Article 12(2) and (3) and in Article 13(1) and (2) of Regulation (EC) No 1049/2001, the databases or registers shall include the following:
+
+(a) texts of international treaties, conventions or agreements, and of Union  legislation on the environment or relating to it, and of policies, plans and programmes relating to the environment;
+
+(b) progress reports on the implementation of the items referred to under (a) where prepared or held in electronic form by Union  institutions or bodies;
+
+(c) steps taken in proceedings for infringements of Union  law from the stage of the reasoned opinion pursuant to Article 226(1) of TFEU  ;
+
+(d) reports on the state of the environment as referred to in paragraph 4;
+
+(e) data or summaries of data derived from the monitoring of activities affecting, or likely to affect, the environment;
+
+(f) authorisations with a significant impact on the environment, and environmental agreements, or a reference to the place where such information can be requested or accessed;
+
+(g) environmental impact studies and risk assessments concerning environmental elements, or a reference to the place where such information can be requested or accessed.
+
+3\. In appropriate cases, Union  institutions and bodies may satisfy the requirements of paragraphs 1 and 2 by creating links to Internet sites where the information can be found.
+
+4\. The Commission shall ensure that, at regular intervals not exceeding four years, a report on the state of the environment, including information on the quality of, and pressures on, the environment is published and disseminated.
+
+### Article 5 — Quality of the environmental information
+
+1\. Union  institutions and bodies shall, insofar as is within their power, ensure that any information that is compiled by them, or on their behalf, is up-to-date, accurate and comparable.
+
+2\. Union  institutions and bodies shall, upon request, inform the applicant of the place where information on the measurement procedures, including methods of analysis, sampling and pre-treatment of samples, used in compiling the information can be found, if it is available. Alternatively, they may refer them to the standardised procedure that was used.
+
+### Article 6 — Application of exceptions concerning requests for access to environmental information
+
+1\. As regards Article 4(2), first and third indents, of Regulation (EC) No 1049/2001, with the exception of investigations, in particular those concerning possible infringements of Union  law, an overriding public interest in disclosure shall be deemed to exist where the information requested relates to emissions into the environment. As regards the other exceptions set out in Article 4 of Regulation (EC) No 1049/2001, the grounds for refusal shall be interpreted in a restrictive way, taking into account the public interest served by disclosure and whether the information requested relates to emissions into the environment.
+
+2\. In addition to the exceptions set out in Article 4 of Regulation (EC) No 1049/2001, Union  institutions and bodies may refuse access to environmental information where disclosure of the information would adversely affect the protection of the environment to which the information relates, such as the breeding sites of rare species.
+
+### Article 7 — Requests for access to environmental information which is not held by a Union  institution or body
+
+Where a Union  institution or body receives a request for access to environmental information and where this information is not held by that Union  institution or body, it shall, as promptly as possible, but within 15 working days at the latest, inform the applicant of the Union  institution or body or the public authority within the meaning of Directive 2003/4/EC to which it believes it is possible to apply for the information requested or transfer the request to the relevant Union  institution or body or the public authority and inform the applicant accordingly.
+
+### Article 8 — Cooperation
+
+In the event of an imminent threat to human health, life or the environment, whether caused by human activities or due to natural causes, Union  institutions and bodies shall, upon request of public authorities within the meaning of Directive 2003/4/EC, collaborate with and assist those public authorities in order to enable the latter to disseminate immediately and without delay to the public that might be affected all environmental information which could enable it to take measures to prevent or mitigate harm arising from the threat, to the extent that this information is held by or on behalf of Union  institutions and bodies and/or those public authorities.
+
+The first subparagraph shall apply without prejudice to any specific obligation laid down by Union  legislation, in particular by Decision No 2119/98/EC and by Decision No 1786/2002/EC.
+
+## TITLE III — PUBLIC PARTICIPATION CONCERNING PLANS AND PROGRAMMES RELATING TO THE ENVIRONMENT
+
+### Article 9
+
+1\. Union  institutions and bodies shall provide, through appropriate practical and/or other provisions, early and effective opportunities for the public to participate during the preparation, modification or review of plans or programmes relating to the environment when all options are still open. In particular, where the Commission prepares a proposal for such a plan or programme which is submitted to other Union  institutions or bodies for decision, it shall provide for public participation at that preparatory stage.
+
+2\. Union  institutions and bodies shall identify the public affected or likely to be affected by, or having an interest in, a plan or programme of the type referred to in paragraph 1, taking into account the objectives of this Regulation.
+
+3\. Union  institutions and bodies shall ensure that the public referred to in paragraph 2 is informed, whether by public notices or other appropriate means, such as electronic media where available, of:
+
+(a) the draft proposal, where available;
+
+(b) the environmental information or assessment relevant to the plan or programme under preparation, where available; and
+
+(c) practical arrangements for participation, including:
+
+(i) the administrative entity from which the relevant information may be obtained,
+
+(ii) the administrative entity to which comments, opinions or questions may be submitted, and
+
+(iii) reasonable time-frames allowing sufficient time for the public to be informed and to prepare and participate effectively in the environmental decision-making process.
+
+4\. A time limit of at least eight weeks shall be set for receiving comments. Where meetings or hearings are organised, prior notice of at least four weeks shall be given. Time limits may be shortened in urgent cases or where the public has already had the opportunity to comment on the plan or programme in question.
+
+5\. In taking a decision on a plan or programme relating to the environment, Union  institutions and bodies shall take due account of the outcome of the public participation. Union  institutions and bodies shall inform the public of that plan or programme, including its text, and of the reasons and considerations upon which the decision is based, including information on public participation.
+
+## TITLE IV — INTERNAL REVIEW AND ACCESS TO JUSTICE
+
+### Article 10 — Request for internal review of administrative acts
+
+1\. Any non-governmental organisation or other members of the public that meet the criteria set out in Article 11 shall be entitled to make a request for internal review to the Union institution or body that adopted the administrative act or, in the case of an alleged administrative omission, should have adopted such an act, on the grounds that such an act or omission contravenes environmental law within the meaning of point (f) of Article 2(1).
+
+Such requests shall be made in writing and within a time limit not exceeding eight weeks after the administrative act was adopted, notified or published, whichever is the latest, or, in the case of an alleged administrative omission, eight weeks after the date when the administrative act was required. The request shall state the grounds for the review.
+
+2\. The Union institution or body referred to in paragraph 1 shall consider any such request, unless it is manifestly unfounded or clearly unsubstantiated. In the event that a Union institution or body receives multiple requests for review of the same administrative act or administrative omission, the institution or body may combine the requests and treat them as one. The Union institution or body shall state its reasons in a written reply as soon as possible, but no later than 16 weeks after the expiry of the eight weeks deadline set forth in the second subparagraph of paragraph 1.
+
+3\. Where the Union  institution or body is unable, despite exercising due diligence, to act in accordance with paragraph 2, it shall inform the non-governmental organisation which made the request as soon as possible and at the latest within the period mentioned in that paragraph, of the reasons for its failure to act and when it intends to do so.
+
+In any event, the Union institution or body shall act within 22 weeks of the expiry of the eight weeks deadline set out in the second subparagraph of paragraph 1.
+
+### Article 11 — Criteria for entitlement at Union  level
+
+1\. A non-governmental organisation shall be entitled to make a request for internal review in accordance with Article 10, provided that:
+
+(a) it is an independent non-profit-making legal person in accordance with a Member State's national law or practice;
+
+(b) it has the primary stated objective of promoting environmental protection in the context of environmental law;
+
+(c) it has existed for more than two years and is actively pursuing the objective referred to under (b);
+
+(d) the subject matter in respect of which the request for internal review is made is covered by its objective and activities.
+
+1a. A request for internal review may also be made by other members of the public, subject to the following conditions:
+
+(a) they shall demonstrate impairment of their rights caused by the alleged contravention of Union environmental law and that they are directly affected by such impairment in comparison with the public at large; or
+
+(b) they shall demonstrate a sufficient public interest and that the request is supported by at least 4 000 members of the public residing or established in at least five Member States, with at least 250 members of the public coming from each of those Member States.
+
+In the cases referred to in the first subparagraph, the members of the public shall be represented by a non-governmental organisation which meets the criteria set out in paragraph 1 or by a lawyer authorised to practise before a court of a Member State. That non-governmental organisation or lawyer shall cooperate with the Union institution or body concerned in order to establish that the quantitative conditions in point (b) of the first subparagraph are met, where applicable, and shall provide further evidence thereof upon request.
+
+2\. The Commission shall adopt the provisions which are necessary to ensure that the criteria and conditions mentioned in paragraph 1 and the second subparagraph of paragraph 1a are applied in a transparent and consistent manner.
+
+### Article 11a — Publishing of requests and final decisions, and online systems for receipt of requests
+
+1\. Union institutions and bodies shall publish all requests for internal review as soon as possible after their receipt, as well as all final decisions on those requests as soon as possible after their adoption.
+
+2\. Union institutions and bodies may establish online systems for receipt of requests for internal review and may require that all requests for internal review be submitted via their online systems.
+
+### Article 12 — Proceedings before the Court of Justice
+
+1\. The non-governmental organisation which made the request for internal review pursuant to Article 10 may institute proceedings before the Court of Justice in accordance with the relevant provisions of TFEU  .
+
+2\. Where the Union institution or body fails to act in accordance with Article 10(2) or (3), the non-governmental organisation or other members of the public that made the request for internal review pursuant to Article 10 may institute proceedings before the Court of Justice in accordance with the relevant provisions of TFEU  .
+
+## TITLE V — FINAL PROVISIONS
+
+### Article 13 — Application measures
+
+Where necessary, Union  institutions and bodies shall adapt their rules of procedure to the provisions of this Regulation. These adaptations shall take effect from 28 June 2007.
+
+### Article 14 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 28 June 2007.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.

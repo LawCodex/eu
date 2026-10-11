@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(recast)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2022/543 of 5 April 2022 </td><td> L 107</td><td>13</td><td>6.4.2022</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE (EU) 2020/262**
 

@@ -1,0 +1,398 @@
+---
+title: "Council Regulation (EC) No 2173/2005 of 20 December 2005 on the establishment of a FLEGT licensing scheme for imports of timber into the European Community"
+identifier: "32005R2173"
+eli: "http://data.europa.eu/eli/reg/2005/2173/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2005-12-20
+entry_into_force: 2005-01-27
+last_amended: 2025-07-08
+consolidated_version: "02005R2173-20250708"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005R2173-20250708"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 2173/2005 of 20 December 2005 on the establishment of a FLEGT licensing scheme for imports of timber into the European Community
+
+**COUNCIL REGULATION (EC) No 2173/2005**
+
+**of 20 December 2005**
+
+**on the establishment of a FLEGT licensing scheme for imports of timber into the European Community**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 657/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 189</td><td>108</td><td>27.6.2014</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2016/1387 of 9 June 2016 </td><td> L 223</td><td>1</td><td>18.8.2016</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1010 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 5 June 2019 </td><td> L 170</td><td>115</td><td>25.6.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/530 of 30 October 2024 </td><td> L 530</td><td>1</td><td>20.3.2025</td></tr>
+</table>
+
+**COUNCIL REGULATION (EC) No 2173/2005**
+
+**of 20 December 2005**
+
+**on the establishment of a FLEGT licensing scheme for imports of timber into the European Community**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1
+
+1\. This Regulation establishes a Community set of rules for the import of certain timber products for the purposes of implementing the FLEGT licensing scheme.
+
+2\. The licensing scheme shall be implemented through Partnership Agreements with timber producing countries.
+
+3\. This Regulation shall apply to imports of timber products set out in Annexes II and III from partner countries listed in Annex I.
+
+### Article 2
+
+For the purposes of this Regulation the following definitions shall apply:
+
+1\. ‘Forest Law Enforcement, Governance and Trade licensing scheme’ (hereinafter referred to as FLEGT licensing scheme) means the issuing of licences for timber products for export to the Community from partner countries and its implementation in the Community, in particular in Community provisions on border controls;
+
+2\. ‘partner country’ means any State or regional organisation that enters into a Partnership Agreement, as listed in Annex I;
+
+3\. ‘Partnership Agreement’ means an agreement between the Community and a partner country by which the Community and that partner country undertake to work together in support of the FLEGT Action Plan and to implement the FLEGT licensing scheme;
+
+4\. ‘regional organisation’ means an organisation consisting of sovereign states that have transferred competence to that organisation, granting it the capacity to enter into a Partnership Agreement on their behalf, in respect of matters governed by the FLEGT licensing scheme, as listed in Annex I;
+
+5\. ‘FLEGT licence’ means a shipment-based or market participant-based document of a standard format which is to be forgery-resistant, tamper-proof, and verifiable, and which refers to a shipment as being in compliance with the requirements of the FLEGT licensing scheme, duly issued and validated by a partner country’s licensing authority. Systems for issuing, recording and communicating licences may be paper-based or based on electronic means, as appropriate;
+
+6\. ‘market participant’ means an actor, private or public, involved in forestry or transformation or trade of timber products;
+
+7\. ‘licensing authority(ies)’ means the authority(ies) designated by a partner country to issue and validate FLEGT licences;
+
+8\. ‘competent authority(ies)’ means the authority(ies) designated by Member States to verify FLEGT licences;
+
+9\. ‘timber products’ means the products set out in Annexes II and III, to which the FLEGT licensing scheme applies, and which, when imported into the Community, cannot be qualified as ‘goods of a non-commercial nature’ as defined in point 6 of Article 1 of Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code ( 1 );
+
+10\. ‘legally produced timber’ means timber products produced from domestic timber that was legally harvested or timber that was legally imported into a partner country in accordance with national laws determined by that partner country as set out in the Partnership Agreement;
+
+11\. ‘imports’ means the release for free circulation of timber products within the meaning of Article 79 of Council Regulation (EEC) No 2913/1992 of 12 October 1992 establishing the Community Customs Code ( 2 )
+
+12\. ‘shipment’ means a shipment of timber products;
+
+13\. ‘export’ means the physical leaving or taking out of timber products from any part of the geographical territory of a partner country to bring them into the Community;
+
+14\. ‘third-party monitoring’ means a system through which an organisation that is independent of a partner country's government authorities and its forest and timber sector monitors and reports on the operation of the FLEGT licensing scheme.
+
+## CHAPTER II — FLEGT LICENSING SCHEME
+
+### Article 3
+
+1\. The FLEGT licensing scheme shall apply only to imports from partner countries.
+
+2\. Each Partnership Agreement shall specify an agreed schedule for implementing the commitments entered into by that Agreement.
+
+### Article 4
+
+1\. Imports into the Community of timber products exported from partner countries shall be prohibited unless the shipment is covered by a FLEGT licence.
+
+2\. In order to provide the necessary assurance as to the legality of the timber products concerned, the Commission shall assess existing schemes that guarantee the legality and reliable tracking of timber products exported from partner countries, and adopt implementing acts to approve them. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11(3).
+
+The schemes approved by the Commission may form the basis of a FLEGT licence.
+
+3\. Timber products of species listed in Annexes A, B and C to Council Regulation (EC) No 338/97 ( 3 ) shall be exempt from the requirement laid down in paragraph 1 of this Article.
+
+The Commission shall review that exemption, taking into account market developments and the experience gained in the implementation of this Regulation, shall report on its findings to the European Parliament and to the Council and, if necessary, shall come forward with appropriate legislative proposals.
+
+### Article 5
+
+1\. A FLEGT licence covering each shipment shall be available to the competent authority at the same time as the customs declaration for that shipment is presented for release for free circulation in the Community. The competent authorities shall keep a record — in electronic or paper format — of the original FLEGT licence together with the corresponding customs declaration.
+
+Import of timber products under a FLEGT licence issued to a market participant shall be accepted as long as the market participant’s licence remains valid.
+
+2\. The competent authorities shall provide the Commission, or persons or bodies designated by the Commission, with access to the relevant documents and data, should problems arise which impair the effective operation of the FLEGT licensing scheme.
+
+3\. The competent authorities shall grant to the persons or bodies designated by partner countries as being responsible for the third party monitoring of the FLEGT licensing scheme access to the relevant documents and data, but the competent authorities shall not be required to provide any information which they are not permitted to communicate pursuant to their national law.
+
+4\. The competent authorities shall decide on the need for further verification of shipments using a risk-based approach.
+
+5\. In case of doubt as to the validity of the licence, the competent authorities may ask the licensing authorities for additional verification and seek further clarification, as set out in the Partnership Agreement with the exporting partner country.
+
+6\. Member States may collect fees to cover the necessary expenses arising from official acts by competent authorities required for control purposes under this Article.
+
+7\. Customs authorities may suspend the release of or detain timber products where they have reason to believe that the licence may not be valid. Costs incurred while the verification is completed shall be at the expense of the importer, except where the Member State concerned determines otherwise.
+
+8\. Each Member State shall determine the penalties to be imposed where the provisions of this Regulation are infringed. Such penalties shall be effective, proportionate and dissuasive.
+
+9\. In order to ensure uniform conditions for the implementation of this Article, the Commission shall, by means of implementing acts, adopt the procedural modalities and the documents of a standard format, including their possible means. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11(3).
+
+### Article 6
+
+1\. If competent authorities establish that the requirement laid down in Article 4(1) is not fulfilled, they shall act in accordance with national legislation in force.
+
+2\. Member States shall notify the Commission of any information suggesting that the provisions of this Regulation are being, or have been, circumvented.
+
+### Article 7
+
+1\. Member States shall designate the competent authorities responsible for implementing this Regulation and for communicating with the Commission.
+
+2\. The Commission shall provide all competent authorities of the Member States with the names and other relevant details of the licensing authorities designated by partner countries, authenticated specimens of stamps and signatures attesting that a licence has been legally issued, and any other relevant information received in respect of licences.
+
+### Article 8
+
+1\. Member States shall make available to the public and to the Commission, at the latest by 30 April of each year, information on the application of this Regulation during the previous calendar year.
+
+2\. The Commission shall establish, by means of implementing acts, the format and the procedure for Member States to make available the information referred to in paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 11(3).
+
+3\. Based on the information referred to in paragraph 1, the Commission services shall make publicly available, on an annual basis, a Union-wide overview on the basis of the data submitted by Member States.
+
+## CHAPTER III — GENERAL PROVISIONS
+
+### Article 9
+
+By December 2021 and every five years thereafter, the Commission shall, on the basis of information, in particular the information referred to in Article 8(1), and experience with the application of this Regulation, review the functioning and effectiveness of this Regulation. In doing so, it shall take into account the progress on implementation of the voluntary Partnership Agreements. The Commission shall report to the European Parliament and to the Council on the result of the review every five years and accompany such reports where appropriate, by proposals for improvement of the FLEGT licensing scheme.
+
+### Article 10
+
+1\. The Commission shall be empowered to adopt delegated acts in accordance with Article 11a to amend the list of partner countries and their designated licensing authorities as set out in Annex I.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 11a to amend the list of timber products as set out in Annex II to which the FLEGT licensing scheme applies. In adopting those amendments, the Commission shall take into account the implementation of the FLEGT Partnership Agreements. Such amendments shall comprise commodity codes, at four-digit heading level or six-digit subheading level of the current version of Annex I to the Harmonised Commodity Description and Coding System.
+
+3\. The Commission shall be empowered to adopt delegated acts in accordance with Article 11a to amend the list of timber products as set out in Annex III to which the FLEGT licensing scheme applies. In adopting those amendments, the Commission shall take into account the implementation of the FLEGT Partnership Agreements. Such amendments shall comprise commodity codes, at four-digit heading level or six-digit subheading level of the current version of Annex I to the Harmonised Commodity Description and Coding System and shall only apply in relation to the corresponding partner countries as set out in Annex III.
+
+### Article 11
+
+1\. The Commission shall be assisted by the Forest Law Enforcement Governance and Trade (FLEGT) Committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 4 ).
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 11a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 10(1), (2) and (3) shall be conferred on the Commission for a period of five years from 30 June 2014. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 10(1), (2) and (3) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Article 10(1), (2) and (3) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by four months at the initiative of the European Parliament or of the Council.
+
+### Article 12
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**PARTNER COUNTRIES AND THEIR DESIGNATED LICENSING AUTHORITIES**
+
+| Partner country | Designated licensing authority |
+| --- | --- |
+| THE REPUBLIC OF GHANA | Timber Industry Development Division Forestry Commission* Forestry Commission P. O. Box 783 Takoradi — Ghana Tel. +233 312024100 Email: info.tidd@fcghana.org |
+
+<table>
+<tbody><tr><td>Partner country</td><td>Designated licensing authorities</td></tr>
+<tr><td>THE REPUBLIC OF INDONESIA</td><td>Licence Information Unit (LIU) (1) Ministry of Environment and Forestry  Gedung Manggala Wanabakti Blok I Lantai 2  Jln. Gatot Subroto — Senayan  Jakarta — Pusat — Indonesia — 10270  Phone: +62 21 5730268/269  Fax +62 21 5737093  Email: subditivlk@gmail.com; marianalubis1962@gmail.com </td></tr>
+<tr><td colspan="2">(1)  According to Article 4(4) of the VPA, a Licence Information Unit (LIU) has been established by Indonesia to serve as a contact point for communications between EU Member States competent authorities and the Indonesian Licensing Authorities. The LIU is an information management unit which validates information concerning V-Legal Document/FLEGT licence issuance. The LIU is also responsible for general information exchange on the TLAS, and receives and stores relevant data and information on the issuance of certificates of legality and FLEGT licences. It also responds to queries from competent authorities of trading partners and stakeholders. Some of the verification bodies, which are conformity assessment bodies accredited by the Indonesian National Accreditation Body (KAN), are authorized and overseen by the Indonesian Ministry of Forestry and Environment to act as licensing authorities. An updated list of authorized licensing authorities is available through the LIU and also at the link: http://silk.dephut.go.id/index.php/info/lvlk. </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Timber products to which the FLEGT licensing scheme applies irrespective of the partner country**
+
+HS heading Description
+
+4403 Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared
+
+4406 Railway or tramway sleepers (cross-ties) of wood
+
+4407 Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm
+
+4408 Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for other similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm
+
+4412 Plywood, veneered panels and similar laminated wood
+
+## ANNEX III — Timber products to which the FLEGT licensing scheme applies only in relation to the corresponding partner countries
+
+<table>
+<tbody><tr><td>Partner country</td><td>Heading</td><td>HS subheading</td><td>Description</td></tr>
+<tr><td rowspan="81">THE REPUBLIC OF GHANA</td><td>CHAPTER 44:</td><td>  </td><td>  </td></tr>
+<tr><td>4403 </td><td>  </td><td>Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared</td></tr>
+<tr><td>  </td><td>  </td><td>– Treated with paint, stains, creosote or other preservatives:</td></tr>
+<tr><td>  </td><td>4403 11 </td><td>– – Coniferous</td></tr>
+<tr><td>  </td><td>4403 12 </td><td>– – Non-coniferous</td></tr>
+<tr><td>  </td><td>  </td><td>– – Other, of tropical wood:</td></tr>
+<tr><td>  </td><td>4403 49 </td><td>– – Other</td></tr>
+<tr><td>4406 </td><td>  </td><td>Railway or tramway sleepers (cross-ties) of wood</td></tr>
+<tr><td>  </td><td>  </td><td>– Not impregnated:</td></tr>
+<tr><td>  </td><td>4406 11 </td><td>– – Coniferous</td></tr>
+<tr><td>  </td><td>4406 12 </td><td>– – Non-coniferous</td></tr>
+<tr><td>  </td><td>  </td><td>– Other:</td></tr>
+<tr><td>  </td><td>4406 91 </td><td>– – Coniferous</td></tr>
+<tr><td>  </td><td>4406 92 </td><td>– – Non-coniferous</td></tr>
+<tr><td>4407 </td><td>  </td><td>Wood sawn or chipped lengthwise, sliced or peeled, whether or not planed, sanded or end-jointed, of a thickness exceeding 6 mm</td></tr>
+<tr><td>  </td><td>  </td><td>– Coniferous:</td></tr>
+<tr><td>  </td><td>4407 11 </td><td>– – Of pine (Pinus spp.)</td></tr>
+<tr><td>  </td><td>4407 19 </td><td>– Other</td></tr>
+<tr><td>  </td><td>  </td><td>– Of tropical wood:</td></tr>
+<tr><td>  </td><td>4407 21 </td><td>– – Mahogany (Swietenia spp.)</td></tr>
+<tr><td>  </td><td>4407 27 </td><td>– – Sapelli</td></tr>
+<tr><td>  </td><td>4407 28 </td><td>– – Iroko</td></tr>
+<tr><td>  </td><td>4407 29 </td><td>– Other</td></tr>
+<tr><td>  </td><td>  </td><td>– Other</td></tr>
+<tr><td>  </td><td>ex 4407 99 </td><td>– – Other (not from bamboo or rattan)</td></tr>
+<tr><td>4408 </td><td>  </td><td>Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end-jointed, of a thickness not exceeding 6 mm</td></tr>
+<tr><td>  </td><td>4408 10 </td><td>– Coniferous</td></tr>
+<tr><td>  </td><td>  </td><td>– Of tropical wood:</td></tr>
+<tr><td>  </td><td>4408 39 </td><td>– Other</td></tr>
+<tr><td>  </td><td>ex 4408 90 </td><td>– Other (not from bamboo or rattan)</td></tr>
+<tr><td>4409 </td><td>  </td><td>Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V-jointed, beaded, moulded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end-jointed</td></tr>
+<tr><td>  </td><td>4409 10 </td><td>– Coniferous</td></tr>
+<tr><td>  </td><td>  </td><td>– Non-coniferous:</td></tr>
+<tr><td>  </td><td>4409 22 </td><td>– – Of tropical wood</td></tr>
+<tr><td>  </td><td>ex 4409 29 </td><td>– – Other (not from rattan)</td></tr>
+<tr><td>4412 </td><td>  </td><td>Plywood, veneered panels and similar laminated wood</td></tr>
+<tr><td>  </td><td>  </td><td>– Other plywood, consisting solely of sheets of wood (other than bamboo), each ply not exceeding 6 mm thickness:</td></tr>
+<tr><td>  </td><td>4412 31 </td><td>– – With at least one outer ply of tropical wood</td></tr>
+<tr><td>  </td><td>4412 33 </td><td>– – Other, with at least one outer ply of non-coniferous wood of the species alder (Alnus spp.) ash (Fraxinus spp.) beech (Fagus spp.), birch (Betula spp.), cherry (Prunus spp.), chestnut (Castanea spp.), elm (Ulmus spp.), eucalyptus (Eucalyptus spp.), hickory (Carya spp.), horse chestnut (Aesculus spp.), lime (Tilia spp.), maple (Acer spp.), oak (Quercus spp.), plane tree (Platanus spp.), poplar and aspen (Populus spp.), robinia (Robinia spp.), tulipwood (Liriodendron spp.) or walnut (Juglans spp.)</td></tr>
+<tr><td>  </td><td>4412 34 </td><td>– – Other, with at least one outer ply of non-coniferous wood not specified under subheading 4412 33 </td></tr>
+<tr><td>  </td><td>4412 39 </td><td>– – Other, with both outer piles of coniferous wood</td></tr>
+<tr><td>  </td><td>  </td><td>– Blockboard, laminboard and battenboard</td></tr>
+<tr><td>  </td><td>ex 4412 51 </td><td>– – With at least one outer ply of tropical wood (not from rattan)</td></tr>
+<tr><td>  </td><td>ex 4412 52 </td><td>– – Other, with at least one outer ply of non-coniferous wood (not from rattan)</td></tr>
+<tr><td>  </td><td>ex 4412 59 </td><td>– – Other, with both outer plies of coniferous wood (not from rattan)</td></tr>
+<tr><td>  </td><td>  </td><td>– Other</td></tr>
+<tr><td>  </td><td>ex 4412 91 </td><td>– – With at least one outer ply of tropical wood (not from rattan)</td></tr>
+<tr><td>  </td><td>ex 4412 92 </td><td>– – Other, with at least one outer ply of non-coniferous wood (not from rattan)</td></tr>
+<tr><td>  </td><td>ex 4412 99 </td><td>– – Other, with both outer plies of coniferous wood (not of rattan)</td></tr>
+<tr><td>4418 </td><td>  </td><td>Builders’ joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes</td></tr>
+<tr><td>  </td><td>  </td><td>– Windows, French-windows and their frames</td></tr>
+<tr><td>  </td><td>4418 11 </td><td>– – Of tropical wood</td></tr>
+<tr><td>  </td><td>ex 4418 19 </td><td>– – Other (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>  </td><td>– Doors and their frames and thresholds</td></tr>
+<tr><td>  </td><td>4418 21 </td><td>– – Of tropical wood</td></tr>
+<tr><td>  </td><td>ex 4418 29 </td><td>– – Other (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>ex 4418 40 </td><td>– Shuttering for concrete constructional work (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>ex 4418 50 </td><td>— Shingles and shakes (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>ex 4418 30 </td><td>– Posts and beams other than products of subheadings 4418 81 to 4418 89 (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>  </td><td>– Assembled flooring panels:</td></tr>
+<tr><td>  </td><td>4418 74 </td><td>– – Other, for mosaic floors</td></tr>
+<tr><td>  </td><td>4418 75 </td><td>– – Other, multilayer</td></tr>
+<tr><td>  </td><td>ex 4418 79 </td><td>– – Other (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>  </td><td>– Engineered structural timber products</td></tr>
+<tr><td>  </td><td>ex 4418 81 </td><td>– – Glue-laminated timber (glulam) (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>ex 4418 82 </td><td>– – Cross-laminated timber (CLT or X-lam) (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>ex 4418 83 </td><td>– – I beams (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>ex 4418 89 </td><td>– – Other (not from bamboo or rattan)</td></tr>
+<tr><td>  </td><td>  </td><td>– Other:</td></tr>
+<tr><td>  </td><td>ex 4418 92 </td><td>– – Cellular wood panels (not from rattan)</td></tr>
+<tr><td>  </td><td>ex 4418 99 </td><td>– – Other (not from rattan)</td></tr>
+<tr><td>CHAPTER 94:</td><td>  </td><td>  </td></tr>
+<tr><td>9401 </td><td>  </td><td>Seats (other than those of heading 9402 ), whether or not convertible into beds, and parts thereof</td></tr>
+<tr><td>  </td><td>  </td><td>– Parts</td></tr>
+<tr><td>  </td><td>ex 9401 91 </td><td>– Of wood (not from bamboo or rattan)</td></tr>
+<tr><td>9403 </td><td>  </td><td>Other furniture and parts thereof</td></tr>
+<tr><td>  </td><td>9403 30 </td><td>– Wooden furniture of a kind used in offices</td></tr>
+<tr><td>  </td><td>9403 40 </td><td>– Wooden furniture of a kind used in the kitchen</td></tr>
+<tr><td>  </td><td>9403 50 </td><td>– Wooden furniture of a kind used in the bedroom</td></tr>
+<tr><td>  </td><td>9403 60 </td><td>– Other wooden furniture</td></tr>
+<tr><td>  </td><td>  </td><td>– Parts</td></tr>
+<tr><td>  </td><td>  </td><td>ex 9403 91 </td><td>– – Of wood (not of bamboo or rattan)</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td>Partner country</td><td>HS heading</td><td>Description</td></tr>
+<tr><td rowspan="84">THE REPUBLIC OF INDONESIA</td><td colspan="2">CHAPTER 44</td></tr>
+<tr><td>  </td><td>Fuel wood, in logs, in billets, in twigs, in faggots or in similar forms; wood in chips or particles; sawdust and wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms.</td></tr>
+<tr><td>4401 21 </td><td>– Wood in chips or particles – – coniferous</td></tr>
+<tr><td>ex 4401 22 </td><td>– Wood in chips or particles – – non coniferous (not from bamboo nor rattan)</td></tr>
+<tr><td>4403 </td><td>Wood in the rough, whether or not stripped of bark or sapwood, or roughly squared. (Prohibited from export under the Indonesian law. In line with Article 3(3) of the Voluntary Partnership Agreement between the European Union and the Republic of Indonesia on forest law enforcement, governance and trade in timber products into the European Union (hereinafter referred to as the ‘EU-Indonesia VPA’) (1), products under this HS code may not be FLEGT licensed and therefore may not be imported into the Union).</td></tr>
+<tr><td>ex 4404 10 </td><td>Chipwood and the like – coniferous</td></tr>
+<tr><td>ex 4404 20 </td><td>Chipwood and the like – non coniferous – – Chipwood</td></tr>
+<tr><td>ex 4404 </td><td>Hoopwood; split poles; piles, pickets and stakes of wood, pointed but not sawn lengthwise; wooden sticks, roughly trimmed, but not turned, bent or otherwise worked, suitable for the manufacture of walking sticks, umbrellas, tool handles or the like. (Prohibited from export under the Indonesian law. In line with Article 3(3) of the EU-Indonesia VPA, products under this HS code may not be FLEGT licensed and therefore may not be imported into the Union).</td></tr>
+<tr><td>4406 </td><td>Railway or tramway sleepers (cross ties) of wood. (Prohibited from export under Indonesian law. In line with Article 3(3) of the EU-Indonesia VPA, products under this HS code may not be FLEGT licensed and therefore may not be imported into the Union).</td></tr>
+<tr><td>ex 4407 </td><td>Wood sawn or chipped lengthwise, sliced or peeled, planed, sanded or end jointed, of a thickness exceeding 6 mm.</td></tr>
+<tr><td>ex 4407 </td><td>Wood sawn or chipped lengthwise, sliced or peeled, not planed, not sanded or not end jointed, of a thickness exceeding 6 mm. (prohibited from export under Indonesian law. In line with Article 3(3) of the EU-Indonesia VPA, products under this HS code may not be FLEGT licensed and therefore may not be imported into the Union).</td></tr>
+<tr><td>  </td><td>Sheets for veneering (including those obtained by slicing laminated wood), for plywood or for similar laminated wood and other wood, sawn lengthwise, sliced or peeled, whether or not planed, sanded, spliced or end jointed, of a thickness not exceeding 6 mm</td></tr>
+<tr><td>4408 10 </td><td>– Coniferous</td></tr>
+<tr><td>4408 31 </td><td>Dark Red Meranti, Light Red Meranti, and Meranti Bakau</td></tr>
+<tr><td>4408 39 </td><td>Other, except coniferous, Dark Red Meranti, Light Red Meranti, and Meranti Bakau</td></tr>
+<tr><td>ex 4408 90 </td><td>Other, except coniferous and tropical wood specified in Subheading Note 2 to this chapter (not from bamboo nor rattan)</td></tr>
+<tr><td>  </td><td>Wood (including strips and friezes for parquet flooring, not assembled) continuously shaped (tongued, grooved, rebated, chamfered, V jointed, beaded, moulded, rounded or the like) along any of its edges, ends or faces, whether or not planed, sanded or end jointed.</td></tr>
+<tr><td>4409 10 </td><td>– Coniferous</td></tr>
+<tr><td>ex 4409 29 </td><td>– Non coniferous – other (not from rattan)</td></tr>
+<tr><td>  </td><td>Particle board, oriented strand board (OSB) and similar board (for example, waferboard) of wood or other ligneous materials, whether or not agglomerated with resins or other organic binding substances</td></tr>
+<tr><td>ex 4410 11 </td><td>– Of wood – – Particle board (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4410 12 </td><td>– Of wood – – Oriented strand board (OSB) (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4410 19 </td><td>– Of wood – – Other (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4411 </td><td>Fibreboard of wood or other ligneous materials, whether or not bonded with resins or other organic substances (not from bamboo nor rattan)</td></tr>
+<tr><td>  </td><td>Plywood, veneered panels and similar laminated wood</td></tr>
+<tr><td>4412 31 </td><td>– Other plywood, consisting solely of sheets of wood (other than bamboo), each ply not exceeding 6 mm thickness: – – With at least one outer ply of tropical wood specified in Subheading Note 2 to this Chapter</td></tr>
+<tr><td>4412 32 </td><td>– Other plywood, consisting solely of sheets of wood (other than bamboo), each ply not exceeding 6 mm thickness: – – Other, with at least one outer ply of non-coniferous wood</td></tr>
+<tr><td>4412 39 </td><td>– Other plywood, consisting solely of sheets of wood (other than bamboo), each ply not exceeding 6 mm thickness: – – Other</td></tr>
+<tr><td>ex 4412 94 </td><td>– Other: – – Blockboard, laminboard and battenboard (not from rattan)</td></tr>
+<tr><td>ex 4412 99 </td><td>– Other: – – Other: – – – Barecore (wood waste glued together) (not from rattan) and – – – Other (not from rattan)</td></tr>
+<tr><td>ex 4413 </td><td>Densified wood, in blocks, plates, strips or profile shapes (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4414 </td><td>Wooden frames for paintings, photographs, mirrors or similar objects (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4415 </td><td>Packing cases, boxes, crates, drums and similar packings, of wood; cable drums of wood; pallets, box pallets and other load boards, of wood; pallet collars of wood (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4416 </td><td>Casks, barrels, vats, tubs and other coopers' products and parts thereof, of wood, including staves (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4417 </td><td>Tools, tool bodies, tool handles, broom or brush bodies and handles, of wood; boot or shoe lasts and trees, of wood (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4418 </td><td>Builders' joinery and carpentry of wood, including cellular wood panels, assembled flooring panels, shingles and shakes (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4419 </td><td>Tableware and kitchenware, of wood (not from bamboo and rattan)</td></tr>
+<tr><td>  </td><td>Wood marquetry and inlaid wood; caskets and cases for jewellery or cutlery, and similar articles, of wood.</td></tr>
+<tr><td>ex 4420 90 </td><td>– Other – – Wood in the form of logs or squared logs with simple process in the surface, carved or finely threaded or painted, does not have significant added-value and no significant change in shape (HS ex 4420 90 90 00 in Indonesia) (Prohibited from export under Indonesian law. In line with Article 3(3) of the EU-Indonesia VPA, products under this HS code may not be FLEGT licensed and therefore may not be imported into the Union).</td></tr>
+<tr><td>  </td><td>Other articles of wood</td></tr>
+<tr><td>ex 4421 90 </td><td>– Other – – Match splints (not from bamboo nor rattan) and – – Other – – – Wooden paving blocks (not from bamboo nor rattan)</td></tr>
+<tr><td>ex 4421 90 </td><td>– Other – – Other – – – Wood in the form of logs or squared logs with simple process in the surface, carved or finely threaded or painted, does not have significant added-value and no significant change in shape (HS ex 4421 90 99 00 in Indonesia) (Prohibited from export under the Indonesian law. In line with Article 3(3) of the EU-Indonesia VPA, products under this HS code may not be FLEGT licensed and therefore may not be imported into the Union).</td></tr>
+<tr><td colspan="2">CHAPTER 47</td></tr>
+<tr><td>  </td><td>Pulp of wood or of other fibrous cellulosic material; recovered (waste and scrap) paper or paperboard:</td></tr>
+<tr><td>4701 </td><td>Mechanical wood pulp</td></tr>
+<tr><td>4702 </td><td>Chemical wood pulp, dissolving grades</td></tr>
+<tr><td>4703 </td><td>Chemical wood pulp, soda or sulphate, other than dissolving grades.</td></tr>
+<tr><td>4704 </td><td>Chemical wood pulp, sulphite, other than dissolving grades</td></tr>
+<tr><td>4705 </td><td>Wood pulp obtained by a combination of mechanical and chemical pulping processes</td></tr>
+<tr><td colspan="2">CHAPTER 48 (2)</td></tr>
+<tr><td>ex 4802 </td><td>Uncoated paper and paperboard, of a kind used for writing, printing or other graphic purposes, and non-perforated punch cards and punch tape paper, in rolls or rectangular (including square) sheets, of any size, other than paper of heading 4801 or 4803 ; hand-made paper and paperboard (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4803 </td><td>Toilet or facial tissue stock, towel or napkin stock and similar paper of a kind used for household or sanitary purposes, cellulose wadding and webs of cellulose fibres, whether or not creped, crinkled, embossed, perforated, surface coloured, surface decorated or printed, in rolls or sheets (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4804 </td><td>Uncoated kraft paper and paperboard, in rolls or sheets, other than that of heading 4802 or 4803 (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4805 </td><td>Other Uncoated paper and paperboard, in rolls or sheets, not further worked or processed than as specify in Note 3 to this chapter (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4806 </td><td>Vegetable parchment, greaseproof papers, tracing papers and glassine and other glazed transparent or translucent papers, in rolls or sheets (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4807 </td><td>Composite paper and paperboard (made by sticking flat layers of paper or paperboard together with an adhesive), not surface coated or impregnated, whether or not internally reinforced, in rolls or sheets (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4808 </td><td>Paper and paperboard, corrugated (with or without glued flat surface sheets), creped, crinkled, embossed or perforated, in rolls or sheets, other than paper of the kind described in heading 4803 (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4809 </td><td>Carbon paper, self-copy paper and other copying or transfer papers (including coated or impregnated paper for duplicator stencils or offset plates), whether or not printed, in rolls or sheets (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4810 </td><td>Paper and paperboard, coated on one or both sides with kaolin (China clay) or other inorganic substances, with or without binder, and with no other coating, whether or not surface coloured, surface decorated or printed, in rolls or rectangular (including square) sheets, of any size (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4811 </td><td>Paper, paperboard, cellulose wadding and webs of cellulose fibres, coated, impregnated, covered, surface coloured, surface decorated or printed, in rolls or rectangular (including square) sheets, of any size, other than goods of the kind described in heading 4803 , 4809 or 4810 (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4812 </td><td>Filter blocks, slabs and plates, of paper pulp (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4813 </td><td>Cigarette paper, whether or not cut to size or in the form booklets or tubes (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4814 </td><td>Wallpaper and similar wall covering; window transparencies of paper (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4816 </td><td>Carbon paper, self-copy paper and other copying or transfer papers (other than those of heading 4809 ), duplicator stencils and offset plates, of paper, whether or not put up in boxes (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4817 </td><td>Envelopes, letter cards, plain postcards and correspondence cards, of paper or paper board; boxes, pouches, wallets and writing compendiums, of paper or paperboard, containing an assortment of paper stationary (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4818 </td><td>Toilet paper and similar paper, cellulose wadding or webs of cellulose fibres, of a kind used for household or sanitary purposes, in rolls of a width not exceeding 36 cm, or cut to size or shape; handkerchief, cleansing tissues, towels, tablecloths, serviettes, napkins for babies, tampons, bed sheets and similar household, sanitary or hospital articles, articles of apparel and clothing accessories, of paper pulp, paper, cellulose wadding or webs of cellulose fibres (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4821 </td><td>Paper or paperboard labels of all kinds, whether or not printed (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4822 </td><td>Bobbins, spools, cops and similar support of paper pulp, paper or paper board whether or not perforated or hardened (not from non-wooden nor recycled material)</td></tr>
+<tr><td>ex 4823 </td><td>Other paper, paperboard, cellulose wadding and webs cellulose fibres, cut to size or shape; other articles of paper pulp, paper, paperboard, cellulose wadding or webs of cellulose fibres (not from non-wooden nor recycled material)</td></tr>
+<tr><td colspan="2">CHAPTER 94</td></tr>
+<tr><td>  </td><td>Seats (other than those of heading 94 02 ), whether or not convertible into beds, and parts thereof</td></tr>
+<tr><td>9401 61 </td><td>– Other seats, with wooden frames: – – Upholstered</td></tr>
+<tr><td>9401 69 </td><td>– Other seats, with wooden frames: – – Other</td></tr>
+<tr><td>  </td><td>Other furniture and parts thereof</td></tr>
+<tr><td>9403 30 </td><td>– Wooden furniture of a kind used in offices</td></tr>
+<tr><td>9403 40 </td><td>– Wooden furniture of a kind used in the kitchen</td></tr>
+<tr><td>9403 50 </td><td>– Wooden furniture of a kind used in the bedroom</td></tr>
+<tr><td>9403 60 </td><td>– Other wooden furniture</td></tr>
+<tr><td>ex 9403 90 </td><td>– Parts: – – Other (HS 9403 90 90 in Indonesia)</td></tr>
+<tr><td>  </td><td>Prefabricated buildings</td></tr>
+<tr><td>ex 9406 00 </td><td>– Other prefabricated buildings: – – Of wood (HS 9406 00 92 in Indonesia)</td></tr>
+<tr><td colspan="2">CHAPTER 97</td></tr>
+<tr><td>  </td><td>Original engravings, prints and lithographs.</td></tr>
+<tr><td>ex 9702 00 </td><td>Wood in the form of logs or squared logs with simple process in the surface, carved or finely threaded or painted, does not have significant added-value and no significant change in shape (HS ex 9702 00 00 00 in Indonesia) (Prohibited from export under Indonesian law. In line with Article 3(3) of the EU-Indonesia VPA, products under this HS code may not be FLEGT licensed and therefore may not be imported into the Union).</td></tr>
+<tr><td colspan="3">(1)  OJ L 150, 20.5.2014, p. 252.  (2)  Paper products originating from non-wooden or recycled material are accompanied by a formal letter from the Indonesian Ministry of Industry validating the use of non-wooden or recycled materials. Such products will not be FLEGT licensed. </td></tr>
+</tbody>
+</table>
+
+( 1 ) OJ L 253, 11.10.1993, p. 1. Regulation as last amended by Regulation (EC) No 883/2005 (OJ L 148, 11.6.2005, p. 5).
+
+( 2 ) OJ L 302, 19.10.1992, p. 1. Regulation as last amended by Regulation (EC) No 648/2005 of the European Parliament and of the Council (OJ L 117, 4.5.2005, p. 13);
+
+( 3 ) Council Regulation (EC) No 338/97 of 9 December 1996 on the protection of species of wild fauna and flora by regulating trade (OJ L 61, 3.3.1997, p. 1).
+
+( 4 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).

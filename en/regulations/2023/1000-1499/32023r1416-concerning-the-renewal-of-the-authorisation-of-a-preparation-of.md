@@ -1,0 +1,115 @@
+---
+title: "Commission Implementing Regulation (EU) 2023/1416 of 5 July 2023 concerning the renewal of the authorisation of a preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866 as a feed additive for all animal species and repealing Implementing Regulation (EU) No 93/2012 (Text with EEA relevance)"
+identifier: "32023R1416"
+eli: "http://data.europa.eu/eli/reg_impl/2023/1416/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2023-07-05
+entry_into_force: 2023-11-07
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1416"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2023/1416 of 5 July 2023 concerning the renewal of the authorisation of a preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866 as a feed additive for all animal species and repealing Implementing Regulation (EU) No 93/2012 (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2023/1416**
+
+**of 5 July 2023**
+
+**concerning the renewal of the authorisation of a preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866 as a feed additive for all animal species and repealing Implementing Regulation (EU) No 93/2012**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition (1), and in particular Article 9(2) thereof,
+
+Whereas:
+
+(1) Regulation (EC) No 1831/2003 provides for the authorisation of additives for use in animal nutrition and for the grounds and procedures for granting and renewing such authorisation.
+
+(2) The preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866 (previously taxonomically identified as Lactobacillus plantarum DSM 8862 and DSM 8866) was authorised for a period of 10 years as a feed additive for all animal species by Commission Implementing Regulation (EU) No 93/2012 (2).
+
+(3) In accordance with Article 14(1) of Regulation (EC) No 1831/2003, an application was submitted for the renewal of the authorisation of the preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866 as a feed additive for all animal species, requesting the additive to be classified in the additive category ‘technological additives’ and in the functional group ‘silage additives’. That application was accompanied by the particulars and documents required under Article 14(2) of that Regulation.
+
+(4) The European Food Safety Authority (‘the Authority’) concluded in its opinion of 27 September 2022 (3) that the applicant has provided evidence that the preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866 remains safe for all animal species, the consumers and the environment under the conditions of use currently authorised. Regarding users’ safety, the Authority stated that the preparation is not a skin irritant but should be considered a respiratory sensitiser. No conclusions could be drawn by the Authority on the eye irritancy potential of the preparation nor on the skin sensitisation potential.
+
+(5) In accordance with Article 5(4), point (c), of Commission Regulation (EC) No 378/2005 (4), the Reference Laboratory set up by Regulation (EC) No 1831/2003 considered that the conclusions and recommendations reached in the previous assessment are valid and applicable for the current application.
+
+(6) The assessment of the preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866 shows that the conditions for authorisation, as provided for in Article 5 of Regulation (EC) No 1831/2003, are satisfied. Accordingly, the authorisation of that preparation should be renewed.
+
+(7) The Commission considers that appropriate protective measures should be taken to prevent adverse effects on the health of the users of the additive. Those protective measures should be without prejudice to other worker safety requirements under Union law.
+
+(8) As a consequence of the renewal of the authorisation of the preparation of Lactiplantibacillus plantarum DSM 8862 DSM 8866 as a feed additive, Implementing Regulation (EU) No 93/2012 should be repealed.
+
+(9) Since safety reasons do not require the immediate application of the modifications to the conditions of authorisation of the preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866, it is appropriate to provide for a transitional period for interested parties to prepare themselves to meet the new requirements resulting from the renewal of the authorisation.
+
+(10) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Renewal of authorisation
+
+The authorisation of the preparation specified in the Annex, belonging to the additive category ‘technological additives’ and to the functional group ‘silage additives’, is renewed subject to the conditions laid down in that Annex.
+
+## Article 2 — Repeal
+
+Implementing Regulation (EU) No 93/2012 is repealed.
+
+## Article 3 — Transitional measures
+
+The preparation specified in the Annex and feed containing it, which are produced and labelled before 26 July 2024 in accordance with the rules applicable before 26 July 2023 may continue to be placed on the market and used until the existing stocks are exhausted.
+
+## Article 4 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 5 July 2023.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 268, 18.10.2003, p. 29.
+
+(2) Commission Implementing Regulation (EU) No 93/2012 of 3 February 2012 concerning the authorisation of Lactobacillus plantarum (DSM 8862 and DSM 8866) as a feed additive for all animal species (OJ L 33, 4.2.2012, p. 1).
+
+(3) EFSA Journal 2022;20(10):7604.
+
+(4) Commission Regulation (EC) No 378/2005 of 4 March 2005 on detailed rules for the implementation of Regulation (EC) No 1831/2003 of the European Parliament and of the Council as regards the duties and tasks of the Community Reference Laboratory concerning applications for authorisations of feed additives (OJ L 59, 5.3.2005, p. 8).
+
+## ANNEX
+
+<table>
+<tbody><tr><td rowspan="2">Identification number of the additive</td><td rowspan="2">Additive</td><td rowspan="2">Composition, chemical formula, description, analytical method</td><td rowspan="2">Species or category of animal</td><td rowspan="2">Maximum age</td><td>Minimum content</td><td>Maximum content</td><td rowspan="2">Other provisions</td><td rowspan="2">End of period of authorisation</td></tr>
+<tr><td colspan="2">CFU /kg of fresh material</td></tr>
+<tr><td colspan="9">Category of technological additives. Functional group: silage additives</td></tr>
+<tr><td>1k20812</td><td>Lactiplantibacillus plantarum DSM 8862 and DSM 8866</td><td>Additive composition Preparation of Lactiplantibacillus plantarum DSM 8862 and DSM 8866 containing a minimum of 3x1011 CFU/g additive (ratio 1:1)  Characterisation of the active substance  Viable cells of Lactiplantibacillus plantarum DSM 8862 and DSM 8866  Analytical method (1)  Enumeration in the feed additive: <table><tbody><tr><td>—</td><td>spread plate method using MRS agar (EN 15787)</td></tr>
+</tbody>
+</table>
+ Identification: <table><tbody><tr><td>—</td><td>Pulsed Field Gel Electrophoresis (PFGE) or DNA sequencing methods</td></tr>
+</tbody>
+</table>
+</td><td>All animal species</td><td>-</td><td>-</td><td>-</td><td><table><tbody><tr><td>1.</td><td>In the directions for use of the additive and premixture, the storage conditions shall be indicated.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>2.</td><td>Minimum dose of the additive when used without combination with other micro-organism as silage additive: 3 × 108 CFU/kg (ratio 1:1) fresh material.</td></tr>
+</tbody>
+</table>
+<table><tbody><tr><td>3.</td><td>For users of the additive and premixtures, feed business operators shall establish operational procedures and organisational measures to address potential risks resulting from their use. Where those risks cannot be eliminated by such procedures and measures, the additive and premixtures shall be used with personal skin, eyes and breathing protective equipment.</td></tr>
+</tbody>
+</table>
+</td><td>26 July 2033</td></tr>
+</tbody>
+</table>
+
+(1) Details of the analytical methods are available at the following address of the Reference Laboratory: https://joint-research-centre.ec.europa.eu/eurl-fa-eurl-feed-additives/eurl-fa-authorisation/eurl-fa-evaluation-reports_en

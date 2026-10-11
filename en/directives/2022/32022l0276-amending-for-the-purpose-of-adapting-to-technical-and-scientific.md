@@ -93,6 +93,7 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entries 1, 1(a), 1(b), 1(c), 1(d) and 1(e) are replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘1</td><td>Mercury in single capped (compact) fluorescent lamps not exceeding (per burner):</td><td></td></tr>
 <tr><td>1(a)</td><td>For general lighting purposes &lt; 30 W: 2,5 mg</td><td>Expires on 24 February 2023</td></tr>
@@ -101,3 +102,4 @@ In Annex III to Directive 2011/65/EU, entries 1, 1(a), 1(b), 1(c), 1(d) and 1(e)
 <tr><td>1(d)</td><td>For general lighting purposes ≥ 150 W: 15 mg</td><td>Expires on 24 February 2023</td></tr>
 <tr><td>1(e)</td><td>For general lighting purposes with circular or square structural shape and tube diameter ≤ 17 mm: 5 mg</td><td>Expires on 24 February 2023’</td></tr>
 </tbody>
+</table>

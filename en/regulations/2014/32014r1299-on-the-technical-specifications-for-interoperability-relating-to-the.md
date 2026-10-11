@@ -1,0 +1,3912 @@
+---
+title: "Commission Regulation (EU) No 1299/2014 of 18 November 2014 on the technical specifications for interoperability relating to the ‘infrastructure’ subsystem of the rail system in the European Union Text with EEA relevance"
+identifier: "32014R1299"
+eli: "http://data.europa.eu/eli/reg/2014/1299/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-11-18
+entry_into_force: 2014-12-22
+last_amended: 2023-09-28
+consolidated_version: "02014R1299-20230928"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R1299-20230928"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 1299/2014 of 18 November 2014 on the technical specifications for interoperability relating to the ‘infrastructure’ subsystem of the rail system in the European Union Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 1299/2014**
+
+**of 18 November 2014**
+
+**on the technical specifications for interoperability relating to the ‘infrastructure’ subsystem of the rail system in the European Union**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/776 of 16 May 2019 </td><td> L 139I</td><td>108</td><td>27.5.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1694 of 10 August 2023 </td><td> L 222</td><td>88</td><td>8.9.2023</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 1299/2014**
+
+**of 18 November 2014**
+
+**on the technical specifications for interoperability relating to the ‘infrastructure’ subsystem of the rail system in the European Union**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+The technical specification for interoperability (TSI) relating to the ‘infrastructure’ subsystem of the rail system in the entire European Union, as set out in the Annex, is hereby adopted.
+
+## Article 2 — Scope
+
+1\. The TSI shall apply to all new, upgraded or renewed ‘infrastructure’ of the rail system in the European Union as defined in point 2.1 of Annex II to Directive (EU) 2016/797 of the European Parliament and of the Council ( 1 )  .
+
+2\. Without prejudice to Articles 7 and 8 and point 7.2 of the Annex, the TSI shall apply to new railway lines in the European Union, which are placed in service from 1 January 2015.
+
+3\. The TSI shall not apply to existing infrastructure of the rail system in the European Union, which is already placed in service on all or part of the network of any Member State on 1 January 2015, except when it is subject to renewal or upgrading in accordance with Article 18 of Directive (EU) 2016/797  and Section 7.3 of the Annex.
+
+4\. The TSI shall apply to the network of the Union rail system as described in Annex I of Directive (EU) 2016/797 with the exclusion of cases referred to in Article 1(3) and (4) of Directive (EU) 2016/797.
+
+5\. The TSI shall apply to networks with the following nominal track gauges: 1 435 mm, 1 520 mm, 1 524 mm, 1 600 mm and 1 668 mm.
+
+6\. Metric gauge is excluded from the technical scope of this TSI.
+
+7\. The technical and geographical scope of this Regulation is set out in Sections 1.1 and 1.2 of the Annex.
+
+## Article 3 — Open points
+
+1\. With regard to the aspects listed as ‘open points’ in Appendix R to the Annex to this Regulation, the conditions to be complied with for verifying the essential requirements set out in Annex III to Directive (EU) 2016/797 shall be those laid down by national rules in force in the Member State which authorises the placing in service of the subsystem covered by this Regulation.
+
+2\. Within six months of the entry into force of this Regulation, each Member State shall send to the other Member States and the Commission of the following information, unless such information has already been sent to them under Decisions 2008/217/EC or 2011/275/EU:
+
+(a) the national rules referred to in paragraph 1;
+
+(b) the conformity assessment and verification procedures to be carried out to apply the national rules referred to in paragraph 1;
+
+(c) the bodies designated to carry out the conformity assessment and verification procedures with respect to the open points.
+
+## Article 4 — Specific cases
+
+1\. With regard to specific cases listed in Section 7.7 of the Annex, the conditions to be met for the verification of the essential requirements set out in Annex III to Directive (EU) 2016/797 shall be those laid down in Section 7.7 of the Annex or by national rules in force in the Member State which authorises the placing in service of the subsystem covered by this Regulation.
+
+2\. Within six months of the entry into force of this Regulation, each Member State shall notify to the other Member States and the Commission the following information:
+
+(a) the national rules referred to in paragraph 1;
+
+(b) the conformity assessment and verification procedures to be carried out to apply the national rules referred to in paragraph 1;
+
+(c) the bodies designated to carry out the conformity assessment and verification procedures for the national rules relating to the specific cases set out in point 7.7 of the Annex.
+
+## Article 5 — Notification of bilateral agreements
+
+1\. Member States shall notify the Commission, not later than 1 July 2015, any existing national, bilateral, multilateral or international agreements between Member States and railway undertaking(s), infrastructure managers or non-member countries which are required by the very specific or local nature of the intended rail service or which deliver significant levels of local or regional interoperability.
+
+2\. That obligation does not apply to agreements which have already been notified under Decision 2008/217/EC.
+
+3\. Member States shall forthwith notify to the Commission of any future agreements or amendments to existing agreements.
+
+## Article 6 — Projects at an advanced stage of development
+
+Article 7(2) of Directive (EU) 2016/797 applies.
+
+## Article 7 — ‘EC’ certificate of verification
+
+1\. An ‘EC’ certificate of verification for a subsystem that contains interoperability constituents which do not have an ‘EC’ declaration of conformity or suitability for use, may be issued during a transitional period ending on 31 May 2021 provided that the requirements laid down in point 6.5 of the Annex are met.
+
+2\. The production, upgrade or renewal of the subsystem with use of the non-certified interoperability constituents shall be completed within the transitional period set out in paragraph 1, including its placing in service.
+
+3\. During the transitional period set out in paragraph 1:
+
+(a) the reasons for non-certification of any interoperability constituents shall be properly identified by the notified body before granting the ‘EC’ certificate pursuant to Article 15 of Directive (EU) 2016/797  ;
+
+(b) the national safety authorities, pursuant to Article 16(2)(d) of Directive (EU) 2016/798 of the European Parliament and of the Council ( 2 )  , shall report on the use of non-certified interoperability constituents in the context of authorisation procedures in their annual report referred to in Article 19 of Directive (EU) 2016/798  .
+
+4\. From 1 January 2016, newly produced interoperability constituents shall be covered by the EC declaration of conformity or suitability for use.
+
+## Article 8 — Conformity assessment
+
+1\. The procedures for assessment of conformity, suitability for use and ‘EC’ verification set out in section 6 of the Annex shall be based on the modules established in Commission Decision 2010/713/EU ( 3 ).
+
+2\. The type or design examination certificate of interoperability constituents shall be valid for a seven year period. During that period, new constituents of the same type are permitted to be placed into service without a new conformity assessment.
+
+3\. Certificates referred to in paragraph 2 which have been issued according to the requirements of Decision 2011/275/EU [TSI INF CR] or Decision 2008/217/EC [TSI INF HS] remain valid, without a need for a new conformity assessment, until the expiry date originally established. In order to renew a certificate the design or type shall be re-assessed only against new or modified requirements set out in the Annex to this Regulation.
+
+## Article 9 — Implementation
+
+1\. Section 7 of the Annex sets out the steps to be followed for the implementation of a fully interoperable infrastructure subsystem.
+
+Without prejudice to Article 20 of Directive 2008/57/EC, Member States shall prepare a national implementation plan, describing their actions to comply with this TSI, in accordance with section 7 of the Annex. Member States shall send their national implementation plan to the other Member States and the Commission by 31 December 2015. Member States that have already sent their implementation plan do not have to send it again.
+
+3\. Member States shall send to the Commission a report on the implementation of Article 20 of Directive 2008/57/EC three years after 1 January 2015. This report shall be discussed in the Committee set up by Article 29 of Directive 2008/57/EC and, where appropriate, the TSI in the Annex shall be adapted.
+
+## Article 10 — Innovative solutions
+
+1\. In order to keep pace with technological progress, innovative solutions may be required, which do not comply with the specifications set out in the Annex or for which the assessment methods set out in the Annex cannot be applied.
+
+2\. Innovative solutions may relate to the infrastructure subsystem, its parts and its interoperability constituents.
+
+3\. If an innovative solution is proposed, the manufacturer or his authorised representative established within the Union shall declare how it deviates from or complements to the relevant provisions of this TSI and submit the deviations to the Commission for analysis. The Commission may request the opinion of the Agency on the proposed innovative solution.
+
+4\. The Commission shall deliver an opinion on the proposed innovative solution. If this opinion is positive, the appropriate functional and interface specifications and the assessment method, which need to be included in the TSI in order to allow the use of this innovative solution, shall be developed and subsequently integrated in the TSI during the revision process pursuant to Article 5 of Directive (EU) 2016/797  . If the opinion is negative, the innovative solution proposed cannot be used.
+
+5\. Pending the review of the TSI, the positive opinion delivered by the Commission shall be considered as an acceptable means of compliance with the essential requirements of Directive (EU) 2016/797  and may be used for the assessment of the subsystem.
+
+## Article 11 — Repeal
+
+Decisions 2008/217/EC and 2011/275/EU are repealed with effect from 1 January 2015.
+
+They shall however continue to apply to:
+
+(a) subsystems authorised in accordance with those Decisions;
+
+(b) projects for new, renewed or upgraded subsystems which, at the date of publication of this Regulation, are at an advanced stage of development or are the subject of an on-going contract.
+
+## Article 12 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2015. However, an authorisation for placing in service may be granted in accordance with the TSI as set out in the Annex to this Regulation before 1 January 2015.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td>1.</td><td>Introduction</td></tr>
+<tr><td>1.1.</td><td>Technical Scope</td></tr>
+<tr><td>1.2.</td><td>Geographical Scope</td></tr>
+<tr><td>1.3.</td><td>Content of this TSI</td></tr>
+<tr><td>2.</td><td>Definition and scope of subsystem</td></tr>
+<tr><td>2.1.</td><td>Definition of the infrastructure subsystem</td></tr>
+<tr><td>2.2.</td><td>Interfaces of this TSI with other TSIs</td></tr>
+<tr><td>2.3.</td><td>Interfaces of this TSI with the Persons with Reduced Mobility TSI</td></tr>
+<tr><td>2.4.</td><td>Interfaces of this TSI with the Safety in Railway Tunnels TSI</td></tr>
+<tr><td>2.5.</td><td>Relation to the safety management system</td></tr>
+<tr><td>3.</td><td>Essential requirements</td></tr>
+<tr><td>4.</td><td>Description of the infrastructure subsystem</td></tr>
+<tr><td>4.1.</td><td>Introduction</td></tr>
+<tr><td>4.2.</td><td>Functional and technical specifications of subsystem</td></tr>
+<tr><td>4.2.1.</td><td>TSI Categories of Line</td></tr>
+<tr><td>4.2.2.</td><td>Basic parameters characterising the infrastructure subsystem</td></tr>
+<tr><td>4.2.3.</td><td>Line layout</td></tr>
+<tr><td>4.2.4.</td><td>Track parameters</td></tr>
+<tr><td>4.2.5.</td><td>Switches and crossings</td></tr>
+<tr><td>4.2.6.</td><td>Track resistance to applied loads</td></tr>
+<tr><td>4.2.7.</td><td>Structures resistance to traffic loads</td></tr>
+<tr><td>4.2.8.</td><td>Immediate action limits on track geometry defects</td></tr>
+<tr><td>4.2.9.</td><td>Platforms</td></tr>
+<tr><td>4.2.10.</td><td>Health, safety and environment</td></tr>
+<tr><td>4.2.11.</td><td>Provision for operation</td></tr>
+<tr><td>4.2.12.</td><td>Fixed installations for servicing trains</td></tr>
+<tr><td>4.3.</td><td>Functional and technical specification of the interfaces</td></tr>
+<tr><td>4.3.1.</td><td>Interfaces with the rolling stock subsystem</td></tr>
+<tr><td>4.3.2.</td><td>Interfaces with the energy subsystem</td></tr>
+<tr><td>4.3.3.</td><td>Interfaces with the control command and signalling subsystem</td></tr>
+<tr><td>4.3.4.</td><td>Interfaces with the operation and traffic management subsystem</td></tr>
+<tr><td>4.4.</td><td>Operating rules</td></tr>
+<tr><td>4.5.</td><td>Maintenance rules</td></tr>
+<tr><td>4.5.1.</td><td>Maintenance file</td></tr>
+<tr><td>4.5.2.</td><td>Maintenance plan</td></tr>
+<tr><td>4.6.</td><td>Professional qualifications</td></tr>
+<tr><td>4.7.</td><td>Health and safety conditions</td></tr>
+<tr><td>5.</td><td>Interoperability constituents</td></tr>
+<tr><td>5.1.</td><td>Basis on which interoperability constituents have been selected</td></tr>
+<tr><td>5.2.</td><td>List of constituents</td></tr>
+<tr><td>5.3.</td><td>Constituents performances and specifications</td></tr>
+<tr><td>5.3.1.</td><td>The rail</td></tr>
+<tr><td>5.3.2.</td><td>The rail fastening systems</td></tr>
+<tr><td>5.3.3.</td><td>Track sleepers</td></tr>
+<tr><td>6.</td><td>Assessment of conformity of interoperability constituents and EC verification of the subsystems</td></tr>
+<tr><td>6.1.</td><td>Interoperability Constituents</td></tr>
+<tr><td>6.1.1.</td><td>Conformity assessment procedures</td></tr>
+<tr><td>6.1.2.</td><td>Application of modules</td></tr>
+<tr><td>6.1.3.</td><td>Innovative solutions for interoperability constituents</td></tr>
+<tr><td>6.1.4.</td><td>EC declaration of conformity for interoperability constituents</td></tr>
+<tr><td>6.1.5.</td><td>Particular assessment procedures for interoperability constituents</td></tr>
+<tr><td>6.2.</td><td>Infrastructure subsystem</td></tr>
+<tr><td>6.2.1.</td><td>General provisions</td></tr>
+<tr><td>6.2.2.</td><td>Application of modules</td></tr>
+<tr><td>6.2.3.</td><td>Innovative solutions</td></tr>
+<tr><td>6.2.4.</td><td>Particular assessment procedures for infrastructure subsystem</td></tr>
+<tr><td>6.2.5.</td><td>Technical solutions giving presumption of conformity at design stage</td></tr>
+<tr><td>6.3.</td><td>EC Verification when speed is used as a migration criterion</td></tr>
+<tr><td>6.4.</td><td>Assessment of maintenance file</td></tr>
+<tr><td>6.5.</td><td>Subsystems containing Interoperability constituents not holding an EC declaration</td></tr>
+<tr><td>6.5.1.</td><td>Conditions</td></tr>
+<tr><td>6.5.2.</td><td>Documentation</td></tr>
+<tr><td>6.5.3.</td><td>Maintenance of the subsystems certified according to 6.5.1.</td></tr>
+<tr><td>6.6.</td><td>Subsystem containing serviceable interoperability constituents that are suitable for reuse</td></tr>
+<tr><td>6.6.1.</td><td>Conditions</td></tr>
+<tr><td>6.6.2.</td><td>Documentation</td></tr>
+<tr><td>6.6.3.</td><td>Use of serviceable interoperability constituents in maintenance</td></tr>
+<tr><td>7.</td><td>Implementation of the infrastructure TSI</td></tr>
+<tr><td>7.1.</td><td>Application of this TSI to railway lines</td></tr>
+<tr><td>7.2.</td><td>Application of this TSI to new railway lines</td></tr>
+<tr><td>7.3.</td><td>Application of this TSI to existing railway lines</td></tr>
+<tr><td>7.3.1.</td><td>Upgrading of a line</td></tr>
+<tr><td>7.3.3.</td><td>Substitution in the framework of maintenance</td></tr>
+<tr><td>7.3.4.</td><td>Existing lines that are not subject to a renewal or upgrading project</td></tr>
+<tr><td>7.4.</td><td>Application of this TSI to existing platforms</td></tr>
+<tr><td>7.5.</td><td>Speed as an implementation criterion</td></tr>
+<tr><td>7.6.</td><td>Ascertain Compatibility of infrastructure and rolling stock after authorisation of rolling stock</td></tr>
+<tr><td>7.7.</td><td>Specific cases</td></tr>
+<tr><td>7.7.1.</td><td>Particular features on the Austrian network</td></tr>
+<tr><td>7.7.2.</td><td>Particular features on the Belgian network</td></tr>
+<tr><td>7.7.3.</td><td>Particular features on the Bulgarian network</td></tr>
+<tr><td>7.7.4.</td><td>Particular features on the Danish network</td></tr>
+<tr><td>7.7.5.</td><td>Particular features on the Estonian network</td></tr>
+<tr><td>7.7.6.</td><td>Particular features on the Finnish network</td></tr>
+<tr><td>7.7.7.</td><td>Particular features on the French network</td></tr>
+<tr><td>7.7.8.</td><td>Particular features on the German network</td></tr>
+<tr><td>7.7.9.</td><td>Particular features on the Hellenic network</td></tr>
+<tr><td>7.7.10.</td><td>Particular features on the Italian network</td></tr>
+<tr><td>7.7.11.</td><td>Particular features on the Latvian network</td></tr>
+<tr><td>7.7.12.</td><td>Particular features on the Polish network</td></tr>
+<tr><td>7.7.13.</td><td>Particular features on the Portuguese network</td></tr>
+<tr><td>7.7.14.</td><td>Particular features on the Ireland network</td></tr>
+<tr><td>7.7.15.</td><td>Particular features on the Spanish network</td></tr>
+<tr><td>7.7.16.</td><td>Particular features on the Swedish network</td></tr>
+<tr><td>7.7.17.</td><td>Particular features on the UK network for Great Britain</td></tr>
+<tr><td>7.7.18.</td><td>Particular features on the UK network for Northern Ireland</td></tr>
+<tr><td>7.7.19.</td><td>Particular features on the Slovak network</td></tr>
+<tr><td>Appendix A —</td><td>Assessment of interoperability constituents</td></tr>
+<tr><td>Appendix B —</td><td>Assessment of the infrastructure subsystem</td></tr>
+<tr><td>Appendix C —</td><td>Technical characteristics of track design and switches and crossings design</td></tr>
+<tr><td>Appendix D —</td><td>Conditions of use of track design and switches and crossings design</td></tr>
+<tr><td>Appendix E —</td><td>Capability requirements for structures according to traffic code</td></tr>
+<tr><td>Appendix F —</td><td>Capability requirements for structures according to traffic code in the United Kingdom of Great Britain and Northern Ireland</td></tr>
+<tr><td>Appendix G —</td><td>Speed conversion to miles per hour for Ireland and the United Kingdom of Great Britain and Northern Ireland</td></tr>
+<tr><td>Appendix H —</td><td>Structure gauge for the 1 520 mm track gauge system</td></tr>
+<tr><td>Appendix I —</td><td>Reverse curves with radii in the range from 150 m up to 300 m</td></tr>
+<tr><td>Appendix J —</td><td>Safety assurance over fixed obtuse crossings</td></tr>
+<tr><td>Appendix K —</td><td>Basis of minimum requirements for structures for passenger coaches and multiple units</td></tr>
+<tr><td>Appendix M —</td><td>Specific case on the Estonian network</td></tr>
+<tr><td>Appendix N —</td><td>Specific cases of the Hellenic network</td></tr>
+<tr><td>Appendix O —</td><td>Specific case on the Ireland and United Kingdom of Northern Ireland networks</td></tr>
+<tr><td>Appendix P —</td><td>Structure gauge for the lower parts for the 1 668 mm track gauge on the Spanish network</td></tr>
+<tr><td>Appendix Q —</td><td>National technical rules for UK-GB Specific Cases</td></tr>
+<tr><td>Appendix R —</td><td>List of open points</td></tr>
+<tr><td>Appendix S —</td><td>Glossary</td></tr>
+<tr><td>Appendix T —</td><td>List of referenced standards</td></tr>
+</table>
+
+**1\. INTRODUCTION**
+
+**1.1. Technical Scope**
+
+This TSI concerns the infrastructure subsystem and part of the maintenance subsystem of the Union rail system in accordance with Article 1 of Directive (EU) 2016/797.
+
+The infrastructure and the maintenance subsystems are defined respectively in points 2.1 and 2.8 of Annex II to Directive (EU) 2016/797.
+
+The technical scope of this TSI is further defined in Article 2(1), 2(5) and 2(6) of this Regulation.
+
+**1.2. Geographical Scope**
+
+The geographical scope of this TSI is defined in Article 2(4) of this Regulation.
+
+**1.3. Content of this TSI**
+
+(1) In accordance with Article 4(3) of Directive (EU) 2016/797, this TSI:
+
+(a) indicates its intended scope (section 2);
+
+(b) lays down essential requirements for the infrastructure and part of the maintenance subsystems (section 3);
+
+(c) establishes the functional and technical specifications to be met by the infrastructure and part of the maintenance subsystems and its interfaces vis-à-vis other subsystems (section 4);
+
+(d) specifies the interoperability constituents and interfaces which must be covered by European specifications, including European standards, which are necessary to achieve interoperability within the Union rail system (section 5);
+
+(e) states, in each case under consideration, which procedures are to be used in order to assess the conformity or the suitability for use of the interoperability constituents, on the one hand, or the EC verification of the subsystems, on the other hand (section 6);
+
+(f) indicates the strategy for implementing this TSI (section 7);
+
+(g) indicates, for the staff concerned, the professional qualifications and health and safety conditions at work required for the operation and maintenance of the infrastructure subsystem, as well as for the implementation of this TSI (section 4);
+
+(h) indicates the provisions applicable to the existing infrastructure subsystem, in particular in the event of upgrading and renewal and, in such cases, the modification work which requires an application for a new authorisation;
+
+(i) indicates the parameters of infrastructure subsystem to be checked by the railway undertaking and the procedures to be applied to check those parameters after the delivery of the vehicle authorisation for placing on the market and before the first use of the vehicle to ensure compatibility between vehicles and the routes on which they are to be operated.
+
+In accordance with Article 4(5) of the Directive (EU) 2016/797, provisions for specific cases are indicated in section 7.
+
+(2) Requirements in this TSI are valid for all track gauge systems within the scope of this TSI, unless a paragraph refers to specific track gauge systems or to specific nominal track gauges.
+
+**2\. DEFINITION AND SCOPE OF SUBSYSTEM**
+
+**2.1. Definition of the infrastructure subsystem**
+
+This TSI covers:
+
+(a) the infrastructure structural subsystem
+
+(b) the part of the maintenance functional subsystem relating to the infrastructure subsystem (that is: washing plants for external cleaning of trains, water restocking, refuelling, fixed installations for toilet discharge and electrical shore supplies).
+
+The elements of the infrastructure subsystem are described in point 2.1 of Annex II to Directive (EU) 2016/797.
+
+The elements of the maintenance subsystem are described in point 2.8 of Annex II to Directive (EU) 2016/797.
+
+The scope of this TSI therefore includes the following aspects of the infrastructure subsystem:
+
+(a) Line layout,
+
+(b) Track parameters,
+
+(c) Switches and crossings,
+
+(d) Track resistance to applied loads,
+
+(e) Structures resistance to traffic loads,
+
+(f) Immediate action limits on track geometry defects,
+
+(g) Platforms,
+
+(h) Health, safety and environment,
+
+(i) Provision for operation,
+
+(j) Fixed installations for servicing trains.
+
+Further details are set out in point 4.2.2 of this TSI.
+
+**2.2. Interfaces of this TSI with other TSIs**
+
+Point 4.3 of this TSI sets out the functional and technical specification of the interfaces with the following subsystems, as defined in the relevant TSIs:
+
+(a) Rolling stock subsystem,
+
+(b) Energy subsystem,
+
+(c) Control command and signalling subsystem,
+
+(d) Traffic operation and management subsystem.
+
+Interfaces with the Persons with Reduced Mobility TSI (PRM TSI) are described in point 2.3 below.
+
+Interfaces with the Safety in Railway Tunnels TSI (SRT TSI) are described in point 2.4 below.
+
+**2.3. Interfaces of this TSI with the Persons with Reduced Mobility TSI**
+
+All requirements relating to the infrastructure subsystem for the access of persons with reduced mobility to the railway system are set out in the Persons with Reduced Mobility TSI.
+
+**2.4. Interfaces of this TSI with the Safety in Railway Tunnels TSI**
+
+All requirements relating to the infrastructure subsystem for safety in railway tunnels are set out in the Safety in Railway Tunnels TSI.
+
+**2.5. Relation to the safety management system**
+
+Necessary processes to manage safety and operations according to the requirements in the scope of this TSI, including interfaces to humans, organisations, or other technical systems, shall be designed and implemented in the infrastructure manager's safety management system as required by Directive (EU) 2016/798.
+
+**2.6. Relation to the codification of Combined Transport**
+
+(1) The provisions for structure gauge are laid down in point 4.2.3.1.
+
+(2) The codification system used for the conveyance of intermodal loading units in combined transport shall be in accordance with the specification referenced in Appendix T, index [A]. It can be based on:
+
+(a) the characteristics of the line and the exact position of the obstacles;
+
+(b) the reference profile of the structure gauge of that line;
+
+(c) a combination of the methods referred to in points (a) and (b).
+
+**3\. ESSENTIAL REQUIREMENTS**
+
+The following table indicates basic parameters of this TSI and their correspondence to the essential requirements as set out and numbered in Annex III to Directive (EU) 2016/797  .
+
+**Table 1**
+
+**Basic Parameters of the infrastructure subsystem corresponding to the essential requirements**
+
+| TSI point | Title of TSI point | Safety | Reliability Availability | Health | Environ-mental protection | Technical compatibility | Accessibility |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4.2.3.1 | Structure gauge | 1.1.1, 2.1.1 |  |  |  | 1.5 |  |
+| 4.2.3.2 | Distance between track centres | 1.1.1, 2.1.1 |  |  |  | 1.5 |  |
+| 4.2.3.3 | Maximum gradients | 1.1.1 |  |  |  | 1.5 |  |
+| 4.2.3.4 | Minimum radius of horizontal curve | 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.3.5 | Minimum radius of vertical curve | 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.4.1 | Nominal track gauge |  |  |  |  | 1.5 |  |
+| 4.2.4.2 | Cant | 1.1.1, 2.1.1 |  |  |  | 1.5 | 1.6.1 |
+| 4.2.4.3 | Cant deficiency | 1.1.1 |  |  |  | 1.5 |  |
+| 4.2.4.4 | Abrupt change of cant deficiency | 2.1.1 |  |  |  |  |  |
+| 4.2.4.5 | Equivalent conicity | 1.1.1, 1.1.2 |  |  |  | 1.5 |  |
+| 4.2.4.6 | Railhead profile for plain line | 1.1.1, 1.1.2 |  |  |  | 1.5 |  |
+| 4.2.4.7 | Rail inclination | 1.1.1, 1.1.2 |  |  |  | 1.5 |  |
+| 4.2.5.1 | Design geometry of switches and crossings | 1.1.1, 1.1.2, 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.5.2 | Use of swing nose crossings | 1.1.2, 1.1.3 |  |  |  |  |  |
+| 4.2.5.3 | Maximum unguided length of fixed obtuse crossings | 1.1.1, 1.1.2 |  |  |  | 1.5 |  |
+| 4.2.6.1 | Track resistance to vertical loads | 1.1.1, 1.1.2, 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.6.2 | Longitudinal track resistance | 1.1.1, 1.1.2, 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.6.3 | Lateral track resistance | 1.1.1, 1.1.2, 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.7.1 | Resistance of new bridges to traffic loads | 1.1.1, 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.7.2 | Equivalent vertical loading for new earthworks and earth pressure effects imposed on new structures | 1.1.1, 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.7.3 | Resistance of new structures over or adjacent to tracks | 1.1.1, 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.7.4 | Resistance of existing bridges and earthworks to traffic loads | 1.1.1, 1.1.3 |  |  |  | 1.5 |  |
+| 4.2.8.1 | The immediate action limit for alignment | 1.1.1, 1.1.2 | 1.2 |  |  |  |  |
+| 4.2.8.2 | The immediate action limit for longitudinal level | 1.1.1, 1.1.2 | 1.2 |  |  |  |  |
+| 4.2.8.3 | The immediate action limit for track twist | 1.1.1, 1.1.2 | 1.2 |  |  |  |  |
+| 4.2.8.4 | The immediate action limit of track gauge as isolated defect | 1.1.1, 1.1.2 | 1.2 |  |  |  |  |
+| 4.2.8.5 | The immediate action limit for cant | 1.1.1, 1.1.2 | 1.2 |  |  |  |  |
+| 4.2.8.6 | The immediate action limit for switches and crossings | 1.1.1, 1.1.2 | 1.2 |  |  | 1.5 |  |
+| 4.2.9.1 | Usable length of platforms | 1.1.1, 2.1.1 |  |  |  | 1.5 |  |
+| 4.2.9.2 | Platform height | 1.1.1, 2.1.1 |  |  |  | 1.5 | 1.6.1 |
+| 4.2.9.3 | Platform offset | 1.1.1, 2.1.1 |  |  |  | 1.5 | 1.6.1 |
+| 4.2.9.4 | Track layout alongside platforms | 1.1.1, 2.1.1 |  |  |  | 1.5 | 1.6.1 |
+| 4.2.10.1 | Maximum pressure variations in tunnels | 1.1.1, 2.1.1 |  |  |  | 1.5 |  |
+| 4.2.10.2 | Effect of cross winds | 1.1.1, 2.1.1 | 1.2 |  |  | 1.5 |  |
+| 4.2.10.3 | Aerodynamic effect on ballasted track | 1.1.1 | 1.2 |  |  | 1.5 |  |
+| 4.2.11.1 | Location markers | 1.1.1 | 1.2 |  |  |  |  |
+| 4.2.11.2 | Equivalent conicity in service | 1.1.1, 1.1.2 |  |  |  | 1.5 |  |
+| 4.2.12.2 | Toilet discharge | 1.1.5 | 1.2 | 1.3.1 |  | 1.5 |  |
+| 4.2.12.3 | Train external cleaning facilities |  | 1.2 |  |  | 1.5 |  |
+| 4.2.12.4 | Water restocking | 1.1.5 | 1.2 | 1.3.1 |  | 1.5 |  |
+| 4.2.12.5 | Refuelling | 1.1.5 | 1.2 | 1.3.1 |  | 1.5 |  |
+| 4.2.12.6 | Electric shore supply | 1.1.5 | 1.2 |  |  | 1.5 |  |
+| 4.4 | Operating rules |  | 1.2 |  |  |  |  |
+| 4.5 | Maintenance rules |  | 1.2 |  |  |  |  |
+| 4.6 | Professional qualifications | 1.1.5 | 1.2 |  |  |  |  |
+| 4.7 | Health and safety conditions | 1.1.5 | 1.2 | 1.3 | 1.4.1 |  |  |
+
+**4\. DESCRIPTION OF THE INFRASTRUCTURE SUBSYSTEM**
+
+**4.1. Introduction**
+
+(1) The Union rail system, to which Directive (EU) 2016/797  applies and of which the infrastructure and maintenance subsystems are parts, is an integrated system whose consistency needs to be verified. This consistency must be checked in particular with regard to the specifications of the infrastructure subsystem, its interfaces in relation to the other subsystems of the Union rail system in which it is integrated, as well as the operating and maintenance rules.
+
+(2) The limiting values set out in this TSI are not intended to be imposed as usual design values. However the design values must be within the limits set out in this TSI.
+
+(3) The functional and technical specifications of the infrastructure and part of the maintenance subsystems and their interfaces, as described in points 4.2 and 4.3, do not impose the use of specific technologies or technical solutions, except where this is strictly necessary for the interoperability of the Union rail system.
+
+(4) Innovative solutions for interoperability which do not fulfil the requirements specified in this TSI and/or which are not assessable as stated in this TSI require new specifications and/or new assessment methods. In order to allow technological innovation, these specifications and assessment methods shall be developed by the process for innovative solutions described in Article 10.
+
+(5) Where reference is made to EN standards, any variations called ‘national deviations’ in the EN do not apply, unless otherwise specified in this TSI.
+
+(6) Where line speeds are stated in [km/h] as a category or performance parameter in this TSI, it shall be allowed to translate the speed to equivalent [mph] as in Appendix G, for Ireland and for the networks of the United Kingdom in respect of Northern Ireland.
+
+**4.2. Functional and technical specifications of the infrastructure subsystem**
+
+**4.2.1. TSI Categories of Line**
+
+(1) The elements of the Union's rail network are set out in point 1 of Annex I to Directive (EU) 2016/797. In order to deliver interoperability cost-effectively, each element of the Union's rail network shall be assigned a ‘TSI category of line’.
+
+(2) The TSI category of line shall be a combination of traffic codes. For lines where only one type of traffic is carried (for example, a freight only line), a single code may be used to describe the performances; where mixed traffic runs the category will be described by one or more codes for passenger and freight. The combined traffic codes describe the envelope within which the desired mix of traffic can be accommodated.
+
+(3) These TSI categories of line shall be used for the classification of existing lines to define a target system so that the relevant performance parameters will be met.
+
+(4) Lines shall be classified based on the type of traffic (traffic code) characterised by the following performance parameters:
+
+— structure gauge,
+
+— axle load,
+
+— line speed,
+
+— train length,
+
+— usable length of platform.
+
+The values in the columns for ‘structure gauge’ and ‘axle load’, which directly affect train running, shall be mandatory minimum levels as per traffic code targeted. Notwithstanding TEN-T requirements, the range of values indicated in the columns for ‘line speed’, ‘usable length of platform’ and ‘train length’ shall be applied, as long as reasonably practicable.
+
+(5) The performance parameters listed in Table 2 and Table 3 are not intended to be used for compatibility checks between rolling stock and infrastructure. Route compatibility checks are subject to point 4.2.2.5 and Appendix D.1 of the Annex of the Commission Implementing Regulation (EU) 2019/773 ( 4 ) (‘TSI OPE’).
+
+(6) Information defining minimum capability requirements for existing structures in relationship to different train types is given in Appendix E. For the networks of the United Kingdom in respect of Northern Ireland, information defining the relation between maximum axle load and maximum speed in accordance with type of vehicle is given in Appendix F.
+
+(7) The performance levels for types of traffic are set out in Table 2 and Table 3.
+
+**Table 2**
+
+**Infrastructure performance parameters for passenger traffic**
+
+**(route compatibility checks are subject to point 4.2.2.5 and Appendix D.1 of TSI OPE)**
+
+<table>
+<tbody><tr><td>Traffic code</td><td>Structure gauge</td><td>Axle load [t]</td><td>Line speed [km/h]</td><td>Usable length of platform [m]</td></tr>
+<tr><td>P1</td><td>GC</td><td>17 (1) / 21,5 (2)</td><td>250 -350 </td><td>400 </td></tr>
+<tr><td>P2</td><td>GB</td><td>20 (1)/ 22,5 (2)</td><td>200 -250 </td><td>200 -400 </td></tr>
+<tr><td>P3</td><td>DE3</td><td>22,5 (3)</td><td>120 -200 </td><td>200 -400 </td></tr>
+<tr><td>P4</td><td>GB</td><td>22,5 (3)</td><td>120 -200 </td><td>200 -400 </td></tr>
+<tr><td>P5</td><td>GA</td><td>20 (3)</td><td>80 -120 </td><td>50 -200 </td></tr>
+<tr><td>P6</td><td>G1</td><td>12 (3)</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>P1520</td><td>S</td><td>22,5 (3)</td><td>80 -160 </td><td>35 -400 </td></tr>
+<tr><td>P1600</td><td>IRL1</td><td>22,5 (3)</td><td>80 -160 </td><td>75 -240 </td></tr>
+<tr><td colspan="5">(1)  Minimum required values of axle load to be used for checks of bridges using a dynamic appraisal, based on design mass in working order for power heads and locomotives and operational mass under normal payload for vehicles capable of carrying a payload of passengers or luggage (mass definitions in accordance with the specification referenced in Appendix T Index [1] .  (2)  Minimum required values of axle load to be used for checks of infrastructure using a static loading, based on design mass under exceptional payload for vehicles capable of carrying a payload of passengers or luggage (mass definitions in accordance with the specification referenced in Appendix T Index [1] with regard of the specification referenced in Appendix T Index [2]). This axle load may be linked to limited speed.  (3)  To be used for checks of infrastructure used for static loading, based on design mass in working order for power heads and locomotives and design mass under exceptional payload for other vehicles (mass definitions in accordance with the specification referenced in Appendix T Index [1] with regard of the specification referenced in Appendix T Index [2]). This axle load may be linked to limited speed. </td></tr>
+</tbody>
+</table>
+
+**Table 3**
+
+**Infrastructure performance parameters for freight traffic**
+
+**(route compatibility checks are subject to point 4.2.2.5 and Appendix D.1 of TSI OPE)**
+
+<table>
+<tbody><tr><td>Traffic code</td><td>Structure gauge</td><td>Axle load [t]</td><td>Line speed [km/h]</td><td>Train length [m]</td></tr>
+<tr><td>F1</td><td>GC</td><td>22,5 (1)</td><td>100 -120 </td><td>740 -1 050 </td></tr>
+<tr><td>F2</td><td>GB</td><td>22,5 (1)</td><td>100 -120 </td><td>600 -1 050 </td></tr>
+<tr><td>F3</td><td>GA</td><td>20 (1)</td><td>60 -100 </td><td>500 -1 050 </td></tr>
+<tr><td>F4</td><td>G1</td><td>18 (1)</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>F1520</td><td>S</td><td>25 (1)</td><td>50 -120 </td><td>1 050 </td></tr>
+<tr><td>F1600</td><td>IRL1</td><td>22,5 (1)</td><td>50 -100 </td><td>150 -450 </td></tr>
+<tr><td colspan="5">(1)  To be used for static checks of infrastructure, based on design mass in working order for power heads and locomotives and design mass under normal payload for other vehicles (mass definitions in accordance with the specification referenced in Appendix T Index [1]). This axle load may be linked to limited speed. </td></tr>
+</tbody>
+</table>
+
+Note: Tables 2 and 3 are not to be used for compatibility checks between rolling stock and infrastructure
+
+(8) For structures, axle load by itself is not sufficient to set out the requirements for infrastructure. Requirements are specified as follows:
+
+— for new structures in points 4.2.7.1 and 4.2.7.2,
+
+— for existing structures in point 4.2.7.4,
+
+— for track in point 4.2.6.
+
+(9) Passenger hubs, freight hubs and connecting lines are included in the above traffic codes, as appropriate.
+
+(10) In accordance with Article 4(7) of Directive (EU) 2016/797 which provides that TSIs shall not prevent the Member States from deciding on the use of infrastructures for the movement of vehicles not covered by the TSIs, it is allowed to design new and upgraded lines able to accommodate:
+
+— gauges larger,
+
+— axle loads higher,
+
+— speeds greater,
+
+— usable length of platform greater,
+
+— trains longer.
+
+than those specified in Table 2 and Table 3.
+
+(11) (not used)
+
+(12) It is permissible for specific locations on the line to be designed for any or all of the performance parameters line speed, usable length of platform and train length less than those set out in Table 2 and Table 3, where duly justified to meet geographical, urban or environmental constraints.
+
+**4.2.2. Basic parameters characterising the infrastructure subsystem**
+
+4.2.2.1. List of Basic Parameters
+
+The Basic Parameters characterising the infrastructure subsystem, grouped according to the aspects listed in point 2.1, are:
+
+A. Line layout:
+
+(a) Structure gauge (4.2.3.1),
+
+(b) Distance between track centres (4.2.3.2),
+
+(c) Maximum gradients (4.2.3.3),
+
+(d) Minimum radius of horizontal curve (4.2.3.4),
+
+(e) Minimum radius of vertical curve (4.2.3.5),
+
+B. Track parameters:
+
+(a) Nominal track gauge (4.2.4.1),
+
+(b) Cant (4.2.4.2),
+
+(c) Cant deficiency (4.2.4.3),
+
+(d) Abrupt change of cant deficiency (4.2.4.4),
+
+(e) Equivalent conicity (4.2.4.5),
+
+(f) Railhead profile for plain line (4.2.4.6),
+
+(g) Rail inclination (4.2.4.7),
+
+C. Switches and crossings
+
+(a) Design geometry of switches and crossings (4.2.5.1),
+
+(b) Use of swing nose crossings (4.2.5.2),
+
+(c) Maximum unguided length of fixed obtuse crossings (4.2.5.3),
+
+D. Track resistance to applied loads
+
+(a) Track resistance to vertical loads (4.2.6.1),
+
+(b) Longitudinal track resistance (4.2.6.2),
+
+(c) Lateral track resistance (4.2.6.3),
+
+E. Structures resistance to traffic loads
+
+(a) Resistance of new bridges to traffic loads (4.2.7.1),
+
+(b) Equivalent vertical loading for new earthworks and earth pressure effects imposed on new structures (4.2.7.2),
+
+(c) Resistance of new structures over or adjacent to tracks (4.2.7.3),
+
+(d) Resistance of existing bridges and earthworks to traffic loads (4.2.7.4),
+
+F. Immediate action limits on track geometry defects
+
+(a) The immediate action limit for alignment (4.2.8.1),
+
+(b) The immediate action limit for longitudinal level (4.2.8.2),
+
+(c) The immediate action limit for track twist (4.2.8.3),
+
+(d) The immediate action limit of track gauge as isolated defect (4.2.8.4),
+
+(e) The immediate action limit for cant (4.2.8.5),
+
+(f) The immediate action limits for switches and crossings (4.2.8.6),
+
+G. Platforms
+
+(a) Usable length of platforms (4.2.9.1),
+
+(b) Platform height (4.2.9.2),
+
+(c) Platform offset (4.2.9.3),
+
+(d) Track layout alongside platforms (4.2.9.4),
+
+H. Health, safety and environment
+
+(a) Maximum pressure variation in tunnels (4.2.10.1),
+
+(b) Effect of crosswinds (4.2.10.2),
+
+(c) Aerodynamic effect on ballasted track (4.2.10.3),
+
+I. Provision for operation
+
+(a) Location markers (4.2.11.1),
+
+(b) Equivalent conicity in service (4.2.11.2)
+
+J. Fixed installations for servicing trains
+
+(a) General (4.2.12.1),
+
+(b) Toilet discharge (4.2.12.2),
+
+(c) Train external cleaning facilities (4.2.12.3),
+
+(d) Water restocking (4.2.12.4),
+
+(e) Refuelling (4.2.12.5),
+
+(f) Electric shore supply (4.2.12.6),
+
+K. Maintenance rules
+
+(a) Maintenance file (4.5.1),
+
+(b) Maintenance plan (4.5.2).
+
+4.2.2.2. Requirements for Basic Parameters
+
+(1) These requirements are described in the following paragraphs, together with any particular conditions that may be allowed in each case for the basic parameters and interfaces concerned.
+
+(2) The values of basic parameters specified are only valid up to a maximum line speed of 350 km/h.
+
+(3) For Ireland and for the United Kingdom in respect of Northern Ireland network the values of basic parameters specified are only valid up to a maximum line speed of 165 km/h.
+
+(4) In case of multi-rail track, requirements of this TSI are to be applied separately to each pair of rails designed to be operated as separate track.
+
+(5) Requirements for lines representing specific cases are described under point 7.7.
+
+(6) A short section of track with devices to allow transition between different nominal track gauges is allowed.
+
+(7) Requirements are described for the subsystem under normal service conditions. Consequences, if any, of the execution of works, which may require temporary exceptions as far as the subsystem performance is concerned, are dealt with in point 4.4.
+
+(8) The performance levels of trains can be enhanced by adopting specific systems, such as vehicle body tilting. Special conditions are allowed for running such trains, provided they do not entail restrictions for other trains not equipped with such systems.
+
+**4.2.3. Line layout**
+
+4.2.3.1. Structure gauge
+
+(1) The upper part of the structure gauge shall be set on the basis of the gauges selected in accordance with point 4.2.1, which are set out in the specification referenced in Appendix T Index [3].
+
+(2) The lower part of the structure gauge shall be GI2 as set out in the specification referenced in Appendix T Index [3]. Where tracks are equipped with rail brakes, structure gauge GI1 as set out in the same specification shall apply for the lower part of the gauge.
+
+(3) Calculations of the structure gauge shall be done using the kinematic method in accordance with the requirements of the specification referenced in Appendix T Index [3].
+
+(4) Instead of points (1) to (3), for the 1 520 mm track gauge system, all traffic codes selected according to point 4.2.1 are applied with the uniform structure gauge ‘S’ as defined in Appendix H to this TSI.
+
+(5) Instead of points (1) to (3), for the 1 600 mm track gauge system, all traffic codes selected according to point 4.2.1 are applied with the uniform structure gauge IRL1 as defined in Appendix O to this TSI.
+
+4.2.3.2. Distance between track centres
+
+(1) The distance between track centres shall be set on the basis of the gauges selected according to point 4.2.1.
+
+(2) The nominal horizontal distance between track centres for new lines shall be specified for the design and shall not be smaller than the values from the Table 4; it considers margins for aerodynamic effects.
+
+**Table 4**
+
+**Minimum nominal horizontal distance between track centres**
+
+| Maximum allowed speed [km/h] | Minimum nominal horizontal distance between track centres [m] |
+| --- | --- |
+| 160 < v ≤ 200 | 3,80 |
+| 200 < v ≤ 250 | 4,00 |
+| 250 < v ≤ 300 | 4,20 |
+| v > 300 | 4,50 |
+
+(3) The distance between track centres shall at least satisfy the requirements for the limit installation distance between track centres, defined in accordance with the specification referenced in Appendix T Index [3].
+
+(4) Instead of points (1) to (3), for the 1 520 mm track gauge system, the nominal horizontal distance between track centres shall be specified for the design and shall not be smaller than the values from the Table 5; it considers margins for aerodynamic effects.
+
+**Table 5**
+
+**Minimum nominal horizontal distance between track centres for the 1 520 mm track gauge system**
+
+| Maximum allowed speed [km/h] | Minimum nominal horizontal distance between track centres [m] |
+| --- | --- |
+| v ≤ 160 | 4,10 |
+| 160 < v ≤ 200 | 4,30 |
+| 200 < v ≤ 250 | 4,50 |
+| v > 250 | 4,70 |
+
+(5) Instead of point (2), for the 1 668 mm track gauge system, the nominal horizontal distance between track centres for new lines shall be specified for the design and shall not be smaller than the values from the Table 6, it considers margins for aerodynamic effects.
+
+**Table 6**
+
+**Minimum nominal horizontal distance between track centres for the 1 668 mm track gauge system**
+
+| Maximum allowed speed [km/h] | Minimum nominal horizontal distance between track centres [m] |
+| --- | --- |
+| 160 < v ≤ 200 | 3,92 |
+| 200 < v < 250 | 4,00 |
+| 250 ≤ v ≤ 300 | 4,30 |
+| 300 < v ≤ 350 | 4,50 |
+
+(6) Instead of points (1) to (3), for the 1 600 mm track gauge system, the distance between track centres shall be set on the basis of the gauges selected according to point 4.2.1. The nominal horizontal distance between track centres shall be specified for the design and shall not be less than 3,57 m for gauge IRL1; it considers margins for aerodynamic effects.
+
+4.2.3.3. Maximum gradients
+
+(1) Gradients of tracks through passenger platforms of new lines shall not be more than 2,5 mm/m, where vehicles are intended to be regularly attached or detached.
+
+(2) Gradients of new stabling tracks intended for parking rolling stock shall not be more than 2,5 mm/m unless specific provision is made to prevent the rolling stock from running away.
+
+(3) Gradients as steep as 35 mm/m are allowed for main tracks on new P1 lines dedicated to passenger traffic at the design phase provided the following ‘envelope’ requirements are observed:
+
+(a) the slope of the moving average profile over 10 km is less than or equal to 25 mm/m.
+
+(b) the maximum length of continuous 35 mm/m gradient does not exceed 6 km.
+
+4.2.3.4. Minimum radius of horizontal curve
+
+The minimum design radius of horizontal curve shall be selected with regard to the local design speed of the curve.
+
+(1) The minimum horizontal design curve radius for new lines shall not be less than 150 m.
+
+(2) Reverse curves, except in marshalling yards where wagons are shunted individually, with small radii for new lines shall be designed to prevent buffer locking.
+
+For straight intermediate track elements between the curves, the specification referenced in Appendix T, Index [4] shall apply, whose values are based on the reference vehicles defined in the same specification. To prevent buffer locking for existing vehicles that do not fulfil the assumptions of the reference vehicles, infrastructure manager may specify longer lengths of the straight intermediate element.
+
+For non-straight intermediate track elements, a detailed calculation shall be made in order to check the magnitude of the end throw differences.
+
+(3) Instead of point (2), for the 1 520 mm track gauge system, reverse curves with radii in the range from 150 m up to 250 m shall be designed with a section of straight track of at least 15 m between the curves.
+
+4.2.3.5. Minimum radius of vertical curve
+
+(1) The radius of vertical curves (except for humps in marshalling yards) shall be at least 500 m on a crest or 900 m in a hollow.
+
+(2) For humps in marshalling yards the radius of vertical curves shall be at least 250 m on a crest or 300 m in a hollow.
+
+(3) Instead of point (1), for the 1 520 mm track gauge system the radius of vertical curves (except the marshalling yards) shall be at least 5 000 m both on a crest and in a hollow.
+
+(4) Instead of point (2), for the 1 520 mm track gauge system and for humps in marshalling yards the radius of vertical curves shall be at least 350 m on a crest and 250 m in a hollow.
+
+**4.2.4. Track parameters**
+
+4.2.4.1. Nominal track gauge
+
+(1) European standard nominal track gauge shall be 1 435 mm.
+
+(2) Instead of point (1), for the 1 520 mm track gauge system the nominal track gauge shall be 1 520 mm.
+
+(3) Instead of point (1), for the 1 668 mm track gauge system, the nominal track gauge shall be 1 668 mm.
+
+(4) Instead of point (1), for the 1 600 mm track gauge system the nominal track gauge shall be 1 600 mm.
+
+4.2.4.2. Cant
+
+(1) The design cant for lines shall be limited as defined in Table 7.
+
+**Table 7**
+
+**Design cant [mm]**
+
+|  | Freight and mixed traffic | Passenger traffic |
+| --- | --- | --- |
+| Ballasted track | 160 | 180 |
+| Non ballasted track | 170 | 180 |
+
+(2) The design cant on tracks adjacent to station platforms where trains are intended to stop in normal service shall not exceed 110 mm.
+
+(3) New lines with mixed or freight traffic on curves with a radius less than 305 m and a cant transition steeper than 1 mm/m, the cant shall be restricted to the limit given by the following formula
+
+D ≤ (R – 50)/1,5
+
+where D is the cant in mm and R is the radius in m.
+
+(4) Instead of points (1) to (3), for the 1 520 mm track gauge system the design cant shall not exceed 150 mm.
+
+(5) Instead of point (1), for the 1 668 mm track gauge system, the design cant shall not exceed 185 mm.
+
+(6) Instead of point (2), for the 1 668 mm track gauge system, the design cant on tracks adjacent to station platforms where trains are intended to stop in normal service shall not exceed 125 mm.
+
+(7) Instead of point (3), for the 1 668 mm track gauge system, for new lines with mixed or freight traffic on curves with a radius less than 250 m, the cant shall be restricted to the limit given by the following formula:
+
+D ≤ 0,9 * (R – 50)
+
+where D is the cant in mm and R is the radius in m.
+
+(8) Instead of point (1), for the 1 600 mm track gauge system the design cant shall not exceed 185 mm.
+
+4.2.4.3. Cant deficiency
+
+(1) The maximum values for cant deficiency are set out in Table 8.
+
+**Table 8**
+
+**Maximum cant deficiency [mm]**
+
+<table>
+<tbody><tr><td>Design speed [km/h]</td><td>v ≤ 160</td><td>160 &lt; v ≤ 300</td><td>v &gt; 300</td></tr>
+<tr><td>For operation of rolling stock conforming to the Locomotives and Passenger TSI</td><td colspan="2">153</td><td>100</td></tr>
+<tr><td>For operation of rolling stock conforming to the Freight Wagons TSI</td><td>130</td><td>—</td><td>—</td></tr>
+</tbody>
+</table>
+
+(2) It is permissible for trains specifically designed to travel with higher cant deficiency (for example multiple units with axle loads lower than set out in table 2; vehicles with special equipment for the negotiation of curves) to run with higher cant deficiency values, subject to a demonstration that this can be achieved safely.
+
+(3) Instead of point (1), for all types of rolling stock of the 1 520 mm track gauge system the cant deficiency shall not exceed 115 mm. This is valid for speeds up to 200 km/h.
+
+(4) Instead of point (1), for the 1 668 mm track gauge system, the maximum values for cant deficiency are set out in Table 9.
+
+**Table 9**
+
+**Maximum cant deficiency for the 1 668 mm track gauge system [mm]**
+
+<table>
+<tbody><tr><td>Design speed [km/h]</td><td>v ≤ 160</td><td>160 &lt; v ≤ 300</td><td>v &gt; 300</td></tr>
+<tr><td>For operation of rolling stock conforming to the Locomotives and Passenger TSI</td><td colspan="2">175</td><td>115</td></tr>
+<tr><td>For operation of rolling stock conforming to the Freight Wagons TSI</td><td>150</td><td>—</td><td>—</td></tr>
+</tbody>
+</table>
+
+4.2.4.4. Abrupt change of cant deficiency
+
+(1) The maximum values of abrupt change of cant deficiency shall be:
+
+(a) 130 mm for v ≤ 60 km/h,
+
+(b) 125 mm for 60 km/h &lt; v ≤ 200 km/h,
+
+(c) 85 mm for 200 km/h &lt; v ≤ 230 km/h
+
+(d) 25 mm for v > 230 km/h.
+
+(2) Where v ≤ 40 km/h and cant deficiency ≤ 75 mm both before and after an abrupt change of curvature, the value of abrupt change of cant deficiency may be raised to 150 mm.
+
+(3) Instead of points (1) and (2), for the 1 520 mm track gauge system the maximum values of abrupt change of cant deficiency shall be:
+
+(a) 115 mm for v ≤ 200 km/h,
+
+(b) 85 mm for 200 km/h &lt; v ≤ 230 km/h,
+
+(c) 25 mm for v > 230 km/h.
+
+(4) Instead of point (1), for the 1 668 mm track gauge system, the maximum design values of abrupt change of cant deficiency shall be:
+
+(a) 150 mm for V ≤ 45 km/h,
+
+(b) 115 mm for 45 km/h &lt; V ≤ 100 km/h,
+
+(c) (399-V)/2.6 [mm] for 100 km/h &lt; V ≤ 220 km/h,
+
+(d) 70 mm for 220 km/h &lt; V ≤ 230 km/h,
+
+(e) Abrupt change of cant deficiency is not allowed for speeds of more than 230 km/h.
+
+4.2.4.5. Equivalent conicity
+
+(1) The limiting values for equivalent conicity quoted in Table 10 shall be calculated for the amplitude (y) of the wheelset's lateral displacement:
+
+— y = 3 mm, if (TG – SR) ≥ 7mm
+
+— [image] , if 5mm ≤ (TG – SR) &lt; 7 mm
+
+— y = 2 mm, if (TG – SR) &lt; 5 mm
+
+where TG is the track gauge and SR is the distance between the flange contact faces of the wheelset.
+
+(2) No assessment of equivalent conicity is required for switches and crossings.
+
+(3) Design track gauge, rail head profile and rail inclination for plain line shall be selected to ensure that the equivalent conicity limits set out in Table 10 are not exceeded.
+
+**Table 10**
+
+**Equivalent conicity design limit values**
+
+|  | Wheel profile |
+| --- | --- |
+| Speed range [km/h] | S1002, GV1/40 |
+| v ≤ 60 | Assessment not required |
+| 60 < v ≤ 200 | 0,25 |
+| 200 < v ≤ 280 | 0,20 |
+| v > 280 | 0,10 |
+
+(4) The following wheelsets, as defined in the specification referenced in Appendix T, index [6], shall be modelled passing over the designed track conditions (simulated by calculation in accordance with the specification referenced in Appendix T, Index [5]):
+
+(a) S 1002 with SR1.
+
+(b) S 1002 with SR2.
+
+(c) GV 1/40 with SR1.
+
+(d) GV 1/40 with SR2.
+
+For SR1 and SR2 the following values apply:
+
+(a) For the 1 435 mm track gauge system SR1 = 1 420 mm and SR2 = 1 426 mm.
+
+(b) For the 1 524 mm track gauge system SR1 = 1 505 mm and SR2 = 1 511 mm.
+
+(c) For the 1 600 mm track gauge system SR1 = 1 585 mm and SR2 = 1 591 mm.
+
+(d) For the 1 668 mm track gauge system SR1 = 1 653 mm and SR2 = 1 659 mm.
+
+(5) Instead of points (1) to (4), for the 1 520 mm track gauge system, no assessment of equivalent conicity is required.
+
+4.2.4.6. Railhead profile for plain line
+
+(1) The railhead profile shall be selected from the range set out in one of the specifications referenced in Appendix T, Index [7] and Index [8], or shall be in accordance with point (2).
+
+(2) The design of railhead profiles for plain line shall comprise:
+
+(a) a lateral slope on the side of the railhead angled to between vertical and 1/16 with reference to the vertical axis of the railhead;
+
+(b) the vertical distance between the top of this lateral slope and the top of the rail shall be less than 20 mm;
+
+(c) a radius of at least 12 mm at the gauge corner;
+
+(d) the horizontal distance between the crown of the rail and the tangent point shall be between 31 and 37,5 mm.
+
+Figure 1
+
+Railhead profile
+
+[image]
+
+(3) These requirements are not applicable to expansion devices.
+
+4.2.4.7. Rail inclination
+
+4.2.4.7.1. Plain line
+
+(1) The rail shall be inclined towards the centre of the track.
+
+(2) For tracks intended to be operated at speeds greater than 60 km/h, the rail inclination for a given route shall be selected from the range 1/20 to 1/40.
+
+(3) For sections of not more than 100 m between switches and crossings without inclination where the running speed is no more than 200 km/h, the laying of rails without inclination is allowed.
+
+4.2.4.7.2. Requirements for switches and crossings
+
+(1) The rail shall be designed to be either vertical or inclined.
+
+(2) If the rail is inclined, the designed inclination shall be selected from the range 1/20 to 1/40.
+
+(3) The inclination can be given by the shape of the active part of the rail head profile.
+
+(4) Within switches and crossings where the running speed is more than 200 km/h and no more than 250 km/h, the laying of rails without inclination is allowed provided that it is limited to sections not exceeding 50 m.
+
+(5) For speeds of more than 250 km/h the rails shall be inclined.
+
+**4.2.5. Switches and crossings**
+
+4.2.5.1. Design geometry of switches and crossings
+
+Point 4.2.8.6 of this TSI defines immediate action limits for switches and crossings that are compatible with geometrical characteristics of wheelsets as defined in the rolling stock TSIs. It will be the task of the infrastructure manager to decide geometrical design values appropriate to its maintenance plan.
+
+4.2.5.2. Use of swing nose crossing
+
+For speeds higher than 250 km/h switches and crossings shall be equipped with swing-nose crossings.
+
+4.2.5.3. Maximum unguided length of fixed obtuse crossings
+
+The design value of the maximum unguided length of fixed obtuse crossings shall be in accordance with the requirements set out in Appendix J to this TSI.
+
+**4.2.6. Track resistance to applied loads**
+
+4.2.6.1. Track resistance to vertical loads
+
+The track design, including switches and crossings, shall take into account at least the following forces:
+
+(a) the axle load selected according to point 4.2.1;
+
+(b) maximum vertical wheel forces. Maximum wheel forces for defined test conditions are set out in the specification referenced in Appendix T, Index [9].
+
+(c) vertical quasi-static wheel forces. Maximum quasi-static wheel forces for defined test conditions are set out in the specification referenced in Appendix T, Index [9].
+
+4.2.6.2. Longitudinal track resistance
+
+4.2.6.2.1. Design forces
+
+The track, including switches and crossings, shall be designed to withstand longitudinal forces equivalent to the force arising from braking of 2,5 m/s2 for the performance parameters chosen in accordance with point 4.2.1.
+
+4.2.6.2.2. Compatibility with braking systems
+
+(1) The track, including switches and crossings, shall be designed to be compatible with the use of magnetic braking systems for emergency braking.
+
+(2) Provisions for the use of eddy current braking systems on track shall be defined at operational level by the infrastructure manager on the basis of the specific characteristics of the track, including switches and crossings. The conditions of use of this braking system are registered in accordance with Commission Implementing Regulation (EU) 2019/777 ( 5 ) (RINF).
+
+(3) For the 1 600 mm track gauge system it shall be allowed not to apply point (1).
+
+4.2.6.3. Lateral track resistance
+
+The track design, including switches and crossings, shall take into account at least the following forces:
+
+(a) lateral forces; maximum lateral forces exerted by a wheel set on the track for defined test conditions are set out in the specification referenced in Appendix T, Index [9];
+
+(b) quasi-static guiding forces; maximum quasi-static guiding forces Yqst for defined radii and test conditions are set out in the specification referenced in Appendix T, Index [9].
+
+**4.2.7. Structures resistance to traffic loads**
+
+The requirements of the specifications referenced in Appendix T, Index [10] and Index [11] specified in this point of the TSI are to be applied in accordance with the corresponding points in the national annexes to those specifications if they exist.
+
+4.2.7.1. Resistance of new bridges to traffic loads
+
+4.2.7.1.1. Vertical loads
+
+(1) Bridges shall be designed to support vertical loads in accordance with the following load models, set out in the specification referenced in Appendix T, Index [10]:
+
+(a) Load Model 71, as set out in the specification referenced in Appendix T, Index [10];
+
+(b) in addition, for continuous bridges, Load Model SW/0, as set out in the specification referenced in Appendix T, Index [10].
+
+(2) The load models shall be multiplied by the factor alpha (α) as set out in the specification referenced in Appendix T, Index [10].
+
+(3) The value of factor alpha (α) shall be equal to or greater than the values set out in Table 11.
+
+**Table 11**
+
+**Factor alpha (α) for the design of new bridges**
+
+| Type of traffic | Minimum factor alpha (α) |
+| --- | --- |
+| P1, P2, P3, P4 | 1,0 |
+| P5 | 0,91 |
+| P6 | 0,83 |
+| P1520 | 1 |
+| P1600 | 1,1 |
+| F1, F2, F3 | 1,0 |
+| F4 | 0,91 |
+| F1520 | 1,46 |
+| F1600 | 1,1 |
+
+4.2.7.1.2. Allowance for dynamic effects of vertical loads
+
+(1) The load effects from the Load Model 71 and Load Model SW/0 shall be enhanced by the dynamic factor phi (Φ) as set out in the specification referenced in Appendix T, Index [10].
+
+(2) For bridges for speeds over 200 km/h where the specification referenced in Appendix T, Index [10] requires a dynamic analysis to be carried out, the bridge shall additionally be designed for HSLM defined in the specification referenced in Appendix T, Index [10] .
+
+(3) It is permissible to design new bridges such that they will also accommodate an individual passenger train with higher axle loads than covered by HSLM. The dynamic analysis shall be undertaken using the characteristic value of the loading from the individual train taken as the design mass under normal payload in accordance with Appendix K with an allowance for passengers in standing areas in accordance with Note (1) of Appendix K.
+
+4.2.7.1.3. Centrifugal forces
+
+Where the track on a bridge is curved over the whole or part of the length of the bridge, the centrifugal force shall be taken into account in the design of bridges as set out in the specification referenced in Appendix T, Index [10].
+
+4.2.7.1.4. Nosing forces
+
+The nosing force shall be taken into account in the design of bridges as set out in the specification referenced in Appendix T, Index [10].
+
+4.2.7.1.5. Actions due to traction and braking (longitudinal loads)
+
+Traction and braking forces shall be taken into account in the design of bridges as set out in the specification referenced in Appendix T, Index [10].
+
+4.2.7.1.6. Design track twist due to rail traffic actions
+
+The maximum total design track twist due to rail traffic actions shall not exceed the values set out in the specification referenced in Appendix T, Index [11].
+
+4.2.7.2. Equivalent vertical loading for new geotechnical structures, earthworks and earth pressure effects
+
+(1) Geotechnical structures and earthworks shall be designed and earth pressure effects shall be specified taking into account the vertical loads produced by the Load Model 71, as set out in the specification referenced in Appendix T, Index [10].
+
+(2) The equivalent vertical loading shall be multiplied by the factor alpha (α) as set out in the specification referenced in Appendix T, Index [10]. The value of α shall be equal to or greater than the values set out in Table 11.
+
+4.2.7.3. Resistance of new structures over or adjacent to tracks
+
+Aerodynamic actions from passing trains shall be taken into account as set out in the specification referenced in Appendix T, Index [10].
+
+4.2.7.4. Resistance of existing structures (bridges, geotechnical structures and earthworks) to traffic loads
+
+(1) Bridges, geotechnical structures and earthworks shall be brought to a specified level of interoperability in accordance with the TSI category of the line referred to in point 4.2.1.
+
+(2) The minimum capability requirements for structures for each traffic code are given in Appendix E and must be met for the line to be declared interoperable.
+
+(3) The following conditions apply:
+
+(a) Where an existing structure is replaced by a new structure then the new structure shall be in accordance with the requirements of point 4.2.7.1 or point 4.2.7.2.
+
+(b) If the minimum capability of the existing structures satisfy the requirements in Appendix E then the existing structures satisfy the relevant interoperability requirements.
+
+(c) Where the capability of an existing structure does not satisfy the requirements in Appendix E and works (e.g. strengthening) are being carried out to raise the capability of the structure to meet the requirements of this TSI (and the structure is not to be replaced by a new structure) then the structure shall be brought into conformity with the requirements in Appendix E.
+
+(4) For the networks of the United Kingdom (Northern Ireland), in points (2) and (3) the EN line category may be replaced by Route Availability (RA) number (delivered in accordance with the national technical rule notified for that purpose) and consequently references to Appendix E are replaced by references to Appendix F.
+
+**4.2.8. Immediate action limits on track geometry defects**
+
+4.2.8.1. The immediate action limit for alignment
+
+(1) The immediate action limits for isolated defects in alignment are set out in the specification referenced in Appendix T, Index [12]. Isolated defects shall not exceed the limits of wavelength range D1.
+
+(2) The immediate action limits for isolated defects in alignment for speeds of more than 300 km/h are an open point.
+
+4.2.8.2. The immediate action limit for longitudinal level
+
+(1) The immediate action limits for isolated defects in longitudinal level are set out in the specification referenced in Appendix T, Index [12]. Isolated defects shall not exceed the limits of wavelength range D1.
+
+(2) The immediate action limits for isolated defects in longitudinal level for speeds of more than 300 km/h are an open point.
+
+4.2.8.3. The immediate action limit for track twist
+
+(1) The immediate action limit for track twist as an isolated defect is given as a zero to peak value. Track twist is set out in the specification referenced in Appendix T, Index [13].
+
+(2) The track twist limit is a function of the measurement base applied in accordance with the specification referenced in Appendix T, Index [12].
+
+(3) The infrastructure manager shall set out in the maintenance plan the base-length on which it will measure the track in order to check compliance with this requirement. The base-length of measurement shall include at least one base between 2 and 5 m.
+
+(4) Instead of points (1) and (2), for the 1 520 mm track gauge system the track twist, for a base length of 10 m, shall be not more than:
+
+(a) 16 mm for passenger lines with v > 120 km/h or freight lines with v > 80 km/h
+
+(b) 20 mm for passenger lines with v ≤ 120 km/h or freight lines with v ≤ 80 km/h
+
+(5) Instead of point (3), for the 1 520 mm track gauge system the Infrastructure Manager shall set out in the maintenance plan the base-length on which it will measure the track in order to check compliance with this requirement. The base-length of measurement shall include at least one base of 10 m.
+
+(6) Instead of point (2), for the 1 668 mm track gauge system, the track twist limit is a function of the measurement base applied in accordance with the specification referenced in Appendix T, Index [12].
+
+4.2.8.4. The immediate action limit of track gauge as an isolated defect
+
+(1) The immediate action limits of track gauge as an isolated defect are set out in Table 12.
+
+**Table 12**
+
+**Immediate action limits of track gauge**
+
+<table>
+<tbody><tr><td>Speed [km/h]</td><td colspan="2">Dimensions [mm]</td></tr>
+<tr><td>  </td><td>Minimum track gauge</td><td>Maximum track gauge</td></tr>
+<tr><td>v ≤ 120</td><td>1 426 </td><td>1 470 </td></tr>
+<tr><td>120 &lt; v ≤ 160</td><td>1 427 </td><td>1 470 </td></tr>
+<tr><td>160 &lt; v ≤ 230</td><td>1 428 </td><td>1 463 </td></tr>
+<tr><td>v &gt; 230</td><td>1 430 </td><td>1 463 </td></tr>
+</tbody>
+</table>
+
+(2) Instead of point (1), for the 1 520 track gauge system the immediate action limits of track gauge as an isolated defect are set out in Table 13.
+
+**Table 13**
+
+**Immediate action limits of track gauge for 1 520 mm track gauge system**
+
+<table>
+<tbody><tr><td>Speed [km/h]</td><td colspan="2">Dimensions [mm]</td></tr>
+<tr><td>  </td><td>Minimum track gauge</td><td>Maximum track gauge</td></tr>
+<tr><td>v ≤ 140</td><td>1 512 </td><td>1 548 </td></tr>
+<tr><td>v &gt; 140</td><td>1 512 </td><td>1 536 </td></tr>
+</tbody>
+</table>
+
+(3) Instead of point (1), for the 1 600 track gauge system the immediate action limits of track gauge as an isolated defect are:
+
+(a) minimum track gauge: 1 591 mm
+
+(b) maximum track gauge: 1 635 mm.
+
+4.2.8.5. The immediate action limit for cant
+
+(1) The maximum cant allowed in service is 180 mm.
+
+(2) The maximum cant allowed in service is 190 mm for dedicated passenger traffic lines.
+
+(3) Instead of points (1) and (2), for the 1 520 mm track gauge system, the maximum cant allowed in service is 150 mm.
+
+(4) Instead of points (1) and (2), for the 1 600 mm track gauge system, the maximum cant allowed in service is 185 mm.
+
+(5) Instead of points (1) and (2), for the 1 668 mm track gauge system, the maximum cant allowed in service is 200 mm.
+
+4.2.8.6. The immediate action limits for switches and crossings
+
+Figure 2
+
+Point retraction in fixed common crossings
+
+(1) The technical characteristics of switches and crossings shall comply with the following in-service values:
+
+(a) Maximum value of free wheel passage in switches: 1 380 mm.
+
+This value can be increased if the infrastructure manager demonstrates that the actuation and locking system of the switch is able to resist the lateral impact forces of a wheelset.
+
+(b) Minimum value of fixed nose protection for common crossings: 1 392 mm.
+
+This value is measured 14 mm below the running surface, and on the theoretical reference line, at an appropriate distance back from the actual point (RP) of the nose as indicated in Figure 2.
+
+For crossings with point retraction, this value can be reduced. In this case the infrastructure manager shall demonstrate that the point retraction is sufficient to guarantee that the wheel will not hit the nose at the actual point (RP).
+
+(c) Maximum value of free wheel passage at crossing nose: 1 356 mm.
+
+(d) Maximum value of free wheel passage at check rail/wing rail entry: 1 380 mm.
+
+(e) Minimum flangeway width: 38 mm.
+
+(f) Minimum flangeway depth: 40 mm.
+
+(g) Maximum height of check rail: 70 mm.
+
+(2) All relevant requirements for switches and crossings are also applicable to other technical solutions using switch rails, for example side modifiers used in multi-rail track.
+
+(3) Instead of point (1), for the 1 520 mm track gauge system the technical characteristics of switches and crossings shall comply with the following in-service values:
+
+(a) Minimum value of bypass at the narrowest location between open switch rail and stock rail is 65 mm.
+
+(b) Minimum value of fixed nose protection for common crossings is 1 472 mm
+
+(c) This value is measured 13 mm below the running surface, and on the theoretical reference line, at an appropriate distance back from the actual point (RP) of the nose as indicated in Figure 2. For crossings with point retraction, this value can be reduced. In this case the Infrastructure Manager shall demonstrate that the point retraction is sufficient to guarantee that the wheel will not hit the nose at the actual point (RP).
+
+(d) Maximum value of free wheel passage at crossing nose is 1 435 mm
+
+(e) Minimum flangeway width is 42 mm
+
+(f) Minimum flangeway depth is 40 mm
+
+(g) Maximum height of check rail is 50 mm
+
+(4) Instead of point (1), for the 1 600 mm track gauge system the technical characteristics of switches and crossings shall comply with the following in-service values:
+
+(a) Maximum value of free wheel passage in switches: 1 546 mm.
+
+This value can be increased if the infrastructure manager demonstrates that the actuation and locking system of the switch is able to resist the lateral impact forces of a wheelset.
+
+(b) Minimum value of fixed nose protection for common crossings: 1 556 mm.
+
+This value is measured 14 mm below the running surface, and on the theoretical reference line, at an appropriate distance back from the actual point (RP) of the nose as indicated in Figure 2.
+
+For crossings with point retraction, this value can be reduced. In this case the infrastructure manager shall demonstrate that the point retraction is sufficient to guarantee that the wheel will not hit the nose at the actual point (RP).
+
+(c) Maximum value of free wheel passage at crossing nose: 1 520 mm.
+
+(d) Maximum value of free wheel passage at check rail/wing rail entry: 1 546 mm.
+
+(e) Minimum flangeway width: 38 mm.
+
+(f) Minimum flangeway depth: 40 mm.
+
+(g) Maximum height of check rail above head of running rail: 25 mm.
+
+**4.2.9. Platforms**
+
+(1) The requirements of this point are only applicable to passenger platforms where trains are intended to stop in normal service.
+
+(2) For the requirements of this point it is permissible to design platforms required for the current service requirement provided provision is made for the reasonably foreseeable future service requirements. When specifying the interfaces with trains intended to stop at the platform, consideration shall be given to both the current service requirements and the reasonably foreseeable service requirements at least 10 years following the bringing into service of the platform.
+
+4.2.9.1. Usable length of platforms
+
+The usable length of a platform shall be defined according to point 4.2.1.
+
+4.2.9.2. Platform height
+
+(1) The nominal platform height shall be 550 mm or 760 mm above the running surface for radii of 300 m or more.
+
+(2) For smaller radii the nominal platform height may be adjusted depending on the platform offset to minimise the stepping distance between the train and the platform.
+
+(3) For platforms where only passenger trains that are explicitly listed as excluded from the scope of Commission Regulation (EU) No 1302/2014 (‘TSI LOC&PAS’) ( 6 ) in its point 1.1 are intended to stop in normal service, different provisions for the nominal platform height might apply.
+
+(4) Instead of points (1) and (2), for the 1 520 mm track gauge system the nominal platform height shall be 200 mm or 550 mm above the running surface. These values shall be considered with a tolerance of -10/+20 mm.
+
+(5) Instead of points (1) and (2), for the 1 600 mm track gauge system the nominal platform height shall be 915 mm above the running surface.
+
+4.2.9.3. Platform offset
+
+(1) The distance between the track centre and the platform edge parallel to the running plane (bq), as defined in the specification referenced in Appendix T, Index [3], shall be set on the basis of the installation limit gauge (bqlim). The installation limit gauge shall be calculated on the basis of the gauge G1.
+
+(2) The platform shall be built close to the gauge within a maximum tolerance of 50 mm. The value for bq shall therefore respond to:
+
+bqlim ≤ bq ≤ bqlim + 50 mm.
+
+(3) Instead of points (1) and (2), for the 1 520 mm track gauge system the platform offset shall be:
+
+(a) 1 920 mm for platforms with heights of 550 mm and
+
+(b) 1 745 mm for platforms with height of 200 mm.
+
+These values shall be considered with a tolerance of -10/+10 mm.
+
+(4) Instead of points (1) and (2), for the 1 600 mm track gauge system the platform offset shall be 1 560 mm.
+
+4.2.9.4. Track layout alongside platforms
+
+(1) Track adjacent to the platforms for new lines shall preferably be straight, but shall nowhere have a radius of less than 300 m.
+
+(2) No values are specified for an existing track alongside new, renewed or upgraded platforms.
+
+**4.2.10. Health, safety and environment**
+
+4.2.10.1. Maximum pressure variations in tunnels
+
+(1) Any new tunnel or underground structure falling in the categories described in the specification referenced in Appendix T, Index [14], has to provide that maximum pressure variation, caused by the passage of a train running at the maximum allowed speed in the tunnel, do not exceed 10 kPa during the time taken for the train to pass through the tunnel.
+
+(2) The requirement of point (1) has to be fulfilled along the outside of any train complying with the TSI LOC&PAS.
+
+(3) In the case of upgrading or renewal of the infrastructure subsystem, existing tunnel or underground structure intended to be operated at speeds greater than or equal to 200 km/h has to provide that maximum pressure variation, caused by the passage of a train running at the maximum allowed speed in the tunnel, do not exceed 10 kPa during the time taken for the train to pass through the tunnel. The assessment has to be performed in accordance with the specification referenced in Appendix T, Index [14], or in point 6.2.4.12(1) when it is not possible to apply a simplified conformity assessment.
+
+4.2.10.2. Effect of crosswinds
+
+(1) A line is interoperable from the cross wind point of view if safety is ensured for a reference train running along that line under the most critical operational conditions.
+
+(2) The rules for proving conformity shall take into account the characteristic wind curves of the reference trains defined in the LOC&PAS TSI.
+
+(3) If safety cannot be achieved without mitigating measures, either due to the geographic situation or to other specific features of the line, the infrastructure manager shall take the necessary measures to maintain the safety, for example by:
+
+— locally reducing train speeds, possibly temporarily during periods at risk of storms,
+
+— installing equipment to protect the track section concerned from cross winds,
+
+— other appropriate means.
+
+(4) It shall be demonstrated that safety is achieved after measures taken.
+
+4.2.10.3. Aerodynamic effect on ballasted track
+
+(1) The aerodynamic interaction between rolling stock and infrastructure may cause the lifting and further blowing away of ballast stones from the track bed in plain line and switches and crossings (Ballast pick up). This risk shall be mitigated.
+
+(2) The requirements for the infrastructure subsystem aimed at mitigating the risk for ‘ballast pick up’ apply only to lines intended to be operated at speed greater than 250 km/h.
+
+(3) The requirements of point (2) above are an open point.
+
+**4.2.11. Provision for operation**
+
+4.2.11.1. Location markers
+
+Location markers shall be provided at nominal intervals along the track of not more than 1 000 m.
+
+4.2.11.2. Equivalent conicity in service
+
+(1) If ride instability is reported, the railway undertaking and the infrastructure manager shall localise the section of the line in a joint investigation according paragraphs (2) and (3) hereafter.
+
+Note: This joint investigation is also specified in point 4.2.3.4.3.2 of TSI LOC & PAS for action on rolling stock.
+
+(2) The infrastructure manager shall measure the track gauge and the railhead profiles at the site in question at a distance of approximate 10 m. The mean equivalent conicity over 100 m shall be calculated by modelling with the wheelsets (a) – (d) mentioned in paragraph 4.2.4.5(4) of this TSI in order to check for compliance, for the purpose of the joint investigation, with the limit equivalent conicity for the track specified in Table 14.
+
+**Table 14**
+
+**Equivalent conicity in service limit values for the track (for the purpose of joint investigation)**
+
+| Speed range [km/h] | Maximum value of mean equivalent conicity over 100 m |
+| --- | --- |
+| v ≤ 60 | assessment not required |
+| 60 < v ≤ 120 | 0,40 |
+| 120 < v ≤ 160 | 0,35 |
+| 160 < v ≤ 230 | 0,30 |
+| v > 230 | 0,25 |
+
+(3) If the mean equivalent conicity over 100 m complies with the limit values in Table 14, a joint investigation by the railway undertaking and the infrastructure manager shall be undertaken to specify the reason for the instability.
+
+**4.2.12. Fixed installations for servicing trains**
+
+4.2.12.1. General
+
+This point 4.2.12 sets out the infrastructure elements of the maintenance subsystem required for servicing trains.
+
+4.2.12.2. Toilet discharge
+
+Fixed installations for toilet discharge shall be compatible with the characteristics of the retention toilet system specified in the LOC & PAS TSI.
+
+4.2.12.3. Train external cleaning facilities
+
+(1) Where a washing plant is provided it shall be able to clean the outer sides of single or double-deck trains between a height of:
+
+(a) 500 to 3 500 mm for a single-deck train,
+
+(b) 500 to 4 300 mm for double-deck trains.
+
+(2) The washing plant shall be designed so that trains can be driven through it at any speed between 2 km/h and 5 km/h.
+
+4.2.12.4. Water restocking
+
+(1) Fixed equipment for water restocking shall be compatible with the characteristics of the water system specified in the LOC & PAS TSI.
+
+(2) Fixed equipment for the supply of water intended for human consumption shall be supplied with drinking water meeting the requirements of Directive (EU) 2020/2184 of the European Parliament and of the Council ( 7 ).
+
+(3) The materials used for the supply of water intended for human consumption to the rolling stock (e.g. tank, pump, piping, water tap and sealing material and quality) shall comply with the requirements applicable to water intended for human consumption.
+
+4.2.12.5. Refuelling
+
+Refuelling equipment shall be compatible with the characteristics of the fuel system specified in the LOC & PAS TSI.
+
+4.2.12.6. Electrical shore supply
+
+Where provided, electrical shore supply shall be by means of one or more of the power supply systems specified in the LOC & PAS TSI.
+
+**4.3. Functional and technical specification of the interfaces**
+
+From the standpoint of technical compatibility, the interfaces of the infrastructure subsystem with the other subsystems are like described in the following points.
+
+**4.3.1. Interfaces with the rolling stock subsystem**
+
+**Table 15**
+
+**Interfaces with the subsystem ‘Rolling stock – locomotives and passenger rolling stock’**
+
+| Interface | Reference in TSI INF | Reference in TSI LOC&PAS |
+| --- | --- | --- |
+| Track gauge | 4.2.4.1 Nominal track gauge 4.2.5.1 Design geometry of switches and crossings 4.2.8.6 The immediate action limits for switches and crossings | 4.2.3.5.2.1 Mechanical and geometrical characteristics of wheelset 4.2.3.5.2.3 Variable gauge wheelsets |
+| Gauge | 4.2.3.1 Structure gauge 4.2.3.2 Distance between track centres 4.2.3.5 Minimum radius of vertical curve 4.2.9.3 Platform offset | 4.2.3.1 Gauging |
+| Axle load and axle spacing | 4.2.6.1 Track resistance to vertical loads 4.2.6.3 Lateral track resistance 4.2.7.1 Resistance of new bridges to traffic loads 4.2.7.2 Equivalent vertical loading for new earthworks and earth pressure effects imposed on new structures 4.2.7.4 Resistance of existing bridges and earthworks to traffic loads | 4.2.2.10 Load conditions and weighed mass 4.2.3.2.1 Axle load parameter |
+| Running characteristics | 4.2.6.1 Track resistance to vertical loads 4.2.6.3 Lateral track resistance 4.2.7.1.4 Nosing forces | 4.2.3.4.2.1 Limit values for running safely 4.2.3.4.2.2 Track loading limit values |
+| Ride stability | 4.2.4.4 Equivalent conicity 4.2.4.6 Railhead profile for plain line 4.2.11.2 Equivalent conicity in service | 4.2.3.4.3 Equivalent conicity 4.2.3.5.2.2 Mechanical and geometrical characteristics of wheels |
+| Longitudinal actions | 4.2.6.2 Longitudinal track resistance 4.2.7.1.5 Actions due to traction and braking (longitudinal loads) | 4.2.4.5 Braking performance |
+| Minimum horizontal curve radius | 4.2.3.4 Minimum radius of horizontal curve | 4.2.3.6 Minimum curve radius Annex A, A.1 Buffers |
+| Running dynamic behaviour | 4.2.4.3 Cant deficiency | 4.2.3.4.2 Running dynamic behaviour |
+| Maximum deceleration | 4.2.6.2 Longitudinal track resistance 4.2.7.1.5 Actions due to traction and braking | 4.2.4.5 Braking performance |
+| Aerodynamic effect | 4.2.3.2 Distance between track centres 4.2.7.3 Resistance of new structures over or adjacent to tracks 4.2.10.1 Maximum pressure variations in tunnels 4.2.10.3 Aerodynamic effect on ballasted track | 4.2.6.2.1 Slipstream effects on passengers on platforms and on trackside workers 4.2.6.2.2 Head pressure pulse 4.2.6.2.3 Maximum pressure variations in tunnels 4.2.6.2.5 Aerodynamic effect on ballasted tracks |
+| Crosswind | 4.2.10.2 Effect of crosswinds | 4.2.6.2.4 Crosswind |
+| Installations for servicing trains | 4.2.12.2 Toilet discharge 4.2.12.3 Train external cleaning facilities 4.2.12.4 Water restocking 4.2.12.5 Refuelling 4.2.12.6 Electric shore supply | 4.2.11.3 Toilet discharge system 4.2.11.2.2 Exterior cleaning through a washing plant  4.2.11.5 Interface for water refilling 4.2.11.7 Refuelling equipment 4.2.11.6 Special requirements for stabling of trains |
+
+**Table 16**
+
+**Interfaces with the subsystem ‘Rolling stock – freight wagons’**
+
+| Interface | Reference in TSI INF | Reference in TSI WAG |
+| --- | --- | --- |
+| Track gauge | 4.2.4.1 Nominal track gauge 4.2.4.6 Railhead profile for plain line 4.2.5.1 Design geometry of switches and crossings 4.2.8.6 The immediate action limits for switches and crossings | 4.2.3.6.2 Characteristics of wheelsets 4.2.3.6.3 Characteristics of wheels |
+| Gauge | 4.2.3.1 Structure gauge 4.2.3.2 Distance between track centres 4.2.3.5 Minimum radius of vertical curve 4.2.9.3 Platform offset | 4.2.3.1 Gauging |
+| Axle load and axle spacing | 4.2.6.1 Track resistance to vertical loads 4.2.6.3 Lateral track resistance 4.2.7.1 Resistance of new bridges to traffic loads 4.2.7.2 Equivalent vertical loading for new earthworks and earth pressure effects imposed on new structures 4.2.7.4 Resistance of existing bridges and earthworks to traffic loads | 4.2.3.2 Compatibility with load carrying capacity of lines |
+| Running dynamic behaviour | 4.2.8 Immediate action limits on track geometry defects | 4.2.3.5.2 Running dynamic behaviour |
+| Longitudinal actions | 4.2.6.2 Longitudinal track resistance 4.2.7.1.5 Actions due to traction and braking (longitudinal loads) | 4.2.4.3.2 Brake performance |
+| Minimum curve radius | 4.2.3.4 Minimum radius of horizontal curve | 4.2.2.1 Mechanical interface |
+| Vertical curve | 4.2.3.5 Minimum radius of vertical curve | 4.2.3.1 Gauging |
+
+**4.3.2. Interfaces with the energy subsystem**
+
+**Table 17**
+
+**Interfaces with the energy subsystem**
+
+| Interface | Reference in TSI INF | Reference in TSI ENE |
+| --- | --- | --- |
+| Gauge | 4.2.3.1 Structure gauge | 4.2.10 Pantographs gauge |
+
+**4.3.3. Interfaces with the control command and signalling subsystem**
+
+**Table 18**
+
+**Interfaces with the control command and signalling subsystem**
+
+| Interface | Reference in TSI INF | Reference in TSI CCS |
+| --- | --- | --- |
+| Structure gauge set for CCS installations. Visibility of track-side CCS objects. | 4.2.3.1 Structure gauge | 4.2.5.2 Eurobalise communication (space for installation) 4.2.5.3 Euroloop communication (space for installation) 4.2.10 Train detection systems (space for installation) 4.2.15 Visibility of track-side control-command and signalling objects |
+
+**4.3.4. Interfaces with the operation and traffic management subsystem**
+
+**Table 19**
+
+**Interfaces with the operation and traffic management subsystem**
+
+<table>
+<tbody><tr><td>Interface</td><td> Reference in TSI INF  </td><td> Reference in TSI OPE  </td></tr>
+<tr><td>Ride stability</td><td>4.2.11.2 Equivalent conicity in service</td><td>4.2.3.4.4 Operational quality</td></tr>
+<tr><td>Use of eddy current brakes</td><td>4.2.6.2 Longitudinal track resistance</td><td>4.2.2.6.2 Braking performance</td></tr>
+<tr><td>Crosswinds</td><td>4.2.10.2 Effect of crosswinds</td><td>4.2.3.6.3 Contingency arrangements</td></tr>
+<tr><td>Operating rules</td><td>4.4 Operating rules</td><td>4.2.1.2.2.2 Modifications to information contained in the route book 4.2.3.6 Degraded operation </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Staff competences</td><td>4.6 Professional competences</td><td>4.2.1.1 General requirements</td></tr>
+</tbody>
+</table>
+
+**4.4. Operating rules**
+
+(1) Operating rules are developed within the procedures described in the infrastructure manager's safety management system. These rules take into account the documentation related to operation which forms a part of the technical file as required in Article 15(4) and set out in Annex IV (point 2.4) of Directive (EU) 2016/797  .
+
+(2) In certain situations involving pre-planned works, it may be necessary to temporarily suspend the specifications of the infrastructure subsystem and its interoperability constituents defined in sections 4 and 5 of this TSI.
+
+**4.5. Maintenance rules**
+
+(1) Maintenance rules are developed within the procedures described in the infrastructure manager's safety management system.
+
+(2) The maintenance file shall be prepared before placing a line into service as the part of the technical file accompanying the declaration of verification
+
+(3) The maintenance plan shall be drawn up for the subsystem to ensure that the requirements set out in this TSI are maintained during its lifetime.
+
+**4.5.1. Maintenance file**
+
+A maintenance file shall contain at least:
+
+(a) a set of values for immediate action limits,
+
+(b) the measures taken (for example speed restriction, repair time) when prescribed limits are not met,
+
+related to track geometric quality and limits on isolated defects.
+
+**4.5.2. Maintenance plan**
+
+The infrastructure manager shall have a maintenance plan containing the items listed in point 4.5.1 together with at least the following:
+
+(a) a set of values for intervention limits and alert limits,
+
+(b) a statement about the methods, professional competences of staff and personal protective safety equipment necessary to be used,
+
+(c) the rules to be applied for the protection of people working on or near the track,
+
+(d) the means used to check that in-service values are respected,
+
+(e) the measures taken, for speed greater than 250 km/h, to mitigate the risk of ballast pick up.
+
+**4.6. Professional qualifications**
+
+The professional qualifications of staff required for operation and maintenance of the infrastructure subsystem are not set out in this TSI but are described in the infrastructure manager's safety management system.
+
+**4.7. Health and safety conditions**
+
+(1) The health and safety conditions of staff required for the operation and maintenance of the infrastructure subsystem shall be compliant with the relevant European and national legislation.
+
+(2) The issue is covered by the procedures described in the infrastructure manager's safety management system.
+
+**5\. INTEROPERABILITY CONSTITUENTS**
+
+**5.1. Basis on which interoperability constituents have been selected**
+
+(1) The requirements of point 5.3 are based on a traditional design of ballasted track with Vignole (flat-bottom) rail on concrete or wooden sleepers and fastening providing resistance to longitudinal slip by bearing on the rail foot.
+
+(2) Components and subassemblies used for the construction of other designs of track are not considered to be interoperability constituents.
+
+**5.2. List of constituents**
+
+(1) For the purposes of this technical specification for interoperability, only the following elements, whether individual components or subassemblies of the track are declared to be ‘interoperability constituents’:
+
+(a) the rail (5.3.1),
+
+(b) the rail fastening systems (5.3.2),
+
+(c) track sleepers (5.3.3).
+
+(2) The following points describe the specifications applicable to each of these constituents.
+
+(3) Rails, fastenings and sleepers used for short length of track for specific purposes, for example in switches and crossings, at expansion devices, transition slabs and special structures, are not considered to be interoperability constituents.
+
+**5.3. Constituents performances and specifications**
+
+**5.3.1. The rail**
+
+The specifications of the ‘rail’ interoperability constituent concern the following parameters:
+
+(a) railhead profile,
+
+(b) rail steel.
+
+5.3.1.1. Railhead profile
+
+The rail head profile shall fulfil the requirements of point 4.2.4.6 ‘Railhead profile for plain line’.
+
+5.3.1.2. Rail steel
+
+(1) The rail steel is relevant to the requirements of point 4.2.6 ‘Track resistance to applied loads’.
+
+(2) The rail steel shall meet the following requirements:
+
+(a) The rail hardness shall be at least 200 HBW.
+
+(b) The tensile strength shall be at least 680 MPa.
+
+(c) Minimum number of cycles at fatigue test without failure shall be at least 5 × 106.
+
+**5.3.2. The rail fastening systems**
+
+(1) The rail fastening system is relevant to the requirements of point 4.2.6.1 for ‘Track resistance to vertical loads’, point 4.2.6.2 for ‘Longitudinal track resistance’ and point 4.2.6.3 for ‘Lateral track resistance’.
+
+(2) The rail fastening system shall comply in laboratory test conditions with the following requirements:
+
+(a) the longitudinal force required to cause the rail to begin to slip (i.e. move in an inelastic way) through a single rail fastening assembly shall be at least 7 kN and for speeds of more than 250 km/h shall be at least 9 kN,
+
+(b) the rail fastening shall resist application of 3 000 000 cycles of the typical load applied in a sharp curve, such that the change in performance of the fastening system shall not exceed:
+
+— 20 % in terms of clamping force,
+
+— 25 % in terms of vertical stiffness,
+
+— a reduction of more than 20 % in terms of longitudinal restraint.
+
+The typical load shall be appropriate to:
+
+— the maximum axle load the rail fastening system is designed to accommodate,
+
+— the combination of rail, rail inclination, rail pad and type of sleepers with which the fastening system may be used.
+
+**5.3.3. Track sleepers**
+
+(1) Track sleepers shall be designed such that when they are used with a specified rail and rail fastening system they will have properties that are consistent with the requirements of point 4.2.4.1 for ‘Nominal track gauge’, point 4.2.4.7 for ‘Rail inclination’ and point 4.2.6 for ‘Track resistance to applied loads’.
+
+(2) For the nominal track gauge system of 1 435 mm, the design track gauge for track sleepers in straight alignments and in horizontal curves with radius greater than 300 m shall be 1 437 mm.
+
+**6\. ASSESSMENT OF CONFORMITY OF INTEROPERABILITY CONSTITUENTS AND EC VERIFICATION OF THE SUBSYSTEMS**
+
+Modules for the procedures for assessment of conformity and suitability for use and EC verification are defined in Article 8 of this Regulation.
+
+**6.1. Interoperability Constituents**
+
+**6.1.1. Conformity assessment procedures**
+
+(1) The conformity assessment procedure of interoperability constituents as defined in section 5 of this TSI shall be carried out by application of the relevant modules.
+
+(2) Serviceable interoperability constituents that are suitable for reuse are not subject to the conformity assessment procedures.
+
+**6.1.2. Application of modules**
+
+(1) The following modules for conformity assessment of interoperability constituents are used:
+
+(a) CA ‘Internal production control’
+
+(b) CB ‘EC type examination’
+
+(c) CC ‘Conformity to type based on internal production control’
+
+(d) CD ‘Conformity to type based on quality management system of the production process’
+
+(e) CF ‘Conformity to type based on product verification’
+
+(f) CH ‘Conformity based on full quality management system’
+
+(2) The modules for conformity assessment of interoperability constituents shall be chosen from those shown in Table 20.
+
+**Table 20**
+
+**Modules for conformity assessment to be applied for interoperability constitunents**
+
+<table>
+<tbody><tr><td>Procedures</td><td>Rail</td><td>Rail fastening system</td><td>Track sleepers</td></tr>
+<tr><td>Placed on the EU market before entry into force of relevant TSIs</td><td>CA or CH</td><td colspan="2" rowspan="2">CA or CH</td></tr>
+<tr><td>Placed on the EU market after entry into force of relevant TSIs</td><td>CB + CC or CB + CD or  CB + CF or  CH </td></tr>
+</tbody>
+</table>
+
+(3) In the case of products placed on the market before the publication of relevant TSIs, the type is considered to have been approved and therefore EC type examination (module CB) is not necessary, provided that the manufacturer demonstrates that tests and verification of interoperability constituents have been considered successful for previous applications under comparable conditions and are in conformity with the requirements of this TSI. In this case these assessments shall remain valid in the new application. If it is not possible to demonstrate that the solution is positively proven in the past, the procedure for interoperability constituents placed on the EU market after publication of this TSI applies.
+
+(4) The conformity assessment of interoperability constituents shall cover the phases and characteristics as indicated in Table 36 of Appendix A to this TSI.
+
+**6.1.3. Innovative solutions for interoperability constituents**
+
+If an innovative solution is proposed for an interoperability constituent, the procedure described in Article 10 shall apply.
+
+**6.1.4. EC declaration of conformity for interoperability constituents**
+
+6.1.4.1. Interoperability constituents subject to other European Union Directives
+
+(1) in accordance with Article 10(3) of Directive (EU) 2016/797, for interoperability constituents that are the subject of other legal acts of the Union covering other matters, the EC declaration of conformity or suitability for use shall state that the interoperability constituents also meet the requirements of those other legal acts;
+
+(2) in accordance with Annex I to Commission Implementing Regulation (EU) 2019/250 ( 8 ), the EC declaration of conformity or suitability for use shall include a list of restrictions or conditions of use.
+
+6.1.4.2. EC declaration of conformity for rails
+
+No statement setting out the conditions of use is required.
+
+6.1.4.3. EC declaration of conformity for rail fastening systems
+
+The EC declaration of conformity shall be accompanied by statement setting out:
+
+(a) the combination of rail, rail inclination, rail pad and type of sleepers with which the fastening system may be used
+
+(b) the maximum axle load the rail fastening system is designed to accommodate.
+
+6.1.4.4. EC declaration of conformity for track sleepers
+
+The EC declaration of conformity shall be accompanied by statement setting out:
+
+(a) the combination of rail, rail inclination and type of rail fastening system with which the sleeper may be used,
+
+(b) the nominal and design track gauge,
+
+(c) the combinations of axle load and train speed the track sleeper is designed to accommodate.
+
+**6.1.5. Particular assessment procedures for interoperability constituents**
+
+6.1.5.1. Assessment of rails
+
+Assessment of rail steel shall be done according to the following requirements:
+
+(a) Rail hardness shall be tested for position RS in accordance with the specification referenced in Appendix T, Index [7].
+
+(b) Tensile strength shall be tested in accordance with the specification referenced in Appendix T, Index [7].
+
+(c) Fatigue test shall be done in accordance with the specification referenced in Appendix T, Index [7].
+
+6.1.5.2. Assessment of sleepers
+
+(1) (not used)
+
+(2) For polyvalent gauge and multiple gauge track sleepers it is allowed not to assess the design track gauge for the nominal track gauge of 1 435 mm.
+
+**6.2. Infrastructure subsystem**
+
+**6.2.1. General provisions**
+
+(1) At the request of the applicant, the notified body carries out the EC verification of the infrastructure subsystem in accordance with Article 15 of Directive (EU) 2016/797  and in accordance with the provisions of the relevant modules.
+
+(2) If the applicant demonstrates that tests or assessments of an infrastructure subsystem or parts of the subsystem are the same as have been successful for previous applications of a design, the notified body shall consider the results of these tests and assessments for the EC verification.
+
+(3) The EC verification of the infrastructure subsystem shall cover the phases and characteristics indicated in Table 37 in Appendix B to this TSI.
+
+(4) Performance parameters as set out in point 4.2.1 of this TSI are not subject to the EC verification of the subsystem.
+
+(5) Particular assessment procedures for specific basic parameters of infrastructure subsystem are set out in point 6.2.4.
+
+(6) The applicant shall draw up the EC declaration of verification for the infrastructure subsystem in accordance with Article 15 of Directive (EU) 2016/797.
+
+**6.2.2. Application of modules**
+
+For the EC verification procedure of the infrastructure subsystem, the applicant may choose either:
+
+(a) Module SG: EC verification based on unit verification, or
+
+(b) Module SH1: EC verification based on full quality management system plus design examination.
+
+6.2.2.1. Application of module SG
+
+In the case where EC verification is most effectively undertaken by using information collected by the infrastructure manager, contracting entity or the main contractors involved (for example data obtained using track recording vehicle or other measuring devices), the notified body shall take this information into account to assess conformity.
+
+6.2.2.2. Application of module SH1
+
+The SH1 module may be chosen only where the activities contributing to the proposed subsystem to be verified (design, manufacturing, assembling, installation) are subject to a quality management system for design, production, final product inspection and testing, approved and surveyed by a notified body.
+
+**6.2.3. Innovative solutions**
+
+If an innovative solution is proposed for the infrastructure subsystem, the procedure described in Article 10 shall apply.
+
+**6.2.4. Particular assessment procedures for infrastructure subsystem**
+
+6.2.4.1. Assessment of Structure gauge
+
+(1) Assessment of structure gauge as a design review shall be done against characteristic cross sections using the results of calculations made by infrastructure manager or the contracting entity on the basis of the specification referenced in Appendix T, Index [3].
+
+(2) Characteristic cross sections are:
+
+(a) track without cant,
+
+(b) track with maximum cant,
+
+(c) track with a civil engineering structure over the line
+
+(d) any other location where the designed installation limit gauge is approached by less than 100 mm or the installation nominal gauge or uniform gauge is approached by less than 50 mm.
+
+(3) After assembly before putting into service clearances shall be verified at locations where the designed installation limit gauge is approached by less than 100 mm or the installation nominal gauge or uniform gauge is approached by less than 50 mm.
+
+(4) Instead of point (1), for the 1 520 mm track gauge system assessment of structure gauge as a design review is to be made against characteristic cross sections using the uniform structure gauge ‘S’ as defined in Appendix H to this TSI.
+
+(5) Instead of point (1), for the 1 600 mm track gauge system assessment of structure gauge as a design review is to be made against characteristic cross sections using the structure gauge ‘IRL1’ as defined in Appendix O to this TSI.
+
+6.2.4.2. Assessment of distance between track centres
+
+(1) A design review for assessment of the distance between track centres shall be done using the results of calculations made by the Infrastructure Manager or the contracting entity on the basis of the specification referenced in Appendix T, Index [3]. The nominal distance between track centres shall be checked at the line layout where distances are given in parallel to the horizontal plane. The limit installation distance between track centres shall be checked with the radius and relevant cant.
+
+(2) After assembly before putting into service, distance between track centres shall be verified at critical locations where the limit installation distance between track centres as defined in accordance with the specification referenced in Appendix T, Index [3] is approached by less than 50 mm.
+
+(3) Instead of point (1), for the 1 520 mm track gauge system a design review for assessment of the distance between track centres is to be made using the results of calculations made by the infrastructure manager or the contracting entity. The nominal distance between track centres shall be checked at the line layout where distances are given in parallel to the horizontal plane. The limit installation distance between track centres shall be checked with the radius and relevant cant.
+
+(4) Instead of point (2), for the 1 520 mm track gauge system after assembly before putting into service, distance between track centres shall be verified at critical locations where the limit installation distance between track centres is approached by less than 50 mm.
+
+6.2.4.3. Assessment of nominal track gauge
+
+(1) Assessment of the nominal track gauge at design review shall be done by checking the self-declaration of the applicant.
+
+(2) Assessment of the nominal track gauge at assembly before putting into service shall be done by checking the interoperability constituent sleeper's certificate. For non-certified interoperability constituents assessment of the nominal track gauge shall be done by checking the self-declaration of the applicant.
+
+6.2.4.4. Assessment of track layout
+
+(1) At design review the curvature, cant, cant deficiency and abrupt change of cant deficiency shall be assessed against the local design speed.
+
+(2) Assessment of switches and crossings layout is not required.
+
+(3) At assembly before putting into service, for the review of the minimum horizontal curve the measurement values provided by the applicant or infrastructure manager shall be assessed. Rules for acceptance of works defined by the infrastructure manager shall be taken into account.
+
+6.2.4.5. Assessment of cant deficiency for trains designed to travel with higher cant deficiency
+
+Point 4.2.4.3(2) states that ‘It is permissible for trains specifically designed to travel with higher cant deficiency (for example multiple units with lower axle loads; vehicles with special equipment for the negotiation of curves) to run with higher cant deficiency values, subject to a demonstration that this can be achieved safely’. This demonstration is outside the scope of this TSI and thus not subject to a notified body verification of the infrastructure subsystem. The demonstration shall be undertaken by the RU, if necessary in cooperation with the IM.
+
+6.2.4.6. Assessment of design values for equivalent conicity
+
+Assessment of design values for equivalent conicity shall be done using the results of calculations made by the infrastructure manager or the contracting entity on the basis of the specification referenced in Appendix T, Index [5].
+
+6.2.4.7. Assessment of railhead profile
+
+(1) The design profile of new rails shall be checked against point 4.2.4.6.
+
+(2) Reused serviceable rails shall not be subject to the requirements for railhead profile as set out in point 4.2.4.6.
+
+6.2.4.8. Assessment of switches and crossings
+
+Assessment of switches and crossings related to points 4.2.5.1 to 4.2.5.3 shall be done by checking that a self-declaration of the infrastructure manager or contracting entity exists.
+
+6.2.4.9. Assessment of new structures, earthworks and earth pressure effects
+
+(1) Assessment of new structures shall be done by checking the traffic loads and the track twist limit used for design against the minimum requirements of points 4.2.7.1 and 4.2.7.3. The notified body is not required to review the design nor carry out any calculations. When reviewing the value of factor alpha used in the design according to point 4.2.7.1 it is only necessary to check that the value of factor alpha satisfies Table 11.
+
+(2) Assessment of new earthworks and earth pressure effects shall be done by checking the vertical loads used for design according to requirements of point 4.2.7.2. When reviewing the value of factor alpha used in the design according to point 4.2.7.2 it is only necessary to check that the value of factor alpha satisfies Table 11. The notified body is not required to review the design nor carry out any calculations.
+
+6.2.4.10. Assessment procedure of existing structures
+
+(1) The assessment of existing structures against the requirements of points 4.2.7.4(3)(b) and (c) shall be done by one of the following methods:
+
+(a) A check that the values of EN line categories, in combination with the allowed speed published, or intended to be published, for the lines containing the structures, are in line with the requirements of Appendix E;
+
+(b) A check that the values of EN line categories, in combination with the allowed speed specified for the bridges or for the design, or alternative requirements specified with LM71 and factor alpha (α) for P1 and P2, are in line with the requirements of Appendix E;
+
+(c) A check that the traffic loads specified for the structures or for the design against the minimum requirements of points 4.2.7.1.1, 4.2.7.1.2 and 4.2.7.2. When reviewing the value of factor alpha (α) in accordance with points 4.2.7.1.1 and 4.2.7.2, it is only necessary to check that the value of factor alpha (α) is in line with the value of factor alpha (α) set out in Table 11;
+
+(d) where the requirement for an existing bridge is specified by reference to the design load model HSLM in Appendix E, the assessment of the existing bridge shall be done by either of the following methods:
+
+— checking the specification of the design of the existing bridge,
+
+— checking the specification of the dynamic appraisal,
+
+— checking the published load carrying capacity of the existing bridge in the register of infrastructure (RINF) for the parameter 1.1.1.1.2.4.2 (Compliance of structures with the High Speed Load Model (HSLM));
+
+(e) where the requirement for an existing bridge is specified by reference to alternative dynamic loading requirements (Appendix E note 8), the assessment of the existing bridge shall be done by checking the specification of the dynamic appraisal for these alternative loading requirements against the requirements in Appendix E note 8.
+
+(2) It is not required to review the design nor carry out any calculations.
+
+(3) For existing structures assessment point 4.2.7.4(4) applies respectively.
+
+6.2.4.11. Assessment of platform offset
+
+(1) Assessment of the distance between the track centre and the platform edge as a design review shall be done using the results of calculations made by the Infrastructure Manager or the contracting entity on the basis of the specification referenced in Appendix T, Index [3].
+
+(2) After assembly before putting into service clearances shall be verified. The offset is checked at the ends of the platform and every 30 m in straight track and every 10 m in curved track.
+
+(3) Instead of point (1), for the 1 520 mm track gauge system assessment of the distance between the track centre and the platform edge as a design review shall be done against requirements of point 4.2.9.3. Point (2) applies accordingly.
+
+(4) Instead of point (1), for the 1 600 mm track gauge system assessment of the distance between the track centre and the platform edge as a design review shall be done against requirements of point 4.2.9.3(4). Point (2) applies accordingly.
+
+6.2.4.12. Assessment of maximum pressure variations in tunnels
+
+(1) The assessment of the maximum pressure variation in the tunnel (10 kPa criterion) shall be done in accordance with the specification referenced in Appendix T, Index [14] with trains complying with the TSI LOC&PAS and that are able to run at maximum line speed in the specific tunnel to be assessed.
+
+(2) The input parameters to be used during the assessment shall be such that the reference characteristic pressure signature of the trains set out in the TSI LOC&PAS is fulfilled.
+
+(3) The reference cross section areas are set out in the specification referenced in Appendix T, Index [14].
+
+6.2.4.13. Assessment of effect of crosswinds
+
+This demonstration of the safety is outside the scope of this TSI and thus not subject to a notified body verification. The demonstration shall be undertaken by the infrastructure manager, if necessary in cooperation with the railway undertaking.
+
+6.2.4.14. Assessment of fixed installations for servicing trains
+
+Assessment of fixed installations for servicing trains is in the responsibility of the Member State concerned.
+
+6.2.4.15. Assessment of compatibility with braking systems
+
+The assessment of the requirements laid down in point 4.2.6.2.2(2) is not required.
+
+**6.2.5. Technical solutions giving presumption of conformity at design stage**
+
+Presumption of conformity at design stage for technical solutions may be assessed prior and independent from a specific project.
+
+6.2.5.1. Assessment of track resistance for plain line
+
+(1) The demonstration of conformity of the track to the requirements of point 4.2.6 may be done by reference to an existing track design which meets the operating conditions intended for the subsystem concerned.
+
+(2) A track design shall be defined by the technical characteristics as set out in Appendix C.1 to this TSI and by its operating conditions as set out in Appendix D.1 to this TSI.
+
+(3) A track design is considered to be existing, if both of the following conditions are met:
+
+(a) the track design has been in normal operation for at least one year and
+
+(b) the total tonnage over the track was at least 20 million gross tons for the period of normal operation.
+
+(4) The operating conditions for an existing track design refer to conditions which have been applied in normal operation.
+
+(5) The assessment to confirm an existing track design shall be performed by checking that the technical characteristics as set out in Appendix C.1 to this TSI and conditions of use as set out in Appendix D.1 to this TSI are specified and that the reference to the previous use of the track design is available.
+
+(6) When a previously assessed existing track design is used in a project, the notified body shall only assess that the conditions of use are respected.
+
+(7) For new track designs that are based on existing track designs, a new assessment can be performed by verifying the differences and evaluating their impact on the track resistance. This assessment may be supported for example by computer simulation or by laboratory or in situ testing.
+
+(8) A track design is considered to be new, if at least one of the technical characteristics set out in Appendix C to this TSI or one of conditions of use set out in Appendix D to this TSI is changed.
+
+6.2.5.2. Assessment for switches and crossing
+
+(1) The provisions as set out in point 6.2.5.1 are applicable for the assessment of track resistance for switches and crossings. Appendix C.2 sets out the technical characteristics of switches and crossings design and Appendix D.2 sets out the conditions of use of switches and crossings design.
+
+(2) Assessment of design geometry of switches and crossings shall be done according to point 6.2.4.8 of this TSI.
+
+(3) Assessment of maximum unguided length of fixed obtuse crossings shall be done according to point 6.2.4.8 of this TSI.
+
+6.3. (not used)
+
+6.4. Assessment of maintenance file
+
+(1) In accordance with Article 15(4) of Directive (EU) 2016/797 of the European Parliament and of the Council ( 9 ), the applicant shall be responsible for compiling the technical file, containing the documentation requested for maintenance.
+
+(2) The Notified Body shall verify only that the documentation requested for maintenance, as set out in point 4.5.1, is provided. The Notified Body is not required to verify the information contained in the documentation provided.
+
+6.5. Subsystems containing Interoperability constituents not holding an EC declaration
+
+**6.5.1. Conditions**
+
+(1) Until the list of interoperability constituents listed in Chapter 5 of this TSI are revised, a notified body is allowed to issue an EC certificate of verification for a subsystem even if some of the interoperability constituents incorporated within the subsystem are not covered by the relevant EC declarations of conformity and/or suitability for use according to this TSI, if the following criteria are complied with:
+
+(a) the conformity of the subsystem has been checked against the requirements of section 4 and in relation to sections 6.2 to 7 (except point 7.7 ‘Specific Cases’) of this TSI by the notified body. Furthermore the conformity of the ICs to section 5 and 6.1 does not apply, and
+
+(b) the interoperability constituents, which are not covered by the relevant EC declaration of conformity and/or suitability for use, have been used in a subsystem already approved and put in service in at least one of the Member State before the entry in force of this TSI.
+
+(2) EC declarations of conformity and/or suitability for use shall not be drawn up for the interoperability constituents assessed in this manner.
+
+**6.5.2. Documentation**
+
+(1) The EC certificate of verification of the subsystem shall indicate clearly which interoperability constituents have been assessed by the notified body as part of the subsystem verification.
+
+(2) The EC declaration of verification of the subsystem shall indicate clearly:
+
+(a) Which interoperability constituents have been assessed as part of the subsystem;
+
+(b) Confirmation that the subsystem contains the interoperability constituents identical to those verified as part of the subsystem;
+
+(c) For those interoperability constituents, the reason(s) why the manufacturer did not provide an EC Declaration of conformity and/or suitability for use before its incorporation into the subsystem, including the application of national rules notified under Article 14 of Directive (EU) 2016/797  .
+
+**6.5.3. Maintenance of the subsystems certified according to 6.5.1.**
+
+(1) During and after the transition period and until the subsystem is upgraded or renewed (taking into account the decision of Member State on application of TSIs), the interoperability constituents which do not hold an EC Declaration of conformity and/or suitability for use and are of the same type are allowed to be used as maintenance related replacements (spare parts) for the subsystem, under the responsibility of the body responsible for maintenance.
+
+(2) In any case the body responsible for maintenance must ensure that the components for maintenance related replacements are suitable for their applications, are used within their area of use and enable interoperability to be achieved within the rail system while at the same time meeting the essential requirements. Such components must be traceable and certified in accordance with any national or international rule or any code of practice widely acknowledged in the railway domain.
+
+6.6. Subsystem containing serviceable interoperability constituents that are suitable for reuse
+
+**6.6.1. Conditions**
+
+(1) A notified body is allowed to issue an EC certificate of verification for a subsystem even if some of the interoperability constituents incorporated within the subsystem are serviceable interoperability constituents that are suitable for reuse, if the following criteria are complied with:
+
+(a) the conformity of the subsystem has been checked against the requirements of section 4 and in relation to sections 6.2 to 7 (except point 7.7 ‘Specific Cases’) of this TSI by the notified body. Furthermore the conformity of the ICs to 6.1 does not apply, and
+
+(b) the interoperability constituents are not covered by the relevant EC declaration of conformity and/or suitability for use.
+
+(2) EC declarations of conformity and/or suitability for use shall not be drawn up for the interoperability constituents assessed in this manner.
+
+**6.6.2. Documentation**
+
+(1) The EC certificate of verification of the subsystem shall indicate clearly which interoperability constituents have been assessed by the notified body as part of the subsystem verification.
+
+(2) The EC declaration of verification of the subsystem shall indicate clearly:
+
+(a) Which interoperability constituents are serviceable interoperability constituents that are suitable for reuse;
+
+(b) Confirmation that the subsystem contains the interoperability constituents identical to those verified as part of the subsystem.
+
+**6.6.3. Use of serviceable interoperability constituents in maintenance**
+
+(1) Serviceable interoperability constituents that are suitable for reuse are allowed to be used as maintenance related replacements (spare parts) for the subsystem, under the responsibility of the body responsible for maintenance.
+
+(2) In any case the body responsible for maintenance must ensure that the components for maintenance related replacements are suitable for their applications, are used within their area of use, and enable interoperability to be achieved within the rail system while at the same time meeting the essential requirements. Such components must be traceable and certified in accordance with any national or international rule, or any code of practice widely acknowledged in the railway domain.
+
+**7\. IMPLEMENTATION OF THE INFRASTRUCTURE TSI**
+
+**7.1. National implementation plan**
+
+Member States shall develop a national plan for the implementation of this TSI, targeting the coherence of the entire rail system of the Union. This plan shall include all projects regarding new, renewal and upgrading of infrastructure subsystem and shall ensure a gradual migration within a reasonable timescale onwards an interoperable target infrastructure subsystem fully compliant with this TSI.
+
+**7.2. Application of this TSI to a new infrastructure subsystem**
+
+(1) For a new infrastructure subsystem, the application of this TSI shall be compulsory.
+
+(2) A ‘new infrastructure subsystem’ means an infrastructure subsystem placed into service after 28 September 2023 which creates a route or a part of a route where none currently exists.
+
+Any other infrastructure subsystems shall be considered as ‘existing infrastructure subsystems’.
+
+(3) The following cases are considered as upgrading and not as the placing into service of a new infrastructure subsystem:
+
+(a) the realignment of part of an existing route;
+
+(b) the creation of a bypass;
+
+(c) the addition of one or more tracks on an existing route, regardless of the distance between the original tracks and the additional tracks.
+
+**7.3. Application of this TSI to an existing infrastructure subsystem**
+
+**7.3.1. Performance criteria of the subsystem**
+
+In addition to the cases referred to in point 7.2.(3), ‘upgrading’ is a major modification work of an existing infrastructure subsystem resulting in at least compliance with one additional traffic code or a change in the declared combination of traffic codes (referred to Table 2 and Table 3 in point 4.2.1).
+
+**7.3.2. Application of the TSI**
+
+The conformity with this TSI is mandatory for a subsystem or part(s) of it which are upgraded or renewed. Due to the characteristics of the inherited railway system, compliance of existing infrastructure subsystem with this TSI may be achieved through a gradual improvement of interoperability:
+
+(1) For the upgraded infrastructure subsystem, the application of this TSI shall be compulsory, and applied to the upgraded subsystem within the geographical coverage of the upgrading. The geographical coverage of the upgrading shall be defined based on locations on tracks and metric references and shall result in the compliance of all basic parameters of the infrastructure subsystem associated with the tracks that are subject to the upgrading of the infrastructure subsystem.
+
+The addition of one or more rails supporting a further track gauge is also considered as upgrade when the performance criteria of the subsystem is triggered as described in point 7.3.1.
+
+(2) In the event of a change other than an upgrading of the infrastructure subsystem, the application of this TSI for each basic parameters (referred to in point 4.2.2) affected by a change shall be compulsory when the change requires to carry out a new ‘EC’ verification procedure in accordance with Implementing Regulation (EU) 2019/250 ( 10 ). Provisions defined in Articles 6 and 7 of Implementing Regulation (EU) 2019/250 shall apply.
+
+(3) In the event of a change other than an upgrading of the infrastructure subsystem and for those basic parameters that are not affected by the change, or when the change does not require a new ‘EC’ verification, the demonstration of the level of compliance with this TSI is voluntary.
+
+(4) In case of upgrading or renewal of the infrastructure subsystem, the compliance with the requirements which are laid down for new lines is not required.
+
+(5) In case of ‘major substitution’, as defined in Article 2(15) of Directive (EU) 2016/797 of the European Parliament and of the Council, in the framework of a ‘renewal’, non TSI-compliant elements of the subsystem or part(s) of it shall systematically be replaced with TSI-compliant ones.
+
+(6) ‘Substitution in the framework of maintenance’ means any replacement of components by parts of identical function and performance in the framework of maintenance, as defined in Article 2(17) of Directive (EU) 2016/797. It shall be made in accordance with the requirements of this TSI, whenever reasonably and economically feasible and it does not require an ‘EC’ verification.
+
+(7) The following exceptions are permitted for existing infrastructure subsystem, in case of upgrading or renewal:
+
+(a) In the case of upgrading or renewal of the infrastructure subsystem, for parameters cant governed by point 4.2.4.2 of this TSI and cant deficiency governed by point 4.2.4.3 of this TSI it is permitted to deviate from the limiting values as set out in this TSI while respecting the exceptional limit values and applying specific restrictions and measures set out in the specification referenced in Appendix T, index [4]. Applying this exception shall not prevent the access of vehicles authorised for the maximum values required in point 4.2.4.3 of this TSI.
+
+(b) In the event of a change other than an upgrading of the infrastructure subsystem, the following conditions related to platform height and offset governed by points 4.2.9.2 and 4.2.9.3, shall apply:
+
+— It shall be allowed to apply other nominal platform heights, if the compliance to the values set out by point 4.2.9.2 would require structural alterations to any load bearing element.
+
+— It shall be allowed to apply other platform offset than the one defined in point 4.2.9.3(2) as long as the value for bq is equal or greater than bqlim.
+
+**7.3.3. Existing lines that are not subject to a renewal or upgrading project**
+
+Where an infrastructure manager wishes to demonstrate the level of compliance of an existing line with the basic parameters of this TSI, it shall apply the procedure described in Commission Recommendation 2014/881/EU ( 11 ).
+
+**7.3.4. Route compatibility checks before the use of authorised vehicles**
+
+The route compatibility check procedure to be applied and the parameters of the infrastructure subsystem to be used are set out in point 4.2.2.5 and Appendix D.1 of TSI OPE.
+
+**7.4. not used**
+
+**7.5. not used**
+
+**7.6. not used**
+
+**7.7. Specific cases**
+
+The following specific cases may be applied on particular networks. The specific cases are classified as:
+
+(a) ‘P’ cases : permanent cases;
+
+(b) ‘T’ cases : temporary cases, where it is recommended that the target system is reached by 2020 (an objective set out in Decision No 1692/96/EC of the European Parliament and Council ( 12 )).
+
+All specific cases and their relevant dates shall be re-examined in the course of future revisions of the TSI with a view to limiting their technical and geographical scope based on an assessment of their impact on safety, interoperability, cross border services, TEN-T corridors, and the practical and economic impacts of retaining or eliminating them. Special account shall be given to availability of EU funding.
+
+Specific cases shall be limited to the route or network where they are strictly necessary and taken account of through route compatibility procedures.
+
+**7.7.1. Particular features on the Austrian network**
+
+7.7.1.1. (not used)
+
+**7.7.2. Particular features on the Belgian network**
+
+7.7.2.1. Platform offset (4.2.9.3)
+
+P cases
+
+For platform heights of 550 mm and 760 mm, the conventional value bq0 of platform offset shall be calculated according to the following formulas:
+
+[image] In curve with a radius 1 000 ≤ R ≤ ∞ (m)
+
+[image] In curve with a radius R &lt; 1 000 (m)
+
+**7.7.3. Particular features on the Bulgarian network**
+
+7.7.3.1. Platform height (4.2.9.2)
+
+P cases
+
+For upgraded or renewed platforms, the nominal platform height of 300 mm and 1 100 mm above the running surface shall be allowed.
+
+7.7.3.2. Platform offset (4.2.9.3)
+
+P cases
+
+Instead of points 4.2.9.3(1) and 4.2.9.3(2), the platform offset shall be:
+
+(a) 1 650 mm for platforms with heights of 300 mm and
+
+(b) 1 750 mm for platforms with height of 1 100 mm.
+
+**7.7.4. Particular features on the Danish network**
+
+7.7.4.1. Platform height (4.2.9.2)
+
+P cases
+
+For S-Tog services the nominal platform height of 920 mm above the running surface shall be allowed.
+
+**7.7.5. Particular features on the Estonian network**
+
+7.7.5.1. Nominal track gauge (4.2.4.1)
+
+P cases
+
+Instead of point 4.2.4.1(2), for the 1 520 mm track gauge system the nominal track gauge shall be either 1 520 mm or 1 524 mm.
+
+7.7.5.2. Resistance of new bridges to traffic loads (4.2.7.1)
+
+P cases
+
+For the 1 520 mm track gauge system, for lines with an axle load of 30 t, it shall be allowed to design structures to support vertical loads in accordance with the load model set out in Appendix M to this TSI.
+
+7.7.5.3. The immediate action limit for switches and crossing (4.2.8.6)
+
+P cases
+
+Instead of sub-point 4.2.8.6(3)(a), for the 1 520 mm track gauge system, the minimum value of bypass at the narrowest location between open switch rail and stock rail is 54 mm.
+
+**7.7.6. Particular features on the Finnish network**
+
+7.7.6.1. TSI Categories of line (4.2.1)
+
+P cases
+
+Instead of gauges specified in the columns ‘Gauge’ in Table 2 and Table 3 of point 4.2.1(6), for the nominal track gauge of 1 524 mm, it shall be allowed to use gauge FIN1.
+
+7.7.6.2. Structure gauge (4.2.3.1)
+
+P cases
+
+(1) Instead of points 4.2.3.1(1) and 4.2.3.1(2), for the nominal track gauge of 1 524 mm, both the upper and lower part of the structure gauge shall be set on the basis of the gauge FIN1. Those gauges are defined in Annex D, section D4.4 of EN 15273-3:2013+A1:2016  .
+
+(2) Instead of point 4.2.3.1(3), for the nominal track gauge of 1 524 mm, calculations of the structure gauge shall be done using the static method in accordance with the requirements of sections 5, 6, 10 and Annex D Section D.4.4 of EN 15273-3:2013.
+
+7.7.6.3. Distance between track centres (4.2.3.2)
+
+P cases
+
+(1) Instead of point 4.2.3.2(1), for the nominal track gauge of 1 524 mm, the distance between track centres shall be set on the basis of the gauge FIN1.
+
+(2) Instead of point 4.2.3.2(2), for the nominal track gauge of 1 524 mm, the nominal horizontal distance between track centres for new lines shall be specified for the design and shall not be smaller than the values mentioned in Table 21; it considers margins for aerodynamic effects.
+
+**Table 21**
+
+**Minimum nominal horizontal distance between track centres**
+
+| Maximum allowed speed [km/h] | Minimum nominal horizontal distance between track centres [m] |
+| --- | --- |
+| v ≤ 120 | 4,10 |
+| 120 < v ≤ 160 | 4,30 |
+| 160 < v ≤ 200 | 4,50 |
+| 200 < v ≤ 250 | 4,70 |
+| v > 250 | 5,00 |
+
+(3) Instead of point 4.2.3.2(3), for the nominal track gauge of 1 524 mm, the distance between track centres shall at least satisfy the requirements for the limit installation distance between track centres, defined according Annex D, Section D4.4.5 of EN 15273-3:2013+A1:2016  .
+
+7.7.6.4. Minimum radius of horizontal curve (4.2.3.4)
+
+P cases
+
+Instead of point 4.2.3.4(3), for the nominal track gauge of 1 524 mm, reverse curves (other than reverse curves in marshalling yards where wagons are shunted individually) with radii in the range from 150 m up to 275 m for new lines shall be designed in accordance with Table 22 to prevent buffer locking.
+
+**Table 22**
+
+**Limits for the length of a straight intermediate element between two long circular curves in the opposite directions [m] (*1)**
+
+<table>
+<tbody><tr><td>Alignment chain (*1)</td><td>Limits for tracks for mixed traffic [m]</td></tr>
+<tr><td>R = 150 m — straight — R = 150 m</td><td>16,9</td></tr>
+<tr><td>R = 160 m — straight — R = 160 m</td><td>15,0</td></tr>
+<tr><td>R = 170 m — straight — R = 170 m</td><td>13,5</td></tr>
+<tr><td>R = 180 m — straight — R = 180 m</td><td>12,2</td></tr>
+<tr><td>R = 190 m — straight — R = 190 m</td><td>11,1</td></tr>
+<tr><td>R = 200 m — straight — R = 200 m</td><td>10,00</td></tr>
+<tr><td>R = 210 m — straight — R = 210 m</td><td>9,1</td></tr>
+<tr><td>R = 220 m — straight — R = 220 m</td><td>8,2</td></tr>
+<tr><td>R = 230 m — straight — R = 230 m</td><td>7,3</td></tr>
+<tr><td>R = 240 m — straight — R = 240 m</td><td>6,4</td></tr>
+<tr><td>R = 250 m — straight — R = 250 m</td><td>5,4</td></tr>
+<tr><td>R = 260 m — straight — R = 260 m</td><td>4,1</td></tr>
+<tr><td>R = 270 m — straight — R = 270 m</td><td>2,0</td></tr>
+<tr><td>R = 275 m — straight — R = 275 m</td><td>0</td></tr>
+<tr><td colspan="2">(*1)  Note: For reverse curves with different radii the radius of the smaller curve shall be used when designing straight element between the curves. </td></tr>
+</tbody>
+</table>
+
+7.7.6.5. Nominal track gauge (4.2.4.1)
+
+P cases
+
+Instead of point 4.2.4.1(1), the nominal track gauge shall be 1 524 mm.
+
+7.7.6.6. Cant (4.2.4.2)
+
+P cases
+
+(1) Instead of point 4.2.4.2(1), for the nominal track gauge of 1 524 mm, the design cant shall not exceed 180 mm for ballasted or non-ballasted track.
+
+(2) Instead of point 4.2.4.2(3), for the nominal track gauge of 1 524 mm, new lines with mixed or freight traffic on curves with a radius less than 320 m and a cant transition steeper than 1 mm/m, the cant shall be restricted to the limit given by the following formula
+
+D ≤ (R – 50) × 0,7
+
+where D is the cant in mm and R is the radius in m.
+
+7.7.6.7. Maximum unguided length of fixed obtuse crossings (4.2.5.3)
+
+P cases
+
+In Appendix J, for the nominal track gauge of 1 524 mm:
+
+(a) instead of point (J.1)(b), the minimum radius through obtuse crossing shall be 200 m; for radius between 200-220 m small radius shall be compensated with track gauge widening;
+
+(b) instead of point (J.1)(c), the minimum check rail height shall be 39 mm.
+
+7.7.6.8. The immediate action limit of track gauge as an isolated defect (4.2.8.4)
+
+P cases
+
+Instead of point 4.2.8.4(1), for the nominal track gauge of 1 524 mm, the immediate action limits of track gauge as an isolated defect are set out in Table 23.
+
+**Table 23**
+
+**Immediate action limits of track gauge for the nominal track gauge of 1 524 mm**
+
+<table>
+<tbody><tr><td>Speed [km/h]</td><td colspan="2">Dimensions [mm]</td></tr>
+<tr><td>  </td><td>Minimum track gauge</td><td>Maximum track gauge</td></tr>
+<tr><td>v ≤ 60</td><td>1 515 </td><td>1 554 </td></tr>
+<tr><td>60 &lt; v ≤ 120</td><td>1 516 </td><td>1 552 </td></tr>
+<tr><td>120 &lt; v ≤ 160</td><td>1 517 </td><td>1 547 </td></tr>
+<tr><td>160 &lt; v ≤ 200</td><td>1 518 </td><td>1 543 </td></tr>
+<tr><td>200 &lt; v ≤ 250</td><td>1 519 </td><td>1 539 </td></tr>
+<tr><td>v &gt; 250</td><td>1 520 </td><td>1 539 </td></tr>
+</tbody>
+</table>
+
+7.7.6.9. The immediate action limit of cant (4.2.8.5)
+
+P cases
+
+Instead of point 4.2.8.5(1), for the nominal track gauge of 1 524 mm, the maximum cant allowed in service is 190 mm.
+
+7.7.6.10. The immediate action limits for switches and crossings (4.2.8.6)
+
+P cases
+
+Instead of point 4.2.8.6(1), for the nominal track gauge of 1 524 mm, the technical characteristics of switches and crossings shall comply with the following in-service values:
+
+(a) Maximum value of free wheel passage in switches: 1 469 mm.
+
+This value can be increased if the Infrastructure Manager demonstrates that the actuation and locking system of the switch is able to resist the lateral impact forces of a wheel set.
+
+(b) Minimum value of fixed nose protection for common crossings: 1 476 mm.
+
+This value is measured 14 mm below the running surface, and on the theoretical reference line, at an appropriate distance back from the actual point (RP) of the nose as indicated in Figure 2.
+
+For crossings with point retraction, this value can be reduced. In this case the Infrastructure Manager shall demonstrate that the point retraction is sufficient to guarantee that the wheel will not hit the nose at the actual point (RP).
+
+(c) Maximum value of free wheel passage at crossing nose: 1 440 mm.
+
+(d) Maximum value of free wheel passage at check rail/wing rail entry: 1 469 mm.
+
+(e) Minimum flangeway width: 42 mm.
+
+(f) Minimum flangeway depth: 40 mm.
+
+(g) Maximum excess height of check rail: 55 mm.
+
+7.7.6.11. Platform offset (4.2.9.3)
+
+P cases
+
+Instead of point 4.2.9.3(1), for the nominal track gauge of 1 524 mm, the distance between the track centre and the platform edge, parallel to the running plane, shall be set on the basis of the installation limit gauge and is defined in chapter 13 of EN 15273-3:2013+A1:2016  . The instllation limit gauge shall be set on the basis of the gauge FIN1. The minimum distance of bq, calculated as in chapter 13 of EN 15273-3:2013+A1:2016  is herafter refered to as bqlim.
+
+7.7.6.12. Train external cleaning facilities (4.2.12.3)
+
+P cases
+
+Instead of point 4.2.12.3(1), for the nominal track gauge of 1 524 mm, where a washing plant is provided it shall be able to clean the outer sides of single or double-deck trains between a height of:
+
+(a) 330 to 4 367 mm for a single-deck train,
+
+(b) 330 to 5 300 mm for double-deck trains.
+
+7.7.6.13. Assessment of structure gauge (6.2.4.1)
+
+P cases
+
+Instead of point 6.2.4.1(1), for the nominal track gauge of 1 524 mm, assessment of structure gauge as a design review shall be done against characteristic cross sections using the results of calculations made by the Infrastructure Manager or the contracting entity on the basis of sections 5, 6, 10 and Annex D, Section D.4.4 of EN 15273-3:2013+A1:2016  .
+
+**7.7.7. Particular features on the French network**
+
+7.7.7.1. Platform height (4.2.9.2)
+
+P cases
+
+For the rail network of Ile-de-France the nominal platform height of 920 mm above the running surface shall be allowed.
+
+**7.7.8. Particular features on the German network**
+
+7.7.8.1. Platform height (4.2.9.2)
+
+P cases
+
+For S-Bahn services the nominal platform height of 960 mm above the running surface shall be allowed.
+
+7.7.8.2. Immediate action limits of track gauge as an isolated defect (4.2.8.4)
+
+P cases
+
+Instead of point 4.2.8.4(1), the minimum track gauge for all speeds is 1 430 mm.
+
+**7.7.9. Particular features on the Hellenic network**
+
+7.7.9.1. Platform height (4.2.9.2)
+
+P cases
+
+The nominal platform height shall be allowed to be 300 mm above the running surface.
+
+**7.7.10. Particular features on the Italian network**
+
+7.7.10.1. Platform offset (4.2.9.3)
+
+P cases
+
+Instead of point 4.2.9.3(1), for the platforms with the height of 550 mm, the distance bqlim [mm] between the the track centre and the platform edge, parallel to the running plane, shall be calculated from the formula:
+
+(a) on straight track and inside the curves:
+
+bqlim = 1 650 + 3 750 /R + (g – 1 435 )/2 + 11,5
+
+(b) outside the curves:
+
+bqlim = 1 650 + 3 750 /R + (g – 1 435 )/2 + 11,5 + 220 * tanδ
+
+where R is the radius of the track, in metres, g is the track gauge, δ is the angle of the cant with the horizontal line.
+
+7.7.10.2. Equivalent conicity (4.2.4.5)
+
+P cases
+
+(1) Instead of point 4.2.4.5.(3) design values of track gauge, rail head profile and rail inclination for plain line shall be selected to ensure that the equivalent conicity limits set out in Table 24 are not exceeded.
+
+**Table 24**
+
+**Equivalent conicity design limit values**
+
+<table>
+<tbody><tr><td>  </td><td colspan="2">Wheel profile</td></tr>
+<tr><td>Speed range [km/h]</td><td>S1002, GV1/40</td><td>EPS</td></tr>
+<tr><td>v ≤ 60</td><td colspan="2">Assessment not required</td></tr>
+<tr><td>60 &lt; v ≤ 200</td><td>0,25</td><td>0,30</td></tr>
+<tr><td>200 &lt; v ≤ 280</td><td>0,20</td><td>N.A.</td></tr>
+<tr><td>v &gt; 280</td><td>0,10</td><td>N.A.</td></tr>
+</tbody>
+</table>
+
+(2) Instead of point 4.2.4.5. (4) the following wheelsets shall be modelled passing over the designed track conditions (simulated by calculation according to EN 15302:2021  ):
+
+(a) S 1002 as defined in Annex C to EN 13715:2020 with SR1;
+
+(b) S 1002 as defined in Annex C to EN 13715:2020 with SR2;
+
+(c) GV 1/40 as defined in Annex B to EN 13715:2020 with SR1;
+
+(d) GV 1/40 as defined in Annex B to EN 13715:2020 with SR2;
+
+(e) EPS as defined in Annex D to EN 13715:2020 with SR1.
+
+For SR1 and SR2 the following values apply:
+
+(f) For the 1 435 mm track gauge system SR1 = 1 420 mm and SR2 = 1 426 mm.
+
+7.7.10.3. Equivalent conicity in service (4.2.11.2)
+
+P cases
+
+Instead of point 4.2.11.2.(2) the infrastructure manager shall measure the track gauge and the railhead profiles at the site in question at a distance of approximate 10 m. The mean equivalent conicity over 100 m shall be calculated by modelling with the wheelsets (a) – (e) mentioned in paragraph 7.7.10.2 (2) of this TSI in order to check for compliance, for the purpose of the joint investigation, with the limit equivalent conicity for the track specified in Table 14.
+
+**7.7.11. Particular features on the Latvian network**
+
+7.7.11.1. Resistance of new bridges to traffic loads — vertical loads (4.2.7.1.1)
+
+P cases
+
+(1) For sub-point 4.2.7.1.1(1)(a), for the 1 520 mm track gauge system, load model 71 shall be applied with a distributed load qvk of 100 kN/m.
+
+**7.7.12. Particular features on the Polish network**
+
+7.7.12.1. TSI Categories of line (4.2.1)
+
+P cases
+
+In point 4.2.1(7), Table 2 line P3, instead of gauge DE3, on upgraded or renewed railway lines in Poland gauge G2 is allowed.
+
+7.7.12.2. Distance between track centres (4.2.3.2)
+
+P cases
+
+Instead of point 4.2.3.2(4), for 1 520 mm track gauge, for station tracks for direct reloading of goods from wagon to wagon the nominal horizontal minimum distance of 3,60 m shall be allowed.
+
+7.7.12.3. Minimum radius of horizontal curve (4.2.3.4)
+
+P cases
+
+Instead of point 4.2.3.4(3), for the 1 520 mm track gauge, on tracks other than main tracks, reverse curves with radii in the range from 150 m up to 250 m shall be designed with a section of straight track of at least 10 m between the curves.
+
+7.7.12.4. Minimum radius of vertical curve (4.2.3.5)
+
+P cases
+
+Instead of point 4.2.3.5(3), for the 1 520 mm track gauge, the radius of vertical curves (except the marshalling yards) shall be at least 2 000 m both on a crest and in a hollow.
+
+7.7.12.5. Cant deficiency (4.2.4.3)
+
+P cases
+
+Instead of point 4.2.4.3(3), for all types of rolling stock of the 1 520 mm track gauge the cant deficiency shall not exceed 130 mm.
+
+7.7.12.6. Abrupt change of cant deficiency (4.2.4.4)
+
+P cases
+
+Instead of point 4.2.4.4(3), for 1 520 mm track gauge, requirements of points 4.2.4.4(1) and 4.2.4.4(2) shall be applied.
+
+7.7.12.7. The immediate action limit for track twist (4.2.8.3)
+
+P cases
+
+Instead of point 4.2.8.3(4) and 4.2.8.3(5), for 1 520 mm track gauge points from 4.2.8.3(1) to 4.2.8.3(3) shall be applied.
+
+7.7.12.8. The immediate action limit of track gauge as an isolated defect (4.2.8.4)
+
+P cases
+
+Instead of requirements of Table 13 in point 4.2.8.4(2) the limit values for 1 520 mm track gauge in Poland are given in following table:
+
+**Table 25**
+
+**Immediate action limits of track gauge for 1 520 mm track gauge in Poland**
+
+<table>
+<tbody><tr><td>Speed [km/h]</td><td colspan="2">Dimensions [mm]</td></tr>
+<tr><td>  </td><td>Minimum track gauge</td><td>Maximum track gauge</td></tr>
+<tr><td>v &lt; 50</td><td>1 511 </td><td>1 548 </td></tr>
+<tr><td>50 ≤ v ≤ 140</td><td>1 512 </td><td>1 548 </td></tr>
+<tr><td>v &gt; 140</td><td>1 512 </td><td>1 536 </td></tr>
+</tbody>
+</table>
+
+7.7.12.9. The immediate action limits for switches and crossings (4.2.8.6)
+
+P cases
+
+(1) Instead of sub-point 4.2.8.6(1)(d), for certain types of switches of R = 190 m and crossings with slants of 1:9 and 1:4,444 the maximum value of free wheel passage at check rail/wing rail entry of 1 385 mm shall be allowed.
+
+(2) Instead of point 4.2.8.6(3), for the 1 520 mm track gauge the technical characteristics of switches and crossings shall comply with the following in-service values:
+
+(a) Maximum value of free wheel passage in switches: 1 460 mm.
+
+This value can be increased if the Infrastructure Manager demonstrates that the actuation and locking system of the switch is able to resist the lateral impact forces of a wheelset.
+
+(b) Minimum value of fixed nose protection for common crossings: 1 472 mm.
+
+This value is measured 14 mm below the running surface, and on the theoretical reference line, at an appropriate distance back from the actual point (RP) of the nose as indicated in Figure 2.
+
+For crossings with point retraction, this value can be reduced. In this case the Infrastructure Manager shall demonstrate that the point retraction is sufficient to guarantee that the wheel will not hit the nose at the actual point (RP).
+
+(c) Maximum value of free wheel passage at crossing nose: 1 436 mm.
+
+(d) Minimum flangeway width: 38 mm.
+
+(e) Minimum flangeway depth: 40 mm.
+
+(f) Maximum excess height of check rail: 55 mm.
+
+7.7.12.10. Platform height (4.2.9.2)
+
+P cases
+
+(1) For platforms used for urban or suburban railway services the nominal platform height of 960 mm above running surface shall be allowed.
+
+(2) For upgraded or renewed lines with maximum speed of no more than 160 km/h the nominal platform height from 220 mm to 380 mm above running surface shall be allowed.
+
+7.7.12.11. Equivalent conicity in service (4.2.11.2)
+
+T cases
+
+Until introduction of equipment for measurement of elements required for calculation of equivalent conicity in service, it is allowed in Poland not to assess this parameter.
+
+7.7.12.12. Track sleepers (5.3.3)
+
+P cases
+
+The requirement of point 5.3.3(2) shall be applied for speeds above 250 km/h.
+
+**7.7.13. Particular features on the Portuguese network**
+
+7.7.13.1. Structure gauge (4.2.3.1)
+
+P cases
+
+(1) Instead of point 4.2.3.1(1), for the nominal track gauge of 1 668 mm, the upper part of the structure gauge shall be set on the basis of the gauges set out in Table 26 and Table 27, which are defined in Annex D Section D.4.3 of EN 15273-3:2013+A1:2016  .
+
+**Table 26**
+
+**Portuguese gauges for passenger traffic**
+
+Traffic code Gauge
+
+P1 PTc
+
+P2 PTb+
+
+P3 PTc
+
+P4 PTb+
+
+P5 PTb
+
+P6 PTb
+
+**Table 27**
+
+**Portuguese gauges for freight traffic**
+
+Traffic code Gauge
+
+F1 PTc
+
+F2 PTb+
+
+F3 PTb
+
+F4 PTb
+
+(2) Instead of point 4.2.3.1(2), for the nominal track gauge of 1 668 mm the lower part of the structure gauge shall be in accordance with Annex D Section D.4.3.4 of EN 15273-3:2013+A1:2016  .
+
+(3) Instead of point 4.2.3.1(3), for the nominal track gauge of 1 668 mm, calculations of the structure gauge shall be done using the kinematic method in accordance with the requirements of Annex D Section D.4.3. of EN 15273-3:2013+A1:2016  .
+
+7.7.13.2. Distance between track centres (4.2.3.2)
+
+P cases
+
+Instead of point 4.2.3.2(1), for the nominal track gauge of 1 668 mm, the distance between track centres shall be set on the basis of the reference contours PTb, PTb+ or PTc, which are defined in Annex D Section D.4.3 of EN 15273-3:2013+A1:2016  .
+
+7.7.13.3. The immediate action limit of track gauge as an isolated defect (4.2.8.4)
+
+P cases
+
+Instead of point 4.2.8.4(1), for the nominal track gauge of 1 668 mm, the immediate action limits of track gauge as an isolated defect are set out in Table 28.
+
+**Table 28**
+
+**Immediate action limits of Portuguese track gauge**
+
+<table>
+<tbody><tr><td>Speed [km/h]</td><td colspan="2">Dimensions [mm]</td></tr>
+<tr><td>  </td><td>Minimum track gauge</td><td>Maximum track gauge</td></tr>
+<tr><td>v ≤ 120</td><td>1 657 </td><td>1 703 </td></tr>
+<tr><td>120 &lt; v ≤ 160</td><td>1 658 </td><td>1 703 </td></tr>
+<tr><td>160 &lt; v ≤ 230</td><td>1 661 </td><td>1 696 </td></tr>
+<tr><td>v &gt; 230</td><td>1 663 </td><td>1 696 </td></tr>
+</tbody>
+</table>
+
+7.7.13.4. The immediate action limit for switches and crossings (4.2.8.6)
+
+P cases
+
+Instead of point 4.2.8.6(1), for the nominal track gauge of 1 668 mm, the technical characteristics of switches and crossings shall comply with the following in-service values:
+
+(a) Maximum value of free wheel passage in switches: 1 618 mm.
+
+This value can be increased if the Infrastructure Manager demonstrates that the actuation and locking system of the switch is able to resist the lateral impact forces of a wheelset.
+
+(b) Minimum value of fixed nose protection for common crossings: 1 625 mm.
+
+This value is measured 14 mm below the running surface, and on the theoretical reference line, at an appropriate distance back from the actual point (RP) of the nose as indicated in Figure 2.
+
+For crossings with point retraction, this value can be reduced. In this case the Infrastructure Manager shall demonstrate that the point retraction is sufficient to guarantee that the wheel will not hit the nose at the actual point (RP).
+
+(c) Maximum value of free wheel passage at crossing nose: 1 590 mm.
+
+(d) Maximum value of free wheel passage at check rail/wing rail entry: 1 618 mm.
+
+(e) Minimum flangeway width: 38 mm.
+
+(f) Minimum flangeway depth: 40 mm.
+
+(g) Maximum excess height of check rail: 70 mm.
+
+7.7.13.5. Platform height (4.2.9.2)
+
+P cases
+
+For the nominal track gauge of 1 668 mm, for upgraded or renewed platforms the nominal platform height of 685 mm (general use) or 900 mm (urban and suburban traffic) above the running surface for radii of more than 300 m or 350 m respectively shall be allowed.
+
+7.7.13.6. Platform offset (4.2.9.3)
+
+P cases
+
+(1) Instead of point 4.2.9.3(1), for the nominal track gauge of 1 668 mm, the distance between the track centre and the platform edge parallel to the running plane (bq), as defined in chapter 13 of EN 15273-3:2013+A1:2016  , shall be set on the basis of the installation limit gauge (bqlim). The installation limit gauge shall be calculated on the basis of the gauge PTb+ defined in Annex D, Section D 4.3 of EN 15273-3:2013+A1:2016  .
+
+(2) For a three-rail track, the installation limit gauge shall be the outside envelope resultant from the overlaying of the installation gauge centred on the track gauge 1 668 mm, and the installation gauge set in 4.2.9.3(1) centred on the track gauge 1 435 mm.
+
+7.7.13.7. Assessment of structure gauge (6.2.4.1)
+
+P cases
+
+Instead of point 6.2.4.1(1), for the nominal track gauge of 1 668 mm, assessment of structure gauge as a design review shall be done against characteristic cross sections using the results of calculations made by the Infrastructure Manager or the contracting entity on the basis of chapters 5, 7, 10 and section D.4.3 of EN 15273-3:2013+A1:2016  .
+
+7.7.13.8. Assessment of maximum pressure variations in tunnels (6.2.4.12)
+
+P cases
+
+Instead of point 6.2.4.12(3), for the nominal track gauge of 1 668 mm, the reference cross section area (constant along a train) to be considered is to be, independently to each motor or trailer vehicle:
+
+(a) 12 m2 for vehicles designed for PTc reference kinematic profile,
+
+(b) 11 m2 for vehicles designed for PTb and PTb+ reference kinematic profile.
+
+The vehicle gauge to be considered shall be set on the basis of the gauge selected according to point 7.7.13.1.
+
+**7.7.14. Particular features on the Ireland network**
+
+7.7.14.1. Structure gauge (4.2.3.1)
+
+P cases
+
+Instead of point 4.2.3.1(5), for the nominal track gauge of 1 600 mm, it shall be allowed to apply the uniform structure gauge IRL2 as set out in Appendix O to this TSI.
+
+7.7.14.2. Distance between track centres (4.2.3.2)
+
+P cases
+
+Instead of point 4.2.3.2(6), for the 1 600 mm track gauge, the distance between track centres shall be set on the basis of the gauges selected according to point 7.7.14.1. The nominal horizontal distance between track centres shall be specified for the design and shall not be less than 3,47 m for gauge IRL2; it considers margins for aerodynamic effects.
+
+7.7.14.3. Assessment of structure gauge (6.2.4.1)
+
+P cases
+
+Instead of point 6.2.4.1(5), for the 1 600 mm track gauge, assessment of structure gauge as a design review is to be made against characteristic cross sections using the structure gauge ‘IRL2’ as defined in Appendix O to this TSI.
+
+**7.7.15. Particular features on the Spanish network**
+
+7.7.15.1. Structure gauge (4.2.3.1)
+
+P cases
+
+(1) Instead of point 4.2.3.1(1), for the nominal track gauge of 1 668 mm, the upper part of the structure gauge for new lines shall be set on the basis of the gauges set out in Table 29 and Table 30 which are defined in Annex D, Section D.4.11 of EN 15273-3:2013+A1:2016  .
+
+**Table 29**
+
+**Gauges for passenger traffic on the Spanish network**
+
+Traffic code Gauge of upper parts
+
+P1 GEC16
+
+P2 GEB16
+
+P3 GEC16
+
+P4 GEB16
+
+P5 GEB16
+
+P6 GHE16
+
+**Table 30**
+
+**Gauges for freight traffic on the Spanish network**
+
+Traffic code Gauge of upper parts
+
+F1 GEC16
+
+F2 GEB16
+
+F3 GEB16
+
+F4 GHE16
+
+For renewed or upgraded lines the upper part of the structure gauge shall be set on the basis of the gauge GHE16 which is defined in Annex D, Section D.4.11 of EN 15273-3:2013.
+
+(2) Instead of point 4.2.3.1(2), for the nominal track gauge of 1 668 mm the lower part of the structure gauge shall be GEI2 as set out in Appendix P to this TSI. Where tracks are equipped with rail brakes, structure gauge GEI1 shall be applied for the lower part of the gauge, as set out in Appendix P to this TSI.
+
+(3) Instead of point 4.2.3.1(3), for the nominal track gauge of 1 668 mm calculations of the structure gauge shall be done using the kinematic method in accordance with the requirements of Annex D, Section D.4.11 of EN 15273-3:2013+A1:2016  for the upper parts and Appendix P to this TSI for the lower parts.
+
+7.7.15.2. Distance between track centres (4.2.3.2)
+
+P cases
+
+Instead of point 4.2.3.2(1), for the nominal track gauge of 1 668 mm, the distance between track centres shall be set on the basis of gauges of upper parts GHE16, GEB16 or GEC16, which are defined in Annex D, Section D.4.11 of EN 15273-3:2013+A1:2016  .
+
+7.7.15.3. Design track twist due to rail traffic actions (4.2.7.1.6)
+
+P cases
+
+Instead of point 4.2.7.1.6, for the nominal track gauge of 1 668 mm, the maximum total design track twist due to rail traffic actions shall not exceed 8mm/3m.
+
+7.7.15.4. The immediate action limit of track gauge as an isolated defect (4.2.8.4)
+
+P cases
+
+Instead of point 4.2.8.4(1), for the nominal track gauge of 1 668 mm, the immediate action limits of track gauge as an isolated defect are set out in Table 31.
+
+**Table 31**
+
+**Immediate action limits of 1 668 mm track gauge**
+
+<table>
+<tbody><tr><td rowspan="2">Speed [km/h]</td><td colspan="2">Dimensions [mm]</td></tr>
+<tr><td>Minimum track gauge</td><td>Maximum track gauge</td></tr>
+<tr><td>v ≤ 80</td><td>1 659 </td><td>1 698 </td></tr>
+<tr><td>80 &lt; v ≤ 120</td><td>1 659 </td><td>1 691 </td></tr>
+<tr><td>120 &lt; v ≤ 160</td><td>1 660 </td><td>1 688 </td></tr>
+<tr><td>160 &lt; v ≤ 200</td><td>1 661 </td><td>1 686 </td></tr>
+<tr><td>200 &lt; v ≤ 240</td><td>1 663 </td><td>1 684 </td></tr>
+<tr><td>240 &lt; v ≤ 280</td><td>1 663 </td><td>1 682 </td></tr>
+<tr><td>280 &lt; v ≤ 320</td><td>1 664 </td><td>1 680 </td></tr>
+<tr><td>320 &lt; v ≤ 350</td><td>1 665 </td><td>1 679 </td></tr>
+</tbody>
+</table>
+
+7.7.15.5. The immediate action limits for switches and crossings (4.2.8.6)
+
+P cases
+
+Instead of point 4.2.8.6(1), for the nominal track gauge of 1 668 mm, the technical characteristics of switches and crossings shall comply with the following in-service values:
+
+(a) Maximum value of free wheel passage in switches: 1 618 mm.
+
+This value can be increased if the Infrastructure Manager demonstrates that the actuation and locking system of the switch is able to resist the lateral impact forces of a wheelset.
+
+(b) Minimum value of fixed nose protection for common crossings: 1 626 mm.
+
+This value is measured 14 mm below the running surface, and on the theoretical reference line, at an appropriate distance back from the actual point (RP) of the nose as indicated in Figure 2.
+
+For crossings with point retraction, this value can be reduced. In this case the Infrastructure Manager shall demonstrate that the point retraction is sufficient to guarantee that the wheel will not hit the nose at the actual point (RP).
+
+(c) Maximum value of free wheel passage at crossing nose: 1 590 mm.
+
+(d) Maximum value of free wheel passage at check rail/wing rail entry: 1 620 mm.
+
+(e) Minimum flangeway width: 38 mm.
+
+(f) Minimum flangeway depth: 40 mm.
+
+(g) Maximum height of check rail: 70 mm.
+
+7.7.15.6. Platform height (4.2.9.2)
+
+P cases
+
+The nominal platform height dedicated for:
+
+(a) commuter or regional traffic or
+
+(b) commuter and long-distance traffic
+
+(c) regional traffic and long-distance traffic
+
+stopping in normal service, shall be allowed to be 680 mm for radii of 300 m and more above the running surface.
+
+7.7.15.7. Platform offset (4.2.9.3)
+
+P cases
+
+(1) Instead of point 4.2.9.3(1), for the nominal track gauge of 1 668 mm, the distance between the track centre and the platform edge, parallel to the running plane (bq), as defined in chapter 13 of EN 15273-3:2013+A1:2016  , shall be set on the basis of the installation limit gauge (bqlim). The installation limit gauge shall be calculated on the basis of the gauges of upper parts GHE16 or GEC16 defined in Annex D, Section D.4.11 of EN 15273-3:2013+A1:2016  .
+
+(2) For a three-rail track, the installation limit gauge shall be the outside envelope resultant from the overlaying of the installation limit gauge centred on the track gauge 1 668 mm, and the installation limit gauge set in 4.2.9.3(1) centred on the track gauge 1 435 mm.
+
+7.7.15.8. Assessment of structure gauge (6.2.4.1)
+
+P cases
+
+Instead of point 6.2.4.1(1), for the nominal track gauge of 1 668 mm, assessment of structure gauge as a design review shall be done against characteristic cross sections using the results of calculations made by the Infrastructure Manager or the contracting entity on the basis of chapters 5, 7, 10 and Annex D, Section D.4.11 of EN 15273-3:2013+A1:2016  for the upper parts and Appendix P to this TSI for the lower parts.
+
+7.7.15.9. Assessment of maximum pressure variations in tunnels (6.2.4.12)
+
+P cases
+
+Instead of point 6.2.4.12(3), for the nominal track gauge of 1 668 mm, the reference cross section area to be considered is to be, independently to each motor or trailer vehicle:
+
+(a) 12 m2 for vehicles designed for GEC16 reference kinematic profile,
+
+(b) 11 m2 for vehicles designed for GEB16, and GHE16 reference kinematic profile.
+
+The vehicle gauge to be considered shall be set on the basis of the gauge selected according to point 7.7.15.1.
+
+**7.7.16. Particular features on the Swedish network**
+
+7.7.16.1. General
+
+P cases
+
+On infrastructure with direct connection to the Finnish network and for infrastructure in harbours, the particular features of the Finnish network as specified in point 7.7.6 of this TSI may be applied on tracks, which are dedicated for 1 524 mm nominal track gauge vehicles.
+
+7.7.16.2. Platform offset (4.2.9.3)
+
+P cases
+
+As set out in point 4.2.9.3(1), the distance between the track centre and the platform edge parallel to the running plane (bq), as defined in chapter 13 of EN 15273-3:2013+A1:2016  , shall be calculated with the following values for allowed additional overthrow (Skin):
+
+(a) on the inside of the curve: Skin = 40,5/R,
+
+(b) on the outside of the curve: Skin = 31,5/R.
+
+7.7.17. (not used)
+
+7.7.18. Particular features on the UK network for Northern Ireland
+
+7.7.18.1. Structure gauge (4.2.3.1)
+
+P cases
+
+Instead of point 4.2.3.1(5), for the nominal track gauge of 1 600 mm, it shall be allowed to apply the uniform structure gauge IRL3 as set out in Appendix O to this TSI.
+
+7.7.18.2. Distance between track centres (4.2.3.2)
+
+P cases
+
+Instead of point 4.2.3.2(6), for the 1 600 mm track gauge, the distance between track centres shall be set on the basis of the gauges selected according to point 7.7.17.1. The nominal horizontal distance between track centres shall be specified for the design and shall consider margins for aerodynamic effects. The minimum allowed value for the uniform structure gauge IRL3 is an open point.
+
+7.7.18.3. Assessment of structure gauge (6.2.4.1)
+
+P cases
+
+Instead of point 6.2.4.1(5), for the 1 600 mm track gauge, assessment of structure gauge as a design review is to be made against characteristic cross sections using the structure gauge ‘IRL3’ as defined in Appendix O to this TSI.
+
+7.7.19. Particular features on the Slovak network
+
+7.7.19.1. TSI categories of line (4.2.1)
+
+P cases
+
+For the Traffic Code F1520 as defined in Table 3 of point 4.2.1(7), for the 1 520 mm track gauge system, it shall be allowed to use axle load 24,5 t and train length in the range from 650 m up to 1 050 m.
+
+7.7.19.2. Minimum radius of horizontal curve (4.2.3.4)
+
+P cases
+
+(1) Instead of point 4.2.3.4(2), reverse curves (other than reverse curves in marshalling yards where wagons are shunted individually) with radii in the range from 150 m up to 300 m for new lines shall be designed in accordance with Table 33 and Table 34 to prevent buffer locking.
+
+(2) Instead of paragraph 4.2.3.4(3), for the 1 520 mm track gauge system, for main tracks, reverse curves with radii in the range from 150 m up to 250 m shall be designed with a section of straight track of at least 15 m between the curves.
+
+(3) Instead of point 4.2.3.4(3), for the 1 520 mm track gauge system, for tracks other than main tracks, reverse curves with radii in the range from 150 m up to 250 m shall be designed in accordance with Table 33 and Table 34.
+
+**Table 33**
+
+**Limits for length of a straight intermediate element between two long circular curves in the opposite directions (m)**
+
+| R1/R2 | 150 | 160 | 170 | 180 | 190 | 200 | 220 | 230 | 250 | 280 | 300 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 150 | 11,0 | 10,7 | 10,4 | 10,0 | 9,8 | 9,5 | 9,0 | 8,7 | 8,1 | 7,6 | 6,7 |
+| 160 | 10,7 | 10,4 | 10,0 | 9,8 | 9,5 | 9,0 | 8,6 | 8,1 | 7,6 | 6,7 | 6,4 |
+| 170 | 10,4 | 10,0 | 9,8 | 9,5 | 9,0 | 8,5 | 8,1 | 7,6 | 6,7 | 6,4 | 6,0 |
+| 180 | 10,0 | 9,8 | 9,5 | 9,0 | 8,5 | 8,0 | 7,5 | 6,6 | 6,4 | 6,0 | 5,5 |
+| 190 | 9,8 | 9,5 | 9,0 | 8,5 | 8,0 | 7,5 | 6,5 | 6,3 | 6,0 | 5,4 | 4,5 |
+| 200 | 9,5 | 9,0 | 8,5 | 8,0 | 7,5 | 6,5 | 6,2 | 6,0 | 5,3 | 4,0 | 3,0 |
+| 220 | 9,0 | 8,6 | 8,1 | 7,5 | 6,5 | 6,2 | 6,0 | 5,3 | 4,0 | 3,0 | 0,0 |
+| 230 | 8,7 | 8,1 | 7,6 | 6,6 | 6,3 | 6,0 | 5,3 | 4,0 | 3,0 | 0,0 |  |
+| 250 | 8,1 | 7,6 | 6,7 | 6,4 | 6,0 | 5,3 | 4,0 | 3,0 | 0,0 |  |  |
+| 280 | 7,6 | 6,7 | 6,4 | 6,0 | 5,4 | 4,0 | 3,0 | 0,0 |  |  |  |
+| 300 | 6,7 | 6,4 | 6,0 | 5,5 | 4,5 | 3,0 | 0,0 |  |  |  |  |
+| 325 | 6,4 | 6,0 | 5,7 | 5,0 | 4,0 | 0,0 |  |  |  |  |  |
+| 350 | 6,3 | 5,8 | 5,2 | 4,0 | 3,0 | 0,0 |  |  |  |  |  |
+| 400 | 6,0 | 5,2 | 4,0 | 3,0 | 0,0 |  |  |  |  |  |  |
+| 450 | 5,5 | 4,5 | 3,0 | 0,0 |  |  |  |  |  |  |  |
+| 500 | 5,0 | 3,0 | 0,0 |  |  |  |  |  |  |  |  |
+| 600 | 3,0 | 0,0 |  |  |  |  |  |  |  |  |  |
+| 700 | 0,0 |  |  |  |  |  |  |  |  |  |  |
+
+**Table 34**
+
+**Limits for length of a straight intermediate element between two long circular curves in the opposite directions (m); for passenger trains with speeds up to 40 km/h for other tracks than main tracks**
+
+| R1/R2 | 150 | 160 | 170 | 180 | 190 | 200 | 220 | 230 | 250 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 150 | 11,0 | 10,7 | 10,4 | 10,0 | 9,8 | 9,5 | 9,0 | 8,7 | 8,1 |
+| 160 | 10,7 | 10,4 | 10,0 | 9,8 | 9,5 | 9,0 | 8,6 | 8,1 | 7,6 |
+| 170 | 10,4 | 10,0 | 9,8 | 9,5 | 9,0 | 8,5 | 8,1 | 7,6 | 6,7 |
+| 180 | 10,0 | 9,8 | 9,5 | 9,0 | 8,5 | 8,0 | 7,5 | 6,6 | 6,4 |
+| 190 | 9,8 | 9,5 | 9,0 | 8,5 | 8,0 | 7,5 | 6,5 | 6,3 | 6,0 |
+| 200 | 9,5 | 9,0 | 8,5 | 8,0 | 7,5 | 6,7 | 6,2 | 6,0 | 5,3 |
+| 220 | 9,0 | 8,6 | 8,1 | 7,5 | 6,5 | 6,2 | 6,0 | 5,3 | 4,0 |
+| 230 | 8,7 | 8,1 | 7,6 | 6,6 | 6,3 | 6,0 | 5,3 | 4,0 | 4,0 |
+| 250 | 8,1 | 7,6 | 6,7 | 6,4 | 6,0 | 5,3 | 4,0 | 4,0 | 4,0 |
+| 280 | 7,6 | 6,7 | 6,4 | 6,0 | 5,4 | 4,0 | 4,0 | 4,0 | 4,0 |
+| 300 | 6,7 | 6,4 | 6,0 | 5,5 | 4,5 | 4,0 | 4,0 | 4,0 | 4,0 |
+| 325 | 6,4 | 6,0 | 5,7 | 5,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 |
+| 350 | 6,3 | 5,8 | 5,2 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 |
+| 400 | 6,0 | 5,2 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 |
+| 450 | 5,5 | 4,5 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 |
+| 500 | 5,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 |
+| 600 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 | 4,0 |
+
+7.7.19.3. Minimum radius of vertical curve (4.2.3.5)
+
+P cases
+
+(1) Instead of point 4.2.3.5(1), only for side track with maximum speed up to 10 km/h, the radius of vertical curves (except for humps in marshalling yards) shall be at least 500 m in both in a crest and in a hollow.
+
+(2) Instead of point 4.2.3.5(3), for 1 520 mm track gauge system, the radius of vertical curves (except the marshalling yards) shall be at least 2 000 m both on a crest and in a hollow, in cramped conditions (e.g. insufficient space) at least 1 000 m both on a crest and in hollow.
+
+(3) For side track with maximum speed up to 10 km/h, it shall be allowed to use the radius of vertical curves at least 500 m both on a crest and in a hollow.
+
+(4) Instead of point 4.2.3.5(4), for the 1 520 mm track gauge system for humps in marshalling yards the radius of vertical curves shall be at least 300 m on a crest and 250 m in a hollow.
+
+7.7.19.4. Cant deficiency (4.2.4.3)
+
+P cases
+
+Instead of point 4.2.4.3(3), for all types of rolling stock of the 1 520 mm track gauge system the cant deficiency shall not exceed 137 mm. For passenger traffic, this limit is valid for speeds up to 230 km/h. For mixed traffic, this limit is valid for speed up to 160 km/h.
+
+7.7.19.5. The immediate action limit for track twist (4.2.8.3)
+
+P cases
+
+Instead of point 4.2.8.3(4) and 4.2.8.3(5), for the 1 520 mm track gauge system, points from 4.2.8.3(1) to 4.2.8.3(3) shall be applied.
+
+7.7.19.6. The immediate action limit of track gauge as an isolated defect (4.2.8.4)
+
+P cases
+
+Instead of point 4.2.8.4(2), for 1 520 mm track gauge system, the immediate action limits of track gauge as an isolated defects are set out in Table 35.
+
+**Table 35**
+
+**Immediate action limits of track gauge for 1 520 mm track gauge system in Slovak republic**
+
+<table>
+<tbody><tr><td>Speed [km/h]</td><td colspan="2">Dimensions [mm]</td></tr>
+<tr><td>  </td><td>Minimum track gauge</td><td>Maximum track gauge</td></tr>
+<tr><td>v ≤ 80</td><td>1 511 </td><td>1 555 </td></tr>
+<tr><td>80 &lt; v ≤ 120</td><td>1 512 </td><td>1 550 </td></tr>
+<tr><td>120 &lt; v ≤ 160</td><td>1 513 </td><td>1 545 </td></tr>
+<tr><td>160 &lt; v ≤ 230</td><td>1 514 </td><td>1 540 </td></tr>
+</tbody>
+</table>
+
+7.7.19.7. The immediate action limit for cant (4.2.8.5)
+
+P cases
+
+Instead of point 4.2.8.5(3), for the 1 520 mm track gauge system, the maximum cant allowed in service is 170 mm.
+
+7.7.19.8. The immediate action limits for switches and crossings (4.2.8.6)
+
+P cases
+
+Instead of point 4.2.8.6(3), for the 1 520 mm track gauge system, the technical characteristics of switches and crossings shall comply with the following in-service values:
+
+(a) Minimum value of bypass at the narrowest location between open switch rail and stock rail is 60 mm.
+
+(b) Minimum value of fixed nose protection for common crossings is 1 472 mm. This value is measured 14 mm below the running surface, and on the theoretical reference line, at an appropriate distance back from the actual point (RP) of the nose as indicated in Figure 2. For crossings with point retraction, this value can be reduced. In this case the Infrastructure Manager shall demonstrate that the point retraction is sufficient to guarantee that the wheel will not hit the nose at the actual point (RP).
+
+(c) Maximum value of free wheel passage at crossing nose is 1 436 mm
+
+(d) Minimum flangeway width is 40 mm
+
+(e) Minimum flangeway depth is 40 mm
+
+(f) Maximum excess height of check rail is 54 mm
+
+7.7.19.9. Platform height (4.2.9.2)
+
+P cases
+
+For renewed lines with maximum speed of no more than 120 km/h the nominal platform height shall be allowed from 200 mm to 300 mm above the running surface.
+
+7.7.19.10. Equivalent conicity in service (4.2.11.2)
+
+T cases
+
+Until introduction of equipment for measurement of elements required for calculation of equivalent conicity in service, it is allowed in Slovak republic not to assess this parameter.
+
+7.7.19.11. Track sleepers (5.3.3)
+
+P cases
+
+The requirement of point 5.3.3(2) shall be applied for speeds above 250 km/h.
+
+## Appendix A — Assessment of interoperability constituents
+
+The characteristics of the interoperability constituents to be assessed by the notified body or the manufacturer in accordance with the selected module, in the different phases of design, development and production, are marked by ‘X’ in Table 36. Where no assessment is required, this is marked by ‘n.a.’ in the table.
+
+There are no particular assessment procedures required for interoperability constituents of the infrastructure subsystem.
+
+**Table 36**
+
+**Assessment of interoperability constituents for the EC declaration of conformity**
+
+<table>
+<tbody><tr><td rowspan="3">Characteristics to be assessed</td><td colspan="4">Assessment in the following phase</td></tr>
+<tr><td colspan="3">Design and development phase</td><td>Production phase Manufacturing process + product test </td></tr>
+<tr><td>Design review</td><td>Review of manufacturing process</td><td>Type test</td><td>Product quality (series) </td></tr>
+<tr><td>5.3.1 The rail</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.3.1.1 Railhead profile</td><td>X</td><td>n.a.</td><td>X</td><td>X</td></tr>
+<tr><td>5.3.1.2 Rail steel</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>5.3.2 The rail fastening systems</td><td>n.a.</td><td>n.a.</td><td>X</td><td>X</td></tr>
+<tr><td>5.3.3 Track sleepers</td><td>X</td><td>X</td><td>n.a.</td><td>X</td></tr>
+</tbody>
+</table>
+
+## Appendix B — Assessment of the infrastructure subsystem
+
+The characteristics of the subsystem to be assessed in the different phases of design, construction and operation are marked by ‘X’ in Table 37.
+
+Where no assessment by a notified body is required, this is marked by ‘n.a.’ in the table. This does not prevent the need for other assessments to be performed in the framework of other phases.
+
+Definition of assessment phases:
+
+(1) ‘Design review’ : it includes checking of correctness of values/parameters against applicable TSI requirements related to the final design.
+
+(2) ‘Assembly before putting into service’ : checking on site that the actual product or subsystem complies with the relevant design parameters just before putting it into operation.
+
+Column 3 gives references to point 6.2.4 ‘Particular assessment procedures for subsystem’ and to point 6.2.5 ‘Technical solutions giving presumption of conformity at design stage’.
+
+**Table 37**
+
+**Assessment of the infrastructure subsystem for the EC verification of conformity**
+
+<table>
+<tbody><tr><td rowspan="3">Characteristics to be assessed</td><td colspan="2">New line or upgrading/renewal project</td><td rowspan="2">Particular assessment procedures</td></tr>
+<tr><td>Design review</td><td>Assembly before putting into service</td></tr>
+<tr><td>1</td><td>2</td><td>3</td></tr>
+<tr><td>Structure gauge (4.2.3.1)</td><td>X</td><td>X</td><td>6.2.4.1</td></tr>
+<tr><td>Distance between track centres (4.2.3.2)</td><td>X</td><td>X</td><td>6.2.4.2</td></tr>
+<tr><td>Maximum gradients (4.2.3.3)</td><td>X</td><td>n.a.</td><td>  </td></tr>
+<tr><td>Minimum radius of horizontal curve (4.2.3.4)</td><td>X</td><td>X</td><td>6.2.4.4</td></tr>
+<tr><td>Minimum radius of vertical curve (4.2.3.5)</td><td>X</td><td>n.a.</td><td>6.2.4.4</td></tr>
+<tr><td>Nominal track gauge (4.2.4.1)</td><td>X</td><td>X</td><td>6.2.4.3</td></tr>
+<tr><td>Cant (4.2.4.2)</td><td>X</td><td>X</td><td>6.2.4.4</td></tr>
+<tr><td>Cant deficiency (4.2.4.3)</td><td>X</td><td>n.a.</td><td>6.2.4.4 6.2.4.5 </td></tr>
+<tr><td>Abrupt change of cant deficiency (4.2.4.4)</td><td>X</td><td>n.a.</td><td>6.2.4.4</td></tr>
+<tr><td>Assessment of design values for equivalent conicity (4.2.4.5)</td><td>X</td><td>n.a.</td><td>6.2.4.6</td></tr>
+<tr><td>Railhead profile for plain line (4.2.4.6)</td><td>X</td><td>n.a.</td><td>6.2.4.7</td></tr>
+<tr><td>Rail inclination (4.2.4.7)</td><td>X</td><td>n.a.</td><td>  </td></tr>
+<tr><td>Design geometry of switches and crossings (4.2.5.1)</td><td>X</td><td>n.a.</td><td>6.2.4.8</td></tr>
+<tr><td>Use of swing nose crossings (4.2.5.2)</td><td>X</td><td>n.a.</td><td>6.2.4.8</td></tr>
+<tr><td>Maximum unguided length of fixed obtuse crossings (4.2.5.3)</td><td>X</td><td>n.a.</td><td>6.2.4.8</td></tr>
+<tr><td>Track resistance to vertical loads (4.2.6.1)</td><td>X</td><td>n.a.</td><td>6.2.5</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Longitudinal track resistance (4.2.6.2)</td><td>X</td><td>n.a.</td><td>6.2.5 6.2.4.15 </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Lateral track resistance (4.2.6.3)</td><td>X</td><td>n.a.</td><td>6.2.5</td></tr>
+<tr><td>Resistance of new bridges to traffic loads (4.2.7.1)</td><td>X</td><td>n.a.</td><td>6.2.4.9</td></tr>
+<tr><td>Equivalent vertical loading for new earthworks and earth pressure effects (4.2.7.2)</td><td>X</td><td>n.a.</td><td>6.2.4.9</td></tr>
+<tr><td>Resistance of new structures over or adjacent to tracks (4.2.7.3)</td><td>X</td><td>n.a.</td><td>6.2.4.9</td></tr>
+<tr><td>Resistance of existing bridges and earthworks to traffic loads (4.2.7.4)</td><td>X</td><td>n.a.</td><td>6.2.4.10</td></tr>
+<tr><td>The immediate action limit for alignment (4.2.8.1)</td><td>n.a.</td><td>n.a.</td><td>  </td></tr>
+<tr><td>The immediate action limit for longitudinal level (4.2.8.2)</td><td>n.a.</td><td>n.a.</td><td>  </td></tr>
+<tr><td>The immediate action limit for track twist (4.2.8.3)</td><td>n.a.</td><td>n.a.</td><td>  </td></tr>
+<tr><td>The immediate action limit of track gauge as an isolated defect (4.2.8.4)</td><td>n.a.</td><td>n.a.</td><td>  </td></tr>
+<tr><td>The immediate action limit for cant (4.2.8.5)</td><td>n.a</td><td>n.a.</td><td>  </td></tr>
+<tr><td>The immediate action limit for switches and crossings (4.2.8.6)</td><td>n.a.</td><td>n.a.</td><td>  </td></tr>
+<tr><td>Usable length of platforms (4.2.9.1)</td><td>X</td><td>n.a.</td><td>  </td></tr>
+<tr><td>Platform height (4.2.9.2)</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>Platform offset (4.2.9.3)</td><td>X</td><td>X</td><td>6.2.4.11</td></tr>
+<tr><td>Track layout along platforms (4.2.9.4)</td><td>X</td><td>n.a.</td><td>  </td></tr>
+<tr><td>Maximum pressure variation in tunnels (4.2.10.1)</td><td>X</td><td>n.a.</td><td>6.2.4.12</td></tr>
+<tr><td>Effect of crosswinds (4.2.10.2)</td><td>n.a.</td><td>n.a.</td><td>6.2.4.13</td></tr>
+<tr><td>Location markers (4.2.11.1)</td><td>n.a.</td><td>n.a.</td><td>  </td></tr>
+<tr><td>Equivalent conicity in service (4.2.11.2)</td><td>n.a.</td><td>n.a.</td><td>  </td></tr>
+<tr><td>Toilet discharge (4.2.12.2)</td><td>n.a.</td><td>n.a</td><td>6.2.4.14</td></tr>
+<tr><td>Train external cleaning facilities (4.2.12.3)</td><td>n.a.</td><td>n.a.</td><td>6.2.4.14</td></tr>
+<tr><td>Water restocking (4.2.12.4)</td><td>n.a.</td><td>n.a.</td><td>6.2.4.14</td></tr>
+<tr><td>Refuelling (4.2.12.5)</td><td>n.a.</td><td>n.a.</td><td>6.2.4.14</td></tr>
+<tr><td>Electric shore supply (4.2.12.6)</td><td>n.a.</td><td>n.a</td><td>6.2.4.14</td></tr>
+<tr><td>Application of Interoperability Constituents</td><td>n.a.</td><td>X</td><td>  </td></tr>
+</tbody>
+</table>
+
+## Appendix C — Technical characteristics of track design and switches and crossings design
+
+## Appendix C.1 — Technical characteristics of track design
+
+Track design shall be at least defined by the technical characteristics as follows:
+
+(a) Rail
+
+— Profile(s) & grades
+
+— Continuous welded rail or length of rails (for jointed track sections)
+
+(b) Fastening system
+
+— Type
+
+— Pad stiffness
+
+— Clamping force
+
+— Longitudinal restraint
+
+(c) Sleeper
+
+— Type
+
+— Resistance to vertical loads:
+
+— Concrete: design bending moments
+
+— Wood: compliance with the specification referenced in Appendix T, Index [15]
+
+— Steel: moment of inertia of cross section
+
+— Resistance to longitudinal and lateral loads: geometry and weight
+
+— Nominal and design track gauge
+
+(d) Rail inclination
+
+(e) Ballast cross sections (ballast shoulder — ballast thickness)
+
+(f) Ballast type (grading = granulometrie)
+
+(g) Sleeper spacing
+
+(h) Special devices: for example sleeper anchors, third/fourth rail, …
+
+## Appendix C.2 — Technical characteristics of switches and crossings design
+
+Switches and crossings design shall be at least defined by the technical characteristics as follows:
+
+(a) Rail
+
+— Profile(s) & grades (switch rail, stock rail)
+
+— Continuous welded rail or length of rails (for jointed track sections)
+
+(b) Fastening system
+
+— Type
+
+— Pad stiffness
+
+— Clamping force
+
+— Longitudinal restraint
+
+(c) Bearer
+
+— Type
+
+— Resistance to vertical loads:
+
+— Concrete: design bending moments
+
+— Wood: compliance with the specification referenced in Appendix T, Index [15]
+
+— Steel: moment of inertia of cross section
+
+— Resistance to longitudinal and lateral loads: geometry and weight
+
+— Nominal track gauge
+
+(d) Rail inclination
+
+(e) Ballast cross sections (ballast shoulder — ballast thickness)
+
+(f) Ballast type (grading = granulometrie)
+
+(g) Type of crossing (fixed or movable point)
+
+(h) Type of locking (switch pannel, movable point of crossing)
+
+(i) Special devices: for example sleeper anchors, third/fourth rail, …
+
+(j) Generic switches and crossings drawing indicating
+
+— Geometrical diagram (triangle) describing the length of the turnout and the tangents at the end of the turnout
+
+— Main geometrical characteristics like the main radii in switch, closure and crossing panel, crossing angle
+
+— Sleeper spacing
+
+## Appendix D — Conditions of use of track design and switches and crossings design
+
+## Appendix D.1 — Conditions of use of track design
+
+Conditions of use of track design are defined to be as follows:
+
+(a) Maximum axle load [t]
+
+(b) Maximum line speed [km/h]
+
+(c) Minimum horizontal curve radius [m]
+
+(d) Maximum cant [mm]
+
+(e) Maximum cant deficiency [mm]
+
+## Appendix D.2 — Conditions of use of switches and crossings design
+
+Conditions of use of switches and crossings design are defined to be as follows:
+
+(a) Maximum axle load [t]
+
+(b) Maximum line speed [km/h] on through route and diverging track of switches
+
+(c) Rules for curved turnouts based on generic designs, giving minimum curvatures (for through route and diverging track of switches)
+
+## Appendix E — Capability requirements for existing structures in accordance with traffic code
+
+The minimum capability requirements for existing bridges in accordance with point 4.2.7.4(2) are set out in Table 38A and Table 39A in accordance with the traffic codes given in Table 2 and Table 3. These capability requirements are set out using the vertical loading only defined by the EN line category with a corresponding speed or by LM71 with the factor alpha. Additional dynamic capability requirements are expressed by the dynamic load model HSLM. The EN line category and associated speed shall be considered as a single combined quantity.
+
+The minimum capability requirements for existing geotechnical structures and earthworks in accordance with point 4.2.7.4(2) are set out in Table 38B and Table 39B in accordance with the traffic codes given in Table 2 and Table 3.
+
+EN line categories are a function of axle load and geometrical aspects relating to the spacing of axles and are set out in the specification referenced in Appendix T, Index [2].
+
+For continuous bridges, the case with most onerous effects between Load Model 71 (LM71) and Load Model SW/0 shall be taken into account. LM71, Load Model SW/0 and Load Model HSLM are set out in the specification referenced in Appendix T, Index [10].
+
+**Table 38A**
+
+**Loading capability requirements for bridges and additional requirements due to dynamic effects (1)**
+
+<table>
+<tbody><tr><td>Traffic code</td><td>Traffic with loco hauled trains: Passenger trains including Carriages (Coaches, Vans and Car Carriers) and Light Freight Wagons and Locomotives and Power Heads(2)(3)(5)(6)(4)</td><td>Traffic with Electric or Diesel Multiple Units, Power Units and Railcars (2)(5)(4)</td></tr>
+<tr><td>P1</td><td>n.a.(7)</td><td>HSLM (8) and D2-200 or  HSLM (8) andLM71 with α = 1.0(14) </td></tr>
+<tr><td>P2</td><td>HSLM (8) and D2-200 Or  HSLM (8) and LM71 with α = 0.91(14) </td><td>HSLM (8) and D2-200 Or  HSLM (8) andLM71 with α = 0.91(14) </td></tr>
+<tr><td>P3a (&gt; 160 km/h) </td><td>L≥4m D2-100 and  L&lt;4m D2-200(9)(10)(15) </td><td>L≥4m C2-100 and  L&lt;4m C2-200(9)(15) </td></tr>
+<tr><td>P3b (≤ 160 km/h) </td><td>L≥4m D2-100 and  L&lt;4m D2-160(9)(11)(15) </td><td>L≥4m D2-100 and  L&lt;4m D2-160(9)(15) </td></tr>
+<tr><td>P4a (&gt; 160 km/h) </td><td>L≥4m D2-100 and  L&lt;4m D2-200(9)(12)(15) </td><td>L≥4m C2-100 and  L&lt;4m C2-200(9)(15) </td></tr>
+<tr><td>P4b (≤ 160 km/h) </td><td>L≥4m D2-100 and  L&lt;4m D2-160(9)(13)(15) </td><td>L≥4m C2-100 and  L&lt;4m C2-160(9)(15) </td></tr>
+<tr><td>P5</td><td>C2-120</td><td>B1-120</td></tr>
+<tr><td>P6</td><td colspan="2">a12</td></tr>
+<tr><td>P1520</td><td colspan="2">Open point</td></tr>
+<tr><td>P1600</td><td colspan="2">Open point</td></tr>
+</tbody>
+</table>
+
+**Table 39A**
+
+**Loading capability requirements for bridges expressed by EN Line Category –Associated Speed (1)**
+
+Traffic code Freight trains including freight wagons, other vehicles and locomotives(2)
+
+F1 D4 – 120
+
+F2 D2 – 120
+
+F3 C2 – 100
+
+F4 B2 – 100
+
+F1520 Open point
+
+F1600 Open point
+
+Notes:
+
+(1) The indicated speed value in the tables represents the maximum requirement for the line and may be lower in accordance with the requirements in point 4.2.1(12). When checking individual structures on the line, it is acceptable to take account the local allowed speeds as also indicated in the notes 2 and 3 of Table 2 and in the note 1 of Table 3.
+
+(2) Passenger Carriages (including Coaches, Vans, Car Carriers), Other Vehicles, Locomotives, Power Heads, Diesel and Electric Multiple Units, Power Units and Railcars are defined in the TSI LOC&PAS. Light Freight Wagons are defined as vans except that they are allowed to be conveyed in formations which are not intended to convey passengers.
+
+(3) The requirements for structures set out using EN line categories or load model LM71 are compatible with up to two adjacent coupled locomotives and/or power heads. The requirements for structures are compatible with a maximum speed of 120 km/h for three or more adjacent coupled locomotives and/or power heads (or a train of locomotives and/or power heads) subject to the locomotives and/or power heads satisfying the corresponding limits for freight wagons.
+
+(4) For traffic codes P2, P3 and P4, the requirements for both traffic with loco hauled trains and traffic with multiple units shall apply. For traffic code P5, the Member State may indicate whether the requirements for locomotives and power heads apply.
+
+(5) The requirements for structures are compatible with carriages, light freight wagons and electric or diesel multiple units with an average mass per unit length over the length of each vehicle of 2.45 t/m for EN line category A, 2.75 t/m for EN line category B1, 3.1 t/m for EN line category C2 and 3.5 t/m for EN line category D2 (not for P5).
+
+(6) The requirements for structures are compatible with 4 axle locomotive and power heads with a spacing of the axles in a bogie of at least 2.6 m and the average mass per unit length over the length of the vehicle of up to 5.0 t/m.
+
+(7) Taking into account the state of the art of operation there is no need to define harmonized requirements to deliver an adequate level of interoperability for these types of vehicles for the traffic code P1.
+
+(8) For P1 and P2 lines, compliance with HSLM in accordance with the specification referenced in Appendix T, Index [10] shall be stated (see procedure in point 6.2.4.10 of this TSI). If HSLM compliance cannot be shown, for the purpose of dynamic compatibility checks set out in accordance with the route compatibility check in Appendix D.1 to the TSI OPE (RINF parameter 1.1.1.1.2.4.4), the dynamic loading, to which the compatibility with existing bridges should be checked, shall be provided in the documents with the procedure(s) as set out in RINF parameter 1.1.1.1.2.4.4 (see also procedure in point 6.2.4.10 of this TSI). When a dynamic analysis has to be undertaken with load models based on individual trains, the characteristic value of the loading for passengers or luggage carrying vehicles shall be in accordance with the design mass under normal payload in accordance with Appendix K of this TSI.
+
+(9) For avoiding excessive dynamic effects including resonance, currently it is not possible to specify harmonized minimum bridge properties to obviate the need for a dynamic appraisal. The dynamic loading from vehicles satisfying the bridge static loading requirements (specified as either a Line Category in accordance with the specification referenced in Appendix T, Index [2] or in terms of load model LM71) can in a number of cases exceed these normal bridge static loading requirements (when these static loadings are enhanced by normal industry allowances for dynamic factors for bridge recalculation or bridge design). This risk to compatibility between vehicles and bridges is managed by the dynamic compatibility checks set out in Appendix D.1 to the TSI OPE (RINF parameter 1.1.1.1.2.4.4). When a dynamic analysis has to be undertaken with load models based on individual trains, the characteristic value of the loading for passengers or luggage carrying vehicles shall be in accordance with the design mass under normal payload in accordance with Appendix K of this TSI.
+
+(10) The requirements for loco hauled passenger trains are valid for carriages and light freight wagons satisfying EN line category A for speeds up to 200 km/h (local allowed speed) or EN line category C2 for speeds up to 160 km/h (local allowed speed).
+
+(11) The requirements for loco hauled passenger trains are valid for carriages and light freight wagons satisfying EN line category C2 for speeds up to 160 km/h (local allowed speed).
+
+(12) The requirements for loco hauled passenger trains are valid for carriages and light freight wagons satisfying line EN category A for speeds up to 200 km/h (local allowed speed) or EN line category B1 for speeds up to 160 km/h (local allowed speed).
+
+(13) The requirements for loco hauled passenger trains are valid for carriages and light freight wagons satisfying EN line category B1 for speeds up to 160 km/h (local allowed speed).
+
+(14) The requirements set out using EN line categories or load model LM71 can be fulfilled either via EN line category with the corresponding speed or with LM71 with the factor alpha in accordance with the specification referenced in Appendix T, Index [10]. The decision between the two available options, not necessarily the most onerous, is to be made exclusively by the applicant. EN line category with the corresponding speed is based on static loading multiplied by a dynamic amplification factor.
+
+(15) Where the minimum capability requirements for a traffic code given in Table 38A are given for example in the form L>=4m D2-100 ( 13 ) and L&lt;4m D2-200 ( 14 ), the relevant criteria in accordance with the loaded length L of the bridge element being considered shall be satisfied. EN line category with the corresponding speed is based on static loading multiplied by a dynamic amplification factor.
+
+**Table 38B**
+
+**Loading capability requirements for geotechnical structures and earthworks(1)(2)**
+
+<table>
+<tbody><tr><td>Traffic code</td><td>Traffic with loco hauled trains: Passenger trains including Carriages (Coaches, Vans and Car Carriers) and Light Freight Wagons and Locomotives and Power Heads(3)</td><td>Traffic with Electric or Diesel Multiple Units, Power Units and Railcars(3)</td></tr>
+<tr><td>P1</td><td>n.a.(4)</td><td>D2</td></tr>
+<tr><td>P2</td><td>D2</td><td>D2</td></tr>
+<tr><td>P3a (&gt; 160 km/h) </td><td>D2</td><td>C2</td></tr>
+<tr><td>P3b (≤ 160 km/h) </td><td>D2</td><td>D2</td></tr>
+<tr><td>P4a (&gt; 160 km/h) </td><td>D2</td><td>C2</td></tr>
+<tr><td>P4b (≤ 160 km/h) </td><td>D2</td><td>C2</td></tr>
+<tr><td>P5</td><td>C2</td><td>B1</td></tr>
+<tr><td>P6</td><td colspan="2">a12</td></tr>
+<tr><td>P1520</td><td colspan="2">open point</td></tr>
+<tr><td>P1600</td><td colspan="2">open point</td></tr>
+</tbody>
+</table>
+
+**Table 39B**
+
+**Loading capability requirements for geotechnical structures and earthworks**
+
+Traffic code Freight trains including freight wagons, other vehicles and Locomotives
+
+F1 D4
+
+F2 D2
+
+F3 C2
+
+F4 B2
+
+F1520 open point
+
+F1600 open point
+
+Notes:
+
+(1) The published line categories of the section of line including earthworks take account of the local allowed speeds.
+
+(2) Passenger Carriages (including Coaches, Vans, Car Carriers), Other Vehicles, Locomotives, Power Heads, Diesel and Electric Multiple Units, Power Units and Railcars are defined in point 2.2 of the TSI LOC&PAS. Light Freight Wagons are defined as vans except that they are allowed to be conveyed in formations which are not intended to convey passengers.
+
+(3) For traffic codes P2, P3 and P4 the requirements for both traffic with loco hauled trains and traffic with multiple units shall apply. For traffic code P5 the Member State may indicate whether the requirements for locomotives and power heads apply.
+
+(4) Taking into account the state of the art of operation there is no need to define harmonized requirements to deliver an adequate level of interoperability for this type of vehicles for P1 traffic codes.
+
+## Appendix F — Capability requirements for structures according to traffic code in the United Kingdom (Northern Ireland)
+
+The minimum capability requirements for structures are defined in Table 40 and Table 41 according to the traffic codes given in Table 2 and Table 3. The capability requirements are defined in Table 40 and Table 41 by a combined quantity comprising of the Route Availability number and a corresponding maximum speed. The Route Availability number and associated speed shall be considered as a single combined quantity.
+
+The Route Availability number is a function of axle load and geometrical aspects relating to the spacing of axles. Route Availability numbers are defined in the national technical rules notified for this purpose.
+
+**Table 40**
+
+**Route Availability number —Associated Speed (19) (23) [miles per hour] — Passenger traffic**
+
+<table>
+<tbody><tr><td>Traffic code</td><td>Passenger Carriages (including Coaches, Vans and Car Carriers) and Light Freight Wagons (20)(21)(24)</td><td>Locomotives and Power Heads (20)(22)</td><td>Electric or Diesel Multiple Units, Power Units and Railcars (20)(21)(24)</td></tr>
+<tr><td>P1</td><td>n.a. (29)</td><td>n.a. (29)</td><td>Open Point</td></tr>
+<tr><td>P2</td><td>n.a. (29)</td><td>n.a. (29)</td><td>Open Point</td></tr>
+<tr><td>P3a (&gt; 160 km/h)</td><td>RA1 – 125 RA2 – 90 </td><td>RA7 – 125 (25) RA8 – 110 (25)  RA8 – 100 (26)  RA5 – 125 (27) </td><td>Open point</td></tr>
+<tr><td>P3b (≤ 160 km/h)</td><td>RA1 – 100 RA2 – 90 </td><td>RA8 – 100 (26) RA5 – 100 (27) </td><td>RA3 – 100</td></tr>
+<tr><td>P4a (&gt; 160 km/h)</td><td>RA1 – 125 RA2 – 90 </td><td>RA7 – 125 (25) RA7 – 100 (26)  RA4 – 125 (27) </td><td>Open point</td></tr>
+<tr><td>P4b (≤ 160 km/h)</td><td>RA1 – 100 RA2 – 90 </td><td>RA7 – 100 (26) RA4 – 100 (27) </td><td>RA3 – 100</td></tr>
+<tr><td>P5</td><td>RA1 – 75</td><td>RA5 – 75 (26)(28) RA4 – 75 (27)(28) </td><td>RA3 – 75</td></tr>
+<tr><td>P6</td><td colspan="3">RA1</td></tr>
+<tr><td>P1600</td><td colspan="3">Open point</td></tr>
+</tbody>
+</table>
+
+**Table 41**
+
+**Route Availability number — Associated Speed  [miles per hour] — Freight traffic**
+
+<table>
+<tbody><tr><td>Traffic code</td><td>Freight wagons and other vehicles</td><td>Locomotives  </td></tr>
+<tr><td>F1</td><td>RA8 – 75</td><td>RA7 – 75</td></tr>
+<tr><td>F2</td><td>RA7 – 75</td><td>RA7 – 75</td></tr>
+<tr><td>F3</td><td>RA5 – 60</td><td>RA7 – 60</td></tr>
+<tr><td>F4</td><td>RA4 – 60</td><td>RA5 – 60</td></tr>
+<tr><td>F1600</td><td colspan="2">Open point</td></tr>
+</tbody>
+</table>
+
+## Appendix G — Speed conversion to miles per hour for Ireland and United Kingdom (Northern Ireland)
+
+**Table 42**
+
+**Speed conversion from [km/h] to [mph]**
+
+Speed [km/h] Speed [mph]
+
+2 1
+
+3 1
+
+5 3
+
+10 5
+
+15 10
+
+20 10
+
+30 20
+
+40 25
+
+50 30
+
+60 40
+
+80 50
+
+100 60
+
+120 75
+
+140 90
+
+150 95
+
+160 100
+
+170 105
+
+180 110
+
+190 120
+
+200 125
+
+220 135
+
+225 140
+
+230 145
+
+250 155
+
+280 175
+
+300 190
+
+320 200
+
+350 220
+
+## Appendix H — Structure gauge for the 1 520 mm track gauge system
+
+**Figure 3**
+
+**Structure gauge S for the 1 520 mm track gauge system [dimensions in mm]**
+
+Clarifications for Figure 3:
+
+All horizontal dimensions shall be measured from the centre of the track, and all vertical dimensions shall be measured from the top of the rail head level.
+
+Left side of contour — applications for tracks in the railway station, stop/halt and for branch tracks/industry track (except contour Ia, Ib, IIa, IIIa),
+
+Right side of contour — applications for tracks on the plain line.
+
+Application of specific parts of the contour:
+
+1,I — 1, I — contour of structure gauge for non-electrified tracks,
+
+1,I — II — III — II — 1,I — contour of structure gauge for electrified tracks — for tracks on the plain (open) line and for tracks in the railway station and for branch/industry tracks, where standing of vehicles is not expected,
+
+Ia — Ib — IIa — IIIa — contour of structure gauge for electrified tracks — for other station tracks and other branch/industry tracks
+
+Note: Values of 1 000 mm, 1 020 mm, 6 900 mm and 6 400 mm given in the numerators are for contact system with carrying cable.
+
+Values of 1 100 mm, 1 120 mm, 6 750 mm and 6 250 mm given in the denominator are for contact system without carrying cable,
+
+11 — 10 — 3 — contour of structure gauge for structures and equipment (except tunnel, bridge, platform, ramp) on the outside of ‘edge’ tracks;
+
+9 — 4a — contour of structure gauge for tunnel, for railing on the bridge, elevated track (ballast profile), signals, embankment wall and for railing on the other structures of railway subgrade,
+
+12-12 — contour from which (on track between stations or in stations within usale length of track) any device could not be above (higher), except level crossing covering, locomotive signaling inductors, switches mechanism and their near situated signaling and safety equipment
+
+14-14 — contour of building (or foundation), underground cables, steel cables, pipes and other not railway structures (except signalling and safety equipment)
+
+For nominal track gauge of 1 520 mm a1 = 670 mm and a2 = 760 mm.
+
+For nominal track gauge of 1 524 mm a1 = 672 mm and a2 = 762 mm.
+
+**Figure 4**
+
+**Reference profile of the lower parts on tracks fitted with double slip**
+
+Clarification for Figure 4:
+
+The distance of 760 mm is for track gauge 1 520 mm, and 762 mm for track gauge 1 524 mm.
+
+**Figure 5**
+
+**Reference profile of the lower parts on marshalling yards fitted with rail brakes**
+
+## Appendix I
+
+(not used)
+
+## Appendix J — Safety assurance over fixed obtuse crossings
+
+(J.1) The fixed obtuse crossings should be designed in order not to have a too long unguided length. In obtuse crossing check rails cannot be constructed to assure guidance over the whole length. This unguided length can be accepted up to a certain limit, defined by a reference situation defining:
+
+(a) Minimum crossing angle: tangent 1 in 9 (tgα = 0,11, α = 6°20′)
+
+(b) Minimum radius through obtuse crossing: 450 m
+
+(c) Minimum height of check rail: 45 mm
+
+(d) Nose shape as defined in the figure below
+
+Figure 6 Obtuse crossing [image] Figure 7 Point retraction X on check face [image] X = 3 mm (over a length of 150 mm). Y = 8 mm (over a length of 200 to 500 mm approximately)
+
+(J.2) If one or more of the above requirements is not respected, the design shall be checked, verifying either the equivalence of the unguided length or acceptance of the interference between wheel and nose when they get in contact.
+
+(J.3) The design shall be checked for wheels with diameter between 630 mm and 840 mm. For wheel diameters between 330 mm and 630 mm specific demonstrations are required.
+
+(J.4) The following graphs allow simple verification of unguided length for specific situation with different crossing angles, height of check rail and different crossing curvature.
+
+The graphs consider the following maximum track tolerances:
+
+(a) Track gauge between 1 433 mm and 1 439 mm inclusive
+
+(b) Nose protection between 1 393 mm and 1 398 mm inclusive
+
+(c) Free wheel passage ≤ 1 356 mm
+
+Figure 8 allows to specify the minimum wheel diameter that can run on curved obtuse crossings with a radius of 450 m, Figure 9 allows it for straight obtuse crossings.
+
+For other situations specific calculations can be performed.
+
+(J.5) For track gauge systems other than 1 435 mm, specific calculations shall be performed.
+
+**Figure 8**
+
+**Minimum wheel diameter against crossing angle for 450 m radius of obtuse crossing**
+
+1 Minimum wheel diameter [mm]
+
+2 N for crossing angle tangent 1 in N
+
+3 Height of check rail [mm] (Z3)
+
+**Figure 9**
+
+**Minimum wheel diameter against crossing angle for straight obtuse crossing**
+
+1 Minimum wheel diameter [mm]
+
+2 N for crossing angle tangent 1 in N
+
+3 Height of check rail [mm] (Z3)
+
+## Appendix K — Basis of minimum requirements for structures for passenger carriages and multiple units
+
+The following mass definitions for passenger carriages and multiple units form the basis of the minimum dynamic requirements for structures and checking the compatibility of structures with passenger carriages and multiple units.
+
+Where a dynamic appraisal is required to determine the load carrying capacity of the bridge, the load carrying capacity of the bridge shall be specified and expressed in terms of the design mass under normal payload in accordance with the specification referenced in Appendix T, Index [1], taking into account the values for passenger payload in standing areas given in Table 45.
+
+Mass definitions for static compatibility are based upon the design mass under exceptional payload established in accordance with the specification referenced in Appendix T, Index [1], taking into account the specification referenced in Appendix T, Index [2].
+
+**Table 45**
+
+**Passenger payload in standing areas in kg/m2 in accordance with the specification referenced in Appendix T, Index [1]**
+
+<table>
+<tbody><tr><td>Type of train</td><td>Normal payload to specify  Dynamic Compatibility </td></tr>
+<tr><td>High speed and long distance trains</td><td>160 (1)</td></tr>
+<tr><td>High speed and long distance trains Reservation Obligatory </td><td>0 </td></tr>
+<tr><td>Others (regional, commuter, suburban trains) </td><td>280 </td></tr>
+<tr><td colspan="2">(1)  Normal payload of the specification referenced in Appendix T, Index [1] plus an additional 160 kg/m2 for standing areas </td></tr>
+</tbody>
+</table>
+
+## Appendix M — Specific case on the Estonian network
+
+(1) Locomotive
+
+[image]
+
+(2) Distributed load: 140 kN/m
+
+(3) Wagon
+
+[image]
+
+## Appendix N
+
+(not used)
+
+## Appendix O — Specific case on the Ireland and United Kingdom of Northern Ireland networks
+
+Rules and drawings related to gauges IRL1, IRL2 and IRL3 are an open point.
+
+## Appendix P — Structure gauge for the lower parts for the 1 668 mm track gauge on the Spanish network
+
+Structures gauges shall be obtained on the basis of the kinematic reference profiles and associated rules.
+
+Calculations of structure gauge shall be done using the kinematic method in accordance with the requirements of the specification referenced in Appendix T, Index [3] with the kinematic reference profiles and associated rules defined in this Appendix.
+
+**P.1. REFERENCE PROFILES**
+
+**P.1.1. Kinematic reference profile GEI1**
+
+Figure 12 shows the reference profile for kinematic gauge GEI1 for vehicles which can pass over rail brakes in an active position.
+
+**Figure 12**
+
+**Reference profile of lower parts of kinematic gauge GEI1 for vehicles which can pass over rail brakes in an active position (l = track gauge)**
+
+**(Dimensions in millimeters)**
+
+(1) Running surface.
+
+**P.1.2. Kinematic reference profile GEI2**
+
+Figure 13 shows the reference profile for kinematic gauge GEI2 for vehicles which may pass over rail brakes in a non-active position.
+
+**Figure 13**
+
+**Reference profile of lower parts of kinematic gauge GEI2 for vehicles which may pass over rail brakes in a non-active position (l = track gauge)**
+
+**(Dimensions in millimeters)**
+
+[image]
+
+(1) Running surface.
+
+**P.2. ASSOCIATED RULES**
+
+Table 46 shows the additional overthrows for gauges GEI1 and GEI2.
+
+**Table 46**
+
+**Rules for additional overthrows S for gauges GEI1 and GEI2**
+
+<table>
+<tbody><tr><td colspan="2">Additional overthrows for track gauge ‘l’ and height ‘h’ compared to the running surface</td></tr>
+<tr><td>Radius</td><td>h ≤ 0,4 m</td></tr>
+<tr><td>250 ≤ R &lt; ∞</td><td>[image]</td></tr>
+<tr><td>150 ≤ R &lt; 250</td><td>[image] [image] </td></tr>
+</tbody>
+</table>
+
+**P.3. VERTICAL LOWERING**
+
+The heights of the lower part must be reduced by the value 50/Rv (m), the radius being in metres.
+
+The vertical curve radius Rv is limited to 500 m. Heights not exceeding 80 mm shall be considered as zero within a radius Rv between 500 m and 625 m.
+
+## Appendix Q
+
+(not used)
+
+## Appendix R
+
+**List of open points**
+
+(1) Immediate action limits for isolated defects in alignment for speeds of more than 300 km/h (4.2.8.1).
+
+(2) Immediate action limits for isolated defects in longitudinal level for speeds of more than 300 km/h (4.2.8.2).
+
+(3) The minimum allowed value of distance between track centres for the uniform structure gauge IRL3 is an open point (7.7.18.2).
+
+(4) EN Line Category — Associated Speed [km/h] for Traffic codes P1520 (all vehicles), P1600 (all vehicles), F1520 (all vehicles) and F1600 (all vehicles) in Appendix E, Tables 38A, 39A, 38B and 39B.
+
+(5) Route Availability Number — Associated Speed [miles/h] for Traffic codes P1 (multiple units), P2 (multiple units), P3a (multiple units), P4a (multiple units), P1600 (all vehicles) and F1600 (all vehicles) in Appendix F, Tables 40 and 41.
+
+(6) Rules and drawings related to gauges IRL1, IRL2 and IRL3 are an open point (Appendix O).
+
+(7) The requirements for mitigating the risk for ballast pick up for speed greater than 250 km/h.
+
+## Appendix S — Glossary
+
+**Table 48**
+
+**Terms**
+
+<table>
+<tbody><tr><td>Defined term</td><td>TSI point</td><td>Definition</td></tr>
+<tr><td>Actual point (RP)/ Praktischer Herzpunkt/  Pointe de coeur </td><td>4.2.8.6</td><td>Physical end of a crossing vee. See Figure 2, which shows the relationship between the actual point (RP) and the intersection point (IP).</td></tr>
+<tr><td>Alert limit/ Auslösewert/  Limite d'alerte </td><td>4.5.2</td><td>Refers to the value which, if exceeded, requires that the track geometry condition is analysed and considered in the regularly planned maintenance operations.</td></tr>
+<tr><td>Axle load/ Achsfahrmasse/  Charge à l'essieu </td><td>4.2.1, 4.2.6.1</td><td>Sum of the static vertical wheel forces exerted on the track through a wheelset or a pair of independent wheels divided by acceleration of gravity.</td></tr>
+<tr><td>Braking systems independent of wheel-rail adhesion conditions</td><td>4.2.6.2.2</td><td>‘Braking systems independent of wheel – rail adhesion conditions’ refers to all brake systems of the rolling stock capable to develop a brake force applied to the rails independently of the wheel – rail adhesion conditions (e.g. magnetic braking systems and eddy current braking systems)</td></tr>
+<tr><td>Cant/ Überhöhung/  Dévers de la voie </td><td>4.2.4.2 4.2.8.5 </td><td>Difference in height, relative to the horizontal, of the two rails of one track at a particular location, measured at the centrelines of the heads of the rails.</td></tr>
+<tr><td>Cant deficiency/Überhöhungsfehlbetrag/Insuffisance de devers</td><td>4.2.4.3</td><td>Difference between the applied cant and a higher equilibrium cant.</td></tr>
+<tr><td>Common crossing/ Starres Herzstück/  Coeur de croisement </td><td>4.2.8.6</td><td>Arrangement ensuring intersection of two opposite running edges of turnouts or diamond crossings and having one crossing vee and two wing rails.</td></tr>
+<tr><td>Crosswind/ Seitenwind/  Vents traversiers </td><td>4.2.10.2</td><td>Strong wind blowing laterally to a line which may adversely affect the safety of trains running.</td></tr>
+<tr><td>Design value/ Planungswert/  Valeur de conception </td><td>4.2.3.4, 4.2.4.2, 4.2.4.5, 4.2.5.1, 4.2.5.3</td><td>Theoretical value without manufacturing, construction or maintenance tolerances.</td></tr>
+<tr><td>Design track gauge/ Konstruktionsspurweite/  Ecartement de conception de la voie </td><td>5.3.3</td><td>A single value which is obtained when all the components of the track conform precisely to their design dimensions or their median design dimension when there is a range.</td></tr>
+<tr><td>Distance between track centres/ Gleisabstand/  Entraxe de voies </td><td>4.2.3.2</td><td>The distance between points of the centre lines of the two tracks under consideration, measured parallel to the running surface of the reference track namely the less canted track.</td></tr>
+<tr><td>Dynamic lateral force/Dynamische Querkraft/ Effort dynamique transversal </td><td>4.2.6.3</td><td>The sum of dynamic forces exerted by a wheelset on the track in lateral direction.</td></tr>
+<tr><td>Earthworks/ Erdbauwerke/  Ouvrages en terre </td><td>4.2.7.2, 4.2.7.4</td><td>Soil structures and soil-retaining structures that are subject to railway traffic loading.</td></tr>
+<tr><td>EN Line Category/ EN Streckenklasse/  EN Catégorie de ligne </td><td>4.2.7.4, Appendix E</td><td> The result of the classification process set out in the specification referenced in Appendix T, Index [2] and referred to in that standard as ‘Line Category’. It represents the ability of the infrastructure to withstand the vertical loads imposed by vehicles on the line or section of line for regular (‘normal’) service.  </td></tr>
+<tr><td>Equivalent conicity/ Äquivalente Konizität/  Conicité équivalente </td><td>4.2.4.5, 4.2.11.2</td><td>The tangent of the cone angle of a wheelset with coned wheels whose lateral movement has the same kinematic wavelength as the given wheelset on straight track and large-radius curves.</td></tr>
+<tr><td>Fixed nose protection/ Leitweite/  Cote de protection de pointe </td><td>4.2.5.3, Appendix J</td><td> Dimension between the crossing nose and check rail (see dimension No 2 on Figure 14).  </td></tr>
+<tr><td>Flangeway depth/ Rillentiefe/  Profondeur d'ornière </td><td>4.2.8.6</td><td> Dimension between the running surface and the bottom of flangeway (see dimension No 6 on Figure 14).  </td></tr>
+<tr><td>Flangeway width/ Rillenweite/  Largeur d'ornière </td><td>4.2.8.6</td><td> Dimension between a running rail and an adjacent check or wing rail (see dimension No 5 on Figure 14).  </td></tr>
+<tr><td>Free wheel passage at check rail/wing rail entry/ Freier Raddurchlauf im Radlenker-Einlauf/Flügelschienen-Einlauf/Côte d'équilibrage du contre-rail </td><td>4.2.8.6</td><td><br> Dimension between the working face of the crossing check rail or wing rail and the gauge face of the running rail opposite across the gauge measured at entry to check rail or wing rail respectively. <br> (see dimensions No 4 on Figure 14). The entry to the check rail or wing rail is the point at which the wheel is allowed to contact the check rail or wing rail.   </td></tr>
+<tr><td>Free wheel passage at crossing nose/ Freier Raddurchlauf im Bereich der Herzspitze/  Cote de libre passage dans le croisement </td><td>4.2.8.6</td><td> Dimension between the working face of the crossing wing rail and check rail opposite across the gauge (see dimension No 3 on Figure 14).  </td></tr>
+<tr><td>Free wheel passage in switches/Freier Raddurchlauf im Bereich der Zungen-vorrichtung/Côte de libre passage de l'aiguillage</td><td>4.2.8.6.</td><td> Dimension from the gauge face of one switch rail to the back edge of the opposite switch rail (see dimension No 1 on Figure 14).  </td></tr>
+<tr><td>Gauge/ Begrenzungslinie/  Gabarit </td><td>4.2.1, 4.2.3.1 </td><td>Set of rules including a reference contour and its associated calculation rules allowing definition of the outer dimensions of the vehicle and the space to be cleared by the infrastructure.</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Geotechnical structures/Geotechnische Strukturen/Structures géotechniques</td><td>4.2.7.2, 4.2.7.4</td><td>A structure that includes ground or structural member that relies on the ground resistance. Note: Earthworks is a subset for geotechnical structure </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>HBW/HBW/HBW</td><td>5.3.1.2</td><td> The non SI unit for steel hardness defined in the specification referenced in Appendix T, Index [16].  </td></tr>
+<tr><td>Height of check rail/ Radlenkerüberhöhung/  Surélévation du contre rail </td><td>4.2.8.6, Appendix J </td><td>Height of the check rail above the running surface (see dimension 7 on Figure 14 below).</td></tr>
+<tr><td>Immediate Action Limit/Soforteingriffsschwelle/ Limite d'intervention immédiate </td><td>4.2.8, 4.5</td><td>The value which, if exceeded, requires taking measures to reduce the risk of derailment to an acceptable level.</td></tr>
+<tr><td>Infrastructure Manager/ Betreiber der Infrastruktur/  Gestionnaire de l'Infrastructure </td><td>4.2.5.1, 4.2.8.3, 4.2.8.6, 4.2.11.2 4.4, 4.5.2, 4.6, 4.7, 6.2.2.1, 6.2.4, 6.4</td><td> As defined in Article 3(2) of Directive 2012/34/EU of the European Parliament and of the Council of 21 November 2012 establishing a single European railway area (OJ L 343, 14.12.2012, p. 32).  </td></tr>
+<tr><td>In service value/ Wert im Betriebszustand/  Valeur en exploitation </td><td>4.2.8.5, 4.2.11.2</td><td>Value measured at any time after the infrastructure has been placed into service.</td></tr>
+<tr><td>Intersection point (IP)/ Theoretischer Herzpunkt/  Point d'intersection théorique </td><td>4.2.8.6</td><td>Theoretical intersection point of the running edges at the centre of the crossing (see figure 2).</td></tr>
+<tr><td>Intervention Limit/Eingriffsschwelle/ Valeur d'intervention </td><td>4.5.2</td><td>The value, which, if exceeded, requires corrective maintenance in order that the immediate action limit shall not be reached before the next inspection;</td></tr>
+<tr><td>Isolated defect/ Einzelfehler/  Défaut isolé </td><td>4.2.8</td><td>A discrete track geometry fault.</td></tr>
+<tr><td>Line speed/ Streckengeschwindigkeit/  Vitesse de la ligne </td><td>4.2.1</td><td>Maximum speed for which a line has been designed.</td></tr>
+<tr><td>Maintenance file/ Instandhaltungsdossier/  Dossier de maintenance </td><td>4.5.1</td><td>Elements of the technical file relating to conditions and limits of use and instructions for maintenance.</td></tr>
+<tr><td>Maintenance plan/ Instandhaltungsplan/  Plan de maintenance </td><td>4.5.2</td><td>A series of documents setting out the infrastructure maintenance procedures adopted by an Infrastructure Manager.</td></tr>
+<tr><td>Multi-rail track/ Mehrschienengleis/  Voie à multi écartement </td><td>4.2.2.2</td><td>Track with more than two rails, where at least two pairs of respective rails are designed to be operated as separate single tracks, with or without different track gauges.</td></tr>
+<tr><td>Nominal track gauge/Nennspurweite/ Ecartement nominal de la voie </td><td>4.2.4.1</td><td>A single value which identifies the track gauge but may differ from the design track gauge.</td></tr>
+<tr><td>Normal service/ Regelbetrieb/  Service régulier </td><td>4.2.2.2 4.2.9 </td><td>The railway operating to a planned timetable service.</td></tr>
+<tr><td>Passive provision/ Vorsorge für künftige Erweiterungen/Réservation pour extension future </td><td>4.2.9</td><td>Provision for the future construction of a physical extension to a structure (for example: increased platform length).</td></tr>
+<tr><td>Performance Parameter/ Leistungskennwert/  Paramètre de performance </td><td>4.2.1</td><td>Parameter describing a TSI Category of Line used as the basis for the design of infrastructure subsystem elements and as the indication of the performance level of a line.</td></tr>
+<tr><td>Plain line/ Freie Strecke/  Voie courante </td><td>4.2.4.5 4.2.4.6  4.2.4.7 </td><td>Section of track without switches and crossings.</td></tr>
+<tr><td>Point retraction/ Spitzenbeihobelung/  Dénivelation de la pointe de cœur </td><td>4.2.8.6</td><td>The reference line in a fixed common crossing can deviate from the theoretical reference line. From a certain distance to the crossing point, the reference line of the vee can, depending on the design, be retracted from this theoretical line away from the wheel flange in order to avoid contact between both elements. This situation is described in Figure 2.</td></tr>
+<tr><td>Rail inclination/Schienenneigung/ Inclinaison du rail </td><td>4.2.4.5 4.2.4.7 </td><td>An angle defining the inclination of the head of a rail when installed in the track relative to the plane of the rails (running surface), equal to the angle between the axis of symmetry of the rail (or of an equivalent symmetrical rail having the same rail head profile) and the perpendicular to the plane of the rails.</td></tr>
+<tr><td>Rail pad/ Schienenzwischenlage/  Semelle sous rail </td><td>5.3.2</td><td>A resilient layer fitted between a rail and the supporting sleeper or baseplate.</td></tr>
+<tr><td>Reverse curve/ Gegenbogen/  Courbes et contre-courbes </td><td>4.2.3.4</td><td>Two abutting curves of opposite flexure or hand</td></tr>
+<tr><td>Structure gauge/ Lichtraum/  Gabarit des obstacles </td><td>4.2.3.1</td><td>Defines the space in relation to the reference track that shall be cleared of all objects or structures and of the traffic on the adjacent tracks, in order to allow safe operation on the reference track. It is defined on the basis of the reference contour by application of the associated rules.</td></tr>
+<tr><td>Swing nose</td><td>4.2.5.2</td><td>Within the domain of ‘common crossing with movable point’, the term ‘swing nose’ identifies the part of the crossing which forms the vee and that it is moved to form a continuous running edge for either the main or the branch line.</td></tr>
+<tr><td>Switch/ Zungenvorrichtung/  Aiguillage </td><td>4.2.8.6</td><td>A unit of track comprising two fixed rails (stock rails) and two movable rails (switch rails) used to direct vehicles from one track to another track.</td></tr>
+<tr><td>Switches and crossings/ Weichen und Kreuzungen/  Appareil de voie </td><td>4.2.4.5, 4.2.4.7, 4.2.5, 4.2.6, 4.2.8.6, 5.2, 6.2.4.4, 6.2.4.8, 6.2.5.2, 7.3.3, Appendix C and D,</td><td>Track constructed from sets of switches and individual crossings and the rails connecting them.</td></tr>
+<tr><td>Through route/ Stammgleis/  Voie directe </td><td>Appendix D</td><td>In the context of switches and crossings a route which perpetuate the general alignment of the track.</td></tr>
+<tr><td>Track design</td><td>4.2.6, 6.2.5, Appendix C and D </td><td>The track design consists of cross-section defining basic dimensions and track components (for example rail, rail fastenings, sleepers, ballast) used together with operating conditions with an impact on forces related to 4.2.6, such as axle load, speed and radius of horizontal curvature.</td></tr>
+<tr><td>Track gauge/ Spurweite/  Ecartement de la voie </td><td>4.2.4.1, 4.2.4.5, 4.2.8.4, 5.3.3, 6.1.5.2, 6.2.4.3, Appendix H</td><td>The smallest distance between lines perpendicular to the running surface intersecting each rail head profile in a range from 0 to 14 mm below the running surface.</td></tr>
+<tr><td>Track twist/ Gleisverwindung/  Gauche </td><td>4.2.7.1.6 4.2.8.3, 6.2.4.9, </td><td>Track twist is defined as the algebraic difference between two cross levels taken at a defined distance apart, usually expressed as a gradient between the two points at which the cross level is measured.</td></tr>
+<tr><td>Train length/ Zuglänge/  Longueur du train </td><td>4.2.1</td><td>The length of a train, which can run on a certain line in normal operation.</td></tr>
+<tr><td>Unguided length of an obtuse crossing/ Führungslose Stelle/  Lacune dans la traversée </td><td>4.2.5.3, Appendix J</td><td> Portion of obtuse crossing where there is no guidance of the wheel described as ‘unguided length’ in the specification referenced in Appendix T, Index [17].  </td></tr>
+<tr><td>Usable length of a platform/Bahnsteignutzlänge/ Longueur utile de quai </td><td>4.2.1, 4.2.9.1</td><td>The maximum continuous length of that part of platform in front of which a train is intended to remain stationary in normal operating conditions for passengers to board and alight from the train, making appropriate allowance for stopping tolerances. Normal operating conditions means that railway is operating in a non-degraded mode (e.g. rail adhesion is normal, signals are working, everything is working as planned). </td></tr>
+</tbody>
+</table>
+
+**Figure 14**
+
+**Geometry of switches and crossings**
+
+(1) 1 Free wheel passage in switches
+
+(2) Fixed nose protection
+
+(3) Free wheel passage at crossing nose
+
+(4) Free wheel passage at check rail/wing rail entry
+
+(5) Flangeway width
+
+(6) Flangeway depth
+
+(7) Height of check rail
+
+## Appendix T — Technical specifications referenced in this TSI
+
+**Table 49**
+
+**Referenced standards**
+
+<table>
+<tbody><tr><td>Index</td><td>Characteristics to be assessed</td><td>TSI point</td><td>Mandatory standard point</td></tr>
+<tr><td>[1]</td><td colspan="3">EN 15663:2017+A1:2018 Railway applications – Vehicle reference masses </td></tr>
+<tr><td>[1.1]</td><td>Mass definition of rolling stock</td><td>4.2.1(7), Table 2 Appendix K </td><td>4.5</td></tr>
+<tr><td>[1.2]</td><td>Mass definition of rolling stock</td><td>4.2.1(7), Table 3</td><td>4.5 and 7.4</td></tr>
+<tr><td>[1.3]</td><td>Passenger payload for high speed and long distance trains</td><td>Appendix K, Table 45</td><td>Table 7</td></tr>
+<tr><td>[1.4]</td><td>Passenger payload for other trains</td><td>Appendix K, Table 45</td><td>Table 8</td></tr>
+<tr><td>[2]</td><td colspan="3">EN 15528:2021 Railway applications – Line categories for managing the interface between load limits of vehicles and infrastructure </td></tr>
+<tr><td>[2.1]</td><td>Mass definition of rolling stock</td><td>4.2.1(7), Table 2 Appendix K </td><td>6.4</td></tr>
+<tr><td>[2.2]</td><td>Capability requirements for existing structures in accordance with traffic code</td><td>Appendix E</td><td>Annex A</td></tr>
+<tr><td>[2.3]</td><td>Line categories</td><td>Appendix E, Table 38A (note (9))</td><td>  </td></tr>
+<tr><td>[2.4]</td><td>Definition of line category</td><td>Appendix S</td><td>5</td></tr>
+<tr><td>[3]</td><td colspan="3">EN 15273-3:2013+A1:2016 Railway applications – Gauges – Part 3: structure gauges </td></tr>
+<tr><td>[3.1]</td><td>Structure gauge</td><td>4.2.3.1(1)</td><td>Annex C and in Annex D, point D.4.8</td></tr>
+<tr><td>[3.2]</td><td>Structure gauge</td><td>4.2.3.1(2)</td><td>Annex C</td></tr>
+<tr><td>[3.3]</td><td>Structure gauge Assessment </td><td>4.2.3.1(3) 6.2.4.1 </td><td>5, 7, 10 Annex C and in Annex D, point D.4.8 </td></tr>
+<tr><td>[3.4]</td><td>Distance between track centres Assessment </td><td>4.2.3.2(3) 6.2.4.2 </td><td>9</td></tr>
+<tr><td>[3.5]</td><td>Platform offset Assessment </td><td>4.2.9.3(1) 6.2.4.11(1) </td><td>13</td></tr>
+<tr><td>[3.6]</td><td>Calculation of the structure gauge for the lower parts for the 1 668 mm track gauge</td><td>Appendix P</td><td>5, 7 and 10</td></tr>
+<tr><td>[4]</td><td colspan="3">EN 13803:2017 Railway applications – Track – Track alignment design parameters – Track gauges 1 435 mm and wider </td></tr>
+<tr><td>[4.1]</td><td>Minimum radius of horizontal curve Definition of reference vehicle </td><td>4.2.3.4(2)</td><td>Tables N.1 and N.2 N.2 </td></tr>
+<tr><td>[4.2]</td><td>Upgrading or renewal of the infrastructure, for parameters cant and cant deficiency</td><td>7.3.2</td><td>6.2 (Table 5) and 6.3 (table 7 for non-tilting trains) (see also corresponding notes in both chapters). </td></tr>
+<tr><td>[5]</td><td colspan="3">EN 15302:2021 Railway applications - Wheel-rail contact geometry parameters - Definitions and methods for evaluation </td></tr>
+<tr><td>[5.1]</td><td>Equivalent conicity</td><td>4.2.4.5(4)</td><td>6, 8, 9, 12</td></tr>
+<tr><td>[5.2]</td><td>Assessment</td><td>6.2.4.6</td><td>6, 8, 9, 12</td></tr>
+<tr><td>[6]</td><td colspan="3">EN 13715:2020 Railway applications – Wheelsets and bogies – Wheels – Tread profile </td></tr>
+<tr><td>[6.1]</td><td>Equivalent conicity</td><td>4.2.4.5(4)(a) and (b)</td><td>Annex C</td></tr>
+<tr><td>[6.2]</td><td>Equivalent conicity</td><td>4.2.4.5(4)(c) and (d)</td><td>Annex B</td></tr>
+<tr><td>[7]</td><td colspan="3">EN 13674-1:2011+A1:2017 Railway applications – Track – Rail – Part 1: Vignole railway rails 46 kg/m and above </td></tr>
+<tr><td>[7.1]</td><td>Railhead profile for plain line</td><td>4.2.4.6(1)</td><td>Annex A</td></tr>
+<tr><td>[7.2]</td><td>Assessment of rails</td><td>6.1.5.1(a)</td><td>9.1.8</td></tr>
+<tr><td>[7.3]</td><td>Assessment of rails</td><td>6.1.5.1(b)</td><td>9.1.9</td></tr>
+<tr><td>[7.4]</td><td>Assessment of rails</td><td>6.1.5.1(c)</td><td>8.1 and 8.4</td></tr>
+<tr><td>[8]</td><td colspan="3">EN 13674-4:2006+A1:2009 Railway applications – Track – Rail – Part 4: Vignole railway rails from 27 kg/m to, but excluding 46 kg/m </td></tr>
+<tr><td>[8.1]</td><td>Railhead profile for plain line</td><td>4.2.4.6(1)</td><td>Annex A</td></tr>
+<tr><td>[9]</td><td colspan="3">EN 14363:2016+A2:2022 Railway applications – Testing and Simulation for the acceptance of running characteristics of railway vehicles – Running Behaviour and stationary tests </td></tr>
+<tr><td>[9.1]</td><td>Track resistance to vertical loads Lateral track resistance </td><td>4.2.6.1(b) and (c) 4.2.6.3(b) </td><td>7.5.3</td></tr>
+<tr><td>[9.2]</td><td>Lateral track resistance</td><td>4.2.6.3(a)</td><td>7.5.2 and Table 4</td></tr>
+<tr><td>[10]</td><td colspan="3">EN 1991-2:2003/AC:2010 Eurocode 1: Actions on structures – Part 2 : Traffic loads on bridges </td></tr>
+<tr><td>[10.1]</td><td>Structures resistance to traffic loads</td><td>4.2.7</td><td>  </td></tr>
+<tr><td rowspan="3">[10.2]</td><td>Resistance of new bridges to traffic loads: Vertical loads </td><td>4.2.7.1.1(1)(a)</td><td rowspan="3">6.3.2 (2)P (1)</td></tr>
+<tr><td>Equivalent vertical loading for new geotechnical structures, earthworks and earth pressure effects</td><td>4.2.7.2(1)</td></tr>
+<tr><td>Capability requirements for existing structures in accordance with traffic code</td><td>Appendix E – Load Model 71</td></tr>
+<tr><td rowspan="2">[10.3]</td><td>Resistance of new bridges to traffic loads: Vertical loads </td><td>4.2.7.1.1(1)(b)</td><td rowspan="2">6.3.3 (3)P</td></tr>
+<tr><td>Capability requirements for existing structures in accordance with traffic code</td><td>Appendix E – Load model SW/0</td></tr>
+<tr><td rowspan="2">[10.4]</td><td>Resistance of new bridges to traffic loads: Vertical loads </td><td>4.2.7.1.1(2)</td><td rowspan="2">6.3.2 (3)P and 6.3.3 (5)P</td></tr>
+<tr><td>Equivalent vertical loading for new geotechnical structures, earthworks and earth pressure effects</td><td>4.2.7.2(2)</td></tr>
+<tr><td>[10.5]</td><td>Allowance for dynamic effects of vertical loads</td><td>4.2.7.1.2(1)</td><td>6.4.3 (1)P and 6.4.5.2 (2)</td></tr>
+<tr><td>[10.6]</td><td>Allowance for dynamic effects of vertical loads</td><td>4.2.7.1.2(2)</td><td>6.4.4</td></tr>
+<tr><td rowspan="2">[10.7]</td><td>Allowance for dynamic effects of vertical loads</td><td>4.2.7.1.2(2)</td><td rowspan="2">6.4.6.1.1 (3) to (6)</td></tr>
+<tr><td>Capability requirements for existing structures in accordance with traffic code</td><td>Appendix E – Load model HSLM</td></tr>
+<tr><td>[10.8]</td><td>Centrifugal forces</td><td>4.2.7.1.3</td><td>6.5.1 (2), (4)P and (7)</td></tr>
+<tr><td>[10.9]</td><td>Nosing forces</td><td>4.2.7.1.4</td><td>6.5.2</td></tr>
+<tr><td>[10.10]</td><td>Actions due to traction and braking (longitudinal loads)</td><td>4.2.7.1.5</td><td>6.5.3 (2)P, (4), (5), (6).and (7)P</td></tr>
+<tr><td>[10.11]</td><td>Resistance of new structures over or adjacent to tracks</td><td>4.2.7.3</td><td>6.6.2 to 6.6.6</td></tr>
+<tr><td>[11]</td><td colspan="3">Annex A2 to EN 1990:2002 issued as EN 1990:2002/A1:2005 Eurocode – Basis of structural design </td></tr>
+<tr><td>[11.1]</td><td>Structures resistance to traffic loads</td><td>4.2.7</td><td>  </td></tr>
+<tr><td>[11.2]</td><td>Design track twist due to rail traffic actions</td><td>4.2.7.1.6</td><td>A2.4.4.2.2(3)P</td></tr>
+<tr><td>[12]</td><td colspan="3">EN 13848-5:2017 Railway applications – Track – Track geometry quality – Part 5: Geometric quality levels – Plain line, switches and crossings </td></tr>
+<tr><td>[12.1]</td><td>The immediate action limit for alignment</td><td>4.2.8.1(1)</td><td>7.5 Limits of wavelength range D1 set out in table 5 </td></tr>
+<tr><td>[12.2]</td><td>The immediate action limit for longitudinal level</td><td>4.2.8.2(1)</td><td>7.3 Limits of wavelength range D1 set out in table 4 </td></tr>
+<tr><td>[12.3]</td><td>The immediate action limit for track twist</td><td>4.2.8.3(2)</td><td>7.6</td></tr>
+<tr><td>[12.4]</td><td>The immediate action limit for track twist - 1 668 mm track gauge system</td><td>4.2.8.3(6)</td><td>Annex C</td></tr>
+<tr><td>[13]</td><td colspan="3">EN 13848-1:2019 Railway applications – Track – Track geometry quality – Part 1: Characterization of track geometry </td></tr>
+<tr><td>[13.1]</td><td>The immediate action limit for track twist</td><td>4.2.8.3(1)</td><td>6.5</td></tr>
+<tr><td>[14]</td><td colspan="3">EN 14067-5:2021/AC:2023 Railway applications – Aerodynamics – Part 5: Requirements and test procedures for aerodynamics in tunnels </td></tr>
+<tr><td>[14.1]</td><td>Criterium for new tunnels</td><td>4.2.10.1(1)</td><td>6.1.3 Table 10</td></tr>
+<tr><td>[14.2]</td><td>Criterium for existing tunnels</td><td>4.2.10.1(3)</td><td>6.1.4</td></tr>
+<tr><td>[14.3]</td><td>Assessment procedure</td><td>6.2.4.12(1)</td><td>6.1, 7.4</td></tr>
+<tr><td>[14.4]</td><td>Reference cross section</td><td>6.2.4.12(3)</td><td>6.1.2.1</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>[15]</td><td colspan="3">EN 13145:2001 Railway applications – Track – Wood sleepers and bearers </td></tr>
+<tr><td>[15.1]</td><td>Resistance to vertical loads</td><td>Appendix C.1, point (c) Appendix C.2, point (c) </td><td>  </td></tr>
+<tr><td>[16]</td><td colspan="3">EN ISO 6506-1:2014 Metallic materials – Brinell hardness test. Test method. </td></tr>
+<tr><td>[16.1]</td><td>Definition of steel hardness</td><td>Appendix S</td><td>  </td></tr>
+<tr><td>[17]</td><td colspan="3">EN 13232-3:2003 Railway applications – Track – Switches and crossings – Part 3: Requirements for wheel/rail interaction </td></tr>
+<tr><td>[17.1]</td><td>Definition of the ‘unguided length of an obtuse crossing’</td><td>Appendix S</td><td>4.2.5</td></tr>
+<tr><td colspan="4">(1)  If agreed by the NSA, it is permitted to design geotechnical structures, earthworks and calculate earth pressure effects using line loads or point loads, where their load effects correspond to the Load Model 71 with factor α. </td></tr>
+</tbody>
+</table>
+
+**Table 50**
+
+**Technical Documents (available on ERA website)**
+
+<table>
+<tbody><tr><td>Index</td><td>Characteristics to be assessed</td><td>TSI Point</td><td>Mandatory technical document point</td></tr>
+<tr><td>[A]</td><td colspan="3">ERA Technical Document on codification of combined transport ERA/TD/2023-01/CCT version 1.1 (realased on 2023-03-21) </td></tr>
+<tr><td>[A.1]</td><td>Codification of lines</td><td>2.6</td><td>2.1</td></tr>
+</tbody>
+</table>
+
+( 1 ) Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union (OJ L 138, 26.5.2016, p. 44).
+
+( 2 ) Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety (OJ L 138, 26.5.2016, p. 102).
+
+( 3 ) Commission Decision 2010/713/EU of 9 November 2010 on modules for the procedures for assessment of conformity, suitability for use and EC verification to be used in the technical specifications for interoperability adopted under Directive 2008/57/EC of the European Parliament and of the Council (OJ L 319, 4.12.2010, p. 1.)
+
+( 4 ) Commission Implementing Regulation (EU) 2019/773 of 16 May 2019 on the technical specification for interoperability relating to the operation and traffic management subsystem of the rail system within the European Union and repealing Decision 2012/757/EU (OJ L 139 I, 27.5.2019, p. 5).
+
+( 5 ) Commission Implementing Regulation (EU) 2019/777 of 16 May 2019 on the common specifications for the register of railway infrastructure and repealing Implementing Decision 2014/880/EU (OJ L 139 I, 27.5.2019, p. 312).
+
+( 6 ) Commission Regulation (EU) No 1302/2014 of 18 November 2014 concerning a technical specification for interoperability relating to the rolling stock — locomotives and passenger rolling stock subsystem of the rail system in the European Union, (OJ L 356 12.12.2014, p. 228).
+
+( 7 ) Directive (EU) 2020/2184 of the European Parliament and of the Council of 16 December 2020 on the quality of water intended for human consumption (OJ L 435, 23.12.2020, p. 1).
+
+( 8 ) Commission Implementing Regulation (EU) 2019/250 of 12 February 2019 on the templates for ‘EC’ declarations and certificates for railway interoperability constituents and subsystems, on the model of declaration of conformity to an authorised railway vehicle type and on the ‘EC’ verification procedures for subsystems in accordance with Directive (EU) 2016/797 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 201/2011 (OJ L 42, 13.2.2019, p. 9).
+
+( 9 ) Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union (OJ L 138, 26.5.2016, p. 44).
+
+( 10 ) Commission Implementing Regulation (EU) 2019/250 of 12 February 2019 on the templates for ‘EC’ declarations and certificates for railway interoperability constituents and subsystems, on the model of declaration of conformity to an authorised railway vehicle type and on the ‘EC’ verification procedures for subsystems in accordance with Directive (EU) 2016/797 of the European Parliament and of the Council and repealing Commission Regulation (EU) No 201/2011 (OJ L 42, 13.2.2019, p. 9).
+
+( 11 ) Commission Recommendation 2014/881/EU of 18 November 2014 on the procedure for demonstrating the level of compliance of existing railway lines with the basic parameters of the technical specifications for interoperability (OJ L 356, 12.12.2014, p. 520).
+
+( 12 ) Decision No 1692/96/EC of the European Parliament and of the Council of 23 July 1996 on Community guidelines for the development of the trans-European transport network (OJ L 228, 9.9.1996, p. 1), as amended by Decision No 884/2004/EC (OJ L 167, 30.4.2004, p. 1).
+
+( 13 ) For local allowed speeds up to 100km/h the minimum required loading capability is D2 at the local allowed speed. For local allowed speeds exceeding 100km/h the minimum required loading capability is D2 at 100km/h.
+
+( 14 ) For local allowed speeds up to 200km/h the minimum required loading capability is D2 at the local allowed speed.
+
+( 15 ) The indicated speed value in the table represents the maximum requirement for the line and may be lower in accordance with the requirements in point 4.2.1(12). When checking individual structures on the line, it is acceptable to take account of the type of vehicle and local allowed speed.
+
+( 16 ) Passenger Carriages (including Coaches, Vans, Car Carriers), Other Vehicles, Locomotives, Power Heads, Diesel and Electric Multiple Units, Power Units and Railcars are defined in the LOC & PAS TSI. Light Freight Wagons are defined as vans except that they are allowed to be conveyed in formations which are not intended to convey passengers.
+
+( 17 ) The requirements for structures are compatible with Passenger Coaches, Vans, Car Carriers, Light Freight Wagons and vehicles in Diesel and Electric Multiple Units and Power Units with a length of; 18 m to 27,5 m for conventional and articulated vehicles and with a length of 9 m to 14 m for regular single axles.
+
+( 18 ) The requirements for structures are compatible with up to two adjacent coupled locomotives and/or power heads. The requirements for structures are compatible up to a maximum speed of 75 mph for up to five adjacent coupled locomotives and/or power heads (or a train of locomotives and/or power heads) subject to the locomotives and/or power heads satisfying the corresponding limits for freight wagons.
+
+( 19 ) When checking the compatibility of individual trains and structures, the basis of the compatibility check shall be in accordance with Appendix K except where modified by the national technical rules notified for this purpose.
+
+( 20 ) The requirements for structures are compatible with an average mass per unit length over the length of each coach/vehicle of 3,0 t/m
+
+( 21 ) Only 4 axle vehicles allowed. The spacing of the axles in a bogie shall be at least 2,6 m. The average mass per unit length over the length of the vehicle shall not exceed 4,6 t/m.
+
+( 22 ) 4 or 6 axle vehicles allowed.
+
+( 23 ) Powerhead, only 4 axle vehicles allowed. Also includes locomotives where difference in length between locomotive and hauled vehicles is less than 15 % of length of hauled vehicles for speeds over 90 mph.
+
+( 24 ) For traffic code P5 the Member State may indicate whether the requirements for locomotives and power heads apply.
+
+( 25 ) Taking into account the state of art of operation there is no need to define harmonized requirements to deliver an adequate level of interoperability for this type of vehicles for P1 and P2 traffic codes.

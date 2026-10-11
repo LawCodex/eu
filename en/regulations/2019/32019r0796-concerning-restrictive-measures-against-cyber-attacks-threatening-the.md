@@ -1,0 +1,552 @@
+---
+title: "Council Regulation (EU) 2019/796 of 17 May 2019 concerning restrictive measures against cyber-attacks threatening the Union or its Member States"
+identifier: "32019R0796"
+eli: "http://data.europa.eu/eli/reg/2019/796/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-05-17
+entry_into_force: 2019-05-18
+last_amended: 2026-07-13
+consolidated_version: "02019R0796-20260713"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0796-20260713"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2019/796 of 17 May 2019 concerning restrictive measures against cyber-attacks threatening the Union or its Member States
+
+**COUNCIL REGULATION (EU) 2019/796**
+
+**of 17 May 2019**
+
+**concerning restrictive measures against cyber-attacks threatening the Union or its Member States**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1125 of 30 July 2020 </td><td> L 246</td><td>4</td><td>30.7.2020</td></tr>
+<tr><td> M2</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1536 of 22 October 2020 </td><td> L 351I</td><td>1</td><td>22.10.2020</td></tr>
+<tr><td> M3</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1744 of 20 November 2020 </td><td> L 393</td><td>1</td><td>23.11.2020</td></tr>
+<tr><td> M4</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/2694 of 27 November 2023 </td><td> L 2694</td><td>1</td><td>28.11.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1390 of 17 May 2024 </td><td> L 1390</td><td>1</td><td>17.5.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1778 of 24 June 2024 </td><td> L 1778</td><td>1</td><td>24.6.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/173 of 27 January 2025 </td><td> L 173</td><td>1</td><td>27.1.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/886 of 12 May 2025 </td><td> L 886</td><td>1</td><td>13.5.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/589 of 16 March 2026 </td><td> L 589</td><td>1</td><td>16.3.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1078 of 11 May 2026 </td><td> L 1078</td><td>1</td><td>12.5.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1714 of 13 July 2026 </td><td> L 1714</td><td>1</td><td>13.7.2026</td></tr>
+</table>
+
+**COUNCIL REGULATION (EU) 2019/796**
+
+**of 17 May 2019**
+
+**concerning restrictive measures against cyber-attacks threatening the Union or its Member States**
+
+## Article 1
+
+1\. This Regulation applies to cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Union or its Member States.
+
+2\. Cyber-attacks constituting an external threat include those which:
+
+(a) originate, or are carried out, from outside the Union;
+
+(b) use infrastructure outside the Union;
+
+(c) are carried out by any natural or legal person, entity or body established or operating outside the Union; or
+
+(d) are carried out with the support, at the direction or under the control of any natural or legal person, entity or body operating outside the Union.
+
+3\. For this purpose, cyber-attacks are actions involving any of the following:
+
+(a) access to information systems;
+
+(b) information system interference;
+
+(c) data interference; or
+
+(d) data interception,
+
+where such actions are not duly authorised by the owner or by another right holder of the system or data or part of it, or are not permitted under the law of the Union or of the Member State concerned.
+
+4\. Cyber-attacks constituting a threat to Member States include those affecting information systems relating to, inter alia:
+
+(a) critical infrastructure, including submarine cables and objects launched into outer space, which is essential for the maintenance of vital functions of society, or the health, safety, security, and economic or social well-being of people;
+
+(b) services necessary for the maintenance of essential social and/or economic activities, in particular in the sectors of: energy (electricity, oil and gas); transport (air, rail, water and road); banking; financial market infrastructures; health (healthcare providers, hospitals and private clinics); drinking water supply and distribution; digital infrastructure; and any other sector which is essential to the Member State concerned;
+
+(c) critical State functions, in particular in the areas of defence, governance and the functioning of institutions, including for public elections or the voting process, the functioning of economic and civil infrastructure, internal security, and external relations, including through diplomatic missions;
+
+(d) the storage or processing of classified information; or
+
+(e) government emergency response teams.
+
+5\. Cyber-attacks constituting a threat to the Union include those carried out against its institutions, bodies, offices and agencies, its delegations to third countries or to international organisations, its common security and defence policy (CSDP) operations and missions and its special representatives.
+
+6\. Where deemed necessary to achieve common foreign and security policy (CFSP) objectives in the relevant provisions of Article 21 of the Treaty on European Union, restrictive measures under this Regulation may also be applied in response to cyber-attacks with a significant effect against third States or international organisations.
+
+7\. For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘information systems’ means a device or group of interconnected or related devices, one or more of which, pursuant to a programme, automatically processes digital data, as well as digital data stored, processed, retrieved or transmitted by that device or group of devices for the purposes of its or their operation, use, protection and maintenance;
+
+(b) ‘information system interference’ means hindering or interrupting the functioning of an information system by inputting digital data, by transmitting, damaging, deleting, deteriorating, altering or suppressing such data, or by rendering such data inaccessible;
+
+(c) ‘data interference’ means deleting, damaging, deteriorating, altering or suppressing digital data on an information system, or rendering such data inaccessible; it also includes theft of data, funds, economic resources or intellectual property;
+
+(d) ‘data interception’ means intercepting, by technical means, non-public transmissions of digital data to, from or within an information system, including electromagnetic emissions from an information system carrying such digital data.
+
+8\. For the purposes of this Regulation, the following additional definitions apply:
+
+(a) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and includes in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(b) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose, ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(c) ‘competent authorities’ refers to the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(d) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds, but may be used to obtain funds, goods or services;
+
+(e) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(f) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character or destination or any other change that would enable the funds to be used, including portfolio management;
+
+(g) ‘funds’ means financial assets and benefit of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly-and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading and bills of sale; and
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(h) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace.
+
+## Article 2
+
+The factors determining whether a cyber-attack has a significant effect as referred to in Article 1(1) include any of the following:
+
+(a) the scope, scale, impact or severity of disruption caused, including to economic and societal activities, essential services, critical State functions, public order or public safety;
+
+(b) the number of natural or legal persons, entities or bodies affected;
+
+(c) the number of Member States concerned;
+
+(d) the amount of economic loss caused, such as through large-scale theft of funds, economic resources or intellectual property;
+
+(e) the economic benefit gained by the perpetrator, for himself or for others;
+
+(f) the amount or nature of data stolen or the scale of data breaches; or
+
+(g) the nature of commercially sensitive data accessed.
+
+## Article 3
+
+1\. All funds and economic resources belonging to, owned, held or controlled by any natural or legal person, entity or body listed in Annex I shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in Annex I.
+
+3\. Annex I shall include, as identified by the Council in accordance with Article 5(1) of Decision (CFSP) 2019/797:
+
+(a) natural or legal persons, entities or bodies who are responsible for cyber-attacks or attempted cyber-attacks;
+
+(b) natural persons or legal persons, entities or bodies that provide financial, technical or material support for or are otherwise involved in cyber-attacks or attempted cyber-attacks, including by planning, preparing, participating in, directing, assisting or encouraging such attacks, or facilitating them whether by action or omission;
+
+(c) natural or legal persons, entities or bodies associated with the natural or legal persons, entities or bodies covered by points (a) and (b) of this paragraph.
+
+## Article 4
+
+1\. By way of derogation from Article 3, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of the natural or legal persons, entities or bodies listed in Annex I  and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees or the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+
+(d) necessary for extraordinary expenses, provided that the relevant competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
+
+(e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 4a
+
+1\. Article 3(1) and (2) shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations (UN), including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the UN General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the UN Humanitarian Response Plans, UN Refugee Response Plans, other UN appeals or humanitarian clusters coordinated by the UN Office for the Coordination of Humanitarian Affairs;
+
+(e) organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognised by a Member State in accordance with national procedures;
+
+(f) Member States’ specialised agencies; or
+
+(g) the employees, grantees, subsidiaries or implementing partners of the entities referred to in points (a) to (f) while and to the extent that they are acting in those capacities.
+
+2\. Without prejudice to paragraph 1, and by way of derogation from Article 3(1) and (2), the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the provision of such funds or economic resources is necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs.
+
+3\. In the absence of a negative decision, a request for information or a notification for additional time from the relevant competent authority within five working days of the date of receipt of a request for authorisation under paragraph 2, that authorisation shall be considered granted.
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under paragraphs 2 and 3 within four weeks of such authorisation.
+
+## Article 5
+
+1\. By way of derogation from Article 3(1), the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources provided that the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 3 was listed in Annex I, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I; and
+
+(d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 6
+
+1\. By way of derogation from Article 3(1) and provided that a payment by a natural or legal person, entity or body listed in Annex I is due under a contract or agreement that was concluded by, or an obligation that arose for, the natural or legal person, entity or body concerned before the date on which that natural or legal person, entity or body was included in Annex I, the competent authorities of the Member States may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources will be used for a payment by a natural or legal person, entity or body listed in Annex I; and
+
+(b) the payment is not in breach of Article 3(2).
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 7
+
+1\. Article 3(2) shall not prevent the crediting of frozen accounts by financial or credit institutions that receive funds transferred by third parties onto the account of a listed natural or legal person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the relevant competent authority about any such transaction without delay.
+
+2\. Article 3(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose before the date on which the natural or legal person, entity or body referred to in Article 3(1) was included in Annex I; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in a Member State or enforceable in the Member State concerned,
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in Article 3(1).
+
+## Article 8
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as information on accounts and amounts frozen in accordance with Article 3(1), to the competent authority of the Member State where they are resident or located, and transmit such information, directly or through the Member State, to the Commission; and
+
+(b) cooperate with the competent authority in any verification of the information referred to in point (a).
+
+2\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+3\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 9
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Article 3.
+
+## Article 10
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 11
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, in particular a claim for extension or payment of a bond, guarantee or indemnity, in particular a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in Annex I;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the natural or legal persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 12
+
+1\. The Commission and Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information in respect of:
+
+(a) funds frozen under Article 3 and authorisations granted under Articles 4, 5 and 6;
+
+(b) violation and enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 13
+
+1\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 3, it shall amend Annex I accordingly.
+
+2\. The Council shall communicate the decision referred to in paragraph 1, including the grounds for listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body with an opportunity to present observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision referred to in paragraph 1 and inform the natural or legal person, entity or body concerned accordingly.
+
+4\. The list in Annex I shall be reviewed at regular intervals and at least every 12 months.
+
+5\. The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 14
+
+1\. Annex I shall include the grounds for the listing of natural or legal persons, entities or bodies concerned.
+
+2\. Annex I shall contain, where available, the information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include: names and aliases; date and place of birth; nationality; passport and identity card numbers; gender; address, if known; and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 15
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive.
+
+2\. Member States shall notify the Commission of the rules referred to in paragraph 1 without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 16
+
+1\. The Commission shall process personal data in order to carry out its tasks under this Regulation. These tasks include:
+
+(a) adding the contents of Annex I to the electronic, consolidated list of persons, groups and entities subject to Union financial sanctions and to the interactive sanctions map, both publicly available;
+
+(b) processing information on the impact of the measures of this Regulation such as the value of frozen funds and information on authorisations granted by the competent authorities.
+
+2\. For the purposes of this Regulation, the Commission service listed in Annex II is designated as ‘controller’ for the Commission within the meaning of Article 3(8) of Regulation (EU) 2018/1725, in order to ensure that the natural persons concerned can exercise their rights under that Regulation.
+
+## Article 17
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex II.
+
+2\. Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 18
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or vessel under the jurisdiction of a Member State;
+
+(c) to any natural person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 19
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**List of natural and legal persons, entities and bodies referred to in Article 3**
+
+**A. Natural persons**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>1.</td><td>GAO Qiang</td><td>Date of birth: 4 October 1983 Place of birth: Shandong Province, China  Address: Room 1102, Guanfu Mansion, 46 Xinkai Road, Hedong District, Tianjin, China  Nationality: Chinese  Gender: male </td><td>Gao Qiang is linked to the ‘APT10’ (‘Advanced Persistent Threat 10’) umbrella (a.k.a. ‘Red Apollo’, ‘CVNX’, ‘Stone Panda’, ‘MenuPass’ and ‘Potassium’), and has been involved in ‘Operation Cloud Hopper’, a series of cyber-attacks with a significant effect originating from outside the Union and constituting an external threat to the Union or its Member States and of cyber-attacks with a significant effect against third States. ‘Operation Cloud Hopper’ has targeted information systems of multinational companies in six continents, including companies located in the Union, and gained unauthorised access to commercially sensitive data, resulting in significant economic loss.  Gao Qiang is associated with APT10 command and control infrastructure. Moreover, Huaying Haitai, a company used by APT10, and designated for providing support to and facilitating ‘Operation Cloud Hopper’, employed Gao Qiang. He is also associated with Zhang Shilong, who is linked to APT10 and who has also been employed by Huaying Haitai. </td><td>30.7.2020</td></tr>
+<tr><td>2.</td><td>ZHANG Shilong</td><td>Date of birth: 10 September 1981 Place of birth: China  Address: Hedong, Yuyang Road No 121, Tianjin, China  Nationality: Chinese  Gender: male </td><td>Zhang Shilong is linked to the ‘APT10’ (‘Advanced Persistent Threat 10’) umbrella (a.k.a. ‘Red Apollo’, ‘CVNX’, ‘Stone Panda’, ‘MenuPass’ and ‘Potassium’), and has been involved in ‘Operation Cloud Hopper’, a series of cyber-attacks with a significant effect originating from outside the Union and constituting an external threat to the Union or its Member States and of cyber-attacks with a significant effect against third States. ‘Operation Cloud Hopper’ has targeted information systems of multinational companies in six continents, including companies located in the Union, and gained unauthorised access to commercially sensitive data, resulting in significant economic loss.  Zhang Shilong is associated with APT10, including through the malware he developed and tested in connection with the cyber-attacks carried out by APT10.  Moreover, Huaying Haitai, a company used by APT10, and designated for providing support to and facilitating ‘Operation Cloud Hopper’, employed Zhang Shilong.  He is associated with Gao Qiang, who is linked to APT10 and who has also been employed by Huaying Haitai. </td><td>30.7.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>3.</td><td>Alexey Valeryevich MININ</td><td>Алексей Валерьевич МИНИН Date of birth: 27.5.1972  Place of birth: Perm Oblast, Russian SFSR (now Russian Federation)  Passport number: 120017582  Issued by: Ministry of Foreign Affairs of the Russian Federation  Validity: from 17.4.2017 until 17.4.2022  Location: Moscow, Russian Federation  Nationality: Russian  Gender: male </td><td>Alexey Minin took part in an attempted cyber-attack with a potentially significant effect against the Organisation for the Prohibition of Chemical Weapons (OPCW) in the Netherlands and in cyber-attacks with a significant effect against third States. As a human intelligence support officer of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU), Alexey Minin was part of a team of four Russian military intelligence officers who attempted to gain unauthorised access to the Wi-Fi network of the OPCW in The Hague, the Netherlands, in April 2018. The attempted cyber-attack was aimed at hacking into the Wi-Fi network of the OPCW, which, if successful, would have compromised the security of the network and the OPCW’s ongoing investigatory work. The Netherlands Defence Intelligence and Security Service (Militaire Inlichtingen- en Veiligheidsdienst) disrupted the attempted cyber-attack, thereby preventing serious damage to the OPCW.  A grand jury in the Western District of Pennsylvania (United States of America) has indicted Alexey Minin, as an officer of the GRU, for computer hacking, wire fraud, aggravated identity theft and money laundering.  The GRU remains active in carrying out cyber-attacks against the Union or its Member States. As a member of the GRU, Alexey Minin is therefore involved in cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Union or its Member States. </td><td>30.7.2020</td></tr>
+<tr><td>4.</td><td>Aleksei Sergeyvich MORENETS</td><td>Алексей Сергеевич МОРЕНЕЦ Date of birth: 31.7.1977  Place of birth: Murmanskaya Oblast, Russian SFSR (now Russian Federation)  Passport number: 100135556  Issued by: Ministry of Foreign Affairs of the Russian Federation  Validity: from 17.4.2017 until 17.4.2022  Location: Moscow, Russian Federation  Nationality: Russian  Gender: male </td><td>Aleksei Morenets took part in an attempted cyber-attack with a potentially significant effect against the Organisation for the Prohibition of Chemical Weapons (OPCW) in the Netherlands and in cyber-attacks with a significant effect against third States. As a cyber-operator for the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU), Aleksei Morenets was part of a team of four Russian military intelligence officers who attempted to gain unauthorised access to the Wi-Fi network of the OPCW in The Hague, the Netherlands, in April 2018. The attempted cyber-attack was aimed at hacking into the Wi-Fi network of the OPCW, which, if successful, would have compromised the security of the network and the OPCW’s ongoing investigatory work. The Netherlands Defence Intelligence and Security Service (Militaire Inlichtingen- en Veiligheidsdienst) disrupted the attempted cyber-attack, thereby preventing serious damage to the OPCW.  A grand jury in the Western District of Pennsylvania (United States of America) has indicted Aleksei Morenets, as assigned to Military Unit 26165, for computer hacking, wire fraud, aggravated identity theft and money laundering.  The GRU remains active in carrying out cyber-attacks against the Union or its Member States. As a member of the GRU, Aleksei Morenets is therefore involved in cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Union or its Member States. </td><td>30.7.2020</td></tr>
+<tr><td>5.</td><td>Evgenii Mikhaylovich SEREBRIAKOV</td><td>Евгений Михайлович СЕРЕБРЯКОВ Date of birth: 26.7.1981  Place of birth: Kursk, Russian SFSR (now Russian Federation)  Passport number: 100135555  Issued by: Ministry of Foreign Affairs of the Russian Federation  Validity: from 17.4.2017 until 17.4.2022  Location: Moscow, Russian Federation  Nationality: Russian  Gender: male </td><td>Evgenii Serebriakov took part in an attempted cyber-attack with a potentially significant effect against the Organisation for the Prohibition of Chemical Weapons (OPCW) in the Netherlands and in cyber-attacks with a significant effect against third States. As a cyber-operator for the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU), Evgenii Serebriakov was part of a team of four Russian military intelligence officers who attempted to gain unauthorised access to the Wi-Fi network of the OPCW in The Hague, the Netherlands, in April 2018. The attempted cyber-attack was aimed at hacking into the Wi-Fi network of the OPCW, which, if successful, would have compromised the security of the network and the OPCW’s ongoing investigatory work. The Netherlands Defence Intelligence and Security Service (Militaire Inlichtingen- en Veiligheidsdienst) disrupted the attempted cyber-attack, thereby preventing serious damage to the OPCW.  Since spring 2022, Evgenii Serebriakov is leading ‘Sandworm’ (a.k.a. ‘Sandworm Team’, ‘BlackEnergy Group’, ‘Voodoo Bear’, ‘Quedagh’, ‘Olympic Destroyer’ and ‘Telebots’), an actor and hacking group affiliated with Unit 74455 of the Russian Main Intelligence Directorate. Sandworm has carried out cyber-attacks on Ukraine, including Ukrainian government agencies, following Russia’s war of aggression against Ukraine.  The GRU remains active in carrying out cyber-attacks against the Union or its Member States. As a member of the GRU, Evgenii Serebriakov is therefore involved in cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Union or its Member States. </td><td>30.7.2020</td></tr>
+<tr><td>6.</td><td>Oleg Mikhaylovich SOTNIKOV</td><td>Олег Михайлович СОТНИКОВ Date of birth: 24.8.1972  Place of birth: Ulyanovsk, Russian SFSR (now Russian Federation)  Passport number: 120018866  Issued by: Ministry of Foreign Affairs of the Russian Federation  Validity: from 17.4.2017 until 17.4.2022  Location: Moscow, Russian Federation  Nationality: Russian  Gender: male </td><td>Oleg Sotnikov took part in an attempted cyber-attack with a potentially significant effect against the Organisation for the Prohibition of Chemical Weapons (OPCW) in the Netherlands and in cyber-attacks with a significant effect against third States. As a human intelligence support officer of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU), Oleg Sotnikov was part of a team of four Russian military intelligence officers who attempted to gain unauthorised access to the Wi-Fi network of the OPCW in The Hague, the Netherlands, in April 2018. The attempted cyber-attack was aimed at hacking into the Wi-Fi network of the OPCW, which, if successful, would have compromised the security of the network and the OPCW’s ongoing investigatory work. The Netherlands Defence Intelligence and Security Service (Militaire Inlichtingen- en Veiligheidsdienst) disrupted the attempted cyber-attack, thereby preventing serious damage to the OPCW.  A grand jury in the Western District of Pennsylvania (United States of America) has indicted Oleg Sotnikov, as an officer of the GRU, for computer hacking, wire fraud, aggravated identity theft and money laundering.  The GRU remains active in carrying out cyber-attacks against the Union or its Member States. As a member of the GRU, Oleg Sotnikov is therefore involved in cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Union or its Member States. </td><td>30.7.2020</td></tr>
+<tr><td>7.</td><td>Dmitry Sergeyevich BADIN</td><td>Дмитрий Сергеевич БАДИН Date of birth: 15.11.1990  Place of birth: Kursk, Russian SFSR (now Russian Federation)  Nationality: Russian  Gender: male </td><td>Dmitry Badin took part in a cyber-attack with a significant effect against the German federal parliament (Deutscher Bundestag) and in cyber-attacks with a significant effect against third States. As a military intelligence officer of the 85th Main Centre for Special Services (GTsSS) of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU), Dmitry Badin was part of a team of Russian military intelligence officers who conducted a cyber-attack against the German federal parliament in April and May 2015. That cyber-attack targeted the parliament’s information system and affected its operation for several days. A significant amount of data was stolen and the email accounts of several MPs, as well as of former Chancellor Angela Merkel, were affected.  A grand jury in the Western District of Pennsylvania (United States of America) has indicted Dmitry Badin, as assigned to Military Unit 26165, for computer hacking, wire fraud, aggravated identity theft and money laundering.  The GRU remains active in carrying out cyber-attacks against the Union or its Member States. As a member of the GRU, Dmitry Badin is therefore involved in cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Union or its Member States. </td><td>22.10.2020</td></tr>
+<tr><td>8.</td><td>Igor Olegovich KOSTYUKOV</td><td>Игорь Олегович КОСТЮКОВ Date of birth: 21.2.1961  Nationality: Russian  Gender: male </td><td>Igor Kostyukov is the current Head of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU), where he previously served as First Deputy Head. One of the units under his command is the 85th Main Centre for Special Services (GTsSS) (a.k.a. ‘Military Unit 26165’, ‘APT28’, ‘Fancy Bear’, ‘Sofacy Group’, ‘Pawn Storm’ and ‘Strontium’). In this capacity, Igor Kostyukov is responsible for cyber-attacks carried out by the GTsSS, including those with a significant effect constituting an external threat to the Union or its Member States.  In particular, military intelligence officers of the GTsSS took part in the cyber-attack against the German federal parliament (Deutscher Bundestag) in April and May 2015 and the attempted cyber-attack aimed at hacking into the Wi-Fi network of the Organisation for the Prohibition of Chemical Weapons (OPCW) in the Netherlands in April 2018.  The cyber-attack against the German federal parliament targeted the parliament’s information system and affected its operation for several days. A significant amount of data was stolen and email accounts of several MPs, as well as of former Chancellor Angela Merkel, were affected.  The GRU remains active in carrying out cyberattacks against the Union or its Member States. As a member of the GRU, Igor Kostyukov is therefore involved in cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Union or its Member States. </td><td>22.10.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>9.</td><td>Ruslan Aleksandrovich PERETYATKO</td><td>Руслан Александрович ПЕРЕТЯТЬКО Date of birth: 3.8.1985  Nationality: Russian  Gender: Male </td><td>Ruslan Peretyatko took part in cyberattacks with a significant effect, which constitute an external threat to the Union or its Member States. Ruslan Peretyatko is part of the ‘Callisto group’ of Russian intelligence officers conducting cyber operations against EU Member States and third states.  Callisto Group (a.k.a. ‘Seaborgium’, ‘Star Blizzard’, ‘ColdRiver’, ‘TA446’) has launched multi-year phishing campaigns used to steal account credentials and data. Furthermore, the Callisto group is responsible for campaigns targeting individuals and critical state functions, including in the areas of defence and external relations.  Therefore, Ruslan Peretyatko is involved in cyberattacks with a significant effect, which constitute an external threat to the Union or its Member States. </td><td>24.6.2024</td></tr>
+<tr><td>10.</td><td>Andrey Stanislavovich KORINETS</td><td>Андрей Станиславович КОРИНЕЦ Date of birth: 18.5.1987  Place of birth: City of Syktyvkar, Russia  Nationality: Russian  Gender: Male </td><td>Andrey Stanislavovich Korinets took part in cyberattacks with a significant effect, which constitute an external threat to the Union or its Member States. Andrey Stanislavovich Korinets is an officer of ‘Center 18’ of the Federal Security Service (FSB) of the Russian Federation.  Andrey Stanislavovich Korinets is part of the ‘Callisto group’ of Russian intelligence officers conducting cyber operations against EU Member States and third states.  Callisto Group (a.k.a. ‘Seaborgium’, ‘Star Blizzard’, ‘ColdRiver’, ‘TA446’) has launched multi-year phishing campaigns used to steal account credentials and data. Furthermore, the Callisto group is responsible for campaigns targeting individuals and critical state functions, including in the areas of defence and external relations.  Therefore, Andrey Stanislavovich Korinets is involved in cyberattacks with a significant effect, which constitute an external threat to the Union or its Member States. </td><td>24.6.2024</td></tr>
+<tr><td>11.</td><td>Oleksandr SKLIANKO</td><td>Александр СКЛЯНКО (Russian spelling) Олександр СКЛЯНКО (Ukrainian spelling)  Date of birth: 5.8.1973  Passport: EC 867868, issued on 27.11.1998 (Ukraine)  Gender: male </td><td>Oleksandr Sklianko took part in cyberattacks with a significant effect against EU Member States, as well as cyberattacks with a significant effect against third states. Oleksandr Sklianko is part of the ‘Armageddon’ hacker group supported by the Federal Security Service (FSB) of the Russian Federation that carried out various cyberattacks with a significant effect on the government of Ukraine and on EU Member States and their government officials, including by using phishing emails and malware campaigns.  Therefore, Oleksandr Sklianko is involved in cyberattacks with a significant effect against third states, as well as in cyberattacks with a significant effect, which constitute an external threat to the Union or its Member States. </td><td>24.6.2024</td></tr>
+<tr><td>12.</td><td>Mykola CHERNYKH</td><td>Николай ЧЕРНЫХ (Russian spelling) Микола ЧЕРНИХ (Ukrainian spelling)  Date of birth: 12.10.1978  Passport: EC 922162, issued on 20.01.1999 (Ukraine)  Gender: male </td><td>Mykola Chernykh took part in cyberattacks with a significant effect against EU Member States, as well as cyberattacks with a significant effect against third states. Mykola Chernykh is part of the ‘Armageddon’ hacker group supported by the Federal Security Service (FSB) of the Russian Federation that carried out various cyberattacks with a significant effect on the government of Ukraine and on EU Member States and their government officials, including by using phishing emails and malware campaigns.  As a former employee of the Security Service of Ukraine, he is charged in Ukraine with treason and unauthorised interference in the operation of electronic computing machines and automated systems.  Therefore, Mykola Chernykh is involved in cyberattacks with a significant effect, which constitute an external threat to the Union or its Member States. </td><td>24.6.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>13.</td><td>Mikhail Mikhailovich TSAREV</td><td>Михаил Михайлович ЦАРЕВ Date of birth: 20.4.1989  Place of birth: Serpukhov, Russian Federation  Nationality: Russian  Address: Serpukhov  Gender: male </td><td>Mikhail Mikhailovich Tsarev took part in cyberattacks with a significant effect, which constitute an external threat to EU Member States. Mikhail Mikhailovich Tsarev, also known by the online monikers ‘Mango’, ‘Alexander Grachev’, ‘Super Misha’, ‘Ivanov Mixail’, ‘Misha Krutysha’, and ‘Nikita Andreevich Tsarev’ is a key-player in the deployment of the ‘Conti’ and ‘Trickbot’ malware programs and is involved in the Russia-based threat group ‘Wizard Spider’. Wizard Spider continues to evolve and intensify its operations.  The Conti and Trickbot malware programs were created and developed by Wizard Spider. Wizard Spider has conducted ransomware campaigns in a variety of sectors, including essential services such as health and banking.  The group has infected computers worldwide and their malware has been developed into a highly modular malware suite. Campaigns by Wizard Spider, using malware such as Conti, ‘Ryuk’ TrickBot or Black Basta, are responsible for substantial economic damage in the European Union.  Mikhail Mikhailovich Tsarev is therefore involved in cyberattacks with a significant effect, which constitute an external threat to the Union or its Member States. </td><td>24.6.2024</td></tr>
+<tr><td>14.</td><td>Maksim Sergeevich GALOCHKIN</td><td>Максим Сергеевич ГАЛОЧКИН Date of birth: 19.5.1982  Place of birth: Abakan, Russian Federation  Nationality: Russian  Gender: male </td><td>Maksim Galochkin took part in cyberattacks with a significant effect, which constitute an external threat to EU Member States. Maksim Galochkin is also known by the online monikers ‘Benalen’, ‘Bentley’, ‘Volhvb’, ‘volhvb’, ‘manuel’, ‘Max17’ and ‘Crypt’. Galochkin is a key player in the deployment of the ‘Conti’ and ‘Trickbot’ malware programs and is involved in the Russia-based threat group ‘Wizard Spider’. He has led a group of testers, with responsibilities for the development, supervision, and implementation of tests for the TrickBot malware program, created and deployed by Wizard Spider. Wizard Spider continues to evolve and intensify its operations.  Wizard Spider has conducted ransomware campaigns in a variety of sectors, including essential services such as health and banking. The group has infected computers worldwide and their malware has been developed into a highly modular malware suite. Campaigns by Wizard Spider, using malware such as Conti, ‘Ryuk’ TrickBot or Black Basta, are responsible for substantial economic damage in the European Union.  Maksim Galochkin is therefore involved in cyberattacks with a significant effect, which constitute an external threat to the Union or its Member States. </td><td>24.6.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>15.</td><td>Nikolay Alexandrovich KORCHAGIN</td><td>Николай Александрович Корчагин Date of birth: 16.9.1997  Nationality: Russian  Gender: male  Associated entity: Main Directorate of the General Staff of the Armed Forces of the Russian Federation </td><td>Nikolay Korchagin is involved in and responsible for cyber-attacks with a significant effect by conducting intelligence activities directed against Estonia and gaining access to a computer system illegally. Nikolay Korchagin is an officer of military unit 29155 of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). In that role, he is involved in and responsible for cyber-attacks against computer systems with the aim of collecting data from the data systems of multiple institutions, which independently or in combination, give an overview of the cyber security policy of Estonia, the cyber capabilities of the state, sensitive personal data and other sensitive data, with the aim of using the data to threaten the security of Estonia. The attacks therefore concern the storage of classified information. The attacks concerned allies and partners of Estonia.  Therefore, Nikolay Korchagin is involved in and responsible for cyber-attacks with a significant effect which constitute an external threat to a Member State. </td><td>27.1.2025</td></tr>
+<tr><td>16.</td><td>Vitaly SHEVCHENKO</td><td>Виталий Шевченко Date of birth: 1.9.1997  Nationality: Russian  Gender: male  Associated entity: Main Directorate of the General Staff of the Armed Forces of the Russian Federation </td><td>Vitaly Shevchenko is involved in and responsible for cyber-attacks with a significant effect by conducting intelligence activities directed against Estonia and gaining access to a computer system illegally. Vitaly Shevchenko is an officer of military unit 29155 of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). In that role, he is involved in and responsible for cyber-attacks against computer systems with the aim of collecting data from the data systems of multiple institutions, which independently or in combination, give an overview of the cyber security policy of Estonia, the cyber capabilities of the state, sensitive personal data and other sensitive data, with the aim of using the data to threaten the security of Estonia. The attacks therefore concern the storage of classified information. The attacks concerned allies and partners of Estonia.  Therefore, Vitaly Shevchenko is involved in and responsible for cyber-attacks with a significant effect which constitute an external threat to a Member State. </td><td>27.1.2025</td></tr>
+<tr><td>17.</td><td>Yuriy Fedorovich DENISOV</td><td>Юрий Федорович Денисов Date of birth: 17.6.1980  Nationality: Russian  Gender: male  Associated entity: Main Directorate of the General Staff of the Armed Forces of the Russian Federation </td><td>Yuriy Denisov is involved in and responsible for cyber-attacks with a significant effect by conducting intelligence activities directed against Estonia and gaining access to a computer system illegally. Yuriy Denisov is an officer of military unit 29155 of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). In that role, he is involved in and responsible for cyber-attacks against computer systems with the aim of collecting data from the data systems of multiple institutions, which independently or in combination, give an overview of the cyber security policy of Estonia, the cyber capabilities of the state, sensitive personal data and other sensitive data, with the aim of using the data to threaten the security of Estonia. The attacks therefore concern the storage of classified information. The attacks concerned allies and partners of Estonia.  Therefore, Yuriy Denisov is involved in and responsible for cyber-attacks with a significant effect which constitute an external threat to a Member State. </td><td>27.1.2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>18.</td><td>CHEN Cheng</td><td>陈诚 (Chinese spelling)  Aliases:  Jesse Chen  lengmo  l3n6m0  Date of birth: 20.10.1984  Place of birth: Yancheng, Jiangsu, China  Nationality: Chinese  Gender: male </td><td>Chen Cheng is a Chinese businessman, co-founder and one of the general managers (Chief Operating Officer) of Anxun Information Technology Co. Ltd. He is also a legal representative of the Sichuan branch of that company. Anxun Information Technology Co. Ltd., also known as i-Soon, is a company based in the People’s Republic of China (PRC) that offers ‘hacking-for-hire’ services. Anxun Information Technology Co. Ltd. has targeted critical infrastructure and critical State functions of Member States and accessed and sold classified information. Furthermore, Anxun Information Technology Co. Ltd. has attacked governments of various third States, thereby posing a threat to the common foreign and security policy (CFSP) objectives of the Union, as set out in Article 21(2), points (a) to (c), of the Treaty on European Union.  Anxun Information Technology Co. Ltd. gains an important economic benefit from the services provided.  Anxun Information Technology Co. Ltd. is therefore responsible for cyber-attacks with a significant effect which constitute an external threat to the Union and its Member States as well as attacks against third States.  In this capacity, Chen Cheng is responsible for, and involved in, cyber-attacks with a significant effect which constitute an external threat to Member States as well as cyber-attacks with a significant effect against third States. </td><td>16.3.2026</td></tr>
+<tr><td>19.</td><td>WU Haibo</td><td>吴海波 (Chinese spelling)  Aliases:  shutdown  shutd0wn  POB: China  Nationality: Chinese  Gender: male </td><td>Wu Haibo is a Chinese businessman, co-founder and one of the general managers (Chief Executive Officer) of Anxun Information Technology Co. Ltd. He is also the legal representative, chairman and general manager of the Shanghai branch (‘mothership’) of Anxun Information Technology Co. Ltd. Furthermore, he is acting as the legal representative of the Sichuan branch of that company. Anxun Information Technology Co. Ltd., also known as i-Soon, is a company based in the People’s Republic of China (PRC) that offers ‘hacking-for-hire’ services. Anxun Information Technology Co. Ltd. has targeted critical infrastructure and critical State functions of Member States and accessed and sold classified information. Furthermore, Anxun Information Technology Co. Ltd. has attacked governments of various third States, thereby posing a threat to the common foreign and security policy (CFSP) objectives of the Union, as set out in Article 21(2), points (a) to (c), of the Treaty on European Union.  Anxun Information Technology Co. Ltd. gains an important economic benefit from the services provided.  Anxun Information Technology Co. Ltd. is therefore responsible for cyber-attacks with a significant effect which constitute an external threat to Member States as well as attacks against third States.  Wu Haibo was involved in directing and encouraging attempted cyber-attacks with a significant effect against Member States.  In this capacity, he is responsible for, and involved in, cyber-attacks with a significant effect which constitute an external threat to Member States as well as cyber-attacks with a significant effect against third States. </td><td>16.3.2026</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>20.</td><td>Vitaly Nikolayevich KOVALEV</td><td>Виталий Николаевич КОВАЛЕВ Aliases: ‘Bentley’, ‘Bergen’, ‘Alex Konor’, ‘Benny’, ‘Ben’, ‘Stern’  DOB: 23.6.1988  Address: Serebristy Bulvar 34 (Serebristyy Bul’var); krp 1; flt 528; 197341; St Petersburg, Russian Federation  Nationality: Russian  Gender: male  Associated entities: TrickBot, Wizard Spider, Conti </td><td>Vitaly Kovalev is a senior figure in the malware programs ‘Trickbot’ and ‘Conti’. He is also known by the online monikers ‘Bentley’, ‘Bergen’, ‘Alex Konor’, ‘Benny’, ‘Ben’ and ‘Stern’. Conti and Trickbot were originally created and developed by Wizard Spider. Wizard Spider has conducted ransomware campaigns in a variety of sectors, including essential services such as health and banking, has infected computers worldwide and their malware has been developed into a highly modular malware suite. Campaigns by Wizard Spider, using malware such as Conti, and TrickBot, are responsible for substantial economic damage in the European Union.  Vitaly Kovalev is therefore responsible for, and involved in, cyber-attacks with a significant effect which constitute an external threat to the Union or its Member States. </td><td>13.7.2026</td></tr>
+<tr><td>21.</td><td>Alexander Alexandrovich VOLOSOVIK</td><td><br> Александр Александрович ВОЛОСОВИК <br> Aliases: ‘Yalishanda’, ‘LARVA-34’, ‘podzemniyl’, ‘Ohyeahhellno’, ‘Stas_vl’, ‘downlow’ <br> DOB: 30.1.1983 <br> POB: USSR <br> Nationality: Russian <br> Passport number: 762988138 <br> Gender: male   </td><td>Alexander Volosovik is the owner of Media Land LLC. Since 2016, Bullet Proof Hosting service Media Land LLC has been facilitating a wide array of malware attacks against both the Union and globally, by offering hosting services that hide user identities and resist takedowns by law enforcement. Media Land LLC enabled large-scale ransomware operations, command-and-control services, and phishing operations that target critical infrastructure and essential services in the Member States, leading to significant financial losses. Operations facilitated by Media Land LLC include, inter alia, LockBit, EvilCorp and BlackBasta. Therefore, Media Land LLC is involved in cyber-attacks with significant effect which constitute an external threat to the Union or its Member States. As owner of Media Land LLC, Alexander Volosovik is responsible for, and involved in, these cyber-attacks. He is also associated to Media Land LLC. </td><td>13.7.2026</td></tr>
+<tr><td>22.</td><td>Denis Olegovich DEGTYARENKO</td><td>Денис Олегович ДЕГТЯРЕНКО Alias: ‘Dena’  DOB: 9.10.1989  POB: USSR  Nationality: Russian  Gender: male  Address: 130 Lenina Avenue, Novy Gorod microdistrict, Orsk, Orenburg Region, Russian Federation </td><td>Denis Degtyarenko aka Dena is a Russian hacker for CARR (Cyber Army of Russia Reborn). CARR has been responsible for cyber-attacks against services necessary for the maintenance of essential economic activities and critical state functions in the Member States, as well as against infrastructure in Ukraine and other third countries. CARR is linked to the Main Centre for Special Technologies (GTsST) within the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU).  The GTsST remains active in carrying out cyber-attacks against the Union or its Member States. CARR’s targets include government agencies, financial institutions, media outlets, and critical infrastructure in the Member States and the United States. CARR has conducted distributed denial-of-service (DDoS) attacks in Ukraine and against governments and companies located in countries that have supported Ukraine.  Therefore, Denis Degtyarenko, a primary hacker for CARR, is involved in cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Member States, as well as against third states. As a member of CARR, he is also associated to GTsST. </td><td>13.7.2026</td></tr>
+<tr><td>23.</td><td>Yuliya Vladimirovna PANKRATOVA</td><td>Юлия Владимировна ПАНКРАТОВА Alias: ‘YUliYA’  DOB: 6.4.1984  POB: USSR  Nationality: Russian  Gender: female  Address: 130 Lenina Avenue, Novy Gorod microdistrict, Orsk, Orenburg Region, Russian Federation </td><td>Yuliya Pankratova is a Russian hacker who has been working for CARR (Cyber Army of Russia Reborn) and has founded, and continues to work for Z-Pentest. CARR has been responsible for cyber attacks against services necessary for the maintenance of essential economic activities and critical state functions in the Member States, as well as against infrastructure in Ukraine and other third countries. CARR is linked to the Main Centre for Special Technologies (GTsST) within the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GRU). The GTsST remains active in carrying out cyber-attacks against the Union or its Member States. CARR’s targets include government agencies, financial institutions, media outlets, and critical infrastructure in Member States and the United States. CARR has conducted distributed denial-of-service (DDoS) attacks in Ukraine and against governments and companies located in countries that have supported Ukraine.  Z-Pentest is responsible for cyber-attacks with a significant effect against inter alia services necessary for the maintenance of essential activities in the Member States.  Therefore, Yuliya Pankratova, a primary hacker for CARR and for Z-Pentest, is involved in cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Member States, as well as against third states. She is also associated to Z-Pentest. </td><td>13.7.2026</td></tr>
+<tr><td>24.</td><td>Maksim Evgenevich VORONIN</td><td>Максим Евгеньевич ВОРОНИН Alias: ‘Daugn0’  Nationality: allegedly Russian  Gender: male </td><td>Maksim Voronin aka Daugn0 is involved in the development, distribution and selling of the information stealing malware LummaC2 (aka Lumma Infostealer, Lumma Stealer). LummaC2 is a Malware-as-a-Service (MaaS) platform, used to steal sensitive data, browser credentials, crypto wallets, or system info, to deploy additional malware on infected devices, for cryptocurrency theft and for espionage campaigns.  Cyberattacks involving LummaC2 malware are used also by financially motivated cyber threat actors like Storm-113, Storm-1607, Storm-1674, Octo Tempest and others. LummaC2 malware has been used for cyber-attacks against critical state functions and services necessary for the maintenance of essential social and economic activities of the Members States. In 2024 and 2025, LummaC2 was one of the most used tools for stealing information worldwide.  Therefore, Maksim Voronin as developer, distributor and seller of LummaC2 is involved in and facilitates cyberattacks with a significant effect, which constitute an external threat to the Member States. </td><td>13.7.2026</td></tr>
+<tr><td>25.</td><td>Maksim Aleksandrovich GORDIENKO a.k.a. Maxim Alexandrovich GORDIENKO </td><td>Максим Александрович ГОРДИЕНКО Alias: ‘Lummaseller’  Nationality: allegedly Russian  Gender: male </td><td>Maksim Gordienko aka Lummaseller is involved in the development and distribution of the information stealing malware LummaC2 (aka Lumma Infostealer, Lumma Stealer). LummaC2 is a Malware-as-a-Service (MaaS) platform, used to steal sensitive data, browser credentials, crypto wallets or system info, to deploy additional malware on infected devices, for cryptocurrency theft and for espionage campaigns. Cyberattacks involving LummaC2 malware are used also by financially motivated cyber threat actors like Storm-113, Storm-1607, Storm-1674, Octo Tempest and others. LummaC2 malware has been used for cyber-attacks against critical state functions and services necessary for the maintenance of essential social and economic activities of the Member States. In 2024 and 2025 LummaC2 was one of the most used tools for stealing information worldwide.  Therefore, Maksim Gordienko as developer, distributor and seller of LummaC2 is involved in and facilitates cyberattacks with a significant effect, which constitute an external threat to the Member States. </td><td>13.7.2026</td></tr>
+<tr><td>26.</td><td>Evgeniy Viktorovich BASHEV</td><td>Евгений Викторович БАШЕВ DOB: 25.1.1980  POB: USSR  Nationality: Russian  Gender: male  Associated individuals: Denis Igorevich Denisenko, Yuriy Fedorovich Denisov, Dmitriy Yuryevich Goloshubov, Nikolay Alexandrovich Korchagin  Associated entities: GRU Unit 29155, ‘Impuls’ LLC </td><td>Evgeniy Bashev is a member of Russian Military Intelligence Agency GRU, Unit 29155. Within the unit he supports and facilitates cyber-attacks with a significant effect against the Member States, inter alia via controlling the server ‘Aegon’, used for hacking operations. In particular, he provides technical and material support to the cyber-attacks of the GRU Unit 29155 through his company ‘Impuls’ LLC, which facilitated operational cover, infrastructure, and payments, and managed technical assets, including servers, that are used for the cyber-attacks. He also coordinated cooperation between GRU structures and external hacker networks. The cyber-attacks he facilitated targeted critical state functions systems and services necessary for the maintenance of essential social or economic activities in the Member States, notably in the transport sector. Via the WhisperGate campaign, GRU Unit 29155 also targeted critical infrastructure of Ukraine. Therefore, Evgeniy Bashev provides technical and material support for, or is otherwise involved in, cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Member States, as well as cyber-attacks with a significant effect against a third country.  As owner and General Director, he is associated with the company ‘Impuls’ LLC.  As a Member of GRU Unit 29155, he is also associated with that entity. </td><td>13.7.2026</td></tr>
+<tr><td>27.</td><td>Roman Alexandrovich PUNTUS</td><td>Роман Александрович ПУНТУС POB: Russian Federation  Nationality: Russian  Gender: male  Associated individuals: Denis Igorevich Denisenko, Yuriy Fedorovich Denisov, Dmitriy Yuryevich Goloshubov, Nikolay Alexandrovich Korchagin, Evgeniy Viktorovich Bashev  Associated entities: GRU Unit 29155 </td><td>Roman Puntus is a member of the Russian Military Intelligence Agency GRU, Unit 29155. Within the unit, he holds a leading role in the organisation and coordination of cyber-attacks with a significant effect against the Member States. He also supports the development of the unit’s internal cyber capability, including the recruitment and supervision of personnel such as hackers and programmers. By establishing the front company ‘Aegeon-Impulse,’ he facilitated logistical and financial aspects of cyber operations. Under his coordination, the unit conducted cyber-attacks targeting critical state functions systems and services necessary for the maintenance of essential social or economic activities in the Member States, notably in the transport sector. Via the WhisperGate campaign, GRU Unit 29155 also targeted critical infrastructure of Ukraine. Therefore, Roman Puntus is responsible for, or is otherwise involved in, cyber-attacks with a significant effect, including attempted cyber-attacks with a potentially significant effect, which constitute an external threat to the Member States, as well as cyber-attacks with a significant effect against a third country.  As a Member of GRU Unit 29155, he is also associated with that entity. </td><td>13.7.2026</td></tr>
+<tr><td colspan="5"></td></tr>
+</tbody>
+</table>
+
+**B. Legal persons, entities and bodies**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>1.</td><td>Tianjin Huaying Haitai Science and Technology Development Co. Ltd (Huaying Haitai)</td><td>a.k.a.: Haitai Technology Development Co. Ltd Location: Tianjin, China </td><td>Huaying Haitai provided financial, technical or material support for and facilitated ‘Operation Cloud Hopper’, a series of cyber-attacks with a significant effect originating from outside the Union and constituting an external threat to the Union or its Member States and of cyber-attacks with a significant effect against third States. ‘Operation Cloud Hopper’ has targeted information systems of multinational companies in six continents, including companies located in the Union, and gained unauthorised access to commercially sensitive data, resulting in significant economic loss.  The actor publicly known as ‘APT10’ (‘Advanced Persistent Threat 10’) (a.k.a. ‘Red Apollo’, ‘CVNX’, ‘Stone Panda’, ‘MenuPass’ and ‘Potassium’) carried out ‘Operation Cloud Hopper’.  Huaying Haitai can be linked to APT10. Moreover, Huaying Haitai employed Gao Qiang and Zhang Shilong, who are both designated in connection with ‘Operation Cloud Hopper’. Huaying Haitai is therefore also associated with Gao Qiang and Zhang Shilong. </td><td>30.7.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>2.</td><td>Chosun Expo</td><td>a.k.a.: Chosen Expo; Korea Export Joint Venture Location: DPRK </td><td>Chosun Expo provided financial, technical or material support for and facilitated a series of cyber-attacks with a significant effect originating from outside the Union and constituting an external threat to the Union or its Member States and of cyber-attacks with a significant effect against third States, including the cyber-attacks publicly known as ‘WannaCry’ and cyber-attacks against the Polish Financial Supervision Authority and Sony Pictures Entertainment, as well as cyber-theft from the Bangladesh Bank and attempted cyber-theft from the Vietnam Tien Phong Bank. ‘WannaCry’ disrupted information systems around the world by targeting information systems with ransomware and blocking access to data. It affected information systems of companies in the Union, including information systems relating to services necessary for the maintenance of essential services and economic activities within Member States.  The actor publicly known as ‘APT38’ (‘Advanced Persistent Threat 38’) or the ‘Lazarus Group’ carried out ‘WannaCry’.  Chosun Expo can be linked to APT38 / the Lazarus Group, including through the accounts used for the cyber-attacks. </td><td>30.7.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>3.</td><td>Main Centre for Special Technologies (GTsST) of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)</td><td>Address: 22 Kirova Street, Moscow, Russian Federation</td><td>The Main Centre for Special Technologies (GTsST) of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU), also known by its field post number 74455, is involved in cyber-attacks with a significant effect originating from outside the Union and constituting an external threat to the Union or its Member States and in cyber-attacks with a significant effect against third States, including the cyber-attacks publicly known as ‘NotPetya’ or ‘EternalPetya’ in June 2017 and the cyber-attacks directed at a Ukrainian power grid in the winter of 2015 and 2016. ‘NotPetya’ or ‘EternalPetya’ rendered data inaccessible in a number of companies in the Union, wider Europe and worldwide, by targeting computers with ransomware and blocking access to data, resulting amongst others in significant economic loss. The cyber-attack on a Ukrainian power grid resulted in parts of it being switched off during winter.  The actor publicly known as ‘Sandworm’ (a.k.a. ‘Sandworm Team’, ‘BlackEnergy Group’, ‘Voodoo Bear’, ‘Quedagh’, ‘Olympic Destroyer’ and ‘Telebots’), which is also behind the attack on the Ukrainian power grid, carried out ‘NotPetya’ or ‘EternalPetya’. Sandworm has carried out cyber-attacks against Ukraine, including Ukrainian government agencies and Ukrainian critical infrastructure, following Russia’s war of aggression against Ukraine. Those cyber-attacks include spear-phishing campaigns, malware and ransomware attacks.  The Main Centre for Special Technologies of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation has an active role in the cyber-activities undertaken by Sandworm and can be linked to Sandworm. </td><td>30.7.2020</td></tr>
+<tr><td>4.</td><td>85th Main Centre for Special Services (GTsSS) of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU)</td><td>Address: Komsomol’skiy Prospekt, 20, Moscow, 119146, Russian Federation</td><td>The 85th Main Centre for Special Services (GTsSS) of the Main Directorate of the General Staff of the Armed Forces of the Russian Federation (GU/GRU) (a.k.a. ‘Military Unit 26165’, ‘APT28’, ‘Fancy Bear’, ‘Sofacy Group’, ‘Pawn Storm’ and ‘Strontium’) is involved in cyber-attacks with a significant effect constituting an external threat to the Union or its Member States and in cyber-attacks with a significant effect against third States. In particular, military intelligence officers of the GTsSS took part in the cyber-attack against the German federal parliament (Deutscher Bundestag) in April and May 2015 and the attempted cyber-attack aimed at hacking into the Wi-Fi network of the Organisation for the Prohibition of Chemical Weapons (OPCW) in the Netherlands in April 2018.  The cyber-attack against the German federal parliament targeted the parliament’s information system and affected its operation for several days. A significant amount of data was stolen and email accounts of several MPs, as well as of former Chancellor Angela Merkel, were affected.  Following Russia’s war of aggression against Ukraine, cyber-attacks by the GTsSS (spear-phishing and malware-based attacks) were carried out against Ukraine. </td><td>22.10.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>5.</td><td>Integrity Technology Group</td><td>永信至诚科技集团股份有限公司 (Chinese spelling)  Alias:  Beijing Integrity Technology Company Limited, Yongxin Zhicheng Technology Group Company Limited  Address: Fenghao East Road, Room 103, Building6, No. 9, Beijing Haidian District, China  Place of registration: Beijing, China  Date of registration: 2.9.2010  Unified Social Credit Code: 91110108562135265P </td><td>Integrity Technology Group is a cybersecurity enterprise, based in the People’s Republic of China (PRC), that facilitated cyber-attacks linked to Advanced Persistent Threat (APT) Flax Typhoon. That APT used Integrity Technology Group’s products and technology to deploy its computer network exploitation activities. Integrity Technology Group’s products have been used since then to compromise and access Internet of Things devices in Member States, as well as in countries across Europe and globally. Between 2022 and 2023, Flax Typhoon accessed at least 65 600 Internet of Things devices in six Member States by using Integrity Technology Group’s products. Therefore, Integrity Technology Group’s commercial products and infrastructure were routinely used in cyber-attacks against Member States as well as third States. Consequently, by affecting information systems relating to digital infrastructure, Integrity Technology Group is providing technical and material support for cyber-attacks with a significant effect which constitute an external threat to Member States and third States. </td><td>16.3.2026</td></tr>
+<tr><td>6.</td><td>Emennet Pasargad</td><td>Alias: Anzu Team, Holy Souls, Aria Sepehr Ayandehsazan, Haywire Kitten  Place of registration: Tehran, Iran  Registration number: 554267  Principal place of business: Tehran, Iran </td><td>Emennet Pasargad is an Iranian cyber actor (company) that has targeted numerous entities, in particular, in Member States as well as in the United States (US). Emennet Pasargad, operating under the alias ‘Anzu Team’, targeted digital infrastructure in Sweden and compromised a Swedish SMS service, affecting a large number of people. Furthermore, by acting under the alias ‘Holy Souls’, the entity compromised the subscriber database of the French satirical magazine, Charlie Hebdo, and advertised it for sale on the dark web. Emennet Pasargad compromised advertising billboards during the Paris Olympic Games and displayed disinformation campaigns. Emennet Pasargad also attempted to interfere with the US presidential elections of 2020, threatening democracy and the rule of law, by obtaining confidential US voter information and gaining unauthorised access to a US media company’s computer network.  Emennet Pasargad is therefore responsible for cyber-attacks with a significant effect which constitute an external threat to Member States and for cyber-attacks with a significant effect against a third State. </td><td>16.3.2026</td></tr>
+<tr><td>7.</td><td>Anxun Information Technology Co. Ltd.</td><td>安洵信息技术有限公司 (Chinese spelling)  Alias: i-Soon  Address: Room 1002, Qiangqiang Building, No. 1318 Qixin Road, Minhang District, Shanghai  Unified Social Credit Code: 91510105332025597A (Sichuan branch)  Unified Social Credit Code: 91310116561906136G (Shanghai branch)  Website: i-soon.net, isoon.net, i-soon.com.cn, isoonren.com, isoon.win  Phone numbers: +862161119992, +8605645893417, +8613761671735, +864000665915  Email: shutdown@163.com, isoon2015@126.com, tao_tingting@i-soon.net, li_ping@i-soon.net </td><td>Anxun Information Technology Co. Ltd. is a company based in the People’s Republic of China that offers ‘hacking-for-hire’ services. It has targeted critical infrastructure and critical State functions of Member States and accessed and sold classified information. Furthermore, Anxun Information Technology Co. Ltd. has attacked governments of various third States, thereby posing a threat to the common foreign and security policy (CFSP) objectives of the Union, as set out in Article 21(2), points (a) to (c), of the Treaty on European Union. Anxun Information Technology Co. Ltd. gains an important economic benefit from the services provided. Anxun Information Technology Co. Ltd. is therefore responsible for cyber-attacks with a significant effect which constitute an external threat to Member States as well as for cyber-attacks with a significant effect against third States. </td><td>16.3.2026</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>8.</td><td>Media Land LLC</td><td>Address: Tsvetnochnaya st., 16 Litera P, Room 27, Moskovskaya Zastava Municipal District St Petersburg, 196006, Russian Federation  Type of entity: Limited Liability Company  Place of registration: St Petersburg  Date of registration: 19.10.2015  Registration number: 1152536009900  Principal place of business: St Petersburg, Russian Federation  Associated entity: ML.Cloud </td><td>Since 2016, Bullet Proof Hosting service Media Land LLC has been facilitating a wide array of malware attacks against the Member States and globally, by offering hosting services that hide user identities and resist takedowns by law enforcement, leading to significant financial losses. Media Land LLC enabled large-scale ransomware operations, command-and-control services, and phishing operations that target critical infrastructure and essential services among the Member States. Operations facilitated by Media Land LLC include, inter alia, LockBit, EvilCorp and BlackBasta. Therefore, Media Land LLC is involved in cyber-attacks with a significant effect, which constitute an external threat to the Member States. </td><td>13.7.2026</td></tr>
+<tr><td>9.</td><td>ML.Cloud</td><td>Address: Brivibas iela 52, Riga, LV-1011, Latvija; Russian Federation, Kazan, Peterburgskaya st. 52 Place of registration: Riga  Associated individual: Alexander Volosovik  Other associated entities: Media Land LLC </td><td>ML.Cloud is the sister company of Media Land LLC, and provides the technical infrastructure for Media Land LLC. Since 2016, Bullet Proof Hosting service Media Land LLC has been facilitating a wide array of malware attacks against the Member States and globally, by offering hosting services that hide user identities and resist takedowns by law enforcement, leading to significant financial losses. Media Land LLC enabled large-scale ransomware operations, command-and-control services, and phishing operations that target critical infrastructure and essential services among the Member States. Operations facilitated by Media Land LLC include, inter alia, LockBit, EvilCorp and BlackBasta.  Therefore, Media Land LLC is involved in cyber- attacks that constitute an external threat with significant effect to EU Member States.  Therefore, ML. Cloud provides technical support for cyber-attacks with a significant effect, which constitute an external threat to the Member States. </td><td>13.7.2026</td></tr>
+<tr><td>10.</td><td>‘Impuls’ LLC</td><td>Общество с ограниченной ответственностью ‘Импульс’ Address: 344015, Russian Federation, Rostov Region, Rostov-on-Don, ul. Eremenko, d. 56, k. 6, apt. 88  Type of entity: Limited Liability Company  Place of registration: Interdistrict Inspectorate of the Federal Tax Service No. 26 for the Rostov Region, 344019, Rostov-on-Don, ul. Myasnikova, d. 52/32, Russian Federation  Date of registration: 27.9.2010  Registration number: INN (ИНН): 6168033776; OGRN (ОГРН): 1106194004850  Principal place of business: Russian Federation  Associated individuals: Evgeniy Bashev  Associated entities: GRU Unit 29155 </td><td>‘Impuls’ LLC is a Russian company owned by Evgeniy Viktorovich Bashev, a member of Russian Military Intelligence Agency GRU, Unit 29155. The company provides technical and material support to cyber-attacks and attempted cyber-attacks conducted by GRU Unit 29155. In particular, ‘Impuls’ LLC serves as an operational intermediary enabling hacking-related activities to be carried out through a company formally unconnected to the Russian State. It facilitated operational cover, infrastructure and payments for cyber-attacks, and was connected to technical assets, including servers used in support of hacking activities. In particular, ‘Impuls’ LLC enabled cooperation between GRU structures and external hacker networks. The cyber operations facilitated by ‘Impuls’ LLC target critical state functions and services necessary for the maintenance of essential social and economic activities in the Member States, notably in the transport sector. Via the WhisperGate campaign, GRU Unit 29155 also targeted critical infrastructure of Ukraine. Therefore, ‘Impuls’ LLC provides technical and material support for, or is otherwise involved in, cyber-attacks with a significant effect, which constitute an external threat to the Member States, as well as cyber-attacks with a significant effect against a third country. </td><td>13.7.2026</td></tr>
+<tr><td>11.</td><td>Z-Pentest</td><td>Aliases: ‘Z-Pentest Alliance’, ‘Z-Alliance’ Principal place of business: Russian Federation  Associated individuals: Yuliya Pankratova  Associated entities: Cyber Army of Russia Reborn/CARR  X.com account: ZPentest (Account suspended)  Telegram account: Zpentestalliance </td><td>Z-Pentest is a pro-Russia hacktivist group, composed of members from CARR (Cyber Army of Russia Reborn) and NoName057, globally targeting critical infrastructure, especially the energy and water sector. Notably, the group attacked a Danish water utility in December 2024.  Therefore, Z-Pentest is responsible for cyber-attacks with a significant effect, which constitute an external threat to the Member States. </td><td>13.7.2026</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Websites for information on the competent authorities and address for notifications to the Commission**
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu

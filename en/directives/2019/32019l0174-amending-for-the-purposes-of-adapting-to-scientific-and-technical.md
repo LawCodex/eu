@@ -91,6 +91,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 29 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘29</td><td>Lead bound in crystal glass as defined in Annex I (Categories 1, 2, 3 and 4) of Council Directive 69/493/EEC (*1)</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 1-7 and 10;</td></tr>
 </tbody>
 </table>
@@ -105,5 +106,6 @@ In Annex III, entry 29 is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (*1) Council Directive 69/493/EEC of 15 December 1969 on the approximation of the laws of the Member States relating to crystal glass (OJ L 326, 29.12.1969, p. 36).’

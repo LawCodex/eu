@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **on common rules for the development of the internal market of Community postal services and the improvement of quality of service**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> DIRECTIVE 2002/39/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 June 2002 </td><td> L 176</td><td>21</td><td>5.7.2002</td></tr>
 <tr><td> M2</td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003 </td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
 <tr><td></td><td> DIRECTIVE 2008/6/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 February 2008 </td><td> L 52</td><td>3</td><td>27.2.2008</td></tr>
+</table>
 
 **DIRECTIVE 97/67/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -468,11 +470,13 @@ The independent body administering the fund is to be responsible for collecting 
 
 The quality standards for intra-Community cross-border mail in each country are to be established in relation to the time limit for routing measured from end to end ( *1 ) for postal items of the fastest standard category according to the formula formula D + n, where D represents the date of deposit ( *2 ) and n the number of working days which elapse between that date and that delivery to the addressee.
 
+<table>
 <tbody><tr><td colspan="2">Quality standards for intra-Community cross-border mail</td></tr>
 <tr><td>Time limit</td><td>Objective</td></tr>
 <tr><td>D + 3</td><td>85 % of items</td></tr>
 <tr><td>D + 5</td><td>97 % of items</td></tr>
 </tbody>
+</table>
 
 The standards must be achieved not only for the entirety of intra-Community traffic but also for each of the bilateral flows between two Member States.
 

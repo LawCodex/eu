@@ -1,0 +1,2124 @@
+---
+title: "Commission Implementing Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the single European sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013 (Text with EEA relevance.)"
+identifier: "32019R0317"
+eli: "http://data.europa.eu/eli/reg_impl/2019/317/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2019-02-11
+entry_into_force: 2022-04-25
+last_amended: 2025-11-02
+consolidated_version: "02019R0317-20251102"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0317-20251102"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2019/317 of 11 February 2019 laying down a performance and charging scheme in the single European sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013 (Text with EEA relevance.)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/317**
+
+**of 11 February 2019**
+
+**laying down a performance and charging scheme in the single European sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1880 of 26 October 2021 </td><td> L 380</td><td>1</td><td>27.10.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/3128 of 16 December 2024 </td><td> L 3128</td><td>1</td><td>17.12.2024</td></tr>
+<tr><td> M3</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2045 of 10 October 2025 </td><td> L 2045</td><td>1</td><td>13.10.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2019/317**
+
+**of 11 February 2019**
+
+**laying down a performance and charging scheme in the single European sky and repealing Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down the measures for the functioning of the performance and charging schemes for air navigation services and network functions.
+
+2\. This Regulation applies to the provision of air navigation services and network functions for general air traffic within the International Civil Aviation Organization (‘ICAO’) European (‘EUR’) region, where Member States are responsible for the provision of air navigation services.
+
+This Regulation applies to:
+
+(a) the air navigation service providers referred to in Article 2(5) of Regulation (EC) No 549/2004;
+
+(b) the body nominated by the Commission to perform the tasks necessary for the execution of the network functions (the ‘Network Manager’) in accordance with Article 6(2) of Regulation (EC) No 551/2004 and appointed in accordance with Article 4 of Implementing Regulation (EU) 2019/123.
+
+This Regulation also applies, for the purpose of target setting and performance monitoring on cost-efficiency, to the authorities or entities incurring eligible costs to be recovered through user charges, as specified in point (b) of Article 15(2) of Regulation (EC) No 550/2004 and in the third subparagraph of Article 22(1) of this Regulation.
+
+3\. This Regulation applies to terminal air navigation services provided at airports located within the territories of the Member States with 80 000 instrument flight rules (‘IFR’) air transport movements or more per year.
+
+4\. Member States may decide to apply the provisions of this Regulation also to terminal air navigation services provided at other airports located within their respective territories than the ones referred to in paragraph 3.
+
+5\. Member States may decide to apply the provisions of this Regulation also to:
+
+(a) air navigation services and network functions provided in airspace under their responsibility within other ICAO regions than the ICAO EUR region, without prejudice to the rights and duties of Member States under the 1944 Chicago Convention on international civil aviation (the ‘Chicago Convention’);
+
+(b) providers of air navigation services having the permission to provide air navigation services without certification, in accordance with Article 7(5) of Regulation (EC) No 550/2004.
+
+6\. Member States shall, without delay, inform the Commission of any decision taken pursuant to paragraph 4 or 5.
+
+Member States shall ensure that the duration of those decisions corresponds to the duration of a reference period. They shall not amend or withdraw those decisions during a reference period.
+
+7\. This Regulation shall apply to the third reference period as set out in Article 7 and to the subsequent reference periods.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘actual cost’ means a cost actually incurred in a calendar year for the provision of air navigation services which are subject to certified accounts or, in the absence of such certified accounts, subject to a final audit;
+
+(2) ‘air traffic services unit’ or ‘ATS unit’ means a unit, either civil or military, responsible for providing air traffic services in a given airspace;
+
+(3) ‘airport coordinator’ means the natural or legal person appointed by a Member State to carry out the coordination duties at coordinated airports set out in Article 4 of Council Regulation (EEC) No 95/93 ( 1 );
+
+(4) ‘airport operator’ means any legal or natural person who operates one or more aerodromes;
+
+(5) ‘airspace user’ means the operator of the aircraft at the time when the flight is performed or, if the identity of the operator is not known, the owner of the aircraft, unless it can be proved that another person was the operator at that time;
+
+(6) ‘airspace users' representative’ means any legal person or entity representing the interests of one or several categories of airspace users;
+
+(7) ‘area control centre’ means a unit providing air traffic services to controlled flights in its area of responsibility.
+
+(8) ‘en route charging zone’ means a volume of airspace that extends from the ground up to, and including, upper airspace, where en route air navigation services are provided and for which a single cost base and a single unit rate are established;
+
+(9) ‘exceptional event’ means circumstances under which ATM capacity is abnormally reduced so that the level of air traffic flow management (‘ATFM’) delays is abnormally high, as a result of a planned limitation induced through operational or technical change, major adverse weather circumstances, the unavailability of large airspace parts either through natural or political reasons, or industrial action, and the activation of the European Aviation Crisis Coordination Cell (‘EACCC’) by the Network Manager;
+
+(10) ‘IFR air transport movements per year’ means the sum of take-offs and landings performed under IFR, calculated as the yearly average over the three calendar years preceding the year in which the draft performance plan was to be submitted in accordance with Article 12;
+
+(11) ‘forecast inflation index’ means the annual inflation index based on the third year before the start of a reference period and computed by using the latest available inflation forecast of average Consumer Price Index percentage change published by the International Monetary Fund for the Member State concerned at the time of drafting the performance plan. In case the percentage change published by the International Monetary Fund for a given year is negative, a zero value shall be used.
+
+(12) ‘actual inflation index’ means the annual actual inflation index based on the third year before the start of a reference period and computed by using the actual inflation rate published by the Commission in the Eurostat Harmonised Index of Consumer Price for the State concerned in April of year n+1. In case the percentage change published by the Commission for a given year is negative, a zero value shall be used.
+
+(13) ‘major investment’ means the acquisition, development, replacement, upgrade, or leasing of fixed assets representing a total value over the whole lifetime of the assets greater than EUR 5 million in real terms;
+
+(14) ‘national authority’ means a regulatory or supervisory authority established by one or more Member States at national or functional airspace block level;
+
+(15) ‘new and existing investment’ means the acquisition, development, replacement, upgrade or leasing of fixed assets where depreciation costs, cost of capital, or in the case of leasing, operating costs, for that investment are incurred during the reference period covered by the performance plan;
+
+(16) ‘reference period’ means the period of validity and application of the Union-wide performance targets, as set out in point (d) of Article 11(3) of Regulation (EC) No 549/2004 and Article 7 of this Regulation;
+
+(17) ‘reference value’ means the value computed by the Network Manager of en route ATFM delay for each Member State and each functional airspace block for the purpose of ensuring that the Union-wide en route ATFM delay target is met;
+
+(18) ‘restructuring costs’ means significant one-time costs incurred by air navigation service providers in the process of restructuring for introducing new technologies, procedures or business models to stimulate integrated service provision, compensating employees, closing air traffic control centres, shifting activities to new locations, writing off assets or acquiring strategic participations in other air navigation service providers;
+
+(19) ‘runway incursion’ means any occurrence at an aerodrome involving the incorrect presence of an aircraft, vehicle or person on the protected area of a surface designated for the landing and take-off of aircraft;
+
+(20) ‘separation minima infringement’ means a situation in which prescribed separation minima were not maintained between aircraft;
+
+(21) ‘terminal charging zone’ means an airport or a group of airports, located within the territories of a Member State, where terminal air navigation services are provided and for which a single cost base and a single unit rate are established.
+
+## CHAPTER II — TASKS AND RESPONSIBILITIES
+
+### Article 3 — Assistance by the Performance Review Body
+
+Where necessary for carrying out the tasks of the Commission related to the detailed functioning of the performance scheme, the Commission may request assistance from the Performance Review Body as regards the following:
+
+(a) the collection, examination, validation and dissemination of relevant data for the performance of air navigation services and network functions;
+
+(b) the selection or adaptation of key performance areas;
+
+(c) the definition of key performance indicators and indicators for monitoring;
+
+(d) the setting of Union-wide performance target ranges, and the setting and the revision of Union-wide performance targets;
+
+(e) the establishment of the baseline values, alert thresholds, and comparator groups referred to in Article 9(4);
+
+(f) the assessment of the consistency of draft national performance targets or performance targets set at the level of functional airspace blocks (‘FAB performance targets’) with the Union-wide performance targets in accordance with Article 14 and Article 15 and the review of draft performance plans in accordance with Article 14(1) and Article 15(1);
+
+(g) the verification of the completeness of the draft performance plans in accordance with Article 13;
+
+(h) the verification, in accordance with Article 19, of the draft Network Performance Plan as referred in Article 10(5) of this Regulation;
+
+(i) the assessment of revised performance targets and of the corrective measures adopted by Member States pursuant to Article 15(5);
+
+(j) the monitoring of the performance of air navigation services, including investment and capital expenditure, at Union level, at national level and at the level of functional airspace blocks;
+
+(k) the monitoring of the performance of the network functions in accordance with Article 37(2);
+
+(l) the assessment, in accordance with Article 37(3), of the information received from the national supervisory authorities in relation to the performance plans, for the purpose of monitoring the performance of the European ATM network;
+
+(m) the assessment of the achievement of the performance targets during the reference period;
+
+(n) the maintenance and support in the coordination of a stakeholder consultation calendar concerning performance plans and the consultation requirements referred to in Article 24(2) and (3) and in Article 30.
+
+### Article 4 — Provision of information and facilitation of monitoring by air navigation service providers
+
+1\. Where necessary for carrying out the tasks of the national supervisory authorities related to the detailed functioning of the performance scheme, the air navigation service providers shall, upon request and without delay, provide to those authorities the following:
+
+(a) information about local conditions relevant to the setting of national performance targets or performance targets set at the level of functional airspace block;
+
+(b) data for establishing the return on equity rate for air navigation charges;
+
+(c) information about planned investments in the five years following the date of the request, showing the profile of planned expenditure for new and existing investments during and beyond the reference period and how major investments contribute to performance in each key performance area;
+
+(d) their business plan referred to in point ATM/ANS.OR.D.005 of Annex III of Commission Implementing Regulation (EU) 2017/373 ( 2 );
+
+(e) information required for the application of Article 28(3);
+
+(f) data on cost bases and information on the allocation of costs among en route and terminal air navigation services, as well as data on revenues from commercial activities and the data on public funds received.
+
+2\. Air navigation service providers shall facilitate the activities necessary for the purposes of the monitoring referred to in Article 37(1) carried out by or on behalf of the competent national supervisory authority in accordance with the national law of the Member State of the authority concerned, in particular by providing relevant documents, data, information and oral explanations upon request and, where the national law of that Member State so permits and in accordance with that national law, by giving access to relevant premises, land or vehicles.
+
+### Article 5 — Assistance by the Network Manager
+
+The Network Manager shall carry out the following tasks related to the detailed functioning of the performance scheme:
+
+(a) support the Commission by providing relevant input for the establishment of Union-wide performance targets before the start of a reference period and for the monitoring of the achievement of those targets during the reference period, including by drawing the Commission's attention, without undue delay, to any circumstances where performance targets are not met or risk not being met or where significant and persistent drops in operational performance are observed;
+
+(b) upon request of the Commission, support the national supervisory authorities by providing relevant input for the preparation of the performance plans and by informing the national supervisory authority concerned, without undue delay, of any circumstances where national performance targets or FAB performance targets are not met or risk not being met or where significant and persistent drops in operational performance are observed;
+
+(c) support the air navigation service providers in reaching national performance targets or FAB performance targets through, in particular, the development and implementation of the Network Operations Plan referred to in Article 9 of Implementing Regulation (EU) 2019/123.
+
+### Article 6 — Coordination with the European Union Aviation Safety Agency
+
+Pursuant to Article 13a of Regulation (EC) No 549/2004 and in accordance with point (h) of Article 75(2) and Article 93(b) of Regulation (EU) 2018/1139, the Commission and the Member States shall coordinate with the European Union Aviation Safety Agency to ensure that:
+
+(a) safety aspects are properly addressed, including the setting, revision and implementation of key performance indicators and Union-wide performance targets in the key performance area of safety;
+
+(b) the key performance indicators and the performance targets in the key performance area of safety are consistent with the European Plan for Aviation Safety referred to in Article 6 of Regulation (EU) 2018/1139.
+
+## CHAPTER III — PERFORMANCE TARGET SETTING
+
+### Article 7 — Duration of the reference periods
+
+1\. The third reference period shall cover the calendar years 2020 to 2024 inclusive.
+
+2\. Subsequent reference periods shall each cover five calendar years.
+
+3\. The duration of the reference periods specified in paragraphs 1 and 2 shall be without prejudice to Article 10(6).
+
+### Article 8 — Key performance indicators and indicators for monitoring
+
+1\. The key performance indicators and the indicators for monitoring the performance of air navigation services at Union level for each key performance area shall be those established in Section 1 of Annex I.
+
+2\. The key performance indicators and the indicators for monitoring the performance of air navigation services at national level or at the level of functional airspace blocks shall be those established in Section 2 of Annex I.
+
+3\. The key performance indicators and the indicators for monitoring the performance of the network functions shall be those established in Section 3 of Annex I.
+
+4\. Member States may establish key performance indicators and indicators for monitoring in addition to those referred to in paragraph 2 as regards, in particular, civil-military or meteorological aspects.
+
+### Article 9 — Union-wide performance targets
+
+1\. At the latest 19 months before the start of a reference period, the national supervisory authorities shall provide to the Commission initial cost data and information about traffic forecasts referred to in point (f) of Article 10(2) related to the upcoming reference period, as inputs for the setting of Union-wide performance targets.
+
+2\. At the latest 15 months before the start of a reference period, the Commission shall publish indicative target ranges for the Union-wide performance targets, consisting of the annual minimum and maximum values within which the Commission intends to set the Union-wide performance targets.
+
+The Commission shall consult the stakeholders referred to in Article 10(3) of Regulation (EC) No 549/2004, other relevant persons and organisations and, regarding safety aspects, the European Union Aviation Safety Agency on those indicative target ranges.
+
+3\. At the latest seven months before the start of a reference period, the Commission shall adopt in accordance with point (a) of Article 11(3) of Regulation (EC) No 549/2004 the Union-wide performance targets for the key performance indicators referred to in Article 8(1).
+
+For this purpose, the Commission shall:
+
+(a) take account of the relevant inputs from the Performance Review Body, the Network Manager and the national supervisory authorities;
+
+(b) use en route traffic forecasts, expressed in terms of IFR movements and in service units and based on the latest available Eurocontrol's Statistics and Forecast Service (‘STATFOR’) base forecast;
+
+(c) substantiate each Union-wide performance target with a description of the underlying assumptions and rationale for that target, including the use made of inputs referred to in point (a) of this paragraph, the outcome of the consultation referred to in paragraph 2 and other relevant factual data.
+
+4\. Together with the adoption of the Union-wide performance targets, the Commission shall establish:
+
+(a) a Union-wide ‘baseline value for determined costs’ and a Union-wide ‘baseline value for the determined unit cost’, for the purpose of setting targets in the key performance area of cost-efficiency for the key performance indicator referred to in point 4.1 of Section 1 of Annex I. Those baseline values shall be calculated in respect to the year preceding the start of the reference period.
+
+The baseline value for determined costs shall be estimated by using the actual costs available for the preceding reference period and adjusted to take account of latest available cost estimates, traffic variations and their relation to costs.
+
+The baseline value for the determined unit cost shall be derived by dividing the baseline value for the determined costs with the traffic forecast expressed in service units for the year preceding the start of the reference period;
+
+(b) alert thresholds beyond which Member States may request a revision of the performance targets contained in performance plans, in accordance with point (a)(i) of Article 18(1). Those alert thresholds shall be based on the following parameters:
+
+(i) the deviation of the actual traffic from the traffic forecast over a given calendar year, expressed as a percentage of IFR movements;
+
+(ii) the deviation of the actual traffic from the traffic forecast over a given calendar year, expressed as a percentage of service units;
+
+(iii) the variation of the reference values as a result of the seasonal updates of the Network Operations Plan pursuant to point (a) of Article 9(4) and Article 9(8) of Implementing Regulation (EU) 2019/123 in comparison to the reference values from the latest version of the Network Operations Plan available at the time of drawing up the performance plan. This variation shall be expressed as a percentage of variation or as a fraction of minutes of en route ATFM delay, depending on the magnitude of the references values;
+
+(c) the comparator groups of air navigation service providers with a similar operational and economic environment, for the purposes of assessing performance targets in the key performance area of cost-efficiency.
+
+### Article 10 — Performance plans
+
+1\. National supervisory authorities shall draw up performance plans, either at national level or at the level of functional airspace blocks.
+
+2\. The performance plans shall be drawn up in accordance with the template set out in Annex II and shall include:
+
+(a) binding national performance targets or binding FAB performance targets, set on the basis of the key performance indicators referred to in Article 8(2), including a ‘baseline value for determined costs’ and a ‘baseline value for the determined unit cost’ for each charging zone, for the purpose of setting targets in the key performance area of cost-efficiency. Those baseline values shall be calculated in respect to the year preceding the start of the reference period.
+
+The baseline value for determined costs shall be estimated by using the actual costs available for the preceding reference period and shall be adjusted to take account of latest available cost estimates, traffic variations and their relation to costs.
+
+The baseline value for the determined unit costs shall be derived by dividing the baseline value for the determined costs with the latest available traffic forecast expressed in service units for the year preceding the start of the reference period;
+
+(b) determined costs for en route and terminal air navigation services set in accordance with points (a) and (b) of Article 15(2) of Regulation (EC) No 550/2004 and with this Regulation;
+
+(c) the incentive schemes established in accordance with Article 11, specifying the parameters of the incentive schemes, the modulation mechanism of pivot values referred to in Article 11(3) where applicable, as well as measures aimed at achieving the objectives of those incentive schemes;
+
+(d) a description of the main measures aimed at achieving performance targets;
+
+(e) a confirmation that it is consistent with the scope of this Regulation pursuant to Article 1 of this Regulation and Article 7 of Regulation (EC) No 549/2004;
+
+(f) en route traffic forecasts, expressed in terms of IFR movements and in service units and based on Eurocontrol's STATFOR base forecast;
+
+(g) terminal traffic forecasts, expressed in terms of IFR movements and in service units, based on Eurocontrol's STATFOR base forecast;
+
+(h) a description of initiatives to support cross-border coordination and the provision of cross-border services which are beneficial to the operational performance or cost-efficiency, or both;
+
+(i) information about:
+
+(i) major investments;
+
+(ii) change management plans for the entry into service of major airspace changes or for ATM system improvements, aimed at minimising any negative impact on the network performance.
+
+However, as regards point (f) and (g), national supervisory authorities may decide to use other en route and terminal traffic forecasts than those based on Eurocontrol's STATFOR base forecast. In that case, they shall consult the airspace users' representatives and air navigation service providers concerned and set out the reasons for using the other forecasts in the performance plan. Any differences with the Eurocontrol's STATFOR base forecast shall be related to specific local factors not sufficiently addressed by Eurocontrol's STATFOR base forecast. The same forecasts shall be used for all key performance areas.
+
+3\. The performance plans may contain additional performance targets set on the basis of the key performance indicators referred to in Article 8(4). Those targets shall support the achievement of the performance targets referred to in Article 9(3) and in point (a) of paragraph 2 of this Article.
+
+4\. In accordance with Article 10(1) and point (b) of Article 11(3) of Regulation (EC) No 549/2004, national supervisory authorities shall consult air navigation service providers, airspace users' representatives and, where relevant, airport operators and airport coordinators on the draft performance plans, including on the performance targets and incentive schemes contained therein.
+
+5\. The Network Manager shall draw up the Network Performance Plan. The Network Performance Plan shall be drawn up in accordance with the template set out in Annex III and shall set out:
+
+(a) the value added of the Network Manager in support to the activities of Member States, functional airspace blocks, air navigation service providers and civil and military airspace users towards achieving capacity and environment targets, and set out the contribution of the network functions towards achieving the Union-wide performance targets;
+
+(b) the performance targets and objectives for the Network Manager and for each network function and the measures aimed at achieving those targets.
+
+6\. Where as provided in the fourth subparagraph of point (c) of Article 11(3) of Regulation (EC) No 549/2004 the Commission has revised the Union-wide performance targets, Member States shall revise their performance plans and include revised performance targets in accordance with this Regulation.
+
+### Article 11 — Incentive schemes
+
+1\. The incentive schemes contained in the performance plans as adopted by the Member States shall:
+
+(a) set out incentives of financial nature for the achievement of the performance targets in the key performance areas of cost-efficiency and capacity in an effective and proportional manner;
+
+(b) apply during the entire period covered by the performance plan;
+
+(c) be non-discriminatory, transparent and effective;
+
+(d) apply to en route and terminal air navigation services.
+
+2\. The incentive schemes on performance targets in the key performance area of cost-efficiency shall be governed by Articles 27 and 28.
+
+3\. The incentive schemes on performance targets in the key performance area of capacity shall in addition to the principles set out in paragraph 1, meet the following principles:
+
+(a) they shall be proportionate to the level of ATFM delay and consist of financial advantages and financial disadvantages having material impact on revenue at risk;
+
+(b) they shall be set so that the maximum financial disadvantages are at least equal to the maximum financial advantages;
+
+The national supervisory authority shall define the maximum fixed percentages referred to in the second subparagraphs of points 2.1(a) and 2.2(a) of Annex XIII and in the second subparagraphs of points 2.1(b) and 2.2(b) of Annex XIII for the calculation of the financial advantages and disadvantages, subject to consultation of airspace users' representatives and of air navigation service providers concerned.
+
+In respect to the maximum fixed percentages referred to in the second subparagraphs of points 2.1(a) and 2.2(a) of Annex XIII for the calculation of the financial advantages, those percentages shall not exceed 2 %;
+
+(c) for the purpose of calculating the financial advantages or disadvantages, pivot values shall be used;
+
+The national supervisory authority shall decide, before the start of the reference period, whether those pivot values are to be based:
+
+(i) on the performance targets at national level, broken down at the level of each individual air navigation service provider; or
+
+(ii) on modulated performance targets at national level, broken down at the level of each individual air navigation service provider, set annually by the national supervisory authority for the following year in accordance with point 1 of Annex XIII and subject to consultation of airspace users' representatives and of air navigation service providers concerned. The modulation mechanism shall be defined in the performance plan and shall apply for each year of the reference period and shall not be changed during the reference period.
+
+The national supervisory authority shall inform the Commission about the pivot values annually;
+
+(d) there shall be a symmetric range around the pivot value set by the national supervisory authority, subject to consultation of airspace users' representatives and of air navigation service providers concerned, to ensure that minor variations in ATFM delay do not lead to any financial advantages or disadvantages;
+
+(e) where the actual average ATFM delay per flight in year n is lower than the pivot value set for year n and beyond the range referred to in point (d), this shall result in a financial advantage through an increase of the unit rate in year n+2 in accordance with point 2 of Annex XIII;
+
+(f) where the actual average ATFM delay per flight in year n is higher than the pivot value set for year n and beyond the range referred to in point (d), this shall result in a financial disadvantage through a reduction of the unit rate in year n+2 in accordance with point 2 of Annex XIII;
+
+(g) for the en route targets in the key performance area of capacity and where the performance plan is established at functional airspace block level, the following provisions shall apply, in additional to the principles referred to in points (a) to (f):
+
+(i) the national supervisory authorities concerned shall break down the FAB performance target referred to in point 3.1(a) of Section 2 of Annex I at the level of each individual air navigation service provider concerned, for the purpose of setting incentives at national level. The resulting values shall form the basis for pivot values referred to in point (c);
+
+(ii) the national supervisory authorities concerned shall apply the same incentive scheme, in a consistent manner to all air navigation service providers concerned;
+
+(iii) pivot values for the functional airspace block shall also be used in addition to pivot values at the level of each individual air navigation service provider referred to in point (i), and shall be based either:
+
+— on the performance targets at functional airspace block level, or
+
+— on modulated performance targets at functional airspace block level in accordance with point 1 of Annex XIII and subject to consultation of airspace users' representatives and of air navigation service providers concerned;
+
+(iv) by way of derogation from point (c), all national supervisory authorities concerned shall jointly decide on whether the pivot values at the level of each individual air navigation service provider and functional airspace block level are to be modulated or not. This decision shall apply in a uniform manner to all pivot values at the level of each individual air navigation service provider and functional airspace block level, for the entire duration of the reference period;
+
+(v) where performance targets at national and functional airspace block level are to be modulated, the same modulation mechanism shall apply to performance targets at national level and functional airspace block level;
+
+(vi) where the total en route ATFM delay per flight in year n at the functional airspace block level is higher than the pivot value set for year n referred to in point (iii) and beyond the range referred to in point (d) of paragraph 3, point (e) of paragraph 3 shall not apply and point (f) of paragraph 3 shall apply only to those air navigation service providers for which the actual ATFM delay per flight in year n is higher than the pivot value set for year n and beyond the range referred to in point (d);
+
+(vii) where the total en route ATFM delay per flight in year n at the functional airspace block level is lower than the pivot value set for year n referred to in point (iii) and beyond the range referred to in point (d) of paragraph 3, point (f) of paragraph 3 shall not apply and point (e) of paragraph 3 shall apply only to those air navigation service providers for which the actual ATFM delay per flight in year n is lower than the pivot value set for year n and beyond the range referred to in point (d).
+
+4\. The incentive schemes contained in the performance plans as adopted by the Member States may also set out incentives of financial nature for the achievement of the performance targets in the key performance area of environment or for the achievement of the additional performance targets referred to in Article 10(3) in line with points (b) and (c) of paragraph 1, provided that they are effective and proportional. Those incentive schemes should be applied in addition to and independently from the incentive schemes referred to in paragraphs 2 and 3. The aggregated financial advantage or financial disadvantage from those incentive schemes shall not exceed 2 % and 4 % of the determined costs of year n respectively.
+
+## CHAPTER IV — ADOPTION, ASSESSMENT AND REVISION OF PERFORMANCE PLANS
+
+### Article 12 — Adoption and submission of draft performance plans
+
+Each Member State shall adopt a draft performance plan, as drawn up by the national supervisory authority or authorities concerned at national level or at the level of functional airspace blocks, and submit it to the Commission, at the latest three months before the start of the reference period to which it relates. Where the draft performance plan is drawn up at the level of functional airspace block, after all Member States concerned have adopted that plan, it shall be submitted to the Commission.
+
+### Article 13 — Verification of completeness of draft performance plans
+
+1\. The Commission shall verify whether the draft performance plans submitted by Member States in accordance with Article 12 contain all the elements needed to assess compliance with the requirements listed in Article 10(2) and 10(4) and, where applicable, Article 10(3) and 10(5).
+
+2\. Where the Commission finds, after having carried out the verification referred to in paragraph 1, that one or several elements are missing, it shall, within one month from the date of receipt of the draft performance plan, request the Member State or Member States concerned to provide an updated draft performance plan, containing the missing element or elements.
+
+In that case, the Member State or Member States concerned shall submit the updated draft performance plan to the Commission without undue delay and in any event within three weeks from the date of the Commission's request.
+
+3\. The Commission shall start the assessment referred to in Article 14 of the draft performance plan upon the finding, after having carried out the verification referred to in paragraph 1, that the draft performance plan contains all required elements, or upon the receipt of the updated draft performance plan referred to in paragraph 2, as applicable.
+
+### Article 14 — Assessment and revision of draft performance plans and targets
+
+1\. The Commission shall assess the consistency of the national performance targets or FAB performance targets contained in the draft performance plans with the Union-wide performance targets on the basis of the criteria laid down in point 1 of Annex IV, and taking into account local circumstances. The Commission may complement the assessment by reviewing the draft performance plans in respect to the elements specified in point 2 of Annex IV.
+
+2\. Where, based on the assessment referred to in paragraph 1, the Commission finds that the performance targets contained in a draft performance plan are consistent with the Union-wide performance targets, the Commission shall, within five months from the date of the reception of the draft performance plan or, where applicable, of the updated draft performance plan referred to in Article 13(2), adopt a decision notifying the Member State or Member States concerned thereof.
+
+3\. Where, based on the assessment referred to in paragraph 1, the Commission finds that one or more performance targets contained in a draft performance plan are not consistent with the Union-wide performance targets, the Commission shall, within five months from the date of reception of the draft performance plan or, where applicable, of the updated draft performance plan referred to in Article 13(2), adopt a decision setting out the recommendations referred to in the second subparagraph of point (c) of Article 11(3) of Regulation (EC) No 549/2004.
+
+In that case, the Member State or Member States concerned shall, within three months from the date of the adoption of the Commission's decision, revise the performance targets and take appropriate measures to revise the draft performance plan accordingly, taking into account the Commission's recommendations, and submit the revised draft performance plan to the Commission.
+
+### Article 15 — Assessment of revised draft performance plans and targets and adoption of corrective measures
+
+1\. Upon receiving the revised draft performance plan submitted to it in accordance with Article 14(3), the Commission shall assess the revised draft performance plan and the consistency of the revised performance targets contained therein with the Union-wide performance targets, on the basis of the criteria laid down in point 1 of Annex IV, and taking into account local circumstances. The Commission may complement the assessment by reviewing the draft performance plans in respect to the elements specified in point 2 of Annex IV.
+
+2\. Where, based on the assessment referred to in paragraph 1, the Commission finds that the revised performance targets contained in the revised draft performance plan are consistent with the Union-wide performance targets, the Commission shall, within five months from the date of the reception of the revised draft performance plan, adopt a decision notifying the Member State or Member States concerned thereof.
+
+3\. Where, based on the assessment referred to in paragraph 1, the Commission finds that there are doubts about the consistency of the revised performance targets contained in the revised draft performance plan with the Union-wide performance targets, the Commission shall, within five months from the date of reception of the revised draft performance plan, initiate a detailed examination of those performance targets and the relevant local circumstances, requesting additional information from national supervisory authorities if necessary, and inform the Member State or Member States concerned thereof.
+
+4\. Where, after having carried out the detailed examination referred to in paragraph 3, the Commission finds that the revised performance targets contained in the revised draft performance plan are consistent with the Union-wide performance targets, the Commission shall, within five months from the date of the initiation of the detailed examination, adopt a decision notifying the Member State or Member States concerned thereof.
+
+5\. Where, having carried out the detailed examination referred to in paragraph 3, the Commission finds that the revised performance targets contained in the revised draft performance plan are not consistent with the Union-wide performance targets, the Commission shall, within five months from the date of the initiation of the detailed examination, adopt a decision setting out the corrective measures which the Member State or Member States concerned are to take, in accordance with the third subparagraph of point (c) of Article 11(3) of Regulation (EC) No 549/2004.
+
+6\. Where the Commission has adopted the decision referred to in paragraph 5, the Member State or Member States concerned shall, within three months from the date of the adoption of that decision, communicate to the Commission the measures that they have taken pursuant to that decision, as well as information demonstrating that those measures comply with that decision.
+
+7\. On the basis of the information communicated to it in accordance with paragraph 6, the Commission shall assess whether the measures taken by the Member State or Member States concerned are sufficient to ensure compliance with the decision referred to in paragraph 5, in accordance with the requirements of Regulation (EC) No 549/2004 and of this Regulation.
+
+Where the Commission finds that those measures are sufficient to ensure compliance with the decision referred to in paragraph 5, it shall notify the Member State or Member States concerned thereof.
+
+Where the Commission finds that those measures are not sufficient to ensure compliance with the decision referred to in paragraph 5, it shall notify the Member State or Member States concerned accordingly and shall take, where appropriate, action to address the non-compliance, including through actions provided for in Article 258 of the Treaty on the Functioning of the European Union.
+
+### Article 16 — Adoption of performance plans
+
+Each Member State shall adopt and publish its performance plan in one of the following circumstances, as applicable:
+
+(a) after the Commission has adopted a decision in application of Article 14(2), Article 15(2) or Article 15(4);
+
+(b) after the Commission has adopted a decision pursuant to the second subparagraph of Article 15(7);
+
+(c) after the Commission has adopted a decision following a request of a Member State or Member States concerned to revise during the reference period performance targets pursuant to Article 18(1), provided that the performance plan is adjusted by the Member State concerned in respect of the revised performance targets.
+
+### Article 17 — Performance targets or corrective measures adopted after the start of the reference period
+
+1\. Where, as a consequence of the time needed to complete the procedures referred to in Articles 14 and 15, Member States have not been able to adopt performance plans before the start of the reference period in accordance with Article 16, the performance targets contained in the most recent version of the draft performance plans shall apply on a provisional basis, until the performance plans are adopted.
+
+2\. In the situation referred to in paragraph 1, upon the adoption of the performance plans, the performance targets in the key performance area of cost-efficiency shall apply retroactively through an adjustment of the unit rates in accordance with Article 29(5).
+
+### Article 18 — Revision of performance targets during a reference period
+
+1\. During the reference period Member States may revise one or more performance targets contained in the performance plans and adopt performance plans which are amended accordingly, only where both of the following conditions are met:
+
+(a) the Member State or Member States concerned consider that the intended revision is necessary and proportionate in light of the occurrence of one or more of the following situations:
+
+(i) at least one of the alert thresholds referred to in point (b) of Article 9(4) is reached and the national supervisory authority or authorities concerned have assessed the situation and have shown that the resulting effects of reaching the alert threshold or thresholds cannot be sufficiently mitigated unless the performance targets are revised;
+
+(ii) the initial data, assumptions and rationales, including on investments, on the basis of which the performance targets concerned were set are to a significant and lasting extent no longer accurate due to circumstances that were unforeseeable at the time of the adoption of the performance plan, and the national supervisory authority or authorities concerned have assessed the situation and have shown that the resulting effects cannot be sufficiently mitigated unless the performance targets are revised;
+
+(b) the Commission has, based on a reasoned request by the Member State or Member States concerned, decided that:
+
+(i) it agrees that the intended revision is necessary and proportionate in light of the occurrence of one or more of the following situations referred to in point (a);
+
+(ii) the intended revised performance targets are consistent with the Union-wide performance targets, having assessed those targets on the basis of the criteria laid down in point 1 of Annex IV.
+
+The Commission shall adopt the decision referred to in point (b) within seven months from the date of the submission of the complete request submitted by the Member State or Member States concerned.
+
+2\. Any revisions of performance targets adopted in application of this Article shall not apply retroactively.
+
+### Article 19 — Approval of the Network Performance Plan
+
+1\. The Network Manager shall submit the draft Network Performance Plan to the Commission after its endorsement by the Network Management Board as referred to in point (o) of Article 18(1) of Implementing Regulation (EU) 2019/123 at the latest three months before the start of the reference period.
+
+2\. The Commission shall assess whether the draft Network Performance Plan meets the criteria laid down in Annex V.
+
+The Commission may request the Network Manager to submit a revision of that draft Network Performance Plan, where this is necessary to ensure compliance with criteria laid down in Annex V.
+
+3\. Where the Commission finds that the draft Network Performance Plan meets the criteria laid down in Annex V, it shall adopt the Network Performance Plan.
+
+4\. The Network Manager shall publish and implement the Network Performance Plan after its adoption by the Commission pursuant to paragraph 3.
+
+5\. Where, as a consequence of the time needed to complete the procedures referred to in paragraphs 2 and 3, the Network Performance Plan has not been adopted by the Commission before the start of the reference period, the most recent version of the draft Network Performance Plan endorsed by the Network Management Board shall apply on a provisional basis, until the Commission adopts the Network Performance Plan.
+
+## CHAPTER V — FINANCING OF AIR NAVIGATION SERVICES, ESTABLISHMENT OF CHARGING ZONES, ESTABLISHMENT OF COST BASES FOR CHARGES AND TRANSPARENCY
+
+### Article 20 — Principles for the financing of air navigation services
+
+1\. The determined costs of en route air navigation services shall be financed by en route charges imposed on airspace users and, where Article 25(3) applies, by other revenue as referred to in that Article.
+
+2\. The determined costs of terminal air navigation services shall be financed by terminal charges imposed on airspace users and, where Article 25(3) applies, by other revenue referred to in that Article.
+
+3\. Revenues derived from en route charges or terminal charges shall not be used to finance commercial activities of air navigation service providers.
+
+### Article 21 — Establishment of charging zones
+
+1\. Member States shall, in the airspace under their responsibility where air navigation services are provided to airspace users, establish one or more charging zones for the purposes of incurring en route charges (‘en route charging zone’) and one or more charging zones for the purposes of incurring terminal charges (‘terminal charging zone’).
+
+Member States shall consult the airspace users' representatives concerned prior to establishing or modifying those zones.
+
+Member States shall notify the Commission, and the Central Route Charges Office (‘CRCO’) of Eurocontrol where applicable, about the establishment or modification of those charging zones, at least seven months before the start of the reference period.
+
+2\. Member States shall ensure that the geographical scope of charging zones is clearly defined. The charging zones shall be consistent with the provision of air navigation services, and may include services provided by an air navigation service provider established in another Member State in relation to cross-border airspace.
+
+3\. Where air traffic services related to the approach and departure of aircraft are provided jointly for a group of airports, Member States may establish a specific terminal charging zone within the terminal area concerned.
+
+4\. Where Member States decide to establish en route charging zones or terminal charging zones which extend across the airspace for which more than one Member State is responsible, or where Member States decide to establish a common charging zone, the Member States concerned shall ensure consistent and uniform application of this Regulation to the provision of air navigation services in the airspace concerned.
+
+Member States shall, without delay, inform the Commission and the CRCO of Eurocontrol about any such decision.
+
+5\. Member States may modify or establish a new terminal charging zone during a reference period, provided that they:
+
+(a) consult the airspace users' representatives and air navigation service providers concerned prior to the modification;
+
+(b) notify, without undue delay, the Commission and the CRCO of Eurocontrol of the modification;
+
+(c) provide the Commission, without undue delay, with all of the following:
+
+(i) the relevant cost and traffic data adequately reflecting the situation before and after the modification;
+
+(ii) the comments of airspace users' representatives and air navigation service providers consulted in accordance with point (a);
+
+(iii) an assessment of the expected impact of the modification on the achievement of the national performance targets or FAB performance targets in the key performance area of cost-efficiency and on performance monitoring;
+
+(iv) an update of the performance plan with the relevant data.
+
+6\. Member States shall not modify an en route charging zone during a reference period.
+
+### Article 22 — Establishment of the cost base for charges
+
+1\. The cost base for en route and terminal charges shall consist of the determined costs related to the provision of air navigation services in the charging zone concerned.
+
+Determined costs stemming from new ATM systems and major overhauls of existing ATM systems shall only be included in the cost base where those systems are consistent with the implementation of the European ATM Master Plan, and, in particular, with the common projects referred to in Article 15a(3) of Regulation (EC) No 550/2004.
+
+Member States may decide to include in the cost base the following determined costs incurred in relation to the provision of air navigation services, in accordance with the second sentence of point (b) of Article 15(2) of Regulation (EC) No 550/2004:
+
+(a) determined costs incurred by competent authorities;
+
+(b) determined costs incurred by the qualified entities referred to in Article 3 of Regulation (EC) No 550/2004;
+
+(c) determined costs stemming from the Eurocontrol International Convention relating to cooperation for the safety of air navigation of 13 December 1960 as last amended.
+
+2\. Without prejudice to Article 18, the determined costs included in the cost bases for en route and terminal charges shall be set prior to the start of each reference period as part of the performance plan in real terms and specified for each calendar year of that period in real terms and in nominal terms, with the exception of the determined costs referred to in the third subparagraph of paragraph 1 and the determined costs referred to in points (c) and (d) of paragraph 4, which shall be set in nominal terms where historical cost accounting is applied.
+
+3\. Determined costs included in the cost bases for en route and terminal charges shall be calculated in national currency. Where a common charging zone with a single unit rate has been established, the Member States concerned shall ensure conversion of determined costs into a single currency, which may be the euro or another national currency of one of the Member States concerned to ensure a transparent calculation of the single unit rate in application of Article 25(4).
+
+4\. The determined costs included in the cost bases for en route and terminal charges shall consist of:
+
+(a) staff costs;
+
+(b) operating costs other than staff costs;
+
+(c) depreciation costs;
+
+(d) cost of capital;
+
+(e) exceptional costs;
+
+As regards point (a), staff costs shall include gross remuneration, overtime payments, and employers' contributions to social security schemes, as well as pension costs and costs of other benefits. Pension costs shall be calculated using prudent assumptions based on the applicable pension scheme or on national law, as appropriate. Those assumptions shall be specified in the performance plan.
+
+As regards point (b), operating costs other than staff costs shall include costs incurred for the purchase of goods and services used to provide air navigation services, including outsourced services, material, energy, utilities, rental of buildings, equipment and facilities, maintenance, insurance costs and travel expenses.
+
+As regards point (c), depreciation costs shall include costs related to the total fixed assets in operation for the purpose of providing air navigation services. The value of fixed assets shall be depreciated in accordance with their expected operating life, using the straight-line method applied to the costs of the assets being depreciated. Historical or current cost accounting shall be applied for the calculation of the depreciation. The methodology used to calculate depreciation costs shall not be altered during the duration of the depreciation and shall be consistent with the cost of capital applied, that is to say nominal cost of capital for historical cost accounting and real cost of capital for current cost accounting. Where current cost accounting is applied, the cost of capital shall not include inflation and the equivalent historical cost accounting figures shall also be provided to allow for comparison and assessment.
+
+As regards point (d), the cost of capital shall be equal to the product of the following elements:
+
+(i) the sum of the average net book value of fixed assets in operation or under construction and possible adjustments to total assets determined by the national supervisory authority and used by the air navigation service provider and of the average value of the net current assets, excluding interest-bearing accounts, that are required for the purposes of providing air navigation services;
+
+(ii) the weighted average of the interest rate on debts and of the return on equity. For air navigation service providers without any equity capital, the weighted average shall be calculated on the basis of a return applied to the difference between the total of the assets referred to in point (i) and the debts.
+
+For the purpose of establishing the cost of capital, the factors to which weight is to be given shall be based on the proportion of financing through either debt or equity. The interest rate on debts shall be equal to the weighted average interest rate on debts of the air navigation service provider. The return on equity shall be that provided in the performance plan for the reference period and shall be based on the financial risk incurred by the air navigation service provider.
+
+Where air navigation service providers incur costs from leasing fixed assets, those costs shall not be included in the calculation of cost of capital.
+
+As regards point (e), exceptional costs shall consist of non-recurring costs relating to the provision of air navigation services, including any non-recoverable taxes and customs duties.
+
+5\. The determined costs shall be allocated in a transparent way to the charging zones in respect of which they are incurred. Determined costs that are incurred in respect of several charging zones shall be allocated in a proportional way, on the basis of a transparent methodology.
+
+To this end, national supervisory authorities shall lay down, before the start of each reference period, the criteria used to allocate determined costs to charging zones, including in respect of points (b) and (c) of this paragraph, and the criteria to allocate the determined costs between en route and terminal services, and shall include this information in the performance plan in accordance with point 3.3(d) of Annex II.
+
+The determined costs included in the cost bases for terminal charging zones shall cover the cost of the following services:
+
+(a) aerodrome control services or aerodrome flight information services which include air traffic advisory services and alerting services;
+
+(b) air traffic services related to the approach and departure of aircraft within a certain distance of an airport which shall be defined on the basis of operational requirements;
+
+(c) the proportional part of the air navigation services common to en route and terminal services.
+
+6\. The determined costs incurred for flights exempted in accordance with Article 31(3) to (5) shall be composed of:
+
+(a) the determined costs of exempted VFR flights, calculated through a marginal cost methodology;
+
+(b) the determined costs of exempted IFR flights, calculated as the product of the following elements:
+
+(i) the determined costs incurred for IFR flights, which shall consist of the total determined costs less the determined costs of VFR flights;
+
+(ii) the ratio of the number of exempted service units to the total number of service units which shall consist of the service units in respect of IFR flights and, where they are not exempted, of VFR flights.
+
+The determined costs of exempted VFR flights shall be separated from the determined costs incurred for IFR flights for the purpose of calculating the unit rate.
+
+7\. The national supervisory authorities shall verify, in respect of each charging zone, that the cost bases for en route and terminal charges comply with the requirements of Article 15(2) of Regulation (EC) No 550/2004 and with this Article. For this purpose, the national supervisory authorities shall examine the relevant accounting documents, including any asset book and other material relevant to the establishment of the cost base for charges.
+
+### Article 23 — Actual costs
+
+The provisions of Article 22 shall apply mutatis mutandis to the establishment of actual costs.
+
+### Article 24 — Transparency of costs
+
+1\. Member States shall establish cost bases for charges for each charging zone in a transparent manner.
+
+2\. At the latest four months before the start of the reference period, Member States shall, in a coordinated manner, consult air navigation service providers, airspace users' representatives, and, where relevant, airport operators and airport coordinators on the intended establishment of the determined costs included in the cost base for en route and terminal charges, new and existing investments, service unit forecasts and charging policy for the reference period concerned.
+
+Member States shall also do so during a reference period, where they intend to request a revision of performance targets in the key performance area of cost-efficiency in accordance with Article 18(1).
+
+Member States shall provide the reporting tables and the information required in Annexes VII and IX to the entities invited to the consultation at least three weeks before the consultation.
+
+3\. During the reference period, Member States shall on an annual basis, in a coordinated manner, and in accordance with point 1 of Annex XII, consult air navigation service providers, airspace users' representatives, and, where relevant, airport operators and airport coordinators on the actual costs incurred during the previous year and the difference between the actual costs and the determined costs contained in the performance plan.
+
+Member States shall provide the reporting table and information required in Annex VII to the entities invited to the consultation at least three weeks before the consultation.
+
+4\. Member States shall provide the information referred to in the last subparagraph of paragraphs 2 and 3 to the Commission at the date when it is provided to the consulted parties. Member States shall also inform the Commission about the outcome of the consultation.
+
+## CHAPTER VI — CALCULATION OF UNIT RATES AND CHARGES
+
+### Article 25 — Calculation of unit rates
+
+1\. Member States shall calculate the en route and terminal unit rates before the start of each year of the reference period.
+
+2\. Those rates shall be calculated by dividing the forecast number of total en route or terminal service units for the relevant year, calculated in accordance with points 1 and 2 of Annex VIII respectively, into the algebraic sum of the following elements:
+
+(a) the determined costs, expressed in nominal terms, for the relevant year as set in the performance plan;
+
+(b) the adjustments for inflation in accordance with Article 26;
+
+(c) the adjustments resulting from the application of the traffic risk sharing mechanism in accordance with Article 27(2) to (5);
+
+(d) the adjustments resulting from the application of the cost risk sharing mechanism in accordance with Article 28(4) to (6);
+
+(e) the adjustments resulting from the application of the financial incentive schemes in accordance with Article 11(3) and (4);
+
+(f) the adjustments resulting from the modulation of air navigation charges in accordance with Article 32;
+
+(g) the adjustments resulting from traffic variations, in accordance with Article 27(8);
+
+(h) the adjustments resulting from traffic variations, in accordance with Article 27(9);
+
+(i) a deduction of other revenue, in accordance with paragraph 3 of this Article;
+
+(j) cross-financing between en route charging zones, or between terminal charging zones, in accordance with point (e) of Article 15(2) of Regulation (EC) No 550/2004;
+
+(k) adjustments for differences in revenue resulting from the temporary application of the unit rate in accordance with Article 29(5);
+
+(l) adjustments relating to previous reference periods.
+
+3\. For the purpose of point (i) of paragraph 2, the following revenues of air navigation service providers obtained in year n shall be deducted from the determined costs as ‘other revenue’:
+
+(a) public funds obtained from public authorities, including financial support from Union assistance programmes;
+
+(b) revenue obtained from commercial activities, where the Member State or Member States concerned have decided that those revenues are to be deducted;
+
+(c) with regard to terminal air navigation services, revenue obtained from contracts or agreements concluded between air navigation service providers and airport operators, where the Member State or Member States concerned have decided that those revenues are to be deducted.
+
+As regards point (a), public funds covering staff costs and other operating costs shall be deducted from the determined costs no later than in year n+2. Public funds covering depreciation costs shall be deducted from the determined costs in accordance with the depreciation schedule of the financed asset (duration and annuity). A Member State may decide not to deduct from determined costs an amount related to the administrative costs incurred for the reporting on the funding agreement if these administrative costs are not included in the cost base for charges. Equally, a Member State may decide not to deduct from determined costs public funds received to cover costs not known at the time of drafting the performance plan and therefore not included in the cost base for charges. Airspace users shall not be charged for the costs covered by public funds.
+
+As regards points (b) and (c), the revenue referred to in those points shall be deducted from the determined costs no later than in year n+2.
+
+4\. Unit rates shall be calculated in national currency.
+
+Where Member States decide to establish a common charging zone in accordance with Article 21(4), the unit rate shall be calculated in a single currency, which may be the euro or another national currency of one of the Member States concerned. The Member States concerned shall notify the Commission and the CRCO of Eurocontrol of the applicable currency.
+
+### Article 26 — Inflation adjustment
+
+For each year of the reference period, the determined costs included in the cost bases for en route and terminal charges of year n expressed in nominal terms shall be adjusted on the basis of the difference in percentage between the actual inflation index and the forecast inflation index for that year n and included as an adjustment for the calculation of the unit rate for year n+2.
+
+The determined costs referred to in the third subparagraph of Article 22(1), and the determined costs referred to in points (c) and (d) of Article 22(4) where historical cost accounting is applied, shall not be subject to any inflation adjustment.
+
+### Article 27 — Traffic risk sharing mechanism
+
+1\. In respect of the incentive schemes referred to in Article 11(2), a traffic risk sharing mechanism shall be applied. Under that mechanism, the risk of revenue changes due to deviations from the service unit forecast set out in the performance plan shall be shared between air navigation service providers and airspace users, in accordance with the provisions of this Article.
+
+2\. Where, over a given year n, the actual number of service units deviates from the forecast included in the performance plan for that year n by no more than 2 %, the resulting additional revenue or the resulting revenue loss shall be borne in full by the air navigation service provider or providers concerned.
+
+3\. Where, over a given year n, the actual number of service units exceeds the service unit forecast included in the performance plan for that year n by more than 2 %, 70 % of the resulting additional revenue obtained by the air navigation service provider or providers concerned in excess of 2 % of the difference between the actual service units and that forecast shall be passed on to airspace users through adjustments of the unit rates in year n+2.
+
+Where, over a given year n, the actual number of service units falls below the service unit forecast included in the performance plan for that year n by more than 2 %, 70 % of the resulting revenue loss incurred by the air navigation service provider or providers concerned in excess of 2 % of the difference between the actual service units and that forecast shall be recovered from airspace users, through adjustments of the unit rates in year n+2.
+
+4\. Where, over a given year n, the actual number of service units is lower than 90 % of the service unit forecast included in the performance plan for that year n, the amount of the revenue loss incurred by the air navigation service provider or providers concerned in excess of 10 % of the difference between the actual service units and that forecast shall be recovered in full, from airspace users, through adjustments of the unit rates in year n+2.
+
+Where, over a given year n, the actual number of service units exceeds 110 % of the service unit forecast included in the performance plan for that year n, the additional revenue obtained by the air navigation service provider or providers concerned in excess of 10 % of the difference between the actual service units and that forecast shall be passed on in full, to airspace users, through adjustments of the unit rates in year n+2.
+
+5\. National supervisory authorities may adapt the values of the parameters of the traffic risk sharing mechanism laid out in paragraphs 2 and 3. When adapting those values, the national supervisory authorities shall:
+
+(a) consult on the intended values the airspace users' representatives and air navigation service providers concerned;
+
+(b) ensure that the resulting risk exposure of the air navigation service providers is not lower than the maximum revenue at risk under the mechanism laid out in paragraphs 2 and 3;
+
+(c) consider the variation of costs of capacity provision by the air navigation service provider concerned due to variation in traffic.
+
+6\. The following determined costs shall not be subject to the provisions of paragraphs 2 to 5:
+
+(a) the determined costs established in accordance with the third subparagraph of Article 22(1);
+
+(b) the determined costs for meteorological services.
+
+7\. Member States may exempt from the application of paragraphs 2 to 5 the determined costs of providers of air navigation services which have received permission to provide air navigation services without certification, in accordance with Article 7(5) of Regulation (EC) No 550/2004.
+
+8\. In respect of the determined costs referred to in paragraph 6 and, if applicable, in paragraph 7, any additional revenue in year n due to differences between actual service units and the service unit forecast included in the performance plan for that year shall be passed on to airspace users, and any revenue loss shall be recovered from airspace users, through an adjustment of the unit rate in year n+2.
+
+9\. The adjustments to the unit rates referred to in points (b), (c), (d), (e), (f), (g), (h), (i), (j), (k) and (l) of Article 25(2) shall not be subject to the provisions of paragraphs 2 to 5. In respect of the adjustments referred to in points (b), (c), (d), (e), (f), (g), (i), (j) and (k) of Article 25(2), any additional revenue in year n due to differences between actual service units and the service unit forecast included in the performance plan for that year shall be passed on to airspace users, and any revenue loss shall be recovered from airspace users through an adjustment of the unit rate in year n+2.
+
+### Article 28 — Cost risk sharing mechanism
+
+1\. In respect of the incentive schemes referred to in Article 11(2), a cost risk sharing mechanism shall be applied. Under that mechanism, differences between determined costs included in the performance plan and actual costs shall be shared between air navigation service providers and airspace users, in accordance with the provisions of this Article.
+
+2\. The differences referred to in paragraph 1 shall be shared as follows:
+
+(a) where, over the whole reference period, actual costs fall below the determined costs, the air navigation service provider or the Member State concerned shall retain in full the resulting difference;
+
+(b) where, over the whole reference period, actual costs exceed the determined costs, the air navigation service provider or Member State concerned shall cover in full the resulting difference.
+
+3\. Paragraph 2 does not apply if the differences between determined costs and actual costs result from at least one of the following changes:
+
+(a) unforeseen changes in costs of new and existing investments;
+
+(b) unforeseen changes in costs referred to in the third subparagraph of Article 22(1);
+
+(c) unforeseen and significant changes in pension costs established in accordance with Article 22(4) resulting from unforeseeable changes in national pensions law, pensions accounting law or unforeseeable changes in financial market conditions, on the condition that such changes in pension costs are outside the control of the air navigation service provider and, in the case of cost increases, that the air navigation service provider has taken reasonable measures to manage cost increases during the reference period;
+
+(d) unforeseen and significant changes in costs resulting from unforeseeable changes in interest rates on loans that finance costs arising from the provision of air navigation services, on the condition that such changes in costs are outside the control of the air navigation service provider and, in the case of cost increases, that the air navigation service provider has taken reasonable measures to manage cost increases during the reference period;
+
+(e) unforeseen and significant changes in costs resulting from unforeseeable changes in national taxation law or other unforeseeable new cost items not covered in the performance plan but required by law.
+
+The determined costs relating to the costs referred to in this paragraph shall be identified and categorised in the performance plan, in accordance with point 3.3(h) of Annex II.
+
+The differences between determined and actual costs referred to in this paragraph shall be identified and explained annually in accordance with Annex VII and Annex IX.
+
+4\. In respect of the unforeseen changes in costs referred to in point (a) of paragraph 3, the differences between determined costs and actual costs shall be shared as follows:
+
+(a) where, over a calendar year or over the whole reference period, actual costs fall below the determined costs, the air navigation service provider or the Member State concerned shall reimburse the resulting difference to airspace users, through a reduction of the unit rate in year n+2 or in the following reference period, unless, based on a detailed justification of the air navigation service provider, the national supervisory authority decides, after consultation with airspace users' representatives, that the air navigation service provider shall not reimburse a part of the resulting difference;
+
+(b) where, over a calendar year or over the whole reference period, actual costs exceed the determined costs by not more than 5 %, Member States may decide that the resulting difference is recovered from airspace users by the air navigation service provider or the Member State concerned, through an increase of the unit rate in year n+2 or in the following reference period, subject to the approval by the national supervisory authority of a detailed justification provided by the air navigation service provider in particular as regards the need to increase capacity and after consultation with airspace users' representatives.
+
+Where, during the reference period, air navigation service providers intend to add, cancel or replace major investments with respect to information on major investments identified in the performance plan in accordance with point 2.2(b) of Annex II, these changes shall be approved by the national supervisory authority, after consultation of airspace users' representatives.
+
+5\. In respect of the unforeseen changes in costs referred to in point (b) of paragraph 3, the differences between determined costs and actual costs shall be shared as follows:
+
+(a) where, over a calendar year, actual costs fall below the determined costs established for that calendar year, Member States shall reimburse the resulting difference to airspace users through a reduction of the unit rate in year n+2;
+
+(b) where, over a calendar year, actual costs exceed the determined costs established for that calendar year, Member States shall recover the resulting difference from airspace users through an increase of the unit rate in year n+2.
+
+6\. In respect of the unforeseen changes in costs referred to in points (c), (d) and (e) of paragraph 3, the differences between determined costs and actual costs shall be shared as follows:
+
+(a) where, over a calendar year or over the whole reference period, actual costs fall below the determined costs, the air navigation service provider or the Member State concerned shall reimburse the resulting difference to airspace users through a reduction of the unit rate in year n+2, in the following reference period or in the following two reference periods if the amounts to be recovered impact the unit rate in a disproportionate manner;
+
+(b) where, over a calendar year or over the whole reference period, actual costs exceed the determined costs, Member States may decide that the resulting difference is recovered from airspace users by the air navigation service provider or the Member State concerned, through an increase of the unit rate in year n+2, in the following reference period or in the following two reference periods if the amounts to be recovered impact the unit rate in a disproportionate manner.
+
+7\. National supervisory authorities shall verify annually whether air navigation service providers apply correctly the provisions of this Article. National supervisory authorities shall draw up a report by 1 September of year n+1 on the changes in costs referred to in paragraph 3 which occurred in year n. The report shall be subject to consultation of airspace users' representatives.
+
+National supervisory authorities shall also include in the report which is due by 1 September of the year following the final year of the reference period the balance over the whole reference period in respect of the unforeseen changes in the costs referred to in points (a), (c), (d) and (e) of paragraph 3.
+
+### Article 29 — Setting unit rates for charging zones
+
+1\. Member States shall set a unit rate for each charging zone on an annual basis in accordance with Article 25. Without prejudice to paragraph 3, unit rates shall not be modified in the course of a year.
+
+2\. Member States shall set a unit rate for year n for each charging zone in line with the following requirements:
+
+(a) national supervisory authorities shall submit, on behalf of their respective Member State, the calculated unit rate to the Commission and to the CRCO of Eurocontrol by 1 June of year n-1. This submission shall include the reporting tables and additional information set out in Annex VII and Annex IX;
+
+(b) before 1 November of year n-1, if needed, national supervisory authorities shall update the calculated unit rate referred to in point (a), following consultation with airspace users. They shall submit this calculated updated unit rate, on behalf of their respective Member State, to the Commission and the CRCO of Eurocontrol, at the latest by 1 November of year n-1;
+
+(c) Member States shall set the unit rate for year n at the latest by 20 December of year n-1 and inform the Commission and the CRCO of Eurocontrol of that rate.
+
+3\. The Commission shall verify that the unit rates referred to in paragraph 2 are calculated in compliance with the requirements set out in Article 25(2).
+
+Where the Commission finds that a unit rate does not comply with the requirements set out in Article 25(2), it shall notify the Member State concerned and invite it to submit a revised unit rate.
+
+Where the Commission finds that the revised unit rate are calculated in compliance with the requirements set out in Article 25(2), it shall notify the Member State concerned accordingly.
+
+4\. Where, as a consequence of the time needed to complete the procedure referred to in paragraph 3, a unit rate for year n is revised after the start of the year to which it relates and such revision causes a difference in revenues, the unit rate shall be adjusted as follows:
+
+(a) a first adjustment of the unit rate in the year following the revision of the unit rate, and
+
+(b) a final adjustment of the unit rate two years after that year.
+
+5\. If Member States have not adopted a performance plan before the start of the reference period, or where the performance plan is revised in accordance with Article 18 during the reference period, the unit rates shall, where necessary, be recalculated and applied as soon as possible on the basis of the adopted performance plan or adopted revised performance plan.
+
+Where a performance plan is adopted after the start of the reference period, any difference in revenue due to the application of the unit rate or unit rates calculated on the basis of the draft performance plan, instead of the unit rate or unit rates calculated on the basis of the adopted performance plan, shall result in a first adjustment of the unit rate in the year following the adoption of the performance plan and a final adjustment of the unit rate two years after that year. The provisions of Articles 27 and 28 shall be applied on the basis of the adopted performance plan and shall apply retroactively as from the first day of the reference period.
+
+Where a performance plan is revised during the reference period in accordance with Article 18, any difference in revenue due to the application of the unit rate or unit rates calculated on the basis of the adopted performance plan, instead of the unit rate or unit rates calculated on the basis of the adopted revised performance plan, shall result in a first adjustment of the unit rate in the year following the adoption of the revised performance plan and a final adjustment of the unit rate two years after that year. The provisions of Articles 27 and 28 shall be applied on the basis of the adopted revised performance plan and shall apply retroactively as from the first day of the year to which the revised performance plan applies.
+
+6\. By derogation from Article 25(2), Member States may decide to set the unit rate referred to in paragraph 1 at a level lower than the unit rate calculated in accordance with Article 25(2). In that case, they shall include that lower unit rate in the reporting tables on unit rates calculation in accordance with the template of Table 2 of Annex IX. The resulting difference in revenues shall not be recovered from airspace users.
+
+### Article 30 — Transparency of unit rates
+
+1\. Member States shall, by 1 August of each year, in a coordinated manner, consult the air navigation service providers, airspace users' representatives, and, where relevant, airport operators and airport coordinators on essential elements relating to the implementation of this Regulation as set out in point 2 of Annex XII. This consultation may be conducted together with the consultation referred to in Article 24(3).
+
+Member States shall provide the reporting tables and the information required in Annex IX to the consulted parties at least three weeks before the consultation.
+
+2\. Member States shall provide the information referred to in the second subparagraph of paragraph 1 to the Commission on the same day when it is provided to the consulted parties. Member States shall inform the Commission about the outcome of the consultation.
+
+### Article 31 — Calculation of charges
+
+1\. The en route charge for a given flight in a given en route charging zone shall be equal to the product of the unit rate established for that en route charging zone and the en route service units for that flight.
+
+2\. The terminal charge for a given flight in a given terminal charging zone shall be equal to the product of the unit rate established for that terminal charging zone and the terminal service units for that flight.
+
+For the purpose of calculating the terminal charge, the approach and departure of a flight shall count as a single flight. The unit to be counted shall be either the arriving or the departing flight.
+
+3\. Member States shall exempt the following flights from en route charges:
+
+(a) flights performed by aircraft with a maximum authorised take-off weight which is less than two metric tons;
+
+(b) mixed VFR/IFR flights in the charging zones where they are performed exclusively under VFR and where an en route charge is not levied for VFR flights;
+
+(c) flights performed exclusively for the purpose of transport, on official mission, of reigning Monarchs and their immediate family, heads of state, heads of government and government ministers, where it is substantiated by the appropriate status indicator or remark on the flight plan that the flight is performed exclusively for that purpose;
+
+(d) search and rescue flights authorised by the appropriate competent body.
+
+4\. Member States may exempt the following flights from en route charges:
+
+(a) military flights performed by aircraft of a Member State or any third country;
+
+(b) training flights performed solely within the airspace of the Member State concerned and exclusively for the purpose of obtaining a licence, or a rating in the case of cockpit flight crew, where it is substantiated by an appropriate remark on the flight plan that the flight is performed exclusively for that purpose;
+
+(c) flights performed exclusively for the purpose of checking or testing equipment used or intended to be used as ground aids to air navigation, excluding positioning flights by the aircraft concerned;
+
+(d) flights terminating at the airport from which the aircraft has taken off and during which no intermediate landing has been made;
+
+(e) VFR flights;
+
+(f) humanitarian flights authorised by the appropriate competent body;
+
+(g) customs and police flights.
+
+5\. Member States may exempt from terminal charges the flights referred to in paragraphs 3 and 4.
+
+6\. Member States shall cover the costs for the services that air navigation service providers have provided to flights exempted from en route charges or terminal charges in accordance with paragraph 3, 4 or 5.
+
+### Article 32 — Modulation of air navigation charges
+
+1\. Member States may, on a non-discriminatory and transparent basis, modulate air navigation charges for airspace users to:
+
+(a) optimise the use of air navigation services;
+
+(b) reduce the environmental impact of flying;
+
+(c) reduce the level of congestion of the network in a specific area or on a specific route at specific times.
+
+(d) accelerate the deployment of SESAR ATM capabilities in anticipation of the time period set out in the common projects referred to in Article 15a(3) of Regulation (EC) No 550/2004, in particular with a view to giving incentives to equip aircraft with systems included in those common projects.
+
+Member States shall ensure that modulation of charges in respect of points (a) to (c) of this paragraph does not result in any overall change in annual revenue for the air navigation service provider compared to the situation where charges would not have been modulated. Over- or under recoveries shall result in an adjustment of the unit rate in year n+2.
+
+2\. Modulation of air navigation charges shall be applied in respect of the en route charge or the terminal charge, or both.
+
+Before the application of the modulation of charges, Member States shall consult airspace users' representatives and air navigation service providers concerned on such intended modulation.
+
+3\. National supervisory authorities shall monitor the proper implementation of the modulation of air navigation charges by air navigation service providers and report in accordance with Article 37(1).
+
+### Article 33 — Collection of charges
+
+1\. Member States may collect charges through a single charge per flight. Where charges are billed and collected on a regional basis, the billing currency may be the euro and an administrative unit rate for billing and collection costs may be added to the unit rate concerned.
+
+2\. Member States shall ensure that the amounts collected on their behalf are used to finance the determined costs in accordance with the provisions of this Regulation.
+
+3\. Airspace users shall promptly and fully pay all air navigation charges incurred in accordance with this Regulation.
+
+4\. Member States shall ensure that effective, and proportionate enforcement measures for the collection of air navigation charges are applied where necessary. Those measures may include denial of services, detention of aircraft or other enforcement measures in accordance with the law of the Member State concerned.
+
+## CHAPTER VII — SPECIAL PROVISIONS
+
+### Article 34 — Simplified charging scheme
+
+1\. Subject to the conditions set out in paragraph 2, Member States may decide to establish and apply a simplified charging scheme for the duration of an entire reference period in respect of:
+
+(a) one or more en route and one or more terminal charging zones;
+
+(b) one or more air navigation service providers providing services in the charging zone or zones referred to in point (a).
+
+2\. Member States may decide to establish and apply a simplified charging scheme referred to in paragraph 1 only if all of the following conditions are met:
+
+(a) a Commission decision adopted pursuant to Article 14(2), Article 15(2) or Article 15(4) confirms that the performance targets set by the Member State in the draft performance plan referred to in Article 12 are consistent with the Union-wide performance targets;
+
+(b) the performance targets in the key performance areas of safety, capacity and environment have been met in the three years preceding the adoption of the draft performance plan referred to in Article 12;
+
+(c) the performance plan includes an incentive scheme on capacity targets as required in Article 11;
+
+(d) the air navigation service providers concerned and the airspace users concerned have been consulted on the intended decision and airspace users representing at least 65 % of the IFR flights operated in the airspace where the Member State or Members States concerned are responsible for the provision of air navigation services agree with the intended decision.
+
+3\. If Member States decide to establish and apply a simplified charging scheme pursuant to paragraph 2, they shall not apply:
+
+(a) the traffic risk sharing mechanism referred to in Article 11(2) and Article 27. By not applying the traffic risk sharing mechanism, the traffic risk is therefore borne in full by the air navigation service provider;
+
+(b) the provisions of Article 28(4) to (6) related to the cost risk sharing mechanism;
+
+(c) the over or under recoveries resulting from the modulation of air navigation charges pursuant to Article 32.
+
+Any carry-over from the years preceding the reference period to which the simplified charging scheme is applied, shall still be taken into account in the calculation of unit rates.
+
+4\. If Member States decide to establish and apply a simplified charging scheme pursuant to paragraph 2, they shall specify and substantiate their decision in the performance plan, in accordance with point 1.7 of Annex II.
+
+### Article 35 — Terminal air navigation services and CNS, MET and AIS services and ATM data services subject to market conditions
+
+1\. Subject to the provisions of this Article, Member States may decide, either before or during a reference period, that the provision of some or all of the terminal air navigation services, CNS, MET, AIS services or air traffic management (‘ATM’) data services provided in their charging zones established in accordance with Article 21 is subject to market conditions.
+
+2\. Where a Member State or Member States decide to apply paragraph 1, for the upcoming reference period or, as the case may be, for the remaining duration of the reference period and in respect of the services concerned they shall not:
+
+(a) apply cost-efficiency targets, including the setting of determined costs, for the key performance indicators referred to in point 4.1 of Section 2 of Annex I;
+
+(b) apply traffic risk sharing and cost sharing mechanisms in accordance with Articles 27 and 28;
+
+(c) set financial incentives in the key performance areas of capacity and environment in accordance with Article 11;
+
+(d) calculate terminal charges in accordance with Article 31(2);
+
+(e) set terminal unit rates in accordance with Article 29;
+
+(f) be subject to the consultation requirements specified in Article 24(3).
+
+Points (d) to (f) apply only to terminal air navigation services.
+
+Where, during a reference period, a Member State decides to apply paragraph 1, it shall also revise its performance plan in accordance with Article 18(1) in respect of the services concerned.
+
+3\. A Member State shall decide to apply paragraph 1 only after having completed all of the following steps:
+
+(a) its national supervisory authority has found, on the basis of a detailed assessment in accordance with the conditions laid down in Annex X, that the provision of the services concerned is subject to market conditions;
+
+(b) it has consulted the airspace users' representatives concerned on the intended decision and on that assessment, and has taken account of their comments where appropriate;
+
+(c) it has made its intended decision and that assessment publicly available;
+
+(d) it has submitted its intended decision and that assessment to the Commission and received the agreement of the Commission.
+
+As regards point (d), the Member State shall submit the assessment no later than 12 months before the start of a reference period or, in the event of an assessment during the reference period, without undue delay upon having completed the assessment. The Commission shall notify the Member State concerned whether it agrees that the assessment has been carried out in accordance with the conditions laid down in Annex X. The Commission shall do so without undue delay. Where necessary, the Commission shall request additional information from the Member State concerned, which that Member State shall provide without undue delay.
+
+4\. If a Member State decides to apply paragraph 1, its national supervisory authority shall assess regularly whether the conditions laid down in Annex X continue to be met.
+
+If the national supervisory authority finds that those conditions are no longer met, the Member State shall, without undue delay, revoke its decision, after having completed the steps set out in points (b) to (d) of paragraph 3.
+
+Upon that revocation, the Member State shall, for the upcoming reference period or, as the case may be, for the remaining duration of the reference period, not apply the exemptions listed in the first subparagraph of paragraph 2 in respect of the services concerned. If the revocation occurs during the reference period, the Member State concerned shall also revise its performance plan in accordance with Article 18(1).
+
+5\. If the services subject to the application of paragraph 1 are provided in a common charging zone set up in accordance with Article 21(4), the Member States concerned may decide to establish that the provision of some or all of those services are subject to market conditions only jointly. In that case, they shall jointly ensure that the requirements of this Article are respected.
+
+6\. If a Member State decides to apply paragraph 1, it shall submit to the Commission the information specified in Annex XI in the first year of each reference period. The Commission shall not make that information publicly available.
+
+## CHAPTER VIII — PROVISION OF INFORMATION, MONITORING, AND PUBLICATION OF INFORMATION
+
+### Article 36 — Provision of information
+
+1\. For the purpose of monitoring in accordance with Article 37, national supervisory authorities, air navigation service providers, airport operators, airport coordinators, airspace users and the Network Manager shall provide to the Commission the data referred to in Annex VI in accordance with the specific requirements applicable to each party set out in that Annex. The data shall be provided free of charge in an electronic format.
+
+With respect to airspace users, this Article shall only apply to those users which operate more than 35 000 flights per year in European airspace, calculated as the average over the previous three years.
+
+2\. Where the parties referred to in paragraph 1 already provided some or all of that data to Eurocontrol or the European Union Aviation Safety Agency, they shall not be required to provide the data concerned to the Commission, provided that they inform the Commission about data they already provided, when they provided it and whether they provided it to Eurocontrol or to the European Union Aviation Safety Agency.
+
+3\. The parties referred to in paragraph 1 shall each take the necessary measures to ensure the quality, validation and timely transmission of the data that they are to provide in accordance with paragraph 1. They shall, upon request by the Commission, provide information on their quality checks and validation processes in respect of that data.
+
+### Article 37 — Monitoring and reporting
+
+1\. The national supervisory authorities shall monitor the performance of air navigation services provided in the airspace under their responsibility, with a view to assessing whether the performance targets contained in the performance plans are met.
+
+If a national supervisory authority finds that those targets are not met, or risk not being met, it shall immediately inform the Commission thereof. Without undue delay, the Member State or the national supervisory authority concerned shall, in order to rectify the situation and achieve the targets set in the performance plan, apply the appropriate measures they have defined, taking into consideration the remedial measures referred to in Article 10(2) of Implementing Regulation (EU) 2019/123. They shall communicate those appropriate measures to the Commission without undue delay.
+
+Not later than 1 June of each year, the national supervisory authorities shall report to the Commission on the results of the monitoring referred to in the first subparagraph in the preceding year.
+
+2\. The Commission shall monitor the performance of the network functions and assess whether the performance targets contained in the Network Performance Plan are met.
+
+If the Commission finds that the performance targets contained in the Network Performance Plan are not met or risk not being met, it shall request the Network Manager to define appropriate measures in order to rectify the situation and achieve those targets. The Network Manager shall communicate those measures to the Commission without undue delay.
+
+3\. On the basis of the reports referred to in the last subparagraph of paragraph 1, its own monitoring referred to in paragraph 2, and the analysis of data received in accordance with Article 36(1), the Commission shall monitor the performance of the provision of air navigation services and network functions and carry out regular assessments of the achievement of the performance targets. The Commission shall inform Member States of its monitoring activities at least once a year.
+
+### Article 38 — Publication
+
+1\. Member States shall make publicly available, in particular by electronic means, the following information:
+
+(a) any decisions which they have taken pursuant to Article 1(4) and (5);
+
+(b) any decisions which they have taken pursuant to point (c) of Article 35(3);
+
+(c) their draft performance plans referred to in Article 12;
+
+(d) their adopted performance plans referred to in Article 16;
+
+(e) their reporting tables referred to in Articles 24, 29 and 30.
+
+2\. The Network Manager shall make publicly available, in particular by electronic means, the following information:
+
+(a) the draft Network Performance Plan referred to in Article 19(1);
+
+(b) the adopted Network Performance Plan referred to in Article 19(3).
+
+3\. The Commission shall make publicly available, in particular by electronic means, the reports and supporting material produced by the Performance Review Body regarding the assistance provided by this Body in accordance with Article 3.
+
+## CHAPTER IX — FINAL PROVISIONS
+
+### Article 39 — Reasoning and appeal of national decisions
+
+Member States shall ensure that decisions taken by their competent national authorities pursuant to this Regulation are duly reasoned and are subject to effective judicial appeal in accordance with national law.
+
+### Article 40 — Repeal
+
+Implementing Regulations (EU) No 390/2013 and (EU) No 391/2013 are repealed with effect from 1 January 2020. However, those Regulations shall continue to apply for the purposes of the implementation of the performance and charging schemes pertaining to the second reference period.
+
+### Article 41 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — KEY PERFORMANCE INDICATORS (KPI) FOR TARGET SETTING AND INDICATORS FOR MONITORING
+
+**SECTION 1**
+
+**KPIs for Union-wide target setting and indicators for monitoring at Union level**
+
+**1\. SAFETY**
+
+**1.1. Key performance indicators**
+
+The minimum level of the effectiveness of safety management to be achieved by air navigation service providers certified to provide air traffic services. This KPI measures the level of implementation of the following safety management objectives:
+
+(a) safety policy and objectives;
+
+(b) safety risk management;
+
+(c) safety assurance;
+
+(d) safety promotion;
+
+(e) safety culture.
+
+**1.2. Indicators for monitoring**
+
+(a) The rate of runway incursions at Union level with a safety impact calculated in accordance with point 1.2(a) of Section 2;
+
+(b) the rate of separation minima infringements at Union level with a safety impact calculated in accordance with point 1.2(b) of Section 2.
+
+**2\. ENVIRONMENT**
+
+**2.1. Key performance indicators**
+
+This KPI measures the average horizontal en route flight efficiency of the actual trajectory, calculated as follows:
+
+(a) the comparison between the length of the en route part of the actual trajectory derived from surveillance data and the achieved distance, summed over IFR flights within or traversing the European airspace as defined in Article 1;
+
+(b) ‘en route part’ refers to the distance flown outside a circle of 40 NM around the airports;
+
+(c) where a flight departs from or arrives at an airport outside the European airspace, the entry or exit points of the European airspace are used for the calculation of this indicator as the origin or destination respectively, rather than the departure or destination airport;
+
+(d) where a flight departs from and arrives at an airport inside the European airspace and crosses non-European airspace, only the part inside the European airspace is used for the calculation of this indicator;
+
+(e) ‘achieved distance’ is a function of the position of the entry and exit points of the flight into and out of each portion of airspace for all parts of the trajectory. Achieved distance represents the contribution that those points make to the great circle distance between origin and destination of the flight;
+
+(f) the indicator is calculated for the whole calendar year and for each year of the reference period, as an average. When calculating this average, the ten highest daily values and the ten lowest daily values are excluded from the calculation.
+
+**2.2. Indicators for monitoring**
+
+(a) The average horizontal en route flight efficiency of the last filed flight plan trajectory, calculated as follows:
+
+(i) the difference between the length of the en route part of the last filed flight plan trajectory and the corresponding portion of the great circle distance, summed over all IFR flights within or traversing the European airspace;
+
+(ii) ‘en route part’ refers to the distance flown outside a circle of 40 NM around the airports;
+
+(iii) where a flight departs from or arrives at an airport outside the European airspace, the entry or exit points of the European airspace are used for the calculation of this indicator as the origin or destination respectively, rather than the departure or destination airport;
+
+(iv) where a flight departs from and arrives at an airport inside the European airspace and crosses non-European airspace, only the part inside the European airspace is used for the calculation of this indicator;
+
+(v) the indicator is calculated for the whole calendar year and for each year of the reference period, as an average. When calculating this average, the ten highest daily values and the ten lowest daily values are excluded from the calculation.
+
+(b) The average horizontal en route flight efficiency of the shortest constrained trajectory, calculated as follows:
+
+(i) the difference between the length of the en route part of the shortest constrained route available for flight planning, as calculated by the path finding algorithms and flight plan validation systems of the Network Manager, and the corresponding portion of the great circle distance summed over all IFR flights within or traversing the European airspace;
+
+(ii) this indicator considers the airspace restrictions on days with and without military activities published in the Route Availability Document (RAD) issued by the Network Manager and the actual status of conditional routes at the time of the last filed flight plan;
+
+(iii) ‘en route part’ refers to the part outside a circle of 40 NM around the airports;
+
+(iv) where a flight departs from or arrives at an airport outside the European airspace, the entry or exit points of the European airspace are used for the calculation of this indicator as the origin or destination respectively, rather than the departure or destination airport;
+
+(v) where a flight departs from and arrives at an airport inside the European airspace and crosses a non-European airspace, only the part inside the European airspace is used for the calculation of this indicator;
+
+(vi) the indicator is calculated for the whole calendar year and for each year of the reference period, as an average. When calculating this average, the ten highest daily values and the ten lowest daily values are excluded from the calculation.
+
+(c) The vertical flight efficiency of the actual trajectory between the top of climb and the top of descent, calculated as follows:
+
+(i) this indicator is the percentage of the length of the actual trajectory flown within 1 000 ft below, or at any altitude above the planned flight level from the last filed flight plan, summed over all IFR flights within or traversing European airspace
+
+(ii) the indicator is calculated as a percentage for the whole calendar year and for each year of the reference period.
+
+(d) The effective use of reserved or segregated airspace calculated as the ratio of the finally used time for segregation or reservation from general air traffic to the initially allocated time for the activity requiring segregation or reservation. The indicator is calculated for all airspace allocations notified to the Network Manager.
+
+(e) The rate of planning through available airspace structures, including reserved or segregated airspace, for general air traffic calculated as the percentage of aircraft filing flight plans via such airspace structures to the number of aircraft that could have planned through those airspace structures. The indicator is calculated for all airspace allocations notified to the Network Manager.
+
+(f) The rate of using available airspace structures, including reserved or segregated airspace, by general air traffic calculated as the percentage of aircraft flying via such airspace structures to the number of aircraft that could have planned through these airspace structures. The indicator is calculated for all airspace allocations notified to the Network Manager.
+
+**3\. CAPACITY**
+
+**3.1. Key performance indicator**
+
+The average minutes, of en route ATFM delay per flight attributable to air navigation services, calculated as follows:
+
+(a) the en route ATFM delay is the delay calculated by the Network Manager, expressed as the difference between the estimated take-off time and the calculated take-off time allocated by the Network Manager;
+
+(b) for the purposes of this indicator:
+
+‘estimated take-off time’ means the forecast of time when the aircraft will become airborne calculated by the Network Manager and based on the last estimated off-block time, or target off-block time for those airports covered by airport collaborative decision-making procedures, plus the estimated taxi-out time calculated by the Network Manager;
+
+‘calculated take-off time’ means the time allocated by the Network Manager on the day of operation, as a result of tactical slot allocation, at which a flight is expected to become airborne;
+
+‘estimated taxi-out time’ means the estimated time between off-block and take-off. This estimate includes any delay buffer time at the holding point or remote de-icing prior to take-off;
+
+(c) this indicator covers all IFR flights and all ATFM delay causes, excluding exceptional events;
+
+(d) this indicator is calculated for the whole calendar year and for each year of the reference period.
+
+**3.2. Indicators for monitoring**
+
+(a) The average time, expressed in minutes, of arrival ATFM delay per flight attributable to terminal and airport air navigation services and caused by landing restrictions at the destination airport, calculated as follows:
+
+(i) the average generated arrival ATFM delay per inbound IFR flight;
+
+(ii) this indicator includes all IFR flights landing at the destination airport and covers all arrival ATFM delay causes, excluding exceptional events;
+
+(iii) this indicator is calculated for the whole calendar year and for each year of the reference period.
+
+(b) The percentage of flights with en route ATFM delay greater than 15 minutes, calculated as below:
+
+(i) en route ATFM delay calculated in accordance with point 3.1(a);
+
+(ii) this indicator covers all IFR flights and all ATFM delay causes, excluding exceptional events;
+
+(iii) this indicator is calculated for the whole calendar year and for each year of the reference period.
+
+(c) The average time, expressed in minutes, of all cause-departure delay per flight, calculated as follows:
+
+(i) the average delay attributable to:
+
+— delays due to airline operations,
+
+— en route ATFM delay reported by airspace users,
+
+— reactionary (knock-on) delay,
+
+— airport operations delay, including ATFM airport delay reported by airspace users caused by regulation based on traffic volume which has a reference location classified as Aerodrome Zone or Aerodrome;
+
+(ii) covering all IFR flights and is calculated for the whole calendar year and for each year of the reference period.
+
+**4\. COST-EFFICIENCY**
+
+**4.1. Key performance indicators**
+
+The year-on-year change of the average Union-wide ‘determined unit cost’ (DUC) for en route air navigation services, calculated as follows:
+
+(a) a percentage, reflecting the year-on-year variation of the average Union-wide DUC for en route air navigation services, starting from the baseline value referred to in Article 9(4), point (a);
+
+(b) calculated for the whole calendar year and for each year of the reference period;
+
+(c) the average Union-wide DUC for en route air navigation services is the ratio between the en route determined costs and the en route forecast traffic, expressed in en route service units, expected during each year of the reference period at Union level, as contained in the Commission’s assumptions for establishing the Union-wide performance targets in accordance with Article 9(3);
+
+(d) the average Union-wide DUC for en route air navigation services is calculated in euro and in real terms.
+
+**4.2. Indicators for monitoring**
+
+The actual unit cost incurred by users separately for en route and terminal air navigation services at Union level, calculated as follows:
+
+(a) the weighted average of the sum of the DUC for each Member State for air navigation services and of the adjustments in accordance with Article 25(2) stemming from that year;
+
+(b) expressed in euro and in nominal terms;
+
+(c) calculated for the whole calendar year and for each year of the reference period.
+
+**SECTION 2**
+
+**KPIs for target setting at local level and indicators for monitoring at local level**
+
+**1\. SAFETY**
+
+**1.1. Key performance indicator**
+
+The level of the effectiveness of safety management in accordance with point 1.1 of Section 1.
+
+For the purposes of this indicator, ‘local’ means at the level of air navigation service providers.
+
+**1.2. Indicators for monitoring**
+
+(a) The rate of runway incursions at airports located in a Member State, calculated as the total number of runway incursions with a safety impact that occurred at those airports divided by the total number of instrument flight rules (IFR) and visual flight rules (VFR) movements at those airports.
+
+(b) The rate of separation minima infringements within the airspace of all controlling air traffic services units in a Member State, calculated as the total number of separation minima infringements with a safety impact that occurred in that airspace divided by the total number of controlled flight hours within that airspace.
+
+(c) The rate of runway incursions at an airport calculated as the total number of runway incursions with any contribution from air traffic services or communication, navigation and surveillance (CNS) services with a safety impact that occurred at that airport divided by the total number of IFR and VFR movements at that airport.
+
+(d) The rate of separation minima infringements within the airspace where the air navigation service provider provides air traffic services, calculated as the total number of separation minima infringements with any contribution from air traffic services, or CNS services with a safety impact divided by the total number of controlled flight hours within that airspace.
+
+The indicators for monitoring referred to in this point shall be calculated for the whole calendar year and for each year of the reference period.
+
+For the purposes of the indicators set out in points (a) and (c), ‘local’ means at airport level. For the purposes of the indicator set out in point (b), ‘local’ means at national level. For the purposes of the indicator set out in point (d), ‘local’ means the level of air navigation service providers.
+
+**2\. ENVIRONMENT**
+
+**2.1. Key performance indicator**
+
+The average horizontal en route flight efficiency of the actual trajectory, calculated as follows:
+
+(a) the comparison between the length of the en route part of the actual trajectory derived from surveillance data and the achieved distance, summed over IFR flights within or traversing the local airspace;
+
+(b) ‘en route part’ refers to the distance flown outside a circle of 40NM around the origin and destination airports;
+
+(c) where a flight departs from or arrives at an airport outside the local airspace, the entry or exit points of the local airspace are used for the calculation of this indicator;
+
+(d) where a flight departs from and arrives at an airport inside the local airspace and crosses a non-local airspace, only the part inside the local airspace is used for the calculation of this indicator;
+
+(e) ‘achieved distance’ is a function of the position of the entry and exit points of the flight into and out of the local airspace. Achieved distance represents the contribution that those points make to the great circle distance between origin and destination of the flight;
+
+(f) for the purposes of this indicator, ‘local’ means at national level or at the level of functional airspace blocks, depending on the level at which the performance plan is established;
+
+(g) the indicator is calculated for the whole calendar year and for each year of the reference period, as an average. When calculating this average, the ten highest daily values and the ten lowest daily values are excluded from the calculation.
+
+**2.2. Indicators for monitoring**
+
+(a) The average horizontal en route flight efficiency of the last filed flight plan trajectory, calculated at local level as follows:
+
+(i) the difference between the length of the en route part of the last filed flight plan trajectory and the corresponding portion of the great circle distance, summed over all IFR flights within or traversing the local airspace;
+
+(ii) ‘en route part’ refers to the distance flown outside a circle of 40 NM around the airports;
+
+(iii) where a flight departs from or arrives at an airport outside the local airspace, the entry or exit points of the local airspace are used for the calculation of this indicator;
+
+(iv) where a flight departs from and arrives at an airport inside the local airspace and crosses a non-local airspace, only the part inside the local airspace is used for the calculation of this indicator;
+
+(v) calculated for the whole calendar year and for each year of the reference period, as an average. When calculating this average, the ten highest daily values and the ten lowest daily values are excluded from the calculation.
+
+(b) The average horizontal en route flight efficiency of the shortest constrained trajectory, calculated at local level as follows:
+
+(i) the difference between the length of the en route part of the shortest constrained route available for flight planning, as calculated by the path finding algorithms and flight plan validation systems of the Network Manager, and the achieved distance summed over all IFR flights within or traversing the local airspace;
+
+(ii) this indicator considers the airspace restrictions published in the Route Availability Document issued by the Network Manager and the actual status of conditional routes at the time of the last filed flight plan;
+
+(iii) ‘en route part’ refers to the part outside a circle of 40NM around the origin and destination airports;
+
+(iv) where a flight departs from or arrives at an airport outside the local airspace, the entry or exit points of the local airspace are used for the calculation of this indicator;
+
+(v) where a flight departs from and arrives at an airport inside the local airspace and crosses a non-local airspace, only the part inside the local airspace is used for the calculation of this indicator;
+
+(vi) ‘achieved distance’ is a function of the position of the entry and exit points of the flight into and out of the local airspace. Achieved distance represents the contribution that those points make to the great circle distance between origin and destination of the flight;
+
+(vii) calculated for the whole calendar year and for each year of the reference period, as an average. When calculating this average, the ten highest daily values and the ten lowest daily values are excluded from the calculation.
+
+(c) The vertical flight efficiency of the actual trajectory between the top of climb and the top of descent, calculated as follows:
+
+(i) this indicator is the percentage of the length of the actual trajectory flown within 1 000 ft below, or at any altitude above the planned flight level from the last filed flight plan, summed over all IFR flights within or traversing the local airspace.
+
+(ii) the indicator is calculated as a percentage for the whole calendar year and for each year of the reference period.
+
+(d) The additional time in the taxi-out phase, calculated at local level as follows:
+
+(i) the difference between the actual taxi-out time and the reference taxi-out time;
+
+(ii) the reference taxi-out time represents the optimal transit time required to taxi-out without holding;
+
+(iii) expressed in minutes per departure, calculated for the whole calendar year and for each year of the reference period.
+
+(e) The additional time in the taxi-in phase, calculated at local level as follows:
+
+(i) the difference between the actual taxi-in time and the reference taxi-in time;
+
+(ii) the reference taxi-in time represents the optimal transit time required to taxi-in without holding;
+
+(iii) expressed in minutes per arrival, calculated for the whole calendar year and for each year of the reference period.
+
+(f) The additional time in terminal airspace, calculated at local level as follows:
+
+(i) the difference between the Arrival Sequencing and Metering Area (ASMA) transit time and the reference time based on ASMA transit times;
+
+(ii) the reference ASMA time represents the transit time required to execute the approach without holding or vectoring;
+
+(iii) expressed in minutes per arrival calculated for the whole calendar year and for each year of the reference period;
+
+(iv) the ASMA is defined as a cylinder with a radius of 40 NM around the arrival airport.
+
+(g) The vertical flight efficiency of the descent, calculated at local level as follows:
+
+(i) the duration of level flight from the top of descent to landing of all arriving IFR flights;
+
+(ii) expressed as the average duration of level flight in seconds per arrival;
+
+(iii) calculated for the whole calendar year and for each year of the reference period.
+
+(h) The vertical flight efficiency of the climb, calculated at local level as follows:
+
+(i) the duration of level flight from take-off to the top of climb of all departing IFR flights;
+
+(ii) expressed as the average duration of level flight in seconds per departure;
+
+(iii) calculated for the whole calendar year and for each year of the reference period.
+
+(i) The effective use of reserved or segregated local airspace, calculated in accordance with point 2.2(d) of Section 1.
+
+(j) The rate of planning via available local airspace structures, calculated in accordance with point 2.2(e) of Section 1.
+
+(k) The rate of using available local airspace structures, calculated in accordance with point 2.2(f) of Section 1.
+
+For the purposes of the indicators set out in points (a), (b), and (c), ‘local’ means at national level or at the level of functional airspace blocks depending on the level at which the performance plan is established, including cases of delegation of the responsibility for the provision of air traffic services as a result of collaborative cross-border arrangements.
+
+For the purposes of the indicators set out in points (d), (e) and (f), ‘local’ means at airport level with a minimum of 80 000 IFR air transport movements per year.
+
+For the purposes of the indicators set out in points (g) and (h), ‘local’ means at airport level.
+
+For the purposes of the indicators set out in points (i), (j) and (k), ‘local’ means at national level with a breakdown at the level of area control centres’ area of responsibility, including cases of delegation of the responsibility for the provision of air traffic services as a result of collaborative cross-border arrangements.
+
+**3\. CAPACITY**
+
+**3.1. Key performance indicators**
+
+(a) The average time, expressed in minutes, of en route ATFM delay per flight attributable to air navigation services, calculated as follows:
+
+(i) the en route ATFM delay, calculated in accordance with point 3.1 of Section 1;
+
+(ii) this indicator covers all IFR flights traversing the local airspace and all ATFM delay causes, excluding exceptional events; it also covers IFR flights traversing other airspaces, when delay corrections are applied as a result of the post-operations delay adjustment process coordinated by the Network Manager through which operational stakeholders notify the Network Manager of issues that relate to ATFM delay measurement, classification and assignment;
+
+(iii) calculated for the whole calendar year and for each year of the reference period;
+
+(iv) for monitoring, the values calculated for this indicator are broken down at national level in case the performance plan is established at functional airspace block level, including cases of delegation of the responsibility for the provision of air traffic services as a result of collaborative cross-border arrangements.
+
+(b) The average time, expressed in minutes, of arrival ATFM delay per flight attributable to terminal and airport air navigation services, calculated at local level as follows:
+
+(i) the average arrival delay at the destination airport caused by ATFM regulations per inbound IFR flight;
+
+(ii) cover all IFR flights landing at the destination airport and all ATFM delay causes, excluding exceptional events;
+
+(iii) calculated for the whole calendar year and for each year of the reference period;
+
+(iv) for monitoring, the values calculated for this indicator are broken down at airport level.
+
+For the purposes of the indicator set out in point (a), ‘local’ means at national level or at the level of functional airspace blocks depending on the level at which the performance plan is established. For the purposes of the indicator set out in point (b), ‘local’ means at national level.
+
+**3.2. Indicators for monitoring**
+
+(a) The percentage of IFR flights adhering to their ATFM departure slots at local level calculated for the whole calendar year and for each year of the reference period.
+
+(b) The average time, expressed in minutes, of air traffic control pre-departure delay per flight caused by take-off restrictions at the departure airport, calculated at local level as follows:
+
+(i) the average air traffic control pre-departure delay per outbound IFR flight;
+
+(ii) include all IFR flights taking off at the departure airport and cover delays in start-up caused by air traffic control constraints when the aircraft is ready to leave the departure stand;
+
+(iii) this indicator is calculated for the whole calendar year and for each year of the reference period.
+
+(c) The average time, expressed in minutes, of departure delay from all causes per flight, calculated at local level in accordance with point 3.2(c) of Section 1.
+
+(d) The percentage of the total en route ATFM delay minutes that occurred on days when the daily throughput was above the expected daily traffic, calculated as follows:
+
+(i) en route ATFM delay calculated in accordance with point 3.1 of Section 1;
+
+(ii) expected daily traffic refers to the daily traffic profile (guideline traffic) calculated by the Network Manager in January of each year;
+
+(iii) airspace throughput and traffic demand are measured as daily IFR flight entries in the airspace;
+
+(iv) the airspace is the area of responsibility defined for the calculation of en route ATFM delays.
+
+(e) The annual weighted average of the daily peak throughput, expressed as a number of IFR flights per hour, calculated as follows:
+
+(i) the daily peak throughput is an arithmetic average of the number of IFR flights during the three hours of each day with the highest number of flights;
+
+(ii) the value used to calculate the weighting is the number of IFR flights per day.
+
+For the purposes of the indicator set out in point (a), ‘local’ means at national level with a breakdown at airport level.
+
+For the purposes of the indicators set out in points (b) and (c), ‘local’ means at airport level for airports with 80 000 IFR air transport movements or more per year.
+
+For the purposes of indicators set out in points (d) and (e), ‘local’ means at area control centre level.
+
+**4\. COST-EFFICIENCY**
+
+**4.1. Key performance indicators**
+
+(a) The DUC for en route air navigation services, calculated as follows:
+
+(i) the ratio between the en route determined costs and the forecast traffic in the charging zone, expressed in en route service units, expected during each year of the reference period at local level, contained in the performance plans;
+
+(ii) expressed in real terms and in national currency;
+
+(iii) calculated for the whole calendar year and for each year of the reference period.
+
+(b) The DUC for terminal air navigation services, calculated as follows:
+
+(i) the ratio between the determined costs and the forecast traffic, expressed in terminal service units, expected during each year of the reference period at local level, contained in the performance plans;
+
+(ii) expressed in real terms and in national currency;
+
+(iii) calculated for the whole calendar year and for each year of the reference period.
+
+For the purposes of the indicators set out in points (a) and (b), ‘local’ means at charging zone level.
+
+**4.2. Indicators for monitoring**
+
+The actual unit cost incurred by users separately for en route and terminal air navigation services, calculated as follows:
+
+(a) a sum of the DUC for air navigation services and of the adjustments in accordance with Article 25(2) stemming from that year;
+
+(b) expressed in nominal terms and in national currency;
+
+(c) calculated for the charging zone level for the whole calendar year and for each year of the reference period.
+
+**SECTION 3**
+
+**KPIs for target setting and indicators for monitoring of the network functions**
+
+1\. All the indicators set out in this Section shall apply to the geographic area within the scope of this Regulation.
+
+**2\. SAFETY**
+
+**2.1. Key performance indicators**
+
+The level of the effectiveness of safety management of the Network Manager in accordance with point 1.1 of Section 1.
+
+**2.2. Indicators for monitoring**
+
+The ATFM over-deliveries above the capacity limits of a sector declared by the air navigation service provider where ATFM regulations are imposed, calculated as follows:
+
+(a) the ratio between the time that the number of flights exceeds by more than 10 % the capacity limits of a sector declared by the air navigation service provider where ATFM regulations are imposed, and the total time where ATFM regulations are imposed, calculated for the whole calendar year and for each year of the reference period;
+
+(b) for the purposes of this indicator, the regulated time is divided in overlapping hourly segments at every 20-minutes interval.
+
+**3\. ENVIRONMENT**
+
+**3.1. Key performance indicators**
+
+The en route flight efficiency improvement generated by the European Route Network Design function related to the last filed flight plan trajectory, expressed as a percentage point of the year-on-year variation of the en route flight efficiency of the last filed flight plan trajectory and calculated in accordance with point 2.2(a) of Section 1.
+
+**3.2. Indicators for monitoring**
+
+The annual sum of route extensions resulting from the CDM network procedures and Network Manager Operations Centre actions for en route ATFM delay savings. Route extensions are measured in nautical miles as the differences between the distance of the actual trajectories after flights accepted rerouting proposals from the Network Manager and the distance of the last filed flight plan trajectories before accepting the rerouting proposals.
+
+**4\. CAPACITY**
+
+**4.1. Key performance indicators**
+
+(a) The percentage of total initial minutes of en route ATFM delay saved as a result of Collaborative Decision-Making network procedures and Network Manager Operations Centre actions. The saved en route ATFM delay is calculated as the difference between the initial delay of the IFR flight without the measures and the en route ATFM delay of that flight after the delay-saving actions. The en route ATFM delay is calculated in accordance with point 3.1 of Section 1.
+
+(b) The percentage of total initial minutes of arrival ATFM delay saved as a result of Collaborative Decision-Making network procedures and Network Manager Operations Centre actions. The saved arrival ATFM delay is calculated as the difference between the initial delay of the IFR arrival without the measures and the airport arrival ATFM delay of that flight after the delay-saving actions. The arrival ATFM delay is calculated in accordance with point 3.2(a) of Section 1.
+
+**4.2. Indicators for monitoring**
+
+(a) The average, over a calendar year, of the daily number of ATFM regulations that each produces less than 200 minutes of delay.
+
+(b) The average, over a calendar year, of en route ATFM weekend delay expressed in minutes of delay per flight.
+
+(c) The annual percentage of all first rotation ATFM delays for a pre-selection of area control centres and airports with the most significant potential delay reduction as identified annually by the Network Manager, calculated as follows:
+
+(i) en route ATFM delay calculated in accordance with point 3.1 of Section 1;
+
+(ii) the hourly ATFM delay attribution is based on the estimated time of entry into the en route airspace affected;
+
+(iii) arrival ATFM delay calculated in accordance with point 3.2(a) of Section 1.
+
+**5\. COST-EFFICIENCY**
+
+**5.1. Indicators for monitoring**
+
+The unit cost for the execution of the tasks of the Network Manager, calculated as follows:
+
+(a) the ratio between the actual costs for the execution of the tasks of the Network Manager and the en route traffic, expressed in en route service units, during the reference period, at the level of the geographical area where the Network Manager performs its tasks necessary for the execution of the network functions;
+
+(b) expressed in euro and in real terms;
+
+(c) calculated for the whole calendar year and for each year of the reference period.
+
+## ANNEX II
+
+**TEMPLATE FOR PERFORMANCE PLANS AT NATIONAL OR FUNCTIONAL AIRSPACE BLOCK LEVEL REFERRED TO IN ARTICLE 10(1)**
+
+**1\. INTRODUCTION**
+
+1.1. Description of the situation, including scope of the plan in terms of geographical coverage and services, list of air navigation service providers covered and other general information relevant to the performance plan.
+
+1.2. Traffic forecasts referred to in points (f) and (g) of Article 10(2) expressed in IFR movements and in service units underpinning the performance plan based on Eurocontrol's Statistics and Forecast Service (STATFOR) base forecasts. Where the forecasts differ from the STATFOR base forecasts, the reasons that justify the use of a different forecast referred to in points (f) and (g) of Article 10(2) and a justification for the use of these forecasts shall be documented.
+
+1.3. Description of the outcome of the stakeholder consultation on the draft performance plan, including the points of agreement and disagreement as well as the reasons for any such disagreement.
+
+1.4. List of airports subject to the performance and charging scheme, with their average number of IFR air transport movements per year.
+
+1.5. Where applicable, list of services the provision of which has been established to be subject to market conditions in accordance with Article 35.
+
+1.6. As regards performance plans adopted at the level of functional airspace blocks, description of the process followed to develop and adopt the performance plan.
+
+1.7. Indication whether or not the simplified charging scheme referred to in Article 34 applies and if so, a demonstration that the conditions set out in that Article have been met as well as a description of the application of the simplified charging scheme and of its scope in terms of charging zones covered.
+
+**2\. INVESTMENTS**
+
+2.1. Description and justification of the costs, nature and benefits of new and existing investments in fixed assets planned over the reference period.
+
+2.2. The information referred to in point 2.1 shall include in particular:
+
+(a) the determined costs of new and existing investments in respect of depreciation, cost of capital and cost of leasing over the whole reference period and in respect of each calendar year thereof, as required in Annex VII;
+
+(b) description and justification of the major investments, including with regard to the following elements:
+
+(i) total value of each major investment;
+
+(ii) the asset or assets acquired or developed;
+
+(iii) information on the benefit of the investment for airspace users and on the results of the consultation of airspace users' representatives;
+
+(iv) as regards major investments in ATM systems:
+
+— differentiation between investments in new systems, overhaul of existing systems and replacement investments;
+
+— justification of the relevance of each investment with reference to the European ATM Master Plan, and the common projects referred to in Article 15a of Regulation (EC) No 550/2004;
+
+(c) detail of synergies achieved at the level of functional airspace blocks or, through other cross-border cooperation initiatives as appropriate, in particular in terms of common infrastructure and common procurement.
+
+**3\. NATIONAL PERFORMANCE TARGETS OR FAB PERFORMANCE TARGETS AND MEASURES FOR THEIR ACHIEVEMENT**
+
+3.1. National performance targets or FAB performance targets in each key performance area, set by reference to each key performance indicator set out in Section 2 of Annex I, and covering each calendar year of the reference period.
+
+3.2. For all key performance areas, description of the main measures put in place at national level or at the level of functional airspace blocks to achieve the performance targets.
+
+3.3. Additional information to substantiate the national performance targets or FAB performance targets in the key performance area of cost-efficiency:
+
+(a) determined costs for en route and terminal air navigation services set in accordance with points (a) and (b) of Article 15(2) of Regulation (EC) No 550/2004 and with this Regulation, for each year of the reference period;
+
+(b) en route and terminal service units forecast, for each year of the reference period;
+
+(c) the baseline values for en route and terminal cost-efficiency targets referred to in point (a) of Article 10(2) and description and justification of the methodology used to estimate those values for each charging zone;
+
+(d) description and justification of the criteria and methodology used for the allocation of costs to charging zones and allocation of costs between en route and terminal services, in accordance with Article 22(5);
+
+(e) description and justification of the return on equity of the air navigation service providers concerned, as well as on the gearing ratio and on the level and composition of the asset base used to calculate the cost of capital comprised in the determined costs;
+
+(f) description and justification of economic assumptions, including:
+
+— assumptions underlying the calculation of pension costs comprised in the determined costs, including a description on the relevant national pension regulations and pension accounting regulations on which those assumptions are based, as well as information whether changes of those regulations are to be expected;
+
+— interest rate assumptions for loans financing the provision of air navigation services, including amounts, duration and other relevant information on loans, and explanation for the weighted average interest on debt used to calculate the cost of capital pre-tax rate and the cost of capital comprised in the determined costs;
+
+— for information purposes only, inflation forecast based on the International Monetary Fund (IMF) Consumer Price Index (CPI);
+
+— adjustments beyond the provisions of the International Financial Reporting Standards adopted by the Union pursuant to Commission Regulation (EC) No 1126/2008 ( 3 );
+
+(g) description and explanation of the adjustments resulting from the years preceding the reference period;
+
+(h) identification and categorisation of the determined costs relating to the cost items referred to in Article 28(3);
+
+(i) where applicable, a description of any significant restructuring planned during the reference period;
+
+(j) where applicable, approved restructuring costs from previous reference periods to be recovered.
+
+(k) the reporting tables and additional information required in Annexes VII, IX and XI which to be attached to the performance plan;
+
+3.4. A breakdown of the performance targets set out in accordance with points 2.1 and 3.1(a) of Section 2 of Annex I at the level of each individual air navigation service provider covered by the performance plan and, in respect of performance plans established at the level of functional airspace blocks, reflecting the contributions of each provider concerned to the performance targets at the level of functional airspace blocks.
+
+3.5. Where there is no Union-wide performance target, description and explanation of how the national performance targets or FAB performance targets contribute to the improvement of the performance of the European ATM network.
+
+3.6. Description and explanation of the interdependencies and trade-offs between the key performance areas, including the assumptions used to assess those trade-offs.
+
+**4\. CROSS-BORDER INITIATIVES AND SESAR IMPLEMENTATION**
+
+4.1. Description of the cross-border cooperation initiatives implemented, or planned to be implemented, at the level of air navigation service providers to improve the provision of air navigation services. Identification of the performance gains enabled by those initiatives in the various key performance areas.
+
+4.2. Description of recent and expected progress in the deployment of SESAR common projects referred to in Article 15a of Regulation (EC) No 550/2004, as well as of change management practices in relation to transition plans in order to minimise any negative impact of changes on the network performance.
+
+**5\. TRAFFIC RISK SHARING ARRANGEMENTS AND INCENTIVE SCHEMES**
+
+5.1. In respect of each charging zone concerned, description of the defined values of the traffic risk sharing parameters applicable in accordance with Article 27:
+
+(a) identification of the applicable range referred to in Article 27(2) and of the traffic risk sharing keys referred to in Article 27(3);
+
+(b) in the event that the national supervisory authority adapts the values of the parameters of the traffic risk sharing mechanism referred to in point (a) in accordance with Article 27(5):
+
+(i) justification of the defined values of the traffic risk sharing parameters;
+
+(ii) description of the consultation process of airspace users and air navigation service providers on the setting of the values of the traffic risk sharing parameters and of the outcome of the consultation.
+
+5.2. In respect of incentive schemes applicable during the reference period in accordance with Article 11:
+
+(a) description and justification of the parameters of the incentive scheme defined in accordance with Article 11(3), including the pivot values, and the modulation mechanism of pivot values where applicable;
+
+(b) identification of the air navigation service providers and charging zones subject to the incentive schemes;
+
+(c) where applicable, description of the additional incentive schemes referred to in Article 11(4).
+
+**6\. IMPLEMENTATION OF THE PERFORMANCE PLAN**
+
+Description of the processes that the national supervisory authorities will put in place, in order to:
+
+(a) monitor the implementation of the performance plan;
+
+(b) address the situation where targets are not reached during the reference period.
+
+## ANNEX III
+
+**TEMPLATE FOR THE NETWORK PERFORMANCE PLAN REFERRED TO IN ARTICLE 10(5)**
+
+**1\. INTRODUCTION**
+
+1.1. Description of the situation, including scope of the Network Performance Plan, network functions covered, roles and responsibilities and other general information relevant to the plan.
+
+1.2. Description of the traffic forecast and macroeconomic scenario underpinning the Network Performance Plan.
+
+1.3. Description of the consistency of the Network Performance Plan with the Network Strategy Plan.
+
+1.4. Description of the outcome of the stakeholder consultation on the draft Network Performance Plan, including the points of agreement and disagreement as well as the reasons for any such disagreement, and description of the outcome of the consultation of the Network Management Board.
+
+**2\. NETWORK MANAGER'S VALUE ADDED**
+
+Areas of cooperation to support tasks and activities of Member States, functional airspace blocks, air navigation service providers, airports, civil and military airspace users.
+
+Description of the Network Manager's work on:
+
+(a) the elaboration and harmonisation of network and regional operational concepts;
+
+(b) the development and harmonisation of airspace projects based on network priorities including cross-border airspace design initiatives;
+
+(c) reducing inefficient use of route network and available airspace;
+
+(d) the development of enhanced airspace management and air traffic flow and capacity management processes;
+
+(e) the harmonised capacity planning and measurement of operational performance;
+
+(f) supporting the resolution of air traffic controller shortages across the network;
+
+(g) strengthening technical area coordination including at FAB level and addressing technical interoperability among air navigation service providers' systems and in particular with the Network Manager's systems;
+
+(h) the support to Network Safety and the implementation, monitoring and improvement of local safety performance.
+
+**3\. PERFORMANCE TARGETS, OBJECTIVES AND MEASURES**
+
+3.1. Safety performance of the Network Manager
+
+(a) performance target for the Network Manager on effectiveness of safety management.
+
+(b) description of the measures that the Network Manager puts in place to achieve this target.
+
+(c) description of the measures that the Network Manager puts in place to address ATFM over-deliveries.
+
+3.2. Cost-efficiency performance of the Network Manager
+
+(a) description of the measures that the Network Manager puts in place to improve its cost-efficiency.
+
+3.3. Performance targets and objectives specific to each network function
+
+(a) European Route Network Design (ERND) function:
+
+(i) performance targets for the key performance indicator set out in point 3.1 in Section 3 of Annex I;
+
+(ii) description and explanation of the measures aimed at achieving the performance targets for the ERND function:
+
+— measures related to the design of an efficient airspace structure;
+
+— measures related to a better airspace utilisation by the operational stakeholders;
+
+— measures related the optimisation of the flights.
+
+(iii) other flight efficiency initiatives.
+
+(b) Air Traffic Flow Management (ATFM) function;
+
+(i) performance targets for each relevant key performance indicator set out in point 4.1 in Section 3 of Annex I;
+
+(ii) description and explanation of the measures aimed at achieving the performance targets for the ATFM function:
+
+— initiatives and actions for reducing the ATFM delay including weekend delays, weather generated delays, minimising individual flight penalties, ATFM efficiency, reactionary delays, over deliveries;
+
+— military dimension of the plan.
+
+(iii) other capacity initiatives.
+
+(c) Coordination of scarce resources functions:
+
+(i) coordination of radio frequencies function:
+
+— description of the support to network capacity;
+
+— description of specific objectives.
+
+(ii) coordination of radar transponder codes function:
+
+— description of the support to network safety;
+
+— description of specific objectives.
+
+**4\. IMPLEMENTATION OF THE NETWORK PERFORMANCE PLAN**
+
+Description of the measures that the Network Manager puts in place, in order to:
+
+(a) assist the monitoring and the reporting of the implementation of the Network Performance Plan;
+
+(b) address the situation where targets are not reached during the reference period;
+
+(c) communicate with the national supervisory authorities.
+
+## ANNEX IV
+
+**CRITERIA FOR THE ASSESSMENT OF PERFORMANCE PLANS AND TARGETS AT NATIONAL OR FUNCTIONAL AIRSPACE BLOCK LEVEL**
+
+**1\. CONSISTENCY ASSESSMENT OF NATIONAL PERFORMANCE TARGETS OR FAB PERFORMANCE TARGETS**
+
+**1.1. SAFETY**
+
+Effectiveness of safety management
+
+Consistency of national performance targets or FAB performance targets on the level of effectiveness of safety management with the Union-wide performance targets by which, for each calendar year of the reference period, the level of effectiveness of safety management is equal to, or higher than, the corresponding Union-wide performance targets.
+
+**1.2. ENVIRONMENT**
+
+Average horizontal en route flight efficiency of the actual trajectory
+
+Consistency of national performance targets or FAB performance targets with the Union-wide performance targets for each calendar year of the reference period, by comparing the national performance targets or FAB performance targets with the en route horizontal flight efficiency reference values set out in latest version of the European Route Network Improvement Plan available at the time of adoption of the Union-wide performance targets.
+
+For the purpose of this paragraph, the ‘ en route horizontal flight efficiency reference value’ means the estimated value by the Network Manager of the flight efficiency of the actual trajectory at national level or at the level of functional airspace blocks, for the purpose of ensuring that the Union-wide target on horizontal en route flight efficiency of the actual trajectory is met.
+
+**1.3. CAPACITY**
+
+Average en route ATFM delay per flight
+
+Consistency of national performance targets or FAB performance targets with Union-wide performance targets for each calendar year of the reference period, by comparing the national performance targets or FAB performance targets with the reference values set out in the latest version of the Network Operations Plan available at the time of adoption of Union-wide performance targets.
+
+**1.4. COST-EFFICIENCY**
+
+En route determined unit cost
+
+(a) Consistency of the determined unit cost trend at charging zone level over the reference period with the Union-wide determined unit cost trend over the same period, whereby those trends are expressed as a percentage.
+
+For the purpose of calculating those trends, the applicable Union-wide and local performance target values and the baseline values for the determined unit costs referred to in point (a) of Article 9(4), and in point (a) of Article 10(2) shall be used.
+
+(b) Consistency of the determined unit cost trend at charging zone level over a time period covering both the reference period covered by the performance plan and the preceding reference period (‘long term determined unit cost trend’) with the Union-wide determined unit cost trend over the same period, whereby those trends are expressed as a percentage.
+
+The long-term determined unit cost trend at charging zone level shall be calculated by using the actual unit cost at charging zone level for the year before the start of the preceding reference period concerned.
+
+(c) Consistency of the determined unit cost level: comparison of the baseline value for the determined unit cost referred to in point (a) of Article 10(2) at the level of the charging zone concerned with the corresponding average value of the charging zones where air navigation service providers have a similar operational and economic environment as defined in accordance with point (c) of Article 9(4).
+
+(d) A deviation from the criteria referred to in points (a) to (c) may be deemed necessary and proportionate in order to:
+
+(i) allow the achievement of the performance targets in the key performance area of capacity set at national level or the level of functional airspace blocks provided that the deviation from the Union-wide determined unit cost trend is exclusively due to additional determined costs related to measures necessary to achieve the performance targets in the key performance area of capacity; or
+
+(ii) implement restructuring measures that lead to restructuring costs referred to in Article 2(18), provided that the deviation is exclusively due to those restructuring costs and that a demonstration is provided in the performance plan that the restructuring measures concerned will deliver a net financial benefit to airspace users at the latest in the subsequent reference period.
+
+**2\. REVIEW OF DRAFT PERFORMANCE PLANS**
+
+2.1. Elements subject to review:
+
+(a) measures for achievement of national or FAB performance targets in each key performance area as referred to in point 3.2 of Annex II;
+
+(b) national or FAB performance targets on average arrival ATFM delay per flight:
+
+(i) comparison with the level and trend of actual performance during the reference period which precedes the reference period covered by the performance plan;
+
+(ii) at airport level, comparison of performance with similar airports;
+
+(c) national or FAB performance targets on terminal DUC:
+
+(i) comparison with the en route determined unit cost trend at local level;
+
+(ii) comparison with the level and trend of actual performance during the reference period which precedes the reference period covered by the performance plan;
+
+(iii) at airport level, comparison of performance with similar airports;
+
+(d) key factors and parameters underpinning the national or FAB performance targets or performance in the key performance area of cost-efficiency:
+
+(i) baseline values and assumptions underpinning the setting of determined costs for the first year of the reference period, in comparison with the latest available actual costs;
+
+(ii) traffic forecasts used in the performance plan and, where the forecasts differ from the STATFOR base forecasts, the justifications provided;
+
+(iii) planned cost of capital with regard to the level and composition of the regulatory assets base, as well as the planned cost of capital pre-tax rate, including the interest rate on debt and the return on equity;
+
+(iv) determined costs of new and existing investments and justifications provided for major investments;
+
+(v) determined pension costs and assumptions underlying their calculation;
+
+(vi) interest rate assumptions for loans financing the provision of air navigation services, including amounts, duration and other relevant information on loans, reconciliation with the weighted average interest on debt used to calculate the cost of capital pre tax rate and the cost of capital comprised in the determined costs;
+
+(vii) methodology used for the allocation of costs between en route and terminal services and justifications of any change in the methodology compared to the previous reference period.
+
+(e) values of the traffic risk sharing parameters referred to in Article 27(2) and (3) and, in the event that the national supervisory authority has adapted the values for these parameters in accordance with Article 27(5), justifications provided for those values;
+
+(f) incentive scheme or schemes, referred to in Article 11;
+
+(g) performance benefits and synergies enabled by cross-border collaboration initiatives, including cooperation at the level of functional airspace blocks or through industrial alliances;
+
+(h) in respect to an application of a simplified charging scheme referred to in Article 34, verification that the criteria referred to in Article 34(2) are met.
+
+## ANNEX V
+
+**CRITERIA FOR THE ASSESSMENT OF THE DRAFT NETWORK PERFORMANCE PLAN**
+
+(a) Completeness of the draft Network Performance Plan in terms of the elements needed to assess compliance with the requirements listed in Article 10(5) and Annex III;
+
+(b) comprehensiveness of the actions taken by the Network Manager to contribute to network optimisation covering the actions listed in point 2 of Annex III;
+
+(c) consistency of the target on the level of effectiveness of safety management of the Network Manager with the Union-wide performance targets, by which, for each calendar year of the reference period, the level of effectiveness of safety management is equal to, or higher than, the corresponding Union-wide performance targets;
+
+(d) flight efficiency improvement measures generated by the European Route Network Design function;
+
+(e) en route ATFM delay savings from the Cooperative Decision-Making network procedures and Network Manager Operations Centre actions;
+
+(f) arrival ATFM delay savings from the Cooperative Decision-Making network procedures and Network Manager Operations Centre actions;
+
+(g) adequacy of the measures aimed at achieving the performance targets for the network functions including the relevance of investments and capital expenditure as regards the European ATM Master Plan, the common projects referred to in Article 15a of Regulation (EC) No 550/2004 and Regulation (EU) No 409/2013, and, where applicable, the Network Strategy Plan.
+
+## ANNEX VI
+
+**LIST OF PERFORMANCE-RELATED DATA TO BE PROVIDED TO THE COMMISSION FOR MONITORING OF PERFORMANCE IN ACCORDANCE WITH ARTICLE 36(1) AND ARTICLE 37**
+
+**1\. DATA TO BE PROVIDED BY NATIONAL SUPERVISORY AUTHORITIES**
+
+1.1. National supervisory authorities shall ensure that the following data is provided on a monthly basis:
+
+(a) data used and calculated by the Network Manager as defined in Annex I and Annex II of Implementing regulation (EU) 2019/123, including flight plans for general air traffic under IFR rules, actual routing, surveillance data based on 30 seconds reporting interval, en route and arrival ATFM delays, exemptions from ATFM regulations, respect of ATFM slots and frequency of conditional route usage;
+
+1.2. National supervisory authorities shall ensure that the following data is provided on an annual basis:
+
+(a) ATM-related safety occurrences;
+
+(b) information on safety recommendations and corrective actions taken on the basis of ATM-related incident analysis or investigation in accordance with Regulation (EU) No 996/2010 of the European Parliament and of the Council ( 4 ) and Regulation (EU) No 376/2014 of the European Parliament and of the Council ( 5 );
+
+(c) information collected by air navigation service providers, airport operators and air transport operators through automated safety data recording systems where available, as a minimum on runway incursions and separation minima infringements;
+
+(d) trends in, as a minimum, separation minima infringements and runway incursions, at all air traffic services units;
+
+**2\. DATA TO BE PROVIDED BY AIR NAVIGATION SERVICE PROVIDERS**
+
+2.1. Air navigation service providers shall provide the following on an annual basis:
+
+(a) the data referred to in the Eurocontrol Specification titled ‘Eurocontrol Specification for Economic Information Disclosure’, Edition 2.6 of 31 December 2008 with the reference Eurocontrol-SPEC-0117 for the provision of data up to, and including, year 2013, and Edition 3.0 of 4 December 2012 from year 2014 onwards.
+
+This data shall be provided before 15 July of year n+1, except for forward looking data which shall be provided by 1 November of year n + 1;
+
+(b) information required for the purpose of monitoring the key performance indicators and the indicators for monitoring referred to in points 1.1 and 1.2 of Section 2 of Annex I;
+
+This information shall be provided before 1 February of each year.
+
+(c) information on safety occurrences collected through automated safety data recording systems where available;
+
+(d) trends in, at the minimum, separation minima infringements, and runway incursions occurrences at all air traffic services units from both voluntary reports and automated safety data recording systems where available.
+
+2.2. Air navigation service providers shall provide the data referred to in Article 4 upon request.
+
+**3\. DATA TO BE PROVIDED BY AIRPORT OPERATORS FOR AIRPORTS WITH 80 000 IFR AIR TRANSPORT MOVEMENTS OR MORE PER YEAR**
+
+Airport operators shall provide the following:
+
+(a) the data referred to in the Eurocontrol Specification document titled ‘Airport Operator Data Flow — Data Specification’ version 1.0, 2019  .
+
+This data shall be provided on a monthly basis;
+
+(b) information on safety occurrences collected through automated safety data recording systems where available;
+
+This information shall be provided on an annual basis.
+
+**4\. DATA TO BE PROVIDED BY AIRPORT COORDINATORS**
+
+Airport coordinators shall provide the data referred to in points (c) and (d) of Article 4(8) of Regulation (EEC) No 95/93 twice a year, in accordance with the time intervals referred to in Article 6 of that Regulation.
+
+**5\. DATA TO BE PROVIDED BY AIRSPACE USERS**
+
+Airspace Users shall provide the following:
+
+(a) the data referred to in the Eurocontrol Specification document titled ‘Air Transport Operator Data Flow — Data Specification’ version 1.0, 2018.
+
+This data shall be provided on a monthly basis;
+
+(b) information on safety occurrences collected through automated safety data recording systems where available;
+
+This information shall be provided on an annual basis.
+
+**6\. DATA TO BE PROVIDED BY THE NETWORK MANAGER**
+
+The Network Manager shall provide on a monthly basis the data required for the monitoring of the key performance indicators and the indicators for monitoring referred to in points 2 and 3 of Section 1 of Annex I, points 2 and 3 of Section 2 of Annex I and in Section 3 of Annex I.
+
+## ANNEX VII
+
+**DETERMINED AND ACTUAL COSTS**
+
+**1\. REPORTING TABLE ON TOTAL COSTS AND UNIT COSTS**
+
+1.1. A reporting table on total costs and unit costs shall be filled separately for each relevant entity incurring costs in a charging zone using the template of Table 1. In addition, a consolidated reporting table shall be filled using the template of Table 1 aggregating the data from the relevant entities for the charging zone.
+
+In respect of terminal air navigation services, an additional reporting table on total costs and unit costs shall be filled in for each airport subject to this Regulation using the template of Table 1. Where Member States decide to apply the provisions of this Regulation to other airports referred to in Article 1(4), the costs for these airports may be presented in a consolidated table using the template of Table 1, except for the total costs referred to in line 4.2 of the template of Table 1 which shall be provided for each airport separately.
+
+When a charging zone extends across the airspace of more than one Member State, a joint reporting table using the template of Table 1 shall be filled in in accordance with the requirements of consistency and uniformity referred to in Article 21(4).
+
+1.2. The reporting tables on total costs and unit costs referred to in point 1.1 shall be filled in as part of the performance plan for each calendar year of the reference period and shall also be filled in annually to report on actual costs and actual service units. Actual service units shall be established on the basis of the figures provided by the entity that is billing and collecting charges. Any difference from these figures shall be duly justified in the additional information.
+
+[image]
+
+**2\. ADDITIONAL INFORMATION TO THE REPORTING TABLES ON TOTAL COSTS AND UNIT COSTS**
+
+2.1. The following additional information shall be provided, together with the information to be included in reporting tables on total costs and unit costs referred to in point 1.1 prior to the beginning of a reference period, as part of the performance plan:
+
+(a) a description of the methodology used for allocating costs of facilities or services between different air navigation services, based on the list of facilities and services listed in ICAO Regional Air Navigation Plan, European Region (Doc 7754) as last amended, and a description of the methodology used for allocating those costs between different charging zones;
+
+(b) a description of the methodology and assumptions used to establish the costs of air navigation services provided to VFR flights, when exemptions are granted for VFR flights in accordance with Article 31(3), 31(4) and 31(5);
+
+(c) the criteria used to allocate costs between terminal and en route services, in accordance with Article 22(5);
+
+(d) a breakdown of the meteorological costs between direct costs and the costs of supporting meteorological facilities and services that also serve meteorological requirements in general (‘MET core costs’). MET core costs include general analysis and forecasting, surface and upper-air observation networks, meteorological communication systems, data processing centres and supporting core research, training and administration;
+
+(e) a description of the methodology used for allocating total meteorological costs and MET core costs referred to in point (d) to civil aviation and between charging zones;
+
+(f) for each entity, description of the composition of each item of the determined costs by nature and by service (points 1 and 2 of Table 1), including a description of the main factors explaining the planned variations over the reference period;
+
+(g) for each entity, a description and justification of the method adopted for the calculation of depreciation costs (point 1.3 of Table 1): historical costs or current costs referred to in the fourth subparagraph of Article 22(4), and, where current cost accounting is used, provision of comparable historical cost data;
+
+(h) for each entity, description and underlying assumptions of each item of complementary information (point 3 of Table 1), including a description of the main factors explaining the variations over the reference period;
+
+(i) for each entity, description of the assumptions used to compute the cost of capital (point 1.4 of Table 1), including the composition of the asset base, the return on equity, the average interest on debts and the shares of financing of the asset base through debt and equity;
+
+(j) description of the determined costs of common projects (point 3.9 of Table 1).
+
+Any changes to points (a) to (j) during the reference period shall be reported together with the information provided in accordance with point 2.2.
+
+2.2. The following additional information shall be provided annually, together with the information to be included in the reporting tables on total costs and unit costs referred to in point 1.1:
+
+(a) for each entity and for each cost item, a description of the reported actual costs and the difference between those costs and the determined costs, for each year of the reference period;
+
+(b) a description of the reported actual service units and a description of any differences between those units and the figures provided by the entity that is billing and collecting charges as well as any differences between those units and the forecast set in the performance plan, for each year of the reference period;
+
+(c) the breakdown of the actual costs of common projects per individual project;
+
+(d) justification of the difference between the determined and the actual costs of new and existing investments of the air navigation service providers, as well as the difference between the planned and the actual date of entry into operation of the fixed assets financed by those investments for each year of the reference period;
+
+(e) description of the investment projects added, cancelled or replaced during the reference period with respect to the major investment projects identified in the performance plan, and approved by the national supervisory authority in accordance with Article 28(4).
+
+## ANNEX VIII
+
+**REQUIREMENTS FOR THE CALCULATION OF EN ROUTE AND TERMINAL SERVICE UNITS REFERRED TO IN ARTICLE 25**
+
+**1\. Calculation of en route service units**
+
+1.1. The en route service units shall be calculated as the product of the distance factor and the weight factor for the flight concerned. The total en route service units shall consist of the total service units in respect of IFR flights, as well as the service units in respect of VFR flights, where VFR flights are not exempted in accordance with Article 31(3), 31(4) and 31(5).
+
+1.2. The distance factor in respect of a given charging zone shall be obtained by dividing by one hundred the number of kilometres flown in the great circle distance between the aerodrome of departure within, or the entry point into, the charging zone and the aerodrome of arrival within, or the exit point from, the charging zone, according to the actual route flown as recorded by the Network Manager.
+
+The distance to be taken into account shall be reduced by 20 kilometres for each take-off from and for each landing in the charging zone.
+
+1.3. The weight factor, expressed as a figure taken to two decimal places, shall be the square root of the quotient obtained by dividing by fifty the number of metric tons expressed as a figure taken to one decimal in the certificated maximum take-off weight of the aircraft as shown in the Aircraft Flight Manual.
+
+1.4. Where an aircraft has multiple certificated maximum take-off weights, the highest one shall be used.
+
+1.5. Aircraft operators shall declare the composition of their fleet and the certificated maximum take-off weight of each of their aircraft to the body responsible for the collection of the charge whenever there is a modification and at least annually.
+
+Where the weight factor is unknown, the weight factor shall be calculated by taking the weight of the heaviest aircraft of the same type known to exist.
+
+1.6. Where charges are billed on a regional basis, Member States may adopt common modalities of application.
+
+**2\. Calculation of terminal service units**
+
+2.1. The terminal service unit shall be equal to the weight factor for the aircraft concerned.
+
+2.2. The weight factor, expressed as a figure taken to two decimal places, shall be the quotient, obtained by dividing by fifty the number of metric tons in the highest maximum certified take-off weight of the aircraft, referred to in points 1.3 to 1.5 of Annex VIII, to the power of 0,7.
+
+## ANNEX IX
+
+**UNIT RATES**
+
+**1\. REPORTING TABLES ON UNIT RATE CALCULATION**
+
+A reporting table on unit rate calculation shall be filled in annually and separately for each relevant entity incurring costs in a charging zone using the template of Table 2. In addition, a consolidated reporting table shall be filled annually using the template of Table 2 aggregating the data from the relevant entities for the charging zone.
+
+**2\. REPORTING TABLES ON COMPLEMENTARY INFORMATION ON ADJUSTMENTS**
+
+A consolidated reporting table for each charging zone on complementary information on adjustments shall be filled in annually using the template of Table 3.
+
+**3\. REPORTING TABLES ON COMPLEMENTARY INFORMATION ON COMMON PROJECTS AND ON REVENUES FROM UNION ASSISTANCE PROGRAMMES**
+
+A consolidated reporting table for each charging zone on complementary information on common projects and on revenues from Union assistance programmes shall be filled in annually using the template of Table 4.
+
+[image]
+
+[image]
+
+[image]
+
+[image]
+
+**4\. ADDITIONAL INFORMATION TO THE REPORTING TABLES REFERRED TO IN POINTS 1, 2 AND 3**
+
+The following additional information shall be provided together with the information to be included in the reporting tables on unit rate calculation and on complementary information on adjustments, referred to in points 1 and 2:
+
+(a) description and rationale for establishment of the different charging zones, in particular with regard to terminal charging zones and potential cross-subsidies between charging zones;
+
+(b) description of the policy on exemptions and description of the financing means to cover the related costs;
+
+(c) description of adjustments resulting from the traffic risk sharing mechanism in accordance with Article 27;
+
+(d) description of the differences between determined costs and actual costs of year n as a result of the changes in costs referred to in Article 28(3) including description of the changes referred to in that Article;
+
+(e) description of adjustments resulting from unforeseen changes in costs in accordance with Article 28(3) to (6).
+
+(f) description of the other revenues, if any, broken down between the different categories indicated in Article 25(3);
+
+(g) description of the application of the financial incentive schemes referred to in Article 11(3) and 11(4) in year n and the resulting financial advantages and disadvantages; description and explanation of the modulation of air navigation charges applied in year n under Article 32 where applicable, and resulting adjustments.
+
+(h) description of adjustments relating to the temporary application of a unit rate under Article 29(5);
+
+(i) description of the cross-financing between en route charging zones, or between terminal charging zones, in accordance with point (e) of Article 15(2) of Regulation (EC) No 550/2004;
+
+(j) information on the application of a lower unit rate under Article 29(6) than the unit rate calculated in accordance with Article 25(2) and the means to finance the difference in revenue;
+
+(k) information and breakdown of the adjustments relating to previous reference periods impacting the unit rate calculation.
+
+The following additional information shall be provided together with the information to be included in the reporting tables on complementary information on common projects and on Union assistance programme referred to in point 3:
+
+(l) information on the costs of common projects and other funded projects broken down per individual project, as well as of public funds obtained from public authorities for these projects.
+
+## ANNEX X
+
+**CRITERIA FOR THE ASSESSMENT OF WHETHER THE PROVISION OF THE SERVICES REFERRED TO IN ARTICLE 35(1) IS SUBJECT TO MARKET CONDITIONS**
+
+1\. The extent to which service providers can freely choose to enter or withdraw from the provision of those services:
+
+(a) the existence of any significant legal, economic or other barrier that would prevent a service provider from offering to provide, or continue to provide those services;
+
+(b) the scope, duration and value of service contracts;
+
+(c) the existence of procedures allowing tangible and intangible assets, intellectual property and staff to be transferred or otherwise be made available from the incumbent to another party.
+
+2\. The extent to which there is a free choice in respect to service provider, including, in the case of airports, the option to self-supply terminal air navigation services:
+
+(a) the existence of legal, contractual or practical barriers to change service provider, or in the case of terminal air navigation services, to move towards self-supply of air navigation services by airports;
+
+(b) the existence of a consultation process to take airspace user views into account when altering service provision arrangements.
+
+3\. The extent to which a market structure and competition either exists or a credible prospect of competition exists:
+
+(a) the existence of a public tendering process (not applicable in case of self-supply);
+
+(b) evidence of credible alternative service providers able to participate in a tendering process and having provided services in the past, including the option of self-supply for the airport.
+
+4\. For terminal air navigation services, the extent to which airports are subject to commercial cost pressures or incentive-based regulation:
+
+(a) whether airports actively compete for airline business;
+
+(b) the extent to which airports bear the air navigation service charge;
+
+(c) whether airports operate in a competitive environment or under economic incentives designed to cap prices or otherwise incentivise cost reductions.
+
+5\. The extent to which a provider of terminal air navigation services or CNS, MET and AIS services or ATM data services that also provides en route air navigation services has separate accounting and reporting.
+
+6\. For terminal air navigation services, the assessment in this Annex shall be carried out at each individual airport, or in groups of airports.
+
+## ANNEX XI
+
+**REPORTING TABLES TO SUPPORT THE COST BASE AND UNIT RATES TO BE PROVIDED TO THE COMMISSION IN ACCORDANCE WITH ARTICLE 35(6)**
+
+**1\. THE COSTS OF AIR NAVIGATION SERVICES**
+
+**1.1. Reporting tables**
+
+The following instructions shall be followed for the purpose of reporting data in Tables A and B;
+
+(a) the tables shall be filled in for each charging zone. Costs and prices shall be established in national currency;
+
+(b) for Table A, the figures shall be actual figures for year (n-5) until year (n-1) and planned figures for year (n) onwards;
+
+(c) for Table B, the annual price shall reflect the value of the contract. The unit of output considered to determine the value of the contract shall be described and reported in the table by the Member State concerned. As regards terminal air navigation services, Table B shall be filled in separately for each airport where air navigation services are provided under market conditions in the terminal charging zone.
+
+Table A
+
+[image]
+
+Table B
+
+[image]
+
+**1.2. Additional information**
+
+The following additional information shall be provided together with the information to be included in Tables A and B:
+
+(a) description of the unit of output used in Table B;
+
+(b) description of the criteria used for allocating costs of facilities or services between different air navigation services based on the list of facilities and services listed in ICAO Regional Air Navigation Plan, European Region (Doc 7754);
+
+(c) description and explanation of differences between planned and actual figures for years (n-5) to (n-1) in respect to all data provided in Tables A and B;
+
+(d) description and explanation of five year planned costs and investments in relation to expected traffic;
+
+(e) description and explanation of the method adopted for calculating depreciation costs: historic costs or current costs;
+
+(f) justification for the cost of capital, including the components of the asset base;
+
+(g) description of the sources of financing of the air navigation services concerned in respect of each charging zone where services are subject to market conditions.
+
+## ANNEX XII
+
+**ESSENTIAL ELEMENTS FOR THE CONSULTATIONS REFERRED TO IN ARTICLE 24(3) AND ARTICLE 30(1)**
+
+1\. The consultation referred to in Article 24(3) shall concern in particular the following essential elements related to the transparency of costs:
+
+(a) actual costs incurred during the previous year and the difference between the actual costs and the determined costs contained in the performance plan;
+
+(b) evolution of costs referred to in Article 28(3).
+
+2\. The consultation referred to in Article 30(1) shall concern in particular the following essential elements related to the transparency of unit rates:
+
+(a) charging policy, including, inter alia, timing of adjustments to the unit rates and cross financing between terminal charging zones;
+
+(b) evolution of traffic compared to the traffic forecast set out in the performance plan;
+
+(c) the application of the traffic risk sharing mechanism referred to in Article 27 and of the incentive scheme or schemes implemented on the basis of Article 11;
+
+(d) if applicable, intended modifications of terminal charging zones in accordance with point (a) of Article 21(5);
+
+(e) if applicable, services foreseen to be subject to market conditions in accordance with point (b) of Article 35(3).
+
+## ANNEX XIII
+
+**SPECIFIC REQUIREMENTS ON INCENTIVE SCHEMES REFERRED TO IN ARTICLE 11(3)**
+
+**1\. MODULATION OF PIVOT VALUES**
+
+**1.1. For en route air navigation services**
+
+Where a national supervisory authority decides to apply a modulation mechanism of en route pivot values in accordance with points (c)(ii), (g)(iii) and (v) of Article 11(3), this modulation mechanism may follow one or both of the points below:
+
+(a) enable significant and unforeseen changes in traffic to be taken into account, in which case the pivot value for year n shall be informed by the reference value at the level of each air navigation service provider from the November release of year n-1 of the Network Operations Plan;
+
+(b) limit the scope of incentives to cover only delay causes related to ATC capacity, ATC routing, ATC staffing, ATC equipment, airspace management and special events with the codes C, R, S, T, M and P of the ATFCM user manual.
+
+**1.2. For terminal air navigation services**
+
+Where a national supervisory authority decides to apply a modulation mechanism of terminal pivot values in accordance with points (c)(ii), (g)(iii) and (v) of Article 11(3), this modulation mechanism may follow one or both of the points below:
+
+(a) enable significant and unforeseen changes in traffic to be taken into account, in which case the pivot value for year n shall be modulated on the basis of objective and transparent principles defined in the performance plan.
+
+(b) limit the scope of incentives to cover only delay causes related to ATC capacity, ATC routing, ATC staffing, ATC equipment, airspace management and special events with the codes C, R, S, T, M and P of the ATFCM user manual.
+
+**2\. CALCULATION OF FINANCIAL ADVANTAGES AND DISADVANTAGES**
+
+**2.1. For en route air navigation services**
+
+(a) The financial advantage referred to in point (e) of Article 11(3) shall be calculated as a percentage of the determined costs of year n and recovered from airspace users through an increase of the unit rate in year n+2 where the deviation of the average ATFM delay per flight in year n below the pivot value is greater in absolute value than the lower bound of the symmetric range referred to in point (d) of Article 11(3).
+
+The percentage of the determined costs shall, from the lower bound of the symmetric range up to the alert threshold referred to in point (b)(iii) of Article 9(4), follow a smooth sliding scale with the maximum fixed percentage to be applied where the deviation of the average ATFM delay per flight in year n below the pivot value is in absolute value equal to or greater than the value of the alert threshold.
+
+(b) The financial disadvantage referred to in point (f) of Article 11(3) shall be calculated as a percentage of the determined costs of year n and reimbursed to airspace users through a reduction of the unit rate in year n+2 where the deviation of the average ATFM delay per flight in year n above the pivot value is greater in absolute value than the upper bound of the symmetric range referred to in point (d) of Article 11(3).
+
+The percentage of the determined costs shall, from the upper bound of the symmetric range up to the alert threshold referred to in point (b)(iii) of Article 9(4), follow a smooth sliding scale with the maximum fixed percentage to be applied where the deviation of the average ATFM delay per flight in year n above the pivot value is in absolute value equal to or greater than the value of the alert threshold.
+
+**2.2. For terminal air navigation services**
+
+(a) The financial advantage referred to in point (e) of Article 11(3) shall be calculated as a percentage of the determined costs of year n and recovered from airspace users through an increase of the unit rate in year n+2 where the actual arrival ATFM delay per flight in year n is smaller than the lower bound of the symmetric range referred to in point (d) of Article 11(3).
+
+The percentage of the determined costs shall, from the lower bound of the symmetric range down to 50 % of the pivot value, follow a smooth sliding scale with the maximum fixed percentage to be applied where the actual arrival ATFM delay per flight in year n is equal to or lower than 50 % of the pivot value.
+
+(b) The financial disadvantage referred to in point (e) of Article 11(3) shall be calculated as a percentage of the determined costs of year n and reimbursed to airspace users through a reduction of the unit rate in year n+2 where the actual arrival ATFM delay per flight in year n is greater than the upper bound of the symmetric range referred to in point (d) of Article 11(3).
+
+The percentage of the determined costs shall, from the upper bound of the symmetric range up to 150 % of the pivot value, follow a smooth sliding scale with the maximum fixed percentage to be applied where the actual arrival ATFM delay per flight in year n is equal to or greater than 150 % of the pivot value.
+
+( 1 ) Council Regulation (EEC) No 95/93 of 18 January 1993 on common rules for the allocation of slots at Community airports (OJ L 14, 22.1.1993, p. 1).
+
+( 2 ) Commission Implementing Regulation (EU) 2017/373 of 1 March 2017 laying down common requirements for providers of air traffic management/air navigation services and other air traffic management network functions and their oversight, repealing Regulation (EC) No 482/2008, Implementing Regulations (EU) No 1034/2011, (EU) No 1035/2011 and (EU) 2016/1377 and amending Regulation (EU) No 677/2011 (OJ L 62, 8.3.2017, p. 1.)
+
+( 3 ) Commission Regulation (EC) No 1126/2008 of 3 November 2008 adopting certain international accounting standards in accordance with Regulation (EC) No 1606/2002 of the European Parliament and of the Council (OJ L 320, 29.11.2008, p. 1).
+
+( 4 ) Regulation (EU) No 996/2010 of the European Parliament and of the Council of 20 October 2010 on the investigation and prevention of accidents and incidents in civil aviation and repealing Directive 94/56/EC (OJ L 295, 12.11.2010, p. 35).
+
+( 5 ) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18).

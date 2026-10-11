@@ -1668,6 +1668,7 @@ Note 1 Definitions apply throughout the List. The references are purely advisory
 
 Note 2 Words and terms contained in this List of Definitions only take the defined meaning where this is indicated by their being enclosed in "double quotations marks". Definitions of terms between 'single quotation marks' are given in a Technical note to the relevant item. Elsewhere, words and terms take their commonly accepted (dictionary) meanings.
 
+<table>
 <tbody><tr><td>ML8</td><td>"Additives"</td><td>Substances used in explosive formulations to improve their properties.</td></tr>
 <tr><td>ML8, 10, 14</td><td>"Aircraft"</td><td>A fixed wing, swivel wing, rotary wing (helicopter), tilt rotor or tilt-wing airborne vehicle.</td></tr>
 <tr><td>ML 10</td><td>"Airship"</td><td>A power-driven airborne vehicle that is kept buoyant by a body of gas (usually helium, formerly hydrogen) which is lighter than air.</td></tr>
@@ -1794,3 +1795,4 @@ Note 2 Words and terms contained in this List of Definitions only take the defin
 </td></tr>
 <tr><td>ML10</td><td>"Unmanned aerial vehicle" ("UAV")</td><td>Any "aircraft" capable of initiating flight and sustaining controlled flight and navigation without any human presence on board.</td></tr>
 </tbody>
+</table>

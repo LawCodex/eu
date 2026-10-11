@@ -24,11 +24,13 @@ retrieved: 2026-10-11
 
 **(86/635/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> DIRECTIVE 2001/65/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 September 2001</td><td> L 283</td><td>28</td><td>27.10.2001</td></tr>
 <tr><td></td><td> DIRECTIVE 2003/51/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2003</td><td> L 178</td><td>16</td><td>17.7.2003</td></tr>
 <tr><td></td><td> DIRECTIVE 2006/46/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 June 2006 </td><td> L 224</td><td>1</td><td>16.8.2006</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 

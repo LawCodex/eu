@@ -1,0 +1,65 @@
+---
+title: "Council Regulation (EC) No 1335/2000 of 10 April 2000 concerning the export of certain ECSC steel products from Bulgaria to the Community for the period 1 January to 31 December 2000 (extension of the double-checking system)"
+identifier: "32000R1335"
+eli: "http://data.europa.eu/eli/reg/2000/1335/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2000-04-10
+entry_into_force: 2000-07-11
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R1335"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 1335/2000 of 10 April 2000 concerning the export of certain ECSC steel products from Bulgaria to the Community for the period 1 January to 31 December 2000 (extension of the double-checking system)
+
+Council Regulation (EC) No 1335/2000
+
+of 10 April 2000
+
+concerning the export of certain ECSC steel products from Bulgaria to the Community for the period 1 January to 31 December 2000 (extension of the double-checking system)
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 133 thereof,
+
+Having regard to the proposal from the Commission,
+
+Whereas:
+
+(1) The Europe Agreement establishing an association between the European Communities and their Member States, of the one part, and the Republic of Bulgaria, of the other part(1), entered into force on 1 February 1995.
+
+(2) The Parties decided by Decision No 2/2000 of the EU-Bulgaria Association Council of 23 May 2000(2) to extend the double-checking system introduced by Decision No 3/97(3) of the Association Council for the period between 1 January and 31 December 2000.
+
+(3) It is consequently necessary to extend the Community implementing legislation introduced by Regulation (EC) No 86/98(4),
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EC) No 86/98 shall continue to apply for the period between 1 January and 31 December 2000, in accordance with the provisions of Decision No 2/2000. In the title, preamble and Article 1(1) and (4) of the Regulation, references to the period 1 January to 31 December 1999 shall be replaced by references to 1 January to 31 December 2000.
+
+## Article 2
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+This Regulation shall apply with effect from 1 January 2000.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Luxembourg, 10 April 2000.
+
+For the Council
+
+The President
+
+J. Gama
+
+(1) OJ L 358, 31.12.1994, p. 3.
+
+(2) See page 22 of this Official Journal.
+
+(3) OJ L 13, 19.1.1998, p. 85.
+
+(4) OJ L 13, 19.1.1998, p. 29 Regulation as amended by Regulation (EC) No 1002/1999 (OJ L 123, 13.5.1999, p. 18).

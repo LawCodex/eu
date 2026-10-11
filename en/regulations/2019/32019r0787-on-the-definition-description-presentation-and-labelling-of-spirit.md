@@ -1,0 +1,1883 @@
+---
+title: "Regulation (EU) 2019/787 of the European Parliament and of the Council of 17 April 2019 on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation (EC) No 110/2008"
+identifier: "32019R0787"
+eli: "http://data.europa.eu/eli/reg/2019/787/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-04-17
+entry_into_force: 2020-01-09
+last_amended: 2024-05-13
+consolidated_version: "02019R0787-20240513"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0787-20240513"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/787 of the European Parliament and of the Council of 17 April 2019 on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation (EC) No 110/2008
+
+**REGULATION (EU) 2019/787 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 April 2019**
+
+**on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation (EC) No 110/2008**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1096 of 21 April 2021 </td><td> L 238</td><td>1</td><td>6.7.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1334 of 27 May 2021 </td><td> L 289</td><td>1</td><td>12.8.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1335 of 27 May 2021 </td><td> L 289</td><td>4</td><td>12.8.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/1465 of 6 July 2021 </td><td> L 321</td><td>12</td><td>13.9.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/1303 of 25 April 2022 </td><td> L 197</td><td>71</td><td>26.7.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1143 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 April 2024 </td><td> L 1143</td><td>1</td><td>23.4.2024</td></tr>
+</table>
+
+**REGULATION (EU) 2019/787 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 April 2019**
+
+**on the definition, description, presentation and labelling of spirit drinks, the use of the names of spirit drinks in the presentation and labelling of other foodstuffs, the protection of geographical indications for spirit drinks, the use of ethyl alcohol and distillates of agricultural origin in alcoholic beverages, and repealing Regulation (EC) No 110/2008**
+
+## CHAPTER I — SCOPE, DEFINITIONS AND CATEGORIES OF SPIRIT DRINKS
+
+#### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down rules on:
+
+— the definition, description, presentation and labelling of spirit drinks, as well as on the protection of geographical indications of spirit drinks;
+
+— the ethyl alcohol and distillates used in the production of alcoholic beverages; and
+
+— the use of legal names of spirit drinks in the presentation and labelling of foodstuffs other than spirit drinks.
+
+2\. This Regulation applies to products referred to in paragraph 1 that are placed on the Union market, whether produced in the Union or in third countries, as well as to those produced in the Union for export.
+
+3\. As regards the protection of geographical indications, Chapter III of this Regulation also applies to goods entering the customs territory of the Union without being released for free circulation there.
+
+#### Article 2 — Definition of and requirements for spirit drinks
+
+For the purposes of this Regulation, a spirit drink is an alcoholic beverage which complies with the following requirements:
+
+(a) it is intended for human consumption;
+
+(b) it possesses particular organoleptic qualities;
+
+(c) it has a minimum alcoholic strength by volume of 15 %, except in the case of spirit drinks that comply with the requirements of category 39 of Annex I;
+
+(d) it has been produced either:
+
+(i) directly by using, individually or in combination, any of the following methods:
+
+— distillation, with or without added flavourings or flavouring foodstuffs, of fermented products,
+
+— the maceration or similar processing of plant materials in ethyl alcohol of agricultural origin, distillates of agricultural origin or spirit drinks or a combination thereof,
+
+— the addition, individually or in combination, to ethyl alcohol of agricultural origin, distillates of agricultural origin or spirit drinks of any of the following:
+
+— flavourings used in accordance with Regulation (EC) No 1334/2008,
+
+— colours used in accordance with Regulation (EC) No 1333/2008,
+
+— other authorised ingredients used in accordance with Regulations (EC) No 1333/2008 and (EC) No 1334/2008,
+
+— sweetening products,
+
+— other agricultural products,
+
+— foodstuffs; or
+
+(ii) by adding, individually or in combination, to it any of the following:
+
+— other spirit drinks,
+
+— ethyl alcohol of agricultural origin,
+
+— distillates of agricultural origin,
+
+— other foodstuffs;
+
+(e) it does not fall within CN codes 2203 , 2204 , 2205 , 2206 and 2207 ;
+
+(f) if water, which may be distilled, demineralised, permuted or softened, has been added in its production:
+
+(i) the quality of that water complies with Council Directive 98/83/EC ( 1 ) and Directive 2009/54/EC of the European Parliament and of the Council ( 2 ); and
+
+(ii) the alcoholic strength of the spirit drink, after the addition of the water, still complies with the minimum alcoholic strength by volume provided for in point (c) of this Article or under the relevant category of spirit drinks as set out in Annex I.
+
+#### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘legal name’ means the name under which a spirit drink is placed on the market, within the meaning of point (n) of Article 2(2) of Regulation (EU) No 1169/2011;
+
+(2) ‘compound term’ means, in relation to the description, presentation and labelling of an alcoholic beverage, the combination of either a legal name provided for in the categories of spirit drinks set out in Annex I or the geographical indication for a spirit drink, from which all the alcohol of the final product originates, with one or more of the following:
+
+(a) the name of one or more foodstuffs other than an alcoholic beverage and other than foodstuffs used for the production of that spirit drink in accordance with Annex I, or adjectives deriving from those names;
+
+(b) the term ‘liqueur’ or ‘cream’;
+
+(3) ‘allusion’ means the direct or indirect reference to one or more legal names provided for in the categories of spirit drinks set out in Annex I or to one or more geographical indications for spirit drinks, other than a reference in a compound term or in a list of ingredients as referred to in Article 13(2) to (4) in the description, presentation and labelling of:
+
+(a) a foodstuff other than a spirit drink,
+
+(b) a spirit drink that complies with the requirements of categories 33 to 40 of Annex I, or
+
+(c) a spirit drink that complies with the conditions laid down in Article 12(3a);
+
+(4) ‘geographical indication’ means an indication which identifies a spirit drink as originating in the territory of a country, or a region or locality in that territory, where a given quality, reputation or other characteristic of that spirit drink is essentially attributable to its geographical origin;
+
+(5) ‘product specification’ means a file attached to the application for the protection of a geographical indication, in which the specifications with which the spirit drink has to comply are set out, and which was referred to as a ‘technical file’ under Regulation (EC) No 110/2008;
+
+(8) ‘visual field’ means field of vision as defined in point (k) of Article 2(2) of Regulation (EU) No 1169/2011;
+
+(9) ‘to mix’ means to combine a spirit drink that either belongs to a category of spirit drinks set out in Annex I or to a geographical indication with one or more of the following:
+
+(a) other spirit drinks which do not belong to the same category of spirit drinks set out in Annex I;
+
+(b) distillates of agricultural origin;
+
+(c) ethyl alcohol of agricultural origin;
+
+(10) ‘mixture’ means a spirit drink that has undergone mixing;
+
+(11) ‘to blend’ means to combine two or more spirit drinks of the same category that are distinguishable only by minor differences in composition due to one or more of the following factors:
+
+(a) the method of production;
+
+(b) the stills employed;
+
+(c) the period of maturation or ageing;
+
+(d) the geographical area of production;
+
+the spirit drink so produced belongs to the same category of spirit drinks as the original spirit drinks before blending;
+
+(12) ‘blend’ means a spirit drink that has undergone blending.
+
+#### Article 4 — Technical definitions and requirements
+
+For the purposes of this Regulation, the following technical definitions and requirements apply:
+
+(1) ‘description’ means the terms used in the labelling, in the presentation and on the packaging of a spirit drink, on the documents accompanying the transport of a spirit drink, on the commercial documents, particularly the invoices and delivery notes, and in the advertising of a spirit drink;
+
+(2) ‘presentation’ means the terms used in the labelling and on the packaging, as well as in advertising and sales promotion of a product, in images or such like, as well as on the container, including on the bottle or the closure;
+
+(3) ‘labelling’ means any word, particulars, trade marks, brand name, pictorial matter or symbol relating to a product and placed on any packaging, document, notice, label, ring or collar accompanying or referring to such product;
+
+(4) ‘label’ means any tag, brand, mark, pictorial or other descriptive matter, written, printed, stencilled, marked, embossed or impressed on, or attached to the packaging or container of food;
+
+(5) ‘packaging’ means the protective wrappings, cartons, cases, containers and bottles used in the transport or sale of spirit drinks;
+
+(6) ‘distillation’ means a thermal separation process involving one or more separation steps intended to achieve certain organoleptic properties or a higher alcoholic concentration or both, regardless of whether such steps take place under normal pressure or under vacuum, due to the distilling device used; and can be single or multiple distillation or re-distillation;
+
+(7) ‘distillate of agricultural origin’ means an alcoholic liquid which is the result of the distillation, after alcoholic fermentation, of agricultural products listed in Annex I to the Treaty, which does not have the properties of ethyl alcohol and which retains the aroma and taste of the raw materials used;
+
+(8) ‘to sweeten’ means to use one or more sweetening products in the production of spirit drinks;
+
+(9) ‘sweetening products’ means:
+
+(a) semi-white sugar, white sugar, extra-white sugar, dextrose, fructose, glucose syrup, sugar solution, invert sugar solution and invert sugar syrup, as defined in Part A of the Annex to Council Directive 2001/111/EC ( 3 );
+
+(b) rectified concentrated grape must, concentrated grape must and fresh grape must;
+
+(c) burned sugar which is the product obtained exclusively from the controlled heating of sucrose without bases, mineral acids or other chemical additives;
+
+(d) honey as defined in point 1 of Annex I to Council Directive 2001/110/EC ( 4 );
+
+(e) carob syrup;
+
+(f) any other natural carbohydrate substances having a similar effect as the products referred to in points (a) to (e);
+
+(10) ‘addition of alcohol’ means the addition of ethyl alcohol of agricultural origin or distillates of agricultural origin or both to a spirit drink; such addition does not include the use of alcohol for dilution or dissolution of colours, flavourings or any other authorised ingredients used in the production of spirit drinks;
+
+(11) ‘maturation’ or ‘ageing’ means the storage of a spirit drink in appropriate receptacles for a period of time for the purpose of allowing that spirit drink to undergo natural reactions that impart specific characteristics to that spirit drink;
+
+(12) ‘to flavour’ means to add flavourings or flavouring foodstuffs in the production of a spirit drink by means of one or more of the following processes: addition, infusion, maceration, alcoholic fermentation, or distillation of alcohol in the presence of the flavourings or flavouring foodstuffs;
+
+(13) ‘flavourings’ mean flavourings as defined in point (a) of Article 3(2) of Regulation (EC) No 1334/2008;
+
+(14) ‘flavouring substance’ means flavouring substance as defined in point (b) of Article 3(2) of Regulation (EC) No 1334/2008;
+
+(15) ‘natural flavouring substance’ means natural flavouring substance as defined in point (c) of Article 3(2) of Regulation (EC) No 1334/2008;
+
+(16) ‘flavouring preparation’ means flavouring preparation as defined in point (d) of Article 3(2) of Regulation (EC) No 1334/2008;
+
+(17) ‘other flavouring’ means other flavouring as defined in point (h) of Article 3(2) of Regulation (EC) No 1334/2008;
+
+(18) ‘flavouring foodstuffs’ mean foodstuffs as defined in Article 2 of Regulation (EC) No 178/2002 of the European Parliament and of the Council ( 5 ) and that are used in the production of spirit drinks with the main purpose of flavouring the spirit drinks;
+
+(19) ‘to colour’ means to use one or more colours in the production of a spirit drink;
+
+(20) ‘colours’ mean colours as defined in point 2 of Annex I to Regulation (EC) No 1333/2008;
+
+(21) ‘caramel’ means a food additive corresponding to E-numbers E 150a, E 150b, E 150c or E 150d and relating to products of a more or less intense brown colour which are intended for colouring, as referred to in Part B of Annex II to Regulation (EC) No 1333/2008; it does not correspond to the sugary aromatic product obtained from heating sugars and which is used for flavouring purposes;
+
+(22) ‘other authorised ingredients’ means food ingredients with flavouring properties authorised under Regulation (EC) No 1334/2008 and food additives other than colours authorised under Regulation (EC) No 1333/2008;
+
+(23) ‘alcoholic strength by volume’ means the ratio of the volume of pure alcohol present in a product at 20 oC to the total volume of that product at the same temperature;
+
+(24) ‘volatile substances content’ means the quantity of volatile substances, other than ethyl alcohol and methanol, contained in a spirit drink produced exclusively by distillation.
+
+#### Article 5 — Definition of and requirements for ethyl alcohol of agricultural origin
+
+For the purposes of this Regulation, ethyl alcohol of agricultural origin is a liquid which complies with the following requirements:
+
+(a) it has been obtained through alcoholic fermentation, followed by distillation exclusively of agricultural products listed in Annex I to the Treaty;
+
+(b) it has no detectable taste other than that of the raw materials used in its production;
+
+(c) its minimum alcoholic strength by volume is 96,0 %;
+
+(d) its maximum levels of residues do not exceed the following:
+
+(i) ethyl acetate: 1,3 grams per hectolitre of 100 % vol. alcohol;
+
+(ii) acetaldehyde (sum of ethanal and 1,1-diethoxyethane): 0,5 grams per hectolitre of 100 % vol. alcohol;
+
+(iii) higher alcohols (sum of: propan-1-ol, butan-1-ol, butan-2-ol, 2- methylpropan-1-ol, 2-methylbutan- 1-ol and 3-methylbutan-1-ol): 0,5 grams per hectolitre of 100 % vol. alcohol;
+
+(iv) methanol: 30 grams per hectolitre of 100 % vol. alcohol;
+
+(v) furfural: 0,5 grams per hectolitre of 100 % vol. alcohol.
+
+#### Article 6 — Ethyl alcohol and distillates used in alcoholic beverages
+
+1\. The ethyl alcohol and distillates used in the production of spirit drinks shall be exclusively of agricultural origin, within the meaning of Annex I to the Treaty.
+
+2\. No alcohol other than ethyl alcohol of agricultural origin, distillates of agricultural origin or spirit drinks of categories 1 to 14 of Annex I shall be used to dilute or dissolve colours, flavourings or any other authorised ingredients used in the production of alcoholic beverages. Such alcohol used to dilute or dissolve colours, flavourings or any other authorised ingredients shall only be used in the amounts strictly necessary for that purpose.
+
+3\. Alcoholic beverages shall not contain alcohol of synthetic origin or other alcohol of non-agricultural origin, within the meaning of Annex I to the Treaty.
+
+#### Article 7 — Categories of spirit drinks
+
+1\. Spirit drinks shall be categorised in accordance with the general rules laid down in this Article and the specific rules laid down in Annex I.
+
+2\. Without prejudice to the specific rules laid down for each of the categories of spirit drinks 1 to 14 of Annex I, the spirit drinks of those categories shall:
+
+(a) be produced by alcoholic fermentation and distillation, and exclusively obtained from the raw material provided for under the corresponding category of spirit drinks in Annex I;
+
+(b) have no addition of alcohol, whether diluted or not;
+
+(c) not be flavoured;
+
+(d) not be coloured with anything except caramel used exclusively for adjusting the colour of those spirit drinks;
+
+(e) not be sweetened, except to round off the final taste of the product; the maximum content of sweetening products, expressed as invert sugar, shall not exceed the thresholds set out for each category in Annex I;
+
+(f) not contain adjuncts other than whole unprocessed items of the raw material from which the alcohol is obtained, and which are mainly used for decorative purposes.
+
+3\. Without prejudice to the specific rules laid down for each of the categories of spirit drinks 15 to 44 of Annex I, the spirit drinks of those categories may:
+
+(a) be produced from any agricultural raw material listed in Annex I to the Treaty;
+
+(b) have addition of alcohol;
+
+(c) contain flavouring substances, natural flavouring substances, flavouring preparations and flavouring foodstuffs;
+
+(d) be coloured;
+
+(e) be sweetened.
+
+4\. Without prejudice to the specific rules laid down in Annex II, spirit drinks which do not comply with the specific rules laid down for each of the categories set out in Annex I may:
+
+(a) be produced from any agricultural raw material listed in Annex I to the Treaty or from any foodstuff or both;
+
+(b) have addition of alcohol;
+
+(c) be flavoured;
+
+(d) be coloured;
+
+(e) be sweetened.
+
+#### Article 8 — Delegated and implementing powers
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 46 amending this Regulation by introducing amendments to the technical definitions and requirements laid down in point (f) of Article 2, and in Articles 4 and 5.
+
+The delegated acts referred to in the first subparagraph shall be strictly limited to meeting demonstrated needs resulting from evolving consumer demands, technological progress or the need for product innovation.
+
+The Commission shall adopt a separate delegated act in respect of each technical definition or requirement referred to in the first subparagraph.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 46 supplementing this Regulation by laying down, in exceptional cases, where the law of the importing third country so requires, derogations from the requirements set out in point (f) of Article 2, and in Articles 4 and 5, the requirements under the categories of spirit drinks set out in Annex I and the specific rules concerning certain spirit drinks set out in Annex II.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 46 supplementing this Regulation by specifying which other natural substances or agricultural raw materials having a similar effect to the products referred to in points (a) to (e) of Article 4(9) are authorised across the Union as sweetening products in the production of spirit drinks.
+
+4\. The Commission may, by means of implementing acts, adopt uniform rules for the use of other natural substances or agricultural raw materials authorised by delegated acts as sweetening products in the production of spirit drinks as referred to in paragraph 3, determining in particular the respective sweetening conversion factors. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(2).
+
+## CHAPTER II — DESCRIPTION, PRESENTATION AND LABELLING OF SPIRIT DRINKS AND USE OF THE NAMES OF SPIRIT DRINKS IN THE PRESENTATION AND LABELLING OF OTHER FOODSTUFFS
+
+#### Article 9 — Presentation and labelling
+
+Spirit drinks placed on the Union market shall comply with the presentation and labelling requirements set out in Regulation (EU) No 1169/2011, unless otherwise provided for in this Regulation.
+
+#### Article 10 — Legal names of spirit drinks
+
+1\. The name of a spirit drink shall be its legal name.
+
+Spirit drinks shall bear legal names in their description, presentation and labelling.
+
+Legal names shall be shown clearly and visibly on the label of the spirit drink and shall not be replaced or altered.
+
+2\. Spirit drinks that comply with the requirements of a category of spirit drinks set out in Annex I shall use the name of that category as their legal name, unless that category permits the use of another legal name.
+
+3\. A spirit drink that does not comply with the requirements laid down for any of the categories of spirit drinks set out in Annex I shall use the legal name ‘spirit drink’.
+
+4\. A spirit drink that complies with the requirements for more than one category of spirit drinks set out in Annex I may be placed on the market under one or more of the legal names provided for under those categories in Annex I.
+
+5\. Notwithstanding paragraphs 1 and 2 of this Article, the legal name of a spirit drink may be:
+
+(a) supplemented or replaced by a geographical indication referred to in Chapter III. In this case, the geographical indication may be supplemented further by any term permitted by the relevant product specification, provided that this does not mislead the consumer; and
+
+(b) replaced by a compound term that includes the term ‘liqueur’ or ‘cream’, provided that the final product complies with the requirements of category 33 of Annex I.
+
+6\. Without prejudice to Regulation (EU) No 1169/2011 and to the specific rules laid down for the categories of spirit drinks in Annex I to this Regulation, the legal name of a spirit drink may be supplemented by:
+
+(a) a name or geographical reference provided for in the laws, regulations and administrative provisions applicable in the Member State in which the spirit drink is placed on the market, provided that this does not mislead the consumer;
+
+(b) a customary name as defined in point (o) of Article 2(2) of Regulation (EU) No 1169/2011, provided that this does not mislead the consumer;
+
+(c) a compound term or an allusion in accordance with Articles 11 and 12;
+
+(d) the term ‘blend’, ‘blending’ or ‘blended’, provided that the spirit drink has undergone blending;
+
+(e) the term ‘mixture’, ‘mixed’ or ‘mixed spirit drink’, provided that the spirit drink has undergone mixing; or
+
+(f) the term ‘dry’ or ‘dry’, except in the case of spirit drinks that comply with the requirements of category 2 of Annex I, without prejudice to the specific requirements laid down in categories 20 to 22 of Annex I, and provided that the spirit drink has not been sweetened, not even for rounding off the taste. By way of derogation from the first part of this point, the term ‘dry’ or ‘dry’ may supplement the legal name of spirit drinks that comply with the requirements of category 33 and have therefore been sweetened.
+
+7\. Without prejudice to Articles 11 and 12 and Article 13(2) to (4), the use of the legal names referred to in paragraph 2 of this Article or geographical indications in the description, presentation or labelling of any beverage not complying with the requirements of the relevant category set out in Annex I or of the relevant geographical indication shall be prohibited. That prohibition shall also apply where such legal names or geographical indications are used in conjunction with words or phrases such as ‘like’, ‘type’, ‘style’, ‘made’, ‘flavour’ or any other similar terms.
+
+Without prejudice to Article 12(1), flavourings that imitate a spirit drink or their use in the production of a foodstuff other than a beverage may bear, in their presentation and labelling, references to the legal names referred to in paragraph 2 of this Article, provided that such legal names are supplemented by the term ‘flavour’ or any other similar terms. Geographical indications shall not be used to describe such flavourings.
+
+#### Article 11 — Compound terms
+
+1\. In the description, presentation and labelling of an alcoholic beverage, the use in a compound term of either a legal name provided for in the categories of spirit drinks set out in Annex I or a geographical indication for spirit drinks shall be authorised on condition that:
+
+(a) the alcohol used in the production of the alcoholic beverage originates exclusively from the spirit drink referred to in the compound term, except for the alcohol that may be present in flavourings, colours or other authorised ingredients used for the production of that alcoholic beverage; and
+
+(b) the spirit drink has not been diluted by addition of water only, so that its alcoholic strength is below the minimum strength provided for under the relevant category of spirit drinks set out in Annex I.
+
+2\. Without prejudice to the legal names provided for in Article 10, the terms ‘alcohol’, ‘spirit’, ‘drink’, ‘spirit drink’ and ‘water’ shall not be part of a compound term describing an alcoholic beverage.
+
+3\. Compound terms describing an alcoholic beverage shall:
+
+(a) appear in uniform characters of the same font, size and colour;
+
+(b) not be interrupted by any textual or pictorial element which does not form part of them;
+
+(c) not appear in a font size which is larger than the font size used for the name of the alcoholic beverage; and
+
+(d) in cases where the alcoholic beverage is a spirit drink, always be accompanied by the legal name of the spirit drink, which shall appear in the same visual field as the compound term, unless the legal name is replaced by a compound term in accordance with Article 10(5), point (b).
+
+#### Article 12 — Allusions
+
+1\. In the presentation and labelling of a foodstuff other than an alcoholic beverage, an allusion to legal names provided for in one or more categories of spirit drinks set out in Annex I, or to one or more geographical indications for spirit drinks, shall be authorised on condition that the alcohol used in the production of the foodstuff originates exclusively from the spirit drink or the spirit drinks referred to in the allusion, except as regards the alcohol that may be present in flavourings, colours or other authorised ingredients used for the production of that foodstuff.
+
+2\. By way of derogation from paragraph 1 of this Article and without prejudice to Regulations (EU) No 1308/2013 ( 6 ) and (EU) No 251/2014 ( 7 ) of the European Parliament and of the Council, an allusion in the presentation and labelling of an alcoholic beverage other than a spirit drink to legal names provided for in one or more categories of spirit drinks set out in Annex I to this Regulation or to one or more geographical indications for spirit drinks shall be authorised on condition that:
+
+(a) the added alcohol originates exclusively from the spirit drink or spirit drinks referred to in the allusion; and
+
+(b) the proportion of each alcoholic ingredient is indicated at least once in the same visual field as the allusion, in descending order of quantities used. That proportion shall be equal to the percentage by volume of pure alcohol it represents in the total pure alcohol content by volume of the final product.
+
+3\. By way of derogation from paragraph 1 of this Article and from Article 13(4), in the description, presentation and labelling of a spirit drink that complies with the requirements of categories 33 to 40 of Annex I, the allusion to legal names provided for under one or more categories of spirit drinks set out in that Annex or to one or more geographical indications for spirit drinks shall be authorised on condition that:
+
+(a) the added alcohol originates exclusively from the spirit drink or spirit drinks referred to in the allusion;
+
+(b) the proportion of each alcoholic ingredient is indicated at least once in the same visual field as the allusion, in descending order of quantities used. That proportion shall be equal to the percentage by volume of pure alcohol it represents in the total pure alcohol content by volume of the final product; and
+
+(c) the term ‘cream’ does not appear in the legal name of a spirit drink that complies with the requirements of categories 33 to 40 of Annex I or in the legal name of the spirit drink or spirit drinks referred to in the allusion.
+
+3a. By way of derogation from paragraph 1, in the description, presentation and labelling of a spirit drink other than spirit drinks complying with the requirements of categories 33 to 40 of Annex I, the allusion to a legal name provided for in a category of spirit drinks set out in that Annex or to a geographical indication for spirit drinks shall be allowed on condition that:
+
+(a) the spirit drink referred to in the allusion:
+
+(i) has been used as the sole alcoholic base for the production of the final spirit drink, which shall comply with the requirements of a category of spirit drinks set out in Annex I,
+
+(ii) has not been combined with any foodstuffs other than the foodstuffs used for its production or the production of the final spirit drink in accordance with Annex I or the relevant product specification, and
+
+(iii) has not been diluted by addition of water so that its alcoholic strength is below the minimum strength provided for under the category of spirit drinks set out in Annex I or the product specification for the geographical indication to which the spirit drink referred to in the allusion belongs; or
+
+(b) the spirit drink has been stored for the full maturation period or part of it in a wooden cask previously used to mature the spirit drink referred to in the allusion, on condition that:
+
+(i) the wooden cask was emptied of its previous contents for those categories of spirit drinks or geographical indications for spirit drinks for which the addition of alcohol, diluted or not, is prohibited,
+
+(ii) the allusion is made within the description of the cask used to mature the resulting spirit drink,
+
+(iii) the allusion appears less prominently than the legal name of the spirit drink or any compound term used, and
+
+(iv) by way of derogation from paragraph 4, point (b), the allusion appears in a font size no larger than the font size used for the legal name of the spirit drink or any compound term used.
+
+4\. The allusions referred to in paragraphs 2, 3 and 3a shall:
+
+(a) not be on the same line as the name of the alcoholic beverage;
+
+(b) appear in a font size which is no larger than half the font size used for the name of the alcoholic beverage and, where compound terms are used, in a font size which is no larger than half the font size used for such compound terms, in accordance with point (c) of Article 11(3); and
+
+(c) in case of allusions in the description, presentation and labelling of spirit drinks, always be accompanied by the legal name of the spirit drink, which shall appear in the same visual field as the allusion.
+
+#### Article 13 — Additional rules on description, presentation and labelling
+
+1\. The description, presentation or labelling of a spirit drink may refer to the raw materials used to produce the ethyl alcohol of agricultural origin or distillates of agricultural origin used in the production of that spirit drink only where that ethyl alcohol or those distillates have been obtained exclusively from those raw materials. In such a case, each type of ethyl alcohol of agricultural origin or distillate of agricultural origin shall be mentioned in descending order of quantity by volume of pure alcohol.
+
+2\. The legal names referred to in Article 10 may be included in a list of ingredients for foodstuffs, provided that the list is in accordance with Articles 18 to 22 of Regulation (EU) No 1169/2011.
+
+3\. In the case of a mixture, the legal names provided for in the categories of spirit drinks set out in Annex I or geographical indications for spirit drinks may be indicated only in a list of the alcoholic ingredients appearing in the same visual field as the legal name of the spirit drink.
+
+In the case referred to in the first subparagraph, the list of alcoholic ingredients shall be accompanied by at least one of the terms referred to in point (e) of Article 10(6). Both the list of alcoholic ingredients and the accompanying term shall appear in the same visual field as the legal name of the mixture, in uniform characters of the same font and colour and in a font size which is no larger than half the font size used for the legal name.
+
+In addition, the proportion of each alcoholic ingredient in the list of alcoholic ingredients shall be expressed at least once as a percentage, in descending order of quantities used. That proportion shall be equal to the percentage by volume of pure alcohol it represents in the total pure alcohol content by volume of the mixture.
+
+3a. In the case of a blend, the spirit drink shall bear the legal name provided for in the relevant category of spirit drinks set out in Annex I.
+
+In case of blends resulting from the combination of spirit drinks belonging to different geographical indications or from the combination of spirit drinks belonging to geographical indications with spirit drinks not belonging to any geographical indication, the following conditions shall apply:
+
+(a) the description, presentation or labelling of the blend may show the legal names set out in Annex I or geographical indications corresponding to the spirits drinks that were blended, provided that those names appear:
+
+(i) exclusively in a list of all the alcoholic ingredients contained in the blend which shall appear in uniform characters of the same font and colour and in a font size which is no larger than half the font size used for the legal name; and
+
+(ii) in the same visual field as the legal name of the blend at least once;
+
+(b) the list of alcoholic ingredients shall be accompanied by at least one of the terms referred to in point (d) of Article 10(6);
+
+(c) the proportion of each alcoholic ingredient in the list of alcoholic ingredients shall be expressed at least once as a percentage, in descending order of quantities used. That proportion shall be equal to the percentage by volume of pure alcohol it represents in the total pure alcohol content by volume of the blend.
+
+4\. By way of derogation from paragraph 3 of this Article, if a mixture complies with the requirements for one of the categories of spirit drinks set out in Annex I, that mixture shall bear the legal name provided for in the relevant category.
+
+In the case referred to in the first subparagraph, the description, presentation or labelling of the mixture may show the legal names set out in Annex I or geographical indications corresponding to the spirits drinks that were mixed, provided that those names appear:
+
+(a) exclusively in a list of all the alcoholic ingredients contained in the mixture which shall appear in uniform characters of the same font and colour and in a font size which is no larger than half the font size used for the legal name; and
+
+(b) in the same visual field as the legal name of the mixture at least once.
+
+In addition, the proportion of each alcoholic ingredient in the list of alcoholic ingredients shall be expressed at least once as a percentage, in descending order of quantities used. That proportion shall be equal to the percentage by volume of pure alcohol it represents in the total pure alcohol content by volume of the mixture.
+
+5\. The use of the names of plant raw materials which are used as the legal names of certain spirit drinks shall be without prejudice to the use of the names of those plant raw materials in the presentation and labelling of other foodstuffs. The names of such raw materials may be used in the description, presentation or labelling of other spirit drinks, provided that such use does not mislead the consumer.
+
+6\. A maturation period or age may only be specified in the description, presentation or labelling of a spirit drink where it refers to the youngest alcoholic component of the spirit drink and in any case provided that all the operations to age the spirit drink took place under revenue supervision of a Member State or supervision providing equivalent guarantees. The Commission shall set up a public register listing the bodies appointed by each Member State to supervise ageing processes.
+
+7\. The legal name of a spirit drink shall be indicated in the electronic administrative document referred to in Commission Regulation (EC) No 684/2009 ( 8 ). Where a maturation period or age is indicated in the description, presentation or labelling of the spirit drink, it shall also be mentioned in that administrative document.
+
+#### Article 14 — Indication of place of provenance
+
+1\. Where the place of provenance of a spirit drink, other than a geographical indication or trade mark, is indicated in its description, presentation or labelling, it shall correspond to the place or region where the stage in the production process which conferred on the finished spirit drink its character and essential definitive qualities took place.
+
+2\. The indication of the country of origin or place of provenance of the primary ingredient as referred to in Regulation (EU) No 1169/2011 shall not be required for spirit drinks.
+
+#### Article 15 — Language used for the names of spirit drinks
+
+1\. The terms in italics in Annexes I and II and geographical indications shall not be translated either on the label or in the description and presentation of spirit drinks.
+
+2\. By way of derogation from paragraph 1, in the case of spirit drinks produced in the Union and destined for export, the terms referred to in paragraph 1 and geographical indications may be accompanied by translations, transcriptions or transliterations, provided that such terms and geographical indications in the original language are not hidden.
+
+#### Article 17 — Prohibition of lead-based capsules and lead-based foil
+
+Spirit drinks shall not be held with a view to sale or be placed on the market in containers fitted with closing devices covered by lead-based capsules or lead-based foil.
+
+#### Article 18 — Union reference methods of analysis
+
+1\. Where ethyl alcohol of agricultural origin, distillates of agricultural origin or spirit drinks are to be analysed to verify that they comply with this Regulation, such analysis shall be in accordance with Union reference methods of analysis for the determination of their chemical and physical composition and organoleptic properties.
+
+Other methods of analysis shall be permitted, under the responsibility of the director of the laboratory, on condition that the accuracy, repeatability and reproducibility of the methods are at least equivalent to those of the relevant Union reference methods of analysis.
+
+2\. Where Union methods of analysis are not laid down for the detection and quantification of substances contained in a particular spirit drink, one or more of the following methods shall be used:
+
+(a) methods of analysis that have been validated by internationally recognised procedures and that, in particular, meet the criteria set out in Annex III to Regulation (EC) No 882/2004 of the European Parliament and of the Council ( 9 );
+
+(b) methods of analysis conforming to the recommended standards of the International Organisation for Standardisation (ISO);
+
+(c) methods of analysis recognised and published by the International Organisation of Vine and Wine (OIV); or
+
+(d) in the absence of a method as referred to in points (a), (b) or (c), by reason of its accuracy, repeatability and reproducibility:
+
+— a method of analysis approved by the Member State concerned;
+
+— where necessary, any other suitable method of analysis.
+
+#### Article 19 — Delegated powers
+
+1\. In order to take into account the traditional dynamic ageing process for brandy in Member States which is known as the ‘ criaderas y solera ’ system or ‘ solera e criaderas ’ system as set out in Annex III, the Commission is empowered to adopt delegated acts in accordance with Article 46 supplementing this Regulation by:
+
+(a) laying down derogations from Article 13(6) concerning the specification of a maturation period or age in the description, presentation or labelling of such brandy; and
+
+(b) establishing appropriate control mechanisms for such brandy.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 46 supplementing this Regulation concerning the setting up of a public register listing the bodies appointed by each Member State to supervise ageing processes as provided for in Article 13(6).
+
+#### Article 20 — Implementing powers
+
+The Commission may, by means of implementing acts, adopt:
+
+(a) the rules necessary for communications to be made by Member States with regard to the bodies appointed to supervise ageing processes in accordance with Article 13(6);
+
+(b) uniform rules for indicating the country of origin or the place of provenance in the description, presentation or labelling of spirit drinks referred to in Article 14;
+
+(c) rules on the use of the Union symbol referred to in Article 16 in the description, presentation and labelling of spirit drinks;
+
+(d) detailed technical rules on the Union reference methods of analysis referred to in Article 18.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(2).
+
+## CHAPTER III — GEOGRAPHICAL INDICATIONS
+
+#### Article 22 — Product specification
+
+1\. A geographical indication protected under this Regulation shall comply with a product specification which shall include at least:
+
+(a) the name to be protected as a geographical indication, as it is used, whether in trade or in common language, only in the languages which are or were historically used to describe the specific product in the defined geographical area, in the original script and in Latin transcription if different;
+
+(b) the category of the spirit drink or the term ‘spirit drink’ if the spirit drink does not comply with the requirements laid down for the categories of spirit drinks set out in Annex I;
+
+(c) a description of the characteristics of the spirit drink, including the raw materials from which it is produced, if appropriate, as well as the principal physical, chemical or organoleptic characteristics of the product and the specific characteristics of the product compared to spirit drinks of the same category;
+
+(d) the definition of the geographical area delimited with regard to the link referred to in point (f);
+
+(e) a description of the method of producing the spirit drink and, where appropriate, the authentic and unvarying local production methods;
+
+(f) details establishing the link between a given quality, reputation or other characteristic of the spirit drink and its geographical origin;
+
+(g) the names and addresses of the competent authorities or, if available, the names and addresses of the bodies that verify compliance with the provisions of the product specification pursuant to Article 38 and their specific tasks;
+
+(h) any specific labelling rule for the geographical indication in question.
+
+Where applicable, requirements regarding packaging shall be included in the product specification, accompanied by a justification showing why the packaging must take place in the defined geographical area to safeguard quality, to ensure the origin or to ensure control, taking into account Union law, in particular Union law on the free movement of goods and the free provision of services.
+
+1a. The product specification may also include sustainable practices.
+
+2\. Technical files submitted as part of any application before 8 June 2019 under Regulation (EC) No 110/2008 shall be deemed to be product specifications under this Article.
+
+#### Article 23
+
+Single document
+
+The single document shall contain the following:
+
+(a) the main points of the product specification, including the name to be protected, the category to which the spirit drink belongs or the term ‘spirit drink’, the production method, a description of the characteristics of the spirit drink, a concise definition of the geographical area, and, where appropriate, specific rules concerning packaging and labelling;
+
+(b) a description of the link between the spirit drink and its geographical origin as referred to in Article 3, point (4), including, where appropriate, the specific elements of the product description or production method justifying that link.
+
+#### Article 34 — Homonymous geographical indications
+
+4\. The protection of geographical indications under this Regulation shall be without prejudice to protected geographical indications and protected designations of origin of wine products under Regulation (EU) No 1308/2013.
+
+#### Article 37 — Existing registered geographical indications
+
+Geographical indications of spirit drinks registered in Annex III to Regulation (EC) No 110/2008 and thus protected under that Regulation shall automatically be protected as geographical indications under this Regulation. The Commission shall list them in the register referred to in Article 33 of this Regulation.
+
+#### Article 41 — Delegated powers
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 46 supplementing this Regulation by setting out further conditions to be followed, including in cases where a geographical area includes more than one country, in respect of:
+
+(a) an application for the registration of a geographical indication as referred to in Articles 23 and 24; and
+
+(b) preliminary national procedures as referred to in Article 24, scrutiny by the Commission, the opposition procedure, and the cancellation of geographical indications.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 46 supplementing this Regulation by establishing conditions and requirements for the procedure concerning the Union amendments and standard amendments, including temporary amendments, to product specifications as referred to in Article 31.
+
+#### Article 42 — Implementing powers
+
+1\. The Commission may adopt implementing acts concerning:
+
+(a) the form of the product specification;
+
+(b) the definition of the format and the online presentation of the single document provided for in Article 23;
+
+(c) the exclusion or anonymisation of personal data.
+
+2\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 88(2) of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( 10 ).
+
+## CHAPTER IV — CHECKS, EXCHANGE OF INFORMATION, MEMBER STATES' LEGISLATION
+
+#### Article 43 — Checks on spirit drinks
+
+1\. Member States shall be responsible for checks on spirit drinks. They shall take the measures necessary to ensure compliance with this Regulation and designate the competent authorities responsible for ensuring this Regulation is complied with.
+
+2\. The Commission shall ensure the uniform application of this Regulation and, where necessary, shall, by means of implementing acts, adopt the rules concerning administrative and physical checks to be conducted by the Member States with regard to the respect of the obligations resulting from the application of this Regulation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(2).
+
+#### Article 44 — Exchange of information
+
+1\. Member States and the Commission shall communicate to each other the information necessary for the application of this Regulation.
+
+2\. The Commission may adopt implementing acts concerning the nature and the type of the information to be exchanged and the methods for exchanging information.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 47(2).
+
+#### Article 45 — Member States' legislation
+
+1\. In applying a quality policy for spirit drinks produced in their own territory and in particular for geographical indications listed in the register or for the protection of new geographical indications, Member States may lay down rules on production, description, presentation and labelling that are stricter than those set out in Annexes I and II in so far as they are compatible with Union law.
+
+2\. Notwithstanding paragraph 1, Member States shall not prohibit or restrict the import, sale or consumption of spirit drinks produced in other Member States or third countries which comply with this Regulation.
+
+## CHAPTER V — DELEGATION OF POWER, IMPLEMENTING PROVISIONS, TRANSITIONAL AND FINAL PROVISIONS
+
+### SECTION 1 — Delegation of power and implementing provisions
+
+#### Article 46 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 8 and 19 shall be conferred on the Commission for a period of seven years from 24 May 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the seven-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The power to adopt delegated acts referred to in Articles 33 and 41 shall be conferred on the Commission for a period of five years from 24 May 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+4\. The power to adopt delegated acts referred to in Article 50 shall be conferred on the Commission for a period of six years from 24 May 2019.
+
+5\. The delegation of power referred to in Articles 8, 19, 33, 41 and 50 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+6\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+7\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+8\. A delegated act adopted pursuant to Articles 8, 19, 33, 41 and 50 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+#### Article 47 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee for Spirit Drinks established by Regulation (EEC) No 1576/89. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+### SECTION 2 — Derogation, transitional and final provisions
+
+#### Article 48 — Derogation from nominal quantities requirements in Directive 2007/45/EC
+
+By way of derogation from Article 3 of Directive 2007/45/EC, and from the sixth row of section 1 of the Annex to that Directive, single distilled shochu ( 11 ), produced by pot still and bottled in Japan, may be placed on the Union market in nominal quantities of 720 ml and 1 800 ml.
+
+#### Article 49 — Repeal
+
+1\. Without prejudice to Article 50, Regulation (EC) No 110/2008 is repealed with effect from 25 May 2021. However, Chapter III thereof is repealed with effect from 8 June 2019.
+
+2\. By way of derogation from paragraph 1:
+
+(a) Article 17(2) of Regulation (EC) No 110/2008 shall continue to apply until 25 May 2021;
+
+(b) Article 20 of Regulation (EC) No 110/2008 and, without prejudice to the applicability of the other provisions of Commission Implementing Regulation (EU) No 716/2013 ( 12 ), Article 9 of that Implementing Regulation shall continue to apply until the completion of the procedures provided for in Article 9 of that Implementing Regulation but, in any event, no later than 25 May 2021; and
+
+(c) Annex III to Regulation (EC) No 110/2008 shall continue to apply until the register referred to in Article 33 of this Regulation has been established.
+
+3\. References to Regulation (EC) No 110/2008 shall be construed as references to this Regulation and be read in accordance with the correlation table set out in Annex IV to this Regulation.
+
+#### Article 50 — Transitional measures
+
+1\. Products referred to in Article 1(1) of this Regulation which do not meet the requirements of this Regulation but which meet the requirements of Regulation (EC) No 110/2008 and were produced before 25 May 2021 may continue to be placed on the market until stocks are exhausted.
+
+2\. Notwithstanding paragraph 1 of this Article, spirit drinks the description, presentation or labelling of which is not in conformity with Articles 21 and 36 of this Regulation but complies with Articles 16 and 23 of Regulation (EC) No 110/2008 and which were labelled before 8 June 2019 may continue to be placed on the market until stocks are exhausted.
+
+3\. Until 25 May 2025, the Commission is empowered to adopt delegated acts in accordance with Article 46 amending Article 3(2), (3), (9), (10), (11) and (12), Article 10(6) and (7), and Articles 11, 12 and 13 or supplementing this Regulation by derogating from those provisions.
+
+The delegated acts referred to in the first subparagraph shall be strictly limited to meeting demonstrated needs that result from market circumstances.
+
+The Commission shall adopt a separate delegated act in respect of each definition, technical definition or requirement in the provisions referred to in the first subparagraph.
+
+4\. Articles 22 to 26, 31 and 32 of this Regulation shall not apply to applications for registration or for amendment or to requests for cancellation, which are pending on 8 June 2019. Articles 17(4), (5) and (6), 18 and 21 of Regulation (EC) No 110/2008 shall continue to apply to such applications and requests for cancellation.
+
+The provisions on the opposition procedure referred to in Articles 27, 28 and 29 of this Regulation shall not apply to the applications for registration or to the applications for amendment, in relation to which the main specifications of the technical file or an application for amendment, respectively, have already been published for opposition in the Official Journal of the European Union on 8 June 2019. Article 17(7) of Regulation (EC) No 110/2008 shall continue to apply to such applications.
+
+The provisions on the opposition procedure referred to in Articles 27, 28 and 29 of this Regulation shall not apply to a request for cancellation which is pending on 8 June 2019. Article 18 of Regulation (EC) No 110/2008 shall continue to apply to such requests for cancellation.
+
+5\. For the geographical indications registered under Chapter III of this Regulation and of which the application for registration was pending on the date of application of the implementing acts laying down detailed rules on the procedures for, form and presentation of, applications as referred to in Article 23 provided for in Article 42(2) of this Regulation, the register may provide direct access to the main specifications of the technical file within the meaning of Article 17(4) of Regulation (EC) No 110/2008.
+
+6\. In respect of geographical indications registered in accordance with Regulation (EC) No 110/2008 the Commission shall, at the request of a Member State, publish a single document submitted by that Member State in the Official Journal of the European Union. That publication shall be accompanied by the publication reference of the product specification and shall not be followed by an opposition procedure.
+
+#### Article 51 — Entry into force and application
+
+1\. This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 25 May 2021.
+
+2\. Notwithstanding paragraph 1, Article 14(2), Article 16, point (c) of Article 20, Articles 21, 22 and 23, Article 24(1), (2) and (3), the first and second subparagraphs of Article 24(4), Article 24(8) and (9), Articles 25 to 42, Articles 46 and 47, Article 50(1), (4) and (6), points 39(d) and 40(d) of Annex I and the definitions set out in Article 3 relating to those provisions shall apply from 8 June 2019.
+
+3\. The delegated acts provided for in Articles 8, 19 and 50, adopted in accordance with Article 46, and the implementing acts provided for in Article 8(4) and Articles 20, 43 and 44, adopted in accordance with Article 47, shall apply from 25 May 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**CATEGORIES OF SPIRIT DRINKS**
+
+**1\. Rum**
+
+(a) Rum is a spirit drink produced exclusively by the distillation of the product obtained by the alcoholic fermentation of molasses or syrup produced in the manufacture of cane sugar or of sugar-cane juice itself, distilled at less than 96 % vol., so that the distillate has the discernible specific organoleptic characteristics of rum.
+
+(b) The minimum alcoholic strength by volume of rum shall be 37,5 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Rum shall not be flavoured.
+
+(e) Rum may only contain added caramel as a means of adjusting the colour.
+
+(f) Rum may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+(g) In the case of geographical indications registered under this Regulation, the legal name of rum may be supplemented by:
+
+(i) the term ‘traditionnel’ or ‘tradicional’, provided that the rum in question:
+
+— has been produced by distillation at less than 90 % vol., after alcoholic fermentation of alcohol-producing materials originating exclusively from the place of production considered, and
+
+— has a volatile substances content equal to or exceeding 225 grams per hectolitre of 100 % vol. alcohol, and
+
+— is not sweetened;
+
+(ii) the term ‘agricultural’, provided that the rum in question complies with the requirements under point (i) and has been produced exclusively by distillation after alcoholic fermentation of sugar-cane juice. The term ‘agricultural’ may only be used in the case of a geographical indication of a French Overseas Department or the Autonomous Region of Madeira.
+
+This point shall be without prejudice to the use of the term ‘agricultural’, ‘ traditionnel ’ or ‘ tradicional ’ in connection with any product not covered by this category, in accordance with their own specific criteria.
+
+**2\. Whisky or whiskey**
+
+(a) Whisky or whiskey is a spirit drink produced exclusively by carrying out all of the following production operations:
+
+(i) distillation of a mash made from malted cereals, with or without whole grains of unmalted cereals, which has been:
+
+— saccharified by the diastase of the malt contained therein, with or without other natural enzymes,
+
+— fermented by the action of yeast;
+
+(ii) each and every distillation is carried out at less than 94,8 % vol., so that the distillate has an aroma and taste derived from the raw materials used;
+
+(iii) maturation of the final distillate for at least three years in wooden casks not exceeding 700 litres capacity.
+
+The final distillate, to which only water and plain caramel (for colouring) may be added, shall retain the colour, aroma and taste it derived from the production process referred to in points (i), (ii) and (iii).
+
+(b) The minimum alcoholic strength by volume of whisky or whiskey shall be 40 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Whisky or whiskey shall not be sweetened, even for rounding off the taste, or flavoured, or contain any additives other than plain caramel (E 150a) used for adjusting the colour.
+
+(e) The legal name of ‘whisky’ or ‘whiskey’ may be supplemented by the term ‘single malt’ only if it has been distilled exclusively from malted barley at a single distillery.
+
+**3\. Grain spirit**
+
+(a) Grain spirit is a spirit drink produced exclusively by the distillation of a fermented mash of whole grain cereals and having organoleptic characteristics derived from the raw materials used.
+
+(b) With the exception of Korn, the minimum alcoholic strength by volume of grain spirit shall be 35 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Grain spirit shall not be flavoured.
+
+(e) Grain spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Grain spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 10 grams of sweetening products per litre, expressed as invert sugar.
+
+(g) A grain spirit may bear the legal name ‘grain brandy’ if it has been produced by distillation at less than 95 % vol. from a fermented mash of whole grain cereals, presenting organoleptic features deriving from the raw materials used.
+
+(h) In the legal name ‘grain spirit’ or ‘grain brandy’, the word ‘grain’ may be replaced with the name of the cereal used exclusively in the production of the spirit drink.
+
+**4\. Wine spirit**
+
+(a) Wine spirit is a spirit drink which meets the following requirements:
+
+(i) it is produced exclusively by the distillation at less than 86 % vol. of wine, wine fortified for distillation or wine distillate;
+
+(ii) it has a volatile substances content equal to or exceeding 125 grams per hectolitre of 100 % vol. alcohol;
+
+(iii) it has a maximum methanol content of 200 grams per hectolitre of 100 % vol. alcohol.
+
+(b) The minimum alcoholic strength by volume of wine spirit shall be 37,5 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Wine spirit shall not be flavoured. This shall not preclude traditional production methods.
+
+(e) Wine spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Wine spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+(g) Where wine spirit has been matured, it may continue to be placed on the market as ‘wine spirit’ provided that it has been matured for as long as, or longer than, the maturation period provided for in respect of the spirit drink defined under category 5.
+
+(h) This Regulation shall be without prejudice to the use of the term ‘Branntwein’ in combination with the term ‘essig’ in the presentation and labelling of vinegar.
+
+**5\. Brandy or Weinbrand**
+
+(a) Brandy or Weinbrand is a spirit drink which meets the following requirements:
+
+(i) it is produced from wine spirit to which wine distillate may be added, provided that that wine distillate has been distilled at less than 94,8 % vol. and does not exceed a maximum of 50 % of the alcoholic content of the finished product;
+
+(ii) it has matured for at least:
+
+— one year in oak receptacles with a capacity of at least 1 000 litres each; or
+
+— six months in oak casks with a capacity of less than 1 000 litres each;
+
+(iii) it has a volatile substances content equal to or exceeding 125 grams per hectolitre of 100 % vol. alcohol, and derived exclusively from the distillation of the raw materials used;
+
+(iv) it has a maximum methanol content of 200 grams per hectolitre of 100 % vol. alcohol.
+
+(b) The minimum alcoholic strength by volume of brandy or Weinbrand shall be 36 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Brandy or Weinbrand shall not be flavoured. This shall not preclude traditional production methods.
+
+(e) Brandy or Weinbrand may only contain added caramel as a means of adjusting the colour.
+
+(f) Brandy or Weinbrand may be sweetened in order to round off the final taste. However, the final product may not contain more than 35 grams of sweetening products per litre, expressed as invert sugar.
+
+**6\. Grape marc spirit or grape marc**
+
+(a) Grape marc spirit or grape marc is a spirit drink which meets the following requirements:
+
+(i) it is produced exclusively from grape marc fermented and distilled either directly by water vapour or after water has been added and both of the following conditions are fulfilled:
+
+— each and every distillation is carried out at less than 86 % vol.;
+
+— the first distillation is carried out in the presence of the marc itself;
+
+(ii) a quantity of lees may be added to the grape marc that does not exceed 25 kg of lees per 100 kg of grape marc used;
+
+(iii) the quantity of alcohol derived from the lees shall not exceed 35 % of the total quantity of alcohol in the finished product;
+
+(iv) it has a volatile substances content equal to or exceeding 140 grams per hectolitre of 100 % vol. alcohol and has a maximum methanol content of 1 000 grams per hectolitre of 100 % vol. alcohol.
+
+(b) The minimum alcoholic strength by volume of grape marc spirit or grape marc shall be 37,5 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Grape marc spirit or grape marc shall not be flavoured. This shall not preclude traditional production methods.
+
+(e) Grape marc spirit or grape marc may only contain added caramel as a means of adjusting the colour.
+
+(f) Grape marc spirit or grape marc may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+**7\. Fruit marc spirit**
+
+(a) Fruit marc spirit is a spirit drink which meets the following requirements:
+
+(i) it is produced exclusively by fermentation and distillation of fruit marc other than grape marc and both of the following conditions are fulfilled:
+
+— each and every distillation is carried out at less than 86 % vol.;
+
+— the first distillation is carried out in the presence of the marc itself;
+
+(ii) it has a minimum volatile substances content of 200 grams per hectolitre of 100 % vol. alcohol;
+
+(iii) the maximum methanol content shall be 1 500 grams per hectolitre of 100 % vol. alcohol;
+
+(iv) the maximum hydrocyanic acid content shall be 7 grams per hectolitre of 100 % vol. alcohol in the case of stone-fruit marc spirit.
+
+(b) The minimum alcoholic strength by volume of fruit marc spirit shall be 37,5 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Fruit marc spirit shall not be flavoured.
+
+(e) Fruit marc spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Fruit marc spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+(g) The legal name shall consist of the name of the fruit followed by ‘marc spirit’. If marc of several different fruits is used, the legal name shall be ‘fruit marc spirit’ and may be supplemented by the name of each fruit in decreasing order of the quantity used.
+
+**8\. Raisin spirit or raisin brandy**
+
+(a) Raisin spirit or raisin brandy is a spirit drink produced exclusively by the distillation of the product obtained by the alcoholic fermentation of extract of dried grapes of the ‘Corinth Black’ or ‘Moscatel of Alexandria’ varieties, distilled at less than 94,5 % vol., so that the distillate has an aroma and taste derived from the raw materials used.
+
+(b) The minimum alcoholic strength by volume of raisin spirit or raisin brandy shall be 37,5 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Raisin spirit or raisin brandy shall not be flavoured.
+
+(e) Raisin spirit or raisin brandy may only contain added caramel as a means of adjusting the colour.
+
+(f) Raisin spirit or raisin brandy may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+**9\. Fruit spirit**
+
+(a) Fruit spirit is a spirit drink which meets the following requirements:
+
+(i) it is produced exclusively by the alcoholic fermentation and distillation, with or without stones, of fresh and fleshy fruit, including bananas, or the must of such fruit, berries or vegetables;
+
+(ii) each and every distillation shall be carried out at less than 86 % vol. so that the distillate has an aroma and taste derived from the raw materials distilled;
+
+(iii) it has a volatile substances content equal to or exceeding 200 grams per hectolitre of 100 % vol. alcohol;
+
+(iv) in the case of stone-fruit spirits, it has a hydrocyanic acid content not exceeding 7 grams per hectolitre of 100 % vol. alcohol.
+
+(b) The maximum methanol content of fruit spirit shall be 1 000 grams per hectolitre of 100 % vol. alcohol, except:
+
+(i) in the case of fruit spirits produced from the following fruits or berries, and in respect of which the maximum methanol content shall be 1 200 grams per hectolitre of 100 % vol. alcohol:
+
+— apple (Malus domestica Borkh.),
+
+— apricots (Prunus armeniaca L.),
+
+— plum (Prunus domestica L.),
+
+— quetsch (Prunus domestica L.),
+
+— mirabelle (Prunus domestica L. subsp. syriaca (Borkh.) Janch. ex Mansf.),
+
+— peach (Prunus persica (L.) Batsch),
+
+— pear (Pyrus communis L.), except for Williams pears (Pyrus communis L. cv ‘Williams’),
+
+— blackberry (Rubus sect. Rubus),
+
+— raspberry (Rubus idaeus L.).
+
+(ii) in the case of fruit spirits produced from the following fruits or berries, and in respect of which the maximum methanol content shall be 1 350 grams per hectolitre of 100 % vol. alcohol:
+
+— quince (Cydonia oblonga Mill.),
+
+— juniper berry (Juniperus communis L. or Juniperus oxicedrus L.),
+
+— Williams pear (Pyrus communis L. cv ‘Williams’),
+
+— blackcurrant (Ribes nigrum L.),
+
+— redcurrant (Ribes rubrum L.),
+
+— rosehip (Rosa canina L.),
+
+— elderberry (Sambucus nigra L.),
+
+— rowanberry (Sorbus aucuparia L.),
+
+— sorb apple (Sorbus domestica L.),
+
+— wild service tree (Sorbus torminalis (L.) Crantz).
+
+(c) The minimum alcoholic strength by volume of fruit spirit shall be 37,5 %.
+
+(d) Fruit spirit shall not be coloured.
+
+(e) Notwithstanding point (d) of this category and by way of derogation from food category 14.2.6 of Part E of Annex II to Regulation (EC) No 1333/2008, caramel may be used to adjust the colour of fruit spirits that have been aged at least one year in contact with wood.
+
+(f) No addition of alcohol, diluted or not, shall take place.
+
+(g) Fruit spirit shall not be flavoured.
+
+(h) Fruit spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 18 grams of sweetening products per litre, expressed as invert sugar.
+
+(i) The legal name of fruit spirit shall be ‘spirit’ supplemented by the name of the fruit, berry or vegetable. In the Bulgarian, Czech, Greek, Croatian, Polish, Romanian, Slovak and Slovenian languages, the legal name may be expressed by the name of the fruit, berry or vegetable, supplemented by a suffix.
+
+Alternatively:
+
+(i) the legal name referred to in the first subparagraph may be ‘wasser’, used together with the name of the fruit; or
+
+(ii) the following legal names may be used in the following cases:
+
+— ‘ kirsch ’ for cherry spirit (Prunus avium (L.) L.);
+
+— ‘plum’, ‘quetsch’ or ‘slivovitz’ for plum spirit (Prunus domestica L.);
+
+— ‘mirabelle’ for mirabelle spirit (Prunus domestica L. subsp. syriaca (Borkh.) Janch. ex Mansf.);
+
+— ‘fruit of arbutus’ for fruit of arbutus spirit (Arbutus unedo L.);
+
+— ‘Golden Delicious’ for apple spirit (Malus domestica var. ‘Golden Delicious’);
+
+— ‘ Obstler ’ for a fruit spirit produced from fruits, with or without berries, provided that at least 85 % of the mash is derived from different varieties of apples, pears or both.
+
+The name ‘ Williams ’ or ‘williams’ may be used only to place on the market pear spirit produced solely from pears of the ‘Williams’ variety.
+
+If there is a risk that the final consumer does not easily understand one of the legal names not containing the word ‘spirit’ referred to in this point, the description, presentation and labelling shall include the word ‘spirit’, which may be supplemented by an explanation.
+
+(j) Whenever two or more fruits, berries or vegetables are distilled together, the product shall be placed on the market under the legal name:
+
+— ‘fruit spirit’ for spirit drinks exclusively produced by distillation of fruits or berries or both; or
+
+— ‘vegetable spirit’ for spirit drinks exclusively produced by distillation of vegetables; or
+
+— ‘fruit and vegetable spirit’ for spirit drinks produced by distillation of a combination of fruits, berries and vegetables.
+
+The legal name may be supplemented by that of each fruit, berry or vegetable, in decreasing order of the quantity used.
+
+**9a. Potato spirit**
+
+(a) Potato spirit is a spirit drink produced exclusively by alcoholic fermentation and distillation of potato tubers at less than 94,8 % vol., so that the distillate has an aroma and taste derived from the raw materials used.
+
+(b) The maximum methanol content of potato spirit shall be 1 000 grams per hectolitre of 100 % vol. alcohol.
+
+(c) The minimum alcoholic strength by volume of potato spirit shall be 38 %.
+
+(d) No addition of alcohol, diluted or not, shall take place.
+
+(e) Potato spirit shall not be flavoured.
+
+(f) Potato spirit may only contain added caramel as a means of adjusting the colour.
+
+(g) Potato spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 10 grams of sweetening products per litre, expressed as invert sugar.
+
+**10\. Cider spirit, perry spirit and cider and perry spirit**
+
+(a) Cider spirit, perry spirit and cider and perry spirit are spirit drinks which meet the following requirements:
+
+(i) they are produced exclusively by the distillation at less than 86 % vol. of cider or perry so that the distillate has an aroma and taste derived from the fruits;
+
+(ii) they have a volatile substances content equal to or exceeding 200 grams per hectolitre of 100 % vol. alcohol;
+
+(iii) they have a maximum methanol content of 1 000 grams per hectolitre of 100 % vol. alcohol.
+
+(b) The minimum alcoholic strength by volume of cider spirit, perry spirit and cider and perry spirit shall be 37,5 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Cider spirit, perry spirit and cider and perry spirit shall not be flavoured. This shall not preclude traditional production methods.
+
+(e) Cider spirit, perry spirit and cider and perry spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Cider spirit, perry spirit and cider and perry spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 15 grams of sweetening products per litre, expressed as invert sugar.
+
+(g) The legal name shall be:
+
+— ‘cider spirit’ for spirit drinks exclusively produced by the distillation of cider;
+
+— ‘perry spirit’ for spirit drinks exclusively produced by the distillation of perry; or
+
+— ‘cider and perry spirit’ for spirit drinks produced by the distillation of cider and perry.
+
+**11\. Honey spirit**
+
+(a) Honey spirit is a spirit drink which meets the following requirements:
+
+(i) it is produced exclusively by fermentation and distillation of honey mash;
+
+(ii) it is distilled at less than 86 % vol. so that the distillate has the organoleptic characteristics derived from the raw materials used.
+
+(b) The minimum alcoholic strength by volume of honey spirit shall be 35 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Honey spirit shall not be flavoured.
+
+(e) Honey spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Honey spirit may only be sweetened with honey in order to round of the final taste. However, the final product may not contain more than 20 grams of honey per litre, expressed as invert sugar.
+
+**12\. Hefebrand or lees spirit**
+
+(a) Hefebrand or lees spirit is a spirit drink produced exclusively by the distillation at less than 86 % vol. of lees of wine, lees of beer or lees of fermented fruit.
+
+(b) The minimum alcoholic strength by volume of Hefebrand or lees spirit shall be 38 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Hefebrand or lees spirit shall not be flavoured.
+
+(e) Hefebrand or lees spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Hefebrand or lees spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+(g) The legal name ‘Hefebrand’ or ‘lees spirit’ shall be supplemented by the name of the raw materials used.
+
+**13\. Beer spirit**
+
+(a) Beer spirit is a spirit drink produced exclusively by direct distillation under normal pressure of fresh beer with an alcoholic strength by volume of less than 86 %, so that the resulting distillate has organoleptic characteristics deriving from the beer.
+
+(b) The minimum alcoholic strength by volume of beer spirit shall be 38 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Beer spirit shall not be flavoured.
+
+(e) Beer spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Beer spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+**13a. Bread spirit**
+
+(a) Bread spirit is a spirit drink produced exclusively by alcoholic fermentation and distillation at less than 86 % vol. of fresh bread, so that the resulting distillate has an aroma and taste derived from the raw materials used.
+
+(b) The minimum alcoholic strength by volume of bread spirit shall be 38 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Bread spirit shall not be flavoured.
+
+(e) Bread spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Bread spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+**13b. Birch sap spirit, maple sap spirit and birch and maple sap spirit**
+
+(a) Birch sap spirit, maple sap spirit and birch and maple sap spirit are spirit drinks produced exclusively by the direct distillation of mash obtained from fermentation of fresh birch or maple sap or both under normal pressure to an alcohol content of less than 88 % by volume, so that the resulting distillate has organoleptic characteristics derived from birch or maple sap or both.
+
+(b) The minimum alcoholic strength by volume of birch sap spirit, maple sap spirit and birch and maple sap spirit shall be 38 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Birch sap spirit, maple sap spirit and birch and maple sap spirit shall not be flavoured.
+
+(e) Birch sap spirit, maple sap spirit and birch and maple sap spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Birch sap spirit, maple sap spirit and birch and maple sap spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+**14\. Topinambur or Jerusalem artichoke spirit**
+
+(a) Topinambur or Jerusalem artichoke spirit is a spirit drink produced exclusively by fermentation and distillation at less than 86 % vol. of Jerusalem artichoke tubers (Helianthus tuberosus L.).
+
+(b) The minimum alcoholic strength by volume of topinambur or Jerusalem artichoke spirit shall be 38 %.
+
+(c) No addition of alcohol, diluted or not, shall take place.
+
+(d) Topinambur or Jerusalem artichoke spirit shall not be flavoured.
+
+(e) Topinambur or Jerusalem artichoke spirit may only contain added caramel as a means of adjusting the colour.
+
+(f) Topinambur or Jerusalem artichoke spirit may be sweetened in order to round off the final taste. However, the final product may not contain more than 20 grams of sweetening products per litre, expressed as invert sugar.
+
+**15\. Vodka**
+
+(a) Vodka is a spirit drink produced from ethyl alcohol of agricultural origin obtained following fermentation with yeast of either:
+
+— potatoes or cereals or both,
+
+— other agricultural raw materials,
+
+distilled so that the organoleptic characteristics of the raw materials used and by-products formed in fermentation are selectively reduced.
+
+This may be followed by additional distillation or treatment with appropriate processing aids or both, including treatment with activated charcoal, to give it special organoleptic characteristics.
+
+Maximum levels of residue for the ethyl alcohol of agricultural origin used to produce vodka shall meet those levels set out in point (d) of Article 5, except that the methanol content shall not exceed 10 grams per hectolitre of 100 % vol. alcohol.
+
+(b) The minimum alcoholic strength by volume of vodka shall be 37,5 %.
+
+(c) The only flavourings which may be added are natural flavouring substances or flavouring preparations that are present in distillate obtained from the fermented raw materials. In addition, the product may be given special organoleptic characteristics, other than a predominant flavour.
+
+(d) Vodka shall not be coloured.
+
+(e) Vodka may be sweetened in order to round off the final taste. However, the final product may not contain more than 8 grams of sweetening products per litre, expressed as invert sugar.
+
+(f) The description, presentation or labelling of vodka not produced exclusively from potatoes or cereals or both shall prominently bear the indication ‘produced from …’, supplemented by the name of the raw materials used to produce the ethyl alcohol of agricultural origin. This indication shall appear in the same visual field as the legal name.
+
+(g) The legal name may be ‘vodka’ in any Member State.
+
+**16\. Spirit (supplemented by the name of the fruit, berries or nuts) obtained by maceration and distillation**
+
+(a) Spirit (supplemented by the name of the fruit, berries or nuts) obtained by maceration and distillation is a spirit drink which meets the following requirements:
+
+(i) it has been produced by:
+
+— maceration of fruit, berries or nuts listed under point (ii), whether partially fermented or unfermented, with the possible addition of a maximum of 20 litres of ethyl alcohol of agricultural origin or of a spirit or distillate deriving from the same fruit, berries or nuts, or of a combination thereof, per 100 kg of fermented fruit, berries or nuts,
+
+— followed by distillation; each and every distillation shall be carried out at less than 86 % vol;
+
+(ii) it is produced from the following fruits, berries or nuts:
+
+— chokeberry (Aronia Medik. nom cons.),
+
+— black chokeberry (Aronia melanocarpa (Michx.) Elliott),
+
+— chestnut (Castanea sativa Mill.),
+
+— citrus fruits (Citrus spp.),
+
+— hazelnut (Corylus avellana L.),
+
+— crowberry (Empetrum nigrum L.),
+
+— strawberry (Fragaria spp.),
+
+— sea-buckthorn (Hippophae rhamnoides L.),
+
+— hollyberry (Ilex aquifolium and Ilex cassine L.),
+
+— cornel cherry or cornelian cherry (Cornus mas),
+
+— walnut (Juglans regia L.),
+
+— banana (Musa spp.),
+
+— myrtle (Myrtus communis L.),
+
+— prickly pear (Opuntia ficus-indica (L.) Mill.),
+
+— passion fruit (Passiflora edulis Sims),
+
+— bird cherry (Prunus padus L.).
+
+— sloe (Prunus spinosa L.),
+
+— blackcurrant (Ribes nigrum L.),
+
+— white currant (Ribes niveum Lindl.),
+
+— redcurrant (Ribes rubrum L.),
+
+— gooseberry (Ribes uva-crispa L. syn. Ribes grossularia),
+
+— rosehip (Rosa canina L.),
+
+— arctic bramble (Rubus arcticus L.),
+
+— cloudberry (Rubus chamaemorus L.),
+
+— blackberry (Rubus sect. Rubus),
+
+— raspberry (Rubus idaeus L.),
+
+— elderberry (Sambucus nigra L.),
+
+— rowanberry (Sorbus aucuparia L.),
+
+— sorb apple (Sorbus domestica L.),
+
+— wild service tree (Sorbus torminalis (L.) Crantz),
+
+— ambarella (Spondias dulcis Parkinson),
+
+— hog plum (Spondias mombin L.),
+
+— high bush blueberry (Vaccinium corymbosum L.),
+
+— wild cranberry (Vaccinium oxycoccos L.),
+
+— bilberry/blueberry (Vaccinium myrtillus L.),
+
+— cowberry (Vaccinium vitis-idaea L.).
+
+(b) The minimum alcoholic strength by volume of a spirit (supplemented by the name of the fruit, berries or nuts) obtained by maceration and distillation shall be 37,5 %.
+
+(c) Spirit (supplemented by the name of the fruit, berries or nuts) obtained by maceration and distillation shall not be flavoured.
+
+(d) Spirit (supplemented by the name of the fruit, berries or nuts) obtained by maceration and distillation shall not be coloured.
+
+(e) Notwithstanding point (d) and by way of derogation from food category 14.2.6 of Part E of Annex II to Regulation (EC) No 1333/2008, caramel may be used to adjust the colour of spirit (supplemented by the name of the fruit, berries or nuts) obtained by maceration and distillation that has been aged at least one year in contact with wood.
+
+(f) Spirit (supplemented by the name of the fruit, berries or nuts) obtained by maceration and distillation may be sweetened in order to round off the final taste. However, the final product may not contain more than 18 grams of sweetening products per litre, expressed as invert sugar.
+
+(g) As regards the description, presentation and labelling of spirit (supplemented by the name of the fruit, berries or nuts) obtained by maceration and distillation, the wording ‘obtained by maceration and distillation’ shall appear in the description, presentation or labelling in characters of the same font, size and colour and in the same visual field as the wording ‘spirit (supplemented by the name of the fruit, berries or nuts)’ and, in the case of bottles, on the front label.
+
+**17\. Geist (supplemented by the name of the fruit or the raw materials used)**
+
+(a) Geist (supplemented by the name of the fruit or the raw materials used) is a spirit drink produced by maceration of unfermented fruits and berries listed in point (a)(ii) of category 16 or vegetables, nuts, other plant materials, such as herbs or rose petals, or mushrooms in ethyl alcohol of agricultural origin, followed by distillation at less than 86 % vol.
+
+(b) The minimum alcoholic strength by volume of Geist (supplemented by the name of the fruit or the raw materials used) shall be 37,5 %.
+
+(c) Geist (supplemented by the name of the fruit or the raw materials used) shall not be flavoured.
+
+(d) Geist (supplemented by the name of the fruit or the raw materials used) shall not be coloured.
+
+(e) Geist (supplemented by the name of the fruit or the raw materials used) may be sweetened in order to round off the final taste. However, the final product may not contain more than 10 grams of sweetening products per litre, expressed as invert sugar.
+
+(f) The term ‘-geist’ preceded by a term other than the name of a fruit, plant or other raw material may supplement the legal name of other spirit drinks and alcoholic beverages, provided that such use does not mislead the consumer.
+
+**18\. Gentian**
+
+(a) Gentian is a spirit drink produced from a distillate of gentian, itself obtained by the fermentation of gentian roots with or without the addition of ethyl alcohol of agricultural origin.
+
+(b) The minimum alcoholic strength by volume of gentian shall be 37,5 %.
+
+(c) Gentian shall not be flavoured.
+
+**19\. Juniper-flavoured spirit drink**
+
+(a) A juniper-flavoured spirit drink is a spirit drink produced by flavouring ethyl alcohol of agricultural origin or grain spirit or grain distillate or a combination thereof with juniper (Juniperus communis L. or Juniperus oxicedrus L.) berries.
+
+(b) The minimum alcoholic strength by volume of a juniper-flavoured spirit drink shall be 30 %.
+
+(c) Flavouring substances, flavouring preparations, plants with flavouring properties or parts of plants with flavouring properties or a combination thereof may be used in addition to juniper berries, but the organoleptic characteristics of juniper shall be discernible, even if they are sometimes attenuated.
+
+(d) A juniper-flavoured spirit drink may bear the legal name ‘Wacholder’ or ‘genebra’.
+
+**20\. Gin**
+
+(a) Gin is a juniper-flavoured spirit drink produced by flavouring ethyl alcohol of agricultural origin with juniper berries (Juniperus communis L.).
+
+(b) The minimum alcoholic strength by volume of gin shall be 37,5 %.
+
+(c) Only flavouring substances or flavouring preparations or both shall be used for the production of gin so that the taste is predominantly that of juniper.
+
+(d) The term ‘gin’ may be supplemented by the term ‘dry’ if it does not contain added sweetening exceeding 0,1 grams of sweetening products per litre of the final product, expressed as invert sugar.
+
+**21\. Distilled gin**
+
+(a) Distilled gin is one of the following:
+
+(i) a juniper-flavoured spirit drink produced exclusively by distilling ethyl alcohol of agricultural origin with an initial alcoholic strength of at least 96 % vol. in the presence of juniper berries (Juniperus communis L.) and of other natural botanicals, provided that the juniper taste is predominant;
+
+(ii) the combination of the product of such distillation and ethyl alcohol of agricultural origin with the same composition, purity and alcoholic strength; flavouring substances or flavouring preparations as specified in point (c) of category 20 or both may also be used to flavour distilled gin.
+
+(b) The minimum alcoholic strength by volume of distilled gin shall be 37,5 %.
+
+(c) Gin produced simply by adding essences or flavourings to ethyl alcohol of agricultural origin shall not be considered distilled gin.
+
+(d) The term ‘distilled gin’ may be supplemented by or incorporate the term ‘dry’ if it does not contain added sweetening exceeding 0,1 grams of sweetening products per litre of the final product, expressed as invert sugar.
+
+**22\. London gin**
+
+(a) London gin is distilled gin which meets the following requirements:
+
+(i) it is produced exclusively from ethyl alcohol of agricultural origin, with a maximum methanol content of 5 grams per hectolitre of 100 % vol. alcohol, the flavour of which is imparted exclusively through the distillation of ethyl alcohol of agricultural origin in the presence of all the natural plant materials used;
+
+(ii) the resulting distillate contains at least 70 % alcohol by vol.;
+
+(iii) any further ethyl alcohol of agricultural origin that is added shall comply with the requirements laid down in Article 5 but with a maximum methanol content of 5 grams per hectolitre of 100 % vol. alcohol;
+
+(iv) it is not coloured;
+
+(v) it is not sweetened in excess of 0,1 grams of sweetening products per litre of the final product, expressed as invert sugar;
+
+(vi) it does not contain any other ingredients than the ingredients referred to in points (i), (iii) and (v), and water.
+
+(b) The minimum alcoholic strength by volume of London gin shall be 37,5 %.
+
+(c) The term ‘London gin’ may be supplemented by or incorporate the term ‘dry’.
+
+**23\. Caraway-flavoured spirit drink or Kümmel**
+
+(a) A caraway-flavoured spirit drink or Kümmel is a spirit drink produced by flavouring ethyl alcohol of agricultural origin with caraway (Carum carvi L.).
+
+(b) The minimum alcoholic strength by volume of a caraway-flavoured spirit drink or Kümmel shall be 30 %.
+
+(c) Flavouring substances or flavouring preparations or both may additionally be used but there shall be a predominant taste of caraway.
+
+**24\. Akvavit or aquavit**
+
+(a) Akvavit or aquavit is a spirit drink flavoured with caraway or dill seeds or both, produced by using ethyl alcohol of agricultural origin flavoured with a distillate of plants or spices.
+
+(b) The minimum alcoholic strength by volume of akvavit or aquavit shall be 37,5 %.
+
+(c) Natural flavouring substances or flavouring preparations or both may additionally be used, but the flavour of these drinks shall be largely attributable to distillates of caraway (Carum carvi L.) or dill (Anethum graveolens L.) seeds or both, the use of essential oils being prohibited.
+
+(d) The bitter substances shall not obviously dominate the taste; the dry extract content shall not exceed 1,5 grams per 100 millilitres.
+
+**25\. Aniseed-flavoured spirit drink**
+
+(a) An aniseed-flavoured spirit drink is a spirit drink produced by flavouring ethyl alcohol of agricultural origin with natural extracts of star anise (Illicium verum Hook f.), anise (Pimpinella anisum L.), fennel (Foeniculum vulgare Mill.), or any other plant which contains the same principal aromatic constituent, using one of the following processes or a combination thereof:
+
+(i) maceration or distillation or both;
+
+(ii) distillation of the alcohol in the presence of the seeds or other parts of the plants specified above;
+
+(iii) addition of natural distilled extracts of aniseed-flavoured plants.
+
+(b) The minimum alcoholic strength by volume of an aniseed-flavoured spirit drink shall be 15 %.
+
+(c) An aniseed-flavoured spirit drink may only be flavoured with flavouring preparations and natural flavouring substances.
+
+(d) Other natural plant extracts or aromatic seed may also be used, but the aniseed taste shall remain predominant.
+
+**26\. Pastis**
+
+(a) Pastis is an aniseed-flavoured spirit drink which also contains natural extracts of liquorice root (Glycyrrhiza spp.), which implies the presence of the colorants known as ‘chalcones’ as well as glycyrrhizic acid, the minimum and maximum levels of which shall be 0,05 and 0,5 grams per litre, respectively.
+
+(b) The minimum alcoholic strength by volume of pastis shall be 40 %.
+
+(c) Pastis may only be flavoured with flavouring preparations and natural flavouring substances.
+
+(d) Pastis shall contain less than 100 grams of sweetening products per litre, expressed as invert sugar, and have a minimum and maximum anethole level of 1,5 and 2 grams per litre, respectively.
+
+**27\. Pastis de Marseille**
+
+(a) Pastis de Marseille is a pastis with a pronounced anise taste with an anethole content between 1,9 and 2,1 grams per litre.
+
+(b) The minimum alcoholic strength by volume of pastis de Marseille shall be 45 %.
+
+(c) Pastis de Marseille may only be flavoured with flavouring preparations and natural flavouring substances.
+
+**28\. Anis or janeževec**
+
+(a) Anis or janeževec is an aniseed-flavoured spirit drink whose characteristic flavour is derived exclusively from anise (Pimpinella anisum L.), star anise (Illicium verum Hook f.) or fennel (Foeniculum vulgare Mill.) or a combination of them.
+
+(b) The minimum alcoholic strength by volume of anis or janeževec shall be 35 %.
+
+(c) Anis or janeževec may only be flavoured with flavouring preparations and natural flavouring substances.
+
+**29\. Distilled anis**
+
+(a) Distilled anis is anis which contains alcohol distilled in the presence of the seeds referred to in point (a) of category 28 and, in the case of geographical indications, mastic and other aromatic seeds, plants or fruits, provided such alcohol constitutes at least 20 % of the alcoholic strength of the distilled anis.
+
+(b) The minimum alcoholic strength by volume of distilled anis shall be 35 %.
+
+(c) Distilled anis may only be flavoured with flavouring preparations and natural flavouring substances.
+
+**30\. Bitter-tasting spirit drink or bitter**
+
+(a) A bitter-tasting spirit drink or bitter is a spirit drink with a predominantly bitter taste produced by flavouring ethyl alcohol of agricultural origin or distillate of agricultural origin or both with flavouring substances or flavouring preparations or both.
+
+(b) The minimum alcoholic strength by volume of a bitter-tasting spirit drink or bitter shall be 15 %.
+
+(c) Without prejudice to the use of such terms in the presentation and labelling of foodstuffs other than spirit drinks, a bitter-tasting spirit drink or bitter may also be placed on the market under the names ‘bitter’ or ‘bitter’ with or without another term.
+
+(d) Notwithstanding point (c), the term ‘bitter’ or ‘bitter’ may be used in the description, presentation and labelling of bitter-tasting liqueurs.
+
+**31\. Flavoured vodka**
+
+(a) Flavoured vodka is vodka which has been given a predominant flavour other than that of the raw materials used to produce the vodka.
+
+(b) The minimum alcoholic strength by volume of flavoured vodka shall be 37,5 %.
+
+(c) Flavoured vodka may be sweetened, blended, flavoured, matured or coloured.
+
+(d) When flavoured vodka is sweetened, the final product shall contain less than 100 grams of sweetening products per litre, expressed as invert sugar.
+
+(e) The legal name of flavoured vodka may also be the name of any predominant flavour combined with the word ‘vodka’. The term ‘vodka’ in any official Union language may be replaced by ‘vodka’.
+
+**32\. Sloe-aromatised spirit drink or pacharán**
+
+(a) A sloe-aromatised spirit drink or pacharán is a spirit drink which has a predominant sloe taste and is produced by the maceration of sloes (Prunus spinosa) in ethyl alcohol of agricultural origin, with the addition of natural extracts of anise or distillates of anise or both.
+
+(b) The minimum alcoholic strength by volume of a sloe-aromatised spirit drink or pacharán shall be 25 %.
+
+(c) For the production of a sloe-aromatised spirit drink or pacharán, a minimum quantity of 125 grams of sloe fruits per litre of the final product shall be used.
+
+(d) A sloe-aromatised spirit drink or pacharán shall have a content of sweetening products, expressed as invert sugar, between 80 and 250 grams per litre of the final product.
+
+(e) The organoleptic characteristics, colour and taste of a sloe-aromatised spirit drink or pacharán shall be provided exclusively by the fruit used and the anise.
+
+(f) The term ‘pacharán’ may be used as a legal name only when the product is produced in Spain. When the product is produced outside Spain, ‘pacharán’ may only be used to supplement the legal name ‘sloe-aromatised spirit drink’, provided that it is accompanied by the words: ‘produced in …’, followed by the name of the Member State or third country of production.
+
+**33\. Liqueur**
+
+(a) Liqueur is a spirit drink:
+
+(i) having a minimum content of sweetening products, expressed as invert sugar, of:
+
+— 70 grams per litre for cherry or sour cherry liqueurs, the ethyl alcohol of which consists exclusively of cherry or sour cherry spirit,
+
+— 80 grams per litre for liqueurs which are flavoured exclusively with gentian or a similar plant or wormwood,
+
+— 100 grams per litre in all other cases;
+
+(ii) produced using ethyl alcohol of agricultural origin or a distillate of agricultural origin or one or more spirit drinks or a combination thereof, which has been sweetened and to which one or more flavourings, products of agricultural origin or foodstuffs have been added.
+
+(b) The minimum alcoholic strength by volume of liqueur shall be 15 %.
+
+(c) Flavouring substances and flavouring preparations may be used in the production of liqueur.
+
+However, the following liqueurs may only be flavoured with flavouring foodstuffs, flavouring preparations and natural flavouring substances:
+
+(i) fruit liqueurs:
+
+— pineapple (Ananas),
+
+— citrus fruit (Citrus L.),
+
+— sea buckthorn (Hippophae rhamnoides L.),
+
+— mulberry (Morus alba, Morus rubra),
+
+— sour cherry (Prunus cerasus),
+
+— cherry (Prunus avium),
+
+— blackcurrant (Ribes nigrum L.),
+
+— arctic bramble (Rubus arcticus L.),
+
+— cloudberry (Rubus chamaemorus L.),
+
+— raspberry (Rubus idaeus L.),
+
+— wild cranberry (Vaccinium oxycoccos L.),
+
+— bilberry/blueberry (Vaccinium myrtillus L.),
+
+— cowberry (Vaccinium vitis-idaea L.);
+
+(ii) plant liqueurs:
+
+— génépi (Artemisia genepi),
+
+— gentian (Gentiana L.),
+
+— mint (Mentha L.),
+
+— aniseed (Pimpinella anisum L.),
+
+(d) The legal name may be ‘liqueur’ in any Member State and:
+
+— for liqueurs produced by maceration of sour cherries or cherries (Prunus cerasus or Prunus avium) in ethyl alcohol of agricultural origin, the legal name may be ‘ guignolet ’ or ‘ češnjevec ’, with or without the term ‘liqueur’;
+
+— for liqueurs produced by maceration of sour cherries (Prunus cerasus) in ethyl alcohol of agricultural origin, the legal name may be ‘ ginja ’ or ‘ ginjinha ’ or ‘ višnjevec ’, with or without the term ‘liqueur’;
+
+— for liqueurs for which the alcohol content is provided exclusively by rum, the legal name may be ‘ punch au rhum ’, with or without the term ‘liqueur’;
+
+— without prejudice to point (2) of Article 3, point (b) of Article 10(5) and Article 11, for liqueurs containing milk or milk products, the legal name may be ‘cream’ supplemented by the name of the raw material used conferring on the liqueur its predominant flavour, with or without the term ‘liqueur’.
+
+(e) The following compound terms may be used in the description, presentation and labelling of liqueurs produced in the Union, where ethyl alcohol of agricultural origin or distillate of agricultural origin is used to mirror established production methods:
+
+— prune brandy;
+
+— orange brandy;
+
+— apricot brandy;
+
+— cherry brandy;
+
+— solbaerrom or blackcurrant rum.
+
+As regards the description, presentation and labelling of the liqueurs referred to in this point, the compound term shall appear in one line in uniform characters of the same font and colour and the word ‘liqueur’ shall appear in immediate proximity in characters no smaller than that font. If the alcohol does not come from the spirit drink indicated, its origin shall be shown on the label in the same visual field as the compound term and the word ‘liqueur’ either by stating the type of agricultural alcohol or by the words ‘agricultural alcohol’ preceded on each occasion by ‘made from’ or ‘made using’.
+
+(f) Without prejudice to Articles 11 and 12 and Article 13(4), the legal name ‘liqueur’ may be supplemented by the name of a flavouring or foodstuff that confers the predominant flavour of the spirit drink, provided that the flavour is conferred on the spirit drink by flavouring foodstuffs, flavouring preparations and natural flavouring substances, derived from the raw material referred to in the name of the flavouring or of the foodstuff, supplemented by flavouring substances only where necessary to reinforce the flavour of that raw material.
+
+**34\. Crème de (supplemented by the name of a fruit or other raw material used)**
+
+(a) Crème de (supplemented by the name of a fruit or other raw material used) is a liqueur which has a minimum content of sweetening products of 250 grams per litre expressed as invert sugar.
+
+(b) The minimum alcoholic strength by volume of crème de (supplemented by the name of a fruit or other raw material used) shall be 15 %.
+
+(c) The rules on flavouring substances and flavouring preparations for liqueurs laid down under category 33 shall apply to this spirit drink.
+
+(d) The raw materials used shall exclude milk and milk products.
+
+(e) The fruit or any other raw material used in the legal name shall be the fruit or the raw material that confers on that spirit drink its predominant flavour.
+
+(f) The legal name may be supplemented by the term ‘liqueur’.
+
+(g) The legal name ‘crème de cassis’ may only be used for liqueurs produced with blackcurrants, which have a content of sweetening products of more than 400 grams per litre expressed as invert sugar.
+
+**35\. Sloe gin**
+
+(a) Sloe gin is a liqueur produced by maceration of sloes in gin with the possible addition of sloe juice.
+
+(b) The minimum alcoholic strength by volume of sloe gin shall be 25 %.
+
+(c) Only natural flavouring substances and flavouring preparations may be used in the production of sloe gin.
+
+(d) The legal name may be supplemented by the term ‘liqueur’.
+
+**36\. Sambuca**
+
+(a) Sambuca is a colourless aniseed-flavoured liqueur which meets the following requirements:
+
+(i) it contains distillates of anise (Pimpinella anisum L.), star anise (Illicium verum L.) or other aromatic herbs;
+
+(ii) it has a minimum content of sweetening products of 350 grams per litre expressed as invert sugar;
+
+(iii) it has a natural anethole content of not less than 1 gram and not more than 2 grams per litre.
+
+(b) The minimum alcoholic strength by volume of sambuca shall be 38 %.
+
+(c) The rules on flavouring substances and flavouring preparations for liqueurs laid down under category 33 shall apply to sambuca.
+
+(d) Sambuca shall not be coloured.
+
+(e) The legal name may be supplemented by the term ‘liqueur’.
+
+**37\. Maraschino, marrasquino or maraskino**
+
+(a) Maraschino, marrasquino or maraskino is a colourless liqueur the flavour of which is given mainly by a distillate of marasca cherries or of the product produced by macerating cherries or parts of cherries in ethyl alcohol of agricultural origin or in a distillate of marasca cherries, with a minimum content of sweetening products of 250 grams per litre expressed as invert sugar.
+
+(b) The minimum alcoholic strength by volume of maraschino, marrasquino or maraskino shall be 24 %.
+
+(c) The rules on flavouring substances and flavouring preparations for liqueurs laid down under category 33 shall apply to maraschino, marrasquino or maraskino.
+
+(d) Maraschino, marrasquino or maraskino shall not be coloured.
+
+(e) The legal name may be supplemented by the term ‘liqueur’.
+
+**38\. Nocino or orehovec**
+
+(a) Nocino or orehovec is a liqueur the flavour of which is given mainly by maceration, or by maceration and distillation, of whole green walnuts (Juglans regia L.), with a minimum content of sweetening products of 100 grams per litre expressed as invert sugar.
+
+(b) The minimum alcoholic strength by volume of nocino or orehovec shall be 30 %.
+
+(c) The rules on flavouring substances and flavouring preparations for liqueurs laid down under category 33 shall apply to nocino or orehovec.
+
+(d) The legal name may be supplemented by the term ‘liqueur’.
+
+**39\. Egg liqueur or advocaat or avocat or advokat**
+
+(a) Egg liqueur or advocaat or avocat or advokat is a liqueur, whether flavoured or not, produced from ethyl alcohol of agricultural origin, distillate of agricultural origin or spirit drink, or a combination thereof, and the ingredients of which are quality egg yolk, egg white and sugar or honey or both. The minimum sugar or honey content shall be 150 grams per litre expressed as invert sugar. The minimum content of pure egg yolk shall be 140 grams per litre of the final product. Any use of eggs from hens belonging to a species other than Gallus gallus shall be indicated on the label.
+
+(b) The minimum alcoholic strength by volume of egg liqueur or advocaat or avocat or advokat shall be 14 %.
+
+(c) Only flavouring foodstuffs, flavouring substances and flavouring preparations may be used in the production of egg liqueur or advocaat or avocat or advokat.
+
+(d) Milk and milk products may be used in the production of egg liqueur or advocaat or avocat or advokat.
+
+**40\. Liqueur with egg**
+
+(a) Liqueur with egg is a liqueur, whether flavoured or not, produced from ethyl alcohol of agricultural origin, distillate of agricultural origin or spirit drink, or a combination thereof, the characteristic ingredients of which are quality egg yolk, egg white and sugar or honey or both. The minimum sugar or honey content shall be 150 grams per litre expressed as invert sugar. The minimum egg yolk content shall be 70 grams per litre of the final product.
+
+(b) The minimum alcoholic strength by volume of liqueur with egg shall be 15 %.
+
+(c) Only flavouring foodstuffs, natural flavouring substances and flavouring preparations may be used in the production of liqueur with egg.
+
+(d) Milk and milk products may be used in the production of liqueur with egg.
+
+**41\. Mistrà**
+
+(a) Mistrà is a colourless spirit drink flavoured with aniseed or natural anethole which meets the following requirements:
+
+(i) it has an anethole content of not less than 1 gram and not more than 2 grams per litre;
+
+(ii) it may also contain a distillate of aromatic herbs;
+
+(iii) it has not been sweetened.
+
+(b) The minimum alcoholic strength by volume of mistrà shall be 40 % and the maximum alcoholic strength by volume shall be 47 %.
+
+(c) Mistrà may only be flavoured with flavouring preparations and natural flavouring substances.
+
+(d) Mistrà shall not be coloured.
+
+**42\. Väkevä glögi or spritglögg**
+
+(a) Väkevä glögi or spritglögg is a spirit drink produced by flavouring wine or wine products and ethyl alcohol of agricultural origin with the flavour of cloves or cinnamon or both, using one of the following processes or a combination thereof:
+
+(i) maceration or distillation,
+
+(ii) distillation of the alcohol in the presence of parts of the plants specified above,
+
+(iii) addition of natural flavouring substances of cloves or cinnamon.
+
+(b) The minimum alcoholic strength by volume of väkevä glögi or spritglögg shall be 15 %.
+
+(c) Väkevä glögi or spritglögg may only be flavoured with flavouring substances, flavouring preparations or other flavourings but the flavour of the spices specified in point (a) shall be predominant.
+
+(d) The content of wine or wine products shall not exceed 50 % of the final product.
+
+**43\. Berenburg or Beerenburg**
+
+(a) Berenburg or Beerenburg is a spirit drink which meets the following requirements:
+
+(i) it is produced using ethyl alcohol of agricultural origin;
+
+(ii) it is produced by the maceration of fruit or plants or parts thereof;
+
+(iii) it contains as a specific flavour distillate of gentian root (Gentiana lutea L.), of juniper berries (Juniperus communis L.) and of laurel leaves (Laurus nobilis L.);
+
+(iv) it varies in colour from light to dark brown;
+
+(v) it may be sweetened to a maximum of 20 grams of sweetening products per litre expressed as invert sugar.
+
+(b) The minimum alcoholic strength by volume of Berenburg or Beerenburg shall be 30 %.
+
+(c) Berenburg or Beerenburg may only be flavoured with flavouring preparations and natural flavouring substances.
+
+**44\. Honey nectar or mead nectar**
+
+(a) Honey nectar or mead nectar is a spirit drink produced by flavouring a mixture of fermented honey mash and honey distillate or ethyl alcohol of agricultural origin or both, which contains at least 30 % vol. of fermented honey mash.
+
+(b) The minimum alcoholic strength by volume of honey nectar or mead nectar shall be 22 %.
+
+(c) Honey nectar or mead nectar may only be flavoured with flavouring preparations and natural flavouring substances, provided that the honey taste is predominant.
+
+(d) Honey nectar or mead nectar may only be sweetened with honey.
+
+## ANNEX II
+
+**SPECIFIC RULES CONCERNING CERTAIN SPIRIT DRINKS**
+
+1\. Rum-Verschnitt is produced in Germany and obtained by mixing rum and ethyl alcohol of agricultural origin, in such a manner that a minimum proportion of 5 % of the alcohol contained in the final product shall come from rum. The minimum alcoholic strength by volume of Rum-Verschnitt shall be 37,5 %. The word ‘ Verschnitt ’ shall appear in the description, presentation and labelling in characters of the same font, size and colour as, and on the same line as, the word ‘ Rum ’ and, in the case of bottles, on the front label. The legal name of this product shall be ‘spirit drink’. Where Rum-Verschnitt is placed on the market outside Germany, its alcoholic composition shall appear on the label.
+
+2\. Slivovice is produced in Czechia and obtained by the addition to the plum distillate, before the final distillation, of ethyl alcohol of agricultural origin, in such a manner that a minimum proportion of 70 % of the alcohol contained in the final product shall come from plum distillate. The legal name of this product shall be ‘spirit drink’. The name ‘ slivovice ’ may be added if it appears in the same visual field on the front label. If slivovice is placed on the market outside Czechia, its alcoholic composition shall appear on the label. This provision shall be without prejudice to the use of the legal names for fruit spirits in category 9 of Annex I.
+
+3\. Guignolet Kirsch is produced in France and obtained by mixing guignolet and kirsch, in such a manner that a minimum proportion of 3 % of the total pure alcohol contained in the final product shall come from kirsch. The word ‘ guignolet ’ shall appear in the description, presentation and labelling in characters of the same font, size and colour as, and on the same line as, the word ‘ kirsch ’ and, in case of bottles, on the front label. The legal name of this product shall be ‘liqueur’. Its alcoholic composition shall indicate the percentage by volume of pure alcohol that guignolet and kirsch represent in the total pure alcohol content by volume of guignolet kirsch.
+
+## ANNEX III
+
+**DYNAMIC OR ‘ CRIADERAS Y SOLERA ’ OR ‘ SOLERA E CRIADERAS ’ AGEING SYSTEM**
+
+The dynamic or ‘ criaderas y solera ’ or ‘ solera e criaderas ’ ageing system consists in the execution of periodical extractions of a portion of the brandy contained in each of the oak casks and containers that form an ageing scale and the corresponding replenishments with brandy extracted from the preceding ageing scale.
+
+Definitions
+
+‘Ageing scale’ means each group of oak casks and containers with the same level of maturation, through which the brandy progresses in the course of its ageing process. Each scale is known as ‘ criadera ’, except the last one, previous to the expedition of the brandy, known as the ‘ solera ’.
+
+‘Extraction’ means the partial volume of brandy drawn from each oak cask and container in an ageing scale, for its incorporation into the oak casks and containers in the next ageing scale or, in the case of the solera, for its shipping.
+
+‘Replenishment’ means the volume of brandy from the oak casks and containers of a given ageing scale that is incorporated into and blended with the content of the oak casks and containers of the following scale in terms of age.
+
+‘Average age’ means the period of time corresponding to the rotation of the total stock of brandy that is undergoing the ageing process, calculated by dividing the total volume of brandy contained in all the ageing scales by the volume of the extractions made from the last scale – the solera – in one year.
+
+The average age of the brandy drawn from the solera shall be calculated using the following formula: t = Vt/Ve, in which:
+
+— t is the average age, expressed in years;
+
+— Vt is the total volume of stocks in the ageing system, expressed in litres of pure alcohol;
+
+— Ve is the total volume of product extracted for shipping during a year, expressed in litres of pure alcohol.
+
+In the case of oak casks and containers of less than 1 000 litres, the number of annual extractions and replenishments shall be equal to or lower than twice the number of scales in the system, in order to guarantee that the youngest component has an age equal to or higher than six months.
+
+In the case of oak casks and containers of 1 000 litres or more, the number of annual extractions and replenishments shall be equal to or lower than the number of scales in the system, in order to guarantee that the youngest component has an age equal to or higher than one year.
+
+## ANNEX IV
+
+**Correlation table**
+
+| This Regulation | Regulation (EC) No 110/2008 |
+| --- | --- |
+| Article 1(1) and (2) | Article 1(1) and (2) |
+| Article 2, points (a) to (d) | Article 2(1) and (3) |
+| Article 2, point (e) | Article 2(2) |
+| Article 2, point (f) | Annex I, point 6 |
+| Article 3(1) | Article 8 |
+| Article 3(2) and (3) | Article 10 |
+| Article 3(4) | Article 15(1) |
+| Article 3(5) | — |
+| Article 3(6) | — |
+| Article 3(7) | Article 15(3), third subparagraph |
+| Article 3(8) | — |
+| Article 3(9) and (10) | Article 11(2) and Annex I, point 4 |
+| Article 3(11) and (12) | Annex I, point (7) |
+| Article 4(1) | Article 7 and Annex I, point (14) |
+| Article 4(2) | Article 7 and Annex I, point (15) |
+| Article 4(3) | Article 7 and Annex I, point (16) |
+| Article 4(4) | — |
+| Article 4(5) | Annex I, point (17) |
+| Article 4(6) | — |
+| Article 4(7) | Annex I, point (2) |
+| Article 4(8) | Annex I, point (3) |
+| Article 4(9) | Annex I, point (3) |
+| Article 4(10) | Annex I, point (5) |
+| Article 4(11) | Annex I, point (8) |
+| Article 4(12) | Annex I, point (9) |
+| Article 4(13) | — |
+| Article 4(14) | — |
+| Article 4(15) | — |
+| Article 4(16) | — |
+| Article 4(17) | — |
+| Article 4(18) | — |
+| Article 4(19) and (20) | Annex I, point (10) |
+| Article 4(21) | — |
+| Article 4(22) | — |
+| Article 4(23) | Annex I, point (11) |
+| Article 4(24) | Annex I, point (12) |
+| Article 5 | Annex I, point (1) |
+| Article 6(1) | Article 3(1) |
+| Article 6(2) | Article 3(3) |
+| Article 6(3) | Article 3(4) |
+| Article 7(1) | Article 4 |
+| Article 7(2) | Article 5(1) |
+| Article 7(3) | Article 5(2) |
+| Article 7(4) | Article 5(3) |
+| Article 8(1) | Article 26 |
+| Article 8(2) | Article 1(3) |
+| Article 8(3) | — |
+| Article 8(4) | — |
+| Article 9 | — |
+| Article 10(1) | — |
+| Article 10(2) | Article 9(1) |
+| Article 10(3) | Article 9(2) |
+| Article 10(4) | Article 9(3) |
+| Article 10(5) | Article 9(5) and (6) |
+| Article 10(6), points (a) to (c), (e) and (f) | — |
+| Article 10(6)(d) | Article 12(2) |
+| Article 10(7), first subparagraph | Article 9(4) and (7) |
+| Article 10(7), second subparagraph | — |
+| Article 11(1) | Article 10(1) and (2) |
+| Article 11(2) and (3) | — |
+| Article 12(1) | Article 10(1) |
+| Article 12(2),(3) and (4) | — |
+| Article 13(1) | Article 12(1) |
+| Article 13(2) | Article 9(9) |
+| Article 13(3), first and second subparagraph | Article 11(4) |
+| Article 13(3), third subparagraph | Article 11(5) |
+| Article 13(3), fourth subparagraph | — |
+| Article 13(4), first subparagraph | Article 11(3) |
+| Article 13(4), second subparagraph | Article 11(4) |
+| Article 13(4), third subparagraph | Article 11(5) |
+| Article 13(5) | — |
+| Article 13(6) | Article 12(3) |
+| Article 13(7) | — |
+| Article 14(1) | Annex I, point (13) |
+| Article 14(2) | — |
+| Article 15(1) | Article 14(2) |
+| Article 15(2) | — |
+| Article 16 | — |
+| Article 17 | Article 13 |
+| Article 18 | — |
+| Article 19(1) | Article 12(3) |
+| Article 19(2) | — |
+| Article 20, point (a) | — |
+| Article 20, point (b) | Article 28(2) |
+| Article 20, point (c) | — |
+| Article 20, point (d) | — |
+| Article 21(1) | — |
+| Article 21(2) | Article 16 |
+| Article 21(3) | Article 15(3), first subparagraph |
+| Article 21(4) | — |
+| Article 22(1), first subparagraph | Article 17(4) |
+| Article 22(1), second subparagraph | — |
+| Article 22(2) | — |
+| Article 23(1), introductory wording and points (a), (b) and (c) | — |
+| Article 23(1), second subparagraph | Article 17(3) |
+| Article 23(2) | Article 17(1), second sentence |
+| Article 24(1) to (4) | — |
+| Article 24(5), (6) and (7) | Article 17(2) |
+| Article 24(8) | Article 17(3) |
+| Article 24(9) | Article 17(1), first sentence |
+| Article 25 | — |
+| Article 26(1), first subparagraph | Article 17(5) |
+| Article 26(1), second subparagraph | — |
+| Article 26(2) | Article 17(6) |
+| Article 27(1) | Article 17(7), first sentence |
+| Article 27(2), (3) and (4) | — |
+| Article 27(5) | Article 17(7), second sentence |
+| Article 28 | — |
+| Article 29 | — |
+| Article 30(1), (2) and (3) | Article 17(8), first sentence |
+| Article 30(4), first subparagraph | Article 17(8), second sentence |
+| Article 30(4), second subparagraph | — |
+| Article 31 | Article 21 |
+| Article 32 | Article 18 |
+| Article 33(1) | Article 15(2) |
+| Article 33(2) and (3) | — |
+| Article 34(1), (2) and (3) | Article 19 |
+| Article 34(4) | — |
+| Article 35(1), first subparagraph | Article 15(3), second subparagraph |
+| Article 35(1), second subparagraph | — |
+| Article 35(2) | Article 23(3) |
+| Article 35(3) | — |
+| Article 36(1) | Article 23(1) |
+| Article 36(2) | Article 23(2) |
+| Article 37 | — |
+| Article 38(1) | — |
+| Article 38(2) | Article 22(1) |
+| Article 38(3) | Article 22(2) |
+| Article 38(4) | — |
+| Article 38(5) | Article 22(3) |
+| Article 38(6) | Article 22(4) |
+| Article 39(1) | — |
+| Article 39(2) and (3) | — |
+| Article 40 | — |
+| Article 41 | — |
+| Article 42 | — |
+| Article 43(1) | Article 24(1) |
+| Article 43(2) | Article 24(3) |
+| Article 44(1) | Article 24(2) |
+| Article 44(2) | — |
+| Article 45 | Article 6 |
+| Article 46 | — |
+| Article 47 | Article 25 |
+| Article 48 | — |
+| Article 49 | Article 29 |
+| Article 50 | Article 28 |
+| Article 51 | Article 30 |
+| Annex I, categories 1 to 31 | Annex II, categories 1 to 31 |
+| Annex I, category 32 | Annex II, category 37a |
+| Annex I, category 33 | Annex II, category 32 |
+| Annex I, category 34 | Annex II, category 33 |
+| Annex I, category 35 | Annex II, category 37 |
+| Annex I, category 36 | Annex II, category 38 |
+| Annex I, category 37 | Annex II, category 39 |
+| Annex I, category 38 | Annex II, category 40 |
+| Annex I, category 39 | Annex II, category 41 |
+| Annex I, category 40 | Annex II, category 42 |
+| Annex I, category 41 | Annex II, category 43 |
+| Annex I, category 42 | Annex II, category 44 |
+| Annex I, category 43 | Annex II, category 45 |
+| Annex I, category 44 | Annex II, category 46 |
+| Annex II | Annex II, part under the Title ‘Other spirit drinks’ |
+| Annex III | — |
+| Annex IV | — |
+
+( 1 ) Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption (OJ L 330, 5.12.1998, p. 32).
+
+( 2 ) Directive 2009/54/EC of the European Parliament and of the Council of 18 June 2009 on the exploitation and marketing of natural mineral waters (OJ L 164, 26.6.2009, p. 45).
+
+( 3 ) Council Directive 2001/111/EC of 20 December 2001 relating to certain sugars intended for human consumption (OJ L 10, 12.1.2002, p. 53).
+
+( 4 ) Council Directive 2001/110/EC of 20 December 2001 relating to honey (OJ L 10, 12.1.2002, p. 47).
+
+( 5 ) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+( 6 ) Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (OJ L 347, 20.12.2013, p. 671).
+
+( 7 ) Regulation (EU) No 251/2014 of the European Parliament and of the Council of 26 February 2014 on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products and repealing Council Regulation (EEC) No 1601/91 (OJ L 84, 20.3.2014, p. 14).
+
+( 8 ) Commission Regulation (EC) No 684/2009 of 24 July 2009 implementing Council Directive 2008/118/EC as regards the computerised procedures for the movement of excise goods under suspension of excise duty (OJ L 197, 29.7.2009, p. 24).
+
+( 9 ) Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules (OJ L 165, 30.4.2004, p. 1).
+
+( 10 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj).
+
+( 11 ) As referred to in Annex 2-D to the Agreement between the European Union and Japan for an Economic Partnership.
+
+( 12 ) Commission Implementing Regulation (EU) No 716/2013 of 25 July 2013 laying down rules for the application of Regulation (EC) No 110/2008 of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks (OJ L 201, 26.7.2013, p. 21).

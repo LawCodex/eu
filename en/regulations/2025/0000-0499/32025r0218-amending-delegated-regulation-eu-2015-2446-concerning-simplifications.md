@@ -1,0 +1,90 @@
+---
+title: "Commission Delegated Regulation (EU) 2025/218 of 29 November 2024 amending Delegated Regulation (EU) 2015/2446 concerning simplifications for declaring accessories of musical instruments"
+identifier: "32025R0218"
+eli: "http://data.europa.eu/eli/reg_del/2025/218/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2024-11-29
+entry_into_force: 2025-11-27
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R0218"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2025/218 of 29 November 2024 amending Delegated Regulation (EU) 2015/2446 concerning simplifications for declaring accessories of musical instruments
+
+**COMMISSION DELEGATED REGULATION (EU) 2025/218**
+
+**of 29 November 2024**
+
+**amending Delegated Regulation (EU) 2015/2446 concerning simplifications for declaring accessories of musical instruments**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (1), and in particular Articles 160, 164 and 253 thereof,
+
+Whereas:
+
+(1) The implementation of Regulation (EU) No 952/2013, in combination with Commission Delegated Regulation (EU) 2015/2446 (2), has shown that certain amendments to that Delegated Regulation are needed in order to ensure that accessories of musical instruments, carried by travellers, benefit from the same customs simplifications for temporary admission or re-export as musical instruments themselves.
+
+(2) Portable musical instruments carried by travellers currently benefit from customs simplifications for temporary admission with total relief from import duty, as well as for export, re-export and release for free circulation.
+
+(3) However, in many cases those portable musical instruments are carried together with their accessories, as well as with accessory instruments, apparatus or equipment that do not benefit from the same customs simplifications. In order to achieve consistency in applying customs simplifications to those goods carried by travellers, and to ensure their equal treatment in respect of customs rights and obligations, Articles 136, 138, 140 and 226 of Delegated Regulation (EU) 2015/2446 should be amended.
+
+(4) Separately, to take account of other related legislative changes and to ensure consistency in amendments to the Delegated Regulation, it is also necessary to amend Article 155 of Delegated Regulation (EU) 2015/2446 as it refers to the Combined Nomenclature or ‘CN’ code relating to ‘fresh bananas’, to take account of changes introduced by Commission Implementing Regulation (EU) 2023/2364 (3).
+
+(5) Delegated Regulation (EU) 2015/2446 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Delegated Regulation (EU) 2015/2446 is amended as follows:
+
+1\. in Article 136(1), point (i) is replaced by the following:
+
+‘(i) portable musical instruments as well as their accessory instruments, apparatus or equipment referred to in Chapter 92, Note 1, point (b), of the combined nomenclature set out in Annex I to Regulation (EEC) No 2658/87, when those accessories are carried and used together with portable musical instruments and when portable musical instruments and those accessories are temporarily imported by travellers and intended to be used as professional equipment;’;
+
+2\. in Article 138, point (d) is replaced by the following:
+
+‘(d) portable musical instruments as well as their accessory instruments, apparatus or equipment, as referred to in Chapter 92, Note 1, point (b), of the combined nomenclature set out in Annex I to Regulation (EEC) No 2658/87, when those accessories are carried and used together with portable musical instruments and when portable musical instruments and those accessories are re-imported by travellers and benefitting from relief from import duty as returned goods in accordance with Article 203 of the Code;’;
+
+3\. in Article 140(1), point (b) is replaced by the following:
+
+‘(b) portable musical instruments as well as their accessory instruments, apparatus or equipment referred to in Chapter 92, Note 1, point (b), of the combined nomenclature set out in Annex I to Regulation (EEC) No 2658/87, when those accessories are carried and used together with portable musical instruments and when portable musical instruments and those accessories are temporarily exported by travellers and intended to be used by travellers;’;
+
+4\. in Article 155, in the introductory wording and in point (b), CN code ‘0803 90 10 ’ is replaced by CN code ‘0803 90 19 ’;
+
+5\. in Article 226, paragraph 2 is replaced by the following:
+
+‘2. Notwithstanding paragraph 1, total relief from import duty shall be granted for portable musical instruments as well as their accessory instruments, apparatus or equipment referred to in Chapter 92, Note 1, point (b), of the combined nomenclature set out in Annex I to Regulation (EEC) No 2658/87, when those accessories are carried and used together with portable musical instruments and when portable musical instruments and those accessories are temporarily imported by travellers and intended to be used as professional equipment. The travellers may be resident inside or outside the customs territory of the Union.’
+
+.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 29 November 2024.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 269, 10.10.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/952/oj.
+
+(2) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 29.12.2015, p. 1, ELI: http://data.europa.eu/eli/reg_del/2015/2446/oj).
+
+(3) Commission Implementing Regulation (EU) 2023/2364 of 26 September 2023 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L, 2023/2364, 31.10.2023, ELI: http://data.europa.eu/eli/reg_impl/2023/2364/oj).
+
+ELI: http://data.europa.eu/eli/reg_del/2025/218/oj
+
+ISSN 1977-0677 (electronic edition)

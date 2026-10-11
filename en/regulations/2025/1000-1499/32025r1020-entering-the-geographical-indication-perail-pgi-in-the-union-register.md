@@ -1,0 +1,74 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/1020 of 26 May 2025 entering the geographical indication Pérail (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council"
+identifier: "32025R1020"
+eli: "http://data.europa.eu/eli/reg_impl/2025/1020/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-05-26
+entry_into_force: 2026-01-06
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32025R1020"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/1020 of 26 May 2025 entering the geographical indication Pérail (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/1020**
+
+**of 26 May 2025**
+
+**entering the geographical indication ‘Pérail’ (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024 on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (1), and in particular Article 21(2) thereof,
+
+Whereas:
+
+(1) Pursuant to Article 50(2)(a) of Regulation (EU) No 1151/2012 of the European Parliament and of the Council (2), France’s application for registration of the geographical indication ‘Pérail’, which the Commission had received before the date of entry into force of Regulation (EU) 2024/1143, was published in the Official Journal of the European Union (3).
+
+(2) No statement of opposition under Article 17 of Regulation (EU) 2024/1143, which is applicable to the application for registration in accordance with Article 90(2) of that Regulation, has been received by the Commission.
+
+(3) The geographical indication ‘Pérail’ should therefore be entered in the Union register of geographical indications.
+
+(4) By letter received on 22 December 2023, the French authorities informed the Commission that the Fromagerie de la Lémance, ZA du Haut Agenais 47500 Montayral (SIRET No 414 029 785 00022), established outside the geographical area defined in the specification, had been legally marketing the product sold under the name ‘Pérail’, using that name continuously for more than five years, and that this point had been raised during the national opposition procedure.
+
+(5) Since the requirements laid down in Article 20(1)(b) of Regulation (EU) 2024/1143, which are applicable to the application for registration in accordance with Article 90(2) of that Regulation, are met, a transitional period of five years should be granted to allow the company in question to continue to use the name ‘Pérail’,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The geographical indication ‘Pérail’ (PGI) is hereby entered in the Union register of geographical indications referred to in Article 22 of Regulation (EU) 2024/1143.
+
+## Article 2
+
+The Fromagerie de la Lémance is hereby authorised to continue to use the name ‘Pérail’ for a transitional period of five years from the entry into force of this Regulation.
+
+## Article 3
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 26 May 2025
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj.
+
+(2) Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs (OJ L 343, 14.12.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/1151/oj).
+
+(3) OJ C, C/2025/634, 29.1.2025, ELI: http://data.europa.eu/eli/C/2025/634/oj.
+
+ELI: http://data.europa.eu/eli/reg_impl/2025/1020/oj
+
+ISSN 1977-0677 (electronic edition)

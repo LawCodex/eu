@@ -1,0 +1,65 @@
+---
+title: "Commission Regulation (EC) No 1628/2000 of 24 July 2000 correcting, for the third time, Regulation (EC) No 1802/95 amending the Regulations that fixed, prior to 1 February 1995, certain prices and amounts in the market in milk and milk products of which the value in ecus was adapted as a result of the abolition of the correcting factor for agricultural conversion rates"
+identifier: "32000R1628"
+eli: "http://data.europa.eu/eli/reg/2000/1628/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2000-07-26
+entry_into_force: 2000-07-11
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32000R1628"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1628/2000 of 24 July 2000 correcting, for the third time, Regulation (EC) No 1802/95 amending the Regulations that fixed, prior to 1 February 1995, certain prices and amounts in the market in milk and milk products of which the value in ecus was adapted as a result of the abolition of the correcting factor for agricultural conversion rates
+
+Commission Regulation (EC) No 1628/2000
+
+of 24 July 2000
+
+correcting, for the third time, Regulation (EC) No 1802/95 amending the Regulations that fixed, prior to 1 February 1995, certain prices and amounts in the market in milk and milk products of which the value in ecus was adapted as a result of the abolition of the correcting factor for agricultural conversion rates
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 1600/92 of 15 June 1992 concerning specific measures for the Azores and Madeira relating to certain agricultural products(1), as last amended by Regulation (EC) No 1257/1999(2), and in particular Article 10 thereof,
+
+Whereas:
+
+(1) An error has been found in the Annex to Commission Regulation (EC) No 1802/95(3), as last amended by Regulation (EC) No 904/96(4). That error should be corrected.
+
+(2) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Milk and Milk Products,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+In the Annex to Regulation (EC) No 1802/95, the amounts relating to Commission Regulation (EEC) No 2219/92(5) are replaced by the following:
+
+>TABLE>
+
+## Article 2
+
+This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 24 July 2000.
+
+For the Commission
+
+Franz Fischler
+
+Member of the Commission
+
+(1) OJ L 173, 27.6.1992, p. 1.
+
+(2) OJ L 160, 26.6.1999, p. 80.
+
+(3) OJ L 174, 26.7.1995, p. 27.
+
+(4) OJ L 122, 22.5.1996, p. 4.
+
+(5) OJ L 218, 1.8.1992, p. 75.

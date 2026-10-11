@@ -107,6 +107,7 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, point 7(a) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘7(a)</td><td>Lead in high melting temperature type solders (i.e. lead-based alloys containing 85 % by weight or more lead)</td><td>Applies to all categories (except applications covered by point 24 of this Annex) and expires on 30 June 2027.</td></tr>
 <tr><td>7(a)-I</td><td>Lead in high melting temperature type solders (i.e. lead-based alloys containing 85 % by weight or more lead) for internal interconnections for attaching die, or other components along with a die in semiconductor assembly with steady state or transient/impulse currents of 0,1 A or greater or blocking voltages beyond 10 V, or die edge sizes larger than 0,3 mm × 0,3 mm </td><td>Applies to all categories (except applications covered by point 24 of this Annex) and expires on 31 December 2027.</td></tr>
 <tr><td>7(a)-II</td><td>Lead in high melting temperature type solders (i.e. lead-based alloys containing 85 % by weight or more lead) for integral (meaning internal and external) connections of die attach in electrical and electronic components, if all the following conditions are met: <table><tbody><tr><td>—</td><td>the thermal conductivity of the cured/sintered die-attach material is &gt; 35 W/(m × K),</td></tr>
@@ -137,6 +138,7 @@ In Annex III to Directive 2011/65/EU, point 7(a) is replaced by the following:
 <tr><td>7(a)-VI</td><td>Lead in high melting temperature type solders (i.e. lead-based alloys containing 85 % by weight or more lead) for establishing electrical connections between lamp components in incandescent reflector lamps for infrared heating, high intensity discharge lamps, or oven lamps </td><td>Applies to all categories (except applications covered by point 24 of this Annex) and expires on 31 December 2027.</td></tr>
 <tr><td>7(a)-VII</td><td>Lead in high melting temperature type solders (i.e. lead-based alloys containing 85 % by weight or more lead) for audio transducers where the peak operating temperature exceeds 200 °C </td><td>Applies to all categories (except applications covered by point 24 of this Annex) and expires on 31 December 2027.’</td></tr>
 </tbody>
+</table>
 
 ELI: http://data.europa.eu/eli/dir_del/2025/1802/oj
 

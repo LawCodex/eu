@@ -126,10 +126,12 @@ In Annex II, point 3(b) to Directive 2002/55/EC, the following row is added to t
 
 In Annex II, point (5) of Section I to Directive 2002/57/EC, the following table is added:
 
+<table>
 <tbody><tr><td colspan="5">‘Viruses, viroids, virus-like diseases and phytoplasmas</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species)</td><td>Thresholds for pre-basic seed</td><td>Thresholds for basic seed</td><td>Thresholds for certified seed</td></tr>
 <tr><td>Tobacco ringspot virus [TRSV00]</td><td>Glycine max (L.) Merr.</td><td>0 %</td><td>0 %</td><td>0 %’</td></tr>
 </tbody>
+</table>
 
 3.
 

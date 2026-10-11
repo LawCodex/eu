@@ -1,0 +1,63 @@
+---
+title: "Council Regulation (EC) No 1360/2008 of 2 December 2008 amending Regulation (EC) No 332/2002 establishing a facility providing medium-term financial assistance for Member States’ balances of payments"
+identifier: "32008R1360"
+eli: "http://data.europa.eu/eli/reg/2008/1360/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-12-02
+entry_into_force: 2008-11-22
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R1360"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 1360/2008 of 2 December 2008 amending Regulation (EC) No 332/2002 establishing a facility providing medium-term financial assistance for Member States’ balances of payments
+
+**COUNCIL REGULATION (EC) No 1360/2008**
+
+**of 2 December 2008**
+
+**amending Regulation (EC) No 332/2002 establishing a facility providing medium-term financial assistance for Member States’ balances of payments**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty establishing the European Community, and in particular Article 308 thereof,
+
+Having regard to the proposal from the Commission, submitted following consultation with the Economic and Financial Committee,
+
+Having regard to the opinion of the European Parliament,
+
+Having regard to the opinion of the European Central Bank,
+
+Whereas:
+
+(1) The large number of Member States currently outside the euro area affects the potential demand for Community medium-term financial assistance and, together with the evolution of the international context, calls for a significant raising of the ceiling for the outstanding amount of loans to be granted to Member States laid down in Regulation (EC) No 332/2002 (1) from EUR 12 billion to EUR 25 billion. If a revision of the ceiling were urgently needed, the relevant institutions should proceed swiftly according to their respective competences.
+
+(2) Regulation (EC) No 332/2002 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Regulation (EC) No 332/2002 is hereby amended as follows:
+
+In Article 1(1), the second subparagraph shall be replaced by the following:
+
+‘The outstanding amount of loans to be granted to Member States under this facility shall be limited to EUR 25 billion in principal.’.
+
+## Article 2
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 2 December 2008.
+
+For the Council
+
+The President
+
+C. LAGARDE
+
+(1) OJ L 53, 23.2.2002, p. 1.

@@ -1,0 +1,569 @@
+---
+title: "Commission Regulation (EC) No 900/2008 of 16 September 2008 laying down the methods of analysis and other technical provisions necessary for the application of the arrangements for imports of certain goods resulting from the processing of agricultural products (Codified version)"
+identifier: "32008R0900"
+eli: "http://data.europa.eu/eli/reg/2008/900/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-09-16
+entry_into_force: 2008-02-25
+last_amended: 2015-06-17
+consolidated_version: "02008R0900-20150617"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R0900-20150617"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 900/2008 of 16 September 2008 laying down the methods of analysis and other technical provisions necessary for the application of the arrangements for imports of certain goods resulting from the processing of agricultural products (Codified version)
+
+**COMMISSION REGULATION (EC) No 900/2008**
+
+**of 16 September 2008**
+
+**laying down the methods of analysis and other technical provisions necessary for the application of the arrangements for imports of certain goods resulting from the processing of agricultural products**
+
+**(Codified version)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 118/2010 of 9 February 2010 </td><td> L 37</td><td>21</td><td>10.2.2010</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 617/2011 of 24 June 2011 </td><td> L 166</td><td>6</td><td>25.6.2011</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/824 of 27 May 2015 </td><td> L 130</td><td>4</td><td>28.5.2015</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 900/2008**
+
+**of 16 September 2008**
+
+**laying down the methods of analysis and other technical provisions necessary for the application of the arrangements for imports of certain goods resulting from the processing of agricultural products**
+
+**(Codified version)**
+
+## Article 1 — Scope
+
+This Regulation lays down the following:
+
+(a) the methodology and methods of analysis to be used for determining the content of the agricultural products within the meaning of Article 2(1)(a) of Council Regulation (EC) No 1216/2009 ( 5 ) or their specific components considered to have been incorporated in imported goods within the meaning of Article 2(1)(b) of Regulation (EC) No 1216/2009;
+
+(b) the necessary methods of analysis to be used for the implementation of Regulation (EC) No 1216/2009 as far as imports of certain goods are concerned, of Annex I to Regulation (EEC) No 2658/1987 and of Commission Implementing Regulation (EU) No 514/2011 ( 6 ) or in the absence of a method of analysis, the nature of the analytical operations to be carried out or the principle of a method to be applied.
+
+## Article 2 — Calculation of contents
+
+In accordance with the definitions set out in footnotes 1, 2 and 3 of Annex III to Regulation (EU) No 514/2011 and in footnotes 1, 2 and 3 of Part Three, Section I, Annex 1, Table 1 of Annex I to Regulation (EEC) No 2658/87 concerning milk protein content, starch/glucose content and sucrose/invert sugar/isoglucose content, the following formulas, procedures and methods shall be used:
+
+(a) for the application of Annexes II and III to Regulation (EU) No 514/2011;
+
+(b) for the determination of milk fat content, milk protein content, starch/glucose content and sucrose/invert sugar/isoglucose content for the purpose of selecting the appropriate agricultural element, additional duties for sugar and additional duties for flour in the case of non-preferential imports as provided for in Part Two and in Part Three, Section I, Annex 1, of Annex I to Regulation (EEC) No 2658/87:
+
+1\. Starch/glucose content:
+
+(expressed as 100 % anhydrous starch content of the goods as presented)
+
+(a) (Z – F) × 0,9,
+
+if the glucose content is not less than the fructose content; or
+
+(b) (Z – G) × 0,9,
+
+if the glucose content is less than the fructose content
+
+where:
+
+| Z | = | is the glucose content determined by the method set out in Annex I to this Regulation; |
+| --- | --- | --- |
+
+| F | = | is the fructose content determined by HPLC (high performance liquid chromatography); |
+| --- | --- | --- |
+
+| G | = | is the glucose content determined by HPLC. |
+| --- | --- | --- |
+
+In the case of point (a), where the presence of a lactose hydrolysate is declared and/or quantities of lactose and galactose are detected, a glucose content equivalent to the galactose content (determined by HPLC) shall be deducted from the glucose content (Z) before any other calculation is made.
+
+2\. Sucrose/invert sugar/isoglucose content:
+
+(expressed as sucrose content of the goods as presented)
+
+(a) S + (2F) × 0,95,
+
+if the glucose content is not less than the fructose content;
+
+(b) S + (G + F) × 0,95,
+
+if the glucose content is less than the fructose content
+
+where:
+
+| S | = | is the sucrose content determined by HPLC; |
+| --- | --- | --- |
+
+| F | = | is the fructose content determined by HPLC; |
+| --- | --- | --- |
+
+| G | = | is the glucose content determined by HPLC. |
+| --- | --- | --- |
+
+Where the presence of a lactose hydrolysate is declared and/or quantities of lactose and galactose are detected, a glucose content equivalent to the galactose content (determined by HPLC) shall be deducted from the glucose (G) content before any other calculation is made.
+
+3\. Milk fat content:
+
+(a) Save as otherwise provided in point (b) or (c), the milk fat content by weight of the goods as presented shall be determined by extraction with light petroleum after hydrolysis with hydrochloric acid;
+
+(b) Where fats other than milk fats are also declared in the composition of the goods, the following procedure shall be applied:
+
+— the percentage of weight of the total fats in the goods shall be determined as mentioned in point (a),
+
+— for the purposes of determining the milk fat content, a method based on extraction with light petroleum, preceded by hydrolysis with hydrochloric acid and followed by gas chromatography of the methyl esters of the fatty acids shall be used. If the presence of milk fats is detected, the percentage proportion thereof shall be calculated by multiplying the percentage concentration of methyl butyrate by 25, multiplying the product by the total percentage fat content by weight of the goods and dividing by 100.
+
+(c) Where fats other than milk fats are also declared in the composition of goods which are charged by an agricultural component as provided for in Part Two and in Annex 1 to Section I of Part Three of the Combined nomenclature set out in Annex I to Regulation (EEC) No 2658/87, and contain 30 % milk protein or more as determined in accordance with point 4 of this Article, and less than 6 % milk fat as declared by the declarant, the following procedure shall be applied instead of the procedure set out in point (b):
+
+— the percentage of weight of the total fats in the goods shall be determined as set out in point (a),
+
+— for the purposes of determining the milk fat content, a method based on extraction with light petroleum, preceded by hydrolysis with hydrochloric acid and followed by gas chromatography of the methyl esters of the fatty acids shall be used. If the presence of milk fats is detected, the percentage proportion thereof shall be calculated by multiplying the percentage concentration of methyl butyrate by 50, multiplying the product by the total percentage fat content by weight of the goods and dividing by 100.
+
+4\. Milk protein content:
+
+(a) Save as otherwise provided in point (b), the milk protein content of the goods shall be calculated by multiplying the nitrogen content (determined by the Kjeldahl method) by the factor 6,38;
+
+(b) Where components containing proteins other than milk proteins are also declared in the composition of the goods:
+
+— the total percentage nitrogen content by weight shall be determined by the Kjeldahl method,
+
+— the milk protein content shall be calculated as indicated in point (a) by subtracting from the total percentage nitrogen content the nitrogen content corresponding to the non-milk proteins.
+
+## Article 3 — Classification of Goods
+
+For the purpose of applying Annex I to Regulation (EU) No 514/2011 and Annex I to Regulation (EEC) No 2658/87, the following methods and procedures shall be used for the classification of the following goods:
+
+1\. For the purposes of classifying goods falling within CN codes 0403 10 51 to 0403 10 59 , 0403 10 91 to 0403 10 99 , 0403 90 71 to 0403 90 79 and 0403 90 91 to 0403 90 99 , the milk fat content by weight shall be determined by the method referred to in point 3 of Article 2 of this Regulation;
+
+2\. For the purposes of classifying goods falling within CN codes 1704 10 10 and 1704 10 90 and 1905 20 10 to 1905 20 90 , the sucrose content, including invert sugar expressed as sucrose, shall be determined using the HPLC method (invert sugar expressed as sucrose is calculated as the sum of equal quantities of glucose and fructose multiplied by 0,95);
+
+3\. For the purposes of classifying goods falling within CN codes 1806 10 15 to 1806 10 90 , the sucrose/invert sugar/isoglucose content shall be determined in accordance with the formulas, method and procedures set out in point 2 of Article 2 of this Regulation;
+
+4\. For the purposes of classifying goods falling within CN codes 3505 20 10 to 3505 20 90 , the starch, dextrin or other modified starch content shall be determined by the method set out in Annex II to this Regulation;
+
+5\. For the purposes of classifying goods falling within CN codes 3809 10 10 to 3809 10 90 , the amylaceous substances shall be determined by the method set out in Annex II to this Regulation;
+
+6\. For the purposes of classifying goods falling within either CN code 1901 90 11 or CN code 1901 90 19 , the distinction shall be drawn on the basis of the dry extract determined by drying at a temperature of 103 ± 2 °C to constant weight;
+
+7\. For the purposes of classifying goods falling within CN codes 1902 19 10 and 1902 19 90 , the method set out in Annex III to this Regulation shall be used to test for the presence of common wheat flours and semolinas in pasta;
+
+8\. The content of mannitol and D-glucitol (sorbitol) of the goods falling within CN codes 2905 44 11 to 2905 44 99 and 3824 60 11 to 3824 60 99 shall be determined by HPLC.
+
+## Article 4 — Test report
+
+1\. A test report shall be drawn up.
+
+2\. The test report shall include the following particulars:
+
+— all the information necessary for identifying the sample,
+
+— the Community method used and precise reference to the legal instrument in which it is laid down, or, where appropriate, detailed reference to a method, specifying the nature of the analytical operations to be carried out, or the principle of the method to be applied, as indicated in this Regulation,
+
+— any factors liable to have influenced the results,
+
+— the results of the analysis, with due regard to the way in which they are expressed in the method used and the means of expression dictated by the needs of the customs or administrative departments that requested the analysis.
+
+## Article 4a
+
+1\. By 17 December 2017 the Member States shall communicate to the Commission information on results of analysis carried out in accordance with the procedures provided for in Article 2(3) and (4), related to goods with a milk protein content of 30 % or more as determined in accordance with Article 2(4) and declared for customs between 17 June 2015 and 17 June 2017.
+
+2\. The information referred to in paragraph 1 shall be communicated in an electronic form and consist of:
+
+(a) the date of acceptance of the customs declaration;
+
+(b) the quantity of the goods concerned;
+
+(c) tariff classification of the goods concerned;
+
+(d) the additional code declared and, for goods to which the method of analysis set out in point (c) of Article 2(3) has been applied, the additional code applicable on the basis of the results of that method;
+
+(e) the milk protein content as determined by the method of analysis referred to in Article 2(4);
+
+(f) indication of the method of analysis applied for the determination of milk fat content in accordance with Article 2(3);
+
+(g) the total fat content as determined by the method of analysis referred to in point (a) of Article 2(3);
+
+(h) the milk fat content as determined by one of the methods of analysis referred to in Article 2(3);
+
+(i) where relevant, the type of fat other than milk fat contained in the processed agricultural product.
+
+3\. On the basis of the information received from the Member States in accordance with paragraphs 1 and 2, the Commission shall present to the Member States a report on the functioning of the procedure provided for in point (c) of Article 2(3). The Commission shall present that report by 17 June 2018.
+
+## Article 5 — Final provision
+
+Regulation (EEC) No 4154/87 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex V.
+
+## Article 6
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Enzymatic determination of starch and its degradation products including glucose in food products using high performance liquid chromatography (HPLC)**
+
+**1\. Scope**
+
+This method describes the determination of the content of starch and its degradation products including glucose in food products for human consumption hereafter referred to as ‘starch’. The starch content is determined from the quantitative analysis of glucose by high-performance liquid chromatography (HPLC) after enzymatic conversion of starch and its degradation products into glucose.
+
+**2\. Definition of the total glucose content and of the total glucose content expressed as starch**
+
+The total glucose content means the value Z as calculated in point 7.2.1 of this Annex. It represents the content of starch and all its degradation products, glucose included.
+
+The starch/glucose content as defined in Annex III to Regulation (EC) No 1460/96 shall be calculated on the basis of the total glucose content Z and as set out in Article 2 point 1 of this Regulation.
+
+The starch (or dextrin) content as referred to in column 3 of Annex IV to Commission Regulation (EC) No 1043/2005 ( 7 ) shall be calculated on the basis of the total glucose content Z as set out in Article 2 point 2.1 of Commission Regulation (EC) No 904/2008 ( 8 ).
+
+The Starch content referred to in point 1 of this Annex means the value E, as calculated in point 7.2.2 of this Annex. It is expressed in % (m/m). It is equivalent to the total glucose content Z, expressed as starch. This value E does not interfere in the above mentioned calculations.
+
+**3\. Principle**
+
+The samples are homogenised and suspended in water. The starch and its degradation products, present in the samples, are enzymatically converted into glucose in two steps:
+
+1\. Starch and its degradation products are partially converted into soluble glucose chains using thermostable alpha-amylase at 90 °C. For effective conversion it is necessary that the samples should be completely solved or should be present in the form of a suspension containing very small solid parts
+
+2\. The soluble glucose chains are converted into glucose using amyloglucosidase at 60 °C.
+
+Products containing a high content of proteins or fat are clarified and filtrated.
+
+The determination of sugars is performed by HPLC analysis.
+
+Because a partial inversion of sucrose may occur during the enzymatic treatment, the determination of free sugars is also performed by HPLC analysis to calculate the corrected glucose content.
+
+**4\. Reagents and other materials**
+
+Use reagents of recognised analytical grade and demineralised water.
+
+4.1. Glucose, min 99 %.
+
+4.2. Fructose, min 99 %.
+
+4.3. Sucrose, min 99 %.
+
+4.4. Maltose-monohydrate, min 99 %.
+
+4.5. Lactose-monohydrate, min 99 %.
+
+4.6. Solution of thermostable alpha-amylase (1,4-alpha-D-Glucan-glucanohydrolase), with activity about 31 000 U/ml (1U will liberate 1,0 mg of maltose from starch in 3 minutes at pH 6,9 and 20 °C). This enzyme can contain a low amount of impurities (e.g. glucose or sucrose) and other interfering enzymes. Storage at ca. 4 °C. Alternatively, other sources of alpha-amylase may be used yielding a final solution with comparable enzyme activity.
+
+4.7. Amyloglucosidase (1,4-alpha-D-Glucan glucohydrolase) from Aspergillus niger, powder with activity about 120 U/mg or about 70 U/mg (1U will liberate 1 micromol glucose from starch per minute at pH 4,8 and 60 °C). This enzyme can contain a low amount of impurities (e.g. glucose or sucrose) and other interfering enzymes (e.g., Invertase). Storage at ca. 4 °C. Alternatively, other sources of amyloglucosidase may be used yielding a final solution with comparable enzyme activity.
+
+4.8. Zinc acetate dihydrate, p.a..
+
+4.9. Potassium hexacyanoferrate (II) (K4[Fe(CN)]6.3H2O), extra pure.
+
+4.10. Sodium acetate anhydrous, p.a..
+
+4.11. Glacial acetic acid, 96 % (v/v) (minimum).
+
+4.12. Sodium acetate buffer (0,2 mol/l). Weigh 16,4 gram sodium acetate (point 4.10) into a beaker glass. Dissolve in water and rinse into a volumetric flask of 1 000 ml. Dilute to the mark with water and adjust the pH to 4,7 with acetic acid (by use of a pH-meter (point 5.7). This solution may be used for max 6 months with storage at 4 °C.
+
+4.13. Amyloglucosidase solution. Prepare a solution of amyloglucosidase powder (point 4.7) by using sodium acetate buffer (point 4.12). The enzyme activity must be sufficient and in accordance with the starch content in the amount of sample (for example, activity about 600 U/ml is obtained from 0,5 g amyloglucosidase powder 120 U/mg (point 4.7) in a final volume of 100 ml for 1 g starch in the amount of sample). Prepare immediately before use.
+
+4.14. Reference solutions. Prepare solutions of glucose, fructose, sucrose, maltose and lactose in water, as conventionally used in the HPLC analysis of sugars.
+
+4.15. Reagent for clarification (Carrez I). Dissolve 219,5 gram zinc acetate (point 4.8) in water in a beaker glass. Rinse into a volumetric flask of 1 000 ml and add 30 ml acetic acid (point 4.11). Mix thoroughly and dilute to the mark with water. This solution may be used for max 6 months while stored at ambient temperature. Other clarification reagents, equivalent to Carrez solution, may be used.
+
+4.16. Reagent for clarification (Carrez II). Dissolve 106,0 gram potassium hexacyanoferrate (II) (point 4.9) in water in a beaker glass. Rinse into a volumetric flask of 1 000 ml. Mix thoroughly and dilute to the mark with water. This solution may be used for max. 6 months while stored at ambient temperature. Other clarification reagents, equivalent to Carrez solution, may be used.
+
+4.17. HPLC Mobile phase. Prepare a mobile phase which is conventionally used in the HPLC analysis of sugars. In case of using an aminopropyl silicagel column, e.g., a common mobile phase is a mixture of HPLC grade water and acetonitrile.
+
+**5\. Apparatus**
+
+5.1. Standard laboratory glass ware.
+
+5.2. Fluted filters, e.g., 185 mm.
+
+5.3. Syringe filters, 0,45 μm, suitable for aqueous solutions.
+
+5.4. Sample vials suitable for the HPLC autosampler.
+
+5.5. 100 ml volumetric flasks.
+
+5.6. Plastic syringes, 10 ml.
+
+5.7. pH-meter.
+
+5.8. Analytical balance.
+
+5.9. Water bath with thermostat, adjustable to 60 °C and 90 °C.
+
+5.10. HPLC Apparatus suitable for analysis of sugars.
+
+**6\. Procedure**
+
+**6.1. Preparation of the sample for several types of products**
+
+The product is homogenised.
+
+**6.2. Sample portion**
+
+The amount of sample is estimated from the ingredient declaration and the conditions of the HPLC analysis (concentration of the glucose reference solution), and shall not exceed:
+
+[image]
+
+Weigh the sample to 0,1 mg accuracy.
+
+**6.3. Blank determination**
+
+The blank is determined by performing a complete analysis (as described in point 6.4), without adding sample. The result of the blank determination is used in the calculation of the starch content (point 7.2).
+
+**6.4. Analysis**
+
+6.4.1. Preparation of the samples
+
+Homogenise the sample by shaking or stirring. The chosen test portion (point 6.2) is weighed into a volumetric flask (point 5.5) and about 70 ml warm water is added.
+
+After dissolving or suspending, add 50 microliter of thermostable alpha-amylase (point 4.6) and heat at 90 °C for 30 min in a water bath (point 5.9). Cool as quick as possible to 60 °C in a water bath, and add 5 ml of a solution of amyloglucosidase (point 4.13). For samples which could influence the pH of the reaction solution, control the pH and adjust it to 4,6 to 4,8, if necessary. Allow to react for 60 min at 60 °C. Cool the samples to ambient temperature.
+
+6.4.2. Clarification
+
+For samples with a high content of proteins or fat, clarification is necessary by adding 1 ml Carrez I (point 4.15) to the sample solution. After shaking, 1 ml Carrez II (point 4.16) is added. Shake the sample again.
+
+6.4.3. Processing for HPLC analysis
+
+The sample in the volumetric flask is diluted to the mark with water, homogenised and filtered through a fluted filter (point 5.2). Collect the sample extract.
+
+Filter the extracts through a syringe filter (point 5.3) with a syringe (point 5.6) that has been preflushed with the extract. Collect the filtrates in vials (point 5.4).
+
+**6.5. Chromatography**
+
+HPLC is performed as conventionally for analysis of sugars. If the HPLC analysis shows traces of maltose, then the starch is incompletely converted, which results in a too low recovery for glucose.
+
+**7\. Calculation and expression of results**
+
+**7.1. Calculation of the HPLC results**
+
+For the calculation of the starch content, the results of two HPLC analysis are necessary, namely sugars present in the sample before (‘free sugars’) and after enzymatic treatment (as described in this method). Also a blank determination has to be performed to be able to correct for sugars present in the enzymes.
+
+In the HPLC analysis, the peak area is determined after integration and the concentration is calculated after calibration with reference solutions (point 4.14). From the glucose concentration (g/100 ml) after enzymatic treatment, the concentration of glucose (g/100 ml) in the blank is subtracted. Eventually the content (g sugar/100 g sample) of sugars is calculated using the weighted amount of sample, which results in:
+
+1\. HPLC analysis before enzymatic treatment, giving the content (g/100 g) of free sugars:
+
+— glucose G
+
+— fructose F
+
+— sucrose S
+
+2\. HPLC analysis after enzymatic treatment, giving the content (g/100 g) of sugars:
+
+— glucose after correction for the blank (Ge cor)
+
+— fructose Fe
+
+— sucrose Se
+
+**7.2. Calculation of the starch content**
+
+7.2.1. Calculation of total glucose ‘Z’
+
+If the amount of fructose after enzymatic treatment (Fe) is higher than the amount of fructose before enzymatic treatment (F), then the sucrose, present in the sample, is partly converted into fructose and glucose. This means that a correction shall be made for the liberated glucose (Fe – F).
+
+Z, final glucose content after correction in g/100g:
+
+Z = (Ge cor) – (Fe – F)
+
+7.2.2. Calculation of the total glucose content expressed as stąrch
+
+E, ‘starch’ content in g/100g:
+
+E = [(Ge cor) – (Fe – F)] × 0,9
+
+**8\. Precision**
+
+Details of an inter laboratory test relating to precision data of the method performed on 2 samples are given in this point. They reflect the performance requirements for the method described in this annex.
+
+**Results of an interlaboratory test (Informative)**
+
+An inter laboratory test was carried out in 2008 with the participation of the European Customs laboratories.
+
+The evaluation of precision data was performed according to the ‘Protocol for the design, conduct and interpretation of method-performance studies’, W. Horwitz, (IUPAC technical report), Pure & Appl. Chem., Vol. 67, No 2, PP.331-343, 1995.
+
+The precision data are given in the table below.
+
+| Samples 1: 2: | Z sample 1 | Z sample 2 |
+| --- | --- | --- |
+| Number of laboratories | 41 | 42 |
+| Number of laboratories after eliminating outliers | 38 | 39 |
+| Mean (%, m/m) | 29,8 | 55,0 |
+| Repeatability standard deviation sr (%, m/m) | 0,5 | 0,5 |
+| Reproducibility standard deviation sR (%, m/m) | 1,5 | 2,3 |
+| Repeatability limit r (%, m/m) | 1,4 | 1,4 |
+| Reproducibility limit R (%, m/m) | 4,2 | 6,6 |
+
+## ANNEX II
+
+**Determination of starches or dextrins or other modified starches content in goods of CN codes 3505 20 10 to 3505 20 90 and of amylaceous substances content in goods of CN codes 3809 10 10 to 3809 10 90**
+
+**I. PRINCIPLE**
+
+Starch is converted by acid hydrolysis into reducing sugars which are determined by volume using Fehling’s solution.
+
+**II. APPARATUS AND REAGENTS**
+
+1\. 250 ml flask;
+
+2\. 200 ml graduated flask;
+
+3\. 25 ml graduated burette;
+
+4\. Hydrochloric acid at 1,19 density;
+
+5\. Potassium hydroxide solution;
+
+6\. Decolourising charcoal;
+
+7\. Fehling’s solution;
+
+8\. Methylene blue solution (1 %).
+
+**III. METHOD**
+
+Into a 250 ml flask place a sample containing about 1 g of starch. Add 100 ml of distilled water and 2 ml of hydrochloric acid. Bring to the boil and reflux for three hours.
+
+Transfer the contents of the flask and rinsings into a 200 ml graduated flask. Cool and nearly neutralise with potassium hydroxide solution. Add distilled water to 200 ml and filter through a little decolourising charcoal.
+
+Then pour the solution into a graduated burette and reduce 10 ml of Fehling’s solution by the following method:
+
+Into a flat-bottomed flask of about 250 ml pour 10 ml of Fehling’s solution (5 ml of solution A and 5 ml of solution B). Shake until clear and add 40 ml of distilled water and a small quantity of quartz or pumice.
+
+Place the flask on a square asbestos plate with a round hole of about 6 cm diameter in the centre, the asbestos in turn resting on a piece of wire gauze. Heat the flask at such a rate that the liquid begins boiling after about two minutes.
+
+From the burette, add to the boiling liquid successive quantities of the sugar solution until the blue colour of the Fehling’s solution becomes hardly discernible; then add 2 or 3 drops of methylene blue solution as indicator, and complete the titration by adding further quantities of the sugar solution, drop by drop, until the blue colour of the indicator disappears.
+
+For greater accuracy repeat the titration under the same conditions, but adding without a break almost all the sugar solution required to reduce the Fehling’s solution. In this second titration, the reduction of the Fehling’s solution should occur within three minutes. Keep boiling for exactly two further minutes, adding the reagent within one minute drop by drop to the boiling solution until the blue colour disappears.
+
+The percentage by weight of starch in the sample is determined by means of the following formula:
+
+starch % = ((T × 200 × 100)/(n × p)) × 0,95
+
+where:
+
+| T | : | is the quantity in grams of anhydrous dextrose corresponding to 10 ml of Fehling’s solution (5 ml of solution A and 5 ml of solution B). This titer corresponds to 0,04945 g of anhydrous dextrose when solution A contains 17,636 g of copper per litre; |
+| --- | --- | --- |
+
+| n | : | is the number of ml of the sugar solution used for titration; |
+| --- | --- | --- |
+
+| p | : | is the weight of the sample amount; |
+| --- | --- | --- |
+
+| 0,95 | : | is the rate of conversion of anhydrous dextrose into starch. |
+| --- | --- | --- |
+
+**IV. PREPARATION OF FEHLING’S SOLUTIONS**
+
+| Solution A | : | In a graduated flask dissolve 69,278 g of pure crystallised copper sulphate — Analytical Reagent (CuSO4 5H2O) — free from iron in distilled water and bring the volume to 1 litre with distilled water. The correct strength of this solution must be verified by a quantitative determination of the copper. |
+| --- | --- | --- |
+
+| Solution B | : | In a graduated flask dissolve 100 g of sodium hydroxide and 346 g of double sodium potassium tartrate (Rochelle salt) in distilled water and bring the volume to 1 litre with distilled water. |
+| --- | --- | --- |
+
+The two solutions A and B must be mixed in equal quantities immediately before use. 10 ml of Fehling’s solution (5 ml of solution A and 5 ml of solution B) is completely reduced, under the conditions described at section III, by 0,04945 g of anhydrous dextrose.
+
+## ANNEX III
+
+**Detection of common wheat flour or meal in macaroni, spaghetti and similar products (pasta)**
+
+**(by the Young and Gilles method, modified by Bernaerts and Gruner)**
+
+**I. PRINCIPLE**
+
+An extract of the sample of the pasta for analysis is prepared by using a non-polar solvent.
+
+This extract is chromatographed on a thin layer of silica gel so as to separate the sterols present in various band form fractions.
+
+According to the number of brightly coloured bands it is possible to determine whether the product under examination has been manufactured exclusively from durum wheat or common wheat, or from a mixture of the two. It is also possible to determine whether eggs have been added.
+
+**II. APPARATUS AND REAGENTS**
+
+1\. Homogeniser or grinder to obtain a grist that will pass through a standard sieve with a 0,200 mm mesh;
+
+2\. Standard sieve with a 0,200 mm mesh;
+
+3\. Evaporator with a water bath for evaporation under reduced pressure;
+
+4\. Glass plate, aluminium sheet or other appropriate backing measuring 20 cm × 20 cm covered with a thin layer of silica gel. If the thin layer has to be prepared, silica gel mixed with about 13 % plaster should be used, and it should be applied in a 0,25 mm layer with suitable apparatus in accordance with the manufacturer's instructions;
+
+5\. Micropipette for measuring 20 microlitres;
+
+6\. Container with lid suitable for the development of chromatograms;
+
+7\. Atomiser;
+
+8\. Petroleum ether with a boiling point between 40 and 60 °C, redistilled before use;
+
+9\. Anhydrous ethyl ether for analysis;
+
+10\. Carbon tetrachloride for chromatography, redistilled before use;
+
+11\. Phosphomolybdic acid for analysis;
+
+12\. 94° ethyl alcohol.
+
+**III. METHOD**
+
+Grind about 20 g of the sample for analysis so that all of it passes through the sieve. Put the sample in an Erlenmeyer flask and cover with 150 ml petroleum ether. Leave at normal temperature until the following day. Shake from time to time.
+
+Then filter on a Büchner funnel fitted with a filtering aid or on a sintered filter. Gradually transfer the clear solution thus obtained into a 100 ml calibrated flask. Evaporate the solvent under reduced pressure by heating the flask in a water bath at 40 °C to 50 °C. When the solvent has evaporated, heat under reduced pressure for a further ten minutes.
+
+When the flask has cooled, determine the weight of the extract. Dilute the extract in ethyl ether on the basis of 1 ml ethyl ether per 60 mg of extract.
+
+Activate the thin layers by bringing them to 130 °C for three hours. Leave to cool in a desiccator containing silica gel. Plates which are not used immediately can be preserved in the same desiccator.
+
+Apply, drop by drop, 20 microlitres of the clear solution to form a band of constant width and 3 cm in length on a layer preferably newly activated. Let the solvent evaporate.
+
+Develop the chromatogram under normal temperature with carbon tetrachloride using a chromatographic container the walls of which are covered with filter paper soaked in solvent. After about an hour the solvent will reach a height of 18 cm. Remove the plate and leave the solvent to evaporate in the open. For better separation of the bands, develop the chromatogram a second time. Again let the solvent evaporate in the open.
+
+Spray the thin layer of silica gel with a solution of 20 % phosphomolybdic acid in ethyl alcohol. The colour of the layer must be a uniform yellow. Develop the bands by the heating the sprayed plate at 110 °C for five minutes.
+
+**IV. INTERPRETATION OF THE CHROMATOGRAM**
+
+If the chromatogram shows a single main brightly coloured band with an Rf of about 0,4 to 0,5, the wheat used for the manufacture of the pasta in question is durum wheat. If, on the other hand, two main bands of equal brightness appear, the raw material used is common wheat. Mixtures of durum wheat and common wheat can be assessed by an evaluation of the relative brightness of the two bands.
+
+If there are three bands (two bands at the height where the main bands for common wheat are to be found, with a further band between them) eggs have been added to pasta. In this case, the raw material used is durum wheat if the middle band is brighter than the upper band. On the other hand, if the upper band is brighter than the middle band, the raw material used is common wheat.
+
+## ANNEX IV
+
+**Repealed Regulation with its amendment**
+
+| Commission Regulation (EEC) No 4154/87 | (OJ L 392, 31.12.1987, p. 19). |
+| --- | --- |
+| Commission Regulation (EC) No 203/98 | (OJ L 21, 28.1.1998, p. 6). |
+
+## ANNEX V
+
+**Correlation Table**
+
+| Regulation (EEC) No 4154/87 | This Regulation |
+| --- | --- |
+| Articles 1 to 4 | Articles 1 to 4 |
+| Article 5 | — |
+| — | Article 5 |
+| Article 6 | Article 6 |
+| Annexes I, II and III | Annexes I, II and III |
+| — | Annex IV |
+| — | Annex V |
+
+( 1 ) OJ L 256, 7.9.1987, p. 1.
+
+( 2 ) OJ L 392, 31.12.1987, p. 19.
+
+( 3 ) See Annex IV.
+
+( 4 ) OJ L 318, 20.12.1993, p. 18.
+
+( 5 ) OJ L 328, 15.12.2009, p. 10.
+
+( 6 ) OJ L 138, 26.5.2011, p. 18.
+
+( 7 ) OJ L 172, 5.7.2005, p. 24.
+
+( 8 ) OJ L 249, 18.9.2008, p. 9.

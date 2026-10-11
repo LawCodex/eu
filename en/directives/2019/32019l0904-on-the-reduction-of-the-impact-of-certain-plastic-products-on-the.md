@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EU) 2025/40 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 December 2024 </td><td> L 40</td><td>1</td><td>22.1.2025</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2019/904 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

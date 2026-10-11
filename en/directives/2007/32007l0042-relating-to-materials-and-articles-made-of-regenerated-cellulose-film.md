@@ -170,6 +170,7 @@ NB:
 
 **Uncoated regenerated cellulose film**
 
+<table>
 <tbody><tr><td>Denominations</td><td>Restrictions</td></tr>
 <tr><td><table><tbody><tr><td>A.</td><td>Regenerated cellulose</td></tr>
 </tbody>
@@ -393,11 +394,13 @@ NB:
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **SECOND PART**
 
 **Coated regenerated cellulose film**
 
+<table>
 <tbody><tr><td>Denominations</td><td>Restrictions</td></tr>
 <tr><td><table><tbody><tr><td>A.</td><td>Regenerated cellulose</td></tr>
 </tbody>
@@ -676,6 +679,7 @@ NB:
 </table>
 </td><td>Not more than 0,06 mg/dm2 of the coating on the side in contact with foodstuffs.</td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

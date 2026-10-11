@@ -1,0 +1,439 @@
+---
+title: "Regulation (EU) 2018/842 of the European Parliament and of the Council of 30 May 2018 on binding annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement and amending Regulation (EU) No 525/2013 (Text with EEA relevance)"
+identifier: "32018R0842"
+eli: "http://data.europa.eu/eli/reg/2018/842/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2018-05-30
+entry_into_force: 2019-01-25
+last_amended: 2023-05-16
+consolidated_version: "02018R0842-20230516"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0842-20230516"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2018/842 of the European Parliament and of the Council of 30 May 2018 on binding annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement and amending Regulation (EU) No 525/2013 (Text with EEA relevance)
+
+**REGULATION (EU) 2018/842 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 30 May 2018**
+
+**on binding annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement and amending Regulation (EU) No 525/2013**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>REGULATION (EU) 2023/857 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 April 2023</td><td> L 111</td><td>1</td><td>26.4.2023</td></tr>
+</table>
+
+**REGULATION (EU) 2018/842 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 30 May 2018**
+
+**on binding annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement and amending Regulation (EU) No 525/2013**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Regulation lays down obligations on Member States with respect to their minimum contributions for the period from 2021 to 2030 to fulfilling the Union’s target of reducing its greenhouse gas emissions by 40 % below 2005 levels in 2030 in the sectors covered by Article 2 of this Regulation. It contributes to the long-term target of climate neutrality in the Union at the latest by 2050, with the aim of achieving negative emissions thereafter. It thereby contributes to achieving the objectives of Regulation (EU) 2021/1119 of the European Parliament and of the Council ( 1 ) (‘European Climate Law’) and the Paris Agreement. This Regulation also lays down rules on determining annual emission allocations and for the evaluation of Member States’ progress towards meeting their minimum contributions.
+
+## Article 2 — Scope
+
+1\. This Regulation applies to the greenhouse gas emissions from IPCC source categories of energy, industrial processes and product use, agriculture and waste as determined pursuant to Regulation (EU) 2018/1999 of the European Parliament and the Council ( 2 ), excluding greenhouse gas emissions from the activities listed in Annex I to Directive 2003/87/EC, other than the activity ‘maritime transport’ and activities only listed therein for the purposes of Articles 14 and 15 of that Directive.
+
+2\. Without prejudice to Article 7 and Article 9(2) of this Regulation, this Regulation does not apply to greenhouse gas emissions and removals covered by Regulation (EU) 2018/841.
+
+3\. For the purposes of this Regulation, CO2 emissions from IPCC source category ‘1.A.3.A civil aviation’ shall be treated as zero.
+
+## Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘Greenhouse gas emissions’ means emissions in terms of tonnes of CO2 equivalent of carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), nitrogen trifluoride (NF3) and sulphur hexafluoride (SF6) determined pursuant to Regulation (EU) No 525/2013 and falling within the scope of this Regulation;
+
+(2) ‘Annual emission allocations’ means the maximum allowed greenhouse gas emissions for each year between 2021 and 2030 determined pursuant to Article 4(3) and Article 10;
+
+(3) ‘EU ETS allowance’ means an ‘allowance’ as defined in point (a) of Article 3 of Directive 2003/87/EC.
+
+## Article 4 — Annual emission levels for the period from 2021 to 2030
+
+1\. Each Member State shall, in 2030, limit its greenhouse gas emissions at least by the percentage set for that Member State in column 2 of Annex I in relation to its greenhouse gas emissions in 2005, determined pursuant to paragraph 3 of this Article.
+
+2\. Subject to the flexibilities provided for in Articles 5, 6 and 7 of this Regulation and to the adjustment pursuant to Article 10(2) of this Regulation, and taking into account any deduction resulting from the application of Article 7 of Decision No 406/2009/EC, each Member State shall ensure that its greenhouse gas emissions:
+
+(a) do not exceed, in the years 2021 and 2022, the limit defined by a linear trajectory, starting on the average of that Member State’s greenhouse gas emissions in 2016, 2017 and 2018, as set out pursuant to paragraph 3 of this Article, and ending in 2030 at the limit set for that Member State in column 1 of Annex I to this Regulation; the linear trajectory of a Member State shall start either at five-twelfths of the distance from 2019 to 2020 or in 2020, whichever results in a lower annual emission allocation for that Member State;
+
+(b) do not exceed, in the years 2023, 2024 and 2025, the limit defined by a linear trajectory, starting in 2022 at the annual emission allocation for that Member State, as set out pursuant to paragraph 3 of this Article for that year, and ending in 2030 at the limit set for that Member State in column 2 of Annex I to this Regulation;
+
+(c) do not exceed, in the years 2026 to 2030, the limit defined by a linear trajectory, starting on the average of that Member State’s greenhouse gas emissions in 2021, 2022 and 2023, as submitted by that Member State pursuant to Article 26 of Regulation (EU) 2018/1999 and in accordance with paragraph 3 of this Article, and ending in 2030 at the limit set for that Member State in column 2 of Annex I to this Regulation; the linear trajectory of a Member State shall start at nine-twelfths of the distance from 2023 to 2024.
+
+3\. The Commission shall adopt implementing acts setting out the annual emission allocations for each Member State for the years from 2021 to 2030 in tonnes of CO2 equivalent in accordance with the linear trajectories set out in paragraph 2 of this Article.
+
+For the years 2021 and 2022, the Commission shall determine the annual emission allocations based on a comprehensive review of the most recent national inventory data for the years 2005, 2016, 2017 and 2018, submitted by the Member States pursuant to Article 7 of Regulation (EU) No 525/2013, and shall indicate the value for the 2005 greenhouse gas emissions of each Member State used to determine those annual emission allocations.
+
+For the years 2023, 2024 and 2025, the Commission shall determine the annual emission allocations based on the value for the 2005 greenhouse gas emissions of each Member State indicated pursuant to the second subparagraph of this paragraph and on the reviewed values of the national inventory data for the years 2016, 2017 and 2018 referred to in that second subparagraph.
+
+For the years 2026 to 2030, the Commission shall determine the annual emission allocations based on the value for the 2005 greenhouse gas emissions of each Member State indicated pursuant to the second subparagraph of this paragraph and on a comprehensive review of the most recent national inventory data for the years 2021, 2022 and 2023 submitted by the Member States pursuant to Article 26 of Regulation (EU) 2018/1999.
+
+4\. The implementing acts referred to in paragraph 3 shall also specify, based on the percentages notified by Member States pursuant to Article 6(3), (3a) and (3b), the total quantities that may be taken into account for a Member State’s compliance under Article 9 between 2021 and 2030. If the sum of all Member States’ total quantities exceeds the collective total of 100 million, the total quantities for each Member State shall be reduced on a pro rata basis so that the collective total is not exceeded.
+
+5\. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 14.
+
+6\. When undertaking the actions to limit the greenhouse gas emissions under paragraphs 1 and 2, Member States shall consider the need to ensure a just and socially fair transition for all. The Commission may issue guidance to support Member States in that regard.
+
+## Article 5 — Flexibilities by means of borrowing, banking and transfer
+
+1\. In respect of the years 2021 to 2025, a Member State may borrow a quantity of up to 7,5 % from its annual emission allocation for the following year.
+
+2\. In respect of the years 2026 to 2029, a Member State may borrow a quantity of up to 5 % from its annual emission allocation for the following year.
+
+3\. A Member State whose greenhouse gas emissions for a given year are below its annual emission allocation for that year, taking into account the use of flexibilities pursuant to this Article and Article 6, may:
+
+(a) in respect of the year 2021, bank the excess part of its annual emission allocation up to a level of 75 % of its annual emission allocation for 2021 to subsequent years until 2030; and
+
+(b) in respect of the years 2022 to 2029, bank the excess part of its annual emission allocation up to a level of 25 % of its annual emission allocations up to that year to subsequent years until 2030.
+
+4\. A Member State may transfer up to 10 % of its annual emission allocation for a given year to other Member States in respect of the years 2021 to 2025, and up to 15 % in respect of the years 2026 to 2030. The receiving Member State may use that quantity for compliance under Article 9 for the given year or for subsequent years until 2030.
+
+5\. A Member State whose reviewed greenhouse gas emissions for a given year are below its annual emission allocation for that year, taking into account the use of flexibilities pursuant to paragraphs 1 to 4 of this Article and Article 6, may transfer that excess part of its annual emission allocation to other Member States. The receiving Member State may use that quantity for compliance under Article 9 for that year or for subsequent years until 2030.
+
+5a. Before any transfer of annual emission allocations pursuant to paragraphs 4 and 5, a Member State shall inform, in electronic form, the Climate Change Committee established by Regulation (EU) 2018/1999 of its intention to transfer part of its annual emission allocation for any given year.
+
+6\. Member States should use revenues, or their equivalent in financial value, generated by transfers of annual emission allocations pursuant to paragraphs 4 and 5 to tackle climate change in the Union or in third countries. Member States shall inform the Commission of any actions taken pursuant to this paragraph and shall make that information public in an easily accessible form.
+
+7\. Any transfer of annual emission allocations pursuant to paragraphs 4 and 5 may be the result of a greenhouse gas mitigation project or programme carried out in the selling Member State and remunerated by the receiving Member State, provided that double counting is avoided and traceability is ensured.
+
+8\. Member States may use credits from projects issued pursuant to Article 24a(1) of Directive 2003/87/EC for compliance under Article 9 of this Regulation without any quantitative limit, provided that double counting is avoided.
+
+## Article 6 — Flexibility for certain Member States following reduction of EU ETS allowances
+
+1\. The Member States listed in Annex II to this Regulation may have a limited cancellation of up to a maximum of 100 million EU ETS allowances collectively taken into account for their compliance under this Regulation. Such cancellation shall be made from the auctioning volumes of the Member State concerned pursuant to Article 10 of Directive 2003/87/EC.
+
+2\. The EU ETS allowances taken into account under paragraph 1 of this Article shall be considered as EU ETS allowances in circulation for the purposes of Article 1(4) of Decision (EU) 2015/1814.
+
+In its first review pursuant to Article 3 of that Decision, the Commission shall consider whether to maintain the accounting set out in the first subparagraph of this paragraph.
+
+3\. The Member States listed in Annex II shall notify the Commission by 31 December 2019 of any intention to make use of the limited cancellation of EU ETS allowances referred to in paragraph 1 of this Article, up to the percentage listed in Annex II for each year of the period from 2021 to 2030 for each Member State concerned, for its compliance under Article 9.
+
+The Member States listed in Annex II may decide to revise the notified percentage once in 2024 and once in 2027. In such case, the Member State concerned shall notify the Commission thereof by 31 December 2024 or by 31 December 2027, respectively.
+
+3a. Malta shall notify the Commission by 31 December 2023 if it intends to make use of the limited cancellation of EU ETS allowances referred to in paragraph 1 of this Article, up to the percentage listed in Annex II for each of the years 2025 to 2030, for its compliance under Article 9.
+
+3b. Notwithstanding paragraph 3, the Member States listed in Annex II which have not notified the Commission by 31 December 2019 of an intention to make use or full use of the limited cancellation of EU ETS allowances referred to in paragraph 1 of this Article shall notify the Commission by 31 December 2023 if they intend to make use or further use of that limited cancellation of EU ETS allowances, up to the percentage listed in Annex II for each year of the period from 2025 to 2030 for each Member State concerned, for its compliance under Article 9.
+
+4\. At a Member State’s request, the Central Administrator designated pursuant to Article 20(1) of Directive 2003/87/EC (the ‘Central Administrator’) shall take into account an amount up to the total quantity determined pursuant to Article 4(4) of this Regulation for that Member States’ compliance under Article 9 of this Regulation. One-tenth of the total quantity of EU ETS allowances determined pursuant to Article 4(4) of this Regulation shall be cancelled pursuant to Article 12(4) of Directive 2003/87/EC for each year from 2021 to 2030 for that Member State. One-sixth of the total quantity of EU ETS allowances determined pursuant to Article 4(4) of this Regulation shall be cancelled pursuant to Article 12(4) of Directive 2003/87/EC for each year from 2025 to 2030 for Member States that have notified the Commission pursuant to paragraphs 3a and 3b of this Article.
+
+5\. Where a Member State, in accordance with paragraph 3, has notified the Commission of its decision to revise the previously notified percentage, a correspondingly lower or higher quantity of EU ETS allowances shall be cancelled for that Member State in respect of each year from 2026 to 2030 or from 2028 to 2030, respectively.
+
+## Article 7
+
+Additional use of net removals from LULUCF
+
+1\. To the extent that a Member State’s greenhouse gas emissions exceed its annual emission allocations for a given year, including any annual emission allocations banked pursuant to Article 5(3) of this Regulation, a quantity up to the sum of total net removals and total net emissions from the combined land accounting categories included in the scope of Regulation (EU) 2018/841, may be taken into account for its compliance under Article 9 of this Regulation for that year, provided that:
+
+(a) the cumulative quantity taken into account for that Member State for the years 2021 to 2025 does not exceed half of the maximum amount of total net removals set out in Annex III to this Regulation for that Member State;
+
+(aa) the cumulative quantity taken into account for that Member State for the years 2026 to 2030 does not exceed half of the maximum amount of total net removals set out in Annex III to this Regulation for that Member State;
+
+(b) such quantity is in excess of that Member State’s requirements under Article 4 of Regulation (EU) 2018/841;
+
+(c) the Member State has not acquired more net removals under Regulation (EU) 2018/841 from other Member States than it has transferred;
+
+(d) the Member State has complied with Regulation (EU) 2018/841; and
+
+(e) the Member State has submitted a description of the intended use of the flexibility available under this paragraph pursuant to the second subparagraph of Article 7(1) of Regulation (EU) No 525/2013.
+
+## Article 8 — Corrective action
+
+1\. If the Commission finds, in its annual assessment under Article 29 of Regulation (EU) 2018/1999 and taking into account the intended use of the flexibilities referred to in Articles 5, 6 and 7 of this Regulation, that a Member State is not making sufficient progress towards meeting its obligations under Article 4 of this Regulation, that Member State shall, within three months, submit to the Commission a corrective action plan that includes:
+
+(a) a detailed explanation of why that Member State is not making sufficient progress towards meeting those obligations;
+
+(b) an assessment of how Union funding has supported that Member State’s efforts towards meeting those obligations and of how it intends to use such funding to make progress towards meeting them;
+
+(c) additional actions, complementing the integrated national energy and climate plan of that Member State pursuant to Regulation (EU) 2018/1999 or reinforcing its implementation, that it is to implement in order to meet those obligations, through domestic policies and measures and the implementation of Union action, accompanied by a detailed assessment, which is underpinned by quantitative data, where available, of the envisaged greenhouse gas emission reductions resulting from those actions;
+
+(d) a strict timetable for implementing such actions, which enables the assessment of annual progress in implementation.
+
+Where a Member State has established a national climate advisory body, it may seek its advice to identify the necessary actions referred to in point (c) of the first subparagraph.
+
+2\. In accordance with its annual work programme, the European Environment Agency shall assist the Commission in its work to assess any such corrective action plans.
+
+3\. The Commission may issue an opinion regarding the robustness of the corrective action plans submitted in accordance with paragraph 1 and shall in that case do so within four months of receipt of those plans. The Member State concerned shall take utmost account of the Commission’s opinion and may revise its corrective action plan accordingly. If the Member State concerned does not address the Commission’s opinion or a substantial part thereof, that Member State shall provide a justification to the Commission.
+
+4\. Each Member State shall make its corrective action plan as referred to in paragraph 1 and any justification as referred to in paragraph 3 publicly available. The Commission shall make its opinion as referred to in paragraph 3 publicly available.
+
+## Article 9 — Compliance check
+
+1\. In 2027 and 2032, if the reviewed greenhouse gas emissions of a Member State exceed its annual emission allocation for any specific year of the period, taking into account paragraph 2 of this Article and the flexibilities used pursuant to Articles 5, 6 and 7, the following measures shall apply:
+
+(a) an addition to the Member State’s greenhouse gas emission figure of the following year equal to the amount in tonnes of CO2 equivalent of the excess greenhouse gas emissions, multiplied by a factor of 1,08, in accordance with the measures adopted pursuant to Article 12; and
+
+(b) the Member State shall be temporarily prohibited from transferring any part of its annual emission allocation to another Member State until it is in compliance with Article 4.
+
+The Central Administrator shall implement the prohibition referred to in point (b) of the first subparagraph in the Union Registry.
+
+2\. If the greenhouse gas emissions of a Member State in the period from 2021 to 2025 referred to in Article 4 of Regulation (EU) 2018/841 exceeded its removals, as determined in accordance with Article 12 of that Regulation, the Central Administrator shall deduct from that Member State’s annual emission allocations an amount equal to those excess greenhouse gas emissions in tonnes of CO2 equivalent for the relevant years.
+
+## Article 10 — Adjustments
+
+1\. The Commission shall adjust the annual emission allocations for each Member State under Article 4 of this Regulation in order to reflect:
+
+(a) adjustments to the number of EU ETS allowances issued pursuant to Article 11 of Directive 2003/87/EC that resulted from a change in the coverage of sources under that Directive, in accordance with the Commission Decisions adopted pursuant to that Directive on the final approval of the national allocation plans for the period from 2008 to 2012;
+
+(b) adjustments to the number of EU ETS allowances or credits, respectively, issued pursuant to Articles 24 and 24a of Directive 2003/87/EC in respect of greenhouse gas emission reductions in a Member State; and
+
+(c) adjustments to the number of EU ETS allowances pertaining to greenhouse gas emissions from installations excluded from the EU ETS in accordance with Article 27 of Directive 2003/87/EC, for the time that they are excluded.
+
+2\. The amount contained in Annex IV shall be added to the annual emission allocation for the year 2021 for each Member State referred to in that Annex.
+
+3\. The Commission shall publish the figures resulting from such adjustments.
+
+## Article 11 — Safety reserve
+
+1\. A safety reserve corresponding to a quantity of up to 105 million tonnes of CO2 equivalent shall be established in the Union Registry, subject to the fulfilment of the Union target referred to in Article 1. The safety reserve shall be available in addition to the flexibilities provided for in Articles 5, 6 and 7.
+
+2\. A Member State may benefit from the safety reserve provided that all of the following conditions are fulfilled:
+
+(a) its GDP per capita at market prices in 2013, as published by Eurostat in April 2016, was below the Union average;
+
+(b) its cumulative greenhouse gas emissions for the years from 2013 to 2020 in the sectors covered by this Regulation are below its cumulative annual emission allocations for the years from 2013 to 2020; and
+
+(c) its greenhouse gas emissions exceed its annual emission allocations in the period from 2026 to 2030, although it has:
+
+(i) exhausted the flexibilities pursuant to Article 5(2) and (3);
+
+(ii) made the maximum possible use of net removals according to Article 7, even if that quantity does not reach the level set in Annex III; and
+
+(iii) made no net transfers to other Member States under Article 5.
+
+3\. A Member State, which meets the conditions set out in paragraph 2 of this Article, shall receive an additional quantity from the safety reserve up to its shortfall to be used for compliance under Article 9. That quantity shall not exceed 20 % of its overall overachievement in the period from 2013 to 2020.
+
+If the resulting collective quantity to be received by all of the Member States which fulfil the conditions set out in paragraph 2 of this Article exceeds the limit referred to in paragraph 1 of this Article, the quantity to be received by each of those Member States shall be reduced on a pro rata basis.
+
+4\. Any amount remaining in the safety reserve after the distribution in accordance with the first subparagraph of paragraph 3 shall be distributed among the Member States referred to in that subparagraph proportionally to their remaining shortfall, but not exceeding it. For each of those Member States, that quantity may be additional to the percentage referred to in that subparagraph.
+
+5\. After the completion of the review referred to in Article 19 of Regulation (EU) No 525/2013 for the year 2020, the Commission shall, for each Member State that fulfils the conditions in points (a) and (b) of paragraph 2 of this Article, publish the amounts corresponding to 20 % of the overall overachievement in the period from 2013 to 2020 as referred to in the first subparagraph of paragraph 3 of this Article.
+
+## Article 12 — Registry
+
+1\. The Commission shall adopt delegated acts in accordance with Article 13 to supplement this Regulation in order to ensure the accurate accounting under this Regulation through the Union Registry in respect of:
+
+(a) annual emission allocations;
+
+(b) flexibilities exercised under Articles 5, 6 and 7;
+
+(c) compliance checks under Article 9;
+
+(d) adjustments under Article 10; and
+
+(e) the safety reserve under Article 11.
+
+2\. The Central Administrator shall conduct an automated check on each transaction in the Union Registry that results from this Regulation and shall, where necessary, block transactions to ensure that there are no irregularities.
+
+3\. The information referred to in points (a) to (e) of paragraph 1 and in paragraph 2 shall be accessible to the public.
+
+## Article 13 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 7(2) and 12(1) shall be conferred on the Commission for a period of five years from 9 July 2018. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of powers referred to in Articles 7(2) and 12(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Articles 7(2) and 12(1) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 14 — Committee procedure
+
+1\. The Commission shall be assisted by the Climate Change Committee established by Regulation (EU) No 525/2013. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 15 — Review
+
+1\. This Regulation shall be kept under review taking into account, inter alia, evolving national circumstances, the manner in which all sectors of the economy contribute to the reduction of greenhouse gas emissions, international developments and efforts undertaken to achieve the long-term objectives of the Paris Agreement and of Regulation (EU) 2021/1119.
+
+2\. The Commission shall submit a report to the European Parliament and to the Council, within six months of each global stocktake agreed under Article 14 of the Paris Agreement, on the operation of this Regulation, including the balance between supply and demand for annual emission allocations, as well as on the suitability of the national greenhouse gas emission reduction targets contained in Annex I to this Regulation as regards their contribution to the Union’s climate objectives pursuant to Regulation (EU) 2021/1119 and to the goals of the Paris Agreement. That report shall include in particular an assessment of the need for additional Union policies and measures in view of the necessary greenhouse gas emission reductions by the Union and its Member States in a post-2030 framework. It shall also include an assessment of a reduction pathway for the greenhouse gas emissions covered by this Regulation that is compatible with the objective of climate neutrality at the latest by 2050, taking into account the projected indicative Union greenhouse gas budget referred to in Article 4(4) of Regulation (EU) 2021/1119 as well as the importance of promoting both fairness and solidarity among Member States and cost-effectiveness in achieving that objective. That report may be accompanied, if appropriate, by legislative proposals.
+
+The report referred to in the first subparagraph shall take into account the long-term strategies of Member States prepared and submitted pursuant to Article 15(1) of Regulation (EU) 2018/1999 and the assessment thereof made by the Commission pursuant to Article 15(9) of that Regulation.
+
+## Article 15a — Scientific advice
+
+The European Scientific Advisory Board on Climate Change, established under Article 10a of Regulation (EC) No 401/2009 of the European Parliament and of the Council ( 3 ), (the ‘Advisory Board’) may, on its own initiative, provide scientific advice or issue reports on Union measures, climate targets, annual emission levels and flexibilities under this Regulation. The Commission shall consider the relevant advice and reports of the Advisory Board, in particular as regards future measures aiming at further greenhouse gas emission reductions in the sectors covered by this Regulation.
+
+## Article 16 — Amendments to Regulation (EU) No 525/2013
+
+Regulation (EU) No 525/2013 is amended as follows:
+
+(1) in Article 7, paragraph 1 is amended as follows:
+
+(a) the following point is inserted:
+
+‘(aa) as of 2023, their anthropogenic emissions of greenhouse gases referred to in Article 2 of Regulation (EU) 2018/842 of the European Parliament and of the Council ( *1 ) for the year X-2, in accordance with UNFCCC reporting requirements;
+
+(b) the second subparagraph is replaced by the following:
+
+‘In their reports, Member States shall annually inform the Commission of any intention to use the flexibilities set out in Article 5(4) and (5) and Article 7 of Regulation (EU) 2018/842, as well as of the use of revenues in accordance with Article 5(6) of that Regulation. Within three months of receiving such information from Member States, the Commission shall make the information available to the committee referred to in Article 26 of this Regulation.’;
+
+(2) in point (c) of Article 13(1), the following point is added:
+
+‘(ix) as of 2023, information on national policies and measures implemented towards meeting their obligations under Regulation (EU) 2018/842 and information on planned additional national policies and measures envisaged with a view to limiting greenhouse gas emissions beyond their commitments under that Regulation;’;
+
+(3) in Article 14(1), the following point is added:
+
+‘(f) as of 2023, total greenhouse gas projections and separate estimates for the projected greenhouse gas emissions for the emission sources covered by Regulation (EU) 2018/842 and by Directive 2003/87/EC.’;
+
+(4) in Article 21(1), the following point is added:
+
+‘(c) obligations under Article 4 of Regulation (EU) 2018/842. The evaluation shall take into account progress in Union policies and measures and information from Member States. Every two years, the evaluation shall also include the projected progress of the Union towards implementing its Nationally Determined Contribution to the Paris Agreement containing the Union’s commitment to economy-wide greenhouse gas emission reductions and the projected progress of Member States towards fulfilling their obligations under that Regulation.’.
+
+## Article 17 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**MEMBER STATE GREENHOUSE GAS EMISSION REDUCTIONS PURSUANT TO ARTICLE 4(1)**
+
+<table>
+<tbody><tr><td>  </td><td colspan="2">Member State greenhouse gas emission reductions in 2030 in relation to their 2005 levels determined in accordance with Article 4(3)</td></tr>
+<tr><td>  </td><td>Column 1</td><td>Column 2</td></tr>
+<tr><td>Belgium</td><td>-35 %</td><td>-47 %</td></tr>
+<tr><td>Bulgaria</td><td>-0 %</td><td>-10 %</td></tr>
+<tr><td>Czechia</td><td>-14 %</td><td>-26 %</td></tr>
+<tr><td>Denmark</td><td>-39 %</td><td>-50 %</td></tr>
+<tr><td>Germany</td><td>-38 %</td><td>-50 %</td></tr>
+<tr><td>Estonia</td><td>-13 %</td><td>-24 %</td></tr>
+<tr><td>Ireland</td><td>-30 %</td><td>-42 %</td></tr>
+<tr><td>Greece</td><td>-16 %</td><td>-22,7 %</td></tr>
+<tr><td>Spain</td><td>-26 %</td><td>-37,7 %</td></tr>
+<tr><td>France</td><td>-37 %</td><td>-47,5 %</td></tr>
+<tr><td>Croatia</td><td>-7 %</td><td>-16,7 %</td></tr>
+<tr><td>Italy</td><td>-33 %</td><td>-43,7 %</td></tr>
+<tr><td>Cyprus</td><td>-24 %</td><td>-32 %</td></tr>
+<tr><td>Latvia</td><td>-6 %</td><td>-17 %</td></tr>
+<tr><td>Lithuania</td><td>-9 %</td><td>-21 %</td></tr>
+<tr><td>Luxembourg</td><td>-40 %</td><td>-50 %</td></tr>
+<tr><td>Hungary</td><td>-7 %</td><td>-18,7 %</td></tr>
+<tr><td>Malta</td><td>-19 %</td><td>-19 %</td></tr>
+<tr><td>Netherlands</td><td>-36 %</td><td>-48 %</td></tr>
+<tr><td>Austria</td><td>-36 %</td><td>-48 %</td></tr>
+<tr><td>Poland</td><td>-7 %</td><td>-17,7 %</td></tr>
+<tr><td>Portugal</td><td>-17 %</td><td>-28,7 %</td></tr>
+<tr><td>Romania</td><td>-2 %</td><td>-12,7 %</td></tr>
+<tr><td>Slovenia</td><td>-15 %</td><td>-27 %</td></tr>
+<tr><td>Slovakia</td><td>-12 %</td><td>-22,7 %</td></tr>
+<tr><td>Finland</td><td>-39 %</td><td>-50 %</td></tr>
+<tr><td>Sweden</td><td>-40 %</td><td>-50 %</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**MEMBER STATES THAT MAY HAVE A LIMITED CANCELLATION OF EU ETS ALLOWANCES TAKEN INTO ACCOUNT FOR COMPLIANCE PURSUANT TO ARTICLE 6**
+
+<table>
+<tbody><tr><td>  </td><td>Maximum percentage of 2005 greenhouse gas emissions determined in accordance with Article 4(3)</td></tr>
+<tr><td>Belgium</td><td>2 %</td></tr>
+<tr><td>Denmark</td><td>2 %</td></tr>
+<tr><td>Ireland</td><td>4 %</td></tr>
+<tr><td>Luxembourg</td><td>4 %</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Malta</td><td>7 %</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Netherlands</td><td>2 %</td></tr>
+<tr><td>Austria</td><td>2 %</td></tr>
+<tr><td>Finland</td><td>2 %</td></tr>
+<tr><td>Sweden</td><td>2 %</td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**TOTAL NET REMOVALS FROM THE CATEGORIES OF LAND COVERED BY REGULATION (EU) 2018/841 THAT MEMBER STATES MAY TAKE INTO ACCOUNT FOR COMPLIANCE FOR THE PERIOD 2021 TO 2030 PURSUANT TO POINTS (a) AND (aa) OF ARTICLE 7(1) OF THIS REGULATION**
+
+<table>
+<tbody><tr><td>  </td><td>Maximum amount expressed in million tonnes of CO2 equivalent</td></tr>
+<tr><td>Belgium</td><td>3,8 </td></tr>
+<tr><td>Bulgaria</td><td>4,1 </td></tr>
+<tr><td>Czech Republic</td><td>2,6 </td></tr>
+<tr><td>Denmark</td><td>14,6 </td></tr>
+<tr><td>Germany</td><td>22,3 </td></tr>
+<tr><td>Estonia</td><td>0,9 </td></tr>
+<tr><td>Ireland</td><td>26,8 </td></tr>
+<tr><td>Greece</td><td>6,7 </td></tr>
+<tr><td>Spain</td><td>29,1 </td></tr>
+<tr><td>France</td><td>58,2 </td></tr>
+<tr><td>Croatia</td><td>0,9 </td></tr>
+<tr><td>Italy</td><td>11,5 </td></tr>
+<tr><td>Cyprus</td><td>0,6 </td></tr>
+<tr><td>Latvia</td><td>3,1 </td></tr>
+<tr><td>Lithuania</td><td>6,5 </td></tr>
+<tr><td>Luxembourg</td><td>0,25 </td></tr>
+<tr><td>Hungary</td><td>2,1 </td></tr>
+<tr><td>Malta</td><td>0,03 </td></tr>
+<tr><td>Netherlands</td><td>13,4 </td></tr>
+<tr><td>Austria</td><td>2,5 </td></tr>
+<tr><td>Poland</td><td>21,7 </td></tr>
+<tr><td>Portugal</td><td>5,2 </td></tr>
+<tr><td>Romania</td><td>13,2 </td></tr>
+<tr><td>Slovenia</td><td>1,3 </td></tr>
+<tr><td>Slovakia</td><td>1,2 </td></tr>
+<tr><td>Finland</td><td>4,5 </td></tr>
+<tr><td>Sweden</td><td>4,9 </td></tr>
+<tr><td colspan="2"> —————</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Maximum total:</td><td> 262,2   </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**AMOUNT OF ADJUSTMENT PURSUANT TO ARTICLE 10(2)**
+
+Tonnes of CO2 equivalent
+
+Bulgaria 1 602 912
+
+Czech Republic 4 440 079
+
+Estonia 145 944
+
+Croatia 1 148 708
+
+Latvia 1 698 061
+
+Lithuania 2 165 895
+
+Hungary 6 705 956
+
+Malta 774 000
+
+Poland 7 456 340
+
+Portugal 1 655 253
+
+Romania 10 932 743
+
+Slovenia 178 809
+
+Slovakia 2 160 210
+
+( 1 ) Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (‘European Climate Law’) (OJ L 243, 9.7.2021, p. 1).
+
+( 2 ) Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).
+
+( 3 ) Regulation (EC) No 401/2009 of the European Parliament and of the Council of 23 April 2009 on the European Environment Agency and the European Environment Information and Observation Network (OJ L 126, 21.5.2009, p. 13).
+
+( *1 ) Regulation (EU) 2018/842 of the European Parliament and of the Council of 30 May 2018 on binding annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement and amending Regulation (EU) No 525/2013 (OJ L 156, 19.6.2018, p. 26).’;

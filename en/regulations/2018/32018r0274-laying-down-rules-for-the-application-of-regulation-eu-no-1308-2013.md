@@ -1,0 +1,1361 @@
+---
+title: "Commission Implementing Regulation (EU) 2018/274 of 11 December 2017 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, certification, the inward and outward register, compulsory declarations and notifications, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks, and repealing Commission Implementing Regulation (EU) 2015/561"
+identifier: "32018R0274"
+eli: "http://data.europa.eu/eli/reg_impl/2018/274/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2017-12-11
+entry_into_force: 2018-05-13
+last_amended: 2025-03-12
+consolidated_version: "02018R0274-20250312"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0274-20250312"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2018/274 of 11 December 2017 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, certification, the inward and outward register, compulsory declarations and notifications, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks, and repealing Commission Implementing Regulation (EU) 2015/561
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/274**
+
+**of 11 December 2017**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, certification, the inward and outward register, compulsory declarations and notifications, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks, and repealing Commission Implementing Regulation (EU) 2015/561**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/1547 of 23 October 2020 </td><td> L 354</td><td>4</td><td>26.10.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1007 of 18 June 2021 </td><td> L 222</td><td>8</td><td>22.6.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/2567 of 13 October 2022 </td><td> L 330</td><td>139</td><td>23.12.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/340 of 19 February 2025 </td><td> L 340</td><td>1</td><td>20.2.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/274**
+
+**of 11 December 2017**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, certification, the inward and outward register, compulsory declarations and notifications, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks, and repealing Commission Implementing Regulation (EU) 2015/561**
+
+## CHAPTER I — INTRODUCTORY PROVISIONS
+
+#### Article 1 — Subject matter
+
+This Regulation lays down rules for the application of Regulations (EU) No 1306/2013 and (EU) No 1308/2013, respectively, as regards:
+
+(a) the scheme of authorisations for vine plantings;
+
+(b) certification;
+
+(c) the inward and outward register;
+
+(d) compulsory declarations;
+
+(e) checks and the analytical databank of isotopic data;
+
+(f) notifications.
+
+## CHAPTER II — SCHEME OF AUTHORISATIONS FOR VINE PLANTINGS
+
+#### Article 2 — Authorisations for vine plantings
+
+1\. Authorisations for vine plantings as provided for in Chapter III of Title I of Part II of Regulation (EU) No 1308/2013 shall be granted in accordance with this Regulation.
+
+2\. The authorisations for vine plantings referred to in paragraph 1 shall concern new plantings, re-plantings and planting rights to be converted.
+
+3\. The authorisations for new plantings referred to in Article 64 of Regulation (EU) No 1308/2013 shall be granted annually.
+
+#### Article 3 — Prior decisions on areas to be made available for new plantings
+
+1\. Where Member States decide to limit the total area available for new plantings to be allocated in the form of authorisations in accordance with Article 63(2) and (3) of Regulation (EU) No 1308/2013, they shall make public such decisions and the underlying reasons by 1 March of the respective year; their decision shall also include whether they calculate the total area available for new plantings in accordance with Article 63(1), point (a), or with Article 63(1), point (b), of that Regulation.
+
+2\. Member States may fix a deadline for the submission of recommendations from professional organisations or interested groups of producers as referred to in Article 65 of Regulation (EU) No 1308/2013, in order to ensure that these recommendations are presented with sufficient time for their examination before the decision to limit the total area available for new plantings referred to in paragraph 1 is taken by the Member State concerned. These recommendations received shall also be made public.
+
+#### Article 4 — Criteria for granting authorisations for new plantings
+
+1\. Where Member States decide to use criteria for granting authorisations for new plantings as laid down in Article 64(1) and (2) of Regulation (EU) No 1308/2013, such decisions shall be made public by 1 March of the respective year.
+
+2\. The decisions referred to in paragraph 1 shall concern:
+
+(a) the application of one or more of the criteria listed in the second subparagraph of Article 64(1) of Regulation (EU) No 1308/2013, including due justification in case Member States decide to apply Article 64(1)(d) of that Regulation, as well as the criteria set in Article 4(1) of Delegated Regulation (EU) 2018/273;
+
+(b) the number of hectares available for granting authorisations at national level:
+
+(i) on a pro rata basis;
+
+(ii) according to priority criteria listed in Article 64(2) of Regulation (EU) No 1308/2013, as well as in Article 4(3) of Delegated Regulation (EU) 2018/273.
+
+3\. Where Member States intend to apply the priority criteria referred to in paragraph 2, point (b)(ii), they shall define which of these priority criteria will be applied and whether they will be applied at national or regional level. Member States may also decide to attribute different importance to each of the priority criteria chosen. Such decisions shall enable Member States to establish a ranking of individual applications at national or regional level for the granting of the number of hectares pursuant to paragraph 2, point (b)(ii), based on the compliance of these applications with the priority criteria chosen.
+
+#### Article 5 — Default rules for new plantings
+
+1\. Where Member States do not make public the decisions referred to in Articles 3 and 4 by 1 March of the respective year, the following rules for granting authorisations for new plantings shall apply for the given year:
+
+(a) availability of authorisations for new plantings corresponding to 1 % of the total area actually planted with vines in their territory, as specified in Article 63(1) of Regulation (EU) No 1308/2013, and without other limits;
+
+(b) pro rata distribution of hectares to all eligible applicants on the basis of the area for which they have requested the authorisation, where applications exceed the area made available.
+
+2\. Member States shall ensure that the information on the rules applicable to granting authorisations in a given year pursuant to paragraph 1 is made public.
+
+#### Article 6 — Submission of applications for new plantings
+
+1\. Once the decisions referred to in Articles 3 and 4 or the information on the rules applicable to granting authorisations in a given year referred to in Article 5(2) are made public and not later than 1 May, Member States shall open the period of at least one month for the submission of individual applications.
+
+2\. Applications shall indicate the specific size and location of the area in the applicant's holding for which the authorisation is requested.
+
+Where no decision on limits or on the criteria to be applied was taken in accordance with Articles 3 and 4, Member States may exempt applicants from the requirement to indicate in the application the specific location of the area in the applicant's holding for which the authorisation is requested. Member States may request, where relevant for the implementation of the scheme of authorisations, additional information from applicants.
+
+3\. Where Member States decide to use certain criteria for the granting of authorisations for new plantings in accordance with Article 4, the following rules shall apply:
+
+(a) eligibility criteria referred to in Article 64(1)(c) of Regulation (EU) No 1308/2013 and in Article 4(1) of Delegated Regulation (EU) 2018/273: applications shall indicate the grapevine product(s) the applicant intends to produce in the newly planted area(s), specifying whether the applicant intends to produce one or more of the following:
+
+(i) wines with a protected designation of origin (‘PDO’);
+
+(ii) wines with a protected geographical indication (‘PGI’);
+
+(iii) wines without geographical indication, including with an indication of the wine grape variety;
+
+(aa) priority criterion referred to in Article 64(2), point (b), of Regulation (EU) No 1308/2013: if applicable, applications shall indicate the grapevine variety the applicant intends to grow in the newly planted area(s), which must be listed in a list of varieties eligible for the conservation of the genetic resources of vines established and made public by the competent authority of the Member State concerned and which have been classified in accordance with Article 81(2) of that Regulation;
+
+(b) priority criterion referred to in Article 64(2)(e) of Regulation (EU) No 1308/2013: applications shall include information of an economic nature demonstrating the economic sustainability of the respective project on the basis of one or more of the standard methodologies of financial analysis for agricultural investment projects mentioned in Part E of Annex II to Delegated Regulation (EU) 2018/273;
+
+(c) priority criterion referred to in Article 64(2), point (f), of Regulation (EU) No 1308/2013: applications shall include information of an economic nature demonstrating the increased cost-efficiency or competitiveness or presence on the markets of the holding on the basis of the considerations laid down in Part F of Annex II to Delegated Regulation (EU) 2018/273;
+
+(d) priority criterion referred to in Article 64(2)(g) of Regulation (EU) No 1308/2013: applications shall include information demonstrating the potential for the improvement of products with geographical indications on the basis of one of the conditions laid down in Part G of Annex II to Delegated Regulation (EU) 2018/273;
+
+(e) priority criterion referred to in Article 64(2), point (h), of Regulation (EU) No 1308/2013: applications shall include information showing that the size of the area of vineyard parcels of the applicant’s holding not benefiting from the exemptions laid down in Article 62(4) of Regulation (EU) No 1308/2013 complies, at the time of the application, with thresholds to be established by Member States on the basis of the provisions laid down in Part H of Annex II to Delegated Regulation (EU) 2018/273;
+
+(f) where Member States require applicants to undertake the commitments referred to in Parts A and B of Annex I and Parts A, B, D, E, F, G and point II of Part I of Annex II to Delegated Regulation (EU) 2018/273 in relation to the respective criteria, applications shall include those commitments.
+
+Where any of the elements mentioned in points (a) to (f) of the first subparagraph may be gathered directly by Member States, Member States may exempt applicants from including such elements in their applications.
+
+4\. After the expiry of the submission period referred to in paragraph 1, Member States shall inform the non-eligible applicants on the non-eligibility of their applications pursuant to the decision on the eligibility criteria adopted by Member States in accordance with Article 4. Such applications shall be excluded from the subsequent steps of the procedure.
+
+#### Article 7 — Granting of authorisations for new plantings
+
+1\. Where the total area covered by the eligible applications submitted does not exceed the area(s) made available in accordance with Article 3(1), Member States shall grant the authorisations to the full extent applied for by producers.
+
+2\. Where the total area covered by the eligible applications submitted exceeds the area(s) made available in accordance with Article 3(1), Member States shall apply the selection procedure laid down in Annex I.
+
+Member States shall, not later than 1 August, grant the authorisations to the selected applicants according to the outcome of the selection procedure referred to in the first subparagraph. Where eligible applications have not been fully satisfied, applicants shall be informed of the reasons for such decision.
+
+3\. Where the authorisation granted corresponds to less than 50 % of the area requested in the respective application, the applicant may refuse such authorisation within one month following the date on which the authorisation was granted.
+
+In the case referred to in the first subparagraph, the applicant shall not be subject to the administrative penalties referred to in Article 62(3) of Regulation (EU) No 1308/2013. Member States may decide that the corresponding number of hectares is made available in the same year, not later than 1 October, for authorisations to be granted to applicants that were granted only a part of the area they requested in accordance with the outcome of the selection procedure referred to in paragraph 2, and which did not refuse the corresponding authorisations. Member States may also decide to make available those hectares in the following year in addition to the 1 % of the total area planted with vines as provided for in Article 63(1) of Regulation (EU) No 1308/2013.
+
+#### Article 8 — Restrictions of the granting of authorisations for replantings
+
+1\. Where Member States decide to restrict the granting of authorisations for replantings in areas eligible for the production of wines with a PDO or a PGI in accordance with Article 66(3) of Regulation (EU) No 1308/2013 and Article 6 of Delegated Regulation (EU) 2018/273, they shall make such decisions public by 1 March.
+
+Professional organisations or interested groups of producers referred to in Article 65 of Regulation (EU) No 1308/2013 shall present the recommendations to be taken into account by the Member State pursuant to that Article 66(3) with sufficient time for their examination before the decision referred to in the first subparagraph is taken. The Member State concerned shall make public those recommendations.
+
+2\. The decisions referred to in paragraph 1 shall apply during one year from the date on which they were made public.
+
+Where a recommendation from a professional organisation or an interested group of producers is made for a period of time longer than one year but no more than three years, as provided for in the second subparagraph of Article 65 of Regulation (EU) No 1308/2013, such decisions may also apply for a period of time up to three years.
+
+Where such professional organisations or interested groups of producers do not submit the relevant recommendations with sufficient time for their examination as provided for in paragraph 1, or Member States do not make public the relevant decisions by 1 March, Member States shall automatically authorise the replanting as provided for in Article 9.
+
+#### Article 9 — Procedure for granting authorisations for replantings
+
+1\. Applications for authorisation for replantings referred to in Article 66(1) of Regulation (EU) No 1308/2013 may be submitted at any time during the same wine year in which the grubbing up takes place. However, Member States may decide to fix a deadline for the submission of applications for authorisation for replanting which shall not exceed the end of the fifth wine year following the one in which the grubbing up took place.  Where those time-periods are not respected, Member States shall not grant an authorisation for replanting.
+
+The specific size and the location of the area(s) grubbed up and of the area(s) to be replanted in the same applicant's holding for which the authorisation is to be granted shall be identified in the applications. Where no restrictions are decided in accordance with Article 8, and the applicant has not undertaken any of the commitments referred to in point (2)(b) of Part A and point (2)(b) of Part B of Annex I to Delegated Regulation (EU) 2018/273 and in point (4) of Part B and Part D of Annex II to that Delegated Regulation, Member States may exempt applicants from the requirement to indicate in the application the specific location of area(s) to be replanted for which the authorisation is to be granted. Member States may request, where relevant for the implementation of the scheme of authorisations, additional information from applicants.
+
+Member States shall automatically grant authorisations within three months from the submission of the applications. However, Member States may decide to apply the time-periods referred to in Articles 6 and 7 for the submission of applications and granting of authorisations for new plantings, respectively.
+
+2\. Where the area to be replanted corresponds to the same area grubbed up or where no restrictions are decided in accordance with Article 8(1), a simplified procedure may be applied at national level or for certain areas within the territory of the Member State. In such case, the authorisation for replanting may be considered to have been granted on the date the area was grubbed up. To this purpose, the producer concerned shall submit, at the latest by the end of the wine year in which the grubbing up was undertaken, an ex post communication which stands as application for authorisation.
+
+3\. Applications for authorisations for replantings referred to in Article 66(2) of Regulation (EU) No 1308/2013 may be submitted at any time during the year.
+
+The specific size and the location of the area(s) to be grubbed up and of the area(s) to be replanted in the same applicant's holding for which the authorisation is to be granted shall be identified in the applications. Applications shall also include the commitment to grub up the area planted with vines at the latest by the end of the fourth year from the date on which new vines have been planted. Member States may request, where relevant for the implementation of the scheme of authorisations, additional information from applicants.
+
+Member States shall automatically grant authorisations within three months as from the submission of the application. However, Member States may decide to apply the time periods referred to in Articles 6 and 7 for the submission of applications and granting of authorisations for new plantings, respectively.
+
+#### Article 10 — Procedure for granting the authorisations according to the transitional provisions
+
+1\. Where, in accordance with the second subparagraph of Article 68(1) of Regulation (EU) No 1308/2013, Member States decided to extend the time period to submit the request for the conversion of planting rights into authorisations beyond 31 December 2015, and made that decision public by 14 September 2015, the requests for conversion by the producer may be submitted at any time until the end of the time period fixed by Member States in that decision.
+
+The specific size and location of the area in the applicant's holding for which the authorisation is to be granted shall be identified in the applications. Member States may exempt applicants from the requirement to indicate in the application the specific location of the area in the applicant's holding for which the authorisation is to be granted. Member States may request, where relevant for the implementation of the scheme of authorisations, additional information from applicants.
+
+2\. After verifying that the planting rights for which the conversion has been requested in accordance with paragraph 1 are still valid, Member States shall grant the authorisations automatically. The period between the submission of the request to convert and the granting of the authorisations shall not exceed three months.
+
+3\. Where Member States decide to make available authorisations pursuant to Article 68(2a) of Regulation (EU) No 1308/2013, in addition to the 1 % of the total area planted with vines as provided for in Article 63(1) of that Regulation, they shall notify the Commission of the area covered by those additional authorisations by 1 March in the years 2023, 2024 and 2025.
+
+#### Article 11 — Modification of the specific area for which the authorisation is granted
+
+In duly justified cases, Member States may decide, at the request of the applicant, that a vine planting may be made in an area of the holding which is different from the specific area for which the authorisation has been granted provided that the new area has the same size in hectares and that the authorisation is still valid in accordance with Article 62(3) of Regulation (EU) No 1308/2013.
+
+The first paragraph shall not apply where authorisations have been granted on the basis of the compliance with specific eligibility or priority criteria linked to the location indicated in the application and the request for modification indicates a new specific area outside such location.
+
+## CHAPTER III — CERTIFICATION OF WINE PRODUCTS
+
+#### Article 12 — Procedure and technical criteria applicable to certification
+
+1\. The procedure for the certification, approval and verification of wine without a PDO or PGI pursuant to Article 120(2)(a) of Regulation (EU) No 1308/2013 shall require administrative evidence to support the veracity of the wine grape variety(-ies) or the vintage year shown on the label or conveyed in the presentation of the wines concerned.
+
+In addition, Member States may decide on:
+
+(a) an organoleptic test of the wine relating to the odour and the taste with the view to verifying that the essential characteristic of the wine is due to the wine grape variety or varieties used on anonymous samples;
+
+(b) an analytical test in case of a wine made from a single wine grape variety.
+
+The procedure shall be carried out in the Member State in which the wine is produced. In case of mixtures of wines from different Member States as referred to in Article 120(2)(c) of Regulation (EU) No 1308/2013, certification may be carried out by any of the Member States concerned.
+
+2\. The certification shall be carried out through random and risk based checks, in accordance with Articles 36 and 37 of Delegated Regulation (EU) 2018/273 and Chapter VI of this Regulation.
+
+The costs of the certification shall be borne by the operators subject to it, save where Member States decide otherwise.
+
+3\. The operators involved in the marketing of wine products produced, processed or bottled by them shall be recognised and receive a permit from the competent authorities of the Member States to certify the origin or provenance, the characteristics, the vintage or the wine grape variety(-ies) in accordance with Articles 11 and 12 of Delegated Regulation (EU) 2018/273, under supervision of the competent authorities designated in accordance with Article 146 of Regulation (EU) No 1308/2013.
+
+## CHAPTER IV — INWARD AND OUTWARD REGISTER
+
+#### Article 13 — Scope and form of the register
+
+1\. Operators required to keep the inward and outward register, in this Chapter referred to as ‘the register’, shall record:
+
+(a) the entry and withdrawal of each batch of wine products referred to in Article 147(2) of Regulation (EU) No 1308/2013 to or from their premises;
+
+(b) the category of product, as specified in Article 14;
+
+(c) the operations specified in Article 29 of Delegated Regulation (EU) 2018/273 where they are carried out on their premises.
+
+For each annotation in the register, operators referred to in the first subparagraph must be able to present one of the accompanying documents referred to in Article 10 of Delegated Regulation (EU) 2018/273 or any other commercial document which has accompanied the relevant consignment.
+
+2\. The register shall take one of the following forms:
+
+(a) fixed leaves numbered consecutively;
+
+(b) an electronic record presented in accordance with the detailed rules laid down by the competent authorities;
+
+(c) a suitable modern accounting system, approved by the competent authorities;
+
+(d) a collection of accompanying documents containing the date on which they were drawn up or taken over by merchants.
+
+However, Member States may provide that the register kept by producers may take the form of notes on the reverse side of the production, stock or harvest declarations provided for in Chapter VI of Delegated Regulation (EU) 2018/273.
+
+#### Article 14 — Products to be entered in the register
+
+1\. For products to be entered in the register, separate accounts shall be kept for:
+
+(a) each of the categories listed in Part II of Annex VII to Regulation (EU) No 1308/2013, by distinguishing:
+
+(i) each wine with a PDO and products intended for processing into such a wine;
+
+(ii) each wine with a PGI and products intended for processing into such a wine;
+
+(iii) each wine not covered by a PDO or PGI produced with a single wine grape variety and the products intended for processing into such a wine, with the reference of the classification of the wine grape variety adopted by the Member State pursuant to Article 81 of Regulation (EU) No 1308/2013 and with the indication of the vintage year;
+
+(iv) each wine not covered by a PDO or PGI produced with two or more wine grape varieties and the products intended for processing into such a wine, with the indication of the vintage year;
+
+(v) each product not complying with oenological practices and restrictions provided for in Article 80 of Regulation (EU) No 1308/2013 or in Regulation (EC) No 606/2009 which has to be destroyed in accordance with Article 10 of Regulation (EC) No 606/2009;
+
+(b) each of the following products held for whatever purpose:
+
+(i) sucrose;
+
+(ii) concentrated grape must;
+
+(iii) rectified concentrated grape must;
+
+(iv) products used for acidification;
+
+(v) products used for de-acidification;
+
+(vi) spirits distilled from wine;
+
+(vii) each by-product of wine products which has to be disposed of in accordance with Section D of Part II of Annex VIII to Regulation (EU) No 1308/2013 and Articles 14a and 14b of Regulation (EC) No 606/2009, with indication whether it concerns delivery for distillation, vinegar production or specific use not involving wine making.
+
+2\. By way of derogation from paragraph 1(a), different PDO or PGI wines put up in containers of no more than 60 litres labelled in accordance with Union legislation that are acquired from a third party and held with a view to sale may be recorded in the same account, provided that entries and withdrawals of each wine with a PDO or PGI appear separately.
+
+3\. Loss of the use of the PDO or PGI shall be recorded in the register. The products concerned shall be moved to one of the accounts of wines without PDO or PGI.
+
+#### Article 15 — Information on the wines products to be included in the register
+
+1\. For every entry or withdrawal of products referred to in Article 14(1)(a), the register shall give:
+
+(a) the lot number of the product [where such a number is] required under Union or national law;
+
+(b) the date of the operation;
+
+(c) the quantity entered or withdrawn;
+
+(d) the product concerned, described in accordance with the relevant Union or national law;
+
+(e) a reference to the accompanying document or certificate which accompanies or accompanied the consignment in question in accordance with Articles 10, 11 and 20 of Delegated Regulation (EU) 2018/273, except for the cases referred to in Article 9 of that Regulation.
+
+2\. For the wines referred to in points 1 to 9, 15 and 16 of Part II of Annex VII to Regulation (EU) No 1308/2013, the entry in the register kept by the operators shall contain the optional particulars set out in Article 120 of that Regulation provided that they are shown on the labelling or it is planned to show them on the labelling.
+
+3\. The containers for storing the wines referred to in paragraph 2 shall be identified in the register and their nominal volume shall be indicated. The containers shall also bear the relevant particulars required by the Member States to allow the competent authorities to identify their contents using the register.
+
+However, in the case of containers of 600 litres or less, filled with the same product and stored together in the same lot, the lot as a whole may be marked rather than the individual containers, provided that it is clearly separated from other lots.
+
+4\. In the cases of previous consignments of a product, a reference to the document under cover of which the product was previously transported shall be recorded in the register.
+
+#### Article 16 — Information concerning the operations to be included in the register
+
+1\. For each of the operations specified in Article 29 of Delegated Regulation (EU) 2018/273, the register shall include:
+
+(a) the operations carried out;
+
+(b) in case of the operations referred to in points (a), (b) and (c) of Article 29(2) of Delegated Regulation (EU) 2018/273:
+
+(i) the date of the operation;
+
+(ii) the nature and quantities of the products used;
+
+(iii) the quantity of product obtained from the operation, including the alcohol produced by the correction of alcohol content of wine and the quantity of sugar contained in the sugar solution removed from the initial must;
+
+(iv) the quantity of product used in increasing the alcoholic strength, acidification and de-acidification and sweetening;
+
+(v) the description of the products before and after the operation, in accordance with the relevant Union or national law;
+
+(c) the markings on the containers in which the products entered in the register were contained before the operation and are contained after the operation;
+
+(d) in the case of bottling, the number of containers filled and their content;
+
+(e) in the case of contract bottling, the name and address of the bottler.
+
+2\. Where a product changes category without undergoing one of the operations referred to in Article 29 of Delegated Regulation (EU) 2018/273, in particular in the case of fermentation of grape must, the quantities and the type of product obtained after the change shall be noted in the register.
+
+#### Article 17 — Information concerning sparkling wines and liqueur wines to be included in the register
+
+1\. For the production of sparkling wine, the registers shall show, for each cuvée prepared:
+
+(a) the date of preparation;
+
+(b) the date of bottling for all categories of quality sparkling wine;
+
+(c) the volume of the cuvée and the description, volume and actual and potential alcoholic strength of each of its constituents;
+
+(d) the amount of tirage liqueur used;
+
+(e) the amount of expedition liqueur;
+
+(f) the number of containers obtained, specifying where appropriate the type of sparkling wine, using a term relating to its residual sugar content, provided the term appears on the label.
+
+2\. For the production of liqueur wine, the registers shall show for each batch being prepared:
+
+(a) the date of addition of any of the products listed in point (3)(e) and (f) of Part II of Annex VII to Regulation (EU) No 1308/2013;
+
+(b) the type and volume of the product added.
+
+#### Article 18 — Information on specific products to be included in the register
+
+1\. The separate accounts for the products referred to in Article 14(1)(b) shall show for each product:
+
+(a) in the case of entries:
+
+(i) the name and address of the supplier referring, where appropriate, to the document which accompanied the transport of the product;
+
+(ii) the quantity concerned;
+
+(iii) the date of entry;
+
+(b) in the case of withdrawals:
+
+(i) the quantity concerned;
+
+(ii) the date of use or withdrawal;
+
+(iii) where appropriate, the name and address of the consignee.
+
+2\. As regards by-products or wine products to be withdrawn in accordance with Articles 14a(2) and 14b of Regulation (EC) No 606/2009, the quantities to be recorded in the register are those estimated by the operators concerned in accordance with Article 14a of that Regulation.
+
+#### Article 19 — Losses and personal or family consumption
+
+1\. Member States shall determine the maximum acceptable percentages for losses from evaporation during warehousing, processing operations or changes in product category.
+
+2\. The holder of the register shall report losses in writing, within a period laid down by the Member States, to the competent authority for the territory in question, where actual losses exceed:
+
+(a) during transport, the tolerances referred to in point 2.1(d) of Part B of Annex V to Delegated Regulation (EU) 2018/273; and
+
+(b) in the cases referred to in the first paragraph, the maximum percentages set by the Member States.
+
+The competent authority referred to in first subparagraph shall take the necessary measures to investigate the losses.
+
+3\. Member States shall specify how particulars are to be recorded in the register concerning:
+
+(a) the personal consumption of the producer and his family;
+
+(b) any accidental changes in the volume of products.
+
+#### Article 20 — Deadlines for particulars to be recorded in the register
+
+1\. The particulars referred to in Article 14(1)(a) and Articles 15 and 19 shall be recorded in the register:
+
+(a) in the case of entries, not later than the working day following receipt; and
+
+(b) in the case of losses, personal and family consumption or withdrawals, not later than the third working day following the recognition, consumption or dispatch.
+
+2\. The particulars referred to in Article 29(1) and (2) of Delegated Regulation (EU) 2018/273 and Articles 16 and 17 of this Regulation shall be recorded in the register:
+
+(a) not later than the working day following the operation; and
+
+(b) in the case of enrichment, on the day itself.
+
+3\. The particulars referred to in Article 14(1)(b) and Article 18 of this Regulation shall be recorded in the register:
+
+(a) in the case of entries and withdrawals, not later than the working day following receipt or dispatch; and
+
+(b) in the case of use, on the day of use.
+
+4\. However, Member States may authorise longer deadlines not exceeding 30 days, particularly where computerised registers are used, provided that a check can still be made on entries, withdrawals and the operations referred to in Article 29(1) and (2) of Delegated Regulation (EU) 2018/273 at any time on the basis of other supporting documents and that these documents are considered reliable by the competent authorities.
+
+As regards enrichment operations referred to in Article 29(2)(b) of Delegated Regulation (EU) 2018/273, Member States may require that they are recorded in the register before the enrichment operation is performed.
+
+5\. By way of derogation from paragraphs 1, 2 and 3, withdrawals of the same product may be recorded in the register in the form of a monthly total where the product is put up solely in containers of a nominal volume of 10 litres or less fitted with a non-reusable closing device as referred to in Article 9(1)(e)(i) of Delegated Regulation (EU) 2018/273.
+
+#### Article 21 — Closure of the register
+
+The register shall be closed by establishing an annual balance sheet once a year, on a date to be set by the Member States. An inventory of stocks shall be drawn up in the context of the annual balance sheet. Existing stocks shall be carried forward to the next annual period. They shall be recorded as an entry in the register at a date following the annual balance sheet. If the annual balance sheet shows differences between the stocks resulting from the balance sheet and the existing stocks, this shall be noted in the closed books.
+
+## CHAPTER V — DECLARATIONS
+
+#### Article 22 — Production declarations
+
+1\. Producers shall submit the production declaration referred to in Article 31 of the Delegated Regulation (EU) 2018/273 as regards the production of the current wine year by 15 January of each year. Member States may set an earlier date or, for late harvests and specific wine productions, a date not later than 1 March.
+
+2\. The production declaration referred to in paragraph 1 shall contain at least the following information:
+
+(a) identity of the producer;
+
+(b) place where products are held;
+
+(c) category of products used for wine production: grapes, grape must (concentrated, rectified concentrated or partially fermented), or new wines still in fermentation;
+
+(d) name and address of suppliers;
+
+(e) areas planted with vines under production, including those for experimental purposes, in which the grapes originate, indicated in hectares and with reference to the location of the vineyard parcel;
+
+(f) volume, indicated in hectolitres or 100 kg, of the wine products obtained since the beginning of the wine year and held at the date of the declaration, broken down by colour (red/rosé or white), category of products used (grapes, new wines still in fermentation, must, including partially fermented but excluding concentrated and rectified concentrated), and one of the following types:
+
+(i) wine with a PDO;
+
+(ii) wine with a PGI;
+
+(iii) varietal wine without PDO/PGI;
+
+(iv) wine without PDO/PGI;
+
+(v) all other products of the wine year, including concentrated must, rectified concentrated must.
+
+Member States may authorise the submission of one declaration per winemaking establishment.
+
+3\. The quantity of wine to be stated in the production declaration shall be the total quantity obtained on completion of the principal alcoholic fermentation, including the wine lees.
+
+To convert quantities of products other than wine into hectolitres of wine, Member States may set coefficients according to objective criteria relevant for the conversion. Member States shall notify the Commission of the coefficients along with the notifications referred to in Point 8 of Annex III to Implementing Regulation (EU) 2017/1185.
+
+4\. Member States shall require harvesters and merchants who market products intended for the production of wine to provide producers with the data required for filling in the production declarations.
+
+#### Article 23 — Stock declarations
+
+1\. Producers, processors, bottlers and merchants shall submit the stock declaration referred to in Article 32 of Delegated Regulation (EU) 2018/273 by 10 September. Member States may set an earlier date.
+
+2\. Such declaration shall contain at least the following information:
+
+(a) the identity of the producers, processors, bottlers or merchants;
+
+(b) the place where the products are held;
+
+(c) in relation to wines, overall stocks broken down by colour (red/rosé or white), type of wine (with PDO, with PGI, varietal without PDO/PGI or without PDO/PGI), origin (Union or third countries) and type of stock holder (producer or merchant);
+
+(d) in relation to must, overall stocks broken down by colour (red/rosé or white), type of grape must (concentrated, rectified concentrated or other), type of stock holder (producer or merchant).
+
+Union wine products produced from grapes harvested during the same calendar year shall not be included in this declaration.
+
+#### Article 24 — Harvest declarations
+
+1\. Where Member States require the harvest declaration referred to in Article 33(1) of Delegated Regulation (EU) 2018/273, harvesters shall submit that declaration by 15 January. Member States may set an earlier date or, for late harvests, not later than 1 March.
+
+2\. Such declaration shall contain at least the following information, broken down according to the categories laid down in point 1.2(3) of Annex III to Delegated Regulation (EU) 2018/273:
+
+(a) identity of the harvester (in accordance with the information required at point 1.1(1) of Annex III to Delegated Regulation (EU) 2018/273);
+
+(b) area planted with vines under production (in hectares and with reference to the location of the vineyard parcel);
+
+(c) quantity of grapes harvested (in 100 kg);
+
+(d) destination of the grapes (in hectolitres or 100 kg):
+
+(i) made into wine by the declarant, as a producer;
+
+(ii) delivered to a cooperative winery (as grapes or must);
+
+(iii) sold to a wine producer (as grapes or must);
+
+(iv) other destinations (as grapes or must).
+
+#### Article 25 — Notifications and centralisation of information
+
+The information contained in production and stock declarations in accordance with Articles 22 and 23 and harvest declarations in accordance with Article 24 of this Regulation and treatment or marketing declarations in accordance with Article 34 of Delegated Regulation (EU) 2018/273, where applicable, shall be centralised at national level.
+
+Member States shall lay down the form and manner in which this information shall be notified to them.
+
+## CHAPTER VI — PROVISIONS ON CHECKS
+
+### SECTION I — COMMON RULES
+
+#### Article 26 — Samples for checking purposes
+
+1\. For the purposes of Chapter VII of Delegated Regulation (EU) 2018/273, the liaison body of a Member State may request the liaison body of another Member State to collect samples in accordance with the instructions set out in Annex II to this Regulation.
+
+2\. The requesting body shall hold the samples collected and shall determine, inter alia, the laboratory where they are to be analysed.
+
+### SECTION II — ANALYTICAL DATABANK OF ISOTOPIC DATA
+
+#### Article 27 — Samples for the analytical databank
+
+1\. For the establishment of the analytical databank of isotopic data referred to in Article 39 of Delegated Regulation (EU) 2018/273, Member States shall ensure that samples of fresh grapes that are to be analysed by the designated laboratories of the Member States are taken, treated and processed into wine in accordance with the instructions set out in Part I of Annex III to this Regulation.
+
+2\. The samples of fresh grapes shall be taken from vineyards situated in a wine-growing area of clearly defined soil type, situation, vine training system, variety, age and cultural practices.
+
+3\. The number of samples to be taken each year for the databank is set out in Part II of Annex III. The selection of samples shall take account both of the geographical situation of vineyards in the Member States listed in Part II of Annex III and of the proportion of wines with a PDO or PGI per Member State or region. Each year, at least 25 % of the samples shall be taken from the same plots as in the previous year.
+
+3a. Member States may decide, where appropriate, that the samples of the grapes cultivated for the production of wines with a PDO or PGI may be taken by the entity managing the PDO or the PGI. In this case, the sampling shall be coordinated by the designated laboratories of the Member States in accordance with the instructions set out in Section A of Part I of Annex III.
+
+4\. The samples shall be analysed by the methods set out by the Commission pursuant to Article 80(5) of Regulation (EU) No 1308/2013 and Article 15 of Regulation (EC) No 606/2009 by laboratories designated by the Member States. The designated laboratories shall meet the general criteria for the operation of testing laboratories set out in ISO/IEC 17025:2005, and shall in particular take part in a system of proficiency tests covering methods of isotopic analysis. The laboratories shall provide the evidence of compliance with these criteria in writing to the European reference centre for control in the wine sector (‘ERC-CWS’) for the purpose of quality control and validation of the data provided.
+
+5\. The laboratories shall draw up an analysis report in accordance with Part IV of Annex III and a description sheet for each sample in accordance with the questionnaire in Part III of Annex III.
+
+6\. The laboratories shall submit the data collected, together with a copy of the analysis report with the results and interpretation of the analyses along with a copy of the description sheet, electronically, to the ERC-CWS and not later than [31 October] of the year following the grape harvest.
+
+7\. Member States and the ERC-CWS shall:
+
+(a) preserve data in the analytical databank;
+
+(b) keep each of the samples for at least three years from the date the sample is taken;
+
+(c) use the databank only for monitoring the application of Union and national wine legislation or for statistical or scientific purposes;
+
+(d) take measures to safeguard the data, in particular against theft and interference;
+
+(e) make files available, without undue delay or cost, to those who generated the information contained in the files so that any inaccuracies can be rectified.
+
+8\. The ERC-CWS shall draw up and update on a yearly basis the list of the Member States laboratories designated for the preparation of samples and the measurements for the analytical databank.
+
+#### Article 28 — Communication of information contained in the analytical databank in case of suspected non-compliance with Union rules in the wine sector
+
+1\. The information contained in the analytical databank of isotopic data shall be made available on request to the laboratories designated by the Member States.
+
+2\. Whenever needed for scientific, statistical, control or judicial purposes in duly substantiated cases, the information referred to in paragraph 1, when representative, may be made available on request to the competent authorities designated by Member States for ensuring compliance with Union rules in the wine sector and to national courts. This information shall be used only for the purposes for which it is requested and shall be treated as confidential.
+
+2a. In case of a control in a Member State, for which reference data from the analytical databank of isotopic data related to wine produced in another Member State is needed, the competent authority of the Member State shall request the ERC-CWS to contact the designated laboratory of the Member State in which the wine under investigation is produced, in order to verify the suspicion using all relevant data available. That designated laboratory shall, within 1 month from the date of receipt of the request, verify whether the wine in question is compliant with Union rules in the wine sector. Where this deadline cannot be respected for duly justified reasons, the designated laboratory shall inform the ERC-CWS accordingly and the ERC-CWS shall then:
+
+(i) extract the relevant reference isotopic measurement data relating to the wine in question from the analytical databank of isotopic data, and provide them to the requesting body; or
+
+(ii) if the relevant reference isotopic measurement data cannot be extracted from the analytical databank of isotopic data, but the required samples are made available to the ERC-CWS upon request, provide analytical support, including the results of the relevant isotopic measurement data relating to the wine in question, to the requesting body,
+
+within 1 month from the moment it becomes clear that the initial deadline cannot be complied with. In both cases, the relevant isotopic measurement data shall be interpreted and supplied at the latest within 2 months from the date of receipt of the request by the competent authority of the Member State where the suspect wine was produced.
+
+3\. Information made available shall relate only to the relevant analytical data required to interpret an analysis carried out on a sample of comparable characteristics and origin. Any notification of information made available shall be accompanied by a reminder of the conditions of use of the databank as referred to in Article 27(7)(c).
+
+4\. The ERC-CWS shall publish an annual report, in an anonymous way, on the main results of the requests received in accordance with paragraphs 1 and 2 and on the main findings of the checks carried out by Member States in their territory making use of the analytical databank of isotopic data. The ERC-CWS shall ensure that this report does not include any commercially sensitive information. Those findings shall be reported to the ERC-CWS before the end of March of the year following the reporting period, and the ERC-CWS shall publish the report within 2 months.
+
+#### Article 29 — National databanks of isotopic data
+
+The results of isotopic analyses contained in the databanks of Member States shall be obtained by analysing samples taken and treated in accordance with Article 27.
+
+### SECTION III — SPECIFIC PROVISIONS ON CHECKS
+
+#### Article 30 — Checks for the scheme of authorisations for vine plantings
+
+For the purposes of verifying compliance with the rules set out in Chapter III of Title I of Part II of Regulation (EU) No 1308/2013, Chapter II of Delegated Regulation (EU) 2018/273 and Chapter II of this Regulation, Member States shall make use of the vineyard register referred to in Article 145 of Regulation (EU) No 1308/2013.
+
+#### Article 31 — Verification of the information in the vineyard register
+
+1\. Member States shall make available the data in the vineyard register for the purposes of monitoring and verifying the measures financed under the national support programme referred to in Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 to which they relate.
+
+2\. As regards areas planted with vines, at least the following checks shall be carried out in order to maintain an updated vineyard register:
+
+(a) administrative checks applied to all wine growers identified in the vineyard register who:
+
+(i) have activated an authorisation of planting or replanting or made a registration or a modification of data in the vineyard register following an application or a notification submitted concerning the scheme of authorisations for vine plantings;
+
+(ii) submit an application for the measures ‘restructuring and conversion of vineyards’ or ‘green harvesting’ under a national support programme referred to in Articles 46 and 47 of Regulation (EU) No 1308/2013;
+
+(iii) submit one of the declarations referred to in Articles 31, 32 and 33 of Delegated Regulation (EU) 2018/273.
+
+(b) annual on-the-spot checks on at least 5 % of all wine growers identified in the vineyard register.
+
+Where the wine growers selected for the sample are subject in the same year to on-the-spot checks in the framework of the measures referred to in point (a)(i) and (ii), such on-the-spot checks shall be counted for reaching the 5 % yearly threshold without the need to repeat them.
+
+(c) systematic on-the-spot checks shall be carried out in areas planted with vines which are not included in any wine grower file as laid down in Annex IV to Delegated Regulation (EU) 2018/273.
+
+#### Article 32 — Checks concerning the declarations
+
+As regards the declarations referred to in Articles 31 to 34 of Delegated Regulation (EU) 2018/273, Member States shall carry out any checks and take any measures necessary to ensure the accuracy of those declarations.
+
+#### Article 32a — Controls on unpackaged wine products
+
+In the case of imports of unpackaged wine products not covered by a computerised system or information system referred to in Article 14(1) of Delegated Regulation (EU) 2018/273, to enable checks, the competent authority of the Member State in which the place of unloading is situated may request consignees of consignments of unpackaged wine products to keep those consignments at the place of unloading on their premises for a maximum period of 10 working days. The consignees shall not dispatch, transfer or manipulate a consignment that was sampled by the competent authority during that period until they are informed of the result of the checks.
+
+Upon request from the consignees, the competent authority shall, in cases where it decides not to carry out checks on the consignment in question, allow the consignment to be dispatched before the end of the period referred to in the first subparagraph.
+
+## CHAPTER VII — NOTIFICATIONS
+
+#### Article 33 — Notifications on the scheme of authorisation for vine plantings
+
+1\. Member States shall submit to the Commission by 1 March of each year:
+
+(a) the communication on wine-growing areas referred to in Article 145(3) of Regulation (EU) No 1308/2013, concerning the situation on 31 July of the previous wine year. This communication shall be made in the form set out in Part I of Annex IV to this Regulation;
+
+(b) the notifications referred to in Articles 63(4) and 64(3) of Regulation (EU) No 1308/2013 and in Article 10(3) of this Regulation. These notifications shall be made in the form set out in Part II of Annex IV to this Regulation;
+
+(c) a notification on the restrictions decided by Member States in relation to replantings in the same holding as referred to in Article 8 of this Regulation. This notification shall be made in the form set out in Table A under Part V of Annex IV to this Regulation;
+
+(d) an updated national list of professional organisations or interested groups of producers referred to in Articles 3 and 8 of this Regulation;
+
+(e) the communication on the total size of the areas ascertained as planted with vines without an authorisation as well as the non-authorised areas grubbed up, as referred to in Article 71(3) of Regulation (EU) No 1308/2013. Such communication shall refer to the previous wine year. The communication shall be made in the form set out in Part III of Annex IV to this Regulation;
+
+(f) where Member States decide to apply the priority criterion referred to in Article 64(2)(h) of Regulation (EU) No 1308/2013, the thresholds decided in relation to the minimum and maximum size of holdings as referred to in point H of Annex II to Delegated Regulation (EU) 2018/273.
+
+2\. Member States shall notify the Commission by 1 November of each year of:
+
+(a) the applications for authorisations for new plantings, the authorisations effectively granted during the previous wine year pursuant to Article 7(1) or (2) of this Regulation, and the authorisations refused by the applicants as well as those granted to other applicants before 1 October pursuant to Article 7(3) of this Regulation. These notifications shall be made in the form set out in Part IV of Annex IV to this Regulation;
+
+(b) the authorisations for replantings granted during the previous wine year as referred to in Article 9 of this Regulation. These notifications shall be made in the form set out in Table B under Part V of Annex IV to this Regulation;
+
+(c) the authorisations granted during the previous wine year on the basis of the conversion of valid planting rights as referred to in Article 10 of this Regulation. Such notification shall be made in the form set out in Part VI of Annex IV to this Regulation and be made only until 1 November of the year following the end of the deadline for conversion referred to in Article 68(1) of Regulation (EU) No 1308/2013 or the deadline set by the Member State in accordance with Article 10(1) of this Regulation.
+
+By way of derogation from the first subparagraph, point (c), Member States shall notify the Commission by 1 March 2023 of the authorisations granted between 1 August and 31 December 2022 on the basis of the conversion of valid planting rights as referred to in Article 10(3) of this Regulation.
+
+3\. If a Member State fails to comply with the rules set out in paragraph 1 or 2, or if the relevant information appears incorrect, the Commission may suspend part or all of the monthly payments referred to in Article 17 of Regulation (EU) No 1306/2013 as regards the wine sector until the notification is correctly made.
+
+4\. This Article shall be without prejudice to the Member States' obligations laid down in Regulation (EU) No 1337/2011 of the European Parliament and of the Council ( 1 ).
+
+#### Article 34 — General rules on notifications and availability of information
+
+The notifications to the Commission referred to in Delegated Regulation (EU) 2018/273 and in this Regulation shall be made in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+#### Article 35 — Keeping accompanying documents, information and registers
+
+1\. The accompanying documents and their copies shall be kept for at least five years from the end of the calendar year during which they were completed.
+
+2\. The information on the scheme of authorisation for vine plantings submitted in accordance with Article 33 shall be kept for at least ten wine years following the wine year during which it was submitted.
+
+3\. The inward and outward register and the documents concerning the operations recorded therein shall be kept for at least five years after the accounts to which they refer have been closed. Where one or more accounts in a register relating to insignificant quantities of wine are not yet closed, such accounts may be carried over to another register, provided that reference is made to such carry-over in the original register. In this case, the period of five years shall begin on the day of the carry-over.
+
+4\. The data of the vineyard register as provided for in Article 7 of Delegated Regulation (EU) 2018/273 shall be kept for as long as it is necessary for the purposes of monitoring and verifying the measures or the scheme to which they relate and in any event for, respectively, at least five wine years in case of data relating to the measures or at least ten wine years in case of data relating to the scheme of authorisation for vine plantings, following the wine year to which they relate.
+
+## CHAPTER VIII — FINAL PROVISIONS
+
+#### Article 36 — Repeal
+
+Implementing Regulation (EU) 2015/561 is repealed.
+
+#### Article 37 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**SELECTION PROCEDURE REFERRED TO IN ARTICLE 7(2)**
+
+**A. ALLOCATION ON A PRO RATA BASIS**
+
+The part of the total number of hectares available for new plantings that Member States have decided to allocate on a pro rata basis to all applicants at national level as referred to in Article 4(2)(b)(i), shall be divided among individual eligible applications according to the following formula, while respecting the possible limits referred to in Article 3(1):
+
+A1 = Ar × (%Pr × Tar/Tap)
+
+| A1 | = | authorisation granted to an individual applicant according to pro rata (in hectares) |
+| --- | --- | --- |
+
+| Ar | = | area requested by the producer in his application (in hectares) |
+| --- | --- | --- |
+
+| %Pr | = | proportion of the total availability to be granted on a pro rata basis |
+| --- | --- | --- |
+
+| Tar | = | total area made available in authorisations (in hectares) |
+| --- | --- | --- |
+
+| Tap | = | total of all applications by producers (in hectares) |
+| --- | --- | --- |
+
+**B. ALLOCATION ACCORDING TO THE PRIORITY CRITERIA**
+
+The part of the total number of hectares available for new plantings that Member States have decided to allocate at national or regional level according to the priority criteria selected as referred to in Article 4(2), point (b)(ii), shall be divided among individual eligible applications in the following way:
+
+(a) Member States shall select the priority criteria at national or regional level and may give all the criteria selected the same importance or attribute them different weighing. Member States may apply such weighing uniformly at national level or change the weighing of the criteria depending on the area within the territory of the Member State.
+
+Where Member States attribute the same importance to all criteria selected at national or regional level, a value of one (1) shall be associated to each of them.
+
+Where Member States attribute to the criteria selected at national or regional level different weighing, a value varying between zero (0) and one (1) shall be associated to each of those criteria and the sum of all individual values must always be equal to one (1).
+
+Where the weighing of these criteria varies depending on the region within the territory of the Member State, an individual value varying between zero (0) and one (1) shall be associated to each of those criteria for each of the regions. In this case, the sum of all individual weights of the selected criteria for each of those regions must always be equal to one (1).
+
+(b) Member States shall assess each eligible individual application on the basis of the compliance with the priority criteria selected. In order to assess the level of such compliance with each of the priority criteria, Member States shall establish a single scale at national or regional level, on the basis of which to attribute a number of points to each application in relation to each of those criteria.
+
+(c) The single scale shall pre-define the number of points to be attributed in relation to the level of compliance with each of the criteria, detailing also the number of points to be attributed in relation to each of the elements of each specific criterion.
+
+(d) Member States shall establish a ranking of individual applications at national or regional level on the basis of the total points attributed to each individual application according to the compliance or the level of compliance referred to in point (b) and, where applicable, the importance of the criteria referred to in point (a). For this purpose, they shall use the following formula:
+
+Pt = W 1 × Pt 1 + W 2 × Pt 2 + … + W n × Pt n
+
+| Pt | = | total of points given to a specific individual application |
+| --- | --- | --- |
+
+| W 1, W 2 …, W n | = | weight of criteria 1, 2, …, n |
+| --- | --- | --- |
+
+| Pt 1, Pt 2 …, Pt n | = | level of compliance of the application with criteria 1, 2, … n |
+| --- | --- | --- |
+
+In areas where the weighing is zero for all priority criteria, all eligible applications shall receive the maximum value in the scale for what concerns the level of compliance.
+
+(e) Member States shall grant authorisations to the individual applicants following the order established in the ranking mentioned in point (d) and until the hectares to be allocated according to the priority criteria are exhausted. The full number of hectares requested by an applicant shall be satisfied in the form of an authorisation before granting an authorisation to the next applicant according to the ranking.
+
+If the hectares available are exhausted on a position of the ranking where several applications have the same number of points, the remaining hectares shall be allocated on a pro rata basis to these applications.
+
+(f) If the limit for a certain region, or area eligible for a PDO or PGI, or area without geographical indication, is reached when granting authorisations pursuant to point A and points (a) to (e) of this point, no further applications originating from that region or area shall be satisfied.
+
+## ANNEX II
+
+**SAMPLES AS REFERRED TO IN ARTICLE 26**
+
+**PART I**
+
+**Method and procedure of sampling**
+
+1\. When samples of wine, grape must or another liquid wine product are taken in the context of assistance between control bodies, the competent body shall ensure that:
+
+(a) in the case of products in containers of not more than 60 litres warehoused in one lot, the samples are representative of the entire lot;
+
+(b) in the case of products in containers with a nominal capacity of more than 60 litres, the samples are representative of the contents of the container from which the samples are taken.
+
+2\. Samples shall be taken by pouring the product in question into at least five clean containers each having a nominal capacity of not less than 75 cl. In the case of products referred to in point 1(a), sampling may also take the form of removing at least five containers having a nominal capacity of not less than 75 cl from the lot to be examined.
+
+Where samples of wine distillate are to be analysed by nuclear magnetic resonance of deuterium, the samples shall be placed in containers having a nominal capacity of 25 cl, or even 5 cl where they are to be sent from one official laboratory to another.
+
+The samples shall be taken, closed where appropriate, and sealed in the presence of a representative of the establishment where the sample is taken or of a representative of the carrier if the sample is taken during transport. If no representative is present, the report referred to in point 4 shall mention this fact.
+
+Each sample shall be fitted with an inert and non-reusable closure.
+
+3\. Each sample shall bear a label which complies with Point A of Part II.
+
+Where the container is too small for the prescribed label to be attached thereto, the container shall be marked with an indelible number and the required information shall be indicated on a separate sheet.
+
+The representative of the establishment where the sample is taken or the representative of the carrier shall be requested to sign the label or, as applicable, the sheet.
+
+4\. The official of the competent body authorised to take samples shall draw up a written report in which he shall note any observations he considers important for assessing the samples. In the report he shall note, where necessary, any statements by the carrier's representative or the representative of the establishment where the sample was taken, and shall request such representative to affix his signature. He shall note the amount of the product from which the sample was taken. If the signatures referred to above and in the third subparagraph of point 3 have been refused, the report shall mention this fact.
+
+5\. Wherever samples are taken, one of the samples shall remain as a control sample in the establishment where the sample was taken, and another with the competent body whose official took the sample. Three of the samples shall be sent to an official laboratory, which will carry out the analytical or organoleptic examination. There one of the samples shall be analysed. Another shall be kept as a control sample. Control samples shall be kept for a minimum period of three years after sampling.
+
+6\. Consignments of samples shall bear on the external packaging a red label complying with the model in Point B of Part II. The label shall be 50 mm by 25 mm.
+
+When dispatching samples, the competent body of the Member State from which the samples are sent shall affix its stamp partially on the outer packaging of the parcel and partially on the red label.
+
+**PART II**
+
+**A. Label describing the sample in accordance with point 3 of Part I**
+
+1\. Required information:
+
+(a) name, address, including Member State, telephone, fax and email of the competent body on whose instructions sampling was carried out;
+
+(b) serial number of the sample;
+
+(c) date on which the sample was taken;
+
+(d) name of the official of the competent body authorised to take the sample;
+
+(e) name, address, telephone, fax, email of the undertaking in which the sample was taken;
+
+(f) identity of the container from which the sample was taken (e.g. number of the container, number of the lot of bottles, etc.);
+
+(g) description of the product, including production area, year of harvest, actual or potential alcoholic strength and, if possible, wine grape variety;
+
+(h) the words: ‘The reserved control sample may be examined only by a laboratory authorised to carry out control analyses. Breaking the seal is a punishable offence.’
+
+2\. Remarks:
+
+3\. Minimum size: 100 mm by 100 mm.
+
+**B. Model of the red label referred to in point 6 of Part I**
+
+EUROPEAN UNION
+
+Products for analytical and organoleptic testing under Implementing Regulation (EU) 2018/274
+
+## ANNEX III
+
+**SAMPLES AS REFERRED TO IN ARTICLE 27**
+
+**PART I**
+
+**Instructions for taking samples of fresh grapes and processing them into wine for analysis by the isotopic methods referred to in Article 27**
+
+**A. Sampling of grapes**
+
+1\. Each sample must consist of at least 10 kg of ripe grapes of the same variety. They are to be taken in the condition in which they are found. Sampling must be carried out during the period when the plot in question is harvested. The grapes collected must be representative of the whole plot. The fresh grape samples, or the derived pressed must, may be preserved by freezing until further usage. Only in the case that oxygen-18 measurement of the water of the must is foreseen, an aliquot of must may be taken separately and preserved after pressing the whole grape sample.
+
+2\. When the samples are taken, a description sheet is to be drawn up. This sheet must include a first part concerning the sampling of the grapes and a second part concerning vinification. It must be kept with the sample and must accompany it during all transportation. It must be kept up to date by means of an entry regarding each type of treatment undergone by the sample. The description sheet concerning the sampling is to be drawn up in accordance with Point A of the questionnaire in Part III.
+
+**B. Vinification**
+
+1\. Vinification must be carried out by the competent body or by a department authorised to do so by that body, wherever possible under conditions comparable with the normal conditions in the production area of which the sample is representative. Vinification should result in the total transformation of the sugar into alcohol, i.e. in less than 2 g/l of residual sugar. However, in certain cases, e.g. for ensuring a better representativity, higher amounts of residual sugars can be accepted. As soon as the wine has clarified and stabilised by means of SO2, it must be put in 75 cl bottles and labelled.
+
+2\. The description sheet for vinification is to be drawn up in accordance with Point B of the questionnaire in Part III.
+
+**PART II**
+
+**Number of samples to be taken by Member States each year for the analytical databank as referred to in Article 27(3)**
+
+— 30 samples in Bulgaria,
+
+— 20 samples in the Czechia,
+
+— 200 samples in Germany,
+
+— 50 samples in Greece,
+
+— 200 samples in Spain,
+
+— 400 samples in France,
+
+— 30 samples in Croatia,
+
+— 400 samples in Italy,
+
+— 10 samples in Cyprus,
+
+— 4 samples in Luxembourg,
+
+— 50 samples in Hungary,
+
+— 4 samples in Malta,
+
+— 50 samples in Austria,
+
+— 50 samples in Portugal,
+
+— 70 samples in Romania,
+
+— 20 samples in Slovenia,
+
+— 15 samples in Slovakia.
+
+**PART III**
+
+**Questionnaire on the collection and vinification of samples of grapes intended for analysis by isotopic methods as referred to in Article 27(5)**
+
+The analytical methods and the expression of results (units) to be used are those recommended and published by the OIV.
+
+**A.**
+
+1\. General information
+
+1.1. Sample number
+
+1.2. Name and function of the official or authorised person who took the sample
+
+1.3. Name and address of the competent body responsible for taking the sample
+
+1.4. Name and address of the competent body responsible for vinification and dispatch of the sample, if other than the body referred to in point 1.3:
+
+2\. General description of the samples
+
+2.1. Origin (country, region):
+
+2.2. Year of harvest:
+
+2.3. Vine variety:
+
+2.4. Colour of the grapes:
+
+3\. Description of the vineyard
+
+3.1. Name and address of person farming the plot:
+
+3.2. Location of the plot
+
+— wine village:
+
+— locality:
+
+— cadastral reference:
+
+— latitude and longitude:
+
+3.3. Soil type (e.g. limey, clayey, lime-clay, sandy):
+
+3.4. Situation (e.g. slope, plain, exposed to sun):
+
+3.5. Number of vines per hectare:
+
+3.6. Approximate age of vineyard (less than 10 years/between 10 and 25 years/more than 25 years):
+
+3.7. Altitude:
+
+3.8. Method of training and pruning:
+
+3.9. Type of wine into which the grapes are normally made (see categories of grapevine products in Part II of Annex VII to Regulation (EU) No 1308/2013):
+
+4\. Crop and must characteristics
+
+4.1. Estimated yield per hectare for the plot harvested: (kg/ha):
+
+4.2. State of health of the grapes (e.g. sound, rotten), specifying whether the grapes were dry or wet when the sample was taken:
+
+4.3. Date on which sample was taken:
+
+5\. Weather conditions preceding harvest
+
+5.1. Precipitation in the 10 days preceding harvest: yes/no
+
+5.2. If yes, additional information where available
+
+6\. Irrigated vineyards:
+
+If the crop is irrigated, date of last watering:
+
+(Stamp of the competent body responsible for taking the sample, and name, position and signature of official taking the sample)
+
+**B.**
+
+1\. Microvinification
+
+1.1. Weight of the sample of grapes, in kg:
+
+1.2. Method of pressing:
+
+1.3. Volume of must obtained:
+
+1.4. Characteristics of the must:
+
+— sugar concentration expressed in g/l by refractometry:
+
+— total acidity expressed in g/l of tartaric acid: (optional):
+
+1.5. Method of treating the must (e.g. settling, centrifugation):
+
+1.6. Yeasting (variety of yeast used). Indicate whether or not there was spontaneous fermentation:
+
+1.7. Temperature during fermentation:
+
+1.8. Method for determining end of fermentation:
+
+1.9. Method of treating the wine (e.g. racking.):
+
+1.10. Addition of sulphur dioxide in mg/l:
+
+1.11. Analysis of the wine obtained
+
+— actual alcoholic strength in % vol:
+
+— total dry extract:
+
+— reducing sugars expressed as g/l of invert sugar:
+
+2\. Chronological table of vinification of the sample
+
+Date:
+
+— on which sample was taken: (same date as date of harvest, point 4.3 of Part I)
+
+— of pressing:
+
+— of commencement of fermentation:
+
+— of end of fermentation:
+
+— of bottling:
+
+Date on which Part II was completed:
+
+(Stamp of the competent body which carried out vinification and signature of competent official of that body)
+
+**PART IV**
+
+**Template for analysis report of wine and grapevine product samples analysed by a method recommended and published by the OIV referred to in Article 27(5)**
+
+**A. GENERAL INFORMATION**
+
+1\. Country:
+
+2\. Sample number:
+
+3\. Year:
+
+4\. Vine variety:
+
+5\. Type of wine:
+
+6\. Region/district:
+
+7\. Name, address, telephone, fax and email of laboratory responsible for the results:
+
+8\. Sample for control analysis by the ERC-CWS: yes/no
+
+**B. METHODS AND RESULTS**
+
+1\. Wine (carried over from Part III of Annex III)
+
+1.1. Alcoholic strength by volume: % vol
+
+1.2. Total dry extract: g/l
+
+1.3. Reducing sugars: g/l
+
+1.4. Total acidity expressed as tartaric acid: g/l
+
+1.5. Total sulphur dioxide: mg/l
+
+2\. Distillation of wine for SNIF-NMR
+
+2.1. Description of distillation apparatus:
+
+2.2. Volume of wine distilled/weight of distillate obtained:
+
+3\. Analysis of distillate
+
+3.1. Alcohol strength of the distillate % (m/m):
+
+4\. Result of deuterium/hydrogen isotopic ratios of ethanol measured by NMR
+
+4.1. (D/H)I = ppm
+
+4.2. (D/H)II = ppm
+
+4.3. ‘R’ =
+
+5\. NMR parameters
+
+Observed frequency:
+
+6\. Result of isotopic ratio 18O/16O of wine
+
+δ 18O [‰] = ‰ V. SMOW — SLAP
+
+7\. Result of isotopic ratio 18O/16O of must (when applicable)
+
+δ 18O [‰] = ‰ V. SMOW — SLAP
+
+8\. Result of isotopic ratio 13C/12C of wine ethanol
+
+δ 13C [‰] = ‰ V-PDB.
+
+## ANNEX IV
+
+**THE NOTIFICATIONS REFERRED TO IN ARTICLE 33**
+
+**PART I**
+
+**Form for the communication referred to in Article 33(1)(a)**
+
+**Table**
+
+**Inventory of wine-growing areas**
+
+<table>
+<tbody><tr><td colspan="7">Member State:</td></tr>
+<tr><td colspan="2">Date of communication:</td><td colspan="5">  </td></tr>
+<tr><td colspan="2">Wine year:</td><td colspan="5">  </td></tr>
+<tr><td rowspan="3">Areas/Regions</td><td colspan="6">Areas actually planted with vines (ha) which are eligible for the production of (*1):</td></tr>
+<tr><td rowspan="2">wine with Protected Designation of Origin (PDO) (*2)</td><td colspan="2">wine with Protected Geographical Indication (PGI) (*3)</td><td rowspan="2">wine without PDO/PGI and situated in a PDO/PGI area</td><td rowspan="2">wine without PDO/PGI and situated outside of a PDO/PGI area</td><td rowspan="2">Total</td></tr>
+<tr><td>of which are included in column (2)</td><td>of which are not included in column (2)</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total of Member State</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">(*1)  The data refers to 31 July of the previous wine year  (*2)  Such areas may also be eligible for the production of PGI wine or wine without geographical indication  (*3)  Such areas may also be eligible for the production of PDO wine and wine without geographical indication (column (3)), or only PGI wine and wine without geographical indication (column (4)). None of the areas reported in columns (3) and (4) should be included in columns (5) and (6)  NB: values to be introduced in column (7) = (2) + (4) + (5) + (6) </td></tr>
+</tbody>
+</table>
+
+Communication deadline: 1 March.
+
+**PART II**
+
+**Form for the notifications referred to in Article 33(1)(b)**
+
+**Table A**
+
+**Authorisations for new plantings — percentage**
+
+<table>
+<tbody><tr><td>Member State:</td><td colspan="2">  </td></tr>
+<tr><td>Date of communication</td><td colspan="2">  </td></tr>
+<tr><td>Year:</td><td colspan="2">  </td></tr>
+<tr><td colspan="3">Method of calculation in accordance with Article 63(1) of Regulation (EU) No 1308/2013:</td></tr>
+<tr><td colspan="2">Percentage to be applied at national level:</td><td>  </td></tr>
+<tr><td colspan="2">Justifications on limitation of the percentage at national level (where below 1 %):</td><td>  </td></tr>
+<tr><td colspan="2">Area A: Total area (ha) in accordance with Article 63(1), point (a), of Regulation (EU) No 1308/2013 actually planted (on last 31 July):</td><td>  </td></tr>
+<tr><td colspan="2">B1: Total area (ha) actually planted on 31 July 2015:</td><td>  </td></tr>
+<tr><td colspan="2">B2: Area (ha) covered by planting rights available for conversion into authorisations on 1 January 2016</td><td>  </td></tr>
+<tr><td colspan="2">Area B (B1+B2) Area in accordance with Article 63(1), point (b), of Regulation (EU) No 1308/2013:</td><td>  </td></tr>
+<tr><td colspan="2">(Area A or Area B multiplied with the percentage applied at national level) = Total area (ha) for new plantings at national level, on the basis of the percentage and reference decided:</td><td>  </td></tr>
+<tr><td colspan="2">Total area (ha) transferred from previous year in accordance with Article 7(3) of this Regulation:</td><td>  </td></tr>
+<tr><td colspan="2">Area (ha) in accordance with Article 68(2a) of Regulation (EU) No 1308/2013 (for years 2023-2025 only)</td><td>  </td></tr>
+<tr><td colspan="2">Total area (ha) of authorisations for new vine plantings at national level:</td><td>  </td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 March.
+
+**Table B**
+
+**Authorisations for new plantings — geographical limitations**
+
+<table>
+<tbody><tr><td colspan="3">Member State:</td></tr>
+<tr><td>Date of communication:</td><td colspan="2">  </td></tr>
+<tr><td>Year:</td><td colspan="2">  </td></tr>
+<tr><td colspan="3">Where appropriate, limitations decided at the relevant geographic level:</td></tr>
+<tr><td colspan="2">A. per region, where appropriate </td><td>Limited area</td></tr>
+<tr><td colspan="2">region 1</td><td>  </td></tr>
+<tr><td colspan="2">region 2</td><td>  </td></tr>
+<tr><td colspan="2">…</td><td>  </td></tr>
+<tr><td colspan="2">B. per ‘sub-region’, where appropriate </td><td>Limited area</td></tr>
+<tr><td colspan="2">sub-region 1</td><td>  </td></tr>
+<tr><td colspan="2">sub-region 2</td><td>  </td></tr>
+<tr><td colspan="2">…</td><td>  </td></tr>
+<tr><td colspan="2">C. per PDO/PGI area, where appropriate </td><td>Limited area</td></tr>
+<tr><td colspan="2">PDO/PGI area 1</td><td>  </td></tr>
+<tr><td colspan="2">PDO/PGI area 2</td><td>  </td></tr>
+<tr><td colspan="2">…</td><td>  </td></tr>
+<tr><td colspan="2">D. per area without a PDO/PGI, where appropriate </td><td>Limited area</td></tr>
+<tr><td colspan="2">area without PDO/PGI 1</td><td>  </td></tr>
+<tr><td colspan="2">area without PDO/PGI 2</td><td>  </td></tr>
+<tr><td colspan="2">…</td><td>  </td></tr>
+<tr><td colspan="3">NB This table shall be accompanied by the related justifications referred to in Article 63(3) of Regulation (EU) No 1308/2013.</td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 March.
+
+**Table C**
+
+**Authorisations for new plantings — Decisions on eligibilty criteria at the relevant geographical level made public**
+
+<table>
+<tbody><tr><td colspan="4">Member State:</td></tr>
+<tr><td colspan="2">Date of communication:</td><td colspan="2">  </td></tr>
+<tr><td colspan="2">Year:</td><td colspan="2">  </td></tr>
+<tr><td colspan="4">Eligibility criteria, where appropriate:</td></tr>
+<tr><td>Eligibility criteria Article 64(1) of Regulation (EU) No 1308/2013 and the second subparagraph of Article 4(1) of Delegated Regulation (EU) 2018/273</td><td colspan="2">Selected by the MS: Y/N</td><td>If yes, indicate the relevant geographic level where appropriate:</td></tr>
+<tr><td>Article 64(1)(a) of Regulation (EU) No 1308/2013</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(1)(b) of Regulation (EU) No 1308/2013</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(1)(c) of Regulation (EU) No 1308/2013</td><td colspan="2">  </td><td>PDO area 1; PDO area 2;  … </td></tr>
+<tr><td>The second subparagraph of Article 4(1) of Delegated Regulation (EU) 2018/273</td><td colspan="2">  </td><td>PGI area 1; PGI area 2;  … </td></tr>
+<tr><td>Article 64(1)(d) of Regulation (EU) No 1308/2013</td><td colspan="2" rowspan="2">Selected by the MS: Y/N</td><td rowspan="2">If yes for Article 64(1)(d), indicate the specific geographic level where appropriate: </td></tr>
+<tr><td>Priority criteria Article 64(2) of Regulation (EU) No 1308/2013</td></tr>
+<tr><td>Article 64(2)(a)</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(2)(b)</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(2)(c)</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(2)(d)</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(2)(e)</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(2)(f)</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(2)(g)</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td>Article 64(2)(h)</td><td colspan="2">  </td><td>region, sub-region, (non)PDO/PGI area 1; region, sub-region, (non)PDO/PGI area 2;  … </td></tr>
+<tr><td colspan="4">NB In case of ‘Yes’ for Article 64(1)(d), this table shall be accompanied by the related justifications referred to in Article 64(1)(d) of Regulation (EU) No 1308/2013 and in Article 4(5) of Delegated Regulation (EU) 2018/273:</td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 March.
+
+**Table D**
+
+**Authorisations for new plantings — Decisions on pro rata distribution and priority criteria at the relevant geographical level made public**
+
+<table>
+<tbody><tr><td colspan="14">Member State:</td></tr>
+<tr><td colspan="3">Date of communication:</td><td colspan="11">  </td></tr>
+<tr><td colspan="3">Year:</td><td colspan="11">  </td></tr>
+<tr><td colspan="9">Total area (ha) to be made available for new plantings at national level:</td><td colspan="5">  </td></tr>
+<tr><td colspan="14">1. Pro rata distribution, where appropriate:</td></tr>
+<tr><td colspan="9">Percentage of area to be granted on a pro rata basis at national level:</td><td colspan="5">  </td></tr>
+<tr><td colspan="9">Number of hectares:</td><td colspan="5">  </td></tr>
+<tr><td colspan="14">2. Priority criteria, where appropriate:</td></tr>
+<tr><td colspan="9">Percentage of area to be granted according to priority criteria at national level:</td><td colspan="5">  </td></tr>
+<tr><td colspan="9">Number of hectares:</td><td colspan="5">  </td></tr>
+<tr><td colspan="14">Information on the single scale established at national level to assess the level of compliance of individual applications with the priority criteria selected (range of values, min and max …):</td></tr>
+<tr><td colspan="14">2.1. If priority criteria are applied at national level without differentiation by area</td></tr>
+<tr><td colspan="14">Priority criteria chosen and respective importance:</td></tr>
+<tr><td>Priority criteria: Article 64(2) of Regulation (EU) No 1308/2013 and the second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273:</td><td>Article 64(2)(a) (*)</td><td colspan="2">Article 64(2)(a) (**)</td><td>Article 64(2)(b)</td><td>Article 64(2)(c)</td><td>Article 64(2)(d)</td><td>Article 64(2)(e)</td><td colspan="2">Article 64(2)(f)</td><td>Article 64(2)(g)</td><td>Article 64(2)(h)</td><td>The second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273 (***)</td><td>The second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273 (****)</td></tr>
+<tr><td>Importance (0 to 1):</td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="14">(*) New entrant (N.B. the criteria ‘new entrant’ and ‘young producer’ cannot both be chosen at the same time, only one of them can apply) (**) Young producer  (***) Prior behaviour of the producer  (****) Non-profit organisations with a social purpose having received lands confiscated in cases of terrorism and other types of crime </td></tr>
+<tr><td colspan="14">2.2. If priority criteria are applied at national level with differentiation by area</td></tr>
+<tr><td colspan="14">2.2.1. Area 1: (describe what are the territorial limits of the area 1)</td></tr>
+<tr><td colspan="14">Priority criteria chosen and respective importance: [If no criteria is selected for this specific area, indicate zero in all columns below] </td></tr>
+<tr><td>Priority criteria: Article 64(2) of Regulation (EU) No 1308/2013 and the second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273:</td><td>Article 64(2)(a) (*)</td><td colspan="2">Article 64(2)(a) (**)</td><td>Article 64(2)(b)</td><td>Article 64(2)(c)</td><td>Article 64(2)(d)</td><td>Article 64(2)(e)</td><td colspan="2">Article 64(2)(f)</td><td>Article 64(2)(g)</td><td>Article 64(2)(h)</td><td>The second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273 (***)</td><td>The second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273 (****)</td></tr>
+<tr><td>Importance (0 to 1):</td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="14">(*) New entrant (N.B. the criteria ‘new entrant’ and ‘young producer’ cannot both be chosen at the same time, only one of them can apply) (**) Young producer  (***) Prior behaviour of the producer  (****) Non-profit organisations with a social purpose having received lands confiscated in cases of terrorism and other types of crime </td></tr>
+<tr><td colspan="14">…</td></tr>
+<tr><td colspan="14">2.2.n. Area n: (describe what are the territorial limits of the area n)</td></tr>
+<tr><td colspan="14">Priority criteria chosen and respective importance: [If no criteria is selected for this specific area, indicate zero in all columns below] </td></tr>
+<tr><td>Priority criteria: Article 64(2) of Regulation (EU) No 1308/2013 and the second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273</td><td>Article 64(2)(a) (*)</td><td colspan="2">Article 64(2)(a) (**)</td><td>Article 64(2)(b)</td><td>Article 64(2)(c)</td><td>Article 64(2)(d)</td><td>Article 64(2)(e)</td><td colspan="2">Article 64(2)(f)</td><td>Article 64(2)(g)</td><td>Article 64(2)(h)</td><td>The second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273 (***)</td><td>The second subparagraph of Article 4(3) of Delegated Regulation (EU) 2018/273 (****)</td></tr>
+<tr><td>Importance (0 to 1):</td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="14">(*) New entrant (N.B. the criteria ‘new entrant’ and ‘young producer’ cannot both be chosen at the same time, only one of them can apply) (**) Young producer  (***) Prior behaviour of the producer  (****) Non-profit organisations with a social purpose having received lands confiscated in cases of terrorism and other types of crime </td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 March.
+
+**PART III**
+
+**Form for the communication referred to in Article 33(1)(e)**
+
+**Table**
+
+**Areas planted without corresponding authorisations after 31 December 2015 and areas grubbed up under Article 71(3) of Regulation (EU) No 1308/2013**
+
+<table>
+<tbody><tr><td colspan="4">Member State:</td></tr>
+<tr><td>Date of communication:</td><td colspan="3">  </td></tr>
+<tr><td>Wine year or period (1):</td><td colspan="3">  </td></tr>
+<tr><td rowspan="2">Areas/Regions</td><td colspan="3">Areas (ha) planted without corresponding planting authorisation after 31 December 2015:</td></tr>
+<tr><td>Areas grubbed up by producers during the wine year</td><td>Areas grubbed up by the Member State during the wine year</td><td>Inventory of total areas of non-authorised plantings not yet grubbed up at the end of the wine year</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total of Member State:</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">(1)  The data shall refer to the wine year preceding the communication. </td></tr>
+</tbody>
+</table>
+
+Communication deadline: 1 March.
+
+**PART IV**
+
+**Form for the notifications referred to in Article 33(2)(a)**
+
+**Table A**
+
+**Authorisations for new plantings requested by the applicants**
+
+<table>
+<tbody><tr><td colspan="5">Member State:</td></tr>
+<tr><td>Date of communication:</td><td colspan="4">  </td></tr>
+<tr><td>Year:</td><td colspan="4">  </td></tr>
+<tr><td rowspan="2">Areas/Regions</td><td colspan="4">Number of hectares requested for new plantings which are situated in an area eligible for the production of:</td></tr>
+<tr><td>PDO wine (*1)</td><td>PGI wine (*2)</td><td>only wine without PDO/PGI</td><td>Total</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total of Member State</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">If limitations apply at the relevant geographic level (Article 63(2) of Regulation (EU) No 1308/2013):</td></tr>
+<tr><td colspan="2">per relevant (non) PDO/PGI area:</td><td colspan="3">Area requested (ha)</td></tr>
+<tr><td colspan="2">(1)</td><td colspan="3">(2)</td></tr>
+<tr><td colspan="2">(non) PDO/PGI area 1</td><td colspan="3">  </td></tr>
+<tr><td colspan="2">(non) PDO/PGI area 2</td><td colspan="3">  </td></tr>
+<tr><td colspan="2">…</td><td colspan="3">  </td></tr>
+<tr><td colspan="5">(*1)  Such areas may also be eligible for the production of PGI wine or wine without geographical indication; none of the areas reported in column (2) should be included in column (3).  (*2)  Such areas may also be eligible for the production of wine without geographical indication, but not PDO wine; none of the areas reported in column (3) should be included in column (4). </td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 November.
+
+**Table B**
+
+**Authorisations for new plantings effectively granted and areas refused**
+
+<table>
+<tbody><tr><td colspan="9">Member State:</td></tr>
+<tr><td>Date of communication:</td><td colspan="8">  </td></tr>
+<tr><td>Concerned year:</td><td colspan="8">  </td></tr>
+<tr><td rowspan="2">Areas/Regions</td><td colspan="7">Number of hectares effectively granted for new plantings which are situated in an area eligible for the production of:</td><td rowspan="2">Area refused by applicants (Article 7(3)) (ha)</td></tr>
+<tr><td>PDO wine (*1)</td><td colspan="2">PGI wine (*2)</td><td colspan="2">only wine without PDO/PGI</td><td colspan="2">Total</td></tr>
+<tr><td>(1)</td><td>(2)</td><td colspan="2">(3)</td><td colspan="2">(4)</td><td colspan="2">(5)</td><td>(6)</td></tr>
+<tr><td>1</td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>Total of Member State</td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td>  </td></tr>
+<tr><td>Area refused by the applicants (Article 7(3)):</td><td>  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td>  </td></tr>
+<tr><td colspan="9">If limitations apply at the relevant geographic level (Article 63(2) of Regulation (EU) No 1308/2013):</td></tr>
+<tr><td rowspan="2">per relevant (non) PDO/PGI area:</td><td colspan="2" rowspan="2">Area granted (ha)</td><td colspan="2" rowspan="2">Area refused by applicants (Article 7(3)) (ha)</td><td colspan="4">Area requested and not granted by the Member State (ha) because:</td></tr>
+<tr><td colspan="2">beyond the limits established</td><td colspan="2">failed to comply with eligibility criteria</td></tr>
+<tr><td>(1)</td><td colspan="2">(2)</td><td colspan="2">(3)</td><td colspan="2">(4)</td><td colspan="2">(5)</td></tr>
+<tr><td>(non) PDO/PGI area 1</td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td>(non) PDO/PGI area 2</td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td>…</td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td><td colspan="2">  </td></tr>
+<tr><td colspan="9">(*1)  Such areas may also be eligible for the production of PGI wine or wine without geographical indication; none of the areas reported in column (2) should be included in column (3).  (*2)  Such areas may also be eligible for the production of wine without geographical indication, but not PDO wine; none of the areas reported in column (3) should be included in column (4). </td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 November.
+
+**PART V**
+
+**Form for the notifications referred to in Article 33(1)(c) and 33(2)(b)**
+
+**Table A**
+
+**Authorisations for replantings — restrictions applied**
+
+<table>
+<tbody><tr><td colspan="3">Member State:</td></tr>
+<tr><td>Date of communication:</td><td colspan="2">  </td></tr>
+<tr><td>Year:</td><td colspan="2">  </td></tr>
+<tr><td colspan="3">Where appropriate, indicate the restrictions on replantings for the relevant PDO/PGI areas decided by the Member State as referred to in Article 66(3) of Regulation (EU) No 1308/2013 and in Article 6 of Delegated Regulation (EU) 2018/273</td></tr>
+<tr><td colspan="2">PDO area, where appropriate</td><td>Extent of the restriction (T (*1)/P (*2))</td></tr>
+<tr><td colspan="2">PDO area 1</td><td>  </td></tr>
+<tr><td colspan="2">PDO area 2</td><td>  </td></tr>
+<tr><td colspan="2">…</td><td>  </td></tr>
+<tr><td colspan="2">PGI area, where appropriate</td><td>Extent of the restriction (T (*1)/P (*2))</td></tr>
+<tr><td colspan="2">PGI area 1</td><td>  </td></tr>
+<tr><td colspan="2">PGI area 2</td><td>  </td></tr>
+<tr><td colspan="2">…</td><td>  </td></tr>
+<tr><td colspan="3">Further information deemed useful to clarify the applications of such restrictions:</td></tr>
+<tr><td colspan="3">(*1)  Total (T): the restriction is absolute, replantings which would conflict with the restrictions decided are completely forbidden  (*2)  Partial (P): the restriction is not absolute, replantings which would conflict with the restrictions decided are partially allowed to the extent decided by the Member State </td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 March.
+
+**Table B**
+
+**Authorisations for replantings effectively granted**
+
+<table>
+<tbody><tr><td colspan="5">Member State:</td></tr>
+<tr><td>Date of communication:</td><td colspan="4">  </td></tr>
+<tr><td>Wine year:</td><td colspan="4">  </td></tr>
+<tr><td rowspan="2">Areas/Regions</td><td colspan="4">Number of hectares effectively granted for replantings in areas which are eligible for the production of:</td></tr>
+<tr><td>PDO wine (*1)</td><td>PGI wine (*2)</td><td>wine without PDO/PGI</td><td>Total</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total of Member State</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(*1)  Such areas may also be eligible for the production of PGI wine or wine without geographical indication; none of the areas reported in column (2) should be included in column (3).  (*2)  Such areas may also be eligible for the production of wine without geographical indication, but not PDO wine; none of the areas reported in column (3) should be included in column (4). </td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 November.
+
+NB The data shall refer to the wine year preceding the communication.
+
+**PART VI**
+
+**Form for the notifications referred to in Article 33(2)(c)**
+
+**Planting rights granted before 31 December 2015 and converted into authorisations — Authorisations effectively granted**
+
+<table>
+<tbody><tr><td colspan="5">Member State:</td></tr>
+<tr><td>Date of communication:</td><td colspan="4">  </td></tr>
+<tr><td>Wine year:</td><td colspan="4">  </td></tr>
+<tr><td rowspan="2">Areas/Regions</td><td colspan="4">Number of hectares effectively granted for areas which are eligible for the production of:</td></tr>
+<tr><td>PDO wine (*1)</td><td>PGI wine (*2)</td><td>wine without PDO/PGI</td><td>Total</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total of Member State</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(*1)  Such areas may also be eligible for the production of PGI wine or wine without geographical indication; none of the areas reported in column (2) should be included in column (3).  (*2)  Such areas may also be eligible for the production of wine without geographical indication, but not PDO wine; none of the areas reported in column (3) should be included in column (4). </td></tr>
+</tbody>
+</table>
+
+Notification deadline: 1 November
+
+NB This table has to be communicated for each wine year (from 1 August of year n-1 until 31 July of the year of the communication) until 1 November of the year following the end of the deadline referred to in Article 68(1), second subparagraph, of Regulation (EU) No 1308/2013 or the deadline decided by the Member State in accordance with Article 10(1) of this Regulation.
+
+However, the communication for the period from 1 August 2022 to 31 December 2022 shall be made by 1 March 2023.
+
+( 1 ) Regulation (EU) No 1337/2011 of the European Parliament and of the Council of 13 December 2011 concerning European statistics on permanent crops and repealing Council Regulation (EEC) No 357/79 and Directive 2001/109/EC of the European Parliament and of the Council (OJ L 347, 30.12.2011, p. 7).

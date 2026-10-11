@@ -1,0 +1,265 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/532 of 16 April 2020 derogating in respect of the year 2020 from Implementing Regulations (EU) No 809/2014, (EU) No 180/2014, (EU) No 181/2014, (EU) 2017/892, (EU) 2016/1150, (EU) 2018/274, (EU) 2017/39, (EU) 2015/1368 and (EU) 2016/1240 as regards certain administrative and on-the-spot checks applicable within the common agricultural policy"
+identifier: "32020R0532"
+eli: "http://data.europa.eu/eli/reg_impl/2020/532/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-04-16
+entry_into_force: 2020-10-06
+last_amended: 2020-04-20
+consolidated_version: "02020R0532-20200420"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R0532-20200420"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/532 of 16 April 2020 derogating in respect of the year 2020 from Implementing Regulations (EU) No 809/2014, (EU) No 180/2014, (EU) No 181/2014, (EU) 2017/892, (EU) 2016/1150, (EU) 2018/274, (EU) 2017/39, (EU) 2015/1368 and (EU) 2016/1240 as regards certain administrative and on-the-spot checks applicable within the common agricultural policy
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/532**
+
+**of 16 April 2020**
+
+**derogating in respect of the year 2020 from Implementing Regulations (EU) No 809/2014, (EU) No 180/2014, (EU) No 181/2014, (EU) 2017/892, (EU) 2016/1150, (EU) 2018/274, (EU) 2017/39, (EU) 2015/1368 and (EU) 2016/1240 as regards certain administrative and on-the-spot checks applicable within the common agricultural policy**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/2086 of 14 December 2020 </td><td> L 423</td><td>48</td><td>15.12.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/238 of 16 February 2021 </td><td> L 56</td><td>10</td><td>17.2.2021</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/532**
+
+**of 16 April 2020**
+
+**derogating in respect of the year 2020 from Implementing Regulations (EU) No 809/2014, (EU) No 180/2014, (EU) No 181/2014, (EU) 2017/892, (EU) 2016/1150, (EU) 2018/274, (EU) 2017/39, (EU) 2015/1368 and (EU) 2016/1240 as regards certain administrative and on-the-spot checks applicable within the common agricultural policy**
+
+## CHAPTER I — DEROGATIONS FROM IMPLEMENTING REGULATION (EU) No 809/2014
+
+#### Article 1
+
+By way of derogation from Article 9(1), (2) and (3) of Implementing Regulation (EU) No 809/2014, for the year 2020 Member States shall notify the Commission of the control data and control statistics covering the previous calendar year, of subsequent modifications to the report in respect of the options chosen for the control of the cross-compliance requirements and the competent control bodies responsible for the checks of the cross-compliance requirements and standards and of the report in respect of the measures taken for the administration and the control of the voluntary coupled support concerning the previous calendar year 2019 by 15 September 2020.
+
+#### Article 2
+
+By way of derogation from Article 24(4) of Implementing Regulation (EU) No 809/2014, due to the measures put in place to address the pandemic of COVID-19, for checks to be carried out in respect of claim year 2020 in relation to area-related aid schemes, Member States may decide to fully substitute the physical inspections to be carried out under that Regulation, in particular field visits and on-the-spot checks, by the use of photo-interpretation of satellite or aerial ortho-images or other relevant evidence including evidence provided by the beneficiary at the request of the competent authority, such as geotagged photos, which could permit definitive conclusions to be drawn to the satisfaction of the competent authority.
+
+#### Article 3
+
+By way of derogation from Article 26(4) of Implementing Regulation (EU) No 809/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out on-the-spot checks in relation to measures under the integrated administration and control system to ensure an effective verification of certain eligibility criteria, commitments and other obligations that can only be checked during a specific time period, Member States may decide to carry out those checks in respect of claim year 2020 by the use of new technologies, including geotagged photos, or other relevant evidence, in complement to the possibility to use remote sensing.
+
+#### Article 4
+
+1\. By way of derogation from Articles 30 to 33 of Implementing Regulation (EU) No 809/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out on-the-spot checks in accordance with the rules set out in those Articles, Member States may decide to organise those checks in respect of claim year 2020 in accordance with the rules set out in paragraphs 2 and 3 of this Article.
+
+2\. The control samples for on-the-spot checks in respect of claim year 2020 shall cover at least:
+
+(a) 3 % of all beneficiaries applying for the basic payment scheme or the single area payment scheme;
+
+(b) 3 % of all beneficiaries applying for the redistributive payment;
+
+(c) 3 % of all beneficiaries applying for the payment for areas with natural constraints;
+
+(d) 3 % of all beneficiaries applying for the payment for young farmers;
+
+(e) 3 % of all beneficiaries applying for area-related payments under voluntary coupled support;
+
+(f) 3 % of all beneficiaries applying for the payment under the small farmer scheme;
+
+(g) 10 % of the areas declared for the production of hemp;
+
+(h) 3 % of all beneficiaries applying for the crop specific payment for cotton;
+
+(i) 3 % of all beneficiaries required to observe the agricultural practices beneficial for the climate and the environment;
+
+(j) 3 % of all beneficiaries required to observe the greening practices and using national or regional environmental certification schemes as referred to in Article 43(3)(b) of Regulation (EU) No 1307/2013;
+
+(k) 3 % of all beneficiaries applying for rural development measures;
+
+(l) 3 % of all collectives submitting a collective claim;
+
+(m) 3 % of all beneficiaries applying for animal aid schemes and cover at least 3 % of the animals.
+
+The sample referred to in point (i) of the first subparagraph shall, at the same time, cover at least 3 % of all beneficiaries having areas covered with permanent grasslands that are environmentally sensitive in areas covered by Council Directive 92/43/EEC ( 1 ) or Directive 2009/147/EC of the European Parliament and of the Council ( 2 ) and further sensitive areas referred to in Article 45(1) of Regulation (EU) No 1307/2013.
+
+As regards point (k) of the first subparagraph, for the measures provided for in Articles 28 and 29 of Regulation (EU) No 1305/2013 of the European Parliament and of the Council ( 3 ), the control rate of 3 % shall be achieved at the level of the individual measure.
+
+3\. Member States that have already decided to reduce the control rates for certain schemes to 3 % in accordance with Article 36 of Implementing Regulation (EU) No 809/2014, may further reduce the percentages set out for those schemes in paragraph 2 of this Article to 1 %.
+
+4\. The results of the checks carried out in accordance with paragraphs 2 and 3 of this Article shall not be taken into account in respect of the following claim year for the purposes of Articles 35 and 36 of Implementing Regulation (EU) No 809/2014. However, the increase in control rates that should have been applied in claim year 2020 in accordance with Article 35 of that Regulation, shall be applied by means of a corresponding increase in claim year 2021.
+
+5\. For the purpose of applying the control rates set out in points (a), (e), (i) and (j) of the first subparagraph of paragraph 2, Member States shall give priority to areas other than those of permanent grassland and/or permanent crops.
+
+Areas not covered by checks in respect of claim year 2020 as a result of the application of paragraphs 2 and 3 shall be prioritised in the update of the identification system for agricultural parcels in subsequent years.
+
+6\. In the year 2020, Article 33a of Implementing Regulation (EU) No 809/2014 shall not apply.
+
+#### Article 4a
+
+By way of derogation from the first sentence of point (c) of the first subparagraph of Article 40a(1) and point (b) of Article 40a(2) of Implementing Regulation (EU) No 809/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out all the checks that require field inspections, the following shall apply in respect of claim year 2020:
+
+(a) the relevant checks relating to the eligibility criteria, commitments and other obligations shall be carried out for at least 3 % of the beneficiaries concerned;
+
+(b) the verifications of tetrahydrocannabinol content in hemp shall be made for at least 10 % of the area.
+
+#### Article 5
+
+By way of derogation from Article 42(1) of Implementing Regulation (EU) No 809/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out on-the-spot checks in respect of animals as required by that provision, Member States may decide to carry those checks in respect of claim year 2020 at any time of the year, in so far that they still allow the checking of the eligibility conditions.
+
+#### Article 6
+
+By way of derogation from Article 48(5) of Implementing Regulation (EU) No 809/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out any visit to the operation supported or the investment site before granting the final payments, Member States may decide to substitute such visits, as long as those measures apply, by any relevant documentary evidence, including geotagged photos, to be provided by the beneficiary.
+
+If those visits cannot be substituted by relevant documentary evidence, Member States shall carry out those visits after the final payment is effected.
+
+#### Article 7
+
+By way of derogation from Article 50(1) and the third subparagraph of Article 60(2) of Implementing Regulation (EU) No 809/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out on-the-spot checks as required by those provisions, the following rules shall apply:
+
+(a) Member States may decide to substitute the on-the-spot checks by any relevant documentary evidence, including geotagged photos, to be provided by the beneficiary and which would permit definitive conclusions to be drawn to the satisfaction of the competent authority concerning the realisation of the operation;
+
+(b) in calendar year 2020, the control sample for on-the-spot checks shall cover at least 3 % of the expenditure referred to in Article 46 of Implementing Regulation (EU) No 809/2014 and co-financed by the European Agricultural Fund for Rural Development (EAFRD) which is claimed to the paying agency and which does not concern operations for which only advance payments have been claimed.
+
+The results of the checks carried out in accordance with point (b) of the first paragraph shall not be taken into account in respect of the following calendar year for the purposes of Article 50(5) of Implementing Regulation (EU) No 809/2014. However, the increase in control rate that should have been applied in calendar year 2020 in accordance with Article 50(5) of that Regulation, shall be applied by means of a corresponding increase in calendar year 2021.
+
+#### Article 8
+
+By way of derogation from Article 52(2) of Implementing Regulation (EU) No 809/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out ex-post checks as required by that provision, the control sample for the ex-post checks in calendar year 2020 shall cover at least 0,6 % of EAFRD expenditure for investment operations to verify the respect of commitments pursuant to Article 71 of Regulation (EU) No 1303/2013 of the European Parliament and of the Council ( 4 ) or detailed in the rural development programme.
+
+#### Article 9
+
+By way of derogation from the first subparagraph of Article 68(1) of Implementing Regulation (EU) No 809/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out on-the-spot checks in accordance with that provision, Member States may decide to carry out those checks in respect of claim year 2020 on at least 0,5 % of the total number of the beneficiaries referred to in Article 92 of Regulation (EU) No 1306/2013 and for which the competent control authority in question is responsible.
+
+The results of the checks carried out in accordance with the first paragraph shall not be taken into account in respect of the following claim year for the purposes of Article 68(4) of Implementing Regulation (EU) No 809/2014. However, the increase in control rates that should have been applied in claim year 2020 in accordance with Article 68(4) of that Regulation, shall be applied by means of a corresponding increase in claim year 2021.
+
+#### Article 10
+
+Where due to the confinement rules put in place to address the pandemic of COVID-19 a Member State is not in a position to complete certain on-the-spot checks required by Implementing Regulation (EU) No 809/2014 in respect of claim year 2019 for the measures under the integrated administration and control system or for calendar year 2019 in the case of the non-area and non-animal related rural development measures, and cannot obtain the alternative evidence referred to in Article 2, the rate of on-the-spot checks attained at the first day of entry into force of the relevant confinement rules shall be considered acceptable.
+
+#### Article 11
+
+1\. Member States making use of the derogations provided for in Articles 4, 5, 7, 8 and 9, and in particular changing the timing of checks or reducing their number, shall, to the extent possible, set procedures to use alternative evidence in order to maintain the appropriate level of assurance on the legality and regularity of expenditure and compliance with the requirements and standards of cross-compliance.
+
+2\. For Member States applying Articles 2 to 9, the management declaration to be drawn up pursuant to point (b) of the first subparagraph of Article 7(3) of Regulation (EU) No 1306/2013 shall include for financial years 2020 and 2021 a confirmation that overpayments to beneficiaries were prevented and the recovery of undue amounts has been instigated based on the verification of all necessary information.
+
+## CHAPTER II — DEROGATIONS FROM THE SPECIFIC MEASURES IN FAVOUR OF THE OUTERMOST REGIONS OF THE UNION AND THE SMALLER AEGEAN ISLANDS
+
+### SECTION 1 — Derogations from Implementing Regulation (EU) No 180/2014
+
+#### Article 12
+
+1\. By way of derogation from Article 16(2) of Implementing Regulation (EU) No 180/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out physical checks in the outermost regions in accordance with the rules set out in that provision, in the year 2020 Member States may decide to organise physical checks in accordance with the rules set out in paragraph 2 of this Article.
+
+2\. The physical checks carried out in the outermost region concerned on the import, entry, export and dispatch of agricultural products shall involve a representative sample amounting to at least 3 % of the licences and certificates presented in accordance with Article 9 of Implementing Regulation (EU) No 180/2014.
+
+3\. By way of derogation from Article 22 of Implementing Regulation (EU) No 180/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out on-the-spot checks in the outermost regions in accordance with the rules set out in that Article, in the year 2020 Member States may decide to organise on-the-spot checks in accordance with the rules set out in paragraph 4 of this Article.
+
+4\. On the basis of a risk analysis carried out in accordance with Article 24(1) of Implementing Regulation (EU) No 180/2014, the competent authorities shall perform on-the-spot checks by sampling at least 3 % of aid applications. The sample shall also represent at least 3 % of the amounts covered by the aid for each action.
+
+5\. By way of derogation from Article 16(2) and Article 22 of Implementing Regulation (EU) No 180/2014, where due to the measures put in place to address the pandemic of COVID-19 Member States are not in a position to carry out on-the-spot checks in respect of the specific measures in favour of the outermost regions in accordance with the rules set out in those Articles, Member States may decide:
+
+(a) to substitute on-the-spot checks by the use of new technologies, including geotagged photos, dated photographs, dated drone surveillance reports, videoconferences with the beneficiaries or any relevant documentary evidence that could serve as support when verifying the correct implementation of the measures;
+
+(b) to carry those checks in respect of claim year 2020 at any time of the year, in so far that they still allow the checking of the eligibility conditions, including after the final payment is effected.
+
+Member States making use of the derogations provided for in the first subparagraph, and in particular changing the timing of checks or reducing their number shall set procedures to use alternative methodology in order to maintain the appropriate level of assurance on the legality and regularity of expenditure and compliance with the requirements and standards of cross-compliance.
+
+6\. The results of the checks carried out in accordance with paragraphs 2 and 4 of this Article shall not be taken into account in respect of the following claim year for the purposes of Article 59(5) of Regulation (EU) No 1306/2013. However, the increase in control rates that should have been applied in claim year 2020 in accordance with Article 59(5) of that Regulation, shall be applied by means of a corresponding increase in claim year 2021.
+
+### SECTION 2 — Derogations from Implementing Regulation (EU) No 181/2014
+
+#### Article 13
+
+1\. By way of derogation from Article 13(2) of Implementing Regulation (EU) No 181/2014, where due to the measures put in place to address the pandemic of COVID-19 Greece is not in a position to carry out physical checks in accordance with the rules set out in that provision, in the year 2020 Greece may decide to organise physical checks in accordance with the rules set out in paragraph 2 of this Article.
+
+2\. The physical checks carried out in the smaller Aegean islands on the entry of agricultural products shall involve a representative sample amounting to at least 3 % of the certificates presented in accordance with Article 7 of Implementing Regulation (EU) No 181/2014.
+
+The physical checks carried out in the smaller Aegean islands on the export or dispatch provided for in Section 3 of Implementing Regulation (EU) No 181/2014 shall involve a representative sample of at least 3 % of the operations, based on the risk profiles established by Greece.
+
+3\. By way of derogation from Article 20 of Implementing Regulation (EU) No 181/2014, where due to the measures put in place to address the pandemic of COVID-19 Greece is not in a position to carry out on-the-spot checks in accordance with the rules set out in that Article, in the year 2020 Greece may decide to organise on-the-spot checks in accordance with the rules set out in paragraph 4 of this Article.
+
+4\. On the basis of a risk analysis in accordance with Article 22(1) of Implementing Regulation (EU) No 181/2014, the competent authorities shall perform on-the-spot checks by sampling, for each action, at least 3 % of aid applications. The sample shall also represent at least 3 % of the amounts covered by the aid for each action.
+
+5\. By way of derogation from Article 13(2) and Article 20 of Implementing Regulation (EU) No 181/2014, where due to the measures put in place to address the pandemic of COVID-19 Greece is not in a position to carry out on-the-spot checks in respect of the specific measures in favour of the smaller Aegean islands in accordance with the rules set out in those Articles, Greece may decide:
+
+(a) to substitute on-the-spot checks by the use of new technologies, including geotagged photos, dated photographs, dated drone surveillance reports, videoconferences with the beneficiaries or any relevant documentary evidence that could serve as support when verifying the correct implementation of the measures;
+
+(b) to carry those checks in respect of claim year 2020 at any time of the year, in so far that they still allow the checking of the eligibility conditions, including after the final payment is effected.
+
+If making use of the derogations provided for in the first subparagraph, and in particular changing the timing of checks or reducing their number, Greece shall set procedures to use alternative methodology in order to maintain the appropriate level of assurance on the legality and regularity of expenditure and compliance with the requirements and standards of cross-compliance.
+
+6\. The results of the checks carried out in accordance with paragraphs 2 and 4 of this Article shall not be taken into account in respect of the following claim year for the purposes of Article 59(5) of Regulation (EU) No 1306/2013. However, the increase in control rates that should have been applied in claim year 2020 in accordance with that provision, shall be applied by means of a corresponding increase in claim year 2021.
+
+## CHAPTER III — DEROGATIONS FROM RULES IMPLEMENTING THE COMMON ORGANISATION OF THE MARKETS
+
+### SECTION 1 — Derogation from Implementing Regulation (EU) 2017/892
+
+#### Article 14
+
+1\. By way of derogation from Article 27(2) of Implementing Regulation (EU) 2017/892:
+
+(a) in the year 2020, the on-the-spot checks referred to in Article 27 of that Regulation shall relate to a sample representing at least 10 % of the total aid applied for the year 2019;
+
+(b) the rule that each producer organisation or association of producer organisations implementing an operational programme shall be visited at least once every 3 years shall not apply for the on-the-spot-checks conducted in the year 2020.
+
+2\. By way of derogation from Article 27(7) of Implementing Regulation (EU) 2017/892, the rule that actions on individual holdings of members of producer organisations covered by the sample referred to in Article 27(2) of that Regulation shall be subject of at least one visit to the place where the action is implemented to verify its execution shall not apply for the on-the-spot-checks conducted in the year 2020.
+
+3\. By way of derogation from Article 29(2) of Implementing Regulation (EU) 2017/892, in the year 2020, Member States may check for all withdrawn products, irrespective of their intended destination, a smaller percentage than that laid down in that provision, provided it is not less than 10 % of the quantities concerned during the marketing year of any given producer organisation. The check may take place at the premises of the producer organisation or at the sites of the recipients of the products. In the event that the checks reveal irregularities, Member States shall carry out additional checks.
+
+4\. By way of derogation from Article 30(3) of Implementing Regulation (EU) 2017/892, in the year 2020, each check shall include a sample representing at least 3 % of the quantities withdrawn by the producer organisation during the marketing year 2019.
+
+### SECTION 2 — Derogations from Implementing Regulation (EU) 2016/1150
+
+#### Article 15
+
+1\. By way of derogation from Articles 32(1) and 42(3) of Implementing Regulation (EU) 2016/1150, during the financial year 2019-2020, where the crisis due to the pandemic of COVID-19 prevents Member States from carrying out on–the-spot checks in accordance with those provisions, such checks may be replaced by other types of controls to be defined by Member States, such as dated photographs, dated drone surveillance reports, administrative checks or videoconferences with the beneficiaries, guaranteeing that the rules relating to the support programmes in the wine sector are respected.
+
+2\. By way of derogation from Article 43(3) of Implementing Regulation (EU) 2016/1150, during the financial year 2019-2020, where the crisis due to the pandemic of COVID-19 prevents Member States from carrying out on–the-spot checks in accordance with that provision, such checks on green harvesting operations shall take place by 15 September 2020.
+
+### SECTION 3 — Derogations from Implementing Regulation (EU) 2018/274
+
+#### Article 16
+
+1\. By way of derogation from Article 27(3) of Implementing Regulation (EU) 2018/274, where the crisis due to the pandemic of COVID-19 prevents Member States during the period of the grape harvest in the year 2020 from collecting and processing fresh grapes to the extent of the number of samples set out in Part II of Annex III to that Regulation, Member States may derogate from that number of samples.
+
+2\. By way of derogation from point (b) of Article 31(2) of Implementing Regulation (EU) 2018/274, where the crisis due to the pandemic of COVID-19 prevents Member States from carrying out on-the-spot checks in the year 2020 in accordance with that provision, Member States shall carry out such checks on at least 3 % of all wine growers identified in the vineyard register.
+
+3\. By way of derogation from point (c) of Article 31(2) of Implementing Regulation (EU) 2018/274, Member States may in the year 2020 temporarily suspend systematic on-the-spot checks carried out in areas planted with vines which are not included in any wine grower file in cases where the crisis due to the pandemic of COVID-19 prevents Member States from carrying out such checks.
+
+### SECTION 4 — Derogation from Implementing Regulation (EU) 2017/39
+
+#### Article 17
+
+By way of derogation from the first subparagraph of Article 10(2) of Implementing Regulation (EU) 2017/39, with regard to school year 2018/2019, Member States may continue to carry out on-the-spot checks until 15 October 2020.
+
+### SECTION 5 — Derogations from Implementing Regulation (EU) 2015/1368
+
+#### Article 18
+
+By way of derogation from Article 8(3) of Implementing Regulation (EU) 2015/1368, during apiculture year 2020 Member States may decide to deviate from the 5 % threshold regarding on-the-spot checks of applicants for aid within the framework of their apiculture programme provided that they replace the planned on-the-spot checks by alternative checks via requesting photographs, via video conversations or through any other means that could serve as support when verifying the correct implementation of the measures included in the apiculture programme.
+
+### SECTION 6 — Derogations from Implementing Regulation (EU) 2016/1240
+
+#### Article 19
+
+1\. By way of derogation from Article 60(1) and (2) of Implementing Regulation (EU) 2016/1240, where due to the measures put in place to address the pandemic of COVID-19 the paying agency is not in a position to carry out in due time the on-the-spot and physical checks referred to in Article 60(1) and (2) of that Regulation, for the products stored pursuant to Implementing Regulation (EU) 2019/1882, the Member State concerned may decide to extend the period to carry out the checks by up to 30 days after the end of those measures or to fully substitute on-the-spot checks during the period when those measures are in place by the use of relevant evidence, including geotagged photos or other evidence in electronic format.
+
+2\. By way of derogation from Article 60(5) of Implementing Regulation (EU) 2016/1240, where due to the measures put in place to address the pandemic of COVID-19, the paying agency is not in a position to verify on-the-spot the presence and integrity of the seals, for the products stored pursuant to Implementing Regulation (EU) 2019/1882, the Member State concerned may decide to fully substitute on-the-spot verification during the period when those measures are in place by the use of relevant evidence, including geotagged photos or other evidence in electronic format.
+
+## CHAPTER IV — FINAL PROVISION
+
+#### Article 20
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).
+
+( 2 ) Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7).
+
+( 3 ) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 (OJ L 347, 20.12.2013, p. 487).
+
+( 4 ) Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EC) No 1083/2006 (OJ L 347, 20.12.2013, p. 320).

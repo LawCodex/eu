@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(codified version)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2017/2455 of 5 December 2017 </td><td> L 348</td><td>7</td><td>29.12.2017</td></tr>
 <tr><td> M2</td><td>Amended by:  COUNCIL DECISION (EU) 2020/1109 of 20 July 2020 </td><td> L 244</td><td>3</td><td>29.7.2020</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2009/132/EC**
 

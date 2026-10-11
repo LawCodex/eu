@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the approximation of the laws of the Member States relating to the safeguarding of employees' rights in the event of transfers of undertakings, businesses or parts of undertakings or businesses**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2015/1794 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 October 2015 </td><td> L 263</td><td>1</td><td>8.10.2015</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2001/23/EC**
 

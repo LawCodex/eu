@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2015/1794 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 6 October 2015 </td><td> L 263</td><td>1</td><td>8.10.2015</td></tr>
+</table>
 
 **DIRECTIVE 2009/38/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

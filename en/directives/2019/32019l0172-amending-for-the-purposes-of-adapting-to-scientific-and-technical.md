@@ -91,6 +91,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 15 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘15</td><td>Lead in solders to complete a viable electrical connection between semiconductor die and carrier within integrated circuit flip chip packages</td><td>Applies to categories 8, 9 and 11 and expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 8 and 9 other than in vitro diagnostic medical devices and industrial monitoring and control instruments;</td></tr>
 </tbody>
 </table>
@@ -112,3 +113,4 @@ In Annex III, entry 15 is replaced by the following:
 </table>
 </td><td>Applies to categories 1 to 7 and 10 and expires on 21 July 2021.’</td></tr>
 </tbody>
+</table>

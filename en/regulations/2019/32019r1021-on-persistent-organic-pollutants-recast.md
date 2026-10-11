@@ -1,0 +1,755 @@
+---
+title: "Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)"
+identifier: "32019R1021"
+eli: "http://data.europa.eu/eli/reg/2019/1021/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-06-20
+entry_into_force: 2019-10-27
+last_amended: 2026-09-30
+consolidated_version: "02019R1021-20260930"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R1021-20260930"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on persistent organic pollutants (recast) (Text with EEA relevance.)
+
+**REGULATION (EU) 2019/1021 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 June 2019**
+
+**on persistent organic pollutants**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/784 of 8 April 2020 </td><td> L 188I</td><td>1</td><td>15.6.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1203 of 9 June 2020 </td><td> L 270</td><td>1</td><td>18.8.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1204 of 9 June 2020 </td><td> L 270</td><td>4</td><td>18.8.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/115 of 27 November 2020 </td><td> L 36</td><td>7</td><td>2.2.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/277 of 16 December 2020 </td><td> L 62</td><td>1</td><td>23.2.2021</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/2291 of 8 September 2022 </td><td> L 303</td><td>19</td><td>23.11.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/2400 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 November 2022 </td><td> L 317</td><td>24</td><td>9.12.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/866 of 24 February 2023 </td><td> L 113</td><td>5</td><td>28.4.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/1608 of 30 May 2023 </td><td> L 198</td><td>24</td><td>8.8.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2555 of 21 March 2024 </td><td> L 2555</td><td>1</td><td>27.9.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2570 of 22 July 2024 </td><td> L 2570</td><td>1</td><td>27.9.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/718 of 14 April 2025 </td><td> L 718</td><td>1</td><td>27.6.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1399 of 5 May 2025 </td><td> L 1399</td><td>1</td><td>14.7.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/843 of 5 May 2025 </td><td> L 843</td><td>1</td><td>15.7.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1930 of 15 May 2025 </td><td> L 1930</td><td>1</td><td>25.9.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1482 of 24 July 2025 </td><td> L 1482</td><td>1</td><td>28.10.2025</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/2457 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 November 2025 </td><td> L 2457</td><td>1</td><td>12.12.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/1423 of 30 June 2026 </td><td> L 1423</td><td>1</td><td>10.9.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2019/1021 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 June 2019**
+
+**on persistent organic pollutants**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Objective and subject matter
+
+Taking into account, in particular, the precautionary principle, the objective of this Regulation is to protect human health and the environment from POPs by prohibiting, phasing out as soon as possible, or restricting the manufacturing, placing on the market and use of substances subject to the Stockholm Convention on Persistent Organic Pollutants, hereinafter ‘the Convention’, or the Protocol to the 1979 Convention on Long-Range Transboundary Air Pollution on Persistent Organic Pollutants, hereinafter ‘the Protocol’, by minimising, with a view to eliminating where feasible as soon as possible, releases of such substances, and by establishing provisions regarding waste consisting of, containing or contaminated by any of those substances.
+
+Where appropriate, Member States may apply stricter requirements than those laid down in this Regulation, in accordance with the TFEU.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+(1) ‘placing on the market’ means placing on the market as defined in point 12 of Article 3 of Regulation (EC) No 1907/2006;
+
+(2) ‘article’ means article as defined in point 3 of Article 3 of Regulation (EC) No 1907/2006;
+
+(3) ‘substance’ means substance as defined in point 1 of Article 3 of Regulation (EC) No 1907/2006;
+
+(4) ‘mixture’ means mixture as defined in point 2 of Article 3 of Regulation (EC) No 1907/2006;
+
+(5) ‘manufacturing’ means manufacturing as defined in point 8 of Article 3 of Regulation (EC) No 1907/2006;
+
+(6) ‘use’ means use as defined in point 24 of Article 3 of Regulation (EC) No 1907/2006;
+
+(7) ‘import’ means import as defined in point 10 of Article 3 of Regulation (EC) No 1907/2006;
+
+(8) ‘waste’ means waste as defined in point 1 of Article 3 of Directive 2008/98/EC;
+
+(9) ‘disposal’ means disposal as defined in point 19 of Article 3 of Directive 2008/98/EC;
+
+(10) ‘recovery’ means recovery as defined in point 15 of Article 3 of Directive 2008/98/EC;
+
+(11) ‘closed-system site-limited intermediate’ means a substance that is manufactured for, and consumed in or used for chemical processing in order to be transformed into another substance (‘synthesis’) and where the manufacture of the intermediate and the synthesis of one or more other substances from that intermediate take place on the same site, by one or more legal entities, under strictly controlled conditions in that it is rigorously contained by technical means during its whole life cycle;
+
+(12) ‘unintentional trace contaminant’ means a level of a substance that is incidentally present in a minimal amount, below which the substance cannot be meaningfully used, and above the detection limit of existing detection methods to enable control and enforcement;
+
+(13) ‘stockpile’ means substances, mixtures or articles accumulated by the holder that consist of or contain any substance listed in Annex I or II.
+
+## Article 3 — Control of manufacturing, placing on the market and use, and the listing of substances
+
+1\. The manufacturing, placing on the market and use of substances listed in Annex I, whether on their own, in mixtures or in articles, shall be prohibited, subject to Article 4.
+
+2\. The manufacturing, placing on the market and use of substances listed in Annex II, whether on their own, in mixtures or in articles, shall be restricted, subject to Article 4.
+
+3\. Member States and the Commission shall, within the assessment and authorisation schemes for existing and new substances under the relevant Union legislation, take into consideration the criteria set out in paragraph 1 of Annex D to the Convention and take appropriate measures to control existing substances and prevent the manufacturing, placing on the market and use of new substances, which exhibit characteristics of POPs.
+
+4\. When preparing a proposal to the Council, pursuant to Article 218(9) TFEU, for the listing of a substance in accordance with the provisions of the Convention, the Commission shall be supported by the European Chemicals Agency (‘the Agency’), established by Regulation (EC) No 1907/2006, as referred to in point (c) of Article 8(1). The competent authorities of Member States may forward proposals for listing to the Commission. In the further stages of the listing process, the Agency shall provide support to the Commission and the competent authorities of the Member States, as referred to in point (e) of Article 8(1).
+
+5\. The Commission and the Agency shall, in all stages of the process referred to in paragraphs 3 and 4, cooperate with and inform the competent authorities of the Member States.
+
+6\. Waste consisting of, containing or contaminated by any substance listed in Annex IV is regulated by Article 7.
+
+## Article 4 — Exemptions from control measures
+
+1\. Article 3 shall not apply in the case of:
+
+(a) a substance used for laboratory-scale research or as a reference standard;
+
+(b) a substance present as an unintentional trace contaminant, as specified in the relevant entries of Annex I or II, in substances, mixtures or articles.
+
+2\. For a substance added to Annex I or II after 15 July 2019, Article 3 shall not apply for a six-month period if that substance is present in articles produced before or on the date that this Regulation becomes applicable to that substance.
+
+Article 3 shall not apply in the case of a substance present in articles already in use before or on the date that this Regulation or Regulation (EC) No 850/2004 became applicable to that substance, whichever date came first.
+
+Immediately upon becoming aware of articles as referred to in the first and second subparagraph, a Member State shall inform the Commission and the Agency accordingly.
+
+Whenever the Commission is so informed or otherwise learns of such articles, it shall, where appropriate, notify the Secretariat of the Convention accordingly without further delay.
+
+3\. Where a substance is listed in Part A of Annex I or in Part A of Annex II, a Member State wishing to permit, until the deadline specified in the relevant Annex, the manufacturing and use of that substance as a closed-system site-limited intermediate shall notify accordingly the Secretariat of the Convention.
+
+Such notification may be made only if the following conditions are satisfied:
+
+(a) following the request of a Member State or on the Commission's own initiative, an annotation has been entered in the relevant Annex, by means of a delegated act adopted on the basis of the fourth subparagraph;
+
+(b) the manufacturer demonstrates to the competent authority of the Member State in which the manufacturer is established that the manufacturing process will transform the substance into one or more other substances that do not exhibit the characteristics of a POP, ensuring that it is rigorously contained by technical means during its whole life cycle;
+
+(c) the manufacturer demonstrates to the competent authority of the Member State in which the manufacturer is established that the substance is a closed-system site-limited intermediate and that it is not expected that either humans or the environment will be exposed to any significant quantities of the substance during its production and use;
+
+(d) the manufacturer informs the Member State on the details of actual or estimated total manufacturing and use of the substance concerned and the nature of the closed-system site-limited process, specifying the amount of any non-transformed and unintentional trace contamination by any POP starting material in the final substance, mixture or article.
+
+Within one month of submission of the notification to the Secretariat of the Convention, the Member State shall communicate the notification to the other Member States, to the Commission and the Agency, and shall give details of actual or estimated total manufacturing and use of the substance concerned and the nature of the closed-system site-limited process, specifying the amount of any non-transformed and unintentional trace contamination by any POP starting material in the final substance, mixture or article.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 18 in order to amend Annexes I and II by entering annotations expressly to the effect that manufacturing and use, as a closed-system site-limited intermediate, of a substance listed in Part A of the relevant Annex may be permitted, and to amend the deadlines in such annotations in cases where, following a repeat notification from the Member State concerned to the Secretariat of the Convention, express or tacit consent is issued under the Convention for the continued manufacturing and use of the substance for another period.
+
+4\. Waste consisting of, containing or contaminated by any substance listed in Annex IV is regulated by Article 7.
+
+## Article 5 — Stockpiles
+
+1\. The holder of a stockpile, which consists of or contains any substance listed in Annex I or II, for which no use is permitted, shall manage that stockpile as waste and in accordance with Article 7.
+
+2\. The holder of a stockpile greater than 50 kg, consisting of or containing any substance listed in Annex I or II, and the use of which is permitted shall provide the competent authority of the Member State in which the stockpile is established with information concerning the nature and size of that stockpile. Such information shall be provided within 12 months of the date that this Regulation or Regulation (EC) No 850/2004 became applicable to that substance, whichever date came first for the holder, and of relevant amendments to Annex I or II and annually thereafter until the deadline specified in Annex I or II for restricted use.
+
+The holder shall manage the stockpile in a safe, efficient and environmentally sound manner, in accordance with the thresholds and requirements laid down in Directive 2012/18/EU of the European Parliament and of the Council ( 1 ) and taking all adequate steps to ensure that the stockpile is managed in a manner that will protect human health and the environment.
+
+3\. Member States shall monitor the use and management of notified stockpiles.
+
+## Article 6 — Release reduction, minimisation and elimination
+
+1\. Within two years of the date of entry into force of this Regulation or Regulation (EC) No 850/2004, whichever date came first, Member States shall draw up inventories for the substances listed in Annex III released into air, water and land in accordance with their obligations under the Convention and the Protocol and shall subsequently maintain such inventories.
+
+2\. Member States shall communicate their action plans on measures to identify, characterise and minimise, with a view to eliminating where feasible as soon as possible, the total releases of substances listed in Annex III as recorded in their inventories drawn up in accordance with their obligations under the Convention, to the Commission, the Agency and to the other Member States as part of their national implementation plans, pursuant to Article 9.
+
+Such action plans shall include measures to promote the development of, and, where it is considered appropriate, shall require the use of substitute or modified substances, mixtures, articles and processes to prevent the formation and release of substances listed in Annex III.
+
+3\. Member States shall, when considering proposals to construct new facilities or to significantly modify existing facilities using processes that release chemicals listed in Annex III, give priority consideration to alternative processes, techniques or practices that have similar usefulness but which avoid the formation and release of substances listed in Annex III, without prejudice to Directive 2010/75/EU of the European Parliament and of the Council ( 2 ).
+
+## Article 7 — Waste management
+
+1\. Producers and holders of waste shall undertake all reasonable efforts to avoid, where feasible, contamination of this waste with substances listed in Annex IV.
+
+2\. Notwithstanding Council Directive 96/59/EC ( 3 ), waste consisting of, containing or contaminated by any substance listed in Annex IV to this Regulation shall be disposed of or recovered, without undue delay and in accordance with Part 1 of Annex V to this Regulation, in such a way as to ensure that the POP content is destroyed or irreversibly transformed so that the remaining waste and releases do not exhibit the characteristics of POPs.
+
+In carrying out such a disposal or recovery, any substance listed in Annex IV may be isolated from the waste, provided that this substance is subsequently disposed of in accordance with the first subparagraph.
+
+3\. Disposal or recovery operations that may lead to recovery, recycling, reclamation or re-use on their own of the substances listed in Annex IV shall be prohibited.
+
+4\. By way of derogation from paragraph 2:
+
+(a) waste containing or contaminated by any substance listed in Annex IV may be otherwise disposed of or recovered in accordance with the relevant Union legislation, provided that the content of the listed substances in the waste is below the concentration limits specified in Annex IV;
+
+(b) a Member State or the competent authority designated by that Member State may, in exceptional cases, allow wastes listed in Part 2 of Annex V containing or contaminated by a substance listed in Annex IV up to concentration limits specified in Part 2 of Annex V to be otherwise dealt with in accordance with a method listed in Part 2 of Annex V, provided that the following conditions are fulfilled:
+
+(i) the holder concerned has demonstrated to the satisfaction of the competent authority of the Member State concerned that decontamination of the waste in relation to substances listed in Annex IV was not feasible, and that destruction or irreversible transformation of the POP content, performed in accordance with best environmental practice or best available techniques, does not represent the environmentally preferable option and the competent authority has subsequently authorised the alternative operation;
+
+(ii) the holder concerned has provided information on the POP content of the waste to the competent authority;
+
+(iii) the operation is in accordance with relevant Union legislation and with the conditions laid down in relevant additional measures referred to in paragraph 5;
+
+(iv) the Member State concerned has informed the other Member States, the Agency and the Commission of its authorisation and the justification for it.
+
+5\. The Commission may, where appropriate, and taking into consideration technical developments and relevant international guidelines and decisions and any authorisations granted by a Member State, or by the competent authority designated by that Member State in accordance with paragraph 4 and Annex V, adopt implementing acts concerning the implementation of this Article. In particular, the Commission may specify the format of the information to be submitted by Member States in accordance with point (b)(iv) of paragraph 4. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 20(3).
+
+6\. Member States shall take the necessary measures to ensure the control and traceability, in accordance with Article 17 of Directive 2008/98/EC, of waste containing or contaminated by a substance listed in Annex IV to this Regulation.
+
+## Article 8 — Tasks of the Agency and the Forum
+
+1\. The Agency shall, in addition to the tasks allocated to it under Articles 9, 10, 11, 13 and 17, carry out the following tasks:
+
+(a) with the agreement of the Commission, provide the designated competent authorities of the Member States and the members of the Forum for Exchange of Information on Enforcement established by Regulation (EC) No 1907/2006 (‘Forum’), as well as stakeholders as appropriate, with assistance and technical and scientific guidance in order to ensure the effective application of this Regulation;
+
+(b) upon request, provide the Commission with technical and scientific input and assist it in order to ensure the effective implementation of this Regulation;
+
+(c) provide technical and scientific support and input to the Commission as regards substances that may meet the criteria for listing in the Convention or the Protocol, taking into account, as appropriate, results from existing assessment schemes referred to in Article 3(3);
+
+(d) publish on its website a notice that a proposal for the listing of a substance will be prepared by the Commission, invite all interested parties to submit comments within eight weeks, and publish those comments on its website;
+
+(e) provide the Commission and the Member States with technical and scientific support in the preparation and review of the risk profile and the risk management evaluation of a substance considered under the Convention, invite all interested parties to submit comments or additional information, or both, within eight weeks and publish those comments on its website;
+
+(f) upon request, provide the Commission with technical and scientific support in implementing and further developing the Convention, in particular with respect to the POPs Review Committee;
+
+(g) compile, register, process and make available to the Commission and the competent authorities of the Member States all the information received or available pursuant to Article 4(2) and (3), point (b)(iv) of Article 7(4), Article 9(2) and Article 13(1). Where such information is non-confidential, the Agency shall make that information publicly available on its website and shall facilitate the exchange of that information with relevant information platforms such as those referred to in Article 13(2);
+
+(h) establish and maintain sections on its website for all matters relating to the implementation of this Regulation;
+
+(i) upon request by the Commission, draw up and submit a report within 12 months of the request on the impacts on human health and on the environment and socioeconomic impacts of introducing or amending concentration limit values specified in Annex IV or V.
+
+1a. The report referred to in paragraph 1, point (i), shall contain the following information:
+
+(a) information on the impacts on human health and on the environment of waste consisting of, containing or contaminated with POPs, including impacts on waste management;
+
+(b) information on concentrations and mass flows of POPs in relevant waste streams and on waste treatment and treatment capacities;
+
+(c) an analysis of the impacts of the different concentration limit values considered in drawing up the report;
+
+(d) a reasoned proposal for concentration limit values to be introduced in Annex IV and, as appropriate, in Annex V.
+
+The Agency shall, as soon as it receives the request referred to in paragraph 1, point (i), publish on its website a notice that a report on a possible amendment of Annex IV or V will be prepared. The notice shall also invite all interested parties, including waste operators and users of recycled materials, to submit comments within 8 weeks. The Agency shall publish those comments on its website.
+
+At the latest 9 months following the submission of the report referred to in paragraph 1, point (i), of this Article, the Committee for Socioeconomic Analysis of the Agency, set up pursuant to Article 76(1), point (d), of Regulation (EC) No 1907/2006, shall adopt an opinion on the report and on the concentration limit values proposed therein. For that purpose Article 87 of Regulation (EC) No 1907/2006 shall apply mutatis mutandis.
+
+The Agency shall then submit the report and the opinion of the Committee for Socioeconomic Analysis on the concentration limit values to the Commission without delay.
+
+2\. The Forum shall be used to coordinate a network of the Member States' authorities responsible for enforcement of this Regulation.
+
+The members of the Forum who are appointed by a Member State shall ensure that there is appropriate coordination between the tasks of the Forum and the work of their Member State competent authority.
+
+The Forum shall involve the enforcement authorities of Member States responsible for waste when dealing with waste-related issues.
+
+3\. The Secretariat of the Agency shall carry out the tasks allocated to the Agency under this Regulation.
+
+## Article 9 — Implementation plans
+
+1\. When preparing and updating their national implementation plans, Member States shall, in accordance with their national procedures, give the public early and effective opportunities to participate in this process.
+
+2\. As soon as a Member State has adopted its national implementation plan in accordance with its obligations under the Convention, it shall make it publicly available and communicate its publication to the Commission, the Agency and to the other Member States.
+
+3\. When Member States are preparing and updating their implementation plans, the Commission, supported by the Agency, and the Member States shall exchange information on the content, including information on measures taken at national level to identify and assess sites contaminated by POPs, as appropriate.
+
+4\. The Commission, supported by the Agency, shall maintain a plan for the implementation of Union obligations under the Convention and shall publish, review and update that plan, as appropriate.
+
+## Article 10 — Monitoring
+
+1\. The Commission, supported by the Agency, and the Member States shall establish or maintain, as appropriate, in close cooperation, appropriate programmes and mechanisms, consistent with the state of the art, for the regular provision of comparable monitoring data on the presence of substances as listed in Part A of Annex III in the environment. When establishing or maintaining such programmes and mechanisms, due account shall be taken of developments under the Protocol and the Convention.
+
+2\. The Commission shall regularly assess the possible need for the mandatory monitoring of a substance listed in Part B of Annex III. In the light of such an assessment and any data made available to it by Member States, the Commission is empowered to adopt delegated acts in accordance with Article 18 to amend Annex III in order to move, where appropriate, a substance from Part B of Annex III to Part A thereof.
+
+## Article 11 — Information exchange
+
+1\. The Commission, the Agency and the Member States shall facilitate and undertake the exchange within the Union and with third countries of information relevant to the reduction, minimisation or elimination, where feasible, of the manufacturing, use and release of POPs and to alternatives to those substances, specifying the risks and the economic and social costs related to such alternatives.
+
+2\. The Commission, the Agency and the Member States, as appropriate, shall promote and facilitate with regard to POPs:
+
+(a) awareness programmes, including relating to their health and environmental effects and their alternatives and on the reduction or elimination of their manufacture, use and release, especially for:
+
+(i) policy- and decision-makers;
+
+(ii) particularly vulnerable groups;
+
+(b) the provision of public information;
+
+(c) training, including workers, scientists, educators and technical and managerial personnel.
+
+3\. Without prejudice to Regulations (EC) No 1049/2001, and (EC) No 1367/2006 and Directive 2003/4/EC, information on the health and safety of humans and the environment shall not be regarded as confidential. The Commission, the Agency and the Member States that exchange information with a third country shall protect any confidential information in accordance with Union law.
+
+## Article 12 — Technical assistance
+
+In accordance with Articles 12 and 13 of the Convention, the Commission and the Member States shall cooperate in providing appropriate and timely technical and financial assistance to developing countries and countries with economies in transition to assist them, upon request and within available resources and taking into account their particular needs, to develop and strengthen their capacity to fully implement their obligations under the Convention. Such support may also be channelled through regional centres, as identified under the Convention, non-governmental organisations or the Agency.
+
+## Article 13 — Monitoring of implementation
+
+1\. Without prejudice to Directives 2003/4/EC and 2007/2/EC, Member States shall draw up and publish a report containing:
+
+(a) information on the application of this Regulation, including information on enforcement activities, infringements and penalties;
+
+(b) information compiled from the notifications received pursuant to Article 4(2) and (3), Article 5(2) and point (b)(iv) of Article 7(4);
+
+(c) information compiled from the release inventories drawn up pursuant to Article 6(1);
+
+(d) information on implementation in accordance with the national implementation plans drawn up pursuant to Article 9(2);
+
+(e) information on the presence of substances listed in Part A of Annex III in the environment, as compiled pursuant to Article 10;
+
+(f) annual monitoring and statistical data on the actual or estimated total manufacturing and placing on the market of any substance listed in Annex I or II, including relevant indicators, overview maps, reports.
+
+Member States shall update the report annually as far as new data or information is available and otherwise at least every three years.
+
+Members States shall give the Commission and the Agency access to the information contained in the reports.
+
+2\. Where a Member State shares the information referred to in paragraph 1, point (e), with the European Environmental Agency (the ‘EEA’), that Member State shall indicate that in the report and, in doing so, shall be deemed to have fulfilled its reporting obligations under that point.
+
+Where the information referred to in paragraph 1, point (e), is contained in the report of a Member State provided to the Agency, the Agency shall transmit the information to the EEA for compiling, storing and sharing that information.
+
+3\. Regarding the substances listed in the Convention, the Commission, supported by the Agency, shall, at the intervals determined by the Conference of the Parties of the Convention, compile a report on the basis of the information provided by the Member States to the Agency in accordance with point (f) of paragraph 1 and communicate it to the Secretariat of the Convention.
+
+4\. The Agency shall compile and publish a Union overview report on the basis of the data referred to in paragraphs 1 and 2 that is published or notified by the Member States. The Union overview report shall include, as appropriate, indicators for outputs, results and impact of this Regulation, Union overview maps and Member State reports. The Union overview report shall be updated by the Agency at least once every six months or following receipt of a request from the Commission.
+
+5\. The Commission may adopt implementing acts concerning the minimum information to be provided in accordance with paragraph 1, including the definition of relevant indicators, overview maps and reports referred to in point (f) of paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 20(3).
+
+## Article 14 — Penalties
+
+Member States shall lay down rules on penalties applicable to infringements of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Where Member States have not already done so before the entry into force of this Regulation, they shall notify those rules and measures to the Commission on 16 July 2020 at the latest and shall notify it, without delay, of any subsequent amendment affecting them.
+
+## Article 15 — Amendment of Annexes
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 18 to amend the Annexes I, II and III to this Regulation in order to adapt them to changes to the list of substances set out in the Annexes to the Convention or the Protocol, on the basis that the Union has supported the change concerned by means of a Council decision adopted in accordance with Article 218(9) TFEU, or to modify existing entries or provisions in Annexes I and II to this Regulation in order to adapt them to scientific and technical progress.
+
+Whenever the Commission amends Annex I, II or III to this Regulation, it shall adopt a separate delegated act in respect of each substance.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 18, in order to amend Annexes IV and V to adapt them to the changes to the list of substances set out in Annexes I, II or III or to modify existing entries in Annex IV and V to adapt them to scientific and technical progress, including developments in waste treatment and decontamination technologies or new scientific information regarding health and environmental impacts associated with the presence of a substance in waste.
+
+## Article 16 — The budget of the Agency
+
+1\. For the purposes of this Regulation, the revenues of the Agency shall consist of:
+
+(a) a subsidy from the Union, entered in the general budget of the Union (Commission Section);
+
+(b) any voluntary contribution from the Member States.
+
+2\. Revenues and expenditure for activities under this Regulation shall be combined with those relating to activities under Regulation (EU) No 649/2012 and shall be reflected in the same section in the Agency's budget. The revenues of the Agency referred to in paragraph 1 shall be used for carrying out its tasks under this Regulation.
+
+## Article 17 — Formats and software for publication or notification of information
+
+The Agency shall, in cooperation with the Member States, specify formats and software for the publication or notification of data by Member States pursuant to this Regulation and shall make them available free of charge on its website. In relation to spatial data sets and spatial data services, Member States and the Agency shall design the formats in accordance with the requirements of Directive 2007/2/EC. Member States and other parties subject to this Regulation shall use those formats and software in their data management or data exchange with the Agency.
+
+## Article 18 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 4(3), Article 10(2) and Article 15 shall be conferred on the Commission for a period of five years from 1 January 2026.  The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 4(3), Article 10(2) and Article 15 may be revoked at any time by the European Parliament or by the Council.  A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 4(3), Article 10(2) or Article 15 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 19 — Competent authorities
+
+Each Member State shall designate a competent authority or authorities responsible for the administrative tasks and enforcement required by this Regulation. It shall inform the Commission of such designation at the latest three months after the entry into force of this Regulation, unless it has already done so before the entry into force of this Regulation, and shall also inform the Commission of any change of designated competent authority.
+
+## Article 20 — Committee procedure
+
+1\. Except in the case referred to in paragraph 2, the Commission shall be assisted by the Committee established by Article 133 of Regulation (EC) No 1907/2006. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. For matters relating to waste, the Commission shall be assisted by the Committee established by Article 39 of Directive 2008/98/EC. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+3\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+## Article 21 — Repeal
+
+Regulation (EC) No 850/2004 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex VII.
+
+## Article 21a — Transitional provision
+
+1\. A value of 10 μg/kg shall apply to fly ashes from biomass units for heat and power production containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyl (dl-PCBs) as listed in Annex IV until 30 December 2023. The value of 5 μg/kg provided for in Annex IV shall apply to fly ashes from biomass units for heat and power production from 31 December 2023.
+
+2\. A value of 15 μg/kg shall continue to apply for ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) as listed in Annex IV until 31 December 2024. For ashes and soot from private households containing or contaminated by polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs), the value of 5 μg/kg provided for in Annex IV shall apply from 1 January 2025.
+
+## Article 21b — Review
+
+Taking due account of any regulatory developments concerning the status of the resources and of the governance of the scientific committees of the European Chemicals Agency, the Commission shall monitor the situation regarding the tasks, workload and remit of the scientific committees, and, where appropriate, present a legislative proposal to amend this Regulation accordingly.
+
+## Article 22 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Part A**
+
+**Substances listed in the Convention and in the Protocol as well as substances listed only in the Convention**
+
+<table>
+<tbody><tr><td>Substance</td><td>CAS No</td><td>EC No</td><td>Specific exemption on intermediate use or other specification</td></tr>
+<tr><td>Tetrabromodiphenyl ether C12H6Br4O </td><td>40088-47-9 and others</td><td>254-787-2 and others</td><td><br> 1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of tetrabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances. <br> 2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances: <br> (a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004 of the European Parliament and of the Council (10); <br> (b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027, where they are present in toys subject to Directive 2009/48/EC of the European Parliament and of the Council (11), or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.   <br> 3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed: <br> electrical and electronic equipment within the scope of Directive 2011/65/EU of the European Parliament and of the Council (1). <br> 4. Use of articles already in use in the Union before 25 August 2010 containing tetrabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.   </td></tr>
+<tr><td>Pentabromodiphenyl ether C12H5Br5O </td><td>32534-81-9 and others</td><td>251-084-2 and others</td><td> 1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of pentabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances. <br> 2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances: <br> (a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027, where they are present in toys subject to Directive 2009/48/EC, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.   <br> 3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed: <br> electrical and electronic equipment within the scope of Directive 2011/65/EU. <br> 4. Use of articles already in use in the Union before 25 August 2010 containing pentabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.   </td></tr>
+<tr><td>Hexabromodiphenyl ether C12H4Br6O </td><td>36483-60-0 and others</td><td>253-058-6 and others</td><td> 1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of hexabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances. <br> 2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances: <br> (a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027, where they are present in toys subject to Directive 2009/48/EC, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.   <br> 3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed: <br> electrical and electronic equipment within the scope of Directive 2011/65/EU. <br> 4. Use of articles already in use in the Union before 25 August 2010 containing hexabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.   </td></tr>
+<tr><td>Heptabromodiphenyl ether C12H3Br7O </td><td>68928-80-3 and others</td><td>273-031-2 and others</td><td> 1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of heptabromodiphenyl ether equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances. <br> 2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances: <br> (a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027, where they are present in toys subject to Directive 2009/48/EC, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.   <br> 3. By way of derogation, the manufacturing, placing on the market and use of the following shall be allowed: <br> electrical and electronic equipment within the scope of Directive 2011/65/EU. <br> 4. Use of articles already in use in the Union before 25 August 2010 containing heptabromodiphenyl ether shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles.   </td></tr>
+<tr><td>Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE)</td><td>1163-19-5</td><td>214-604-9</td><td> 1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of decaBDE equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances. <br> 2. For the purposes of the entries on tetra-, penta-, hexa-, hepta- and decaBDE, point (b) of Article 4(1) shall apply to the following sum of the concentrations of those substances: <br> (a) 10 mg/kg upon entry into force of this Regulation where they are present in mixtures or articles, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (b) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 200 mg/kg as of 30 December 2027 where they are present in mixtures or articles containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004; <br> (c) by way of derogation from point (a), 500 mg/kg upon entry into force of this Regulation, 350 mg/kg as of 30 December 2025 and 10 mg/kg as of 17 May 2027 where they are present in toys subject to Directive 2009/48/EC, or in any product facilitating children’s seating, sleep, relaxation, hygiene, changing and general body care, feeding, sucking, transportation and protection, containing or made of recovered material containing tetra-, penta-, hexa-, hepta- or decaBDE, except for food contact materials subject to Regulation (EC) No 1935/2004.   <br> 3. By way of derogation, the manufacturing, placing on the market and use of decaBDE shall be allowed for the following purposes, provided that Member States report to the Commission by December 2019 in accordance with the Convention: <br> (a) in the manufacturing of an aircraft, for which type approval has been applied for before 2 March 2019 and has been received before December 2022, until 18 December 2023, or, in cases where the continuing need is justified, until 2 March 2027; <br> (b) in the manufacturing of spare parts for either of the following: <br> (i) an aircraft, for which type approval has been applied for before 2 March 2019 and has been received before December 2022, produced before 18 December 2023, or, in cases where the continuing need is justified, produced before 2 March 2027, until the end of service life of that aircraft; <br> (ii) motor vehicles within the scope of Directive 2007/46/EC of the European Parliament and of the Council (2), produced before 15 July 2019, either until 2036 or the end of service life of those motor vehicles, whichever date comes earlier; <br> (c) electric and electronic equipment within the scope of Directive 2011/65/EU.   <br> 4. The specific exemptions for spare parts for use in motor vehicles referred to in point 3(b)(ii) shall apply for the manufacturing and use of commercial decaBDE falling into one or more of the following categories: <br> (a) powertrain and under-hood applications such as battery mass wires, battery interconnection wires, mobile air condition (MAC) pipes, powertrains, exhaust manifold bushings, under- hood insulation, wiring and harness under-hood (engine wiring, etc.), speed sensors, hoses, fan modules and knock sensors; <br> (b) fuel system applications such as fuel hoses, fuel tanks and fuel tanks under body; <br> (c) pyrotechnical devices and applications affected by pyrotechnical devices such as airbag ignition cables, seat covers/fabrics (only if airbag relevant) and airbags (front and side).   <br> 5. Use of articles already in use before 15 July 2019 in the Union containing decaBDE shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles. <br> 6. Without prejudice to the application of other Union provisions on the classification, packaging and labelling of substances and mixtures, articles in which decaBDE is used shall be identifiable by labelling or other means throughout its life cycle. <br> 7. The placing on the market and use of articles containing decaBDE imported for the purposes of the specific exemptions in point 3 shall be allowed until the expiry of those exemptions. Point 6 shall apply as if such articles were produced pursuant to the exemption in point 3. Such articles already in use by the date of expiry of the relevant exemption may continue to be used.   <br> 8. For the purposes of this entry ‘aircraft’ means the following: <br> (a) a civil aircraft produced in accordance with a type certificate issued under Regulation (EC) No 216/2008 of the European Parliament and of the Council (3) or with a design approval issued under the national regulations of a contracting state of ICAO, or for which a certificate of airworthiness has been issued by an ICAO Contracting State under Annex 8 to the Convention on International Civil Aviation; <br> (b) a military aircraft. </td></tr>
+<tr><td><br> Perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds <br> C8F17SO2X <br> (X = OH, Metal salt (O-M+), halide, amide, and other related compounds including polymers)   </td><td>1763-23-1 2795-39-3  29457-72-5  29081-56-9  70225-14-8  56773-42-3  251099-16-8  4151-50-2  31506-32-8  1691-99-2  24448-09-7  307-35-7 and others </td><td>217-179-8 220-527-1  249-644-6  249-415-0  274-460-8  260-375-3  223-980-3  250-665-8  216-887-4  246-262-1  206-200-6 and others </td><td><br> 1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOS or any of its salts equal to or below 0,025 mg/kg (0,0000025 % by weight) where they are present in substances, mixtures or in articles.   <br> 2. For the purposes of this entry, Article 4(1), point (b), shall apply to the sum of concentrations of all PFOS-related compounds equal to or below 1 mg/kg (0,0001 % by weight) where they are present in substances, mixtures or articles.   <br> 3. Use of articles already in use in the Union before 25 August 2010 containing PFOS shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles. <br> 4. If the quantity released into the environment is minimised, manufacturing and placing on the market shall be allowed until 7 September 2025 for use as mist suppressant for non-decorative hard chromium (VI) plating in closed loop systems. Provided that those Member States where PFOS is used report to the Commission by 7 September 2024 on progress made to eliminate PFOS and justify the continuing need for this use, the Commission shall review the need for a prolongation of the derogation for this use of PFOS for a maximum of five years by 7 September 2025. <br> Where such a derogation concerns production or use in an installation within the scope of Directive 2008/1/EC of the European Parliament and of the Council (4), the relevant best available techniques for the prevention and minimisation of emissions of PFOS described in the information published by the Commission pursuant to Article 17(2), second subparagraph, of Directive 2008/1/EC shall apply. <br> As soon as new information on details of uses and safer alternative substances or technologies becomes available, the Commission shall review the derogation in the second subparagraph so that: <br> (a) the uses of PFOS will be phased out as soon as the use of safer alternatives is technically and economically feasible; <br> (b) a derogation can only be continued for essential uses for which safer alternatives do not exist and where the efforts undertaken to find safer alternatives have been reported on; <br> (c) releases of PFOS into the environment have been minimised by applying best available techniques.     <br> 5. Once standards are adopted by the European Committee for Standardisation (CEN) they shall be used as the analytical test methods for demonstrating the conformity of substances, mixtures and articles to points 1 and 2. Any other analytical method for which the user can prove equivalent performance could be used as an alternative to the CEN standards.   </td></tr>
+<tr><td>DDT (1,1,1-trichloro-2,2-bis(4-chlorophenyl)ethane)</td><td>50-29-3</td><td>200-024-3</td><td>—</td></tr>
+<tr><td>Chlordane</td><td>57-74-9</td><td>200-349-0</td><td>—</td></tr>
+<tr><td rowspan="4">Hexachlorocyclohexanes, including lindane</td><td>58-89-9</td><td>200-401-2</td><td rowspan="4">—</td></tr>
+<tr><td>319-84-6</td><td>206-270-8</td></tr>
+<tr><td>319-85-7</td><td>206-271-3</td></tr>
+<tr><td>608-73-1</td><td>210-168-9</td></tr>
+<tr><td>Dieldrin</td><td>60-57-1</td><td>200-484-5</td><td>—</td></tr>
+<tr><td>Endrin</td><td>72-20-8</td><td>200-775-7</td><td>—</td></tr>
+<tr><td>Heptachlor</td><td>76-44-8</td><td>200-962-3</td><td>—</td></tr>
+<tr><td>Endosulfan</td><td>115-29-7 959-98-8  33213-65-9 </td><td>204-079-4</td><td>1. Placing on the market and use of articles already in use before or on 10 July 2012 containing endosulfan shall be allowed. 2. Article 4(2), third and fourth subparagraphs shall apply to articles referred to in point 1. </td></tr>
+<tr><td>Hexachlorobenzene</td><td>118-74-1</td><td>204-273-9</td><td> For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of hexachlorobenzene equal to or below 10 mg/kg (0,001 % by weight) where it is present in substances, mixtures or articles.  </td></tr>
+<tr><td>Chlordecone</td><td>143-50-0</td><td>205-601-3</td><td>—</td></tr>
+<tr><td>Aldrin</td><td>309-00-2</td><td>206-215-8</td><td>—</td></tr>
+<tr><td>Pentachlorobenzene</td><td>608-93-5</td><td>210-172-0</td><td>—</td></tr>
+<tr><td>Polychlorinated Biphenyls (PCB)</td><td>1336-36-3 and others</td><td>215-648-1 and others</td><td>Without prejudice to Directive 96/59/EC, articles already in use at the time of the entry into force of this Regulation are allowed to be used. Member States shall identify and remove from use equipment (e.g. transformers, capacitors or other receptacles containing liquid stocks) containing more than 0,005 % PCBs and volumes greater than 0,05 dm3, as soon as possible but no later than 31 December 2025. </td></tr>
+<tr><td>Mirex</td><td>2385-85-5</td><td>219-196-6</td><td>—</td></tr>
+<tr><td>Toxaphene</td><td>8001-35-2</td><td>232-283-3</td><td>—</td></tr>
+<tr><td>Hexabromobiphenyl</td><td>36355-01-8</td><td>252-994-2</td><td>—</td></tr>
+<tr><td> Hexabromocyclododecane   ‘Hexabromocyclododecane’ means: hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane; beta-hexabromocyclododecane; and gamma-hexabromocyclododecane </td><td>25637-99-4, 3194-55-6,  134237-50-6,  134237-51-7,  134237-52-8 </td><td>247-148-4, 221-695-9 </td><td><br> 1. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of hexabromocyclododecane equal to or below 75 mg/kg (0,0075 % by weight) where it is present in substances, mixtures, articles or as constituents of the flame-retarded articles. For the use of recycled polystyrene in the production of EPS and XPS insulation material for use in buildings or civil engineering works, point (b) shall apply to concentrations of hexabromocyclododecane equal to or below 100 mg/kg (0,01 % by weight). The exemptions laid down in this point 1 shall be reviewed and assessed by the Commission by 1 January 2026.   <br> 2. Expanded polystyrene articles containing hexabromocyclododecane already in use in buildings before 21 February 2018 in accordance with Commission Regulation (EU) 2016/293 (5) and Commission Implementing Decision No 2016/C 12/06 (6), and extruded polystyrene articles containing hexabromocyclododecane already in use in buildings before 23 June 2016 may continue to be used. Article 4(2), third and fourth subparagraphs shall apply to such articles. <br> 3. Without prejudice to the application of other Union provisions on the classification, packaging and labelling of substances and mixtures, expanded polystyrene placed on the market after 23 March 2016 in which hexabromocyclododecane was used shall be identifiable by labelling or other means throughout its life cycle. </td></tr>
+<tr><td>Hexachlorobutadiene</td><td>87-68-3</td><td>201-765-5</td><td>1. Placing on the market and use of articles already in use before or on 10 July 2012 containing hexachlorobutadiene shall be allowed. 2. Article 4(2), third and fourth subparagraphs shall apply to articles referred to in point 1. </td></tr>
+<tr><td>Pentachlorophenol and its salts and esters</td><td>87-86-5 and others</td><td>201-778-6 and others</td><td> For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of pentachlorophenol and its salts and esters equal to or below 5 mg/kg (0,0005 % by weight) where they are present in substances, mixtures or articles.  </td></tr>
+<tr><td>Polychlorinated naphthalenes (7)</td><td>70776-03-3 and others</td><td>274-864-4 and others</td><td>1. Placing on the market and use of articles already in use before or on 10 July 2012 containing polychlorinated naphthalenes shall be allowed. 2. Article 4(2), third and fourth subparagraphs shall apply to articles referred to in point 1. </td></tr>
+<tr><td>Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)</td><td>85535-84-8 and others</td><td>287-476-5</td><td>1. By way of derogation, the manufacturing, placing on the market and use of substances or mixtures containing SCCPs in concentrations lower than 1 % by weight or articles containing SCCPs in concentrations lower than 0,15 % by weight shall be allowed. 2. Use shall be allowed in respect of:  (a) conveyor belts in the mining industry and dam sealants containing SCCPs already in use before or on 4 December 2015; and  (b) articles containing SCCPs other than those referred to in point (a) already in use before or on 10 July 2012.  3. The third and fourth subparagraphs of Article 4(2) shall apply to the articles referred to in point 2. </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds ‘Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds’ means the following:  (i) perfluorooctanoic acid, including any of its branched isomers;  (ii) its salts;  (iii) PFOA-related compounds which, for the purposes of the Convention, are any substances that degrade to PFOA, including any substances (including salts and polymers) having a linear or branched perfluoroheptyl group with the moiety (C7F15)C as one of the structural elements.  The following compounds are not included as PFOA-related compounds:  (i) C8F17-X, where X = F, Cl, Br;  (ii) fluoropolymers that are covered by CF3[CF2]n-R’, where R’=any group, n&gt; 16;  (iii) perfluoroalkyl carboxylic acids (including their salts, esters, halides and anhydrides) with ≥ 8 perfluorinated carbons;  (iv) perfluoroalkane sulfonic acids and perfluoro phosphonic acids (including their salts, esters, halides and anhydrides) with ≥ 9 perfluorinated carbons;  (v)  perfluorooctane sulfonic acid (PFOS), its salts and PFOS-related compounds as listed in this Annex. </td><td>335-67-1 and others</td><td>206-397-9 and others</td><td> 1. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA or any of its salts equal to or below 0,025 mg/kg (0,0000025 % by weight) where they are present in substances, mixtures or articles. <br> 2. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of any individual PFOA-related compound or a combination of PFOA-related compounds equal to or below 1 mg/kg (0,0001 % by weight) where they are present in substances, mixtures or articles. <br> 3. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA-related compounds equal to or below 20 mg/kg (0,002 % by weight) where they are present in a substance to be used as a transported isolated intermediate within the meaning of Article 3 point 15(c) of Regulation (EC) No 1907/2006 and fulfilling the strictly controlled conditions set out in Article 18(4)(a) to (f) of that Regulation for the production of fluorochemicals with a perfluoro carbon chain equal to or shorter than 6 atoms.   This exemption shall be reviewed and assessed by the Commission no later than 25 August 2023.    <br> 4. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of PFOA and its salts equal to or below 1 mg/kg (0,0001 % by weight) where they are present in polytetrafluoroethylene (PTFE) micropowders produced by ionising irradiation or by thermal degradation as well as in mixtures and articles for industrial and professional uses containing PTFE micropowders until 18 August 2023. All emissions of PFOA during the manufacture and use of PTFE micropowders shall be avoided and, if not possible, reduced as far as possible. The limit of 1 mg/kg (0,0001 % by weight) shall apply only to manufacture, placing on the market and use of PFOA and its salts where they are present in PTFE micropowders that are transported or treated for the purpose to reduce the concentration of PFOA and its salts below the limit of 0,025 mg/kg (0,0000025 % by weight).   <br> 4a. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of PFOA or any of its salts equal to or below 1 mg/kg (0,0001 % by weight) and to concentrations of any individual PFOA-related compound or combination of PFOA-related compounds equal to or below 10 mg/kg (0,001 % by weight) where they are present in fire-fighting foam for liquid fuel vapour suppression and liquid fuel fire (Class B fires) already installed in systems. This limit value shall apply until 3 August 2028. <br> 4b. For the purposes of this entry, Article 4(1), point (b), shall apply to the sum of the concentration of PFOA, its salts and PFOA-related compounds equal to or below 10 mg/kg (0,001 % by weight) where they are present in fluorine-free fire-fighting foam and originate from fire-fighting equipment which has undergone cleaning in accordance with the best available techniques.   <br> 5. By way of derogation, the manufacturing, placing on the market and use of PFOA, its salts and PFOA-related compounds shall be allowed for the following purposes: <br> (a) photolithography or etch processes in semiconductor manufacturing, until 4 July 2025; <br> (b) photographic coatings applied to films, until 4 July 2025; <br> (c) textiles for oil- and water-repellency for the protection of workers from dangerous liquids that comprise risks to their health and safety, until 4 July 2023; <br> (d) invasive and implantable medical devices, until 4 July 2025. <br> (e) manufacture of polytetrafluoroethylene (PTFE) and polyvinylidene fluoride (PVDF) for the production of: <br> (i) high-performance, corrosion-resistant gas filter membranes, water filter membranes and membranes for medical textiles; <br> (ii) industrial waste heat exchanger equipment, <br> (iii) industrial sealants capable of preventing leakage of volatile organic compounds and PM2.5 particulates; <br> until 4 July 2023.   <br> 6. By way of derogation, the use of PFOA, its salts and PFOA-related compounds shall be allowed in fire-fighting foam for liquid fuel vapour suppression and liquid fuel fire (Class B fires) already installed in systems, including both mobile and fixed systems, until  3 December 2025  , subject to the following conditions: <br> (a) fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall not be used for training; <br> (b) fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall not be used for testing unless all releases are contained; <br> (c) as from 1 January 2023, uses of fire-fighting foam that contains or may contain PFOA, its salts and/or PFOA-related compounds shall only be allowed in sites where all releases can be contained; <br> (d) fire-fighting foam stockpiles that contain or may contain PFOA, its salts and/or PFOA-related compounds shall be managed in accordance with Article 5. <br> ‘firefighting foam’ means any mixture to fight fires with foam and includes but is not limited to firefighting foam concentrates and firefighting foam solutions to produce the foam. <br> 7. By way of derogation, the use of perfluooroctyl bromide containing perfluoroctyl iodide for the purpose of producing pharmaceutical products shall be allowed, subject to review and assessment by the Commission by 31 December 2026, every four years thereafter and by 31 December 2036. <br> 8. Use of articles already in use in the Union before 4 July 2020 containing PFOA, its salts and/or PFOA-related compounds shall be allowed. Article 4(2), third and fourth subparagraphs shall apply in relation to such articles. <br> 9.  By way of derogation, the manufacturing, placing on the market and use of PFOA, its salts and PFOA-related compounds shall be allowed until 3 December 2020 for the following purposes:  <br> (a) medical devices other than implantable ones, within the scope of Regulation (EU) 2017/745 (8); <br> (b) latex printing inks; <br> (c) plasma nano-coatings. <br> 10. For the purposes of this entry, point (b) of Article 4(1) shall apply to concentrations of PFOA and its salts and/or PFOA-related compounds equal to or below 2 mg/kg (0,0002 % by weight) where they are present in medical devices other than invasive devices and implantable devices.  —22 February 2023—    <br> 11. Articles containing PFOA, its salts or PFOA-related compounds already in use in the Union before or on the date of expiry of the relevant exemption laid down in points 5(a) to (d) may continue to be used.   </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Dicofol</td><td>115-32-2</td><td>204-082-0</td><td>None</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds ‘Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds’ means the following:  (i) perfluorohexane sulfonic acid, including any of its branched isomers;  (ii) its salts;  (iii) PFHxS-related compounds which, for the purposes of the Convention, are any substance that contains the chemical moiety C6F13S- as one of its structural elements and that degrades to PFHxS. </td><td>355-46-4 and others</td><td>206-587-1 and others</td><td>1. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of PFHxS or any of its salts equal to or below 0,025 mg/kg (0,0000025 % by weight) where they are present in substances, mixtures or articles. 2. For the purposes of this entry, Article 4(1), point (b), shall apply to the sum of concentrations of all PFHxS-related compounds equal to or below 1 mg/kg (0,0001 % by weight) where they are present in substances, mixtures or articles.  3. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of PFHxS, its salts and PFHxS-related compounds equal to or below 0,1 mg/kg (0,00001 % by weight) where it is present in concentrated firefighting foam mixtures that are to be used or are used in the production of other firefighting foam mixtures. This exemption shall be reviewed and assessed by the Commission no later than 28 August 2026. </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Methoxychlor ‘Methoxychlor’ refers to any possible isomer of dimethoxydiphenyltrichloroethane or any combination thereof. </td><td>72-43-5 30667-99-3  76733-77-2  255065-25-9  255065-26-0  59424-81-6  1348358-72-4  and others </td><td>200-779-9</td><td>For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of methoxychlor equal to or below 0,01 mg/kg (0,000001 % by weight) where they are present in substances, mixtures or articles.</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>2-(2H-benzotriazol-2-yl)-4,6-di-tert-pentylphenol (UV-328) </td><td>25973-55-1</td><td>247-384-8</td><td>1. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of UV-328 equal to or below: (a) 100 mg/kg (0,01 % by weight) from 4 August 2025;  (b) 10 mg/kg (0,001 % by weight) from 4 August 2027;  (c) 1 mg/kg (0,0001 % by weight) from 4 August 2029;  where they are present in substances, mixtures or articles.  2. By way of derogation, the placing on the market of UV-328 present in articles and the use of such articles shall be allowed for the following purposes:  (a) in land-based motor vehicles, until 4 August 2030;  (b) in industrial coating for land-based motor vehicles, engineering machines, rail transportation vehicles, and in heavy-duty coatings for large steel structures, until 4 August 2030;  (c) in mechanical separators in blood collection tubes, until 4 August 2030;  (d) in triacetyl cellulose film in polarisers, until 4 August 2030;  (e) in photographic paper, until 4 August 2030;  (f) in civilian and military aircrafts, until 4 August 2030;  (g) in spare parts for any of the following:  (i) land-based motor vehicles;  (ii) stationary industrial machines for use in agriculture, forestry and construction;  (iii) liquid crystal displays in instruments for analysis, measurements, control, monitoring, testing, production and inspection, other than for medical applications;  where UV-328 was initially used in their production, until the end of their service life or 31 December 2043, whichever comes earlier;  (h) in spare parts for any of the following:  (i) liquid crystal displays in devices within the scope of Regulation (EU) 2017/745, and within the scope of Regulation (EU) 2017/746 of the European Parliament and of the Council (9);  (ii) liquid crystal displays in instruments for analysis, measurements, control, testing, production and inspection;  where UV-328 was initially used in their production, until the end of their service life;  (i) in spare parts for civilian and military aircrafts where UV-328 was initially used in their production, until 31 December 2030.  3. Articles containing UV-328 already in use in the Union before or on the date of expiry of the relevant exemption laid down in point 2(a) to (i) may continue to be used. </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Dechlorane Plus ‘Dechlorane Plus’ includes its syn-isomer and anti-isomer </td><td>13560-89-9 135821-03-3  135821-74-8 </td><td>236-948-9</td><td>1. For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of Dechlorane Plus: (a) equal to or below 1 000 mg/kg (0,1 % by weight) where they are present in substances, mixtures or articles until 15 April 2028;  (b) equal to or below 1 mg/kg (0,0001 % by weight) where they are present in substances, mixtures or articles after 15 April 2028.  2. By way of derogation, the placing on the market and use of Dechlorane Plus shall be allowed for the following purposes:  (a) aerospace, space and defence applications, until 26 February 2030;  (b) medical imaging applications, until 26 February 2030;  (c) radiotherapy devices and installations, until 26 February 2030;  (d) spare parts for, and the repair of, any of the following:  (i) land-based motor vehicles;  (ii) stationary industrial machines for use in agriculture, forestry and construction;  (iii) marine, garden, forestry and outdoor power equipment other than that covered under (ii);  (iv) aerospace, space and defence applications;  (v) instruments for analysis, measurements, control, monitoring, testing, production and inspection;  where Dechlorane Plus was initially used in their production, until the end of their service life or until 31 December 2043, whichever comes earlier:  (e) spare parts for, and the repair of, any of the following:  (i) medical devices and accessories for medical devices within the scope of Regulation (EU) 2017/745;  (ii) in vitro diagnostic medical devices and accessories for in vitro diagnostic medical devices within the scope of Regulation (EU) 2017/746;  where Dechlorane Plus was initially used in their production, until the end of their service life.  3. The Commission shall assess the need for a prolongation of the specific exemptions in points (a), (b) and (c) of paragraph 2 at the latest by 1 April 2028.  4. Articles containing Dechlorane Plus already in use in the Union before or on the date of expiry of the relevant exemption laid down in paragraph 2(a) to (d) may continue to be used.  5. Placing on the market and use of spare parts containing Dechlorane Plus referred to in paragraph 2, point (d)(iv) that are present in the territory of the Union before or on 31 December 2043 shall be allowed. </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Chlorpyrifos</td><td>2921-88-2</td><td>220-864-4</td><td>For the purposes of this entry, Article 4(1), point (b), shall apply to concentrations of chlorpyrifos equal to or below 0,01 mg/kg (0,000001 % by weight) where they are present in substances, mixtures or articles.</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">(1)  Directive 2011/65/EU of the European Parliament and of the Council of 8 June 2011 on the restriction of the use of certain hazardous substances in electrical and electronic equipment (OJ L 174, 1.7.2011, p. 88).  (2)  Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p.1).  (3)  Regulation (EC) No 216/2008 of the European Parliament and of the Council of 20 February 2008 on common rules in the field of civil aviation and establishing a European Aviation Safety Agency, and repealing Council Directive 91/670/EEC, Regulation (EC) No 1592/2002 and Directive 2004/36/EC (OJ L 79, 19.3.2008, p. 1).  (4)  Directive 2008/1/EC of the European Parliament and of the Council of 15 January 2008 concerning integrated pollution prevention and control (OJ L 24, 29.1.2008, p. 8).  (5)  Commission Regulation (EU) 2016/293 of 1 March 2016 amending Regulation (EC) No 850/2004 of the European Parliament and of the Council on persistent organic pollutants as regards Annex I (OJ L 55, 2.3.2016, p. 4).  (6)  OJ C 10, 13.1.2016, p. 3.  (7)  Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.  (8)  Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices, amending Directive 2001/83/EC, Regulation (EC) No 178/2002 and Regulation (EC) No 1223/2009 and repealing Council Directives 90/385/EEC and 93/42/EEC.  (9)  Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro diagnostic medical devices and repealing Directive 98/79/EC and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017, p. 176, ELI: http://data.europa.eu/eli/reg/2017/746/oj).  (10)  Regulation (EC) No 1935/2004 of the European Parliament and of the Council of 27 October 2004 on materials and articles intended to come into contact with food and repealing Directives 80/590/EEC and 89/109/EEC (OJ L 338, 13.11.2004, p. 4, ELI: http://data.europa.eu/eli/reg/2004/1935/oj).  (11)  Directive 2009/48/EC of the European Parliament and of the Council of 18 June 2009 on the safety of toys (OJ L 170, 30.6.2009, p. 1, ELI: http://data.europa.eu/eli/dir/2009/48/oj). </td></tr>
+</tbody>
+</table>
+
+**Part B**
+
+**Substances listed only in the Protocol**
+
+| Substance | CAS No | EC No | Specific exemption on intermediate use or other specification |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+## ANNEX II
+
+**LIST OF SUBSTANCES SUBJECT TO RESTRICTIONS**
+
+**Part A**
+
+**Substances listed in the Convention and in the Protocol**
+
+| Substance | CAS No | EC No | Conditions of restriction |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+**Part B**
+
+**Substances listed only in the Protocol**
+
+| Substance | CAS No | EC No | Conditions of restriction |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+## ANNEX III
+
+**LIST OF SUBSTANCES SUBJECT TO RELEASE REDUCTION PROVISIONS**
+
+**PART A**
+
+Substance (CAS No)
+
+Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF)
+
+Polychlorinated biphenyls (PCB)
+
+**PART B**
+
+Substance (CAS No)
+
+Hexachlorobenzene (HCB) (CAS No 118-74-1)
+
+Polycyclic aromatic hydrocarbons (PAHs) ( 4 )
+
+Pentachlorobenzene (CAS No 608-93-5)
+
+Hexachlorobutadiene (CAS No 87-68-3)
+
+Polychlorinated naphthalenes (CAS No 70776-03-3 and others)
+
+## ANNEX IV
+
+**List of substances subject to waste management provisions set out in Article 7**
+
+<table>
+<tbody><tr><td>Substance</td><td>CAS No</td><td>EC No</td><td>Concentration limit referred to in Article 7(4)(a)</td></tr>
+<tr><td>Endosulfan</td><td>115-29-7 959-98-8  33213-65-9 </td><td>204-079-4</td><td>50 mg/kg</td></tr>
+<tr><td>Hexachlorobutadiene</td><td>87-68-3</td><td>201-765-5</td><td>100 mg/kg</td></tr>
+<tr><td>Polychlorinated naphthalenes (1)</td><td>  </td><td>  </td><td>10 mg/kg</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs)</td><td>85535-84-8</td><td>287-476-5</td><td><br> 1 500 mg/kg <br> By 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.   </td></tr>
+<tr><td>Tetrabromodiphenyl ether C12H6Br4O</td><td>40088-47-9 and others </td><td>254-787-2 and others </td><td rowspan="6"> Sum of the concentrations of tetrabromodiphenyl ether C12H6Br4O, pentabromodiphenyl ether C12H5Br5O, hexabromodiphenyl ether C12H4Br6O, heptabromodiphenyl ether C12H3Br7O and decabromodiphenyl ether C12Br10O: <br> (a) until 29 December 2025, 500 mg/kg;   <br> (b) from 30 December 2025 until 29 December 2027, 350 mg/kg, or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether;   <br> (c) from 30 December 2027, 200 mg/kg or, if higher, the sum of the concentration of those substances where they are present in mixtures or articles, as set out in the fourth column, point 2, of Annex I for the substances tetrabromodiphenyl ether, pentabromodiphenyl ether, hexabromodiphenyl ether, heptabromodiphenyl ether and decabromodiphenyl ether. </td></tr>
+<tr><td>Pentabromodiphenyl ether C12H5Br5O</td><td>32534-81-9 and others </td><td>251-084-2 and others </td></tr>
+<tr><td>Hexabromodiphenyl ether C12H4Br6O</td><td>36483-60-0 and others </td><td>253-058-6 and others </td></tr>
+<tr><td>Heptabromodiphenyl ether C12H3Br7O</td><td>68928-80-3 and others </td><td>273-031-2 and others </td></tr>
+<tr><td>Bis(pentabromophenyl) ether (decabromodiphenyl ether; decaBDE) C12Br10O</td><td>1163-19-5 and others </td><td>214-604-9 and others </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Perfluorooctane sulfonic acid and its derivatives (PFOS) C8F17SO2X (X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers) </td><td>1763-23-1 2795-39-3  29457-72-5  29081-56-9  70225-14-8  56773-42-3  251099-16-8  4151-50-2  31506-32-8  1691-99-2  24448-09-7  307-35-7 and others </td><td>217-179-8 220-527-1  249-644-6  249-415-0  274-460-8  260-375-3  223-980-3  250-665-8  216-887-4  246-262-1  206-200-6 and others </td><td>50 mg/kg</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD/PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs)</td><td>  </td><td>  </td><td><br> 5 μg/kg (2)<br> By 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.   </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>DDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl)ethane)</td><td>50-29-3</td><td>200-024-3</td><td>50 mg/kg</td></tr>
+<tr><td>Chlordane</td><td>57-74-9</td><td>200-349-0</td><td>50 mg/kg</td></tr>
+<tr><td>Hexachlorocyclohexanes, including lindane</td><td>58-89-9 319-84-6  319-85-7  608-73-1 </td><td>210-168-9 200-401-2  206-270-8  206-271-3 </td><td>50 mg/kg</td></tr>
+<tr><td>Dieldrin</td><td>60-57-1</td><td>200-484-5</td><td>50 mg/kg</td></tr>
+<tr><td>Endrin</td><td>72-20-8</td><td>200-775-7</td><td>50 mg/kg</td></tr>
+<tr><td>Heptachlor</td><td>76-44-8</td><td>200-962-3</td><td>50 mg/kg</td></tr>
+<tr><td>Hexachlorobenzene</td><td>118-74-1</td><td>204-273-9</td><td>50 mg/kg</td></tr>
+<tr><td>Chlordecone</td><td>143-50-0</td><td>205-601-3</td><td>50 mg/kg</td></tr>
+<tr><td>Aldrin</td><td>309-00-2</td><td>206-215-8</td><td>50 mg/kg</td></tr>
+<tr><td>Pentachlorobenzene</td><td>608-93-5</td><td>210-172-0</td><td>50 mg/kg</td></tr>
+<tr><td>Polychlorinated Biphenyls (PCB)</td><td>1336-36-3 and others</td><td>215-648-1</td><td>50 mg/kg (3)</td></tr>
+<tr><td>Mirex</td><td>2385-85-5</td><td>219-196-6</td><td>50 mg/kg</td></tr>
+<tr><td>Toxaphene</td><td>8001-35-2</td><td>232-283-3</td><td>50 mg/kg</td></tr>
+<tr><td>Hexabromobiphenyl</td><td>36355-01-8</td><td>252-994-2</td><td>50 mg/kg</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Hexabromocyclododecane (4)</td><td>25637-99-4, 3194-55-6, 134237-50-6, 134237-51-7, 134237-52-8</td><td><br> 247-148-4 <br> 221-695-9   </td><td><br> 500 mg/kg <br> By 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value to not higher than 200 mg/kg.   </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Pentachlorophenol, its salts and esters</td><td>87-86-5 and others</td><td>201-778-6 and others</td><td>100 mg/kg</td></tr>
+<tr><td>Dicofol</td><td>115-32-2</td><td>204-082-0</td><td>50 mg/kg</td></tr>
+<tr><td>Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds, as set out in Annex I</td><td>335-67-1 and others</td><td>206-397-9 and others</td><td><br> 1 mg/kg (PFOA and its salts), <br> 40 mg/kg (sum of PFOA-related compounds) <br> By 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.   </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds</td><td>355-46-4 and others</td><td>206-587-1 and others</td><td><br> 1 mg/kg (PFHxS and its salts), <br> 40 mg/kg (sum of PFHxS-related compounds) <br> By 30 December 2027, the Commission shall review that concentration limit and shall, where appropriate, adopt a delegated act in accordance with Article 15(2) to lower that value.   </td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">(1)  Polychlorinated naphthalenes means chemical compounds based on the naphthalene ring system, where one or more hydrogen atoms have been replaced by chlorine atoms.  (2)  The limit is calculated as the sum of PCDD, PCDF and dl-PCBs according to the toxic equivalency factors (TEFs) set out in Part 2, in the third paragraph, in the table, of Annex V.  (3)  The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply.  (4)  ‘Hexabromocyclododecane’ means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha-hexabromocyclododecane, beta-hexabromocyclododecane and gamma-hexabromocyclododecane. </td></tr>
+</tbody>
+</table>
+
+## ANNEX V
+
+**WASTE MANAGEMENT**
+
+**Part 1**
+
+**Disposal and recovery under Article 7(2)**
+
+The following disposal and recovery operations, as provided for in Annexes I and II of Directive 2008/98/EC, are permitted for the purposes of Article 7(2), when applied in such a way as to ensure that the persistent organic pollutant content is destroyed or irreversibly transformed
+
+<table>
+<tbody><tr><td>D9</td><td>Physico-chemical treatment.</td></tr>
+<tr><td>D10</td><td>Incineration on land.</td></tr>
+<tr><td>R1</td><td>Use principally as a fuel or other means to generate energy, excluding waste containing PCBs.</td></tr>
+<tr><td>R4</td><td>Recycling/reclamation of metals and metal compounds, under the following conditions: The operations are restricted to residues from iron- and steel-making processes such as dusts or sludges from gas treatment or mill scale or zinc-containing filter dusts from steelworks, dusts from gas cleaning systems of copper smelters and similar wastes and lead-containing leaching residues of the non-ferrous metal production. Waste containing PCBs is excluded. The operations are restricted to processes for the recovery of iron and iron alloys (blast furnace, shaft furnace and hearth furnace) and non-ferrous metals (Waelz rotary kiln process, bath melting processes using vertical or horizontal furnaces), provided the facilities meet as minimum requirements the emission limit values for PCDDs and PCDFs laid down in accordance with Directive 2010/75/EU of the European Parliament and of the Council (1), whether or not the processes are subject to that Directive and without prejudice to the other provisions of the Directive.</td></tr>
+<tr><td colspan="2">(1)  Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17). </td></tr>
+</tbody>
+</table>
+
+Pre-treatment operation prior to destruction or irreversible transformation pursuant to this Part of this Annex may be performed, provided that a substance listed in Annex IV that is isolated from the waste during the pre-treatment is subsequently disposed of in accordance with this Part of this Annex. Where only part of a product or waste, such as waste equipment, contains or is contaminated with persistent organic pollutants, it shall be separated and then disposed of in accordance with the requirements of this Regulation. In addition, repackaging and temporary storage operations may be performed prior to such pre-treatment or prior to destruction or irreversible transformation pursuant to this part of this Annex.
+
+**Part 2**
+
+**Wastes and operations to which Article 7(4)(b) applies**
+
+The following operations are permitted for the purposes of Article 7(4)(b) in respect of the wastes specified, defined by the six-digit code as classified in Commission Decision 2000/532/EC ( 5 ).
+
+Pre-treatment operations prior to permanent storage pursuant to this part of this Annex may be performed, provided that a substance listed in Annex IV that is isolated from the waste during the pre-treatment is subsequently disposed of in accordance with Part 1 of this Annex. In addition, repackaging and temporary storage operations may be performed prior to such pre-treatment or prior to permanent storage pursuant to this part of this Annex.
+
+<table>
+<tbody><tr><td colspan="2">Wastes as classified in Decision 2000/532/EC</td><td>Maximum concentration limits of substances listed in Annex IV (1)</td><td>Operation</td></tr>
+<tr><td>10</td><td>WASTES FROM THERMAL PROCESSES</td><td rowspan="56">Alkanes C10-C13, chloro (short-chain chlorinated paraffins) (SCCPs): 10 000 mg/kg; Aldrin: 5 000 mg/kg;  Chlordane: 5 000 mg/kg;  Chlordecone: 5 000 mg/kg;  DDT (1,1,1-trichloro-2,2-bis (4-chlorophenyl) ethane): 5 000 mg/kg;  Dieldrin: 5 000 mg/kg;  Endosulfan: 5 000 mg/kg;  Endrin: 5 000 mg/kg;  Heptachlor: 5 000 mg/kg;  Hexabromobiphenyl: 5 000 mg/kg;  Hexabromocyclododecane (3): 1 000 mg/kg;  Hexachlorobenzene: 5 000 mg/kg;  Hexachlorobutadiene: 1 000 mg/kg;  Hexachlorocyclohexanes, including lindane: 5 000 mg/kg;  Mirex: 5 000 mg/kg;  Pentachlorobenzene: 5 000 mg/kg;  Perfluorooctane sulfonic acid and its derivatives (PFOS) (C8F17SO2X) (X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers): 50 mg/kg;  Polychlorinated Biphenyls (PCB) (6): 50 mg/kg;    Polychlorinated dibenzo-p-dioxins and dibenzofurans and dioxin-like polychlorinated biphenyls (dl-PCBs): 5 mg/kg;    Polychlorinated naphthalenes (*): 1 000 mg/kg;    Sum of the concentrations of tetrabromodiphenyl ether (C12H6Br4O), pentabromodiphenyl ether (C12H5Br5O), hexabromodiphenyl ether (C12H4Br6O), heptabromodiphenyl ether (C12H3Br7O) and decabromodiphenyl ether (C12Br10O): 10 000 mg/kg;    Toxaphene: 5 000 mg/kg;    Pentachlorophenol, its salts and esters: 1 000 mg/kg; Dicofol: 5 000 mg/kg;  Perfluorooctanoic acid (PFOA), its salts and PFOA-related compounds: 50 mg/kg (PFOA and its salts), 2 000 mg/kg (PFOA-related compounds);  Perfluorohexane sulfonic acid (PFHxS), its salts and PFHxS-related compounds:  50 mg/kg (PFHxS and its salts), 2 000 mg/kg (PFHxS-related compounds).   </td><td rowspan="56">Permanent storage shall be allowed only when all the following conditions are met: (1) The storage takes place in one of the following locations:  — safe, deep, underground, hard rock formations,  — salt mines,  — a landfill site for hazardous waste, provided that the waste is solidified or partly stabilised where technically feasible as required for classification of the waste in subchapter 19 03 of Decision 2000/532/EC.  (2) The provisions of Council Directive 1999/31/EC (4) and Council Decision 2003/33/EC (5) were respected.  (3) It has been demonstrated that the selected operation is environmentally preferable. </td></tr>
+<tr><td>10 01</td><td>Wastes from power stations and other combustion plants (except 19)</td></tr>
+<tr><td> 10 01 03  </td><td> Fly ash from peat and untreated wood  </td></tr>
+<tr><td>10 01 14 * (2)</td><td>Bottom ash, slag and boiler dust from co-incineration containing hazardous substances</td></tr>
+<tr><td>10 01 16 *</td><td>Fly ash from co-incineration containing hazardous substances</td></tr>
+<tr><td>10 02</td><td>Wastes from the iron and steel industry</td></tr>
+<tr><td>10 02 07 *</td><td>Solid wastes from gas treatment containing hazardous substances</td></tr>
+<tr><td>10 03</td><td>Wastes from aluminium thermal metallurgy</td></tr>
+<tr><td>10 03 04 *</td><td>Primary production slags</td></tr>
+<tr><td>10 03 08 *</td><td>Salt slags from secondary production</td></tr>
+<tr><td>10 03 09 *</td><td>Black drosses from secondary production</td></tr>
+<tr><td>10 03 19 *</td><td>Flue-gas dust containing hazardous substances</td></tr>
+<tr><td>10 03 21 *</td><td>Other particulates and dust (including ball-mill dust) containing hazardous substances</td></tr>
+<tr><td>10 03 29 *</td><td>Wastes from treatment of salt slags and black drosses containing hazardous substances</td></tr>
+<tr><td>10 04</td><td>Wastes from lead thermal metallurgy</td></tr>
+<tr><td>10 04 01 *</td><td>Slags from primary and secondary production</td></tr>
+<tr><td>10 04 02 *</td><td>Dross and skimmings from primary and secondary production</td></tr>
+<tr><td>10 04 04 *</td><td>Flue-gas dust</td></tr>
+<tr><td>10 04 05 *</td><td>Other particulates and dust</td></tr>
+<tr><td>10 04 06 *</td><td>Solid wastes from gas treatment</td></tr>
+<tr><td>10 05</td><td>Wastes from zinc thermal metallurgy</td></tr>
+<tr><td>10 05 03 *</td><td>Flue-gas dust</td></tr>
+<tr><td>10 05 05 *</td><td>Solid waste from gas treatment</td></tr>
+<tr><td>10 06</td><td>Wastes from copper thermal metallurgy</td></tr>
+<tr><td>10 06 03 *</td><td>Flue-gas dust</td></tr>
+<tr><td>10 06 06 *</td><td>Solid wastes from gas treatment</td></tr>
+<tr><td>10 08</td><td>Wastes from other non-ferrous thermal metallurgy</td></tr>
+<tr><td>10 08 08 *</td><td>Salt slag from primary and secondary production</td></tr>
+<tr><td>10 08 15 *</td><td>Flue-gas dust containing hazardous substances</td></tr>
+<tr><td>10 09</td><td>Wastes from casting of ferrous pieces</td></tr>
+<tr><td>10 09 09 *</td><td>Flue-gas dust containing hazardous substances</td></tr>
+<tr><td>16</td><td>WASTES NOT OTHERWISE SPECIFIED IN THE LIST</td></tr>
+<tr><td>16 11</td><td>Waste linings and refractories</td></tr>
+<tr><td>16 11 01 *</td><td>Carbon-based linings and refractories from metallurgical processes containing hazardous substances</td></tr>
+<tr><td>16 11 03 *</td><td>Other linings and refractories from metallurgical processes containing hazardous substances</td></tr>
+<tr><td>17</td><td>CONSTRUCTION AND DEMOLITION WASTES (INCLUDING EXCAVATED SOIL FROM CONTAMINATED SITES)</td></tr>
+<tr><td>17 01</td><td>Concrete, bricks, tiles and ceramics</td></tr>
+<tr><td>17 01 06 *</td><td>Mixtures of, or separate fractions of concrete, bricks, tiles and ceramics containing hazardous substances</td></tr>
+<tr><td>17 05</td><td>Soil (including excavated soil from contaminated sites), stones and dredging spoil</td></tr>
+<tr><td>17 05 03 *</td><td>Soil and stones containing hazardous substances</td></tr>
+<tr><td> 17 05 04  </td><td> Soil and stones other than those mentioned in 17 05 03  </td></tr>
+<tr><td>17 09</td><td>Other construction and demolition wastes</td></tr>
+<tr><td>17 09 02 *</td><td>Construction and demolition wastes containing PCB, excluding PCB containing equipment</td></tr>
+<tr><td>17 09 03 *</td><td>Other construction and demolition wastes (including mixed wastes) containing hazardous substances</td></tr>
+<tr><td>19</td><td>WASTES FROM WASTE MANAGEMENT FACILITIES, OFF-SITE WASTE WATER TREATMENT PLANTS AND THE PREPARATION OF WATER INTENDED FOR HUMAN CONSUMPTION AND WATER FROM INDUSTRIAL USE</td></tr>
+<tr><td>19 01</td><td>Wastes from incineration or pyrolysis of waste</td></tr>
+<tr><td>19 01 07 *</td><td>Solid wastes from gas treatment</td></tr>
+<tr><td>19 01 11 *</td><td>Bottom ash and slag containing hazardous substances</td></tr>
+<tr><td>19 01 13 *</td><td>Fly ash containing hazardous substances</td></tr>
+<tr><td>19 01 15 *</td><td>Boiler dust containing hazardous substances</td></tr>
+<tr><td>19 04</td><td>Vitrified waste and waste from vitrification</td></tr>
+<tr><td>19 04 02 *</td><td>Fly ash and other flue-gas treatment wastes</td></tr>
+<tr><td>19 04 03 *</td><td>Non-vitrified solid phase</td></tr>
+<tr><td> 20  </td><td> MUNICIPAL WASTES (HOUSEHOLD WASTE AND SIMILAR COMMERCIAL, INDUSTRIAL AND INSTITUTIONAL WASTES) INCLUDING SEPARATELY COLLECTED FRACTIONS  </td></tr>
+<tr><td> 20 01  </td><td> Separately collected fractions (except 15 01)  </td></tr>
+<tr><td> 20 01 41  </td><td> Wastes from chimney sweeping  </td></tr>
+<tr><td colspan="4">(1)  These limits apply exclusively to a landfill site for hazardous waste and do not apply to permanent underground storage facilities for hazardous waste, including salt mines.  (2)  Any waste marked with an asterisk ‘*’ is considered as hazardous waste pursuant to Directive 2008/98/EC and is subject to the provisions of that Directive.  (3)  ‘Hexabromocyclododecane’ means hexabromocyclododecane, 1,2,5,6,9,10-hexabromocyclododecane and its main diastereoisomers: alpha- hexabromocyclododecane, beta- hexabromocyclododecane and gamma- hexabromocyclododecane.  (4)  Council Directive 1999/31/EC of 26 April 1999 on the landfill of waste (OJ L 182, 16.7.1999, p. 1).  (5)  Council Decision 2003/33/EC of 19 December 2002 establishing criteria and procedures for the acceptance of waste at landfills pursuant to Article 16 of and Annex II to Directive 1999/31/EC (OJ L 11, 16.1.2003, p. 27).  (6)  The calculation method laid down in European standards EN 12766-1 and EN 12766-2 shall apply. </td></tr>
+</tbody>
+</table>
+
+The maximum concentration limit of polychlorinated dibenzo-p-dioxins and dibenzofurans (PCDD and PCDF) and dioxin-like polychlorinated biphenyls (dl-PCBs) shall be calculated according to the following toxic equivalency factors (TEFs):
+
+Toxicity equivalency factors (TEFs) for PCDD, PCDF and dl-PCBs
+
+| PCDD | TEF |
+| --- | --- |
+| 2,3,7,8-TeCDD | 1 |
+| 1,2,3,7,8-PeCDD | 1 |
+| 1,2,3,4,7,8-HxCDD | 0,1 |
+| 1,2,3,6,7,8-HxCDD | 0,1 |
+| 1,2,3,7,8,9-HxCDD | 0,1 |
+| 1,2,3,4,6,7,8-HpCDD | 0,01 |
+| OCDD | 0,0003 |
+| PCDF | TEF |
+| 2,3,7,8-TeCDF | 0,1 |
+| 1,2,3,7,8-PeCDF | 0,03 |
+| 2,3,4,7,8-PeCDF | 0,3 |
+| 1,2,3,4,7,8-HxCDF | 0,1 |
+| 1,2,3,6,7,8-HxCDF | 0,1 |
+| 1,2,3,7,8,9-HxCDF | 0,1 |
+| 2,3,4,6,7,8-HxCDF | 0,1 |
+| 1,2,3,4,6,7,8-HpCDF | 0,01 |
+| 1,2,3,4,7,8,9-HpCDF | 0,01 |
+| OCDF | 0,0003 |
+| dl-PCBs | TEF |
+| PCB 77 | 0,0001 |
+| PCB 81 | 0,0003 |
+| PCB 105 | 0,00003 |
+| PCB 114 | 0,00003 |
+| PCB 118 | 0,00003 |
+| PCB 123 | 0,00003 |
+| PCB 126 | 0,1 |
+| PCB 169 | 0,03 |
+| PCB 156 | 0,00003 |
+| PCB 157 | 0,00003 |
+| PCB 167 | 0,00003 |
+| PCB 189 | 0,00003 |
+
+## ANNEX VI
+
+**Repealed Regulation with list of the successive amendments thereto**
+
+| Regulation (EC) No 850/2004 of the European Parliament and of the Council (OJ L 158, 30.4.2004, p. 7) |  |
+| --- | --- |
+| Council Regulation (EC) No 1195/2006 (OJ L 217, 8.8.2006, p. 1) |  |
+| Council Regulation (EC) No 172/2007 (OJ L 55, 23.2.2007, p. 1) |  |
+| Commission Regulation (EC) No 323/2007 (OJ L 85, 27.3.2007, p. 3) |  |
+| Regulation (EC) No 219/2009 of the European Parliament and of the Council (OJ L 87, 31.3.2009, p. 109) | Only point 3.7 of the Annex |
+| Commission Regulation (EC) No 304/2009 (OJ L 96, 15.4.2009, p. 33) |  |
+| Commission Regulation (EU) No 756/2010 (OJ L 223, 25.8.2010, p. 20) |  |
+| Commission Regulation (EU) No 757/2010 (OJ L 223, 25.8.2010, p. 29) |  |
+| Commission Regulation (EU) No 519/2012 (OJ L 159, 20.6.2012, p. 1) |  |
+| Commission Regulation (EU) No 1342/2014 (OJ L 363, 18.12.2014, p. 67) |  |
+| Commission Regulation (EU) 2015/2030 (OJ L 298, 14.11.2015, p. 1) |  |
+| Commission Regulation (EU) 2016/293 (OJ L 55, 2.3.2016, p. 4) |  |
+| Commission Regulation (EU) 2016/460 (OJ L 80, 31.3.2016, p. 17) |  |
+
+## ANNEX VII
+
+**CORRELATION TABLE**
+
+| Regulation (EC) No 850/2004 | This Regulation |
+| --- | --- |
+| Article 1(1) | Article 1 |
+| Article 2, introductory wording | Article 2, introductory wording |
+| Article 2, points (a) to (d) | Article 2, points (1) to (4) |
+| — | Article 2, points (5) to (7) |
+| Article 2, point (e) | Article 2, point (8) |
+| Article 2, point (f) | Article 2, point (9) |
+| Article 2, point (g) | Article 2, point (10) |
+| — | Article 2, points (11) to (13) |
+| Article 3 | Article 3(1) to (3) |
+| — | Article 3(4) and (5) |
+| Article 1(2) | Article 3(6) |
+| Article 4(1) to (3) | Article 4(1) to (3) |
+| — | Article 4(3), point (d) |
+| Article 1(2) | Article 4(4) |
+| Article 5 | Article 5 |
+| Article 6 | Article 6 |
+| Article 7(1) to (4) | Article 7(1) to (4) |
+| Article 7(6) | Article 7(5) |
+| — | Article 7(6) |
+| Article 7(7) | — |
+| — | Article 8 |
+| Article 8 | Article 9 |
+| Article 9 | Article 10 |
+| Article 10 | Article 11 |
+| Article 11 | Article 12 |
+| Article 12(1) | Article 13(1), point (a) |
+| Article 12(3), point (a) | Article 13(1), point (b) |
+| Article 12(3), point (b) | Article 13(1), point (c) |
+| — | Article 13(1), point (d) |
+| Article 12(3), point (c) | Article 13(1), point (e) |
+| Article 12(2) | Article 13(1), point (f) |
+| — | Article 13(2) |
+| Article 12(4) | — |
+| Article 12(5) | Article 13(3) |
+| Article 12(6) | — |
+| — | Article 13(4) and (5) |
+| Article 13 | Article 14 |
+| Article 14 | Article 15(1) |
+| Article 7(5) | Article 15(2) |
+| — | Article 16 |
+| — | Article 17 |
+| — | Article 18 |
+| Article 15 | Article 19 |
+| Articles 16 and 17 | Article 20 |
+| Article 18 | — |
+| — | Article 21 |
+| Article 19 | Article 22 |
+| Annexes I to V | Annexes I to V |
+| — | Annex VI |
+| — | Annex VII |
+
+( 1 ) Directive 2012/18/EU of the European Parliament and of the Council of 4 July 2012 on the control of major-accident hazards involving dangerous substances, amending and subsequently repealing Council Directive 96/82/EC (OJ L 197, 24.7.2012, p. 1).
+
+( 2 ) Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control) (OJ L 334, 17.12.2010, p. 17).
+
+( 3 ) Council Directive 96/59/EC of 16 September 1996 on the disposal of polychlorinated biphenyls and polychlorinated terphenyls (PCB/PCT) (OJ L 243, 24.9.1996, p. 31).
+
+( 4 ) For the purpose of emission inventories, the following four compound indicators shall be used: benzo(a)pyrene, benzo(b) fluoranthene, benzo(k)fluoranthene and indeno(1,2,3-cd)pyrene.
+
+( 5 ) Commission Decision 2000/532/EC of 3 May 2000 replacing Decision 94/3/EC establishing a list of wastes pursuant to Article 1(a) of Council Directive 75/442/EEC on waste and Council Decision 94/904/EC establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive 91/689/EEC on hazardous waste (OJ L 226, 6.9.2000, p. 3).

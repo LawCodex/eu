@@ -348,6 +348,7 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 
 **1.1. Identification of the filing constituent entity**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>UPE is the filing constituent entity</td></tr>
 </tbody>
 </table>
@@ -369,11 +370,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td>Yes/No</td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **1.2. MNE group general information**
 
 **1.2.1. MNE group and Reporting fiscal year**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Name of the MNE group</td></tr>
 </tbody>
 </table>
@@ -389,9 +392,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td>Yes/No</td></tr>
 </tbody>
+</table>
 
 **1.2.2. MNE general accounting information**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Consolidated financial statements of the UPE (type)</td></tr>
 </tbody>
 </table>
@@ -404,11 +409,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **1.3. Corporate structure**
 
 **1.3.1. Ultimate parent entity**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>UPE Jurisdiction</td></tr>
 </tbody>
 </table>
@@ -442,11 +449,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **1.3.2. Group entities (other than the UPE) and members of joint venture groups**
 
 **1.3.2.1. Constituent entities and members of joint venture groups**
 
+<table>
 <tbody><tr><td>Changes</td><td><table><tbody><tr><td>1.</td><td>Changes from previous Reporting fiscal year?</td></tr>
 </tbody>
 </table>
@@ -510,9 +519,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td>Yes/No</td></tr>
 </tbody>
+</table>
 
 **1.3.2.2. Excluded entities**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Changes from previous Reporting fiscal year?</td></tr>
 </tbody>
 </table>
@@ -526,9 +537,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **1.3.3. Changes in the corporate structure that occurred during the Reporting fiscal year**
 
+<table>
 <tbody><tr><td colspan="8">Were changes in the corporate structure that occurred during the Reporting fiscal year not reported because they neither affected the effective tax rate computation or the computation or allocation of top-up tax?</td><td>Yes/No</td></tr>
 <tr><td><table><tbody><tr><td>1.</td><td>Name of the constituent entity (or other entity of the MNE group) or member of joint venture group</td></tr>
 </tbody>
@@ -557,9 +570,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td colspan="2"></td></tr>
 </tbody>
+</table>
 
 **1.4. High-level summary of information**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Name of the jurisdiction</td></tr>
 </tbody>
 </table>
@@ -590,11 +605,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td>[Insert relevant option]</td><td>[Insert relevant option]</td><td>Yes/No</td><td>[Insert relevant option]</td><td>[Insert relevant option]</td></tr>
 </tbody>
+</table>
 
 **2\. Jurisdictional safe harbours and exclusions**
 
 **2.1. Characteristics of the jurisdiction**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Name of the jurisdiction</td></tr>
 </tbody>
 </table>
@@ -616,6 +633,7 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **2.2. Jurisdictional exceptions applicable in respect of this jurisdiction (top-up tax reduced to zero)**
 
@@ -623,17 +641,20 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 
 **2.2.1.1. Safe harbour election**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Safe Harbour elected</td></tr>
 </tbody>
 </table>
 </td><td>[insert the relevant option]</td></tr>
 </tbody>
+</table>
 
 **2.2.1.2. Permanent safe harbours**
 
 |  | □ | Simplified calculation for non-material constituent entities |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td><table><tbody><tr><td>1.</td><td>Total revenue of all non-material constituent entities in the jurisdiction</td></tr>
 </tbody>
 </table>
@@ -658,11 +679,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td><td>n.a.</td></tr>
 </tbody>
+</table>
 
 **2.2.1.3. Transitional safe harbours**
 
 **(a) Transitional Country-by-Country Reporting (CbCR) safe harbour**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Total revenue</td></tr>
 </tbody>
 </table>
@@ -676,14 +699,17 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **(b) Transitional UTPR safe harbour**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Corporate income tax rate</td></tr>
 </tbody>
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **2.2.2. Election for de minimis exclusion**
 
@@ -693,6 +719,7 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 |  | □ | Simplified calculations for non-material constituent entities – constituent entities that are not non-material constituent entities |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td><table><tbody><tr><td>1.</td><td>Revenue (financial accounts)</td></tr>
 </tbody>
 </table>
@@ -723,9 +750,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **2.3. MNE group in the initial phase of international activity (if applicable)**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>First day of the first fiscal year in which the MNE group originally falls within the scope of the rules</td></tr>
 </tbody>
 </table>
@@ -762,11 +791,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **3\. Computations**
 
 **3.1. Characteristics of the jurisdiction**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Name of the jurisdiction</td></tr>
 </tbody>
 </table>
@@ -840,11 +871,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **3.2. Effective tax rate computation**
 
 **3.2.1. Effective tax rate**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>a.</td><td>Financial accounting net income or loss</td></tr>
 </tbody>
 </table>
@@ -863,9 +896,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td>[A]</td><td></td><td>[B]</td><td>[C]=[B]/[A]</td></tr>
 </tbody>
+</table>
 
 **3.2.1.1. Computation of the qualifying income or loss**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Aggregate financial accounting net income or loss amount after allocations (All constituent entities in the jurisdiction)</td></tr>
 </tbody>
 </table>
@@ -983,11 +1018,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.1.2. Computation of adjusted covered taxes**
 
 **(a) Total amount of adjusted covered taxes**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Aggregate current tax expense with respect to covered taxes after allocations (All constituent entities in the jurisdiction)</td></tr>
 </tbody>
 </table>
@@ -1081,9 +1118,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **(b) Excess negative tax expense carry-forward**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Balance from prior years</td></tr>
 </tbody>
 </table>
@@ -1101,9 +1140,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td>[D]=[A]+[B]-[C]</td></tr>
 </tbody>
+</table>
 
 **(c) Transitional blended controlled foreign company (CFC) regime calculation (if any)**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>CFC jurisdictions</td></tr>
 </tbody>
 </table>
@@ -1118,6 +1159,7 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 <tr><td></td><td></td><td></td></tr>
 <tr><td colspan="2">Total</td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.2. Jurisdictional computations relating to deferred tax accounting**
 
@@ -1125,6 +1167,7 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 
 **(a) High-level summary**
 
+<table>
 <tbody><tr><td rowspan="4"><table><tbody><tr><td>1.</td><td>Deferred tax expense for purposes of the rules before recasting and adjustments</td></tr>
 </tbody>
 </table>
@@ -1168,9 +1211,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td>[I]=[F]+[G]-[H]</td></tr>
 </tbody>
+</table>
 
 **(b) Breakdown of the adjustments**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Adjustments to deferred tax expense</td></tr>
 </tbody>
 </table>
@@ -1244,9 +1289,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td>[E]</td></tr>
 </tbody>
+</table>
 
 **(c) Loss carry-backs**
 
+<table>
 <tbody><tr><td></td><td><table><tbody><tr><td>1.</td><td>Deemed deferred tax assets attributable to loss carry backs</td></tr>
 </tbody>
 </table>
@@ -1267,11 +1314,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.2.2. Recapture mechanism**
 
 **(a) Annual amount of deferred tax liabilities subject to recapture rule**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Amount of deferred tax liabilities subject to recapture rule claimed in the fifth fiscal year preceding the Reporting fiscal year</td></tr>
 </tbody>
 </table>
@@ -1285,9 +1334,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **(b) Aggregate deferred tax liability recapture accounts**
 
+<table>
 <tbody><tr><td></td><td><table><tbody><tr><td>1.</td><td>Reporting fiscal year</td></tr>
 </tbody>
 </table>
@@ -1308,17 +1359,21 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.2.3. Transition rules**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Transition year</td></tr>
 </tbody>
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **(a) Deferred tax assets and deferred tax liabilities at the beginning of the transition year**
 
+<table>
 <tbody><tr><td colspan="5">Deferred tax liabilities</td></tr>
 <tr><td colspan="3"><table><tbody><tr><td>1.</td><td>Deferred tax liabilities at the beginning of the transition year</td></tr>
 </tbody>
@@ -1344,9 +1399,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td>[A]</td><td>[B]</td><td colspan="2">[C]</td><td>[D] = [[A] or [B], if applicable] - [C]</td></tr>
 </tbody>
+</table>
 
 **(b) Transfer of assets after 30 November 2021 and before the commencement of a transition year**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Jurisdiction of the disposing entities</td></tr>
 </tbody>
 </table>
@@ -1365,6 +1422,7 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.3. Jurisdictional elections (if any)**
 
@@ -1372,6 +1430,7 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 
 **(a) Elections**
 
+<table>
 <tbody><tr><td colspan="4"><table><tbody><tr><td>1.</td><td>Annual elections</td></tr>
 </tbody>
 </table>
@@ -1437,9 +1496,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td colspan="2"></td><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 **(b) Information requirements related to jurisdictional elections**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Inclusion of equity gain or loss with respect to an equity investment inclusion election</td></tr>
 </tbody>
 </table>
@@ -1461,17 +1522,21 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td>[D]=[A]+[B]-[C]</td></tr>
 </tbody>
+</table>
 
 **3.2.3.2. Deemed distribution tax election**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Deemed distribution tax election</td></tr>
 </tbody>
 </table>
 </td><td>□</td></tr>
 </tbody>
+</table>
 
 **(a) Recapture mechanism**
 
+<table>
 <tbody><tr><td rowspan="2"><table><tbody><tr><td>1.</td><td>Fiscal year</td></tr>
 </tbody>
 </table>
@@ -1492,9 +1557,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 <tr><td>1st preceding fiscal year</td><td></td><td>Not applicable</td><td>Not applicable</td><td>Not applicable</td><td></td><td></td></tr>
 <tr><td>Reporting fiscal year</td><td></td><td>Not applicable</td><td>Not applicable</td><td>Not applicable</td><td>Not applicable</td><td>Not applicable</td></tr>
 </tbody>
+</table>
 
 **(b) Recalculation of effective tax rate and top-up tax**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Reduction to the adjusted covered taxes for a prior fiscal year</td></tr>
 </tbody>
 </table>
@@ -1507,19 +1574,23 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td>[A]</td><td>[B]</td><td>[C]</td></tr>
 </tbody>
+</table>
 
 **3.2.4. Constituent entity computations**
 
 **(a) Election for the transitional simplified jurisdictional reporting framework**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Does the MNE group elect to apply the transitional simplified jurisdictional reporting framework?</td></tr>
 </tbody>
 </table>
 </td><td>Yes/No</td></tr>
 </tbody>
+</table>
 
 **(b) Aggregated reporting for tax consolidated groups**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Tax consolidated group (TIN)</td></tr>
 </tbody>
 </table>
@@ -1529,11 +1600,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.4.1. Qualifying income or loss**
 
 **(a) Adjustments to the financial accounting net income or loss**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity or member of joint venture group (TIN)</td></tr>
 </tbody>
 </table>
@@ -1655,9 +1728,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td colspan="2"></td></tr>
 </tbody>
+</table>
 
 **(b) Cross-border allocation of income or loss between a main entity and a permanent establishment and of a flow-through entity**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity or members of joint venture groups located in this jurisdiction or stateless constituent entity (TIN)</td></tr>
 </tbody>
 </table>
@@ -1685,9 +1760,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **(c) Cross-border adjustments**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity or member of joint venture group (TIN)</td></tr>
 </tbody>
 </table>
@@ -1709,9 +1786,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **(d) Adjustments to the qualifying income of the UPE that is a flow-through entity or is subject to a deductible dividend regime**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity (or member of joint venture group) located in this jurisdiction (TIN)</td></tr>
 </tbody>
 </table>
@@ -1730,11 +1809,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.4.2. Adjusted covered taxes**
 
 **(a) Adjustments to the current tax expense in the financial accounts**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity or member of joint venture group (TIN)</td></tr>
 </tbody>
 </table>
@@ -1820,9 +1901,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **(b) Cross allocation of taxes**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity located in this jurisdiction or stateless constituent entity (or member of joint venture group) (TIN)</td></tr>
 </tbody>
 </table>
@@ -1850,9 +1933,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **(c) Deferred tax expense**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity or member of joint venture group (TIN)</td></tr>
 </tbody>
 </table>
@@ -1942,9 +2027,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.4.3. Constituent entity elections (or elections that apply to a joint venture group)**
 
+<table>
 <tbody><tr><td colspan="4"><table><tbody><tr><td>1.</td><td>Constituent entities (or member of joint venture group) for which an election is made (TIN)</td></tr>
 </tbody>
 </table>
@@ -2010,7 +2097,9 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entities (or members of joint venture groups) for which the election is made (TIN)</td></tr>
 </tbody>
 </table>
@@ -2023,11 +2112,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.4.4. International shipping income exclusion**
 
 **(a) International shipping income exclusion**
 
+<table>
 <tbody><tr><td colspan="2"><table><tbody><tr><td>1.</td><td>Constituent entity or member of joint venture group located in this jurisdiction (TIN)</td></tr>
 </tbody>
 </table>
@@ -2077,9 +2168,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **(b) Jurisdictional cap for the qualified ancillary international shipping income exclusion**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Total international shipping income for all constituent entities (or members of joint venture group)</td></tr>
 </tbody>
 </table>
@@ -2097,11 +2190,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td>[B]-50 %x[A]</td></tr>
 </tbody>
+</table>
 
 **3.2.4.5. Information for purposes of election to apply taxable distribution method (if applicable)**
 
 **Taxable distribution method election**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity-owner (or member of joint venture group) for which an election is made (TIN)</td></tr>
 </tbody>
 </table>
@@ -2120,9 +2215,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.2.4.6. Other accounting standard**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Constituent entity (or member of joint venture group) with financial accounting net income or loss based on a different accounting standard (TIN)</td></tr>
 </tbody>
 </table>
@@ -2132,11 +2229,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.3. Top-up tax computation**
 
 **3.3.1. Top-up tax**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>a.</td><td>Top-up tax percentage</td></tr>
 </tbody>
 </table>
@@ -2158,11 +2257,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td>[A]=15 % - effective tax rate</td><td>[B]</td><td>[C] = net qualifying income or loss -[B]</td><td>[D]</td><td>[E]</td><td>=[A]x[C]+[D]-[E]</td></tr>
 </tbody>
+</table>
 
 **3.3.2. Computation of substance-based income exclusion (if applicable)**
 
 **3.3.2.1. Total amount of the substance-based income exclusion**
 
+<table>
 <tbody><tr><td colspan="2">Payroll carve-out</td><td colspan="2">Tangible assets carve-out</td><td>Total</td></tr>
 <tr><td><table><tbody><tr><td>1.</td><td>Relevant eligible payroll costs of eligible employees performing activities in the jurisdiction</td></tr>
 </tbody>
@@ -2182,9 +2283,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td>[A]</td><td>[B]</td><td>[C]</td><td>[D]</td><td>[E]=[A]x[B]+[C]x[D]</td></tr>
 </tbody>
+</table>
 
 **3.3.2.2. Allocation of eligible payroll costs and carrying value of eligible tangible assets to permanent establishments for purposes of the substance-based income exclusion**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Relevant eligible payroll costs</td></tr>
 </tbody>
 </table>
@@ -2203,9 +2306,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.3.2.3. Allocation of eligible payroll costs and carrying value of eligible tangible assets of a flow-through entity for purposes of the substance-based income exclusion**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Relevant eligible payroll costs</td></tr>
 </tbody>
 </table>
@@ -2224,11 +2329,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </td></tr>
 <tr><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.3.3. Additional current top-up tax**
 
 **3.3.3.1. Additional top-up tax other than in case of a net qualifying loss in the Reporting fiscal year**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Relevant Articles</td></tr>
 </tbody>
 </table>
@@ -2269,9 +2376,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 **3.3.3.2. Additional top-up tax in case of a net qualifying loss for the Reporting fiscal year**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Adjusted covered taxes for the jurisdiction (if negative)</td></tr>
 </tbody>
 </table>
@@ -2289,9 +2398,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td>[D]=[C]-[A]</td></tr>
 </tbody>
+</table>
 
 **3.3.4. Qualified domestic top-up tax**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Financial accounting standard</td></tr>
 </tbody>
 </table>
@@ -2325,11 +2436,13 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td colspan="3">Yes/No</td></tr>
 </tbody>
+</table>
 
 **3.4. Top-up tax allocation and attribution (if any)**
 
 **3.4.1. Application of the IIR in respect of this jurisdiction**
 
+<table>
 <tbody><tr><td rowspan="3"><table><tbody><tr><td>1.</td><td>Group entity allocated top-up tax</td></tr>
 </tbody>
 </table>
@@ -2380,9 +2493,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td>[I]=[G]-[H]</td><td></td></tr>
 </tbody>
+</table>
 
 **3.4.2. Total UTPR top-up tax amount in respect of this jurisdiction**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>Low taxed constituent entity (or member of joint venture group) for which the reduction of UTPR to zero does not apply (TIN)</td></tr>
 </tbody>
 </table>
@@ -2396,9 +2511,11 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 </table>
 </td><td></td></tr>
 </tbody>
+</table>
 
 **3.4.3. Attribution of top-up tax under the UTPR**
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>1.</td><td>UTPR jurisdictions</td></tr>
 </tbody>
 </table>
@@ -2428,6 +2545,7 @@ In cases covered by the first subparagraph, Member States shall take the necessa
 <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Total</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </tbody>
+</table>
 
 ’.
 

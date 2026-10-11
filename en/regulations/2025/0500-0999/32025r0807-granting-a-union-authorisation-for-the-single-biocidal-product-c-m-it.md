@@ -1,0 +1,569 @@
+---
+title: "Commission Implementing Regulation (EU) 2025/807 of 28 April 2025 granting a Union authorisation for the single biocidal product C(M)IT/MIT & Glutaraldehyde Formulations in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council"
+identifier: "32025R0807"
+eli: "http://data.europa.eu/eli/reg_impl/2025/807/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2025-04-28
+entry_into_force: 2026-01-12
+last_amended: 2026-07-06
+consolidated_version: "02025R0807-20260706"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02025R0807-20260706"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2025/807 of 28 April 2025 granting a Union authorisation for the single biocidal product C(M)IT/MIT & Glutaraldehyde Formulations in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/807**
+
+**of 28 April 2025**
+
+**granting a Union authorisation for the single biocidal product ‘C(M)IT/MIT & Glutaraldehyde Formulations’ in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1311 of 15 June 2026 </td><td> L 1311</td><td>1</td><td>16.6.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2025/807**
+
+**of 28 April 2025**
+
+**granting a Union authorisation for the single biocidal product ‘C(M)IT/MIT & Glutaraldehyde Formulations’ in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+A Union authorisation with authorisation number EU-0032888-0000 is hereby granted to Solenis Switzerland GmbH for the making available on the market and use of the single biocidal product ‘C(M)IT/MIT & Glutaraldehyde Formulations’ in accordance with the summary of the biocidal product characteristics set out in the Annex.
+
+The Union authorisation is valid from 19 May 2025 until 30 April 2030.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — Summary of product characteristics for a biocidal product
+
+C(M)IT/MIT & Glutaraldehyde Formulations
+
+Product type(s)
+
+PT06: Preservatives for products during storage
+
+PT11: Preservatives for liquid-cooling and processing systems
+
+PT12: Slimicides
+
+Authorisation number: EU-0032888-0000
+
+R4BP asset number: EU-0032888-0000
+
+**1\. ADMINISTRATIVE INFORMATION**
+
+**1.1. Trade name(s) of the product**
+
+Trade name(s) Spectrum™ RX7848 MICROBIOCIDE
+
+Biosperse™ CN7848 MICROBIOCIDE
+
+**1.2. Authorisation holder**
+
+<table>
+<tbody><tr><td rowspan="2">Name and address of the authorisation holder</td><td>Name</td><td>Solenis Switzerland GmbH</td></tr>
+<tr><td>Address</td><td>Mühlentalstrasse 38 8200 Schaffhausen CH</td></tr>
+<tr><td>Authorisation number</td><td>  </td><td>EU-0032888-0000</td></tr>
+<tr><td>R4BP asset number</td><td>  </td><td>EU-0032888-0000</td></tr>
+<tr><td>Date of the authorisation</td><td>  </td><td>19.5.2025</td></tr>
+<tr><td>Expiry date of the authorisation</td><td>  </td><td>30.4.2030</td></tr>
+</tbody>
+</table>
+
+**1.3. Manufacturer(s) of the product**
+
+| Name of manufacturer | Solenis Technologies Germany GmbH |
+| --- | --- |
+| Address of manufacturer | Fütingsweg 20 D-47805 Krefeld Germany |
+| Location of manufacturing sites | Solenis Technologies Germany GmbH Fütingsweg 20 D-47805 Krefeld Germany Diversey UK Production Ltd Cotes Park Industrial Estate, Somercotes DE55 4PA Alfreton United Kingdom of Great Britain and Northern Ireland (the) Diversey Italy Production Srl Strada Statale 235 26010 Bagnolo Cremasco (CR) Italy Diversey España Production S.L.U Avenida Conde Duque 5, 7 y 9, Poligono Industrial La Postura 28343 Valdemoro (Madrid) Spain Diversey Netherlands Production BV Rembrandtlaan 414 7545 ZW Enschede Netherlands (the) Diversey Germany Production oHG Morschheimer Strasse 12 67292 Kirchheimbolanden Germany |
+
+| Name of manufacturer | AD International B.V. |
+| --- | --- |
+| Address of manufacturer | Markweg Zuid 27 4794 SN Heijningen P.O. Box 102 4793 Fijnaart Netherlands (the) |
+| Location of manufacturing sites | AD International B.V. Markweg Zuid 27 4794 SN Heijningen P.O. Box 102 4793 Fijnaart Netherlands (the) |
+
+| Name of manufacturer | Solenis UK Ltd. |
+| --- | --- |
+| Address of manufacturer | Wimsey Way DE55 4LR Somercotes, Alfreton, Derbyshire United Kingdom of Great Britain and Northern Ireland (the) |
+| Location of manufacturing sites | Solenis UK Ltd. Wimsey Way DE55 4LR Somercotes, Alfreton, Derbyshire United Kingdom of Great Britain and Northern Ireland (the) |
+
+**1.4. Manufacturer(s) of the active substance(s)**
+
+| Active substance | Glutaraldehyde |
+| --- | --- |
+| Name of manufacturer | MC (US) 3 LLC |
+| Address of manufacturer | Route 25, Institute 25112 West Virginia United States (the) |
+| Location of manufacturing sites | MC (US) 3 LLC Route 25, Institute 25112 West Virginia United States (the) |
+
+| Active substance | Glutaraldehyde |
+| --- | --- |
+| Name of manufacturer | BASF SE |
+| Address of manufacturer | Carl-Bosch Str. 38 67056 Ludwigshafen Germany |
+| Location of manufacturing sites | BASF SE Carl-Bosch Str. 38 67056 Ludwigshafen Germany |
+
+| Active substance | CMIT/MIT (3:1) |
+| --- | --- |
+| Name of manufacturer | Jiangsu FOPIA Chemicals Co., Ltd |
+| Address of manufacturer | 224555, Touzeng Village, Binhuai Town, Binhai County - Yancheng City, Jiangsu China |
+| Location of manufacturing sites | Jiangsu FOPIA Chemicals Co., Ltd 224555, Touzeng Village, Binhuai Town, Binhai County - Yancheng City, Jiangsu China |
+
+| Active substance | CMIT/MIT (3:1) |
+| --- | --- |
+| Name of manufacturer | Thor GmbH |
+| Address of manufacturer | Landwehrstraβe 1 67346 Speyer Germany |
+| Location of manufacturing sites | Thor GmbH Landwehrstraβe 1 67346 Speyer Germany |
+
+| Active substance | CMIT/MIT (3:1) |
+| --- | --- |
+| Name of manufacturer | Dalian Xingyuan Chemistry Co., Ltd |
+| Address of manufacturer | Room 1205/1206, Pearl River International Building, No.99, Xinkai Road, Xigang District 116011 Dalian China |
+| Location of manufacturing sites | Dalian Xingyuan Chemistry Co., Ltd Songmudao Chemical Industry Zone, Puwan New District 116308 Dalian, Liaoning China |
+
+| Active substance | CMIT/MIT (3:1) |
+| --- | --- |
+| Name of manufacturer | Weifang Heaven-sent New Materials Technology Co., Ltd |
+| Address of manufacturer | Binhai Road, Changyi Coastal Economic Development Zone 261312 Weifang, Shandong China |
+| Location of manufacturing sites | Weifang Heaven-sent New Materials Technology Co., Ltd Binhai Road, Changyi Coastal Economic Development Zone 261312 Weifang, Shandong China |
+
+| Active substance | CMIT/MIT (3:1) |
+| --- | --- |
+| Name of manufacturer | Dalian Bio-Chem Company Limited |
+| Address of manufacturer | Songmudao Plant: Songmudao Chemical Industry Zone, Puwan New District 116308 Liaoning China |
+| Location of manufacturing sites | Dalian Bio-Chem Company Limited Songmudao Plant: Songmudao Chemical Industry Zone, Puwan New District 116308 Liaoning China |
+
+**2\. PRODUCT COMPOSITION AND FORMULATION**
+
+**2.1. Qualitative and quantitative information on the composition of the product**
+
+| Common name | IUPAC name | Function | CAS number | EC number | Content (%) |
+| --- | --- | --- | --- | --- | --- |
+| Glutaraldehyde |  | Active substance | 111-30-8 | 203-856-5 | 7,8 % (w/w) |
+| CMIT/MIT (3:1) |  | Active substance | 55965-84-9 |  | 2,89 % (w/w) |
+
+**2.2. Type(s) of formulation**
+
+AL Any other liquid
+
+**3\. HAZARD AND PRECAUTIONARY STATEMENTS**
+
+| Hazard statements | H302: Harmful if swallowed. H314: Causes severe skin burns and eye damage. H317: May cause an allergic skin reaction. H332: Harmful if inhaled. H334: May cause allergy or asthma symptoms or breathing difficulties if inhaled. H410: Very toxic to aquatic life with long lasting effects. EUH071: Corrosive to the respiratory tract. |
+| --- | --- |
+| Precautionary statements | P260: Do not breathe vapours. P260: Do not breathe spray. P501: Dispose of container a hazardous waste disposal service in accordance with the statutory regulations. P264: Wash hands thoroughly after handling. P270: Do not eat, drink or smoke when using this product. P284: [In case of inadequate ventilation] wear respiratory protection. P305+P351+P338: IF IN EYES: Rinse cautiously with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing. P342+P311: If experiencing respiratory symptoms: Call a POISON CENTER/doctor. P391: Collect spillage. P501: Dispose of contents a hazardous waste disposal service in accordance with the statutory regulations. P271: Use only outdoors or in a well-ventilated area. P272: Contaminated work clothing should not be allowed out of the workplace. P280: Wear protective gloves. P280: Wear protective clothing. P280: Wear eye protection. P273: Avoid release to the environment. P304+P340: IF INHALED: Remove person to fresh air and keep comfortable for breathing. P301+P330+P331: IF SWALLOWED: rinse mouth. Do NOT induce vomiting. P403: Store in a well-ventilated place. P405: Store locked up. P333+P313: If skin irritation or rash occurs: Get medical attention. P303+P361+P353: IF ON SKIN (or hair): Take off immediately all contaminated clothing. Rinse skin with water [or shower]. P362+P364: Take off contaminated clothing and wash it before reuse. P310: Immediately call a POISON CENTER. P310: Immediately call a doctor. |
+
+**4\. AUTHORISED USE(S)**
+
+**4.1. Use description**
+
+**Table 1**
+
+**Preservation of diluted wet-end fluids (mineral slurries, paper wet-end additives and paper coatings additives) and white water during storage**
+
+| Product type | PT06: Preservatives for products during storage |
+| --- | --- |
+| Where relevant, an exact description of the authorised use |  |
+| Target organism(s) (including development stage) | Scientific name: - - Common name: - bacteria Development stage: - - Scientific name: - - Common name: yeast Development stage: - - |
+| Field(s) of use | indoor use outdoor use Intended for the control the growth of yeast and bacteria in diluted wet-end additives (mineral slurries, paper wet-end additives and paper coatings additives) and white-water (short circulation) during storage (short-term preservation up to 21 to 35 days) e.g. during paper machine shutdown, transportation between facilities. Not intended to preserve during the ongoing paper process. |
+| Application method(s) | Method: closed system Detailed description: The biocidal product shall be dosed to the additive or coating at a point to ensure adequate mixing using preferably automated metering pump or by manual addition. |
+| Application rate(s) and frequency | Application Rate: bacteria : 25-300 mg/l of product, yeast: 50-300 mg/l of product Number and timing of application: The biocidal product shall be added as a single dose into the storage tank, once per day. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | High-density polyethylene (HDPE) 1 l, 5 l, 10 l, 20 l, 25 l pail, 220 l drum, 1 000 l container, bulk |
+
+**4.1.1. Use-specific instructions for use**
+
+— Consult the authorisation holder (as specified in the contact details on the label) to determine the optimal dosage for the various products to be preserved.
+
+— The duration and storage conditions of the preserved matrices may impact the efficacy of the product. Microbiological tests shall be conducted to determine the appropriate application rate without exceeding the maximum authorised application rate.
+
+**4.1.2. Use-specific risk mitigation measures**
+
+— Use a respiratory protective equipment (RPE) in accordance with the European Standards EN 140 or EN 136 and EN 14387 or equivalent providing a minimum protection factor of 10 while loading and unloading slurry tanks if slurries/fluids or wet-end additives are not pumped in automatic procedures.
+
+— At least a powered air purifying respirator with helmet/hood/mask (TH1/TM1), or a half/full mask with combination filter gas/P2 is required (filter type (code letter, colour) shall be specified by the authorisation holder within the product information). This is without prejudice to the application of Council Directive 98/24/EC and other Union legislation in the area of health and safety at work. See section 6 for the full references.
+
+— Minimize the manual phase during the loading and unloading slurry tanks.
+
+— Rinse with water before the cleaning of the dispensing pump used to add the product into product to be preserved.
+
+For the preservation of white waters in paper production:
+
+— The product shall be used only for the treatment of white waters (short-circulation).
+
+— Application is only allowed in paper factories that comply with Directive 2010/75/EU of the European Parliament and of the Council where waste water is purified in an on-site industrial sewage treatment plant including a biological treatment step in accordance with the Best Available Techniques (BAT) as prescribed in the BAT-reference document (BREF) for the production of pulp, paper and board.
+
+— The effluent shall be diluted at least 200 times.
+
+— Paper factories that are exempted from Directive 2010/75/EU shall discharge their waste water to the municipal sewer.
+
+**4.1.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See Section 5.3.
+
+**4.1.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See Section 5.4.
+
+**4.1.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See Section 5.5.
+
+**4.2. Use description**
+
+**Table 2**
+
+**Preservation of water used in closed recirculating cooling systems**
+
+| Product type | PT11: Preservatives for liquid-cooling and processing systems |
+| --- | --- |
+| Where relevant, an exact description of the authorised use |  |
+| Target organism(s) (including development stage) | Scientific name: - - Common name: - cyanobacteria Development stage: - - Scientific name: - - Common name: green algae Development stage: - - Scientific name: - - Common name: - anaerobic bacteria Development stage: - - |
+| Field(s) of use | indoor use outdoor use Preservation of water used in closed recirculating cooling systems to control the growth of green algae, cyanobacteria and anaerobic bacteria. The biocidal product inhibits the growth of microorganisms. |
+| Application method(s) | Method: closed system Detailed description: The biocidal product shall be dosed at a point to ensure adequate mixing using preferably automated metering pump or by manual addition. |
+| Application rate(s) and frequency | Application Rate: green algae and cyanobacteria: 5-200 mg/l of product, anaerobic bacteria: 25-200 mg/l of product Number and timing of application: The biocidal product may only be added up to 7 times per week via automated or manual dosing. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | HDPE 1 l, 5 l, 10 l, 20 l, 25 l pail, 220 l drum, 1 000 l container, bulk |
+
+**4.2.1. Use-specific instructions for use**
+
+— Microbiological tests to prove adequacy of preservation shall be undertaken by the user in order to determine the effective dose of the preservative for the specific matrix/location/system. If needed, consult the authorisation holder (as specified in the contact details on the label) to determine the optimal dosage for the various products to be preserved.
+
+**4.2.2. Use-specific risk mitigation measures**
+
+— Rinse with water before the cleaning of the dispensing pump used to add the biocidal product into liquid to be preserved.
+
+**4.2.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See Section 5.3.
+
+**4.2.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See Section 5.4.
+
+**4.2.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See Section 5.5.
+
+**4.3. Use description**
+
+**Table 3**
+
+**Preservation of water used in open recirculating cooling systems**
+
+| Product type | PT11: Preservatives for liquid-cooling and processing systems |
+| --- | --- |
+| Where relevant, an exact description of the authorised use |  |
+| Target organism(s) (including development stage) | Scientific name: - - Common name: - green algae Development stage: - - Scientific name: - - Common name: cyanobacteria Development stage: - - Scientific name: - - Common name: - anaerobic bacteria Development stage: - - |
+| Field(s) of use | indoor use outdoor use Preservation of water used in open recirculating cooling systems to control the growth of green algae, cyanobacteria and anaerobic bacteria. The biocidal product inhibits the growth of microorganisms. |
+| Application method(s) | Method: closed system Detailed description: The biocidal product shall be dosed at a point to ensure adequate mixing using preferably automated metering pump or by manual addition. |
+| Application rate(s) and frequency | Application Rate: green algae and cyanobacteria: 5-200 mg/l of product, anaerobic bacteria: 25-200 mg/l of product Number and timing of application: The biocidal product may only be added up to 7 times per week via automated or manual dosing. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | HDPE 1 l, 5 l, 10 l, 20 l, 25 l pail, 220 l drum, 1 000 l container, bulk |
+
+**4.3.1. Use-specific instructions for use**
+
+— Microbiological tests to prove adequacy of preservation shall be undertaken by the user in order to determine the effective dose of the preservative for the specific matrix/location/system. If needed, consult the authorisation holder (as specified in the contact details on the label) to determine the optimal dosage for the various products to be preserved.
+
+**4.3.2. Use-specific risk mitigation measures**
+
+— Rinse with water before the cleaning of the dispensing pump used to add the biocidal product into liquid to be preserved.
+
+— The product may only be applied when the cooling towers are equipped with drift eliminators that reduce drift with at least 99%.
+
+— The use is restricted to small cooling systems with a maximum blowdown of 2 m3/h.
+
+— Waste water shall be discharged to the municipal sewer or purified in an on-site industrial sewage treatment plant including a biological treatment step.
+
+**4.3.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See Section 5.3.
+
+**4.3.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See Section 5.4.
+
+**4.3.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See Section 5.5.
+
+**4.4. Use description**
+
+**Table 4**
+
+**Preservation of water used in pasteurisers, conveyor belts and air washers**
+
+| Product type | PT11: Preservatives for liquid-cooling and processing systems |
+| --- | --- |
+| Where relevant, an exact description of the authorised use |  |
+| Target organism(s) (including development stage) | Scientific name: - - Common name: - green algae Development stage: - - Scientific name: - - Common name: - cyanobacteria Development stage: - - Scientific name: - - Common name: - anaerobic bacteria Development stage: - - |
+| Field(s) of use | indoor use outdoor use Preservation of water used in pasteurisers, conveyor belts and air washers. The biocidal product is applied to control the growth of green algae, cyanobacteria and anaerobic bacteria in pasteurisers, conveyor belts and air washers. The biocidal product inhibits the growth of microorganisms. |
+| Application method(s) | Method: closed system Detailed description: The biocidal product shall be dosed at a point to ensure adequate mixing using preferably automated metering pump or by manual addition. |
+| Application rate(s) and frequency | Application Rate: green algae and cyanobacteria: 5-200 mg/l of product, anaerobic bacteria: 25-200 mg/l of product Number and timing of application: The biocidal product may only be added once per batch or up to 7 times per week via automated or manual dosing depending on the system being treated. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | HDPE 1 l, 5 l, 10 l, 20 l, 25 l pail, 220 l drum, 1 000 l container, bulk |
+
+**4.4.1. Use-specific instructions for use**
+
+— Microbiological tests to prove adequacy of preservation shall be undertaken by the user in order to determine the effective dose of the preservative for the specific matrix/location/system. If needed, consult the authorisation holder (as specified in the contact details on the label) to determine the optimal dosage for the various products to be preserved.
+
+**4.4.2. Use-specific risk mitigation measures**
+
+— Rinse with water before the cleaning of the dispensing pump used to add the biocidal product into liquid to be preserved.
+
+**4.4.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See Section 5.3.
+
+**4.4.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See Section 5.4.
+
+**4.4.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See Section 5.5.
+
+**4.5. Use description**
+
+**Table 5**
+
+**Preservation of recirculating water used in Textile and fiber processing, photoprocessing and fountain solution**
+
+| Product type | PT11: Preservatives for liquid-cooling and processing systems |
+| --- | --- |
+| Where relevant, an exact description of the authorised use |  |
+| Target organism(s) (including development stage) | Scientific name: - - Common name: - green algae Development stage: - - Scientific name: - - Common name: - cyanobacteria Development stage: - - Scientific name: - - Common name: - anaerobic bacteria Development stage: - - |
+| Field(s) of use | indoor use outdoor use Preservation of recirculating water used in textile and fibre processing, photo-processing and fountain solution systems to control the growth of green algae, cyanobacteria and anaerobic bacteria. The biocidal product inhibits the growth of microorganisms. |
+| Application method(s) | Method: closed system Detailed description: The biocidal product shall be dispensed at a point to ensure adequate mixing using preferably automated metering pump or by manual addition. |
+| Application rate(s) and frequency | Application Rate: green algae and cyanobacteria: 5-200 mg/l of product, anaerobic bacteria: 25-200 mg/l of product Number and timing of application: The biocidal product may only be added once per batch or up to 7 times per week via automated or manual dosing depending on the system being treated. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | HDPE 1 l, 5 l, 10 l, 20 l, 25 l pail, 220 l drum, 1 000 l container, bulk |
+
+**4.5.1. Use-specific instructions for use**
+
+— Microbiological tests to prove adequacy of preservation shall be undertaken by the user in order to determine the effective dose of the preservative for the specific matrix/location/system. If needed, consult the authorisation holder (as specified in the contact details on the label) to determine the optimal dosage for the various products to be preserved.
+
+**4.5.2. Use-specific risk mitigation measures**
+
+— Rinse with water before the cleaning of the dispensing pump used to add the biocidal product into liquid to be preserved.
+
+**4.5.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See Section 5.3.
+
+**4.5.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See Section 5.4.
+
+**4.5.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+**4.6. Use description**
+
+See Section 5.5.
+
+**Table 6**
+
+**Preservation of re-circulating water used in Paint spray booths and electrodeposition coating systems**
+
+| Product type | PT11: Preservatives for liquid-cooling and processing systems |
+| --- | --- |
+| Where relevant, an exact description of the authorised use |  |
+| Target organism(s) (including development stage) | Scientific name: - - Common name: - green algae Development stage: - - Scientific name: - - Common name: - cyanobacteria Development stage: - - Scientific name: - - Common name: - anaerobic bacteria Development stage: - - |
+| Field(s) of use | indoor use outdoor use Preservation of re-circulating water used in Paint spray booths and electrodeposition coating systems to control the growth of green algae, cyanobacteria and anaerobic bacteria. The biocidal product inhibits the growth of microorganisms. |
+| Application method(s) | Method: closed system Detailed description: The biocidal product shall be dispensed at a point to ensure adequate mixing using preferably automated metering pump or by manual addition. |
+| Application rate(s) and frequency | Application Rate: green algae and cyanobacteria: 5-200 mg/l of product, anaerobic bacteria: 25-200 mg/l of product Number and timing of application: The biocidal product may only be added once per batch or up to 7 times per week via automated or manual dosing depending on the system being treated. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | HDPE 1 l, 5 l, 10 l, 20 l, 25 l pail, 220 l drum, 1 000 l container, bulk |
+
+**4.6.1. Use-specific instructions for use**
+
+— Microbiological tests to prove adequacy of preservation shall be undertaken by the user in order to determine the effective dose of the preservative for the specific matrix/location/system. If needed, consult the authorisation holder (as specified in the contact details on the label) to determine the optimal dosage for the various products to be preserved.
+
+**4.6.2. Use-specific risk mitigation measures**
+
+See Section 5.2.
+
+**4.6.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See Section 5.3.
+
+**4.6.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See Section 5.4.
+
+**4.6.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See Section 5.5.
+
+**4.7. Use description**
+
+**Table 7**
+
+**Preservation of recirculating water in heating systems**
+
+| Product type | PT11: Preservatives for liquid-cooling and processing systems |
+| --- | --- |
+| Where relevant, an exact description of the authorised use |  |
+| Target organism(s) (including development stage) | Scientific name: - - Common name: - green algae Development stage: - - Scientific name: - - Common name: - cyanobacteria Development stage: - - Scientific name: - - Common name: - anaerobic bacteria Development stage: - - |
+| Field(s) of use | indoor use outdoor use Preservation of recirculating water in heating systems to control the growth of green algae, cyanobacteria and anaerobic bacteria in recirculating water in heating systems. The biocidal product inhibits the growth of microorganisms. |
+| Application method(s) | Method: closed system Detailed description: The biocidal product shall be dispensed at a point to ensure adequate mixing using preferably automated metering pump or by manual addition. |
+| Application rate(s) and frequency | Application Rate: green algae and cyanobacteria: 5-200 mg/l of product, anaerobic bacteria: 25-200 mg/l of product Number and timing of application: The biocidal product may only be added once per batch or up to 7 times per week via automated or manual dosing depending on the system being treated. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | HDPE 1 l, 5 l, 10 l, 20 l, 25 l pail, 220 l drum, 1 000 l container, bulk |
+
+**4.7.1. Use-specific instructions for use**
+
+— Microbiological tests to prove adequacy of preservation shall be undertaken by the user in order to determine the effective dose of the preservative for the specific matrix/location/system. If needed, consult the authorisation holder (as specified in the contact details on the label) to determine the optimal dosage for the various products to be preserved.
+
+**4.7.2. Use-specific risk mitigation measures**
+
+— Rinse with water before the cleaning of the dispensing pump used to add the biocidal product into liquid to be preserved.
+
+**4.7.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See Section 5.3.
+
+**4.7.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See Section 5.4.
+
+**4.7.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See Section 5.5.
+
+**4.8. Use description**
+
+**Table 8**
+
+**Slimicide treatment in the wet end stage of the pulp and paper manufacturing process**
+
+| Product type | PT12: Slimicides |
+| --- | --- |
+| Target organism(s) (including development stage) | Scientific name: - - Common name: - bacteria Development stage: - - |
+| Field(s) of use | indoor use outdoor use The biocidal product is applied as a slimicide treatment in the wet-end stage of the pulp and paper manufacturing process to prevent the growth of slime. The biocidal product inhibits the growth of microorganisms. |
+| Application method(s) | Method: closed system Detailed description: The biocidal product shall be dispensed at a point to ensure adequate mixing using preferably automated metering pump or by manual addition. |
+| Application rate(s) and frequency | Application Rate: 5-40 mg/l of product Number and timing of application: The biocidal product may only be added 4-12 times per day via automated or manual dosing. |
+| Category(ies) of users | industrial |
+| Pack sizes and packaging material | HDPE 1 l, 5 l, 10 l, 20 l, 25 l pail, 220 l drum, 1 000 l container, bulk |
+
+**4.8.1. Use-specific instructions for use**
+
+— Microbiological tests to prove adequacy of preservation shall be undertaken by the user in order to determine the effective dose of the preservative for the specific matrix/location/system. If needed, consult the authorisation holder (as specified in the contact details on the label) to determine the optimal dosage for the various products to be preserved.
+
+**4.8.2. Use-specific risk mitigation measures**
+
+— Rinse with water before the cleaning of the dispensing pump used to add the biocidal product into liquid to be preserved.
+
+— Application is only allowed in paper factories that comply with Directive 2010/75/EU, where waste water is purified in an on-site industrial sewage treatment plant including a biological treatment step in accordance with the Best Available Techniques (BAT) as prescribed in the BAT-reference document (BREF) for the production of pulp, paper and board.
+
+— The effluent shall be diluted at least 200 times.
+
+— Paper factories that are exempted from Directive 2010/75/EU shall discharge their waste water to the municipal sewer.
+
+**4.8.3. Where specific to the use, the particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+See Section 5.3.
+
+**4.8.4. Where specific to the use, the instructions for safe disposal of the product and its packaging**
+
+See Section 5.4.
+
+**4.8.5. Where specific to the use, the conditions of storage and shelf-life of the product under normal conditions of storage**
+
+See Section 5.5.
+
+**5\. GENERAL DIRECTIONS FOR USE ( 1 )**
+
+**5.1. Instructions for use**
+
+— Inform the authorisation holder if the treatment is ineffective.
+
+**5.2. Risk mitigation measures**
+
+— Wear protective chemical resistant gloves in accordance with the European Standard EN 374 or equivalent (glove material shall be specified by the authorisation holder within the product information) during product handling phase.
+
+— Wear a protective coverall (type 3 or 4) in accordance with the European Standard EN 14605 or equivalent (coverall material shall be specified by the authorisation holder within the product information) during product handling phase.
+
+— Use eye protection in accordance with the European Standard EN 166 or equivalent during product handling phase.
+
+— Use a respiratory protection equipment in accordance with the European Standard EN 140 or EN 136 and European Standard EN 14387 or equivalent providing a minimum protection factor of 10 during product handling phase. At least a powered air purifying respirator with helmet, hood or mask (TH1/TM1), or a half or full mask with combination filter gas/P2 is required (filter type (code letter, colour) shall be specified by the authorisation holder within the product information).
+
+— Minimize the manual phase during the handling of the product.
+
+This is without prejudice to the application of Directive 98/24/EC and other Union legislation in the area of health and safety at work.
+
+See section 6 for the full references.
+
+**5.3. Particulars of likely direct or indirect effects, first aid instructions and emergency measures to protect the environment**
+
+IF INHALED: Move to fresh air and keep at rest in a position comfortable for breathing. If symptoms: Call 112/ambulance for medical assistance. If no symptoms: Call a POISON CENTRE or a doctor.
+
+IF ON SKIN: Immediately wash skin with plenty of water. Thereafter take off all contaminated clothing and wash it before reuse.
+
+Continue to wash the skin with water for 15 minutes. Call a POISON CENTRE or a doctor.
+
+IF IN EYES: Immediately rinse with water for several minutes. Remove contact lenses, if present and easy to do. Continue rinsing for at least 15 minutes.
+
+Call 112/ambulance for medical assistance.
+
+IF SWALLOWED: Immediately rinse mouth. Give something to drink to exposed person if that person is able to swallow.
+
+Do NOT induce vomiting. Call 112/ambulance for medical assistance.
+
+**5.4. Instructions for safe disposal of the product and its packaging**
+
+— Do not discharge unused product on the ground, into water courses, into pipes (e.g. sink, toilets) nor down the drains.
+
+— Dispose of unused product, its packaging and all other waste, in accordance with local regulations.
+
+**5.5. Conditions of storage and shelf-life of the product under normal conditions of storage**
+
+— The shelf-life of the biocidal product is 12 months.
+
+— Protect from frost
+
+— Do not store at a temperature above 30 °C
+
+— Protect against light
+
+**6\. OTHER INFORMATION**
+
+With respect to the ‘Category (ies) of users’ note: Professionals (including industrial users) means trained professionals if this is required by national legislation.
+
+Full titles of quoted legislation
+
+Directive 2010/75/EU of the European Parliament and of the Council of 24 November 2010 on industrial emissions (integrated pollution prevention and control)
+
+Commission Implementing Decision of 26 September 2014 establishing the best available techniques (BAT) conclusions, under Directive 2010/75/EU of the European Parliament and of the Council, for the production of pulp, paper and board (2014/687/EU)
+
+Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC)
+
+Full titles of European Standards
+
+EN 374 - Protective gloves against dangerous chemicals and micro-organisms
+
+EN 14605 - Protective clothing against liquid chemicals
+
+EN 166 - Personal eye-protection
+
+EN 136 - Respiratory protective devices - Full face masks
+
+EN 140 - Respiratory protective devices - Half masks and quarter masks
+
+EN 14387 - Respiratory protective devices - Gas filter(s) and combined filter(s) - Requirements, testing, marking
+
+( 1 ) Instructions for use, risk mitigation measures and other directions for use under this section are valid for any authorised uses.

@@ -1,0 +1,254 @@
+---
+title: "Commission Delegated Regulation (EU) 2024/3160 of 9 October 2024 amending Delegated Regulation (EU) 2020/688 as regards certain animal health requirements for movements within the Union of terrestrial animals"
+identifier: "32024R3160"
+eli: "http://data.europa.eu/eli/reg_del/2024/3160/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2024-10-09
+entry_into_force: 2024-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R3160"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2024/3160 of 9 October 2024 amending Delegated Regulation (EU) 2020/688 as regards certain animal health requirements for movements within the Union of terrestrial animals
+
+**COMMISSION DELEGATED REGULATION (EU) 2024/3160**
+
+**of 9 October 2024**
+
+**amending Delegated Regulation (EU) 2020/688 as regards certain animal health requirements for movements within the Union of terrestrial animals**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (1), and in particular Article 131(1), points (c) and (d), thereof,
+
+Whereas:
+
+(1) Regulation (EU) 2016/429 lays down rules for the prevention and control of animal diseases that are transmissible to animals or to humans. That Regulation lays down in its Part IV, Title I, Chapter 3, the animal health requirements for movements within the Union of kept terrestrial animals.
+
+(2) Commission Delegated Regulation (EU) 2020/688 (2) supplements the rules on the prevention and control of diseases listed in Article 5(1) of Regulation (EU) 2016/429 as regards movements within the Union of terrestrial animals, including ungulates susceptible to infection with epizootic haemorrhagic disease virus.
+
+(3) Infection with epizootic haemorrhagic disease virus is listed in the Annex to Commission Implementing Regulation (EU) 2018/1882 (3) as a Category D disease, for which measures are needed to prevent it from spreading on account of movements between Member States. The epidemiological situation of infection with epizootic haemorrhagic disease virus in the Union has changed since the entry into force of Regulation (EU) 2016/429 and of Delegated Regulation (EU) 2020/688, with the first ever notification of outbreaks in the Union in several Member States in 2022. The spread of infection with epizootic haemorrhagic disease virus continued after the entry into force of Commission Delegated Regulation (EU) 2023/2515 (4), the latest amendment to Delegated Regulation (EU) 2020/688, which introduced new risk-mitigating measures applicable to the movements of terrestrial animals within the Union in situations where animals come from an establishment situated in an area of at least 150 km radius around that establishment in which the infection with epizootic haemorrhagic disease virus has been reported during the last 2 years prior to departure. In order to address the continued spread of the disease and providing an adequate level of protection to the animal health situation of the Member States of destination and of passage, while facilitating the safe movement of animals within the Union, it is necessary to introduce further risk-mitigating measures.
+
+(4) In particular, vaccination against infection with epizootic haemorrhagic disease virus is included in the Terrestrial Animal Health Code (5) of the World Organisation for Animal Health (WOAH) as an effective means to prevent the transmission of the virus via the movement of animals, irrespective of the virus circulation at the place of origin, when applied in accordance with the specifications of the vaccine. Therefore, this Regulation should provide for the use of vaccines as a risk-mitigating measure for certain movements of certain kept ungulates of listed species that come from an establishment situated in an area of at least 150 km radius around that establishment in which infection with epizootic haemorrhagic disease virus has been reported in kept animals of listed species for that disease during the last 2 years prior to departure.
+
+(5) Also, experience has shown that the competent authorities of Member States of destination are best placed to assess the local animal health situation at the places of destination regarding certain kept ungulates originating from areas where infection with epizootic haemorrhagic disease virus has been reported in kept animals of listed species for that disease during the last 2 years prior to departure. Therefore, some flexibility should be provided for Member States to establish other risk-mitigating measures than those already envisaged for movements of such animals in Delegated Regulation (EU) 2020/688 in order to ensure an adequate level of protection at the place of destination, subject to the principle of proportionality. Therefore, this Regulation should provide for the option to comply with specific risk-mitigating measures established by the competent authorities of the Member State of destination that take into account the situation at local level for infection with epizootic haemorrhagic disease virus.
+
+(6) The use of vaccines and compliance with other specific risk-mitigating measures established by the competent authorities of the Member State of destination should be provided for regarding the movements between Member States of bovine, ovine, caprine, camelid, cervid animals, and of other kept ungulates.
+
+(7) Moreover, transport operations with animals that come from an establishment situated in an area of at least 150 km radius around that establishment in which infection with epizootic haemorrhagic disease virus has been reported in kept animals of listed species for that disease during the last 2 years prior to departure to a Member State of destination, which do not comply with the risk-mitigating measures provided for this situation in Delegated Regulation (EU) 2020/688 or which are complying with other specific risk-mitigating measures established by the competent authorities of the Member State of destination, may pose a risk to the health situation of the Member State of passage or area thereof. Therefore, for such transport operations, in order for the Member State of passage to obtain appropriate protection against the risk posed by the passage, it is appropriate to set out requirements for the protection of the means of transport against vectors and as regards the unloading of animals and to provide for the possibility to derogate therefrom.
+
+(8) For the sake of transparency, the authorisation of certain types of movements within the Union which do not comply with the risk-mitigating measures provided for this situation in Delegated Regulation (EU) 2020/688, or which are complying with other specific risk-mitigating measures established by the competent authorities of the Member State of destination, or that involve transport operations not complying with the requirements provided for this situation in Delegated Regulation (EU) 2020/688, should only take place if the competent authority of the Member State of destination or the Member State of passage has previously communicated to the Commission and the other Member States that such type of movements is authorised, regardless of the Member State of origin or area thereof.
+
+(9) Delegated Regulation (EU) 2020/688 should therefore be amended accordingly,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Amendments to Delegated Regulation (EU) 2020/688
+
+Delegated Regulation (EU) 2020/688 is amended as follows:
+
+1\. in Article 10, paragraph 1 is amended as follows:
+
+(a) in the first subparagraph, in point (f)(ii), the following sub-point 3 is added:
+
+‘3. the animals have been vaccinated against infection with epizootic haemorrhagic disease virus and they are within the immunity period guaranteed in the specifications of the vaccine and they meet at least one of the following requirements:
+
+— they have been vaccinated at least 60 days prior to the date of movement;
+
+— they have been vaccinated with an inactivated vaccine and have been subject to a PCR test, with negative results on samples collected at least 14 days after the onset of the immunity set in the specifications of the vaccine.’;
+
+(b) the second subparagraph is replaced by the following:
+
+‘By way of derogation from the first subparagraph, point (f)(ii), the competent authority of the Member State of origin may authorise the following types of movement to another Member State or area thereof:
+
+(a) movements which meet none of the sets of requirements laid down in the first subparagraph, point (f)(ii); or
+
+(b) movements which meet specific risk-mitigating measures defined by the competent authority of the Member State of destination when communicating its authorisation in accordance with the fourth subparagraph.’;
+
+(c) the following third subparagraph is added:
+
+‘For the purposes of the second subparagraph, points (a) or (b), movements from the Member State of origin to the Member State of destination through another Member State (the ‘ ‘Member State of passage’ ’) or area thereof, shall comply with at least one of the following sets of requirements:
+
+(a) they shall take place using means of transport that have been protected from attacks by vectors during transport and:
+
+— the planned journey does not include the unloading of the animals for a period longer than one day; or
+
+— the animals are unloaded in a vector-protected establishment or during the vector-free period;
+
+(b) the Member State of passage has authorised the type of movement.’;
+
+(d) the following fourth subparagraph is added:
+
+‘The competent authority of the Member State of origin may only authorise types of movements in accordance with the second subparagraph, if the competent authority of the Member State of destination and, in case of point (b) of the third subparagraph, the competent authority of the Member State of passage, has informed the Commission and the other Member States of the authorisation of such types of movement regardless of the Member State of origin or area thereof.’;
+
+2\. in Article 15, paragraph 1 is amended as follows:
+
+(a) in the first subparagraph, in point (e)(ii), the following sub-point 3 is added:
+
+‘3. the animals have been vaccinated against infection with epizootic haemorrhagic disease virus and they are within the immunity period guaranteed in the specifications of the vaccine and they meet at least one of the following requirements:
+
+— they have been vaccinated at least 60 days prior to the date of movement;
+
+— they have been vaccinated with an inactivated vaccine and have been subject to a PCR test, with negative results on samples collected at least 14 days after the onset of the immunity set in the specifications of the vaccine.’;
+
+(b) the second subparagraph is replaced by the following:
+
+‘By way of derogation from the first subparagraph, point (e)(ii), the competent authority of the Member State of origin may authorise the following types of movement to another Member State or area thereof:
+
+(a) movements which meet none of the sets of requirements laid down in the first subparagraph, point (e)(ii); or
+
+(b) movements which meet specific risk-mitigating measures defined by the competent authority of the Member State of destination when communicating its authorisation in accordance with the fourth subparagraph.’;
+
+(c) the following third subparagraph is added:
+
+‘For the purposes of the second subparagraph, points (a) or (b), movements from the Member State of origin to the Member State of destination through another Member State (the ‘ ‘Member State of passage’ ’) or area thereof, shall comply with at least one of the following sets of requirements:
+
+(a) they shall take place using means of transport that have been protected from attacks by vectors during transport and:
+
+— the planned journey does not include the unloading of the animals for a period longer than one day; or
+
+— the animals are unloaded in a vector-protected establishment or during the vector-free period;
+
+(b) the Member State of passage has authorised the type of movement.’;
+
+(d) the following fourth subparagraph is added:
+
+‘The competent authority of the Member State of origin may only authorise types of movements in accordance with the second subparagraph, if the competent authority of the Member State of destination and, in case of point (b) of the third subparagraph, the competent authority of the Member State of passage, has informed the Commission and the other Member States of the authorisation of such types of movement regardless of the Member State of origin or area thereof.’;
+
+3\. in Article 23, paragraph 1 is amended as follows:
+
+(a) in the first subparagraph, in point (g)(ii), the following sub-point 3 is added:
+
+‘3. the animals have been vaccinated against infection with epizootic haemorrhagic disease virus and they are within the immunity period guaranteed in the specifications of the vaccine and they meet at least one of the following requirements:
+
+— they have been vaccinated at least 60 days prior to the date of movement;
+
+— they have been vaccinated with an inactivated vaccine and have been subject to a PCR test, with negative results on samples collected at least 14 days after the onset of the immunity set in the specifications of the vaccine.’;
+
+(b) the second subparagraph is replaced by the following:
+
+‘By way of derogation from the first subparagraph, point (g)(ii), the competent authority of the Member State of origin may authorise the following types of movement to another Member State or area thereof:
+
+(a) movements which meet none of the sets of requirements laid down in the first subparagraph, point (g)(ii); or
+
+(b) movements which meet specific risk-mitigating measures defined by the competent authority of the Member State of destination when communicating its authorisation in accordance with the fourth subparagraph.’;
+
+(c) the following third subparagraph is added:
+
+‘For the purposes of the second subparagraph, points (a) or (b), movements from the Member State of origin to the Member State of destination through another Member State (the ‘ ‘Member State of passage’ ’) or area thereof, shall comply with at least one of the following sets of requirements:
+
+(a) they shall take place using means of transport that have been protected from attacks by vectors during transport and:
+
+— the planned journey does not include the unloading of the animals for a period longer than one day; or
+
+— the animals are unloaded in a vector-protected establishment or during the vector-free period;
+
+(b) the Member State of passage has authorised the type of movement.’;
+
+(d) the following fourth subparagraph is added:
+
+‘The competent authority of the Member State of origin may only authorise types of movements in accordance with the second subparagraph, if the competent authority of the Member State of destination and, in case of point (b) of the third subparagraph, the competent authority of the Member State of passage, has informed the Commission and the other Member States of the authorisation of such types of movement regardless of the Member State of origin or area thereof.’;
+
+4\. in Article 26, paragraph 1 is amended as follows:
+
+(a) in the first subparagraph, in point (g)(ii), the following sub-point 3 is added:
+
+‘3. the animals have been vaccinated against infection with epizootic haemorrhagic disease virus and they are within the immunity period guaranteed in the specifications of the vaccine and they meet at least one of the following requirements:
+
+— they have been vaccinated at least 60 days prior to the date of movement;
+
+— they have been vaccinated with an inactivated vaccine and have been subject to a PCR test, with negative results on samples collected at least 14 days after the onset of the immunity set in the specifications of the vaccine.’;
+
+(b) the second subparagraph is replaced by the following:
+
+‘By way of derogation from the first subparagraph, point (g)(ii), the competent authority of the Member State of origin may authorise the following types of movement to another Member State or area thereof:
+
+(a) movements which meet none of the sets of requirements laid down in the first subparagraph, point (g)(ii); or
+
+(b) movements which meet specific risk-mitigating measures defined by the competent authority of the Member State of destination when communicating its authorisation in accordance with the fourth subparagraph.’;
+
+(c) the following third subparagraph is added:
+
+‘For the purposes of the second subparagraph, points (a) or (b), movements from the Member State of origin to the Member State of destination through another Member State (the ‘ ‘Member State of passage’ ’) or area thereof, shall comply with at least one of the following sets of requirements:
+
+(a) they shall take place using means of transport that have been protected from attacks by vectors during transport and:
+
+— the planned journey does not include the unloading of the animals for a period longer than one day; or
+
+— the animals are unloaded in a vector-protected establishment or during the vector-free period;
+
+(b) the Member State of passage has authorised the type of movement.’;
+
+(d) the following fourth subparagraph is added:
+
+‘The competent authority of the Member State of origin may only authorise types of movements in accordance with the second subparagraph, if the competent authority of the Member State of destination and, in case of point (b) of the third subparagraph, the competent authority of the Member State of passage, has informed the Commission and the other Member States of the authorisation of such types of movement regardless of the Member State of origin or area thereof.’;
+
+5\. in Article 29, paragraph 1 is amended as follows:
+
+(a) in the first subparagraph, in point (f)(ii), the following sub-point 3 is added:
+
+‘3. the animals have been vaccinated against infection with epizootic haemorrhagic disease virus and they are within the immunity period guaranteed in the specifications of the vaccine and they meet at least one of the following requirements:
+
+— they have been vaccinated at least 60 days prior to the date of movement;
+
+— they have been vaccinated with an inactivated vaccine and have been subject to a PCR test, with negative results on samples collected at least 14 days after the onset of the immunity set in the specifications of the vaccine.’;
+
+(b) the second subparagraph is replaced by the following:
+
+‘By way of derogation from the first subparagraph, point (f)(ii), the competent authority of the Member State of origin may authorise the following types of movement to another Member State or area thereof:
+
+(a) movements which meet none of the sets of requirements laid down in the first subparagraph, point (f)(ii); or
+
+(b) movements which meet specific risk-mitigating measures defined by the competent authority of the Member State of destination when communicating its authorisation in accordance with the fourth subparagraph.’;
+
+(c) the following third subparagraph is added:
+
+‘For the purposes of the second subparagraph, points (a) or (b), movements from the Member State of origin to the Member State of destination through another Member State (the ‘ ‘Member State of passage’ ’) or area thereof, shall comply with at least one of the following sets of requirements:
+
+(a) they shall take place using means of transport that have been protected from attacks by vectors during transport and:
+
+— the planned journey does not include the unloading of the animals for a period longer than one day; or
+
+— the animals are unloaded in a vector-protected establishment or during the vector-free period;
+
+(b) the Member State of passage has authorised the type of movement.’;
+
+(d) the following fourth subparagraph is added:
+
+‘The competent authority of the Member State of origin may only authorise types of movements in accordance with the second subparagraph, if the competent authority of the Member State of destination and, in case of point (b) of the third subparagraph, the competent authority of the Member State of passage, has informed the Commission and the other Member States of the authorisation of such types of movement regardless of the Member State of origin or area thereof.’.
+
+## Article 2 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 9 October 2024.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 84, 31.3.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/429/oj.
+
+(2) Commission Delegated Regulation (EU) 2020/688 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council, as regards animal health requirements for movements within the Union of terrestrial animals and hatching eggs (OJ L 174, 3.6.2020, p. 140, ELI: http://data.europa.eu/eli/reg_del/2020/688/oj).
+
+(3) Commission Implementing Regulation (EU) 2018/1882 of 3 December 2018 on the application of certain disease prevention and control rules to categories of listed diseases and establishing a list of species and groups of species posing a considerable risk for the spread of those listed diseases (OJ L 308, 4.12.2018, p. 21, ELI: http://data.europa.eu/eli/reg_impl/2018/1882/oj).
+
+(4) Commission Delegated Regulation (EU) 2023/2515 of 8 September 2023 amending Delegated Regulation (EU) 2020/688 as regards certain animal health requirements for movements within the Union of terrestrial animals (OJ L, 2023/2515, 14.11.2023, ELI: http://data.europa.eu/eli/reg_del/2023/2515/oj).
+
+(5) World Organisation for Animal Health, Terrestrial Animal Health Code, Chapter 8.7, 2023.
+
+ELI: http://data.europa.eu/eli/reg_del/2024/3160/oj
+
+ISSN 1977-0677 (electronic edition)

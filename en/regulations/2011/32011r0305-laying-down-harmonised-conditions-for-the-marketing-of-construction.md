@@ -1,0 +1,823 @@
+---
+title: "Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC Text with EEA relevance"
+identifier: "32011R0305"
+eli: "http://data.europa.eu/eli/reg/2011/305/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2011-03-09
+entry_into_force: 2011-07-06
+last_amended: 2026-05-29
+consolidated_version: "02011R0305-20260529"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0305-20260529"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 305/2011 of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC Text with EEA relevance
+
+**REGULATION (EU) No 305/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 9 March 2011**
+
+**laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) No 568/2014 of 18 February 2014 </td><td> L 157</td><td>76</td><td>27.5.2014</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) No 574/2014 of 21 February 2014 </td><td> L 159</td><td>41</td><td>28.5.2014</td></tr>
+<tr><td> M3</td><td> REGULATION (EU) 2019/1020 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 169</td><td>1</td><td>25.6.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/2769 of 30 May 2024 </td><td> L 2769</td><td>1</td><td>28.10.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/2748 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2024 </td><td> L 2748</td><td>1</td><td>8.11.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/3110 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 3110</td><td>1</td><td>18.12.2024</td></tr>
+</table>
+
+**REGULATION (EU) No 305/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 9 March 2011**
+
+**laying down harmonised conditions for the marketing of construction products and repealing Council Directive 89/106/EEC**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+1\. ‘construction product’ means any product or kit which is produced and placed on the market for incorporation in a permanent manner in construction works or parts thereof and the performance of which has an effect on the performance of the construction works with respect to the basic requirements for construction works;
+
+2\. ‘kit’ means a construction product placed on the market by a single manufacturer as a set of at least two separate components that need to be put together to be incorporated in the construction works;
+
+3\. ‘construction works’ means buildings and civil engineering works;
+
+4\. ‘essential characteristics’ means those characteristics of the construction product which relate to the basic requirements for construction works;
+
+5\. ‘performance of a construction product’ means the performance related to the relevant essential characteristics, expressed by level or class, or in a description;
+
+6\. ‘level’ means the result of the assessment of the performance of a construction product in relation to its essential characteristics, expressed as a numerical value;
+
+7\. ‘class’ means a range of levels, delimited by a minimum and a maximum value, of performance of a construction product;
+
+8\. ‘threshold level’ means a minimum or maximum performance level of an essential characteristic of a construction product;
+
+9\. ‘product-type’ means the set of representative performance levels or classes of a construction product, in relation to its essential characteristics, produced using a given combination of raw materials or other elements in a specific production process;
+
+10\. ‘harmonised technical specifications’ means harmonised standards and European Assessment Documents;
+
+11\. ‘harmonised standard’ means a standard adopted by one of the European standardisation bodies listed in Annex I to Directive 98/34/EC, on the basis of a request issued by the Commission, in accordance with Article 6 of that Directive;
+
+12\. ‘European Assessment Document’ means a document adopted by the organisation of TABs for the purposes of issuing European Technical Assessments;
+
+13\. ‘European Technical Assessment’ means the documented assessment of the performance of a construction product, in relation to its essential characteristics, in accordance with the respective European Assessment Document;
+
+14\. ‘intended use’ means the intended use of the construction product as defined in the applicable harmonised technical specification;
+
+15\. ‘Specific Technical Documentation’ means documentation demonstrating that methods within the applicable system for assessment and verification of constancy of performance have been replaced by other methods, provided that the results obtained by those other methods are equivalent to the results obtained by the test methods of the corresponding harmonised standard;
+
+16\. ‘making available on the market’ means any supply of a construction product for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+17\. ‘placing on the market’ means the first making available of a construction product on the Union market;
+
+18\. ‘economic operator’ means the manufacturer, importer, distributor or authorised representative;
+
+19\. ‘manufacturer’ means any natural or legal person who manufactures a construction product or who has such a product designed or manufactured, and markets that product under his name or trademark;
+
+20\. ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a construction product available on the market;
+
+21\. ‘importer’ means any natural or legal person established within the Union, who places a construction product from a third country on the Union market;
+
+22\. ‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+
+23\. ‘withdrawal’ means any measure aimed at preventing a construction product in the supply chain from being made available on the market;
+
+24\. ‘recall’ means any measure aimed at achieving the return of a construction product that has already been made available to the end-user;
+
+25\. ‘accreditation’ has the meaning assigned to it by Regulation (EC) No 765/2008;
+
+26\. ‘factory production control’ means the documented, permanent and internal control of production in a factory, in accordance with the relevant harmonised technical specifications;
+
+27\. ‘micro-enterprise’ means a micro-enterprise as defined in the Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises ( 1 );
+
+28\. ‘life cycle’ means the consecutive and interlinked stages of a construction product’s life, from raw material acquisition or generation from natural resources to final disposal;
+
+29\. ‘crisis-relevant goods’ means crisis-relevant goods as defined in Article 3, point (6), of Regulation (EU) 2024/2747 of the European Parliament and of the Council ( 2 );
+
+30\. ‘internal market emergency mode’ means internal market emergency mode as defined in Article 3, point (3), of Regulation (EU) 2024/2747.
+
+## CHAPTER II — DECLARATION OF PERFORMANCE AND CE MARKING
+
+### Article 4 — Declaration of performance
+
+1\. When a construction product is covered by a harmonised standard or conforms to a European Technical Assessment which has been issued for it, the manufacturer shall draw up a declaration of performance when such a product is placed on the market.
+
+2\. When a construction product is covered by a harmonised standard or conforms to a European Technical Assessment which has been issued for it, information in any form about its performance in relation to the essential characteristics, as defined in the applicable harmonised technical specification, may be provided only if included and specified in the declaration of performance except where, in accordance with Article 5, no declaration of performance has been drawn up.
+
+3\. By drawing up the declaration of performance, the manufacturer shall assume responsibility for the conformity of the construction product with such declared performance. In the absence of objective indications to the contrary, Member States shall presume the declaration of performance drawn up by the manufacturer to be accurate and reliable.
+
+### Article 5 — Derogations from drawing up a declaration of performance
+
+By way of derogation from Article 4(1) and in the absence of Union or national provisions requiring the declaration of essential characteristics where the construction products are intended to be used, a manufacturer may refrain from drawing up a declaration of performance when placing a construction product covered by a harmonised standard on the market where:
+
+(a) the construction product is individually manufactured or custom-made in a non-series process in response to a specific order, and installed in a single identified construction work, by a manufacturer who is responsible for the safe incorporation of the product into the construction works, in compliance with the applicable national rules and under the responsibility of those responsible for the safe execution of the construction works designated under the applicable national rules;
+
+(b) the construction product is manufactured on the construction site for its incorporation in the respective construction works in compliance with the applicable national rules and under the responsibility of those responsible for the safe execution of the construction works designated under the applicable national rules; or
+
+(c) the construction product is manufactured in a traditional manner or in a manner appropriate to heritage conservation and in a non-industrial process for adequately renovating construction works officially protected as part of a designated environment or because of their special architectural or historic merit, in compliance with the applicable national rules.
+
+### Article 6 — Content of the declaration of performance
+
+1\. The declaration of performance shall express the performance of construction products in relation to the essential characteristics of those products in accordance with the relevant harmonised technical specifications.
+
+2\. The declaration of performance shall contain, in particular, the following information:
+
+(a) the reference of the product-type for which the declaration of performance has been drawn up;
+
+(b) the system or systems of assessment and verification of constancy of performance of the construction product, as set out in Annex V;
+
+(c) the reference number and date of issue of the harmonised standard or the European Technical Assessment which has been used for the assessment of each essential characteristic;
+
+(d) where applicable, the reference number of the Specific Technical Documentation used and the requirements with which the manufacturer claims the product complies.
+
+3\. The declaration of performance shall in addition contain:
+
+(a) the intended use or uses for the construction product, in accordance with the applicable harmonised technical specification;
+
+(b) the list of essential characteristics, as determined in the harmonised technical specification for the declared intended use or uses;
+
+(c) the performance of at least one of the essential characteristics of the construction product, relevant for the declared intended use or uses;
+
+(d) where applicable, the performance of the construction product, by levels or classes, or in a description, if necessary based on a calculation in relation to its essential characteristics determined in accordance with Article 3(3);
+
+(e) the performance of those essential characteristics of the construction product which are related to the intended use or uses, taking into consideration the provisions in relation to the intended use or uses where the manufacturer intends the product to be made available on the market;
+
+(f) for the listed essential characteristics for which no performance is declared, the letters ‘NPD’ (No Performance Determined);
+
+(g) when a European Technical Assessment has been issued for that product, the performance, by levels or classes, or in a description, of the construction product in relation to all essential characteristics contained in the corresponding European Technical Assessment.
+
+4\. The declaration of performance shall be drawn up using the model set out in Annex III.
+
+5\. The information referred to in Article 31 or, as the case may be, in Article 33 of Regulation (EC) No 1907/2006, shall be provided together with the declaration of performance.
+
+### Article 7 — Supply of the declaration of performance
+
+1\. A copy of the declaration of performance of each product which is made available on the market shall be supplied either in paper form or by electronic means.
+
+However, where a batch of the same product is supplied to a single user, it may be accompanied by a single copy of the declaration of performance either in paper form or by electronic means.
+
+2\. A paper copy of the declaration of performance shall be supplied if the recipient requests it.
+
+3\. By way of derogation from paragraphs 1 and 2, the copy of the declaration of performance may be made available on a web site in accordance with conditions to be established by the Commission by means of delegated acts in accordance with Article 60. Such conditions shall, inter alia, guarantee that the declaration of performance remains available at least for the period referred to in Article 11(2).
+
+4\. The declaration of performance shall be supplied in the language or the languages required by the Member State where the product is made available.
+
+### Article 8 — General principles and use of CE marking
+
+1\. The general principles set out in Article 30 of Regulation (EC) No 765/2008 shall apply to the CE marking.
+
+2\. The CE marking shall be affixed to those construction products for which the manufacturer has drawn up a declaration of performance in accordance with Articles 4 and 6.
+
+If a declaration of performance has not been drawn up by the manufacturer in accordance with Articles 4 and 6, the CE marking shall not be affixed.
+
+By affixing or having affixed the CE marking, manufacturers indicate that they take responsibility for the conformity of the construction product with the declared performance as well as the compliance with all applicable requirements laid down in this Regulation and in other relevant Union harmonisation legislation providing for its affixing.
+
+The rules for affixing the CE marking provided for in other relevant Union harmonisation legislation shall apply without prejudice to this paragraph.
+
+3\. For any construction product covered by a harmonised standard, or for which a European Technical Assessment has been issued, the CE marking shall be the only marking which attests conformity of the construction product with the declared performance in relation to the essential characteristics, covered by that harmonised standard or by the European Technical Assessment.
+
+In this respect, Member States shall not introduce any references or shall withdraw any references in national measures to a marking attesting conformity with the declared performance in relation to the essential characteristics covered by a harmonised standard other than the CE marking.
+
+4\. A Member State shall not prohibit or impede, within its territory or under its responsibility, the making available on the market or the use of construction products bearing the CE marking, when the declared performances correspond to the requirements for such use in that Member State.
+
+5\. A Member State shall ensure that the use of construction products bearing the CE marking shall not be impeded by rules or conditions imposed by public bodies or private bodies acting as a public undertaking, or acting as a public body on the basis of a monopoly position or under a public mandate, when the declared performances correspond to the requirements for such use in that Member State.
+
+6\. The methods used by the Member States in their requirements for construction works, as well as other national rules in relation to the essential characteristics of construction products, shall be in accordance with harmonised standards.
+
+### Article 9 — Rules and conditions for the affixing of CE marking
+
+1\. The CE marking shall be affixed visibly, legibly and indelibly to the construction product or to a label attached to it. Where this is not possible or not warranted on account of the nature of the product, it shall be affixed to the packaging or to the accompanying documents.
+
+2\. The CE marking shall be followed by the two last digits of the year in which it was first affixed, the name and the registered address of the manufacturer, or the identifying mark allowing identification of the name and address of the manufacturer easily and without any ambiguity, the unique identification code of the product-type, the reference number of the declaration of performance, the level or class of the performance declared, the reference to the harmonised technical specification applied, the identification number of the notified body, if applicable, and the intended use as laid down in the harmonised technical specification applied.
+
+3\. The CE marking shall be affixed before the construction product is placed on the market. It may be followed by a pictogram or any other mark notably indicating a special risk or use.
+
+## CHAPTER III — OBLIGATIONS OF ECONOMIC OPERATORS
+
+### Article 11 — Obligations of manufacturers
+
+1\. Manufacturers shall draw up a declaration of performance in accordance with Articles 4 and 6, and affix the CE marking in accordance with Articles 8 and 9.
+
+Manufacturers shall, as the basis for the declaration of performance, draw up technical documentation describing all the relevant elements related to the required system of assessment and verification of constancy of performance.
+
+2\. Manufacturers shall keep the technical documentation and the declaration of performance for a period of 10 years after the construction product has been placed on the market.
+
+Where appropriate, the Commission may, by means of delegated acts in accordance with Article 60, amend that period for families of construction products on the basis of the expected life or part played by the construction product in the construction works.
+
+3\. Manufacturers shall ensure that procedures are in place to ensure that series production maintains the declared performance. Changes in the product-type and in the applicable harmonised technical specifications shall be adequately taken into account.
+
+Manufacturers shall, where deemed appropriate with regard to ensuring the accuracy, reliability and stability of the declared performance of a construction product, carry out sample testing of construction products placed or made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming products and of product recalls, and keep distributors informed of any such monitoring.
+
+4\. Manufacturers shall ensure that their construction products bear a type, batch or serial number or any other element allowing their identification, or, where the size or nature of the product does not allow it, that the required information is provided on the packaging or in a document accompanying the construction product.
+
+5\. Manufacturers shall indicate on the construction product or, where that is not possible, on its packaging or in a document accompanying it, their name, registered trade name or registered trade mark and their contact address. The address shall indicate a single point at which the manufacturer can be contacted.
+
+6\. When making a construction product available on the market, manufacturers shall ensure that the product is accompanied by instructions and safety information in a language determined by the Member State concerned which can be easily understood by users.
+
+7\. Manufacturers who consider or have reason to believe that a construction product which they have placed on the market is not in conformity with the declaration of performance or not in compliance with other applicable requirements in this Regulation, shall immediately take the necessary corrective measures to bring that construction product into conformity, or, if appropriate, to withdraw or recall it. Furthermore, where the product presents a risk, manufacturers shall immediately inform the competent national authorities of the Member States in which they made the construction product available to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+8\. Manufacturers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of the construction product with the declaration of performance and compliance with other applicable requirements in this Regulation, in a language which can be easily understood by that authority. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by construction products which they have placed on the market.
+
+### Article 12 — Authorised representatives
+
+1\. A manufacturer may appoint, by written mandate, an authorised representative.
+
+The drawing up of technical documentation shall not form part of the authorised representative’s mandate.
+
+2\. An authorised representative shall perform the tasks specified in the mandate. The mandate shall allow the authorised representative to carry out at least the following tasks:
+
+(a) keep the declaration of performance and the technical documentation at the disposal of national surveillance authorities for the period referred to in Article 11(2);
+
+(b) further to a reasoned request from a competent national authority, provide that authority with all the information and documentation necessary to demonstrate the conformity of the construction product with the declaration of performance and compliance with other applicable requirements in this Regulation;
+
+(c) cooperate with the competent national authorities, at their request, on any action taken to eliminate the risks posed by construction products covered by the mandate of the authorised representative.
+
+### Article 13 — Obligations of importers
+
+1\. Importers shall place on the Union market only construction products which are compliant with the applicable requirements of this Regulation.
+
+2\. Before placing a construction product on the market, importers shall ensure that the assessment and the verification of constancy of performance has been carried out by the manufacturer. They shall ensure that the manufacturer has drawn up the technical documentation referred to in the second subparagraph of Article 11(1) and the declaration of performance in accordance with Articles 4 and 6. They shall also ensure that the product, where required, bears the CE marking, that the product is accompanied by the required documents and that the manufacturer has complied with the requirements set out in Article 11(4) and (5).
+
+Where an importer considers or has reason to believe that the construction product is not in conformity with the declaration of performance or not in compliance with other applicable requirements in this Regulation, the importer shall not place the construction product on the market until it conforms to the accompanying declaration of performance and it complies with the other applicable requirements in this Regulation or until the declaration of performance is corrected. Furthermore, where the construction product presents a risk, the importer shall inform the manufacturer and the market surveillance authorities thereof.
+
+3\. Importers shall indicate on the construction product or, where that is not possible, on its packaging or in a document accompanying the product their name, registered trade name or registered trade mark and their contact address.
+
+4\. Importers shall ensure that, when making a construction product available on the market, the product is accompanied by instructions and safety information in a language determined by the Member State concerned which can be easily understood by users.
+
+5\. Importers shall ensure that, while a construction product is under their responsibility, storage or transport conditions do not jeopardise its conformity with the declaration of performance and compliance with other applicable requirements in this Regulation.
+
+6\. Importers shall, when deemed appropriate with regard to ensuring the accuracy, reliability and stability of the declared performance of a construction product, carry out sample testing of construction products placed or made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming products and of product recalls, and shall keep distributors informed of any such monitoring.
+
+7\. Importers who consider or have reason to believe that a construction product which they have placed on the market is not in conformity with the declaration of performance or not in compliance with other applicable requirements in this Regulation, shall immediately take the necessary corrective measures to bring that construction product into conformity, or, where appropriate, to withdraw or recall it. Furthermore, where the product presents a risk, importers shall immediately inform the competent national authorities of the Member States in which they made the construction product available thereof, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+8\. Importers shall, for the period referred to in Article 11(2), keep a copy of the declaration of performance at the disposal of the market surveillance authorities and ensure that the technical documentation is made available to those authorities, upon request.
+
+9\. Importers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of the construction product with the declaration of performance and compliance with other applicable requirements in this Regulation, in a language which can be easily understood by that authority. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by construction products which they have placed on the market.
+
+### Article 14 — Obligations of distributors
+
+1\. When making a construction product available on the market, distributors shall act with due care in relation to the requirements of this Regulation.
+
+2\. Before making a construction product available on the market distributors shall ensure that the product, where required, bears the CE marking and is accompanied by the documents required under this Regulation and by instructions and safety information in a language determined by the Member State concerned which can be easily understood by users. Distributors shall also ensure that the manufacturer and the importer have complied with the requirements set out in Article 11(4) and (5) and Article 13(3) respectively.
+
+Where a distributor considers or has reason to believe that a construction product is not in conformity with the declaration of performance or not in compliance with other applicable requirements in this Regulation, the distributor shall not make the product available on the market until it conforms to the accompanying declaration of performance and it complies with the other applicable requirements in this Regulation or until the declaration of performance is corrected. Furthermore, where the product presents a risk, the distributor shall inform the manufacturer or the importer thereof, and the market surveillance authorities.
+
+3\. A distributor shall ensure that, while a construction product is under his responsibility, storage or transport conditions do not jeopardise its conformity with the declaration of performance and compliance with other applicable requirements in this Regulation.
+
+4\. Distributors who consider or have reason to believe that a construction product which they have made available on the market is not in conformity with the declaration of performance or not in compliance with other applicable requirements in this Regulation, shall make sure that the corrective measures necessary to bring that product in conformity, to withdraw it or recall it, as appropriate, are taken. Furthermore, where the product presents a risk, distributors shall immediately inform the competent national authorities of the Member States in which they made the product available thereof, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+5\. Distributors shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation necessary to demonstrate the conformity of the construction product with the declaration of performance and compliance with other applicable requirements in this Regulation in a language which can be easily understood by that authority. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by construction products which they have made available on the market.
+
+### Article 15 — Cases in which obligations of manufacturers apply to importers and distributors
+
+An importer or distributor shall be considered a manufacturer for the purposes of this Regulation and shall be subject to the obligations of a manufacturer pursuant to Article 11, where he places a product on the market under his name or trademark or modifies a construction product already placed on the market in such a way that conformity with the declaration of performance may be affected.
+
+### Article 16 — Identification of economic operators
+
+For the period referred to in Article 11(2), economic operators shall, on request, identify the following to market surveillance authorities:
+
+(a) any economic operator who has supplied them with a product;
+
+(b) any economic operator to whom they have supplied a product.
+
+## CHAPTER IV — HARMONISED TECHNICAL SPECIFICATIONS
+
+### Article 17 — Harmonised standards
+
+1\. Harmonised standards shall be established by the European standardisation bodies listed in Annex I to Directive 98/34/EC on the basis of requests (hereinafter referred to as ‘mandates’) issued by the Commission in accordance with Article 6 of that Directive after having consulted the Standing Committee on Construction referred to in Article 64 of this Regulation (hereinafter referred to as ‘Standing Committee on Construction’).
+
+2\. Where stakeholders are involved in the process of developing harmonised standards pursuant to this Article, the European standardisation bodies shall ensure that the various categories of stakeholders are in all instances represented in a fair and equitable manner.
+
+3\. Harmonised standards shall provide the methods and the criteria for assessing the performance of the construction products in relation to their essential characteristics.
+
+When provided for in the relevant mandate, a harmonised standard shall refer to an intended use of products to be covered by it.
+
+Harmonised standards shall, where appropriate and without endangering the accuracy, reliability or stability of the results, provide methods less onerous than testing for assessing the performance of the construction products in relation to their essential characteristics.
+
+4\. The European standardisation bodies shall determine in harmonised standards the applicable factory production control, which shall take into account the specific conditions of the manufacturing process of the construction product concerned.
+
+The harmonised standard shall include technical details necessary for the implementation of the system of assessment and verification of constancy of performance.
+
+5\. The Commission shall assess the conformity of harmonised standards established by the European standardisation bodies with the relevant mandates.
+
+The Commission shall publish in the Official Journal of the European Union the list of references of harmonised standards which are in conformity with the relevant mandates.
+
+The following shall be indicated for each harmonised standard in the list:
+
+(a) references of superseded harmonised technical specifications, if any;
+
+(b) date of the beginning of the coexistence period;
+
+(c) date of the end of the coexistence period.
+
+The Commission shall publish any updates to that list.
+
+From the date of the beginning of the coexistence period it shall be possible to use a harmonised standard to make a declaration of performance for a construction product covered by it. National standardisation bodies are under the obligation to transpose the harmonised standards in conformity with Directive 98/34/EC.
+
+Without prejudice to Articles 36 to 38, from the date of the end of the coexistence period, the harmonised standard shall be the only means used for drawing up a declaration of performance for a construction product covered by it.
+
+At the end of the coexistence period, conflicting national standards shall be withdrawn and Member States shall terminate the validity of all conflicting national provisions.
+
+### Article 18 — Formal objection against harmonised standards
+
+1\. When a Member State or the Commission considers that a harmonised standard does not entirely satisfy the requirements set out in the relevant mandate, the Member State concerned or the Commission, after having consulted the Standing Committee on Construction, shall bring the matter before the Committee set up pursuant to Article 5 of Directive 98/34/EC, giving its arguments. That Committee shall, after having consulted the relevant European standardisation bodies deliver its opinion without delay.
+
+2\. In the light of the opinion of the Committee set up pursuant to Article 5 of Directive 98/34/EC, the Commission shall decide to publish, not to publish, to publish with restriction, to maintain, to maintain with restriction or to withdraw the references to the harmonised standard concerned in the Official Journal of the European Union.
+
+3\. The Commission shall inform the European standardisation body concerned of its decision and, if necessary, request the revision of the harmonised standard concerned.
+
+### Article 27 — Levels or classes of performance
+
+1\. The Commission may adopt delegated acts in accordance with Article 60, to establish classes of performance in relation to the essential characteristics of construction products.
+
+2\. Where the Commission has established classes of performance in relation to the essential characteristics of construction products, the European standardisation bodies shall use those classes in harmonised standards. The organisation of TABs shall where relevant use those classes in European Assessment Documents.
+
+Where classes of performance in relation to the essential characteristics of construction products are not established by the Commission, they may be established by the European standardisation bodies in harmonised standards, on the basis of a revised mandate.
+
+3\. When provided for in the relevant mandates, the European standardisation bodies shall establish in harmonised standards threshold levels in relation to essential characteristics and, when appropriate, for intended uses, to be fulfilled by construction products in Member States.
+
+4\. Where the European standardisation bodies have established classes of performance in a harmonised standard, the organisation of TABs shall use those classes in the European Assessment Documents where they are relevant for the construction product.
+
+When deemed appropriate, the organisation of TABs may, with the agreement of the Commission and after consulting the Standing Committee on Construction, establish in the European Assessment Document classes of performance and threshold levels in relation to the essential characteristics of a construction product within its intended use as foreseen by the manufacturer.
+
+5\. The Commission may adopt delegated acts in accordance with Article 60, to establish conditions under which a construction product shall be deemed to satisfy a certain level or class of performance without testing or without further testing.
+
+Where such conditions are not established by the Commission, they may be established by the European standardisation bodies in harmonised standards, on the basis of a revised mandate.
+
+6\. When the Commission has established classification systems in accordance with paragraph 1, Member States may determine the levels or classes of performance to be respected by construction products in relation to their essential characteristics only in accordance with those classification systems.
+
+7\. The European standardisation bodies and the organisation of TABs shall respect the regulatory needs of Member States when determining threshold levels or classes of performance.
+
+### Article 28 — Assessment and verification of constancy of performance
+
+1\. Assessment and verification of constancy of performance of construction products in relation to their essential characteristics shall be carried out in accordance with one of the systems set out in Annex V.
+
+2\. By means of delegated acts in accordance with Article 60, the Commission shall establish and may revise, taking into account in particular the effect on the health and safety of people, and on the environment, which system or systems are applicable to a given construction product or family of construction products or a given essential characteristic. In doing so, the Commission shall also take into account the documented experiences forwarded by national authorities with regard to market surveillance.
+
+The Commission shall choose the least onerous system or systems consistent with the fulfilment of all basic requirements for construction works.
+
+3\. The system or systems thus determined shall be indicated in the mandates for harmonised standards and in the harmonised technical specifications.
+
+## CHAPTER V — TECHNICAL ASSESSMENT BODIES
+
+## CHAPTER VI — SIMPLIFIED PROCEDURES
+
+### Article 36 — Use of Appropriate Technical Documentation
+
+1\. In determining the product-type, a manufacturer may replace type-testing or type-calculation by Appropriate Technical Documentation demonstrating that:
+
+(a) for one or several essential characteristics of the construction product, which the manufacturer places on the market, that product is deemed to achieve a certain level or class of performance without testing or calculation, or without further testing or calculation, in accordance with the conditions set out in the relevant harmonised technical specification or a Commission decision;
+
+(b) the construction product, covered by a harmonised standard, which the manufacturer places on the market corresponds to the product-type of another construction product, manufactured by another manufacturer and already tested in accordance with the relevant harmonised standard. When these conditions are fulfilled, the manufacturer is entitled to declare performance corresponding to all or part of the test results of this other product. The manufacturer may use the test results obtained by another manufacturer only after having obtained an authorisation of that manufacturer, who remains responsible for the accuracy, reliability and stability of those test results; or
+
+(c) the construction product, covered by a harmonised technical specification, which the manufacturer places on the market is a system made of components, which the manufacturer assembles duly following precise instructions given by the provider of such a system or of a component thereof, who has already tested that system or that component for one or several of its essential characteristics in accordance with the relevant harmonised technical specification. When these conditions are fulfilled, the manufacturer is entitled to declare performance corresponding to all or part of the test results for the system or the component provided to him. The manufacturer may use the test results obtained by another manufacturer or system provider only after having obtained an authorisation of that manufacturer or system provider, who remains responsible for the accuracy, reliability and stability of those test results.
+
+2\. If the construction product referred to in paragraph 1 belongs to a family of construction products for which the applicable system for assessment and verification of constancy of performance is system 1 + or 1, as set out in Annex V, the Appropriate Technical Documentation referred to in paragraph 1 shall be verified by a notified product certification body as referred to in Annex V.
+
+### Article 37 — Use of simplified procedures by micro-enterprises
+
+Micro-enterprises manufacturing construction products covered by a harmonised standard may replace the determination of the product-type on the basis of type-testing for the applicable systems 3 and 4 as set out in Annex V by using methods differing from those contained in the applicable harmonised standard. Those manufacturers may also treat construction products to which system 3 applies in accordance with provisions for system 4. When a manufacturer uses these simplified procedures, the manufacturer shall demonstrate compliance of the construction product with the applicable requirements by means of a Specific Technical Documentation and shall demonstrate the equivalence of the procedures used to the procedures laid down in the harmonised standards.
+
+### Article 38 — Other simplified procedures
+
+1\. In relation to construction products covered by a harmonised standard and which are individually manufactured or custom-made in a non-series process in response to a specific order, and which are installed in a single identified construction work, the performance assessment part of the applicable system, as set out in Annex V, may be replaced by the manufacturer by Specific Technical Documentation demonstrating compliance of that product with the applicable requirements and equivalence of the procedures used to the procedures laid down in the harmonised standards.
+
+2\. If the construction product referred to in paragraph 1 belongs to a family of construction products for which the applicable system for assessment and verification of constancy of performance is system 1 + or 1, as set out in Annex V, the Specific Technical Documentation shall be verified by a notified product certification body as referred to in Annex V.
+
+## CHAPTER VIa — EMERGENCY PROCEDURES
+
+### Article 38a — Application of emergency procedures
+
+1\. Articles 38b to 38d of this Regulation shall apply only if the Commission has adopted an implementing act pursuant to Article 28 of Regulation (EU) 2024/2747 with respect to construction products covered by this Regulation.
+
+2\. Articles 38b to 38d of this Regulation shall apply only to construction products which have been designated as crisis-relevant goods pursuant to Article 18(4) of Regulation (EU) 2024/2747.
+
+3\. Articles 38b to 38d of this Regulation shall apply only during the internal market emergency mode that has been activated in accordance with Article 18 of Regulation (EU) 2024/2747.
+
+4\. The Commission may adopt implementing acts regarding the corrective or restrictive actions to be taken, the procedures to be followed and the specific labelling and traceability requirements with respect to construction products placed on the market in accordance with Articles 38b and 38c. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 64(2a).
+
+### Article 38b — Prioritisation of the assessment and verification of constancy of performance of construction products designated as crisis-relevant goods
+
+1\. This Article applies to construction products listed in the implementing act referred to in Article 38a(1) that are subject to third party tasks of notified bodies related to the assessment and verification of constancy of performance in accordance with Article 28(1).
+
+2\. The notified bodies shall make best efforts to process as a matter of priority requests for third party tasks related to the assessment and verification of constancy of performance of construction products referred to in paragraph 1, irrespective of whether those requests have been lodged before or after the activation of the emergency procedures pursuant to Article 38a.
+
+3\. The prioritisation of requests for third party tasks related to the assessment and verification of constancy of performance of construction products pursuant to paragraph 2 shall not result in additional disproportionate costs for the manufacturers who have lodged those requests.
+
+4\. The notified bodies shall make reasonable efforts to increase their respective assessment and verification capacities regarding construction products referred to in paragraph 1 in respect of which they have been notified.
+
+### Article 38c — Assessment and declaration of performance based on standards and common specifications
+
+1\. Where construction products have been designated as crisis-relevant goods, the Commission is empowered to adopt implementing acts, listing appropriate standards or establishing common specifications to cover the methods and the criteria for assessing the performance of those products in relation to their essential characteristics in the following cases:
+
+(a) where a reference to harmonised standards covering the relevant methods and the criteria for assessing the performance of those products in relation to their essential characteristics has not been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012 of the European Parliament and of the Council ( 3 ) and no such reference is expected to be published within a reasonable period; or
+
+(b) where severe disruptions to the functioning of the internal market, which led to the activation of the internal market emergency mode in accordance with Article 18 of Regulation (EU) 2024/2747, significantly restrict the possibilities of manufacturers to make use of the harmonised standards that provide the relevant methods and criteria for assessing the performance of those products in relation to their essential characteristics, and the references of which have already been published in the Official Journal of the European Union in accordance with Regulation (EU) No 1025/2012.
+
+2\. The implementing acts referred to in paragraph 1 shall set out the most appropriate alternative technical solution for the purposes of providing assessment and declaration of performance in accordance with paragraph 5. To that end, the references of European standards or references of relevant applicable national or international standards may be published in those implementing acts or, if there is no European standard or relevant applicable national or international standard, common specifications may be established by those implementing acts.
+
+3\. The implementing acts referred to in paragraph 1 of this Article shall be adopted in accordance with the examination procedure referred to in Article 64(2a) and shall apply until the last day of the period during which the internal market emergency mode is activated, unless such implementing acts are amended or repealed in accordance with paragraph 7 of this Article.
+
+4\. Before preparing the draft implementing act referred to in paragraph 1 of this Article, the Commission shall inform the committee referred to in Article 22 of Regulation (EU) No 1025/2012 that it considers that the conditions in paragraph 1 of this Article have been fulfilled. When preparing that draft implementing act, the Commission shall take into account the views of relevant bodies or expert groups established under this Regulation and shall duly consult all relevant stakeholders.
+
+5\. Without prejudice to Articles 4 and 6, the methods and the criteria provided in the standards or common specifications referred to in paragraph 1 of this Article, or parts thereof, may be used for assessing and declaring the performance of construction products covered by those standards or common specifications in relation to their essential characteristics. From the day following the expiry or deactivation of the internal market emergency mode, it shall no longer be possible to draw up declarations of performance based on the standards or the common specifications referred to in the implementing act referred to in paragraph 1 of this Article.
+
+6\. By way of derogation from Article 38a(3), unless there is sufficient reason to believe that construction products covered by the standards or common specifications referred to in paragraph 1 of this Article present a risk to the health or safety of persons or fail to achieve the declared performance, the declarations of performance of construction products which have been placed on the market in compliance with those standards or common specifications shall remain valid after the expiry or repeal of an implementing act adopted pursuant to paragraph 3 of this Article and after the expiry or deactivation of the internal market emergency mode.
+
+7\. When a Member State considers that a standard or common specification as referred to in paragraph 1 is incorrect in terms of methods and criteria for the assessment of performance in relation to essential characteristics, it shall inform the Commission thereof by submitting a detailed explanation. The Commission shall assess that detailed explanation and, if appropriate, amend or repeal the implementing act listing the standard or establishing the common specification in question.
+
+### Article 38d — Prioritisation of market surveillance activities and mutual assistance among authorities
+
+1\. Member States shall prioritise the market surveillance activities for construction products listed in the implementing act referred to in Article 38a(1) of this Regulation. The Commission shall facilitate coordination of such prioritisation efforts through the Union Product Compliance Network established under Article 29 of Regulation (EU) 2019/1020 of the European Parliament and of the Council ( 4 ).
+
+2\. The market surveillance authorities of the Member States shall ensure that best efforts are made to provide assistance to other market surveillance authorities during an internal market emergency mode, including by mobilising and dispatching expert teams to temporarily reinforce the staff of market surveillance authorities requesting assistance or by providing logistical support, such as the reinforcement of the testing capacity for construction products listed in the implementing act referred to in Article 38a(1).
+
+## CHAPTER VII — NOTIFYING AUTHORITIES AND NOTIFIED BODIES
+
+### Article 39 — Notification
+
+Member States shall notify the Commission and the other Member States of bodies authorised to carry out third-party tasks in the process of assessment and verification of constancy of performance under this Regulation (hereinafter referred to as ‘notified bodies’).
+
+### Article 40 — Notifying authorities
+
+1\. Member States shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment and notification of the bodies to be authorised to carry out third-party tasks in the process of assessment and verification of constancy of performance for the purposes of this Regulation, and for the monitoring of notified bodies, including their compliance with Article 43.
+
+2\. Member States may decide that the assessment and monitoring referred to in paragraph 1 shall be carried out by their national accreditation bodies within the meaning of, and in accordance with, Regulation (EC) No 765/2008.
+
+3\. Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to in paragraph 1 to a body which is not a governmental entity, that body shall be a legal entity and shall comply mutatis mutandis with the requirements laid down in Article 41. In addition, it shall have arrangements to cover liabilities arising from its activities.
+
+4\. The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 3.
+
+### Article 47 — Application for notification
+
+1\. A body to be authorised to carry out third party tasks in the process of assessment and verification of constancy of performance shall submit an application for notification to the notifying authority of the Member State in which it is established.
+
+2\. The application shall be accompanied by a description of the activities to be performed, the assessment and/or verification procedures for which the body claims to be competent, an accreditation certificate, where one exists, issued by the national accreditation body within the meaning of Regulation (EC) No 765/2008, attesting that the body meets the requirements laid down in Article 43.
+
+3\. Where the body concerned cannot provide an accreditation certificate, it shall provide the notifying authority with all documentary evidence necessary for the verification, recognition and regular monitoring of its compliance with the requirements laid down in Article 43.
+
+### Article 48 — Notification procedure
+
+1\. Notifying authorities may notify only bodies which have satisfied the requirements laid down in Article 43.
+
+2\. They shall notify the Commission and the other Member States, notably using the electronic notification tool developed and managed by the Commission.
+
+Exceptionally, for cases set out in point 3 of Annex V, for which the appropriate electronic tool is not available, a hard copy of the notification shall be accepted.
+
+3\. The notification shall include full details of the functions to be performed, reference to the relevant harmonised technical specification and, for the purposes of the system set out in Annex V, the essential characteristics for which the body is competent.
+
+However, reference to the relevant harmonised technical specification is not required in the cases set out in point 3 of Annex V.
+
+4\. Where a notification is not based on an accreditation certificate as referred to in Article 47(2), the notifying authority shall provide the Commission and the other Member States with all documentary evidence which attests to the notified body’s competence and the arrangements in place to ensure that that body will be monitored regularly and will continue to satisfy the requirements laid down in Article 43.
+
+5\. The body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within 2 weeks of notification where an accreditation certificate is used or within 2 months of notification where an accreditation certificate is not used.
+
+Only such a body shall be considered as a notified body for the purpose of this Regulation.
+
+6\. The Commission and the other Member States shall be notified of any subsequent relevant changes to the notification.
+
+### Article 49 — Identification numbers and lists of notified bodies
+
+1\. The Commission shall assign an identification number to each notified body.
+
+It shall assign a single such number even where the body is notified under several Union acts.
+
+2\. The Commission shall make publicly available the list of bodies notified under this Regulation, including the identification numbers that have been allocated to them and the activities for which they have been notified, notably using the electronic notification tool developed and managed by the Commission.
+
+The Commission shall ensure that this list is kept up-to-date.
+
+### Article 52 — Operational obligations for notified bodies
+
+1\. Notified bodies shall carry out third party tasks in accordance with the systems of assessment and verification of constancy of performance provided for in Annex V.
+
+2\. Assessments and verifications of constancy of performance shall be carried out with transparency as regards the manufacturer, and in a proportionate manner, avoiding an unnecessary burden for economic operators. The notified bodies shall perform their activities taking due account of the size of the undertaking, the sector in which the undertaking operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process.
+
+In so doing, the notified bodies shall nevertheless respect the degree of rigour required for the product by this Regulation and the part played by the product for the fulfilment of all basic requirements for construction works.
+
+3\. Where, in the course of the initial inspection of the manufacturing plant and of factory production control, a notified body finds that the manufacturer has not ensured the constancy of performance of the manufactured product, it shall require the manufacturer to take appropriate corrective measures and shall not issue a certificate.
+
+4\. Where, in the course of the monitoring activity aiming at the verification of the constancy of performance of the manufactured product, a notified body finds that a construction product no longer has the same performance to that of the product-type, it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw its certificate if necessary.
+
+5\. Where corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any certificates, as appropriate.
+
+### Article 53 — Information obligations for notified bodies
+
+1\. Notified bodies shall inform the notifying authority of the following:
+
+(a) any refusal, restriction, suspension or withdrawal of certificates;
+
+(b) any circumstances affecting the scope of, and conditions for, notification;
+
+(c) any request for information on assessment and/or verification of constancy of performance activities carried out which they have received from market surveillance authorities;
+
+(d) on request, third party tasks in accordance with the systems of assessment and verification of constancy of performance carried out within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.
+
+2\. Notified bodies shall provide the other bodies notified under this Regulation carrying out similar third party tasks in accordance with the systems of assessment and verification of constancy of performance and for construction products covered by the same harmonised technical specification with relevant information on issues relating to negative and, on request, positive results from these assessments and/or verifications.
+
+### Article 55 — Coordination of notified bodies
+
+The Commission shall ensure that appropriate coordination and cooperation between bodies notified pursuant to Article 39 are put into place and properly operated in the form of a group of notified bodies.
+
+Member States shall ensure that the bodies notified by them participate in the work of that group, directly or by means of designated representatives, or shall ensure that the representatives of notified bodies are informed thereof.
+
+## CHAPTER VIII — MARKET SURVEILLANCE AND SAFEGUARD PROCEDURES
+
+## CHAPTER IX — FINAL PROVISIONS
+
+### Article 60 — Delegated acts
+
+For the purposes of achieving the objectives of this Regulation, in particular removing and avoiding restrictions on making construction products available on the market, the following matters shall be delegated to the Commission in accordance with Article 61, and subject to the conditions laid down in Articles 62 and 63:
+
+(a) the determination, where appropriate, of the essential characteristics or threshold levels within specific families of construction products, in relation to which, in accordance with Articles 3 to 6, the manufacturer shall declare, in relation to their intended use, by levels or classes, or in a description, the performance of the manufacturer’s product when it is placed on the market;
+
+(b) the conditions on which a declaration of performance may be electronically processed, in order to make it available on a web site in accordance with Article 7;
+
+(c) the amendment of the period for which the manufacturer shall keep the technical documentation and the declaration of performance after the construction product has been placed on the market, in accordance with Article 11, based on the expected life or the part played by the construction product in the construction works;
+
+(d) the amendment of Annex II and where necessary the adoption of supplementary procedural rules in accordance with Article 19(3) in order to ensure compliance with the principles in Article 20, or the application in practice of the procedures set out in Article 21;
+
+(e) the adaptation of Annex III, table 1 of Annex IV, and Annex V in response to technical progress;
+
+(f) the establishment and adaptation of classes of performance in response to technical progress in accordance with Article 27(1);
+
+(g) the conditions on which a construction product shall be deemed to satisfy a certain level or class of performance without testing or without further testing in accordance with Article 27(5), provided that the fulfilment of the basic requirements for construction works is not thereby jeopardised;
+
+(h) the adaptation, establishment and revision of the systems of assessment and verification of constancy of performance in accordance with Article 28, relating to a given product, a given product family or a given essential characteristic, and in accordance with:
+
+(i) the importance of the part played by the product or those essential characteristics with respect to the basic requirements for construction works;
+
+(ii) the nature of the product;
+
+(iii) the effect of the variability of the essential characteristics of the construction product during the expected life of the product; and
+
+(iv) the susceptibility to defects in the product’s manufacture.
+
+### Article 61 — Exercise of the delegation
+
+1\. The power to adopt delegated acts referred to in Article 60 shall be conferred on the Commission for a period of 5 years from 24 April 2011. The Commission shall draw up a report in respect of the delegated power at the latest 6 months before the end of the 5-year period. The delegation of power shall be automatically extended for periods of an identical duration, unless the European Parliament or the Council revokes it in accordance with Article 62.
+
+2\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+3\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 62 and 63.
+
+### Article 62 — Revocation of the delegation
+
+1\. The delegation of power referred to in Article 60 may be revoked at any time by the European Parliament or by the Council.
+
+2\. The institution which has commenced an internal procedure for deciding whether to revoke the delegation of power shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated power which could be subject to revocation and possible reasons for a revocation.
+
+3\. The decision of revocation shall put an end to the delegation of the power specified in that decision. It shall take effect immediately or at a later date specified therein. It shall not affect the validity of the delegated acts already in force. It shall be published in the Official Journal of the European Union.
+
+### Article 63 — Objections to delegated acts
+
+1\. The European Parliament or the Council may object to a delegated act within a period of 3 months from the date of notification.
+
+At the initiative of the European Parliament or the Council, that period shall be extended by 3 months.
+
+2\. If, on expiry of the period referred to in paragraph 1, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the Official Journal of the European Union and shall enter into force on the date stated therein.
+
+The delegated act may be published in the Official Journal of the European Union and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.
+
+3\. If either the European Parliament or the Council objects to a delegated act within the period referred to in paragraph 1, it shall not enter into force. The institution which objects shall state the reasons for objecting to the delegated act.
+
+### Article 64 — Committee
+
+1\. The Commission shall be assisted by a Standing Committee on Construction.
+
+2\. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply.
+
+2a. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 5 ) shall apply.
+
+3\. Member States shall ensure that the members of the Standing Committee on Construction are able to carry out their functions in a manner that avoids conflicts of interest, particularly in respect of the procedures for obtaining the CE marking.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX III — DECLARATION OF PERFORMANCE — No
+
+1\. Unique identification code of the product-type:
+
+2\. Intended use/es:
+
+3\. Manufacturer:
+
+4\. Authorised representative:
+
+5\. System/s of AVCP:
+
+6a. Harmonised standard:
+
+Notified body/ies:
+
+6b. European Assessment Document:
+
+European Technical Assessment:
+
+Technical Assessment Body:
+
+Notified body/ies:
+
+7\. Declared performance/s:
+
+8\. Appropriate Technical Documentation and/or Specific Technical Documentation:
+
+The performance of the product identified above is in conformity with the set of declared performance/s. This declaration of performance is issued, in accordance with Regulation (EU) No 305/2011, under the sole responsibility of the manufacturer identified above.
+
+Signed for and on behalf of the manufacturer by:
+
+[name]
+
+At [place] on [date of issue]
+
+[signature]
+
+**Instructions for drawing up the declaration of performance**
+
+**1\. GENERAL**
+
+These instructions aim at guiding the manufacturers when drawing up a declaration of performance compliant with Regulation (EU) No 305/2011, following the model of this Annex (hereinafter referred to as ‘the model’).
+
+These instructions are not part of the declarations of performance to be issued by manufacturers and should not be enclosed to these declarations of performance.
+
+When drawing up a declaration of performance, the manufacturer shall:
+
+(1) reproduce the texts and the headlines of the model which are not indicated between square brackets;
+
+(2) replace the blank spaces and square brackets by inserting the necessary information.
+
+Manufacturers may also include in the declaration of performance the reference to the website where the copy of the declaration of performance is made available in accordance with Article 7(3) of Regulation (EU) No 305/2011. This may be included after point 8 or in another place where it does not affect the readability and clarity of the mandatory information.
+
+**2\. FLEXIBILITY**
+
+Providing that the mandatory information required by Article 6 of Regulation (EU) No 305/2011 is provided in a clear, complete and coherent manner, when drawing up a declaration of performance, it is possible to:
+
+(1) use a different layout as in the model;
+
+(2) combine the points of the model by presenting some of them together;
+
+(3) present the points of the model in a different order or using one or more tables;
+
+(4) omit some points of the model which are not relevant for the product for which a declaration of performance is drawn up. For example, this is the case since the declaration of performance may be based either on a harmonised standard or on a European Technical Assessment issued for the product, rendering the other alternative not applicable. These omissions could also concern the points on the authorised representative or on the use of Appropriate Technical Documentation and the Specific Technical Documentation;
+
+(5) present the points without numbering them.
+
+If a manufacturer wishes to issue a single declaration of performance covering different variations of a product-type, at least the following elements need to be listed separately and clearly for every product variation: the number of the declaration of performance, the identification code under point 1 and the declared performances/s under point 7.
+
+**3\. INSTRUCTION FOR THE COMPLETION OF THE FORM**
+
+| Point of the model | Instruction |
+| --- | --- |
+| Number of the declaration of performance | This is the reference number of the declaration of performance foreseen in Article 9(2) of Regulation (EU) No 305/2011. The choice of the number is left to the manufacturer. This number may be the same as the unique identification code of the product-type indicated under point 1 of the model. |
+| Point 1 | Indicate the unique identification code of the product-type referred to in Article 6(2)(a) of Regulation (EU) No 305/2011. In Article 9(2) of Regulation (EU) No 305/2011, the unique identification code determined by the manufacturer to follow the CE marking is linked to the product-type and thus to the set of performance levels or classes of a construction product, as brought forward in the declaration of performance drawn up for it. Moreover, for the recipients of construction products, in particular for their final end users, it is necessary to be able to unequivocally identify this set of performance levels or classes for any given product. Therefore, every construction product, for which a declaration of performance has been drawn up, should be linked by its manufacturer to the respective product-type and a given set of performance levels or classes by the unique identification code, which acts also as the reference mentioned in Article 6(2)(a) of Regulation (EU) No 305/2011. |
+| Point 2 | Indicate the intended use, or list the intended uses, as appropriate, of the construction product as foreseen by the manufacturer, in accordance with the applicable harmonised technical specification. |
+| Point 3 | Indicate the name, the registered trade name or registered trade mark and the contact address of the manufacturer, as required pursuant to Article 11(5) of Regulation (EU) No 305/2011. |
+| Point 4 | This point shall be included and filled in only in case an authorised representative has been designated. In such case, indicate the name and the contact address of the authorised representative whose mandate covers the tasks specified in Article 12(2) of Regulation (EU) No 305/2011. |
+| Point 5 | Indicate the number of the applicable system or systems of assessment and verification of constancy of performance (AVCP) of the construction product as set out in Annex V to Regulation (EU) No 305/2011. If there are multiple systems, each of them shall be declared. |
+| Points 6a and 6b | Since a manufacturer can draw up a declaration of performance based on either a harmonised standard or a European Technical Assessment issued for the product, these two different situations presented under points 6a and 6b should be treated as alternative, with only one of them to be applied and filled in in a declaration of performance. In case of point 6a, i.e. when a declaration of performance is based on a harmonised standard, indicate all the following: (a) the reference number of the harmonised standard and its date of issue (dated reference); and (b) the identification number of the notified body/ies. When providing the name of the notified body/ies, it is essential that the name is provided in its original language, without translation to other languages. In case of point 6b, i.e. when a declaration of performance is based on a European Technical Assessment issued for the product, indicate all the following: (a) the number of the European Assessment Document and its date of issue; (b) the number of the European Technical Assessment and its date of issue; (c) the name of the Technical Assessment Body; and (d) the identification number of the notified body/ies. |
+| Point 7 | Under this point, the declaration of performance shall indicate: (a) the list of essential characteristics, as determined in the harmonised technical specifications for the intended use or uses indicated under point 2; and (b) for each essential characteristic, the declared performance, by level or class, or in a description, in relation to this characteristic or, for characteristics for which no performance is declared, the letters ‘NPD’ (No Performance Determined). This point may be filled up with the use of a table which brings forward the links between the harmonised technical specifications and the systems of assessment and verification of constancy of performance applied respectively to each essential characteristic of the product, as well as the performance in relation to each essential characteristic. The performance shall be declared in a clear and explicit manner. Therefore, the performance cannot be described in the declaration of performance solely by inserting a calculation formula to be applied by the recipients. Furthermore, the levels or classes of performance presented in reference documents shall be reproduced in the declaration of performance itself and thus cannot be expressed solely by inserting references to these documents into the declaration of performance. However, the performance notably of structural behaviour of a construction product may be expressed by referring to the respective production documentation or structural design calculations. In this case, the relevant documents shall be attached to the declaration of performance. |
+| Point 8 | This point shall only be included and filled in in a declaration of performance if Appropriate Technical Documentation and/or Specific Technical Documentation has been used, in accordance with Articles 36 to 38 of Regulation (EU) No 305/2011, in order to indicate the requirements with which the product complies. In such a case, under this point the declaration of performance shall indicate: (a) the reference number of the Specific and/or Appropriate Technical Documentation used, and (b) the requirements with which the product complies. |
+| Signature | Replace the spaces indicated between square brackets by the information indicated and the signature. |
+
+## ANNEX V — ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE
+
+**1\. SYSTEMS OF ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE**
+
+The manufacturer shall draw up the declaration of performance and determine the product-type on the basis of the assessments and verifications of constancy of performance carried out under the following systems:
+
+**1.1. System 1+**
+
+(a) The manufacturer shall carry out:
+
+(i) factory production control;
+
+(ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.
+
+(b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:
+
+(i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;
+
+(ii) initial inspection of the manufacturing plant and of factory production control;
+
+(iii) continuing surveillance, assessment and evaluation of factory production control;
+
+(iv) audit — testing of samples taken by the notified product certification body at the manufacturing plant or at the manufacturer's storage facilities.
+
+**1.2. System 1**
+
+(a) The manufacturer shall carry out:
+
+(i) factory production control;
+
+(ii) further testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.
+
+(b) The notified product certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:
+
+(i) an assessment of the performance of the construction product carried out on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of the product;
+
+(ii) initial inspection of the manufacturing plant and of factory production control;
+
+(iii) continuing surveillance, assessment and evaluation of factory production control.
+
+**1.3. System 2+**
+
+(a) The manufacturer shall carry out:
+
+(i) an assessment of the performance of the construction product on the basis of testing (including sampling), calculation, tabulated values or descriptive documentation of that product;
+
+(ii) factory production control;
+
+(iii) testing of samples taken at the manufacturing plant by the manufacturer in accordance with the prescribed test plan.
+
+(b) The notified factory production control certification body shall decide on the issuing, restriction, suspension or withdrawal of the certificate of conformity of the factory production control on the basis of the outcome of the following assessments and verifications carried out by that body:
+
+(i) initial inspection of the manufacturing plant and of factory production control;
+
+(ii) continuing surveillance, assessment and evaluation of factory production control.
+
+**1.4. System 3**
+
+(a) The manufacturer shall carry out factory production control.
+
+(b) The notified laboratory shall assess the performance on the basis of testing (based on sampling carried out by the manufacturer), calculation, tabulated values or descriptive documentation of the construction product.
+
+**1.4a. System 3+**
+
+(a) The manufacturer shall carry out:
+
+(i) the assessment of the performance of the product on the basis of data collection for input values, assumptions and modelling;
+
+(ii) factory production control.
+
+(b) The notified assessment validation body shall decide on the issuing, restriction, suspension or withdrawal of the validation report of constancy of performance of the construction product on the basis of the outcome of the following assessments and verifications carried out by that body:
+
+(i) validation of the input values, assumptions made and compliance with applicable generic or product category specific rules;
+
+(ii) validation of the manufacturer’s assessment;
+
+(iii) validation of the process applied to generate that assessment;
+
+(iv) validation of the correct usage of software appropriate for the assessment;
+
+(v) initial inspection of the manufacturing plant to validate any company-specific data.
+
+**1.5. System 4**
+
+(a) The manufacturer shall carry out:
+
+(i) an assessment of the performance of the construction product on the basis of testing, calculation, tabulated values or descriptive documentation of that product;
+
+(ii) factory production control.
+
+(b) No tasks require the intervention of notified bodies.
+
+**1.6. Construction products for which a European Technical Assessment has been issued**
+
+Notified bodies undertaking tasks under Systems 1+, 1, 3 and 3+ as well as manufacturers undertaking tasks under Systems 2+ and 4 shall consider the European Technical Assessment issued for the construction product in question as the assessment of the performance of that product. Notified bodies and manufacturers shall therefore not undertake the tasks referred to in points 1.1.(b)(i), 1.2.(b)(i), 1.3.(a)(i), 1.4.(b), 1.4a.(a)(i) and 1.5.(a)(i) respectively.
+
+**2\. BODIES INVOLVED IN THE ASSESSMENT AND VERIFICATION OF CONSTANCY OF PERFORMANCE**
+
+With respect to the function of notified bodies involved in the assessment and verification of constancy of performance for construction products, distinction shall be made between:
+
+(1) product certification body: a body notified, in accordance with Chapter VII, to carry out constancy of performance certification;
+
+(2) factory production control certification body: a body notified, in accordance with Chapter VII, to carry out factory production control certification;
+
+(3) laboratory: a body notified, in accordance with Chapter VII, to measure, examine, test, calculate or otherwise assess the performance of construction products;
+
+(4) assessment validation body: a body notified, in accordance with Chapter VII, to validate the assessment of the performance of construction products.
+
+**3\. HORIZONTAL NOTIFICATIONS: CASES OF ESSENTIAL CHARACTERISTICS WHERE REFERENCE TO A RELEVANT HARMONISED TECHNICAL SPECIFICATION IS NOT REQUIRED**
+
+1\. Reaction to fire
+
+2\. Resistance to fire
+
+3\. External fire performance
+
+4\. Acoustic performance
+
+5\. Emissions of dangerous substances.
+
+6\. Environmental sustainability.
+
+( 1 ) OJ L 124, 20.5.2003, p. 36.
+
+( 2 ) Regulation (EU) 2024/2747 of the European Parliament and of the Council of 9 October 2024 establishing a framework of measures, related to an internal market emergency and to the resilience of the internal market and amending Council Regulation (EC) No 2679/98 (Internal Market Emergency and Resilience Act) (OJ L, 2024/2747, 8.11.2024, ELI: http://data.europa.eu/eli/reg/2024/2747/oj).
+
+( 3 ) Regulation (EU) No 1025/2012 of the European Parliament and of the Council of 25 October 2012 on European standardisation, amending Council Directives 89/686/EEC and 93/15/EEC and Directives 94/9/EC, 94/25/EC, 95/16/EC, 97/23/EC, 98/34/EC, 2004/22/EC, 2007/23/EC, 2009/23/EC and 2009/105/EC of the European Parliament and of the Council and repealing Council Decision 87/95/EEC and Decision No 1673/2006/EC of the European Parliament and of the Council (OJ L 316, 14.11.2012, p. 12).
+
+( 4 ) Regulation (EU) 2019/1020 of the European Parliament and of the Council of 20 June 2019 on market surveillance and compliance of products and amending Directive 2004/42/EC and Regulations (EC) No 765/2008 and (EU) No 305/2011 (OJ L 169, 25.6.2019, p. 1).
+
+( 5 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).

@@ -23,9 +23,11 @@ retrieved: 2026-10-11
 
 **on the requirements for the labelling, sealing and packaging of fruit plant propagating material and fruit plants intended for fruit production, falling within the scope of Council Directive 2008/90/EC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2019/1813 of 29 October 2019 </td><td> L 278</td><td>7</td><td>30.10.2019</td></tr>
+</table>
 
 **COMMISSION IMPLEMENTING DIRECTIVE 2014/96/EU**
 

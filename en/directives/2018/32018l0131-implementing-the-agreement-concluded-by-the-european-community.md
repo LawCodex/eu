@@ -115,6 +115,7 @@ In the Annex to Directive 2009/13/EC, the Agreement concluded by the ECSA and th
 |  | 1. | In implementation of Regulation 2.5, paragraph 2, this Standard establishes requirements to ensure the provision of an expeditious and effective financial security system to assist seafarers in the event of their abandonment. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>For the purposes of this Standard, a seafarer shall be deemed to have been abandoned where, in violation of the requirements of this Agreement or the terms of the seafarers' employment agreement, the shipowner:<table><tbody><tr><td>(a)</td><td>fails to cover the cost of the seafarer's repatriation; or</td></tr>
 </tbody>
 </table>
@@ -126,6 +127,7 @@ In the Annex to Directive 2009/13/EC, the Agreement concluded by the ECSA and th
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 3. | Each Member State shall ensure that a financial security system meeting the requirements of this Standard is in place for ships flying its flag. The financial security system may be in the form of a social security scheme or insurance or a national fund or other similar arrangements. Its form shall be determined by the Member State after consultation with the shipowners' and seafarers' organisations concerned. |
 | --- | --- | --- |
@@ -139,6 +141,7 @@ In the Annex to Directive 2009/13/EC, the Agreement concluded by the ECSA and th
 |  | 6. | Each Member State shall require that ships that fly its flag, and which are required under national laws to carry a Maritime Labour Certificate or do so at the request of the shipowner, carry on board a certificate or other documentary evidence of financial security issued by the financial security provider. A copy shall be posted in a conspicuous place on board where it is available to the seafarers. Where more than one financial security provider provides cover, the document provided by each provider shall be carried on board. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>7.</td><td>The certificate or other documentary evidence of financial security shall be in English or accompanied by an English translation and contain the following information:<table><tbody><tr><td>(a)</td><td>name of the ship;</td></tr>
 </tbody>
 </table>
@@ -168,10 +171,12 @@ In the Annex to Directive 2009/13/EC, the Agreement concluded by the ECSA and th
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 8. | Assistance provided by the financial security system shall be granted promptly upon request made by the seafarer or the seafarer's nominated representative and supported by the necessary justification of entitlement in accordance with paragraph 2 of this Standard. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>9.</td><td>Having regard to Regulation 2.5, assistance provided by the financial security system shall be sufficient to cover the following:<table><tbody><tr><td>(a)</td><td>outstanding wages and other entitlements due from the shipowner to the seafarer under their employment agreement, the relevant collective bargaining agreement or the national law of the flag State, limited to 4 months of any such outstanding wages and 4 months of any such outstanding entitlements;</td></tr>
 </tbody>
 </table>
@@ -183,6 +188,7 @@ In the Annex to Directive 2009/13/EC, the Agreement concluded by the ECSA and th
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 10. | The cost of repatriation shall cover travel by appropriate and expeditious means, normally by air, and include provision for food and accommodation of the seafarer from the time of leaving the ship until arrival at the seafarer's home, necessary medical care, passage and transport of personal effects and any other reasonable costs or charges arising from the abandonment. |
 | --- | --- | --- |

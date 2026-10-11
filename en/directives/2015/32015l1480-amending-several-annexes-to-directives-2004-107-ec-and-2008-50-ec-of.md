@@ -106,6 +106,7 @@ Directive 2004/107/EC is amended as follows:
 
 (a) the table is replaced by the following:
 
+<table>
 <tbody><tr><td></td><td>‘Benzo(a)pyrene</td><td>Arsenic, cadmium and nickel</td><td>Polycyclic aromatic hydrocarbons other than benzo(a)pyrene, total gaseous mercury</td><td>Total deposition</td></tr>
 <tr><td><table><tbody><tr><td>—</td><td>Uncertainty</td></tr>
 </tbody>
@@ -124,6 +125,7 @@ Directive 2004/107/EC is amended as follows:
 <tr><td>Fixed measurements (1)</td><td>33 %</td><td>50 %</td><td></td><td></td></tr>
 <tr><td>Indicative measurements (1) (2)</td><td>14 %</td><td>14 %</td><td>14 %</td><td>33 %</td></tr>
 </tbody>
+</table>
 
 (b) in the third paragraph, the following sentence is deleted:
 
@@ -173,6 +175,7 @@ Directive 2008/50/EC is amended as follows:
 
 **‘C. Quality assurance for ambient air quality assessment. Data validation**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>To ensure accuracy of measurements and compliance with the data quality objectives laid down in Section A, the appropriate competent authorities and bodies designated pursuant to Article 3 shall ensure the following:<table><tbody><tr><td>(i)</td><td>that all measurements undertaken in relation to the assessment of ambient air quality pursuant to Articles 6 and 9 are traceable in accordance with the requirements set out in the harmonised standard for testing and calibration laboratories,</td></tr>
 </tbody>
 </table>
@@ -193,6 +196,7 @@ Directive 2008/50/EC is amended as follows:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 2. | All reported data under Article 27 shall be deemed to be valid except data flagged as provisional.’ |
 | --- | --- | --- |
@@ -269,6 +273,7 @@ The detailed test reports and all the results of the tests shall be available to
 
 Minimum number of sampling points for fixed continuous measurements to assess compliance with target values, long — term objectives and information and alert thresholds where such measurements are the sole source of information.
 
+<table>
 <tbody><tr><td>Population (× 1 000 )</td><td>Agglomeration (1)</td><td>Other zones (1)</td><td>Rural background</td></tr>
 <tr><td>&lt; 250</td><td></td><td>1</td><td rowspan="8">1 station/50 000 km2 as an average density over all zones per country (2)</td></tr>
 <tr><td>&lt; 500</td><td>1</td><td>2</td></tr>
@@ -279,6 +284,7 @@ Minimum number of sampling points for fixed continuous measurements to assess co
 <tr><td>&lt; 3 750 </td><td>5</td><td>6</td></tr>
 <tr><td>&gt; 3 750 </td><td>One additional station per 2 million inhabitants</td><td>One additional station per 2 million inhabitants</td></tr>
 </tbody>
+</table>
 
 (1) At least 1 station in areas where exposure of the population to the highest concentrations of ozone is likely to occur. In agglomerations, at least 50 % of the stations shall be located in suburban areas.
 

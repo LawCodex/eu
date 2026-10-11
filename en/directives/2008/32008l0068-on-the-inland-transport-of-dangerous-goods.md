@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DECISION of 4 March 2009 </td><td> L 71</td><td>23</td><td>17.3.2009</td></tr>
@@ -53,6 +54,7 @@ retrieved: 2026-10-11
 <tr><td> M25</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2024/1762 of 5 June 2024 </td><td> L 1762</td><td>1</td><td>28.6.2024</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2025/149 of 15 November 2024 </td><td> L 149</td><td>1</td><td>24.1.2025</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2026/1041 of 5 May 2026 </td><td> L 1041</td><td>1</td><td>12.5.2026</td></tr>
+</table>
 
 **DIRECTIVE 2008/68/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

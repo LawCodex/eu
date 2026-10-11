@@ -24,11 +24,13 @@ retrieved: 2026-10-11
 
 **(91/676/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2026/288 of 9 February 2026 </td><td> L 288</td><td>1</td><td>10.2.2026</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 
@@ -294,12 +296,14 @@ If a Member State allows a different amount under point (b) of the second subpar
 
 (iv) pathogens in the fertilising materials containing more than 1 % organic carbon do not exceed the following upper limits:
 
+<table>
 <tbody><tr><td rowspan="2">Micro-organisms to be tested</td><td colspan="3">Sampling plans</td><td>Limit</td></tr>
 <tr><td>n</td><td>c</td><td>m</td><td>M</td></tr>
 <tr><td>Salmonella spp.</td><td>5</td><td>0</td><td>0</td><td>Absence in 25 g or 25 ml</td></tr>
 <tr><td>Escherichia coli or enterococci</td><td>5</td><td>5</td><td>0</td><td>1 000 in 1 g or 1 ml</td></tr>
 <tr><td colspan="5">Where: n = number of samples to be tested,  c = number of samples where the number of bacteria expressed in colony forming units (CFU) is between m and M,  m = threshold value for the number of bacteria expressed in CFU that is considered satisfactory,  M = maximum value of the number of bacteria expressed in CFU. </td></tr>
 </tbody>
+</table>
 
 (v) Member States implement strict quality standards to ensure a consistent nutrient content in fertilising materials across production batches in line with the criteria set out in point (ii);
 

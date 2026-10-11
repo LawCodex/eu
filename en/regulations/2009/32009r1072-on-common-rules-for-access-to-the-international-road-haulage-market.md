@@ -1,0 +1,591 @@
+---
+title: "Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market (recast) (Text with EEA relevance)"
+identifier: "32009R1072"
+eli: "http://data.europa.eu/eli/reg/2009/1072/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-10-21
+entry_into_force: 2009-12-31
+last_amended: 2022-02-21
+consolidated_version: "02009R1072-20220221"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1072-20220221"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market (recast) (Text with EEA relevance)
+
+**REGULATION (EC) No 1072/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 October 2009**
+
+**on common rules for access to the international road haulage market**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 612/2012 of 9 July 2012 </td><td> L 178</td><td>5</td><td>10.7.2012</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) 2020/1055 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 July 2020 </td><td> L 249</td><td>17</td><td>31.7.2020</td></tr>
+</table>
+
+**REGULATION (EC) No 1072/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 21 October 2009**
+
+**on common rules for access to the international road haulage market**
+
+**(recast)**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Scope
+
+1\. This Regulation shall apply to the international carriage of goods by road for hire or reward for journeys carried out within the territory of the Community.
+
+2\. In the event of carriage from a Member State to a third country and vice versa, this Regulation shall apply to the part of the journey on the territory of any Member State crossed in transit. It shall not apply to that part of the journey on the territory of the Member State of loading or unloading, as long as the necessary agreement between the Community and the third country concerned has not been concluded.
+
+3\. Pending the conclusion of the agreements referred to in paragraph 2, this Regulation shall not affect:
+
+(a) provisions relating to the carriage from a Member State to a third country and vice versa included in bilateral agreements concluded by Member States with those third countries;
+
+(b) provisions relating to the carriage from a Member State to a third country and vice versa included in bilateral agreements concluded between Member States which, under either bilateral authorisations or liberalisation arrangements, allow loading and unloading in a Member State by hauliers not established in that Member State.
+
+4\. This Regulation shall apply to the national carriage of goods by road undertaken on a temporary basis by a non-resident haulier as provided for in Chapter III.
+
+5\. The following types of carriage and unladen journeys made in conjunction with such carriage shall not require a Community licence and shall be exempt from any carriage authorisation:
+
+(a) carriage of mail as a universal service;
+
+(b) carriage of vehicles which have suffered damage or breakdown;
+
+(c) until 20 May 2022: carriage of goods in vehicles the permissible laden mass of which does not exceed 3,5 tonnes;
+
+(ca) from 21 May 2022: carriage of goods in vehicles the permissible laden mass of which does not exceed 2,5 tonnes;
+
+(d) carriage of goods in motor vehicles provided the following conditions are fulfilled:
+
+(i) the goods carried are the property of the undertaking or have been sold, bought, let out on hire or hired, produced, extracted, processed or repaired by the undertaking;
+
+(ii) the purpose of the journey is to carry the goods to or from the undertaking or to move them, either inside or outside the undertaking for its own requirements;
+
+(iii) motor vehicles used for such carriage are driven by personnel employed by, or put at the disposal of, the undertaking under a contractual obligation;
+
+(iv) the vehicles carrying the goods are owned by the undertaking, have been bought by it on deferred terms or have been hired provided that in the latter case they meet the conditions of Directive 2006/1/EC of the European Parliament and of the Council of 18 January 2006 on the use of vehicles hired without drivers for the carriage of goods by road ( 1 ); and
+
+(v) such carriage is no more than ancillary to the overall activities of the undertaking;
+
+(e) carriage of medicinal products, appliances, equipment and other articles required for medical care in emergency relief, in particular for natural disasters.
+
+Point (d)(iv) of the first subparagraph shall not apply to the use of a replacement vehicle during a short breakdown of the vehicle normally used.
+
+6\. The provisions of paragraph 5 shall not affect the conditions under which a Member State authorises its nationals to engage in the activities referred to in that paragraph.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+1\. ‘vehicle’ means a motor vehicle registered in a Member State, or a coupled combination of vehicles the motor vehicle of which at least is registered in a Member State, used exclusively for the carriage of goods;
+
+2\. ‘international carriage’ means:
+
+(a) a laden journey undertaken by a vehicle the point of departure and the point of arrival of which are in two different Member States, with or without transit through one or more Member States or third countries;
+
+(b) a laden journey undertaken by a vehicle from a Member State to a third country or vice versa, with or without transit through one or more Member States or third countries;
+
+(c) a laden journey undertaken by a vehicle between third countries, with transit through the territory of one or more Member States; or
+
+(d) an unladen journey in conjunction with the carriage referred to in points (a), (b) and (c);
+
+3\. ‘host Member State’ means a Member State in which a haulier operates other than the haulier’s Member State of establishment;
+
+4\. ‘non-resident haulier’ means a road haulage undertaking which operates in a host Member State;
+
+5\. ‘driver’ means any person who drives the vehicle even for a short period, or who is carried in a vehicle as part of his duties to be available for driving if necessary;
+
+6\. ‘cabotage operations’ means national carriage for hire or reward carried out on a temporary basis in a host Member State, in conformity with this Regulation;
+
+7\. ‘serious infringement of Community road transport legislation’ means an infringement which may lead to the loss of good repute in accordance with Article 6(1) and (2) of Regulation (EC) No 1071/2009 and/or to the temporary or permanent withdrawal of a Community licence.
+
+## CHAPTER II — INTERNATIONAL CARRIAGE
+
+### Article 3 — General principle
+
+International carriage shall be carried out subject to possession of a Community licence and, if the driver is a national of a third country, in conjunction with a driver attestation.
+
+### Article 4 — Community licence
+
+1\. The Community licence shall be issued by a Member State, in accordance with this Regulation, to any haulier carrying goods by road for hire or reward who:
+
+(a) is established in that Member State in accordance with Community legislation and the national legislation of that Member State; and
+
+(b) is entitled in the Member State of establishment, in accordance with Community legislation and the national legislation of that Member State concerning admission to the occupation of road haulage operator, to carry out the international carriage of goods by road.
+
+2\. The Community licence shall be issued by the competent authorities of the Member State of establishment for renewable periods of up to 10 years.
+
+Community licences and certified copies issued before the date of application of this Regulation shall remain valid until their date of expiry.
+
+3\. The Member State of establishment shall issue the holder with the original of the Community licence, which shall be kept by the haulier, and the number of certified true copies corresponding to the number of vehicles at the disposal of the holder of the Community licence, whether those vehicles are wholly owned or, for example, held under a hire purchase, hire or leasing contract.
+
+4\. The Community licence and the certified true copies shall correspond to the model set out in Annex II, which also lays down the conditions governing its use. They shall contain at least two of the security features listed in Annex I.
+
+In the case of vehicles used for the carriage of goods, the permissible laden mass of which does not exceed 3,5 tonnes and for which the lower financial requirements established in the second subparagraph of Article 7(1) of Regulation (EC) No 1071/2009 are applied, the issuing authority shall write in the ‘particular remarks’ section of the Community licence or of the certified true copy thereof: ‘≤ 3,5 t’.
+
+The Commission is empowered to adopt delegated acts in accordance with Article 14b to amend Annexes I and II in order to adapt them to technical progress.
+
+5\. The Community licence and the certified true copies thereof shall bear the seal of the issuing authority as well as a signature and a serial number. The serial numbers of the Community licence and of the certified true copies shall be recorded in the national electronic register of road transport undertakings as part of the data relating to the haulier.
+
+6\. The Community licence shall be issued in the name of the haulier and shall be non-transferable. A certified true copy of the Community licence shall be kept in each of the haulier’s vehicles and shall be presented at the request of any authorised inspecting officer.
+
+In the case of a coupled combination of vehicles, the certified true copy shall accompany the motor vehicle. It shall cover the coupled combination of vehicles even where the trailer or semi-trailer is not registered or authorised to use the roads in the name of the licence holder or where it is registered or authorised to use the roads in another State.
+
+### Article 5 — Driver attestation
+
+1\. A driver attestation shall be issued by a Member State, in accordance with this Regulation, to any haulier who:
+
+(a) is the holder of a Community licence; and
+
+(b) in that Member State, either lawfully employs a driver who is neither a national of a Member State nor a long-term resident within the meaning of Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents ( 2 ), or lawfully uses a driver who is neither a national of a Member State nor a long-term resident within the meaning of that Directive and who is put at the disposal of that haulier in accordance with the conditions of employment and of vocational training laid down in that Member State:
+
+(i) by laws, regulations or administrative provisions; and, as appropriate;
+
+(ii) by collective agreements, in accordance with the rules applicable in that Member State.
+
+2\. The driver attestation shall be issued by the competent authorities of the Member State of establishment of the haulier, at the request of the holder of the Community licence, for each driver who is neither a national of a Member State nor a long-term resident within the meaning of Directive 2003/109/EC whom that haulier lawfully employs, or for each driver who is neither a national of a Member State nor a long-term resident within the meaning of that Directive and who is put at the disposal of the haulier. Each driver attestation shall certify that the driver named therein is employed in accordance with the conditions laid down in paragraph 1.
+
+3\. The driver attestation shall correspond to the model set out in Annex III. It shall contain at least two of the security features listed in Annex I.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 14b to amend Annex III in order to adapt it to technical progress.
+
+5\. The driver attestation shall bear the seal of the issuing authority as well as a signature and a serial number. The serial number of the driver attestation may be recorded in the national electronic register of road transport undertakings as part of the data relating to the haulier who puts it at the disposal of the driver designated therein.
+
+6\. The driver attestation shall belong to the haulier, who puts it at the disposal of the driver designated therein when that driver drives a vehicle using a Community licence issued to that haulier. A certified true copy of the driver attestation issued by the competent authorities of the haulier’s Member State of establishment shall be kept at the haulier’s premises. The driver attestation shall be presented at the request of any authorised inspecting officer.
+
+7\. A driver attestation shall be issued for a period to be determined by the issuing Member State, subject to a maximum validity of 5 years. Driver attestations issued before the date of application of this Regulation shall remain valid until their date of expiry.
+
+The driver attestation shall be valid only as long as the conditions under which it was issued are satisfied. Member States shall take appropriate measures to ensure that if those conditions are no longer met, the haulier returns the attestation immediately to the issuing authorities.
+
+### Article 6 — Verification of conditions
+
+1\. Whenever an application for a Community licence or an application for renewal of a Community licence in accordance with Article 4(2) is lodged, the competent authorities of the Member State of establishment shall verify whether the haulier satisfies or continues to satisfy the conditions laid down in Article 4(1).
+
+2\. The competent authorities of the Member State of establishment shall regularly verify, by carrying out checks each year covering at least 20 % of the valid driver attestations issued in that Member State, whether the conditions, referred to in Article 5(1), under which a driver attestation has been issued are still satisfied.
+
+### Article 7 — Refusal to issue and withdrawal of Community licence and driver attestation
+
+1\. If the conditions laid down in Article 4(1) or those referred to in Article 5(1) are not satisfied, the competent authorities of the Member State of establishment shall reject an application for the issue or renewal of a Community licence or the issue of a driver attestation, by means of a reasoned decision.
+
+2\. The competent authorities shall withdraw a Community licence or a driver attestation where the holder:
+
+(a) no longer satisfies the conditions laid down in Article 4(1) or those referred to in Article 5(1); or
+
+(b) has supplied incorrect information in relation to an application for a Community licence or for a driver attestation.
+
+## CHAPTER III — CABOTAGE
+
+### Article 8 — General principle
+
+1\. Any haulier for hire or reward who is a holder of a Community licence and whose driver, if he is a national of a third country, holds a driver attestation, shall be entitled, under the conditions laid down in this Chapter, to carry out cabotage operations.
+
+2\. Once the goods carried in the course of an incoming international carriage have been delivered, hauliers referred to in paragraph 1 shall be permitted to carry out, with the same vehicle, or, in the case of a coupled combination, the motor vehicle of that same vehicle, up to three cabotage operations following the international carriage from another Member State or from a third country to the host Member State. The last unloading in the course of a cabotage operation before leaving the host Member State shall take place within 7 days from the last unloading in the host Member State in the course of the incoming international carriage.
+
+Within the time limit referred to in the first subparagraph, hauliers may carry out some or all of the cabotage operations permitted under that subparagraph in any Member State under the condition that they are limited to one cabotage operation per Member State within 3 days of the unladen entry into the territory of that Member State.
+
+2a. Hauliers are not allowed to carry out cabotage operations, with the same vehicle, or, in the case of a coupled combination, the motor vehicle of that same vehicle, in the same Member State within four days following the end of its cabotage operation in that Member State.
+
+3\. National road haulage services carried out in the host Member State by a non-resident haulier shall only be deemed to comply with this Regulation if the haulier can produce clear evidence of the preceding international carriage and of each consecutive cabotage operation carried out. In the event that the vehicle has been in the territory of the host Member State within the period of four days preceding the international carriage, the haulier shall also produce clear evidence of all operations that were carried out during that period.
+
+Evidence referred to in the first subparagraph shall comprise the following details for each operation:
+
+(a) the name, address and signature of the sender;
+
+(b) the name, address and signature of the haulier;
+
+(c) the name and address of the consignee as well as his signature and the date of delivery once the goods have been delivered;
+
+(d) the place and the date of taking over of the goods and the place designated for delivery;
+
+(e) the description in common use of the nature of the goods and the method of packing, and, in the case of dangerous goods, their generally recognised description, as well as the number of packages and their special marks and numbers;
+
+(f) the gross mass of the goods or their quantity otherwise expressed;
+
+(g) the number plates of the motor vehicle and trailer.
+
+4\. No additional document shall be required in order to prove that the conditions laid down in this Article have been met.
+
+4a. Evidence referred to in paragraph 3 shall be presented or transmitted to the authorised inspecting officer of the host Member State on request and within the duration of the roadside check. It may be presented or transmitted electronically, using a revisable structured format which can be used directly for storage and processing by computers, such as an electronic consignment note (e-CMR) under the Additional Geneva Protocol to the Convention on the Contract for the International Carriage of Goods by Road (CMR) concerning the Electronic Consignment Note of 20 February 2008. During the roadside check, the driver shall be allowed to contact the head office, the transport manager or any other person or entity in order to provide, before the end of the roadside check, any evidence referred to in paragraph 3.
+
+5\. Any haulier entitled in the Member State of establishment to carry out the road haulage operations for hire or reward specified in points (a) to (ca) of Article 1(5) in accordance with that Member State’s legislation shall be permitted, under the conditions set out in this Chapter to carry out, as the case may be, cabotage operations of the same kind or cabotage operations with vehicles in the same category.
+
+6\. Permission to carry out cabotage operations, within the framework of the types of carriage referred to in Article 1(5)(d) and (e), shall be unrestricted.
+
+### Article 9 — Rules applicable to cabotage operations
+
+1\. The performance of cabotage operations shall be subject, save as otherwise provided in Community legislation, to the laws, regulations and administrative provisions in force in the host Member State with regard to the following:
+
+(a) the conditions governing the transport contract;
+
+(b) the weights and dimensions of road vehicles;
+
+(c) the requirements relating to the carriage of certain categories of goods, in particular dangerous goods, perishable foodstuffs and live animals;
+
+(d) the driving time and rest periods;
+
+(e) the value added tax (VAT) on transport services.
+
+The weights and dimensions referred to in point (b) of the first subparagraph may, where appropriate, exceed those applicable in the haulier’s Member State of establishment, but they may under no circumstances exceed the limits set by the host Member State for national traffic or the technical characteristics mentioned in the proofs referred to in Article 6(1) of Council Directive 96/53/EC of 25 July 1996 laying down for certain road vehicles circulating within the Community the maximum authorised dimensions in national and international traffic and the maximum authorised weights in international traffic ( 3 ).
+
+2\. The laws, regulations and administrative provisions referred to in paragraph 1 shall be applied to non-resident hauliers under the same conditions as those imposed on hauliers established in the host Member State, so as to prevent any discrimination on grounds of nationality or place of establishment.
+
+### Article 10 — Safeguard procedure
+
+1\. In the event of serious disturbance of the national transport market in a given geographical area due to, or aggravated by, cabotage, any Member State may refer the matter to the Commission with a view to the adoption of safeguard measures and shall provide the Commission with the necessary information and notify it of the measures it intends to take as regards resident hauliers.
+
+2\. For the purposes of paragraph 1:
+
+‘serious disturbance of the national transport market in a given geographical area’ means the existence on the market of problems specific to it, such that there is a serious and potentially enduring excess of supply over demand, implying a threat to the financial stability and survival of a significant number of hauliers,
+
+‘geographical area’ means an area covering all or part of the territory of a Member State or extending to all or part of the territory of other Member States.
+
+3\. The Commission shall examine the situation on the basis in particular of the relevant data and, after consulting the committee established pursuant to Article 42(1) of Regulation (EU) No 165/2014 of the European Parliament and of the Council ( 4 ) shall decide within one month of receipt of the Member State’s request whether safeguard measures are necessary and shall adopt them if they are necessary.
+
+Such measures may involve the temporary exclusion of the area concerned from the scope of this Regulation.
+
+Measures adopted in accordance with this Article shall remain in force for a period not exceeding 6 months, renewable once within the same limits of validity.
+
+The Commission shall without delay notify the Member States and the Council of any decision taken pursuant to this paragraph.
+
+4\. If the Commission decides to adopt safeguard measures concerning one or more Member States, the competent authorities of the Member States involved shall be required to take measures of equivalent scope in respect of resident hauliers and shall inform the Commission thereof. Those measures shall be applied at the latest as from the same date as the safeguard measures adopted by the Commission.
+
+5\. Any Member State may refer to the Council a decision taken by the Commission pursuant to paragraph 3 within 30 days of its notification. The Council, acting by a qualified majority may, within 30 days of that referral, or, if there are referrals by several Member States, of the first referral, take a different decision.
+
+The limits of validity laid down in the third subparagraph of paragraph 3 shall apply to the Council’s decision. The competent authorities of the Member States concerned shall be required to take measures of equivalent scope in respect of resident hauliers, and shall inform the Commission thereof. If the Council takes no decision within the period referred to in the first subparagraph, the Commission decision shall become final.
+
+6\. Where the Commission considers that the measures referred to in paragraph 3 need to be prolonged, it shall submit a proposal to the Council, which shall take a decision by qualified majority.
+
+7\. In addition to paragraphs 1 to 6 of this Article and by way of derogation from Article 4 of Directive 92/106/EEC, Member States may, where necessary to avoid misuse of the latter provision through the provision of unlimited and continuous services consisting in initial or final road legs within a host Member State that form part of combined transport operations between Member States, provide that Article 8 of this Regulation apply to hauliers when they carry out such initial and/or final road haulage legs within that Member State. With regard to such road haulage legs, Member States may provide for a longer period than the seven-day period provided for in Article 8(2) of this Regulation and may provide for a shorter period than the four-day period provided for in Article 8(2a) of this Regulation. The application of Article 8(4) of this Regulation to such transport operations shall be without prejudice to requirements following from Directive 92/106/EEC. Member States making use of the derogation provided for in this paragraph shall notify the Commission thereof before applying their relevant national measures. They shall review those measures at least every five years and shall notify the results of that review to the Commission. They shall make the rules, including the length of the respective periods, publicly available in a transparent manner.
+
+### Article 10a — Checks
+
+1\. In order to further enforce the obligations laid down in this Chapter, Member States shall ensure that a coherent national enforcement strategy is applied on their territory. That strategy shall focus on undertakings with a high risk rating as referred to in Article 9 of Directive 2006/22/EC of the European Parliament and of the Council ( 5 ).
+
+2\. Each Member State shall ensure that the checks provided for in Article 2 of Directive 2006/22/EC include a check on cabotage operations, where relevant.
+
+3\. At least twice per year, Member States shall undertake concerted roadside checks on cabotage operations. Such checks shall be undertaken at the same time by the national authorities in charge of enforcing the rules in the field of road transport of two or more Member States, each national authority operating in its own territory. Member States may combine those activities with those provided for by Article 5 of Directive 2006/22/EC. The national contact points designated in accordance with Article 18(1) of Regulation (EC) No 1071/2009 shall exchange information on the number and type of infringements detected after the concerted roadside checks have taken place.
+
+## CHAPTER IV — MUTUAL ASSISTANCE AND PENALTIES
+
+### Article 11 — Mutual assistance
+
+Member States shall assist one another in ensuring the application and monitoring of this Regulation. They shall exchange information via the national contact points established pursuant to Article 18 of Regulation (EC) No 1071/2009.
+
+### Article 12 — Sanctioning of infringements by the Member State of establishment
+
+1\. In the event of a serious infringement of Community road transport legislation committed or ascertained in any Member State, the competent authorities of the Member State of establishment of the haulier who has committed such infringement shall take the appropriate action which may include a warning, if provided for by national law, to pursue the matter which may lead, inter alia, to the imposition of the following administrative penalties:
+
+(a) temporary or permanent withdrawal of some or all of the certified true copies of the Community licence;
+
+(b) temporary or permanent withdrawal of the Community licence.
+
+These penalties may be determined after the final decision on the matter has been taken and shall have regard to the seriousness of the infringement committed by the holder of the Community licence and to the total number of certified true copies of that licence that he holds in respect of international traffic.
+
+2\. In the event of a serious infringement regarding any misuse whatsoever of driver attestations, the competent authorities of the Member State of establishment of the haulier who committed such infringement shall impose appropriate penalties, such as:
+
+(a) suspending the issue of driver attestations;
+
+(b) withdrawing driver attestations;
+
+(c) making the issue of driver attestations subject to additional conditions in order to prevent misuse;
+
+(d) withdrawing, temporarily or permanently, some or all of the certified true copies of the Community licence;
+
+(e) withdrawing, temporarily or permanently, the Community licence.
+
+These penalties may be determined after the final decision on the matter has been taken and shall have regard to the seriousness of the infringement committed by the holder of the Community licence.
+
+3\. The competent authorities of the Member State of establishment shall communicate to the competent authorities of the Member State in which the infringement was ascertained, as soon as possible and at the latest within 6 weeks of their final decision on the matter, which, if any, of the penalties provided for in paragraphs 1 and 2 have been imposed.
+
+If such penalties are not imposed, the competent authorities of the Member State of establishment shall state the reasons therefor.
+
+4\. The competent authorities shall ensure that the penalties imposed on the haulier concerned are, as a whole, proportionate to the infringement or infringements which gave rise to such penalties, taking into account any penalty for the same infringement imposed in the Member State in which the infringement was ascertained.
+
+5\. The competent authorities of the haulier’s Member State of establishment may also, pursuant to national law, bring proceedings against the haulier before a competent national court or tribunal. They shall inform the competent authority of the host Member State of any decisions taken to this effect.
+
+6\. Member States shall ensure that hauliers have the right to appeal against any administrative penalty imposed on them pursuant to this Article.
+
+### Article 13 — Sanctioning of infringements by the host Member State
+
+1\. Where the competent authorities of a Member State are aware of a serious infringement of this Regulation or of Community road transport legislation attributable to a non-resident haulier, the Member State within the territory of which the infringement is ascertained shall transmit to the competent authorities of the haulier’s Member State of establishment, as soon as possible and at the latest within 6 weeks of their final decision on the matter, the following information:
+
+(a) a description of the infringement and the date and time when it was committed;
+
+(b) the category, type and seriousness of the infringement; and
+
+(c) the penalties imposed and the penalties executed.
+
+The competent authorities of the host Member State may request the competent authorities of the Member State of establishment to impose administrative penalties in accordance with Article 12.
+
+2\. Without prejudice to any criminal prosecution, the competent authorities of the host Member State shall be empowered to impose penalties on a non-resident haulier who has committed infringements of this Regulation or of national or Community road transport legislation in their territory during a cabotage operation. They shall impose such penalties on a non-discriminatory basis. These penalties may, inter alia, consist of a warning, or, in the event of a serious infringement, a temporary ban on cabotage operations on the territory of the host Member State where the infringement was committed.
+
+3\. Member States shall ensure that hauliers have the right to appeal against any administrative penalty imposed on them pursuant to this Article.
+
+### Article 14 — Entry in the national electronic registers
+
+Member States shall ensure that serious infringements of Community road transport legislation committed by hauliers established in their territory, which have led to the imposition of a penalty by any Member State, as well as any temporary or permanent withdrawal of the Community licence or of the certified true copy thereof, are recorded in the national electronic register of road transport undertakings. Entries in the register which concern a temporary or permanent withdrawal of a Community licence shall remain in the database for 2 years from the time of the expiry of the period of withdrawal, in the case of temporary withdrawal, or from the date of withdrawal, in the case of permanent withdrawal.
+
+### Article 14a — Liability
+
+Member States shall lay down rules on sanctions against consignors, freight forwarders, contractors and subcontractors for non-compliance with Chapters II and III, where they knew, or, in the light of all relevant circumstances ought to have known, that the transport services that they commissioned involved infringements of this Regulation.
+
+### Article 14b — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 4(4) and Article 5(4) is conferred on the Commission for an indeterminate period of time from 20 August 2020.
+
+3\. The delegation of power referred to in Article 4(4) and Article 5(4) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in line with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 6 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted under Article 4(4) and Article 5(4) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## CHAPTER V — IMPLEMENTATION
+
+### Article 16 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation, and shall take all the measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall notify those provisions to the Commission by 4 December 2011, and shall notify it without delay of any subsequent amendment affecting them.
+
+Member States shall ensure that all such measures are taken without discrimination as to the nationality or place of establishment of the haulier.
+
+### Article 17 — Reporting and review
+
+1\. By 31 March of every second year, at the latest, Member States shall inform the Commission of the number of hauliers possessing Community licences on 31 December of each of the previous two years and of the number of certified true copies corresponding to the vehicles in circulation on that date. Reports relating to the period after 20 May 2022 shall also include a breakdown of these items by road haulage operators engaged in international transport operations solely by means of vehicles the permissible laden mass of which does not exceed 3,5 tonnes and the remaining road haulage operators.
+
+2\. By 31 March of every second year, at the latest, Member States shall inform the Commission of the number of driver attestations issued in each of the previous two calendar years, as well as the total number of driver attestations in circulation on 31 December of each of the previous two years. Reports relating to the period after 20 May 2022 shall also include a breakdown of these items by road haulage operators engaged in international transport operations solely by means of vehicles, the permissible laden mass of which does not exceed 3,5 tonnes, and the remaining road haulage operator.
+
+3\. By 21 August 2022, at the latest, Member States shall forward to the Commission their national enforcement strategy adopted pursuant to Article 10a. By 31 March of every year, at the latest, Member States shall inform the Commission on the enforcement operations performed in the previous calendar year pursuant to Article 10a, including, where appropriate, the number of checks performed. This information shall include the number of vehicles checked.
+
+4\. The Commission shall draw up a report on the state of the Union road transport market by 21 August 2024. The report shall contain an analysis of the market situation, including an evaluation of the effectiveness of controls and the evolution of employment conditions in the profession.
+
+5\. The Commission shall evaluate the implementation of this Regulation, in particular the impact of the amendments to Article 8 introduced by Regulation (EU) 2020/1055 of the European Parliament and of the Council ( 7 ), by 21 August 2023 and report to the European Parliament and the Council on the application of this Regulation.
+
+6\. Following the report referred to in paragraph 5, the Commission shall regularly evaluate this Regulation and submit the evaluation results to the European Parliament and the Council.
+
+7\. Where appropriate, the reports referred to in paragraphs 5 and 6 shall be accompanied by relevant legislative proposals.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+### Article 18 — Repeals
+
+Regulations (EEC) No 881/92 and (EEC) No 3118/93 and Directive 2006/94/EC are hereby repealed.
+
+References to the repealed Regulations and Directive shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex IV.
+
+### Article 19 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 4 December 2011, with the exception of Articles 8 and 9, which shall apply from 14 May 2010.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Security features of the Community licence and the driver attestation
+
+The Community licence and the driver attestation must have at least two of the following security features:
+
+— a hologram,
+
+— special fibres in the paper which become visible under UV-light,
+
+— at least one microprint line (printing visible only with a magnifying glass and not reproduced by photocopying machines),
+
+— tactile characters, symbols or patterns,
+
+— double numbering: serial number of the Community licence, of the certified copy thereof or of the driver attestation as well as, in each case, the issue number,
+
+— a security design background with fine guilloche patterns and rainbow printing.
+
+## ANNEX II — Community licence model
+
+**EUROPEAN COMMUNITY**
+
+**(a)**
+
+**(Colour Pantone light blue 290, or as close as possible to this colour, format DIN A4 cellulose paper 100 g/m2 or more)**
+
+**(First page of the licence)**
+
+**(Text in (one of) the official language(s) of the Member State issuing the licence)**
+
+►(1) M2
+
+**(b)**
+
+**(Second page of the licence)**
+
+**(Text in (one of) the official language(s) of the Member State issuing the licence)**
+
+**GENERAL PROVISIONS**
+
+This licence is issued under Regulation (EC) No 1072/2009.
+
+It entitles the holder to engage in the international carriage of goods by road for hire or reward by any route for journeys or parts of journeys carried out within the territory of the Community and, where appropriate, subject to the conditions laid down herein:
+
+— where the point of departure and the point of arrival are situated in two different Member States, with or without transit through one or more Member States or third countries,
+
+— from a Member State to a third country or vice versa, with or without transit through one or more Member States or third countries,
+
+— between third countries with transit through the territory of one or more Member States,
+
+and unladen journeys in connection with such carriage.
+
+In the case of carriage from a Member State to a third country or vice versa, this licence is valid for that part of the journey carried out within the territory of the Community. It shall be valid in the Member State of loading or unloading only after the conclusion of the necessary agreement between the Community and the third country in question in accordance with Regulation (EC) No 1072/2009.
+
+The licence is personal to the holder and is non-transferable.
+
+It may be withdrawn by the competent authority of the Member State which issued it, notably where the holder has:
+
+— not complied with all the conditions for using the licence,
+
+— supplied incorrect information with regard to the data needed for the issue or extension of the licence.
+
+The original of the licence must be kept by the haulage undertaking.
+
+A certified copy of the licence must be kept in the vehicle ( 8 ). In the case of a coupled combination of vehicles it must accompany the motor vehicle. It covers the coupled combination of vehicles even if the trailer or semi-trailer is not registered or authorised to use the roads in the name of the licence holder or if it is registered or authorised to use the roads in another State.
+
+The licence must be presented at the request of any authorised inspecting officer.
+
+Within the territory of each Member State, the holder must comply with the laws, regulations and administrative provisions in force in that State, in particular with regard to transport and traffic.
+
+## ANNEX III — Driver attestation model
+
+**EUROPEAN COMMUNITY**
+
+**(a)**
+
+**(Colour Pantone pink 182, or as close as possible to this colour, format DIN A4 cellulose paper 100 g/m2 or more)**
+
+**(First page of the attestation)**
+
+**(Text in (one of) the official language(s) of the Member State issuing the attestation)**
+
+►(1) M2
+
+**(b)**
+
+**(Second page of the attestation)**
+
+**(Text in (one of) the official language(s) of the Member State issuing the attestation)**
+
+**GENERAL PROVISIONS**
+
+This attestation is issued under Regulation (EC) No 1072/2009.
+
+It certifies that the driver named therein is employed, in accordance with the laws, regulations or administrative provisions and, as appropriate, the collective agreements, in accordance with the rules applicable in the Member State mentioned on the attestation, on the conditions of employment and of vocational training of drivers applicable in that Member State to carry out road operations in that State.
+
+The driver attestation shall belong to the haulier, who puts it at the disposal of the driver designated therein when that driver drives a vehicle ( 9 ) engaged in carriage using a Community licence issued to that haulier. The driver attestation is not transferable. The driver attestation shall be valid only as long as the conditions under which it was issued are still satisfied and must be returned immediately by the haulier to the issuing authorities if these conditions are no longer met.
+
+It may be withdrawn by the competent authority of the Member State which issued it, in particular where the holder has:
+
+— not complied with all the conditions for using the attestation,
+
+— supplied incorrect information with regard to the data needed for the issue or extension of the attestation.
+
+A certified true copy of the attestation must be kept by the haulage undertaking.
+
+An original attestation must be kept in the vehicle and must be presented by the driver at the request of any authorised inspecting officer.
+
+## ANNEX IV — Correlation Table
+
+| Regulation (EEC) No 881/92 | Regulation (EEC) No 3118/93 | Directive 2006/94/EC | This Regulation |
+| --- | --- | --- | --- |
+| Article 1(1) |  |  | Article 1(1) |
+| Article 1(2) |  |  | Article 1(2) |
+| Article 1(3) |  |  | Article 1(3) |
+| Annex II |  | Article 1(1) and (2), Annex I; Article 2 | Article 1(5) |
+|  |  | Article 2 | Article 1(6) |
+| Article 2 |  |  | Article 2 |
+| Article 3(1) |  |  | Article 3 |
+| Article 3(2) |  |  | Article 4(1) |
+| Article 3(3) |  |  | Article 5(1) |
+| Article 4 |  |  |  |
+| Article 5(1) |  |  | Article 4(2) |
+| Article 5(2) |  |  | Article 4(3) |
+| Article 5(3) |  |  | Article 4(4) |
+|  |  |  | Article 4(5) |
+| Article 5(4), Annex I |  |  | Article 4(6) |
+| Article 5(5) |  |  | Article 4(2) |
+| Article 6(1) |  |  | Article 5(2) |
+| Article 6(2) |  |  | Article 5(2) |
+| Article 6(3) |  |  | Article 5(3) |
+| Article 6(4) |  |  | Article 5(6) |
+| Article 6(5) |  |  | Article 5(7) |
+| Article 7 |  |  | Article 6 |
+| Article 8(1) |  |  | Article 7(1) |
+| Article 8(2) |  |  | Article 7(2) |
+| Article 8(3) |  |  | Article 12(1) |
+| Article 8(4) |  |  | Article 12(2) |
+| Article 9(1) and (2) |  |  | Article 12(6) |
+|  | Article 1(1) |  | Article 8(1) |
+|  | Article 1(2) |  | Article 8(5) |
+|  | Article 1(3) and (4) |  | Article 8(6) |
+|  | Article 2 |  |  |
+|  | Article 3 |  |  |
+|  | Article 4 |  |  |
+|  | Article 5 |  |  |
+|  | Article 6(1) |  | Article 9(1) |
+|  | Article 6(2) |  |  |
+|  | Article 6(3) |  | Article 9(2) |
+|  | Article 6(4) |  |  |
+|  | Article 7 |  | Article 10 |
+| Article 10 |  |  | Article 17(1) |
+| Article 11(1) | Article 8(1) |  | Article 11 |
+| Article 11(2) |  |  | Article 13(1) |
+| Article 11(3) |  |  | Article 12(4) |
+| Article 11a |  |  |  |
+|  | Article 8(2) and (3) |  | Article 13(2) |
+|  | Article 8(4), first and third subparagraphs |  |  |
+|  | Article 8(4), second subparagraph |  | Article 12(4) |
+|  | Article 8(4), fourth and fifth subparagraphs |  | Article 12(5) |
+|  | Article 9 |  | Article 13(3) |
+| Article 12 |  |  | Article 18 |
+| Article 13 |  |  |  |
+| Article 14 | Article 10 |  |  |
+|  | Article 11 |  |  |
+| Article 15 | Article 12 | Article 4 | Article 19 |
+|  |  | Article 3 |  |
+|  |  | Article 5 |  |
+|  |  | Annex II, III |  |
+| Annex I |  |  | Annex II |
+| Annex III |  |  | Annex III |
+|  | Annex I |  |  |
+|  | Annex II |  |  |
+|  | Annex III |  |  |
+|  | Annex IV |  |  |
+
+( 1 ) OJ L 33, 4.2.2006, p. 82.
+
+( 2 ) OJ L 16, 23.1.2004, p. 44.
+
+( 3 ) OJ L 235, 17.9.1996, p. 59.
+
+( 4 ) Regulation (EU) No 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, repealing Council Regulation (EEC) No 3821/85 on recording equipment in road transport and amending Regulation (EC) No 561/2006 of the European Parliament and of the Council on the harmonisation of certain social legislation relating to road transport (OJ L 60, 28.2.2014, p. 1).
+
+( 5 ) Directive 2006/22/EC of the European Parliament and of the Council of 15 March 2006 on minimum conditions for the implementation of Regulations (EC) No 561/2006 and (EU) No 165/2014 and Directive 2002/15/EC as regards social legislation relating to road transport activities, and repealing Council Directive 88/599/EEC (OJ L 102, 11.4.2006, p. 35).
+
+( 6 ) OJ L 123, 12.5.2016, p. 1.
+
+( 7 ) Regulation (EU) 2020/1055 of the European Parliament and of the Council of 15 July 2020 amending Regulations (EC) No 1071/2009, (EC) No 1072/2009 and (EU) No 1024/2012 with a view to adapting them to developments in the road transport sector (OJ L 249, 31.7.2020, p. 17).
+
+( 8 ) ‘Vehicle’ means a motor vehicle registered in a Member State, or a coupled combination of vehicles the motor vehicle of which at least is registered in a Member State, used exclusively for the carriage of goods.
+
+( 9 ) ‘Vehicle’ means a motor vehicle registered in a Member State, or a coupled combination of vehicles the motor vehicle of which at least is registered in a Member State, used exclusively for the carriage of goods.

@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **relating to honey**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2014/63/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 164</td><td>1</td><td>3.6.2014</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1438 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1438</td><td>1</td><td>24.5.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2001/110/EC**
 
@@ -275,12 +277,14 @@ When placed on the market as honey or used in any product intended for human con
 
 4\. Electrical conductivity
 
+<table>
 <tbody><tr><td>—honey not listed below, and blends of these honeys</td><td>not more than 0,8 mS/cm</td></tr>
 <tr><td colspan="2"></td></tr>
 <tr><td>—honeydew and chestnut honey and blends of these except with those listed below</td><td>not less than 0,8 mS/cm</td></tr>
 <tr><td colspan="2"></td></tr>
 <tr><td>—exceptions: strawberry tree (Arbutus unedo), bell heather (Erica), eucalyptus, lime (Tilia spp.), ling heather (Calluna vulgaris), manuka or jelly bush (leptospermum), tea tree (Melaleuca spp.)</td><td>  </td></tr>
 </tbody>
+</table>
 
 5\. Free acid
 

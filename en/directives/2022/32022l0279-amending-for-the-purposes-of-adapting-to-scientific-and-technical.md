@@ -93,9 +93,11 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entry 4(f) is replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">‘Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>4(f) -I</td><td>Mercury in other discharge lamps for special purposes not specifically mentioned in this Annex</td><td>Expires on 24 February 2025</td></tr>
 <tr><td>4(f) -II</td><td>Mercury in high pressure mercury vapour lamps used in projectors where an output ≥ 2000 lumen ANSI is required</td><td>Expires on 24 February 2027</td></tr>
 <tr><td>4(f) -III</td><td>Mercury in high pressure sodium vapour lamps used for horticulture lighting</td><td>Expires on 24 February 2027</td></tr>
 <tr><td>4(f) -IV</td><td>Mercury in lamps emitting light in the ultraviolet spectrum</td><td>Expires on 24 February 2027’</td></tr>
 </tbody>
+</table>

@@ -1,0 +1,262 @@
+---
+title: "Commission Implementing Regulationz (EU) 2023/1071 of 1 June 2023 amending certain Annexes to Implementing Regulation (EU) 2021/620 as regards the approval or withdrawal of the disease-free status of certain Member States or zones or compartments thereof as regards certain listed diseases and the approval of eradication programmes for certain listed diseases (Text with EEA relevance)"
+identifier: "32023R1071"
+eli: "http://data.europa.eu/eli/reg_impl/2023/1071/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2023-06-01
+entry_into_force: 2023-11-02
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R1071"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulationz (EU) 2023/1071 of 1 June 2023 amending certain Annexes to Implementing Regulation (EU) 2021/620 as regards the approval or withdrawal of the disease-free status of certain Member States or zones or compartments thereof as regards certain listed diseases and the approval of eradication programmes for certain listed diseases (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATIONZ (EU) 2023/1071**
+
+**of 1 June 2023**
+
+**amending certain Annexes to Implementing Regulation (EU) 2021/620 as regards the approval or withdrawal of the disease-free status of certain Member States or zones or compartments thereof as regards certain listed diseases and the approval of eradication programmes for certain listed diseases**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (1), and in particular Articles 31(3), 36(4) and 42(4) thereof,
+
+Whereas:
+
+(1) Regulation (EU) 2016/429 lays down disease-specific rules for the diseases listed in accordance with Article 5(1) thereof and lays down how those rules are to be applied to different categories of listed diseases. Regulation (EU) 2016/429 provides for the Member States to establish compulsory eradication programmes for the listed diseases referred to in Article 9(1), point (b), thereof, and for optional eradication programmes for listed diseases referred to in Article 9(1), point (c), thereof, and for the approval of such programmes by the Commission. That Regulation also provides for the approval or withdrawal by the Commission of the disease-free status of Member States or zones or compartments thereof regarding certain listed diseases referred to in Article 9(1), points (b) and (c), thereof.
+
+(2) Commission Delegated Regulation (EU) 2020/689 (2) supplements Regulation (EU) 2016/429 and lays down the criteria for granting, maintaining, suspending, and withdrawing disease-free status for Member States or zones or compartments thereof, and the requirements for the approval of compulsory or optional eradication programmes for Member States or zones or compartments thereof.
+
+(3) Commission Implementing Regulation (EU) 2021/620 (3) lays down implementing rules for the listed diseases referred to in Article 9(1), points (a), (b) and (c), of Regulation (EU) 2016/429 of animals, as regards the disease-free and non-vaccination status of certain Member States or zones or compartments thereof, and the approval of eradication programmes for those listed diseases. More particularly, it lists in the Annexes thereto, the Member States or zones or compartments thereof with disease-free status and it also lists the existing approved compulsory or optional eradication programmes. The changing epidemiological situation of certain diseases makes it necessary to amend certain Annexes to Implementing Regulation (EU) 2021/620 to list new disease-free Member States or zones thereof and to delete from the lists zones where disease outbreaks have been confirmed or where the conditions for maintaining the disease-free status are no longer met, and to approve certain compulsory or optional eradication programmes submitted to the Commission.
+
+(4) For infection with Brucella abortus, B. melitensis and B. suis, infection with Mycobacterium tuberculosis complex (Mycobacterium bovis, M. caprae and M. tuberculosis) (MTBC), infection with the rabies virus (RABV), enzootic bovine leukosis (EBL), infectious bovine rhinotracheitis/infectious pustular vulvovaginitis (IBR/IPV), infection with Aujeszky’s disease virus (ADV), bovine viral diarrhoea (BVD) and infection with bluetongue virus (serotypes 1-24) (BTV), several Member States have recently applied to the Commission to have disease-free status granted or compulsory or optional eradication programmes approved for certain zones of their territory. Several Member States have also notified outbreaks of infection with RABV, and of infection with BTV that also need to be reflected in certain Annexes to Implementing Regulation (EU) 2021/620.
+
+(5) For infection with Brucella abortus, B. melitensis and B. suis in bovine animals, Italy and Portugal have submitted to the Commission information demonstrating that the conditions for the recognition of disease-free status laid down in Delegated Regulation (EU) 2020/689 are fulfilled in the province of Matera in the region of Basilicata, and in the districts of Santarem and Setubal, respectively. Following the assessment by the Commission, those applications have been shown to comply with the criteria laid down in Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 for the granting of disease-free status. Therefore, those zones should be listed as free from Brucella abortus, B. melitensis and B. suis in bovine animals in Part I, Chapter 1, of Annex I to Implementing Regulation (EU) 2021/620.
+
+(6) For infection with Brucella abortus, B. melitensis and B. suis in ovine and caprine animals, France and Italy have submitted to the Commission information demonstrating that the conditions for the recognition of disease-free status laid down in Delegated Regulation (EU) 2020/689 are fulfilled in the overseas regions of Guyane, Guadeloupe, Martinique, Mayotte and Réunion, and in the provinces of Napoli and Salerno in the region of Campania, respectively. Following the assessment by the Commission, those applications have been shown to comply with the criteria laid down in Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 for the granting of disease-free status. Therefore, those zones should be listed as free from Brucella abortus, B. melitensis and B. suis in ovine and caprine animals in Part I, Chapter 2, of Annex I to Implementing Regulation (EU) 2021/620.
+
+(7) For infection with MTBC, Italy and Spain have submitted to the Commission information demonstrating that the conditions for recognition of disease-free status from infection with MTBC laid down in Delegated Regulation (EU) 2020/689 are fulfilled in the province of Catanzaro in the region of Calabria, in the province of Napoli in the region of Campania, in the provinces of Barletta-Andria-Trani, Brindisi and Lecce in the region of Puglia, in the province of Nord Est Sardegna in the region of Sardinia, and in the provinces of Burgos, León and Valladolid in the Autonomous Community of Castilla y León, respectively. Following the assessment by the Commission, those applications have been shown to comply with the criteria laid down in Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 for the granting of disease-free status from infection with MTBC. Therefore, those zones should be listed in Part I of Annex II to Implementing Regulation (EU) 2021/620, as having disease-free status from infection with MTBC.
+
+(8) For EBL, Portugal has submitted to the Commission information demonstrating that the conditions for recognition of disease-free status from EBL laid down in Delegated Regulation (EU) 2020/689 are fulfilled for the district of Porto. Following the assessment by the Commission, that application has been shown to comply with the criteria laid down in Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 for the granting of disease-free status from EBL. Therefore, that zone should be listed in Part I of Annex IV to Implementing Regulation (EU) 2021/620, as having disease-free status from EBL.
+
+(9) For IBR/IPV, Slovakia has submitted to the Commission an application to have an optional eradication programme approved for a zone comprising the regions of Bratislava, Košice, Prešov, Trnava and Žilina. Following the assessment by the Commission, that application has been shown to comply with the criteria laid down in Part II, Chapter 2, of Delegated Regulation (EU) 2020/689 for approval of eradication programmes for IBR/IPV. Therefore, that zone should be listed in Part II of Annex V to Implementing Regulation (EU) 2021/620, as a zone with an approved eradication programme for IBR/IPV.
+
+(10) For infection with ADV, Poland has submitted to the Commission information demonstrating that the conditions for recognition of disease-free status from infection with ADV laid down in Delegated Regulation (EU) 2020/689 are fulfilled for all the regions currently listed in Part II of Annex VI to Implementing Regulation (EU) 2021/620 as having an approved eradication programme. Following the assessment by the Commission, that application has been shown to comply with the criteria laid down in Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 for the granting of disease-free status from infection with ADV. Therefore, those zones should be listed in Part I of Annex VI to Implementing Regulation (EU) 2021/620, as having disease-free status from infection with ADV.
+
+(11) For BVD, Germany has submitted to the Commission information demonstrating that the conditions for recognition of disease-free status from BVD laid down in Delegated Regulation (EU) 2020/689 are fulfilled for the regions of Augsburg and Ostallgäu in Regierungsbezirk Schwaben, in the state of Bavaria. Following the assessment by the Commission, that application has been shown to comply with the criteria laid down in Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 for the granting of disease-free status from BVD. Therefore, those zones should be listed in Part I of Annex VII to Implementing Regulation (EU) 2021/620, as having disease-free status from BVD.
+
+(12) For BVD, Germany has also informed the Commission that the zones of Regierungbezirk Oberfranken, Regierungsbezirk Oberpfalz, Regierungsbezirk Mittelfranken and Regierungsbezirk Unterfranken in the state of Bavaria as listed in Part I of Annex VII to Implementing Regulation (EU) 2021/620, as having disease-free status from BVD should be updated. The whole territory of those zones is free from BVD, as opposed to Regierungsbezirk Niederbayern, where BVD is still present in some parts of those territories. Therefore, it is not necessary to mention the smaller entities such as cities and Landkreis listed under Regierungsbezirk Oberfranken, Regierungsbezirk Oberpfalz, Regierungsbezirk Mittelfranken and Regierungsbezirk Unterfranken, which should be deleted. Part I of Annex VII to Implementing Regulation (EU) 2021/620 should be amended accordingly.
+
+(13) Slovakia has notified to the Commission several outbreaks of infection with RABV affecting the regions of Humenné, Medzilaborce, Snina, Stropkov, Svidnik and Vranov nad Topl’ou in kraj Prešovský and the regions of Michalovce, Sobrance and Trebišov in kraj Košický. As the whole territory of Slovakia has disease-free status from infection with RABV and is listed in Part I of Annex III to Implementing Regulation (EU) 2021/620, the disease-free status for those regions should be withdrawn, and the entry for Slovakia in that list should be amended accordingly.
+
+(14) For infection with RABV, Slovakia also has submitted to the Commission an application to have a compulsory eradication programme approved for a zone comprising the regions of Humenné, Medzilaborce, Snina, Stropkov, Svidnik and Vranov nad Topl’ou in kraj Prešovský and the regions of Michalovce, Sobrance and Trebišov in kraj Košický. Following the assessment by the Commission, that application has been shown to comply with the criteria laid down in Part II, Chapter 2, of Delegated Regulation (EU) 2020/689 for approval of eradication programmes for infection with RABV. Therefore, that zone should be listed in Part II of Annex III to Implementing Regulation (EU) 2021/620, as a zone with an approved eradication programme for infection with RABV.
+
+(15) As regards infection with BTV, Belgium and Germany have submitted to the Commission information demonstrating that the conditions for recognition of disease-free status from infection with BTV are fulfilled for the whole territory of Belgium and for the districts of Bernkastel-Wittlich, Eifelkreis Bitburg-Prüm, Trier, Trier-Saarburg and Vulkaneifel in the state of Rhineland-Palatinate within that federal state, respectively. Following the assessment by the Commission, those applications have been shown to comply with the criteria laid down in Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 for the granting of disease-free status from infection with BTV. Therefore, Belgium should be listed, and that zone in the state of Rhineland-Palatinate should be added to the territory of Germany which is already listed as free from infection with BTV, in Part I of Annex VIII to Implementing Regulation (EU) 2021/620, as having disease-free status from infection with BTV.
+
+(16) Spain has notified to the Commission outbreaks of infection with BTV serotype 4 in the provinces of Ourense and Pontevedra in the Autonomous Community of Galicia, affecting also the surrounding districts of Sarria, Chantada and Terra de Lemos-Quiroga in the province of Lugo, as well as the districts of Alcañices and Puebla de Sanabria in the province of Zamora in the Autonomous Community of Castilla y León. As those areas have disease-free status and are listed in Part I of Annex VIII to Implementing Regulation (EU) 2021/620, their disease-free status from infection with BTV should be withdrawn, and the entry for Spain in that list should be amended accordingly.
+
+(17) As regards infection with BTV, Spain has also informed the Commission that it has extended the territorial scope of the optional eradication programme already approved for the zone listed in Part II of Annex VIII to Implementing Regulation (EU) 2021/620 with the addition of a zone comprising the provinces of Ourense and Pontevedra, several districts in the province of Lugo in the Autonomous Community of Galicia, several districts in the province of Toledo in the Autonomous Community of Castilla-La Mancha, the province of Salamanca, several districts in the provinces of Avila and Zamora in the Autonomous Community of Castilla y Leon and several districts in the Autonomous Community of Madrid. Therefore, that zone should be added to the entry for Spain in Part II of Annex VIII to Implementing Regulation (EU) 2021/620, as a zone with an approved eradication programme for infection with BTV.
+
+(18) Annexes I to VIII to Implementing Regulation (EU) 2021/620 should therefore be amended accordingly.
+
+(19) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annexes I to VIII to Implementing Regulation (EU) 2021/620 are amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 1 June 2023.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 84, 31.3.2016, p. 1.
+
+(2) Commission Delegated Regulation (EU) 2020/689 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases (OJ L 174, 3.6.2020, p. 211).
+
+(3) Commission Implementing Regulation (EU) 2021/620 of 15 April 2021 laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council as regards the approval of the disease-free and non-vaccination status of certain Member States or zones or compartments thereof as regards certain listed diseases and the approval of eradication programmes for those listed diseases (OJ L 131, 16.4.2021, p. 78).
+
+## ANNEX
+
+Annexes I to VIII to Implementing Regulation (EU) 2021/620 are amended as follows:
+
+(1) Annex I is amended as follows:
+
+(a) in Part I, Chapter 1 is amended as follows:
+
+(i) the entry for Italy is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Italy | Regione Abruzzo: Provincia di Pescara, Teramo Regione Basilicata: Provincia di Matera Regione Calabria: Provincia di Vibo Valentia Regione Campania: Provincia di Avellino, Benevento, Napoli Regione Emilia-Romagna Regione Friuli Venezia Giulia Regione Lazio Regione Liguria Regione Lombardia Regione Marche Regione Molise: Provincia di Campobasso Regione Piemonte Regione Puglia: Province di Bari, Barletta-Andria-Trani, Brindisi, Lecce Regione Sardegna Regione Toscana Regione Trentino – Alto Adige Regione Umbria Regione Valle d’Aosta Regione Veneto’ |
+
+(ii) the entry for Portugal is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Portugal | Distritos Aveiro, Castelo Branco, Coimbra, Faro, Guarda, Leiria, Santarem, Setubal, Viseu Região Autónoma dos Açores: Ilhas de Corvo, Faial, Flores, Graciosa, Pico, São Jorge, Santa Maria, Terceira’ |
+
+(b) in Part I, Chapter 2 is amended as follows:
+
+(i) the entry for France is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘France | Whole territory’ |
+
+(ii) the entry for Italy is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Italy | Regione Abruzzo Regione Calabria: Province di Catanzaro, Cosenza Regione Campania: Provincia di Benevento, Napoli, Salerno Regione Emilia-Romagna Regione Friuli Venezia Giulia Regione Lazio Regione Liguria Regione Lombardia Regione Marche Regione Molise Regione Piemonte Regione Puglia: Province di Bari, Barletta-Andria-Trani, Brindisi, Lecce, Taranto Regione Sardegna Regione Toscana Regione Trentino – Alto Adige Regione Umbria Regione Valle d’Aosta Regione Veneto’ |
+
+(c) in Part II, Chapter 1 is amended as follows:
+
+(i) the entry for Italy is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Italy | Regione Abruzzo: Provincia dell’Aquila, di Chieti Regione Basilicata: Provincia di Potenza Regione Calabria: Provincia di Catanzaro, Cosenza, Crotone, Reggio Calabria Regione Campania: Provincia di Caserta, Salerno Regione Molise: Provincia di Isernia Regione Puglia: Provincia di Foggia, Taranto Regione Sicilia’ |
+
+(ii) the entry for Portugal is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Portugal | Distritos Beja, Braga, Braganca, Evora, Lisboa, Portalegre, Porto, Viana do Castelo, Vila Real Região Autónoma da Madeira Região Autónoma dos Açores: Ilha de São Miguel’ |
+
+(d) in Part II, in Chapter 2, the entry for Italy is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Italy | Regione Basilicata Regione Calabria: Provincia di Crotone, Reggio Calabria, Vibo Valentia Regione Campania: Provincia di Caserta, Avellino Regione Puglia: Provincia di Foggia Regione Sicilia’ |
+
+(2) Annex II is amended as follows:
+
+(a) Part I is amended as follows:
+
+(i) the entry for Italy is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Italy | Regione Abruzzo Regione Basilicata: Provincia di Matera Regione Calabria: Provincia di Catanzaro Regione Campania: Provincia di Napoli Regione Emilia-Romagna Regione Friuli Venezia Giulia Regione Lazio: Provincia di Frosinone, Latina, Rieti, Viterbo Regione Liguria Regione Lombardia Regione Marche: Provincia di Ancona, Ascoli Piceno, Fermo, Pesaro-Urbino Regione Molise Regione Piemonte Regione Puglia: Provincia di Bari, Barletta-Andria-Trani, Brindisi, Lecce, Taranto Regione Sardegna: Città metropolitana di Cagliari, Provincia di Medio Campidano, Nord Est Sardegna, Nuoro, Ogliastra, Oristano, Sulcis Iglesiente Regione Toscana Regione Trentino – Alto Adige Regione Umbria Regione Valle d’Aosta Regione Veneto’ |
+
+(ii) the entry for Spain is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Spain | Comunidad Autónoma de Canarias Comunidad Autónoma de Castilla y León: Province of Burgos, León, Valladolid Comunidad Autónoma de Cataluña Comunidad Autónoma de Galicia Comunidad Autónoma de Islas Baleares Comunidad Autónoma de Murcia Comunidad Autónoma del País Vasco Comunidad Autónoma del Principado de Asturias’ |
+
+(b) Part II is amended as follows:
+
+(i) the entry for Italy is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Italy | Regione Basilicata: Provincia di Potenza Regione Calabria: Provincia di Cosenza, Crotone, Reggio Calabria, Vibo Valentia Regione Campania: Provincia d’Avellino, Caserta, Benevento, Salerno Regione Lazio: Provincia di Roma Regione Marche: Provincia di Macerata Regione Puglia: Provincia di Foggia Regione Sardegna: Città metropolitana di Sassari Regione Sicilia’ |
+
+(ii) the entry for Spain is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Spain | Comunidad Autónoma de Andalucía Comunidad Autónoma de Aragón Comunidad Autónoma de Cantabria Comunidad Autónoma de Castilla-La Mancha Comunidad Autónoma de Castilla y León: Province of Ávila, Palencia, Salamanca, Segovia, Soria, Zamora Comunidad Autónoma de Extremadura Comunidad Autónoma de La Rioja Comunidad Autónoma de Madrid Comunidad Autónoma de Navarra Comunidad Autónoma de Valencia’ |
+
+(3) Annex III is amended as follows:
+
+(a) in Part I, the entry for Slovakia is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Slovakia | Whole territory, except the following regions: Humenné, Medzilaborce, Snina, Stropkov, Svidnik, Vranov nad Topl’ou in kraj Prešovský Michalovce, Sobrance, Trebišov in kraj Košický’ |
+
+(b) in Part II, the following entry for Slovakia is inserted after the entry for Romania:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Slovakia | Region Humenné, Medzilaborce, Snina, Stropkov, Svidnik, Vranov nad Topl’ou in kraj Prešovský Region Michalovce, Sobrance, Trebišov in kraj Košický’ |
+
+(4) in Annex IV, in Part I, the entry for Portugal is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Portugal | Whole territory, except Região Autónoma da Madeira’ |
+
+(5) in Annex V, in Part II, the following entry for Slovakia is inserted after the entry for Luxembourg:
+
+| Member State | Territory | Date of initial approval as referred to in Article 15, point 2, of Delegated Regulation (EU) 2020/689 |
+| --- | --- | --- |
+| ‘Slovakia | Kraj Bratislava Kraj Košice Kraj Prešov Kraj Trnava Kraj Žilina | 5 June 2023’ |
+
+(6) Annex VI is amended as follows
+
+(a) in Part I, the entry for Poland is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Poland | Whole territory’ |
+
+(b) in Part II, the entry for Poland is deleted;
+
+(7) Annex VII is amended as follows:
+
+(a) in Part I, the entry for Germany is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Germany | Bundesland Baden-Württemberg Bundesland Bayern: Regierungsbezirk Oberbayern The following cities and Landkreis in Regierungsbezirk Niederbayern: Stadt Landshut, Stadt Passau, Stadt Straubing, Freyung-Grafenau, Kelheim, Lkr. Landshut, Lkr. Passau, Regen, Rottal-Inn, Lkr. Straubing-Bogen, Regierungsbezirk Mittelfranken Regierungsbezirk Oberfranken Regierungsbezirk Oberpfalz Regierungsbezirk Unterfranken Regierungsbezirk Schwaben Bundesland Brandenburg Bundesland Bremen Bundesland Hamburg Bundesland Hessen Bundesland Mecklenburg-Vorpommern Bundesland Rheinland-Pfalz Bundesland Saarland Bundesland Sachsen Bundesland Sachsen-Anhalt Bundesland Thüringen’ |
+
+(b) in Part II, the entry for Germany is replaced by the following:
+
+| Member State | Territory | Date of initial approval as referred to in Article 15(2) of Delegated Regulation (EU) 2020/689 |
+| --- | --- | --- |
+| ‘Germany | Bundesland Bayern: The following cities and Landkreis in Regierungsbezirk Niederbayern: Deggendorf, Dingolfing-Landau Bundesland Berlin Bundesland Niedersachsen Bundesland Nordrhein-Westfalen Bundesland Schleswig-Holstein | 21 February 2022’ |
+
+(8) Annex VIII is amended as follows:
+
+(a) Part I is amended as follows:
+
+(i) the following entry for Belgium is inserted before the entry for Czechia:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Belgium | Whole territory’ |
+
+(ii) the entry for Germany is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Germany | Whole territory’ |
+
+(iii) the entry for Spain is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Spain | Comunidad Autónoma de Andalucía: Province of Almería Province of Granada, the following districts: Alhama de Granada (Alhama/Temple), Baza (Altiplanicie Sur), Guadix (Hoya-Altiplanicie de Guadix), Huescar (Altiplanicie Norte), Iznalloz (Montes Orientales), Loja (Vega/Montes Occ.), Orgiva (Alpujarra/Valle de Lecrin), Santa Fe (Vega de Granada) Comunidad Autónoma de Aragón Comunidad Autónoma de Asturias Comunidad Autónoma de Canarias Comunidad Autónoma de Cantabria Comunidad Autónoma de Castilla-La Mancha, except the following districts: Almadén, Almodóvar del Campo, Piedrabuena in the Province of Ciudad Real Belvis de la Jara, Gálvez, Los Navalmorales, Oropesa, Talavera de la Reina, Toledo, Torrijos in the Province of Toledo Comunidad Autónoma de Castilla y León, except the following areas: Province of Salamanca Ávila, Arenas de San Pedro, Candeleda, Cebrero, El Barco de Ávila, El Barraco, Navaluenga, Navarredonda de Gredos, Piedrahíta, San Pedro del Arroyo, Sotillo de la Adrada in the Province of Ávila Alcañices, Bermillo de Sayago, Puebla de Sanabria in the Province of Zamora Comunidad Autónoma de Cataluña Comunidad Autónoma de Galicia except the following areas: Province of Orense Province of Pontevedra Sarria, Chantada and Terra de Lemos-Quiroga in the Province of Lugo Comunidad Autónoma de La Rioja Comunidad Autónoma de Madrid, except the following districts: Navalcarnero, San Martín de Valdeiglesias Comunidad Autónoma de Murcia Comunidad Autónoma de Navarra Comunidad Autónoma de País Vasco Comunidad Autónoma de Valencia’ |
+
+(b) Part II is replaced by the following:
+
+**‘PART II**
+
+**Member States or zones thereof with an approved eradication programme for infection with BTV**
+
+| Member State | Territory | Date of initial approval as referred to in Article 15(2) of Delegated Regulation (EU) 2020/689 |
+| --- | --- | --- |
+| Spain | Communidad Autónoma de Andalucía: Provinces of Cádiz, Córdoba, Huelva, Jáén, Málaga, Sevilla Province of Granada: Motril (Costa de Granada) Communidad Autónoma de Castilla-La Mancha: Province of Ciudad Real, the following districts: Almadén, Almodóvar del Campo and Piedrabuena Province of Toledo, the following districts: Belvis de la Jara, Gálvez, Los Navalmorales, Oropesa, Talavera de la Reina, Toledo, Torrijos Comunidad Autónoma de Castilla y León: Province of Salamanca Province of Ávila, the following districts: Ávila, Arenas de San Pedro, Candeleda, Cebrero, El Barco de Ávila, El Barraco, Navaluenga, Navarredonda de Gredos, Piedrahíta, San Pedro del Arroyo, Sotillo de la Adrada Province of Zamora, the following districts: Alcañices, Bermillo de Sayago Puebla de Sanabria Communidad Autónoma de Extremadura Communidad Autónoma de Galicia: Province of Orense Province of Pontevedra Sarria, Chantada and Terra de Lemos-Quiroga in the Province of Lugo Communidad Autónoma de Islas Baleares Comunidad Autónoma de Madrid, the following districts: Navalcarnero, San Martín de Valdeiglesias | 21 February 2022’ |

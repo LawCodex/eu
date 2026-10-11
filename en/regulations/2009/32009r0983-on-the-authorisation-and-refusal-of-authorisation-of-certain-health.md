@@ -1,0 +1,139 @@
+---
+title: "Commission Regulation (EC) No 983/2009 of 21 October 2009 on the authorisation and refusal of authorisation of certain health claims made on food and referring to the reduction of disease risk and to children’s development and health (Text with EEA relevance)"
+identifier: "32009R0983"
+eli: "http://data.europa.eu/eli/reg/2009/983/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-10-21
+entry_into_force: 2010-01-01
+last_amended: 2014-07-11
+consolidated_version: "02009R0983-20140711"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0983-20140711"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 983/2009 of 21 October 2009 on the authorisation and refusal of authorisation of certain health claims made on food and referring to the reduction of disease risk and to children’s development and health (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 983/2009**
+
+**of 21 October 2009**
+
+**on the authorisation and refusal of authorisation of certain health claims made on food and referring to the reduction of disease risk and to children’s development and health**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 376/2010 of 3 May 2010 </td><td> L 111</td><td>3</td><td>4.5.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 686/2014 of 20 June 2014 </td><td> L 182</td><td>27</td><td>21.6.2014</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 983/2009**
+
+**of 21 October 2009**
+
+**on the authorisation and refusal of authorisation of certain health claims made on food and referring to the reduction of disease risk and to children’s development and health**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+The health claims set out in Annex I to this Regulation may be made on food on the Community market in compliance with the conditions set out in that Annex.
+
+Those health claims shall be included in a list of permitted claims referred to in Article 14(1) of Regulation (EC) No 1924/2006.
+
+## Article 2
+
+The health claims set out in Annex II to this Regulation are rejected.
+
+## Article 3
+
+Health claims as referred to in Article 14(1)(b) of Regulation (EC) No 1924/2006 and set out in Annex II to this Regulation may continue to be used for six months after the entry into force of this Regulation.
+
+## Article 4
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**PERMITTED HEALTH CLAIMS**
+
+| Application – Relevant provisions of Regulation (EC) No 1924/2006 | Applicant – Address | Nutrient, substance, food or food category | Claim | Conditions of use of the claim | Conditions and/or restrictions of use of the food and/or additional statement or warning | EFSA opinion reference |
+| --- | --- | --- | --- | --- | --- | --- |
+| Article 14(1)(a) health claim referring to reduction of disease risk | Unilever PLC; Port Sunlight, Wirral, Merseyside, CH62 4ZD, UK and Unilever NV, Weena 455, Rotterdam, 3013 AL, Nederland | Plant sterols: Sterols extracted from plants, free or esterified with food grade fatty acids | Plant sterols have been shown to lower/reduce blood cholesterol. High cholesterol is a risk factor in the development of coronary heart disease | Information to the consumer that the beneficial effect is obtained with a daily intake of 1,5-3 g plant sterols. Reference to the magnitude of the effect may only be made for foods within the following categories: yellow fat spreads, dairy products, mayonnaise and salad dressings. When referring to the magnitude of the effect, the range ‘7 % to 10 %’ for foods that provide a daily intake of 1,5-2,4 g plant sterols or the range ‘10 % to 12,5 %’ for foods that provide a daily intake of 2,5-3 g plant sterols and the duration to obtain the effect ‘in 2 to 3 weeks’ must be communicated to the consumer. |  | Q-2008-085 Q-2009-00530 and Q-2009-00718 Q-2011-01241 |
+| Article 14(1)(a) health claim referring to reduction of disease risk | McNeil Nutritionals, 1 Landis und Gyr Strasse, 6300 Zug; Switzerland | Plant stanol esters | Plant stanol esters have been shown to lower/reduce blood cholesterol. High cholesterol is a risk factor in the development of coronary heart disease | Information to the consumer that the beneficial effect is obtained with a daily intake of 1,5-3 g plant sterols/stanols. Reference to the magnitude of the effect may only be made for foods within the following categories: yellow fat spreads, dairy products, mayonnaise and salad dressings. When referring to the magnitude of the effect, the range ‘7 % to 10 %’ for foods that provide a daily intake of 1,5-2,4 g plant sterols/stanols or the range ‘10 % to 12,5 %’ for foods that provide a daily intake of 2,5-3 g plant sterols/stanols and the duration to obtain the effect ‘in 2 to 3 weeks’ must be communicated to the consumer. |  | Q-2008-118 Q-2009-00530 and Q-2009-00718 Q-2011-00851 Q-2011-01241 |
+| Article 14(1)(b) health claim referring to children’s development and health | Unilever PLC; Port Sunlight, Wirral, Merseyside, CH62 4ZD, UK and Unilever NV, Weena 455, Rotterdam, 3013 AL, Nederland | α-linolenic acid & linoleic acid | Essential fatty acids are needed for normal growth and development of children | Information to the consumer that the beneficial effect is obtained with a daily intake of 2 g of α-linolenic acid (ALA) and a daily intake of 10 g of linoleic acid (LA) |  | Q-2008-079 |
+| Article 14(1)(b) health claim referring to children’s development and health | Association de la Transformation Laitière Française (ATLA), 42, rue du Châteaudun, 75314 Paris Cedex 09, FRANCE | Calcium | Calcium is needed for normal growth and development of bone in children | The claim can be used only for food which is at least a source of calcium as referred to in the claim SOURCE OF [NAME OF VITAMIN/S] AND/OR [NAME OF MINERAL/S] as listed in the Annex to Regulation (EC) No 1924/2006 |  | Q-2008-322 |
+| Article 14(1)(b) health claim referring to children’s development and health | Association de la Transformation Laitière Française (ATLA), 42, rue du Châteaudun, 75314 Paris Cedex 09, FRANCE | Protein | Protein is needed for normal growth and development of bone in children | The claim can be used only for food which is at least a source of protein as referred to in the claim SOURCE OF PROTEIN as listed in the Annex to Regulation (EC) No 1924/2006 |  | Q-2008-326 |
+| Article 14(1)(b) health claim referring to children’s development and health | Yoplait Dairy Crest Ltd, Claygate House, Claygate, Surrey, KT10 9PN, UK | Calcium and vitamin D | Calcium and vitamin D are needed for normal growth and development of bone in children | The claim can be used only for food which is at least a source of calcium and vitamin D as referred to in the claim SOURCE OF [NAME OF VITAMIN/S] AND/OR [NAME OF MINERAL/S] as listed in the Annex to Regulation (EC) No 1924/2006 |  | Q-2008-116 |
+| Article 14(1)(b) health claim referring to children’s development and health | Association de la Transformation Laitière Française (ATLA), 42, rue du Châteaudun, 75314 Paris Cedex 09, FRANCE | Vitamin D | Vitamin D is needed for normal growth and development of bone in children | The claim can be used only for food which is at least a source of Vitamin D as referred to in the claim SOURCE OF [NAME OF VITAMIN/S] AND/OR [NAME OF MINERAL/S] as listed in the Annex to Regulation (EC) No 1924/2006 |  | Q-2008-323 |
+
+## ANNEX II
+
+**REJECTED HEALTH CLAIMS**
+
+| Application – Relevant provisions of Regulation (EC) No 1924/2006 | Nutrient, substance, food or food category | Claim | EFSA opinion reference |
+| --- | --- | --- | --- |
+| Article 14(1)(a) health claim referring to reduction of disease risk | NeOpuntia® | NeOpuntia® helps to improve blood lipid parameters associated with cardiovascular risks, especially the HDL-cholesterol | EFSA-Q-2008-214 |
+| Article 14(1)(a) health claim referring to reduction of disease risk | Lactobacillus helveticus fermented Evolus®low-fat milk products | Evolus® reduces arterial stiffness | EFSA-Q-2008-218 |
+| Article 14(1)(b) health claim referring to children’s development and health | regulat®.pro.kid IMMUN | regulat®.pro.kid IMMUN supports, stimulates and modulates the immune system of children during growth | EFSA-Q-2008-082 |
+| Article 14(1)(b) health claim referring to children’s development and health | Dairy products | Three portions of dairy food everyday, as part of a balanced diet, may help promote a healthy body weight during childhood and adolescence | EFSA-Q-2008-110 |
+| Article 14(1)(b) health claim referring to children’s development and health | Dairy products | Dairy foods (milk & cheese) promote dental health in children | EFSA-Q-2008-112 |
+| Article 14(1)(b) health claim referring to children’s development and health | Docosahexaenoic Acid (DHA) and Arachidonic Acid (ARA) | DHA and ARA support neural development of the brain and eyes | EFSA-Q-2008-120 |
+| Article 14(1)(b) health claim referring to children’s development and health | regulat®.pro.kid BRAIN | regulat®.pro.kid BRAIN contributes to mental and cognitive development of children | EFSA-Q-2008-083 |
+| Article 14(1)(b) health claim referring to children’s development and health | Docosahexaenoic Acid (DHA) and eicosapentaenoic acid (EPA) | Calming | EFSA-Q-2008-091 and EFSA-Q-2008-096 |
+| Article 14(1)(b) health claim referring to children’s development and health | Docosahexaenoic Acid (DHA) and eicosapentaenoic acid (EPA) | Provide serenity and room for a beneficial development of the child | EFSA-Q-2008-092 and EFSA-Q-2008-097 |
+| Article 14(1)(b) health claim referring to children’s development and health | Docosahexaenoic Acid (DHA) and eicosapentaenoic acid (EPA) | Help to support vision | EFSA-Q-2008-095 and EFSA-Q-2008-100 |
+| Article 14(1)(b) health claim referring to children’s development and health | Docosahexaenoic Acid (DHA) and eicosapentaenoic acid (EPA) | Help to support mental development | EFSA-Q-2008-098 and EFSA-Q-2008-104 |
+| Article 14(1)(b) health claim referring to children’s development and health | Docosahexaenoic Acid (DHA) and eicosapentaenoic acid (EPA) | Help to promote concentration | EFSA-Q-2008-094 and EFSA-Q-2008-099 |
+| Article 14(1)(b) health claim referring to children’s development and health | Docosahexaenoic Acid (DHA) and eicosapentaenoic acid (EPA) | Helps to promote the thinking capacity | EFSA-Q-2008-093 and EFSA-Q-2008-101 |
+| Article 14(1)(b) health claim referring to children’s development and health | Docosahexaenoic Acid (DHA) and eicosapentaenoic acid (EPA) | Help to support the learning ability | EFSA-Q-2008-102 and EFSA-Q-2008-103 |
+
+( 1 ) OJ L 404, 30.12.2006, p. 9.
+
+( 2 ) The EFSA Journal (2008) 781, 1-2.
+
+( 3 ) The EFSA Journal (2008) 825, 1-13.
+
+( 4 ) The EFSA Journal (2008) 783, 1-10.
+
+( 5 ) The EFSA Journal (2008) 827, 1-2.
+
+( 6 ) The EFSA Journal (2008) 828, 1-13.
+
+( 7 ) The EFSA Journal (2008) 826, 1-11.
+
+( 8 ) The EFSA Journal (2008) 858, 1-2.
+
+( 9 ) The EFSA Journal (2008) 788, 1-2.
+
+( 10 ) The EFSA Journal (2008) 824, 1-2.
+
+( 11 ) The EFSA Journal (2008) 794, 1-2.
+
+( 12 ) The EFSA Journal (2008) 787, 1-2.
+
+( 13 ) The EFSA Journal (2008) 786, 1-10.
+
+( 14 ) The EFSA Journal (2008) 782, 1-2.
+
+( 15 ) The EFSA Journal (2008) 829, 1-10.
+
+( 16 ) The EFSA Journal (2008) 830, 1-2.
+
+( 17 ) The EFSA Journal (2008) 831, 1-2.
+
+( 18 ) The EFSA Journal (2008) 832, 1-8.
+
+( 19 ) The EFSA Journal (2008) 847, 1-10.
+
+( 20 ) The EFSA Journal (2008) 846, 1-10.
+
+( 21 ) The EFSA Journal (2008) 845, 1-2.
+
+( 22 ) The EFSA Journal (2008) 848, 1-10.

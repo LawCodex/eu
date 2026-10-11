@@ -1,0 +1,1650 @@
+---
+title: "Council Regulation (EC) No 1183/2005 of 18 July 2005 imposing certain specific restrictive measures directed against persons acting in violation of the arms embargo with regard to the Democratic Republic of the Congo"
+identifier: "32005R1183"
+eli: "http://data.europa.eu/eli/reg/2005/1183/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2005-07-18
+entry_into_force: 2005-06-14
+last_amended: 2025-12-10
+consolidated_version: "02005R1183-20251210"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005R1183-20251210"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 1183/2005 of 18 July 2005 imposing certain specific restrictive measures directed against persons acting in violation of the arms embargo with regard to the Democratic Republic of the Congo
+
+**COUNCIL REGULATION (EC) No 1183/2005**
+
+**of 18 July 2005**
+
+**concerning restrictive measures in view of the situation in the Democratic Republic of the Congo**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EC) No 1824/2005 of 9 November 2005 </td><td> L 294</td><td>3</td><td>10.11.2005</td></tr>
+<tr><td> M2</td><td> COMMISSION REGULATION (EC) No 84/2006 of 18 January 2006 </td><td> L 14</td><td>14</td><td>19.1.2006</td></tr>
+<tr><td> M3</td><td> COUNCIL REGULATION (EC) No 1791/2006 of 20 November 2006 </td><td> L 363</td><td>1</td><td>20.12.2006</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EC) No 201/2007 of 23 February 2007 </td><td> L 59</td><td>73</td><td>27.2.2007</td></tr>
+<tr><td> M5</td><td> COMMISSION REGULATION (EC) No 400/2007 of 12 April 2007 </td><td> L 98</td><td>20</td><td>13.4.2007</td></tr>
+<tr><td> M6</td><td> COMMISSION REGULATION (EC) No 933/2007 of 3 August 2007 </td><td> L 204</td><td>5</td><td>4.8.2007</td></tr>
+<tr><td> M7</td><td> COMMISSION REGULATION (EC) No 1096/2007 of 20 September 2007 </td><td> L 246</td><td>29</td><td>21.9.2007</td></tr>
+<tr><td> M8</td><td> COMMISSION REGULATION (EC) No 242/2009 of 20 March 2009 </td><td> L 75</td><td>8</td><td>21.3.2009</td></tr>
+<tr><td> M9</td><td> COMMISSION REGULATION (EU) No 1250/2010 of 22 December 2010 </td><td> L 341</td><td>11</td><td>23.12.2010</td></tr>
+<tr><td> M10</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1097/2011 of 25 October 2011 </td><td> L 285</td><td>2</td><td>1.11.2011</td></tr>
+<tr><td> M11</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 7/2012 of 5 January 2012 </td><td> L 4</td><td>1</td><td>7.1.2012</td></tr>
+<tr><td> M12</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1251/2012 of 20 December 2012 </td><td> L 352</td><td>42</td><td>21.12.2012</td></tr>
+<tr><td> M13</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 53/2013 of 22 January 2013 </td><td> L 20</td><td>46</td><td>23.1.2013</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) No 521/2013 of 6 June 2013 </td><td> L 156</td><td>1</td><td>8.6.2013</td></tr>
+<tr><td> M15</td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td> M16</td><td> COUNCIL REGULATION (EU) No 271/2014 of 17 March 2014 </td><td> L 79</td><td>35</td><td>18.3.2014</td></tr>
+<tr><td> M17</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 1275/2014 of 1 December 2014 </td><td> L 346</td><td>3</td><td>2.12.2014</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2015/613 of 20 April 2015 </td><td> L 102</td><td>3</td><td>21.4.2015</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2015/614 of 20 April 2015 </td><td> L 102</td><td>10</td><td>21.4.2015</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2016/1165 of 18 July 2016 </td><td> L 193</td><td>15</td><td>19.7.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2016/2230 of 12 December 2016 </td><td> L 336I</td><td>1</td><td>12.12.2016</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/199 of 6 February 2017 </td><td> L 32</td><td>1</td><td>7.2.2017</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/396 of 7 March 2017 </td><td> L 60</td><td>9</td><td>8.3.2017</td></tr>
+<tr><td> M24</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/904 of 29 May 2017 </td><td> L 138I</td><td>1</td><td>29.5.2017</td></tr>
+<tr><td> M25</td><td> COUNCIL REGULATION (EU) 2017/1326 of 17 July 2017 </td><td> L 185</td><td>19</td><td>18.7.2017</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/197 of 9 February 2018 </td><td> L 38</td><td>2</td><td>10.2.2018</td></tr>
+<tr><td> M27</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/566 of 12 April 2018 </td><td> L 95</td><td>9</td><td>13.4.2018</td></tr>
+<tr><td> M28</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/1931 of 10 December 2018 </td><td> L 314</td><td>1</td><td>11.12.2018</td></tr>
+<tr><td> M29</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td> M30</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/2101 of 9 December 2019 </td><td> L 318</td><td>1</td><td>10.12.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/189 of 12 February 2020 </td><td> L 40I</td><td>1</td><td>13.2.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/415 of 19 March 2020 </td><td> L 86</td><td>1</td><td>20.3.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1507 of 16 October 2020 </td><td> L 345</td><td>1</td><td>19.10.2020</td></tr>
+<tr><td> M34</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/2021 of 10 December 2020 </td><td> L 419</td><td>5</td><td>11.12.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/2133 of 17 December 2020 </td><td> L 430</td><td>8</td><td>18.12.2020</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/1863 of 22 October 2021 </td><td> L 377</td><td>1</td><td>25.10.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/2176 of 9 December 2021 </td><td> L 443</td><td>1</td><td>10.12.2021</td></tr>
+<tr><td> M38</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/2177 of 9 December 2021 </td><td> L 443</td><td>3</td><td>10.12.2021</td></tr>
+<tr><td> M39</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td> M40</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/1009 of 27 June 2022 </td><td> L 170</td><td>15</td><td>28.6.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/2237 of 14 November 2022 </td><td> L 294</td><td>1</td><td>15.11.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/2373 of 5 December 2022 </td><td> L 314</td><td>79</td><td>6.12.2022</td></tr>
+<tr><td> M43</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/2397 of 8 December 2022 </td><td> L 316I</td><td>1</td><td>8.12.2022</td></tr>
+<tr><td> M44</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/2401 of 8 December 2022 </td><td> L 317</td><td>32</td><td>9.12.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/720 of 31 March 2023 </td><td> L 94</td><td>1</td><td>3.4.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/913 of 4 May 2023 </td><td> L 119</td><td>20</td><td>5.5.2023</td></tr>
+<tr><td> M47</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/1183 of 19 June 2023 </td><td> L 157</td><td>8</td><td>20.6.2023</td></tr>
+<tr><td> M48</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/1564 of 28 July 2023 </td><td> L 190I</td><td>9</td><td>28.7.2023</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/1565 of 28 July 2023 </td><td> L 190I</td><td>19</td><td>28.7.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/2771 of 8 December 2023 </td><td> L 2771</td><td>1</td><td>11.12.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/2905 of 21 December 2023 </td><td> L 2905</td><td>1</td><td>22.12.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1271 of 29 April 2024 </td><td> L 1271</td><td>1</td><td>30.4.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2065 of 26 July 2024 </td><td> L 2065</td><td>1</td><td>26.7.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2670 of 8 October 2024 </td><td> L 2670</td><td>1</td><td>9.10.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/3107 of 9 December 2024 </td><td> L 3107</td><td>1</td><td>10.12.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/509 of 17 March 2025 </td><td> L 509</td><td>1</td><td>17.3.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/2508 of 8 December 2025 </td><td> L 2508</td><td>1</td><td>9.12.2025</td></tr>
+</table>
+
+**COUNCIL REGULATION (EC) No 1183/2005**
+
+**of 18 July 2005**
+
+**concerning restrictive measures in view of the situation in the Democratic Republic of the Congo**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and includes in particular a claim:
+
+(i) for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) for compensation in respect of a contract or transaction;
+
+(iv) which is a counterclaim;
+
+(v) for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(b) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(c) ‘competent authorities’ refers to the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(d) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds, but may be used to obtain funds, goods or services;
+
+(e) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(f) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(g) ‘funds’ means financial assets and benefits of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly-and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale; and
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(h) ‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, in the form of an instruction, advice, training, transmission of working knowledge or skills or consulting services and including verbal forms of assistance;
+
+(i) ‘brokering services’ means:
+
+(i) the negotiation or arrangement of transactions for the purchase, sale or supply of goods and technology or of financial and technical services, from a third country to any other third country, or
+
+(ii) the selling or buying of goods and technology or of financial and technical services, that are located in third countries for their transfer to another third country;
+
+(j) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace.
+
+## Article 1a
+
+1\. It shall be prohibited to provide, directly or indirectly:
+
+(a) technical assistance or brokering services related to the goods and technology listed in the Common Military List of the European Union ( 1 ) (‘Common Military List’) or related to the provision, manufacture, maintenance and use of goods included in that list, to any non-governmental entity or person operating in the territory of the Democratic Republic of Congo (‘DRC’);
+
+(b) financing or financial assistance related to the sale, supply, transfer or export of goods and technology listed in the Common Military List, including in particular grants, loans and export credit insurance, as well as insurance and reinsurance, for any sale, supply, transfer or export of such items, or for any provision of related technical assistance or brokering services to any non-governmental entity or person operating in the territory of the DRC;
+
+2\. The provision of technical assistance, financing or financial assistance or brokering services related to military activities to any non-governmental or other person, entity or body in the DRC, or for use in the DRC, other than provision of that assistance to the United Nations Organisation Stabilisation Mission in the DRC (‘Monusco’) or the African Union Regional Task Force, or related to non-lethal military equipment intended solely for humanitarian or protective use in accordance with Article 1b(1), shall be notified in advance to the Sanctions Committee established pursuant to paragraph 8 of UN Security Council Resolution 1533 (2004) (the ‘Sanctions Committee’). Such notification shall contain all relevant information, including, where appropriate, the end-user, the proposed date of delivery and the itinerary of shipments.
+
+## Article 1b
+
+1\. By way of derogation from Article 1a, the competent authorities may authorise the provision of:
+
+(a) technical assistance, financing or financial assistance or brokering services related to arms and related material intended solely for the support of or use by Monusco;
+
+(b) technical assistance, financing or financial assistance or brokering services related to non-lethal military equipment intended solely for humanitarian or protective use;
+
+(c) technical assistance, financing or financial assistance or brokering services related to arms and related material intended solely for the support of or use by the African Union Regional Task Force;
+
+(d) technical assistance, financing or financial assistance or brokering services related to other sales and supply of arms and related materiel, as approved in advance by the Sanctions Committee.
+
+2\. No authorisations shall be granted for activities that have already taken place.
+
+## Article 2
+
+1\. All funds and economic resources belonging to, owned, held or controlled, either directly or indirectly, by a natural or legal person, entity or body listed in Annex I or Annex Ia including by a third party acting on their behalf or at their direction, shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of the natural or legal persons, entities or bodies listed in Annex I or Annex Ia.
+
+3\. Paragraphs 1 and 2 shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or by,
+
+(f) appropriate other actors as determined by the Sanctions Committee as regards Annex I, and by the Council as regards Annex Ia.
+
+## Article 2a
+
+1\. Annex I shall include the natural or legal persons, entities or bodies designated by the Sanctions Committee for engaging in or providing support for acts that undermine the peace, stability or security of the DRC. Such acts shall include:
+
+(a) acting in violation of the arms embargo and related measures as referred to in Article 1 of Decision 2010/788/CFSP and Article 1a of this Regulation;
+
+(b) being political and military leaders of foreign armed groups operating in the DRC who impede the disarmament and the voluntary repatriation or resettlement of combatants belonging to those groups;
+
+(c) being political and military leaders of Congolese militias, including those receiving support from outside the DRC, who impede the participation of their combatants in disarmament, demobilisation and reintegration processes;
+
+(d) recruiting or using children in armed conflict in violation of applicable international law;
+
+(e) planning, directing, or committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals;
+
+(f) obstructing the access to or the distribution of humanitarian assistance in the DRC;
+
+(g) supporting individuals or entities, including armed groups or criminal networks, involved in destabilizing activities in the DRC through the illicit exploitation or trade of natural resources, including gold or wildlife as well as wildlife products;
+
+(h) acting on behalf of or at the direction of a designated person or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated person or entity;
+
+(i) planning, directing, sponsoring or participating in attacks against MONUSCO peacekeepers or United Nations personnel, including members of the Group of Experts, or against medical personnel or humanitarian personnel;
+
+(j) providing financial, material, or technological support for, or goods or services to a designated person or entity;
+
+(k) being involved in the production, manufacture or use in the DRC of improvised explosive devices, or in the commission, planning, ordering, aiding of, abetting or otherwise assisting attacks in the DRC with improvised explosive devices.
+
+2\. Annex I shall include the grounds for listing natural or legal persons, entities or bodies, as provided by the UN Security Council or by the Sanctions Committee.
+
+3\. Annex I shall also include, where available, information necessary to identify the natural or legal persons, entities and bodies concerned, as provided by the UN Security Council or by the Sanctions Committee. With regard to natural persons, such information may include names, including aliases, date and place of birth, nationality, passport and identity card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business. Annex I shall also include the date of designation by the UN Security Council or by the Sanctions Committee.
+
+## Article 2b
+
+1\. Annex Ia shall include the natural or legal persons, entities or bodies designated by the Council on any of the following grounds:
+
+(a) obstructing a consensual and peaceful solution towards elections in the DRC, including by acts of violence, repression or inciting violence, or by undermining the rule of law;
+
+(b) planning, directing, or committing acts that constitute serious human rights violations or abuses in the DRC;
+
+(c) being responsible for sustaining the armed conflict, instability or insecurity in the DRC;
+
+(d) providing support to natural or legal persons, entities or bodies responsible for sustaining the armed conflict, instability or insecurity in the DRC;
+
+(e) inciting violence in connection with the actions mentioned in points (b), (c) and (d);
+
+(f) exploiting the armed conflict, instability or insecurity in the DRC, including through the illicit exploitation or trade of natural resources and wildlife;
+
+(g) being associated with natural or legal persons, entities or bodies referred to in points (a), (b), (c), (d), (e) or (f).
+
+2\. Annex Ia shall include the grounds for listing the persons and entities referred to therein.
+
+3\. Annex Ia shall also contain, where available, the information necessary to identify the persons or entities concerned. With regard to natural persons, such information may include names, including aliases, date and place of birth, nationality, passport and identity card numbers, gender, address if known, and function or profession. With regard to entities, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 3
+
+1\. By way of derogation from Article 2, the competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of natural or legal persons, entities or bodies listed in Annex I or Annex Ia and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums and public utility charges;
+
+(b) intended exclusively for payment of reasonable professional fees and reimbursement of incurred expenses associated with the provision of legal services; or
+
+(c) intended exclusively for payment of fees or services charges for routine holding or maintenance of frozen funds or economic resources, and
+
+where the authorisation concerns a person, entity and body listed in Annex I, the Member State concerned has notified the Sanctions Committee of that determination and its intention to grant an authorisation, and the Sanctions Committee has not objected to that course of action within four working days of notification.
+
+2\. By way of derogation from Article 2, the competent authorities may authorise the release of certain frozen funds or economic resources or the making available of certain frozen funds or economic resources, after having determined that the funds or economic resources are necessary for extraordinary expenses, provided that:
+
+(a) where the authorisation concerns a natural or legal person, entity or body listed in Annex I, the Sanctions Committee has been notified of this determination by the Member State concerned and that the determination has been approved by that Committee; and
+
+(b) where the authorisation concerns a natural or legal person, entity or body listed in Annex Ia, the Member State concerned has notified other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation.
+
+3\. For a natural or legal person, entity or body listed in Annex Ia, the Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 1 and 2.
+
+## Article 4
+
+1\. By way of derogation from Article 2, the competent authorities may authorise the release of certain frozen funds or economic resources, provided the following conditions are met:
+
+(a) the funds or economic resources are the subject of:
+
+(i) a judicial, administrative or arbitral lien established prior to 18 April 2005 or of a judicial, administrative or arbitral judgement rendered prior to that date, for a natural or legal person, entity or body listed in Annex I; or
+
+(ii) an arbitral decision rendered prior to the date on which the natural or legal person, entity or body was listed in Annex Ia, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a lien or recognised as valid in such a judgement, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the lien or judgement is not for the benefit of a person, entity or body listed in Annex I or Annex Ia;
+
+(d) recognising the lien or judgement is not contrary to public policy in the Member State concerned.
+
+2\. For a natural or legal person, entity or body listed in Annex I, the lien or judgement referred to in paragraph 1(a)(i) shall be notified by the Member State to the Sanctions Committee.
+
+3\. For a natural or legal person, entity or body listed in Annex Ia, the Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this Article.
+
+## Article 4b
+
+1\. Without prejudice to Article 2(3), by way of derogation from Article 2(1) and (2), the competent authorities of the Member States may authorise the release of frozen funds or economic resources belonging to natural or legal persons, entities or bodies listed in Annex Ia, or the making available of certain funds or economic resources to natural or legal persons, entities or bodies listed in Annex Ia, under such conditions as they deem appropriate, after having determined that the provision of such funds or economic resources is necessary for humanitarian purposes, such as delivering or facilitating the delivery of assistance, including medical supplies and food, or the transfer of humanitarian workers and related assistance or for evacuations from DRC.
+
+2\. The Member State concerned shall inform other Member States and the Commission of authorisations made under this Article within four weeks of the authorisation.
+
+## Article 5
+
+1\. Article 2(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose prior to the date on which those accounts became subject to this Regulation;
+
+(c) payments due to a natural or legal person, entity or body listed in Annex Ia under judicial, administrative or arbitral decisions rendered in the EU or enforceable in the Member State concerned,
+
+provided that any such interest, other earnings and payments are frozen in accordance with Article 2(1).
+
+2\. Article 2(2) shall not prevent the crediting of the frozen accounts by financial or credit institutions that receive funds transferred by third parties to the account of the natural or legal person, entity or body listed in Annexes I or Ia, provided that any such additions to such accounts are frozen. The financial or credit institutions shall inform the competent authorities about such transactions without delay.
+
+## Article 6
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as accounts and amounts frozen in accordance with Article 2, to the competent authorities of the Member States where they are resident or located, and shall transmit such information, directly or through these competent authorities, to the Commission;
+
+(b) cooperate with the competent authorities in any verification of this information.
+
+2\. Any additional information directly received by the Commission shall be made available to the competent authorities of the Member State concerned.
+
+3\. Any information provided or received in accordance with paragraphs 1 and 2 shall be used only for the purposes for which it was provided or received.
+
+## Article 7
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person, entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen as result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the prohibitions set out in this Regulation.
+
+## Article 7a
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, notably a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in Annexes I and Ia;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited under paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 7b
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Articles 1a, 2(1) and 2(2).
+
+## Article 8
+
+The Commission and Member States shall immediately inform each other of the measures taken under this Regulation and shall supply each other with any other relevant information at their disposal in connection with this Regulation, in particular information in respect of violation and enforcement problems and judgements handed down by national courts.
+
+## Article 9
+
+1\. Where the UN Security Council or the Sanctions Committee designates a natural or legal person, entity or body, the Council shall include such natural or legal person, entity or body in Annex I.
+
+2\. The Council shall establish and amend the list of natural or legal persons, entities or bodies in Annex Ia.
+
+3\. The Council shall communicate its decision, including the grounds for listing, to the natural or legal person, entity or body referred to in paragraphs 1 and 2, either directly, if the address is known, or through the publication of a notice, providing such natural or legal person, entity or body with an opportunity to present observations.
+
+4\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the natural or legal person, entity or body accordingly.
+
+5\. Where the UN Security Council or the Sanctions Committee decides to delist a natural or legal person, entity or body, or to amend the identification data for a listed natural or legal person, entity or body, the Council shall amend Annex I accordingly.
+
+6\. The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 10
+
+Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+Member States shall notify those rules to the Commission without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 11
+
+This Regulation shall apply
+
+(a) within the territory of the Community, including its airspace;
+
+(b) on board any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any person inside or outside the territory of the Community who is a national of a Member State;
+
+(d) to any legal person, entity or body which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body doing business within the Community.
+
+## Article 12
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+a) List of persons referred to in Articles 2 and 2a.
+
+**1\. Eric BADEGE**
+
+Date of Birth: 1971.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 31 December 2012.
+
+Address: Rwanda (as of early 2016).
+
+Other information: He fled to Rwanda in March 2013 and is still living there as of early 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272441
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Eric Badege was a Lieutenant Colonel and focal point for M23 in Masisi and commanded certain operations that destabilized parts of Masisi territory in North Kivu province. As a military commander of M23, Badege was responsible for serious violations involving the targeting of children or women in situations of armed conflict. After May 2012, Raia Mutomboki, under the command of M23, killed hundreds of civilians in a series of coordinated attacks. In August 2012, Badege carried out joint attacks which involved the indiscriminate killing of civilians. These attacks were jointly orchestrated by Badege and Colonel Makoma Semivumbi Jacques. Former M23 combatants claimed that M23 leaders summarily executed dozens of children who attempted to escape after being recruited as M23 child soldiers.
+
+According to a September 11, 2012 report by Human Rights Watch (HRW), a Rwandan man, 18, who escaped after being forcibly recruited in Rwanda told HRW that he witnessed the execution of a 16-year old boy from his M23 unit who had tried to flee in June. The boy was captured and beaten to death by M23 fighters in front of the other recruits. An M23 commander who ordered his killing then allegedly told the other recruits ‘[h]e wanted to abandon us,’ as an explanation for why the boy had been killed. The report also states that witnesses claimed that at least 33 new recruits and other M23 fighters were summarily executed when they attempted to flee. Some were tied up and shot in front of other recruits as an example of the punishment they could receive. One young recruit told HRW, ‘[w]hen we were with M23, they said [we had a choice] and could stay with them or we could die. Lots of people tried to escape. Some were found and then that was immediately their death.’
+
+Badege fled to Rwanda in March 2013 and was living there as of early 2016.
+
+**2\. Frank Kakolele BWAMBALE**
+
+(alias: a) FRANK KAKORERE b) FRANK KAKORERE BWAMBALE c) AIGLE BLANC)
+
+Designation: FARDC General.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Address: Kinshasa, Democratic Republic of the Congo (as of June 2016).
+
+Other information: Left the CNDP in January 2008. As of June 2011, resides in Kinshasa. Since 2010, Kakolele has been involved in activities apparently on behalf of the DRC government's Programme de Stabilisation et Reconstruction des Zones Sortant des Conflits Armés (STAREC), including participation in a STAREC mission to Goma and Beni in March 2011. DRC authorities arrested him in December 2013 in Beni, North Kivu Province, for allegedly blocking the DDR process. He left the DRC and lived in Kenya for some time, before being called back by the DRC Government to assist them with the situation in the Territory of Beni. He was arrested in October 2015 in the area of Mambasa for allegedly supporting a Mai Mai group, but no charges were brought and as of June 2016, he lived in Kinshasa. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5776078
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Frank Kakolele Bwambale was the RCD-ML leader, exercising influence over policies and maintaining command and control over the activities of RCD-ML forces, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), responsible for trafficking of arms, in violation of the arms embargo. He left the CNDP in January 2008. Starting in 2010, Kakolele was involved in activities apparently on behalf of the DRC government's Programme de Stabilisation et Reconstruction des Zones Sortant des Conflits Armés (STAREC), including participation in a STAREC mission to Goma and Beni in March 2011.
+
+He left the DRC and lived in Kenya for some time before being called back by the DRC Government to assist with the situation in the Territory of Beni. He was arrested in October 2015 near Mambasa for allegedly supporting a Mai Mai group, but no charges were brought. As of June 2016, Kakolele lived in Kinshasa.
+
+**3\. Gaston IYAMUREMYE**
+
+(alias: a) Byiringiro Victor Rumuli, b) Victor Rumuri, c) Michel Byiringiro, d) Rumuli)
+
+Designation: a) FDLR Interim President, b) FDLR-FOCA 1st Vice-President; c) FDLR-FOCA Major General.
+
+Address: North Kivu Province, Democratic Republic of the Congo (as of June 2016).
+
+Date of Birth: 1948.
+
+Place of Birth: a) Musanze District, Northern Province, Rwanda, b) Ruhengeri, Rwanda.
+
+Nationality: Rwanda.
+
+Date of UN designation: 1 December 2010.
+
+Other information: INTERPOL- UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272456
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Gaston Iyamuremye is the 1st vice-president of the FDLR, as well as the interim president. He also has the rank of Major General in the FDLR's armed wing, called FOCA. As of June 2016, Iyamuremye is in North Kivu province of the Democratic Republic of Congo.
+
+**4\. Innocent KAINA**
+
+(alias a): Colonel Innocent KAINA, b): India Queen)
+
+Designation: Former M23 Deputy Commander.
+
+Address: Uganda (as of early 2016).
+
+Date of birth: Nov. 1973.
+
+Place of Birth: Bunagana, Rutshuru territory, Democratic Republic of the Congo.
+
+Date of UN designation: 30 November 2012.
+
+Other information: Became M23 deputy commander after the flight of Bosco Taganda's faction to Rwanda in March 2013. Fled to Uganda in November 2013. In Uganda as of early 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5776081
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Innocent Kaina was Sector and then Deputy Commander in the Mouvement du 23 Mars (M23). He was responsible for and committed serious violations of international law and human rights. In July 2007, the Garrison Military Tribunal of Kinshasa found Kaina responsible for crimes against humanity committed in the District of Ituri between May 2003 and December 2005. He was released in 2009 as part of the peace agreement between the Congolese government and the CNDP. Within the FARDC in 2009, he was guilty of executions, abductions and maiming in Masisi territory. As a commander under the orders of General Taganda, he initiated the ex-CNDP mutiny in Rutshuru territory in April 2012. He ensured the security of the mutineers out of Masisi. Between May and August 2012, he oversaw the recruitment and training of over 150 children for the M23 rebellion, shooting the boys who had tried to escape. In July 2012, he travelled to Berunda and Degho for mobilization and recruitment activities for the M23. Kaina fled to Uganda in November 2013 and was still there as of early 2016.
+
+**5\. Jérôme KAKWAVU BUKANDE**
+
+(alias: a) Jérôme Kakwavu, b) Commandant Jérôme)
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: Given the rank of General in the FARDC in December 2004. As of June 2011, detained in Makala Prison in Kinshasa. As of 25 March 2011, the High Military Court in Kinshasa opened a trial against Kakwavu for war crimes. In November 2014, convicted by a DRC military court to ten years in prison for rape, murder, and torture. INTERPOL-UN SecurityCouncil Special Notice web link: https://www.interpol.int/en/notice/search/un/5776083
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Former President of UCD/FAPC. FAPC's control of illegal border posts between Uganda and the DRC — a key transit route for arms flows. As President of the FAPC, he exercised influence over policies and command and control over the activities of FAPC forces, which were involved in arms trafficking and, consequently, in violations of the arms embargo. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for recruitment and use of children in Ituri in 2002. One of five senior FARDC officers who had been accused of serious crimes involving sexual violence and whose cases the Security Council had brought to the Government's attention during its visit in 2009. Given the rank of General in the FARDC in December 2004. As of June 2011, detained in Makala Prison in Kinshasa. On 25 March 2011, the High Military Court in Kinshasa opened a trial against Kakwavu for war crimes.
+
+**6\. Germain KATANGA**
+
+Nationality: Democratic Republic of the Congo.
+
+Date of birth: 28 Apr. 1978.
+
+Place of birth: Mambasa, Ituri Province, Democratic Republic of the Congo.
+
+Address: Democratic Republic of the Congo (in prison).
+
+Date of UN designation: 1 November 2005.
+
+Other information: Appointed General in the FARDC in December 2004. Handed over by the Government of the DRC to the International Criminal Court on 18 October 2007. Initially convicted on 23 May 2014 by the ICC to 12 years in prison for war crimes and crimes against humanity, the ICC Appeals Chamber reduced his sentence and determined that Katanga's sentence should be completed on 18 January 2016. Although he was detained in the Netherlands for the duration of his trial, Katanga was transferred to a DRC prison in December 2015 and charged for other crimes previously committed in Ituri. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5776116
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Germain Katanga was the Commander of the FRPI. He was involved in weapons transfers, in violation of the arms embargo. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for recruitment and use of children in Ituri from 2002 to 2003. He was appointed General in the FARDC in December 2004. He was handed over by the Government of the DRC to the International Criminal Court on 18 October 2007. Initially convicted on 23 May 2014 by the ICC to 12 years in prison for war crimes and crimes against humanity, ICC Appeals Chamber reduced his sentence and determined that his sentence should be completed on 18 January 2016. Although he was detained in the Netherlands for the duration of his trial, Katanga was transferred to a DRC prison in December 2015 and charged for crimes previously committed in Ituri.
+
+**7\. Thomas LUBANGA**
+
+Place of birth: Ituri, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Address: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: Arrested in Kinshasa in March 2005 for UPC/L involvement in human rights abuses violations. Transferred to the ICC on 17 March 2006. Convicted by the ICC in March 2012 and sentenced to 14 years in prison. On 1 December 2014, ICC appeals judges upheld Lubanga’s conviction and sentence. Transferred to a prison facility in the DRC on 19 December 2015 to serve out his sentence of imprisonment. He was released on 15 March 2020 after having served his ICC sentence. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Thomas Lubanga was the President of the UPC/L, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), involved in the trafficking of arms, in violation of the arms embargo. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for recruitment and use of children in Ituri from 2002 to 2003. He was arrested in Kinshasa in March 2005 for UPC/L involvement in human rights abuses violations and transferred to the ICC by the DRC authorities on 17 March 2006. He was convicted by the ICC in March 2012 and sentenced to 14 years in prison. On 1 December 2014, ICC appeals judges upheld the conviction and sentence. He was transferred to a prison facility in the DRC on 19 December 2015 to serve out his sentence of imprisonment.
+
+**8\. Sultani MAKENGA**
+
+(alias: a) Makenga, Colonel Sultani, b) Makenga, Emmanuel Sultani)
+
+Date of Birth: 25 December 1973.
+
+Place of Birth: Rutshuru, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 12 November 2012.
+
+Other information: A military leader of the Mouvement du 23 Mars (M23) group operating in the Democratic Republic of the Congo. In Uganda as of late 2014. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272833
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Sultani Makenga is a military leader of the Mouvement du 23 Mars (M23) group operating in the Democratic Republic of the Congo (DRC). As a leader of M23 (also known as the Congolese Revolutionary Army), Sultani Makenga has committed and is responsible for serious violations of international law involving the targeting of women and children in situations of armed conflict, including killing and maiming, sexual violence, abduction, and forced displacement. He has also been responsible for violations of international law related to M23's actions in recruiting or using children in armed conflict in the DRC. Under the command of Sultani Makenga, M23 has carried out extensive atrocities against the civilian population of the DRC. According to testimonies and reports, the militants operating under the command of Sultani Makenga have conducted rapes throughout Rutshuru territory against women and children, some of whom have been as young as 8 years old, as part of a policy to consolidate control in Rutshuru territory. Under Makenga's command, M23 has conducted extensive forced recruitment campaigns of children in the DRC and in the region, as well as killing, maiming, and injuring scores of children. Many of the forced child recruits have been under the age of 15. Makenga has also been reported to be the recipient of arms and related materiel in violation of measures taken by the DRC to implement the arms embargo, including domestic ordinances on the importing and possession of arms and related materiel. Makenga's actions as the leader of M23 have included serious violations of international law and atrocities against the civilian population of the DRC, and have aggravated the conditions of insecurity, displacement, and conflict in the region. A military leader of the Mouvement du 23 Mars (M23) group operating in the Democratic Republic of the Congo.
+
+**9\. Khawa Panga MANDRO**
+
+(alias: a) Kawa Panga, b) Kawa Panga Mandro, c) Kawa Mandro, d) Yves Andoul Karim, e) Mandro Panga Kahwa, f) Yves Khawa Panga Mandro, g) ‘Chief Kahwa’, h) ‘Kawa’)
+
+Date of Birth: 20 August 1973.
+
+Place of Birth: Bunia, Democratic Republic of the Congo.
+
+Address: Uganda (as of May 2016).
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: Placed in prison in Bunia in April 2005 for sabotage of the Ituri peace process. Arrested by Congolese authorities in October 2005, acquitted by the Court of Appeal in Kisangani, subsequently transferred to the judicial authorities in Kinshasa on new charges of crimes against humanity, war crimes, murder, aggravated assault and battery. In August 2014, a DRC military court in Kisangani convicted him of war crimes and crimes against humanity, sentenced him to nine years in prison, and ordered him to pay approximately USD 85 000 to his victims. He served his sentence and resides in Uganda as of May 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272933
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Khawa Panga Mandro was the President of PUSIC, one of the armed groups and militia referred to in paragraph 20 of Res. 1493 (2003) involved in arms trafficking, in violation of the arms embargo. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for recruitment and use of children from 2001 to 2002. He was put in prison in Bunia in April 2005 for sabotage of the Ituri peace process. He was arrested by Congolese authorities in October 2005, acquitted by the Court of Appeal in Kisangani, and subsequently transferred to the judicial authorities in Kinshasa on new charges of crimes against humanity, war crimes, murder, aggravated assault and battery. In August 2014, a DRC military court in Kisangani convicted him of war crimes and crimes against humanity, sentenced him to nine years in prison, and ordered him to pay approximately USD 85 000 to his victims. He served his sentence and resided in Uganda as of May 2016.
+
+**10\. Callixte MBARUSHIMANA**
+
+Designation: FDLR Executive Secretary.
+
+Date of Birth: 24 July 1963.
+
+Place of Birth: Ndusu/Ruhengeri, Northern Province, Rwanda.
+
+Nationality: Rwanda.
+
+Date of UN designation: 3 March 2009.
+
+Other information: Arrested in Paris on 3 October 2010 under ICC warrant for war crimes and crimes against humanity committed by FDLR troops in the Kivus in 2009. Transferred to The Hague on 25 January 2011 and released by the ICC in late 2011. Elected FDLR Executive Secretary on 29 Nov. 2014 for a five-year term. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5224649
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Callixte Mbarushimana was Executive Secretary of the FDLR and Vice-President of the FDLR military high command until his arrest. As a political/military leader of a foreign armed group operating in the Democratic Republic of the Congo, he impeded the disarmament and the voluntary repatriation and resettlement of combatants, per Security Council resolution 1857 (2008) OP 4 (b). He was arrested in Paris on 3 October 2010 under ICC warrant for war crimes and crimes against humanity committed by FDLR troops in the Kivus in 2009. He was transferred to The Hague on 25 January 2011, but released in late 2011. He was re-elected FDLR Executive Secretary on 29 November 2014 for a five-year term.
+
+**11\. Iruta Douglas MPAMO**
+
+(alias: a) Doulas Iruta Mpamo, b) Mpano)
+
+Address: Gisenyi, Rwanda (as of June 2011).
+
+Date of Birth: a) 28 December 1965, b) 29 December 1965.
+
+Place of Birth: a) Bashali, Masisi, Democratic Republic of the Congo, b) Goma, Democratic Republic of the Congo, c) Uvira, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: No known occupation since two of the planes managed by Great Lakes Business Company (GLBC) crashed. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272813
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Owner/Manager of the Compagnie Aérienne des Grands Lacs and of Great Lakes Business Company, whose aircraft were used to provide assistance to armed groups and militias referred to in paragraph 20 of Res. 1493 (2003). Also responsible for disguising information on flights and cargo apparently to allow for the violation of the arms embargo. No known occupation since two of the planes managed by Great Lakes Business Company (GLBC) crashed.
+
+**12\. Sylvestre MUDACUMURA**
+
+(alias: a) Mupenzi Bernard, b) General Major Mupenzi, c) General Mudacumura, d) Pharaoh, e) Radja
+
+Designation: a) FDLR-FOCA Commander, b) FDLR-FOCA Lieutenant General
+
+Date of birth: 1954
+
+Place of birth: Cellule Ferege, Gatumba sector, Kibilira commune, Gisenyi prefecture, Rwanda
+
+Address: North Kivu Province, Democratic Republic of the Congo (as of June 2016)
+
+Nationality: Rwandan.
+
+Date of UN designation: 1 November 2005.
+
+Other information: The International Criminal Court issued an arrest warrant for Mudacumura on 12 July 2012 for nine counts of war crimes, including attacking civilians, murder, mutilation, cruel treatment, rape, torture, destruction of property, pillaging and outrages against personal dignity, allegedly committed between 2009 and 2010 in the DRC.
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Sylvestre Mudacumura is the Commander of FOCA, the armed wing of the FDLR, exercising influence over policies, and maintaining command and control over the activities of FDLR forces, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), involved in trafficking of arms, in violation of the arms embargo. Mudacumura (or staff) was in telephone communication with FDLR leader Murwanashyaka in Germany, including at the time of the Busurungi massacre in May 2009, and military commander Major Guillaume during Umoja Wetu and Kimia II operations in 2009. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for 27 cases of recruitment and use of children by troops under his command in North Kivu from 2002 to 2007. As of mid-2016, Mudacumura was still the overall commander of the FDLR's armed wing, held the rank of Lieutenant General, and was located in North Kivu Province in the Democratic Republic of the Congo.
+
+**13\. Leodomir MUGARAGU**
+
+(alias: a) Manzi Leon, b) Leo Manzi)
+
+Address: FDLR HQ at Kikoma forest, Bogoyi, Walikale, North Kivu, Democratic Republic of the Congo (as of June 2011).
+
+Date of Birth: a) 1954 b) 1953.
+
+Place of Birth: a) Kigali, Rwanda b) Rushashi, Northern Province, Rwanda.
+
+Nationality: Rwanda.
+
+Date of UN designation: 1 December 2010.
+
+Other information: FDLR-FOCA Chief of Staff, in charge of administration. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5270747
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+According to open-source and official reporting, Leodomir Mugaragu is the Chief of Staff of the Forces Combattantes Abucunguzi/Combatant Force for the Liberation of Rwanda (FOCA), the FDLR's armed wing. According to official reporting Mugaragu is a senior planner for FDLR's military operations in the eastern DRC. FDLR-FOCA Chief of Staff, in charge of administration.
+
+**14\. Leopold MUJYAMBERE**
+
+(alias: a) Musenyeri b) Achille c) Frere Petrus Ibrahim)
+
+Designation: a) FDLR-FOCA Chief of Staff, b) FDLR-FOCA Interim Deputy Commander.
+
+Address: Kinshasa, Democratic Republic of the Congo (as of June 2016).
+
+Date of Birth: a) 17 March 1962, b) Approximately 1966.
+
+Place of Birth: Kigali, Rwanda.
+
+Nationality: Rwanda.
+
+Date of UN designation: 3 March 2009.
+
+Other information: Became acting FDLR-FOCA Deputy Commander in 2014. Captured in Goma, DRC by Congolese security services in early May 2016 and transferred to Kinshasa. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5224709
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Leopold Mujyambere was Commander of the Second Division of FOCA, the armed branch of the FDLR. As military leader of a foreign armed group operating in the Democratic Republic of the Congo, he impeded the disarmament and the voluntary repatriation and resettlement of combatants, in violation of Security Council resolution 1857 (2008) OP 4 (b). In evidence collated by the UNSC DRC Sanctions Committee Group of Experts, detailed in its report of 13 February 2008, girls recovered from FDLR-FOCA had previously been abducted and sexually abused. Since mid-2007, FDLR-FOCA, which previously recruited boys in their mid to late teens, has been forcefully recruiting youth from the age of 10 years. The youngest are then used as escorts, and older children are deployed as soldiers on the frontline, in violation of Security Council resolution 1857 (2008) OP4 (d) and (e).
+
+In June 2011, he was the FOCA Commander of the South Kivu operational sector, then called ‘Amazon’. He was later promoted to FOCA Chief of Staff, and then acting Deputy Commander in 2014. He was captured in Goma, DRC by Congolese security services in early May 2016 and transferred to Kinshasa.
+
+**15\. Jamil MUKULU**
+
+(alias: a) Steven Alirabaki, b) David Kyagulanyi, c) Musezi Talengelanimiro, d) Mzee Tutu, e) Abdullah Junjuaka, f) Alilabaki Kyagulanyi, g) Hussein Muhammad, h) Nicolas Luumu, i) Julius Elius Mashauri, j) David Amos Mazengo, k) Professor Musharaf, l) Talengelanimiro)
+
+Designation: a) Head of the Allied Democratic Forces (ADF), b) Commander, Allied Democratic Forces.
+
+Address: reportedly in prison in Uganda (as of September 2016)
+
+Date of Birth: a) 1965, b) 1 January 1964.
+
+Place of Birth: Ntoke Village, Ntenjeru Sub County, Kayunga District, Uganda.
+
+Nationality: Uganda.
+
+Date of UN designation: 12 October 2011.
+
+Other information: Arrested in April 2015 in Tanzania and extradited to Uganda in July 2015. As of September 2016, Mukulu is reportedly being held in a police detention cell awaiting his trial for war crimes and grave breaches of the Geneva Convection under Ugandan Law. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5270670
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+According to public sources and official reports, including reports from UN sanctions committee group of experts on DRC, Jamil Mukulu is the military Head of ADF, foreign armed group operating in DRC, and obstructs the disarmament, repatriation and voluntary resettlement of ADF fighters as foreseen by para.4. b) of Resolution 1857 (2008). The UN sanctions committee group of experts on DRC reported that Jamil Mukulu provided material and human support to ADF as an armed group operating on the DRC territory. According to various sources, including reports from UN sanctions committee group of experts on DRC, Jamil Mukulu has secured funding, exerted influence on ADF policies and assumed direct responsibilities in the command and control of ADF forces, notably in supervising established links with international terrorist networks.
+
+**16\. Ignace MURWANASHYAKA**
+
+(alias: Dr Ignace)
+
+Title: Dr.
+
+Designation: FDLR President
+
+Address: Germany (in prison)
+
+Date of Birth: 14 May 1963
+
+Place of Birth: a) Butera, Rwanda b) Ngoma, Butare, Rwanda
+
+Nationality: Rwanda
+
+Date of UN designation: 1 Nov. 2005
+
+Other information: Died in prison in Germany on 16 April 2019. Arrested by German authorities on 17 November 2009 and found guilty by a German court on 28 September 2015 of leadership of a foreign terrorist group and aiding in war crimes. Received a 13-year sentence and is in prison in Germany as of June 2016. Re-elected FDLR President on 29 November 2014 for a five-year term. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals.
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Ignace Murwanashyaka is the President of the FDLR, exercising influence over policies of FDLR forces, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), involved in trafficking of arms, in violation of the arms embargo. He was in telephone communication with FDLR military field commanders (including during the Busurungi massacre in May 2009); he gave military orders to the high command; he was involved in coordinating the transfer of arms and ammunition to FDLR units and relaying specific instructions for use; and he managed large sums of money raised through illicit sale of natural resources in areas of FDLR control. According to the Office of the SRSG on Children and Armed Conflict, he held command responsibility as President and military commander of FDLR for recruitment and use of children by the FDLR in Eastern Congo. He was arrested by German authorities on 17 November 2009 and found guilty by a German court on 28 September 2015 of leadership of a foreign terrorist group and aiding in war crimes. He received a 13-year sentence and was in prison in Germany as of June 2016. He was re-elected as FDLR President on 29 November 2014 for a five-year term.
+
+**17\. Straton MUSONI**
+
+(alias: IO Musoni)
+
+Designation: Former FDLR Vice President.
+
+Date of Birth: a) 6 April 1961, b) 4 June 1961.
+
+Place of Birth: Mugambazi, Kigali, Rwanda.
+
+Nationality: Rwanda.
+
+Date of UN designation: 29 March 2007.
+
+Other information: Arrested by German authorities on 17 November 2009, found guilty in a German court on 28 September 2015 of leadership of a foreign terrorist group, and received an 8-year sentence. Musoni was released from prison immediately after the trial, having served over 5 years of his sentence. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272354
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Straton Musoni was Vice President of the FDLR, a foreign armed group operating in the DRC. He impeded the disarmament and voluntary repatriation or resettlement of combatants belonging to those groups, in breach of resolution 1649 (2005). He was arrested by German authorities on 17 November 2009, found guilty in a German court on 28 September 2015 of leadership of a foreign terrorist group, and received an 8-year sentence. He was released from prison immediately after the trial, having served over 5 years of his sentence.
+
+**18\. Jules MUTEBUTSI**
+
+(alias: a) Jules Mutebusi, b) Jules Mutebuzi, c) Colonel Mutebutsi)
+
+Date of Birth: 1964.
+
+Place of Birth: Minembwe, South Kivu, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: Former FARDC Deputy Military Regional Commander of 10th Military Region in April 2004, dismissed for indiscipline. In December 2007, he was arrested by Rwandan authorities when he tried to cross the border into the DRC. Reported to have died in Kigali on 9 May 2014. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5272093
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Jules Mutebutsi joined forces with other renegade elements of former RCD-G to take the town of Bukavu in May 2004 by force. He was implicated in the receipt of weapons outside of FARDC structures and the provision of supplies to armed groups and militia mentioned in paragraph 20 of Res. 1493 (2003), in violation of the arms embargo. He was the FARDC Deputy Military Regional Commander of the 10th Military Region until April 2004, when he was dismissed for indiscipline. In December 2007, he was arrested by Rwandan authorities when he tried to cross the border into the DRC. He was reported to have died in Kigali on 9 May 2014.
+
+**19\. Baudoin NGARUYE WA MYAMURO**
+
+(alias: Colonel Baudoin Ngaruye)
+
+Title: Military leader of the Mouvement du 23 Mars (M23).
+
+Designation: Brigadier General.
+
+Address: Rubavu/Mudende, Rwanda.
+
+Date of Birth: a) 1 April 1978 b) 1978.
+
+Place of Birth: a) Bibwe, Democratic Republic of the Congo, b) Lusamambo, Lubero territory, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+National identification no: FARDC ID 1-78-09-44621-80.
+
+Date of UN designation: 30 November 2012.
+
+Other information: Entered the Republic of Rwanda on 16 March 2013. As of late 2014, living in Ngoma camp, Rwanda. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5268954
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+In April 2012, Ngaruye commanded the ex-CNDP mutiny, known as the Mouvement du 23 Mars (M23), under the orders of General Ntaganda. He is currently the third highest ranking military commander within the M23. The Group of experts on the DRC previously recommended him for designation in 2008 and 2009. He is responsible for and has committed severe violations of human rights and international law. He recruited and trained hundreds of children between 2008 and 2009 and then towards the end of 2010 for the M23. He has committed killing, maiming and abductions, often targeting women. He is responsible for executions and torture of deserters within the M23. In 2009 within the FARDC, he gave the orders to kill all men in Shalio village of Walikale. He also provided weapons, munitions and salaries in Masisi and Walikale under the direct orders from Ntaganda. In 2010 he orchestrated the forced displacement and expropriation of populations in the area of Lukopfu. He has also been extensively involved in criminal networks within the FARDC deriving profits from the mineral trade which led to tensions and violence with Colonel Innocent Zimurinda in 2011. Entered the Republic of Rwanda on 16.3.2013 at Gasizi/Rubavu.
+
+**20\. Mathieu, Chui NGUDJOLO**
+
+(alias a) Cui Ngudjolo)
+
+Nationality: Democratic Republic of the Congo.
+
+Address: Democratic Republic of the Congo.
+
+Date of birth: 8 Oct.1970.
+
+Place of birth: Bunia, Ituri Province, Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: Arrested by MONUC in Bunia in October 2003. Surrendered by the Government of the DRC to the International Criminal Court on 7 February 2008. Acquitted of all charges by the ICC in December 2012, and the verdict was upheld by the Appeals Chamber on 27 February 2015. Ngudjolo filed a claim for asylum in the Netherlands, but was denied. He was deported to the DRC on 11 May 2015. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5776118
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Mathieu Chui Ngudjolo was the Chief of Staff of the FRPI, exercising influence over policies and maintaining command and control the activities of FRPI forces, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), responsible for trafficking of arms, in violation of the arms embargo. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for recruitment and use of children under 15 years old in Ituri in 2006. He was arrested by MONUC in Bunia in October 2003. The Government of the DRC subsequently transferred him to the International Criminal Court on 7 February 2008. He was acquitted of all charges by the ICC in December 2012, and the verdict was upheld by the Appeals Chamber on 27 February 2015. Ngudjolo filed a claim for asylum in the Netherlands, but was denied. He was deported to the DRC on 11 May 2015.
+
+**21\. Floribert Ngabu NJABU**
+
+(alias a) Floribert Njabu Ngabu, b) Floribert Ndjabu, c) Floribert Ngabu Ndjabu)
+
+Nationality: Democratic Republic of the Congo, passport no. OB 0243318.
+
+Date of birth: 23 May 1971.
+
+Date of UN designation: 1 November 2005.
+
+Other information: Under house arrest in Kinshasa since March 2005 for FNI involvement in human rights abuses. Transferred to The Hague on 27 March 2011 to testify in the ICC Germain Katanga and Mathieu Ngudjolo trials. Applied for asylum in the Netherlands in May 2011. In October 2012, a Dutch court denied his asylum claim. In July 2014, he was deported from the Netherlands to DRC, where he was placed under arrest. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5776373
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+President of FNI, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), involved in the trafficking of arms, in violation of the arms embargo. Under house arrest in Kinshasa since March 2005 for FNI involvement in human rights abuses. Transferred to The Hague on 27 March 2011 to testify in the ICC Germain Katanga and Mathieu Ngudjolo trials. Applied for asylum in the Netherlands in May 2011. In October 2012, a Dutch court denied his asylum claim; the case is currently on appeal.
+
+**22\. Laurent NKUNDA**
+
+(alias: a) Nkunda Mihigo Laurent, b) Laurent Nkunda Bwatare, c) Laurent Nkundabatware, d) Laurent Nkunda Mahoro Batware, e) Laurent Nkunda Batware, f) Chairman, g) General Nkunda, h) Papa Six)
+
+Date of Birth: a) 6 February 1967 b) 2 February 1967.
+
+Place of Birth: Rutshuru, North Kivu, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: Former RCD-G General. Founder, National Congress for the People's Defense, 2006; Senior Officer, Rally for Congolese Democracy-Goma (RCD-G), 1998-2006; Officer Rwandan Patriotic Front (RPF), 1992-1998. Laurent Nkunda was arrested by Rwandan authorities in Rwanda in January 2009 and replaced as the commander of the CNDP. Since then, he has been under house arrest in Kigali, Rwanda. DRC Government's request to extradite Nkunda for crimes committed in eastern DRC has been refused by Rwanda. In 2010, Nkunda's appeal for illegal detention was rejected by Rwandan court in Gisenyi, ruling that the matter should be examined by a military court. Nkunda's lawyers appealed with the Rwandan Military Court. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5270703
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Joined forces with other renegade elements of former RCD-G to take Bukavu in May 04 by force. In receipt of weapons outside of FARDC in violation of the arms embargo. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for 264 cases of recruitment and use of children by troops under his command in North Kivu from 2002 to 2009. Former RCD-G General. Founder, National Congress for the People's Defense, 2006; Senior Officer, Rally for Congolese Democracy-Goma (RCD-G), 1998-2006; Officer Rwandan Patriotic Front (RPF), 1992-1998. Laurent Nkunda was arrested by Rwandan authorities in Rwanda in January 2009 and replaced as the commander of the CNDP. Since then, he has been under house arrest in Kigali, Rwanda. DRC Government's request to extradite Nkunda for crimes committed in eastern DRC has been refused by Rwanda. In 2010, Nkunda's appeal for illegal detention was rejected by Rwandan court in Gisenyi, ruling that the matter should be examined by a military court. Nkunda's lawyers initiated a procedure with the Rwandan Military Court. Retains some influence over certain elements of the CNDP.
+
+**23\. Felicien NSANZUBUKIRE**
+
+(alias: Fred Irakeza)
+
+Designation: a) FDLR-FOCA Subsector Commander, b) FDLR-FOCA Colonel.
+
+Address: South Kivu Province, Democratic Republic of the Congo (as of June 2016).
+
+Date of Birth: 1967.
+
+Place of Birth: a) Murama, Kigali, Rwanda, b) Rubungo, Kigali, Rwanda, c) Kinyinya, Kigali, Rwanda.
+
+Nationality: Rwanda.
+
+Date of UN designation: 1 December 2010.
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5269078
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Felicien Nsanzubukire supervised and coordinated the trafficking of ammunition and weapons between at least November 2008 and April 2009 from the United Republic of Tanzania, via Lake Tanganyika, to FDLR units based in the Uvira and Fizi areas of South Kivu. As of January 2016, Nsanzubukire was an FDLR FOCA Subsector Commander in South Kivu province and held the rank of Colonel.
+
+**24\. Pacifique NTAWUNGUKA**
+
+(alias: a) Pacifique Ntawungula, b) Colonel Omega, c) Nzeri, d) Israel)
+
+Designation: a) FDLR-FOCA ‘SONOKI’ Sector Commander, b) FDLR-FOCA Brigadier General.
+
+Address: Rutshuru Territory, North Kivu, Democratic Republic of the Congo (as of June 2016).
+
+Date of Birth: a) 1 January 1964, b) Approximately 1964.
+
+Place of Birth: Gaseke, Gisenyi Province, Rwanda.
+
+Nationality: Rwanda.
+
+Date of UN designation: 3 March 2009.
+
+Other information: Received military training in Egypt. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5269021
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Pacifique Ntawunguka was the commander of the First Division of FOCA, the armed wing of the FDLR. As military leader of a foreign armed group operating in the Democratic Republic of the Congo, he impeded the disarmament and the voluntary repatriation and resettlement of combatants, in violation of Security Council resolution 1857 (2008) OP 4 (b). In evidence collated by the UNSC DRC Sanctions Committee Group of Experts, detailed in its report of 13 February 2008, girls recovered from FDLR-FOCA had previously been abducted and sexually abused. Since mid-2007, FDLR-FOCA, which previously recruited boys in their mid to late teens, has been forcefully recruiting youth from the age of 10 years. The youngest are then used as escorts, and older children are deployed as soldiers on the frontline, in violation of Security Council resolution 1857 (2008) OP4 (d) and (e). Received military training in Egypt.
+
+As of mid-2016, Ntawunguka was the FDLR-FOCA ‘SONOKI’ Sector Commander in North Kivu province.
+
+**25\. James NYAKUNI**
+
+Nationality: Uganda.
+
+Date of UN designation: 1 November 2005.
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5776374
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Trade partnership with Jérôme Kakwavu, particularly smuggling across the DRC/ Uganda border, including suspected smuggling of weapons and military material in unchecked trucks. Violation of the arms embargo and provision of assistance to armed groups and militia referred to in paragraph 20 of Res. 1493 (2003), including financial support that allows them to operate militarily.
+
+**26\. Stanislas NZEYIMANA**
+
+(alias: a) Deogratias Bigaruka Izabayo, b) Izabayo Deo, c) Jules Mateso Mlamba, d) Bigaruka, e) Bigurura)
+
+Designation: Former FDLR-FOCA Deputy Commander.
+
+Date of Birth: a) 1 January 1966 b) 28 August 1966 c) Approximately 1967.
+
+Place of Birth: Mugusa, Butare, Rwanda.
+
+Nationality: Rwanda.
+
+Date of UN designation: 3 March 2009.
+
+Other information: Disappeared while in Tanzania in early 2013. Whereabouts unknown as of June 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5275373
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Stanislas Nzeyimana was Deputy Commander of FOCA, the armed branch of the FDLR. As military leader of a foreign armed group operating in the Democratic Republic of the Congo, he impeded the disarmament and the voluntary repatriation and resettlement of combatants, in violation of Security Council resolution 1857 (2008) OP 4 (b). In evidence collated by the UNSC DRC Sanctions Committee Group of Experts, detailed in its report of 13 February 2008, girls recovered from FDLR-FOCA had previously been abducted and sexually abused. Since mid-2007, FDLR-FOCA, which previously recruited boys in their mid to late teens, has been forcefully recruiting youth from the age of 10 years. The youngest are then used as escorts, and older children are deployed as soldiers on the frontline, in violation of Security Council resolution 1857 (2008) OP4 (d) and (e). Nzeyimana disappeared in Tanzania in early 2013, and his whereabouts were unknown as of June 2016.
+
+**27\. Dieudonné OZIA MAZIO**
+
+(alias: a) Ozia Mazio, b) Omari, c) Mr Omari)
+
+Date of Birth: 6 June 1949.
+
+Place of Birth: Ariwara, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: While president of the Fédération des entreprises congolaises (FEC) in Aru territory, Dieudonné Ozia Mazio is believed to have died in Ariwara on 23 September 2008. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5275495.
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Financial schemes with Jerome Kakwavu and FAPC and smuggling across the DRC/Uganda border, allowing supplies and cash to be made available to Kakwavu and his troops. Violation of the arms embargo, including by providing assistance to armed groups and militia referred to in paragraph 20 of Res. 1493 (2003). While president of the Fédération des entreprises congolaises (FEC) in Aru territory, Dieudonné Ozia Mazio is believed to have died in Ariwara on 23 September 2008.
+
+**28\. Jean-Marie Lugerero RUNIGA**
+
+(alias: Jean-Marie Rugerero)
+
+Designation: M23, President.
+
+Address: Rubavu/Mudende, Rwanda.
+
+Date of Birth: a) Approximately 1960, b) 9 September 1966.
+
+Place of Birth: Bukavu, Democratic Republic of the Congo.
+
+Date of UN designation: 31 December 2012.
+
+Other information: Entered the Republic of Rwanda on 16 March 2013. As of 2016, residing in Rwanda. Participated in the creation of a new Congolese political party in June 2016, the Alliance pour le Salut du Peuple (ASP). INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5274633
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+A July 9, 2012 document signed by M23 leader Sultani Makenga named Runiga as the coordinator of the political wing of M23. According to the document, Runiga's appointment was prompted by the need to ensure the visibility of the M23 cause. Runiga was also named as the President of the M23 in postings on the group's website. His leadership role was corroborated by the November 2012 Group of Experts report, which refers to Runiga as the leader of the M23.
+
+According to the 15 November 2012 Final Report of the Group of Experts, Runiga led a delegation that travelled to Kampala, Uganda on July 29, 2012 and finalized the M23 movement's 21-point agenda ahead of anticipated negotiations at the International Conference on the Great Lakes Region. According to a November 23, 2012 BBC article, M23 was formed when former members of the CNDP who had been integrated into the FARDC began to protest against bad conditions and pay, and lack of full implementation of the March 23, 2009 peace deal between the CNDP and the DRC that led to the CNDP's integration into the FARDC. M23 was engaged in active military operations in order to take control of territory in eastern DRC, according to the November 2012 IPIS report. M23 and FARDC fought over control of several towns and villages in eastern DRC on July 24 and July 25, 2012; M23 attacked the FARDC in Rumangabo on July 26, 2012; M23 drove FARDC from Kibumba on November 17, 2012; and M23 took control of Goma on November 20, 2012. According to the November 2012 Group of Experts report, several ex-M23 combatants claim that M23 leaders summarily executed dozens of children who attempted to escape after being recruited as M23 child soldiers. According to a September 11, 2012 report by Human Rights Watch (HRW), a Rwandan man, 18, who escaped after being forcibly recruited in Rwanda told HRW that he witnessed the execution of a 16-year old boy from his M23 unit who had tried to flee in June. The boy was captured and beaten to death by M23 fighters in front of the other recruits. An M23 commander who ordered his killing then allegedly told the other recruits ‘[h]e wanted to abandon us,’ as an explanation for why the boy had been killed. The report also states that witnesses claimed that at least 33 new recruits and other M23 fighters were summarily executed when they attempted to flee. Some were tied up and shot in front of other recruits as an example of the punishment they could receive. One young recruits told HRW, ‘[w]hen we were with M23, they said [we had a choice] and could stay with them or we could die. Lots of people tried to escape. Some were found and then that was immediately their death.’
+
+Runiga entered the Republic of Rwanda on 16 March 2013, at Gasizi/Rubavu. As of mid-2016, Runiga resided in Rwanda. In June 2016, he participated in the creation of the new Congolese political party, the Alliance pour le Salut du Peuple (ASP).
+
+**29\. Ntabo Ntaberi SHEKA**
+
+Designation: Commander-in-Chief, Nduma Defence of Congo, Mayi Mayi Sheka group.
+
+Date of Birth: 4 April 1976.
+
+Place of Birth: Walikale, Walikalele territory, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Address: Goma, North Kivu, Democratic Republic of the Congo (in prison).
+
+Date of UN designation: 28 November 2011.
+
+Other information: He surrendered to MONUSCO on 26 July 2017 and has been since detained by the Congolese authorities. His trial for war crimes, crimes against humanity and participation in an insurrectional movement, before the Military Court in Goma, started in November 2018. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Ntabo Ntaberi Sheka, Commander-in-Chief of the political branch of the Mayi Mayi Sheka, is the political leader of a Congolese armed group that impedes the disarmament, demobilization, or reintegration of combatants. The Mayi Mayi Sheka is a Congo-based militia group that operates from bases in Walikale territory in eastern Democratic Republic of the Congo. The Mayi Mayi Sheka group has carried out attacks on mines in eastern Democratic Republic of the Congo, including taking over the Bisiye mines and extorting from locals. Ntabo Ntaberi Sheka has also committed serious violations of international law involving the targeting of children. Ntabo Ntaberi Sheka planned and ordered a series of attacks in Walikale territory from 30 July to 2 August, 2010, to punish local populations accused of collaborating with Congolese Government forces. In the course of the attacks, children were raped and were abducted, subjected to forced labour and subjected to cruel, inhumane or degrading treatment. The Mayi Mayi Sheka militia group also forcibly recruits boys and holds children in their ranks from recruitment drives.
+
+**30\. Bosco TAGANDA**
+
+(alias a) Bosco Ntaganda, b) Bosco Ntagenda, c) General Taganda, d) Lydia (When he was part of APR), e) Terminator, f) Tango Romeo (Call sign ), g) Romeo (Call sign), h) Major)
+
+Address: Belgium (as of 14 December 2022).
+
+Date of Birth: Between 1973 and 1974.
+
+Place of Birth: Bigogwe, Rwanda.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005 (amended on 13 Oct. 2016, 19 Aug. 2020, 1 Mar. 2023).
+
+Other information: Born in Rwanda, he moved to Nyamitaba, Masisi territory, North Kivu, when he was a child. Nominated FARDC Brigadier-General by Presidential Decree on 11 December 2004, following Ituri peace agreements. Formerly Chief of Staff in CNDP and became CNDP military commander since the arrest of Laurent Nkunda in January 2009. Since January 2009, de facto Deputy Commander of consecutive anti-FDLR operations ‘Umoja Wetu’, ‘Kimia II’, and ‘Amani Leo’ in North and South Kivu. Entered Rwanda in March 2013, and voluntarily surrender to ICC officials in Kigali on March 22. Transferred to the ICC in The Hague, Netherlands. On 9 June 2014, ICC confirmed 13 charges of war crimes and five charges of crimes against humanity against him; the trial started in September 2015. On 8 July 2019, the ICC found him guilty of 18 counts of war crimes and crimes against humanity, committed in Ituri in 2002-2003. On 7 November 2019, he was sentenced to a total of 30 years imprisonment. He has appealed both his conviction and sentence. On 30 March 2021, the ICC Appeals Chamber confirmed his conviction and sentence. On 14 December 2022, he was transferred to the territory of Belgium for enforcement of sentence. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Bosco Taganda was the UPC/L military commander, exercising influence over policies and maintaining command and control over the activities of UPC/L, one of the armed groups and militias referred to in paragraph 20 of Res. 1493 (2003), involved in the trafficking of arms, in violation of the arms embargo. He was appointed General in the FARDC in December 2004, but refused to accept the promotion, therefore remaining outside of the FARDC. According to the Office of the SRSG on Children and Armed Conflict, he was responsible for recruitment and use of children in Ituri in 2002 and 2003, and 155 cases of direct and/or command responsibility for recruitment and use of children in North Kivu from 2002 to 2009. As CNDP Chief of Staff, he had direct and command responsibility for the massacre at Kiwanja in November 2008.
+
+Born in Rwanda, he moved to Nyamitaba in Masisi territory of North Kivu province when he was a child. In June 2011, he resided in Goma and owned large farms in Ngungu area of Masisi territory in North Kivu province. He was nominated FARDC Brigadier-General by Presidential Decree on 11 December 2004, following Ituri peace agreements. He was Chief of Staff in the CNDP and then became the CNDP military commander after the arrest of Laurent Nkunda in January 2009. Starting in January 2009, he was de facto Deputy Commander of consecutive anti-FDLR operations Umoja Wetu, Kimia II, and Amani Leo in North and South Kivu provinces. He entered Rwanda in March 2013, voluntarily surrendered to ICC officials in Kigali on March 22 and was subsequently transferred to the ICC in The Hague, Netherlands. On 9 June 2014, the ICC confirmed 13 charges of war crimes and five charges of crimes against humanity against him. The trial started in September 2015.
+
+**31\. Innocent ZIMURINDA**
+
+(alias: Zimulinda)
+
+Designation: a) M23, Bde Comd, Rank: Colonel, b) Colonel in the FARDC.
+
+Address: Rubavu, Mudende.
+
+Date of Birth: a) 1 September 1972, b) Approximately 1975, c) 16 March 1972.
+
+Place of Birth: a) Ngungu, Masisi territory, North Kivu, Democratic Republic of the Congo, b) Masisi, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 1 December 2010.
+
+Other information: Integrated in the FARDC in 2009 as a Lieutenant Colonel, brigade commander in FARDC Kimia II Ops, based in Ngungu area. In July 2009, Zimurinda was promoted to full Colonel and became FARDC Sector commander in Ngungu and subsequently in Kitchanga in FARDC Kimia II and Amani Leo Operations. Whereas Zimurinda did not appear in the 31 December 2010 DRC Presidential ordinance nominating high FARDC officers, Zimurinda de facto maintained his command position of FARDC 22nd sector in Kitchanga and wears the newly issued FARDC rank and uniform. In December 2010, recruitment activities carried out by elements under the command of Zimurinda were denounced in open source reports. Entered the Republic of Rwanda on 16 March 2013. As of late 2014, residing in Ngoma camp, Rwanda. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5275315
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+According to multiple sources, Lt Col Innocent Zimurinda, in his capacity as one of the commanders of the FARDC 231st Brigade, gave orders that resulted in the massacre of over 100 Rwandan refugees, mostly women and children, during an April 2009 military operation in the Shalio area. The UNSC DRC Sanctions Committee's Group of Experts reported that Lt Col Innocent Zimurinda was witnessed first-hand refusing to release three children from his command in Kalehe, on August 29, 2009. According to multiple sources, Lt Col Innocent Zimurinda, prior to the CNDP's integration into FARDC, participated in a November 2008 CNDP operation that resulted in the massacre of 89 civilians, including women and children, in the region of Kiwanja.
+
+In March 2010, 51 human rights groups working in eastern DRC alleged that Zimurinda was responsible for multiple human rights abuses involving the murder of numerous civilians, including women and children, between February 2007 and August 2007. Lt Col Innocent Zimurinda was accused in the same complaint of responsibility for the rape of a large number of women and girls. According to a May 21, 2010, statement by the Special Representative of the Secretary General for Children and Armed Conflict, Innocent Zimurinda has been involved in the arbitrary execution of child soldiers, including during operation Kimia II. According to the same statement, he denied access by the UN Mission in the DRC (MONUC) to screen troops for minors. According to the UNSC DRC Sanctions Committee's Group of Experts, Lt Col Zimurinda holds direct and command responsibility for child recruitment and for maintaining children within troops under his command. Integrated in the FARDC in 2009 as a Lieutenant Colonel, brigade commander in FARDC Kimia II Ops, based in Ngungu area. In July 2009, Zimurinda was promoted to full Colonel and became FARDC Sector commander in Ngungu and subsequently in Kitchanga in FARDC Kimia II and Amani Leo Operations. Whereas Zimurinda did not appear in the 31 December 2010 DRC Presidential ordinance nominating high FARDC officers, Zimurinda de facto maintained his command position of FARDC 22nd sector in Kitchanga and wears the newly issued FARDC rank and uniform. He remains loyal to Bosco Ntaganda. In December 2010, recruitment activities carried out by elements under the command of Zimurinda were denounced in open source reports. Entered the Republic of Rwanda on 16 March 2013, at Gasizi/Rubavu.
+
+**32\. Muhindo Akili Mundos (alias: (a) Charles Muhindo Akili Mundos; (b) Akili Muhindo; (c) Muhindo Mundos)**
+
+Designation: (a) DRC Armed Forces (FARDC) General, Commander of the 31st Brigade; (b) FARDC Brigadier General
+
+Date of birth: 10 November 1972
+
+Place of birth: Democratic Republic of the Congo
+
+Nationality: Democratic Republic of the Congo
+
+Date of UN designation: 1 February 2018
+
+Other information: Muhindo Akili Mundos is an FARDC General, Commander of the 31st Brigade. He was appointed commander of the FARDC's Operational Sector in the areas of Beni and Lubero, including Operation Sukola I against the Allied Democratic Forces (ADF) in September 2014. He remained in that position until June 2015. He is also a threat to the peace, stability and security of the DRC under UNSCR 2293 paragraph 7(e).
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Reason for listing:
+
+Muhindo Akili Mundos was listed on 1 February 2018 pursuant to criteria set out in resolution paragraph 7(e) of resolution 2293 (2016) as reaffirmed in resolution 2360 (2017).
+
+Additional Information:
+
+Muhindo Akili Mundos was the Congolese army commander responsible for military operations against the ADF during the ‘Sukola I’ operation from August 2014 to June 2015. The FARDC unit under Mundos' command failed to intervene to prevent human rights abuses by the ADF, including attacks targeting civilians. Mundos recruited and equipped former fighters from local armed groups to participate in extra-judicial killings and massacres by the ADF.
+
+While he was commander of the FARDC's Sukola I operation, Mundos also commanded and provided support to a faction of an ADF sub-group known as the ADF-Mwalika. Under Mundos' command, the ADF-Mwalika committed attacks against civilians. FARDC fighters under Mundos' command provided additional support to the ADF-Mwalika during these operations.
+
+**33\. Guidon Shimiray Mwissa**
+
+Date of birth: 13 March 1980
+
+Place of birth: Kigoma, Walikale, Democratic Republic of the Congo
+
+Date of UN designation: 1 February 2018
+
+Other information: Graduated secondary school humanités sociales in Mpofi; joined the armed group commanded by She Kasikila at the age of 16; integrated the FARDC with Kasikila, becoming his battalion S3; injured in 2007, thereafter joining Mai Mai Simba under then-commander ‘Mando’; participated in the creation of the NDC in 2008, becoming the deputy commander in charge of the Aigle Lemabé Brigade. He is also a threat to the peace, stability and security of the DRC under UNSCR 2293 paragraph 7(g).
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Reason for listing:
+
+Guidon Shimiray Mwissa was listed on 1 February 2018 pursuant to criteria set out in resolution paragraph 7(g) of resolution 2293 (2016) as reaffirmed in resolution 2360 (2017).
+
+Additional Information:
+
+‘General’ Guidon Shimiray Mwissa broke away from the Nduma defense du Congo (NDC) and created his own group, NDC-R in 2014.
+
+The NDC-R, led by Guidon Shimiray Mwissa, uses child soldiers and deployed them in armed conflict. The NDC-R is also accused of human rights abuses in the eastern provinces, and of imposing illegal taxes in gold mining areas and using the proceeds to purchase weapons in violation of the arms embargo against the DRC.
+
+**34\. Lucien Nzambamwita (alias: André Kalume)**
+
+Date of birth: 1966
+
+Place of birth: Cellule Nyagitabire, Sector Ruvune, Commune Kinyami, Prefecture Byumba, Rwanda
+
+Nationality: Rwanda
+
+Date of UN designation: 1 February 2018
+
+Other information: He is a threat to the peace, stability and security of the DRC under UNSCR 2293 paragraph 7(j).
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Reason for listing:
+
+Lucien Nzambamwita was listed on 1 February 2018 pursuant to criteria set out in resolution paragraph 7(j) of resolution 2293 (2016) as reaffirmed in resolution 2360 (2017).
+
+Additional Information:
+
+Lucien Nzambamwita (aka André Kalume) is a military leader of the Force Democratique de Liberation du Rwanda (FDLR) operating in the DRC, which undermines the peace, security and stability of the DRC and is responsible for human rights abuses including targeting and killing civilians. The FDLR was sanctioned by the 1533 Committee on 31 December 2012.
+
+**35\. Gédéon Kyungu Mutanga Wa Bafunkwa Kanonga**
+
+Designation: Katangan rebel leader
+
+Date of birth: 1974
+
+Place of birth: Manono Territory, Katanga Province (now Tanganyika Province)
+
+Date of UN designation: 1 February 2018
+
+Other information: Gédéon Kyungu belongs to the Balubakat ethnic group. After completing primary education in Likasi and secondary school in Manono, he obtained a degree in pedagogy. In 1999 he joined the Maï Maï movement, commanding from 2003 one of the most active groups in the province of Katanga. In 2006, he visited UN peacekeeping forces to integrate through the disarmament, demobilisation and reintegration (DDR) process. He escaped from prison in 2011 and surrendered in October 2016. He is a threat to the peace, stability and security of the DRC under UNSCR 2293 paragraph 7(e).
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Reason for listing:
+
+Gédéon Kyungu Mutanga Wa Bafunkwa Kanonga was listed on 1 February 2018 pursuant to criteria set out in resolution paragraph 7(e) of resolution 2293 (2016) as reaffirmed in resolution 2360 (2017).
+
+Additional Information:
+
+As he was the leader of the Bakata Katanga militia (a.k.a. Kata Katanga) between 2011-2014, Gédéon Kyungu Mutanga was involved in serious human rights abuses such as killings and attacks against civilians, notably in rural zones of the Katanga province. As Commander of the armed group Bakata Katanga, which is guilty of serious human rights violations and war crimes, including attacks against civilians, in south-east DRC, Gédéon Kyungu Mutanga is therefore a threat to the peace, stability and security of DRC.
+
+**36\. Seka BALUKU (low quality a.k.a.: a) Mzee Kajaju, b) Musa, c) Lumu, d) Lumonde)**
+
+Designation: Overall leader of the Allied Democratic Forces (ADF)
+
+Date of birth: approximately 1977
+
+Nationality: Uganda
+
+Address: Last known location is Kajuju camp of Medina II, Beni territory, North Kivu, Democratic Republic of the Congo
+
+Date of UN designation: 6 February 2020
+
+Other information: Longtime member of the ADF, Baluku used to be the second in command to ADF founder Jamil Mukulu until he took over after FARDC military operation Sukola I in 2014.
+
+**Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:**
+
+**Reason for listing:**
+
+Seka Baluku was listed on 6 February 2020 pursuant to paragraph 7 of resolution 2293 (2016) for engaging in or providing support for acts that undermine the peace, stability and security of the DRC.
+
+**Additional Information:**
+
+Overall leader of the ADF. As highlighted in several reports from the Group of Experts on the DRC (S/2015/19, S/2015/797, S/2016/1102, S/2017/672, S/2018/531, S/2019/469, S/2019/974), Seka Baluku has committed, planned and/or directed the repeated targeting, killing and maiming, rape and other sexual violence, abduction of civilians, including children, as well as attacks on health facilities, in particular in Mamove, Beni territory, on 12 and 24 February 2019, as well as the continuous recruitment and use of children during attacks and for forced labour in Beni territory in the DRC since at least 2015.
+
+**37\. Bernard Maheshe BYAMUNGU**
+
+(alias: Tiger One)
+
+Designation: a) Brigadier General b) Deputy Commander of operations and intelligence for M23.
+
+Date of birth: 10 October 1974.
+
+Place of birth: Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Address: Democratic Republic of the Congo.
+
+Date of UN designation: 25 October 2023.
+
+Other information: Listed pursuant to paragraphs 7(c) and 7(h) of resolution 2293 (2016) as ‘being political and military leaders of Congolese militias, including those receiving support from outside the DRC, who impede the participation of their combatants in disarmament, demobilization and reintegration processes’ and ‘acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity’, as reaffirmed by paragraph 2 of resolution 2688 (2023). As a leader of M23, he is involved in promulgating and supporting the armed group’s activities. He was promoted in January 2023 to Brigadier for the Congolese Revolutionary Army, the M23 armed branch. He was then appointed chief of staff and deputy to Sultani Makenga, and has validated the planning for every M23 operation in DRC since then. A warrant has been issued by Congolese authorities for his arrest.
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Reason for listing: Bernard Maheshe BYAMUNGU was listed on 25 October 2023 pursuant to paragraph 7 (c) and 7 (h) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023): He has engaged and continues to engage in acts that undermine the peace and security of the DRC. He is a military leader of a Congolese militia which received support from outside the DRC and which impedes the disarmament and reintegration process. Bernard Maheshe BYAMUNGU leads M23, a designated entity.
+
+Additional information: Bernard Maheshe BYAMUNGU has consistently and repeatedly abused his power in roles of military leadership within several armed groups to commit human rights abuses in the DRC. Bernard Maheshe BYAMUNGU was a senior RCD-Goma military commander of the 8th Brigade. During this time, he planned and directed atrocities in Kindu, including public extrajudicial executions of three soldiers on the streets of Kindu. He later was responsible for large numbers of opportunistic killings of civilians in Kivu, which constitute human rights abuses. Since at least 2012, Bernard Maheshe BYAMUNGU has been an affiliate and leader of sanctioned entity M23. Since October 2022, Bernard Maheshe BYAMUNGU has been the Deputy Commander of operations and intelligence for M23, which committed atrocities against civilians in, amongst others, Kishishe on 29 November 2022.
+
+**38\. Protogène RUVUGAYIMIKORE**
+
+(alias: a) Ruhinda b) Gaby Ruhinda c) Zorro Midende d) Gatokarakura)
+
+Designation: Commander of the FDLR special unit, ‘Commando de recherche et d’action en profondeur’, (‘CRAP’), now called Maccabe.
+
+Date of birth: a) 1968 b) 1969 c) 1970.
+
+Place of birth: a) Karandaryi Cell, Mwiyanike Sector, Karago Commune, Gisenyi Prefecture, Rwanda b) Nyabihu District, Western Province, Rwanda.
+
+Address: Nyiragongo, North Kivu, Democratic Republic of the Congo.
+
+Date of UN designation: 25 October 2023.
+
+Other information: Listed pursuant to paragraphs 7(b), 7(e), and 7(h) of resolution 2293 (2016) as ‘being political and military leaders of foreign armed groups operating in the DRC who impede the disarmament and the voluntary repatriation or resettlement of combatants belonging to those groups’; ‘committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals’; and ‘acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity’, as reaffirmed by paragraph 2 of resolution 2688 (2023). As a leader of FDLR, he has effective command and control over that group’s combatants.
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Reason for listing: Protogène RUVUGAYIMIKORE was listed on 25 October 2023 pursuant to Paragraphs 7 (b), 7(e), and 7(h) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023).
+
+Protogène RUVUGAYIMIKORE is involved in planning, directing, or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability, and insecurity in the DRC.
+
+Protogène RUVUGAYIMIKORE leads a unit of the FDLR, a sanctioned entity and acts on behalf of designated individuals.
+
+Additional information: Protogène RUVUGAYIMIKORE is a leader in the Democratic Forces for the Liberation of Rwanda — Forces Combattantes Abacunguzi (FDLR-FOCA), a sanctioned armed group operating in the Eastern DRC. He leads the special unit ‘Commando de recherche et d’action en profondeur’ (CRAP) (now called Maccabe) of FDLR-FOCA. As of at least 2023, FDLR-FOCA is actively recruiting and training new combatants to reinforce Protogène RUVUGAYIMIKORE’S special unit.
+
+In his position in the FDLR-FOCA, Protogène RUVUGAYIMIKORE is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability, and insecurity in the DRC. Protogène RUVUGAYIMIKORE oversees training and recruitment of combatants for a designated entity and works directly with sanctioned individuals ‘Lieutenant-General’ GASTON IYAMUREMYE and ‘General’ PACIFIQUE NTAWUNGUKA.
+
+**39\. Apollinaire HAKIZIMANA**
+
+(alias: a) AMIKWE LEPIC b) LE POÈTE c) ADONIA)
+
+Designation: a) Lieutenant General b) Commissioner for Defence for the Forces Démocratiques de Libération du Rwanda — Forces Combattantes Abacunguzi (FDLR-FOCA).
+
+Date of birth: 1964.
+
+Date of UN designation: 20 February 2024.
+
+Other information: Listed pursuant to paragraphs 7(b), 7(e) and 7(h) of resolution 2293 (2016) as ‘being political and military leaders of foreign armed groups operating in the DRC who impede the disarmament and the voluntary repatriation or resettlement of combatants belonging to those groups’; ‘planning, directing, or committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals’; and ‘acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity,’ as extended by resolution 2688 (2023). As a military leader of FDLR-FOCA, Apollinaire HAKIZIMANA is involved in promulgating and supporting the group’s activities.
+
+The ‘Forces démocratiques de libération du Rwanda-Forces combattantes abacunguzi’ (FDLR-FOCA), a non-governmental armed group operating in Eastern DRC sustains armed conflict, instability and insecurity in the DRC and is responsible for serious human rights abuses in that country, including killings of civilians, and grave violations, such as rape and other acts of sexual violence and abduction including against children. FDLR-FOCA is led by sanctioned individuals ‘Lieutenant-General’ Gaston Iyamuremye, alias Rumuli or Victor Byiringiro and ‘General’ Pacifique Ntawunguka, alias Omegam.
+
+As a leader of the FDLR-FOCA, Apollinaire HAKIZIMANA is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability, and insecurity in the DRC. As a Lieutenant General and the Commissioner of Defence of FDLR-FOCA, Apollinaire HAKIZIMANA leads a designated entity alongside designated individuals.
+
+**40\. Ahmad Mahmood HASSAN**
+
+(alias: a) Ahmed Mahamud Hassan ALIYANI b) Ahmad Mahmoud HASSAN c) Ahmad Mahamood HASSAN d) Ahmed Mahmoud HASSAN e) Abu WAQAS f) SAINT JOYAGE g) JUNDI h) ABWAKASI i) ABUWAKAS j) MURABU k) MARABOU l) MWARABU m) LEBLANC)
+
+Designation: a) Lieutenant general b) Senior leader of the Allied Democratic Forces (ADF).
+
+Date of birth: a) 21 July 1997 b) 1993.
+
+Nationality: United Republic of Tanzania.
+
+Passport number: a) United Republic of Tanzania AB850901 expires 11 December 2026 b) United Republic of Tanzania AB187304 (Expired 28 November 2016).
+
+Address: Democratic Republic of the Congo.
+
+Date of UN designation: 20 February 2024.
+
+Other information: Ahmad Mahmood HASSAN was listed on 20 February 2024 pursuant to paragraphs 7(b), 7(e), and 7(h) of resolution 2293 (2016) and paragraph 3 of resolution 2641 (2022), as reaffirmed by paragraph 2 of resolution 2688 (2023). Ahmad Mahmood HASSAN leads a unit of a sanctioned entity and foreign armed group operating in the DRC: the Allied Democratic Forces (ADF). As a leader of ADF, Ahmad Mahmood HASSAN has effective command and control over the group’s combatants. Ahmad Mahmood HASSAN is involved in planning, directing, or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability, and insecurity in the DRC. Ahmad Mahmood HASSAN is involved in the production and manufacture of improvised explosive devices in the DRC, as well as the planning, ordering, aiding, abetting or otherwise assisting with attacks in the DRC with improvised explosive devices.
+
+In reference to paragraph 7(b) of resolution 2293 (2016): the 2021 final report of the UN Group of Experts on the DRC states that Ahmad Mahmood HASSAN, as ‘commander of a camp in Irungu/Mwalika, received new recruits to whom he provided military and ideological training’. He is therefore also responsible for sustaining the armed conflict, instability and insecurity in the DRC.
+
+In reference to paragraph 7(e) of resolution 2293 (2016): Ahmad Mahmood HASSAN has been directly involved in the planning and conduct of ADF attacks, including a 16 June 2023 attack on the Lhubiriha Secondary School in Uganda, a bombing in the small town of Kasindi (Beni territory) on 15 January 2023, and a bomb attack in Goma on 7 April 2022 which killed six persons and injured 16 others.
+
+Ahmad Mahmood HASSAN is one of the main sponsors of the attacks on Ugandan territory: Mpondwe, on June 16, 2023(42 civilians killed), and Queen Elizabeth National Park, on 17 October 2023 (three civilians killed). According to Congolese and Ugandan sources, he directly trained and directed the commando units who carried out the attacks in Uganda from the DRC, including the ADF commander MUSA KAMUSI. Ahmad Mahmood HASSAN, along with senior official MEDDIE NKALUBO, has since 2023 spearheaded major ADF planned attacks on Ugandan territory.
+
+On the evening of 7 April 2022, an explosion occurred at a bar in the Mabanga Sud neighbourhood of Goma, also known as Katindo military camp. Six persons were killed and at least 16 were injured. Evidence collected on site by the UN Group of Experts, corroborated by FARDC sources, forensic doctors, witness accounts and ADF sources, indicated that the blast was the result of an explosive vest worn by a woman killed in the attack. Three ADF collaborators and three intelligence sources reported that the attack had been planned by ADF, relying on its collaborator network in Goma. At least three individuals, identified as ‘Hassan’, ‘Yusuf’ and ‘Masika’, were part of the ADF network in Goma and had received instructions from Meddie Nkalubo and Abwakasi (HASSAN). This attack marked the first documented ADF attack in Goma involving an improvised explosive device.
+
+The 2023 final report of the UN Group of Experts on the DRC also states that HASSAN ‘was the one taking the final decision regarding the location and the dates of the IED attacks, and that he required the attacks to inflict the maximum number of casualties.’ Owing to his senior leadership position within the ADF and his direct involvement in the planning and conduct of ADF attacks, Ahmad Mahmood HASSAN is therefore involved in planning, directing or committing acts in the DRC that constitute human rights violations or abuses.
+
+In reference to paragraph 7(h) of resolution 2293 (2016): the 2021 final report of the UN Group of Experts on the DRC states that Ahmad Mahmood HASSAN, as ‘commander of a camp in Irungu/Mwalika, received new recruits to whom he provided military and ideological training’. He is therefore acting on behalf of the ADF.
+
+In reference to paragraph 3 of resolution 2641 (2022): the 2021 final report of the UN Group of Experts states that Ahmad Mahmood HASSAN was ‘responsible for building most ADF IEDs and the armoury in his camp.’ The 2023 final report of the UN Group of Experts on the DRC also contains details of a number of bombs built by Ahmad Mahmood HASSAN, including the IED which exploded in a crowded market in Beni town on 25 January 2023. Ahmad Mahmood HASSAN is involved in the production and manufacture of improvised explosive devices in the DRC. That 2023 final report also states that Ahmad Mahmood HASSAN ‘was the one taking the final decision regarding the location and the dates of the IED attacks, and that he required the attacks to inflict the maximum number of casualties.’ Owing to his senior leadership position within the ADF and his direct involvement in the planning and conduct of ADF attacks, Ahmad Mahmood HASSAN is therefore involved in the commission, planning, ordering, aiding, abetting or otherwise assistance of attacks in the DRC with improvised explosive devices.
+
+**41\. Michel RUKUNDA**
+
+(alias: MAKANIKA)
+
+Designation: Commander and military leader of the armed group Twirwaneho.
+
+Date of birth: 12 September 1974.
+
+Place of birth: Minembwe, South Kivu, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Address: Democratic Republic of the Congo.
+
+Date of UN designation: 20 February 2024.
+
+Other information: Listed pursuant to paragraph 7(c), 7(d), and 7(e) of resolution 2293 (2016) as ‘being political and military leaders of Congolese militias, including those receiving support from outside the DRC, who impede the participation of their combatants in disarmament, demobilization and reintegration processes’; ‘recruiting or using children in armed conflict in the DRC in violation of applicable international law’; ‘planning, directing, or committing acts in the DRC that constitute human rights violations or abuses or violations of international humanitarian law, as applicable, including those acts involving the targeting of civilians, including killing and maiming, rape and other sexual violence, abduction, forced displacement, and attacks on schools and hospitals’ and ‘acting on behalf of or at the direction of a designated individual or entity, or acting on behalf of or at the direction of an entity owned or controlled by a designated individual or entity’, as extended by resolution 2688 (2023). As a military leader of an armed Congolese militia, Michel RUKUNDA is involved in promulgating and supporting the group’s activities.
+
+Michel RUKUNDA is commander and overall military leader of the armed group Twirwaneho, active in South Kivu. Under his command, this group recruits children as young as 12 years old for active participation in hostilities, including as guards, armed personal escorts for Michel RUKUNDA, and combatants. Children have been recruited, including by force, almost exclusively from the Banyamulenge community. Under Michel RUKUNDA’s leadership of Twirwaneho, the armed group has killed and punished civilians for refusing to join or allowing their children to join.
+
+**42\. Mohamed Ali NKALUBO**
+
+(alias: a) Meddie NKALUBO b) Meddie LEE c) KASIBANTE d) Abou SHAUKAN e) DEFENDER f) PUNNY BOY g) Abdul JIHAD h) Abu SHAUKAN i) PUNISHER)
+
+Designation: Allied Democratic Forces (ADF) senior leader for operations/organization/support, and also communication and propaganda.
+
+Date of birth: a) 1987 b) 1988 c) 1991 d) 1992 e) 1993.
+
+Place of birth: Kampala, Uganda.
+
+Nationality: Uganda.
+
+Address: Democratic Republic of the Congo.
+
+Date of UN designation: 20 February 2024.
+
+Other information: Listed pursuant to paragraphs 7(b), 7(d), 7(e) and 7(h) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023): Mohamed Ali NKALUBO has engaged and continues to engage in acts that constitute serious human rights violations or abuses in the DRC and undermine the peace and security of the DRC. Mohamed Ali NKALUBO has a major role in the ADF armed group, a designated entity. As an ADF senior leader, he shares responsibility for crimes committed by ADF (killings, abduction, lootings, recruitment of child soldiers, sexual abuse, and illegal trade, mining, taxation, and arms proliferation) and is responsible for justifying the repeated and deliberate attacks committed by the group against civilians in Ituri and North Kivu. He was also identified as the person responsible for fabrication of arms for ADF and responsible for ADF rapprochement with the ISIL/Islamic State as early as 2017.
+
+Mohamed Ali NKALUBO has consistently and repeatedly abused his power as a military leader of the sanctioned entity ADF, thereby undermining the peace and security of the DRC and committing human rights abuses in the DRC. He planned or participated in planning several attacks on the DRC territory. On 15 January 2023, an ADF explosive device detonated in the Pentecostal Church in Kasindi, 56 km southeast of the city of Beni (North Kivu province). The explosion, which occurred during a church service, killed at least 13 civilians and injured over 76 others. On 2 and 3 April 2023, ADF carried out a series of attacks resulting in at least 31 civilians killed near the border of the Mambasa and Irumu territories (Ituri province). On 7 April 2023, ADF elements ambushed and killed at least 24 civilians, including 14 men and 10 women, in the village of Musamdaba near Enebuela, 25 km northwest of the city of Beni. On 11 April 2023, a MONUSCO patrol, responding to a reported attack at Mabelenga (Ituri province), was ambushed by ADF elements. As coordinator of ADF external operations, Mohamed Ali NKALUBO coordinates ADF logistics and facilitation networks. Since 2021, Mohamed Ali NKALUBO has transferred funding to ADF operatives in support of operations across the Great Lakes region. As the primary builder of explosive devices in the group, he trained the suicide bomber that conducted the 7 April 2022 Katindo attack. Mohamed Ali NKALUBO also directed the 23 October 2021 attack on a restaurant in Kampala, Uganda, targeting a location reportedly frequented by Ugandan officials. He was also directly involved in an attempted attack in Rwanda in August and September 2021. He is a close associate of the Tanzanian national Ahmed Mahmoud HASSAN alias ABU WAKAS or ABWAKASI, one of the main sponsors of the attacks on Ugandan soil: Mpondwe, on 16 June 2023, and Queen Elizabeth Park, on 17 October 2023.
+
+His name appears in the 2023 final report of the UN Group of Experts on the DRC.
+
+**43\. William Amuri YAKUTUMBA**
+
+(alias: YAKUTUMBA)
+
+Designation: a) Secretary General and leader for the Coalition Nationale du Peuple pour la Souveraineté du Congo (CNPSC) (until February 2023) b) founder and leader for MAI-MAI YAKUTUMBA.
+
+Date of birth: a) 1970 b) 1972.
+
+Place of birth: Lunbondja, Fizi Territory, South Kivu, Democratic Republic of the Congo.
+
+Nationality: Democratic Republic of the Congo.
+
+Date of UN designation: 20 February 2024.
+
+Other information: Listed pursuant to paragraphs 7(c), 7(d), 7(e) and 7(g) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023): William Amuri YAKUTUMBA has engaged and continues to engage in acts that constitute serious human rights violations or abuses in the DRC and undermine the peace and security of the DRC.
+
+William Amuri YAKUTUMBA has consistently and repeatedly abused his power in roles of military leadership within the MAI MAI YAKUTUMBA militia to undermine the peace and security of the DRC, including through illicit trade and exploitation of natural resources, and the commission of human rights abuses in the DRC, including rape, mass rape and other forms of sexual and gender-based violence. He planned or participated in planning several attacks on the DRC territory, in South and North Kivu provinces. As of 2021, the MAI MAI coalition engaged in clashes with the Twirwaneho armed group, attacking Banyamulenge civilians. Several attacks were launched in villages around Bibokoboko in October 2021, killing about 30 Banyamulenge civilians, including women and children, and leading to mass displacement. In 2021 the MAI MAI YAKUTUMBA militia took control of the Makungu, Kuwa and Mitondo gold mines located around Misisi town, and the production and trade in gold originating from them. In February 2023, William Amuri YAKUTUMBA was dismissed from the CNPSC leadership due to disagreement from the Coalition Political Directory, when he unilaterally decided to transfer to North Kivu and fight M23.
+
+His name appears in the 2023 final report of the UN Group of Experts on the DRC (see Annex 73: Impact of M23 crisis on South Kivu).
+
+**44\. Willy NGOMA**
+
+Designation: a) Major b) Military spokesperson for M23.
+
+Date of birth: 1974.
+
+Nationality: Democratic Republic of the Congo.
+
+Address: Democratic Republic of the Congo.
+
+Date of UN designation: 20 February 2024.
+
+Other information: Listed pursuant to paragraphs 7(c), 7(e), and 7(h) of resolution 2293 (2016), as reaffirmed by paragraph 2 of resolution 2688 (2023): Willy NGOMA has engaged and continues to engage in acts that undermine the peace and security of the DRC. He is a military leader and spokesperson of M23, a Congolese militia which received support from outside the DRC and which impedes the disarmament and reintegration processes. Willy NGOMA has a major role in a designated entity.
+
+Willy NGOMA has consistently and repeatedly abused his power in roles of military leadership within the sanctioned entity M23 to undermine the peace and security of the DRC.
+
+Willy NGOMA has been the military spokesperson of sanctioned entity M23. As the M23 military spokesperson, he shares responsibility for crimes committed by M23 (killings, abduction, lootings, recruitment of child soldiers, sexual abuse, and illegal trade, mining, taxation, and arms proliferation) and is directly responsible for having justified and communicated on the repeated M23 attacks in the East of DRC.
+
+His name appears in the 2023 final report of the UN Group of Experts on the DRC (see, inter alia, Annex 25: M23 Leadership and structure; Annex 26: Additional information on M23 weaponry and military equipment).
+
+b) List of entities referred to in Articles 2 and 2a.
+
+**1\. ADF (ALLIED DEMOCRATIC FORCES)**
+
+(Alias: a) Forces Démocratiques Alliées-Armée Nationale de Libération de l'Ouganda; b) ADF/NALU; c) NALU)
+
+Address: North Kivu Province, Democratic Republic of the Congo.
+
+Date of UN designation: 30 June 2014.
+
+Other Information: ADF founder and leader, Jamil Mukulu, was arrested in Dar es Salaam, Tanzania in April 2015. He was subsequently extradited to Kampala, Uganda in July 2015. As of June 2016, Mukulu is reportedly being held in a police detention cell awaiting his trial. Seka Baluku succeeded Jamil Mukulu as the overall leader of the ADF. As highlighted in several reports from the UN Group of Experts on the DRC (S/2015/19, S/2015/797, S/2016/1102, S/2017/672, S/2018/531, S/2019/469, S/2019/974, S/2020/482), the ADF, including under Seka Baluku’s leadership, continued to commit the repeated targeting, killing and maiming, rape and other sexual violence, abduction of civilians, including children, as well as attacks on villages and health facilities, in particular in Mamove, Beni territory, on 12 and 24 February 2019, and Mantumbi, Beni territory, on 5 December 2019 and 30 January 2020, as well as the continuous recruitment and use of children during attacks and for forced labour in Beni territory in the DRC since at least 2015. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+The Allied Democratic Forces (ADF) was created in 1995 and is located in the mountainous DRC-Uganda border area. According to the United Nations Group of Experts on the Democratic Republic of the Congo's (‘GoE’) 2013 final report, citing Ugandan officials and UN sources, in 2013 the ADF had an estimated strength of 1 200 to 1 500 armed fighters located in north-east Beni Territory of North Kivu province, close to the border with Uganda. These same sources estimate ADF's total membership — including women and children — to be between 1 600 and 2 500 . Due to offensive military operations by the Congolese Armed Forces (FARDC) and the UN Organization Stabilization Mission in the DRC (MONUSCO) conducted in 2013 and 2014, ADF dispersed its fighters to numerous smaller bases, and moved women and children to areas west of Beni, and along the Ituri-North Kivu border. The ADF's military commander is Hood Lukwago and its supreme leader is the sanctioned individual Jamil Mukulu.
+
+The ADF has committed serious violations of international law and UNSCR 2078 (2012), including as detailed below.
+
+The ADF has recruited and used child soldiers in violation of applicable international law (UNSCR paragraph 4 (d)).
+
+The GoE's 2013 final report stated that the GoE interviewed three former ADF fighters who had escaped during 2013 and who described how ADF recruiters in Uganda lure people to the DRC with false promises of employment (for adults) and free education (for children) and then force them to join the ADF. Also according to the GoE's report, former ADF fighters told the GoE that the ADF's training groups typically include adult men and boys and two boys who escaped from the ADF in 2013 told the GoE that they had received military training from the ADF. The GoE report also includes an account of ADF's training by a ‘former ADF child soldier’.
+
+According to the GoE's 2012 final report, the ADF recruits include children, as exemplified by the case of an ADF recruiter who was captured by Ugandan authorities in Kasese with six young boys on his way to the DRC in July 2012.
+
+A specific example of the ADF's recruitment and use of children is seen in a 6 January 2009 letter from the former Africa Director for Human Rights Watch, Georgette Gagnon, to Uganda's former Minister of Justice, Kiddhu Makubuyu, stating that a boy named Bushobozi Irumba was abducted at 9 years of age by the ADF in 2000. He was required to provide transport and other services to ADF fighters.
+
+In addition, ‘The Africa Report’ cited allegations that the ADF is allegedly recruiting children as young as 10 years of age as child soldiers and cited a Uganda People's Defence Force (UPDF) spokesperson as stating that the UPDF rescued 30 children from a training camp on Buvuma Island in Lake Victoria.
+
+The ADF has also committed numerous violations of international human rights and international humanitarian law against women and children, including killing, maiming, and sexual violence (UNSCR paragraph 4 (e)).
+
+According to the GoE 2013 final report, in 2013 the ADF attacked numerous villages, which prompted more than 66 000 people to flee into Uganda. These attacks depopulated a large area, which ADF has since controlled by abducting or killing people who return to their villages. Between July and September 2013, ADF decapitated at least five people in the Kamango area, shot several others, and kidnapped dozens more. These actions terrorized the local population and deterred people from returning home.
+
+The Global Horizontal Note, a monitoring and reporting mechanism of grave violations against children in situations of armed conflict, reported to the Security Council's Working Group on Children and Armed Conflict (CAAC) that during the October to December 2013 reporting period, ADF was responsible for 14 of the 18 child casualties documented, including in an incident on 11 December 2013, in Beni territory, North Kivu, when ADF attacked the village of Musuku, killing 23 people, including 11 children (three girls and eight boys), aged 2 months to 17 years. All victims had all been severely mutilated with machetes, including two children who survived the attack.
+
+The March 2014 Report of the Secretary General on Conflict Related Sexual Violence identifies the ‘Allied Democratic Forces — National Army for the Liberation of Uganda’ on its list of ‘Parties credibly suspected of committing or being responsible for rape or other forms of sexual violence in situations of armed conflict.’
+
+The ADF has also participated in attacks against MONUSCO peacekeepers (UNSCR paragraph 4 (i)).
+
+Finally, the United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO) reported that ADF has conducted at least two attacks on MONUSCO peacekeepers. The first, on 14 July 2013, was an attack on a MONUSCO patrol on the road between Mbau and Kamango. This attack is detailed in the 2013 GoE final report. The second attack occurred on March 3, 2014. A MONUSCO vehicle was attacked with grenades ten kilometers from the Mavivi airport in Beni, resulting in injuries to five peacekeepers.
+
+ADF founder and leader, Jamil Mukulu, was arrested in Dar es Salaam, Tanzania in April 2015. He was subsequently extradited to Kampala, Uganda in July 2015. As of June 2016, he is being held in a police detention cell awaiting his trial.
+
+**2\. BUTEMBO AIRLINES (BAL)**
+
+Address: Butembo, Democratic Republic of the Congo.
+
+Date of UN designation: 29 March 2007.
+
+Other information: Privately-owned airline, operates out of Butembo. Since December 2008, BAL no longer holds an aircraft operating license in the DRC. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278478
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Kisoni Kambale (deceased on 5 July 2007 and subsequently de-listed on 24 April 2008) used his airline to transport FNI gold, rations and weapons between Mongbwalu and Butembo. This constitutes ‘provision of assistance’ to illegal armed groups in breach of the arms embargo of resolutions 1493 (2003) and 1596 (2005). Privately-owned airline, operates out of Butembo. Since December 2008, BAL no longer holds an aircraft operating license in the DRC.
+
+**3\. COMPAGNIE AERIENNE DES GRANDS LACS (CAGL); GREAT LAKES BUSINESS COMPANY (GLBC)**
+
+Address: a) Avenue Président Mobutu, Goma, Democratic Republic of the Congo, b) Gisenyi, Rwanda, c) PO BOX 315, Goma, Democratic Republic of the Congo.
+
+Date of UN designation: 29 March 2007.
+
+Other information: As of December 2008, GLBC no longer had any operational aircraft, although several aircraft continued flying in 2008 despite UN sanctions. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278381
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+CAGL and GLBC are companies owned by Douglas MPAMO, an individual already subject to sanctions under resolution 1596 (2005). CAGL and GLBC were used to transport arms and ammunition in violation of the arms embargo of resolutions 1493 (2003) and 1596 (2005). As of December 2008, GLBC no longer had any operational aircraft, although several aircraft continued flying in 2008 despite UN sanctions.
+
+**4\. CONGOMET TRADING HOUSE**
+
+Address: Butembo, North Kivu.
+
+Date of UN designation: 29 March 2007.
+
+Other information: No longer exists as a gold trading house in Butembo, North Kivu. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278420
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Congomet Trading House (formerly listed as Congocom) was owned by Kisoni Kambale (deceased on 5 July 2007 and subsequently de-listed on 24 April 2008). Kambale acquired almost all the gold production in the Mongbwalu district, which was controlled by the FNI. The FNI derived substantial income from taxes imposed on this production. This constitutes ‘provision of assistance’ to illegal armed groups in breach of the arms embargo of resolutions 1493 (2003) and 1596 (2005). No longer exists as a gold trading house in Butembo, North Kivu.
+
+**5\. FORCES DEMOCRATIQUES DE LIBERATION DU RWANDA (FDLR)**
+
+(alias: a) FDLR, b) Force Combattante Abacunguzi, c) Combatant Force for the Liberation of Rwanda, d) FOCA)
+
+Address: a) North Kivu, Democratic Republic of the Congo, b) South Kivu, Democratic Republic of the Congo.
+
+Date of UN designation: 31 December 2012.
+
+Other information: Email: Fdlr@fmx.de; fldrrse@yahoo.fr; fdlr@gmx.net; fdlrsrt@gmail.com; humura2020@gmail.com. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278442
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+The FDLR is one of the largest foreign armed groups operating in the territory of the DRC. The group was formed in 2000, and has committed serious violations of international law involving the targeting of women and children in armed conflict, including killing and maiming, sexual violence, and forced displacement. According to a 2010 report from Amnesty International, the FDLR were responsible for the killings of ninety-six civilians in Busurungi, Walikale territory. Some of the victims were burned alive in their homes. According to the same source, in June 2010, an NGO medical centre reported around sixty cases a month of girls and women who had been raped in the southern Lubero territory, North-Kivu by armed groups including the FDLR. According to a December 20, 2010 report from Human Rights Watch (HRW), there has been documented evidence of the FDLR actively conducting child recruitment. HRW identified at least 83 Congolese children under the age of 18, some as young as 14, who had been forcibly recruited by the FDLR. In January 2012, HRW reported that FLDR combatants attacked numerous villages in the Masisi territory, killing six civilians, raping two women, and abducting at least 48 people.
+
+According to a June 2012 report from HRW, in May 2012 FDLR fighters attacked civilians in Kamananga and Lumenje, in South Kivu province, as well as in Chambucha, Walikale territory, and villages in the Ufumandu area of Masisi territory, North Kivu province. In these attacks, FDLR fighters with machetes and knives hacked to death dozens of civilians, including numerous children. According to the June 2012 Group of Experts Report, the FDLR attacked several villages in South Kivu from December 31, 2011 to January 4, 2012. A United Nations investigation confirmed that at least 33 persons, including 9 children and 6 women, had been killed, either burned alive, decapitated or shot during the attack. In addition, one woman and one girl had been raped. The June 2012 Group of Experts Report also states that a United Nations investigation confirmed that the FDLR massacred at least 14 civilians, including 5 women and 5 children in South Kivu in May 2012. According to the November 2012 Group of Experts report, the UN documented at least 106 incidents of sexual violence committed by the FDLR between December 2011 and September 2012. The November 2012 Group of Experts report notes that, according to a UN investigation, the FDLR raped seven women in the night of 10 March 2012, including a minor, in Kalinganya, Kabare territory. The FDLR attacked the village again on 10 April 2012 and raped three of the women for the second time. The November 2012 Group of Experts report also reports 11 killings by the FDLR in Bushibwambombo, Kalehe on 6 April 2012, and FDLR involvement in 19 further killings in Masisi territory, including five minors and six women, in May.
+
+**6\. M23**
+
+(alias: Mouvement du 23 mars).
+
+Date of UN designation: 31 December 2012.
+
+Other Information: Email: mouvementdu23mars1@gmail.com. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5277973
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+The Mouvement Du 23 Mars (M23) is an armed group operating in the DRC that has been the recipient of arms and related materiel, including advice, training, and assistance related to military activities. Several eyewitness testimonies state that M23 receives general military supplies from the Rwandan Defense Forces (RDF) in the form of weapons and ammunition in addition to materiel support for combat operations. M23 has been complicit in and responsible for committing serious violations of international law involving the targeting of women and children in situations of armed conflict in the DRC including killing and maiming, sexual violence, abduction, and forced displacement. According to numerous reports, investigations, and testimonies from eyewitnesses, M23 has been responsible for carrying out mass killings of civilians, as well as raping women and children throughout various regions of the DRC. Several reports indicate that M23 fighters have carried out 46 rapes against women and girls, the youngest of which was 8 years old. In addition to reports of sexual violence, M23 has also carried out extensive forced recruitment campaigns of children into the ranks of the group. It is estimated that M23 has carried out the forced recruitment of 146 young men and boys in the Rutshuru territory alone in eastern DRC since July 2012. Some of the victims have been as young as 15 years old. The atrocities committed by M23 against the civilian population of the DRC, as well as M23's forced recruitment campaign, and being the recipient of arms and military assistance has dramatically contributed to instability and conflict within the region and in some instances, violated international law.
+
+**7\. MACHANGA LTD**
+
+Address: Plot 55A, Upper Kololo Terrace, Kampala, Uganda.
+
+Date of UN designation: 29 March 2007.
+
+Other information: Gold export company (Directors: Mr. Rajendra Kumar Vaya and Mr. Hirendra M. Vaya). In 2010, assets belonging to Machanga, held in the account of Emirates Gold, were frozen by Bank of Nova Scotia Mocatta (UK). The owners of Machanga have remained involved in purchasing gold from eastern DRC. Machanga Ltd last filed an annual return in 2004 and was listed as ‘status inactive’ according to the authorities of the Republic of Uganda. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Machanga bought gold through a regular commercial relationship with traders in the DRC tightly linked to militias. This constitutes ‘provision of assistance’ to illegal armed groups in breach of the arms embargo of resolutions 1493 (2003) and 1596 (2005). Gold export company (Directors: Mr. Rajendra Kumar Vaya and Mr. Hirendra M. Vaya). In 2010, assets belonging to Machanga, held in the account of Emirates Gold, were frozen by Bank of Nova Scotia Mocatta (UK). The previous owner of Machanga, Rajendra Kumar, and his brother Vipul Kumar, have remained involved in purchasing gold from eastern DRC.
+
+**8\. TOUS POUR LA PAIX ET LE DEVELOPPEMENT (NGO)**
+
+(alias: TPD)
+
+Address: Goma, North Kivu, Democratic Republic of the Congo.
+
+Date of UN designation: 1 November 2005.
+
+Other information: Goma, with provincial committees in South Kivu, Kasai Occidental, Kasai Oriental and Maniema. Officially suspended all activities since 2008. In practice, as of June 2011 TPD offices are open and involved in cases related to returns of IDPs, community reconciliation initiatives, land conflict settlements, etc. The TPD President is Eugene Serufuli and Vice-President is Saverina Karomba. Important members include North Kivu provincial deputies Robert Seninga and Bertin Kirivita. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5278464
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Implicated in violation of the arms embargo by providing assistance to RCD-G, particularly in supplying trucks to transport arms and troops, and also by transporting weapons for distribution to parts of the population in Masisi and Rutshuru, North Kivu, in early 2005. Goma, with provincial committees in South Kivu, Kasai Occidental, Kasai Oriental and Maniema Officially suspended all activities since 2008. In practice, as of June 2011 TPD offices are open and involved in cases related to returns of IDPs, community reconciliation initiatives, land conflict settlements, etc. The TPD President is Eugene Serufuli and Vice-President is Saverina Karomba. Important members include North Kivu provincial deputies Robert Seninga and Bertin Kirivita.
+
+**9\. UGANDA COMMERCIAL IMPEX (UCI) LTD**
+
+Address: a) Plot 22, Kanjokya Street, Kamwokya, Kampala, Uganda (Tel.: +256 41 533 578/9), b) PO BOX 22 709 , Kampala, Uganda.
+
+Date of UN designation: 29 March 2007.
+
+Other information: Gold export company. (Directors Mr. Jamnadas V. LODHIA — known as ‘Chuni’- and his sons Mr. Kunal J. LODHIA and Jitendra J. LODHIA). In January 2011, Ugandan authorities notified the Committee that following an exemption on its financial holdings, Emirates Gold repaid UCI's debt to Crane Bank in Kampala, leading to final closure of its accounts. The directors of UCI have remained involved in purchasing gold from eastern DRC. Uganda Commercial Impex (UCI) Ltd last filed a return in 2013 and was listed as ‘Inactive – status inactive’ by the authorities of the Republic of Uganda. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Entities
+
+Additional information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+UCI bought gold through a regular commercial relationship with traders in the DRC tightly linked to militias. This constitutes ‘provision of assistance’ to illegal armed groups in breach of the arms embargo of resolutions 1493 (2003) and 1596 (2005). Gold export company. (Former directors Mr. J.V. LODHIA — known as ‘Chuni’- and his son Mr. Kunal LODHIA). In January 2011, Ugandan authorities notified the Committee that following an exemption on its financial holdings, Emirates Gold repaid UCI's debt to Crane Bank in Kampala, leading to final closure of its accounts. The previous owner of UCI, J.V. Lodhia and his son Kumal Lodhia have remained involved in purchasing gold from eastern DRC.
+
+## ANNEX Ia — LIST OF NATURAL OR LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 2b
+
+**A. Persons**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td>1.</td><td>Ilunga KAMPETE</td><td>a.k.a. Gaston Hughes Ilunga Kampete; Hugues Raston Ilunga Kampete DOB: 24.11.1964  POB: Lubumbashi, DRC  Nationality: DRC  Military ID number: 1-64-86-22311-29  Address: 69, avenue Nyangwile, Kinsuka Mimosas, Kinshasa/Ngaliema, DRC  Gender: male </td><td>As Commander of the Republican Guard (GR) until April 2020, Ilunga Kampete was responsible for the GR units deployed on the ground and involved in the disproportionate use of force and violent repression in September 2016 in Kinshasa. He was also responsible for the repression and infringement of human rights committed by GR agents, such as the violent repression of an opposition rally in Lubumbashi in December 2018.  Since July 2020, he has been a high-ranking soldier, as a Lieutenant General in the Congolese Armed Forces (FARDC) and Commander of the Kitona military base in the province of Kongo Central. By virtue of his functions, he bears responsibility for the recent human rights violations committed by the FARDC.  Ilunga Kampete has therefore been involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. </td><td>12.12.2016</td></tr>
+<tr><td>2.</td><td>Gabriel Amisi KUMBA</td><td>a.k.a. Gabriel Amisi Nkumba; ‘Tango Fort’; ‘Tango Four’ DOB: 28.5.1964  POB: Malela, DRC  Nationality: DRC  Military ID number: 1-64-87-77512-30  Address: 22, avenue Mbenseke, Ma Campagne, Kinshasa/Ngaliema, DRC  Gender: male </td><td>Former Commander of the first defence zone of the Congolese Armed Forces (FARDC), which took part in the disproportionate use of force and violent repression in September 2016 in Kinshasa. Gabriel Amisi Kumba was Deputy Chief of Staff of the FARDC in charge of operations and intelligence from July 2018 to July 2020.  Since then, he has held the functions of Inspector General of the FARDC. Owing to his high functions, he bears responsibility for recent human rights violations committed by the FARDC.  Gabriel Amisi Kumba has therefore been involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. </td><td>12.12.2016</td></tr>
+<tr><td>3.</td><td>Célestin KANYAMA</td><td>a.k.a. Kanyama Tshisiku Celestin; Kanyama Celestin Cishiku Antoine; Kanyama Cishiku Bilolo Célestin; ‘Esprit de mort’ DOB: 4.10.1960  POB: Kananga, DRC  Nationality: DRC  DRC passport number: OB0637580 (valid from 20.5.2014 to 19.5.2019)  Schengen visa number: 011518403, issued on 2.7.2016  Address: 56, avenue Usika, Kinshasa/Gombe, DRC  Gender: male </td><td>As Commissioner of the Congolese National Police (PNC), Célestin Kanyama was responsible for the disproportionate use of force and violent repression in September 2016 in Kinshasa. Célestin Kanyama was Director-General of the PNC’s training schools from July 2017 until April 2023.  In October 2018, police officers intimidated and deprived journalists of freedom, after the publication of a series of articles on the misappropriation of police cadet rations and the role that Célestin Kanyama played in these events.  Célestin Kanyama remains a high-ranking police officer and is still on active duty. Owing to his role as a senior PNC official, he bears responsibility for the recent human rights violations committed by the PNC.  Célestin Kanyama has therefore been involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. </td><td>12.12.2016</td></tr>
+<tr><td>4.</td><td>John NUMBI</td><td>a.k.a. John Numbi Banza Tambo; John Numbi Banza Ntambo; Tambo Numbi DOB: 16.8.1962  POB: Jadotville-Likasi-Kolwezi, DRC  Nationality: DRC  Address: 5, avenue Oranger, Kinshasa/Gombe, DRC  Gender: male </td><td>John Numbi was Inspector General of the Congolese Armed Forces (FARDC) from July 2018 until July 2020. Owing to his role, he bears responsibility for the human rights violations committed by the FARDC between July 2018 and July 2020, such as disproportionate violence against illegal miners from June to July 2019 committed by FARDC troops under his direct authority. John Numbi has therefore been involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC.  Until early 2021, John Numbi retained a position of influence in the FARDC, especially in Katanga, where serious human rights violations committed by the FARDC have been reported.  John Numbi is involved in destabilising activities in the DRC, aimed in particular at the secession of the province of Katanga.  John Numbi is therefore still a threat to the human rights situation in the DRC and is responsible for sustaining the instability in the country, especially in Katanga. </td><td>12.12.2016</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>7.</td><td>Éric RUHORIMBERE</td><td>a.k.a. Eric Ruhorimbere Ruhanga; ‘Tango Two’; ‘Tango Deux’ DOB: 16.7.1969  POB: Minembwe, DRC  Nationality: DRC  Military ID number: 1-69-09-51400-64  DRC passport number: OB0814241  Address: Mbujimayi, Kasai Province, DRC  Gender: male </td><td>As Deputy Commander of the 21st military region from September 2014 to July 2018, Éric Ruhorimbere was responsible for the disproportionate use of force and extrajudicial killings perpetrated by the Congolese Armed Forces (FARDC), in particular against the Nsapu militia and against women and children. Éric Ruhorimbere was the Commander of the Nord Equateur operational sector from July 2018 until October 2022. He is at the disposal of the General Staff of the FARDC and is still on active duty. Owing to his role in the FARDC, he bears responsibility for the recent human rights violations committed by the FARDC.  Éric Ruhorimbere has therefore been involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. </td><td>29.5.2017</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>12.</td><td>Justin BITAKWIRA</td><td>a.k.a. Bihona-Hayi Position: national deputy, responsible for the Wazalendo in South Kivu  DOB: 5.12.1960  POB: Lemera, DRC  Nationality: DRC  Gender: male  Function or profession: politician, former national minister and president of the Alliance for the Republic and National Consciousness </td><td>Justin Bitakwira is a Congolese politician, former government minister and member of the political party ‘Union for the Congolese Nation’. In February 2025, he was appointed by President Tshisekedi to be responsible for the Wazalendo in South Kivu in the National Parliament. In his public speeches, he has repeatedly incited violence and encouraged discrimination and hostility towards the Banyamulenge community, which has been targeted and attacked by armed groups.  Those inflammatory speeches and narratives contribute to fuelling the conflict and violence in the DRC, in particular in the Hauts-Plateaux region characterised by inter-communal conflicts.  Justin Bitakwira is therefore responsible for sustaining the armed conflict, instability and insecurity in the DRC, through inciting violence. </td><td>8.12.2022</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>13.</td><td>Joseph Nganzo Olikwa TIPI</td><td>a.k.a. Colonel Tipi Ziro Ziro, Joseph Ngadjole, Joseph Nganzole Olikwa DOB: 10.11.1977  POB: Bunia Fataki, DRC  Nationality: DRC  Gender: male  Rank: Colonel of the FARDC  Position: Deputy Commander of the 12th Rapid Reaction Brigade in Minembwe, former Commander of the 312th battalion of the 31st Main Defence Brigade  Military ID: 1-77-96-32692-76 </td><td>Joseph Nganzo Olikwa Tipi was Commander of the 312th battalion of the 31st Main Defence Brigade of the Armed Forces of the Democratic Republic of the Congo (FARDC) until January 2022. Forces of the 312th battalion under his command and responsibility have committed attacks on civilians and serious human rights violations, in particular rapes of women between June and December 2021.  Joseph Nganzo Olikwa Tipi remains a high-ranking officer in the FARDC, as Colonel and Deputy Commander of the 12th Rapid Reaction Brigade in Minembwe (South Kivu), in charge of administration and logistics.  Owing to his functions, he bears responsibility for recent human rights violations committed by the FARDC.  Joseph Nganzo Olikwa Tipi is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. </td><td>8.12.2022</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>14.</td><td>Désiré LONDROMA NDJUKPA</td><td>a.k.a. Désiré Lokana Lokanza Gender: male  Function or profession: CODECO URDPC Defence Officer (‘charge of defence’) </td><td>Désiré Londroma Ndjukpa is a leader of the Cooperative for Development of the Congo/Union of Revolutionaries for the Defence of the Congolese People (CODECO URDPC), identified as its defence officer (‘charge of defence’), and co-leader of its political wing. The CODECO URDPC is a non-governmental armed group operating in the Eastern DRC and contributing to the armed conflict, instability and insecurity in the DRC, in particular through violence and serious human rights abuses, including killings, sexual violence and attacks on civilians such as attacks on internally displaced persons camps between mid-November 2021 and February 2022, targeting in particular the Hema community.  Owing to his leading position in the CODECO URDPC, Londroma Ndjukpa is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>8.12.2022</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>17.</td><td>Alain François Viviane GOETZ</td><td>DOB: 24.4.1965 POB: Deurne, Antwerp, Belgium  Nationality: Belgian  Gender: male </td><td>Alain Goetz is a businessman, who is the former beneficial owner and former director of African Gold Refinery Ltd, registered in Uganda. He was linked to African Gold Refinery Ltd as an advisor and promoter. Since 2016, African Gold Refinery Ltd has received, purchased, refined and traded illicit gold originating from mines in the DRC that are controlled by non-governmental armed groups, including the Mai-Mai Yakutumba and Raia Mutomboki, which are involved in destabilising activities in South Kivu province.  Alain Goetz also retains gold-related interests in the region, in particular through Aldabra, a company he formerly controlled which, together with the Rwandan state-owned company Ngali Mining, invested in the Aldango gold refinery. Alain Goetz retains a financial interest in Aldabra insofar as the claim for damages he filed with the International Centre for Settlement of Trade Disputes is still pending.  For all these reasons, Alain Goetz is exploiting the armed conflict, instability and insecurity in the DRC through the illicit exploitation and trade of natural resources. </td><td>8.12.2022</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>20.</td><td>Charles SEMATAMA</td><td>a.k.a. Sebanyana Function/rank: Commander, Military leader of Twirwaneho  DOB: 1975  POB: Kalunyo village, around Kamombo localities, South Kivu, DRC  Nationality: DRC  Gender: male </td><td>Charles Sematama is a former officer of the Congolese armed forces (FARDC) and holds the leading position of Commander and Military leader of the non-governmental armed group Twirwaneho operating in South Kivu, which claims to represent the Banyamulenge Community. Twirwaneho sustains the armed conflict, instability and insecurity in the DRC and is responsible for serious human rights abuses in that country, in particular through the voluntary or forced child recruitment to participate actively in hostilities, attacks against civilians and the Congolese armed forces (FARDC), and killings, such as attacks against civilians in Mikenge village in November 2021 which killed at least six persons.  In addition, Charles Sematama has been directly involved in propaganda sessions as well as in the forced recruitment and use of children, including as armed escorts.  Owing to his leading position in Twirwaneho and his direct involvement in the forced recruitment and use of children, Charles Sematama is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>28.7.2023</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>22.</td><td>Janvier Karairi (‘Karahiri’) BUINGO</td><td>Function/rank: General, head of APCLS DOB: Approximately 1962  Nationality: assumed Congolese (DRC)  Gender: male </td><td>Janvier Karairi holds the leading position of General and head of the Alliance des patriotes pour un Congo libre et souverain (APCLS), a non-governmental armed group operating in the North-Eastern DRC and involved in the coalition of armed groups ‘Alliance des résistants de la patrie’ (ARP) against the March 23 Movement/Congolese Revolutionary Army (Mouvement du 23 mars/Armée révolutionnaire congolaise – M23/ARC). The APCLS sustains the armed conflict, instability and insecurity in the DRC and is responsible for serious human rights abuses in that country, in particular through participating in operations of the coalition of armed groups ARP, such as in Kitshanga and Rubaya in January and late February 2023, killings of and attacks against civilians, notably against Congolese Tutsi’s, and grave violations committed against children such as rapes and other forms of sexual violence and abduction.  Owing to his leading position in the APCLS, Janvier Karairi is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>28.7.2023</td></tr>
+<tr><td>23.</td><td>Justin Maki GESI</td><td>a.k.a. Le petit loup de la montagne Function/rank: Commander of CODECO/Alliance pour le Développement du Congo (CODECO/ALC).  DOB: unknown  Nationality: assumed Congolese (DRC)  Gender: male </td><td>Justin Maki Gesi holds a leading position as Commander of the ALC/CODECO, a non-governmental armed group operating in North-Eastern DRC (especially Ituri). The ALC/CODECO sustains the armed conflict, instability and insecurity in the DRC and is responsible for serious human rights abuses in that country, in particular through the use of children as combatants, abductions, killings of and attacks against civilians, such as the attack on the villages of Nyamamba and Mbogi on 13 January 2023 after which more than 40 victims were found.  Owing to his leading position in the CODECO/ALC, Justin Maki Gesi is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>28.7.2023</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>25.</td><td>Simon (Salomon) TOKOLONGA</td><td>Function/rank: Colonel, commander of the FARDC 3411th regiment DOB: 17.4.1972  POB: Kishandja (North Kivu)  Nationality: DRC  Gender: male </td><td>Colonel Simon Tokolonga holds a leading position in the Congolese Armed Forces (FARDC) as head of its 3411th regiment. Colonel Tokolonga attended a meeting in Pinga on 8 and 9 May 2022 where local armed groups, such as the Nduma défense du Congo-Rénové (NDC-R) and the Alliance des patriotes pour un Congo libre et souverain (APCLS), gathered and forged a coalition to resist the March 23 Movement/Congolese Revolutionary Army (Mouvement du 23 mars/Armée révolutionnaire congolaise – M23/ARC) (coalition ‘Alliance des résistants de la patrie’ – ARP). The presence of Colonel Tokolonga has revealed the cooperation of some FARDC members with this coalition.  In addition, members of the 3411th regiment of the FARDC have supplied weapons and ammunitions to armed groups operating in the DRC, including the provision of more than a dozen boxes of ammunition to FDLR (‘Forces démocratiques de libération du Rwanda’) fighters in Kazaroho in July 2022. Colonel Tokolonga has reportedly coordinated several weapons supplies to armed groups operating against M23/ARC.  The non-governmental armed groups part of the ARP coalition, including the NDC-R, APCLS and FDLR, sustain the armed conflict, instability and insecurity in the DRC, and are responsible for serious human rights abuses in that country, in particular through recruitment and training of combatants, participation in operations against M23/ARC, attacks against civilians, killings, and grave violations committed against children such as rapes and other forms of sexual violence and abduction.  Owing to his leading position in the 3411th regiment of the FARDC and his coordinating role in weapons supplies, Simon Tokolonga is therefore responsible for providing support to armed groups sustaining the armed conflict, instability and insecurity in the DRC, including by providing them with arms and ammunitions. </td><td>28.7.2023</td></tr>
+<tr><td>26.</td><td>Jean Pierre NIRAGIRE</td><td>a.k.a. Jean-Pierre, Gasasira Function/rank: Captain, commander of the Rwandese Defence Forces (RDF) Special Forces Unit active in Northern Kivu.  Nationality: Rwanda  Gender: male </td><td>Captain Jean-Pierre Niragire holds the leading position of commander of the Rwanda Defense Forces (RDF) special forces deployed in the North Kivu region of the DRC from May 2022 onward. The objective of the RDF military actions on the DRC territory has been to reinforce the March 23 Movement/Congolese Revolutionary Army (Mouvement du 23 mars/Armée révolutionnaire congolaise – M23/ARC), a non-governmental armed group operating in Eastern DRC, in particular by providing it with troops and materiel.  The M23/ARC sustains the armed conflict, instability and insecurity in the DRC, and is responsible for serious human rights abuses in that country, in particular through attacks against civilians and the Congolese armed forces (FARDC), killings, torture, rapes and forced labour, such as a series of killings targeting civilians in the town of Kisheshe on 29 November 2022.  As commander of the RDF special forces deployed in the North Kivu region, Jean Pierre Niragire is therefore responsible for providing support to the armed group M23/ARC, which sustains the armed conflict, instability and insecurity in the DRC, in particular by providing it with troops and materiel. </td><td>28.7.2023</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>27.</td><td>Benjamin MBONIMPA</td><td>Function/rank: Executive Secretary of the March 23 Movement / Congolese Revolutionary Army (M23/ARC), Supervisor of the permanent secretariat of the Alliance Fleuve Congo Gender: male </td><td>Benjamin Mbonimpa holds a leading position as Executive Secretary of the M23/ARC, a non-governmental armed group operating in Eastern DRC. The M23/ARC sustains the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In addition, it is responsible for serious human rights abuses, including killings, attacks and sexual violence against civilians.  Owing to his leading position in the M23/ARC, Benjamin Mbonimpa is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>26.7.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>28.</td><td>Justin Gacheri MUSANGA</td><td>a.k.a. Gaceri MUSANGA, CS BRAVO SIERRA, BRAVO THREE Function/rank: Brigadier-General of the March 23 Movement / Congolese Revolutionary Army (M23/ARC), Commander of the North-West Defence Zone  POB: Masisi, DRC  Gender: male  Father: Erasto Ntibaturana (Hutu customary leader in Busumba) </td><td>Justin Gacheri Musanga holds a leading position as Brigadier-General of the M23/ARC, a non-governmental armed group operating in Eastern DRC. The M23/ARC sustains the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In addition, it is responsible for serious human rights abuses, including killings, attacks and sexual violence against civilians, as well as child recruitment.  Owing to his leading position in the M23/ARC, Justin Gacheri Musanga is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>26.7.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>29.</td><td>Pierre Celestin RURAKABIJE</td><td>a.k.a. Guillaume NGABO, Bagdad, Simba Guillaume, Samba Guillaume, Ngabo Simba Function/rank: Deputy Commander of the ‘Commando de recherche et d’action en profondeur’ (CRAP) of the Forces Démocratiques pour la Libération du Rwanda / Forces Combattantes Abacunguzi (FDLR/FOCA), Lieutenant-Colonel  Nationality: Rwanda  Gender: male </td><td>Pierre Celestin Rurakabije holds a leading position as Deputy Commander within the Democratic Forces for the Liberation of Rwanda – Forces Combattantes Abacunguzi (FDLR-FOCA), a non-governmental armed group operating in Eastern DRC. In particular, he is the Deputy Commander of the ‘Commando de recherche et d’action en profondeur’ (CRAP) of the FDLR-FOCA – considered as the commando and intelligence unit of the armed group. FDLR-FOCA is a largely Hutu armed group, some of whose leaders took part in the 1994 genocide in Rwanda. The FDLR-FOCA, including the CRAP unit, contributes to the armed conflict, instability and insecurity in the DRC, in particular through violence and serious human rights abuses, including attacks on civilians, killings, violence against children, rape and other acts of sexual violence.  Owing to his leading position within the FDLR, Pierre Celestin Rurakabije is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>26.7.2024</td></tr>
+<tr><td>30.</td><td>Gustave KUBWAYO</td><td>a.k.a. Sirkoof, Surkoof, Sirkoff, Surcouf, Surcoff, Surcof, Surkouf, Syrkoff, Modeste, Slycove Function/rank: Commander of the ‘Commando de recherche et d’action en profondeur’ (CRAP) of the Forces Démocratiques pour la Libération du Rwanda / Forces Combattantes Abacunguzi (FDLR/FOCA), Colonel  POB: Karago municipality, Gisenyi prefecture, Rwanda; or Nyabihu District, Western province, Rwanda  Nationality: Rwanda  Gender: male </td><td>Gustave Kubwayo holds a leading position as Commander in the Democratic Forces for the Liberation of Rwanda – Forces Combattantes Abacunguzi (FDLR-FOCA), an armed group operating in Eastern DRC. He leads the special unit ‘Commando de recherche et d’action en profondeur’ (CRAP) of FDLR-FOCA – considered as the commando and intelligence unit of the armed group. FDLR-FOCA is a largely Hutu armed group, some of whose leaders took part in the 1994 genocide in Rwanda. FDLR-FOCA fighters, including the CRAP unit, have committed rape and other acts of sexual violence and killed civilians. FDLR-FOCA is systemically engaged in kidnappings for ransom, arbitrary detentions and executions of civilians and the recruitment of child combatants. The armed group is also involved in illegal logging, exploitation of natural resources such as charcoal, and illegally collected taxes at checkpoints.  In his position as Commander of the CRAP unit, Gustave Kubwayo is involved in committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict in the DRC. </td><td>26.7.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>31.</td><td>Jean Claude HABYARIMANA MBITSE</td><td>a.k.a. Jules MULUMBA, Habyarimana Mbitshemunda Function/rank: Spokesperson of the ‘Collectif des mouvements pour le changement / Forces de défense du peuple’ (CMC-FDP), VDP Spokesperson and Liaison Officer  POB: Rugari Groupement, Rutshuru Territory, North Kivu province, DRC  Address: Bujumbura, Burundi  Nationality: Congolese  Gender: male </td><td>Jean Claude Habyarimana Mbitse holds a leading position as spokesperson of the ‘Collectif des mouvements pour le changement / Forces de défense du peuple’ (CMC-FDP), a non-governmental armed group operating in Eastern DRC. In addition, Jean Claude Habyarimana Mbitse holds a leading position as spokesperson and liaison officer of the so-called ‘Wazalendo’ or ‘Volontaires pour la Défense de la Patrie’ (VDP), a coalition of non-governmental armed groups operating in Eastern DRC which fights against the coalition of M23/RDF/AFC. The CMC-FDP and VDP sustain the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In particular, CMC-FDP and VDP combatants committed serious human rights violations and abuses against civilians. For instance, VDP combatants are systemically engaged in kidnappings for ransom, torture, rape, arbitrary detentions and executions of civilians, and the recruitment of child combatants.  Owing to his leading position in the CMC-FDP and VDP, Jean Claude Habyarimana Mbitse is therefore involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>26.7.2024</td></tr>
+<tr><td>32.</td><td>Dominique KAMANZI NDARURUTSE</td><td>a.k.a. Domi, Dominique NDARURUTSE, Général, Dominique NDARUHUTSE Function/rank: Commander of the Collectif des Mouvements pour le Changement-Forces de Défense du Peuple (CMC-FDP)  DOB: 1982  POB: Kashavu, Bukombo Groupement, Rutshuru Territory, North Kivu province, DRC  Nationality: Congolese  Gender: male </td><td>Dominique Kamanzi Ndarurutse is a Commander of the ‘Collectif des Mouvements pour le Changement-Forces de Défense du Peuple’ (CMC-FDP), an armed group active in Eastern DRC and part of the so-called ‘Wazalendo’ or ‘Volontaires pour la Défense de la Patrie’ (VDP) coalition consisting of the Congolese armed forces (FARDC) and several other armed groups. This coalition fights against the coalition of the March 23 Movement / Congolese Revolutionary Army (M23/RDF) and the ‘Alliance Fleuve Congo’ (AFC) in Eastern DRC and has been involved in human rights violations. The CMC-FDP and VDP sustain the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In particular, CMC-FDP and VDP combatants committed serious human rights violations and abuses against civilians. For instance, VDP combatants are systemically engaged in kidnappings for ransom, torture, rape, arbitrary detentions and executions of civilians, and the recruitment of child combatants.  As a Commander of CMC-FDP, Dominique Kamanzi Ndarurutse operates its military command and is therefore involved in committing acts that constitute serious human rights violations and abuses in the DRC. As a leader of CMC-FDP, he is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>26.7.2024</td></tr>
+<tr><td>33.</td><td>Amigo KIBIRIGE</td><td>a.k.a. Kibirige Muhammand, Mzee Amigo, Simba Amigo, Marine Function/rank: Allied Democratic Forces Commander  DOB: 1975 to 1979  POB: Masaka, Uganda  Nationality: Ugandan  Gender: male </td><td>Amigo Kibirige is an Allied Democratic Forces (ADF) Commander. ADF is a non-governmental armed group operating in Uganda and Eastern DRC. Amigo Kibirige has been identified as one of the main ADF commanders operating in Mwalika. The ADF sustains the armed conflict, instability and insecurity in the DRC (particularly in the Ituri and North Kivu provinces), for example with attacks on civilians. In addition, it is responsible for serious human rights abuses, including attacks against civilians, killings and abductions.  Owing to his senior leading position as ADF Commander, Amigo Kibirige is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>26.7.2024</td></tr>
+<tr><td>34.</td><td>Augustin MIGABO</td><td>Function/rank: Colonel, Deputy Commander of the Special Force Command of the Rwanda Defence Force (RDF) DOB: March 1968  Place of birth: Burundi  Nationality: Rwandan  Military service number: 1574  Gender: male </td><td>Colonel Augustin Migabo holds a leading position as Deputy Commander of the Special Force Command of the Rwanda Defence Force (RDF), deployed in DRC as from May 2022, more specifically in the North Kivu region. The objective of the RDF presence in DRC is to reinforce the operations of the March 23 Movement / Congolese Revolutionary Army (M23/ARC), a non-governmental armed group operating in Eastern Congo, by providing troops and equipment.  The RDF presence in the DRC constitutes a violation of the territorial integrity of the DRC. It also sustains the armed conflict, instability and insecurity in the region as well as the serious human rights abuses and violations committed by members of M23/ARC.  Owing to his leading position within the RDF troops present in DRC, Augustin Migabo is responsible for sustaining the armed conflict, instability and insecurity in the DRC. He is also responsible for providing support to the armed group M23/ARC, which sustains the armed conflict, instability and insecurity in the DRC, in particular by providing it with troops and equipment. </td><td>26.7.2024</td></tr>
+<tr><td>35.</td><td>Corneille NANGAA YOBELUO</td><td>Function/rank: Founder, leader and political coordinator of the ‘Alliance Fleuve Congo’ (AFC) DOB: 9.7.1970  POB: Bagboya, Wamba Territory, Haut-Uele Province, DRC  Nationality: Congolese  Passport number: DP0000149, DP0003850  Gender: male </td><td>Corneille Nangaa Yobeluo holds a leading position as founder, leader and political coordinator of the ‘Alliance Fleuve Congo’ (AFC), a politico-military movement operating in Eastern DRC and openly associated with several non-governmental armed groups, including the March 23 Movement / Congolese Revolutionary Army (M23/ARC). Several non-governmental armed groups, including the M23/ARC, have fuelled armed conflict, instability and insecurity in the DRC, with the support of the AFC. By publicly and repeatedly calling for the military and violent overthrow of the Congolese government, the AFC also incites violence.  Owing to his leading position as founder, leader and political coordinator of the AFC, Corneille Nangaa Yobeluo is therefore responsible for sustaining the armed conflict, instability and insecurity in the DRC. He is also responsible for providing support to the armed group M23/ARC, which sustains the armed conflict, instability and insecurity in the DRC, in particular by forming an alliance and working closely with M23/ARC. </td><td>26.7.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>36.</td><td>Bertrand BISIMWA</td><td>Function/rank: Leader (President) of the political branch of the Mouvement du 23 mars (M23) DOB: 8.9.1972  POB: Bukavu, Democratic Republic of the Congo  Nationality: Congolese  Gender: male </td><td>Bertrand Bisimwa holds a leading position as President of the March 23 Movement (M23), a nongovernmental armed movement. The M23 sustains the armed conflict, instability and insecurity in the DRC, in particular through inciting violence and deploying a parallel administration in Eastern DRC, which constitutes a violation of the territorial integrity of the DRC. In addition, it is responsible for serious human rights abuses, including killings of and attacks and sexual violence against civilians, as well as for child recruitment.  Owing to his leading position in the M23, Bertrand Bisimwa is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC, especially by contributing to the instalment of parallel administrations in Eastern DRC. </td><td>17.3.2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>37.</td><td>Ruki KARUSISI</td><td>a.k.a. Rocky Function/rank: Major-General  Commander of the Special Force Command of the Rwanda Defence Force (RDF)  DOB: 6.5.1974  Gender: male  Nationality: Rwandan  RDF Service number: 2357 </td><td>Major-General Ruki Karusisi is the commander of the Special forces of the Rwanda Defence Force (RDF), deployed in eastern DRC. The RDF presence in the DRC has as its objective reinforcing the operations of the March 23 Movement/Congolese Revolutionary Army (M23/ARC), a nongovernmental armed group operating in eastern DRC, by providing troops and materiel.  The RDF presence constitutes a violation of the territorial integrity of the DRC and sustains the armed conflict, instability and insecurity in the region. It is also responsible for serious human rights abuses, including collective punishment, and sustains serious human rights abuses committed by members of M23.  Owing to his commanding role within the Special Force Command of the RDF deployed in Eastern DRC, Ruki Karusisi is responsible for sustaining the armed conflict, instability and insecurity in the region. He is also responsible for providing support to entities sustaining the armed conflict, instability and insecurity in the DRC. </td><td>17.3.2025</td></tr>
+<tr><td>38.</td><td>Désiré RUKOMERA</td><td>Function/rank: Head of recruitment and propaganda of the March 23 Movement (M23) Gender: male  Nationality: Rwandan </td><td>Désiré Rukomera holds a leading position as head of recruitment and propaganda for the March 23 Movement (M23), a non-governmental armed movement, since January 2024. The M23 sustains the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In addition, it is responsible for serious human rights abuses, including killings of and attacks and sexual violence against civilians, as well as for child recruitment.  Owing to his leading position in the M23, Désiré Rukomera is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>17.3.2025</td></tr>
+<tr><td>39.</td><td>John Imani NZENZE</td><td>a.k.a. Mike Bravo Function/rank: ‘Colonel’ and ‘G2’ intelligence chief of the M23 armed group (M23)  DOB: 6.8.1978  POB: Kakwende (South Kivu)  Gender: male  Nationality: Congolese </td><td>John Imani Nzenze holds a leading position as Colonel of the March 23 Movement (M23), a non-governmental armed movement. The M23 sustains the armed conflict, instability and insecurity in the DRC, in particular through inciting violence. In addition, it is responsible for serious human rights abuses, including killings of and attacks and sexual violence against civilians, as well as for child recruitment.  Owing to his leading position in the M23, John Imani Nzenze is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>17.3.2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>40.</td><td>Eugène NKUBITO</td><td>Function/rank: Commander 3rd division (Major General) of the Rwanda Defence Force (RDF) Gender: male  Nationality: Rwandan  RDF Service number: 218 </td><td>Since June 2023, Major-General Eugène Nkubito has held a leading position as Commander of the 3rd Division of the Rwanda Defence Force (RDF), deployed in eastern DRC and more specifically in the North Kivu province. The RDF presence in the DRC has as its objective reinforcing the operations of the March 23 Movement/Congolese Revolutionary Army (M23/ARC), a non-governmental armed group operating in Eastern DRC by providing troops and materiel.  The RDF presence constitutes a violation of the territorial integrity of the DRC and sustains the armed conflict, instability and insecurity in the region. It is also responsible for serious human rights abuses, including collective punishment, and sustains serious human rights abuses committed by members of M23.  Owing to his commanding role within the 3rd Division of the RDF deployed in eastern DRC, Eugène Nkubito is responsible for sustaining the armed conflict, instability and insecurity in the region. </td><td>17.3.2025</td></tr>
+<tr><td colspan="5"> —————</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>42.</td><td>Jean-Bosco NZABONIMPA MUPENZI</td><td>Function/rank: AFC/M23 Representative for Finance in South Kivu POB: Rubaya, Masisi, North Kivu  Nationality: Congolese  Gender: male  Associated entities: March 23 Movement/Congolese Revolutionary Army (M23/ARC) </td><td>Jean-Bosco Nzabonimpa Mupenzi is the Representative for Finance in South Kivu of the March 23 Movement/Congolese Revolutionary Army (M23/ARC) operating in the Democratic Republic of the Congo (DRC). Since January 2024 he operated in the North Kivu province before being appointed in a new position in South Kivu in March 2025. The M23 is a rebel armed group responsible for the current armed conflict. It also sustains the armed conflict, instability and insecurity in the region as well as the serious human rights abuses and violations committed by members of the M23, including killings of and attacks and sexual violence against civilians, as well as child recruitment.  Jean-Bosco Nzabonimpa Mupenzi provides support to the M23 armed group, in particular by ensuring the management of the M23 Finances and Production department, as well as taking part in the training of new recruits.  Owing to his leading position within the M23, Jean-Bosco Nzabonimpa Mupenzi is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>17.3.2025</td></tr>
+<tr><td>43.</td><td>Francis KAMANZI</td><td>Function/rank: Director-General of the Rwanda Cooperative Agency, former Chief Executive Officer of Rwanda Mines, Petroleum and Gas Board (RMB) Nationality: Rwandan  Gender: male </td><td>Francis Kamanzi held a leading position as Chief Executive Officer of Rwanda Mines, Petroleum and Gas Board (RMB) from February 2024 to July 2025, when he was appointed Director-General of the Rwanda Cooperative Agency (‘RCA’). The RCA falls under the responsibility of the Ministry of Trade and Industry. One of the main responsibilities of the RCA is to regulate and supervise cooperative organisations. Among them, 141 cooperatives operate in the mining sector, the main export revenue-earning sector of Rwanda. Therefore, Francis Kamanzi is still involved in the exploitation or trading of natural resources. Minerals continue to be exploited in mining areas controlled by the March 23 Movement (M23) and trafficked to Rwanda for the benefit of both the Alliance Fleuve Congo/M23 and the Rwandan economy, where these conflict minerals are mixed with Rwandan production.  Owing to his formerly leading position in the RMB and his position of Director-General of the RCA, Francis Kamanzi is responsible for exploiting the armed conflict, instability or insecurity in the DRC, including through the illicit exploitation or trading of natural resources. </td><td>17.3.2025</td></tr>
+<tr><td>44.</td><td>Joseph MUSANGA BAHATI</td><td>a.k.a. ‘Erasto’; ‘Bahati Erasto’; ‘Colonel Erasto’; ‘Colonel Bahati Musanga’  Function/rank: Governor of North Kivu  DOB: 18.8.1978  POB: Bashali-Mokoto (Busumba)  Nationality: Congolese  Gender: male  Associated entities: March 23 Movement/Alliance Fleuve Congo (M23/AFC) </td><td>Joseph Musanga Bahati is a senior figure in the structure of the March 23 Movement (M23) rebel group and within the Alliance Fleuve Congo. He has held the position of Chief of Finance of the M23 for several years. In February 2025, he was designated governor of North Kivu within the new illegal ‘administration’ imposed by the M23 in violation of Congolese sovereignty.  The deployment of a parallel administration in the DRC constitutes a violation of the territorial integrity of the DRC. It also sustains the armed conflict, instability and insecurity in the region as well as the serious human rights abuses and violations committed by members of the M23.  Owing to his leading position in the M23, Joseph Musanga Bahati is involved in planning, directing or committing acts that constitute serious human rights violations or abuses in the DRC. He is also responsible for sustaining the armed conflict, instability and insecurity in the DRC. </td><td>17.3.2025</td></tr>
+<tr><td colspan="5"></td></tr>
+</tbody>
+</table>
+
+**B. Entities**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td>1.</td><td>Alliance Fleuve Congo (AFC)</td><td>Date of creation: 15.12.2023 Place of creation: Kenya </td><td>The ‘Alliance Fleuve Congo’ (AFC) is a politico-military movement operating in Eastern DRC and is openly associated with several non-governmental armed groups, including the March 23 Movement / Congolese Revolutionary Army (M23/ARC). Several non-governmental armed groups, including the M23/ARC, have fuelled the armed conflict, instability and insecurity in the DRC, with the support of the AFC. By publicly and repeatedly calling for the military and violent overthrow of the Congolese government, the AFC also incites violence.  The AFC is therefore responsible for sustaining the armed conflict, instability and insecurity in the DRC. AFC is also responsible for providing support to the armed group M23/ARC, which sustains the armed conflict, instability and insecurity in the DRC, in particular by forming an alliance and worked closely with M23/ARC. </td><td>26.7.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>2.</td><td>Gasabo Gold Refinery</td><td>Place of establishment: Kigali, Rwanda</td><td>The Gasabo Gold Refinery, based in Kigali, began its refining activities on 1 June 2022 following the closure of Aldango Gold Refinery. The illegal extraction and trafficking of natural resources from eastern DRC, such as gold, contributes to the escalation of the conflict. The transit of gold through the only gold refinery in Rwanda, Gasabo Gold Refinery, contributes to the illicit export via Rwanda of illegally extracted gold. Hence, Gasabo Gold Refinery has been exploiting the armed conflict, instability or insecurity in the DRC, including through the illicit exploitation or trading of natural resources.</td><td>17.3.2025</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Websites for information on the competent authorities and address for notification to the European Commission**
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+( 1 ) OJ C 69, 18.3.2010, p. 19.

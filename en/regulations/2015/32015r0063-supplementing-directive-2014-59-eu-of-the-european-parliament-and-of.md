@@ -1,0 +1,756 @@
+---
+title: "Commission Delegated Regulation (EU) 2015/63 of 21 October 2014 supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to ex ante contributions to resolution financing arrangements"
+identifier: "32015R0063"
+eli: "http://data.europa.eu/eli/reg_del/2015/63/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2014-10-21
+entry_into_force: 2015-07-15
+last_amended: 2026-06-06
+consolidated_version: "02015R0063-20260606"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R0063-20260606"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2015/63 of 21 October 2014 supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to ex ante contributions to resolution financing arrangements
+
+**COMMISSION DELEGATED REGULATION (EU) 2015/63**
+
+**of 21 October 2014**
+
+**supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to ex ante contributions to resolution financing arrangements**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2016/1434 of 14 December 2015 </td><td> L 233</td><td>1</td><td>30.8.2016</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/662 of 20 January 2023 </td><td> L 83</td><td>58</td><td>22.3.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/895 of 13 December 2023 </td><td> L 895</td><td>1</td><td>20.3.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/440 of 24 February 2026 </td><td> L 440</td><td>1</td><td>3.6.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2015/63**
+
+**of 21 October 2014**
+
+**supplementing Directive 2014/59/EU of the European Parliament and of the Council with regard to ex ante contributions to resolution financing arrangements**
+
+## SECTION 1 — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Regulation lays down rules specifying:
+
+(a) the methodology for the calculation and for the adjustment to the risk profile of institutions, of the contributions to be paid by institutions to resolution financing arrangements;
+
+(b) the obligations of institutions as regards the information to provide for the purposes of the calculation of the contributions and as regards the payment of the contributions to resolution financing arrangements;
+
+(c) the measures to ensure the verification by the resolution authorities that the contributions have been paid correctly.
+
+### Article 2 — Scope
+
+1\. This Regulation applies to the institutions referred to in Article 103(1) of Directive 2014/59/EU and defined in Article 2(1)(23). It also applies to a central body and its affiliated institutions on a consolidated basis, where the affiliated institutions are wholly or partially exempted from prudential requirements in national law in accordance with Article 10 of Regulation (EU) No 575/2013.
+
+2\. Any reference to a group should include a central body and all credit institutions permanently affiliated to the central body as referred to in Article 10 of Regulation (EU) No 575/2013 and their subsidiaries.
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the definitions contained in Directive 2014/49/EU of the European Parliament and of the Council ( 1 ) and Directive 2014/59/EU shall apply. For the purpose of this Regulation, the following definitions shall also apply:
+
+(1) ‘institutions’ means credit institutions, as defined in point (2) of Article 2(1) of Directive 2014/59/EU, or investment firms as defined in point (2) of this Article, as well as a central body and all credit institutions permanently affiliated to the central body as referred to in Article 10 of Regulation (EU) No 575/2013 as a whole on a consolidated basis, where the conditions provided for in Article 2(1) are met;
+
+(2) ‘investment firms’ means investment firms as defined in Article 2(1), point (3), of Directive 2014/59/EU, excluding investment firms that fulfil any of the following conditions:
+
+(a) deal on own account only for the purpose of fulfilling or executing a client order or for the purpose of gaining entrance to a clearing and settlement system or a recognised exchange when acting in an agency capacity or executing a client order;
+
+(b) meet all the following conditions:
+
+(i) they do not hold client money or securities;
+
+(ii) they undertake only dealing on own account;
+
+(iii) they have no external customers;
+
+(iv) their execution and settlement transactions take place under the responsibility of a clearing institution and are guaranteed by that clearing institution;
+
+(3) ‘annual target level’ means the total amount of annual contributions determined for each contribution period by the resolution authority to reach the target level referred to in Article 102(1) of Directive 2014/59/EU;
+
+(4) ‘financing arrangement’ means an arrangement for the purpose of ensuring the effective application by the resolution authority of the resolution tools and powers as referred to in Article 100(1) of Directive 2014/59/EU;
+
+(5) ‘annual contribution’ means the amount referred to in Article 103 of Directive 2014/59/EU raised by the resolution authority for the national financing arrangement during the contribution period from each of the institutions referred to in Article 2 of this Regulation;
+
+(6) ‘contribution period’ means a calendar year;
+
+(7) ‘resolution authority’ means the authority referred to in point (18) of Article 2(1) of Directive 2014/59/EU, or any other relevant authority appointed by the Member States for the purposes of Article 100(2) and (6) of Directive 2014/59/EU;
+
+(8) ‘competent authority’ means a competent authority as defined in Article 4(1), point (40), of Regulation (EU) No 575/2013 or a competent authority as defined in Article 3(1), point (5), of Directive (EU) 2019/2034 of the European Parliament and of the Council ( 2 );
+
+(9) ‘deposit guarantee schemes’ (DGS) means schemes referred to in point (a), (b), or (c) of Article 1(2) of Directive 2014/49/EU;
+
+(10) ‘covered deposits’ means the deposits referred to in Article 6(1) of Directive 2014/49/EU, excluding temporary high balances as defined in Article 6(2) of that Directive;
+
+(11) ‘total liabilities’ means total liabilities as defined in Section 3 of Council Directive 86/635/EEC ( 3 ), or as defined in accordance with the International Financial Reporting Standards referred to in Regulation (EC) No 1606/2002 of the European Parliament and of the Council ( 4 );
+
+(12) ‘total assets’ means total assets as defined in Section 3 of Directive 86/635/EEC, or defined in accordance with the International Financial Reporting Standards referred to in Regulation (EC) No 1606/2002;
+
+(13) ‘Total Risk Exposure’ (TRE) means the total risk exposure amount as defined in Article 92(3) of Regulation (EU) No 575/2013;
+
+(14) ‘Common Equity Tier 1 Capital Ratio’ means the ratio as referred to in Article 92(2)(a) of Regulation (EU) No 575/2013;
+
+(16) ‘own funds’ means own funds as defined in point (118) of Article 4(1) of Regulation (EU) No 575/2013;
+
+(17) ‘eligible liabilities’ means eligible liabilities as defined in Article 2(1), point (71a), of Directive 2014/59/EU;
+
+(18) ‘Leverage Ratio’ means leverage ratio as defined in Article 429 of Regulation (EU) No 575/2013;
+
+(19) ‘Liquidity Coverage Ratio’ (LCR) means a liquidity coverage ratio as defined in Article 412 of Regulation (EU) No 575/2013 and further specified in Commission Delegated Regulation (EU) 2015/61 ( 5 );
+
+(20) ‘Net Stable Funding Ratio’ (NSFR) means a net stable funding ratio as reported in accordance with Article 415 of Regulation (EU) No 575/2013;
+
+(21) ‘central counterparty’ (CCP) means a legal person as defined in Article 2(1) of Regulation (EU) No 648/2012;
+
+(22) ‘derivatives’ means derivatives according to Annex II of Regulation (EU) No 575/2013;
+
+(23) ‘central securities depository’ (CSD) means a legal person as defined in point (1) of Article 2(1) and in Article 54 of Regulation (EU) No 909/2014 of the European Parliament and of the Council ( 6 );
+
+(24) ‘settlement’ means the completion of a securities transaction as defined in point (2) of Article 2(1) of Regulation (EU) No 909/2014;
+
+(25) ‘clearing’ means the process of establishing positions as defined in Article 2(3) of Regulation (EU) No 648/2012;
+
+(26) ‘financial market infrastructure’ means, for the purpose of this Regulation, a CCP as referred to in point 21 of this Article or a CSD as referred to in point 23 of this Article that are authorised as institutions in accordance with Article 8 of Directive 2013/36/EU;
+
+(27) ‘promotional bank’ means any undertaking or entity set up by a central or regional government of a Member State, which grants promotional loans on a non-competitive, not for profit basis in order to promote that government's public policy objectives, provided that that government has an obligation to protect the economic basis of the undertaking or entity and maintain its viability throughout its lifetime, or that at least 90 % of its original funding or of the promotional loan it grants is directly or indirectly guaranteed by that government;
+
+(28) ‘promotional loan’ means a loan granted by a promotional bank or through an intermediate bank on a non-competitive, non for profit basis, in order to promote the public policy objectives of central or regional governments in a Member State;
+
+(29) ‘intermediary institution’ means a credit institution which intermediates promotional loans provided that it does not give them as credit to a final customer;
+
+(30) ‘liabilities arising from derivative contracts’ means either individual liabilities arising from a derivative contract or, where applicable, liabilities arising from a netting set of derivative contracts as listed in Annex II to Regulation (EU) No 575/2013.
+
+## SECTION 2 — METHODOLOGY
+
+### Article 4 — Determination of the annual contributions
+
+1\. The resolution authorities shall determine the annual contributions to be paid by each institution in proportion to its risk profile on the basis of information provided by the institution in accordance with Article 14 and by applying the methodology set out in this Section.
+
+2\. The resolution authority shall determine the annual contribution referred to in paragraph 1 on the basis of the annual target level of the resolution financing arrangement by taking into account the target level to be reached by 31 December 2024 in accordance with paragraph 1 of Article 102 of Directive 2014/59/EU and on the basis of the average amount of covered deposits in the previous year, calculated quarterly, of all the institutions authorized in its territory.
+
+### Article 5 — Risk adjustment of the basic annual contribution
+
+1\. The contributions referred to in Article 103(2) of Directive 2014/59/EU shall be calculated by excluding the following liabilities:
+
+(a) the intragroup liabilities arising from transactions entered into by an institution with an institution which is part of the same group, provided that all the following conditions are met:
+
+(i) each institution is established in the Union;
+
+(ii) each institution is included in the same consolidated supervision in accordance with Articles 6 to 17 of Regulation (EU) No 575/2013 on a full basis and is subject to an appropriate centralised risk evaluation, measurement and control procedures; and
+
+(iii) there is no current or foreseen material practical or legal impediment to the prompt repayment of the liability when due;
+
+(b) the liabilities created by an institution, which is member of an IPS as referred to in point (8) of Article 2(1) of Directive 2014/59/EU and which has been allowed by the competent authority to apply Article 113(7) of Regulation (EU) No 575/2013, through an agreement entered into with another institution which is member of the same IPS;
+
+(c) in the case of a central counterparty established in a Member State having availed itself of the option in Article 14(5) of Regulation (EU) No 648/2012, liabilities related to clearing activities as defined in Article 2(3) of that Regulation, including those arising from any measures the central counterparty takes to meet margin requirements, to set up a default fund and to maintain sufficient pre-funded financial resources to cover potential losses as part of the default waterfall in accordance with that Regulation, as well as to invest its financial resources in accordance with Article 47 of that Regulation;
+
+(d) in the case of a central securities depository, the liabilities related to the activities of a central securities depository, including liabilities to participants or service providers of the central securities depository with a maturity of less than seven days arising from activities for which it has obtained an authorisation to provide banking-type ancillary services in accordance with Title IV of Regulation (EU) No 909/2014, but excluding other liabilities arising from such banking-type activities;
+
+(e) in the case of investment firms, the liabilities that arise by virtue of holding client assets or client money including client assets or client money held on behalf of UCITS as defined in Article 1(2) of Directive 2009/65/EC of the European Parliament and of the Council ( 7 ) or of AIFs as defined in point (a) of Article 4(1) of Directive 2011/61/EU of the European Parliament and of the Council ( 8 ), provided that such a client is protected under the applicable insolvency law;
+
+(f) in the case of institutions operating promotional loans, the liabilities of the intermediary institution towards the originating or another promotional bank or another intermediary institution and the liabilities of the promotional bank towards its funding parties in so far as the amount of those liabilities is matched by the promotional loans of that institution.
+
+2\. The liabilities referred to in paragraph 1(a) and (b) shall be evenly deducted on a transaction by transaction basis from the amount of total liabilities of the institutions which are parties of the transactions or agreements referred to in paragraph 1(a) and (b).
+
+3\. For the purpose of this Section, the yearly average amount, calculated on a quarterly basis, of the liabilities referred to in paragraph 1, arising from derivative contracts as listed in Annex II to Regulation (EU) No 575/2013, including those that are off-balance sheet, shall be valued in accordance with Articles 5a to 5e of this Regulation.
+
+However, the value assigned to liabilities arising from derivative contracts may not be less than 75 % of the value of the same liabilities resulting from the application of the accounting provisions applicable to the institution concerned for the purposes of financial reporting.
+
+Where, under national accounting standards applying to an institution there is no accounting measure of exposure for certain derivative instruments because those derivative instruments are held off-balance sheet, the institution shall report to the resolution authority the sum of the fair values of those derivatives, where the sum is negative, as the replacement cost and add those derivatives to its on-balance sheet accounting values.
+
+4\. For the purpose of this Section, the total liabilities referred to in paragraph 1 shall exclude the accounting value of liabilities arising from derivative contracts and include the corresponding value determined in accordance with paragraph 3.
+
+5\. For verifying whether all conditions and requirements referred to in paragraphs 1 to 4 are met, the resolution authority shall be based on the relevant assessments conducted by competent authorities that are made available in accordance with Article 90 of Directive 2014/59/EU.
+
+### Article 5a — Exposure value of derivatives
+
+1\. Institutions shall determine the exposure value of the derivate contracts listed in Annex II to Regulation (EU) No 575/2013, including those that are off-balance sheet, in accordance with the Mark-to-Market Method set out in Article 5b.
+
+When determining the exposure value, institutions may take into account the effects of contracts for novation and other netting agreements in accordance with Article 5d. Cross-product netting shall not apply. However, institutions may net within any single product category included in Annex II to Regulation (EU) No 575/2013 when they are subject to a contractual cross-product netting agreement.
+
+2\. Where the provision of collateral related to derivative contracts reduces the amount of liabilities under the applicable accounting framework, institutions shall reverse that reduction.
+
+3\. For the purposes of paragraph 1, institutions may deduct from the current replacement cost portion of the exposure value the variation margin paid in cash to the counterparty in so far as under the applicable accounting framework the variation margin has not already been recognised as a reduction of the exposure value and provided that all of the following conditions are met:
+
+(a) for trades not cleared through a qualifying central counterparty as defined in Article 4(1), point (88), of Regulation (EU) No 575/2013, the cash given to the recipient counterparty is not segregated;
+
+(b) the variation margin is calculated and exchanged on a daily basis, based on a mark-to-market valuation of derivative positions;
+
+(c) the variation margin given in cash is in the same currency as the currency of settlement of the derivative contract;
+
+(d) the variation margin exchanged is the full amount that would be necessary to fully extinguish the mark-to-market exposure of the derivative subject to the threshold and minimum transfer amounts applicable to the institution;
+
+(e) the derivative contract and the variation margin between the institution and the counterparty to that contract are covered by a single netting agreement that the institution may treat as risk-reducing in accordance with Article 5d.
+
+For the purposes of point (c) of the first subparagraph, where the derivative contract is subject to a qualifying master netting agreement, the currency of settlement means any currency of settlement specified in the derivative contract or the governing qualifying master netting agreement.
+
+Where under the applicable accounting framework an institution recognises the variation margin received in cash from the counterparty as a payable liability, it may exclude that liability from the exposure measure provided that the conditions set out in the first subparagraph, points (a) to (e), are met.
+
+4\. For the purposes of paragraph 3, the following shall apply:
+
+(a) the deduction of variation margin paid shall be limited to the negative current replacement cost portion of the exposure value;
+
+(b) an institution shall not use variation margin paid in cash to reduce the potential future credit exposure amount, including for the purposes of Article 5e(1), point (b)(ii).
+
+5\. By way of derogation from paragraph 1, institutions may use the Simplified Exposure Method set out in Article 5c to determine the exposure value of derivative contracts listed in points 1 and 2 of Annex II to Regulation (EU) No 575/2013, provided that the size of the on- and off-balance-sheet derivative business of those institutions meets the conditions set out in Article 273a(2) of that Regulation.
+
+Institutions that apply that Simplified Exposure Method shall not reduce the exposure measure by the amount of variation margin received in cash.
+
+### Article 5b — Mark-to-Market Method
+
+1\. The current replacement cost of liabilities arising from derivative contracts at netting set level shall be the absolute value of the net market value of those contracts within the netting, gross of any collateral held or posted where positive and negative market values are netted in computing the net market value. For that purpose, institutions shall treat an individual derivative transaction as its own netting set.
+
+2\. In order to determine the potential future credit exposure, institutions shall multiply the notional amounts or underlying values, as applicable, by the percentages set out in Table 1 and in accordance with the following:
+
+(a) derivative contracts which do not fall within one of the five categories set out in Table 1 shall be treated as contracts concerning commodities other than precious metals;
+
+(b) for derivative contracts with multiple exchanges of principal, the percentages shall be multiplied by the number of remaining payments still to be made in accordance with the contract;
+
+(c) for derivative contracts that are structured to settle outstanding exposure following specified payment dates and where the terms are reset so that the market value of the derivative contract is zero on those specified dates, the residual maturity shall be equal to the time until the next reset date; in the case of interest-rate contracts that meet those criteria and have a remaining maturity of over one year, the percentage shall be no lower than 0,5 %.
+
+**Table 1**
+
+| Residual maturity | Interest-rate contracts | Contracts concerning foreign-exchange rates and gold | Contracts concerning equities | Contracts concerning precious metals other than gold | Contracts concerning commodities other than precious metals |
+| --- | --- | --- | --- | --- | --- |
+| 1 year or less | 0 % | 1 % | 6 % | 7 % | 10 % |
+| Over 1 year, not exceeding 5 years | 0,5 % | 5 % | 8 % | 7 % | 12 % |
+| Over 5 years | 1,5 % | 7,5 % | 10 % | 8 % | 15 % |
+|  |  |  |  |  |  |
+
+3\. The exposure value shall be the sum of current replacement cost and potential future credit exposure.
+
+### Article 5c — Simplified Exposure Method
+
+1\. Under the Simplified Exposure Method, institutions shall determine the exposure value by multiplying the notional amount of each instrument by the percentages set out in Table 2.
+
+**Table 2**
+
+| Original maturity | Interest-rate contracts | Contracts concerning foreign-exchange rates and gold |
+| --- | --- | --- |
+| 1 year or less | 0,5 % | 2 % |
+| Over 1 year, not exceeding 2 years | 1 % | 5 % |
+| Additional allowance for each additional year | 1 % | 3 % |
+
+2\. Institutions may, when calculating the exposure value of interest-rate contracts, use either the original or residual maturity.
+
+### Article 5d — Recognition of contractual netting as risk-reducing
+
+Institutions may treat as risk reducing in accordance with Article 5e only the following types of contractual netting agreements where such netting agreement has been recognised by competent authorities in accordance with Article 296 of Regulation (EU) No 575/2013 and where the institution meets the requirements set out in Article 297 of that Regulation:
+
+(a) bilateral contracts for novation between an institution and its counterparty under which mutual claims and obligations are automatically amalgamated in such a way that the novation fixes one single net amount each time it applies so as to create a single new contract that is binding on the parties and replaces all former contracts and all obligations between parties pursuant to those contracts;
+
+(b) other bilateral agreements between an institution and its counterparty.
+
+### Article 5e — Effects of recognition of netting as risk-reducing
+
+1\. Institutions shall treat contractual netting agreements as follows:
+
+(a) in the case of contracts for novation, institutions may weigh the single net amounts fixed by such contracts rather than the gross amounts involved;
+
+In the application of Article 5b, institutions may take the contract for novation into account when determining:
+
+— the current replacement cost referred to in Article 5b(1);
+
+— the notional principal amounts or underlying values referred to in Article 5b(2).
+
+In the application of the Simplified Exposure Method, in determining the notional amount referred to in Article 5c(1), institutions may take into account the contract for novation for the purposes of calculating the notional principal amount. In such cases, institutions shall apply the percentages of Table 2.
+
+(b) in the case of other netting agreements, institutions shall apply Article 5b as follows:
+
+(i) the current replacement cost referred to in Article 5b(1) for the contracts included in a netting agreement shall be obtained by taking account of the actual hypothetical net replacement cost which results from the agreement; in the case where netting leads to a net receivable for the institution calculating the net replacement cost, the current replacement cost shall be calculated as ‘0’;
+
+(ii) the figure for potential future credit exposure referred to in Article 5b(2) for all contracts included in a netting agreement shall be reduced in accordance with the following formula:
+
+PCEred = 0,4 • PCEgross + 0,6 • NGR • PCEgross
+
+where:
+
+PCEred = the reduced figure for potential future credit exposure for all contracts with a given counterparty included in a legally valid bilateral netting agreement;
+
+PCEgross = the sum of the figures for potential future credit exposure for all contracts with a given counterparty which are included in a legally valid bilateral netting agreement and are calculated by multiplying their notional principal amounts by the percentages set out in Table 1;
+
+NGR = the net-to-gross ratio calculated as the quotient of the net replacement cost for all contracts included in a legally valid bilateral netting agreement with a given counterparty (numerator) and the gross replacement cost for all contracts included in a legally valid bilateral netting agreement with that counterparty (denominator).
+
+2\. When calculating the potential future credit exposure in accordance with the formula set out in paragraph 1, point (b)(ii), institutions may treat perfectly matching derivative contracts included in the netting agreement as if those contracts were a single contract with a notional principal equivalent to the net receipts.
+
+When applying Article 5c(1), institutions may treat perfectly matching derivative contracts included in the netting agreement as if those contracts were a single contract with a notional principal equivalent to the net receipts, and the notional principal amounts shall be multiplied by the percentages laid down in Article 5c, Table 2.
+
+For the purposes of this paragraph, perfectly matching derivative contracts mean forward foreign-exchange contracts or similar contracts in which a notional principal is equivalent to cash flows if the cash flows fall due on the same value date and are fully in the same currency.
+
+3\. For all other derivative contracts included in a netting agreement, institutions may reduce the percentages applicable as indicated in Table 3.
+
+**Table 3**
+
+| Original maturity | Interest-rate contracts | Foreign-exchange contracts |
+| --- | --- | --- |
+| 1 year or less | 0,35 % | 1,50 % |
+| More than 1 year but not more than 2 years | 0,75 % | 3,75 % |
+| Additional allowance for each additional year | 0,75 % | 2,25 % |
+
+4\. In the case of interest-rate contracts, institutions may choose either original or residual maturity.
+
+### Article 6 — Risk pillars and indicators
+
+1\. The resolution authority shall assess the risk profile of institutions on the basis of the following four risk pillars:
+
+(a) Risk exposure;
+
+(b) Stability and variety of sources of funding;
+
+(c) Importance of an institution to the stability of the financial system or economy;
+
+(d) Additional risk indicators to be determined by the resolution authority.
+
+2\. The ‘Risk exposure’ pillar shall consist of the following risk indicators:
+
+(b) Leverage Ratio;
+
+(c) Common Equity Tier 1 Capital Ratio;
+
+(d) Total Risk Exposure divided by Total Assets.
+
+3\. The ‘Stability and variety of sources of funding’ pillar shall consist of the following risk indicators:
+
+(a) Net Stable Funding Ratio;
+
+(b) LCR.
+
+4\. The ‘Importance of an institution to the stability of the financial system or economy’ pillar shall consist of the indicator “Total amount of interbank loans and deposits in the European Union, capturing the importance of the institution to the economy of the Member State of establishment.
+
+5\. The ‘Additional risk indicators to be determined by the resolution authority’ pillar shall consist of the following indicators:
+
+(a) Trading activities, off-balance sheet exposures, derivatives, complexity and resolvability;
+
+(b) Membership in an Institutional Protection Scheme;
+
+(c) Extent of previous extraordinary public financial support.
+
+When determining the various risk indicators in the ‘Additional risk indicators to be determined by the resolution authority’ pillar, the resolution authority shall take into account the importance of those indicators in the light of the probability that the institution concerned would enter resolution and of the consequent probability of making use of the resolution financing arrangement where the institution would be resolved.
+
+6\. When determining the indicators ‘Trading activities, off-balance sheet exposures, derivatives, complexity and resolvability’ referred to in paragraph 5(a), the resolution authority shall take into account the following elements:
+
+(a) The increase in the risk profile of the institution due to:
+
+(i) the importance of trading activities relative to the balance sheet size, the level of own funds, the riskiness of the exposures, and the overall business model;
+
+(ii) the importance of the off-balance sheet exposures relative to the balance sheet size, the level of own funds, and the riskiness of the exposures;
+
+(iii) the importance of the amount of derivatives relative to the balance sheet size, the level of own funds, the riskiness of the exposures, and the overall business model;
+
+(iv) the extent to which in accordance with Chapter II of Title II of Directive 2014/59/EU the business model and organizational structure of an institution are deemed complex.
+
+(b) The decrease of the risk profile of the institution due to:
+
+(i) relative amount of derivatives which are cleared through a central counterparty (CCP);
+
+(ii) the extent to which in accordance with Chapter II of Title II of Directive 2014/59/EU an institution can be resolved promptly and without legal impediments.
+
+7\. When determining the indicator referred to in paragraph 5(b), the resolution authority shall take into account the following elements:
+
+(a) whether the amount of funds which are available without delay for both recapitalisation and liquidity funding purposes in order to support the affected institution in case of problems is sufficiently large to allow for a credible and effective support of that institution;
+
+(b) the degree of legal or contractual certainty that the funds referred to in point (a) will be fully utilized before any extraordinary public support may be requested.
+
+8\. The risk indicator referred to in paragraph 5(c) shall take the maximum value of the range referred to in Step 3 of Annex I for:
+
+(a) any institution that is part of a group that has been put under restructuring after receiving any State or equivalent funds such as from a resolution financing arrangement, and is still within the restructuring or winding down period, except for the last 2 years of implementation of the restructuring plan;
+
+(b) any institution that is liquidated, until the end of the liquidation plan (to the extent that it is still liable to pay the contribution).
+
+It shall take the minimum value of the range referred to in Step 3 of Annex I for all other institutions.
+
+9\. For the purposes of paragraphs 6, 7 and 8, the determination of the resolution authority shall be based on the assessments conducted by competent authorities where available.
+
+### Article 7 — Relative weight of each risk pillar and indicator
+
+1\. When assessing the risk profile of each institution the resolution authority shall apply the following weights to the risk pillars:
+
+(a) Risk exposure: 50 %;
+
+(b) Stability and variety of sources of funding: 20 %;
+
+(c) Importance of an institution to the stability of the financial system or economy: 10 %;
+
+(d) Additional risk indicators to be determined by the resolution authority: 20 %.
+
+2\. Each risk indicator in the ‘Risk exposure’ pillar shall have an equal weight.
+
+3\. Each risk indicator in the ‘Stability and variety of sources of funding’ pillar shall have an equal weight.
+
+4\. The relative weight of each indicator that resolution authorities shall assess to determine the ‘Additional risk indicators to be determined by the resolution authority’ pillar shall be the following:
+
+(a) Trading activities and off-balance sheet exposures, derivatives, complexity and resolvability: 45 %;
+
+(b) Membership in an Institutional Protection Scheme: 45 %;
+
+(c) Extent of previous extraordinary public financial support: 10 %.
+
+When applying the indicator referred to in point (b), the resolution authority shall take into account the relative weight of the indicator referred to in point (a).
+
+### Article 8 — Application of the risk indicators in specific cases
+
+1\. Where a competent authority has granted a waiver to an institution in accordance with Articles 8 and 21 of Regulation (EU) No 575/2013, the indicator referred to in Article 6(3)(b) of this Regulation shall be applied by the resolution authority at the level of the liquidity sub-group. The score obtained by that indicator at the liquidity sub-group level shall be attributed to each institution which is part of the liquidity sub-group for the purposes of calculating that institution's risk indicator.
+
+3\. Where a competent authority has granted a waiver to an institution in other circumstances defined in Regulation (EU) No 575/2013, the relevant indicators may be calculated at consolidated level. The score obtained by those indicators at consolidated level shall be attributed to each institution which is part of the group for the purposes of calculating that institution's risk indicators.
+
+### Article 9 — Application of the risk adjustment to the basic annual contribution
+
+1\. The resolution authority shall determine the additional risk adjusting multiplier for each institution by combining the risk indicators referred to in Article 6 in accordance with the formula and the procedures set out in Annex I.
+
+2\. Without prejudice to Article 10, the annual contribution of each institution shall be determined for each contribution period by the resolution authority by multiplying the basic annual contribution by the additional risk adjusting multiplier in accordance with the formula and the procedures set out in Annex I.
+
+3\. The risk adjusting multiplier shall range between 0,8 and 1,5.
+
+### Article 10 — Annual contributions of small institutions
+
+1\. Institutions whose total liabilities, less own funds and covered deposits, are equal to or less than EUR 50 000 000 , and whose total assets are less than EUR 1 000 000 000 , shall pay a lump-sum of EUR 1 000 as annual contribution for each contribution period.
+
+2\. Institutions whose total liabilities, less own funds and covered deposits, are above EUR 50 000 000 but equal to or less than EUR 100 000 000 , and whose total assets are less than EUR 1 000 000 000 , shall pay a lump-sum of EUR 2 000 as annual contribution for each contribution period.
+
+3\. Institutions whose total liabilities, less own funds and covered deposits, are above EUR 100 000 000 but equal to or less than EUR 150 000 000 , and whose total assets are less than EUR 1 000 000 000 , shall pay a lump-sum of EUR 7 000 as annual contribution for each contribution period.
+
+4\. Institutions whose total liabilities, less own funds and covered deposits, are above EUR 150 000 000 but equal to or less than EUR 200 000 000 , and whose total assets are less than EUR 1 000 000 000 , shall pay a lump-sum of EUR 15 000 as annual contribution for each contribution period.
+
+5\. Institutions whose total liabilities, less own funds and covered deposits, are above EUR 200 000 000 but equal to or less than EUR 250 000 000 , and whose total assets are less than EUR 1 000 000 000 , shall pay a lump-sum of EUR 26 000 as annual contribution for each contribution period.
+
+6\. Institutions whose total liabilities, minus own funds and covered deposits, are above EUR 250 000 000 but equal to or less than EUR 300 000 000 , and whose total assets are less than EUR 1 000 000 000 , shall pay a lump-sum of EUR 50 000 as annual contribution for each contribution period.
+
+7\. Without prejudice to paragraph 8, if the institution provides sufficient evidence that the lump sum amount referred to in paragraphs 1 to 6 is higher than the contribution calculated in accordance with Article 5, the resolution authority shall apply the lower.
+
+8\. Notwithstanding paragraphs 1 to 6, a resolution authority may adopt a reasoned decision determining that an institution has a risk profile that is disproportionate to its small size and apply Articles 5, 6, 7, 8 and 9 to that institution. That decision shall be based on the following criteria:
+
+(a) the business model of an institution;
+
+(b) the information reported by that institution pursuant to Article 14;
+
+(c) the risk pillars and indicators referred to in Article 6;
+
+(d) the assessment of the competent authority as regards the risk profile of that institution.
+
+9\. Paragraphs 1 to 8 shall not apply to those institutions whose total liabilities, less own funds and covered deposits are equal to or less than EUR 300 000 000 after the liabilities referred to in Article 5(1) have been excluded.
+
+10\. The exclusions referred to Article 5(1) shall not be taken into account when applying paragraphs 1 to 9 to institutions whose total liabilities, less own funds and covered deposits are equal to or less than EUR 300 000 000 before the liabilities referred to in Article 5(1) have been excluded.
+
+### Article 11 — Annual contributions of institutions covered by Article 45(3) of Directive 2014/59/EU
+
+1\. Without prejudice to Article 10, the annual contributions of institutions referred to in Article 45(3) of Directive 2014/59/EU shall be calculated in accordance with Article 9 using 50 % of their basic annual contribution.
+
+2\. In case the resolution financing arrangement is used with regard to an institution referred to in Article 45(3) of Directive 2014/59/EU in a Member State for any of the purposes referred to in Article 101 of Directive 2014/59/EU, the resolution authority may adopt a reasoned decision determining that Articles 5, 6, 7, 8 and 9 apply to those institutions which have a risk profile that is similar or above the risk profile of the institution which has used the resolution financing arrangement for any of the purposes referred to in Article 101 of Directive 2014/59/EU. The determination of the similarity of the risk profile by the resolution authority for the purpose of its reasoned decision shall take into account all of the following elements:
+
+(a) the business model of that institution;
+
+(b) the information reported by that institution pursuant to Article 14;
+
+(c) the risk pillars and indicators referred to in Article 6;
+
+(d) the assessment of the competent authority as regards the risk profile of that institution.
+
+### Article 12 — New supervised institutions or change of status
+
+1\. Where an institution is a newly supervised institution for only part of a contribution period, the partial contribution shall be determined by applying the methodology set out in this Section to the amount of its annual contribution calculated during the subsequent contribution period by reference to the number of full months of the contribution period for which the institution is supervised.
+
+2\. A change of status of an institution, including a small institution, during the contribution period shall not have an effect on the annual contribution to be paid in that particular year.
+
+### Article 13 — Process for raising annual contributions
+
+1\. The resolution authority shall notify each institution referred to in Article 2 of its decision determining the annual contribution due by each institution at the latest by 1 May each year.
+
+2\. The resolution authority shall notify the decision in any of the following ways:
+
+(a) electronically or by other comparable means of communication allowing for an acknowledgment of receipt;
+
+(b) by registered mail with a form of acknowledgment of receipt.
+
+3\. The decision shall specify the condition and the means by which the annual contribution shall be paid and the share of irrevocable payment commitments referred to in Article 103 of Directive 2014/59/EU that each institution can use. The resolution authority shall accept collateral only of the kind and under conditions that allow for swift realisability including in the event of a resolution decision over the weekend. The collateral should be conservatively valued to reflect significantly deteriorated market conditions.
+
+4\. Without prejudice to any other remedy available to the resolution authority, in the event of partial payment, non-payment or non-compliance with the requirement set out in the decision, the institution concerned shall incur a daily penalty on the outstanding amount of the instalment.
+
+The daily penalty interest shall accrue on a daily basis on the amount due at an interest rate applied by the European Central Bank to its principal refinancing operations, as published in the C series of the Official Journal of the European Union, in force on the first calendar day of the month in which the payment deadline falls increased by 8 percentage points from the date on which the instalment was due.
+
+5\. Where an institution is a newly supervised institution for only part of a contribution period, its partial annual contribution shall be collected together with the annual contribution due for the subsequent contribution period.
+
+## SECTION 3 — ADMINISTRATIVE ASPECTS AND PENALTIES
+
+### Article 14 — Reporting obligations of institutions
+
+1\. Institutions shall provide the resolution authority with the latest approved annual financial statements which were available, at the latest, on the 31 December of the year preceding the contribution period, together with the opinion submitted by the statutory auditor or audit firm, in accordance with Article 32 of Directive 2013/34/EU of the European Parliament and of the Council ( 9 ).
+
+2\. Institutions shall provide the resolution authority at least with the information referred to in Annex II at individual entity level.
+
+3\. The information referred to in Annex II, included in the supervisory reporting requirements laid down in Commission Implementing Regulation (EU) 2021/451 ( 10 ) or, where applicable, by any other supervisory reporting requirement applicable to the institution under national law, shall be provided to the resolution authority as reported by the institution in the latest relevant supervisory report submitted to the competent authority pertaining to the reference year of the annual financial statement referred to in paragraph 1 of this Article.
+
+4\. The information referred to in paragraphs 1, 2 and 3 shall be provided at the latest by 31 January each year in respect of the year ended on the 31st of December of the preceding year, or of the applicable relevant financial year. If the 31st of January is not a business day, the information shall be provided on the following business day.
+
+5\. Where the information or data submitted to the resolution authorities is subject to updates or corrections, those updates or corrections shall be submitted to the resolution authorities without undue delay within the time limit laid down in Article 17(5).
+
+6\. .The institutions shall submit the information referred to in Annex II in the data formats and representations specified by the resolution authority.
+
+7\. The information provided in accordance with paragraphs 2 and 3 shall be subject to the confidentiality and professional secrecy requirements set out in Article 84 of Directive 2014/59/EU.
+
+### Article 16 — Reporting obligations of deposit guarantee schemes
+
+1\. By 31 January each year, deposit guarantee schemes shall provide resolution authorities with the calculation of the average amount of covered deposits in the previous year, calculated quarterly, of all their member credit institutions.
+
+2\. This information shall be provided both at individual and aggregated level of the credit institutions concerned in order to enable the resolution authorities to determine the annual target level of the resolution financing arrangement in accordance with Article 4(2) and to determine the basic annual contribution of each institution in accordance with Article 5.
+
+### Article 17 — Enforcement
+
+1\. Where institutions do not submit all the information referred in Article 14 within the timeframe foreseen in that Article, the resolution authority shall use estimates or its own assumptions in order to calculate the annual contribution of the institution concerned.
+
+2\. Where the information is not provided by 31 January each year, the resolution authority may assign the institution concerned to the highest risk adjusting multiplier as referred to in Article 9.
+
+3\. Where the information submitted by the institutions to the resolution authority is subject to restatements or revisions, the resolution authority shall adjust the annual contribution in accordance with the updated information upon the calculation of the annual contribution of that institution for the following contribution period.
+
+4\. Any difference between the annual contribution calculated and paid on the basis of the information subject to restatements or revision and the annual contribution which should have been paid following the adjustment of the annual contribution shall be settled in the amount of the annual contribution due for the following contribution period. That adjustment shall be made by decreasing or increasing the contributions to the following contribution period.
+
+5\. Requests for restatements or revisions of information submitted for the purpose of calculating annual contributions shall be subject to a time limit. That time limit shall start on the date on which resolution authorities notified the decision determining the annual contribution to the institution pursuant to Article 13(1) and (2) and shall expire on 31 January of the year following the fourth contribution period after the contribution period in which that decision was notified.
+
+The time limit referred to in the first subparagraph of this paragraph shall apply both to requests for restatements or revisions submitted by institutions pursuant to Article 14(5) and to those initiated by the resolution authorities. The time limit shall not be subject to interruption.
+
+Where 31 January is not a business day, the time limit referred to in the first subparagraph shall expire on the following business day.
+
+### Article 18 — Administrative penalties and other administrative measures
+
+The resolution authorities may impose administrative penalties and other administrative measures referred to in Article 110 of Directive 2014/59/EU to the persons or entities responsible for breaches of this Regulation.
+
+## SECTION 4 — COOPERATION ARRANGEMENTS
+
+### Article 19 — Cooperation arrangements
+
+1\. In order to ensure that the contributions are in fact paid the competent authorities shall assist the resolution authorities in carrying out any task under this Regulation if the latter so request.
+
+2\. Upon request, the competent authorities shall provide the resolution authorities with the contact details of the institutions to which the decision referred to in paragraph 1 of Article 13 shall be notified at the latest by 1 April each year or on the following business day if the 1st of April is not a business day. Such contact details refer to name of the legal person, name of the natural person representing the legal person, address, e-mail address, telephone number, fax number or any other information that allows identifying an institution.
+
+3\. The competent authorities shall provide the resolution authorities any information enabling the resolution authorities to calculate the annual contributions, in particular any information related to the additional risk adjustment and any relevant waivers that competent authorities have granted to institutions pursuant to Directive 2013/36/EU and Regulation (EU) No 575/2013.
+
+## SECTION 5 — FINAL PROVISIONS
+
+### Article 20 — Transitional provisions
+
+1\. Where the information required by a specific indicator as referred to in Annex II is not included in the applicable supervisory reporting requirement referred to in Article 14 for the reference year, that risk indicator shall not apply until that supervisory reporting requirement becomes applicable. The weight of other available risk indicators shall be rescaled proportionally to their weight as provided for in Article 7 so that the sum of their weights is 1. In 2015 where any of the information required in Article 16 is not available to the deposit guarantee scheme by 1 September for the purposes of the calculation the annual target level referred to in Article 4(2) or of the basic annual contribution of each institution referred to in Article 5, following a notification by the deposit guarantee scheme, the relevant credit institutions shall provide the resolution authorities with that information by that date.  By way of derogation from Article 13(1), with regards to the contributions to be paid in 2015, the resolution authorities shall notify each institution of its decision determining the annual contribution to be paid by them at the latest by 30 November 2015.
+
+2\. By way of derogation from Article 13(4), and with regards to the contributions to be paid in 2015, the amount due under the decision referred to in Article 13(3) shall be paid by 31 December 2015.
+
+3\. By way of derogation from Article 14(4), and with regards to the information to be provided to the resolution authority in 2015, the information referred to in that paragraph shall be provided at the latest by the 1 September 2015.
+
+4\. By way of derogation from Article 16(1), the deposit guarantee schemes shall provide the resolution authority by 1 September 2015 with the information about the amount of covered deposits as of 31 July 2015.
+
+5\. Without prejudice to Article 10 of this Regulation, during the initial period referred to in Article 102(1) of Directive 2014/59/EU, Member States may allow institutions whose total assets are equal to or less than EUR 3 000 000 000 to pay a lump-sum of EUR 50 000 for the first EUR 300 000 000 of total liabilities, less own funds and covered deposits. For the total liabilities less own funds and covered deposits above EUR 300 000 000 , those institutions shall contribute in accordance with Articles 4 to 9 of this Regulation.
+
+6\. By way of derogation from Article 13(1), in the 2023 contribution period the resolution authorities shall notify each institution referred to in Article 2 of their decisions determining the annual contribution due by each institution by 31 May 2023.
+
+7\. By way of derogation from Article 14(4), and with regard to the information to be provided to the resolution authority in 2023, the information referred to in that paragraph shall be provided at the latest by 28 February 2023.
+
+8\. By way of derogation from Article 13(1), in the 2024 contribution period the resolution authorities shall notify each institution referred to in Article 2 of their decisions determining the annual contribution due by each institution by 31 May 2024.
+
+9\. By way of derogation from Article 14(4), and with regard to the information to be provided to the resolution authority in 2023, the information referred to in that paragraph shall be provided at the latest by 29 February 2024.
+
+10\. By way of derogation from Article 17(5), requests for restatements or revisions of information submitted for the purpose of calculating annual contributions of contribution periods prior to the 2026 contribution period, shall be submitted until 31 January 2031.
+
+Where 31 January is not a business day, the time limit referred to in the first subparagraph shall expire on the following business day.
+
+The first subparagraph of this paragraph shall apply both to requests submitted by institutions pursuant to Article 14(5) and to those initiated by resolution authorities. The time limit shall not be subject to interruption.
+
+### Article 21 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2015.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — PROCEDURE FOR THE CALCULATION OF THE ANNUAL CONTRIBUTIONS OF INSTITUTIONS
+
+**STEP 1**
+
+**Calculation of the Raw Indicators**
+
+The resolution authority shall calculate the following indicators by applying the following measures:
+
+| Pillar | Indicator | Measures |
+| --- | --- | --- |
+| Risk exposure | Leverage Ratio | Leverage Ratio as defined in Article 429 of Regulation (EU) No 575/2013 and reported in accordance with Annex X of Implementing Regulation (EU) 2021/451. |
+| Risk exposure | Common Equity Tier 1 Capital Ratio | Common Equity Tier 1 Capital Ratio as defined in Article 92 of Regulation (EU) No 575/2013 and reported in accordance with Annex I to Implementing Regulation (EU) 2021/451. |
+| Risk exposure | TRE/Total Assets | [image] where: TRE means the total risk exposure amount as defined in Article 92(3) of Regulation (EU) No 575/2013. Total assets are defined in Article 3(12) of this Regulation. |
+| Stability and Variety of Funding | Net Stable Funding Ratio | Net Stable Funding Ratio as reported in accordance with Article 415 of Regulation (EU) No 575/2013. |
+| Stability and Variety of Funding | Liquidity Coverage Ratio | Liquidity Coverage Ratio as reported in accordance with Article 415 of Regulation (EU) No 575/2013 and with Delegated Regulation (EU) 2015/61. |
+| Importance of an institution to the stability of the financial system or economy | Total amount of interbank loans and deposits in the Union | [image] where: Interbank loans are defined as the sum of the carrying amounts of loans and advances to credit institutions and other financial corporations as reported in the relevant reporting templates under Annexes III and IV to Implementing Regulation (EU) 2021/451. Interbank deposits are defined as the carrying amount of the deposits of credit institutions and other financial corporations as reported in the relevant reporting templates under Annexes III and IV to Implementing Regulation (EU) 2021/451. |
+
+**STEP 2**
+
+**Discretisation of the Indicators**
+
+1\. In the notation that follows, n indexes institutions, i indexes indicators within pillars and j indexes pillars.
+
+2\. For each raw indicator resulting from Step 1, xij, except for the indicator ‘extent of previous extraordinary public financial support’, the resolution authority shall calculate the number of bins, kij, as the nearest integer to:
+
+[image]
+
+where:
+
+N is the number of institutions, contributing to the resolution financing arrangement, for which the indicator is calculated;
+
+[image]
+
+[image]
+
+[image]
+
+3\. For each indicator, except for the indicator ‘extent of previous extraordinary public financial support’, the resolution authority shall assign the same number of institutions to each bin, starting by assigning institutions with the lowest values of the raw indicator to the first bin. In case the number of institutions cannot be exactly divided by the number of bins, each of the first r bins, starting from the bin containing the institutions with the lowest values of the raw indicator, where r is the remainder of the division of the number of institutions, N, by the number of bins, kij, is assigned one additional institution.
+
+4\. For each indicator, except for the indicator ‘extent of previous extraordinary public financial support’, the resolution authority shall assign to all the institutions contained in a given bin the value of the order of the bin, counting from the left to the right, so that the value of the discretised indicator is defined as Iij,n = 1, …, kij.
+
+5\. This Step shall apply to the indicators listed under points (a) and (b) of Article 6(5) only if the resolution authority determines them as continuous variables.
+
+**STEP 3**
+
+**Rescaling of the Indicators**
+
+The resolution authority shall rescale each indicator resulting from Step 2, Iij, over the range 1-1 000 by applying the following formula:
+
+[image]
+
+where the arguments of the minimum and the maximum functions shall be the values of all institutions, contributing to the resolution financing arrangement, for which the indicator is calculated.
+
+**STEP 4**
+
+**Inclusion of the Assigned Sign**
+
+1\. The resolution authority shall apply the following signs to the indicators:
+
+| Pillar | Indicator | Sign |
+| --- | --- | --- |
+| Risk exposure | Leverage Ratio | – |
+| Risk exposure | Common Equity Tier 1 Capital Ratio | – |
+| Risk exposure | TRE/Total Assets | + |
+| Stability and Variety of Funding | Net Stable Funding Ratio | – |
+| Stability and Variety of Funding | Liquidity Coverage Ratio | – |
+| Importance of an institution to the stability of the financial system or economy | Total amount of interbank loans and deposits in the Union | + |
+| Additional risk indicators to be determined by the resolution authority | IPS Membership | – |
+| Additional risk indicators to be determined by the resolution authority | Extent of previous extraordinary public financial support | + |
+
+For indicators with positive sign, higher values correspond to higher riskiness of an institution. For indicators with negative sign, higher values correspond to lower riskiness of an institution.
+
+The resolution authority shall determine the indicators trading activities, off-balance sheet exposures, derivatives, complexity and resolvability, and specify their sign accordingly.
+
+2\. The resolution authority shall apply the following transformation to each rescaled indicator resulting from Step 3, RIij,n, in order to include its sign:
+
+<table>
+<tbody><tr><td rowspan="2">TRIij,n =</td><td>RIij,n</td><td>if sign = ‘–’</td></tr>
+<tr><td>1 001 – RIij,n</td><td>if sign = ‘+’</td></tr>
+</tbody>
+</table>
+
+**STEP 5**
+
+**Calculation of the Composite Indicator**
+
+1\. The resolution authority shall aggregate the indicators i within each pillar j through a weighted arithmetic average by applying the following formula:
+
+[image]
+
+where:
+
+wij is the weight of indicator i in pillar j as defined by Article 7;
+
+Nj is the number of indicators within pillar j.
+
+2\. In order to compute the composite indicator, the resolution authority shall aggregate the pillars j through a weighted geometric average by applying the following formula:
+
+[image]
+
+where:
+
+Wj is the weight of pillar j as defined by Article 7;
+
+J is the number of pillars.
+
+3\. The resolution authority shall apply the following transformation in order for the final composite indicator to be defined as taking higher values for institutions with higher risk profiles:
+
+[image]
+
+**STEP 6**
+
+**Calculation of the Annual Contributions**
+
+1\. The resolution authority shall rescale the final composite indicator resulting from Step 5, FCIn, over the range defined in Article 9 by applying the following formula:
+
+[image]
+
+where the arguments of the minimum and the maximum functions shall be the values of all institutions, contributing to the resolution financing arrangement, for which the final composite indicator is calculated.
+
+2\. The resolution authority shall compute the annual contribution of each institution n, except in respect of institutions which are subject to Article 10 and except for the lump-sum portion of the contributions of institutions to which Member States apply Article 20(5), as:
+
+[image]
+
+where:
+
+p, q index institutions;
+
+Target is the annual target level as determined by the resolution authority in accordance with Article 4(2), minus the sum of the contributions calculated in accordance with Article 10 and minus the sum of any lump sum that may be paid under Article 20(5);
+
+Bn is the amount of liabilities (excluding own funds) less covered deposits of institution n, as adjusted in accordance with Article 5 and without prejudice to the application of Article 20(5).
+
+## ANNEX II
+
+**DATA TO BE SUBMITTED TO THE RESOLUTION AUTHORITIES**
+
+— Total Assets as defined in Article 3(12)
+
+— Total Liabilities as defined in Article 3(11)
+
+— Liabilities covered by points (a), (b), (c), (d), (e) and (f) of Article 5(1)
+
+— Liabilities arising from derivatives contracts
+
+— Liabilities arising from derivatives contracts valued in accordance with Article 5(3)
+
+— Covered deposits
+
+— Total Risk Exposure
+
+— Own funds
+
+— Common Equity Tier 1 Capital Ratio
+
+— Eligible liabilities
+
+— Leverage Ratio
+
+— Liquidity Coverage Ratio
+
+— Net Stable Funding Ratio
+
+— Interbank loans
+
+— Interbank deposits
+
+( 1 ) Directive 2014/49/EU of the European Parliament and of the Council of 16 April 2014 on deposit guarantee schemes (OJ L 173, 12.6.2014, p. 149).
+
+( 2 ) Directive (EU) 2019/2034 of the European Parliament and of the Council of 27 November 2019 on the prudential supervision of investment firms and amending Directives 2002/87/EC, 2009/65/EC, 2011/61/EU, 2013/36/EU, 2014/59/EU and 2014/65/EU (OJ L 314, 5.12.2019, p. 64, ELI: http://data.europa.eu/eli/dir/2019/2034/oj).
+
+( 3 ) Council Directive 86/635/EEC of 8 December 1986 on the annual accounts and consolidated accounts of banks and other financial institutions (OJ L 372, 31.12.1986, p. 1).
+
+( 4 ) Regulation (EC) No 1606/2002 of the European Parliament and of the Council of 19 July 2002 on the application of international accounting standards (OJ L 243, 11.9.2002, p. 1).
+
+( 5 ) Commission Delegated Regulation (EU) 2015/61 of 10 October 2014 to supplement Regulation (EU) 575/2013 with regard to liquidity coverage requirement for Credit Institutions (see page 1 of this Official Journal).
+
+( 6 ) Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives 98/26/EC and 2014/65/EU and Regulation (EU) No 236/2012 (OJ L 257, 28.8.2014, p. 1).
+
+( 7 ) Directive 2009/65/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of laws, regulations and administrative provisions relating to undertakings for collective investment in transferable securities (UCITS) (OJ L 302, 17.11.2009, p. 32).
+
+( 8 ) Directive 2011/61/EU of the European Parliament and of the Council of 8 June 2011 on Alternative Investment Fund Managers and amending Directives 2003/41/EC and 2009/65/EC and Regulations (EC) No 1060/2009 and (EU) No 1095/2010 (OJ L 174, 1.7.2011, p. 1).
+
+( 9 ) Directive 2013/34/EU of the European Parliament and of the Council of 26 June 2013 on the annual financial statements, consolidated financial statements and related reports of certain types of undertakings, amending Directive 2006/43/EC of the European Parliament and of the Council and repealing Council Directives 78/660/EEC and 83/349/EEC (OJ L 182, 29.6.2013, p. 19).
+
+( 10 ) Commission Implementing Regulation (EU) 2021/451 of 17 December 2020 laying down implementing technical standards for the application of Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to supervisory reporting of institutions and repealing Implementing Regulation (EU) No 680/2014 (OJ L 97, 19.3.2021, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2021/451/oj).

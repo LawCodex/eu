@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2004/101/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 October 2004 </td><td> L 338</td><td>18</td><td>13.11.2004</td></tr>
@@ -42,6 +43,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE (EU) 2023/958 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 </td><td> L 130</td><td>115</td><td>16.5.2023</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/959 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 </td><td> L 130</td><td>134</td><td>16.5.2023</td></tr>
 <tr><td></td><td> REGULATION (EU) 2024/795 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 February 2024 </td><td> L 795</td><td>1</td><td>29.2.2024</td></tr>
+</table>
 
 |  | TREATY CONCERNING THE ACCESSION OF THE REPUBLIC OF CROATIA TO THE EUROPEAN UNION | L 112 | 21 | 24.4.2012 |
 | --- | --- | --- | --- | --- |
@@ -1676,6 +1678,7 @@ This Directive is addressed to the Member States.
 
 6\. From 1 January 2012 all flights which arrive at or depart from an aerodrome situated in the territory of a Member State to which the Treaty applies shall be included.
 
+<table>
 <tbody><tr><td>Activities</td><td>Greenhouse gases</td></tr>
 <tr><td colspan="2"></td></tr>
 <tr><td>Combustion of fuels in installations with a total rated thermal input exceeding 20 MW (except in installations for the incineration of hazardous or municipal waste) From 1 January 2024, combustion of fuels in installations for the incineration of municipal waste with a total rated thermal input exceeding 20 MW, for the purposes of Articles 14 and 15. </td><td>Carbon dioxide</td></tr>
@@ -1723,6 +1726,7 @@ This Directive is addressed to the Member States.
 <tr><td colspan="2"></td></tr>
 <tr><td>Maritime transport Maritime transport activities covered by Regulation (EU) 2015/757 with the exception of the maritime transport activities covered by Article 2(1a) and, until 31 December 2026, Article 2(1b) of that Regulation </td><td>Carbon dioxide From 1 January 2026, methane and nitrous oxide </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — GREENHOUSE GASES REFERRED TO IN ARTICLES 3 AND 30
 
@@ -1740,6 +1744,7 @@ Sulphur Hexafluoride (SF6)
 
 ## ANNEX IIa — Increases in the percentage of allowances to be auctioned by Member States pursuant to Article 10(2)(a), for the purpose of Union  solidarity and growth in order to reduce emissions and adapt to the effects of climate change
 
+<table>
 <tbody><tr><td>  </td><td>Member State share</td></tr>
 <tr><td colspan="2"> —————</td></tr>
 <tr><td colspan="2"></td></tr>
@@ -1766,6 +1771,7 @@ Sulphur Hexafluoride (SF6)
 <tr><td>Slovakia</td><td>41 %</td></tr>
 <tr><td colspan="2"> —————</td></tr>
 </tbody>
+</table>
 
 ## ANNEX IIb
 

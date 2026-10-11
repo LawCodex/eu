@@ -1,0 +1,1585 @@
+---
+title: "Commission Regulation (EC) No 1010/2009 of 22 October 2009 laying down detailed rules for the implementation of Council Regulation (EC) No 1005/2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing"
+identifier: "32009R1010"
+eli: "http://data.europa.eu/eli/reg/2009/1010/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-10-22
+entry_into_force: 2009-12-31
+last_amended: 2026-01-10
+consolidated_version: "02009R1010-20260110"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R1010-20260110"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1010/2009 of 22 October 2009 laying down detailed rules for the implementation of Council Regulation (EC) No 1005/2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing
+
+**COMMISSION REGULATION (EC) No 1010/2009**
+
+**of 22 October 2009**
+
+**laying down detailed rules for the implementation of Council Regulation (EC) No 1005/2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EU) No 86/2010 of 29 January 2010 </td><td> L 26</td><td>1</td><td>30.1.2010</td></tr>
+<tr><td> M2</td><td> COMMISSION REGULATION (EU) No 395/2010 of 7 May 2010 </td><td> L 115</td><td>1</td><td>8.5.2010</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 202/2011 of 1 March 2011 </td><td> L 57</td><td>10</td><td>2.3.2011</td></tr>
+<tr><td> M4</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1222/2011 of 28 November 2011 </td><td> L 314</td><td>2</td><td>29.11.2011</td></tr>
+<tr><td> M5</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 336/2013 of 12 April 2013 </td><td> L 105</td><td>4</td><td>13.4.2013</td></tr>
+<tr><td> M6</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 865/2013 of 9 September 2013 </td><td> L 241</td><td>1</td><td>10.9.2013</td></tr>
+<tr><td> M7</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/423 of 19 March 2020 </td><td> L 84</td><td>15</td><td>20.3.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1522 of 28 July 2025 </td><td> L 1522</td><td>1</td><td>29.7.2025</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 1010/2009**
+
+**of 22 October 2009**
+
+**laying down detailed rules for the implementation of Council Regulation (EC) No 1005/2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing**
+
+## TITLE I — INSPECTIONS OF THIRD COUNTRY FISHING VESSELS IN MEMBER STATES PORTS
+
+### CHAPTER I — Conditions for access to port by third country fishing vessels
+
+##### Article 1 — Prior notification
+
+By way of derogation from Article 6(1) of Regulation (EC) No 1005/2008, vessels landing the types of fishery products set out in Annex I to this Regulation shall be subject to a prior notification period of 4 hours.
+
+##### Article 2 — Prior notification form
+
+The form for prior notification referred to in Article 6(1) of Regulation (EC) No 1005/2008 is set out in Annex II to this Regulation.
+
+##### Article 3 — Procedures and forms for pre-landing and pre-transhipment declarations
+
+1\. The form of the pre-landing declaration referred to in Article 8(1) of Regulation (EC) No 1005/2008 shall be as set out in Annex IIIA to this Regulation.
+
+2\. The form of the pre-transhipment declaration referred to in Article 8(1) of Regulation (EC) No 1005/2008 shall be as set out in Annex IIIB to this Regulation.
+
+3\. A third country fishing vessel may submit the pre-landing or pre-transhipment declaration in electronic format if the Member State whose designated ports of landing and transhipment facilities it intends to use and the flag State of the vessel have agreed to electronic exchange of data.
+
+4\. Unless otherwise provided for in the agreement referred to in paragraph 3, a third country fishing vessel shall submit the pre-landing or pre-transhipment declaration either in:
+
+(a) the official language of the Member State of landing or transhipment; or
+
+(b) English if accepted by the Member State of landing or transhipment.
+
+5\. The pre-landing or pre-transhipment declaration shall be submitted at least 4 hours before the intended landing or transhipment.
+
+### CHAPTER II — Port inspections
+
+##### Article 4 — Benchmarks for port inspection
+
+1\. The benchmarks for port inspections as referred to in Article 9(1) of Regulation (EC) No 1005/2008 shall consist of the following criteria:
+
+(a) the species concerned are subject to an inspection scheme or quotas established by regional fisheries management organisations;
+
+(b) the fishing vessel has not been inspected at an EU port in the last 6 months;
+
+(c) inconsistencies between the catches and the known fishing activities of a flag State in particular in respect of species, volumes or characteristics of its fishing fleet;
+
+(d) failure to comply with Article 6 of Regulation (EC) No 1005/2008 on prior notice; inconsistencies between catch data declared by the operator and other information available to the competent authority;
+
+(e) vessel owner or operator suspected of being or having been involved in IUU fishing activities;
+
+(f) vessel having recently changed its name, flag or registration number;
+
+(g) vessel currently flagged or flagged in the last 5 years to a State notified by the European Commission of the possibility of being identified as non-cooperating third country in accordance with Article 31 of the Regulation (EC) No 1005/2008;
+
+(h) vessel flagged to a State not notified in accordance with Article 20 of Regulation (EC) No 1005/2008;
+
+(i) information available on possible irregularities in the validation of catch certificates by a given flag State;
+
+(j) presumed deficiencies in the control system of a flag State;
+
+(k) operators concerned have been involved in illegal activities constituting a potential risk in respect of IUU fishing;
+
+(l) the fishing vessel has been denied entry or use of port in accordance with relevant international, regional and/or national legislation including fishing vessels eventually allowed entry or access to port due to force majeure or distress according to Article 4(2) of Regulation (EC) No 1005/2008.
+
+2\. In order to ensure the implementation of point (b) of the first paragraph, Member States shall, after every inspection, report without delay to the Commission and to the European Fisheries Control Agency the name and the flag of the third country vessel inspected and the date of inspection. The Commission or the European Fisheries Control Agency shall make this information available to other Member States.
+
+##### Article 5 — Reporting on the application of benchmarks
+
+1\. Member States shall report on the application of benchmarks referred to in Article 4 in their report to be transmitted to the Commission every two years according to Article 55(1) of Regulation (EC) No 1005/2008.
+
+2\. On the basis of those reports and its own observations, the Commission shall undertake an evaluation and possible adjustment of the benchmarks.
+
+## TITLE II — CATCH CERTIFICATION SCHEME FOR IMPORTATION AND EXPORTATION OF FISHERY PRODUCTS
+
+### CHAPTER I — Catch certificates
+
+##### Article 6 — Simplified catch certificate
+
+1\. This Article shall apply to third country fishing vessels:
+
+(a) with an overall length of less than 12 metres without towed gear; or
+
+(b) with an overall length of less than 8 metres with towed gear; or
+
+(c) without a superstructure; or
+
+(d) of less than measured 20 GT.
+
+2\. Catches from third country fishing vessels referred to in paragraph 1 which are only landed in the flag State of those vessels and which together constitute one consignment may be accompanied by a simplified catch certificate instead of the catch certificate referred to in Article 12 of Regulation (EC) No 1005/2008. The simplified catch certificate shall contain all the information specified in the specimen shown in Annex IV to this Regulation and shall be validated by a public authority of the flag State with the necessary powers to attest the accuracy of the information.
+
+3\. The validation of the simplified catch certificate shall be requested by the exporter of the consignment upon submission to the public authority of all the information specified in the specimen shown in Annex IV.
+
+##### Article 6a — Catch
+
+1\. In accordance with Article 12a(2) of Regulation (EC) No 1005/2008, the importer, the re-exporter and, where relevant, the exporter, shall submit through CATCH the following documents, as applicable, and the information contained therein to the competent authority of the Member State in which the fishery products are intended to be released into free circulation, or in case of re-exports to the competent authority of the Member State from which they are to take place, or in case of exports to the competent authority of the flag Member State:
+
+(a) catch certificate in conformity with Article 12 of Regulation (EC) No 1005/2008 and the template established on Annex II to that Regulation;
+
+(b) simplified catch certificate in conformity with Article 6 and the template established in Annex IV to this Regulation;
+
+(c) re-export certificate as established in Article 21 of Regulation (EC) No 1005/2008 and included in Annex II to Regulation (EC) No 1005/2008 or in Annex IV to this Regulation;
+
+(d) transport details included in the Appendix to Annex II to Regulation (EC) No 1005/2008;
+
+(e) statement referred to in Article 14(2) of Regulation (EC) No 1005/2008 established by the processing plant in a third country and endorsed by the competent authority of that third country in accordance with the form set out in Annex IV to Regulation (EC) No 1005/2008;
+
+(f) single transport document referred to in Article 14(1) of Regulation (EC) No 1005/2008 or non-manipulation document according to the template established in the Delegated Regulation (EC) 2025/453;
+
+(g) any supporting documents or information relevant under the catch certification scheme related to the fishery products.
+
+2\. The documents and information referred to in paragraph 1 shall be drawn up in at least one of the official EU languages of the Member State where the submission takes place.
+
+3\. By way of derogation from paragraph 2, the Member State where the submission takes place may consent to receiving documents written in another official EU language upon request to that effect from the operator concerned.
+
+4\. Each Member State shall designate one or more contact points for CATCH and communicate that designation and their contact details to the Commission. Member States shall update the contact points for CATCH and inform the Commission immediately of any changes in this respect. The Commission shall maintain and keep up to date a list of contact points and make it available to all Member States.
+
+5\. The Commission shall have access to all data, information and documents in CATCH in order to monitor the exchange of data, information and documents inserted or produced therein for identifying activities that are, or appear to be, not in compliance with the rules established in Regulation (EC) No 1005/2008. The European Fisheries Control Agency shall have the same access rights as the Commission, in order to assist the Commission and the Member States in the uniform and effective application of the rules of the Common Fisheries Policy, as foreseen in Regulation (EU) 2019/473 of the European Parliament and of the Council ( 1 ), including as regards the fight against IUU fishing.
+
+6\. As regards access for users other than the Commission and the European Fisheries Control Agency to data, information and documents in CATCH, the general rules for TRACES as established in Article 36 of Implementing Regulation (EU) 2019/1715 apply.
+
+7\. On receipt of an application, the Commission may grant the competent authority and operators of a third country partial access to the functionalities of CATCH and to specific data relevant to that third country for producing and validating the catch certificates and related documents in CATCH, provided the applicant demonstrates that it meets the following requirements:
+
+(a) it has the legal and operational capacity to provide, without undue delay, the assistance necessary to allow the good functioning of CATCH; and
+
+(b) it has designated a contact point for that purpose.
+
+The partial access referred to in this paragraph shall not include access to personal data processed in CATCH, except where the conditions for lawful transfers of personal data established by Regulations (EU) 2016/679 and (EU) 2018/1725 are fulfilled by the applicant third country.
+
+8\. Data exchanges between CATCH and other electronic systems, including the Member States’ national systems, shall be synchronous, reciprocal and based on UN/CEFACT standards. Data exchanges between CATCH and the Member States’ national systems shall make use of reference data provided in CATCH.
+
+9\. In the event of unavailability of CATCH, users may use fillable printed or electronic templates to record and exchange information. These templates shall be publicly available on a Commission’s official website. Once the system is available again, the importer shall introduce in CATCH the information recorded in the fillable printed or electronic templates and attach them in CATCH as supporting documents. These documents shall bear the text produced during contingency. The Commission shall inform users through CATCH two weeks in advance of any planned unavailability, how long it will last and the reason for it.
+
+10\. For the purpose of compliance with Article 22(4) of Regulation (EC) No 1005/2008, catch certificates and related documents generated by third countries’ operators and validated by third countries’ authorities electronically in CATCH shall be stored by CATCH for at least 3 years. Personal data from the catch certificates and related documents shall be stored by CATCH for no more than 10 years.
+
+11\. With regard to processing of personal data in CATCH, the general rules for IMSOC as established in Articles 10 and 11 of Implementing Regulation (EU) 2019/1715 apply.
+
+##### Article 7 — Recognised catch documentation schemes in RFMOs
+
+The catch documentation schemes adopted by regional fisheries management organisations listed in Annex V to this Regulation shall be recognised for the purposes of Article 13(1) of Regulation (EC) No 1005/2008 as complying with the requirements of that Regulation without additional conditions.
+
+##### Article 8 — Deadline for the submission of catch certificates
+
+By way of derogation from Article 16(1) of Regulation (EC) No 1005/2008, the submission of catch certificates for imports of fishery products in consignments by means of transportation referred to in Annex VI to this Regulation shall be subject to the shorter deadlines set out in that Annex.
+
+### CHAPTER II — Approved economic operators
+
+#### Section 1 — Conditions for granting the approved economic operator certificate
+
+##### Article 9 — General provisions
+
+Economic operators may, following an application, be granted a certificate of approved economic operator (hereinafter referred to as APEO certificate) for the purposes of Article 16 of Regulation (EC) No 1005/2008 only if they:
+
+(a) hold an authorised economic operator certificate (hereinafter referred to as AEO certificate) in accordance with Commission Regulation (EEC) No 2454/93 ( 2 ) (hereinafter referred to as the Implementing Rules of the Community Customs Code); and
+
+(b) fulfil the criteria laid down in Article 16(3)(a) to (g) of Regulation (EC) No 1005/2008 and detailed in Articles 10 to 13 of this Regulation.
+
+##### Article 10 — Sufficient import
+
+1\. The sufficient number and volume of import operations referred to in Article 16(3)(b) of Regulation (EC) No 1005/2008 must be achieved in the Member State of establishment.
+
+2\. Each Member State shall determine the minimum threshold for number and volume of import operations and inform the Commission thereof.
+
+##### Article 11 — Record of compliance
+
+1\. The record of compliance with the requirements of conservation and management measures referred to in Article 16(3)(c) of Regulation (EC) No 1005/2008 shall be considered as appropriate if, over the last three years preceding the submission of the application, the applicant:
+
+(a) has not committed a serious infringement of the rules of the common fisheries policy;
+
+(b) has not committed repeated infringements of the rules of the common fisheries policy;
+
+(c) has not directly or indirectly participated in or supported activities of vessels or operators engaged in IUU fishing or which are currently subject to investigation in that respect; and
+
+(d) has not directly or indirectly participated in or supported activities of vessels included in IUU vessel lists adopted by a RFMO.
+
+2\. Notwithstanding paragraph 1, the record of compliance with the requirements of conservation and management measures may be considered as appropriate if the competent Member State authority considers an infringement committed by the applicant:
+
+(a) not to be serious; and
+
+(b) of negligible quantitative importance in relation to the number or size of the import-related operations carried out by the applicant.
+
+##### Article 12 — Management of records
+
+The system of managing catch certificates and, where appropriate, processing records, as referred to in Article 16(3)(d) of Regulation (EC) No 1005/2008, shall be considered satisfactory if the information contained in the catch certificates and related documents as referred to in Article 14 of Regulation (EC) No 1005/2008 is registered in CATCH.
+
+##### Article 13 — Facilities
+
+The applicant’s facilities, as referred to in Article 16(3)(e) of Regulation (EC) No 1005/2008, shall be considered appropriate if they:
+
+(a) prevent unauthorised access to storage areas, shipping areas, loading docks and cargo areas;
+
+(b) ensure the handling of fishery products including protection against tampering with cargo units;
+
+(c) ensure the handling of import and/or export licenses connected to prohibitions and restrictions and to distinguish fishery products subject to catch certificates from fishery products not subject to catch certificates.
+
+#### Section 2 — Application for an APEO certificate
+
+##### Article 14 — Submission of the application
+
+1\. The application for an APEO certificate shall be submitted to the competent Member State authority on whose territory the importer is established in accordance with the specimen set out in Annex VII.
+
+2\. The application shall include records and documentation enabling the competent Member State authority to verify and monitor the compliance with the criteria laid down in Articles 9 to 13 of this Regulation, including a copy of the AEO certificate issued in accordance with the Implementing Rules of the Community Customs Code. Applicants shall submit necessary data to the competent Member State authority.
+
+3\. If a part of the relevant records and documentation is kept in another Member State, the consultation procedure referred to in Article 17 shall apply.
+
+4\. Where the competent Member State authority establishes that the application does not contain all the information required, it shall, within 30 calendar days of receipt of the application, require the applicant to supply the relevant information.
+
+5\. When the authority has received all the information necessary it shall inform the applicant that the application has been deemed complete, specifying the date from which the time limits laid down in Article 18(2) of this Regulation will run.
+
+6\. An operator who has been granted the status of approved economic operator in one Member State shall when applying for the same status in a subsequent Member State, attach a copy of the APEO certificate granted by the first Member State.
+
+##### Article 15 — Inadmissibility of applications
+
+The application referred to in Article 14 shall be inadmissible in the following cases:
+
+(a) where the application does not comply with Article 14; or
+
+(b) where the application is submitted within three years after the withdrawal of the APEO certificate referred to in points (a), (b) and (d) of Article 27(1).
+
+#### Section 3 — Procedure for issuing APEO certificates
+
+##### Article 16 — Examination of application
+
+1\. The issuing Member State authority shall examine whether the criteria laid down in Articles 9 to 13 are met. The examination and its results shall be documented by the competent Member State authority.
+
+2\. Where the applicant holds an ‘AEO certificate — Security and safety’ or an ‘AEO certificate — Customs simplification/security and safety’, as referred to in Article 14a of the Implementing Rules of the Community Customs Code, the criteria set out in Article 13 need not be examined.
+
+3\. In cases where the applicant has previously been granted the status of approved economic operator in another Member State, the issuing authority shall examine whether the following criteria are met:
+
+(a) the criteria set out in Articles 12 and 13;
+
+(b) optionally, the criteria set out in Articles 10 and 11.
+
+4\. The issuing authority may accept conclusions provided by an expert in the relevant fields referred to in Articles 12 and 13 in respect of the criteria referred to in those Articles. The expert shall not in any way be related to the applicant.
+
+##### Article 17 — Consultation of other Member States
+
+1\. The issuing authority shall consult the competent authorities of other Member States if the examination of the compliance with one or more of the criteria laid down in Articles 9 to 13 cannot be performed by it due either to a lack of information or to the impossibility of checking it. The consulted competent authorities of the Member States shall respond within 60 calendar days, starting from the date of the communication of the request by the issuing Member State authority.
+
+2\. If the consulted competent authority fails to respond within the deadline of 60 calendar days referred to in paragraph 1, the issuing authority may assume that the applicant meets the criteria for which the consultation took place.
+
+##### Article 18 — Issuing of an APEO certificate
+
+1\. The issuing authority shall issue the APEO certificate in accordance with the specimen set out in Annex VIII.
+
+2\. The APEO certificate shall be issued within 90 calendar days starting from the date of receipt of all the information necessary in accordance with Article 14.
+
+3\. The period of 90 calendar days provided for in paragraph 2 may be extended by one further period of 30 calendar days where the competent authority is unable to meet the deadline. In such cases, the competent Member State authority shall, before the expiry of the period referred to in paragraph 2, inform the applicant of the reasons for the extension.
+
+4\. The period provided for in paragraph 2 may also be extended if, in the course of the examination of the compliance with the criteria laid down in Articles 9 to 13, the applicant carries out adjustments in order to satisfy those criteria and communicates them to the competent authority.
+
+##### Article 19 — Rejection of an application
+
+1\. Where the result of the examination carried out in accordance with Articles 16 and 17 is likely to lead to the rejection of the application, the issuing authority shall communicate the findings to the applicant and provide him with the opportunity to respond within 30 calendar days, before rejecting the application. The period laid down in paragraph 2 shall be suspended accordingly.
+
+2\. If the application is rejected, the competent authority shall inform the applicant of the reasons on which the decision is based. The decision to reject an application shall be notified to the applicant within the time limits laid down in paragraphs 2, 3 and 4 of Article 18 and paragraph 1 of this Article.
+
+3\. The issuing authority shall inform the Commission, as soon as possible, that an application has been rejected. The Commission shall make that information available to the competent authorities of the other Member States by electronic means.
+
+#### Section 4 — Status of approved economic operator
+
+##### Article 20 — Verifications
+
+1\. When the holder of an APEO certificate has advised the competent Member State authority of the arrival of fishery products, that authority may, before the arrival of the consignment into that Member State, notify the approved economic operator when, as a result of a risk analysis in accordance with Article 17 of Regulation (EC) No 1005/2008, the consignment has been selected for further verification. That notice shall only be provided where it does not jeopardise the verification to be carried out.
+
+2\. The holder of an APEO certificate shall be subject to fewer physical and document-based verifications than other importers, unless the competent Member State authority decides otherwise in order to take into account a specific risk, or control obligations set out in other Community legislation.
+
+3\. Where, following a risk analysis, the competent Member State authority selects for further examination a consignment accompanied by a catch certificate lodged by an approved economic operator, it shall carry out the necessary verifications as a matter of priority. If the approved economic operator so requests, and subject to agreement with the competent Member State authority concerned, those verifications may be carried out at a place which is different from the place of the office of the competent Member State authority.
+
+#### Section 5 — Legal effects of APEO certificates
+
+##### Article 21 — General provisions
+
+1\. The APEO certificate shall take effect on the tenth working day after the date of its issue. Its period of validity shall not be limited.
+
+2\. The APEO certificate shall only be valid in the Member State of the issuing authority.
+
+3\. The competent authorities shall monitor compliance with the criteria laid down in Articles 9 to 13.
+
+4\. In the case of an APEO certificate issued to an applicant established for less than three years, close monitoring shall take place during the first year after issue.
+
+5\. A reassessment of the compliance with the criteria referred to in Articles 9 to 13 shall be carried out by the issuing authority in the following cases:
+
+(a) major changes to the relevant Community legislation;
+
+(b) reasonable indication that the relevant criteria are no longer met by the approved economic operator.
+
+6\. Article 16(4) shall apply to the reassessment.
+
+7\. The issuing authority shall inform the Commission, as soon as possible, of the results of the reassessment. The Commission shall make that information available to the competent authorities of all Member States, by electronic means.
+
+##### Article 22 — Suspension of the status of an approved economic operator
+
+1\. The status of approved economic operator shall be suspended by the issuing authority in the following cases:
+
+(a) where non-compliance with the criteria laid down in Articles 9 to 13 has been detected;
+
+(b) where the competent Member State authorities have sufficient reason to believe that an act has been perpetrated by the approved economic operator, which gives rise to legal proceedings and is linked to an infringement of the rules of the common fisheries policy or of Regulation (EC) No 1005/2008;
+
+(c) where the status of the authorised economic operator has been suspended in accordance with the Implementing Rules of the Community Customs Code;
+
+(d) where the suspension is requested by the approved economic operator which is temporarily unable to meet any of the criteria laid down in Articles 9 to 13.
+
+2\. Before taking a decision in accordance with paragraph 1(a), (b) and (c), the competent Member State authorities shall communicate their findings to the economic operator concerned. The operators shall be entitled to express its point of view within 30 calendar days starting from the date of receiving the communication.
+
+3\. However, where the nature or the level of the threat to the conservation measures for a certain stock or stocks so require, suspension shall take place immediately. The suspending authority shall immediately inform the Commission in order to permit other Member States to take appropriate action.
+
+4\. The suspension referred to in paragraph 1 shall take effect from the day following its notification to the approved economic operator. The suspension shall however not affect any import procedure already started before the date of suspension and not yet completed.
+
+##### Article 23 — Suspension in the case of non-compliance with relevant criteria
+
+1\. In the case referred to in point (a) of Article 22(1), if the approved economic operator does not regularise the situation within the period referred to in paragraph 2 of that Article, the status of approved economic operator shall be suspended for a period of 30 calendar days. The competent Member State authority shall, without delay, notify the economic operator of the suspension and the competent authorities of the other Member States.
+
+2\. Where the economic operator concerned has been unable to regularise the situation within the suspension period of 30 calendar days referred to in paragraph 1 but can provide evidence that the conditions can be met if the suspension period is extended, the issuing authority shall suspend the status of approved economic operator for a further 30 calendar days. The competent authorities of the other Member States shall be informed of the extension.
+
+3\. When the economic operator concerned has, within the time limit set out in paragraphs 1 or 2, taken the necessary measures to comply with the criteria laid down in Articles 9 to 13, the issuing authority shall withdraw the suspension and inform the economic operator concerned and the Commission. The suspension may be withdrawn before the expiry of the time limit laid down in paragraphs 1 or 2.
+
+##### Article 24 — Suspension in case of legal proceedings
+
+1\. In the case referred to in point (b) of Article 22(1), the issuing authority shall suspend the status of the approved economic operator for the duration of the proceedings. It shall notify the approved economic operator thereof. Notification shall also be sent to the competent authorities of the other Member States.
+
+2\. The competent Member State authority may however decide not to suspend the status of approved economic operator if it considers the infringement to be of negligible quantitative importance in relation to the number or volume of the import-related operations carried out by that operator.
+
+##### Article 25 — Suspension related to the status of authorised economic operator
+
+In the case referred to in point (c) of Article 22(1), the issuing authority shall suspend the status of the approved economic operator until the suspension of the status of authorised economic operator has been withdrawn. It shall notify the approved economic operator thereof. It shall also notify the competent authorities of the other Member States.
+
+##### Article 26 — Suspension upon request
+
+1\. In the case referred to in Article 22(1)(d) the approved economic operator shall notify the issuing authority of its temporary inability to meet the criteria laid down in Articles 9 to 13, specifying the date when the criteria will be met again. The approved economic shall also notify the issuing authority of any planned measures and their timescale.
+
+2\. The issuing authority shall send the notification to the Commission and the competent authorities of the other Member States.
+
+3\. If the approved economic operator fails to regularise the situation within the period set out in its notification, the issuing authority may grant a reasonable extension, provided that the approved economic operator has acted in good faith. The extension shall be notified to the Commission and the competent authorities of the other Member States.
+
+##### Article 27 — Withdrawal of the APEO certificate
+
+1\. The APEO certificate shall be withdrawn in the following cases:
+
+(a) where the approved economic operator fails to take the necessary measures to comply with the criteria laid down in Articles 9 to 13 in accordance with Article 23(3);
+
+(b) where it has been established that a serious infringement or repeated infringements related to the rules of the common fisheries policy or of Regulation (EC) No 1005/2008 have been committed by the approved economic operator and there is no further right of appeal;
+
+(c) where the approved economic operator fails to take the necessary measures to comply with the criteria laid down in Articles 9 to 13 in accordance with Article 26;
+
+(d) where the status of authorised economic operator, granted in accordance with the Implementing Rules of the Community Customs Code, has been withdrawn;
+
+(e) upon request of the approved economic operator.
+
+2\. In the case referred to in point (b) of paragraph 1, the competent authority may decide not to withdraw the APEO certificate if the infringements are of negligible quantitative importance in relation to the number or size of the import-related operations carried out by that operator.
+
+3\. The withdrawal shall take effect from the day following its notification to the approved economic operator.
+
+4\. The issuing authority shall immediately inform the Commission of the withdrawal of an APEO certificate.
+
+#### Section 6 — Information exchange
+
+##### Article 28 — Information requests
+
+1\. The approved economic operator shall inform the issuing authority of all factors arising after the certificate is granted which may influence its continuation.
+
+2\. All relevant information at the disposal of the issuing authority concerning economic operators approved by it shall upon request be made available to the Commission and the competent authorities of the other Member States where the approved economic operators carry out import-related activities.
+
+##### Article 29 — Sharing of information on approved economic operators
+
+1\. The Commission and the competent authorities in all Member States shall store for a period of three years or longer in accordance with national rules, and have access to the following information:
+
+(a) the electronically transmitted data of the applications;
+
+(b) the APEO certificates, and where applicable, their amendment or withdrawal of those certificates, or the suspension of the status of approved economic operator.
+
+2\. The IUU fishing information system referred to in Article 51 of Regulation (EC) No 1005/2008 may be used for the information and communication process between the competent authorities and for information of the Commission and of the economic operators as provided for in this chapter.
+
+3\. The list of approved economic operators may be disclosed by the Commission to the public via the Internet with prior agreement of the approved economic operators concerned. The list shall be kept up to date.
+
+##### Article 30 — Reporting obligations and evaluation
+
+1\. Member States shall include information on the application of the approved economic operator scheme as laid down in this chapter in their report to be transmitted to the Commission every two years according to Article 55(1) of Regulation (EC) No 1005/2008.
+
+2\. On the basis of those reports and its own observations, the Commission shall undertake an evaluation and possible adjustment of the approved economic operator scheme.
+
+### CHAPTER III — Checks and verifications
+
+##### Article 31 — Union criteria for verifications
+
+In accordance with Article 17(3) of Regulation (EC) No 1005/2008, Member States shall focus verifications towards risks identified on the basis of the following Union criteria:
+
+(a) alerts triggered in CATCH;
+
+(b) information shared by Mutual Assistance messages in accordance with Article 51 of Regulation (EC) No 1005/2008 and Title IV of this Regulation;
+
+(c) products obtained from species subject to quota under a regional fisheries management organisation;
+
+(d) country notified of the possibility of being identified as non-cooperating third country in accordance with Article 32 of Regulation (EC) No 1005/2008;
+
+(e) vessel, vessel owner or operator suspected of being or having been involved in IUU fishing activities;
+
+(f) vessel, vessel owner or operator having been involved in illegal activities other than IUU fishing but constituting a potential risk in respect of IUU fishing;
+
+(g) vessel having recently changed its name, flag or registration number;
+
+(h) fishery products obtained from species of high commercial value;
+
+(i) introduction of new kinds of fishery products, new product presentations, or new trade patterns;
+
+(j) inconsistencies between the trade patterns and the known fishing activities of a flag State in particular in respect of species, volumes or characteristics of its fishing fleet;
+
+(k) inconsistencies between the trade patterns and the known fishing-related activities of a third country in particular in respect of the characteristics of its processing industry or its trade in fishery products;
+
+(l) trade patterns not justified in terms of economic rationality or logic;
+
+(m) significant and sudden increase in trade volume for a certain species;
+
+(n) catch certificate submitted in relation to several consignments;
+
+(o) generation, validation and submission of paper-based catch certificates or endorsement of paper-based processing statements;
+
+(p) inconsistencies between data submitted in CATCH by the operator and data contained in the paper-based catch certificates, or any other related paper-based documents, or any other relevant information available to the competent authority;
+
+(q) use of box 6 of the catch certificate as laid down in Annex II of Regulation (EC) No 1005/2008;
+
+(r) use of box 7 of the catch certificate as laid down in Annex II of Regulation (EC) No 1005/2008 in case of transhipments;
+
+(s) submission of catch certificates accompanied by multiple transport details as foreseen in the Appendix to Annex II of Regulation (EC) No 1005/2008 and/or documents foreseen under Article 14(1) of the same Regulation;
+
+(t) product from a new flag State or from a new exporting State;
+
+(u) newly established operator.
+
+##### Article 32 — Reporting obligations and evaluation
+
+1\. Member States shall include information on the application of the criteria referred to in Article 31 in their report to be transmitted to the Commission every two years according to Article 55(1) of Regulation (EC) No 1005/2008.
+
+2\. In their reports, Member States shall include the following information:
+
+(a) checks carried out in accordance with Article 16(1) of Regulation (EC) No 1005/2008;
+
+(b) number and nature of additional risk indicators introduced by Member States in CATCH at national level;
+
+(c) number of alerts triggered in CATCH per risk indicator;
+
+(d) risks identified based on the application of the Union criteria referred to in Article 31 of this Regulation and of additional national criteria if notified to the Commission in accordance with Article 17(3) of Regulation (EC) No 1005/2008;
+
+(e) outcomes of the verification activities carried out to address identified risks in accordance with Article 17(3) of Regulation (EC) No 1005/2008;
+
+(f) verifications carried out in accordance with Article 17(4) of Regulation (EC) No 1005/2008;
+
+(g) verifications carried out at random in accordance with Article 17(5) of Regulation (EC) No 1005/2008.
+
+3\. On the basis of those reports and its own observations, the Commission shall undertake an evaluation and possible adjustment of the Union criteria.
+
+### CHAPTER IV — Cooperation with third countries
+
+## TITLE III — SIGHTINGS
+
+##### Article 34 — Form for submission of information regarding sighted fishing vessels
+
+1\. The form for submission of information regarding sighted fishing vessels referred to in Article 49(1) of Regulation (EC) No 1005/2008 is set out in Annex XA to this Regulation.
+
+2\. The instructions for filling in the form referred to in paragraph 1 are set out in Annex XB to this Regulation.
+
+## TITLE IV — MUTUAL ASSISTANCE
+
+### CHAPTER I — General provisions
+
+##### Article 35 — Scope
+
+1\. This Title lays down the conditions under which the Member States shall administratively cooperate with each other, third countries, the Commission and the body designated by it in order to ensure the effective application of Regulation (EC) No 1005/2008 and this Regulation.
+
+2\. This Title shall not bind Member States to grant each other assistance where that would be likely to be injurious to their national legal system, public policy, security or other fundamental interests. Before denying a request for assistance, the requested Member State shall consult the applicant Member State to determine whether assistance may be given in part, subject to specific terms and conditions. Where a request for assistance cannot be complied with the applicant Member State and the Commission shall promptly be notified of that fact and reasons shall be stated.
+
+3\. This Title shall not affect the application in the Member States of rules on criminal procedure and mutual assistance in criminal matters, including those on secrecy of judicial inquiries.
+
+##### Article 36 — Protection and processing of personal data
+
+1\. Regulations (EU) 2016/679 and (EU) 2018/1725 as well as the national provisions transposing Directive (EU) 2016/680 of the European Parliament and of the Council ( 3 ), apply to the processing of personal data carried out pursuant to Regulation (EC) No 1005/2008 and this Regulation by Member States, the Commission or the body designated by it.
+
+2\. The rights of persons with regard to their personal data processed in national systems shall be exercised in accordance with the law of the Member State which stored their personal data, and in particular the provisions implementing Regulation (EU) 2016/679, and, with regard to their personal data processed in Union systems, shall be exercised in accordance with Regulation (EU) 2018/1725.
+
+3\. The Commission or the body designated by it and Member States may process the personal data of natural persons, in order to fulfil their duties under the rules of the common fisheries policy, in particular for carrying out verifications and enquiries pursuant to the provisions of Regulation (EC) No 1005/2008, or under the rules of agreements with third countries or international organisations.
+
+4\. The Commission may restrict certain of the rights of data subjects in the context of the processing of personal data by the Commission in the Union system to prevent, deter and eliminate illegal, unreported and unregulated fishing, in line with the Commission Decision (EU) 2019/1862 of 6 November 2019.
+
+##### Article 37 — Use of information and protection of professional and commercial secrecy
+
+1\. Member States and the Commission shall take all necessary steps to ensure that data covered by professional and commercial secrecy that are collected, received and transmitted within the framework of this Regulation are treated in accordance with applicable rules on professional and commercial secrecy.
+
+2\. Data referred to in paragraph 1 exchanged between Member States and the Commission may be transmitted to persons other than those in Member States or the Commission or the body designated by it, provided their functions require them to have access to such data and with the consent of the Member State or the Commission or the body designated by it which has provided those data. In the case of a refusal, the Member State, the Commission or the body designated by it shall provide the reasons for refusal to transmit the data. The absence of a reply to a request for consent within a period of one month shall be regarded as consent.
+
+3\. The data referred to in paragraph 1 shall not be used for any purpose other than that provided for in this Regulation, except with the consent of the Member State, the Commission or the body designated by it which has provided those data and on condition that the provisions in force in the Member State of the authority receiving the data do not prohibit such use. In the case of a refusal, the Member State, the Commission or the body designated by it shall provide the reasons for refusal.
+
+##### Article 38 — Costs
+
+Member States shall bear their own costs of executing a request for assistance and shall waive all claims for the reimbursement of expenses incurred in applying this Title.
+
+##### Article 39 — Single authority
+
+1\. Each Member State shall designate a single liaison office responsible for the application of this Title.
+
+2\. Each Member State shall communicate to the Commission and the other Member States the identity of the single liaison office and keep that information up to date.
+
+3\. The Commission shall publish and update the list of single liaison offices in the Official Journal of the European Union.
+
+##### Article 40 — Follow-up measures
+
+1\. Where national authorities decide, in response to a request for assistance based on this Title or following a spontaneous exchange of information, to take measures which may be implemented only with the authorisation or at the demand of a judicial authority, they shall communicate to the Member State concerned and the Commission any information on those measures which is related to IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  , or to infringements of this Regulation.
+
+2\. Any such communication must have the prior authorisation of the judicial authority if such authorisation is required by national law.
+
+### CHAPTER II — Information without prior request
+
+##### Article 41 — Information without prior request
+
+1\. When a Member State becomes aware of any potential IUU fishing activity or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  or reasonably suspects that such an activity or infringement may occur, it shall notify the other Member States concerned and the Commission, without delay. That notification shall supply all necessary information and shall be made via the single authority as referred to in Article 39.
+
+2\. When a Member State takes enforcement measures in relation to an IUU fishing activity or infringement referred to in paragraph 1, it shall notify the other Member States concerned and the Commission via the single authority as referred to in Article 39.
+
+3\. All notifications according to this Article shall be made in writing.
+
+### CHAPTER III — Requests for assistance
+
+##### Article 42 — Definitions
+
+For the purposes of this Title ‘request for assistance’ means a request addressed by one Member State to another Member State for:
+
+(a) information;
+
+(b) enforcement measures; or
+
+(c) administrative notification.
+
+##### Article 43 — General requirements
+
+1\. The applicant Member State shall ensure that all requests for assistance contain sufficient information to enable a requested Member State to fulfil the request, including any necessary evidence obtainable in the territory of the applicant Member State.
+
+2\. Requests for assistance shall be limited to substantiated cases where there is reasonable cause to believe that IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  have occurred and where the applicant Member State is not able to obtain the requested information or to take the requested measures by its own means.
+
+##### Article 44 — Transmission of requests and replies
+
+1\. Requests shall only be sent by the single authority of the applicant Member State or by the Commission to the single authority of the requested Member State. All replies to a request shall be communicated in the same way.
+
+2\. Requests for mutual assistance and the respective replies shall be made in writing.
+
+3\. The languages used for requests and for the communication of information shall be agreed by the single authorities concerned before requests are made. If no agreement can be reached, requests shall be communicated in the official language(s) of the applicant Member State and replies in the official language(s) of the requested Member State.
+
+##### Article 45 — Requests for information
+
+1\. A requested Member State shall, at the request of an applicant Member State, or of the Commission, supply any relevant information required to establish whether IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  have occurred or to establish whether there is a reasonable suspicion it may occur. That information shall be supplied via the single authority as referred to in Article 39.
+
+2\. The requested Member State shall, at the request of the applicant Member State or of the Commission, carry out the appropriate administrative enquiries concerning operations which constitute, or appear to the applicant Member State to constitute, IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  . The requested Member State shall communicate the results of such administrative enquiries to the applicant Member State and to the Commission.
+
+3\. At the request of the applicant Member State, or of the Commission, the requested Member State may permit a competent official of the applicant Member State to accompany the officials of the requested Member State or of the Commission, in the course of administrative enquiries referred to in paragraph 2. In so far as national provisions on criminal proceedings restrict certain acts to officials specifically designated by national law, the officials of the applicant Member State shall not take part in such acts. In no event, shall they participate in searches of premises or the formal questioning of persons under criminal law. The officials of the applicant Member States present in the requested Member State must at all time be able to present written authority stating their identity and their official functions.
+
+4\. At the request of the applicant Member State, the requested Member State shall supply it with any document or certified true copies in its possession which relates to IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  .
+
+5\. The standard form for the exchange of information on request is set out in Annex XI.
+
+##### Article 46 — Requests for enforcement measures
+
+1\. A requested Member State shall, based on the evidence referred to in Article 43, at the request of an applicant Member State, or of the Commission, take all necessary enforcement measures to bring about the cessation, within its territory or within maritime waters under its sovereignty or jurisdiction, of any IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  without delay.
+
+2\. The requested Member State may consult the applicant Member State and the Commission in the course of taking the enforcement measures referred to in paragraph 1.
+
+3\. The requested Member State shall report the measures taken and their effect to the applicant Member State, the other Member States concerned and the Commission, via the single authority as referred to in Article 39.
+
+##### Article 47 — Deadline for replies to requests for information and enforcement measures
+
+1\. The requested Member State shall provide the information referred to in Article 45(1) and Article 46 (3) as quickly as possible, but not later than 4 weeks following the date of receipt of the request. Different time limits may be agreed between the requested and the applicant Member State or the Commission.
+
+2\. Where the requested Member State is unable to respond to the request by the deadline, it shall inform the applicant Member State or the Commission in writing of the reason for its failure to do so, and indicate when it considers it will be able to respond.
+
+##### Article 48 — Requests for administrative notification
+
+1\. A requested Member State shall, at the request of an applicant Member State and in accordance with its national rules governing the notification of similar instruments and decisions, notify the addressee of all instruments and decisions taken in the field covered by Regulation (EC) No 1005/2008 which emanate from the administrative authorities of the applicant Member State and are to be served in the territory of the requested Member State.
+
+2\. Requests for notification shall be made using the standard form attached to this Regulation in Annex XII.
+
+3\. The requested Member State shall transmit its reply to the applicant Member State immediately after the notification via the single authority referred to in Article 39. The reply shall be made using the standard form attached to this Regulation in Annex XII.
+
+### CHAPTER IV — Relations with the Commission
+
+##### Article 49 — Communication between the Member States and the Commission
+
+1\. Each Member State shall communicate to the Commission as soon as it is available to it any information it considers relevant concerning methods, practices or revealed tendencies used or suspected of having been used for IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  .
+
+2\. The Commission shall communicate to the Member States, as soon as it becomes available to it, any information that would help them to enforce the implementation of Regulation (EC) No 1005/2008.
+
+##### Article 50 — Coordination by the Commission
+
+1\. Where a Member State becomes aware of operations which constitute, or appear to constitute, IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  and which are of particular relevance at Community level, it shall communicate to the Commission as soon as possible any relevant information needed to determine the facts. The Commission shall convey that information to the other Member States concerned.
+
+2\. For the purposes of paragraph 1, operations which constitute IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  shall be deemed to be of particular relevance at Community level especially where:
+
+(a) they have, or might have, connections in other Member States; or
+
+(b) it appears likely to the Member State that similar operations have also been carried out in other Member States.
+
+3\. Where the Commission considers that operations which constitute IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  have taken place in one or more Member States, it shall inform the Member States concerned thereof which shall as soon as possible carry out enquiries. The Member States concerned shall, as soon as possible, communicate to the Commission the findings of those enquiries.
+
+### CHAPTER V — Relations with third countries
+
+##### Article 51 — Information exchange with third countries
+
+1\. When a Member State receives information relevant to ensure the effective application of Regulation (EC) No 1005/2008 and this Regulation from a third country, it shall communicate that information to the other Member States concerned via the single authority, in so far as it is permitted to do so by bilateral assistance agreements with that third country.
+
+2\. Information received under this Title may be communicated to a third country by a Member State via its single authority under a bilateral assistance agreement with that third country; That communication shall take place after consultation of the Member State that originally communicated the information and in accordance with Community legislation and national legislation regarding the protection of individuals with regard to the processing of personal data.
+
+3\. The Commission may, in the framework of fisheries agreements concluded between the Community and third countries or in the framework of Regional Fisheries Management Organisations or similar arrangements to which the Community is a Contracting Party or a non-contracting Cooperating Party, communicate relevant information concerning IUU fishing or serious infringements referred to in Article 42 of Regulation (EC) No 1005/2008  to other parties to those agreements, organisations or arrangements, subject to the consent of the Member State that supplied the information.
+
+### CHAPTER VI — Transitional provision
+
+##### Article 52 — Establishment of an IUU Fishing Information System
+
+Pending the establishment of the ‘IUU Fishing Information System’, as referred to in Article 51(2) of Regulation (EC) No 1005/2008, the competent authorities of the Member States shall cooperate under this title with each other and the Commission through existing information arrangements.
+
+## TITLE V — AMENDMENTS
+
+##### Article 53 — Amendments to Regulation (EC) No 1005/2008
+
+Annex I of Regulation (EC) No 1005/2008, containing the list of products excluded from the definition of ‘fisheries products’ in Article 2(8) of that Regulation is amended as set out in Annex XIII to this Regulation.
+
+## TITLE VI — FINAL PROVISIONS
+
+##### Article 54 — Entry into force
+
+This Regulation shall enter into force on the seventh day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2010.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Prior notification period for certain types of fishery products referred to in Article 1**
+
+**Four-hour prior notification period**
+
+Landings of fresh fishery products by fishing vessels into designated Community ports.
+
+## ANNEX II — Form for prior notification for third country fishing vessels referred to in Article 2
+
+The fields marked with an asterisk (*) do not have to be completed in cases where a catch certificate has been validated for the full catch to be landed or transhipped in the EU.
+
+**Vessel identification**
+
+1\. Vessel name:
+
+2\. Type of vessel (catching, carrier or support):
+
+3\. Flag (country of registration):
+
+4\. National registration number (external marking):
+
+5\. International radio call sign:
+
+6\. Vessel contact information:
+
+7\. IMO number, if applicable:
+
+8\. Other unique vessel identifier (if IMO number is not provided):
+
+9\. VMS (no / yes (national) no /yes (RFMO); if yes, type: )
+
+10\. Vessel dimensions – length: beam: draft:
+
+**Intended port of call**
+
+11\. Name of the port (ISO alpha-2 country code + 3 letter port code(1):
+
+12\. Purpose of the call (landing, transhipment, or access to services):
+
+13\. Port and date of the last port call (ISO alpha-2 country code + name of port/3 – letter port code):
+
+**Fishing authorisation**
+
+14\. Fishing authorisation number, period of validity and expiration date (also specify fishing area, species and gear)(*):
+
+15\. Authorisation to support fishing operations/transship fishery products number and expiration date:
+
+16\. Issuing authority:
+
+17\. RFMO ID, if applicable:
+
+**Dates**
+
+18\. Dates of the fishing trip (*):
+
+19\. Date and estimated time of arrival at port:
+
+**Quantities of species retained on board (or zero report if no catches)**
+
+<table>
+<tbody><tr><td>20. Catch certificate number(s) for this/these (if available)</td><td>21. Date of transhipment (if transhipment has taken place elsewhere than the port of landing) (*)</td><td>22. Area or port of transhipment (FAO (ICES) area, FAO (ICES) subdivision and fishing effort zone) (*)</td><td>23. Transhipment authorisation date (*)</td><td>24. Name of the species (FAO alpha-3 code) (*)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>25. Catch area (FAO (ICES) area, FAO (ICES) subdivision and fishing effort zone) (*)</td><td>26. Estimated total live weight on board (in kg) or/and number of fish if required</td><td>27. Estimated total live weight of fish to be landed/transhipped (in kg) or/and number of fish if required (*)</td><td>28. Net weight in kg of fish to be landed/transshipped (*)</td><td>29. Presentation of fish and state of preservation (use codes (1)) (*)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(1)  Codes for ports, fish preservation states and fish presentation are available on: https://oceans-and-fisheries.ec.europa.eu/fisheries/rules/enforcing-rules_en. </td></tr>
+</tbody>
+</table>
+
+30\. Name and address of vessel owner:
+
+31\. Name of master of vessel/representative:
+
+32\. Signature:
+
+33\. Date:
+
+## ANNEX IIIA
+
+**Form for pre-landing declarations referred to in Article 3(1)**
+
+Text of image
+
+Vessel identification
+
+1\. Vessel name:
+
+2\. Type of vessel (catching or carrier):
+
+3\. Flag (country of registration):
+
+4\. Home port (ISO alpha-2 country code + name of port):
+
+5\. Registration number (external identification):
+
+6\. International radio call sign:
+
+7\. IMO/Lloyd’s number (if issued):
+
+Contact
+
+8\. Name of the master/representative:
+
+9\. Address of master/representative:
+
+Departure information
+
+10\. Dates and time of departure:
+
+11\. Port of departure (ISO alpha-2 country code + name of port):
+
+Landing information
+
+12\. Date and estimated time of landing:
+
+13\. Intended port of landing (ISO alpha-2 country code + 3 letter port code (*)):
+
+14\. Sent by master/representative:
+
+Quantities of species retained on board
+
+15\. Catch certificate number(s), date(s) and flag State(s)
+
+16\. Date of transhipment (if transhipment has taken place elsewhere than the port of landing) and name of catching vessel(s)
+
+17\. Area or port of transhipment (FAO (ICES) area, FAO (ICES) division, FAO (ICES) subdivision and if relevant ICES statistical rectangle)
+
+18\. Name of the species
+
+(FAO alpha-3 code)
+
+19\. Catch area (FAO (ICES) area, FAO (ICES) division, FAO (ICES) subdivision and if relevant ICES statistical rectangle and fishing effort zone)
+
+20\. Estimated total live weight on board (in kg) or number of fish if required
+
+21\. Estimated total live weight of fish to be landed (in kg) or number of fish if required
+
+22\. Presentation of fish and state of preservation (use letter codes (*))
+
+23\. If applicable, conversion factor applied to fishery product by flag State
+
+24\. If processed fishery products, processing’s type of packaging (3 letter code CRT=cartons. BOX=boxes, BGS=bags and BLC=blocks)
+
+25\. If processed fishery products, number of packing units
+
+(cartons, boxes, bags, containers, blocks etc.)
+
+26\. If processed fishery products, average weight per unit of packing (in kg)
+
+27\. Name and address of vessel owner:
+
+28\. Name of master of vessel/representative:
+
+29\. Signature:
+
+30\. Date:
+
+If catching vessel fill in points 1-15 plus 18-30
+
+If carrier vessel fill in all points
+
+## ANNEX IIIB
+
+**Form for pre-transhipment declarations referred to in Article 3(2)**
+
+**(required from both donor and receiving vessel)**
+
+Text of image
+
+Vessel identification
+
+1\. Vessel name:
+
+2\. Type of vessel (catching or carrier):
+
+3\. Flag (country of registration):
+
+4\. Home port (ISO alpha-2 country code + name of port):
+
+5\. Registration number (external identification):
+
+6\. International radio call sign:
+
+7\. IMO/Lloyd’s number (if issued):
+
+Contact
+
+8\. Name of the master/representative:
+
+9\. Address of master/representative:
+
+Departure information
+
+10\. Dates and time of departure:
+
+11\. Port of departure (ISO alpha-2 country code + name of port):
+
+Transhipment information
+
+12\. Date and estimated time of transhipment:
+
+13\. Intended port of transhipment (ISO alpha-2 country code + 3 letter port code (*)):
+
+14\. Sent by master/representative:
+
+Information on the other vessel in the transhipment operation:
+
+15\. International radio call sign:
+
+16\. Registration number (external identification):
+
+17\. Flag (country of registration):
+
+Quantities of species retained on board
+
+18\. Catch certificate number(s), date(s) and flag State(s)
+
+19\. Date of transhipment (if transhipment has taken place elsewhere than the port of landing) and name of catching vessel(s)
+
+20\. Area or port of transhipment (FAO (ICES) area, FAO (ICES) division, FAO (ICES) subdivision and if relevant ICES statistical rectangle and fishing effort zone)
+
+21\. Name of the species
+
+(FAO alpha-3 code)
+
+22\. Catch area (FAO (ICES) area, FAO (ICES) division, FAO (ICES) subdivision and if relevant ICES statistical rectangle and fishing effort zone)
+
+23\. Estimated total live weight on board (in kg) or number of fish if required
+
+24\. Estimated total live weight of fish to be transhipped (in kg) or number of fish if required
+
+25\. Presentation of fish and state of preservation
+
+(use letter codes (*))
+
+26\. If applicable, conversion factor applied to fishery product by flag State
+
+27\. If processed fishery products, processing’s type of packaging
+
+(3 letter code CRT=cartons. BOX=boxes, BGS=bags and BLC=blocks)
+
+28\. If processed fishery products, number of packing units
+
+(cartons, boxes, bags, containers, blocks etc.)
+
+29\. If processed fishery products, average weight per unit of packing
+
+(in kg)
+
+30\. Name and address of vessel owner:
+
+31\. Name of master of vessel/representative:
+
+32\. Signature:
+
+33\. Date:
+
+If catching vessel fill in points 1-18 plus 21-33
+
+If carrier vessel fill in all points
+
+(*) Letter codes for ports, the state of the fish and the presentation: http://ec.europa.eu/fisheries/cfp/control_enforcement/ers_en.htm
+
+## ANNEX IV
+
+**EUROPEAN COMMUNITY CATCH CERTIFICATE**
+
+**Simplified form for fishery products fulfilling the requirements in Article 6 of this Regulation**
+
+Text of image
+
+(i) EUROPEAN COMMUNITY CATCH CERTIFICATE — Simplified form for fishery products fulfilling the requirements in Article 6 of this Regulation
+
+Document number
+
+Validating authority (name, address, tel., fax)
+
+1\. Description of product
+
+2\. References of applicable conservation and management measures
+
+Species
+
+Product code
+
+Verified weight landed (kg)
+
+3\. List of vessels that have provided catches and the quantities by each vessel (name, registration number, etc. annexed):
+
+4\. Name, address, tel. and fax of exporter
+
+Signature
+
+Date
+
+Seal (stamp)
+
+5\. Flag State authority validation:
+
+Name/Title
+
+Signature
+
+Date
+
+Seal (stamp)
+
+6\. Transport details (see Appendix)
+
+7\. Importer declaration:
+
+Name and address of importer
+
+Signature
+
+Date
+
+Seal (stamp)
+
+Product CN code
+
+8\. Import control: Authority
+
+Place
+
+Importation authorised (*)
+
+Importation suspended (*)
+
+Verification requested — date
+
+Customs declaration (if issued)
+
+Number
+
+Date
+
+Place
+
+(*) Tick as appropriate.
+
+Text of image
+
+(ii) EUROPEAN COMMUNITY RE-EXPORT CERTIFICATE
+
+Certificate number
+
+Date
+
+Member State
+
+1\. Description of re-exported product
+
+Weight (kg)
+
+Species
+
+Product code
+
+Balance from total quantity declared in the catch certificate
+
+2\. Name of re-exporter
+
+Address
+
+Signature
+
+Date
+
+3\. Authority
+
+Name/Title
+
+Signature
+
+Date
+
+Seal/Stamp
+
+4\. Re-export control
+
+Place:
+
+Re-export authorised (*)
+
+Verification requested (*)
+
+Re-export declaration number and date
+
+(*) Tick as appropriate.
+
+## Appendix
+
+**Transport details**
+
+Text of image
+
+1\. Country of exportation
+
+Port/airport/other place of departure
+
+2\. Exporter signature
+
+Vessel name and flag
+
+Flight number airway bill number
+
+Truck nationality and registration number
+
+Railway bill number
+
+Other transport document
+
+Container number(s)
+
+list attached
+
+Name
+
+Address
+
+Signature
+
+## ANNEX V — Catch documentation schemes adopted by regional fisheries management organisations recognised as complying with the requirements of Regulation (EC) No 1005/2008
+
+Catch documentation schemes recognised as complying with the requirements of Regulation (EC) No 1005/2008:
+
+Dissostichus spp. catch documentation scheme as set out in Council Regulation (EC) No 1035/2001 ( 4 )
+
+ICCAT bluefin tuna catch documentation programme as set out in Regulation (EU) 2023/2833 of the European Parliament and of the Council ( 5 ).
+
+## ANNEX VI
+
+**Submission periods of catch certificates for consignments referred to in Article 8**
+
+**Four-hour period for submission of catch certificate prior to entry into the Community**
+
+Consignments of fishery products entering the Community by airfreight
+
+**Two-hour period for submission of catch certificate prior to entry into the Community**
+
+Consignments of fishery products entering the Community by road
+
+**Four-hour period for submission of catch certificate prior to entry into the Community**
+
+Consignments of fishery products entering the Community by railway
+
+## ANNEX VII
+
+Text of image
+
+EUROPEAN COMMUNITY
+
+SPECIMEN
+
+Application for APEO certificate
+
+(Referred to in Article 14)
+
+NB: please refer to the explanatory note when filling out this form
+
+1\. Applicant
+
+Reserved for authorities
+
+2\. Legal status of applicant
+
+3\. Date of establishment
+
+4\. Address of establishment
+
+5\. Location of main business
+
+6\. Contact person (name, phone, fax, email)
+
+7\. Correspondence address
+
+8\. VAT ID number(s)
+
+9\. Trader identification number(s)/ EORI number
+
+10\. Legal registration number
+
+Text of image
+
+11\. AEO certificate number
+
+12\. Member State where customs related activities are carried out
+
+13\. Monthly average number/volume of import operations
+
+14\. Office where catch certificate documentation is kept
+
+15\. Office responsible for providing all catch certificate documentation
+
+16\. Location(s) where imported products are kept
+
+17.
+
+Signature: …
+
+Name: …
+
+Date: …
+
+Number of annexes: …
+
+Explanatory notes:
+
+The application and related documents must be submitted, electronically or in paper form, as requested by the Member State to which the application is sent.
+
+1\. Applicant
+
+Enter the full name of the applicant economic operator.
+
+2\. Legal status
+
+Enter the legal status as mentioned in the document of establishment.
+
+3\. Date of establishment
+
+Enter — with numbers — the day, month and year of establishment.
+
+4\. Address of establishment
+
+Enter the full address of the place where your entity was established, including the country.
+
+5\. Location of main place of business
+
+Enter the full address of the place of your business where the main activities are carried out.
+
+6\. Contact person
+
+Indicate the full name, phone and fax numbers, and email address of the contact person designated by you within your company to be contacted by the authorities when examining the application.
+
+Text of image
+
+7\. Correspondence address
+
+Fill in only in case it differs from your address of establishment
+
+8, 9 and 10. VAT ID, trader identification and legal registration numbers
+
+Enter the required numbers
+
+The trader identification number(s) is(are) the identification number(s) registered by the customs authority(ies)
+
+The economic operators registration and identification (EORI) number is the identification number registered by the customs authority(ies)
+
+The legal registration number is the registration number given by the company registration office.
+
+If these numbers are the same, enter only the VAT ID number.
+
+11\. AEO certificate number
+
+Enter the required number
+
+12\. Member State where customs related activities are carried out
+
+Enter the relevant ISO alpha-2 country code. Must be the same as Member State where the status of authorised economic operator has been granted.
+
+13\. Monthly average number/volume of import operations
+
+Enter the monthly average number/volume of import operations over the past 12 months.
+
+14, 15 and 16. Offices/locations for documentation/products
+
+Enter the full addresses of the relevant offices/locations. If the offices/locations have the same address, fill in only Box 14.
+
+17\. Name, date and signature of the applicant
+
+Signature: the signatory should add his capacity. The signatory should always be the person who represents the applicant as a whole.
+
+Name: name of the applicant and the stamp of the applicant.
+
+Number of annexes: the applicant shall provide the following general information:
+
+1\. The application, including annexes, for the status of authorised economic operator
+
+2\. The AEO certificate from the authorities granting the status of authorised economic operator
+
+3\. Documentation for the number of import operations over the past 12 months.
+
+## ANNEX VIII
+
+Text of image
+
+EUROPEAN COMMUNITY
+
+SPECIMEN
+
+APEO certificate
+
+(certificate number)
+
+1\. Holder of the APEO certificate
+
+2\. Issuing authority
+
+3\. Date from which the certificate is effective
+
+Explanatory notes:
+
+Certificate number
+
+The certificate number shall always begin with the ISO alpha-2 country code of the issuing Member State, followed by the national authorisation number.
+
+1\. Holder of the APEO certificate
+
+The full name of the Holder shall be mentioned, as indicated in Box 1 of the Application form in Annex VII, as well as the VAT ID number(s) as indicated in Box 8 of the application form, and the AEO number as indicated in Box 11 of the application form.
+
+2\. Issuing authority
+
+Signature, the name of the Member State’s administration and the stamp.
+
+The name of the Member State’s administration can be mentioned on a regional level, if the organisational structure of the administration so requires.
+
+3\. Date from which the certificate is effective
+
+Indicate the day, month and the year, in accordance with Article 21(1).
+
+## ANNEX XA
+
+**Form for submission of information regarding sighted fishing vessels**
+
+Text of image
+
+Vessel name: International radio call sign: Flag:
+
+Registration number (and, if appropriate, Lloyds IMO number):
+
+Description of vessel (distinguishing markings):
+
+Type of vessel (e.g. longliner, trawler):
+
+Initial position: Latitude Longitude (east/west)
+
+Fishing area, subarea, division:
+
+Contact/sighting (tick appropriate box): Visual Radar Radio traffic
+
+Radio contact made with the vessel: Yes No
+
+Details of person(s) contacted on board of sighted vessel:
+
+Summary content of radio conversation:
+
+Time and activity (e.g. fishing, transiting) of sighted vessel:
+
+Date: Time:: Activity: Direction: Position:
+
+Date: Time:: Activity: Direction: Position:
+
+Date: Time:: Activity: Direction: Position:
+
+Date: Time:: Activity: Direction: Position:
+
+Date: Time:: Activity: Direction: Position:
+
+Record of sightings (e.g. by photograph or video):
+
+Comments:
+
+Photograph or sketch of vessel, indicating distinguishing structures, profile, masts and markings:
+
+Date of reporting: Reported by (contact details):
+
+## ANNEX XB
+
+**Instructions for filling the format set out in Annex XA**
+
+**FILL IN AS MUCH INFORMATION AS POSSIBLE**
+
+1\. Vessel name, call sign, flag and if possible registration and Lloyd IMO number are to be obtained from what is seen on the vessel or from radio contact with the vessels (the source of this information must be reported).
+
+2\. Distinguishing markings: state whether the name and port of registration of the vessel was visible or not. Record hull and superstructure colours, number of masts, position of bridge and funnel length, etc.
+
+3\. Type of vessel: describe the type of vessel and gear sighted (e.g. longliner, trawler, factory ship, carrier ship).
+
+4\. Position: record the initial sighting of the vessel, including fishing area/subarea/division.
+
+5\. Activity of the sighted vessel: record the time of the sighting, activity of the vessel at that time and heading (degrees). Record whether the vessel was fishing, setting fishing gear, trawling, hauling or other activities. Space is available for up to five sightings of the same vessel, if more space is needed complete this section on the back of the form or on a separate sheet of paper. Record presence/absence of a streamer line.
+
+6\. Record of sighting: indicate if the sighting of the vessel was recorded on video or with photographs (record where documents have been deposited under comments).
+
+7\. Comments: indicate the direction in which the vessel was transiting. Summarise any radio conversation that took place with indication of the name, nationality, position given by the person(s) contacted on board of the sighted vessel.
+
+8\. Diagram of vessel: draw the profile of the vessel, indicating any distinguishing markings that could be used for identification.
+
+## ANNEX XI
+
+**Standard form for the exchange of information on request according to Article 45**
+
+Text of image
+
+I. REQUEST FOR INFORMATION
+
+Applicant authority
+
+Member State
+
+name
+
+address
+
+contact details of the official in charge
+
+Requested authority
+
+Member State
+
+name
+
+address
+
+contact details of the official in charge
+
+Date of transmission of the request
+
+Reference number applicant authority
+
+No of attachments to this request
+
+Details on the natural or legal person and/or fishing vessel subject to the request
+
+Provide all information available for the identification of concerned fishing vessels, masters, holders of fishing licences and/or fishing authorisations, owner, etc
+
+Information requested on
+
+possible IUU fishing as defined in Article 2(1) of Regulation (EC) No 1005/2008 or serious infringements referred to in Article 42(1)(b) and (c) of Regulation (EC) No 1005/2008
+
+Article 45(1)
+
+Provide detailed questions and necessary background information and justification for the request
+
+possible infringements of Regulation (EC) No 1005/2008
+
+Article 45(1)
+
+Provide detailed questions and necessary background information and justification for the request
+
+Request to carry out administrative enquiries
+
+Article 45(2)
+
+Provide detailed questions and necessary background information and justification for the request
+
+Request for the supply of documents or certified true copies in the possession of the requested authority
+
+Article 45(4)
+
+Provide detailed questions and necessary background information and justification for the request
+
+Any other general information or question
+
+►(1) M8
+
+Text of image
+
+II. REPLY
+
+Applicant authority
+
+Member State
+
+name
+
+address
+
+contact details of the official in charge
+
+Requested authority
+
+Member State
+
+name
+
+address
+
+contact details of the official in charge
+
+Date of transmission of the request
+
+Reference number applicant authority
+
+Date of transmission of the reply
+
+Reference number requested authority
+
+No of attachments to this reply
+
+Information requested on
+
+possible IUU fishing as defined in Article 2(1) of Regulation (EC) No 1005/2008 or serious infringements referred to in Article 42(1)(b) and (c) of Regulation (EC) No 1005/2008
+
+Provide all relevant information available or gathered in the context of the request
+
+possible infringement of Regulation (EC) No 1005/2008
+
+Provide all relevant information available or gathered in the context of the request
+
+Request to carry out administrative enquiries
+
+Article 45(2)
+
+Provide details and results of the administrative enquiries carried out
+
+Request for the supply of documents or certified true copies in the possession of the requested authority
+
+Article 45(4)
+
+List the documents provided and attached as annex to this reply form
+
+Any other information
+
+►(1) M8
+
+## ANNEX XII
+
+**Standard form for the request for administrative notification according to Article 48**
+
+Text of image
+
+I. REQUEST FOR ADMINISTRATIVE NOTIFICATION
+
+Applicant authority
+
+Member State
+
+name
+
+address
+
+contact details of the official in charge
+
+Requested authority
+
+Member State
+
+name
+
+address
+
+contact details of the official in charge
+
+Date of transmission of the request
+
+Reference number applicant authority
+
+No of attachments to this request
+
+Details on the natural or legal person subject to the request
+
+Provide all information available for the identification of the addressee of the administrative notification
+
+Information on the subject of the instrument or decision to be notified
+
+Provide all possible information on the subject of the instrument or decision to be notified
+
+II. REPLY
+
+Applicant authority
+
+Member State
+
+name
+
+address
+
+contact details of the official in charge
+
+Requested authority
+
+Member State
+
+name
+
+address
+
+contact details of the official in charge
+
+Date of transmission of the request
+
+Reference number applicant authority
+
+Date of transmission of the reply
+
+Reference number requested authority
+
+Text of image
+
+No of attachments to this reply
+
+Requested notification
+
+Information on the requested notification:
+
+Date of notification to the addressee
+
+Indicate date in case of successful notification
+
+failure of notification
+
+Indicate reasons in case of failed notification
+
+Other information
+
+( 1 ) Regulation (EU) 2019/473 of the European Parliament and of the Council of 19 March 2019 on the European Fisheries Control Agency (OJ L 83, 25.3.2019, p. 18, ELI: http://data.europa.eu/eli/reg/2019/473/oj).
+
+( 2 ) OJ L 253, 11.10.1993, p. 1.
+
+( 3 ) Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89, ELI: http://data.europa.eu/eli/dir/2016/680/oj).
+
+( 4 ) Council Regulation (EC) No 1035/2001 of 22 May 2001 establishing a catch documentation scheme for Dissostichus spp. (OJ L 145, 31.5.2001, p. 1, ELI: http://data.europa.eu/eli/reg/2001/1035/oj).
+
+( 5 ) Regulation (EU) 2023/2833 of the European Parliament and of the Council of 13 December 2023 establishing a catch documentation programme for bluefin tuna (Thunnus thynnus) and repealing Regulation (EU) No 640/2010 (OJ L, 2023/2833, 20.12.2023, p. 1, ELI: http://data.europa.eu/eli/reg/2023/2833/oj).

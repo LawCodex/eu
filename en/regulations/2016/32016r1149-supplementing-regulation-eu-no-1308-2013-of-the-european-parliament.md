@@ -1,0 +1,608 @@
+---
+title: "Commission Delegated Regulation (EU) 2016/1149 of 15 April 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector and amending Commission Regulation (EC) No 555/2008"
+identifier: "32016R1149"
+eli: "http://data.europa.eu/eli/reg_del/2016/1149/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2016-04-15
+entry_into_force: 2016-05-19
+last_amended: 2023-02-19
+consolidated_version: "02016R1149-20230219"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1149-20230219"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2016/1149 of 15 April 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector and amending Commission Regulation (EC) No 555/2008
+
+**COMMISSION DELEGATED REGULATION (EU) 2016/1149**
+
+**of 15 April 2016**
+
+**supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector and amending Commission Regulation (EC) No 555/2008**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td>COMMISSION DELEGATED REGULATION (EU) 2021/374 of 27 January 2021</td><td> L 72</td><td>3</td><td>3.3.2021</td></tr>
+<tr><td></td><td>COMMISSION DELEGATED REGULATION (EU) 2021/2027 of 13 September 2021</td><td> L 415</td><td>4</td><td>22.11.2021</td></tr>
+<tr><td> M3</td><td>COMMISSION DELEGATED REGULATION (EU) 2023/181 of 27 June 2022</td><td> L 26</td><td>3</td><td>30.1.2023</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2016/1149**
+
+**of 15 April 2016**
+
+**supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector and amending Commission Regulation (EC) No 555/2008**
+
+## CHAPTER I — INTRODUCTORY PROVISIONS
+
+##### Article 1 — Scope and use of terms
+
+1\. This Regulation lays down provisions supplementing Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 on the support programmes in the wine sector.
+
+2\. This Regulation shall not affect the application of:
+
+(a) specific provisions governing relations between Member States in combating fraud in the wine sector in so far as they are such as to facilitate the application of this Regulation;
+
+(b) rules relating to:
+
+(i) criminal proceedings or mutual assistance among Member States at judicial level in criminal matters;
+
+(ii) the administrative penalties procedure
+
+3\. For the purposes of this Regulation, ‘operation’ means the action or the group of actions that are included in a project or contract submitted by an applicant and selected by the national authorities under a given support programme, corresponding to any of the activities under the measures referred to in Article 43 of Regulation (EU) No 1308/2013.
+
+##### Article 2 — Responsibility for expenditure
+
+Member States shall bear the responsibility for any expenditure effected under their support programme or any changes to that programme submitted to the Commission in accordance with Articles 1 and 2 of Implementing Regulation (EU) 2016/1150 in case they do not become applicable in accordance with Article 41(4) or (5) of Regulation (EU) No 1308/2013.
+
+## CHAPTER II — PROVISIONS ON SPECIFIC SUPPORT MEASURES
+
+### SECTION 1 — Promotion
+
+#### Sub-section 1 — Common Provisions
+
+##### Article 3 — Beneficiaries
+
+The beneficiaries of the support referred to in Article 45 of Regulation (EU) No 1308/2013 shall be professional organisations, wine producer organisations, associations of wine producer organisations, temporary or permanent associations of two or more producers, inter-branch organisations or, where a Member State decides so, bodies governed by public law within the meaning of Article 1(9) of Directive 2004/18/EC of the European Parliament and of the Council ( 1 ).
+
+Private companies may be beneficiaries of the measure referred to in point (b) of Article 45(1) of Regulation (EU) No 1308/2013.
+
+Member States shall not make a body governed by public law the sole beneficiary of the support.
+
+##### Article 4 — Duration of the support
+
+The support for each information and promotion operation shall last no longer than three years for a given beneficiary in a given Member State for the measure referred to in point (a) of Article 45(1) of Regulation (EU) No 1308/2013 and for a given beneficiary in a given third country or third-country market for the measure referred to in point (b) of Article 45(1) of Regulation (EU) No 1308/2013.
+
+However, if justified in view of the effects of the operation, the support for an operation may be extended once for a maximum of two years or twice for a maximum of one year for each extension.
+
+##### Article 5 — Eligible costs and reimbursement rules for information and promotion operations
+
+Subject to Article 45 of Regulation (EU) No 1308/2013 and Articles 6 and 9 of this Regulation, Member States shall lay down rules setting out the eligible actions and their respective eligible costs. Those rules shall be designed to ensure that the objectives of the schemes as laid down in Article 45 of Regulation (EU) No 1308/2013 are met.
+
+Those rules shall provide in particular for the payment either on the basis of standard scales of unit costs calculated in accordance with Article 24 of Implementing Regulation (EU) 2016/1150 or on the basis of supporting documents to be submitted by the beneficiaries.
+
+#### Sub-section 2 — Information in the Member States
+
+##### Article 6 — Eligible operations
+
+1\. The operations and their underlying actions for which the support referred to in point (a) of Article 45(1) of Regulation (EU) No 1308/2013 is applied shall consist of information for consumers in Member States as regards responsible consumption of wine and the risk associated with harmful alcohol consumption and the Union scheme of protected designations of origin and protected geographical indications in relation to the specific quality, reputation or other characteristics of wine due to its particular geographical environment or origin.
+
+2\. The information activities referred to in paragraph 1 may be carried out through information campaigns and through participation in events, fairs and exhibitions of national or Union importance.
+
+3\. The information disseminated shall be based on the intrinsic qualities of wine or its characteristics and shall not be brand-oriented or encourage the consumption of wine on the grounds of its specific origin. However, the origin of a wine may be indicated as part of the information activity.
+
+4\. All information concerning the effects of wine consumption on health and behaviour shall be based on generally accepted scientific data and shall be compatible with the approach of the national authority responsible for public health in the Member State where the operations are carried out.
+
+##### Article 7 — Eligibility criteria
+
+Member States shall examine an application against the following criteria:
+
+(a) the operations and their underlying actions are clearly defined, describing the information activities and including the estimated cost;
+
+(b) assurances that the proposed costs of the operation are not in excess of the normal market rates;
+
+(c) assurances that beneficiaries have access to sufficient technical and financial resources to ensure that the operation is implemented effectively;
+
+(d) the consistency with the strategies proposed and the objectives set and the likely impact and success in raising consumer's awareness about responsible consumption of wine and the risk associated with harmful alcohol consumption or about the Union system of protected designation of origin and protected geographical indications.
+
+##### Article 8 — Priority criteria
+
+1\. Having examined the applications, Member States shall give preference to operations:
+
+(a) concerning both the responsible consumption of wine and the Union systems covering protected designations of origin and protected geographical indications;
+
+(b) concerning several Member States;
+
+(c) concerning several administrative or wine regions;
+
+(d) concerning several protected designations of origin or protected geographical indications of the Union.
+
+2\. Member States may establish other priority criteria by indicating them in the support programme. Such other priority criteria shall be based on the specific strategy and objectives set out in the support programme and shall be objective and not discriminatory.
+
+#### Sub-section 3 — Promotion in third countries
+
+##### Article 9 — Eligible operations
+
+The operations and their underlying actions for which the support referred to in point (b) of Article 45(1) of Regulation (EU) No 1308/2013 is applied shall consist in promotion of Union wines on third-country markets provided that:
+
+(a) the products are intended for direct consumption and export opportunities or potential new market outlets in the targeted third countries exist for them;
+
+(b) the origin of the product is indicated as part of an information or promotion operation in the case of wine with a protected designation of origin or a protected geographical indication;
+
+(c) the operation supported is clearly defined, including the specification of which products may be taken into account, the marketing actions and the estimated cost;
+
+(d) the information or promotion messages are based on the intrinsic qualities of the wine, and comply with the legislation applicable in the third countries at which they are targeted.
+
+##### Article 10 — Eligibility criteria
+
+Member States shall examine an application against the following criteria:
+
+(a) the operations and their underlying actions are clearly defined, describing the promotion activities and including the estimated cost;
+
+(b) assurances that the proposed costs of the operation are not in excess of the normal market rates;
+
+(c) assurances that beneficiaries have access to enough technical capacity to face the specific constraints of trade with third countries and have sufficient resources to ensure that the operation is implemented as effectively as possible;
+
+(d) evidence submitted by beneficiaries that enough products in terms of quality and quantity will be available to ensure answering the market demand in the long run after the promotion operation;
+
+(e) the consistency between the strategies proposed and the objectives set and the likely impact and success in increasing demand for the products concerned.
+
+##### Article 11 — Priority criteria
+
+1\. Having examined the applications, Member States shall give preference to:
+
+(a) new beneficiaries who did not receive the support referred to in point (b) of Article 45(1) of Regulation (EU) No 1308/2013 in the past;
+
+(b) beneficiaries targeting a new third country or a new third-country market for which they did not receive the support referred to in point (b) of Article 45(1) of Regulation (EU) No 1308/2013 in the past.
+
+2\. Member States may establish other priority criteria by indicating them in the support programme. Such other priority criteria shall be based on the specific strategy and objectives set out in the support programme and shall be objective and not discriminatory.
+
+### SECTION 2 — Restructuring and conversion of vineyards
+
+##### Article 12 — Beneficiaries
+
+The beneficiaries of the support referred to in Article 46 of Regulation (EU) No 1308/2013 shall be wine growers as defined in point (a) of Article 2 of Commission Regulation (EC) No 436/2009 ( 2 ).
+
+##### Article 13 — Eligibility criteria
+
+Member States shall examine an application against the following criteria:
+
+(a) the detailed description of the proposed actions and the proposed deadlines for their implementation;
+
+(b) the actions to be implemented in each financial year, and the area concerned by each operation.
+
+##### Article 14 — Ineligible costs
+
+The costs of the following actions shall not be eligible:
+
+(a) day-to-day management of a vineyard;
+
+(b) protection against damage by game, birds or hail;
+
+(c) construction of windbreaks and wind protection walls;
+
+(d) driveways and elevators;
+
+(e) purchase of farm vehicles.
+
+##### Article 15 — Replanting for health or phytosanitary reasons
+
+1\. Replanting of a vineyard following a mandatory grubbing-up for health or phytosanitary reasons on the instruction of a competent authority of a Member State referred to in point (c) of the first subparagraph of Article 46(3) of Regulation (EU) No 1308/2013 shall be eligible for support provided that the Member State:
+
+(a) communicates to the Commission, in the framework of the submission of the national support programme or any modification of that support programme, the list of harmful organisms covered by that activity as well as a summary of a related strategic plan established by the competent authority of the Member State concerned;
+
+(b) complies with Council Directive 2000/29/EC ( 3 ).
+
+2\. During a given financial year, the expenditure for replanting for health or phytosanitary reasons shall not exceed 15 % of the total annual expenditure on restructuring and conversion of vineyards in the Member State concerned during that same financial year.
+
+3\. The costs of grubbing-up of infected vineyards and compensation for loss of revenue shall not constitute eligible expenditure.
+
+##### Article 16 — Priority criteria
+
+Member States may establish priority criteria by indicating them in the support programme. Such priority criteria shall be based on the specific strategy and objectives set out in the support programme and shall be objective and not discriminatory.
+
+### SECTION 3 — Green harvesting
+
+##### Article 17 — Beneficiaries
+
+The beneficiaries of the support referred to in Article 47 of Regulation (EU) No 1308/2013 shall be wine growers as defined in point (a) of Article 2 of Regulation (EC) No 436/2009.
+
+##### Article 18 — Conditions for the proper functioning
+
+For the purposes of Article 47 of Regulation (EU) No 1308/2013, Member States shall adopt rules to ensure that the areas concerned will be kept in good vegetative conditions and that no negative impact on the environment nor any negative phytosanitary consequences result from the application of the measure referred to in that Article and to ensure that it is possible to check that the operations and actions are carried out correctly.
+
+In relation to those objectives, Member States may apply restrictions to the measure based on objective and non-discriminatory criteria, including timing of different varieties, environmental or phytosanitary risks or the method to be used to carry out the measure.
+
+Member States may adopt other conditions for the proper functioning of the measure referred to in Article 47 of Regulation (EU) No 1308/2013.
+
+##### Article 19 — Eligibility criteria
+
+Member States shall examine an application on the basis of the details given on the area concerned, the average yield, the green harvesting method to be used as well as the grape variety and the type of wine produced from it.
+
+##### Article 20 — Ineligible actions
+
+1\. In case of complete or partial damage of the crops due, in particular, to a natural disaster within the meaning of Article 2(9) of Commission Regulation (EU) No 702/2014 ( 4 ) or an adverse climatic event which can be assimilated to a natural disaster within the meaning of Article 2(16) of that Regulation before the date of green harvesting, no support shall be granted for green harvesting.
+
+2\. In case of complete or partial damage occurring between the payment of the green harvesting support and the harvesting period, no harvest insurance financial compensation of the loss of income may be granted for the area already supported.
+
+##### Article 21 — Green harvesting in parcels for producing wines with geographical indications
+
+The area of any parcel supported for green harvesting shall not be taken into consideration when calculating the yield limits set in the technical specifications of wines with a protected designation of origin or a protected geographical indication.
+
+##### Article 22 — Duration of the support
+
+In order to be eligible for support, green harvesting shall not be applied on the same parcel for two consecutive years.
+
+##### Article 23 — Priority criteria
+
+Member States may establish priority criteria by indicating them in the support programme. Such priority criteria shall be based on the specific strategy and objectives set out in the support programme and shall be objective and not discriminatory.
+
+### SECTION 4 — Mutual funds
+
+##### Article 24 — Beneficiaries
+
+The beneficiaries of the support referred to in Article 48 of Regulation (EU) No 1308/2013 shall be wine growers as defined in point (a) of Article 2 of Regulation (EC) No 436/2009 or producers of the products referred to in Part II of Annex VII to Regulation (EU) No 1308/2013.
+
+##### Article 25 — Conditions for support
+
+1\. Where the support referred to in Article 48 of Regulation (EU) No 1308/2013, is used to finance the administrative cost of setting up mutual funds, it shall be limited to the following proportion of the contribution of the producers to the mutual fund in the first, second and third year of its implementation: 20 %, 16 % and 8 %.
+
+2\. Member States may fix ceilings for the amounts of support that may be received to finance the administrative costs of setting up mutual funds.
+
+##### Article 26 — Duration of the support
+
+The support period shall not exceed three years.
+
+### SECTION 5 — Harvest insurance
+
+##### Article 27 — Beneficiaries
+
+1\. The beneficiaries of the support referred to in Article 49 of Regulation (EU) No 1308/2013 shall be wine growers as defined in point (a) of Article 2 of Regulation (EC) No 436/2009.
+
+2\. Wine growers applying for the support shall make their insurance policy available to the national authorities in order to allow the Member States to comply with the condition laid down in Article 49(2) of Regulation (EU) No 1308/2013.
+
+##### Article 28 — Payments to beneficiaries
+
+1\. Member States may decide to pay the support referred to in Article 49(1) of Regulation (EU) No 1308/2013 through insurance companies as intermediaries provided that:
+
+(a) the conditions laid down in Article 49(4) of Regulation (EU) No 1308/2013 are respected;
+
+(b) the amount of the support is transferred in full to the producer;
+
+(c) the insurance company pays the support to the producer either in advance, through a reduction of the insurance premium, or through a bank or a postal transfer within 15 days after receiving the payment from the Member State.
+
+2\. The use of intermediaries shall be such as not to distort competitive conditions on the insurance market.
+
+##### Article 29 — Conditions for the proper functioning
+
+1\. For the purposes of Article 49 of Regulation (EU) No 1308/2013, Member States shall adopt conditions for the proper functioning of the measure referred to in that Article, including those necessary to ensure that the support does not distort competition in the insurance market.
+
+2\. Member States shall fix ceilings for the amounts of support that may be received in order to respect the conditions laid down in Article 49(3) of Regulation (EU) No 1308/2013. Member States may fix the level on the basis of normal market rates and standard assumptions of income loss. Member States shall ensure that the calculations:
+
+(a) contain only elements that are verifiable;
+
+(b) are based on figures established by appropriate expertise;
+
+(c) indicate clearly the source of the figures;
+
+(d) take into account regional or local site conditions as appropriate.
+
+##### Article 30 — Use of terms
+
+For the purposes of Article 49 of Regulation (EU) No 1308/2013, ‘natural disasters’ means natural disasters as defined in Article 2(9) of Regulation (EU) No 702/2014 and ‘adverse climatic events which can be assimilated to a natural disaster’ means adverse climatic events that can be assimilated to a natural disaster as defined in Article 2(16) of that Regulation.
+
+##### Article 31 — Priority criteria
+
+Member States may establish priority criteria by indicating them in the support programme. Such priority criteria shall be based on the specific strategy and objectives set out in the support programme and shall be objective and not discriminatory.
+
+### SECTION 6 — Investments
+
+##### Article 32 — Beneficiaries
+
+The beneficiaries of the support referred to in Article 50 of Regulation (EU) No 1308/2013 shall be wine enterprises producing or marketing the products referred to in Part II of Annex VII to that Regulation, wine producer organisations, associations of two or more producers or interbranch organisations.
+
+##### Article 33 — Eligible actions and eligible costs
+
+1\. Only the costs of the following actions shall be eligible for support:
+
+(a) the construction, acquisition, leasing, or improvement of immovable property;
+
+(b) the purchase or lease-purchase of new machinery and equipment up to the market value of the asset;
+
+(c) general costs linked to expenditure referred to in points (a), and (b), in particular architect, engineer and consultation fees as well as feasibility studies;
+
+(d) the acquisition or development of computer software and acquisition of patents, licences and copyrights and the registration of collective marks.
+
+The feasibility studies referred to in point (c) of the first subparagraph shall remain eligible expenditure even where, based on their results, no expenditure under points (a) and (b) of that subparagraph is made.
+
+2\. Costs connected with a leasing contract other than those referred to in points (a) and (b) of the first subparagraph of paragraph 1, in particular lessor's margin, interest refinancing costs, indirect costs and insurance charges, shall not be eligible expenditure.
+
+3\. By way of derogation from point (b) of the first subparagraph of paragraph 1, for micro, small and medium-sized enterprises within the meaning of Commission Recommendation 2003/361/EC ( 5 ) Member States may, if duly justified by their support programme, establish conditions under which the purchase of second-hand equipment may be regarded as eligible costs.
+
+4\. Simple replacement investments shall not constitute eligible costs.
+
+##### Article 34 — Compatibility and consistency
+
+No support under Article 50 of Regulation (EU) No 1308/2013 shall be granted for operations which received support under Article 45 of that Regulation.
+
+##### Article 35 — Eligibility criteria
+
+Member States shall examine an application against the following criteria:
+
+(a) the operations and their underlying actions are clearly defined, describing the investment actions and including the estimated cost;
+
+(b) assurances that the costs of the proposed operation are not in excess of the normal market rates;
+
+(c) assurances that beneficiaries have access to sufficient technical and financial resources to ensure that the operation is implemented effectively and that the applying enterprise is not in difficulty as referred to in the third subparagraph of Article 50(2) of Regulation (EU) No 1308/2013;
+
+(d) the consistency between the strategies proposed and the objectives set and the likely impact and success in improving the overall performance of the processing or marketing facilities and their adaptation to market demands, as well as increasing their competitiveness.
+
+##### Article 36 — Priority criteria
+
+1\. Having examined the applications, Member States shall give preference to operations which are likely to have positive effects in terms of energy savings, global energy efficiency and environmentally sustainable processes.
+
+2\. Member States may establish other priority criteria by indicating them in the support programme. Such other priority criteria shall be based on the specific strategy and objectives set out in the support programme and shall be objective and not discriminatory.
+
+### SECTION 7 — Innovation in the wine sector
+
+##### Article 37 — Beneficiaries
+
+1\. The beneficiaries of the support referred to in Article 51 of Regulation (EU) No 1308/2013 shall be wine enterprises producing or marketing the products referred to in Part II of Annex VII to that Regulation, wine producer organisations and temporary or permanent associations of two or more producers.
+
+2\. Research and development centres may participate in the operation pursued by the beneficiaries. Interbranch organisations may be associated to the operation.
+
+##### Article 38 — Eligible actions and eligible costs
+
+1\. The operations and their underlying actions for which the support referred to in Article 51 of Regulation (EU) No 1308/2013 is applied shall consist of tangible and intangible investments including for knowledge-transfer for the development of the following:
+
+(a) new products related to the wine sector or by-products of wine;
+
+(b) new processes and technologies necessary for the development of grapevine products;
+
+(c) other investments adding value at any stage of the supply chain.
+
+2\. The eligible costs shall include pilot projects, preparatory actions in the form of design, product, process or technology development and tests and any tangible and/or intangible investments related to them, before the use of the newly developed products, processes and technologies for commercial purposes.
+
+3\. Simple replacement investments shall not constitute eligible costs.
+
+##### Article 39 — Eligibility criteria
+
+Member States shall examine an application against the following criteria:
+
+(a) the operations and their underlying actions are clearly defined, describing the investment actions and including the estimated cost;
+
+(b) assurances that the costs of the proposed operation are not in excess of the normal market rates;
+
+(c) assurances that beneficiaries have access to sufficient technical and financial resources to ensure that the operation is implemented effectively;
+
+(d) the consistency between the strategies proposed and the objectives set and the likely impact and success in improving the overall performance of the processing or marketing facilities and their adaptation to market demands, as well as increasing their competitiveness.
+
+##### Article 40 — Priority criteria
+
+1\. Having examined the applications, Member States shall give preference to operations which:
+
+(a) are likely to have positive effects in terms of energy savings, global energy efficiency and environmentally sustainable processes;
+
+(b) include an element of knowledge transfer;
+
+(c) ensure the participation of research and development centres.
+
+2\. Member States may establish other priority criteria by indicating them in the support programme. Such other priority criteria shall be based on the specific strategy and objectives set out in the support programme and shall be objective and not discriminatory.
+
+### SECTION 8 — By-product distillation
+
+##### Article 41 — Beneficiaries
+
+The beneficiaries of the support referred to in Article 52 of Regulation (EU) No 1308/2013 shall be distillers of by-products of wine-making.
+
+The relevant Member States may introduce a system of voluntary certification of distillers according to a procedure that they lay down.
+
+##### Article 42 — Purpose of the support
+
+1\. The support referred to in Article 52 of Regulation (EU) No 1308/2013 shall be paid to distillers that process the by-products delivered to distillation into alcohol with an alcoholic strength of at least 92 % by volume to be used exclusively for industry or energy purposes.
+
+The first subparagraph shall not prevent the further processing of the alcohol obtained, on the basis of which the amount of support is calculated in accordance with Article 18 of Implementing Regulation (EU) 2016/1150, in order to fulfil the requirement of Article 52(5) of Regulation (EU) No 1308/2013 concerning the exclusive use for industrial or energy purposes.
+
+2\. The support shall include an amount intended to compensate the costs of collection of the products concerned, which shall be transferred from the distiller to the producer, if the relevant costs are borne by the latter.
+
+## CHAPTER III — COMMON RULES
+
+##### Article 43 — Prohibition of double funding
+
+Member States shall introduce clear demarcation criteria in their national support programmes to ensure that no support is granted under Articles 45, 46, 48, 49, 50 and 51 of Regulation (EU) No 1308/2013 respectively, for operations or actions that are supported under any other Union instruments.
+
+##### Article 44 — Eligible costs and reimbursement rules for restructuring and conversion of vineyards and green harvesting
+
+1\. Member States shall lay down rules setting out the eligible restructuring and conversion and green harvesting operations or actions and their respective eligible costs. Those rules shall be designed to ensure that the objectives of the measures as laid down in Article 46(1) and 47(2) of Regulation (EU) No 1308/2013 are met.
+
+Those rules shall provide in particular for the payment of the support either on the basis of standard scales of unit costs calculated in accordance with Article 24 of Implementing Regulation (EU) 2016/1150 or on the basis of supporting documents to be submitted by the beneficiaries.
+
+In the latter case, Member States shall establish maximum levels of support with fixed parameters for each action. Those levels shall be applied to the terms of the application in order to determine the maximum eligible amount for each of the actions that are part of the operation applied for. The support granted shall be based on the lower of the two resulting amounts, that is to say the maximum eligible amount and the amount resulting from the supporting documents.
+
+The maximum level of support shall be based on normal market rates.
+
+The calculation of the costs resulting from supporting documents shall be based on accounting principles, rules and methods used in the Member State where the beneficiary is established.
+
+2\. Member States shall fix the level of compensation for the loss of revenue provided for in Articles 46(4)(a) and 47(3) of Regulation (EU) No 1308/2013 on the basis of standard assumptions of loss of revenue, subject to Articles 46(5) and 47(4) of that Regulation.
+
+3\. If the standard scales of unit costs are determined on the basis of the area planted, that area shall be measured in accordance with Article 44 of Implementing Regulation (EU) 2016/1150.
+
+##### Article 45 — Contributions in kind for restructuring and conversion of vineyards and green harvesting
+
+1\. Contributions in kind in the form of provision of work for which no cash payment supported by invoices or documents of equivalent probative value has been made, may be eligible for support under Articles 46 and 47 of Regulation (EU) No 1308/2013 respectively, provided that the support programme so provides.
+
+2\. For the purpose of the calculation of the amount of support corresponding to contributions in kind:
+
+(a) those contributions in kind shall be included in the standard scales of unit costs calculated in accordance with Article 24 of Implementing Regulation (EU) 2016/1150, where a Member State chooses to use the simplified cost reimbursement option; or
+
+(b) the value of the work provided is determined by taking into account the time spent and the rate of remuneration for equivalent work where a Member State opts for the payment of support for restructuring and green harvesting operations on the basis of supporting documents to be submitted by the beneficiaries.
+
+3\. Where the amount of support corresponding to contributions in kind is calculated pursuant to point (b) of paragraph 2, the following criteria shall be fulfilled:
+
+(a) the support paid for the operation that includes contributions in kind does not exceed the total eligible expenditure, excluding contributions in kind, at the end of the operation;
+
+(b) the value attributed to contributions in kind does not exceed the costs generally accepted on the market in question;
+
+(c) the value and the delivery of the contribution in kind can be independently assessed and verified.
+
+The criterion referred to in point (a) of the first subparagraph does not apply to operations supported under Article 47 of Regulation (EU) No 1308/2013 that have as only cost the work provided as contribution in kind.
+
+##### Article 46 — Eligibility of personnel costs
+
+1\. Personnel costs incurred by the beneficiary of the support referred to in Article 45 of Regulation (EU) No 1308/2013 or by the beneficiary of the support referred to in Article 51 of that Regulation shall be considered eligible for support if they are incurred in relation to the preparation, implementation or follow-up of that particular supported operation, including the evaluation.
+
+Such personnel costs include, inter alia, costs of personnel contracted by the beneficiary specifically on the occasion of the promotion or innovation operation and the costs corresponding to the share of the working hours invested in the promotion or innovation operation by permanent staff of the beneficiary.
+
+2\. The beneficiary shall submit supporting documents setting out the details of the work actually carried out in relation to the particular operation or to each underlying action, if relevant.
+
+3\. For the purposes of determining personnel costs linked to the implementation of an operation by the permanent personnel of the beneficiary, the hourly rate applicable may be calculated by dividing the last documented annual gross employment costs of the specific employees that have worked in the implementation of the operation by 1 720 hours.
+
+##### Article 47 — Eligibility of administrative costs
+
+1\. Administrative costs incurred by the beneficiary of the support referred to in Article 45 of Regulation (EU) No 1308/2013 or by the beneficiary of the support referred to in Article 51 of that Regulation shall be considered eligible for support if they are incurred in relation to the preparation, implementation or follow-up of the particular supported operation or underlying action.
+
+For the purposes of Article 45 of Regulation (EU) No 1308/2013, the costs of external audits shall be considered eligible for support where such audits are performed by an independent and qualified external body.
+
+2\. The administrative costs referred to in paragraph 1 shall be considered eligible if they do not exceed 4 % of the total eligible costs of implementing the operation.
+
+3\. Member States may decide whether the administrative costs referred to in paragraph 1 are eligible on the basis of a flat-rate amount or of actual costs established on the basis of supporting documents to be submitted by the beneficiaries. In the latter case, the calculation of those costs shall be based on accounting principles, rules and methods used in the Member State where the beneficiary is established.
+
+##### Article 48 — Eligibility of value added tax
+
+1\. Value added tax shall not be eligible for support, except where it is not recoverable under the applicable national VAT legislation when it is genuinely and definitively borne by beneficiaries other than the non-taxable persons referred to in the first subparagraph of Article 13(1) of Council Directive 2006/112/EC ( 6 ).
+
+2\. In order for non-recoverable VAT to be eligible, a certified accountant or statutory auditor of the beneficiary shall show that the amount paid has not been recovered and is entered as a charge in the beneficiary's accounts.
+
+##### Article 49 — Advance payments
+
+Member States may provide for support for a given operation or for any single action covered by the support application under Articles 45, 46, 50, 51 and 52 of Regulation (EU) No 1308/2013 to be advanced to beneficiaries, provided that the beneficiary has lodged an appropriate security.
+
+##### Article 50 — Exclusion
+
+No support shall be granted to producers farming unlawful plantings and areas planted with vines without authorisation referred to in Articles 85a and 85b of Regulation (EC) No 1234/2007 and Article 71 of Regulation (EU) No 1308/2013 respectively.
+
+##### Article 51 — Notifications
+
+Member States shall notify the Commission of the implementation of their support programmes, the State aid granted and the support advanced to beneficiaries under the detailed conditions laid down in Chapter III of Implementing Regulation (EU) 2016/1150.
+
+If a Member State fails to make a notification as required under this Regulation or if the notification appears to be incorrect in the light of objective facts in the Commission's possession, the Commission may suspend part or all of the monthly payments referred to in Article 17 of Regulation (EU) No 1306/2013 as regards the wine sector until the notification is correctly made.
+
+## CHAPTER IV — FINANCIAL MANAGEMENT
+
+##### Article 52 — Payment to beneficiaries
+
+1\. Payments under Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 shall be made in full to beneficiaries, without prejudice to Article 28 of this Regulation.
+
+2\. Notwithstanding Article 49, the payments referred to in paragraph 1 shall be subject to prior checks as provided by Article 54(1).
+
+##### Article 53 — Changes to beneficiaries' operations
+
+1\. Member States may lay down rules regarding changes to the operations submitted by beneficiaries and approved by the competent authorities.
+
+Before the submission of the final payment claim, and in any case before the on-the-spot check prior to the final payment, a beneficiary should be allowed to submit changes to the initially approved operation provided that they do not undermine the objectives of the overall operation, are duly justified, communicated within the time limits set by the national authorities and approved by them.
+
+2\. Member States may allow that minor changes within the initially approved amount of eligible support can be implemented without prior approval, provided that they do not affect the eligibility of any part of the operation and its overall objectives.
+
+In particular, Member States may allow financial transfers between the actions covered by an operation already approved up to a maximum of 20 % of the amounts initially approved for each action, provided that the total amount of approved support for the operation is not exceeded.
+
+In their support programmes Member States may provide for other minor changes that can be implemented without prior approval.
+
+##### Article 54 — General principles
+
+1\. Notwithstanding Article 49, support shall be paid once it is ascertained that either an overall operation or all the individual actions which are part of the overall operation covered by the support application, according to the choice made by the Member State for the management of the support measure concerned, have been fully implemented and subjected to administrative and, where applicable, on-the-spot checks in accordance with Section 1 of Chapter IV of Implementing Regulation (EU) 2016/1150.
+
+2\. Where support is normally payable after implementation of the overall operation, support shall nevertheless be paid for the individual actions implemented if checks show that the remaining actions could not be carried out due to force majeure or exceptional circumstances within the meaning of Article 2(2) of Regulation (EU) No 1306/2013 or if checks show that, even if the remaining actions were not carried out, the overall objective of the operation has nevertheless been achieved.
+
+2a. If checks show that an overall operation covered by the support application has not been fully implemented but the overall objective of the operation has nevertheless been achieved, Member States shall pay support for the individual actions which have been implemented in accordance with paragraph 2 and apply a penalty amounting to 100 % of the amount initially allocated to those actions in the support application which have not been fully implemented.
+
+In cases where the amount of support which has been paid after implementation of individual actions is higher than the amount determined as due after checks have been carried out, Member States shall recover the support paid unduly.
+
+In such cases, if an advance has been paid, Member States may decide to apply a penalty.
+
+3\. If checks show that an overall operation covered by the support application has not been fully implemented in cases other than the ones laid down in paragraph 2, and where support has been paid after individual actions which are part of the overall operation covered by the support application, Member States shall recover the support paid.
+
+In such cases, if an advance has been paid, Member States may decide to apply a penalty.
+
+4\. Paragraphs 1 and 3 shall not apply where operations supported under Articles 46 and 47 of Regulation (EU) No 1308/2013 respectively are not implemented on the total surface for which support was requested.
+
+In such cases, Member States shall pay the amount corresponding to the part of the operation that has been implemented or, in case of advanced payments, recover the amount paid in relation to the part that has not been implemented.
+
+The amount of support shall be calculated on the basis of the difference between the area approved following administrative checks on the support application or modified in accordance with Article 53 of this Regulation and the area where the operation has been actually implemented, determined by the on-the-spot checks following implementation.
+
+Where the difference does not exceed 20 %, the support shall be calculated on the basis of the area determined by the on-the-spot checks following implementation.
+
+Where the difference is more than 20 % but no more than 50 %, the support shall be calculated on the basis of the area determined by the on-the-spot checks following implementation and reduced by twice the difference found.
+
+Where the difference exceeds 50 %, no support shall be granted for the operation concerned.
+
+##### Article 55 — Standard scales of unit costs and control methods
+
+For the purposes of Articles 46 and 47 of Regulation (EU) No 1308/2013, the following rules shall apply:
+
+(a) if the amount of the support is calculated on the basis of standard scales of unit costs based on a surface measurement unit, the amount shall correspond to the actual surface measured in accordance with Article 44 of Implementing Regulation (EU) 2016/1150;
+
+(b) if Member States decide to calculate the amount of the support on the basis of standard scales of unit costs based on other measurement units or on the basis of the actual costs resulting from the supporting documents to be submitted by the beneficiaries in accordance with Article 44(1) of this Regulation, they shall lay down rules on appropriate control methods to establish the actual extent of implementation of the operation.
+
+##### Article 56 — Force majeure and exceptional circumstances
+
+Where, under Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 or this Regulation, a sanction is to be imposed, it shall not be imposed in cases of force majeure or exceptional circumstances and other cases laid down in Article 64(2) of Regulation (EU) No 1306/2013.
+
+## CHAPTER V — AMENDMENTS AND TRANSITIONAL AND FINAL PROVISIONS
+
+##### Article 57 — Amendments of Regulation (EC) No 555/2008
+
+Regulation (EC) No 555/2008 is amended as follows:
+
+(1) Article 1 is amended as follows:
+
+(a) in the first subparagraph of paragraph 1, points (a), (d) and (f) are deleted;
+
+(b) paragraph 3 is deleted;
+
+(2) Articles 2 to 20c are deleted;
+
+(3) in Article 23, paragraph 3 is deleted;
+
+(4) Articles 24 to 37b are deleted;
+
+(5) Article 60 is deleted;
+
+(6) Articles 62, 63 and 64 are deleted;
+
+(7) in Article 65, paragraphs 1 to 4 are deleted;
+
+(8) Article 66 is deleted;
+
+(9) Articles 75 to 82 are deleted;
+
+(10) Articles 96 and 97 are deleted;
+
+(11) Annexes I to VIIIc are deleted.
+
+##### Article 58 — Transitional provisions
+
+1\. The provisions of Regulation (EC) No 555/2008 that are deleted in accordance with Article 57 of this Regulation shall continue to apply to those operations that have been submitted to the competent authorities before the date of entry into force of this Regulation.
+
+2\. Member States shall ensure that the operations to which the relevant provisions of Regulation (EC) No 555/2008 continue to apply in accordance with paragraph 1 are clearly identified through their management and control system.
+
+##### Article 59 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Directive 2004/18/EC of the European Parliament and of the Council of 31 March 2004 on the coordination of procedures for the award of public works contracts, public supply contracts and public service contracts (OJ L 134, 30.4.2004, p. 114).
+
+( 2 ) Commission Regulation (EC) No 436/2009 of 26 May 2009 laying down detailed rules for the application of Council Regulation (EC) No 479/2008 as regards the vineyard register, compulsory declarations and the gathering of information to monitor the wine market, the documents accompanying consignments of wine products and the wine sector registers to be kept (OJ L 128, 27.5.2009, p. 15).
+
+( 3 ) Council Directive 2000/29/EC of 8 May 2000 on protective measures against the introduction into the Community of organisms harmful to plants or plant products and against their spread within the Community (OJ L 169, 10.7.2000, p. 1).
+
+( 4 ) Commission Regulation (EU) No 702/2014 of 25 June 2014 declaring certain categories of aid in the agricultural and forestry sectors and in rural areas compatible with the internal market in application of Articles 107 and 108 of the Treaty on the Functioning of the European Union (OJ L 193, 1.7.2014, p. 1).
+
+( 5 ) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36).
+
+( 6 ) Council Directive 2006/112/EC of 28 November 2006 on the common system of value added tax (OJ L 347, 11.12.2006, p. 1).

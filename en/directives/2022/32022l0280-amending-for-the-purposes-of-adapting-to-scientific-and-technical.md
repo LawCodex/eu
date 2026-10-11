@@ -93,7 +93,9 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entry 4(a) is replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘4(a)</td><td>Mercury in other low pressure discharge lamps (per lamp): 15 mg</td><td>Expires on 24 February 2023</td></tr>
 <tr><td>4(a)-I</td><td>Mercury in low pressure non-phosphor coated discharge lamps, where the application requires the main range of the lamp-spectral output to be in the ultraviolet spectrum: up to 15 mg mercury may be used per lamp</td><td>Expires on 24 February 2027’</td></tr>
 </tbody>
+</table>

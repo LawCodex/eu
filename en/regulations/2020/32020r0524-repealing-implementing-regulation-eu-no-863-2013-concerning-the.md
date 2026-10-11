@@ -1,0 +1,72 @@
+---
+title: "Commission Implementing Regulation (EU) 2020/524 of 8 April 2020 repealing Implementing Regulation (EU) No 863/2013 concerning the classification of certain goods in the Combined Nomenclature"
+identifier: "32020R0524"
+eli: "http://data.europa.eu/eli/reg_impl/2020/524/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2020-04-08
+entry_into_force: 2020-05-05
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0524"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2020/524 of 8 April 2020 repealing Implementing Regulation (EU) No 863/2013 concerning the classification of certain goods in the Combined Nomenclature
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2020/524**
+
+**of 8 April 2020**
+
+**repealing Implementing Regulation (EU) No 863/2013 concerning the classification of certain goods in the Combined Nomenclature**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (1), and in particular Article 57(4) and Article 58(2) thereof,
+
+Whereas:
+
+(1) In order to ensure uniform application of the Combined Nomenclature annexed to Council Regulation (EEC) No 2658/87 (2), it is necessary to adopt measures concerning the classification of certain goods.
+
+(2) By Commission Implementing Regulation (EU) No 863/2013 (3), a product consisting of a monolithic integrated circuit and a quartz crystal assembled together on a metal frame and embedded in a plastic housing, used in various apparatus as the source of a clock signal for determining intervals of time, was classified under CN code 9114 90 00 as other watch or clock parts. Classification under heading 8542 was excluded as the product contained both a monolithic integrated circuit and a quartz crystal.
+
+(3) By Commission Implementing Regulation (EU) 2016/1821 (4), the definition of electronic integrated circuits laid down for the purposes of headings 8541 and 8542 in Note 9(b) to Chapter 85 of the Combined Nomenclature was expanded to include multi-component integrated circuits as defined in point (4) of Note 9(b) to Chapter 85, with effect from 1 January 2017. As a result, goods within the scope of Implementing Regulation (EU) No 863/2013 are to be classified under heading 8542 as an electronic integrated circuit.
+
+(4) Implementing Regulation (EU) No 863/2013 should therefore be repealed in order to avoid potential divergences in tariff classification of such goods and to ensure the uniform application of the Combined Nomenclature within the Union.
+
+(5) The measures provided for in this Regulation are in accordance with the opinion of the Customs Code Committee,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Implementing Regulation (EU) No 863/2013 is repealed.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 8 April 2020.
+
+For the Commission
+
+On behalf of the President,
+
+Stephen QUEST
+
+Director-General
+
+Directorate-General for Taxation and Customs Union
+
+(1) OJ L 269, 10.10.2013, p. 1.
+
+(2) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).
+
+(3) Commission Implementing Regulation (EU) No 863/2013 of 5 September 2013 concerning the classification of certain goods in the Combined Nomenclature (OJ L 240, 7.9.2013, p. 17).
+
+(4) Commission Implementing Regulation (EU) 2016/1821 of 6 October 2016 amending Annex I to Council Regulation (EEC) No 2658/87 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 294, 28.10.2016, p. 1).

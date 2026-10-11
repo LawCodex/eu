@@ -1,0 +1,293 @@
+---
+title: "Commission Regulation (EC) No 641/2004 of 6 April 2004 on detailed rules for the implementation of Regulation (EC) No 1829/2003 of the European Parliament and of the Council as regards the application for the authorisation of new genetically modified food and feed, the notification of existing products and adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation (Text with EEA relevance)"
+identifier: "32004R0641"
+eli: "http://data.europa.eu/eli/reg/2004/641/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-04-06
+entry_into_force: 2004-12-28
+last_amended: 2013-06-28
+consolidated_version: "02004R0641-20130628"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02004R0641-20130628"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 641/2004 of 6 April 2004 on detailed rules for the implementation of Regulation (EC) No 1829/2003 of the European Parliament and of the Council as regards the application for the authorisation of new genetically modified food and feed, the notification of existing products and adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 641/2004**
+
+**of 6 April 2004**
+
+**on detailed rules for the implementation of Regulation (EC) No 1829/2003 of the European Parliament and of the Council as regards the application for the authorisation of new genetically modified food and feed, the notification of existing products and adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 503/2013 of 3 April 2013 </td><td> L 157</td><td>1</td><td>8.6.2013</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 641/2004**
+
+**of 6 April 2004**
+
+**on detailed rules for the implementation of Regulation (EC) No 1829/2003 of the European Parliament and of the Council as regards the application for the authorisation of new genetically modified food and feed, the notification of existing products and adventitious or technically unavoidable presence of genetically modified material which has benefited from a favourable risk evaluation**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — Applications for authorisation
+
+#### Article 1
+
+This chapter provides detailed rules concerning applications for authorisation submitted in accordance with Articles 5 and 17 of Regulation (EC) No 1829/2003 except for those applications covered by Commission Implementing Regulation (EU) No 503/2013 ( 3 ).
+
+### SECTION 1 — Requirements for applications for authorisation of genetically modified food and feed
+
+#### Article 2
+
+1\. Without prejudice to Article 5(3) and (5) and Article 17(3) and (5) of Regulation (EC) No 1829/2003, and taking into account the guidance of the European Food Safety Authority (the Authority) provided for in Articles 5(8) and 17(8) of that Regulation, applications for authorisation submitted in accordance with Articles 5 and 17 of Regulation (EC) No 1829/2003 (the applications) shall comply with the requirements of paragraphs 1 to 4 of this Article and with Articles 3 and 4 of this Regulation.
+
+2\. In supplying the information required under Article 5(3)(b) and Article 17(3)(b) of Regulation (EC) No 1829/2003, the application shall clearly identify the products covered by it in accordance with Articles 3(1) and 15(1) of that Regulation. Where the application is limited to either food or feed use, it shall contain a verifiable justification explaining why the authorisation should not cover both uses in accordance with Article 27 of Regulation (EC) No 1829/2003.
+
+3\. The application shall clearly state which parts of the application are considered to be confidential, together with a verifiable justification in accordance with Article 30 of Regulation (EC) No 1829/2003. Confidential parts shall be submitted in separate documents.
+
+4\. The application shall specify, in supplying the information required under Article 5(3)(c) and Article 17(3)(c) of Regulation (EC) No 1829/2003, whether the information included in the application may be notified as such to the biosafety clearing house under the Cartagena Protocol on Biosafety to the Convention on Biological Diversity (the Cartagena Protocol) approved by Council Decision 2002/628/EC ( 4 ).
+
+If the application may not be notified as such, it shall include the information which complies with Annex II to the Cartagena Protocol and which may be notified to the biosafety clearing house by the Commission as provided in Article 44 of Regulation (EC) No 1829/2003 in a separate and clearly identified document.
+
+5\. Paragraph 4 shall not apply to applications concerning only food and feed produced from genetically modified organisms (GMOs) or containing ingredients produced from GMOs.
+
+#### Article 3
+
+1\. The application shall include the following:
+
+(a) the monitoring plan referred to in Article 5(5)(b) and Article 17(5)(b) of Regulation (EC) No 1829/2003, taking into account Council Decision 2002/811/EC ( 5 );
+
+(b) in supplying the information required under Article 5(5)(a) and Article 17(5)(a) of Regulation (EC) No 1829/2003, a proposal for labelling complying with the requirements of Annex IV to Directive 2001/18/EC of the European Parliament and of the Council ( 6 );
+
+(c) in supplying the information required under Article 5(5)(a) and Article 17(5)(a) of Regulation (EC) No 1829/2003, a proposal for a unique identifier for the GMO in question, developed in accordance with Commission Regulation (EC) No 65/2004 ( 7 );
+
+(d) a proposal for labelling in all official Community languages, where a proposal for specific labelling is needed in accordance with Article 5(3)(f) and Article (g) and 17(3)(f) and (g) of Regulation (EC) No 1829/2003;
+
+(e) a description of a method(s) of detection, sampling and event specific identification of the transformation event, as provided for in Article 5(3)(i) and Article 17(3)(i) of Regulation (EC) No 1829/2003, in accordance with Annex I to this Regulation;
+
+(f) a proposal for post-market monitoring regarding the use of the food for human consumption or the feed for animal consumption, as provided for in Article 5(3)(k) and Article 17(3)(k) of Regulation (EC) No 1829/2003, and according to the characteristics of the products concerned, or a verifiable justification to the effect that a post-market monitoring is not necessary.
+
+2\. Points (a), (b) and (c) of paragraph 1 shall not apply to applications concerning only food and feed produced from GMOs or containing ingredients produced from GMOs.
+
+#### Article 4
+
+1\. Samples of the food and feed and their control samples which are to be submitted in accordance with Article 5(3)(j) and Article 17(3)(j) of Regulation (EC) No 1829/2003 shall be in accordance with the requirements set out in Annexes I and II to this Regulation.
+
+The application shall be accompanied by information concerning the place where the reference material developed in accordance with Annex II may be found.
+
+2\. The summary to be provided in accordance with Article 5(3)(l) and Article 17(3)(l) of Regulation (EC) No 1829/2003 shall:
+
+(a) be presented in an easily comprehensible and legible form;
+
+(b) not contain parts which are considered to be confidential.
+
+## CHAPTER IV — Final provision
+
+#### Article 20
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 18 April 2004.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — METHOD VALIDATION
+
+**1\. INTRODUCTION**
+
+A. For the purpose of implementing Articles 5(3)(i) and 17(3)(i) of Regulation (EC) No 1829/2003, this Annex provides technical provisions on the type of information on detection methods that shall be provided by the applicant and that is needed to verify the preconditions for the fitness of the method. This includes information about the method as such and about the method testing carried out by the applicant. All guidance documents referred to in this Annex or produced by the Community Reference Laboratory (CRL) shall be made available by the CRL.
+
+B. The method acceptance criteria and method performance requirements have been compiled by the European Network of GMO Laboratories (ENGL) in a document entitled ‘Definition of minimum performance requirements for analytical methods of GMO testing’, which shall be made available by the CRL. ‘Method acceptance criteria’ are criteria, which should be fulfilled prior to the initiation of any method validation by the CRL. The ‘method performance requirements’ define the minimum performance criteria that the method should demonstrate upon completion of a validation study carried out by the CRL according to internationally accepted technical provisions and this in order to certify that the method validated is fit for the purpose of enforcement of Regulation (EC) No 1829/2003.
+
+C. The CRL, established under Regulation (EC) No 1829/2003 and assisted by ENGL, will evaluate the provided information for its completeness and fitness for the purpose. Here, the method acceptance criteria recommended by ENGL, which are described under 1(B), will be taken into account.
+
+D. If the information provided about the method is considered adequate and fulfils the method acceptance criteria, the CRL will initiate the validation process for the method.
+
+E. The validation process will be carried out by the CRL according to internationally accepted technical provisions.
+
+F. The CRL, together with ENGL, shall provide further information about the operational procedures of the validation process and shall make the documents available.
+
+G. The CRL, assisted by ENGL, shall evaluate the results obtained in the validation study for the fitness for the purpose. Here, the method performance requirements as described under 1(B) shall be taken into account.
+
+**2\. INFORMATION ABOUT THE METHOD**
+
+A. The method shall refer to all the methodological steps needed to analyse the relevant material in accordance with Articles 5(3)(i) and 17(3)(i) of Regulation (EC) No 1829/2003.
+
+For a particular material this must include the methods for DNA extraction and the subsequent quantification in a polymerase chain reaction (PCR) system. In such a case, the whole process from extraction up to the PCR-technique (or equivalent) constitutes a method. The applicant shall provide information about the whole method.
+
+B. As described in the document referred to under 1(B), ENGL recognises the modularity of a method. According to this principle, the applicant is allowed to refer to existing methods for a certain module(s), if available and appropriate. This could be, for instance, a DNA extraction method from a certain matrix. In such a case, the applicant shall provide experimental data from an in-house validation in which the method module has been successfully applied in the context of the application for authorisation.
+
+C. The applicant shall demonstrate that the method fulfils the following requirements.
+
+1\. The method shall be event-specific and thus must only be functional with the GMO or GM based product considered and shall not be functional if applied to other events already authorised; otherwise the method cannot be applied for unequivocal detection/identification/quantification. This shall be demonstrated with a selection of non-target transgenic authorised events and conventional counterparts, in the case of GM plants. This testing shall include closely related events, where relevant, and cases where the limits of the detection are truly tested. The same specificity principle must be applied for products that consist of or contain GMOs other than plants.
+
+2\. The method shall be applicable to samples of the food or feed, to the control samples and to the reference material, which is referred to in Articles 5(3)(j) and 17(3)(j) of Regulation (EC) No 1829/2003.
+
+3\. The method shall be developed taking the following documents in consideration as appropriate:
+
+— General requirements and definitions: draft European standard prEN ISO 24276:2002,
+
+— Nucleic acid extraction prEN ISO 21571:2002,
+
+— Quantitative nucleic acid based methods: draft European standard prEN ISO 21570:2002,
+
+— Protein based methods: adopted European standard EN ISO 21572:2002,
+
+— Qualitative nucleic acid based methods: draft European standard prEN ISO 21569:2002.
+
+D. For the purpose of implementing Articles 5(3)(i) and 17(3)(i) of Regulation (EC) No 1829/2003, the applicant shall provide:
+
+(a) in the case of an application for authorisation covering a GMO, products consisting of or containing a GMO or products produced from a GMO, the event-specific quantitative detection method of the GM material;
+
+(b) in addition, in the case of an application for authorisation covering products produced from a GMO where the genetically modified material is detectable, the event-specific quantitative detection method in the foods or feeds produced from the GMO.
+
+E. The applicant shall provide a complete and detailed description of the method. The following points shall be clearly addressed.
+
+1\. Scientific basis: An overview of the principles of how the method works, such as DNA molecular biology based (e.g. for real-time PCR) information must be provided. It is recommended to provide references to relevant scientific publications.
+
+2\. Scope of the method: Indication of the matrix (e.g. processed food, raw materials), the type of samples and the percentage range to which the method can be applied.
+
+3\. Operational characteristics of the method: The required equipment for the application of the method shall be clearly mentioned, with regard to the analysis per se and the sample preparation. Further information of any specific aspects crucial for the application of the method shall also be mentioned here.
+
+4\. Protocol: The applicant shall provide a complete optimised protocol of the method. The protocol shall present all the details as required to transfer and apply the method independently in other laboratories. It is recommended to use a protocol template, which can be obtained from the CRL. The protocol shall include details of:
+
+— analyte to be tested,
+
+— working conditions, instructions and rules,
+
+— all the materials needed, including an estimation of their amounts and storage and handling instructions,
+
+— all the equipment needed, including not only the main equipment such as a PCR system or centrifuge but also small items such as micropipettes and reaction tubes with an indication of their appropriate sizes, etc.,
+
+— all the steps of the operative protocol, clearly described,
+
+— instructions for the data recording (e.g. the programme settings or parameters to be included).
+
+5\. The prediction model (or alike) needed to interpret results and to make inferences must be described in full details. Instructions for the correct application of the model should be provided.
+
+**3\. INFORMATION ABOUT THE METHOD TESTING CARRIED OUT BY THE APPLICANT**
+
+A. The applicant shall provide all the available and relevant data of the method optimisation and testing carried out. These data and results shall be presented, where possible and appropriate, by using the performance parameters recommended by the ENGL as referred to under 1(B). A summary of the testing carried out and the main results as well as all the data including the outliers shall be provided. The CRL, together with ENGL, shall continue to provide further technical provisions about the appropriate formats for these data.
+
+B. The information provided shall demonstrate the robustness of the method for inter-laboratory transferability. This means that the method should have been tested by at least one laboratory that is independent from the laboratory which has developed the method. This is an important pre-condition for the success of the validation of the method.
+
+C. Information required about the method development and the method optimisation:
+
+1\. primer pairs tested (in the case of a PCR-based test): justification shall be given of how and why the proposed primer pair has been selected;
+
+2\. stability testing: experimental results from testing the method with different varieties shall be provided;
+
+3\. specificity: the applicant shall submit the full sequence of the insert(s), together with the base pairs of the host flanking sequences needed to establish an event-specific detection method. The CRL shall enter these data in a molecular database. By running homology searches, the CRL will thus be in a position to assess the specificity of the proposed method.
+
+D. Testing report. Besides the values obtained for the performance indices, the following information regarding the testing shall be provided, as appropriate:
+
+— participating laboratories, time of the analysis and outline of the experimental design, including the details about the number of runs, samples, replicates etc.,
+
+— description of the laboratory samples (e.g. size, quality, date of sampling), positive and negative controls as well as reference material, plasmids and alike used,
+
+— description of the approaches that have been used to analyse the test results and outliers,
+
+— any particular points observed during the testing,
+
+— references to relevant literature or technical provisions used in the testing.
+
+**4\. SAMPLES OF THE FOOD AND FEED AND THEIR CONTROL SAMPLES**
+
+In view of implementing Articles 5(3)(j) and 17(3)(j) of Regulation (EC) No 1829/2003, the applicant shall, together with the information specified under sections 1, 2 and 3 of this Annex, also provide samples of the food and feed and their control samples of a type and amount to be specified by the CRL for the specific application for authorisation.
+
+## ANNEX II — REFERENCE MATERIAL
+
+The reference material as referred to in Articles 5(3)(j) and 17(3)(j) of Regulation (EC) No 1829/2003 shall be produced in accordance with internationally accepted technical provisions such as ISO Guides 30 to 34 (and more particularly ISO Guide 34, specifying the general requirements for the competence of reference material producers). The reference material shall be preferably certified and, if such is the case, certification shall be done in accordance with ISO Guide 35.
+
+For verification and value assignment, a method that has been properly validated (see ISO/IEC 17025:5.4.5) shall be used. Uncertainties have to be estimated according to GUM (ISO Guide to the Expression of Uncertainty in Measurement: GUM). Major characteristics of these internationally accepted technical provisions are given below.
+
+A. Terminology:
+
+reference material (RM): material or substance, one or more of whose property values are sufficiently homogenous and well-established to be used for calibration of an apparatus, the assessment of a measurement method, or for assigning values to materials;
+
+Certified reference material (CRM): reference material, accompanied by a certificate, one or more of whose property values are certified by a procedure which establishes its traceability to an accurate realisation of the unit in which the property values are expressed, and for which each certified value is accompanied by an uncertainty at a stated level of confidence.
+
+B. GM RM containers:
+
+— GM RM container (bottles, vials, ampoules, etc.) must be tight and contain not less than the stated amount of material,
+
+— samples must have appropriate homogeneity and stability,
+
+— the commutability of the GM RM has to be assured,
+
+— packaging must be appropriate to the purpose,
+
+— labelling must be of good aspect and quality.
+
+C. Homogeneity testing:
+
+between-bottle homogeneity must be examined;
+
+any possible between-bottle heterogeneity must be accounted for in the overall estimated RM uncertainty. This requirement applies even when no statistically significant between-bottle variation is present. In this case, the method variation or the actual calculated between-bottle variation (whichever is larger) must be included in the overall uncertainty;
+
+D. Stability testing:
+
+stability must be positively demonstrated by appropriate statistical extrapolation for the GM RM shelf-life to be within the stated uncertainty; the uncertainty related to this demonstration is normally part of the estimated RM uncertainty;
+
+assigned values are valid only for a limited time and must be subject to a stability monitoring.
+
+E. Batch characterisation:
+
+the methods used for verification and for certification must:
+
+— be applied under metrologically valid conditions,
+
+— have been properly technically validated before use,
+
+— have precision and accuracy compatible with the target uncertainty;
+
+each set of measurements must:
+
+— be traceable to the stated references, and
+
+— be accompanied by an uncertainty statement whenever possible;
+
+participating laboratories must:
+
+— have the required competence for the execution of the task,
+
+— be able to achieve traceability to the required stated references,
+
+— be able to estimate its measurement uncertainty,
+
+— have in place a sufficient and appropriate quality assurance system.
+
+F. Final storage:
+
+— to avoid a posterior degradation, all samples are best stored under conditions designated for the final storage of the GM RM before measurements are started,
+
+— otherwise, they must be transported from door to door keeping them at all times under such storage conditions for which it has been demonstrated that there is no influence on the assigned values.
+
+G. Establishment of a certificate for CRMs:
+
+— a certificate complemented by a certification report has to be established, containing all information relevant to and needed by the user. The certificate and report must be made available when the GM CRM is distributed,
+
+— certified values must be traceable to stated references and be accompanied by an expanded uncertainty statement valid for the entire shelf-life of the GM CRM.
+
+( 1 ) OJ L 268, 18.10.2003, p. 1.
+
+( 2 ) OJ L 270, 14.12.1970, p. 1. Directive as last amended by Regulation (EC) No 1756/2002 (OJ L 265, 3.10.2002, p. 1).
+
+( 3 ) OJ L 157, 8.6.2013, p. 1.
+
+( 4 ) OJ L 201, 31.7.2002, p. 48.
+
+( 5 ) OJ L 280, 18.10.2002, p. 27.
+
+( 6 ) OJ L 106, 17.4.2001, p. 1.
+
+( 7 ) OJ L 10, 16.1.2004, p. 5.

@@ -94,6 +94,7 @@ Point 8 of Annex VI to the Directive 2007/59/EC is replaced by the following:
 |  | 2. | In order to satisfy the requirements provided for in paragraph 1, drivers must be able to understand (both listening and reading) and to communicate (both speaking and writing) according to level B1 of the Common European Framework of Reference for Languages (CEFR) established by the Council of Europe (1). |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>In case of sections between the borders and the stations situated close to the borders and designated for cross border operations, drivers of trains operated by a railway undertaking may be exempted by the infrastructure manager from the requirements of paragraph 2, provided that the following procedure is applied:<table><tbody><tr><td>(a)</td><td>the railway undertaking shall request a derogation to the infrastructure manager for the concerned drivers. In order to ensure a fair and equal treatment of the applicants, to each submitted request for derogation the infrastructure manager shall apply the same assessment procedure, which shall be part of the network statement;</td></tr>
 </tbody>
 </table>
@@ -105,5 +106,6 @@ Point 8 of Annex VI to the Directive 2007/59/EC is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (1) Common European Framework of Reference for Languages: Learning, Teaching, Assessment, 2001 (Cambridge University Press for the English version ISBN 0-521-00531-0). Also available on the Cedefop website: http://www.cedefop.europa.eu/

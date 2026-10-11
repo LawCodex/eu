@@ -1,0 +1,971 @@
+---
+title: "Commission Implementing Regulation (EU) 2015/1018 of 29 June 2015 laying down a list classifying occurrences in civil aviation to be mandatorily reported according to Regulation (EU) No 376/2014 of the European Parliament and of the Council (Text with EEA relevance)"
+identifier: "32015R1018"
+eli: "http://data.europa.eu/eli/reg_impl/2015/1018/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2015-06-29
+entry_into_force: 2015-03-02
+last_amended: 2026-08-17
+consolidated_version: "02015R1018-20260817"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R1018-20260817"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2015/1018 of 29 June 2015 laying down a list classifying occurrences in civil aviation to be mandatorily reported according to Regulation (EU) No 376/2014 of the European Parliament and of the Council (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2015/1018**
+
+**of 29 June 2015**
+
+**laying down a list classifying occurrences in civil aviation to be mandatorily reported according to Regulation (EU) No 376/2014 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/3 of 4 January 2022 </td><td> L 1</td><td>3</td><td>5.1.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1821 of 27 July 2026 </td><td> L 1821</td><td>1</td><td>28.7.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2015/1018**
+
+**of 29 June 2015**
+
+**laying down a list classifying occurrences in civil aviation to be mandatorily reported according to Regulation (EU) No 376/2014 of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+The detailed classification of the occurrences to be referred to when reporting, through mandatory reporting systems, occurrences pursuant to Article 4(1) of Regulation (EU) No 376/2014 is set out in Annexes I to V to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 15 November 2015.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — OCCURRENCES RELATED TO THE OPERATION OF MANNED AIRCRAFT
+
+Remark: This Annex is structured in such a way that the pertinent occurrences are linked with categories of activities during which they are normally observed, according to experience, to facilitate the reporting of those occurrences. However, this list must not be understood as meaning that occurrences must not be reported when they take place outside the category of activities to which they are linked in the list.
+
+**1\. AIR OPERATIONS**
+
+**1.1. Flight preparation**
+
+(1) Use of incorrect data or erroneous entries into equipment used for navigation or performance calculations which has or could have endangered the aircraft, its occupants or any other person.
+
+(2) Carriage or attempted carriage of dangerous goods when not in accordance with applicable legislations including incorrect labelling, packaging and handling of dangerous goods.
+
+**1.2. Aircraft preparation**
+
+(1) Incorrect fuel/energy type or contaminated fuel.
+
+(2) Missing, incorrect or inadequate de-icing / anti-icing treatment.
+
+**1.3. Take-off and landing**
+
+(1) Taxiway or runway excursion.
+
+(2) Actual or potential taxiway or runway incursion.
+
+(3) Final Approach and Take-off Area (FATO) incursion.
+
+(4) Any rejected take-off.
+
+(5) Inability to achieve required or expected performance during take-off, go-around or landing.
+
+(6) Actual or attempted take-off, approach or landing with incorrect configuration setting.
+
+(7) Tail, blade/wingtip or nacelle strike during take-off or landing.
+
+(8) Approach continued against air operator stabilised approach criteria.
+
+(9) Continuation of an instrument approach below published minimums with inadequate visual references.
+
+(10) Precautionary or forced landing.
+
+(11) Short and long landing.
+
+(12) Hard landing.
+
+**1.4. Any phase of flight**
+
+(1) Loss of control.
+
+(2) Aircraft upset, exceeding normal pitch attitude, bank angle or airspeed inappropriate for the conditions.
+
+(3) Level bust.
+
+(4) Activation of any flight envelope protection, including stall warning, stick shaker, stick pusher and automatic protections.
+
+(5) Unintentional deviation from intended or assigned track of the lowest of twice the required navigation performance or 10 nautical miles.
+
+(6) Exceedance of aircraft flight manual limitation.
+
+(7) Operation with incorrect altimeter setting.
+
+(8) Jet blast or rotor and prop wash occurrences which have or could have endangered the aircraft, its occupants or any other person.
+
+(9) Misinterpretation of automation mode or of any flight deck information provided to the flight crew which has or could have endangered the aircraft, its occupants or any other person.
+
+**1.5. Other types of occurrences**
+
+(1) Unintentional release of cargo or other externally carried equipment.
+
+(2) Loss of situational awareness (including environmental, mode and system awareness, spatial disorientation, and time horizon).
+
+(3) Any occurrence where the human performance has directly contributed to or could have contributed to an accident or a serious incident.
+
+**2\. TECHNICAL OCCURRENCES**
+
+**2.1. Structure and systems**
+
+(1) Loss of any part of the aircraft structure in flight.
+
+(2) Loss of a system.
+
+(3) Loss of redundancy of a system.
+
+(4) Leakage of any fluid which resulted in a fire hazard or possible hazardous contamination of aircraft structure, systems or equipment, or which has or could have endangered the aircraft, its occupants or any other person.
+
+(5) Fuel system malfunctions or defects, which affected fuel supply and/or distribution.
+
+(6) Malfunction or defect of any indication system when this results in misleading indications to the crew.
+
+(7) Abnormal functioning of flight controls such as asymmetric or stuck/jammed flight controls (for example: lift (flaps/slats), drag (spoilers), attitude control (ailerons, elevators, rudder) devices).
+
+**2.2. Propulsion (including engines, propellers and rotor systems) and Auxiliary Power Units (APUs)**
+
+(1) Failure or significant malfunction of any part or controlling of a propeller, rotor or powerplant.
+
+(2) Damage to or failure of main/tail rotor or transmission and/or equivalent systems.
+
+(3) Flameout, in flight shutdown of any engine or APU when required (for example: Extended Diversion Time Operations (EDTO), Minimum Equipment List (MEL)).
+
+(4) Engine operating limitation exceedance, including overspeed or inability to control the speed of any high-speed rotating component (for example: APU, air starter, air cycle machine, air turbine motor, propeller or rotor).
+
+(5) Failure or malfunction of any part of an engine, powerplant, APU or transmission resulting in any one or more of the following:
+
+(a) thrust-reversing system failing to operate as commanded;
+
+(b) inability to control power, thrust or rpm (revolutions per minute);
+
+(c) non containment of components/debris.
+
+**3\. INTERACTION WITH AIR NAVIGATION SERVICES (ANS) AND AIR TRAFFIC MANAGEMENT (ATM)**
+
+(1) Unsafe Air Traffic Control (ATC) clearance.
+
+(2) Prolonged loss of communication with Air Traffic Service (ATS) Unit.
+
+(3) Conflicting instructions from different ATS Units potentially leading to a loss of separation.
+
+(4) Misinterpretation of radio-communication which has or could have endangered the aircraft, its occupants or any other person.
+
+(5) Intentional deviation from ATC instruction which has or could have endangered the aircraft, its occupants or any other person.
+
+(6) Encounter with an unmanned aircraft while transiting in U-Space airspace ( 1 ).
+
+**4\. EMERGENCIES AND OTHER CRITICAL SITUATIONS**
+
+(1) Any event leading to the declaration of an emergency (‘MAYDAY’) or state of urgency (‘PAN’ call).
+
+(2) Any burning, melting, smoke, fumes, arcing, overheating, fire or explosion.
+
+(3) Contaminated air in the cockpit or in the passenger compartment which has or could have endangered the aircraft, its occupants or any other person.
+
+(4) Failure to apply the correct non-normal or emergency procedure by the flight or cabin crew to deal with an emergency.
+
+(5) Use of any emergency equipment or non-normal procedure affecting in-flight or landing performance.
+
+(6) Failure of any emergency or rescue system or equipment which has or could have endangered the aircraft, its occupants or any other person.
+
+(7) Uncontrollable cabin pressure.
+
+(8) Critically low fuel/energy quantity or fuel/energy quantity at destination below required final reserve fuel/energy.
+
+(9) Any use of crew oxygen system by the crew.
+
+(10) Incapacitation of any member of the flight or cabin crew that results in the reduction below the minimum certified crew complement.
+
+(11) Crew fatigue impacting or potentially impacting their ability to perform safely their flight duties.
+
+**5\. EXTERNAL ENVIRONMENT AND METEOROLOGY**
+
+(1) A collision or a near collision on the ground or in the air, with another aircraft, terrain or obstacle ( 2 ).
+
+(2) Airborne Collision Avoidance System, Resolution Advisory (ACAS RA).
+
+(3) Activation of genuine ground collision system such as Ground Proximity Warning System (GPWS)/Terrain Awareness and Warning System (TAWS) ‘warning’.
+
+(4) Wildlife strike including bird strike.
+
+(5) Foreign Object Damage/Debris (FOD).
+
+(6) Unexpected encounter of poor runway surface conditions.
+
+(7) Wake-turbulence encounters.
+
+(8) Interference with the aircraft by firearms, fireworks, flying kites, laser illumination, high powered lights, lasers, Unmanned Aircraft Systems ( 3 ) (UAS), or by similar means.
+
+(9) A lightning strike which resulted in damage to the aircraft or loss or malfunction of any aircraft system.
+
+(10) A hail encounter which resulted in damage to the aircraft or loss or malfunction of any aircraft system.
+
+(11) Severe turbulence encounter or any encounter resulting in injury to occupants or deemed to require a ‘turbulence check’ of the aircraft.
+
+(12) A significant windshear or thunderstorm encounter which has or could have endangered the aircraft, its occupants or any other person.
+
+(13) Icing encounter resulting in handling difficulties, damage to the aircraft or loss or malfunction of any aircraft system.
+
+(14) Volcanic ash encounter.
+
+**6\. SECURITY**
+
+(1) Difficulty in controlling intoxicated, violent or unruly passengers.
+
+(2) Discovery of a stowaway.
+
+(3) Abnormal behaviour of a system due to an information security incident (example: compromised information or data, malware infection, Distributed-Denial-of-Service (DDoS)).
+
+(4) Bomb threat or hijack (applicable until 31 December 2027).
+
+## ANNEX II — OCCURRENCES RELATED TO TECHNICAL CONDITIONS, MAINTENANCE AND REPAIR OF THE AIRCRAFT
+
+Remark: The occurrences listed in this Annex are also relevant for UAS for which a certificate or declaration for the design is required pursuant to Article 56(1) and (5) of Regulation (EU) 2018/1139.
+
+**1\. MANUFACTURING**
+
+Products, parts or appliances released from the production organisation with deviations from applicable design data that could lead to a potential unsafe condition as identified with the holder of the type-certificate or design approval.
+
+**2\. DESIGN**
+
+Any failure, malfunction, defect or other occurrence related to a product, part, or appliance which has resulted in or may result in an unsafe condition.
+
+Remark: This list is applicable to occurrences occurring on a product, part, appliance or the Control and Monitoring Unit (CMU) ( 4 ), covered by the type-certificate, restricted type-certificate, supplemental type-certificate, ETSO authorisation, major repair design approval or any other relevant approval or declaration deemed to have been issued under Commission Regulation (EU) No 748/2012 ( 5 ).
+
+**3\. MAINTENANCE AND CONTINUING AIRWORTHINESS MANAGEMENT**
+
+(1) Serious structural damage (for example: cracks, permanent deformation, delamination, debonding, burning, excessive wear, or corrosion) found during maintenance of the aircraft or component.
+
+(2) Serious leakage or contamination of fluids (for example: hydraulic, fuel, oil, gas or other fluids).
+
+(3) Failure or malfunction of any part of an engine or powerplant and/or transmission resulting in any one or more of the following:
+
+(a) non-containment of components/debris;
+
+(b) failure of the engine mount structure.
+
+(4) Damage, failure or defect of propeller, which could lead to in-flight separation of the propeller or any major portion of the propeller and/or malfunctions of the propeller control.
+
+(5) Damage, failure or defect of main rotor gearbox/attachment, which could lead to in-flight separation of the rotor assembly and/or malfunctions of the rotor control.
+
+(6) Significant malfunction of a safety critical system or equipment including emergency system or equipment during maintenance testing or failure to activate these systems after maintenance, including the CMU.
+
+(7) Abnormal behaviour of a system due to an information security incident (example: compromised information or data, malware infection, Distributed-Denial-of-Service (DDoS)).
+
+(8) Incorrect assembly or installation of components of the aircraft or the CMU, found during an inspection or test procedure not intended for that specific purpose.
+
+(9) Wrong assessment of a serious defect, or serious non-compliance with Minimum Equipment List (MEL) and Technical Logbook procedures.
+
+(10) Serious damage to Electrical Wiring Interconnection System (EWIS).
+
+(11) Any defect in a life-controlled critical part causing retirement before completion of its full life.
+
+(12) The use of products, non-installed equipment, components or materials, from unknown, suspect origin, or unserviceable critical components.
+
+(13) Misleading, incorrect or insufficient applicable maintenance data or procedures that could lead to significant maintenance errors, including language issue.
+
+(14) Incorrect control or application of the aircraft maintenance limitations, procedures or scheduled maintenance, including that of the CMU.
+
+(15) Releasing to service from maintenance an aircraft or the CMU in case of any non-compliance which endangers the flight safety.
+
+(16) Serious damage caused to an aircraft, to a part, or to the CMU during maintenance activities due to incorrect maintenance or use of inappropriate or unserviceable ground support equipment that requires additional maintenance actions.
+
+(17) Identified burning, melting, smoke, arcing, overheating or fire occurrences.
+
+(18) Any occurrence where the human performance, including fatigue of personnel, has directly contributed to or could have contributed to an accident or a serious incident.
+
+(19) Significant malfunction, reliability issue, or recurrent recording quality issue affecting a flight recorder system (such as a flight data recorder system, a data link recording system or a cockpit voice recorder system) or lack of information needed to ensure the serviceability of a flight recorder system, including those installed in the CMU.
+
+(20) Use or potential use of an unapproved configuration or installation of the CMU.
+
+## ANNEX III — OCCURRENCES RELATED TO AIR NAVIGATION SERVICES AND FACILITIES
+
+Remark: This Annex is structured in such a way that the pertinent occurrences are linked with categories of activities during which they are normally observed, according to experience, to facilitate the reporting of those occurrences. However, this list must not be understood as meaning that occurrences must not be reported when they take place outside the category of activities to which they are linked in the list.
+
+**1\. AIRCRAFT RELATED OCCURRENCES**
+
+(1) A collision or a near collision on the ground or in the air, between an aircraft and another aircraft or UAS, terrain or obstacle ( 6 ), including near-controlled flight into terrain (near CFIT).
+
+(2) Separation minima infringement ( 7 ).
+
+(3) Inadequate separation ( 8 ).
+
+(4) Airborne Collision Avoidance System, Resolution Advisory (ACAS RA).
+
+(5) Wildlife strike including bird strike.
+
+(6) Taxiway or runway excursion.
+
+(7) Actual or potential taxiway or runway incursion.
+
+(8) Final Approach and Take-off Area (FATO) incursion.
+
+(9) Aircraft deviation from Air Traffic Control (ATC) clearance or instructions.
+
+(10) Aircraft deviation from applicable Air Traffic Management (ATM) regulation:
+
+(a) Aircraft deviation from applicable published ATM procedures;
+
+(b) Airspace infringement including unauthorised penetration of airspace;
+
+(c) Deviation from aircraft ATM-related equipment carriage and operations, as mandated by applicable regulations.
+
+(11) Penetration of the manned aircraft into an active U-space airspace designated inside a controlled airspace.
+
+(12) Call sign confusion related occurrences.
+
+**2\. DEGRADATION OR TOTAL LOSS OF SERVICES OR FUNCTIONS**
+
+(1) Inability to provide ATM services or to execute ATM functions:
+
+(a) Inability to provide air traffic services or to execute air traffic services functions;
+
+(b) Inability to provide airspace management services or to execute airspace management functions;
+
+(c) Inability to provide air traffic flow management and capacity services or to execute air traffic flow management and capacity functions.
+
+(2) Inability to provide or to execute the U-space Dynamic Airspace Reconfiguration (DAR).
+
+(3) Missing or significantly incorrect, corrupted, inadequate or misleading information from any support service ( 9 ), including relating to poor runway surface conditions.
+
+(4) Failure of Communication service.
+
+(5) Failure of Surveillance service.
+
+(6) Failure of Data Processing and Distribution function or service.
+
+(7) Failure of Navigation service.
+
+(8) Failure of ATM system security which had or could have a direct negative impact on the safe provision of service.
+
+(9) Significant Air Traffic Services (ATS) sector / position overload leading to a potential deterioration in service provision.
+
+(10) Incorrect receipt or interpretation of significant communications, including lack of understanding of the language used, when this had or could have a direct negative impact on the safe provision of service.
+
+(11) Prolonged loss of communication with an aircraft or with other ATS unit.
+
+**3\. OTHER OCCURRENCES**
+
+(1) Declaration of an emergency (‘MAYDAY’) or state of urgency (‘PAN’ call).
+
+(2) Significant external interference with Air Navigation Services (for example Radio Broadcasts Stations transmitting in the FM band, interfering with Instrument Landing System (ILS), VHF Omni Directional Radio Range (VOR) and communication).
+
+(3) Interference with an aircraft, an ATS unit or a radio communication transmission including by firearms, fireworks, flying kites, laser illumination, high powered lights, lasers, Unmanned Aircraft Systems (UAS) or by similar means.
+
+(4) Fuel dumping.
+
+(5) Abnormal behaviour of a system due to an information security incident (example: compromised information or data, malware infection, Distributed-Denial-of-Service (DDoS)).
+
+(6) Fatigue impacting or potentially impacting the ability to perform safely the air navigation or air traffic duties.
+
+(7) Any occurrence where the human performance has directly contributed to or could have contributed to an accident or a serious incident.
+
+(8) Bomb threat or hijack (applicable until 31 December 2027).
+
+## ANNEX IV — OCCURRENCES RELATED TO AERODROMES AND GROUND SERVICES
+
+**1\. SAFETY MANAGEMENT OF AN AERODROME**
+
+Remark: This Section is structured in such a way that the pertinent occurrences are linked with categories of activities during which they are normally observed, according to experience, to facilitate the reporting of those occurrences. However, this list must not be understood as meaning that occurrences must not be reported when they take place outside the category of activities to which they are linked in the list.
+
+**1.1. Aircraft and obstacle related occurrences**
+
+(1) A collision or near collision, on the ground or in the air, between an aircraft and another aircraft, terrain or obstacle ( 10 ).
+
+(2) Wildlife strike including bird strike.
+
+(3) Taxiway or runway excursion.
+
+(4) Actual or potential taxiway or runway incursion.
+
+(5) Final Approach and Take-off Area (FATO) incursion or excursion.
+
+(6) Aircraft or vehicle failure to follow clearance, instruction or restriction while operating on the movement area of an aerodrome (for example: wrong runway, taxiway or restricted part of an aerodrome).
+
+(7) Foreign object on the aerodrome movement area which has or could have endangered the aircraft, its occupants or any other person.
+
+(8) Presence of obstacles on the aerodrome or in the surroundings of the aerodrome which are not published in the Aeronautical Information Publication (AIP) or by Notice to Airmen (NOTAM) and/or that are not marked or lighted properly.
+
+(9) Push-back, power-back or taxi interference by vehicle, equipment or person.
+
+(10) Passengers or unauthorised person left unsupervised on apron.
+
+(11) Jet blast, rotor down wash or propeller blast effect.
+
+(12) Declaration of an emergency (‘MAYDAY’) or state of urgency (‘PAN’ call).
+
+**1.2. Degradation or total loss of services or functions**
+
+(1) Loss or failure of communication between:
+
+(a) Aerodrome, vehicle or other ground personnel and air traffic services unit or apron management service unit;
+
+(b) Apron management service unit and aircraft, vehicle or air traffic services unit.
+
+(2) Significant failure, malfunction or defect of aerodrome equipment or system which has or could have endangered the aircraft or its occupants.
+
+(3) Abnormal behaviour of a system due to an information security incident (example: compromised information or data, malware infection, Distributed-Denial-of-Service (DDoS)).
+
+(4) Significant deficiencies in aerodrome lighting, marking or signs.
+
+(5) Failure of the aerodrome emergency alerting system.
+
+(6) Rescue and firefighting services not available according to applicable requirements.
+
+**1.3. Other occurrences**
+
+(1) Fire, smoke, explosions in aerodrome facilities, vicinities and equipment which has or could have endangered the aircraft, its occupants or any other person.
+
+(2) Unauthorised UAS operations in the aerodrome or its surroundings which endanger or may endanger the safe operation of aircraft.
+
+(3) Absence of reporting of a significant change in aerodrome operating conditions which has or could have endangered the aircraft, its occupants or any other person.
+
+(4) Missing, incorrect or inadequate de-icing / anti-icing treatment.
+
+(5) Significant spillage during fuelling operations.
+
+(6) Loading of contaminated or incorrect type of fuel/energy or essential fluids (including oxygen, nitrogen, oil and potable water).
+
+(7) Failure to handle poor runway surface conditions.
+
+(8) Any occurrence where the human performance has directly contributed to or could have contributed to an accident or a serious incident.
+
+(9) Aerodrome security related occurrences (for example: unlawful entry, sabotage, bomb threat) (applicable until 31 December 2027).
+
+**2\. GROUND HANDLING OF AN AIRCRAFT**
+
+Remark: This Section is structured in such a way that the pertinent occurrences are linked with categories of activities during which they are normally observed, according to experience, to facilitate the reporting of those occurrences. However, this list must not be understood as meaning that occurrences must not be reported when they take place outside the category of activities to which they are linked in the list.
+
+**2.1. Aircraft and aerodrome related occurrences**
+
+(1) A collision or near collision, on the ground or in the air, between an aircraft and another aircraft, terrain or obstacle ( 11 ).
+
+(2) Runway or taxiway incursion.
+
+(3) Runway or taxiway excursion.
+
+(4) Significant contamination of aircraft structure, systems and equipment arising from the carriage of baggage, mail or cargo.
+
+(5) Push-back, power-back or taxi interference by vehicle, equipment or person.
+
+(6) Foreign object on the aerodrome movement area which has or could have endangered the aircraft, its occupants or any other person.
+
+(7) Passengers or unauthorised person left unsupervised on apron.
+
+(8) Fire, smoke, explosions in aerodrome facilities, vicinities and equipment which has or could have endangered the aircraft, its occupants or any other person.
+
+(9) Abnormal behaviour of a system due to an information security incident (example: compromised information or data, malware infection, DDoS).
+
+(10) Aerodrome security related occurrences (for example: unlawful entry, sabotage, bomb threat) (applicable until 31 December 2027).
+
+**2.2. Degradation or total loss of services or functions**
+
+(1) Loss or failure of communication with aircraft, vehicle, air traffic services unit or apron management service unit.
+
+(2) Significant failure, malfunction or defect of aerodrome equipment or system which has or could have endangered the aircraft or its occupants.
+
+(3) Significant deficiencies in aerodrome lighting, marking or signs.
+
+**2.3. Ground handling specific occurrences**
+
+(1) Incorrect handling or loading of passengers, baggage, mail or cargo, likely to have a significant effect on aircraft mass and/or balance (including significant errors in load sheet calculations).
+
+(2) Boarding equipment removed leading to endangerment of aircraft occupants.
+
+(3) Incorrect stowage or securing of baggage, mail or cargo likely in any way to endanger the aircraft, its equipment or occupants or to impede emergency evacuation.
+
+(4) Transport, attempted transport or handling of dangerous goods which resulted or could have resulted in the safety of the operation being endangered or led to an unsafe condition (for example: dangerous goods incident or accident as defined in the ICAO Technical Instructions ( 12 )).
+
+(5) Non-compliance with required aircraft ground handling and servicing procedures, especially in de-icing, refuelling, recharging or loading procedures, including incorrect positioning or removal of equipment.
+
+(6) Significant spillage during fuelling operations.
+
+(7) Loading of incorrect fuel/energy quantities likely to have a significant effect on aircraft endurance, performance, balance or structural strength.
+
+(8) Loading of contaminated or incorrect type of fuel/energy or essential fluids (including oxygen, nitrogen, oil and potable water).
+
+(9) Failure, malfunction or defect of ground equipment used for ground handling, resulting into damage or potential damage to the aircraft (for example: tow bar or Ground Power Unit (GPU)).
+
+(10) Missing, incorrect or inadequate de-icing / anti-icing treatment.
+
+(11) Damage to aircraft by ground handling equipment or vehicles including previously unreported damage.
+
+(12) Any occurrence where the human performance has directly contributed to or could have contributed to an accident or a serious incident.
+
+(13) Abnormal behaviour of a system due to an information security incident (example: compromised information or data, malware infection, Distributed-Denial-of-Service (DDoS)).
+
+(14) Non-compliance on baggage or passenger reconciliation (applicable until 31 December 2027).
+
+## ANNEX V — OCCURRENCES RELATED TO MANNED AIRCRAFT OTHER-THAN COMPLEX MOTOR-POWERED AIRCRAFT, INCLUDING SAILPLANES AND LIGHTER-THAN-AIR VEHICLES
+
+For the purposes of this Annex:
+
+(a) ‘Aircraft other-than complex motor-powered aircraft’ means any aircraft other than that defined in point (129) in Annex I to Commission Implementing Regulation (EU) 2023/1020 ( 13 );
+
+(b) ‘Sailplane’ has the meaning assigned in Article 2, point (117) of Commission Implementing Regulation (EU) No 923/2012 ( 14 );
+
+(c) ‘‘Lighter-than-air vehicles’’ has the meaning assigned in point ML10 of the section ‘Definitions of terms used in this list’ of the Annex to Directive 2009/43/EC of the European Parliament and of the Council ( 15 ).
+
+**1\. MANNED AIRCRAFT OTHER-THAN COMPLEX MOTOR-POWERED AIRCRAFT EXCLUDING SAILPLANES AND LIGHTER-THAN-AIR VEHICLES**
+
+Remark 1: This Section is structured in such a way that the pertinent occurrences are linked with categories of activities during which they are normally observed, according to experience, to facilitate the reporting of those occurrences. However, this list must not be understood as meaning that occurrences must not be reported when they take place outside the category of activities to which they are linked in the list.
+
+Remark 2: This Annex V contains the occurrences and other safety-related information to be reported in the operation of manned aircraft other than complex motor-powered aircraft, including sailplanes and lighter-than-air vehicles.
+
+**1.1. Air operations**
+
+(1) Unintentional loss of control.
+
+(2) Landing outside of intended landing area.
+
+(3) Inability or failure to achieve required aircraft performance expected in normal conditions during take-off, climb or landing.
+
+(4) Runway incursion
+
+(5) Runway excursion.
+
+(6) Any flight which has been performed with an aircraft which was not airworthy, or for which flight preparation was not completed, which has or could have endangered the aircraft, its occupants or any other person.
+
+(7) Unintended flight into Instrument Meteorological Conditions (IMC) conditions of aircraft not Instrument Flight Rules (IFR) certified, or a pilot not qualified for IFR, which has or could have endangered the aircraft, its occupants or any other person.
+
+(8) Unintentional release of cargo ( 16 ).
+
+**1.2. Technical occurrences**
+
+(1) Abnormal severe vibration (for example: aileron or elevator ‘flutter’, or of propeller).
+
+(2) Any flight control not functioning correctly or disconnected.
+
+(3) A failure or substantial deterioration of the aircraft structure.
+
+(4) A loss of any part of the aircraft structure or installation in flight.
+
+(5) A failure of an engine, rotor, propeller, fuel system or other essential system.
+
+(6) Leakage of any fluid which resulted in a fire hazard or possible hazardous contamination of aircraft structure, systems or equipment, or risk to occupants.
+
+**1.3. Interaction with air navigation services and air traffic management**
+
+(1) Interaction with air navigation services (for example: incorrect services provided, conflicting communications or deviation from clearance) which has or could have endangered the aircraft, its occupants or any other person.
+
+(2) Airspace infringement.
+
+**1.4. Emergencies and other critical situations**
+
+(1) Any occurrence leading to an emergency call.
+
+(2) Fire, explosion, smoke, toxic gases or toxic fumes in the aircraft.
+
+(3) Incapacitation of the pilot leading to inability to perform any duty.
+
+**1.5. External environment and meteorology**
+
+(1) A collision on the ground or in the air, with another aircraft, terrain or obstacle ( 17 ).
+
+(2) A near collision, on the ground or in the air, with another aircraft, terrain or obstacle ( 18 ) requiring an emergency avoidance manoeuvre to avoid a collision.
+
+(3) Wildlife strike including bird strike which resulted in damage to the aircraft or loss or malfunction of any essential service.
+
+(4) Interference with the aircraft by firearms, fireworks, flying kites, laser illumination, high powered lights, lasers, Unmanned Aircraft Systems (UAS) or by similar means.
+
+(5) A lightning strike resulting in damage to or loss of functions of the aircraft.
+
+(6) Severe turbulence encounter which resulted in injury to aircraft occupants or in the need for a post-flight turbulence damage check of the aircraft.
+
+(7) Icing including carburettor icing which has or could have endangered the aircraft, its occupants or any other person.
+
+**1.6. Information Security**
+
+(1) Abnormal behaviour of a system due to an information security incident (example: compromised information or data, malware infection, Distributed-Denial-of-Service (DDoS)).
+
+**1.7. U-space related occurrences**
+
+(1) Penetration into a U-space airspace designated in uncontrolled airspace without active e-Conspicuity device ( 19 ).
+
+(2) Significant malfunction, reliability issue, or recurrent quality issue affecting e-Conspicuity devices or installations.
+
+(3) Close encounter with an unmanned aircraft while transiting in U-space airspace.
+
+**2\. SAILPLANES (GLIDERS)**
+
+Remark: This Section is structured in such a way that the pertinent occurrences are linked with categories of activities during which they are normally observed, according to experience, to facilitate the reporting of those occurrences. However, this list must not be understood as meaning that occurrences must not be reported when they take place outside the category of activities to which they are linked in the list.
+
+**2.1. Air operations**
+
+(1) Unintentional loss of control.
+
+(2) An occurrence where the sailplane pilot was unable to release either the winch cable or the aerotow rope and had to do so using emergency procedures.
+
+(3) Any release of the winch cable or the aerotow rope if the release has or could have endangered the sailplane, its occupants or any other person.
+
+(4) In the case of a powered sailplane, an engine failure during take-off.
+
+(5) Any flight which has been performed with a sailplane which was not airworthy, or for which an incomplete flight preparation has or could have endangered the sailplane, its occupants or any other person.
+
+**2.2. Technical occurrences**
+
+(1) Abnormal severe vibration (for example: aileron or elevator ‘flutter’, or of propeller).
+
+(2) Any flight control not functioning correctly or disconnected.
+
+(3) A failure or substantial deterioration of the sailplane structure.
+
+(4) A loss of any part of the sailplane structure or installation in flight.
+
+**2.3. Interaction with air navigation services and air traffic management**
+
+(1) Interaction with air navigation services (for example: incorrect services provided, conflicting communications or deviation from clearance) which has or could have endangered the sailplane, its occupants or any other person.
+
+(2) Airspace infringements.
+
+**2.4. Emergencies and other critical situations**
+
+(1) Any occurrence leading to an emergency call.
+
+(2) Any situation where no safe landing area remains available.
+
+(3) Fire, explosion, smoke, or toxic gases or fumes in the sailplane.
+
+(4) Incapacitation of the pilot leading to inability to perform any duty.
+
+**2.5. External environment and meteorology**
+
+(1) A collision on the ground or in the air, with an aircraft, terrain or obstacle ( 20 ).
+
+(2) A near collision, on the ground or in the air, with an aircraft, terrain or obstacle ( 21 ) requiring an emergency avoidance manoeuvre to avoid a collision.
+
+(3) Interference with the sailplane by firearms, fireworks, flying kites, laser illumination, high powered lights, lasers, Unmanned Aircraft Systems (UAS) or by similar means.
+
+(4) A lightning strike resulting in damage to the sailplane.
+
+**2.6. U-space related occurrences**
+
+(1) Penetration into a U-space airspace designated in uncontrolled airspace without active e-Conspicuity device.
+
+(2) Significant malfunction, reliability issue, or recurrent quality issue affecting e-Conspicuity devices or installations.
+
+(3) Close encounter with an unmanned aircraft while transiting in U-space airspace.
+
+**3\. LIGHTER-THAN-AIR VEHICLES (BALLOONS AND AIRSHIPS)**
+
+Remark: This Section is structured in such a way that the pertinent occurrences are linked with categories of activities during which they are normally observed, according to experience, to facilitate the reporting of those occurrences. However, this list must not be understood as meaning that occurrences must not be reported when they take place outside the category of activities to which they are linked in the list.
+
+**3.1. Air operations**
+
+(1) Any flight which has been performed with a lighter-than-air vehicle which was not airworthy, or for which an incomplete flight preparation has or could have endangered the lighter-than-air vehicle, its occupants or any other person.
+
+(2) Unintended permanent extinction of the pilot light.
+
+**3.2. Technical occurrences**
+
+(1) Failure of any of the following parts or controls: dip tube on fuel cylinder, envelope pulley, control line, tether rope, valve seal leak on burner, valve seal leak on fuel cylinder, carabiner, damage to fuel line, lifting gas valve, envelope or ballonet, blower, pressure relief valve (gas balloon), winch (tethered gas balloons).
+
+(2) Significant leakage or loss of lifting gas (for example: porosity, unseated lifting gas valves).
+
+**3.3. Interaction with air navigation services and air traffic management**
+
+(1) Interaction with air navigation services (for example: incorrect services provided, conflicting communications or deviation from clearance) which has or could have endangered the lighter-than-air vehicle, its occupants or any other person.
+
+(2) Airspace infringement.
+
+**3.4. Emergencies and other critical situations**
+
+(1) Any occurrence leading to an emergency call.
+
+(2) Fire, explosion, smoke or toxic fumes in the lighter-than-air vehicle (beyond the normal operation of the burner).
+
+(3) Lighter-than-air vehicle’s occupants ejected from basket or gondola.
+
+(4) Incapacitation of the pilot leading to inability to perform any duty.
+
+(5) Unintended lift or drag of ground crew, leading to fatality or injury of a person.
+
+**3.5. External environment and meteorology**
+
+(1) A collision or near collision on the ground or in the air, with an aircraft, terrain or obstacle ( 22 ) which has or could have endangered the lighter-than-air vehicle, its occupants or any other person.
+
+(2) Interference with the lighter-than-air vehicle by firearms, fireworks, flying kites, laser illumination, high powered lights, lasers, Unmanned Aircraft Systems (UAS) or by similar means.
+
+(3) Unexpected encounter of adverse weather conditions which has or could have endangered the lighter-than-air vehicle, its occupants or any other person.
+
+**3.6. U-space related occurrences**
+
+(1) Penetration into a U-space airspace designated in uncontrolled airspace without active e-Conspicuity device.
+
+(2) Significant malfunction, reliability issue, or recurrent quality issue affecting e-Conspicuity devices or installations.
+
+(3) Close encounter with an unmanned aircraft while transiting in U-space airspace.
+
+## ANNEX VI — OCCURRENCES RELATED TO THE OPERATION OF THE UNMANNED AIRCRAFT SYSTEM (UAS)
+
+Remark 1: This Annex is structured in such a way that the pertinent occurrences are linked with categories of activities during which they are normally observed, according to experience, to facilitate the reporting of those occurrences. However, this list must not be understood as meaning that occurrences must not be reported when they take place outside the category of activities to which they are linked in the list.
+
+Remark 2: This Annex contains the occurrences and other safety-related information to be reported in the operation of UAS for which a certificate or declaration for design is required pursuant to Article 56(1) and (5) of Regulation (EU) 2018/1139.
+
+Remark 3: The occurrences in U-space environment listed in point 6 are to be reported by remote pilots and UAS operators when conducting their operations in U-space airspace.
+
+**1\. AIR OPERATIONS**
+
+**1.1. Flight planning and UAS preparation**
+
+(1) UAS operation is planned in an operational volume exceeding the limitations described in the issued authorisations or the privileges of the Light UAS operator certificate (LUC).
+
+(2) Inappropriate planning of the UAS operation and the related mitigation measures, which have or could have endangered any aircraft or any other person (example: contingency and emergency procedures, operational volume, Tactical Mitigation Performance Requirement (TMPR) ( 23 )).
+
+(3) Use of incorrect data or erroneous entries into the UAS or into equipment used for navigation or performance calculations leading to a malfunction or a failure of the UAS, which has or could have endangered any aircraft or person.
+
+(4) Configuration of the UAS different from the instructions defined or authorised by the manufacturer or by the competent authority (example: payload, software configuration, etc.), which has or could have endangered the unmanned aircraft or any other aircraft or person.
+
+(5) Carriage or attempted carriage of dangerous goods when not in accordance with applicable legislations including incorrect labelling, packaging and handling of dangerous goods.
+
+(6) Incorrect, unsuitable, or degraded energy source (including fuel).
+
+(7) Missing, incorrect or inadequate de-icing/ anti-icing treatment.
+
+**1.2. Take-off and landing – Operations from/to aerodromes or vertiports**
+
+(1) Runway incursions, Final Approach and Take-off Area (FATO) incursion.
+
+(2) Runway excursions.
+
+(3) Any rejected take-off.
+
+(4) Actual or attempted take-off, approach or landing with incorrect configuration setting.
+
+(5) Tail, blade/wingtip or nacelle strike during take-off or landing.
+
+(6) Jet blast or rotor and propellers down/out wash occurrences which have or could have endangered any aircraft, or person.
+
+(7) Hard, short and long landing.
+
+(8) Foreign Object Damage/Debris (FOD) or poor surface conditions on the take-off and landing surface.
+
+**1.3. Take-off and landing – Operations outside aerodromes or vertiports**
+
+(1) Taking off, landing outside of the intended landing area.
+
+(2) Inappropriate security and safety measures on the ground area which has or could have endangered any person.
+
+**1.4. Any phase of flight**
+
+(1) Loss of control of the operation.
+
+(2) Prolonged loss of visual reference for Visual Line-Of-Sight (VLOS) operations (example: due to adverse meteorological conditions or obstacles).
+
+(3) Loss of situational awareness (example: including environmental conditions, mode and system awareness, excessive workload, spatial disorientation, time horizon and improper interaction with the equipment to control the unmanned aircraft remotely (Control and Monitoring Unit (CMU) ( 24 )).
+
+(4) Incorrect fuel or energy management (example: critically low fuel/energy quantity or fuel/energy quantity at destination below required final fuel/energy reserve).
+
+(5) Inability or failure to achieve required aircraft performance expected in normal conditions, during take-off, climb or landing.
+
+(6) Exceedance of aircraft limitations defined by the manufacturer.
+
+(7) Operation with incorrect altimeter setting.
+
+(8) Misinterpretation of UAS automation mode of functioning or of any information from the CMU provided to the remote crew which has or could have endangered any aircraft, or person.
+
+(9) Inability to broadcast the remote identification or aircraft identification.
+
+(10) Unintentional release of cargo or other externally carried equipment.
+
+(11) Deviations from the authorised operational volume exceeding the limitations described in the issued operational authorisations or the privileges of the Light UAS operator certificate (LUC) or the authorised flight plan of the UAS, including but not limited to:
+
+(a) Unauthorised UAS operation over assemblies of people;
+
+(b) Airspace infringement;
+
+(c) Geographical zones infringements, where UAS operations are not permitted, or the required flight authorisation was not obtained.
+
+**1.5. Additional occurrences for UAS operations with occupants on board**
+
+(1) Physical distress, incapacitation of the crew, which has or could have endangered the unmanned aircraft or any other aircraft or person.
+
+(2) Contaminated air in the passenger compartment which has or could have endangered its occupants or any other person.
+
+(3) Difficulty in controlling intoxicated, violent or unruly passengers.
+
+(4) Discovery of a stowaway.
+
+**2\. TECHNICAL OCCURRENCES**
+
+**2.1. Structure and systems**
+
+(1) Loss of any part of the unmanned aircraft in flight.
+
+(2) Leakage of any fluid which resulted in a fire hazard or possible hazardous contamination of the unmanned aircraft system, or which has or could have endangered the unmanned aircraft, or any other person.
+
+(3) Malfunction or abnormal functioning of flight controls.
+
+(4) Malfunction, loss, or significant degradation of the command-and-control link, including failures affecting its availability, performance, continuity, integrity, or security, which has or could have endangered any aircraft or person.
+
+(5) Malfunction of the collision avoidance system.
+
+(6) Malfunction of automatic contingency or emergency system or of the system preventing the unmanned aircraft from exiting the operational volume (example: return home, automatic landing, geo-caging, Flight Termination System).
+
+(7) Any other failure, loss, malfunction, damage of the unmanned aircraft or its systems which has or could have endangered any other aircraft or person.
+
+(8) Any failure, loss, malfunction, damage of the CMU which has or could have endangered the unmanned aircraft or any other aircraft or person.
+
+**2.2. Propulsion (including engines, propellers, and rotor systems) and Auxiliary Power Units (APUs)**
+
+(1) Flameout, in-flight shutdown of any engine, or loss of lift and thrust units or of the APU when required.
+
+(2) Engine operating limitation exceedance, including overspeed or inability to control the speed of any high-speed rotating component (example: APU, air starter, air cycle machine, air turbine motor, propeller or rotor).
+
+(3) Failure or malfunction of any part of an engine, lift and thrust units, APU or transmission resulting in any one or more of the following:
+
+(a) Thrust-reversing system failing to operate as commanded;
+
+(b) Inability to control power, thrust or rpm (revolutions per minute);
+
+(c) Non-containment of components/debris.
+
+**3\. INTERACTION WITH ATM/ANS**
+
+(1) Unsafe Air Traffic Control (ATC) clearance or instructions.
+
+(2) Prolonged loss of communication with Air Traffic Services (ATS) Unit.
+
+(3) Conflicting instructions from different ATS Units potentially leading to a loss of separation.
+
+(4) Misinterpretation of radio-communication which has or could have endangered the unmanned aircraft or any other aircraft or person.
+
+(5) Intentional deviation from ATC instruction which has or could have endangered the unmanned aircraft or any other aircraft or person.
+
+(6) Altitude or flight level bust.
+
+**4\. EMERGENCIES AND OTHER CRITICAL SITUATIONS**
+
+(1) A collision or a near collision on the ground or in the air, with another aircraft, terrain or obstacle.
+
+(2) Any emergency manoeuvre taken by the UAS to prevent any collision on the ground or in the air, with another aircraft, terrain or obstacle.
+
+(3) Any event leading to the declaration of an emergency.
+
+(4) Activation of an emergency procedure to terminate the flight.
+
+(5) Failure to apply the correct contingency or emergency procedures.
+
+(6) Any burning, melting, smoke, fumes, arcing, overheating, fire or explosion on the UAS.
+
+(7) Any burning, melting, smoke, fumes, arcing, overheating, fire or explosion on the CMU.
+
+(8) Incapacitation of the remote crew controlling the CMU which has or could have endangered any aircraft or person.
+
+**5\. EXTERNAL ENVIRONMENT AND METEOROLOGY**
+
+(1) A collision or a near collision on the ground or in the air, with another aircraft, terrain or obstacle.
+
+(2) Airborne Collision Avoidance System, Resolution Advisory (ACAS RA).
+
+(3) Activation of genuine ground collision system such as Ground Proximity Warning System (GPWS)/ Terrain Awareness and Warning System (TAWS) ‘warning’.
+
+(4) Wildlife strike including bird strike which has endangered the unmanned aircraft.
+
+(5) Foreign Object Damage/Debris (FOD).
+
+(6) Unexpected encounter of poor runway surface conditions.
+
+(7) Wake-turbulence encounters which has or could have endangered an aircraft or person.
+
+(8) Interference with the unmanned aircraft by firearms, fireworks, flying kites, laser illumination, high powered lights, lasers, Unmanned Aircraft Systems (UAS), or counter UAS system or by similar means.
+
+(9) Any severe environmental condition which resulted in damage to the aircraft, in handling difficulties or loss or malfunction of any aircraft system (examples: lightning strike, severe turbulence, windshear, icing conditions, volcanic ash, etc.).
+
+**6\. U-SPACE RELATED OCCURRENCES**
+
+(1) UAS operations inside U-space airspace which are not compliant with the applicable operational conditions and airspace constraints or performed with an unmanned aircraft system not compliant with the required UAS capabilities and performance requirements.
+
+(2) Missing, incorrect, delayed or misleading information, instruction or service provided by a U-space Service Provider (USSP), which has or could have endangered the unmanned aircraft or any other aircraft or person.
+
+(3) Non-compliance with the flight authorisation (example: absence of flight authorisation, failure to activate the flight authorisation, deviations of the flight authorisation in space or time).
+
+(4) Unauthorised exiting of the U-space airspace.
+
+(5) Improper use of the U-space services leading to loss of situational awareness.
+
+(6) Inability to execute the Dynamic Airspace Reconfiguration (DAR) procedure.
+
+(7) Insufficient spacing between the unmanned aircraft and any manned aircraft.
+
+(8) Encounter of manned aircraft in an active U-space airspace designated in controlled airspace.
+
+(9) Encounter of a non-conspicuous manned aircraft in U-space airspace designated in uncontrolled airspace.
+
+(10) Encounter of a non-cooperative unmanned aircraft in the U-space airspace.
+
+**7\. OTHER OCCURENCES**
+
+(1) Any occurrence where the human performance, including fatigue and improper training/qualification of operator’s personnel and inter crew communication, has directly contributed to, or could have contributed to an accident or a serious incident.
+
+**8\. INFORMATION SECURITY**
+
+(1) Abnormal behaviour of a system due to an information security incident (example: compromised information or data, malware infection, Distributed-Denial-of-Service (DDoS)).
+
+( 1 ) In accordance with Article 2, point (1) of Implementing Regulation (EU) 2021/664, ‘ “U-space airspace” means a UAS geographical zone designated by Member States, where UAS operations are only allowed to take place with the support of U-space services’.
+
+( 2 ) Obstacle includes vehicle.
+
+( 3 ) In accordance with Article 3, point (3) of Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems (OJ L 152, 11.6.2019, p. 1, ELI: http://data.europa.eu/eli/reg_del/2019/945/oj), ‘Unmanned aircraft system (‘UAS’) means an unmanned aircraft, as defined in Article 3, point (30) of Regulation (EU) 2018/1139, and its control and monitoring unit’.
+
+( 4 ) In accordance with Article 3, point (38) of Delegated Regulation (EU) 2019/945, ‘control and monitoring unit (‘CMU’) means the equipment to control and monitor unmanned aircraft remotely, as defined in Article 3, point (32) of Regulation (EU) 2018/1139’.
+
+( 5 ) Commission Regulation (EU) No 748/2012 of 3 August 2012 laying down implementing rules for the airworthiness and environmental certification of aircraft and related products, parts and appliances, as well as for the certification of design and production organisations (OJ L 224, 21.8.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/748/oj).
+
+( 6 ) Obstacle includes vehicle.
+
+( 7 ) This refers to a situation in which prescribed separation minima were not maintained between aircraft or between aircraft and airspace to which separation minima is prescribed.
+
+( 8 ) In the absence of prescribed separation minima, a situation in which aircraft were perceived to pass too close to each other for pilots to ensure safe separation.
+
+( 9 ) For example: Air Traffic Services (ATS), Automatic Terminal Information Services (ATIS), meteorological services, navigation databases, maps, charts, Aeronautical Information Services (AIS), manuals.
+
+( 10 ) Obstacle includes vehicle.
+
+( 11 ) Obstacle includes vehicle.
+
+( 12 ) Technical Instructions for The Safe Transport of Dangerous Goods by Air (ICAO – Doc 9284).
+
+( 13 ) Commission Implementing Regulation (EU) 2023/1020 of 24 May 2023 amending Regulation (EU) No 965/2012 as regards helicopter emergency medical service operations (OJ L 137, 25.5.2023, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2023/1020/oj).
+
+( 14 ) Commission Implementing Regulation (EU) No 923/2012 of 26 September 2012 laying down the common rules of the air and operational provisions regarding services and procedures in air navigation and amending Implementing Regulation (EU) No 1035/2011 and Regulations (EC) No 1265/2007, (EC) No 1794/2006, (EC) No 730/2006, (EC) No 1033/2006 and (EU) No 255/2010 (OJ L 281, 13.10.2012, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2012/923/oj).
+
+( 15 ) Directive 2009/43/EC of the European Parliament and of the Council of 6 May 2009 simplifying terms and conditions of transfers of defence-related products within the Community (OJ L 146, 10.6.2009, p. 1, ELI: http://data.europa.eu/eli/dir/2009/43/oj).
+
+( 16 ) This item applies only to commercial operations within the meaning of Article 3, point (24) of Regulation (EU) 2018/1139. Following which ‘ ‘commercial air transport’ means an aircraft operation to transport passengers, cargo or mail for remuneration or other valuable consideration’.
+
+( 17 ) Obstacle includes vehicle.
+
+( 18 ) Obstacle includes vehicle.
+
+( 19 ) E-conspicuity for manned aircraft in U-space airspace as per Commission Implementing Regulation (EU) 2021/666 of 22 April 2021 amending Regulation (EU) No 923/2012 as regards requirements for manned aviation operating in U-space airspace (OJ L 139, 23.4.2021, p. 187, ELI: http://data.europa.eu/eli/reg_impl/2021/666/oj).
+
+( 20 ) Obstacle includes vehicle.
+
+( 21 ) Obstacle includes vehicle.
+
+( 22 ) Obstacle includes vehicle.
+
+( 23 ) TMPR are measures used in drone risk assessments to prevent mid-air collisions by addressing residual air risk.
+
+( 24 ) In accordance with Article 3, point (38) of Delegated Regulation (EU) 2019/945, ‘ “control and monitoring unit” (“CMU”) means the equipment to control and monitor unmanned aircraft remotely, as defined in Article 3, point (32) of Regulation (EU) 2018/1139’.

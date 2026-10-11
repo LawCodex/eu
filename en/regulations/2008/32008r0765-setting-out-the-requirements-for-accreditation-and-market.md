@@ -1,0 +1,451 @@
+---
+title: "Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)"
+identifier: "32008R0765"
+eli: "http://data.europa.eu/eli/reg/2008/765/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-07-09
+entry_into_force: 2008-07-24
+last_amended: 2021-07-16
+consolidated_version: "02008R0765-20210716"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R0765-20210716"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 765/2008 of the European Parliament and of the Council of 9 July 2008 setting out the requirements for accreditation and market surveillance relating to the marketing of products and repealing Regulation (EEC) No 339/93 (Text with EEA relevance)
+
+**REGULATION (EC) No 765/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 9 July 2008**
+
+**setting out the requirements for accreditation and repealing Regulation (EEC) No 339/93**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1020 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 169</td><td>1</td><td>25.6.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 765/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 9 July 2008**
+
+**setting out the requirements for accreditation and repealing Regulation (EEC) No 339/93**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1
+
+Subject matter and scope
+
+1\. This Regulation lays down rules on the organisation and operation of accreditation of conformity assessment bodies performing conformity assessment activities.
+
+4\. This Regulation lays down the general principles of the CE marking.
+
+#### Article 2
+
+Definitions
+
+For the purposes of this Regulation the following definitions shall apply:
+
+3\. ‘manufacturer’ shall mean any natural or legal person who manufactures a product or has a product designed or manufactured, and markets that product under his name or trademark;
+
+4\. ‘authorised representative’ shall mean any natural or legal person established within the Community who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks with regard to the latter's obligations under the relevant Community legislation;
+
+5\. ‘importer’ shall mean any natural or legal person established within the Community who places a product from a third country on the Community market;
+
+6\. ‘distributor’ shall mean any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a product available on the market;
+
+7\. ‘economic operators’ shall mean the manufacturer, the authorised representative, the importer and the distributor;
+
+8\. ‘technical specification’ shall mean a document that prescribes technical requirements to be fulfilled by a product, process or service;
+
+9\. ‘harmonised standard’ shall mean a standard adopted by one of the European standardisation bodies listed in Annex I to Directive 98/34/EC of the European Parliament and of the Council of 22 June 1998 laying down a procedure for the provision of information in the field of technical standards and regulations and of rules on Information Society services ( 1 ) on the basis of a request made by the Commission in accordance with Article 6 of that Directive;
+
+10\. ‘accreditation’ shall mean an attestation by a national accreditation body that a conformity assessment body meets the requirements set by harmonised standards and, where applicable, any additional requirements including those set out in relevant sectoral schemes, to carry out a specific conformity assessment activity;
+
+11\. ‘national accreditation body’ shall mean the sole body in a Member State that performs accreditation with authority derived from the State;
+
+12\. ‘conformity assessment’ shall mean the process demonstrating whether specified requirements relating to a product, process, service, system, person or body have been fulfilled;
+
+13\. ‘conformity assessment body’ shall mean a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+
+16\. ‘peer evaluation’ shall mean a process for the assessment of a national accreditation body by other national accreditation bodies, carried out in accordance with the requirements of this Regulation, and, where applicable, additional sectoral technical specifications;
+
+20\. ‘CE marking’ shall mean a marking by which the manufacturer indicates that the product is in conformity with the applicable requirements set out in Community harmonisation legislation providing for its affixing;
+
+21\. ‘Community harmonisation legislation’ shall mean any Community legislation harmonising the conditions for the marketing of products.
+
+## CHAPTER II — ACCREDITATION
+
+#### Article 3
+
+Scope
+
+This Chapter shall apply to accreditation, used on a compulsory or voluntary basis, relating to conformity assessment, whether that assessment is compulsory or not, and irrespective of the legal status of the body performing the accreditation.
+
+#### Article 4
+
+General principles
+
+1\. Each Member State shall appoint a single national accreditation body.
+
+2\. Where a Member State considers that it is not economically meaningful or sustainable to have a national accreditation body or to provide certain accreditation services, it shall, as far as possible, have recourse to the national accreditation body of another Member State.
+
+3\. A Member State shall inform the Commission and the other Member States where, in accordance with paragraph 2, recourse is had to the national accreditation body of another Member State.
+
+4\. On the basis of the information referred to in paragraph 3 and Article 12, the Commission shall draw up and update a list of national accreditation bodies which it shall make publicly available.
+
+5\. Where accreditation is not operated directly by the public authorities themselves, a Member State shall entrust its national accreditation body with the operation of accreditation as a public authority activity and grant it formal recognition.
+
+6\. The responsibilities and tasks of the national accreditation body shall be clearly distinguished from those of other national authorities.
+
+7\. The national accreditation body shall operate on a not-for-profit basis.
+
+8\. The national accreditation body shall not offer or provide any activities or services that conformity assessment bodies provide, nor shall it provide consultancy services, own shares in or otherwise have a financial or managerial interest in a conformity assessment body.
+
+9\. Each Member State shall ensure that its national accreditation body has the appropriate financial and personnel resources for the proper performance of its tasks, including the fulfilment of special tasks, such as activities for European and international accreditation cooperation and activities that are required to support public policy and which are not self-financing.
+
+10\. The national accreditation body shall be a member of the body recognised under Article 14.
+
+11\. National accreditation bodies shall establish and maintain appropriate structures to ensure the effective and balanced involvement of all interested parties within both their organisations and the body recognised under Article 14.
+
+#### Article 5
+
+Operation of accreditation
+
+1\. A national accreditation body shall, when requested by a conformity assessment body, evaluate whether that conformity assessment body is competent to carry out a specific conformity assessment activity. Where it is found to be competent, the national accreditation body shall issue an accreditation certificate to that effect.
+
+2\. When a Member State decides not to use accreditation, it shall provide the Commission and the other Member States with all the documentary evidence necessary for the verification of the competence of the conformity assessment bodies it selects for the implementation of the Community harmonisation legislation in question.
+
+3\. National accreditation bodies shall monitor the conformity assessment bodies to which they have issued an accreditation certificate.
+
+4\. Where a national accreditation body ascertains that a conformity assessment body which has received an accreditation certificate is no longer competent to carry out a specific conformity assessment activity or has committed a serious breach of its obligations, that accreditation body shall take all appropriate measures within a reasonable timeframe to restrict, suspend or withdraw the accreditation certificate.
+
+5\. Member States shall establish procedures for the resolution of appeals, including, where appropriate, legal remedies against accreditation decisions or the absence thereof.
+
+#### Article 6
+
+Principle of non-competition
+
+1\. National accreditation bodies shall not compete with conformity assessment bodies.
+
+2\. National accreditation bodies shall not compete with other national accreditation bodies.
+
+3\. National accreditation bodies shall be permitted to operate across national borders, within the territory of another Member State, either at the request of a conformity assessment body in the circumstances set out in Article 7(1), or, if they are asked to do so by a national accreditation body in accordance with Article 7(3), in cooperation with the national accreditation body of that Member State.
+
+#### Article 7
+
+Cross-border accreditation
+
+1\. Where a conformity assessment body requests accreditation it shall do so with the national accreditation body of the Member State in which it is established or with the national accreditation body to which that Member State has had recourse in accordance with Article 4(2).
+
+However, a conformity assessment body may request accreditation by a national accreditation body other than those referred to in the first subparagraph in any one of the following situations:
+
+(a) where the Member State in which it is established has decided not to establish a national accreditation body and has not had recourse to the national accreditation body of another Member State in accordance with Article 4(2);
+
+(b) where the national accreditation bodies referred to in the first subparagraph do not perform accreditation in respect of the conformity assessment activities for which accreditation is sought;
+
+(c) where the national accreditation bodies referred to in the first subparagraph have not successfully undergone peer evaluation under Article 10 in respect of the conformity assessment activities for which accreditation is sought.
+
+2\. Where a national accreditation body receives a request pursuant to paragraph 1(b) or (c), it shall inform the national accreditation body of the Member State in which the requesting conformity assessment body is established. In such cases, the national accreditation body of the Member State in which the requesting conformity assessment body is established may participate as an observer.
+
+3\. A national accreditation body may request another national accreditation body to carry out part of the assessment activity. In such a case, the accreditation certificate shall be issued by the requesting body.
+
+#### Article 8
+
+Requirements for national accreditation bodies
+
+A national accreditation body shall fulfil the following requirements:
+
+1\. it shall be organised in such a manner as to make it independent of the conformity assessment bodies it assesses and of commercial pressures, and to ensure that no conflicts of interest with conformity assessment bodies occur;
+
+2\. it shall be organised and operated so as to safeguard the objectivity and impartiality of its activities;
+
+3\. it shall ensure that each decision relating to the attestation of competence is taken by competent persons different from those who carried out the assessment;
+
+4\. it shall have adequate arrangements to safeguard the confidentiality of the information obtained;
+
+5\. it shall identify the conformity assessment activities for which it is competent to perform accreditation, referring, where appropriate, to relevant Community or national legislation and standards;
+
+6\. it shall set up the procedures necessary to ensure efficient management and appropriate internal controls;
+
+7\. it shall have a number of competent personnel at its disposal sufficient for the proper performance of its tasks;
+
+8\. it shall document the duties, responsibilities and authorities of personnel who could affect the quality of the assessment and of the attestation of competence;
+
+9\. it shall establish, implement and maintain procedures for monitoring the performance and competence of the personnel involved;
+
+10\. it shall verify that conformity assessments are carried out in an appropriate manner, meaning that unnecessary burdens are not imposed on undertakings and that due account is taken of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product technology in question and the mass or serial nature of the production process;
+
+11\. it shall publish audited annual accounts prepared in accordance with generally accepted accounting principles.
+
+#### Article 9
+
+Compliance with requirements
+
+1\. Where a national accreditation body does not meet the requirements of this Regulation or fails to fulfil its obligations hereunder, the Member State concerned shall take appropriate corrective action or shall ensure that such corrective action is taken, and shall inform the Commission thereof.
+
+2\. Member States shall monitor their national accreditation bodies at regular intervals in order to ensure that they fulfil the requirements laid down in Article 8 on a continuing basis.
+
+3\. Member States shall take the utmost account of the results of peer evaluation under Article 10 when carrying out the monitoring referred to in paragraph 2 of this Article.
+
+4\. National accreditation bodies shall have in place the necessary procedures to deal with complaints against the conformity assessment bodies they have accredited.
+
+#### Article 10
+
+Peer evaluation
+
+1\. National accreditation bodies shall subject themselves to peer evaluation organised by the body recognised under Article 14.
+
+2\. Stakeholders shall have the right to participate in the system set up for the supervision of peer evaluation activities, but not in individual peer evaluation procedures.
+
+3\. Member States shall ensure that their national accreditation bodies regularly undergo peer evaluation as required by paragraph 1.
+
+4\. Peer evaluation shall be operated on the basis of sound and transparent evaluation criteria and procedures, in particular concerning structural, human resource and process requirements, confidentiality and complaints. Appropriate appeal procedures against decisions taken as a result of such evaluation shall be provided for.
+
+5\. Peer evaluation shall ascertain whether the national accreditation bodies meet the requirements laid down in Article 8, taking into account the relevant harmonised standards referred to in Article 11.
+
+6\. The outcome of peer evaluation shall be published and communicated by the body recognised under Article 14 to all Member States and the Commission.
+
+7\. The Commission shall, in cooperation with the Member States, oversee the rules and the proper functioning of the peer evaluation system.
+
+#### Article 11
+
+Presumption of conformity for national accreditation bodies
+
+1\. National accreditation bodies that demonstrate conformity with the criteria laid down in the relevant harmonised standard, the reference of which has been published in the Official Journal of the European Union, by having successfully undergone peer evaluation under Article 10 shall be presumed to fulfil the requirements laid down in Article 8.
+
+2\. National authorities shall recognise the equivalence of the services delivered by those accreditation bodies which have successfully undergone peer evaluation under Article 10, and thereby accept, on the basis of the presumption referred to in paragraph 1 of this Article, the accreditation certificates of those bodies and the attestations issued by the conformity assessment bodies accredited by them.
+
+#### Article 12
+
+Information obligation
+
+1\. Each national accreditation body shall inform the other national accreditation bodies of the conformity assessment activities in respect of which it operates accreditation and of any changes thereto.
+
+2\. Each Member State shall inform the Commission and the body recognised under Article 14 of the identity of its national accreditation body and of all conformity assessment activities in respect of which that body operates accreditation in support of Community harmonisation legislation, and of any changes thereto.
+
+3\. Each national accreditation body shall regularly make publicly available information concerning the results of its peer evaluation, the conformity assessment activities in respect of which it operates accreditation and any changes thereto.
+
+#### Article 13
+
+Requests to the body recognised under Article 14
+
+1\. The Commission may, after consulting the Committee set up by Article 5 of Directive 98/34/EC, request the body recognised under Article 14 to contribute to the development, maintenance and implementation of accreditation in the Community.
+
+2\. The Commission may also, following the procedure laid down in paragraph 1:
+
+(a) request the body recognised under Article 14 to lay down evaluation criteria and procedures for peer evaluation and to develop sectoral accreditation schemes;
+
+(b) accept any existing scheme that already lays down evaluation criteria and procedures for peer evaluation.
+
+3\. The Commission shall ensure that sectoral schemes identify the technical specifications necessary to meet the level of competence required by Community harmonisation legislation in fields with specific requirements relating to technology, health and safety or environment related requirements or any other aspect of public interest protection.
+
+#### Article 14
+
+European accreditation infrastructure
+
+1\. The Commission shall, after consulting the Member States, recognise a body which satisfies the requirements set out in Annex I to this Regulation.
+
+2\. A body which is to be recognised pursuant to paragraph 1 shall conclude an agreement with the Commission. That agreement shall specify, inter alia, the detailed tasks of the body, funding provisions and provisions for its supervision. Both the Commission and the body shall be able to terminate the agreement without cause at the expiry of a reasonable period of notice to be defined therein.
+
+3\. The Commission and the body shall make the agreement public.
+
+4\. The Commission shall communicate the recognition of a body pursuant to paragraph 1 to the Member States and to national accreditation bodies.
+
+5\. The Commission may not recognise more than one body at a time.
+
+6\. The first body recognised under this Regulation shall be the European cooperation for accreditation, provided that it has concluded an agreement as specified in paragraph 2.
+
+## CHAPTER III — COMMUNITY MARKET SURVEILLANCE FRAMEWORK AND CONTROLS OF PRODUCTS ENTERING THE COMMUNITY MARKET
+
+### SECTION 1 — General provisions
+
+### SECTION 2 — Community market surveillance framework
+
+### SECTION 3 — Controls of products entering the Community market
+
+## CHAPTER IV — CE MARKING
+
+#### Article 30
+
+General principles of the CE marking
+
+1\. The CE marking shall be affixed only by the manufacturer or his authorised representative.
+
+2\. The CE marking as presented in Annex II shall be affixed only to products to which its affixing is provided for by specific Community harmonisation legislation, and shall not be affixed to any other product.
+
+3\. By affixing or having affixed the CE marking, the manufacturer indicates that he takes responsibility for the conformity of the product with all applicable requirements set out in the relevant Community harmonisation legislation providing for its affixing.
+
+4\. The CE marking shall be the only marking which attests the conformity of the product with the applicable requirements of the relevant Community harmonisation legislation providing for its affixing.
+
+5\. The affixing to a product of markings, signs or inscriptions which are likely to mislead third parties regarding the meaning or form of the CE marking shall be prohibited. Any other marking may be affixed to the product provided that the visibility, legibility and meaning of the CE marking is not thereby impaired.
+
+6\. Without prejudice to Article 41, Member States shall ensure the correct implementation of the regime governing the CE marking and take appropriate action in the event of improper use of the marking. Member States shall also provide for penalties for infringements, which may include criminal sanctions for serious infringements. Those penalties shall be proportionate to the seriousness of the offence and constitute an effective deterrent against improper use.
+
+## CHAPTER V — COMMUNITY FINANCING
+
+#### Article 31
+
+Body pursuing an aim of general European interest
+
+The body recognised under Article 14 shall be considered a body pursuing an aim of general European interest within the meaning of Article 162 of Commission Regulation (EC, Euratom) No 2342/2002 of 23 December 2002 laying down detailed rules for the implementation of Regulation (EC, Euratom) No 1605/2002 ( 2 ).
+
+#### Article 32
+
+Activities eligible for Community financing
+
+1\. The Community may finance the following activities in connection with the application of this Regulation:
+
+(a) the production and revision of sectoral accreditation schemes referred to in Article 13(3);
+
+(b) the activities of the secretariat of the body recognised under Article 14, such as the coordination of accreditation activities, the processing of technical work linked to the operation of the peer evaluation system, the provision of interested parties with information and the participation of the body in the activities of international organisations in the field of accreditation;
+
+(c) the drawing up and updating of contributions to guidelines in the fields of accreditation, notification to the Commission of conformity assessment bodies and conformity assessment;
+
+(f) the performance of preliminary or ancillary work in connection with the implementation of the conformity assessment, metrology and accreditation activities linked to the implementation of Community legislation, such as studies, programmes, evaluations, guidelines, comparative analyses, mutual joint visits, research work, the development and maintenance of databases, training activities, laboratory work, proficiency testing, inter-laboratory tests and conformity assessment work;
+
+(g) activities carried out under programmes of technical assistance, cooperation with third countries and the promotion and enhancement of European conformity assessment and accreditation policies and systems among interested parties in the Community and at international level.
+
+2\. The activities referred to in paragraph 1(a) shall be eligible for Community financing only if the Committee set up by Article 5 of Directive 98/34/EC has been consulted on the requests to be submitted to the body recognised under Article 14 of this Regulation.
+
+#### Article 33
+
+Bodies eligible for Community financing
+
+Community financing may be granted to the body recognised under Article 14 for the implementation of the activities set out in Article 32.
+
+However, Community financing may also be granted to other bodies for the carrying out of the activities set out in Article 32, except those set out in paragraph 1(a) and (b) of that Article.
+
+#### Article 34
+
+Financing
+
+The appropriations allocated to the activities referred to in this Regulation shall be determined each year by the budgetary authority within the limits of the financial framework in force.
+
+#### Article 35
+
+Financing arrangements
+
+1\. Community financing shall be provided:
+
+(a) without a call for proposals, to the body recognised under Article 14 to carry out those activities referred to in Article 32(1)(a) to (g) for which grants can be awarded in accordance with the Financial Regulation;
+
+(b) in the form of grants after a call for proposals, or by public procurement procedures, to other bodies to carry out the activities referred to in Article 32(1)(c) to (g).
+
+2\. The activities of the secretariat of the body recognised under Article 14 referred to in Article 32(1)(b) may be financed on the basis of operating grants. In the event of renewal, the operating grants shall not be decreased automatically.
+
+3\. Grant agreements may authorise flat-rate cover of the beneficiary's overheads up to a maximum of 10 % of total eligible direct costs for actions, except where the beneficiary's indirect costs are covered through an operating grant financed from the Community budget.
+
+4\. The common cooperation objectives and the administrative and financial conditions relating to the grants awarded to the body recognised under Article 14 may be defined in a framework partnership agreement signed by the Commission and that body, in accordance with the Financial Regulation and Regulation (EC, Euratom) No 2342/2002. The European Parliament and the Council shall be informed of the conclusion of any such agreement.
+
+#### Article 36
+
+Management and monitoring
+
+1\. The appropriations determined by the budgetary authority for the financing of conformity assessment, accreditation and market surveillance activities may also cover administrative expenses relating to preparation, monitoring, inspection, auditing and evaluation which are directly necessary for the achievement of the objectives of this Regulation, and in particular studies, meetings, information and publication activities, expenses relating to informatics networks for the exchange of information and any other expenditure on administrative and technical assistance which the Commission may use for conformity assessment and accreditation activities.
+
+2\. The Commission shall evaluate the relevance of the conformity assessment, accreditation and market surveillance activities that receive Community financing in the light of the requirements of Community policies and legislation, and inform the European Parliament and the Council of the outcome of that evaluation by 1 January 2013 and every five years thereafter.
+
+#### Article 37
+
+Protection of the Community's financial interests
+
+1\. The Commission shall ensure that, when the activities financed under this Regulation are implemented, the Community's financial interests are protected by the application of preventive measures against fraud, corruption and other illegal activities, by effective checks and by the recovery of amounts unduly paid and, if irregularities are detected, by effective, proportionate and dissuasive penalties, in accordance with Council Regulation (EC, Euratom) No 2988/95 of 18 December 1995 on the protection of the European Communities financial interests ( 3 ), Council Regulation (Euratom, EC) No 2185/96 of 11 November 1996 concerning on-the-spot checks and inspections carried out by the Commission in order to protect the European Communities' financial interests against fraud and other irregularities ( 4 ) and Regulation (EC) No 1073/1999 of the European Parliament and of the Council of 25 May 1999 concerning investigations conducted by the European Anti-Fraud Office (OLAF) ( 5 ).
+
+2\. For the purposes of the Community activities financed under this Regulation, the notion of irregularity referred to in Article 1(2) of Regulation (EC, Euratom) No 2988/95 shall mean any infringement of a provision of Community law or any breach of a contractual obligation resulting from an act or omission by an economic operator which has, or would have, the effect of prejudicing the general budget of the European Union or budgets managed by it by an unjustified item of expenditure.
+
+3\. Any agreements and contracts resulting from this Regulation shall provide for monitoring and financial control by the Commission or any representative which it authorises and for audits by the Court of Auditors, which may be conducted on the spot if necessary.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+#### Article 38
+
+Technical guidelines
+
+In order to facilitate the implementation of this Regulation, the Commission shall draw up non-binding guidelines in consultation with stakeholders.
+
+#### Article 39
+
+Transitional provision
+
+Accreditation certificates issued before 1 January 2010 may remain valid until the date of their expiry, but no later than 31 December 2014. This Regulation shall, however, apply in the case of their extension or renewal.
+
+#### Article 40
+
+Review and reporting
+
+By 2 September 2013, the Commission shall submit to the European Parliament and to the Council a report on the application of this Regulation, of Directive 2001/95/EC and of any other relevant Community instrument addressing market surveillance. That report shall, in particular, analyse the consistency of Community rules in the field of market surveillance. If appropriate, it shall be accompanied by proposals to amend and/or consolidate the instruments concerned, in the interests of better regulation and simplification. It shall include an evaluation of the extension of the scope of Chapter III of this Regulation to all products.
+
+By 1 January 2013, and every five years thereafter, the Commission, in cooperation with the Member States, shall produce and submit to the European Parliament and to the Council a report on the implementation of this Regulation.
+
+#### Article 41
+
+Penalties
+
+The Member States shall lay down rules on penalties for economic operators, which may include criminal sanctions for serious infringements, applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive and may be increased if the relevant economic operator has previously committed a similar infringement of the provisions of this Regulation. The Member States shall notify the Commission of those provisions by 1 January 2010 and shall notify it without delay of any subsequent amendment affecting them.
+
+#### Article 42
+
+Amendment to Directive 2001/95/EC
+
+Article 8(3) of Directive 2001/95/EC shall be replaced by the following:
+
+‘3. In the case of products posing a serious risk, the competent authorities shall with due dispatch take the appropriate measures referred to in paragraph 1(b) to (f). The existence of a serious risk shall be determined by the Member States, assessing each individual case on its merits and taking into account the guidelines referred to in point 8 of Annex II.’.
+
+#### Article 43
+
+Repeal
+
+Regulation (EEC) No 339/93 is hereby repealed with effect from 1 January 2010.
+
+References to the repealed Regulation shall be construed as references to this Regulation.
+
+#### Article 44
+
+Entry into force
+
+This Regulation shall enter into force on the 20th day after its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2010.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Requirements applicable to the body to be recognised under Article 14
+
+1\. The body recognised under Article 14 of the Regulation (the body), shall be established within the Community.
+
+2\. Under the body's constitution, national accreditation bodies from within the Community shall be entitled to be members of it, provided that they comply with the rules and objectives of the body and with the other conditions set out herein and as agreed with the Commission in the framework agreement.
+
+3\. The body shall consult all relevant stakeholders.
+
+4\. The body shall provide its members with peer evaluation services satisfying the requirements of Articles 10 and 11.
+
+5\. The body shall cooperate with the Commission in accordance with this Regulation.
+
+## ANNEX II — CE marking
+
+1\. The CE marking shall consist of the initials ‘CE’ taking the following form:
+
+[image]
+
+2\. If the CE marking is reduced or enlarged, the proportions given in the graduated drawing in paragraph 1 shall be respected.
+
+3\. Where specific legislation does not impose specific dimensions, the CE marking shall be at least 5 mm high.
+
+( ) OJ L 204, 21.7.1998, p. 37. Directive as last amended by Council Directive 2006/96/EC (OJ L 363, 20.12.2006, p. 81).
+
+( ) OJ L 357, 31.12.2002, p. 1. Regulation as last amended by Regulation (EC, Euratom) No 478/2007 (OJ L 111, 28.4.2007, p. 13).
+
+( ) OJ L 312, 23.12.1995, p. 1.
+
+( ) OJ L 292, 15.11.1996, p. 2.
+
+( ) OJ L 136, 31.5.1999, p. 1.

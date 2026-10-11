@@ -1,0 +1,1965 @@
+---
+title: "Commission Implementing Regulation (EU) 2016/1150 of 15 April 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector"
+identifier: "32016R1150"
+eli: "http://data.europa.eu/eli/reg_impl/2016/1150/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-04-15
+entry_into_force: 2016-07-20
+last_amended: 2017-02-18
+consolidated_version: "02016R1150-20170218"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1150-20170218"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2016/1150 of 15 April 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/1150**
+
+**of 15 April 2016**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/256 of 14 February 2017 </td><td> L 38</td><td>37</td><td>15.2.2017</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/1150**
+
+**of 15 April 2016**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector**
+
+## CHAPTER I — PROCEDURE FOR THE SUBMISSION AND MODIFICATION OF THE SUPPORT PROGRAMMES
+
+##### Article 1 — Programming period and notification of relevant national legislation
+
+1\. The draft support programme as referred to in Article 41(1) of Regulation (EU) No 1308/2013 shall refer to the following five year periods:
+
+(a) the financial years 2014 to 2018;
+
+(b) the financial years 2019 to 2023.
+
+1a. Member States shall submit their draft support programme for the financial years 2019 to 2023 to the Commission by 1 March 2018. If the national envelopes provided for the financial year 2021 onwards are modified after that date, the Member States shall adapt the support programmes accordingly.
+
+Member States shall make their draft support programme for the financial years 2019 to 2023 available to the Commission by electronic means using the model set out in Annex Ia.
+
+Member States shall make the financial allocation of the draft support programme for the financial years 2019 to 2023 available to the Commission by electronic means using the model set out in Annex IIa.
+
+2\. Member States shall notify the Commission of their legislation related to the support programmes referred to in paragraph 1 once adopted or amended.
+
+##### Article 2 — Changes to support programmes
+
+1\. Changes in respect of applicable support programmes as referred to in Article 41(5) of Regulation (EU) No 1308/2013 shall not be submitted more than twice per financial year, by 1 March and 30 June of each year respectively.
+
+However, those deadlines shall not apply in case of emergency measures due to natural disasters within the meaning of Article 2(9) of Commission Regulation (EU) No 702/2014 ( 1 ) or an adverse climatic event which can be assimilated to a natural disaster within the meaning of Article 2(16) of that Regulation or other exceptional circumstances.
+
+2\. The changes referred to in paragraph 1 shall be indicated in the support programme that shall be submitted to the Commission using the model set out in Annex I or Annex Ia and shall comprise:
+
+(a) the reasons for the proposed changes;
+
+(b) an updated version of the financial table by using the model set out in Annex II or Annex IIa where the changes to the support programme entail a revision of the financial allocation.
+
+##### Article 3 — Content of support programmes
+
+A support programme shall comprise:
+
+(a) for each of the specific support measures laid down in Articles 45 to 52 of Regulation (EU) No 1308/2013:
+
+(i) a description of the proposed strategy and quantified objectives;
+
+(ii) the natural or legal persons that may submit applications;
+
+(iii) the application procedure;
+
+(iv) the eligibility criteria;
+
+(v) the eligible and non-eligible costs;
+
+(vi) where relevant, whether standard scales of unit costs or contributions in kind are applicable and, if so, the information on the method of calculation and annual adaptation;
+
+(vii) where applicable, the priority criteria and respective weighting;
+
+(viii) the selection procedure;
+
+(ix) the deadlines for the payments to beneficiaries;
+
+(x) where relevant, whether advances may be granted, the maximum rate and conditions;
+
+(xi) where relevant, the details on the demarcation with other Union or national schemes and on the verification system implemented to avoid double funding;
+
+(xii) where relevant, whether State aid is granted;
+
+(b) the results of consultation held;
+
+(c) the overall strategy;
+
+(d) an appraisal showing the expected technical, economic, environmental and social impact;
+
+(e) a schedule for implementing the measures;
+
+(f) a general financing table as set out in Annex II or Annex IIa to this Regulation;
+
+(g) the criteria and other quantitative indicators to be used for monitoring and evaluation;
+
+(h) the steps taken to ensure that the programme is implemented appropriately and effectively;
+
+(i) the name and address of the competent authorities and bodies responsible for implementing the programme;
+
+(j) the internet site where the national legislation related to the support programme is publicly available.
+
+## CHAPTER II — PROVISIONS ON SPECIFIC SUPPORT MEASURES
+
+### SECTION 1 — Promotion
+
+#### Subsection 1 — Information in the Member States
+
+##### Article 4 — Application procedure
+
+1\. For the support referred to in point (a) of Article 45(1) of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure and the procedure for the possible extension of the support, as referred to in Article 4 of Delegated Regulation (EU) 2016/1149, which shall include rules on:
+
+(a) the legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;
+
+(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;
+
+(c) the verification of compliance with the provisions on eligible operations, eligibility criteria, priority criteria and other objective criteria set out in Subsection 2 of Section 1 of Chapter II of Delegated Regulation (EU) 2016/1149;
+
+(d) the selection of the applications, which shall at least include the weighting attributed to each priority criterion;
+
+(e) the conclusion of contracts including possible standard forms;
+
+(f) arrangements for the payment of advances and the provision of securities;
+
+(g) the evaluation of any given supported operation on the basis of appropriate indicators.
+
+2\. In case of extension of the support in accordance with Article 4 of Delegated Regulation (EU) 2016/1149, the results of the supported operation shall be evaluated prior to the extension and be taken into account in the extension decision.
+
+3\. The applicants who intend to produce certificates on the financial statements to accompany their payment claims in accordance with Article 41 shall communicate their intention to the competent authority at the moment of the submission of their application.
+
+#### Subsection 2 — Promotion in third countries
+
+##### Article 5 — Application procedure
+
+1\. For the support referred to in point (b) of Article 45(1) of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure and the procedure for the possible extension of the support as referred to in Article 4 of Delegated Regulation (EU) 2016/1149, which shall include rules on:
+
+(a) the natural or legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;
+
+(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;
+
+(c) the verification of compliance with the provisions on eligible operations, eligibility criteria, priority criteria and other objective criteria set out in Subsection 3 of Section 1 of Chapter II of Delegated Regulation (EU) 2016/1149;
+
+(d) the products concerned and their marketing in conformity with Regulation (EU) No 1308/2013, the national provisions and the relevant specification;
+
+(e) the selection of the applications, which shall at least include the weighting attributed to each priority criterion;
+
+(f) the conclusion of contracts, including possible standard forms;
+
+(g) arrangements for the payment of advances and the provision of securities;
+
+(h) the evaluation of any given supported operation on the basis of appropriate indicators.
+
+2\. In case of extension of the support in accordance with Article 4 of Delegated Regulation (EU) 2016/1149, the results of the supported operation shall be evaluated prior to the extension of the support and be taken into account in the extension decision.
+
+3\. The applicants who intend to produce certificates on the financial statements to accompany their payment claims in accordance with Article 41 shall communicate their intention to the competent authority at the moment of the submission of their application.
+
+#### Subsection 3 — Common provisions
+
+##### Article 6 — Joint promotion operation
+
+Two or more Member States may decide to select a joint information or promotion operation. They shall undertake to contribute to the financing and agree on administrative collaboration procedures to facilitate the monitoring, implementation and checking of the joint operation.
+
+### SECTION 2 — Restructuring and conversion of vineyards
+
+##### Article 7 — Application procedure
+
+1\. For the support referred to in Article 46 of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure, which shall include rules on:
+
+(a) the natural or legal persons that may submit applications in accordance with Article 12 of Delegated Regulation (EU) 2016/1149;
+
+(b) the content of the application;
+
+(c) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for the examination of the suitability of each proposed action and for the notification of the results of the selection procedure to the operators;
+
+(d) the procedures to ensure the eligibility of the application and its consistency with the rules and the control system set up for the scheme of authorisations for vine plantings in accordance with Articles 66 and 68 of Regulation (EU) No 1308/2013;
+
+(e) the verification of compliance with the provisions on eligibility criteria, ineligible costs, priority criteria and other objective criteria set out in Section 2 of Chapter II of Delegated Regulation (EU) 2016/1149;
+
+(f) the selection of the applications, which shall at least include the weighting attributed to each priority criterion, where priority criteria are applied;
+
+(g) arrangements for the payment of advances and the provision of securities.
+
+2\. Member States may lay down a minimum size of the area which may qualify for support for restructuring and conversion, and a minimum size of area resulting from restructuring and conversion and any derogation from this requirement which shall be duly justified and based on objective criteria.
+
+### SECTION 3 — Green harvesting
+
+##### Article 8 — Application of the support measure
+
+For the purposes of Article 47 of Regulation (EU) No 1308/2013, Member States shall:
+
+(a) adopt provisions for the application of the support measure, which shall include:
+
+(i) the prior notification of green harvesting;
+
+(ii) the amount of compensation to be paid;
+
+(b) set the deadline for the submission of applications for support for green harvesting between 15 April and 10 June of each year;
+
+(c) establish by 10 June of each year an expected market situation justifying the application of green harvesting to restore market balance and to prevent crisis and the deadline for carrying out the operation of green harvesting as referred to in point (c) of Article 43(1) of this Regulation;
+
+(d) every year set a deadline at a date after the establishment of the expected market situation as provided for in point (c) for carrying out the green harvesting operations in accordance with the requirements set out in Article 47(1) of Regulation (EU) No 1308/2013.
+
+##### Article 9 — Calculation of the compensation
+
+1\. Each year, Member States shall calculate the direct costs of green harvesting according to the different methods (manual, mechanical and chemical) that they consider as eligible for the purposes of the conditions adopted by them pursuant to Article 18 of Delegated Regulation (EU) 2016/1149.
+
+In case more than one method of green harvesting is used on the same given area, the compensation shall be based on the least expensive method.
+
+2\. Member States shall define the loss of revenue caused by green harvesting on the basis of objective and non-discriminatory criteria, taking into account any cost savings.
+
+##### Article 10 — Application procedure
+
+1\. For the support referred to in Article 47 of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure, which shall include rules on:
+
+(a) the natural or legal persons that may submit applications in accordance with Article 17 of Delegated Regulation (EU) 2016/1149;
+
+(b) the applicable compensation to the producer concerned;
+
+(c) the content of the application;
+
+(d) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for the examination of the suitability of each proposed action and for the notification of the results of the selection procedure to the operators;
+
+(e) the verification of compliance with the provisions on the conditions for the proper functioning, the eligibility criteria, ineligible actions and other objective criteria set out in Section 3 of Chapter II of Delegated Regulation (EU) 2016/1149;
+
+(f) the selection of the applications, which shall at least include the weighting attributed to each priority criterion, where priority criteria are applied.
+
+2\. Member States may provide that in case the application is withdrawn without duly justified reason, the producer concerned is to bear the costs incurred in relation to the treatment of his application.
+
+### SECTION 4 — Mutual funds
+
+##### Article 11 — Application of the support measure
+
+For the purposes of Article 48 of Regulation (EU) No 1308/2013, Member States shall adopt provisions for the application of the support measure.
+
+##### Article 12 — Application procedure
+
+For the support referred to in Article 48 of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure, which shall include rules on:
+
+(a) the natural or legal persons that may submit applications in accordance with Article 24 of Delegated Regulation (EU) 2016/1149;
+
+(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;
+
+(c) the verification of compliance with the conditions for support and other objective criteria set out in Section 4 of Chapter II of Delegated Regulation (EU) 2016/1149;
+
+(d) the selection of the applications, which shall at least include the weighting attributed to each priority criterion, where priority criteria are applied;
+
+(e) the conclusion of contracts including possible standard forms.
+
+### SECTION 5 — Harvest insurance
+
+##### Article 13 — Application procedure
+
+For the support referred to in Article 49 of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure, which shall include rules on:
+
+(a) the natural or legal persons that may submit applications in accordance with Article 27 of Delegated Regulation (EU) 2016/1149;
+
+(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;
+
+(c) the verification of compliance with the conditions for the proper functioning adopted pursuant to Article 29 of Delegated Regulation (EU) 2016/1149 and other objective criteria set out in Section 5 of Chapter II of that Regulation;
+
+(d) the selection of the applications, which shall at least include the weighting attributed to each priority criterion, where priority criteria are applied;
+
+(e) the conclusion of contracts including possible standard forms;
+
+(f) payments to beneficiaries, including through insurance companies in accordance with Article 28 of Delegated Regulation (EU) 2016/1149.
+
+### SECTION 6 — Investments
+
+##### Article 14 — Application procedure
+
+For the support referred to in Article 50 of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure, which shall include rules on:
+
+(a) the natural or legal persons that may submit applications in accordance with Article 32 of Delegated Regulation (EU) 2016/1149;
+
+(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for the examination of the suitability of each proposed action and for the notification of the results of the selection procedure to the operators;
+
+(c) the verification of compliance with the provisions on eligible actions and costs, eligibility criteria, priority criteria and other objective criteria set out in Section 6 of Chapter II of Delegated Regulation (EU) 2016/1149;
+
+(d) the selection of the applications, which shall at least include the weighting attributed to each priority criterion;
+
+(e) arrangements for the payment of advances and the provision of securities.
+
+### SECTION 7 — Innovation in the wine sector
+
+##### Article 15 — Application procedure
+
+For the support referred to in Article 51 of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure, which shall include rules on:
+
+(a) the natural or legal persons that may submit applications in accordance with Article 37 of Delegated Regulation (EU) 2016/1149;
+
+(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for the examination of the suitability of each proposed action and for the notification of the results of the selection procedure to the operators;
+
+(c) the verification of compliance with the provisions on eligible actions and costs, eligibility criteria, priority criteria and other objective criteria set out in Section 7 of Chapter II of Delegated Regulation (EU) 2016/1149;
+
+(d) the selection of the applications, which shall at least include the weighting attributed to each priority criterion;
+
+(e) arrangements for the payment of advances and the provision of securities.
+
+### SECTION 8 — By-product distillation
+
+##### Article 16 — Application of the support measure
+
+For the purposes of Article 52 of Regulation (EU) No 1308/2013, Member States shall adopt provisions for the application of the support measure.
+
+##### Article 17 — Application procedure
+
+For the support referred to in Article 52 of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure, which shall include rules on:
+
+(a) the natural or legal persons that may submit applications in accordance with Article 41 of Delegated Regulation (EU) 2016/1149;
+
+(b) the verification of compliance with the provisions on the purpose of the support set out in Section 8 of Chapter II of Delegated Regulation (EU) 2016/1149;
+
+(c) the payment of the support in accordance with Article 42 of Delegated Regulation (EU) 2016/1149 and Article 18 of this Regulation.
+
+##### Article 18 — Amount of the support
+
+1\. The maximum amount of the support referred to in Article 52 of Regulation (EU) No 1308/2013 to be paid to distillers shall be fixed by % volume alcohol and by hectolitre as follows:
+
+(a) for raw alcohol obtained from marcs: EUR 1,1/ %vol./hl;
+
+(b) for raw alcohol obtained from wine and lees: EUR 0,5/ %vol./hl.
+
+2\. Member States shall fix the amount of support and the amount of compensation for the collection costs referred to in Article 52(3) of Regulation (EU) No 1308/2013 within the limits provided for in paragraph 1 of this Article and on the basis of objective and non-discriminatory criteria. They shall indicate both amounts in the relevant points when using the models set out in Annexes I, Ia, III, IV and IVa to this Regulation.
+
+Member States may adjust those amounts according to different production typologies, on the basis of objective and non-discriminatory criteria.
+
+## CHAPTER III — REPORTING, EVALUATION AND GENERAL PROVISIONS
+
+##### Article 19 — Reporting and evaluation
+
+1\. By 1 March each year Member States shall notify the Commission of a report on the implementation of the measures provided for in their support programme referred to in Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 during the previous financial year.
+
+That report shall list and describe the measures for which Union support under that Section was granted.
+
+That report shall be notified using the model set out in Annex III to this Regulation.
+
+2\. At the same time as the report referred to in paragraph 1, Member States shall notify the Commission of the financial and technical data related to the implementation of the measures provided for in their support programme, using the model set out in Annex IV or Annex IVa.
+
+Those data shall for each financial year and in respect of each measure refer to the following:
+
+(a) for the financial years of the five-year period for which expenditure was already incurred: actual technical data and a statement of expenditure, which shall in no case overshoot the budgetary limit for the Member State as laid down in Annex VI to Regulation (EU) No 1308/2013;
+
+(b) for subsequent financial years until the end of the planned period of implementation of the support programme: foreseen technical data and forecast of expenditure, up to the budgetary limit for the Member State as laid down in Annex VI to Regulation (EU) No 1308/2013 and in coherence with the most recent version of the financial table submitted using the model set out in Annex II or Annex IIa to this Regulation in accordance with Article 2 of this Regulation.
+
+3\. Member States shall draw up a table containing the details on the implementation of the support for the information and promotion measures referred to in Article 45 of Regulation (EU) No 1308/2013 within the limit of available funds. They shall notify the Commission of that table by 1 March each year using the model set out in Annex V to this Regulation.
+
+4\. By 1 March 2017, 1 March 2019, 1 March 2022 and 1 March 2024, Member States shall notify the Commission of an evaluation of the cost effectiveness and benefits of their support programme as well as an indication of how to increase its efficiency.
+
+Those evaluations shall be submitted using the model set out in Annex III, be accompanied by the financial and technical information in accordance with the model set out in Annex IV or Annex IVa and concern all the previous years of the relevant five-year period. In addition, the following items shall be inserted in the conclusions:
+
+(a) C1: Evaluation of the cost-effectiveness and benefits of the support programme;
+
+(b) C2: Ways to increase the efficiency of the support programme.
+
+5\. By 1 March each year, Member States shall notify the Commission of an annual report on the checks carried out during the previous financial year to comply with the requirements set out in Chapter IV in respect of each measure of their support programme. That annual report shall be submitted using the model set out in Annex VI.
+
+6\. References to payments in a given financial year shall refer to payments actually made by Member States between 16 October of the previous calendar year and 15 October of the relevant calendar year.
+
+7\. Member States shall record the details of their support programme, whether or not amended, and of all measures carried out in pursuance of that programme.
+
+##### Article 20 — Notifications related to State aid
+
+1\. When Member States grant State aid in accordance with Article 212 of Regulation (EU) No 1308/2013 for the measures referred to in Articles 45, 49 and 50 of that Regulation, they shall notify the Commission thereof by using the model set out in Annex VII to this Regulation and providing the following information:
+
+(a) whether support will be granted in accordance with Commission Regulation (EU) No 1407/2013 ( 2 ) or Commission Regulation (EU) No 1408/2013 ( 3 ); or
+
+(b) the case number under which the measure has been exempted from notification in accordance with an exemption Regulation adopted on the basis of Council Regulation (EU) 2015/1588 ( 4 ); or
+
+(c) the case number under which the measure has been declared compatible with the internal market by the Commission following a notification made in accordance with Article 108(3) of the Treaty.
+
+2\. The information provided must be valid over the entire life cycle of the national support programme without prejudice to any subsequent changes of that programme.
+
+In case of any changes, Member States shall notify that information by 1 March by using the model set out in Annex VII.
+
+3\. Member States shall indicate whether State aid will be granted and the corresponding amount in the relevant points when using the models set out in Annexes I, Ia, III, IV, IVa and V.
+
+##### Article 21 — Notifications related to advances
+
+1\. Where advances are granted in accordance with Article 49 of Delegated Regulation (EU) 2016/1149, Member States shall include in the current annual accounts of the paying agencies referred to in Article 7(3)(a) of Regulation (EU) No 1306/2013 information related to the use of the advances within the deadline laid down in that Article. For this purpose, Member States shall set a date by which beneficiaries shall provide the paying agencies each year with the following information for each operation:
+
+(a) costs statements justifying, by measure, the use of the advances until 15 October, and;
+
+(b) a confirmation, by measure, of the balance of unused advances remaining on 15 October.
+
+Member States may decide to exempt from this obligation the beneficiaries of operations for which the eligible Union contribution is below EUR 5 000 000 .
+
+2\. For the purposes of Article 27(2) of Commission Delegated Regulation (EU) No 907/2014 ( 5 ), the evidence of final entitlement to be produced shall be the last costs statement and a confirmation of the balance referred to in paragraph 1 of this Article.
+
+As regards advances granted for operations selected under Articles 46, 50 and 51 of Regulation (EU) No 1308/2013, respectively, the last costs statement and confirmation of the balance referred to in paragraphs 1 and 2 of this Article shall be provided by the end of the second financial year after their payment.
+
+##### Article 22 — General provisions on notifications
+
+1\. The notifications to the Commission referred to in this Regulation shall be made in accordance with Regulation (EC) No 792/2009.
+
+2\. Without prejudice to any specific provision of this Regulation, Member States shall take all measures necessary to ensure that they are able to meet the deadlines for notifications set out in this Regulation.
+
+3\. Member States shall retain the information notified in accordance with this Article for at least ten wine years following the wine year during which it was submitted.
+
+4\. The obligations laid down in this Article shall not prejudice the Member States' obligations laid down in Regulation (EU) No 1337/2011 of the European Parliament and of the Council ( 6 ) on statistical surveys of areas under vines.
+
+##### Article 23 — Selection procedure
+
+1\. Member States shall verify that the applications have been lodged within the deadline, examine each application and assess it as regards its compliance with the rules on the content of the application and with the eligibility criteria and eligible costs established for each measure provided for in their support programme. If applications do not comply with these requirements or with the eligibility criteria and the eligible costs, they shall be excluded as ineligible.
+
+2\. Where priority criteria apply to a measure, Member States shall examine all the applications considered as eligible under that measure after the assessment provided for in paragraph 1 and give a score to each of them.
+
+The score shall be calculated on the basis of the priority criteria fulfilled by the application and the specific weighting attributed to every priority criterion established for each measure.
+
+Member States shall establish a ranking of the eligible applications on the basis of the scores they have obtained.
+
+3\. Where the total value of the eligible applications of a support measure exceeds the budget allocated to that measure in a given financial year, Member States shall select the applications in descending order of the ranking established in accordance with paragraph 2 until the exhaustion of the available budget.
+
+Alternatively, Member States may fix a minimum score as a threshold and select all applications that reach that minimum score. In this case, where the total value of the eligible applications that reach the threshold exceeds the available budget for a support measure, Member States may apply pro-rata payments to those applications.
+
+4\. Member States may fix a threshold and decide to exclude eligible applications that do not reach that threshold even if the value of the eligible applications does not exceed the available budget.
+
+5\. For each relevant measure, Member States may submit again to the selection procedure eligible applications that have been excluded in the previous year in accordance with paragraphs 3 and 4 upon the agreement of the applicant.
+
+6\. Where applications have been excluded pursuant to this Article, applicants shall be informed of the reasons thereof.
+
+##### Article 24 — Simplified cost reimbursement
+
+1\. Where Member States choose to use standard scales of unit costs in accordance with the second paragraph of Article 5 and Article 44(1) of Delegated Regulation (EU) 2016/1149, they shall:
+
+(a) establish those scales in advance of any submission of applications;
+
+(b) establish those scales through a fair, equitable and verifiable calculation method based on:
+
+(i) statistical data or other objective information;
+
+(ii) the verified historical data of individual beneficiaries; or
+
+(iii) the application of the usual costs accounting practices of individual beneficiaries.
+
+To this end, Member States shall ensure that a body that is functionally independent from the authorities responsible for the implementation of the support programme and possesses the appropriate expertise performs the calculations or confirms the adequacy and accuracy of the calculations.
+
+2\. Member States may decide to use differentiated scales to take into account regional or local specificities.
+
+3\. Member States shall re-examine the calculations provided for in paragraph 1 every second year and shall, if necessary, adjust the initially established standard scales of unit costs.
+
+4\. Member States shall keep all the documentary evidence concerning the establishment of standard scales of unit costs and their re-examination which allows verifying the reasonableness of the method followed to establish them in accordance with point (b) of the first subparagraph of paragraph 1.
+
+##### Article 25 — Deadlines for the payments to beneficiaries
+
+Member States shall set the deadline for lodging the payment claim for each support measure.
+
+Member States shall pay the beneficiaries within 12 months after the date of lodging a valid and complete interim or final payment claim.
+
+##### Article 26 — Advance payments
+
+1\. Beneficiaries of support under Articles 45, 46, 50, 51 and 52 of Regulation (EU) No 1308/2013, respectively, may request the payment of an advance from the competent paying agencies, if this option is included in the national support programme in accordance with Article 49 of Delegated Regulation (EU) 2016/1149.
+
+2\. The amount of advances shall not exceed 80 % of the Union contribution.
+
+3\. The advance shall be paid on condition that the beneficiary has lodged a bank guarantee or an equivalent security at least equal to the amount of that advance in favour of the Member State in accordance with Chapter IV of Delegated Regulation (EU) No 907/2014.
+
+4\. For the purposes of Article 23 of Delegated Regulation (EU) No 907/2014, the obligation shall be to spend the total amount advanced in the implementation of the operation concerned by the end of the second financial year following the financial year during which the advance was paid, except in cases of force majeure and other exceptional circumstances.
+
+5\. As regards the restructuring and conversion of vineyards, the period referred to in paragraph 4 may be adjusted by the Member State in cases where:
+
+(a) the surfaces concerned are part of an area which has suffered a natural disaster within the meaning of Article 2(9) of Regulation (EU) No 702/2014 or an adverse climatic event which can be assimilated to a natural disaster within the meaning of Article 2(16) of that Regulation recognised by the competent authorities of the Member State concerned;
+
+(b) planned operations cannot be implemented because the plant material suffers health problems which have been certified by a body recognised by the Member State concerned.
+
+In order for the support to be paid in advance, any previous action carried out on the same area, for which the producer also received support in advance, must have been fully implemented.
+
+6\. The security shall be released when the competent paying agency establishes that the amount of actual expenditure corresponding to the Union contribution related to the operations concerned exceeds the amount of the advance.
+
+##### Article 27 — Verification of the prohibition on double financing
+
+For the support under Articles 45, 46, 48, 49, 50 and 51 of Regulation (EU) No 1308/2013, Member States shall set out, in the relevant point of the support programme, the provisions they have adopted to ensure that an efficient control system is in place to avoid double funding as provided for in Article 43 of Delegated Regulation (EU) 2016/1149.
+
+##### Article 28 — Obvious error
+
+Any communication, claim or request made to a Member State under Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 or this Regulation, including an application for support, may be adjusted any time after its submission in cases of obvious errors recognised by the competent authority.
+
+## CHAPTER IV — CONTROL PROVISIONS
+
+### SECTION 1 — Principles of control
+
+##### Article 29 — Checks
+
+1\. Without prejudice to specific provisions of this Regulation or other Union legislation, Member States shall introduce checks and measures in so far as they are necessary to ensure the proper application of the rules for the support programmes in the wine sector laid down in Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013, Delegated Regulation (EU) 2016/1149 and this Regulation. They shall be effective, proportionate and dissuasive so that they provide adequate protection for the financial interests of the Union.
+
+2\. In particular, Member States shall ensure that:
+
+(a) all eligibility criteria established by Union or national legislation or the national framework can be checked;
+
+(b) only operations that are verifiable and controllable are selected;
+
+(c) the competent authorities responsible for carrying out checks have a sufficient number of suitably qualified and experienced staff to carry out the checks effectively;
+
+(d) provision is made for checks to avoid irregular duplicated financing of the measures under Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 and other Union or national schemes;
+
+(e) the definition of methods and means for verification that are in line with the nature of the support measure concerned and specify who shall be subject to checks;
+
+(f) in the case of sampling, Member States shall ensure that, by their number, nature and frequency, on-the-spot checks are representative of the entirety of their territory and correspond, where applicable, to the volume of the wine products marketed or held with a view to their marketing.
+
+##### Article 30 — Administrative checks
+
+1\. Administrative checks shall be carried out on all applications for support, payment claims or other declarations and requests of modification submitted by an applicant or a beneficiary or a third party, and shall cover all elements that can be checked and are appropriate to be checked by means of administrative checks.
+
+Where relevant, administrative checks shall include cross-checks with, inter alia, data from the integrated administration and control system provided for in Chapter 2 of Title V of Regulation (EU) No 1306/2013.
+
+The procedures shall require recording of the control work undertaken, the results of the verification and the measures taken in the event of discrepancies.
+
+2\. Administrative checks on applications for support shall ensure the compliance of the operation with applicable obligations established by Union or national law or by the support programme. The checks shall include verification of:
+
+(a) the eligibility of the applicant;
+
+(b) the eligibility criteria, commitments and other obligations of the operation for which an application for support is submitted;
+
+(c) the eligibility of the costs of the operation and compliance with the category of costs or calculation method to be used where support is paid on the basis of standard scales of unit costs or of supporting documents to be submitted by the beneficiary, as well as, where applicable, contributions in kind, personnel and administrative costs referred to in Articles 45, 46 and 47 of Delegated Regulation (EU) 2016/1149 respectively;
+
+(d) where support is paid on the basis of supporting documents to be submitted by the beneficiary, the reasonableness of the costs submitted, which shall be evaluated using at least one of the following evaluation systems:
+
+(i) reference costs;
+
+(ii) a comparison of different offers;
+
+(iii) an evaluation committee;
+
+(e) where applicable, the compliance with the priority criteria and the attribution of weighting for the purposes of the selection procedure referred to in Article 23 of this Regulation.
+
+3\. Administrative checks on payment claims shall be systematic and include, where appropriate for the claim in question, verification of:
+
+(a) the completed operation compared with the operation for which the application for support was submitted and granted;
+
+(b) the costs incurred and the payments made by the beneficiary.
+
+4\. Administrative checks shall include procedures to avoid irregular double financing with other Union or national schemes.
+
+##### Article 31 — On-the-spot checks
+
+1\. Member States shall organise on-the-spot checks on selected operations using an appropriate sample basis where a sample based control is provided for in this Chapter.
+
+Those checks shall be carried out before the final payment is made for an operation.
+
+2\. On-the-spot checks may be announced provided that the prior notice does not interfere with their purpose or effectiveness. Any announcement shall be strictly limited to the minimum time period necessary and shall not exceed 14 days.
+
+3\. Where applicable, the on-the-spot checks provided for in this Regulation shall be carried out in conjunction with any other checks provided for by Union legislation.
+
+##### Article 32 — Control rate and sampling of on-the-spot checks
+
+1\. On-the-spot checks after the implementation of the operations shall be systematic for the measures referred to in Articles 46, 47, 50, 51 of Regulation (EU) No 1308/2013 respectively.
+
+As regards the measures referred to in Articles 45, 48, 49 and 52 of Regulation (EU) No 1308/2013 respectively, a sample based control after the implementation of the operations is allowed. The sample size shall be at least 5 % of the applications, selected in accordance with Article 34 of this Regulation. This sample shall also represent at least 5 % of the amounts covered by the support.
+
+However, in relation to the measure referred to in Articles 45 of Regulation (EU) No 1308/2013, the operations for which the beneficiaries communicated their intention to produce a certificate on the financial statements in accordance with Article 41 of this Regulation shall be systematically checked on the spot at least once before the final payment.
+
+2\. Where on-the-spot checks reveal any significant non-compliance in the context of a given support measure at national level or in a region or part of a region, the competent authority shall appropriately increase the percentage of beneficiaries to be checked on-the-spot in the following year.
+
+However, Member States may decrease the minimum level of on-the-spot checks where the management and control systems function properly and the error rates remain at an acceptable level.
+
+##### Article 33 — Content of the on-the-spot checks
+
+1\. Article 51(1), (2) and (3) of Commission Implementing Regulation (EU) No 809/2014 ( 7 ) shall apply mutatis mutandis to the measures referred to in Articles 45 to 52 of Regulation (EU) No 1308/2013.
+
+2\. In all appropriate cases, Member States shall make use of the integrated administration and control system provided for in Chapter 2 of Title V of Regulation (EU) No 1306/2013.
+
+##### Article 34 — Selection of the control sample
+
+1\. Control samples for on-the-spot checks allowed under this Chapter shall be selected every year by the competent authority on the basis of a risk analysis and of representativeness of the applications for support submitted. The effectiveness of risk analysis shall be assessed and updated on an annual basis:
+
+(a) by establishing the relevance of each risk factor;
+
+(b) by comparing the results of the risk based and randomly selected sample referred to in paragraph 2;
+
+(c) by taking into account the specific situation in the Member State.
+
+2\. To provide the element of representativeness, Member States shall select randomly between 20 and 25 % of the minimum number of beneficiaries to be subjected to on-the-spot checks.
+
+3\. The competent authority shall keep records of the reasons why specific beneficiaries were selected for on-the-spot checks. The inspector performing the on-the-spot check shall be informed of those reasons before beginning the check.
+
+##### Article 35 — Control report
+
+1\. Every on-the-spot check shall be the subject of a control report which enables the review of all details of the checks carried out.
+
+As far as checks concern Union financing, the report shall indicate in particular:
+
+(a) the support measures and operations checked;
+
+(b) the persons present;
+
+(c) where applicable, the agricultural areas checked, the agricultural areas measured, the results of the measurements per parcel measured and the measuring methods used;
+
+(d) the quantities which are covered by the check and their results;
+
+(e) whether advance notice was given to the beneficiary of the visit and, if so, how much;
+
+(f) any further control measures carried out.
+
+2\. Where discrepancies are found between the information in the application and the actual situation found during the check carried out on the spot or by remote sensing, the beneficiary shall receive a copy of the control report and shall have the opportunity to sign it before the competent authority draws its conclusions from the findings with regard to any resulting reductions or exclusions.
+
+##### Article 36 — Control bodies
+
+1\. Where a Member State designates several competent bodies to check compliance with the rules governing the support measures in the wine sector, it shall coordinate the work of those bodies.
+
+2\. Each Member State shall designate a single liaison body responsible for contacts with the liaison bodies of other Member States and with the Commission. In particular, the liaison body shall receive and forward requests for cooperation with a view to implementing this Chapter, and shall represent its Member State vis-à-vis other Member States or the Commission.
+
+##### Article 37 — Powers of control officials
+
+Each Member State shall take all appropriate measures to facilitate the work of the officials of its competent bodies. It shall ensure in particular that such officials, where appropriate in conjunction with officials of other departments which it authorises for the purpose:
+
+(a) have access to vineyards, wine-making and storage installations, installations for processing wine-sector products and vehicles for transporting those products;
+
+(b) have access to the commercial premises or warehouses and vehicles of anyone holding with a view to sale, marketing or transporting wine-sector products or products which may be intended for use in the wine sector;
+
+(c) may take samples of wine-sector products, substances or products which may be used for the preparation of such products and products held with a view to sale, marketing or transport;
+
+(d) have access to accounting data and other documents of use in control procedures, and make copies or extracts thereof.
+
+##### Article 38 — Assistance on request
+
+1\. Where a competent body of a Member State undertakes control activities on its territory, it may request information from a competent body of any other Member State liable to be affected directly or indirectly. Where such a request is made the assistance shall be provided in a timely manner.
+
+The requested body shall provide all such information as may enable the requesting body to carry out its duties.
+
+2\. Where a reasoned request is made by the requesting body, the requested body shall perform special supervision or checks with a view to achieving the aims pursued, or shall take the necessary steps to ensure that such supervision or checks are performed.
+
+3\. The requested body shall act as though on its own behalf.
+
+4\. In agreement with the requested body, the requesting body may designate officials:
+
+(a) either to obtain, on the premises of the administrative authorities coming under the Member State in which the requested body is established, information or copies of documents relating to the application of the rules in the wine sector or to control activities;
+
+(b) or to be present during operations requested under paragraph 2, after advising the requested body in good time before the start of those operations.
+
+The copies referred to in point (a) of the first subparagraph may be made only with the agreement of the requested body.
+
+5\. The officials of the requested body shall remain in charge of the control operations at all times.
+
+6\. The officials of the requesting body shall:
+
+(a) produce a written order indicating their identity and official position;
+
+(b) be accorded, without prejudice to the limits imposed by the Member State of the requested body on its own officials in carrying out the controls in question:
+
+(i) the rights of access provided for in points (a), (b) and (d) of Article 37;
+
+(ii) the right to be informed of the results of checks carried out by the officials of the requested body on the samples taken under point (c) of Article 37;
+
+(c) in the course of checks, conduct themselves in a way compatible with the rules and professional practices which officials of the Member State are expected to follow, and observe professional confidentiality.
+
+7\. The requests referred to in this Article shall be forwarded to the requested body in the Member State in question via the liaison body of that Member State. The same procedure shall apply to:
+
+(a) replies to such requests;
+
+(b) communications concerning the application of paragraphs 2 and 4.
+
+8\. Notwithstanding paragraph 7 and in the interests of quicker and more effective cooperation between them, Member States may permit a competent body to:
+
+(a) make its request or communication directly to a competent body of another Member State;
+
+(b) reply directly to requests or communications received from a competent body of another Member State.
+
+##### Article 39 — Persons subject to checks
+
+Natural or legal persons and groups of such persons whose professional activities may be the subject of the checks referred to in this Chapter shall not obstruct such checks and shall be required to facilitate them at all times.
+
+##### Article 40 — Recovery of undue payments
+
+1\. Article 7 of Implementing Regulation (EU) No 809/2014 shall apply mutatis mutandis.
+
+2\. The implementation of penalties and recovery of unduly paid amounts shall be without prejudice to the notification of irregularities to the Commission pursuant to Commission Regulation (EC) No 1848/2006 ( 8 ).
+
+### SECTION 2 — Control of specific measures
+
+##### Article 41 — Checks related to information and promotion operations
+
+1\. For operations implemented under the measures provided for in Article 45 of Regulation (EU) No 1308/2013 for which a total amount of Union contribution of EUR 300 000 or more was considered eligible following the administrative checks on the initial application for support, Member States may allow beneficiaries to submit a certificate on the financial statements accompanying interim or final payment claims covering an amount of Union contribution of EUR 150 000 or more.
+
+Member States may establish lower thresholds where there is evidence that such control method does not increase the risk for the Union funds.
+
+The certificate shall be produced by an approved external auditor and shall provide adequate evidence on the eligibility and reality of the costs proposed, against the following criteria:
+
+(a) they are actually incurred by the beneficiary or by the organising body to which the beneficiary has entrusted the implementation of the information or promotion operation or parts of it;
+
+(b) they correspond to the costs considered as eligible by the competent authority following the administrative checks on the initial application for support;
+
+(c) they are necessary for the implementation of the operation as approved by the competent authority;
+
+(d) they are identifiable and verifiable, for example being recorded in the accounting records of the beneficiary or of the organising body and determined according to the applicable accounting standards of the Member State where the beneficiary or the organising body is established;
+
+(e) they comply with the requirements of the applicable tax and social legislation;
+
+(f) they are reasonable, justified, and comply with the principle of sound financial management, in particular regarding economy and efficiency.
+
+2\. Beneficiaries shall submit copies of all invoices and supporting documents proving the eligibility and reality of the costs where the certificate referred to in paragraph 1 is not produced.
+
+3\. During the administrative checks on payment claims, Member States shall systematically verify the documents submitted against the costs considered as eligible following the administrative checks on the initial application for support and the other criteria listed in paragraph 1.
+
+Where beneficiaries produce a certificate on the financial statement, administrative checks may be carried out on that certificate. However, where the administrative review of the certificate on the financial statement does not provide adequate evidence on the eligibility and reality of the costs and the respect of the criteria listed in paragraph 1, Member States shall request any additional information deemed necessary and carry out further checks if necessary.
+
+4\. On-the-spot checks on information and promotion operations may be carried out at the premises of the beneficiary or of the organising body to which the beneficiary has entrusted the implementation of the information or promotion operation or parts of it.
+
+On-the-spot checks shall aim at the verification of the reality and eligibility of the expenditure and shall consist in the examination of the submitted invoices and supporting documents against the accounting registers and, where relevant, other supporting documents.
+
+During the on-the-spot checks, the inspectors may verify a sample covering at least 30 % of the amount of support claimed and at least 5 % of all invoices or other supporting documents submitted or covered by a certificate on the financial statement produced until the time when the on-the-spot check is carried out.
+
+##### Article 42 — Checks related to operations for the restructuring and conversion of vineyards
+
+1\. In order to verify compliance with the provisions relating to support for operations for the restructuring and conversion of vineyards provided for in Article 46 of Regulation (EU) No 1308/2013, Member States shall make use of the vineyard register.
+
+Member States shall lay down rules on the procedures for monitoring the implementation of each action within the financial year and the area stated in the application for support in application of Article 13 of Delegated Regulation (EU) 2016/1149.
+
+2\. The verification that the grubbing-up as an action for the restructuring and conversion of vineyard has actually taken place, shall be carried out by an on-the-spot check. In the case of grubbing-up of the entire vineyard parcel or if the resolution of the remote sensing is equal to or higher than 1 m2, the verification may be carried out by remote sensing.
+
+3\. Areas receiving support for operations for the restructuring and conversion of vineyards shall be systematically verified before and after the execution of the operations. The parcels to be checked shall be those for which an application for support has been submitted.
+
+The verification before the operations shall also cover the verification of the existence of the vineyard concerned, the area planted determined in accordance with Article 44 of this Regulation and the exclusion of the normal renewal of vineyards as provided for in the second subparagraph of Article 46(3) of Regulation (EU) No 1308/2013.
+
+The verification referred to in the second subparagraph shall be carried out by an on-the-spot check. However, if the Member State disposes of a graphical tool or an equivalent instrument that allows measurement of the area planted in accordance with Article 44 of this Regulation in the computerised vineyard register, and reliable updated information about the planted grape wine varieties, the verification may be carried out by administrative checks and, consequently, the obligation to carry out an on-the-spot check before the execution of the operations may be limited to 5 % of the applications, selected in accordance with Article 34 of this Regulation, in order to confirm the reliability of the administrative control system.
+
+Should such an on-the-spot check reveal significant irregularities or discrepancies in a region or part of a region, the competent authority shall increase the number of on-the-spot checks appropriately during the year concerned.
+
+##### Article 43 — Checks related to green harvesting operations
+
+1\. In relation to the green harvesting operations under Article 47 of Regulation (EU) No 1308/2013, Member States shall ensure that:
+
+(a) areas receiving green harvesting support are systematically checked on the spot after the execution;
+
+(b) the parcels checked shall be those which are the subject of an application for support;
+
+(c) the deadline for carrying out the green harvesting operations as referred to in Article 8(d) of this Regulation has been respected;
+
+(d) the green harvesting measure is carried out correctly by checking whether an operation is performed successfully.
+
+2\. By the checks referred to in paragraph 1 Member States shall verify:
+
+(a) the existence of the vineyard concerned and whether the given area has been properly tended;
+
+(b) that all bunches have been totally removed or destroyed;
+
+(c) which method has been used.
+
+3\. In order to ensure that no more marketable grapes are left in the supported parcel, all checks shall take place by 31 July of each year and, in any case, they shall be completed by the normal time of Veraison (Baggiolini stage M, BBCH stage 83) in any given area.
+
+4\. For the purposes of the checks provided for in paragraphs 1, 2 and 3, each applicant for support for green harvesting shall keep evidence of the costs of the relevant operation or of any activities carried out.
+
+##### Article 44 — Area planted
+
+1\. For the purposes of the measures provided for in Articles 46 and 47 of Regulation (EU) No 1308/2013 respectively, an area planted with vines is defined by the external perimeter of the vine stocks with the addition of a buffer whose width corresponds to half of the distance between the rows. The area planted shall be determined in accordance with Article 38(2) of Implementing Regulation (EU) No 809/2014.
+
+2\. Where a Member State decides to verify the eligible costs of operations for the restructuring and conversion of vineyards and green harvesting exclusively on the basis of standard scales of unit costs based on measurement units different from the surface or of supporting documents to be submitted by the beneficiaries in compliance with the second subparagraph of Article 44(1) of Delegated Regulation (EU) 2016/1149, the competent authorities may decide not to measure the area planted as set out in paragraph 1 of this Article.
+
+##### Article 45 — Verification of conditions for by-product distillation
+
+In relation to the measure provided for in Article 52 of Regulation (EU) No 1308/2013, the competent authorities of the Member States shall carry out all necessary checks to verify the respect of the conditions and the limit provided for in Article 42 of Delegated Regulation (EU) 2016/1149 in conjunction with Article 52(5) of Regulation (EU) No 1308/2013. Member States may verify the respect of that limit at the level of each producer or at national level.
+
+Member States which opt for verification at national level shall not include in the alcohol balance the quantities which are not intended for distillation, nor those which are intended for the development of products other than alcohol for industrial or energy purposes.
+
+##### Article 46 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**National support programme 2014-2018**
+
+<table>
+<tbody><tr><td>Financial years 2014-2018</td><td>Member State(1):</td></tr>
+<tr><td>Date of notification(2):</td><td>Revision number:</td></tr>
+<tr><td colspan="2">Reason: modification requested by the Commission/modification requested by the Member State(3)</td></tr>
+<tr><td colspan="2">(1)  Publications Office acronym to be used.  (2)  Notification deadline: 1 March and 30 June.  (3)  Strike through the element that is not applicable. </td></tr>
+</tbody>
+</table>
+
+**A. Description of the measures proposed as well as their quantified objectives**
+
+(1)
+
+(a) Information in the Member States in accordance with point (a) of Article 45(1) of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(xii) State aid: yes/no, if yes: maximum rate and conditions:
+
+(b) Promotion in third countries in accordance with point (b) of Article 45(1) of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(xii) State aid: yes/no, if yes: maximum rate and conditions:
+
+(2)
+
+(a) Restructuring and conversion of vineyards in accordance with points (a), (b) and (d) of Article 46(3) of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs/contributions in kind: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(b) Replanting of vineyards for health or phytosanitary reasons in accordance with point (c) of Article 46(3) of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs/contributions in kind: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(3) Green harvesting in accordance with Article 47 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs/contributions in kind: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(4) Mutual funds in accordance with Article 48 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(5) Harvest insurance in accordance with Article 49 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(xii) State aid: yes/no, if yes: maximum rate and conditions:
+
+(6) Investments in accordance with Article 50 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(xii) State aid: yes/no, if yes: maximum rate and conditions:
+
+(7) Innovation in the wine sector in accordance with Article 51 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(8) By-product distillation in accordance with Article 52 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed (including level of the support):
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+B. Results of consultations held:
+
+C. Overall strategy:
+
+D. Appraisal showing the expected technical, economic, environmental and social impact:
+
+E. Schedule for implementing the measures:
+
+F. General financing table given in the format of Annex II (revision number to be specified):
+
+G. Strategic objectives, indicators and quantified targets to be used for monitoring and evaluation:
+
+H. Steps taken to ensure that the programme is implemented appropriately and effectively:
+
+I. Designation of competent authorities and bodies responsible for implementing the programme:
+
+J. Internet site where the national legislation related to the support programme is publicly available:
+
+## ANNEX Ia
+
+**National support programme 2019-2023**
+
+<table>
+<tbody><tr><td>Financial years 2019-2023</td><td>Member State(1):</td></tr>
+<tr><td>Date of notification(2):</td><td>Revision number:</td></tr>
+<tr><td colspan="2">Reason: modification requested by the Commission/modification requested by the Member State(3)</td></tr>
+<tr><td colspan="2">(1)  Publications Office acronym to be used.  (2)  Notification deadline: 1 March and 30 June.  (3)  Strike through the element that is not applicable. </td></tr>
+</tbody>
+</table>
+
+**A. Description of the measures proposed as well as their quantified objectives**
+
+(1)
+
+(a) Information in the Member States in accordance with point (a) of Article 45(1) of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(xii) State aid: yes/no, if yes: maximum rate and conditions:
+
+(b) Promotion in third countries in accordance with point (b) of Article 45(1) of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(xii) State aid: yes/no, if yes: maximum rate and conditions:
+
+(2)
+
+(a) Restructuring and conversion of vineyards in accordance with points (a), (b) and (d) of Article 46(3) of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs/contributions in kind: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(b) Replanting of vineyards for health or phytosanitary reasons in accordance with point (c) of Article 46(3) of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs/contributions in kind: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(3) Green harvesting in accordance with Article 47 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vi) Application of standard scales of unit costs/contributions in kind: yes/no
+
+— if yes: information on the method of calculation and annual adaptation:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(4) Mutual funds in accordance with Article 48 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(5) Harvest insurance in accordance with Article 49 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(xii) State aid: yes/no, if yes: maximum rate and conditions:
+
+(6) Investments in accordance with Article 50 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(xii) State aid: yes/no, if yes: maximum rate and conditions:
+
+(7) Innovation in the wine sector in accordance with Article 51 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed:
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(vii) Priority criteria and respective weighting:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+(xi) Demarcation with other Union or national schemes and verification system implemented to avoid double funding:
+
+(8) By-product distillation in accordance with Article 52 of Regulation (EU) No 1308/2013:
+
+Introduced in the support programme: yes/no — if yes:
+
+Description of the measures proposed (including level of the support):
+
+(i) Proposed strategy and quantified objectives:
+
+(ii) Beneficiaries:
+
+(iii) Application procedure:
+
+(iv) Eligibility criteria:
+
+(v) Eligible/non eligible costs:
+
+(viii) Selection procedure:
+
+(ix) Deadlines for the payments to beneficiaries:
+
+(x) Advances: yes/no, if yes: maximum rate and conditions:
+
+B. Results of consultations held:
+
+C. Overall strategy:
+
+D. Appraisal showing the expected technical, economic, environmental and social impact:
+
+E. Schedule for implementing the measures:
+
+F. General financing table given in the format of Annex II (revision number to be specified):
+
+G. Strategic objectives, indicators and quantified targets to be used for monitoring and evaluation:
+
+H. Steps taken to ensure that the programme is implemented appropriately and effectively:
+
+I. Designation of competent authorities and bodies responsible for implementing the programme:
+
+J. Internet site where the national legislation related to the support programme is publicly available:
+
+## ANNEX II
+
+**Financial allocation of the national support programme 2014-2018 ( 9 )**
+
+<table>
+<tbody><tr><td colspan="9">(in 1 000 EUR)</td></tr>
+<tr><td colspan="9">Member State(*1):</td></tr>
+<tr><td colspan="3">Date of notification(*2):</td><td colspan="6">Date of previous notification:</td></tr>
+<tr><td colspan="9">Number of this amended table: Reason: modification requested by the Commission/modification requested by the Member State(*3) </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td colspan="5">Financial year</td><td>  </td></tr>
+<tr><td>Measures</td><td>Regulation (EU) No 1308/2013</td><td>  </td><td>2014</td><td>2015</td><td>2016</td><td>2017</td><td>2018</td><td>Total</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8)</td><td>(9)</td></tr>
+<tr><td rowspan="2">1.a. — Information in the Member States</td><td rowspan="2">Article 45(1)(a)</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">1.b. — Promotion in third countries</td><td rowspan="2">Article 45(1)(b)</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">2.a. — Restructuring and conversion of vineyards</td><td rowspan="2">Article 46(3)(a),(b),(d)</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">2.b. — Replanting of vineyards for health or phytosanitary reasons</td><td rowspan="2">Article 46(3)(c)</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">3. — Green harvesting</td><td rowspan="2">Article 47</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">4. — Mutual funds</td><td rowspan="2">Article 48</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">5. — Harvest insurance</td><td rowspan="2">Article 49</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">6. — Investments</td><td rowspan="2">Article 50</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">7. — Innovation in the wine sector</td><td rowspan="2">Article 51</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">8. — By-product distillation</td><td rowspan="4">Article 52</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="2">TOTAL</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(*1)  Publications Office acronym to be used.  (*2)  Notification deadline: 30 June.  (*3)  Strike through the element that is not applicable. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IIa
+
+**Financial allocation of the national support programme 2019-2023 ( 10 )**
+
+<table>
+<tbody><tr><td colspan="9">(in 1 000 EUR)</td></tr>
+<tr><td colspan="9">Member State(*1):</td></tr>
+<tr><td colspan="3">Date of notification(*2):</td><td colspan="6">Date of previous notification:</td></tr>
+<tr><td colspan="9">Number of this amended table: Reason: modification requested by the Commission/modification requested by the Member State(*3) </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td colspan="5">Financial year</td><td>  </td></tr>
+<tr><td>Measures</td><td>Regulation (EU) No 1308/2013</td><td>  </td><td>2019</td><td>2020</td><td>2021</td><td>2022</td><td>2023</td><td>Total</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8)</td><td>(9)</td></tr>
+<tr><td rowspan="2">1.a. — Information in the Member States</td><td rowspan="2">Article 45(1)(a)</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">1.b. — Promotion in third countries</td><td rowspan="2">Article 45(1)(b)</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">2.a. — Restructuring and conversion of vineyards</td><td rowspan="2">Article 46(3)(a),(b),(d)</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">2.b. — Replanting of vineyards for health or phytosanitary reasons</td><td rowspan="2">Article 46(3)(c)</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">3. — Green harvesting</td><td rowspan="2">Article 47</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">4. — Mutual funds</td><td rowspan="2">Article 48</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">5. — Harvest insurance</td><td rowspan="2">Article 49</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">6. — Investments</td><td rowspan="2">Article 50</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">7. — Innovation in the wine sector</td><td rowspan="2">Article 51</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">8. — By-product distillation</td><td rowspan="4">Article 52</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="2">TOTAL</td><td>Previous notification</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Amended amount</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(*1)  Publications Office acronym to be used.  (*2)  Notification deadline: 30 June.  (*3)  Strike through the element that is not applicable. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Reporting on the implementation of the national support programme**
+
+<table>
+<tbody><tr><td colspan="3">Financial year:</td></tr>
+<tr><td>Date of notification:</td><td>Revision number:</td><td>Member State(1):</td></tr>
+<tr><td colspan="3">(1)  Publications Office acronym to be used. </td></tr>
+</tbody>
+</table>
+
+A. Global assessment:
+
+B. Conditions and results of the implementation of measures proposed
+
+(
+
+11
+
+)
+
+(1)
+
+(a) Information in the Member States in accordance with point (a) of Article 45(1) of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results ( 12 )
+
+Realisation of the objectives set in the support programme:
+
+State aid:
+
+(b) Promotion in third countries in accordance with point (b) of Article 45(1) of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results (12)
+
+Volume of exports per destination in hl:
+
+Evolution of the part of MS wines on the foreign markets per target market:
+
+Volume of exports per destination in hl
+
+Value of exports per destination in EUR
+
+Realisation of the objectives set in the support programme:
+
+State aid:
+
+(2)
+
+(a) Restructuring and conversion of vineyards in accordance with points (a), (b) and (d) of Article 46(3) of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results:
+
+Realisation of the objectives set in the support programme:
+
+(b) Replanting of vineyards for health or phytosanitary reasons in accordance with point (c) of Article 46(3) of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results:
+
+Realisation of the objectives set in the support programme:
+
+(3) Green harvesting in accordance with Article 47 of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results, including evolution of stocks:
+
+Realisation of the objectives set in the support programme:
+
+(4) Mutual funds in accordance with Article 48 of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results:
+
+Realisation of the objectives set in the support programme:
+
+(5) Harvest insurance in accordance with Article 49 of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results:
+
+Number of hectares insured in the wine sector compared to other agricultural lands:
+
+Type of insurance financed:
+
+Expenditure by type of insurance:
+
+Number of beneficiaries by type of insurance:
+
+Realisation of the objectives set in the support programme:
+
+State aid:
+
+(6) Investments in accordance with Article 50 of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results:
+
+Realisation of the objectives set in the support programme:
+
+State aid:
+
+(7) Innovation in the wine sector in accordance with Article 51 of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation:
+
+Results:
+
+Realisation of the objectives set in the support programme:
+
+(8) By-product distillation in accordance with Article 52 of Regulation (EU) No 1308/2013:
+
+Conditions of the implementation (including level of support):
+
+Results:
+
+Realisation of the objectives set in the support programme:
+
+C. Conclusions (and, if needed, envisaged modifications)
+
+## ANNEX IV
+
+**Technical data concerning the national support programme 2014-2018 ( 13 )**
+
+<table>
+<tbody><tr><td colspan="9">(financial amounts in 1 000 EUR)</td></tr>
+<tr><td colspan="9">Member State(*1):</td></tr>
+<tr><td colspan="3">Date of notification(*2):</td><td colspan="6">Date of previous notification:</td></tr>
+<tr><td colspan="9">Number of this amended table:</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="5">Financial Year</td><td>  </td></tr>
+<tr><td rowspan="2">Measures</td><td rowspan="2">Regulation (EU) No 1308/2013</td><td>  </td><td>2014</td><td>2015</td><td>2016</td><td>2017</td><td>2018</td><td>2014-2018</td></tr>
+<tr><td>  </td><td>Execution/Forecast</td><td>Execution/Forecast</td><td>Execution/Forecast</td><td>Execution/Forecast</td><td>Execution/Forecast</td><td>Total Execution + Forecast</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>6)</td><td>(7)</td><td>(8)</td><td>(9)</td></tr>
+<tr><td rowspan="7">1.a. — Information in the Member States</td><td rowspan="7">Article 45(1)(a)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">1.b. — Promotion in third countries</td><td rowspan="7">Article 45(1)(b)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="8">2. — Restructuring and conversion of vineyards</td><td rowspan="8">Article 46</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries, where applicable</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total area covered (ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution (EUR/ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="8">2.a. — Replanting of vineyards for health or phytosanitary reasons</td><td rowspan="8">Article 46(3)(c)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries, where applicable</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total area covered (ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution (EUR/ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="8">3. — Green harvesting</td><td rowspan="8">Article 47</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries, where applicable</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total area covered (ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution (EUR/ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">4. — Mutual funds</td><td rowspan="3">Article 48</td><td>Total Union Expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of new Funds</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">5. — Harvest insurance</td><td rowspan="7">Article 49</td><td>Total Union Expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of financed insurance policies</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per insurance policy</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.a. — Investments</td><td rowspan="7">Article 50</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.b. — Investments in convergence regions</td><td rowspan="7">Article 50(4)(a)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.c. — Investments in other than convergence regions</td><td rowspan="7">Article 50(4)(b)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.d. — Investments in outermost regions</td><td rowspan="7">Article 50(4)(c)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.e. — Investments in small Aegean Islands</td><td rowspan="7">Article 50(4)(d)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="6">7. — Innovation in the wine sector</td><td rowspan="6">Article 51</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="9">8. — By-product distillation</td><td rowspan="9">Article 52</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries (distilleries)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Lees: Range of max support (EUR/%vol/hl)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Marcs: Range of max support (EUR/%vol/Ton</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Hl of Lees distilled</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Ton of marcs distilled</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Mio hl alcohol obtained</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution/Hl alc. obtained</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(*1)  Publications Office acronym to be used.  (*2)  Notification deadline: 1 March. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IVa
+
+**Technical data concerning the national support programme 2019-2023 ( 14 )**
+
+<table>
+<tbody><tr><td colspan="9">(financial amounts in 1 000 EUR)</td></tr>
+<tr><td colspan="9">Member State(*1):</td></tr>
+<tr><td colspan="3">Date of notification(*2):</td><td colspan="6">Date of previous notification:</td></tr>
+<tr><td colspan="9">Number of this amended table:</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="5">Financial Year</td><td>  </td></tr>
+<tr><td rowspan="2">Measures</td><td rowspan="2">Regulation (EU) No 1308/2013</td><td>  </td><td>2019</td><td>2020</td><td>2021</td><td>2022</td><td>2023</td><td>2019-2023</td></tr>
+<tr><td>  </td><td>Execution/Forecast</td><td>Execution/Forecast</td><td>Execution/Forecast</td><td>Execution/Forecast</td><td>Execution/Forecast</td><td>Total Execution + Forecast</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>6)</td><td>(7)</td><td>(8)</td><td>(9)</td></tr>
+<tr><td rowspan="7">1.a. — Information in the Member States</td><td rowspan="7">Article 45(1)(a)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">1.b. — Promotion in third countries</td><td rowspan="7">Article 45(1)(b)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="8">2. — Restructuring and conversion of vineyards</td><td rowspan="8">Article 46</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries, where applicable</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total area covered (ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution (EUR/ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="8">2.a. — Replanting of vineyards for health or phytosanitary reasons</td><td rowspan="8">Article 46(3)(c)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries, where applicable</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total area covered (ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution (EUR/ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="8">3. — Green harvesting</td><td rowspan="8">Article 47</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries, where applicable</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total area covered (ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution (EUR/ha)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">4. — Mutual funds</td><td rowspan="3">Article 48</td><td>Total Union Expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of new Funds</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">5. — Harvest insurance</td><td rowspan="7">Article 49</td><td>Total Union Expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of financed insurance policies</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per insurance policy</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.a. — Investments</td><td rowspan="7">Article 50</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.b. — Investments in convergence regions</td><td rowspan="7">Article 50(4)(a)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.c. — Investments in other than convergence regions</td><td rowspan="7">Article 50(4)(b)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.d. — Investments in outermost regions</td><td rowspan="7">Article 50(4)(c)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="7">6.e. — Investments in small Aegean Islands</td><td rowspan="7">Article 50(4)(d)</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total amount of State aid</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="6">7. — Innovation in the wine sector</td><td rowspan="6">Article 51</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total expenditure of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of operations</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per operation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="9">8. — By-product distillation</td><td rowspan="9">Article 52</td><td>Total Union expenditure</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Number of beneficiaries (distilleries)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution per beneficiary</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Lees: Range of max support (EUR/%vol/hl)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Marcs: Range of max support (EUR/%vol/Ton</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Hl of Lees distilled</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Ton of marcs distilled</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Mio hl alcohol obtained</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Average Union contribution/Hl alc. obtained</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(*1)  Publications Office acronym to be used.  (*2)  Notification deadline: 1 March. </td></tr>
+</tbody>
+</table>
+
+## ANNEX V
+
+**Notification on the promotion measure**
+
+**Financial year:**
+
+**1\. Information in the Member States**
+
+<table>
+<tbody><tr><td colspan="8">Member State:</td></tr>
+<tr><td colspan="8">Forecasts/execution(*1)</td></tr>
+<tr><td colspan="2">Date of notification(*2):</td><td colspan="6">Date of previous notification:</td></tr>
+<tr><td colspan="8">Number of this amended table:</td></tr>
+<tr><td>Beneficiaries</td><td>Eligible measure (Article 45(1)(a) of Regulation (EU) No 1308/2013)</td><td>Description (*3)</td><td>Targeted market</td><td>Period</td><td>Eligible expenditure (EUR) </td><td>of which Union contribution (EUR) </td><td>of which other public support if any (EUR) </td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8)</td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="8">(*1)  Strike through the element that is not applicable.  (*2)  Notification deadline: every 1 March.  (*3)  Including if the promotion measure is organised in cooperation with one or more other Member States. </td></tr>
+</tbody>
+</table>
+
+**2\. Promotion in third countries**
+
+<table>
+<tbody><tr><td colspan="8">Member State:</td></tr>
+<tr><td colspan="8">Forecasts/execution(*1)</td></tr>
+<tr><td colspan="2">Date of notification(*2):</td><td colspan="6">Date of previous notification:</td></tr>
+<tr><td colspan="8">Number of this amended table:</td></tr>
+<tr><td>Beneficiaries</td><td>Eligible measure (Article 45(1)(b) of Regulation (EU) No 1308/2013)</td><td>Description (*3)</td><td>Targeted market</td><td>Period</td><td>Eligible expenditure (EUR) </td><td>of which Union contribution (EUR) </td><td>of which other public support if any (EUR) </td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td><td>(4)</td><td>(5)</td><td>(6)</td><td>(7)</td><td>(8)</td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="8">(*1)  Strike through the element that is not applicable.  (*2)  Notification deadline: every 1 March.  (*3)  Including if the promotion measure is organised in cooperation with one or more other Member States. </td></tr>
+</tbody>
+</table>
+
+## ANNEX VI
+
+**Annual report on checks carried out**
+
+<table>
+<tbody><tr><td>Financial year:</td><td>Member State(1):</td></tr>
+<tr><td>Date of notification(2):</td><td>Measure(3):</td></tr>
+<tr><td colspan="2">(1)  Publications Office acronym to be used.  (2)  Notification deadline: 1 March.  (3)  One notification to be filled in for each measure of the support programme. </td></tr>
+</tbody>
+</table>
+
+**1\. Number of checks**
+
+<table>
+<tbody><tr><td rowspan="6">Paying agency</td><td rowspan="6">Name of the unit (1)</td><td rowspan="4">Total amount of support allocated (Budget)</td><td rowspan="4">Total amount of support claimed</td><td colspan="2" rowspan="2">Total amount of support paid</td><td rowspan="4">Number of units paid (1)</td><td rowspan="4">Total number of support applications submitted</td><td rowspan="4">Total number of support applications paid</td><td rowspan="4">Total number of beneficiaries</td><td colspan="6">CHECKS Regulation (EU) No 1306/2013 and this Regulation </td></tr>
+<tr><td colspan="2">Administrative checks Art. 59(1)</td><td colspan="4">On-the-spot checks (OTSC) (2) under Art. 59(2)</td></tr>
+<tr><td rowspan="2">(Advance payments)</td><td rowspan="2">(Final payments)</td><td rowspan="2">Total number of support applications checked</td><td rowspan="2">Total amount of the support applications checked</td><td colspan="2">Sample: risk selection (2)</td><td colspan="2">Sample: random selection (2)</td></tr>
+<tr><td>Number of support applications subject to a risk-based OTSC</td><td>Amount of support claimed and subject to a risk-based OTSC</td><td>Number of support applications subject to a random OTSC</td><td>Amount of support claimed and subject to a random OTSC</td></tr>
+<tr><td>EUR</td><td>EUR</td><td>EUR</td><td>EUR</td><td>number</td><td>number</td><td>number</td><td>number</td><td>number</td><td>EUR</td><td>number</td><td>EUR</td><td>number</td><td>EUR</td></tr>
+<tr><td>A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td><td>K</td><td>L</td><td>M</td><td>N</td></tr>
+<tr><td>PA_1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>PA_2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="16">(1)  The term ‘units’ is intended to refer to the number of operations, hectares, tons, litres, etc. according to the measure/operation/action as appropriate.  (2)  In case of 100 % checks please report everything under ‘risk-based’ OTSC. </td></tr>
+</tbody>
+</table>
+
+**2\. Results of checks**
+
+<table>
+<tbody><tr><td rowspan="6">Paying agency</td><td colspan="9">RESULTS OF THE CHECKS</td><td colspan="3" rowspan="3">Amount of support reduction Regulation (EU) No 1306/2013  Art. 64 </td></tr>
+<tr><td colspan="3">Administrative checks</td><td colspan="6">On-the-spot checks</td></tr>
+<tr><td rowspan="2">Number of aid applications with irregularities (1) detected by administrative check</td><td rowspan="2">Amount of irregularities detected by administrative check (2)</td><td rowspan="2">Error rate by amount</td><td colspan="2">Number of aid applications with irregularities</td><td colspan="2">Amount of irregularities</td><td colspan="2">Error rate</td></tr>
+<tr><td>Detected on risk-based sample</td><td>Detected on random based sample</td><td>Detected on risk-based sample</td><td>Detected on random based sample</td><td>Risk</td><td>Random</td><td>From administrative checks</td><td>From on-the-spot checks</td><td>Total support reduction from administrative and on-the-spot checks</td></tr>
+<tr><td>number</td><td>EUR</td><td>%</td><td>number</td><td>number</td><td>EUR</td><td>EUR</td><td>%</td><td>%</td><td>EUR</td><td>EUR</td><td>EUR</td></tr>
+<tr><td>O</td><td>P</td><td>Q = P/J</td><td>R</td><td>S</td><td>T</td><td>U</td><td>V = T/L</td><td>W = U/N</td><td>X = P</td><td>Y = T + U</td><td>α = X + Y</td></tr>
+<tr><td>PA_1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>PA_2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="13">(1)  In this context, the term ‘irregularity’ is intended to include any finding, anomaly or divergences leading to a change in the amount paid, or which would have been paid before the application of penalties  (2)    — If the administrative check detects an irregularity, and the same support claim is also the subject of an OTSC which finds no further irregularity, the irregularity must be attributed to the administrative check.  — If an administrative check detects a suspected irregularity, and an OTSC is then scheduled in order to investigate further, and the OTSC confirms the suspected irregularity, it must be attributed to the administrative check.  — If an administrative check detects an irregularity, and an OTSC on the same support claim finds an additional irregularity, the two irregularities must be counted separately. </td></tr>
+</tbody>
+</table>
+
+## ANNEX VII
+
+**Information on State aid**
+
+**on State aid already authorised under Articles 107, 108 and 109 of the Treaty, on State aid exempted from any notification obligation or on the use of a de minimis scheme ( 15 )**
+
+<table>
+<tbody><tr><td colspan="4">Member State(*1):</td></tr>
+<tr><td colspan="4">Region(s) concerned(if applicable):</td></tr>
+<tr><td colspan="4">Date of notification(*2):</td></tr>
+<tr><td>Measure code</td><td>Name of the aid measure</td><td>Legal basis of the measure</td><td>Duration of the aid measure</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">(*1)  OP acronym to be used.  (*2)  Notification deadline: every 1 March. </td></tr>
+</tbody>
+</table>
+
+Indicate respectively:
+
+— for measures covered by a de minimis Regulation: ‘Any aid granted under this measure will be in conformity with Regulation (EU) No 1407/2013 (processing and marketing of agricultural products) or Regulation (EU) No 1408/2013 (primary production)’ ( 16 ),
+
+— for aid exempted from notification: reference to the registration number (SA number),
+
+— for authorised aid: reference to Commission State aid approval decision, including State aid number (SA number) and references of approval letter.
+
+( 1 ) Commission Regulation (EU) No 702/2014 of 25 June 2014 declaring certain categories of aid in the agricultural and forestry sectors and in rural areas compatible with the internal market in application of Articles 107 and 108 of the Treaty on the Functioning of the European Union (OJ L 193, 1.7.2014, p. 1).
+
+( 2 ) Commission Regulation (EU) No 1407/2013 of 18 December 2013 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to de minimis aid (OJ L 352, 24.12.2013, p. 1).
+
+( 3 ) Commission Regulation (EU) No 1408/2013 of 18 December 2013 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to de minimis aid in the agriculture sector (OJ L 352, 24.12.2013, p. 9).
+
+( 4 ) Council Regulation (EU) 2015/1588 of 13 July 2015 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to certain categories of horizontal State aid (OJ L 248, 24.9.2015, p. 1).
+
+( 5 ) Commission Delegated Regulation (EU) No 907/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro (OJ L 255, 28.8.2014, p. 18).
+
+( 6 ) Regulation (EU) No 1337/2011 of the European Parliament and of the Council of 13 December 2011 concerning European statistics on permanent crops and repealing Council Regulation (EEC) No 357/79 and Directive 2001/109/EC of the European Parliament and of the Council (OJ L 347, 30.12.2011, p. 7).
+
+( 7 ) Commission Implementing Regulation (EU) No 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance (OJ L 227, 31.7.2014, p. 69).
+
+( 8 ) Commission Regulation (EC) No 1848/2006 of 14 December 2006 concerning irregularities and the recovery of sums wrongly paid in connection with the financing of the common agricultural policy and the organisation of an information system in this field and repealing Council Regulation (EEC) No 595/91 (OJ L 355, 15.12.2006, p. 56).
+
+( 9 ) The amounts also include the expenses of operations launched in the framework of the previous five-year programme 2009-2013 and for which payment is done in the third five-year programme 2014-2018.
+
+( 10 ) The amounts also include the expenses of operations launched in the framework of the previous five-year programme 2014-2018 and for which payment is done in the third five-year programme 2019-2023.
+
+( 11 ) Only points concerning the measures which were introduced in the support programme must be filled in.
+
+( 12 ) Appraisal of the technical, economic, environmental and social impact based on criteria and quantitative indicators defined for monitoring and evaluation in the notified programme.
+
+( 13 ) Insert execution data for financial years already incurred and forecast data for the current financial year and those to come.
+
+( 14 ) Insert execution data for financial years already incurred and forecast data for the current financial year and those to come.
+
+( 15 ) Notification referred to in Article 20(1) (Notification related to State aid).
+
+( 16 ) Please indicate which Regulation is applicable.

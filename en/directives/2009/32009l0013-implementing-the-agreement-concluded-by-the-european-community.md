@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **implementing the Agreement concluded by the European Community Shipowners’ Associations (ECSA) and the European Transport Workers’ Federation (ETF) on the Maritime Labour Convention, 2006, and amending Directive 1999/63/EC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2018/131 of 23 January 2018 </td><td> L 22</td><td>28</td><td>26.1.2018</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2009/13/EC**
 

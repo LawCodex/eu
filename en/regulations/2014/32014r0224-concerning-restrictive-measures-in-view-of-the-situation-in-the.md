@@ -1,0 +1,965 @@
+---
+title: "Council Regulation (EU) No 224/2014 of 10 March 2014 concerning restrictive measures in view of the situation in the Central African Republic"
+identifier: "32014R0224"
+eli: "http://data.europa.eu/eli/reg/2014/224/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-03-10
+entry_into_force: 2014-07-05
+last_amended: 2025-03-26
+consolidated_version: "02014R0224-20250326"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0224-20250326"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) No 224/2014 of 10 March 2014 concerning restrictive measures in view of the situation in the Central African Republic
+
+**COUNCIL REGULATION (EU) No 224/2014**
+
+**of 10 March 2014**
+
+**concerning restrictive measures in view of the situation in the Central African Republic**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 691/2014 of 23 June 2014 </td><td> L 183</td><td>6</td><td>24.6.2014</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) No 1276/2014 of 1 December 2014 </td><td> L 346</td><td>19</td><td>2.12.2014</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2015/324 of 2 March 2015 </td><td> L 58</td><td>39</td><td>3.3.2015</td></tr>
+<tr><td> M4</td><td> COUNCIL REGULATION (EU) 2015/734 of 7 May 2015 </td><td> L 117</td><td>11</td><td>8.5.2015</td></tr>
+<tr><td> M5</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2015/1485 of 2 September 2015 </td><td> L 229</td><td>1</td><td>3.9.2015</td></tr>
+<tr><td> M6</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2015/2454 of 23 December 2015 </td><td> L 339</td><td>36</td><td>24.12.2015</td></tr>
+<tr><td> M7</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2016/354 of 11 March 2016 </td><td> L 67</td><td>18</td><td>12.3.2016</td></tr>
+<tr><td> M8</td><td> COUNCIL REGULATION (EU) 2016/555 of 11 April 2016 </td><td> L 96</td><td>1</td><td>12.4.2016</td></tr>
+<tr><td> M9</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2016/1442 of 31 August 2016 </td><td> L 235</td><td>1</td><td>1.9.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2017/400 of 7 March 2017 </td><td> L 63</td><td>1</td><td>9.3.2017</td></tr>
+<tr><td> M11</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/890 of 24 May 2017 </td><td> L 138</td><td>1</td><td>25.5.2017</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/906 of 29 May 2017 </td><td> L 139</td><td>2</td><td>30.5.2017</td></tr>
+<tr><td> M13</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2017/1090 of 20 June 2017 </td><td> L 158</td><td>1</td><td>21.6.2017</td></tr>
+<tr><td> M14</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/325 of 5 March 2018 </td><td> L 63</td><td>3</td><td>6.3.2018</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2018/387 of 12 March 2018 </td><td> L 69</td><td>9</td><td>13.3.2018</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2018/698 of 8 May 2018 </td><td> L 117I</td><td>1</td><td>8.5.2018</td></tr>
+<tr><td> M17</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/757 of 13 May 2019 </td><td> L 125</td><td>1</td><td>14.5.2019</td></tr>
+<tr><td> M18</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2019/1574 of 20 September 2019 </td><td> L 243</td><td>1</td><td>23.9.2019</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2019/1735 of 17 October 2019 </td><td> L 265</td><td>1</td><td>18.10.2019</td></tr>
+<tr><td> M21</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/582 of 28 April 2020d</td><td> L 137</td><td>1</td><td>29.4.2020</td></tr>
+<tr><td> M22</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/717 of 28 May 2020 </td><td> L 168</td><td>61</td><td>29.5.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1171 of 7 August 2020 </td><td> L 260</td><td>1</td><td>10.8.2020</td></tr>
+<tr><td> M24</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/1194 of 12 August 2020 </td><td> L 266I</td><td>1</td><td>13.8.2020</td></tr>
+<tr><td> M25</td><td> COUNCIL REGULATION (EU) 2020/1311 of 21 September 2020 </td><td> L 308</td><td>1</td><td>22.9.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/628 of 16 April 2021 </td><td> L 132</td><td>1</td><td>19.4.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/707 of 29 April 2021 </td><td> L 147</td><td>3</td><td>30.4.2021</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2021/1819 of 18 October 2021 </td><td> L 369</td><td>1</td><td>19.10.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/21 of 10 January 2022 </td><td> L 5I</td><td>1</td><td>10.1.2022</td></tr>
+<tr><td> M30</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td> M31</td><td> COUNCIL REGULATION (EU) 2022/1621 of 20 September 2022 </td><td> L 244</td><td>1</td><td>21.9.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/331 of 14 February 2023 </td><td> L 47</td><td>1</td><td>15.2.2023</td></tr>
+<tr><td> M33</td><td> COUNCIL REGULATION (EU) 2023/2506 of 9 November 2023 </td><td> L 2506</td><td>1</td><td>10.11.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2025/610 of 24 March 2025 </td><td> L 610</td><td>1</td><td>25.3.2025</td></tr>
+</table>
+
+**COUNCIL REGULATION (EU) No 224/2014**
+
+**of 10 March 2014**
+
+**concerning restrictive measures in view of the situation in the Central African Republic**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘brokering services’ means:
+
+(i) the negotiation or arrangement of transactions for the purchase, sale or supply of goods and technology or of financial and technical services, from a third country to any other third country, or
+
+(ii) the selling or buying of goods and technology or of financial and technical services that are located in a third country for their transfer to another third country;
+
+(b) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, including in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(c) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose, ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(d) ‘competent authorities’ means the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(e) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds, but may be used to obtain funds, goods or services;
+
+(f) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(g) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(h) ‘funds’ means financial assets and benefits of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly- and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale; and
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(i) ‘Sanctions Committee’ means the Committee of the United Nations Security Council which was established pursuant to paragraph 57 of United Nations Security Council Resolution UNSCR 2127 (2013);
+
+(j) ‘technical assistance’ means any technical support related to repairs, development, manufacture, assembly, testing, maintenance, or any other technical service, and may take forms such as instruction, advice, training, transmission of working knowledge or skills or consulting services, including verbal forms of assistance;
+
+(k) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace;
+
+(l) ‘financing or financial assistance’ means any action, irrespective of the particular means chosen, whereby the natural or legal person, entity or body concerned, conditionally or unconditionally, disburses or commits to disburse its own funds or economic resources, including but not limited to grants, loans, guarantees, suretyships, bonds, letters of credit, supplier credits, buyer credits, import or export advances and all types of insurance and reinsurance, including export credit insurance. Payment as well as terms and conditions of payment of the agreed price for a good or a service, made in line with normal business practice, do not constitute financing or financial assistance.
+
+## Article 2
+
+1\. It shall be prohibited to sell, supply, transfer or export, directly or indirectly, the goods and technology listed in the Common Military List of the European Union ( 1 ) (“the Common Military List”), as well as firearms, their parts and essential components, and ammunition as defined in Regulation (EU) No 258/2012 of the European Parliament and of the Council ( 2 ), whether originating or not in the Union, to armed groups and associated individuals operating in the Central African Republic.
+
+2\. It shall be prohibited to provide, directly or indirectly:
+
+(a) technical assistance or brokering services related to the goods and technology listed in the Common Military List or firearms, their parts and essential components, and ammunition as defined in Regulation (EU) No 258/2012, or related to the provision, manufacture, maintenance and use of such items, to armed groups and associated individuals operating in the Central African Republic;
+
+(b) financing or financial assistance related to the sale, supply, transfer or export of goods and technology listed in the Common Military List or firearms, their parts and essential components, and ammunition as defined in Regulation (EU) No 258/2012, or any provision of related technical assistance or brokering services to armed groups and associated individuals operating in the Central African Republic.
+
+## Article 5
+
+1\. All funds and economic resources belonging to, owned, held or controlled by any natural or legal person, entity or body listed in Annex I shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of any natural or legal person, entity or body listed in Annex I.
+
+3\. Annex I shall include natural or legal persons, entities and bodies identified by the Sanctions Committee as:
+
+(a) engaging in or providing support for acts that undermine the peace, stability or security of the Central African Republic, including acts that threaten or impede the stabilization and reconciliation process or that fuel violence;
+
+(b) acting in violation of the arms embargo established in paragraph 54 of UNSCR 2127 (2013), or having directly or indirectly supplied, sold, or transferred to armed groups or criminal networks in the Central African Republic, or having been the recipient of arms or any related materiel, or any technical advice, training, or assistance, including financing and financial assistance, related to violent activities of armed groups or criminal networks in the Central African Republic;
+
+(c) involved in planning, directing, or committing acts in the Central African Republic that violate international human rights law or international humanitarian law, as applicable, or that constitute human rights abuses or violations, including those involving targeting of civilians, ethnic- or religious-based attacks, attacks on civilian objects, including administrative centres, courthouses, schools and hospitals, and abduction and forced displacement;
+
+(d) being involved in planning, directing, or committing acts involving sexual and gender-based violence in the Central African Republic;
+
+(e) recruiting or using children in armed conflict in the Central African Republic, in violation of applicable international law;
+
+(f) providing support for armed groups or criminal networks through the illicit exploitation or trade of natural resources, including diamonds, gold and wildlife, as well as wildlife products, in or from the Central African Republic;
+
+(g) obstructing the delivery of humanitarian assistance to the Central African Republic, or access to, or distribution of, humanitarian assistance in the Central African Republic;
+
+(h) involved in planning, directing, sponsoring, or conducting attacks against United Nations missions or international security presences, including MINUSCA, the Union missions and the French forces which support them, as well as against humanitarian personnel;
+
+(i) being leaders of an entity designated by the Sanctions Committee, or having provided support to, or having acted for or on behalf of or at the direction of, a person, entity or body designated by the Sanctions Committee, or an entity owned or controlled by a designated person, entity or body;
+
+(j) committing acts of incitement to violence, in particular on an ethnic or religious basis, that undermine the peace, stability or security of the Central African Republic, and then engaging in or providing support for acts that undermine the peace, stability or security of the Central African Republic;
+
+(k) involved in planning, directing, sponsoring or committing acts in the CAR that violate international humanitarian law, including attacks against medical personnel or humanitarian personnel.
+
+4\. Paragraphs 1 and 2 shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations, including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the United Nations General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the United Nations Humanitarian Response Plans, Refugee Response Plans, other United Nations appeals or humanitarian clusters coordinated by the United Nations Office for the Coordination of Humanitarian Affairs (OCHA);
+
+(e) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (d) while and to the extent that they are acting in those capacities; or
+
+(f) appropriate other actors as determined by the Sanctions Committee.
+
+## Article 6
+
+By way of derogation from Article 5, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, provided that the following conditions are met:
+
+(a) the competent authority concerned has determined that the funds or economic resources are:
+
+(i) necessary to satisfy the basic needs of a natural or legal person, entity or body listed in Annex I, and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(ii) intended exclusively for payment of reasonable professional fees or the reimbursement of incurred expenses associated with the provision of legal services; or
+
+(iii) intended exclusively for payment of fees or service charges for routine holding or maintenance of frozen funds or economic resources; and
+
+(b) the Member State concerned has notified the Sanctions Committee of the determination referred to in point (a) and of its intention to grant an authorisation, and the Sanctions Committee has not objected to that course of action within five working days of notification.
+
+## Article 7
+
+By way of derogation from Article 5, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, provided that the competent authority concerned has determined that the funds or economic resources are necessary for extraordinary expenses, and provided that the Member State concerned has notified the Sanctions Committee of that determination and the Sanctions Committee has approved it.
+
+## Article 8
+
+By way of derogation from Article 5, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources where the following conditions are met:
+
+(a) the funds or economic resources in question are the subject of a judicial, administrative or arbitral lien established prior to the date on which the person, entity or body referred to in Article 5 was listed in Annex I, or of a judicial, administrative or arbitral judgment handed down prior to that date;
+
+(b) the funds or economic resources in question will be used exclusively to satisfy claims secured by such a lien or recognised as valid in such a judgment, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the lien or judgment is not for the benefit of a natural or legal person, entity or body listed in Annex I;
+
+(d) recognition of the lien or judgment is not contrary to public policy in the Member State concerned; and
+
+(e) the Sanctions Committee has been notified by the Member State of the lien or judgment.
+
+## Article 9
+
+By way of derogation from Article 5, and provided that a payment by a natural or legal person, entity or body listed in Annex I is due under a contract or agreement that was concluded by, or under an obligation that arose for, the natural or legal person, entity or body concerned, before the date on which that natural or legal person, entity or body had been designated by the UN Security Council or the Sanctions Committee, the competent authorities of the Member States may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources shall be used for a payment by a natural or legal person, entity or body listed in Annex I;
+
+(b) the payment is not in breach of Article 5(2); and
+
+(c) the Sanctions Committee has been notified by the relevant Member State of the intention to grant an authorisation 10 working days in advance.
+
+## Article 10
+
+1\. Article 5(2) shall not prevent the crediting of the frozen accounts by financial or credit institutions that receive funds transferred by third parties into the account of a natural or legal person, entity or body listed in Annex I, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the relevant competent authority about any such transaction without delay.
+
+2\. Article 5(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or that arose before the date on which the natural or legal person, entity or body referred to in Article 5 was included in Annex I; or
+
+(c) payments due under judicial, administrative or arbitral lien or judgment, as referred to in Article 8; and
+
+provided that any such interest, other earnings and payments are frozen in accordance with Article 5(1).
+
+## Article 11
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as information on accounts and amounts frozen in accordance with Article 5, to the competent authority of the Member State where they are resident or located, and shall transmit any such information, either directly or through the Member State, to the Commission; and
+
+(b) co-operate with the competent authority in any verification of such information.
+
+2\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+3\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 12
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Articles 2, 5(1) and 5(2).
+
+## Article 13
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the prohibitions laid down in this Regulation.
+
+## Article 14
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, in particular a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in Annex I;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 15
+
+1\. The Commission and the Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information in respect of:
+
+(a) funds frozen under Article 5 and authorisations granted under Articles 6, 7 and 8;
+
+(b) violation and enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 16
+
+The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 17
+
+1\. Where the United Nations Security Council or the Sanctions Committee lists a natural or legal person, entity or body and has provided a statement of reasons for the designation, the Council shall include that natural or legal person, entity or body in Annex I. The Council shall communicate its decision and the statement of reasons to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body an opportunity to present observations.
+
+2\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review its decision and inform the person, entity or body accordingly.
+
+3\. Where the United Nations decides to de-list a person, entity or body, or to amend the identifying data of a listed person, entity or body, the Council shall amend Annex I accordingly.
+
+## Article 18
+
+Annex I shall include, where available, information provided by the Security Council or by the Sanctions Committee necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include names including aliases, date and place of birth, nationality, passport and ID card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business. Annex I shall also include the date of designation by the Security Council or by the Sanctions Committee.
+
+## Article 19
+
+1\. The Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+2\. The Member States shall notify the rules referred to in paragraph 1 to the Commission without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment to them.
+
+## Article 19a
+
+1\. The Council, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) may process personal data in order to carry out their tasks under this Regulation. These tasks include:
+
+(a) as regards the Council, preparing and making amendments to Annex I;
+
+(b) as regards the High Representative, preparing amendments to Annex I;
+
+(c) as regards the Commission:
+
+(i) adding the contents of Annex I to the electronic consolidated list of persons, groups and entities subject to Union financial restrictive measures and in the interactive sanctions map, both publicly available;
+
+(ii) processing information on the impact of measures taken under this Regulation, such as the value of frozen funds and information on authorisations granted by the competent authorities.
+
+2\. The Council, the Commission and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons, only to the extent that such processing is necessary for the preparation of Annex I.
+
+3\. For the purposes of this Regulation, the Council, the Commission service listed in Annex II to this Regulation and the High Representative are designated as ‘controllers’ within the meaning of point (8) of Article 3 of Regulation (EU) 2018/1725, in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+## Article 20
+
+1\. The Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. The Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex II.
+
+2\. The Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 21
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 22
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — LIST OF PERSONS AND ENTITIES REFERRED TO IN ARTICLE 5
+
+**A. Persons**
+
+**1\. Francois Yangouvonda BOZIZÉ (alias : a) Bozize Yangouvonda b) Samuel Peter Mudde (born 16 December 1948, in Izo South Sudan)**
+
+Title: a) Former Head of State Central African Republic b) Professor
+
+Date of Birth: a) 14 October 1946 b) 16 December 1948
+
+Place of Birth: a) Mouila, Gabon b) Izo, South Sudan
+
+Nationality: a) Central African Republic b) South Sudan
+
+Passport no: D00002264, issued on 11 June 2013 (issued by the Minister of Foreign Affairs, in Juba, South Sudan. Expires on 11 June 2017. Diplomatic passport issued under name Samuel Peter Mudde)
+
+National identification no: M4800002143743 (Personal number on passport)
+
+Address: a) Uganda b) Bangui, Central African Republic (since his return from Uganda in December 2019)
+
+Date of UN designation: 9 May 2014
+
+Other information: Mother’s name is Martine Kofio. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Bozize was listed on 9 May 2014 pursuant to paragraph 36 of resolution 2134 (2014) as ‘engaging in or providing support for acts that undermine the peace, stability or security of CAR’.
+
+**Additional information**
+
+In liaison with his supporters, Bozize encouraged the attack of 5 December 2013 on Bangui. Since then, he has continued trying to run destabilization operations in order to maintain tensions in the capital of CAR. Bozize reportedly created the anti-Balaka militia group before he fled the CAR on March 24, 2013. In a communique, Bozize called on his militia to pursue the atrocities against the current regime and the Islamists. Bozize reportedly provided financial and material support to militiamen who are working to destabilize the ongoing transition and to bring Bozize back to power. The bulk of the anti-Balaka are from the Central African Armed Forces who dispersed into the countryside after the coup d'état and were subsequently reorganized by Bozize. Bozize and his supporters control more than half the anti-Balaka units.
+
+Forces loyal to Bozize were armed with assault rifles, mortars and rocket-launchers and they have become increasingly involved in reprisal attacks against CAR's Muslim population. The situation in CAR deteriorated rapidly after the December 5, 2013, attack in Bangui by anti-Balaka forces that left over 700 people dead.
+
+**2\. Nourredine ADAM (alias: a) Nureldine Adam; b) Nourreldine Adam; c) Nourreddine Adam; d) Mahamat Nouradine Adam); e) Mohamed Adam Brema Abdallah**
+
+Designation: a) General b) Minister for Security c) Director-General of the ‘Extraordinary Committee for the Defence of Democratic Achievements’
+
+Date of birth: a) 1970 b) 1969 c) 1971 d) 1 January 1970 e) 1 January 1971
+
+Place of birth: a) Ndele, Central African Republic b) Algenana, Sudan
+
+Nationality: a) Central African Republic b) Sudan
+
+Passport no: a) D00001184 (CAR passport) b) no: P04838205, issued on 10 June 2018, (issued in Bahri, Sudan. Expires on 9 June 2023. Passport issued under the name of Mohamed Adam Brema Abdallah)
+
+National identification no: a) 202-2708-8368 (Sudan)
+
+Address: a) Birao, Central African Republic b) Sudan
+
+Date of UN designation: 9 May 2014
+
+Other information: INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Nourredine was listed on 9 May 2014 pursuant to paragraph 36 of Resolution 2134 (2014) as ‘engaging in or providing support for acts that undermine the peace, stability or security of CAR’.
+
+Additional information
+
+Noureddine is one of the original leaders of the Seleka. He has been identified as both a General and the President of one of the armed rebel groups of the Seleka, the Central PJCC, a group formally known as the Convention of Patriots for Justice and Peace and whose acronym is also acknowledged as CPJP. As former head of the ‘Fundamental’ splinter group of the Convention of Patriots for Justice and Peace (CPJP/F), he was the military coordinator of the ex-Séléka during offensives in the former rebellion in the Central African Republic between early December 2012 and March 2013. Without Noureddine's assistance and close relationship with Chadian Special Forces, the Seleka would likely have been unable to wrest power from former CAR President Francois Bozize.
+
+Since the appointment as interim president of Catherine Samba-Panza on 20 January 2014, he was one of the main architects of the ex-Séléka's tactical withdrawal in Sibut with the aim of implementing his plan to create a Muslim stronghold in the north of the country. He had clearly urged his forces to resist the injunctions of the transitional government and of the military leaders of the African-led International Support Mission in the Central African Republic (MISCA). Noureddine actively directs ex-Seleka, the former Seleka forces that were reportedly dissolved by Djotodia in September 2013, and directs operations against Christian neighbourhoods and continues to provide significant support and direction to the ex-Seleka operating in CAR.
+
+Nourredine was also listed on 9 May 2014 pursuant to paragraph 37(b) of Resolution 2134 (2014) as ‘involved in planning, directing, or committing acts that violate international human rights law or international humanitarian law, as applicable’.
+
+After the Séléka took control of Bangui on 24 March 2013, Nourredine Adam was appointed Minister for Security, then Director-General of the ‘Extraordinary Committee for the Defence of Democratic Achievements’ (Comité extraordinaire de défense des acquis démocratiques- CEDAD, a now-defunct CAR intelligence service). Nourredine Adam used the CEDAD as his personal political police, carrying out many arbitrary arrests, acts of torture and summary executions. In addition, Noureddine was one of the key figures behind the bloody operation in Boy Rabe. In August 2013, Seleka forces stormed Boy Rabe, a CAR neighbourhood regarded as a bastion of Francois Bozize supporters and his ethnic group. Under the pretext of looking for arms caches, Seleka troops reportedly killed scores of civilians and went on a rampage of looting. When these raids spread to other quarters, thousands of residents invaded the international airport, which was perceived as a safe place because of the presence of French troops, and occupied its runway.
+
+Nourredine was also listed on 9 May 2014 pursuant to paragraph 37(d) of Resolution 2134 (2014) as ‘providing support for armed groups or criminal networks through illegal exploitation of natural resources’.
+
+In early 2013, Nourredine Adam played an important role in the ex-Séléka's financing networks. He travelled to Saudi Arabia, Qatar and the United Arab Emirates to collect funds for the former rebellion. He also operated as a facilitator for a Chadian diamond-trafficking ring operating between the Central African Republic and Chad.
+
+**4\. Alfred YEKATOM (alias: a) Alfred Yekatom Saragba b) Alfred Ekatom c) Alfred Saragba d) Colonel Rombhot e) Colonel Rambo f) Colonel Rambot g) Colonel Rombot h) Colonel Romboh)**
+
+Designation: Chief Corporal of the Forces Armées Centrafricaines (FACA)
+
+Date of birth: 23 June 1976
+
+Place of birth: Central African Republic
+
+Nationality: Central African Republic
+
+Address: a) Mbaiki, Lobaye Province, Central African Republic (Tel. +236 72 15 47 07 / +236 75 09 43 41) b) Bimbo, Ombella-Mpoko province, Central African Republic (previous location) c) The Hague (since his transfer to the International Criminal Court on 17 November 2018)
+
+Date of UN designation: 20 August 2015
+
+Other information: Has controlled and commanded a large group of armed militia men. Father’s name (adoptive father) is Ekatom Saragba (also spelled Yekatom Saragba). Brother of Yves Saragba, an anti-Balaka commander in Batalimo, Lobaye province, and a former FACA soldier. Physical description: eye colour: black; hair colour: bold; complexion: black; height: 170cm; weight: 100kg.
+
+Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Alfred Yekatom was listed on 20 August 2015 pursuant to paragraph 11 of Resolution 2196 (2015) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR, including acts that threaten or violate transitional agreements, or that threaten or impede the political transition process, including a transition toward free and fair democratic elections, or that fuel violence’.
+
+**Additional information:**
+
+Alfred Yekatom, also known as Colonel Rombhot, is a militia leader of a faction of the anti-Balakas movement, known as the ‘anti-Balaka from the South’. He has held the rank of Chief Corporal in the Forces Armées Centrafricaines (FACA — Central African Republic armed forces).
+
+Yekatom has engaged in and provided support for acts that undermine the peace, stability and security of the Central African Republic, including acts that threaten transitional agreements, and that threaten the political transition process. Yekatom has controlled and commanded a large group of armed militiamen with presence in the neighbourhood of PK9 in Bangui, and in the towns of Bimbo (Ombella-Mpoko province), Cekia, Pissa, and Mbaïki (capital of the Lobaye province), and had established his head-quarters in a forestry concession in Batalimo.
+
+Yekatom has been in direct control of a dozen checkpoints manned by an average of ten armed militia men wearing army uniforms and carrying weapons, including military assault rifles, from the main bridge between Bimbo and Bangui to Mbaïki (Lobaye province), and from Pissa to Batalimo (next to the border with the Republic of Congo), collecting unauthorized taxes from private vehicles and motorcycles, passenger vans and trucks exporting forestry resources to Cameroon and Chad, but also from boats navigating on the Oubangui river. Yekatom has been observed personally collecting part of these unauthorized taxes. Yekatom and his militia have also reportedly killed civilians.
+
+**5\. Habib SOUSSOU (alias: Soussou Abib)**
+
+Designation: a) Coordinator of anti-Balaka for Lobaye province b) Master-corporal of the Central African Armed Forces (FACA)
+
+Date of birth: 13 March 1980
+
+Place of birth: Central African Republic
+
+Nationality: Central African Republic
+
+Address: Boda, Central African Republic (Tel. +236 72198628)
+
+Date of UN designation: 20 August 2015
+
+Other information: Appointed as anti-balaka zone commander (COMZONE) of Boda on 11 April 2014 and on 28 June 2014, for the entire Lobaye Province. Under his command, targeted killings, clashes and attacks against humanitarian organizations and aid workers have continued to take place. Physical description: eye colour: brown; hair colour: black; height: 160cm; weight: 60kg. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Habib Soussou was listed on 20 August 2015 pursuant to paragraphs 11 and 12 (b) and (e) of Resolution 2196 (2015) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR, including acts that threaten or violate transitional agreements, or that threaten or impede the political transition process, including a transition toward free and fair democratic elections, or that fuel violence’; ‘involved in planning, directing, or committing acts that violate international human rights law or international humanitarian law, as applicable, or that constitute human rights abuses or violations, in the CAR, including acts involving sexual violence, targeting of civilians, ethnic- or religious-based attacks, attacks on schools and hospitals, and abduction and forced displacement’ and; ‘obstructing the delivery of humanitarian assistance to the CAR, or access to, or distribution of, humanitarian assistance in the CAR’.
+
+**Additional information:**
+
+Habib Soussou was appointed as anti-Balaka zone commander (COMZONE) of Boda on 11 April 2014, and he has claimed that he was therefore responsible for the security situation in the sous- préfecture. On 28 June 2014, general coordinator of the anti-Balaka Patrice Edouard Ngaïssona appointed Habib Soussou as provincial coordinator for the town of Boda since 11 April 2014 and since 28 June 2014 for the entire province of Lobaye. Targeted killings, clashes and attacks by anti-Balaka in Boda against humanitarian organizations and aid workers have occurred on a weekly basis in areas for which Soussou is the anti-Balaka commander or coordinator. Soussous and the anti-Balaka forces in these areas have also targeted and threatened to target civilians.
+
+**6\. Oumar YOUNOUS ABDOULAY (alias: (a) Oumar Younous; (b) Omar Younous; (c) Oumar Sodiam; (d) Oumar Younous M'Betibangui).**
+
+Designation: Former Séléka general.
+
+Date of birth: 2 April 1970.
+
+Nationality: Sudan, CAR diplomatic passport No D00000898, issued on 11 April 2013 (valid until 10 April 2018).
+
+Address: (a) Bria, Central African Republic (Tel. +236 75507560); (b) Birao, Central African Republic; (c) Tullus, southern Darfur, Sudan (previous location).
+
+Date of UN designation: 20 Aug. 2015
+
+Other information:
+
+is a diamond smuggler and a three-star general of the Séléka and close confident of former CAR interim president Michel Djotodia. Physical description: hair colour: black; height: 180 cm; belongs to the Fulani ethnic group. Photo available for inclusion in the Interpol-UN Security Council Special Notice. Reportedly deceased as at 11 October 2015 INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5903116
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Oumar Younous was listed on 20 August 2015 pursuant to paragraphs 11 and 12(d) of Resolution 2196 (2015) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR, including acts that threaten or violate transitional agreements, or that threaten or impede the political transition process, including a transition toward free and fair democratic elections, or that fuel violence’; and ‘providing support for armed groups or criminal networks through the illicit exploitation or trade of natural resources, including diamonds, gold, and wildlife as well as wildlife products, in the CAR’.
+
+Additional information:
+
+Oumar Younous, as a general of the former Séléka and a diamond smuggler, has provided support to an armed group through the illicit exploitation and trade of natural resources, including diamonds, in the Central African Republic.
+
+In October 2008, Oumar Younous, a former driver for the diamond buying house Sodiam, joined the rebel group Mouvement des Libérateurs Centrafricains pour la Justice (MLCJ). In December 2013, Oumar Younous was identified as being a three-star general of the Séléka and close confidant of interim president Michel Djotodia.
+
+Younous is involved in the diamond trade from Bria and Sam Ouandja to Sudan. Sources have reported that Oumar Younous has been engaged in collecting diamond parcels hidden in Bria, and taking them to Sudan for sale.
+
+**7\. Haroun GAYE (alias: a) Haroun Geye b) Aroun Gaye c) Aroun Geye)**
+
+Designation: Rapporteur of the political coordination of the Front Populaire pour la Renaissance de Centrafrique (FPRC)
+
+Date of birth: a) 30 January 1968 b) 30 January 1969
+
+Passport no: Central African Republic number O00065772 (letter O followed by 3 zeros), expires 30 December 2019)
+
+Address: a) Bangui, Central African Republic b) Ndélé, Bamingui-Bangoran
+
+Date of UN designation: 17 December 2015
+
+Other information: Gaye is a leader of the Front Populaire pour la Renaissance de Centrafrique (FPRC) (not listed) a marginalized ex-Seleka armed group in Bangui. He is also a leader of the so-called ‘Defense Committee’ of Bangui’s PK5 (known as PK5 Resistance or ‘Texas’) (not listed), which extorts money from residents and threatens and employs physical violence. Gaye was appointed on 2 November 2014 by Nourredine Adam (CFi.002) as rapporteur of the political coordination of the FPRC. On 9 May 2014, the Security Council Committee established by resolution 2127 (2013) on CAR included Adam on its sanctions list. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Haroun Gaye was listed on 17 December 2015 pursuant to paragraphs 11 and 12(b) and (f) of Resolution 2196 (2015) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR’; ‘involved in planning, directing, or committing acts that violate international human rights law or international humanitarian law, as applicable, or that constitute human rights abuses or violations, in the CAR, including acts involving sexual violence, targeting of civilians, ethnic- or religious-based attacks, attacks on schools and hospitals, and abduction and forced displacement’; and ‘involved in planning, directing, sponsoring, or conducting attacks against UN missions or international security presences, including Minusca, the European Union missions and French operations which support them’.
+
+**Additional information:**
+
+Haroun Gaye has been, since early 2014, one of the leaders of an armed group operating in the PK5 neighbourhood in Bangui. Civil Society representatives of the PK5 neighbourhood state that Gaye and his armed group are fuelling the conflict in Bangui, opposing the reconciliation and preventing movements of population to and from the third district of Bangui. On 11 May 2015, Gaye and 300 demonstrators blocked access to the National Transitional Council to disrupt the final day of the Bangui Forum. Gaye is reported to have collaborated with anti-Balaka officials to coordinate the disruption.
+
+On 26 June 2015, Gaye and a small entourage disrupted the opening of a voter registration drive in Bangui's PK5 neighbourhood, causing the registration drive to close.
+
+Minusca attempted to arrest Gaye on 2 August 2015, in accordance with the provisions of paragraph 32(f)(i) of the Security Council Resolution 2217 (2015). Gaye, who was reportedly informed of the arrest attempt in advance, was ready with supporters armed with heavy weaponry. Gaye's forces opened fire on the Minusca Joint Task Force. In a seven-hour firefight, Gaye's men employed firearms, and rocket-propelled and hand grenades against Minusca troops and killed one peacekeeper and injured eight. Gaye was involved in encouraging violent protests and clashes in late September 2015 in what appears to have been a coup attempt to overthrow the Transitional Government. The coup attempt was likely led by former president Bozize's supporters in an alliance of convenience with Gaye and other FPRC leaders. It appears that Gaye aimed to create a cycle of retaliatory attacks that would threaten the upcoming elections. Gaye was in charge of coordination with marginalised elements of the anti-Balaka.
+
+On 1 October 2015, a meeting took place in the PK5 neighbourhood between Eugène Barret Ngaïkosset, a member of a marginalised anti-Balaka group and Gaye, with the aim of planning a joint attack on Bangui on Saturday 3 October. Gaye's group prevented people inside the PK5 neighbourhood from leaving it, in order to reinforce the communal identity of the Muslim population to exacerbate inter-ethnic tensions and avoid reconciliation. On 26 October 2015, Gaye and his group interrupted a meeting between the Archbishop of Bangui and the Imam of the Central Mosque of Bangui, and threatened the delegation which had to retreat from the Central Mosque and flee the PK5 neighbourhood.
+
+**8\. Eugène BARRET NGAÏKOSSET (alias: (a) Eugene Ngaikosset; (b) Eugene Ngaikoisset; (c) Eugene Ngakosset; (d) Eugene Barret Ngaikosse; (e) Eugene Ngaikouesset; (f) ‘The Butcher of Paoua’; (g) Ngakosset)**
+
+Designation: (a) Former Captain, CAR Presidential Guard; (b) Former Captain, CAR Naval Forces.
+
+Date of birth: 8 Oct.1967
+
+National identification No: Central African Republic armed forces (FACA) military identification number 911-10-77.
+
+Address: Bangui, Central African Republic.
+
+Date of UN designation: 17 December 2015.
+
+Other information: Captain Eugène Barret Ngaïkosset is a former member of former President François Bozizé's presidential guard and associated with the anti-Balaka movement. He escaped from jail on 17 May 2015 following his extradition from Brazzaville and created his own anti-Balaka faction including former FACA fighters. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/6217455
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Eugène Barret Ngaïkosset was listed on 17 December 2015 pursuant to paragraphs 11 and 12(b) and (f) of Resolution 2196 (2015) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR; involved in planning, directing, or committing acts that violate international human rights law or international humanitarian law, as applicable, or that constitute human rights abuses or violations, in the CAR, including acts involving sexual violence, targeting of civilians, ethnic- or religious-based attacks, attacks on schools and hospitals, and abduction and forced displacement’; and ‘involved in planning, directing, sponsoring, or conducting attacks against UN missions or international security presences, including MINUSCA, the European Union missions and French operations which support them.’
+
+Additional information:
+
+Ngaïkosset is one of the main perpetrators of the violence which erupted in Bangui in late September 2015. Ngaïkosset and other anti-Balaka worked together with marginalised members of ex-Séléka in an effort to destabilise the CAR Transitional Government. On the night of 27-28 September 2015, Ngaïkosset and others made an unsuccessful attempt to storm the ‘Izam’ gendarmerie camp in order to steal weapons and ammunition. On 28 September, the group surrounded the offices of CAR national radio.
+
+On 1 October 2015, a meeting took place in the PK5 neighbourhood between Ngaïkosset and Haroun Gaye, a leader of the Front Populaire pour la Renaissance de Centrafrique (FPRC), with the aim of planning a joint attack on Bangui on Saturday 3 October.
+
+On 8 October, 2015, the CAR Justice Minister announced plans to investigate Ngaïkosset and other individuals for their roles in the September 2015 violence in Bangui. Ngaikosset and the others were named as being involved in ‘egregious behaviour constituting a breach of the internal security of the state, conspiracy, incitement to civil war, civil disobedience, hatred and complicity.’ CAR legal authorities were instructed to open an investigation to search for and arrest the perpetrators and accomplices.
+
+On 11 October 2015, Ngaïkosset is believed to have asked anti-Balaka militia under his command to carry out kidnappings, with a particular focus on French nationals, but also CAR political figures and UN officials, with the aim of forcing the departure of the transitional President, Catherine Samba-Panza.
+
+**9\. Joseph KONY (alias: a) Kony b) Joseph Rao Kony c) Josef Kony d) Le Messie sanglant)**
+
+Designation: Commander of the Lord's Resistance Army
+
+Date of birth: a) 1959 b) 1960 c) 1961 d) 1963 e) 18 Sep. 1964 f) 1965 g) (Aug. 1961) h) (Jul. 1961) i) 1 Jan. 1961 j) (Apr. 1963)
+
+Place of birth: a) Palaro Village, Palaro Parish, Omoro County, Gulu District, Uganda b) Odek, Omoro, Gulu, Uganda c) Atyak, Uganda
+
+Nationality: Uganda Passport
+
+Address: a) Vakaga, Central African Republic b) Haute-Kotto, Central African Republic c) Basse-Kotto, Central African Republic d) Haut-Mbomou, Central African Republic e) Mbomou, Central African Republic f) Haut-Uolo, Democratic Republic of the Congo g) Bas-Uolo, Democratic Republic of the Congo h) (Reported address: Kafia Kingi (a territory on the border of Sudan and South Sudan whose final status has yet to be determined). As of January 2015, 500 Lord's Resistance Army elements were reportedly expelled from the Sudan.)
+
+Date of UN designation: 7 March 2016.
+
+Other information:
+
+Kony is the founder and leader of the Lord's Resistance Army (LRA) (CFe.002). Under his leadership, the LRA has engaged in the abduction, killing, and mutilation of thousands of civilians across Central Africa. The LRA has been responsible for kidnapping, displacing, committing sexual violence against, and killing hundreds of individuals across CAR, and has looted and destroyed civilian property. Father's name is Luizi Obol. Mother's name is Nora Obol. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5932340
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Joseph Kony was listed on 7 March 2016 pursuant to paragraphs 12 and 13 (b), (c), and (d) of Resolution 2262 (2016) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR’; ‘involved in planning, directing, or committing acts that violate international human rights law or international humanitarian law, as applicable, or that constitute human rights abuses or violations, in the CAR, including acts involving sexual violence, targeting of civilians, ethnic- or religious-based attacks, attacks on schools and hospitals, and abduction and forced displacement’; ‘recruiting or using children in armed conflict in the CAR, in violation of applicable international law’; and ‘providing support for armed groups or criminal networks through the illicit exploitation or trade of natural resources, including diamonds, gold, and wildlife products in or from the CAR’.
+
+Additional information:
+
+Kony founded the Lord's Resistance Army (LRA) and has been described as the group's founder, religious leader, chairman, and commander-in-chief. Emerging in northern Uganda in the 1980s, the LRA engaged in the abduction, killing, and mutilation of thousands of civilians across central Africa. Under increasing military pressure, Kony ordered the LRA to withdraw from Uganda in 2005 and 2006. Since then, the LRA has been operating in the Democratic Republic of the Congo (DRC), CAR, South Sudan and reportedly Sudan.
+
+Kony, as the leader of the LRA, devises and implements LRA strategy, including standing orders to attack and brutalize civilian populations. Since December 2013, the LRA under the leadership of Joseph Kony has kidnapped, displaced, committed sexual violence against, and killed hundreds of individuals across CAR, and has looted and destroyed civilian property. Concentrated in eastern CAR and reportedly in Kafia Kingi, a territory on the border of Sudan and South Sudan whose final status has yet to be determined but militarily controlled by the former, the LRA raids villages to pillage food and supplies. The fighters set ambushes to attack security forces and steal their equipment when they respond to LRA attacks, and LRA fighters also target and loot villages that do not have a military presence. The LRA has also intensified attacks on diamond and gold mining sites.
+
+Kony is subject to an arrest warrant issued by the International Criminal Court. The ICC has charged him with twelve counts of crimes against humanity including murder, enslavement, sexual enslavement, rape, inhumane acts of inflicting serious bodily injury and suffering, and twenty-one counts of war crimes including murder, cruel treatment of civilians, intentionally directing an attack against a civilian population, pillaging, inducing rape, and enlisting, through abduction, of children under the age of 15 years.
+
+Kony has issued standing orders for rebel fighters to loot diamonds and gold from artisanal miners in eastern Central African Republic. Reportedly, some of the minerals are then transported by Kony's group to Sudan, or traded with local civilians and members of the former Séléka.
+
+Kony has also instructed his fighters to poach elephants in the Garamba National Park in the Democratic Republic of Congo, from where elephant tusks are reportedly transported through the east of the Central African Republic to Sudan, where senior LRA officials reportedly sell and trade with Sudanese merchants and local officials. The trade of ivory represents a significant source of income for Kony's group. As of January 2015, 500 Lord's Resistance Army elements were reportedly expelled from the Sudan.
+
+**10\. Ali KONY (alias: a) Ali Lalobo b) Ali Mohammad Labolo c) Ali Mohammed d) Ali Mohammed Lalobo e) Ali Mohammed Kony f) Ali Mohammed Labola g) Ali Mohammed Salongo h) Ali Bashir Lalobo i) Ali Lalobo Bashir j) Otim Kapere k) ‘Bashir’ l) ‘Caesar’ m) ‘One-P’ n) ‘1-P’**
+
+Designation: Deputy, Lord's Resistance Army
+
+Date of birth: a) 1994 b) 1993 c) 1995 d) 1992
+
+Address: Kafia Kingi (a territory on the border of Sudan and South Sudan whose final status has yet to be determined).
+
+Date of UN designation: 23 August 2016.
+
+Other information:
+
+Ali Kony is a deputy in the Lord's Resistance Army (LRA), a designated entity and the son of LRA leader Joseph Kony, a designated individual. Ali was incorporated into the LRA's leadership hierarchy in 2010. He is part of a group of senior LRA officers who are based with Joseph Kony. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5971056
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Ali Kony was listed on 23 August 2016 pursuant to paragraphs 12 and 13 (d) and (g) of Resolution 2262 (2016) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR’; ‘providing support for armed groups or criminal networks through the illicit exploitation or trade of natural resources, including diamonds, gold, wildlife as well as wildlife products in or from the CAR’; ‘Being leaders of an entity that the Committee has designated pursuant to paragraphs 36 or 37 of Resolution 2134 (2014) or Resolution 2262 (2016)or having provided support to, or acted for or on behalf of, or at the direction of, an individual or an entity that the Committee has designated pursuant to paragraphs 36 or 37 of Resolution 2134 (2014) or Resolution 2262 (2016), or an entity owned or controlled by a designated individual or entity’.
+
+Ali Kony is seen as a potential successor to Joseph Kony as leader of the LRA. Ali is increasingly involved in LRA operational planning and is seen as a gateway to Joseph Kony. Ali is also an LRA intelligence officer with command of up to 10 subordinates.
+
+Ali and his brother Salim Kony have both been responsible for enforcing discipline within the LRA. Both brothers are acknowledged to be part of Joseph Kony's leadership inner-circle, responsible for the execution of Kony's orders. The two have made disciplinary decisions to punish or kill LRA members who have disobeyed LRA rules. Based on orders from Joseph Kony, Salim and Ali are involved in trafficking ivory from northern Democratic Republic of the Congo (DRC)'s Garamba National Park through the Central African Republic (CAR) to the disputed region of Kafia Kingi for sale or trade with local merchants.
+
+Ali Kony is responsible for negotiating ivory prices and bartering the ivory with the merchants. Ali meets once or twice a month with merchants to negotiate the price of the LRA's ivory in U.S. dollars or Sudanese pounds, or to trade for weapons, ammunition, and food. Joseph Kony has ordered Ali to use the largest tusks to purchase anti-personnel mines to surround Kony's camp. In July 2014, Ali Kony oversaw the operation to move 52 pieces of ivory for delivery to Joseph Kony and ultimate sale.
+
+In April 2015, Salim departed Kafia Kingi to retrieve a shipment of tusks. In May, Salim participated in the transport of 20 pieces of ivory from DRC to Kafia Kingi. Around the same time, Ali met with the merchants to purchase supplies and to plan a future meeting to conduct additional transactions and to agree to terms of purchase on the LRA's behalf for what is assessed to be the ivory that Salim was escorting.
+
+**11\. Salim KONY (alias: a) Salim Saleh Kony b) Salim Saleh c) Salim Ogaro d) Okolu Salim e) Salim Saleh Obol Ogaro f) Simon Salim Obol)**
+
+Designation: Deputy, Lord's Resistance Army
+
+Date of Birth: a) 1992 b) 1991 c) 1993
+
+Address: a) Kafia Kingi (a territory on the border of Sudan and South Sudan whose final status has yet to be determined) b) Central African Republic
+
+Date of UN designation: 23 August 2016
+
+Other information:
+
+Salim Kony is a deputy in the Lord's Resistance Army (LRA), a designated entity and the son of LRA leader Joseph Kony, a designated individual. Salim was incorporated into the LRA's leadership hierarchy in 2010. He is part of a group of senior LRA officers who are based with Joseph Kony. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5971058
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Salim Kony was listed on 23 August 2016 pursuant to paragraphs 12 and 13 (d) and (g) of Resolution 2262 (2016) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR’; ‘providing support for armed groups or criminal networks through the illicit exploitation or trade of natural resources, including diamonds, gold, wildlife as well as wildlife products in or CAR’; ‘Being leaders of an entity that the Committee has designated pursuant to paragraphs 36 or 37 of Resolution 2134 (2014) or Resolution 2262 (2016), or having provided support to, or acted for or on behalf of, or at the direction of, an individual or an entity that the Committee has designated pursuant to paragraphs 36 or 37 of Resolution 2134 (2014) or Resolution 2262 (2016), or an entity owned or controlled by a designated individual or entity’.
+
+Salim Kony is the head commander of the LRA's ‘field headquarters’ and has jointly planned LRA attacks and defensive measures with Joseph Kony since an early age. Previously, Salim led the group which provides security for Joseph Kony. More recently, Joseph Kony has entrusted Salim with managing the LRA's financial and logistical networks.
+
+Salim and his brother Ali Kony have both been responsible for enforcing discipline within the LRA. Both brothers are acknowledged as members of Joseph Kony's leadership inner-circle, who are responsible for executing Joseph Kony's orders. The two have made disciplinary decisions to punish or kill LRA members who have disobeyed LRA rules. Salim is reported to have killed LRA members who intended to defect, and has reported LRA group and member activities to Joseph Kony.
+
+Based on orders from Joseph Kony, Salim and Ali are involved with the trafficking of ivory from northern Democratic Republic of the Congo (DRC)'s Garamba National Park through the Central African Republic (CAR) to the disputed region of Kafia Kingi for sale or trade with local merchants.
+
+Salim often deploys to the CAR border with approximately a dozen fighters to meet and escort other LRA groups carrying ivory north from Garamba. In April 2015, Salim departed Kafia Kingi to retrieve a shipment of tusks. In May, Salim participated in the transport of twenty pieces of ivory from DRC to Kafia Kingi.
+
+Previously, in June 2014, Salim crossed into the DRC with a group of LRA fighters to poach elephants in Garamba. Joseph Kony had also tasked Salim with escorting two LRA commanders to Garamba to uncover caches of ivory that had been hidden there years earlier. In July 2014, Salim met with a second LRA group to transport the ivory, 52 pieces in all, to Kafia Kingi. Salim was responsible for maintaining ivory accountability to Joseph Kony and for passing information about ivory transactions to LRA groups.
+
+**12\. Abdoulaye HISSENE (alias : a) Abdoulaye Issène b) Abdoulaye Hissein c) Hissene Abdoulaye d) Abdoulaye Issène Ramadane e) Abdoulaye Issene Ramadan f) Issene Abdoulaye)**
+
+Title: President of the Conseil National de Défense et de Sécurité (CNDS) and military leader of the Front Populaire pour la Renaissance de la Centrafrique
+
+Designation: ‘general’
+
+Date of birth: a) 1967 b) 1 January 1967
+
+Place of birth: a) Ndele, Bamingui-Bangoran, Central African Republic b) Haraze Mangueigne, Chad
+
+Nationality: a) Central African Republic b) Chad
+
+Passport no: a) CAR diplomatic passport no. D00000897, issued on 5 Apr. 2013 (valid until 4 April 2018) b) CAR diplomatic passport no. D00004262, issued on 11 March 2014 (expires on 10 March 2019)
+
+National identification no: Chad national identity card no. 103-00653129-22, issued on 21 Apr. 2009 (expires on 21 April 2019)
+
+Address: a) KM5, Bangui, Central African Republic b) Nana-Grebizi, Central African Republic c) Ndjari, Ndjamena, Chad d) Ndélé, Bamingui-Bangoran (main location since August 2016)
+
+Date of UN designation: 17 May 2017
+
+Other information: Hissène was formerly the Minister of Youth and Sports as part of the Cabinet for the Central African Republic’s former President Michel Djotodia. Prior to that, he was the head of the Convention of Patriots for Justice and Peace, a political party. He also established himself as a leader of armed militias in Bangui, in particular in the ‘PK5’ (3rd district) neighborhood. In October 2016, Abdoulaye Hissène was appointed President of the Conseil National de Défense et de Sécurité, a body which was created at the time to gather military leaders and commanding fighters from all ex-Séléka factions. He has remained in this position since then, but has actual control over FPRC fighters only. Father’s name is Abdoulaye. Mother’s name is Absita Moussa. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOLUN Security Council Special Notice web link:
+
+https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Abdoulaye Hissène was listed on 17 May 2017 pursuant to paragraphs 16 and 17(g) of resolution 2339 (2017) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR, including acts that threaten or impede the political transition process, or the stabilisation and reconciliation process or that fuel violence;’ and ‘involved in planning, directing, sponsoring, or conducting attacks against UN missions or international security presences, including MINUSCA, the European Union Missions and French operations which support them.’
+
+**Additional information:**
+
+Abdoulaye Hissène and other members of the ex-Séléka collaborated with anti-balaka spoilers allied with former Central African Republic (CAR) President François Bozizé, including Maxime Mokom, to encourage violent protests and clashes in September 2015 as part of a failed coup attempt to bring down the Government while then-Transitional President Catherine Samba-Panza was attending the 2015 UN General Assembly. Mokom, Hissène, and others were indicted by the CAR government for various criminal offenses, including murder, arson, torture, and looting, stemming from the failed coup.
+
+Since 2015, Hissène had become one of the main leaders of armed militias located in the ‘PK5’ neighbourhood of Bangui which comprised more than 100 men. As such, he prevented the freedom of movement and the return of state authority in the area, including through illegal taxation of transportation and commercial activities. In the second half of 2015, Hissène acted as the representative of the ex-Séléka Nairobists’ in Bangui operating in a rapprochement with anti-balaka fighters under Mokom. Armed men under the control of Haroun Gaye and Hissène participated in the violent events which took place in Bangui between 26 September and 3 October 2015.
+
+Members of Hissène's group are suspected of having been involved in an attack on the 13 December 2015 — the day of the constitutional referendum — on the vehicle of Mohamed Moussa Dhaffane, a leader of the ex-Séléka. Hissène is accused of orchestrating violence in Bangui's KM5 district that killed five, wounded twenty, and prevented residents from voting in the constitutional referendum. Hissène put the elections at risk by creating a cycle of retaliatory attacks between different groups.
+
+On 15 March 2016, Hissène was apprehended by the police at Bangui M'poko airport and transferred to the research and investigation section of the national gendarmerie. His militia subsequently released him, using force, and stole one weapon previously handed over by MINUSCA as part of an exemption request approved by the Committee.
+
+On 19 June 2016, following the arrest of Muslim traders by internal security forces at ‘PK 12’, militias of Gaye and Hissène kidnapped five national policemen in Bangui. On 20 June, MINUSCA attempted to release the policemen. Armed men under the control of Hissène and Gaye exchanged fire with the peacekeepers attempting to release the hostages. As a result, at least six individuals were killed and one peacekeeper was injured.
+
+On 12 August 2016, Hissène took the lead of a 6-vehicle convoy with heavily armed individuals. The convoy, which was fleeing Bangui, was intercepted by MINUSCA south of Sibut. En route to the North, the convoy exchanged fire with internal security forces at several checkpoints. The convoy was eventually stopped by MINUSCA 40 km south of Sibut. After multiple gunfights, MINUSCA captured 11 of the men, but Hissène and several others escaped. Individuals arrested indicated to MINUSCA that Hissène was the leader of the convoy whose objective was to reach Bria and participate in the Assembly of ex-Séléka groups organised by Nourredine Adam.
+
+In August and September 2016, the Panel of Experts travelled twice to Sibut in order to inspect the belongings of the convoy of Hissène, Gaye and Hamit Tidjani, seized by MINUSCA on 13 August. The Panel also inspected the ammunition seized in the house of Hissène on 16 August. Lethal and non-lethal military equipment was recovered in the six vehicles and from the apprehended individuals. On 16 August 2016, the Central Gendarmerie raided the home of Hissène in Bangui. More than 700 weapons were found.
+
+On 4 September 2016, a group of ex-Séléka elements coming from Kaga-Bandoro on six motor-bikes to pick up Hissène and his affiliates opened fire against MINUSCA next to Dékoa. During this incident, one ex-Séléka fighter was killed, and two peacekeepers and one civilian were wounded.
+
+**13\. Martin KOUMTAMADJI (alias: a) Abdoulaye Miskine b) Abdoullaye Miskine c) Martin Nadingar Koumtamadji d) Martin Nkoumtamadji e) Martin Koumta Madji f) Omar Mahamat)**
+
+Designation: President and commander-in-chief of the Front Démocratique du Peuple Centrafricain (FDPC)
+
+Date of birth: a) 5 October 1965 b) 3 March 1965
+
+Place of birth: a) Ndïnaba, Chad b) Kobo, Central African Republic c) Kabo, Central African Republic
+
+Nationality: a) Chad b) Central African Republic c) Congo
+
+Passport no: a) CAR diplomatic passport no. 06FBO2262, issued on 22 February 2007 (expired on 21 February 2012) b) Congo service passport number SA0020249 , issued on 22 January 2019 (expires on 21 January 2022)
+
+Address: a) Am Dafock, Vakaga prefecture, Central African Republic b) Ndjamena, Chad (since his arrest in November 2019)
+
+Date of UN designation: 20 April 2020
+
+Other information: Martin Koumtamadji founded the FDPC in 2005. He joined the Séléka coalition in December 2012 before leaving it in April 2013 after the rebels took power in Bangui. After being arrested in Cameroon, he was then transferred to Brazzaville in the Republic of Congo. He always remained in command of his troops on the ground in the CAR even when he was in Brazzaville before returning to the CAR (between November 2014 and 2019). The FDPC signed the Political Agreement for Peace and Reconciliation in the CAR on 6 February 2019 but Martin Koumtamadji remains a threat to the peace, stability and security of the CAR. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+President and commander-in-chief of the Front Démocratique du Peuple Centrafricain (FDPC, an armed group engaged in violent activities), Martin Koumatamadji has engaged in acts threatening the peace, stability and security of the CAR and, in particular, the implementation of the Political Agreement for Peace and Reconciliation in CAR signed on 6 February 2019 in Bangui.
+
+He refused the disarmament of FDPC combatants, as per his commitments as a signatory of the Political Agreement for Peace and Reconciliation in the CAR, and threatened to overthrow President Touadéra in July 2019.
+
+He began cooperating with sanctioned individual Nourredine Adam (CFi.002) in June 2019 and engaged in arms trafficking with a close associate of Nourredine Adam, in order to build up the military capabilities of the FDPC.
+
+He also made an offer to the Front Populaire pour la Renaissance de la Centrafrique (FPRC) to carry out a military operation with his armed group during the fighting in Vakaga prefecture in 2019.
+
+He continued to impede the restoration of state authority in the areas of operation of the FPDC by maintaining illegal roadblocks to extort cattle herders, economic actors (including gold mining companies operating in the Nana-Mambéré prefecture), and travellers.
+
+Under his leadership, the FDPC committed acts that constituted human rights abuses or violations in the Nana-Mambéré prefecture, including attacks directed against civilians in April 2019, abductions of civilians in March 2019 (near Zoukombo) and acts of sexual and gender-based violence in May 2019 (in Bagary). In 2017, the FDPC also committed 14 acts of sexual violence in conflict.
+
+Between 2016 and 2019, the FDPC recruited children to serve as soldiers in armed conflict and forced eleven girls into marriage with FDPC members.
+
+In March 2019, he was involved in obstructing the delivery of humanitarian aid when the FDPC, under Miskine’s leadership, conducted a series of attacks on the main road into Bangui from Cameroon.
+
+Finally, FDPC elements skirmished with MINUSCA in April 2019 near Zoukombo (Nana-Mambéré prefecture) and on the Bouar-Beleko axis.
+
+**14\. Bi Sidi SOULEMAN (alias: a) Sidiki b) ‘General’ Sidiki c) Sidiki Abbas d) Souleymane Bi Sidi e) Bi Sidi Soulemane)**
+
+Designation: President and self-proclaimed ‘general’ of the Retour, Réclamation et Réhabilitation (3R)
+
+Date of Birth: 20 July 1962
+
+Place of Birth: Bocaranga, Central African Republic
+
+Nationality: Central African Republic
+
+Passport No: Laissez-passer No N°235/MISPAT/DIRCAB/DGPC/DGAEI/SI/SP, issued on 15 March 2019 (issued by the Minister of Interior of the Central African Republic )
+
+Address: Koui, Ouham-Pendé prefecture, Central African Republic
+
+Date of UN designation: 5 August 2020
+
+Other information:
+
+Bi Sidi Souleman leads the Central African Republic (CAR)-based militia group Retour, Réclamation, Réhabilitation (3R) which has killed, tortured, raped, and displaced civilians and engaged in arms trafficking, illegal taxation activities, and warfare with other militias since its creation in 2015. Bi Sidi Souleman himself has also participated in torture. On 6 February 2019, 3R signed the Political Agreement for Peace and Reconciliation in the CAR but has engaged in acts violating the Agreement and remains a threat to the peace, stability and security of the CAR. For instance, on 21 May 2019, 3R killed 34 unarmed civilians in three villages, summarily executing adult males. Bi Sidi Souleman openly confirmed to a UN Entity that he had ordered 3R elements to the villages on the date of the attacks, but did not admit to giving the orders for 3R to kill. In December 2020, after having joined a coalition of armed groups established to disrupt the electoral process, Bi Sidi Souleman was reportedly killed during fighting.
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Bi Sidi Souleman was listed on 5 August 2020 pursuant to paragraph 20 and paragraph 21 (b) of resolution 2399 (2018), extended by paragraph 5 of resolution 2507 (2020), for engaging in or providing support for acts that undermine the peace, stability or security of the Central African Republic, including acts that threaten or impede the stabilization and reconciliation process or that fuel violence; and being involved in planning, directing, or committing acts in the Central African Republic that violate international human rights law or international humanitarian law, as applicable, or that constitute human rights abuses or violations, including those involving targeting of civilians, ethnic- or religious-based attacks, attacks on civilian objects, including administrative centres, courthouses, schools and hospitals, and abduction and forced displacement.
+
+Additional information
+
+President and self-proclaimed ‘general’ of the Retour, Réclamation et Réhabilitation (3R) armed group, Bi Sidi Souleman has engaged in acts threatening the peace, stability and security of the CAR and, in particular, threatening the implementation of the Political Agreement for Peace and Reconciliation in CAR signed on 6 February 2019 in Bangui.
+
+He and fighters under his command have committed acts that constitute serious violations of international human rights law or international humanitarian law. On 21 May 2019, 3R killed 34 unarmed civilians in three villages (Koundjili, Lemouna and Bohong), summarily executing adult males.
+
+Under his leadership, 3R elements committed acts involving sexual and gender-based violence. In September 2017, during an attack against Bocaranga, 3R elements raped several women and girls. Between March and April 2020, 3R elements were involved in seven cases of sexual violence in three villages in the Ouham-Pendé prefecture.
+
+Under his leadership, 3R continued to impede the restoration of state authority in its areas of operation by maintaining illegal taxation systems, especially on transhumance activities and on travelers, and has been involved in the illegal exploitation of gold in the Mambéré-Kadéï and Nana-Mambéré prefectures.
+
+In 2019, under his leadership, 3R committed its first violations of the Peace Agreement. Bi Sidi Souleman initially refused to start the disarmament and the demobilization of the 3R fighters supposed to participate in the first special mixed security unit in the west of the CAR and 3R also continued to expand its control over territories forcing MINUSCA into launching an operation in the Ouham-Pendé, Nana-Mambéré, and Mambéré-Kadéï prefectures in September 2019, as well as in arms trafficking in order to build up its military capabilities and in the recruitment of fighters from abroad.
+
+In 2020, under his leadership, 3R continued and to commit violations of the Peace agreement and to expand its control over territories in the West. In May 2020, 3R elements occupied the gendarmerie of Besson in the Nana-Mambéré prefecture and former 3R elements deserted the Bouar USMS. On 5 June 2020, Bi Sidi Souleman announced the suspension of the participation of 3R in the Agreement’s follow-up mechanisms until further notice. On 9 June 2020, presumed 3R elements attacked the training camp of the Bouar USMS as well as a joint MINUSCA and national forces checkpoint in Pougol. On 21 June 2020, 3R elements attacked a joint MINUSCA and national forces patrol near Besson resulting in the death of three Central African soldiers.
+
+**15\. Ali DARASSA (alias: a) Ali Darassa Mahamat b) Ali Mahamat Darassa c) Ali Daras d) Ali Darrassa e) Général Ali Darassa)**
+
+Designation: Founder and leader of the Unité pour la Paix en Centrafrique (UPC)
+
+Date of Birth: 22 September 1978
+
+Place of Birth: Kabo, Ouham Prefecture, Central African Republic
+
+Nationality: Central African Republic
+
+National Identification No.: 10978000004482
+
+Date of UN designation: 21 December 2021
+
+Other information: Ali Darassa founded and still leads the Central African Republic (CAR)-based militia group Unité pour la Paix en Centrafrique (UPC), which has killed, tortured, raped, and displaced civilians, committed a large number of abuses of human rights and violations of international humanitarian law, and engaged in arms trafficking, illegal taxation activities, and warfare against CAR defence and security forces, as well as other militias, since its creation in 2014. In December 2020, he played a leading role in the creation of the Coalition des patriotes pour le changement (CPC) that took up arms to oppose the elections and attempted to enter the capital Bangui, in violation of the commitments made by the UPC under the Accord politique pour la paix et la reconciliation (APPR) signed on 6 February 2019. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/How-we-work/Notices/View-UN-Notices-Individuals
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+Ali Darassa was listed on 21 December 2021 pursuant to paragraph 20 and paragraph 21 (b) of resolution 2399 (2018), extended by resolution 2588 (2021), for engaging in or providing support for acts that undermine the peace, stability or security of the Central African Republic, including acts that threaten or impede the stabilization and reconciliation process or that fuel violence; and for being involved in planning, directing, or committing acts in the Central African Republic that violate international human rights law and international humanitarian law, as applicable, or that constitute human rights abuses or violations, including those involving targeting of civilians, ethnic- or religious-based attacks, attacks on civilian objects, including administrative centres, courthouses, schools and hospitals, and abduction and forced displacement.
+
+**Additional information:**
+
+Ali Darassa founded and still leads the Central African Republic (CAR)-based militia group Unité pour la Paix en Centrafrique (UPC), which has killed, tortured, raped, and displaced civilians, committed a large number of abuses of human rights and violations of international humanitarian law, and engaged in arms trafficking, illegal taxation activities, and warfare against CAR defense and security forces, as well as other militias, since its creation in 2014. In December 2020, he played a leading role in the creation of the Coalition des patriotes pour le changement (CPC) that took up arms to oppose the elections and attempted to enter the capital, in violation of the commitments made by the UPC under the Accord politique pour la paix et la reconciliation (APPR) signed on 6 February 2019.
+
+Fighters under Ali Darassa’s command have committed acts that constitute serious human rights abuses and violations of international humanitarian law. On 10 November 2014, UPC fighters attacked the villages of Bolo in Ouaka Prefecture and 10 civilians were killed including three elderly women who were burned alive in their homes. On 12 December 2017, UPC and FPRC elements opened fire on a hospital, killing 17 civilians, including 4 children. On 15 November 2018, UPC elements attacked an internally displaced persons camp in Alindao, killing between 70 to 100 civilians.
+
+Under Darassa’s leadership, UPC continued to oppose the restoration of State authority. In 2016, UPC fighters posed a threat to the electoral process on several occasions. On 29 March 2016, UPC fighters fired bullets over an electoral post and wounded several internally displaced persons.
+
+Since December 2020, as one of the leaders of the CPC, Ali Darassa has participated in violations of the APPR, attempts to prevent the legislative and presidential elections and, more broadly, to destabilize the Central African Republic. Due to threats made by UPC fighters under Ali Darassa’s command, voting operations could not take place on 27 December 2020 in areas under UPC’s control, for instance in several areas of the Ouaka and Haut-Mbomou Prefectures. In January 2021, UPC attempted to enter Bangui by force.
+
+**B. Entities**
+
+**2\. LORD'S RESISTANCE ARMY (alias: a) LRA b) Lord's Resistance Movement (LRM) c) Lord's Resistance Movement/Army (LRM/A)**
+
+Address: a) Vakaga, Central African Republic b) Haute-Kotto, Central African Republic c) Basse-Kotto, Central African Republic d) Haut-Mbomou, Central African Republic e) Mbomou, Central African Republic f) HautUolo, Democratic Republic of the Congo g) Bas-Uolo, Democratic Republic of the Congo h) (Reported address: Kafia Kingi (a territory on the border of Sudan and South Sudan whose final status has yet to be determined). As of January 2015, 500 Lord's Resistance Army elements were reportedly expelled from the Sudan.)
+
+Date of UN designation: 7 March 2016.
+
+Other Information:
+
+Emerged in northern Uganda in the 1980s. Has engaged in the abduction, killing and mutilation of thousands of civilians in Central Africa, including hundreds in the Central African Republic. The leader is Joseph Kony. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/une/5932344
+
+Information from the narrative summary of reasons for listing provided by the Sanctions Committee:
+
+The Lord's Resistance Army was listed on 7 March 2016 pursuant to paragraphs 12 and 13 (b), (c), and (d) of Resolution 2262 (2016) as ‘engaging in or providing support for acts that undermine the peace, stability or security of the CAR;’, ‘involved in planning, directing, or committing acts that violate international human rights law or international humanitarian law, as applicable, or that constitute human rights abuses or violations, in the CAR, including acts involving sexual violence, targeting of civilians, ethnic- or religious-based attacks, attacks on schools and hospitals, and abduction and forced displacement;’, ‘recruiting or using children in armed conflict in the CAR, in violation of applicable international law;’ and ‘providing support for armed groups or criminal networks through the illicit exploitation or trade of natural resources, including diamonds, gold, and wildlife products in or from the CAR’.
+
+Additional information:
+
+Emerging in northern Uganda in the 1980s, the LRA has engaged in the abduction, killing, and mutilation of thousands of civilians across central Africa. Under increasing military pressure, Joseph Kony, the LRA's leader, ordered the LRA to withdraw from Uganda in 2005 and 2006. Since then, the LRA has been operating in the Democratic Republic of the Congo (DRC), CAR, South Sudan and reportedly Sudan.
+
+Since December 2013, the LRA has kidnapped, displaced, committed sexual violence against, and killed hundreds of individuals across CAR, and has looted and destroyed civilian property. Concentrated in eastern CAR and reportedly in Kafia Kingi, a territory on the border of Sudan and South Sudan whose final status has yet to be determined but militarily controlled by the former, the LRA raids villages to pillage food and supplies. The fighters set ambushes to attack security forces and steal their equipment when they respond to LRA attacks, and LRA fighters also target and loot villages that do not have a military presence. The LRA has also intensified attacks on diamond and gold mining sites.
+
+LRA cells are frequently accompanied by captives who are forced to work as porters, cooks, and sex slaves. The LRA engages in gender-based violence including rapes of women and young girls.
+
+In December 2013, the LRA abducted dozens of people in Haute-Kotto. The LRA is reported to have been involved in the abductions of hundreds of civilians in CAR since the beginning of 2014.
+
+LRA fighters attacked Obo, in eastern CAR's Haut-Mbomou Prefecture, on several occasions in early 2014.
+
+The LRA continued to carry out attacks in Obo and other locations in southeastern CAR between May and July 2014, including apparently coordinated attacks and abductions in Mbomou Prefecture in early June.
+
+Since at least 2014, the LRA has been involved in elephant poaching and elephant trafficking for revenue generation. The LRA reportedly traffics ivory from Garamba National Park in northern DRC to Darfur, to trade for weapons and supplies. The LRA reportedly transports poached elephant tusks through CAR into Darfur, Sudan to sell. Additionally, as of early 2014, Kony had reportedly ordered LRA fighters to loot diamonds and gold from miners in eastern CAR for transport to Sudan. As of January 2015, 500 Lord's Resistance Army elements were reportedly expelled from the Sudan.
+
+In early February 2015, LRA fighters armed with heavy weapons abducted civilians in Kpangbayanga, Haut-Mbomou, and stole food items.
+
+On April 20, 2015, an LRA attack and the abduction of children from Ndambissoua, southeastern CAR led most of the village residents to flee. And in early July 2015, the LRA attacked several villages in southern Haute-Kotto Prefecture; the attacks involved looting, violence against civilians, burning of houses, and kidnapping.
+
+Since January 2016, attacks imputed to the LRA have multiplied in Mbomou, Haut-Mbomou and Haute-Kotto affecting in particular mining areas in Haute-Kotto. These attacks have involved looting, violence against civilians, destruction of property and abductions. They have led to displacements of the population, including around 700 people who have sought refuge in Bria.
+
+## ANNEX II
+
+**Websites for information on the competent authorities and address for notifications to the European Commission**
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+( 1 ) OJ C 69, 18.3.2010, p. 19.
+
+( 2 ) Regulation (EU) No 258/2012 of the European Parliament and of the Council of 14 March 2012 implementing Article 10 of the United Nations’ Protocol against the illicit manufacturing of and trafficking in firearms, their parts and components and ammunition, supplementing the United Nations Convention against Transnational Organised Crime (UN Firearms Protocol), and establishing export authorisation, and import and transit measures for firearms, their parts and components and ammunition (OJ L 94, 30.3.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/258/oj).

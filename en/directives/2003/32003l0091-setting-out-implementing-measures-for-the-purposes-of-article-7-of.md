@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DIRECTIVE 2006/127/EC of 7 December 2006 </td><td> L 343</td><td>82</td><td>8.12.2006</td></tr>
@@ -47,6 +48,7 @@ retrieved: 2026-10-11
 <tr><td> M19</td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2024/2963 of 29 November 2024 </td><td> L 2963</td><td>1</td><td>2.12.2024</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2025/1079 of 2 June 2025 </td><td> L 1079</td><td>1</td><td>3.6.2025</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2025/2449 of 4 December 2025 </td><td> L 2449</td><td>1</td><td>5.12.2025</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2003/91/EC**
 
@@ -173,11 +175,13 @@ This Directive is addressed to the Member States.
 
 **List of species referred to in Article 1(2), point (b), which are to comply with UPOV test guidelines (*1)**
 
+<table>
 <tbody><tr><td>Scientific name</td><td>Common name</td><td>UPOV guideline</td></tr>
 <tr><td>Brassica rapa L</td><td>Ternip</td><td>TG/37/11 of 23.9.2022</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td colspan="3">(*1)  The text of these guidelines can be found on the UPOV web site (www.upov.int). </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 

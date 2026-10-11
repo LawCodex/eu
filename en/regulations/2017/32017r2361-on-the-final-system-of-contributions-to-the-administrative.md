@@ -1,0 +1,288 @@
+---
+title: "Commission Delegated Regulation (EU) 2017/2361 of 14 September 2017 on the final system of contributions to the administrative expenditures of the Single Resolution Board"
+identifier: "32017R2361"
+eli: "http://data.europa.eu/eli/reg_del/2017/2361/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2017-09-14
+entry_into_force: 2018-01-10
+last_amended: 2021-03-26
+consolidated_version: "02017R2361-20210326"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R2361-20210326"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2017/2361 of 14 September 2017 on the final system of contributions to the administrative expenditures of the Single Resolution Board
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/2361**
+
+**of 14 September 2017**
+
+**on the final system of contributions to the administrative expenditures of the Single Resolution Board**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2021/517 of 11 February 2021 </td><td> L 104</td><td>30</td><td>25.3.2021</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2017/2361**
+
+**of 14 September 2017**
+
+**on the final system of contributions to the administrative expenditures of the Single Resolution Board**
+
+## Article 1 — Subject matter
+
+This Regulation lays down rules to determine:
+
+(1) the final system for the calculation of the contributions to the administrative expenditures of the Single Resolution Board (‘the Board’) due by the entities referred to in Article 2 of Regulation (EU) No 806/2014;
+
+(2) the way in which the contributions are to be paid;
+
+(3) the registration, accounting, reporting and other rules necessary to ensure that the contributions are paid fully and in a timely manner;
+
+(4) the methodology for the recalculation and adjustment of the contributions due for the provisional period.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the definitions set out in Regulation (EU) No 1163/2014 shall apply. The following definitions shall also apply:
+
+(1) ‘administrative expenditures of the Board’ means the expenditure of Part I of the budget of the Board, as referred to in Article 59(2) of Regulation (EU) No 806/2014;
+
+(2) ‘annual contribution’ means the contribution to be collected by the Board for a given financial year in accordance with this Regulation in order to cover the administrative expenditures of the Board;
+
+(3) ‘contribution debtor’ means the fee debtor determined in accordance with Article 4 of Regulation (EU) No 1163/2014 for the purposes of collecting the supervisory fee and falling under the scope of Article 2 of Regulation (EU) No 806/2014;
+
+(4) ‘provisional period’ means the period beginning on 19 August 2014 and ending on 31 December 2017.
+
+## Article 3 — Determination of total amount of annual contributions to be raised
+
+The total amount of annual contributions to be raised for a given financial year shall be calculated on the basis of Part I of the budget adopted by the Board for that financial year in accordance with Article 61 of Regulation (EU) No 806/2014, adjusted by the result of the budget of the latest financial year for which the final accounts have been published in accordance with Article 63(7) of that Regulation.
+
+The Board shall determine the total amount of annual contributions so that Part I of the budget of the Board is balanced.
+
+## Article 4 — Allocation of total amount of annual contributions
+
+1\. The total amount to be raised in accordance with Article 3 shall be allocated as follows:
+
+(a) 95 % to the following entities and groups:
+
+(i) entities and groups referred to in Article 7(2) of Regulation (EU) No 806/2014;
+
+(ii) entities and groups with regard to which the Board has decided to exercise powers under Regulation (EU) No 806/2014 pursuant to Article 7(4)(b) of that Regulation;
+
+(iii) entities and groups in relation to which participating Member States have decided in accordance with Article 7(5) of Regulation (EU) No 806/2014 that the Board exercise powers and responsibilities conferred to it by that Regulation;
+
+(b) 5 % to entities and groups referred to in Article 7(3) of Regulation (EU) No 806/2014.
+
+2\. Without prejudice to Article 7, the Board shall assign entities and groups to one of the two categories laid down in paragraph 1 based on the data which the ECB provides to the Board in accordance with Article 6(1) or Article 11, as applicable.
+
+3\. Where an entity falls under the scope of paragraph 1(a), all the entities that are part of the same group shall be assigned to the same category.
+
+4\. The Board shall report yearly to the Commission on the appropriateness of the allocation laid down in paragraph 1, in the light of the changing composition of the two categories of entities and groups.
+
+## Article 4a — Advance instalments on the individual annual contributions
+
+1\. Each financial year, prior to the receipt of the data in accordance with Article 6(1), the Board may raise advance instalments on the individual annual contributions for an amount up to 75 % of the amount of annual contributions referred to in Article 3(1) from the entities and groups referred to in Article 4(1), point (a), for that financial year. The advance instalment of each entity or group shall be calculated in proportion to the individual annual contributions calculated for such entity or group in the immediately preceding financial year.
+
+2\. The Board shall deduct the payment of the advance instalment from the entity’s or group’s individual annual contribution for that financial year.
+
+## Article 5 — Calculation of the individual annual contributions
+
+1\. The Board shall calculate the individual annual contributions due for each financial year on the basis of the data received in accordance with Article 6 and the total amount of annual contributions as determined in accordance with Article 3.
+
+2\. For the purposes of calculating the individual annual contributions, the Board shall apply the provisions laid down in Article 10(1), (2) and (3) and Article 10(6)(a), (b) and (c) of Regulation (EU) No 1163/2014.
+
+3\. For the purpose of applying the provisions referred to in paragraph 2:
+
+(a) ‘annual supervisory fee’ means individual annual contribution;
+
+(b) ‘significant supervised entity’ or ‘significant supervised group’ means an entity or group as referred to in Article 4(1)(a);
+
+(c) ‘less significant supervised entity’ or ‘less significant supervised group’ means an entity or group as referred to in Article 4(1)(b);
+
+(d) ‘supervised entity’ or ‘supervised group’ means any entity or group;
+
+(e) ‘fee debtor’ means contribution debtor.
+
+4\. The annual contribution due by the entities referred to in Article 2 of Regulation (EU) No 806/2014 that are members of the same group shall be calculated as a single contribution.
+
+5\. Where the Board makes an error in the calculation of an individual annual contribution, it shall rectify the error by recalculating the individual annual contribution of each affected entity. The Board shall settle any difference between the individual annual contribution paid and the recalculated amount by increasing or decreasing the individual annual contribution calculated in the financial year following the recalculation.
+
+However, no recalculation shall be performed where the Board becomes aware of an error more than 5 years after the end of the financial year in which the error occurred.
+
+## Article 6 — Data necessary for the calculation of individual annual contributions
+
+1\. Each year, within five working days of the issuance by the ECB of fee notices in accordance with Article 12(1) of Regulation (EU) No 1163/2014, and in any case no later than 7 July of the year in which the fee notices are issued, the ECB shall provide the Board with the data on each contribution debtor as used by the ECB in that year to determine the supervisory fees in accordance with Regulation (EU) No 1163/2014.
+
+2\. The data shall contain at least the following elements:
+
+(a) the identity and contact details of each contribution debtor as determined in accordance with Article 4 of Regulation (EU) No 1163/2014 for the purpose of the supervisory fees;
+
+(b) the fee factors determined in accordance with Article 10 of Regulation (EU) No 1163/2014;
+
+(c) whether a contribution debtor is significant in accordance with Article 6(4) of Regulation (EU) No 1024/2013 or is an entity or group in relation to which the ECB has decided in accordance with Article 6(5)(b) of Regulation (EU) No 1024/2013 to exercise directly all of the relevant powers;
+
+(d) any data that the ECB has determined in the absence of reporting from a contribution debtor, in accordance with Article 10(5) of Regulation (EU) No 1163/2014;
+
+(e) the validity date underlying the fee calculation of each contribution debtor determining the duration the contribution debtor was subject to the supervisory fee and any change of status in accordance with Article 7(2) of Regulation (EU) No 1163/2014 in the given fee period.
+
+2a. Where a contribution debtor is established in a given financial year and is not a supervised entity or a supervised group as referred to in Article 10(3), point (bc), of Regulation (EU) No 1163/2014, the individual annual contributions due by that contribution debtor for that financial year and for the following financial year shall be calculated by setting the fee factors to zero. In the third financial year for which an individual annual contribution is due by such contribution debtor, the administrative individual annual contribution due for the two preceding financial years shall be recalculated based on the fee factors used for that financial year, and the difference shall be settled accordingly.
+
+3\. For the purposes of point (a) of paragraph 2, the identity and contact details of each contribution debtor shall include any personal data within the meaning of Regulation (EC) No 45/2001 ( 1 ) that is collected by the ECB for the purposes of carrying out its tasks under Regulation (EU) No 1163/2014 and that is necessary for the fulfilment of the tasks under this Regulation by the Board.
+
+4\. Where, for the purposes of this Regulation, the Board needs to identify whether an entity is part of the group that has nominated a given contribution debtor, or to verify whether an entity is obliged to contribute to the administrative expenditures of the Board, the ECB, national resolution authorities and national competent authorities shall assist the Board with all relevant information.
+
+5\. In case the ECB issues additional invoices or recalculates the annual supervisory fee in accordance with Article 7 of Regulation (EU) No 1163/2014, the ECB shall communicate to the Board the new data within 5 days of the issuance of fee notices.
+
+6\. For the calculation of the individual annual contributions due for a given financial year, the Board shall use the data used by the ECB in that year to determine the supervisory fees for the preceding year in accordance with Regulation (EU) No 1163/2014, and provided to the Board in accordance with this Article.
+
+7\. Where the ECB, in a given financial year, has not provided the Board within the periods laid down in this Article with the data necessary for the calculation of the annual contributions, the Board may use the latest available data provided to it by the ECB for the purposes of that calculation.
+
+8\. In case no data provided by the ECB is available, the relevant national competent authority shall upon request provide the Board with the data at its disposal.
+
+9\. In case no data provided by the national competent authority is available, the contribution debtor shall upon request provide the Board with the necessary data within a deadline set by the Board. In the absence of a reply by the contribution debtor within the deadline set by the Board, the Board may determine the data on the basis of reasonable assumptions.
+
+10\. The Board shall use the data specified in this Article only for the purposes of and in accordance with this Regulation.
+
+## Article 7 — Change in scope, status or other data
+
+1\. Where an entity or a group falls under the scope of Article 2 of Regulation (EU) No 806/2014 only for part of the financial year, its individual annual contribution for that financial year shall be calculated by reference to the number of full months during which it falls under the scope of that Article.
+
+2\. Where the status of an entity or a group changes between the categories specified in Article 4(1) during a financial year, its individual annual contribution for that financial year shall be calculated on the basis of the number of months for which the entity or a group fell under the respective category at the last day of the month.
+
+3\. Where other changes to the data of an entity or a group that were used to calculate its individual annual contribution for a financial year occur, the individual annual contribution of that entity or group for that financial year shall be calculated on the basis of the updated data.
+
+4\. Where a change as referred to in paragraphs 1 and 2 has been reported by the ECB or a change as referred to in paragraph 3 occurred, the Board shall recalculate only the individual annual contribution of that entity or group for the financial years concerned. Where changes as referred to in paragraph 1, 2 or 3 have occurred in relation to several entities or groups during the same financial year, the Board shall only take into account the changes concerning an individual entity or group for the purposes of recalculating the individual annual contribution of that entity or group.
+
+4a. For the purposes of calculating individual annual contributions due for a given financial year, the Board shall take into account any of the changes referred to in paragraphs 1, 2 and 3, that occur as of 1 January of that year, in the next financial year.
+
+5\. Where the amount of an individual annual contribution paid is higher than the amount recalculated in accordance with paragraph 4, the Board shall refund the difference to the entity or group concerned. Where the amount of an individual annual contribution paid is lower than the amount recalculated in accordance with paragraph 4, the entity or group concerned shall pay the difference to the Board. For the purposes of refunding or collecting an amount due in accordance with this paragraph, the Board shall decrease or increase the individual annual contribution of the entity or group concerned in the financial year following the recalculation pursuant to paragraph 4.
+
+6\. Except as provided for in Article 6(2a), the individual annual contributions of entities or groups that are not subject to the changes referred to in paragraphs 1, 2 or 3 of this Article shall not be adjusted.
+
+7\. The Board shall apply the aggregate surplus or deficit resulting from all the adjustments made in accordance with paragraph 5 to the total amount of annual contributions to be determined in accordance with Article 3 for the financial year following the financial year in which the adjustments are applied.
+
+8\. In line with the principle of sound management of its budget, the Board shall take any decisions deemed necessary in order to implement the provisions laid down in this Article, including as regards the timing of the refunds by the Board and of the additional payments to be collected from the entities.
+
+## Article 8 — Contribution notice, communications, payments and interest for late payment
+
+1\. A contribution notice shall be issued by the Board to the contribution debtors.
+
+2\. The Board shall notify the contribution notice through any of the following means:
+
+(a) electronically or by other comparable means of communication;
+
+(b) by fax;
+
+(c) by express courier service;
+
+(d) by registered mail with a form for acknowledgement of receipt;
+
+(e) by service or delivery by hand.
+
+The contribution notice shall be valid without signature.
+
+3\. The contribution notice shall specify the amount of the individual annual contribution, or the advance instalment referred to in Article 4a, and the way in which the annual contribution or advance instalment shall be paid. The contribution notice shall be duly reasoned with regard to the factual and legal aspects of the individual contribution decision or advance instalment decision.
+
+4\. The Board shall address any other communication with regard to the individual annual contribution, including any settlement decision taken in accordance with Article 10(8), and, where applicable, with regard to the advance instalment, to the contribution debtor.
+
+5\. The individual annual contribution or advance instalment shall be payable in euros.
+
+6\. The contribution debtor shall pay the amount of the individual annual contribution or advance instalment within 35 calendar days of the issuance of the contribution notice. The contribution debtor shall comply with the requirements set out in the contribution notice with respect to the payment of the individual annual contribution or advance instalment. The date of payment shall be the date on which the Board’s account is credited.
+
+7\. The individual annual contribution and, where applicable, the advance instalment, due by the entities referred to in Article 2 of Regulation (EU) No 806/2014 that are members of the same group shall be collected from the contribution debtor of that group.
+
+8\. Without prejudice to any other remedy available to the Board, in the event of partial payment, non-payment or non-compliance with the conditions for payment specified in the contribution notice, interest shall accrue on a daily basis on the outstanding amount of the individual annual contribution and, where applicable, of the advance instalment, at an interest rate of the ECB’s main refinancing rate plus 8 percentage points from the date on which the payment was due.
+
+9\. In the event of any partial payment, non-payment or non-compliance with the conditions for payment specified in the contribution notice by the contribution debtor, the Board shall inform the national resolution authority of the participating Member State in which the contribution debtor is established.
+
+## Article 9 — Enforcement
+
+1\. The payments of the individual annual contributions and advance instalments due and any interest for late payment pursuant to Article 8(8) shall be enforceable.
+
+2\. Enforcement shall be governed by the procedural rules applicable in the participating Member State in whose territory it is carried out.
+
+3\. The government of each participating Member State shall designate and notify to the Board and to the Court of Justice of the European Union an authority for the purposes of verifying the authenticity of individual contribution decisions.
+
+4\. An order for enforcement shall be appended to each individual contribution decision. The enforcement shall not be subject to any formality other than the verification of the authenticity of the decision by the authority designated pursuant to paragraph 3.
+
+5\. National resolution authorities shall assist the Board in the enforcement procedure governed by the applicable procedural rules in the participating Member State.
+
+## Article 10 — Recalculation and settlement of contributions due for the provisional period
+
+1\. For the purposes of the recalculation and settlement of contributions due for the provisional period, the months of November and December 2014 shall be considered part of the financial year 2015.
+
+2\. The Board shall recalculate, in accordance with the provisions laid down in this Regulation, the amount of contributions due by each entity referred to in Article 2 of Regulation (EU) No 806/2014 to cover the administrative expenditures of the Board during the provisional period.
+
+3\. Without prejudice to Article 6(4), for the recalculation of the amount of contributions due by each entity in the financial years belonging to the provisional period, the Board shall use the data collected by the ECB in those financial years in accordance with Regulation (EU) No 1163/2014 and provided to the Board in accordance with Article 11.
+
+4\. Any difference between the instalments paid by significant entities on the basis of the provisional system laid down in Delegated Regulation (EU) No 1310/2014 and the contributions referred to in paragraph 2 shall be settled in the calculation of the annual contributions due for the financial year which follows the end of the provisional period. That settlement shall be made by decreasing or increasing the annual contributions due for that financial year.
+
+5\. Entities referred to in Article 2 of Regulation (EU) No 806/2014 for which the calculation and collection of contributions was deferred in the provisional period shall pay contributions calculated in accordance with paragraph 2 for the years belonging to the provisional period. Those contributions shall increase the annual contributions due for the financial year which follows the end of the provisional period.
+
+6\. For the purposes of paragraph 4 ‘significant entities’ shall mean the entities that have been notified by the ECB, at the highest level of consolidation within the participating Member States, of the ECB's decision to consider them significant within the meaning of Article 6(4) of Regulation (EU) No 1024/2013 and in accordance with Article 147(1) of Regulation (EU) No 468/2014 ( 2 ), and which are mentioned in the list published on the ECB's website on 4 September 2014, but excluding those significant entities, which are subsidiaries of a group, that is already taken into account in this definition, and branches, which are established in participating Member States, of credit institutions established in non-participating Member States.
+
+7\. Where the difference referred to in paragraph 4 or the contributions for the years belonging to the provisional period referred to in paragraph 5 are higher than the contributions due for the financial year which follows the end of the provisional period, the adjustment shall continue in the subsequent financial years.
+
+8\. Where two or more entities within a group are subject to settlements pursuant to paragraph 4 or 5, the Board may set off contributions due against reimbursements with respect to entities of that group.
+
+## Article 11 — Data necessary for the purposes of recalculating the contributions for financial years belonging to the provisional period
+
+Within 30 days of the entry into force of this Regulation, the ECB shall provide the Board with the data as specified in Article 6 and collected by the ECB in accordance with Regulation (EU) No 1163/2014 in financial years belonging to the provisional period.
+
+## Article 12 — Outsourcing
+
+1\. The Board may decide on the full or partial outsourcing of specific tasks provided for in this Regulation.
+
+2\. The Board shall restrict any outsourcing to technical tasks which are related to the raising of contributions and do not involve the exercise of its powers as regards the determination of contributions.
+
+3\. Any mandate given to a service provider for the purposes of outsourcing tasks shall clearly state the duration of the mandate and the specific tasks that are outsourced and establish a framework for regular reporting by the service provider to the Board.
+
+4\. Any contract between the Board and a service provider for the purposes of outsourcing tasks in accordance with paragraph 1 shall include clauses governing the Board's cancellation rights, rights relating to further subcontracting and non-performance by the service provider.
+
+5\. Where the Board fully or partially outsources tasks in accordance with paragraph 1, it shall remain fully responsible for discharging all of its obligations under Regulation (EU) No 806/2014 and this Regulation.
+
+6\. Where the Board fully or partially outsources tasks in accordance with paragraph 1, it shall ensure at all times that:
+
+(a) any contract concluded for the purposes of the outsourcing does not provide for the delegation of the Board's responsibility;
+
+(b) any contract concluded for the purposes of the outsourcing does not provide for an exclusion of the Board's accountability under Article 45 and Article 46(1) of Regulation (EU) No 806/2014, or of its independence under Article 47 of that Regulation;
+
+(c) the outsourcing does not result in depriving the Board from the necessary systems and controls to manage the risks it faces;
+
+(d) the service provider implements business continuity arrangements equivalent to those of the Board;
+
+(e) the Board retains the necessary expertise and resources to evaluate the quality of the services provided and the organisational adequacy of the service provider; the Board supervises the outsourced functions effectively and manages the risks associated with the outsourcing on an ongoing basis;
+
+(f) the Board has direct access to the relevant information allowing it to exercise the necessary control on the outsourced tasks.
+
+7\. Where the Board fully or partially outsources tasks in accordance with paragraph 1, it shall ensure that the service provider is obliged to comply with the Board's internal legal requirements and principles concerning security and confidentiality. Any confidential information relating to the Board and accessible to the service provider shall be used only to the extent necessary for the fulfilment of the mandate conferred by the Board.
+
+8\. Before taking any decision on outsourcing, the Board shall obtain the consent of the ECB to share the data provided by the ECB with a service provider, in accordance with applicable confidentiality provisions.
+
+## Article 13 — Assistance by national resolution authorities
+
+The Board may request the national resolution authorities to assist in the process of raising annual contributions where such request is justified by the circumstances of the individual case.
+
+## Article 14 — Repeal
+
+Delegated Regulation (EU) No 1310/2014 is repealed.
+
+## Article 14a — Transitional arrangements for the financial year 2021
+
+In 2021, the Board shall calculate the individual annual contributions due for the financial year 2021 on the basis of the data provided by the ECB to the Board in 2019 and any subsequent updates thereto in accordance with Article 6. In 2022, the Board shall recalculate the individual annual contributions due for the financial year 2021 on the basis of the data provided by the ECB to the Board in 2021 in accordance with Article 6. Any difference between the amount originally calculated for the financial year 2021 and the recalculated amount shall be settled when calculating the individual annual contributions due for the financial year 2022.
+
+## Article 15 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).
+
+( 2 ) Regulation (EU) No 468/2014 of the European Central Bank of 16 April 2014 establishing the framework for cooperation within the Single Supervisory Mechanism between the European Central Bank and national competent authorities and with national designated authorities (SSM Framework Regulation) (ECB/2014/17) (OJ L 141, 14.5.2014, p. 1).

@@ -819,6 +819,7 @@ BÓKA J.
 
 **Part II. Data relating to vehicles provided in accordance with Article 4(1) and (3)**
 
+<table>
 <tbody><tr><td>Item</td><td>M/O (7)</td><td>Remarks (8)</td></tr>
 <tr><td>Maximum technically permissible laden mass except for motorcycles</td><td>M</td><td>(Code F.1)</td></tr>
 <tr><td>Maximum permissible laden mass of the vehicle in service in the Member State of registration</td><td>M</td><td>(Code F.2)</td></tr>
@@ -839,6 +840,7 @@ BÓKA J.
 <tr><td>Type of fuel or power source</td><td></td><td>(Code P.3)</td></tr>
 <tr><td>EURO type</td><td>O</td><td>(Code V.9)</td></tr>
 </tbody>
+</table>
 
 **Part III. Data relating to holders and owners of the vehicles**
 

@@ -223,6 +223,7 @@ or
 
 **Daily and weekly working time**
 
+<table>
 <tbody><tr><td></td><td>1.</td><td>Working time shall not exceed:<table><tbody><tr><td>(a)</td><td>14 hours in any 24-hour period; and</td></tr>
 </tbody>
 </table>
@@ -231,6 +232,7 @@ or
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 2. | If, according to the work schedule, there are more working days than rest days, an average weekly working time of 72 hours shall not be exceeded over a four-month period. |
 | --- | --- | --- |
@@ -242,6 +244,7 @@ or
 |  | 1. | No more than 31 days may be worked consecutively. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>2.</td><td>If, according to the work schedule, the number of working days is no more than the number of rest days, consecutive working days shall be followed immediately by the same number of consecutive rest days. Exceptions to the number of consecutive rest days to be granted immediately shall be allowed on condition that:<table><tbody><tr><td>(a)</td><td>the maximum number of 31 consecutive working days is not exceeded, and</td></tr>
 </tbody>
 </table>
@@ -253,7 +256,9 @@ or
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>3.</td><td>If, according to the work schedule, there are more working days than rest days, the minimum number of consecutive rest days which immediately follow the consecutive working days shall be:<table><tbody><tr><td>(a)</td><td>1st to 10th consecutive working day: 0,2 rest days per consecutive working day (e.g. 10 consecutive working days = 2 rest days);</td></tr>
 </tbody>
 </table>
@@ -265,6 +270,7 @@ or
 </table>
  Partial rest days shall, in this calculation, be added to the minimum number of consecutive rest days and granted only as full days. </td></tr>
 </tbody>
+</table>
 
 **Paragraph 6**
 
@@ -337,6 +343,7 @@ The minimum period of paid annual leave may not be replaced by an allowance in l
 |  | 3. | The records shall be examined and endorsed at appropriate intervals (no later than by the end of the following month) jointly by the employer or employer's representative and by the worker. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>4.</td><td>The records shall contain the following minimum information:<table><tbody><tr><td>(a)</td><td>name of the vessel,</td></tr>
 </tbody>
 </table>
@@ -357,6 +364,7 @@ The minimum period of paid annual leave may not be replaced by an allowance in l
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | 5. | Workers shall be given a copy of the endorsed records relating to them. They shall keep these with them for one year. |
 | --- | --- | --- |

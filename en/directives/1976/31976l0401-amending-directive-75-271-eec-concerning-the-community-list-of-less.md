@@ -82,6 +82,7 @@ This Directive is addressed to the French Republic.
 
 ANHANGBILAGANNEXANNEXEALLEGATOBIJLAGE
 
+<table>
 <tbody><tr><td>CANTONS</td><td>COMMUNES OU PARTIES DE COMMUNES</td></tr>
 <tr><td colspan="2"> 01 — Département de l'Ain </td></tr>
 <tr><td colspan="2">Arrondissement de Belley</td></tr>
@@ -614,6 +615,7 @@ Arrondissement de Limoges<tr><td>Châteauneuf-la-Forêt</td><td>La Croisille-sur
 <tr><td colspan="2"> 90 — Département du territoire de Belfort </td></tr>
 Arrondissement de Belfort<tr><td>Giromagny</td><td>Auxelles-Bas, Giromagny</td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ No L 128, 19. 5. 1975, p. 1.
 

@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **on the establishment of common rules for certain types of combined transport of goods between Member States**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/103/EC of 20 November 2006 </td><td> L 363</td><td>344</td><td>20.12.2006</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/22/EU of 13 May 2013 </td><td> L 158</td><td>356</td><td>10.6.2013</td></tr>
+</table>
 
 | A1 | ACT (94/C 241/08) | C 241 | 21 | 29.8.1994 |
 | --- | --- | --- | --- | --- |

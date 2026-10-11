@@ -1,0 +1,294 @@
+---
+title: "Commission Delegated Regulation (EU) 2018/1645 of 13 July 2018 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards for the form and content of the application for recognition with the competent authority of the Member State of reference and of the presentation of information in the notification to European Securities and Markets Authority (ESMA) (Text with EEA relevance.)"
+identifier: "32018R1645"
+eli: "http://data.europa.eu/eli/reg_del/2018/1645/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2018-07-13
+entry_into_force: 2018-11-08
+last_amended: 2026-02-19
+consolidated_version: "02018R1645-20260219"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1645-20260219"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2018/1645 of 13 July 2018 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards for the form and content of the application for recognition with the competent authority of the Member State of reference and of the presentation of information in the notification to European Securities and Markets Authority (ESMA) (Text with EEA relevance.)
+
+**COMMISSION DELEGATED REGULATION (EU) 2018/1645**
+
+**of 13 July 2018**
+
+**supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards for the form and content of the application for recognition with the competent authority of the Member State of reference and of the presentation of information in the notification to European Securities and Markets Authority (ESMA)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/264 of 27 October 2025 </td><td> L 264</td><td>1</td><td>30.1.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2018/1645**
+
+**of 13 July 2018**
+
+**supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards for the form and content of the application for recognition with the competent authority of the Member State of reference and of the presentation of information in the notification to European Securities and Markets Authority (ESMA)**
+
+**(Text with EEA relevance)**
+
+## Article 1 — General requirements
+
+1\. An administrator located in a third country shall when applying for recognition pursuant to Article 32 of Regulation (EU) 2016/1011 provide the information listed in the Annex.
+
+2\. Where the applicant has left out any of the required information, the application shall include an explanation as to why that information has not been provided.
+
+3\. Personal data relating to the good repute of an applicant benchmark administrator’s management body and employees responsible for the oversight function, or of members performing the oversight function where a separate committee carries out the oversight function, shall be kept by applicant benchmark administrators and ESMA for as long as necessary to assess the initial application and the ongoing supervision, as applicable and no longer than five years after that person has ceased to perform its function.
+
+## Article 2 — Format of the application
+
+1\. The application for recognition shall be submitted in a language customary in the sphere of international finance or in one of the official languages of the Member State where the legal representative is established.
+
+2\. The application for recognition shall be submitted by electronic means.  Those electronic means shall ensure that completeness, integrity and confidentiality of the information are maintained during the transmission. The applicant shall ensure that each submitted document clearly identifies to which specific requirement of this Regulation it refers.
+
+## Article 2a — Information to be provided for specific types of benchmarks
+
+1\. An applicant providing only interest rate benchmarks shall:
+
+(a) submit the information listed in the Annex to this Regulation;
+
+(b) specify how the specific requirements laid down in Annex I to Regulation (EU) 2016/1011 are implemented where, pursuant to Article 18 of that Regulation, those specific requirements apply.
+
+2\. An applicant providing only commodity benchmarks shall:
+
+(a) submit the information listed in the Annex to this Regulation;
+
+(b) specify how the specific requirements set out in Annex II to Regulation (EU) 2016/1011 are implemented where, pursuant to Article 19 of that Regulation, those specific requirements apply.
+
+## Article 3 — Specific information concerning policies and procedures
+
+1\. Any policies and procedures established to comply with requirements of Regulation (EU) 2016/1011 and described in an application shall contain or be accompanied by:
+
+(a) an indication of the identity of the person or persons responsible for the approval and maintenance of the policies and procedures;
+
+(b) a description of how compliance with the policies and procedures is monitored and the identity of the person or persons responsible for this monitoring;
+
+(c) a description of the measures to be taken in the event of a breach of the policies and procedures.
+
+2\. Where an applicant is a company within a group, it may comply with paragraph 1 by submitting the policies and procedures of its group where they relate to the provision of benchmarks.
+
+## Article 4 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 25 January 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX — Information to be provided in the application for recognition under Article 32 of Regulation (EU) 2016/1011
+
+**SECTION A**
+
+**INFORMATION ON THE PROVIDING PERSON AND ITS LEGAL REPRESENTATIVE IN THE UNION**
+
+**1\. GENERAL INFORMATION**
+
+(a) full name of the applicant and its Legal Entity Identifier (LEI), where available;
+
+(b) address of the office in the country of location;
+
+(c) legal status;
+
+(d) website, if any;
+
+(e) where the applicant is supervised in the third country where it is located, information about its current authorisation status, including the activities for which it is authorised, the name and address of the competent authority of the third country and the link to the register of such competent authority, where available;
+
+(f) where more than one authority is responsible for supervision, the details of the respective areas of competence of those authorities;
+
+(g) a description of those operations of the applicant in the Union and in third countries that are relevant for the provision of benchmarks, together with a description of where these operations are conducted;
+
+(h) where the applicant is part of a group, its group structure, together with the ownership chart, showing the links between any parent undertaking and its subsidiaries, and with the undertakings and subsidiaries being identified by their full name, legal status and address of the registered office and head office;
+
+(i) a self-declaration of good repute of the applicant, including details, where applicable, of any:
+
+(i) proceedings of a disciplinary nature in connection with the provision of financial services, misconduct or fraud against the applicant (unless dismissed);
+
+(ii) refusal of authorisation or registration by a financial authority;
+
+(iii) withdrawal of authorisation or registration by a financial authority;
+
+(iv) proven adverse findings in civil proceedings in connection with the provision of financial services, with misconduct, or with fraud.
+
+**2\. LEGAL REPRESENTATIVE**
+
+With respect to the legal representative referred to in Article 32(3) of Regulation (EU) 2016/1011, its:
+
+(a) full name;
+
+(b) title, in case of a natural person, or legal status, in case of a legal person;
+
+(c) in case of a legal person, the deed of incorporation, articles of association or other constitutional documents;
+
+(d) whether the legal representative is supervised by a supervisory authority;
+
+(e) address;
+
+(f) email address;
+
+(g) telephone number;
+
+(h) a copy of the appointment to act as legal representative, as referred to in Article 32(3) of Regulation (EU) 2016/1011;
+
+(i) details of the performance of the oversight function by the legal representative relating to the provision of benchmarks that may be used in the Union;
+
+(j) the name, title, address, email address and telephone number of a contact person within the legal representative, where applicable.
+
+**3\. ORGANISATIONAL STRUCTURE AND GOVERNANCE**
+
+(a) the internal organisational structure, as referred to in Article 4(1) of Regulation (EU) 2016/1011 and further specified in Commission Delegated Regulation (EU) 2021/1350 ( 1 ), with respect to the board of directors, senior management committees, oversight function and any other internal body that exercises significant management functions and is involved in the provision of a benchmark, including their:
+
+(i) terms of reference or summary thereof;
+
+(ii) adherence to any governance codes or similar provisions;
+
+(b) a description of the procedures to ensure that the employees of the applicant and any other natural persons whose services are placed at its disposal or under its control and who are directly involved in the provision of a benchmark have the necessary skills, knowledge and experience for the duties assigned to them and comply with Article 4(7), points (b) to (e), of Regulation (EU) 2016/1011;
+
+(c) the number of employees (temporary and permanent) per function that are directly or indirectly involved in the provision of a benchmark;
+
+(d) the curriculum vitae, including employment history with relevant dates, identification of past positions held and a description of the functions occupied, for each of the following:
+
+(i) the members of the management body;
+
+(ii) the employees responsible for the oversight function or the members performing the oversight function in case the oversight function is carried out by a separate committee;
+
+(iii) the employees responsible for the functions within the control framework referred to in Article 6(3) of Regulation (EU) 2016/1011 and for the internal function referred to in Article 7(2) of that Regulation;
+
+(e) in respect of each member of the applicant’s management body and employees responsible for the oversight function or members performing the oversight function in case the oversight function is carried out by a separate committee, the following information:
+
+(i) a self-declaration on whether the person concerned:
+
+(1) has been convicted of any criminal offence, or a proof of the absence of criminal records referred to in point (ii);
+
+(2) has been subject to, or has been notified of, any proceedings of a disciplinary nature in connection with the provision of financial services, misconduct or fraud brought by a regulatory body or of a criminal nature;
+
+(3) has been subject to any adverse finding in civil proceedings in connection with the provision of financial services, misconduct, fraud, or the management of a legal entity;
+
+(4) has been refused the right to carry on activities which require registration or authorisation by a regulatory body or has been investigated or suspended by a regulatory body;
+
+(5) has been disqualified from acting in any managerial capacity, or has been dismissed from employment or other appointment in an undertaking as a consequence of allegations of misconduct or malpractice.
+
+(ii) in the absence of a self-declaration by the applicant, proof of the absence of recent criminal records for money laundering, terrorist financing, provision of financial services or data services, acts of fraud or embezzlement from the country of origin of the person concerned.
+
+**4\. CONFLICTS OF INTEREST**
+
+(a) policies and procedures that address:
+
+(i) how actual and potential conflicts of interest are or will be identified, recorded, managed, mitigated, prevented, or remedied taking into account the requirements laid down in Article 4(6) of Regulation (EU) 2016/1011;
+
+(ii) particular circumstances which apply to the applicant or to any particular benchmark provided by the applicant and which may be used in the Union, in relation to which conflicts of interest are most likely to arise, including:
+
+(1) where expert judgment or discretion is exercised in the benchmark’s determination process;
+
+(2) where the applicant is within the same group as a user of a benchmark;
+
+(3) where the applicant is a participant in the market or economic reality that the benchmark intends to measure;
+
+(iii) how the provision of benchmarks is operationally separated as referred to in Article 4(2) of Regulation (EU) 2016/1011, unless the applicant has chosen not to apply that requirement in respect of its significant benchmarks as provided for in Article 25 of that Regulation;
+
+(b) for a benchmark or a family of benchmarks, a list of any material actual or potential conflicts of interest identified, along with the respective mitigation measures;
+
+(c) the structure of the remuneration policy, specifying the criteria used to determine the remuneration of the persons involved directly or indirectly in the activity of the provision of benchmarks.
+
+**5\. INTERNAL CONTROL STRUCTURE, OVERSIGHT AND ACCOUNTABILITY FRAMEWORK**
+
+(a) policies and procedures for monitoring the activities of the provision of a benchmark or a family of benchmarks, including those relating to:
+
+(i) the constitution, role, and functioning of the oversight function, as referred to in Article 5 of Regulation (EU) 2016/1011 and further specified in Commission Delegated Regulation (EU) 2018/1637 ( 2 ), or the corresponding principles on financial benchmarks agreed by the International Organization of Securities Commissions (IOSCO) on 17 July 2013 (‘IOSCO principles for financial benchmarks’), or the Principles for Oil Price Reporting Agencies agreed by the IOSCO on 5 October 2012 (‘IOSCO principles for PRAs’), as applicable, including a description of the procedures for the appointment, substitution or removal of individuals within the oversight function;
+
+(ii) the constitution, role and functioning of the control framework, as referred to in Article 6 of Regulation (EU) 2016/1011, or the corresponding IOSCO Principles for financial benchmarks or for PRAs, as applicable;
+
+(iii) the accountability framework as referred to in Article 7 of Regulation (EU) 2016/1011 or the corresponding IOSCO Principles for financial benchmarks or for PRAs, as applicable;
+
+(iv) the record keeping obligations as referred to in Article 8 of Regulation (EU) 2016/1011;
+
+(v) the complaints-handling mechanism as referred to in Article 9 of Regulation (EU) 2016/1011;
+
+(b) a description of the procedures for the internal reporting of infringements of Regulation (EU) 2016/1011 by managers, employees, and any other natural persons whose services are placed at the applicant’s disposal or under the control of the applicant, as referred to in Article 14 of Regulation (EU) 2016/1011 and further specified in Commission Delegated Regulation (EU) 2021/1351 ( 3 ).
+
+**6\. OUTSOURCING**
+
+Where any activity forming a part of the process for the provision of a benchmark or family of benchmarks is outsourced, a description of the policies, procedures and the relevant outsourcing arrangements, including service-level agreements, which demonstrate compliance with Article 10 of Regulation (EU) 2016/1011 or the corresponding IOSCO Principles for financial benchmarks or for PRAs, as applicable.
+
+**7\. COMPLIANCE WITH IOSCO PRINCIPLES**
+
+(a) where available, an assessment by an independent external auditor of compliance with the principles for financial benchmarks agreed by the International Organization of Securities Commissions (IOSCO) on 17 July 2013 or the Principles for Oil Price Reporting Agencies agreed by IOSCO on 5 October 2012, as applicable;
+
+(b) where available, where the applicant is subject to supervision, a certification provided by the competent authority of the third country where the applicant is located, attesting compliance with the IOSCO principles referred to in point (a).
+
+**8\. OTHER INFORMATION**
+
+The applicant may provide any additional information relevant to its application that it considers appropriate in a manner and form stipulated by ESMA.
+
+**SECTION B**
+
+**INFORMATION ON THE BENCHMARKS IN SCOPE**
+
+**9\. DESCRIPTION OF THE ACTUAL OR PROSPECTIVE BENCHMARKS OR FAMILIES OF BENCHMARKS THAT MAY BE USED IN THE UNION**
+
+(a) a list including all the benchmarks provided by the applicant that are already used in the Union or, where known with respect to Paris Aligned Benchmarks, Climate Transition Benchmarks and commodity benchmarks subject to Annex II to Regulation (EU) 2016/1011, are intended to be marketed for their use in the Union and, where available, their International Securities Identification Numbers (ISINs);
+
+(b) a description of the benchmark or family of benchmarks provided and that are already used in the Union or, where known with respect to Paris Aligned Benchmarks, Climate Transition Benchmarks and commodity benchmarks subject to Annex II to Regulation (EU) 2016/1011, are intended to be marketed for their use in the Union, including a description of the underlying market or economic reality that the benchmark or the family of benchmarks is intended to measure, along with an indication of the sources used to provide those descriptions, and a description of contributors, if any, to that benchmark or family of benchmarks;
+
+(c) any documented evidence that a benchmark or family of benchmarks referred to in point (b) may be considered regulated-data benchmarks and is thus entitled to the exemptions set out in Article 17(1) of Regulation (EU) 2016/1011;
+
+(d) any documented evidence that a benchmark or family of benchmarks referred to in point (b) may be considered a commodity benchmark, and that it is not based on submissions by contributors the majority of which are supervised entities, along with any evidence of the implementation of the special regime requirements as set out in Article 19 of Regulation (EU) 2016/1011 and Annex II to that Regulation or the corresponding IOSCO Principles for PRAs;
+
+(e) any documented evidence that a benchmark or family of benchmarks referred to in point (b) may be considered an interest rate benchmark, along with any evidence of the implementation of the special regime requirements as set out in Article 18 of Regulation (EU) 2016/1011 and Annex I to that Regulation;
+
+(f) any documented evidence that a benchmark or family of benchmarks referred to in point (b) is used within the Union territory;
+
+(g) the rationale behind the application of any of the exemptions for significant benchmarks set out in Article 25(1) of Regulation (EU) 2016/1011 in respect of the benchmark;
+
+(h) information on measures to deal with corrections to a benchmark determination or publication;
+
+(i) information on the procedure to be undertaken by the applicant in the event of changes to or the cessation of a benchmark, as referred to in Article 28(1) of Regulation (EU) 2016/1011, or as referred to in the corresponding IOSCO Principles for financial benchmarks or for PRAs, as applicable;
+
+(j) the benchmark statement for each benchmark or, where applicable, for each family of benchmarks, as referred to in Article 27 of Regulation (EU) 2016/1011 and further specified in Commission Delegated Regulation (EU) 2018/1643 ( 4 ).
+
+For the purposes of point (f), the information to be provided shall include an estimate, to the best of the knowledge of the applicant, of the use of the benchmarks directly or indirectly within a combination of benchmarks as a reference for financial instruments or financial contracts or for measuring the performance of investments. That estimate shall be determined, to the extent possible, on the basis of Articles 1, 2 and 3 of Commission Delegated Regulation (EU) 2018/66 ( 5 ) on the assessment of:
+
+(a) the nominal amount of financial instruments other than derivatives;
+
+(b) the notional amount of derivatives;
+
+(c) the net asset value of investment funds that make reference to the third country benchmarks, within the Union, including in the event of an indirect reference to any such benchmark within a combination of benchmarks.
+
+For the purposes of point (g), the information shall be presented, to the extent possible, on the basis of the format established by Commission Implementing Regulation (EU) 2018/1106 ( 6 ).
+
+**10\. INPUT DATA AND METHODOLOGY**
+
+(a) for each benchmark or family of benchmarks, a description of the policies and procedures with respect to the input data requirements laid down in Article 11 of Regulation (EU) 2016/1011 and further specified in Commission Delegated Regulation (EU) 2018/1638 ( 7 );
+
+(b) for each benchmark or family of benchmarks, with respect to the methodology:
+
+(i) any documented evidence that the methodology used for determining a benchmark complies with the requirements set out in Article 12 of Regulation (EU) 2016/1011 and further specified in Commission Delegated Regulation (EU) 2021/1352 ( 8 );
+
+(ii) any documented evidence that the applicant develops, operates and administers the benchmark and methodology transparently in accordance with Article 13 of Regulation (EU) 2016/1011, as further specified in Commission Delegated Regulation (EU) 2018/1641.
+
+( 1 ) Commission Delegated Regulation (EU) 2021/1350 of 6 May 2021 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards specifying the requirements to ensure that an administrator’s governance arrangements are sufficiently robust (OJ L 291, 13.8.2021, p. 9, ELI: http://data.europa.eu/eli/reg_del/2021/1350/oj).
+
+( 2 ) Commission Delegated Regulation (EU) 2018/1637 of 13 July 2018 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards for the procedures and characteristics of the oversight function (OJ L 274, 5.11.2018, p. 1, ELI: http://data.europa.eu/eli/reg_del/2018/1637/oj).
+
+( 3 ) Commission Delegated Regulation (EU) 2021/1351 of 6 May 2021 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards specifying the characteristics of the systems and controls for the identification and reporting of any conduct that may involve manipulation or attempted manipulation of a benchmark (OJ L 291, 13.8.2021, p. 13, ELI: http://data.europa.eu/eli/reg_del/2021/1351/oj).
+
+( 4 ) Commission Delegated Regulation (EU) 2018/1643 of 13 July 2018 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards specifying further the contents of, and cases where updates are required to, the benchmark statement to be published by the administrator of a benchmark (OJ L 274, 5.11.2018, p. 29, ELI: http://data.europa.eu/eli/reg_del/2018/1643/oj).
+
+( 5 ) Commission Delegated Regulation (EU) 2018/66 of 29 September 2017 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council specifying how the nominal amount of financial instruments other than derivatives, the notional amount of derivatives and the net asset value of investment funds are to be assessed (OJ L 12, 17.1.2018, p. 11, ELI: http://data.europa.eu/eli/reg_del/2018/66/oj).
+
+( 6 ) Commission Implementing Regulation (EU) 2018/1106 of 8 August 2018 laying down implementing technical standards with regard to templates for the compliance statement to be published and maintained by administrators of significant and nonsignificant benchmarks pursuant to Regulation (EU) 2016/1011 of the European Parliament and of the Council (OJ L 202, 9.8.2018, p. 9, ELI: http://data.europa.eu/eli/reg_impl/2018/1106/oj).
+
+( 7 ) Commission Delegated Regulation (EU) 2018/1638 of 13 July 2018 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards specifying further how to ensure that input data is appropriate and verifiable, and the internal oversight and verification procedures of a contributor that the administrator of a critical or significant benchmark has to ensure are in place where the input data is contributed from a front office function (OJ L 274, 5.11.2018, p. 6, ELI: http://data.europa.eu/eli/reg_del/2018/1638/oj).
+
+( 8 ) Commission Delegated Regulation (EU) 2021/1352 of 6 May 2021 supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council with regard to regulatory technical standards specifying the conditions to ensure that the methodology for determining a benchmark complies with the quality requirements (OJ L 291, 13.8.2021, p. 16, ELI: http://data.europa.eu/eli/reg_del/2021/1352/oj).

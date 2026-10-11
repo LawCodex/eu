@@ -83,6 +83,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, point 24 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘24</td><td>Lead in solders for the soldering to machined through hole discoidal and planar array ceramic multilayer capacitors</td><td>Expires on:<table><tbody><tr><td>—</td><td>21 July 2021 for categories 1-7 and 10,</td></tr>
 </tbody>
 </table>
@@ -97,3 +98,4 @@ In Annex III to Directive 2011/65/EU, point 24 is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>

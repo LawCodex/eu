@@ -32,9 +32,11 @@ amending Directive 85/350/EEC concerning the Community list of less-favoured far
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Decision of 23 March 1999</td><td> L 96</td><td>29</td><td>10.4.1999</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -76,6 +78,7 @@ This Directive is addressed to Ireland.
 
 LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (4) OF DIRECTIVE 75/268/EEC
 
+<table>
 <tbody><tr><td rowspan="2">County</td><td rowspan="2">District electoraldivision</td><td colspan="2">Townlands</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td rowspan="17">Carlow</td><td>Ballymurphy</td><td>  </td><td> Ballymurphy  Lacken  Seskin </td></tr>
@@ -778,11 +781,13 @@ LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (4) OF DIRECTIVE 75/268/EEC
 <tr><td>Tinnasaggart</td><td>  </td><td>Kilrossanty</td></tr>
 <tr><td>Whitechurch</td><td>  </td><td>Woodstock</td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
 LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (5) OF DIRECTIVE 75/268/EEC
 
+<table>
 <tbody><tr><td rowspan="2">County</td><td rowspan="2">District electoraldivision</td><td colspan="2">Townlands</td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>Dublin</td><td>Donabate</td><td>  </td><td>Lambay Island</td></tr>
@@ -828,6 +833,7 @@ LESS-FAVOURED AREAS WITHIN THE MEANING OF ARTICLE 3 (5) OF DIRECTIVE 75/268/EEC
 <tr><td>Rathmoylan</td><td>  </td><td> Brownstown  Coolum  Corbally More  Lisselty  Summerville </td></tr>
 <tr><td>Tramore</td><td>  </td><td> Ballycarnane  Crobally Lower  Crobally Upper  Tramore East  Tramore Intake  Tramore West </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ No L 128, 19. 5. 1975, p. 1.
 

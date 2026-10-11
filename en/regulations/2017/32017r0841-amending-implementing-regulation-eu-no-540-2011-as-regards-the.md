@@ -1,0 +1,108 @@
+---
+title: "Commission Implementing Regulation (EU) 2017/841 of 17 May 2017 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances alpha-cypermethrin, Ampelomyces quisqualis strain: aq 10, benalaxyl, bentazone, bifenazate, bromoxynil, carfentrazone ethyl, chlorpropham, cyazofamid, desmedipham, diquat, DPX KE 459 (flupyrsulfuron-methyl), etoxazole, famoxadone, fenamidone, flumioxazine, foramsulfuron, Gliocladium catenulatum strain: j1446, imazamox, imazosulfuron, isoxaflutole, laminarin, metalaxyl-m, methoxyfenozide, milbemectin, oxasulfuron, pendimethalin, phenmedipham, pymetrozine, s-metolachlor, and trifloxystrobin (Text with EEA relevance. )"
+identifier: "32017R0841"
+eli: "http://data.europa.eu/eli/reg_impl/2017/841/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2017-05-17
+entry_into_force: 2017-12-01
+last_amended: 2017-05-18
+consolidated_version: "02017R0841-20170518"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0841-20170518"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2017/841 of 17 May 2017 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances alpha-cypermethrin, Ampelomyces quisqualis strain: aq 10, benalaxyl, bentazone, bifenazate, bromoxynil, carfentrazone ethyl, chlorpropham, cyazofamid, desmedipham, diquat, DPX KE 459 (flupyrsulfuron-methyl), etoxazole, famoxadone, fenamidone, flumioxazine, foramsulfuron, Gliocladium catenulatum strain: j1446, imazamox, imazosulfuron, isoxaflutole, laminarin, metalaxyl-m, methoxyfenozide, milbemectin, oxasulfuron, pendimethalin, phenmedipham, pymetrozine, s-metolachlor, and trifloxystrobin (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2017/841**
+
+**of 17 May 2017**
+
+**amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances alpha-cypermethrin, Ampelomyces quisqualis strain: aq 10, benalaxyl, bentazone, bifenazate, bromoxynil, carfentrazone ethyl, chlorpropham, cyazofamid, desmedipham, diquat, DPX KE 459 (flupyrsulfuron-methyl), etoxazole, famoxadone, fenamidone, flumioxazine, foramsulfuron, Gliocladium catenulatum strain: j1446, imazamox, isoxaflutole, laminarin, metalaxyl-m, methoxyfenozide, milbemectin, oxasulfuron, pendimethalin, phenmedipham, pymetrozine, s-metolachlor, and trifloxystrobin**
+
+**(Text with EEA relevance)**
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2017/841**
+
+**of 17 May 2017**
+
+**amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances alpha-cypermethrin, Ampelomyces quisqualis strain: aq 10, benalaxyl, bentazone, bifenazate, bromoxynil, carfentrazone ethyl, chlorpropham, cyazofamid, desmedipham, diquat, DPX KE 459 (flupyrsulfuron-methyl), etoxazole, famoxadone, fenamidone, flumioxazine, foramsulfuron, Gliocladium catenulatum strain: j1446, imazamox, isoxaflutole, laminarin, metalaxyl-m, methoxyfenozide, milbemectin, oxasulfuron, pendimethalin, phenmedipham, pymetrozine, s-metolachlor, and trifloxystrobin**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+Part A of the Annex to Implementing Regulation (EU) No 540/2011 is amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+Part A of the Annex to Implementing Regulation (EU) No 540/2011 is amended as follows:
+
+(1) In the sixth column, expiration of approval, of row 11 Bentazone, the date is replaced by ‘30 June 2018’;
+
+(2) In the sixth column, expiration of approval, of row 15 Diquat, the date is replaced by ‘30 June 2018’;
+
+(3) In the sixth column, expiration of approval, of row 19 DPX KE 459 (flupyrsulfuron-methyl), the date is replaced by ‘30 June 2018’;
+
+(4) In the sixth column, expiration of approval, of row 23 Pymetrozine, the date is replaced by ‘30 June 2018’;
+
+(5) In the sixth column, expiration of approval, of row 35 Famoxadone, the date is replaced by ‘30 June 2018’;
+
+(6) In the sixth column, expiration of approval, of row 37 Metalaxyl-M, the date is replaced by ‘30 June 2018’;
+
+(7) In the sixth column, expiration of approval, of row 39 Flumioxazine, the date is replaced by ‘30 June 2018’;
+
+(8) In the sixth column, expiration of approval, of row 41 Imazamox, the date is replaced by ‘31 July 2018’;
+
+(9) In the sixth column, expiration of approval, of row 42 Oxasulfuron, the date is replaced by ‘31 July 2018’;
+
+(10) In the sixth column, expiration of approval, of row 44 Foramsulfuron, the date is replaced by ‘31 July 2018’;
+
+(11) In the sixth column, expiration of approval, of row 46 Cyazofamid, the date is replaced by ‘31 July 2018’;
+
+(12) In the sixth column, expiration of approval, of row 53 Pendimethalin, the date is replaced by ‘31 July 2018’;
+
+(13) In the sixth column, expiration of approval, of row 59 Trifloxystrobin, the date is replaced by ‘31 July 2018’;
+
+(14) In the sixth column, expiration of approval, of row 60 Carfentrazone ethyl, the date is replaced by ‘31 July 2018’;
+
+(15) In the sixth column, expiration of approval, of row 62 Fenamidone, the date is replaced by ‘31 July 2018’;
+
+(16) In the sixth column, expiration of approval, of row 63 Isoxaflutole, the date is replaced by ‘31 July 2018’;
+
+(17) In the sixth column, expiration of approval, of row 78 Chlorpropham, the date is replaced by ‘31 July 2018’;
+
+(18) In the sixth column, expiration of approval, of row 83 Alpha-cypermethrin, the date is replaced by ‘31 July 2018’;
+
+(19) In the sixth column, expiration of approval, of row 84 Benalaxyl, the date is replaced by ‘31 July 2018’;
+
+(20) In the sixth column, expiration of approval, of row 85 Bromoxynil, the date is replaced by ‘31 July 2018’;
+
+(21) In the sixth column, expiration of approval, of row 86 Desmedipham, the date is replaced by ‘31 July 2018’;
+
+(22) In the sixth column, expiration of approval, of row 88 Phenmedipham, the date is replaced by ‘31 July 2018’;
+
+(23) In the sixth column, expiration of approval, of row 93 Ampelomyces quisqualis Strain: AQ 10, the date is replaced by ‘31 July 2018’;
+
+(24) In the sixth column, expiration of approval, of row 95 Laminarin, the date is replaced by ‘31 July 2018’;
+
+(25) In the sixth column, expiration of approval, of row 96 Methoxyfenozide, the date is replaced by ‘31 July 2018’;
+
+(26) In the sixth column, expiration of approval, of row 97 S-metolachlor, the date is replaced by ‘31 July 2018’;
+
+(27) In the sixth column, expiration of approval, of row 98 Gliocladium catenulatum Strain: J1446, the date is replaced by ‘31 July 2018’;
+
+(28) In the sixth column, expiration of approval, of row 99 Etoxazole, the date is replaced by ‘31 July 2018’;
+
+(29) In the sixth column, expiration of approval, of row 109 Bifenazate, the date is replaced by ‘31 July 2018’;
+
+(30) In the sixth column, expiration of approval, of row 110 Milbemectin, the date is replaced by ‘31 July 2018’.

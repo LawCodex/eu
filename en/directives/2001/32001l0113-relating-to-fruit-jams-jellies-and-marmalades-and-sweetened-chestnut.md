@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **relating to fruit jams, jellies and marmalades and sweetened chestnut purée intended for human consumption**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL DIRECTIVE 2004/84/EC of 10 June 2004 </td><td> L 219</td><td>8</td><td>19.6.2004</td></tr>
 <tr><td> M2</td><td> COUNCIL REGULATION (EC) No 1182/2007 of 26 September 2007 </td><td> L 273</td><td>1</td><td>17.10.2007</td></tr>
 <tr><td></td><td> REGULATION (EU) No 1021/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2013 </td><td> L 287</td><td>1</td><td>29.10.2013</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/1438 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1438</td><td>1</td><td>24.5.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2001/113/EC**
 

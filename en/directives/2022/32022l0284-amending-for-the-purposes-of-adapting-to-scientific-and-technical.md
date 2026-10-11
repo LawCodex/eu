@@ -91,6 +91,7 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entries 2(a), 2(a)(1), 2(a)(2), 2(a)(3), 2(a)(4) and 2(a)(5) are replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘2(a)</td><td>Mercury in double-capped linear fluorescent lamps for general lighting purposes not exceeding (per lamp):</td><td></td></tr>
 <tr><td>2(a)(1)</td><td>Tri-band phosphor with normal lifetime and a tube diameter &lt; 9 mm (e.g. T2): 4 mg</td><td>Expires on 24 February 2023</td></tr>
@@ -99,3 +100,4 @@ In Annex III to Directive 2011/65/EU, entries 2(a), 2(a)(1), 2(a)(2), 2(a)(3), 2
 <tr><td>2(a)(4)</td><td>Tri-band phosphor with normal lifetime and a tube diameter &gt; 28 mm (e.g. T12): 3,5 mg</td><td>Expires on 24 February 2023</td></tr>
 <tr><td>2(a)(5)</td><td>Tri-band phosphor with long lifetime (≥ 25 000 h): 5 mg.</td><td>Expires on 24 February 2023’</td></tr>
 </tbody>
+</table>

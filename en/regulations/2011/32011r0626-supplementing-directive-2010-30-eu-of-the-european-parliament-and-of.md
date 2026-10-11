@@ -1,0 +1,1943 @@
+---
+title: "Commission Delegated Regulation (EU) No 626/2011 of 4 May 2011 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of air conditioners"
+identifier: "32011R0626"
+eli: "http://data.europa.eu/eli/reg_del/2011/626/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2011-05-04
+entry_into_force: 2011-01-31
+last_amended: 2023-09-30
+consolidated_version: "02011R0626-20230930"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0626-20230930"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) No 626/2011 of 4 May 2011 supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of air conditioners
+
+**COMMISSION DELEGATED REGULATION (EU) No 626/2011**
+
+**of 4 May 2011**
+
+**supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of air conditioners**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) No 518/2014 of 5 March 2014 </td><td> L 147</td><td>1</td><td>17.5.2014</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2017/254 of 30 November 2016 </td><td> L 38</td><td>1</td><td>15.2.2017</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1059 of 27 April 2020 </td><td> L 232</td><td>28</td><td>20.7.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/2048 of 4 July 2023 </td><td> L </td><td>1</td><td>26.9.2023</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) No 626/2011**
+
+**of 4 May 2011**
+
+**supplementing Directive 2010/30/EU of the European Parliament and of the Council with regard to energy labelling of air conditioners**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes requirements for the labelling and the provision of supplementary product information for electric mains-operated air conditioners with a rated capacity of ≤ 12 kW for cooling, or heating, if the product has no cooling function.
+
+2\. This Regulation shall not apply to:
+
+a) appliances that use non-electric energy sources;
+
+b) air conditioners of which the condensor- or evaporator-side, or both, do not use air for heat transfer medium.
+
+## Article 2 — Definitions
+
+In addition to the definitions set out in Article 2 of Directive 2010/30/EU of the European Parliament and of the Council ( 1 ), the following definitions shall apply:
+
+(1) ‘air conditioner’ means a device capable of cooling or heating, or both, indoor air, using a vapour compression cycle driven by an electric compressor, including air conditioners that provide additional functionalities such as dehumidification, air-purification, ventilation or supplemental air-heating by means of electric resistance heating and appliances that may use water (either condensate water that is formed on the evaporator side or externally added water) for evaporation on the condensor, provided that the device is also able to function without the use of additional water, using air only;
+
+(2) ‘double duct air conditioner’ means an air conditioner in which, during cooling or heating, the condensor or evaporator intake air is introduced from the outdoor environment to the unit by a duct and rejected to the outdoor environment by a second duct, and which is placed wholly inside the space to be conditioned, near a wall;
+
+(3) ‘single duct air conditioner’ means an air conditioner in which, during cooling or heating, the condensor or evaporator intake air is introduced from the space containing the unit and discharged outside this space;
+
+(4) ‘rated capacity’ (Prated ) means the cooling or heating capacity of the vapour compression cycle of the unit at standard rating conditions;
+
+(5) ‘end-user’ means a consumer buying or expected to buy an air conditioner;
+
+(6) ‘point of sale’ means a location where air conditioners are displayed or offered for sale, hire or hire-purchase.
+
+Additional definitions for the purpose of Annexes II to VIII are set out in Annex I.
+
+## Article 3 — Responsibilities of suppliers
+
+1\. Suppliers shall take action as described in points (a) to (g):
+
+(a) a printed label is provided for each air conditioner respecting energy efficiency classes as set out in Annex II. The label shall comply with the format and content of information as set out in Annex III. For air conditioners, except single and double duct air conditioners, a printed label must be provided, at least in the packaging of the outdoor unit, for at least one combination of indoor and outdoor units at capacity ratio 1. For other combinations, the information can be alternatively provided on a free access web site;
+
+(b) a product fiche, as set out in Annex IV, is made available. For air conditioners, except single and double duct air conditioners, a product fiche must be provided at least in the packaging of the out door unit, for at least one combination of indoor and outdoor units at capacity ratio 1. For other combinations, the information can be alternatively provided on a free access web site;
+
+(c) technical documentation as set out in Annex V is made available electronically on request to the authorities of the Member States and to the Commission;
+
+(d) any advertisement for a specific model of an air conditioner shall contain the energy efficiency class, if the advertisement discloses energy-related or price information. Where more than one efficiency class is possible, the supplier or the manufacturer, as appropriate, shall declare the energy efficiency class for heating at least in ‘Average’ heating season. Information in the cases where end-users cannot be expected to see the product displayed is to be provided as set out in Annex VI;
+
+(e) any technical promotional material concerning a specific model of an air conditioner which describes its specific technical parameters shall include the energy efficiency class of that model as set out Annex II;
+
+(f) instructions for use are made available;
+
+(g) single ducts shall be named ‘local air conditioners’ in packaging, product documentation and in any advertisement material, whether electronic or in paper;
+
+(h) an electronic label in the format and containing the information set out in Annex III is made available to dealers for each air conditioner model placed on the market from 1 January 2015 with a new model identifier, respecting energy efficiency classes set out in Annex II. It may also be made available to dealers for other air conditioner models;
+
+(i) an electronic product fiche as set out in Annex IV is made available to dealers for each air conditioner model placed on the market from 1 January 2015 with a new model identifier. It may also be made available to dealers for other air conditioner models.
+
+2\. The energy efficiency class shall be determined as set out in Annex VII.
+
+3\. The format of the label for air conditioners except for single and double duct air conditioners shall be as set out in Annex III.
+
+4\. For the air conditioners, except for single and double duct air conditioners, the format of the label set out in Annex III shall be applied according to the following timetable:
+
+(a) as regards air conditioners, except single duct and double duct air conditioners, placed on the market from 1 January 2013, labels with energy efficiency classes A, B, C, D, E, F, G shall be in accordance with point 1.1 of Annex III for reversible air conditioners, with point 2.1 of Annex III for cooling-only air conditioners and with point 3.1 of Annex III for heating-only air conditioners;
+
+(b) as regards air conditioners, except single duct and double duct air conditioners, placed on the market from 1 January 2015, labels with energy efficiency classes A+, A, B, C, D, E, F, shall be in accordance with point 1.2 of Annex III for reversible air conditioners, with point 2.2 of Annex III for cooling-only air conditioners and with point 3.2 of Annex III for heating-only air conditioners;
+
+(c) as regards air conditioners, except single duct and double duct air conditioners, placed on the market from 1 January 2017, labels with energy efficiency classes A++, A+, A, B, C, D, E, shall be in accordance with point 1.3 of Annex III for reversible air conditioners, with point 2.3 of Annex III for cooling-only air conditioners and with point 3.3 of Annex III for heating-only air conditioners;
+
+(d) as regards air conditioners, except single duct and double duct air conditioners, placed on the market from 1 January 2019, labels with energy efficiency classes A+++, A++, A+, A, B, C, D shall be in accordance with point 1.4 of Annex III for reversible air conditioners, with point 2.4 of Annex III for cooling-only air conditioners and with point 3.4 of Annex III for heating-only air conditioners.
+
+5\. The format of the label for double duct air conditioners placed on the market from 1 January 2013 with energy efficiency classes A+++, A++, A+, A, B, C, D shall be in accordance with point 4.1 of Annex III for reversible double duct air conditioners, with point 4.3 of Annex III for cooling-only double duct air conditioners and with point 4.5 of Annex III for heating-only double duct air conditioners.
+
+6\. The format of the label for single duct air conditioners placed on the market from 1 January 2013 with energy efficiency classes A+++, A++, A+, A, B, C, D shall be in accordance with point 5.1 of Annex III for reversible single duct air conditioners, with point 5.3 of Annex III for cooling-only single ducts air conditioners and with point 5.5 of Annex III heating-only single duct air conditioners.
+
+## Article 4 — Responsibilities of dealers
+
+Dealers shall ensure that:
+
+(a) air conditioners, at the point of sale, bear the label provided by suppliers in accordance with Article 3(1) on the outside of the front or top of the appliance, in such a way as to be clearly visible;
+
+(b) air conditioners offered for sale, hire or hire purchase where the end-user cannot be expected to see the product displayed, are marketed with the information provided by suppliers in accordance with Annexes IV and VI. Where the offer is made through the internet and an electronic label and an electronic product fiche have been made available in accordance with Article 3(1)(h) and 3(1)(i) the provisions of Annex IX shall apply instead;
+
+(c) any advertisement for a specific model of air conditioner contains a reference to the energy efficiency class, if the advertisement discloses energy-related or price information. Where more than one efficiency class is possible, the supplier/manufacturer will declare the energy efficiency class at least in ‘Average’ season zone;
+
+(d) any technical promotional material concerning a specific model which describes the technical parameters of an air conditioner includes a reference to the energy efficiency class(es) of the model and the instructions for use provided by the supplier. Where more than one efficiency class is possible, the supplier/manufacturer will declare the energy efficiency class at least in ‘Average’ season zone;
+
+(e) single ducts shall be named ‘local air conditioners’ in packaging, product documentation and in any promotional or advertisement material, whether electronic or in paper.
+
+## Article 5 — Measurement methods
+
+The information to be provided under Article 3 shall be obtained by reliable, accurate and reproducible measurement procedures, which take into account the recognised state of the art calculation and measurement methods, as set out in Annex VII.
+
+## Article 6 — Verification procedure for market surveillance purposes
+
+When Member States assess the conformity of the declared energy efficiency class, the annual or hourly energy consumption, as appropriate, and the noise emissions, they shall apply the procedure laid down in Annex VIII.
+
+## Article 7 — Revision
+
+The Commission shall review this Regulation in the light of technological progress no later than five years after its entry into force. In particular, attention will be paid to any significant changes in market shares of various types of appliances.
+
+## Article 8 — Repeal
+
+Directive 2002/31/EC is repealed from 1 January 2013.
+
+## Article 9 — Transitional provision
+
+1\. Air conditioners placed on the market before 1 January 2013 shall comply with the provisions set out in Directive 2002/31/EC.
+
+## Article 10 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. It shall apply from 1 January 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Definitions applicable for the purposes of Annexes II to VII**
+
+For the purposes of Annexes II to VII, the following definitions shall apply:
+
+(1) ‘Reversible air conditioner’ means an air conditioner capable of both cooling and heating;
+
+(2) ‘Standard rating conditions’ means the combination of indoor (Tin) and outdoor temperatures (Tj) that describe the operating conditions while establishing the sound power level, rated capacity, rated air flow rate, rated energy efficiency ratio (EERrated ) and/or rated coefficient of performance (COPrated ), as set out in Annex VII, table 2;
+
+(3) ‘Indoor temperature’ (Tin) means the dry bulb indoor air temperature [°C] (with the relative humidity indicated by the corresponding wet bulb temperature);
+
+(4) ‘Outdoor temperature’ (Tj) means the dry bulb outdoor air temperature [°C] (with the relative humidity indicated by the corresponding wet bulb temperature);
+
+(5) ‘Rated energy efficiency ratio’ (EERrated ) means the declared capacity for cooling [kW] divided by the rated power input for cooling [kW] of a unit when providing cooling at standard rating conditions;
+
+(6) ‘Rated coefficient of performance’ (COPrated ) means the declared capacity for heating [kW] divided by the rated power input for heating [kW] of a unit when providing heating at standard rating conditions;
+
+(7) ‘Global warming potential’ (GWP) means the measure of how much 1 kg of the refrigerant applied in the vapour compression cycle is estimated to contribute to global warming, expressed in kg CO2 equivalents over a 100 year time horizon;
+
+GWP values considered will be those set out in Annex I of Regulation (EC) No 842/2006 of the European Parliament and of the Council ( 2 );
+
+for fluorinated refrigerants, the GWP values shall be those published in the Third Assessment Report (TAR), adopted by the Intergovernmental Panel on Climate Change ( 3 ) (2001 IPCC GWP values for a 100 year period);
+
+for non-fluorinated gases, the GWP values are those published in the first IPCC assessment ( 4 ) over a 100 year period;
+
+total GWP values for mixtures of refrigerants shall be based on the formula stated in Annex I of the Regulation (EC) No 842/2006;
+
+for refrigerants not included in the above references, the IPCC UNEP 2010 report on Refrigeration, Air Conditioning and Heat Pumps, dated February 2011, or newer, shall be used as a reference;
+
+(8) ‘Off mode’ is a condition in which the air conditioner or comfort fan is connected to the mains power source and is not providing any function. As off mode also are considered conditions providing only an indication of off mode condition, as well as conditions providing only functionalities intended to ensure electromagnetic compatibility pursuant to Directive 2004/108/EC of the European Parliament and of the Council ( 5 );
+
+(9) ‘Standby mode’ means a condition where the equipment is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides only the following functions, which may persist for an indefinite time: reactivation function, or reactivation function and only an indication of enabled reactivation function, and/or information or status display;
+
+(10) ‘Reactivation function’ means a function facilitating the activation of other modes, including active mode, by remote switch including remote control, internal sensor, timer to a condition providing additional functions, including the main function;
+
+(11) ‘Information or status display’ is a continuous function providing information or indicating the status of the equipment on a display, including clocks;
+
+(12) ‘Sound power level’ means the A-weighted sound power level [dB(A)] indoors and/or outdoors measured at standard rating conditions for cooling (or heating, if the product has no cooling function);
+
+(13) ‘Reference design conditions’ means the combination of requirements for the reference design temperature, the maximum bivalent temperature and the maximum operation limit temperature, as set out in Annex VII, Table 3;
+
+(14) ‘Reference design temperature’ means the outdoor temperature [°C] for either cooling (Tdesignc) or heating (Tdesignh) as described in Annex VII, Table 3, at which the part load ratio shall be equal to 1, and which varies according the designated cooling or heating season;
+
+(15) ‘Part load ratio’ (pl(Tj)) means the outdoor temperature minus 16°C, divided by the reference design temperature minus 16°C, for either cooling or heating;
+
+(16) ‘Season’ means one of the four sets of operating conditions (available for four seasons: one cooling season, three heating seasons: average / colder / warmer) describing per bin the combination of outdoor temperatures and the number of hours these temperatures occur per season for which the unit is declared fit for purpose;
+
+(17) ‘Bin’ (with index ‘j’) means a combination of an outdoor temperature (Tj) and bin hours (hj), as set out in Annex VII, Table 1;
+
+(18) ‘Bin hours’ means the hours per season (hj) the outdoor temperature occurs for each bin, as set out in Annex VII, Table 1;
+
+(19) ‘Seasonal energy efficiency ratio’ (SEER) is the overall energy efficiency ratio of the unit, representative for the whole cooling season, calculated as the reference annual cooling demand divided by the annual electricity consumption for cooling;
+
+(20) ‘Reference annual cooling demand’ (QC) means the reference cooling demand [kWh/a] to be used as basis for calculation of SEER and calculated as the product of the design load for cooling (Pdesignc) and the equivalent active mode hours for cooling (HCE);
+
+(21) ‘Equivalent active mode hours for cooling’ (HCE) means the assumed annual number of hours [h/a] the unit must provide the design load for cooling (Pdesignc) in order to satisfy the reference annual cooling demand, as set out in Annex VII, Table 4;
+
+(22) ‘Annual electricity consumption for cooling’ (QCE) means the electricity consumption [kWh/a] required to meet the reference annual cooling demand and is calculated as the reference annual cooling demand divided by the active mode seasonal energy efficiency ratio (SEERon), and the electricity consumption of the unit for thermostat off-, standby-, off- and crankcase heater-mode during the cooling season;
+
+(23) ‘Active seasonal mode energy efficiency ratio’ (SEERon) means the average energy efficiency ratio of the unit in active mode for the cooling function, constructed from part load and bin-specific energy efficiency ratio's (EERbin(Tj)) and weighted by the bin hours the bin condition occurs;
+
+(24) ‘Part load’ means the cooling load (Pc(Tj)) or the heating load (Ph(Tj)) [kW] at a specific outdoor temperature Tj, calculated as the design load multiplied by the part load ratio;
+
+(25) ‘Bin-specific energy efficiency ratio’ (EERbin(Tj)) means the energy efficiency ratio specific for every bin j with outdoor temperature Tj in a season, derived from the part load, declared capacity and declared energy efficiency ratio (EERd(Tj)) for specified bins (j) and calculated for other bins through inter/extrapolation, when necessary corrected by the degradation coefficient;
+
+(26) ‘Seasonal coefficient of performance’ (SCOP) is the overall coefficient of performance of the unit, representative for the whole designated heating season (the value of SCOP pertains to a designated heating season), calculated as the reference annual heating demand divided by the annual electricity consumption for heating;
+
+(27) ‘Reference annual heating demand’ (QH) means the reference heating demand [kWh/a], pertaining to a designated heating season, to be used as basis for calculation of SCOP and calculated as the product of the design load for heating (Pdesignh) and the seasonal equivalent active mode hours for heating (H HE );
+
+(28) ‘Equivalent active mode hours for heating’ (H HE ) means the assumed annual number of hours [h/a] the unit must provide the design load for heating (Pdesignh) in order to satisfy the reference annual heating demand, as set out in Annex VII, Table 4;
+
+(29) ‘Annual electricity consumption for heating’ (QHE ) means the electricity consumption [kWh/a] required to meet the indicated reference annual heating demand and which pertains to a designated heating season; and is calculated as the reference annual heating demand divided by the active mode seasonal coefficient of performance (SCOPon), and the electricity consumption of the unit for thermostat off-, standby-, off- and crankcase heater-mode during the heating season;
+
+(30) ‘Active mode seasonal coefficient of performance’ (SCOPon) means the average coefficient of performance of the unit in active mode for the designated heating season, constructed from the part load, electric back up heating capacity (where required) and bin-specific coefficients of performance (COPbin(Tj)) and weighted by the bin hours the bin condition occurs;
+
+(31) ‘Electric back-up heater capacity’ (elbu(Tj)) is the heating capacity [kW] of a real or assumed electric back-up heater with COP of 1 that supplements the declared capacity for heating (Pdh(Tj)) in order to meet the part load for heating (Ph(Tj)) in case Pdh(Tj) is less than Ph(Tj), for the outdoor temperature (Tj);
+
+(32) ‘Bin-specific coefficient of performance’ (COPbin(Tj)) means the coefficient of performance specific for every bin j with outdoor temperature Tj in a season, derived from the part load, declared capacity and declared coefficient of performance (COPd(Tj)) for specified bins (j) and calculated for other bins through inter/extrapolation, when necessary corrected by the degradation coefficient;
+
+(33) ‘Declared capacity’ [kW] is the capacity of the vapour compression cycle of the unit for cooling (Pdc(Tj)) or heating (Pdh(Tj)), pertaining to an outdoor temperature Tj and indoor temperature (Tin), as declared by the manufacturer;
+
+(34) ‘Function’ means the indication of whether the unit is capable of indoor air cooling, indoor air heating or both;
+
+(35) ‘Design load’ means the declared cooling load (Pdesignc) and/or declared heating load (Pdesignh) [kW] at the reference design temperature, whereby
+
+(a) for cooling mode, Pdesignc is equal to the declared capacity for cooling at Tj equal to Tdesignc;
+
+(b) for heating mode, Pdesignh is equal to the part load at Tj equal to Tdesignh;
+
+(36) ‘Declared energy efficiency ratio’ (EERd(Tj)) means the energy efficiency ratio at a limited number of specified bins (j) with outdoor temperature (Tj), as declared by the manufacturer;
+
+(37) ‘Declared coefficient of performance’ (COPd(Tj)) means the coefficient of performance at a limited number of specified bins (j) with outdoor temperature (Tj), as declared by the manufacturer;
+
+(38) ‘Bivalent temperature’ (Tbiv) means the outdoor temperature (Tj) [°C] declared by the manufacturer for heating at which the declared capacity equals the part load and below which the declared capacity must be supplemented with electric back up heater capacity in order to meet the part load for heating;
+
+(39) ‘Operation limit temperature’ (Tol) means the outdoor temperature [°C] declared by the manufacturer for heating, below which air conditioner will not be able to deliver any heating capacity. Below this temperature, the declared capacity is equal to zero;
+
+(40) ‘Active mode’ means the mode corresponding to the hours with a cooling or heating load of the building and whereby the cooling or heating function of the unit is activated. This condition may involve on/off-cycling of the unit in order to reach or maintain a required indoor air temperature;
+
+(41) ‘Thermostat-off mode’ means a mode corresponding to the hours with no cooling or heating load whereby the cooling or heating function of the unit is switched on but the unit is not operational as there is no cooling or heating load. This condition is therefore related to outdoor temperatures and not to indoor loads. Cycling on / off in active mode is not considered as thermostat off;
+
+(42) ‘Crankcase heater operation mode’ means a condition where the unit has activated a heating device to avoid the refrigerant migrating to the compressor in order to limit the refrigerant concentration in oil at compressor start;
+
+(43) ‘Thermostat-off mode operating hours’ (HTO) means the annual number of hours [h/a] the unit is considered to be in thermostat-off mode, the value of which depends on the designated season and function;
+
+(44) ‘Standby mode operating hours’ (HSB) means the annual number of hours [h/a] the unit is considered to be in standby mode, the value of which depends on the designated season and function;
+
+(45) ‘Off-mode hours’ (HOFF) means the annual number of hours [h/a] the unit is considered to be in off-mode, the value of which depends on the designated season and function;
+
+(46) ‘Crankcase heater mode operating hours’ (HCK) means the annual number of hours [h/a] the unit is considered to be in crankcase heater operation mode, the value of which depends on the designated season and function;
+
+(47) ‘Electricity consumption of single and double ducts’ (QSD respectively QDD) means the electricity consumption of single or double duct air conditioners for the cooling and/or heating mode (whichever applies) [single duct in kWh/h, double duct in kWh/h  ];
+
+(48) ‘Capacity ratio’ means the ratio of the total declared cooling or heating capacity of all operating indoor units to the declared cooling or heating capacity of the outdoor unit at standard rating conditions.
+
+## ANNEX II
+
+**Energy efficiency classes**
+
+1\. The energy efficiency of air conditioners shall be determined on the basis of measurements and calculations set out Annex VII.
+
+Both the SEER and SCOP shall take into account the reference design conditions and the operational hours per relevant mode of operation, and the SCOP shall relate to the heating season ‘ average ’, as laid down in Annex VII. The rated energy efficiency ratio (EERrated) and the rated coefficient of performance (COPrated) shall relate to standard rating conditions, as laid down in Annex VII.
+
+**Table 1**
+
+**Energy efficiency classes for air conditioners, except double ducts and single ducts**
+
+| Energy Efficiency Class | SEER | SCOP |
+| --- | --- | --- |
+| A+++ | SEER ≥ 8,50 | SCOP ≥ 5,10 |
+| A++ | 6,10 ≤ SEER < 8,50 | 4,60 ≤ SCOP < 5,10 |
+| A+ | 5,60 ≤ SEER < 6,10 | 4,00 ≤ SCOP < 4,60 |
+| A | 5,10 ≤ SEER < 5,60 | 3,40 ≤ SCOP < 4,00 |
+| B | 4,60 ≤ SEER < 5,10 | 3,10 ≤ SCOP < 3,40 |
+| C | 4,10 ≤ SEER < 4,60 | 2,80 ≤ SCOP < 3,10 |
+| D | 3,60 ≤ SEER < 4,10 | 2,50 ≤ SCOP < 2,80 |
+| E | 3,10 ≤ SEER < 3,60 | 2,20 ≤ SCOP < 2,50 |
+| F | 2,60 ≤ SEER < 3,10 | 1,90 ≤ SCOP < 2,20 |
+| G | SEER < 2,60 | SCOP < 1,90 |
+
+**Table 2**
+
+**Energy efficiency classes for double ducts and single ducts**
+
+<table>
+<tbody><tr><td>Energy Efficiency Class</td><td colspan="2">Double ducts</td><td colspan="2">Single ducts</td></tr>
+<tr><td>  </td><td>EERrated</td><td>COPrated</td><td>EERrated</td><td>COPrated</td></tr>
+<tr><td>A+++</td><td>≥ 4,10</td><td>≥ 4,60</td><td>≥ 4,10</td><td>≥ 3,60</td></tr>
+<tr><td>A++</td><td>3,60 ≤ EER &lt; 4,10</td><td>4,10 ≤ COP &lt; 4,60</td><td>3,60 ≤ EER &lt; 4,10</td><td>3,10 ≤ COP &lt; 3,60</td></tr>
+<tr><td>A+</td><td>3,10 ≤ EER &lt; 3,60</td><td>3,60 ≤ COP &lt; 4,10</td><td>3,10 ≤ EER &lt; 3,60</td><td>2,60 ≤ COP &lt; 3,10</td></tr>
+<tr><td>A</td><td>2,60 ≤ EER &lt; 3,10</td><td>3,10 ≤ COP &lt; 3,60</td><td>2,60 ≤ EER &lt; 3,10</td><td>2,30 ≤ COP &lt; 2,60</td></tr>
+<tr><td>B</td><td>2,40 ≤ EER &lt; 2,60</td><td>2,60 ≤ COP &lt; 3,10</td><td>2,40 ≤ EER &lt; 2,60</td><td>2,00 ≤ COP &lt; 2,30</td></tr>
+<tr><td>C</td><td>2,10 ≤ EER &lt; 2,40</td><td>2,40 ≤ COP &lt; 2,60</td><td>2,10 ≤ EER &lt; 2,40</td><td>1,80 ≤ COP &lt; 2,00</td></tr>
+<tr><td>D</td><td>1,80 ≤ EER &lt; 2,10</td><td>2,00 ≤ COP &lt; 2,40</td><td>1,80 ≤ EER &lt; 2,10</td><td>1,60 ≤ COP &lt; 1,80</td></tr>
+<tr><td>E</td><td>1,60 ≤ EER &lt; 1,80</td><td>1,80 ≤ COP &lt; 2,00</td><td>1,60 ≤ EER &lt; 1,80</td><td>1,40 ≤ COP &lt; 1,60</td></tr>
+<tr><td>F</td><td>1,40 ≤ EER &lt; 1,60</td><td>1,60 ≤ COP &lt; 1,80</td><td>1,40 ≤ EER &lt; 1,60</td><td>1,20 ≤ COP &lt; 1,40</td></tr>
+<tr><td>G</td><td>&lt; 1,40</td><td>&lt; 1,60</td><td>&lt; 1,40</td><td>&lt; 1,20</td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**The label**
+
+**1\. LABEL OF AIR CONDITIONERS, EXCEPT SINGLE DUCT AND DOUBLE DUCT AIR CONDITIONERS**
+
+**1.1. Reversible air conditioners classified in energy efficiency classes A to G**
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘SEER’ and ‘SCOP’ for cooling and heating, with a blue fan and air wave indication for SEER and red fan and air wave indication for SCOP;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class. Energy efficiency must be indicated for cooling and heating. For heating, energy efficiency for Average heating season is mandatory. Indication of efficiency for Warmer and Colder seasons is optional;
+
+V. for cooling mode: design load in kW, rounded  to one decimal;
+
+VI. for heating mode: design load in kW, for up to 3 heating seasons rounded  to one decimal. Values for heating seasons for which the design load is not provided shall be indicated as ‘X’;
+
+VII. for cooling mode: seasonal energy efficiency ratio (SEER value), rounded  to one decimal;
+
+VIII. for heating mode: seasonal coefficient of performance (SCOP value), for up to 3 heating seasons rounded  to one decimal. Values for heating seasons for which SCOP is not provided shall be indicated as ‘X’;
+
+IX. annual energy consumption in kWh per year, for cooling and heating, rounded  to the nearest integer. Values for climate profiles for which annual energy consumption is not provided shall be indicated as ‘X’;
+
+X. sound power levels for indoor and outdoor units expressed in dB(A) re1 pW, rounded to the nearest integer;
+
+XI European map with a display of three indicative heating seasons and corresponding colour squares.
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 1.5. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010 of the European Parliament and of the Council ( 6 ), a copy of the EU eco-label may be added.
+
+**1.2. Reversible air conditioners classified in energy efficiency classes A+ to F**
+
+(a) The information listed in point 1.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 1.5.
+
+**1.3. Reversible air conditioners classified in energy efficiency classes A++ to E**
+
+(a) The information listed in point 1.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 1.5.
+
+**1.4. Reversible air conditioners classified in energy efficiency classes A+++ to D**
+
+(a) The information listed in point 1.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 1.5.
+
+**1.5. Label design**
+
+Whereby:
+
+(i) The label shall be at least 120 mm wide and 210 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke 5 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label:
+
+width: 102 mm, height: 20 mm.
+
+[image] Sub-logos border: 1 pt – colour: cyan 100 % – length: 103,6 mm.
+
+[image] SEER and SCOP indication:
+
+Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+Text: Calibri regular 10 pt, capitals, 100 % black.
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1 mm – colours:
+
+Highest class: X-00-X-00
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+— Text: Calibri bold 16 pt, capitals, white.
+
+[image] Energy efficiency class(es):
+
+— Arrow: width: 11 mm, height: 10 mm, 100 % black;
+
+— Text: Calibri bold 18 pt, capitals, white.
+
+[image] Energy
+
+— Text: Calibri regular 9 pt, capitals, 100 % black.
+
+[image] Rated capacity for cooling and heating in kW:
+
+— Text ‘kW’: Calibri regular 10 pt, 100 % black.
+
+— Value ‘XY,Z’: Calibri bold 11 pt, 100 % black.
+
+[image] SCOP and SEER values, rounded  to one decimal:
+
+— Text ‘SEER’/‘SCOP’: Calibri regular 10 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 11 pt, 100 % black.
+
+[image] Annual energy consumption in kWh/annum:
+
+— Text ‘kWh/annum’: Calibri regular 10 pt, 100 % black.
+
+— Value ‘XY’: Calibri bold 11 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Value:</td><td>Calibri bold 15 pt, 100 % black;</td></tr>
+<tr><td>Calibri regular 12 pt, 100 % black.</td></tr>
+</tbody>
+</table>
+
+[image] European map and colour squares:
+
+— Colours:
+
+Orange: 00-46-46-00.
+
+Green: 59-00-47-00.
+
+Blue: 54-08-00-00.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 102 × 13 mm.
+
+[image] Reference period:
+
+— Text: Calibri bold 10 pt.
+
+**2\. LABEL OF AIR CONDITIONERS, EXCEPT SINGLE DUCT AND DOUBLE DUCT AIR CONDITIONERS**
+
+**2.1. Cooling-only air conditioners classified in energy efficiency classes A to G**
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘SEER’, with a blue fan and air wave indication;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class;
+
+V. design load for cooling in kW, rounded  to one decimal;
+
+VI. seasonal energy efficiency ratio (SEER value), rounded  to one decimal;
+
+VII. annual energy consumption in kWh per year, rounded  to the nearest integer;
+
+VIII. sound power levels for indoor and outdoor units expressed in dB(A) re1 pW, rounded to the nearest integer.
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 2.5. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010, a copy of the EU eco-label may be added.
+
+**2.2. Cooling-only air conditioners classified in energy efficiency classes A+ to F**
+
+(a) The information listed in point 2.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 2.5.
+
+**2.3. Cooling-only air conditioners classified in energy efficiency classes A++ to E**
+
+(a) The information listed in point 2.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 2.5.
+
+**2.4. Cooling-only air conditioners classified in energy efficiency classes A+++ to D**
+
+(a) The information listed in point 2.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 2.5.
+
+**2.5. Label design**
+
+Whereby:
+
+(i) The label shall be at least 100 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke: 5 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label:
+
+Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label: width: 93 mm,
+
+height: 18 mm.
+
+[image] Sub-logos border: 1 pt – colour: cyan 100 % – length: 93,7 mm.
+
+[image] SEER indication:
+
+Text: Calibri regular 10 pt, capitals, 100 % black.
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1,3 mm – colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+— Text: Calibri bold 18 pt, capitals, white.
+
+[image] Energy efficiency class:
+
+— Arrow: Width: 23 mm, height: 15 mm, 100 % black;
+
+— Text: Calibri bold 29 pt, capitals, white.
+
+[image] Energy:
+
+— Text: Calibri regular 8 pt, capitals, 100 % black.
+
+[image] Rated capacity in kW:
+
+Text ‘kW’: Calibri regular 14 pt, 100 % black.
+
+Value ‘XY,Z’ : Calibri bold 22 pt, 100 % black.
+
+[image] SEER value rounded  to one decimal:
+
+— Border: 3 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+— Text ‘SEER’: Calibri regular 14 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 22 pt, 100 % black.
+
+[image] Annual energy consumption in kWh/annum:
+
+— Text ‘kWh/annum’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘XY’ : Calibri bold 22 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+— Value: Calibri bold 22 pt, 100 % black.
+
+— Text: Calibri regular 14 pt, 100 % black.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 90 × 15 mm.
+
+[image] Reference period:
+
+— Text: Calibri bold 10 pt.
+
+**3\. LABEL OF AIR CONDITIONERS, EXCEPT SINGLE DUCT AND DOUBLE DUCT AIR CONDITIONERS**
+
+**3.1. Heating-only air conditioners classified in energy efficiency classes A to G**
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘SCOP’, with red fan and air wave indication;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class. Energy efficiency for Average heating season is mandatory. Indication of efficiency for Warmer and Colder climates is optional;
+
+V. design load for heating in kW, for up to 3 heating seasons rounded  to one decimal. Values for heating seasons for which design load is not provided shall be indicated as ‘X’;
+
+VI. seasonal coefficient of performance (SCOP) for up to 3 heating seasons rounded  to one decimal. Values for heating seasons for which SCOP is not provided shall be indicated as ‘X’;
+
+VII. annual energy consumption in kWh per year, rounded  to the nearest integer. Values for heating seasons for which annual energy consumption is not provided shall be indicated as ‘X’;
+
+VIII. sound power levels for indoor and outdoor units expressed in dB(A) re1 pW, rounded to the nearest integer;
+
+IX. European map with a display of three indicative heating seasons and corresponding colour squares.
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 3.5. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010, a copy of the EU eco-label may be added.
+
+**3.2. Heating-only air conditioners classified in energy efficiency classes A+ to F**
+
+(a) The information listed in point 3.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 3.5.
+
+**3.3. Heating-only air conditioners classified in energy efficiency classes A++ to E**
+
+(a) The information listed in point 3.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 3.5.
+
+**3.4. Heating-only air conditioners classified in energy efficiency classes A+++ to D**
+
+(a) The information listed in point 3.1 shall be included in the label.
+
+(b) The design aspects of the label shall be in accordance with point 3.5.
+
+**3.5. Label design**
+
+Whereby:
+
+(i) The label shall be at least 100 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours shall be CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke: 5 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label: width: 93 mm, height: 18 mm.
+
+[image] Sub-logos border: 1 pt – colour: cyan 100 % – length: 93,7 mm.
+
+[image] SCOP indication:
+
+Text: Calibri regular 10 pt, capitals, 100 % black.
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1,3 mm – colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+— Text: Calibri bold 18 pt, capitals, white.
+
+[image] Energy efficiency class(es):
+
+— Arrow: width: 11 mm, height: 10 mm, 100 % black;
+
+— Text: Calibri bold 18 pt, capitals, white.
+
+[image] Rated capacity in kW:
+
+— Text ‘kW’: Calibri regular 10 pt, 100 % black.
+
+— Value ‘XY,Z’: Calibri bold 11 pt, 100 % black.
+
+[image] SCOP values, rounded  to one decimal:
+
+— Text ‘SCOP’: Calibri regular 10 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 11 pt, 100 % black.
+
+[image] Annual energy consumption in kWh/annum:
+
+— Text ‘kWh/annum’: Calibri regular 10 pt, 100 % black.
+
+— Value ‘XY’: Calibri bold 11 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+— Value: Calibri bold 15 pt, 100 % black.
+
+— Text: Calibri regular 12 pt, 100 % black.
+
+[image] European map and colour squares:
+
+Colours:
+
+Orange: 00-46-46-00.
+
+Green: 59-00-47-00.
+
+Blue: 54-08-00-00.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 90 × 15 mm.
+
+[image] Energy:
+
+— Text: Calibri regular 8 pt, capitals, 100 % black.
+
+[image] Reference period:
+
+— Text: Calibri bold 10, pt.
+
+**4\. LABEL OF DOUBLE DUCT AIR CONDITIONERS**
+
+**4.1. Reversible double duct air conditioners classified in energy efficiency classes A+++ to D**
+
+[image]
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘EER’ and ‘COP’ for cooling and heating, with a blue fan and air wave indication for EER and red fan and air wave indication for COP;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class. Energy efficiency must be indicated for cooling and heating;
+
+V. Rated capacity for cooling and heating mode in kW, rounded  to one decimal;
+
+VI. EERrated and COPrated, rounded  to one decimal;
+
+VII. hourly energy consumption in kWh per 60 minutes, for cooling and heating mode, rounded  to one decimal  ;
+
+VIII. sound power level for indoor unit expressed in dB(A) re1 pW, rounded to the nearest integer.
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 4.2. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010, a copy of the EU eco-label may be added.
+
+**4.2. Label Design**
+
+[image]
+
+Whereby:
+
+(i) The label shall be at least 100 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours shall be CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke: 5 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label: width: 82 mm, height: 16 mm.
+
+[image] Sub-logos border: 1 pt – colour: cyan 100 % – length: 92,5 mm.
+
+[image] EER and COP indication:
+
+Text: Calibri regular 10 pt, 100 % black
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1,3 mm – colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 18 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 7 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy efficiency classes:
+
+— Arrow: width: 11 mm, height: 10 mm, 100 % black;
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 18 pt, capitals, white.</td></tr>
+<tr><td>Calibri bold 7 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy:
+
+— Text: Calibri regular 8 pt, capitals, 100 % black.
+
+[image] ‘Minutes’-translation:
+
+— Text: Calibri regular 7 pt, 100 % black.
+
+[image] Rated capacity for cooling and heating mode in kW:
+
+— Text ‘kW’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘XY,Z’: Calibri bold 22 pt, 100 % black.
+
+[image] COP and EER values, rounded  to one decimal:
+
+— Text ‘EER’/‘COP’: Calibri regular 14 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 22 pt, 100 % black.
+
+[image] Hourly energy consumption in kWh/60min:
+
+— Text ‘kWh/60min*’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘ X,Y  ’: Calibri bold 22 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+— Value: Calibri bold 22 pt, 100 % black.
+
+— Text: Calibri regular 14 pt, 100 % black.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 82 × 10,5 mm.
+
+[image] Reference period:
+
+— Text: Calibri bold 10 pt.
+
+**4.3. Cooling-only double duct air conditioners classified in energy efficiency classes A+++ to D**
+
+[image]
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘EER’, with a blue fan and air wave indication;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class;
+
+V. Rated capacity for cooling in kW, rounded  to one decimal;
+
+VI. EERrated, rounded  to one decimal;
+
+VII. hourly energy consumption in kWh per 60 minutes, rounded  to one decimal  ;
+
+VIII. sound power level for indoor unit expressed in dB(A) re1 pW, rounded to the nearest integer;
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 4.4. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010, a copy of the EU eco-label may be added.
+
+**4.4. Label Design**
+
+[image]
+
+Whereby:
+
+(i) The label shall be at least 100 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke: 5 pt – colour: Cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label: width: 82 mm, height: 16 mm.
+
+[image] Sub-logos border: 1 pt – colour: cyan 100 % – length: 92,5 mm.
+
+[image] EER indication:
+
+Text: Calibri regular 10 pt, capitals, 100 % black
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1,3 mm – colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 18 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 7 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy efficiency class:
+
+— Arrow: width: 20 mm, height: 15 mm, 100 % black;
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 30 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 14 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy
+
+— Text: Calibri regular 8 pt, capitals, 100 % black.
+
+[image] ‘Minutes’-translation:
+
+— Text: Calibri regular 7 pt, 100 % black.
+
+[image] Rated capacity in kW:
+
+— Text ‘kW’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘XY,Z’: Calibri bold 22 pt, 100 % black.
+
+[image] EER value, rounded  to one decimal:
+
+— Text ‘EER’: Calibri regular 14 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 22 pt, 100 % black.
+
+[image] Hourly energy consumption in kWh/60min:
+
+— Text ‘kWh/60min*’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘ X,Y  ’: Calibri bold 22 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: 100 % cyan – round corners: 3,5 mm.
+
+— Value: Calibri bold 22 pt, 100 % black.
+
+— Text: Calibri regular 14 pt, 100 % black.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 82 × 10,5 mm.
+
+[image] Reference period:
+
+— Text: Calibri bold 10 pt.
+
+**4.5. Heating-only double duct air conditioners classified in energy efficiency classes A+++ to D**
+
+[image]
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘COP’ with red fan and air wave indication;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class;
+
+V. rated capacity for heating in kW, rounded  to one decimal;
+
+VI. COPrated, rounded  to one decimal;
+
+VII. hourly energy consumption in kWh per 60 minutes, rounded  to one decimal  ;
+
+VIII. sound power level for indoor unit expressed in dB(A) re1 pW, rounded to the nearest integer.
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 4.6. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010, a copy of the EU eco-label may be added.
+
+**4.6. Label Design**
+
+[image]
+
+Whereby:
+
+(i) The label shall be at least 100 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke: 5 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label: width: 82 mm, height: 16 mm.
+
+[image] Sub-logos border: 1 pt – colour: 100 % cyan – length: 92,5 mm.
+
+[image] COP indication:
+
+Text: Calibri regular 10 pt, capitals, 100 % black
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1,3 mm – colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri Bold 18 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 7 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy efficiency class:
+
+— Arrow: width: 20 mm, height: 15 mm, 100 % black;
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 30 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 14 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy:
+
+— Text: Calibri regular 8 pt, capitals, 100 % black.
+
+[image] ‘Minutes’-translation:
+
+— Text: Calibri regular 7 pt, 100 % black.
+
+[image] Rated capacity in kW:
+
+— Text ‘kW’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘XY,Z’: Calibri bold 22 pt, 100 % black.
+
+[image] COP value, rounded  to one decimal:
+
+— Text ‘COP’: Calibri regular 14 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 22 pt, 100 % black.
+
+[image] Hourly energy consumption in kWh/60min:
+
+— Text ‘kWh/60min*’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘ X,Y  ’: Calibri bold 22 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+— Value: Calibri bold 22 pt, 100 % black.
+
+— Text: Calibri regular 14 pt, 100 % black.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 82 × 10,5 mm.
+
+[image] Reference period:
+
+— Text: Calibri bold 10 pt.
+
+**5\. LABEL OF SINGLE DUCT AIR CONDITIONERS**
+
+**5.1. Reversible single duct air conditioners classified in energy efficiency classes A+++ to D**
+
+[image]
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘EER’ and ‘COP’ for cooling and heating, with a blue fan and air wave indication for EER and red fan and air wave indication for COP;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class. Energy efficiency must be indicated for cooling and heating;
+
+V. rated capacity for cooling and heating mode in kW, rounded  to one decimal;
+
+VI. EERrated and COPrated, rounded  to one decimal;
+
+VII. hourly energy consumption in kWh per 60 minutes, for cooling and heating, rounded  to one decimal  ;
+
+VIII. sound power level for indoor unit expressed in dB(A) re1 pW, rounded to the nearest integer.
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 5.2. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010, a copy of the EU eco-label may be added.
+
+**5.2. Label Design**
+
+[image]
+
+Whereby:
+
+(i) The label shall be at least 100 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours are coded as CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke: 5 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label: width: 82 mm, height: 16 mm.
+
+[image] Sub-logos border: 1 pt – colour: cyan 100 % – length: 92,5 mm.
+
+[image] EER and COP indication:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+— Text: Calibri regular 10 pt, capitals, 100 % black.
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1,3 mm – colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 18 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 7 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy efficiency classes:
+
+— Arrow: Width: 11 mm, height: 10 mm, 100 % black;
+
+— Text: Calibri bold 18 pt, capitals, white.
+
+[image] Energy:
+
+— Text: Calibri regular 8 pt, capitals, 100 % black.
+
+[image] ‘Minutes’-translation:
+
+— Text: Calibri regular 7 pt, 100 % black.
+
+[image] Rated capacity for cooling and heating in kW:
+
+— Text ‘kW’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘XY,Z’: Calibri bold 22 pt, 100 % black.
+
+[image] EER and COP values, rounded  to one decimal:
+
+— Text: Calibri regular 14 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 22 pt, 100 % black.
+
+[image] Hourly energy consumption in kWh/60min:
+
+— Text ‘kWh/60min*’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘ X,Y  ’: Calibri bold 22 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+— Value: Calibri bold 22 pt, 100 % black.
+
+— Text: Calibri regular 14 pt, 100 % black.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 82 × 10,5 mm.
+
+[image] Reference period:
+
+— Text: Calibri bold 10 pt.
+
+**5.3. Cooling-only single duct air conditioners classified in energy efficiency classes A+++ to D**
+
+[image]
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘EER’, with a blue fan and air wave indication;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class;
+
+V. rated capacity for cooling in kW, rounded  to one decimal;
+
+VI. EERrated, rounded  to one decimal;
+
+VII. hourly energy consumption in kWh per 60 minutes, rounded  to one decimal  ;
+
+VIII. sound power level for indoor unit expressed in dB(A) re1 pW, rounded to the nearest integer.
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 5.4. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010, a copy of the EU eco-label may be added.
+
+**5.4. Label Design**
+
+[image]
+
+Whereby:
+
+(i) The label shall be at least 100 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours shall be CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke: 5 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label: width: 82 mm, height: 16 mm.
+
+[image] Sub-logos border: 1 pt – colour: cyan 100 % – length: 92,5 mm.
+
+[image] EER indication:
+
+Text: Calibri regular 10 pt, capitals, 100 % black.
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1,3 mm – colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 18 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 7 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy efficiency class:
+
+— Arrow: Width: 20 mm, height: 15 mm, 100 % black;
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 30 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 14 pt, capitals, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy:
+
+— Text: Calibri regular 8 pt, capitals, 100 % black.
+
+[image] ‘Minutes’-translation:
+
+— Text: Calibri regular 7 pt, 100 % black.
+
+[image] Rated capacity in kW:
+
+— Text ‘kW’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘XY,Z’ : Calibri bold 22 pt, 100 % black.
+
+[image] EER value, rounded  to one decimal:
+
+— Text ‘EER’: Calibri regular 14 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 22 pt, 100 % black.
+
+[image] Hourly energy consumption in kWh/60min:
+
+— Text ‘kWh/60min*’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘ X,Y  ’: Calibri bold 22 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: 100 % cyan – round corners: 3,5 mm.
+
+— Value: Calibri bold 22 pt, 100 % black.
+
+— Text: Calibri regular 14 pt, 100 % black.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 82 × 10,5 mm.
+
+[image] Reference period:
+
+— Text: Calibri bold 10 pt.
+
+**5.5. Heating-only single duct air conditioners classified in energy efficiency classes A+++ to D**
+
+[image]
+
+(a) The following information shall be included in the label:
+
+I. supplier’s name or trade mark;
+
+II. supplier’s model identifier;
+
+III. text ‘COP’ with red fan and air wave indication;
+
+IV. the energy efficiency; the head of the arrow containing the energy efficiency class of the appliance shall be placed at the same height as the head of the arrow of the relevant energy efficiency class;
+
+V. rated capacity for heating in kW, rounded  to one decimal;
+
+VI. COPrated, rounded  to one decimal;
+
+VII. hourly energy consumption in kWh per 60 minutes, rounded  to one decimal  ;
+
+VIII. sound power level for indoor unit expressed in dB(A) re1 pW, rounded to the nearest integer.
+
+All the requested values shall be determined in accordance with Annex VII.
+
+(b) The design of the label shall be in accordance with point 5.6. By way of derogation, where a model has been granted an ‘EU eco-label’ under Regulation (EC) No 66/2010, a copy of the EU eco-label may be added.
+
+**5.6. Label Design**
+
+[image]
+
+Whereby:
+
+(i) The label shall be at least 100 mm wide and 200 mm high. Where the label is printed in a larger format, its content shall nevertheless remain proportionate to the specifications above.
+
+(ii) The background shall be white.
+
+(iii) Colours shall be CMYK — cyan, magenta, yellow and black, following this example: 00-70-X-00: 0 % cyan, 70 % magenta, 100 % yellow, 0 % black.
+
+(iv) The label shall fulfil all of the following requirements (numbers refer to the figure above):
+
+[image] EU label border: stroke: 5 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+[image] EU logo: Colours: X-80-00-00 and 00-00-X-00.
+
+[image] Energy label: Colour: X-00-00-00.
+
+Pictogram as depicted: EU logo + energy label: width: 82 mm, height: 16 mm.
+
+[image] Sub-logos border: 1 pt – colour: cyan 100 % – length: 92,5 mm.
+
+[image] COP indication:
+
+Text: Calibri regular 10 pt, capitals, 100 % black
+
+[image] A-G scale:
+
+— Arrow: height: 7 mm, gap: 1,3 mm – colours:
+
+Highest class: X-00-X-00,
+
+Second class: 70-00-X-00,
+
+Third class: 30-00-X-00,
+
+Fourth class: 00-00-X-00,
+
+Fifth class: 00-30-X-00,
+
+Sixth class: 00-70-X-00,
+
+Last class(es): 00-X-X-00.
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 18 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 7 pt, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy efficiency class:
+
+— Arrow: Width: 20 mm, height: 15 mm, 100 % black;
+
+—
+
+<table>
+<tbody><tr><td rowspan="2">Text:</td><td>Calibri bold 30 pt, capitals, white;</td></tr>
+<tr><td>Calibri bold 14 pt, capitals, white.</td></tr>
+</tbody>
+</table>
+
+[image] Energy:
+
+— Text: Calibri regular 8 pt, capitals, 100 % black.
+
+[image] ‘Minutes’-translation:
+
+— Text: Calibri regular 7 pt, 100 % black.
+
+[image] Rated capacity in kW:
+
+— Text ‘kW’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘XY,Z’: Calibri bold 22 pt, 100 % black.
+
+[image] COP value, rounded  to one decimal:
+
+— Text ‘COP’: Calibri regular 14 pt, capitals, 100 % black.
+
+— Value ‘X,Y’: Calibri bold 22 pt, 100 % black.
+
+[image] Hourly energy consumption in kWh/60 minutes:
+
+— Text ‘kWh/60min*’: Calibri regular 14 pt, 100 % black.
+
+— Value ‘ X,Y  ’: Calibri bold 22 pt, 100 % black.
+
+[image] Noise emissions:
+
+— Border: 2 pt – colour: cyan 100 % – round corners: 3,5 mm.
+
+— Value: Calibri bold 22 pt, 100 % black.
+
+— Text: Calibri regular 14 pt, 100 % black.
+
+[image] Supplier’s name or trademark.
+
+[image] Supplier’s model identifier:
+
+The suppliers’ name or trade mark and model identifier should fit in a space of 82 × 10,5 mm.
+
+[image] Reference period:
+
+— Text: Calibri bold 10 pt.
+
+## ANNEX IV
+
+**Product fiche**
+
+1\. The information in the product fiche shall be given in the order specified below:
+
+(a) supplier's name or trade mark;
+
+(b) model identifier of the indoor air conditioner or of the indoor and outdoor elements of the air conditioner;
+
+(c) without prejudice to any requirements under the Union eco-label scheme, where a model has been granted a ‘European Union eco-label’ under Regulation (EC) No 66/2010, a copy of the eco-label may be added;
+
+(d) inside and outside sound power levels at standard rating conditions, on cooling and/or heating modes;
+
+(e) the name and GWP of the refrigerant used and a standard text as follows:
+
+‘Refrigerant leakage contributes to climate change. Refrigerant with lower global warming potential (GWP) would contribute less to global warming than a refrigerant with higher GWP, if leaked to the atmosphere. This appliance contains a refrigerant fluid with a GWP equal to [xxx]. This means that if 1 kg of this refrigerant fluid would be leaked to the atmosphere, the impact on global warming would be [xxx] times higher than 1 kg of CO2, over a period of 100 years. Never try to interfere with the refrigerant circuit yourself or disassemble the product yourself and always ask a professional.’
+
+2\. Additionally, the following information shall be included in the product fiche on air conditioners on the cooling mode, when efficiency is declared on the basis of the seasonal energy efficiency ratio (SEER):
+
+(a) the SEER and the energy efficiency class of the model (model of a unit or of a combination of units) determined in accordance with definitions and test procedures in Annex I and VII for the cooling mode as well as with the class limits defined in Annex II;
+
+(b) the indicative annual electricity consumption QCE in kWh/a during the cooling season, determined in accordance with definitions and test procedures in Annex I and VII, respectively. It shall be described as: ‘Energy consumption “XYZ” kWh per year, based on standard test results. Actual energy consumption will depend on how the appliance is used and where it is located.’;
+
+(c) the design load Pdesignc in kW of the appliance in cooling mode determined in accordance with definitions and test procedures in Annex I and VII, respectively;
+
+3\. Additionally, the following notes define the information to be included in the fiche on the heating mode, when efficiency is declared on the basis of seasonal coefficient of performance (SCOP):
+
+(a) the SCOP and the energy efficiency class of the model, or combination, in heating mode determined in accordance with definitions and test procedures in Annex I and VII, respectively, as well as with the class limits defined in Annex II;
+
+(b) the indicative annual electricity consumption for an average heating season QHE in kWh/a, determined in accordance with definitions and test procedures in Annex I and VII, respectively. It shall be described as: ‘Energy consumption “XYZ” kWh per year, based on standard test results. Actual energy consumption will depend on how the appliance is used and where it is located.’;
+
+(c) other designated heating seasons for which the unit is declared fit for purpose, with options of warmer (optional) or colder (optional) seasons, as defined in Annex I;
+
+(d) the design load Pdesignh in kW of the appliance in heating mode determined in accordance with definitions and test procedures in Annex I and VII;
+
+(e) the declared capacity and an indication of the back up heating capacity assumed for the calculation of SCOP at reference design conditions.
+
+4\. Additionally, the following notes define the information to be included in the fiche of air conditioners, when efficiency is declared on the basis of energy efficiency ratio (EERrated) or coefficient of performance (COPrated):
+
+(a) the energy efficiency class of the model, determined in accordance with definitions and test procedures in Annex I and VII, as well as the class limits defined in Annex II;
+
+(b) for double ducts, the indicative hourly electricity consumption QDD in kWh/60 minutes determined in accordance with definitions and test procedures in Annex I and VII. It shall be described as: ‘Energy consumption “X,Y” kWh per 60 minutes, based on standard test results. Actual energy consumption will depend on how the appliance is used and where it is located.’;
+
+(c) for single ducts, the indicative hourly electricity consumption QSD in kWh/60 minutes determined in accordance with definitions and test procedures in Annex I and VII. It shall be described as: ‘Energy consumption “X,Y” kWh per 60 minutes, based on standard test results. Actual energy consumption will depend on how the appliance is used and where it is located.’;
+
+(d) the cooling capacity Prated in kW of the appliance determined in accordance with definitions and test procedures in Annex I and VII;
+
+(e) the heating capacity Prated in kW of the appliance determined in accordance with definitions and test procedures in Annex I and VII.
+
+5\. One fiche may cover a number of appliance models supplied by the same supplier.
+
+6\. The information contained in the fiche may be given in the form of a copy of the label, either in colour or in black and white. Where this is the case, the information listed in points 1-4 not already displayed on the label shall also be provided.
+
+## ANNEX V
+
+**Technical documentation**
+
+The technical documentation referred to in Article 3 (1)(c) shall include at least the following items:
+
+(a) the name and address of the supplier;
+
+(b) a general description of the appliance model, sufficient for it to be unequivocally and easily identified. Single ducts shall be referred to as ‘local air conditioners’;
+
+(c) where appropriate, the references for the harmonised standards applied;
+
+(d) where appropriate, the other calculation methods, measurement standards and specifications used;
+
+(e) identification and signature of the person empowered to bind the supplier;
+
+(f) where appropriate the technical parameters for measurements, established in accordance with Annex VII:
+
+(i) overall dimensions;
+
+(ii) specification of the type of the air conditioner;
+
+(iii) specification whether the appliance is designed for cooling or heating only or for both;
+
+(iv) the energy efficiency class of the model as defined in Annex II;
+
+(v) The energy efficiency ratio (EERrated) and coefficient of performance (COPrated) for single and double duct air conditioners or seasonal energy efficiency ratio (SEER) and seasonal coefficient of performance (SCOP) for other air conditioners;
+
+(vi) The heating season for which the appliance is declared fit for purpose;
+
+(vii) Sound power levels expressed in dB(A) re1 pW, rounded to the nearest integer;
+
+(viii) the name and GWP of refrigerant used.
+
+(g) the results of calculations performed in accordance with Annex VII.
+
+Suppliers may include additional information at the end of the above list.
+
+Where the information included in the technical documentation file for a particular air conditioner model has been obtained by calculation on the basis of design, or extrapolation from other equivalent appliances, or both, the documentation shall include details of such calculations or extrapolations, or both, and of tests undertaken by suppliers to verify the accuracy of the calculations undertaken. The information shall also include a list of all other equivalent appliance models where the information was obtained on the same basis.
+
+## ANNEX VI
+
+**Information to be provided in the cases where end-users cannot be expected to see the product displayed**
+
+1\. The information referred to in Article 4(b) shall be provided in the following order:
+
+(a) The energy efficiency class of the model as defined in Annex II;
+
+(b) for air conditioners other than single ducts and double ducts:
+
+(i) the seasonal energy efficiency ratio (SEER) and/or seasonal coefficient of performance (SCOP);
+
+(ii) the design load (in kW);
+
+(iii) the annual electricity consumption;
+
+(iv) the cooling and/or each heating (‘Average, Colder, Warmer’) season the appliance is declared fit for purpose;
+
+(c) for single duct and double duct air conditioners:
+
+(i) the energy efficiency ratio (EER) and/or coefficient of performance (COP);
+
+(ii) the rated capacity (kW);
+
+(iii) for double ducts, the hourly electricity consumption for cooling and/or heating;
+
+(iv) for single ducts, the hourly electricity consumption for cooling and/or heating;
+
+(d) Sound power levels expressed in dB(A) re1 pW, rounded to the nearest integer;
+
+(e) Name and GWP of refrigerant used.
+
+2\. Where other information contained in the product information fiche is also provided, it shall be in the form and order specified in Annex IV.
+
+3\. The size and font in which all the information referred in this Annex is printed or shown shall be legible.
+
+## ANNEX VII
+
+**Measurements and calculations**
+
+1\. For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published in the Official Journal of European Union, or other reliable, accurate and reproducible method, which takes into account the generally recognised state of the art methods, and whose results are deemed to be of low uncertainty.
+
+2\. The determination of the seasonal energy consumption and seasonal energy efficiency ratio (SEER) and seasonal coefficient of performance (SCOP) shall take into account:
+
+(a) European seasonal conditions, as defined in Table 1 of this Annex;
+
+(b) Reference design conditions, as defined in Table 3 of this Annex;
+
+(c) Electric energy consumption for all relevant modes of operation, using time periods as defined in Table 4 of this Annex;
+
+(d) Effects of the degradation of the energy efficiency caused by on/off cycling (if applicable) depending on the type of control of the cooling and/or heating capacity;
+
+(e) Corrections on the seasonal coefficients of performance in conditions where the heating load can not be met by the heating capacity;
+
+(f) The contribution of a back-up heater (if applicable) in the calculation of the seasonal efficiency of a unit in heating mode.
+
+3\. Where the information relating to a specific model, being a combination of indoor and outdoor unit(s), has been obtained by calculation on the basis of design, and/or extrapolation from other combinations, the documentation should include details of such calculations and/or extrapolations, and of tests undertaken to verify the accuracy of the calculations undertaken (including details of the mathematical model for calculating performance of such combinations, and of measurements taken to verify this model).
+
+4\. The energy efficiency ratio (EERrated) and, when applicable, coefficient of performance (COPrated) for double ducts and single ducts shall be established at the standard rating conditions as defined in Table 2 of this Annex.
+
+5\. The calculation of electricity consumption for cooling and/or heating shall take into account electric energy consumption of all relevant modes of operation, when appropriate, using time periods as defined in Table 4 of this Annex.
+
+**Table 1**
+
+**Bin number (j), outdoor temperature (Tj) in °C and number of hours per bin (hj) for the cooling season and for heating seasons ‘average’, ‘warmer’ and ‘colder’. ‘db’ = dry bulb temperature**
+
+<table>
+<tbody><tr><td colspan="3">COOLING SEASON</td><td>  </td><td colspan="5">HEATING SEASON</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Average</td><td>Warmer</td><td>Colder</td></tr>
+<tr><td>j # </td><td>Tj °C </td><td>hj h </td><td>  </td><td>j # </td><td>Tj °C </td><td>hjA h </td><td>hj W h </td><td>hjC h </td></tr>
+<tr><td>  </td><td>db</td><td>  </td><td>  </td><td>  </td><td>db</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1 </td><td>17 </td><td>205 </td><td>  </td><td>1 to 8</td><td>– 30 to – 23</td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>2 </td><td>18 </td><td>227 </td><td>  </td><td>9 </td><td>–22 </td><td>0 </td><td>0 </td><td>1 </td></tr>
+<tr><td>3 </td><td>19 </td><td>225 </td><td>  </td><td>10 </td><td>–21 </td><td>0 </td><td>0 </td><td>6 </td></tr>
+<tr><td>4 </td><td>20 </td><td>225 </td><td>  </td><td>11 </td><td>–20 </td><td>0 </td><td>0 </td><td>13 </td></tr>
+<tr><td>5 </td><td>21 </td><td>216 </td><td>  </td><td>12 </td><td>–19 </td><td>0 </td><td>0 </td><td>17 </td></tr>
+<tr><td>6 </td><td>22 </td><td>215 </td><td>  </td><td>13 </td><td>–18 </td><td>0 </td><td>0 </td><td>19 </td></tr>
+<tr><td>7 </td><td>23 </td><td>218 </td><td>  </td><td>14 </td><td>–17 </td><td>0 </td><td>0 </td><td>26 </td></tr>
+<tr><td>8 </td><td>24 </td><td>197 </td><td>  </td><td>15 </td><td>–16 </td><td>0 </td><td>0 </td><td>39 </td></tr>
+<tr><td>9 </td><td>25 </td><td>178 </td><td>  </td><td>16 </td><td>–15 </td><td>0 </td><td>0 </td><td>41 </td></tr>
+<tr><td>10 </td><td>26 </td><td>158 </td><td>  </td><td>17 </td><td>–14 </td><td>0 </td><td>0 </td><td>35 </td></tr>
+<tr><td>11 </td><td>27 </td><td>137 </td><td>  </td><td>18 </td><td>–13 </td><td>0 </td><td>0 </td><td>52 </td></tr>
+<tr><td>12 </td><td>28 </td><td>109 </td><td>  </td><td>19 </td><td>–12 </td><td>0 </td><td>0 </td><td>37 </td></tr>
+<tr><td>13 </td><td>29 </td><td>88 </td><td>  </td><td>20 </td><td>–11 </td><td>0 </td><td>0 </td><td>41 </td></tr>
+<tr><td>14 </td><td>30 </td><td>63 </td><td>  </td><td>21 </td><td>–10 </td><td>1 </td><td>0 </td><td>43 </td></tr>
+<tr><td>15 </td><td>31 </td><td>39 </td><td>  </td><td>22 </td><td>–9 </td><td>25 </td><td>0 </td><td>54 </td></tr>
+<tr><td>16 </td><td>32 </td><td>31 </td><td>  </td><td>23 </td><td>–8 </td><td>23 </td><td>0 </td><td>90 </td></tr>
+<tr><td>17 </td><td>33 </td><td>24 </td><td>  </td><td>24 </td><td>–7 </td><td>24 </td><td>0 </td><td>125 </td></tr>
+<tr><td>18 </td><td>34 </td><td>17 </td><td>  </td><td>25 </td><td>–6 </td><td>27 </td><td>0 </td><td>169 </td></tr>
+<tr><td>19 </td><td>35 </td><td>13 </td><td>  </td><td>26 </td><td>–5 </td><td>68 </td><td>0 </td><td>195 </td></tr>
+<tr><td>20 </td><td>36 </td><td>9 </td><td>  </td><td>27 </td><td>–4 </td><td>91 </td><td>0 </td><td>278 </td></tr>
+<tr><td>21 </td><td>37 </td><td>4 </td><td>  </td><td>28 </td><td>–3 </td><td>89 </td><td>0 </td><td>306 </td></tr>
+<tr><td>22 </td><td>38 </td><td>3 </td><td>  </td><td>29 </td><td>–2 </td><td>165 </td><td>0 </td><td>454 </td></tr>
+<tr><td>23 </td><td>39 </td><td>1 </td><td>  </td><td>30 </td><td>–1 </td><td>173 </td><td>0 </td><td>385 </td></tr>
+<tr><td>24 </td><td>40 </td><td>0 </td><td>  </td><td>31 </td><td>0 </td><td>240 </td><td>0 </td><td>490 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>32 </td><td>1 </td><td>280 </td><td>0 </td><td>533 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>33 </td><td>2 </td><td>320 </td><td>3 </td><td>380 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>34 </td><td>3 </td><td>357 </td><td>22 </td><td>228 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>35 </td><td>4 </td><td>356 </td><td>63 </td><td>261 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>36 </td><td>5 </td><td>303 </td><td>63 </td><td>279 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>37 </td><td>6 </td><td>330 </td><td>175 </td><td>229 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>38 </td><td>7 </td><td>326 </td><td>162 </td><td>269 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>39 </td><td>8 </td><td>348 </td><td>259 </td><td>233 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>40 </td><td>9 </td><td>335 </td><td>360 </td><td>230 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>41 </td><td>10 </td><td>315 </td><td>428 </td><td>243 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>42 </td><td>11 </td><td>215 </td><td>430 </td><td>191 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>43 </td><td>12 </td><td>169 </td><td>503 </td><td>146 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>44 </td><td>13 </td><td>151 </td><td>444 </td><td>150 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>45 </td><td>14 </td><td>105 </td><td>384 </td><td>97 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>46 </td><td>15 </td><td>74 </td><td>294 </td><td>61 </td></tr>
+<tr><td>Total</td><td>  </td><td>2 602 </td><td>  </td><td>  </td><td>  </td><td>4 910 </td><td>3 590 </td><td>6 446 </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Standard rating conditions, temperatures in ‘dry bulb’ air temperature (‘wet bulb’ indicated in brackets)**
+
+<table>
+<tbody><tr><td>Appliance</td><td>Function</td><td>Indoor air temperature (°C) </td><td>Outdoor air temperature (°C) </td></tr>
+<tr><td rowspan="2">air conditioners, excluding single duct</td><td>cooling</td><td>27 (19)</td><td>35 (24)</td></tr>
+<tr><td>heating</td><td>20 (max. 15)</td><td>7(6)</td></tr>
+<tr><td rowspan="2">single duct</td><td>cooling</td><td>35 (24)</td><td>35 (24) (*1)</td></tr>
+<tr><td>heating</td><td>20 (12)</td><td>20 (12) (*1)</td></tr>
+<tr><td colspan="4">(*1)  In case of single ducts, the condensor (evaporator) when cooling (heating), is not supplied with outdoor air, but indoor air. </td></tr>
+</tbody>
+</table>
+
+**Table 3**
+
+**Reference design conditions, temperatures in ‘dry bulb’ air temperature (‘wet bulb’ indicated in brackets)**
+
+<table>
+<tbody><tr><td>Function / season</td><td>Indoor air temperature (°C) </td><td>Outdoor air temperature (°C) </td><td>Bivalent temperature (°C) </td><td>Operating limit temperature (°C) </td></tr>
+<tr><td>  </td><td>Tin</td><td>Tdesignc/Tdesignh</td><td>Tbiv</td><td>Tol</td></tr>
+<tr><td>cooling</td><td>27 (19)</td><td>Tdesignc = 35 (24)</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>heating / Average</td><td rowspan="3">20 (15)</td><td>Tdesignh = – 10 (– 11)</td><td>max. 2</td><td>max. – 7</td></tr>
+<tr><td>heating / Warmer</td><td>Tdesignh = 2 (1)</td><td>max. 7</td><td>max. 2</td></tr>
+<tr><td>heating / Colder</td><td>Tdesignh = – 22 (– 23)</td><td>max. – 7</td><td>max. – 15</td></tr>
+</tbody>
+</table>
+
+**Table 4**
+
+**Operational hours per type of appliance per functional mode to be used for calculation of electricity consumption**
+
+<table>
+<tbody><tr><td colspan="2">Type of appliance / functionality (if applicable)</td><td>Unit</td><td>Heating season</td><td>On mode</td><td>Thermostat-off mode</td><td>Standby mode</td><td>Off mode</td><td>Crankcase heater mode</td></tr>
+<tr><td colspan="2">  </td><td>  </td><td>  </td><td>cooling: HCE heating: HHE </td><td>HTO</td><td>HSB</td><td>HOFF</td><td>HCK</td></tr>
+<tr><td colspan="9">Air conditioners, except double ducts and single duct</td></tr>
+<tr><td colspan="2">Cooling mode, if appliance offers cooling only</td><td>h/annum</td><td>  </td><td>350 </td><td>221 </td><td>2 142 </td><td>5 088 </td><td>7 760 </td></tr>
+<tr><td rowspan="4">Cooling and heating modes, if appliance offers both modes</td><td>Cooling mode</td><td>h/annum</td><td>  </td><td>350 </td><td>221 </td><td>2 142 </td><td>0 </td><td>2 672 </td></tr>
+<tr><td rowspan="6">Heating mode</td><td rowspan="3">h/annum</td><td>Average</td><td>1 400 </td><td>179 </td><td>0 </td><td>0 </td><td>179 </td></tr>
+<tr><td>Warmer</td><td>1 400 </td><td>755 </td><td>0 </td><td>0 </td><td>755 </td></tr>
+<tr><td>Colder</td><td>2 100 </td><td>131 </td><td>0 </td><td>0 </td><td>131 </td></tr>
+<tr><td colspan="2" rowspan="3">Heating mode, if appliance offers heating only</td><td rowspan="3">h/annum</td><td>Average</td><td>1 400 </td><td>179 </td><td>0 </td><td>3 672 </td><td>3 851 </td></tr>
+<tr><td>Warmer</td><td>1 400 </td><td>755 </td><td>0 </td><td>4 345 </td><td>4 476 </td></tr>
+<tr><td>Colder</td><td>2 100 </td><td>131 </td><td>0 </td><td>2 189 </td><td>2 944 </td></tr>
+<tr><td colspan="2">Double duct air conditioner</td><td>  </td><td>  </td><td>cooling: HCE heating: HHE </td><td>HTO</td><td>HSB</td><td>HOFF</td><td>HCK</td></tr>
+<tr><td colspan="2">Cooling mode, if appliance offers cooling only</td><td>h/60 min</td><td>  </td><td>1 </td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td rowspan="2">Cooling and heating modes, if appliance offers both modes</td><td>Cooling mode</td><td>h/60 min</td><td>  </td><td>1 </td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>Heating mode</td><td>h/60 min</td><td>  </td><td>1 </td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td colspan="2">Heating mode, if appliance offers heating only</td><td>h/60 min</td><td>  </td><td>1 </td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td colspan="2">Single duct air conditioner</td><td>  </td><td>  </td><td>cooling: HCE heating: HHE </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Cooling mode</td><td>h/60 min</td><td>  </td><td>1 </td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td colspan="2">Heating mode</td><td>h/60 min</td><td>  </td><td>1 </td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+</tbody>
+</table>
+
+## ANNEX VIII
+
+**Product compliance verification by market surveillance authorities**
+
+The verification tolerances set out in this Annex relate only to the verification of the measured parameters by Member State authorities and shall not be used by the supplier as an allowed tolerance to establish the values in the technical documentation. The values and classes on the label or in the product fiche shall not be more favourable for the supplier than the values reported in the technical documentation.
+
+When verifying the compliance of a product model with the requirements laid down in this Delegated Regulation, for the requirements referred to in this Annex, the authorities of the Member States shall apply the following procedure:
+
+(1) The Member State authorities shall verify one single unit of the model.
+
+(2) The model shall be considered to comply with the applicable requirements if:
+
+(a) the values given in the technical documentation pursuant to Article 5(b) of Directive 2010/30/EU (declared values), and, where applicable, the values used to calculate these values, are not more favourable for the supplier than the corresponding values given in the test reports pursuant to point (iii) of the abovementioned Article; and
+
+(b) the values published on the label and in the product fiche are not more favourable for the supplier than the declared values, and the indicated energy efficiency class is not more favourable for the supplier than the class determined by the declared values; and
+
+(c) when the Member State authorities test the unit of the model, the determined values (the values of the relevant parameters as measured in testing and the values calculated from these measurements) comply with the respective verification tolerances as given in Table 1.
+
+(3) If the results referred to in points 2(a) or (b) are not achieved, the model shall be considered not to comply with this Delegated Regulation.
+
+(4) If the result referred to in point 2(c) is not achieved, the Member State authorities shall select three additional units of the same model for testing.
+
+(5) The model shall be considered to comply with the applicable requirements if for these three units, the arithmetical mean of the determined values complies with the respective tolerances given in Table 1.
+
+(6) If the result referred to in point 5 is not achieved, the model shall be considered not to comply with this Delegated Regulation.
+
+(7) The Member State authorities shall provide all relevant information to the authorities of the other Member States and to the Commission without delay after a decision being taken on the non-compliance of the model according to points 3 and 6.
+
+The Member State authorities shall use the measurement and calculation methods set out in Annex VII.
+
+The Member State authorities shall only apply the verification tolerances that are set out in Table 1 and shall only use the procedure described in points 1 to 7 for the requirements referred to in this Annex. No other tolerances, such as those set out in harmonised standards or in any other measurement method, shall be applied.
+
+**Table 1**
+
+**Verification tolerances**
+
+| Parameters | Verification tolerances |
+| --- | --- |
+| Seasonal energy efficiency ratio (SEER) | The determined value shall not be lower than the declared value by more than 8 %. |
+| Seasonal coefficient of performance (SCOP) | The determined value shall not be lower than the declared value by more than 8 %. |
+| Power consumption in off mode | The determined value shall not exceed the declared value by more than 10 %. |
+| Power consumption in standby mode | The determined value shall not exceed the declared value by more than 10 %. |
+| Energy efficiency ratio (EERrated ) | The determined value shall not be lower than the declared value by more than 10 %. |
+| Coefficient of performance (COPrated ) | The determined value shall not be lower than the declared value by more than 10 %. |
+| Sound power level | The determined value shall not exceed the declared value by more than 2 dB(A). |
+
+## ANNEX IX — Information to be provided in the case of sale, hire or hire-purchase through the internet
+
+(1) For the purpose of points 2 to 5 of this Annex the following definitions shall apply:
+
+(a) ‘display mechanism’ means any screen, including tactile screen, or other visual technology used for displaying internet content to users;
+
+(b) ‘nested display’ means visual interface where an image or data set is accessed by a mouse click, mouse roll-over or tactile screen expansion of another image or data set;
+
+(c) ‘tactile screen’ means a screen responding to touch, such as that of a tablet computer, slate computer or a smartphone;
+
+(d) ‘alternative text’ means text provided as an alternative to a graphic allowing information to be presented in non-graphical form where display devices cannot render the graphic or as an aid to accessibility such as input to voice synthesis applications.
+
+(2) The appropriate label made available by suppliers in accordance with Article 3(1)(h) shall be shown on the display mechanism in proximity to the price of the product in accordance with the timetable set out in Article 3(4) to 3(6). The size shall be such that the label is clearly visible and legible and shall be proportionate to the size specified in Annex III. The label may be displayed using a nested display, in which case the image used for accessing the label shall comply with the specifications laid down in point 3 of this Annex. If nested display is applied, the label shall appear on the first mouse click, mouse roll-over or tactile screen expansion on the image.
+
+(3) The image used for accessing the label in the case of nested display shall:
+
+(a) be an arrow in the colour corresponding to the energy efficiency class of the product on the label;
+
+(b) indicate on the arrow the energy efficiency class of the product in white in a font size equivalent to that of the price; and
+
+(c) have one of the following two formats:
+
+[image]
+
+(4) In the case of nested display, the sequence of display of the label shall be as follows:
+
+(a) the image referred to in point 3 of this Annex shall be shown on the display mechanism in proximity to the price of the product;
+
+(b) the image shall link to the label;
+
+(c) the label shall be displayed after a mouse click, mouse roll-over or tactile screen expansion on the image;
+
+(d) the label shall be displayed by pop up, new tab, new page or inset screen display;
+
+(e) for magnification of the label on tactile screens, the device conventions for tactile magnification shall apply;
+
+(f) the label shall cease to be displayed by means of a close option or other standard closing mechanism;
+
+(g) the alternative text for the graphic, to be displayed on failure to display the label, shall be the energy efficiency class of the product in a font size equivalent to that of the price.
+
+(5) The appropriate product fiche made available by suppliers in accordance with Article 3(1)(i) shall be shown on the display mechanism in proximity to the price of the product. The size shall be such that the product fiche is clearly visible and legible. The product fiche may be displayed using a nested display, in which case the link used for accessing the fiche shall clearly and legibly indicate ‘Product fiche’. If nested display is used, the product fiche shall appear on the first mouse click, mouse roll-over or tactile screen expansion on the link.
+
+( 1 ) OJ L 153, 18.06.2010, p. 1.
+
+( 2 ) OJ L 161, 14.6.2006, p. 1.
+
+( 3 ) IPCC Third Assessment Climate Change 2001. A Report of the Intergovernmental Panel on Climate Change: http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml
+
+( 4 ) Climate Change, The IPCC Scientific Assessment, J.T Houghton, G.J.Jenkins, J.J. Ephraums (ed.) Cambridge University Press, Cambridge (UK) 1990.
+
+( 5 ) OJ L 390, 31.12.2004, p. 24.
+
+( 6 ) OJ L 27, 30.1.2010, p. 1.

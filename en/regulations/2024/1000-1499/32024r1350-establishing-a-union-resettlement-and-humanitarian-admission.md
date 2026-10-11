@@ -1,0 +1,435 @@
+---
+title: "Regulation (EU) 2024/1350 of the European Parliament and of the Council of 14 May 2024 establishing a Union Resettlement and Humanitarian Admission Framework, and amending Regulation (EU) 2021/1147"
+identifier: "32024R1350"
+eli: "http://data.europa.eu/eli/reg/2024/1350/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-05-14
+entry_into_force: 2025-01-01
+last_amended: 2024-05-22
+consolidated_version: "02024R1350-20240522"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1350-20240522"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2024/1350 of the European Parliament and of the Council of 14 May 2024 establishing a Union Resettlement and Humanitarian Admission Framework, and amending Regulation (EU) 2021/1147
+
+**REGULATION (EU) 2024/1350 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 May 2024**
+
+**establishing a Union Resettlement and Humanitarian Admission Framework, and amending Regulation (EU) 2021/1147**
+
+**REGULATION (EU) 2024/1350 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 14 May 2024**
+
+**establishing a Union Resettlement and Humanitarian Admission Framework, and amending Regulation (EU) 2021/1147**
+
+## Article 1 — Subject matter
+
+1\. This Regulation:
+
+(a) establishes a Union Resettlement and Humanitarian Admission Framework (the ‘Union Framework’) for the admission of third-country nationals or stateless persons to the territory of the Member States with a view to granting them, in accordance with this Regulation:
+
+(i) international protection; or
+
+(ii) humanitarian status under national law which provides for rights and obligations equivalent to those established in Articles 20 to 26 and 28 to 35 of Regulation (EU) 2024/1347 for beneficiaries of subsidiary protection; and
+
+(b) lays down rules on the admission, by means of resettlement or humanitarian admission, of third-country nationals or stateless persons to the territory of the Member States for the purpose of implementing this Regulation.
+
+2\. This Regulation does not establish a right of third-country nationals or stateless persons to request admission, or to be admitted, to the territory of a Member State.
+
+3\. This Regulation does not impose an obligation on Member States to admit a third-country national or a stateless person.
+
+4\. Member States shall contribute to the Union Resettlement and Humanitarian Admission Plan (the ‘Union Plan’) referred to in Article 8 on a voluntary basis. The indications made by the Member States in the High-Level Resettlement and Humanitarian Admission Committee, established pursuant to Article 11, in relation to the details of their participation, including the type of admission and the regions or third countries from which admission is to take place, and of their contribution to the total number of persons to be admitted under the Union Plan, shall be voluntary.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation the following definitions apply:
+
+(1) ‘resettlement’ means the admission to the territory of a Member State, following a referral from the United Nations High Commissioner for Refugees (UNHCR), of a third-country national or a stateless person, from a third country to which that person has been displaced, who:
+
+(a) is eligible for admission pursuant to Article 5(1);
+
+(b) does not fall under the grounds for refusal set out in Article 6; and
+
+(c) is granted international protection in accordance with Union and national law and has access to a durable solution;
+
+(2) ‘international protection’ means international protection as defined in Article 3, point (3), of Regulation (EU) 2024/1347;
+
+(3) ‘humanitarian admission’ means the admission to the territory of a Member State, following, where requested by a Member State, a referral from the European Union Agency for Asylum (the ‘Asylum Agency’), from the UNHCR, or from another relevant international body, of a third-country national or a stateless person from a third country to which that person has been forcibly displaced and, at least on the basis of an initial evaluation, who:
+
+(a) is eligible for admission pursuant to Article 5(2);
+
+(b) does not fall under the grounds for refusal set out in Article 6; and
+
+(c) is granted international protection in accordance with Article 9(17) of this Regulation or humanitarian status under national law, which provides for rights and obligations equivalent to those established in Article 20 to 26 and 28 to 35 of Regulation (EU) 2024/1347 for beneficiaries of subsidiary protection;
+
+(4) ‘emergency admission’ means the admission by means of resettlement or humanitarian admission of persons with urgent legal or physical protection needs or with immediate medical needs.
+
+## Article 3 — Union Resettlement and Humanitarian Admission Framework
+
+The Union Framework shall:
+
+(a) provide for the legal and safe arrival to the territory of a Member State of third-country nationals or stateless persons who are eligible for admission and who do not fall under the grounds for refusal under this Regulation with a view to granting them international protection in accordance with this Regulation or humanitarian status under national law referred to in Article 2, point (3)(c), and encourage all Member States to scale up their efforts to that end;
+
+(b) contribute to increasing the Union’s contribution to international resettlement and humanitarian admission initiatives with a view to increasing the overall number of available places for resettlement and humanitarian admission;
+
+(c) contribute to strengthening the Union’s partnerships with third countries in regions to which a large number of persons in need of international protection has been displaced.
+
+## Article 4 — Determination of regions or third countries from which Union resettlement or humanitarian admission is to occur
+
+The determination of the regions or third countries from which Union resettlement or humanitarian admission occurs shall primarily have as a basis:
+
+(a) the UNHCR Projected Global Resettlement Needs;
+
+(b) the scope for improving the protection environment and increasing the protection space in third countries;
+
+(c) the scale and content of commitments to resettlement or humanitarian admission undertaken by third countries with a view to collectively contributing to meeting the UNHCR Global Resettlement Needs.
+
+## Article 5 — Eligibility for admission
+
+1\. For the purpose of resettlement, the following third-country nationals or stateless persons shall be eligible for admission, provided that they also fall within at least one of the categories referred to in paragraph 3, point (a):
+
+(a) third-country nationals who, owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, political opinion or membership of a particular social group, as defined in Article 10 of Regulation (EU) 2024/1347, are outside their country of nationality and are unable or, owing to such a fear, are unwilling to avail themselves of the protection of that country, or stateless persons, who, being outside the country of former habitual residence for the same reasons, are unable or, owing to such a fear, are unwilling to return to that country; or
+
+(b) third-country nationals who are outside the country of nationality or stateless persons who are outside the country of their former habitual residence and in respect of whom substantial grounds have been shown for believing that they, if returned to their country of origin or, in the case of stateless persons, to their country of former habitual residence, would face a real risk of suffering serious harm as defined in Article 15 of Regulation (EU) 2024/1347, and are unable or, owing to such risk, are unwilling to avail themselves of the protection of that country.
+
+Persons whose protection or assistance from organs or agencies of the UN other than the UNHCR has ceased for any reason without their position being definitively settled in accordance with the relevant resolutions adopted by the UN General Assembly shall be deemed to meet the eligibility criteria set out in this paragraph.
+
+2\. For the purpose of humanitarian admission, the following third-country nationals or stateless persons shall be eligible for admission, provided that, at least on the basis of an initial evaluation, they also fall within at least one of the categories referred to in paragraph 3:
+
+(a) third-country nationals who, owing to a well-founded fear of being persecuted for reasons of race, religion, nationality, political opinion or membership of a particular social group, as defined in Article 10 of Regulation (EU) 2024/1347 are outside the country of nationality and are unable or, owing to such a fear, are unwilling to avail themselves of the protection of that country, or stateless persons who, being outside the country of former habitual residence for the same reasons, are unable or, owing to such a fear, unwilling to return to it; or
+
+(b) third-country nationals who are outside the country of nationality or stateless persons who are outside the country of former habitual residence, and in respect of whom substantial grounds have been shown for believing that they, if returned to their country of origin or, in the case of stateless persons, to their country of former habitual residence, would face a real risk of suffering serious harm as defined in Article 15 of Regulation (EU) 2024/1347, and are unable or, owing to such risk, are unwilling to avail themselves of the protection of that country.
+
+Persons whose protection or assistance from organs or agencies of the UN other than the UNHCR has ceased for any reason without their position being definitively settled in accordance with the relevant resolutions adopted by the UN General Assembly, shall be deemed to meet the eligibility criteria set out in this paragraph.
+
+3\. To be eligible for admission pursuant to this Article, a third-country national or stateless person shall also fall within at least one of the following categories:
+
+(a) vulnerable persons, comprising:
+
+(i) women and girls at risk;
+
+(ii) minors, including unaccompanied minors;
+
+(iii) survivors of violence or torture, including on the basis of gender or sexual orientation;
+
+(iv) persons with legal and/or physical protection needs, including as regards protection from refoulement;
+
+(v) persons with medical needs, including where life-saving treatment is unavailable in the country to which they have been forcibly displaced;
+
+(vi) persons with disabilities;
+
+(vii) persons who lack a foreseeable alternative durable solution, in particular those in a protracted refugee situation;
+
+(b) in the case of humanitarian admission, the family members, as referred to in paragraph 4, of third-country nationals or stateless persons legally residing in a Member State, or of Union citizens.
+
+4\. In order to ensure family unity, the following family members of third-country nationals or stateless persons to be admitted shall also be eligible for admission:
+
+(a) the spouse or unmarried partner in a stable relationship, where the law or practice of the Member State concerned treats unmarried couples in a way comparable to that of married couples under its law relating to third-country nationals or stateless persons;
+
+(b) the minor children on the condition that they are unmarried and regardless of whether they were born in or out of wedlock or adopted or recognised as defined under national law;
+
+(c) the father, mother or another adult responsible for an unmarried minor, whether by law or by the practice of the Member State concerned;
+
+(d) the sibling or siblings;
+
+(e) third-country nationals or stateless persons who are dependent on their child, parent or other family member for assistance as a result of pregnancy, a new-born child, serious mental or physical illness, severe disability or old age, provided that family ties existed in the country of origin, that the child, parent or other family member is able to take care of the dependent person, and that the persons concerned expressed their desire in writing.
+
+When applying this paragraph, Member States shall take due account of the best interests of the child. Where the third-country national or stateless person is a married minor but not accompanied by his or her spouse, the best interests of the minor may be seen to lie with the minor’s original family.
+
+## Article 6 — Grounds for refusing admission
+
+1\. The following third-country nationals or stateless persons shall be refused admission under this Regulation:
+
+(a) persons who are recognised by the competent authorities of the country in which they have taken up residence as having the rights and obligations which are attached to the possession of the nationality of that country, or equivalent rights and obligations;
+
+(b) persons in relation to whom there are reasonable grounds for considering that they have:
+
+(i) committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
+
+(ii) committed a serious crime;
+
+(iii) been guilty of acts contrary to the purposes and principles of the UN as set out in the Preamble and Articles 1 and 2 of the Charter of the United Nations;
+
+(c) persons for whom there are reasonable grounds for considering that they are a danger to the community, public policy, security or public health of the Member State examining the admission file;
+
+(d) persons for whom an alert has been issued in the Schengen Information System or in a national database of a Member State for the purpose of refusing entry;
+
+(e) persons who have been granted international protection by Member States or humanitarian status under national law as referred to in Article 2, point (3)(c);
+
+(f) persons whom a Member State has, during the three years before admission, refused admission pursuant to point (c) or (d) of this subparagraph.
+
+Point (b) of the first subparagraph shall also apply to persons who incite, or who otherwise participate in, the commission of the crimes or acts mentioned therein.
+
+2\. The following third-country nationals or stateless persons may be refused admission:
+
+(a) persons who, during the three years before admission, have not given or have withdrawn consent to be admitted to a particular Member State, as referred to in Article 7, provided that they have been informed of the consequences of such withdrawal in accordance with Article 9(4), point (b);
+
+(b) persons who have committed one or more crimes outside the scope of paragraph 1, first subparagraph, point (b), which would be punishable with a maximum sentence of at least one year of imprisonment had they been committed in the Member State examining the admission file, unless the prosecution or the punishment would have been statute-barred or, in the case of a conviction for such a crime, an entry relating to that conviction would have been removed from the national criminal record, according to the law of the Member State examining the admission file;
+
+(c) persons who refuse to participate in a pre-departure orientation programme referred to in Article 9(22);
+
+(d) persons in relation to whom a Member State cannot provide the adequate support needed on the basis of those persons’ vulnerability.
+
+3\. The grounds provided for in this Article shall apply provided that they are implemented without discrimination on the basis of, inter alia, sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
+
+## Article 7 — Consent
+
+1\. The admission procedure laid down in Article 9 shall apply to third-country nationals or stateless persons who have given their consent to be admitted and who have not subsequently withdrawn their consent, including by refusing admission to a particular Member State.
+
+2\. Where a third-country national or a stateless person fails to provide available data or information essential to the conduct of the procedure provided for in Article 9(3) or fails to attend the personal interview provided for in Article 9(6) that person may be considered to have implicitly withdrawn consent to be admitted as referred to in paragraph 1 of this Article, unless the person was not informed in accordance with Article 9(4), complies with the obligations within a reasonable period of time, or can demonstrate that the failure to provide data or information or to attend the personal interview was due to circumstances beyond that person’s control.
+
+## Article 8 — Union Resettlement and Humanitarian Admission Plan
+
+1\. On the basis of a proposal from the Commission, the Council shall adopt, by means of an implementing act, a two-year Union Resettlement and Humanitarian Admission Plan (Union Plan) in the year before the two-year period in which it is to be implemented.
+
+The Commission shall inform the European Parliament of its proposed draft Union Plan without delay, and the Council shall keep the European Parliament regularly informed of progress relating to the adoption of the Union Plan.
+
+The Council shall inform the European Parliament and the Commission of the final draft Union Plan without delay. The Council shall transmit the Union Plan to the European Parliament without delay upon its adoption.
+
+2\. When implementing this Article, the Council and the Commission shall take due account of the outcome of meetings of the High-Level Resettlement and Humanitarian Admission Committee established pursuant to Article 11 and of the UNHCR Projected Global Resettlement Needs.
+
+3\. The Union Plan shall include:
+
+(a) the total number of persons to be admitted to the territory of the Member States, indicating, respectively, the proportion of persons who are to be subject to resettlement, to humanitarian admission and to emergency admission, the proportion of persons subject to resettlement being not less than approximately 60 % of the total number of persons to be admitted;
+
+(b) details about the participation of the Member States and their contributions to the total number of persons to be admitted and the proportion of the persons who are to be subject to resettlement, to humanitarian admission and to emergency admission in accordance with point (a) of this paragraph, fully respecting the indications made by Member States at the High-Level Resettlement and Humanitarian Admission Committee established pursuant to Article 11;
+
+(c) a specification of the regions or third countries from which resettlement or humanitarian admission is to occur pursuant to Article 4.
+
+4\. The Union Plan may, where necessary, include:
+
+(a) a description of the specific group or groups of third-country nationals or stateless persons to whom the Union Plan is to apply;
+
+(b) local coordination, as well as practical cooperation arrangements among Member States, supported by the Asylum Agency in accordance with Article 10, and with third countries, the UNHCR and other relevant partners.
+
+5\. Emergency admission shall be applied irrespective of the regions or third countries from which resettlement or humanitarian admission is to occur.
+
+6\. Where required by new circumstances, such as an unforeseen humanitarian crisis outside the regions or third countries referred to in the Union Plan, the Council, on a proposal from the Commission, shall, where appropriate, amend the Union Plan such as by adding regions or third countries to those from which admission is to occur pursuant to Article 4.
+
+## Article 9 — Admission procedure
+
+1\. In the case of resettlement, for the purpose of implementing the Union Plan, Member States shall request the UNHCR to refer third-country nationals or stateless persons to them.
+
+In the case of humanitarian admission, for the purpose of implementing the Union Plan, Member States may request that the Asylum Agency, the UNHCR, or another relevant international body refer third-country nationals or stateless persons to them.
+
+2\. A Member State shall assess whether a third-country national or a stateless person as referred to in paragraph 1 falls within the scope of the Union Plan.
+
+A Member State may give preference to a third-country national or a stateless person who has:
+
+(a) family links with third-country nationals or stateless persons legally residing in a Member State or with Union citizens;
+
+(b) demonstrated social links or other characteristics that can facilitate integration in the Member State conducting an admission procedure, including appropriate language skills or previous residence in that Member State;
+
+(c) particular protection needs or vulnerabilities.
+
+3\. After identifying a third-country national or a stateless person who falls within the scope of the Union Plan and in relation to whom it intends to conduct an admission procedure, a Member State shall register the following information in relation to that person:
+
+(a) the third-country national’s or the stateless person’s name, date of birth, gender and nationality;
+
+(b) the type and number of any identity or travel document of the third-country national or stateless person; and
+
+(c) the date and place of the registration and the authority making the registration.
+
+Additional data necessary for the implementation of paragraphs 6 and 9 may be collected at the time of registration.
+
+4\. Member States shall inform the third-country nationals or stateless persons in relation to whom they conduct an admission procedure of:
+
+(a) the objectives of and the different steps in the admission procedure;
+
+(b) the consequences of withdrawing consent as referred to in Article 7, and of a refusal to participate in any pre-departure orientation programme as referred to in paragraph 22 of this Article.
+
+5\. Member States shall provide the third-country nationals or stateless persons in relation to whom they conduct an admission procedure, at the time when personal data are collected, in writing, and, where necessary, orally, with the information that they are required to provide under Regulation (EU) 2016/679. That information shall be provided in a concise, transparent, intelligible and easily accessible form, using clear and plain language, adapted to the needs of minors and of persons with specific needs and in a language that the third-country nationals or stateless persons understand or are reasonably supposed to understand.
+
+6\. Member States shall assess whether the third-country nationals or the stateless persons in relation to whom they conduct an admission procedure meet the eligibility criteria set out in Article 5 and do not fall under the grounds for refusal set out in Article 6.
+
+Member States shall make that assessment in particular on the basis of documentary evidence, including, where applicable, information from the UNHCR on whether the third-country nationals or the stateless persons qualify as refugees, on the basis of a personal interview, or a combination of both.
+
+7\. In the case of resettlement, Member States shall request that the UNHCR conduct a full assessment of whether the third-country nationals or the stateless persons subject to an admission procedure:
+
+(a) fall within the scope of the Union Plan;
+
+(b) fall under one of the categories of vulnerability set out in Article 5(3), point (a) or have family links in accordance with Article 5(4), and the reasons for such an assessment;
+
+(c) qualify as refugees within the meaning of Article 1 of the Geneva Convention.
+
+Member States may request that the criteria set out in paragraph 2, second subparagraph, be taken into account.
+
+8\. In the case of humanitarian admission, Member States may request that the UNHCR assess whether the third-country nationals or stateless persons referred to them by the UNHCR:
+
+(a) qualify as refugees within the meaning of Article 1 of the Geneva Convention;
+
+(b) fall under one of the categories of vulnerability set out in Article 5(3), point (a) or have family links in accordance with Article 5(3), point (b).
+
+Member States may request that the criteria set out in paragraph 2, second subparagraph, be taken into account.
+
+9\. Member States shall reach a conclusion on the admission of third-country nationals or stateless persons on the basis of the assessment referred to in paragraph 6 as soon as possible and no later than seven months from the date of registration. Member States may extend that time-limit by up to three months in the event of complex issues of fact or law.
+
+10\. In the case of an emergency admission, Member States shall reach a conclusion as soon as possible and endeavour to do so no later than one month from the date of registration.
+
+11\. Member States shall discontinue an admission procedure in which third-country nationals or stateless persons have withdrawn their consent as referred to in Article 7.
+
+A Member State may discontinue an admission procedure in the following circumstances:
+
+(a) where it has concluded that the total number of third-country nationals or stateless persons admitted exceeds its contribution set out in the Union Plan;
+
+(b) where it has concluded to give preference to the third-country nationals or stateless persons in accordance with paragraph 2;
+
+(c) where it has concluded that it is not able to comply with the time limits referred to in paragraph 9 for reasons beyond its control.
+
+Subject to Chapter V of Regulation (EU) 2016/679, the reason for discontinuation shall be communicated to the UNHCR where necessary to enable the UNHCR to carry out its tasks regarding referrals of third-country nationals or stateless persons to Member States or to third countries in accordance with this Regulation or with its mandate, unless there are overriding reasons of public interest for not doing so.
+
+12\. Member States shall store the data of persons to whom they grant international protection or humanitarian status under national law in accordance with this Regulation for five years from the date of registration. In the case of persons who have been refused admission on any of the grounds referred to in Article 6(1), first subparagraph, point (f), such data shall be stored for a period of three years from the date on which the negative conclusion on admission was reached.
+
+Upon expiry of the applicable period, the Member States shall erase the data. Member States shall erase the data relating to a person who has acquired citizenship of any Member State before the expiry of that period as soon as they become aware that the person concerned has acquired such citizenship.
+
+Where a Member State discontinues an admission procedure pursuant to paragraph 11, first subparagraph, the Member State shall store the data related to the person concerned for three years from the date of that discontinuation. Where a Member State discontinues an admission procedure pursuant to paragraph 11, second subparagraph, the Member State shall erase the data relating to the person concerned on the date of that discontinuation.
+
+13\. Where a Member State’s conclusion pursuant to paragraph 9 is negative, the third-country national or stateless person concerned shall not be admitted to that Member State.
+
+Subject to Chapter V of Regulation (EU) 2016/679, the reason for a negative conclusion shall be communicated to the UNHCR, where necessary to enable the UNHCR to carry out its tasks regarding referrals of third-country nationals or stateless persons to Member States or to third countries in accordance with this Regulation or with its mandate, unless there are overriding reasons of public interest for not doing so.
+
+Any Member State that has reached a negative conclusion as referred to in the first subparagraph may require that it be consulted by another Member State during that other Member State’s examination of the admission file.
+
+14\. Where a Member State’s conclusion pursuant to paragraph 9 is positive paragraphs 15 to 22 shall apply before or after the entry of the person concerned to its territory.
+
+15\. Pursuant to paragraph 14 of this Article, a Member State as referred to therein shall take a decision to grant refugee status where the third-country national or the stateless person concerned qualifies as a refugee, or subsidiary protection status where the third-country national or the stateless person concerned is eligible for subsidiary protection.
+
+Such a decision shall have the same effect as a decision granting refugee status or subsidiary protection status as referred to in Articles 13 or 18 of Regulation (EU) 2024/1347, after the person concerned has entered the territory of a Member State.
+
+Member States may issue residence permits of permanent or unlimited validity on terms that are more favourable in accordance with Article 13 of Council Directive 2003/109/EC ( 1 ).
+
+16\. Pursuant to paragraph 14 of this Article, a Member State as referred to therein shall take a decision to issue a residence permit in the case of a family member of the third-country national or stateless person concerned, pursuant to Article 5(4), who does not qualify individually for international protection.
+
+Such a decision shall have the same effect as a decision to issue a residence permit as referred to in Article 23(1) of Regulation (EU) 2024/1347, after the person concerned has entered the territory of a Member State.
+
+17\. Pursuant to paragraph 14 of this Article, a Member State as referred to therein may, in the case of humanitarian admission, grant international protection or, without prejudice to the right to apply for international protection, humanitarian status under national law that provides for rights and obligations equivalent to those of Articles 20 to 26 and 28 to 35 of Regulation (EU) 2024/1347 for beneficiaries of subsidiary protection.
+
+Such a decision shall take effect after the person concerned has entered the territory of the Member State.
+
+18\. Pursuant to paragraph 14 of this Article, a Member State as referred to therein shall take a decision to issue a residence permit in the case of a family member of the third-country national or stateless person concerned, pursuant to Article 5(4), who does not qualify individually for international protection or for humanitarian status under national law as referred to in Article 2, point (3)(c).
+
+Such a decision shall have the same effect as a decision to issue a residence permit as referred to Article 23(1) of Regulation (EU) 2024/1347, after the person concerned has entered the territory of a Member State.
+
+19\. Pursuant to paragraph 14 of this Article, a Member State as referred to therein, or the relevant partner on behalf of the Member State in accordance with Article 10(3) shall notify the third-country nationals or stateless persons concerned of any decision pursuant to paragraphs 15 and 17 of this Article.
+
+Where such a decision was taken before the person concerned entered the territory of the Member State, that a notification may take place after such entry.
+
+20\. Pursuant to paragraph 14, a Member State as referred to therein shall make every effort to ensure entry to its territory as soon as possible and no later than 12 months from the date of the conclusion.
+
+In the case of an emergency admission, the Member State shall ensure the swift transfer of the third-country national or the stateless person after the date of the positive conclusion pursuant to paragraph 9.
+
+21\. Pursuant to paragraph 14, a Member State as referred to therein shall offer, where necessary, to make travel arrangements, including fit-to-travel medical checks and provide transfer to their territory free of charge, including, where necessary, the facilitation of exit procedures in the third country from where the third-country national or the stateless person concerned is admitted.
+
+Where a Member State organises travel arrangements pursuant to the first subparagraph, it shall take into account the specific needs of the persons concerned with regard to any vulnerabilities that they may have.
+
+22\. Pursuant to paragraph 14, a Member State as referred to therein shall, where feasible, offer pre-departure orientation programmes to the third-country nationals or stateless persons concerned, which shall be free of charge and easily accessible and may include information about their rights and obligations, language classes, and information about the Member State’s social, cultural and political situation.
+
+Where it is not feasible to provide such orientation programmes, Member States shall provide at least information about their rights and obligations to third-country nationals or stateless persons.
+
+23\. Personal data processed by a Member State pursuant to this Article shall not be transferred or made available to any third country, international body or private entity established in the Union or in a third country in cases other than those provided for in this Article.
+
+24\. Member States shall transmit the data of the persons falling within the scope of this Regulation in accordance with Article 18 of Regulation (EU) 2024/1358 of the European Parliament and of the Council ( 2 ).
+
+25\. At all stages of the procedure, Member States shall not discriminate against persons on grounds of sex, race, colour, ethnic or social origin, genetic features, language, religion or belief, political or any other opinion, membership of a national minority, property, birth, disability, age or sexual orientation.
+
+## Article 10 — Operational cooperation
+
+1\. To facilitate the implementation of the Union Plan, Member States shall appoint national contact points and may decide to appoint liaison officers in third countries.
+
+2\. The Asylum Agency may support Member States upon their request in accordance with Article 9(1) of this Regulation, or where provided for in a Union Plan in accordance with Article 8(4), point (b), of this Regulation. That support may include coordinating technical cooperation between Member States, assisting Member States in the implementation of the Union Plan, the training of personnel conducting admission procedures, providing information to third-country nationals or stateless persons as referred to in Article 9(4), (5) and (25) of this Regulation, facilitating the sharing of infrastructure, and assisting Member States in cooperating with third countries for the purpose of conducting admission procedures pursuant to Regulation (EU) 2021/2303.
+
+The Asylum Agency may also coordinate an exchange of good practices between Member States for the purpose of the implementation of this Regulation and the integration of resettled persons in their host society.
+
+3\. For the purpose of implementing the Union Plan, and in particular of notifying the third-country nationals or stateless persons concerned of the decision taken by Member States in accordance with Article 9(15) and (17) and of conducting pre-departure orientation programmes, fit-to-travel medical checks, travel arrangements and other practical arrangements, Member States may be assisted by relevant partners upon the request of the Member State or in accordance with local coordination and practical cooperation arrangements for a Union Plan established in accordance with Article 8(4), point (b).
+
+## Article 11 — High-Level Resettlement and Humanitarian Admission Committee
+
+1\. A High-Level Resettlement and Humanitarian Admission Committee (High-Level Committee) shall be established. It shall be composed of representatives of the European Parliament, the Council, the Commission and the Member States.
+
+The Asylum Agency, the UNHCR and the International Organization for Migration shall be invited to attend the meetings of the High-Level Committee.
+
+Other relevant organisations, including civil society organisations, may be invited to attend the meetings of the High-Level Committee in areas of their expertise.
+
+Representatives of Iceland, Liechtenstein, Norway, and Switzerland shall be invited to attend the meetings of the High-Level Committee where they have indicated their intention to be associated with the implementation of the Union Plan.
+
+2\. The High-Level Committee shall be chaired by the Commission. It shall meet at least once a year and whenever necessary at the invitation of the Commission or at a request of a Member State or of the European Parliament.
+
+3\. The High-Level Committee shall advise the Commission on issues related to the implementation of the Union Framework, including on a recommended number of persons to be admitted and the regions or third countries from which such admission is to be undertaken, taking into account the UNHCR Projected Global Resettlement Needs. It may make recommendations.
+
+The Commission shall publish the minutes of the meetings of the High-Level Committee, unless such publication would undermine the protection of any public or private interest as provided for in Article 4 of Regulation (EC) No 1049/2001 of the European Parliament and of the Council ( 3 ).
+
+4\. The Commission shall consult the High-Level Committee and shall take into account the outcome of the meetings of the High-Level Committee with regard to issues related to the implementation of the Union Framework.
+
+5\. Following the outcome of the meetings of the High-Level Committee pursuant to this Article, the Commission shall invite Member States to indicate the details of their participation and of their contribution on a voluntary basis to the total number of persons to be admitted including the type of admission and the regions or third countries from which admission shall take place in accordance with Articles 4 and 8.
+
+6\. The Commission, on its own initiative or following a recommendation by one or more Member States or the European Parliament, shall convene a meeting of the High-Level Committee for the purpose of discussing the possible admission of persons pursuant to Article 8(6), with a view to responding to new circumstances, such as an unforeseen humanitarian crisis in regions or third countries that are not included in the Union Plan.
+
+7\. The High-Level Committee may, if necessary, establish its rules of procedure.
+
+## Article 12 — Association with Iceland, Liechtenstein, Norway, and Switzerland
+
+Iceland, Liechtenstein, Norway, and Switzerland shall be invited to be associated with the implementation of the Union Plan. Such association shall duly take this Regulation into account, in particular with regard to the procedure laid down in Article 9 and the rights and obligations of persons admitted.
+
+## Article 13 — Financial support
+
+Financial support to the Member States for resettlement and humanitarian admission shall be implemented in accordance with Regulation (EU) 2021/1147.
+
+## Article 14 — Amendments to Regulation (EU) 2021/1147
+
+Regulation (EU) 2021/1147 is amended as follows:
+
+(1) Article 2 is amended as follows:
+
+(a) point (5) is replaced by the following:
+
+‘(5) “humanitarian admission” means humanitarian admission as defined in Article 2, point (3), of Regulation (EU) 2024/1350 of the European Parliament and of the Council ( *1 );
+
+(b) point (8) is replaced by the following:
+
+‘(8) “resettlement” means resettlement as defined in Article 2, point (1), of Regulation (EU) 2024/1350’;
+
+(2) in Article 19, paragraphs (1), (2) and (3) are replaced by the following:
+
+‘1. Member States shall receive, in addition to their allocation under Article 13(1), point (a), of this Regulation an amount of EUR 10 000 for each person admitted through resettlement under the Union Resettlement and Humanitarian Admission Framework established by Regulation (EU) 2024/1350.
+
+2\. Member States shall receive, in addition to their allocation under Article 13(1), point (a) of this Regulation, an amount of EUR 6 000 for each person admitted through humanitarian admission under the Union Resettlement and Humanitarian Admission Framework established by Regulation (EU) 2024/1350 or admitted under a national resettlement scheme.
+
+3\. The amount referred to in paragraph 2 shall be increased to EUR 8 000 for each person admitted through humanitarian admission or admitted under a national resettlement scheme who belongs to one or more of the following vulnerable groups:
+
+(a) women and children at risk;
+
+(b) unaccompanied minors;
+
+(c) persons having medical needs that can be addressed only through humanitarian admission;
+
+(d) persons in need of humanitarian admission for legal or physical protection needs, including victims of violence or torture.’.
+
+## Article 15 — Evaluation and Review
+
+1\. By 12 June 2028, the Commission shall submit a report to the European Parliament and to the Council on the application of this Regulation, including Article 9(2), point (b), and on the contributions made by Member States to the implementation of the Union Plan, in accordance with Article 8, and on the efforts of all Member States to scale up their resettlement and humanitarian admission efforts with a view to significantly contributing to meeting the global resettlement needs. The report shall be accompanied, where appropriate, by proposals to achieve that aim.
+
+2\. Member States shall provide the Commission and the Asylum Agency with the necessary information for drawing up the Commission’s report for the purpose of paragraph 1.
+
+3\. The European Parliament and the Council shall, on the basis of a proposal of the Commission, review this Regulation within two years of submission of the Commission report pursuant to paragraph 1, taking into account the content of that report.
+
+## Article 16 — Entry into force
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. Article 9(24) shall apply from 12 June 2026.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+( ) Council Directive 2003/109/EC of 25 November 2003 concerning the status of third-country nationals who are long-term residents (OJ L 16, 23.1.2004, p. 44).
+
+( ) Regulation (EU) 2024/1358 of the European Parliament and of the Council of 14 May 2024 on the establishment of ‘Eurodac’ for the comparison of biometric data in order to effectively apply Regulations (EU) 2024/1351 and (EU) 2024/1350 of the European Parliament and of the Council and Council Directive 2001/55/EC and to identify illegally staying third-country nationals and stateless persons and on requests for the comparison with Eurodac data by Member States’ law enforcement authorities and Europol for law enforcement purposes, amending Regulations (EU) 2018/1240 and (EU) 2019/818 of the European Parliament and of the Council and repealing Regulation (EU) No 603/2013 of the European Parliament and of the Council (OJ L, 2024/1358, 22.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1358/oj).
+
+( ) Regulation (EC) No 1049/2001 of the European Parliament and of the Council of 30 May 2001 regarding public access to European Parliament, Council and Commission documents (OJ L 145, 31.5.2001, p. 43).
+
+( *1 ) Regulation (EU) 2024/1350 of the European Parliament and the Council of 14 May 2024 establishing a Union Resettlement and Humanitarian Admission Framework, and amending Regulation (EU) 2021/1147 (OJ L, 2024/1350, 22.5.2024, ELI: http://data.europa.eu/eli/reg/2024/1350/oj).’;

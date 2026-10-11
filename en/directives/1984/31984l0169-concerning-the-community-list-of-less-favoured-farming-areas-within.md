@@ -32,9 +32,11 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Decision of 18 December 1990</td><td> L 16</td><td>25</td><td>22.1.1991</td></tr>
+</table>
 
 Corrected by:
 
@@ -138,6 +140,7 @@ NORTHERN IRELAND
 
 SCOTLAND
 
+<table>
 <tbody><tr><td>County</td><td>Parishes wholly within less-favoured areas</td><td>Parishes partly within less-favoured areas</td></tr>
 <tr><td>ABERDEENSHIRE</td><td> 3 Drumoak  5 Echt  11 Peterculter  12 Skene  13 Alford  14 Auchindoir  15 Clatt  16 Glenbuchat  17 Keig  18 Kildrummy  19 Kennethmont  20 Leochel-Cushnie  21 Strathdon  22 Tough  23 Towie  24 Tullynessle  38 Aboyne  39 Birse  40 Cluny  41 Coull  42 Crathie and Braemar  43 Glenmuick  44 Kincardine O'Neil  45 Logie-Coldstone  46 Lumphanan  47 Midmar  48 Tarland  59 Culsalmond  61 Insch  66 Leslie  68 Monymusk  69 Oyne  70 Premnay  72 Cairnie  73 Drumblade  74 Forgue  75 Garthly  76 Glass  77 Huntly  78 Rhynie </td><td> 2 Belhelvie  4 Dyce  6 Fintray  7 Kinnellar  8 Newhills  9 New Machar  10 Old Machar  25 Aberdour  26 Crimond  27 Fraserburgh  28 Longside  29 Lonmay  30 New Deer  31 Old Deer  32 Peterhead  33 Pitsligo  34 Rathen  35 St Fergus  36 Strichen  37 Tyrie  49 Cruden  50 Ellon  51 Foveran  53 Methlick  54 Slains  55 Tarves  58 Chapel of Garioch  62 Inverurie  64 Kemnay  65 Kintore  67 Meldrum  79 Auchterless  80 Fyvie  81 King Edward  82 Monquhitter  83 Turriff </td></tr>
 <tr><td>ANGUS</td><td> 88 Lethnot  89 Lochlee </td><td> 87 Edzell  91 Menmuir  92 Stacathro  101 Eassie and Nevay  103 Glamis  105 Inverarity  111 Cortachy  112 Fern  113 Glenisla  114 Kingoldrum  115 Kirriemuir  116 Lintrathen  118 Tannadice  119 Auchterhouse  121 Fowlis-Easter  122 Kettins  124 Lundie  128 Newtyle  129 Tealing </td></tr>
@@ -176,6 +179,7 @@ SCOTLAND
 <tr><td>LOTHIAN</td><td>  </td><td>Cranston</td></tr>
 <tr><td colspan="3"> (1) Grouped with T 2 as nearest group in geographical terms. Note: Also to include about 250 isolated farms in Scotland. </td></tr>
 </tbody>
+</table>
 
 LESS-FAVOURED AREA WITHIN THE MEANING OF ARTICLE 3 (5) OF DIRECTIVE 75/268/EEC
 

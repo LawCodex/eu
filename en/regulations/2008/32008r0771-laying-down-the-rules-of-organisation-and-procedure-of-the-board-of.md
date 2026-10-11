@@ -1,0 +1,534 @@
+---
+title: "Commission Regulation (EC) No 771/2008 of 1 August 2008 laying down the rules of organisation and procedure of the Board of Appeal of the European Chemicals Agency (Text with EEA relevance)"
+identifier: "32008R0771"
+eli: "http://data.europa.eu/eli/reg/2008/771/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-08-01
+entry_into_force: 2008-08-07
+last_amended: 2026-08-13
+consolidated_version: "02008R0771-20260813"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R0771-20260813"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 771/2008 of 1 August 2008 laying down the rules of organisation and procedure of the Board of Appeal of the European Chemicals Agency (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 771/2008**
+
+**of 1 August 2008**
+
+**laying down the rules of organisation and procedure of the Board of Appeal of the European Chemicals Agency**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/823 of 25 May 2016 </td><td> L 137</td><td>4</td><td>26.5.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1782 of 23 July 2026 </td><td> L 1782</td><td>1</td><td>24.7.2026</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 771/2008**
+
+**of 1 August 2008**
+
+**laying down the rules of organisation and procedure of the Board of Appeal of the European Chemicals Agency**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — Organisation of the Board of Appeal
+
+### Section 1 — The Board of Appeal
+
+#### Article 1 — Composition
+
+1\. Each appeal shall be decided by three members of the Board of Appeal of the Agency, hereinafter ‘the Board of Appeal’.
+
+At least one member shall be legally qualified and at least one member shall be technically qualified in accordance with Regulation (EC) No 1238/2007.
+
+2\. The Chairman of the Board of Appeal, or one of his alternates, shall preside over all appeals.
+
+3\. The Chairman shall ensure the quality and consistency of the decisions of the Board of Appeal.
+
+4\. To ensure that the appeals can be processed at a satisfactory rate, the Chairman, after consultation of the Management Board of the Agency, may allocate the appeal to alternate or additional members. In such cases, the Chairman may designate an alternate Chairman.
+
+#### Article 1a — Amicable agreement
+
+In the interest of the procedure the Chairman of the Board of Appeal may invite the parties to reach an amicable agreement. In that case the Chairman shall appoint a single member to facilitate the amicable agreement. The Chairman shall communicate the decision to appoint a single member to the parties.
+
+If the parties reach an amicable agreement, the single member shall close the proceedings and a summary of the amicable agreement shall be published on the website of the Agency. In the absence of an amicable agreement within 2 months from the decision to allocate the case to a single member, the case shall be referred back to the Board of Appeal.
+
+#### Article 1b — Closure of appeals by the Chairman
+
+Where an appeal is withdrawn, or where the contested decision is withdrawn in its entirety by the Agency following rectification pursuant to Article 93(1) of Regulation (EC) No 1907/2006, the Chairman shall close the proceedings.
+
+#### Article 2 — Exclusion of members
+
+Where the procedure under Article 90(7) of Regulation (EC) No 1907/2006 is applied, the member of the Board of Appeal concerned shall be invited to present his comments regarding the reasons for any objection raised under Article 90(6) of that Regulation before a decision is taken.
+
+Pending a decision under Article 90(7) of that Regulation, the proceedings shall be suspended.
+
+#### Article 3 — Replacement of members
+
+1\. The Board of Appeal shall replace a member by an alternate where it decides to exclude him from the proceedings in accordance with Article 90(7) of Regulation (EC) No 1907/2006.
+
+2\. The Chairman may replace any member of the Board of Appeal, at the request of that member, by an alternate if that member is precluded from participating in the proceedings or if the position is vacant. The criteria for designation of an alternate shall be set out in accordance with the procedure set out in Article 27(3).
+
+If a member is unable to ask for replacement, the Chairman may replace him on his own initiative.
+
+The Chairman may reject a request for a replacement only by a reasoned decision.
+
+If the Chairman is precluded from participating in the proceedings, he shall designate his alternate. If the Chairman is unable to do so, the longer serving of the other members deciding the appeal, or, where those other members have the same length of service on the Board of Appeal, the older member shall designate the alternate.
+
+3\. If a member is replaced before a hearing has been held, the proceedings shall not be suspended and the replacement shall be without prejudice to any procedural steps already taken.
+
+If a member is replaced after a hearing has been held, the hearing shall be held again unless the parties, the alternate and the other two members deciding the appeal agree otherwise.
+
+4\. If a member is replaced, the alternate concerned shall be bound by any interim decision taken prior to that replacement.
+
+5\. The absence of a member after the Board of Appeal has taken a final decision shall not preclude the Board of Appeal from carrying out the remaining procedural steps.
+
+If the Chairman is unable to sign the decision or to carry out other remaining procedural steps, the longer serving of the other members deciding the appeal, or, where those other members have the same length of service on the Board of Appeal, the older member shall carry out those steps on behalf of the Chairman.
+
+#### Article 4 — Rapporteur
+
+1\. The Chairman shall designate one of the other members deciding an appeal as rapporteur for the case or fulfil that function himself, taking into consideration the need to ensure a balanced distribution of workload between all members.
+
+1a. In order to take account of a connection between cases on the basis of their subject matter, or with a view to ensuring that appeals are processed at a satisfactory rate, the Chairman may, after consultation with the members concerned, designate a different member of the Board of Appeal to replace the rapporteur.
+
+2\. The rapporteur shall carry out a preliminary study of the appeal.
+
+3\. The Board of Appeal may, upon a proposal from the rapporteur, prescribe any of the procedural measures provided for in Article 15.
+
+The implementation of those measures may be entrusted to the Registrar.
+
+4\. The rapporteur shall prepare a draft decision.
+
+### Section 2 — The Registry
+
+#### Article 5 — Registry and Registrar
+
+1\. The Registry is hereby established within the Agency under the auspices of the Board of Appeal. The person appointed as Registrar under paragraph 5 shall be the head of the Registry.
+
+The Registrar shall be responsible, within the administrative and financial framework of the Agency, for the administration of the Board of Appeal and for the management of the Registry. The Registrar shall be assisted in this duty by the relevant departments of the Agency’s secretariat.
+
+2\. The Registrar shall ensure the proper conduct of appeal proceedings and shall assist the Board of Appeal. The Registrar shall also be responsible for the receipt, transmission and custody of documents, and the effecting of other services as provided for by this Regulation.
+
+3\. A Register of appeals shall be kept in the Registry in which references to all notices of appeal and related documents are entered.
+
+4\. The staff of the Registry, including the Registrar, shall not participate in any proceedings of the Agency relating to decisions which may be the subject of appeals under Article 91(1) of Regulation (EC) No 1907/2006 or under Article 77(1) of Regulation (EU) No 528/2012 of the European Parliament and of the Council ( 1 ).
+
+5\. The Board of Appeal shall be assisted in the exercise of its duties by a Registrar. The Executive Director shall appoint the Registrar after taking into consideration the views of the Chairman. The Registrar shall report to the Agency director responsible for resources on administrative matters and to the Chairman for matters related to appeals.
+
+The Chairman shall have the power to give directions to the Registrar on matters relating to the exercise of the functions of the Board of Appeal.
+
+6\. The Registrar shall verify that the time limits and other formal conditions relating to the lodging of appeals are complied with.
+
+7\. General instructions to the Registrar shall be adopted in accordance with the procedure set out in Article 27(3).
+
+## CHAPTER II — The procedure
+
+#### Article 6 — Notice of appeal
+
+1\. The notice of appeal shall contain:
+
+(a) the name, address and email address of the appellant;
+
+(b) where the appellant has appointed a representative, the name, business address and email address of the representative;
+
+(c) an address and email address for service of documents, if different from those referred to in points (a) and (b);
+
+(d) the reference of the decision which is being contested and the remedy sought by the appellant;
+
+(e) the pleas in law and the arguments of fact and law relied on;
+
+(f) where appropriate, the nature of any evidence offered and a statement explaining the facts for which the evidence is offered in support;
+
+(g) where appropriate, an indication as to what information in the notice of appeal is to be regarded as confidential and why.
+
+2\. Proof of payment of the appeal fee pursuant to Article 10 of Regulation (EC) No 340/2008 or, where applicable, pursuant to Article 4 of Commission Implementing Regulation (EU) No 564/2013 ( 2 ) shall be attached to the notice of appeal.
+
+3\. If a notice of appeal does not comply with the requirements set out in paragraph 1, points (a) to (d), and paragraph 2 of this Article, or any practice directions adopted in accordance with Article 27(2), the Registrar may prescribe a reasonable period within which the appellant is to comply with them. The Registrar may prescribe such period only once.
+
+During that period, time shall not run for the purposes of the time limit set out in Article 93(1) and (2) of Regulation (EC) No 1907/2006.
+
+4\. If an irregularity is detected which is liable to make an appeal inadmissible, the Registrar shall, without delay, send a reasoned opinion to the Chairman.
+
+Where the Registrar prescribes a period in accordance with paragraph 3, he shall send such opinion after that period has expired if the irregularity has not been corrected.
+
+5\. The Registrar shall serve the notice of appeal on the Agency without delay.
+
+When the appellant is not the addressee of the contested decision, the Registrar shall inform the latter of the lodgement of an appeal against such decision.
+
+6\. An announcement shall be published on the website of the Agency, indicating the date of receipt of an appeal initiating proceedings, the name of the appellant, the subject matter of the proceedings, the remedy sought by the appellant and a summary of the pleas in law and of the main supporting arguments.
+
+The Chairman shall decide whether information indicated by an appellant pursuant to paragraph 1, point (g), is to be regarded as confidential and shall ensure that any information which is regarded as confidential is not published in the announcement. The information referred to in the first subparagraph shall not be regarded as confidential. The practical details of publication shall be prescribed in accordance with the procedure set out in Article 27(3).
+
+#### Article 7 — Defence
+
+1\. The Agency shall lodge the defence within two months from the expiry of the period for the Chairman to decide on the admissibility of the appeal set out in Article 93(2) of Regulation (EC) No 1907/2006.
+
+The Registrar may, in exceptional circumstances, extend that time limit on a reasoned application by the Agency.
+
+2\. The defence shall contain:
+
+(a) where the Agency has appointed a representative, the name, business address and email address of the representative;
+
+(b) the pleas in law and the arguments of fact and law relied on;
+
+(c) where appropriate, the nature of any evidence offered and a statement explaining the facts for which the evidence is offered in support;
+
+(d) where appropriate, an indication as to what information in the defence is to be regarded as confidential and why.
+
+3\. Where the Agency, despite being duly summoned, fails to lodge a defence, the proceedings shall continue without a defence.
+
+#### Article 8 — Intervention
+
+1\. Any person establishing an interest in the result of the case submitted to the Board of Appeal may intervene in the proceedings before the Board of Appeal.
+
+By derogation to the first paragraph, in cases relating to Title VI Chapter 2 of Regulation (EC) No 1907/2006, the Member State whose competent authority has carried out the substance evaluation may intervene without having to establish an interest in the result of that case.
+
+2\. An application stating the circumstances establishing the right to intervene shall be submitted within three weeks of publication of the announcement referred to in Article 6(6).
+
+3\. The intervention shall be limited to supporting or opposing, in whole or in part, the form of remedy sought by one of the parties.
+
+The intervention shall not confer the same procedural rights as those conferred on the parties and shall be ancillary to the main proceedings. It shall become devoid of purpose if the case is removed from the register of the Board of Appeal as a result of a party's discontinuance or withdrawal from the proceedings or of an amicable agreement between the parties, or where the notice of appeal is declared inadmissible.
+
+Interveners shall accept the case as they find it at the time of their intervention.
+
+4\. The application to intervene shall contain:
+
+(a) the description of the case;
+
+(b) the name of the parties;
+
+(c) the name, address and email address of the intervener;
+
+(d) where the intervener has appointed a representative in accordance with Article 9, the name, business address and email address of the representative;
+
+(e) an address and email address for service of documents, if different from those referred to in points (c) and (d);
+
+(f) the remedy sought, by one or more of the parties, in support of which the intervener is applying for leave to intervene;
+
+(g) a statement of the circumstances establishing the right to intervene;
+
+(h) an indication whether the intervener agrees that service is to be effected on him or, where appropriate, on his representative by telefax, e-mail or other technical means of communication.
+
+The application to intervene shall be served on the parties in order to obtain any observations they may wish to make on that application before the Chairman decides on it.
+
+5\. Where the Chairman decides to allow the intervention, the intervener shall receive a copy of every procedural document served on the parties provided for that purpose to the Chairman by the parties. Confidential items or documents shall be excluded from such communication.
+
+6\. The Chairman shall decide whether or not to allow the application to intervene.
+
+Where the Chairman allows the intervention, the Registrar shall prescribe a period within which the intervener may submit a statement in intervention.
+
+The statement in intervention shall contain:
+
+(a) a statement of the remedy sought by the intervener in support of or opposing, in whole or in part, the remedy sought by one of the parties;
+
+(b) the pleas in law and the arguments of fact and law relied on;
+
+(c) where appropriate, the nature of any evidence offered in support;
+
+(d) where appropriate, an indication as to what information in the application to intervene is to be regarded as confidential and why.
+
+After the statement in intervention has been lodged, the Registrar may prescribe a time-limit within which the parties may reply to that statement.
+
+7\. Interveners shall bear their own costs.
+
+#### Article 9 — Representation
+
+Where a party or intervener has appointed a representative, that representative shall provide an authority to act issued by the represented party or intervener.
+
+#### Article 10 — Lodging of procedural documents
+
+1\. All pleadings shall be signed and bear a date.
+
+2\. For the purposes of calculating time limits, a document shall not be considered to have been lodged until it is received at the Registry.
+
+3\. All procedural documents shall be lodged by email or other digital means of communication determined by the Board of Appeal.
+
+The rules governing the use of means of technical communication, including the use of electronic signature, shall be adopted in accordance with the procedure set out in Article 27(3).
+
+#### Article 11 — Admissibility of the appeal
+
+1\. The grounds on which an appeal shall be ruled inadmissible shall include the following:
+
+(a) the notice of appeal is not in compliance with the requirements set out in Article 6(1), points (a) to (e), and Article 9 of this Regulation;
+
+(b) the appellant has exceeded the time limit for submitting an appeal as set out in Article 92(2) of Regulation (EC) No 1907/2006;
+
+(c) the appeal is not brought against a decision referred to in Article 91(1) of Regulation (EC) No 1907/2006 or Article 77(1) of Regulation (EU) No 528/2012;
+
+(d) the appellant is neither an addressee of the decision contested by the appeal nor able to establish direct and individual concern according to Article 92(1) of Regulation (EC) No 1907/2006.
+
+#### Article 11a — Adversarial nature of the proceedings
+
+1\. The Board of Appeal shall take into consideration only those procedural documents and items which have been made available to the appellant and the Agency and on which they have been given an opportunity to express their views.
+
+2\. Subject to the provisions concerning confidentiality of this Regulation and to any decisions taken in accordance with Article 27, all procedural documents and items included in the case-file shall be served on the parties.
+
+#### Article 12 — Examination of appeals
+
+1\. No further evidence may be introduced after the first exchange of written pleadings unless the Board of Appeal decides that the delay in offering the evidence is duly justified.
+
+2\. No new plea in law may be introduced after the first exchange of written pleadings unless the Board of Appeal decides that it is based on new matters of law or of fact that come to light in the course of the proceedings.
+
+3\. Where appropriate, the Board of Appeal shall invite the parties to the proceedings to submit observations on notifications issued by the Board of Appeal or on communications from the other party or from the interveners.
+
+The Registrar shall set a reasonable period for submission of the observations.
+
+4\. The Registrar shall notify the parties of the closure of the written part of the proceedings.
+
+#### Article 13 — Hearings
+
+1\. The Board of Appeal shall hold a hearing if it considers this to be necessary or if a party so requests.
+
+The request shall be submitted within two weeks from notification to the party of the closure of the written part of the proceedings. This period may be extended by the Registrar.
+
+2\. The summons to the hearing shall be communicated to the parties by the Registry.
+
+3\. If a party who has been duly summoned to a hearing does not appear as summoned, the proceedings may continue without that party.
+
+4\. Hearings before the Board of Appeal shall be public, unless the Board of Appeal, of its own motion or at the request of a party, decides otherwise, when duly justified.
+
+5\. The hearing shall be opened and directed by the Chairman, who shall be responsible for its proper conduct.
+
+The Chairman and the other members may put questions to the parties or their representatives.
+
+6\. The Registrar shall be responsible for drawing up minutes for every hearing.
+
+The minutes shall be signed by the Chairman and the Registrar and shall constitute an official record.
+
+Before the minutes are signed, witnesses or experts shall be given an opportunity to verify and confirm the content of the parts of minutes recording their evidence.
+
+7\. The hearing may be held by video-conference or by using other communication technology if the technical means are available.
+
+#### Article 14 — Use of languages
+
+1\. The language in which the notice of appeal has been lodged shall be the language of the case on appeal.
+
+If the appellant is the addressee of the decision against which the appeal is brought, the notice of appeal shall be lodged in the language of the decision or in one of the official languages of the Community appearing in the submission which gave rise to the decision, including in any information submitted pursuant to Article 10(a)(i) of Regulation (EC) No 1907/2006.
+
+2\. The language of the case shall be used in the written and oral proceedings and in the minutes and decisions of the Board of Appeal.
+
+Any supporting documents in another language shall be accompanied by a translation into the language of the case.
+
+In the case of lengthy documents, translations may be confined to extracts. However, the Board of Appeal may, of its own motion or at the request of a party, at any time require a more extensive or complete translation.
+
+3\. At the request of a party, and after the other party has been heard, the Board of Appeal may authorise the use of an official language of the Community other than the language of the case for all or part of the proceedings.
+
+4\. At the request of an intervener, and after the parties have been heard, the Board of Appeal may authorise the intervener to use an official language of the Community other than the language of the case.
+
+5\. Where a witness or expert states that he is unable to express himself adequately in the language of the case, the Board of Appeal may authorise him to use another official language of the Community.
+
+6\. Where the Board of Appeal authorises the use of a language other than the language of the case, the Registry shall arrange for translation or interpretation.
+
+#### Article 15 — Procedural measures
+
+1\. The Board of Appeal may prescribe procedural measures at any point in the proceedings.
+
+2\. The purpose of procedural measures shall, in particular, be:
+
+(a) to ensure the efficient conduct of the proceedings and to facilitate the taking of evidence;
+
+(b) to determine the points on which the parties must present further arguments;
+
+(c) to clarify the remedies sought by the parties, their pleas in law and arguments and the points at issue between them;
+
+(d) to facilitate the amicable agreement between the parties.
+
+3\. Procedural measures may, in particular, consist of:
+
+(a) putting questions to the parties;
+
+(b) inviting the parties to make written or oral submissions on certain aspects of the proceedings;
+
+(c) asking the parties or third parties for information;
+
+(d) asking for documents relating to the case to be produced;
+
+(e) summoning the parties or their representatives to meetings;
+
+(f) drawing attention to matters which seem to be of special significance, or to the fact that certain questions appear no longer to be contentious;
+
+(g) making observations that may help to keep the focus on essentials during the proceedings.
+
+#### Article 16 — Evidence
+
+1\. In proceedings before the Board of Appeal, the means of taking evidence may include:
+
+(a) requests for information;
+
+(b) the production of documents and items;
+
+(c) hearing the parties or witnesses;
+
+(d) opinions by experts.
+
+Detailed rules on the taking of evidence shall be laid down in accordance with the procedure set out in Article 27(3).
+
+2\. If the Board of Appeal considers it necessary for a party, witness or expert to give evidence orally, it shall summon the person concerned to appear before it.
+
+3\. The parties shall be informed where a witness or expert is to be heard before the Board of Appeal. They shall have the right to be present and to put questions to the witness or expert.
+
+The parties may object to an expert or witness on the grounds of lack of competence in relation to the appeal. Where such an objection is raised, the matter shall be resolved by the Board of Appeal.
+
+4\. Prior to giving evidence, each expert or witness shall declare any personal interest which he may have in the case, or if he has previously been involved as a representative of one of the parties, or if he participated in the decision under appeal.
+
+Where the expert or witness fails to make such a declaration himself, the parties may bring the matter to the attention of the Board of Appeal.
+
+5\. An objection to a witness or to an expert shall be raised within two weeks of the parties being given notice of the summoning of the witness or appointing the expert. The party shall present the grounds of its objection and indicate the nature of any evidence offered to support it.
+
+6\. Where a witness or expert has given evidence, that evidence shall be reproduced in the minutes.
+
+#### Article 17 — Costs relating to taking of evidence
+
+1\. Witnesses and experts who are summoned by and who appear before the Board of Appeal shall be entitled to appropriate reimbursement of expenses for travel and subsistence.
+
+Witnesses who are summoned by and who appear before the Board of Appeal shall also be entitled to appropriate compensation for loss of earnings.
+
+Experts who are not members of the staff of the Agency shall be entitled to fees for their work.
+
+2\. Payments shall be made to the witnesses after they have given their evidence and to the experts after they have fulfilled their duties or tasks. However, an advance payment may be made.
+
+3\. The Management Board of the Agency shall lay down rules for calculation of the amounts and advances to be paid.
+
+4\. Detailed rules shall be laid down, in accordance with the procedure set out in Article 27(3) and in agreement with the Management Board, regarding the following:
+
+(a) who bears the costs with regard to the taking of evidence;
+
+(b) the arrangements for any payments for reimbursement, compensation and fees to the witnesses and experts.
+
+5\. The rules referred to in paragraphs 3 and 4 shall take into account, as appropriate, comparable rules existing in other areas of Community law.
+
+#### Article 17a — Costs
+
+The parties shall bear their own costs.
+
+#### Article 18 — Competence
+
+If the Board of Appeal remits the case to the competent body of the Agency in accordance with Article 93(3) of Regulation (EC) No 1907/2006, the latter shall be bound by the reasoning in the decision of the Board of Appeal save in so far as a change in circumstances occurs.
+
+#### Article 19 — Deliberations
+
+1\. Only the three members of the Board of Appeal deciding an appeal shall participate in the deliberations regarding that appeal. Deliberations shall be and shall remain secret.
+
+1a. The secrecy of deliberations shall apply to:
+
+(a) oral and written opinions of a member of the Board of Appeal that relate to the legal, scientific, or technical aspects of an appeal case and that are expressed during the examination and deliberation of that case, including during the drafting of the decisions concerning that case;
+
+(b) voting in accordance with Article 20.
+
+2\. During the deliberations, each member shall state his opinion and the reasons for it.
+
+The opinion of the rapporteur shall be heard first and, if the rapporteur is not the Chairman, the opinion of the Chairman last.
+
+#### Article 20 — Voting
+
+If voting is necessary, votes shall be cast in the sequence provided for in the second subparagraph of Article 19(2). However, if the Chairman is also the rapporteur, he shall vote last.
+
+Decisions shall be taken by a majority of votes.
+
+Abstentions shall not be permitted.
+
+#### Article 21 — Decisions
+
+1\. The decision shall contain:
+
+(a) a statement that the decision is delivered by the Board of Appeal;
+
+(b) the date when the decision was taken;
+
+(c) the names of the members of the Board of Appeal who have taken part in the proceedings;
+
+(d) the names of the parties and the interveners to the appeal and their representatives in the proceedings;
+
+(e) a statement of the remedy sought by the parties;
+
+(f) a summary of the facts;
+
+(g) the grounds on which the decision is based;
+
+(h) the order of the Board of Appeal, including where necessary an award of costs for taking evidence and a decision on the refund of fees pursuant to Article 10(4) of Regulation (EC) No 340/2008 or Article 4(4) of Implementing Regulation (EU) No 564/2013.
+
+2\. The Chairman and the Registrar shall sign the decision. The signatures may be electronic.
+
+The original of the decision shall be deposited at the Registry.
+
+3\. The decision shall be served on the parties in accordance with Article 22.
+
+4\. The decision shall be accompanied by a statement that it may be challenged pursuant to Article 230 of the Treaty and Article 94(1) of Regulation (EC) No 1907/2006. The statement shall include the time limit for commencing that action.
+
+Failure to include that statement shall not render the decision invalid.
+
+5\. Final decisions of the Board of Appeal shall be published in full in an appropriate form, unless the Chairman decides otherwise on the reasoned request of a party.
+
+6\. The Chairman shall decide whether the information indicated by the appellant pursuant to Article 6(1)(g), the Agency pursuant to Article 7(2)(d) or an intervener pursuant to Article 8(6)(d) is to be regarded as confidential. The Chairman shall ensure that any information which is regarded as confidential is not published in the final decision.
+
+#### Article 22 — Service of documents
+
+The Registrar shall ensure that the decisions and communications of the Board of Appeal are served on the parties and on the interveners.
+
+All decisions and communications shall be served by email or other digital means of communication determined by the Board of Appeal, after the parties concerned have agreed to those means of communication.
+
+#### Article 23 — Time limits
+
+1\. Any period set out in Article 92(2), Article 93(1) or Article 93(2) of Regulation (EC) No 1907/2006 or in this Regulation for the purposes of appeal proceedings shall be calculated in accordance with paragraphs 2 to 6 of this Article.
+
+2\. Where a period expressed in days, weeks, months or years is to be calculated from a day on which an event occurs or an action takes place, that day shall not fall within that period.
+
+3\. A period expressed in weeks, months or years shall end with the expiry of whichever day in the last week, month or year is the same day of the week, or falls on the same date, as the day during which the event or action from which the period is to be calculated occurred or took place.
+
+If, in a period expressed in months or in years, the day on which it should expire does not occur in the last month, the period shall end with the expiry of the last day of that month.
+
+4\. Where a period is expressed in months and days, it shall first be calculated in whole months, then in days.
+
+5\. Periods shall include official holidays of the Agency, Saturdays and Sundays.
+
+6\. If a period would otherwise end on a Saturday, Sunday or official holiday of the Agency, it shall be extended until the end of the first following working day.
+
+#### Article 24 — Extension and exceeding of time limit
+
+1\. Any time limit prescribed pursuant to this Regulation may be extended by the Registrar on a reasoned request by a party or intervener.
+
+If a party or intervener contests the decision of the Registrar on a request for extension of the deadline, the Registrar shall refer the matter to the Chairman who shall decide whether or not to grant the extension.
+
+2\. Exceeding a time limit shall be without prejudice to any right of a party provided that the party concerned proves the existence of unforeseeable circumstances or of force majeure to the satisfaction of the Board of Appeal.
+
+#### Article 25 — Stay of proceedings
+
+At the request of a party or of its own motion, the Board of Appeal may, after hearing the parties, stay the proceedings.
+
+Should any of the parties oppose the stay, that decision shall be taken by reasoned decision.
+
+#### Article 26 — Correction
+
+The Board of Appeal may of its own motion or on application by a party or intervener made within one month after the decision has been served decide to correct clerical mistakes, errors in calculation and obvious mistakes in the decision.
+
+Where the correction concerns the operative part or one of the grounds constituting the necessary support for the operative part, the parties and interveners may submit written observations within the time limit prescribed by the Registrar. The Board of Appeal may decide to correct the decision after that time limit.
+
+The correcting decision shall be served on the parties and interveners in accordance with Article 22.
+
+## CHAPTER III — Final provisions
+
+#### Article 27 — Implementing measures
+
+1\. Additional rules of a procedural nature necessary for the efficient processing of the appeals and rules necessary for the organisation of the work of the Board of Appeal, including rules concerning the allocation of cases between members, may be laid down in accordance with the procedure set out in paragraph 3.
+
+2\. Practice directions to parties and interveners and instructions related to the preparations for and conduct of hearings before the Board of Appeal, and to the lodging and service of written pleadings or observations may be adopted in accordance with the procedure set out in paragraph 3.
+
+3\. The Chairman and the other two members appointed in accordance with Article 89(3), first subparagraph, of Regulation (EC) No 1907/2006 shall adopt, considering the proposal prepared by the Registrar, the rules and measures provided for in this Regulation by a majority of votes.
+
+#### Article 28 — Entry into force
+
+This Regulation shall enter into force on the third day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products (OJ L 167, 27.6.2012, p. 1).
+
+( 2 ) Commission Implementing Regulation (EU) No 564/2013 of 18 June 2013 on the fees and charges payable to the European Chemicals Agency pursuant to Regulation (EU) No 528/2012 of the European Parliament and of the Council concerning the making available on the market and use of biocidal products (OJ L 167, 19.6.2013, p. 17).

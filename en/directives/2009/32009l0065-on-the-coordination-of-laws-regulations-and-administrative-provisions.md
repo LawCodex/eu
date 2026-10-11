@@ -26,6 +26,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2010/78/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 November 2010 </td><td> L 331</td><td>120</td><td>15.12.2010</td></tr>
@@ -41,6 +42,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE (EU) 2023/2864 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 December 2023 </td><td> L 2864</td><td>1</td><td>20.12.2023</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/927 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 March 2024 </td><td> L 927</td><td>1</td><td>26.3.2024</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/2994 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 2994</td><td>1</td><td>4.12.2024</td></tr>
+</table>
 
 **DIRECTIVE 2009/65/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -52,6 +54,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td colspan="2">CONTENT</td></tr>
 <tr><td>CHAPTER I</td><td>SUBJECT MATTER, SCOPE AND DEFINITIONS</td></tr>
 <tr><td>CHAPTER II</td><td>AUTHORISATION OF UCITS</td></tr>
@@ -94,6 +97,7 @@ retrieved: 2026-10-11
 <tr><td>Part A</td><td>Repealed Directive with list of its successive amendments</td></tr>
 <tr><td>Part B</td><td>List of time limits for transposition into national law and application</td></tr>
 <tr><td>ANNEX IV</td><td>Correlation table</td></tr>
+</table>
 
 ## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
 
@@ -2835,6 +2839,7 @@ This Directive is addressed to the Member States.
 
 **SCHEDULE A**
 
+<table>
 <tbody><tr><td>1. Information concerning the common fund</td><td>1. Information concerning the management company including an indication whether the management company is established in a Member State other than the UCITS home Member State</td><td>1. Information concerning the investment company</td></tr>
 <tr><td>1.1. Name</td><td>1.1. Name or style, form in law, registered office and head office if different from the registered office.</td><td>1.1. Name or style, form in law, registered office and head office if different from the registered office.</td></tr>
 <tr><td>1.2. Date of establishment of the common fund. Indication of duration, if limited.</td><td>1.2. Date of incorporation of the company. Indication of duration, if limited.</td><td>1.2. Date of incorporation of the company. Indication of duration, if limited.</td></tr>
@@ -2858,6 +2863,7 @@ This Directive is addressed to the Member States.
 <tr><td>1.18. Information concerning the manner, amount and calculation of remuneration payable by the common fund to the management company, the depositary or third parties, and reimbursement of costs by the common fund to the management company, to the depositary or to third parties.</td><td>  </td><td>1.18. Information concerning the manner, amount and calculation of remuneration payable by the company to its directors, and members of the administrative, management and supervisory bodies, to the depositary, or to third parties, and reimbursement of costs by the company to its directors, to the depositary or to third parties.</td></tr>
 <tr><td colspan="3">(1)  Investment companies within the meaning of Article 32(5) of this Directive shall also indicate: <br> — the method and frequency of calculation of the net asset value of units,  — the means, place and frequency of the publication of that value,  — the stock exchange in the country of marketing the price on which determines the price of transactions effected outwith stock exchanges in that country. </td></tr>
 </tbody>
+</table>
 
 2\. Information concerning the depositary:
 

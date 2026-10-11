@@ -1,0 +1,4204 @@
+---
+title: "Regulation (EU) 2021/2115 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013"
+identifier: "32021R2115"
+eli: "http://data.europa.eu/eli/reg/2021/2115/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-12-02
+entry_into_force: 2025-01-01
+last_amended: 2026-08-18
+consolidated_version: "02021R2115-20260818"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R2115-20260818"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2021/2115 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013
+
+**REGULATION (EU) 2021/2115 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 2 December 2021**
+
+**establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/648 of 15 February 2022 </td><td> L 119</td><td>1</td><td>21.4.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/813 of 8 February 2023 </td><td> L 102</td><td>1</td><td>17.4.2023</td></tr>
+<tr><td> M3</td><td> COMMISSION DELEGATED REGULATION (EU) 2024/946 of 18 January 2024 </td><td> L 946</td><td>1</td><td>26.3.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1468 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1468</td><td>1</td><td>24.5.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2025/2649 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 December 2025 </td><td> L 2649</td><td>1</td><td>31.12.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/1 of 1 December 2025 </td><td> L 1</td><td>1</td><td>6.2.2026</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/471 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 February 2026 </td><td> L 471</td><td>1</td><td>26.2.2026</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/1768 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 July 2026 </td><td> L 1768</td><td>1</td><td>21.7.2026</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/1739 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 July 2026 </td><td> L 1739</td><td>1</td><td>29.7.2026</td></tr>
+</table>
+
+C1
+
+**REGULATION (EU) 2021/2115 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 2 December 2021**
+
+**establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013**
+
+## TITLE I — SUBJECT MATTER AND SCOPE, APPLICABLE PROVISIONS AND DEFINITIONS
+
+###### Article 1 — Subject matter and scope
+
+1\. This Regulation lays down rules on:
+
+(a) general and specific objectives to be pursued through Union support financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) under the common agricultural policy (CAP) as well as the related indicators;
+
+(b) types of intervention and common requirements for Member States to pursue those objectives as well as the related financial arrangements;
+
+(c) CAP Strategic Plans, which are to be drawn up by Member States and which set targets, specify conditions for interventions and allocate financial resources, according to the specific objectives and identified needs;
+
+(d) coordination and governance as well as monitoring, reporting and evaluation.
+
+2\. This Regulation applies to Union support financed by the EAGF and the EAFRD for interventions specified in a CAP Strategic Plan drawn up by a Member State and approved by the Commission, covering the period from 1 January 2023 to 31 December 2027 (‘the CAP Strategic Plan period’).
+
+###### Article 2 — Applicable provisions
+
+1\. Regulation (EU) 2021/2116 and the provisions adopted pursuant to that Regulation apply to support provided under this Regulation.
+
+2\. Article 19, Chapter II of Title III with the exception of Article 28, first subparagraph, point (c), and Articles 46 and 48 of Regulation (EU) 2021/1060 apply to support financed by the EAFRD under this Regulation.
+
+###### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘farmer’ means a natural or legal person, or a group of natural or legal persons, regardless of the legal status granted to such group and its members by national law, whose holding is situated within the territorial scope of the Treaties, as defined in Article 52 of the Treaty on European Union in conjunction with Articles 349 and 355 of the Treaty on the Functioning of the European Union (TFEU), and who exercises an agricultural activity as determined by Member States in accordance with Article 4(2) of this Regulation;
+
+(2) ‘holding’ means all the units used for agricultural activities and managed by a farmer situated within the territory of the same Member State;
+
+(3) ‘intervention’ means a support instrument with a set of eligibility conditions specified by a Member State in its CAP Strategic Plan based on a type of intervention provided for in this Regulation;
+
+(4) ‘operation’ means:
+
+(a) a project, contract, action or group of projects or actions selected under the CAP Strategic Plan concerned;
+
+(b) in the context of financial instruments, the total eligible public expenditure granted to a financial instrument and the subsequent financial support provided to final recipients by that financial instrument;
+
+(5) ‘public expenditure’ means any contribution to the financing of operations the source of which is the budget of national, regional or local public authorities, the budget of the Union made available to the EAGF and the EAFRD, the budget of public law bodies or the budget of associations of public authorities or of public law bodies;
+
+(6) ‘milestones’ means intermediate pre-established values, set by Member States in the framework of their intervention strategies referred to in Article 107(1), point (b), for a specific financial year to be achieved at a given point in time during the CAP Strategic Plan period to ensure timely progress in relation to the result indicators;
+
+(7) ‘targets’ means pre-established values, set by Member States in the framework of their intervention strategies referred to in Article 107(1), point (b), to be achieved at the end of the CAP Strategic Plan period in relation to the result indicators;
+
+(8) ‘outermost regions’ means the outermost regions referred to in Article 349 TFEU;
+
+(9) ‘AKIS’ means the combined organisation and knowledge flows between persons, organisations and institutions who use and produce knowledge for agriculture and interrelated fields (Agricultural Knowledge and Innovation System);
+
+(10) ‘smaller Aegean islands’ means smaller Aegean islands as defined in Article 1(2) of Regulation (EU) No 229/2013;
+
+(11) ‘mutual fund’ means a scheme accredited by a Member State in accordance with its national law for affiliated farmers to insure themselves, whereby compensation payments are made to affiliated farmers who experience economic losses;
+
+(12) ‘less developed regions’ means less developed regions within the meaning of Article 108(2), first subparagraph, point (a), of Regulation (EU) 2021/1060;
+
+(13) ‘beneficiary’ in relation to the types of intervention for rural development referred to in Article 69 means:
+
+(a) a public or private law body, an entity with or without legal personality, a natural person or a group of natural or legal persons responsible for initiating or both initiating and implementing operations;
+
+(b) in the context of State aid schemes, the undertaking which receives the aid;
+
+(c) in the context of financial instruments, the body that implements the holding fund or, where there is no holding fund structure, the body that implements the specific fund or, where the managing authority referred to in Article 123 (‘the managing authority’) manages the financial instrument, the managing authority;
+
+(14) ‘support rate’ means the rate of public expenditure to an operation; in the context of financial instruments it refers to the gross grant equivalent of the support as defined in Article 2, point (20), of Commission Regulation (EU) No 702/2014 ( 1 );
+
+(15) ‘LEADER’ means community-led local development referred to in Article 31 of Regulation (EU) 2021/1060;
+
+(16) ‘intermediate body’ means any public or private law body, including regional or local bodies, regional development bodies or non-governmental organisations, which acts under the responsibility of a national or regional managing authority, or which carries out duties on behalf of such an authority;
+
+(17) ‘financial year’ means agricultural financial year in accordance with Article 35 of Regulation (EU) 2021/2116.
+
+###### Article 4 — Definitions and conditions to be provided in the CAP Strategic Plans
+
+1\. Member States shall provide in their CAP Strategic Plans the definitions of ‘agricultural activity’, ‘agricultural area’, ‘eligible hectare’, ‘active farmer’, ‘young farmer’ and ‘new farmer’, as well as the relevant conditions in accordance with this Article.
+
+2\. ‘Agricultural activity’ shall be determined in such a way that it allows to contribute to the provision of private and public goods through one or both of the following:
+
+(a) the production of agricultural products, which includes actions such as raising animals or cultivation including by way of paludiculture, where agricultural products means products listed in Annex I to the TFEU with the exception of fishery products, as well as cotton and short rotation coppice;
+
+(b) the maintenance of the agricultural area in a state which makes it suitable for grazing or cultivation, without preparatory action going beyond the use of usual agricultural methods and machinery.
+
+3\. ‘Agricultural area’ shall be determined in such a way as to comprise arable land, permanent crops and permanent grassland, including when they form agroforestry systems on that area. The terms ‘arable land’, ‘permanent crops’ and ‘permanent grassland’ shall be further specified by Member States within the following framework:
+
+(a) ‘arable land’ shall be land cultivated for crop production or areas available for crop production but lying fallow; in addition, it shall, for the duration of the commitment, be land cultivated for crop production or areas available for crop production but lying fallow that have been set aside in accordance with Article 31 or Article 70 of this Regulation, or with Articles 22, 23 or 24 of Council Regulation (EC) No 1257/1999 ( 2 ), or with Article 39 of Council Regulation (EC) No 1698/2005 ( 3 ), or with Article 28 of Regulation (EU) No 1305/2013 of the European Parliament and of the Council ( 4 );
+
+(b) ‘permanent crops’ shall be non-rotational crops other than permanent grassland and permanent pasture that occupy the land for five years or more and that yield repeated harvests, including nurseries and short rotation coppice;
+
+(c) ‘permanent grassland and permanent pasture’ (together referred to as ‘permanent grassland’) shall be land that is used to grow grasses or other herbaceous forage naturally (self-seeded) or through cultivation (sown) and that has not been included in the crop rotation of the holding for five years or more or, where Member States so decide, for seven years or more and, where Member States so decide, that has not been ploughed up, or tilled, or reseeded with different types of grass or other herbaceous forage, for five years or more or for seven years or more; it may include other species, such as shrubs or trees, which can be grazed and, where Member States so decide, other species such as shrubs or trees which produce animal feed, provided that the grasses and other herbaceous forage remain predominant.
+
+Member States may decide that land that was classified as arable land on 1 January 2026 remains classified as arable land and is not reclassified as permanent grassland even if the period referred to in the first subparagraph has expired and the land has not been ploughed up, or tilled, or reseeded with different types of grass or other herbaceous forage.
+
+Member States may also decide to consider the following types of land to be permanent grassland:
+
+(i) land which is covered by any of the species referred to in this point and which forms part of established local practices, where grasses and other herbaceous forage are traditionally not predominant or absent in grazing areas;
+
+(ii) land covered by any of the species referred to in this point, where grasses and other herbaceous forage are not predominant or are absent in grazing areas.
+
+4\. For the purpose of types of intervention in the form of direct payments, ‘eligible hectare’ shall be determined in such a way that it covers areas which are at the farmer’s disposal and which consist of:
+
+(a) any agricultural area of the holding that, during the year for which support is requested, is used for an agricultural activity or, where the area is also used for non-agricultural activities, is predominantly used for agricultural activities; where duly justified for environmental, biodiversity and climate-related reasons, Member States may decide that eligible hectares also include certain areas used for agricultural activities only every second year:
+
+(b) any area of the holding which is:
+
+(i) covered by landscape features subject to the retention obligation under GAEC standard 8 listed in Annex III; or
+
+(ii) for the duration of the relevant commitment by the farmer, established or maintained as a result of an eco-scheme referred to in Article 31.
+
+If Member States so decide, ‘eligible hectare’ may contain other landscape features, provided they are not predominant and do not significantly hamper the performance of the agricultural activity due to the area they occupy on the agricultural parcel. In implementing that principle, Member States may set a maximum share of the agricultural parcel covered by those other landscape features.
+
+As regards permanent grassland with scattered ineligible features, Member States may decide to apply fixed reduction coefficients to determine the area considered eligible;
+
+(c) any area of the holding that gave a right to payments under Title III, Chapter II, Section 2, Subsection 2, of this Regulation or under the basic payment scheme or the single area payment scheme laid down in Title III of Regulation (EU) No 1307/2013, and which is not an ‘eligible hectare’ as determined by Member States on the basis of points (a) and (b) of this paragraph:
+
+(i) as a result of the application of Directive 92/43/EEC, 2009/147/EC or 2000/60/EC to that area;
+
+(ii) as a result of area-based interventions set out under this Regulation covered by the integrated system referred to in Article 65(1) of Regulation (EU) 2021/2116 allowing for the production of products not listed in Annex I TFEU by way of paludiculture, or under national schemes for biodiversity or greenhouse gas reductions the conditions of which comply with those area-based interventions, provided that those interventions and national schemes contribute to achieving one or more specific objectives set out in Article 6(1), points (d), (e) and (f), of this Regulation;
+
+(iii) for the duration of an afforestation commitment by the farmer, pursuant to Article 31 of Regulation (EC) No 1257/1999 or to Article 43 of Regulation (EC) No 1698/2005 or to Article 22 of Regulation (EU) No 1305/2013 or to Article 70 or Article 73 of this Regulation, or under a national scheme the conditions of which comply with Article 43(1), (2) and (3) of Regulation (EC) No 1698/2005 or Article 22 of Regulation (EU) No 1305/2013 or Article 70 or Article 73 of this Regulation;
+
+(iv) for the duration of a commitment by the farmer resulting in the setting aside of the area, pursuant to Articles 22, 23 and 24 of Regulation (EC) No 1257/1999, to Article 39 of Regulation (EC) No 1698/2005, to Article 28 of Regulation (EU) No 1305/2013 or to Article 70 of this Regulation.
+
+Areas used for the production of hemp shall be eligible hectares only if the varieties used have a tetrahydrocannabinol content not exceeding 0,3 %.
+
+5\. ‘Active farmer’ shall be determined in such a way as to ensure that support is granted only to natural or legal persons, or to groups of natural or legal persons, engaged in at least a minimum level of agricultural activity, while not necessarily precluding the granting of support to pluri-active or part-time farmers.
+
+When determining who is an ‘active farmer’, Member States shall apply objective and non-discriminatory criteria, such as income tests, labour inputs on the farm, company object and inclusion of their agricultural activities in national or regional registers. Such criteria may be introduced in one or more forms chosen by Member States, including through a negative list disqualifying a farmer from being considered to be an active farmer. If a Member State considers to be ‘active farmers’ those farmers who did not receive direct payments exceeding a certain amount for the previous year, such an amount shall not be higher than EUR 5 000 .
+
+6\. ‘Young farmer’ shall be determined in such a way as to include:
+
+(a) an upper age limit set between 35 years and 40 years;
+
+(b) the conditions for being ‘head of the holding’;
+
+(c) the appropriate training or skills required, as determined by Member States.
+
+7\. ‘New farmer’ shall be determined in such a way as to refer to a farmer other than a young farmer and who is ‘head of the holding’ for the first time. Member States shall include further objective and non-discriminatory requirements concerning appropriate training and skills.
+
+8\. The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with rules making the granting of payments conditional upon the use of certified seeds of certain hemp varieties and the procedure for the determination of hemp varieties, as well as the verification of their tetrahydrocannabinol content referred to in paragraph 4, second subparagraph, of this Article, to preserve public health.
+
+## TITLE II — OBJECTIVES AND INDICATORS
+
+###### Article 5 — General objectives
+
+In accordance with the objectives of the CAP set out in Article 39 TFEU, with the objective to maintain the functioning of the internal market and a level playing field between farmers in the Union and with the principle of subsidiarity, support from the EAGF and the EAFRD shall aim to further improve the sustainable development of farming, food and rural areas and shall contribute to achieving the following general objectives in the economic, environmental and social spheres, which will contribute to the implementation of the 2030 Agenda for Sustainable Development:
+
+(a) to foster a smart, competitive, resilient and diversified agricultural sector ensuring long-term food security;
+
+(b) to support and strengthen environmental protection, including biodiversity, and climate action and to contribute to achieving the environmental and climate-related objectives of the Union, including its commitments under the Paris Agreement;
+
+(c) to strengthen the socio-economic fabric of rural areas.
+
+###### Article 6 — Specific objectives
+
+1\. The achievement of the general objectives shall be pursued through the following specific objectives:
+
+(a) to support viable farm income and resilience of the agricultural sector across the Union in order to enhance long-term food security and agricultural diversity as well as to ensure the economic sustainability of agricultural production in the Union;
+
+(b) to enhance market orientation and increase farm competitiveness both in the short and long term, including greater focus on research, technology and digitalisation;
+
+(c) to improve the farmers’ position in the value chain;
+
+(d) to contribute to climate change mitigation and adaptation, including by reducing greenhouse gas emissions and enhancing carbon sequestration, as well as to promote sustainable energy;
+
+(e) to foster sustainable development and efficient management of natural resources such as water, soil and air, including by reducing chemical dependency;
+
+(f) to contribute to halting and reversing biodiversity loss, enhance ecosystem services and preserve habitats and landscapes;
+
+(g) to attract and sustain young farmers and new farmers and facilitate sustainable business development in rural areas;
+
+(h) to promote employment, growth, gender equality, including the participation of women in farming, social inclusion and local development in rural areas, including the circular bio-economy and sustainable forestry;
+
+(i) to improve the response of Union agriculture to societal demands on food and health, including high-quality, safe and nutritious food produced in a sustainable way, to reduce food waste, as well as to improve animal welfare and to combat antimicrobial resistance.
+
+2\. The objectives set out in paragraph 1 shall be complemented and interconnected with the cross-cutting objective of modernising agriculture and rural areas by fostering and sharing of knowledge, innovation and digitalisation in agriculture and rural areas and by encouraging their uptake by farmers, through improved access to research, innovation, knowledge exchange and training.
+
+3\. When pursuing the specific objectives set out in paragraphs 1 and 2, Member States, with the support of the Commission, shall take appropriate measures to reduce the administrative burden and ensure simplification in the implementation of the CAP.
+
+###### Article 7 — Indicators
+
+1\. Achievement of the objectives referred to in Articles 5 and Article 6(1) and (2) shall be assessed on the basis of common indicators related to output, result, impact and context as set out in Annex I. Those common indicators shall include:
+
+(a) output indicators relating to the realised output of the interventions supported;
+
+(b) result indicators relating to the specific objectives concerned referred to in Article 6(1) and (2), and which are used for the establishment of quantified milestones and targets in relation to those specific objectives in the CAP Strategic Plans and for assessing progress towards those targets; result indicators relating to environmental and climate-related objectives may cover interventions which contribute to the fulfilment of the commitments emanating from the Union legislative acts listed in Annex XIII;
+
+(c) impact indicators related to the objectives set out in Article 5 and Article 6(1) and (2) and used in the context of the CAP Strategic Plans and of the CAP;
+
+(d) context indicators referred to in Article 115(2) and listed in Annex I.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 152 amending Annex I to adapt the common output, result, impact and context indicators. Those delegated acts shall be strictly limited to addressing technical problems experienced by Member States regarding the application of those indicators.
+
+## TITLE III — COMMON REQUIREMENTS AND TYPES OF INTERVENTION
+
+### CHAPTER I — COMMON REQUIREMENTS
+
+#### Section 1 — General principles
+
+###### Article 8 — Strategic approach
+
+Member States shall pursue the objectives set out in Title II by specifying interventions on the basis of the types of intervention set out in Chapters II, III and IV of this Title in accordance with their assessment of needs and with the common requirements set out in this Chapter.
+
+###### Article 9 — General principles
+
+Member States shall design the interventions of their CAP Strategic Plans and GAEC standards referred to in Article 13 in accordance with the Charter of Fundamental Rights of the European Union and the general principles of Union law.
+
+Member States shall ensure that interventions and GAEC standards referred to in Article 13 are set out on the basis of objective and non-discriminatory criteria, are compatible with the proper functioning of the internal market and do not distort competition.
+
+Member States shall establish the legal framework governing the granting of Union support to farmers and other beneficiaries in accordance with the CAP Strategic Plans as approved by the Commission in accordance with Articles 118 and 119 of this Regulation and with the principles and requirements set out in this Regulation and in Regulation (EU) 2021/2116. They shall implement those CAP Strategic Plans as approved by the Commission.
+
+###### Article 10 — WTO domestic support
+
+Member States shall design the interventions on the basis of the types of intervention which are listed in Annex II to this Regulation, including the definitions and conditions set out in Article 4, in such a way that they qualify under the criteria of Annex 2 to the WTO Agreement on Agriculture.
+
+In particular, the basic income support for sustainability, the complementary redistributive income support for sustainability, the complementary income support for young farmers, and the schemes for the climate, the environment and animal welfare, and the crisis payments to farmers following natural disasters, adverse climatic events or catastrophic events shall qualify under the criteria of the paragraphs of Annex 2 to the WTO Agreement on Agriculture listed in Annex II to this Regulation for those interventions. For other interventions, the paragraphs of Annex 2 to the WTO Agreement on Agriculture listed in Annex II to this Regulation are indicative and those interventions may instead comply with a paragraph of Annex 2 to the WTO Agreement on Agriculture not listed in Annex II to this Regulation if that is specified and explained in the CAP Strategic Plan.
+
+###### Article 11 — Implementation of the Memorandum of Understanding on oilseeds
+
+1\. Where Member States provide for area-based interventions, other than those which comply with the provisions of Annex 2 to the WTO Agreement on Agriculture, including coupled income support under Title III, Chapter II, Section 3, Subsection 1, of this Regulation, and where those interventions concern some or all of the oilseeds referred to in the Annex to the Memorandum of Understanding between the European Economic Community and the United States of America on oil seeds under GATT, the total of the support area based upon the planned outputs included in the CAP Strategic Plans of the Member States concerned shall not exceed the maximum support area for the whole Union for the purpose of ensuring compliance with its international commitments.
+
+2\. By 8 June 2022, the Commission shall adopt implementing acts fixing an indicative reference support area for each Member State, calculated on the basis of each Member State’s share of the average cultivation area in the Union during the years 2016 to 2020. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+3\. Each Member State that intends to grant the support referred to in paragraph 1 of this Article shall indicate the corresponding planned outputs in terms of hectares in its CAP Strategic Plan proposal referred to in Article 118(1).
+
+If, following the notification of all planned outputs by Member States, the maximum support area for the whole Union referred to in paragraph 1 of this Article is exceeded, the Commission shall calculate for each Member State that notified an excess compared to its reference area a reduction coefficient that is proportionate to the excess of its planned outputs so that the maximum support area for the whole Union is maintained. Each Member State concerned shall be informed about that reduction coefficient in the Commission’s observations to the CAP Strategic Plan in accordance with Article 118(3). The reduction coefficient for each Member State shall be set in the implementing decision referred to in Article 118(6) by means of which the Commission approves the CAP Strategic Plan.
+
+Member States shall not amend their support area on their own initiative after the date referred to in Article 118(1).
+
+4\. If a Member State intends to increase its planned outputs referred to in paragraph 1 of this Article set out in its CAP Strategic Plan approved by the Commission, it shall notify the Commission of its revised planned outputs in accordance with Article 119(9) before 1 January of the year preceding the claim year concerned.
+
+5\. Where appropriate, in order to avoid the maximum support area for the whole Union referred to in paragraph 1 being exceeded, the Commission shall set reduction coefficients, or revise the existing reduction coefficients where such coefficients were set in accordance with paragraph 3, second subparagraph, for all Member States that exceeded their reference support area in their CAP Strategic Plans.
+
+The Commission shall inform the Member States concerned about the reduction coefficients by 31 January of the year preceding the claim year concerned.
+
+Each Member State concerned shall submit a notification in accordance with Article 119(9) with the reduction coefficient referred to in the second subparagraph of this paragraph by 31 March of the year preceding the claim year concerned.
+
+6\. With regard to the oilseeds concerned by the Memorandum of Understanding referred to in paragraph 1 of this Article, Member States shall inform the Commission of the total number of hectares for which support has been actually paid in the annual performance reports referred to in Article 134.
+
+7\. Member States shall exclude the cultivation of confectionery sunflower seed from any area-based intervention referred to in paragraph 1.
+
+#### Section 2 — Conditionality
+
+###### Article 12 — Principle and scope
+
+1\. Member States shall include in their CAP Strategic Plans a system of conditionality under which farmers and other beneficiaries receiving direct payments under Chapter II or annual payments under Articles 70, 71 and 72 are subject to an administrative penalty if they do not comply with the statutory management requirements under Union law and the GAEC standards established in the CAP Strategic Plans, as listed in Annex III, relating to the following specific areas:
+
+(a) the climate and the environment, including water, soil and biodiversity of ecosystems;
+
+(b) public health and plant health;
+
+(c) animal welfare.
+
+1a. By way of derogation from paragraph 1 of this Article, the system of conditionality shall not apply to beneficiaries of payments referred to in Article 28.
+
+2\. The CAP Strategic Plans shall include rules on an effective and proportionate system of administrative penalties. Those rules shall comply in particular with the requirements set out in Title IV, Chapter IV, of Regulation (EU) 2021/2116.
+
+3\. The legal acts referred to in Annex III concerning the statutory management requirements shall apply in the version that is applicable and, in the case of Directives, as implemented by the Member States.
+
+4\. For the purpose of this Section, ‘statutory management requirement’ means each individual statutory management requirement under Union law listed in Annex III within a given legal act, differing in substance from any other requirement in the same act.
+
+###### Article 13 — Obligations of Member States relating to good agricultural and environmental condition
+
+1\. Member States shall ensure that all agricultural areas, including land which is no longer used for production purposes, are maintained in good agricultural and environmental condition. Member States shall set, at national or regional level, minimum standards for farmers and other beneficiaries for each GAEC standard listed in Annex III in line with the main objective of those standards as referred to in that Annex. In setting their standards, Member States shall take into account, where relevant, the specific characteristics of the areas concerned including soil and climatic condition, existing farming systems, farming practices, farm size and farm structures, land use, and the specificities of outermost regions.
+
+In setting the GAEC standards 5, 6, 7 or 9 listed in Annex III, Member States may establish specific exemptions from the requirements of those standards. Those exemptions shall be based on objective and non-discriminatory criteria, such as crops, soil types and farming systems or damage to permanent grasslands due, inter alia, to wild animals or invasive species, and shall be limited in terms of their area coverage. Specific exemptions shall be established only in the event, and to the extent, that they are necessary to address specific problems in the application of those standards and shall not significantly hamper the contribution of each of those standards to their main objectives, as listed in Annex III.
+
+Farmers certified in accordance with Regulation (EU) 2018/848 of the European Parliament and of the Council ( 5 ) shall be deemed to comply with GAEC standards 1, 3, 4, 5, 6 and 7 listed in Annex III to this Regulation in relation to their organic production units, as defined in Article 3, point (10), of Regulation (EU) 2018/848, and their in-conversion production units, as defined in Article 3, point (11), of that Regulation.
+
+Member States may, taking into consideration the administrative burden of checks, decide that only farmers certified in accordance with Regulation (EU) 2018/848 whose entire holding consists of organic production units, as defined in Article 3, point (10), of Regulation (EU) 2018/848, or of in-conversion production units, as defined in Article 3, point (11), of that Regulation, or of both such production units, are deemed to comply with GAEC standards 1, 3, 4, 5, 6 and 7 listed in Annex III to this Regulation.
+
+In setting their standards, Member States may, where relevant, set the elements referred to in Article 109(2), point (a)(i), of this Regulation so that they are consistent with mandatory requirements established by national law and do not go beyond them, provided that those existing national mandatory requirements comply with the GAEC standards listed in Annex III to this Regulation.
+
+2\. In respect of the main objectives laid down in Annex III, Member States may set standards additional to those laid down in that Annex concerning those main objectives. Such additional standards shall be non-discriminatory and proportionate and shall correspond to the needs identified.
+
+Member States shall not set minimum standards for main objectives other than the main objectives laid down in Annex III.
+
+2a. When implementing the minimum standards set in accordance with paragraphs 1 and 2, Member States may grant temporary derogations from the requirements of those minimum standards where weather conditions, plant diseases or pest infestations prevent farmers and other beneficiaries from complying with those requirements in a given year. Such temporary derogations shall be limited in their scope to farmers and other beneficiaries or areas affected by such weather conditions, plant diseases or pest infestations, and shall be applied only for as long as they are strictly necessary.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with rules to ensure a level playing field as regards the ratio for GAEC standard 1.
+
+#### Section 3 — Social conditionality
+
+###### Article 14 — Principle and scope
+
+1\. Member States shall indicate in their CAP Strategic Plans that, at the latest as from 1 January 2025, farmers and other beneficiaries receiving direct payments under Chapter II or annual payments under Articles 70, 71 and 72 are to be subject to an administrative penalty if they do not comply with the requirements related to applicable working and employment conditions or employer obligations arising from the legal acts referred to in Annex IV.
+
+2\. When including a system of administrative penalties in their CAP Strategic Plans as referred in paragraph 1, Member States shall, in accordance with their institutional provisions, consult relevant national social partners representing management and labour in the agriculture sector and shall fully respect their autonomy, as well as their right to negotiate and conclude collective agreements. That system of administrative penalties shall not affect the rights and obligations of the social partners where they are, in accordance with national legal and collective bargaining frameworks, responsible for the implementation or enforcement of the legal acts referred to in Annex IV.
+
+3\. The CAP Strategic Plan shall include rules on an effective and proportionate system of administrative penalties. Those rules shall comply with the relevant requirements set out in Title IV, Chapter V, of Regulation (EU) 2021/2116.
+
+4\. The legal acts referred to in Annex IV containing the provisions to be covered by the system of administrative penalties referred to in paragraph 1 shall apply in the version that is applicable, and as implemented by the Member States.
+
+#### Section 4 — Farm advisory services
+
+###### Article 15 — Farm advisory services
+
+1\. Member States shall include in their CAP Strategic Plans a system providing services for advising farmers and other beneficiaries of CAP support on land management and farm management (‘farm advisory services’). Member States may build upon existing systems.
+
+2\. The farm advisory services shall cover economic, environmental and social dimensions, taking into account existing farming practices, and deliver up-to-date technological and scientific information developed by means of research and innovation projects, including as regards the provision of public goods.
+
+Through the farm advisory services, appropriate assistance shall be offered along the cycle of the farm development, including for the setting-up for the first time, conversion of production patterns towards consumer demand, innovative practices, agricultural techniques for resilience to climate change, including agroforestry and agroecology, improved animal welfare, and where necessary safety standards and social support.
+
+Farm advisory services shall be integrated within the interrelated services of farm advisors, researchers, farmer organisations and other relevant stakeholders that form the AKIS.
+
+3\. Member States shall ensure that the advice given is impartial and that advisors are suitably qualified, appropriately trained and have no conflict of interest.
+
+4\. The farm advisory services shall be adapted to the various types of production and farms and shall cover at least the following:
+
+(a) all requirements, conditions and management commitments applying to farmers and other beneficiaries set in the CAP Strategic Plan, including requirements and standards under conditionality and conditions for interventions, as well as information on financial instruments and business plans established under the CAP Strategic Plan;
+
+(b) the requirements laid down by Member States for implementing Directive 92/43/EEC, Directive 2000/60/EC, Article 55 of Regulation (EC) No 1107/2009 of the European Parliament and of the Council ( 6 ), Directive 2008/50/EC of the European Parliament and of the Council ( 7 ), Directive 2009/128/EC, Directive 2009/147/EC, Regulation (EU) 2016/429 of the European Parliament and of the Council ( 8 ), Regulation (EU) 2016/2031 of the European Parliament and of the Council ( 9 ) and Directive (EU) 2016/2284 of the European Parliament and of the Council ( 10 );
+
+(c) farm practices preventing the development of antimicrobial resistance as set out in Commission communication of 29 June 2017 entitled ‘A European One Health Action Plan against Antimicrobial Resistance (AMR)’;
+
+(d) risk prevention and management;
+
+(e) innovation support, in particular for preparing and for implementing the projects of the EIP operational groups referred to in Article 127(3);
+
+(f) digital technologies in agriculture and rural areas as referred to in Article 114, point (b);
+
+(g) sustainable management of nutrients, including at the latest as from 2024 the use of a Farm Sustainability Tool for Nutrients, which is any digital application that provides at least:
+
+(i) a balance of the main nutrients at field scale;
+
+(ii) the legal requirements on nutrients;
+
+(iii) soil data, based on available information and analyses;
+
+(iv) data from the integrated administration and control system (IACS) relevant for nutrient management;
+
+(h) conditions of employment, employer obligations, occupational health and safety and social support in farming communities.
+
+### CHAPTER II — TYPES OF INTERVENTION IN THE FORM OF DIRECT PAYMENTS
+
+#### Section 1 — Types of intervention, reduction and minimum requirements
+
+###### Article 16 — Types of intervention in the form of direct payments
+
+1\. The types of intervention under this Chapter may take the form of decoupled and coupled direct payments.
+
+2\. Decoupled direct payments shall be the following:
+
+(a) the basic income support for sustainability;
+
+(b) the complementary redistributive income support for sustainability;
+
+(c) the complementary income support for young farmers;
+
+(d) the schemes for the climate, the environment and animal welfare.
+
+3\. Coupled direct payments shall be the following:
+
+(a) the coupled income support;
+
+(b) the crop-specific payment for cotton.
+
+###### Article 17 — Capping and degressivity of payments
+
+1\. Member States may cap the amount of the basic income support for sustainability to be granted to a farmer for a given calendar year. Member States that choose to introduce capping shall reduce by 100 % the amount exceeding EUR 100 000 .
+
+2\. Member States may reduce the amount of the basic income support for sustainability to be granted to a farmer for a given calendar year exceeding EUR 60 000 by up to 85 %.
+
+Member States may set additional tranches above EUR 60 000 , and specify the percentages of reduction for those additional tranches. They shall ensure that the reduction for each tranche is equal to or higher than for the previous tranche.
+
+3\. Before applying paragraph 1 or 2, Member States may subtract from the amount of the basic income support for sustainability to be granted to a farmer in a given calendar year:
+
+(a) all the salaries linked to an agricultural activity declared by the farmer, including taxes and social contributions related to employment;
+
+(b) the equivalent cost of regular and unpaid labour linked to an agricultural activity practiced by persons working on the farm concerned who do not receive a salary, or who receive less remuneration than the amount normally paid for the services rendered, but are rewarded through the economic result of the farm business;
+
+(c) the labour cost element of the contracting costs linked to an agricultural activity declared by the farmer.
+
+To calculate the amounts referred to in the first subparagraph, point (a), Member States shall use salary costs actually incurred by the farmer. In duly justified cases, farmers may request to use standards costs to be determined by the Member State concerned according to a method to be further specified in its CAP Strategic Plan based on the average standard salaries linked to an agricultural activity at national or regional level multiplied by the number of annual work units declared by the farmer concerned.
+
+To calculate the amounts referred to in the first subparagraph, point (b), Member States shall use standard costs to be determined by the Member State concerned according to a method to be further specified in its CAP Strategic Plan based on the average standard salaries linked to an agricultural activity at national or regional level multiplied by the number of annual work units declared by the farmer concerned.
+
+4\. In the case of a legal person, or a group of natural or legal persons, Member States may apply the reduction referred to in paragraphs 1 and 2 at the level of the members of those legal persons or groups where national law provides for the individual members to assume rights and obligations comparable to those of individual farmers who have the status of a head of holding, in particular as regards their economic, social and tax status, provided that they have contributed to strengthening the agricultural structures of the legal persons or groups concerned.
+
+5\. The estimated product of the reduction of payments shall primarily be used to contribute to the financing of the complementary redistributive income support for sustainability, if it is established in the relevant CAP Strategic Plan, and thereafter of other interventions belonging to decoupled direct payments.
+
+Member States may also use all or part of the product to finance types of intervention under the EAFRD as specified in Chapter IV by means of a transfer. Such transfer to the EAFRD shall be part of the CAP Strategic Plan financial tables and may be reviewed in 2025 in accordance with Article 103. It shall not be subject to the maximum limits for the transfers of funds from the EAGF to the EAFRD established under that Article.
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with rules establishing a harmonised basis for the calculation of the reduction of payments laid down in paragraphs 1 and 2 of this Article to provide detailed rules for the distribution of funds to farmers.
+
+###### Article 18 — Minimum requirements
+
+1\. Member States shall set a minimum area and not grant direct payments to active farmers whose eligible area of the holding for which direct payments are claimed is lower than that minimum area.
+
+Alternatively, Member States may set a minimum amount of direct payments that may be paid to a farmer.
+
+2\. Where a Member State has decided to set a minimum area in accordance with paragraph 1, first subparagraph, it shall nevertheless set a minimum amount in accordance with paragraph 1, second subparagraph, for those farmers receiving an animal-related support to be paid per animal in the form of direct payments who hold fewer hectares than that minimum area.
+
+When setting the minimum area or minimum amount, Member States shall aim to ensure that direct payments are granted only to active farmers if:
+
+(a) the management of the corresponding payments does not cause excessive administrative burden; and
+
+(b) the corresponding amounts make an effective contribution to achieving the specific objectives set out in Article 6(1) to which direct payments contribute.
+
+3\. Greece may decide not to apply this Article to the smaller Aegean islands.
+
+###### Article 19 — Contribution to risk management tools
+
+By way of derogation from Article 44(1) of Regulation (EU) 2021/2116, a Member State may decide to assign up to 3 % of the direct payments to be paid to a farmer as farmers’ contribution to risk management tools.
+
+Member States that decide to make use of this provision shall apply it to all farmers receiving direct payments in a given year. Alternatively, such Member States may decide to apply it to the farmers for whom a risk management tool exists in a given year if this corresponds better to the risk management tool in place.
+
+#### Section 2 — Decoupled direct payments
+
+##### Subsection 1 — General provisions
+
+###### Article 20 — General requirements for receiving decoupled direct payments
+
+Member States shall grant decoupled direct payments to active farmers under the conditions set out in this Section and as further specified in their CAP Strategic Plans.
+
+##### Subsection 2 — Basic income support for sustainability
+
+###### Article 21 — General rules
+
+1\. Member States shall provide for a basic income support for sustainability (‘basic income support’) under the conditions set out in this Subsection and as further specified in their CAP Strategic Plans.
+
+2\. Member States shall provide for a basic income support in the form of an annual decoupled payment per eligible hectare.
+
+3\. Without prejudice to Articles 23 to 27, the basic income support shall be granted for each eligible hectare declared by an active farmer.
+
+###### Article 22 — Amount of support per hectare
+
+1\. Unless Member States decide to grant the basic income support on the basis of payment entitlements as referred to in Article 23, the support shall be paid as a uniform amount per hectare.
+
+2\. Member States may decide to differentiate the amount of the basic income support per hectare amongst different groups of territories faced with similar socio-economic or agronomic conditions, including traditional forms of agriculture as determined by Member States, such as traditional extensive alpine pasture. In accordance with Article 109(2), point (d), the amount of basic income support per hectare may be reduced, taking into account support under other interventions in the CAP Strategic Plan concerned.
+
+###### Article 23 — Payment entitlements
+
+1\. Member States having applied the basic payment scheme as laid down in Title III, Chapter I, Section 1, of Regulation (EU) No 1307/2013 may decide to grant the basic income support on the basis of payment entitlements in accordance with Articles 24 to 27 of this Regulation.
+
+2\. Where Member States having applied the basic payment scheme as laid down in Title III, Chapter I, Section 1, of Regulation (EU) No 1307/2013 decide to no longer grant the basic income support on the basis of payment entitlements, the payment entitlements allocated under that Regulation shall expire on 31 December of the year preceding the year from which the decision is to apply.
+
+###### Article 24 — Value of payment entitlements and convergence
+
+1\. Member States shall determine the unit value of payment entitlements before convergence in accordance with this Article by adjusting the value of payment entitlements proportionally to their value as established in accordance with Regulation (EU) No 1307/2013 for claim year 2022 and the related payment for agricultural practices beneficial for the climate and environment provided for in Title III, Chapter III, of that Regulation for claim year 2022.
+
+2\. Member States may decide to differentiate the value of payment entitlements in accordance with Article 22(2).
+
+3\. Each Member State shall, by claim year 2026 at the latest, set a maximum level for the value of individual payment entitlements for the Member State or for each group of territories referred to in Article 22(2).
+
+4\. Where the value of payment entitlements as determined in accordance with paragraph 1 is not uniform within a Member State or within a group of territories referred to in Article 22(2), the Member State concerned shall ensure a convergence of the value of payment entitlements towards a uniform unit value by claim year 2026 at the latest.
+
+5\. For the purposes of paragraph 4, each Member State shall ensure that, for claim year 2026 at the latest, all payment entitlements have a value of at least 85 % of the planned average unit amount referred to in Article 102(1) for the basic income support for claim year 2026, as laid down in its CAP Strategic Plan for the Member State or for the group of territories referred to in Article 22(2).
+
+6\. Member States shall finance the increases in the value of payment entitlements needed to comply with paragraphs 4 and 5 of this Article by using any possible amounts that become available through the application of paragraph 3 of this Article, and, where necessary, by reducing the difference between the unit value of payment entitlements determined in accordance with paragraph 1 of this Article and the planned unit amount referred to in Article 102(1), for the basic income support for claim year 2026, as laid down in the CAP Strategic Plan for the Member State or for the group of territories referred to in Article 22(2).
+
+Member States may decide to apply the reduction to all or part of the payment entitlements with a value determined in accordance with paragraph 1 of this Article exceeding the planned unit amount referred to in Article 102(1) for the basic income support for claim year 2026, as laid down in the CAP Strategic Plan for the Member State or for group of territories referred to in Article 22(2).
+
+7\. The reductions referred to in paragraph 6 shall be based on objective and non-discriminatory criteria. Without prejudice to the minimum value set in accordance with paragraph 5, such criteria may include the fixing of a maximum decrease that may not be lower than 30 %.
+
+8\. Member States shall ensure that the adjustment of the payment entitlement values in accordance with paragraphs 3 to 7 starts from the year 2023.
+
+###### Article 25 — Activation of payment entitlements
+
+1\. Member States which have decided to grant support on the basis of payment entitlements shall grant basic income support to active farmers holding owned or leased-in payment entitlements upon activation of those payment entitlements. Member States shall ensure that, for the purpose of the activation of payment entitlements, active farmers declare the eligible hectares accompanying any payment entitlement.
+
+2\. Member States shall ensure that payment entitlements, including in the case of actual or anticipated inheritance, are activated only in the Member State or within the group of territories referred to in Article 22(2) where they were allocated.
+
+3\. Member States shall ensure that activated payment entitlements give a right to payment based on the amount fixed therein.
+
+###### Article 26 — Reserves for payment entitlements
+
+1\. Each Member State that decides to grant the basic income support on the basis of payment entitlements shall manage a national reserve.
+
+2\. By way of derogation from paragraph 1 of this Article, where a Member State decides to differentiate the basic income support in accordance with Article 22(2), it may decide to have a reserve for each group of territories referred to in that Article.
+
+3\. Member States shall ensure that payment entitlements from the reserve be only allocated to active farmers.
+
+4\. Member States shall use their reserve as a matter of priority to allocate payment entitlements to the following farmers:
+
+(a) young farmers who have newly set up a holding for the first time;
+
+(b) new farmers.
+
+5\. A Member State shall allocate payment entitlements to, or increase the value of the existing payment entitlements of, active farmers who are entitled by virtue of a final court ruling or by virtue of a final administrative act of the competent authority of that Member State. It shall ensure that those active farmers receive the number and value of payment entitlements established in that ruling or act at a date to be fixed by that Member State.
+
+6\. Member States shall ensure that the reserve is replenished by a linear reduction of the value of all payment entitlements where the reserve is insufficient to cover the allocation of payment entitlements in accordance with paragraphs 4 and 5.
+
+7\. Member States may lay down additional rules for the use of the reserve, including additional categories of farmer to be served from the reserve provided the priority groups referred to in paragraphs 4 and 5 have been served, and for the cases that would trigger the replenishment of the reserve. Where the reserve is replenished by linear reduction of the value of payment entitlements, such linear reduction shall apply to all payment entitlements at national level or, where Member States apply the derogation provided for in paragraph 2, at the level of the relevant group of territories referred to in Article 22(2).
+
+8\. Member States shall fix the value of new payment entitlements allocated from the reserve at the national average value of payment entitlements in the year of allocation or at the average value of payment entitlements for each group of territories referred to in Article 22(2) in the year of allocation.
+
+9\. Member States may decide to increase the value of the existing payment entitlements up to the national average value in the year of allocation or up to the average value for each group of territories referred to in Article 22(2).
+
+###### Article 27 — Transfers of payment entitlements
+
+1\. Except in the case of transfer by actual or anticipated inheritance, payment entitlements shall be transferred only to an active farmer established in the same Member State.
+
+2\. Where Member States decide to differentiate the basic income support in accordance with Article 22(2), payment entitlements shall only be transferred within the group of territories where they were allocated.
+
+###### Article 28 — Payments for small farmers
+
+1\. Member States may grant a payment to small farmers, as determined by the Member States, by way of a lump sum or of amounts per hectare replacing direct payments under this Section and Section 3 of this Chapter. Member States shall design the corresponding intervention in the CAP Strategic Plan as optional for farmers.
+
+2\. By way of derogation from paragraph 1, Member States may decide in the CAP Strategic Plans that the payment to small farmers referred to in that paragraph does not replace direct payments made to support eco-schemes established in accordance with Article 31.
+
+3\. The annual payment for each farmer under paragraph 1 shall not exceed EUR 3 000 .
+
+4\. Member States may decide to set different lump sums or amounts per hectare linked to different area thresholds.
+
+##### Subsection 3 — Complementary income support
+
+###### Article 29 — Complementary redistributive income support for sustainability
+
+1\. Member States shall provide for a complementary redistributive income support for sustainability (‘redistributive income support’) under the conditions set out in this Article and as further specified in their CAP Strategic Plans.
+
+By way of derogation from the first subparagraph of this paragraph or from Article 98, Member States may address the need for redistribution of income support by other instruments and interventions financed by the EAGF pursuing the objective of fairer distribution and more effective and efficient targeting of income support, provided they can demonstrate in their CAP Strategic Plans that such need is sufficiently addressed.
+
+2\. Member States shall ensure redistribution of direct payments from larger to smaller or medium-sized holdings by providing for a redistributive income support in the form of an annual decoupled payment per eligible hectare to farmers who are entitled to a payment under the basic income support referred to in Article 21.
+
+3\. Member States shall establish at national or regional level, which may be the level of the groups of territories referred to in Article 22(2), an amount per hectare or different amounts for different ranges of hectares, as well as the maximum number of hectares per farmer for which the redistributive income support shall be paid.
+
+4\. The amount per hectare planned for a given claim year shall not exceed the national average amount of direct payments per hectare for that claim year.
+
+5\. The national average amount of direct payments per hectare is defined as the ratio of the national ceiling for direct payments for a given claim year laid down in Annex V and the total planned outputs for the basic income support for that claim year, expressed in number of hectares.
+
+6\. In the case of a legal person, or a group of natural or legal persons, Member States may apply the maximum number of hectares referred to in paragraph 3 at the level of the members of those legal persons or groups where national law provides for the individual members to assume rights and obligations comparable to those of individual farmers who have the status of a head of holding, in particular as regards their economic, social and tax status, provided that they have contributed to strengthening the agricultural structures of the legal persons or groups concerned.
+
+In the case of farmers who are part of a group of affiliated legal entities, as determined by Member States, Member States may apply the maximum number of hectares referred to in paragraph 3 at the level of that group under conditions to be determined by them.
+
+###### Article 30 — Complementary income support for young farmers
+
+1\. Member States may provide for complementary income support for young farmers determined in accordance with the criteria laid down in Article 4(6) under the conditions set out in this Article and as further specified in their CAP Strategic Plans.
+
+2\. As part of their obligations to attract young farmers in line with the objective set out in Article 6(1), point (g), and to dedicate to this objective, in accordance with Article 95, at least an amount as set out in Annex XII, Member States may provide a complementary income support for young farmers who have newly set up for the first time and who are entitled to a payment under the basic income support referred to in Article 21.
+
+Member States may decide to grant the support under this Article to farmers who have received support under Article 50 of Regulation (EU) No 1307/2013 for the remainder of the period referred to in paragraph 5 of that Article.
+
+3\. The complementary income support for young farmers shall be granted for a maximum duration of five years, starting from the first year of submission of the application for the payment for young farmers, and subject to the conditions to be determined by the CAP legal framework applicable for the period after 2027 when the duration of five years goes beyond 2027. Member States shall ensure that no legal expectations of beneficiaries are created for the period after 2027.
+
+That support shall take the form either of an annual decoupled payment per eligible hectare or of a lump-sum payment per young farmer.
+
+Member States may decide to grant the support under this Article only to a maximum number of hectares per young farmer.
+
+4\. In the case of a legal person, or a group of natural or legal persons such as group of farmers, producer organisations or cooperatives, Member States may apply the maximum number of hectares referred to in paragraph 3 at the level of the members of those legal persons or groups:
+
+(a) who comply with the definition and conditions for a ‘young farmer’ determined in accordance with Article 4(6); and
+
+(b) where national law provides for the individual members to assume rights and obligations comparable to those of individual farmers who have the status of a head of holding, in particular as regards their economic, social and tax status, provided that they have contributed to strengthening the agricultural structures of the legal persons or groups concerned.
+
+##### Subsection 4 — Schemes for the climate, the environment and animal welfare
+
+###### Article 31 — Schemes for the climate, the environment and animal welfare
+
+1\. Member States shall establish, and provide support for, voluntary schemes for the climate, the environment and animal welfare (‘eco-schemes’) under the conditions set out in this Article and as further specified in their CAP Strategic Plans.
+
+1a. As a part of the eco-schemes referred to in paragraph 1, Member States shall establish and provide support for one or more schemes covering, on arable land, practices for the maintenance of non-productive areas, such as land lying fallow, and for the establishment of new landscape features. Those schemes shall be voluntary for active farmers and groups of active farmers.
+
+2\. Member States shall support under this Article active farmers or groups of active farmers who make commitments to observe agricultural practices beneficial for the climate, the environment and animal welfare and combatting antimicrobial resistance.
+
+3\. Member States shall establish a list of the agricultural practices beneficial for the climate, the environment and animal welfare and combatting antimicrobial resistance referred to in paragraph 2. Those practices shall be designed to meet one or more of the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards improving animal welfare and combatting antimicrobial resistance, in Article 6(1), point (i).
+
+4\. Each eco-scheme shall in principle cover at least two of the following areas of actions for the climate, the environment, animal welfare and combatting antimicrobial resistance:
+
+(a) climate change mitigation, including reduction of greenhouse gas emissions from agricultural practices, as well as maintenance of existing carbon stores and enhancement of carbon sequestration;
+
+(b) climate change adaptation, including actions to improve resilience of food production systems and animal and plant diversity for stronger resistance to diseases and climate change;
+
+(c) protection or improvement of water quality and reduction of pressure on water resources;
+
+(d) prevention of soil degradation, soil restoration, improvement of soil fertility and of nutrient management and soil biota;
+
+(e) protection of biodiversity, conservation or restoration of habitats or species, including maintenance and creation of landscape features or non-productive areas;
+
+(f) actions for a sustainable and reduced use of pesticides, in particular pesticides that present a risk for human health or environment;
+
+(g) actions to enhance animal welfare or combat antimicrobial resistance.
+
+5\. Under this Article, Member States shall only provide payments covering commitments which:
+
+(a) go beyond the relevant statutory management requirements and GAEC standards established under Chapter I, Section 2;
+
+(b) go beyond the relevant minimum requirements for the use of fertiliser and plant protection products, animal welfare, as well as other relevant mandatory requirements established by national and Union law;
+
+(c) go beyond the conditions established for the maintenance of the agricultural area in accordance with Article 4(2), point (b);
+
+(d) are different from commitments in respect of which payments are granted under Article 70.
+
+For commitments referred to in the first subparagraph, point (b), where national law imposes requirements which go beyond the corresponding mandatory minimum requirements laid down in Union law, support may be granted for commitments contributing to compliance with those requirements.
+
+By way of derogation from the first subparagraph, Member States may decide to exclude from the requirement laid down in the first subparagraph, point (a), GAEC standards 2 and 9 established under Chapter I, Section 2, of this Title.
+
+6\. Pursuant to paragraph 5, Member States may, for the description of the commitments to be fulfilled by the beneficiary of eco-schemes referred to in this Article, build upon one or more of the requirements and standards established under Chapter I, Section 2, provided that the obligations of the eco-schemes go beyond the relevant statutory management requirements and the minimum standards for good agricultural and environmental condition of land established by Member States under Chapter I, Section 2.
+
+Without prejudice to Article 87(1) of Regulation (EU) 2021/2116, active farmers or groups of active farmers participating in eco-schemes established in accordance with the first subparagraph shall be deemed to comply with the relevant requirements and standards referred to in Annex III, provided that they fulfil the commitments under the eco-scheme concerned.
+
+Member States that establish eco-schemes in accordance with the first subparagraph of this paragraph may ensure that their management and control systems do not duplicate checks where the same requirements and standards apply both under those eco-schemes and the obligations set in Annex III.
+
+7\. Support for a particular eco-scheme shall take the form of an annual payment for all eligible hectares covered by the commitments. Payments shall be granted as either:
+
+(a) payments additional to the basic income support set out in Subsection 2; or
+
+(b) payments compensating active farmers or groups of active farmers for all or part of the additional costs incurred and income foregone as a result of the commitments made which shall be calculated in accordance with Article 82 and taking into account the targets for eco-schemes; those payments may also cover transaction costs.
+
+By way of derogation from the first subparagraph, payments granted in accordance with point (b) of that subparagraph for animal welfare commitments, commitments combating antimicrobial resistance, commitments for agricultural practices beneficial for the climate and commitments to convert to or maintain organic farming practices and methods laid down in Regulation (EU) 2018/848 may also take the form of an annual payment for the livestock units.
+
+By way of derogation from the first subparagraph, payments granted in accordance with point (b) of that subparagraph may, where appropriate, take the form of an annual payment for beehives. For the purposes of this derogation, the definition of ‘beehive’ set out in the delegated act referred to in Article 56, point (b), shall apply.
+
+8\. Member States shall demonstrate how the agricultural practices committed under eco-schemes respond to the needs referred to in Article 108 and how they contribute to the environmental and climate architecture referred to in Article 109(2), point (a), and to animal welfare and combatting antimicrobial resistance. They shall use a rating or scoring system or any other appropriate methodology to ensure the effectiveness and efficiency of the eco-schemes to deliver on the targets set. When establishing the level of payments for different commitments under the eco-schemes pursuant to paragraph 7, first subparagraph, point (a), of this Article, Member States shall take into account the level of sustainability and ambition of each eco-scheme, based on objective and transparent criteria.
+
+9\. Member States shall ensure that interventions under this Article are consistent with those based on Article 70.
+
+#### Section 3 — Coupled direct payments
+
+##### Subsection 1 — Coupled income support
+
+###### Article 32 — General rules
+
+1\. Member States may grant coupled income support to active farmers under the conditions set out in this Subsection and as further specified in their CAP Strategic Plans.
+
+2\. The Member States’ interventions shall help the supported sectors and productions or specific types of farming therein listed in Article 33 to address the difficulties encountered by improving competitiveness, sustainability or quality. Member States shall not be required to demonstrate the difficulties encountered in relation to protein crops.
+
+3\. Coupled income support shall take the form of an annual payment per hectare or animal.
+
+###### Article 33 — Scope
+
+Coupled income support may only be granted to the following sectors and productions or specific types of farming therein where they are important for socio-economic or environmental reasons:
+
+(a) cereals;
+
+(b) oilseeds excluding confectionary sunflower seeds as laid down in Article 11(7);
+
+(c) protein crops, including legumes and mixtures of legumes and grasses provided that legumes remain predominant in the mixture;
+
+(d) flax;
+
+(e) hemp;
+
+(f) rice;
+
+(g) nuts;
+
+(h) starch potatoes;
+
+(i) milk and milk products;
+
+(j) seeds;
+
+(k) sheep meat and goat meat;
+
+(l) beef and veal;
+
+(m) olive oil and table olives;
+
+(n) silk worms;
+
+(o) dried fodder;
+
+(p) hops;
+
+(q) sugar beet, cane and chicory roots;
+
+(r) fruit and vegetables;
+
+(s) short rotation coppice.
+
+###### Article 34 — Eligibility
+
+1\. Member States may grant coupled income support in the form of a payment per hectare only for areas they have determined as eligible hectares.
+
+2\. Where the coupled income support concerns bovine animals or sheep and goats, Member States shall set as eligibility conditions for the support the requirements to identify and register the animals in compliance with Part IV, Title I, Chapter 2, Section 1, of Regulation (EU) 2016/429. However, without prejudice to other applicable eligibility conditions, bovine animals or sheep and goats shall be considered to be eligible for support as long as the identification and registration requirements are met by a certain date in the claim year concerned to be fixed by the Member States.
+
+###### Article 35 — Delegated powers in the case of structural market imbalances in a sector
+
+The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with measures to avoid beneficiaries of coupled income support suffering from structural market imbalances in a sector. Those delegated acts may allow Member States to decide that coupled income support may continue to be paid until 2027 on the basis of the production units for which such support was granted in a past reference period.
+
+##### Subsection 2 — Crop-specific payment for cotton
+
+###### Article 36 — Scope
+
+Bulgaria, Greece, Spain and Portugal shall grant a crop-specific payment for cotton to active farmers producing cotton falling within CN code 5201 00 under the conditions laid down in this Subsection.
+
+###### Article 37 — General rules
+
+1\. The crop-specific payment for cotton shall be granted per hectare of eligible area of cotton. The area shall be eligible only if it is located on agricultural land authorised by the Member State for cotton production, sown with varieties authorised by the Member State and actually harvested under normal growing conditions.
+
+2\. The crop-specific payment for cotton shall be paid for cotton of sound, fair and marketable quality.
+
+3\. Bulgaria, Greece, Spain and Portugal shall authorise the land and the varieties referred to in paragraph 1 in accordance with any rules and conditions adopted pursuant to paragraph 5.
+
+4\. For the interventions covered in this Subsection:
+
+(a) the eligibility of the expenditure incurred shall be determined on the basis of Article 37, point (a), of Regulation (EU) 2021/2116;
+
+(b) for the purposes of Article 12(2) of Regulation (EU) 2021/2116, the opinion to be provided by the certification bodies shall cover points (a), (b) and (d) thereof, as well as the management declaration.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with rules and conditions for the authorisation of land and varieties for the purposes of the crop-specific payment for cotton.
+
+6\. The Commission shall adopt implementing acts laying down rules on the procedure for the authorisation of land and varieties for the purposes of the crop-specific payment for cotton and on the notifications to the producers related to this authorisation. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+###### Article 38 — Base areas, fixed yields and reference amounts
+
+1\. The following national base areas are established:
+
+— Bulgaria: 3 342 ha,
+
+— Greece: 250 000 ha,
+
+— Spain: 48 000 ha,
+
+— Portugal: 360 ha.
+
+2\. The following fixed yields in the reference period are established:
+
+— Bulgaria: 1,2 tonne/ha,
+
+— Greece: 3,2 tonne/ha,
+
+— Spain: 3,5 tonne/ha,
+
+— Portugal: 2,2 tonne/ha.
+
+3\. The amount of the crop-specific payment per hectare of eligible area shall be calculated by multiplying the yields established in paragraph 2 with the following reference amounts:
+
+— Bulgaria: EUR 636,13,
+
+— Greece: EUR 229,37,
+
+— Spain: EUR 354,73,
+
+— Portugal: EUR 223,32.
+
+4\. If the eligible area of cotton in a given Member State and a given year exceeds the base area established in paragraph 1, the amount referred to in paragraph 3 for that Member State shall be reduced proportionately to the overrun of the base area.
+
+5\. The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with rules on the conditions for the granting of the crop-specific payment for cotton, on the eligibility requirements and on agronomic practices.
+
+6\. The Commission may adopt implementing acts laying down rules on the calculation of the reduction provided for in paragraph 4. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+###### Article 39 — Approved interbranch organisations
+
+1\. For the purpose of this Subsection, an ‘approved interbranch organisation’ means a legal entity made up of farmers producing cotton and at least one ginner, carrying out activities such as:
+
+(a) helping to better coordinate the way in which cotton is placed on the market, in particular through research studies and market surveys;
+
+(b) drawing up standard forms of contract compatible with Union rules;
+
+(c) orienting production towards products that are better adapted to market needs and consumer demand, in particular with regard to quality and consumer protection;
+
+(d) updating methods and means to improve product quality;
+
+(e) developing marketing strategies to promote cotton via quality certification schemes.
+
+2\. The Member State where the ginners are established shall approve interbranch organisations that satisfy any criteria laid down pursuant to paragraph 3.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with rules on:
+
+(a) criteria for the approval of interbranch organisations;
+
+(b) obligations for producers;
+
+(c) the consequences where the approved interbranch organisation does not satisfy the criteria referred to in point (a).
+
+###### Article 40 — Granting of the payment
+
+1\. Farmers shall be granted the crop-specific payment for cotton for hectares that are eligible as established in Article 38.
+
+2\. In the case of farmers who are members of an approved interbranch organisation, the crop-specific payment for cotton for hectares that are eligible within the base area laid down in Article 38(1) shall be increased by an amount of EUR 2.
+
+###### Article 41 — Derogations
+
+1\. Articles 101 and 102 and Title VII, with the exception of Chapter III thereof, shall not apply to the crop-specific payment for cotton laid down in this Subsection.
+
+2\. The crop-specific payment for cotton shall not be included in any of the sections of the CAP Strategic Plan referred to in Articles 108 to 114, except as regards Article 112(2), point (a), relating to the financial plan.
+
+3\. Article 55(1), second and third subparagraphs, of Regulation (EU) 2021/2116 shall not apply to the interventions referred to in this Subsection.
+
+### CHAPTER III — TYPES OF INTERVENTION IN CERTAIN SECTORS
+
+#### Section 1 — General provisions
+
+###### Article 42 — Scope
+
+This Chapter lays down rules concerning the types of intervention:
+
+(a) in the fruit and vegetables sector, as referred to in Article 1(2), point (i), of Regulation (EU) No 1308/2013;
+
+(b) in the apiculture products sector, as referred to in Article 1(2), point (v), of Regulation (EU) No 1308/2013 (‘apiculture sector’);
+
+(c) in the wine sector, as referred to in Article 1(2), point (l), of Regulation (EU) No 1308/2013;
+
+(d) in the hops sector, as referred to in Article 1(2), point (f), of Regulation (EU) No 1308/2013;
+
+(e) in the olive oil and table olives sector, as referred to in Article 1(2), point (g), of Regulation (EU) No 1308/2013;
+
+(f) in the other sectors set out in Article 1(2), points (a) to (h), (k), (m), (o) to (t) and (w), of Regulation (EU) No 1308/2013 and sectors covering products listed in Annex VI to this Regulation.
+
+###### Article 43 — Mandatory and optional types of intervention
+
+1\. The types of intervention in the fruit and vegetables sector referred to in Article 42, point (a), shall be mandatory for Member States with producer organisations in that sector recognised under Regulation (EU) No 1308/2013.
+
+Where a Member State without recognised producer organisations in the fruit and vegetables sector at the moment of submitting its CAP Strategic Plan recognises a producer organisation in that sector under Regulation (EU) No 1308/2013 during the CAP Strategic Plan period, that Member State shall submit a request for amendment of its CAP Strategic Plan in accordance with Article 119 in order to include interventions in the fruit and vegetables sector.
+
+2\. The types of intervention in the apiculture sector referred to in Article 42, point (b), shall be mandatory for every Member State.
+
+3\. The types of intervention in the wine sector referred to in Article 42, point (c), shall be mandatory for the Member States listed in Annex VII.
+
+4\. Member States may choose in their CAP Strategic Plans to implement the types of intervention referred to in Article 42, points (d), (e) and (f).
+
+5\. Germany may implement in the hops sector the types of intervention referred to in Article 42, point (f), only if it decides in its CAP Strategic Plan not to implement the types of intervention referred to in Article 42, point (d).
+
+6\. Greece, France and Italy may implement in the olive oil and table olives sector the types of intervention referred to in Article 42, point (f), only if they decide in their CAP Strategic Plans not to implement the types of intervention referred to in Article 42, point (e).
+
+###### Article 44 — Forms of support
+
+1\. In the sectors referred to in Article 42, support may take any of the following forms:
+
+(a) reimbursement of eligible costs actually incurred by a beneficiary;
+
+(b) unit costs;
+
+(c) lump sums;
+
+(d) flat-rate financing.
+
+2\. The amounts for the forms of support referred to under paragraph 1, points (b), (c) and (d), shall be established in one of the following ways:
+
+(a) a fair, equitable and verifiable calculation method based on:
+
+(i) statistical data, other objective information or an expert judgement;
+
+(ii) verified historical data of beneficiaries; or
+
+(iii) the application of usual cost accounting practices of beneficiaries;
+
+(b) draft budgets established on a case-by-case basis and agreed ex ante by the body selecting the operation in the case of interventions in the wine and apiculture sectors or the body approving the operational programmes referred to in Article 50 in the case of interventions in the other eligible sectors;
+
+(c) in accordance with the rules for application of corresponding unit costs, lump sums and flat rates applicable in Union policies for a similar type of intervention;
+
+(d) in accordance with the rules for application of corresponding unit costs, lump sums and flat rates applied under support schemes funded entirely by the Member State for a similar type of intervention.
+
+###### Article 45 — Delegated powers for additional requirements for types of intervention
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with requirements additional to those laid down in this Chapter as regards:
+
+(a) ensuring the proper functioning of types of intervention laid down in this Chapter, in particular by avoiding distortions of competition in the internal market;
+
+(b) the type of expenditure covered by the interventions included in this Chapter, including, by way of derogation from Article 22 of Regulation (EU) 2021/2116, the eligibility of administrative and personnel costs of producer organisations or other beneficiaries when implementing those interventions;
+
+(c) the basis for the calculation of Union financial assistance referred to in this Chapter, including the reference periods and the calculation of the value of marketed production, and for the calculation of the degree of organisation of producers for the purpose of the national financial assistance referred to in Article 53;
+
+(d) the maximum level of Union financial assistance for the types of intervention referred to in Article 47(2), points (a), (c), (f), (g), (h) and (i), and for the types of intervention referred to in Article 58(1), first subparagraph, points (c), (d), (l), (n) and (o), including packaging and transport rates for products withdrawn for free distribution and processing costs prior to delivery for that purpose;
+
+(e) the rules for the fixing of a ceiling for expenditure and for measuring of the eligible area for the purpose of the types of intervention referred to in Article 47(2), point (d), and in Article 58(1), first subparagraph, point (a);
+
+(f) the rules under which producers are to withdraw the by-products of winemaking, rules on exceptions to that obligation in order to avoid additional administrative burden and rules for the voluntary certification of distillers;
+
+(g) the conditions to be applied for the use of forms of support listed in Article 44(1).
+
+(h) the rules on minimum durability requirement for productive and non-productive investments supported by interventions included in this Chapter;
+
+(i) the rules on the combination of funding for investments pursuant to Article 58(1), first subparagraph, point (b), and for promotion pursuant to Article 58(1), first subparagraph, point (k).
+
+###### Article 46 — Objectives in the fruit and vegetables sector, the hops sector, the olive oil and table olives sector and in the other sectors referred to in Article 42, point (f)
+
+The objectives in the sectors referred to in Article 42, points (a), (d), (e) and (f), shall be the following:
+
+(a) planning and organisation of production, adjusting production to demand, in particular with regard to quality and quantity, optimisation of production costs and returns on investments, and stabilising producer prices; those objectives relate to the specific objectives set out in Article 6(1), points (a), (b), (c) and (i);
+
+(b) concentration of supply and placing on the market of the products, including through direct marketing; those objectives relate to the specific objectives set out in Article 6(1), points (a), (b) and (c);
+
+(c) improvement of medium- and long-term competitiveness, in particular through modernisation; that objective relates to the specific objective set out in Article 6(1), point (c);
+
+(d) research into, and development of, sustainable production methods, including pest resilience, animal disease resistance and climate change mitigation and adaptation, innovative practices and production techniques boosting economic competitiveness and bolstering market developments; those objectives relate to the specific objectives set out in Article 6(1), points (a), (b), (c) and (i);
+
+(e) promoting, developing and implementing:
+
+(i) production methods and techniques that are respectful of the environment;
+
+(ii) pest and disease resilient production practices;
+
+(iii) animal health and welfare standards going beyond minimum requirements established under Union and national law;
+
+(iv) reduction of waste and environmentally sound use and management of by-products, including their reuse and valorisation;
+
+(v) protection and enhancement of biodiversity and sustainable use of natural resources, in particular protection of water, soil and air.
+
+Those objectives relate to the specific objectives set out in Article 6(1), points (e), (f) and (i);
+
+(f) contributing to climate change mitigation and adaptation, as set out in Article 6(1), point (d);
+
+(g) boosting products’ commercial value and quality, including improving product quality and developing products with a protected designation of origin or with a protected geographical indication or covered by Union or national quality schemes recognised by Member States; those objectives relate to the specific objective set out in Article 6(1), point (b);
+
+(h) promotion and marketing of the products; those objectives relate to the specific objectives set out in Article 6(1), points (b), (c) and (i);
+
+(i) increasing consumption of the products of the fruit and vegetables sector, whether in a fresh or processed form; that objective relates to the specific objective set out in Article 6(1), point (i);
+
+(j) crisis prevention and risk management, aimed at avoiding and dealing with disturbances in the markets of the relevant sector; those objectives relate to the specific objectives set out in Article 6(1), points (a), (b) and (c);
+
+(k) improving the conditions of employment and enforcing employer obligations as well as occupational health and safety requirements in accordance with Directives 89/391/EEC, 2009/104/EC and (EU) 2019/1152.
+
+###### Article 47 — Types of intervention in the fruit and vegetables sector, the hops sector, the olive oil and table olives sector and in the other sectors referred to in Article 42, point (f)
+
+1\. For each objective chosen from among those referred to in Article 46, points (a) to (i) and (k), Member States shall choose in their CAP Strategic Plans one or more of the following types of intervention in the sectors referred to in Article 42, points (a), (d), (e) and (f):
+
+(a) investments in tangible and intangible assets, research and experimental and innovative production methods and other actions, in areas such as:
+
+(i) soil conservation, including the enhancement of soil carbon and soil structure, and the reduction of contaminants;
+
+(ii) improvement of the use of and sound management of water, including water saving, water conservation and drainage;
+
+(iii) preventing damage caused by adverse climatic events and promoting the development and use of varieties, breeds and management practices adapted to changing climate conditions;
+
+(iv) increasing energy saving, energy efficiency and the use of renewable energy;
+
+(v) ecological packaging, only in the field of research and experimental production;
+
+(vi) biosecurity, animal health and welfare;
+
+(vii) reducing emissions and waste, improving the use of by-products, including their reuse and valorisation, and the management of waste;
+
+(viii) improving resilience against pests and reducing risks and impacts of pesticide use, including implementing Integrated Pest Management techniques;
+
+(ix) improving resilience against animal disease and reducing the use of veterinary medicines, including antibiotics;
+
+(x) creating and maintaining habitats favourable to biodiversity;
+
+(xi) improving product quality;
+
+(xii) improving genetic resources;
+
+(xiii) improving the conditions of employment and enforcing employer obligations as well as occupational health and safety requirements in accordance with Directives 89/391/EEC, 2009/104/EC and (EU) 2019/1152;
+
+(b) advisory services and technical assistance, in particular concerning sustainable pest and disease control techniques, sustainable use of plant protection and animal health products, climate change adaptation and mitigation, the conditions of employment, employer obligations and occupational health and safety;
+
+(c) training, including coaching and exchange of best practices, in particular concerning sustainable pest and disease control techniques, sustainable use of plant protection and animal health products, climate change adaptation and mitigation, as well as the use of organised trading platforms and commodity exchanges on the spot and futures market;
+
+(d) organic or integrated production;
+
+(e) actions to increase the sustainability and efficiency of transport and of storage of products;
+
+(f) promotion, communication and marketing including actions and activities aimed in particular at raising consumer awareness about the Union quality schemes and the importance of healthy diets, and at diversification and consolidation of markets;
+
+(g) implementation of Union and national quality schemes;
+
+(h) implementation of traceability and certification systems, in particular the monitoring of the quality of products sold to final consumers;
+
+(i) actions to mitigate, and to adapt to, climate change.
+
+2\. As regards the objective referred to in Article 46, point (j), Member States shall choose in their CAP Strategic Plans one or more of the following types of intervention in the sectors referred to in Article 42, points (a), (d), (e) and (f):
+
+(a) setting-up, filling and replenishing of mutual funds by producer organisations and by associations of producer organisations recognised under Regulation (EU) No 1308/2013, or under Article 67(7) of this Regulation;
+
+(b) investments in tangible and intangible assets making the management of the volumes placed on the market more efficient including for collective storage;
+
+(c) collective storage of products produced by the producer organisation or by its members, including where necessary collective processing to facilitate such storage;
+
+(d) replanting of orchards or olive groves where that is necessary following mandatory grubbing up for health or phytosanitary reasons on the instruction of the Member State competent authority or to adapt to climate change;
+
+(e) restocking with livestock after compulsory slaughter for health reasons or because of losses resulting from natural disasters;
+
+(f) market withdrawal for free distribution or other destinations, including where necessary processing to facilitate such withdrawal;
+
+(g) green harvesting, consisting of the total harvesting on a given area of unripe non-marketable products which have not been damaged prior to the green harvesting, whether due to climatic reasons, disease or otherwise;
+
+(h) non-harvesting, consisting of the termination of the current production cycle on the area concerned where the product is well developed and is of sound, fair and marketable quality, excluding destruction of products due to a climatic event or disease;
+
+(i) harvest and production insurance that contributes to safeguarding producers’ incomes where there are losses as a consequence of natural disasters, adverse climatic events, diseases or pest infestations while ensuring that beneficiaries take necessary risk prevention measures;
+
+(j) coaching to other producer organisations and associations of producer organisations recognised under Regulation (EU) No 1308/2013 or under Article 67(7) of this Regulation, or to individual producers;
+
+(k) implementation and management of third-country sanitary and phytosanitary requirements in the territory of the Union to facilitate access to third-country markets;
+
+(l) communication actions aiming at raising awareness and informing consumers.
+
+###### Article 48 — Planning and reporting at operational programme level
+
+Article 7(1), point (a), Article 102, Article 111, points (g) and (h), Article 112(3), point (b), and Article 134 shall apply for the types of intervention in the sectors referred to in Article 42, points (a), (d), (e) and (f), at the level of operational programmes instead of at the level of intervention. The planning and reporting for those types of intervention shall also be carried out at the level of operational programmes.
+
+#### Section 2 — Fruit and vegetables sector
+
+###### Article 49 — Objectives in the fruit and vegetables sector
+
+In the fruit and vegetables sector referred to in Article 42, point (a), Member States shall pursue one or more of the objectives set out in Article 46. The objectives set out in Article 46, points (d) to (i) and (k), shall cover the products whether in a fresh or processed form, while the objectives set out in the other points of that Article shall cover only products in a fresh form.
+
+Member States shall ensure that the interventions correspond to the types of intervention chosen in accordance with Article 47.
+
+###### Article 50 — Operational programmes
+
+1\. The objectives referred to in Article 46 and the interventions in the fruit and vegetables sector set out by the Member States in their CAP Strategic Plans shall be implemented through approved operational programmes of producer organisations or associations of producer organisations recognised under Regulation (EU) No 1308/2013, or both, under the conditions laid down in this Article.
+
+2\. Operational programmes shall have a minimum duration of three years and a maximum duration of seven years.
+
+3\. Operational programmes shall pursue at least the objectives referred to in Article 46, points (b), (e) and (f).
+
+4\. For each objective selected, the operational programmes shall describe the interventions selected from among those set out by the Member States in their CAP Strategic Plans.
+
+5\. Producer organisations or associations of producer organisations recognised under Regulation (EU) No 1308/2013 shall submit operational programmes to Member States for approval and, if approved, shall implement them.
+
+6\. Operational programmes of associations of producer organisations shall not cover the same interventions as operational programmes of member organisations. Member States shall consider operational programmes of associations of producer organisations together with operational programmes of member organisations.
+
+To that end Member States shall ensure that:
+
+(a) interventions under operational programmes of an association of producer organisations are entirely financed, without prejudice to Article 51(1), point (b), by contributions of the member organisations of that association and that such funding is collected from the operational funds of those member organisations;
+
+(b) interventions and their corresponding financial share are identified in the operational programme of each member organisation;
+
+(c) there is no duplication of funding.
+
+7\. Member States shall ensure that, for each operational programme:
+
+(a) at least 15 % of expenditure covers the interventions linked to the objectives referred to in Article 46, points (e) and (f);
+
+(b) the operational programme includes three or more actions linked to the objectives referred to in Article 46, points (e) and (f);
+
+(c) at least 2 % of expenditure covers the interventions linked to the objective referred to in Article 46, point (d); and
+
+(d) the expenditure for interventions within the types of intervention referred to in Article 47(2), points (f), (g) and (h), does not exceed one third of the total expenditure.
+
+Where at least 80 % of the members of a producer organisation are subject to one or more identical agri-environment-climate or organic farming commitments provided for in Chapter IV, each of those commitments shall count as an action for the minimum of three referred to in the first subparagraph, point (b).
+
+8\. Operational programmes may set out the actions proposed to ensure that workers in the sector enjoy fair and safe working conditions.
+
+###### Article 51 — Operational funds
+
+1\. Any producer organisation in the fruit and vegetables sector or association of such producer organisations may set up an operational fund. The fund shall be financed by:
+
+(a) financial contributions from:
+
+(i) members of the producer organisation or the producer organisation itself or both; or
+
+(ii) the association of producer organisations through the members of that association;
+
+(b) Union financial assistance, which may be granted to producer organisations or to their associations where those organisations or associations submit an operational programme.
+
+2\. Operational funds shall be used only to finance operational programmes that have been approved by the Member States.
+
+###### Article 52 — Union financial assistance to the fruit and vegetables sector
+
+1\. The Union financial assistance shall be equal to the amount of the financial contributions referred to in Article 51(1), point (a), actually paid and limited to 50 % of the actual expenditure incurred.
+
+2\. The Union financial assistance shall be limited to:
+
+(a) 4,1 % of the value of the marketed production of each producer organisation;
+
+(b) 4,5 % of the value of marketed production of each association of producer organisations;
+
+(c) 5 % of the value of marketed production of each transnational producer organisation or transnational association of producer organisations.
+
+Those limits may be increased by 0,5 percentage points, where the operational programme comprises one or more interventions linked to any of the objectives referred to in Article 46, point (d), (e), (f), (h), (i) or (j), provided that the amount in excess of the relevant percentage set out in the first subparagraph of this paragraph is used solely to finance expenditure resulting from the implementation of those interventions. In the case of associations of producer organisations, including transnational associations of producer organisations, those interventions may be implemented by the association on behalf of its members.
+
+3\. At the request of a producer organisation or of an association of producer organisations, the 50 % limit provided for in paragraph 1 shall be increased to 60 % for an operational programme or part of an operational programme if at least one of the following applies:
+
+(a) transnational producer organisations implement in two or more Member States interventions linked to the objectives referred to in Article 46, points (b), (e) and (f);
+
+(b) one or more producer organisations or associations of producer organisations are engaged in interventions operated on an interbranch basis;
+
+(c) the operational programme covers solely specific support for the production of organic products covered by Regulation (EU) 2018/848;
+
+(d) the producer organisation or the association of producer organisations recognised under Regulation (EU) No 1308/2013 implements for the first time an operational programme;
+
+(e) producer organisations market less than 20 % of fruit and vegetable production in a Member State; that marketing rate shall be calculated, for each year of the duration of an operational programme, as the value of the fruit and vegetable production that was obtained in the Member State concerned and marketed by producer organisations recognised under Regulation (EU) No 1308/2013 during a period corresponding to the reference period set out in delegated acts adopted on the basis of Article 45, point (c), (the value of marketed production), divided by the total value of the fruit and vegetable production obtained in that Member State during the same period;
+
+(f) the producer organisation operates in one of the outermost regions;
+
+(g) the operational programme comprises the interventions linked to the objectives referred to in Article 46, points (d), (e), (f), (i) and (j);
+
+(h) the operational programme is for the first time implemented by a recognised producer organisation which is the result of a merger between two or more recognised producer organisations;
+
+(i) the producer organisation or the association of producer organisations implements an operational programme in a Member State in which the degree of organisation of producers in the fruit and vegetables sector has been less than 10 % for three consecutive years preceding the implementation of the operational programme; the degree of organisation shall be calculated as the value of the fruit and vegetable production obtained in the Member State concerned and marketed by producer organisations or associations of producer organisations recognised under Regulation (EU) No 1308/2013 during the three consecutive years preceding the implementation of the operational programme, divided by the total value of the fruit and vegetable production that was obtained in that Member State during the same period.
+
+4\. The 50 % limit provided for in paragraph 1 shall be increased to 80 % for expenditure linked to the objective referred to in Article 46, point (d), if that expenditure covers at least 5 % of the expenditure under the operational programme.
+
+5\. The 50 % limit provided for in paragraph 1 shall be increased to 80 % for expenditure linked to the objectives referred to in Article 46, points (e) and (f), if that expenditure covers at least 20 % of the expenditure under the operational programme.
+
+5a. The 50 % limit provided for in paragraph 1 of this Article shall be increased to 70 % for expenditure linked to the objectives referred to in Article 46, point (a), (b) or (c), if the following conditions are fulfilled:
+
+(a) the expenditure is related to investments in tangible and intangible assets as referred to in Article 47(1), point (a), made by young farmers or new farmers who join for the first time a producer organisation recognised under Regulation (EU) No 1308/2013;
+
+(b) the investments referred to in point (a) are made at the premises of such young farmers or new farmers, as part of their first operational programme or during the three years following the date on which those young farmers or new farmers joined the producer organisation.
+
+6\. The 50 % limit provided for in paragraph 1 shall be increased to 100 % in the following cases:
+
+(a) market withdrawals of fruit and vegetables which do not exceed 5 % of the volume of marketed production of each producer organisation and which are disposed of by way of:
+
+(i) free distribution to charitable organisations and foundations approved to that effect by the Member States, for use in their activities to assist persons whose right to public assistance is recognised in national law, in particular because they lack the necessary means of subsistence;
+
+(ii) free distribution to penal institutions, schools and public education institutions, establishments referred to in Article 22 of Regulation (EU) No 1308/2013 and to children’s holiday camps as well as to hospitals and old people’s homes designated by the Member States, which shall take all necessary steps to ensure that the quantities thus distributed are additional to the quantities normally bought in by such establishments;
+
+(b) actions related to coaching of other producer organisations recognised under Regulation (EU) No 1308/2013, provided that those producer organisations are from regions of Member States referred to in Article 53(2) of this Regulation, or of individual producers.
+
+7\. The 50 % limit provided for in paragraph 1 shall be increased to 70 % of the actual expenditure incurred in a given year for operational programmes implemented by producer organisations or associations of producer organisations and affected in that year by adverse climatic events, natural disasters, plant diseases or pest infestations to be identified by the Member States, on condition that the increase is granted only when losses exceed a threshold of at least 30 % of the average annual production of the producer organisation or the association of producer organisations in the preceding three-year period or a three-year average based on the preceding five-year period, excluding the highest and the lowest entry.
+
+###### Article 53 — National financial assistance
+
+1\. In regions of the Member States in which the degree of organisation of producers in the fruit and vegetables sector is significantly below the Union average, Member States may grant producer organisations recognised under Regulation (EU) No 1308/2013 national financial assistance equal to a maximum of 80 % of the financial contributions referred to in Article 51(1), point (a), of this Regulation and up to 10 % of the value of the marketed production of any such producer organisation. The national financial assistance shall be additional to the operational fund.
+
+2\. The degree of organisation of producers in a region of a Member State shall be considered to be significantly below the Union average where the average degree of organisation has been less than 20 % for three consecutive years preceding the implementation of the operational programme. The degree of organisation shall be calculated as the value of fruit and vegetable production that was obtained in the region concerned and marketed by producer organisations and associations of producer organisations recognised under Regulation (EU) No 1308/2013, divided by the total value of the fruit and vegetable production that was obtained in that region.
+
+3\. Member States that grant national financial assistance in accordance with paragraph 1 shall inform the Commission of the regions that meet the criteria referred to in paragraph 2 and of the national financial assistance granted to producer organisations in those regions.
+
+#### Section 3 — Apiculture sector
+
+###### Article 54 — Objectives in the apiculture sector
+
+The Member States shall pursue at least one of the relevant specific objectives set out in Article 6(1) in the apiculture sector.
+
+###### Article 55 — Types of intervention in the apiculture sector and Union financial assistance
+
+1\. Member States shall choose in their CAP Strategic Plans for each chosen specific objective set out in Article 6(1) one or more of the following types of intervention in the apiculture sector:
+
+(a) advisory services, technical assistance, training, information and exchange of best practices, including through networking, for beekeepers and beekeepers’ organisations;
+
+(b) investments in tangible and intangible assets, as well as other actions, including for:
+
+(i) combatting beehive invaders and diseases, in particular varroasis;
+
+(ii) preventing damage caused by adverse climatic events and promoting the development and use of management practices adapted to changing climate conditions;
+
+(iii) restocking of beehives in the Union, including bee breeding;
+
+(iv) rationalising transhumance;
+
+(c) actions to support laboratories for the analysis of apiculture products, bee losses or productivity drops, and substances potentially toxic to bees;
+
+(d) actions to preserve or increase the existing number of beehives in the Union, including bee breeding;
+
+(e) cooperation with specialised bodies for the implementation of research programmes in the field of beekeeping and apiculture products;
+
+(f) promotion, communication and marketing including market monitoring actions and activities aimed in particular at raising consumer awareness about the quality of apiculture products;
+
+(g) actions to enhance product quality.
+
+2\. Member States shall substantiate in their CAP Strategic Plans their choice of specific objectives and types of intervention. Within the chosen types of intervention, they shall specify interventions.
+
+3\. Member States shall set out in their CAP Strategic Plans the funding provided by them for the types of intervention chosen in their CAP Strategic Plans.
+
+4\. Member States shall provide at least the same amount of funding as the Union financial assistance they use on the basis of Article 88(2) for supporting the types of intervention referred to in paragraph 2 of this Article.
+
+5\. The total financial assistance provided by the Union and Member States shall not exceed the expenditure incurred by the beneficiary.
+
+6\. When drawing up their CAP Strategic Plans, Member States shall collaborate with the representatives of organisations in the beekeeping field.
+
+7\. Member States shall notify the Commission annually of the number of beehives in their territory.
+
+###### Article 56 — Additional delegated powers for types of intervention in the apiculture sector
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with requirements additional to those laid down in this Section concerning:
+
+(a) the obligation of Member States to notify the Commission annually of the number of beehives in their territory laid down in Article 55(7);
+
+(b) a definition of ‘beehive’ and methods for calculating the number of beehives;
+
+(c) the minimum Union contribution to the expenditure related to the implementation of the types of intervention and interventions referred to in Article 55.
+
+#### Section 4 — Wine sector
+
+###### Article 57 — Objectives in the wine sector
+
+The Member States referred to in Article 88(1) shall pursue one or more of the following objectives in the wine sector:
+
+(a) improving the economic sustainability and competitiveness of Union wine producers; that objective relates to the specific objectives set out in Article 6(1), points (a), (b), (c) and (h);
+
+(b) contributing to climate change mitigation and adaptation and to the improvement of the sustainability of production systems and the reduction of the environmental impact of the Union wine sector, including by supporting winegrowers in reducing the use of inputs and implementing more environmentally sustainable methods and cultivation practices; those objectives relate to the specific objectives set out in Article 6(1), points (d) to (f) and (i);
+
+(c) improving the conditions of employment and enforcing employer obligations as well as occupational health and safety requirements in accordance with Directives 89/391/EEC, 2009/104/EC and (EU) 2019/1152;
+
+(d) improving the performance of Union wine enterprises and their adaptation to market demands, as well as increasing their long-term competitiveness in the production and marketing of grapevine products, including energy savings, global energy efficiency and sustainable processes; those objectives relate to the specific objectives set out in Article 6(1), points (a), to (e), (g) and (h);
+
+(e) contributing to restoring the balance of supply and demand in the Union wine market in order to prevent market crises; that objective relates to the specific objective set out in Article 6(1), point (a);
+
+(f) contributing to safeguarding Union producers’ incomes where they incur losses as a consequence of natural disasters, adverse climatic events, animals, diseases or pest infestations; that objective relates to the specific objective set out in Article 6(1), point (a);
+
+(g) increasing the marketability and competitiveness of Union grapevine products, in particular through the development of innovative products, processes and technologies, and the addition of value at any stage of the supply chain; that objective may include knowledge transfer and relates to the specific objectives set out in Article 6(1), points (a), (b), (c), (e) and (i);
+
+(h) sustaining the use of wine making by-products for industrial and energy purposes in order to ensure the quality of Union wine while protecting the environment; that objective relates to the specific objectives set out in Article 6(1), points (d) and (e);
+
+(i) contributing to increasing consumer awareness about responsible consumption of wine and about Union quality schemes for wine; that objective relates to the specific objectives set out in Article 6(1), points (b) and (i);
+
+(j) improving the competitiveness of Union grapevine products in third countries, including the opening and diversification of the wine markets; that objective relates to the specific objectives set out in Article 6(1), points (b) and (h);
+
+(k) contributing to increasing resilience of producers against market fluctuations; that objective relates to the specific objective set out in Article 6(1), point (a).
+
+###### Article 58 — Types of intervention in the wine sector
+
+1\. For each objective chosen from among those laid down in Article 57, the Member States referred to in Article 88(1) shall choose in their CAP Strategic Plans one or more of the following types of intervention:
+
+(a) restructuring and conversion of vineyards, which is a process consisting of one or more of the following:
+
+(i) varietal conversions, also by means of grafting-on, including for improving quality or environmental sustainability, for reasons of adaptation to climate change, increasing the climate resilience of vines, or for the enhancement of genetic diversity;
+
+(ii) relocation of vineyards;
+
+(iii) replanting of vineyards where that is necessary following mandatory grubbing up for health or phytosanitary reasons on the instruction of the Member State competent authority;
+
+(iv) improvements to vineyard management techniques, in particular the introduction of advanced systems of sustainable production including the reduction of the use of pesticides, but excluding the normal renewal of vineyards consisting of replanting with the same grape variety according to the same system of vine cultivation when vines have to come to the end of their natural life;
+
+(b) investments in tangible assets and intangible assets in winegrowing farming systems, excluding operations relevant to the type of intervention provided for in point (a), in processing facilities and winery infrastructure, as well as in marketing structures and tools, including marketing through wine tourism;
+
+(c) green harvesting, which means the total destruction or removal of grape bunches while still in their immature stage, thereby reducing the yield of the relevant area to zero, and excluding non-harvesting comprising of leaving commercial grapes on the plants at the end of the normal production cycle;
+
+(d) harvest insurance against income losses resulting from adverse climatic events assimilated to natural disasters, adverse climatic events, damages caused by animals, plant diseases or pest infestations;
+
+(e) tangible and intangible investments in innovation consisting of development of innovative products, including products from, and by-products of, wine making, innovative processes and technologies for the production of wine products and the digitalisation of those processes and technologies, as well as other investments adding value at any stage of the supply chain, including for knowledge exchange and contribution to adaptation to the climate change;
+
+(f) advisory services, in particular concerning the conditions of employment, employer obligations and occupational health and safety, direct sales, environmental sustainability and diversification from wine production;
+
+(g) distillation of by-products of wine making carried out in accordance with the restrictions laid down in Part II, Section D, of Annex VIII to Regulation (EU) No 1308/2013;
+
+(h) information actions concerning Union wines carried out in Member States encouraging responsible consumption of wine or promoting Union quality schemes covering designations of origin and geographical indications;
+
+(i) actions aimed at enhancing the reputation of Union vineyards by promoting wine tourism in production regions undertaken by organisations operating in the wine sector referred to in Articles 152, 156 and 157 of Regulation (EU) No 1308/2013, by producer groups managing protected designations of origin and protected geographical indications in accordance with Articles 32 and 33 of Regulation (EU) 2024/1143 of the European Parliament and of the Council ( 11 ), or any other professional organisations, wine producer organisations or associations of wine producer organisations established by Member States in their CAP Strategic Plans;
+
+(j) actions undertaken by interbranch organisations recognised by Member States in the wine sector in accordance with Regulation (EU) No 1308/2013 aiming at improving market knowledge;
+
+(k) promotion and communication carried out in third countries, consisting of one or more of the following actions and activities aimed at improving the competitiveness of the wine sector, and the opening, diversification or consolidation of the markets:
+
+(i) public relations, promotion or advertisement actions, in particular highlighting the high standards of the Union products, especially in terms of quality, food safety or the environment;
+
+(ii) participation in events, fairs or exhibitions of international importance;
+
+(iii) information campaigns, in particular on the Union quality schemes concerning designations of origin, geographical indications and organic production;
+
+(iv) studies of new or existing markets which are necessary for the expansion and consolidation of market outlets;
+
+(v) studies to evaluate the results of the information and promotion operations;
+
+(vi) preparation of technical files, including laboratory tests and assessments, concerning oenological practices, phytosanitary and hygiene rules, as well as other third-country requirements for import of products of the wine sector, to prevent restriction of, or to enable, access to third-country markets;
+
+(l) temporary and degressive assistance to cover administrative costs of setting up mutual funds;
+
+(m) investments in tangible and intangible assets aiming to enhance the sustainability of wine production by:
+
+(i) improving the use and management of water;
+
+(ii) converting to organic production;
+
+(iii) introducing integrated production techniques;
+
+(iv) purchasing equipment for precision or digitised production methods;
+
+(v) contributing to soil conservation and enhancement of soil carbon sequestration;
+
+(vi) creating or preserving habitats favourable for biodiversity or maintaining landscape, including the conservation of historical features; or
+
+(vii) reducing waste production and improving waste management;
+
+(n) monitoring, diagnostic, training, communication and research to prevent the spread of relevant pests referred to in Part B of Annex II and Part C of Annex IV to Commission Implementing Regulation (EU) 2019/2072 ( 12 ) undertaken by producer organisations recognised under Articles 152 and 154 of Regulation (EU) No 1308/2013, interbranch organisations recognised by Member States under Articles 157 and 158 of that Regulation, or producer groups managing protected designations of origin and protected geographical indications in accordance with Articles 32 and 33 of Regulation (EU) 2024/1143;  or
+
+(o) permanent grubbing up of productive vineyards, meaning the complete elimination of vine stocks on a relevant area.
+
+For the purposes of the first subparagraph, point (a), Member States may lay down in their CAP Strategic Plans specific agronomic, viticultural or any other kind of conditions which ensure that varietal conversion, relocation of the vineyard, replanting of the vineyard or improvement of the vineyard management techniques undertaken under this type of intervention does not generate an increase in yield in the vineyard to be replanted.
+
+The first subparagraph, point (k), shall apply only to wines with a protected designation of origin or a protected geographical indication or wines with an indication of the wine grape variety. Promotion and communication operations under the first subparagraph, point (k), shall have a limited duration of three years. Member States may decide to extend the duration of an operation twice for a maximum of three years for each extension. Each beneficiary may receive support for different operations carried out in the same market under the types of intervention referred to in the first subparagraph, point (k), for a maximum period of nine consecutive years.
+
+For the purposes of the first subparagraph, point (k), a Member State may consider the promotion and communication operations carried out in a third country to be those that cover the entire territory of the third country, an administrative part of that territory, or a type of market, as defined by that Member State, in the third country.
+
+Member States that choose in their CAP Strategic Plans the types of intervention referred to in the first subparagraph, point (k), shall ensure that small producers have access to funding under those types of intervention by applying relevant measures such as establishing simplified procedures or setting objective and non-discriminatory priority criteria on new beneficiaries, new markets, and new products.
+
+For the purposes of the first subparagraph, point (o), producers who have grubbed up productive vineyards under this Article shall not be entitled to apply for new planting authorisations under Article 64 of Regulation (EU) No 1308/2013 during the 10 marketing years following the one in which the grubbing up took place. Where such producers hold valid authorisations for new plantings, such authorisations shall be revoked by the Member State when the application for support of grubbing up is approved. Member States may exclude from the scope of this type of intervention areas where vineyards play an important environmental, landscape preservation or socio-economic role.
+
+2\. The Member States referred to in Article 88(1) shall substantiate in their CAP Strategic Plans their choice of objectives and the types of intervention in the wine sector. Within the chosen types of intervention, they shall specify interventions.
+
+Member States that chose the types of intervention provided for in paragraph 1, first subparagraph, point (k), of this Article shall lay down specific provisions for the information and promotion actions and activities, in particular with regard to their maximum duration.
+
+3\. In addition to the requirements set out in Title V, the Member States referred to in Article 88(1) shall set out in their CAP Strategic Plans an implementation schedule for the chosen types of intervention, interventions and a general financial table showing the resources to be deployed and the envisaged allocation of resources between the chosen types of intervention and between interventions in accordance with the financial allocations laid down in Annex VII.
+
+###### Article 59 — Union financial assistance to the wine sector
+
+1\. The Union financial assistance for restructuring and conversion of vineyards referred to in Article 58(1), first subparagraph, point (a), shall not exceed 50 % of the actual costs of restructuring and conversion of vineyards, or 75 % of the actual costs of restructuring and conversion of vineyards in less developed regions.
+
+However, that financial assistance may, for steep slopes and terraces in zones where the inclination is greater than 40 %, go up to 60 % of the actual costs of restructuring and conversion of vineyards, or up to 80 % of the actual costs of restructuring and conversion of vineyards in less developed regions.
+
+The assistance may only take the form of compensation to producers for loss of revenue due to the implementation of the intervention and contribution to the costs of restructuring and conversion. The compensation to producers for loss of revenue due to the implementation of the intervention may cover up to 100 % of the relevant loss and take one of the following forms:
+
+(a) the permission for old and new vines to coexist for a maximum period which shall not exceed three years;
+
+(b) financial compensation for a maximum period which shall not exceed three years.
+
+By way of derogation from the first and second subparagraphs of this paragraph, the Union financial assistance may cover up to 80 % of the actual costs of restructuring and conversion of vineyards if the intervention is linked to the objective of contributing to climate change adaptation set out in Article 57, point (b).
+
+2\. The Union financial assistance for investments referred to in Article 58(1), first subparagraph, point (b), shall not exceed:
+
+(a) 50 % of eligible investment costs in less developed regions;
+
+(b) 40 % of eligible investments costs in regions other than less developed regions;
+
+(c) 75 % of eligible investment costs in the outermost regions;
+
+(d) 65 % of eligible investment costs in the smaller Aegean islands.
+
+The Union financial assistance at the maximum rate set out in the first subparagraph shall only be granted to micro, small and medium-sized enterprises within the meaning of Commission Recommendation 2003/361/EC ( 13 ) and to producer organisations recognised under Regulation (EU) No 1308/2013. However, it may be granted to all enterprises in the outermost regions and in the smaller Aegean islands.
+
+For enterprises, other than producer organisations recognised under Regulation (EU) No 1308/2013, which are not covered by Article 2(1) of the Annex to Recommendation 2003/361/EC, with fewer than 750 employees or with an annual turnover of less than EUR 200 million, the maximum levels of Union financial assistance set out in the first subparagraph of this paragraph shall be halved.
+
+By way of derogation from the first subparagraph of this paragraph, the Union financial assistance for investments referred to in Article 58(1), first subparagraph, point (b), may be increased to up to 80 % of eligible investment costs for investments linked to the objective of contributing to climate change mitigation and adaptation and to the improvement of the sustainability of production systems and the reduction of the environmental impact of the Union wine sector set out in Article 57, point (b).
+
+No Union financial assistance shall be granted to enterprises in difficulty within the meaning of the Commission Communication entitled ‘Guidelines on State aid for rescuing and restructuring non-financial undertakings in difficulty’ ( 14 ).
+
+3\. The Union financial assistance for green harvesting referred to in Article 58(1), first subparagraph, point (c), shall not exceed 50 % of the sum of the direct costs of the destruction or removal of grape bunches and the loss of revenue related to such destruction or removal.
+
+The Union financial assistance for permanent grubbing up referred to in Article 58(1), first subparagraph, point (o), shall not exceed 70 % of the sum of the direct costs of carrying out the grubbing up and of the estimated loss of revenue for one year in respect of the grubbed up area. In addition, Member States may provide a national contribution to the intervention of up to 30 % of the sum of the direct costs of carrying out the grubbing up and the estimated loss of revenue for one year in respect of the grubbed up area.
+
+4\. The Union financial assistance for the interventions referred to in Article 58(1), first subparagraph, points (i), (j) and (m), shall not exceed 50 % of the direct or eligible costs.
+
+However, the Union financial assistance for investments referred to in Article 58(1), first subparagraph, point (m), may be increased to up to 80 % of eligible investment costs for investments linked to the objective of contributing to climate change mitigation and adaptation and to the improvement of the sustainability of production systems and the reduction of the environmental impact of the Union wine sector set out in Article 57, point (b).
+
+5\. The Union financial assistance for harvest insurance referred to in Article 58(1), first subparagraph, point (d), shall not exceed:
+
+(a) 80 % of the cost of the insurance premiums paid by producers for insurance against losses resulting from adverse climatic events which can be assimilated to natural disasters;
+
+(b) 50 % of the cost of insurance premiums paid by producers for insurance against:
+
+(i) losses referred to in point (a) and losses caused by other adverse climatic events;
+
+(ii) losses caused by animals, plant diseases or pest infestations.
+
+Union financial assistance for harvest insurance may be granted if insurance payments concerned do not compensate producers for more than 100 % of the income loss suffered, taking into account any compensation the producers may have obtained from other support schemes related to the insured risk. Insurance contracts shall require beneficiaries to undertake necessary risk prevention measures.
+
+6\. The Union financial assistance for innovation referred to in Article 58(1), first subparagraph, point (e), shall not exceed:
+
+(a) 50 % of eligible investment costs in less developed regions;
+
+(b) 40 % of eligible investment costs in regions other than less developed regions;
+
+(c) 80 % of eligible investment costs in the outermost regions;
+
+(d) 65 % of eligible investment costs in the smaller Aegean islands.
+
+The Union financial assistance at the maximum rate set out in the first subparagraph shall only be granted to micro, small and medium-sized enterprises within the meaning of Commission Recommendation 2003/361/EC and to producer organisations recognised under Regulation (EU) No 1308/2013. However, it may be granted to all enterprises in the outermost regions and in the smaller Aegean islands.
+
+For enterprises, other than producer organisations recognised under Regulation (EU) No 1308/2013, which are not covered by Article 2(1) of the Annex to Recommendation 2003/361/EC, with fewer than 750 employees or with an annual turnover of less than EUR 200 million, the maximum levels of Union financial assistance set out in the first subparagraph of this paragraph shall be halved.
+
+By way of derogation from the first subparagraph of this paragraph, the Union financial assistance for investments referred to in Article 58(1), first subparagraph, point (e), may be increased to up to 80 % of eligible investment costs for investments linked to the objective of contributing to climate change mitigation and adaptation and to the improvement of the sustainability of production systems and the reduction of the environmental impact of the Union wine sector set out in Article 57, point (b).
+
+No Union financial assistance shall be granted to enterprises in difficulty within the meaning of the Commission Communication entitled ‘Guidelines on State aid for rescuing and restructuring non-financial undertakings in difficulty’.
+
+6a. The Union financial assistance for advisory services referred to in Article 58(1), first subparagraph, point (f), may cover up to 50 % of the eligible expenditure.
+
+7\. The Union financial assistance for information actions and promotion and communication operations referred to in Article 58(1), first subparagraph, points (h) and (k), shall not exceed 60 % of the eligible expenditure.
+
+In addition, the Member States referred to in Article 88(1) may provide a national contribution to the types of intervention referred to in the first subparagraph of up to 20 % of the eligible expenditure. For micro, small and medium-sized enterprises within the meaning of Commission Recommendation 2003/361/EC active in the wine sector, Member States may provide a national contribution of up to 30 % of the eligible expenditure.
+
+7a. The Union financial assistance for actions referred to in Article 58(1), first subparagraph, point (n), against pests referred to in Part B of Annex II and Part C of Annex IV to Commission Implementing Regulation (EU) 2019/2072, may cover up to 100 % of the eligible costs.
+
+8\. The Commission shall adopt implementing acts fixing the Union financial assistance for distillation of by-products of wine making referred to in Article 58(1), first subparagraph, point (g), in accordance with the specific rules laid down in Article 60(3). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+###### Article 60 — Specific rules on Union financial assistance to the wine sector
+
+1\. The Member States referred to in Article 88(1) shall ensure that the Union financial assistance for harvest insurance does not distort competition in the insurance market.
+
+2\. The Member States referred to in Article 88(1) shall establish a system based on objective criteria to ensure that green harvesting does not lead to compensation of individual producers in excess of the limit laid down in Article 59(3).
+
+3\. The amount of the Union assistance for distillation of by-products of wine making referred to in Article 58(1), first subparagraph, point (g), shall be fixed per % volume and per hectolitre of alcohol produced. No Union financial assistance shall be paid for the volume of alcohol contained in the by-products to be distilled which exceeds 10 % in relation to the volume of alcohol contained in the wine produced.
+
+The Member States referred to in Article 88(1) shall ensure that the Union financial assistance for distillation of by-products of wine making is paid to distillers that process by-products of winemaking delivered for distillation into raw alcohol with an alcoholic strength of at least 92 % by volume.
+
+The Union financial assistance shall include a lump sum amount to compensate for the costs of collection of the by-products of winemaking. That amount shall be transferred from the distiller to the producer in cases where the relevant costs are borne by the latter.
+
+The Member States referred to in Article 88(1) shall ensure that the alcohol resulting from the distillation of by-products of winemaking for which a Union financial assistance has been granted is used exclusively for industrial or energy purposes that do not distort competition.
+
+4\. The Member States referred to in Article 88(1) shall ensure in their CAP Strategic Plans that at least 5 % of the expenditure is earmarked and at least one action is adopted to meet the objectives in favour of protection of the environment, adaptation to climate change, improving sustainability of production systems and processes, reduction of environmental impact of the Union wine sector, energy savings and improving global energy efficiency in the wine sector, in accordance with the objectives laid down in Article 57, points (b), (d) and (h).
+
+#### Section 5 — Hops sector
+
+###### Article 61 — Objectives and types of intervention in the hops sector
+
+1\. Germany shall pursue in the hops sector one or more of the objectives set out in Article 46, points (a) to (h), (j) and (k).
+
+2\. Germany shall choose in its CAP Strategic Plan one or more of the types of intervention referred to in Article 47 to pursue the objectives chosen as laid down in paragraph 1 of this Article. Within the chosen types of intervention, Germany shall specify interventions. It shall substantiate in its CAP Strategic Plan the choice of objectives, types of intervention and interventions to meet those objectives.
+
+3\. The interventions specified by Germany shall be implemented through approved operational programmes of producer organisations or their associations recognised under Regulation (EU) No 1308/2013.
+
+4\. The operational programmes referred to in paragraph 3 shall fulfil the conditions laid down in Article 50(2), (4), (5), (6) and (8).
+
+5\. Germany shall ensure that the Union financial assistance provided to each producer organisation or association of producer organisations under this Article for the types of intervention referred to in Article 47(2), points (f), (g) and (h), does not exceed, in average over three consecutive years, one third of the total Union financial assistance received for its operational programme over the same period.
+
+###### Article 62 — Union financial assistance
+
+1\. Within the financial allocation set out in Article 88(3), Germany shall allocate the maximum Union financial assistance to the producer organisations or their associations implementing the operational programmes referred to in Article 61(3) in proportion to the number of hectares cultivated with hops represented by each producer organisation.
+
+2\. Within the maximum amounts allocated to each producer organisation or association of producer organisations pursuant to paragraph 1, the Union financial assistance to the operational programmes referred to in Article 61 shall be limited to 50 % of the actual expenditure incurred for the types of intervention referred to in that Article. The remaining part of the expenditure shall be borne by the producer organisation or association benefitting from the Union financial assistance.
+
+The Union financial assistance shall be paid to operational funds set up by the producer organisations or their associations recognised under Regulation (EU) No 1308/2013 implementing the operational programmes. For this purpose, Article 51 of this Regulation shall apply mutatis mutandis.
+
+3\. The 50 % limit provided for in paragraph 2 shall be increased to 100 %:
+
+(a) for types of intervention linked to one or more of the objectives referred to in Article 46, points (d), (e), (f) and (h);
+
+(b) for the interventions of collective storage, advisory services, technical assistance, training and exchange of best practices linked to either or both of the objectives referred to in Article 46, points (a) and (j).
+
+4\. The 50 % limit provided for in paragraph 2 shall be increased to 70 % of the actual expenditure incurred in a given year for operational programmes implemented by producer organisations or associations of producer organisations and affected in that year by adverse climatic events, natural disasters, plant diseases or pest infestations, to be identified by the Member States, on condition that the increase is granted only when losses exceed a threshold of at least 30 % of the average annual production of the producer organisation or the association of producer organisations in the preceding three-year period or a three-year average based on the preceding five-year period, excluding the highest and the lowest entry.
+
+#### Section 6 — Olive oil and table olives sector
+
+###### Article 63 — Objectives in the olive oil and table olives sector
+
+Greece, France and Italy shall pursue in the olive oil and table olives sector one or more of the objectives set out in Article 46, points (a) to (h), (j) and (k).
+
+###### Article 64 — Types of intervention in the olive oil and table olives sector
+
+1\. To pursue the objectives referred to in Article 63, Greece, France and Italy shall choose in their CAP Strategic Plans one or more of the types of intervention referred to in Article 47. Within the chosen types of intervention, they shall specify interventions.
+
+2\. The interventions specified by Greece, France and Italy shall be implemented through approved operational programmes of producer organisations or associations of producer organisations recognised under Regulation (EU) No 1308/2013. For this purpose, Article 50(2), (4), (5), (6) and (8) and Article 51 of this Regulation shall apply mutatis mutandis, without prejudice to Article 65(3).
+
+###### Article 65 — Union financial assistance
+
+1\. The Union financial assistance to the eligible costs shall not exceed:
+
+(a) 75 % of actual expenditure incurred for interventions linked to objectives referred to in Article 46, points (a) to (f), (h) and (k);
+
+(b) 75 % of actual expenditure incurred for fixed assets investments and 50 % for other interventions linked to the objective referred to in Article 46, point (g);
+
+(c) 50 % of actual expenditure incurred for interventions linked to the objective referred to in Article 46, point (j);
+
+(d) 75 % of the actual expenditure incurred for the types of intervention referred to in Article 47(1), points (f) and (h), where the operational programme is implemented in at least three third countries or non-producing Member States by producer organisations or associations of producer organisations from at least two producing Member States, or 50 % where that condition is not met;
+
+(e) 70 % of the actual expenditure incurred in a given year for operational programmes implemented by producer organisations or associations of producer organisations and affected in that year by adverse climatic events, natural disasters, plant diseases or pest infestations to be identified by the Member States, on condition that the increase is granted only when losses exceed a threshold of at least 30 % of the average annual production of the producer organisation or the association of producer organisations in the preceding three-year period or a three-year average based on the preceding five-year period, excluding the highest and the lowest entry.
+
+2\. The Union financial assistance shall be limited to 30 % of the value of marketed production of each producer organisation or association of producer organisations in 2023 and 2024, 15 % in 2025 and 2026 and 10 % as from 2027.
+
+3\. Greece, France and Italy may provide complementary financing of the operational funds referred to in Article 51 up to 50 % of the costs not covered by the Union financial assistance.
+
+4\. Greece, France and Italy shall ensure that the expenditure on the types of intervention referred to in Article 47(2), points (f), (g) and (h), does not exceed one third of the total expenditure under each operational programme as set out in their CAP Strategic Plans.
+
+#### Section 7 — Other sectors
+
+###### Article 66 — Objectives in other sectors
+
+Member States may choose in their CAP Strategic Plans those sectors referred to in Article 42, point (f), in which they implement the types of intervention laid down in Article 47. For each sector that Member States choose, they shall pursue one or more of the objectives set out in Article 46, points (a) to (h), (j) and (k). Member States shall substantiate their choice of sectors and objectives.
+
+###### Article 67 — Types of intervention in other sectors
+
+1\. For each sector chosen in accordance with Article 66, Member States shall choose one or more of the types of intervention referred to in Article 47 to be implemented through approved operational programmes drawn up by:
+
+(a) producer organisations and their associations recognised under Regulation (EU) No 1308/2013 or under paragraph 7 of this Article; or
+
+(b) cooperatives, as well as other forms of cooperation between producers constituted at the initiative of producers and controlled by them, that have been identified by the competent authority of a Member State as producer groups, for a transitional period of up to four years from the start of an approved operational programme ending on 31 December 2027 at the latest.
+
+2\. Member States shall set the criteria for being identified as producer groups and shall determine the activities and objectives of the producer groups referred to in paragraph 1, point (b), with the aim that those producer groups be able to meet the requirements for recognition as producer organisations under Articles 152 to 154 or 161 of Regulation (EU) No 1308/2013 or under paragraph 7 of this Article.
+
+3\. Producer groups referred to in paragraph 1, point (b), shall, in addition to an operational programme, draw up and submit a recognition plan with a view to fulfilling, within the transitional period referred to in that point, the requirements laid down in Articles 152 to 154 or 161 of Regulation (EU) No 1308/2013 or under paragraph 7 of this Article for recognition as producer organisations.
+
+The recognition plan shall set activities and targets to ensure the progress towards obtaining such recognition.
+
+The support granted to a producer group that is not recognised as a producer organisation by the end of the transitional period shall be subject to recovery.
+
+4\. Member States shall substantiate their choice of types of intervention referred to in paragraph 1.
+
+Member States that decide to implement types of intervention provided for in this Section for products listed in Annex VI shall specify, for each sector they choose, the list of products covered by that sector.
+
+5\. Types of intervention referred to in Article 47(2), points (c) and (f) to (i), shall not apply to cotton, rape and colza seeds, sunflower seeds and soya beans included in Annex VI.
+
+6\. The operational programmes referred to in paragraph 1 shall fulfil the conditions laid down in Article 50(2), (4), (5), (6) and (8).
+
+7\. Member States which choose to implement types of intervention referred to in Article 42, point (f), in the cotton sector shall recognise producer organisations in that sector and associations of such producer organisations in accordance with the requirements and using the procedures laid down in Article 152(1) and in Articles 153 to 156 of Regulation (EU) No 1308/2013. Producer groups of cotton and federations of such producer groups recognised by Member States in accordance with the Protocol No 4 to the 1979 Act of Accession of the Hellenic Republic before the entry into application of this Regulation are, for the purposes of this Section, considered to be producer organisations or associations of producer organisations, respectively.
+
+8\. Member States shall ensure that the expenditure on the types of intervention referred to in Article 47(2), points (f), (g) and (h), does not exceed one third of the total expenditure under each operational programme as set out in their CAP Strategic Plans.
+
+###### Article 68 — Union financial assistance
+
+1\. The Union financial assistance shall be limited to 50 % of the actual expenditure incurred for the types of intervention referred to in Article 67. The remaining part of the expenditure shall be borne by the beneficiaries.
+
+The Union financial assistance shall be paid to operational funds set up by producer organisations or their associations recognised under Regulation (EU) No 1308/2013 or under Article 67(7) of this Regulation or by producer groups referred to in Article 67(1), point (b) of this Regulation. For this purpose, Article 51 and Article 52(1) of this Regulation shall apply mutatis mutandis.
+
+2\. The 50 % limit provided for in paragraph 1 shall be increased to 60 % for producer organisations or associations of producer organisations recognised under Regulation (EU) No 1308/2013 or under Article 67(7) of this Regulation for the first five years after the year of recognition.
+
+2a. Article 52(3), points (a) to (d), (f), (g) and (h) and Article 52(5a) and (7) shall apply mutatis mutandis.
+
+3\. The Union financial assistance shall be limited to 6 % of the value of marketed production of:
+
+(a) each producer organisation or association of producer organisations referred to in Article 67(1), point (a); or
+
+(b) each producer group referred to in Article 67(1), point (b).
+
+### CHAPTER IV — TYPES OF INTERVENTION FOR RURAL DEVELOPMENT
+
+#### Section 1 — Types of intervention
+
+###### Article 69 — Types of intervention for rural development
+
+The types of intervention under this Chapter shall consist in payments or support with regard to:
+
+(a) environmental, climate-related and other management commitments;
+
+(b) natural or other area-specific constraints;
+
+(c) area-specific disadvantages resulting from certain mandatory requirements;
+
+(d) investments, including investments in irrigation;
+
+(e) setting-up of young farmers and new farmers, rural business start-ups and the business development of small farms;
+
+(f) risk management tools;
+
+(g) cooperation;
+
+(h) knowledge exchange and dissemination of information;
+
+(i) crisis payments to farmers following natural disasters, adverse climatic events or catastrophic events;
+
+(j) support to farmers affected by the severe increase in fertiliser prices due to the Middle East crisis.
+
+###### Article 70 — Environmental, climate-related and other management commitments
+
+1\. Member States shall include agri-environment-climate commitments among the interventions in their CAP Strategic Plans and may include other management commitments therein. The payments for those commitments shall be granted under the conditions set out in this Article and as further specified in the CAP Strategic Plans.
+
+2\. Member States shall grant payments only to farmers or other beneficiaries who undertake, on a voluntary basis, management commitments which are considered to be beneficial to achieving one or more of the specific objectives set out in Article 6(1) and (2).
+
+3\. Under this Article, Member States shall provide payments only for commitments which:
+
+(a) go beyond the relevant statutory management requirements and GAEC standards established under Chapter I, Section 2;
+
+(b) go beyond the relevant minimum requirements for the use of fertiliser and plant protection products or for animal welfare, as well as other relevant mandatory requirements established by national and Union law; that requirement does not apply to commitments related to agroforestry systems and the maintenance of afforested areas;
+
+(c) go beyond the conditions established for the maintenance of the agricultural area in accordance with Article 4(2);
+
+(d) are different from commitments in respect of which payments are granted under Article 31.
+
+For commitments referred to in the first subparagraph, point (b), where national law imposes requirements which go beyond the corresponding mandatory minimum requirements laid down in Union law, support may be granted for commitments contributing to compliance with those requirements.
+
+By way of derogation from the first subparagraph, Member States may decide to exclude from the requirement laid down in the first subparagraph, point (a), GAEC standards 2 and 9 established under Chapter I, Section 2, of this Title.
+
+4\. Member States shall determine the payments to be made on the basis of the additional costs incurred and income foregone resulting from the commitments made, taking into account the targets set. Those payments shall be granted annually and may also cover transaction costs. In duly justified cases, Member States may grant support as a one-off payment per unit.
+
+5\. Member States may promote and support collective schemes and result-based payment schemes to encourage farmers or other beneficiaries to deliver a significant enhancement of the quality of the environment at a larger scale or in a measurable way.
+
+6\. Commitments shall be undertaken for a period of five to seven years.
+
+However, Member States may in their CAP Strategic Plans determine:
+
+(a) a longer period for particular types of commitment, including by means of providing for their annual extension after the termination of the initial period, where such longer period is necessary in order to achieve or maintain certain environmental or animal welfare benefits;
+
+(b) a shorter period of at least one year for animal welfare commitments, for commitments for the conservation, sustainable use and development of genetic resources, for conversion to organic farming, for new commitments directly following the commitment performed in the initial period or in other duly justified cases.
+
+7\. Member States shall ensure that a revision clause is provided for operations implemented under the type of intervention referred to in this Article in order to ensure their adjustment in consequence of amendments to the relevant mandatory standards, requirements or obligations referred to in paragraph 3 beyond which the commitments have to go or to ensure compliance with the first subparagraph, point (d), of that paragraph. If such adjustment is not accepted by the beneficiary, the commitment shall expire and no reimbursement of payments under this Article shall be required in respect of the period during which the commitment was effective.
+
+Member States shall also ensure that a revision clause is provided for operations implemented under the type of intervention referred to in this Article which extend beyond the CAP Strategic Plan period in order to allow for their adjustment to the legal framework applicable in the following period.
+
+8\. Where support under this Article is granted to agri-environment-climate commitments or commitments to convert to or maintain organic farming practices and methods as laid down in Regulation (EU) 2018/848, Member States shall establish a payment per hectare, or where appropriate, per beehive, as defined in the delegated act referred to in Article 56, point (b), of this Regulation. For other commitments, Member States may apply units other than hectares. In duly justified cases, Member States may grant support under this Article as a lump sum.
+
+By way of derogation from the first subparagraph of this paragraph, support for agri-environment-climate commitments beneficial for the climate and commitments to convert to or maintain organic farming practices and methods as laid down in Regulation (EU) 2018/848 may take the form of a payment for the livestock units.
+
+9\. Member States shall ensure that persons carrying out operations under this type of intervention have access to the relevant knowledge and information required to implement such operations, and that, in order to assist farmers who commit to change their production systems, appropriate training is made available for those who require it, as well as access to expertise.
+
+10\. Member States shall ensure that interventions under this Article are consistent with those based on Article 31.
+
+11\. Where a Member State has taken the decision referred to in Article 4(3), point (c), second subparagraph, it shall ensure that such decision does not affect ongoing multiannual commitments undertaken under this Article.
+
+###### Article 71 — Natural or other area-specific constraints
+
+1\. Member States may grant payments for natural or other area-specific constraints under the conditions set out in this Article and as further specified in their CAP Strategic Plans with the view of contributing to the achievement of one or more of the specific objectives set out in Article 6(1) and (2).
+
+2\. Payments under this Article shall be granted to active farmers in respect of areas designated pursuant to Article 32 of Regulation (EU) No 1305/2013.
+
+3\. Member States may carry out a fine-tuning exercise in accordance with the conditions provided for in Article 32(3), third subparagraph, of Regulation (EU) No 1305/2013.
+
+4\. Member States may grant payments under this Article only in order to compensate beneficiaries for all or part of the additional costs and income foregone related to the natural or other area-specific constraints in the area concerned.
+
+5\. Additional costs and income foregone as referred to in paragraph 4 shall be calculated in respect of natural or other area-specific constraints, in comparison to areas which are not affected by natural or other area-specific constraints.
+
+6\. Payments under this Article shall be granted annually per hectare of agricultural area.
+
+###### Article 72 — Area-specific disadvantages resulting from certain mandatory requirements
+
+1\. Member States may grant payments for area-specific disadvantages imposed by requirements resulting from the implementation of Directives 92/43/EEC, 2009/147/EC or 2000/60/EC under the conditions set out in this Article and as further specified in their CAP Strategic Plans with the view of contributing to the achievement of one or more of the specific objectives set out in Article 6(1) and (2).
+
+2\. Payments under this Article shall be granted to farmers, forest holders and their associations as well as other land managers.
+
+3\. When determining areas with disadvantages, Member States may include one or more of the following areas:
+
+(a) Natura 2000 agricultural and forest areas designated pursuant to Directives 92/43/EEC and 2009/147/EC;
+
+(b) other delimited nature protection areas with environmental restrictions applicable to farming or forestry which contribute to the implementation of Article 10 of Directive 92/43/EEC, provided that those areas do not exceed 5 % of the designated Natura 2000 areas covered by territorial scope of each CAP Strategic Plan;
+
+(c) agricultural areas included in river basin management plans pursuant to Directive 2000/60/EC.
+
+4\. Member States may only grant payments under this Article in order to compensate beneficiaries for all or part of the additional costs and income foregone related to the area-specific disadvantages in the area concerned, including transaction costs.
+
+5\. Additional costs and income foregone as referred to in paragraph 4 shall be calculated:
+
+(a) in respect of constraints arising from Directives 92/43/EEC and 2009/147/EC, in relation to disadvantages resulting from requirements that go beyond the relevant GAEC standards established under Chapter I, Section 2, of this Title as well as the conditions established for the maintenance of the agricultural area in accordance with Article 4(2) of this Regulation;
+
+(b) in respect of constraints arising from Directive 2000/60/EC, in relation to disadvantages resulting from requirements that go beyond the relevant statutory management requirements, with the exception of SMR 1 listed in Annex III to this Regulation, and GAEC standards established under Chapter I, Section 2, of this Title as well as the conditions established for the maintenance of the agricultural area in accordance with Article 4(2) of this Regulation.
+
+By way of derogation from the first subparagraph of this paragraph, Member States may decide to include in the calculation additional costs and income foregone in relation to disadvantages resulting from compliance with GAEC standard 2 established under Chapter I, Section 2, of this Title.
+
+6\. Payments under this Article shall be granted annually per hectare.
+
+###### Article 73 — Investments
+
+1\. Member States may grant support for investments under the conditions set out in this Article and as further specified in their CAP Strategic Plans.
+
+2\. Member States may only grant support under this Article for those investments in tangible and intangible assets that contribute to achieving one or more of the specific objectives set out in Article 6(1) and (2).
+
+For holdings above a certain size, to be determined by the Member States in their CAP Strategic Plans, support for the forestry sector shall be conditional on the presentation of the relevant information from a forest management plan or equivalent instrument in accordance with the sustainable management of forests as defined in the General Guidelines for the Sustainable Management of Forests in Europe, adopted at the Second Ministerial Conference on the Protection of Forests in Europe held in Helsinki on 16-17 June 1993.
+
+3\. Member States shall establish a list of ineligible investments and categories of expenditure, including at least the following:
+
+(a) purchase of agricultural production rights;
+
+(b) purchase of payment entitlements;
+
+(c) purchase of land for an amount exceeding 10 % of the total eligible expenditure for the operation concerned, with the exception of land purchase for environmental conservation and carbon-rich soil preservation or land purchased by young farmers through the use of financial instruments; in the case of financial instruments, that ceiling shall apply to the eligible public expenditure paid to the final recipient, or, in the case of guarantees, to the amount of the underlying loan;
+
+(d) purchase of animals, and purchase of annual plants and their planting. for a purpose other than:
+
+(i) restoring agricultural or forestry potential following natural disaster, adverse climatic events or catastrophic event;
+
+(ii) protecting livestock against large predators or being used in forestry instead of machinery;
+
+(iii) rearing endangered breeds as defined in Article 2, point (24), of Regulation (EU) 2016/1012 of the European Parliament and of the Council ( 15 ) under the commitments referred to in Article 70; or
+
+(iv) preserving plant varieties under threat of genetic erosion under the commitments referred to in Article 70; or
+
+(v) rearing of bovine, sheep or goat pure-bred animals of high genetic value for breeding to improve the quality and productivity of livestock herds or to preserve rare or local breeds;
+
+(e) interest rate on debt, except in relation to grants given in the form of an interest rate subsidy or guarantee fee subsidy;
+
+(f) investments in large-scale infrastructure, as determined by Member States in their CAP Strategic Plans, not being part of the community-led local development strategies set out in Article 32 of Regulation (EU) 2021/1060, except for broadband and flood or coastal protection preventive actions aimed at reducing the consequences of probable natural disasters, adverse climatic events or catastrophic events;
+
+(g) investments in afforestation which are not consistent with environmental and climate-related objectives in line with sustainable forest management principles, as developed in the Pan-European Guidelines for Afforestation and Reforestation.
+
+The first subparagraph, points (a), (b), (d) and (f), shall not apply where support is provided through financial instruments.
+
+4\. Member States shall limit the support to one or more rates not exceeding 65 % of the eligible costs.
+
+The maximum support rates may be increased:
+
+(a) up to 80 % for the following investments:
+
+(i) investments linked to one or more of the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i);
+
+(ii) investments by young farmers who fulfil the conditions provided for by Member States in their CAP Strategic Plans in accordance with Article 4(6);
+
+(iii) investments in the outermost regions or the smaller Aegean islands;
+
+(b) up to 85 % for investments of small farms, as determined by Member States;
+
+(c) up to 100 % for the following investments:
+
+(i) afforestation, establishment and regeneration of agro-forestry systems, land consolidation in forestry and non-productive investments linked to one or more of the specific objectives set out in Article 6(1), points (d), (e) and (f), including non-productive investments aimed at protecting livestock and crops against damage caused by wild animals;
+
+(ii) investments in basic services in rural areas and infrastructure in agriculture and forestry, as determined by Member States;
+
+(iii) investments in the restoration of agricultural or forestry potential following natural disasters, adverse climatic events or catastrophic events and investments in appropriate preventive actions, as well as investments in maintaining the health of forests;
+
+(iv) non-productive investments supported through community-led local development strategies set out in Article 32 of Regulation (EU) 2021/1060 and the projects of EIP operational groups as referred to in Article 127(3) of this Regulation.
+
+5\. Where Union law results in the imposition of new requirements on farmers, support for investments to comply with those requirements may be granted for a maximum of 36 months from the date on which they become mandatory for the holding.
+
+For young farmers setting up for the first time in an agricultural holding as head of the holding support for investments to comply with the requirements of Union law may be granted for a maximum of 36 months from the date of setting up, or until the actions defined in the business plan referred to in Article 75(3) are completed.
+
+###### Article 74 — Investments in irrigation
+
+1\. Member States may grant support for investments in irrigation in new and existing irrigated areas, provided that the conditions laid down in Article 73 and in this Article are fulfilled.
+
+2\. Investments in irrigation shall be supported only where the Member State concerned has sent to the Commission a river basin management plan as provided for in Directive 2000/60/EC for the entire area in which the investment is to take place, as well as for any other areas whose environment may be affected by the investment. The measures taking effect under the river basin management plan in accordance with Article 11 of that Directive and of relevance to the agricultural sector shall be specified in the relevant programme of measures.
+
+3\. Water metering enabling measurement of water use at the level of the supported investment shall be in place or shall be put in place as part of the investment.
+
+4\. Member States may grant support for an investment in an improvement to an existing irrigation installation or element of irrigation infrastructure only if:
+
+(a) it is assessed ex ante as offering potential water savings reflecting the technical parameters of the existing installation or infrastructure;
+
+(b) where the investment affects bodies of groundwater or surface water whose status has been identified as less than good in the relevant river basin management plan for reasons related to water quantity, an effective reduction in water use is achieved contributing to the achievement of good status of those water bodies, as laid down in Article 4(1) of Directive 2000/60/EC.
+
+Member States shall set percentages for potential water savings and effective reduction in water use as an eligibility condition in their CAP Strategic Plans in accordance with Article 111, point (d). Such water savings shall reflect the needs set out in the river basin management plans emanating from Directive 2000/60/EC listed in Annex XIII to this Regulation.
+
+None of the conditions in this paragraph shall apply to an investment in an existing installation which affects only energy efficiency, to an investment in the creation of a reservoir, or to an investment in the use of reclaimed water which does not affect a body of groundwater or surface water.
+
+5\. Member States may grant support for investments in the use of reclaimed water as an alternative water supply only if the provision and use of such water is compliant with Regulation (EU) 2020/741 of the European Parliament and of the Council ( 16 ).
+
+6\. Member States may grant support for an investment resulting in a net increase of the irrigated area affecting a given body of groundwater or surface water only if:
+
+(a) the status of the water body has not been identified as less than good in the relevant river basin management plan for reasons related to water quantity; and
+
+(b) an environmental impact analysis shows that there will be no significant negative environmental impact from the investment; that environmental impact analysis shall be either carried out or approved by the competent authority and may also refer to groups of holdings.
+
+7\. Member States may grant support for an investment in the creation or expansion of a reservoir for the purpose of irrigation only if it does not lead to significant negative environmental impact.
+
+8\. Member States shall limit the support to one or more rates not exceeding:
+
+(a) 80 % of the eligible costs for irrigation on-farm investments made under paragraph 4;
+
+(b) 100 % of the eligible costs for investments in off-farm infrastructure in agriculture to be used for irrigation;
+
+(c) 65 % of the eligible costs for other irrigation on-farm investments.
+
+###### Article 75 — Setting-up of young farmers and new farmers, rural business start-ups, and the business development of small farms
+
+1\. Member States may grant support for the setting-up of young farmers and the start-up of rural businesses, including the setting-up of new farmers, and for the business development of small farms under the conditions set out in this Article and as further specified in their CAP Strategic Plans with a view to contributing to the achievement of one or more of the specific objectives set out in Article 6(1) and (2).
+
+2\. Member States may only grant support under this Article to help:
+
+(a) the setting-up of young farmers who fulfil the conditions provided for by Member States in their CAP Strategic Plans in accordance with Article 4(6);
+
+(b) the start-up of rural businesses linked to agriculture or forestry including the setting up of new farmers, or farm household income diversification into non-agricultural activities;
+
+(c) the business start-up of non-agricultural activities in rural areas related to the community-led local development strategies set out in Article 32 of Regulation (EU) 2021/1060;
+
+(d) the business development of small farms, as determined by Member States pursuant to Article 73(4), second subparagraph, point (b).
+
+3\. Member States shall set conditions for the submission and the content of a business plan which beneficiaries must provide in order to receive support under this Article.
+
+4\. Member States shall grant support in the form of lump sums or financial instruments or a combination of both. Support shall be limited to:
+
+(a) a maximum amount of aid of EUR 100 000 for the activities referred to in paragraph 2, points (a), (b) and (c);
+
+(b) a maximum amount of aid of EUR 75 000 for the activities referred to in paragraph 2, point (d).
+
+Support may be differentiated in accordance with objective criteria.
+
+###### Article 76 — Risk management tools
+
+1\. Member States may grant support for risk management tools under the conditions set out in this Article and as further specified in their CAP Strategic Plans.
+
+2\. Support under this Article may be granted to promote risk management tools which help active farmers manage production and income risks related to their agricultural activity that are outside their control and which contribute to achieving one or more of the specific objectives set out in Article 6(1) and (2).
+
+3\. Member States may, in line with their assessment of needs, grant support for different types of risk management tool, including income stabilisation tools, and in particular:
+
+(a) financial contributions to premiums for insurance schemes;
+
+(b) financial contributions to mutual funds, including for the administrative cost of setting up.
+
+4\. When providing the support referred to in paragraph 3, Member States shall establish the following eligibility conditions:
+
+(a) the types and coverage of eligible risk management tools;
+
+(b) the methodology for the calculation of losses and triggering factors for compensation;
+
+(c) the rules for the constitution and management of the mutual funds and, where relevant, other eligible risk management tools.
+
+5\. Member States shall ensure that support is granted only for covering losses which exceed a threshold of at least 20 % of the average annual production or income of the farmer in the preceding three-year period, or a three-year average based on the preceding five-year period excluding the highest and lowest entry. Sectoral production risk management tools shall calculate the losses either at holding level, at the level of the holding’s activity in the sector concerned or in relation to the specific area insured.
+
+Where the calculation methods referred to in the first subparagraph are not appropriate, Member States may assess the losses on the basis of the average annual production or income of the farmer over a period that does not exceed eight years, excluding the highest and lowest entry.
+
+Member States may apply an appropriate alternative assessment for calculating the losses for young farmers and new farmers.
+
+Member States may provide support in the form of standalone working capital finance under financial instruments referred to in Article 80(3) for the compensation of losses referred to in the first subparagraph of this paragraph to farmers who do not participate in a risk management tool.
+
+6\. Member States shall limit the support to one or more rates not exceeding 70 % of the eligible costs.
+
+This paragraph shall not apply to the contributions referred to in Article 19.
+
+7\. Member States shall ensure that any overcompensation resulting from the combination of the interventions under this Article with other public or private risk management schemes is avoided.
+
+###### Article 77 — Cooperation
+
+1\. Member States may grant support for cooperation under the conditions set out in this Article and as further specified in their CAP Strategic Plans to:
+
+(a) prepare and implement the projects of the EIP operational groups referred to in Article 127(3);
+
+(b) prepare and implement LEADER;
+
+(c) promote and support quality schemes recognised by the Union or by the Member States and their use by farmers;
+
+(d) support producer groups, producer organisations or interbranch organisations;
+
+(e) prepare and implement smart-village strategies, as determined by Member States;
+
+(f) support other forms of cooperation.
+
+2\. Member States may only grant support under this Article to promote new forms of cooperation, including existing ones if starting a new activity. That cooperation shall involve at least two actors and shall contribute to achieving one or more of the specific objectives set out in Article 6(1) and (2).
+
+3\. Member States may cover under this Article the costs related to all aspects of the cooperation.
+
+4\. Member States may grant the support as an overall amount under this Article covering the costs of cooperation and the costs of the operations implemented, or they may cover only the costs of cooperation and use funds from other types of intervention for rural development, or from other national or Union support instruments, to cover the costs of the operations implemented.
+
+Where support is paid as an overall amount, Member States shall ensure that the operation implemented complies with the relevant rules and requirements laid down in Articles 70 to 76 and 78.
+
+In the case of LEADER, by way of derogation from the first subparagraph of this paragraph:
+
+(a) support for all costs eligible for preparatory support under Article 34(1), point (a), of Regulation (EU) 2021/1060 and for implementing selected strategies under points (b) and (c) of that paragraph shall only be granted as an overall amount under this Article; and
+
+(b) Member States shall ensure that implemented operations which consist of investments comply with the relevant Union rules and requirements under the type of intervention for investments laid down in Article 73 of this Regulation.
+
+5\. Member States shall not support under this Article cooperation solely involving research bodies.
+
+6\. In the case of cooperation in the context of farm succession, in particular for generational renewal at farm level, Member States may grant support only to farmers who have, or will have by the end of the operation, reached the retirement age determined by the Member State concerned in accordance with its national legislation.
+
+7\. Member States shall limit support to a maximum of seven years. That condition shall not apply to LEADER and in duly justified cases to collective environment and climate actions necessary to achieve the specific objectives set out in Article 6(1), points (d), (e) and (f).
+
+8\. Member States shall limit the support for:
+
+(a) information and promotion actions for quality schemes to one or more rates not exceeding 70 % of the eligible costs;
+
+(b) setting-up of producer groups, producer organisations or interbranch organisations to 10 % of the annual marketed production of the group or organisation, with a maximum of EUR 500 000 over the programming period ending on 31 December 2027; that support shall be degressive and limited to the first five years following recognition.
+
+###### Article 78 — Knowledge exchange and dissemination of information
+
+1\. Member States may grant support for knowledge exchange and dissemination of information under the conditions set out in this Article and as further detailed in their CAP Strategic Plans with a view to contributing to achieving one or more of the specific objectives set out in Article 6(1) and (2) while specifically targeting the protection of nature, environment and climate, including environmental education and awareness actions and the development of rural businesses and communities.
+
+2\. Support under this Article may cover the costs of any relevant action to promote innovation, training and advice and other forms of knowledge exchange and dissemination of information, including through the drawing up and updating of plans and studies with the aim of knowledge exchange and dissemination of information. Such actions shall contribute to achieving one or more of the specific objectives set out in Article 6(1) and (2).
+
+3\. Support for advisory services shall only be granted for advisory services that comply with Article 15(3).
+
+4\. For the setting up of advisory services, Member States may grant support in the form of a fixed amount of a maximum of EUR 200 000 . They shall ensure that support is limited in time.
+
+5\. Member States shall ensure that actions supported under this type of intervention are based on, and are consistent with, the description of the AKIS provided in their CAP Strategic Plans in accordance with Article 114, point (a)(i).
+
+###### Article 78a — Crisis payments to farmers following natural disasters, adverse climatic events or catastrophic events
+
+1\. Member States may provide crisis payments to active farmers that are affected by natural disasters, adverse climatic events or catastrophic events. Those payments shall aim at ensuring continuity of the agricultural activity of those farmers and shall be subject to the conditions set out in this Article and as further specified by the Member States in their CAP Strategic Plans.
+
+2\. Support under this Article shall be subject to the formal recognition by the competent authority of the Member State that a natural disaster, adverse climatic event or catastrophic event, as defined by the Member State, has occurred and that those events, or measures adopted in accordance with Regulation (EU) 2016/2031 to eradicate or contain a plant disease or pest, or measures adopted to prevent or eradicate animal diseases listed in the Annex to Commission Implementing Regulation (EU) 2018/1882 ( 17 ) or measures adopted regarding an emerging disease in accordance with Article 6(3) and Article 259 of Regulation (EU) 2016/429 have directly caused damage resulting in the destruction of at least 30 % of the average annual production of the farmer in the preceding three-year period or a three-year average based on the preceding five-year period, excluding the highest and the lowest entry. The losses shall be calculated either at holding level, at the level of the holding’s activity in the sector concerned or in relation to the specific area concerned.
+
+3\. Member States shall ensure that support under this Article targets farmers who are most affected by natural disasters, adverse climatic events or catastrophic events, by determining eligibility conditions on the basis of available evidence.
+
+4\. Member States shall establish the applicable support rates for compensating the loss of production. Those rates shall be higher for farmers who are covered by an insurance scheme or another risk management tool. Indexes may be used for calculating the loss of production.
+
+5\. When granting support under this Article, Member States shall ensure that overcompensation as a result of the combination of intervention under this Article with other national or Union support instruments or private insurance schemes is avoided.
+
+6\. By way of derogation from Article 111, first paragraph, points (h) and (i) of that paragraph shall not apply to support under this type of intervention.
+
+###### Article 78b — Support to farmers affected by the severe increase in fertiliser prices due to the Middle East crisis
+
+1\. Member States may provide exceptional temporary support to active farmers who are affected by the severe increase in fertiliser prices. Any such support provided shall be subject to the conditions set out in this Article and further specified by the Member States in their CAP Strategic Plans.
+
+2\. Member States shall ensure that the support under this Article targets those farmers who are most affected by the severe increase in fertiliser prices. They shall do so by determining eligibility conditions on the basis of available evidence.
+
+3\. The support under this Article shall cover a part of the additional costs of fertilisers caused by market developments resulting from the Middle East crisis in the period starting on 1 March 2026. The additional costs shall be calculated as the difference between a representative price for fertilisers and a benchmark price for fertilisers. Member States shall, on the basis of reasonable assumptions, define the benchmark price based on the average price for fertilisers over at least three consecutive months in the period between 1 January 2025 and 28 February 2026, and the representative price based on the price for fertilisers during a period determined by the Member State, which shall not start before 1 March 2026. The support under this Article shall take the form of a unit cost per hectare calculated on the basis of the average annual consumption of fertilisers per area, differentiated by sectors or production systems. Alternatively, Member States may base the support under this Article on the actual costs incurred by each beneficiary, using the same benchmark price as described in this paragraph.
+
+4\. Member States shall establish the applicable support rates covering up to 50 % of the additional costs for fertilisers. Those rates may be increased up to a maximum of 80 % for farmers who are subject to commitments referred to in Articles 31 and 70, or requirements referred to in Article 72, to reduce the use of fertilisers. For financial instruments in the form of a standalone working capital, Article 80(4) shall apply.
+
+5\. Member States shall set a maximum amount of support per beneficiary or a maximum number of hectares in respect of which support can be received per beneficiary.
+
+6\. The support under this Article shall be paid to the farmer by 30 June 2027.
+
+7\. Member States shall ensure that farmers receiving support under this Article have access to the relevant knowledge and information to enable them to optimise the sustainable use of fertilisers.
+
+8\. When granting support under this Article, Member States shall ensure that overcompensation as a result of the combination of intervention under this Article with other national or Union support instruments is avoided.
+
+#### Section 2 — Elements applying to several types of intervention
+
+###### Article 79 — Selection of operations
+
+1\. After consulting the monitoring committee referred to in Article 124 (‘the monitoring committee’), the national managing authority, the regional managing authorities where relevant, or the designated intermediate bodies shall set out selection criteria for interventions under the following types of intervention: investments, setting-up of young farmers and new farmers, rural business start-ups and business development of small farms, cooperation, knowledge exchange and dissemination of information. Those selection criteria shall aim to ensure the equal treatment of applicants, the better use of financial resources and the targeting of the support in accordance with the purpose of the interventions.
+
+Member States may decide not to apply selection criteria for investment interventions clearly targeting environmental purposes or carried out in connection with restoration activities.
+
+By way of derogation from the first subparagraph, a different selection method may be established in duly justified cases after consultation of the monitoring committee.
+
+2\. The responsibility of the managing authorities or designated intermediate bodies set out in paragraph 1 shall be without prejudice to the tasks of the local action groups referred to in Article 33 of Regulation (EU) 2021/1060.
+
+3\. Paragraph 1 shall not apply where support is provided in the form of financial instruments.
+
+4\. Member States may decide not to apply the selection criteria referred to in paragraph 1 to operations that have received a Seal of Excellence certification under Horizon 2020, established by Regulation (EU) No 1291/2013 of the European Parliament and of the Council ( 18 ), under Horizon Europe or under the Programme for the Environment and Climate Action (LIFE), established by Regulation (EU) 2021/783 of the European Parliament and of the Council ( 19 ), provided that those operations are consistent with the CAP Strategic Plan.
+
+5\. All or part of an operation may be implemented outside the Member State concerned, including outside the Union, provided that the operation contributes to the achievement of the objectives of the CAP Strategic Plan.
+
+###### Article 80 — Specific rules for financial instruments
+
+1\. Support in the form of financial instruments referred to in Article 58 of Regulation (EU) 2021/1060 may be granted under the types of intervention referred to in Articles 73 to 78 and 78b of this Regulation.
+
+2\. Where support is granted in the form of financial instruments, the definitions of ‘financial instrument’, ‘financial product’, ‘final recipient’, ‘holding fund’, ‘specific fund’, ‘leverage effect’, ‘multiplier ratio’, ‘management costs’ and ‘management fees’ in Article 2 of Regulation (EU) 2021/1060 and the provisions of Title V, Chapter II, Section II of that Regulation and of point II of Annex XIII thereto shall apply.
+
+In addition, paragraphs 3, 4 and 5 of this Article shall apply.
+
+3\. In accordance with Article 58(2) of Regulation (EU) 2021/1060, working capital, including standalone working capital, may be eligible expenditure under Articles 73, 74, 76, 77, 78 and 78b of this Regulation if it contributes to the achievement of at least one specific objective relevant for the intervention concerned. Support for standalone working capital finance under any of those Articles may be provided without being subject to the requirement that the final recipient receives support for other expenditure under the same Article.
+
+For activities falling within the scope of Article 42 TFEU, the total amount of support for working capital provided to a final recipient shall not exceed a gross grant equivalent of EUR 300 000 over any period of three years.
+
+4\. By way of derogation from Articles 73, 74, 76, 77, 78 and 78b, the support rates laid down in those Articles shall not apply to standalone working capital finance.
+
+5\. Eligible expenditure of a financial instrument shall be the total amount of eligible public expenditure paid, excluding additional national financing as referred to in Article 115(5), or, in the case of guarantees, set aside for guarantee contracts by the financial instrument within the eligibility period. That amount shall correspond to:
+
+(a) payments to final recipients, in the case of loans, equity and quasi-equity investments;
+
+(b) resources set aside for guarantee contracts, whether outstanding or having already come to maturity, in order to honour possible guarantee calls for losses, calculated on the basis of a multiplier ratio established for the respective underlying disbursed new loans or equity investments in final recipients;
+
+(c) payments to, or for the benefit of, final recipients where financial instruments are combined with other Union contributions in a single financial instrument operation in accordance with Article 58(5) of Regulation (EU) 2021/1060;
+
+(d) payments of management fees and reimbursements of management costs incurred by the bodies implementing the financial instrument.
+
+Where a financial instrument is implemented across consecutive programming periods, support may be provided to, or for the benefit of, final recipients, including management costs and fees, based on agreements made under the previous programming period, provided that such support complies with the eligibility rules of the subsequent programming period. In such cases, the eligibility of expenditure submitted in the declarations of expenditure shall be determined in accordance with the rules of the programming period concerned.
+
+For the purposes of the first subparagraph, point (b), if the entity benefitting from the guarantees has not disbursed the planned amount of new loans, equity or quasi-equity investments to final recipients in accordance with the multiplier ratio, the eligible expenditure shall be reduced proportionally. The multiplier ratio may be reviewed where justified by subsequent changes in market conditions. Such a review shall not have retroactive effect.
+
+For the purposes of the first subparagraph, point (d), of this paragraph, management fees shall be performance-based. Where bodies implementing a holding fund are selected through a direct award of contract pursuant to Article 59(3) of Regulation (EU) 2021/1060, the amount of management cost and fees paid to those bodies that can be declared as eligible expenditure shall be subject to a threshold of up to 5 % of the total amount of eligible public expenditure disbursed to final recipients in loans or set aside for guarantee contracts and up to 7 % of the total amount of eligible public expenditure disbursed to final recipients in equity and quasi-equity investments.
+
+Where bodies implementing a specific fund are selected through a direct award of contract pursuant to Article 59(3) of Regulation (EU) 2021/1060, the amount of management cost and fees paid to those bodies that can be declared as eligible expenditure shall be subject to a threshold of up to 7 % of the total amount of the eligible public expenditure disbursed to final recipients in loans or set aside for guarantee contracts and up to 15 % of the total amount of eligible public expenditure disbursed to final recipients in equity or quasi-equity investments.
+
+For the purposes of the first subparagraph, point (d), where bodies implementing a holding fund or specific funds are selected through a competitive tender in accordance with the applicable law, the amount of management costs and fees shall be established in the funding agreement and shall reflect the result of the competitive tender.
+
+Where arrangement fees, or any part thereof, are charged to final recipients, they shall not be declared as eligible expenditure.
+
+Value-added tax (VAT) shall be eligible expenditure as regards investments made by final recipients in the context of financial instruments. Where those investments are supported by financial instruments combined with programme support in the form of a grant as referred to in Article 58(5) of Regulation (EU) 2021/1060, the VAT shall not be eligible expenditure for the part of the investment cost which corresponds to the programme support in the form of a grant, unless the VAT for the investment cost is non-recoverable under national VAT legislation.
+
+###### Article 81 — Use of the EAFRD delivered through InvestEU
+
+1\. Member States may allocate, in the proposal for a CAP Strategic Plan referred to in Article 118 or in the request for amendment of a CAP Strategic Plan referred to in Article 119, an amount of up to 3 % of the initial EAFRD allocation to the CAP Strategic Plan to be contributed to InvestEU and delivered through the EU guarantee or the InvestEU financial instrument referred to in Article 10a of Regulation (EU) 2021/523 and the InvestEU Advisory Hub. The CAP Strategic Plan shall contain a justification for the use of InvestEU and its contribution to the achievement of one or more of the specific objectives set out in Article 6(1) and (2) of this Regulation and chosen under the CAP Strategic Plan.
+
+The amount contributed to InvestEU shall be implemented in accordance with the rules established in Regulation (EU) 2021/523.
+
+2\. Member States shall determine the total amount contributed for each year. In the case of a request for an amendment of a CAP Strategic Plan, those amounts shall concern only future years.
+
+3\. The amount referred to in paragraph 1 of this Article shall be used for the provisioning of the part of the EU guarantee or for the funding provided under the InvestEU financial instrument under the Member State compartment and for the InvestEU Advisory Hub, upon conclusion of the contribution agreement referred to in Article 10(3) or Article 10a(3) of Regulation (EU) 2021/523. The budgetary commitments of the Union in respect of each contribution agreement may be made by the Commission in annual instalments during the period between 1 January 2023 and 31 December 2027.
+
+4\. Where a contribution agreement as referred to in Article 10(2) or Article 10a(2) of Regulation (EU) 2021/523 for the amount referred to in paragraph 1 of this Article allocated in the CAP Strategic Plan has not been concluded following the adoption of the Commission implementing decision approving that CAP Strategic Plan in accordance with Article 118 of this Regulation, the corresponding amount shall be reallocated in the CAP Strategic Plan following the approval of a request for amendment by the Member State submitted in accordance with Article 119 of this Regulation.
+
+A contribution agreement for the amount referred to in paragraph 1 of this Article allocated in a request for amendment of a CAP Strategic Plan submitted in accordance with Article 119 of this Regulation shall be concluded simultaneously with the adoption of the Commission implementing decision approving that amendment of the CAP Strategic Plan.
+
+5\. Where a guarantee agreement as referred to in Article 10(4), second subparagraph, or in Article 10a(4), second subparagraph, of Regulation (EU) 2021/523 has not been concluded within 12 months from the approval of the contribution agreement, the contribution agreement shall be terminated or prolonged by mutual agreement.
+
+Where the participation of a Member State in InvestEU is discontinued, the amounts concerned paid into the common provisioning fund as provisioning or allocated under the InvestEU financial instrument shall be recovered as internal assigned revenue pursuant to Article 21(5) of the Financial Regulation and the Member State shall submit a request for amendment of its CAP Strategic Plan to use the amounts recovered and the amounts allocated to future calendar years in accordance with paragraph 2 of this Article.
+
+The termination or amendment of the contribution agreement shall be concluded simultaneously with the adoption of a Commission implementing decision approving the relevant amendment of the CAP Strategic Plan and at the latest on 31 December 2026.
+
+6\. Where a guarantee agreement as referred to in Article 10(4), third subparagraph, or in Article 10a(4), third subparagraph, of Regulation (EU) 2021/523 has not been duly implemented within the period agreed in the contribution agreement, but not exceeding four years from the signature of the guarantee agreement, the contribution agreement shall be amended. The Member State may request that amounts contributed to the EU guarantee or to the InvestEU financial instrument under paragraph 1 of this Article and committed in the guarantee agreement but not covering underlying loans, equity investments or other risk-bearing instruments are treated in accordance with paragraph 5 of this Article.
+
+7\. Resources generated by or attributable to the amounts contributed to the EU guarantee in accordance with this Article shall be made available to the Member State in accordance with Article 10(5), point (a), of Regulation (EU) 2021/523 and shall be used for support under the same objective or objectives referred to in paragraph 1 of this Article in the form of financial instruments or budgetary guarantees. Resources generated by or attributable to the amounts contributed to the InvestEU financial instrument in accordance with this Article shall be made available to the Member State in accordance with the contribution agreement and shall be used for support under the same objective or objectives in the form of financial instruments or budgetary guarantees.
+
+8\. The automatic decommitment time limit as provided for in Article 34 of Regulation (EU) 2021/2116 for the amounts to be reused in a CAP Strategic Plan in accordance with paragraphs 4, 5 and 6 of this Article shall start in the year in which the corresponding budgetary commitments are made.
+
+###### Article 82 — Adequacy and accuracy of payment calculation
+
+Where payments are granted on the basis of additional costs and income foregone in accordance with Articles 70, 71 and 72, Member States shall ensure that the relevant calculations are adequate and accurate and established in advance on the basis of a fair, equitable and verifiable calculation method. To that end, bodies that are functionally independent from the authorities responsible for the implementation of the CAP Strategic Plan and possess the appropriate expertise shall perform the calculations or confirm the adequacy and accuracy of the calculations.
+
+###### Article 83 — Forms of grants
+
+1\. Without prejudice to Articles 70, 71, 72 and 75, the grants under this Chapter may take any of the following forms:
+
+(a) reimbursement of eligible costs actually incurred by a beneficiary;
+
+(b) unit costs;
+
+(c) lump sums;
+
+(d) flat-rate financing.
+
+2\. The amounts for the forms of grants referred to in paragraph 1, points (b), (c) and (d), shall be established in one of the following ways:
+
+(a) a fair, equitable and verifiable calculation method based on:
+
+(i) statistical data, other objective information or an expert judgement;
+
+(ii) verified historical data of individual beneficiaries; or
+
+(iii) the application of usual cost accounting practices of individual beneficiaries;
+
+(b) draft budgets established on a case-by-case basis and agreed ex ante by the body selecting the operation;
+
+(ba) in accordance with the calculation methods established pursuant to Article 54, Article 55 and Article 56(1) and (3) of Regulation (EU) 2021/1060;
+
+(c) in accordance with the rules for application of corresponding unit costs, lump sums and flat rates applicable in Union policies for a similar type of operation;
+
+(d) in accordance with the rules for application of corresponding unit costs, lump sums and flat rates applied under schemes for grants funded entirely by the Member State for a similar type of operation.
+
+3\. Member States may provide to beneficiaries grants under conditions which are fully or partially repayable as specified in the document setting out the conditions for support and in accordance with the following conditions:
+
+(a) repayments by the beneficiary shall be made under the conditions agreed by the managing authority and the beneficiary;
+
+(b) Member States shall reuse resources paid back by the beneficiary for the same specific objective of the CAP Strategic Plan by 31 December 2029 either in the form of grants under conditions, in the form of a financial instrument or in another form of support; the amounts paid back and information about their reuse shall be included in the last annual performance report;
+
+(c) Member States shall adopt the necessary measures to ensure that the resources are kept in separate accounts or under appropriate accounting codes;
+
+(d) Union resources paid back by beneficiaries at any time but not reused by 31 December 2029 shall be repaid to the Union budget in accordance with Article 34 of Regulation (EU) 2021/2116.
+
+###### Article 84 — Delegated powers for additional requirements for types of intervention for rural development
+
+The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with requirements additional to those laid down in this Chapter concerning the conditions for granting support for the:
+
+(a) management commitments referred to in Article 70 concerning genetic resources and animal welfare;
+
+(b) quality schemes referred to in Article 77 as regards the specificity of the final product, the access to the scheme, the verification of binding product specifications, the transparency of the scheme and the traceability of the products, as well as the recognition by Member States of voluntary certification schemes.
+
+## TITLE IV — FINANCIAL PROVISIONS
+
+###### Article 85 — EAGF and EAFRD expenditure
+
+1\. The EAGF shall finance the types of intervention related to:
+
+(a) direct payments laid down in Article 16;
+
+(b) interventions in certain sectors laid down in Title III, Chapter III.
+
+2\. The EAFRD shall finance the types of intervention referred to in Title III, Chapter IV, and technical assistance at the initiative of the Member States referred to in Article 94.
+
+###### Article 86 — Eligibility of expenditure
+
+1\. Expenditure shall be eligible:
+
+(a) for a contribution from the EAGF from 1 January of the year following the year of the approval of the CAP Strategic Plan by the Commission;
+
+(b) for a contribution from the EAFRD from the date of submission of the CAP Strategic Plan, but not before 1 January 2023.
+
+2\. Expenditure that becomes eligible as a result of an amendment of a CAP Strategic Plan shall be eligible for a contribution from the EAGF from the date of effect of the amendment set by the Member State concerned in accordance with Article 119(8), but not earlier than from the date of submission to the Commission of the request for amendment or from the date of submission to the Commission of notification referred to in Article 119(9).
+
+3\. Expenditure that becomes eligible as a result of an amendment of a CAP Strategic Plan shall be eligible for a contribution from the EAFRD from the date of submission to the Commission of the request for amendment, or from the date of notification referred to in Article 119(9).
+
+By way of derogation from the first subparagraph of this paragraph and from paragraph 4, second subparagraph, of this Article the CAP Strategic Plan may provide that, in cases of emergency measures due to natural disasters, catastrophic events or adverse climatic events or a significant and sudden change in the socioeconomic conditions of the Member State or region, the eligibility of EAFRD-financed expenditure relating to amendments to the CAP Strategic Plan may start from the date on which the event occurred.
+
+By way of derogation from the first subparagraph of this paragraph, the CAP Strategic Plan may provide that, in the cases of a type of intervention pursuant to Article 78b, the eligibility of EAFRD-financed expenditure relating to amendments to the CAP Strategic Plan may start before the date of submission to the Commission of the request for amendment but not before 22 July 2026.
+
+4\. Expenditure shall be eligible for a contribution from the EAFRD if it has been incurred by a beneficiary and paid by 31 December 2029. In addition, expenditure shall be eligible for a contribution from the EAFRD only if the relevant aid is actually paid by the paying agency by 31 December 2029.
+
+Member States shall set the starting date of eligibility of costs incurred by the beneficiary. The starting date shall not be before 1 January 2023.
+
+Operations shall not be eligible for support where they have been physically completed or fully implemented before the application for support is submitted to the managing authority, irrespective of whether all related payments have been made.
+
+However, operations relating to early tending of seedling stands and tending of young stands in accordance with sustainable forest management principles and addressing one or more of the specific objectives set out in Article 6(1), points (d), (e) and (f), as defined by the Member State, may be eligible for support even if they had been physically completed before the application for support is submitted to the managing authority.
+
+5\. Contributions in kind and depreciation costs may be eligible for support under the EAFRD, subject to conditions to be set by the Member States.
+
+###### Article 87 — Financial allocations for types of intervention in the form of direct payments
+
+1\. Without prejudice to Article 17 of Regulation (EU) 2021/2116, the total amount for types of intervention in the form of direct payments which may be granted in a Member State pursuant to Title III, Chapter II, of this Regulation in respect of a calendar year shall not exceed the financial allocation of that Member State set out in Annex V.
+
+Without prejudice to Article 17 of Regulation (EU) 2021/2116, the maximum amount which may be granted in a Member State, in a calendar year, pursuant to Title III, Chapter II, Section 3, Subsection 2, of this Regulation and before the application of Article 17 of this Regulation, shall not exceed the financial allocation of that Member State set out in Annex VIII.
+
+For the purpose of Articles 96, 97 and 98, the financial allocation of a Member State set out in Annex V after deduction of the amounts set out in Annex VIII and before any transfers pursuant to Article 17 is set out in Annex IX.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 152 amending the Member States’ allocations set out in Annexes V and IX to take account of the developments relating to the total maximum amount of direct payments that may be granted, including the transfers referred to in Articles 17 and 103, the adjustment of the direct payments allocations referred to in Article 103a, the transfers of financial allocations referred to in Article 88(5) and any deductions needed to finance types of intervention in other sectors referred to in Article 88(6).
+
+However, the adaptation of Annex IX shall not take into account any transfers in accordance with Article 17.
+
+3\. The amount of the indicative financial allocations per intervention referred to in Article 101 for the types of intervention in the form of direct payments laid down in Article 16 to be granted in a Member State in respect of a calendar year may exceed the allocation of that Member State set out in Annex V by the estimated amount of reduction of payments taken up in the CAP Strategic Plan in accordance with Article 112(3), point (a), second subparagraph.
+
+###### Article 88 — Financial allocations for certain types of intervention in certain sectors
+
+1\. The Union financial assistance for types of intervention in the wine sector is allocated to Member States as set out in Annex VII.
+
+2\. The Union financial assistance for types of intervention in the apiculture sector is allocated to Member States as set out in Annex X.
+
+3\. The Union financial assistance for types of intervention in the hops sector allocated to Germany shall be EUR 2 188 000 per financial year.
+
+4\. The Union financial assistance for types of intervention in the olive oil and table olives sector, per financial year, is allocated as follows:
+
+(a) EUR 10 666 000 for Greece;
+
+(b) EUR 554 000 for France; and
+
+(c) EUR 34 590 000 for Italy.
+
+5\. The Member States concerned may decide in their CAP Strategic Plans to transfer the total financial allocations referred to in paragraphs 3 and 4 to their allocations for direct payments. That decision may not be reviewed.
+
+The Member States’ financial allocations transferred to allocations for direct payments shall no longer be available for the types of intervention referred to in paragraphs 3 and 4.
+
+6\. Member States may decide in their CAP Strategic Plans to use up to 3 % of their allocations for direct payments set out in Annex V, where relevant after deduction of the allocations for cotton set in Annex VIII, for types of intervention in other sectors referred to in Title III, Chapter III, Section 7.
+
+Member States may decide to increase the percentage referred to in the first subparagraph up to 5 %. In that case, the amount corresponding to that increase shall be deducted from the maximum set in Article 96(1), (2) or (5) and shall no longer be available for allocation to coupled income support interventions referred to in Title III, Chapter II, Section 3, Subsection 1.
+
+The amount corresponding to the percentage of Member States’ allocations for direct payments referred to in the first and second subparagraphs of this paragraph and used for types of intervention in other sectors for a certain financial year shall be considered to be Member States’ allocations per financial year for types of intervention in other sectors.
+
+7\. From 1 January 2025, Member States may review their decisions referred to in paragraph 6 of this Article as part of a request to amend their CAP Strategic Plans made in accordance with Article 119 and may decide to use up to 6 % of their allocations for direct payments set out in Annex V, where relevant, after deduction of the allocations for cotton set in Annex VIII, for types of intervention in other sectors referred to in Title III, Chapter III, Section 7.
+
+The amount corresponding to the percentage of Member States’ allocations for direct payments referred to in the first subparagraph of this paragraph and used for types of intervention in other sectors for a certain financial year shall be considered to be Member States’ allocations per financial year for types of intervention in other sectors.
+
+8\. The amounts set out in the approved CAP Strategic Plan resulting from the application of paragraphs 6 and 7 shall be binding in the Member State concerned.
+
+###### Article 89 — Financial allocations for types of intervention for rural development
+
+1\. The total amount of Union support for types of intervention for rural development under this Regulation for the period from 1 January 2023 to 31 December 2027 shall be EUR 60 544 439 600 in current prices in accordance with the multiannual financial framework for the years 2021 to 2027 set out in Regulation (EU, Euratom) 2020/2093.
+
+2\. 0,25 % of the resources referred to in paragraph 1 shall be devoted to finance the activities of technical assistance on the initiative of the Commission referred to in Article 7 of Regulation (EU) 2021/2116, including the European CAP network referred to in Article 126(2) of this Regulation and the EIP referred to in Article 127 of this Regulation. Those activities may concern previous programming periods and subsequent CAP Strategic Plan periods.
+
+3\. The annual breakdown by Member State of the amounts referred to in paragraph 1, after deduction of the amount referred to in paragraph 2, is set out in Annex XI.
+
+4\. The Commission is empowered to adopt delegated acts in accordance with Article 152 amending Annex XI to review the annual breakdown by Member State to take account of relevant developments, including the transfers referred to in Articles 17 and 103, to make technical adjustments without changing the overall allocations, or to take account of any other change provided for by a legislative act after the adoption of this Regulation.
+
+###### Article 90 — EAFRD contribution
+
+The Commission implementing decision approving a CAP Strategic Plan pursuant to Article 118(6) shall set the maximum contribution from the EAFRD to the plan. The EAFRD contribution shall be calculated on the basis of the amount of eligible public expenditure, excluding additional national financing referred to in Article 115(5).
+
+###### Article 91 — EAFRD contribution rates
+
+1\. The CAP Strategic Plans shall establish, at regional or national level, a single EAFRD contribution rate applicable to all interventions.
+
+2\. By way of derogation from paragraph 1, the maximum EAFRD contribution rate shall be:
+
+(a) 85 % of the eligible public expenditure in less developed regions;
+
+(b) 80 % of the eligible public expenditure in the outermost regions and in the smaller Aegean islands;
+
+(c) 60 % of the eligible public expenditure in transition regions within the meaning of Article 108(2), first subparagraph, point (b), of Regulation (EU) 2021/1060;
+
+(d) 43 % of the eligible public expenditure in the other regions.
+
+3\. By way of derogation from paragraphs 1 and 2, the maximum EAFRD contribution rate shall, if the rate set in the CAP Strategic Plan in accordance with paragraph 2 is lower, be:
+
+(a) 65 % of the eligible public expenditure for payments for natural or other area-specific constraints under Article 71 and for support under Article 78b;
+
+(b) 80 % of the eligible public expenditure for payments under Article 70, for payments under Article 72, for support for non-productive investments referred to in Article 73, for support for the projects of the EIP operational groups under Article 77(1), point (a), and for LEADER under Article 77(1), point (b);
+
+(c) 100 % of the eligible public expenditure for operations receiving funding from funds transferred to the EAFRD in accordance with Articles 17 and 103.
+
+4\. The minimum EAFRD contribution rate shall be 20 % of the eligible public expenditure.
+
+5\. The eligible public expenditure referred to in paragraphs 2, 3 and 4 shall exclude the additional national financing referred to in Article 115(5).
+
+###### Article 92 — Minimum financial allocations for LEADER
+
+1\. At least 5 % of the total EAFRD contribution to the CAP Strategic Plan set out in Annex XI shall be reserved for LEADER.
+
+2\. For the entire period of the CAP Strategic Plan, the total EAFRD expenditure for rural development other than for LEADER as established in the financial plan in accordance with Article 112(2), point (a), shall not exceed 95 % of the total EAFRD contribution to the CAP Strategic Plan set out in Annex XI. That financial ceiling, once approved by the Commission in accordance with Article 118 or Article 119, shall constitute a financial ceiling set by Union law.
+
+###### Article 93 — Minimum financial allocations for interventions addressing environmental and climate-related specific objectives
+
+1\. At least 35 % of the total EAFRD contribution to the CAP Strategic Plan as set out in Annex XI shall be reserved for the interventions addressing the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i).
+
+2\. For the purpose of determining the contribution towards the percentage set out in paragraph 1, Member States shall include expenditure for the following interventions:
+
+(a) 100 % for management commitments referred to in Article 70;
+
+(b) 50 % for natural or other area-specific constraints referred to in Article 71;
+
+(c) 100 % for area-specific disadvantages referred to in Article 72;
+
+(d) 100 % for investments under Articles 73 and 74 linked to one or more of the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i).
+
+3\. For the entire period of the CAP Strategic Plan, the total EAFRD expenditure for rural development other than for the interventions referred to in paragraph 2 of this Article, as established in the financial plan in accordance with Article 112(2), point (a), shall not exceed 65 % of the total EAFRD contribution to the CAP Strategic Plan as set out in Annex XI. That financial ceiling, once approved by the Commission in accordance with Article 118 or Article 119, shall constitute a financial ceiling set by Union law.
+
+4\. This Article shall not apply to expenditure for the outermost regions.
+
+###### Article 94 — Maximum financial allocations for technical assistance
+
+1\. A maximum of 4 % of the total EAFRD contribution to the CAP Strategic Plan as set out in Annex XI may be used to finance the actions of technical assistance at the initiative of the Member States referred to in Article 125.
+
+The EAFRD contribution may be increased to 6 % for CAP Strategic Plans where the total amount of Union support for rural development is up to EUR 1,1 billion.
+
+2\. Technical assistance shall be reimbursed as a flat-rate financing in accordance with Article 125(1), point (e), of the Financial Regulation in the framework of interim payments pursuant to Article 32 of Regulation (EU) 2021/2116. That flat rate shall represent the percentage set in the CAP Strategic Plan for technical assistance of the total expenditure declared.
+
+###### Article 95 — Minimum financial allocations for support for young farmers
+
+1\. For each Member State the minimum amount set out in Annex XII shall be reserved for contributing to the achievement of the specific objective set out in Article 6(1), point (g). On the basis of the analysis of the situation in terms of strengths, weaknesses, opportunities and threats (‘the SWOT analysis’) and the identification of the needs that are to be addressed, the amount shall be used for either or both of the following types of intervention:
+
+(a) the complementary income support for young farmers laid down in Article 30;
+
+(b) the setting-up of young farmers referred to in Article 75(2), point (a).
+
+2\. In addition to the types of intervention referred to in paragraph 1 of this Article, Member States may use the minimum amount referred to in that paragraph for investment interventions for young farmers referred to in Article 73, provided that a higher support rate in accordance with Article 73(4), second subparagraph, point (a)(ii), is applied. When that possibility is used, a maximum of 50 % of the expenditure for investments referred to in the first sentence shall be counted against the minimum amount to be reserved.
+
+3\. For each calendar year, the total expenditure for types of intervention in the form of direct payments other than the complementary income support for young farmers laid down in Article 30 shall not exceed the financial allocation for direct payments for the relevant calendar year as laid down in Annex V, reduced by the part of Annex XII reserved under the complementary income support for young farmers for the relevant calendar year, as established by Member States in their financial plans in accordance with Article 112(2), point (a), and approved by the Commission in accordance with Article 118 or Article 119. That financial ceiling shall constitute a financial ceiling set by Union law.
+
+4\. For the entire period of the CAP plan, the total EAFRD expenditure for rural development other than for the setting-up of young farmers referred to in Article 75(2), point (a), shall not exceed the total EAFRD contribution to the CAP Strategic Plan as set out in Annex XI, reduced by the part of Annex XII reserved for the setting-up of young farmers referred to in Article 75(2), point (a), for the entire CAP Strategic Plan period, as established by Member States in their financial plans in accordance with Article 112(2), point (a), and approved by the Commission in accordance with Article 118 or Article 119. That financial ceiling shall constitute a financial ceiling set by Union law.
+
+5\. Where a Member State decides to use the possibility provided for in paragraph 2 of this Article, the share of expenditure for investment interventions for young farmers with a higher support rate in accordance with Article 73(4), second subparagraph, point (a)(ii), not exceeding 50 % as established by that Member State in its financial plan in accordance with Article 112(2), point (a), and approved by the Commission in accordance with Article 118 or Article 119, shall be counted for the establishment of the financial ceiling referred to in paragraph 4 of this Article.
+
+###### Article 96 — Maximum financial allocations for coupled income support
+
+1\. The indicative financial allocations for the coupled income support interventions referred to in Title III, Chapter II, Section 3, Subsection 1, shall be limited to a maximum of 13 % of the amounts set out in Annex IX.
+
+2\. By way of derogation from paragraph 1, Member States that, in accordance with Article 53(4) of Regulation (EU) No 1307/2013, used for the purpose of voluntary coupled support more than 13 % of their annual national ceiling set out in Annex II to that Regulation may decide to use for the purpose of coupled income support more than 13 % of the amount set out in Annex IX to this Regulation. The resulting percentage shall not exceed the percentage approved by the Commission for voluntary coupled support in respect of claim year 2018.
+
+3\. The percentage referred to in paragraph 1 may be increased by a maximum of 2 percentage points, provided that the amount corresponding to the percentage exceeding the 13 % is allocated to the support for protein crops under Title III, Chapter II, Section 3, Subsection 1.
+
+4\. The amount included in the approved CAP Strategic Plan resulting from the application of paragraphs 1, 2 and 3 may not be exceeded.
+
+5\. By way of derogation from paragraphs 1 and 2, Member States may choose to use up to EUR 3 million per year for financing coupled income support.
+
+6\. Without prejudice to Article 17 of Regulation (EU) 2021/2116, the maximum amount which may be granted in a Member State before the application of Article 17 of this Regulation pursuant Title III, Chapter II, Section 3, Subsection 1, of this Regulation in respect of a calendar year shall not exceed the amounts fixed in the CAP Strategic Plan in accordance with this Article.
+
+###### Article 96a — Maximum financial allocations for crisis payments to farmers referred to in Article 78a and support to farmers referred to in Article 78b
+
+1\. The maximum amount for each Member State that may be reserved for crisis payments to farmers following natural disasters, adverse climatic events or catastrophic events referred to in Article 78a and for support to farmers affected by the severe increase in fertiliser prices due to the Middle East crisis referred to in Article 78b shall be limited to the annual amounts set out in Annex XV.
+
+2\. A maximum of 25 % of the annual amounts set out in Annex XV may be reserved to finance the support to farmers referred to in Article 78b.
+
+3\. The total EAFRD expenditure for the crisis payments referred to in Article 78a and for the support referred to in Article 78b shall not exceed the sum of the indicative financial allocations for these types of intervention for financial years 2026 and 2027, as established by Member States in their financial plans in accordance with Article 112(2), point (a), and approved by the Commission in accordance with Article 119. That financial ceiling shall constitute a financial ceiling set by Union law.
+
+###### Article 97 — Minimum financial allocations for eco-schemes
+
+1\. At least 25 % of the allocations set out in Annex IX shall be reserved for every calendar year from 2023 to 2027 for eco-schemes referred to in Title III, Chapter II, Section 2, Subsection 4.
+
+2\. Where the amount of the total EAFRD contribution reserved by a Member State for interventions in accordance with Articles 70, 72, 73 and 74, insofar as those interventions address the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i), exceeds 30 % of the total EAFRD contribution as set out in Annex XI for the CAP Strategic Plan period, Member States may reduce the sum of the amounts to be reserved under paragraph 1 of this Article. The total reduction shall not be higher than the amount by which the percentage referred to in the first sentence is exceeded.
+
+3\. The reduction referred to in paragraph 2 may not lead to a reduction of the annual amount to be reserved for eco-schemes for the CAP Strategic Plan period pursuant to paragraph 1 by more than 50 %.
+
+4\. By way of derogation from paragraph 3, Member States may reduce the annual amount to be reserved pursuant to paragraph 1 by up to 75 % if the total amount planned for interventions under Article 70 over the CAP Strategic Plan period amounts to more than 150 % of the sum of the amounts to be reserved pursuant to paragraph 1 of this Article before application of paragraph 2.
+
+5\. Member States may, in calendar years 2023 and 2024, in accordance with Article 101(3), use amounts reserved in accordance with this Article for eco-schemes to finance in that year other interventions referred to in Title III, Chapter II, Section 2, provided that all possibilities to use the funds for eco-schemes have been exhausted,
+
+(a) up to a threshold corresponding to 5 % of the amounts set out in Annex IX for the calendar year concerned;
+
+(b) above a threshold corresponding to 5 % of the amounts set out in Annex IX for the calendar year concerned, provided that the conditions of paragraph 6 are complied with.
+
+6\. When applying paragraph 5, point (b), Member States shall amend their CAP Strategic Plans in accordance with Article 119 in order to:
+
+(a) increase the amounts reserved in accordance with this Article for eco-schemes for the remaining years of the CAP Strategic Plan period by an amount at least equivalent to the amount used to finance other interventions referred to in Title III, Chapter II, Section 2, in accordance with paragraph 5, point (b), of this Article; or
+
+(b) increase the amounts reserved for interventions under Articles 70, 72, 73 and 74, insofar as those interventions address the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i), by an amount at least equivalent to the amount used to finance other interventions referred to in Title III, Chapter II, Section 2, in accordance with paragraph 5, point (b), of this Article. Additional amounts reserved for interventions under Articles 70, 72, 73 and 74 in accordance with this paragraph shall not be taken into account if a Member State makes use of the option referred to in paragraph 2 of this Article.
+
+7\. If a Member State, when applying paragraph 5, point (a), uses for the total period 2023 to 2024 an amount exceeding 2,5 % of the sum of the allocations set out in Annex IX for the years 2023 and 2024 to finance other interventions referred to in Title III, Chapter II, Section 2, it shall compensate for the amounts exceeding the 2,5 % of the sum of the allocations set out in Annex IX for the years 2023 and 2024 and used to finance in those years other interventions referred to in Title III, Chapter II, Section 2, by amending its CAP Strategic Plan in accordance with Article 119 in order to:
+
+(a) increase the amounts reserved in accordance with this Article for eco-schemes for the remaining years of the CAP Strategic Plan period by an amount at least equivalent to the amounts exceeding the 2,5 % of the sum of the allocations set out in Annex IX for the years 2023 and 2024; or
+
+(b) increase the amounts reserved for interventions under Articles 70, 72, 73 and 74, insofar as those interventions address the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i), by an amount at least equivalent to the amount exceeding the 2,5 % of the sum of the allocations set out in Annex IX for the years 2023 and 2024. Additional amounts reserved for interventions under Articles 70, 72, 73 and 74 in accordance with this paragraph shall not be taken into account if a Member State makes use of the option referred to in paragraph 2 of this Article.
+
+8\. Member States may, in calendar years 2025 and 2026, in accordance with Article 101(3), use an amount up to a threshold corresponding to 2 % of the amounts set out in Annex IX for the calendar year concerned, and reserved in accordance with this Article for eco-schemes to finance within the same year other interventions referred to in Title III, Chapter II, Section 2, provided that all possibilities to use the funds for eco-schemes have been exhausted and the conditions of paragraph 9 are complied with.
+
+9\. When applying paragraph 8, Member States shall amend their CAP Strategic Plans in accordance with Article 119 in order to:
+
+(a) increase the amounts reserved in accordance with this Article for eco-schemes for the remaining years of the CAP Strategic Plan period by an amount at least equivalent to the amount used to finance other interventions referred to in Title III, Chapter II, Section 2, in accordance with paragraph 8; or
+
+(b) increase the amounts reserved for interventions under Articles 70, 72, 73 and 74, insofar as those interventions address the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i), by an amount at least equivalent to the amount used to finance other interventions referred to in Title III, Chapter II, Section 2, in accordance with paragraph 8 of this Article. Additional amounts reserved for interventions under Articles 70, 72, 73 and 74 in accordance with this paragraph shall not be taken into account if a Member State makes use of the option referred to in paragraph 2 of this Article.
+
+10\. For each calendar year as from calendar year 2025, the total expenditure for types of intervention in the form of direct payments other than eco-schemes shall not exceed the financial allocation for direct payments for the relevant calendar year as laid down in Annex V, reduced by an amount corresponding to 23 % of the amount in Annex IX reserved for eco-schemes in accordance with this paragraph for calendar years 2025 and 2026, and corresponding to 25 % of the amount in Annex IX reserved for eco-schemes in accordance with this paragraph for calendar year 2027, where relevant corrected by the amount resulting from the application of paragraphs 2, 3, 4, 6, 7 and 9 of this Article, and as established by Member States in their financial plans in accordance with Article 112(2), point (a), and approved by the Commission in accordance with Article 118 or Article 119. That financial ceiling shall constitute a financial ceiling set by Union law.
+
+11\. If Member States apply paragraphs 2, 3, 4, 6, 7 and 9 of this Article for the entire CAP Strategic Plan period, the total EAFRD expenditure for rural development other than the amounts reserved for interventions in accordance with Articles 70, 72, 73 and 74, insofar as those interventions address the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i), shall not exceed the total EAFRD contribution for rural development for the entire CAP Strategic Plan period as set out in Annex XI, reduced by the amounts reserved for interventions in accordance with Articles 70, 72, 73 and 74, insofar as those interventions address the specific objectives set out in Article 6(1), points (d), (e) and (f) and, as regards animal welfare, in Article 6(1), point (i), following the application of paragraphs 2, 6, 7 and 9 of this Article, as established by Member States in their financial plans in accordance with Article 112(2), point (a), and approved by the Commission in accordance with Article 118 or Article 119. That financial ceiling shall constitute a financial ceiling set by Union law.
+
+###### Article 98 — Minimum financial allocations for the redistributive income support
+
+1\. At least 10 % of the allocations set out in Annex IX shall be reserved annually for the redistributive income support referred to in Article 29.
+
+2\. For each calendar year, the total expenditure for types of intervention in the form of direct payments other than the redistributive income support shall not exceed the financial allocation for direct payments for the relevant calendar year as laid down in Annex V, reduced by an amount corresponding to 10 % of the financial allocation for direct payments for the relevant calendar year as laid down in Annex IX, where relevant corrected following the application of Article 29(1), second subparagraph, as established by Member States in their financial plans in accordance with Article 112(2), point (a), and approved by the Commission in accordance with Article 118 or Article 119. That financial ceiling shall constitute a financial ceiling set by Union law.
+
+###### Article 99 — Voluntary contribution from the EAFRD allocation to actions under LIFE and Erasmus+
+
+Member States may decide in their CAP Strategic Plans to use a certain share of the EAFRD allocation to leverage support and upscale integrated Strategic Nature Projects benefitting farmers’ communities as provided for under Regulation (EU) 2021/783 and to finance actions in respect of transnational learning mobility of people in the field of agricultural and rural development with a focus on young farmers and women in rural areas, in accordance with Regulation (EU) 2021/817 of the European Parliament and of the Council ( 20 ).
+
+###### Article 100 — Tracking climate expenditure
+
+1\. On the basis of the information provided by Member States, the Commission shall evaluate the contribution of the policy to achieving the climate change objectives using a simple and common methodology.
+
+2\. The contribution to achieving the expenditure target shall be estimated through the application of specific weightings differentiated on the basis of whether the support makes a significant or a moderate contribution towards achieving climate change objectives. Those weightings shall be as follows:
+
+(a) 40 % for the expenditure under the basic income support and the complementary income support referred to in Title III, Chapter II, Section 2, Subsections 2 and 3;
+
+(b) 100 % for expenditure under the eco-schemes referred to in Title III, Chapter II, Section 2, Subsection 4;
+
+(c) 100 % for expenditure for the interventions referred to in Article 93(1) other than those referred to in point (d) of this paragraph;
+
+(d) 40 % for expenditure for natural or other area-specific constraints referred to in Article 71.
+
+3\. The Commission is empowered to adopt delegated acts after 31 December 2025 in accordance with Article 152 amending paragraph 2 of this Article to modify the weightings referred to therein where such modification is warranted for more precise tracking of expenditure on environmental and climate-related objectives.
+
+###### Article 101 — Indicative financial allocations
+
+1\. Member States shall set out, in their CAP Strategic Plans, an indicative financial allocation for each intervention and for each year. This indicative financial allocation shall represent the expected level of payments under the CAP Strategic Plan for the intervention in the relevant financial year, excluding expected payments on the basis of additional national financing referred to in Article 115(5).
+
+2\. By derogation to paragraph 1, for the types of intervention in the sectors referred to in Article 42, points (a), (d), (e) and (f), Member States shall set out, in their CAP Strategic Plans, an indicative financial allocation for each sector and for each year, representing the expected level of payments for the interventions in that sector per financial year, excluding expected payments on the basis of national financial assistance referred to in Article 53.
+
+3\. The indicative financial allocations set out by Member States in accordance with paragraphs 1 and 2 shall not prevent those Member States from using funds from those indicative financial allocations as funds for other interventions, without amending their CAP Strategic Plans in accordance with Article 119, subject to compliance with this Regulation, and in particular with Articles 87, 88, 89, 90, 92 to 98 and 102 thereof, and with Regulation (EU) 2021/2116, and in particular with Article 32(6), point (b), thereof, as well as with the following conditions:
+
+(a) financial allocations for interventions in the form of direct payments are used for other interventions in the form of direct payments;
+
+(b) financial allocations for rural development interventions are used for other interventions for rural development;
+
+(c) financial allocations for interventions in the apiculture sector and in the wine sector are only used for other interventions in the same sector;
+
+(d) financial allocations for interventions in other sectors referred to in Article 42, point (f), are used for interventions in other sectors referred to in that point laid down in the CAP Strategic Plan and such use does not affect approved operational programmes.
+
+For the purpose of the first subparagraph, point (a), Member States which have decided to grant the basic income support on the basis of payment entitlements in accordance with Article 23 may linearly increase or decrease the amounts to be paid on the basis of the value of the entitlements activated in the calendar year, within the limits of the minimum and maximum planned unit amounts set out for interventions under the basic income support in accordance with Article 102(2).
+
+###### Article 102 — Planned unit amounts and planned outputs
+
+1\. Member States shall set out one or more planned unit amounts for each intervention included in their CAP Strategic Plans. The planned unit amount may be uniform or average, as determined by Member States. The ‘planned uniform unit amount’ is the value that is expected to be paid for each related output. The ‘planned average unit amount’ is the average value of the different unit amounts that are expected to be paid for the related outputs.
+
+For interventions covered by the integrated system referred to in Article 65(2) of Regulation (EU) 2021/2116, uniform unit amounts shall be set out, except where uniform unit amounts are not possible or appropriate because of the design or scope of the intervention. In such cases, average unit amounts shall be set out.
+
+2\. For types of intervention in the form of direct payments, Member States may set maximum or minimum planned unit amounts or both for each unit amount planned for each intervention.
+
+The ‘maximum planned unit amount’ and the ‘minimum planned unit amount’ are the maximum and minimum unit amounts that are expected to be paid for the related outputs.
+
+When setting the maximum or minimum planned unit amounts or both, Member States may justify those values with the necessary flexibility for reallocation to avoid unused funds.
+
+The realised unit amount referred to in Article 134(5), first subparagraph, point (c), may only be lower than the planned unit amount or the minimum planned unit amount, where such amount is set out, to prevent an excess of the financial allocations for types of intervention in the form of direct payments referred to in Article 87(1).
+
+3\. For types of intervention for rural development, when using planned average unit amounts, Member States may set a maximum planned average unit amount.
+
+The ‘maximum planned average unit amount’ is the maximum amount that is expected to be paid on average for the related outputs.
+
+4\. Where different unit amounts are established for an intervention, paragraphs 2 and 3 shall apply to each relevant unit amount of that intervention.
+
+5\. Member States shall set out the annual planned outputs for each intervention quantified for each planned uniform or average unit amount. Within an intervention, the annual planned outputs may be provided at an aggregated level for all unit amounts or for a group of unit amounts.
+
+###### Article 103 — Flexibility between direct payment allocations and EAFRD allocations
+
+1\. As part of its CAP Strategic Plan proposal referred to in Article 118(1), a Member State may decide to transfer:
+
+(a) up to 25 % of its allocation for direct payments set out in Annex V, where relevant after deduction of the allocations for cotton set in Annex VIII for calendar years 2023 to 2026, to its allocation for the EAFRD in financial years 2024 to 2027; or
+
+(b) up to 25 % of its allocation for the EAFRD in financial years 2024 to 2027 to its allocation for direct payments set out in Annex V for calendar years 2023 to 2026.
+
+2\. The percentage of transfer from a Member State’s allocation for direct payments to its allocation for the EAFRD referred to in paragraph 1, point (a), may be increased by:
+
+(a) up to 15 percentage points if that Member State uses the corresponding increase for EAFRD-financed interventions addressing the specific objectives set out in Article 6(1), points (d), (e) and (f);
+
+(b) up to 2 percentage points if that Member State uses the corresponding increase in accordance with Article 95(1), point (b).
+
+3\. The percentage of transfer from a Member State’s allocation for the EAFRD to its allocation for direct payments referred to in paragraph 1, point (b), may be increased to 30 % for Member States with direct payments per hectare below 90 % of the Union average. This condition is fulfilled in the case of Bulgaria, Estonia, Spain, Latvia, Lithuania, Poland, Portugal, Romania, Slovakia, Finland and Sweden.
+
+4\. The decisions referred to in paragraph 1 shall set out the percentage referred to in paragraphs 1, 2 and 3, which may vary by calendar year.
+
+5\. Member States may, in 2025, review their decisions referred to in paragraph 1 as part of a request for amendment of their CAP Strategic Plans referred to in Article 119.
+
+6\. Notwithstanding Article 6(1) and Article 30(2) and (3) of Regulation (EU) No 228/2013, Member States with outermost regions within the meaning of Article 349 TFEU may decide, in a request for strategic amendment of a CAP Strategic Plan referred to in Article 119 of this Regulation, to transfer up to 25 % of the amount in their CAP Strategic Plans planned for their outermost regions, which is part of the amount allocated to them for rural development financial year 2027 under Annex XI to this Regulation, to their POSEI programmes established under Regulation (EU) No 228/2013 in order to reinforce them. Such request for strategic amendment shall contain a justification for such transfer and its contribution to the achievement of the specific objectives set out in Article 6(1) and (2) of this Regulation.
+
+If a Member State makes a transfer in accordance with the first subparagraph of this paragraph, the corresponding maximum annual sums provided for in Article 30(2) and (3) of Regulation (EU) No 228/2013 for financial year 2027 shall be deemed to be increased by the specific amount transferred once the amendment of the CAP Strategic Plan has been approved by the Commission.
+
+###### Article 103a — Direct payment allocations for calendar year 2027
+
+By 31 August 2026, Member States may decide to increase or decrease their allocations for direct payments set out in Annexes V and IX for calendar year 2027 by an amount not exceeding the maximum increase or decrease set out in Annex XVI per Member State, as part of a request for a strategic amendment of their respective CAP Strategic Plans referred to in Article 119.
+
+## TITLE V — CAP STRATEGIC PLAN
+
+### CHAPTER I — GENERAL REQUIREMENTS
+
+###### Article 104 — CAP Strategic Plans
+
+1\. Member States shall establish CAP Strategic Plans in accordance with this Regulation to implement the Union support financed by the EAGF and the EAFRD for the achievement of the specific objectives set out in Article 6(1) and (2).
+
+2\. Each Member State shall establish a single CAP Strategic Plan for its entire territory, taking into account its constitutional and institutional provisions.
+
+Where elements of the CAP Strategic Plan are established at regional level, the Member State shall ensure the coherence and the consistency with the elements of the CAP Strategic Plan established at national level. The elements established at regional level shall be appropriately reflected in the relevant sections of the CAP Strategic Plan as laid down in Article 107.
+
+3\. Based on the SWOT analysis referred to in Article 115(2) and an assessment of needs referred to in Article 108, Member State shall establish in the CAP Strategic Plans an intervention strategy as referred to in Article 109 in which quantitative targets and milestones shall be set to achieve the specific objectives set out in Article 6(1) and (2). The targets shall be set using a common set of result indicators set out in Annex I.
+
+To reach those targets Member States shall set out interventions based on the types of intervention laid down in Title III.
+
+4\. Each CAP Strategic Plan shall cover the period from 1 January 2023 to 31 December 2027.
+
+###### Article 105 — Increased ambition with regard to environmental and climate-related objectives
+
+1\. Member States shall aim to make, through their CAP Strategic Plans and in particular through the elements of the intervention strategy referred to in Article 109(2), point (a), a greater overall contribution to the achievement of the specific objectives set out in Article 6(1), points (d), (e) and (f), in comparison to the overall contribution made to the achievement of the objective laid down in Article 110(2), first subparagraph, point (b), of Regulation (EU) No 1306/2013 through support under the EAGF and the EAFRD in the period 2014 to 2020.
+
+2\. Member States shall explain in their CAP Strategic Plans, on the basis of available information, how they intend to achieve the greater overall contribution set out in paragraph 1. That explanation shall be based on relevant information, such as the elements referred to in Article 107(1), points (a) to (f), and in Article 107(2), point (b), as well as the expected improvements against the relevant impact indicators set out in Annex I.
+
+###### Article 106 — Procedural requirements
+
+1\. Member States shall draw up the CAP Strategic Plans on the basis of transparent procedures, where applicable in collaboration with their regions, in accordance with their institutional and legal framework.
+
+2\. The body of the Member State responsible for drawing up the CAP Strategic Plan shall ensure that:
+
+(a) where applicable, the relevant authorities at regional level are effectively involved in the preparation of the CAP Strategic Plan; and
+
+(b) the public competent authorities for the environment and climate are effectively involved in the preparation of the environmental and climate-related aspects of the CAP Strategic Plan.
+
+3\. Each Member State shall organise a partnership with the competent regional and local authorities. The partnership shall include at least the following partners:
+
+(a) relevant authorities at regional and local level, as well as other public authorities, including authorities competent for environmental and climate issues;
+
+(b) economic and social partners, including representatives of the agricultural sector;
+
+(c) relevant bodies representing civil society and where relevant bodies responsible for promoting social inclusion, fundamental rights, gender equality and non-discrimination.
+
+Member States shall effectively involve those partners in the preparation of the CAP Strategic Plans and shall consult with relevant stakeholders, including as regards the minimum standards referred to in Article 13, where appropriate.
+
+4\. Member States, including where applicable their regions, and the Commission shall cooperate to ensure effective coordination in the implementation of CAP Strategic Plans, taking account of the principles of proportionality and shared management.
+
+5\. The organisation and implementation of partnership shall be carried out in accordance with the delegated act adopted on the basis of Article 5(3) of Regulation (EU) No 1303/2013.
+
+### CHAPTER II — CONTENT OF THE CAP STRATEGIC PLAN
+
+###### Article 107 — Content of the CAP Strategic Plan
+
+1\. Each CAP Strategic Plan shall contain sections on the following:
+
+(a) the assessment of needs;
+
+(b) the intervention strategy;
+
+(c) the elements common to several interventions;
+
+(d) the direct payments, interventions in certain sectors and interventions for rural development specified in the strategy;
+
+(e) target and financial plans;
+
+(f) the governance and coordination system;
+
+(g) the elements that ensure modernisation of the CAP;
+
+(h) where elements of the CAP Strategic Plan are established at regional level, a short description about the Member State’s national and regional set-up, and in particular which elements are established at national and at regional level.
+
+2\. Each CAP Strategic Plan shall contain the following annexes:
+
+(a) Annex I on the ex-ante evaluation and the strategic environmental assessment (SEA) referred to in Directive 2001/42/EC of the European Parliament and of the Council ( 21 );
+
+(b) Annex II on the SWOT analysis;
+
+(c) Annex III on the consultation of the partners;
+
+(d) where relevant, Annex IV on the crop-specific payment for cotton;
+
+(e) Annex V on the additional national financing provided within the scope of the CAP Strategic Plan;
+
+(f) where relevant, Annex VI on transitional national aid.
+
+3\. Detailed rules for the content of the sections and the annexes of the CAP Strategic Plans referred to in paragraphs 1 and 2 are laid down in Articles 108 to 115.
+
+###### Article 108 — Assessment of needs
+
+The assessment of needs referred to in Article 107(1), point (a), shall include the following:
+
+(a) summary of the SWOT analysis as referred to in Article 115(2);
+
+(b) identification of needs for each specific objective set out in Article 6(1) and (2) based on the evidence from the SWOT analysis; all the needs arising from the SWOT analysis shall be described, regardless whether they will be addressed through the CAP Strategic Plan or not;
+
+(c) for the specific objective of supporting viable farm income and resilience set out in Article 6(1), point (a), an assessment of needs in relation to a fairer distribution and more effective and efficient targeting of direct payments, where relevant taking into account their farm structure, and in relation to risk management;
+
+(d) where relevant, an analysis of the needs of specific geographical areas, such as the outermost regions as well as mountain and island areas;
+
+(e) prioritisation of needs, including a sound justification of the choices made covering if relevant the reasons why certain identified needs are not addressed or partially addressed in the CAP Strategic Plan.
+
+For the specific objectives set out in Article 6(1), points (d), (e), and (f), the assessment of needs shall take into account the national environmental and climate plans emanating from the legislative acts listed in Annex XIII.
+
+Member States shall use for their assessment of needs data which are recent and reliable and, where available, disaggregated by gender.
+
+###### Article 109 — Intervention strategy
+
+1\. The intervention strategy referred to in Article 107(1), point (b), shall set out, for each specific objective set out in Article 6(1) and (2) and addressed in the CAP Strategic Plan:
+
+(a) targets and related milestones for the relevant result indicators used by the Member State on the basis of its assessment of needs referred to in Article 108. The value of those targets shall be justified on the basis of that assessment of needs. As regards the specific objectives set out in Article 6(1), points (d), (e), and (f), targets shall be derived from the elements of explanation given in paragraph 2, point (a), of this Article;
+
+(b) interventions, based on the types of intervention set out in Title III, which shall be designed to address the specific situation in the area concerned, following a sound intervention logic, supported by the ex-ante evaluation referred to in Article 139, the SWOT analysis referred to in Article 115(2) and the assessment of needs referred to in Article 108;
+
+(c) elements showing how the interventions allow reaching the targets and how they are mutually coherent and compatible;
+
+(d) elements demonstrating that the allocation of financial resources to the interventions of the CAP Strategic Plan is justified and adequate to achieve the targets set, and is consistent with the financial plan referred to in Article 112.
+
+2\. The intervention strategy shall demonstrate the consistency of the strategy and the complementarity of interventions across the specific objectives set out in Article 6(1) and (2) by providing:
+
+(a) an overview of the environmental and climate architecture of the CAP Strategic Plan which describes the following:
+
+(i) for each GAEC standard listed in Annex III, the way in which the Union standard is implemented, including the following elements: summary of the on-farm practice, territorial scope, types of farmers and other beneficiaries subject to the standard, and where necessary a description of how the practice contributes to achieving that GAEC standard’s main objective;
+
+(ii) the overall contribution of conditionality to achieving the specific objectives set out in Article 6(1), points (d), (e) and (f);
+
+(iii) the complementarity between the relevant baseline conditions, as referred to in Article 31(5) and Article 70(3), conditionality and the different interventions, including support for organic farming, addressing the specific objectives set out in Article 6(1), points (d), (e), and (f);
+
+(iv) the way to achieve the greater overall contribution set out in Article 105;
+
+(v) how the environmental and climate architecture of the CAP Strategic Plan is meant to contribute to the achievement of, and be consistent with, the long-term national targets set out in or deriving from the legislative acts listed in Annex XIII;
+
+(b) in relation to the specific objective set out in Article 6(1), point (g), an overview of the relevant interventions and specific conditions for young farmers set out in the CAP Strategic Plan such as those specified in Article 26(4), point (a), Articles 30, 73 and 75 and Article 77(6). Member States shall in particular refer to Article 95 when presenting the financial plan in relation to the types of intervention referred to in Articles 30, 73 and 75. The overview shall also explain in general terms the interplay with national instruments with a view of improving the consistency between Union and national actions in this area;
+
+(c) an explanation how the interventions under coupled income support as referred to in Title III, Chapter II, Section 3, Subsection 1, are consistent with Directive 2000/60/EC;
+
+(d) in relation to the specific objective set out in Article 6(1), point (a), an overview of how the aim of fairer distribution and more effective and efficient targeting of income support to be granted to farmers under the CAP Strategic Plan is addressed including, where applicable, information justifying the use of the derogation provided for in Article 29(1), second subparagraph. That overview shall, where relevant, also address the consistency and complementarity of the territorialisation of the basic income support referred to in Article 22(2) with support under other interventions, in particular the payments for natural or other area-specific constraints referred to in Article 71;
+
+(e) an overview of the sector-related interventions, including the coupled income support referred to in Title III, Chapter II, Section 3, Subsection 1, and the interventions in certain sectors referred to in Title III, Chapter III, providing a justification for targeting the sectors concerned, the list of interventions per sector, and their complementarity;
+
+(f) where relevant, an explanation as to which interventions are intended to contribute to ensuring a coherent and integrated approach to risk management;
+
+(g) where relevant, a description of the interplay between national and regional interventions, including the distribution of financial allocations per intervention and per fund;
+
+(h) an overview of how the CAP Strategic Plan contributes to achieving the specific objective of improving animal welfare and combatting antimicrobial resistance set out in Article 6(1), point (i), including the baseline conditions and the complementarity between conditionality and the different interventions;
+
+(i) an explanation of how the interventions and elements common to several interventions contribute to simplification for final beneficiaries and reducing the administrative burden.
+
+3\. Where elements of the CAP Strategic Plan are established at regional level, the intervention strategy shall ensure the coherence and the consistency of those elements with the elements of the CAP Strategic Plan established at national level.
+
+###### Article 110 — Elements common to several interventions
+
+The section on the elements common to several interventions referred to in Article 107(1), point (c), shall include:
+
+(a) the definitions and conditions provided by Member States in compliance with Article 4, as well as the minimum requirements for interventions in the form of direct payments pursuant to Article 18;
+
+(b) a description of the use of ‘technical assistance’ referred to in Articles 94 and 125 and a description of the national CAP network referred to in Article 126;
+
+(c) in relation to the specific objectives set out in Article 6(1), the definition of rural areas used in the CAP Strategic Plan as determined by Member States;
+
+(d) other information on implementation, in particular:
+
+(i) a short description of the establishment of the value of payment entitlements and of the functioning of the reserve, where applicable;
+
+(ii) where relevant, the use of the estimated product of the reduction of direct payments referred to in Article 17;
+
+(iii) the decision and its justification with regard to the implementation of Article 17(4), Article 29(6), and Article 30(4) of this Regulation and of Article 17(1), second subparagraph, of Regulation (EU) 2021/2116;
+
+(iv) where relevant, the decision and the description of its main elements with regard to the implementation of Article 19;
+
+(v) an overview of the coordination, demarcation and complementarities between the EAFRD and other Union funds active in rural areas.
+
+###### Article 111 — Interventions
+
+The section on each intervention specified in the strategy referred to in Article 107(1), point (d), including the interventions established at regional level, shall include:
+
+(a) the type of intervention on which it is based;
+
+(b) the territorial scope;
+
+(c) the specific design or requirements of that intervention that ensure an effective contribution to achieving the specific objective or objectives set out in Article 6(1) and (2); for environmental and climate-related interventions, articulation with the conditionality requirements shall show that the practices are complementary and do not overlap;
+
+(d) the eligibility conditions;
+
+(e) the result indicators as laid down in Annex I to which the intervention should contribute directly and significantly;
+
+(f) for each intervention which is based on the types of intervention listed in Annex II to this Regulation, how it respects the relevant provisions of Annex 2 to the WTO Agreement on Agriculture as specified in Article 10 of this Regulation and in Annex II to this Regulation, and for each intervention which is not based on the types of intervention listed in Annex II to this Regulation, whether and, if so, how it respects relevant provisions of Article 6.5 of, or Annex 2 to, the WTO Agreement on Agriculture;
+
+(g) one output indicator and the annual planned outputs for the intervention referred to in Article 102(5);
+
+(h) the annual planned uniform or average unit amounts referred to in Article 102(1) and, where relevant, the maximum or minimum planned unit amounts referred to in Article 102(2) and (3);
+
+(i) an explanation of how the amounts referred to in point (h) of this paragraph were set;
+
+(j) where applicable:
+
+(i) the form and rate of support;
+
+(ii) the method for calculating the planned unit amounts of support and its certification in accordance with Article 82;
+
+(k) the annual financial allocation for the intervention referred to in Article 101(1) or, in the case of sectors referred to in Article 42, points (a), (d), (e) and (f), the annual financial allocation for the relevant sector referred to in Article 101(2), including, where applicable, a breakdown on amounts planned for grants and amounts planned for financial instruments;
+
+(l) an indication as to whether the intervention falls outside the scope of Article 42 TFEU and is subject to State aid assessment.
+
+Point (e) of the first paragraph shall not apply to the type of intervention in the apiculture sector referred to in Article 55(1), point (a) and points (c) to (g), interventions under the type of intervention in the wine sector referred to in Article 58(1), points (h) to (k), the information and promotion actions for quality schemes under the type of intervention for cooperation referred to in Article 77, interventions under the type of intervention for crisis payments to farmers following natural disasters, adverse climatic events or catastrophic events referred to in Article 78a, and interventions under the type of intervention for support to farmers affected by the severe increase in fertiliser prices referred to in Article 78b.
+
+###### Article 112 — Target and financial plans
+
+1\. The target plan referred to in Article 107(1), point (e), shall consist of a recapitulative table showing the targets and milestones referred to in Article 109(1), point (a).
+
+2\. The financial plan referred to in Article 107(1), point (e), shall comprise an overview table providing for:
+
+(a) the Member State’s allocations for the types of intervention in the form of direct payments referred to in Article 87(1), for the types of intervention in the wine sector referred to in Article 88(1), for the types of intervention in the apiculture sector referred to in Article 88(2) and for the types of intervention for rural development referred to in Article 89(3), with a specification of the annual and overall amounts reserved by Member States to comply with the requirements on minimum financial allocations laid down in Articles 92 to 98;
+
+(b) the transfers of the amounts referred to in point (a) between types of intervention in the form of direct payments and types of intervention for rural development in accordance with Article 103, any deductions of the Member State’s allocations for the types of intervention in the form of direct payments to make amounts available for the types of intervention in other sectors referred to in Title III, Chapter III, Section 7, in accordance with Article 88(6), and any adjustments of the direct payments allocations in accordance with Article 103a;
+
+(c) the Member State’s allocations for the types of intervention in the hops sector referred to in Article 88(3) and for the types of intervention in the olive oil and table olives sector referred to in Article 88(4), and if those types of intervention are not implemented, the decision to include the corresponding allocations in the Member State’s allocation for direct payments in accordance with Article 88(5);
+
+(d) where relevant, transfer of Member State’s allocations from the EAFRD for support under InvestEU in accordance with Article 81 of this Regulation, under Regulation (EU) 2021/783 or under Regulation (EU) 2021/817 in accordance with Article 99 of this Regulation;
+
+(e) where relevant, the amounts planned for the outermost regions.
+
+3\. In addition to paragraph 2, a detailed financial plan shall provide for each financial year, and expressed as Member State’s forecasts of execution of payments, the following tables consistent with Article 111, points (g) and (k):
+
+(a) a breakdown of the Member State’s allocations for types of intervention in the form of direct payments after transfers as specified in paragraph 2, points (b) and (c), based on indicative financial allocations per type of intervention and per intervention, specifying for each intervention the planned outputs, the planned average or uniform unit amounts referred to in Article 102(1) and, where relevant, the maximum or minimum planned unit amounts, or both, referred to in Article 102(2). Where applicable, the breakdown shall include the amount of the reserve of payment entitlements.
+
+The total estimated product of the reduction of payments referred to in Article 17 shall be specified.
+
+Taking into account the use of the estimated product of the reduction of payments referred to in Article 17 and Article 87(3), those indicative financial allocations, the related planned outputs and the corresponding planned average or uniform unit amounts shall be established before the reduction of payments;
+
+(b) a breakdown of the allocations for the types of intervention referred to in Title III, Chapter III, per intervention and with an indication of the planned outputs or in the case of sectors referred to in Article 42, points (a), (d), (e) and (f) the indicative financial allocation per sector with an indication of the planned outputs expressed as number of operational programmes per sector;
+
+(c) a breakdown of the Member State’s allocations for rural development after transfers to and from direct payments as specified in point (b), per type of intervention and per intervention, including totals for the CAP Strategic Plan period, indicating also the applicable EAFRD contribution rate, broken down per intervention and per type of region where applicable. In the case of transfer of funds from direct payments, the intervention(s) or part of intervention financed by the transfer shall be specified. That table shall also specify the planned outputs per intervention and the planned average or uniform unit amounts referred to in Article 102(1), as well as, where relevant, the maximum planned average unit amounts referred to in Article 102(3). Where applicable, the table shall also include a breakdown of the grants and amounts planned for financial instruments. The amounts for technical assistance shall also be specified.
+
+###### Article 113 — Governance and coordination systems
+
+The section on the governance and coordination systems referred to in Article 107(1), point (f), shall comprise:
+
+(a) the identification of all governance bodies referred to in Title II, Chapter II, of Regulation (EU) 2021/2116 as well as of the national managing authority and, where relevant, the regional managing authorities;
+
+(b) the identification and role of intermediate bodies referred to in Article 123(4) of this Regulation;
+
+(c) information on the control systems and penalties referred to in Title IV of Regulation (EU) 2021/2116, including:
+
+(i) the integrated administration and control system referred to in Title IV, Chapter II, of Regulation (EU) 2021/2116;
+
+(ii) the control and penalty system for conditionality referred to in Title IV, Chapters IV and V, of Regulation (EU) 2021/2116;
+
+(iii) the competent control bodies responsible for the checks;
+
+(d) an overview of the monitoring and reporting structure.
+
+###### Article 114 — Modernisation
+
+The section on the elements that ensure modernisation of the CAP referred to in Article 107(1), point (g), shall highlight the elements of the CAP Strategic Plan that support the modernisation of the agriculture and rural areas and the CAP, and shall contain in particular:
+
+(a) an overview of how the CAP Strategic Plan will contribute to the achievement of the cross-cutting objective set out in Article 6(2), in particular through:
+
+(i) a description of the organisational set-up of the AKIS;
+
+(ii) a description of how advisory services as referred to in Article 15, research and the national CAP network referred to in Article 126 will cooperate to provide advice, knowledge flows and innovation services and how the actions supported under interventions pursuant to Article 78 or other relevant interventions are integrated into the AKIS;
+
+(b) a description of the strategy for the development of digital technologies in agriculture and rural areas and for the use of those technologies to improve the effectiveness and efficiency of the CAP Strategic Plan interventions.
+
+###### Article 115 — Annexes
+
+1\. Annex I to the CAP Strategic Plan referred to in Article 107(2), point (a), shall include a summary of the main results of the ex-ante evaluation referred to in Article 139 and the SEA referred to in Directive 2001/42/EC and how they have been addressed or a justification of why they have not been taken into account, and a link to the complete ex-ante evaluation report and SEA report.
+
+2\. Annex II to the CAP Strategic Plan referred to in Article 107(2), point (b), shall include a SWOT analysis of the current situation of the area covered by the CAP Strategic Plan.
+
+The SWOT analysis shall be based on the current situation of the area covered by the CAP Strategic Plan and shall comprise, for each specific objective set out in Article 6(1) and (2), an overall description of the current situation of the area covered by the CAP Strategic Plan, based on common context indicators and other quantitative and qualitative up-to-date information such as studies, past evaluation reports, sectoral analyses and lessons learned from previous experiences.
+
+Where relevant, the SWOT analysis shall include an analysis of territorial aspects, including regional specificities, highlighting those territories specifically targeted by interventions, and an analysis of sectoral aspects, in particular for those sectors that are subject to specific interventions or programmes.
+
+In addition, that description shall, in particular, highlight in relation to each general and specific objective set out in Article 5 and Article 6(1) and (2):
+
+(a) strengths identified in the CAP Strategic Plan area;
+
+(b) weaknesses identified in the CAP Strategic Plan area;
+
+(c) opportunities identified in the CAP Strategic Plan area;
+
+(d) threats identified in the CAP Strategic Plan area.
+
+For the specific objectives set out in Article 6(1), points (d), (e) and (f), the SWOT analysis shall refer to the national plans emanating from the legislative acts listed in Annex XIII.
+
+For the specific objective set out in Article 6(1), point (g), the SWOT analysis shall include a short analysis of access to land, land mobility and land restructuring, access to finance and credits, and access to knowledge and advice.
+
+For the cross-cutting objective set out in Article 6(2), the SWOT analysis shall also provide relevant information about the functioning of the AKIS and related structures.
+
+3\. Annex III to the CAP Strategic Plan referred to in Article 107(2), point (c), shall include the outcomes of the consultation of the partners, and in particular the relevant authorities at regional and local level, and a brief description of how the consultation was carried out.
+
+4\. Annex IV to the CAP Strategic Plan referred to in Article 107(2), point (d), shall provide a brief description of the crop-specific payment for cotton and its complementarity with the other CAP Strategic Plan interventions.
+
+5\. Annex V to the CAP Strategic Plan referred to in Article 107(2), point (e), shall contain the following:
+
+(a) a short description of additional national financing for interventions in rural development laid down in Title III, Chapter IV, which is provided within the scope of the CAP Strategic Plan, including the amounts per intervention and indication of compliance with the requirements under this Regulation;
+
+(b) an explanation of the complementarity with the CAP Strategic Plan interventions;
+
+(c) an indication as to whether the additional national financing falls outside the scope of Article 42 TFEU and is subject to State aid assessment; and
+
+(d) the national financial assistance in the fruit and vegetables sector referred to in Article 53.
+
+6\. Annex VI to the CAP Strategic Plan referred to in Article 107(2), point (f), shall contain the following information as regards transitional national aid:
+
+(a) the annual sector-specific financial envelope for each sector for which transitional national aid is granted;
+
+(b) where relevant, the maximum unit rate of support for each year of the period;
+
+(c) where relevant, information as regards the reference period modified in accordance with Article 147(2), second subparagraph;
+
+(d) a brief description of the complementarity of the transitional national aid with CAP Strategic Plan interventions.
+
+###### Article 116 — Delegated powers for the content of the CAP Strategic Plan
+
+The Commission is empowered to adopt delegated acts in accordance with Article 152 until 31 December 2023 amending this Chapter as regards the content of the CAP Strategic Plan and its annexes. Those delegated acts shall be strictly limited to addressing problems experienced by Member States.
+
+###### Article 117 — Implementing powers for the content of the CAP Strategic Plan
+
+The Commission may adopt implementing acts laying down rules for the presentation of the elements described in Articles 108 to 115 in CAP Strategic Plans. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+### CHAPTER III — APPROVAL AND AMENDMENT OF THE CAP STRATEGIC PLAN
+
+###### Article 118 — Approval of the CAP Strategic Plan
+
+1\. Each Member State shall submit to the Commission a proposal for a CAP Strategic Plan, with the content referred to in Article 107, no later than 1 January 2022.
+
+2\. The Commission shall assess the proposed CAP Strategic Plan as regards its completeness, its consistency and coherence with the general principles of Union law, with this Regulation and the delegated and implementing acts adopted pursuant to it and with Regulation (EU) 2021/2116, its effective contribution to the achievement of the specific objectives set out in Article 6(1) and (2) and its impact on the proper functioning of the internal market and distortion of competition and on the level of administrative burden on beneficiaries and administration. The assessment shall address, in particular, the adequacy of the strategy of the CAP Strategic Plan, the corresponding specific objectives, targets, interventions and the allocation of budgetary resources to meet the specific CAP Strategic Plan objectives through the proposed set of interventions on the basis of the SWOT analysis and the ex-ante evaluation.
+
+3\. Depending on the results of the assessment referred to in paragraph 2, the Commission may address observations to the Member States within three months of the date of submission of the CAP Strategic Plan.
+
+The Member State shall provide to the Commission all necessary additional information and, where appropriate, revise the proposed plan.
+
+4\. The Commission shall approve the proposed CAP Strategic Plan provided that the necessary information has been submitted and the Plan is compatible with Article 9 and the other requirements set out in this Regulation and in Regulation (EU) 2021/2116 as well as the delegated and implementing acts adopted pursuant to them. The approval shall exclusively be based on acts which are legally binding on Member States.
+
+5\. The approval of each CAP Strategic Plan shall take place no later than six months following its submission by the Member State concerned.
+
+The approval shall not cover the information referred to in Article 113, point (c), and in Annexes I to IV to the CAP Strategic Plan referred to in Article 107(2), points (a) to (d).
+
+In duly justified cases, a Member State may ask the Commission to approve a CAP Strategic Plan which does not contain all elements. In that case the Member State concerned shall indicate the parts of the CAP Strategic Plan that are missing and provide indicative targets and financial plans as referred to in Article 112 for the whole CAP Strategic Plan in order to show the overall consistency and coherence of the plan. The missing elements of the CAP Strategic Plan shall be submitted to the Commission as an amendment of the plan in accordance with Article 119 within a timeframe not exceeding three months from the date of approval of the CAP Strategic Plan.
+
+6\. Each CAP Strategic Plan shall be approved by the Commission by means of an implementing decision without applying the Committee procedure referred to in Article 153.
+
+7\. The CAP Strategic Plans shall have legal effects only after their approval by the Commission.
+
+###### Article 119 — Amendments of the CAP Strategic Plans
+
+1\. Member States may amend their CAP Strategic Plans. They shall do so by submitting requests for strategic amendment pursuant to paragraph 2 or by notifying the amendment pursuant to paragraph 9.
+
+2\. Requests for strategic amendments of their CAP Strategic Plans shall be submitted to the Commission. The following amendments of the CAP Strategic Plans are strategic amendments:
+
+(a) amendments introducing new interventions or deleting interventions from the CAP Strategic Plans;
+
+(b) amendments that lead to changes of milestones or targets under the result indicators which are marked with ‘PR’ in Annex I;
+
+(c) amendments related to Article 17(5), Article 88(7), Articles 92 to 98, Article 103(1), (5) and (6) or Article 103a;
+
+(d) amendments of the target and financial plans in the CAP Strategic Plan referred to in Article 112, including amendments to the contribution from EAFRD to InvestEU referred to in Article 81, amendments to the EAFRD total contribution to each type of intervention for the entire period covered by the CAP Strategic Plan or amendments related to the EAFRD contribution rates referred to in Article 91.
+
+Requests for strategic amendments shall be duly justified and shall, in particular, set out the expected impact of the changes to the CAP Strategic Plan on achieving the specific objectives set out in Article 6(1) and (2). They shall be accompanied by the amended CAP Strategic Plan including the updated annexes as appropriate.
+
+3\. The Commission shall assess the consistency of strategic amendments with this Regulation and Regulation (EU) 2021/2116, as well as the delegated and implementing acts adopted pursuant to them, and the effective contribution of strategic amendments to achieving the specific objectives.
+
+4\. The Commission shall approve the requested strategic amendment provided that the necessary information has been submitted by a Member State concerned and the strategic amendment is compatible with this Regulation and Regulation (EU) 2021/2116, as well as the delegated and implementing acts adopted pursuant to them.
+
+5\. The Commission shall make observations within 30 working days from the submission of the request for strategic amendment. The Member States shall provide the Commission with all necessary additional information.
+
+6\. The Commission shall approve a request for strategic amendment no later than three months after its submission by the Member State.
+
+7\. A request for strategic amendment may be submitted twice per calendar year, subject to possible exceptions provided for in this Regulation or to be determined by the Commission in accordance with Article 122. In addition, three further requests for strategic amendment may be submitted during the duration of the CAP Strategic Plan period. This paragraph shall not apply to requests for amendments to submit the missing elements of the CAP Strategic Plan in accordance with Article 118(5).
+
+A request for strategic amendment related to Article 17(5), Article 78b, Article 88(7), Article 103(5) or (6) or Article 103a shall not count for the limitation laid down in the first subparagraph of this paragraph.
+
+8\. A strategic amendment related to Article 17(5), Article 88(7) or Article 103(1) in relation to the EAGF shall take effect from 1 January of the calendar year following the year of approval of the request for that strategic amendment by the Commission and following the corresponding amendment of the allocations in accordance with Article 87(2).
+
+A strategic amendment related to Article 103(1) or (6) in relation to the EAFRD shall take effect after the approval of the request for that strategic amendment by the Commission and following the corresponding amendment of the allocations in accordance with Article 89(4).
+
+A strategic amendment related to the EAGF, other than the amendments referred to in the first subparagraph of this paragraph, shall take effect from a date to be determined by the Member State but not earlier than from the date of submission to the Commission of the request for that amendment. Member States may set a different date or dates of effect for different elements of the strategic amendment. Where the strategic amendment could place the farmers concerned in a less favourable position than that which they enjoyed prior to that amendment, Member States shall take into account, when determining the date of effect of the amendment, the need of farmers and other beneficiaries to have sufficient time to take that amendment into account. The planned date of effect for strategic amendment related to the EAGF shall be indicated by the Member State in the request for strategic amendment and shall be subject to approval by the Commission in accordance with paragraph 10 of this Article.
+
+9\. Member States may, at any time, make and apply amendments to their CAP Strategic Plans other than strategic amendments. They shall notify those other amendments to the Commission by the time they start applying them and add them to the amended CAP Strategic Plan submitted together with the next request for strategic amendment in accordance with paragraph 2.
+
+Where amendments are introduced in relation to GAEC standards 1 and 4, Member States shall ensure and provide a specific justification that such amendments do not put at risk environmental and climate objectives linked to the conservation of permanent grassland or the protection of watercourses from pollution, as appropriate.
+
+Where the Commission does not object to notified amendments within 30 working days from the date of submission of the notification, the amendments shall have legal effects from the date of submission of the notification. The Commission shall object to a notified amendment if it finds that the amendment is not compatible with this Regulation or Regulation (EU) 2021/2116, or the delegated and implementing acts adopted pursuant to them.
+
+The notified amendments to which Commission made objections shall not have legal effects and Member State shall delete them from the amended CAP Strategic Plan submitted pursuant to the first subparagraph of this paragraph. The expenditure resulting from those amendments shall not be eligible for a contribution from the EAFRD or the EAGF. The Member State may submit those amendments to the Commission for approval in a request for strategic amendment, referred to in paragraph 2 of this Article. The rules concerning approvals of strategic amendments referred to in paragraphs 2 to 8 and 10 and 11 of this Article shall apply mutatis mutandis to approval of amendments to which the Commission objected in accordance with the second subparagraph of this paragraph. Article 121 shall apply mutatis mutandis to Commission actions pursuant to this paragraph.
+
+10\. Each strategic amendment shall be approved by the Commission by means of an implementing decision without applying the committee procedure referred to in Article 153.
+
+11\. Without prejudice to Article 86, strategic amendments shall only have legal effects after their approval by the Commission.
+
+12\. Corrections of clerical or obvious errors or of a purely editorial nature that do not affect the implementation of the policy and the intervention shall not be considered to be a request for amendment or notification under this Article. Member States shall inform the Commission of such corrections.
+
+###### Article 121 — Calculation of time limits for Commission actions
+
+For the purposes of this Chapter, where a time limit is set for an action by the Commission, that time limit shall start when all information complying with the requirements laid down in this Regulation and the provisions adopted pursuant to it has been submitted.
+
+This time limit shall not include:
+
+(a) the period which starts on the date following the date on which the Commission sends its observations or a request for revised documents to the Member State and ends on the date on which the Member State responds to the Commission;
+
+(b) for amendments related to Article 17(5), Article 88(7), Article 103(5) and Article 103a, the period for the adoption of the delegated act for the amendment of the allocations in accordance with Article 87(2).
+
+###### Article 122 — Delegated powers concerning amendments of CAP Strategic Plans
+
+The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Chapter as regards:
+
+(a) procedures and time limits for the submission of requests for strategic amendment of CAP Strategic Plans and notifications of amendments of CAP Strategic Plans;
+
+(b) the determination of further cases for which the maximum number of amendments referred to in Article 119(7) does not count.
+
+## TITLE VI — COORDINATION AND GOVERNANCE
+
+###### Article 123 — Managing authority
+
+1\. Each Member State shall designate a national managing authority for its CAP Strategic Plan.
+
+Member States may, taking into account their constitutional and institutional provisions, designate regional managing authorities to be responsible for some or all of the tasks referred to in paragraph 2.
+
+Member States shall ensure that the relevant management and control system has been set up in such a way that it ensures a clear allocation and separation of functions between the national managing authority and, where relevant, regional managing authorities and other bodies. Member States shall be responsible for ensuring that the system functions effectively throughout the CAP Strategic Plan period.
+
+2\. The managing authority shall be responsible for managing and implementing the CAP Strategic Plan in an efficient, effective and correct way. In particular, it shall ensure that:
+
+(a) there is an electronic information system as referred to in Article 130;
+
+(b) farmers, other beneficiaries and other bodies involved in the implementation of interventions:
+
+(i) are informed of their obligations resulting from the aid granted, and maintain either a separate accounting system or an adequate accounting code for all transactions relating to an operation, where relevant;
+
+(ii) are aware of the requirements concerning the provision of data to the managing authority and the recording of outputs and results;
+
+(c) the farmers and other beneficiaries concerned are provided, where appropriate by the use of electronic means, with clear and precise information on the statutory management requirements and the minimum GAEC standards established pursuant to Title III, Chapter I, Section 2, as well as on the requirements related to social conditionality established pursuant to Title III, Chapter I, Section 3, to be applied at farm level;
+
+(d) the ex-ante evaluation referred to in Article 139 conforms to the evaluation and monitoring system and is submitted to the Commission;
+
+(e) the evaluation plan referred to in Article 140(4) is in place and that the ex-post evaluations referred to in that Article are conducted within the time limits laid down in this Regulation, ensuring that such evaluations conform to the monitoring and evaluation system and that they are submitted to the monitoring committee and the Commission;
+
+(f) the monitoring committee is provided with the information and documents needed to monitor the implementation of the CAP Strategic Plan in the light of its specific objectives and priorities;
+
+(g) the annual performance report is drawn up, including aggregate monitoring tables, and, after the report has been submitted to the monitoring committee for opinion, is submitted to the Commission in accordance with Article 9(3), first subparagraph, point (b), of Regulation (EU) 2021/2116.
+
+(h) relevant follow-up actions on Commission’s observations on the annual performance reports are taken;
+
+(i) the paying agency receives all necessary information, in particular on the procedures operated and any controls carried out in relation to interventions selected for funding, before payments are authorised;
+
+(j) beneficiaries under interventions financed by the EAFRD, other than area- and animal-related interventions, acknowledge the financial support received, including the appropriate use of the Union emblem in accordance with the rules laid down by the Commission in accordance with paragraph 5;
+
+(k) publicity is made for the CAP Strategic Plan, including through the national CAP network, by informing:
+
+(i) potential beneficiaries, professional organisations, the economic and social partners, bodies involved in promoting equality between men and women, and the non-governmental organisations concerned, including environmental organisations, of the possibilities offered by the CAP Strategic Plan and the rules for gaining access to the CAP Strategic Plan funding; and
+
+(ii) farmers, other beneficiaries and the general public of the Union support for agriculture and rural development through the CAP Strategic Plan.
+
+For support financed by the EAGF, as appropriate, Member States shall provide for the managing authority to use the visibility and communication tools and structures used by the EAFRD.
+
+3\. Where regional managing authorities referred to in paragraph 1, second subparagraph, are responsible for the tasks referred to in paragraph 2, the national managing authority shall ensure appropriate coordination between those authorities with a view to guaranteeing the coherence and consistency of the CAP Strategic Plan design and implementation.
+
+4\. The national managing authority or, where relevant, the regional managing authorities may delegate tasks to intermediate bodies. In that case, the delegating managing authority shall retain full responsibility for the efficiency and correctness of the management and implementation of those tasks and ensure that appropriate provisions are in place to allow the intermediate body to obtain all necessary data and information for the execution of those tasks.
+
+5\. The Commission may adopt implementing acts laying down uniform conditions for the application of the information, publicity and visibility requirements referred to in paragraph 2, points (j) and (k). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+###### Article 124 — Monitoring committee
+
+1\. Each Member State shall set up a national committee to monitor the implementation of the CAP Strategic Plan within three months of the date of notification to the Member State of the Commission implementing decision approving a CAP Strategic Plan.
+
+Each monitoring committee shall adopt its rules of procedure, which shall include provisions on the coordination with regional monitoring committees when set up in accordance with paragraph 5, on the prevention of conflicts of interest and on the application of the principle of transparency.
+
+The monitoring committee shall meet at least once a year and shall review all issues that affect the CAP Strategic Plan progress towards achieving its targets.
+
+Each Member State shall publish the rules of procedure and the opinions of the monitoring committee.
+
+2\. Each Member State shall decide the composition of the monitoring committee and shall ensure a balanced representation of the relevant public authorities and intermediate bodies and of representatives of the partners referred to in Article 106(3).
+
+Each member of the monitoring committee shall have a vote.
+
+The Member State shall publish the list of the members of the monitoring committee online.
+
+Representatives of the Commission shall participate in the work of the monitoring committee in an advisory capacity.
+
+3\. The monitoring committee shall examine in particular:
+
+(a) progress in CAP Strategic Plan implementation and in achieving the milestones and targets;
+
+(b) any issues that affect the performance of the CAP Strategic Plan and the actions taken to address those issues, including progress towards simplification and reduction of administrative burden for final beneficiaries;
+
+(c) the elements of the ex-ante assessment listed in Article 58(3) of Regulation (EU) 2021/1060 and the strategy document referred to in Article 59(1) of that Regulation;
+
+(d) progress made in carrying out evaluations, syntheses of evaluations and any follow-up given to findings;
+
+(e) relevant information related to the performance of the CAP Strategic Plan supplied by the national CAP network;
+
+(f) the implementation of communication and visibility actions;
+
+(g) administrative capacity building for public authorities and farmers and other beneficiaries, where relevant.
+
+4\. The monitoring committee shall give its opinion on:
+
+(a) the methodology and criteria used for the selection of operations;
+
+(b) the annual performance reports;
+
+(c) the evaluation plan and amendments thereof;
+
+(d) any proposal by the managing authority for amendment of a CAP Strategic Plan and, as regards a proposal for amendment of a CAP Strategic Plan related to the EAGF, the date of effect of the amendment proposed by the managing authority in accordance with Article 119(8).
+
+5\. Where elements are established at regional level, the Member State concerned may set up regional monitoring committees to monitor the implementation of the regional elements and provide the national monitoring committee with information in this respect. This Article shall apply to those regional monitoring committees mutatis mutandis as regards the elements established at regional level.
+
+###### Article 125 — Technical assistance at the initiative of Member States
+
+1\. At the initiative of a Member State, the EAFRD may support actions which are necessary for the effective administration and implementation of support in relation to the CAP Strategic Plan, including establishing and operating the national CAP networks referred to in Article 126(1). The actions referred to in this paragraph may concern previous programming periods and subsequent CAP Strategic Plan periods.
+
+2\. Actions of the authority of the Lead Fund in accordance with Article 31(4), (5) and (6) of Regulation (EU) 2021/1060 may also be supported provided that LEADER involves support from the EAFRD.
+
+3\. Technical assistance at the initiative of Member States shall not finance certification bodies referred to in Article 12 of Regulation (EU) 2021/2116.
+
+###### Article 126 — National and European CAP networks
+
+1\. Each Member State shall establish a national network for the common agricultural policy (‘national CAP network’) for the networking of organisations and administrations, advisors, researchers and other innovation actors, and other actors in the field of agriculture and rural development at national level at the latest 12 months after the approval by the Commission of the CAP Strategic Plan. The national CAP networks shall build on the existing networking experience and practices in the Member States.
+
+2\. The Commission shall establish a European network for the common agricultural policy (‘European CAP network’) for the networking of national networks, organisations, and administrations in the field of agriculture and rural development at Union level.
+
+3\. Networking through the national and European CAP networks shall have the following objectives:
+
+(a) increase the involvement of all relevant stakeholders in the implementation of CAP Strategic Plans and, where relevant, in their design;
+
+(b) accompany the Member States’ administrations in the implementation of CAP Strategic Plans and the transition to a performance-based delivery model;
+
+(c) contribute to improving the quality of implementation of CAP Strategic Plans;
+
+(d) contribute to the information of the public and potential beneficiaries on the CAP and funding opportunities;
+
+(e) foster innovation in agriculture and rural development and support peer-to-peer learning and the inclusion of, and the interaction between, all stakeholders in the knowledge-exchange and knowledge-building process;
+
+(f) contribute to monitoring and evaluation capacity and activities;
+
+(g) contribute to the dissemination of CAP Strategic Plans results.
+
+The objective set out in the first subparagraph, point (d), shall be addressed in particular through the national CAP networks.
+
+4\. The tasks of the national and European CAP networks for the achievement of the objectives set out in paragraph 3 shall be the following:
+
+(a) collection, analysis and dissemination of information on actions and good practices implemented or supported under CAP Strategic Plans as well as analysis on developments in agriculture and rural areas relevant to the specific objectives set out in Article 6(1) and (2);
+
+(b) contribution to capacity building for Member States administrations and of other actors involved in the implementation of CAP Strategic Plans, including as regards monitoring and evaluation processes;
+
+(c) creation of platforms, fora and events to facilitate exchanges of experience between stakeholders and peer-to-peer learning, including where relevant exchanges with networks in third countries;
+
+(d) collection of information and facilitation of its dissemination as well as networking of funded structures and projects, such as local action groups referred to in Article 33 of Regulation (EU) 2021/1060, EIP operational groups referred to in Article 127(3) of this Regulation and equivalent structures and projects;
+
+(e) support for cooperation projects between EIP operational groups referred to in Article 127(3) of this Regulation, local action groups referred to in Article 33 of Regulation (EU) 2021/1060 or similar local development structures, including transnational cooperation;
+
+(f) creation of links to other Union-funded strategies or networks;
+
+(g) contribution to the further development of the CAP and preparation of any subsequent CAP Strategic Plan period;
+
+(h) in the case of national CAP networks, participating in, and contributing to, the activities of the European CAP network;
+
+(i) in the case of the European CAP network, cooperating with, and contributing to, the activities of the national CAP networks.
+
+5\. The Commission shall adopt implementing acts setting out the organisational structure and operation of the European CAP network. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+###### Article 127 — European Innovation Partnership for agricultural productivity and sustainability
+
+1\. The aim of the European Innovation Partnership for agricultural productivity and sustainability (EIP) shall be to stimulate innovation and improve the exchange of knowledge.
+
+The EIP shall support the AKIS, by connecting policies and instruments to speed up innovation.
+
+2\. The EIP shall contribute to achieving the specific objectives set out in Article 6(1) and (2).
+
+It shall in particular:
+
+(a) create added value by better linking research and farming practice and encouraging the wider use of available innovation measures;
+
+(b) connect innovation actors and projects;
+
+(c) promote the faster and wider transposition of innovative solutions into practice, including farmer-to-farmer exchange; and
+
+(d) inform the scientific community about the research needs of farming practice.
+
+3\. EIP operational groups supported under the cooperation type of intervention referred to in Article 77 shall form part of the EIP. Each EIP operational group shall draw up a plan for an innovative project to be developed or implemented. The innovative project shall be based on the interactive innovation model which has as key principles:
+
+(a) developing innovative solutions focusing on farmers’ or foresters’ needs while also tackling the interactions across the whole supply chain where useful;
+
+(b) bringing together partners with complementary knowledge such as farmers, advisors, researchers, enterprises or non-governmental organisations in a targeted combination as best suited to achieve the project objectives; and
+
+(c) co-deciding and co-creating all along the project.
+
+EIP operational groups may act at transnational, including cross-border, level. The envisaged innovation may be based on new practices, but also on traditional practices in a new geographical or environmental context.
+
+EIP operational groups shall disseminate a summary of their plans and of the results of their projects, in particular through the national and European CAP networks.
+
+## TITLE VII — MONITORING, REPORTING AND EVALUATION
+
+### CHAPTER I — PERFORMANCE FRAMEWORK
+
+###### Article 128 — Establishment of the performance framework
+
+1\. A performance framework shall be established under the shared responsibility of Member States and the Commission. The performance framework shall allow reporting, monitoring and evaluation of the performance of the CAP Strategic Plan during its implementation.
+
+2\. The performance framework shall include the following elements:
+
+(a) a set of common output, result, impact and context indicators referred to in Article 7 which will be used as the basis for monitoring, evaluation and the annual performance reporting;
+
+(b) targets and annual milestones established in relation to the relevant specific objective using the relevant result indicators;
+
+(c) data collection, storage and transmission;
+
+(d) regular reporting on performance, monitoring and evaluation activities;
+
+(e) the ex-ante, interim, and ex-post evaluations and all other evaluation activities linked to the CAP Strategic Plan.
+
+###### Article 129 — Objectives of the performance framework
+
+The performance framework’s objectives shall be to:
+
+(a) assess the impact, effectiveness, efficiency, relevance, coherence and Union added value of the CAP;
+
+(b) monitor progress made towards achieving the targets of the CAP Strategic Plans;
+
+(c) assess the impact, effectiveness, efficiency, relevance and coherence of the interventions of the CAP Strategic Plans;
+
+(d) support a common learning process related to monitoring and evaluation.
+
+###### Article 130 — Electronic information system
+
+Member States shall establish a secure electronic information system, or use an existing one, in which they shall record and keep key information on the implementation of the CAP Strategic Plan that is needed for monitoring and evaluation, in particular for monitoring progress towards the objectives and targets set, including information on each beneficiary and operation.
+
+###### Article 131 — Provision of information
+
+Member States shall ensure that beneficiaries of support under the CAP Strategic Plan interventions and local action groups referred to in Article 33 of Regulation (EU) 2021/1060 provide to the managing authority, or other bodies delegated to perform functions on its behalf, all the information necessary for the purpose of monitoring and evaluation of the CAP Strategic Plan.
+
+Member States shall ensure that comprehensive, timely and reliable data sources are established to enable effective follow-up of policy progress towards objectives using output, result and impact indicators.
+
+###### Article 132 — Monitoring procedures
+
+The managing authority and the monitoring committee shall monitor the implementation of the CAP Strategic Plan and progress made towards achieving the targets of the CAP Strategic Plan on the basis of the output and result indicators.
+
+###### Article 133 — Implementing powers for the performance framework
+
+The Commission shall adopt implementing acts on the content of the performance framework. Such acts shall include indicators other than those of Annex I which are needed for the appropriate monitoring and evaluation of the policy, the methods for the calculation of indicators set out in and outside of Annex I, and the necessary provisions to guarantee accuracy and reliability of the data collected by Member States. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+### CHAPTER II — ANNUAL PERFORMANCE REPORTS
+
+###### Article 134 — Annual performance reports
+
+1\. Member States shall, in accordance with Article 9(3) and Article 10 of Regulation (EU) 2021/2116 provide an annual performance report on the implementation of the CAP Strategic Plan in the previous financial year.
+
+2\. The last annual performance report, to be provided in accordance with Article 9(3) and Article 10 of Regulation (EU) 2021/2116, shall comprise a summary of the evaluations carried out during the implementation period.
+
+3\. In order to be admissible, the annual performance report shall contain all the information required in paragraphs 4, 5, 7 and 10. The Commission shall inform the Member States concerned within 15 working days from the submission of the annual performance report if it is not admissible, failing which it shall be deemed admissible.
+
+4\. Annual performance reports shall set out key qualitative and quantitative information on the implementation of the CAP Strategic Plan by reference to financial data and to output and result indicators, including at regional level where relevant.
+
+5\. The quantitative information referred to in paragraph 4 shall include:
+
+(a) the realised outputs achieved by the end of the previous financial year:
+
+(b) the gross expenditure at the end of the financial year, relevant to the outputs referred to in point (a) of this subparagraph, before application of any penalties or other reductions, and for the EAFRD, taking into account reallocation of cancelled or recovered funds pursuant to Article 57 of Regulation (EU) 2021/2116;
+
+(c) the ratio between gross expenditure referred to in point (b) of this subparagraph and the relevant realised outputs referred to in point (a) of this subparagraph (‘realised unit amount’);
+
+(d) results and distance to corresponding milestones set in accordance with Article 109(1), point (a).
+
+The information referred to in the first subparagraph, points (a), (b) and (c), of this paragraph, shall be broken down per unit amount as set out in the CAP Strategic Plan in accordance with Article 111, first paragraph, point (h). For output indicators which are marked in Annex I as used only for monitoring, only the information referred to in the first subparagraph, point (a), of this paragraph shall be included.
+
+7\. The qualitative information referred to in paragraph 4 shall include:
+
+(a) a synthesis of the state of implementation of the CAP Strategic Plan in respect of the previous financial year:
+
+(b) any issues which affect the performance of the CAP Strategic Plan, in particular as regards deviations from milestones, providing the justifications referred to in Article 135, or where appropriate, giving reasons, and where relevant, describing the measures taken.
+
+10\. For financial instruments, in addition to the data to be provided under paragraph 4, information shall be provided on:
+
+(a) the eligible expenditure by type of financial product;
+
+(b) the amount of management costs and fees declared as eligible expenditure;
+
+(c) the amount, by type of financial product, of private and public resources mobilised in addition to the EAFRD;
+
+(d) interest and other gains generated by support from the EAFRD contribution to financial instruments in accordance with Article 60 of Regulation (EU) 2021/1060 and resources returned attributable to support from the EAFRD in accordance with Article 62 of that Regulation;
+
+(e) total value of loans, equity or quasi-equity investments in final recipients which were guaranteed with eligible public expenditure excluding additional national financing referred to in Article 115(5) of this Regulation and which were actually disbursed to final recipients.
+
+11\. For the purpose of the biennial performance review referred to in Article 135, the annual performance report shall contain information on the additional national financing referred to in Article 115(5), points (a) and (d). That financing shall be taken into account for the biennial performance review.
+
+12\. The annual performance reports, as well as a summary for citizens of their content, shall be made available to the public.
+
+13\. The Commission may make observations on the admissible annual performance reports, within one month from the day on which the Commission informs the Member States of their admissibility. Where the Commission does not provide observations within that deadline, the reports shall be deemed to be accepted. Article 121 shall apply mutatis mutandis.
+
+14\. The Commission shall adopt implementing acts laying down rules for the presentation of the content of the annual performance report. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+###### Article 135 — Biennial performance review
+
+1\. The Commission shall carry out a biennial performance review based on the information provided in the annual performance reports.
+
+2\. Where the value of one or more result indicators reported in accordance with Article 134 that have been used by the Member State concerned for performance review in the CAP Strategic Plan in accordance with Annex I reveals a shortfall of more than 35 % from the respective milestone for financial year 2024 and 25 % for financial year 2026, the Member State concerned shall submit a justification for this deviation. Following the assessment of that justification, the Commission may where necessary ask the Member State concerned to submit an action plan in accordance with Article 41(1) of Regulation (EU) 2021/2116 describing the intended remedial actions and the expected timeframe.
+
+3\. In 2026, the Commission shall review the information provided in the performance reports for financial year 2025. Where the value of one or more result indicators reported in accordance with Article 134 that have been used by the Member State concerned for performance review in the CAP Strategic Plan in accordance with Annex I reveals a shortfall of more than 35 % from the milestone concerned for financial year 2025, the Commission may ask the Member State concerned for remedial actions.
+
+###### Article 136 — Annual review meetings
+
+1\. Member States shall organise each year a review meeting with the Commission. The review meeting shall be chaired jointly or by the Commission and shall take place not earlier than two months after the submission of the annual performance report.
+
+2\. The review meeting shall aim to examine the performance of each plan, including progress made towards achieving established targets and available information on relevant impacts, as well as any issues affecting performance and past or future actions to be taken to address them.
+
+### CHAPTER III — REPORTING FOR THE CROP-SPECIFIC PAYMENT FOR COTTON AND THE TRANSITIONAL NATIONAL AID
+
+###### Article 137 — Annual reporting
+
+By 15 February 2025 and 15 February of each subsequent year until 2030, the Member States that grant the crop-specific payment for cotton laid down in Title III, Chapter II, Section 3, Subsection 2, shall provide the Commission with the following information on the implementation of that payment in the previous financial year:
+
+(a) the number of beneficiaries;
+
+(b) the amount of payment per hectare; and
+
+(c) the number of hectares for which the payment was granted.
+
+###### Article 138 — Annual reporting on transitional national aid
+
+By 15 February 2025 and 15 February of each subsequent year until 2030, the Member States that grant the transitional national aid laid down in Article 147 shall provide the Commission with the following information on the implementation of that aid in the previous financial year for each relevant sector:
+
+(a) the number of beneficiaries;
+
+(b) the total amount of transitional national aid granted; and
+
+(c) the number of hectares, animals or other units for which that aid has been granted.
+
+### CHAPTER IV — CAP STRATEGIC PLAN EVALUATION
+
+###### Article 139 — Ex-ante evaluations
+
+1\. Member States shall carry out ex-ante evaluations to improve the quality of the design of their CAP Strategic Plans.
+
+2\. The ex-ante evaluation shall be carried out under the responsibility of the authority responsible for the preparation of the CAP Strategic Plan.
+
+3\. The ex-ante evaluation shall assess:
+
+(a) the contribution of the CAP Strategic Plan to achieving the specific objectives set out in Article 6(1) and (2), taking into account national and regional needs and potential for development as well as lessons drawn from implementation of the CAP in previous programming periods;
+
+(b) the internal coherence of the proposed CAP Strategic Plan and its relationship with other relevant instruments;
+
+(c) the consistency of the allocation of budgetary resources with those specific objectives set out in Article 6(1) and (2) that are addressed by the CAP Strategic Plan;
+
+(d) how the expected outputs will contribute to results;
+
+(e) whether the quantified target values for results and milestones are appropriate and realistic, having regard to the support envisaged from the EAGF and EAFRD;
+
+(f) measures planned to reduce the administrative burden on farmers and other beneficiaries;
+
+(g) where relevant, the rationale for the use of financial instruments financed by the EAFRD.
+
+4\. The ex-ante evaluation may incorporate the requirements for the SEA set out in Directive 2001/42/EC taking into account climate change mitigation needs.
+
+###### Article 140 — Evaluation of CAP Strategic Plans during the implementation period and ex post
+
+1\. Member States shall carry out evaluations of their CAP Strategic Plans during implementation and ex post to improve the quality of the design and implementation of the plans. Member States shall assess their CAP Strategic Plans’ effectiveness, efficiency, relevance, coherence, Union added value and impact in relation to their contribution to achiving the CAP general objectives set out in Article 5 and those specific objectives set out in Article 6(1) and (2) which are addressed by the CAP Strategic Plan concerned. The CAP Strategic Plan’s overall impact shall be assessed by the ex-post evaluation only.
+
+2\. Member States shall entrust evaluations to functionally independent experts.
+
+3\. Member States shall ensure that procedures are in place to produce and collect the data necessary for evaluations.
+
+4\. Member States shall draw up an evaluation plan providing indications on intended evaluation activities during the implementation period.
+
+5\. Member States shall submit the evaluation plan to the monitoring committee no later than one year after the adoption of the CAP Strategic Plan.
+
+6\. The managing authority shall be responsible for completing a comprehensive ex-post evaluation of the CAP Strategic Plan by 31 December 2031.
+
+7\. Member States shall make all evaluations available to the public.
+
+### CHAPTER V — PERFORMANCE ASSESSMENT BY THE COMMISSION
+
+###### Article 141 — Performance assessment and evaluation
+
+1\. The Commission shall establish a multiannual evaluation plan of the CAP to be carried out under its responsibility. That evaluation plan shall also cover the measures under Regulation (EU) No 1308/2013.
+
+2\. The Commission shall submit to the European Parliament and to the Council a summary report of Member States’ CAP Strategic Plans by 31 December 2023. The report shall include an analysis of the joint effort and collective ambition of Member States to address the specific objectives set out in Article 6(1) and (2), in particular those mentioned in Article 6(1), points (d), (e), (f) and (i).
+
+3\. By 31 December 2025, the Commission shall submit a report to the European Parliament and the Council in order to assess the operation of the new delivery model by the Member States and consistency and combined contribution of the interventions in Member States’ CAP Strategic Plans to achieving environmental and climate-related commitments of the Union. When necessary, the Commission shall issue recommendations to the Member States to facilitate the achievement of those commitments.
+
+4\. The Commission shall carry out an interim evaluation to examine the effectiveness, efficiency, relevance, coherence and Union added value of the EAGF and the EAFRD by 31 December 2026, taking into account the indicators set out in Annex I. The Commission may make use of all relevant information already available in accordance with Article 128 of the Financial Regulation.
+
+5\. The Commission shall carry out an ex-post evaluation to examine the effectiveness, efficiency, relevance, coherence and Union added value of the EAGF and the EAFRD.
+
+6\. Based on evidence provided in evaluations on the CAP, including evaluations on CAP Strategic Plans, as well as other relevant information sources, the Commission shall present a report on the interim evaluation, including first results on the performance of the CAP, to the European Parliament and the Council by 31 December 2027. A second report including an assessment of the performance of the CAP shall be presented by 31 December 2031.
+
+###### Article 142 — Reporting based on a core set of indicators
+
+In compliance with the reporting requirement pursuant to Article 41(3), point (h)(iii), of the Financial Regulation, the Commission shall present to the European Parliament and the Council the performance information referred to in that Article measured by the core set of indicators set out in Annex XIV to this Regulation.
+
+###### Article 143 — General provisions
+
+1\. Member States shall provide the Commission with the available information necessary to enable it to perform the monitoring and evaluation of the CAP referred to in Article 141.
+
+2\. Data needed for the context and impact indicators shall primarily come from established data sources, such as the Farm Accountancy Data Network and Eurostat. Where data for those indicators are not available or not complete, the gaps shall be addressed in the context of the European Statistical Programme established under Regulation (EC) No 223/2009 of the European Parliament and of the Council ( 22 ), the Farm Accountancy Data Network established by Council Regulation (EC) No 1217/2009 ( 23 ), or through formal agreements with other data providers such as the Joint Research Centre and the European Environment Agency.
+
+3\. Data from administrative registers, such as the integrated system referred to in Article 65(2) of Regulation (EU) 2021/2116, the identification system for agricultural parcels referred to in Article 68 of that Regulation, and animal and vineyard registers, shall also be used for statistical purposes, in cooperation with statistical authorities in Member States and with Eurostat.
+
+4\. The Commission may adopt implementing acts laying down rules on the information to be sent by Member States, taking into account the need to avoid any undue administrative burden, as well as the data needs and synergies between potential data sources. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+## TITLE VIII — COMPETITION PROVISIONS
+
+###### Article 144 — Rules applying to undertakings
+
+Where support under Title III of this Regulation is granted to forms of cooperation between undertakings, it may be granted only to such forms of cooperation which comply with the competition rules as they apply by virtue of Articles 206 to 210 of Regulation (EU) No 1308/2013.
+
+###### Article 145 — State aid
+
+1\. Save as otherwise provided for in this Title, Articles 107, 108 and 109 TFEU shall apply to support under this Regulation.
+
+2\. Articles 107, 108 and 109 TFEU shall not apply to support provided by Member States pursuant to and in accordance with this Regulation, or to additional national financing referred to in Article 146 of this Regulation, falling within the scope of Article 42 TFEU.
+
+###### Article 146 — Additional national financing
+
+Support provided by Member States in relation to operations falling within the scope of Article 42 TFEU that is intended to provide additional financing for interventions in rural development laid down in Title III, Chapter IV, of this Regulation for which Union support is granted at any time during the CAP Strategic Plan period may only be made if it complies with this Regulation and is included in Annex V to the CAP Strategic Plans approved by the Commission.
+
+Member States shall not provide support for interventions in sectors referred to in Title III, Chapter III, of this Regulation except where it is explicitly provided for in that Chapter.
+
+Member States may provide additional national financing of up to 200 % of the EAFRD financing allocated in the CAP Strategic Plan for support under Article 78b.
+
+###### Article 147 — Transitional national aid
+
+1\. Member States having granted transitional national aid in the period 2015-2022 in accordance with Article 37 of Regulation (EU) No 1307/2013 may continue to grant transitional national aid to farmers.
+
+2\. The conditions for granting transitional national aid shall be identical to those referred to in Article 37(3) of Regulation (EU) No 1307/2013.
+
+By way of derogation from the first subparagraph of this paragraph, where the conditions for granting transitional national aid referred to in the first subparagraph related to a reference period, Member States may decide to modify the reference period to no later than year 2018.
+
+3\. The total amount of transitional national aid that may be granted per sector shall be limited to the following percentage of the level of payments in each of the sector-specific financial envelopes authorised by the Commission in accordance with Article 132(7) or Article 133a(5) of Council Regulation (EC) No 73/2009 ( 24 ) in 2013:
+
+— 50 % in 2023,
+
+— 45 % in 2024,
+
+— 40 % in 2025,
+
+— 35 % in 2026,
+
+— 30 % in 2027.
+
+For Cyprus, the percentage shall be calculated on the basis of the sector-specific financial envelopes set out in Annex XVIIa to Regulation (EC) No 73/2009.
+
+## TITLE IX — GENERAL AND FINAL PROVISIONS
+
+### CHAPTER I — GENERAL PROVISIONS
+
+###### Article 148 — Measures to resolve specific problems
+
+1\. In order to resolve specific problems, the Commission shall adopt implementing acts which are both necessary and justifiable in an emergency. Such implementing acts may derogate from provisions of this Regulation to the extent and for such a period as is strictly necessary. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+2\. On duly justified imperative grounds of urgency, and in order to resolve such specific problems as referred to in paragraph 1 while ensuring the continuity of the CAP Strategic Plan in the case of extraordinary circumstances, the Commission shall adopt immediately applicable implementing acts in accordance with the procedure referred to in Article 153(3).
+
+3\. Measures adopted under paragraph 1 or 2 shall remain in force for a period not exceeding twelve months. If after this period the specific problems referred to in those paragraphs persist, the Commission may, in order to establish a permanent solution, submit an appropriate legislative proposal.
+
+4\. The Commission shall inform the European Parliament and the Council of any measure adopted under paragraph 1 or 2 within two working days of its adoption.
+
+###### Article 149 — Application to the outermost regions and the smaller Aegean islands
+
+1\. Title III, Chapter II, does not apply to the outermost regions.
+
+2\. For direct payments granted in the outermost regions of the Union in accordance with Chapter IV of Regulation (EU) No 228/2013 and in the smaller Aegean islands in accordance with Chapter IV of Regulation (EU) No 229/2013, Article 3, points (1) and (2), Article 4(2), (3) and (5), Article 4(4), second subparagraph, Title III, Chapter I, Sections 2 and 3, and Title IX of this Regulation apply. Article 4(2), (3) and (5) and Title III, Chapter I, Section 2, apply without any obligations related to the CAP Strategic Plan.
+
+### CHAPTER II — INFORMATION SYSTEM AND PROTECTION OF PERSONAL DATA
+
+###### Article 150 — Exchange of information and documents
+
+1\. The Commission, in collaboration with Member States, shall establish an information system to enable the secure exchange of data of common interest between the Commission and each Member State.
+
+2\. The Commission shall ensure that there is an appropriate secure electronic system in which key information and report on monitoring and evaluation can be recorded, maintained and managed.
+
+3\. The Commission shall adopt implementing acts laying down rules for the operation of the system referred to in paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 153(2).
+
+###### Article 151 — Processing and protection of personal data
+
+1\. Without prejudice to Articles 98, 99 and 100 of Regulation (EU) 2021/2116, Member States and the Commission shall collect personal data for the purpose of carrying out their respective management, control, monitoring and evaluation obligations under this Regulation, and in particular those laid down in Titles VI and VII, and shall not process those data in a way which is incompatible with this purpose.
+
+2\. Where personal data are processed for monitoring and evaluation purposes under Title VII using the secure electronic system referred to in Article 150, they shall be made anonymous.
+
+3\. Personal data, including when they are processed by providers of farm advisory services referred to in Article 15, shall be processed in accordance with Regulations (EU) 2016/679 and (EU) 2018/1725. In particular, such data shall not be stored in a form which permits identification of data subjects for longer than is necessary for the purposes for which they were collected or for which they are further processed, taking into account the minimum retention periods laid down in the applicable national and Union law.
+
+4\. Member States shall inform the data subjects that their personal data may be processed by national and Union bodies in accordance with paragraph 1 and that in this respect they enjoy the data protection rights provided by Regulations (EU) 2016/679 and (EU) 2018/1725.
+
+### CHAPTER III — DELEGATED ACTS AND IMPLEMENTING ACTS
+
+###### Article 152 — Exercise of delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 4(8), Article 7(2), Article 13(3), Article 17(6), Article 35, Article 37(5), Article 38(5), Article 39(3), Articles 45, 56 and 84, Article 87(2), Article 89(4), Article 100(3) and Articles 116, 122 and 158 shall be conferred on the Commission for a period of seven years from 7 December 2021. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the seven-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of powers referred to in Article 4(8), Article 7(2), Article 13(3), Article 17(6), Article 35, Article 37(5), Article 38(5), Article 39(3), Articles 45, 56 and 84, Article 87(2), Article 89(4), Article 100(3) and Articles 116, 122 and 158 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the powers specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 4(8), Article 7(2), Article 13(3), Article 17(6), Article 35, Article 37(5), Article 38(5), Article 39(3), Articles 45, 56 and 84, Article 87(2), Article 89(4), Article 100(3) and Articles 116, 122 and 158 shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+###### Article 153 — Committee procedure
+
+1\. The Commission shall be assisted by a committee called ‘Common Agricultural Policy Committee’. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+In the case of acts referred to in Article 133 and Article 143(4) of this Regulation, where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and Article 5(4), third subparagraph, of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where reference is made to this paragraph, Article 8 of Regulation (EU) No 182/2011, in conjunction with Article 5 thereof, shall apply.
+
+### CHAPTER IV — TRANSITIONAL AND FINAL PROVISIONS
+
+###### Article 154 — Repeals
+
+1\. Regulation (EU) No 1305/2013 is repealed with effect from 1 January 2023.
+
+However, it shall, subject to Regulation (EU) 2020/2220 of the European Parliament and of the Council ( 25 ), continue to apply to the implementation of rural development programmes pursuant to Regulation (EU) No 1305/2013 until 31 December 2025. It shall, under the same conditions, apply to expenditure incurred by the beneficiaries and paid by the paying agency in the framework of those rural development programmes until 31 December 2025.
+
+Article 32 of, and Annex III to, Regulation (EU) No 1305/2013 shall continue to apply in respect of the designation of areas facing natural and other specific constraints. References to the rural development programmes shall be read as references to the CAP Strategic Plans.
+
+Until the national and European CAP networks referred to in Article 126 of this Regulation are established, the European network for rural development, the European Innovation Partnership network and the national rural networks referred to in Articles 52, 53 and 54 of Regulation (EU) No 1305/2013 may carry out, in addition to the activities referred to in those Articles, the activities referred to in Article 126 and 127 of this Regulation.
+
+When the national and European CAP networks referred to in Article 126 of this Regulation are established, they may carry out until 31 December 2025, in addition to the activities referred to in Articles 126 and 127 of this Regulation, the tasks referred to in Article 52(3), Article 53(3) and Article 54(3) of Regulation (EU) No 1305/2013 related to the implementation of the rural development programmes pursuant to that Regulation.
+
+2\. Regulation (EU) No 1307/2013 is repealed with effect from 1 January 2023.
+
+However, it shall continue to apply in respect of aid applications relating to claim years starting before 1 January 2023.
+
+3\. The references made in this Regulation to Regulations (EC) No 73/2009 and (EU) No 1307/2013 shall be understood as being made to those Regulations such as they were in force before their repeal.
+
+###### Article 155 — Eligibility of certain types of expenditure relating to the CAP Strategic Plan period
+
+1\. Expenditure relating to legal commitments to beneficiaries incurred under the measures referred to in Article 31 of Regulation (EC) No 1257/1999 or in Article 39 or Article 43 of Regulation (EC) No 1698/2005 which are receiving support under Regulation (EU) No 1305/2013 may continue to be eligible for an EAFRD contribution in the CAP Strategic Plan period, subject to the following conditions:
+
+(a) such expenditure is provided for in the relevant CAP Strategic Plan in accordance with this Regulation and complies with Regulation (EU) 2021/2116;
+
+(b) the EAFRD contribution rate of the intervention set in the CAP Strategic Plan in accordance with this Regulation to cover those measures applies;
+
+(c) the integrated system referred to in Article 65(2) of Regulation (EU) 2021/2116 applies to the legal commitments undertaken under measures that correspond to the area- and animal-based types of intervention listed in Title III, Chapters II and IV, of this Regulation and the relevant operations are clearly identified; and
+
+(d) the payments for the legal commitments referred to in point (c) are made within the period laid down in Article 44(2) of Regulation (EU) 2021/2116.
+
+2\. Expenditure relating to legal commitments to beneficiaries incurred under the measures referred to in Article 23 of Regulation (EC) No 1698/2005 may continue to be eligible for an EAFRD contribution in the CAP Strategic Plan period, subject to the following conditions:
+
+(a) such expenditure is notified to the Commission as an additional information in the part of the CAP Strategic Plan dedicated to the intervention strategy, referred to in Article 109, and by indicating the expenditure in the financial plan of the CAP Strategic Plan referred to in Article 112(2);
+
+(b) it complies with Regulation (EU) No 1306/2013, which continues to apply to such expenditure in accordance with Article 104(1), second subparagraph, point (d), of Regulation (EU) 2021/2116; and
+
+(c) the EAFRD contribution rate established in the CAP Strategic Plan pursuant to Article 91(2), point (d), of this Regulation applies.
+
+3\. Expenditure relating to legal commitments to beneficiaries incurred under the multiannual measures referred to in Articles 22, 28, 29, 33 and 34 of Regulation (EU) No 1305/2013 or the measure referred to in Article 31 of that Regulation may be eligible for an EAFRD contribution in the CAP Strategic Plan period, subject to the following conditions:
+
+(a) such expenditure is provided for in the relevant CAP Strategic Plan in accordance with this Regulation and complies with Regulation (EU) 2021/2116;
+
+(b) the EAFRD contribution rate of the intervention set in the CAP Strategic Plan in accordance with this Regulation to cover those measures applies;
+
+(c) the integrated system referred to in Article 65(2) of Regulation (EU) 2021/2116 applies to the legal commitments undertaken under measures that correspond to the area- and animal-based types of intervention listed in Title III, Chapters II and IV, of this Regulation and the relevant operations are clearly identified; and
+
+(d) the payments for the legal commitments referred to in point (c) of this paragraph are made within the period laid down in Article 44(2) of Regulation (EU) 2021/2116.
+
+4\. Expenditure relating to legal commitments to beneficiaries incurred under the measures referred to in Articles 14 to 18, Article 19(1), points (a) and (b), and Articles 20, 23 to 27, 35, 38, 39 and 39a of Regulation (EU) No 1305/2013, Article 35 of Regulation (EU) No 1303/2013 and Article 4 of Regulation (EU) 2020/2220 after 31 December 2025 may be eligible for an EAFRD contribution in the CAP Strategic Plan period, subject to the following conditions:
+
+(a) such expenditure is provided for in the relevant CAP Strategic Plan in accordance with this Regulation, with the exception of Article 73(3), first subparagraph, point (f), thereof, and complies with Regulation (EU) 2021/2116;
+
+(b) the EAFRD contribution rate of the intervention established in the CAP Strategic Plan in accordance with this Regulation to cover those measures applies.
+
+5\. Expenditure relating to legal commitments to beneficiaries incurred under the multiannual measures referred to in Articles 28 and 29 of Regulation (EU) No 1305/2013 may be eligible for support from the EAGF in the CAP Strategic Plan period, subject to the following conditions:
+
+(a) such expenditure is provided for in the relevant CAP Strategic Plan in accordance with Article 31(7), first subparagraph, point (b), of this Regulation and complies with Regulation (EU) 2021/2116;
+
+(b) the integrated system referred to in Article 65(2) of Regulation (EU) 2021/2116 applies to the legal commitments undertaken under measures that correspond to eco-schemes referred to in Article 31 of this Regulation and the relevant operations are clearly identified;
+
+(c) the payments for the legal commitments referred to in point (b) of this paragraph are made within the period laid down in Article 44(2) of Regulation (EU) 2021/2116.
+
+###### Article 156 — Transition for financial allocations for types of intervention in certain sectors
+
+As from the date from which a CAP Strategic Plan has legal effects in accordance with Article 118(7) of this Regulation, the sum of the payments made in a financial year within each of the aid schemes referred to in Articles 29 to 31 and Articles 39 to 60 of Regulation (EU) No 1308/2013 and within each of the types of intervention for certain sectors referred to in Article 42, points (b) to (e), of this Regulation shall not exceed the financial allocations laid down in Article 88 of this Regulation for each financial year for each of those types of intervention.
+
+###### Article 157 — Eligibility of expenditure for multi-funded community-led local development
+
+By way of derogation from Articles 86(1) and 118(7) of this Regulation, expenditure incurred under Article 31(2), point (c), and Article 31(3) of Regulation (EU) 2021/1060 in combination with Article 77(1), point (b), and Article 2(2) of this Regulation shall be eligible for a contribution from the EAFRD from the date of submission of the CAP Strategic Plan provided that the support is paid by the paying agency as of 1 January 2023. Regulation (EU) No 1306/2013 shall apply in respect of such expenditure from the date of submission of the CAP Strategic Plan until 31 December 2022.
+
+###### Article 158 — Transitional measures
+
+The Commission is empowered to adopt delegated acts in accordance with Article 152 supplementing this Regulation with measures to protect any acquired rights and legitimate expectations of beneficiaries to the extent necessary for the transition from the arrangements provided for in Regulations (EU) No 1305/2013, (EU) No 1307/2013 and (EU) No 1308/2013 to those laid down in this Regulation. Those transitional rules shall in particular lay down the conditions under which support approved by the Commission under Regulations (EU) No 1305/2013 and (EU) No 1308/2013 may be integrated into support provided for under this Regulation, including for technical assistance and for the ex-post evaluations.
+
+###### Article 160 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — IMPACT, RESULT, OUTPUT AND CONTEXT INDICATORS PURSUANT TO ARTICLE 7
+
+<table>
+<tbody><tr><td>Assessment of the performance of the policy (multi-annual) - IMPACT Objectives and the corresponding impact indicators (1) </td><td>Performance review - RESULT (2) Only based on interventions supported by the CAP </td></tr>
+<tr><td colspan="2">(1)  Most of impact indicators are already collected via other channels (European statistics, Joint Research Centre, European Environment Agency, etc.) and used in the framework of other Union legislation or the Sustainable Development Goals. The data collection frequency is not always annual and there might be two or three years delay.  (2)  Proxies for results. Data notified annually by Member States to monitor the progress towards the targets they established in their CAP Strategic Plans. Result indicators which are mandatory for performance review when used by Member States in accordance with Article 109(1), point (a), are marked with PR. Member States may use for performance review any other relevant result indicator laid down in this Annex in addition to those marked with PR. </td></tr>
+</tbody>
+</table>
+
+| EU cross-cutting objective | Impact indicators |  | Result indicators |
+| --- | --- | --- | --- |
+| Modernising agriculture and rural areas by fostering and sharing knowledge, innovation and digitalisation in agriculture and rural areas and by encouraging their uptake by farmers, through improved access to research, innovation, knowledge exchange and training | I.1 Sharing knowledge and innovation: Share of CAP budget for knowledge sharing and innovation |  | R.1PR Enhancing performance through knowledge and innovation: Number of persons benefitting from advice, training, knowledge exchange or participating in European Innovation Partnership (EIP) operational groups supported by the CAP in order to enhance sustainable economic, social, environmental, climate-related and resource efficiency performance R.2 Linking advice and knowledge systems: Number of advisors receiving support to be integrated within the Agricultural Knowledge and Innovation Systems (AKIS) R.3 Digitalising agriculture: Share of farms benefitting from support for digital farming technology through CAP |
+
+<table>
+<tbody><tr><td>EU specific objective</td><td>Impact indicators</td><td>  </td><td>Result indicators</td></tr>
+<tr><td>To support viable farm income and resilience of the agricultural sector across the Union in order to enhance long-term food security and agricultural diversity as well as to ensure the economic sustainability of agricultural production in the Union</td><td>I.2 Reducing income disparities: Evolution of agricultural income compared to the general economy I.3 Reducing farm income variability: Evolution of agricultural income  I.4 Supporting viable farm income: Evolution of agricultural income level by type of farming (compared to the average in agriculture)  I.5 Contributing to territorial balance: Evolution of agricultural income in areas with natural constraints (compared to the average) </td><td>  </td><td>R.4 Linking income support to standards and good practices: Share of utilised agricultural area (UAA) covered by income support and subject to conditionality R.5 Risk management: Share of farms with supported CAP risk management tools  R.6PR Redistribution to smaller farms: Percentage of additional direct payments per hectare for eligible farms below average farm size (compared to average)  R.7PR Enhancing support for farms in areas with specific needs: Percentage of additional support per hectare in areas with higher needs (compared to average) </td></tr>
+<tr><td>To enhance market orientation and increase farm competitiveness both in the short and long term, including greater focus on research, technology and digitalisation</td><td>I.6 Increasing farm productivity: Total factor productivity in agriculture I.7 Harnessing agri-food trade: Agri-food imports and exports </td><td>  </td><td>R.8 Targeting farms in specific sectors: Share of farms benefitting from coupled income support for improving competitiveness, sustainability or quality  R.9PR Farm modernisation: Share of farms receiving investment support to restructure and modernise, including to improve resource efficiency </td></tr>
+<tr><td>To improve the farmers’ position in the value chain</td><td>I.8 Improving farmers’ position in the food chain: Value added for primary producers in the food chain</td><td>  </td><td>R.10PR Better supply chain organisation: Share of farms participating in producer groups, producer organisations, local markets, short supply chain circuits and quality schemes supported by the CAP R.11 Concentration of supply: Share of value of marketed production by producer organisations or producer groups with operational programmes in certain sectors </td></tr>
+<tr><td>To contribute to climate change mitigation and adaptation, including by reducing greenhouse gas emissions and enhancing carbon sequestration, as well as to promote sustainable energy</td><td>I.9 Improving the resilience of agriculture to climate change: Agricultural sector resilience progress indicator I.10 Contributing to climate change mitigation: Greenhouse gas emissions from agriculture  I.11 Enhancing carbon sequestration: Soil organic carbon in agricultural land  I.12 Increasing sustainable energy in agriculture: Sustainable production of renewable energy from agriculture and forestry </td><td>  </td><td>R.12 Adaptation to climate change: Share of utilised agricultural area (UAA) under supported commitments to improve adaptation to climate change R.13PR Reducing emissions in the livestock sector: Share of livestock units (LU) under supported commitments to reduce emissions of greenhouse gases and/or ammonia, including manure management  R.14PR Carbon storage in soils and biomass: Share of utilised agricultural area (UAA) under supported commitments to reduce emissions or to maintain or enhance carbon storage (including permanent grassland, permanent crops with permanent green cover, agricultural land in wetland and peatland)  R.15 Renewable energy from agriculture, forestry and from other renewable sources: Supported investments in renewable energy production capacity, including bio-based (in MW)  R.16 Investments related to climate: Share of farms benefitting from CAP investment support contributing to climate change mitigation and adaptation, and to the production of renewable energy or biomaterials  R.17PR Afforested land: Area supported for afforestation, agroforestry and restoration, including breakdowns  R.18 Investment support for the forest sector: Total investment to improve the performance of the forestry sector </td></tr>
+<tr><td>To foster sustainable development and efficient management of natural resources such as water, soil and air, including by reducing chemical dependency</td><td>I.13 Reducing soil erosion: Percentage of agricultural land in moderate and severe soil erosion I.14 Improving air quality: Ammonia emissions from agriculture  I.15 Improving water quality: Gross nutrient balance on agricultural land  I.16 Reducing nutrient leakage: Nitrates in ground water – percentage of ground water stations with nitrates concentration over 50 mg/l under Directive 91/676/EEC  I.17 Reducing pressure on water resource: Water Exploitation Index Plus (WEI+)  I.18 Sustainable and reduced use of pesticides: Risks, use and impacts of pesticides </td><td>  </td><td>R.19PR Improving and protecting soils: Share of utilised agricultural area (UAA) under supported commitments beneficial for soil management to improve soil quality and biota (such as reducing tillage, soil cover with crops, crop rotation included with leguminous crops) R.20PR Improving air quality: Share of utilised agricultural area (UAA) under supported commitments to reduce ammonia emission  R.21PR Protecting water quality: Share of utilised agricultural area (UAA) under supported commitments for the quality of water bodies  R.22PR Sustainable nutrient management: Share of utilised agricultural area (UAA) under supported commitments related to improved nutrient management  R.23PR Sustainable water use: Share of utilised agricultural area (UAA) under supported commitments to improve water balance  R.24PR Sustainable and reduced use of pesticides: Share of utilised agricultural area (UAA) under supported specific commitments which lead to a sustainable use of pesticides in order to reduce risks and impacts of pesticides such as pesticides leakage  R.25 Environmental performance in the livestock sector: Share of livestock units (LU) under supported commitments to improve environmental sustainability  R.26 Investments related to natural resources: Share of farms benefitting from CAP productive and non-productive investment support related to care for the natural resources  R.27 Environmental or climate-related performance through investment in rural areas: Number of operations contributing to environmental sustainability and the achievement of climate mitigation and adaptation goals in rural areas  R.28 Environmental or climate-related performance through knowledge and innovation: Number of persons benefitting from advice, training, knowledge exchange, or participating in European Innovation Partnership (EIP) operational groups supported by the CAP related to environmental or climate-related performance </td></tr>
+<tr><td>To contribute to halting and reversing biodiversity loss, enhance ecosystem services and preserve habitats and landscapes</td><td>I.19 Increasing farmland bird populations: Farmland Bird Index I.20 Enhancing biodiversity protection: Percentage of species and habitats of Community interest related to agriculture with stable or increasing trends, with a breakdown of the percentage for wild pollinators species (1)  I.21 Enhancing provision of ecosystem services: Share of agricultural land covered with landscape features  I.22 Increasing agro-biodiversity in farming system: Crop diversity </td><td>  </td><td>R.29PR Development of organic agriculture: Share of utilised agricultural area (UAA) supported by the CAP for organic farming, with a split between maintenance and conversion R.30PR Supporting sustainable forest management: Share of forest land under commitments to support forest protection and management of ecosystem services  R.31PR Preserving habitats and species: Share of utilised agricultural area (UAA) under supported commitments for supporting biodiversity conservation or restoration including high-nature-value farming practices  R.32 Investments related to biodiversity: Share of farms benefitting from CAP investment support contributing to biodiversity  R.33 Improving Natura 2000 management: Share of total Natura 2000 area under supported commitments  R.34PR Preserving landscape features: Share of utilised agricultural area (UAA) under supported commitments for managing landscape features, including hedgerows and trees  R.35 Preserving beehives: Share of beehives supported by the CAP </td></tr>
+<tr><td>To attract and sustain young farmers and other new farmers and facilitate sustainable business development in rural areas</td><td>I.23 Attracting young farmers: Evolution of the number of new farm managers and the number of new young farm managers, including a gender breakdown</td><td>  </td><td>R.36PR Generational renewal: Number of young farmers benefitting from setting up with support from the CAP, including a gender breakdown</td></tr>
+<tr><td>To promote employment, growth, gender equality, including the participation of women in farming, social inclusion and local development in rural areas, including the circular bio-economy and sustainable forestry</td><td>I.24 Contributing to jobs in rural areas: Evolution of the employment rate in rural areas, including a gender breakdown I.25 Contributing to growth in rural areas: Evolution of gross domestic product (GDP) per capita in rural areas  I.26 A fairer CAP: Distribution of CAP support  I.27 Promoting rural inclusion: Evolution of poverty index in rural areas </td><td>  </td><td>R.37 Growth and jobs in rural areas: New jobs supported in CAP projects R.38 LEADER coverage: Share of rural population covered by local development strategies  R.39 Developing the rural economy: Number of rural businesses, including bio-economy businesses, developed with CAP support  R.40 Smart transition of the rural economy: Number of supported smart-village strategies  R.41PR Connecting rural Europe: Share of rural population benefitting from improved access to services and infrastructure through CAP support  R.42 Promoting social inclusion: Number of persons covered by supported social inclusion projects </td></tr>
+<tr><td>To improve the response of Union agriculture to societal demands on food and health, including high-quality, safe and nutritious food produced in a sustainable way, to reduce food waste, as well as to improve animal welfare and to combat antimicrobial resistances</td><td>I.28 Limiting antimicrobial use in farmed animals: Sales/use of antimicrobials for food-producing animals I.29 Responding to consumer demand for quality food: Value of production under Union quality schemes and of organic production </td><td>  </td><td>R.43PR Limiting antimicrobial use: Share of livestock units (LU) concerned by supported actions to limit the use of antimicrobials (prevention/reduction) R.44PR Improving animal welfare: Share of livestock units (LU) covered by supported actions to improve animal welfare </td></tr>
+<tr><td colspan="4">(1)  The assessment of the trends for pollinators shall be performed by using relevant Union measures for pollinator indicators, in particular by a pollinator indicator and other measures adopted through the governance framework of the EU Biodiversity Strategy for 2030 (Commission communication of 20 May 2020) on the basis of the EU Pollinators Initiative (Commission communication of 1 June 2018). </td></tr>
+</tbody>
+</table>
+
+**Annual performance clearance - OUTPUT**
+
+**Types of intervention and their output indicators ( 26 )**
+
+**Monitoring – OUTPUT**
+
+**Types of intervention and their output indicators (*1)**
+
+<table>
+<tbody><tr><td>Types of intervention</td><td>Output indicators</td></tr>
+<tr><td>Cooperation (Article 77)</td><td>O.1 Number of European Innovation Partnership (EIP) operational group projects</td></tr>
+<tr><td>Knowledge exchange and dissemination of information (Article 78)</td><td>O.2 Number of advice actions or units to provide innovation support for preparing or implementing European Innovation Partnership (EIP) operational group projects</td></tr>
+<tr><td>Horizontal indicator</td><td>O.3 Number of CAP support beneficiaries</td></tr>
+<tr><td>Basic income support (Article 21)</td><td>O.4 Number of hectares benefitting from basic income support</td></tr>
+<tr><td>Payment for small farmers (Article 28)</td><td>O.5 Number of beneficiaries or hectares benefitting from payments for small farmers</td></tr>
+<tr><td>Complementary income support for young farmers (Article 30)</td><td>O.6 Number of hectares benefitting from complementary income support for young farmers</td></tr>
+<tr><td>Redistributive income support (Article 29)</td><td>O.7 Number of hectares benefitting from redistributive income support</td></tr>
+<tr><td>Eco-schemes (Article 31)</td><td>O.8 Number of hectares or of livestock units or beehives benefitting from eco-schemes</td></tr>
+<tr><td>Risk management tools (Article 76)</td><td>O.9 Number of units covered by supported CAP risk management tools</td></tr>
+<tr><td>Crisis payments for farmers following natural disasters, adverse climatic events or catastrophic events (Article 78a)</td><td>O.9a Number of farmers benefitting from crisis payments following natural disasters, adverse climatic events or catastrophic events</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Support to farmers affected by the severe increase in fertiliser prices due to the Middle East crisis (Article 78b)</td><td>O.9b Number of farmers benefitting from support following the severe increase in fertiliser prices</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td rowspan="2">Coupled income support (Article 32)</td><td>O.10 Number of hectares benefitting from coupled income support</td></tr>
+<tr><td>O.11 Number of heads benefitting from coupled income support</td></tr>
+<tr><td>Natural or other area-specific constraints (Article 71)</td><td>O.12 Number of hectares benefitting from support for areas facing natural or other specific constraints, including a breakdown per type of area</td></tr>
+<tr><td>Area-specific disadvantages resulting from certain mandatory requirements (Article 72)</td><td>O.13 Number of hectares benefitting from support under Natura 2000 or Directive 2000/60/EC</td></tr>
+<tr><td rowspan="6">Environmental, climate-related and other management commitments (Article 70)</td><td>O.14 Number of hectares (excluding forestry) or number of other units covered by environmental or climate-related commitments going beyond mandatory requirements</td></tr>
+<tr><td>O.15 Number of hectares (forestry) or number of other units covered by environmental or climate-related commitments going beyond mandatory requirements</td></tr>
+<tr><td>O.16 Number of hectares or number of other units under maintenance commitments for afforestation and agroforestry</td></tr>
+<tr><td>O.17 Number of hectares or number of other units benefitting from support for organic farming</td></tr>
+<tr><td>O.18 Number of livestock units (LU) benefitting from support for animal welfare, health or increased biosecurity measures</td></tr>
+<tr><td>O.19 Number of operations or units supporting genetic resources</td></tr>
+<tr><td rowspan="5">Investments (Articles 73 and 74)</td><td>O.20 Number of supported on-farm productive investment operations or units</td></tr>
+<tr><td>O.21 Number of supported on-farm non-productive investment operations or units</td></tr>
+<tr><td>O.22 Number of supported infrastructure investment operations or units</td></tr>
+<tr><td>O.23 Number of supported off-farm non-productive investment operations or units</td></tr>
+<tr><td>O.24 Number of supported off-farm productive investment operations or units</td></tr>
+<tr><td rowspan="4">Setting-up of young farmers, new farmers, rural business start-ups and business development of small farms (Article 75)</td><td>O.25 Number of young farmers receiving setting-up support</td></tr>
+<tr><td>O.26 Number of new farmers receiving setting-up support (other than young farmers reported under O.25)</td></tr>
+<tr><td>O.27 Number of rural businesses receiving support for start-ups</td></tr>
+<tr><td>O.27a Number of small farms receiving support for business development</td></tr>
+<tr><td rowspan="5">Cooperation (Article 77)</td><td>O.28 Number of supported producer groups and producer organisations</td></tr>
+<tr><td>O.29 Number of beneficiaries receiving support to participate in official quality schemes</td></tr>
+<tr><td>O.30 Number of supported operations or units for generational renewal (excluding setting-up support)</td></tr>
+<tr><td>O.31 Number of supported local development strategies (LEADER) or preparatory actions</td></tr>
+<tr><td>O.32 Number of supported other cooperation operations or units (excluding EIP reported under O.1)</td></tr>
+<tr><td>Knowledge exchange and dissemination of information (Article 78)</td><td>O.33 Number of supported training, advice and awareness actions or units</td></tr>
+<tr><td>Horizontal indicator</td><td>O.34 Number of hectares under environmental practices (summary indicator on physical area covered by conditionality, eco-schemes, agri- and forest-environment-climate management commitments)</td></tr>
+<tr><td>Types of intervention in certain sectors (Article 47)</td><td>O.35 Number of supported operational programmes</td></tr>
+<tr><td>Types of intervention in the wine sector (Article 58)</td><td>O.36 Number of actions or units supported in the wine sector</td></tr>
+<tr><td>Types of intervention in the apiculture sector (Article 55)</td><td>O.37 Number of actions or units for beekeeping preservation or improvement</td></tr>
+<tr><td colspan="2">(*1)  Data declared annually for their notified expenditure. </td></tr>
+</tbody>
+</table>
+
+**CONTEXT INDICATORS**
+
+<table>
+<tbody><tr><td>  </td><td>Indicator number</td><td>Context indicator</td></tr>
+<tr><td rowspan="3">Population</td><td>C.01</td><td>Total population</td></tr>
+<tr><td>C.02</td><td>Population density</td></tr>
+<tr><td>C.03</td><td>Age structure of the population</td></tr>
+<tr><td rowspan="2">Total area</td><td>C.04</td><td>Total area</td></tr>
+<tr><td>C.05</td><td>Land cover</td></tr>
+<tr><td rowspan="3">Labour market</td><td>C.06</td><td>Employment rate in rural areas</td></tr>
+<tr><td>C.07</td><td>Unemployment rate in rural areas</td></tr>
+<tr><td>C.08</td><td>Employment (by sector, by type of region, by economic activity)</td></tr>
+<tr><td rowspan="3">Economy</td><td>C.09</td><td>GDP per capita</td></tr>
+<tr><td>C.10</td><td>Poverty rate</td></tr>
+<tr><td>C.11</td><td>Gross value added by sector, by type of region, in agriculture and for primary producers</td></tr>
+<tr><td rowspan="5">Farms and farmers</td><td>C.12</td><td>Agricultural holdings (farms)</td></tr>
+<tr><td>C.13</td><td>Farm labour force</td></tr>
+<tr><td>C.14</td><td>Age structure of farm managers</td></tr>
+<tr><td>C.15</td><td>Agricultural training of farm managers</td></tr>
+<tr><td>C.16</td><td>New farm managers and new young farm managers</td></tr>
+<tr><td rowspan="6">Agricultural land</td><td>C.17</td><td>Utilised agricultural area</td></tr>
+<tr><td>C.18</td><td>Irrigable land</td></tr>
+<tr><td>C.19</td><td>Farming in Natura 2000 areas</td></tr>
+<tr><td>C.20</td><td>Areas facing natural and other specific constraints</td></tr>
+<tr><td>C.21</td><td>Agricultural land covered with landscape features</td></tr>
+<tr><td>C.22</td><td>Crop diversity</td></tr>
+<tr><td rowspan="2">Livestock</td><td>C.23</td><td>Livestock units</td></tr>
+<tr><td>C.24</td><td>Livestock density</td></tr>
+<tr><td rowspan="4">Agricultural and farm income</td><td>C.25</td><td>Agricultural factor income</td></tr>
+<tr><td>C.26</td><td>Comparison of agricultural income with non-agricultural labour cost</td></tr>
+<tr><td>C.27</td><td>Farm income by type of farming, by region, by farm size, in areas facing natural and other specific constraints</td></tr>
+<tr><td>C.28</td><td>Gross fixed capital formation in agriculture</td></tr>
+<tr><td rowspan="2">Agricultural productivity</td><td>C.29</td><td>Total factor productivity in agriculture</td></tr>
+<tr><td>C.30</td><td>Labour productivity in agriculture, in forestry and in the food industry</td></tr>
+<tr><td>Agricultural trade</td><td>C.31</td><td>Agricultural imports and exports</td></tr>
+<tr><td>Other gainful activities</td><td>C.32</td><td>Tourism infrastructure</td></tr>
+<tr><td rowspan="3">Farming practices</td><td>C.33</td><td>Agricultural area under organic farming</td></tr>
+<tr><td>C.34</td><td>Farming intensity</td></tr>
+<tr><td>C.35</td><td>Value of production under Union quality schemes and of organic production</td></tr>
+<tr><td rowspan="2">Biodiversity</td><td>C.36</td><td>Farmland Bird Index</td></tr>
+<tr><td>C.37</td><td>Percentage of species and habitats of Community interest related to agriculture with stable or increasing trends</td></tr>
+<tr><td rowspan="5">Water</td><td>C.38</td><td>Water use in agriculture</td></tr>
+<tr><td rowspan="4">C.39</td><td>Water quality</td></tr>
+<tr><td>Gross nutrient balance – nitrogen</td></tr>
+<tr><td>Gross nutrient balance – phosphorus</td></tr>
+<tr><td>Nitrates in ground water</td></tr>
+<tr><td rowspan="2">Soil</td><td>C.40</td><td>Soil organic carbon in agricultural land</td></tr>
+<tr><td>C.41</td><td>Soil erosion by water</td></tr>
+<tr><td rowspan="2">Energy</td><td>C.42</td><td>Sustainable production of renewable energy from agriculture and forestry</td></tr>
+<tr><td>C.43</td><td>Energy use in agriculture, forestry and food industry</td></tr>
+<tr><td rowspan="3">Climate</td><td>C.44</td><td>Greenhouse gas emissions from agriculture</td></tr>
+<tr><td>C.45</td><td>Agricultural sector resilience progress indicator</td></tr>
+<tr><td>C.46</td><td>Direct agricultural loss attributed to disasters</td></tr>
+<tr><td>Air</td><td>C.47</td><td>Ammonia emissions from agriculture</td></tr>
+<tr><td rowspan="2">Health</td><td>C.48</td><td>Sales/use of antimicrobials for food-producing animals</td></tr>
+<tr><td>C.49</td><td>Risk, use and impacts of pesticides</td></tr>
+</tbody>
+</table>
+
+## ANNEX II — WTO DOMESTIC SUPPORT PURSUANT TO ARTICLE 10
+
+<table>
+<tbody><tr><td>Type of intervention</td><td>Reference in this Regulation</td><td>Paragraph of Annex 2 to the WTO Agreement on Agriculture (‘Green Box’)</td></tr>
+<tr><td>Basic income support</td><td>Title III, Chapter II, Section 2, Subsection 2</td><td>5 (if implementation is not based on payment entitlements) 6 (if implementation is based on payment entitlements) </td></tr>
+<tr><td>Redistributive income support</td><td>Article 29</td><td>5 (if implementation of the related basic income support is not based on payment entitlements) 6 (if implementation of the related basic income support is based on payment entitlements) </td></tr>
+<tr><td>Complementary income support for young farmers</td><td>Article 30</td><td>5 (if implementation of the related basic income support is not based on payment entitlements) 6 (if implementation of the related basic income support is based on payment entitlements) </td></tr>
+<tr><td>Schemes for the climate, the environment and animal welfare (eco-schemes)</td><td>Article 31(7), first subparagraph, point (a)</td><td>5 (if implementation of the related basic income support is not based on payment entitlements) 6 (if implementation of the related basic income support is based on payment entitlements) </td></tr>
+<tr><td>Schemes for the climate, the environment and animal welfare (eco-schemes)</td><td>Article 31(7), first subparagraph, point (b)</td><td>12</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil table olives and other sectors referred to in Article 42, point (f) – investments in tangible and intangible assets, research and experimental and innovative production methods and other actions, in areas such as:</td><td>Article 47(1), point (a)</td><td>2, 11 or 12</td></tr>
+<tr><td>— soil conservation, including the enhancement of soil carbon and soil structure, and the reduction of contaminants</td><td>Article 47(1), point (a)(i)</td><td>12</td></tr>
+<tr><td>— improvement of the use of and sound management of water, including water saving, water conservation and drainage</td><td>Article 47(1), point (a)(ii)</td><td>12</td></tr>
+<tr><td>— preventing damage caused by adverse climatic events and promoting the development and use of varieties, breeds and management practices adapted to changing climate conditions</td><td>Article 47(1), point (a)(iii)</td><td>12</td></tr>
+<tr><td>— increasing energy saving, energy efficiency and the use of renewable energy</td><td>Article 47(1), point (a)(iv)</td><td>11 or 12</td></tr>
+<tr><td>— ecological packaging, only in the field of research and experimental production</td><td>Article 47(1), point (a)(v)</td><td>2</td></tr>
+<tr><td>— biosecurity, animal health and welfare</td><td>Article 47(1), point (a)(vi)</td><td>12</td></tr>
+<tr><td>— reducing emissions and waste, improving the use of by-products, including their reuse and valorisation, and the management of waste</td><td>Article 47(1), point (a)(vii)</td><td>11 or 12</td></tr>
+<tr><td>— improving resilience against pests and reducing risks and impacts of pesticide use, including implementing Integrated Pest Management techniques</td><td>Article 47(1), point (a)(viii)</td><td>2, 11 or 12</td></tr>
+<tr><td>— improving resilience against animal disease and reducing the use of veterinary medicines, including antibiotics</td><td>Article 47(1), point (a)(ix)</td><td>2</td></tr>
+<tr><td>— creating and maintaining habitats favourable to biodiversity</td><td>Article 47(1), point (a)(x)</td><td>12</td></tr>
+<tr><td>— improving product quality</td><td>Article 47(1), point (a)(xi)</td><td>2</td></tr>
+<tr><td>— improving genetic resources</td><td>Article 47(1), point (a) (xii)</td><td>2</td></tr>
+<tr><td>— improving the conditions of employment and ensuring compliance with employer obligations as well as occupational health and safety requirements in accordance with Directives 89/391/EEC, 2009/104/EC and (EU) 2019/1152</td><td>Article 47(1), point (a)(xiii)</td><td>2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – advisory services and technical assistance</td><td>Article 47(1), point (b)</td><td>2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – training and exchange of best practices</td><td>Article 47(1), point (c)</td><td>2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – organic or integrated production</td><td>Article 47(1), point (d)</td><td>12</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – actions to increase the sustainability and efficiency of transport and storage</td><td>Article 47(1), point (e)</td><td>11, 12 or 2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – promotion, communication and marketing</td><td>Article 47(1), point (f)</td><td>2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – quality schemes</td><td>Article 47(1), point (g)</td><td>2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – traceability and certification systems</td><td>Article 47(1), point (h)</td><td>2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – climate change adaptation and mitigation</td><td>Article 47(1), point (i)</td><td>11, 2 or 12</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) - mutual funds</td><td>Article 47(2), point (a)</td><td>7 or 2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) - investments in tangible and intangible assets</td><td>Article 47(2), point (b)</td><td>11 or 2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) - orchard or olive groves replanting</td><td>Article 47(2), point (d)</td><td>8</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) - restocking with livestock for health reasons or because of losses resulting from natural disasters</td><td>Article 47(2), point (e)</td><td>8</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) - coaching</td><td>Article 47(2), point (j)</td><td>2</td></tr>
+<tr><td>Fruit and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) - implementation and management of third-country phytosanitary requirements</td><td>Article 47(2), point (k)</td><td>2</td></tr>
+<tr><td>Fruits and vegetables, hops, olive oil, table olives and other sectors referred to in Article 42, point (f) – communication actions</td><td>Article 47(2), point (l)</td><td>2</td></tr>
+<tr><td>Apiculture – advisory services, technical assistance, training, information and exchange of best practices</td><td>Article 55(1), point (a)</td><td>2</td></tr>
+<tr><td>Apiculture – investment in tangible and intangible assets, as well as other actions, including for combatting beehive invaders and diseases</td><td>Article 55(1), point (b)(i)</td><td>11 or 12 or 2</td></tr>
+<tr><td>Apiculture – investment in tangible and intangible assets, as well as other actions, including for preventing damage caused by adverse climatic conditions, development and use of management practices</td><td>Article 55(1), point (b)(ii)</td><td>11 or 12 or 2</td></tr>
+<tr><td>Apiculture – support laboratories</td><td>Article 55(1), point (c)</td><td>2</td></tr>
+<tr><td>Apiculture – research programmes</td><td>Article 55(1), point (e)</td><td>2</td></tr>
+<tr><td>Apiculture – promotion, communication and marketing</td><td>Article 55(1), point (f)</td><td>2</td></tr>
+<tr><td>Apiculture – enhancing product quality</td><td>Article 55(1), point (g)</td><td>2</td></tr>
+<tr><td>Wine – restructuring and conversion</td><td>Article 58(1), first subaragraph, point (a)</td><td>8, 11 or 12</td></tr>
+<tr><td>Wine – investments in tangible and intangible assets</td><td>Article 58(1), first subaragraph, point (b)</td><td>11</td></tr>
+<tr><td>Wine – tangible and intangible investments in innovation</td><td>Article 58(1), first subaragraph, point (e)</td><td>11</td></tr>
+<tr><td>Wine – advisory services</td><td>Article 58(1), first subaragraph, point (f)</td><td>2</td></tr>
+<tr><td>Wine – information actions</td><td>Article 58(1), first subaragraph, point (h)</td><td>2</td></tr>
+<tr><td>Wine – promotion of wine tourism</td><td>Article 58(1), first subaragraph, point (i)</td><td>2</td></tr>
+<tr><td>Wine – improvement of market knowledge</td><td>Article 58(1), first subaragraph, point (j)</td><td>2</td></tr>
+<tr><td>Wine – promotion and communication</td><td>Article 58(1), first subaragraph, point (k)</td><td>2</td></tr>
+<tr><td>Wine – administrative costs of mutual funds</td><td>Article 58(1), first subaragraph, point (l)</td><td>2</td></tr>
+<tr><td>Wine – investments to enhance sustainability</td><td>Article 58(1), first subaragraph, point (m)</td><td>11 or 12 or 2</td></tr>
+<tr><td>Environmental, climate-related and other management commitments</td><td>Article 70</td><td>12</td></tr>
+<tr><td>Natural or other area-specific constraints</td><td>Article 71</td><td>13</td></tr>
+<tr><td>Area-specific disadvantages resulting from certain mandatory requirements</td><td>Article 72</td><td>12</td></tr>
+<tr><td>Investments</td><td>Article 73</td><td>11 or 8</td></tr>
+<tr><td>Investments in irrigation</td><td>Article 74</td><td>11</td></tr>
+<tr><td>Cooperation</td><td>Article 77</td><td>2</td></tr>
+<tr><td>Knowledge exchange and dissemination of information</td><td>Article 78</td><td>2</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Crisis payments to farmers following natural disasters, adverse climatic events or catastrophic events</td><td>Article 78a</td><td>8</td></tr>
+<tr><td colspan="3"></td></tr>
+</tbody>
+</table>
+
+## ANNEX III — RULES ON CONDITIONALITY PURSUANT TO ARTICLE 12
+
+SMR: Statutory management requirement
+
+GAEC: Standard for good agricultural and environmental condition of land
+
+<table>
+<tbody><tr><td>Areas</td><td>Main issue</td><td colspan="2">Requirements and standards</td><td>Main objective of the standard</td></tr>
+<tr><td rowspan="3">Climate and environment</td><td rowspan="3">Climate change (mitigation of and adaptation to) </td><td> GAEC 1  </td><td><br> Maintenance of permanent grassland based on a ratio of permanent grassland in relation to agricultural area at national, regional, subregional, group-of-holdings or holding level in comparison to the reference year 2018 <br> Maximum decrease of 10 % compared to the reference year.   </td><td> General safeguard against conversion to other agricultural uses to preserve carbon stock  </td></tr>
+<tr><td>GAEC 2</td><td>Protection of wetland and peatland (1)</td><td>Protection of carbon-rich soils</td></tr>
+<tr><td>GAEC 3</td><td>Ban on burning arable stubble, except for plant health reasons</td><td>Maintenance of soil organic matter</td></tr>
+<tr><td>  </td><td>Water</td><td>SMR 1</td><td>Directive 2000/60/EC of 23 October 2000 of the European Parliament and of the Council establishing a framework for Community action in the field of water policy (OJ L 327, 22.12.2000, p. 1): Article 11(3), point (e), and point (h), as regards mandatory requirements to control diffuse sources of pollution by phosphates </td><td>  </td></tr>
+<tr><td rowspan="2">  </td><td rowspan="2">  </td><td>SMR 2</td><td>Council Directive 91/676/EEC of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources (OJ L 375, 31.12.1991, p. 1): Articles 4 and 5 </td><td>  </td></tr>
+<tr><td> GAEC 4  </td><td> Establishment of buffer strips along water courses (*1)  </td><td> Protection of water courses against pollution and run-off  </td></tr>
+<tr><td rowspan="3">  </td><td rowspan="3">Soil (protection and quality) </td><td>GAEC 5</td><td>Tillage management, reducing the risk of soil degradation and erosion, including consideration of the slope gradient</td><td>Minimum land management reflecting site specific conditions to limit erosion</td></tr>
+<tr><td> GAEC 6  </td><td> Minimum soil cover to avoid bare soil in periods that are most sensitive, as determined by Member States (2).  </td><td> Protection of soils in periods that are most sensitive  </td></tr>
+<tr><td> GAEC 7  </td><td> Crop rotation in arable land, except for crops growing under water. Member States may in addition decide to allow farmers and other beneficiaries to fulfil this standard with crop diversification (3).  </td><td> Preserving the soil potential  </td></tr>
+<tr><td rowspan="2">  </td><td rowspan="2">Biodiversity and landscape (protection and quality) </td><td>SMR 3</td><td>Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds (OJ L 20, 26.1.2010, p. 7): Article 3(1), Article 3(2), point (b), Article 4(1), (2) and (4) </td><td>  </td></tr>
+<tr><td>SMR 4</td><td>Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild flora and fauna (OJ L 206, 22.7.1992, p. 7): Article 6(1) and (2) </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td> GAEC 8  </td><td>   — Retention of landscape features  — Ban on cutting hedges and trees during the bird breeding and rearing season  — As an option, measures for avoiding invasive plant species   </td><td> Maintenance of non-productive features to improve on-farm biodiversity  </td></tr>
+<tr><td>  </td><td>  </td><td>GAEC 9</td><td>Ban on converting or ploughing permanent grassland designated as environmentally-sensitive permanent grasslands in Natura 2000 sites</td><td>Protection of habitats and species</td></tr>
+<tr><td>Public health, and plant health</td><td>Food safety</td><td>SMR 5</td><td>Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1): Articles 14 and 15, Article 17(1) (4) and Articles 18, 19 and 20 </td><td>  </td></tr>
+<tr><td rowspan="2">  </td><td>  </td><td>SMR 6</td><td>Council Directive 96/22/EC of 29 April 1996 concerning the prohibition on the use in stockfarming of certain substances having a hormonal or thyrostatic action and beta-agonists, and repealing Directives 81/602/EEC, 88/146/EEC and 88/299/EEC (OJ L 125, 23.5.1996, p. 3): Article 3, points (a), (b), (d) and (e), and Articles 4, 5 and 7 </td><td>  </td></tr>
+<tr><td>Plant protection products</td><td>SMR 7</td><td>Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (OJ L 309, 24.11.2009, p. 1): Article 55, first and second sentence </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>SMR 8</td><td>Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides (OJ L 309, 24.11.2009, p. 71):</td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>Article 5(2) and Article 8(1) to (5) Article 12 with regard to restrictions on the use of pesticides in protected areas defined on the basis of Directive 2000/60/EC and Natura 2000 legislation Article 13(1) and (3) on handling and storage of pesticides and disposal of remnants </td><td>  </td></tr>
+<tr><td rowspan="3">Animal welfare</td><td rowspan="3">Animal welfare</td><td>SMR 9</td><td>Council Directive 2008/119/EC of 18 December 2008 laying down minimum standards for the protection of calves (OJ L 10, 15.1.2009, p. 7): Articles 3 and 4 </td><td>  </td></tr>
+<tr><td>SMR 10</td><td>Council Directive 2008/120/EC of 18 December 2008 laying down minimum standards for the protection of pigs (OJ L 47, 18.2.2009, p. 5): Articles 3 and 4 </td><td>  </td></tr>
+<tr><td>SMR 11</td><td>Council Directive 98/58/EC of 20 July 1998 concerning the protection of animals kept for farming purposes (OJ L 221, 8.8.1998, p. 23): Article 4 </td><td>  </td></tr>
+<tr><td colspan="5">(1)  Member States may provide in their CAP Strategic Plans that this GAEC will only be applicable as from claim year 2024 or 2025. In such cases, Member States shall demonstrate that the delay is necessary for the establishment of the management system in accordance with a detailed planning. <br> Member States, when establishing GAEC standard 2, shall ensure that on the land concerned an agricultural activity suitable for qualifying the land as agricultural area may be maintained.  (*1)  The buffer strips along water courses under this GAEC standard shall, as a general rule, and in compliance with Union law, respect the minimum width of 3 metres without using pesticides and fertilisers. <br> In areas with significant dewatering and irrigation ditches, Member States may adjust, if duly justified for those areas, the minimum width in accordance with specific local circumstances. <br> Member States may use for the purposes of this GAEC standard the definition of water courses laid down in national legislation, provided that that definition is in line with the main objective of this GAEC standard.  (2)  Member States may in particular take into account the short vegetation period resulting from the length and severity of the winter period in the regions concerned.  (3)  Rotation shall consist of a change of crop at land parcel level (except in the cases of multiannual crops, grasses and other herbaceous forage, and land lying fallow), including the appropriately managed secondary crops. <br> On the basis of diversity of farming methods and agro-climatic conditions, Member States may authorise in the regions concerned other practices of enhanced crop rotation with leguminous crops or crop diversification which aim at improving and preserving the soil potential in line with the objectives of this GAEC standard. <br> When defining crop diversification requirements, Member States shall respect the following minimum requirements: <br> (a) where the size of arable land of a holding is between 10 and 30 ha, crop diversification shall consist of cultivation of arable land of a holding with at least two different crops on that arable land; the main crop shall not cover more than 75 % of that arable land;  (b) where the size of arable land of a holding is more than 30 ha, crop diversification shall consist of cultivation of arable land of a holding with at least three different crops on that arable land; the main crop shall not cover more than 75 % of that arable land and the two main crops together shall not cover more than 95 % of that arable land. <br> Member States may exempt from the obligations under this standard holdings: <br> (a) where more than 75 % of the arable land is used for the production of grasses or other herbaceous forage, is land lying fallow, is used for cultivation of leguminous crops, or is subject to a combination of those uses;  (b) where more than 75 % of the eligible agricultural area is permanent grassland, is used for the production of grasses or other herbaceous forage or for the cultivation of crops under water either for a significant part of the year or for a significant part of the crop cycle, or is subject to a combination of those uses; or  (c) with a size of arable land up to 10 ha. <br> Member States may introduce a maximum limit of area covered with a single crop to prevent large monocultures.  (4)  As implemented in particular by:  — Article 14 of Regulation (EC) No 470/2009 and the Annex to Regulation (EC) No 37/2010,  — Regulation (EC) No 852/2004: Article 4(1) and Annex I part A (II 4 (g, h, j), 5 (f, h), 6; III 8 (a, b, d, e), 9 (a, c)),  — Regulation (EC) No 853/2004: Article 3(1), Annex III Section IX Chapter I (I-1 b, c, d, e; I-2 a (i, ii, iii), b (i, ii), c; I-3; I-4; I-5; II-A 1, 2, 3, 4; II-B 1(a, d), 2, 4 (a, b)), Annex III Section X Chapter I(1),    — Regulation (EC) No 183/2005: Article 5(1), (5) and (6), Annex I, part A (I-4 e, g; II-2 a, b, e), and Annex III (under the heading ‘FEEDING’, point 1 entitled ‘Storage’, first and last sentences, and point 2 entitled ‘Distribution’, third sentence), and  — Regulation (EC) No 396/2005: Article 18. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV — RULES ON SOCIAL CONDITIONALITY PURSUANT TO ARTICLE 14
+
+<table>
+<tbody><tr><td>Areas</td><td>Applicable legislation</td><td>Relevant provisions</td><td>Requirements</td></tr>
+<tr><td rowspan="7">Employment</td><td rowspan="7">Transparent and predictable working conditions Directive 2019/1152 </td><td>Article 3</td><td>Employment conditions to be provided in writing (‘employment contract’)</td></tr>
+<tr><td>Article 4</td><td>Ensure that agricultural employment is subject to an employment contract</td></tr>
+<tr><td>Article 5</td><td>Employment contract to be provided within first seven days of working</td></tr>
+<tr><td>Article 6</td><td>Changes to the employment relationship to be provided in documentary form.</td></tr>
+<tr><td>Article 8</td><td>Probationary period</td></tr>
+<tr><td>Article 10</td><td>Conditions regarding minimum predictability of work</td></tr>
+<tr><td>Article 13</td><td>Mandatory training</td></tr>
+<tr><td rowspan="8">Health and safety</td><td rowspan="8">Measures to encourage improvements in safety and health of workers Directive 89/391/EEC </td><td>Article 5</td><td>General provision laying down duty of employer to ensure safety and health of workers</td></tr>
+<tr><td>Article 6</td><td>General obligation on employers to take measures necessary for safety and health protection, including prevention of risks and provision of information and training</td></tr>
+<tr><td>Article 7</td><td>Protective and preventive services: worker(s) to be designated for health and safety activities or competent external service to be engaged</td></tr>
+<tr><td>Article 8</td><td>Employer to take measures for first aid, fire-fighting and evacuation of workers</td></tr>
+<tr><td>Article 9</td><td>Obligations on employers regarding assessment of risks, protective measures and equipment, recording and reporting of occupational accidents</td></tr>
+<tr><td>Article 10</td><td>Provision of information to workers on safety and health risks and protective and preventive measures</td></tr>
+<tr><td>Article 11</td><td>Consultation and participation of workers in discussions on all questions relating to safety and health at work</td></tr>
+<tr><td>Article 12</td><td>Employer to ensure that workers receive adequate safety and health training</td></tr>
+<tr><td rowspan="7">  </td><td rowspan="7">Minimum safety and health requirements for use of work equipment by workers Directive 2009/104/EC </td><td>Article 3</td><td>General obligations to ensure that work equipment is suitable for work to be carried out by workers without impairment of safety or health</td></tr>
+<tr><td>Article 4</td><td>Rules concerning work equipment: must comply with the Directive and established minimum requirements and be adequately maintained</td></tr>
+<tr><td>Article 5</td><td>Inspection of work equipment – equipment to be inspected after instalment and periodic inspections by competent persons</td></tr>
+<tr><td>Article 6</td><td>Work equipment involving specific risks to be restricted to persons tasked with using it and all repairs, modifications, maintenance to be performed by designated workers</td></tr>
+<tr><td>Article 7</td><td>Ergonomics and occupational health</td></tr>
+<tr><td>Article 8</td><td>Workers to receive adequate information and, where appropriate, written instructions on use of work equipment</td></tr>
+<tr><td>Article 9</td><td>Workers to receive adequate training</td></tr>
+</tbody>
+</table>
+
+## ANNEX V — MEMBER STATES’ ALLOCATIONS FOR DIRECT PAYMENTS REFERRED TO IN ARTICLE 87(1), FIRST SUBPARAGRAPH
+
+<table>
+<tbody><tr><td colspan="6">(current prices, in EUR)</td></tr>
+<tr><td>Calendar year</td><td> 2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027 and subsequent years</td></tr>
+<tr><td>Belgium</td><td>471 996 006 </td><td>469 703 014 </td><td>469 703 014 </td><td>467 410 022 </td><td>494 925 924 </td></tr>
+<tr><td>Bulgaria</td><td>808 258 686 </td><td>816 888 275 </td><td>825 517 864 </td><td>834 147 452 </td><td>834 147 452 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Czechia</td><td>823 533 615 </td><td>823 533 615 </td><td>823 533 615 </td><td>804 039 932 </td><td>846 787 297 </td></tr>
+<tr><td>Denmark</td><td>806 313 404 </td><td>817 524 179 </td><td>814 937 077 </td><td>720 879 884 </td><td>862 367 277 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Germany</td><td>4 424 125 913 </td><td>4 374 968 959 </td><td>4 301 233 527 </td><td>4 178 341 140 </td><td>4 915 695 459 </td></tr>
+<tr><td>Estonia</td><td>196 436 567 </td><td>199 297 294 </td><td>202 158 021 </td><td>205 018 748 </td><td>205 018 748 </td></tr>
+<tr><td>Ireland</td><td>1 186 281 996 </td><td>1 186 281 996 </td><td>1 186 281 996 </td><td>1 186 281 996 </td><td>1 186 281 996 </td></tr>
+<tr><td>Greece</td><td>1 886 490 039 </td><td>1 886 490 039 </td><td>1 886 490 039 </td><td>1 886 490 039 </td><td>2 075 656 043 </td></tr>
+<tr><td>Spain</td><td>4 874 879 750 </td><td>4 882 179 366 </td><td>4 889 478 982 </td><td>4 896 778 599 </td><td>4 896 778 599 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>France</td><td>6 736 440 037 </td><td>6 718 840 037 </td><td>6 710 740 037 </td><td>6 806 340 037 </td><td>7 257 300 537 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Croatia</td><td>374 770 237 </td><td>374 770 237 </td><td>374 770 237 </td><td>374 770 237 </td><td>374 770 237 </td></tr>
+<tr><td>Italy</td><td>3 496 243 863 </td><td>3 496 243 863 </td><td>3 496 243 863 </td><td>3 496 243 863 </td><td>3 622 529 155 </td></tr>
+<tr><td>Cyprus</td><td>47 647 540 </td><td>47 647 540 </td><td>47 647 540 </td><td>47 647 540 </td><td>47 647 540 </td></tr>
+<tr><td>Latvia</td><td>331 043 657 </td><td>334 864 681 </td><td>339 685 706 </td><td>344 506 729 </td><td>363 483 744 </td></tr>
+<tr><td>Lithuania</td><td>587 064 372 </td><td>595 613 853 </td><td>604 163 335 </td><td>612 712 816 </td><td>612 712 816 </td></tr>
+<tr><td>Luxembourg</td><td>32 747 827 </td><td>32 747 827 </td><td>32 747 827 </td><td>32 747 827 </td><td>32 747 827 </td></tr>
+<tr><td>Hungary</td><td>1 347 402 452 </td><td>1 347 402 452 </td><td>1 347 402 452 </td><td>1 347 402 452 </td><td>1 243 185 165 </td></tr>
+<tr><td>Malta</td><td>9 590 135 </td><td>9 590 135 </td><td>9 590 135 </td><td>9 590 135 </td><td>4 594 021 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Netherlands</td><td>609 237 340 </td><td>579 591 503 </td><td>550 477 666 </td><td>571 282 629 </td><td>717 382 327 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Austria</td><td>677 581 846 </td><td>677 581 846 </td><td>677 581 846 </td><td>677 581 846 </td><td>677 581 846 </td></tr>
+<tr><td>Poland</td><td>3 488 417 133 </td><td>3 519 600 956 </td><td>3 550 784 779 </td><td>3 581 968 602 </td><td>3 185 968 140 </td></tr>
+<tr><td>Portugal</td><td>698 619 128 </td><td>707 403 166 </td><td>716 187 204 </td><td>724 971 242 </td><td>639 971 242 </td></tr>
+<tr><td>Romania</td><td>1 897 051 311 </td><td>1 924 609 371 </td><td>1 952 167 430 </td><td>1 979 725 489 </td><td>2 029 595 196 </td></tr>
+<tr><td>Slovenia</td><td>131 530 052 </td><td>131 530 052 </td><td>131 530 052 </td><td>131 530 052 </td><td>131 530 052 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Slovakia</td><td>394 892 166 </td><td>397 751 933 </td><td>400 605 131 </td><td>445 252 732 </td><td>403 010 501 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Finland</td><td>519 350 246 </td><td>521 168 786 </td><td>522 987 325 </td><td>524 805 865 </td><td>524 805 865 </td></tr>
+<tr><td>Sweden</td><td>686 131 966 </td><td>686 360 116 </td><td>686 588 267 </td><td>686 816 417 </td><td>686 816 417   </td></tr>
+</tbody>
+</table>
+
+## ANNEX VI — LIST OF PRODUCTS REFERRED TO IN ARTICLE 42, POINT (f)
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td></tr>
+<tr><td>ex 0101 </td><td>Live horses, asses, mules and hinnies:</td></tr>
+<tr><td>  </td><td>– Horses</td></tr>
+<tr><td>0101 21 00 </td><td>– – Pure-bred breeding animals (1)</td></tr>
+<tr><td>0101 29 </td><td>– – Other:</td></tr>
+<tr><td>0101 29 10 </td><td>– – – For slaughter</td></tr>
+<tr><td>0101 29 90 </td><td>– – – Other</td></tr>
+<tr><td>0101 30 00 </td><td>– Asses</td></tr>
+<tr><td>0101 90 00 </td><td>– Other</td></tr>
+<tr><td>ex 0103 </td><td>Live swine:</td></tr>
+<tr><td>0103 10 00 </td><td>– Pure-bred breeding animals (2)</td></tr>
+<tr><td>ex 0106 </td><td>Other live animals:</td></tr>
+<tr><td>0106 14 10 </td><td>– Domestics rabbits</td></tr>
+<tr><td>ex 0106 19 00 </td><td>– – Other: reindeer and deer</td></tr>
+<tr><td>0106 33 00 </td><td>– – Ostriches; emus (Dromaius novaehollandiae)</td></tr>
+<tr><td>0106 39 10 </td><td>– – – Pigeons</td></tr>
+<tr><td>0106 39 80 </td><td>– – – Other birds</td></tr>
+<tr><td>ex 0205 00 </td><td>Meat of horses, fresh, chilled or frozen</td></tr>
+<tr><td>ex 0208 </td><td>Other meat and edible meat offal, fresh, chilled or frozen:</td></tr>
+<tr><td>ex 0208 10 10 </td><td>– – Meat of domestic rabbits</td></tr>
+<tr><td>ex 0208 90 10 </td><td>– – Meat of domestic pigeons</td></tr>
+<tr><td>ex 0208 90 30 </td><td>– – Meat of game other than rabbits or hares</td></tr>
+<tr><td>ex 0208 90 60 </td><td>– – Meat of reindeer</td></tr>
+<tr><td>ex 0407 </td><td>Birds’ eggs, in shell, fresh, preserved or cooked:</td></tr>
+<tr><td>0407 19 90 </td><td>– Fertilised, other than of poultry</td></tr>
+<tr><td>0407 29 90 </td><td>– Other fresh eggs, other than of poultry</td></tr>
+<tr><td>0407 90 90 </td><td>– Other eggs, other than of poultry</td></tr>
+<tr><td>0701 </td><td>Potatoes, fresh or chilled</td></tr>
+<tr><td>ex 0713 </td><td>Dried leguminous vegetables, shelled, whether or not skinned or split:</td></tr>
+<tr><td>ex 0713 10 </td><td>– Peas (Pisum sativum):</td></tr>
+<tr><td>0713 10 90 </td><td>– – Other than for sowing</td></tr>
+<tr><td>ex 0713 20 00 </td><td>– Chickpeas (garbanzos):</td></tr>
+<tr><td>  </td><td>– – Other than for sowing</td></tr>
+<tr><td>  </td><td>– Beans (Vigna spp., Phaseolus spp.):</td></tr>
+<tr><td>ex 0713 31 00 </td><td>– – Beans of the species Vigna mungo (L) Hepper or Vigna radiata (L) Wilczek:</td></tr>
+<tr><td>  </td><td>– – – Other than for sowing</td></tr>
+<tr><td>ex 0713 32 00 </td><td>– – Small red (Adzuki) beans (Phaseolus or Vigna angularis):</td></tr>
+<tr><td>  </td><td>– – – Other than for sowing</td></tr>
+<tr><td>ex 0713 33 </td><td>– – Kidney beans, including white pea beans (Phaseolus vulgaris):</td></tr>
+<tr><td>0713 33 90 </td><td>– – – Other than for sowing</td></tr>
+<tr><td>ex 0713 34 00 </td><td>– – Bambara beans (Vigna subterranea or Voandzeia subterranea):</td></tr>
+<tr><td>  </td><td>– – – Other than for sowing</td></tr>
+<tr><td>ex 0713 35 00 </td><td>– – Cow peas (Vigna unguiculata):</td></tr>
+<tr><td>  </td><td>– – – Other than for sowing</td></tr>
+<tr><td>ex 0713 39 00 </td><td>– – Other:</td></tr>
+<tr><td>  </td><td>– – – Other than for sowing</td></tr>
+<tr><td>ex 0713 40 00 </td><td>– Lentils:</td></tr>
+<tr><td>  </td><td>– – Other than for sowing</td></tr>
+<tr><td>ex 0713 50 00 </td><td>– Broad beans (Vicia faba var. major) and horse beans (Vicia faba var. equina and Vicia faba var. minor):</td></tr>
+<tr><td>  </td><td>– – Other than for sowing</td></tr>
+<tr><td>ex 0713 60 00 </td><td>– Pigeon peas (Cajanus cajan):</td></tr>
+<tr><td>  </td><td>– – Other than for sowing</td></tr>
+<tr><td>ex 0713 90 00 </td><td>– Other:</td></tr>
+<tr><td>  </td><td>– – Other than for sowing</td></tr>
+<tr><td>1201 90 00 </td><td>Soya beans, whether or not broken, other than seed</td></tr>
+<tr><td>1202 41 00 </td><td>Groundnuts, not roasted or otherwise cooked, in shell, other than seed</td></tr>
+<tr><td>1202 42 00 </td><td>Groundnuts, not roasted or otherwise cooked, shelled, whether or not broken, other than seed</td></tr>
+<tr><td>1203 00 00 </td><td>Copra</td></tr>
+<tr><td>1204 00 90 </td><td>Linseed, whether or not broken, other than for sowing</td></tr>
+<tr><td>1205 10 90 </td><td>Low euricic acid rape or colza seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1205 90 00 </td><td>Other rape or colza seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1206 00 91 </td><td>Sunflower seeds, shelled; in grey and white striped shell, whether or not broken, other than for sowing</td></tr>
+<tr><td>1206 00 99 </td><td>Other sunflower seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 29 00 </td><td>Cotton seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 40 90 </td><td>Sesamum seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 50 90 </td><td>Mustard seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 60 00 </td><td>– Safflower (Carthamus tinctorius) seeds</td></tr>
+<tr><td>1207 91 90 </td><td>Poppy seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>1207 99 91 </td><td>Hemp seeds, whether or not broken, other than for sowing</td></tr>
+<tr><td>ex 1207 99 96 </td><td>Other oilseeds and oleaginous fruits, whether or not broken, other than for sowing</td></tr>
+<tr><td>ex 1209 29 50 </td><td>– – – Lupine seed, other than for sowing</td></tr>
+<tr><td>ex 1211 </td><td>Plants and parts of plants (including seeds and fruits) of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purposes, fresh or dried, whether or not cut, crushed or powdered excluding the products listed under CN code ex 1211 90 86 in Part IX</td></tr>
+<tr><td>1212 94 00 </td><td>Chicory roots</td></tr>
+<tr><td>ex 1214 </td><td>Swedes, mangolds, fodder roots, hay, lucerne (alfalfa), clover, sainfoin, forage kale, lupines, vetches and similar forage products, whether or not in the form of pellets:</td></tr>
+<tr><td>ex 1214 10 00 </td><td>– Lucerne (alfalfa) meal and pellets:</td></tr>
+<tr><td>  </td><td>– – – Other than lucerne artificially heat-dried or of lucerne otherwise dried and ground</td></tr>
+<tr><td>ex 1214 90 </td><td>– Other:</td></tr>
+<tr><td>1214 90 10 </td><td>– – Mangolds, swedes and other fodder roots</td></tr>
+<tr><td>ex 1214 90 90 </td><td>– – Other, excluding:</td></tr>
+<tr><td>  </td><td>– – – Sainfoin, clover, lupines, vetches and similar fodder products artificially heat- dried, except hay and fodder kale and products containing hay</td></tr>
+<tr><td>  </td><td>– – – Sainfoin, clover, lupines, vetches, honey lotus, chickling pea and birdsfoot, otherwise dried and ground</td></tr>
+<tr><td>ex 2206 </td><td>Other fermented beverages (for example, cider, perry, mead); mixtures of fermented beverages and mixtures of fermented beverages and non-alcoholic beverages, not elsewhere specified or included:</td></tr>
+<tr><td>ex 2206 00 31 to ex 2206 00 89 </td><td>– Fermented beverages other than piquette</td></tr>
+<tr><td>5201 </td><td>Cotton, not carded or combed</td></tr>
+<tr><td colspan="2">(1)  Entry under this subheading is subject to the conditions laid down in the relevant Union provisions (see Regulation (EU) 2016/1012 and Commission Implementing Regulation (EU) 2015/262 of 17 February 2015 laying down rules pursuant to Council Directives 90/427/EEC and 2009/156/EC as regards the methods for the identification of equidae (Equine Passport Regulation), OJ L 59, 3.3.2015, p. 1).  (2)  Regulation (EU) 2016/1012. </td></tr>
+</tbody>
+</table>
+
+## ANNEX VII — MEMBER STATES’ ALLOCATIONS (PER FINANCIAL YEAR) FOR TYPES OF INTERVENTION IN THE WINE SECTOR AS REFERRED TO IN ARTICLE 88(1)
+
+EUR (current prices)
+
+Bulgaria 25 721 000
+
+Czechia 4 954 000
+
+Germany 37 381 000
+
+Greece 23 030 000
+
+Spain 202 147 000
+
+France 269 628 000
+
+Croatia 10 410 000
+
+Italy 323 883 000
+
+Cyprus 4 465 000
+
+Lithuania 43 000
+
+Hungary 27 970 000
+
+Austria 13 155 000
+
+Portugal 62 670 000
+
+Romania 45 844 000
+
+Slovenia 4 849 000
+
+Slovakia 4 887 000
+
+## ANNEX VIII — MEMBER STATES’ ALLOCATIONS FOR COTTON REFERRED TO IN ARTICLE 87(1), SECOND SUBPARAGRAPH
+
+<table>
+<tbody><tr><td colspan="6">(current prices, in EUR)</td></tr>
+<tr><td>Calendar year</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027 and subsequent years</td></tr>
+<tr><td>Bulgaria</td><td>2 557 820 </td><td>2 557 820 </td><td>2 557 820 </td><td>2 557 820 </td><td>2 557 820 </td></tr>
+<tr><td>Greece</td><td>183 996 000 </td><td>183 996 000 </td><td>183 996 000 </td><td>183 996 000 </td><td>183 996 000 </td></tr>
+<tr><td>Spain</td><td>59 690 640 </td><td>59 690 640 </td><td>59 690 640 </td><td>59 690 640 </td><td>59 690 640 </td></tr>
+<tr><td>Portugal</td><td>177 589 </td><td>177 589 </td><td>177 589 </td><td>177 589 </td><td>177 589 </td></tr>
+</tbody>
+</table>
+
+## ANNEX IX — MEMBER STATES’ ALLOCATIONS FOR DIRECT PAYMENTS WITHOUT COTTON AND BEFORE THE TRANSFERS REFERRED TO IN ARTICLE 87(1), THIRD SUBPARAGRAPH
+
+<table>
+<tbody><tr><td colspan="6">(current prices, in EUR)</td></tr>
+<tr><td>Calendar year</td><td> 2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027 and subsequent years</td></tr>
+<tr><td>Belgium</td><td>471 996 006 </td><td>469 703 014 </td><td>469 703 014 </td><td>467 410 022 </td><td>494 925 924 </td></tr>
+<tr><td>Bulgaria</td><td>805 700 866 </td><td>814 330 455 </td><td>822 960 044 </td><td>831 589 632 </td><td>831 589 632 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Czechia</td><td>823 533 615 </td><td>823 533 615 </td><td>823 533 615 </td><td>804 039 932 </td><td>846 787 297 </td></tr>
+<tr><td>Denmark</td><td>806 313 404 </td><td>817 524 179 </td><td>814 937 077 </td><td>720 879 884 </td><td>862 367 277 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Germany</td><td>4 424 125 913 </td><td>4 374 968 959 </td><td>4 301 233 527 </td><td>4 178 341 140 </td><td>4 915 695 459 </td></tr>
+<tr><td>Estonia</td><td>196 436 567 </td><td>199 297 294 </td><td>202 158 021 </td><td>205 018 748 </td><td>205 018 748 </td></tr>
+<tr><td>Ireland</td><td>1 186 281 996 </td><td>1 186 281 996 </td><td>1 186 281 996 </td><td>1 186 281 996 </td><td>1 186 281 996 </td></tr>
+<tr><td>Greece</td><td>1 702 494 039 </td><td>1 702 494 039 </td><td>1 702 494 039 </td><td>1 702 494 039 </td><td>1 891 660 043 </td></tr>
+<tr><td>Spain</td><td>4 815 189 110 </td><td>4 822 488 726 </td><td>4 829 788 342 </td><td>4 837 087 959 </td><td>4 837 087 959 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>France</td><td>6 736 440 037 </td><td>6 718 840 037 </td><td>6 710 740 037 </td><td>6 806 340 037 </td><td>7 257 300 537 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Croatia</td><td>374 770 237 </td><td>374 770 237 </td><td>374 770 237 </td><td>374 770 237 </td><td>374 770 237 </td></tr>
+<tr><td>Italy</td><td>3 496 243 863 </td><td>3 496 243 863 </td><td>3 496 243 863 </td><td>3 496 243 863 </td><td>3 622 529 155 </td></tr>
+<tr><td>Cyprus</td><td>47 647 540 </td><td>47 647 540 </td><td>47 647 540 </td><td>47 647 540 </td><td>47 647 540 </td></tr>
+<tr><td>Latvia</td><td>331 043 657 </td><td>334 864 681 </td><td>339 685 706 </td><td>344 506 729 </td><td>363 483 744 </td></tr>
+<tr><td>Lithuania</td><td>587 064 372 </td><td>595 613 853 </td><td>604 163 335 </td><td>612 712 816 </td><td>612 712 816 </td></tr>
+<tr><td>Luxembourg</td><td>32 747 827 </td><td>32 747 827 </td><td>32 747 827 </td><td>32 747 827 </td><td>32 747 827 </td></tr>
+<tr><td>Hungary</td><td>1 347 402 452 </td><td>1 347 402 452 </td><td>1 347 402 452 </td><td>1 347 402 452 </td><td>1 243 185 165 </td></tr>
+<tr><td>Malta</td><td>9 590 135 </td><td>9 590 135 </td><td>9 590 135 </td><td>9 590 135 </td><td>4 594 021 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Netherlands</td><td>609 237 340 </td><td>579 591 503 </td><td>550 477 666 </td><td>571 282 629 </td><td>717 382 327 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Austria</td><td>677 581 846 </td><td>677 581 846 </td><td>677 581 846 </td><td>677 581 846 </td><td>677 581 846 </td></tr>
+<tr><td>Poland</td><td>3 488 417 133 </td><td>3 519 600 956 </td><td>3 550 784 779 </td><td>3 581 968 602 </td><td>3 185 968 140 </td></tr>
+<tr><td>Portugal</td><td>698 441 539 </td><td>707 225 577 </td><td>716 009 615 </td><td>724 793 653 </td><td>639 793 653 </td></tr>
+<tr><td>Romania</td><td>1 897 051 311 </td><td>1 924 609 371 </td><td>1 952 167 430 </td><td>1 979 725 489 </td><td>2 029 595 196 </td></tr>
+<tr><td>Slovenia</td><td>131 530 052 </td><td>131 530 052 </td><td>131 530 052 </td><td>131 530 052 </td><td>131 530 052 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Slovakia</td><td>399 892 166 </td><td>402 751 933 </td><td>405 605 131 </td><td>450 252 732 </td><td>403 010 501 </td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>Finland</td><td>519 350 246 </td><td>521 168 786 </td><td>522 987 325 </td><td>524 805 865 </td><td>524 805 865 </td></tr>
+<tr><td>Sweden</td><td>686 131 966 </td><td>686 360 116 </td><td>686 588 267 </td><td>686 816 417 </td><td>686 816 417   </td></tr>
+</tbody>
+</table>
+
+## ANNEX X — MEMBER STATES’ ALLOCATIONS (PER FINANCIAL YEAR) FOR TYPES OF INTERVENTION IN THE APICULTURE SECTOR AS REFERRED TO IN ARTICLE 88(2)
+
+EUR (current prices)
+
+Belgium 422 967
+
+Bulgaria 2 063 885
+
+Czechia 2 121 528
+
+Denmark 295 539
+
+Germany 2 790 875
+
+Estonia 140 473
+
+Ireland 61 640
+
+Greece 6 162 645
+
+Spain 9 559 944
+
+France 6 419 062
+
+Croatia 1 913 290
+
+Italy 5 166 537
+
+Cyprus 169 653
+
+Latvia 328 804
+
+Lithuania 549 828
+
+Luxembourg 30 621
+
+Hungary 4 271 227
+
+Malta 14 137
+
+Netherlands 295 172
+
+Austria 1 477 188
+
+Poland 5 024 968
+
+Portugal 2 204 232
+
+Romania 6 081 630
+
+Slovenia 649 455
+
+Slovakia 999 973
+
+Finland 196 182
+
+Sweden 588 545
+
+## ANNEX XI — BREAKDOWN OF UNION SUPPORT FOR TYPES OF INTERVENTION FOR RURAL DEVELOPMENT (2023 TO 2027) REFERRED TO IN ARTICLE89(3)
+
+<table>
+<tbody><tr><td colspan="7">(current prices, in EUR)</td></tr>
+<tr><td>Member States</td><td>2023</td><td> 2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total 2023-2027</td></tr>
+<tr><td>Belgium</td><td>105 730 894 </td><td>105 730 812 </td><td>108 023 804 </td><td>108 023 804 </td><td>110 316 796 </td><td>537 826 110 </td></tr>
+<tr><td>Bulgaria</td><td>282 979 644 </td><td>282 162 644 </td><td>282 162 644 </td><td>282 162 644 </td><td>282 162 644 </td><td>1 411 630 220 </td></tr>
+<tr><td>Czechia</td><td>267 027 708 </td><td>280 561 390 </td><td>280 561 390 </td><td>280 561 390 </td><td>301 935 073 </td><td>1 410 646 952 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Denmark</td><td>155 982 060 </td><td>131 987 933 </td><td>120 777 158 </td><td>123 364 260 </td><td>217 421 453 </td><td>749 532 864 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Germany</td><td>1 485 615 738 </td><td>1 583 929 284 </td><td>1 633 086 238 </td><td>1 706 821 670 </td><td>1 829 714 057 </td><td>8 239 166 987 </td></tr>
+<tr><td>Estonia</td><td>88 031 648 </td><td>88 016 648 </td><td>88 016 648 </td><td>88 016 648 </td><td>88 016 648 </td><td>440 098 240 </td></tr>
+<tr><td>Ireland</td><td>311 641 628 </td><td>311 640 628 </td><td>311 640 628 </td><td>311 640 628 </td><td>311 640 628 </td><td>1 558 204 140 </td></tr>
+<tr><td>Greece</td><td>651 491 600 </td><td>746 119 604 </td><td>746 119 604 </td><td>746 119 604 </td><td>746 119 604 </td><td>3 635 970 016 </td></tr>
+<tr><td>Spain</td><td>1 081 552 825 </td><td>1 080 382 825 </td><td>1 080 382 825 </td><td>1 080 382 825 </td><td>1 080 382 825 </td><td>5 403 084 125 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>France</td><td>2 007 185 070 </td><td>2 008 000 570 </td><td>2 008 000 570 </td><td>2 008 000 570 </td><td>1 913 900 570 </td><td>9 945 087 350 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Croatia</td><td>268 849 401 </td><td>297 307 401 </td><td>297 307 401 </td><td>297 307 401 </td><td>297 307 401 </td><td>1 458 079 005 </td></tr>
+<tr><td>Italy</td><td>1 355 321 375 </td><td>1 476 206 667 </td><td>1 476 206 667 </td><td>1 476 206 667 </td><td>1 476 206 667 </td><td>7 260 148 043 </td></tr>
+<tr><td>Cyprus</td><td>23 770 514 </td><td>23 770 514 </td><td>23 770 514 </td><td>23 770 514 </td><td>23 770 514 </td><td>118 852 570 </td></tr>
+<tr><td>Latvia</td><td>142 745 173 </td><td>135 677 801 </td><td>135 942 597 </td><td>136 207 392 </td><td>136 472 188 </td><td>687 045 151 </td></tr>
+<tr><td>Lithuania</td><td>195 495 162 </td><td>195 495 162 </td><td>195 495 162 </td><td>195 495 162 </td><td>195 495 162 </td><td>977 475 810 </td></tr>
+<tr><td>Luxembourg</td><td>11 626 644 </td><td>12 310 644 </td><td>12 310 644 </td><td>12 310 644 </td><td>12 310 644 </td><td>60 869 220 </td></tr>
+<tr><td>Hungary</td><td>384 539 149 </td><td>312 651 862 </td><td>312 651 862 </td><td>312 651 862 </td><td>312 651 862 </td><td>1 635 146 596 </td></tr>
+<tr><td>Malta</td><td>19 334 497 </td><td>14 988 383 </td><td>14 988 383 </td><td>14 988 383 </td><td>14 988 383 </td><td>79 288 028 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Netherlands</td><td>180 985 369 </td><td>181 413 356 </td><td>211 059 193 </td><td>240 173 030 </td><td>219 368 067 </td><td>1 032 999 015 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Austria</td><td>520 024 752 </td><td>520 024 752 </td><td>520 024 752 </td><td>520 024 752 </td><td>520 024 752 </td><td>2 600 123 760 </td></tr>
+<tr><td>Poland</td><td>1 004 581 539 </td><td>924 001 077 </td><td>924 001 077 </td><td>924 001 077 </td><td>924 001 077 </td><td>4 700 585 847 </td></tr>
+<tr><td>Portugal</td><td>455 630 620 </td><td>455 550 620 </td><td>455 550 620 </td><td>455 550 620 </td><td>455 550 620 </td><td>2 277 833 100 </td></tr>
+<tr><td>Romania</td><td>967 049 892 </td><td>1 016 919 599 </td><td>1 016 919 599 </td><td>1 016 919 599 </td><td>1 016 919 599 </td><td>5 034 728 288 </td></tr>
+<tr><td>Slovenia</td><td>110 170 192 </td><td>110 170 192 </td><td>110 170 192 </td><td>110 170 192 </td><td>110 170 192 </td><td>550 850 960 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Slovakia</td><td>260 599 909 </td><td>264 077 909 </td><td>264 077 909 </td><td>264 077 909 </td><td>216 835 677 </td><td>1 269 669 313 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Finland</td><td>354 551 956 </td><td>354 549 956 </td><td>354 549 956 </td><td>354 549 956 </td><td>354 549 956 </td><td>1 772 751 780 </td></tr>
+<tr><td>Sweden</td><td>211 889 741 </td><td>211 889 741 </td><td>211 889 741 </td><td>211 889 741 </td><td>211 889 741 </td><td>1 059 448 705 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Total EU-27</td><td>12 904 404 700 </td><td>13 125 537 974 </td><td>13 195 687 778 </td><td>13 301 388 944 </td><td>13 380 122 800 </td><td>65 907 142 196 </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Technical assistance (0,25%)</td><td>30 272 220 </td><td>30 272 220 </td><td>30 272 220 </td><td>30 272 220 </td><td>30 272 220 </td><td>151 361 100   </td></tr>
+<tr><td colspan="7"></td></tr>
+<tr><td>Total</td><td>12 934 676 920 </td><td>13 155 810 194 </td><td>13 225 959 998 </td><td>13 331 661 164 </td><td>13 410 395 020 </td><td>66 058 503 296 </td></tr>
+</tbody>
+</table>
+
+## ANNEX XII — MINIMUM AMOUNTS RESERVED FOR THE SPECIFIC OBJECTIVE REFERRED TO IN ARTICLE 6(1), POINT (g)
+
+<table>
+<tbody><tr><td colspan="6">(current prices, in EUR)</td></tr>
+<tr><td>Calendar year</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027 and subsequent years</td></tr>
+<tr><td>Belgium</td><td>14 847 778 </td><td>14 847 778 </td><td>14 847 778 </td><td>14 847 778 </td><td>14 847 778 </td></tr>
+<tr><td>Bulgaria</td><td>24 176 548 </td><td>24 435 436 </td><td>24 694 323 </td><td>24 953 211 </td><td>24 953 211 </td></tr>
+<tr><td>Czechia</td><td>25 648 419 </td><td>25 648 419 </td><td>25 648 419 </td><td>25 648 419 </td><td>25 648 419 </td></tr>
+<tr><td>Denmark</td><td>25 871 018 </td><td>25 871 018 </td><td>25 871 018 </td><td>25 871 018 </td><td>25 871 018 </td></tr>
+<tr><td>Germany</td><td>147 470 864 </td><td>147 470 864 </td><td>147 470 864 </td><td>147 470 864 </td><td>147 470 864 </td></tr>
+<tr><td>Estonia</td><td>5 893 097 </td><td>5 978 919 </td><td>6 064 741 </td><td>6 150 562 </td><td>6 150 562 </td></tr>
+<tr><td>Ireland</td><td>35 588 460 </td><td>35 588 460 </td><td>35 588 460 </td><td>35 588 460 </td><td>35 588 460 </td></tr>
+<tr><td>Greece</td><td>56 749 801 </td><td>56 749 801 </td><td>56 749 801 </td><td>56 749 801 </td><td>56 749 801 </td></tr>
+<tr><td>Spain</td><td>144 455 673 </td><td>144 674 662 </td><td>144 893 650 </td><td>145 112 639 </td><td>145 112 639 </td></tr>
+<tr><td>France</td><td>218 550 016 </td><td>218 550 016 </td><td>218 550 016 </td><td>218 550 016 </td><td>218 550 016 </td></tr>
+<tr><td>Croatia</td><td>11 243 107 </td><td>11 243 107 </td><td>11 243 107 </td><td>11 243 107 </td><td>11 243 107 </td></tr>
+<tr><td>Italy</td><td>108 855 875 </td><td>108 855 875 </td><td>108 855 875 </td><td>108 855 875 </td><td>108 855 875 </td></tr>
+<tr><td>Cyprus</td><td>1 429 426 </td><td>1 429 426 </td><td>1 429 426 </td><td>1 429 426 </td><td>1 429 426 </td></tr>
+<tr><td>Latvia</td><td>10 476 789 </td><td>10 629 363 </td><td>10 781 938 </td><td>10 934 512 </td><td>10 934 512 </td></tr>
+<tr><td>Lithuania</td><td>17 611 931 </td><td>17 868 416 </td><td>18 124 900 </td><td>18 381 384 </td><td>18 381 384 </td></tr>
+<tr><td>Luxembourg</td><td>982 435 </td><td>982 435 </td><td>982 435 </td><td>982 435 </td><td>982 435 </td></tr>
+<tr><td>Hungary</td><td>37 295 555 </td><td>37 295 555 </td><td>37 295 555 </td><td>37 295 555 </td><td>37 295 555 </td></tr>
+<tr><td>Malta</td><td>137 821 </td><td>137 821 </td><td>137 821 </td><td>137 821 </td><td>137 821 </td></tr>
+<tr><td>Netherlands</td><td>21 521 470 </td><td>21 521 470 </td><td>21 521 470 </td><td>21 521 470 </td><td>21 521 470 </td></tr>
+<tr><td>Austria</td><td>20 327 455 </td><td>20 327 455 </td><td>20 327 455 </td><td>20 327 455 </td><td>20 327 455 </td></tr>
+<tr><td>Poland</td><td>92 772 500 </td><td>93 708 015 </td><td>94 643 530 </td><td>95 579 044 </td><td>95 579 044 </td></tr>
+<tr><td>Portugal</td><td>18 403 246 </td><td>18 666 767 </td><td>18 930 288 </td><td>19 193 810 </td><td>19 193 810 </td></tr>
+<tr><td>Romania</td><td>58 407 631 </td><td>59 234 372 </td><td>60 061 114 </td><td>60 887 856 </td><td>60 887 856 </td></tr>
+<tr><td>Slovenia</td><td>3 945 902 </td><td>3 945 902 </td><td>3 945 902 </td><td>3 945 902 </td><td>3 945 902 </td></tr>
+<tr><td>Slovakia</td><td>12 026 832 </td><td>12 172 635 </td><td>12 318 439 </td><td>12 464 242 </td><td>12 464 242 </td></tr>
+<tr><td>Finland</td><td>15 580 507 </td><td>15 635 064 </td><td>15 689 620 </td><td>15 744 176 </td><td>15 744 176 </td></tr>
+<tr><td>Sweden</td><td>20 583 959 </td><td>20 590 803 </td><td>20 597 648 </td><td>20 604 493 </td><td>20 604 493 </td></tr>
+</tbody>
+</table>
+
+## ANNEX XIII — UNION LEGISLATIVE ACTS CONCERNING THE ENVIRONMENT AND CLIMATE TO WHOSE OBJECTIVES MEMBER STATES’ CAP STRATEGIC PLANS SHOULD CONTRIBUTE TO, AND BE CONSISTENT WITH, PURSUANT TO ARTICLES 108, 109 AND 115
+
+— Directive 2009/147/EC of the European Parliament and of the Council of 30 November 2009 on the conservation of wild birds;
+
+— Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora;
+
+— Directive 2000/60/EC of the European Parliament and of the Council of 23 October 2000 establishing a framework for Community action in the field of water policy;
+
+— Council Directive 91/676/EEC of 12 December 1991 concerning the protection of waters against pollution caused by nitrates from agricultural sources;
+
+— Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe;
+
+— Directive (EU) 2016/2284 of the European Parliament and of the Council of 14 December 2016 on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC;
+
+— Regulation (EU) 2018/841 of the European Parliament and of the Council of 30 May 2018 on the inclusion of greenhouse gas emissions and removals from land use, land use change and forestry in the 2030 climate and energy framework, and amending Regulation No 525/2013 and Decision No 529/2013/EU;
+
+— Regulation (EU) 2018/842 of the European Parliament and of the Council of 30 May 2018 on binding annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement and amending Regulation (EU) No 525/2013;
+
+— Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources;
+
+— Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC;
+
+— Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council;
+
+— Directive 2009/128/EC of the European Parliament and of the Council of 21 October 2009 establishing a framework for Community action to achieve the sustainable use of pesticides.
+
+## ANNEX XIV — REPORTING BASED ON CORE SET OF INDICATORS PURSUANT TO ARTICLE 142 — Indicators for the European Agriculture Guarantee Fund (EAGF) and the European Agriculture Fund for Rural Development (EAFRD)
+
+| Objective | Core set of indicators |
+| --- | --- |
+| To support viable farm income and resilience of the agricultural sector across the Union in order to enhance long-term food security and agricultural diversity as well as to ensure the economic sustainability of agricultural production in the Union | O.3 Number of CAP support beneficiaries C.25 Agricultural factor income R.6 Redistribution to smaller farms: Percentage of additional direct payments per hectare for eligible farms below average farm size (compared to average) |
+| To enhance market orientation and increase farm competitiveness both in the short and long term, including greater focus on research, technology and digitalisation | R.9 Farm modernisation: Share of farms receiving investment support to restructure and modernise, including to improve resource efficiency |
+| To improve the farmers’ position in the value chain | R.10 Better supply chain organisation: Share of farms participating in producer groups, producer organisations, local markets, short supply chain circuits and quality schemes supported by the CAP |
+| To contribute to climate change mitigation and adaptation, including by reducing greenhouse gas emissions and enhancing carbon sequestration, as well as to promote sustainable energy | I.10 Contributing to climate change mitigation: Greenhouse gas emissions from agriculture R.14 Carbon storage in soils and biomass: Share of utilised agricultural area (UAA) under supported commitments to reduce emissions or to maintain or enhance carbon storage (including permanent grassland, permanent crops with permanent green cover, agricultural land in wetland and peatland) R.17 Afforested land: Area supported for afforestation, agroforestry and restoration, including breakdowns |
+| To foster sustainable development and efficient management of natural resources such as water, soil and air, including by reducing chemical dependency | O.34 Number of hectares under environmental practices (summary indicator on physical area covered by conditionality, eco-schemes, agri- and forest-environment-climate management commitments) I.15 Improving water quality: Gross nutrient balance on agricultural land I.16 Reducing nutrient leakage: Nitrates in ground water - percentage of ground water stations with nitrates concentration over 50 mg/l under Directive 91/676/EEC I.18 Sustainable and reduced use of pesticides: Risks, use and impacts of pesticides R.19 Improving and protecting soils: Share of utilised agricultural area (UAA) under supported commitments beneficial for soil management to improve soil quality and biota (such as reducing tillage, soil cover with crops, crop rotation included with leguminous crops) R.20 Improving air quality: Share of utilised agricultural area (UAA) under supported commitments to reduce ammonia emission R.21 Protecting water quality: Share of utilised agricultural area (UAA) under supported commitments for the quality of water bodies R.22 Sustainable nutrient management: Share of utilised agricultural area (UAA) under supported commitments related to improved nutrient management R.24 Sustainable and reduced use of pesticides: Share of utilised agricultural area (UAA) under supported specific commitments which lead to a sustainable use of pesticides in order to reduce risks and impacts of pesticides such as pesticides leakage |
+| To contribute to halting and reversing biodiversity loss, enhance ecosystem services and preserve habitats and landscapes | C.33 Agricultural area under organic farming I.21 Enhancing provision of ecosystem services: Share of agricultural land covered with landscape features R.29 Development of organic agriculture: Share of utilised agricultural area (UAA) supported by the CAP for organic farming, with a split between maintenance and conversion R.34 Preserving landscape features: Share of utilised agricultural area (UAA) under supported commitments for managing landscape features, including hedgerows and trees |
+| To attract and sustain young farmers and new farmers and facilitate sustainable business development in rural areas | R.36 Generational renewal: Number of young farmers benefitting from setting up with support from the CAP, including a gender breakdown |
+| To promote employment, growth, gender equality, including the participation of women in farming, social inclusion and local development in rural areas, including the circular bio-economy and sustainable forestry | R.37 Growth and jobs in rural areas: New jobs supported in CAP projects R.38 LEADER coverage: Share of rural population covered by local development strategies R.41 Connecting rural Europe: Share of rural population benefitting from improved access to services and infrastructure through CAP support |
+| To improve the response of Union agriculture to societal demands on food and health, including high-quality, safe and nutritious food produced in a sustainable way, to reduce food waste, as well as to improve animal welfare and to combat antimicrobial resistances | I.28 Limiting antimicrobial use in farmed animals: Sales/use of antimicrobials for food-producing animals R.43 Limiting antimicrobial use: Share of livestock units (LU) concerned by supported actions to limit the use of antimicrobials (prevention/reduction) R.44 Improving animal welfare: Share of livestock units (LU) covered by supported actions to improve animal welfare |
+| Modernising agriculture and rural areas by fostering and sharing of knowledge, innovation and digitalisation in agriculture and rural areas and by encouraging their uptake by farmers, through improved access to research, innovation, knowledge exchange and training | R.1 Enhancing performance through knowledge and innovation: Number of persons benefitting from advice, training, knowledge exchange or participating in European Innovation Partnership (EIP) operational groups supported by the CAP in order to enhance sustainable economic, social, environmental, climate and resource efficiency performance |
+
+## ANNEX XV — Maximum amount per Member State that can be reserved for crisis payments to farmers referred to in Article 78a and for support to farmers referred to in Article 78b
+
+<table>
+<tbody><tr><td colspan="3">(Current prices in EUR)</td></tr>
+<tr><td>Member State</td><td>Financial year 2026</td><td>Financial year 2027</td></tr>
+<tr><td>Belgium</td><td>17 331 805 </td><td>17 331 805 </td></tr>
+<tr><td>Bulgaria</td><td>33 153 681 </td><td>33 412 568 </td></tr>
+<tr><td>Czechia</td><td>33 122 850 </td><td>33 122 850 </td></tr>
+<tr><td>Denmark</td><td>28 149 040 </td><td>28 149 040 </td></tr>
+<tr><td>Germany</td><td>180 241 656 </td><td>180 241 656 </td></tr>
+<tr><td>Estonia</td><td>8 705 240 </td><td>8 791 062 </td></tr>
+<tr><td>Ireland</td><td>44 937 679 </td><td>44 937 679 </td></tr>
+<tr><td>Greece</td><td>73 458 409 </td><td>73 458 409 </td></tr>
+<tr><td>Spain</td><td>177 305 135 </td><td>177 524 124 </td></tr>
+<tr><td>France</td><td>261 562 218 </td><td>261 394 218 </td></tr>
+<tr><td>Croatia</td><td>20 162 329 </td><td>20 162 329 </td></tr>
+<tr><td>Italy</td><td>149 173 516 </td><td>149 173 516 </td></tr>
+<tr><td>Cyprus</td><td>2 142 542 </td><td>2 142 542 </td></tr>
+<tr><td>Latvia</td><td>14 276 793 </td><td>14 429 368 </td></tr>
+<tr><td>Lithuania</td><td>23 989 755 </td><td>24 246 239 </td></tr>
+<tr><td>Luxembourg</td><td>1 351 754 </td><td>1 351 754 </td></tr>
+<tr><td>Hungary</td><td>49 801 629 </td><td>49 801 629 </td></tr>
+<tr><td>Malta</td><td>737 356 </td><td>737 356 </td></tr>
+<tr><td>Netherlands</td><td>23 719 521 </td><td>23 719 521 </td></tr>
+<tr><td>Austria</td><td>35 928 198 </td><td>35 928 198 </td></tr>
+<tr><td>Poland</td><td>134 243 576 </td><td>135 179 090 </td></tr>
+<tr><td>Portugal</td><td>35 146 807 </td><td>35 410 328 </td></tr>
+<tr><td>Romania</td><td>89 072 611 </td><td>89 899 353 </td></tr>
+<tr><td>Slovenia</td><td>7 251 007 </td><td>7 251 007 </td></tr>
+<tr><td>Slovakia</td><td>20 090 491 </td><td>20 146 020 </td></tr>
+<tr><td>Finland</td><td>26 326 118 </td><td>26 380 675 </td></tr>
+<tr><td>Sweden</td><td>26 954 340 </td><td>26 961 185 </td></tr>
+</tbody>
+</table>
+
+## ANNEX XVI — Maximum amounts referred to in Article 103a
+
+**Maximum amount of increase for allocations for direct payments for calendar year 2027 per Member State**
+
+EUR (current prices)
+
+Belgium 20 700 224
+
+Bulgaria 84 648 793
+
+Czechia 64 796 927
+
+Denmark 18 983 515
+
+Germany 273 089 935
+
+Estonia 26 404 994
+
+Ireland 77 910 157
+
+Greece 139 238 400
+
+Spain 324 114 848
+
+France 364 860 018
+
+Croatia 74 326 850
+
+Italy 337 480 344
+
+Cyprus 5 942 629
+
+Latvia 35 248 552
+
+Lithuania 58 648 549
+
+Luxembourg 3 077 661
+
+Hungary 104 217 287
+
+Malta 4 996 124
+
+Netherlands 18 317 092
+
+Austria 130 006 188
+
+Poland 396 000 462
+
+Portugal 162 165 186
+
+Romania 290 114 968
+
+Slovenia 27 542 548
+
+Slovakia 77 723 373
+
+Finland 106 364 987
+
+Sweden 63 566 922
+
+**Maximum amount of decrease for allocations for direct payments for calendar year 2027 per Member State**
+
+EUR (current prices)
+
+Belgium 123 731 481
+
+Bulgaria 207 943 425
+
+Czechia 213 736 824
+
+Denmark 215 591 819
+
+Germany 1 228 923 865
+
+Estonia 51 254 687
+
+Ireland 296 570 499
+
+Greece 472 915 011
+
+Spain 1 209 271 990
+
+France 1 821 250 134
+
+Croatia 93 692 559
+
+Italy 907 132 289
+
+Cyprus 11 911 885
+
+Latvia 91 120 936
+
+Lithuania 153 178 204
+
+Luxembourg 8 186 957
+
+Hungary 310 796 291
+
+Malta 1 148 505
+
+Netherlands 179 345 582
+
+Austria 169 395 462
+
+Poland 796 492 035
+
+Portugal 159 948 413
+
+Romania 507 398 799
+
+Slovenia 32 882 513
+
+Slovakia 103 868 686
+
+Finland 131 201 466
+
+Sweden 171 704 104
+
+( 1 ) Commission Regulation (EU) No 702/2014 of 25 June 2014 declaring certain categories of aid in the agricultural and forestry sectors and in rural areas compatible with the internal market in application of Articles 107 and 108 of the Treaty on the Functioning of the European Union (OJ L 193, 1.7.2014, p. 1).
+
+( 2 ) Council Regulation (EC) No 1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations (OJ L 160, 26.6.1999, p. 80, ELI: http://data.europa.eu/eli/reg/1999/1257/oj).
+
+( 3 ) Council Regulation (EC) No 1698/2005 of 20 September 2005 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) (OJ L 277, 21.10.2005, p. 1, ELI: http://data.europa.eu/eli/reg/2005/1698/oj).
+
+( 4 ) Regulation (EU) No 1305/2013 of the European Parliament and of the Council of 17 December 2013 on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation (EC) No 1698/2005 (OJ L 347, 20.12.2013, p. 487, ELI: http://data.europa.eu/eli/reg/2013/1305/oj).
+
+( 5 ) Regulation (EU) 2018/848 of the European Parliament and of the Council of 30 May 2018 on organic production and labelling of organic products and repealing Council Regulation (EC) No 834/2007 (OJ L 150, 14.6.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/848/oj).
+
+( 6 ) Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (OJ L 309, 24.11.2009, p. 1).
+
+( 7 ) Directive 2008/50/EC of the European Parliament and of the Council of 21 May 2008 on ambient air quality and cleaner air for Europe (OJ L 152, 11.6.2008, p. 1).
+
+( 8 ) Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (OJ L 84, 31.3.2016, p. 1).
+
+( 9 ) Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).
+
+( 10 ) Directive (EU) 2016/2284 of the European Parliament and of the Council of 14 December 2016 on the reduction of national emissions of certain atmospheric pollutants, amending Directive 2003/35/EC and repealing Directive 2001/81/EC (OJ L 344, 17.12.2016, p. 1).
+
+( 11 ) Regulation (EU) 2024/1143 of the European Parliament and of the Council of 11 April 2024 on geographical indications for wine, spirit drinks and agricultural products, as well as traditional specialities guaranteed and optional quality terms for agricultural products, amending Regulations (EU) No 1308/2013, (EU) 2019/787 and (EU) 2019/1753 and repealing Regulation (EU) No 1151/2012 (OJ L, 2024/1143, 23.4.2024, ELI: http://data.europa.eu/eli/reg/2024/1143/oj).
+
+( 12 ) Commission Implementing Regulation (EU) 2019/2072 of 28 November 2019 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants, and repealing Commission Regulation (EC) No 690/2008 and amending Commission Implementing Regulation (EU) 2018/2019 (OJ L 319, 10.12.2019, p. 1, ELI: http://data.europa.eu/eli/reg_impl/2019/2072/oj).
+
+( 13 ) Commission Recommendation 2003/361/EC of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj).
+
+( 14 ) OJ C 249, 31.7.2014, p. 1.
+
+( 15 ) Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (‘Animal Breeding Regulation’) ( OJ L 171, 29.6.2016, p. 66).
+
+( 16 ) Regulation (EU) 2020/741 of the European Parliament and of the Council of 25 May 2020 on minimum requirements for water reuse (OJ L 177, 5.6.2020, p. 32).
+
+( 17 ) Commission Implementing Regulation (EU) 2018/1882 of 3 December 2018 on the application of certain disease prevention and control rules to categories of listed diseases and establishing a list of species and groups of species posing a considerable risk for the spread of those listed diseases (OJ L 308, 4.12.2018, p. 21, ELI: http://data.europa.eu/eli/reg_impl/2018/1882/oj).
+
+( 18 ) Regulation (EU) No 1291/2013 of the European Parliament and of the Council of 11 December 2013 establishing Horizon 2020 - the Framework Programme for Research and Innovation (2014-2020) and repealing Decision No 1982/2006/EC (OJ L 347, 20.12.2013, p. 104).
+
+( 19 ) Regulation (EU) 2021/783 of the European Parliament and of the Council of 29 April 2021 establishing a Programme for the Environment and Climate Action (LIFE), and repealing Regulation (EU) No 1293/2013 (OJ L 172, 17.5.2021, p. 53).
+
+( 20 ) Regulation (EU) 2021/817 of the European Parliament and of the Council of 20 May 2021 establishing Erasmus+: the Union Programme for education and training, youth and sport and repealing Regulation (EU) No 1288/2013 (OJ L 189, 28.5.2021, p. 1).
+
+( 21 ) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment (OJ L 197, 21.7.2001, p. 30).
+
+( 22 ) Regulation (EC) No 223/2009 of the European Parliament and of the Council of 11 March 2009 on European statistics and repealing Regulation (EC, Euratom) No 1101/2008 of the European Parliament and of the Council on the transmission of data subject to statistical confidentiality to the Statistical Office of the European Communities, Council Regulation (EC) No 322/97 on Community Statistics, and Council Decision 89/382/EEC, Euratom establishing a Committee on the Statistical Programmes of the European Communities (OJ L 87, 31.3.2009, p. 164).
+
+( 23 ) Council Regulation (EC) No 1217/2009 of 30 November 2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Union (OJ L 328, 15.12.2009, p. 27).
+
+( 24 ) Council Regulation (EC) No 73/2009 of 19 January 2009 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006, (EC) No 378/2007 and repealing Regulation (EC) No 1782/2003 (OJ L 30, 31.1.2009, p. 16).
+
+( 25 ) Regulation (EU) 2020/2220 of the European Parliament and of the Council of 23 December 2020 laying down certain transitional provisions for support from the European Agricultural Fund for Rural Development (EAFRD) and from the European Agricultural Guarantee Fund (EAGF) in the years 2021 and 2022 and amending Regulations (EU) No 1305/2013, (EU) No 1306/2013 and (EU) No 1307/2013 as regards resources and application in the years 2021 and 2022 and Regulation (EU) No 1308/2013 as regards resources and the distribution of such support in respect of the years 2021 and 2022 (OJ L 437, 28.12.2020, p. 1).
+
+( 26 ) Data notified annually for their declared expenditure.

@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(91/271/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 98/15/EC of 27 February 1998</td><td> L 67</td><td>29</td><td>7.3.1998</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1882/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/64/EU of 17 December 2013 </td><td> L 353</td><td>8</td><td>28.12.2013</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 
@@ -356,12 +358,14 @@ Good international laboratory practices aiming at minimizing the degradation of 
 
 Table 1: Requirements for discharges from urban waste water treatment plants subject to Articles 4 and 5 of the Directive. The values for concentration or for the percentage of reduction shall apply.
 
+<table>
 <tbody><tr><td>Parameters</td><td>Concentration</td><td>Minimum percentage of reduction (1)</td><td>Reference method of measurement</td></tr>
 <tr><td>Biochemical oxygen demand (BOD5 at 20 °C) without nitrification (2)</td><td>25 mg/l O2</td><td>70-90 40 under Article 4 (2) </td><td>Homogenized, unfiltered, undecanted sample. Determination of dissolved oxygen before and after five-day incubation at 20 °C ± 1 °C, in complete darkness. Addition of a nitrification inhibitor</td></tr>
 <tr><td>Chemical oxygen demand (COD)</td><td>125 mg/l O2</td><td>75</td><td>Homogenized, unfiltered, undecanted sample Potassium dichromate</td></tr>
 <tr><td>Total suspended solids</td><td>35 mg/l (3) 35 under Article 4 (2) (more than 10 000 p.e.)  60 under Article 4 (2) (2 000 -10 000 p.e.) </td><td>90 (3) 90 under Article 4 (2) (more than 10 000 p.e.)  70 under Article 4 (2) (2 000 -10 000 p.e.) </td><td>— Filtering of a representative sample through a 0,45 μm filter membrane. Drying at 105 °C and weighing — Centrifuging of a representative sample (for at least five mins with mean acceleration of 2 800 to 3 200 g), drying at 105 °C and weighing </td></tr>
 <tr><td colspan="4">(1)  Reduction in relation to the load of the influent.  (2)  The parameter can be replaced by another parameter: total organic carbon (TOC) or total oxygen demand (TOD) if a relationship can be established between BOD5 and the substitute parameter.  (3)  This requirement is optional. </td></tr>
 </tbody>
+</table>
 
 Analyses concerning discharges from lagooning shall be carried out on filtered samples; however, the concentration of total suspended solids in unfiltered water samples shall not exceed 150 mg/l.
 
@@ -369,6 +373,7 @@ Analyses concerning discharges from lagooning shall be carried out on filtered s
 
 Requirements for discharges from urban waste water treatment plants to sensitive areas which are subject to eutrophication as identified in Annex II.A(a).  One or both parameters may be applied depending on the local situation. The values for concentration or for the percentage of reduction shall apply.
 
+<table>
 <tbody><tr><td>Parameters</td><td>Concentration</td><td>Minimum percentage of reduction (1)</td><td>Reference method of measurement</td></tr>
 <tr><td rowspan="2">Total phosphorus</td><td> 2 mg/l (10 000 — 100 000 p.e.)  </td><td rowspan="2">80</td><td rowspan="2">Molecular absorption spectrophotometry</td></tr>
 <tr><td>1 mg/l (more than 100 000 p.e.)</td></tr>
@@ -376,6 +381,7 @@ Requirements for discharges from urban waste water treatment plants to sensitive
 <tr><td>10 mg/l (more than 100 000 p.e.) (3)</td></tr>
 <tr><td colspan="4">(1)  Reduction in relation to the load of the influent.  (2)  Total nitrogen means the sum of total Kjeldahl nitrogen (organic and ammoniacal nitrogen) nitrate-nitrogen and nitrite-nitrogen.  (3)  These values for concentration are annual means as referred to in Annex I, paragraph D.4(c). However, the requirements for nitrogen may be checked using daily averages when it is proved, in accordance with Annex I, paragraph D.1, that the same level of protection is obtained. In this case, the daily average must not exceed 20 mg/l of total nitrogen for all the samples when the temperature from the effluent in the biological reactor is superior or equal to 12 °C. The conditions concerning temperature could be replaced by a limitation on the time of operation to take account of regional climatic conditions. </td></tr>
 </tbody>
+</table>
 
 **Table 3**
 

@@ -1,0 +1,375 @@
+---
+title: "Council Regulation (EU, Euratom) 2020/2093 of 17 December 2020 laying down the multiannual financial framework for the years 2021 to 2027"
+identifier: "32020R2093"
+eli: "http://data.europa.eu/eli/reg/2020/2093/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2020-12-17
+entry_into_force: 2020-08-25
+last_amended: 2026-04-24
+consolidated_version: "02020R2093-20260424"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R2093-20260424"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU, Euratom) 2020/2093 of 17 December 2020 laying down the multiannual financial framework for the years 2021 to 2027
+
+**COUNCIL REGULATION (EU, Euratom) 2020/2093**
+
+**of 17 December 2020**
+
+**laying down the multiannual financial framework for the years 2021 to 2027**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU, Euratom) 2022/2496 of 15 December 2022 </td><td> L 325</td><td>11</td><td>20.12.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU, Euratom) 2024/765 of 29 February 2024 </td><td> L 765</td><td>1</td><td>29.2.2024</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2026/469 of 23 April 2026 </td><td> L 469</td><td>1</td><td>23.4.2026</td></tr>
+</table>
+
+**COUNCIL REGULATION (EU, Euratom) 2020/2093**
+
+**of 17 December 2020**
+
+**laying down the multiannual financial framework for the years 2021 to 2027**
+
+## CHAPTER 1 — GENERAL PROVISIONS
+
+#### Article 1 — Multiannual financial framework
+
+This Regulation lays down the multiannual financial framework for the years 2021 to 2027 (MFF).
+
+#### Article 2 — Compliance with the ceilings of the MFF
+
+1\. The European Parliament, the Council and the Commission (the ‘Institutions’) shall, during each budgetary procedure and when implementing the budget for the year concerned, comply with the annual expenditure ceilings set out in Annex I (the ‘MFF ceilings’).
+
+The sub-ceiling for heading 3 as set out in Annex I is established without prejudice to the flexibility between the two pillars of the Common Agricultural Policy (CAP). The adjusted ceiling to be applied to pillar I of the CAP following the transfers between the European Agricultural Fund for Rural Development and direct payments shall be laid down in the relevant legal act and the MFF shall be adjusted accordingly under the technical adjustment provided for in Article 4 of this Regulation.
+
+2\. Where it is necessary to use the resources from the special instruments provided for in Articles 8, 9, 10, 10a, 10b, 10c and 12, commitment and corresponding payment appropriations shall be entered in the budget over and above the relevant MFF ceilings.
+
+Where it is necessary to use the resources from the Single Margin Instrument as laid down in Article 11, commitment and corresponding payment appropriations shall be entered in the budget over and above the relevant MFF ceilings for a given year.
+
+3\. Where it is necessary to mobilise a guarantee for financial assistance to Member States authorised in accordance with Article 220(1) of the Financial Regulation, the necessary amount shall be mobilised over and above the MFF ceilings.
+
+Where it is necessary to mobilise a guarantee for financial assistance to Ukraine which is available for the years 2023 and 2024 and authorised in accordance with Article 220(1) of the Financial Regulation, the necessary amount shall be mobilised over and above the MFF ceilings.
+
+Where it is necessary to mobilise a guarantee for financial assistance to Ukraine which is available for the years 2024 to 2027 for an overall amount of loans of up to EUR 33 000 million in current prices as specified in Regulation (EU) 2024/792 of the European Parliament and of the Council ( 1 ) and authorised in accordance with Article 220(1) of the Financial Regulation, the necessary amount shall be mobilised over and above the MFF ceilings.
+
+Where it is necessary to mobilise a guarantee for financial assistance in the form of a loan to Ukraine, which is available for the years 2026 and 2027 for an overall amount of up to EUR 90 000 000 000 , to be provided through enhanced cooperation under Regulation (EU) 2026/467 of the European Parliament and of the Council ( 2 ) authorised in accordance with Article 223(1) of Regulation (EU, Euratom) 2024/2509 of the European Parliament and Council ( 3 ), the necessary amount shall be mobilised over and above the MFF ceilings.
+
+#### Article 3 — Respect of own resources ceiling
+
+1\. For each of the years covered by the MFF, the total appropriations for payments required, after annual adjustment and taking account of any other adjustments and revisions as well as the application of Article 2(2) and (3), shall not be such as to produce a call-in rate for own resources that exceeds the own resources ceiling set out in the Council decision on the system of own resources of the European Union in force that has been adopted in accordance with the third paragraph of Article 311 TFEU (the ‘Own Resources Decision’).
+
+2\. Where necessary, the MFF ceilings shall be lowered in order to ensure compliance with the own resources ceiling set out in the Own Resources Decision.
+
+## CHAPTER 2 — ADJUSTMENTS TO THE MFF
+
+#### Article 4 — Technical adjustments
+
+1\. Each year the Commission, acting ahead of the budgetary procedure for year n+1, shall make the following technical adjustments to the MFF:
+
+(a) a revaluation, at year n+1 prices, of the ceilings and of the overall figures for appropriations for commitments and appropriations for payments;
+
+(b) a calculation of the margin available under the own resources ceiling set out in the Own Resources Decision;
+
+(c) a calculation of the amount of commitment appropriations available under the Single Margin Instrument as referred to in point (a) of the first subparagraph of Article 11(1), as well as of the total maximum amount referred to in point (a) of the first subparagraph of Article 11(2);
+
+(d) a calculation of the adjustment of the ceiling for payment appropriations under the Single Margin Instrument as referred to in point (b) of the first subparagraph of Article 11(1), as well as of the maximum amount referred to in point (b) of the first subparagraph of Article 11(2);
+
+(e) a calculation of the additional allocations for specific programmes referred to in Article 5(1) and the result of the annual adjustment referred to in Article 5(2);
+
+(f) a calculation of the amount available for the EURI Instrument in accordance with Article 10a(3), point (a);
+
+(g) a calculation of the amounts to be made available to the Flexibility Instrument under Article 12(1), second subparagraph.
+
+2\. The Commission shall make the technical adjustments referred to in paragraph 1 on the basis of a fixed deflator of 2 % per year.
+
+3\. The Commission shall communicate the results of the technical adjustments referred to in paragraph 1 and the underlying economic forecasts to the European Parliament and to the Council.
+
+4\. Without prejudice to Articles 6 and 7, no further technical adjustments shall be made in respect of the year concerned, either during the year or as ex post corrections during subsequent years.
+
+#### Article 5 — Programme-specific adjustment
+
+1\. An amount equivalent to the revenue from fines imposed under Council Regulations (EC) No 1/2003 ( 4 ) and (EC) No 139/2004 ( 5 ) by Union institutions, which is entered in the budget of the year n-1 in accordance with Article 107 of the Financial Regulation, after deduction of the amount for the year n-1 referred to in Article 141(1) of the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community ( 6 ), shall be available for an additional allocation of:
+
+(a) commitment appropriations for year n+1, starting for the year 2022 and ending in 2027, to the programmes listed in Annex II, in accordance with percentages set out for those programmes in the column ‘Distribution key’ of the table in Annex II; and
+
+(b) payment appropriations for year n+1, starting for the year 2022 and ending in 2027.
+
+The total amount of additional allocations for the period 2022 to 2027 for commitment and payment appropriations respectively shall be EUR 10 155 million (in 2018 prices). For each of the years from 2022 to 2026, the annual amount of additional allocations for commitment and payment appropriations respectively shall be at least EUR 1 500 million (in 2018 prices) and shall not exceed EUR 2 000 million (in 2018 prices).
+
+The total amount of additional allocations for commitment appropriations for the programmes in the period 2022 to 2027 is set out in the column ‘Total additional allocation of commitment appropriations under Article 5’ of the table in Annex II.
+
+2\. The ceilings for commitment appropriations of the relevant headings for year n+1, starting for the year 2022 and ending in 2027, shall be adjusted upwards with the amounts corresponding to the additional allocations set out in paragraph 1, in accordance with the percentages set out for those headings in the column ‘Distribution key’ of the table in Annex II. The ceiling for payment appropriations for year n+1, starting for the year 2022 and ending in 2027, shall be automatically adjusted upwards with the amounts corresponding to the additional allocations set out in paragraph 1.
+
+#### Article 6 — Adjustments related to measures linked to sound economic governance or to a general regime of conditionality for the protection of the Union budget
+
+1\. In the case of the lifting of a suspension of budgetary commitments concerning Union funds in accordance with the relevant basic acts in the context of measures linked to sound economic governance or to measures adopted under the Regulation of the European Parliament and of the Council on a general regime of conditionality for the protection of the Union budget, the amounts corresponding to the suspended commitments shall be transferred to the following years and the corresponding MFF ceilings shall be adjusted accordingly.
+
+2\. The Commission shall communicate the result of any adjustments under paragraph 1 to the European Parliament and to the Council.
+
+3\. Suspended commitments of year n may not be entered in the general budget of the Union beyond year n+2.
+
+#### Article 7 — Adjustment following new rules or programmes under shared management
+
+1\. In the event of the adoption after 1 January 2021 of new rules or programmes under shared management for the Structural Funds, the Cohesion Fund, the Just Transition Fund, the European Agricultural Fund for Rural Development, the European Maritime and Fisheries Fund, the Asylum and Migration Fund, the Internal Security Fund and the Border Management and Visa Instrument under the Integrated Border Management Fund, the amounts corresponding to the allocations not used in 2021 shall be transferred in equal proportions to each of the years 2022 to 2025, and the corresponding MFF ceilings shall be adjusted accordingly.
+
+2\. The Commission shall communicate the result of any adjustments under paragraph 1 to the European Parliament and to the Council.
+
+## CHAPTER 3 — SPECIAL INSTRUMENTS
+
+### SECTION 1 — Thematic special instruments
+
+#### Article 8 — European Globalisation Adjustment Fund
+
+1\. The European Globalisation Adjustment Fund, the objectives and scope of which are set out in Regulation (EU) 2021/691 of the European Parliament and of the Council ( 7 ), shall not exceed a maximum annual amount of EUR 30 million (in 2018 prices).
+
+2\. The appropriations for the European Globalisation Adjustment Fund shall be entered in the general budget of the Union as a provision.
+
+#### Article 9 — Solidarity and Emergency Aid Reserve
+
+1\. The Solidarity and Emergency Aid Reserve shall be constituted of two instruments which may be used to finance, respectively:
+
+(a) assistance to respond to emergency situations resulting from major disasters that are covered by the European Union Solidarity Fund, the objectives and scope of which are set out in Council Regulation (EC) No 2012/2002 ( 8 ) (the “European Solidarity Reserve”); and
+
+(b) rapid responses to specific emergency needs within the Union or in third countries following events which could not be foreseen when the budget was established, in particular for emergency responses and support operations following natural disasters not covered by point (a), man-made disasters, humanitarian crises in cases of large-scale public health, veterinary or phytosanitary threats, as well as in situations of particular pressure at the Union’s external borders resulting from migratory flows, where circumstances so require (the “Emergency Aid Reserve”).
+
+2\. The European Solidarity Reserve shall not exceed a maximum annual amount of EUR 1 016 million (in 2018 prices). Any portion of the annual amount not used in year n may be used up to year n+1. The portion of the annual amount stemming from the previous year shall be drawn on first. Any portion of the annual amount from year n which is not used in year n+1 shall lapse.
+
+On 1 October of each year, at least one quarter of the annual amount of the European Solidarity Reserve shall remain available in order to cover needs arising until the end of that year.
+
+In exceptional cases and if the remaining financial resources available are not sufficient to cover the amounts considered necessary in the year of occurrence of a disaster as referred to in point (a) of paragraph 1, the Commission may propose that the difference be financed through the annual amount referred to in the first subparagraph of this paragraph available in the following year, up to a maximum amount of EUR 400 million (in 2018 prices).
+
+3\. The Emergency Aid Reserve shall not exceed a maximum annual amount of EUR 508 million (in 2018 prices). Any portion of the annual amount not used in year n may be used up to year n+1. The portion of the annual amount stemming from the previous year shall be drawn on first. Any portion of the annual amount from year n which is not used in year n+1 shall lapse.
+
+4\. The appropriations for the European Solidarity Reserve and for the Emergency Aid Reserve shall be entered in the general budget of the Union as provisions.
+
+#### Article 10 — Brexit Adjustment Reserve
+
+1\. A Brexit Adjustment Reserve shall provide assistance to counter unforeseen and adverse consequences in Member States and sectors that are worst affected by the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community, subject to and in accordance with the conditions set out in the relevant instrument.
+
+2\. The Brexit Adjustment Reserve shall not exceed an amount of EUR 4 491 million (in 2018 prices).
+
+3\. The appropriations for the Brexit Adjustment Reserve shall be entered into the general budget of the Union as a provision.
+
+#### Article 10a — EURI Instrument
+
+1\. As of 2025, the EURI Instrument may be used to finance, for a given year, part of the costs of the interest and coupon payments due in respect of the funds borrowed on the capital markets in accordance with Article 5(2) of Council Decision (EU, Euratom) 2020/2053 ( 9 ). The EURI Instrument may only be mobilised in a given year to cover, to the extent specified in the following paragraphs, the amount of these costs that exceed the following amounts (in 2018 prices):
+
+— 2025 – EUR 2 332 million,
+
+— 2026 – EUR 3 196 million,
+
+— 2027 – EUR 4 168 million.
+
+2\. The EURI Instrument may be mobilised by the European Parliament and the Council in the framework of the budgetary procedure provided for in Article 314 TFEU, only after having sought other means of financing, with a view to covering a substantial part of the amounts exceeding the amounts referred to in paragraph 1 of this Article, in accordance with the applicable sectoral rules and other legal obligations, while taking into account priorities, prudent budgeting and sound financial management.
+
+Appropriations for the EURI Instrument shall be made available over and above the MFF ceilings.
+
+3\. The EURI Instrument shall comprise the following:
+
+(a) an amount equivalent to decommitments of appropriations, other than external assigned revenue, made cumulatively since 2021, which were not mobilised under this instrument in the previous years, with the exclusion of the amounts of decommitments made available again in accordance with the provisions of Article 15 of the Financial Regulation and specific rules on making appropriations available again as referred to in the relevant basic acts. This amount shall be drawn on first;
+
+(b) only if the amount under point (a) of this paragraph is insufficient, an additional amount necessary to fully finance the costs referred to in paragraph 1 in the year concerned.
+
+Each year, as part of the technical adjustments referred to in Article 4, the Commission shall calculate the amount available on the basis of the first subparagraph, point (a), of this paragraph taking into account the amounts considered for that purpose in the previous years.
+
+#### Article 10b — Ukraine Reserve
+
+1\. The Ukraine Reserve may be mobilised for the sole purpose of financing expenditure under Regulation (EU) 2024/792.
+
+2\. The Ukraine Reserve shall not exceed an amount of EUR 17 000 million in current prices for the period 2024 to 2027.
+
+3\. The annual amount mobilised under the Ukraine Reserve in a given year shall not exceed EUR 5 000 million in current prices. Without prejudice to the overall amount set out in paragraph 2, the unused portion of the annual amount in a given year may be used in the following years, until 2027.
+
+4\. The Ukraine Reserve may be mobilised by the European Parliament and the Council in the framework of the budgetary procedure provided for in Article 314 TFEU.
+
+#### Article 10c — Ukraine Support Loan Instrument
+
+After having sought budgetary availabilities, first under existing budgetary ceilings and subsequently under other special instruments, while taking into account applicable sectoral rules, any legal or other obligations including under Article 10a of this Regulation, priorities, prudent budgeting and sound financial management, the Ukraine Support Loan Instrument may be mobilised by the European Parliament and the Council in the framework of the budgetary procedure provided for in Article 314 TFEU. The Ukraine Support Loan Instrument may be used for the sole purpose of financing debt service costs of a loan to Ukraine to be provided through enhanced cooperation.
+
+### SECTION 2 — Non-thematic special instruments
+
+#### Article 11 — Single Margin Instrument
+
+1\. The Single Margin Instrument shall comprise:
+
+(a) as of 2022, amounts corresponding to margins left available below the MFF ceilings for commitment appropriations of year n-1 to be made available over and above the MFF ceilings for commitment appropriations for the years 2022 to 2027;
+
+(b) as of 2022, amounts equivalent to the difference between the executed payments and the MFF payment ceiling of year n-1 to adjust upwards the payment ceiling for the years 2022 to 2027; and
+
+(c) additional amounts which may be made available over and above the MFF ceilings in a given year for commitment or payment appropriations, or both, as the case may be, provided that they are fully offset against the margins in one or more MFF headings for the current or future financial years as regards commitment appropriations and are fully offset against the margins under the payment ceiling for future financial years as regards payment appropriations.
+
+Amounts may only be mobilised under point (c) of the first subparagraph if the amounts available pursuant to points (a) and (b) of that subparagraph, as applicable, are insufficient, and in any case as a last resort to react to unforeseen circumstances.
+
+Recourse to point (c) of the first subparagraph shall not result in exceeding the total amounts of the MFF ceilings for commitment and payment appropriations for the current financial year and future financial years. Any amounts offset in accordance with that point shall therefore not be further mobilised in the context of the MFF.
+
+2\. Recourse to the Single Margin Instrument under points (a) and (c) of the first subparagraph of paragraph 1 shall not exceed, in any given year, a total of:
+
+(a) 0,04 % of the gross national income of the Union in commitment appropriations, as calculated in the annual technical adjustment of the MFF referred to in Article 4;
+
+(b) 0,03 % of the gross national income of the Union in payment appropriations, as calculated in the annual technical adjustment of the MFF referred to in Article 4.
+
+Recourse to the Single Margin Instrument in any given year shall be consistent with the own resources ceilings set out in the Own Resources Decision.
+
+3\. The annual adjustments referred to in point (b) of the first subparagraph of paragraph 1 shall not exceed the following maximum amounts (in 2018 prices) for the years 2025 to 2027 as compared to the original payment ceiling of the relevant years:
+
+— 2025 – EUR 8 000 million,
+
+— 2026 – EUR 13 000 million,
+
+— 2027 – EUR 15 000 million.
+
+Amounts referred to in the second subparagraph of Article 5(2) shall be in addition to the maximum amounts referred to in the first subparagraph of this paragraph.
+
+Any upward adjustment shall be fully offset by a corresponding reduction of the payment ceiling for year n-1.
+
+3a. The maximum amount for the annual adjustment referred to in paragraph 3 of this Article for the year 2026, increased by the amount referred to in the second subparagraph of Article 5(2), shall be adjusted by the amount equivalent to the unused portion of the maximum amount for year 2025.
+
+4\. Amounts referred to in points (a) and (c) of the first subparagraph of paragraph 1 of this Article may be mobilised by the European Parliament and the Council in the framework of the budgetary procedure provided for in Article 314 TFEU to allow the financing of expenditure which could not be financed within the limits of the relevant MFF ceilings available in a given year.
+
+The upward adjustment referred to in point (b) of the first subparagraph of paragraph 1 of this Article shall be carried out by the Commission, starting in 2022, as part of the technical adjustment referred to in Article 4.
+
+#### Article 12 — Flexibility Instrument
+
+1\. The Flexibility Instrument may be used for the financing, for a given financial year, of specific unforeseen expenditure in commitment appropriations and corresponding payment appropriations that cannot be financed within the limits of the ceilings available for one or more other headings. The ceiling for the annual amount available for the Flexibility Instrument in the years 2021 to 2023 shall be EUR 915 million (in 2018 prices). The ceiling for the annual amount available for the Flexibility Instrument in the years 2024 to 2027 shall be EUR 1 346 million (in 2018 prices).
+
+Each year, the annual amount available for the Flexibility Instrument shall be increased by an amount equivalent to the portions of the annual amounts for the European Solidarity Reserve and the Emergency Aid Reserve which have lapsed in the previous year in accordance with Article 9.
+
+2\. The unused portion of the annual amount of the Flexibility Instrument may be used up to year n+2. Any portion of the annual amount stemming from previous years shall be used first, in order of age. Any portion of the annual amount from year n which is not used by year n+2 shall lapse.
+
+## CHAPTER 4 — REVISION OF THE MFF
+
+#### Article 13 — Revision of the MFF
+
+1\. Without prejudice to Article 3(2) and Articles 14 to 17, in the event of unforeseen circumstances, the MFF may be revised in compliance with the own resources ceiling set out in the Own Resources Decision.
+
+2\. As a general rule, any proposal for a revision of the MFF in accordance with paragraph 1 shall be presented and adopted before the start of the budgetary procedure for the year or the first of the years concerned.
+
+3\. Any proposal for a revision of the MFF in accordance with paragraph 1 shall examine the scope for reallocating expenditure between the programmes covered by the heading concerned by the revision, with particular reference to any expected underutilisation of appropriations.
+
+4\. Any revision of the MFF in accordance with paragraph 1 shall take into account the scope for offsetting any raising of the ceiling for one heading by the lowering of the ceiling for another heading.
+
+5\. Any revision of the MFF in accordance with paragraph 1 shall maintain an appropriate relationship between commitment and payment appropriations.
+
+#### Article 14 — Revision related to implementation
+
+When notifying the European Parliament and the Council of the results of the technical adjustments to the MFF, the Commission shall, where appropriate, submit any proposal to revise the total appropriations for payments which it considers necessary, in the light of implementation, to ensure a sound management of the yearly payment ceilings, and in particular their orderly progression in relation to the appropriations for commitments.
+
+#### Article 15 — Revision in the event of a revision of the Treaties
+
+In the event of a revision of the Treaties with budgetary implications, the MFF shall be revised accordingly.
+
+#### Article 16 — Revision in the event of enlargement of the Union
+
+In the event of an accession or accessions to the Union, the MFF shall be revised to take account of the expenditure requirements resulting therefrom.
+
+#### Article 17 — Revision in the event of the reunification of Cyprus
+
+In the event of the reunification of Cyprus, the MFF shall be revised to take account of the comprehensive settlement of the Cyprus problem and the additional financial needs resulting from the reunification.
+
+## CHAPTER 5 — CONTRIBUTION TO THE FINANCING OF LARGE-SCALE PROJECTS
+
+#### Article 18 — Contribution to the financing of large-scale projects
+
+1\. A maximum amount of EUR 13 202 million (in 2018 prices) shall be available from the general budget of the Union for the period 2021 to 2027 for large-scale projects under the Regulation of the European Parliament and of the Council establishing the space programme of the Union and the European Union Agency for the Space Programme.
+
+2\. A maximum amount of EUR 5 000 million (in 2018 prices) shall be available from the general budget of the Union for the period 2021 to 2027 for the International Thermonuclear Experimental Reactor project (ITER).
+
+## CHAPTER 6 — INTERINSTITUTIONAL COOPERATION IN THE BUDGETARY PROCEDURE
+
+#### Article 19 — Interinstitutional cooperation in the budgetary procedure
+
+1\. The Institutions shall take measures to facilitate the annual budgetary procedure.
+
+2\. The Institutions shall cooperate in good faith throughout the procedure with a view to reconciling their positions. The Institutions shall, at all stages of the procedure, cooperate through appropriate interinstitutional contacts in order to monitor the progress of the work and analyse the degree of convergence.
+
+3\. The Institutions shall ensure that their respective calendars of work are coordinated as far as possible, in order to enable proceedings to be conducted in a coherent and convergent way, leading to the final adoption of the general budget of the Union.
+
+4\. Trilogues may be held at all stages of the procedure and at different levels of representation, depending on the nature of the expected discussions. Each institution, in accordance with its own rules of procedure, shall designate its participants for each meeting, set out its mandate for the negotiations and inform the other institutions in good time of the arrangements for the meetings.
+
+#### Article 20 — Unity of the budget
+
+All expenditure and revenue of the Union and the European Atomic Energy Community shall be included in the general budget of the Union in accordance with Article 7 of the Financial Regulation, including expenditure resulting from any relevant decision taken unanimously by the Council after consulting the European Parliament, in the framework of Article 332 TFEU.
+
+## CHAPTER 7 — FINAL PROVISIONS
+
+#### Article 21 — Transition towards the next multiannual financial framework
+
+Before 1 July 2025, the Commission shall present a proposal for a new multiannual financial framework.
+
+#### Article 22 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**MULTIANNUAL FINANCIAL FRAMEWORK (EU-27)**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="3">(EUR million –2018 prices)</td></tr>
+<tr><td>COMMITMENT APPROPRIATIONS</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total 2021-2027</td></tr>
+<tr><td>1.Single Market, Innovation and Digital</td><td>19 712 </td><td>20 211 </td><td>19 678 </td><td>19 178 </td><td>18 173 </td><td>18 120 </td><td>17 565 </td><td>132 637 </td></tr>
+<tr><td>2.Cohesion, Resilience and Values</td><td>5 996 </td><td>62 642 </td><td>63 525 </td><td>65 079 </td><td>65 184 </td><td>56 675 </td><td>58 680 </td><td>377 781 </td></tr>
+<tr><td>2a. Economic, social and territorial cohesion</td><td>1 666 </td><td>56 673 </td><td>57 005 </td><td>57 436 </td><td>57 772 </td><td>48 302 </td><td>48 937 </td><td>327 791 </td></tr>
+<tr><td>2b. Resilience and Values</td><td>4 330 </td><td>5 969 </td><td>6 520 </td><td>7 643 </td><td>7 412 </td><td>8 373 </td><td>9 743 </td><td>49 990 </td></tr>
+<tr><td>3.Natural Resources and Environment</td><td>53 562 </td><td>52 626 </td><td>51 893 </td><td>51 013 </td><td>49 914 </td><td>48 734 </td><td>47 960 </td><td>355 702 </td></tr>
+<tr><td>of which: Market related expenditure and direct payments</td><td>38 040 </td><td>37 544 </td><td>36 857 </td><td>36 054 </td><td>35 283 </td><td>34 602 </td><td>33 886 </td><td>252 266 </td></tr>
+<tr><td>4.Migration and Border Management</td><td>1 687 </td><td>3 104 </td><td>3 454 </td><td>3 569 </td><td>4 083 </td><td>4 145 </td><td>4 701 </td><td>24 743 </td></tr>
+<tr><td>5.Security and Defence</td><td>1 598 </td><td>1 750 </td><td>1 762 </td><td>2 112 </td><td>2 277 </td><td>2 398 </td><td>2 576 </td><td>14 473 </td></tr>
+<tr><td>6.Neighbourhood and the World</td><td>15 309 </td><td>15 522 </td><td>14 789 </td><td>14 500 </td><td>14 192 </td><td>13 326 </td><td>13 447 </td><td>101 085 </td></tr>
+<tr><td>7.European Public Administration</td><td>10 021 </td><td>10 215 </td><td>10 342 </td><td>10 454 </td><td>10 554 </td><td>10 673 </td><td>10 843 </td><td>73 102 </td></tr>
+<tr><td>of which: Administrative expenditure of the institutions</td><td>7 742 </td><td>7 878 </td><td>7 945 </td><td>7 997 </td><td>8 025 </td><td>8 077 </td><td>8 188 </td><td>55 852 </td></tr>
+<tr><td>TOTAL COMMITMENT APPROPRIATIONS</td><td>107 885 </td><td>166 070 </td><td>165 443 </td><td>165 905 </td><td>164 377 </td><td>154 071 </td><td>155 772 </td><td>1 079 523 </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>TOTAL PAYMENT APPROPRIATIONS</td><td>154 065 </td><td>153 850 </td><td>152 682 </td><td>151 436 </td><td>151 175 </td><td>151 175 </td><td>151 175 </td><td>1 065 558 </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**PROGRAMME-SPECIFIC ADJUSTMENT – LIST OF PROGRAMMES, DISTRIBUTION KEY AND TOTAL ADDITIONAL ALLOCATION OF COMMITMENT APPROPRIATIONS**
+
+<table>
+<tbody><tr><td>  </td><td>  </td><td>  </td><td>(EUR million – 2018 prices)</td></tr>
+<tr><td>  </td><td colspan="2">Distribution key</td><td>Total additional allocation of commitment appropriations under Article 5</td></tr>
+<tr><td>  </td><td>2022-2024</td><td>2025-2027</td><td>  </td></tr>
+<tr><td>1.Single Market, Innovation and Digital</td><td>36,36 %</td><td>41,79 %</td><td>4 000 </td></tr>
+<tr><td>Horizon Europe</td><td>27,27 %</td><td>31,34 %</td><td>3 000 </td></tr>
+<tr><td>InvestEU Fund</td><td>9,09 %</td><td>10,45 %</td><td>1 000 </td></tr>
+<tr><td>2b.Resilience and Values</td><td>54,55 %</td><td>47,76 %</td><td>5 155 </td></tr>
+<tr><td>EU4Health</td><td>26,37 %</td><td>15,37 %</td><td>2 055 </td></tr>
+<tr><td>Erasmus+</td><td>15,46 %</td><td>17,77 %</td><td>1 700 </td></tr>
+<tr><td>Creative Europe</td><td>5,45 %</td><td>6,26 %</td><td>600</td></tr>
+<tr><td>Rights and Values</td><td>7,27 %</td><td>8,36 %</td><td>800</td></tr>
+<tr><td>4.Migration and Border Management</td><td>9,09 %</td><td>10,45 %</td><td>1 000 </td></tr>
+<tr><td>Integrated Border Management Fund</td><td>9,09 %</td><td>10,45 %</td><td>1 000 </td></tr>
+<tr><td>TOTAL</td><td>100,00 %</td><td>100,00 %</td><td>10 155 </td></tr>
+</tbody>
+</table>
+
+( 1 ) Regulation (EU) 2024/792 of the European Parliament and of the Council of 29 February 2024 on establishing the Ukraine Facility (OJ L, 2024/792, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/792/oj).
+
+( 2 ) Regulation (EU) 2026/467 of the European Parliament and of the Council of 24 February 2026 implementing enhanced cooperation on the establishment of the Ukraine Support Loan for 2026 and 2027 (OJ L, 2026/467, 26.2.2026, ELI: http://data.europa.eu/eli/reg/2026/467/oj).
+
+( 3 ) Regulation (EU, Euratom) 2024/2509 of the European Parliament and of the Council of 23 September 2024 on the financial rules applicable to the general budget of the Union (OJ L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj).
+
+( 4 ) Council Regulation (EC) No 1/2003 of 16 December 2002 on the implementation of the rules on competition laid down in Articles 81 and 82 of the Treaty (OJ L 1, 4.1.2003, p. 1).
+
+( 5 ) Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings (the EC Merger Regulation) (OJ L 24, 29.1.2004, p. 1).
+
+( 6 ) OJ L 29, 31.1.2020, p. 7.
+
+( 7 ) Regulation (EU) 2021/691 of the European Parliament and of the Council of 28 April 2021 on the European Globalisation Adjustment Fund for Displaced Workers (EGF) and repealing Regulation (EU) No 1309/2013 (OJ L 153, 3.5.2021, p. 48).
+
+( 8 ) Council Regulation (EC) No 2012/2002 of 11 November 2002 establishing the European Union Solidarity Fund (OJ L 311, 14.11.2002, p. 3).
+
+( 9 ) Council Decision (EU, Euratom) 2020/2053 of 14 December 2020 on the system of own resources of the European Union and repealing Decision 2014/335/EU, Euratom (OJ L 424, 15.12.2020, p. 1).

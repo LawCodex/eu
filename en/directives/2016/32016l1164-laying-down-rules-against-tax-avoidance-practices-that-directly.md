@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **laying down rules against tax avoidance practices that directly affect the functioning of the internal market**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2017/952 of 29 May 2017 </td><td> L 144</td><td>1</td><td>7.6.2017</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE (EU) 2016/1164**
 

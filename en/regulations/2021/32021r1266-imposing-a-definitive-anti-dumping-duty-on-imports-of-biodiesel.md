@@ -1,0 +1,245 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/1266 of 29 July 2021 imposing a definitive anti-dumping duty on imports of biodiesel originating in the United States of America following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council"
+identifier: "32021R1266"
+eli: "http://data.europa.eu/eli/reg_impl/2021/1266/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-07-29
+entry_into_force: 2021-11-07
+last_amended: 2026-03-25
+consolidated_version: "02021R1266-20260325"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R1266-20260325"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/1266 of 29 July 2021 imposing a definitive anti-dumping duty on imports of biodiesel originating in the United States of America following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/1266**
+
+**of 29 July 2021**
+
+**imposing a definitive anti-dumping duty on imports of biodiesel originating in the United States of America following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/731 of 12 May 2022 </td><td> L 136</td><td>3</td><td>13.5.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1861 of 12 September 2025 </td><td> L 1861</td><td>1</td><td>15.9.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/702 of 23 March 2026 </td><td> L 702</td><td>1</td><td>24.3.2026</td></tr>
+</table>
+
+C1
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/1266**
+
+**of 29 July 2021**
+
+**imposing a definitive anti-dumping duty on imports of biodiesel originating in the United States of America following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council**
+
+## Article 1
+
+1\. A definitive anti-dumping duty is imposed on imports of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin, commonly known as ‘biodiesel’, in pure form or in a blend containing by weight more than 20 % of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin, originating in the United States of America currently falling under CN codes ex 1516 20 98 (TARIC codes 1516 20 98 21 and 1516 20 98 29 ), ex 1518 00 91 (TARIC codes 1518 00 91 21 and 1518 00 91 29 ), ex 1518 00 95 (TARIC code 1518 00 95 21 ), ex 1518 00 99 (TARIC codes 1518 00 99 21 and 1518 00 99 29 ), ex 2710 19 11 (TARIC code 2710 19 11 10 ), ex 2710 19 15 (TARIC code 2710 19 15 10 ), ex 2710 19 21 (TARIC code 2710 19 21 10 ), ex 2710 19 25 (TARIC code 2710 19 25 10 ), ex 2710 19 29 (TARIC code 2710 19 29 10 ), ex 2710 19 42 (TARIC codes 2710 19 42 21 and 2710 19 42 29 ), ex 2710 19 44 (TARIC codes 2710 19 44 21 and 2710 19 44 29 ), ex 2710 19 46 (TARIC codes 2710 19 46 21 and 2710 19 46 29 ), ex 2710 19 47 (TARIC codes 2710 19 47 21 and 2710 19 47 29 ), 2710 20 11 , 2710 20 16 , ex 3824 99 92 (TARIC codes 3824 99 92 10 , 3824 99 92 14 and 3824 99 92 17 ), 3826 00 10 and ex 3826 00 90 (TARIC codes 3826 00 90 11 and 3826 00 90 19 ).
+
+2\. The rates of the definitive anti-dumping duty applicable to the net free-at Union frontier price, before duty, of the product described in paragraph 1, and manufactured by the companies listed below, shall be a fixed amount as follows:
+
+| Company | AD duty rate EUR per tonne net | TARIC additional code |
+| --- | --- | --- |
+| Archer Daniels Midland Company, Decatur | 68,6 | A933 |
+| Cargill Inc., Wayzata | 0 | A934 |
+| Green Earth Fuels of Houston LLC, Houston | 70,6 | A935 |
+| Imperium Renewables Inc., Seattle | 76,5 | A936 |
+| Peter Cremer North America LP, Cincinnati | 198,0 | A937 |
+| World Energy Alternatives LLC, Boston | 82,7 | A939 |
+| Companies listed in Annex I | 115,6 | See Annex I |
+| All other companies | 172,2 | A999 |
+
+The anti-dumping duty on blends shall be applicable in proportion in the blend, by weight, of the total content of fatty-acid mono-alkyl esters and of paraffinic gasoils obtained from synthesis and/or hydro-treatment, of non-fossil origin (biodiesel content).
+
+3\. The application of the individual duty rate specified for the companies referred to in paragraph 2 shall be conditional upon presentation to the customs authorities of the Member States of a valid commercial invoice, which shall conform to the requirements set out in Annex II. If no such invoice is presented, the duty rate applicable to ‘all other companies’ shall apply.
+
+4\. Where any party from the United States of America provides sufficient evidence to the Commission that:
+
+(a) it did not export the goods described in Article 1(1) originating in the United States of America during the period of investigation (1 April 2007-31 March 2008);
+
+(b) it is not related to an exporter or producer subject to the measures imposed by this Regulation; and
+
+(c) it has either actually exported the goods concerned or has entered into an irrevocable contractual obligation to export a significant quantity to the Union after the end of the period of investigation;
+
+the Commission may amend Annex I in order to attribute to that party the duty applicable to cooperating producers not included in the sample, i.e. EUR 115,6 per tonne.
+
+## Article 2
+
+1\. The definitive anti-dumping duty applicable to ‘all other companies’ as set out in Article 1(2), is extended to imports of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin, commonly known as ‘biodiesel’, in pure form or in a blend containing by weight more than 20 % of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin, consigned from Canada, whether declared as originating in Canada or not, currently falling under CN codes ex 1516 20 98 (TARIC code 1516 20 98 21 ), ex 1518 00 91 (TARIC code 1518 00 91 21 ), ex 1518 00 99 (TARIC code 1518 00 99 21 ), ex 2710 19 42 (TARIC code 2710 19 42 21 ), ex 2710 19 44 (TARIC code 2710 19 44 21 ), ex 2710 19 46 (TARIC code 2710 19 46 21 ), ex 2710 19 47 (TARIC code 2710 19 47 21 ), ex 2710 20 11 (TARIC code 2710 20 11 21 ), ex 2710 20 16 (TARIC code 2710 20 16 21 ), ex 3824 99 92 (TARIC code 3824 99 92 10 ), ex 3826 00 10 (TARIC codes 3826 00 10 20 , 3826 00 10 50 , 3826 00 10 89 ) and ex 3826 00 90 (TARIC code 3826 00 90 11 ), with the exception of those produced by the companies listed below:
+
+| Country | Company | TARIC additional code |
+| --- | --- | --- |
+| Canada | BIOX Corporation, Oakville, Ontario, Canada | B107 |
+| Canada | — | — |
+| Canada | Rothsay Biodiesel, Guelph, Ontario, Canada | B108 |
+| Canada | Verbio Diesel Canada Corporation, Welland, Ontario, Canada | C600 |
+
+The duty to be extended shall be the one established for ‘all other companies’ in Article 1(2), which is a definitive anti-dumping duty of EUR 172,2 per tonne net.
+
+The anti-dumping duty on blends shall be applicable in proportion in the blend, by weight, of the total content of fatty-acid mono-alkyl esters and of paraffinic gasoils obtained from synthesis and/or hydro-treatment, of non-fossil origin (biodiesel content).
+
+2\. The application of the exemptions granted to companies referred to in paragraph 1 or authorised by the Commission in accordance with Article 4(2) shall be conditional upon presentation to the customs authorities of the Member States of a valid commercial invoice, which shall conform to the requirements set out in Annex II. If no such invoice is presented, the duty rate as imposed by paragraph 1 shall apply.
+
+## Article 3
+
+1\. The definitive anti-dumping duty as set out in Article 1(2), is hereby extended to imports of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin, commonly known as ‘biodiesel’, in a blend containing by weight 20 % or less of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin, originating in the United States of America, and currently falling under CN codes ex 1516 20 98 (TARIC code 1516 20 98 33 ), ex 1518 00 91 (TARIC code 1518 00 91 33 ), ex 1518 00 99 (TARIC code 1518 00 99 33 ), ex 2710 19 44 (TARIC code 2710 19 44 33 ), ex 2710 19 46 (TARIC code 2710 19 46 33 ), ex 2710 19 47 (TARIC code 2710 19 47 33 ), ex 2710 20 11 (TARIC code 2710 20 11 33 ), ex 2710 20 16 (TARIC code 2710 20 16 33 ), ex 3824 99 92 (TARIC code 3824 99 92 17 ) and ex 3826 00 90 (TARIC code 3826 00 90 33 ).
+
+The anti-dumping duty on blends shall be applicable in proportion in the blend, by weight, of the total content of fatty-acid mono-alkyl esters and of paraffinic gasoils obtained from synthesis and/or hydro-treatment, of non-fossil origin (biodiesel content).
+
+2\. The application of the individual duty rate specified for the companies referred to in Article 1, paragraph 2, shall be conditional upon presentation to the customs authorities of the Member States of a valid commercial invoice, which shall conform to the requirements set out in Annex III. If no such invoice is presented, the duty rate applicable under Article 1(2) to ‘all other companies’ shall apply.
+
+## Article 4
+
+1\. Requests for exemption from the duty extended by Article 2(1) and Article 3(1) shall be made in writing in one of the official languages of the European Union and must be signed by a person authorised to represent the entity requesting the exemption. The request must be sent to the following address:
+
+European Commission
+
+Directorate-General for Trade
+
+Directorate G
+
+Rue de la Loi 170, CHAR 04/034
+
+1049 Brussels
+
+BELGIUM
+
+Email: TRADE-TDI-INFORMATION@ec.europa.eu
+
+2\. In accordance with Article 13(4) of Regulation (EU) 2016/1036, the Commission, after consulting the Advisory Committee, may authorise, by decision, the exemption of imports from companies which do not circumvent the anti-dumping measures imposed by Article 1, from the duty extended by Article 2(1) and Article 3(1).
+
+## Article 5
+
+In cases where goods have been damaged before entry into free circulation and, therefore, the price actually paid or payable is apportioned for the determination of the customs value pursuant to Article 131(2) of Commission Implementing Regulation (EU) 2015/2447 ( 1 ), the amount of anti-dumping duty laid down in Articles 1, 2 and 3 shall be reduced by a percentage which corresponds to the apportioning of the price actually paid or payable.
+
+Unless otherwise specified, the provisions in force concerning customs duties shall apply.
+
+## Article 6
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+| Company Name | City | TARIC additional code |
+| --- | --- | --- |
+| AG Processing Inc. | Omaha | A942 |
+| Alabama Clean Fuels Coalition Inc. | Birmingham | A940 |
+| American Made Fuels, Inc. | Canton | A940 |
+| Arkansas SoyEnergy Group | DeWitt | A940 |
+| Arlington Energy, LLC | Mansfield | A940 |
+| Athens Biodiesel, LLC | Athens | A940 |
+| Beacon Energy | Cleburne | A940 |
+| Biodiesel of Texas, Inc. | Denton | A940 |
+| BioDiesel One Ltd | Southington | A940 |
+| Buffalo Biodiesel, Inc | Tonawanda | A940 |
+| BullDog BioDiesel | Ellenwood | A940 |
+| Carbon Neutral Solutions, LLC | Mauldin | A940 |
+| Central Iowa Energy LLC | Newton | A940 |
+| Chesapeake Custom Chemical Corp. | Ridgeway | A940 |
+| Community Fuels | Stockton | A940 |
+| Delta BioFuels Inc. | Natchez | A940 |
+| Diamond Biofuels | Mazon | A940 |
+| Direct Fuels | Euless | A940 |
+| Eagle Creek Fuel Services, LLC | Baltimore | A940 |
+| Earl Fisher Bio Fuels | Chester | A940 |
+| East Fork Biodiesel LLC | Algona | A940 |
+| ECO Solutions, LLC | Chatsworth | A940 |
+| Ecogy Biofuels LLC | Tulsa | A940 |
+| ED&F Man Biofuels Inc. | New Orleans | A940 |
+| Freedom Biofuels Inc. | Madison | A940 |
+| Fuel & Lube, LLC | Richmond | A940 |
+| Fuel Bio | Elizabeth | A940 |
+| FUMPA Bio Fuels | Redwood Falls | A940 |
+| Galveston Bay Biodiesel LP (BioSelect Fuels) | Houston | A940 |
+| Geo Green Fuels LLC | Houston | A940 |
+| Georgia Biofuels Corp. | Loganville | A940 |
+| Green River Biodiesel, Inc. | Moundville | A940 |
+| Griffin Industries Inc. | Cold Spring | A940 |
+| High Plains Bioenergy | Guymon | A940 |
+| Huish Detergents Inc. | Salt Lake City | A940 |
+| Incobrasa Industries Ltd. | Gilman | A940 |
+| Independence Renewable Energy Corp. | Perdue Hill | A940 |
+| Indiana Flex Fuels | LaPorte | A940 |
+| Innovation Fuels Inc. | Newark | A940 |
+| Iowa Renewable Energy LLC | Washington | A940 |
+| Johann Haltermann Ltd. | Houston | A940 |
+| Lake Erie Biofuels LLC | Erie | A940 |
+| Leland Organic Corporation | Leland | A940 |
+| Louis Dreyfus Agricultural Industries LLC | Claypool | A940 |
+| Louis Dreyfus Claypool Holdings LLC | Claypool | A940 |
+| Memphis Biofuels, LLC | Memphis | A942 |
+| Middle Georgia Biofuels | East Dublin | A940 |
+| Middletown Biofuels LLC | Blairsville | A940 |
+| Musket Corporation | Oklahoma City | A940 |
+| New Fuel Company | Dallas | A940 |
+| North Mississippi Biodiesel | New Albany | A940 |
+| Northern Biodiesel, Inc. | Ontario | A940 |
+| Northwest Missouri Biofuels, LLC | St. Joseph | A940 |
+| Nova Biofuels Clinton County LLC | Clinton | A940 |
+| Nova Biosource | Senaca | A940 |
+| Organic Fuels Ltd. | Houston | A940 |
+| Organic Technologies | Coshocton | C482 |
+| Owensboro Grain Company LLC | Owensboro | A940 |
+| Paseo Cargill Energy, LLC | Kansas City | A940 |
+| Peach State Labs Inc. | Rome | A940 |
+| Perihelion Global, Inc. | Opp | A940 |
+| Philadelphia Fry-O-Diesel Inc. | Philadelphia | A940 |
+| Pinnacle Biofuels, Inc. | Crossett | A940 |
+| PK Biodiesel | Woodstock | A940 |
+| Pleasant Valley Biofuels, LLC | American Falls | A940 |
+| RBF Port Neches LLC | Houston | A940 |
+| Red Birch Energy, Inc. | Bassett | A940 |
+| Red River Biodiesel Ltd. | New Boston | A940 |
+| REG Ralston LLC | Ralston | A940 |
+| Renewable Energy Products, LLC | Santa Fe Springs | A940 |
+| Riksch BioFuels LLC | Crawfordsville | A940 |
+| Safe Renewable Corp. | Conroe | A940 |
+| Sanimax Energy Inc. | DeForest | A940 |
+| Scott Petroleum | Itta Bena | A942 |
+| Seminole Biodiesel | Bainbridge | A940 |
+| Soy Solutions | Milford | A940 |
+| SoyMor Biodiesel LLC | Albert Lea | A940 |
+| Sunshine BioFuels, LLC | Camilla | A940 |
+| TPA Inc. | Warren | A940 |
+| Trafigura AG | Stamford | A940 |
+| U.S. Biofuels Inc. | Rome | A940 |
+| United Oil Company | Pittsburgh | A940 |
+| Valco Bioenergy | Harlingen | A940 |
+| Vanguard Synfuels, LLC | Pollock | A940 |
+| Vinmar Overseas, Ltd | Houston | A938 |
+| Vitol Inc. | Houston | A940 |
+| Walsh Bio Diesel, LLC | Mauston | A940 |
+| Western Dubque Biodiesel LLC | Farley | A940 |
+| Western Iowa Energy LLC | Wall Lake | A940 |
+| Western Petroleum Company | Eden Prairie | A940 |
+
+## ANNEX II
+
+A declaration signed by an official of the entity issuing the commercial invoice, in the following format, must appear on the valid commercial invoice referred to in Article 1(3) and Article 2(2):
+
+— the name and function of the official of the entity issuing the commercial invoice,
+
+— the following declaration:
+
+‘I, the undersigned, certify that the (volume) of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin, commonly known as “biodiesel”, in pure form or in a blend containing by weight more than 20 % of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin sold for export to the European Union covered by this invoice was manufactured by [company name and address] [TARIC additional code] in [countr[y]ies concerned]. I declare that the information provided in this invoice is complete and correct.’
+
+## ANNEX III
+
+A declaration signed by an official of the entity issuing the commercial invoice, in the following format, must appear on the valid commercial invoice referred to in Article 3(2):
+
+— the name and function of the official of the entity issuing the commercial invoice,
+
+— the following declaration:
+
+‘I, the undersigned, certify that the (volume) of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin, commonly known as “biodiesel”, in pure form or in a blend containing by weight 20 % or less of fatty-acid mono-alkyl esters and/or paraffinic gasoil obtained from synthesis and/or hydro-treatment, of non-fossil origin sold for export to the European Union covered by this invoice was manufactured by [company name and address] [TARIC additional code] in the United States of America. I declare that the information provided in this invoice is complete and correct.’
+
+( 1 ) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558).

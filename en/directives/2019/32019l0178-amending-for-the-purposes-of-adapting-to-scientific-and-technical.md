@@ -87,6 +87,7 @@ Jean-Claude JUNCKER
 
 In Annex III, entry 42 is added:
 
+<table>
 <tbody><tr><td>‘42</td><td>Lead in bearings and bushes of diesel or gaseous fuel powered internal combustion engines applied in non-road professional use equipment:<table><tbody><tr><td>—</td><td>with engine total displacement ≥ 15 litres; or </td></tr>
 </tbody>
 </table>
@@ -95,3 +96,4 @@ In Annex III, entry 42 is added:
 </table>
 </td><td>Applies to category 11, excluding applications covered by entry 6(c) of this Annex. Expires on 21 July 2024.’ </td></tr>
 </tbody>
+</table>

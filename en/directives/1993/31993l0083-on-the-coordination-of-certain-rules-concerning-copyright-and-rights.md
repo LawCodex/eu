@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the coordination of certain rules concerning copyright and rights related to copyright applicable to satellite broadcasting and cable retransmission**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/789 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 April 2019 </td><td> L 130</td><td>82</td><td>17.5.2019</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 93/83/EEC**
 

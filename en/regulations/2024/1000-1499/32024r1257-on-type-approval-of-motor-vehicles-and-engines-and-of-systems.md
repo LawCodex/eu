@@ -1,0 +1,1098 @@
+---
+title: "Regulation (EU) 2024/1257 of the European Parliament and of the Council of 24 April 2024 on type-approval of motor vehicles and engines and of systems, components and separate technical units intended for such vehicles, with respect to their emissions and battery durability (Euro 7), amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 715/2007 and (EC) No 595/2009 of the European Parliament and of the Council, Commission Regulation (EU) No 582/2011, Commission Regulation (EU) 2017/1151, Commission Regulation (EU) 2017/2400 and Commission Implementing Regulation (EU) 2022/1362 (Text with EEA relevance)"
+identifier: "32024R1257"
+eli: "http://data.europa.eu/eli/reg/2024/1257/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-04-24
+entry_into_force: 2024-12-20
+last_amended: 2026-09-23
+consolidated_version: "02024R1257-20260923"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R1257-20260923"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2024/1257 of the European Parliament and of the Council of 24 April 2024 on type-approval of motor vehicles and engines and of systems, components and separate technical units intended for such vehicles, with respect to their emissions and battery durability (Euro 7), amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 715/2007 and (EC) No 595/2009 of the European Parliament and of the Council, Commission Regulation (EU) No 582/2011, Commission Regulation (EU) 2017/1151, Commission Regulation (EU) 2017/2400 and Commission Implementing Regulation (EU) 2022/1362 (Text with EEA relevance)
+
+**REGULATION (EU) 2024/1257 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 April 2024**
+
+**on type-approval of motor vehicles and engines and of systems, components and separate technical units intended for such vehicles, with respect to their emissions and battery durability (Euro 7), amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 715/2007 and (EC) No 595/2009 of the European Parliament and of the Council, Commission Regulation (EU) No 582/2011, Commission Regulation (EU) 2017/1151, Commission Regulation (EU) 2017/2400 and Commission Implementing Regulation (EU) 2022/1362**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/1216 of 9 June 2026 </td><td> L 1216</td><td>1</td><td>13.8.2026</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/1214 of 9 June 2026 </td><td> L 1214</td><td>1</td><td>3.9.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2024/1257 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 April 2024**
+
+**on type-approval of motor vehicles and engines and of systems, components and separate technical units intended for such vehicles, with respect to their emissions and battery durability (Euro 7), amending Regulation (EU) 2018/858 of the European Parliament and of the Council and repealing Regulations (EC) No 715/2007 and (EC) No 595/2009 of the European Parliament and of the Council, Commission Regulation (EU) No 582/2011, Commission Regulation (EU) 2017/1151, Commission Regulation (EU) 2017/2400 and Commission Implementing Regulation (EU) 2022/1362**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — SUBJECT MATTER, SCOPE AND DEFINITIONS
+
+### Article 1 — Subject matter
+
+1\. This Regulation establishes common technical requirements and administrative provisions for the emission type-approval and market surveillance of motor vehicles, systems, components and separate technical units, with regard to their CO2 and pollutant emissions, fuel and electric energy consumption and battery durability.
+
+2\. This Regulation also lays down rules for the emission type-approval, conformity of production, in-service conformity, market surveillance of on-board monitoring systems, durability of pollution control systems and traction batteries, as well as security provisions to limit tampering and cybersecurity measures, and rules for the accurate determination of CO2 emissions, electric range, fuel and electric energy consumption and energy efficiency.
+
+### Article 2 — Scope
+
+This Regulation applies to motor vehicles of categories M1, M2, M3, N1, N2 and N3, as well as trailers of categories O3 and O4 as specified in Article 4 of Regulation (EU) 2018/858, including those designed and constructed in one or more stages, and to systems, components and separate technical units intended for such vehicles, and C1, C2 and C3 class tyres, as specified in UN Regulation No 117 ( 1 ), with the exception of ice grip tyres.
+
+### Article 3 — Definitions
+
+For the purposes of this Regulation, the relevant definitions in Regulation (EU) 2018/858 apply.
+
+In addition, for the purposes of this Regulation, the following definitions apply:
+
+(1) ‘emission type-approval’ means an EU type-approval complying with the administrative provisions and technical requirements of this Regulation as regards CO2 and pollutant emissions, fuel and electric energy consumption and battery durability;
+
+(2) ‘granting type-approval authority’ means the approval authority that grants the emission type approval;
+
+(3) ‘conformity of production’ or ‘CoP’ means the activities carried out on new vehicles, separate technical units or components selected at the manufacturer’s premises to ensure that the products placed on the market comply with the requirements set out in this Regulation;
+
+(4) ‘in-service conformity’ or ‘ISC’ means the activities carried out on vehicles in circulation, systems, separate technical units or components with the purpose of verifying compliance with the durability requirements set out in this Regulation;
+
+(5) ‘engine’ means the internal combustion engine of a vehicle;
+
+(6) ‘emissions’ means the exhaust and non-exhaust emissions of a motor vehicle;
+
+(7) ‘exhaust emissions’ means the emission from the tailpipe of the motor vehicle or engine of all of the following: CO2, gaseous, solid, liquid compounds and crankcase emissions;
+
+(8) ‘gaseous pollutants’ means the emissions of gaseous chemical species, excluding CO2;
+
+(9) ‘CO2’ means the carbon dioxide emitted from the tailpipe;
+
+(10) ‘nitrogen oxides’ or ‘NOx’ means the sum of nitric oxide (NO) and nitrogen dioxide (NO2) emitted from the tailpipe;
+
+(11) ‘nitrous oxide’ or ‘N2O’ means nitrous oxide emitted from the tailpipe;
+
+(12) ‘particulate matter’ or ‘PM’ means any material emitted from the tailpipe or the brakes and collected on a filter media;
+
+(13) ‘particulate matter less than 10 μm’ or ‘PM10’ means the particulate matter with a diameter of less than 10 μm;
+
+(14) ‘particle number’ or ‘PN’ means the total number of solid particles emitted from the tailpipe or the brakes;
+
+(15) ‘PN10’ means the total number of solid particles emitted from the tailpipe or the brakes that have a diameter larger or equal to 10 nm;
+
+(16) ‘carbon monoxide’ or ‘CO’ means the carbon monoxide emitted from the tailpipe;
+
+(17) ‘methane’ or ‘CH4’ means the methane emitted from the tailpipe;
+
+(18) ‘total hydrocarbons’ or ‘THC’ means the total hydrocarbons emitted from the tailpipe;
+
+(19) ‘non-methane hydrocarbons’ or ‘NMHC’ means the total hydrocarbons, excluding methane, emitted from the tailpipe;
+
+(20) ‘non-methane organic gases’ or ‘NMOG’ means the sum of non-oxygenated and oxygenated hydrocarbons, excluding methane, emitted from the tailpipe;
+
+(21) ‘ammonia’ or ‘NH3’ means the ammonia emitted from the tailpipe;
+
+(22) ‘formaldehyde’ or ‘HCHO’ means the formaldehyde emitted from the tailpipe;
+
+(23) ‘WHTC’ means the worldwide harmonised transient driving cycle in accordance with paragraph 7.2.1. of Annex 4 to UN Regulation No 49 ( 2 );
+
+(24) ‘WHSC’ means the worldwide harmonised steady state driving cycle in accordance with paragraph 7.2.2. of Annex 4 to UN Regulation No 49;
+
+(25) ‘electric energy consumption’ is the rate at which a vehicle uses electric energy from its traction battery or batteries under specified conditions of use;
+
+(26) ‘fuel consumption’ is the rate at which a vehicle uses fuel under specified conditions of use;
+
+(27) ‘vehicle energy consumption calculation tool’ or ‘VECTO’ means a simulation tool used in determining CO2 emissions, fuel consumption, electric energy consumption and the electric range from heavy-duty vehicles;
+
+(28) ‘evaporative emissions’ means the hydrocarbon vapours emitted from the fuel system of a vehicle, excluding those from exhaust emissions;
+
+(29) ‘crankcase emissions’ means the gaseous pollutants from the spaces in, or external to, an engine which are connected to the oil sump by internal or external ducts;
+
+(30) ‘brake particle emissions’ means the particles emitted from the brake system of a vehicle;
+
+(31) ‘tyre abrasion’ means the mass of material lost from the tyre due to the abrasion process and emitted into the environment;
+
+(32) ‘non-exhaust emissions’ means evaporative, tyre abrasion and brake emissions;
+
+(33) ‘pollutant emissions’ means exhaust and non-exhaust emissions other than CO2 emissions;
+
+(34) ‘pollution control device’ means a device of a vehicle that controls or limits pollutant emissions;
+
+(35) ‘pollution control systems’ means the pollution control devices installed in a vehicle, including all control units and software that govern their use;
+
+(36) ‘original pollution control systems’ means a pollution control system or an assembly of such systems covered by the type-approval granted for the vehicle concerned;
+
+(37) ‘replacement pollution control systems’ means a pollution control system or an assembly of such systems which is intended to replace an original pollution control system and which can be approved as a separate technical unit;
+
+(38) ‘on-board diagnostic system’ or ‘OBD system’ means a system on board a vehicle that can generate vehicle on-board diagnostic (OBD) information, as defined in Article 3, point 49, of Regulation (EU) 2018/858 and is capable of communicating that information off-board;
+
+(39) ‘on-board monitoring system’ or ‘OBM system’ means a system on board a vehicle that is capable of monitoring exhaust emissions, detecting exhaust emission exceedances and capable of communicating that information together with the state-of-health information off-board;
+
+(40) ‘on-board fuel and electric energy consumption monitoring device’ or ‘OBFCM device’ means any software or hardware on board a vehicle that detects and uses vehicle, engine, fuel or electric energy and payload/mass parameters to determine and store in the vehicle the fuel and electric energy consumption data and other parameters relevant in determining the fuel or electric energy consumption and energy efficiency of the vehicle;
+
+(41) ‘manipulation device’ means any element of design that results in a vehicle not complying with the requirements of this Regulation when driven but not under a regulatory test, despite it resulting in the vehicle appearing to be compliant when tested, or that manipulates data related to sensors, fuel or electric energy consumption, electric range or battery durability;
+
+(42) ‘manipulation strategy’ means a strategy that results in a vehicle not complying with the requirements of this Regulation when driven but not under regulatory test, despite it resulting in the vehicle appearing to be compliant when tested, or that manipulates data related to sensors, fuel or electric energy consumption, electric range or battery durability;
+
+(43) ‘real-driving emissions’ or ‘RDE’ means the emissions of a vehicle under the conditions specified in Tables 1 and 2 of Annex III;
+
+(44) ‘odometer’ means an instrument indicating the total distance driven by the vehicle since its production;
+
+(45) ‘tampering’ means the inactivation, or modification of the engine or electric motor, vehicle pollution control devices and system, propulsion system, traction battery, odometer, OBFCM device, OBD or OBM system, including any software or other logical control elements of those systems and their data, resulting in the vehicle not complying with this Regulation;
+
+(46) ‘own production facility’ means a manufacturing or assembly plant used by the manufacturer for the purpose of manufacturing or assembling new vehicles for that manufacturer, including, where relevant, vehicles which are intended for export;
+
+(47) ‘own design centre’ means a facility in which the whole vehicle is designed and developed, and which is under the control and use of the manufacturer;
+
+(48) ‘small-volume manufacturer’ means a manufacturer of fewer than 10 000 new motor vehicles of category M1, or 22 000 new motor vehicles of category N1, or 450 new motor vehicles of categories M2 and M3 combined, or 6 000 new motor vehicles of categories N2 and N3 combined, that are registered in the Union each calendar year, and which:
+
+(a) is not part of a group of connected manufacturers; or
+
+(b) is part of a group of connected manufacturers that is responsible in total for fewer than 10 000 new motor vehicles of category M1, or 22 000 new motor vehicles of category N1, or 450 new motor vehicles of categories M2 and M3 combined, or 6 000 new motor vehicles of categories N2 and N3 combined, that are registered in the Union each calendar year; or
+
+(c) is part of a group of connected manufacturers but operates its own production facilities and own design centre;
+
+(49) ‘ultra-small-volume manufacturer’ means a small-volume manufacturer that produces fewer than 1 000 new motor vehicles of category M1 or fewer than 1 000 new motor vehicles of category N1 that are registered in the Union in the previous calendar year;
+
+(50) ‘pure internal combustion engine vehicle’ or ‘ICEV’ means a vehicle where all of the propulsion energy converters are internal combustion engines, including hydrogen powered ones;
+
+(51) ‘pure electric vehicle’ or ‘PEV’ means a vehicle equipped with a powertrain containing exclusively electric machines as propulsion energy converters and exclusively rechargeable electric energy storage systems as propulsion energy storage systems;
+
+(52) ‘fuel cell’ means an energy converter transforming chemical energy (input) into electrical energy (output) or vice versa;
+
+(53) ‘fuel cell vehicle’ or ‘FCV’ means a vehicle equipped with a powertrain containing exclusively fuel cell(s) and electric machine(s) as propulsion energy converter(s);
+
+(54) ‘fuel cell hybrid vehicle’ or ‘FCHV’ means a fuel cell vehicle equipped with a powertrain containing at least one fuel storage system and at least one rechargeable electric energy storage system as propulsion energy storage systems;
+
+(55) ‘hybrid vehicle’ or ‘HV’ means a vehicle equipped with a powertrain containing at least two different categories of propulsion energy converters and at least two different categories of propulsion energy storage systems;
+
+(56) ‘hybrid electric vehicle’ or ‘HEV’ means a hybrid vehicle where one of the propulsion energy converters is an electric machine;
+
+(57) ‘off-vehicle charging hybrid electric vehicle’ or ‘OVC-HEV’ means a hybrid electric vehicle that can be charged from an external source;
+
+(58) ‘not off-vehicle charging hybrid electric vehicle’ or ‘NOVC-HEV’ means a vehicle with at least two different energy converters and two different energy storage systems that are used for the purpose of vehicle propulsion and that cannot be charged from an external source;
+
+(59) ‘geofencing technologies’ means technologies that do not allow a hybrid vehicle to run with the use of the internal combustion engine, i.e. to enable zero-emission mode, when driven inside a specific geographic area;
+
+(60) ‘zero-emission mode’ means a selectable mode, whereby a hybrid vehicle is driven without the use of the internal combustion engine;
+
+(61) ‘mass in running order’ means the mass of the vehicle, with its fuel tank(s) filled to at least 90 per cent of their capacities, including the mass of the driver, fuel and liquids, fitted with the standard equipment in accordance with the manufacturer’s specifications and, when they are fitted, the mass of the bodywork, the cabin, the coupling and the spare wheels as well as the tools;
+
+(62) ‘traction battery’ means a battery system that stores energy with the main purpose of propelling the vehicle;
+
+(63) ‘electric range’ means the distance travelled in charge-depleting operation condition until the traction battery is depleted;
+
+(64) ‘zero-emission range’ means the maximum distance a vehicle can travel with zero exhaust emissions, which for PEVs corresponds to the electric range;
+
+(65) ‘durability’ means the ability of a system or device, component or any part of the vehicle to maintain its required performance over a given time;
+
+(66) ‘battery durability’ means in-vehicle durability of a traction battery measured in terms of its state of health;
+
+(67) ‘state of health’ or ‘SOH’ means the measured or estimated state of a specific performance metric of a vehicle or traction battery at a specific point in its lifetime, expressed as a percentage of the performance that was determined when certified or new;
+
+(68) ‘environmental vehicle passport’ or ‘EVP’ means a record in digital form that contains information on the environmental performance of a vehicle at the moment of registration, including the level of pollutant emission limits, CO2 emissions, fuel consumption, electric energy consumption, electric range and engine or electric motor power, and battery durability and other related values;
+
+(69) ‘excess exhaust emissions driver warning system’ means a system designed, constructed and installed in a vehicle to provide information to the user about excess exhaust emissions and to ensure repairs before further use;
+
+(70) ‘low-reagent driver warning system’ means a system designed, constructed and installed in a vehicle to warn the user of the low level of the consumable reagent and to ensure the use of the reagent;
+
+(71) ‘declaration of compliance’ or ‘declaration’ means a declaration by the manufacturer that a specific type or group of vehicles, component or separate technical unit is in compliance with the requirements of this Regulation;
+
+(72) ‘energy efficiency of a trailer’ means the performance of a trailer with regard to its influence on the CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range and engine or electric motor power of a towing motor vehicle;
+
+(73) ‘snow tyre’ means a tyre whose tread pattern, tread compound or construction is primarily designed to achieve in mud and snow conditions a performance better than that of a normal tyre with regard to its ability to initiate and control vehicle motion;
+
+(74) ‘tyre for use in severe snow conditions’ means a snow tyre or a special use tyre whose tread pattern, tread compound or structure is specifically designed to be used in severe snow conditions;
+
+(75) ‘ice grip tyre’ means a C1 class snow tyre for use in severe snow conditions, that is additionally designed to be used on road surfaces covered with ice and that fulfils the requirements provided for in UN Regulation No 117;
+
+(76) ‘special use tyre’ means a tyre intended for mixed use both on- and off-road or for other special duty and that is primarily designed to initiate and maintain the vehicle in motion in off-road conditions;
+
+(77) ‘option’ means a set of additional requirements laid down in this Regulation, which manufacturers may choose to comply with in order to be able to use the corresponding designation for the vehicles they manufacture.
+
+## CHAPTER II — MANUFACTURERS’ OBLIGATIONS
+
+### Article 4 — Obligations of the manufacturers concerning construction of vehicles, systems, components and separate technical units
+
+1\. Manufacturers shall ensure that the new vehicles that they manufacture, which are sold, registered or enter into service in the Union, are type-approved in accordance with this Regulation. From the specific dates of application set out in this Regulation, manufacturers shall ensure that the new systems, components or separate technical units, including engines, traction batteries, brake systems, tyres and replacement pollution control systems requiring type-approval which they manufacture and which are sold or enter into service in the Union are type-approved in accordance with this Regulation.
+
+2\. Manufacturers shall design, construct and assemble vehicles to comply with this Regulation, including complying with the emission limits set out in Annex I under the conditions set out in Annex III and respecting the values declared in the certificate of conformity and in the type-approval documentation for the lifetime of the vehicle, as set out in Table 1 of Annex IV. Those vehicles shall be designated as ‘Euro 7’ vehicles.
+
+3\. Where applicable, when manufacturers, national authorities, Commission or recognised third parties are verifying compliance with the exhaust emission limits, where the testing is performed in extended driving conditions, the emissions shall be divided by the extended driving divider set out in UN Regulation No 168 ( 3 ).
+
+4\. Manufacturers shall design and construct systems, components or separate technical units, including engines, electric motors, traction batteries, brake systems, tyres and replacement pollution control systems to comply with this Regulation, including with the emission limits set out in Annex I under the testing conditions set out in Annex III.
+
+5\. Manufacturers shall not design, construct and assemble vehicles with manipulation devices or manipulation strategies.
+
+6\. Manufacturers shall design, construct and assemble vehicles of categories M1, M2, M3, N1, N2 and N3 with:
+
+(a) OBD systems that can detect malfunctioning systems which lead to exhaust emission exceedances or the malfunctioning of components related to emission performance in order to facilitate repairs;
+
+(b) OBM systems capable of monitoring exhaust emissions;
+
+(c) OBFCM devices to monitor their real-world fuel and electric energy consumption and other relevant parameters, which are needed to determine their real-world fuel and energy efficiency;
+
+(d) SOH monitors of the traction battery;
+
+(e) excess exhaust emissions driver warning systems;
+
+(f) low-reagent driver warning systems;
+
+(g) devices communicating off-board vehicle generated data used for compliance with this Regulation and OBFCM data, including for the purpose of periodic roadworthiness tests in accordance with Directive 2014/45/EU of the European Parliament and of the Council ( 4 ) and technical roadside inspections in accordance with Directive 2014/47/EU of the European Parliament and of the Council ( 5 ), and for the purpose of communicating with recharging infrastructure and stationary power systems capable of supporting smart and bidirectional charging functionalities.
+
+7\. Manufacturers shall design, construct and assemble vehicles of categories M1, M2, M3, N1, N2 and N3 in such a way as to minimise vulnerabilities, arising in all phases of their life-cycle, that may lead to tampering with the following:
+
+(a) fuel and reagent injection system,
+
+(b) engine and engine control units,
+
+(c) traction batteries and related management systems,
+
+(d) odometer,
+
+(e) pollution control systems,
+
+(f) electric motor and related control units,
+
+(g) OBFCM device,
+
+(h) OBD system,
+
+(i) OBM system, and
+
+(j) EVP.
+
+8\. Manufacturers shall prevent the possibility of the exploitation of the vulnerabilities referred to in paragraph 7 to the fullest extent possible based on the best available knowledge at the time of type-approval. When such a vulnerability is found, manufacturers shall take all the possible measures, taking into account the state of technology, to remove the vulnerability, by software update or any other appropriate means.
+
+9\. Manufacturers shall not deny access on anti-tampering grounds to information, tools or processes required to develop, install and activate compatible aftermarket replacement parts meeting the technical requirements of the manufacturer unless they can demonstrate that withholding information, tools and processes in question is a proportionate means in addressing the antitampering concerns at issue.
+
+10\. Environmental data about the vehicle type and the environmental performance of individual vehicles shall be made available to users and, where appropriate, displayed inside the vehicle. Those data shall cover data from the EVP, the OBM system and the OBFCM device, including lifetime values, and the state of health of the traction battery.
+
+11\. Manufacturers shall ensure the secure transmission of data related to emissions and battery durability by taking cybersecurity measures in accordance with UN Regulation No 155 ( 6 ).
+
+### Article 5 — Options of the manufacturers concerning the construction and designation of vehicles
+
+1\. Manufacturers may designate vehicles as ‘Euro 7G’ vehicles where those vehicles are equipped with internal combustion engines with geofencing technologies. The manufacturer shall install on those vehicles a driver warning system to inform the user when the traction batteries are nearly empty and to stop the vehicle if not charged within 5 kilometres from the first warning while on zero-emission mode inside the geofencing area. The application of such geofencing technologies shall be demonstrated to the approval authority during type- approval and verified during the lifetime of the vehicle.
+
+2\. At the request of the manufacturer, for vehicles of category N2 between 3,5 and 5 tonnes maximum mass originating from a type of vehicle of category N1, the approval authority may grant an emission type-approval if the vehicle meets the requirements for a type of vehicle of category N1. Such vehicles shall be designated as ‘Euro 7ext’ vehicles.
+
+3\. Manufacturers may construct vehicles combining the characteristics referred to in paragraphs 1 and 2 and designate them as ‘Euro 7Gext’ vehicles.
+
+### Article 6 — Durability requirements for vehicles, systems, components and separate technical units
+
+1\. Manufacturers shall ensure that the vehicles that they manufacture, which are sold, registered or enter into service in the Union, comply with the emission limits set out in Annex I when those vehicles are driven under test conditions as set out in Annex III, for the lifetime of the vehicle, as set out in table 1 of Annex IV, and comply with the minimum performance requirements on battery durability as set out in Annex II.
+
+2\. Manufacturers shall ensure that the vehicles referred to in paragraph 1 comply with the values regarding CO2 emissions, fuel and electric energy consumption and energy efficiency declared under this Regulation for the lifetime of the vehicle, as set out in Annex IV.
+
+3\. Manufacturers shall ensure that the design and functionality of OBFCM devices and OBD and OBM systems and anti-tampering measures installed in the vehicles referred to in paragraph 1 comply with this Regulation and that those devices, systems and measures cannot be deactivated as long as those vehicles are in use.
+
+4\. The requirements referred to in paragraphs 1, 2 and 3 shall apply irrespective of the type of fuel or energy source by which the vehicles are powered. Those requirements shall also apply to all separate technical units and components intended for such vehicles.
+
+5\. In order to verify compliance with the requirements referred to in the paragraph 1 during the additional lifetime of a vehicle, the gaseous pollutants limits set out in Annex I shall be adjusted by using the durability multipliers set out in Table 2 of Annex IV.
+
+6\. The OBM systems installed by the manufacturer in the vehicles shall be capable of:
+
+(a) monitoring and registering all exhaust emissions of NOx, NH3 and PM from vehicles of categories M2, M3, N2 and N3 and of NOx and PM from vehicles of categories M1 and N1 and detecting exceedances of at least 2,5 times the relevant exhaust emission limit values set out in Annex I;
+
+(b) communicating data on exhaust emission performance and battery durability data of the vehicle via the OBD port, including for the purpose of roadworthiness tests in accordance with Directive 2014/45/EU and technical roadside inspections in accordance with Directive 2014/47/EU, and anonymously over the air for the purpose of monitoring compliance of vehicle types;
+
+(c) triggering the driver warning system when exhaust emissions are significantly exceeded, using harmonised methods to induce timely repairs, without preventing vehicles from completing an ongoing trip to avoid road safety issues.
+
+7\. The OBFCM devices installed by the manufacturers in the vehicles referred to in paragraph 1 shall be capable of communicating all legally required relevant vehicle data they record, via the OBD port and over the air.
+
+8\. Where a vehicle, system, component or separate technical unit presents a serious risk or non-compliance with the requirements of this Regulation, manufacturers, from the moment they are aware of it, shall immediately take the necessary corrective measures, including repairs or modifications of that vehicle, system, component or separate technical unit, as appropriate, to eliminate the serious risk or to ensure compliance with this Regulation. Manufacturers and any other economic operators shall apply Regulation (EU) 2018/858 accordingly.
+
+Manufacturers shall immediately inform the approval authority that granted the type-approval of the non-conformity, and provide appropriate details.
+
+### Article 7 — Obligations of the manufacturers concerning emission type-approval
+
+1\. In order to demonstrate compliance with the emission type-approval rules during emission type-approval, manufacturers shall perform the tests specified in Tables 1, 3, 5, 7, 9 and 11 of Annex V. For the purpose of verifying the conformity of production with the requirements of this Regulation, vehicles, components and separate technical units shall be selected at the premises of the manufacturer by the approval authority or the manufacturer. In-service conformity shall be checked for the lifetime of the vehicle, as set out in Table 1 of Annex IV.
+
+2\. Manufacturers shall provide the approval authority with a signed declaration of compliance as regards the RDE, CO2 ambient temperature correction, OBD and OBM systems, emissions and battery durability, continuous or periodic regeneration, anti-tampering and crankcase emissions requirements as specified in Annex V. Manufacturers shall provide to the approval authority a signed declaration of compliance on the use of the geofencing option where that option has been selected.
+
+3\. The national authorities may test the vehicle type to verify its conformity during conformity of production, in-service conformity or market surveillance as specified in Annex V.
+
+4\. Manufacturers shall issue an EVP for each vehicle and deliver that passport to the purchaser together with the vehicle, extracting the relevant data from sources, such as the certificate of conformity and the type-approval documentation. Manufacturers shall ensure that EVP data are available for display in the vehicle electronic systems or through a QR code, or any similar method, and that EVP data can be transmitted from on- to off- board.
+
+5\. In the case of multi-stage type-approval, Article 13(2) of Regulation (EU) 2018/858 shall apply to the emission type-approval, conformity of production and in-service conformity.
+
+### Article 8 — Special rules for small-volume manufacturers
+
+1\. As regards pollutant emissions, small-volume manufacturers may substitute tests set out in Tables 1, 3, 5, 7, 9 and 11 of Annex V with declarations of compliance. The compliance of vehicles constructed and placed on the market by small-volume manufacturers may be tested for in-service conformity and market surveillance in accordance with Tables 2, 4, 6, 8, 10 and 12 of Annex V. Conformity of production tests set out in Annex V shall not be required.
+
+Article 4(6), points (b), (c) and (e), shall not apply to small-volume manufacturers of vehicles of category M1 or N1.
+
+2\. Ultra-small-volume manufacturers shall demonstrate compliance with the emission limits set out in Annex I either on road or in laboratory tests based on real-driving cycles for in-service conformity and market surveillance purposes.
+
+### Article 9 — Special rules for vehicles with a type-approved engine
+
+1\. In the event of approval of a type of vehicle of category M2, M3, N2 or N3 with a type-approved engine, the vehicle manufacturer shall be responsible for the emission type-approval. That obligation shall also cover the engine installation on the vehicle. Where the engine installation is in accordance with the engine installation specifications delivered by the engine manufacturer and subject to a prior agreement between the vehicle manufacturer and the engine manufacturer, the engine manufacturer can be made responsible for demonstrating compliance with the in-service conformity requirements.
+
+2\. In the event of a vehicle with an approved engine, the engine manufacturer shall perform the vehicle related type-approval and conformity of production tests specified in Table 3 of Annex V, from which the vehicle manufacturer is exempted. The engine manufacturer shall also perform the in-service conformity related tests, where the engine manufacturer is made responsible for demonstrating compliance with the vehicle in-service conformity requirements, except for the CO2 determination for which the vehicle manufacturer remains responsible.
+
+3\. The administrative requirements for the type-approval and in-service conformity testing of vehicles in which a type-approved engine is installed shall cover in particular the characteristics of the engine type-approval to be taken into consideration, the information to be provided by the engine manufacturer to the vehicle manufacturer and the attribution of responsibility for in-service conformity.
+
+## CHAPTER III — OBLIGATIONS OF MEMBER STATES FOR EMISSION TYPE-APPROVAL AND MARKET SURVEILLANCE
+
+### Article 10 — Emission type-approval, conformity of production, in-service conformity and market surveillance
+
+1\. Approval authorities shall put in place measures to grant emission type-approvals to vehicle types, systems, components and separate technical units and to perform tests, checks and inspections for verifying whether the manufacturers comply with the requirements for conformity of production and in-service conformity in accordance with Annex V.
+
+2\. Market surveillance authorities shall perform market surveillance checks in accordance with Article 8 of Regulation (EU) 2018/858 and Tables 2, 4, 6, 8, 10 and 12 of Annex V to this Regulation.
+
+3\. With effect from the adoption of all the implementing acts referred to in Article 14 (8), where a manufacturer so requests, the approval authorities shall not refuse to grant EU emission type-approval or national emission type-approval for a new type of vehicle of category M1 or N1, or prohibit the registration, sale or entry into service of such a new vehicle complying with this Regulation.
+
+With effect from the adoption of all the implementing acts referred to in Article 14 (9), where a manufacturer so requests, the approval authorities shall not refuse to grant EU emission type-approval or national emission type-approval for a new type of vehicle of category M2, M3, N2 or N3 or engine intended for such vehicles, or prohibit the registration, sale or entry into service of such a new vehicle or engine complying with this Regulation.
+
+4\. With effect from 29 November 2026, approval authorities shall, in the case of new types of vehicles of category M1 or N1 which do not comply with this Regulation, refuse to grant EU emission type-approval or national emission type-approval to such new types of vehicles on grounds relating to CO2 and pollutant emissions, fuel and electric energy consumption or battery durability.
+
+5\. With effect from 29 November 2027, national authorities shall, in the case of new vehicles of category M1 or N1 which do not comply with this Regulation, consider certificates of conformity to no longer be valid for the purposes of registration and shall prohibit the registration, sale or entry into service of such new vehicles on grounds relating to CO2 and pollutant emissions, fuel and electric energy consumption or battery durability.
+
+6\. With effect from 29 May 2028, approval authorities shall, in the case of new types of vehicles of category M2, M3, N2 or N3 and new types of trailers of category O3 or O4 which do not comply with this Regulation, refuse to grant EU emission type-approval or national emission type-approval to such new types of vehicles and trailers on grounds relating to CO2 and pollutant emissions, fuel and electric energy consumption or battery durability.
+
+7\. With effect from 29 May 2029, national authorities shall, in the case of new vehicles of category M2, M3, N2 or N3 and new trailers of category O3 or O4, which do not comply with this Regulation, consider certificates of conformity to be no longer valid for the purposes of registration and shall prohibit the registration, sale or entry into service of such new vehicles and trailers on grounds relating to CO2 and pollutant emissions, fuel and electric energy consumption, energy efficiency or battery durability.
+
+8\. By way of derogation from paragraph 7 of this Article, until 31 December 2029, national authorities shall allow for vehicles of category M2 or M3, for which there is a 100 % zero-emission target as from the reporting period of the year 2030 in accordance with Regulation (EU) 2019/1242, the registration, sale or entry into service of new vehicles, which do not comply with this Regulation but have a valid emission type-approval in accordance with Regulation (EC) No 595/2009.
+
+9\. With effect from 1 July 2030, national authorities shall, in the case of new vehicles of category M1 or N1 constructed by small-volume manufacturers which do not comply with this Regulation, consider certificates of conformity to be no longer valid for the purposes of registration and shall prohibit the registration, sale or entry into service of such new vehicles on grounds relating to CO2 and pollutant emissions, fuel and electric energy consumption, energy efficiency or battery durability.
+
+10\. With effect from 1 July 2031, national authorities shall, in the case of new vehicles of category M2, M3, N2 or N3 constructed by small-volume manufacturers, which do not comply with this Regulation, consider certificates of conformity to be no longer valid for the purposes of registration and shall prohibit the registration, sale or entry into service of such new vehicles on grounds relating to CO2 and pollutant emissions, fuel and electric energy consumption, energy efficiency or battery durability.
+
+### Article 11 — Specific obligations of Member States concerning the emission type approval of systems, components and separate technical units
+
+1\. With effect from 29 November 2026, Member States shall prohibit the sale or installation of a system, component or separate technical unit intended to be fitted on a vehicle of category M1 or N1 approved under this Regulation, where the system, component or separate technical unit is not type-approved in accordance with this Regulation.
+
+2\. With effect from 29 May 2028, Member States shall prohibit the sale or installation of a system, component or separate technical unit intended to be fitted on a vehicle of category M2, M3, N2 or N3, or on a trailer of category O3 or O4 approved under this Regulation, where the system, component or separate technical unit is not type-approved in accordance with this Regulation.
+
+3\. Approval authorities may continue to grant extensions to EU emission type-approvals of replacement pollution control systems under the terms which applied at the time of the original emission type approval. National authorities shall prohibit the sale or installation on a vehicle of such replacement pollution control systems unless they are type-approved.
+
+4\. With effect from 1 July 2028, national authorities shall grant component or separate technical unit EU type-approval only in respect of new types of C1 class tyres which comply with this Regulation.
+
+With effect from 1 July 2030, national authorities shall prohibit the placing on the market of C1 class tyres which do not comply with this Regulation and shall prohibit the registration of new vehicles equipped with C1 class tyres where those tyres do not comply with this Regulation.
+
+C1 class tyres which do not comply with this Regulation may continue to be made available on the market until 30 June 2032.
+
+5\. With effect from 1 April 2030, national authorities shall grant component or separate technical unit EU type-approval only in respect of new types of C2 class tyres which comply with this Regulation.
+
+With effect from 1 April 2032, national authorities shall prohibit the placing on the market of C2 class tyres which do not comply with this Regulation and shall prohibit the registration of new vehicles equipped with C2 class tyres where those tyres do not comply with this Regulation.
+
+C2 class tyres which do not comply with this Regulation may continue to be made available on the market until 31 March 2034.
+
+6\. With effect from 1 April 2032, national authorities shall grant component or separate technical unit EU type-approval only in respect of new types of C3 class tyres which comply with this Regulation.
+
+With effect from 1 April 2034, national authorities shall prohibit the placing on the market of C3 class tyres which do not comply with this Regulation and shall prohibit the registration of new vehicles equipped with C3 class tyres where those tyres do not comply with this Regulation.
+
+C3 class tyres which do not comply with this Regulation may continue to be made available on the market until 31 March 2036.
+
+### Article 12 — Operation of systems using a consumable reagent and pollution-control systems
+
+1\. Economic operators and independent operators shall not tamper with the vehicles and their systems.
+
+2\. National authorities shall, during in-service conformity or market surveillance checks, verify whether vehicle manufacturers have correctly installed excess exhaust emissions driver warning systems and low-reagent driver warning systems and whether vehicles can be tampered with.
+
+## CHAPTER IV — ROLE OF THE COMMISSION AND RECOGNISED THIRD PARTIES FOR IN-SERVICE CONFORMITY AND MARKET SURVEILLANCE
+
+### Article 13 — Application of test requirements by the Commission and recognised third parties
+
+1\. In-service conformity and market surveillance checks as set out in Tables 2, 4, 6, 8, 10, and 12 of Annex V to this Regulation, shall be performed by the Commission in accordance with Article 9 of Regulation (EU) 2018/858 and may be performed by recognised third parties in accordance with Article 13(10) of that Regulation, to verify compliance of vehicles, components and separate technical units with this Regulation.
+
+2\. Manufacturers shall make available the data required to perform such checks to the Commission and recognised third parties in accordance with Article 9(5) and Article 13(10) of Regulation (EU) 2018/858.
+
+## CHAPTER V — TESTS AND DECLARATIONS
+
+### Article 14 — Procedures and tests
+
+1\. Procedures for the emission type-approval shall include tests and checks as specified in Annex V as well as all administrative procedures and documentation requirements. For the purpose of demonstrating compliance with the requirements specified in Annex V, where applicable, manufacturers shall provide a declaration of compliance to the approval authority.
+
+2\. Tests to demonstrate compliance with the requirements of this Regulation shall be performed by manufacturers and national authorities as specified in Annex V. Tests to demonstrate compliance with the requirements of this Regulation may be performed by the Commission and recognised third parties as specified in Annex V. Where a test is specified as optional in Tables 1, 3, 5, 7, 9 and 11 of Annex V, the approval authority may request that the specified test is performed.
+
+The tests specified in Tables 1, 3, 5, 7, 9 and 11 of Annex V are to be performed by manufacturers. The tests specified in Tables 2, 4, 6, 8, 10 and 12 of Annex V are to be performed by the national authorities, the Commission and recognised third parties.
+
+3\. The Commission shall adopt implementing acts setting out procedures and testing methodologies, administrative provisions, procedures and methodologies for amending and extending emission type-approvals and data access, documentation requirements and templates for emission type-approval, conformity of production, in-service conformity and market surveillance, for all of the following:
+
+(a) types of vehicles of categories M1 and N1;
+
+(b) types of vehicles of categories M2, M3, N2 and N3;
+
+(c) engines used in types of vehicles of categories M2, M3, N2 and N3;
+
+(d) OBM and OBD systems;
+
+(e) excess emissions driver warning system;
+
+(f) low-reagent driver warning system;
+
+(g) anti-tampering, security and cybersecurity systems;
+
+(h) replacement pollution control systems types and their parts;
+
+(i) brake system types and their replacement parts, in respect to particle emissions;
+
+(j) C1, C2 and C3 class tyres, in respect to tyre abrasion;
+
+(k) other component types and their replacement parts;
+
+(l) CO2 emissions, fuel and electric energy consumption, electric range and power determination for vehicles of categories M1 and N1, provisions for OBFCM devices;
+
+(m) CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range and power determination for vehicles of categories M2, M3, N2 and N3, energy efficiency of trailers of categories O3 and O4, provisions for OBFCM devices.
+
+4\. The Commission shall adopt implementing acts for the emission type-approval, in-service conformity, conformity of production and market surveillance, to lay down the following:
+
+(a) the methods to measure exhaust emissions in the laboratory and on the road as per usual use for real world driving and the use of portable emissions measurement systems for verifying real driving emissions;
+
+(b) the methods to determine the CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range and power of a motor vehicle;
+
+(c) the methods, requirements and technical specifications for gear shift indicators;
+
+(d) the methods to determine the energy efficiency of trailers of categories O3 and O4;
+
+(e) the methods to measure crankcase emissions;
+
+(f) the methods to measure evaporative emissions;
+
+(g) the methods to measure brake particle emissions including methods for vehicles of categories M2, M3, N2 and N3, real driving brake particle emissions and regenerative braking;
+
+(h) the methods to measure tyre abrasion;
+
+(i) the methods to evaluate compliance with minimum performance requirements of battery durability;
+
+(j) the methods, requirements and tests, including compliance thresholds, to ensure performance of OBFCM devices, OBD and OBM systems and the sensors of such devices and systems, as well as off-board communication of data recorded by such devices and systems;
+
+(k) the characteristics and performance of driver warning-systems and inducement methods and methods to assess their operation;
+
+(l) the methods to assess the operation, effectiveness, regeneration and durability of original and replacement pollution control systems;
+
+(m) the methods to ensure and assess compliance with Article 4(5), including the methodology for the vulnerability analysis and tampering protection;
+
+(n) the methods to evaluate compliance with requirements for emission type approvals applicable to vehicles constructed by small- and ultra-small-volume manufacturers as set out in Article 8 and test procedures for such vehicles;
+
+(o) the methods to assess the functioning of vehicle types approved under the designations referred to in Article 5;
+
+(p) the checks for compliance with Article 9 (1) and (2) and test procedures for multi-stage vehicles;
+
+(q) the performance requirements for test equipment;
+
+(r) the specifications of reference fuels used for testing;
+
+(s) the methods for establishing the absence of manipulation devices and manipulation strategies;
+
+(t) the format and data and off-board communication methods for the EVP, and methods for in-vehicle display of environmental data about the vehicle type and the environmental performance of the individual vehicle;
+
+(u) the administrative and documentation requirements for emission type-approval, conformity of production, in service conformity and market surveillance;
+
+(v) reporting obligations, where appropriate.
+
+5\. Thе implementing acts referred to in paragraphs 3 and 4 of this Article shall be adopted in accordance with the examination procedure referred to in Article 17(2).
+
+6\. Any implementing act referred to in paragraphs 3 and 4 shall cover one or more of the items referred to in paragraph 3, points (a) to (m), combined with one or more of the items referred to in paragraph 4, points (a) to (v).
+
+7\. For implementing acts referred to in paragraphs 3 and 4 of this Article, as regards categories M1 and N1, the methods for measuring pollutant exhaust emissions and evaporative emissions shall reflect those laid down in Regulation (EU) 2017/1151, as applicable at the moment of adoption of the relevant implementing act.
+
+8\. By 29 May 2025 the Commission shall adopt for vehicles of categories M1 and N1, as referred to in paragraph 3, point (a), the following implementing acts:
+
+(a) with respect to pollutant emissions, as referred to in paragraph 4, points (a), (e), (f), (k), (q), (r), (s), (t), (u) and (v);
+
+(b) with respect to the methods to determine the CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range, vehicle power as well as performance of OBFCM devices, as referred to in paragraph 4, points (b), (c) and (j);
+
+(c) with respect to the OBM and OBD systems, as referred to in paragraph 4, points (j) and (k).
+
+9\. By 29 November 2026, the Commission shall adopt, for vehicles of categories M2, M3, N2 and N3, as referred to in paragraph 3, points (b) and (c), respectively, and their engines, as well as for trailers of categories O3 and O4, the following implementing acts:
+
+(a) with respect to pollutant emissions, as referred to in paragraph 4, points (a), (e), (k), (q), (r), (s), (t), (u) and (v);
+
+(b) with respect to the methods to determine the CO2 emissions, fuel and electric energy consumption, zero-emission range, electric range, vehicle power as well as the performance of OBFCM devices, as referred to in paragraph 4, points (b), (d) and (j);
+
+(c) with respect to the OBM and OBD systems, as referred to in paragraph 4, points (j) and (k).
+
+### Article 15 — Adaptation to technical progress
+
+1\. The Commission shall be empowered to adopt delegated acts in accordance with Article 16 in order to take into account technical progress to amend this Regulation as follows:
+
+(a) Article 5 by introducing additional options and designations based on innovative technologies for manufacturers;
+
+(b) setting out special rules for small-volume manufacturers for vehicles of categories M2, M3, N2 and N3 under Articles 3 and 8;
+
+(c) where appropriate, setting out emission limits for formaldehyde from vehicles of categories M2, M3, N2 and N3 in Table 2 of Annex I, following and based on the review in accordance with Article 18(6);
+
+(d) Table 2 of Annex III, as regards the test conditions for vehicles of categories M2, M3, N2 and N3, based on data collected when testing ‘Euro 7’ vehicles;
+
+(e) Tables 4 and 5 of Annex III, as regards the test conditions, based on data collected when testing ‘Euro 7’ brakes or tyres;
+
+(f) setting out durability multipliers in Table 2 of Annex IV based on data collected when testing exhaust emissions of vehicles of categories M2, M3, N2 and N3 and a report on the durability of heavy duty vehicles submitted to the European Parliament and Council in accordance with Article 18(3);
+
+(g) Annex V, as regards the application of test requirements and declarations.
+
+2\. Where a proposal for a UN Regulation, for a Global Technical Regulation or an amendment to a UN Regulation or to a Global Technical Regulation has been adopted and without undue delay after such adoption, or based on the reports submitted to the European Parliament and to the Council in accordance with Articles 18(4) and (5), where appropriate, taking into account technical progress, the Commission shall adopt delegated acts in accordance with Article 16, amending this Regulation as follows:
+
+(a) setting out brake particle emission limits in Annex I in line with state-of-the art technologies and, if appropriate, referring to the work performed in the United Nations World Forum for Harmonization of Vehicle Regulations (UN WP.29), including, where relevant, amending Tables 5, 6, 7 and 8 of Annex I, respectively, by providing for different limits or criteria depending on categories of vehicles and powertrain technologies;
+
+(b) setting out abrasion limits for tyre types in Annex I, referring to the work of the UN WP.29;
+
+(c) setting out the minimum performance requirements of batteries laid down in Annex II, in line with state-of-the art technologies and battery architecture as well as their application, particularly in small vehicles, and taking into account criteria such as mileage and lifetime periods for all vehicle categories in relation to battery performance.
+
+By way of derogation from the first subparagraph of this paragraph, the Commission shall adopt delegated acts in accordance with Article 16 to amend this Regulation by setting out abrasion limits for tyre types referred to in Annex I where the UN WP.29 has not adopted uniform provisions before the relevant deadline laid down in paragraph 3 of this Article, in line with and referring to, where appropriate, the work of the UN WP.29, and taking into account technical progress, by 1 July 2027 for C1 class tyres, by 1 April 2029 for C2 class tyres and by 1 April 2031 for C3 class tyres.
+
+3\. Where the UN WP.29 has not adopted uniform provisions by 1 July 2026 for C1 class tyres, by 1 April 2028 for C2 class tyres and by 1 April 2030 for C3 class tyres, the Commission shall develop a method for the measurement of tyre abrasion and shall define abrasion limits for tyres based on existing state-of-the-art methods.
+
+## CHAPTER VI — GENERAL PROVISIONS
+
+### Article 16 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 15(1) and (2) shall be conferred on the Commission for a period of five years from 28 May 2024. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 15 (1) and (2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 15(1) or (2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 17 — Committee Procedure
+
+1\. The Commission shall be assisted by the Technical Committee — Motor Vehicles. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+### Article 18 — Reporting and review
+
+1\. By 1 September 2030, Member States shall inform the Commission of the application of this Regulation.
+
+2\. By 1 September 2031, on the basis of the information provided in accordance with paragraph 1, the Commission shall submit to the European Parliament and to the Council an evaluation report on the application of this Regulation, including an evaluation of the exhaust and non-exhaust emission reductions achieved.
+
+3\. By 31 December 2025, the Commission shall submit to the European Parliament and to the Council a report assessing the durability performance of heavy-duty vehicles with regard to emissions.
+
+4\. By 31 December 2027, the Commission shall submit to the European Parliament and to the Council a report on battery durability reviewing the state of the art, as a basis for a review of the minimum performance requirements, with a view to the adoption of the delegated acts referred to in Article 15(2), point (c).
+
+That report shall assess, inter alia, the appropriateness of setting out minimum performance requirements for vehicles up to at least 10 years or 200 000 km, whichever comes first.
+
+5\. By 31 December 2027, the Commission shall submit to the European Parliament and to the Council a report on brake particle emissions reviewing measuring methods and the state of the art, with a view to the adoption of the delegated acts referred to in Article 15(2), point (a), on the level of the second stage emission limits set out in Tables 5, 6, 7 and 8 of Annex I.
+
+6\. By 31 December 2027, the Commission shall conduct a review on the appropriateness of setting out a specific limit for formaldehyde emissions in respect of vehicles of categories M2, M3, N2 and N3, based on the expected use of fuels that would lead to an increase in formaldehyde emissions, with a view to the possible adoption of the delegated act referred to in Article 15(1), point (c).
+
+## CHAPTER VII — FINAL PROVISIONS
+
+### Article 19 — Amendment to Regulation (EU) 2018/858
+
+Article 84 of Regulation (EU) 2018/858 is amended as follows:
+
+(1) paragraph 1 is replaced by the following:
+
+‘1. Member States shall lay down the rules on penalties applicable to infringements by economic operators, independent operators, and technical services of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for shall be effective, proportionate and dissuasive. In particular, those penalties shall be proportionate to the seriousness of the non-compliance and to the number of non-compliant vehicles, systems, components or separate technical units made available on the market of the Member State concerned. Member States shall notify the Commission of those rules and of those measures and shall notify it without delay of any subsequent amendment affecting them.’;
+
+(2) paragraph 3 is replaced by the following:
+
+‘3. In addition to the types of infringements set out in paragraph 2, the types of infringements by economic operators that are also subject to penalties shall be at least the following:
+
+(a) refusal to provide access to information;
+
+(b) making available on the market vehicles, systems, components or separate technical units subject to approval without such approval, or falsifying documents, certificates of conformity, statutory plates or approval marks with that intention;
+
+(c) tampering with the vehicle and its systems.’;
+
+(3) the following paragraphs are inserted:
+
+‘3a. In additional to the types of infringements set out in paragraphs 2 and 3, the types of infringements by manufacturers that are also subject to penalties shall be at least the following:
+
+(a) falsifying test results for in-service conformity under emission type-approval;
+
+(b) designing, constructing and assembling vehicles with manipulation devices or manipulation strategies, which cause a non-compliant vehicle to appear compliant with this Regulation;
+
+(c) designing, constructing and assembling vehicles of categories M1, M2, M3, N1, N2 and N3 without the required excess exhaust emissions driver warning systems or low-reagent driver warning systems.
+
+3b. The types of infringements by independent operators subject to penalties shall include at least tampering with the vehicle and its systems.’.
+
+### Article 20 — Repeal
+
+1\. Regulation (EC) No 715/2007 is repealed with effect from 1 July 2030.
+
+Regulation (EC) No 595/2009 is repealed with effect from 1 July 2031.
+
+References to Regulations (EC) No 715/2007 and (EC) No 595/2009 shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in Annex VI to this Regulation.
+
+2\. Regulation (EU) 2017/1151 is repealed with effect from 1 July 2030.
+
+Regulations (EU) No 582/2011 and (EU) 2017/2400, as well as Implementing Regulation (EU) 2022/1362 are repealed with effect from 1 July 2031.
+
+### Article 21 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 29 November 2026 for new types of vehicles of categories M1 and N1 and components, systems and separate technical units intended for vehicles of categories M1 or N1 type-approved under this Regulation and from 29 November 2027 for new vehicles of categories M1 and N1 and components, systems and separate technical units for those vehicles.
+
+It shall apply from 29 May 2028 for new types of vehicles of categories M2, M3, N2, N3, O3 and O4 and components, systems and separate technical units intended for vehicles of categories M2, M3, N2, N3, O3 or O4 type-approved under this Regulation and from 29 May 2029 for new vehicles of categories M2, M3, N2, N3, O3 and O4 and components, systems and separate technical units for those vehicles.
+
+It shall apply from 1 July 2028 for new types of C1 class tyres, from 1 April 2030 for new types of C2 class tyres and from 1 April 2032 for new types of C3 class tyres.
+
+It shall apply from 1 July 2030 for vehicles of categories M1 and N1, constructed by small-volume manufacturers and from 1 July 2031 for vehicles of categories M2, M3, N2 and N3 constructed by small-volume manufacturers.
+
+However, Article 11(3) shall apply from 28 May 2024.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — EURO 7 EMISSION LIMITS
+
+**Table 1: Euro 7 exhaust emission limits for vehicles of categories M1 and N1 with internal combustion engine**
+
+<table>
+<tbody><tr><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">Mass in running order (MRO) (kg)</td><td colspan="2">Mass of carbon monoxide (CO)</td><td colspan="2">Mass of total hydrocarbons (THC)</td><td colspan="2">Mass of nonmethane hydrocarbons (NMHC)</td><td colspan="2">Mass of oxides of nitrogen (NOx)</td><td colspan="2">Combined mass of total hydrocarbons and oxides of nitrogen (THC + NOx)</td><td colspan="2">Mass of particulate matter (PM)</td><td colspan="2">Number of particles (PN10)</td></tr>
+<tr><td colspan="2">L1 (mg/km)</td><td colspan="2">L2 (mg/km)</td><td colspan="2">L3 (mg/km)</td><td colspan="2">L4 (mg/km)</td><td colspan="2">L2 + L4 (mg/km)</td><td colspan="2">L5 (mg/km)</td><td colspan="2">L6 (#/km)</td></tr>
+<tr><td>Category</td><td>Class</td><td>  </td><td>PI</td><td>CI</td><td>PI</td><td>CI</td><td>PI</td><td>CI</td><td>PI</td><td>CI</td><td>PI</td><td>CI</td><td>PI</td><td>CI</td><td>PI</td><td>CI</td></tr>
+<tr><td>M1</td><td>—</td><td>  </td><td>1 000 </td><td>500</td><td>100</td><td>—</td><td>68</td><td>—</td><td>60</td><td>80</td><td>—</td><td>170</td><td>4,5 </td><td>4,5 </td><td>6x1011</td><td>6x1011</td></tr>
+<tr><td rowspan="3">N1</td><td>I</td><td>MRO ≤ 1 280 </td><td>1 000 </td><td>500</td><td>100</td><td>—</td><td>68</td><td>—</td><td>60</td><td>80</td><td>—</td><td>170</td><td>4,5 </td><td>4,5 </td><td>6x1011</td><td>6x1011</td></tr>
+<tr><td>II</td><td>1 280 &lt; MRO ≤ 1735</td><td>1 810 </td><td>630</td><td>130</td><td>—</td><td>90</td><td>—</td><td>75</td><td>105</td><td>—</td><td>195</td><td>4,5 </td><td>4,5 </td><td>6x1011</td><td>6x1011</td></tr>
+<tr><td>III</td><td>1 735 &lt; MRO</td><td>2 270 </td><td>740</td><td>160</td><td>—</td><td>108</td><td>—</td><td>82</td><td>125</td><td>—</td><td>215</td><td>4,5 </td><td>4,5 </td><td>6x1011</td><td>6x1011</td></tr>
+<tr><td colspan="17">Note:  PI = positive ignition.  CI = compression ignition. </td></tr>
+</tbody>
+</table>
+
+**Table 2: Euro 7 exhaust emission limits for vehicles of categories M2, M3, N2 and N3 with internal combustion engine and internal combustion engines used in those vehicles**
+
+<table>
+<tbody><tr><td rowspan="2">Pollutant emissions</td><td>WHSC (CI) and WHTC (CI and PI)</td><td>Real Driving Emissions (RDE)</td></tr>
+<tr><td>per kWh</td><td>per kWh</td></tr>
+<tr><td>NOx in mg</td><td>200</td><td>260</td></tr>
+<tr><td>PM in mg</td><td>8</td><td>—</td></tr>
+<tr><td>PN10 in #</td><td>6x1011</td><td>9 x 1011</td></tr>
+<tr><td>CO in mg</td><td>1 500 </td><td>1 950 </td></tr>
+<tr><td>NMOG in mg</td><td>80</td><td>105</td></tr>
+<tr><td>NH3 in mg</td><td>60</td><td>85</td></tr>
+<tr><td>CH4 in mg</td><td>500</td><td>650</td></tr>
+<tr><td>N2O in mg</td><td>200</td><td>260</td></tr>
+<tr><td colspan="3">Note:  PI = positive ignition.  CI = compression ignition. </td></tr>
+</tbody>
+</table>
+
+**Table 3: Euro 7 evaporative emission limits for petrol-fuelled vehicles of categories M1 and N1**
+
+Mass of evaporative emission (g/test)
+
+1,5
+
+**Table 4: Euro 7 brake particle emission limits in standard driving cycle applying until 31 December 2029, by powertrain technology**
+
+<table>
+<tbody><tr><td>Emission limits in mg/km per vehicle</td><td colspan="5">Vehicles of categories M1 and N1, excluding N1, Class III (*1)</td></tr>
+<tr><td>Powertrain technology</td><td>PEV</td><td>OVC-HEV</td><td>NOVC-HEV</td><td>FCV/FCHV</td><td>ICEV</td></tr>
+<tr><td>Brake particle emissions (PM10)</td><td>3</td><td>7</td><td>7</td><td>7</td><td>7</td></tr>
+<tr><td colspan="6">(*1)  For N1, Class III vehicles, the applicable limits are as follows: PEV 5 mg/km; OVC-HEV, NOVC-HEV, FCV/FCHV and ICEV 11 mg/km. </td></tr>
+</tbody>
+</table>
+
+**Table 5: Euro 7 brake particle emission limits in standard driving cycle applying from 1 January 2030 following the review specifed in Article 18(5), by powertrain technology (vehicles of categories M1 and N1)**
+
+<table>
+<tbody><tr><td>Emission limits</td><td colspan="5">M1 and N1 vehicles</td></tr>
+<tr><td>Powertrain technology</td><td>PEV</td><td>OVC-HEV</td><td>NOVC-HEV</td><td>FCV/FCHV</td><td>ICEV</td></tr>
+<tr><td>Brake particle emissions (PM10)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Brake particle number emissions (PN)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 6: Euro 7 brake particle emission limits in standard driving cycle applying from 1 January 2030 following the review specifed in Article 18 (5), by powertrain technology (vehicles of categories M2 and N2)**
+
+<table>
+<tbody><tr><td>Emission limits</td><td colspan="5">Vehicles of categories M2 and N2</td></tr>
+<tr><td>Powertrain technology</td><td>PEV</td><td>OVC-HEV</td><td>NOVC-HEV</td><td>FCV/FCHV</td><td>ICEV</td></tr>
+<tr><td>Brake particle emissions (PM10)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Brake particle number emissions (PN)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 7: Euro 7 brake particle emission limits in standard driving cycle applying from 1 January 2030 until 31 December 2034 following the review specifed in Article 18(5), by powertrain technology (vehicles of categories M3 and N3)**
+
+<table>
+<tbody><tr><td>Emission limits</td><td colspan="5">Vehicles of categories M3 and N3</td></tr>
+<tr><td>Powertrain technology</td><td>PEV</td><td>OVC-HEV</td><td>NOVC-HEV</td><td>FCV/FCHV</td><td>ICEV</td></tr>
+<tr><td>Brake particle emissions (PM10)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Brake particle number emissions (PN)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 8: Euro 7 brake particle emission limits in standard driving cycle applying from 1 January 2035 for all powertrain technologies, by vehicle category**
+
+| Emission limits | Vehicles of categories M1 and N1 | Vehicles of categories M2 and M3 | Vehicles of categories N2 and N3 |
+| --- | --- | --- | --- |
+| Brake particle emissions (PM10) | 3 mg/km per vehicle |  |  |
+| Brake particle number emissions (PN) |  |  |  |
+
+**Table 9: Euro 7 tyre abrasion limits**
+
+| Tyre abrasion limits | C1 tyres | C2 tyres | C3 tyres |
+| --- | --- | --- | --- |
+| Normal tyres |  |  |  |
+| Snow tyres |  |  |  |
+| Special use tyres |  |  |  |
+
+## ANNEX II — EURO 7 MINIMUM PERFORMANCE REQUIREMENTS FOR BATTERY DURABILITY
+
+Table 1: Euro 7 Minimum performance requirements (MPR) for battery durability for vehicles of category M1
+
+| Battery energy based MPR | Start of life to 5 years or 100 000 km whichever comes first | Vehicles more than 5 years or 100 000 km, and up to whichever comes first of 8 years or 160 000 km | Vehicles up to additional lifetime (*2) |
+| --- | --- | --- | --- |
+| OVC-HEV | 80 % | 72 % |  |
+| PEV | 80 % | 72 % |  |
+
+| Range based MPR | Start of life to 5 years or 100 000 km whichever comes first | Vehicles more than 5 years or 100 000 km, and up to whichever comes first of 8 years or 160 000 km | Vehicles up to additional lifetime (*2) |
+| --- | --- | --- | --- |
+| OVC-HEV |  |  |  |
+| PEV |  |  |  |
+
+Table 2: Euro 7 Minimum performance requirements (MPR) for battery durability for vehicles of category N1
+
+| Battery energy based MPR | Start of life to 5 years or 100 000 km whichever comes first | Vehicles more than 5 years or 100 000 km, and up to whichever comes first of 8 years or 160 000 km | Vehicles up to additional lifetime (*3) |
+| --- | --- | --- | --- |
+| OVC-HEV | 75 % | 67 % |  |
+| PEV | 75 % | 67 % |  |
+
+| Range based MPR | Start of life to 5 years or 100 000 km whichever comes first | Vehicles more than 5 years or 100 000 km, and up to whichever comes first of 8 years or 160 000 km | Vehicles up to additional lifetime (*3) |
+| --- | --- | --- | --- |
+| OVC-HEV |  |  |  |
+| PEV |  |  |  |
+
+**Table 3: Euro 7 Minimum performance requirements (MPR) for battery durability for vehicles of categories M2, M3, N2 and N3**
+
+<table>
+<tbody><tr><td>Battery Energy based MPR</td><td>Vehicles in main lifetime (*1)</td><td>Vehicles in additional lifetime (*1)</td></tr>
+<tr><td>OVC-HEV</td><td>  </td><td>  </td></tr>
+<tr><td>PEV</td><td>  </td><td>  </td></tr>
+<tr><td colspan="3">(*1)  As specified in Annex IV. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III — TEST CONDITIONS
+
+**Table 1: Conditions for testing compliance of vehicles of categories M1 and N1 with exhaust emission limits with any market fuel and lubricant within the specifications issued by the manufacturer**
+
+<table>
+<tbody><tr><td>Laboratory exhaust emission measurement</td><td>Real Driving Emission (RDE) measurement</td></tr>
+<tr><td>For all exhaust emission tests conducted using the Worldwide Harmonized Light Vehicles Test Procedure (WLTP) chassis dynamometer test cycle, UN Regulation No 154 (*1) shall apply. The provisions in respect of Level 1A (4-phase WLTP) shall apply. </td><td>For RDE tests conducted on the road, UN Regulation No 168 (*2) shall apply, with emissions evaluation fulfilled with respect to the 4-phase WLTP.</td></tr>
+<tr><td colspan="2">(*1)  UN Regulation No 154 — Uniform provisions concerning the approval of light duty passenger and commercial vehicles with regards to criteria emissions, emissions of carbon dioxide and fuel consumption and/or the measurement of electric energy consumption and electric range (WLTP), 02 series of amendments.  (*2)  UN Regulation No 168, Original version. </td></tr>
+</tbody>
+</table>
+
+**Table 2: Conditions for testing compliance of vehicles of categories M2, M3, N2 and N3 with exhaust emission limits with any market fuel and lubricant within the specifications issued by the manufacturer**
+
+<table>
+<tbody><tr><td>Laboratory exhaust emission measurement</td><td>RDE measurement</td></tr>
+<tr><td>For all exhaust emission tests conducted using the WHTC/WHSC engine bench test cycles, Annex 4 to UN Regulation No 49 (*1).</td><td>Annex 8 of UN Regulation No 49 shall apply with the following adaptations: (i) point A.1.4.2.2.2.1. of Appendix 1 to Annex 8 to UN Regulation No 49 shall read as follows: ‘The valid windows are the windows whose average power exceeds the power threshold of 6 % of the maximum engine power’ (ii) in relation to the conformity factor (CF) in Table 2 of point 6.3 of Annex 8 to UN Regulation No 49 the value = 1,0 shall be used for all pollutants; the applicable limits shall be the RDE limits in Table 2 of Annex I to this Regulation. </td></tr>
+<tr><td colspan="2">(*1)  UN Regulation No 49, 07 series of amendments. </td></tr>
+</tbody>
+</table>
+
+**Table 3: Conditions for testing compliance with evaporative emission limits**
+
+<table>
+<tbody><tr><td>  </td><td>Testing conditions</td></tr>
+<tr><td>Evaporative emission SHED (*1) test</td><td>UN Regulation No 154, Level 1A (4-phase WLTP) shall apply (*2).</td></tr>
+<tr><td colspan="2">(*1)  SHED: Sealed housing for evaporative determination.  (*2)  UN Regulation No 154, 02 series of amendments. </td></tr>
+</tbody>
+</table>
+
+**Table 4: Conditions for testing compliance with brake particle emission limits**
+
+<table>
+<tbody><tr><td>  </td><td>Vehicles of categories M1 and N1</td><td>Vehicles of categories M2, M3, N2 and N3</td></tr>
+<tr><td>Brake particle emissions test</td><td>Testing in accordance with UN Regulation No 179 on the Laboratory Measurement of Brake Emissions for Light-Duty Vehicles (*1)</td><td>  </td></tr>
+<tr><td colspan="3">(*1)  UN Regulation No 179 – Uniform provisions concerning the approval of light duty vehicles with regards to the laboratory measurement of brake emissions [2026/1044] (OJ L, 2026/1044, 18.5.2026, ELI: http://data.europa.eu/eli/reg/2026/1044/oj). </td></tr>
+</tbody>
+</table>
+
+**Table 5: Conditions for testing compliance with tyre abrasion limits**
+
+|  | C1 class tyres | C2 class tyres | C3 class tyres |
+| --- | --- | --- | --- |
+| Tyre abrasion limits test | Based on the testing methodologies developed in UN WP.29 for testing tyre abrasion in real world | Based on the testing methodologies developed in UN WP.29 for testing tyre abrasion in real world | Based on the testing methodologies developed in UN WP.29 for testing tyre abrasion in real world |
+
+## ANNEX IV — LIFETIME REQUIREMENTS
+
+**Table 1: Lifetime of vehicles, engines and pollution control systems**
+
+<table>
+<tbody><tr><td>Lifetime of vehicles, engines and replacement pollution control devices</td><td>M1, N1 and M2</td><td>N2, N3≤16 t (*1), M3≤7,5 t (*1)</td><td>N3&gt;16 t (*1), M3&gt;7,5 t (*1)</td></tr>
+<tr><td>Main lifetime</td><td>Up to 160 000 km or 8 years, whichever comes first</td><td>300 000 km or 8 years, whichever comes first</td><td>700 000 km or 12 years, whichever comes first</td></tr>
+<tr><td>Additional lifetime</td><td>After main lifetime and up to 200 000 km or 10 years, whichever comes first</td><td>After main lifetime and up to 375 000 km or 10 years, whichever comes first</td><td>After main lifetime and up to 875 000 km or 15 years, whichever comes first</td></tr>
+<tr><td colspan="4">(*1)  Maximum mass. </td></tr>
+</tbody>
+</table>
+
+**Table 2: Applicable durability multipliers for adjusting exhaust emission limits under Annex 1 when testing vehicles, engines and replacement pollution control devices during additional lifetime**
+
+<table>
+<tbody><tr><td>Durability multipliers</td><td>M1, N1 and M2</td><td>N2, N3 ≤ 16 t (), M3 ≤ 7,5 t ()</td><td>N3 &gt; 16 t (), M3 &gt; 7,5 t ()</td></tr>
+<tr><td>Durability multiplier for additional lifetime</td><td>1,2 for gaseous pollutants</td><td>1,2 for gaseous pollutants</td><td>1,2 for gaseous pollutants</td></tr>
+<tr><td colspan="4">(1)  Maximum mass. </td></tr>
+</tbody>
+</table>
+
+## ANNEX V — APPLICATION OF TEST REQUIREMENTS AND DECLARATIONS
+
+**Table 1: Application of test requirements and declarations for vehicles of categories M1 and N1 for manufacturers**
+
+<table>
+<tbody><tr><td>Test requirements</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td>Tests at in-service conformity</td></tr>
+<tr><td>Gaseous pollutants and PN in road testing (RDE)</td><td>Required demonstration test for all fuels for which the type-approval is granted and declaration of compliance for all fuels, all payloads and all applicable vehicle types</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>Gaseous pollutants, PM, PN, CO2 emissions, fuel consumption (OBFCM), electric energy consumption and electric range (battery durability) (WLTP at 23 oC)</td><td>Required test for all fuels for which the type-approval is granted</td><td>Required for exhaust emissions and OBFCM</td><td>Required for exhaust emissions, OBFCM and SOH monitors of battery durability</td></tr>
+<tr><td>CO2 ambient temperature correction (WLTP at 14 oC) </td><td>Declaration (*1)</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>Crankcase emissions</td><td>Declaration that a closed crankcase system or routing to the tailpipe is installed (*1)</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Evaporative emissions test</td><td>Required</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Durability of emission control systems</td><td>Declaration</td><td>Not required</td><td>Not required</td></tr>
+<tr><td>Correct operation of systems using a consumable reagent and pollution control systems</td><td>Declaration</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>Battery durability</td><td>Declaration</td><td>Not required</td><td>Required</td></tr>
+<tr><td>Laboratory test of low temperature for emissions</td><td>Required</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>Laboratory test of low temperature for electric range</td><td>Required</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>On-board diagnostics</td><td>Declaration</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>On-board monitoring</td><td>Declaration and demonstration</td><td>Not required</td><td>Required</td></tr>
+<tr><td>Power determination</td><td>Required</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>Anti-tampering, security and cybersecurity</td><td>Declaration and documentation</td><td>Not required</td><td>Not required</td></tr>
+<tr><td>Geofencing technologies (where applicable)</td><td>Declaration and demonstration</td><td>Not required</td><td>Not required</td></tr>
+<tr><td colspan="4">(*1)  The approval authority may require a test to be performed. </td></tr>
+</tbody>
+</table>
+
+**Table 2: Application of test requirements and declarations for vehicles of categories M1 and N1 for Member States, Commission and recognised third parties**
+
+<table>
+<tbody><tr><td>Test requirements</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td colspan="2">Tests at in-service conformity</td><td colspan="2">Tests at market surveillance</td></tr>
+<tr><td>Relevant actor</td><td>Granting type-approval authority</td><td>Granting type-approval authority</td><td>Granting type-approval authority</td><td>Commission and recognised third parties</td><td>Market surveillance authorities</td><td>Commission and recognised third parties</td></tr>
+<tr><td>Gaseous pollutants and PN in road testing (RDE)</td><td>Required demonstration test for all fuels for which the type-approval is granted and declaration of compliance for all fuels, all payloads and all applicable vehicle types</td><td>Not required</td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Gaseous pollutants, PM, PN, CO2 emissions, fuel consumption (OBFCM), electric energy consumption and electric range (battery durability) (WLTP at 23 oC)</td><td>Required test for all fuels for which the type- approval is granted</td><td>Audits or optional testing</td><td>Required</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>CO2 ambient temperature correction (WLTP at 14 oC)</td><td>Declaration (*1)</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Crankcase emissions</td><td>Declaration that a closed crankcase system or routing to the tailpipe is installed (*1)</td><td>Audits or optional testing</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>Evaporative emissions test</td><td>Required</td><td>Audits or optional testing</td><td>Optional</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Durability of emission control systems</td><td>Declaration</td><td>Not required</td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Operation of systems using a consumable reagent and pollution control systems</td><td>Not required</td><td>Not required</td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Battery durability</td><td>Declaration</td><td>Not required</td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Laboratory test of low temperature for emissions</td><td>Required</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Laboratory test of low temperature for electric range</td><td>Required</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>On-board diagnostics</td><td>Declaration</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>On-board monitoring</td><td>Declaration and demonstration</td><td>Not required</td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Power determination</td><td>Required</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>Anti-tampering, security and cybersecurity</td><td>Declaration and documentation</td><td>Not required</td><td>Not required</td><td>Not required</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Geofencing technologies (where applicable)</td><td>Declaration and demonstration</td><td>Not required</td><td>Not required</td><td>Not required</td><td>Required</td><td>Optional</td></tr>
+<tr><td colspan="7">(*1)  The approval authority may require a test to be performed. </td></tr>
+</tbody>
+</table>
+
+**Table 3: Application of tests requirements, declarations and other requirements for type-approval and extensions to type-approval for vehicles of categories M2, M3, N2 and N3 for manufacturers**
+
+<table>
+<tbody><tr><td>Test requirements</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td>Tests at in-service conformity</td></tr>
+<tr><td>Gaseous pollutants, PM, PN and CO2 emissions, fuel consumption (WHTC and WHSC)</td><td>Required on the parent engine of the emission family and declaration for all family members (*1); (*2)</td><td>Required on an engine out of the family (*3)</td><td>Not required</td></tr>
+<tr><td>Gaseous pollutants, PN in road testing (RDE) for each fuel and for the applicable vehicle categories (M2, M3, N2 and N3)</td><td>Required demonstration tests for all fuels for which the type-approval is granted per vehicle type and a declaration of compliance for all fuels, all payloads and all applicable vehicle categories (*2)</td><td>Not required</td><td>Required test on a vehicle with any fuel and on any vehicle category and any payload for all engine types every two years (*3)</td></tr>
+<tr><td>CO2,emissions, fuel and electric energy consumption, zero-emissions and electric range determination of a vehicle</td><td>Licence to operate the VECTO simulation tool, components certification.</td><td>For components. VECTO usage check (four times a year)</td><td>Required</td></tr>
+<tr><td>Verification testing procedure</td><td>Not required</td><td>Required</td><td>Not required</td></tr>
+<tr><td>Crankcase emissions</td><td>Check installation of closed crankcase system or routing to the tailpipe (*2)</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>Durability of emission control systems</td><td>Declaration (*2)</td><td>Not required</td><td>Not required</td></tr>
+<tr><td>Operation of systems using a consumable reagent and pollution control systems</td><td>Declaration (*2)</td><td>Not required</td><td>Optional (*3)</td></tr>
+<tr><td>Battery durability</td><td>Declaration</td><td>Not required</td><td>Required</td></tr>
+<tr><td>Power determination</td><td>Required (*2)</td><td>Not required</td><td>Not required</td></tr>
+<tr><td>On-board diagnostics (OBD family level)</td><td>Declaration</td><td>Not required</td><td>Optional</td></tr>
+<tr><td>On-board monitoring (OBM family level)</td><td>Declaration and demonstration</td><td>Not required</td><td>Required</td></tr>
+<tr><td>OBFCM (on-board measurement of fuel and electric energy consumption, as well as payload)</td><td>Required</td><td>Required</td><td>Required</td></tr>
+<tr><td>Anti-tampering, security and cybersecurity</td><td>Declaration and documentation</td><td>Not required</td><td>Not required</td></tr>
+<tr><td>Geofencing technologies (where applicable)</td><td>Declaration and demonstration</td><td>Not required</td><td>Not required</td></tr>
+<tr><td colspan="4">(*1)  Supported by data of engine testing of all power ratings.  (*2)  In the case of a vehicle with an emission type-approved engine system, the engine manufacturer is responsible for demonstrating compliance of the vehicle in this test (the engine is type-approved as a separate technical unit).  (*3)  In the case of a vehicle with an emission type-approved engine system, the engine manufacturer is responsible for demonstrating compliance of the vehicle in this test when agreed with the vehicle manufacturer in accordance with Article 9. </td></tr>
+</tbody>
+</table>
+
+**Table 4: Application of test requirements and declarations for type-approval and extensions to type-approval for vehicles of categories M2, M3, N2 and N3 for Member States, Commission and recognised third parties**
+
+<table>
+<tbody><tr><td>Test requirements</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td colspan="2">Tests at in-service conformity</td><td colspan="2">Tests at market surveillance</td></tr>
+<tr><td>Relevant actor</td><td>Granting type- approval authority</td><td>Granting type-approval authority</td><td>Granting type-approval authority</td><td>Commission and recognised third parties</td><td>Market surveillance authorities</td><td>Commission and recognised third parties</td></tr>
+<tr><td>Gaseous pollutants and PN in road testing (RDE) for each fuel and for the applicable vehicle categories (M2, M3, N2 and N3)</td><td>Required demonstration tests for all fuels for which the type-approval is granted per vehicle type and a declaration of compliance for all fuels, all payloads and all applicable vehicle categories (*2)</td><td>(See engine requirements)</td><td>Required yearly for an adequate number of vehicle types on any fuel and on any vehicle category covered by the emission type-approval (*3)</td><td>Optional</td><td>Required/Optional</td><td>Optional</td></tr>
+<tr><td>Gaseous pollutants, PM, PN and CO2 emissions, fuel consumption (WHTC and WHSC)</td><td>Required on the parent engine of the engine family and declaration for all family members (*1); (*2)</td><td>Required on an engine of the engine family (*2)</td><td>Not required</td><td>Not required</td><td>Not required</td><td>Not required</td></tr>
+<tr><td>CO2 emissions, fuel and electric energy consumption, zero-emissions and electric range determination of a vehicle</td><td>Issue licence to operate the VECTO simulation tool; issue component certificates</td><td>For components</td><td>Not required</td><td>Not required</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>Verification testing procedure</td><td>Not required</td><td>Required</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>Crankcase emissions</td><td>Check installation of closed crankcase system or routing to the tailpipe</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>Durability of emission control systems</td><td>Declaration</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Operation of systems using a consumable reagent and pollution control systems</td><td>Not required</td><td>Not required</td><td>Required</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Battery durability</td><td>Declaration</td><td>Not required</td><td>Required</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>Power determination</td><td>Required (*2)</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>On-board diagnostics (OBD family level)</td><td>Declaration</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+<tr><td>On-board monitoring (OBM family level)</td><td>Declaration and demonstration</td><td>Not required</td><td>Required</td><td>Not required</td><td>Required</td><td>Optional</td></tr>
+<tr><td>OBFCM (on-board measurement of fuel and electric energy consumption, as well as payload)</td><td>Required</td><td>Required</td><td>Required</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>Anti-tampering, security and cybersecurity</td><td>Declaration and documentation (*2)</td><td>Not required</td><td>Not required</td><td>Not required</td><td>Required</td><td>Optional</td></tr>
+<tr><td>Geofencing technologies (where applicable)</td><td>Declaration and demonstration</td><td>Not required</td><td>Not required</td><td>Not required</td><td>Required</td><td>Optional</td></tr>
+<tr><td colspan="7">(*1)  Supported by data of engine testing of all power ratings.  (*2)  In the case of a vehicle with an emission type-approved engine system, the engine manufacturer is responsible for demonstrating compliance of the vehicle in this test (the engine is type-approved as a separate technical unit).  (*3)  In the case of a vehicle with an emissions type-approved engine system, the engine manufacturer is responsible for demonstrating compliance of the vehicle in this test when agreed with the vehicle manufacturer in accordance with Article 9. </td></tr>
+</tbody>
+</table>
+
+**Table 5: Application of test requirements, declarations and other requirements for type-approval and extensions to type-approval for trailers of categories O3 and O4 for manufacturers**
+
+| Test requirements | Tests and requirements for emission type-approval | Tests at conformity of production | Tests at in-service conformity |
+| --- | --- | --- | --- |
+| Energy efficiency of trailers | Issue licence to operate the VECTO simulation tool; issue component certificates | For components | Optional |
+
+**Table 6: Application of test requirements and declarations for type-approval and extensions to type-approval for trailers of categories O3 and O4 for Member States, Commission and recognised third parties**
+
+<table>
+<tbody><tr><td>Test requirements</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td colspan="2">Tests at in-service conformity</td><td colspan="2">Tests at market surveillance</td></tr>
+<tr><td>Energy efficiency of trailers</td><td>Issue licence to operate the VECTO simulation tool; issue component certificates</td><td>For components</td><td>Not required</td><td>Not required</td><td>Optional</td><td>Optional</td></tr>
+</tbody>
+</table>
+
+**Table 7: Application of test requirements and declarations for type-approval and extensions to type-approval of engines intended for vehicles of categories M2, M3, N2 and N3 for manufacturers**
+
+<table>
+<tbody><tr><td>Test requirements for each fuel</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td>Tests at in-service conformity</td></tr>
+<tr><td>Gaseous pollutants, PM, PN and CO2 emissions and fuel consumption (WHTC and WHSC)</td><td>Required on the parent engine of the engine family and declaration for all family members (*2)</td><td>Required on an engine of the engine family</td><td rowspan="10">Performed only with the complete vehicle as in Tables 3 and 4</td></tr>
+<tr><td>Gaseous pollutants, PN in road testing (RDE) for each type of fuel and for the applicable vehicle categories (M2, M3, N2 and N3)</td><td>Required demonstration tests for all fuels for which the type-approval is granted per vehicle type and a declaration of compliance for all fuels, all payloads and all applicable vehicle categories</td><td>Not required</td></tr>
+<tr><td>Engine tests for verifying data required for CO2 emissions determination</td><td>Required</td><td>Required</td></tr>
+<tr><td>Continuous/periodic regeneration</td><td>Declaration</td><td>Not required</td></tr>
+<tr><td>Crankcase emissions</td><td>Check installation of closed crankcase system or routing to the tailpipe</td><td>Not required</td></tr>
+<tr><td>Durability of emission control systems</td><td>Declaration</td><td>Not required</td></tr>
+<tr><td>Power determination</td><td>Required</td><td>Not required</td></tr>
+<tr><td>On-board diagnostics (OBD family level)</td><td>Declaration</td><td>Not required</td></tr>
+<tr><td>On-board monitoring (OBM family level)</td><td>Performed only with the complete vehicle as in Tables 3 and 4</td><td>Not required</td></tr>
+<tr><td>Anti-tampering, security and cybersecurity</td><td>Declaration and documentation (*1)</td><td>Not required</td></tr>
+<tr><td colspan="4">(*1)  Only if the engine manufacturer provides those systems together with the engine.  (*2)  Supported by data of engine testing of all power ratings. </td></tr>
+</tbody>
+</table>
+
+**Table 8: Application of test requirements and declarations for type-approval and extensions to type-approvals of engines intended for vehicles of categories M2, M3, N2 and N3 for Member States, Commission and recognised third parties**
+
+<table>
+<tbody><tr><td>Test requirements for each fuel</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td>Tests at in-service conformity</td><td>Tests at market surveillance</td></tr>
+<tr><td>Relevant actor</td><td>Granting type-approval authority</td><td>Granting type-approval authority</td><td>—</td><td>—</td></tr>
+<tr><td>Gaseous pollutants, PM, PN and CO2 emissions and fuel consumption (WHTC and WHSC)</td><td>Required on the parent engine and a declaration for all engine family members (*2)</td><td>Audit or optional testing</td><td rowspan="10">Performed only with the complete vehicle as in Tables 3 and 4</td><td rowspan="10">Performed only with the complete vehicle as in Tables 3 and 4</td></tr>
+<tr><td>Gaseous pollutants, PN in road testing (RDE) for each type of fuel and for the applicable vehicle categories (M2, M3, N2 and N3)</td><td>Required demonstration tests for all fuels for which the type-approval is granted per vehicle type and a declaration of compliance for all fuels, all payloads and all applicable vehicle categories</td><td>Not required</td></tr>
+<tr><td>Engine tests for verifying data required for CO2 determination</td><td>Required</td><td>Required</td></tr>
+<tr><td>Continuous/periodic regeneration</td><td>Declaration</td><td>Not required</td></tr>
+<tr><td>Crankcase emissions</td><td>Check installation of closed crankcase system or routing to the tailpipe</td><td>Not required</td></tr>
+<tr><td>Durability of emission control systems</td><td>Declaration</td><td>Not required</td></tr>
+<tr><td>Power determination</td><td>Required</td><td>Not required</td></tr>
+<tr><td>On-board diagnostics (OBD family level)</td><td>Declaration</td><td>Not required</td></tr>
+<tr><td>On-board monitoring (OBM family level)</td><td colspan="2">Performed only with the complete vehicle as in Tables 3 and 4</td></tr>
+<tr><td>Engine power</td><td>Required</td><td>Not required</td></tr>
+<tr><td>Anti-tampering, security and cybersecurity</td><td>Declaration and documentation (*1)</td><td>Not required</td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(*1)  Only if the engine manufacturer provides those systems together with the engine.  (*2)  Supported by data of engine testing of all power ratings. </td></tr>
+</tbody>
+</table>
+
+**Table 9: Application of test requirements and declarations for type-approval of pollution control systems for manufacturers**
+
+| Test requirements | Tests and requirements for emission type-approval | Tests at conformity of production | Tests at in-service conformity |
+| --- | --- | --- | --- |
+| Demonstration of performance and durability with aged parts | Required/Declaration | Not required | Optional |
+| Durability requirement check in real world (RDE test with aged vehicles) | Declaration | Not required | Optional |
+
+**Table 10: Application of test requirements and declarations for type-approval of pollution control systems for Member States, Commission and recognised third parties**
+
+<table>
+<tbody><tr><td>Test requirements</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td colspan="2">Tests at in-service conformity</td><td colspan="2">Tests at market surveillance</td></tr>
+<tr><td>Relevant actor</td><td>Granting type-approval authority</td><td>Granting type-approval authority</td><td>Granting type-approval authority</td><td>Commission and recognised third parties</td><td>Market surveillance authorities</td><td>Commission and recognised third parties</td></tr>
+<tr><td>Demonstration of performance and durability with aged parts</td><td>Required</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Optional</td><td>Optional</td></tr>
+<tr><td>Durability requirement check in real world (RDE test with aged vehicles)</td><td>Declaration</td><td>Not required</td><td>Optional</td><td>Optional</td><td>Required</td><td>Optional</td></tr>
+</tbody>
+</table>
+
+**Table 11: Application of test requirements for type-approval of brake systems for manufacturers**
+
+| Test requirements | Tests and requirements for emission type-approval | Tests at conformity of production | Tests at in-service conformity |
+| --- | --- | --- | --- |
+| Brake system emissions test in WLTP brake cycle | Required | Required | Not required |
+
+**Table 12: Application of test requirements for type-approval of brake systems for Member States, Commission and recognised third parties**
+
+<table>
+<tbody><tr><td>Test requirements</td><td>Tests and requirements for emission type-approval</td><td>Tests at conformity of production</td><td colspan="2">Tests at in-service conformity</td><td colspan="2">Tests at market surveillance</td></tr>
+<tr><td>Relevant actor</td><td>Granting type-approval authority</td><td>Granting type-approval authority</td><td>Granting type-approval authority</td><td>Commission and recognised third parties</td><td>Market surveillance authorities</td><td>Commission and recognised third parties</td></tr>
+<tr><td>Brake system emissions test in WLTP brake cycle</td><td>Required</td><td>Audit or optional testing</td><td>Not required</td><td>Optional for verifying the share of friction braking</td><td>Optional for verifying the share of friction braking</td><td>Optional for verifying the share of friction braking</td></tr>
+</tbody>
+</table>
+
+## ANNEX VI — CORRELATION TABLE
+
+**1\. Regulation (EC) No 715/2007**
+
+| Regulation (EC) No 715/2007 | This Regulation |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(2) |
+| Article 2(1) | Article 2(1) |
+| Article 2(2) | Article 5(2) |
+| Article 3 | Article 3 |
+| Article 4(1), first subparagraph | Article 4(1) |
+| Article 4(1), second subparagraph | Article 4(2) |
+| Article 4(2) | Article 7(1) |
+| Article 4(3) | Article 7(4) |
+| Article 4(4) | Article 14(3) and (4) |
+| Article 5(1) | Article 4(2) |
+| Article 5(2) | Article 4(5) |
+| Article 5(3) | Article 14 |
+| Article 10 | Article 10 |
+| Article 11 | Article 11 |
+| Article 12 | — |
+| Article 13 | Article 19 |
+| Article 14 | — |
+| Article 15 | Article 17 |
+| Article 16 | — |
+| Article 17 | Article 20 |
+| Article 18 | Article 21 |
+| Annex I | Annex I |
+| Annex II | — |
+
+**2\. Regulation (EC) No 595/2009**
+
+| Regulation (EC) No 595/2009 | This Regulation |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2, first subparagraph | Article 2 |
+| Article 2, second subparagraph | — |
+| Article 2, third subparagraph | — |
+| Article 2, fourth subpagraph | — |
+| Article 3 | Article 3 |
+| Article 4(1) | Article 4(1) |
+| Article 4(2) | Article 7(1) |
+| Article 4(3) | Article 14 |
+| Article 5(1) | Article 4(2) |
+| Article 5(2) | Article 4(4) |
+| Article 5(3) | Article 4(5) |
+| Article 5(4) | Article 14 |
+| Article 5a | Article 4(6) |
+| Article 5b | Article 10(6) and (7) |
+| Article 5c(a) | Article 14(4)(d) |
+| Article 5c(b) | Article 14(4)(j) |
+| Article 5c (c) | Article 14(4)(b) |
+| Article 7 | Article 12 |
+| Article 8 | Article 10(6) and Article 10(7) |
+| Article 9 | Article 11 |
+| Article 10 | — |
+| Article 11 | Article 19 |
+| Article 12 | — |
+| Article 13 | Article 17 |
+| Article 13a | Article 17 |
+| Article 14 | — |
+| Article 15 | — |
+| Article 16 | — |
+| Article 17 | Article 20 |
+| Article 18 | Article 21 |
+| Annex I | Annex I |
+| Annex II | — |
+
+( ) Regulation No 117 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the approval of tyres with regard to rolling sound emissions and to adhesion on wet surfaces and/or to rolling resistance.
+
+( ) Regulation No 49 of the Economic Commission for Europe of the United Nations (UN/ECE) — Uniform provisions concerning the measures to be taken against the emission of gaseous and particulate pollutants from compression-ignition engines and positive ignition engines for use in vehicles.
+
+( ) UN Regulation No 168 — Uniform provisions concerning the approval of light duty passenger and commercial vehicles with regards to real driving emissions (RDE).
+
+( ) Directive 2014/45/EU of the European Parliament and of the Council of 3 April 2014 on periodic roadworthiness tests for motor vehicles and their trailers and repealing Directive 2009/40/EC (OJ L 127, 29.4.2014, p. 51).
+
+( ) Directive 2014/47/EU of the European Parliament and of the Council of 3 April 2014 on the technical roadside inspection of the roadworthiness of commercial vehicles circulating in the Union and repealing Directive 2000/30/EC (OJ L 127, 29.4.2014, p. 134).
+
+( ) UN Regulation No 155 — Uniform provisions concerning the approval of vehicles with regards to cybersecurity and cybersecurity management system.
+
+( *1 ) As specified in Annex IV.
+
+( *2 ) As specified in Annex IV.

@@ -1,0 +1,189 @@
+---
+title: "Commission Implementing Regulation (EU) 2015/378 of 2 March 2015 laying down rules for the application of Regulation (EU) No 514/2014 of the European Parliament and of the Council with regard to the implementation of the annual clearance of accounts procedure and the implementation of the conformity clearance"
+identifier: "32015R0378"
+eli: "http://data.europa.eu/eli/reg_impl/2015/378/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2015-03-02
+entry_into_force: 2015-11-15
+last_amended: 2017-04-26
+consolidated_version: "02015R0378-20170426"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R0378-20170426"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2015/378 of 2 March 2015 laying down rules for the application of Regulation (EU) No 514/2014 of the European Parliament and of the Council with regard to the implementation of the annual clearance of accounts procedure and the implementation of the conformity clearance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2015/378**
+
+**of 2 March 2015**
+
+**laying down rules for the application of Regulation (EU) No 514/2014 of the European Parliament and of the Council with regard to the implementation of the annual clearance of accounts procedure and the implementation of the conformity clearance**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/646 of 5 April 2017 </td><td> L 92</td><td>36</td><td>6.4.2017</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2015/378**
+
+**of 2 March 2015**
+
+**laying down rules for the application of Regulation (EU) No 514/2014 of the European Parliament and of the Council with regard to the implementation of the annual clearance of accounts procedure and the implementation of the conformity clearance**
+
+## Article 1 — Annual clearance of accounts
+
+1\. The Commission shall assess the eligibility of each project reported in the request for the payment of the annual balance referred to in Article 1 of Commission Implementing Regulation (EU) 2015/377 ( 1 ) in relation to the objectives of the Specific Regulations defined in Regulation (EU) No 514/2014 and those of the national programme approved in accordance with Article 14 of Regulation (EU) No 514/2014.
+
+When deciding on the payment of the annual balance, the Commission shall also take into consideration the information provided in:
+
+(a) the annual implementation report referred to in Article 54 of Regulation (EU) No 514/2014;
+
+(b) the request for payment of the annual balance in Article 1 of Implementing Regulation (EU) 2015/377.
+
+2\. The Commission shall clear all amounts declared in the accounts where there is no doubt on the completeness, accuracy and veracity in the accounts submitted
+
+3\. The Commission may require further information because of incomplete or unclear information provided, disagreements, differences of interpretation or any other inconsistency relating to a request for payment.
+
+4\. The Member State concerned shall, upon request by the Commission, provide additional information by the deadline set in that request. In justified cases, on request by the Member State before the expiry of the deadline, the Commission may accept a request for late submission of information and set a new deadline.
+
+Where the Member State concerned fails to provide the additional information by the deadline or if the response is unsatisfactory the Commission may proceed with the clearance decision on the basis of the information in its possession.
+
+5\. The Commission shall inform the Member State of its decision on the payment of the annual balance, including the reasons for any accounts or amounts in the accounts not paid.
+
+Where accounts or amounts in the accounts are not paid by the Commission, the Member State may submit additional information for the accounts or amounts to be reconsidered in subsequent financial years.
+
+6\. Where the amount accepted by the Commission in the decision on the clearance of annual accounts for financial year N is lower than the annual pre-financing amount for financial year N, the latter amount shall be cleared against the former. Any outstanding pre-financing amount shall be cleared in the course of subsequent clearance exercises.
+
+The first subparagraph shall apply also in cases where a Member State submits annual accounts reporting zero payment.
+
+8\. Paragraphs 1 to 5 of this Article shall apply, mutatis mutandis, to amounts recovered.
+
+## Article 2 — Conformity clearance and financial corrections by the Commission
+
+1\. When the Commission considers that expenditure was not in compliance with Union and national rules, it shall notify its findings to the Member State concerned, specifying the corrective measures needed in order to ensure future compliance, and indicating the level of financial correction it considers to correspond to its findings.
+
+That notification shall be made in accordance with Article 47(5) of Regulation (EU) No 514/2014 and make a reference to this Article.
+
+2\. The Member State shall reply within two months of receipt of the notification. In its reply the Member State shall have the opportunity, in particular, to:
+
+(a) demonstrate to the Commission that the project(s) is(are) eligible;
+
+(b) demonstrate to the Commission that the extent of the non-compliance or the risk for the Union contribution to the national programme is less than what was indicated by the Commission;
+
+(c) inform the Commission of the corrective measures it has undertaken to ensure compliance with Union and national rules and the effective date of their implementation; and
+
+(d) inform the Commission whether a bilateral meeting would be considered useful.
+
+In justified cases, the Commission may, upon reasoned request of the Member State, authorise an extension of the two month-period by a maximum of two months. The request shall be addressed to the Commission before the expiry of the initial two months.
+
+3\. The Commission shall formally communicate its findings to the Member State on the basis of the information received in the framework of the conformity clearance procedure.
+
+4\. After having communicated its findings to the Member State, the Commission shall adopt, where appropriate, one or more decisions under Article 47 of Regulation (EU) No 514/2014 in order to exclude from Union financing any expenditure affected by the non-compliance with Union rules.
+
+The Commission may pursue consecutive conformity clearance procedures until the Member State has implemented the corrective measures.
+
+## Article 3 — Decision not to start or pursue a conformity clearance procedure
+
+The Commission may decide not to start or pursue a conformity clearance procedure in accordance with Article 47 of Regulation (EU) No 514/2014 where it expects that the possible financial correction, for the non-compliance identified, would not exceed EUR 50 000 and 2 % of the specific expenditure deemed non-complaint.
+
+## Article 3a — Criteria for determining deficiencies in the effective functioning of the management and control system
+
+1\. The Commission shall base its assessment of the effective functioning of the management and control system on the results of all available audits carried out by the Member States, the Commission services and the Court of Auditors, the results of investigations carried out by European Anti-Fraud Office or any other information on compliance with the designation criteria referred to in Article 2(1) of Commission Delegated Regulation (EU) No 1042/2014 ( 2 ).
+
+The Commission's assessment shall cover the internal control environment of the national programme, the management and control activities of the Responsible Authority, and the control and audit activities of the Audit Authority and shall be based on verification of compliance with the key requirements set out in Table 1 of the Annex.
+
+2\. Compliance with the key requirements referred to in paragraph 1 according to the categories set out in Table 2 of the Annex shall be used to assess the effective functioning of each competent authority and to reach an overall conclusion on the management and control system. Any mitigating or aggravating factors shall be taken into account in the overall conclusion on the management and control system.
+
+3\. Wherever it is assessed that any of the key requirements 2, 4, 5, 8, 11, 12 or 14 in Table 1 of the Annex, or two or more of the other key requirements in that Table fall into categories 3 or 4 set out in Table 2 of the Annex, it shall be considered as a type of serious deficiency in the effective functioning of the management and control system.
+
+## Article 3b — Criteria for applying and determining the level of financial corrections
+
+1\. The Commission shall apply financial corrections where it identifies one or more individual or systemic irregularities or one or more deficiencies in the effective functioning of the management and control system (‘system deficiencies’).
+
+For the purpose of this Regulation, an irregularity means any infringement of Union or national law or any infringement of national rules resulting from an act or omission by a beneficiary or beneficiaries which has, or would have, the effect of prejudicing the general budget of the European Union by charging to it an unjustified item of expenditure.
+
+The amount of the financial correction shall be determined on a case-by-case basis wherever possible and shall be equal to the exact amount of expenditure wrongly charged to the general budget of the Union.
+
+Where the Commission identifies irregularities in a representative sample of expenditure in all or part of a national programme, but it is not cost-effective to verify the regularity of the other expenditure, the correction may be determined by extrapolating the results of the examination of the sample to the rest of the population from which it was drawn.
+
+Where the Commission identifies systemic irregularities or system deficiencies but where it is not possible, even by extrapolation, to quantify the correction precisely, a flat-rate financial correction shall be applied to the expenditure declared for the part of the system affected in accordance with the indicative criteria and scales set out in paragraphs 2 and 3.
+
+Flat-rate corrections may also be applied in respect of individual irregularities.
+
+2\. The level of flat-rate correction shall be determined taking into account the following factors:
+
+(a) the degree of seriousness of the irregularity or of the system deficiency in relation to the overall system or part of it, or to the types of expenditure declared;
+
+(b) the degree of risk of loss to which the Union budget was exposed as a result of the irregularity or system deficiency;
+
+(c) the vulnerability of the expenditure to fraud due to the irregularity or system deficiency;
+
+(d) any mitigating or aggravating factors.
+
+3\. The level of correction shall be determined as follows:
+
+(a) where the irregularity or irregularities or the system deficiency or deficiencies is/are so fundamental, frequent or widespread that it/they represent(s) a complete failure of the system that puts at risk the legality and regularity of all the expenditure concerned, a flat rate of 100 % shall be applied;
+
+(b) where the irregularity or irregularities or the system deficiency or deficiencies is/are so frequent and widespread that it/they represent(s) an extremely serious failure of the system that puts at risk the legality and regularity of a very high proportion of the expenditure concerned, a flat rate of 25 % shall be applied;
+
+(c) where the irregularity or irregularities or the system deficiency or deficiencies is/are due to the system functioning partially, poorly or infrequently so as to put at risk the legality and regularity of a high proportion of the expenditure concerned, a flat rate of 10 % shall be applied;
+
+(d) where the irregularity or irregularities or the system deficiency or deficiencies is/are due to the system functioning inconsistently so as to put at risk the legality and regularity of a significant proportion of the expenditure concerned, a flat rate of 5 % shall be applied.
+
+In accordance with the principle of proportionality, the rate may be reduced to 2 % where the nature and gravity of the irregularity or system deficiency are not considered to justify a 5 % correction rate.
+
+4\. Where, due to a competent authority's failure to take adequate corrective measures following the application of a financial correction in a financial year, the same irregularity or irregularities or deficiency or deficiencies is/are identified in a subsequent financial year, the rate of flat rate correction may, due to the persistence of the irregularity or irregularities or deficiency or deficiencies, be raised to a level not exceeding the next level in the scale set out in paragraph 3.
+
+## Article 4 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX
+
+**Key requirements of the management and control systems and their classification with regard to their effective functioning**
+
+**(referred to in Article 3a of Implementing Regulation (EU) 2015/378)**
+
+**Table 1**
+
+**Key requirements**
+
+|  | Key requirements of the management and control systems | Bodies/authorities concerned | Scope |
+| --- | --- | --- | --- |
+| 1 | Adequate description and separation of functions and adequate systems for reporting and monitoring where the Responsible Authority entrusts execution of tasks to another body | Responsible Authority/Delegated Authority | Internal environment |
+| 2 | Appropriate selection of projects | Responsible Authority/Delegated Authority | Control activities |
+| 3 | Adequate information to beneficiaries, potential beneficiaries and the public | Responsible Authority/Delegated Authority | Internal information and communication |
+| 4 | Adequate controls | Responsible Authority/Delegated Authority | Control activities |
+| 5 | Effective systems and procedures to ensure that all the documents regarding expenditure and controls are held to ensure an adequate audit trail | Responsible Authority/Delegated Authority | Control activities |
+| 6 | Reliable computerised systems for accounting, for the storage and transmission of financial data and data on indicators, for monitoring and for reporting | Responsible Authority/Delegated Authority | Control activities/Internal information and communication |
+| 7 | Effective implementation of procedures for the prevention, detection and correction of irregularities including proportionate anti-fraud measures | Responsible Authority/Delegated Authority | Control activities |
+| 8 | Appropriate procedures for drawing up the annual accounts, the management declaration and the annual summary of final audit reports and of controls carried out | Responsible Authority/Delegated Authority | Control activities |
+| 9 | Appropriate and complete account of amounts recoverable, recovered and cancelled | Responsible Authority/Delegated Authority | Control activities |
+| 10 | Adequate description and separation of functions, functional independence from the Responsible Authority and adequate systems for ensuring that any other body that carries out audits has the necessary functional independence and takes accounts of internationally accepted audit standards | Audit Authority | Internal environment |
+| 11 | Adequate system audits | Audit Authority | Control activities |
+| 12 | Adequate audits of expenditure | Audit Authority | Control activities |
+| 13 | Adequate audits of accounts | Audit Authority | Control activities |
+| 14 | Adequate procedures for providing reliable audit opinions and audit reports | Audit Authority | Control activities |
+
+**Table 2**
+
+**Classification of key requirements for the management and control systems with regard to their functioning**
+
+Category 1 Works well. No, or only minor improvement(s) needed
+
+Category 2 Works. Some improvement(s) needed
+
+Category 3 Works partially. Substantial improvements needed
+
+Category 4 Essentially does not work
+
+( 1 ) Commission Implementing Regulation (EU) 2015/377 of 2 March 2015 establishing the models for the documents required for the payment of the annual balance pursuant to Regulation (EU) No 514/2014 of the European Parliament and of the Council laying down general provisions on the Asylum, Migration and Integration Fund and on the instrument for financial support for police cooperation, preventing and combating crime, and crisis management (see page 17 of this Official Journal).
+
+( 2 ) Commission Delegated Regulation (EU) No 1042/2014 of 25 July 2014 supplementing Regulation (EU) No 514/2014 with regard to the designation and management and control responsibilities of Responsible Authorities and with regard to status and obligations of Audit Authorities (OJ L 289, 3.10.2014, p. 3).

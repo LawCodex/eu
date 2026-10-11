@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(recast)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2021/1883 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 October 2021 </td><td> L 382</td><td>1</td><td>28.10.2021</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2016/801 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

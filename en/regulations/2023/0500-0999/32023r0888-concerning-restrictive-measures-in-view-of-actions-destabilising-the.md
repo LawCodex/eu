@@ -1,0 +1,484 @@
+---
+title: "Council Regulation (EU) 2023/888 of 28 April 2023 concerning restrictive measures in view of actions destabilising the Republic of Moldova"
+identifier: "32023R0888"
+eli: "http://data.europa.eu/eli/reg/2023/888/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2023-04-28
+entry_into_force: 2023-12-21
+last_amended: 2026-06-15
+consolidated_version: "02023R0888-20260615"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R0888-20260615"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2023/888 of 28 April 2023 concerning restrictive measures in view of actions destabilising the Republic of Moldova
+
+**COUNCIL REGULATION (EU) 2023/888**
+
+**of 28 April 2023**
+
+**concerning restrictive measures in view of actions destabilising the Republic of Moldova**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/1045 of 30 May 2023 </td><td> L 140I</td><td>1</td><td>30.5.2023</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/739 of 22 February 2024 </td><td> L 739</td><td>1</td><td>22.2.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/1243 of 26 April 2024 </td><td> L 1243</td><td>1</td><td>29.4.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2700 of 14 October 2024 </td><td> L 2700</td><td>1</td><td>14.10.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/817 of 25 April 2025 </td><td> L 817</td><td>1</td><td>28.4.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/1434 of 15 July 2025 </td><td> L 1434</td><td>1</td><td>15.7.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/898 of 21 April 2026 </td><td> L 898</td><td>1</td><td>22.4.2026</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2026/1358 of 15 June 2026 </td><td> L 1358</td><td>1</td><td>15.6.2026</td></tr>
+</table>
+
+C1
+
+**COUNCIL REGULATION (EU) 2023/888**
+
+**of 28 April 2023**
+
+**concerning restrictive measures in view of actions destabilising the Republic of Moldova**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(b) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for this purpose ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(c) ‘competent authorities’ means the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(d) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds, but may be used to obtain funds, goods or services;
+
+(e) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(f) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(g) ‘funds’ means financial assets and benefit of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale;
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(h) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace.
+
+## Article 2
+
+1\. All funds and economic resources belonging to, owned, held or controlled by any natural or legal person, entity or body as listed in Annex I shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in Annex I.
+
+3\. Annex I shall include:
+
+(a) natural or legal persons, entities or bodies responsible for, supporting or implementing actions or policies which undermine or threaten the sovereignty and independence of the Republic of Moldova, or democracy, the rule of law, stability or security in the Republic of Moldova, through any of the following actions:
+
+(i) obstructing or undermining the democratic political process, including by obstructing or seriously undermining the holding of elections or attempting to destabilise or overthrow the constitutional order;
+
+(ii) planning, directing, engaging in, directly or indirectly, supporting or otherwise facilitating violent demonstrations or other acts of violence; or
+
+(iii) serious financial misconduct concerning public funds and the unauthorised export of capital;
+
+(b) natural or legal persons, entities or bodies, who are associated with the natural or legal persons, entities or bodies designated under point (a).
+
+## Article 3
+
+1\. By way of derogation from Article 2, the competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of natural or legal persons, entities or bodies listed in Annex I, and dependent family members of such natural persons, including payments for food, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for the payment of reasonable professional fees or the reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;
+
+(d) necessary for extraordinary expenses, provided that the relevant competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to the authorisation; or
+
+(e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 4
+
+1\. Article 2(2) shall not apply to funds or economic resources made available by organisations and agencies which are pillar-assessed by the Union and with which the Union has signed a financial framework partnership agreement on the basis of which the organisations and agencies act as humanitarian partners of the Union, provided that the provision of such funds or economic resources is necessary for exclusively humanitarian purposes in the Republic of Moldova.
+
+2\. In cases not covered by paragraph 1 of this Article, and by way of derogation from Article 2, the competent authorities may grant specific or general authorisations, under such general or specific conditions as they deem appropriate, to release certain frozen funds or economic resources or to make available certain funds or economic resources, provided that the provision of such funds or economic resources is necessary for exclusively humanitarian purposes in the Republic of Moldova.
+
+3\. In the absence of a negative decision, a request for information or a notification for additional time from the competent authority within 5 working days of the date of receipt of a request for authorisation under paragraph 2, the authorisation shall be considered granted.
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraphs 2 and 3 within 2 weeks of the authorisation.
+
+## Article 5
+
+1\. By way of derogation from Article 2(1), the competent authorities may authorise the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 2 was listed in Annex I, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I; and
+
+(d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 6
+
+1\. By way of derogation from Article 2(1) and provided that a payment by a natural or legal person, entity or body listed in Annex I is due under a contract or agreement that was concluded by, or an obligation that arose for, the natural or legal person, entity or body concerned, before the date on which that natural or legal person, entity or body was included in Annex I, the competent authorities may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources will be used for a payment by a natural or legal person, entity or body listed in Annex I; and
+
+(b) the payment is not in breach of Article 2(2).
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 7
+
+1\. Article 2(2) shall not prevent the crediting of frozen accounts by financial or credit institutions that receive funds transferred by third parties onto the account of a listed natural or legal person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the relevant competent authority about any such transaction without delay.
+
+2\. Article 2(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose before the date on which the natural or legal person, entity or body referred to in Article 2 was included in Annex I; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in a Member State or enforceable in the Member State concerned,
+
+provided that any such interest, other earnings and payments are frozen in accordance with Article 2(1).
+
+## Article 8
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as information on accounts and amounts frozen in accordance with Article 2(1), to the competent authority of the Member State where they are resident or located, and transmit such information, directly or through the Member State, to the Commission; and
+
+(b) cooperate with the competent authority in any verification of the information referred to in point (a).
+
+2\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+3\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 9
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Article 2.
+
+## Article 10
+
+1\. The freezing of funds and economic resources, or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 11
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, notably a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) natural or legal persons, entities or bodies listed in Annex I;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the natural or legal persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 12
+
+1\. The Commission and Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information in respect of:
+
+(a) funds frozen under Article 2 and authorisations granted under Articles 3, 5 and 6;
+
+(b) violation and enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 13
+
+1\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 2, it shall amend Annex I accordingly.
+
+2\. The Council shall communicate the decision referred to in paragraph 1, including the grounds for listing, to the natural or legal person, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, entity or body with an opportunity to present observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decisions referred to in paragraph 1 and inform the natural or legal person, entity or body concerned accordingly.
+
+4\. The list in Annex I shall be reviewed at regular intervals and at least every 12 months.
+
+5\. The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 14
+
+1\. Annex I shall include the grounds for the listing of natural or legal persons, entities or bodies concerned.
+
+2\. Annex I shall contain, where available, the information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include: names and aliases; date and place of birth; nationality; passport and identity card numbers; gender; address, if known; and function or profession. With regard to legal persons, entities or bodies, such information may include: names; place and date of registration; registration number; and place of business.
+
+## Article 15
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+2\. Member States shall notify the Commission of the rules referred to in paragraph 1 without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 16
+
+1\. The Council, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) shall process personal data in order to carry out their tasks under this Regulation. These tasks include:
+
+(a) as regards the Council, preparing and making amendments to Annex I;
+
+(b) as regards the High Representative, preparing amendments to Annex I;
+
+(c) as regards the Commission:
+
+(i) adding the contents of Annex I to the electronic, consolidated list of persons, groups and entities subject to Union financial sanctions and to the interactive sanctions map, both publicly available;
+
+(ii) processing information on the impact of the measures provided for in this Regulation such as the value of frozen funds and information on authorisations granted by the competent authorities.
+
+2\. The Council, the Commission and the High Representative may process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons, only to the extent that such processing is necessary for the preparation of Annex I.
+
+3\. For the purposes of this Regulation, the Council, the Commission and the High Representative are designated as ‘controller’ within the meaning of point (8) of Article 3 of Regulation (EU) 2018/1725, in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+## Article 17
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex II.
+
+2\. Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 18
+
+Any information provided to or received by the Commission in accordance with this Regulation shall be used by the Commission only for the purposes for which it was provided or received.
+
+## Article 19
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or vessel under the jurisdiction of a Member State;
+
+(c) to any natural person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 20
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 2
+
+**A. Natural persons**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Statement of reasons</td><td>Date of listing</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>1.</td><td>Ilan Mironovich SHOR a.k.a.  Ilan Mironovici ȘOR </td><td>Function: businessman, president of the political party ‘SHOR’ (‘ȘOR’) DOB: 6.3.1987  POB: Tel Aviv, Israel  Gender: male  Nationality: Republic of Moldova, Israeli  State Identification Number (IDNP): 0971007884125 (Republic of Moldova) </td><td>Ilan Shor is a Moldovan politician (leader of the ȘOR political party) and businessman from the Republic of Moldova who is involved in the illegal financing of political parties in the Republic of Moldova and in incitement to violence against the political opposition. Before being declared unconstitutional in June 2023, the ȘOR Party, which Ilan Shor leads, was involved in the payment and training of persons in order to provoke disorder and unrest during the protests in the Republic of Moldova. By a decision dated 13 April 2023, the Court of Appeal of Chișinău sentenced Ilan Shor for being guilty of fraud and money laundering in the ‘Bank Fraud’ case to 15 years of imprisonment and the confiscation of assets for a value of EUR 254 million. Funds from this large-scale banking fraud and connections to corrupt oligarchs and Moscow-based entities have been and are still being used, according to authorities of the Republic of Moldova, to artificially create political unrest in the country.  His actions directed towards subverting democracy in the Republic of Moldova include providing illegal funding to support pro-Kremlin political activity in the Republic of Moldova. An example of the use of such funds is the organisation of violent protests and rallies, primarily in the capital Chișinău, with the help of protestors paid by the ȘOR Party, throughout 2022 and 2023. After the ȘOR Party was declared unconstitutional, Ilan Shor continued to facilitate Russian influence on the political scene of the Republic of Moldova by illegally financing other parties and attempting to bribe politicians. Through financing vote buying and disinformation campaigns, he has also interfered with the 2024 presidential elections, the constitutional referendum on Union accession and the 2025 parliamentary elections in the Republic of Moldova.  Through the Russia-based non-governmental association Evrazia and the Victory/Pobeda Political Bloc, Ilan Shor promotes Russian propaganda narratives and coordinates financing activities aimed at influencing the political situation in the Republic of Moldova.  By directing and planning violent demonstrations and through his serious financial misconduct concerning public funds and the unauthorised export of capital, and by attempting to overthrow the constitutional order, Ilan Shor is responsible for actions which undermine and threaten the sovereignty and independence of the Republic of Moldova, and democracy, the rule of law, stability and security in the Republic of Moldova. Furthermore, he is associated with Evrazia. </td><td>30.5.2023</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>2.</td><td>Gheorghe Petru CAVCALIUC</td><td>Function: politician, president of the political party ‘Building Europe at Home Party’ (PACE) former Deputy Head of the General Police Inspectorate  DOB: 25.10.1982  POB: Micăuți village, Strășeni county, Republic of Moldova  Gender: male  Nationality: Republic of Moldova, Romanian  State Identification Number (IDNP): 2000033042660 (Republic of Moldova)  Passport no: AB0664715 (Republic of Moldova)  058117566 (Romania) </td><td>Gheorghe Petru Cavcaliuc is the former Deputy Head of the General Police Inspectorate of the Republic of Moldova. He is known for having organised and participated in the violent protests of October 2022, alongside Ilan Shor. He has used his connections within the General Police Inspectorate to recruit former police officers and create a paramilitary group to ‘protect’ the violent demonstrators against the Government of the Republic of Moldova. In this context, he has founded a so-called ‘shadow government’ with the aim of replacing the democratically elected government of the Republic of Moldova. By directing and planning violent demonstrations, Gheorghe Cavcaliuc is responsible for actions which undermine and threaten the sovereignty and independence of the Republic of Moldova, and the democracy, the rule of law, stability and security in the Republic of Moldova. </td><td>30.5.2023</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>3.</td><td>Marina TAUBER</td><td>Function: Member of the Parliament of the Republic of Moldova (since March 2019) DOB: 1.5.1986  POB: Chișinău, Republic of Moldova  Gender: female  Nationality: Republic of Moldova </td><td>Marina Tauber is the deputy leader of Ilan Shor’s ȘOR political party and a Member of the Parliament of the Republic of Moldova. She was charged in the ‘Bank Fraud’ case and she is subject to investigation in two criminal cases in the Republic of Moldova related to the illegal financing from an organised criminal group and the falsification of the report on the financial management of the ȘOR Party. On 20 December 2022, prosecutors conducted several searches in connection with the case of the illegal financing of the ȘOR Party. The authorities of the Republic of Moldova then identified money which, according to the prosecutors, was to be used for organising anti-government protests and remunerating the participants in those demonstrations.  In 2023, knives, flammable substances and daggers were seized following protests organised by the People’s Movement, which the ȘOR Party is part of. Violence and altercations between the police and demonstrators were registered, where 54 people were detained, including minors. According to the General Police Inspectorate of the Republic of Moldova, Marina Tauber was among the main organisers of the protests of the ȘOR Party and the People’s Movement.  According to the Anticorruption Prosecutor’s Office of the Republic of Moldova, she used special communication instruments in order to give direct instructions to the presidents and vice-presidents of the territorial offices of the ȘOR Party in the country on how to bring people to the demonstrations, how to organise transport and how to receive the money for the remuneration of the people.  Moreover, Marina Tauber coordinates financing activities aimed at influencing the political situation in the Republic of Moldova.  By directing and planning violent demonstrations and through her serious financial misconduct concerning public funds and the unauthorised export of capital, and by attempting to overthrow the constitutional order, Marina Tauber is responsible for actions which undermine and threaten the sovereignty and independence of the Republic of Moldova, and democracy, the rule of law, stability and security in the Republic of Moldova. </td><td>30.5.2023</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>4.</td><td>Igor Yuryevich CHAIKA a.ka. Igor Yuryevich CHAYKA  (Игорь Юрьевич ЧАЙКА) </td><td>Function: Russian businessman DOB: 13.12.1988  POB: Irkutsk or Moscow, former USSR (now Russian Federation)  Gender: male  Nationality: Russian </td><td>Igor Chaika is a Russian businessman responsible for funnelling money in support of the Russian Federal Security Service (FSB) projects aimed at destabilising the Republic of Moldova. He played the role of Russian ‘purse’, channelling money to FSB assets in the Republic of Moldova in order to bring the country under the control of the Kremlin. Through his serious financial misconduct concerning public funds, Igor Chaika is responsible for supporting actions which undermine and threaten the sovereignty and independence of the Republic of Moldova, and the democracy, the rule of law, stability and security in the Republic of Moldova. </td><td>30.5.2023</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>5.</td><td>Vladimir Gheorghe PLAHOTNIUC a.k.a. Vladimir ULINICI  a.k.a. Vladimir PLAKHOTNYUK  a.k.a. Vladislav Vladimir NOVAK  a.k.a. Mihail TAUȘANOV / Mikhail TAUSHANOV  (Владимир (Влад) Георгиевич ПЛАХОТНЮК) </td><td>Function: businessman, politician DOB: 1.1.1966 or 25.12.1965  POB: Pitușca, Călărași, former USSR (now Republic of Moldova)  Gender: male  Nationality: Republic of Moldova, Romanian, Russian  State Identification Number (IDNP): 0962706018030 (Republic of Moldova)  Passport no: AB 0671328; AA 1203658 (Republic of Moldova) </td><td>Vladimir Plahotniuc is subject to numerous criminal proceedings in the Republic of Moldova related to crimes in connection with the embezzlement of State funds of the Republic of Moldova and their illegal transfer outside the Republic of Moldova. He was accused in the Republic of Moldova in the ‘Bank Fraud’ case, the economic effects of which are still affecting the country. He is also being investigated for bribing the former president of the Republic of Moldova with a bag of cash in exchange for political favours. Furthermore, he has held meetings with the Kremlin to gain support for his interference in the 2025 parliamentary elections in the Republic of Moldova. Through his serious financial misconduct concerning public funds and the unauthorised export of capital and undermining the democratic political process in the Republic of Moldova, Vladimir Plahotniuc is responsible for actions and implementing policies which undermine and threaten democracy, the rule of law, stability or security in the Republic of Moldova. </td><td>30.5.2023</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>6.</td><td>Chiril GUZUN</td><td>Former border police officer and the current leader of a paramilitary group, ‘SCUTUL POPORULUI’ DOB: 27.4.1979  POB: Ratus, Criuleni, SSR Moldova  Gender: male  Nationality: Republic of Moldova, Romanian </td><td>Chiril Guzun is the founder and current leader of the ‘Scutul Poporului’, a paramilitary organisation in the Republic of Moldova, including former military, police and law-enforcement personnel, which uses violence while attending protests, particularly to destabilise the Republic of Moldova. During the attempts of February 2023 to destabilise the national government, groups of protesters affiliated to the subsequently-banned ‘Partidul ȘOR’ and to the Building Europe at Home Party, ‘Partidul Acasă Construim Europa’ (PACE) were supported and surrounded by members of the ‘Scutul Poporului’, who were involved in riots and violent demonstrations. Chiril Guzun is also a long-time acquaintance of Gheorghe Cavcaliuc, a listed person and the leader of the ‘PACE’ party. Cavcaliuc admitted to coordinating with Chiril Guzun’s organisation regarding the violent protests. In addition, Natalia Guzun, the wife of Chiril Guzun, is vice-president of the ‘PACE’ party.  In the role of ‘Scutul Poporului’ leader, by directing, engaging in and supporting violent demonstrations, Chiril Guzun is responsible for actions which undermine and threaten the rule of law, stability and security in the Republic of Moldova. Furthermore, Chiril Guzun is associated with Gheorghe Cavcaliuc and ‘Scutul Poporului’. </td><td>22.2.2024</td></tr>
+<tr><td>7.</td><td>Dmitry MILYUTIN (Дмитрий Милютин) </td><td>Deputy head of the Department of Operational Intelligence of Directorate 5, Russian Federal Security Service (FSB) DOB: 30.5.1967  POB: Ijevsk, USSR (now Russian Federation)  Gender: male  Nationality: Russian  ID Card Number: 0134180 </td><td>Dmitry Milyutin is the Deputy Head of the Russian Federal Security Service (FSB)’s Department of Operational Intelligence, responsible for Russia’s covert operations in the Republic of Moldova since 2016, especially in the Transnistria region, destabilising the constitutional order. Through his operatives, Milyutin directs, coordinates and manipulates chosen political actors in the Republic of Moldova in order to pursue pro-Russian agendas, thus undermining the democratic political process in the Republic of Moldova. Furthermore, Milyutin’s group is involved in organising violent protests and other acts of violence taking place in the Republic of Moldova. By seriously undermining the democratic political process, attempting to destabilise the constitutional order, and by facilitating violent demonstrations and other acts of violence, Dmitry Milyutin is supporting actions which undermine and threaten the sovereignty and independence, democracy, rule of law, stability and security of the Republic of Moldova. He is also associated with the listed person Igor Chaika. </td><td>22.2.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>8.</td><td>Arina Evgheni CORȘICOVA</td><td>DOB: 28.12.1974 Gender: female  Nationality: Republic of Moldova  State Identification Number (IDNP): 0962011898118 </td><td>Arina Corșicova has led several communications media trusts in the Republic of Moldova, one of which owns two television channels, ‘Accent TV’ and ‘Primul în Moldova’, the broadcasting licences of which were suspended by the Republic of Moldova, for disseminating incorrect information concerning the Russian war of aggression against Ukraine and current political events in the Republic of Moldova. Despite losing its television broadcasting licence, ‘Primul în Moldova’ continues to disseminate false statements aimed at destabilising the constitutional order of the Republic of Moldova. In this context, Arina Corșicova is responsible for undermining the democratic political process in the Republic of Moldova by leading a disinformation campaign and by being politically backed by listed person Ilan Shor.  Furthermore, she is a long-time associate of Ilan Shor, having funded his electoral campaigns in the past and being an indirect shareholder of the ‘Banca Socială’, involved in the ‘Bank Fraud’ case.  By undermining the democratic political process and destabilising the constitutional order, Arina Corșicova is responsible for and is supporting actions and policies which undermine and threaten democracy, the rule of law and stability in the Republic of Moldova. Furthermore, she is associated with Ilan Shor. </td><td>22.2.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>9.</td><td>Dumitru CHITOROAGĂ a.k.a. Dumitru CHITORAGA </td><td>DOB: 23.12.1984 Gender: male  Nationality: Republic of Moldova  State Identification Number (IDNP): 2002003101445  Passport number: AB1187605 </td><td>Dumitru Chitoroagă is the administrator of a media trust which owns several media communication channels in the Republic of Moldova, channels of which he is also the director. Those media communication channels frequently promote messages aimed at obstructing and undermining the democratic political process through evidently false claims regarding the Government of the Republic of Moldova. Moreover, they express manifest support for listed person Ilan Shor and his political party ‘SHOR’ (‘ȘOR’). Some of those channels were owned or founded by Ilan Shor through intermediaries. The Republic of Moldova has legally suspended the broadcasting licences of several media channels, including those of ‘TV6’ and ‘ORHEI TV’, which are under the administration of Dumitru Chitoroagă, for disseminating incorrect information regarding current political events in the Republic of Moldova.  Therefore, by obstructing and undermining the democratic political process, Dumitru Chitoroagă is responsible for actions which undermine and threaten democracy, the rule of law, stability and security in the Republic of Moldova. Furthermore, he is associated with Ilan Shor. </td><td>22.2.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>10.</td><td>Maria ALBOT</td><td>External relations advisor to the Bashkan of Gagauzia Administrator of the ‘Miron Shor’ Foundation  Shareholder of the ‘Banca Socială’  DOB: 21.1.1986  Gender: female  Nationality: Republic of Moldova  State Identification Number (IDNP): 2000088038487 </td><td>Maria Albot is a long-time trusted associate of listed person Ilan Shor. She currently has a leading role in one of his foundations, the ‘Miron Shor’ Foundation, and she is involved in the ‘Bank Fraud’ case that affected the financial stability of the Republic of Moldova. Previously, she held positions in other companies or foundations owned by or associated with Ilan Shor. She is currently involved in operations led by Ilan Shor to finance coordinated propaganda, mobilisation and protests aimed at destabilising the Republic of Moldova. Therefore, she is associated with Ilan Shor. </td><td>22.2.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>11.</td><td>Victor PETROV</td><td>Politician, member of the People’s Assembly of Gagauzia DOB: 29.6.1975  Gender: male  Nationality: Republic of Moldova  State Identification Number (IDNP): 0973004885136 </td><td>Victor Petrov is a deputy to the bashkan of the People’s Assembly of Gagauzia and the leader of the People’s Union of Gagauzia, a manifestly pro-Russian socio-political movement that merged with the ‘Renaștere’ political party. He receives political backing from listed person Ilan Shor. Victor Petrov is actively engaged in the dissemination of disinformation, and in inciting violence and fear among the Gagauzian people of the Republic of Moldova regarding a potential loss of autonomy provoked by the authorities in Chișinău. As a result, authorities in the Republic of Moldova have blocked one of his websites, ‘gagauznews.md’. Nevertheless, the dissemination is continued through a new domain, ‘gagauznews.com’ and through Petrov’s declarations.  By undermining the democratic political process and destabilising the constitutional order, Victor Petrov is supporting actions and policies which undermine and threaten democracy, the rule of law, and stability in the Republic of Moldova. He is also associated with Ilan Shor. </td><td>22.2.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>12.</td><td>Evghenia GUȚUL</td><td>Function: former Governor of the Autonomous Territorial Unit of Gagauzia DOB: 5.9.1986  POB: Etulia, Vulcănești, SSR Moldova (now Republic of Moldova)  Gender: female  Nationality: Republic of Moldova </td><td>Evghenia Guțul is the former Governor (Bashkan) of the Autonomous Territorial Unit (ATU) of Gagauzia in the Republic of Moldova. She previously worked for Ilan Shor’s political party ‘SHOR’ (‘ȘOR’), which is now banned, and was involved in its illegal financing. She has proposed several of Shor’s associates to fill positions in Gagauzia’s Executive Committee, despite the fact that those individuals lack ties to Gagauzia. Despite lacking the constitutional competence to do so, as Governor she engaged in a formal visit to the Russian Federation and met Russian President Vladimir Putin. She asked Putin for and received assurance of Russia’s support to Gagauzia’s rights, authority and positions.  Since her detention in March 2025, her deputy, Ilia Uzun has been acting Bashkan of ATU Gagauzia, and has been publicly declaring that all matters pertaining to the functioning of the Executive Committee are being coordinated with Evghenia Guțul through her lawyers, even though the law of the Republic of Moldova does not provide for procedures that would allow matters to be coordinated with a former Bashkan once she is no longer performing her duties.  By promoting separatism in ATU Gagauzia and close ties to the Russian Federation, Evghenia Guțul is attempting to overthrow the constitutional order, thereby threatening the sovereignty and independence of the Republic of Moldova, and democracy, stability and security in the Republic of Moldova. </td><td>14.10.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>13.</td><td>Iurii CUZNEȚOV</td><td>Function: Deputy Head of the General Department for External Relations, Autonomous Territorial Unit of Gagauzia DOB: 18.7.1988  POB: SSR Moldova (now Republic of Moldova)  Gender: male  Nationality: Republic of Moldova  State Identification Number (IDNP): 2004042080868 </td><td>Iurii Cuznețov, a former member of Ilan Shor’s political party ‘SHOR’ (‘ȘOR’), is the Deputy Head of the General Department for External Relations of the Executive Committee of the Autonomous Territorial Unit of Gagauzia. He joined Evghenia Guțul on her visit to the Russian Federation and was involved in the scheme to finance Gagauzian citizens through a Russian bank. He actively supported Evghenia Guțul’s campaign for Governor (Bashkan) of Gagauzia. Iurii Cuznețov is therefore associated with Evghenia Guțul. </td><td>14.10.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>14.</td><td>Nelli PARUTENCO</td><td>Function: Founder/Director of Evrazia DOB: 21.3.1962  Gender: female  Nationality: Republic of Moldova  State Identification Number (IDNP): 0970403899047 </td><td>Nelli Parutenco was the treasurer of Ilan Shor’s political party ‘SHOR’ (‘ȘOR’), until it was banned. In the context of investigations into the ȘOR Party for illegal financing, she escaped to Moscow in 2022. Nelli Parutenco is now the founder and director of the Russia-based non-governmental association Evrazia, the goal of which is to promote Russian interests in former Soviet republics, including in the Republic of Moldova. Evrazia promotes Russian propaganda narratives, including among young children at youth camps it organises. Evrazia serves as a channel to provide financing from a Russian bank and from Ilan Shor to citizens and infrastructure projects in Gagauzia, as well as a channel for the financing of violent protest trainings for citizens of the Republic of Moldova, organised by Russia. Evrazia funnelled money from Ilan Shor to influence the 2024 presidential elections and the 2024 constitutional referendum on accession to the Union. Evrazia worked closely with Shor’s ‘Victory’ political bloc, providing financial backing and logistical support to bolster Russian influence in the region.  Through Evrazia, Nelli Parutenco is therefore attempting to overthrow the constitutional order, thereby threatening the sovereignty and independence of the Republic of Moldova, and democracy, stability and security in the Republic of Moldova.  Nelli Parutenco is associated with Evrazia. Moreover, Nelli Parutenco is associated with Ilan Shor. </td><td>14.10.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>15.</td><td>Ilia UZUN</td><td>Function: Deputy President of the Executive Committee of the Autonomous Territorial Unit of Gagauzia, member of the People’s Assembly of Gagauzia DOB: 16.5.1967  POB: Chioselia Rusă, Comrat, SSR Moldova (now Republic of Moldova)  Gender: male  Nationality: Republic of Moldova  State Identification Number (IDNP): 0961607975268 </td><td>Ilia Uzun is a member of the People’s Assembly of Gagauzia and Deputy President of the Executive Committee of the Autonomous Territorial Unit (ATU) of Gagauzia. He met Ilan Shor in Israel to discuss the implementation in Gagauzia of the electoral plans of Governor (Bashkan) Evghenia Guțul. Since Evghenia Guțul’s detention in March 2025, Ilia Uzun has been acting Bashkan of ATU Gagauzia, and has been publicly declaring that all matters pertaining to the functioning of the Executive Committee are being coordinated with Evghenia Guțul through her lawyers, even though the law of the Republic of Moldova does not provide for procedures that would allow matters to be coordinated with a former Bashkan once she is no longer performing her duties. Ilia Uzun is engaged in spreading Russian propaganda, launched by Ilan Shor’s team. He planned, attended and led demonstrations against the authorities of the Republic of Moldova organised by Ilan Shor or his associates. He publicly gave support to Ilan Shor or his actions. He is therefore associated with Ilan Shor and Evghenia Guțul. </td><td>14.10.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>16.</td><td>Mihail VLAH</td><td>Function: Deputy Governor and media relations advisor to the Governor of the Autonomous Territorial Unit of Gagauzia DOB: 4.2.1978  Gender: male  Nationality: Republic of Moldova  Passport Number: 2000019014568 </td><td>Mihail Vlah is a deputy to the Governor (Bashkan) of Gagauzia, Evghenia Guțul. He has been appointed by Evghenia Guțul but his appointment was not approved by the People’s Assembly of Gagauzia. He is also Evghenia Guțul’s media relations advisor. He met Ilan Shor in Israel to discuss the implementation in Gagauzia of the electoral plans of Governor Guțul. He planned and attended demonstrations against the authorities of the Republic of Moldova, in support of Evghenia Guțul or organised by Ilan Shor or his associates. He publicly gave support to Ilan Shor’s or Evghenia Gutul’s actions. Mihail Vlah is therefore associated with Ilan Shor and Evghenia Guțul. Furthermore, he took part in a violent demonstration, or incited violence, against the Government of the Republic of Moldova and attempted to destabilise the constitutional order by claiming that the Autonomous Territorial Region of Gagauzia has the right to open diplomatic representations abroad.</td><td>14.10.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>17.</td><td>Alexandru BEȘCHIERU</td><td>Function: Leader of the ‘Forța de Alternativă și de Salvare a Moldovei’ (‘Alternative and Salvation Force of Moldova’) political party DOB: 5.7.1990  POB: Chișinău, Republic of Moldova  Gender: male  Nationality: Republic of Moldova </td><td>Alexandru Beșchieru is the leader of the ‘Forța de Alternativă și de Salvare a Moldovei’ (‘FASM’) political party, which is one of the successors of the outlawed ȘOR political party, led by Ilan Shor. In April 2024, Ilan Shor launched in Moscow the Victory/Pobeda Political Bloc, which unites the successors of his party, including FASM. As the leader of FASM, Alexandru Beșchieru represents the party and coordinates its activities.  He is therefore associated with the Victory/Pobeda Political Bloc. He is also associated with Ilan Shor. </td><td>15.7.2025</td></tr>
+<tr><td>18.</td><td>Victoria FURTUNĂ</td><td>Function: Politician – Leader of the ‘Moldova Mare’ political party DOB: 24.2.1981  POB: Hâncești, Republic of Moldova  Gender: female  Nationality: Republic of Moldova </td><td>Victoria Furtună is a politician from the Republic of Moldova who has received significant support from Ilan Shor and the Victory/Pobeda Political Bloc, which is the successor of the outlawed ȘOR political party, led by Ilan Shor. In particular, during the 2024 Presidential election, members of the Victory/Pobeda Political Bloc were encouraged to vote for Victoria Furtună, including through bribing schemes. Moreover, in breach of electoral laws prohibiting campaigning during the day of the elections, listed person Ilan Shor and his associates instructed their supporters to vote for Victoria Furtună. Therefore, she is associated with the Victory/Pobeda Political Bloc. She is also associated with Ilan Shor. </td><td>15.7.2025</td></tr>
+<tr><td>19.</td><td>Vadim GROZAVU</td><td>Function: Leader of the ‘Victorie’ (Victory) political party DOB: 2.12.1984  POB: Republic of Moldova  Gender: male  Nationality: Republic of Moldova </td><td>Vadim Grozavu is the leader of the ‘Victorie’ political party, which is one of the successors of the outlawed ȘOR political party, led by listed person Ilan Shor. In April 2024, Ilan Shor launched in Moscow the Victory/Pobeda Political Bloc, which unites the successors of his party, including Victory. As the leader of Victory, Vadim Grozavu represents the party and coordinates its activities.  He is therefore associated with the Victory/Pobeda Political Bloc. He is also associated with Ilan Shor. </td><td>15.7.2025</td></tr>
+<tr><td>20.</td><td>Irina MIHAIL LOZOVAN</td><td>Function: Politician – ‘Renaștere’ (Revival) political party DOB: 27.12.1983  POB: Lipcani, Republic of Moldova  Gender: female  Nationality: Republic of Moldova </td><td>Irina Lozovan is a politician in the Republic of Moldova from the Renaștere political party (‘Renaștere’/‘Revival’)), which is one of the successors of the outlawed ȘOR political party, led by listed person Ilan Shor. In April 2024, Ilan Shor launched in Moscow the Victory/Pobeda Political Bloc, which unites the successors of his party, including Renaștere. Irina Lozovan took part in this event and played an executive role in Ilan Shor’s bribing scheme in the context of the presidential elections and constitutional referendum on EU accession of 2024.  By seriously undermining the holding of elections, Irina Lozovan is responsible for actions that undermine or threaten democracy, the rule of law, stability or security in the Republic of Moldova.  She is also associated with the Victory/Pobeda Political Bloc and Ilan Shor. </td><td>15.7.2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>21.</td><td>Alexei LUNGU</td><td>Function: Journalist, President of ‘Șansă’ (Chance) Political Party DOB: 19.11.1983  POB: Republic of Moldova  Gender: male  Nationality: Republic of Moldova </td><td>Alexei Lungu is the leader of the ‘Șansă’ political party, which is one of the successors of the outlawed ȘOR political party, led by listed person Ilan Shor. In April 2024, Ilan Shor launched in Moscow the Victory/Pobeda political bloc, which unites the successors of his party, including Șansă. As the leader of Șansă, Alexei Lungu represents the party and coordinates its activities. He is therefore associated with the Victory/Pobeda Political Bloc. He is also associated with Ilan Shor. </td><td>15.7.2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>22.</td><td>Alexandr NESTEROVSCHI</td><td>Function: Politician DOB: 11.1.1981  POB: Răuțel, Republic of Moldova  Gender: male  Nationality: Republic of Moldova </td><td>Alexandr Nesterovschi is a politician from the Republic of Moldova who has been involved in bribing schemes organised by listed person Ilan Shor in order to corrupt several politicians from the Republic of Moldova to create an apparently pro-European movement, but that was in fact controlled by Ilan Shor from Moscow. During his criminal trial, Alexandr Nesterovschi received support from Russia and Ilan Shor. He was sentenced to 12 years in prison for political corruption. By undermining the democratic political process, including by attempting to destabilise or overthrow the constitutional order, Alexandr Nesterovschi is responsible for actions or policies which undermine or threaten the sovereignty and independence of the Republic of Moldova, or democracy, the rule of law, stability or security in the Republic of Moldova. He is also associated with Ilan Shor. </td><td>15.7.2025</td></tr>
+<tr><td>23.</td><td>Natalia PARASCA</td><td>Function: Politician; leader of the ‘Renaștere’ (Revival) political party; board member of ‘Evrazia’ organization DOB: 2.2.1990  POB: Ukraine  Gender: female  Nationality: Russian </td><td>Natalia Parasca is the leader of the ‘Renaștere’ (Revival) political party, which is one of the successors of the outlawed ȘOR political party, led by listed person Ilan Shor. In April 2024, Ilan Shor launched in Moscow the Victory/Pobeda Political Bloc, which unites the successors of his party, including Renaștere. As the leader of Renaștere, Natalia Parasca represents the party and coordinates its activities. She is also a member of the board of listed entity Evrazia, which is actively involved in the illegal financing schemes of Ilan Shor.  Natalia Parasca is therefore associated with the Victory/Pobeda Political Bloc, Ilan Shor and Evrazia. </td><td>15.7.2025</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>24.</td><td>Alina JUC</td><td>Function: Coordinator in Ilan Shor’s disinformation network DOB: 5.11.2000  POB: Rîbnița, Republic of Moldova  Gender: female  Nationality: Republic of Moldova </td><td>Alina Juc was a network coordinator in a secret Russian-funded operation linked to Ilan Shor and aimed at disrupting the parliamentary elections of September 2025. She was tasked with recruiting, coordinating and offering payments for disinformation activities carried out through the network. The disinformation campaign was ongoing before the 2025 parliamentary elections with the purpose of boosting Ilan Shor’s proxies by carrying out polling activities meant to distort the electoral reality. Alina Juc works within a broader structure built around a non-governmental association, Evrazia, the vehicle through which recruitment, training, propaganda dissemination and field networks were organised. Within that architecture, she acts as a coordinator executing Evrazia’s programmes in the Republic of Moldova, thereby connecting local electoral manipulation efforts to the Shor-linked network and Evrazia-linked network.  Through recruitment, operational direction, payment coordination and strategy execution, Alina Juc played a central role in implementing a campaign of disinformation and election-disruption objectives. Therefore, she is responsible for, and implementing actions which undermine or threaten democracy, the rule of law and stability in the Republic of Moldova, by obstructing and undermining the democratic political process, including by obstructing and seriously undermining the holding of elections and attempting to overthrow the constitutional order in the Republic of Moldova. Furthermore, she is associated with Ilan Shor and Evrazia. </td><td>15.6.2026</td></tr>
+<tr><td>25.</td><td>Anton TREGUB (Антон ТРЕГУБ) </td><td>Function: Political party curator DOB: 8.3.1986  POB: Goryachy Klyuch, Krasnodar, USSR (now Russian Federation)  Gender: male  Nationality: Russian </td><td>Anton Tregub is a Russian national who is acting as a curator from Moscow for the Moldova Mare political party in the Republic of Moldova. The compilation of the candidate list and electoral strategy of the Moldova Mare party were directed by Anton Tregub. In this sense, Anton Tregub controlled the compilation of the candidate list, warning Victoria Furtună, the leader of the Moldova Mare party, to secure the registration of the party for the elections, encouraging her to bribe the Central Electoral Commission, if needed. Anton Tregub also discussed and agreed with Victoria Furtună to offer goods to prisoners in exchange for votes, as well as forcing prisoners to vote for her party in the parliamentary elections of September 2025. On 26 September 2025, the Moldova Mare party was excluded from participating in the parliamentary elections because of illegal financing and voter buying.  By controlling the strategy of the Moldova Mare political party and his direct involvement in illegally obtaining votes for Victoria Furtună in the 2025 parliamentary elections, Anton Tregub is responsible for, and implementing actions which undermine and threaten democracy, the rule of law or stability in the Republic of Moldova, by obstructing and undermining the democratic political process, including by obstructing and seriously undermining the holding of elections and attempting to overthrow the constitutional order in the Republic of Moldova. </td><td>15.6.2026</td></tr>
+<tr><td>26.</td><td>Anton USOV (Антон УСОВ) </td><td>Function: Activist in the Popular Front – Putin’s Team DOB: 3.4.1986  POB: Vladimir, USSR (now Russian Federation)  Gender: male  Nationality: Russian </td><td>Anton Usov is an activist in the Popular Front – Putin’s Team, who infiltrated the church structures of the Republic of Moldova, coordinating a structured influence campaign targeting the country’s parliamentary elections of 2025. He oversaw messaging, clergy mobilisation and political alignment within the Diocese of Soroca and Drochia. He used religious platforms, particularly the ‘Salt and Light’ Telegram channel and the print outlet ‘Salt and Light’, to disseminate narratives blending Orthodox discourse with political messaging, while instructing priests how and for whom parishioners should vote. Anton Usov implemented mechanisms of operational control and electoral mobilisation by surveying priests to assess political loyalty, conditioning financial assistance on compliance, facilitating payments through Russian channels and requiring ‘loyalty photos’ of parish gatherings to report activity back to Moscow. He is further accused of organising systematic collection of believers’ personal data during religious events, pilgrimages and church programmes in order to build voter databases for targeted mobilisation.  By acting as a strategic intermediary between Russian political structures and segments of the clergy in the Republic of Moldova, using religious authority, financial leverage, and coordinated digital messaging to influence the democratic electoral processes, Anton Usov is responsible for, and implementing actions and policies which undermine and threaten democracy, the rule of law and stability in the Republic of Moldova, through actions obstructing and undermining the democratic political process, including by obstructing and seriously undermining the holding of elections in the Republic of Moldova. </td><td>15.6.2026</td></tr>
+<tr><td>27.</td><td>Irina VLAH</td><td>Function: Leader of the ‘Inima Moldovei’ political party; former Bashkan of Gagauzia (2015-2023) DOB: 27.2.1974  POB: Comrat, SSR Moldova (now Republic of Moldova)  Gender: female  Nationality: Republic of Moldova </td><td>Irina Vlah is the leader of the ‘Inima Moldovei’ political party. She was actively engaged in activities aimed at destabilising the democratic processes taking place in the Republic of Moldova ahead of the September 2025 parliamentary elections. Irina Vlah undertook documented visits to Moscow in 2025, alongside listed person Victoria Furtună. The two met with high-ranking Russian officials, where they received assurances regarding campaign support and electoral coordination instructions. Following the formation of a new political bloc, the ‘patriotic’ political bloc, Irina Vlah co-organised a paid election rally in July 2025, feigning public support for the newly formed bloc. Irina Vlah and her party are controlled by listed person Ilan Shor, and have taken over a number of functions that are no longer performed by the proxy parties that had been outlawed or barred from elections.  By undermining the democratic political process, including by attempting to destabilise and overthrow the constitutional order, Irina Vlah is responsible for, and implementing actions and policies which undermine and threaten the sovereignty and independence of the Republic of Moldova, and democracy, the rule of law, stability and security in the Republic of Moldova. She is also associated with Ilan Shor. </td><td>15.6.2026</td></tr>
+<tr><td>28.</td><td>Iuri VITNEANSKI</td><td>Function: Member of the ‘Renaștere’ political party DOB: 6.8.1989  POB: Bălți, SSR Moldova (now Republic of Moldova)  Gender: male  Nationality: Republic of Moldova </td><td>Iuri Vitneanski is a member of the ‘Renaștere’ political party, which is part of the Victory/Pobeda political bloc. He actively engages in the dissemination of disinformation and scare tactics, as well as recurring narratives about supposed threats to the neutrality or the ‘militarisation’ of the Republic of Moldova. Iuri Vitneanski acts under the supervision of listed person Ilan Shor, from whom he receives monthly pay. Iuri Vitneanski also participates in public actions coordinated by listed entity Evrazia, a non-governmental association. Iuri Vitneanski has taken part in several meetings alongside multiple individuals from Ilan Shor’s entourage. By undermining the democratic political process, including by attempting to destabilise and overthrow the constitutional order, Iuri Vitneanski is implementing and supporting actions and policies which undermine and threaten democracy, the rule of law and stability in the Republic of Moldova. He is also associated with Ilan Shor, the Victory/Pobeda political bloc and Evrazia. </td><td>15.6.2026</td></tr>
+<tr><td>29.</td><td>Ruslan GARBALÎ</td><td>Function: Head of ‘Vulcănești’ territorial organisation of the ‘Renaștere’ political party DOB: 3.6.1970  POB: Ceadîr-Lunga, SSR Moldova (now Republic of Moldova)  Gender: male  Nationality: Republic of Moldova </td><td>Ruslan Garbalî is the Head of the ‘Vulcănești’ territorial organisation of the ‘Renaștere’ political party in the Republic of Moldova. He was involved in organising paid protests in anticipation of the parliamentary elections of 2025. The protests were announced by Ilan Shor, and Ruslan Garbalî had the executive role of contacting the participants and ensuring they were paid. Moreover, he participated in the launch event for the ‘Victory/Pobeda’ political bloc, alongside Ilan Shor. By undermining the democratic political process, including by attempting to destabilise or overthrow the constitutional order, Ruslan Garbalî is supporting actions and policies which undermine and threaten democracy, the rule of law, and stability in the Republic of Moldova. He is also associated with Ilan Shor. </td><td>15.6.2026</td></tr>
+</tbody>
+</table>
+
+**B. Legal persons, entities and bodies**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Statement of Reasons</td><td>Date of listing</td></tr>
+<tr><td>1.</td><td>Public Association – Association of People with Epaulettes ‘Scutul Poporului’ (Asociația Obștească – Asociația Oamenilor cu Epoleți ‘Scutul Poporului’) </td><td>Type of entity: NGO – paramilitary group Address: 74, Mitropolit Varlam street, Chișinău, Republic of Moldova  Registration number: 1022620011296  Website: https://m.facebook.com/people/Scutul-Poporului/100088028496232/ </td><td>‘Scutul Poporului’ is a paramilitary organisation in the Republic of Moldova, including former military, police and law-enforcement personnel. It is led by Chiril Guzun and it attends protests, particularly to destabilise the Republic of Moldova, by using violence. During the attempts of February 2023 to destabilise the national government, groups of protesters affiliated to the subsequently-banned ‘Partidul ȘOR’ and to the Building Europe at Home Party, ‘Partidul Acasă Construim Europa’ (PACE) were supported and surrounded by members of the ‘Scutul Poporului’, who were involved in riots and violent demonstrations. By engaging in and supporting violent demonstrations, ‘Scutul Poporului’ is responsible for actions which undermine and threaten the sovereignty and independence of the Republic of Moldova, and democracy, the rule of law, stability and security in the Republic of Moldova. Furthermore, ‘Scutul Poporului’ is associated with listed person Chiril Guzun. </td><td>22.2.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>2.</td><td>Evrazia – Autonomous non-commercial organisation for the promotion of international cooperation</td><td>Type of entity: Autonomous non-commercial organisation Address: Moscow, 127006, Krasnoproletarskaya Street 7, office 4/P, Russian Federation  Registration numbers:  OGRN: 1247700291200;  INN: 9707028663;  KPP: 770701001  Website: https://evrazia.su/ </td><td>Evrazia is a Russia-based non-governmental association founded by Nelli Parutenco. Its goal is to promote Russian interests in former Soviet republics, including in the Republic of Moldova. Evrazia promotes Russian propaganda narratives, including among young children at youth camps it organises. Evrazia serves as a channel to provide financing from a Russian bank and from Ilan Shor to citizens and infrastructure projects in Gagauzia, as well as a channel for the financing of violent protest trainings for citizens of the Republic of Moldova, organised by Russia. Evrazia funnelled money from Ilan Shor to influence the 2024 presidential elections and the 2024 constitutional referendum on accession to the Union. Evrazia worked closely with Shor’s ‘Victory’ political bloc, providing financial backing and logistical support to bolster Russian influence in the region. Evrazia is therefore attempting to overthrow the constitutional order, thereby threatening the sovereignty and independence of the Republic of Moldova, and democracy, stability and security in the Republic of Moldova.  Evrazia is associated with Nelli Parutenco. Moreover, Evrazia is associated with Ilan Shor. </td><td>14.10.2024</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>3.</td><td>A7 OOO (A7 LLC) </td><td> Type of entity: Limited liability company <br> Address: 125196, Moscow, District of Tverskoy, Lesnaya Street 9, Room 2/10, Russian Federation <br> Registration number: 1247700586891   </td><td>A7 has been established by Ilan Shor, together with multiple financial companies in Moscow, partnering with Russian state entities. These companies are linked to efforts to influence the Presidential elections and Constitutional referendum on EU accession held in the Republic of Moldova in 2024. Ilan Shor used A7 to transfer money to voters, offering payments in exchange for votes against the referendum and for specific candidates in the Presidential elections. By seriously undermining the holding of elections, A7 is responsible for actions that undermine or threaten democracy, the rule of law, stability or security in the Republic of Moldova. A7 is also associated with Ilan Shor. </td><td>15.7.2025</td></tr>
+<tr><td>4.</td><td>VICTORY/POBEDA POLITICAL BLOC Политический блок ‘Победа’ </td><td>Type of entity: Political bloc Address: Moscow, Russian Federation </td><td>The Victory/Pobeda Political Bloc was established by Ilan Shor on 21 April 2024. The bloc was formed with several notable signatories including Marina Tauber and Evghenia Guțul, and leaders of the ‘Chance’ (Șansă), ‘Revival’ (Renaștere), ‘Victory’ (Victorie) and ‘Alternative and Salvation Force of Moldova’ (Forța de Alternativă și de Salvare a Moldovei) parties. During the assembly, Ilan Shor was elected as the chairman of the political bloc, with listed persons Evghenia Guțul as the executive secretary and Marina Tauber as the secretary. The Victory/Pobeda Political Bloc is involved in spreading false information and engaged in vote-buying schemes during the presidential elections and the constitutional referendum on EU accession held in the Republic of Moldova in 2024.  By undermining the democratic political process, including by seriously undermining the holding of elections, the Victory/Pobeda Political Bloc is responsible for actions or policies that undermine or threaten the sovereignty and independence of the Republic of Moldova, or democracy, the rule of law, stability or security in the Republic of Moldova. It is also associated with Ilan Shor. </td><td>15.7.2025</td></tr>
+<tr><td>5.</td><td>The Cultural Educational Centre of Moldova (‘Культурно-образовательный центр Молдовы’) </td><td>Type of entity: Autonomous non-profit organisation Address: Moscow, Russian Federation  Registration number: 1237700920654 – 9705215107/770501001  Website: https://moldovacenter.ru/ </td><td>The Cultural Educational Centre of Moldova facilitated electoral interference in the 2024 presidential elections by distributing free vouchers to voters transported to a Moscow polling station, while simultaneously promoting the ‘Card of the Citizen of the Republic of Moldova in the Russian Federation’ propaganda program. Those activities have been conducted in coordination with Ilan Shor and other associates, to systematically influence electoral outcomes. Ilan Shor and Evghenia Guțul, together with the Victory political party, promoted the opening of the Cultural Educational Center in multiple Russian cities. The launch event has also been used as a platform to promote the agenda of the Victory/Pobeda Political Bloc, led by Ilan Shor and Evghenia Guțul. By undermining the democratic political process, including by seriously undermining the holding of elections, the Cultural Educational Centre of Moldova is responsible for actions or policies that undermine or threaten the sovereignty and independence of the Republic of Moldova, or democracy, the rule of law, stability or security in the Republic of Moldova. The Cultural Educational Centre of Moldova is therefore associated with Ilan Shor. </td><td>15.7.2025</td></tr>
+</tbody>
+</table>
+
+## ANNEX II — Websites for information on the competent authorities and address for notifications to the Commission
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu

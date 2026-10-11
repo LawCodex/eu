@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2021/1233 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 July 2021 </td><td> L 274</td><td>52</td><td>30.7.2021</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/184 of 22 November 2021 </td><td> L 30</td><td>3</td><td>11.2.2022</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2017/2397 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

@@ -1,0 +1,530 @@
+---
+title: "Regulation (EU) No 692/2011 of the European Parliament and of the Council of 6 July 2011 concerning European statistics on tourism and repealing Council Directive 95/57/EC Text with EEA relevance"
+identifier: "32011R0692"
+eli: "http://data.europa.eu/eli/reg/2011/692/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2011-07-06
+entry_into_force: 2011-11-24
+last_amended: 2020-01-01
+consolidated_version: "02011R0692-20200101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02011R0692-20200101"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) No 692/2011 of the European Parliament and of the Council of 6 July 2011 concerning European statistics on tourism and repealing Council Directive 95/57/EC Text with EEA relevance
+
+**REGULATION (EU) No 692/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 July 2011**
+
+**concerning European statistics on tourism and repealing Council Directive 95/57/EC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) No 253/2013 of 15 January 2013 </td><td> L 79</td><td>5</td><td>21.3.2013</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2019/1681 of 1 August 2019 </td><td> L 258</td><td>1</td><td>9.10.2019</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1569 of 23 July 2020 </td><td> L 359</td><td>1</td><td>29.10.2020</td></tr>
+</table>
+
+**REGULATION (EU) No 692/2011 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 6 July 2011**
+
+**concerning European statistics on tourism and repealing Council Directive 95/57/EC**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter
+
+This Regulation establishes a common framework for the systematic development, production and dissemination of European statistics on tourism.
+
+For this purpose, Member States shall collect, compile, process and transmit harmonised statistics on tourism supply and demand.
+
+## Article 2 — Definitions
+
+1\. For the purposes of this Regulation:
+
+(a) ‘reference period’ means a period to which data refer;
+
+(b) ‘reference year’ means a reference period of 1 calendar year;
+
+(c) ‘NACE Rev. 2’ means the common statistical classification of economic activities within the Union, as established by Regulation (EC) No 1893/2006 of the European Parliament and of the Council ( 1 );
+
+(d) ‘NUTS’ means the common classification of territorial units for the production of regional statistics within the Union, as established by Regulation (EC) No 1059/2003 of the European Parliament and of the Council ( 2 );
+
+(e) ‘usual environment’ means the geographical area, though not necessarily a contiguous one, within which an individual conducts his regular life routines and shall be determined on the basis of the following criteria: the crossing of administrative borders or the distance from the place of usual residence, the duration of the visit, the frequency of the visit, the purpose of the visit;
+
+(f) ‘tourism’ means the activity of visitors taking a trip to a main destination outside their usual environment, for less than a year, for any main purpose, including business, leisure or other personal purpose, other than to be employed by a resident entity in the place visited;
+
+(g) ‘domestic tourism’ means visits within a Member State by visitors who are residents of that Member State;
+
+(h) ‘inbound tourism’ means visits to a Member State by visitors who are not residents of that Member State;
+
+(i) ‘outbound tourism’ means visits by residents of a Member State outside that Member State;
+
+(j) ‘national tourism’ means domestic and outbound tourism;
+
+(k) ‘internal tourism’ means domestic and inbound tourism;
+
+(l) ‘tourist accommodation establishment’ means a local kind-of-activity unit, as defined in the Annex to Council Regulation (EEC) No 696/93 of 15 March 1993 on the statistical units for the observation and analysis of the production system in the Community ( 3 ), providing as a paid service — although the price might be partially or fully subsidised — short-stay accommodation services as described in groups 55.1 (hotels and similar accommodation), 55.2 (holiday and other short-stay accommodation) and 55.3 (camping grounds, recreational vehicle parks and trailer parks) of NACE Rev. 2;
+
+(m) ‘non-rented accommodation’ means, inter alia, accommodation provided without charge by family or friends and accommodation in owner-occupied vacation homes, including time share properties;
+
+(n) ‘same-day visits’ means visits without overnight stay made by residents outside their usual environment and which originated from the place of usual residence.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 11 concerning amendments to the definitions in paragraph 1 of this Article for the purpose of adapting those definitions to changes to international definitions.
+
+## Article 3 — Subjects covered and characteristics of the required data
+
+1\. For the purposes of this Regulation, the data to be transmitted by the Member States in accordance with Article 9 shall relate to:
+
+(a) internal tourism, in terms of the capacity and occupancy of tourist accommodation establishments, for the variables, periodicity and breakdowns laid down in Sections 1, 2 and 3 of Annex I;
+
+(b) internal tourism, in terms of tourism nights spent in non-rented accommodation, for the variables, periodicity and breakdowns laid down in Section 4 of Annex I;
+
+(c) national tourism, in terms of the tourism demand, which concerns the participation in tourism and the characteristics of tourism trips and visitors, for the variables, periodicity and breakdowns laid down in Sections 1 and 2 of Annex II;
+
+(d) national tourism, in terms of the tourism demand, which concerns the characteristics of same-day visits, for the variables, periodicity and breakdowns laid down in Section 3 of Annex II.
+
+2\. The Commission shall be empowered to adopt, where necessary, delegated acts in accordance with Article 11 concerning adaptation of the Annexes, except for the optional nature of the required data and to the limitation of the scope as defined in the Annexes in order to take account of economic, social or technical developments. In exercising its power pursuant to this provision, the Commission shall ensure that any delegated acts adopted do not impose significant additional administrative burdens on the Member States and on the respondents.
+
+## Article 4 — Scope of observation
+
+The scope of observation for the requirements laid down in:
+
+(a) Article 3(1)(a) shall be all tourist accommodation establishments as defined in Article 2(1)(l), unless otherwise specified in Annex I;
+
+(b) Article 3(1)(b) shall be all tourism nights by residents and non-residents spent in non-rented accommodation;
+
+(c) Article 3(1)(c), as regards the data on participation in tourism, shall be all individuals residing in the territory of the Member State, unless otherwise specified in Section 1 of Annex II;
+
+(d) Article 3(1)(c), as regards the data on characteristics of tourism trips and visitors, shall be all tourism trips with at least one overnight stay outside the usual environment by the resident population and which ended during the reference period, unless otherwise specified in Section 2 of Annex II;
+
+(e) Article 3(1)(d), as regards the characteristics of same-day visits, shall be all same-day visits as defined in Article 2(1)(n), unless otherwise specified in Section 3 of Annex II.
+
+## Article 5 — Pilot studies
+
+1\. The Commission shall draw up a programme for pilot studies which may be carried out by Member States on a voluntary basis in order to prepare the development, production and dissemination of harmonised tables for tourism satellite accounts and to assess the benefits in relation to the cost of the compilation.
+
+2\. The Commission shall also draw up a programme for pilot studies which may be carried out by Member States on a voluntary basis in order to develop a system for the compilation of data showing the effects of tourism on the environment.
+
+## Article 6 — Quality criteria and reports
+
+1\. Member States shall ensure the quality of the data transmitted.
+
+2\. For the purposes of this Regulation, the quality criteria as laid down in Article 12(1) of Regulation (EC) No 223/2009 shall apply.
+
+3\. Every year, Member States shall provide the Commission (Eurostat) with a report on the quality of the data relating to the reference periods in the reference year, and on any methodological changes that have been made. The report shall be provided within 9 months after the end of the reference year.
+
+4\. In applying the quality criteria referred to in paragraph 2 to the data covered by this Regulation, the arrangements for and structure of the quality reports shall be defined by the Commission in the form of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 12(2).
+
+## Article 7 — Evaluation report
+
+By 12 August 2016 and every 5 years thereafter, the Commission shall submit an evaluation report to the European Parliament and to the Council on the statistics compiled pursuant to this Regulation and, in particular, on their relevance and the burden on business.
+
+## Article 8 — Data sources
+
+As regards the basis on which the data is collected, Member States shall take any measures they deem appropriate to maintain the quality of the results. Member States may produce the necessary statistical data by using a combination of the following different sources:
+
+(a) surveys, where reporting units are asked to give timely, accurate and complete data;
+
+(b) other appropriate sources, including administrative data, if these are appropriate in terms of timeliness and relevance;
+
+(c) appropriate statistical estimation procedures.
+
+## Article 9 — Transmission of data
+
+1\. Member States shall transmit the data, including confidential data, to the Commission (Eurostat), in accordance with Article 21 of Regulation (EC) No 223/2009.
+
+2\. Member States shall transmit the data listed in Annex I and in Sections 1 and 3 of Annex II in the form of aggregate tables, in accordance with an interchange standard specified by the Commission (Eurostat). The data shall be transmitted or uploaded by electronic means to the single entry point for data at the Commission (Eurostat). The practical arrangements for the transmission of the data shall be adopted by the Commission in the form of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 12(2).
+
+3\. Member States shall transmit the data listed in Section 2 of Annex II in the form of micro-data files — with each observed trip being an individual record in the transmitted dataset — which shall be fully checked, edited and, where necessary, imputed, in accordance with an interchange standard specified by the Commission (Eurostat). The data shall be transmitted or uploaded by electronic means to the single entry point for data at the Commission (Eurostat). The practical arrangements for the transmission of the data shall be adopted by the Commission in the form of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 12(2).
+
+4\. Member States shall transmit:
+
+(a) the validated annual data listed in Sections 1 and 2 of Annex I within 6 months after the end of the reference period, unless otherwise specified in Annex I;
+
+(b) the validated monthly data listed in Section 2 of Annex I within 8 weeks after the end of the reference periods for reference years 2020 and 2021, and within 6 weeks after the end of the reference period as of reference year 2022;
+
+(c) the validated data listed in Section 4 of Annex I within 9 months after the end of the reference period, if the Member State concerned opts in favour of transmitting them;
+
+(d) the validated data listed in Annex II within 6 months after the end of the reference period.
+
+5\. The Commission shall be empowered to adopt, where necessary, delegated acts in accordance with Article 11 concerning amendments to the transmission deadlines laid down in paragraph 4 of this Article in order to take account of economic, social or technical developments. Any such amendments shall take into account the existing data collection practices in the Member States.
+
+6\. For all data required by this Regulation, the first reference period, unless otherwise specified, shall begin on 1 January 2012.
+
+## Article 10 — Methodological manual
+
+The Commission (Eurostat) shall, in close cooperation with the Member States, draw up and regularly update a methodological manual which shall contain guidelines on the statistics produced pursuant to this Regulation, including definitions to be applied to the characteristics of the required data and common standards designed to ensure the quality of the data.
+
+## Article 11 — Exercise of the delegation
+
+1\. The power to adopt the delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The delegation of power referred to in Articles 2(2), 3(2) and 9(5) shall be conferred on the Commission for a period of 5 years from 11 August 2011. The Commission shall draw up a report in respect of the delegation of power not later than 9 months before the end of the 5-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than 3 months before the end of each period.
+
+3\. The delegation of power referred to in Articles 2(2), 3(2) and 9(5) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to Articles 2(2), 3(2) and 9(5) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or the Council.
+
+## Article 12 — Committee
+
+1\. The Commission shall be assisted by the European Statistical System Committee established by Regulation (EC) No 223/2009. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 13 — Repeal
+
+Directive 95/57/EC is hereby repealed.
+
+Member States shall provide results in accordance with Directive 95/57/EC for all reference periods for 2011.
+
+## Article 14 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**INTERNAL TOURISM**
+
+**Section 1**
+
+**CAPACITY OF TOURIST ACCOMMODATION ESTABLISHMENTS**
+
+**A. Variables and breakdowns to be transmitted**
+
+(1) At regional NUTS level 2 and at national level to be transmitted for annual data
+
+| Type of accommodation | Variables | Breakdowns |
+| --- | --- | --- |
+| NACE 55.1 | Number of establishments Number of bed places Number of bedrooms | Type of locality (a) and (b) |
+| NACE 55.2 | Number of establishments Number of bed places | Type of locality (a) and (b) |
+| NACE 55.3 | Number of establishments Number of bed places | Type of locality (a) and (b) |
+
+(2) [optional] At national level to be transmitted for annual data
+
+| Type of accommodation | Variables | Breakdowns |
+| --- | --- | --- |
+| NACE 55.1 | Number of establishments Number of bed places Number of bedrooms | Size class |
+
+(3) At national level to be transmitted for triennial data
+
+| Type of accommodation | Variables | Breakdowns |
+| --- | --- | --- |
+| NACE 55.1 | Number of establishments having one or more bedrooms accessible for persons with reduced mobility, including wheelchair users |  |
+
+**B. Limitation of the scope**
+
+(1) For ‘hotels and similar accommodation’ and for ‘holiday and other short-stay accommodation’, the scope of observation shall at least include all tourist accommodation establishments having 10 or more bed places.
+
+(2) For ‘camping grounds, recreational vehicle parks and trailer parks’, the scope of observation shall at least include all tourist accommodation establishments having 10 or more pitches.
+
+(3) Member States accounting for less than 1 % of the total annual number of nights spent at tourist accommodation establishments in the European Union may further reduce the scope of observation, to include at least all tourist accommodation establishments having 20 or more bed places (20 or more pitches).
+
+**C. Periodicity**
+
+The first reference year for the triennial variable listed under heading A(3) shall be 2015.
+
+**Section 2**
+
+**OCCUPANCY OF TOURIST ACCOMMODATION ESTABLISHMENTS (DOMESTIC AND INBOUND)**
+
+**A. Variables and breakdowns to be transmitted for annual data**
+
+(1) At regional NUTS level 2 and at national level
+
+<table>
+<tbody><tr><td>Type of accommodation</td><td>Variables</td><td>Breakdowns</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Total (all types of tourist accommodation establishments)</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>Type of locality (a) and (b) NUTS 3 level regions  Months of the reference year [optional if NUTS 2 level covers the entire Member State] </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td rowspan="3">NACE 55.1</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td>Net occupancy rates of bed places Net occupancy rate of bedrooms </td><td>  </td></tr>
+<tr><td rowspan="2">NACE 55.2</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td rowspan="2">NACE 55.3</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>  </td></tr>
+</tbody>
+</table>
+
+(2) At national level
+
+<table>
+<tbody><tr><td>Type of accommodation</td><td>Variables</td><td>Breakdowns</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>Total (all types of tourist accommodation establishments)</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>Type of locality (a) combined with Type of locality (b) Cities </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td rowspan="3">NACE 55.1</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>Type of locality (a) and (b) Country or geographical area of residence of the guest  [optional] Size classes </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>Country or geographical area of residence of the guest</td></tr>
+<tr><td>Net occupancy rates of bed places Net occupancy rate of bedrooms </td><td>[optional] Size classes</td></tr>
+<tr><td rowspan="2">NACE 55.2</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>Type of locality (a) and (b) Country or geographical area of residence of the guest </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>Country or geographical area of residence of the guest</td></tr>
+<tr><td rowspan="2">NACE 55.3</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>Type of locality (a) and (b) Country or geographical area of residence of the guest </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>Country or geographical area of residence of the guest</td></tr>
+</tbody>
+</table>
+
+**B. Variables and breakdowns to be transmitted for monthly data at national level**
+
+<table>
+<tbody><tr><td>Type of accommodation</td><td>Variables</td><td>Breakdowns</td></tr>
+<tr><td rowspan="3">NACE 55.1</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td>Net occupancy rates of bed places Net occupancy rate of bedrooms </td><td>  </td></tr>
+<tr><td rowspan="2">NACE 55.2</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td rowspan="2">NACE 55.3</td><td>Number of nights spent by residents at tourist accommodation establishments Number of nights spent by non-residents at tourist accommodation establishments </td><td>  </td></tr>
+<tr><td>Arrivals of residents at tourist accommodation establishments Arrivals of non-residents at tourist accommodation establishments </td><td>  </td></tr>
+</tbody>
+</table>
+
+**C. Limitation of the scope**
+
+(1) For ‘hotels and similar accommodation’ and for ‘holidays and other short-stay accommodation’, the scope of observation shall at least include all tourist accommodation establishments having 10 or more bed places.
+
+(2) For ‘camping grounds, recreational vehicle parks and trailer parks’, the scope of observation shall at least include all tourist accommodation establishments having 10 or more pitches.
+
+(3) Member States accounting for less than 1 % of the total annual number of nights spent at tourist accommodation establishments in the European Union may further reduce the scope of observation, to at least include all tourist accommodation establishments having 20 or more bed places (20 or more pitches).
+
+(4) Where a limitation to the scope as described under (1), (2) or (3) is applied, an estimate of the total number of nights spent during the reference year by residents and non-residents in the tourist accommodation establishments excluded from the scope of observation shall be transmitted annually.
+
+(5) For the first reference year for which data is required by this Regulation, the estimate as described under (4) shall be transmitted within 12 months after the end of the reference period.
+
+(6) Member States may further reduce the scope of observation for the net occupancy rate of bedrooms in hotels and similar accommodation, to include at least all tourist accommodation establishments having 25 or more bedrooms.
+
+**Section 3**
+
+**CLASSIFICATIONS TO BE APPLIED FOR SECTION 1 AND SECTION 2**
+
+**A. Type of accommodation**
+
+The three categories to be used for type of accommodation, referring to NACE groups 55.1, 55.2 and 55.3, are:
+
+— hotels and similar accommodation,
+
+— holidays and other short-stay accommodation,
+
+— camping grounds, recreational vehicle parks and trailer parks.
+
+**B. Type of locality (a)**
+
+The three categories to be used for type of locality (a), referring to the degree of urbanisation of the municipality (or equivalent local administrative unit) where the tourist accommodation establishments are located, are:
+
+— densely populated area,
+
+— intermediate area,
+
+— thinly populated area.
+
+**C. Type of locality (b)**
+
+The two categories to be used for type of locality (b), referring to the location close to the sea of the municipality (or equivalent local administrative unit) where the tourist accommodation establishments are located, are:
+
+— coastal,
+
+— non-coastal.
+
+**D. Size class**
+
+The three categories to be used for size class, referring to the number of bedrooms in the tourist accommodation establishments, are:
+
+— small establishments: less than 25 bedrooms,
+
+— medium-sized establishments: between 25 and 99 bedrooms,
+
+— large establishments: 100 or more bedrooms; to be reported separately on an optional basis: ‘between 100 and 249 bedrooms’ and ‘250 or more bedrooms’.
+
+**E. Countries and geographical areas**
+
+The categories to be used for the country or the geographical area of residence of guests staying at tourist accommodation establishments are:
+
+— European Union (the Union); to be reported separately: each Member State,
+
+— European Free Trade Association (EFTA); to be reported separately: Iceland, Norway, Switzerland (including Liechtenstein),
+
+— other European countries (apart from EU or EFTA; not including the United Kingdom, Russia, Turkey, Ukraine),
+
+— the United Kingdom,
+
+— Russia,
+
+— Turkey,
+
+— Ukraine,
+
+— Africa; to be reported separately: South Africa,
+
+— North America; to be reported separately: United States of America, Canada,
+
+— South and Central America; to be reported separately: Brazil,
+
+— Asia; to be reported separately: People’s Republic of China, Japan, Republic of Korea,
+
+— Australia, Oceania and other territories; to be reported separately: Australia.
+
+**F. Cities**
+
+The cities for which data shall be transmitted shall be in accordance with Article 4b(3) of Regulation (EC) No 1059/2003 and they shall include at least:
+
+— those cities that, jointly, account for 90 % of the annual nights spent at tourism accommodation in cities in the country;
+
+— the capital city;
+
+— all cities with 200 000 inhabitants or more.
+
+For this purpose, cities are those local administrative unit (LAU) where at least 50 % of the population lives in an urban centres; an urban centre is a cluster of contiguous grid cells of 1 km2 with a density of at least 1 500 inhabitants per km2 and collectively a population of at least 50 000 inhabitants. The Commission (Eurostat) together with the Member States shall regularly update the list of cities. Member States shall transmit the data for the most recent list of cities available on 31 December of the reference year.
+
+**Section 4**
+
+**INTERNAL TOURISM IN NON-RENTED ACCOMMODATION**
+
+**A. Variables to be transmitted for annual data**
+
+[optional] Number of tourism nights spent in non-rented accommodation during the reference year.
+
+**B. Breakdown**
+
+[optional] The variable listed under heading A shall be broken down by country of residence of the visitors as far as Union residents are concerned, while visitors residing outside the Union shall be grouped in a single additional category.
+
+## ANNEX II
+
+**NATIONAL TOURISM**
+
+**Section 1**
+
+**PARTICIPATION IN TOURISM FOR PERSONAL PURPOSES**
+
+**A. Variables and breakdowns to be transmitted for annual data**
+
+| Variables | Breakdowns by duration and by destination of tourism trips for personal purposes | Socio-demographic breakdowns |
+| --- | --- | --- |
+| 1. Number of residents, aged 15 or over, participating in tourism for personal purposes during the reference year 2. Number of residents, aged 15 or over, not participating in tourism for personal purposes during the reference year | (a) Any trip (i.e. having made at least 1 trip of at least 1 overnight stay) (b) Domestic trips only (i.e. having made at least 1 domestic trip of at least 1 overnight stay, but no outbound trips) (c) Outbound trips only (i.e. having made at least 1 outbound trip of at least 1 overnight stay, but no domestic trips) (d) Domestic and outbound trips (i.e. having made at least 1 domestic trip of at least 1 overnight stay and at least 1 outbound trip of at least 1 overnight stay) (e) Short trips (i.e. having made at least 1 trip of 1 to 3 overnight stays) (f) Long trips (i.e. having made at least 1 trip of 4 or more overnight stays) (g) Long trips, domestic trips only (i.e. having made at least 1 domestic trip of 4 or more overnight stays, but no outbound trips of 4 or more overnight stays) (h) Long trips, outbound trips only (i.e. having made at least 1 outbound trip of 4 or more overnight stays, but no domestic trips of 4 or more overnight stays) (i) Long trips, domestic and outbound trips (i.e. having made at least 1 domestic trip of 4 or more overnight stays and at least 1 outbound trip of 4 or more overnight stays) | 1. Gender 2. Age group 3. [optional] Educational attainment level  4. [optional] Employment situation 5. [optional] Household income |
+
+The breakdowns by duration and by destination of tourism trips for personal purposes shall be combined with the socio-demographic breakdowns.
+
+**B. Variables and breakdowns to be transmitted for triennial data**
+
+| Variables | Breakdowns by main reasons for not participating in tourism for personal purposes during the reference year (with multiple answer possibilities for the respondents) | Socio-demographic breakdowns |
+| --- | --- | --- |
+| 1. Number of residents, aged 15 or over, not participating in tourism for personal purposes during the reference year (i.e. not having made any trip with at least 1 overnight stay for personal purposes during the reference year) | (a) Financial reasons (no money available for holiday trips, cannot afford to go on holiday) (b) Lack of free time due to family commitments (c) Lack of free time due to work or study commitments (d) Health reasons or reduced mobility (e) Prefer to stay at home, no motivation to travel (f) Safety (g) Other reasons | 1. Gender 2. Age group 3. [optional] Educational attainment level  4. [optional] Employment situation 5. [optional] Household income |
+
+The breakdowns by main reasons for not participating in tourism for personal purposes during the reference year shall be combined with the socio-demographic breakdowns.
+
+The first reference year for the triennial variables shall be 2013.
+
+**C. Classifications to be applied for socio-demographic breakdowns**
+
+(1) Gender : male, female.
+
+(2) Age group : less than 15 [optional], 15-24, 25-34, 35-44, 45-54, 55-64, 65 or over, with subtotals for 25-44 and 45-64.
+
+(3) Educational attainment level : at most lower secondary, upper secondary and post-secondary (non-tertiary), tertiary.
+
+(4) Employment situation : employed (employee or self-employed), unemployed, student (or pupil), other not in the labour force.
+
+(5) Household income : in quartiles.
+
+**Section 2**
+
+**TOURISM TRIPS AND VISITORS MAKING THE TRIPS**
+
+**A. Variables to be transmitted**
+
+<table>
+<tbody><tr><td>  </td><td>Variables</td><td>Categories to be transmitted</td><td>Periodicity</td></tr>
+<tr><td>1.</td><td>Month of departure</td><td>  </td><td>Annual</td></tr>
+<tr><td>2.</td><td>Duration of the trip in number of nights</td><td>  </td><td>Annual</td></tr>
+<tr><td>3.</td><td>[Only for outbound trips] Duration of the trip: number of nights spent on the domestic territory</td><td>  </td><td>Triennial</td></tr>
+<tr><td>4.</td><td>Main country of destination</td><td>Following the country list in the methodological manual drawn up under Article 10 of this Regulation</td><td>Annual</td></tr>
+<tr><td>5.</td><td>Main purpose of the trip</td><td>(a) Personal: leisure, recreation and holidays (b) Personal: visiting relatives and friends  (c) Personal: other (e.g. pilgrimage, health treatment)  (d) Professional/business </td><td>Annual</td></tr>
+<tr><td>6.</td><td>[Only for trips for personal purposes] Type of destination, with multiple answer possibilities</td><td>(a) City (b) Seaside  (c) Countryside (including lakeside, river, etc.)  (d) Cruise ship  (e) Mountains (highlands, hills, etc.)  (f) Other </td><td>Triennial</td></tr>
+<tr><td>7.</td><td>[Only for trips for personal purposes] Participation of children in the travel party</td><td>(a) Yes (b) No </td><td>Triennial</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>8.</td><td>Main means of transport</td><td>(a) Air (flight services, scheduled or chartered, or other air services) (b) Waterway (such as passenger lines and ferries, cruises, pleasure boat, rented vessel)  (c) Railway  (d) Bus, coach (regular/scheduled or occasional/non-scheduled)  (d1) [optional] Regular/scheduled bus or coach  (d2) [optional] Occasional/non-scheduled bus or coach  (e) Private motor vehicle (owned or leasing, including friends/relatives’ car)  (f) Rented motor vehicle (including ride-sharing or car-sharing platforms)  (g) Other (such as bicycle) </td><td>Annual</td></tr>
+<tr><td>9.</td><td>Main means of accommodation</td><td>(a) Rented accommodation: hotels or similar accommodation (b) Rented accommodation: campsites, caravan or trailer park (non-residential)  (c) Rented accommodation: such as house, villa, apartment; rented room(s) in a dwelling  (d) Rented accommodation: other rented accommodation (such as youth hostels, marinas, health establishments)  (e) Non-rented accommodation: own holiday home  (f) Non-rented accommodation: accommodation provided free of charge by relatives or friends  (g) Non-rented accommodation: other non-rented accommodation </td><td>Annual</td></tr>
+<tr><td>10.</td><td>Booking of the trip: internet booking of the main means of accommodation</td><td>(a) Yes (b) No </td><td>Triennial</td></tr>
+<tr><td>11.</td><td>Booking of the trip: booking channel for the main means of accommodation</td><td>(a) Directly with the accommodation provider (b) Via a travel agency, tour operator, portal or short-term property or holiday letting agency listing multiple accommodation providers  (c) No booking was needed </td><td>Triennial</td></tr>
+<tr><td>11a.</td><td>[Only for trips with accommodation booked using the internet via a travel agency, tour operator, portal or short-term property or holiday letting agency; only for trips with main means of accommodation ‘rented accommodation: such as house, villa, apartment; rented room(s) in a dwelling’] Booking of the main means of accommodation via a website or app such as Airbnb, Booking.com, Expedia, HomeAway </td><td>(a) Yes (b) No </td><td>Triennial</td></tr>
+<tr><td>12.</td><td>Booking of the trip: internet booking of the main means of transport</td><td>(a) Yes (b) No </td><td>Triennial</td></tr>
+<tr><td>13.</td><td>Booking of the trip: booking channel for the main means of transport</td><td>(a) Directly with the transport provider (b) Via a travel agency, tour operator, portal  (c) No booking was needed </td><td>Triennial</td></tr>
+<tr><td>13a.</td><td>[Optional] [Only for trips with transport booked using the internet via a travel agency, tour operator, portal] Booking of the main means of transport via a website or app such as BlaBlaCar </td><td>(a) Yes (b) No </td><td>Triennial</td></tr>
+<tr><td>14.</td><td>Booking of the trip: package trip</td><td>(a) Yes (b) No </td><td>Triennial</td></tr>
+<tr><td>15.</td><td>Booking of the trip: internet booking of the package</td><td>(a) Yes (b) No </td><td>Triennial</td></tr>
+<tr><td>15a.</td><td>Expenditure of the individual tourist during the trip on packages</td><td>  </td><td>Annual</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>16.</td><td>Expenditure of the individual tourist during the trip on transport</td><td>  </td><td>Annual</td></tr>
+<tr><td>17.</td><td>Expenditure of the individual tourist during the trip on accommodation</td><td>  </td><td>Annual</td></tr>
+<tr><td>18.</td><td>[optional] Expenditure of the individual tourist during the trip on food and drinks in cafés and restaurants</td><td>  </td><td>Annual</td></tr>
+<tr><td>19.</td><td>Other expenditure of the individual tourist during the trip; (19a) to be reported separately: durables and valuable goods</td><td>  </td><td>Annual</td></tr>
+<tr><td>20.</td><td>Profile of the visitor: gender, using the following categories</td><td>(a) Male (b) Female </td><td>Annual</td></tr>
+<tr><td>21.</td><td>Profile of the visitor: age, in completed years</td><td>  </td><td>Annual</td></tr>
+<tr><td>22.</td><td>Profile of the visitor: country of residence</td><td>  </td><td>Annual</td></tr>
+<tr><td>23.</td><td> [optional] Profile of the visitor: educational attainment level  </td><td><br> (a) At most lower secondary <br> (b) Upper secondary and post-secondary (non-tertiary) <br> (c) Tertiary   </td><td>Annual</td></tr>
+<tr><td>24.</td><td>[optional] Profile of the visitor: employment situation</td><td>(a) Employed (employee or self-employed) (b) Unemployed  (c) Student (or pupil)  (d) Other not in the labour force </td><td>Annual</td></tr>
+<tr><td>25.</td><td>[optional] Profile of the visitor: household income in quartiles</td><td>  </td><td>Annual</td></tr>
+</tbody>
+</table>
+
+**B. Limitation of the scope**
+
+The scope of observation shall be all tourism trips with at least one overnight stay outside the usual environment by the resident population aged 15 and over and which ended during the reference period. The data on the population under 15 years of age can be transmitted separately on an optional basis.
+
+**C. Periodicity**
+
+(1) The first reference year for the triennial variables and categories listed under headings A(3), A(6), A(7) shall be 2013.
+
+(2) The first reference year for the triennial variables and categories listed under headings A(10) to A(15) shall be 2014.
+
+**Section 3**
+
+**SAME-DAY VISITS**
+
+**A. Variables and breakdowns to be transmitted on an annual basis (outbound same-day visits)**
+
+<table>
+<tbody><tr><td>Variables</td><td>[optional] Breakdowns </td><td>[optional] Socio-demographic breakdowns </td></tr>
+<tr><td>1. Number of outbound same-day visits for personal purposes 2. Number of outbound same-day visits for professional reasons </td><td>(a) by country of destination</td><td rowspan="2"> 1. Gender <br> 2. Age group <br> 3. Educational attainment level   <br> 4. Employment situation <br> 5. Household income </td></tr>
+<tr><td>3. Expenditure on outbound same-day visits for personal purposes 4. Expenditure on outbound same-day visits for professional reasons </td><td>(a) by country of destination (b) by expenditure category: transport, shopping, restaurants/cafés, other </td></tr>
+</tbody>
+</table>
+
+**B. Variables and breakdowns to be transmitted on a triennial basis (domestic same-day visits)**
+
+<table>
+<tbody><tr><td>Variables</td><td>[optional] Breakdowns </td><td>[optional] Socio-demographic breakdowns </td></tr>
+<tr><td>1. Number of domestic same-day visits for personal purposes 2. Number of domestic same-day visits for professional reasons </td><td>  </td><td rowspan="2"> 1. Gender <br> 2. Age group <br> 3. Educational attainment level   <br> 4. Employment situation <br> 5. Household income </td></tr>
+<tr><td>3. Expenditure on domestic same-day visits for personal purposes 4. Expenditure on domestic same-day visits for professional reasons </td><td>(a) by expenditure category: transport, shopping, restaurants/cafés, other</td></tr>
+</tbody>
+</table>
+
+**C. Classifications to be applied for socio-demographic breakdowns**
+
+The classifications to be applied for socio-demographic breakdowns are those listed in heading C of Section 1 of this Annex.
+
+**D. Limitation of the scope**
+
+The scope of observation shall be all same-day visits outside the usual environment by the resident population aged 15 and over. The data on the population under 15 years of age can be transmitted separately on an optional basis.
+
+**E. Periodicity and first reference periods**
+
+(1) The characteristics of same-day visits listed under heading A shall be transmitted annually, reporting separately the four quarters of the previous calendar year. The first reference period shall begin on 1 January 2014.
+
+(2) The characteristics of same-day visits listed under heading B shall be transmitted every 3 years, reporting separately the four quarters of the previous calendar year. The first reference period shall begin on 1 January 2015. For the first reference period only, transmission shall be optional.
+
+( 1 ) OJ L 393, 30.12.2006, p. 1.
+
+( 2 ) OJ L 154, 21.6.2003, p. 1.
+
+( 3 ) OJ L 76, 30.3.1993, p. 1.

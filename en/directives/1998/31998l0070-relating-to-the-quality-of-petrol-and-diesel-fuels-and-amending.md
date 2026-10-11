@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **relating to the quality of petrol and diesel fuels and amending Council Directive 93/12/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DIRECTIVE 2000/71/EC of 7 November 2000 </td><td> L 287</td><td>46</td><td>14.11.2000</td></tr>
@@ -33,6 +34,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE (EU) 2015/1513 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 September 2015 </td><td> L 239</td><td>1</td><td>15.9.2015</td></tr>
 <tr><td></td><td> REGULATION (EU) 2018/1999 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 December 2018 </td><td> L 328</td><td>1</td><td>21.12.2018</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2023/2413 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 October 2023 </td><td> L </td><td>1</td><td>31.10.2023</td></tr>
+</table>
 
 **DIRECTIVE 98/70/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -246,6 +248,7 @@ This Directive is addressed to the Member States.
 
 Type: Petrol
 
+<table>
 <tbody><tr><td rowspan="2">Parameter (1)</td><td rowspan="2">Unit</td><td colspan="2">Limits (2)</td></tr>
 <tr><td>Minimum</td><td>Maximum</td></tr>
 <tr><td>Research octane number</td><td>  </td><td>95 (3)</td><td>—</td></tr>
@@ -271,11 +274,13 @@ Type: Petrol
 <tr><td>Lead content</td><td>g/l</td><td>—</td><td>0,005</td></tr>
 <tr><td colspan="4">(1)  Test methods shall be those specified in EN 228:2012+A1:2017. Member States may adopt the analytical method specified in replacement EN 228:2012+A1:2017 standard if it can be shown to give at least the same accuracy and at least the same level of precision as the analytical method it replaces.    (2)  The values quoted in the specification are ‘true values’. In the establishment of their limit values, the terms of EN ISO 4259-1:2017/A1:2021 ‘Petroleum and related products – Precision of measurement methods and results – Part 1: Determination of precision data in relation to methods of test’ have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in EN ISO 4259-2:2017/A1:2019.  (3)  Member States may decide to continue to permit the placing on the market of unleaded regular grade petrol with a minimum motor octane number (MON) of 81 and a minimum research octane number (RON) of 91.  (4)  The summer period shall begin no later than 1 May and shall not end before 30 September. For Member States with low ambient summer temperatures the summer period shall begin no later than 1 June and shall not end before 31 August.  (5)  In the case of Member States with low ambient summer temperatures and for which a derogation is in effect in accordance with Article 3(4) and (5), the maximum vapour pressure shall be 70 kPa. In the case of Member States for which a derogation is in effect in accordance with Article 3(4) and (5) for petrol containing ethanol, the maximum vapour pressure shall be 60 kPa plus the vapour pressure waiver specified in Annex III.  (6)  Other mono-alcohols and ethers with a final boiling point no higher than that stated in EN 228:2012 +A1:2017. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — ENVIRONMENTAL SPECIFICATIONS FOR MARKET FUELS TO BE USED FOR VEHICLES EQUIPPED WITH COMPRESSION IGNITION ENGINES
 
 Type: Diesel
 
+<table>
 <tbody><tr><td rowspan="2">Parameter (1)</td><td rowspan="2">Unit</td><td colspan="2">Limits (2)</td></tr>
 <tr><td>Minimum</td><td>Maximum</td></tr>
 <tr><td>Cetane number</td><td>  </td><td>51,0</td><td>—</td></tr>
@@ -287,11 +292,13 @@ Type: Diesel
 <tr><td>FAME content — EN 14078</td><td>% v/v</td><td>—</td><td> 10,0  (3)</td></tr>
 <tr><td colspan="4">(1)  Test methods shall be those specified in EN 590:2013+A1:2017. Member States may adopt the analytical method specified in replacement EN 590:2013+A1:2017 standard if it can be shown to give at least the same accuracy and at least the same level of precision as the analytical method it replaces.    (2)  The values quoted in the specification are ‘true values’. In the establishment of their limit values, the terms of EN ISO 4259-1:2017/A1:2021 ‘Petroleum and related products – Precision or measurement methods and results – Part 1: Determination of precision data in relation to methods of test’ have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in EN ISO 4259-2:2017/A1:2019.  (3)  FAME shall comply with EN 14214. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX III
 
 **VAPOUR PRESSURE WAIVER PERMITTED FOR PETROL CONTAINING BIOETHANOL**
 
+<table>
 <tbody><tr><td>Bioethanol content (%v/v)</td><td>Vapour pressure waiver permitted (kPa) (1)</td></tr>
 <tr><td>0 </td><td>0 </td></tr>
 <tr><td>1 </td><td>3,7 </td></tr>
@@ -306,6 +313,7 @@ Type: Diesel
 <tr><td>10 </td><td>7,8 </td></tr>
 <tr><td colspan="2">(1)  The values quoted in the specification are ‘true values’. In the establishment of their limit values, the terms of EN ISO 4259:2006 ‘Petroleum products — Determination and application of precision data in relation to methods of test’ have been applied and in fixing a minimum value, a minimum difference of 2R above zero has been taken into account (R = reproducibility). The results of individual measurements shall be interpreted on the basis of the criteria described in EN ISO 4259:2006. </td></tr>
 </tbody>
+</table>
 
 The permitted vapour pressure waiver for intermediate bioethanol content between the values listed shall be determined by a straight line interpolation between the bioethanol content immediately above and that immediately below the intermediate value.
 

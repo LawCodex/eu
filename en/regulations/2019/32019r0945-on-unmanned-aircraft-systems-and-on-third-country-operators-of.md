@@ -1,0 +1,1669 @@
+---
+title: "Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems"
+identifier: "32019R0945"
+eli: "http://data.europa.eu/eli/reg_del/2019/945/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2019-03-12
+entry_into_force: 2020-01-09
+last_amended: 2025-06-24
+consolidated_version: "02019R0945-20250624"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R0945-20250624"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/945**
+
+**of 12 March 2019**
+
+**on unmanned aircraft systems and on third-country operators of unmanned aircraft systems**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1058 of 27 April 2020 </td><td> L 232</td><td>1</td><td>20.7.2020</td></tr>
+<tr><td> M2</td><td> COMMISSION DELEGATED REGULATION (EU) 2022/851 of 22 March 2022 </td><td> L 150</td><td>21</td><td>1.6.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1108 of 13 March 2024 </td><td> L 1108</td><td>1</td><td>23.5.2024</td></tr>
+<tr><td> M4</td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1130 of 18 March 2025 </td><td> L 1130</td><td>1</td><td>4.6.2025</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2019/945**
+
+**of 12 March 2019**
+
+**on unmanned aircraft systems and on third-country operators of unmanned aircraft systems**
+
+## CHAPTER I — General provisions
+
+#### Article 1 — Subject matter
+
+1\. This Regulation lays down the requirements for the design and manufacture of unmanned aircraft systems (‘UAS’) intended to be operated under the rules and conditions defined in Implementing Regulation (EU) 2019/947 and of remote identification add-ons. It also defines the type of UAS whose design, production and maintenance shall be subject to certification.
+
+2\. It also establishes rules on making UAS and accessories kit and remote identification add-ons available on the market and on their free movement in the Union.
+
+3\. This Regulation also lays down rules for third-country UAS operators, when they conduct a UAS operation pursuant to Implementing Regulation (EU) 2019/947 within the single European sky airspace.
+
+#### Article 2 — Scope
+
+1\. Chapter II of this Regulation applies to the following products:
+
+(a) UAS intended to be operated under the rules and conditions applicable to the ‘open’ category of UAS operations or to operational declarations under the ‘specific’ category of UAS operations pursuant to Regulation (EU) 2019/947, except privately built UAS, and bearing a class identification label as set out in Parts 1 to 5, 16 and 17 of the Annex to this Regulation indicating to which of the seven UAS classes referred to in Implementing Regulation (EU) 2019/947 it belongs;
+
+(b) class C5 accessories kits as set out in Part 16;
+
+(c) remote identification add-ons as set out in Part 6 of the Annex to this Regulation.
+
+2\. Chapter III of this Regulation applies to UAS operated under the rules and conditions applicable to the ‘certified’ and ‘specific’ categories of UAS operations pursuant to Implementing Regulation (EU) 2019/947 except when conducted under a declaration.
+
+3\. Chapter IV of this Regulation applies to UAS operators that have their principal place of business, are established, or reside in a third country, if the UAS are operated in the Union.
+
+4\. This Regulation does not apply to UAS intended to be exclusively operated indoors.
+
+#### Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘unmanned aircraft’ (‘UA’) means any aircraft operating or designed to operate autonomously or to be piloted remotely without a pilot on board;
+
+(2) ‘equipment to control unmanned aircraft remotely’ means any instrument, equipment, mechanism, apparatus, appurtenance, software or accessory that is necessary for the safe operation of a UA other than a part and which is not carried on board that UA;
+
+(3) ‘unmanned aircraft system’ (‘UAS’) means an unmanned aircraft, as defined in Article 3 point (30) of Regulation (EU) 2018/1139 ( 1 ), and its control and monitoring unit;
+
+(4) ‘unmanned aircraft system operator’ (‘UAS operator’) means any legal or natural person operating or intending to operate one or more UAS;
+
+(5) ‘open’ category' means a category of UAS operations that is defined in Article 4 of Implementing Regulation (EU) 2019/947;
+
+(6) ‘specific’ category means a category of UAS operations that is defined in Article 5 of Implementing Regulation (EU) 2019/947;
+
+(7) ‘certified’ category means a category of UAS operation that is defined in Article 6 of Implementing Regulation (EU) 2019/947;
+
+(8) ‘Union harmonisation legislation’ means any Union legislation harmonising the conditions for placing products on the market;
+
+(9) ‘accreditation’ means accreditation as defined in paragraph 10 of Article 2 of Regulation (EC) No 765/2008;
+
+(10) ‘conformity assessment’ means the process demonstrating whether the specified requirements relating to a product have been fulfilled;
+
+(11) ‘conformity assessment body’ means a body that performs conformity assessment activities including calibration, testing, certification and inspection;
+
+(12) ‘CE marking’ means a marking by which the manufacturer indicates that the product is in conformity with the applicable requirements set out in Union harmonisation legislation providing for its affixing;
+
+(13) ‘manufacturer’ means any natural or legal person who manufactures a product or has a product designed or manufactured, and markets that product under their name or trademark;
+
+(14) ‘authorised representative’ means any natural or legal person established within the Union who has received a written mandate from a manufacturer to act on his behalf in relation to specified tasks;
+
+(15) ‘importer’ means any natural or legal person established within the Union who places a product from a third country on the Union market;
+
+(16) ‘distributor’ means any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a product available on the market;
+
+(17) ‘economic operators’ means the manufacturer, the authorised representative of the manufacturer, the importer, and the distributor of the UAS;
+
+(18) ‘making available on the market’ means any supply of a product for distribution, consumption or use in the Union market in the course of a commercial activity, whether in exchange of payment or free of charge;
+
+(19) ‘placing on the market’ means the first making available of a product on the Union market;
+
+(20) ‘harmonised standard’ means a harmonised standard as defined in point (c) of Article 2(1) of Regulation (EU) No 1025/2012;
+
+(21) ‘technical specification’ means a document that establishes technical requirements to be fulfilled by a product, process or service;
+
+(22) ‘privately built UAS’ means a UAS assembled or manufactured for the builder's own use, not including UAS assembled from a set of parts placed on the market by the manufacturer as a single ready-to-assemble kit;
+
+(23) ‘market surveillance authority’ means an authority of a Member State responsible for carrying out market surveillance on its territory;
+
+(24) ‘recall’ means any measure aimed at achieving the return of a product that has already been made available to the end-user;
+
+(25) ‘withdrawal’ means any measure aimed at preventing a product in the supply chain from being made available on the market;
+
+(26) ‘single European sky airspace’ means airspace above the territory to which the Treaties apply, as well as any other airspace where Member States apply Regulation (EC) No 551/2004 of the European Parliament and of the Council ( 2 ) in accordance with paragraph 3 of Article 1 of that Regulation;
+
+(27) ‘remote pilot’ means a natural person responsible for safely conducting the flight of a UA by operating its flight controls, either manually or, when the UA flies automatically, by monitoring its course and remaining able to intervene and change its course at any time;
+
+(28) ‘maximum take-off mass’ (‘MTOM’) means the maximum UA mass, including payload and fuel, as defined by the manufacturer or the builder, at which the UA can be operated;
+
+(29) ‘payload’ means any instrument, mechanism, equipment, part, apparatus, appurtenance, or accessory, including communications equipment, that is installed in or attached to the aircraft, and is not used or intended to be used in operating or controlling an aircraft in flight, and is not part of an airframe, engine, or propeller;
+
+(30) ‘follow-me mode’ means a mode of operation of a UAS where the unmanned aircraft constantly follows the remote pilot within a predetermined radius;
+
+(31) ‘direct remote identification’ means a system that ensures the local broadcast of information about a UA in operation, including the marking of the UA, so that this information can be obtained without physical access to the UA;
+
+(32) ‘geo-awareness’ means a function that, based on the data provided by Member States, detects a potential breach of airspace limitations and alerts the remote pilots so that they can take effective immediate and action to prevent that breach;
+
+(33) ‘sound power level LWA ’ means the A-weighted sound power in dB in relation to 1 pW as defined in EN ISO 3744:2010;
+
+(34) ‘measured sound power level’ means a sound power level as determined from measurements as laid down in Part 13 of the Annex; measured values may be determined either from a single UA representative for the type of equipment or from the average of a number of UA;
+
+(35) ‘guaranteed sound power level’ means a sound power level determined in accordance with the requirements laid down in Part 13 of the Annex which includes the uncertainties due to production variation and measurement procedures and where the manufacturer, or his authorised representative established in the Community, confirms that according to the technical instruments applied and referred to in the technical documentation it is not exceeded;
+
+(36) ‘hovering’ means staying in the same geographical position in the air;
+
+(37) ‘assemblies of people’ means gatherings where persons are unable to move away due to the density of the people present;
+
+(38) ‘control and monitoring unit’ (‘CMU’) means the equipment to control and monitor unmanned aircraft remotely, as defined in Article 3 point (32) of Regulation (EU) 2018/1139;
+
+(39) ‘C2 link’ means the data link between the unmanned aircraft and the CMU for the purposes of managing the flight;
+
+(40) ‘night’ means the hours between the end of evening civil twilight and the beginning of morning civil twilight as defined in Implementing Regulation (EU) No 923/2012. ( 3 )
+
+## CHAPTER II — UAS intended to be operated in the ‘open’ category or in the ‘specific’ category under operational declaration, accessories kits bearing a class identification label and remote identification add-ons
+
+### SECTION 1 — Product requirements
+
+#### Article 4 — Requirements
+
+1\. The products referred to in paragraph 1 of Article 2 shall meet the requirements set out in Parts 1 to 6, 16 and 17 of the Annex.
+
+2\. UAS that are not toys within the meaning of Directive 2009/48/EC shall comply with the relevant health and safety requirements set out in Directive 2006/42/EC only in relation to risks other than those linked to the safety of the UA flight.
+
+3\. Any updates of software of the products that have already been made available on the market may be made only if such updates do not affect the compliance of the product.
+
+#### Article 5 — Making available on the market and free movement of products
+
+1\. Products shall only be made available on the market if they satisfy the requirements of this Chapter and do not endanger the health or safety of persons, animals or property.
+
+2\. Member States shall not prohibit, restrict or impede, for the aspects covered by this Chapter, the making available on the market of products that comply with this Chapter.
+
+3\. Paragraphs 1 to 4 of Article 4 of Regulation (EU) 2019/1020 of the European Parliament and of the Council shall apply as from 16 July 2021.
+
+### SECTION 2 — Obligations of economic operators
+
+#### Article 6 — Obligations of manufacturers
+
+1\. When placing their product on the Union market, manufacturers shall ensure that it has been designed and manufactured in compliance with the requirements set out in Parts 1 to 6, 16 and 17 of the Annex.
+
+2\. Manufacturers shall draw up the technical documentation provided for in Article 17 and carry out the relevant conformity assessment procedure referred to in Article 13 or have it outsourced.
+
+Where compliance of the product with the requirements set out in Parts 1 to 6, 16 and 17 of the Annex has been demonstrated by that conformity assessment procedure, manufacturers shall draw up an EU declaration of conformity and affix the CE marking.
+
+3\. Manufacturers shall keep the technical documentation and the EU declaration of conformity for 10 years after the product has been placed on the market.
+
+4\. Manufacturers shall ensure that procedures are in place for series production to remain in conformity with this Chapter. Changes in product design, characteristics or software, and changes in the harmonised standards or in technical specifications by reference to which conformity of a product is declared shall be adequately taken into account.
+
+When deemed appropriate with regard to the risks presented by a product, manufacturers shall, to protect the health and safety of consumers, carry out sample testing of marketed products, investigate, and, if necessary, keep a register of complaints, of non-conforming products and product recalls and shall keep distributors informed of any such monitoring.
+
+5\. Manufacturers of UAS shall ensure that the UA bears a type within the meaning of Decision 768/2008/EC and a unique serial number allowing for its identification, and if applicable, compliant with the requirements defined in the corresponding Parts 2 to 4, 16 and 17 of the Annex. Manufacturers of class C5 accessories kits shall ensure that the kits bears a type and a unique serial number allowing for their identification. Manufacturers of remote identification add-ons shall ensure that the remote identification add-on bears a type and a unique serial number allowing for their identification and compliant with the requirements defined in Part 6 of the Annex. In all cases, manufacturers shall ensure that a unique serial number is also affixed to the EU declaration of conformity or to the simplified EU declaration of conformity referred to in Article 14.
+
+6\. Manufacturers shall indicate on the product their name, registered trade name or registered trademark, website address and the postal address at which they can be contacted or, where that is not possible, on its packaging, or in a document accompanying it. The address shall indicate a single point at which the manufacturer can be contacted. The contact details shall be indicated in a language easily understood by end-users and market surveillance authorities.
+
+7\. Manufacturers shall ensure that the product is accompanied by the manufacturers’ instructions and information notice required by Parts 1 to 6, 16 and 17 of the Annex in a language which can be easily understood by consumers and other end users, as determined by the Member State concerned. Such manufacturers’ instructions and information notice, as well as any labelling, shall be clear, understandable and legible.
+
+8\. Manufacturers shall ensure that each product is accompanied by a copy of the EU declaration of conformity or by a simplified EU declaration of conformity. Where a simplified EU declaration of conformity is provided, it shall contain the exact internet address where the full text of the EU declaration of conformity can be obtained.
+
+9\. Manufacturers who consider or have reason to believe that products which they have placed on the market are not in conformity with this Chapter shall immediately take the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate. Where the product presents a risk, manufacturers shall immediately inform the market surveillance authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance, of any corrective measures taken and of the results thereof.
+
+10\. Manufacturers shall, further to a reasoned request from a competent national authority, provide it with all the information and documentation in paper or electronic form necessary to demonstrate the conformity of the product with this Chapter, in a language which can be easily understood by that authority. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by the product which they have placed on the market.
+
+11\. When placing on the market a class C5 or C6 UAS or a class C5 add-on, manufacturers shall inform the market surveillance authority of the MS of their principal place of business.
+
+#### Article 7 — Authorised representatives
+
+1\. A manufacturer may, by a written mandate, appoint an authorised representative.
+
+The obligations laid down in paragraph 1 of Article 6 and the obligation to draw up the technical documentation referred to in paragraph 2 of Article 6 shall not form part of the authorised representative's mandate.
+
+2\. An authorised representative shall perform the tasks specified in the mandate received from the manufacturer. The mandate shall allow the authorised representative to do at least the following:
+
+(a) keep the EU declaration of conformity and the technical documentation at the disposal of national market surveillance authorities for 10 years after the product has been placed on the Union market;
+
+(b) further to a reasoned request from a market surveillance or border control authority, provide that authority with all the information and documentation necessary to demonstrate the conformity of the product;
+
+(c) cooperate with the market surveillance or border control authorities, at their request, on any action taken to eliminate the non-conformity of the products covered by the authorised representative's mandate or the safety risks posed by it.
+
+#### Article 8 — Obligations of importers
+
+1\. Importers shall only place products compliant with the requirements set out in this Chapter on the Union market.
+
+2\. Before placing a product on the Union market, importers shall ensure that:
+
+(a) the appropriate conformity assessment procedure referred to in Article 13 has been carried out by the manufacturer;
+
+(b) the manufacturer has drawn up the technical documentation referred to in Article 17;
+
+(c) the product bears the CE marking and, when required, the UA class identification label and the indication of the sound power level;
+
+(d) the product is accompanied by the documents referred to in paragraph 7 and 8 of Article 6;
+
+(e) the manufacturer has complied with the requirements set out in paragraphs 5 and 6 of Article 6.
+
+Where an importer considers or has reasons to believe that a product is not in conformity with the requirements set out in Parts 1 to 6, 16 and 17 of the Annex, they shall not place the product on the market until it has been brought into conformity. Furthermore, where the product presents a risk for the health and safety of consumers and third parties, the importer shall inform the manufacturer and the competent national authorities to that effect.
+
+3\. Importers shall indicate on the product their name, registered trade name or registered trademark, website and the postal address at which they can be contacted or, where that is not possible, on its packaging or in a document accompanying the product. The contact details shall be in a language easily understood by end-users and market surveillance authorities.
+
+4\. Importers shall ensure that the product is accompanied by the manufacturers’ instructions and information notice required by Parts 1 to 6, 16 and 17 of the Annex in a language which can be easily understood by consumers and other end users, as determined by the Member State concerned. That manufacturers’ instructions and information notice, as well as any labelling, shall be clear, understandable and legible.
+
+5\. Importers shall ensure that, while the product is under their responsibility, its storage or transport conditions do not jeopardise its compliance with the requirements set out in Article 4.
+
+6\. When deemed appropriate with regard to the risks presented by a product, importers shall, in order to protect the health and safety of end-users and third parties, carry out sample testing of products made available on the market, investigate, and, if necessary, keep a register of complaints, of non-conforming of products and product recalls, and shall keep distributors informed of any such monitoring.
+
+7\. Importers who consider or have reason to believe that a product which they have placed on the market is not in conformity with the applicable Union harmonisation legislation shall immediately take the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate. Furthermore, where the product presents a risk, importers shall immediately inform the market surveillance authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+8\. Importers shall, for 10 years after the product has been placed on the market, keep a copy of the EU declaration of conformity at the disposal of the market surveillance authorities and ensure that the technical documentation can be made available to those authorities, upon request.
+
+9\. Importers shall, further to a reasoned request from the competent national authority, provide it with all the information and documentation in paper or electronic form necessary to demonstrate the conformity of the product in a language which can be easily understood by that authority. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by the product which they have placed on the market.
+
+10 When placing on the market a class C5 or C6 UAS or a class C5 add-on, importers shall inform the market surveillance authority of the MS of their principal place of business.
+
+#### Article 9 — Obligations of distributors
+
+1\. When making a product available on the Union market, distributors shall act with due care in relation to the requirements set out in this Chapter.
+
+2\. Before making a product available on the market, distributors shall verify that the product bears the CE marking and, when applicable, the UA class identification label and the indication of the sound power level, is accompanied by the documents referred to in paragraphs 7 and 8 of Article 6 and that the manufacturer and the importer have complied with the requirements set out in paragraphs 5 and 6 of Article 6 and in paragraph 3 of Article 8.
+
+Distributors shall ensure that the product is accompanied by the manufacturers’ instructions and information notice required by Parts 1 to 6, 16 and 17 of the Annex in a language which can be easily understood by consumers and other end users, as determined by the Member State concerned. Those manufacturers’ instructions and information notice, as well as any labelling, shall be clear, understandable and legible.
+
+Where a distributor considers or has reason to believe that a product is not in conformity with the requirements set out in Article 4, he shall not make the product available on the market until it has been brought into conformity. Furthermore, where the product presents a risk, the distributor shall inform the manufacturer or the importer to that effect, as well as the competent market surveillance authorities.
+
+3\. Distributors shall ensure that, while a product is under their responsibility, its storage or transport conditions do not jeopardise its compliance with the requirements set out in Article 4.
+
+4\. Distributors who consider or have reasons to believe that a product which they have made available on the market is not in conformity with the applicable Union harmonisation legislation shall make sure that the corrective measures necessary to bring that product into conformity, to withdraw it or recall it, if appropriate, are taken. Furthermore, where the product presents a risk, distributors shall immediately inform the market surveillance authorities of the Member States in which they made the product available on the market to that effect, giving details, in particular, of the non-compliance and of any corrective measures taken.
+
+5\. Distributors shall, further to a reasoned request from the competent national authority, provide it with all the information and documentation in paper or electronic form necessary to demonstrate the conformity of the product. They shall cooperate with that authority, at its request, on any action taken to eliminate the risks posed by the product which they have made available on the market.
+
+#### Article 10 — Cases in which obligations of manufacturers apply to importers and distributors
+
+An importer or distributor shall be considered a manufacturer for the purposes of this Chapter and shall be subject to the obligations of manufacturers pursuant to Article 6, where they place a product on the market under their name or trademark or modify the product already placed on the market in such a way that compliance with this Chapter may be affected.
+
+#### Article 11 — Identification of economic operators
+
+1\. Economic operators shall, on request, identify the following to the market surveillance authorities:
+
+(a) any economic operator who has supplied them with a product;
+
+(b) any economic operator to whom they have supplied a product.
+
+2\. Economic operators shall be able to present the information referred to in paragraph 1:
+
+(a) for 10 years after they have been supplied with the product;
+
+(b) for 10 years after they have supplied the product.
+
+### SECTION 3 — Conformity of the product
+
+#### Article 12 — Presumption of conformity
+
+A product which is in conformity with harmonised standards or parts thereof, the references of which have been published in the Official Journal of the European Union, shall be presumed to be in conformity with the requirements covered by those standards or parts thereof set out in Parts 1 to 6, 16 and 17 of the Annex.
+
+#### Article 13 — Conformity assessment procedures
+
+1\. The manufacturer shall perform a conformity assessment of the product using one of the following procedures with a view to establishing its compliance with the requirements set out in Parts 1 to 6, 16 and 17 of the Annex. The conformity assessment shall take into account all intended and foreseeable operating conditions.
+
+2\. The procedures available to conduct the conformity assessment shall be the following:
+
+(a) internal production control as set out in Part 7 of the Annex, when assessing the compliance of a product with the requirements set out in Parts 1, 5, 6, 16 or 17 of the Annex, subject to the condition that the manufacturer has applied harmonised standards, the references of which have been published in the Official Journal of the European Union, for all the requirements for which such standards exist;
+
+(b) EU-type examination followed by conformity to type based on internal production control as set out in Part 8 of the Annex;
+
+(c) conformity based on full quality assurance as set out in Part 9 of the Annex, excepted when assessing the compliance of a product which is a toy within the meaning of Directive 2009/48/EC.
+
+#### Article 14 — EU declaration of conformity
+
+1\. The EU declaration of conformity referred to in paragraph 8 of Article 6 shall state that compliance of the product with the requirements set out in Parts 1 to 6, 16 and 17 of the Annex has been demonstrated and, for UAS, identify its class.
+
+2\. The EU declaration of conformity shall have the model structure set out in Part 11 of the Annex, shall contain the elements set out in that Part and shall be continuously updated. It shall be translated into the language or languages required by the Member State in which market the product is placed or made available.
+
+3\. The simplified EU declaration of conformity referred to in paragraph 8 of Article 6 shall contain the elements set out in Part 12 of the Annex and shall be continuously updated. It shall be translated into the language or languages required by the Member State in which the product is placed or made available on the market. The full text of the EU declaration of conformity shall be available at the internet address referred to in the simplified EU declaration of conformity in a language or languages required by the Member State in which the product is placed or made available on the market.
+
+4\. Where a product is subject to more than one Union act requiring an EU declaration of conformity, a single EU declaration of conformity shall be drawn up in respect of all such Union acts. That declaration shall contain the identification of the Union acts concerned, including their publication references.
+
+5\. By drawing up the EU declaration of conformity, the manufacturer shall assume responsibility for the compliance of the product with the requirements laid down in this Chapter.
+
+#### Article 15 — General principles of the CE marking
+
+The CE marking shall be subject to the general principles set out in Article 30 of Regulation (EC) No 765/2008.
+
+#### Article 16 — Rules and conditions for affixing the CE marking, the identification number of the notified body, the UAS class identification label and the indication of the sound power level
+
+1\. The CE marking shall be affixed visibly, legibly and indelibly to the product or to the data plate attached to it. Where that is not possible or not warranted on account of the size of the product, it shall be affixed to the packaging.
+
+2\. The UA class identification label shall be affixed visibly, legibly and indelibly to the UA or, when relevant, to each accessories of a class C5 accessories kit, and its packaging and shall be at least 5 mm high. The affixing to a product of markings, signs or inscriptions which are likely to mislead third parties regarding the meaning or form of the class identification label shall be prohibited.
+
+3\. The indication of the sound power level provided for in Part 14 of the Annex shall be affixed, when applicable, visibly, legibly and indelibly on the UA, unless that is not possible or not warranted on account of the size of the product, and on the packaging.
+
+4\. The CE marking and, when applicable, the indication of the sound power level and the UA class identification label shall be affixed before the product is placed on the market.
+
+5\. The CE marking shall be followed by the identification number of the notified body where the conformity assessment procedure set out in Part 9 of the Annex is applied.
+
+The identification number of the notified body shall be affixed by the notified body Itself or, under its instructions, by the manufacturer or his authorised representative.
+
+6\. Member States shall build upon existing mechanisms to ensure correct application of the regime governing the CE marking and shall take appropriate action in the event of improper use of that marking.
+
+#### Article 17 — Technical documentation
+
+1\. The technical documentation shall contain all relevant data and details of the means used by the manufacturer to ensure that the product complies with the requirements set out in Parts 1 to 6, 16 and 17 of the Annex. It shall, at least, contain the elements set out in Part 10 of the Annex.
+
+2\. The technical documentation shall be drawn up before the product is placed on the market and shall be continuously updated.
+
+3\. The technical documentation and correspondence relating to any EU-type examination procedure or the assessment of the quality system of the manufacturer shall be drawn up in an official language of the Member State in which the notified body is established or in a language acceptable to that body.
+
+4\. Where the technical documentation does not comply with paragraphs 1, 2 or 3 of this Article, the market surveillance authority may ask the manufacturer or the importer to have a test performed by a body acceptable to the market surveillance authority at the expense of the manufacturer or the importer within a specified period in order to verify compliance of the product with the requirements set out in Parts 1 to 6, 16 and 17 of the Annex which applies to it.
+
+### SECTION 4 — Notification of conformity assessment bodies
+
+#### Article 18 — Notification
+
+Member States shall notify the Commission and the other Member States of bodies authorised to carry out third-party conformity assessment tasks under this Chapter.
+
+#### Article 19 — Notifying authorities
+
+1\. Member States shall designate a notifying authority that shall be responsible for setting up and carrying out the necessary procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, including compliance with Article 24.
+
+2\. Member States may decide that the assessment and monitoring referred to in paragraph 1 shall be carried out by a national accreditation body within the meaning of Regulation (EC) No 765/2008.
+
+3\. Where the notifying authority delegates or otherwise entrusts the assessment, notification or monitoring referred to in paragraph 1 to a body which is not a governmental entity, that body shall be a legal entity and shall comply mutatis mutandis with the requirements laid down in Article 20. In addition, it shall have arrangements to cover liabilities arising out of its activities.
+
+4\. The notifying authority shall take full responsibility for the tasks performed by the body referred to in paragraph 3.
+
+#### Article 20 — Requirements relating to notifying authorities
+
+1\. A notifying authority shall:
+
+(a) be established in such a way that no conflict of interest with conformity assessment bodies occurs;
+
+(b) be organised and operated so as to safeguard the objectivity and impartiality of its activities;
+
+(c) be organised in such a way that each decision relating to notification of a conformity assessment body is taken by competent persons different from those who carried out the assessment;
+
+(d) not offer or provide any activities that conformity assessment bodies perform or consultancy services on a commercial or competitive basis;
+
+(e) shall safeguard the confidentiality of the information it obtains;
+
+(f) have a sufficient number of competent personnel at its disposal for the proper performance of its tasks.
+
+#### Article 21 — Information obligation on notifying authorities
+
+1\. Member States shall inform the Commission of their procedures for the assessment and notification of conformity assessment bodies and the monitoring of notified bodies, and of any changes thereto.
+
+2\. The Commission shall make that information publicly available.
+
+#### Article 22 — Requirements relating to notified bodies
+
+1\. For the purposes of notification, a conformity assessment body shall meet the requirements laid down in paragraphs 2 to 11.
+
+2\. A conformity assessment body shall be established under national law of a Member State and have legal personality.
+
+3\. A conformity assessment body shall be a third-party body independent of the organisation it assesses.
+
+A body belonging to a business association or professional federation representing undertakings involved in the design, manufacturing, provision, assembly, use or maintenance of the product which it assesses may, on condition that its independence and the absence of any conflict of interest are demonstrated, be considered such a body.
+
+4\. A conformity assessment body, its top-level management and the personnel responsible for carrying out the conformity assessment tasks shall not be the designer, manufacturer, supplier, installer, purchaser, owner, user or maintainer of the product which they assess, nor the representative of any of those parties. This shall not preclude the use of the assessed product that is necessary for the operations of the conformity assessment body or the use of such product for personal purposes.
+
+A conformity assessment body, its top-level management and the personnel responsible for carrying out the conformity assessment tasks shall not be directly involved in the design, manufacture or construction, the marketing, installation, use or maintenance of that product, or represent the parties engaged in those activities. They shall not engage in any activity that may conflict with their independence of judgement or integrity in relation to conformity assessment activities for which they are notified. This shall, in particular, apply to consultancy services.
+
+Conformity assessment bodies shall ensure that the activities of their subsidiaries or subcontractors do not affect the confidentiality, objectivity or impartiality of their conformity assessment activities.
+
+5\. Conformity assessment bodies and their personnel shall carry out the conformity assessment activities with the highest degree of professional integrity and the requisite technical competence in the specific field and shall be free from all pressures and inducements, particularly financial, which might influence their judgement or the results of their conformity assessment activities, especially as regards persons or groups of persons with an interest in the results of those activities.
+
+6\. A conformity assessment body shall be capable of carrying out all the conformity assessment tasks assigned to it by Part 8 or 9 of the Annex in relation to which it has been notified, whether those tasks are carried out by the conformity assessment body itself or on its behalf and under its responsibility.
+
+At all times and for each conformity assessment procedure and each kind or category of product in relation to which it has been notified, a conformity assessment body shall have at its disposal the necessary:
+
+(a) personnel with technical knowledge and sufficient and appropriate experience to perform the conformity assessment tasks;
+
+(b) descriptions of procedures in accordance with which conformity assessment is carried out, ensuring the transparency and the ability of reproduction of those procedures; it shall have appropriate policies and procedures in place that distinguish between tasks it carries out as a notified body and other activities;
+
+(c) procedures for the performance of activities which take due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product in question and the mass or serial nature of the production process.
+
+A conformity assessment body shall have the means necessary to perform the technical and administrative tasks connected with the conformity assessment activities in an appropriate manner and shall have access to all necessary equipment or facilities.
+
+7\. The personnel responsible for carrying out conformity assessment tasks shall have the following:
+
+(a) sound technical and vocational training covering all the conformity assessment activities in relation to which the conformity assessment body has been notified;
+
+(b) satisfactory knowledge of the requirements of the assessments they carry out and adequate authority to carry out those assessments;
+
+(c) appropriate knowledge and understanding of the requirements, of the applicable harmonised standards and of the relevant provisions of Union harmonisation legislation;
+
+(d) the ability to draw up EU-type examination certificates or quality system approvals, records and reports demonstrating that assessments have been carried out.
+
+8\. The impartiality of the conformity assessment bodies, their top-level management and of the personnel responsible for carrying out the conformity assessment tasks shall be guaranteed.
+
+The remuneration of the top-level management and of the personnel responsible for carrying out the conformity assessment tasks of a conformity assessment body shall not depend on the number of assessments carried out or on the results of those assessments.
+
+9\. Conformity assessment bodies shall take out liability insurance unless liability is assumed by the Member State in accordance with national law, or the Member State itself is directly responsible for the conformity assessment.
+
+10\. The personnel of a conformity assessment body shall observe professional secrecy with regard to all information obtained in carrying out their tasks under Parts 8 and 9 of the Annex or any provision of national law giving effect to them, except in relation to the competent authorities of the Member State in which its activities are carried out. Proprietary rights shall be protected.
+
+11\. Conformity assessment bodies shall participate in, or ensure that their personnel responsible for carrying out the conformity assessment tasks are informed of, the relevant standardisation activities, the regulatory activities in the area of UAS and frequency planning, and the activities of the notified body coordination group established under the relevant Union harmonisation legislation and shall apply, as general guidance, the administrative decisions and documents produced as a result of the work of that group.
+
+#### Article 23 — Presumption of conformity of notified bodies
+
+Where a conformity assessment body demonstrates its conformity with the criteria laid down in the relevant harmonised standards or parts thereof, the references of which have been published in the Official Journal of the European Union, it shall be presumed to comply with the requirements set out in Article 22 in so far as the applicable harmonised standards cover those requirements.
+
+#### Article 24 — Subsidiaries of and subcontracting by notified bodies
+
+1\. Where a notified body subcontracts specific tasks connected with conformity assessment or has recourse to a subsidiary, it shall ensure that the subcontractor or the subsidiary meets the requirements set out in Article 22 and shall inform the notifying authority accordingly.
+
+2\. Notified bodies shall take full responsibility for the tasks performed by subcontractors or subsidiaries, wherever these are established.
+
+3\. Activities may be subcontracted or carried out by a subsidiary only with the agreement of the client.
+
+4\. Notified bodies shall keep at the disposal of the notifying authority the relevant documents concerning the assessment of the qualifications of the subcontractor or the subsidiary and the work carried out by them under Parts 8 and 9 of the Annex.
+
+#### Article 25 — Application for notification
+
+1\. A conformity assessment body shall submit an application for notification to the notifying authority of the Member State in which it is established.
+
+2\. The application for notification shall be accompanied by a description of the conformity assessment activities, the conformity assessment module or modules, and the product for which that body claims to be competent, as well as by an accreditation certificate issued by a national accreditation body attesting that the conformity assessment body fulfils the requirements laid down in Article 22.
+
+#### Article 26 — Notification procedure
+
+1\. Notifying authorities may only notify conformity assessment bodies which have met the requirements laid down in Article 22.
+
+2\. They shall notify conformity assessment bodies to the Commission and the other Member States using the electronic notification tool developed and managed by the Commission.
+
+3\. The notification shall include full details of the conformity assessment activities, the conformity assessment module or modules, and the product concerned and the relevant accreditation certification.
+
+4\. The body concerned may perform the activities of a notified body only where no objections are raised by the Commission or the other Member States within 2 weeks of a notification.
+
+5\. Only such a body shall be considered a notified body for the purposes of this Chapter.
+
+6\. The notifying authority shall notify the Commission and the other Member States of any subsequent relevant changes to the notification.
+
+#### Article 27 — Identification numbers and lists of notified bodies
+
+1\. The Commission shall assign an identification number to a notified body.
+
+2\. It shall assign a single such number even where the body is notified under several Union acts.
+
+3\. The Commission shall make publicly available the list of the bodies notified under this Regulation, including the identification numbers that have been assigned to them and the activities for which they have been notified.
+
+The Commission shall ensure that the list is kept up to date.
+
+#### Article 28 — Changes to notifications
+
+1\. Where a notifying authority has ascertained or has been informed that a notified body no longer meets the requirements laid down in Article 22, or that it fails to fulfil its obligations, the notifying authority shall restrict, suspend or withdraw the notification as appropriate, depending on the seriousness of the failure to meet those requirements or fulfil those obligations. It shall immediately inform the Commission and the other Member States accordingly.
+
+2\. In the event of restriction, suspension or withdrawal of the notification, or where the notified body has ceased its activity, the notifying Member State shall take appropriate steps to ensure that the files of that body are either processed by another notified body or kept available for the responsible notifying and market surveillance authorities at their request.
+
+#### Article 29 — Challenge of the competence of notified bodies
+
+1\. The Commission shall investigate all cases where it has doubts, or doubt is brought to its attention, about the competence of a notified body or the continued fulfilment by a notified body of the requirements and responsibilities to which it is subject.
+
+2\. The notifying Member State shall provide the Commission, on request, with all the information relating to the basis for the notification or the maintenance of the competence of the notified body concerned.
+
+3\. The Commission shall ensure that all sensitive information obtained in the course of its investigations is treated confidentially.
+
+4\. Where the Commission ascertains that a notified body does not meet or no longer meets the requirements for notification, it shall inform the notifying Member State accordingly and request it to take the necessary corrective measures, including de-notification if necessary.
+
+#### Article 30 — Operational obligations of notified bodies
+
+1\. Notified bodies shall carry out conformity assessments in accordance with the conformity assessment procedures provided in Parts 8 and 9 of the Annex.
+
+2\. Conformity assessments shall be carried out in a proportionate manner, avoiding unnecessary burdens for economic operators. Conformity assessment bodies shall perform their activities taking due account of the size of an undertaking, the sector in which it operates, its structure, the degree of complexity of the product in question, and the mass or serial nature of the production process.
+
+In doing so, they shall nevertheless respect the degree of rigour and the level of protection required for the compliance of the UA or UAS with this Chapter.
+
+3\. Where a notified body finds that the requirements set out in Parts 1 to 6, 16 and 17 of the Annex or in corresponding harmonised standards or other technical specifications have not been met by a manufacturer, it shall require the manufacturer to take appropriate corrective measures and shall not issue an EU-type examination certificate or a quality system approval.
+
+4\. Where, in the course of the monitoring of conformity following the issue of an EU-type examination certificate or a quality system approval, a notified body finds that a product no longer complies, it shall require the manufacturer to take appropriate corrective measures and shall suspend or withdraw the EU-type examination certificate or the quality system approval if necessary.
+
+5\. Where corrective measures are not taken or do not have the required effect, the notified body shall restrict, suspend or withdraw any EU-type examination certificates or quality system approvals, as appropriate.
+
+#### Article 31 — Appeal against decisions of notified bodies
+
+Notified bodies shall ensure that a transparent and accessible appeal procedure against their decisions is available.
+
+#### Article 32 — Information obligation on notified bodies
+
+1\. Notified bodies shall inform the notifying authority of the following:
+
+(a) any refusal, restriction, suspension or withdrawal of an EU-type examination certificate or a quality system approval in accordance with the requirements of Parts 8 and 9 of the Annex;
+
+(b) any circumstances affecting the scope of, or conditions for, notification;
+
+(c) any request for information which they have received from market surveillance authorities regarding conformity assessment activities;
+
+(d) on request, conformity assessment activities performed within the scope of their notification and any other activity performed, including cross-border activities and subcontracting.
+
+2\. Notified bodies shall, in accordance with the requirements of Parts 8 and 9 of the Annex, provide the other bodies notified under this Chapter carrying out similar conformity assessment activities covering the same categories of UA or UAS with the relevant information on issues relating to negative and, on request, positive conformity assessment results.
+
+3\. Notified bodies shall fulfil information obligations under Parts 8 and 9 of the Annex.
+
+#### Article 33 — Exchange of experience
+
+The Commission shall provide for the organisation of exchange of experience between the Member States' national authorities responsible for notification policy.
+
+#### Article 34 — Coordination of notified bodies
+
+1\. The Commission shall ensure that appropriate coordination and cooperation between bodies notified under this Chapter are put in place and properly operated in the form of a sectorial group of notified bodies.
+
+2\. Notified bodies shall participate in the work of that group, directly of by means of designated representatives.
+
+### SECTION 5 — Union market surveillance, control of products entering the Union market and Union safeguard procedure
+
+#### Article 35 — Market surveillance and control of products entering the Union market
+
+1\. Member States shall organise and perform surveillance of the products that are placed on the Union market in accordance with paragraph 3 of Article 15 and Articles 16 to 26 of Regulation (EC) No 765/2008.
+
+2\. Member States shall organise and perform control of the products that enter the Union market in accordance with paragraph 5 of Article 15 and Articles 27, 28 and 29 of Regulation (EC) No 765/2008.
+
+3\. Member States shall ensure that their market surveillance and border control authorities cooperate with the competent authorities designated under Article 17 of Implementing Regulation (EU) 2019/947 on safety matters and shall establish appropriate communication and coordination mechanisms between them, making the best use of the information contained in the occurrence reporting system defined in Regulation (EU) No 376/2014 of the European Parliament and of the Council ( 4 ) and the information systems defined in Articles 22 and 23 of Regulation (EC) No 765/2008.
+
+#### Article 36 — Procedure for dealing with products presenting a risk at national level
+
+1\. Where the market surveillance authorities of one Member State have sufficient reason to believe that a product presents a risk to the health or safety of persons or to other aspects of public interest protection covered by this Chapter, they shall carry out an evaluation in relation to the product concerned, covering all applicable requirements laid down in this Chapter. The relevant economic operators shall cooperate as necessary with the market surveillance authorities for that purpose.
+
+Where, in the course of the evaluation referred to in the first subparagraph, the market surveillance authorities find that the product does not comply with the requirements laid down in this Chapter, they shall, without delay, require the relevant economic operator to take all appropriate corrective actions to bring the product into compliance with those requirements, to withdraw the product from the market, or to recall it within a reasonable period, commensurate with the nature of the risk, as they may prescribe.
+
+The market surveillance authorities shall inform the relevant notified body accordingly.
+
+Article 21 of Regulation (EC) No 765/2008 shall apply to the measures referred to in the second subparagraph of this paragraph.
+
+2\. Where the market surveillance authorities consider that non-compliance is not restricted to their national territory, they shall inform the Commission and the other Member States of the results of the evaluation and of the actions which they have required the economic operator to take.
+
+3\. The economic operator shall ensure that all appropriate corrective action is taken in respect of all products concerned that it has made available on the market throughout the Union.
+
+4\. Where the relevant economic operator does not take adequate corrective action within the period referred to in the second subparagraph of paragraph 1, the market surveillance authorities shall take all appropriate provisional measures to prohibit or restrict the product being made available on their national market, to withdraw the product from that market or to recall it.
+
+The market surveillance authorities shall inform the Commission and the other Member States, without delay, of those measures.
+
+5\. The information referred to in paragraph 4 shall include all available details, in particular the data necessary for the identification of the non-compliant product, the origin of the product, the nature of the non-compliance alleged and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant economic operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to either of the following:
+
+(a) failure of the product to meet the requirements set out in Article 4;
+
+(b) shortcomings in the harmonised standards referred to in Article 12.
+
+6\. Member States other than the Member State initiating the procedure under this Article shall, without delay, inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the product concerned, and, in the event of disagreement with the adopted national measure, of their objections.
+
+7\. Where, within three months of receipt of the information referred to in paragraph 5, no objection has been raised by either a Member State or the Commission in respect of a provisional measure taken by a Member State, that measure shall be deemed justified.
+
+8\. Member States shall ensure that appropriate restrictive measures, such as withdrawal of the product from the market, are taken in respect of the product concerned without delay.
+
+#### Article 37 — Union safeguard procedure
+
+1\. Where, on completion of the procedure set out in paragraphs 3 and 4 of Article 36, objections are raised against a measure taken by a Member State, or where the Commission considers a national measure to be contrary to Union legislation, the Commission shall, without delay, enter into consultation with the Member States and the relevant economic operator or operators and shall evaluate the national measure. On the basis of the results of that evaluation, the Commission shall decide whether the national measure is justified or not.
+
+The Commission shall address its decision to all Member States and shall immediately communicate it to them and the relevant economic operator or operators.
+
+2\. If the national measure is considered justified, all Member States shall take the necessary measures to ensure that the non-compliant product is withdrawn or recalled from their market, and shall inform the Commission accordingly. If the national measure is considered unjustified, the Member State concerned shall withdraw that measure.
+
+3\. Where the national measure is considered justified and the non-compliance of the product is attributed to shortcomings in the harmonised standards referred to in point (b) of paragraph 5 of Article 36 of this Regulation, the Commission shall apply the procedure provided for in Article 11 of Regulation (EU) No 1025/2012.
+
+#### Article 38 — Compliant product which presents a risk
+
+1\. Where, having carried out an evaluation under paragraph 1 of Article 36, a Member State finds that, although the product is in compliance with this Chapter, it presents a risk to the health or safety of persons or to other aspects of public interest protection covered by this Chapter, it shall require the relevant economic operator to take all appropriate measures to ensure that the product concerned, when placed on the market, no longer presents that risk, to withdraw the product from the market or to recall it within a reasonable period, commensurate with the nature of the risk, as it may prescribe.
+
+2\. The economic operator shall ensure that corrective action is taken in respect of all the products concerned that he has made available on the market throughout the Union.
+
+3\. The Member State shall immediately inform the Commission and the other Member States. That information shall include all available details, in particular the data necessary for the identification of the product concerned, the origin and the supply chain of product, the nature of the risk involved and the nature and duration of the national measures taken.
+
+4\. The Commission shall, without delay, enter into consultation with the Member States and the relevant economic operator or operators and shall evaluate the national measures taken. On the basis of the results of that evaluation, the Commission shall decide whether the national measure is justified or not and, where necessary, propose appropriate measures.
+
+5\. The Commission shall address its decision to all Member States and shall immediately communicate it to them and the relevant economic operator or operators.
+
+#### Article 39 — Formal non-compliance
+
+1\. Without prejudice to Article 36, where a Member State makes one of the following findings concerning products covered by this Chapter, it shall require the relevant economic operator to put an end to the non-compliance concerned:
+
+(a) the CE marking has been affixed in violation of Article 30 of Regulation (EC) No 765/2008 or of Article 15 or Article 16 of this Regulation;
+
+(b) the CE marking or type has not been affixed;
+
+(c) the identification number of the notified body, where the conformity assessment procedure set out in Part 9 of the Annex is applied, has been affixed in violation of Article 16 or has not been affixed;
+
+(d) the UA class identification label has not been affixed;
+
+(e) the indication of the sound power level if required has not been affixed;
+
+(f) the serial number has not been affixed or has not the correct format;
+
+(g) the manual or the information notice is not available;
+
+(h) the EU declaration of conformity is missing or has not been drawn up;
+
+(i) the EU declaration of conformity has not been drawn up correctly;
+
+(j) technical documentation is either not available or not complete;
+
+(k) manufacturer's or importer's name, registered trade name or registered trademark, website address or postal address are missing.
+
+2\. Where the non-compliance referred to in paragraph 1 persists, the Member State concerned shall take all appropriate measures to restrict or prohibit the product being made available on the market or ensure that it is withdrawn or recalled from the market.
+
+## CHAPTER III — Requirements for UAS operated in the ‘certified’ the ‘specific’ categories except when conducted under a declaration
+
+#### Article 40
+
+Requirements for UAS operated in the ‘certified’ and ‘specific’ categories except when conducted under a declaration.
+
+1\. The design, production and maintenance of UAS that meets any of the following conditions shall be certified:
+
+(a) it has a characteristic dimension of 3 m or more, and is designed to be operated over assemblies of people unless the UA is lighter than air;
+
+(b) it is designed for transporting people;
+
+(c) it is designed for the purpose of transporting dangerous goods and requiring a high level of robustness to mitigate the risks to third parties in case of an accident;
+
+(d) it is intended to be used in the ‘specific’ category of operations as defined in Article 5 of Implementing Regulation (EU) 2019/947 and the competent authority has concluded, in accordance with Article 12(1) of Regulation (EU) 2019/947, on the basis of the risk assessment conducted by UAS operator in accordance with Article 11 of that Regulation, that the risk of the operation cannot be adequately mitigated without the certification of the UAS.
+
+1a. Paragraph 1 does not apply to UAS that are specifically designed or modified for research, experimental or scientific purposes, and are likely to be produced in very limited numbers. The operation of such UAS will be subject to a permit to fly in accordance with Subpart B of Annex I of Regulation (EU) No 748/2012.
+
+2\. An UAS that meets the conditions specified in paragraph 1 shall comply with the applicable requirements laid down in Commission Regulation (EU) No 748/2012 ( 5 ), Commission Regulation (EU) 2015/640 ( 6 ) and Commission Delegated Regulation (EU) 2024/1107 ( 7 ).
+
+2a. UAS certified for reasons other than those specified in paragraph 1 shall comply with the applicable requirements laid down in Regulation (EU) No 748/2012 and in Regulation (EU) 2015/640.
+
+3\. Unless it needs to be certified in accordance with paragraph 1, a UAS used in the ‘specific’ category shall feature the technical capabilities set out in the operational authorisation issued by the competent authority or as defined by the Light UAS Operator Certificate (LUC) pursuant to Part C of the Annex to Implementing Regulation (EU) 2019/947.
+
+4\. Unless privately built, all UAS not subject to registration according to Article 14 of the Implementing Regulation (EU) 2019/947 shall have a unique serial number compliant with standard ANSI/CTA-2063-A-2019, Small Unmanned Aerial Systems Serial Numbers, 2019.
+
+5\. Each UA intended to be operated in the ‘specific’ category and at a height below 120 meters shall be equipped with a remote identification system that allows:
+
+(a) the upload of the UAS operator registration number required in accordance with Article 14 of Implementing Regulation (EU) 2019/947 and any additional number provided by the registration system. The system shall perform a consistency check verifying the integrity of the full string provided to the UAS operator at the time of registration. In case of inconsistency, the UAS shall emit an error message to the UAS operator;
+
+(b) the periodic transmission of at least the following data, in real time during the whole duration of the flight, in a way that it can be received by existing mobile devices:
+
+(i) the UAS operator registration number and the verification code provided by the Member State during the registration process unless the consistency check defined in point(a) is not passed;
+
+(ii) the unique serial number of the UA compliant with paragraph 4 or, if the UA is privately built, the unique serial number of the add on, as specified in Part 6 of the Annex;
+
+(iii) the time stamp, the geographical position of the UA and its height above the surface or take-off point;
+
+(iv) the route course measured clockwise from true north and ground speed of the UA;
+
+(v) the geographical position of the remote pilot;
+
+(vi) an indication of the emergency status of the UAS.
+
+(c) to reduce the ability of tampering the functionality of the direct remote identification system.
+
+## CHAPTER IV — Third-country UAS operators
+
+#### Article 41 — Third-country UAS operators
+
+1\. UAS operators that have their principal place of business, are established, or reside in a third country, shall comply with Implementing Regulation (EU) 2019/947 for the purpose of UAS operations within the single European sky airspace.
+
+2\. The competent authority for the third-country UAS operator shall be the competent authority of the first Member State where the UAS operator intends to operate.
+
+3\. By way of derogation from paragraph 1, a certificate of the remote pilot competency or UAS operator in accordance with Implementing Regulation (EU) 2019/947, or an equivalent document, may be recognised by the competent authority for the purpose of operation within, to, and out of the Union provided that:
+
+(a) the third country asked for such recognition;
+
+(b) the certificate of the remote pilot competency or the UAS operator's certificate are valid documents of the State of issue; and
+
+(c) the Commission, after consultation of EASA, has ensured that the requirements on the basis of which such certificates have been issued provide the same level of safety as this Regulation does.
+
+## CHAPTER V — Final provisions
+
+#### Article 42 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**PART 1**
+
+**Requirements for a class C0 Unmanned aircraft system**
+
+A class C0 UAS bears the following class identification label on the UA:
+
+[image]
+
+A class C0 UAS shall comply with the following:
+
+(1) have an MTOM of less than 250 g, including payload;
+
+(2) have a maximum speed in level flight of 19 m/s;
+
+(3) have a maximum attainable height above the take-off point limited to 120 m;
+
+(4) be safely controllable with regards to stability, manoeuvrability and the command and control link performance, by a remote pilot following the manufacturer’s instructions, as necessary under all anticipated operating conditions including following the failure of one or, if appropriate, more systems;
+
+(5) be designed and constructed in such a way as to minimise injury to people during operation, sharp edges shall be avoided, unless technically unavoidable under good design and manufacturing practice. If equipped with propellers, the UA shall be designed in such a way as to limit any injury that may be inflicted by the propeller blades;
+
+(6) be exclusively powered by electricity;
+
+(7) if equipped with a follow-me mode and when this function is on, be in a range not exceeding 50 m from the remote pilot, and make it possible for the remote pilot to regain control of the UA;
+
+(8) be placed on the market with manufacturer’s instructions providing:
+
+(a) the characteristics of the UA including but not limited to the:
+
+— class of the UA
+
+— UA mass (with a description of the reference configuration) and the maximum take-off mass (MTOM);
+
+— general characteristics of allowed payloads in terms of mass, dimensions, interfaces with the UA and other possible restrictions;
+
+— equipment and software to control the UA remotely; and
+
+— a description of the behaviour of the UA in case of a loss of the command and control link;
+
+(b) clear operational instructions;
+
+(c) operational limitations (including but not limited to meteorological conditions and day/night operations); and
+
+(d) appropriate description of all the risks related to UAS operations adapted for the age of the user;
+
+(9) include an information notice published by the European Union Aviation Safety Agency (EASA) providing the applicable limitations and obligations, in accordance with Implementing Regulation (EU) 2019/947;
+
+(10) Points (4), (5) and (6) do not apply to UAS that are toys in the meaning of Directive 2009/48/EC on the safety of toys.
+
+**PART 2**
+
+**Requirements for a class C1 Unmanned aircraft system**
+
+A class C1 UAS bears the following class identification label on the UA:
+
+[image]
+
+A class C1 UAS shall comply with the following:
+
+(1) be made of materials and have performance and physical characteristics such as to ensure that in the event of an impact at terminal velocity with a human head, the energy transmitted to the human head is less than 80 J, or, as an alternative, shall have an MTOM of less than 900 g, including payload;
+
+(2) have a maximum speed in level flight of 19 m/s;
+
+(3) have a maximum attainable height above the take-off point limited to 120 m or be equipped with a system that limits the height above the surface or above the take-off point to 120 m or to a value selectable by the remote pilot; if the value is selectable, clear information about the height of the UA above the surface or take-off point during flight shall be provided to the remote pilot;
+
+(4) be safely controllable with regards to stability, manoeuvrability and the command and control link performance, by a remote pilot with adequate competency as defined in Implementing Regulation (EU) 2019/947 and following the manufacturer’s instructions, as necessary under all anticipated operating conditions including following the failure of one or, if appropriate, more systems;
+
+(5) have the requisite mechanical strength for the UA, including any necessary safety factor, and, where appropriate, stability to withstand any stress to which it is subjected to during use without any breakage or deformation that might interfere with its safe flight;
+
+(6) be designed and constructed in such a way as to minimise injury to people during operation, sharp edges of the UA shall be avoided, unless technically unavoidable under good design and manufacturing practice; if equipped with propellers, the UA shall be designed in such a way as to limit any injury that may be inflicted by the propeller blades;
+
+(7) in case of a loss of the command and control link, have a reliable and predictable method for the UA to recover the command and control link or if this fails, terminate the flight in a way that reduces the effect on third parties in the air or on the ground;
+
+(8) unless it is a fixed-wing UA, have a guaranteed A-weighted sound power level LWA determined as per Part 13 not exceeding the levels established in Part 15;
+
+(9) unless it is a fixed-wing UA, have the indication of the guaranteed A-weighted sound power level affixed on the UA and/or its packaging as per Part 14;
+
+(10) be exclusively powered by electricity;
+
+(11) have a unique serial number compliant with standard ANSI/CTA-2063-A-2019, Small Unmanned Aerial Systems Serial Numbers, 2019;
+
+(12) have a direct remote identification that:
+
+(a) allows the upload of the UAS operator registration number required in accordance with Article 14 of Implementing Regulation (EU) 2019/947 and any additional number provided by the registration system; the system shall perform a consistency check verifying the integrity of the full string provided to the UAS operator at the time of registration; in case of inconsistency, the UAS shall emit an error message to the UAS operator;
+
+(b) ensures, in real time during the whole duration of the flight, the direct periodic broadcast from the UA using an open and documented transmission protocol, in a way that it can be received directly by existing mobile devices within the broadcasting range, of at least the following data:
+
+i the UAS operator registration number and the verification code provided by the Member State of registration during the registration process unless the consistency check defined in point (a) is not passed;
+
+ii the unique physical serial number of the UA compliant with point (11);
+
+iii the time-stamp, the geographical position of the UA and its height above the surface or take-off point;
+
+iv the route course measured clockwise from true north and ground speed of the UA;
+
+v the geographical position of the remote pilot or, if not available, the take-off point; and
+
+vi an indication of the emergency status of the UAS;
+
+(c) reduces the ability of tampering the functionality of the direct remote identification system;
+
+(13) be equipped with a geo-awareness function that provides:
+
+(a) an interface to load and update data containing information on airspace limitations related to UA position and height imposed by the UAS geographical zones, as defined by Article 15 of Implementing Regulation (EU) 2019/947, which ensures that the process of loading or updating such data does not degrade its integrity and validity;
+
+(b) a warning alert to the remote pilot when a potential breach of airspace limitations is detected; and
+
+(c) information to the remote pilot on the UA’s status as well as a warning alert when its positioning or navigation systems cannot ensure the proper functioning of the geo-awareness function;
+
+(14) if the UA has a function that limits its access to certain airspace areas or volumes, this function shall operate in such a manner that it interacts smoothly with the flight control system of the UA without adversely affecting flight safety; in addition, clear information shall be provided to the remote pilot when this function prevents the UA from entering these airspace areas or volume;
+
+(15) provide the remote pilot with a clear warning when the battery of the UA or its CMU reaches a low level to allow the remote pilot sufficient time to safely land the UA;
+
+(16) be equipped:
+
+(a) with lights for the purpose of controllability of the UA; and
+
+(b) with at least one green flashing light for the purpose of conspicuity of the UA at night to allow a person on the ground to distinguish the UA from a manned aircraft;
+
+(17) if equipped with a follow-me mode and when this function is on, be in a range not exceeding 50 m from the remote pilot, and make it possible for the remote pilot to regain control of the UA;
+
+(18) be placed on the market with manufacturer’s instructions providing:
+
+(a) the characteristics of the UA including but not limited to the:
+
+— class of the UA;
+
+— UA mass (with a description of the reference configuration) and the maximum take-off mass (MTOM);
+
+— general characteristics of allowed payloads in terms of mass, dimensions, interfaces with the UA and other possible restrictions;
+
+— equipment and software to control the UA remotely;
+
+— the procedures to upload the UAS operator registration number into the remote identification system;
+
+— reference of the transmission protocol used for the direct remote identification system emission;
+
+— sound power level; and
+
+— a description of the behaviour of the UA in case of a loss of data link; and the method to recover the command and control link of the UA.
+
+—
+
+(b) clear operational instructions;
+
+(c) procedure to upload the airspace limitations into the geo-awareness function;
+
+(d) maintenance instructions;
+
+(e) troubleshooting procedures;
+
+(f) operational limitations (including but not limited to meteorological conditions and day/night operations); and
+
+(g) appropriate description of all the risks related to UAS operations;
+
+(19) include an information notice published by EASA providing the applicable limitations and obligations, in accordance with Implementing Regulation (EU) 2019/947;.
+
+(20) if equipped with a network remote identification system it shall:
+
+(a) allow, in real time during the whole duration of the flight, the transmission from the UA using an open and documented transmission protocol, in a way that it can be received through a network, of at least the following data;
+
+i the UAS operator registration number and the verification code provided by the Member State of registration during the registration process unless the consistency check defined in point (a) is not passed;
+
+ii the unique serial number of the UA compliant with point (11);
+
+iii the time stamp, the geographical position of the UA and its height above the surface or take-off point;
+
+iv the route course measured clockwise from true north and ground speed of the UA;
+
+v the geographical position of the remote pilot or, if not available, the take-off point; and
+
+vi an indication of the emergency status of the UAS;
+
+(b) reduce the ability of tampering the functionality of the direct remote identification system.
+
+**PART 3**
+
+**Requirements for a class C2 Unmanned aircraft system**
+
+A class C2 UAS bears the following class identification label on the UA:
+
+[image]
+
+A class C2 UAS shall comply with the following:
+
+(1) have an MTOM of less than 4 kg, including payload;
+
+(2) have a maximum attainable height above the take-off point limited to 120 m or be equipped with a system that limits the height above the surface or above the take-off point to 120 m or to a value selectable by the remote pilot. If the value is selectable, clear information about the height of the UA above the surface or take-off point during flight shall be provided to the remote pilot;
+
+(3) be safely controllable with regard to stability, manoeuvrability and the command and control link performance, by a remote pilot with adequate competency as defined in Implementing Regulation (EU) 2019/947 and following the manufacturer’s instructions, as necessary under all anticipated operating conditions including following the failure of one or, if appropriate, more systems;
+
+(4) have the requisite mechanical strength for the UA, including any necessary safety factor, and, where appropriate, stability to withstand any stress to which it is subjected to during use without any breakage or deformation that might interfere with its safe flight;
+
+(5) in the case of a tethered UA, have a tensile length of the tether that is less than 50 m and a mechanical strength that is no less than:
+
+(a) for heavier-than-air aircraft, 10 times the weight of the aerodyne at maximum mass;
+
+(b) for lighter-than-air aircraft, 4 times the force exerted by the combination of the maximum static thrust and the aerodynamic force of the maximum allowed wind speed in flight;
+
+(6) be designed and constructed in such a way as to minimise injury to people during operation, sharp edges of the UA shall be avoided, unless technically unavoidable under good design and manufacturing practice; if equipped with propellers, the UA shall be designed in such a way as to limit any injury that may be inflicted by the propeller blades;
+
+(7) unless tethered, in case of a loss of the command and control link, have a reliable and predictable method for the UA to recover the command and control link or, if it fails, terminate the flight in a way that reduces the effect on third parties in the air or on the ground;
+
+(8) unless tethered, be equipped with a command and control link protected against unauthorised access to the command and control functions;
+
+(9) unless it is a fixed-wing UA, be equipped with a low-speed mode selectable by the remote pilot and limiting the ground speed to no more than 3 m/s.
+
+(10) unless it is a fixed-wing UA, have a guaranteed A-weighted sound power level LWA determined as per Part 13 not exceeding the levels established in Part 15;
+
+(11) unless it is a fixed-wing UA, have the indication of the guaranteed A-weighted sound power level affixed on the UA and/or its packaging as per Part 14;
+
+(12) be exclusively powered by electricity;
+
+(13) have a unique serial number compliant with standard ANSI/CTA-2063-A-2019, Small Unmanned Aerial Systems Serial Numbers, 2019;
+
+(14) have a direct remote identification that:
+
+(a) allows the upload of the UAS operator registration number required in accordance with Article 14 of Implementing Regulation (EU) 2019/947 and any additional number provided by the registration system. The system shall perform a consistency check verifying the integrity of the full string provided to the UAS operator at the time of registration. In case of inconsistency, the UAS shall emit am error message to the UAS operator;
+
+(b) ensures, in real time during the whole duration of the flight, the direct periodic broadcast from the UA using an open and documented transmission protocol, in a way that it can be received directly by existing mobile devices within the broadcasting range, of at least the following data:
+
+i the UAS operator registration number and the verification code provided by the Member State during the registration process, unless the consistency check defined in point (a) is not passed;
+
+ii the unique serial number of the UA compliant with point (13);
+
+iii the time stamp, the geographical position of the UA and its height above the surface or take-off point;
+
+iv the route course measured clockwise from true north and ground speed of the UA;
+
+v the geographical position of the remote pilot or, if not available, the take-off point; and
+
+vi an indication of the emergency status of the UAS;
+
+(c) reduces the ability of tampering the functionality of the direct remote identification system.
+
+(15) be equipped with a geo-awareness function that provides:
+
+(a) an interface to load and update data containing information on airspace limitations related to UA position and height imposed by the UAS geographical zones, as defined by article 15 of Implementing Regulation (EU) 2019/947, which ensures that the process of loading or updating of this data does not degrade its integrity and validity;
+
+(b) a warning alert to the remote pilot when a potential breach of airspace limitations is detected; and
+
+(c) information to the remote pilot on the UA’s status as well as a warning alert when its positioning or navigation systems cannot ensure the proper functioning of the geo-awareness function;
+
+(16) if the UA has a function that limits its access to certain airspace areas or volumes, this function shall operate in such a manner that it interacts smoothly with the flight control system of the UA without adversely affecting flight safety; in addition, clear information shall be provided to the remote pilot when this function prevents the UA from entering these airspace areas or volumes;
+
+(17) provide the remote pilot with a clear warning when the battery of the UA or its CMU reaches a low level to allow the remote pilot sufficient time to safely land the UA;
+
+(18) be equipped:
+
+(a) with lights for the purpose of controllability of the UA; and
+
+(b) with at least one green flashing light for the purpose of conspicuity of the UA at night to allow a person on the ground, to distinguish the UA from a manned aircraft;
+
+(19) be placed on the market with manufacturer’s instructions providing:
+
+(a) the characteristics of the UA including but not limited to the:
+
+— class of the UA;
+
+— UA mass (with a description of the reference configuration) and the maximum take-off mass (MTOM);
+
+— general characteristics of allowed payloads in terms of mass, dimensions, interfaces with the UA and other possible restrictions;
+
+— equipment and software to control the UA remotely;
+
+— the procedures to upload the UAS operator registration number into the remote identification system
+
+— reference of the transmission protocol used for the direct remote identification system emission;
+
+— sound power level; and
+
+— description of the behaviour of the UA in case of a loss of the command and control link, and the method to recover the command and control link of the UA; and
+
+—
+
+(b) clear operational instructions;
+
+(c) the procedure to upload the airspace limitations into the geo-awareness function;
+
+(d) maintenance instructions;
+
+(e) troubleshooting procedures;
+
+(f) operational limitations (including but not limited to meteorological conditions and day/night operations); and
+
+(g) appropriate description of all the risks related to UAS operations;
+
+(20) include an information notice published by EASA providing the applicable limitations and obligations, in accordance with Implementing Regulation (EU) 2019/947;
+
+(21) if equipped with a network remote identification system it shall:
+
+(a) ensure, in real time during the whole duration of the flight, the transmission from the UA using an open and documented transmission protocol, in a way that it can be received through a network, of at least the following data;
+
+i the UAS operator registration number and the verification code provided by the Member State of registration during the registration process unless the consistency check defined in point 14(a) is not passed;
+
+ii the unique serial number of the UA compliant with point (13);
+
+iii the time stamp, the geographical position of the UA and its height above the surface or take-off point;
+
+iv the route course measured clockwise from true north and ground speed of the UA;
+
+v the geographical position of the remote pilot or, if not available, the take-off point; and
+
+vi an indication of the emergency status of the UAS;
+
+(b) reduce the ability of tampering the functionality of the direct remote identification system.
+
+**PART 4**
+
+**Requirements for a class C3 Unmanned aircraft system**
+
+A class C3 UAS bears the following class identification label on the UA:
+
+[image]
+
+A class C3 UAS shall comply with the following:
+
+(1) have an MTOM of less than 25 kg, including payload, and have a maximum characteristic dimension of less than 3 m;
+
+(2) have a maximum attainable height above the take-off point limited to 120 m or be equipped with a system that limits the height above the surface or above the take-off point to 120 m or to a value selectable by the remote pilot. If the value is selectable, clear information about the height of the UA above the surface or take-off point during flight shall be provided to the remote pilot;
+
+(3) be safely controllable with regard to stability, manoeuvrability and the command and control link performance, by a remote pilot with adequate competency as defined in Implementing Regulation (EU) 2019/947 and following the manufacturer’s instructions, as necessary under all anticipated operating conditions including following the failure of one or, if appropriate, more systems;
+
+(4) in the case of a tethered UA, have a tensile length of the tether that is less than 50 m and a mechanical strength of no less than:
+
+(a) for heavier-than-air aircraft, 10 times the weight of the aerodyne at maximum mass;
+
+(b) for lighter-than-air aircraft, 4 times the force exerted by the combination of the maximum static thrust and the aerodynamic force of the maximum allowed wind speed in flight;
+
+(5) unless tethered, in case of a loss of the command and control link, have a reliable and predictable method for the UA to recover the command and control link or, if it fails, terminate the flight in a way that reduces the effect on third parties in the air or on the ground;
+
+(6) unless it is a fixed-wing UA, have the indication of the guaranteed A-weighted sound power level LWA determined as per Part 13 affixed on the UA and/or its packaging as per Part 14;
+
+(7) be exclusively powered by electricity;
+
+(8) have a unique serial number compliant with standard ANSI/CTA-2063-A-2019, Small Unmanned Aerial Systems Serial Numbers, 2019;
+
+(9) unless tethered, have a direct remote identification that:
+
+(a) allows the upload of the UAS operator registration number required in accordance with Article 14 of Implementing Regulation (EU) 2019/947 and any additional number provided by the registration system; the system shall perform a consistency check verifying the integrity of the full string provided to the UAS operator at the time of registration; in case of inconsistency, the UAS shall emit an error message to the UAS operator;
+
+(b) ensures, in real time during the whole duration of the flight, the direct periodic broadcast from the UA using an open and documented transmission protocol, in a way that it can be received directly by existing mobile devices within the broadcasting range, of at least the following data:
+
+i the UAS operator registration number and the verification code provided by the Member State during the registration process unless the consistency check defined in point (a) is not passed;
+
+ii the unique serial number of the UA compliant with point (8);
+
+iii the time stamp, the geographical position of the UA and its height above the surface or take-off point;
+
+iv the route course measured clockwise from true north and ground speed of the UA;
+
+v the geographical position of the remote pilot or, if not available, the take-off point; and
+
+vi an indication of the emergency status of the UAS;
+
+(c) reduces the ability of tampering the functionality of the direct remote identification system;
+
+(10) be equipped with a geo-awareness function that provides:
+
+(a) an interface to load and update data containing information on airspace limitations related to UA position and height imposed by the UAS geographical zones, as defined by article 15 of Implementing Regulation (EU) 2019/947, which ensures that the process of loading or updating of this data does not degrade its integrity and validity;
+
+(b) a warning alert to the remote pilot when a potential breach of airspace limitations is detected; and
+
+(c) information to the remote pilot on the UA’s status as well as a warning alert when its positioning or navigation systems cannot ensure the proper functioning of the geo-awareness function;
+
+(11) if the UA has a function that limits its access to certain airspace areas or volumes, this function shall operate in such a manner that it interacts smoothly with the flight control system of the UA without adversely affecting flight safety; in addition, clear information shall be provided to the remote pilot when this function prevents the UA from entering these airspace areas or volumes;
+
+(12) unless tethered, be equipped with a command and control link protected against unauthorised access to the command and control functions;
+
+(13) provide the remote pilot with a clear warning when the battery of the UA or its CMU reaches a low level to allow the remote pilot sufficient time to safely land the UA;
+
+(14) be equipped:
+
+(a) with lights for the purpose of controllability of the UA; and
+
+(b) with at least one green flashing light for the purpose of conspicuity of the UA at night to allow a person on the ground to distinguish the UA from a manned aircraft;
+
+(15) be placed on the market with manufacturer’s instructions providing:
+
+(a) the characteristics of the UA including but not limited to the:
+
+— class of the UA;
+
+— UA mass (with a description of the reference configuration) and the maximum take-off mass (MTOM);
+
+— general characteristics of allowed payloads in terms of mass, dimensions, interfaces with the UA and other possible restrictions;
+
+— equipment and software to control the UA remotely;
+
+— the procedures to upload the UAS operator registration number into the remote identification system;
+
+— reference of the transmission protocol used for the direct remote identification system emission;
+
+— sound power level;
+
+— description of the behaviour of the UA in case of a loss of the command and control link, and the method to recover command and control link of the UA.
+
+(b) clear operational instructions;
+
+(c) the procedure to upload the airspace limitations into the geo-awareness function;
+
+(d) maintenance instructions;
+
+(e) troubleshooting procedures
+
+(f) operational limitations (including but not limited to meteorological conditions and day/night operations); and
+
+(g) appropriate description of all the risks related to UAS operations;
+
+(16) include an information notice published by EASA providing the applicable limitations and obligations, in accordance with Implementing Regulation (EU) 2019/947;
+
+(17) if equipped with a network remote identification system it shall:
+
+(a) ensure, in real time during the whole duration of the flight, the transmission from the UA using an open and documented transmission protocol, in a way that it can be received through a network, of at least the following data;
+
+i. the UAS operator registration number and the verification code provided by the Member State of registration during the registration process unless the consistency check defined in point 9(a) is not passed;
+
+ii. the unique serial number of the UA compliant with point (8);
+
+iii. the time stamp, the geographical position of the UA and its height above the surface or take-off point;
+
+iv. the route course measured clockwise from true north and ground speed of the UA;
+
+v. the geographical position of the remote pilot or, if not available, the take-off point; and
+
+vi. an indication of the emergency status of the UAS;
+
+(b) reduce the ability of tampering the functionality of the direct remote identification system.
+
+**PART 5**
+
+**Requirements for a class C4 Unmanned aircraft system**
+
+A class C4 UAS bears the following label on the UA in a visible manner:
+
+[image]
+
+A class C4 UAS shall comply with the following:
+
+(1) have an MTOM of less than 25 kg, including payload;
+
+(2) be safely controllable and manoeuvrable by a remote pilot following the manufacturer’s instructions, as necessary under all anticipated operating conditions including following the failure of one or, if appropriate, more systems;
+
+(3) not be capable of automatic control modes except for flight stabilisation assistance with no direct effect on the trajectory and lost link assistance provided that a pre-determined fixed position of the flight controls in case of lost link is available;
+
+(4) be placed on the market with manufacturer’s instructions providing:
+
+(a) the characteristics of the UA including but not limited to the:
+
+— class of the UA
+
+— UA mass (with a description of the reference configuration) and the maximum take-off mass (MTOM);
+
+— general characteristics of allowed payloads in terms of mass, dimensions, interfaces with the UA and other possible restrictions;
+
+— equipment and software to control the UA remotely; and
+
+— and a description of the behaviour of the UA in case of a loss of the command and control link;
+
+(b) clear operational instructions;
+
+(c) maintenance instructions;
+
+(d) troubleshooting procedures;
+
+(e) operational limitations (including but not limited to meteorological conditions and day/night operations); and
+
+(f) appropriate description of all the risks related to UAS operations;
+
+(5) include an information notice published by EASA providing the applicable limitations and obligations, in accordance with Implementing Regulation (EU) 2019/947.
+
+**PART 6**
+
+**Requirements for a direct remote identification add-on**
+
+A direct remote identification add-on shall comply with the following:
+
+(1) allow the upload of the UAS operator registration number required in accordance with Article 14 of Implementing Regulation (EU) 2019/947 and any additional number provided by the registration system; the system shall perform a consistency check verifying the integrity of the full string provided to the UAS operator at the time of registration; in case of inconsistency, the system shall emit an error message to the UAS operator;
+
+(2) have a unique serial number compliant with standard ANSI/CTA-2063-A-2019, Small Unmanned Aerial Systems Serial Numbers, 2019, affixed to the add-on and its packaging or its manufacturer’s instructions in a legible manner;
+
+(3) ensure, in real time during the whole duration of the flight, the direct periodic broadcast from the UA using an open and documented transmission protocol, in a way that it can be received directly by existing mobile devices within the broadcasting range, of at least the following data:
+
+i the UAS operator registration number and the verification code provided by the Member State of registration the during the registration process unless the consistency check defined in point (a) is not passed;
+
+ii the unique serial number of the add-on compliant with point (2);
+
+iii the time stamp, the geographical position of the UA and its height above the surface or take-off point;
+
+iv the route course measured clockwise from true north and ground speed of the UA; and
+
+v the geographical position of the remote pilot or, if not available, the take-off point;
+
+(4) reduce the ability of tampering the functionality of the direct remote identification system; and
+
+(5) be placed on the market with manufacturer’s instructions providing the reference of the transmission protocol used for the direct remote identification emission and the instruction to:
+
+(a) install the module on the UA; and
+
+(b) upload the UAS operator registration number.
+
+**PART 7**
+
+**Conformity assessment Module A – Internal production control**
+
+1\. Internal production control is the conformity assessment procedure whereby the manufacturer fulfils the obligations set out in points 2, 3 and 4 of this Part, and ensures and declares on their sole responsibility that the products concerned satisfy the requirements set out in Parts 1, 5, 6, 16 or 17 which apply to them.
+
+2\. Technical documentation
+
+The manufacturer shall develop the technical documentation in accordance with Article 17 of this Regulation.
+
+3\. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure compliance of the manufactured product with the technical documentation referred to in point 2 of this Part and with the requirements set out in Parts 1, 5, 6, 16 or 17 which apply to them.
+
+4\. CE marking and EU declaration of conformity
+
+(1) In accordance with Articles 15 and 16 of this Regulation, the manufacturer shall affix the CE marking and, when applicable, the UA class identification label, to each individual product that satisfies the applicable requirements set out in Parts 1, 5, 6, 16 or 17 which apply to them.
+
+(2) The manufacturer shall draw up a written EU declaration of conformity for each product model and keep it together with the technical documentation at the disposal of the national authorities for 10 years after the product has been placed on the market. The EU declaration of conformity shall clearly identify the product for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+5\. Authorised representative
+
+The manufacturers’ obligations set out in point 4 may be fulfilled by an authorised representative, on their behalf and under their responsibility, provided that they are specified in the mandate.
+
+**PART 8**
+
+**Conformity assessment Modules B and C – EU-type examination and conformity to type based on internal production control**
+
+When reference is made to this Part, the conformity assessment procedure shall follow Modules B (EU-type examination) and C (Conformity to type based on internal production control) of this Part.
+
+**Module B**
+
+**EU-type examination**
+
+1\. EU-type examination is the part of a conformity assessment procedure in which a notified body examines the technical design of the product and verifies and attests that the technical design of the product meets the applicable requirements set out in Parts 1 to 6, 16 and 17.
+
+2\. EU-type examination shall be carried out by an assessment of the adequacy of the technical design of the product through examination of the technical documentation and supporting evidence referred to in point 3, plus examination of specimens, representative of the production envisaged, of one or more critical parts of the product (combination of production type and design type).
+
+3\. The manufacturer shall lodge an application for EU-type examination with a single notified body of his choice.
+
+The application shall include:
+
+(1) the name and address of the manufacturer and, if the application is lodged by the authorised representative, his name and address as well;
+
+(2) a written declaration that the same application has not been lodged with any other notified body;
+
+(3) the technical documentation; the technical documentation shall make it possible to assess the product’s conformity with the applicable requirements of this Regulation and shall include an adequate analysis and assessment of the risk(s); the technical documentation shall contain, wherever applicable, the elements set out in Article 17 of this Regulation;
+
+(4) the specimens representative of the production envisaged; the notified body may request further specimens if needed for carrying out the test programme;
+
+(5) the supporting evidence for the adequacy of the technical design solution; this supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards and/or technical specifications have not been applied or have not been applied in full; the supporting evidence shall include, where necessary, the results of tests carried out in accordance with other relevant technical specifications by the appropriate laboratory of the manufacturer or by another testing laboratory on his behalf and under his responsibility.
+
+4\. The notified body shall:
+
+For the product:
+
+(1) examine the technical documentation and supporting evidence to assess the adequacy of the product’s technical design.
+
+For the specimen(s):
+
+(2) verify that the specimen(s) has (have) been manufactured in conformity with the technical documentation, and identify the elements which have been designed in accordance with the applicable provisions of the relevant harmonised standards and/or technical specifications, as well as the elements which have been designed without applying the relevant provisions of those standards;
+
+(3) carry out appropriate examinations and tests, or have them carried out, to check whether, where the manufacturer has chosen to apply the solutions in the relevant harmonised standards and/or technical specifications, these have been applied correctly;
+
+(4) carry out appropriate examinations and tests, or have them carried out, to check whether, where the solutions in the relevant harmonised standards and/or technical specifications have not been applied, the solutions adopted by the manufacturer meet the corresponding essential requirements of the legislative instrument;
+
+(5) agree with the manufacturer on a location where the examinations and tests will be carried out.
+
+5\. The notified body shall draw up an evaluation report that records the activities undertaken in accordance with point 4 and their outcomes. Without prejudice to its obligations as provided in point 8, the notified body shall release the content of this report, in full or in part, only with the agreement of the manufacturer.
+
+6\. Where the type meets the requirements of this Regulation, the notified body shall issue an EU-type examination certificate to the manufacturer. This certificate shall contain the name and address of the manufacturer, the conclusions of the examination, the relevant aspects of the requirements covered by the examination, the conditions (if any) for its validity, and the data necessary for the identification of the approved type. The certificate may have one or more annexes attached to it.
+
+The EU certificate and its annexes shall contain all relevant information to allow the conformity of manufactured products with the examined type to be evaluated and to allow for in service control.
+
+Where the type does not satisfy the applicable requirements of this Regulation, the notified body shall refuse to issue an EU-type examination certificate and shall inform the applicant accordingly, giving detailed reasons for its refusal.
+
+7\. The notified body shall keep itself apprised of any changes in the generally acknowledged state of the art which indicates that the approved type may no longer comply with the applicable requirements of this Regulation, and shall determine whether such changes require further investigation. If so, the notified body shall inform the manufacturer accordingly.
+
+The manufacturer shall inform the notified body that holds the technical documentation relating to the EU-type examination certificate of all modifications to the approved type that may affect the product’s conformity with the essential requirements of this Regulation or the conditions for the certificate’s validity. Such modifications shall require additional approval and attached to the original EU-type examination certificate.
+
+8\. Each notified body shall inform its notifying authority concerning the EU-type examination certificates and/or any additions thereto which it has issued or withdrawn, and shall, periodically or upon request, make available to its notifying authority the list of certificates and/or any additions thereto refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies concerning the EU-type examination certificates and/or any additions thereto which it has refused, withdrawn, suspended or otherwise restricted, and, upon request, concerning the certificates and/or additions thereto which it has issued.
+
+The Commission, the Member States and the other notified bodies may, on request, obtain a copy of the EU-type examination certificates and/or additions thereto. On a reasoned request, the Commission and the Member States may obtain a copy of the technical documentation and the results of the examinations carried out by the notified body.
+
+The notified body shall keep a copy of the EU-type examination certificate, its annexes and additions, as well as the technical file including the documentation submitted by the manufacturer for 10 years after the product has been assessed or until the validity of the certificate expires.
+
+9\. The manufacturer shall keep a copy of the EU-type examination certificate, its annexes and additions together with the technical documentation at the disposal of the national authorities for 10 years after the product has been placed on the market.
+
+10\. The manufacturer’s authorised representative may lodge the application referred to in point 3 and fulfil the obligations set out in points 7 and 9, provided that they are specified in the mandate.
+
+**Module C**
+
+**Conformity to type based on internal production control**
+
+1\. Conformity to type based on internal production control is the part of a conformity assessment procedure whereby the manufacturer fulfils the obligations laid down in points 2 and 3, and ensures and declares that the products concerned are in conformity with the type described in the EU-type examination certificate and satisfy the applicable requirements of this Regulation.
+
+2\. Manufacturing
+
+The manufacturer shall take all measures necessary so that the manufacturing process and its monitoring ensure conformity of the manufactured product with the approved type described in the EU-type examination certificate and with the applicable requirements set out in Parts 1 to 6, 16 and 17.
+
+3\. CE marking and EU declaration of conformity
+
+(1) The manufacturer shall affix the CE marking and, when relevant, the UA class identification label in accordance with Articles 15 and 16 of this Regulation to each product that is in conformity with the type described in the EU-type examination certificate and satisfies the applicable requirements set out in Parts 1 to 6, 16 and 17.
+
+(2) The manufacturer shall draw up a written EU declaration of conformity for each product type and keep it at the disposal of the national authorities for 10 years after the product has been placed on the market. The EU declaration of conformity shall clearly identify the product type for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+4\. Authorised representative
+
+The manufacturer’s obligations set out in point 3 may be fulfilled by their authorised representative, on their behalf and under their responsibility, provided that this is specified in the mandate.
+
+**PART 9**
+
+**Conformity assessment Module H —Conformity based on full quality assurance**
+
+1\. Conformity based on full quality assurance is the conformity assessment procedure whereby manufacturers fulfil the obligations set out in paragraphs 2 and 5, and ensure and declare on their sole responsibility that the product concerned satisfies the applicable requirements set out in Parts 1 to 6, 16 and 17.
+
+2\. Manufacturing
+
+The manufacturer shall operate an approved quality system for design, manufacture, final inspection and testing of the product concerned as specified in point 3 and shall be subject to surveillance as specified in point 4.
+
+3\. Quality system
+
+(1) The manufacturer shall lodge an application for the assessment of his quality system with the notified body of their choice, for the product concerned.
+
+The application shall include:
+
+(a) the name and address of the manufacturer and, if the application is lodged by the authorised representative, their name and address as well;
+
+(b) the technical documentation for each type of product intended to be manufactured, containing the elements set out in Part 10 where applicable;
+
+(c) the documentation concerning the quality system;
+
+(d) a written declaration stating that the same application has not been lodged with any other notified body.
+
+(2) The quality system shall ensure compliance of the product with the requirements of this Regulation.
+
+All the elements, requirements and provisions adopted by the manufacturer shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions. This quality system documentation shall permit a consistent interpretation of the quality programmes, plans, manuals and records.
+
+The documentation shall, in particular, contain an adequate description of:
+
+(a) the quality objectives and the organisational structure, responsibilities and powers of the management with regard to product design and quality;
+
+(b) the technical design specifications, including standards, that will be applied and, where the relevant harmonised standards will not be applied in full, the means that will be used to ensure that the requirements of this Regulation are met;
+
+(c) the design control and design verification techniques, processes and systematic actions that will be used when designing the products pertaining to the product type covered;
+
+(d) the corresponding manufacturing, quality control and quality assurance techniques, processes and systematic actions that will be used;
+
+(e) the examinations and tests that will be carried out before, during and after manufacture, and the frequency with which they will be carried out;
+
+(f) the quality records, such as inspection reports and test data, calibration data, reports concerning the qualifications or approvals of the personnel concerned, etc.;
+
+(g) the means of monitoring the achievement of the required design and product quality and the effective operation of the quality system.
+
+(3) The notified body shall assess the quality system to determine whether it satisfies the requirements referred to in point 3(2).
+
+It shall presume conformity with those requirements in respect of elements of the quality system that comply with the corresponding specifications of the relevant harmonised standard.
+
+In addition to experience in quality management systems, the auditing team shall have at least one member experienced as an assessor in the relevant product field and product technology concerned, and knowledge of the applicable requirements of this Regulation. The audit shall include an assessment visit on the manufacturer’s premises. The auditing team shall review the technical documentation referred to in point 3(1)(b) to verify the manufacturer’s ability to identify the applicable requirements of this Regulation and to carry out the necessary examinations with a view to ensuring the product’s compliance with these requirements.
+
+The manufacturer or his authorised representative shall be notified of the decision.
+
+The notification shall contain the conclusions of the audit and the reasoned assessment decision.
+
+(4) The manufacturer shall undertake to fulfil the obligations arising out of the quality system as approved and to maintain it so that it remains adequate and efficient.
+
+The manufacturer shall keep the notified body that has approved the quality system informed of any intended change to the quality system.
+
+(5) The notified body shall evaluate any proposed changes and decide whether the modified quality system will continue to satisfy the requirements referred to in point 3(2) or whether a reassessment is necessary.
+
+The notified body shall notify the manufacturer of its decision. The notification shall contain the conclusions of the examination and the reasoned assessment decision.
+
+4\. Surveillance under the responsibility of the notified body
+
+(1) The purpose of surveillance is to make sure that the manufacturer duly fulfils the obligations arising out of the approved quality system.
+
+(2) The manufacturer shall, for assessment purposes, allow the notified body access to the design, manufacture, inspection, testing and storage sites, and shall provide it with all necessary information, in particular:
+
+(a) the quality system documentation;
+
+(b) the quality records as provided for by the design part of the quality system, such as results of analyses, calculations, tests, etc.;
+
+(c) the quality records as provided for by the manufacturing part of the quality system, such as inspection reports and test data, calibration data, reports concerning the qualifications of the personnel, etc.
+
+(3) The notified body shall carry out periodic audits to make sure that the manufacturer maintains and applies the quality system and shall provide the manufacturer with an audit report.
+
+(4) In addition, the notified body may pay unexpected visits to the manufacturer. During such visits, the notified body may, if necessary, carry out UA or UAS tests, or have them carried out, in order to check the proper functioning of the quality system. It shall provide the manufacturer with a visit report and, if tests have been carried out, with a test report.
+
+5\. CE marking and EU declaration of conformity
+
+(1) The manufacturer shall affix the CE marking and, when relevant, the UAS class identification label in accordance with Articles 15 and 16 of this Regulation and, under the responsibility of the notified body referred to in point 3(1) of this Part, the latter’s identification number to each individual product that satisfies the applicable requirements of this Regulation.
+
+(2) The manufacturer shall draw up a written EU declaration of conformity for each product type and keep it at the disposal of the national authorities for 10 years after the product has been placed on the market. The EU declaration of conformity shall identify the product type for which it has been drawn up.
+
+A copy of the EU declaration of conformity shall be made available to the relevant authorities upon request.
+
+6\. The manufacturer shall, for a period ending 10 years after the product has been placed on the market, keep at the disposal of the national authorities:
+
+(1) the technical documentation referred to in point 3(1);
+
+(2) the documentation concerning the quality system referred to in point 3(1);
+
+(3) the change referred to in point 3(5), as approved;
+
+(4) the decisions and reports of the notified body referred to in points 3(5), 4(3) and 4(4).
+
+7\. Each notified body shall inform its notifying authority of the quality system approvals issued or withdrawn, and shall, periodically or upon request, make available to its notifying authority the list of the quality system approvals it has refused, suspended or otherwise restricted.
+
+Each notified body shall inform the other notified bodies of the quality system approvals which it has refused, suspended or withdrawn, and, upon request, of quality system approvals which it has issued.
+
+8\. Authorised representative
+
+The manufacturer’s obligations set out in points 3(1), 3(5), 5 and 6 may be fulfilled by their authorised representative, on their behalf and under their responsibility, provided that this is specified in the mandate.
+
+**PART 10**
+
+**Contents of the technical documentation**
+
+The manufacturer shall establish the technical documentation. The documentation shall make it possible to assess the product’s conformity to the applicable requirements.
+
+The technical documentation shall, wherever applicable, contain at least the following elements,:
+
+1\. a complete description of the product including:
+
+(a) photographs or illustrations showing its external features, markings and internal layout;
+
+(b) the versions of any software or firmware involved in compliance with the requirements set by this Regulation;
+
+(c) manufacturer’s and installation instructions;
+
+2\. conceptual design and manufacturing drawings and schemes of components, sub-assemblies, circuits and other relevant similar elements;
+
+3\. descriptions and explanations necessary for the understanding of those drawings and schemes and the operation of the product;
+
+4\. a list of the harmonised standards applied in full or in part, the references of which have been published in the Official Journal of the European Union, and, where those harmonised standards have not been applied, descriptions of the solutions adopted to meet the essential requirements set out in Article 4, including a list of other relevant technical specifications applied. In the event of partly applied harmonised standards, the technical documentation shall specify the parts which have been applied;
+
+5\. copy of the EU declaration of conformity;
+
+6\. where the conformity assessment module in Part 8 has been applied, copy of the EU type examination certificate and its annexes as delivered by the notified body involved;
+
+7\. results of design calculations made, examinations carried out, and other relevant similar elements;
+
+8\. test reports;
+
+9\. copies of the documents that the manufacturer has submitted to the notified body if any involved;
+
+10\. the supporting evidence for the adequacy of the technical design solution. This supporting evidence shall mention any documents that have been used, in particular where the relevant harmonised standards and/or technical specifications have not been applied in full. The supporting evidence shall include, where necessary, the results of tests carried out by the appropriate laboratory of the manufacturer, or by another testing laboratory on his behalf and under his responsibility;
+
+11\. addresses of places of manufacture and storage.
+
+**PART 11**
+
+**EU declaration of conformity**
+
+1\. The product (type, batch and serial number).
+
+2\. Name and address of the manufacturer or his authorised representative.
+
+3\. This declaration of conformity is issued under the sole responsibility of the manufacturer. [in case of a kit of accessories, the manufacturer of the kit may indicate that this certificates relies on the certificate of the UAS which the kit ensures the conversion.]
+
+4\. Object of the declaration [identification of the product allowing traceability; it may include a colour image of sufficient resolution where necessary for the identification of the products; in case of a kit of accessories, indicate the type of UAS to which the kit ensures the conversion].
+
+5\. The object of the declaration described above is of class … [include for UAS the class number as defined by Parts 1 to 5, 16 and 17 of this Annex; for a kit of accessories, indicate the class into which the UAS is converted].
+
+6\. The guaranteed sound power level for this UAS equipment is …. dB(A) [for non fixed-wing UAS classes 1 to 3 only]
+
+7\. The object of the declaration described above is in conformity with the relevant Union harmonisation legislation:
+
+— [include the reference to this Regulation and the Annex relevant to the class of the product];
+
+— or other Union harmonisation legislation where applicable.
+
+8\. References to the relevant harmonised standards used or references to the other technical specifications in relation to which conformity is declared. References must be listed with their identification number and version and, where applicable, date of issue.
+
+9\. Where applicable, the notified body … [name, number] … performed … [description of intervention] … and issued the EU-type examination certificate.
+
+10\. Where applicable, a description of accessories and components, including software, which allow the unmanned aircraft or unmanned aircraft system to operate as intended and covered by the EU declaration of conformity.
+
+11\. Additional information:
+
+Signed for and on behalf of: …
+
+[place and date of issue]:
+
+[name, function] [signature]:
+
+**PART 12**
+
+**Simplified EU declaration of conformity**
+
+The simplified EU declaration of conformity referred to in Article 14(3) shall be provided as follows:
+
+— [Name of manufacturer] hereby declares that the UAS [identification of the UAS: type or serial number] is of class … … [for UAS include the class number of the product as defined in Parts 1 to 5, 16 or 17 of this Annex; for a kit of accessories, indicate the class into which the UAS is converted] and has a guaranteed sound power level of …. dB(A) [for non fixed-wing UAS classes 1, 2, 3, 5 and 6 only]
+
+— and in compliance with Regulations … [list all the Regulations that the product complies with].
+
+— The full EU declaration of conformity is accessible at the following website: [website address]
+
+**PART 13**
+
+**Noise test code**
+
+This Part lays down the methods of measurement of airborne noise that shall be used for the determination of the measured A-weighted sound power levels of UA classes 1, 2, 3, 5 and 6.
+
+It lays down the basic noise emission standard and detailed test code for measuring the sound pressure level on a measurement surface enveloping the source and for calculating the sound power level produced by the source.
+
+**1\. BASIC NOISE EMISSION STANDARD**
+
+For the determination of the A-weighted sound power level LWA of UA, the basic noise emission standards EN ISO 3744:2010 will be used subject to the following supplements:
+
+**2\. INSTALLATION AND MOUNTING CONDITIONS**
+
+Test area:
+
+The UA will be maintained above one reflecting (acoustically hard) plane. The UA shall be located at a sufficient distance from any reflecting wall or ceiling or any reflecting object so that the requirements given in Annex A of EN ISO 3744:2010 are satisfied on the measurement surface.
+
+Sound measurement surface and microphone array:
+
+The UA will be completely enclosed in a hemispherical measurement surface as par § 7.2.3 of EN ISO 3744:2010.
+
+The number and position of the microphones is defined by Annex F of EN ISO 3744:2010.
+
+The measurement surface shall have its origin at the point O lying in the ground plane directly below the UA.
+
+**3\. OPERATING CONDITIONS DURING TEST**
+
+The noise tests shall be carried out with the UA’s rotors operating at a speed corresponding to the hovering of the UA under MTOM.
+
+If the UA is placed on the market with accessories that can be fitted to it, it will be tested with and without these accessories in all possible UA configurations.
+
+**4\. CALCULATION OF SURFACE TIME-AVERAGED SOUND PRESSURE LEVEL**
+
+The A-weighted surface time-averaged sound pressure level shall be determined at least three times for each UA configuration. If at least two of the determined values do not differ by more than 1 dB, further measurements will not be necessary; otherwise the measurements shall be continued until two values differing by no more than 1 dB are obtained. The surface time-averaged sound pressure level to be used for calculating the sound power level of a UA configuration is the arithmetic mean of the two highest values that do not differ by more than 1 dB.
+
+**5\. INFORMATION TO BE REPORTED**
+
+The report shall contain the technical data necessary to identify the source under test as well as the noise test code and the acoustical data.
+
+The A-weighted sound power level value to be reported is the highest value of the different UA configurations tested rounded to the nearest whole number (less than 0,5 use the lower number; greater than or equal to 0,5 use the higher number).
+
+**PART 14**
+
+**Indication of the guaranteed sound power level**
+
+The indication of the guaranteed sound power level must consist of the single number of the guaranteed sound power in dB, the sign LWA and a pictogram taking the following form:
+
+[image]
+
+If the indication is reduced according to the size of the equipment the proportions given in the above drawing must be respected. However, the vertical dimension of the indication should, if possible, not be less than 20 mm.
+
+**PART 15**
+
+**Maximum sound power level per class of UA (including transition periods)**
+
+<table>
+<tbody><tr><td rowspan="2">UA class</td><td rowspan="2">MTOM m in gram</td><td colspan="3">Maximum sound power level LWA in dB</td></tr>
+<tr><td>as from entry into force</td><td>as from 2 years after entry into force</td><td>as from 4 years after entry into force</td></tr>
+<tr><td>C1 and C2</td><td>m &lt; 900</td><td>85</td><td>83</td><td>81</td></tr>
+<tr><td>C2</td><td>900 ≤ m &lt; 4 000 </td><td>85 + 18,5 lg[image]</td><td>83 + 18,5 lg[image]</td><td>81 + 18,5 lg[image]</td></tr>
+</tbody>
+</table>
+
+Where ‘lg’ is the base 10 logarithm.
+
+**PART 16**
+
+**Requirements for a class C5 unmanned aircraft system and C5 accessories**
+
+A class C5 UAS bears the following class identification label on the UA:
+
+[image]
+
+A class C5 UAS shall comply with the requirements defined in Part 4, except those defined in paragraphs (2) and (10) of Part 4.
+
+In addition, it shall comply with the following requirements:
+
+(1) be an aircraft other than a fixed-wing aircraft unless tethered;
+
+(2) if it is equipped with a geo-awareness function, comply with paragraph (10) of Part 4;
+
+(3) during flight, provide the remote pilot with clear and concise information on the height of the UA above the surface or take-off point;
+
+(4) unless tethered, be equipped with a low-speed mode selectable by the remote pilot and limiting the ground speed to not more than 5 m/s;
+
+(5) unless tethered, provide means for the remote pilot to terminate the flight of the UA, which shall:
+
+(a) be reliable, predictable and independent from the automatic flight control and guidance system; this applies also to the activation of this means;
+
+(b) force the descent of the UA and prevent its powered horizontal displacement; and
+
+(c) include means to reduce the effect of the UA impact dynamics;
+
+(6) unless tethered, provide the remote pilot with means to continuously monitor the quality of the command and control link and receive an alert when it is likely that the link is going to be lost or degraded to the extent of compromising the safe conduct of the operation, and another alert when the link is lost; and
+
+(7) in addition to the information indicated in point (15)(a) of Part 4, include in the manufacturer’s instructions a description of the means to terminate the flight required in point (5).
+
+(8) A class C5 UAS may consist in a class C3 UAS fitted with an accessories kit that ensures the conversion of the UAS C3 into a class C5 UAS. In this case, the class C5 label shall be affixed on all the accessories.
+
+An accessories kit may only ensure conversion of a class C3 UAS that complies with point (1) and provides the necessary interfaces to the accessories.
+
+The accessories kit shall not include changes to the software of the class C3 UAS.
+
+The accessories kit shall be designed, and each accessory shall be identified, to ensure a complete and correct installation by a UAS operator on a class C3 UAS following the instructions provided by the manufacturer of the accessories kit.
+
+The accessories kit may be placed on the market independently from the class C3 UAS for which they ensure the conversion. In this case, the manufacturer of the accessories kit shall place on the market a single conversion kit that shall:
+
+(1) not alter the compliance of the class C3 UAS with the requirements of Part 4;
+
+(2) ensure compliance of the UAS fitted with the accessories kit with all additional requirements defined in this Part with the exception of point (3) above; and
+
+(3) be accompanied by manufacturer’s instructions providing:
+
+(i) the list of all class C3 UAS to which the kit can be applied; and
+
+(ii) instructions on how to install and operate the accessories kit.
+
+**PART 17**
+
+**Requirements for a class C6 unmanned aircraft system**
+
+A class C6 UAS bears the following class identification label on the UA:
+
+[image]
+
+A class C6 UAS shall comply with the requirements defined in Part 4, except those defined in paragraphs (2), (7) and (10).
+
+In addition, it shall comply with the following requirements:
+
+(1) have a maximum ground speed in level flight of not more than 50 m/s;
+
+(2) if it is equipped with a geo-awareness function, comply with paragraph (10) of Part 4;
+
+(3) during flight, provide the remote pilot with clear and concise information on the geographical position of the UA, its speed and its height above the surface or take-off point;
+
+(4) provide means to prevent the UA from breaching the horizontal and vertical limits of a programmable operational volume;
+
+(5) provide means for the remote pilot to terminate the flight of the UA, which shall:
+
+(a) be reliable, predictable, independent from the automatic flight control and guidance system and independent from the means to prevent the UA from breaching the horizontal and vertical limits as required in point (4); this applies also to the activation of this means; and
+
+(b) force the descent of the UA and prevent its powered horizontal displacement;
+
+(6) provide means to programme the UA trajectory;
+
+(7) provide the remote pilot with means to continuously monitor the quality of the command and control link and receive an alert when it is likely that the link is going to be lost or degraded to the extent of compromising the safe conduct of the operation, and another alert when the link is lost; and
+
+(8) in addition to the information indicated in point (15)(a) of Part 4, include in the manufacturer’s instructions:
+
+(a) a description of the means to terminate the flight required in point (5);
+
+(b) a description of the means to prevent the UA from breaching the horizontal and vertical limits of the operational volume and the size of the contingency volume needed to accommodate position assessment error, reaction time and correction manoeuvre span; and
+
+(c) the distance most likely to be travelled by the UA after activation of the means to terminate the flight defined in point (5), to be considered by the UAS operator when defining the ground risk buffer.
+
+( 1 ) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1, ELI: http://data.europa.eu/eli/reg/2018/1139/oj)
+
+( 2 ) Regulation (EC) No 551/2004 of the European Parliament and of the Council of 10 March 2004 on the organisation and use of the airspace in the single European sky (OJ L 96, 31.3.2004, p. 20).
+
+( 3 ) Commission Implementing Regulation (EU) No 923/2012 of 26 September 2012 laying down the common rules of the air and operational provisions regarding services and procedures in air navigation and amending Implementing Regulation (EU) No 1035/2011 and Regulations (EC) No 1265/2007, (EC) No 1794/2006, (EC) No 730/2006, (EC) No 1033/2006 and (EU) No 255/2010, (OJ L 281 13.10.2012, p. 1).
+
+( 4 ) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18).
+
+( 5 ) Commission Regulation (EU) No 748/2012 of 3 August 2012 laying down implementing rules for the airworthiness and environmental certification or declaration of compliance of aircraft and related products, parts and appliances, as well as for the certification of design and production organisations (recast) (OJ L 224, 21.8.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/748/oj).
+
+( 6 ) Commission Regulation (EU) 2015/640 of 23 April 2015 on additional airworthiness specifications for a given type of operations and amending Regulation (EU) No 965/2012 (OJ L 106, 24.4.2015, p. 18, ELI: http://data.europa.eu/eli/reg/2015/640/oj).
+
+( 7 ) Commission Delegated Regulation (EU) 2024/1107 of 13 March 2024 supplementing Regulation (EU) No 2018/1139 of the European Parliament and of the Council by laying down detailed rules for the continuing airworthiness of certified unmanned aircraft systems and their components, and on the approval of organisations and personnel involved in these tasks (OJ L, 2024/1107, 17.5.2024, ELI: http://data.europa.eu/eli/reg_del/2024/1107/oj).

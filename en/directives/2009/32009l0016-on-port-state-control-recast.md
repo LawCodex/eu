@@ -26,6 +26,7 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2013/38/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 August 2013 </td><td> L 218</td><td>1</td><td>14.8.2013</td></tr>
@@ -34,6 +35,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> DIRECTIVE (EU) 2017/2110 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 November 2017 </td><td> L 315</td><td>61</td><td>30.11.2017</td></tr>
 <tr><td> M5</td><td> REGULATION (EU) 2023/1805 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 September 2023 </td><td> L 234</td><td>48</td><td>22.9.2023</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/3099 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2024 </td><td> L 3099</td><td>1</td><td>16.12.2024</td></tr>
+</table>
 
 **DIRECTIVE 2009/16/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -839,6 +841,7 @@ Ships to which the following unexpected factors apply may be subject to inspecti
 
 ## ANNEX II — DESIGN OF SHIP RISK PROFILE — (referred to in Article 10(2))
 
+<table>
 <tbody><tr><td colspan="4" rowspan="2">  </td><td colspan="4">Profile</td></tr>
 <tr><td colspan="2">High Risk Ship (HRS)</td><td>Standard Risk Ship (SRS)</td><td>Low Risk Ship (LRS)</td></tr>
 <tr><td colspan="4">Generic parameters</td><td>Criteria</td><td>Weighting points</td><td>Criteria</td><td>Criteria</td></tr>
@@ -863,6 +866,7 @@ Ships to which the following unexpected factors apply may be subject to inspecti
 <tr><td>8</td><td colspan="2">Number of deficiencies related to Marpol 73/78, AFS 2001, the BWM Convention, CLC 92, the Bunkers Convention, 2001, the Nairobi Convention and the Hong Kong Convention recorded in each inspection within previous 36 months</td><td>Deficiencies</td><td>&gt;2 in one of the inspections</td><td>1</td><td>  </td></tr>
 <tr><td colspan="8">HRS are ships which meet criteria to a total value of 5 or more weighting points. LRS are ships which meet all the criteria of the Low risk parameters.  SRS are ships which are neither HRS nor LRS. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV — LIST OF CERTIFICATES AND DOCUMENTS — (referred to in Article 13(1))
 

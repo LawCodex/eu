@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **setting out the schedule indicating the conditions to be met by ornamental plant propagating material and ornamental plants pursuant to Council Directive 91/682/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 1999/67/EC of 28 June 1999 </td><td> L 164</td><td>78</td><td>30.6.1999</td></tr>
 <tr><td> M2</td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2018/484 of 21 March 2018 </td><td> L 81</td><td>10</td><td>23.3.2018</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/177 of 11 February 2020 </td><td> L 41</td><td>1</td><td>13.2.2020</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2022/2438 of 12 December 2022 </td><td> L 319</td><td>54</td><td>13.12.2022</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 93/49/EEC**
 
@@ -67,6 +69,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX
 
+<table>
 <tbody><tr><td colspan="3">Bacteria</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Genus or species of propagating material of ornamental plants</td><td>Threshold for the presence of RNQPs on the propagating material of the ornamental plant</td></tr>
 <tr><td>Erwinia amylovora (Burrill) Winslow et al. [ERWIAM]</td><td>Propagating material of ornamental plants other than seeds Amelanchier Medik., Chaenomeles Lindl., Cotoneaster Medik., Crataegus Tourn. ex L., Cydonia Mill., Eriobtrya Lindl., Malus Mill., Mespilus Bosc ex Spach, Photinia davidiana Decne., Pyracantha M. Roem., Pyrus L., Sorbus L. </td><td>0 %</td></tr>
@@ -115,6 +118,7 @@ This Directive is addressed to the Member States.
 <tr><td>Plum pox virus [PPV000]</td><td>Propagating material of ornamental plants other than seeds Prunus armeniaca L., Prunus blireiana Andre, Prunus brigantina Vill., Prunus cerasifera Ehrh., Prunus cistena Hansen, Prunus curdica Fenzl and Fritsch., Prunus domestica L., Prunus domestica ssp. insititia (L.) C.K. Schneid, Prunus domestica ssp. italica (Borkh.) Hegi., Prunus dulcis (Miller) Webb, Prunus glandulosa Thunb., Prunus holosericea Batal., Prunus hortulana Bailey, Prunus japonica Thunb., Prunus mandshurica (Maxim.) Koehne, Prunus maritima Marsh., Prunus mume Sieb. and Zucc., Prunus nigra Ait., Prunus persica (L.) Batsch, Prunus salicina L., Prunus sibirica L., Prunus simonii Carr., Prunus spinosa L., Prunus tomentosa Thunb., Prunus triloba Lindl.  — other species of Prunus L. susceptible to Plum pox virus </td><td>0 %</td></tr>
 <tr><td>Tomato spotted wilt tospovirus [TSWV00]</td><td>Propagating material of ornamental plants other than seeds Begonia x hiemalis  Fotsch, Capsicum annuum L., Chrysanthemum L., Gerbera L., Impatiens L. New Guinea Hybrids, Pelargonium L. </td><td>0 %</td></tr>
 </tbody>
+</table>
 
 ( 1 ) Regulation (EU) 2016/2031 of the European Parliament of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (OJ L 317, 23.11.2016, p. 4).
 

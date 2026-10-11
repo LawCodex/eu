@@ -1,0 +1,1049 @@
+---
+title: "Commission Regulation (EC) No 1358/2003 of 31 July 2003 implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto (Text with EEA relevance)"
+identifier: "32003R1358"
+eli: "http://data.europa.eu/eli/reg/2003/1358/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2003-07-31
+entry_into_force: 2004-01-01
+last_amended: 2013-07-01
+consolidated_version: "02003R1358-20130701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02003R1358-20130701"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 1358/2003 of 31 July 2003 implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 1358/2003**
+
+**of 31 July 2003**
+
+**implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION REGULATION (EC) No 546/2005 of 8 April 2005 </td><td> L 91</td><td>5</td><td>9.4.2005</td></tr>
+<tr><td> M2</td><td> COMMISSION REGULATION (EC) No 1792/2006 of 23 October 2006 </td><td> L 362</td><td>1</td><td>20.12.2006</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 158/2007 of 16 February 2007 </td><td> L 49</td><td>9</td><td>17.2.2007</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 519/2013 of 21 February 2013 </td><td> L 158</td><td>74</td><td>10.6.2013</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 1358/2003**
+
+**of 31 July 2003**
+
+**implementing Regulation (EC) No 437/2003 of the European Parliament and of the Council on statistical returns in respect of the carriage of passengers, freight and mail by air and amending Annexes I and II thereto**
+
+**(Text with EEA relevance)**
+
+### Article 1
+
+For the purposes of Article 3(2), (4) and (5) of Regulation (EC) No 437/2003, the list of Community airports, apart from those having only occasional commercial traffic, and the derogations, shall be as specified in Annex I to this Regulation.
+
+### Article 2
+
+For the purposes of Article 7 of Regulation (EC) No 437/2003, the results shall be transmitted according to the description of the data files and transmission medium defined in Annex II to this Regulation.
+
+### Article 3
+
+For the purposes of Article 8(1) of Regulation (EC) No 437/2003, the Commission shall disseminate all data not declared as confidential by the Member States, on any medium and with any data structure.
+
+### Article 4
+
+Annexes I and II to Regulation (EC) No 437/2003 are replaced by the text set out in Annex III to this Regulation.
+
+### Article 5
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — AIRPORT CATEGORIES, LISTS OF COMMUNITY AIRPORTS AND DEROGATIONS
+
+**I. Airport categories and reference periods taken into account**
+
+Four categories of Community airports can be defined:
+
+— category 0: Airports with less than 15 000 passenger units per year are considered as having only ‘occasional commercial traffic’, so have, according to Article 3(3), no obligation to report,
+
+— category 1: Airports with between 15 000 and 150 000 passenger units per year shall transmit only table C1,
+
+— category 2: Airports with more than 150 000 passenger units and less than 1 500 000 passenger units per year shall transmit all tables listed in Annex I, but may, according to the terms of Article 3(4), benefit from complete or partial derogations until year 2003, 2004 or 2005,
+
+— category 3: Airports with at least 1 500 000 passenger units per year shall transmit all tables listed in Annex I, but may, according to the terms of Article 3(5), benefit from a complete or partial derogation on table B1, in year 2003 only.
+
+For the purpose of defining the airport category in year N, the reference year taken into account for the calculation of the passenger units is:
+
+— for category 0, 1 and 2 airports: year N-2,
+
+— for category 3 airports: year N (except for the reporting of year 2003 tables where 2001 passenger units are taken into account and for the reporting of year 2004 tables where 2003 passenger units are taken into account).
+
+Airports for which passenger units decreased between year N-2 and year N-1 may use year N-1 as the reference year for their classification.
+
+**II. Permitted derogations**
+
+Summary table by reporting year and according to the Community airport size category.
+
+| Community Airports categories by size | Year 2003 | Year 2004 | Year 2005 |
+| --- | --- | --- | --- |
+| (0) Less than 15 000 passenger units | No obligation to report | No obligation to report | No obligation to report |
+| (1) Between 15 000 and 150 000 passenger units | C1 (possible derogation) | C1 (possible derogation) | C1 (possible derogation) |
+| (2) More than 150 000 and less than 1 500 000 passenger units | A1 (possible derogation) B1 (possible derogation) C1 (possible derogation) | A1 (possible derogation) B1 (possible derogation) C1 (possible derogation) | A1 (possible derogation) B1 (possible derogation) C1 (possible derogation) |
+| (3) At least 1 500 000 passenger units | A1 (no derogations) B1 (possible derogation) C1 (no derogations) | A1(no derogations) B1 (no derogations) C1 (no derogations) | A1(no derogations) B1 (no derogations) C1 (no derogations) |
+
+Derogations can be either partial or total.
+
+Partial derogations can only be granted for the following fields: ‘airline information’ and ‘passenger seats available’.
+
+In case a partial derogation is granted for these fields, an ‘unknown code’ shall be reported instead of the expected code (for the ‘Passenger seats available’ field, the unknown code to be used is ‘999999999999’).
+
+If a derogation was granted for an airport in year N but the airport changes category in year N, then the derogation is no longer valid for that year.
+
+**III. List of Community airports covered and derogations**
+
+Community airports having only occasional commercial traffic (category 0) have no obligation to report. They are therefore excluded from the following lists.
+
+Category 1 airports are mentioned in italic font in the following lists.
+
+Category 2 airports are mentioned in normal font in the following lists.
+
+Category 3 airports are mentioned in bold font in the following lists.
+
+Category 3 airports for which a derogation for table B1 is granted in 2003 are marked with an X in column (4) in case of a total derogation and a P in column (4) in case of a partial derogation.
+
+Category 2 airports for which a derogation for table A1 and/or B1 is granted until year N (year 2003, 2004 or 2005) are marked with ‘year N’ in column (5.1) and/or (5.2). In case only a partial derogation is granted, a ‘P’ follows the year.
+
+Category ‘1’ or ‘2’ airports for which a derogation for table C1 is granted until year N (year 2003, 2004 or 2005) are marked with ‘year N’ in column (5.3). In case only a partial derogation is granted, a ‘P’ follows the year.
+
+Details related to partial derogations (if any) follow the tables.
+
+**Belgium: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EBAW | Antwerpen/Deurne | 2 |
+| EBBR | Bruxelles/National Brussel/Nationaal | 3 |
+| EBCI | Charleroi/Brussels South | 3 |
+| EBLG | Liège/Bierset | 3 |
+| EBOS | Oostende | 2 |
+
+**Bulgaria: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LBBG | Burgas | 3 |
+| LBPD | Plovdiv | 1 |
+| LBSF | Sofia | 3 |
+| LBWN | Varna | 3 |
+
+**Czech Republic: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LKKV | Karlovy Vary | 1 |
+| LKMT | Ostrava/Mošnov | 2 |
+| LKPR | Praha/Ruzyně | 3 |
+| LKTB | Brno-Tuřany | 2 |
+
+**Denmark: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EKAH | Århus | 2 |
+| EKBI | Billund | 3 |
+| EKCH | Copenhagen Kastrup | 3 |
+| EKEB | Esbjerg | 2 |
+| EKKA | Karup | 2 |
+| EKRK | Copenhagen Roskilde | 1 |
+| EKRN | Bornholm | 2 |
+| EKSB | Sønderborg | 1 |
+| EKYT | Aalborg | 2 |
+
+**Germany: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EDAC | Altenburg-Nobitz | 1 |
+| EDDB | Berlin-Schönefeld | 3 |
+| EDDC | Dresden | 3 |
+| EDDE | Erfurt | 2 |
+| EDDF | Frankfurt/Main | 3 |
+| EDDG | Münster/Osnabrück | 2 |
+| EDDH | Hamburg | 3 |
+| EDDI | Berlin-Tempelhof | 2 |
+| EDDK | Köln/Bonn | 3 |
+| EDDL | Düsseldorf | 3 |
+| EDDM | München | 3 |
+| EDDN | Nürnberg | 3 |
+| EDDP | Leipzig/Halle | 3 |
+| EDDR | Saarbrücken | 2 |
+| EDDS | Stuttgart | 3 |
+| EDDT | Berlin-Tegel | 3 |
+| EDDV | Hannover | 3 |
+| EDDW | Bremen | 3 |
+| EDFH | Hahn | 3 |
+| EDFM | Mannheim-Neuostheim | 1 |
+| EDHK | Kiel-Holtenau | 1 |
+| EDHL | Lübeck | 2 |
+| EDLN | Mönchengladbach | 1 |
+| EDLP | Paderborn/Lippstadt | 2 |
+| EDLV | Niederrhein | 2 |
+| EDLW | Dortmund | 3 |
+| EDMA | Augsburg-Mühlhausen | 1 |
+| EDNY | Friedrichshafen | 2 |
+| EDOG | Gransee | 1 |
+| EDOR | Rostock-Laage | 2 |
+| EDQM | Hof | 1 |
+| EDTK | Karlsruhe | 2 |
+| EDVE | Braunschweig | 1 |
+| EDWG | Wangerooge | 1 |
+| EDWJ | Juist | 1 |
+| EDWS | Norden-Norddeich | 1 |
+| EDXP | Harle | 1 |
+| EDXW | Westerland/Sylt | 1 |
+| ETNU | Neubrandenburg | 1 |
+
+**Estonia: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EECL | Tallinn/City Hall | 1 |
+| EETN | Tallinn/Ülemiste | 2 |
+
+**Greece: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LGAL | Alexandroupolis | 2 |
+| LGAV | Athens | 3 |
+| LGBL | Nea Anchialos | 1 |
+| LGHI | Chios | 2 |
+| LGIK | Ikaria | 1 |
+| LGIO | Ioannina | 1 |
+| LGIR | Irakleion | 3 |
+| LGKC | Kithira | 1 |
+| LGKF | Kefallinia | 2 |
+| LGKL | Kalamata | 1 |
+| LGKO | Kos | 3 |
+| LGKP | Karpathos | 2 |
+| LGKR | Kerkyra | 3 |
+| LGKV | Kavala | 2 |
+| LGLE | Leros | 1 |
+| LGLM | Limnos | 1 |
+| LGMK | Mykonos | 2 |
+| LGML | Milos | 1 |
+| LGMT | Mytilini | 2 |
+| LGNX | Naxos | 1 |
+| LGPA | Paros | 1 |
+| LGPZ | Aktio | 2 |
+| LGRP | Rodos | 3 |
+| LGRX | Araxos | 1 |
+| LGSA | Chania | 3 |
+| LGSK | Skiathos | 2 |
+| LGSM | Samos | 2 |
+| LGSR | Santorini | 2 |
+| LGST | Siteia | 1 |
+| LGTS | Thessaloniki | 3 |
+| LGZA | Zakynthos | 2 |
+
+**Spain: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| GCFV | Puerto del Rosario/Fuerteventura | 3 |
+| GCGM | Gomera | 1 |
+| GCHI | Hierro | 2 |
+| GCLA | Santa Cruz de la Palma | 2 |
+| GCLP | Las Palmas/Gran Canaria | 3 |
+| GCRR | Arrecife/Lanzarote | 3 |
+| GCTS | Tenerife Sur-Reina Sofía | 3 |
+| GCXO | Tenerife Norte | 3 |
+| GECT | Ceuta | 1 |
+| GEML | Melilla | 2 |
+| LEAL | Alicante | 3 |
+| LEAM | Almería | 2 |
+| LEAS | Avilés/Asturias | 2 |
+| LEBB | Bilbao | 3 |
+| LEBL | Barcelona | 3 |
+| LEBZ | Badajoz/Talavera la Real | 1 |
+| LECO | La Coruña | 2 |
+| LEGE | Girona/Costa Brava | 3 |
+| LEGR | Granada | 2 |
+| LEIB | Ibiza | 3 |
+| LEJR | Jerez | 2 |
+| LELC | Murcia-San Javier | 2 |
+| LELN | León | 1 |
+| LEMD | Madrid/Barajas | 3 |
+| LEMG | Málaga | 3 |
+| LEMH | Menorca/Mahón | 3 |
+| LEPA | Palma de Mallorca | 3 |
+| LERJ | Logroño | 1 |
+| LEPP | Pamplona | 2 |
+| LERS | Reus | 2 |
+| LESA | Salamanca | 1 |
+| LESO | San Sebastián | 2 |
+| LEST | Santiago | 3 |
+| LEVC | Valencia | 3 |
+| LEVD | Valladolid | 2 |
+| LEVT | Vitoria | 2 |
+| LEVX | Vigo | 2 |
+| LEXJ | Santander | 2 |
+| LEZG | Zaragoza | 2 |
+| LEZL | Sevilla | 3 |
+
+**France: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| FMEE | St-Denis-Roland-Garros (Réunion) | 3 |
+| FMEP | Saint-Pierre-Pierrefonds (Réunion) | 1 |
+| LFBA | Agen — La Garenne | 1 |
+| LFBD | Bordeaux — Mérignac | 3 |
+| LFBE | Bergerac — Roumanière | 2 |
+| LFBH | La Rochelle — Île de Ré | 1 |
+| LFBI | Poitiers — Biard | 1 |
+| LFBL | Limoges | 2 |
+| LFBO | Toulouse — Blagnac | 3 |
+| LFBP | Pau — Pyrénées | 2 |
+| LFBT | Tarbes — Lourdes — Pyrénées | 2 |
+| LFBV | Brive — Laroche | 1 |
+| LFBZ | Biarritz — Bayonne — Anglet | 2 |
+| LFCK | Castres — Mazamet | 1 |
+| LFCR | Rodez — Marcillac | 2 |
+| LFDN | Rochefort — Saint-Agnant | 1 |
+| LFJL | Metz — Nancy — Lorraine | 2 |
+| LFKB | Bastia — Poretta | 2 |
+| LFKC | Calvi — Sainte-Catherine | 2 |
+| LFKF | Figari — Sud Corse | 2 |
+| LFKJ | Ajaccio — Campo Dell'Oro | 2 |
+| LFLB | Chambéry — Aix-les-Bains | 2 |
+| LFLC | Clermont-Ferrand — Auvergne | 2 |
+| LFLL | Lyon — St-Exupéry | 3 |
+| LFLP | Annecy — Meythet | 1 |
+| LFLS | Grenoble — St-Geoirs | 2 |
+| LFLW | Aurillac — Tronquières | 1 |
+| LFLX | Châteauroux/ — Déols | 1 |
+| LFMD | Cannes — Mandelieu | 1 |
+| LFMH | St-Étienne — Bouthéon | 1 |
+| LFMK | Carcassonne | 2 |
+| LFML | Marseille — Provence | 3 |
+| LFMN | Nice — Côte d'azur | 3 |
+| LFMP | Perpignan — Rivesaltes | 2 |
+| LFMT | Montpellier — Méditerranée | 2 |
+| LFMU | Béziers — Vias | 1 |
+| LFMV | Avignon — Caumont | 1 |
+| LFOB | Beauvais — Tillé | 3 |
+| LFOH | La Havre — Octeville | 1 |
+| LFOK | Châlons — Vatry | 2 |
+| LFOP | Rouen — Vallée de Seine | 1 |
+| LFOT | Tours — St-Symphorien | 1 |
+| LFPG | Paris — Charles-de-Gaulle | 3 |
+| LFPO | Paris — Orly | 3 |
+| LFQQ | Lille — Lesquin | 2 |
+| LFRB | Brest — Guipavas | 2 |
+| LFRD | Dinard — Pleurtuit | 2 |
+| LFRG | Deauville — St-Gatien | 1 |
+| LFRH | Lorient | 2 |
+| LFRK | Caen — Carpiquet | 1 |
+| LFRN | Rennes — St-Jacques | 2 |
+| LFRO | Lannion — Servel | 1 |
+| LFRQ | Quimper — Cornouaille | 1 |
+| LFRS | Nantes — Atlantique | 3 |
+| LFSB | Bâle — Mulhouse | 3 |
+| LFSR | Reims — Champagne | 1 |
+| LFST | Strasbourg | 3 |
+| LFTH | Toulon — Hyères | 2 |
+| LFTW | Nîmes — Arles — Camargue | 2 |
+| SOCA | Cayenne — Rochambeau (Guyane) | 2 |
+| TFFF | Fort-de-France (Martinique) | 3 |
+| TFFG | St-Martin — Grand-Case (Guadeloupe) | 2 |
+| TFFJ | St-Barthélemy (Guadeloupe) | 2 |
+| TFFR | Pointe-à-Pitre (Guadeloupe) | 3 |
+
+**Croatia: List of Community airports**
+
+| ICAO airport code | Airport Name | Airport category in 2011 |
+| --- | --- | --- |
+| LDZA | Zagreb/Pleso | 3 |
+| LDSP | Split/Kaštela | 2 |
+| LDDU | Dubrovnik/Čilipi | 2 |
+| LDPL | Pula/Pula | 2 |
+| LDRI | Rijeka/Krk | 1 |
+| LDZD | Zadar/Zemunik | 2 |
+| LDOS | Osijek/Klisa | 1 |
+
+**Ireland: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EICA | Connemara Regional Airport | 1 |
+| EICK | Cork | 3 |
+| EICM | Galway | 2 |
+| EIDL | Donegal | 1 |
+| EIDW | Dublin | 3 |
+| EIKN | Connaught Regional Airport | 2 |
+| EIKY | Kerry | 2 |
+| EINN | Shannon | 3 |
+| EISG | Sligo Regional Airport | 1 |
+| EIWF | Waterford | 1 |
+
+**Italy: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LIBC | Crotone | 1 |
+| LIBD | Bari-Palese Macchie | 3 |
+| LIBP | Pescara | 2 |
+| LIBR | Brindisi-Casale | 2 |
+| LICA | Lamezia Terme | 2 |
+| LICC | Catania-Fontanarossa | 3 |
+| LICD | Lampedusa | 2 |
+| LICG | Pantelleria | 1 |
+| LICJ | Palermo-Punta Raisi | 3 |
+| LICR | Reggio di Calabria | 1 |
+| LICT | Trapani-Birgi | 2 |
+| LIEA | Alghero-Fertilia | 2 |
+| LIEE | Cagliari-Elmas | 3 |
+| LIEO | Olbia-Costa Smeralda | 3 |
+| LIMC | Milano-Malpensa | 3 |
+| LIME | Bergamo-Orio al Serio | 3 |
+| LIMF | Torino-Caselle | 3 |
+| LIMJ | Genova-Sestri | 2 |
+| LIML | Milano-Linate | 3 |
+| LIMP | Parma | 1 |
+| LIMZ | Cuneo/Levaldigi | 1 |
+| LIPB | Bolzano | 1 |
+| LIPE | Bologna-Borgo Panigale | 3 |
+| LIPH | Treviso-Sant'Angelo | 2 |
+| LIPK | Forlì | 2 |
+| LIPO | Brescia-Montichiari | 2 |
+| LIPQ | Trieste-Ronchi dei Legionari | 2 |
+| LIPR | Rimini | 2 |
+| LIPX | Verona-Villafranca | 3 |
+| LIPY | Ancona-Falconara | 2 |
+| LIPZ | Venezia-Tessera | 3 |
+| LIRA | Roma-Ciampino | 3 |
+| LIRF | Roma-Fiumicino | 3 |
+| LIRN | Napoli-Capodichino | 3 |
+| LIRP | Pisa-San Giusto | 3 |
+| LIRQ | Firenze-Peretola | 3 |
+| LIRZ | Perugia | 1 |
+
+**Cyprus: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LCLK | Larnaka | 3 |
+| LCPH | Pafos | 3 |
+
+**Latvia: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EVRA | Rīga | 3 |
+
+**Lithuania: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EYKA | Kaunas | 1 |
+| EYPA | Palanga | 1 |
+| EYVI | Vilnius | 2 |
+
+**Luxembourg: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| ELLX | Luxembourg | 3 |
+
+**Hungary: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LHBP | Budapest-Ferihegy | 3 |
+| LHDC | Debrecen | 1 |
+| LHSM | Sármellék-Balaton | 1 |
+
+**Malta: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LMML | Malta/Luqa | 3 |
+
+**Netherlands: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EHAM | Amsterdam/Schiphol | 3 |
+| EHBK | Maastricht-Aachen | 2 |
+| EHEH | Eindhoven/Welschap | 2 |
+| EHGG | Eelde/Groningen | 1 |
+| EHRD | Rotterdam/Zestienhoven | 2 |
+
+**Austria: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LOWG | Graz | 2 |
+| LOWI | Innsbruck | 2 |
+| LOWK | Klagenfurt | 2 |
+| LOWL | Linz | 2 |
+| LOWS | Salzburg | 3 |
+| LOWW | Wien/Schwechat | 3 |
+
+**Poland: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EPBG | Bydgoszcz – Szwederowo | 1 |
+| EPGD | Gdańsk – Rębiechowo | 2 |
+| EPKK | Kraków – Balice | 3 |
+| EPKT | Katowice – Pyrzowice | 2 |
+| EPPO | Poznań – Ławica | 2 |
+| EPRZ | Rzeszów – Jasionka | 1 |
+| EPSC | Szczecin – Goleniów | 1 |
+| EPWA | Warszawa – Okęcie | 3 |
+| EPWR | Wrocław – Strachowice | 2 |
+| EPLL | Lódź – Lublinek | 1 |
+
+**Portugal: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LPFL | Flores | 1 |
+| LPFR | Faro | 3 |
+| LPFU | Madeira/Madeira | 3 |
+| LPHR | Horta | 2 |
+| LPLA | Lajes | 2 |
+| LPPD | Ponta Delgada | 2 |
+| LPPO | Santa Maria | 1 |
+| LPPR | Porto | 3 |
+| LPPS | Porto Santo | 2 |
+| LPPT | Lisboa | 3 |
+
+**Romania: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LRBC | Bacău | 1 |
+| LRBS | București/Băneasa | 2 |
+| LRCK | Constanța/M. Kogălniceanu | 1 |
+| LRCL | Cluj-Napoca/Someșeni | 2 |
+| LRIA | Iași | 1 |
+| LROD | Oradea | 1 |
+| LROP | București/Otopeni | 3 |
+| LRSB | Sibiu/Turnișor | 1 |
+| LRTR | Timișoara/Giarmata | 2 |
+
+**Slovenia: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LJLJ | Ljubljana | 2 |
+
+**Slovakia: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| LZIB | Bratislava | 2 |
+| LZKZ | Košice | 2 |
+| LZSL | Sliač | 1 |
+| LZTT | Poprad-Tatry | 1 |
+
+**Finland: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EFHK | Helsinki-Vantaa | 3 |
+| EFIV | Ivalo | 2 |
+| EFJO | Joensuu | 2 |
+| EFJY | Jyväskylä | 2 |
+| EFKE | Kemi-Tornio | 1 |
+| EFKI | Kajaani | 1 |
+| EFKK | Kruunupyy | 1 |
+| EFKS | Kuusamo | 1 |
+| EFKT | Kittilä | 2 |
+| EFKU | Kuopio | 2 |
+| EFLP | Lappeenranta | 1 |
+| EFMA | Mariehamn | 1 |
+| EFOU | Oulu | 2 |
+| EFPO | Pori | 1 |
+| EFRO | Rovaniemi | 2 |
+| EFSA | Savonlinna | 1 |
+| EFSI | Seinäjoki | 1 |
+| EFTP | Tampere-Pirkkala | 2 |
+| EFTU | Turku | 2 |
+| EFVA | Vaasa | 2 |
+| EFVR | Varkaus | 1 |
+
+**Sweden: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| ESDF | Ronneby | 2 |
+| ESGG | Göteborg-Landvetter | 3 |
+| ESGJ | Jönköping | 1 |
+| ESGP | Göteborg City | 2 |
+| ESGT | Trollhättan/Vänersborg | 1 |
+| ESKN | Stockholm/Skavsta | 3 |
+| ESMK | Kristianstad/Everöd | 1 |
+| ESMQ | Kalmar | 2 |
+| ESMS | Malmö-Sturup | 3 |
+| ESMT | Halmstad | 1 |
+| ESMX | Växjö/Kronoberg | 2 |
+| ESNG | Gällivare | 1 |
+| ESNK | Kramfors | 1 |
+| ESNL | Lycksele | 1 |
+| ESNN | Sundsvall-Härnösand | 2 |
+| ESNO | Örnsköldsvik | 1 |
+| ESNQ | Kiruna | 2 |
+| ESNS | Skellefteå | 2 |
+| ESNU | Umeå | 2 |
+| ESNX | Arvidsjaur | 1 |
+| ESOE | Örebro | 1 |
+| ESOK | Karlstad | 2 |
+| ESOW | Stockholm/Västerås | 2 |
+| ESPA | Luleå | 2 |
+| ESPC | Östersund | 2 |
+| ESSA | Stockholm-Arlanda | 3 |
+| ESSB | Stockholm-Bromma | 2 |
+| ESSD | Borlänge | 1 |
+| ESSL | Linköping/Saab | 1 |
+| ESSP | Norrköping | 1 |
+| ESSV | Visby | 2 |
+| ESTA | Ängelholm | 2 |
+
+**United Kingdom: List of Community airports**
+
+| ICAO airport code | Airport name | Airport category in 2007 |
+| --- | --- | --- |
+| EGAA | Belfast International | 3 |
+| EGAC | Belfast City | 3 |
+| EGAE | City of Derry (Eglinton) | 2 |
+| EGBB | Birmingham | 3 |
+| EGBE | Coventry | 2 |
+| EGCC | Manchester | 3 |
+| EGCN | Doncaster Sheffield | 2 |
+| EGDG | Newquay | 2 |
+| EGFF | Cardiff Wales | 3 |
+| EGGD | Bristol | 3 |
+| EGGP | Liverpool | 3 |
+| EGGW | Luton | 3 |
+| EGHC | Lands End | 1 |
+| EGHD | Plymouth | 1 |
+| EGHE | Isles of Scilly (St.Marys) | 1 |
+| EGHH | Bournemouth | 2 |
+| EGHI | Southampton | 3 |
+| EGHK | Penzance Heliport | 1 |
+| EGHT | Isles of Scilly (Tresco) | 1 |
+| EGKK | Gatwick | 3 |
+| EGLC | London City | 3 |
+| EGLL | Heathrow | 3 |
+| EGMH | Kent International | 2 |
+| EGNH | Blackpool | 2 |
+| EGNJ | Humberside | 2 |
+| EGNM | Leeds Bradford | 3 |
+| EGNR | Hawarden | 1 |
+| EGNT | Newcastle | 3 |
+| EGNV | Durham Tees Valley | 2 |
+| EGNX | Nottingham East Midlands | 3 |
+| EGPA | Kirkwall | 1 |
+| EGPB | Sumburgh | 1 |
+| EGPC | Wick | 1 |
+| EGPD | Aberdeen | 3 |
+| EGPE | Inverness | 2 |
+| EGPF | Glasgow | 3 |
+| EGPH | Edinburgh | 3 |
+| EGPI | Islay | 1 |
+| EGPK | Prestwick | 3 |
+| EGPL | Benbecula | 1 |
+| EGPM | Scatsta | 2 |
+| EGPN | Dundee | 1 |
+| EGPO | Stornoway | 1 |
+| EGSH | Norwich | 2 |
+| EGSS | Stansted | 3 |
+| EGTE | Exeter | 2 |
+
+## ANNEX II — DESCRIPTION OF THE DATA FILES AND TRANSMISSION MEDIUM
+
+Two EDI compatible formats are acceptable for the transmission of the regulation tables: ‘CSV’ (Comma Separated Values) with semicolon (;) as field separator and GESMES-EDIFACT.
+
+**List and description of the fields to be used for each table of the Regulation:**
+
+The following summary table gives for each table of the regulation (A1, B1 and C1) and each record (line), the list of fields to be provided. Two different types of fields are marked in the column associated to the relevant table:
+
+— ‘X’: fields that have to be provided for a table,
+
+— ‘ ’ (space): fields not relevant for the table. These fields should normally not be provided in the related tables. Nevertheless empty fields (two fields separator without data between) are also acceptable in this case.
+
+**Format and size of the fields:**
+
+The format of each field is either numeric (n) or alphabetic (a) or alphanumeric (an)
+
+The size is either fixed (‘format + number’ — e.g.: ‘n4’) or variable with a maximum number of positions (‘format + “..” + maximum number of positions — e.g.: “n..12” ’).
+
+<table>
+<tbody><tr><td rowspan="2">Pos</td><td rowspan="2">Fields</td><td rowspan="2">Format and size</td><td colspan="3">Tables</td></tr>
+<tr><td>A1</td><td>B1</td><td>C1</td></tr>
+<tr><td>1</td><td>Table identification</td><td>an2</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>2</td><td>Reporting country</td><td>a2</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>3</td><td>Reference year</td><td>n2</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>4</td><td>Reference period</td><td>an2</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>5</td><td>Reporting airport</td><td>an4</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>6</td><td>Partner airport</td><td>an4</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>7</td><td>Arrival/departure</td><td>n1</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>8</td><td>Scheduled/non-scheduled services</td><td>n1</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>9</td><td>Passenger flight/All-freight and mail flight</td><td>n1</td><td>X</td><td>X</td><td>  </td></tr>
+<tr><td>10</td><td>Airline information</td><td>a3</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>11</td><td>Aircraft type</td><td>an..4</td><td>X</td><td>  </td><td>  </td></tr>
+<tr><td>12</td><td>Passengers</td><td>n..12</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>13</td><td>Direct transit passengers</td><td>n..12</td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>14</td><td>Freight and mail</td><td>n..12</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>15</td><td>Commercial air flights (table ‘A1’)/Total commercial aircraft movements (table ‘C1’)</td><td>n..12</td><td>X</td><td>  </td><td>X</td></tr>
+<tr><td>16</td><td>Total aircraft movements</td><td>n..12</td><td>  </td><td>  </td><td>X</td></tr>
+<tr><td>17</td><td>Passenger seats available</td><td>n..12</td><td>X</td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+One table (for one period) should correspond to one file (or ‘consignment’) transmitted to Eurostat
+
+Each file (table) should be named according to the following standard: ‘CCYYPPTT.csv’ (for csv format) or: ‘CCYYPPTT.ges’ (for gesmes format): where ‘CC’ represents the Country Code (ISO alpha2), ‘YY’ the Year, ‘PP’ the period (AN, Q1..Q4 or 01..12) and ‘TT’, the Table-ID (‘A1’, ‘B1’ or ‘C1’).
+
+In case the file is compressed, the ‘.zip’ suffix should be used instead of ‘.csv’ or ‘.ges’.
+
+The transmission mean shall be compatible with an automatic monitoring and processing of data in Eurostat.
+
+EDI compatible tools should be favoured. Nevertheless, ‘Pre-EDI’ tools as well as structured e-mail sent to an address given by Eurostat could also be accepted in a transitional period.
+
+In case a structured e-mail is used, then:
+
+— the subject field of the e-mail should contain the name of the file (table) to be transmitted,
+
+— the file (table) should be attached to the e-mail (only one file attached per e-mail is acceptable),
+
+— comments on data can be entered as plain text in the body of the message to which a table is attached (formatted text shall not be used).
+
+## ANNEX III — Amendments to the Annexes of Regulation (EC) No 437/2003
+
+### ‘ANNEX I
+
+**RECORD STRUCTURE FOR DATA TRANSMISSION TO EUROSTAT**
+
+The scope of the data to be reported is limited to civil aviation.
+
+State flights and movements by surface modes of either passengers travelling with a flight code or freight shipped using an air waybill are excluded.
+
+**A. Flight stage table (monthly data ( *1 ))**
+
+Data reported in this table refer to commercial air services only.
+
+**Data file record format**
+
+| Elements | Coding detail | Nomenclature | Unit |
+| --- | --- | --- | --- |
+| Table | 2-alpha | “A1” |  |
+| Reporting country | 2-alpha | (1) Main ICAO nationality letters |  |
+| Reference year | 2-digit | Type “yy” (2 last positions of the year) |  |
+| Reference period | 2-alpha | (2) Explicit (or Statra) |  |
+| Reporting airport | 4-alpha | (3) ICAO |  |
+| Next/previous airport | 4-alpha | (3) ICAO |  |
+| Arrival/departure | 1-digit | 1 = arrival 2 = departure |  |
+| Scheduled/non-scheduled service | 1-digit | 1 = scheduled 2 = non-scheduled |  |
+| Passenger service/all-freight and mail service | 1-digit | 1 = passenger service 2 = all-freight and mail service |  |
+| Airline information | 3-alpha | (4) Information on the airline (optional) |  |
+| Aircraft type | 4-alpha | (5) ICAO |  |
+| Passengers on board | 12-digit |  | passenger |
+| Freight and mail on board | 12-digit |  | tonne |
+| Commercial air flights | 12-digit |  | number of flights |
+| Passenger seats available | 12-digit |  | passenger seat |
+
+**B. On flight origin/destination table (monthly data (*1) )**
+
+Data reported in this table refer to commercial air services only.
+
+**Data file record format**
+
+| Elements | Coding detail | Nomenclature | Unit |
+| --- | --- | --- | --- |
+| Table | 2-alpha | B1 |  |
+| Reporting country | 2-alpha | (1) Main ICAO nationality letters |  |
+| Reference year | 2-digit | Type “yy” (2 last positions of the year) |  |
+| Reference period | 2-alpha | (2) Explicit (or Statra) |  |
+| Reporting airport | 4-alpha | (3) ICAO |  |
+| On flight origin/destination airport | 4-alpha | (3) ICAO |  |
+| Arrival/departure | 1-digit | 1 = arrival 2 = departure |  |
+| Scheduled/non-scheduled services | 1-digit | 1 = scheduled 2 = non-scheduled |  |
+| Passenger service/all-freight and mail service | 1-digit | 1 = passenger service 2 = all-freight and mail service |  |
+| Airline information | 3-alpha | (4) Information on the airline (optional) |  |
+| Passengers carried | 12-digit |  | passenger |
+| Freight and mail loaded or unloaded | 12-digit |  | tonne |
+
+**C. Airports table (at least annual data)**
+
+Data reported in this table refer to commercial air services only, with the exception of “total commercial aircraft movements” which also refers to all commercial general aviation operations and “total aircraft movements” which refers to all civil aircraft movements (except State flights).
+
+**Data file record format**
+
+<table>
+<tbody><tr><td>Elements</td><td>Coding detail</td><td>Nomenclature</td><td>Unit</td></tr>
+<tr><td>Table</td><td>2-alpha</td><td>C1</td><td>  </td></tr>
+<tr><td>Reporting country</td><td>2-alpha</td><td>(1) Main ICAO nationality letters</td><td>  </td></tr>
+<tr><td>Reference year</td><td>2-digit</td><td>Type “yy”</td><td>  </td></tr>
+<tr><td>Reference period</td><td>2-alpha</td><td>(2) Explicit (or Statra)</td><td>  </td></tr>
+<tr><td>Reporting airport</td><td>4-alpha</td><td>(3) ICAO</td><td>  </td></tr>
+<tr><td>Airline information (*1)</td><td>3-alpha</td><td>(4) Information on the airline</td><td>  </td></tr>
+<tr><td>Total passengers carried</td><td>12-digit</td><td>  </td><td>passenger</td></tr>
+<tr><td>Total direct transit passengers</td><td>12-digit</td><td>  </td><td>passenger</td></tr>
+<tr><td>Total freight and mail loaded/unloaded</td><td>12-digit</td><td>  </td><td>tonne</td></tr>
+<tr><td>Total commercial aircraft movements</td><td>12-digit</td><td>  </td><td>movement</td></tr>
+<tr><td>Total aircraft movements</td><td>12-digit</td><td>  </td><td>movement</td></tr>
+<tr><td colspan="4">(*1)  The “airline information” field is obligatory only for airports which also have to report tables A1 and B1. For the airports which are under no obligation to report tables A1 and B1, a code that covers all airlines may be used. </td></tr>
+</tbody>
+</table>
+
+**CODES**
+
+**1\. Reporting country**
+
+The coding system to be used is derived from the ICAO index to nationality letters for location indicators. If several ICAO prefixes exist for the same country, only the main ICAO prefix of the mainland is applicable.
+
+Belgium EB
+
+Denmark EK
+
+Germany ED
+
+Greece LG
+
+Spain LE
+
+France LF
+
+Ireland EI
+
+Italy LI
+
+Luxembourg EL
+
+Netherlands EH
+
+Austria LO
+
+Portugal LP
+
+Finland EF
+
+Sweden ES
+
+United Kingdom EG
+
+**2\. Reference period**
+
+AN (or 45) year
+
+Q1 (or 21) January-March (first quarter)
+
+Q2 (or 22) April-June (second quarter)
+
+Q3 (or 23) July-September (third quarter)
+
+Q4 (or 24) October-December (fourth quarter)
+
+01 to 12 January to December (month)
+
+**3\. Airports**
+
+Airports shall be coded according to the ICAO four-letter codes as listed in ICAO document 7910. Unknown airports should be coded as “ZZZZ”.
+
+**4\. Airline information**
+
+“1EU” for airlines licensed in the European Union,
+
+“1NE” for airlines not licensed in the European Union,
+
+“ZZZ” for unknown airlines,
+
+“888” for “confidential” (to be used in tables A1 and B1 if an “information on the airline” is not allowed for confidentiality reasons),
+
+“999” for all airlines (to be used in table C1 only).
+
+Airlines partly licensed in EU shall be reported as “EU airlines”.
+
+On a voluntary basis, the code “2”+Iso alpha 2 country code (country of licensing of the airline) could also be used as well as the ICAO airline code.
+
+**5\. Aircraft type**
+
+Aircraft types shall be coded according to ICAO aircraft type designators as listed in ICAO document 8643.
+
+Unknown aircraft types should be coded as “ZZZZ”.
+
+## ANNEX II — DEFINITIONS AND STATISTICS TO BE REPORTED
+
+Following the header of each definition, the list of articles or tables of the regulation where a reference to the term is made can be found.
+
+**I. DEFINITIONS AND VARIABLES OF GENERAL INTEREST**
+
+**1\. Community airport (Articles 1 and 3)**
+
+A defined area on land or water in a Member State subject to the provisions of the treaty, which is intended to be used either wholly or in part for the arrival, departure and surface movement of aircraft and open for commercial air services (see -4-).
+
+**2\. State flight (Article 1 and table C1)**
+
+Any flight performed by aircraft for military, customs, police or other law enforcement services of a State.
+
+Any flight declared as a “State flight” by State authorities.
+
+The expression “except for flights by States aircraft” in Article 1 should be interpreted as “except for State flights”.
+
+**3\. Passenger unit (Article 3(2), (4) and (5))**
+
+One passenger unit is equivalent to either one passenger or 100 kilograms of freight and mail.
+
+For the purpose of drawing up the list of Community airports (see-1-) as referred to in Article 3(2) and for the transitional period referred to in Article 3(4) and (5), the calculation of thresholds using “passenger units” has to take into account at Community airports (see-1-), the total passengers carried (see-16-) plus the total direct transit passengers (see-18-) (counted once) plus the total freight and mail loaded and unloaded (see-17-).
+
+**4\. Commercial air service (Article 1 and tables A1, B1, C1)**
+
+An air transport flight or series of flights for the public transport of passengers and/or freight and mail, for remuneration or for hire.
+
+The air service may be either scheduled(-5-) or non-scheduled(-6-).
+
+**5\. Scheduled air service (Tables A1 and B1)**
+
+A commercial air service (see-4-) operated according to a published timetable, or with such a regular frequency that it constitutes an easily recognisable systematic series of flights.
+
+Includes extra section flights occasioned by overflow traffic from scheduled flights.
+
+**6\. Non-scheduled air service (Tables A1 and B1)**
+
+A commercial air service (see-4-) other than scheduled air service(see-5-).
+
+**7\. Passenger air service (Tables A1 and B1)**
+
+Scheduled (see-5-) or non-scheduled air service (see-6-) performed by aircraft carrying one or more revenue passengers and any flights listed in published timetables as open to passengers.
+
+Includes flights carrying both revenue passengers and revenue freight and mail.
+
+**8\. All-freight and mail air service (Tables A1 and B1)**
+
+Scheduled (see-5-) or non-scheduled air service (see-6-) performed by aircraft carrying revenue loads other than revenue passengers, i.e. freight and mail.
+
+Excludes flights carrying one or more revenue passengers and flights listed in published timetables as open to passengers.
+
+**9\. Airline (Commercial air transport operator) (Tables A1, B1 and C1)**
+
+An air transport undertaking with a valid operating licence for operating commercial air flights (see-13-).
+
+Where airlines have joint-venture or other contractual arrangements requiring two or more of them to assume separate responsibility for the offer and sale of air transport products for a flight or combination of flights, the airline actually operating the flight shall be reported.
+
+**II. DEFINITIONS AND VARIABLES OF INTEREST FOR TABLE A1 (FLIGHT STAGE)**
+
+**10\. Flight stage (Table A1)**
+
+The operation of an aircraft from take-off to its next landing.
+
+**11\. Passengers on board (Table A1)**
+
+All passengers on board of the aircraft upon landing at the reporting airport or at taking off from the reporting airport.
+
+All revenue and non revenue passengers on board an aircraft during a flight stage (see-10-).
+
+Includes direct transit passengers(see-18-) (counted at arrivals and departures).
+
+**12\. Freight and mail on board (Table A1)**
+
+All freight and mail on board of the aircraft upon landing at the reporting airport or at taking off from the reporting airport.
+
+All freight and mail on board an aircraft during a flight stage (see-10-).
+
+Includes direct transit freight and mail (counted at arrivals and departures).
+
+Includes express services and diplomatic bags.
+
+Excludes passenger baggage.
+
+**13\. Commercial air flight (Table A1)**
+
+An air transport flight performed for the public transport of passengers and/or freight and mail, for remuneration and for hire.
+
+In table A1, the commercial air flights are aggregated to calculate the other “indicator fields” (“ Passengers on board (see-11-) ”, “ Freight and mail on board (see-12-) ” and “ Passenger seats available (see-14-) ”).
+
+**14\. Passenger seats available (Table A1)**
+
+The total number of passenger seats available for sale on an aircraft operating a flight stage (see-10-) between a pair of airports.
+
+On a flight stage (-10-), the total number of revenue passengers should not exceed the total number of passenger seats available for sale.
+
+Includes seats which are already sold on a flight stage i.e. including those occupied by direct transit passengers (see-18-).
+
+Excludes seats not actually available for the carriage of passengers because of maximum gross weight limitations.
+
+If information on this basis is not available, then one of the following estimates should be provided in order of preference (from more to less adequate):
+
+1\. the specific aircraft configuration expressed in number of passenger seats available in the aircraft (identified by aircraft registration number),
+
+2\. the average aircraft configuration expressed in average number of passenger seats available for the type of aircraft for the airline,
+
+3\. the average aircraft configuration expressed in average number of passenger seats available for the type of aircraft.
+
+**III. DEFINITIONS AND VARIABLES OF INTEREST FOR TABLE B1 (ON FLIGHT ORIGIN AND DESTINATION) AND TABLE C1 (AIRPORTS)**
+
+**15\. On flight origin and destination (Table B1)**
+
+Traffic on a commercial air service(see-4-) identified by a unique flight number subdivided by airport pairs in accordance with point of embarkation and point of disembarkation on that flight.
+
+For passengers, freight or mail where the airport of embarkation is not known, the aircraft origin should be deemed to be the point of embarkation; similarly, if the airport of disembarkation is not known, the aircraft destination should be deemed to be the point of disembarkation.
+
+**16\. Passengers carried (Tables B1 and C1)**
+
+All passengers on a particular flight (with one flight number) counted once only and not repeatedly on each individual stage of that flight.
+
+All revenue and non revenue passengers whose journey begins or terminates at the reporting airport and transfer passengers joining or leaving the flight at the reporting airport.
+
+Excludes direct transit passengers(see-18-).
+
+**17\. Freight and mail loaded or unloaded (Tables B1 and C1)**
+
+All freight and mail loaded onto or unloaded from an aircraft.
+
+Includes express services and diplomatic bags.
+
+Excludes passenger baggage.
+
+Excludes direct transit freight and mail.
+
+**18\. Direct transit passengers (Table C1)**
+
+Passengers who, after a short stop, continue their journey on the same aircraft on a flight having the same flight number as the flight on which they arrive.
+
+In total airport statistics as well as for the calculation of the passenger units(see-3-), passengers in direct transit are counted once only.
+
+Passengers who change aircraft because of technical problems but continue on a flight with the same flight number are counted as direct transit passengers.
+
+On some flights with intermediate stops, the flight number changes at an airport to designate the change between an inbound and outbound flight. An example is a flight from Barcelona to Hamburg where the flight continues to Frankfurt before returning to Barcelona. Where passengers for an intermediate destination continue their journey on the same aircraft in such circumstances, they should be counted as direct transit passengers.
+
+**19\. Total commercial aircraft movements (Table C1)**
+
+All take-offs and landings for flights performed for remuneration and for hire.
+
+Includes commercial air services (-4-) as well as all commercial general aviation operations.
+
+**20\. Total aircraft movements (Table C1)**
+
+All take-offs and landings of aircraft.
+
+Includes total commercial aircraft movements (-19-) as well as non-commercial general aviation operations.
+
+Excludes State flights (-2-).
+
+Excludes Touch and goes, overshoots and unsuccessful approaches.’
+
+( 1 ) OJ L 66, 11.3.2003, p. 1.
+
+( 2 ) OJ L 181, 28.6.1989, p. 47.
+
+( *1 ) In 2003 quarterly data can be accepted.

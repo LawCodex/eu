@@ -240,6 +240,7 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 
 **.1 General**
 
+<table>
 <tbody><tr><td></td><td>.1</td><td>Ventilation ducts, including single and double wall ducts, shall be of steel or an equivalent material, except for flexible bellows of short length not exceeding 600 mm used for connecting fans to the ducting in air-conditioning rooms. Unless expressly provided otherwise in paragraph .1.6, any other material used in the construction of ducts, including insulation, shall also be non-combustible. However, short ducts, not exceeding 2 m in length and with a free cross-sectional area (The term free cross-sectional area means, even in the case of a pre-insulated duct, the area calculated on the basis of the inner dimensions of the duct itself and not the insulation) not exceeding 0,02 m2, need not be of steel or equivalent material, subject to the following conditions:<table><tbody><tr><td>.1</td><td>the ducts shall be made of non-combustible material which may be faced internally and externally with membranes having low flame-spread characteristics and, in each case, a calorific value not exceeding 45 MJ/m2 of their surface area for the thickness used. The calorific value shall be calculated in accordance with the recommendations published by the International Organization for Standardization, in particular publication ISO 1716:2002, “Reaction to the fire tests for building products — Determination of the heat of combustion”.;</td></tr>
 </tbody>
 </table>
@@ -251,7 +252,9 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 </table>
 </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td></td><td>.2</td><td>The following arrangements shall be tested in accordance with the Fire Test Procedures Code:<table><tbody><tr><td>.1</td><td>fire dampers, including their relevant means of operation, although the testing is not required for dampers located at the lower end of the duct in exhaust ducts for galley ranges, which must be of steel and capable of stopping the draught in the duct; and</td></tr>
 </tbody>
 </table>
@@ -260,6 +263,7 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | .3 | Fire dampers shall be easily accessible. Where they are placed behind ceilings or linings, those ceilings or linings shall be provided with an inspection hatch on which the identification number of the fire damper is marked. The fire damper identification number shall also be marked on any remote controls provided. |
 | --- | --- | --- |
@@ -287,6 +291,7 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 |  | .3 | Ducts provided for the ventilation of accommodation spaces, service spaces or control stations shall not pass through machinery spaces of category A, galleys, vehicle spaces, Ro-Ro spaces or special category spaces unless they comply with paragraph .2.4. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>.4</td><td>As permitted by paragraphs .2.2 and .2.3 ducts shall be either:<table><tbody><tr><td>.1.1</td><td>constructed of steel having a thickness of at least 3 mm for ducts with a free cross-sectional area of less than 0,075 m2, at least 4 mm for ducts with a free cross-sectional area of between 0,075 m2 and 0,45 m2, and at least 5 mm for ducts with a free cross-sectional area of over 0,45 m2;</td></tr>
 </tbody>
 </table>
@@ -307,6 +312,7 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | .5 | For the purposes of paragraphs .2.4.1.4 and .2.4.2.2, ducts shall be insulated over their entire cross-sectional external surface. Ducts that are outside but adjacent to the specified space, and share one or more surfaces with it, shall be considered to pass through the specified space and shall be insulated over the surface they share with the space for a distance of 450 mm past the duct (Sketches of such arrangements are contained in the Unified Interpretations of SOLAS chapter II-2 (MSC.1/Circ.1276)). |
 | --- | --- | --- |
@@ -316,6 +322,7 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 
 **.3 Details of fire dampers and duct penetrations**
 
+<table>
 <tbody><tr><td></td><td>.1</td><td>Ducts passing through “A” class divisions shall meet the following requirements:<table><tbody><tr><td>.1</td><td>where a thin plated duct with a free cross sectional area equal to, or less than, 0,02 m2 passes through “A” class divisions, the opening shall be fitted with a steel sheet sleeve having a thickness of at least 3 mm and a length of at least 200 mm, divided preferably into 100 mm on each side of a bulkhead or, in the case of a deck, wholly laid on the lower side of the decks penetrated;</td></tr>
 </tbody>
 </table>
@@ -327,6 +334,7 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | .2 | Ventilation ducts with a free cross-sectional area exceeding 0,02 m2 passing through “B” class bulkheads shall be lined with steel sheet sleeves of 900 mm in length, divided preferably into 450 mm on each side of the bulkheads unless the duct is of steel for this length. |
 | --- | --- | --- |
@@ -336,6 +344,7 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 
 **.4 Ventilation systems for passenger ships carrying more than 36 passengers**
 
+<table>
 <tbody><tr><td></td><td>.1</td><td>In addition to the requirements in sections .1, .2 and .3, the ventilation system of a passenger ship carrying more than 36 passengers shall also meet the following requirements:<table><tbody><tr><td>.1</td><td>In general, the ventilation fans shall be so arranged that the ducts reaching the various spaces remain within a main vertical zone.</td></tr>
 </tbody>
 </table>
@@ -350,11 +359,13 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 **.5 Exhaust ducts from galley ranges**
 
 **.1 Requirements for passenger ships carrying more than 36 passengers**
 
+<table>
 <tbody><tr><td></td><td>.1</td><td>In addition to the requirements in sections .1, .2 and .3, exhaust ducts from galley ranges shall be constructed in accordance with paragraphs .2.4.2.1 and .2.4.2.2 and insulated to “A-60” class standard throughout accommodation spaces, service spaces, or control stations they pass through. They shall also be fitted with:<table><tbody><tr><td>.1</td><td>a grease trap readily removable for cleaning unless an alternative approved grease removal system is fitted;</td></tr>
 </tbody>
 </table>
@@ -372,6 +383,7 @@ Notes to be applied to tables 5.1, 5.1(a), 5.2 and 5.2(a), as appropriate:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | .2 | Exhaust ducts from ranges for cooking equipment installed on open decks shall conform to paragraph .5.1.1, as applicable, when passing through accommodation spaces or spaces containing combustible materials. |
 | --- | --- | --- |
@@ -412,6 +424,7 @@ Exhaust ducts from laundries and drying rooms of category (13) spaces as defined
 
 **‘CLASS B, C AND D SHIPS CONSTRUCTED ON OR AFTER 1 JANUARY 2018**
 
+<table>
 <tbody><tr><td></td><td>.4</td><td>A fixed fire detection and fire alarm system of an approved type, in accordance with the relevant provisions of Regulation II-2/A/9, shall be installed in machinery spaces where:<table><tbody><tr><td>.4.1</td><td>the installation of automatic and remote control systems and equipment has been approved in lieu of continuous manning of the space; and</td></tr>
 </tbody>
 </table>
@@ -420,10 +433,12 @@ Exhaust ducts from laundries and drying rooms of category (13) spaces as defined
 </table>
 </td></tr>
 </tbody>
+</table>
 
 |  | .5 | A fixed fire detection and fire alarm system of an approved type, in accordance with the relevant provisions of Regulation II-2/A/9, shall be installed in enclosed spaces containing incinerators. |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>.6</td><td>With regard to the fixed fire detection and fire alarm system required by Regulations II-2/B/13.4 and 13.5, the following shall apply:<table><tbody><tr><td></td><td>The fire detection system shall be so designed and the detectors so positioned as to detect rapidly the onset of fire in any part of those spaces and under any normal conditions of operation of the machinery and variations of ventilation as required by the possible range of ambient temperatures. Except in spaces of restricted height and where their use is especially appropriate, detection systems using only thermal detectors shall not be permitted. The detection system shall initiate audible and visual alarms distinct in both respects from the alarms of any other system not indicating fire, in sufficient places to ensure that the alarms are heard and observed on the navigating bridge and by a responsible engineer officer.</td></tr>
 </tbody>
 </table>
@@ -435,6 +450,7 @@ Exhaust ducts from laundries and drying rooms of category (13) spaces as defined
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (n) Regulation II-2/B/14.1.1.2 is replaced by the following:
 
@@ -448,6 +464,7 @@ Exhaust ducts from laundries and drying rooms of category (13) spaces as defined
 
 (a) the table in Regulation III/2.6 is replaced by the following:
 
+<table>
 <tbody><tr><td>‘Spaces</td><td colspan="2">B</td><td colspan="2">C</td><td colspan="2">D</td></tr>
 <tr><td>Number of persons (N) Number of passengers (P) </td><td>&gt; 250</td><td>≤ 250</td><td>&gt; 250</td><td>≤ 250</td><td>&gt; 250</td><td>≤ 250</td></tr>
 <tr></tr>
@@ -475,6 +492,7 @@ Exhaust ducts from laundries and drying rooms of category (13) spaces as defined
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (b) the following Regulation III/9/2a is inserted:
 
@@ -505,6 +523,7 @@ Exhaust ducts from laundries and drying rooms of category (13) spaces as defined
 |  | .1 | Enclosed space entry and rescue drills should be planned and conducted in a safe manner, taking into account, as appropriate, the guidance provided in the recommendations developed by the IMO (*3). |
 | --- | --- | --- |
 
+<table>
 <tbody><tr><td></td><td>.2</td><td>Each enclosed space entry and rescue drill shall include:<table><tbody><tr><td>.1</td><td>checking and use of personal protective equipment required for entry;</td></tr>
 </tbody>
 </table>
@@ -522,6 +541,7 @@ Exhaust ducts from laundries and drying rooms of category (13) spaces as defined
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (*3) Refer to the Revised Recommendations for entering enclosed spaces aboard ships, adopted by the IMO by resolution A.1050(27).’;"
 

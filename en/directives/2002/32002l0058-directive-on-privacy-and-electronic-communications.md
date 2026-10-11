@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2006/24/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 March 2006 </td><td> L 105</td><td>54</td><td>13.4.2006</td></tr>
 <tr><td></td><td> DIRECTIVE 2009/136/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 25 November 2009 </td><td> L 337</td><td>11</td><td>18.12.2009</td></tr>
+</table>
 
 **DIRECTIVE 2002/58/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

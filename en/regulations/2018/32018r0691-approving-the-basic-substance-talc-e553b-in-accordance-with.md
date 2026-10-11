@@ -1,0 +1,103 @@
+---
+title: "Commission Implementing Regulation (EU) 2018/691 of 7 May 2018 approving the basic substance Talc E553B in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 (Text with EEA relevance. )"
+identifier: "32018R0691"
+eli: "http://data.europa.eu/eli/reg_impl/2018/691/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2018-05-07
+entry_into_force: 2018-06-06
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018R0691"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2018/691 of 7 May 2018 approving the basic substance Talc E553B in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/691**
+
+**of 7 May 2018**
+
+**approving the basic substance Talc E553B in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (1), and in particular Article 23(5) in conjunction with Article 13(2) thereof,
+
+Whereas:
+
+(1) In accordance with Article 23(3) of Regulation (EC) No 1107/2009, the Commission received on 23 July 2015 an application from Compo Expert France SAS, for the approval of Talc E553B as a basic substance. That application was accompanied by the information required by the second subparagraph of Article 23(3).
+
+(2) The Commission asked the European Food Safety Authority (hereinafter ‘the Authority’) for scientific assistance. The Authority presented to the Commission a Technical Report on Talc E553B on 6 June 2016 (2). Considering the additional documentation submitted by the applicant to address the comments collated through the consultation with Member States and the Authority and related to operator exposure, the Commission asked the Authority for further scientific assistance to assess the new information submitted. The Authority presented to the Commission a second Technical Report on Talc E553B on 27 July 2017 (3).
+
+(3) The Commission presented the draft review report (4) on 5 October 2017 and a draft of this Regulation to the Standing Committee on Plants, Animals, Food and Feed on 13 December 2017 and finalised them for the meeting of that Committee on 22 March 2018.
+
+(4) The documentation provided by the applicant shows that Talc E553B fulfils the criteria of a foodstuff as defined in Article 2 of Regulation (EC) No 178/2002 of the European Parliament and of the Council (5). Moreover, it is not predominantly used for plant protection purposes but nevertheless is useful in plant protection in a product consisting of the substance and water. Consequently, it is to be considered as a basic substance.
+
+(5) It has appeared from the examinations made that Talc E553B may be expected to satisfy, in general, the requirements laid down in Article 23 of Regulation (EC) No 1107/2009, in particular with regard to the uses which were examined and detailed in the Commission review report. It is therefore appropriate to approve Talc E553B as a basic substance.
+
+(6) In accordance with Article 13(2) of Regulation (EC) No 1107/2009 in conjunction with Article 6 thereof and in the light of current scientific and technical knowledge, it is, however, necessary to include certain conditions and restrictions for the approval which are detailed in Annex I to this Regulation.
+
+(7) In accordance with Article 13(4) of Regulation (EC) No 1107/2009, the Annex to Commission Implementing Regulation (EU) No 540/2011 (6) should be amended accordingly.
+
+(8) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Approval of a basic substance
+
+The substance Talc E553B is approved as a basic substance as laid down in Annex I.
+
+## Article 2 — Amendments to Implementing Regulation (EU) No 540/2011
+
+Implementing Regulation (EU) No 540/2011 is amended in accordance with Annex II to this Regulation.
+
+## Article 3 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 7 May 2018.
+
+For the Commission
+
+The President
+
+Jean-Claude JUNCKER
+
+(1) OJ L 309, 24.11.2009, p. 1.
+
+(2) European Food Safety Authority, 2016. Technical report on the outcome of the consultation with Member States and EFSA on the basic substance application for Talc E553B for use in plant protection as repellent on fruit trees and grapevine. EFSA supporting publication 2016:EN-1044. 29 pp.
+
+(3) European Food Safety Authority, 2017. Technical report on the outcome of the consultation with Member States and EFSA on the basic substance application for Talc E553B for use in plant protection as repellent on fruit trees and grapevine. EFSA supporting publication 2017:EN-1277. 21 pp.
+
+(4) http://ec.europa.eu/food/plant/pesticides/eu-pesticides-database/public/?event=activesubstance.selection&language=EN.
+
+(5) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).
+
+(6) Commission Implementing Regulation (EU) No 540/2011 of 25 May 2011 implementing Regulation (EC) No 1107/2009 of the European Parliament and of the Council as regards the list of approved active substances (OJ L 153, 11.6.2011, p. 1).
+
+## ANNEX I
+
+| Common Name, Identification Numbers | IUPAC Name | Purity (1) | Date of approval | Specific provisions |
+| --- | --- | --- | --- | --- |
+| Talc E553B CAS No: 14807-96-6 | Magnesium hydrogen metasilicate silicate mineral | Food grade in conformity with Commission Regulation (EU) No 231/2012 (2). < 0,1 % of respirable Crystalline Silica | 28 May 2018 | Talc E553B shall be used in accordance with the specific conditions included in the conclusions of the review report on Talc E553B (SANTE/11639/2017) and in particular Appendices I and II thereof. |
+
+(1) Further details on identity, specification and manner of use of the basic substance are provided in the review report.
+
+(2) Commission Regulation (EU) No 231/2012 of 9 March 2012 laying down specifications for food additives listed in Annexes II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council (OJ L 83, 22.3.2012, p. 1).
+
+## ANNEX II
+
+In Part C of the Annex to Implementing Regulation (EU) No 540/2011, the following entry is added:
+
+| ‘19 | Talc E553B CAS No: 14807-96-6 | Magnesium hydrogen metasilicate silicate mineral | Food grade in conformity with Commission Regulation (EU) No 231/2012 (*1). < 0,1 % of respirable Crystalline Silica | 28 May 2018 | Talc E553B shall be used in accordance with the specific conditions included in the conclusions of the review report on Talc E553B (SANTE/11639/2017) and in particular Appendices I and II thereof. |
+| --- | --- | --- | --- | --- | --- |
+
+(*1) Commission Regulation (EU) No 231/2012 of 9 March 2012 laying down specifications for food additives listed in Annexes II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council (OJ L 83, 22.3.2012, p. 1).’

@@ -926,6 +926,7 @@ For the purposes of this Annex, the following definitions apply:
 
 (6) ‘managed soils’ means soils where soil management practices are carried out.
 
+<table>
 <tbody><tr><td>Aspect of soil degradation</td><td>Soil descriptor (1)</td><td colspan="2">Criteria for healthy soil condition – non-binding sustainable target values (2)</td><td>Land areas exempted from meeting the related criterion</td></tr>
 <tr><td colspan="5">Part A: soil descriptors with criteria for healthy soil condition established at Union level</td></tr>
 <tr><td>Salinisation (3)</td><td>Electrical conductivity (deci-Siemens per meter)</td><td colspan="2">&lt; 4 dS m–1 when using saturated soil paste extract (eEC) measurement method, or equivalent criterion if using another measurement method</td><td>Naturally saline land areas, areas with regular flooding from marine submersion and areas subject to sea spray</td></tr>
@@ -1040,6 +1041,7 @@ For the purposes of this Annex, the following definitions apply:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (1) The minimum criteria for the methodology for in situ sampling of soil descriptors are provided for in Annex II, Part A, and further details are to be provided pursuant to Article 24.
 
@@ -1065,6 +1067,7 @@ For the purposes of this Annex, the following definitions apply:
 
 **Part A: methodology for determining the number and location of sampling points and for the sampling survey**
 
+<table>
 <tbody><tr><td>Activity</td><td>Minimum criteria for methodology</td></tr>
 <tr><td><table><tbody><tr><td>1.</td><td>Determination of sampling points (sampling survey) for soil health assessment</td></tr>
 </tbody>
@@ -1075,6 +1078,7 @@ For the purposes of this Annex, the following definitions apply:
 </table>
 </td><td>Exact sampling locations shall be sampled unless duly justified circumstances, such as soil saturated with water or a high level of rock content, prevent the sampling of the locations When soil composite samples are taken, they shall be a mixture of at least 5 subsamples  When sampling soil in non-forested areas, residues and organic debris shall be removed from the surface  When sampling soil in forested areas, the forest floor, if relevant subdivided into litter and organic layers, shall be sampled separately and the thickness and weight shall be recorded  Samples or subsamples for the composite sample shall, where possible, be taken to a depth of at least 30 cm of soil. Information such as soil type and if possible genetic soil horizons shall be recorded. Subsamples shall be mixed together in order to get a homogeneous composite sample. Sampling may be done by fixed depth or by horizon, but data shall be reported by fixed depth  Bulk density samples shall be undisturbed samples taken at the relevant depth, including below 30 cm for subsoil. Samples related to soil compaction (saturated hydraulic conductivity and air capacity) may be the same undisturbed samples as those taken for bulk density. Where high content of coarse fragments in soil prevents sample taking, sampling may be excluded in that location for measuring bulk density  Further details on the field sampling survey are to be provided pursuant to Article 24(1), point (a), including on how to handle specific situations such as shallow soils and different sampling depths </td></tr>
 </tbody>
+</table>
 
 **Part B: methodology for determining or estimating the values of soil descriptors**
 
@@ -1088,6 +1092,7 @@ Where a reference methodology is set out in the table below, the following metho
 
 If a CEN methodology is available, it shall be preferred over the reference methodology. In that case, the initial reference methodology shall be considered to be an equivalent methodology.
 
+<table>
 <tbody><tr><td>Soil descriptor</td><td>Reference methodology</td><td>Minimum methodological criteria</td><td>Validated transfer function required (if using a methodology different from the reference methodology)?</td></tr>
 <tr><td>Soil texture (clay, silt and sand content – needed for the determination of other descriptors and related ranges)</td><td>ISO 11277 Determination of particle size distribution in mineral soil material – Method by sieving and sedimentation</td><td>Not applicable</td><td>YES</td></tr>
 <tr><td>Electrical conductivity</td><td>Option 1: ISO 11265 Determination of the specific electrical conductivity Option 2: saturated soil paste extract (eEC) measurement method (FAO SOP: GLOSOLAN-SOP-08 (2)) </td><td>Not applicable</td><td>YES</td></tr>
@@ -1154,6 +1159,7 @@ If a CEN methodology is available, it shall be preferred over the reference meth
 <tr><td>Bulk density in ‘topsoil’ (A-horizon (3))</td><td>ISO 11272 for determination of dry bulk density</td><td>Methodology may be refined depending on the proportion of coarse fragments</td><td>YES</td></tr>
 <tr><td>Soil descriptors linked to soil biodiversity and biological activity</td><td></td><td>Use European or international standards where available; if such standard is not available, the methodology chosen shall either be available in the scientific literature or publicly available</td><td>Not applicable</td></tr>
 </tbody>
+</table>
 
 **Part C: minimum methodological criteria for determining the values of the soil sealing and soil removal indicators**
 

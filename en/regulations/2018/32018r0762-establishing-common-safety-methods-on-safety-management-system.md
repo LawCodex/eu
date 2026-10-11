@@ -1,0 +1,1018 @@
+---
+title: "Commission Delegated Regulation (EU) 2018/762 of 8 March 2018 establishing common safety methods on safety management system requirements pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulations (EU) No 1158/2010 and (EU) No 1169/2010 (Text with EEA relevance. )"
+identifier: "32018R0762"
+eli: "http://data.europa.eu/eli/reg_del/2018/762/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2018-03-08
+entry_into_force: 2018-10-16
+last_amended: 2020-06-16
+consolidated_version: "02018R0762-20200616"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0762-20200616"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2018/762 of 8 March 2018 establishing common safety methods on safety management system requirements pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulations (EU) No 1158/2010 and (EU) No 1169/2010 (Text with EEA relevance. )
+
+**COMMISSION DELEGATED REGULATION (EU) 2018/762**
+
+**of 8 March 2018**
+
+**establishing common safety methods on safety management system requirements pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulations (EU) No 1158/2010 and (EU) No 1169/2010**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/782 of 12 June 2020 </td><td> L 188</td><td>14</td><td>15.6.2020</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2018/762**
+
+**of 8 March 2018**
+
+**establishing common safety methods on safety management system requirements pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council and repealing Commission Regulations (EU) No 1158/2010 and (EU) No 1169/2010**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes common safety methods (‘CSMs’) on safety management system requirements related to railway undertakings and infrastructure managers, as referred to in point (f) of Article 6(1) of Directive (EU) 2016/798.
+
+2\. This Regulation shall apply in respect of single safety certificates and safety authorisations issued pursuant to Directive (EU) 2016/798.
+
+## Article 2 — Definition
+
+For the purposes of this Regulation, ‘safety certification body’ means the body responsible for issuing a single safety certificate, either the Agency or a national safety authority.
+
+## Article 3 — Safety management system requirements related to railway undertakings
+
+Railway undertakings shall establish their safety management systems in accordance with the requirements set out in Annex I.
+
+Those safety management system requirements shall apply to the single safety certificates referred to in Article 10 of Directive (EU) 2016/798, for the purposes of the assessment of applications and of supervision.
+
+## Article 4 — Safety management system requirements related to infrastructure managers
+
+Infrastructure managers shall establish their safety management systems in accordance with the requirements set out in Annex II.
+
+Those safety management system requirements shall apply to the safety authorisations referred to in Article 12 of Directive (EU) 2016/798, for the purposes of the assessment of applications and of supervision.
+
+## Article 5 — Repeal
+
+Regulations (EU) No 1158/2010 and (EU) No 1169/2010 are repealed with effect from 31 October 2025.
+
+## Article 6 — Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 16 June 2019 in the Member States that have not notified the Agency and the Commission in accordance with Article 33(2) of Directive (EU) 2016/798.
+
+It shall apply from 16 June 2020 in the Member States that have notified the Agency and the Commission in accordance with Article 33(2) of Directive (EU) 2016/798 that they have extended the period for transposition of that Directive and that have not notified the Agency and the Commission in accordance with Article 33(2a) of Directive (EU) 2016/798 that they have further extended that transposition period.
+
+It shall apply in all Member States from 31 October 2020.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Safety management system requirements related to railway undertakings**
+
+**1\. CONTEXT OF THE ORGANISATION**
+
+1.1. The organisation shall:
+
+(a) describe the type, extent and area of its operations;
+
+(b) identify the serious risks for safety posed by its railway operations whether they are carried out by the organisation itself, or by contractors, partners or suppliers under its control;
+
+(c) identify interested parties (e.g. regulatory bodies, authorities, infrastructure managers, contractors, suppliers, partners), including those parties external to the railway system, that are relevant to the safety management system;
+
+(d) identify and maintain legal and other requirements related to safety from the interested parties referred to in point (c);
+
+(e) ensure that the requirements referred to in point (d) are taken into account in developing, implementing and maintaining the safety management system;
+
+(f) describe the scope of the safety management system, indicating which part of the business is included or not in its scope and taking into account the requirements referred to in point (d).
+
+**2\. LEADERSHIP**
+
+**2.1. Leadership and commitment**
+
+2.1.1. Top management shall demonstrate leadership and commitment to the development, implementation, maintenance and continual improvement of the safety management system by:
+
+(a) taking overall accountability and responsibility for safety;
+
+(b) ensuring commitment to safety by management at different levels within the organisation through their activities and in their relationships with staff and contractors;
+
+(c) ensuring that the safety policy and safety objectives are established, understood and are compatible with the strategic direction of the organisation;
+
+(d) ensuring the integration of the safety management system requirements into the organisation's business processes;
+
+(e) ensuring that the resources needed for the safety management system are available;
+
+(f) ensuring that the safety management system is effective in controlling the safety risks posed by the organisation;
+
+(g) encouraging staff to support compliance with the safety management system requirements;
+
+(h) promoting continual improvement of the safety management system;
+
+(i) ensuring that safety is considered when identifying and managing the organisation's business risks and explaining how conflict between safety and other business goals will be recognised and resolved;
+
+(j) promoting a positive safety culture.
+
+**2.2. Safety policy**
+
+2.2.1. A document describing the organisation's safety policy is established by the top management and is:
+
+(a) appropriate to the organisation's type and extent of railway operations;
+
+(b) approved by the organisation's chief executive (or a representative(s) of the top-management);
+
+(c) actively implemented, communicated and made available to all staff.
+
+2.2.2. The safety policy shall:
+
+(a) include a commitment to conform with all legal and other requirements related to safety;
+
+(b) provide a framework for setting safety objectives and evaluating the organisation's safety performance against these objectives;
+
+(c) include a commitment to control safety risks which arise both from its own activities and those caused by others;
+
+(d) include a commitment to continual improvement of the safety management system;
+
+(e) be maintained in accordance with the business strategy and the evaluation of the safety performance of the organisation.
+
+**2.3. Organisational roles, responsibilities, accountabilities and authorities**
+
+2.3.1. The responsibilities, accountabilities and authorities of staff having a role that affects safety (including management and other staff involved in safety-related tasks) shall be defined at all levels within the organisation, documented, assigned and communicated to them.
+
+2.3.2. The organisation shall ensure that staff with delegated responsibilities for safety-related tasks shall have the authority, competence and appropriate resources to perform their tasks without being adversely affected by the activities of other business functions.
+
+2.3.3. Delegation of responsibility for safety-related tasks shall be documented and communicated to the relevant staff, accepted and understood.
+
+2.3.4. The organisation shall describe the allocation of roles referred to in paragraph 2.3.1. to business functions within and where relevant, outside the organisation (see 5.3. Contractors, partners and suppliers).
+
+**2.4. Consultation of staff and other parties**
+
+2.4.1. Staff, their representatives and external interested parties, as appropriate and where relevant, shall be consulted in developing, maintaining and improving the safety management system in the relevant parts they are responsible for, including the safety aspects of operational procedures.
+
+2.4.2. The organisation shall facilitate the consultation of staff by providing the methods and means for involving staff, recording staff's opinion and providing feedback on staff's opinion.
+
+**3\. PLANNING**
+
+**3.1. Actions to address risks**
+
+3.1.1. Risk assessment
+
+3.1.1.1. The organisation shall:
+
+(a) identify and analyse all operational, organisational and technical risks relevant to the type, extent and area of operations carried out by the organisation. Such risks shall include those arising from human and organisational factors such as workload, job design, fatigue or suitability of procedures, and the activities of other interested parties (see 1. Context of the organisation);
+
+(b) evaluate the risks referred to in point (a) by applying appropriate risk assessment methods;
+
+(c) develop and put in place safety measures, with identification of associated responsibilities (see 2.3. Organisational roles, responsibilities, accountabilities and authorities);
+
+(d) develop a system to monitor the effectiveness of safety measures (see 6.1. Monitoring);
+
+(e) recognise the need to collaborate with other interested parties (such as railway undertakings, infrastructure managers, manufacturer, maintenance supplier, entity in charge of maintenance, railway vehicle keeper, service provider and procurement entity), where appropriate, on shared risks and the putting in place of adequate safety measures;
+
+(f) communicate risks to staff and involved external parties (see 4.4. Information and communication).
+
+3.1.1.2. When assessing risk, an organisation shall take into account the need to determine, provide and sustain a safe working environment which conforms to applicable legislation, in particular Directive 89/391/EEC.
+
+3.1.2. Planning for change
+
+3.1.2.1. The organisation shall identify potential safety risks and appropriate safety measures (see 3.1.1. Risk assessment) before the implementation of a change (see 5.4. Management of change) in accordance with the risk management process set out in the Regulation (EU) No 402/2013 ( 1 ), including consideration of the safety risks from the change process itself.
+
+**3.2. Safety objectives and planning**
+
+3.2.1. The organisation shall establish safety objectives for relevant functions at relevant levels to maintain and, where reasonably practicable, improve its safety performance.
+
+3.2.2. The safety objectives shall:
+
+(a) be consistent with the safety policy and the organisation's strategic objectives (where applicable);
+
+(b) be linked to the priority risks that influence the safety performance of the organisation;
+
+(c) be measurable;
+
+(d) take into account applicable legal and other requirements;
+
+(e) be reviewed as regards their achievements and revised as appropriate;
+
+(f) be communicated.
+
+3.2.3. The organisation shall have plan(s) to describe how it will achieve its safety objectives.
+
+3.2.4. The organisation shall describe the strategy and plan(s) used to monitor the achievement of the safety objectives (see 6.1. Monitoring).
+
+**4\. SUPPORT**
+
+**4.1. Resources**
+
+4.1.1. The organisation shall provide the resources, including competent staff and effective and useable equipment, needed for the establishment, implementation, maintenance and continual improvement of the safety management system.
+
+**4.2. Competence**
+
+4.2.1. The organisation's competence management system shall ensure that staff having a role that affects safety are competent in the safety-related tasks for which they are responsible (see 2.3. Organisational roles, responsibilities, accountabilities and authorities), including at least:
+
+(a) identification of the competencies (including knowledge, skills, non-technical behaviours and attitudes) required for safety-related tasks;
+
+(b) selection principles (basic educational level, psychological and physical fitness required);
+
+(c) initial training, experience and qualification;
+
+(d) ongoing training and periodic update of existing competencies;
+
+(e) periodic assessment of competence and checks of psychological and physical fitness to ensure that qualifications and skills are maintained over time;
+
+(f) specific training in relevant parts of the safety management system in order to deliver their safety-related tasks.
+
+4.2.2. The organisation shall provide a training programme, as referred to in points (c), (d) and (f) of paragraph 4.2.1, for staff performing safety-related tasks which ensures that:
+
+(a) the training programme is delivered according to the identified competency requirements and individual needs of the staff;
+
+(b) where applicable, the training ensures that staff can operate under all operating conditions (normal, degraded and emergency);
+
+(c) the duration of the training and the frequency of the refresher training are appropriate for the training objectives;
+
+(d) records are kept for all staff (see 4.5.3. Control of documented information);
+
+(e) the training programme is regularly reviewed and audited (see 6.2. Internal auditing) and changes made when necessary (see 5.4. Management of change).
+
+4.2.3. Back to work arrangements shall be in place for staff following accidents/incidents or long absences from work, including providing additional training where such a need is identified.
+
+**4.3. Awareness**
+
+4.3.1. Top management shall ensure that they and their staff having a role that affects safety are aware of the relevance, importance and consequences of their activities and how they contribute to the correct application and the effectiveness of the safety management system, including the achievement of safety objectives (see 3.2. Safety objectives and planning).
+
+**4.4. Information and communication**
+
+4.4.1. The organisation shall define adequate communication channels to ensure that safety-related information is exchanged among the different levels of the organisation and with external interested parties including contractors, partners and suppliers.
+
+4.4.2. To ensure that safety-related information reaches those making judgements and decisions, the organisation shall manage the identification, receipt, processing, generation and dissemination of safety-related information.
+
+4.4.3. The organisation shall ensure that safety-related information is:
+
+(a) relevant, complete and understandable for the intended users;
+
+(b) valid;
+
+(c) accurate;
+
+(d) consistent;
+
+(e) controlled (see 4.5.3. Control of documented information);
+
+(f) communicated before it takes effect;
+
+(g) received and understood.
+
+**4.5. Documented information**
+
+4.5.1. Safety management system documentation
+
+4.5.1.1. There is a description of the safety management system including:
+
+(a) the identification and description of the processes and activities related to safety of rail operations, including safety-related tasks and associated responsibilities (see 2.3. Organisational roles, responsibilities, accountabilities and authorities);
+
+(b) the interaction of these processes;
+
+(c) the procedures or other documents describing how these processes are implemented;
+
+(d) the identification of contractors, partners and suppliers with a description of the type and extent of services delivered;
+
+(e) the identification of contractual arrangements and other business agreements, concluded between the organisation and other parties identified under (d), necessary to control the safety risks of the organisation and those related to the use of contractors;
+
+(f) reference to documented information required by this Regulation.
+
+4.5.1.2. The organisation shall ensure that an annual safety report is submitted to the relevant national safety authority (or authorities) in accordance with Article 9(6) of Directive (EU) 2016/798, including:
+
+(a) a synthesis of the decisions on the level of significance of the safety-related changes, including an overview of significant changes, in accordance with Article 18(1) of Regulation (EU) No 402/2013;
+
+(b) the organisation's safety objectives for the following year(s) and how serious risks for safety influence the setting of these safety objectives;
+
+(c) the results of internal accident/incident investigation (see 7.1. Learning from accidents and incidents) and other monitoring activities (see 6.1. Monitoring, 6.2. Internal auditing and 6.3. Management review), in accordance with Article 5(1) of Regulation (EU) No 1078/2012 ( 2 );
+
+(d) details of progress on addressing outstanding recommendations from the national investigation bodies (see 7.1. Learning from accidents and incidents);
+
+(e) the organisation's safety indicators set out to evaluate the organisation's safety performance (see 6.1. Monitoring);
+
+(f) where applicable, the conclusions of the annual report of the safety advisor, as referred to in RID ( 3 ), on the activities of the organisation relating to the transport of dangerous goods ( 4 ).
+
+4.5.2. Creating and updating
+
+4.5.2.1. The organisation shall ensure that when creating and updating documented information related to the safety management system adequate formats and media are used.
+
+4.5.3. Control of documented information
+
+4.5.3.1. The organisation shall control documented information related to the safety management system, in particular its storage, distribution and the control of changes, to ensure its availability, suitability and protection where appropriate.
+
+**4.6. Integration of human and organisational factors**
+
+4.6.1. The organisation shall demonstrate a systematic approach to integrating human and organisational factors within the safety management system. This approach shall:
+
+(a) include the development of a strategy and the use of expertise and recognised methods from the field of human and organisational factors;
+
+(b) address risks associated with the design and use of equipment, tasks, working conditions and organisational arrangements, taking into account human capabilities as well as limitations, and the influences on human performance.
+
+**5\. OPERATION**
+
+**5.1. Operational planning and control**
+
+5.1.1. When planning, developing, implementing and reviewing its operational processes, the organisation shall ensure that during operation:
+
+(a) risk acceptance criteria and safety measures are applied (see 3.1.1. Risk assessment);
+
+(b) plan(s) to achieve the safety objectives are delivered (see 3.2. Safety objectives and planning);
+
+(c) information is collected to measure the correct application and effectiveness of the operational arrangements (see 6.1. Monitoring).
+
+5.1.2. The organisation shall ensure that its operational arrangements conform to the safety-related requirements of applicable Technical Specifications for Interoperability and relevant national rules and any other relevant requirements (see 1. Context of the organisation).
+
+5.1.3. To control risks where relevant for the safety of operational activities (see 3.1.1. Risk assessment), at least the following shall be taken into account:
+
+(a) planning of existing or new train routes and new train services, including the introduction of new types of vehicles, the need to lease vehicles and/or to hire staff from external parties and the exchange of information on the maintenance for operational purposes with entities in charge of maintenance;
+
+(b) development and implementation of train timetables;
+
+(c) preparation of trains or vehicles before movement, including pre-departure checks and train composition;
+
+(d) running trains or movement of vehicles in the different operating conditions (normal, degraded and emergency);
+
+(e) adaptation of the operation to requests for removal from operation and notification of return to operation issued by entities in charge of maintenance;
+
+(f) authorisations for movements of vehicles;
+
+(g) usability of interfaces in train driving cabs and train control centres and with equipment used by maintenance staff.
+
+5.1.4. To control the allocation of responsibilities where relevant for the safety of operational activities, the organisation shall identify responsibilities for coordinating and managing the safe running of trains and movements of vehicles and define how relevant tasks affecting the safe delivery of all services are allocated to competent staff within the organisation (see 2.3. Organisational roles, responsibilities, accountabilities and authorities) and to other external qualified parties when appropriate (see 5.3. Contractors, partners and suppliers).
+
+5.1.5. To control information and communication where relevant for the safety of operational activities (see 4.4. Information and communication), relevant staff (e.g. train crews) shall be advised of the details of any specified conditions of travel, including relevant changes which may result in a hazard, temporary or permanent operational restrictions (e.g. due to specific type of vehicles or to specific routes) and conditions for exceptional consignments, where applicable.
+
+5.1.6. To control competence where relevant for the safety of operational activities (see 4.2. Competence), the organisation shall ensure, in accordance with applicable legislation (see 1. Context of the organisation), for its staff:
+
+(a) compliance with their training and work instructions, and corrective actions are taken where required;
+
+(b) specific training in case of anticipated changes affecting the running of operations or their task assignment;
+
+(c) adoption of adequate measures following accidents and incidents.
+
+**5.2. Asset management**
+
+5.2.1. The organisation shall manage the safety risks associated with physical assets throughout their life cycle (see 3.1.1. Risk assessment), from design to disposal, and fulfil the human factors requirements in all phases of the life cycle.
+
+5.2.2. The organisation shall:
+
+(a) ensure that the assets are used for the purpose intended while maintaining their safe operational state, in accordance with Article 14(2) of Directive (EU) 2016/798 where relevant, and their expected level of performance;
+
+(b) manage the assets in normal and degraded operations;
+
+(c) detect as soon as reasonably practicable instances of non-compliance with operating requirements before or during the operation of the asset, including the application of restrictions of use as appropriate to ensure a safe operational state of the asset (see 6.1. Monitoring).
+
+5.2.3. The organisation shall ensure that its asset management arrangements, where applicable, conform to all essential requirements as set out in the relevant Technical Specifications for Interoperability and any other relevant requirements (see 1. Context of the organisation).
+
+5.2.4. To control risks where relevant for the supply of maintenance (see 3.1.1. Risk assessment), at least the following shall be taken into account:
+
+(a) the identification of the need for maintenance to keep the asset in a safe operational state, based on the planned and real use of the asset and its design characteristics;
+
+(b) the management of the removal of the asset from operation for maintenance, when defects have been identified or when asset condition degrades outside the limits of a safe operational state as referred to in point (a);
+
+(c) the management of the return to operation of the asset with eventual restrictions of use after maintenance has been delivered to ensure it is in a safe operational state;
+
+(d) the management of monitoring and measurement equipment to ensure that it is fit for its intended purpose.
+
+5.2.5. To control information and communication where relevant for the safe management of assets (see 4.4. Information and communication), the organisation shall take into account:
+
+(a) the exchange of relevant information within the organisation or with external entities responsible for maintenance (see 5.3. Contractors, partners and suppliers), in particular on safety-related malfunctions, accidents, incidents as well as on eventual restrictions of use of the asset;
+
+(b) the traceability of all necessary information including the information related to point (a) (see 4.4. Information and communication and 4.5.3. Control of documented information);
+
+(c) the establishment and maintenance of records including the management of changes affecting the safety of assets (see 5.4. Management of change).
+
+**5.3. Contractors, partners and suppliers**
+
+5.3.1. The organisation shall identify and control safety risks arising from outsourced activities, including operations or cooperation with contractors, partners and suppliers.
+
+5.3.2. To control the safety risks referred to in paragraph 5.3.1, the organisation shall define the criteria for the selection of the contractors, partners and suppliers and the contract requirements they have to meet, including:
+
+(a) the legal and other requirements related to safety (see 1. Context of the organisation);
+
+(b) the level of competence required to deliver the tasks set out in the contract (see 4.2. Competence);
+
+(c) the responsibilities for the tasks to be performed;
+
+(d) the expected safety performance to be maintained during the contract;
+
+(e) the obligations relating to the exchange of safety-related information (see 4.4. Information and communication);
+
+(f) the traceability of safety-related documents (see 4.5. Documented information).
+
+5.3.3. In accordance with the process set out in Article 3 of Regulation (EU) No 1078/2012, the organisation shall monitor:
+
+(a) the safety performance of all activities and operations of contractors, partners and suppliers to ensure that they comply with the requirements set out in the contract;
+
+(b) the awareness of contractors, partners and suppliers of safety risks they entail to the organisation's operations.
+
+**5.4. Management of change**
+
+5.4.1. The organisation shall implement and control changes to the safety management system to maintain or improve the safety performance. This shall include decisions at the different stages of the change management and the subsequent review of safety risks (see 3.1.1. Risk assessment).
+
+**5.5. Emergency management**
+
+5.5.1. The organisation shall identify the emergency situations and associated timely measures to be taken to manage them (see 3.1.1. Risk assessment) and to re-establish normal operating conditions in accordance with Regulation (EU) 2015/995 ( 5 ).
+
+5.5.2. The organisation shall ensure that, for each identified type of emergency:
+
+(a) the emergency services can be promptly contacted;
+
+(b) the emergency services are provided with all relevant information both in advance, to prepare their emergency response, and at the time of an emergency;
+
+(c) first aid is provided internally.
+
+5.5.3. The organisation shall identify and document the roles and responsibilities of all parties in accordance with Regulation (EU) 2015/995.
+
+5.5.4. The organisation shall have plans for action, alerts and information in case of emergency including arrangements to:
+
+(a) alert all staff with responsibility for emergency management;
+
+(b) communicate information to all parties (e.g. infrastructure manager, contractors, authorities, emergency services), including emergency instructions for passengers;
+
+(c) take any decisions required in accordance with the type of emergency.
+
+5.5.5. The organisation shall describe how resources and means for emergency management have been allocated (see 4.1. Resources) and how training requirements have been identified (see 4.2. Competence).
+
+5.5.6. The emergency arrangements are regularly tested in cooperation with other interested parties and updated when appropriate.
+
+5.5.7. The organisation shall ensure that competent staff in charge, with adequate language skills, can be contacted easily and without delay by the infrastructure manager and provide the latter with the right level of information.
+
+5.5.8. The organisation shall have a procedure to contact the entity in charge of maintenance or the railway vehicle keeper in the event of an emergency.
+
+**6\. PERFORMANCE EVALUATION**
+
+**6.1. Monitoring**
+
+6.1.1. The organisation shall perform monitoring in accordance with Regulation (EU) No 1078/2012:
+
+(a) to check the correct application and the effectiveness of all the processes and procedures in the safety management system, including the operational, organisational and technical safety measures;
+
+(b) to check the correct application of the safety management system as a whole, and if it achieves the expected outcomes;
+
+(c) to investigate whether the safety management system conforms to the requirements in this Regulation;
+
+(d) to identify, implement and evaluate the effectiveness of the corrective measures (see 7.2. Continual improvement), as appropriate, if any relevant instance of non-compliance to points (a), (b) and (c) is detected.
+
+6.1.2. The organisation shall regularly monitor at all levels within the organisation the performance of safety-related tasks and intervene if these tasks are not being properly performed.
+
+**6.2. Internal auditing**
+
+6.2.1. The organisation shall conduct internal audits in an independent, impartial and transparent way to collect and analyse information for the purposes of its monitoring activities (see 6.1. Monitoring), including:
+
+(a) A schedule of planned internal audits which can be revised depending on the results of previous audits and monitoring of performance;
+
+(b) The identification and selection of competent auditors (see 4.2. Competence);
+
+(c) The analysis and evaluation of the results of the audits;
+
+(d) The identification of the need for corrective or improvement measures;
+
+(e) The verification of the completion and effectiveness of these measures;
+
+(f) The documentation pertaining to the execution and results of audits;
+
+(g) The communication of the results of audits to the top management.
+
+**6.3. Management review**
+
+6.3.1. Top management shall regularly review the continuing adequacy and effectiveness of the safety management system including at least consideration of:
+
+(a) details of progress on addressing outstanding actions from previous management reviews;
+
+(b) changing internal and external circumstances (see 1. Context of the organisation);
+
+(c) the organisation's safety performance related to:
+
+(i) the achievement of its safety objectives;
+
+(ii) the results from its monitoring activities, including the internal audit findings, and internal accident/incident investigations and status of their respective actions;
+
+(iii) the relevant outputs from supervisory activities conducted by the national safety authority;
+
+(d) recommendations for improvement.
+
+6.3.2. Based on the outputs of its management review, the top management shall take overall responsibility for the planning and implementation of needed changes to the safety management system.
+
+**7\. IMPROVEMENT**
+
+**7.1. Learning from accidents and incidents**
+
+7.1.1. Accidents and incidents related to the organisation's railway operations shall be:
+
+(a) reported, logged, investigated and analysed to determine their causes;
+
+(b) reported to national bodies as appropriate.
+
+7.1.2. The organisation shall ensure that:
+
+(a) recommendations from the national safety authority, the national investigating body and industry/internal investigations are evaluated and implemented if appropriate or mandated;
+
+(b) relevant reports/information from other interested parties such as railway undertakings, infrastructure managers, entities in charge of maintenance and railway vehicle keepers are considered and taken into account.
+
+7.1.3. The organisation shall use information relating to the investigation to review the risk assessment (see 3.1.1. Risk assessment), to learn with the aim of improving safety and, where applicable, to adopt corrective and/or improvement measures (see 5.4. Management of change).
+
+**7.2. Continual improvement**
+
+7.2.1. The organisation shall continually improve the adequacy and effectiveness of its safety management system, taking into account the framework set out in Regulation (EU) No 1078/2012 and at least the outputs of the following activities:
+
+(a) monitoring (see 6.1. Monitoring);
+
+(b) internal auditing (see 6.2. Internal auditing);
+
+(c) management review (see 6.3. Management review);
+
+(d) learning from accidents and incidents (see 7.1. Learning from accidents and incidents).
+
+7.2.2. The organisation shall provide means to motivating staff and other interested parties to be active in improving safety as part of its organisational learning.
+
+7.2.3. The organisation shall provide a strategy to continually improve its safety culture, relying on the use of expertise and recognised methods to identify behavioural issues affecting the different parts of the safety management system and to put in place measures to address these.
+
+## ANNEX II
+
+**Safety management system requirements related to infrastructure managers**
+
+**1\. CONTEXT OF THE ORGANISATION**
+
+1.1. The organisation shall:
+
+(a) describe the character and extent of its operations;
+
+(b) identify the serious risks for safety posed by its railway operations whether they are carried out by the organisation itself, or by contractors, partners or suppliers under its control;
+
+(c) identify interested parties (e.g. regulatory bodies, authorities, railway undertakings, infrastructure managers, contractors, suppliers, partners), including those parties external to the railway system, that are relevant to the safety management system;
+
+(d) identify and maintain legal and other requirements related to safety from the interested parties referred to in point (c);
+
+(e) ensure that the requirements referred to in point (d) are taken into account in developing, implementing and maintaining the safety management system;
+
+(f) describe the scope of the safety management system, indicating which part of the business is included or not in its scope and taking into account the requirements referred to in point (d).
+
+1.2. For the purpose of this Annex the following definitions are applied:
+
+(a) ‘character’ in relation to railway operations carried out by infrastructure managers means the characterisation of operation by its scope, including infrastructure design and construction, infrastructure maintenance, traffic planning, traffic management and control, and by the use of the railway infrastructure, including conventional and/or high speed lines, transport of passengers and/or goods;
+
+(b) ‘extent’ in relation to railway operations carried out by infrastructure managers means the extent characterised by the length of railway track and the estimated size of the infrastructure manager in terms of number of employees working in the railway sector.
+
+**2\. LEADERSHIP**
+
+**2.1. Leadership and commitment**
+
+2.1.1. Top management shall demonstrate leadership and commitment to the development, implementation, maintenance and continual improvement of the safety management system by:
+
+(a) taking overall accountability and responsibility for safety;
+
+(b) ensuring commitment to safety by management at different levels within the organisation through their activities and in their relationships with staff and contractors;
+
+(c) ensuring that the safety policy and safety objectives are established, understood and are compatible with the strategic direction of the organisation;
+
+(d) ensuring the integration of the safety management system requirements into the organisation's business processes;
+
+(e) ensuring that the resources needed for the safety management system are available;
+
+(f) ensuring that the safety management system is effective in controlling the safety risks posed by the organisation;
+
+(g) encouraging staff to support compliance with the safety management system requirements;
+
+(h) promoting continual improvement of the safety management system;
+
+(i) ensuring that safety is considered when identifying and managing the organisation's business risks and explaining how conflict between safety and other business goals will be recognised and resolved;
+
+(j) promoting a positive safety culture.
+
+**2.2. Safety policy**
+
+2.2.1. A document describing the organisation's safety policy is established by the top management and is:
+
+(a) appropriate to the organisation's character and extent of railway operations;
+
+(b) approved by the organisation's chief executive (or a representative(s) of the top-management);
+
+(c) actively implemented, communicated and made available to all staff.
+
+2.2.2. The safety policy shall:
+
+(a) include a commitment to conform with all legal and other requirements related to safety;
+
+(b) provide a framework for setting safety objectives and evaluating the organisation's safety performance against these objectives;
+
+(c) include a commitment to control safety risks which arise both from its own activities and those caused by others;
+
+(d) include a commitment to continual improvement of the safety management system;
+
+(e) be maintained in accordance with the business strategy and the evaluation of the safety performance of the organisation.
+
+**2.3. Organisational roles, responsibilities, accountabilities and authorities**
+
+2.3.1. The responsibilities, accountabilities and authorities of staff having a role that affects safety (including management and other staff involved in safety-related tasks) shall be defined at all levels within the organisation, documented, assigned and communicated to them.
+
+2.3.2. The organisation shall ensure that staff with delegated responsibilities for safety-related tasks shall have the authority, competence and appropriate resources to perform their tasks without being adversely affected by the activities of other business functions.
+
+2.3.3. Delegation of responsibility for safety-related tasks shall be documented and communicated to the relevant staff, accepted and understood.
+
+2.3.4. The organisation shall describe the allocation of roles referred to in paragraph 2.3.1. to business functions within and where relevant, outside the organisation (see 5.3. Contractors, partners and suppliers).
+
+**2.4. Consultation of staff and other parties**
+
+2.4.1. Staff, their representatives and external interested parties, as appropriate and where relevant, shall be consulted in developing, maintaining and improving the safety management system in the relevant parts they are responsible for, including the safety aspects of operational procedures.
+
+2.4.2. The organisation shall facilitate the consultation of staff by providing the methods and means for involving staff, recording staff's opinion and providing feedback on staff's opinion.
+
+**3\. PLANNING**
+
+**3.1. Actions to address risks**
+
+3.1.1. Risk assessment
+
+3.1.1.1. The organisation shall:
+
+(a) identify and analyse all operational, organisational and technical risks relevant to the character and extent of operations carried out by the organisation. Such risks shall include those arising from human and organisational factors such as workload, job design, fatigue or suitability of procedures, and the activities of other interested parties (see 1. Context of the organisation);
+
+(b) evaluate the risks referred to in point (a) by applying appropriate risk assessment methods;
+
+(c) develop and put in place safety measures, with identification of associated responsibilities (see 2.3. Organisational roles, responsibilities, accountabilities and authorities);
+
+(d) develop a system to monitor the effectiveness of safety measures (see 6.1. Monitoring);
+
+(e) recognise the need to collaborate with other interested parties (such as railway undertakings, infrastructure managers, manufacturer, maintenance supplier, entity in charge of maintenance, railway vehicle keeper, service provider and procurement entity), where appropriate, on shared risks and the putting in place of adequate safety measures;
+
+(f) communicate risks to staff and involved external parties (see 4.4. Information and communication).
+
+3.1.1.2. When assessing risk, an organisation shall take into account the need to determine, provide and sustain a safe working environment which conforms to applicable legislation, in particular Directive 89/391/EEC.
+
+3.1.2. Planning for change
+
+3.1.2.1. The organisation shall identify potential safety risks and appropriate safety measures (see 3.1.1. Risk assessment) before the implementation of a change (see 5.4. Management of change) in accordance with the risk management process set out in Regulation (EU) No 402/2013, including consideration of the safety risks from the change process itself.
+
+**3.2. Safety objectives and planning**
+
+3.2.1. The organisation shall establish safety objectives for relevant functions at relevant levels to maintain and, where reasonably practicable, improve its safety performance.
+
+3.2.2. The safety objectives shall:
+
+(a) be consistent with the safety policy and the organisation's strategic objectives (where applicable);
+
+(b) be linked to the priority risks that influence the safety performance of the organisation;
+
+(c) be measurable;
+
+(d) take into account applicable legal and other requirements;
+
+(e) be reviewed as regards their achievements and revised as appropriate;
+
+(f) be communicated.
+
+3.2.3. The organisation shall have plan(s) to describe how it will achieve its safety objectives.
+
+3.2.4. The organisation shall describe the strategy and plan(s) used to monitor the achievement of the safety objectives (see 6.1. Monitoring).
+
+**4\. SUPPORT**
+
+**4.1. Resources**
+
+4.1.1. The organisation shall provide the resources, including competent staff and effective and useable equipment, needed for the establishment, implementation, maintenance and continual improvement of the safety management system.
+
+**4.2. Competence**
+
+4.2.1. The organisation's competence management system shall ensure that staff having a role that affects safety are competent in the safety-related tasks for which they are responsible (see 2.3. Organisational roles, responsibilities, accountabilities and authorities), including at least:
+
+(a) identification of the competencies (including knowledge, skills, non-technical behaviours and attitudes) required for safety-related tasks;
+
+(b) selection principles (basic educational level, psychological and physical fitness required);
+
+(c) initial training, experience and qualification;
+
+(d) ongoing training and periodic update of existing competencies;
+
+(e) periodic assessment of competence and checks of psychological and physical fitness to ensure that qualifications and skills are maintained over time;
+
+(f) specific training in relevant parts of the safety management system in order to deliver their safety-related tasks.
+
+4.2.2. The organisation shall provide a training programme, as referred to in points (c), (d) and (f) of paragraph 4.2.1, for staff performing safety-related tasks which ensures that:
+
+(a) the training programme is delivered according to the identified competency requirements and individual needs of the staff;
+
+(b) where applicable, the training ensures that staff can operate under all operating conditions (normal, degraded and emergency);
+
+(c) the duration of the training and the frequency of the refresher training are appropriate for the training objectives;
+
+(d) records are kept for all staff (see 4.5.3. Control of documented information);
+
+(e) the training programme is regularly reviewed and audited (see 6.2. Internal auditing) and changes made when necessary (see 5.4. Management of change).
+
+4.2.3. Back to work arrangements shall be in place for staff following accidents/incidents or long absences from work, including providing additional training where such a need is identified.
+
+**4.3. Awareness**
+
+4.3.1. Top management shall ensure that they and their staff having a role that affects safety are aware of the relevance, importance and consequences of their activities and how they contribute to the correct application and the effectiveness of the safety management system, including the achievement of safety objectives (see 3.2. Safety objectives and planning).
+
+**4.4. Information and communication**
+
+4.4.1. The organisation shall define adequate communication channels to ensure that safety-related information is exchanged among the different levels of the organisation and with external interested parties including contractors, partners and suppliers.
+
+4.4.2. To ensure that safety-related information reaches those making judgements and decisions, the organisation shall manage the identification, receipt, processing, generation and dissemination of safety-related information.
+
+4.4.3. The organisation shall ensure that safety-related information is:
+
+(a) relevant, complete and understandable for the intended users;
+
+(b) valid;
+
+(c) accurate;
+
+(d) consistent;
+
+(e) controlled (see 4.5.3. Control of documented information);
+
+(f) communicated before it takes effect;
+
+(g) received and understood.
+
+**4.5. Documented information**
+
+4.5.1. Safety management system documentation
+
+4.5.1.1. There is a description of the safety management system including:
+
+(a) the identification and description of the processes and activities related to safety of rail operations, including safety-related tasks and associated responsibilities (see 2.3. Organisational roles, responsibilities, accountabilities and authorities);
+
+(b) the interaction of these processes;
+
+(c) the procedures or other documents describing how these processes are implemented;
+
+(d) the identification of contractors, partners and suppliers with a description of the type and extent of services delivered;
+
+(e) the identification of contractual arrangements and other business agreements, concluded between the organisation and other parties identified under (d), necessary to control the safety risks of the organisation and those related to the use of contractors;
+
+(f) reference to documented information required by this Regulation.
+
+4.5.1.2. The organisation shall ensure that an annual safety report is submitted to the relevant national safety authority (or authorities) in accordance with Article 9(6) of Directive (EU) 2016/798, including:
+
+(a) a synthesis of the decisions on the level of significance of the safety-related changes, including an overview of significant changes, in accordance with Article 18(1) of Regulation (EU) No 402/2013;
+
+(b) the organisation's safety objectives for the following year(s) and how serious risks for safety influence the setting of these safety objectives;
+
+(c) the results of internal accident/incident investigation (see 7.1. Learning from accidents and incidents) and other monitoring activities (see 6.1. Monitoring, 6.2. Internal auditing and 6.3. Management review), in accordance with Article 5(1) of Regulation (EU) No 1078/2012;
+
+(d) details of progress on addressing outstanding recommendations from the national investigation bodies (see 7.1. Learning from accidents and incidents);
+
+(e) the organisation's safety indicators set out to evaluate the organisation's safety performance (see 6.1. Monitoring);
+
+(f) where applicable, the conclusions of the annual report of the safety advisor, as referred to in RID ( 6 ), on the activities of the organisation relating to the transport of dangerous goods ( 7 ).
+
+4.5.2. Creating and updating
+
+4.5.2.1. The organisation shall ensure that when creating and updating documented information related to the safety management system adequate formats and media are used.
+
+4.5.3. Control of documented information
+
+4.5.3.1. The organisation shall control documented information related to the safety management system, in particular its storage, distribution and the control of changes, to ensure its availability, suitability and protection where appropriate.
+
+**4.6. Integration of human and organisational factors**
+
+4.6.1. The organisation shall demonstrate a systematic approach to integrating human and organisational factors within the safety management system. This approach shall:
+
+(a) include the development of a strategy and the use of expertise and recognised methods from the field of human and organisational factors;
+
+(b) address risks associated with the design and use of equipment, tasks, working conditions and organisational arrangements, taking into account human capabilities as well as limitations, and the influences on human performance.
+
+**5\. OPERATION**
+
+**5.1. Operational planning and control**
+
+5.1.1. When planning, developing, implementing and reviewing its operational processes, the organisation shall ensure that during operation:
+
+(a) risk acceptance criteria and safety measures are applied (see 3.1.1. Risk assessment);
+
+(b) plan(s) to achieve the safety objectives are delivered (see 3.2. Safety objectives and planning);
+
+(c) information is collected to measure the correct application and effectiveness of the operational arrangements (see 6.1. Monitoring).
+
+5.1.2. The organisation shall ensure that its operational arrangements conform to the safety-related requirements of applicable Technical Specifications for Interoperability and relevant national rules and any other relevant requirements (see 1. Context of the organisation).
+
+5.1.3. To control risks where relevant for the safety of operational activities (see 3.1.1. Risk assessment), at least the following shall be taken into account:
+
+(a) identification of the safe boundaries of transport for traffic planning and control based on the design characteristics of the infrastructure;
+
+(b) traffic planning, including timetable and train path allocation;
+
+(c) real-time traffic management in normal mode and in degraded modes with the application of traffic restrictions of use and the management of traffic disruptions;
+
+(d) setting of conditions for running exceptional consignments.
+
+5.1.4. To control the allocation of responsibilities where relevant for the safety of operational activities, the organisation shall identify responsibilities for planning and operating the rail network and define how relevant tasks affecting the safe delivery of all services are allocated to competent staff within the organisation (see 2.3. Organisational roles, responsibilities, accountabilities and authorities) and to other external qualified parties when appropriate (see 5.3. Contractors, partners and suppliers).
+
+5.1.5. To control information and communication where relevant for the safety of operational activities (see 4.4. Information and communication), relevant staff (e.g. signallers) shall be informed about specific routing requirements for trains and movements of vehicles including relevant changes which may result in a hazard, temporary or permanent operational restrictions (e.g. due to track maintenance) and conditions for exceptional consignments where applicable.
+
+5.1.6. To control competence where relevant for the safety of operational activities (see 4.2. Competence), the organisation shall ensure, in accordance with applicable legislation (see 1. Context of the organisation), for its staff:
+
+(a) compliance with their training and work instructions, and corrective actions are taken where required;
+
+(b) specific training in case of anticipated changes affecting the running of operations or their task assignment;
+
+(c) adoption of adequate measures following accidents and incidents.
+
+**5.2. Asset management**
+
+5.2.1. The organisation shall manage the safety risks associated with physical assets throughout their lifecycle (see 3.1.1. Risk assessment), from design to disposal, and fulfil the human factors requirements in all phases of the life cycle.
+
+5.2.2. The organisation shall:
+
+(a) ensure that the assets are used for the purpose intended while maintaining their safe operational state and their expected level of performance;
+
+(b) manage the assets in normal and degraded operations;
+
+(c) detect as soon as reasonably practicable instances of non-compliance with operating requirements before or during the operation of the asset, including the application of restrictions of use as appropriate to ensure a safe operational state of the asset (see 6.1. Monitoring).
+
+5.2.3. The organisation shall ensure that its asset management arrangements, where applicable, conform to all essential requirements as set out in the relevant Technical Specifications for Interoperability and any other relevant requirements (see 1. Context of the organisation).
+
+5.2.4. To control risks where relevant for the supply of maintenance (see 3.1.1. Risk assessment), at least the following shall be taken into account:
+
+(a) the identification of the need for maintenance to keep the infrastructure in a safe operational state, based on the planned and real use of the infrastructure and its design characteristics;
+
+(b) the management of the removal of the asset from operation for maintenance, when defects have been identified or when asset condition degrades outside the limits of a safe operational state as referred to in point (a);
+
+(c) the management of the return to operation of the asset with eventual restrictions of use after maintenance has been delivered to ensure it is in a safe operational state;
+
+(d) the management of monitoring and measurement equipment to ensure that it is fit for its intended purpose.
+
+5.2.5. To control information and communication where relevant for the safe management of assets (see 4.4. Information and communication), the organisation shall take into account:
+
+(a) the exchange of relevant information within the organisation or with external entities responsible for maintenance (see 5.3. Contractors, partners and suppliers), in particular on safety-related malfunctions, accidents, incidents as well as on eventual restrictions of use of the asset;
+
+(b) the traceability of all necessary information including the information related to point (a) (see 4.4. Information and communication and 4.5.3. Control of documented information);
+
+(c) the establishment and maintenance of records including the management of changes affecting the safety of assets (see 5.4. Management of change).
+
+**5.3. Contractors, partners and suppliers**
+
+5.3.1. The organisation shall identify and control safety risks arising from outsourced activities, including operations or cooperation with contractors, partners and suppliers.
+
+5.3.2. To control the safety risks referred to in paragraph 5.3.1, the organisation shall define the criteria for the selection of the contractors, partners and suppliers and the contract requirements they have to meet, including:
+
+(a) the legal and other requirements related to safety (see 1. Context of the organisation);
+
+(b) the level of competence required to deliver the tasks set out in the contract (see 4.2. Competence);
+
+(c) the responsibilities for the tasks to be performed;
+
+(d) the expected safety performance to be maintained during the contract;
+
+(e) the obligations relating to the exchange of safety-related information (see 4.4. Information and communication);
+
+(f) the traceability of safety-related documents (see 4.5. Documented information).
+
+5.3.3. In accordance with the process set out in Article 3 of Regulation (EU) No 1078/2012, the organisation shall monitor:
+
+(a) the safety performance of all activities and operations of contractors, partners and suppliers to ensure that they comply with the requirements set out in the contract;
+
+(b) the awareness of contractors, partners and suppliers of safety risks they entail to the organisation's operations.
+
+**5.4. Management of change**
+
+5.4.1. The organisation shall implement and control changes to the safety management system to maintain or improve the safety performance. This shall include decisions at the different stages of the change management and the subsequent review of safety risks (see 3.1.1. Risk assessment).
+
+**5.5. Emergency management**
+
+5.5.1. The organisation shall identify the emergency situations and associated timely measures to be taken to manage them (see 3.1.1. Risk assessment) and to re-establish normal operating conditions in accordance with Regulation (EU) 2015/995.
+
+5.5.2. The organisation shall ensure that, for each identified type of emergency:
+
+(a) the emergency services can be promptly contacted;
+
+(b) the emergency services are provided with all relevant information both in advance, to prepare their emergency response, and at the time of an emergency;
+
+(c) first aid is provided internally.
+
+5.5.3. The organisation shall identify and document the roles and responsibilities of all parties in accordance with Regulation (EU) 2015/995.
+
+5.5.4. The organisation shall have plans for action, alerts and information in case of emergency, including arrangements to:
+
+(a) alert all staff with responsibility for emergency management;
+
+(b) communicate information to all parties (e.g. railway undertakings, contractors, authorities, emergency services), including emergency instructions for passengers;
+
+(c) take any decisions required in accordance with the type of emergency.
+
+5.5.5. The organisation shall describe how resources and means for emergency management have been allocated (see 4.1. Resources) and how training requirements have been identified (see 4.2. Competence).
+
+5.5.6. The emergency arrangements are regularly tested in cooperation with other interested parties and updated when appropriate.
+
+5.5.7. The organisation shall coordinate emergency plans with all railway undertakings that operate on the organisation's infrastructure, with the emergency services, so as to facilitate their rapid intervention, and with any other party that could be involved in an emergency situation.
+
+5.5.8. The organisation shall have arrangements to halt operations and railway traffic promptly, if necessary, and to inform all interested parties of the action taken.
+
+5.5.9. For cross-border infrastructure, the cooperation between the relevant infrastructure managers shall facilitate the necessary coordination and preparedness of the competent emergency services on both sides of the border.
+
+**6\. PERFORMANCE EVALUATION**
+
+**6.1. Monitoring**
+
+6.1.1. The organisation shall perform monitoring in accordance with Regulation (EU) No 1078/2012:
+
+(a) to check the correct application and the effectiveness of all the processes and procedures in the safety management system, including the operational, organisational and technical safety measures;
+
+(b) to check the correct application of the safety management system as a whole, and if it achieves the expected outcomes;
+
+(c) to investigate whether the safety management system conforms to the requirements in this Regulation;
+
+(d) to identify, implement and evaluate the effectiveness of the corrective measures (see 7.2. Continual improvement), as appropriate, if any relevant instance of non-compliance to points (a), (b) and (c) is detected.
+
+6.1.2. The organisation shall regularly monitor at all levels within the organisation the performance of safety-related tasks and intervene if these tasks are not being properly performed.
+
+**6.2. Internal auditing**
+
+6.2.1. The organisation shall conduct internal audits in an independent, impartial and transparent way to collect and analyse information for the purposes of its monitoring activities (see 6.1. Monitoring), including:
+
+(a) A schedule of planned internal audits which can be revised depending on the results of previous audits and monitoring of performance;
+
+(b) The identification and selection of competent auditors (see 4.2. Competence);
+
+(c) The analysis and evaluation of the results of the audits;
+
+(d) The identification of the need for corrective or improvement measures;
+
+(e) The verification of the completion and effectiveness of these measures;
+
+(f) The documentation pertaining to the execution and results of audits;
+
+(g) The communication of the results of audits to the top management.
+
+**6.3. Management review**
+
+6.3.1. Top management shall regularly review the continuing adequacy and effectiveness of the safety management system including at least consideration of:
+
+(a) details of progress on addressing outstanding actions from previous management reviews;
+
+(b) changing internal and external circumstances (see 1. Context of the organisation);
+
+(c) the organisation's safety performance related to:
+
+(i) the achievement of its safety objectives;
+
+(ii) the results from its monitoring activities, including the internal audit findings, and internal accident/incident investigations and status of their respective actions;
+
+(iii) the relevant outputs from supervisory activities conducted by the national safety authority;
+
+(d) recommendations for improvement.
+
+6.3.2. Based on the outputs of its management review, the top management shall take overall responsibility for the planning and implementation of needed changes to the safety management system.
+
+**7\. IMPROVEMENT**
+
+**7.1. Learning from accidents and incidents**
+
+7.1.1. Accidents and incidents related to the organisation's railway operations shall be:
+
+(a) reported, logged, investigated and analysed to determine their causes;
+
+(b) reported to national bodies as appropriate.
+
+7.1.2. The organisation shall ensure that:
+
+(a) recommendations from the national safety authority, the national investigating body and industry/internal investigations are evaluated and implemented if appropriate or mandated;
+
+(b) relevant reports/information from other interested parties such as railway undertakings, infrastructure managers, entities in charge of maintenance and railway vehicle keepers are considered and taken into account.
+
+7.1.3. The organisation shall use information relating to the investigation to review the risk assessment (see 3.1.1. Risk assessment), to learn with the aim of improving safety and, where applicable, to adopt corrective and/or improvement measures (see 5.4. Management of change).
+
+**7.2. Continual improvement**
+
+7.2.1. The organisation shall continually improve the adequacy and effectiveness of its safety management system, taking into account the framework set out in Regulation (EU) No 1078/2012 and at least the outputs of the following activities:
+
+(a) monitoring (see 6.1. Monitoring);
+
+(b) internal auditing (see 6.2. Internal auditing);
+
+(c) management review (see 6.3. Management review);
+
+(d) learning from accidents and incidents (see 7.1. Learning from accidents and incidents).
+
+7.2.2. The organisation shall provide means to motivating staff and other interested parties to be active in improving safety as part of its organisational learning.
+
+7.2.3. The organisation shall provide a strategy to continually improve its safety culture, relying on the use of expertise and recognised methods to identify behavioural issues affecting the different parts of the safety management system and to put in place measures to address these.
+
+( 1 ) Commission Implementing Regulation (EU) No 402/2013 of 30 April 2013 on the common safety method for risk evaluation and assessment and repealing Regulation (EC) No 352/2009 (OJ L 121, 3.5.2013, p. 8).
+
+( 2 ) Commission Regulation (EU) No 1078/2012 of 16 November 2012 on a common safety method for monitoring to be applied by railway undertakings, infrastructure managers after receiving a safety certificate or safety authorisation and by entities in charge of maintenance (OJ L 320, 17.11.2012, p. 8).
+
+( 3 ) Point 2.1. of the Appendix to Annex I to Directive (EU) 2016/798.
+
+( 4 ) Point 2.2. of the Appendix to Annex I to Directive (EU) 2016/798.
+
+( 5 ) Commission Regulation (EU) 2015/995 of 8 June 2015 amending Decision 2012/757/EU concerning the technical specification for interoperability relating to the ‘operation and traffic management’ subsystem of the rail system in the European Union (OJ L 165, 30.6.2015, p. 1).
+
+( 6 ) Point 2.1. of the Appendix to Annex I to Directive (EU) 2016/798.
+
+( 7 ) Point 2.2. of the Appendix to Annex I to Directive (EU) 2016/798.

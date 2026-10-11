@@ -1,0 +1,559 @@
+---
+title: "Council Regulation (EC) No 111/2005 of 22 December 2004 laying down rules for the monitoring of trade between the Community and third countries in drug precursors"
+identifier: "32005R0111"
+eli: "http://data.europa.eu/eli/reg/2005/111/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2004-12-22
+entry_into_force: 2005-02-01
+last_amended: 2026-09-18
+consolidated_version: "02005R0111-20260918"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02005R0111-20260918"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 111/2005 of 22 December 2004 laying down rules for the monitoring of trade between the Community and third countries in drug precursors
+
+**COUNCIL REGULATION (EC) No 111/2005**
+
+**of 22 December 2004**
+
+**laying down rules for the monitoring of trade between the Union  and third countries in drug precursors**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) No 1259/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 November 2013 </td><td> L 330</td><td>30</td><td>10.12.2013</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2016/1443 of 29 June 2016 </td><td> L 235</td><td>6</td><td>1.9.2016</td></tr>
+<tr><td> M3</td><td> COMMISSION DELEGATED REGULATION (EU) 2018/729 of 26 February 2018 </td><td> L 123</td><td>4</td><td>18.5.2018</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2020/1737 of 14 July 2020 </td><td> L 392</td><td>1</td><td>23.11.2020</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2022/1518 of 29 March 2022 </td><td> L 236</td><td>1</td><td>13.9.2022</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2023/196 of 25 November 2022 </td><td> L 27</td><td>1</td><td>31.1.2023</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2024/1331 of 28 February 2024 </td><td> L 1331</td><td>1</td><td>14.5.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1475 of 21 May 2025 </td><td> L 1475</td><td>1</td><td>25.7.2025</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/314 of 9 February 2026 </td><td> L 314</td><td>1</td><td>28.4.2026</td></tr>
+</table>
+
+**COUNCIL REGULATION (EC) No 111/2005**
+
+**of 22 December 2004**
+
+**laying down rules for the monitoring of trade between the Union  and third countries in drug precursors**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+#### Article 1
+
+This Regulation lays down rules for the monitoring of trade between the Union  and third countries in certain substances frequently used for the illicit manufacture of narcotic drugs and psychotropic substances (hereinafter referred to as drug precursors) for the purpose of preventing the diversion of such substances. It applies to imports, exports and intermediary activities.
+
+This Regulation shall be without prejudice to special rules in other fields pertaining to trade in goods between the Union  and third countries.
+
+#### Article 2
+
+For the purposes of this Regulation the following definitions shall apply:
+
+(a) ‘scheduled substance’ means any substance listed in the Annex that can be used for the illicit manufacture of narcotic drugs or psychotropic substances, including mixtures and natural products containing such substances, but excluding mixtures and natural products which contain scheduled substances and which are compounded in such a way that the scheduled substances cannot be easily used or extracted by readily applicable or economically viable means, medicinal products as defined in point 2 of Article 1 of Directive 2001/83/EC of the European Parliament and of the Council ( 1 ) and veterinary medicinal products as defined in point 2 of Article 1 of Directive 2001/82/EC of the European Parliament and of the Council ( 2 ), except medicinal products and veterinary medicinal products listed in the Annex;
+
+(b) ‘non-scheduled substance’ means any substance which, although not listed in the Annex, is identified as having been used for the illicit manufacture of narcotic drugs or psychotropic substances;
+
+(c) ‘import’ means any entry of scheduled substances having the status of non-Union goods into the customs territory of the Union, including temporary storage, the placing in a free zone or free warehouse, the placing under a suspensive procedure and the release for free circulation within the meaning of Council Regulation (EEC) No 2913/92 ( 3 );
+
+(d) ‘export’ means any departure of scheduled substances from the customs territory of the Union  , including the departure of scheduled substances that requires a customs declaration and the departure of scheduled substances after their storage in a free zone of control type I or free warehouse within the meaning of Regulation (EEC) No 2913/92;
+
+(e) ‘intermediary activities’ means any activity to arrange purchase and sale or supply of scheduled substances carried out by any natural or legal person who aims to obtain agreement between two parties or to do so through acting on behalf of at least one of these parties without taking these substances into its possession or taking control of the carrying out of such transaction; this definition shall also include any activity carried out by any natural or legal person established in the Union  involving purchase and sale or supply of scheduled substances without these substances being introduced into the customs territory of the Union  ;
+
+(f) ‘operator’ means any natural or legal person engaged in import, export of scheduled substances or intermediary activities relating thereto, including persons pursuing the activity of making customs declarations for clients on a self-employed basis, either as their principal occupation or as a secondary activity related to another occupation;
+
+(g) ‘exporter’ means the natural or legal person chiefly responsible for export activities by virtue of the economic and legal relationship to the scheduled substances and to the consignee and, where appropriate, who lodges the customs declaration or on whose behalf the customs declaration is lodged;
+
+(h) ‘importer’ means the natural or legal person chiefly responsible for the import activities by virtue of the economic and legal relationship to the scheduled substances and to the consignor and who lodges the customs declaration or on whose behalf the customs declaration is lodged;
+
+(i) ‘ultimate consignee’ means any natural or legal person to which the scheduled substances are delivered; this person may be different from the end-user;
+
+(j) ‘natural product’ means an organism or a part thereof, in any form, or any substances which occur in nature as defined in point 39 of Article 3 of Regulation (EC) No 1907/2006 of the European Parliament and of the Council ( 4 );
+
+(k) ‘International Narcotics Control Board’ means the Board established by the Single Convention on Narcotic Drugs, 1961, as amended by the 1972 Protocol.
+
+## CHAPTER II — MONITORING OF TRADE
+
+### SECTION 1 — Documentation and labelling
+
+#### Article 3
+
+All imports, exports or intermediary activities involving scheduled substances, with the exception of substances listed in Category 4 of the Annex, shall be documented by the operator by way of customs and commercial documents, such as summary declarations, customs declarations, invoices, cargo manifests, transport and other shipping documents.
+
+Those documents shall contain the following information:
+
+(a) the name of the scheduled substance as stated in the Annex, or, in the case of a mixture or a natural product, its name and the name of any scheduled substance, as stated in the Annex, contained in the mixture or in the natural product, followed by the term ‘DRUG PRECURSORS’;
+
+(b) the quantity and weight of the scheduled substance and, in the case of a mixture or a natural product, the quantity, weight, and, if available, the percentage of any scheduled substance contained therein; and
+
+(c) the names and addresses of the exporter, the importer, the ultimate consignee and, where applicable, the person involved in the intermediary activities.
+
+#### Article 4
+
+The documentation referred to in Article 3 shall be kept by the operators for a period of three years from the end of the calendar year in which the operation took place. The documentation shall be organised in such a way, electronically or in paper form, that it is readily available for inspection by the competent authorities upon request. The documentation may be provided via image medium or other data medium, provided that the data, when made readable, match the documentation in appearance and content, are available at all times, can be made readable without delay and can be analysed by automated means.
+
+#### Article 5
+
+Operators shall ensure that labels are affixed on any packaging containing scheduled substances, except substances listed in Category 4 of the Annex, indicating their name as stated in the Annex, or, in the case of a mixture or a natural product, its name and the name of any scheduled substance, except substances listed in Category 4 of the Annex, as stated in the Annex, contained in the mixture or in the natural product. Operators may, in addition, affix their customary labels.
+
+### SECTION 2 — Licensing and registration of operators
+
+#### Article 6
+
+1\. Unless otherwise provided, operators established in the Union, other than customs agents and transporters when acting solely in that capacity, engaged in import, export or intermediary activities involving scheduled substances listed in Category 1 of the Annex, shall hold a licence. The competent authority of the Member State in which the operator is established shall issue the licence.
+
+In considering whether to grant a licence, the competent authority shall take into account the competence and integrity of the applicant, in particular the absence of any serious infringement or repeated infringements of legislation in the field of drug precursors and the absence of a record of any serious criminal offence.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 30b to set out the conditions for granting licences and for determining cases where a licence is not required.
+
+2\. The licence may be suspended or revoked by the competent authorities whenever the conditions under which the licence was issued are no longer fulfilled or where there are reasonable grounds for suspecting that there is a risk of diversion of scheduled substances.
+
+3\. The Commission shall establish a model for licences by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30(2).
+
+#### Article 7
+
+1\. Unless otherwise provided, operators established in the Union, other than customs agents and transporters when acting solely in that capacity, engaged in import, export or intermediary activities involving scheduled substances listed in Category 2 of the Annex, or in the export of scheduled substances listed in Category 3 of the Annex, shall hold a registration. The competent authority in the Member State in which the operator is established shall issue the registration.
+
+In considering whether to grant a registration, the competent authority shall take into account the competence and integrity of the applicant, in particular the absence of any serious infringement or repeated infringements of legislation in the field of drug precursors and the absence of a record of any serious criminal offence.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 30b to set out the conditions for granting registrations and for determining cases where a registration is not required.
+
+2\. The competent authority may suspend or revoke the registration where the conditions under which the registration was issued are no longer fulfilled or where there are reasonable grounds for suspecting that there is a risk of diversion of scheduled substances.
+
+#### Article 8
+
+1\. When the scheduled substances are entered into the customs territory of the Union for unloading or transhipment, for temporary storage, for their storage in a free zone of control type I or a free warehouse, or for their placing under the external Union transit procedure, the licit purposes must be demonstrated by the operator, upon request by the competent authorities.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 30b to establish the criteria to determine how the licit purposes of the transaction may be demonstrated, in order to ensure that all movements of scheduled substances within the customs territory of the Union can be monitored by the competent authorities and the risk of diversion be minimised.
+
+### SECTION 3 — Provision of information
+
+#### Article 9
+
+1\. Operators established in the Union shall notify the competent authorities immediately of any circumstances, such as unusual orders and transactions involving scheduled substances, which suggest that such substances intended for import, export or intermediary activities might be diverted for the illicit manufacture of narcotic drugs or psychotropic substances.
+
+To that end, operators shall provide any available information, such as:
+
+(a) the name of the scheduled substance;
+
+(b) the quantity and weight of the scheduled substance;
+
+(c) the names and addresses of the exporter, the importer, the ultimate consignee and, where applicable, the person involved in the intermediary activities.
+
+That information shall only be collected for the purposes of preventing the diversion of scheduled substances.
+
+2\. Operators shall provide the competent authorities with information in summary form about their export, import or intermediary activities.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 30b to determine the information that is required by the competent authorities in order to allow them to monitor those activities.
+
+The Commission shall specify by means of implementing acts the procedural rules on the provision of such information, including, where appropriate, in electronic form to the European database on drug precursors established under Regulation (EC) No 273/2004 of the European Parliament and of the Council ( 5 ) (‘the European database’). Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30(2).
+
+#### Article 10
+
+1\. In order to facilitate cooperation between the competent authorities of the Member States, operators established in the Union  and the chemical industry, in particular as regards non-scheduled substances, the Commission shall, in consultation with the Member States, draw up and update guidelines.
+
+2\. These guidelines shall provide, in particular:
+
+(a) information on how to identify and notify suspect transactions;
+
+(b) a regularly updated list of non-scheduled substances to enable the industry to monitor on a voluntary basis the trade in such substances.
+
+3\. The competent authorities shall ensure that the guidelines are regularly disseminated in accordance with the objectives of these guidelines.
+
+4\. In order to respond rapidly to new diversion trends, the competent authorities of the Member States and the Commission may propose to add a non-scheduled substance to the list referred to in paragraph 2(b) in order to temporarily monitor its trade. Detailed arrangements and criteria for the inclusion or deletion from that list shall be specified in the guidelines referred to in paragraph 1.
+
+5\. If voluntary monitoring by the industry is considered insufficient to prevent the use of a non-scheduled substance for the illicit manufacture of narcotic drugs or psychotropic substances, the Commission may add the non-scheduled substance to the Annex by means of delegated acts in accordance with Article 30b.
+
+### SECTION 4 — Pre-export notification
+
+#### Article 11
+
+1\. All exports of scheduled substances listed in Categories 1 and 4 of the Annex and exports of scheduled substances listed in Categories 2 and 3 of the Annex to certain countries of destination shall be preceded by a pre-export notification sent from the competent authorities in the Union to the competent authorities of the country of destination, in accordance with Article 12(10) of the United Nations Convention. The Commission shall be empowered to adopt delegated acts in accordance with Article 30b of this Regulation to determine the lists of the countries of destination for export of scheduled substances listed in Categories 2 and 3 of the Annex in order to minimise the risk of diversion of scheduled substances.
+
+The country of destination shall be allowed a period of 15 working days to reply, at the end of which the export operation may be authorised by the competent authorities of the Member State of export, if no advice from the competent authorities of the country of destination is received indicating that this export operation might be intended for the illicit manufacture of narcotic drugs or psychotropic substances.
+
+2\. In the case of the scheduled substances to be notified in accordance with paragraph 1, the competent authorities of the Member State concerned shall, prior to the export of such substances, supply the information specified in Article 13(1) to the competent authorities of the country of destination.
+
+The authority supplying such information shall require the authority in the third country receiving the information to keep confidential any trade, business, commercial or professional secret or any trade process referred to therein.
+
+3\. Simplified pre-export notification procedures may be applied by the competent authorities where they are satisfied that this will not result in any risk of diversion of scheduled substances. The Commission shall be empowered to adopt delegated acts in accordance with Article 30b to determine such procedures and to establish the common criteria to be applied by the competent authorities.
+
+### SECTION 5 — Export authorisation
+
+#### Article 12
+
+1\. Exports of scheduled substances that require a customs declaration, including exports of scheduled substances leaving the customs territory of the Union  following their storage in a free zone of control type I or free warehouse for a period of at least 10 days, shall be subject to an export authorisation.
+
+Where scheduled substances are re-exported within 10 days from the date of their placing into a suspensive procedure or under a free zone of control type II, an export authorisation shall not be required.
+
+However, exports of scheduled substances listed in Category 3 of the Annex shall only be subject to an export authorisation where pre-export notifications are required.
+
+2\. Export authorisations shall be issued by the competent authorities of the Member State where the exporter is established.
+
+#### Article 13
+
+1\. The application for export authorisations referred to in Article 12 shall contain at least the following:
+
+(a) the names and addresses of the exporter, the importer in the third country, any other operator involved in the export operation or shipment, and the ultimate consignee;
+
+(b) the name of the scheduled substance as stated in the Annex or, in the case of a mixture or a natural product, its name and eight-digit CN code and the name of any scheduled substance, as stated in the Annex, contained in the mixture or in the natural product;
+
+(c) the quantity and weight of the scheduled substance and, in the case of a mixture or a natural product, the quantity, weight, and, if available, the percentage of any scheduled substance contained therein;
+
+(d) details of the transport arrangements, such as the expected date of dispatch, method of transport, name of the customs office where the customs declaration is to be made and, where available at this stage, identification of the means of transport, itinerary, expected point of exit from customs territory of the Union  and the point of entry into the importing country;
+
+(e) in the cases referred to in Article 17, a copy of the import authorisation issued by the country of destination; and
+
+(f) the number of the licence or registration referred to in Articles 6 and 7.
+
+An application for an export authorisation for exports of scheduled substances listed in Category 4 of the Annex shall contain the information set out in points (a) to (e) of the first subparagraph.
+
+2\. A decision on the application for an export authorisation shall be taken within a period of 15 working days from the date on which the competent authority considers the file to be complete.
+
+That period shall be extended if, in the cases referred to in Article 17, the competent authorities are obliged to make further enquiries under the second subparagraph of that Article.
+
+#### Article 14
+
+1\. If the details of the itinerary and means of transport are not provided in the application, the export authorisation shall state that the operator must supply those details to the customs office of exit or other competent authorities at the point of exit from the customs territory of the Union  before the physical departure of the consignment. In such cases the export authorisation shall be annotated accordingly at the time of issue.
+
+Where the export authorisation is presented to a customs office in a Member State other than that of the issuing authority, the exporter shall make available any certified translation of parts or all of the information contained on the authorisation, upon request.
+
+2\. The export authorisation shall be presented to the customs office when the customs declaration is made, or in the absence of a customs declaration, at the customs office of exit or other competent authorities at the point of exit from the customs territory of the Union  . The authorisation shall accompany the consignment to the third country of destination.
+
+The customs office of exit or other competent authorities at the point of exit from the customs territory of the Union  shall insert the necessary details referred to in Article 13(1)(d) in the authorisation and affix its stamp thereon.
+
+#### Article 15
+
+Without prejudice to measures adopted in accordance with Article 26(3), the granting of the export authorisation shall be refused if:
+
+(a) details supplied in accordance with Article 13(1) are incomplete;
+
+(b) there are reasonable grounds for suspecting that the details supplied in accordance with Article 13(1) are false or incorrect;
+
+(c) in the cases referred to in Article 17, it is established that the import of the scheduled substances has not been authorised by the competent authorities of the country of destination, or
+
+(d) there are reasonable grounds for suspecting that the substances in question are intended for the illicit manufacture of narcotic drugs or psychotropic substances.
+
+#### Article 16
+
+The competent authorities may suspend or revoke an export authorisation whenever there are reasonable grounds for suspecting that the substances are intended for the illicit manufacture of narcotic drugs or psychotropic substances.
+
+#### Article 17
+
+Whenever, under an agreement between the Union  and a third country, exports are not to be authorised unless an import authorisation has been issued by the competent authorities of that third country for the substances in question, the Commission shall communicate to the competent authorities of the Member States the name and address of the competent authority of the third country, together with any operational information obtained from it.
+
+The competent authorities in the Member States shall satisfy themselves as to the authenticity of such import authorisation, if necessary by requesting confirmation from the competent authority of the third country.
+
+#### Article 18
+
+The period of validity of the export authorisation within which the goods must have left the customs territory of the Union  shall not exceed six months from the date of issue of the export authorisation. Under exceptional circumstances, the period of validity may be extended, upon request.
+
+#### Article 19
+
+Simplified procedures to grant an export authorisation may be applied by the competent authorities where they are satisfied that this will not result in any risk of diversion of scheduled substances. The Commission shall be empowered to adopt delegated acts in accordance with Article 30b to determine such procedures and to establish the common criteria to be applied by the competent authorities.
+
+### SECTION 6 — Import authorisation
+
+#### Article 20
+
+Imports of scheduled substances listed in Category 1 of the Annex shall be subject to an import authorisation. An import authorisation may only be granted to an operator established in the Union  . The import authorisation shall be issued by the competent authorities of the Member State where the importer is established.
+
+However, where the substances referred to in the first paragraph are unloaded or transhipped, under temporary storage, stored in a free zone of control type I or a free warehouse, or placed under the external Union transit procedure, such import authorisation shall not be required.
+
+#### Article 21
+
+1\. The application for the import authorisations referred to in Article 20 shall contain at least the following:
+
+(a) the names and addresses of the importer, the exporter of the third country, any other operator involved and the ultimate consignee;
+
+(b) the name of the scheduled substance as stated in the Annex or, in the case of a mixture or a natural product, its name and the eight-digit CN code and the name of any scheduled substance, as stated in the Annex, contained in the mixture or in the natural product;
+
+(c) the quantity and weight of the scheduled substance and, in the case of a mixture or a natural product, the quantity, weight, and, if available, the percentage of any scheduled substance contained therein;
+
+(d) if available, details of the transport arrangements, such as methods and means of transport, and date and place of envisaged import activities, and
+
+(e) the number of the licence or registration referred to in Articles 6 and 7.
+
+2\. A decision on the application for an import authorisation shall be taken within a period of 15 working days from the date on which the competent authority considers the file to be complete.
+
+#### Article 22
+
+The import authorisation shall accompany the consignment from the point of entry into the customs territory of the Union  to the premises of the importer or ultimate consignee.
+
+The import authorisation shall be presented to the customs office when the scheduled substances are declared for a customs procedure.
+
+Where the import authorisation is presented to a customs office in a Member State other than that of the issuing authority, the importer shall make available any certified translation of parts or all information contained on the authorisation, upon request.
+
+#### Article 23
+
+Without prejudice to measures adopted in accordance with Article 26(3), the granting of the import authorisation shall be refused if:
+
+(a) details supplied in accordance with Article 21(1) are incomplete;
+
+(b) there are reasonable grounds for suspecting that the details supplied in accordance with Article 21(1) in the application are false or incorrect, or
+
+(c) there are reasonable grounds for suspecting that the scheduled substances are intended for the illicit manufacture of narcotic drugs or psychotropic substances.
+
+#### Article 24
+
+The competent authorities may suspend or revoke the import authorisation whenever there are reasonable grounds for suspecting that the substances are intended for the illicit manufacture of narcotic drugs or psychotropic substances.
+
+#### Article 25
+
+The period of validity of the import authorisation within which the scheduled substances must have been entered into the customs territory of the Union  shall not exceed six months from the date of issue of the import authorisation. Under exceptional circumstances, the period of validity may be extended, upon request.
+
+## CHAPTER III — POWERS OF COMPETENT AUTHORITIES
+
+#### Article 26
+
+1\. Without prejudice to Articles 11 to 25 and to paragraphs 2 and 3 of this Article, the competent authorities of each Member State shall prohibit the introduction of scheduled substances into the customs territory of the Union or their departure from it, where there are reasonable grounds for suspecting that such substances are intended for the illicit manufacture of narcotic drugs or psychotropic substances.
+
+2\. The competent authorities shall detain or suspend release of the scheduled substances for the time necessary to verify the identification of the scheduled substances or compliance with the rules of this Regulation.
+
+3\. Each Member State shall adopt the measures necessary to enable the competent authorities, in particular:
+
+(a) to obtain information on any orders for or operations involving scheduled substances;
+
+(b) to enter operators’ business premises in order to obtain evidence of irregularities;
+
+(c) to establish that a diversion or attempted diversion of scheduled substances has taken place.
+
+3a. The competent authorities of each Member State shall prohibit the introduction of consignments of non-scheduled substances into the customs territory of the Union or their departure from it where there is sufficient evidence that those substances are intended for the illicit manufacture of narcotic drugs or psychotropic substances.
+
+The competent authority shall immediately inform the competent authorities of the other Member States and the Commission thereof, using the procedure referred to in Article 27.
+
+Those substances shall be considered as proposed for inclusion in the list of non-scheduled substances referred to in point (b) of Article 10(2).
+
+3b. Each Member State may adopt the measures necessary to enable its competent authorities to control and monitor suspicious transactions involving non-scheduled substances, in particular:
+
+(a) to obtain information on any orders for or operations involving non-scheduled substances;
+
+(b) to enter business premises in order to obtain evidence of suspicious transactions involving non-scheduled substances.
+
+4\. For the purpose of preventing specific risks of diversion in free zones as well as in other sensitive areas such as customs warehouses, Member States shall ensure that effective controls are applied to operations carried out in these areas at every stage of these operations, and that the controls are no less stringent than those applied in the other parts of the customs territory.
+
+5\. The competent authorities may require the operators to pay a fee for the issuing of licences, registrations and authorisations. Such fees shall be levied in a non-discriminatory way and shall not exceed the approximate cost of processing the application.
+
+## CHAPTER IV — ADMINISTRATIVE COOPERATION
+
+#### Article 27
+
+For the purposes of applying this Regulation and without prejudice to Article 30, the provisions of Regulation (EC) No 515/97 shall apply mutatis mutandis. Each Member State shall communicate to the other Member States and to the Commission the name of the competent authorities appointed to act as correspondents in accordance with Article 2(2) of that Regulation.
+
+## CHAPTER V — DELEGATED AND IMPLEMENTING ACTS
+
+#### Article 28
+
+In addition to the measures referred to in Article 26, the Commission shall be empowered to lay down, where necessary, by means of implementing acts, measures to ensure the effective monitoring of trade between the Union and third countries in drug precursors, in particular with regard to the design and use of export and import authorisation forms, for the purpose of preventing the diversion of drug precursors. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 30(2).
+
+#### Article 30
+
+1\. The Commission shall be assisted by the Drug Precursors Committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council ( 6 ).
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 30a
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 30b of this Regulation in order to adapt the Annex hereto to new trends in diversion of drug precursors, in particular substances which can be easily transformed into scheduled substances, and to follow any amendment to the tables in the Annex to the United Nations Convention.
+
+#### Article 30b
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in the third subparagraph of Article 6(1), the third subparagraph of Article 7(1), Article 8(2), the second subparagraph of Article 9(2), Article 10(5), Article 11(1) and (3), Articles 19 and 30a and Article 32(2) shall be conferred on the Commission for a period of five years from 30 December 2013. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in the third subparagraph of Article 6(1), the third subparagraph of Article 7(1), Article 8(2), the second subparagraph of Article 9(2), Article 10(5), Article 11(1) and (3), Articles 19 and 30a and Article 32(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+5\. A delegated act adopted pursuant to the third subparagraph of Article 6(1), the third subparagraph of Article 7(1), Article 8(2), the second subparagraph of Article 9(2), Article 10(5), Article 11(1) and (3), Articles 19 and 30a and Article 32(2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## CHAPTER VI — FINAL PROVISIONS
+
+#### Article 31
+
+Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+#### Article 32
+
+1\. The competent authorities in each Member State shall communicate to the Commission in electronic form via the European database in a timely manner all relevant information on the implementation of the monitoring measures laid down in this Regulation, in particular as regards substances used for the illicit manufacture of narcotic drugs or psychotropic substances and methods of diversion and illicit manufacture, and their licit trade.
+
+2\. The Commission shall be empowered to adopt delegated acts in accordance with Article 30b in order to specify the conditions and requirements concerning the information to be provided under paragraph 1 of this Article.
+
+3\. On the basis of the information referred to in paragraph 1 of this Article, the Commission shall, in consultation with the Member States, evaluate the effectiveness of this Regulation and, in accordance with Article 12(12) of the United Nations Convention, draw up an annual report to be submitted to the International Narcotics Control Board.
+
+4\. The Commission shall submit by 31 December 2019 a report to the European Parliament and to the Council on the implementation and functioning of this Regulation, and in particular on the possible need for additional action to monitor and control suspicious transactions with non-scheduled substances
+
+#### Article 32a
+
+The competent authorities of the Member States and the Commission shall use the European database under the conditions for its use for the following functions:
+
+(a) to facilitate the communication of information pursuant to Article 32(1) as well as the reporting to the International Narcotics Control Board pursuant to Article 32(3);
+
+(b) to manage a European register of operators, which have been granted a licence or registration;
+
+(c) to enable operators to provide the competent authorities with information about their export, import or intermediary activities according to Article 9(2), in electronic form.
+
+#### Article 33
+
+1\. The processing of personal data by the competent authorities in the Member States shall be carried out in accordance with national laws, regulations and administrative provisions transposing Directive 95/46/EC of the European Parliament and of the Council ( 7 ) and under the supervision of the supervisory authority of the Member State referred to in Article 28 of that Directive.
+
+2\. The processing of personal data by the Commission, including for the purpose of the European database, shall be carried out in accordance with Regulation (EC) No 45/2001 of the European Parliament and of the Council ( 8 ) and under the supervision of the European Data Protection Supervisor.
+
+3\. No special categories of data within the meaning of Article 8(1) of Directive 95/46/EC shall be processed for the purposes of this Regulation.
+
+4\. The personal data collected for the purposes of this Regulation shall not be further processed in a way inconsistent with Directive 95/46/EC or Regulation (EC) No 45/2001 and shall not be retained longer than necessary for the purposes for which it was collected.
+
+5\. Member States and the Commission shall not process personal data in a manner incompatible with the purposes set out in Article 32a.
+
+Without prejudice to Article 13 of Directive 95/46/EC, personal data obtained or processed pursuant to this Regulation shall be used for the purpose of preventing the diversion of scheduled substances.
+
+#### Article 34
+
+Regulation (EEC) No 3677/90 is repealed with effect from 18 August 2005.
+
+References to the repealed Regulation shall be construed as references to this Regulation.
+
+#### Article 35
+
+This Regulation shall enter into force on the 20th day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 18 August 2005. However, Articles 6(1), 7(2), 8(2), 9(2), 11(1) and (3), 12(1), 19, 28 and 30 shall apply as from the day of entry into force of this Regulation in order to permit the adoption of the measures provided for in those Articles. Such measures shall enter into force at the earliest on 18 August 2005.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States
+
+## ANNEX
+
+List of scheduled substances
+
+**Category 1**
+
+<table>
+<tbody><tr><td>Substance</td><td>CN designation (if different) </td><td>CN Code (1)</td><td>CAS No (2)</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Phenyl-2-nitropropene</td><td>(2-nitroprop-1-en-1-yl)benzene</td><td>2904 20 00 </td><td>705-60-2</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>1-Phenyl-2-propanone</td><td>Phenylacetone</td><td>2914 31 00 </td><td>103-79-7</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>3'-methylpropiophenone</td><td>1-(3-methylphenyl)propan-1-one</td><td>2914 39 00 </td><td>51772-30-6</td></tr>
+<tr><td>4'-methylpropiophenone</td><td>1-(4-methylphenyl)propan-1-one</td><td>2914 39 00 </td><td>5337-93-9</td></tr>
+<tr><td>3'-chloropropiophenone</td><td>1-(3-chlorophenyl)propan-1-one</td><td>2914 79 00 </td><td>34841-35-5</td></tr>
+<tr><td>4'-chloropropiophenone</td><td>1-(4-chlorophenyl)propan-1-one</td><td>2914 79 00 </td><td>6285-05-8</td></tr>
+<tr><td>2-bromo-3'-methylpropiophenone</td><td>2-bromo-1-(3-methylphenyl)propan-1-one</td><td>2914 79 00 </td><td>1451-83-8</td></tr>
+<tr><td>2-bromo-4'-methylpropiophenone</td><td>2-bromo-1-(4-methylphenyl)propan-1-one</td><td>2914 79 00 </td><td>1451-82-7</td></tr>
+<tr><td>2-bromo-3'-chloropropiophenone</td><td>2-bromo-1-(3-chlorophenyl)propan-1-one</td><td>2914 79 00 </td><td>34911-51-8</td></tr>
+<tr><td>2-bromo-4'-chloropropiophenone</td><td>2-bromo-1-(4-chlorophenyl)propan-1-one</td><td>2914 79 00 </td><td>877-37-2</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Diethyl (phenylacetyl) propanedioate (DEPAPD)</td><td>  </td><td>2918 30 00 </td><td>20320-59-6</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Methyl alpha-phenylacetoacetate (MAPA)</td><td>  </td><td>2918 30 00 </td><td>16648-44-5</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Ethyl alpha-phenylacetoacetate (EAPA) (4)</td><td>  </td><td>Ex 2918 30 00 </td><td>5413-05-8</td></tr>
+<tr><td colspan="4"> —————</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>2-methyl-3-phenyloxirane-2-carboxylic acid (BMK glycidic acid) (6) </td><td>  </td><td>2918 99 90 </td><td>25547-51-7</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>N-acetylanthranilic acid</td><td>2-Acetamidobenzoic acid</td><td>2924 23 00 </td><td>89-52-1</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Alpha-phenylacetoacetamide (APAA)</td><td>  </td><td>2924 29 70 </td><td>4433-77-6</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Alpha-phenylacetoacetonitrile (APAAN)</td><td>  </td><td>2926 40 00 </td><td>4468-48-8</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Isosafrol (cis + trans)</td><td>  </td><td>2932 91 00 </td><td>120-58-1</td></tr>
+<tr><td>3,4-Methylenedioxyphenylpropan-2-one</td><td>1-(1,3-Benzodioxol-5-yl)propan-2-one</td><td>2932 92 00 </td><td>4676-39-5</td></tr>
+<tr><td>Piperonal</td><td>  </td><td>2932 93 00 </td><td>120-57-0</td></tr>
+<tr><td>Safrole</td><td>  </td><td>2932 94 00 </td><td>94-59-7</td></tr>
+<tr><td colspan="4"> —————</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Methyl 3-oxo-2-(3,4-methylenedioxyphenyl)butanoate (MAMDPA) (5)</td><td>methyl 3-oxo-2-(3,4-methylenedioxyphenyl)butanoate</td><td>Ex 2932 99 00 </td><td>1369021-80-6</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>3-(1,3-benzodioxol-5-yl)-2-methyl-oxirane-2-carboxylic acid (PMK glycidic acid) (7)</td><td>  </td><td>2932 99 00 </td><td>2167189-50-4</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Isopropylidene (2-(3,4-methylenedioxyphenyl)acetyl)malonate (IMDPAM) (8) </td><td>IMDPAM</td><td>2932 99 00 </td><td>[]</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>N-phenyl-1-(2-phenylethyl)piperidin-4-amine</td><td>4-anilino-N- phenethylpiperidine (ANPP)</td><td>2933 36 00 </td><td>21409-26-7</td></tr>
+<tr><td>1-(2-phenylethyl)piperidin-4-one</td><td>N-phenethyl-4-piperidone (NPP)</td><td>2933 37 00 </td><td>39742-60-4</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>N-phenylpiperidin-4-amine (4-AP)</td><td>  </td><td>2933 39 99 </td><td>23056-29-3</td></tr>
+<tr><td>Tert-butyl 4-anilinopiperidine-1-carboxylate (1-boc-4-AP)</td><td>  </td><td>2933 39 99 </td><td>125541-22-2</td></tr>
+<tr><td>N-phenyl-N-(piperidin-4-yl)propanamide (norfentanyl)</td><td>  </td><td>2933 39 99 </td><td>1609-66-1</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>4-piperidone</td><td>Piperidin-4-one</td><td>2933 39 99 </td><td>41661-47-6</td></tr>
+<tr><td>1-boc-4-piperidone</td><td>tert-butyl 4-oxopiperidine-1-carboxylate</td><td>2933 39 99 </td><td>79099-07-3</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Ephedrine</td><td>  </td><td>2939 41 00 </td><td>299-42-3</td></tr>
+<tr><td>Pseudoephedrine</td><td>  </td><td>2939 42 00 </td><td>90-82-4</td></tr>
+<tr><td>Norephedrine</td><td>  </td><td> 2939 44 00   </td><td>14838-15-4</td></tr>
+<tr><td>Ergometrine</td><td>  </td><td>2939 61 00 </td><td>60-79-7</td></tr>
+<tr><td>Ergotamine</td><td>  </td><td>2939 62 00 </td><td>113-15-5</td></tr>
+<tr><td>Lysergic acid</td><td>  </td><td>2939 63 00 </td><td>82-58-6</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>(1R,2S)-(-)-chloroephedrine</td><td>  </td><td> 2939 79 90   </td><td>110925-64-9</td></tr>
+<tr><td>(1S,2R)-(+)-chloroephedrine</td><td>  </td><td> 2939 79 90   </td><td>1384199-95-4</td></tr>
+<tr><td>(1S,2S)-(+)-chloropseudoephedrine</td><td>  </td><td> 2939 79 90   </td><td>73393-61-0</td></tr>
+<tr><td>(1R,2R)-(-)-chloropseudoephedrine</td><td>  </td><td> 2939 79 90   </td><td>771434-80-1</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">The stereoisomeric forms of the substances listed in this Category not being cathine (3), whenever the existence of such forms is possible.</td></tr>
+<tr><td colspan="4">The salts of the substances listed in this Category whenever the existence of such salts is possible and not being the salts of cathine.</td></tr>
+<tr><td colspan="4"> (1)  OJ L 290, 28.10.2002, p. 1.  (2)  The CAS No is the ‘Chemical abstracts service registry number’, which is a unique numeric identifier specific to each substance and its structure. The CAS No is specific to each isomer and to each salt of each isomer. It must be understood that the CAS Nos for the salts of the substances listed above will be different from those given.  (3)  Also named (+)-norpseudoephedrine, CN code 2939 43 00 , CAS No 492-39-7.  (4)  Also known as ethyl 3-oxo-2-phenylbutanoate, according to IUPAC (The International Union of Pure and Applied Chemistry).  (5)  Also known as methyl 2-(2H-1,3-benzodioxol-5-yl)-3-oxobutanoate, according to IUPAC.  (6)  And its ethyl, methyl (CAS No 80532-66-7), propyl, isopropyl, butyl, isobutyl, sec-butyl and tert-butyl esters, with the same CN code as BMK glycidic acid.  (7)  And its ethyl (CAS No 28578-16-7), methyl (CAS No 13605-48-6), propyl, isopropyl, butyl, isobutyl, sec-butyl and tert-butyl esters, with the same CN code as PMK glycidic acid.  (8)  Also known as 5-[2-(1,3-benzodioxol-5-yl)acetyl]–2,2-dimethyl–1,3-dioxane–4,6-dione, according to IUPAC (The International Union of Pure and Applied Chemistry). </td></tr>
+</tbody>
+</table>
+
+**Category 2**
+
+<table>
+<tbody><tr><td>Substance</td><td>CN designation (if different) </td><td>CN Code (1)</td><td>CAS No (2)</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Red phosphorus</td><td>  </td><td> 2804 70 10   </td><td>7723-14-0</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>Acetic anhydride</td><td>  </td><td>2915 24 00 </td><td>108-24-7</td></tr>
+<tr><td>Phenylacetic acid</td><td>  </td><td>2916 34 00 </td><td>103-82-2</td></tr>
+<tr><td>Anthranilic acid</td><td>  </td><td> 2922 43 00     </td><td>118-92-3</td></tr>
+<tr><td>Piperidine</td><td>  </td><td>2933 32 00 </td><td>110-89-4</td></tr>
+<tr><td>Potassium permanganate</td><td>  </td><td>2841 61 00 </td><td>7722-64-7</td></tr>
+<tr><td colspan="4">The salts of the substances listed in this Category whenever the existence of such salts is possible.</td></tr>
+<tr><td colspan="4">(1)  OJ L 290, 28.10.2002, p. 1.  (2)  The CAS No is the ‘Chemical abstracts service registry number’, which is a unique numeric identifier specific to each substance and its structure. The CAS No is specific to each isomer and to each salt of each isomer. It must be understood that the CAS Nos for the salts of the substances listed above will be different from those given. </td></tr>
+</tbody>
+</table>
+
+**Category 3**
+
+<table>
+<tbody><tr><td>Substance</td><td>CN designation (if different) </td><td>CN Code (1)</td><td>CAS No (2)</td></tr>
+<tr><td>Hydrochloric acid</td><td>Hydrogen chloride</td><td>2806 10 00 </td><td>7647-01-0</td></tr>
+<tr><td>Sulphuric acid</td><td>  </td><td> 2807 00 00   </td><td>7664-93-9</td></tr>
+<tr><td>Toluene</td><td>  </td><td>2902 30 00 </td><td>108-88-3</td></tr>
+<tr><td>Ethyl ether</td><td>Diethyl ether</td><td>2909 11 00 </td><td>60-29-7</td></tr>
+<tr><td>Acetone</td><td>  </td><td>2914 11 00 </td><td>67-64-1</td></tr>
+<tr><td>Methylethylketone</td><td>Butanone</td><td>2914 12 00 </td><td>78-93-3</td></tr>
+<tr><td colspan="4">The salts of the substances listed in this Category whenever the existence of such salts is possible and not being the salts of hydrochloric acid and sulphuric acid.</td></tr>
+<tr><td colspan="4">(1)  OJ L 290, 28.10.2002, p. 1.  (2)  The CAS No is the ‘Chemical abstracts service registry number’, which is a unique numeric identifier specific to each substance and its structure. The CAS No is specific to each isomer and to each salt of each isomer. It must be understood that the CAS Nos for the salts of the substances listed above will be different from those given. </td></tr>
+</tbody>
+</table>
+
+**Category 4**
+
+| Substance | CN designation (if different) | CN Code |
+| --- | --- | --- |
+| Medicinal products and veterinary medicinal products containing ephedrine or its salts | Containing ephedrine or its salts | 3003 41 00  3004 41 00 |
+| Medicinal products and veterinary medicinal products containing pseudo-ephedrine or its salts | Containing pseudoephedrine (INN) or its salts | 3003 42 00  3004 42 00 |
+
+( 1 ) Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use (OJ L 311, 28.11.2001, p. 67).
+
+( 2 ) Directive 2001/82/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to veterinary medicinal products (OJ L 311, 28.11.2001, p. 1).
+
+( 3 ) Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code (OJ L 302, 19.10.1992, p. 1).
+
+( 4 ) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1).
+
+( 5 ) Regulation (EC) No 273/2004 of the European Parliament and of the Council of 11 February 2004 on drug precursors (OJ L 47, 18.2.2004, p. 1).
+
+( 6 ) Regulation (EU) No 182/2011 of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by the Member States of the Commission’s exercise of implementing powers (OJ L 55, 28.2.2011, p. 13).
+
+( 7 ) Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (OJ L 281, 23.11.1995, p. 31).
+
+( 8 ) Regulation (EC) No 45/2001 of the European Parliament and of the Council of 18 December 2000 on the protection of individuals with regard to the processing of personal data by the Community institutions and bodies and on the free movement of such data (OJ L 8, 12.1.2001, p. 1).

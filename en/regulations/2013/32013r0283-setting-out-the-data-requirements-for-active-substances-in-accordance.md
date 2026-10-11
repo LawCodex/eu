@@ -1,0 +1,3897 @@
+---
+title: "Commission Regulation (EU) No 283/2013 of 1 March 2013 setting out the data requirements for active substances, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market Text with EEA relevance"
+identifier: "32013R0283"
+eli: "http://data.europa.eu/eli/reg/2013/283/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-03-01
+entry_into_force: 2013-05-27
+last_amended: 2022-11-21
+consolidated_version: "02013R0283-20221121"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0283-20221121"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 283/2013 of 1 March 2013 setting out the data requirements for active substances, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 283/2013**
+
+**of 1 March 2013**
+
+**setting out the data requirements for active substances, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 1136/2014 of 24 October 2014 </td><td> L 307</td><td>26</td><td>28.10.2014</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2022/1439 of 31 August 2022 </td><td> L 227</td><td>8</td><td>1.9.2022</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 283/2013**
+
+**of 1 March 2013**
+
+**setting out the data requirements for active substances, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Data requirements for active substances
+
+The data requirements for the active substance provided for in Article 8(1)(b) of Regulation (EC) No 1107/2009 shall be as set out in the Annex to this Regulation.
+
+## Article 2 — Repeal
+
+Regulation (EU) No 544/2011 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation
+
+## Article 3 — Transitional measures as regards procedures concerning active substances
+
+With respect to active substances, Regulation (EU) No 544/2011 shall continue to apply as regards the following:
+
+(a) procedures concerning the approval of an active substance or an amendment to the approval of such a substance pursuant to Article 13 of Regulation (EC) No 1107/2009 for which the dossiers provided for in Article 8(1) and (2) thereof have been submitted by 31 December 2013;
+
+(b) procedures concerning the renewal of approval of an active substance pursuant to Article 20 of Regulation (EC) No 1107/2009 for which the supplementary dossiers referred to in Article 9 of Commission Regulation (EU) No 1141/2010 ( 1 ) have been submitted by 31 December 2013.
+
+## Article 4 — Transitional measures as regards procedures concerning plant protection products
+
+1\. In case of applications for authorisation, as referred to in Article 28 of Regulation (EC) No 1107/2009, which concern plant protection products containing one or more active substances for which the dossiers have been submitted in compliance with Article 3 or for which the approval has not been renewed in accordance with Article 14 of Regulation (EC) No 1107/2009 and in accordance with Commission Implementing Regulation (EU) No 844/2012 ( 2 ), Regulation (EU) No 544/2011 shall continue to apply to the submission of data concerning this(these) active substance(s).
+
+2\. By way of derogation from paragraph 1, from 1 January 2014 applicants may choose to apply the data requirements, as set out in the Annex to this Regulation. This choice shall be made in writing when submitting the application and shall be irrevocable.
+
+## Article 5 — Entry into force and date of application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. For procedures concerning the renewal of approval of active substances whose approval expires on 1 January 2016 or later, this Regulation shall apply as of entry into force.
+
+As regards all other procedures, it shall apply from 1 January 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**INTRODUCTION**
+
+**Information to be submitted, its generation and its presentation**
+
+A dossier shall be submitted in accordance with Part A if the active substance is:
+
+(a) a chemical substance (including both semiochemicals and extracts from biological material), or
+
+(b) a metabolite produced by a micro-organism where:
+
+— the metabolite is purified from the micro-organism; or
+
+— the metabolite is not purified from a producing micro-organism which is no longer capable of replication or of transferring genetic material.
+
+A dossier shall be submitted in accordance with Part B if the active substance is:
+
+(a) a micro-organism, either as a single strain or as a qualitatively defined combination of strains as they occur naturally or by manufacture, or
+
+(b) a micro-organism, either as a single strain or as a qualitatively defined combination of strains as they occur naturally or by manufacture, and one or more metabolites produced by the micro-organism that are claimed to be part of the plant protection action (i.e. when the application of the metabolite(s) purified from the micro-organism would not cause the claimed plant protection action).
+
+1\. For the purposes of this Annex, the following definitions apply:
+
+(1) ‘efficacy’ means a measure concerning the overall effect of the application of a plant protection product on the agricultural system in which it is used (i.e. which includes positive effects of treatment in performing the desired plant protection activity and negative effects such as development of resistance, phytotoxicity or reduction of qualitative or quantitative yield);
+
+(2) ‘relevant impurity’ means a chemical impurity that is of concern for human health, animal health or the environment;
+
+(3) ‘effectiveness’ means the capacity of the plant protection product to produce a positive effect regarding the desired plant protection activity;
+
+(4) ‘toxicity’ means the degree of injury or damage in an organism caused by a toxin or a toxic substance;
+
+(5) ‘toxin’ means a substance that is produced within living cells or organisms and is able to injure or cause damage in a living organism.
+
+The information submitted shall meet the requirements set out in points 1.1 to 1.14.
+
+1.1. The information shall be sufficient to evaluate the foreseeable risks, whether immediate or delayed, which the active substance may entail for humans, including vulnerable groups, animals and the environment and contain at least the information and results of the studies referred to in this Annex.
+
+1.2. Any information including any known data on potentially harmful effects of the active substance, its metabolites and impurities on human and animal health or on their potential presence in groundwater shall be included.
+
+1.3. Any information including any known data on potentially unacceptable effects of the active substance, its metabolites and impurities on the environment, plants and plant products shall be included.
+
+1.4. The information shall include all relevant data from the scientific peer reviewed open literature on the active substance, relevant metabolites, and where relevant breakdown or reaction products and plant protection products containing the active substance and dealing with side-effects on human and animal health, the environment and non-target species. A summary of that data shall be provided.
+
+1.5. The information shall include a full and unbiased report of the studies conducted as well as a full description of them. Such information shall not be required, where a justification is provided showing that:
+
+(a) it is not necessary owing to the nature of the plant protection product or its proposed uses, or it is not scientifically necessary; or
+
+(b) it is technically not possible to supply.
+
+1.6. The simultaneous use of the active substance as a biocidal product or in veterinary medicine shall be reported. If the applicant for the application for the approval of the active substance in the plant protection product is identical to the one responsible for the notification of the active substance as a biocidal product or as a veterinary medicine, a summary of all relevant data submitted for approval of the biocidal product or the veterinary medicine shall be submitted. Where relevant, that summary shall include toxicological reference values and MRL proposals, taking into account any possible cumulative exposure due to different uses of the same substance based on scientific methods accepted by the competent authorities of the Union, together with information on residues, toxicology data and use of the plant protection product. If the applicant for the application for the approval of the active substance in the plant protection product is not identical to the one responsible for the notification of the active substance as a biocidal product or in veterinary medicine, a summary of all available data shall be submitted.
+
+1.7. Where relevant, the information shall be generated using test methods, which are included in the list referred to in Section 6.
+
+In the absence of suitable internationally or nationally validated test guidelines, test protocol discussed with and accepted by the competent authorities of the Union shall be used. Any deviations from test guidelines shall be described and justified.
+
+1.8. The information shall include a full description of the test methods used.
+
+1.9. The information shall include a list of endpoints for the active substance, where relevant.
+
+1.10. Where relevant, the information shall be generated in accordance with Directive 2010/63/EU of the European Parliament and of the Council ( 3 ).
+
+1.11. The information on the active substance, taken together with the information concerning one or more plant protection products containing the active substance and together, if appropriate, with the information concerning safeners and synergists and other components of the plant protection product, shall be sufficient to:
+
+(a) permit an assessment of the risks for humans, associated with handling and use of plant protection products containing the active substance;
+
+(b) for chemical active substances: permit an assessment of the risks for human and animal health, arising from residues of the active substance and its relevant metabolites, impurities and, where relevant, breakdown and reaction products remaining in water, air, food and feed;
+
+(c) for active substances that are micro-organisms: permit an assessment of the risks for human and animal health, arising from residues of the metabolites of concern in water, air, food and feed;
+
+(d) for chemical active substances: predict the distribution, fate and behaviour in the environment of the active substance and metabolites, breakdown and reaction products where they are of toxicological, or environmental significance, as well as the time courses involved;
+
+(e) permit an assessment of the impact on non-target species (flora and fauna), including the impact on their behaviour, which are likely to be exposed to the active substance, its relevant metabolites and, where relevant, breakdown and reaction products, where they are of toxicological, pathogenic or environmental significance. Impact can result from single, prolonged or repeated exposure and can be direct or, where relevant, indirect, reversible or irreversible;
+
+(f) evaluate the impact on biodiversity and the ecosystem;
+
+(g) identify non-target species and populations for which risks arise because of potential exposure;
+
+(h) permit an evaluation of short and long-term risks for non-target species - populations, communities and processes;
+
+(i) classify the chemical active substance as to hazard in accordance with Regulation (EC) No 1272/2008 of the European Parliament and of the Council ( 4 );
+
+(j) specify the pictograms, the signal words and relevant hazard and precautionary statements for the protection of human and animal health, non-target species and the environment, which are to be used for labelling;
+
+(k) establish, where relevant, an acceptable daily intake (ADI) level for humans;
+
+(l) establish, where relevant, acceptable operator exposure levels (AOEL);
+
+(m) establish, where relevant, an acute reference dose (ARfD) for humans;
+
+(n) identify relevant first aid measures as well as appropriate diagnostic and therapeutic measures to be followed in the event of poisoning or infection in humans;
+
+(o) for chemical active substances: establish the isomeric composition and the possible metabolic conversion of the isomers, where relevant;
+
+(p) establish residues definitions appropriate for risk assessment, where relevant;
+
+(q) establish residues definitions appropriate for monitoring and enforcement purposes, where relevant;
+
+(r) permit a risk assessment of consumer exposure, including, where relevant, a cumulative risk assessment deriving from exposure to more than one active substance;
+
+(s) permit an estimation of the exposure of operators, workers, residents and bystanders including, where relevant, the cumulative exposure to more than one active substance;
+
+(t) establish, where relevant, maximum residue levels and concentration/dilution factors in accordance with Regulation (EC) No 396/2005 of the European Parliament and of the Council ( 5 );
+
+(u) permit an evaluation to be made as to the nature and extent of the risks for humans, animals (species normally fed and kept by humans or food-producing animals) and of the risks for other non-target vertebrate species;
+
+(v) identify measures necessary to mitigate the risks identified for human and animal health, the environment and/or non-target species;
+
+(w) for chemical active substances: decide whether or not the active substance has to be considered as persistent organic pollutant (POP), persistent, bio accumulative and toxic (PBT) or very persistent and very bio accumulative (vPvB) in accordance with the criteria laid down in Annex II to Regulation (EC) No 1107/2009;
+
+(x) decide whether or not the active substance is to be approved;
+
+(y) for chemical active substances: decide whether or not the active substance has to be considered as a candidate for substitution in accordance with the criteria laid down in Annex II to Regulation (EC) No 1107/2009;
+
+(z) decide whether or not the active substance has to be considered as a low-risk active substance in accordance with the criteria laid down in Annex II to Regulation (EC) No 1107/2009;
+
+(aa) specify conditions or restrictions to be associated with any approval.
+
+1.12. Where relevant, tests shall be designed and data analysed using appropriate statistical methods. Details of the statistical analysis shall be reported transparently.
+
+1.13. Exposure calculations shall refer to scientific methods accepted by the European Food Safety Authority, where available. Additional methods, when used, shall be justified.
+
+1.14. For each section of this Annex, a summary of all data, information and evaluation made shall be submitted. This shall include a detailed and critical assessment in accordance with Article 4 of Regulation (EC) No 1107/2009.
+
+2\. The requirements set out in this Annex constitute the minimum set of data to be submitted. Member States may set out additional requirements at national level to address specific circumstances, specific exposure scenarios and specific patterns of use other than those taken into account for approval. The applicant shall pay careful attention to environmental, climatic and agronomic conditions when tests are set up subject to the approval by the Member State where the application has been submitted.
+
+**3\. Good laboratory practice (GLP)**
+
+3.1. Tests and analyses shall be conducted in accordance with the principles laid down in Directive 2004/10/EC of the European Parliament and of the Council ( 6 ) where testing is done to obtain data on the properties or safety with respect to human or animal health or the environment.
+
+3.2. By way of derogation from point 3.1:
+
+(a) for active substances that are micro-organisms, tests and analyses done to obtain data on their properties and safety with respect to other aspects than human health may be conducted by official or officially recognised testing facilities or organisations which satisfy at least the requirements set out in points 3.2 and 3.3 of the Introduction of the Annex to Commission Regulation (EU) No 284/2013 ( 7 );
+
+(b) for tests and analyses made to obtain data for minor crops required under points 6.3 and 6.5.2 of Part A:
+
+— the field phase may have been conducted by official or officially recognised testing facilities or organisations which satisfy the requirements as laid down in points 3.2 and 3.3 of the Introduction of the Annex to Regulation (EU) No 284/2013;
+
+— the analytical phase, if not realised in accordance with the principles of good laboratory practice (‘GLP principles’), shall be conducted by laboratories accredited for the relevant method in accordance with the European standard EN ISO/IEC 17025 ‘General requirements for the competence of testing and calibration laboratories’;
+
+(c) studies conducted before the application of this Regulation, although not fully compliant with GLP principles or with current test methods, may be integrated into the assessment if carried out in accordance with scientifically validated test guidelines, thereby avoiding repeating animal tests, especially for carcinogenicity and reprotoxicity studies. This derogation from point 3.1 shall apply in particular to studies with vertebrate species.
+
+**4\. Test material**
+
+4.1. A detailed description (specification) of the test material used shall be provided. Where tests are done using the active substance, the test material used shall comply with the specification that will be used in the manufacture of plant protection products to be authorised, except for radio-labelled chemicals or the purified chemical active substance.
+
+4.2. Where studies are conducted using an active substance manufactured in the laboratory or in a pilot plant production system, the studies shall be repeated using the active substance as manufactured, unless the applicant shows that the test material used is essentially the same, for the purposes of toxicological, pathological, ecotoxicological, environmental and residue testing and assessment. In cases of uncertainty, bridging studies shall be submitted to serve as a basis for a decision as to the possible need for repetition of the studies.
+
+4.3. Where studies are conducted using an active substance of different purity or which contains different impurities or different levels of impurities to the technical specification or where the active substance is a mixture of components, the significance of the differences shall be addressed either by data or scientific case. In cases of uncertainty, appropriate studies using the active substance as manufactured for commercial production shall be submitted to serve as a basis for a decision.
+
+4.4. In the case of studies in which dosing extends over a certain period (for example, repeated dose studies), the same batch of active substance shall be used, if stability permits. Whenever a study implies the use of different doses, the relationship between dose and adverse effect shall be reported.
+
+4.5. For chemical active substances, when tests are conducted using a purified chemical active substance (≥ 980 g/kg) of stated specification, the purity of such test material shall be as high as can be achieved using the best available technology and shall be reported. A justification shall be provided in cases where the degree of purity achieved is less than 980 g/kg. Such justification shall demonstrate that all technically feasible and reasonable possibilities for the production of the purified chemical active substance have been exhausted.
+
+4.6. For chemical active substances, where radio-labelled test material of the chemical active substance is used, radio-labels shall be positioned at sites (one or more as necessary) to facilitate elucidation of metabolic and transformation pathways and to facilitate the investigation of the distribution of the active substance and of its metabolites, reaction and breakdown products.
+
+**5\. Tests on vertebrate animals**
+
+5.1. Tests on vertebrate animals shall be undertaken only where no other validated methods are available. Alternative methods shall include in vitro methods or in silico methods. Reduction and refinement methods for in vivo testing shall also be encouraged to keep the number of animals used in testing to a minimum.
+
+5.2. The principles of replacement, reduction and refinement of the use of vertebrate animals shall be taken into account in the design of the test methods, in particular when appropriate validated methods become available to replace, reduce or refine animal testing.
+
+5.3. Study designs shall be carefully considered from ethical point of view, taking into account the scope for reduction, refinement and replacement of animal tests. For example, by including one or more additional dose groups or time points for blood sampling in one study, it may be possible to avoid the need for another study.
+
+6\. For purposes of information and of harmonisation the list of test methods and guidance documents relevant to the implementation of this Regulation shall be published in the Official Journal of the European Union. That list shall be regularly updated.
+
+**PART A**
+
+**CHEMICAL ACTIVE SUBSTANCES**
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td>SECTION 1.</td><td>Identity of the active substance</td></tr>
+<tr><td>1.1.</td><td>Applicant</td></tr>
+<tr><td>1.2.</td><td>Producer</td></tr>
+<tr><td>1.3.</td><td>Common name proposed or ISO-accepted and synonyms</td></tr>
+<tr><td>1.4.</td><td>Chemical name (IUPAC and CA nomenclature)</td></tr>
+<tr><td>1.5.</td><td>Producer's development code numbers</td></tr>
+<tr><td>1.6.</td><td>CAS, EC and CIPAC numbers</td></tr>
+<tr><td>1.7.</td><td>Molecular and structural formula, molar mass</td></tr>
+<tr><td>1.8.</td><td>Method of manufacture (synthesis pathway) of the active substance</td></tr>
+<tr><td>1.9.</td><td>Specification of purity of the active substance in g/kg</td></tr>
+<tr><td>1.10.</td><td>Identity and content of additives (such as stabilisers) and impurities</td></tr>
+<tr><td>1.10.1.</td><td>Additives</td></tr>
+<tr><td>1.10.2.</td><td>Significant impurities</td></tr>
+<tr><td>1.10.3.</td><td>Relevant impurities</td></tr>
+<tr><td>1.11.</td><td>Analytical profile of batches</td></tr>
+<tr><td>SECTION 2.</td><td>Physical and chemical properties of the active substance</td></tr>
+<tr><td>2.1.</td><td>Melting point and boiling point</td></tr>
+<tr><td>2.2.</td><td>Vapour pressure, volatility</td></tr>
+<tr><td>2.3.</td><td>Appearance (physical state, colour)</td></tr>
+<tr><td>2.4.</td><td>Spectra (UV/VIS, IR, NMR, MS), molar extinction at relevant wavelengths, optical purity</td></tr>
+<tr><td>2.5.</td><td>Solubility in water</td></tr>
+<tr><td>2.6.</td><td>Solubility in organic solvents</td></tr>
+<tr><td>2.7.</td><td>Partition coefficient n-octanol/water</td></tr>
+<tr><td>2.8.</td><td>Dissociation in water</td></tr>
+<tr><td>2.9.</td><td>Flammability and self-heating</td></tr>
+<tr><td>2.10.</td><td>Flash point</td></tr>
+<tr><td>2.11.</td><td>Explosive properties</td></tr>
+<tr><td>2.12.</td><td>Surface tension</td></tr>
+<tr><td>2.13.</td><td>Oxidising properties</td></tr>
+<tr><td>2.14.</td><td>Other studies</td></tr>
+<tr><td>SECTION 3.</td><td>Further information on the active substance</td></tr>
+<tr><td>3.1.</td><td>Use of the active substance</td></tr>
+<tr><td>3.2.</td><td>Function</td></tr>
+<tr><td>3.3.</td><td>Effects on harmful organisms</td></tr>
+<tr><td>3.4.</td><td>Field of use envisaged</td></tr>
+<tr><td>3.5.</td><td>Harmful organisms controlled and crops or products protected or treated</td></tr>
+<tr><td>3.6.</td><td>Mode of action</td></tr>
+<tr><td>3.7.</td><td>Information on the occurrence or possible occurrence of the development of resistance and appropriate management strategies</td></tr>
+<tr><td>3.8.</td><td>Methods and precautions concerning handling, storage, transport or fire</td></tr>
+<tr><td>3.9.</td><td>Procedures for destruction or decontamination</td></tr>
+<tr><td>3.10.</td><td>Emergency measures in case of an accident</td></tr>
+<tr><td>SECTION 4.</td><td>Analytical methods</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td>4.1.</td><td>Methods used for the generation of pre-approval data</td></tr>
+<tr><td>4.1.1.</td><td>Methods for the analysis of the active substance as manufactured</td></tr>
+<tr><td>4.1.2.</td><td>Methods for risk assessment</td></tr>
+<tr><td>4.2.</td><td>Methods for post-approval control and monitoring purposes</td></tr>
+<tr><td>SECTION 5.</td><td>Toxicological and metabolism studies</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td>5.1.</td><td>Studies on absorption, distribution, metabolism and excretion in mammals</td></tr>
+<tr><td>5.1.1.</td><td>Absorption, distribution, metabolism and excretion after exposure by oral route</td></tr>
+<tr><td>5.1.2.</td><td>Absorption, distribution, metabolism and excretion after exposure by other routes</td></tr>
+<tr><td>5.2.</td><td>Acute toxicity</td></tr>
+<tr><td>5.2.1.</td><td>Oral</td></tr>
+<tr><td>5.2.2.</td><td>Dermal</td></tr>
+<tr><td>5.2.3.</td><td>Inhalation</td></tr>
+<tr><td>5.2.4.</td><td>Skin irritation</td></tr>
+<tr><td>5.2.5.</td><td>Eye irritation</td></tr>
+<tr><td>5.2.6.</td><td>Skin sensitisation</td></tr>
+<tr><td>5.2.7.</td><td>Phototoxicity</td></tr>
+<tr><td>5.3.</td><td>Short-term toxicity</td></tr>
+<tr><td>5.3.1.</td><td>Oral 28-day study</td></tr>
+<tr><td>5.3.2.</td><td>Oral 90-day study</td></tr>
+<tr><td>5.3.3.</td><td>Other routes</td></tr>
+<tr><td>5.4.</td><td>Genotoxicity testing</td></tr>
+<tr><td>5.4.1.</td><td>In vitro studies</td></tr>
+<tr><td>5.4.2.</td><td>In vivo studies in somatic cells</td></tr>
+<tr><td>5.4.3.</td><td>In vivo studies in germ cells</td></tr>
+<tr><td>5.5.</td><td>Long-term toxicity and carcinogenicity</td></tr>
+<tr><td>5.6.</td><td>Reproductive toxicity</td></tr>
+<tr><td>5.6.1.</td><td>Generational studies</td></tr>
+<tr><td>5.6.2.</td><td>Developmental toxicity studies</td></tr>
+<tr><td>5.7.</td><td>Neurotoxicity studies</td></tr>
+<tr><td>5.7.1.</td><td>Neurotoxicity studies in rodents</td></tr>
+<tr><td>5.7.2.</td><td>Delayed polyneuropathy studies</td></tr>
+<tr><td>5.8.</td><td>Other toxicological studies</td></tr>
+<tr><td>5.8.1.</td><td>Toxicity studies of metabolites</td></tr>
+<tr><td>5.8.2.</td><td>Supplementary studies on the active substance</td></tr>
+<tr><td>5.8.3.</td><td>Endocrine disrupting properties</td></tr>
+<tr><td>5.9.</td><td>Medical data</td></tr>
+<tr><td>5.9.1.</td><td>Medical surveillance on manufacturing plant personnel and monitoring studies</td></tr>
+<tr><td>5.9.2.</td><td>Data collected on humans</td></tr>
+<tr><td>5.9.3.</td><td>Direct observations</td></tr>
+<tr><td>5.9.4.</td><td>Epidemiological studies</td></tr>
+<tr><td>5.9.5.</td><td>Diagnosis of poisoning (determination of active substance, metabolites), specific signs of poisoning, clinical tests</td></tr>
+<tr><td>5.9.6.</td><td>Proposed treatment: first aid measures, antidotes, medical treatment</td></tr>
+<tr><td>5.9.7.</td><td>Expected effects of poisoning</td></tr>
+<tr><td>SECTION 6.</td><td>Residues in or on treated products, food and feed</td></tr>
+<tr><td>6.1.</td><td>Storage stability of residues</td></tr>
+<tr><td>6.2.</td><td>Metabolism, distribution and expression of residues</td></tr>
+<tr><td>6.2.1.</td><td>Plants</td></tr>
+<tr><td>6.2.2.</td><td>Poultry</td></tr>
+<tr><td>6.2.3.</td><td>Lactating ruminants</td></tr>
+<tr><td>6.2.4.</td><td>Pigs</td></tr>
+<tr><td>6.2.5.</td><td>Fish</td></tr>
+<tr><td>6.3.</td><td>Magnitude of residue trials in plants</td></tr>
+<tr><td>6.4.</td><td>Feeding studies</td></tr>
+<tr><td>6.4.1.</td><td>Poultry</td></tr>
+<tr><td>6.4.2.</td><td>Ruminants</td></tr>
+<tr><td>6.4.3.</td><td>Pigs</td></tr>
+<tr><td>6.4.4.</td><td>Fish</td></tr>
+<tr><td>6.5.</td><td>Effects of processing</td></tr>
+<tr><td>6.5.1.</td><td>Nature of the residue</td></tr>
+<tr><td>6.5.2.</td><td>Distribution of the residue in inedible peel and pulp</td></tr>
+<tr><td>6.5.3.</td><td>Magnitude of residues in processed commodities</td></tr>
+<tr><td>6.6.</td><td>Residues in rotational crops</td></tr>
+<tr><td>6.6.1.</td><td>Metabolism in rotational crops</td></tr>
+<tr><td>6.6.2.</td><td>Magnitude of residues in rotational crops</td></tr>
+<tr><td>6.7.</td><td>Proposed residue definitions and maximum residue levels</td></tr>
+<tr><td>6.7.1.</td><td>Proposed residue definitions</td></tr>
+<tr><td>6.7.2.</td><td>Proposed maximum residue levels (MRLs) and justification of the acceptability of the levels proposed</td></tr>
+<tr><td>6.7.3.</td><td>Proposed maximum residue levels (MRLs) and justification of the acceptability of the levels proposed for imported products (import tolerance)</td></tr>
+<tr><td>6.8.</td><td>Proposed safety intervals</td></tr>
+<tr><td>6.9.</td><td>Estimation of the potential and actual exposure through diet and other sources</td></tr>
+<tr><td>6.10.</td><td>Other studies</td></tr>
+<tr><td>6.10.1.</td><td>Residue level in pollen and bee products</td></tr>
+<tr><td>SECTION 7.</td><td>Fate and behaviour in the environment</td></tr>
+<tr><td>7.1.</td><td>Fate and behaviour in soil</td></tr>
+<tr><td>7.1.1.</td><td>Route of degradation in soil</td></tr>
+<tr><td>7.1.1.1.</td><td>Aerobic degradation</td></tr>
+<tr><td>7.1.1.2.</td><td>Anaerobic degradation</td></tr>
+<tr><td>7.1.1.3.</td><td>Soil photolysis</td></tr>
+<tr><td>7.1.2.</td><td>Rate of degradation in soil</td></tr>
+<tr><td>7.1.2.1.</td><td>Laboratory studies</td></tr>
+<tr><td>7.1.2.1.1.</td><td>Aerobic degradation of the active substance</td></tr>
+<tr><td>7.1.2.1.2.</td><td>Aerobic degradation of metabolites, breakdown and reaction products</td></tr>
+<tr><td>7.1.2.1.3.</td><td>Anaerobic degradation of the active substance</td></tr>
+<tr><td>7.1.2.1.4.</td><td>Anaerobic degradation of metabolites, breakdown and reaction products</td></tr>
+<tr><td>7.1.2.2.</td><td>Field studies</td></tr>
+<tr><td>7.1.2.2.1.</td><td>Soil dissipation studies</td></tr>
+<tr><td>7.1.2.2.2.</td><td>Soil accumulation studies</td></tr>
+<tr><td>7.1.3.</td><td>Adsorption and desorption in soil</td></tr>
+<tr><td>7.1.3.1.</td><td>Adsorption and desorption</td></tr>
+<tr><td>7.1.3.1.1.</td><td>Adsorption and desorption of the active substance</td></tr>
+<tr><td>7.1.3.1.2.</td><td>Adsorption and desorption of metabolites, breakdown and reaction products</td></tr>
+<tr><td>7.1.3.2.</td><td>Aged sorption</td></tr>
+<tr><td>7.1.4.</td><td>Mobility in soil</td></tr>
+<tr><td>7.1.4.1.</td><td>Column leaching studies</td></tr>
+<tr><td>7.1.4.1.1.</td><td>Column leaching of the active substance</td></tr>
+<tr><td>7.1.4.1.2.</td><td>Column leaching of metabolites, breakdown and reaction products</td></tr>
+<tr><td>7.1.4.2.</td><td>Lysimeter studies</td></tr>
+<tr><td>7.1.4.3.</td><td>Field leaching studies</td></tr>
+<tr><td>7.2.</td><td>Fate and behaviour in water and sediment</td></tr>
+<tr><td>7.2.1.</td><td>Route and rate of degradation in aquatic systems (chemical and photochemical degradation)</td></tr>
+<tr><td>7.2.1.1.</td><td>Hydrolytic degradation</td></tr>
+<tr><td>7.2.1.2.</td><td>Direct photochemical degradation</td></tr>
+<tr><td>7.2.1.3.</td><td>Indirect photochemical degradation</td></tr>
+<tr><td>7.2.2.</td><td>Route and rate of biological degradation in aquatic systems</td></tr>
+<tr><td>7.2.2.1.</td><td>‘Ready biodegradability’</td></tr>
+<tr><td>7.2.2.2.</td><td>Aerobic mineralisation in surface water</td></tr>
+<tr><td>7.2.2.3.</td><td>Water/sediment study</td></tr>
+<tr><td>7.2.2.4.</td><td>Irradiated water/sediment study</td></tr>
+<tr><td>7.2.3.</td><td>Degradation in the saturated zone</td></tr>
+<tr><td>7.3.</td><td>Fate and behaviour in air</td></tr>
+<tr><td>7.3.1.</td><td>Route and rate of degradation in air</td></tr>
+<tr><td>7.3.2.</td><td>Transport via air</td></tr>
+<tr><td>7.3.3.</td><td>Local and global effects</td></tr>
+<tr><td>7.4.</td><td>Definition of the residue</td></tr>
+<tr><td>7.4.1.</td><td>Definition of the residue for risk assessment</td></tr>
+<tr><td>7.4.2.</td><td>Definition of the residue for monitoring</td></tr>
+<tr><td>7.5.</td><td>Monitoring data</td></tr>
+<tr><td>SECTION 8.</td><td>Ecotoxicological studies</td></tr>
+<tr><td></td><td>Introduction</td></tr>
+<tr><td>8.1.</td><td>Effects on birds and other terrestrial vertebrates</td></tr>
+<tr><td>8.1.1.</td><td>Effects on birds</td></tr>
+<tr><td>8.1.1.1.</td><td>Acute oral toxicity to birds</td></tr>
+<tr><td>8.1.1.2.</td><td>Short-term dietary toxicity to birds</td></tr>
+<tr><td>8.1.1.3.</td><td>Sub-chronic and reproductive toxicity to birds</td></tr>
+<tr><td>8.1.2.</td><td>Effects on terrestrial vertebrates other than birds</td></tr>
+<tr><td>8.1.2.1.</td><td>Acute oral toxicity to mammals</td></tr>
+<tr><td>8.1.2.2.</td><td>Long-term and reproductive toxicity to mammals</td></tr>
+<tr><td>8.1.3.</td><td>Active substance bioconcentration in prey of birds and mammals</td></tr>
+<tr><td>8.1.4.</td><td>Effects on terrestrial vertebrate wildlife (birds, mammals, reptiles and amphibians)</td></tr>
+<tr><td>8.1.5.</td><td>Endocrine disrupting properties</td></tr>
+<tr><td>8.2.</td><td>Effects on aquatic organisms</td></tr>
+<tr><td>8.2.1.</td><td>Acute toxicity to fish</td></tr>
+<tr><td>8.2.2.</td><td>Long-term and chronic toxicity to fish</td></tr>
+<tr><td>8.2.2.1.</td><td>Fish early life stage toxicity test</td></tr>
+<tr><td>8.2.2.2.</td><td>Fish full life cycle test</td></tr>
+<tr><td>8.2.2.3.</td><td>Bioconcentration in fish</td></tr>
+<tr><td>8.2.3.</td><td>Endocrine disrupting properties</td></tr>
+<tr><td>8.2.4.</td><td>Acute toxicity to aquatic invertebrates</td></tr>
+<tr><td>8.2.4.1.</td><td>Acute toxicity to Daphnia magna</td></tr>
+<tr><td>8.2.4.2.</td><td>Acute toxicity to an additional aquatic invertebrate species</td></tr>
+<tr><td>8.2.5.</td><td>Long-term and chronic toxicity to aquatic invertebrates</td></tr>
+<tr><td>8.2.5.1.</td><td>Reproductive and development toxicity to Daphnia magna</td></tr>
+<tr><td>8.2.5.2.</td><td>Reproductive and development toxicity to an additional aquatic invertebrate species</td></tr>
+<tr><td>8.2.5.3.</td><td>Development and emergence in Chironomus riparius</td></tr>
+<tr><td>8.2.5.4.</td><td>Sediment dwelling organisms</td></tr>
+<tr><td>8.2.6.</td><td>Effects on algal growth</td></tr>
+<tr><td>8.2.6.1.</td><td>Effects on growth of green algae</td></tr>
+<tr><td>8.2.6.2.</td><td>Effects on growth of an additional algal species</td></tr>
+<tr><td>8.2.7.</td><td>Effects on aquatic macrophytes</td></tr>
+<tr><td>8.2.8.</td><td>Further testing on aquatic organisms</td></tr>
+<tr><td>8.3.</td><td>Effect on arthropods</td></tr>
+<tr><td>8.3.1.</td><td>Effects on bees</td></tr>
+<tr><td>8.3.1.1.</td><td>Acute toxicity to bees</td></tr>
+<tr><td>8.3.1.1.1.</td><td>Acute oral toxicity</td></tr>
+<tr><td>8.3.1.1.2.</td><td>Acute contact toxicity</td></tr>
+<tr><td>8.3.1.2.</td><td>Chronic toxicity to bees</td></tr>
+<tr><td>8.3.1.3.</td><td>Effects on honeybee development and other honeybee life stages</td></tr>
+<tr><td>8.3.1.4.</td><td>Sub-lethal effects</td></tr>
+<tr><td>8.3.2.</td><td>Effects on non-target arthropods other than bees</td></tr>
+<tr><td>8.3.2.1.</td><td>Effects on Aphidius rhopalosiphi</td></tr>
+<tr><td>8.3.2.2.</td><td>Effects on Typhlodromus pyri</td></tr>
+<tr><td>8.4.</td><td>Effects on non-target soil meso- and macrofauna</td></tr>
+<tr><td>8.4.1.</td><td>Earthworm — sub-lethal effects</td></tr>
+<tr><td>8.4.2.</td><td>Effects on non-target soil meso- and macrofauna (other than earthworms)</td></tr>
+<tr><td>8.4.2.1.</td><td>Species level testing</td></tr>
+<tr><td>8.5.</td><td>Effects on soil nitrogen transformation</td></tr>
+<tr><td>8.6.</td><td>Effects on terrestrial non-target higher plants</td></tr>
+<tr><td>8.6.1.</td><td>Summary of screening data</td></tr>
+<tr><td>8.6.2.</td><td>Testing on non-target plants</td></tr>
+<tr><td>8.7.</td><td>Effects on other terrestrial organisms (flora and fauna)</td></tr>
+<tr><td>8.8.</td><td>Effects on biological methods for sewage treatment</td></tr>
+<tr><td>8.9.</td><td>Monitoring data</td></tr>
+<tr><td>SECTION 9.</td><td>Literature data</td></tr>
+<tr><td>SECTION 10.</td><td>Classification and labelling</td></tr>
+</table>
+
+**SECTION 1**
+
+**Identity of the active substance**
+
+The information provided shall be sufficient to precisely identify each active substance and define it in terms of its specification and nature.
+
+**1.1. Applicant**
+
+The name and address of the applicant shall be provided, as well as the name, position, telephone, e-mail address and telefax number of a contact point.
+
+**1.2. Producer**
+
+The name and address of the producer of the active substance shall be provided, as well as the name and address of each manufacturing plant in which the active substance is manufactured. A contact point (name, telephone, e-mail address and telefax number) shall be provided. Where following approval of the active substances, there are changes in the location or number of producers, the information required shall again be notified to the Commission, the Authority and the Member States.
+
+**1.3. Common name proposed or ISO-accepted, and synonyms**
+
+The International Organization for Standardization (ISO) common name, or proposed ISO common name and where relevant, other proposed or accepted common names (synonyms), including the name (title) of the nomenclature authority concerned, shall be provided.
+
+**1.4. Chemical name (IUPAC and CA nomenclature)**
+
+The chemical name as given in Part III of Annex VI to Regulation (EC) No 1272/2008, or, if not included in that Regulation, in accordance with both the International Union of Pure and Applied Chemistry (IUPAC) and Chemical Abstracts (CA) nomenclature, shall be provided, where applicable.
+
+**1.5. Producer's development code numbers**
+
+Code numbers used to identify the active substance, and where available, formulations containing the active substance, during development work, shall be reported. For each code number reported, the material to which it relates, the period for which it was used, and the Member States or other countries in which it was used and is being used, shall be stated.
+
+**1.6. CAS, EC and CIPAC numbers**
+
+Chemical Abstracts Service (CAS), European Commission (EC) and Collaborative International Pesticides Analytical Council (CIPAC) numbers, where they exist, shall be reported.
+
+**1.7. Molecular and structural formula, molar mass**
+
+The molecular formula, molar mass and structural formula of the active substance, and where relevant, the structural formula of each isomer present in the active substance, shall be provided.
+
+For plant extracts, a different approach may be taken if adequately justified.
+
+**1.8. Method of manufacture (synthesis pathway) of the active substance**
+
+The method of manufacture, in terms of the identity (name, CAS number, structural formula) and purity of the starting materials and whether they are commercially available, the chemical pathways involved, and the identity of impurities present in the final product, shall be provided, for each manufacturing plant. Detailed information shall be given as to the origin of those impurities. Each impurity shall be categorised as resulting from side reactions, impurities in the starting material, remaining reaction intermediates or starting materials. Their toxicological, ecotoxicological and environmental relevance shall be addressed. This information shall also include impurities that are not detected but that could theoretically be formed. Generally process engineering information is not required.
+
+Where the required information is provided for a pilot plant production system, that information shall again be provided once industrial scale production methods and procedures have stabilised. Where available, industrial scale data shall be provided before approval under Regulation (EC) No 1107/2009. Where data on industrial scale production are not available, a justification shall be provided.
+
+**1.9. Specification of purity of the active substance in g/kg**
+
+The minimum content in g/kg of pure active substance in the manufactured material used for production of plant protection products, shall be reported. A justification shall be provided for the minimum content proposed in the specification; this shall include a statistical analysis of the data on at least five representative batches, as referred to in point 1.11. Additional supporting data may be provided to further justify the technical specification.
+
+Where the required information is provided for a pilot plant production system, that information shall again be provided once industrial scale production methods and procedures have stabilised. Where available, industrial scale data shall be provided before approval under Regulation (EC) No 1107/2009. Where data on industrial scale production are not available, a justification shall be provided.
+
+If the active substance is manufactured as technical concentrate (TK), the minimum and maximum content of the pure active substance shall be given, along with its content in the theoretical dry weight material.
+
+If the active substance is a mixture of isomers, the ratio or the ratio range of the content of isomers shall be provided. The relative biological activity of each isomer, both in terms of efficacy and toxicity, shall be reported.
+
+For plant extracts, a different approach may be taken if adequately justified.
+
+**1.10. Identity and content of additives (such as stabilisers) and impurities**
+
+The minimum and maximum content in g/kg of each additive shall be provided.
+
+The maximum content in g/kg of each further component other than additives shall also be provided.
+
+If the active substance is manufactured as technical concentrate (TK), the maximum content of each impurity shall be given, along with their content in the theoretical dry weight material.
+
+Isomers that are not part of the ISO common name are considered as impurities.
+
+Where the information provided does not fully identify a component (for example condensates), detailed information on the composition shall be provided for each such component.
+
+Where the required information is provided for a pilot plant production system, that information shall again be provided once industrial scale production methods and procedures have stabilised. Where available, industrial scale data shall be provided before approval under Regulation (EC) No 1107/2009. Where data on industrial scale production are not available, a justification shall be provided.
+
+For plant extracts, a different approach may be taken if adequately justified.
+
+1.10.1. Additives
+
+The trade name of components added to the active substance, prior to manufacture of the plant protection product, to preserve stability and facilitate ease of handling, hereinafter ‘additives’, shall also be provided. The following information shall, where relevant, be provided for such additives:
+
+(a) chemical name in accordance with IUPAC and CA nomenclature;
+
+(b) ISO common name or proposed common name if available;
+
+(c) CAS number, EC number;
+
+(d) molecular and structural formula;
+
+(e) molar mass;
+
+(f) minimum and maximum content in g/kg; and
+
+(g) function (for example stabiliser).
+
+1.10.2. Significant impurities
+
+Impurities present in quantities of 1 g/kg or more shall be considered as significant. For significant impurities the following information, where relevant, shall be provided:
+
+(a) chemical name in accordance with IUPAC and CA nomenclature;
+
+(b) ISO common name or proposed common name, if available;
+
+(c) CAS number, EC number;
+
+(d) molecular and structural formula;
+
+(e) molar mass; and
+
+(f) maximum content in g/kg.
+
+Information on how the structural identity of the impurities was determined shall be given.
+
+1.10.3. Relevant impurities
+
+Impurities that are particularly undesirable because of their toxicological, ecotoxicological or environmental properties, shall be considered as relevant. For relevant impurities the following information, where relevant, shall be provided:
+
+(a) chemical name in accordance with IUPAC and CA nomenclature;
+
+(b) ISO common name or proposed common name if available;
+
+(c) CAS number, EC number;
+
+(d) molecular and structural formula;
+
+(e) molar mass; and
+
+(f) maximum content in g/kg.
+
+Information on how the structural identity of the impurities was determined shall be reported.
+
+**1.11. Analytical profile of batches**
+
+At least five representative batches from recent and current industrial scale production of the active substance shall be analysed for content of pure active substance, impurities, additives and each further component other than additives, as appropriate. All of the representative batches shall be within the last five years of manufacture. Where data from the last five years of production are not available, a justification shall be provided. The analytical results reported shall include quantitative data, in terms of g/kg content, for all components present in quantities of 1 g/kg or more and typically should account for at least 980 g/kg of the material analysed. For plant extracts and semiochemicals (such as pheromones), justified exemptions can be made. The statistical basis for the content proposed in the technical specification shall be explained (for example: maximum level found in practice, average plus three standard deviations of levels found in practice, etc.). Supporting data may be provided to further justify the technical specification. The actual content of components which are particularly undesirable because of their toxicological, ecotoxicological or environmental properties shall be determined and reported even if present in quantities below 1 g/kg. Data reported shall include the results of the analysis of individual samples and a summary of that data, to show the minimum, maximum and mean content of each relevant component.
+
+Where an active substance is produced in different plants the information set out in the first paragraph shall be provided for each of the plants separately.
+
+In addition, where relevant, samples of the active substance produced at laboratory scale or in pilot production systems, shall be analysed, if such material was used in generating toxicological or ecotoxicological data. If this data is not available a justification shall be provided.
+
+Where the information provided relates to a pilot plant production system, the information required shall again be provided once industrial scale production methods and procedures have stabilised. Where available, industrial scale data shall be provided before approval under Regulation (EC) No 1107/2009. Where data on industrial scale production are not available, a justification shall be provided.
+
+**SECTION 2**
+
+**Physical and chemical properties of the active substance**
+
+**2.1. Melting point and boiling point**
+
+The melting point or where appropriate the freezing or solidification point of purified active substance shall be determined and reported. Measurements shall be taken up to 360 °C.
+
+The boiling point of purified active substance shall be determined and reported. Measurements shall be taken up to 360 °C.
+
+Where melting point or boiling point cannot be determined because of decomposition or sublimation, the temperature at which decomposition or sublimation occurs shall be reported.
+
+**2.2. Vapour pressure, volatility**
+
+The vapour pressure of purified active substance at 20 °C or 25 °C shall be reported. Where vapour pressure is less than 10–5 Pa at 20 °C the vapour pressure at 20 °C or 25 °C shall be estimated by a vapour pressure curve with measurements at higher temperatures.
+
+In the case of active substances which are solids or liquids, volatility (Henry’s law constant) of purified active substance shall be determined or calculated from its water solubility and vapour pressure and be reported (in Pa × m3 × mol–1).
+
+**2.3. Appearance (physical state, colour)**
+
+A description of both the colour, if any, and the physical state of both the active substance as manufactured and purified active substance, shall be provided.
+
+**2.4. Spectra (UV/VIS, IR, NMR, MS), molar extinction at relevant wavelengths, optical purity**
+
+The following spectra, including a table of signal characteristics needed for interpretation, shall be determined and reported: ultraviolet/visible (UV/VIS), infrared (IR), nuclear magnetic resonance (NMR) and mass spectra (MS) of purified active substance.
+
+Molar extinction at relevant wavelengths shall be determined and reported (ε in L × mol–1 × cm–1). Relevant wavelengths include all maxima in the UV/visible absorption spectrum, as well as the wavelength range of 290-700 nm.
+
+In the case of active substances which are resolved optical isomers, the optical purity shall be measured and reported.
+
+Where necessary for the identification of the impurities considered to be of toxicological, ecotoxicological or environmental significance, the UV/visible absorption spectra, IR, NMR and MS spectra, shall be determined and reported.
+
+**2.5. Solubility in water**
+
+The water solubility of purified active substances under atmospheric pressure shall be determined and a value reported for 20 °C. These water solubility determinations shall be made in the neutral range (that is to say in distilled water in equilibrium with atmospheric carbon dioxide). If the pKa is between 2 and 12, water solubility shall also be determined in the acidic range (pH 4 to 5) and in the alkaline range (pH 9 to 10). Where the stability of the active substance in aqueous media is such that water solubility cannot be determined, a justification based on test data shall be provided.
+
+**2.6. Solubility in organic solvents**
+
+The solubility of the active substances as manufactured or purified active substance in the following organic solvents at 15 to 25 °C shall be determined and reported if less than 250 g/L; the temperature applied shall be specified. Results shall be reported as g/L.
+
+(a) Aliphatic hydrocarbon: preferably heptane
+
+(b) Aromatic hydrocarbon: preferably toluene
+
+(c) Halogenated hydrocarbon: preferably dichloromethane
+
+(d) Alcohol: preferably methanol or isopropyl alcohol
+
+(e) Ketone: preferably acetone
+
+(f) Ester: preferably ethyl acetate.
+
+If for a particular active substance, one or more of those solvents is unsuitable (for example reacts with test material), alternative solvents may be used instead. In such cases, choices of solvents shall be justified in terms of their structure and polarity.
+
+**2.7. Partition coefficient n-octanol/water**
+
+The n-octanol/water partition coefficient (Kow or log Pow) of purified active substance and of all components of the residue definition for risk assessment shall be determined and reported for 20 °C or 25 °C. The effect of pH (4 to 10) shall be investigated when the active substance has a pKa value between 2 and 12.
+
+**2.8 Dissociation in water**
+
+Where dissociation in water occurs, the dissociation constants (pKa values) of the purified active substance shall be determined and reported for 20 °C. The identity of the dissociated species formed, based on theoretical considerations, shall be reported. If the active substance is a salt the pKa value of the non-dissociated form of the active substance shall be given.
+
+**2.9. Flammability and self-heating**
+
+The flammability and self-heating of active substances as manufactured shall be determined and reported. A theoretical estimation based on structure shall be accepted if it meets the criteria set out in Appendix 6 of the United Nations’ Recommendations on the Transport of Dangerous Goods Manual of Tests and Criteria ( 8 ). In justified cases, data for purified active substance may be used.
+
+**2.10. Flash point**
+
+The flash point of active substances as manufactured with a melting point below 40 °C shall be determined and reported. In justified cases, data for purified active substance may be used.
+
+**2.11. Explosive properties**
+
+The explosive properties of active substances as manufactured shall be determined and reported. A theoretical estimation based on structure shall be accepted if it meets the criteria set out in Appendix 6 of the United Nations ‘Recommendations on the Transport of Dangerous Goods, Manual of Tests and Criteria’. In justified cases, data for purified active substance may be used.
+
+**2.12. Surface tension**
+
+The surface tension of purified active substance shall be determined and reported.
+
+**2.13. Oxidising properties**
+
+The oxidising properties of active substances as manufactured, shall be determined and reported. A theoretical estimation based on structure shall be accepted if it meets the criteria set out in Appendix 6 of the United Nations ‘Recommendations on the Transport of Dangerous Goods Manual of Tests and Criteria’. In justified cases data for purified active substance may be used.
+
+**2.14. Other studies**
+
+Supplementary studies necessary for the classification of the active substance by hazard shall be carried out in accordance with Regulation (EC) No 1272/2008.
+
+**SECTION 3**
+
+**Further information on the active substance**
+
+**3.1. Use of the active substance**
+
+The information provided shall describe the intended purposes for which plant protection products containing the active substance are used, or are to be used and the dose and manner of their use or proposed use.
+
+**3.2. Function**
+
+The function shall be specified from among the following:
+
+(a) acaricide;
+
+(b) bactericide;
+
+(c) fungicide;
+
+(d) herbicide;
+
+(e) insecticide;
+
+(f) molluscicide;
+
+(g) nematicide;
+
+(h) plant growth regulator;
+
+(i) repellent;
+
+(j) rodenticide;
+
+(k) semio-chemical;
+
+(l) talpicide;
+
+(m) viricide;
+
+(n) other (shall be specified by the applicant).
+
+**3.3. Effects on harmful organisms**
+
+The nature of the effects on harmful organisms shall be stated:
+
+(a) contact action;
+
+(b) stomach action;
+
+(c) inhalation action;
+
+(d) fungitoxic action;
+
+(e) fungistatic action;
+
+(f) desiccant;
+
+(g) reproduction inhibitor;
+
+(h) other (shall be specified by the applicant).
+
+It shall be stated whether or not the active substance is translocated in plants and where relevant whether such translocation is apoplastic, symplastic or both.
+
+**3.4. Field of use envisaged**
+
+The fields of use, existing and proposed, for plant protection products containing the active substance shall be specified from among the following:
+
+(a) field use, such as agriculture, horticulture, forestry and viticulture;
+
+(b) protected crops;
+
+(c) amenity;
+
+(d) weed control on non-cultivated areas;
+
+(e) home gardening;
+
+(f) house plants;
+
+(g) plant products storage practice;
+
+(h) other (shall be specified by applicant).
+
+**3.5. Harmful organisms controlled and crops or products protected or treated**
+
+Details of existing use and the intended use in terms of crops, groups of crops, plants, or plant products treated and where relevant protected shall be provided.
+
+Where relevant, details of harmful organisms against which protection is afforded shall be provided.
+
+Where relevant, effects achieved, such as sprout suppression, retardation of ripening, reduction in stem length, enhanced fertilisation shall be reported.
+
+**3.6. Mode of action**
+
+To the extent that it has been elucidated, a statement shall be provided as to the mode of action of the active substance in terms, where relevant, of the biochemical and physiological mechanisms and biochemical pathways involved. Where available, the results of relevant experimental studies shall be reported.
+
+Where it is known that to exert its intended effect, the active substance has to be converted to a metabolite or breakdown product following application or use of plant protection products containing it, the following information shall be provided for active metabolite or breakdown products:
+
+(a) chemical name in accordance with IUPAC and CA nomenclature;
+
+(b) ISO common name or proposed common name;
+
+(c) CAS-number EC number;
+
+(d) molecular and structural formula; and
+
+(e) molar mass.
+
+The information referred to in points (a) to (e) shall be cross referenced to and drawing on information provided under Sections 5 to 8, where relevant.
+
+Available information relating to the formation of active metabolites and breakdown products shall be provided. Such information shall include:
+
+— the processes, mechanisms and reactions involved,
+
+— kinetic and other data concerning the rate of conversion and if known the rate limiting step,
+
+— environmental and other factors effecting the rate and extent of conversion.
+
+**3.7. Information on the occurrence or possible occurrence of the development of resistance and appropriate management strategies**
+
+Where available, information on the occurrence or possible occurrence of the development of resistance or cross-resistance shall be provided.
+
+Appropriate risk management strategies shall be addressed for national/regional areas.
+
+**3.8. Methods and precautions concerning handling, storage, transport or fire**
+
+A safety data sheet pursuant to Article 31 of Regulation (EC) No 1907/2006 of the European Parliament and of the Council ( 9 ) shall be provided for all active substances.
+
+The studies, data and information submitted, together with other relevant studies, data and information, shall both specify and justify the methods and precautions to be followed in the event of fire. The possible products of combustion in the event of fire shall be estimated, based on the chemical structure and the chemical and physical properties of the active substance.
+
+**3.9. Procedures for destruction or decontamination**
+
+In many cases the preferred or sole means to safely dispose of active substances, contaminated materials, or contaminated packaging is through controlled incineration in a licensed incinerator. Such incineration shall be carried out in accordance with the criteria set out in Council Directive 94/67/EC ( 10 ).
+
+Other methods to dispose of the active substance, contaminated packaging and contaminated materials, where proposed, shall be fully described. Data shall be provided for such methods, to establish their effectiveness and safety.
+
+**3.10. Emergency measures in case of an accident**
+
+Procedures for the decontamination of water and soil in case of an accident shall be provided.
+
+The studies, data and information submitted, together with other relevant studies, data and information, shall demonstrate the suitability of measures proposed for use in emergency situations.
+
+**SECTION 4**
+
+**Analytical methods**
+
+**Introduction**
+
+The provisions of this Section cover analytical methods used for the generation of pre-approval data and required for post-approval control and monitoring purposes.
+
+Descriptions of methods shall be provided and include details of equipment, materials and conditions used.
+
+On request, the following shall be provided:
+
+(a) analytical standards of the purified active substance;
+
+(b) samples of the active substance as manufactured;
+
+(c) analytical standards of relevant metabolites and all other components included in all monitoring residue definitions;
+
+(d) samples of reference substances for the relevant impurities.
+
+Where possible, the standards referred to in points (a) and (c) shall be made commercially available and, on request, the distributing company shall be named.
+
+**4.1. Methods used for the generation of pre-approval data**
+
+4.1.1. Methods for the analysis of the active substance as manufactured
+
+Methods shall be provided, with a full description, for the determination of:
+
+(a) pure active substance in the active substance as manufactured and specified in the dossier submitted in support of approval under Regulation (EC) No 1107/2009;
+
+(b) significant and relevant impurities and additives (such as stabilisers) in the active substance as manufactured.
+
+The applicability of existing CIPAC methods shall be assessed and reported. In case of use of a CIPAC method, further validation data shall not be required, but example chromatograms shall be submitted, where available.
+
+The specificity of the methods shall be determined and reported. In addition, the extent of interference by other substances present in the active substance as manufactured (such as impurities or additives), shall be determined.
+
+The linearity of methods shall be determined and reported. The calibration range shall extend (by at least 20 %) beyond the highest and lowest nominal content of the analyte in relevant analytical solutions. Either duplicate determinations at three or more concentrations or single determinations at five or more concentrations shall be made. The equation of the calibration line and the correlation coefficient shall be reported and a typical calibration plot shall be submitted. In cases where a non-linear response is used, this shall be justified by the applicant.
+
+The precision (repeatability) of the methods shall be determined and reported. A minimum of five replicate sample determinations shall be made and the mean, the relative standard deviation and the number of determinations shall be reported.
+
+For the determination of the active substance content, an assessment of accuracy of the method shall be made by an assessment of the interference and precision.
+
+As regards additives and significant and relevant impurities:
+
+— the accuracy of the methods shall be determined on at least two representative samples at levels appropriate to the batch data and material specification. The mean and the relative standard deviation of the recoveries shall be reported,
+
+— the experimental determination of the limit of quantification (LOQ) shall not be required. However, it shall be demonstrated that the methods are sufficiently precise to analyse significant impurities at levels appropriate to the material specification and relevant impurities at a concentration equivalent to at least 20 % less than the specification limit.
+
+4.1.2. Methods for risk assessment
+
+Methods shall be submitted, with a full description, for the determination of non-isotope-labelled residues in all areas of the dossier, as set out in detail in the following points:
+
+(a) in soil, water, sediment, air and any additional matrices used in support of environmental fate studies;
+
+(b) in soil, water and any additional matrices used in support of efficacy studies;
+
+(c) in feed, body fluids and tissues, air and any additional matrices used in support of toxicology studies;
+
+(d) in body fluids, air and any additional matrices used in support of operator, worker, resident and bystander exposure studies;
+
+(e) in or on plants, plant products, processed food commodities, food of plant and animal origin, feed and any additional matrices used in support of residues studies;
+
+(f) in soil, water, sediment, feed and any additional matrices used in support of ecotoxicology studies;
+
+(g) in water, buffer solutions, organic solvents and any additional matrices used in the physical and chemical properties tests.
+
+The specificity of the methods shall be determined and reported. Validated confirmatory methods shall be submitted if appropriate.
+
+The linearity, recovery and precision (repeatability) of methods shall be determined and reported.
+
+Data shall be generated at the LOQ and either the likely residue levels or ten times the LOQ. Where relevant, the LOQ shall be determined and reported for each analyte.
+
+**4.2. Methods for post-approval control and monitoring purposes**
+
+Methods, with a full description, shall be submitted for:
+
+(a) the determination of all components included in the monitoring residue definition as submitted in accordance with the provisions of point 6.7.1 in order to enable Member States to determine compliance with established maximum residue levels (MRLs); they shall cover residues in or on food and feed of plant and animal origin;
+
+(b) the determination of all components included for monitoring purposes in the residue definitions for soil and water as submitted in accordance with the provisions of point 7.4.2;
+
+(c) the analysis in air of the active substance and relevant breakdown products formed during or after application, unless the applicant shows that exposure of operators, workers, residents or bystanders is negligible;
+
+(d) the analysis in body fluids and tissues for active substances and relevant metabolites.
+
+As far as practicable these methods shall employ the simplest approach, involve the minimum cost, and require commonly available equipment.
+
+The specificity of the methods shall be determined and reported. It shall enable all components included in the monitoring residue definition to be determined. Validated confirmatory methods shall be submitted if appropriate.
+
+The linearity, recovery and precision (repeatability) of methods shall be determined and reported.
+
+Data shall be generated at the LOQ and either the likely residue levels or ten times the LOQ. The LOQ shall be determined and reported for each component included in the monitoring residue definition.
+
+For residues in or on food and feed of plant and animal origin and residues in drinking water, the reproducibility of the method shall be determined by means of an independent laboratory validation (ILV) and reported.
+
+**SECTION 5**
+
+**Toxicological and metabolism studies**
+
+**Introduction**
+
+1\. The relevance of generating toxicity data in animal models with dissimilar metabolic profiles to those found in humans shall be addressed, if such metabolic information is available, and taken into consideration for study design and risk assessment.
+
+2\. All potentially adverse effects found during toxicological investigations (including effects on organs/systems such as the immune system, the nervous system, or the endocrine system) shall be reported. Additional studies may be necessary to investigate the mechanisms underlying effects that could be critical to hazard identification or risk assessment.
+
+All available biological data and information relevant to the assessment of the toxicological profile of the active substance tested, including modelling, shall be reported.
+
+3\. Where available, historical control data shall be provided routinely. The data submitted shall be for endpoints that could represent critical adverse effects, and shall be strain-specific and from the laboratory which carried out the index study. They shall cover a five-year period, centred as closely as possible on the date of the index study.
+
+4\. When preparing a study plan, available data on the test substance, such as its physico-chemical properties (such as volatility), purity, reactivity (such as rate of hydrolysis, electrophilicity) and structure-activity relationships of chemical analogues, shall be taken into account.
+
+5\. For all studies actual achieved dose in mg/kg body weight, as well as in other convenient units (such as mg/L inhalation, mg/cm2 dermal), shall be reported.
+
+6\. The analytical methods to be used in toxicity studies shall be specific for the entity to be measured and shall be adequately validated. The LOQ shall be adequate for the measurement of the range of concentration anticipated to occur in the generation of the toxicokinetic data.
+
+7\. Where, as a result of metabolism or other processes in or on treated plants, in livestock, in soil, in ground water, open air, or as a result of processing of treated products, the terminal residue to which humans will be exposed contains a substance which is not the active substance itself and is not identified as a significant metabolite in mammals, toxicity studies shall, where technically possible, be carried out on that substance unless it can be demonstrated that human exposure to that substance does not constitute a relevant risk to health.
+
+Toxicokinetic and metabolism studies relating to metabolites and breakdown products shall only be required if toxicity findings of the metabolite cannot be evaluated by the available results relating to the active substance.
+
+8\. The oral route shall always be used if it is practical. In cases where exposure of humans is mainly by the gas phase, it can be more appropriate to perform some of the studies via inhalation.
+
+9\. For dose selection, toxicokinetic data such as saturation of absorption measured by systemic availability of substance and/or metabolites shall be taken into consideration.
+
+**5.1. Studies on absorption, distribution, metabolism and excretion in mammals**
+
+Information on blood and tissues concentration of the active substance and relevant metabolites, for example around the time to reach the maximum plasma concentration (Tmax), shall be generated in short and long-term studies on relevant species to enhance the value of the toxicological data generated in terms of understanding the toxicity studies.
+
+The main objective of the toxicokinetic data is to describe the systemic exposure achieved in animals and its relationship to the dose levels and the time course of the toxicity studies.
+
+Other objectives are:
+
+(a) to relate the achieved exposure in toxicity studies to toxicological findings and contribute to the assessment of the relevance of these findings to human health, with a particular regard to vulnerable groups;
+
+(b) to support the design of a toxicity study (choice of species, treatment regimen, selection of dose levels) with respect to kinetics and metabolism;
+
+(c) to provide information which, in relation to the findings of toxicity studies, contributes to the design of supplementary toxicity studies as outlined in point 5.8.2;
+
+(d) to compare the metabolism of rats with the metabolism in livestock as outlined in point 6.2.4.
+
+5.1.1. Absorption, distribution, metabolism and excretion after exposure by oral route
+
+Limited data restricted to one in vivo test species (normally rat) may be all that is required as regards absorption, distribution, metabolism and excretion after exposure by oral route. These data can provide information useful in the design and interpretation of subsequent toxicity tests. However, it shall be remembered that information on interspecies differences is crucial in extrapolation of animal data to humans and information on metabolism following administration via other routes may be useful in human risk assessments.
+
+It is not possible to specify detailed data requirements in all areas, since the exact requirements will depend upon the results obtained for each particular test substance.
+
+The studies shall provide sufficient information about the kinetics of the active substance and its metabolites in relevant species after being exposed to the following:
+
+(a) a single oral dose (low and high dose levels);
+
+(b) an intravenous dose preferably or, if available, a single oral dose with assessment of biliary excretion (low dose level); and
+
+(c) a repeated dose.
+
+A key parameter is systemic bioavailability (F), obtained by comparison of the area under the curve (AUC) after oral and intravenous dosing.
+
+When intravenous dosing is not feasible a justification shall be provided.
+
+The design of the kinetic studies required shall include:
+
+(a) an evaluation of the rate and extent of oral absorption including maximum plasma concentration (Cmax), AUC, Tmax and other appropriate parameters, such as bioavailability;
+
+(b) the potential for bioaccumulation;
+
+(c) plasma half-lives;
+
+(d) the distribution in major organs and tissues;
+
+(e) information on the distribution in blood cells;
+
+(f) the chemical structure and the quantification of metabolites in biological fluids and tissues;
+
+(g) the different metabolic pathways;
+
+(h) the route and time course of excretion of active substance and metabolites;
+
+(i) investigations whether and to what extent enterohepatic circulation takes place.
+
+Comparative in vitro metabolism studies shall be performed on animal species to be used in pivotal studies and on human material (microsomes or intact cell systems) in order to determine the relevance of the toxicological animal data and to guide in the interpretation of findings and in further definition of the testing strategy.
+
+An explanation shall be given or further tests shall be carried out where a metabolite is detected in vitro in human material and not in the tested animal species.
+
+5.1.2. Absorption, distribution, metabolism and excretion after exposure by other routes
+
+Data on absorption, distribution, metabolism and excretion (ADME) following exposure by the dermal route shall be provided where toxicity following dermal exposure is of concern compared to that following oral exposure. Before investigating ADME in vivo following dermal exposure, an in vitro dermal penetration study shall be conducted to assess the likely magnitude and rate of dermal bioavailability.
+
+Absorption, distribution, metabolism and excretion after exposure by the dermal route shall be considered on the basis of the above information, unless the active substance causes skin irritation that would compromise the outcome of the study.
+
+Dermal absorption estimation from data generated in these studies on the active substance shall be critically assessed for relevance to humans. Dermal absorption measurement of the plant protection product is specifically considered under point 7.3 of Part A of the Annex to Regulation (EU) No 284/2013.
+
+For volatile active substances (vapour pressure > 10–2 Pascal) absorption, distribution, metabolism and excretion after exposure by inhalation may be useful in human risk assessments.
+
+**5.2. Acute toxicity**
+
+The studies, data and information to be provided and evaluated shall be sufficient to permit the identification of effects following a single exposure to the active substance, and in particular to establish, or indicate:
+
+(a) the toxicity of the active substance;
+
+(b) the time course and characteristics of the effects with full details of behavioural changes, clinical signs, where evident, and possible gross pathological findings at post-mortem;
+
+(c) the possible need to consider establishing acute reference doses (such as ARfD, aAOEL ( 11 ));
+
+(d) where possible mode of toxic action;
+
+(e) the relative hazard associated with the different routes of exposure.
+
+While the emphasis shall be on estimating the toxicity ranges involved, the information generated shall also permit the active substance to be classified in accordance with Regulation (EC) No 1272/2008. The information generated through acute toxicity testing is of particular value in assessing hazards likely to arise in accident situations.
+
+5.2.1. Oral
+
+Circumstances in which required
+
+The acute oral toxicity of the active substance shall always be reported.
+
+5.2.2. Dermal
+
+Circumstances in which required
+
+The acute dermal toxicity of the active substance shall be reported unless waiving is scientifically justified (for example where oral LD50 ( 12 ) is greater than 2 000 mg/kg). Both local and systemic effects shall be investigated.
+
+Findings of severe skin irritation (Grade 4 erythema or oedema) in the dermal study shall be used instead of performing a specific irritation study.
+
+5.2.3. Inhalation
+
+Circumstances in which required
+
+The acute inhalation toxicity of the active substance shall be reported where any of the following apply:
+
+— the active substance has a vapour pressure > 1 × 10–2 Pa at 20 °C;
+
+— the active substance is a powder containing a significant proportion of particles of a diameter &lt; 50 μm ( > 1 % on weight basis);
+
+— the active substance is included in products that are powders or are applied by spraying.
+
+The head/nose only exposure shall be used, unless whole body exposure can be justified.
+
+5.2.4. Skin irritation
+
+The results of the study shall provide information on the potential for skin irritancy of the active substance including, where relevant, the potential reversibility of the effects observed.
+
+Before undertaking in vivo studies for corrosion/irritation of the active substance, a weight-of-evidence analysis shall be performed on the existing relevant data. Where insufficient data are available, they can be developed through application of sequential testing.
+
+The testing strategy shall follow a tiered approach:
+
+(1) the assessment of dermal corrosivity using a validated in vitro test method;
+
+(2) the assessment of dermal irritation using a validated in vitro test method (such as human reconstituted skin models);
+
+(3) an initial in vivo dermal irritation study using one animal, and where no adverse effects are noted;
+
+(4) confirmatory testing using one or two additional animals.
+
+Circumstances in which required
+
+The skin irritancy study of the active substance shall always be provided. Where available, a dermal toxicity study shown not to produce irritation of the skin at the limit test dose level of 2 000 mg/kg body weight shall be used to waive the need for any dermal irritation studies.
+
+5.2.5. Eye irritation
+
+The results of the study shall provide the potential of eye irritancy of the active substance including, where relevant, the potential reversibility of the effects observed.
+
+Before undertaking in vivo studies for eye corrosion/irritation of the active substance, a weight-of-evidence analysis shall be performed on the existing relevant data. Where available data are considered insufficient, further data may be developed through application of sequential testing.
+
+The testing strategy shall follow a tiered approach:
+
+(1) the use of an in vitro dermal irritation/corrosion test to predict eye irritation/corrosion;
+
+(2) the performance of a validated or accepted in vitro eye irritation study to identify severe eye irritants/corrosives (such as Bovine Corneal Opacity and Permeability (BCOP) assay, Isolated Chicken Eye (ICE) assay, Isolated Rabbit Eye (IRE) assay, Hen's Egg Test - Chorio-Allantoic Membrane assay (HET-CAM)), and where negative results are obtained, the assessment of eye irritation using an in vitro test method for identification of non-irritants or irritants, and where not available;
+
+(3) an initial in vivo eye irritation study using one animal, and where no adverse effects are noted;
+
+(4) confirmatory testing using one or two additional animals.
+
+Circumstances in which required
+
+The eye irritancy of the active substance shall always be tested, except where it is likely that severe effects on the eyes may be produced based on criteria listed in the test methods.
+
+5.2.6. Skin sensitisation
+
+The study shall provide sufficient information to assess the potential of the active substance to provoke skin sensitisation reactions.
+
+Circumstances in which required
+
+The study shall always be carried out, except where the active substance is a known sensitiser. The local lymph node assay (LLNA) shall be used, including where appropriate the reduced variant of the assay. In case the LLNA cannot be conducted, a justification shall be provided and the Guinea Pig Maximisation Test shall be performed. Where a guinea pig assay (Maximisation or Buehler), meeting OECD guidelines and providing a clear result, is available, further testing shall not be carried out for animal welfare reasons.
+
+Since an active substance identified as a skin sensitiser can potentially induce hypersensitivity reaction, potential respiratory sensitisation should be taken into account when appropriate tests are available or when there are indications of respiratory sensitisation effects.
+
+5.2.7. Phototoxicity
+
+The study shall provide information on the potential of certain active substances to induce cytotoxicity in combination with light, for example active substances that are phototoxic in vivo after systemic exposure and distribution to the skin, as well as active substances that act as photoirritants after dermal application. A positive result shall be taken into account when considering potential human exposure.
+
+Circumstances in which required
+
+The in vitro study shall be required where the active substance absorbs electromagnetic radiation in the range 290-700 nm and is liable to reach the eyes or light-exposed areas of skin, either by direct contact or through systemic distribution.
+
+If the Ultraviolet/visible molar extinction/absorption coefficient of the active substance is less than 10 L × mol–1 × cm–1, no toxicity testing is required.
+
+**5.3. Short-term toxicity**
+
+Short-term toxicity studies shall be designed to provide information as to the amount of the active substance that can be tolerated without adverse effects under the conditions of the study and to elucidate health hazards occurring at higher dose levels. Such studies provide useful data on the risks for those handling and using plant protection products containing the active substance, among other possible exposed groups. In particular, short-term studies provide an essential insight into possible repeated actions of the active substance and the risks to humans who may be exposed. In addition short-term studies provide information useful in the design of chronic toxicity studies.
+
+The studies, data and information to be provided and evaluated, shall be sufficient to permit the identification of effects following repeated exposure to the active substance, and in particular to further establish, or indicate:
+
+(a) the relationship between dose and adverse effects;
+
+(b) toxicity of the active substance including where possible the No Observed Adverse Effect Level (NOAEL);
+
+(c) target organs, where relevant (including immune, nervous and endocrine systems);
+
+(d) the time course and characteristics of adverse effects with full details of behavioural changes and possible pathological findings at post-mortem;
+
+(e) specific adverse effects and pathological changes produced;
+
+(f) where relevant the persistence and reversibility of certain adverse effects observed, following discontinuation of dosing;
+
+(g) where possible, the mode of toxic action;
+
+(h) the relative hazard associated with the different routes of exposure;
+
+(i) relevant critical endpoints at appropriate time points for setting reference values, where necessary.
+
+Toxicokinetic data (that is to say blood concentration) shall be included in short term studies. In order to avoid increased animal use, the data may be derived in range finding studies.
+
+If nervous system, immune system or endocrine system are specific targets in short term studies at dose levels not producing marked toxicity, supplementary studies, including functional testing, shall be carried out (see point 5.8.2).
+
+5.3.1. Oral 28-day study
+
+Circumstances in which required
+
+Where available, 28-day studies shall be reported.
+
+5.3.2. Oral 90-day study
+
+Circumstances in which required
+
+The short-term oral toxicity of the active substance to rodents (90-day), usually the rat, a different rodent species shall be justified, and non rodents (90-day toxicity study in dogs), shall always be reported.
+
+In the 90-day study, potential neurotoxic and immunotoxic effects, genotoxicity by way of micronuclei formation and effects potentially related to changes in the hormonal system shall be carefully addressed.
+
+5.3.3. Other routes
+
+Circumstances in which required
+
+For human risk assessment additional dermal studies shall be considered on a case by case basis, unless the active substance is a severe irritant.
+
+For volatile active substances (vapour pressure >10–2 Pascal) expert judgement (for example based on route-specific kinetic data) shall be required to decide whether the short term studies have to be performed by inhalation exposure.
+
+**5.4. Genotoxicity testing**
+
+The aim of genotoxicity testing shall be to:
+
+— predict genotoxic potential,
+
+— identify genotoxic carcinogens at an early stage,
+
+— elucidate the mechanism of action of some carcinogens.
+
+Appropriate dose levels, depending on the test requirements, shall be used in either in vitro or in vivo assays. A tiered approach shall be adopted, with selection of higher tier tests being dependent upon interpretation of results at each stage.
+
+Special testing requirements in relation to photomutagenicity may be indicated by the structure of a molecule. If the Ultraviolet/visible molar extinction/absorption coefficient of the active substance and its major metabolites is less than 1 000 L × mol–1 × cm–1, photomutagenicity testing is not required.
+
+5.4.1. In vitro studies
+
+Circumstances in which required
+
+The following in vitro mutagenicity tests shall be performed: bacterial assay for gene mutation, combined test for structural and numerical chromosome aberrations in mammalian cells and test for gene mutation in mammalian cells.
+
+However, if gene mutation and clastogenicity/aneuploidy are detected in a battery of tests consisting of Ames and in vitro micronucleus (IVM), no further in vitro testing needs to be conducted.
+
+If there are indications of micronucleus formation in an in vitro micronucleus assay further testing with appropriate staining procedures shall be conducted to clarify if there is an aneugenic or clastogenic response. Further investigation of the aneugenic response may be considered to determine whether there is sufficient evidence for a threshold mechanism and threshold concentration for the aneugenic response (particularly for non-disjunction).
+
+Active substances which display highly bacteriostatic properties as demonstrated in a range finding test shall be tested in two different in vitro mammalian cell tests for gene mutation. Non performance of the Ames test shall be justified.
+
+For active substances bearing structural alerts that have given negative results in the standard test battery, additional testing may be required if the standard tests have not been optimised for these alerts. The choice of additional study or study plan modifications depends on the chemical nature, the known reactivity and the metabolism data on the structurally alerting active substance.
+
+5.4.2. In vivo studies in somatic cells
+
+Circumstances in which required
+
+If all the results of the in vitro studies are negative, at least one in vivo study shall be done with demonstration of exposure to the test tissue (such as cell toxicity or toxicokinetic data), unless valid in vivo micronucleus data are generated within a repeat dose study and the in vivo micronucleus test is the appropriate test to be conducted to address this information requirement.
+
+A negative result in the first in vivo test in somatic cells shall provide sufficient reassurance for active substances that are negative in the three in vitro tests.
+
+For active substances for which an equivocal or a positive test result is obtained in any in vitro test, the nature of additional testing needed shall be considered on a case-by-case basis taking into account all relevant information using the same endpoint as in the in vitro test.
+
+If the in vitro mammalian chromosome aberration test or the in vitro micronucleus test is positive for clastogenicity, an in vivo test for clastogenicity using somatic cells such as metaphase analysis in rodent bone marrow or micronucleus test in rodents shall be conducted.
+
+If the in vitro micronucleus test for numerical chromosome aberrations on mammalian cells is positive or the in vitro mammalian chromosome test is positive for numerical chromosome changes, an in vivo micronucleus test shall be conducted. In case of positive result in the in vivo micronucleus assay, appropriate staining procedure such as fluorescence in-situ hybridisation (FISH) shall be used to identify an aneugenic and/or clastogenic response.
+
+If either of the in vitro gene mutation tests is positive, an in vivo test to investigate the induction of gene mutation shall be conducted, such as the Transgenic Rodent Somatic and Germ Cell Gene Mutation Assay.
+
+When conducting in vivo genotoxicity studies, only relevant exposure routes and methods (such as admixture to diet, drinking water, skin application, inhalation and gavage) shall be used. There shall be convincing evidence that the relevant tissue will be reached by the chosen exposure route and application method. Other exposure techniques (such as intraperitoneal or subcutaneous injection) that are likely to result in abnormal kinetics, distribution and metabolism shall be justified.
+
+Consideration shall be given to conducting an in vivo test as part of one of the short-term toxicity studies described under point 5.3.
+
+5.4.3. In vivo studies in germ cells
+
+Circumstances in which required
+
+The necessity for conducting these tests shall be considered on a case by case basis, taking into account information regarding toxicokinetics, use and anticipated exposure.
+
+For most of the active substances recognised as in vivo somatic cell mutagens no further genotoxicity testing shall be necessary since they will be considered to be potential genotoxic carcinogens and potential germ cell mutagens.
+
+However, in some specific cases germ cells studies may be undertaken to demonstrate whether a somatic cell mutagen is or is not a germ cell mutagen.
+
+The type of mutation produced in earlier studies namely gene, numerical chromosome or structural chromosome changes, shall be considered when selecting the appropriate assay.
+
+A study for the presence of DNA adducts in gonad cells may also be considered.
+
+**5.5. Long-term toxicity and carcinogenicity**
+
+The results of the long-term studies conducted and reported, taken together with other relevant data and information on the active substance, shall be sufficient to permit the identification of effects, following repeated exposure to the active substance, and in particular shall be sufficient to:
+
+— identify adverse effects resulting from long-term exposure to the active substance,
+
+— identify target organs, where relevant,
+
+— establish the dose-response relationship,
+
+— establish the NOAEL and, if necessary, other appropriate reference points.
+
+Correspondingly, the results of the carcinogenicity studies taken together with other relevant data and information on the active substance, shall be sufficient to permit the evaluation of hazards for humans, following repeated exposure to the active substance, and in particular shall be sufficient:
+
+(a) to identify carcinogenic effects resulting from long-term exposure to the active substance;
+
+(b) to establish the species, sex, and organ specificity of tumours induced;
+
+(c) to establish the dose-response relationship;
+
+(d) where possible, to identify the maximum dose eliciting no carcinogenic effect;
+
+(e) where possible, to determine the mode of action and human relevance of any identified carcinogenic response.
+
+Circumstances in which required
+
+The long-term toxicity and carcinogenicity of all active substances shall be determined. If in exceptional circumstances it is claimed that such testing is unnecessary, that claim shall be fully justified.
+
+Test conditions
+
+A long-term oral toxicity study and a long-term carcinogenicity study (two years) of the active substance shall be conducted using rat as test species; where possible these studies shall be combined.
+
+A second carcinogenicity study of the active substance shall be conducted using mouse as test species, unless it can be scientifically justified that this is not necessary. In such cases, scientifically validated alternative carcinogenicity models may be used instead of a second carcinogenicity study.
+
+If comparative metabolism data indicate that either rat or mouse is an inappropriate model for human cancer risk assessment, an alternative species shall be considered.
+
+Experimental data, including the elucidation of the possible mode of action involved and relevance to humans, shall be provided where the mode of action for carcinogenicity is considered to be non-genotoxic.
+
+Where submitted, historical control data shall be from the same species and strain, maintained under similar conditions in the same laboratory and shall be from contemporaneous studies. Additional historical control data from other laboratories may be reported separately as supplementary information.
+
+The information on historical control data provided shall include:
+
+(a) identification of species and strain, name of the supplier, and specific colony identification, if the supplier has more than one geographical location;
+
+(b) name of the laboratory and the dates when the study was performed;
+
+(c) description of the general conditions under which animals were maintained, including the type or brand of diet and, where possible, the amount consumed;
+
+(d) approximate age, in days, and weight of the control animals at the beginning of the study and at the time of killing or death;
+
+(e) description of the control group mortality pattern observed during or at the end of the study, and other pertinent observations (such as diseases, infections);
+
+(f) name of the laboratory and the examining scientists responsible for gathering and interpreting the pathological data from the study;
+
+(g) a statement of the nature of the tumours that may have been combined to produce any of the incidence data.
+
+The historical control data shall be presented on a study by study basis giving absolute values plus percentage and relative or transformed values where these are helpful in the evaluation. If combined or summary data are submitted, these shall contain information on the range of values, the mean, median and, if applicable, standard deviation.
+
+The doses tested, including the highest dose tested, shall be selected on the basis of the results of short-term testing and where available at the time of planning the studies concerned, on the basis of metabolism and toxicokinetic data. Dose selection should consider toxicokinetic data such as saturation of absorption measured by systemic availability of active substance and/or metabolites.
+
+Doses, causing excessive toxicity shall not be considered relevant to evaluations to be made. Determination of blood concentration of the active substance (for example around Tmax) shall be considered in long-term studies.
+
+In the collection of data and compilation of reports, incidence of benign and malignant tumours shall not be combined. Dissimilar, un-associated tumours, whether benign or malignant, occurring in the same organ, shall not be combined for reporting purposes.
+
+In the interests of avoiding confusion, conventional histopathological terminology commonly used when the study is conducted such as that published by the International Agency for Research on Cancer shall be used in the nomenclature and reporting of tumours. The system used shall be identified.
+
+Biological material selected for histopathological examination shall include material selected to provide further information on lesions identified during gross pathological examination. Where relevant to the elucidation of mechanism of action and available, special histological (staining) techniques, histochemical techniques and electron microscopic examinations, might be of value, and when conducted, shall be reported.
+
+**5.6. Reproductive toxicity**
+
+Possible effects on reproductive physiology and the development of progeny shall be investigated and reported concerning the following aspects:
+
+— Impairment of male and female reproductive functions or capacity, for example from effects on oestrus cycle, sexual behaviour, any aspect of spermatogenesis or oogenesis, or hormonal activity or physiological response which would interfere with the capacity to fertilise, fertilisation itself or development of the fertilised ovum up to and including implantation.
+
+— Harmful effects on the progeny, for example any effect interfering with normal development, both before and after birth. This includes morphological malformations such as anogenital distance, nipple retention, and functional disturbances (such as reproductive and neurological effects).
+
+Effects accentuated over generations shall be reported.
+
+The active substance and its relevant metabolites shall be measured in milk as a second tier investigation where relevant effects are observed in the offspring or are expected (for example from a range-finding study).
+
+Potential neurotoxic, immunotoxic effects and effects potentially related to changes in the hormonal system shall be carefully addressed and reported.
+
+Investigations shall take account of all available and relevant data, including the results of general toxicity studies if relevant parameters (such as semen analysis, oestrous cyclicity, reproductive organ histopathology) are included, as well as knowledge concerning structural analogues to the active substance.
+
+While the standard reference point for treatment responses shall be concurrent control data, historical control data may be helpful in the interpretation of particular reproductive studies. Where submitted, historical control data shall be from the same species and strain, maintained under similar conditions in the same laboratory and shall be from contemporaneous studies.
+
+The information on historical control data provided shall include:
+
+(a) identification of species and strain, name of the supplier, and specific colony identification, if the supplier has more than one geographical location;
+
+(b) name of the laboratory and the dates when the study was performed;
+
+(c) description of the general conditions under which animals were maintained, including the type or brand of diet and, where possible, the amount consumed;
+
+(d) approximate age, in days, and weight of the control animals at the beginning of the study and at the time of killing or death;
+
+(e) description of the control group mortality pattern observed during or at the end of the study, and other pertinent observations (such as diseases, infections);
+
+(f) name of the laboratory and the examining scientists responsible for gathering and interpreting the pathological data from the study.
+
+The historical control data shall be presented on a study by study basis giving absolute values plus percentage and relative or transformed values where these are helpful in the evaluation. If combined or summary data are submitted, these shall contain information on the range of values, the mean, median and, if applicable, standard deviation.
+
+In order to provide useful information in the design and interpretation of developmental toxicity studies, information on blood concentration of the active substance in parents and foetus/offspring may be included in higher tier studies and reported.
+
+5.6.1. Generational studies
+
+The generational studies reported, taken together with other relevant data and information on the active substance, shall be sufficient to permit the identification of effects for reproduction, following repeated exposure to the active substance, and in particular shall be sufficient:
+
+(a) to identify direct and indirect effects on reproduction resulting from exposure to the active substance;
+
+(b) to identify any non-reproductive adverse effects occurring at lower doses than in short-term and chronic toxicity testing;
+
+(c) to establish the NOAELs for parental toxicity, reproductive outcome and pup development.
+
+Circumstances in which required
+
+A reproduction toxicity study in rats over at least two generations shall be reported.
+
+The OECD extended one-generation reproductive toxicity study may be considered as an alternative approach to the multi-generation study.
+
+Where necessary for a better interpretation of the effects on reproduction and as far as this information is not yet available, supplementary studies may be required to provide information on the affected gender and the possible mechanisms.
+
+5.6.2. Developmental toxicity studies
+
+The developmental toxicity studies reported, taken together with other relevant data and information on the active substance, shall be sufficient to permit the assessment of effects on embryonic and foetal development, following repeated exposure to the active substance, and in particular shall be sufficient:
+
+(a) to identify direct and indirect effects on embryonic and foetal development resulting from exposure to the active substance;
+
+(b) to identify any maternal toxicity;
+
+(c) to establish the relationship between observed responses and dose in both dam and offspring;
+
+(d) to establish NOAELs for maternal toxicity and pup development;
+
+(e) to provide additional information on adverse effects in pregnant as compared with non-pregnant females;
+
+(f) to provide additional information on any enhancement of general toxic effects of pregnant animals.
+
+Circumstances in which required
+
+Developmental toxicity studies shall always be carried out.
+
+Test conditions
+
+Developmental toxicity shall be determined for rat and rabbit by the oral route; the rat study shall not be conducted if developmental toxicity has been adequately assessed as part of an extended one-generation reproductive toxicity study.
+
+Additional routes may be useful in human risk assessment. Malformations and variations shall be reported separately and combined in such a way that all relevant changes which are observed to occur in characteristic patterns in individual foetuses or those that can be considered to represent different grades of severity of the same type of change are reported in a concise manner.
+
+Diagnostic criteria for malformations and variations shall be given in the report. The glossary of terminology under development by the International Federation of Teratology Societies shall be considered where possible.
+
+When indicated by observations in other studies or the mode of action of the test substance, supplementary studies or information may be required to provide information on the postnatal manifestation of effects such as developmental neurotoxicity.
+
+**5.7. Neurotoxicity studies**
+
+5.7.1. Neurotoxicity studies in rodents
+
+Neurotoxicity studies in rodents shall provide sufficient data to evaluate the potential neurotoxicity of the active substance (neurobehavioural and neuropathological effects) after single and repeated exposure.
+
+Circumstances in which required
+
+Such studies shall be performed for active substances with structures that are similar or related to those capable of inducing neurotoxicity, and for active substances which induce specific indications of potential neurotoxicity, neurological signs or neuropathological lesions in toxicity studies at dose levels not associated with marked general toxicity. Performance of such studies shall also be considered for substances with a neurotoxic mode of pesticidal action.
+
+Consideration shall be given to including neurotoxicity investigations in routine toxicology studies.
+
+5.7.2. Delayed polyneuropathy studies
+
+Delayed polyneuropathy studies shall provide sufficient data to evaluate if the active substance may provoke delayed polyneuropathy after acute and repeated exposure. A repeated exposure study may be waived unless there are indications that the compound accumulates and significant inhibition of neuropathy target esterase or clinical/histopathological signs of delayed polyneuropathy occur at around the hen LD50 as determined in the single dose test.
+
+Circumstances in which required
+
+These studies shall be performed for active substances of similar or related structures to those capable of inducing delayed polyneuropathy such as organophosphorus compounds.
+
+**5.8. Other toxicological studies**
+
+5.8.1. Toxicity studies of metabolites
+
+Supplementary studies, where they relate to substances other than the active substance, are not a routine requirement. Decisions as to the need for supplementary studies shall be made on a case by case basis.
+
+Where as a result of metabolism or other processes, metabolites from plants or in animal products, soil, groundwater, open air differ from those in animals used for the toxicology studies or are detected in low proportions in animals, further testing shall be carried out on a case by case basis, taking into account the amount of metabolite and the chemical structure of the metabolite compared to the parent.
+
+5.8.2. Supplementary studies on the active substance
+
+Supplementary studies shall be carried out where they are necessary to further clarify observed effects taking into account the results of the available toxicological and metabolism studies and the most important exposure routes. Such studies may include:
+
+(a) studies on absorption, distribution, excretion and metabolism, in a second species;
+
+(b) studies on the immunotoxicological potential;
+
+(c) a targeted single dose study to derive appropriate acute reference values (ARfD, aAOEL);
+
+(d) studies on other routes of administration;
+
+(e) studies on the carcinogenic potential;
+
+(f) studies on mixture effects.
+
+Studies required shall be designed on an individual basis, in the light of the particular parameters to be investigated and the objectives to be achieved.
+
+5.8.3. Endocrine disrupting properties
+
+If there is evidence that the active substance may have endocrine disrupting properties, additional information or specific studies shall be required:
+
+— to elucidate the mode/mechanism of action,
+
+— to provide sufficient evidence for relevant adverse effects.
+
+Studies required shall be designed on an individual basis and taking into account Union or internationally agreed guidelines, in the light of the particular parameters to be investigated and the objectives to be achieved.
+
+**5.9. Medical data**
+
+Where available and without prejudice to Article 10 of Council Directive 98/24/EC ( 13 ), practical data and information relevant to the recognition of the symptoms of poisoning and on the effectiveness of first aid and therapeutic measures shall be submitted. Such data and information shall include reports of any studies investigating antidote pharmacology or safety pharmacology. Where relevant, the effectiveness of potential antagonists to poisoning shall be investigated and reported.
+
+Data and information relevant to the effects of human exposure, where available, shall be used to confirm the validity of extrapolations made and conclusions reached with respect to target organs, dose-response relationships, and the reversibility of adverse effects. Such data may be generated following accidental, occupational exposure or incidents of intentional self-poisoning, and shall be reported if available.
+
+5.9.1. Medical surveillance on manufacturing plant personnel and monitoring studies
+
+Reports of occupational health surveillance programs and of monitoring studies shall be submitted, supported with detailed information on the design of the programme, the number of exposed persons included in the programme, the nature of their exposure to the active substance, and their exposure to other potentially hazardous agents. Such reports shall, where feasible, include data relevant to the mechanism of action of the active substance. These reports shall, where available, include data from persons exposed in manufacturing plants, or during or after application of the active substance (for example from monitoring studies in operators, workers, residents, bystanders or victims of accidents). Available information on adverse health effects including allergenic responses in workers and others exposed to the active substance, shall be provided, and include where relevant details of any incident. The information provided shall, where available, include details of frequency, level and duration of exposure, symptoms observed and other relevant clinical information.
+
+5.9.2. Data collected on humans
+
+Where available, reports from studies with humans, such as tests on toxicokinetics and metabolism, or tests on skin irritation or skin sensitisation, shall be submitted.
+
+In general, the reference values shall be based on animal studies, but if appropriate scientifically valid and ethically generated human data are available and show that humans are more sensitive and lead to lower regulatory limit values, these data shall take precedence over animal data.
+
+5.9.3. Direct observations
+
+Available reports from the open literature, relating to clinical cases and poisoning incidents, where they are from refereed journals or official reports, shall be submitted together with reports of any follow-up studies undertaken. Such reports shall, where available, contain complete descriptions of the nature, level and duration of exposure, as well as the clinical symptoms observed, first aid and therapeutic measures applied and measurements and observations made.
+
+Where supported with the necessary level of detail, such documentation shall be used to confirm the validity of extrapolations from animal data to man and to identify unexpected adverse effects which are specific to humans.
+
+5.9.4. Epidemiological studies
+
+Relevant epidemiological studies shall be submitted, where available.
+
+5.9.5. Diagnosis of poisoning (determination of active substance, metabolites), specific signs of poisoning, clinical tests
+
+Where available, detailed description of the clinical signs and symptoms of poisoning, including the early signs and symptoms and full details of clinical tests useful for diagnostic purposes shall be provided including full details of the time courses involved relevant to the ingestion, dermal exposure or inhalation of varying amounts of the active substance.
+
+5.9.6. Proposed treatment: first aid measures, antidotes, medical treatment
+
+First aid measures to be used in the event of poisoning (actual and suspected) and in the event of contamination of eyes shall be provided. Therapeutic regimes for use in the event of poisoning or contamination of eyes, including where available the use of antidotes, shall be described in full. Information based on practical experience, where it exists and is available, in other cases on theoretical grounds, as to the effectiveness of alternative treatment regimes, where relevant, shall be provided. Contraindications associated with particular regimes, particularly those relating to 'general medical problems' and conditions, shall be described.
+
+5.9.7. Expected effects of poisoning
+
+Where known, the expected effects and the duration of these effects following poisoning shall be described. That description shall include the impact of:
+
+— the type, level and duration of exposure, or ingestion, and
+
+— varying time periods between exposure, or ingestion, and commencement of treatment.
+
+**SECTION 6**
+
+**Residues in or on treated products, food and feed**
+
+**6.1. Storage stability of residues**
+
+Studies concerning storage stability of residues shall investigate the stability of residues in plants, plant products and products of animal origin during storage prior to analysis.
+
+Circumstances in which required
+
+Provided that samples are frozen within 24 hours after sampling and unless a compound is otherwise known to be volatile or labile, stability data shall not be required for samples extracted and analysed within 30 days from sampling (six months in the case of radio-labelled material).
+
+The stability of extracts shall be investigated if extracts are not analysed immediately.
+
+Test conditions
+
+Studies with non-radio-labelled active substances shall be carried out with representative substrates. They may be either performed on samples from treated crops or animals with incurred residues or by fortification experiments. In the latter case, aliquots of prepared control samples shall be spiked with a known amount of chemical before storage under normal storage conditions.
+
+The studies shall address stability of individual components of the residue definition relevant to risk assessment, which may require spiking different samples with different analytes. In case of different analytical targets (for example targeting either single compounds or a common moiety) more than one set of storage stability data may be needed.
+
+The duration of the stability studies shall be suitable to address the length over which the samples or extracts have been stored in the corresponding studies.
+
+Detailed information with respect to the sample preparation and storage conditions (temperature and duration) of samples and extracts shall be submitted. Where the degradation during storage is significant (more than 30%) a change in the storage conditions or not storing the samples prior to analysis shall be considered. All studies where unsatisfactory storage conditions were used shall be repeated.
+
+Storage stability data using sample extracts shall also be required unless samples are analysed within 24 hours of extraction.
+
+Results shall be presented as absolute values in mg/kg and not adjusted by recovery, as well as percentage of nominal spike value.
+
+**6.2. Metabolism, distribution and expression of residues**
+
+Data on metabolism representative for existing or intended good agricultural practices (GAPs) shall be provided, together with a schematic diagram of the metabolic pathways in plants and animals with a brief explanation of the distribution and chemical reactions involved. These studies shall be conducted with one or more radio-labelled forms of the active substance and, where relevant, stereoisomer forms of the active substance and its metabolites. For plant extracts, a different approach may be taken if adequately justified.
+
+For plants, the objectives of these studies shall be:
+
+(a) to provide an estimate of total terminal residues in the relevant portion of crops at harvest following treatment as proposed;
+
+(b) to identify the major components of the total terminal residue;
+
+(c) to indicate the distribution of residues between relevant crops parts;
+
+(d) to quantify the major components of the residue and to show the efficiency of extraction procedures for these components;
+
+(e) to characterise and quantify conjugated and bound residues;
+
+(f) to indicate the components to be analysed for in residue quantification studies (crop residue studies).
+
+For food producing animals, the objectives of these studies shall be:
+
+(a) to provide an estimate of total terminal residues in edible animal products;
+
+(b) to identify the major components of the total terminal residue in edible animal products;
+
+(c) to indicate the distribution of residues between relevant edible animal products;
+
+(d) to provide evidence whether or not a residue should be classified as fat soluble;
+
+(e) to quantify the total residue in certain animal products (milk or eggs) and excreta;
+
+(f) to quantify the major components of the residue and to show the efficiency of extraction procedures for these components;
+
+(g) to characterise and quantify conjugated and bound residues;
+
+(h) to indicate the components to be analysed for in residue quantification studies (livestock feeding studies);
+
+(i) to generate data from which a decision on the need for feeding studies on food producing animals can be made.
+
+The results of the metabolism study conducted with poultry, normally laying hens, shall be extrapolated to all food producing poultry whereas the results of the metabolism study conducted with ruminants, normally lactating goats and, where necessary, with pigs, shall be extrapolated to all food producing mammals.
+
+Metabolites not found in the ADME studies or that cannot be explained as intermediates, but identified in metabolism/transformation studies (plant, food producing animals, processing and rotational crops) shall be considered relevant for the consumer risk assessment, unless it can be demonstrated by scientific evidence (such as structure-activity relationship, toxicological bridging studies) that, also in view of their concentration, they cause no potential risks to the consumer.
+
+6.2.1. Plants
+
+Circumstances in which required
+
+Studies on plants shall be performed unless no part of the plants or plant products will be used as food or feed material or unless a ‘zero’ residue situation applies (such as bait applications).
+
+Test conditions
+
+The intended method of application (such as seed treatment, soil/foliar spraying, dipping, fogging) and the properties of the active substance (such as systemic properties or volatility) shall be taken into account when planning metabolism studies. Metabolism studies have to involve crops from different categories of crops in which plant protection products containing the active substance in question would be used. For this purpose crops shall be considered as falling into one of the following categories:
+
+(a) fruit (code F);
+
+(b) root crops (code R);
+
+(c) leafy crops (code L);
+
+(d) cereal/grass crops (code C/G);
+
+(e) pulses and oilseeds (code P/O);
+
+(f) miscellaneous.
+
+The category ‘miscellaneous’ shall only be used on a case by case basis.
+
+A metabolism study shall be submitted for each type of crop group for which use is proposed. In order to extrapolate results from metabolism studies with an active substance to all crop groups, metabolism studies on a minimum of three representative crops (from the different crop groups except ‘miscellaneous’) shall be conducted. If the results of these three studies indicate a comparable metabolic route (qualitatively and to a lesser extent quantitatively), then additional studies shall not be needed. If the results from the available studies from three of these categories indicate that the route of degradation is not similar in all three categories, studies from the remaining categories except ‘miscellaneous’ shall be provided.
+
+If authorisation is sought for one crop group only, metabolism studies in one crop from that crop group shall be sufficient as long as the crop is truly representative of the crop group and the metabolic pathway is elucidated.
+
+The studies shall reflect the intended use pattern of the active ingredient such as foliar, soil/seed or post-harvest treatments. If, for instance, three studies have been conducted using foliar application and at a later date soil application (such as seed treatment, granular or soil drench) is proposed, then at least one additional study reflecting soil application shall be conducted. The applicant shall discuss with the national competent authorities the possible replacement of a foliar study with a post-harvest study.
+
+An evaluation of the results from different studies shall be submitted on:
+
+(a) the site of uptake (for example via leaves or roots);
+
+(b) the formation of metabolites and breakdown products;
+
+(c) the distribution of residues between relevant parts of the crop at harvest (with particular emphasis on food and feed);
+
+(d) the metabolic pathways.
+
+If studies show that the active substance or relevant metabolites or breakdown products are not taken up by the crop, a rationale shall be given.
+
+6.2.2. Poultry
+
+Circumstances in which required
+
+Metabolism studies on poultry shall be provided where the plant protection product is to be used in crops whose parts or products, also after processing, are fed to poultry and where the intake is expected to exceed 0,004 mg/kg bw/day ( 14 ).
+
+Test conditions
+
+Studies shall be carried out in laying hens.
+
+Dose rates shall be at least equivalent to the likely maximum daily exposure resulting from all intended uses.
+
+If the identification of metabolites cannot be carried out with dose rates of 10 mg/kg feed (dry matter), higher doses may be used.
+
+If no feeding studies are carried out, plateau levels in eggs shall be demonstrated in the metabolism study taking into account that plateau levels usually occur no later than 14 days from the beginning of dosing in laying poultry.
+
+6.2.3. Lactating ruminants
+
+Circumstances in which required
+
+Metabolism studies on lactating ruminants shall be provided where the plant protection product is to be used in crops whose parts or products, also after processing, are fed to ruminants and where the intake is expected to exceed 0,004 mg/kg bw/day.
+
+Test conditions
+
+Studies shall be carried out in lactating goats, where available, or in lactating cows as an alternative.
+
+Dose rates shall at least be equivalent to the likely maximum daily exposure resulting from all intended uses.
+
+If the identification of main metabolites cannot be carried out with dose rates of 10 mg/kg feed (dry matter), higher doses may be used.
+
+If no feeding studies are carried out, plateau levels in milk shall be demonstrated in the metabolism study taking into account that plateau levels usually occur five to seven days after the beginning of dosing in lactating ruminants.
+
+6.2.4. Pigs
+
+Circumstances in which required
+
+Metabolism studies on pigs shall be provided where the plant protection product is used in crops whose parts or products, also after processing, are fed to pigs and where it becomes apparent that metabolic pathways differ significantly in the rat as compared to ruminants and where the intake is expected to exceed 0,004 mg/kg bw/day.
+
+Test conditions
+
+Studies shall be carried out in pigs.
+
+Dose rates shall at least be equivalent to the likely maximum daily exposure resulting from all intended uses.
+
+If the identification of metabolites cannot be carried out with dose rates of 10 mg/kg feed (dry matter), higher doses may be used.
+
+The duration of this study shall be the same as for lactating ruminants.
+
+6.2.5. Fish
+
+Circumstances in which required
+
+Metabolism studies on fish may be required where the plant protection product is used in crops whose parts or products, also after processing, are fed to fish and where residues in feed may occur from the intended applications.
+
+Results from studies provided for under point 8.2.2.3 may be used if it can be demonstrated with scientific evidence that the results of these studies may be assumed to be equivalent. Special consideration shall be given to the different routes of ingestion.
+
+**6.3. Magnitude of residue trials in plants**
+
+The objectives of magnitude of residue trials in plants shall be the following:
+
+— to quantify the highest likely residue levels of all components of the different residue definitions in treated crops, at harvest or outloading from store, in accordance with the proposed GAP, and
+
+— to determine, where appropriate, the decline rate of plant protection product residues in plants.
+
+Circumstances in which required
+
+These studies shall always be performed where the plant protection product is to be applied to plants or plant products that are used as food or feed or where residues from soil or other substrates can be taken up by such plants except where extrapolation from adequate data on another crop is possible.
+
+When planning residue trials, it shall be borne in mind that information on the residues in ripe or unripe crops may be of interest with respect to the risk assessment in other areas like ecotoxicology or worker safety.
+
+Test conditions
+
+Supervised residue trials shall correspond to the proposed critical GAP. The test conditions (such as maximum number of proposed applications, shortest interval between applications, maximum application rate and concentration, most critical safety intervals ( 15 ) with regard to exposure) shall be defined to identify the highest residues which may reasonably arise and shall be representative of the realistic conditions at the critical GAP in which the active substance is to be used.
+
+When establishing a supervised residue trial programme, factors such as main growing areas and the range of conditions, likely to be encountered in the main growing areas concerned shall be considered.
+
+Differences in agricultural production methods (for example outdoor versus indoor uses), seasons of production and types of formulations shall be taken into account.
+
+For the evaluation of residue behaviour and the setting of maximum residue levels (MRLs) according to Regulation (EC) No 396/2005, the Union shall be divided into two zones, a Northern European and a Southern European zone. For the purpose of use in greenhouses, as post-harvest treatment and for treatment of empty storage rooms, one residue zone shall apply.
+
+The number of trials necessary is difficult to determine before the evaluation of their results. Assuming all other variables having an impact on the residue levels are comparable, the minimum number of trials shall vary for each residue zone between a minimum of 4 trials for a minor crop and a minimum of 8 trials for a major crop.
+
+However, if the GAP is the same in both residue zones, 6 trials equally distributed in the representative growing zones are normally sufficient for a minor crop.
+
+The number of studies to be performed may be reduced if residue trials show that the residue levels in plants or plant products are lower than the LOQ. The number of trials shall not be below the minimum of three per zone for minor crops and four per zone for major crops.
+
+In cases were a ‘zero’ residue situation is predicted from representative plant metabolism studies, three trials shall be performed for commodities significant in diet. No trials shall be required for commodities insignificant in diet. A ‘zero’ residue situation shall be predicted where no detectable residues occur in studies with exaggerated application rates compared to the envisaged ones.
+
+Provided that conditions are comparable and that trials are widely spread over different zones, it shall be sufficient to carry out trials over one growing season.
+
+Part of the trials may be replaced by trials performed outside the Union, provided that they correspond to the critical GAP and that the production conditions (such as cultural practices, climatic conditions) are comparable.
+
+Trials showing the residue behaviour in post-harvest treatments shall be carried out at different locations with different cultivars. A set of trials shall be carried out for each application method and storage condition, unless the worst case residue situation can be clearly identified.
+
+Where a plant protection product has both a field use and an indoor use with the same GAP, a full data package shall be submitted for both situations, unless it is already accepted that one use is the critical GAP.
+
+It shall be checked on a case-by-case basis, taking into account plant morphology and application conditions, whether extrapolation from the crop used for the metabolism study to other crops belonging to the same crop group is possible.
+
+Where a significant part of the consumable commodity is present at the time of application, half of the supervised residue trials reported shall include data to show the effect of time on the level of residue present (residue decline studies), unless the consumable part is not exposed during application of the plant protection product under the proposed conditions of use. For crops harvested after blossom (such as fruits or fruiting vegetables) a significant part of the consumable crop is present from full blossom (BBCH 65) onwards. In case of most crops from which leafy parts are harvested (for example lettuce), this condition is satisfied if 6 true leaves, leaf pairs or whorls are unfolded (BBCH 16).
+
+In case of an active substance for which an ARfD has been derived, the distribution of residues among single units may be investigated through variability studies. If a sufficient number of results is available, the default variability factor may be replaced by a specific factor derived from these studies.
+
+**6.4. Feeding studies**
+
+The objective of feeding studies shall be to determine residues in products of animal origin which result from residues in feed.
+
+The results from a feeding study conducted with laying hens shall be extrapolated to all food producing poultry. The results from a feeding study with lactating cows and, where necessary, with pigs shall be extrapolated to all food producing mammals.
+
+Circumstances in which required
+
+Feeding studies shall be provided where metabolism studies indicate that residues at levels of above 0,01 mg/kg may occur in edible animal tissue, milk, eggs or fish, taking into account the residue levels in potential feeding stuffs, obtained at the 1 × dose rate, calculated on the dry weight basis.
+
+Feeding studies shall not be required where intake is below 0,004 mg/kg bw/day, except in cases where the residue, that is to say the active substance, its metabolites or breakdown products, as defined in the residue definition for risk assessment, tends to accumulate.
+
+6.4.1. Poultry
+
+Poultry feeding studies shall be carried out in laying hens. For each treatment regime chosen a minimum of nine chickens should be treated.
+
+In general, the feed shall be administered in three dosages (first dose = expected residue level). The animals shall be dosed for a minimum of 28 days or until plateau level is reached in eggs.
+
+6.4.2. Ruminants
+
+Ruminant feeding studies shall be carried out in lactating cows. For each treatment regime chosen, a minimum of three dairy cows shall be treated.
+
+In general, the feed shall be administered in three dosages (first dose = expected residue level). The animals shall be dosed for a minimum of 28 days or until plateau level is reached in milk.
+
+6.4.3. Pigs
+
+Where it appears from the metabolism studies that metabolic pathways differ significantly in pigs as compared to ruminants, a pig feeding study may be conducted. For each treatment regime chosen a minimum of three pigs shall be treated.
+
+In general, the feed shall be administered in three dosages (first dose = expected residue level). The animals shall be dosed for at least the same time as ruminants.
+
+6.4.4. Fish
+
+A fish feeding study may be required where residues at levels above 0,01 mg/kg may be reasonably expected in edible tissues, based on the findings of the fish metabolism study and the estimated maximum residues which might occur in fish feed. Particular attention should be laid on lipophilic substances with an intrinsic tendency for accumulation.
+
+**6.5. Effects of processing**
+
+6.5.1. Nature of the residue
+
+The objective of studies on the nature of the residue shall be to establish whether or not breakdown or reaction products arise from residues in the raw agricultural commodity during processing, which may require a separate risk assessment.
+
+Circumstances in which required
+
+Studies on the nature of residues in processing shall be provided where residues in products of plant or animal origin subject to processing may occur at a level of or higher than 0,01 mg/kg (based on the residue definition for risk assessment for the raw commodity). No studies shall, however, be required in the following cases:
+
+— substances with a water solubility &lt; 0,01 mg/L;
+
+— only simple physical operations, not involving a change in temperature of the commodity are carried out, such as washing, trimming or pressing; or
+
+— the distribution of residues between pulp and inedible peel is the only effect of processing.
+
+Test conditions
+
+Depending upon the expected level and chemical nature of the residue in the product of plant or animal origin, a set of representative hydrolysis situations simulating the relevant processing operations shall be investigated, where appropriate. Consideration shall also be given to the effects of processes other than hydrolysis and the potential for the formation of toxicologically significant breakdown products.
+
+The studies shall be conducted with one or more radio-labelled forms of the relevant substance.
+
+6.5.2. Distribution of the residue in inedible peel and pulp
+
+The objectives of studies concerning distribution of the residue in inedible peel and pulp shall be:
+
+— to determine the quantitative distribution of residues between inedible peel and pulp,
+
+— to estimate peeling factors, and
+
+— to allow a more realistic estimation of dietary intake of residues.
+
+Circumstances in which required
+
+These studies shall be provided for plant products where the peel is either inedible (such as melons, bananas) or is very rarely entirely eaten by consumers (such as citrus fruit).
+
+Test conditions
+
+These studies shall be performed as part of supervised residue trials, the number of results reported depending on the number of residue trials conducted. Special attention shall be paid to possible contamination of the pulp. Precautionary measures shall be taken in order to quantify a realistic highest residue level.
+
+6.5.3. Magnitude of residues in processed commodities
+
+The main objectives of studies concerning magnitude of residues in processed commodities shall be:
+
+— to determine the quantitative distribution of residues in the various processed commodities used as food or feed,
+
+— to estimate processing factors, and
+
+— to allow a more realistic estimation of dietary intake of residues.
+
+Circumstances in which required
+
+The following points shall be taken into consideration when deciding whether it is necessary to carry out processing studies:
+
+(a) the dietary burden of a processed product in the human (such as apples) or animal diet (such as apple pomace);
+
+(b) the level of residue in the plant or plant product to be processed (normally ≥ 0,1 mg/kg);
+
+(c) the physical and chemical properties of the active substance and its relevant metabolites (such as fat-solubility in case of oil seed processing); and
+
+(d) the possibility that breakdown products of toxicological significance may occur after processing of the plant or plant product.
+
+If the level of residues is less than 0,1 mg/kg, processing studies shall be carried out if the contribution of the commodity under consideration to the theoretical maximum daily intake (TMDI) is ≥ 10 % of the ADI or if the estimated daily intake is ≥ 10 % of the ARfD for any European consumer group diet.
+
+Processing studies shall not be required if plants or plant products are exclusively used raw (unprocessed) for food and feed purposes.
+
+In some cases, a simple calculation shall be sufficient to determine the processing factor such as concentration from dehydration or dilution factors, as long as the process under consideration is not expected to have an influence on the nature of residues.
+
+Industrial processing
+
+If the properties of the active substance, the impurity or the metabolite, as appropriate, indicate that it might concentrate in a given processed fraction, then a processing study shall be necessary even in situations where the residue in the plant or plant product to be processed is lower than 0,1 mg/kg. In such cases, exaggerated application rates up to 5 × or shortened PHIs shall be applied where necessary to achieve a quantifiable residue in the plant or plant product to be processed. A processing study shall not be required if exaggerated application rates (up to 5 ×) fail to yield a quantifiable residue in the plant or plant product to be processed. Phytotoxicity shall be considered when contemplating exaggerated rate treatments.
+
+Domestic processing
+
+For domestic or home transformation processes and minor industrial ones, when no residues are found at or above 0,1 mg/kg in the raw agricultural commodity at recommended GAP from supervised field trials conducted at the maximum label rate and minimum PHI, no processing studies shall be required.
+
+Test conditions
+
+Processing studies shall represent domestic preparations (for example cooked vegetables) or commercial industrial processes (for example production of apple juice). Processing studies shall be carried out at least on a representative crop of a crop group, where use is envisaged. The choice of the crop and of the process shall be justified and explained.
+
+The technology used in processing studies shall correspond as closely as possible to the actual conditions that are normally used. For each crop to be investigated two studies per process shall be carried out to determine concentration and dilution factors in processed commodities. If more than one processing method is in use, the one which is expected to give the highest residues in the processed product for human consumption shall be chosen. The results shall be extrapolated to all crops within a crop group undergoing the same process.
+
+When the results (processing factor) of the two studies differ in the main processed products by more than 50 %, further studies shall be provided to derive a consistent processing factor.
+
+Additional studies shall be carried out if, when using processing factors derived by extrapolation, the estimate of the dietary intake exceeds the ADI or ARfD. Those studies shall be carried out on major processes and commodities which contribute most to the ADI/ARfD exceedance.
+
+**6.6. Residues in rotational crops**
+
+Studies concerning residues in rotational crops shall be performed to allow the determination of the nature and extent of potential residue accumulation in rotational crops from soil uptake and of the magnitude of residues in rotational crops under realistic field conditions.
+
+Rotational crop studies shall not be required for uses of plant protection products in permanent crops (such as citrus and pome fruits crop group), semi-permanent crops (such as asparagus, pineapples) or fungi, where rotations on the same substrate are not part of the normal agricultural practices.
+
+6.6.1. Metabolism in rotational crops
+
+The objectives of metabolism studies in rotational crops shall be:
+
+(a) to provide an estimate of the total terminal residues in the relevant portion of crops at harvest of rotational crops following treatment of the preceding crop as proposed;
+
+(b) to identify the major components of the total terminal residue;
+
+(c) to indicate the distribution of residues between relevant crop parts;
+
+(d) to quantify the major components of the residue;
+
+(e) to indicate additional components to be analysed for in residue quantification studies (field crop rotation studies);
+
+(f) to decide on restrictions in crop rotation; and
+
+(g) to decide on the necessity of field residue trials in rotational crops (limited field studies).
+
+Circumstances in which required
+
+Metabolism studies in rotational crops shall be provided if the parent compound or soil metabolites are persistent in soil or significant concentrations of metabolites in soil occur.
+
+Rotational crop metabolism studies shall not be required if worst case conditions can be appropriately represented by other available studies in treated crops in accordance with point 6.2.1, where the plant protection product was applied directly to the soil (for example as a pre-planting or pre-emergence application).
+
+Test conditions
+
+Metabolism studies shall at least involve three crops from three different groups of crops: root and tuber vegetables, leafy vegetables and cereals. Data from further crop groups may be relevant for MRL setting. These crops shall be planted into soil treated at the recommended maximum total application rate for the preceding crops after an appropriate plant-back interval that mimics crop failure early in the vegetation of the crop, crop rotation in the same vegetation period or year and crop rotation in the next vegetation period or year.
+
+6.6.2. Magnitude of residues in rotational crops
+
+The objectives of studies on residues in rotational crops shall be:
+
+(a) to permit an evaluation of the magnitude of residues in rotational crops;
+
+(b) to decide on restrictions in crop rotation;
+
+(c) to provide information for assessing the overall significance of the residues for dietary risk assessment; and
+
+(d) to decide on the necessity of MRLs for rotational crops.
+
+Circumstances in which required
+
+If the metabolism studies indicate that residues of the active substance or of relevant metabolites or breakdown products either from plant or soil metabolism may occur (> 0,01 mg/kg), limited field studies and, if necessary, field trials shall be carried out.
+
+Studies shall not be required in the following cases:
+
+— no metabolism studies on rotational crops are to be performed, or
+
+— metabolism studies on rotational crops show that no residues of concern are to be expected in rotational crops.
+
+Test conditions
+
+A tiered approach shall be adopted to fulfil the above mentioned objectives. In the first tier, limited field studies at two sites in major growing areas shall be conducted. The plant protection product for which authorisation is sought or a very similar formulation shall be used.
+
+No further studies shall be required where, based on the result from the first tier studies, no detectable residues (&lt; 0,01 mg/kg) in rotational crops are to be expected or if in metabolism studies no residues requiring risk assessment are observed.
+
+For the second tier, additional data shall be submitted to enable appropriate evaluation of dietary risks and establishment of MRLs. These studies shall cover the common crop rotation practice. They shall be performed taking into account the requirements under point 6.3. Trials shall be conducted as closely as possible to agricultural practice on representative crops from major crop groups. At least four trials per crop shall be conducted across the Union in one year. These trials shall be performed in the main production areas across the Union at the highest application rate for the preceding crops. If annual applications of persistent active substances result in higher plateau concentrations in soil than a single application, the plateau concentration shall be taken into account. The necessary residue trials data shall be set up in consultation with the national competent authorities in the Member States.
+
+**6.7. Proposed residue definitions and maximum residue levels**
+
+6.7.1. Proposed residue definitions
+
+The following elements shall be considered when judging which compounds are to be included in the residue definition:
+
+— the toxicological significance of the compounds,
+
+— the amounts likely to be present, and
+
+— the analytical methods proposed for post-approval control and monitoring purposes.
+
+Two different residue definitions may be needed: one for enforcement purposes, based on the marker concept, and one for risk assessment purposes, taking into account toxicologically relevant compounds.
+
+Analytical work in residue trials and feeding studies shall cover all the components of the residue definition for risk assessment.
+
+6.7.2. Proposed maximum residue levels (MRLs) and justification of the acceptability of the levels proposed
+
+A maximum residue level shall be provided for all products of plant and animal origin covered by Regulation (EC) No 396/2005. In all other cases of products of plant and animal origin used as food or feed and in case of tobacco and medical herbs, a guideline level, that is to say a level derived on the same principles used for MRL setting, shall be provided.
+
+For processed products processing factors shall be provided, unless no processing studies are required.
+
+Furthermore, supervised trials median residue (STMR) and highest residue (HR) values shall be derived and, in cases where processing factors are proposed, STMR-P and HR-P values.
+
+In exceptional cases, when the conditions laid down in Article 16(1) to Regulation (EC) No 396/2005 are met, MRLs may be proposed on the basis of monitoring data. In such cases the proposal shall cover the 95th percentile of the data population at the 95 % confidence level.
+
+6.7.3. Proposed maximum residue levels (MRLs) and justification of the acceptability of the levels proposed for imported products (import tolerance)
+
+Point 6.7.2 shall apply to MRLs proposed for imported products (import tolerances).
+
+**6.8. Proposed safety intervals**
+
+Safety intervals (that is to say pre-harvest intervals for envisaged uses, or withholding periods or storage periods, in the case of post-harvest uses) shall be set taking into account the pest to be controlled and the results from the residue trial data. These intervals shall last at least one day.
+
+**6.9. Estimation of the potential and actual exposure through diet and other sources**
+
+When estimating the exposure it shall be born in mind that the risk assessment has to take into account the residue definition established for risk assessment.
+
+Where relevant, the possible presence of pesticide residues arising from sources other than current plant protection uses of active substances (for example use of active substances resulting in common metabolites, use as biocide or veterinary drug), and their aggregate exposure shall be taken into account. In addition, the cumulative exposure to more than one active substance shall, where relevant, be considered.
+
+**6.10. Other studies**
+
+6.10.1. Residue level in pollen and bee products
+
+The objective of these studies shall be to determine the residue in pollen and bee products for human consumption resulting from residues taken up by honeybees from crops at blossom.
+
+The type and conditions of the studies to be performed shall be discussed with the national competent authorities.
+
+**SECTION 7**
+
+**Fate and behaviour in the environment**
+
+**7.1. Fate and behaviour in soil**
+
+All relevant information on the type and the properties of the soil used in the studies, including pH, organic carbon content, particle size distribution and water holding capacity shall be reported.
+
+The microbial biomass of soils used for laboratory degradation studies shall be determined immediately before the commencement and at the end of the study.
+
+The soils used for degradation, adsorption and desorption or mobility studies shall be representative of the range of agricultural soils typical of the various regions of the Union where use exists or is anticipated.
+
+The soils shall fulfil the following conditions:
+
+— they shall cover a range of organic carbon content, particle size distribution and pH(preferably CaCl2) values, and
+
+— where on the basis of other information, degradation or mobility are expected to be pH dependent, for example solubility and hydrolysis rate (see points 2.7 and 2.8), they shall cover approximately the following pH(preferably CaCl2) ranges: 5 to 6, 6 to 7 and 7 to 8.
+
+Soils used shall, wherever possible, be freshly sampled. If use of stored soils is unavoidable, storage shall be carried out for a limited time (at the most three months) under defined and reported conditions, which are adequate to maintain soil microbial viability. Soils stored for longer periods of time may only be used for adsorption/desorption studies.
+
+A soil having extreme characteristics with respect to parameters such as particle size distribution, organic carbon content and pH shall not be used.
+
+Field studies shall be carried out in conditions as close to normal agricultural practice as possible on a range of soils and climatic conditions representative of the areas of use. Weather conditions shall be reported in cases where field studies are conducted.
+
+7.1.1. Route of degradation in soil
+
+The data and information provided, together with other relevant data and information, shall be sufficient to:
+
+(a) identify, if possible, the relative importance of the types of processes involved (balance between chemical and biological degradation);
+
+(b) identify the individual components present which at any time account for more than 10 % of the amount of active substance added, including, if possible, non-extractable residues;
+
+(c) identify, if possible, the individual components which in at least two sequential measurements, account for more than 5 % of the amount of active substance added;
+
+(d) identify, if possible, the individual components (> 5 %) for which at the end of the study the maximum of formation is not yet reached;
+
+(e) identify or characterise, if possible, other individual components present;
+
+(f) establish the relative proportions of the components present (mass balance); and
+
+(g) permit the soil residue of concern to which non-target species are or may be exposed, to be defined.
+
+For the purposes of this Section non-extractable residues means chemical species originating from active substances contained in plant protection products used in accordance with good agricultural practice that cannot be extracted by methods which do not significantly change the chemical nature of these residues or the nature of the soil matrix. These non-extractable residues are not considered to include fragments through metabolic pathways leading to natural products.
+
+7.1.1.1. Aerobic degradation
+
+Circumstances in which required
+
+The pathway or pathways of aerobic degradation shall be reported except where the nature and manner of use of plant protection products containing the active substance precludes soil contamination, such as indoor uses on stored products or brush applied wound healing treatments for trees.
+
+Test conditions
+
+Studies on the degradation pathway or pathways shall be reported for at least one soil. Oxygen levels shall be maintained at levels that do not restrict micro-organisms ability to metabolise aerobically. If there is reason to believe that the route of degradation is dependent on one or more properties of the soil, such as pH or clay content, the route of degradation shall be reported for at least one additional soil for which dependent properties are different.
+
+Results obtained shall be presented in the form of schematic drawings showing the pathways involved, and in the form of balance sheets which show the distribution of radio-label as a function of time, as between:
+
+(a) active substance;
+
+(b) CO2;
+
+(c) volatile compounds other than CO2;
+
+(d) individual identified transformation products referred to in point 7.1.1;
+
+(e) extractable substances not identified; and
+
+(f) non-extractable residues in soil.
+
+The investigation of degradation pathways shall include all possible steps to characterise and quantify non-extractable residues formed after 100 days when exceeding 70 % of the applied dose of the active substance. The techniques and methodologies applied shall be selected on a case-by-case basis. A justification shall be provided where the compounds involved are not characterised.
+
+The duration of the study shall be at least 120 days, except where after a shorter period the levels of non-extractable residues and CO2 are such that they can be extrapolated in a reliable way to 100 days. It shall be longer where this is necessary to establish the degradation pathway of the active substance and its metabolites, breakdown or reaction products.
+
+7.1.1.2. Anaerobic degradation
+
+Circumstances in which required
+
+An anaerobic degradation study shall be submitted unless the applicant shows that exposure of the plant protection products containing the active substance to anaerobic conditions is unlikely to occur for the intended uses.
+
+Test conditions
+
+Point 7.1.1.1 shall apply as regards test conditions except oxygen levels which shall be minimised as to ensure that micro-organisms metabolise anaerobically.
+
+7.1.1.3. Soil photolysis
+
+Circumstances in which required
+
+A soil photolysis study shall be submitted unless the applicant shows that deposition of the active substance on the soil surface is unlikely to occur or that photolysis is not expected to contribute significantly to the degradation of the active substance in soil for example due to low light absorbance of the active substance.
+
+7.1.2. Rate of degradation in soil
+
+7.1.2.1. Laboratory studies
+
+Laboratory studies on soil degradation shall provide best possible estimates of the time required for degradation of 50 % and 90 % (DegT50lab and DegT90lab) of the active substance, its metabolites, breakdown and reaction products under laboratory conditions.
+
+7.1.2.1.1. Aerobic degradation of the active substance
+
+Circumstances in which required
+
+The rate of degradation in soil shall be reported, except where the nature and manner of use of plant protection products containing the active substance preclude soil contamination such as indoor uses on stored products or brush applied wound healing treatments for trees.
+
+Test conditions
+
+Studies on the rate of aerobic degradation of the active substance shall be reported for three soils in addition to the one required under point 7.1.1.1. Reliable DegT50 and 90 values shall be available for a minimum of four different soils.
+
+The duration of the study shall be at least 120 days. It shall be longer where this is necessary to establish the kinetic formation fractions of the metabolites, breakdown or reaction products. If more than 90 % of the active substance is degraded before the period of 120 days expires, the test duration may be shorter.
+
+In order to assess the influence of temperature on degradation, a calculation with an adequate Q10 factor or an adequate number of additional studies at a range of temperatures shall be performed.
+
+7.1.2.1.2. Aerobic degradation of metabolites, breakdown and reaction products
+
+Circumstances in which required
+
+Aerobic degradation (DegT50 and 90 values) from a minimum of three different soils shall be provided for metabolites, breakdown and reaction products which occur in soil if one of the following conditions is fulfilled:
+
+(a) they account for more than 10 % of the amount of active substance added at any time during the studies;
+
+(b) they account for more than 5 % of the amount of active substance added in at least two sequential measurements;
+
+(c) the maximum of formation is not reached at the end of the study but accounts for at least 5 % of the active substance at the final measurement;
+
+(d) all metabolites found in lysimeter studies at annual average concentrations exceed 0.1 μg/L in the leachate.
+
+Studies shall not be required where three DegT50 and 90 values can be reliably determined from the results of the degradation studies where the active substance is applied as test substance.
+
+Test conditions
+
+Test conditions shall be those indicated in Section 7.1.2.1.1 except the test substance applied will be the metabolite, breakdown or reaction product. Studies on metabolites, breakdown and reaction products shall be provided where these are necessary to obtain reliable DegT50 and 90 values for at least three different soils.
+
+7.1.2.1.3. Anaerobic degradation of the active substance
+
+Circumstances in which required
+
+The rate of anaerobic degradation of the active substance shall be reported where an anaerobic study has to be performed in accordance with point 7.1.1.2.
+
+Test conditions
+
+Anaerobic DegT50 and 90 values for the active substance are needed for the test conditions outlined in point 7.1.1.2.
+
+7.1.2.1.4. Anaerobic degradation of metabolites, breakdown and reaction products
+
+Circumstances in which required
+
+Anaerobic degradation studies shall be provided for metabolites, breakdown and reaction products which occur in soil if they fulfil one of the following conditions:
+
+(a) at any time during the studies account for more than 10 % of the amount of active substance added;
+
+(b) in at least two sequential measurements account for more than 5 % of the amount of active substance added, if feasible;
+
+(c) at the end of the study the maximum of formation is not yet reached but accounts for at least 5 % of the active substance at the final measurement, if feasible.
+
+The applicant may deviate from such requirement by showing that DegT50 values for metabolites, breakdown and reaction products can be reliably determined from the results of the anaerobic degradation studies with the active substance.
+
+Test conditions
+
+Studies on metabolites, breakdown and reaction products shall be provided for one soil for the test conditions outlined at point 7.1.1.2.
+
+7.1.2.2. Field studies
+
+7.1.2.2.1. Soil dissipation studies
+
+The soil dissipation studies shall provide estimates of the time required for dissipation of 50 % and 90 % (DisT50field and DisT90field) and, if possible, of the time required for degradation of 50 % and 90 % (DegT50field and DegT90field), of the active substance under field conditions. Where relevant, information on metabolites, breakdown and reaction products shall be provided.
+
+Circumstances in which required
+
+Such studies shall be conducted for the active substance, its metabolites, breakdown and reaction products if one of the following conditions is fulfilled:
+
+(a) DegT50lab for active substance, DegT50lab or DisT50lab for metabolites, breakdown and reaction products, in one or more soils determined at 20 °C and at a moisture content of the soil related to a pF value of 2 (suction pressure) is greater than 60 days; or
+
+(b) DegT90lab for active substance, DegT90lab or DisT90lab for metabolites, breakdown and reaction products, in one or more soils determined at 20 °C and at a moisture content of the soil related to a pF value of 2 (suction pressure) is greater than 200 days.
+
+However, where plant protection products containing the active substance are intended for use in cold climatic conditions, the studies shall be conducted if one of the following conditions is fulfilled:
+
+(a) DegT50lab for active substance, DegT50lab or DisT50lab for metabolites, breakdown and reaction products, determined at 10 °C and at a moisture content of the soil related to a pF value of 2 (suction pressure) is greater than 90 days; or
+
+(b) DegT90lab for active substance, DegT90lab or DisT90lab for metabolites, breakdown and reaction products, in one or more soils, determined at 10 °C and at a moisture content of the soil related to a pF value of 2 (suction pressure) is greater than 300 days.
+
+If during field studies metabolites, breakdown and reaction products which are present in laboratory studies are below the lowest technically feasible LOQ, which shall not exceed an equivalent of 5 % (molar basis) of the nominal concentration of active ingredient applied, no additional information on the fate and behaviour of these compounds shall be provided. In those cases, a scientifically valid justification for any discrepancy between laboratory and field appearance of metabolites shall be provided.
+
+Test conditions
+
+Individual studies on a range of representative soils (normally at least four different types at different geographical locations) shall be continued until at least 90% of the amount applied has dissipated from the soil or been transformed to substances that are not the subject of the investigation.
+
+7.1.2.2.2. Soil accumulation studies
+
+Soil accumulation studies shall provide sufficient information to evaluate the possibility of accumulation of residues of the active substance and of metabolites, breakdown and reaction products. The soil accumulation studies shall provide estimates of the time required for dissipation of 50 % and 90 % (DisT50field and DisT90field) and, if possible, shall provide estimates of the time required for degradation of 50 % and 90 % (DegT50field and DegT90field), of the active substance under field conditions.
+
+Circumstances in which required
+
+Where on the basis of soil dissipation studies it is established that DisT90field, in one or more soils, is greater than one year and where repeated application is envisaged, whether in the same growing season or in succeeding years, the possibility of accumulation of residues in soil and the level at which a plateau concentration is achieved shall be investigated except where reliable information can be provided by a model calculation or another appropriate assessment.
+
+Test conditions
+
+Long-term field studies shall be performed on at least two relevant soils at different geographical locations and involve multiple applications.
+
+In absence of guidance being included in the list referred to under point 6 of the introduction, the type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+7.1.3. Adsorption and desorption in soil
+
+7.1.3.1. Adsorption and desorption
+
+The information provided, together with other relevant data, shall be sufficient to establish the adsorption coefficient of the active substance and of its metabolites, breakdown and reaction products.
+
+7.1.3.1.1. Adsorption and desorption of the active substance
+
+Circumstances in which required
+
+Studies on adsorption and desorption of the active substance shall be provided, except where the nature and manner of use of plant protection products containing the active substance preclude soil contamination such as indoor uses on stored products or brush applied wound healing treatments for trees.
+
+Test conditions
+
+Studies on the active substance shall be reported for at least four soils.
+
+Where the batch equilibrium method cannot be applied due to fast degradation, methods such as studies with short equilibration times, QSPR (Quantitative Structure Property Relationship) or the HPLC (High-Performance Liquid Chromatography) method shall be considered as possible alternatives. Where the batch equilibrium method cannot be applied due to weak adsorption, column leaching studies (see point 7.1.4.1) shall be considered as an alternative.
+
+7.1.3.1.2. Adsorption and desorption of metabolites, breakdown and reaction products
+
+Circumstances in which required
+
+Studies on adsorption and desorption shall be provided for all metabolites, breakdown and reaction products, for which in soil degradation studies one of the following conditions is fulfilled:
+
+(a) they account for more than 10 % of the amount of active substance added, at any time during the studies;
+
+(b) they account for more than 5 % of the amount of active substance added in at least two sequential measurements;
+
+(c) the maximum of formation is not reached at the end of the study but accounts for at least 5 % of the active substance at the final measurement;
+
+(d) all metabolites found in lysimeter studies at annual average concentrations exceeding 0,1 μg/L in the leachate.
+
+Test conditions
+
+Studies on metabolites, breakdown and reaction products shall be provided for at least three soils.
+
+Where the batch equilibrium method cannot be applied due to fast degradation, methods such as studies with short equilibration times, QSPR or the HPLC method shall be considered as an alternative. Where the batch equilibrium method cannot be applied due to weak adsorption, column leaching studies (see point 7.1.4.1) shall be considered as an alternative.
+
+7.1.3.2. Aged sorption
+
+As a higher tier option, information on aged sorption may be provided.
+
+Circumstances in which required
+
+The need to carry out a study on aged sorption shall be discussed with the national competent authorities.
+
+Test conditions
+
+In absence of guidance being included in the list referred to under point 6 of the introduction, the type and conditions of the study to be performed shall be discussed with the national competent authorities. The influence on the rate of degradation shall also be considered. Aged sorption data shall be compatible with the model in which those values will be used.
+
+7.1.4. Mobility in soil
+
+7.1.4.1. Column leaching studies
+
+7.1.4.1.1. Column leaching of the active substance
+
+Column leaching studies shall provide sufficient data to evaluate the mobility and leaching potential of the active substance.
+
+Circumstances in which required
+
+Studies in at least four soils shall be carried out where in the adsorption and desorption studies provided for under point 7.1.2 it is not possible to obtain reliable adsorption coefficient values due to weak adsorption (such as Koc &lt; 25 L/Kg).
+
+7.1.4.1.2. Column leaching of metabolites, breakdown and reaction products
+
+The test shall provide sufficient data to evaluate the mobility and leaching potential of metabolites, breakdown and reaction products.
+
+Circumstances in which required
+
+Studies in at least three soils shall be carried out where in the adsorption and desorption studies provided for under point 7.1.2 it is not possible to obtain reliable adsorption coefficient values due to weak adsorption (such as Koc &lt; 25 L/Kg).
+
+7.1.4.2. Lysimeter studies
+
+Lysimeter studies shall be performed, where necessary, to provide information on:
+
+— the mobility in soil,
+
+— the potential for leaching to ground water,
+
+— the potential distribution in soil.
+
+Circumstances in which required
+
+The decision whether lysimeter studies are to be carried out, as an experimental outdoor study in the framework of a tiered leaching assessment scheme shall take into account the results of degradation and other mobility studies and the predicted environmental concentrations in groundwater (PECGW), calculated in accordance with the provisions of Section 9 of Part A of the Annex to Regulation (EU) No 284/2013. The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+Test conditions
+
+Studies shall cover the realistic worst case situation, and the duration necessary for observation of potential leaching, taking into account the soil type, climatic conditions, the application rate and the frequency and period of application.
+
+Water percolating from soil columns shall be analysed at suitable intervals, while residues in plant material shall be determined at harvest. Residues in the soil profile in at least five layers shall be determined on termination of experimental work. Intermediate sampling shall be avoided, since removal of plants (except for harvesting in accordance with normal agricultural practice) and soil influence the leaching process.
+
+Precipitation, soil and air temperatures shall be recorded at regular intervals, at least on a weekly base.
+
+The depth of the lysimeters shall be at least 100 cm. The soil cores shall be undisturbed. Soil temperatures shall be similar to those pertaining in the field. Where necessary, supplementary irrigation shall be provided to ensure optimal plant growth and to ensure that the quantity of percolation water is similar to that in the regions for which authorisation is sought. When during the study the soil has to be disturbed for agricultural reasons it shall not be disturbed deeper than 25 cm.
+
+7.1.4.3. Field leaching studies
+
+Field leaching studies shall be performed, where necessary, to provide information on:
+
+— the mobility in soil,
+
+— the potential for leaching to ground water,
+
+— the potential distribution in soil.
+
+Circumstances in which required
+
+The decision whether field leaching studies are to be carried out, as an experimental outdoor study in the framework of a tiered leaching assessment scheme shall take into account the results of degradation and other mobility studies and the predicted environmental concentrations in groundwater (PECGW), calculated in accordance with the provisions of Section 9 of Part A of the Annex to Regulation (EU) No 284/2013. The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+Test conditions
+
+Studies shall cover the realistic worst case situation, taking into account the soil type, climatic conditions, the application rate and the frequency and period of application.
+
+Water shall be analysed at suitable intervals. Residues in the soil profile in at least five layers shall be determined on termination of experimental work. Intermediate sampling of plant and soil material shall be avoided (except for harvesting in accordance with normal agricultural practice), since removal of plants and soil influence the leaching process.
+
+Precipitation, soil and air temperatures shall be recorded at regular intervals (at least on a weekly base).
+
+Information on the groundwater table in the experimental fields shall be submitted. Depending on the experimental design, a detailed hydrological characterisation of the test field shall be carried out. If soil cracking is observed during the study this shall be fully described.
+
+Attention shall be given to the number and the location of water collection devices. The placement of these devices in the soil shall not result in preferential flow paths.
+
+**7.2. Fate and behaviour in water and sediment**
+
+The information provided, taken together with that provided for one or more plant protection products containing the active substance, and other relevant information, shall be sufficient to establish or permit estimation of:
+
+(a) persistence in water systems (bottom sediment and water, including suspended particles);
+
+(b) the extent to which water and sediment organisms are at risk;
+
+(c) potential for contamination of surface water and groundwater.
+
+7.2.1. Route and rate of degradation in aquatic systems (chemical and photochemical degradation)
+
+The data and information provided, together with other relevant data and information, shall be sufficient to:
+
+(a) identify the relative importance of the types of processes involved (balance between chemical and biological degradation);
+
+(b) where possible, identify the individual components present;
+
+(c) establish the relative proportions of the components present and their distribution as between water, including suspended particles, and sediment; and
+
+(d) permit the residue of concern to which non-target species are or may be exposed, to be defined.
+
+7.2.1.1. Hydrolytic degradation
+
+Circumstances in which required
+
+The hydrolysis rate of purified active substances shall be determined and reported at 20 °C or 25 °C. Studies on hydrolytic degradation shall also be performed for degradation and reaction products which account at any time for more than 10 % of the amount of active substance added in the hydrolysis study, unless sufficient information on their degradation is available from the test performed with the active substance. No additional hydrolysis information on degradates shall be required if they are considered to be stable in water.
+
+Test conditions
+
+The hydrolysis rate for pH 4, 7 and 9 under sterile conditions in the absence of light shall be determined and reported at 20 °C or 25 °C. For active substances that are stable or have a low rate of hydrolysis at 20-25 °C, the rate shall be determined at 50 °C, or another temperature above 50 °C. If degradation is observed at 50 °C or above, the degradation rate at at least three other temperatures shall be determined and an Arrhenius plot shall be constructed to permit an estimate to be made of hydrolysis rate at 20 °C and 25 °C. The identity of hydrolysis products formed and the rate constants observed, shall be reported. The estimated DegT50 values shall be reported for 20 °C or 25 °C.
+
+7.2.1.2. Direct photochemical degradation
+
+Circumstances in which required
+
+For compounds with a molar (decadic) absorption coefficient (ε) > 10 L × mol–1 × cm–1 at a wavelength (λ) ≥ 295 nm direct phototransformation of purified active substances shall be determined and reported unless the applicant shows that contamination of surface water will not occur.
+
+Studies on direct photochemical degradation shall also be performed for metabolites, breakdown and reaction products which account at any time for more than 10 % of the amount of active substance added in the photolysis study, unless sufficient information on their degradation is available from the test performed with the active substance.
+
+No additional photolysis information on degradates shall be required if they are considered to be stable under photolytic conditions.
+
+Test conditions
+
+The direct phototransformation in purified, (for example distilled) buffered water using artificial light under sterile conditions, if necessary using a solubiliser, shall be determined and reported. In the first theoretical step a maximum possible photolysis rate shall be estimated based on the molar extinction coefficient of the active substance. If photolysis is considered to be a potentially significant degradation pathway, photolysis experiments for range finding shall be carried out (tier 2). Determination of quantum yield and direct photolysis route/rate (tiers 3 and 4) shall be carried out for active substances where tier 2 indicates significant photolysis. The identity of breakdown products formed which exceed 10 % of the applied test substance at any time during the study, a mass balance to account for at least 90 % of the applied radioactivity, as well as photochemical half-life (DT50) shall be reported.
+
+7.2.1.3. Indirect photochemical degradation
+
+Circumstances in which required
+
+Studies on indirect photochemical degradation may be submitted where there are indications from other available data that route and rate of degradation in the water phase can be significantly influenced by indirect photodegradation.
+
+Test conditions
+
+Studies shall be performed in an aqueous system containing organic (humic substances) and inorganic (salts) compounds in a composition that is typical for natural surface waters.
+
+7.2.2. Route and rate of biological degradation in aquatic systems
+
+7.2.2.1. ‘Ready biodegradability’
+
+Circumstances in which required
+
+The ‘ready biodegradability’ test shall be performed. If no such test is provided, the active substance shall by default be considered not ‘readily biodegradable’.
+
+7.2.2.2. Aerobic mineralisation in surface water
+
+The data and information provided, together with other relevant data and information, shall be sufficient to:
+
+(a) identify individual components present, which at any time account for more than 10 % of the amount of active substance added, including, where possible, non-extractable residues;
+
+(b) identify individual components present, which account for more than 5 % of the amount of active substance added in at least two sequential measurements, where possible;
+
+(c) identify individual components (> 5 %) for which at the end of the study the maximum of formation is not yet reached, where possible;
+
+(d) identify or characterise, where possible, other individual components;
+
+(e) establish, where relevant, the relative proportions of the components (mass balance); and
+
+(f) permit, where relevant, the sediment residue of concern and to which non-target species are or may be exposed, to be defined.
+
+Circumstances in which required
+
+Studies on aerobic mineralisation in surface water shall be provided unless the applicant shows that contamination of open water (freshwater, estuarine and marine) will not occur.
+
+Test conditions
+
+The rate of degradation and the pathway or pathways shall be reported either for a ‘pelagic’ test system or for a ‘suspended sediment’ system. Where relevant, additional test systems, which differ with respect to organic carbon content, texture or pH shall be used.
+
+Results obtained shall be presented in the form of schematic drawings showing the pathways involved, and in the form of balance sheets which show the distribution of radio-label in water and, where relevant, sediment as a function of time, as between:
+
+(a) active substance;
+
+(b) CO2;
+
+(c) volatile compounds other than CO2; and
+
+(d) individual identified transformation products.
+
+The duration of the study shall not exceed 60 days unless the semi-continuous procedure with periodical renewal of the test suspension is applied. However, the period for the batch test may be extended to a maximum of 90 days, if the degradation of the test substance has started within the first 60 days.
+
+7.2.2.3. Water/sediment study
+
+The information provided, together with other relevant information, shall be sufficient to:
+
+(a) identify individual components present which at any time account for more than 10 % of the amount of active substance added, including, where possible, non-extractable residues;
+
+(b) identify individual components present which account for more than 5 % of the amount of active substance added in at least two sequential measurements, where possible;
+
+(c) identify individual components (> 5 %) for which at the end of the study the maximum of formation is not yet reached, where possible;
+
+(d) identify or characterise, where possible, also other individual components present;
+
+(e) establish the relative proportions of the components (mass balance); and
+
+(f) define the sediment residue of concern, to which non-target species are or may be exposed.
+
+Where a reference is made to non-extractable residues these shall be defined as chemical species originating from active substances used in accordance with good agricultural practice that cannot be extracted by methods which do not significantly change the chemical nature of these residues or the nature of the sediment matrix. These non-extractable residues are not considered to include fragments through metabolic pathways leading to natural products.
+
+Circumstances in which required
+
+The water/sediment study shall be reported unless the applicant shows that contamination of surface water will not occur.
+
+Test conditions
+
+The degradation pathway or pathways shall be reported for two water/sediment systems. The two sediments selected shall differ with respect to organic carbon content and texture, and where relevant, with respect to pH.
+
+Results obtained shall be presented in the form of schematic drawings showing the pathways involved, and in the form of balance sheets which show the distribution of radio-label in water and sediment as a function of time, as between:
+
+(a) active substance;
+
+(b) CO2;
+
+(c) volatile compounds other than CO2;
+
+(d) individual identified transformation products;
+
+(e) extractable substances not identified; and
+
+(f) non-extractable residues in sediment.
+
+The duration of the study shall be at least 100 days. It shall be longer where this is necessary to establish the degradation pathway and water/sediment distribution pattern of the active substance and its metabolites, breakdown and reaction products. If more than 90 % of the active substance is degraded before the period of 100 days expires, the test duration may be shorter.
+
+The degradation pattern of potentially relevant metabolites occurring within the water/sediment study shall be established either by extension of the study for the active substance, or by conducting a separate study for potentially relevant metabolites.
+
+7.2.2.4. Irradiated water/sediment study
+
+The same general provisions as provided under point 7.2.2.3 apply.
+
+Circumstances in which required
+
+If photochemical degradation is of importance a water/sediment study under influence of a light/dark regime may additionally be provided.
+
+Test conditions
+
+The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+7.2.3. Degradation in the saturated zone
+
+The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+**7.3. Fate and behaviour in air**
+
+7.3.1. Route and rate of degradation in air
+
+The vapour pressure of purified active substance, as provided under point 2.2, shall be reported. An estimate of the half-life in the upper atmosphere of the active substance and any volatile metabolites, breakdown and reaction products, formed in soil or natural water systems, shall be calculated and reported.
+
+Estimates of active substance upper atmospheric half-lives, based on monitoring data shall also be calculated, when monitoring data that enable this to be done, are available.
+
+7.3.2. Transport via air
+
+The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+Circumstances in which required
+
+If the trigger for volatilisation, Vp = 10–5 Pa (plant) or 10–4 Pa (soil) at a temperature of 20 °C, is exceeded and (drift) mitigation measures are required, data from confined experiments may be reported.
+
+If needed, experiments to determine deposition following volatilisation may be provided.
+
+The national competent authorities shall be consulted to decide whether this information is necessary.
+
+7.3.3. Local and global effects
+
+For substances that are applied in high amounts, the following effects shall be considered:
+
+— global warming potential (GWP);
+
+— ozone depleting potential (OPD);
+
+— photochemical ozone creation potential (POCP);
+
+— accumulation in the troposphere;
+
+— acidification potential (AP);
+
+— eutrophication potential (EP).
+
+**7.4. Definition of the residue**
+
+7.4.1. Definition of the residue for risk assessment
+
+The residue definition relevant for risk assessment for each compartment shall be defined to include all components (active substance, metabolites, breakdown and reaction products) that were identified in accordance with the criteria referred to in this Section.
+
+The chemical composition of residues occurring in soil, groundwater, surface water (freshwater, estuarine and marine), sediment and air, resulting from use, or proposed use, of a plant protection product containing the active substance, shall be taken into account.
+
+7.4.2. Definition of the residue for monitoring
+
+Considering the results of toxicological and ecotoxicological testing, the residue for monitoring shall be defined to include those components from the definition of the residue for risk assessment, which are considered relevant when assessing the results in those tests.
+
+**7.5. Monitoring data**
+
+Available monitoring data concerning fate and behaviour of the active substance and relevant metabolites, breakdown and reaction products in soil, groundwater, surface water, sediment and air shall be reported.
+
+**SECTION 8**
+
+**Ecotoxicological studies**
+
+**Introduction**
+
+1\. All available biological data and information which is relevant to the assessment of the ecotoxicological profile of the active substance shall be reported. This shall include all potentially adverse effects found during routine ecotoxicological investigations. Where required by the national competent authorities, additional studies, necessary to investigate the probable mechanisms involved and to assess the significance of these effects, shall be carried out and reported on.
+
+2\. The ecotoxicological assessment shall be based on the risk that the proposed active substance used in a plant protection product poses to non-target organisms. In carrying out a risk assessment, toxicity shall be compared with exposure. The general term for the output from such a comparison is ‘risk quotient’ or RQ. It shall be noted that RQ can be expressed in several ways, for example, toxicity:exposure ratio (TER) and as a hazard quotient (HQ). The applicant shall take into account the information from Sections 2, 5, 6, 7 and 8.
+
+3\. It may be necessary to conduct separate studies for metabolites, breakdown or reaction products derived from the active substance where non-target organisms may be exposed and where their effects cannot be evaluated by the available results relating to the active substance. Before such studies are performed, the applicant shall take into account the information from Sections 5, 6 and 7.
+
+Studies undertaken shall permit characterisation of metabolites, breakdown or reaction products as being significant or not, and reflect the nature and extent of the effects judged likely to arise.
+
+4\. In the case of certain study types, the use of a representative plant protection product instead of the active substance as manufactured may be more appropriate, for example testing of non-target arthropods, bees, earthworm reproduction, soil micro-flora and non-target terrestrial plants. In the case of certain plant protection product types (for example encapsulated suspension) testing with the plant protection product is more appropriate to testing with active substance when these organisms will be exposed to the plant protection product itself. For plant protection products where the active substance is always intended to be used together with a safener and/or synergist and/or in conjunction with other active substances, plant protection products containing these additional substances shall be used.
+
+5\. The potential impact of the active substance on biodiversity and the ecosystem, including potential indirect effects via alteration of the food web, shall be considered.
+
+6\. For those guidelines which allow for the study to be designed to determine an effective concentration (ECx), the study shall be conducted to determine an EC10, EC20 and EC50, when required, along with corresponding 95 % confidence intervals. If an ECx approach is used, a no observed effect concentration (NOEC) shall still be determined.
+
+Existing acceptable studies that have been designed to generate a NOEC shall not be repeated. An assessment of the statistical power of the NOEC derived from those studies shall be carried out.
+
+7\. All of the aquatic toxicity data shall be used when developing a proposal for environmental quality standards (Annual Average EQS, AA-EQS; Maximum Acceptable Concentration EQS, MAC-EQS). The methodology for derivation of these endpoints is outlined in the ‘Technical Guidance for Deriving Environmental Quality Standards ( 16 )’ for the Water Framework Directive 2000/60/EC of the European Parliament and of the Council ( 17 ).
+
+8\. In order to facilitate the assessment of the significance of test results obtained, including the estimation of intrinsic toxicity and the factors affecting toxicity, the same strain (or recorded origin) of each relevant species shall, where possible, be used in the various toxicity tests specified.
+
+9\. Higher tier studies shall be designed and data analysed using suitable statistical methods. Full details of the statistical methods shall be reported. Where appropriate and necessary, higher tier studies shall be supported by chemical analysis to verify exposure has occurred at an appropriate level.
+
+10\. Pending the validation and adoption of new studies and of a new risk assessment scheme, existing protocols shall be used to address the acute and chronic risk to bees, including those on colony survival and development, and the identification and measurement of relevant sub-lethal effects in the risk assessment.
+
+**8.1. Effects on birds and other terrestrial vertebrates**
+
+For all avian and mammalian feeding studies, average achieved dose shall be reported, including where possible the dose in mg substance/kg body weight. Where dosing via the diet is utilised, the active substance shall be distributed uniformly in the diet.
+
+8.1.1. Effects on birds
+
+8.1.1.1. Acute oral toxicity to birds
+
+The acute oral toxicity of the active substance to birds shall be determined.
+
+Circumstances in which required
+
+The effects of the active substance on birds shall be investigated except where the substance is included in plant protection products used, for example, in enclosed spaces and wound healing treatments where birds will experience neither direct nor secondary exposure.
+
+Test conditions
+
+A study shall be provided establishing the acute oral toxicity (LD50) of the active substance. Where available, the study shall be performed with a quail species (Japanese quail (Coturnix coturnix japonica) or Bobwhite quail (Colinus virginianus)), since regurgitation is rare in these species. The study shall provide, where possible, LD50 values. The lethal threshold dose, time courses of response and recovery, the LD10 and LD20 shall be reported together with the no observed effect level (NOEL) and gross pathological findings. Where LD10 and LD20 cannot be estimated, an explanation shall be provided. Study design shall be optimised for the achievement of an accurate LD50.
+
+The highest dose used in tests shall not exceed 2 000 mg substance/kg body weight, however, depending on the expected exposure levels in the field following the intended use of the compound, higher doses may be required.
+
+8.1.1.2. Short-term dietary toxicity to birds
+
+A study shall be provided establishing the short-term dietary toxicity. LC50 values, lowest lethal concentration (LLC), where possible, NOEC values, time courses of response and recovery and pathological findings shall be reported in such study. LC50 and NOEC values shall be converted to daily dietary dose (LD50) expressed in mg substance/kg bw/day and NOEL expressed in mg substance/kg bw/day.
+
+Circumstances in which required
+
+A study on the dietary (five-day) toxicity of the active substance to birds shall only be required where the mode of action or results from mammalian studies indicate a potential for the dietary LD50 measured by the short-term dietary toxicity study to be lower than the LD50 based on an acute oral study. The short-term dietary toxicity test shall not be conducted for any other purpose than to determine intrinsic toxicity through dietary exposure, unless a justification of the need to do so is supplied.
+
+Test conditions
+
+The test species shall be the same as tested under point 8.1.1.1.
+
+8.1.1.3. Sub-chronic and reproductive toxicity to birds
+
+A study shall be provided establishing the sub-chronic and reproductive toxicity of the substance to birds. The EC10 and EC20 shall be reported. Where they cannot be estimated, an explanation shall be provided together with the NOEC expressed in mg substance/kg bw/day.
+
+Circumstances in which required
+
+The sub-chronic and reproductive toxicity of the active substance to birds shall be investigated, unless the applicant shows that exposure of adults, or exposure of nest sites during the breeding season is unlikely to occur. Such a justification shall be supported by information showing that no exposure or delayed effects will occur during the breeding season.
+
+Test conditions
+
+The study shall be conducted on the same species as tested under point 8.1.1.1.
+
+8.1.2. Effects on terrestrial vertebrates other than birds
+
+The following information shall be derived from the mammalian toxicological assessment based on the studies referred to in Section 5.
+
+8.1.2.1. Acute oral toxicity to mammals
+
+The acute oral toxicity of the active substance to mammals shall be determined and the LD50 expressed mg substance/kg bw/day.
+
+Circumstances in which required
+
+The effects of the active substance on mammals shall be investigated except when the substance is included in plant protection products used, for example, in enclosed spaces and wound healing treatments where mammals will experience neither direct nor secondary exposure.
+
+8.1.2.2. Long-term and reproductive toxicity to mammals
+
+Circumstances in which required
+
+The reproductive toxicity of the active substance to mammals shall be investigated, unless a justification is provided by the applicant showing that exposure of adults, during the breeding season is unlikely to occur. Such a justification shall be supported by information showing that no exposure or delayed effects will occur during the breeding season.
+
+The most sensitive ecotoxicologically relevant mammalian long-term toxicological endpoint (NOAEL) expressed as mg substance/kg bw/day shall be reported. The EC10 and EC20 shall be reported together with the NOEC expressed in mg substance/kg bw/day. Where EC10 and EC20 cannot be estimated an explanation shall be provided.
+
+8.1.3. Active substance bioconcentration in prey of birds and mammals
+
+For active substances with a log Pow > 3, an assessment of the risk posed by bioconcentration of the substance in the prey of birds and mammals shall be provided.
+
+8.1.4. Effects on terrestrial vertebrate wildlife (birds, mammals, reptiles and amphibians)
+
+Available and relevant data, including data from the open literature for the active substance of concern, regarding the potential effects to birds, mammals, reptiles and amphibians (see point 8.2.3) shall be presented and taken into account in the risk assessment.
+
+8.1.5. Endocrine disrupting properties
+
+Consideration shall be given to whether the active substance is a potential endocrine disruptor according to Union or internationally agreed guidelines. This may be done in consulting the mammalian toxicology section (see Section 5). In addition, other available information on toxicity profile and mode of action shall be taken into account. If as a result of this assessment, the active substance is identified as a potential endocrine disruptor, the type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+**8.2. Effects on aquatic organisms**
+
+Reports of the tests referred to in points 8.2.1, 8.2.4 and 8.2.6 shall be submitted for every active substance and supported with analytical data on concentrations of the substance in the test media.
+
+When aquatic toxicity studies are conducted with a poorly soluble substance, limit concentrations lower than 100 mg substance/L may be acceptable, however precipitation of the substance in the test medium shall be avoided and a solubiliser, auxiliary solvent or dispersing agent shall be used when appropriate. Testing using the plant protection product may be required by the national competent authorities if no biological effects occur at the solubility limit of the active substance.
+
+Toxicity endpoints (such as LC50, EC10, EC20, EC50 and NOEC) shall be calculated on the basis of nominal or mean/initial measured concentrations.
+
+8.2.1. Acute toxicity to fish
+
+A study shall be provided on the acute toxicity to fish (LC50) and details of observed effects.
+
+Circumstances in which required
+
+A test on rainbow trout (Oncorhynchus mykiss) shall be carried out.
+
+Test conditions
+
+The acute toxicity of the active substance to fish shall be determined. In order to minimise fish testing, a threshold approach to acute toxicity testing on fish shall be considered. An acute toxicity fish limit test shall be conducted at 100 mg substance/L or at an appropriate concentration selected from aquatic endpoints (points 8.2.4, 8.2.6 or 8.2.7) following consideration of the threshold exposure. When mortality is detected in the fish limit test an acute fish dose-response toxicity study shall be required to determine an LC50 for use in the risk assessment conducted in accordance with the relevant risk quotient analysis (see point 2 of the introduction of this Section).
+
+8.2.2. Long-term and chronic toxicity to fish
+
+Circumstances in which required
+
+A long-term or chronic toxicity study on fish shall be provided for all active substances where exposure of surface water is likely and the substance is deemed to be stable in water, that is to say there is less than 90 % loss of the original substance over 24 hours via hydrolysis (see point 7.2.1.1). A fish early life stage study shall be provided in these circumstances. However, if a fish full life cycle study is provided an early life stage study shall not be required.
+
+8.2.2.1. Fish early life stage toxicity test
+
+A fish early life stage toxicity test shall determine effects on development, growth and behaviour, and details of observed effects on fish early life stages. The EC10 and EC20 shall be reported together with the NOEC. Where EC10 and EC20 cannot be estimated, an explanation shall be provided.
+
+8.2.2.2. Fish full life cycle test
+
+A fish full life cycle test shall provide information on the effects on reproduction of the parental and the viability of the filial generation. The EC10 and EC20 shall be reported together with the NOEC.
+
+For active substances that are not considered as potential endocrine disruptors, a fish full life cycle test may be required depending upon the persistence and bioaccumulative potential of the substance.
+
+For active substances that fulfil the screening criteria on either of the fish screening assays, or for which there are other indications of endocrine disruption (see point 8.2.3), appropriate additional endpoints shall be included in the test and discussed with the national competent authorities.
+
+Test conditions
+
+Studies shall be designed to reflect concerns identified through lower tier testing, mammalian and bird toxicology studies and other information. The exposure regime shall be selected accordingly, taking account of the rates of application proposed.
+
+8.2.2.3. Bioconcentration in fish
+
+The test on bioconcentration in fish shall provide the steady-state bioconcentration factors, uptake rate constants and depuration rate constants, incomplete excretion, metabolites formed in fish and, if available, information on organ-specific accumulation.
+
+All data shall be provided with confidence limits for each test substance. Bioconcentration factors shall be expressed as a function of both total wet weight and of the lipid content of the fish.
+
+Data provided under point 6.2.5 shall be considered, where relevant, in addressing this point.
+
+Circumstances in which required
+
+The bioconcentration of the substance, shall be assessed where:
+
+— the log Pow is greater than 3 (see point 2.7) or there are other indications of bioconcentration, and
+
+— the substance is considered stable, that is to say there is less than 90 % loss of the original substance over 24 hours via hydrolysis (see point 7.2.1.1).
+
+8.2.3. Endocrine disrupting properties
+
+Consideration shall be given to whether the active substance is a potential endocrine disruptor in aquatic non-target organisms according to Union or internationally agreed guidelines. In addition, other available information on toxicity profile and mode of action shall be taken into account. If as a result of this assessment, the active substance is identified as a potential endocrine disruptor, the type and conditions of the studies to be performed shall be discussed with the national competent authorities.
+
+8.2.4. Acute toxicity to aquatic invertebrates
+
+Circumstances in which required
+
+The acute toxicity shall be determined for a Daphnia species (preferably Daphnia magna). For active substances with an insecticidal mode of action or which show insecticidal activity a second species shall be tested, for example Chironomid larvae or Mysid shrimps (Americamysis bahia).
+
+8.2.4.1. Acute toxicity to Daphnia magna
+
+A test shall be provided on the 24- and 48-hour acute toxicity of the active substance to Daphnia magna, expressed as the median effective concentration (EC50) for immobilisation, and where possible, the highest concentration causing no immobilisation.
+
+Test conditions
+
+Concentrations up to 100 mg substance/L shall be tested. A limit test at 100 mg substance/L may be performed where the results of a range finding test indicate that no effects are to be expected.
+
+8.2.4.2. Acute toxicity to an additional aquatic invertebrate species
+
+A test shall be provided on the 24- and 48-hour acute toxicity of the active substance to an additional aquatic invertebrate species, expressed as the median effective concentration (EC50) for immobilisation, and where possible, the highest concentration causing no immobilisation.
+
+Test conditions
+
+The conditions as set out in point 8.2.4.1 shall apply.
+
+8.2.5. Long-term and chronic toxicity to aquatic invertebrates
+
+Circumstances in which required
+
+A long-term or chronic toxicity study on aquatic invertebrates shall be provided for all active substances where exposure of surface water is likely and the substance is deemed to be stable in water, that is to say there is less than 90 % loss of the original substance over 24 hours via hydrolysis (see point 7.2.1.1).
+
+A chronic toxicity study shall be submitted on one aquatic invertebrate species. If acute toxicity tests have been conducted on two aquatic invertebrate species the acute endpoints shall be taken into account (see point 8.2.4) in order to determine the appropriate species to be tested in the chronic toxicity study.
+
+If the active substance is an insect growth regulator, an additional study on chronic toxicity shall be carried out using relevant non-crustacean species such as Chironomus spp.
+
+8.2.5.1. Reproductive and development toxicity to Daphnia magna
+
+The aim of the test on reproductive and development toxicity to Daphnia magna shall be to measure adverse effects such as immobilisation and loss of reproductive capacity and to provide details of observed effects. The EC10, and EC20 shall be reported together with the NOEC. Where EC10 and EC20 cannot be estimated, an explanation shall be provided.
+
+8.2.5.2. Reproductive and development toxicity to an additional aquatic invertebrate species
+
+The test on reproductive and development toxicity to an additional aquatic invertebrate species shall measure adverse effects such as immobilisation and loss of reproductive capacity and provide details of observed effects. The EC10, and EC20 shall be reported together with the NOEC. Where EC10 and EC20 cannot be estimated, an explanation shall be provided.
+
+8.2.5.3. Development and emergence in Chironomus riparius
+
+The active substance shall be applied to the water overlying sediment and effects on survival and development of Chironomus riparius, including effects on emergence of adults, shall be measured to provide endpoints for those substances considered to interfere with insect moulting hormones or that have other effects on insect growth and development. The EC10 and EC20 shall be reported together with the NOEC.
+
+Test conditions
+
+Concentrations of active substance in the overlying water and the sediment shall be measured to establish an EC10, EC20 and a NOEC. The active substance shall be measured often enough to allow the calculation of test endpoints based on nominal as well as time-weighted average concentrations.
+
+8.2.5.4. Sediment dwelling organisms
+
+When accumulation of an active substance in aquatic sediment is indicated or predicted by environmental fate studies, the impact on a sediment-dwelling organism shall be assessed. The chronic risk to Chironomus riparius or Lumbriculus spp. shall be determined. An appropriate alternative test species may be used where a recognised guideline is available. The active substance shall be applied to either the water or the sediment phase of a water/sediment system and the test shall take account of the major route of exposure. The key endpoint from the study shall be presented in terms of mg substance/kg dry sediment and mg substance/L water and the EC10 and EC20 shall be reported together with the NOEC.
+
+Test conditions
+
+Concentrations of active substance in the overlying water and the sediment shall be measured to establish an EC10, EC20 and a NOEC.
+
+8.2.6. Effects on algal growth
+
+Circumstances in which required
+
+Testing shall be carried out on one green alga (such as Pseudokirchneriella subcapitata, synonym Selenastrum capricornutum).
+
+For active substances that exhibit herbicidal activity a test on a second species from a different taxonomic group shall be performed such as a diatom, for example Navicula pelliculosa.
+
+The EC10, EC20, EC50 and corresponding NOEC values shall be provided.
+
+8.2.6.1. Effects on growth of green algae
+
+A test shall be provided establishing EC10, EC20, EC50 for green algae and corresponding NOEC values for algal growth rate and yield, based on measurements of biomass or surrogate measurement variables.
+
+Test conditions
+
+Concentrations up to 100 mg substance/L shall be tested. A limit test at 100 mg substance/L may be performed when results of a range-finding test indicate that no effects are to be expected at lower concentrations.
+
+8.2.6.2. Effects on growth of an additional algal species
+
+A test shall be provided establishing EC10, EC20, EC50 for an additional algal species and corresponding NOEC values for algal growth rate and yield, based on measurements of biomass (or surrogate measurement variables).
+
+Test conditions
+
+The test conditions as set out in point 8.2.6.1 shall apply.
+
+8.2.7. Effects on aquatic macrophytes
+
+A test shall be provided establishing EC10, EC20, EC50 and corresponding NOEC values for Lemna species growth rate and yield, based on measurements of number of fronds and at least one additional measurement variable (dry weight, fresh weight or frond area).
+
+For other species of aquatic macrophytes, a test shall provide sufficient information to evaluate impact on aquatic plants and provide EC10, EC20, EC50 and corresponding NOEC values based on measurement of appropriate biomass parameters.
+
+Circumstances in which required
+
+A laboratory test with Lemna species shall be performed for herbicides and plant growth regulators and for substances where there is evidence from information submitted under point 8.6 of Part A of this Annex or point 10.6 of Part A of the Annex to Regulation (EU) No 284/2013 that the test substance has herbicidal activity. Additional testing may be required by the national competent authorities on other macrophyte species depending on the mode of action of the substance, or if clear indications of higher toxicity are apparent to dicotyledonous (for example auxin inhibitor, broad leaf herbicides) or other monocotyledonous (for example grass herbicides) plant species from efficacy or terrestrial non-target plants tests (see point 8.6 of Part A of this Annex and point 10.6 of Part A of the Annex to Regulation (EU) No 284/2013).
+
+Additional aquatic macrophyte species tests may be undertaken on a dicotyledonous species, such as Myriophyllum spicatum, Myriophyllum aquaticum or a monocotyledonous species, such as aquatic grass Glyceria maxima, as appropriate. The need to perform such studies shall be discussed with the national competent authorities.
+
+Test conditions
+
+Concentrations up to 100 mg substance/L shall be tested. A limit test at 100 mg substance/L may be performed when results of a range-finding test indicate that no effects are to be expected.
+
+8.2.8. Further testing on aquatic organisms
+
+Further studies on aquatic organisms may be conducted to refine the identified risk and shall provide sufficient information and data to evaluate potential impact on aquatic organisms under field conditions.
+
+Studies undertaken may take the form of additional species testing, modified exposure testing, microcosm or mesocosm studies.
+
+Circumstances in which required
+
+The need to perform such studies shall be discussed with the national competent authorities.
+
+Test conditions
+
+The type and conditions of the study to be performed shall be discussed with the national competent authorities.
+
+**8.3. Effect on arthropods**
+
+8.3.1. Effects on bees
+
+Effects on bees shall be assessed and the risk evaluated, including the risk deriving from residues of the active substance or its metabolites in nectar, pollen and water, including guttation. Reports of the tests referred to in points 8.3.1.1, 8.3.1.2 and 8.3.1.3 shall be submitted, except where plant protection products containing the active substance are for exclusive use in situations where bees are not likely to be exposed such as:
+
+(a) food storage in enclosed spaces;
+
+(b) non-systemic preparations for application to soil, except granules;
+
+(c) non-systemic dipping treatments for transplanted crops and bulbs;
+
+(d) wound sealing and healing treatments;
+
+(e) non systemic rodenticidal baits;
+
+(f) use in greenhouses without bees as pollinators.
+
+For seed treatments the risk from drift of dust during drilling of the treated seed shall be taken into account. As regards granules and slug pellets the risk from drift of dust during application shall be taken into account. If an active substance is systemic and to be used on seeds, bulbs, roots, applied directly to soil, irrigation water, or applied directly to or into the plant, for example by spraying or stem injection, the risk to bees foraging those plants shall be assessed, including the risk deriving from residues of the plant protection product in nectar, pollen and water, including guttation.
+
+Where bees are likely to be exposed, testing by both acute (oral and contact) and chronic toxicity, including sub-lethal effects, shall be conducted.
+
+Where exposure of bees to residues in nectar, pollen or water resulting from systemic properties of the active substance may occur and where the acute oral toxicity is &lt; 100 μg/bee or a considerable toxicity for larvae occurs, residues concentrations in these matrices shall be provided and the risk assessment shall be based on a comparison of the relevant endpoint with those residue concentrations. If this comparison indicates that an exposure to toxic levels cannot be excluded, effects shall be investigated with higher tier tests.
+
+8.3.1.1. Acute toxicity to bees
+
+Where bees are likely to be exposed, testing for acute oral and contact toxicity shall be performed.
+
+8.3.1.1.1. Acute oral toxicity
+
+A test for acute oral toxicity shall be provided establishing the acute LD50 values together with the NOEC. Sub-lethal effects, if observed, shall be reported.
+
+Test conditions
+
+The test shall be conducted with the active substance. Results shall be presented in terms of μg active substance/bee.
+
+8.3.1.1.2. Acute contact toxicity
+
+A test for acute contact toxicity shall be provided establishing the acute LD50 values together with the NOEC. Sub-lethal effects, if observed, shall be reported.
+
+Test conditions
+
+The test shall be conducted with the active substance. Results shall be presented in terms of μg active substance/bee.
+
+8.3.1.2. Chronic toxicity to bees
+
+A test for chronic toxicity to bees shall be provided establishing the chronic oral EC10, EC20, EC50 together with the NOEC. Where the chronic oral EC10, EC20, EC50 cannot be estimated, an explanation shall be provided. Sub-lethal effects, if observed, shall be reported.
+
+Circumstances in which required
+
+The test shall be carried out where bees are likely to be exposed.
+
+Test conditions
+
+The test shall be conducted with the active substance. Results shall be presented in terms of μg active substance/bee.
+
+8.3.1.3. Effects on honeybee development and other honeybee life stages
+
+A bee brood study shall be conducted to determine effects on honeybee development and brood activity. The bee brood study shall provide sufficient information to evaluate possible risks from the active substance on honeybee larvae.
+
+The test shall provide the EC10, EC20 and EC50 for adult bees, where possible, and larvae together with the NOEC. Where EC10, EC20, EC50 cannot be estimated, an explanation shall be provided. Sub-lethal effects, if observed, shall be reported.
+
+Circumstances in which required
+
+The test shall be carried out for active substances for which sub-lethal effects on growth or development cannot be excluded, unless the applicant shows that it is not possible that honeybee brood will be exposed to the active substance.
+
+8.3.1.4. Sub-lethal effects
+
+Tests investigating sub-lethal effects, such as behavioural and reproductive effects, on bees and, where applicable, on colonies may be required.
+
+8.3.2. Effects on non-target arthropods other than bees
+
+Circumstances in which required
+
+Effects on non-target terrestrial arthropods shall be investigated for all active substances except where plant protection products containing the active substance are for exclusive use in situations where non-target arthropods are not exposed such as:
+
+— food storage in enclosed spaces that preclude exposure,
+
+— wound sealing and healing treatments,
+
+— enclosed spaces with rodenticidal baits.
+
+Two indicator species, the cereal aphid parasitoid Aphidius rhopalosiphi (Hymenoptera: Braconidae) and the predatory mite Typhlodromus pyri (Acari: Phytoseiidae) shall always be tested. Initial testing shall be performed using glass plates and mortality (and reproduction effects if assessed) shall be reported. Testing shall determine a rate-response relationship and LR50 ( 18 ), ER50 ( 19 ) and NOEC endpoints shall be reported for assessment of the risk to these species in accordance with the relevant risk quotient analysis. If adverse effects can be clearly predicted from these studies then testing using higher tier studies may be required (see point 10.3 of Part A of the Annex to the Regulation (EU) No 284/2013 for further details).
+
+With active substances suspected of having a special mode of action (such as insect growth regulators, insect feeding inhibitors) additional tests involving sensitive life stages, special routes of uptake or other modifications, may be required by the national competent authorities. The rationale for the choice of test species used shall be provided.
+
+8.3.2.1. Effects on Aphidius rhopalosiphi
+
+A test shall provide sufficient information to evaluate the toxicity in terms of LR50 and NOEC of the active substance to Aphidius rhopalosiphi.
+
+Test conditions
+
+Initial testing shall be performed using glass plates.
+
+8.3.2.2. Effects on Typhlodromus pyri
+
+A test shall provide sufficient information to evaluate the toxicity in terms of LR50 and NOEC of the active substance to Typhlodromus pyri.
+
+Test conditions
+
+Initial testing shall be performed using glass plates.
+
+**8.4. Effects on non-target soil meso- and macrofauna**
+
+8.4.1. Earthworm — sub-lethal effects
+
+A test shall provide information on the effects on growth, reproduction and behaviour of the earthworm.
+
+Circumstances in which required
+
+Sub-lethal effects on earthworms shall be investigated where the active substance can contaminate soil.
+
+Test conditions
+
+Testing shall determine a dose-response relationship and the EC10, EC20 and NOEC shall enable the risk assessment to be conducted in accordance with the appropriate risk quotient analysis, taking into account likely exposure, the organic carbon content (foc) of the test medium and the lipophilic properties (Kow) of the test substance. The test substance shall be incorporated into the soil to obtain a homogenous soil concentration. Testing with soil metabolites may be avoided if there is analytical evidence to indicate that the metabolite is present at an adequate concentration and duration in the study conducted with the parent active substance.
+
+8.4.2. Effects on non-target soil meso- and macrofauna (other than earthworms)
+
+Circumstances in which required
+
+Effects on soil organisms, other than earthworms, shall be investigated for all test substances, except in situations where soil organisms are not exposed such as:
+
+(a) food storage in enclosed spaces that preclude exposure;
+
+(b) wound sealing and healing treatments;
+
+(c) enclosed spaces with rodenticidal baits.
+
+For plant protection products applied as a foliar spray data on Folsomia candida and Hypoaspis aculeifer may be required by the national competent authorities. If data are available on both Aphidius rhopalosiphi and Typhlodromus pyri these may be used in an initial risk assessment. If concern is raised with either species tested under point 8.3.2, data on both Folsomia candida and Hypoaspis aculeifer shall be provided.
+
+If data on Aphidius rhopalosiphi and Typhlodromus pyri are not available, then the data set out in point 8.4.2.1 shall be provided.
+
+For plant protection products applied directly to soil as soil treatments either as a spray or as a solid formulation, testing shall be carried out on both on Folsomia candida and Hypoaspis aculeifer (see point 8.4.2.1).
+
+8.4.2.1. Species level testing
+
+A test shall provide sufficient information to perform an assessment of the toxicity of the active substance to the soil invertebrate indicator species Folsomia candida and Hypoaspis aculeifer.
+
+Test conditions
+
+Testing shall determine a dose-response relationship and the EC10, EC20 and NOEC shall enable the risk assessment to be conducted in accordance with the appropriate risk quotient analysis, taking into account likely exposure, the organic carbon content (foc) of the test medium and the lipophilic properties (Kow) of the test substance. The test substance shall be incorporated into the soil to obtain a homogenous soil concentration. Testing with soil metabolites may be avoided if there is analytical evidence to indicate that the metabolite is present at an adequate concentration and duration in the study conducted with the parent active substance.
+
+**8.5. Effects on soil nitrogen transformation**
+
+A test shall provide sufficient data to evaluate the impact of active substances on soil microbial activity, in terms of nitrogen transformation.
+
+Circumstances in which required
+
+The test shall be carried out where plant protection products containing the active substance are applied to soil or can contaminate soil under practical conditions of use. In the case of active substances intended for use in plant protection products for soil sterilisation, the studies shall be designed to measure rates of recovery following treatment.
+
+Test conditions
+
+Soils used shall be freshly sampled agricultural soils. The sites from which soil is taken shall not have been treated during the previous two years with any substance that could substantially alter the diversity and levels of microbial populations present, other than in a transitory manner.
+
+**8.6. Effects on terrestrial non-target higher plants**
+
+8.6.1. Summary of screening data
+
+The information provided shall be sufficient to permit the evaluation of effects of the active substance on non-target plants.
+
+Circumstances in which required
+
+Screening data shall establish whether test substances exhibit herbicidal or plant growth regulatory activity. The data shall include testing from at least six plant species from six different families including both mono- and dicotyledons. The tested concentrations and rates shall be equal or higher than the maximum recommended application rate and at a rate either to simulate use pattern under field conditions, with testing conducted after the final treatment, or at a rate applied directly that takes in to account the accumulation of residues following multiple applications of the plant protection product. If screening studies do not cover the specified range of species or the necessary concentrations and rates, tests as set out in point 8.6.2 shall be carried out.
+
+For assessment of active substances with herbicidal or plant growth regulatory activity screening data shall not be used. Point 8.6.2 shall apply.
+
+Test conditions
+
+A summary of available data from tests used to assess biological activity and dose range finding studies, whether positive or negative, which may provide information with respect to possible impact on other non-target flora, shall be provided, together with an assessment as to the potential impact on non-target plant species.
+
+These data shall be supplemented by further information, in summary form, on the observed effects on plants during the course of field testing, namely efficacy, residues, environmental fate and ecotoxicological field studies.
+
+8.6.2. Testing on non-target plants
+
+A test shall provide the ER50 values of the active substance to non-target plants.
+
+Circumstances in which required
+
+For active substances that exhibit herbicidal or plant growth regulator activity, vegetative vigour and seedling emergence concentration/response tests shall be provided for at least six species representing families for which herbicidal/plant growth regulatory action has been found. Where, from the mode of action, it can be clearly established that either seedling emergence or vegetative vigour is effected, only the relevant study shall be conducted.
+
+Data are not required, where exposure is negligible, for example in the case of rodenticides, active substances used for wound protection or seed treatment, or in the case of active substances used on stored products or in glasshouses where exposure is precluded.
+
+Test conditions
+
+Dose-response tests on a selection of 6 to 10 monocotyledon and dicotyledon plant species representing as many taxonomic groups as possible shall be provided.
+
+**8.7. Effects on other terrestrial organisms (flora and fauna)**
+
+Any available data on the effects of the product on other terrestrial organisms shall be submitted.
+
+**8.8. Effects on biological methods for sewage treatment**
+
+A test shall provide an indication as to the potential of the active substance on biological sewage treatment systems.
+
+Circumstances in which required
+
+Effects on biological methods for sewage treatment shall be reported where the use of plant protection products containing the active substance can give rise to adverse effects on sewage treatment plants.
+
+**8.9. Monitoring data**
+
+Available monitoring data concerning adverse effects of the active substance to non-target organisms shall be reported.
+
+**SECTION 9**
+
+**Literature data**
+
+A summary of all relevant data from the scientific peer reviewed open literature on the active substance, metabolites and breakdown or reaction products and plant protection products containing the active substance shall be submitted.
+
+**SECTION 10**
+
+**Classification and labelling**
+
+Proposals for the classification and labelling of the active substance in accordance with Regulation (EC) No 1272/2008 shall be submitted and justified, including:
+
+— pictograms,
+
+— signal words,
+
+— hazard statements, and
+
+— precautionary statements.
+
+**PART B**
+
+**ACTIVE SUBSTANCES THAT ARE MICRO-ORGANISMS**
+
+<table>
+<tr><td colspan="2">Table of contents</td></tr>
+<tr><td></td><td>INTRODUCTION TO PART B</td></tr>
+<tr><td>1.</td><td>Identity of the applicant, identity of the active substance and manufacturing information</td></tr>
+<tr><td>1.1.</td><td>Applicant</td></tr>
+<tr><td>1.2.</td><td>Producer</td></tr>
+<tr><td>1.3.</td><td>Identity, taxonomy and phylogeny of the micro-organism</td></tr>
+<tr><td>1.4.</td><td>Specification of the microbial pest control agent as manufactured</td></tr>
+<tr><td>1.4.1.</td><td>Content of the active substance</td></tr>
+<tr><td>1.4.2.</td><td>Identity and quantification of additives, relevant contaminating micro-organisms and relevant impurities</td></tr>
+<tr><td>1.4.2.1.</td><td>Identity and quantification of additives</td></tr>
+<tr><td>1.4.2.2.</td><td>Identity and content of relevant contaminating micro-organisms</td></tr>
+<tr><td>1.4.2.3.</td><td>Identity and quantification of relevant impurities</td></tr>
+<tr><td>1.4.3.</td><td>Analytical profile of batches</td></tr>
+<tr><td>1.5.</td><td>Information on manufacturing process and control measures for the active substance</td></tr>
+<tr><td>1.5.1.</td><td>Production and quality control</td></tr>
+<tr><td>1.5.2.</td><td>Recommended methods and precautions concerning handling, storage, transport or fire</td></tr>
+<tr><td>1.5.3.</td><td>Procedures for destruction or decontamination</td></tr>
+<tr><td>2.</td><td>Biological properties of the micro-organism</td></tr>
+<tr><td>2.1.</td><td>Origin, occurrence and history of use</td></tr>
+<tr><td>2.1.1.</td><td>Origin and isolation source</td></tr>
+<tr><td>2.1.2.</td><td>Occurrence</td></tr>
+<tr><td>2.1.3.</td><td>History of use</td></tr>
+<tr><td>2.2.</td><td>Ecology and life cycle of the micro-organism</td></tr>
+<tr><td>2.3.</td><td>Mode of action on the target organism and host range</td></tr>
+<tr><td>2.4.</td><td>Growth requirements</td></tr>
+<tr><td>2.5.</td><td>Infectivity to the target organism</td></tr>
+<tr><td>2.6.</td><td>Relationship to known human pathogens and to pathogens to non-target organisms</td></tr>
+<tr><td>2.7.</td><td>Genetic stability and factors affecting it</td></tr>
+<tr><td>2.8.</td><td>Information on metabolites of concern</td></tr>
+<tr><td>2.9.</td><td>Presence of transferable antimicrobial resistance genes</td></tr>
+<tr><td>3.</td><td>Further information</td></tr>
+<tr><td>3.1.</td><td>Function and target organism</td></tr>
+<tr><td>3.2.</td><td>Field of use envisaged</td></tr>
+<tr><td>3.3.</td><td>Crops or products protected or treated</td></tr>
+<tr><td>3.4.</td><td>Information on possible development of resistance in the target organism(s)</td></tr>
+<tr><td>3.5.</td><td>Literature data</td></tr>
+<tr><td>4.</td><td>Analytical methods</td></tr>
+<tr><td>4.1.</td><td>Methods for the analysis of the MPCA as manufactured</td></tr>
+<tr><td>4.2.</td><td>Methods to determine the density of the micro-organism and quantify residues</td></tr>
+<tr><td>5.</td><td>Effects on human health</td></tr>
+<tr><td>5.1.</td><td>Medical data</td></tr>
+<tr><td>5.1.1.</td><td>Therapeutic and first aid measures</td></tr>
+<tr><td>5.1.2.</td><td>Medical surveillance</td></tr>
+<tr><td>5.1.3.</td><td>Information on sensitisation and allergenicity</td></tr>
+<tr><td>5.1.4.</td><td>Direct observation</td></tr>
+<tr><td>5.2.</td><td>Assessment on potential infectivity and pathogenicity of the micro-organism to humans</td></tr>
+<tr><td>5.3.</td><td>Infectivity and pathogenicity studies on the micro-organism</td></tr>
+<tr><td>5.3.1.</td><td>Infectivity and pathogenicity</td></tr>
+<tr><td>5.3.1.1.</td><td>Oral infectivity and pathogenicity</td></tr>
+<tr><td>5.3.1.2.</td><td>Intratracheal/ intranasal infectivity and pathogenicity</td></tr>
+<tr><td>5.3.1.3.</td><td>Intravenous, intraperitoneal or subcutaneous single exposure</td></tr>
+<tr><td>5.3.2.</td><td>Cell culture study</td></tr>
+<tr><td>5.4.</td><td>Specific infectivity and pathogenicity studies on the micro-organism</td></tr>
+<tr><td>5.5.</td><td>Information and toxicity studies on metabolites</td></tr>
+<tr><td>5.5.1.</td><td>Information on metabolites</td></tr>
+<tr><td>5.5.2.</td><td>Additional toxicity studies on metabolites of concern</td></tr>
+<tr><td>6.</td><td>Residues in or on treated products, food and feed</td></tr>
+<tr><td>6.1.</td><td>Estimation of consumer exposure to residues</td></tr>
+<tr><td>6.2.</td><td>Data generation on residues</td></tr>
+<tr><td>7.</td><td>Environmental occurrence of the micro-organism, including fate and behaviour of metabolites of concern</td></tr>
+<tr><td>7.1.</td><td>Environmental occurrence of the micro-organism</td></tr>
+<tr><td>7.1.1.</td><td>Predicted environmental density of the micro-organism</td></tr>
+<tr><td>7.1.1.1.</td><td>Soil</td></tr>
+<tr><td>7.1.1.2.</td><td>Water</td></tr>
+<tr><td>7.1.2.</td><td>Exposure to micro-organisms known to be pathogenic either for plants or for other organisms</td></tr>
+<tr><td>7.1.3.</td><td>Qualitative exposure assessment of the micro-organism</td></tr>
+<tr><td>7.1.4.</td><td>Experimental exposure data of the micro-organism</td></tr>
+<tr><td>7.2.</td><td>Fate and behaviour of metabolite(s) of concern</td></tr>
+<tr><td>7.2.1.</td><td>Predicted environmental concentration</td></tr>
+<tr><td>7.2.2.</td><td>Qualitative exposure assessment</td></tr>
+<tr><td>7.2.3.</td><td>Experimental exposure data</td></tr>
+<tr><td>8.</td><td>Ecotoxicological studies</td></tr>
+<tr><td>8.1.</td><td>Effects on terrestrial vertebrates</td></tr>
+<tr><td>8.2.</td><td>Effects on aquatic organisms</td></tr>
+<tr><td>8.2.1.</td><td>Effects on fish</td></tr>
+<tr><td>8.2.2.</td><td>Effects on aquatic invertebrates</td></tr>
+<tr><td>8.2.3.</td><td>Effects on algae</td></tr>
+<tr><td>8.2.4.</td><td>Effects on aquatic macrophytes</td></tr>
+<tr><td>8.3.</td><td>Effects on bees</td></tr>
+<tr><td>8.4.</td><td>Effects on non-target arthropods other than bees</td></tr>
+<tr><td>8.5.</td><td>Effects on non-target meso- and macro-organisms in soil</td></tr>
+<tr><td>8.6.</td><td>Effects on non-target terrestrial plants</td></tr>
+<tr><td>8.7.</td><td>Additional studies on the micro-organism</td></tr>
+<tr><td>8.8.</td><td>Information and toxicity studies on metabolites</td></tr>
+<tr><td>8.8.1.</td><td>Information on metabolites</td></tr>
+<tr><td>8.8.2.</td><td>Additional toxicity studies on metabolites of concern</td></tr>
+</table>
+
+**INTRODUCTION TO PART B**
+
+(i) This Introduction to Part B complements the Introduction to this Annex with points which are specific for active substances that are micro-organisms.
+
+(ii) For the purpose of Part B, the following definitions apply:
+
+(1) ‘strain’ means a genetic variant of an organism in its taxonomic level (species) that is made up of the descendants of a single isolation in pure culture from the original matrix (e.g. the environment) and usually is made up of a succession of cultures ultimately derived from an initial single colony;
+
+(2) ‘colony-forming unit’ (‘CFU’) means a measurement unit used to estimate the number of bacterial or fungal cells in a sample, which have the ability to multiply under controlled growing conditions, with the consequence that one or more cells reproduce and multiply to form a single visible colony;
+
+(3) ‘International Unit’ (‘IU’) means a quantity of a substance that produces a specific effect when tested in accordance with an internationally accepted biological procedure;
+
+(4) ‘Microbial Pest Control Agent as manufactured’ (‘MPCA as manufactured’) means the outcome of the manufacturing process of the micro-organism(s) intended to be used as active substance in plant protection products, consisting of the micro-organism(s) and any additives, metabolites (including metabolites of concern), chemical impurities (including relevant impurities), contaminating micro-organisms (including relevant contaminating micro-organisms) and the spent medium/rest fraction resulting from the manufacturing process or, in case of a continuous manufacturing processes where a strict separation between the manufacturing of the micro-organism(s) and the production process of the plant protection product is not possible, a non-isolated intermediate;
+
+(5) ‘additive’ means a component added to the active substance during its manufacturing, to preserve microbial stability and/or facilitate handling;
+
+(6) ‘purity’ means the content of the micro-organism present in the MPCA as manufactured expressed in a relevant unit and the maximum content of substances of concern in case they are identified;
+
+(7) ‘relevant contaminating micro-organism’ means a pathogenic/infective micro-organism unintentionally present in the MPCA as manufactured;
+
+(8) ‘seed stock’ means a microbial strain starter culture used to manufacture the MPCA as manufactured or the final plant protection product;
+
+(9) ‘spent medium/rest fraction’ means the fraction of the MPCA as manufactured consisting of remaining or transformed starting materials, and excluding the micro-organism(s) that is the active substance, metabolites of concern, additives, relevant contaminating micro-organisms, and relevant impurities;
+
+(10) ‘starting material’ means substances used in the manufacturing process of the MPCA as manufactured as substrate and/or buffering agent;
+
+(11) ‘ecological niche’ means an ecological function and actual physical spaces occupied by a particular species within the community or ecosystem;
+
+(12) ‘host range’ means the range of different biological host-species that can be infected by a microbial species or strain;
+
+(13) ‘infectivity’ means the ability of a micro-organism to cause an infection;
+
+(14) ‘infection’ means the non-opportunistic introduction or entry of a micro-organism into a susceptible host, where the micro-organism is able to reproduce to form new infective units and persist in the host, whether or not the micro-organism causes pathological effects or disease;
+
+(15) ‘pathogenicity’ means the non-opportunistic ability of a micro-organism to inflict injury and damage to the host upon infection;
+
+(16) ‘non-opportunistic’ means a condition under which a micro-organism exerts an infection or inflicts an injury or damage when the host is not weakened by a predisposing factor (e.g. immune system impaired by an unrelated cause);
+
+(17) ‘opportunistic infection’ means an infection occurring in a host weakened by a predisposing factor (e.g. immune system impaired by an unrelated cause);
+
+(18) ‘virulence’ means the degree of pathogenicity that a pathogenic micro-organism is able to exert in the host;
+
+(19) ‘virulence factor’ means a factor that enhance the pathogenicity/virulence of a micro-organism;
+
+(20) ‘metabolite of concern’ means a metabolite produced by the micro-organism under assessment, with known toxicity or known relevant antimicrobial activity, which is present in the MPCA as manufactured at levels that may present a risk to human health, animal health or the environment, and/or for which it cannot be adequately justified that in-situ production of the metabolite is not relevant for the risk assessment;
+
+(21) ‘ in-situ production’ means the production of a metabolite by the micro-organism after application of the plant protection product containing that micro-organism;
+
+(22) ‘background level of a metabolite’ means a level of a metabolite that is likely to occur in relevant European environments (including also sources different than those of plant protection) and/or in food and feed (e.g. edible plant parts), when the micro-organisms are in conditions to grow, reproduce and to produce such metabolite in presence of a host or availability of carbon and nutrient sources, under consideration of high host densities and nutrients;
+
+(23) ‘antimicrobial resistance’ (‘AMR’) means the intrinsic or acquired ability of a micro-organism to multiply in the presence of an antimicrobial agent at concentrations which are relevant for therapeutic measures in human or veterinary medicine, making that substance therapeutically ineffective;
+
+(24) ‘antimicrobial agent’ means any antibacterial, antiviral, antifungal, anthelmintic or antiprotozoal agent that is a substance of natural, semi-synthetic, or synthetic origin that at in vivo concentrations kills or inhibits the growth of micro-organisms by interacting with a specific target;
+
+(25) ‘acquired antimicrobial resistance’ means a non-intrinsic and acquired novel resistance enabling a micro-organism to survive or multiply in the presence of an antimicrobial agent at concentrations higher than that which inhibits wild type strains of the same species;
+
+(26) ‘intrinsic antimicrobial resistance’ means all inherent properties of a microbial species that limit the action of antimicrobial agents thereby allowing it to survive and multiply in presence of the antimicrobial agents at concentrations that are relevant for their therapeutic uses. Inherent properties of micro-organisms are considered not transferable and can include structural characteristics like lack of drug targets, the impermeability of cellular envelopes, activity of multidrug efflux pumps, or activity of metabolic enzymes. An antimicrobial resistance gene is considered intrinsic if it is located on a chromosome in the absence of mobile genetic element and shared by the majority of wild type strains of the same species;
+
+(27) ‘relevant antimicrobial activity’ means the antimicrobial activity caused by relevant antimicrobial agents;
+
+(28) ‘relevant antimicrobial agents’ means all antimicrobial agents important for therapeutic use in humans or animals, as described in the latest available versions at the time of submission of the dossier:
+
+— in a list adopted by means of Commission Regulation (EU) 2021/1760 ( 20 ) in accordance with Article 37(5) of Regulation (EU) 2019/6 of the European Parliament and of the Council ( 21 ), or
+
+— by the World Health Organisation ( 22 ) in the lists of Critically Important Antimicrobials, Highly Important Antimicrobials and Important Antimicrobials for Human Medicine;
+
+(29) ‘viroid’ means any of a class of infectious agents consisting of a small strand of RNA not associated with any protein. The RNA does not code for proteins and is not translated; it is replicated by host cell enzymes;
+
+(30) ‘predicted environmental density’ means a conservative estimation of the population density of the micro-organism in soil or surface water upon application in accordance with the conditions of use, calculated based on the maximum application rate and the maximum number of applications per year of the plant protection product containing the micro-organism.
+
+(iii) The information from scientific peer-reviewed literature as provided for under point 1.4 of the Introduction shall be provided at the relevant taxonomic level of the micro-organism (e.g. strain, species, genus). An explanation on why the chosen taxonomic level is considered relevant for the addressed data requirement shall be provided.
+
+(iv) Other available sources of information, such as medical reports, may also be provided and submitted in a summary.
+
+(v) Where appropriate or specifically indicated in the data requirements, test guidelines as described in Part A shall be used also for this Part, upon adaptation in such a way that they are appropriate for chemical compounds present in the MPCA as manufactured.
+
+(vi) Where testing is done, a detailed description (specification) of the material used and its impurities, in accordance with point 1.4, shall be provided. Where studies are conducted using micro-organisms produced in the laboratory or in a pilot scale production system, the studies shall be repeated using the MPCA as manufactured, unless it can be demonstrated that the test material used is essentially the same for the purposes of the testing and assessment.
+
+(vii) If the active substance is a genetically modified micro-organism, a copy of the evaluation of the data concerning the risk assessment, as stated in Article 48 of Regulation (EC) No 1107/2009, shall be submitted.
+
+(viii) The assessment of pathogenicity and infectivity of micro-organisms shall be based on a weight of evidence approach, taking into account that:
+
+— tests on animals may not always be suitable for extrapolation to humans due to differences between humans and test animals (e.g. immune system, microbiome), and
+
+— micro-organisms might have narrow host range, as a result of which it cannot always be assumed that a micro-organism that does not cause disease in the animals tested has the same result in humans, and vice-versa.
+
+(ix) The information on the micro-organism shall be sufficient to permit an evaluation to be made as to the risk concerning to anti-microbial resistance.
+
+(x) Until validated methods for testing dermal and respiratory sensitisation caused by micro-organisms become available, all micro-organisms shall be considered as potential sensitisers.
+
+**1\. IDENTITY OF THE APPLICANT, IDENTITY OF THE ACTIVE SUBSTANCE AND MANUFACTURING INFORMATION**
+
+**1.1. Applicant**
+
+The name and address of the applicant shall be provided, as well as the name, address, telephone number and e-mail address of a contact point.
+
+**1.2. Producer**
+
+The following information shall be provided:
+
+(a) the name and address of the producer of the active substance;
+
+(b) the name and address of each manufacturing plant in which the active substance is produced or will be produced;
+
+(c) a contact point (preferably a central contact point), including name, telephone number and e-mail address.
+
+Where, following approval of the micro-organism, there are changes in the address or number of producers, the information required shall again be submitted.
+
+**1.3. Identity, taxonomy and phylogeny of the micro-organism**
+
+The information provided shall allow an unambiguous identification and characterisation of the micro-organism.
+
+(i) The micro-organism shall be deposited at an internationally recognised culture collection at the time of submission of the dossier. The contact details of the culture collection and accession number shall be submitted.
+
+(ii) The micro-organism shall be identified as unequivocally belonging to a certain species, based on the latest scientific information, and named at strain level, including any other designation which may be relevant to the micro-organism (e.g. isolate level, if relevant for viruses). Its scientific name and taxonomic grouping shall be stated. This includes traditional Linnean taxonomy (kingdom, phylum, class, order, family, genus, species, and strain) as well as established rank-free phylogenetic taxa in between these Linnean ranks and any other denomination relevant to the micro-organism (e.g. serovar, pathovar, biovar).
+
+(iii) All known synonymous, alternative, superseded names shall be provided. If code names have been used during development these shall also be provided.
+
+(iv) A phylogenetic tree including the micro-organism shall be provided. The scale of the phylogenetic tree shall be selected to include relevant strains and species (e.g. in case of use of read-across among related strains or species to address data requirements). Superseded names of included micro-organisms or taxonomic groupings may be indicated in the phylogenetic tree.
+
+(v) It shall be indicated whether the micro-organism is a wild type, a mutant (either spontaneous or induced) or whether it has been genetically modified. If the micro-organism is a mutant or has been modified, all known differences in properties, including genetic differences, between the modified micro-organism and the parent wild strain shall be provided. The technique used for the modification shall be reported.
+
+**1.4. Specification of the microbial pest control agent as manufactured**
+
+1.4.1. Content of the active substance
+
+The minimum and maximum content of the micro-organism in the MPCA as manufactured shall be derived from the analysis of five representative batches as indicated under point 1.4.3 and reported. The content shall be expressed in appropriate microbial unit that most accurately reflects plant protection action, such as number of active units, colony forming units, or international units per volume or weight or any other manner that is relevant to the risk assessment on the micro-organism. A rationale for the relevance of the microbial unit used in the context of the tests to be conducted shall be provided. The use of such unit shall be consistent along studies and literature data provided. In case of provision of literature data with different units, recalculation based on the units used shall be provided.
+
+In case it is claimed that one or more metabolites present in the MPCA as manufactured are part of the plant protection action, the content of these metabolites shall be indicated as provided for in point 1.9 of Part A.
+
+1.4.2. Identity and quantification of additives, relevant contaminating micro-organisms and relevant impurities
+
+Data on additives, relevant contaminating micro-organisms, relevant impurities and metabolites of concern, present in the MPCA as manufactured shall be directly derived from the analysis of five representative batches as indicated under point 1.4.3 and reported.
+
+1.4.2.1. Identity and quantification of additives
+
+The identity, minimum and maximum content in g/kg of each additive in the MPCA as manufactured shall be provided.
+
+1.4.2.2. Identity and content of relevant contaminating micro-organisms
+
+The identity and maximum content of relevant contaminating micro-organisms in the MPCA as manufactured, expressed in the appropriate unit, shall be reported.
+
+1.4.2.3. Identity and quantification of relevant impurities
+
+The identity and maximum content of chemical impurities present in the MPCA as manufactured and which are relevant due to undesirable toxicological, ecotoxicological or environmental properties, shall be reported in g/kg, including also metabolites of concern produced by the micro-organism as impurities in the manufacturing batch.
+
+1.4.3. Analytical profile of batches
+
+At least five representative batches from recent and current production of the micro-organism shall be analysed. All of the representative batches shall bear a date within the last five years of manufacture. Manufacturing dates of the representative batches and batches size shall be reported.
+
+Where the active substance is produced in different manufacturing plants, the information required under this point shall be provided for each of the plants separately.
+
+Where the information provided relates to a pilot manufacturing plant production system, the information required shall again be provided once industrial scale production methods and procedures have stabilised. Where available, industrial scale data shall be provided before approval under Regulation (EC) No 1107/2009. Where data on industrial scale production are not available, a justification shall be provided.
+
+**1.5. Information on manufacturing process and control measures for the active substance**
+
+1.5.1. Production and quality control
+
+Information on how the micro-organism is produced in bulk shall be provided for all the steps of the manufacturing process. Such information shall include relevant descriptions of:
+
+— starting materials,
+
+— culture media sterilisation (e.g. autoclave),
+
+— initial inocula level for the culture media (e.g. number of conidia/g of dry culture media),
+
+— cultures and media conditions (e.g. pH, temperature, water activity (aw)),
+
+— phase of the growth curve and growth stage of the micro-organism during the production process,
+
+— ratio vegetative cells / (endo)spores,
+
+— fermentation process,
+
+— purification and cellular dehydration,
+
+— other technical parameters (e.g. centrifugation protocols).
+
+The type of manufacturing process (e.g. continuous or batch process) shall be indicated.
+
+Both production method/process and product shall be subject to a continuous quality control, and the quality assurance criteria shall be submitted. In particular, the possible occurrence of spontaneous changes of characteristics of the micro-organism shall be monitored. It shall be indicated where in the process the quality assurance steps are implemented and it shall be described how the samples for quality assurance screening are taken.
+
+The techniques used to ensure a uniform product, and the assay methods for its standardisation, maintenance and purity, to prevent the presence of relevant contaminating micro-organisms and relevant impurities in the MPCA as manufactured shall be described and specified.
+
+Information on possible loss of activity of starting cultures shall be provided along with corresponding methods to assess it. If relevant, any method aiming at preventing the micro-organism from losing its effects on the target organism shall be described.
+
+1.5.2. Recommended methods and precautions concerning handling, storage, transport or fire
+
+A safety data sheet pursuant to Article 31 of Regulation (EC) No 1907/2006 ( 23 ) shall be provided for the MPCA as manufactured.
+
+1.5.3. Procedures for destruction or decontamination
+
+Methods to dispose safely of the MPCA as manufactured or, where necessary, to render the micro-organism non-viable prior to disposal of the MPCA as manufactured (e.g. chemical methods or autoclaving) and methods to dispose of contaminated packaging and other materials shall be described.
+
+Information that makes it possible to establish the effectiveness and safety of these methods shall be provided.
+
+**2\. BIOLOGICAL PROPERTIES OF THE MICRO-ORGANISM**
+
+**2.1. Origin, occurrence and history of use**
+
+2.1.1. Origin and isolation source
+
+The geographical location and environmental compartment (e.g. substrate, host organisms), from which the micro-organism was isolated, shall be stated. The method of isolation and the selection procedure of the micro-organism shall be reported.
+
+2.1.2. Occurrence
+
+The geographical distribution of the micro-organism shall be described.
+
+The environmental compartment(s) where the micro-organism is already expected to occur shall be described (e.g. soil, water, rhizosphere, phyllosphere, host organism).
+
+When relevant, food or feed commodities where the micro-organism is already expected to occur shall be described.
+
+The information referred to in this point shall be provided at the most relevant highest taxonomic level (e.g. strain, species, genus) and the choice of the relevant highest taxonomic level shall be justified.
+
+2.1.3. History of use
+
+Previous and current known uses of the micro-organism (e.g. research, commercial, uses evaluated for recommending the Qualified Presumption of Safety ( 24 ) status) shall be described. The description shall include both plant protection and other uses (e.g. uses and/or assessments under other regulatory frameworks, bioremediation, uses in food and feed).
+
+The information referred to in this point shall be provided at the most relevant highest taxonomic level (e.g. strain, species, genus). The choice of the relevant highest taxonomic level shall be justified.
+
+**2.2. Ecology and life cycle of the micro-organism**
+
+The known life cycle(s) of the micro-organism, its lifestyle(s) (e.g. parasitic, saprophytic, endophytic, pathogenic) and its ecological niche(s) shall be described, along with all forms that may occur and the type of reproduction.
+
+For bacteriophages, information shall be provided on, if applicable, lysogenic and lytic properties.
+
+For fungi and bacteria, information shall be provided, if applicable, on:
+
+— external conditions for resting stages, information on resistance of spores against adverse environmental conditions, survival time of the spores and conditions for germination, and/or
+
+— formation of biofilm.
+
+**2.3. Mode of action on the target organism and host range**
+
+All available information on modes of action against the target organism(s) shall be provided.
+
+In case of a pathogenic or parasitic mode of action on the target organism, information on the site of infection and mode of entry into the target organism, the infective dose and the susceptible stages of the target organism shall be given. The results of any experimental studies shall be reported.
+
+In case of a mode of action based on a metabolite of concern produced by the micro-organism under assessment and identified as required by point 2.8, information from scientific peer-reviewed literature or any other reliable source on likely mode of action of the metabolite of concern and likely exposure route of the target organism to the metabolite of concern shall be provided.
+
+All known host organisms of the micro-organism shall be listed at the relevant taxonomic level. Available information on possible density of host organisms, supporting the indication on natural occurrence of the micro-organisms, shall be provided.
+
+**2.4. Growth requirements**
+
+The conditions required for growth and proliferation of the micro-organism shall be described (e.g. host, nutrients, pH, osmotic potential, humidity). The minimum, optimum and maximum temperature required for growth and proliferation shall be reported. The generation time under favourable growth conditions shall be reported.
+
+**2.5. Infectivity to the target organism**
+
+In case any pathogenic mode(s) of action on the target organism is described under point 2.3, virulence factors and (if applicable) environmental factors affecting them shall be indicated and described. The results of any relevant experimental studies and/or data/information from the existing literature at the relevant taxonomic level shall be reported.
+
+**2.6. Relationship to known human pathogens and to pathogens to non-target organisms**
+
+Where the micro-organism is closely related to any known pathogens to humans, animals, crops or other non-target species, the applicant shall:
+
+— list the pathogens and the type of known diseases caused,
+
+— describe the known virulence factors belonging to the pathogens,
+
+— describe the known virulence factors belonging to the micro-organism which is the active substance,
+
+— describe the phylogenetic relationship between the micro-organism and the related pathogens identified,
+
+— describe the way or means to distinguish the active micro-organism from pathogenic species.
+
+**2.7. Genetic stability and factors affecting it**
+
+Where the micro-organism is a non-virulent variant of a plant pathogen virus, the likelihood of regaining virulence through mutation after application under the proposed conditions of use shall be reported, including the information on measures that can be taken to reduce the likelihood of this occurrence and the effectiveness of such measures.
+
+**2.8. Information on metabolites of concern**
+
+The applicant shall identify and list under this point the metabolites of concern produced by the micro-organism, including a summary of the information submitted under points 5.5.1, 8.8.1, 6.1, 7.2.1 and 7.2.2 used to identify or to exclude metabolites as being of concern, unless the micro-organism is a virus.
+
+Metabolites of concern may be identified based on the scientific literature, or on observation of toxicity, ecotoxicity or antimicrobial activity in studies conducted with the micro-organism or closely related strains. The absence of the gene(s) required for the production of the identified metabolite(s) of potential concern evidenced by employing appropriate genomic methods (e.g. whole genome sequencing), shall be considered to prove the absence of such hazard for that metabolite(s).
+
+All the available information (e.g. scientific literature, experimental studies) on the metabolites and the related identified hazards (e.g. the toxicological characterization) and, where relevant, the exposure to the metabolite shall be submitted under the relevant points (i.e. points 5.5, 6.1, 6.2 and 7.2 if relevant for human and animal health and points 7.2 and 8.8 if relevant for non-target organisms).
+
+**2.9. Presence of transferable antimicrobial resistance genes**
+
+Where the micro-organism is a bacterium, information on any resistance to relevant antimicrobial agents shall be reported at strain level, and information on whether the antimicrobial resistance genes are acquired, transferable and functional shall be reported. The information provided shall be sufficient to perform an evaluation as to the risks for human and animal health due to a possible transfer of relevant antimicrobial resistance genes.
+
+**3\. FURTHER INFORMATION**
+
+**3.1. Function and target organism**
+
+The biological function shall be specified as:
+
+— control of bacteria,
+
+— control of fungi,
+
+— control of viruses,
+
+— control of insects,
+
+— control of mites,
+
+— control of molluscs,
+
+— control of nematodes,
+
+— control of plants,
+
+— other (shall be specified).
+
+**3.2. Field of use envisaged**
+
+The field(s) of use, existing and proposed, for plant protection product containing the micro-organism shall be specified from among the following:
+
+— field use, such as agriculture, horticulture, forestry and viticulture,
+
+— protected crops (e.g. in greenhouses),
+
+— non-cultivated areas,
+
+— home gardening,
+
+— houseplants,
+
+— stored food/feed items,
+
+— seed treatment,
+
+— other (shall be specified).
+
+**3.3. Crops or products protected or treated**
+
+Details of existing or intended use in terms of crops, groups of crops, plants or plant products protected shall be provided.
+
+**3.4. Information on possible development of resistance in the target organism(s)**
+
+Available information from scientific peer-reviewed literature or any other reliable source of information on the possible occurrence of the development of resistance or cross-resistance of the target organism(s) shall be provided. Where possible, appropriate management strategies shall be described.
+
+**3.5. Literature data**
+
+A summary on the systematic review of the scientific peer-reviewed literature employed to provide the data required under Part B shall be provided, including indication on bibliographic databases employed, criteria for relevance and reliability assessment in relation to the data requirements and search strategies, etc.
+
+The summary shall list the references used for the dossier compilation and for which points the respective references are relevant.
+
+**4\. ANALYTICAL METHODS**
+
+**Introduction**
+
+Analytical methods shall be used in the context of the analysis of the compliance of manufacturing batches with the agreed specification, where relevant (Section 1) and of the generation of data for the risk assessment on human toxicology or ecotoxicology. Analytical methods shall also support post-approval stages, for instance to monitor residues on crops (Section 6), if applicable. The method used shall be justified.
+
+Descriptions of methods shall be provided and include details of equipment, materials and conditions used. The applicability of any internationally recognised method shall be reported.
+
+Data on specificity, linearity, accuracy and repeatability, as laid down in points 4.1 and 4.2 of Part A, are also required for analytical chemistry methods used to analyse relevant impurities, metabolites of concern and additives included in the MPCA as manufactured.
+
+On request by the rapporteur Member State, the following shall be provided:
+
+(i) samples of the MPCA as manufactured;
+
+(ii) if technically possible, analytical standards of metabolites of concern and all other components included in the residue definition (in case of non-provision of such a sample a justification shall be provided);
+
+(iii) if available, samples of reference substances for the relevant impurities.
+
+**4.1. Methods for the analysis of the MPCA as manufactured**
+
+The following methods shall be described providing validation data:
+
+(a) methods for the identification of the micro-organism required in accordance with points 1.3(ii) and 1.3(iv), including the most appropriate molecular analytical or phenotypic methods, based on unique genotypic or phenotypic markers to distinguish the strain from other strains belonging to the same species, with information on appropriate test procedures and criteria used for identification (e.g. morphology, biochemistry, serology and molecular identification);
+
+(b) methods for the characterisation of the micro-organism, including the most appropriate molecular analytical methods or phenotypic methods, as required by Section 2 with information on appropriate test procedures and criteria used for identification (e.g. morphology, biochemistry, serology and molecular identification);
+
+(c) methods for providing information on possible variability of seed stock/active micro-organism and its storability (including loss of activity and its assessment), as required by Section 1;
+
+(d) methods to differentiate a spontaneous or induced mutant of the micro-organism from the parental wild strain, e.g. including the most appropriate molecular analytical methods as required by Section 1;
+
+(e) methods for the establishment of purity of seed stock from which batches are produced and methods to control that purity, e.g. including the most appropriate molecular analytical methods as required by Section 1;
+
+(f) methods to determine the content of the micro-organism in the manufacturing batch, and methods to detect and enumerate relevant contaminating micro-organisms, as required in Section 1, to allow verifying the compliance of the material/batch with a maximal threshold of relevant contaminating micro-organism;
+
+(g) methods for the determination of relevant impurities, metabolites of concern, and additives, where they are present in the manufacturing material as required by Section 1.
+
+**4.2. Methods to determine the density of the micro-organism and quantify residues**
+
+The methods used to determine and quantify:
+
+— the density of the micro-organisms, where relevant, as required in points 5.3, 5.4, 6.1 and 7.1.4 and in Section 8,
+
+— the residues of metabolites of concern, where relevant, as required in points 2.8, 5.5 and 8.8 and Section 6;
+
+on and/or in crops, foodstuffs, feeding stuffs, animal and human body tissues and fluids and in relevant environmental compartments shall be described.
+
+Where relevant, methods for post-approval monitoring shall be described. As far as practicable, the post-approval methods shall be as simple as possible, involve a minimum cost and require commonly available equipment.
+
+**5\. EFFECTS ON HUMAN HEALTH**
+
+**Introduction**
+
+(i) The information provided, taken together with that provided for one or more plant protection products containing the micro-organism, shall be sufficient to perform an evaluation as to the risks for human and animal (i.e. species normally fed and kept by humans or food-producing animals) health:
+
+(a) directly and/or indirectly associated with the handling and use of plant protection products containing the micro-organism;
+
+(b) associated with the handling of treated products; and
+
+(c) arising from residues or impurities remaining in food and water.
+
+In addition, the information provided shall be sufficient to:
+
+— permit a decision to be made as to whether or not the micro-organism is to be approved,
+
+— specify appropriate conditions or restrictions to be associated with the approval,
+
+— specify risk and safety phrases for the protection of human and animal health and the environment to be included on packaging (containers),
+
+— identify relevant first aid measures as well as appropriate diagnostic and therapeutic measures to be followed in the event of infection or another adverse effect in humans.
+
+(ii) All adverse effects found during investigations shall be reported. Investigations which may be necessary in order to evaluate the probable mechanism involved, and to assess the significance of these effects shall also be performed.
+
+(iii) For all studies actual achieved dose of the micro-organisms or of the metabolite of concern in appropriate units per kg body weight (e.g. CFU/kg), or in any other appropriate units shall be reported. Justification for the chosen unit shall be provided.
+
+(iv) Available information on the identity and biological properties of the micro-organism (Sections 1 and 2) as well as health and medical reports may be sufficient for an assessment of the infectivity and pathogenicity potential of the micro-organism.
+
+(v) Further studies may be required to complete the evaluation of the effects on human health, and the type of these additional studies shall be decided on a case-by-case approach based on expert judgement, depending on the available information provided in particular as regards the biological properties of the micro-organism. Pending the acceptance of specific guidelines at international level, the information required shall be generated using available test guidelines.
+
+(vi) Additional studies (see point 5.4) shall be conducted if available information (see point 5.2) or tests under point 5.3 require further investigation or have shown adverse health effects. The type of study to be performed depends on the effects observed.
+
+**5.1. Medical data**
+
+5.1.1. Therapeutic and first aid measures
+
+Therapeutic regimes and first aid measures for use in the event of ingestion, inhalation or eyes and skin contamination shall be described. Available information based on practical experience or on theoretical grounds shall be provided.
+
+Where available and without prejudice to Article 10 of Directive 98/24/EC ( 25 ), practical data and information relevant to the recognition of the symptoms of infection or pathogenicity and on the effectiveness of therapeutic measures shall be submitted.
+
+For micro-organisms excluding viruses, antimicrobial agents with effectiveness against the micro-organism shall be listed. In case of identification of metabolite(s) of concern, as required in point 2.8, the effectiveness of known antagonists of such metabolite(s) shall be reported.
+
+5.1.2. Medical surveillance
+
+Available reports of occupational health surveillance programmes shall be submitted. These reports may refer to the strain under assessment, to closely related strains or to metabolites of concern, and shall be supported with information on the design of the programme, on use of appropriate protective measures including personal protective equipment, on exposure to the micro-organism or the metabolites of concern. These reports shall, where available, include data on effects on individuals exposed to the micro-organism or the metabolites of concern in manufacturing plants or after application of the micro-organism (e.g. agricultural or research workers). These reports shall, where available, also cover data on sensitisation and/or allergenic responses.
+
+In the case of adverse effects, attention shall be paid to whether the individual’s susceptibility may have been affected by any pre-disposing conditions, e.g. pre-existing disease, medication, compromised immunity, pregnancy or breast-feeding.
+
+5.1.3. Information on sensitisation and allergenicity
+
+Available reports from the peer-reviewed published literature on the micro-organism or closely related members of the taxonomic group and relating to sensitisation in humans shall be submitted. Due to the unavailability of an adequate method to assess sensitisation potential of micro-organisms, they shall be considered as potential sensitisers until a validated test is available and the possible absence of sensitisation potential is demonstrated on a case-by-case basis.
+
+5.1.4. Direct observation
+
+Available reports from the peer-reviewed published literature on the micro-organism or closely related members of the taxonomic group and relating to clinical cases of infections in humans shall be submitted together with reports of any follow-up studies undertaken. Such reports shall contain descriptions of the nature and level of exposure, as well as the clinical symptoms observed, first aid and therapeutic measures applied and measurements and other observations made.
+
+In the case of adverse effects, attention shall be paid to whether the individual’s susceptibility may have been affected by any pre-disposing conditions, e.g. pre-existing disease, medication, compromised immunity, pregnancy or breast-feeding.
+
+**5.2. Assessment on potential infectivity and pathogenicity of the micro-organism to humans**
+
+Studies to determine the potential infectivity and pathogenicity of the micro-organism shall be performed as set out in points 5.3.1 and 5.4, unless the applicant demonstrates, by following a weight of evidence approach, that no such effects are to be expected. The weight of evidence approach may be based on the information provided under points 2.1, 2.3, 2.4, 2.6 and 5.1, and/or be retrieved from any other reliable sources (e.g. Qualified Presumption of Safety ( 26 )). A summary shall take into consideration this information to demonstrate absence of infectivity and pathogenicity to humans, in order to justify the non-submission of the studies required in points 5.3.1 and 5.4.
+
+**5.3. Infectivity and pathogenicity studies on the micro-organism**
+
+5.3.1. Infectivity and pathogenicity
+
+Unless the applicant can demonstrate absence of infectivity and pathogenicity based on a weight of evidence approach as set out in point 5.2, studies, data and information shall be provided and evaluated as required from points 5.3.1.1 to 5.3.1.3. These shall be sufficient to permit the identification of effects following a single exposure to the micro-organism, and in particular to establish or indicate:
+
+— the infectivity and pathogenicity of the micro-organism,
+
+— the time course and characteristics of the effects with full details of observed changes (clinical and behavioural) and possible gross pathological findings at post-mortem,
+
+— the relative hazards associated with the different routes of exposure, and
+
+— analyses throughout the studies in order to evaluate the clearance of the micro-organism.
+
+If these studies are performed, the applicant shall:
+
+— adapt the observation period to the biological properties of the micro-organism administered, in particular its incubation time, rate of clearance and timing for observation of adverse effects,
+
+— estimate, during the infectivity and pathogenicity studies, the micro-organism clearance in the organs which are relevant for microbial examination (e.g. liver, kidneys, spleen, lungs, brain, blood and site of administration),
+
+— take into account the potential differential species susceptibility (i.e. relevance of the chosen test species) to the micro-organism (e.g. based on literature) when the study results and their relevance for humans are evaluated.
+
+5.3.1.1. Oral infectivity and pathogenicity
+
+The oral infectivity and pathogenicity following a single exposure to the micro-organism shall be reported.
+
+A study in test animals in accordance with relevant guidelines shall be performed, unless the applicant can demonstrate absence of oral infectivity and pathogenicity based on a weight of evidence approach as set out in point 5.2.
+
+5.3.1.2. Intratracheal/ intranasal infectivity and pathogenicity
+
+The intratracheal/ intranasal infectivity and pathogenicity following a single exposure to the micro-organism shall be reported. Expert judgement may support the evaluation on which of the two exposure routes is the most appropriate to be investigated, based on biological properties of the micro-organism and available information described in points 5.1 and 5.2.
+
+A study in test animals in accordance with relevant guidelines shall be performed, unless the applicant can demonstrate absence of intratracheal/ intranasal infectivity and pathogenicity based on a weight of evidence approach as set out in point 5.2.
+
+5.3.1.3. Intravenous, intraperitoneal or subcutaneous single exposure
+
+The intravenous, intraperitoneal or subcutaneous test shall be considered a highly sensitive assay to elicit in particular infectivity. The worst-case scenario – micro-organism bypassing the dermal barrier and entering the body in a high concentration – may be used to assess the results of oral and intratracheal/intranasal testing in case of uncertainties.
+
+The choice on which is the most appropriate exposure route to be investigated shall be based on biological properties of the micro-organism and available information required in points 5.1 and 5.2.
+
+A study in test animals in accordance with the relevant guidelines shall be performed, unless the applicant can demonstrate absence of intravenous, intraperitoneal or subcutaneous infectivity and pathogenicity based on a weight of evidence approach as set out in point 5.2.
+
+5.3.2. Cell culture study
+
+This information shall be reported for intracellular replicating micro-organisms, such as viruses, viroids or, where relevant, bacteria and protozoa, unless the information provided in accordance with Sections 1, 2 and 3 clearly demonstrates that the micro-organism does not replicate in homoeothermic (warm-blooded) organisms.
+
+If this information is required, a cell culture study shall be performed in human cell or tissue cultures of different organs. Selection may be based on expected target organs after infection. If human cell or tissue cultures of specific organs are not available, other mammal cell and tissue cultures shall be used. For viruses, particular attention shall be given on the ability to interact with the human genome.
+
+**5.4. Specific infectivity and pathogenicity studies on the micro-organism**
+
+In case, based on expert judgement, available information (see point 5.2) or effects observed in the single dose infectivity and pathogenicity studies (see point 5.3.1) require further investigation, specific infectivity and/or pathogenicity studies shall be carried out, in particular in case of close relatedness to micro-organisms which are pathogenic to humans or animals.
+
+If these studies are required, they shall be designed on an individual basis, in the light of the particular parameters to be investigated and the objectives to be achieved.
+
+**5.5. Information and toxicity studies on metabolites**
+
+5.5.1. Information on metabolites
+
+Information (e.g. scientific literature, studies results) on the toxicological characterization of the metabolites and the related identified hazards to human and animal health, collected or generated with the aim to identify the metabolites of concern, or to exclude them as being of concern, shall be submitted.
+
+For those metabolites for which a hazard to human or animal health is identified, an estimation of human exposure shall be provided under points 6.1 and 7.2.1.
+
+5.5.2. Additional toxicity studies on metabolites of concern
+
+For metabolite(s) of concern, identified based on information provided on hazard to (see point 5.5.1) and exposure of (see points 6.1, 7.2.1 and 7.2.2) humans or animals and listed under point 2.8, toxicological reference value(s) shall be set based on the available toxicological information for each metabolite of concern. The reference values shall allow risk assessments to be performed for operators, workers, bystanders, residents and consumers, as appropriate, unless a risk assessment can be made by other means (e.g. a qualitative assessment or using the Threshold of Toxicological Concern (TTC) concept).
+
+If reference values cannot be set based on already existing information or if reported effects need further investigation, studies may be required and shall be performed based on a case-by-case approach (for example short-term toxicity studies and genotoxicity studies). If any toxicity studies on metabolites are conducted, the requirements set out in Part A for the specific type of study shall be followed.
+
+For organisms which have not been extensively studied, i.e. where the amount of published information is not sufficient to conclude on the production of metabolites of concern, a repeated-dose toxicity study on relevant fractions of the MPCA as manufactured shall be conducted in accordance with the provisions set out in Part A for the same type of study. The decision to require further studies shall be based on the type of any toxic effects observed during such repeated-dose toxicity study and on expert judgement.
+
+**6\. RESIDUES IN OR ON TREATED PRODUCTS, FOOD AND FEED**
+
+**Introduction**
+
+Data on residues as required in point 6.2 shall be provided, unless:
+
+— based on a weight of evidence approach concerning the information submitted in accordance with Sections 2, 3, 5 and 7, it can be justified that possible metabolites of concern identified (see point 2.8) are not hazardous to humans as a result of the intended use,
+
+— it is possible to conclude, through estimation of consumer exposure to residues of metabolites for which a hazard to human health was identified (see point 5.5.1) that the risk for consumers is acceptable, or
+
+— the micro-organism is a virus.
+
+**6.1. Estimation of consumer exposure to residues**
+
+An estimation of consumer exposure shall be provided for metabolites for which a hazard to human health was identified based on information submitted in accordance with point 5.5.1, considering the intended use.
+
+The estimation shall include, for the metabolites for which a hazard to human health was identified, a calculation of the expected residue levels of these metabolites on edible parts of treated crops using worst-case estimates, taking into account the critical good agricultural practice(s), ecology of the micro-organism, such as its lifestyle (e.g. saprophytic, parasitic, endophytic), host range, life cycle, population growth requirements and the conditions which trigger the production and the properties of the metabolite for which a hazard to human health was identified.
+
+The estimation of exposure to residues of metabolites, for which a hazard to human health was identified may also be supported by direct measurements of the metabolite, e.g. to show the absence of the metabolite on edible parts at time of harvest. When determining the need for direct measurements, the possibility and relevance of exposure to the metabolite produced after application on the edible parts (in-situ production) shall be taken into consideration. This may include a comparison between the background level of the metabolite and the elevated level of it due to treatment with the plant protection product containing the active substance. Read across approaches shall be justified.
+
+An estimation of exposure to metabolites, for which a hazard to human health was identified, may be supported by the direct measurements of the density of the micro-organism on edible parts of treated crops, e.g. if it cannot be adequately justified that in-situ production of the metabolite is not relevant for the consumers. Such measurements shall be performed under normal conditions of use and in accordance with good agricultural practice.
+
+The estimation shall take into consideration, depending on the case, the whole crop life-cycle (e.g. pre-harvest, and post-harvest), in order to allow a proper assessment of the risk to consumers. A weight of evidence approach shall be employed. Where relevant, adequate justification for read-across shall be provided (e.g. between different substances, members of a species, climatic conditions).
+
+Based on the exposure estimation, an indicative consumer risk assessment shall be performed to demonstrate that the anticipated exposure to metabolites, for which a hazard to human health was identified, does not constitute an unacceptable dietary consumer risk.
+
+**6.2. Data generation on residues**
+
+For those metabolites of concern identified under point 2.8 and for which it was not adequately demonstrated that the risk to consumers is acceptable based on the information provided under point 6.1, relevant studies of a data package on residues as provided in Section 6 of Part A shall be required. The studies shall be performed with a representative plant protection product aiming at analysing and, if possible, at quantifying the different metabolites of concern identified as described in point 2.8.
+
+If a data package on residues is required:
+
+— half of the supervised residues trials shall be residue decline trials which shall include, unless it can be demonstrated that only non-viable micro-organisms are present at the time of harvest, at least one post-harvest measurement,
+
+— information on levels of the micro-organism and concentrations of the metabolite(s) of concern shall be provided,
+
+— based on the residue trials, a consumer risk assessment shall be performed to demonstrate that the exposure does not constitute an unacceptable consumer risk.
+
+**7\. ENVIRONMENTAL OCCURRENCE OF THE MICRO-ORGANISM, INCLUDING FATE AND BEHAVIOUR OF METABOLITES OF CONCERN**
+
+**Introduction**
+
+(i) This Section sets out requirements that make it possible to determine ecological implications of the micro-organism, considering its occurrence in the relevant environmental compartments and to assess the potential exposure of humans and non-target organisms to the active substance, and where relevant to metabolites of concern. Information on the biological properties and ecology of the micro-organism as well as its intended use, i.e. information submitted in accordance with Sections 1 to 6 such as occurrence in European environments, is the main source of information. This may be complemented with literature data, laboratory investigation or field measurements.
+
+(ii) The information provided for the micro-organism and one or more preparations containing the micro-organism shall be sufficient to permit an assessment of the exposure of non-target organisms to the micro-organism. In addition, sufficient information shall be provided to permit an assessment of metabolites of concern, in case they are identified under point 2.8.
+
+(iii) The information provided shall be sufficient to identify measures necessary to minimise impact on non-target species and the environment.
+
+**7.1. Environmental occurrence of the micro-organism**
+
+7.1.1. Predicted environmental density of the micro-organism
+
+7.1.1.1. Soil
+
+The predicted environmental density of the micro-organism in soil following treatment with the plant protection product containing that micro-organism under the proposed conditions of use shall be estimated, unless the applicant properly justifies absence of hazard under Section 8.
+
+7.1.1.2. Water
+
+The predicted environmental density of the micro-organism in surface water following treatment with the plant protection product containing that micro-organism under the proposed conditions of use shall be estimated, unless the applicant properly justifies absence of hazard under Section 8.
+
+7.1.2. Exposure to micro-organisms known to be pathogenic either for plants or for other organisms
+
+For micro-organisms not occurring in the relevant European environments at the relevant highest taxonomic level and which are known to be pathogenic either for plants or for other organisms (see points 2.2 and 2.3), the host organisms in which proliferation of the micro-organism is expected shall be indicated. If non-target organisms indicated under Section 8 may be exposed to the host organisms colonised by the pathogen, information on the likelihood and, if applicable, level of exposure shall be provided.
+
+Such information may be provided based on the biological properties (see Section 2), literature data and/or studies required under Section 8.
+
+7.1.3. Qualitative exposure assessment of the micro-organism
+
+A qualitative assessment of the exposure to the micro-organism shall be carried out if:
+
+— adverse effects are observed on non-target organisms (see Section 8) after exposure to environmentally relevant concentrations, based on the predicted environmental density of the micro-organism calculated as provided for in point 7.1.1, or information is not sufficient to conclude about it, or
+
+— under consideration of the information provided for in point 7.2 a potential risk is identified for humans or non-target organism(s), or information is not sufficient to conclude about it.
+
+If required to provide supporting information for the risk assessment, a qualitative assessment of the exposure to the micro-organism shall be provided employing a weight of evidence approach. Such qualitative assessment shall take into consideration the predicted environmental densities calculated under point 7.1.1, and may be based on the ecology of the micro-organism, such as its lifestyle (e.g. saprophytic, parasitic, endophytic), host range and densities of possible hosts, life cycle, population growth requirements or available monitoring data at the relevant highest taxonomic level. Adequate justification for using read-across shall be provided (e.g., among strains of the same species).
+
+7.1.4. Experimental exposure data of the micro-organism
+
+If under consideration of the information provided under points 7.1.1, 7.1.2, 7.1.3 and 7.2 a potential risk is identified for humans or non-target organism(s) or information is not sufficient to conclude about it, the population density of the micro-organism shall be determined in relevant environmental compartment(s) (e.g. soil, water, plant surfaces).
+
+The experimental data shall include population densities measured in a time course including pre-application and immediately post-application, aiming at demonstrating the potential decline of population density.
+
+**7.2. Fate and behaviour of metabolite(s) of concern**
+
+7.2.1. Predicted environmental concentration
+
+In case metabolites which are hazardous to humans or non-target organisms (see points 5.5.1 and 8.8.1) are present in the MPCA as manufactured, the predicted environmental concentration of the metabolites in the relevant environmental compartment (i.e. soil, surface water, groundwater or air) shall be provided. If it cannot be adequately demonstrated that in-situ production of the metabolites is not relevant for the risk assessment, provisions set out in point 7.2.2 shall be followed.
+
+No predicted environmental concentration calculations are needed for metabolites for which a hazard to human health or non-target organisms was identified that are produced in situ but are not present in the MPCA as manufactured.
+
+7.2.2. Qualitative exposure assessment
+
+In case of identification of metabolites for which a hazard to human health or non-target organisms was identified (see points 5.5.1 and 8.8.1), a qualitative exposure assessment shall be performed on such metabolites where the information provided under point 7.2.1 is not sufficient to conclude on acceptable risk to non-target organisms or on no-risks to human health.
+
+If required, the assessment may be based on existing knowledge on:
+
+— the micro-organism, such as its ecology, lifestyle, host range, life cycle, population growth requirements, available monitoring data at the relevant highest taxonomic level or the conditions which trigger the production of the metabolite, or
+
+— the metabolite, such as physical and chemical properties or background levels.
+
+A weight of evidence approach shall be employed. Adequate justification for using read-across shall be provided (e.g. between different substances, members of a species, climatic conditions).
+
+7.2.3. Experimental exposure data
+
+Experimental exposure data shall be provided for the metabolites of concern identified under point 2.8 for which the information provided under points 7.2.1 and 7.2.2 is not sufficient to conclude on acceptable risk to non-target organisms, or on no-risks to human health.
+
+In such cases and if technically possible, sufficient information on the concentration of the metabolite of concern in the relevant environmental compartments (e.g. soil, surface water, groundwater, air, flowers, leaves, roots, host organisms) shall be provided to permit an assessment. The study shall be conducted in accordance with the relevant provisions of Part A for the relevant type of study.
+
+**8\. ECOTOXICOLOGICAL STUDIES**
+
+**Introduction**
+
+(i) This Section sets out requirements for the data to allow:
+
+— for the assessment of potential adverse effects on non-target organisms likely to be exposed to the micro-organism and relevant associated metabolites of concern, and
+
+— for the identification of the relevant tests to be carried out on specific non-target organisms, based on information regarding intrinsic properties, so as to limit testing to what is necessary to conclude the risk assessment.
+
+Special attention shall be paid to microbial species which are not known to occur in the relevant European environments. The information provided shall be sufficient to determine the physiological and ecological host range (in conjunction with the analysis of key biological traits of the micro-organisms) in order to assess impacts on non-target organisms.
+
+(ii) The information provided at the most relevant highest taxonomic level, taken together with that for one or more preparations containing the micro-organism, shall be sufficient to permit an assessment of the impact on non-target species, likely to be at risk from exposure to the micro-organism. When submitting this information, the applicant shall take into account that the impact on non-target species can result from single, prolonged or repeated exposure and can be reversible or irreversible. The information provided shall be sufficient to:
+
+— decide whether or not the micro-organism can be approved,
+
+— specify appropriate conditions or restrictions to be associated with any approval,
+
+— permit an evaluation of short- and long-term risks for non-target species - populations, communities, and processes, as appropriate, and
+
+— specify any precautions deemed necessary for the protection of non-target species.
+
+(iii) In general, the duration of experimental studies shall be long enough to permit time for incubation, infection and manifestation of adverse effects in non-target organisms depending on the biological properties of the micro-organism. The provided studies shall take into consideration the maximum recommended application rate or the expected environmental concentration, the exposure that may arise from the intended uses and the potential of the micro-organism to proliferate in the environment or in the host.
+
+In order to distinguish between pathogenicity of the living micro-organism and toxic effects triggered by its metabolites of concern, appropriate controls shall be included in addition to the no-dosed control group, such as inactivated forms of the living micro-organisms, and/or sterile filtrate/supernatant controls.
+
+(iv) If pathogenicity/infectivity studies are required for any of the non-target organism groups indicated in points 8.1 to 8.6, the choice of the appropriate species of that non-target organisms group shall be based on the biological properties of the micro-organism (including the host range specificity, mode of action and ecology), the proposed use pattern(s) of the plant protection product (e.g. treated crops, frequency, timings, use patterns such as spraying or brushing) and consider relevant guidelines, where available.
+
+Additional studies may be conducted if tests referred to in points 8.1 to 8.6 have shown adverse effects in one or more non-target organisms and may include studies on additional species.
+
+(v) All known adverse effects on the environment shall be reported. Additional studies may be necessary to investigate the probable mechanisms involved and to assess the significance of these effects.
+
+(vi) It may be necessary to conduct separate studies for metabolites of concern identified under point 2.8, which constitute a relevant risk to non-target organisms. The study on non-target organisms shall be conducted in accordance with the relevant provision of Part A.
+
+(vii) In order to facilitate the assessment of the significance of test results obtained, the same species, recorded origin or, where possible, strain of each relevant non-target species shall be used in the various tests performed.
+
+**8.1. Effects on terrestrial vertebrates**
+
+A summary on potential infectivity and pathogenicity of the micro-organism to terrestrial vertebrates (e.g. mammals, birds, reptiles, and amphibians) shall be provided, based on the information already provided under Sections 1, 2, 3, 5 and 7 and that information which may be retrieved from any other reliable source.
+
+Relevant pathogenicity/infectivity studies shall be performed unless the applicant demonstrates, by following a weight of evidence approach, that pathogenicity/infectivity of the micro-organism to non-target terrestrial vertebrates can be assessed based on the summary provided.
+
+If these studies are required:
+
+— gross necropsy shall be performed and
+
+— for micro-organisms with pathogenic mode of action or viruses (e.g. entomopathogens) that are expected to proliferate significantly in the environment following an application, the oral dose administered in the studies may be justified based on the information submitted under points 7.1.1 and 7.1.2.
+
+**8.2. Effects on aquatic organisms**
+
+8.2.1. Effects on fish
+
+A summary on potential infectivity and pathogenicity of the micro-organism to fish shall be provided, based on the information already provided under Sections 1, 2, 3 and 7 and on other information which may be retrieved from any other reliable source.
+
+Relevant pathogenicity/infectivity studies shall be performed unless the applicant demonstrates, by following a weight of evidence approach, that:
+
+— pathogenicity/infectivity of the micro-organism to fish can be assessed based on the summary provided; or
+
+— exposure of fish to the micro-organism is expected to be none based on information provided under Section 7.
+
+Where adverse effects are observed in such studies, further relevant studies (e.g. under representative conditions in accordance with the proposed conditions of use) shall be performed.
+
+8.2.2. Effects on aquatic invertebrates
+
+A summary on potential infectivity and pathogenicity of the micro-organism to aquatic invertebrates shall be provided, based on the information already provided under Sections 1, 2, 3 and 7 and on other information which may be retrieved from any other reliable source.
+
+Relevant pathogenicity/infectivity studies shall be performed unless the applicant demonstrates, by following a weight of evidence approach, that:
+
+— pathogenicity/infectivity of the micro-organism to aquatic invertebrates can be assessed based on the summary provided, or
+
+— exposure of aquatic invertebrates to the micro-organism is expected to be none based on information provided under Section 7.
+
+Where adverse effects are observed in such studies, further relevant studies (e.g. under representative conditions in accordance with the proposed conditions of use) shall be performed.
+
+8.2.3. Effects on algae
+
+A summary on potential infectivity and pathogenicity of the micro-organism to algae shall be provided, based on the information already provided under Sections 1, 2, 3 and 7 and on other information which may be retrieved from any other reliable source.
+
+Relevant studies on pathogenic/infective effects on algae growth and growth rate shall be performed if the micro-organism is known to have an herbicidal mode of action or to be closely related to a plant pathogen, unless the applicant demonstrates, by following a weight of evidence approach, that:
+
+— pathogenicity/infectivity of the micro-organism to algae can be assessed based on the summary provided, or
+
+— exposure of algae to the micro-organism is expected to be none based on information provided under Section 7.
+
+Where adverse effects are observed in such studies, further relevant studies (e.g. under representative conditions in accordance with the proposed conditions of use) shall be performed.
+
+8.2.4. Effects on aquatic macrophytes
+
+A summary on potential infectivity and pathogenicity of the micro-organism to aquatic macrophytes shall be provided, based on the information already provided under Sections 1, 2, 3 and 7 and on other information which may be retrieved from any other reliable source.
+
+Relevant studies on pathogenic/infective effects on aquatic macrophytes shall be performed if the micro-organism is known to have an herbicidal mode of action, or to be closely related to a plant pathogen, unless the applicant demonstrates, by following a weight of evidence approach, that:
+
+— pathogenicity/infectivity of the micro-organism to aquatic macrophytes can be assessed based on the summary provided, or
+
+— exposure of aquatic macrophytes to the micro-organism is expected to be none based on information provided under Section 7.
+
+Where adverse effects are observed in such studies, further relevant studies (e.g. under representative conditions in accordance with the proposed conditions of use) shall be performed.
+
+**8.3. Effects on bees**
+
+A summary on potential infectivity and pathogenicity of the micro-organism to bees shall be provided, based on the information already provided under Sections 1, 2, 3 and 7 and on other information which may be retrieved from any other reliable source.
+
+Relevant pathogenicity/infectivity studies, including adult and larval stages, shall be performed, unless the applicant demonstrates, by following a weight of evidence approach, that:
+
+— pathogenicity/infectivity of the micro-organism to bees can be assessed based on the summary provided, or
+
+— exposure of bees to the micro-organism is expected to be none based on information provided under Section 7.
+
+Where adverse effects are observed in such studies, further relevant studies (e.g. field studies under representative conditions in accordance with the proposed conditions of use) shall be performed.
+
+**8.4. Effects on non-target arthropods other than bees**
+
+A summary on potential infectivity and pathogenicity of the micro-organism to non-target arthropods other than bees shall be provided, based on the information already provided under Sections 1, 2, 3 and 7 and on other information which may be retrieved from any other reliable source.
+
+Relevant pathogenicity/infectivity studies shall be performed unless the applicant demonstrates, by following a weight of evidence approach, that:
+
+— pathogenicity/infectivity of the micro-organism to non-target arthropods other than bees can be assessed based on the summary provided, or
+
+— exposure of non-target arthropods to the micro-organism is expected to be none based on information provided under Section 7.
+
+If studies are required, they shall be performed on two arthropod species other than bees playing a role in biological control and comprising different taxonomic groups (orders), where possible, for which agreed testing protocols are available, and the applicant shall provide a justification for number and taxonomy of the tested species. Moreover, these tests may require conditions affecting growth or viability of the micro-organism.
+
+Where adverse effects are observed in such studies, further relevant studies (e.g. extended laboratory tests or field studies under representative conditions in accordance with the proposed conditions of use) shall be performed.
+
+**8.5. Effects on non-target meso- and macro-organisms in soil**
+
+A summary on potential infectivity and pathogenicity of the micro-organism to non-target soil meso- and macro-organisms shall be provided, based on the information already provided under Sections 1, 2, 3 and 7 and on other information which may be retrieved from any other reliable source.
+
+Relevant pathogenicity/infectivity studies shall be performed unless:
+
+— pathogenicity/infectivity of the micro-organism to non-target soil meso- and macro-organisms can be assessed based on the summary provided, or
+
+— exposure of meso- and macro soil organisms to the micro-organism is expected to be none based on information provided under Section 7.
+
+If studies are required, they shall be performed on two non-target meso- and macro-organisms species chosen based on the biological properties of the micro-organism under evaluation, where possible, for which agreed testing protocols are available.
+
+Where adverse effects are observed in such studies, further relevant studies (e.g. under representative conditions in accordance with the proposed conditions of use) shall be performed.
+
+**8.6. Effects on non-target terrestrial plants**
+
+A summary on potential infectivity and pathogenicity of the micro-organism to non-target terrestrial plants shall be provided, based on the information already provided under Sections 1, 2, 3 and 7 and on other information which may be retrieved from any other reliable source.
+
+Relevant studies on pathogenic/infective effects on non-target terrestrial plants shall be performed if the micro-organism is known to have an herbicidal mode of action or to be closely related to a plant pathogen, unless the applicant demonstrates, by following a weight of evidence approach, that:
+
+— pathogenicity/infectivity of the micro-organism to non-target terrestrial plants can be assessed based on the summary provided, or
+
+— exposure of non-target plants to the micro-organism is expected to be none based on information provided under Section 7.
+
+Where adverse effects are observed in such studies, further relevant studies (e.g. under representative conditions in accordance with the proposed conditions of use) shall be performed.
+
+**8.7. Additional studies on the micro-organism**
+
+Further data may need to be submitted on potential pathogenicity/infectivity of the micro-organism on non-target species different from those species assessed to fulfil the requirements set out in points 8.1 to 8.6.
+
+The data may also consist of a summary including the information already provided under Sections 2, 3, 5 and 7 and those which may be retrieved from any other source, or from additional infectivity and pathogenicity studies.
+
+**8.8. Information and toxicity studies on metabolites**
+
+8.8.1. Information on metabolites
+
+Information (e.g. scientific literature, studies results) on the toxicological characterization of the metabolites and the related identified hazards relevant to non-target organisms, collected or generated with the aim to identify the metabolites of concern , or to exclude them as being of concern, shall be submitted.
+
+For those metabolites for which a hazard to non-target organisms is identified, an estimation of exposure of the relevant non-target organisms shall be provided under point 7.2.1.
+
+8.8.2. Additional toxicity studies on metabolites of concern
+
+For metabolite(s) of concern, identified based on information provided on hazard to (see point 8.8.1) and exposure of (see points 7.2.1 and 7.2.2) non-target organisms and listed under point 2.8, further information on their toxicity to the non-target organisms which are relevant (e.g. based on exposure and indication of toxicity) among those described in points 8.1 to 8.6, shall be provided. In case it is necessary to generate experimental data, relevant studies on ecotoxicology as provided for in Section 8 of Part A shall be submitted.
+
+( 1 ) OJ L 322, 8.12.2010, p. 10.
+
+( 2 ) Commission Implementing Regulation (EU) No 844/2012 of 18 September 2012 setting out the provisions necessary for the implementation of the renewal procedure for active substances, as provided for in Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market (OJ L 252, 19.9.2012, p. 26).
+
+( 3 ) Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes (OJ L 276, 20.10.2010, p. 33).
+
+( 4 ) Regulation (EC) No 1272/2008 of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives 67/548/EEC and 1999/45/EC, and amending Regulation (EC) No 1907/2006 (OJ L 353, 31.12.2008, p. 1).
+
+( 5 ) Regulation (EC) No 396/2005 of the European Parliament and of the Council of 23 February 2005 on maximum residue levels of pesticides in or on food and feed of plant and animal origin and amending Council Directive 91/414/EEC (OJ L 70, 16.3.2005, p. 1).
+
+( 6 ) Directive 2004/10/EC of the European Parliament and of the Council of 11 February 2004 on the harmonisation of laws, regulations and administrative provisions relating to the application of the principles of good laboratory practice and the verification of their applications for tests on chemical substances (OJ L 50, 20.2.2004, p. 44).
+
+( 7 ) Commission Regulation (EU) No 284/2013 of 1 March 2013 setting out the data requirements for plant protection products, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market (OJ L 93, 3.4.2013, p. 85).
+
+( 8 ) United Nations New York and Geneva (2009) Publication ISBN 978-92-1-139135-0.
+
+( 9 ) OJ L 396, 30.12.2006, p. 1.
+
+( 10 ) OJ L 365, 31.12.1994, p. 34.
+
+( 11 ) aAOEL, abbreviation for ‘Acute AOEL’.
+
+( 12 ) LD50, abbreviation for ‘Lethal Dose, 50 %’, that is to say the dose required to kill half the members of a tested population after a specified test duration.
+
+( 13 ) OJ L 131, 5.5.1998, p. 11.
+
+( 14 ) mg/kg bw/day = mg active substance / kg body weight of the concerned species / day.
+
+( 15 ) Safety intervals refer in this Section to pre-harvest intervals (PHIs), withholding periods or storage periods in the case of post-harvest treatments.
+
+( 16 ) European Communities (2011) Publication ISBN: 978-92-79-16228-2.
+
+( 17 ) OJ L 327, 22.12.2000, p. 1.
+
+( 18 ) LR50, abbreviation for ‘Lethal Rate, 50 %’, that is to say the application rate required to kill half the members of a tested population after a specified test duration.
+
+( 19 ) ER50, abbreviation for ‘Effect Rate, 50 %’, that is to say the application rate required to cause an effect on half the members of a tested population after a specified test duration.
+
+( 20 ) Commission Delegated Regulation (EU) 2021/1760 of 26 May 2021 supplementing Regulation (EU) 2019/6 of the European Parliament and of the Council by establishing the criteria for the designation of antimicrobials to be reserved for the treatment of certain infections in humans (OJ L 353, 6.10.2021, p. 1).
+
+( 21 ) Regulation (EU) 2019/6 of the European Parliament and of the Council of 11 December 2018 on veterinary medicinal products and repealing Directive 2001/82/EC (OJ L 4, 7. 1.2019, p.43).
+
+( 22 ) https://www.who.int/publications/i/item/9789241515528.
+
+( 23 ) Regulation (EC) No 1907/2006 of the European Parliament and of the Council of 18 December 2006 concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH), establishing a European Chemicals Agency, amending Directive 1999/45/EC and repealing Council Regulation (EEC) No 793/93 and Commission Regulation (EC) No 1488/94 as well as Council Directive 76/769/EEC and Commission Directives 91/155/EEC, 93/67/EEC, 93/105/EC and 2000/21/EC (OJ L 396, 30.12.2006, p. 1).
+
+( 24 ) https://www.efsa.europa.eu/en/topics/topic/qualified-presumption-safety-qps.
+
+( 25 ) Council Directive 98/24/EC of 7 April 1998 on the protection of the health and safety of workers from the risks related to chemical agents at work (fourteenth individual Directive within the meaning of Article 16(1) of Directive 89/391/EEC) (OJ L 131, 5.5.1998, p. 11).
+
+( 26 ) https://doi.org/10.2903/j.efsa.2021.6377.

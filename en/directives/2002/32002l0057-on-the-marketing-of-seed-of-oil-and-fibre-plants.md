@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the marketing of seed of oil and fibre plants**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2002/68/EC of 19 July 2002 </td><td> L 195</td><td>32</td><td>24.7.2002</td></tr>
@@ -34,6 +35,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/177 of 11 February 2020 </td><td> L 41</td><td>1</td><td>13.2.2020</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2021/971 of 16 June 2021 </td><td> L 214</td><td>62</td><td>17.6.2021</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2024/3010 of 29 November 2024 </td><td> L 3010</td><td>1</td><td>4.12.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2002/57/EC**
 
@@ -69,6 +71,7 @@ The conditions for the application of this provision shall be determined in acco
 
 means plants of the following genera and species:
 
+<table>
 <tbody><tr><td>Arachis hypogaea L.</td><td>Groundnut (peanut)</td></tr>
 <tr><td>Brassica juncea (L.) Czern  </td><td>Brown mustard</td></tr>
 <tr><td>Brassica napus L. (partim)</td><td>Swede rape</td></tr>
@@ -86,6 +89,7 @@ means plants of the following genera and species:
 <tr><td colspan="2"></td></tr>
 <tr><td>Sinapis alba L.</td><td>White mustard;</td></tr>
 </tbody>
+</table>
 
 (c) ‘basic seed’ :
 
@@ -711,6 +715,7 @@ C. Hybrids of Brassica napus, produced using the male sterility:
 
 (a) the percentage by number of plants which are recognisable as obviously not being true to the inbred line or to the component shall not exceed:
 
+<table>
 <tbody><tr><td colspan="2">(aa) for the production of basic seed</td></tr>
 <tr><td>(i) inbred lines</td><td>0,1 %</td></tr>
 <tr><td colspan="2">(ii) simple hybrids</td></tr>
@@ -720,6 +725,7 @@ C. Hybrids of Brassica napus, produced using the male sterility:
 <tr><td>— male component,</td><td>0,3 %</td></tr>
 <tr><td>— female component,</td><td>1,0 %</td></tr>
 </tbody>
+</table>
 
 (b) Male sterility shall be at least 99 % for the production of basic seed and 98 % for the production of certified seed. The level of male sterility shall be assessed by examining flowers for the absence of fertile anthers;
 
@@ -735,10 +741,12 @@ D. Hybrids of Gossypium hirsutum and Gossypium barbadense:
 
 The presence of RNQPs on the crops shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td colspan="5">Fungi and oomycetes</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species)</td><td>Thresholds for the production of pre-basic seed</td><td>Thresholds for the production of basic seed</td><td>Thresholds for the production of certified seed</td></tr>
 <tr><td>Plasmopara halstedii (Farlow) Berlese & de Toni [PLASHA]</td><td>Helianthus annuus L.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
 </tbody>
+</table>
 
 5\. The satisfaction of the abovementioned other standards or conditions shall, in the case of basic seed, be examined in official field inspections and, in the case of certified seed, be examined either in official field inspections or in inspections carried out under official supervision. These field inspections shall be carried out in accordance with the following conditions:
 
@@ -812,6 +820,7 @@ In the case of basic seed of hybrids, the varietal purity may be assessed by app
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="2">Species and category</td><td rowspan="2">Minimum-germination (% of pure seed) </td><td colspan="2">Analytical purity</td><td colspan="7">Maximum content by number of seeds of other plant species in a sample of the weight specified in column 4 of Annex III (total per column) </td><td rowspan="2">Conditions as regards content of Orobanche seeds</td></tr>
 <tr><td>Minimum analytical purity (% by weight) </td><td>Maximum content of seeds of other plant species (% by weight) </td><td>Other plan species (a)</td><td>Avena fatua, Avena sterilis</td><td>Cuscuta spp.</td><td>Raphanus raphanistrum</td><td>Rumex spp. other than Rumex acetosella</td><td>Alopecurus myosuroides</td><td>Lolium remotum</td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td></tr>
@@ -833,6 +842,7 @@ A. Table:
 <tr><td>— basic seed,</td><td>85 </td><td>98 </td><td>0,3 </td><td>—</td><td>0 </td><td>0 (c) (d)</td><td>10 </td><td>2 </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>— certified seed,</td><td>85 </td><td>98 </td><td>0,3 </td><td>—</td><td>0 </td><td>0 (c) (d)</td><td>10 </td><td>5 </td><td>  </td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section I(4)(A) of this Annex:
 
@@ -852,6 +862,7 @@ The seed shall also comply with the requirements concerning Union quarantine pes
 
 The presence of RNQPs on the seeds and the respective categories shall comply with the following requirements as set out in the table:
 
+<table>
 <tbody><tr><td colspan="5">Fungi and oomycetes</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species) </td><td>Thresholds for pre-basic seed</td><td>Thresholds for basic seed</td><td>Thresholds for certified seed</td></tr>
 <tr><td>Alternaria linicola Groves & Skolko [ALTELI]</td><td>Linum usitatissimum L.</td><td>5 % 5 % affected with Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini and Fusarium spp </td><td>5 % 5 % affected with Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini and Fusarium spp </td><td>5 % 5 % affected with Alternaria linicola, Boeremia exigua var. linicola, Colletotrichium lini and Fusarium spp </td></tr>
@@ -866,11 +877,14 @@ The presence of RNQPs on the seeds and the respective categories shall comply wi
 <tr><td>Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]</td><td>Brassica napus L. (partim), Helianthus annuus L.</td><td>Not more than 10 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC</td><td>Not more than 10 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC</td><td>Not more than 10 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC</td></tr>
 <tr><td>Sclerotinia sclerotiorum (Libert) de Bary [SCLESC]</td><td>Sinapis alba L.</td><td>Not more than 5 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC</td><td>Not more than 5 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC.</td><td>Not more than 5 sclerotia or fragments of sclerotia found in a laboratory examination of a representative sample of each seed lot, of a size specified in column 4 of Annex III to Directive 2002/57/EC.</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td colspan="5">Viruses, viroids, virus-like diseases and phytoplasmas</td></tr>
 <tr><td>RNQPs or symptoms caused by RNQPs</td><td>Plants for planting (genus or species)</td><td>Thresholds for pre-basic seed</td><td>Thresholds for basic seed</td><td>Thresholds for certified seed</td></tr>
 <tr><td>Tobacco ringspot virus [TRSV00]</td><td>Glycine max (L.) Merr.</td><td>0 %</td><td>0 %</td><td>0 %</td></tr>
 </tbody>
+</table>
 
 **II. COMMERCIAL SEED**
 
@@ -1080,6 +1094,7 @@ The label shall be grey.
 
 **(referred to by Article 31)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Deadline for transposition</td></tr>
 <tr><td>69/208/EEC</td><td>1 July 1970 (1)(2)</td></tr>
 <tr><td rowspan="3">71/162/EEC</td><td>1 July 1970 (Article 5(1), (2) and (7))</td></tr>
@@ -1122,9 +1137,11 @@ The label shall be grey.
 <tr><td>98/96/EC</td><td>1 February 2000</td></tr>
 <tr><td colspan="2">(1)  For Denmark, Ireland and the United Kingdom, 1 July 1973 for Article 14(1); 1 July 1974 for the other provisions concerning basic seed and 1 July 1976 for the other provisions.  (2)  1 January 1986 for Greece, 1 March 1986 for Spain, and 1 January 1991 for Portugal.  (3)  Concerning Annex I(3).  (4)  Concerning Annex II(I)(1).  (5)  In so far as these provisions require the botanical name of a species to be indicated on the label of seed.  (6)  The remaining stocks of labels bearing the abbreviation ‘EEC’ may continue to be used until 31 December 2001. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VII — TABLE OF CORRESPONDENCE
 
+<table>
 <tbody><tr><td>Directive 69/208/EEC</td><td>This Directive</td></tr>
 <tr><td>Article 1</td><td>Article 1, first subparagraph</td></tr>
 <tr><td>Article 17</td><td>Article 1, second subparagraph</td></tr>
@@ -1240,6 +1257,7 @@ The label shall be grey.
 <tr><td>—</td><td>ANNEX VII</td></tr>
 <tr><td colspan="2">(1)  98/95/EC Article 9(2) and 98/96/EC Article 8(2).  (2)  98/96/EC Article 9. </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 125, 11.7.1966, p. 2289/66.
 

@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **on the approximation of the laws, regulations and administrative provisions of the Member States relating to the implementation of good clinical practice in the conduct of clinical trials on medicinal products for human use**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1901/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 December 2006 </td><td> L 378</td><td>1</td><td>27.12.2006</td></tr>
 <tr><td></td><td> REGULATION (EC) No 596/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 188</td><td>14</td><td>18.7.2009</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2022/642 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 12 April 2022 </td><td> L 118</td><td>4</td><td>20.4.2022</td></tr>
+</table>
 
 **DIRECTIVE 2001/20/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

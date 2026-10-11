@@ -1,0 +1,75 @@
+---
+title: "Commission Regulation (EC) No 158/2008 of 21 February 2008 registering certain names in the Register of protected designations of origin and protected geographical indications (Salate von der Insel Reichenau (PGI), Gurken von der Insel Reichenau (PGI), Feldsalat von der Insel Reichenau (PGI), Tomaten von der Insel Reichenau (PGI))"
+identifier: "32008R0158"
+eli: "http://data.europa.eu/eli/reg/2008/158/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-02-21
+entry_into_force: 2008-07-24
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32008R0158"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 158/2008 of 21 February 2008 registering certain names in the Register of protected designations of origin and protected geographical indications (Salate von der Insel Reichenau (PGI), Gurken von der Insel Reichenau (PGI), Feldsalat von der Insel Reichenau (PGI), Tomaten von der Insel Reichenau (PGI))
+
+**COMMISSION REGULATION (EC) No 158/2008**
+
+**of 21 February 2008**
+
+**registering certain names in the Register of protected designations of origin and protected geographical indications (Salate von der Insel Reichenau (PGI), Gurken von der Insel Reichenau (PGI), Feldsalat von der Insel Reichenau (PGI), Tomaten von der Insel Reichenau (PGI))**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EC) No 510/2006 of 20 March 2006 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs (1), and in particular the first subparagraph of Article 7(4) thereof,
+
+Whereas:
+
+(1) Pursuant to the first subparagraph of Article 6(2) of Regulation (EC) No 510/2006 and in accordance with Article 17(2) thereof, Germany's applications to register the names ‘Salate von der Insel Reichenau’, ‘Gurken von der Insel Reichenau’, ‘Feldsalat von der Insel Reichenau’ and ‘Tomaten von der Insel Reichenau’ were published in the Official Journal of the European Union (2).
+
+(2) As no objections within the meaning of Article 7 of Regulation (EC) No 510/2006 were received by the Commission, these names should be entered in the Register,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The names contained in the Annex to this Regulation shall be entered in the Register.
+
+## Article 2
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 21 February 2008.
+
+For the Commission
+
+Mariann FISCHER BOEL
+
+Member of the Commission
+
+(1) OJ L 93, 31.3.2006, p. 12. Regulation as amended by Regulation (EC) No 1791/2006 (OJ L 363, 20.12.2006, p. 1).
+
+(2) OJ C 135, 19.6.2007, p. 22 (Salate von der Insel Reichenau), OJ C 135, 19.6.2007, p. 25 (Gurken von der Insel Reichenau), OJ C 135, 19.6.2007, p. 27 (Feldsalat von der Insel Reichenau), OJ C 135, 19.6.2007, p. 29 (Tomaten von der Insel Reichenau).
+
+## ANNEX
+
+Agricultural products intended for human consumption listed in Annex I to the Treaty:
+
+Class 1.6—
+
+Fruit, vegetables and cereals, fresh or processed
+
+GERMANY
+
+Salate von der Insel Reichenau (PGI)
+
+Gurken von der Insel Reichenau (PGI)
+
+Feldsalat von der Insel Reichenau (PGI)
+
+Tomaten von der Insel Reichenau (PGI)

@@ -34,6 +34,7 @@ concerning the Community list of less-favoured farming areas within the meaning 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Decision of 23 May 1985</td><td> L 160</td><td>42</td><td>20.6.1985</td></tr>
@@ -41,6 +42,7 @@ Amended by:
 <tr><td></td><td>Council Directive 84/167/EEC of 28 February 1984</td><td> L 82</td><td>1</td><td>26.3.1984</td></tr>
 <tr><td></td><td>Commission Decision of 20 December 1988</td><td> L 105</td><td>11</td><td>17.4.1989</td></tr>
 <tr><td></td><td>Council Directive 92/94/EEC of 9 November 1992</td><td> L 338</td><td>42</td><td>23.11.1992</td></tr>
+</table>
 
 Corrected by:
 
@@ -768,11 +770,13 @@ PROVINCIA DI VERCELLI
 
 REGIONE: VALLE D'AOSTA
 
+<table>
 <tbody><tr><td rowspan="2">N.</td><td rowspan="2">Provincie</td><td colspan="2">Comuni totalmente delimitati</td><td colspan="2">Comuni parzialmente delimitati</td><td colspan="2">Totale comuni</td></tr>
 <tr><td>N.</td><td> Superficie  (ettari) </td><td>N.</td><td> Superficie  (ettari) </td><td>N.</td><td> Superficie delimitata  (ettari) </td></tr>
 <tr><td>1</td><td>AOSTA</td><td>73</td><td>324 085</td><td>1</td><td>1 470</td><td>74</td><td>325 555</td></tr>
 <tr><td colspan="2">TOTALE REGIONALE</td><td>73</td><td>324 085</td><td>1</td><td>1 470</td><td>74</td><td>325 555</td></tr>
 </tbody>
+</table>
 
 REGIONE: VALLE D'AOSTA
 
@@ -5882,6 +5886,7 @@ REGIONE: BASILICATA
 
 PROVINCIA DI MATERA
 
+<table>
 <tbody><tr><td rowspan="2">N.</td><td colspan="2">Comuni</td><td rowspan="2"> Superficie territoriale  (ettari) </td><td rowspan="2"> Superficie delimitata  (ettari) </td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>1</td><td colspan="2">Graco</td><td>7 628</td><td>1 200</td></tr>
@@ -5897,6 +5902,7 @@ PROVINCIA DI MATERA
 <tr><td>  </td><td>  </td><td>(Basilicata)</td><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>  </td><td>Superficie totale Zona 13</td><td>  </td><td>69 136</td></tr>
 </tbody>
+</table>
 
 —————
 
@@ -6350,6 +6356,7 @@ REGIONE: LAZIO
 
 PROVINCIA DI LATINA
 
+<table>
 <tbody><tr><td rowspan="2">N.</td><td colspan="2">Comuni</td><td rowspan="2"> Superficie territoriale  (ettari) </td><td rowspan="2"> Superficie delimitata  (ettari) </td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>1</td><td colspan="2">Campodimele</td><td>3 824</td><td>3 824</td></tr>
@@ -6380,6 +6387,7 @@ PROVINCIA DI LATINA
 <tr><td>  </td><td>  </td><td>(Lazio)</td><td>  </td><td>60 879</td></tr>
 <tr><td>  </td><td>  </td><td>Superficie totale Zona 21</td><td>  </td><td>115 706</td></tr>
 </tbody>
+</table>
 
 ZONA 22
 
@@ -6417,6 +6425,7 @@ REGIONE: MOLISE
 
 PROVINCIA DI CAMPOBASSO
 
+<table>
 <tbody><tr><td rowspan="2">N.</td><td colspan="2">Comuni</td><td rowspan="2"> Superficie territoriale  (ettari) </td><td rowspan="2"> Superficie delimitata  (ettari) </td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>1</td><td colspan="2">Acquaviva Collecroce</td><td>2 850</td><td>1 344</td></tr>
@@ -6434,6 +6443,7 @@ PROVINCIA DI CAMPOBASSO
 <tr><td>  </td><td>  </td><td>(Molise)</td><td>  </td><td>14 393</td></tr>
 <tr><td>  </td><td>  </td><td>Superficie totale Zona 22</td><td>  </td><td>57 551</td></tr>
 </tbody>
+</table>
 
 ZONA 23
 
@@ -6651,6 +6661,7 @@ REGIONE: TOSCANA
 
 PROVINCIA DI SIENA
 
+<table>
 <tbody><tr><td rowspan="2">N.</td><td colspan="2">Comuni</td><td rowspan="2"> Superficie territoriale  (ettari) </td><td rowspan="2"> Superficie delimitata  (ettari) </td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>1</td><td colspan="2">Cetona</td><td>5 319</td><td>2 700</td></tr>
@@ -6668,6 +6679,7 @@ PROVINCIA DI SIENA
 <tr><td>  </td><td>  </td><td>(Toscana)</td><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>  </td><td>Superficie totale Zona 28</td><td>  </td><td>53 257</td></tr>
 </tbody>
+</table>
 
 ZONA 29
 
@@ -6701,6 +6713,7 @@ REGIONE: TOSCANA
 
 PROVINCIA DI AREZZO
 
+<table>
 <tbody><tr><td rowspan="2">N.</td><td colspan="2">Comuni</td><td rowspan="2"> Superficie territoriale  (ettari) </td><td rowspan="2"> Superficie delimitata  (ettari) </td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>1</td><td colspan="2">Castiglion Fiorentino</td><td>11 125</td><td>3 670</td></tr>
@@ -6714,6 +6727,7 @@ PROVINCIA DI AREZZO
 <tr><td>  </td><td>  </td><td>(Toscana)</td><td>  </td><td>28 678</td></tr>
 <tr><td>  </td><td>  </td><td>Superficie totale Zona 29</td><td>  </td><td>139 160</td></tr>
 </tbody>
+</table>
 
 ZONA 30
 
@@ -7244,6 +7258,7 @@ REGIONE: EMILIA-ROMAGNA
 
 PROVINCIA DI FERRARA
 
+<table>
 <tbody><tr><td>N.</td><td>Comuni</td><td> Superficie territoriale  (ettari) </td><td> Superficie delimitata  (ettari) </td></tr>
 <tr><td>1</td><td>Berra</td><td>6 861</td><td>6 861</td></tr>
 <tr><td>2</td><td>Codigoro</td><td>16 997</td><td>16 997</td></tr>
@@ -7254,6 +7269,7 @@ PROVINCIA DI FERRARA
 <tr><td>  </td><td>Sommano</td><td>  </td><td>48 210</td></tr>
 <tr><td colspan="4"> (1) Trattasi del territorio ubicato a nord della strada Ferra ra mare — incrocio con strada Romea e, lungo quest'ultima, fino al canale Porto Garibaldi. </td></tr>
 </tbody>
+</table>
 
 ZONA I
 
@@ -7333,6 +7349,7 @@ REGIONE: VENETO
 
 PROVINCIA DI VENEZIA
 
+<table>
 <tbody><tr><td rowspan="2">N.</td><td colspan="2">Comuni</td><td rowspan="2"> Superficie territoriale  (ettari) </td><td rowspan="2"> Superficie delimitata  (ettari) </td></tr>
 <tr><td>  </td><td>  </td></tr>
 <tr><td>1</td><td colspan="2">Cavarzere</td><td>14 034</td><td>14 034</td></tr>
@@ -7350,6 +7367,7 @@ PROVINCIA DI VENEZIA
 <tr><td>  </td><td>  </td><td>(Veneto)</td><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>  </td><td>Superficie totale Zona I</td><td>  </td><td>269 506</td></tr>
 </tbody>
+</table>
 
 ZONA L
 

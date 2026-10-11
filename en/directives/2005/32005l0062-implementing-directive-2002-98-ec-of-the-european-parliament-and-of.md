@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2016/1214 of 25 July 2016 </td><td> L 199</td><td>14</td><td>26.7.2016</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2005/62/EC**
 

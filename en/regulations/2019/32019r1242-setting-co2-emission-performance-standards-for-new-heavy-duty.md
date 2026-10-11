@@ -1,0 +1,2240 @@
+---
+title: "Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (Text with EEA relevance)"
+identifier: "32019R1242"
+eli: "http://data.europa.eu/eli/reg/2019/1242/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-06-20
+entry_into_force: 2019-07-08
+last_amended: 2026-09-10
+consolidated_version: "02019R1242-20260910"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R1242-20260910"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (Text with EEA relevance)
+
+**REGULATION (EU) 2019/1242 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 June 2019**
+
+**setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1610 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1610</td><td>1</td><td>6.6.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/1045 of 20 May 2025 </td><td> L 1045</td><td>1</td><td>25.7.2025</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/1046 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 April 2026 </td><td> L 1046</td><td>1</td><td>7.5.2026</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/1282 of 12 June 2026 </td><td> L 1282</td><td>1</td><td>21.8.2026</td></tr>
+</table>
+
+C1
+
+C2
+
+**REGULATION (EU) 2019/1242 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 20 June 2019**
+
+**setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and objectives
+
+1\. This Regulation sets CO2 emissions performance standards for new heavy-duty vehicles. Those standards contribute to achieving the Union’s climate-neutrality objective and the intermediate Union climate targets, as laid down in Regulation (EU) 2021/1119 of the European Parliament and of the Council ( 1 ), Member States’ targets of reducing their greenhouse gas emissions, as laid down in Regulation (EU) 2023/857 of the European Parliament and of the Council ( 2 ), and the objectives of the Paris Agreement, as well as to ensuring the proper functioning of the internal market.
+
+2\. This Regulation also lays down requirements for the reporting of CO2 emissions from, and fuel consumption of, new heavy-duty vehicles registered in the Union.
+
+## Article 2 — Scope
+
+1\. This Regulation shall apply to new vehicles, which have either been type-approved or approved individually under Regulation (EU) 2018/858 or which are referred to in Article 2(3) of that Regulation, and which belong to any of the following vehicle categories:
+
+(a) M2 and M3;
+
+(b) N1, N2 and N3, provided that the vehicles do not fall under Regulation (EU) 2019/631;
+
+(c) O3 and O4.
+
+For the purposes of this Regulation, the vehicles referred to in points (a), (b) and (c) of the first subparagraph shall be referred to as heavy-duty vehicles. Vehicles falling under point (a) or (b) of the first subparagraph shall be referred to as heavy-duty motor vehicles.
+
+The vehicle categories referred to in this Regulation refer to the vehicle categories as defined in Article 4 of Regulation (EU) 2018/858 and in Annex I thereto.
+
+2\. For the purposes of this Regulation, heavy-duty vehicles shall be considered as new heavy-duty vehicles in a given reporting period, if they are registered in the Union for the first time in that reporting period and have not been previously registered outside the Union.
+
+A previous registration outside the Union that was made less than three months before registration in the Union shall not be taken into account.
+
+This Regulation shall not apply to heavy-duty vehicles that are registered for the first time for a period not exceeding one month and that are registered for the sole purpose of transfer to a country outside the Union.
+
+3\. The Commission shall, by means of implementing acts, adopt a specific procedure for identifying heavy-duty vehicles that are certified as vocational vehicles pursuant to Regulation (EC) No 595/2009 and its implementing measures but are not registered as such, and shall apply corrections to the annual average specific CO2 emissions of a manufacturer to take those vehicles into account, starting from the reporting period of the year 2021 and for each subsequent reporting period. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2) of this Regulation.
+
+## Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘reference CO2 emissions’ means the average of the specific CO2 emissions in the reference period of all new heavy-duty vehicles in each of the vehicle sub-groups, determined in accordance with point 3 of Annex I;
+
+(2) ‘specific CO2 emissions’ means the CO2 emissions of an individual heavy-duty vehicle determined in accordance with point 2.1 of Annex I;
+
+(3) ‘reporting period of the year Y’ means the period from 1 July of the year Y to 30 June of the year Y+1;
+
+(3a) ‘reporting period’ means the period from 1 July of a given year to 30 June of the following year;
+
+(3b) ‘reference period’ means the reporting period of a given year with respect to which the regulatory CO2 emissions reduction obligations for a certain vehicle sub-group are specified under this Regulation;
+
+(4) ‘average specific CO2 emissions’ means the average of the specific CO2 emissions of a manufacturer’s new heavy-duty vehicles in a given reporting period determined in accordance with point 2.7 of Annex I;
+
+(5) ‘specific CO2 emissions target’ means the CO2 emissions target of an individual manufacturer, determined annually for the preceding reporting period in accordance with point 4 of Annex I;
+
+(6) ‘rigid lorry’ means a lorry that is not designed or constructed for the towing of a semi-trailer;
+
+(7) ‘tractor’ means a tractor unit that is designed and constructed exclusively or principally to tow semi-trailers;
+
+(8) ‘vehicle sub-group’ means a grouping of vehicles as defined in point 1 of Annex I, that are characterised by a common and distinctive set of technical criteria relevant for determining the CO2 emissions and fuel consumption of those vehicles;
+
+(9) ‘vocational vehicle’ means a heavy-duty vehicle intended to be used for specific duties which, according to the information in its certificate of conformity, as reported by Member States, fulfils the criteria laid down in point 1.2 of Annex I;
+
+(10) ‘manufacturer’ means the person or body to which the vehicles registered in a given period have been attributed in accordance with Article 7a;
+
+(10a) ‘reporter’ means an entity which is responsible for the reporting of data to the Commission;
+
+(11) ‘zero-emission heavy-duty vehicle’ means any of the following vehicles:
+
+(a) a heavy-duty motor vehicle without an internal combustion engine, or with an internal combustion engine that emits not more than 3 g CO2/(tkm) or 1 g CO2/(pkm) as determined in accordance with Article 9 of Regulation (EU) 2017/2400;
+
+(b) a heavy-duty motor vehicle without an internal combustion engine, or with an internal combustion engine that emits not more than 1 g/kWh of CO2 as determined in accordance with Regulation (EC) No 595/2009 and its implementing measures or not more than 1 g/km of CO2 as determined in accordance with Regulation (EC) No 715/2007 of the European Parliament and of the Council ( 3 ) and its implementing measures, provided that no CO2 emissions have been determined pursuant to Regulation (EU) 2017/2400;
+
+(c) a trailer equipped with a device that actively supports its propulsion, and that has no internal combustion engine or has an internal combustion engine that emits less than 1 g CO2/kWh as determined in accordance with Regulation (EC) No 595/2009 and its implementing measures or in accordance with UNECE Regulation (EC) No 49;
+
+(12) ‘low-emission heavy-duty vehicle’ means a heavy-duty vehicle, other than a zero-emission heavy-duty vehicle, with specific CO2 emissions of less than half of the reference CO2 emissions of all vehicles in the vehicle sub-group to which the heavy-duty vehicle belongs, as determined in accordance with point 2.3.4 of Annex I;
+
+(13) ‘mission profile’ means a combination of a target speed cycle, a payload value, a body or trailer configuration and other parameters, if applicable, reflecting the specific use of a vehicle, on the basis of which official CO2 emissions and fuel consumption of a heavy-duty vehicle are determined;
+
+(14) ‘target speed cycle’ means the description of the vehicle velocity, which the driver wants to reach or to which he is limited by traffic conditions, as a function of the distance covered in a trip;
+
+(15) ‘payload’ means the weight of the goods that a vehicle is carrying under different conditions;
+
+(16) ‘primary vehicle’ means a primary vehicle as defined in Article 3, point (22), of Regulation (EU) 2017/2400;
+
+(17) ‘primary vehicle of a heavy-duty vehicle’ means a primary vehicle, for the simulation of which a generic body is allocated that corresponds to the actual body of the heavy-duty vehicle with regard to its floor (low/high) deck (single/double) configurations and any other parameters as applicable;
+
+(18) ‘completed vehicle’ means a completed vehicle as defined in Article 3, point (26), of Regulation (EU) 2018/858;
+
+(19) ‘complete vehicle’ means a complete vehicle as defined in Article 3, point (27), of Regulation (EU) 2018/858;
+
+(20) ‘off-road vehicle’ means an off-road vehicle as defined in Part A, point 2.1, of Annex I to Regulation (EU) 2018/858;
+
+(21) ‘special purpose vehicle’ means a special purpose vehicle as defined in Article 3, point (31), of Regulation (EU) 2018/858;
+
+(22) ‘off-road special purpose vehicle’ means an off road special purpose vehicle as defined in Part A, point 2.3.1, of Annex I to Regulation (EU) 2018/858;
+
+(23) ‘certificate of conformity’ means a certificate of conformity as defined in Article 3, point (5), of Regulation (EU) 2018/858;
+
+(24) ‘public contract’, in the context of public procurement procedures and unless otherwise specified, means a ‘public contract’ as defined in Article 2(1), point (5), of Directive 2014/24/EU of the European Parliament and of the Council ( 4 ), ‘supply, works and service contracts’ as defined in Article 2, point (1), of Directive 2014/25/EU of the European Parliament and of the Council ( 5 ), and ‘concessions’ as defined in Article 5, point (1), of Directive 2014/23/EU of the European Parliament and of the Council ( 6 );
+
+(25) ‘extra heavy combination lorry’ or ‘EHC lorry’ means a heavy-duty vehicle of category N3 suitable for use in a vehicle combination and meeting all the following design and construction criteria:
+
+(a) having three axles or more;
+
+(b) with an engine rated power of at least 400 kW;
+
+(c) designed with a technically permissible maximum laden mass (TPMLM) of the combination of more than 60 tonnes;
+
+For the purposes of this Regulation, ‘a group of connected manufacturers’ means a manufacturer and its connected undertakings.
+
+In relation to a manufacturer, ‘connected undertakings’ means:
+
+(a) undertakings in which the manufacturer has, directly or indirectly:
+
+(i) the power to exercise more than half the voting rights;
+
+(ii) the power to appoint more than half the members of the supervisory board, board of management or bodies legally representing the undertaking; or
+
+(iii) the right to manage the undertaking’s affairs;
+
+(b) undertakings which directly or indirectly have, over the manufacturer, the right or powers referred to in point (a);
+
+(c) undertakings in which an undertaking referred to in point (b) has, directly or indirectly, the right or powers referred to in point (a);
+
+(d) undertakings in which the manufacturer together with one or more of the undertakings referred to in point (a), (b) or (c), or in which two or more of the latter undertakings, jointly have the right or powers referred to in point (a);
+
+(e) undertakings in which the right or the powers referred to in point (a) are jointly held by the manufacturer or one or more of its connected undertakings referred to in points (a) to (d) and one or more third parties.
+
+## Article 3a — CO2 emissions reduction targets
+
+1\. The average CO2 emissions of the Union fleet of new heavy-duty motor vehicles, other than special purpose vehicles, off-road vehicles and off-road special purpose vehicles shall be reduced by the following percentages compared to the average CO2 emissions of the reporting period of the year 2019:
+
+(a) 15 % for vehicle sub-groups 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD and 10-LH for the reporting periods of the years 2025 to 2029;
+
+(b) 45 % for all vehicle sub-groups other than vocational vehicles for the reporting periods of the years 2030 to 2034;
+
+(c) 65 % for all vehicle sub-groups for the reporting periods of the years 2035 to 2039;
+
+(d) 90 % for all vehicle sub-groups for the reporting periods of the year 2040 onwards.
+
+2\. The vehicle sub-groups shall contribute to the CO2 emissions reduction targets referred to in paragraph 1, in accordance with point 4.3 of Annex I.
+
+3\. The CO2 emissions related to the Union fleet of new trailers shall be reduced in accordance with point 4.3 of Annex I.
+
+4\. Notwithstanding Article 2(3) of Regulation (EU) 2017/2400, approved heavy-duty vehicles falling under Article 2(3), first subparagraph, point (b), of Regulation (EU) 2018/858 shall not be subject to the CO2 emissions reduction targets set out in paragraphs 1 to 3 of this Article, unless the manufacturer chooses to include those heavy-duty vehicles in the calculation of its specific CO2 emissions and targets when reporting those heavy-duty vehicles in accordance with Part B of Annex IV to this Regulation.
+
+5\. Heavy-duty vehicles other than those referred to in paragraph 4 that are registered for use by civil protection services, fire services, forces responsible for maintaining the public order or urgent medical care services shall not be subject to the CO2 emissions reduction targets set out in paragraphs 1 to 3, provided that a Member State so indicates in the registration and reporting process, thereby confirming in the data reported in accordance with Part A of Annex IV that the purpose of the heavy-duty vehicle cannot be equally served by a zero-emission heavy-duty vehicle and it is therefore in the public interest to register a heavy-duty vehicle with a combustion engine to fulfil that purpose.
+
+Heavy-duty vehicles registered for use by armed services shall not be subject to the requirements of this Regulation if a Member State decides not to report them in accordance with Part A of Annex IV.
+
+## Article 3b — Additional measures to support the transition to zero-emission heavy-duty vehicles on the Union market
+
+By 30 June 2025, the Commission shall submit to the European Parliament and to the Council a report which considers the need to facilitate the uptake on the Union market of heavy-duty vehicles which are retrofitted to become zero-emission heavy-duty vehicles, including by way of harmonised rules. That report shall contain an analysis of the options and the impact of those options. Where appropriate, the analysis shall be accompanied by a legislative initiative or other action.
+
+## Article 3c — Additional measures to support the demand for zero-emission heavy-duty vehicles on the Union market
+
+By 30 June 2027, the Commission shall submit to the European Parliament and to the Council a report which contains an analysis of the potential need for and impact of initiatives to increase the share of zero-emission heavy-duty motor vehicles owned or leased by large fleet operators. In that report, the Commission shall consider possible options to increase the deployment of zero-emission heavy-duty vehicles owned or leased by large fleet operators.
+
+## Article 3d — Zero-emission heavy-duty vehicle target for urban buses
+
+1\. For heavy-duty vehicles referred to in the fourth column of the table in point 4.2 of Annex I (“urban buses”), manufacturers shall comply with the 90 % and 100 % minimum shares of zero-emission heavy-duty vehicles in their fleet of new heavy-duty vehicles in accordance with point 4.3.2 of Annex I.
+
+2\. The Commission shall specify, by means of implementing acts, the common technical specifications, including standards, regarding the technical and open interoperability between the recharging and refuelling infrastructure and urban buses, in terms of physical connections and communication exchange.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 17 to supplement this Regulation by laying down common technical specifications, including standards, regarding the safe and secure sharing and use of the data generated in relation to the use of urban buses.
+
+## Article 3e — Ensuring sustainable and resilient supply chains for urban buses through public procurement procedures
+
+1\. Contracting authorities and contracting entities shall base the award of public supply contracts for the purchase, lease, rent or hire-purchase of new zero-emission urban buses, as well as of public service contracts having as their main subject matter the use of such urban buses, on the most economically advantageous tender which shall include the best price-quality ratio.
+
+2\. Contracting authorities and contracting entities shall use at least two of the following criteria as technical specifications or as award criteria, at least one of which shall relate to the tender’s contribution to the security of supply as set out in points (a) to (d), depending on the market situation and in compliance with Directive 2014/23/EU, 2014/24/EU or 2014/25/EU, and applicable sectoral legislation, as well as with the Union’s international commitments, including the World Trade Organization Agreement on Government Procurement (the “GPA”) and other international agreements by which the Union is bound:
+
+(a) the proportion of the products of tenders originating in third countries, as determined in accordance with Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 7 ); that criterion shall only apply to products of tenders originating in countries that are not parties to the GPA and that have not concluded a free trade agreement, including rules on public procurement, with the Union;
+
+(b) the current and estimated availability of essential spare parts for the functioning of the equipment that is the subject of the tender;
+
+(c) a commitment by the tenderer that possible changes in its supply chain during the execution of the contract will not adversely affect the execution of the contract;
+
+(d) certification or documentation demonstrating that the organisation of the tenderer’s supply chain allows it to comply with the security of supply requirement;
+
+(e) environmental sustainability going beyond the minimum requirements provided for in applicable Union legal acts.
+
+The first subparagraph shall not preclude contracting authorities and contracting entities from using additional criteria.
+
+3\. If the tender’s contribution to security of supply is used as an award criterion, it shall be given a weighting of between 15 to 40 % of the award criteria.
+
+## Article 4 — Average specific CO2 emissions of a manufacturer
+
+Starting from 1 July 2020, and in each subsequent reporting period, the Commission shall determine for each manufacturer the average specific CO
+
+2
+
+emissions in g/tkm for the preceding reporting period, by taking the following into account:
+
+(a) the data reported for the manufacturer’s new heavy-duty vehicles registered in the preceding reporting period;
+
+(b) the zero- and low-emission factor determined in accordance with Article 5; and
+
+(c) in the reporting periods of the years 2030 to 2034, new zero-emission vocational vehicles falling within the scope of point 1.1.1 of Annex I.
+
+The average specific CO2 emissions shall be determined in accordance with point 2.7 of Annex I.
+
+## Article 5 — Zero- and low-emission heavy-duty vehicles
+
+1\. Starting from 1 July 2020 and for each subsequent reporting period until the reporting period of the year 2029, the Commission shall determine for each manufacturer the zero- and low-emission factor for the preceding reporting period.
+
+The zero- and low-emission factor shall take into account the number and the CO2 emissions of all zero- and low-emission heavy-duty vehicles of category N in the manufacturer’s fleet.
+
+2\. For the reporting periods 2019 to 2024, the zero- and low-emission heavy-duty vehicles shall be counted as follows for the purposes of paragraph 1:
+
+(a) a zero-emission heavy-duty vehicle shall be counted as two vehicles; and
+
+(b) a low-emission heavy-duty vehicle shall be counted as up to two vehicles according to a function of its specific CO2 emissions and the low-emission threshold of the vehicle sub-group to which the vehicle belongs as defined in point 2.3.3 of Annex I.
+
+The zero- and low-emission factor shall be determined in accordance with point 2.3.1 of Annex I.
+
+3\. For the reporting periods from 2025 to 2029, the zero- and low-emission factor shall be determined on the basis of a 2 % benchmark in accordance with point 2.3.2 of Annex I.
+
+4\. The zero- and low-emission factor shall reduce the average specific CO2 emissions of a manufacturer by a maximum of 3 %. The contribution to that factor of the zero-emission heavy-duty vehicles of category N, other than those in vehicle sub-groups 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD or 10-LH, shall reduce the average specific CO2 emissions of a manufacturer by a maximum of 1,5 %.
+
+## Article 6 — Specific CO2 emissions targets of a manufacturer
+
+For the reporting period of the year 2025 and for each subsequent reporting period, the Commission shall determine for each manufacturer a specific CO2 emissions target for the preceding reporting period. That target shall be determined in accordance with point 4.1 of Annex I.
+
+## Article 6a — Transfer of heavy-duty vehicles between manufacturers
+
+1\. For the purpose of calculating the average specific CO2 emissions of manufacturers in accordance with Article 4 and point 2.2 of Annex I, individual heavy-duty vehicles may be transferred between manufacturers, provided the following conditions are fulfilled:
+
+(a) for all transfers: the request is jointly submitted by the transferring and the receiving manufacturer;
+
+(b) for the transfer of heavy-duty vehicles other than zero-emission heavy-duty vehicles: the transferring and the receiving manufacturer belong to a group of connected manufacturers;
+
+(c) for the transfer of zero-emission heavy-duty vehicles between manufacturers not belonging to a group of connected manufacturers: the number of zero-emission heavy-duty vehicles transferred to a manufacturer does not exceed 5 % of all its new heavy-duty vehicles registered in a given reporting period.
+
+The manufacturers shall submit the transfer requests to the Commission using the electronic tools provided by the Commission.
+
+2\. Where the Commission considers that the conditions for a transfer are fulfilled, it shall not take the transferred heavy-duty vehicle into account for the calculation of relevant values for the transferring manufacturer, but shall take it into account for the calculation of relevant values for the receiving manufacturer.
+
+## Article 6b — Exemption for manufacturers producing few heavy-duty vehicles
+
+1\. If a manufacturer registers fewer than 100 new heavy-duty vehicles in a given reporting period, the average specific CO2 emissions as provided for in Article 4 and in point 2.7 of Annex I and the specific CO2 emissions targets as provided for in Article 6 and in point 4.1 of Annex I shall be set at “0” for that reporting period.
+
+2\. Where paragraph 1 of this Article applies, the values of the average specific CO2 emissions and of the specific CO2 emissions targets shall not be included in the publication of data under Article 11 for the manufacturers and reporting periods concerned.
+
+3\. The exemption laid down in paragraph 1 shall not apply in a given reporting period in any of the following cases:
+
+(a) if the manufacturer so requests;
+
+(b) if the manufacturer requests a transfer of heavy-duty vehicles in accordance with Article 6a;
+
+(c) if the manufacturer is part of a group of connected manufacturers that collectively registered more than 100 heavy-duty vehicles in that reporting period or is part of a group of connected manufacturers that includes a manufacturer to which point (a) or (b) applies.
+
+4\. Manufacturers which are not part of a group within the meaning of paragraph 3, point (c), shall inform the Commission if they registered fewer than 100 heavy-duty vehicles in a given reporting period.
+
+5\. Manufacturers to which the exemption laid down in paragraph 1 does not apply shall inform the Commission in each reporting period about all their connected undertakings to which the exemption applies.
+
+6\. Manufacturers shall inform the Commission for the purposes of paragraphs 4 and 5 by using the electronic tools provided by the Commission.
+
+## Article 7 — Emission credits and emission debts
+
+1\. For the purpose of determining a manufacturer’s compliance with its specific CO2 emissions targets in the reporting periods of the years 2025 to 2039, account shall be taken of its emission credits or emission debts determined in accordance with point 5 of Annex I, which correspond to the number of new heavy-duty vehicles of the manufacturer in a reporting period, multiplied by:
+
+(a) the difference between the CO2 emissions reduction trajectory as referred to in paragraph 2 for the reporting period of the year 2025 and the average specific CO2 emissions of that manufacturer for the reporting periods of the years 2025 to 2029 and the difference between the CO2 emissions reduction trajectory for reporting periods of years other than 2025 to 2029 and the average specific CO2 emissions of that manufacturer for the same reporting period, if that difference is positive (‘emission credits’); or
+
+(b) the difference between the average specific CO2 emissions and the specific CO2 emissions target of that manufacturer, if that difference is positive (‘emission debts’).
+
+Emission credits shall be acquired in the reporting periods of the years 2019 to 2039  . However, the emission credits acquired in the reporting periods of the years 2019 to 2024 shall be taken into account for the purpose of determining the manufacturer’s compliance with the specific CO2 emissions target of the reporting period of the year 2025 only.
+
+Emission debts shall be acquired in the reporting periods of the years 2025 to 2039. However, the total emission debt of a manufacturer shall not exceed 5 % of the manufacturer’s specific CO2 emissions target multiplied by the number of heavy-duty vehicles of the manufacturer in that period (‘emission debt limit’).
+
+Emission credits and emission debts acquired in the reporting periods of the years 2025 to 2039 shall, where applicable, be carried over from one reporting period to the next reporting period. However, any remaining emission debts shall be cleared in the reporting periods of the years 2029, 2034 and 2039. Emission credits shall be taken into account for the purpose of determining the manufacturer’s compliance with its specific CO2 emissions target only in any of the reporting periods of the 7 years that follow the reporting period during which they have been acquired.
+
+2\. The CO2 emissions reduction trajectories shall be set for each manufacturer in accordance with point 5.1.2 of Annex I, based on the following linear trajectories:
+
+(a) between the reference CO2 emissions and the CO2 emissions target for the reporting period of the year 2025 or 2030 as specified in Article 3a(1), points (a) and (b);
+
+(b) between the CO2 emissions target for the reporting period of the year 2025 and the CO2 emissions target for the reporting period of the year 2030 as specified in Article 3a(1), point (b);
+
+(c) between the CO2 emissions target for the reporting period of the year 2030 and the CO2 emissions target for the reporting period of the year 2035 as specified in Article 3a(1), point (c); and
+
+(d) between the CO2 emissions target for the reporting period of the year 2035 and the CO2 emissions target for the reporting period of the year 2040 as specified in Article 3a(1), point (d).
+
+## Article 7a — Attributïon of heavy-duty vehicles to a manufacturer
+
+When calculating the average specific CO2 emissions referred to in Article 4 and the specific CO2 emissions targets referred to in Article 6, the heavy-duty vehicles registered in a given reporting period shall be attributed to the following manufacturers:
+
+(a) for heavy-duty vehicles of category N, to the vehicle manufacturer as defined in Article 3, point (4a), of Regulation (EU) 2017/2400;
+
+(b) for heavy-duty vehicles of category M, to the primary vehicle manufacturer as defined in Article 3, point (29), of Regulation (EU) 2017/2400;
+
+(c) for heavy-duty vehicles of category O, to the vehicle manufacturer as defined in Article 2, point (5), of Commission Implementing Regulation (EU) 2022/1362 ( 8 ).
+
+## Article 7b — Calculation of average specific CO2 emissions of heavy-duty vehicles of category M
+
+For heavy-duty vehicles of category M, the following shall apply:
+
+(a) for the calculation of the average specific CO2 emissions in a vehicle sub-group of a manufacturer, a new heavy-duty vehicle of category M shall be considered with its specific CO2 emissions as a complete or completed vehicle under point 2.2.2 of Annex I and shall not be considered in point 2.2.3 of that Annex;
+
+(b) by way of derogation from point (a) of this Article, upon request to the Commission by the primary vehicle manufacturer as referred to in Article 7a, point (b), and subject to the condition set out in point (c) of this Article, a new heavy-duty vehicle of category M shall be considered with the specific CO2 emissions of its primary vehicle in point 2.2.3 of Annex I and shall not be considered in point 2.2.2 of that Annex;
+
+(c) a request under point (b) of this Article for a new heavy-duty vehicle of category M shall not be admissible if the primary vehicle manufacturer, and the vehicle manufacturer as defined in Article 3, point (4a), of Regulation (EU) 2017/2400, of the complete or completed vehicle are connected undertakings or parts of the same legal entity; by submitting such a request, the primary vehicle manufacturer declares that they are not connected undertakings or parts of the same legal entity; it shall provide supporting information to the Commission upon request;
+
+(d) the Commission, with support of the European Environment Agency, shall make available without delay in electronic format the tools and procedural guidance necessary for manufacturers to submit requests as referred to in point (b) to the Commission.
+
+## Article 8 — Compliance with the specific CO2 emissions targets
+
+1\. Where a manufacturer is found, pursuant to paragraph 2, to have excess CO2 emissions in a given reporting period from 2025 onwards, the Commission shall impose an excess CO2 emissions premium, calculated in accordance with the following formula: (excess CO2 emissions premium) = (excess CO2 emissions × 4 250 EUR/gCO2/tkm).
+
+2\. A manufacturer shall be deemed to have excess CO2 emissions in any of the following cases:
+
+(a) where, in any of the reporting periods of the years 2025 to 2028, 2030 to 2033 or 2035 to 2038, the sum of the emission debts reduced by the sum of the emission credits exceeds the emission debt limit referred to in Article 7(1), third subparagraph;
+
+(b) where, in the reporting periods of the years 2029, 2034, 2039 and 2040, the sum of the emission debts reduced by the sum of the emission credits is positive;
+
+(c) where, from the reporting period of the year 2041 onwards, the manufacturer’s average specific CO2 emissions exceed its specific CO2 emissions target.
+
+The excess CO2 emissions in a given reporting period shall be calculated in accordance with point 6 of Annex I.
+
+3\. The Commission shall, by means of implementing acts, determine the means for collecting excess CO2 emissions premiums under paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+
+4\. The excess CO2 emissions premiums shall be considered as revenue for the general budget of the European Union.
+
+## Article 9 — Verification of the monitoring data
+
+1\. Type-approval authorities and manufacturers shall, without delay, report to the Commission any of the following deviations from the data reported:
+
+(a) where the CO2 emission values of heavy-duty vehicles in service as a result of verifications performed in accordance with the procedure referred to in Article 13 of this Regulation deviate from the values that are indicated in certificates of conformity or in the customer information file referred to in Article 9(4) of Regulation (EU) 2017/2400;
+
+(b) where errors, due to incorrect input data or other causes, in the execution of the CO2 emissions determination were identified;
+
+(c) where errors in the execution of the CO2 emissions monitoring and reporting were identified;
+
+(d) any deviations other than those referred to in point (a), (b) or (c).
+
+2\. The Commission shall take the deviations referred to in paragraph 1 into account for the purpose of calculating the average specific CO2 emissions of a manufacturer and the reference CO2 emissions. The Commission shall, where appropriate, amend the list referred to in Article 11(1). The Commission shall not be obliged to take deviations into account if the recalculation of the average specific CO2 emissions of a manufacturer or the reference CO2 emissions results in a deviation of less than 0,1 %.
+
+3\. The Commission shall, by means of implementing acts, adopt detailed rules on the procedures for reporting such deviations and for taking them into account in the calculation of the average specific CO2 emissions. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+
+## Article 10 — Assessment of reference CO2 emissions
+
+1\. In order to ensure the robustness and representativeness of the reference CO2 emissions of vehicle sub-groups to which a reporting period of the year 2024 or later year applies as the reference period according to point 3.2 of Annex I, the Commission shall assess the application of the conditions under which the reference CO2 emissions have been determined and determine whether those emissions have been unduly increased and, if so, how they are to be corrected.
+
+2\. If the Commission concludes that all or some of the reference CO2 emissions are to be corrected, it shall adopt an implementing act to carry out those corrections, in accordance with the examination procedure referred to in Article 16(2).
+
+## Article 11 — Publication of data and manufacturer performance
+
+1\. By 30 April each year, the Commission shall, by means of implementing acts, publish a list indicating:
+
+(a) from 1 July 2020, for each manufacturer, its average specific CO2 emissions in the preceding reporting period, as referred to in Article 4;
+
+(b) from 1 July 2020, for each manufacturer, its zero- and low-emission factor in the preceding reporting period, as referred to in Article 5(1);
+
+(c) from 1 July 2026, for each manufacturer, its specific CO2 emissions target for the preceding reporting period, as referred to in Article 6;
+
+(d) from 1 July 2020 until 30 June 2041, for each manufacturer, its CO2 emissions reduction trajectory, its emission credits and, from 1 July 2026 until 30 June 2041, its emission debts in the preceding reporting period, as referred to in Article 7;
+
+(e) from 1 July 2026, for each manufacturer, its excess CO2 emissions in the preceding reporting period, as referred to in Article 8(2);
+
+(f) from 1 July 2020, the average specific CO2 emissions of all new heavy-duty vehicles registered in the Union in the preceding reporting period.
+
+The list to be published by 30 April of the year following a year in which a reference period has ended shall include the reference CO2 emissions determined in respect of that reference period.
+
+2\. The Commission shall adopt implementing acts to amend the list set out in paragraph 1 where:
+
+(a) the type-approval procedures referred to in Regulation (EC) No 595/2009 are amended, other than amendments related to the payload and passenger number values used for the determination of CO2 emissions, in such a way that the level of the CO2 emissions of the representative heavy-duty vehicles specified pursuant to paragraph 3 increase or decrease by more than 5 g CO2/km; in such cases the adjusted reference emissions shall be calculated in accordance with point 1 of Annex II and new values shall be published as a complement to previous values, indicating the reporting period when they apply the first time;
+
+(b) the Annexes have been amended in accordance with Article 14 (1), points (a) to (f); in such cases previously published reference CO2 emissions shall be recalculated in accordance with Annex I, taking into account the parameters amended in accordance with Article 14(1), points (a) to (f), and the recalculated set of reference CO2 emissions shall be published and shall replace the previous reference emissions as from the reporting period in which the parameters amended in accordance with Article 14(1), points (a) to (f), apply for the first time.
+
+3\. Where the type-approval procedures referred to in Regulation (EC) No 595/2009 are amended as referred to in paragraph 2, point (a), of this Article, the implementing acts referred to in paragraph 2 of this Article shall either specify or establish a methodology for defining one or more representative vehicles of a vehicle sub-group, including their statistical weightings and the payload and passenger number values to be used for the determination of CO2 emissions. That methodology shall be the basis for the calculation of the adjustment referred to in paragraph 2, point (a)(i), of this Article, taking into account the monitoring data reported pursuant to this Regulation and the technical characteristics referred to in Article 12(1) of Regulation (EU) 2017/2400. Those implementing acts shall be adopted in accordance with the examination procedure set out in Article 16(2) of this Regulation.
+
+## Article 12 — Real-world CO2 emissions and energy consumption
+
+1\. The Commission shall monitor and assess the real-world representativeness of the CO2 emissions and energy consumption values determined within the framework of Regulation (EC) No 595/2009.
+
+Furthermore, the Commission shall regularly collect data on the real-world CO2 emissions and energy consumption of heavy-duty vehicles using on-board fuel and/or energy consumption monitoring devices, starting with new heavy-duty vehicles registered from the date of application of the measures referred to in point (b) of Article 5c of Regulation (EC) No 595/2009.
+
+The Commission shall ensure that the public is informed of how that representativeness evolves over time.
+
+2\. For the purpose of paragraph 1 of this Article, the Commission shall ensure that the following parameters relating to real-world CO2 emissions and energy consumption of heavy-duty vehicles are made available to it at regular intervals, starting from the date of application of the measures referred to in point (b) of Article 5c of Regulation (EC) No 595/2009, by manufacturers, national authorities or through direct data transfer from vehicles, as the case may be:
+
+(a) vehicle identification number;
+
+(b) fuel and electric energy consumed;
+
+(c) total distance travelled;
+
+(d) payload;
+
+(e) for externally chargeable hybrid electric heavy-duty vehicles, the fuel and electric energy consumed, and the distance travelled distributed over the different driving modes;
+
+(f) other parameters necessary to ensure that the obligations set out in paragraph 1 of this Article can be met.
+
+The Commission shall process the data received under the first subparagraph of this paragraph to create an anonymised and aggregated dataset, including per manufacturer, for the purposes of paragraph 1. The vehicle identification numbers shall be used only for the purpose of that data processing and shall not be retained longer than needed for that purpose.
+
+3\. In order to prevent the real-world emissions gap from growing, the Commission shall, not later than two years and five months following the date of application of the measures referred to in point (b) of Article 5c of Regulation (EC) No 595/2009, assess how fuel and energy consumption data may be used to ensure that the vehicle CO2 emission and energy consumption values determined pursuant to that Regulation remain representative of real-world emissions over time for each manufacturer.
+
+The Commission shall monitor and report annually on how the gap referred to in the first subparagraph evolves, and shall, with a view to preventing an increase in that gap, assess, in 2027, the feasibility of a mechanism to adjust the manufacturer’s average specific CO2 emissions as of 2030, and, if appropriate, submit a legislative proposal to put such a mechanism in place.
+
+4\. The Commission shall adopt, by means of implementing acts, the detailed procedure for collecting and processing the data referred to in paragraph 2 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+
+## Article 13 — Verification of the CO2 emissions of heavy-duty vehicles in-service
+
+1\. Manufacturers shall ensure that the CO2 emission and fuel consumption values recorded in the customer information file referred to in Article 9(4) of Regulation (EU) 2017/2400 correspond to the CO2 emissions from and fuel consumption of heavy-duty vehicles in-service as determined in accordance with that Regulation.
+
+2\. Following the entry into force of the procedures referred to in paragraph 4, type-approval authorities shall verify, for those manufacturers to which they have granted a licence to operate the simulation tool in accordance with Regulation (EC) No 595/2009 and its implementing measures, on the basis of appropriate and representative vehicle samples, that the CO2 emission and fuel consumption values recorded in the customer information files correspond to the CO2 emissions from and fuel consumption of heavy-duty vehicles in-service as determined in accordance with that Regulation and its implementing measures, while considering, inter alia, using available data from on-board fuel and/or energy consumption monitoring devices.
+
+Type-approval authorities shall also verify the presence of any strategies on board or relating to the sampled vehicles that artificially improve the vehicle’s performance in the tests performed or in the calculations made for the purpose of certifying the CO2 emissions and fuel consumption by, inter alia, using data from on-board fuel and/or energy consumption monitoring devices.
+
+3\. Where a lack of correspondence of CO2 emission and fuel consumption values which cannot be attributed to a malfunctioning of the simulation tool, or the presence of any strategies artificially improving a vehicle’s performance, is found as a result of the verifications performed pursuant to paragraph 2, the responsible type-approval authority shall, in addition to taking the necessary measures set out in Chapter XI of Regulation (EU) 2018/858, ensure that the customer information files, the certificates of conformity and the individual approval certificates are corrected, as the case may be. Where the data in the customer information files, the certificates of conformity and the individual approval certificates cannot be corrected under Regulation (EU) 2018/858, the responsible type-approval authority shall issue a statement of correction with the corrected data. It shall transmit that statement to the Commission and the parties concerned.
+
+4\. The Commission shall determine, by means of implementing acts, the procedures for performing the verifications referred to in paragraph 2 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16(2).
+
+The Commission is empowered, prior to adopting the implementing acts referred to in the first subparagraph, to adopt a delegated act in accordance with Article 17, in order to supplement this Regulation by setting out the guiding principles and criteria for defining the procedures referred to in the first subparagraph.
+
+## Article 13a — Monitoring and reporting by Member States
+
+1\. Starting from the reporting period of the year 2023, Member States shall monitor the data specified in Part A of Annex IV relating to new heavy-duty vehicles registered for the first time in the Union.
+
+By 30 September of each year, starting in 2020, the competent authorities of the Member States shall report those data for the previous reporting period of 1 July to 30 June to the Commission in accordance with the reporting procedure set out in Annex V.
+
+2\. The competent authorities responsible for monitoring and reporting data in accordance with this Regulation shall be those designated by the Member States in accordance with Article 7(6) of Regulation (EU) 2019/631.
+
+3\. Heavy-duty vehicles designed and constructed or adapted for use by civil protection services, fire services or forces responsible for maintaining public order shall be subject to this Article.
+
+4\. Heavy-duty vehicles registered for use by civil protection services, fire services, forces responsible for maintaining public order or urgent medical care services shall be subject to this Article, irrespective of whether they are exempted from Article 3a.
+
+## Article 13b — Reporting by manufacturers or other entities responsible for the determination of the CO2 emissions of a heavy-duty vehicle
+
+1\. Manufacturers or other entities that are responsible for the determination of the CO2 emissions of a heavy-duty vehicle and are subject to Article 9 of Regulation (EU) 2017/2400 or Article 8 of Implementing Regulation (EU) 2022/1362 shall report the data for new heavy-duty vehicles in accordance with Part B of Annex IV to this Regulation.
+
+By 30 September of each year, they shall report those data to the Commission for each new heavy-duty vehicle with a date of determination, or of assessment, falling within the reporting period ending on 30 June in accordance with the reporting procedure set out in Annex V.
+
+This paragraph shall not apply to heavy-duty vehicles that are exempted pursuant to Article 6b.
+
+2\. Each manufacturer or other entity within the meaning of paragraph 1 shall appoint a contact point for the purpose of reporting data in accordance with this Regulation.
+
+3\. The reporting obligations under Article 13a(3) and (4) shall apply to manufacturers and other entities within the meaning of paragraph 1 of this Article.
+
+## Article 13c — Central register for data on heavy-duty vehicles
+
+1\. The Commission shall keep a central register for the data on heavy-duty vehicles (‘the central register’) reported pursuant to Articles 13a and 13b.
+
+The central register shall be publicly available with the exception of data entries listed in point 3.2 of Annex V.
+
+The air drag value shall be made publicly available in a range format as set out in Part C of Annex IV.
+
+2\. The European Environment Agency shall manage the central register on behalf of the Commission.
+
+## Article 13d — Monitoring of the results of on-road verification tests
+
+1\. The Commission shall monitor, where available, the results of on-road tests performed within the framework of Regulation (EC) No 595/2009 to verify the CO2 emissions and fuel consumption of new heavy-duty vehicles.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 17 in order to supplement this Regulation by specifying the data to be reported by the competent authorities of the Member States for the purposes of paragraph 1 of this Article.
+
+## Article 13e — Data quality
+
+1\. The competent authorities and manufacturers shall be responsible for the correctness and quality of the data they report pursuant to Articles 13a and 13b. They shall inform the Commission without delay of any errors detected in the data reported.
+
+2\. The Commission shall carry out its own verification of the quality of the data reported pursuant to Articles 13a and 13b.
+
+3\. Where the Commission is informed of errors in the data reported pursuant to paragraph 1, or finds, after its own verification pursuant to paragraph 2, discrepancies in the dataset, it shall, where appropriate, take the necessary measures to correct the data published in the central register.
+
+4\. The Commission may, by means of implementing acts, determine the verification and correction measures referred to in paragraphs 2 and 3 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 16.
+
+## Article 13f — Administrative fines
+
+1\. The Commission may impose an administrative fine in each of the following cases:
+
+(a) where it finds that the data reported by the manufacturer pursuant to Article 13b of this Regulation deviate from the data resulting from the manufacturer’s records file or the engine type-approval certificate issued within the framework of Regulation (EC) No 595/2009, and the deviation is intentional or due to serious negligence;
+
+(b) where the data are not submitted within the deadline referred to in Article 13b(1), second subparagraph, and the delay cannot be duly justified.
+
+The Commission shall, for the purposes of verifying the data referred to in point (a), consult with the relevant type-approval authorities.
+
+The administrative fines shall be effective, proportionate and dissuasive and shall not exceed EUR 30 000 for each heavy-duty vehicle concerned by deviating or delayed data as referred to in points (a) and (b).
+
+2\. The Commission shall adopt delegated acts in accordance with Article 17 to supplement this Regulation by laying down the procedure and methods for the calculation and collection of the administrative fines referred to in paragraph 1 of this Article.
+
+Those delegated acts shall respect the following principles:
+
+(a) the procedure shall respect the right to good administration, and in particular the right to be heard and the right to have access to the file, while respecting the legitimate interests of confidentiality and of commercial secrets;
+
+(b) in calculating the appropriate administrative fines, the Commission shall be guided by the principles of effectiveness, proportionality and dissuasiveness, taking into consideration, where relevant, the seriousness and effects of the deviation or delay, the number of heavy-duty vehicles concerned by the deviating or delayed data, the good faith of the manufacturer, the degree of diligence and cooperation of the manufacturer, the repetition, frequency and duration of the deviation or delay, as well as any prior penalties imposed on the same manufacturer;
+
+(c) administrative fines shall be collected without undue delay by setting deadlines for payment and by including, as appropriate, the possibility of splitting payments of those fines into several instalments and phases.
+
+3\. The amounts of the administrative fines shall be considered as revenue for the general budget of the European Union.
+
+## Article 14 — Amendments to Annexes I, IV and V
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 17 of this Regulation with a view to amending the following elements in Annex I to this Regulation to take into account technical progress, the evolution of freight transport logistics, necessary adjustments based on the application of this Regulation and amendments of the underlying type-approval legal acts, in particular Regulations (EU) 2018/858 and (EC) No 595/2009:
+
+(a) the criteria defining vehicle sub-groups set out in point 1.1, including by adding separate vehicle sub-groups for EHC lorries;
+
+(b) the criteria defining vocational vehicles set out in point 1.2;
+
+(c) the criteria for the operational ranges of different powertrain technologies set out in point 1.3;
+
+(d) the list of mission profiles set out in point 1.4;
+
+(e) the weight of mission profiles set out in points 2.1.1, 2.1.2 and 2.1.3;
+
+(f) the payloads, passenger numbers, passenger masses, technically permissible maximum payloads, technically permissible maximum passenger number and cargo volumes of vehicle sub-groups set out in point 2.5;
+
+(g) the annual mileage values set out in points 2.6.1, 2.6.2 and 2.6.3.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 17 with a view to amending the following elements in Annex IV:
+
+(a) the data requirements specified in Parts A and B, to take into account technical progress, necessary adjustments based on the application of this Regulation and amendments of the underlying type-approval legal acts, in particular Regulations (EU) 2018/858 and (EC) No 595/2009;
+
+(b) updating or adjusting the air drag value ranges set out in Part C, to take into account changes in the design of heavy-duty vehicles and to ensure that those ranges remain relevant for information and comparability purposes.
+
+3\. The Commission is empowered to adopt delegated acts in accordance with Article 17 with a view to amending the following elements in Annex V:
+
+(a) the reporting procedure set out therein, to take into account experience gained from the application of this Regulation and to adapt the reporting procedure to technical progress;
+
+(b) point 3.2, by adding any data entries that have been added to the central register.
+
+## Article 15 — Review
+
+1\. By 31 December 2027, the Commission shall review the effectiveness and impact of this Regulation, in particular as regards the objective of climate neutrality at the latest by 2050, and submit a report to the European Parliament and to the Council with the results of that review.
+
+In that report, the Commission shall particularly assess:
+
+(a) the number of registrations of zero-emission heavy-duty vehicles in Member States;
+
+(b) the progress in the deployment of public and private alternative fuels recharging and refuelling infrastructure for heavy-duty vehicles covered by this Regulation, as well as the existence of infrastructural constraints in third countries on the operation of newly EU-registered heavy-duty vehicles outside the Union;
+
+(c) the impact on employment, especially on micro, small and medium-sized enterprises (SMEs), the effectiveness of measures to support retraining and upskilling of the workforce, and the importance of an economically viable and socially fair transition towards zero-emission road mobility; special emphasis shall be placed on the impact on peripheral Member States and on the impact on the transport of perishable goods;
+
+(d) whether the continuation of the exemption set out in Article 6b for manufacturers producing few vehicles is still justified;
+
+(e) the impact of establishing minimum energy-efficiency thresholds for new zero-emission heavy-duty vehicles placed on the Union market;
+
+(f) the level of the excess CO2 emissions premium, to ensure that it exceeds the average marginal costs of the technologies needed to meet the CO2 emissions reduction targets;
+
+(g) the inclusion of the following heavy-duty vehicles, which do not currently fall within the scope of Regulation (EU) 2017/2400, in the CO2 emissions reduction targets:
+
+(i) small lorries with a TPMLM less or equal to 5 tonnes, following an investigation of the appropriateness of the determination of CO2 emissions for such heavy-duty vehicles, in accordance with Regulation (EU) 2017/2400 (VECTO simulations), taking into account Regulation (EU) 2017/1151; and
+
+(ii) special purpose vehicles, off-road vehicles and off-road special purpose vehicles;
+
+(h) any specific constraints in complying with Article 3d(1) due to socio-economic cost benefits in view of specific territorial morphology or meteorological circumstances, as well as recent investments in biomethane already made by public authorities;
+
+(i) the role of a carbon correction factor in the transition towards zero-emission mobility in the heavy-duty vehicles sector;
+
+(j) the role of a methodology for registering heavy-duty vehicles running exclusively on CO2 neutral fuels, in conformity with Union law and with the Union climate-neutrality objective;
+
+(k) whether the creation of new vehicle sub-groups for EHC lorries has led to an undue increase in engine rated power;
+
+(l) the possibility of developing a common Union methodology for the assessment, and the consistent data reporting, of the full lifecycle CO2 emissions of new heavy-duty vehicles that are placed on the Union market;
+
+(m) options to consider zero-emission heavy-duty vehicles which have been retrofitted from conventional heavy-duty vehicles previously registered, for the purposes of compliance assessment under this Regulation.
+
+That report shall, where appropriate, be accompanied by a legislative proposal to amend this Regulation.
+
+2\. The Commission shall assess the role of sustainable renewable fuels in the transition towards climate neutrality, including in the heavy-duty vehicles sector. Separately from the review referred to in paragraph 1, and as part of a broader strategy for the deployment of such fuels, the Commission shall by 31 December 2025 present a report to the European Parliament and to the Council with a comprehensive analysis of the need to further incentivise the uptake of advanced biofuels and biogas and renewable fuels of non-biological origin in the heavy-duty vehicles sector and the appropriate framework of measures, including financial incentives, to achieve that deployment. Based on that analysis, the Commission shall, where appropriate, make additional legislative proposals or shall make recommendations to the Member States.
+
+## Article 16 — Committee procedure
+
+1\. The Commission shall be assisted by the Climate Change Committee referred to in point (a) of Article 44(1) of Regulation (EU) 2018/1999 of the European Parliament and of the Council ( 9 ). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+## Article 17 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 3d(3), Article 13(4), second subparagraph, Article 13d(2), Article 13f(2) and Article 14(1), (2) and (3) shall be conferred on the Commission for a period of five years from 26 June 2024.  The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 3d(3), Article 13(4), second subparagraph, Article 13d(2), Article 13f(2) and Article 14(1), (2) and (3) may be revoked at any time by the European Parliament or by the Council.  A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated act already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 3d(3), Article 13(4), second subparagraph, Article 13d(2), Article 13f(2) and Article 14(1), (2) and (3) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and to the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object.  That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 18 — Amendments to Regulation (EC) No 595/2009
+
+Regulation (EC) No 595/2009 is amended as follows:
+
+(1) in Article 2, first paragraph, the following sentence is added:
+
+‘It shall also apply, for the purpose of Articles 5a, 5b, and 5c, to vehicles of categories O3 and O4.’;
+
+(2) the following Articles are inserted:
+
+‘Article 5a
+
+Specific requirements for manufacturers with regard to the environmental performance of vehicles of categories M2, M3, N2, N3, O3 and O4
+
+1\. Manufacturers shall ensure that new vehicles of categories O3 and O4 that are sold, registered or put into service meet the following requirements:
+
+(a) the influence of those vehicles on the CO2 emissions, fuel consumption, electric consumption and zero-emission driving range of motor vehicles is determined in accordance with the methodology referred to in point (a) of Article 5c;
+
+(b) they are fitted with on-board devices for the monitoring and recording of the payload in accordance with the requirements referred to in point (b) of Article 5c.
+
+2\. Manufacturers shall ensure that new vehicles of categories M2, M3, N2 and N3 that are sold, registered or put into service are fitted with on-board devices for the monitoring and recording of fuel and/or energy consumption, payload and mileage in accordance with the requirements referred to in point (b) of Article 5c.
+
+They shall also ensure that the zero-emission driving range and electricity consumption of those vehicles are determined in accordance with the methodology referred to in point (c) of Article 5c.
+
+Article 5b
+
+Specific requirements for Member States with regard to the environmental performance of vehicles of categories M2, M3, N2, N3, O3 and O4
+
+1\. National authorities shall, in accordance with the implementing measures referred to in Article 5c, refuse to grant EC type-approval or national type-approval in respect of new vehicle types of categories M2, M3, N2, N3, O3 and O4 which do not comply with the requirements set out in those implementing measures.
+
+2\. National authorities shall, in accordance with the implementing measures referred to in Article 5c, prohibit the sale, registration or entry into service of new vehicles of categories M2, M3, N2, N3, O3 and O4 which do not comply with the requirements set out in those implementing measures.
+
+Article 5c
+
+Measures for determining certain aspects of the environmental performance of vehicles of categories M2, M3, N2, N3, O3 and O4
+
+By 31 December 2021, the Commission shall, by means of implementing acts, adopt the following measures:
+
+(a) a methodology for assessing the performance of vehicles of categories O3 and O4 with regard to their influence on the CO2 emissions, fuel consumption, electricity consumption and zero-emission driving ranges of motor vehicles;
+
+(b) technical requirements for the fitting of on-board devices for the monitoring and recording of fuel and/or energy consumption and mileage of motor vehicles of categories M2, M3, N2 and N3, and for determining and recording the payloads or total weight of vehicles meeting the characteristics set out in point (a), (b), (c) or (d) of the first subparagraph of Article 2(1) of Regulation (EU) 2019/1242 of the European Parliament and of the Council ( *1 ) and of their combinations with category O3 and O4 vehicles, including the transmission of data between vehicles within a combination, as necessary;
+
+(c) a methodology for determining the zero-emission driving range and electricity consumption of new vehicles of categories M2, M3, N2 and N3.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 13a.
+
+(3) the following Article is added:
+
+‘Article 13a
+
+Committee procedure
+
+1\. The Commission shall be assisted by the Technical Committee for Motor Vehicles established by Regulation (EU) 2018/858 of the European Parliament and of the Council ( *2 ). That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+3\. Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply.
+
+## Article 19 — Amendments to Regulation (EU) 2018/956
+
+Regulation (EU) 2018/956 is amended as follows:
+
+(1) Article 3 is replaced by the following:
+
+‘Article 3
+
+Definitions
+
+For the purposes of this Regulation, the definitions set out in Directive 2007/46/EC of the European Parliament and of the Council ( *3 ), in Regulation (EC) No 595/2009 and in Regulation (EU) 2019/1242 of the European Parliament and of the Council ( *4 ) apply.
+
+(2) in Article 4, paragraph 1 is replaced by the following:
+
+‘1. Starting from 1 January 2019, Member States shall monitor the data specified in Part A of Annex I relating to new heavy-duty vehicles registered for the first time in the Union.
+
+By 30 September each year, starting in 2020, the competent authorities of the Member States shall report those data of the previous reporting period of 1 July to 30 June to the Commission in accordance with the reporting procedure set out in Annex II.
+
+With regard to 2019, the data reported by 30 September 2020 shall include data monitored from 1 January 2019 to 30 June 2020.
+
+Data relating to new heavy-duty vehicles that were registered previously outside the Union shall not be monitored and reported, unless that registration was made less than three months before registration in the Union.’;
+
+(3) in Article 5, paragraph 1 is replaced by the following:
+
+‘1. From the starting years set out in point 1 of Part B of Annex I, manufacturers of heavy-duty vehicles shall monitor the data specified in point 2 of Part B of Annex I, for each new heavy-duty vehicle.
+
+By 30 September each year, from the starting years set out in point 1 of Part B of Annex I, manufacturers of heavy-duty vehicles shall report those data for each new heavy-duty vehicle with a date of simulation falling within the preceding reporting period of 1 July to 30 June to the Commission in accordance with the reporting procedure set out in Annex II.
+
+With regard to 2019, manufacturers shall report the data for each new heavy-duty vehicle with a date of simulation falling within the period 1 January 2019 to 30 June 2020.
+
+The date of simulation shall be the date reported in accordance with data entry 71 in point 2 of Part B of Annex I.’;
+
+(4) in Article 10, paragraph 1 is replaced by the following:
+
+‘1. By 30 April every year, the Commission shall publish an annual report with its analysis of the data transmitted by Member States and manufacturers for the preceding reporting period.’;
+
+(5) in Annex II, point 3.2 is replaced by the following:
+
+‘3.2. The data relating to heavy-duty vehicles registered in the preceding reporting period and recorded in the Register shall be made public by 30 April each year, starting from 2021, with the exception of the data entries specified in Article 6(1).’.
+
+## Article 20 — Amendments to Directive 96/53/EC
+
+Directive 96/53/EC is amended as follows:
+
+(1) in Article 2, the following definition is inserted after the definition of ‘alternatively fuelled vehicle’:
+
+—
+
+‘— “zero-emission vehicle” shall mean a zero-emission heavy-duty vehicle as defined in point (11) of Article 3 of Regulation (EU) 2019/1242 of the European Parliament and of the Council ( *5 ).
+
+(2) Article 10b is replaced by the following:
+
+‘Article 10b
+
+The maximum authorised weights of alternatively fuelled or zero-emission vehicles shall be those set out in points 2.2.1, 2.2.2, 2.2.3, 2.2.4, 2.3.1, 2.3.2 and 2.4 of Annex I.
+
+Alternatively fuelled or zero-emission vehicles shall also comply with the maximum authorised axle weight limits set out in point 3 of Annex I.
+
+The additional weight required by alternatively fuelled or zero-emission vehicles shall be defined on the basis of the documentation provided by the manufacturer when the vehicle in question is approved. That additional weight shall be indicated in the official proof required in accordance with Article 6.
+
+The Commission shall be empowered to adopt delegated acts in accordance with Article 10h to update, for the purposes of this Directive, the list of alternative fuels referred to in Article 2 that require additional weight. It is of particular importance that the Commission follow its usual practice and carry out consultations with experts, including Member States’ experts, before adopting those delegated acts.’;
+
+(3) Annex I is amended as follows:
+
+(a) the following subparagraph is added to the second column of points 2.2.1, 2.2.2, 2.2.3 and 2.2.4:
+
+‘In the case of vehicle combinations including alternatively fuelled or zero-emission vehicles, the maximum authorised weights provided for in this section shall be increased by the additional weight of the alternative fuel or zero-emission technology with a maximum of 1 tonne and 2 tonnes respectively.’;
+
+(b) the following subparagraph is added to the second column of point 2.3.1:
+
+‘Zero-emission vehicles: the maximum authorised weight of 18 tonnes is increased by the additional weight of the zero-emission technology with a maximum of 2 tonnes.’;
+
+(c) the following subparagraph is added to the third column of point 2.3.2:
+
+‘Three-axle zero-emission vehicles: the maximum authorised weight of 25 tonnes, or 26 tonnes where the driving axle is fitted with twin tyres and air suspension or suspension recognised as being equivalent within the Union as defined in Annex II or where each driving axle is fitted with twin tyres and the maximum weight of each axle does not exceed 9,5 tonnes, is increased by the additional weight of the zero-emission technology with a maximum of 2 tonnes.’;
+
+(d) the following subparagraph is added to the third column of point 2.4:
+
+‘Three-axle articulated buses that are zero-emission vehicles: the maximum authorised weight of 28 tonnes is increased by the additional weight of the zero-emission technology with a maximum of 2 tonnes.’.
+
+## Article 21 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Average specific CO2 emissions, specific CO2 emissions targets and excess CO2 emissions
+
+**1\. Vehicle sub-groups**
+
+**1.1. For the purposes of this Regulation, a vehicle sub-group sg is defined for each new heavy-duty vehicle.**
+
+1.1.1. For heavy-duty vehicles of category N, the vehicle sub-group sg is defined as follows:
+
+<table>
+<tbody><tr><td rowspan="2">Vehicle group pursuant to Annex I to Regulation (EU) 2017/2400</td><td rowspan="2">Cab type</td><td rowspan="8">Engine power</td><td rowspan="8">Operational range (OR)</td><td colspan="2">Vehicle sub-group (sg) attributed for the purposes of this Regulation (1)</td></tr>
+<tr><td>Vehicles other than vocational vehicles</td><td>Vocational vehicles</td></tr>
+<tr><td>53 and zero-emission heavy-duty vehicles in 51</td><td colspan="3">All</td><td>53</td><td>53v</td></tr>
+<tr><td>54 and zero-emission heavy-duty vehicles in 52</td><td colspan="3">All</td><td>54</td><td>—</td></tr>
+<tr><td>1s</td><td colspan="3">All</td><td>1s</td><td>1sv</td></tr>
+<tr><td>1</td><td colspan="3">All</td><td>1</td><td>1v</td></tr>
+<tr><td>2</td><td colspan="3">All</td><td>2</td><td>2v</td></tr>
+<tr><td>3</td><td colspan="3">All</td><td>3</td><td>3v</td></tr>
+<tr><td rowspan="5">4</td><td>All</td><td>&lt; 170 kW</td><td>All</td><td>4-UD</td><td rowspan="5">4v</td></tr>
+<tr><td>Day cab</td><td>≥ 170 kW</td><td rowspan="2">All</td><td rowspan="3">4-RD</td></tr>
+<tr><td>Sleeper cab</td><td>≥ 170 kW and &lt; 265 kW</td></tr>
+<tr><td>Sleeper cab</td><td>≥ 265 kW</td><td>&lt; 350 km</td></tr>
+<tr><td>Sleeper cab</td><td>≥ 265 kW</td><td>≥ 350 km</td><td>4-LH</td></tr>
+<tr><td rowspan="4">5</td><td>Day cab</td><td>All</td><td rowspan="2">All</td><td rowspan="3">5-RD</td><td rowspan="4">5v</td></tr>
+<tr><td>Sleeper cab</td><td>&lt; 265 kW</td></tr>
+<tr><td>Sleeper cab</td><td>≥ 265 kW</td><td>&lt; 350 km</td></tr>
+<tr><td>Sleeper cab</td><td>≥ 265 kW</td><td>≥ 350 km</td><td>5-LH</td></tr>
+<tr><td rowspan="3">9</td><td>Day cab</td><td>All</td><td>All</td><td rowspan="2">9-RD</td><td rowspan="3">9v</td></tr>
+<tr><td>Sleeper cab</td><td>All</td><td>&lt; 350 km</td></tr>
+<tr><td>Sleeper cab</td><td>All</td><td>≥ 350 km</td><td>9-LH</td></tr>
+<tr><td rowspan="3">10</td><td>Day cab</td><td>All</td><td>All</td><td rowspan="2">10-RD</td><td rowspan="3">10v</td></tr>
+<tr><td>Sleeper cab</td><td>All</td><td>&lt; 350 km</td></tr>
+<tr><td>Sleeper cab</td><td>All</td><td>≥ 350 km</td><td>10-LH</td></tr>
+<tr><td rowspan="2">11</td><td colspan="3">All, excluding EHC lorries</td><td>11</td><td rowspan="2">11v</td></tr>
+<tr><td colspan="3">All, EHC lorries only</td><td>11-EHC</td></tr>
+<tr><td>12</td><td colspan="3">All, excluding EHC lorries</td><td>12</td><td rowspan="2">12v</td></tr>
+<tr><td>  </td><td colspan="3">All, EHC lorries only.</td><td>12-EHC</td></tr>
+<tr><td>16</td><td colspan="3">All, excluding EHC lorries</td><td>16</td><td rowspan="2">16v</td></tr>
+<tr><td>  </td><td colspan="3">All, EHC lorries only</td><td>16-EHC</td></tr>
+<tr><td colspan="6">(1)  For the calculation of vehicle shares and average specific CO2 emissions of manufacturers of reporting periods of the years 2030 to 2034 in accordance with points 2.4 and 2.7, respectively, zero-emission vocational vehicles of category N shall be attributed as follows: </td></tr>
+</tbody>
+</table>
+
+| Zero-emission vocational vehicle in vehicle sub-group | Attributed to vehicle sub-group |
+| --- | --- |
+| 53v | 53 |
+| 1sv | 1s |
+| 1v | 1 |
+| 2v | 2 |
+| 3v | 3 |
+| 4v | 4-UD |
+| 5v | 5-RD |
+| 9v | 9-RD |
+| 10v | 10-RD |
+| 11v | 11 |
+| 12v | 12 |
+| 16v | 16 |
+
+‘ ‘Sleeper cab’ ’ means a type of cab that has a compartment behind the driver’s seat intended to be used for sleeping as reported pursuant to Articles 13a and 13b.
+
+‘ ‘Day cab’ ’ means a type of cab that is not a sleeper cab.
+
+Where a new heavy-duty vehicle is attributed to vehicle sub-group 4-UD, but data on the CO2 emissions in g/km are not available for the UDL or UDR mission profiles as defined in point 1.4, the new heavy-duty vehicle shall be attributed to vehicle sub-group 4-RD.
+
+‘ ‘Operational range’ ’ means the distance a heavy-duty vehicle can travel under long haul transport conditions without being re-charged or re-filled, as provided for in point 1.3.
+
+Where, for a heavy-duty vehicle falling in group 11, 12 or 16, the information regarding TPMLM referred to in Article 3(25), point (c), is not available, that vehicle shall be attributed to vehicle sub-groups 11-EHC, 12-EHC and 16-EHC on the basis of the criteria set out in Article 3(25), points (a) and (b) only.
+
+1.1.2. For heavy-duty vehicles of category M, the vehicle sub-group sg is defined as follows:
+
+| Vehicle group pursuant to Annex I to Regulation (EU) 2017/2400 | Vehicle sub-group (sg) attributed for the purposes of this Regulation |
+| --- | --- |
+| 31a, 31d | 31-LF |
+| 31b1 | 31-L1 |
+| 31b2 | 31-L2 |
+| 31c, 31e | 31-DD |
+| 32a, 32b | 32-C2 |
+| 32c, 32d | 32-C3 |
+| 32e, 32f | 32-DD |
+| 33a, 33d, 37a, 37d | 33-LF |
+| 33b1, 37b1 | 33-L1 |
+| 33b2, 37b2 | 33-L2 |
+| 33c, 33e, 37c, 37e | 33-DD |
+| 34a, 34b, 36a, 36b, 38a, 38b, 40a, 40b | 34-C2 |
+| 34c, 34d, 36c, 36d, 38c, 38d, 40c, 40d | 34-C3 |
+| 34e, 34f, 36e, 36f, 38e, 38f, 40e, 40f | 34-DD |
+| 35a, 35b1, 35b2, 35c | 35-FE |
+| 39a, 39b1, 39b2, 39c | 39-FE |
+
+1.1.3. For heavy-duty vehicles of category O, the vehicle sub-group sg is defined as follows:
+
+<table>
+<tbody><tr><td>Vehicle groups defined in Annex I to Implementing Regulation (EU) 2022/1362</td><td>Vehicle sub-group (sg) attributed for the purposes of this Regulation</td></tr>
+<tr><td>All groups provided for in Table 1 with one, two or three axles</td><td rowspan="3">Same as provided in the column ‘vehicle group’ of the tables in Annex I to Implementing Regulation (EU) 2022/1362.</td></tr>
+<tr><td>All groups provided in Table 4 with two or three axles</td></tr>
+<tr><td>All groups provided for in Table 6</td></tr>
+</tbody>
+</table>
+
+1.2. Vocational vehicles are defined by the following criteria:
+
+<table>
+<tbody><tr><td>Vehicle category</td><td>Chassis configuration</td><td>Criteria for vocational vehicles</td></tr>
+<tr><td rowspan="2">N</td><td>Rigid</td><td>One of the following digits, as listed in Appendix 2 of Annex I to Regulation (EU) 2018/858, is used to supplement the code for bodywork indicated in entry 38 of the certificate of conformity: 09, 10, 15, 16, 18, 19, 20, 23, 24, 25, 26, 27, 28 or 31; </td></tr>
+<tr><td>Tractor</td><td>Maximum speed not exceeding 79 km/h</td></tr>
+</tbody>
+</table>
+
+1.3. Operational ranges for the purposes of this Regulation are set as follows:
+
+| Powertrain technology | Operational range (OR) |
+| --- | --- |
+| Heavy-duty vehicles drawing energy for the purpose of mechanical propulsion only from an electrical energy or power storage device | OR = actual charge depleting range as provided for by point 2.4.1 of Part I of Annex IV to Regulation (EU) 2017/2400 for the LHR mission profile |
+| Other technologies | OR>350 km |
+
+**1.4. Definitions of mission profiles**
+
+RDL Regional delivery payload low
+
+RDR Regional delivery payload representative
+
+LHL Long-haul payload low
+
+LHR Long-haul payload representative
+
+UDL Urban delivery payload low
+
+UDR Urban delivery payload representative
+
+REL Regional delivery (EMS) payload low
+
+RER Regional delivery (EMS) payload representative
+
+LEL Long haul (EMS) payload low
+
+LER Long haul (EMS) payload representative
+
+MUL Municipal utility payload low
+
+MUR Municipal utility payload representative
+
+COL Construction payload low
+
+COR Construction payload representative
+
+HPL Heavy urban, passenger transport, low load
+
+HPR Heavy urban, passenger transport, representative load
+
+UPL Urban, passenger transport, low load
+
+UPR Urban, passenger transport, representative load
+
+SPL Sub-urban, passenger transport, low load
+
+SPR Sub-urban, passenger transport, representative load
+
+IPL Inter-urban, passenger transport, low load
+
+IPR Inter-urban, passenger transport, representative load
+
+CPL Coach, passenger transport, low load
+
+CPR Coach, passenger transport, representative load
+
+**2\. Calculation of the average specific CO2 emissions of a manufacturer**
+
+**2.1. Calculation of the specific CO2 emissions of a new heavy-duty vehicle**
+
+The specific CO2 emissions in g/km of a new heavy-duty vehicle v attributed to a vehicle sub-group sg or of its primary vehicle shall be calculated as follows:
+
+[image]
+
+[image]
+
+Where,
+
+Σmp is the sum of all mission profiles mp listed in point 1.4;
+
+sg is the vehicle sub-group to which the new heavy-duty vehicle v has been attributed according to point 1 of this Annex;
+
+Wsg,mp is the mission profile weight specified in points 2.1.1 to 2.1.3;
+
+CO2v,mp is the CO2 emissions in g/km of the new heavy-duty vehicle v determined for a mission profile mp, reported pursuant to Articles 13a and 13b and normalised pursuant to Annex III;
+
+CO2pv,mp is the CO2 emissions in g/km of the primary vehicle of the new heavy-duty vehicle v, determined for a mission profile mp, and for the chassis configuration (low/high floor, number of decks) applicable to its vehicle sub-group sg, reported pursuant to Articles 13a and 13b and normalised pursuant to Annex III;
+
+For zero-emission heavy-duty motor vehicles, the values of CO2v,mp and CO2pv,mp shall be set to 0.
+
+**2.1.1. Mission profile weights (Wsg,mp) for heavy-duty vehicles of category N**
+
+<table>
+<tbody><tr><td rowspan="2">Vehicle sub-group (sg) (1) </td><td colspan="13">Mission profile (mp)(2)</td></tr>
+<tr><td>RDL</td><td>RDR</td><td>LHL</td><td>LHR</td><td>UDL</td><td>UDR</td><td>REL, RER</td><td>LEL</td><td>LER</td><td>MUL</td><td>MUR</td><td>COL</td><td>COR</td></tr>
+<tr><td>53, 53v</td><td>0,25 </td><td>0,25 </td><td>0 </td><td>0 </td><td>0,25 </td><td>0,25 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>54</td><td>0,25 </td><td>0,25 </td><td>0 </td><td>0 </td><td>0,25 </td><td>0,25 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>1s, 1sv</td><td>0,1 </td><td>0,3 </td><td>0 </td><td>0 </td><td>0,18 </td><td>0,42 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>1, 1v</td><td>0,1 </td><td>0,3 </td><td>0 </td><td>0 </td><td>0,18 </td><td>0,42 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>2, 2v</td><td>0,125 </td><td>0,375 </td><td>0 </td><td>0 </td><td>0,15 </td><td>0,35 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>3, 3v</td><td>0,125 </td><td>0,375 </td><td>0 </td><td>0 </td><td>0,15 </td><td>0,35 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>4-UD</td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,5 </td><td>0,5 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>4-RD</td><td>0,45 </td><td>0,45 </td><td>0,05 </td><td>0,05 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>4-LH</td><td>0,05 </td><td>0,05 </td><td>0,45 </td><td>0,45 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>4v</td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,25 </td><td>0,25 </td><td>0,25 </td><td>0,25 </td></tr>
+<tr><td>5-RD</td><td>0,27 </td><td>0,63 </td><td>0,03 </td><td>0,07 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>5-LH</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>5v</td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,5 </td><td>0,5 </td></tr>
+<tr><td>9-RD</td><td>0,27 </td><td>0,63 </td><td>0,03 </td><td>0,07 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>9-LH</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>9v</td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,25 </td><td>0,25 </td><td>0,25 </td><td>0,25 </td></tr>
+<tr><td>10-RD</td><td>0,27 </td><td>0,63 </td><td>0,03 </td><td>0,07 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>10-LH</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>10v</td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,5 </td><td>0,5 </td></tr>
+<tr><td>11</td><td>0,3 </td><td>0,7 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>11v</td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,1 </td><td>0,23 </td><td>0,3 </td><td>0,37 </td></tr>
+<tr><td>11-EHC</td><td>0,03 </td><td>0,07 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,27 </td><td>0,63 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>12</td><td>0,3 </td><td>0,7 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>12v</td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,3 </td><td>0,7 </td></tr>
+<tr><td>12-EHC</td><td>0,03 </td><td>0,07 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,27 </td><td>0,63 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td>16, 16v</td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,3 </td><td>0,7 </td></tr>
+<tr><td>16-EHC</td><td>0,03 </td><td>0,07 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td><td>0,27 </td><td>0,63 </td><td>0 </td><td>0 </td><td>0 </td><td>0 </td></tr>
+<tr><td colspan="14">(1)  See definitions in point 1.1.  (2)  See definitions in point 1.4. </td></tr>
+</tbody>
+</table>
+
+**2.1.2. Mission profile weights (Wsg,mp) for heavy-duty vehicles of category M**
+
+<table>
+<tbody><tr><td rowspan="2">Vehicle sub-group (sg) (*1)</td><td colspan="10">Mission profile (mp) (*2)</td></tr>
+<tr><td>HPL</td><td>HPR</td><td>UPL</td><td>UPR</td><td>SPL</td><td>SPR</td><td>IPL</td><td>IPR</td><td>CPL</td><td>CPR</td></tr>
+<tr><td>31-LF</td><td>0,27 </td><td>0,23 </td><td>0,15 </td><td>0,13 </td><td>0,11 </td><td>0,11 </td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>31-L1</td><td>0,05 </td><td>0,05 </td><td>0,16 </td><td>0,14 </td><td>0,32 </td><td>0,28 </td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>31-L2</td><td>0,05 </td><td>0,05 </td><td>0,09 </td><td>0,08 </td><td>0,15 </td><td>0,13 </td><td>0,24 </td><td>0,21 </td><td>0</td><td>0</td></tr>
+<tr><td>31-DD</td><td>0,20 </td><td>0,31 </td><td>0,12 </td><td>0,18 </td><td>0,07 </td><td>0,12 </td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>32-C2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0,47 </td><td>0,43 </td><td>0,04 </td><td>0,06 </td></tr>
+<tr><td>32-C3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0,05 </td><td>0,05 </td><td>0,30 </td><td>0,60 </td></tr>
+<tr><td>32-DD</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0,05 </td><td>0,05 </td><td>0,35 </td><td>0,55 </td></tr>
+<tr><td>33-LF</td><td>0,27 </td><td>0,23 </td><td>0,15 </td><td>0,13 </td><td>0,11 </td><td>0,11 </td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>33-L1</td><td>0,05 </td><td>0,05 </td><td>0,16 </td><td>0,14 </td><td>0,32 </td><td>0,28 </td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>33-L2</td><td>0,05 </td><td>0,05 </td><td>0,09 </td><td>0,08 </td><td>0,15 </td><td>0,13 </td><td>0,24 </td><td>0,21 </td><td>0</td><td>0</td></tr>
+<tr><td>33-DD</td><td>0,20 </td><td>0,31 </td><td>0,12 </td><td>0,18 </td><td>0,07 </td><td>0,12 </td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>34-C2</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0,47 </td><td>0,43 </td><td>0,04 </td><td>0,06 </td></tr>
+<tr><td>34-C3</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0,05 </td><td>0,05 </td><td>0,30 </td><td>0,60 </td></tr>
+<tr><td>34-DD</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0,05 </td><td>0,05 </td><td>0,35 </td><td>0,55 </td></tr>
+<tr><td>35-FE</td><td>0,27 </td><td>0,23 </td><td>0,15 </td><td>0,13 </td><td>0,11 </td><td>0,11 </td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>39-FE</td><td>0,27 </td><td>0,23 </td><td>0,15 </td><td>0,13 </td><td>0,11 </td><td>0,11 </td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td colspan="11">(*1)  See definitions in point 1.1  (*2)  See definitions in point 1.4 </td></tr>
+</tbody>
+</table>
+
+**2.1.3. Mission profile weights (Wsg,mp) for heavy-duty vehicles of category O**
+
+<table>
+<tbody><tr><td rowspan="2">Vehicle sub-group (sg) (*1)</td><td colspan="7">Mission profile (mp) (*2)</td></tr>
+<tr><td>RDL</td><td>RDR</td><td>LHL</td><td>LHR</td><td>UDL</td><td>UDR</td><td>REL, RER, LEL, LER</td></tr>
+<tr><td>111, 111V,112, 112V, 113</td><td>0,27 </td><td>0,63 </td><td>0,03 </td><td>0,07 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>121, 121V, 122, 122V, 123, 123V, 124, 124V, 125, 126</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>131, 131v, 132, 132v, 133</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>421, 421v, 422, 422v, 423</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>431, 431v, 432, 432v, 433</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>611, 612</td><td>0,27 </td><td>0,63 </td><td>0,03 </td><td>0,07 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>611v, 612v</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>621, 623</td><td>0,27 </td><td>0,63 </td><td>0,03 </td><td>0,07 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>621V, 622, 622V, 623V, 624, 624V, 625</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>631, 631v, 632, 632v, 633</td><td>0,03 </td><td>0,07 </td><td>0,27 </td><td>0,63 </td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td colspan="8">(*1)  See definitions in point 1.1  (*2)  See definitions in point 1.4 </td></tr>
+</tbody>
+</table>
+
+**2.2. Average specific CO2 emissions of all new heavy-duty vehicles in a vehicle sub-group for a manufacturer**
+
+For each manufacturer and each reporting period, the average specific CO2 emissions avgCO2sg of all new heavy-duty vehicles in a vehicle sub-group sg or their primary vehicles, if applicable, shall be calculated as follows:
+
+2.2.1. For heavy-duty vehicles of categories N and O:
+
+[image] (in g/tkm)
+
+2.2.2. For complete or completed vehicles of category M:
+
+[image] (in g/pkm)
+
+2.2.3. For primary vehicles of heavy-duty vehicles of category M:
+
+[image] (in g/pkm)
+
+Where,
+
+Σv is the sum of all new heavy-duty vehicles of the manufacturer in the vehicle sub-group sg, subject to Article 7b;
+
+CO2v is the specific CO2 emissions of the new heavy-duty vehicle v determined in accordance with point 2.1;
+
+CO2pv is the specific CO2 emissions of the primary vehicle of the new heavy-duty vehicle v determined in accordance with point 2.1;
+
+Vsg is the number of new heavy-duty vehicles of the manufacturer in the vehicle sub-group sg;
+
+Vpvsg the number of new heavy-duty vehicles in the vehicle sub-group sg, which pursuant to Article 7b shall be accounted for with the CO2 emissions of their primary vehicles in the calculation of the average specific CO2 emissions of point 2.2.3;
+
+PLsg is the average payload of heavy-duty vehicles in the vehicle sub-group sg as determined in point 2.5;
+
+PNsg is the average passenger number of vehicles in the vehicle sub-group sg as determined in point 2.5.
+
+**2.3. Calculation of the zero- and low-emission factor as referred to in Article 5**
+
+**2.3.1 Reporting periods 2019 to 2024**
+
+For each manufacturer and reporting period from 2019 to 2024, the zero- and low-emission vehicles factor (ZLEV) referred to in Article 5 shall be calculated as follows:
+
+ZLEV = Vall / (Vconv + Vzlev) with a minimum of 0,97
+
+where,
+
+Vall is the number of new heavy-duty vehicles of the manufacturer in the vehicle sub-groups sg = 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD, 10-LH;
+
+Vconv is the number of new heavy-duty vehicles of the manufacturer in the vehicle sub-groups sg = 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD, 10-LH excluding zero- and low-emission heavy-duty vehicles;
+
+Vzlev is the sum of Vin and Vout,
+
+where,
+
+Vin is Σ v (1+ (1 – CO2v/LETsg))
+
+with Σ v being the sum of all new zero- and low-emission heavy-duty vehicles in the vehicle sub-groups sg = 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD, 10-LH;
+
+CO2v is the specific CO2 emissions in g/km of a zero- or low-emission heavy-duty vehicle v determined in accordance with point 2.1;
+
+LETsg is the low-emission threshold of the vehicle sub-group sg to which the heavy-duty vehicle v belongs as defined in point 2.3.4;
+
+Vout is the total number of zero-emission heavy-duty vehicles of category N, which are not in the vehicle sub-groups referred to by the definition of Vin , and with a maximum of 1,5 % of Vconv.
+
+**2.3.2 Reporting periods from 2025 to 2029**
+
+For each manufacturer and reporting period, the zero- and low-emission vehicles factor (ZLEV) referred to in Article 5 shall be calculated as follows:
+
+| ZLEV = 1 - (y - x) | unless this sum is larger than 1 or lower than 0,97 in which case the ZLEV factor shall be set to 1 or 0,97 , respectively |
+| --- | --- |
+
+Where,
+
+x is 0,02 ;
+
+y is the sum of Vin and Vout, divided by Vtotal, where,
+
+Vin is the total number of newly registered low- and zero-emission heavy-duty vehicles in the vehicle sub-groups sg = 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD, 10-LH, where each of them is counted as ZLEVspecific in accordance with the formula below:
+
+ZLEVspecific = 1 – (CO2v / LETsg)
+
+Where,
+
+CO2v is the specific CO2 emissions in g/km of a zero- or low-emission heavy-duty vehicle v determined in accordance with point 2.1;
+
+LETsg is the low-emission threshold of the vehicle sub-group sg to which the heavy-duty vehicle v belongs as defined in point 2.3.4;
+
+Vout is the total number of newly registered zero-emission heavy-duty vehicles of category N, which are not in the vehicle sub-groups referred to by the definition of Vin , and with a maximum of 0,035 of Vtotal;
+
+Vtotal is the total number of newly registered heavy-duty vehicles of category N of the manufacturer in that reporting period.
+
+Where Vin/Vtotal is lower than 0,0075 , the ZLEV factor shall be set to 1.
+
+**2.3.3 Reporting periods from 2030 onwards**
+
+ZLEV = 1
+
+2.3.4 Calculation of the low-emission threshold
+
+The low-emission threshold LET sg of the vehicle sub-group sg is defined as follows:
+
+LETsg = (rCO2sg x PLsg) / 2
+
+Where,
+
+rCO2sg is the reference CO2 emissions of the vehicle sub-group sg, as determined in point 3;
+
+PLsg is the average payload of heavy-duty vehicles in the vehicle sub-group sg as determined in point 2.5.
+
+**2.4. Calculation of heavy-duty vehicle shares**
+
+For each manufacturer and each reporting period, the share of new heavy-duty vehicles in a vehicle sub-group sharesg shall be calculated as follows:
+
+[image]
+
+For each manufacturer and each reporting period, the share of new zero-emission heavy-duty vehicles in a vehicle sub-group zevsg shall be calculated as follows:
+
+[image]
+
+For each manufacturer and each reporting period, the share of new heavy-duty vehicles within the vehicle sub-group sg, which pursuant to Article 7b shall be accounted for with the CO2 emissions of their primary vehicles in the calculation of the average specific CO2 emissions of point 2.2., shall be calculated as follows:
+
+[image]
+
+Where,
+
+Vzevsg is the number of new zero-emission heavy-duty vehicles of the manufacturer in a vehicle sub-group sg;
+
+Vpvsg the number of new heavy-duty vehicles within the vehicle sub-group sg, which pursuant to Article 7b shall be accounted for with the CO2 emissions of their primary vehicles in the calculation of the average specific CO2 emissions of point 2.2.;
+
+Vsg is the number of new heavy-duty vehicles of the manufacturer in a vehicle sub-group sg;
+
+V is the number of new heavy-duty vehicles of the manufacturer.
+
+**2.5. Payload values, passenger numbers and cargo volumes**
+
+The average payload value PLsg of a heavy-duty vehicle of category N or O in a vehicle sub-group sg shall be calculated as follows:
+
+[image]
+
+The average passenger number PNsg of a heavy-duty vehicle of category M in a vehicle sub-group sg shall be calculated as follows:
+
+[image]
+
+Where,
+
+Σmp is the sum of all mission profiles mp;
+
+Wsg,mp, is the mission profile weight specified in points 2.1.1 to 2.1.3;
+
+PLsg,mp is the payload value attributed to the heavy-duty vehicles of categories N and O in the vehicle sub-group sg for the mission profile mp, as specified in points 2.5.1 and 2.5.3;
+
+PNsg,mp is the passenger number attributed to the heavy-duty vehicles of category M in the vehicle sub-group sg for the mission profile mp, as specified in point 2.5.2.
+
+2.5.1. Heavy-duty vehicles of category N
+
+Payload values PL sg , mp (in tonnes) are determined as follows:
+
+<table>
+<tbody><tr><td rowspan="2">Vehicle sub-group (sg)(1)</td><td colspan="14">Mission profile (mp)(2)</td></tr>
+<tr><td>RDL</td><td>RDR</td><td>LHL</td><td>LHR</td><td>UDL</td><td>UDR</td><td>REL</td><td>RER</td><td>LEL</td><td>LER</td><td>MUL</td><td>MUR</td><td>COL</td><td>COR</td></tr>
+<tr><td>53</td><td colspan="2" rowspan="11">As determined in point 3.1.1</td><td colspan="2" rowspan="7">Not applicable</td><td colspan="2" rowspan="11">As determined in point 3.1.1</td><td colspan="8" rowspan="11">Not applicable</td></tr>
+<tr><td>53v</td></tr>
+<tr><td>54</td></tr>
+<tr><td>1s</td></tr>
+<tr><td>1sv</td></tr>
+<tr><td>1</td></tr>
+<tr><td>1v</td></tr>
+<tr><td>2</td><td colspan="2" rowspan="2">As determined in point 3.1.1</td></tr>
+<tr><td>2v</td></tr>
+<tr><td>3</td><td colspan="2" rowspan="2">Not applicable</td></tr>
+<tr><td>3v</td></tr>
+<tr><td>4-UD</td><td rowspan="4">0,9 </td><td rowspan="4">4,4 </td><td rowspan="4">1,9 </td><td rowspan="4">14 </td><td rowspan="4">0,9 </td><td rowspan="4">4,4 </td><td rowspan="4">3,5 </td><td rowspan="4">17,5 </td><td rowspan="4">3,5 </td><td rowspan="4">26,5 </td><td rowspan="4">0,6 </td><td rowspan="4">3,0 </td><td rowspan="4">0,9 </td><td rowspan="4">4,4 </td></tr>
+<tr><td>4-RD</td></tr>
+<tr><td>4-LH</td></tr>
+<tr><td>4v</td></tr>
+<tr><td>5-RD</td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td><td rowspan="3">2,6 </td><td rowspan="3">19,3 </td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td><td rowspan="3">3,5 </td><td rowspan="3">17,5 </td><td rowspan="3">3,5 </td><td rowspan="3">26,5 </td><td rowspan="3">n.a.</td><td rowspan="3">n.a.</td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td></tr>
+<tr><td>5-LH</td></tr>
+<tr><td>5v</td></tr>
+<tr><td>9-RD</td><td rowspan="3">1,4 </td><td rowspan="3">7,1 </td><td rowspan="3">2,6 </td><td rowspan="3">19,3 </td><td rowspan="3">1,4 </td><td rowspan="3">7,1 </td><td rowspan="3">3,5 </td><td rowspan="3">17,5 </td><td rowspan="3">3,5 </td><td rowspan="3">26,5 </td><td rowspan="3">1,2 </td><td rowspan="3">6,0 </td><td rowspan="3">1,4 </td><td rowspan="3">7,1 </td></tr>
+<tr><td>9-LH</td></tr>
+<tr><td>9v</td></tr>
+<tr><td>10-RD</td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td><td rowspan="3">2,6 </td><td rowspan="3">19,3 </td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td><td rowspan="3">3,5 </td><td rowspan="3">17,5 </td><td rowspan="3">3,5 </td><td rowspan="3">26,5 </td><td rowspan="3">n.a.</td><td rowspan="3">n.a.</td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td></tr>
+<tr><td>10-LH</td></tr>
+<tr><td>10v</td></tr>
+<tr><td>11</td><td rowspan="3">1,4 </td><td rowspan="3">7,1 </td><td rowspan="3">2,6 </td><td rowspan="3">19,3 </td><td rowspan="3">1,4 </td><td rowspan="3">7,1 </td><td rowspan="3">3,5 </td><td rowspan="3">17,5 </td><td rowspan="3">3,5 </td><td rowspan="2">26,5 </td><td rowspan="3">1,2 </td><td rowspan="3">6,0 </td><td rowspan="3">1,4 </td><td rowspan="3">7,1 </td></tr>
+<tr><td>11v</td></tr>
+<tr><td>11-EHC</td><td>31 </td></tr>
+<tr><td>12</td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td><td rowspan="3">2,6 </td><td rowspan="3">19,3 </td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td><td rowspan="3">3,5 </td><td rowspan="3">17,5 </td><td rowspan="3">3,5 </td><td rowspan="2">26,5 </td><td rowspan="3">n.a.</td><td rowspan="3">n.a.</td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td></tr>
+<tr><td>12v</td></tr>
+<tr><td>12-EHC</td><td>31 </td></tr>
+<tr><td>16</td><td rowspan="3">1,4 </td><td rowspan="3">7,1 </td><td rowspan="3">2,6 </td><td rowspan="3">19,3 </td><td rowspan="3">1,4 </td><td rowspan="3">7,1 </td><td rowspan="3">3,5 </td><td rowspan="3">17,5 </td><td rowspan="3">3,5 </td><td rowspan="2">26,5 </td><td rowspan="3">n.a.</td><td rowspan="3">n.a.</td><td rowspan="3">2,6 </td><td rowspan="3">12,9 </td></tr>
+<tr><td>16v</td></tr>
+<tr><td>16-EHC</td><td>34 </td></tr>
+<tr><td colspan="15">(1)  See definitions in point 1.1.  (2)  See definitions in point 1.4. </td></tr>
+</tbody>
+</table>
+
+Technically permissible maximum payload values maxPL sg and cargo volumes CVsg are determined in accordance with point 3.1.1.
+
+2.5.2. Heavy-duty vehicles of category M
+
+Passenger numbers PNsg,mp, passenger masses PMsg,mp and technically permissible maximum passenger numbers maxPNsg for the vehicle sub-group sg and mission profile mp are determined in accordance with point 3.1.1.
+
+2.5.3. Heavy-duty vehicles of category O
+
+Payload values PLsg, mp (in tonnes) are determined as follows:
+
+<table>
+<tbody><tr><td rowspan="2">Vehicle sub-group (sg) (*1) </td><td colspan="7">Mission profile (mp) (*2)</td></tr>
+<tr><td>RDL</td><td>RDR</td><td>LHL</td><td>LHR</td><td>UDL</td><td>UDR</td><td>REL, RER, LEL, LER</td></tr>
+<tr><td>111, 111V,112, 112V, 113</td><td>1,5 </td><td>7,5 </td><td>1,5 </td><td>11,2 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>121, 121V, 123, 123V, 125</td><td>2,2 </td><td>11,2 </td><td>2,2 </td><td>16,8 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>122, 122V, 124, 124V, 126</td><td>2,4 </td><td>12,2 </td><td>2,4 </td><td>18,3 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>131, 131v, 132, 132v, 133</td><td>2,6 </td><td>12,9 </td><td>2,6 </td><td>19,3 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>421, 421v, 422, 422v, 423</td><td>2,6 </td><td>12,9 </td><td>2,6 </td><td>19,3 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>431, 431v, 432, 432v, 433</td><td>2,6 </td><td>12,9 </td><td>2,6 </td><td>19,3 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>611, 612</td><td>1,2 </td><td>6,1 </td><td>1,2 </td><td>9,2 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>611v, 612v</td><td>1,2 </td><td>6,1 </td><td>1,2 </td><td>9,2 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>621, 621v, 623, 623v</td><td>1,3 </td><td>6,3 </td><td>1,3 </td><td>9,5 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>622, 622V, 624, 624V, 625</td><td>2,6 </td><td>12,9 </td><td>2,6 </td><td>19,3 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td>631, 631v, 632, 632v, 633</td><td>2,6 </td><td>12,9 </td><td>2,6 </td><td>19,3 </td><td>n.a.</td><td>n.a.</td><td>n.a.</td></tr>
+<tr><td colspan="8">(*1)  See definitions in point 1.1  (*2)  See definitions in point 1.4 </td></tr>
+</tbody>
+</table>
+
+Technically permissible maximum payload values maxPLsg and cargo volumes CVsg are determined in accordance with point 3.1.1.
+
+**2.6. Calculation of the mileage and payload or passenger-number weighting factor**
+
+The mileage and payload (passenger) weighting factor (MPWsg) of a vehicle sub-group sg is defined as the product of the annual mileage specified in point 2.6.1 and the payload and passenger-number values for the vehicle sub-group specified in points 2.5.1, 2.5.2 and 2.5.3 for vehicle categories N, M and O, respectively, normalised to the respective value for vehicle sub-group 5-LH, and shall be calculated as follows:
+
+[image] (for heavy-duty vehicles of categories N and O)
+
+[image] (for heavy-duty vehicles of category M)
+
+Where,
+
+AMsg is the annual mileage specified in point 2.6.1, 2.6.2 and 2.6.3 for the heavy-duty vehicles in the respective vehicle sub-group;
+
+AM5-LH is the annual mileage specified for vehicle sub-group 5-LH in 2.6.1;
+
+PLsg is as determined in points 2.5.1 and 2.5.3;
+
+PNsg is as determined in point 2.5.2;
+
+PL5-LH is the average payload value for vehicle sub-group 5-LH as determined in point 2.5.1.
+
+**2.6.1. Annual mileages for heavy-duty vehicles of category N**
+
+<table>
+<tbody><tr><td>Vehicle sub-group (sg) (1) </td><td>Annual mileage AMsg (in km)</td></tr>
+<tr><td>53, 53v</td><td>58 000 </td></tr>
+<tr><td>54</td><td>58 000 </td></tr>
+<tr><td>1s, 1sv</td><td>58 000 </td></tr>
+<tr><td>1, 1v</td><td>58 000 </td></tr>
+<tr><td>2, 2v</td><td>60 000 </td></tr>
+<tr><td>3, 3v</td><td>60 000 </td></tr>
+<tr><td>4-UD</td><td>60 000 </td></tr>
+<tr><td>4-RD</td><td>78 000 </td></tr>
+<tr><td>4-LH</td><td>98 000 </td></tr>
+<tr><td>4v</td><td>60 000 </td></tr>
+<tr><td>5-RD</td><td>78 000 </td></tr>
+<tr><td>5-LH</td><td>116 000 </td></tr>
+<tr><td>5v</td><td>60 000 </td></tr>
+<tr><td>9-RD</td><td>73 000 </td></tr>
+<tr><td>9-LH</td><td>108 000 </td></tr>
+<tr><td>9v</td><td>60 000 </td></tr>
+<tr><td>10-RD</td><td>68 000 </td></tr>
+<tr><td>10-LH</td><td>107 000 </td></tr>
+<tr><td>10v</td><td>60 000 </td></tr>
+<tr><td>11</td><td>65 000 </td></tr>
+<tr><td>11v</td><td>60 000 </td></tr>
+<tr><td>11-EHC</td><td>107 000 </td></tr>
+<tr><td>12</td><td>67 000 </td></tr>
+<tr><td>12v</td><td>60 000 </td></tr>
+<tr><td>12-EHC</td><td>107 000 </td></tr>
+<tr><td>16, 16v</td><td>60 000 </td></tr>
+<tr><td>16-EHC</td><td>107 000 </td></tr>
+<tr><td colspan="2">(1)  See definitions in point 1.1. </td></tr>
+</tbody>
+</table>
+
+**2.6.2. Annual mileages for heavy-duty vehicles of category M**
+
+<table>
+<tbody><tr><td>Vehicle sub-group (sg) (*1) </td><td>Annual mileage AMsg (in km)</td></tr>
+<tr><td>31-LF</td><td>60 000 </td></tr>
+<tr><td>31-L1</td><td>60 000 </td></tr>
+<tr><td>31-L2</td><td>60 000 </td></tr>
+<tr><td>31-DD</td><td>60 000 </td></tr>
+<tr><td>32-C2</td><td>96 000 </td></tr>
+<tr><td>32-C3</td><td>96 000 </td></tr>
+<tr><td>32-DD</td><td>96 000 </td></tr>
+<tr><td>33-LF</td><td>60 000 </td></tr>
+<tr><td>33-L1</td><td>60 000 </td></tr>
+<tr><td>33-L2</td><td>60 000 </td></tr>
+<tr><td>33-DD</td><td>60 000 </td></tr>
+<tr><td>34-C2</td><td>96 000 </td></tr>
+<tr><td>34-C3</td><td>96 000 </td></tr>
+<tr><td>34-DD</td><td>96 000 </td></tr>
+<tr><td>35-FE</td><td>60 000 </td></tr>
+<tr><td>39-FE</td><td>60 000 </td></tr>
+<tr><td colspan="2">(*1)  See definitions in point 1.1 </td></tr>
+</tbody>
+</table>
+
+**2.6.3. Annual mileages for heavy-duty vehicles of category O**
+
+<table>
+<tbody><tr><td>Vehicle sub-group (sg) (*1) </td><td>Annual mileage AMsg (in km)</td></tr>
+<tr><td>111, 111V,112, 112V, 113</td><td>52 000 </td></tr>
+<tr><td>121, 121V, 122, 122V, 123, 123V, 124, 124V, 125, 126, 131, 131v, 132, 132v, 133</td><td>77 000 </td></tr>
+<tr><td>421, 421v, 422, 422v, 423, 431, 431v, 432, 432v, 433</td><td>68 000 </td></tr>
+<tr><td>611, 612, 611v, 612v, 621, 623, 621v, 623v</td><td>40 000 </td></tr>
+<tr><td>622, 622V, 624, 624V, 625, 631, 631v, 632, 632v, 633</td><td>68 000 </td></tr>
+<tr><td colspan="2">(*1)  See definitions in point 1.1 </td></tr>
+</tbody>
+</table>
+
+**2.7. Average specific CO2 emissions of manufacturers, as referred to in Article 4**
+
+For each manufacturer, the following average specific CO2 emissions shall be calculated:
+
+**2.7.1. For the reporting periods of the years 2019 to 2029:**
+
+CO2(2025) = ZLEV × Σ sg sharesg × MPWsg × avgCO2sg
+
+**2.7.2. For the reporting periods from 2025 onwards:**
+
+CO2(NO) = Σsg sharesg × MPWsg × avgCO2sg
+
+CO2(MCO2) = Σsg sharesg × MPWsg × [avgCO2sg × (1 – pvsg) + avgCO2psg × pvsg]
+
+CO2(MZE) = Σsg sharesg × MPWsg × (1 – zevsg) × rCO2sg
+
+CO2(M) = CO2(MCO2) + CO2(MZE)
+
+Where,
+
+Σsg is the sum of those vehicle sub-groups that are included in the calculation of the particular average specific CO2 emissions in accordance with point 4.2;
+
+ZLEV is as determined in point 2.3;
+
+sharesg is as determined in point 2.4;
+
+zevsg is as determined in point 2.4;
+
+pvsg is as determined in point 2.4;
+
+MPWsg is as determined in point 2.6;
+
+avgCO2sg is as determined in point 2.2;
+
+avgCO2psg is as determined in point 2.2;
+
+rCO2sg is as determined in point 3.1.2.
+
+**3\. Calculation of the reference values**
+
+**3.1. Reference values**
+
+The following reference values shall be calculated on the basis of all new heavy-duty vehicles of all manufacturers for the reference period applicable to the vehicle sub-group sg according to point 3.2.
+
+3.1.1. For each vehicle, the vehicle sub-group sg, payload PLsg,mp, passenger number PNsg,mp, passenger mass PMsg,mp, technically permissible maximum payload maxPLsg , technically permissible maximum passenger number maxPNsg and cargo volume CVsg values shall be calculated as follows:
+
+[image] (for heavy-duty vehicles of category N)*
+
+[image] (for heavy-duty vehicles of category M)*
+
+[image] (for heavy-duty vehicles of category M)*
+
+[image] (for heavy-duty vehicles of category N)
+
+[image] (for heavy-duty vehicles of category M)
+
+[image] (for heavy-duty vehicles of category O)
+
+(* only for vehicle sub-groups, for which no explicit values for PLsg,mp or PNsg,mp are provided in point 2.5)
+
+3.1.2. Reference CO2 emissions rCO2sg referred to in Article 3 shall be calculated as follows:
+
+[image] (for heavy-duty vehicles of categories N and O)
+
+[image] (for heavy-duty vehicles of category M)
+
+[image] (for heavy-duty vehicles of category M)
+
+Where,
+
+Σv is the sum of all new heavy-duty vehicles in the vehicle sub-group sg registered in the reference period applicable to sg according to point 3.2;
+
+CO2v are the specific CO2 emissions of the new heavy-duty vehicle v as determined in accordance with point 2.1, if applicable adjusted pursuant to Annex II;
+
+CO2pv are the specific CO2 emissions of the primary vehicle of the new heavy-duty vehicle v as determined in accordance with point 2.1, if applicable adjusted pursuant to Annex II;
+
+rVsg is the number of all new heavy-duty vehicles in the vehicle sub-group sg registered in the reference period applicable to sg according to point 3.2;
+
+PLsg is the average payload of heavy-duty vehicles in the vehicle sub-group sg as determined in point 2.5;
+
+PNsg is the average passenger number of heavy-duty vehicles in the vehicle sub-group sg as determined in point 2.5;
+
+PLv,mp is the payload of the heavy-duty vehicle v in the mission profile mp, as determined from the data reported pursuant to Articles 13a and 13b;
+
+PNv,mp is the passenger number of the heavy-duty vehicle v in the mission profile mp as determined from the data reported pursuant to Articles 13a and 13b;
+
+PMv,mp is the passenger mass of the heavy-duty vehicle v in the mission profile mp as determined from the data reported pursuant to Articles 13a and 13b;
+
+maxPLv is the technically permissible maximum payload of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b;
+
+maxPNv is the technically permissible maximum passenger number of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b;
+
+CVv is the cargo volume of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b.
+
+**3.2. Reference periods applicable to vehicle sub-groups**
+
+The following reporting periods shall be applied as reference periods to vehicle sub-groups:
+
+| Vehicle sub-group sg | Reporting period of the year applicable as reference period |
+| --- | --- |
+| 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD, 10-LH | 2019 |
+| 1, 2, 3, 11, 12, 16 | 2021 |
+| All others | 2025 |
+
+3.2.1. If in the reference period as specified in point 3.2 in a vehicle sub-group sg the number of new heavy-duty vehicles of all manufacturers is less than 50, the following rules shall apply:
+
+The average specific CO2 emissions avgCO2sg and avgCO2psg as provided for in point 2.2 and the reference CO2 emissions rCO2sg and rCO2psg as provided for in point 3.1.2 shall be set to ‘0’ for all manufacturers in the vehicle sub-group sg for the purpose of calculating the average specific CO2 emissions in accordance with point 2.7 and the specific CO2 emissions targets in accordance with point 4.1 for the reporting periods of the years &lt; Y + 5. Here Y is the year of the first reporting period in which the number of new heavy-duty vehicles of all manufacturers in the vehicle sub-group sg is at least 50.
+
+To obtain the reference CO2 emissions rCO2sg and rCO2psg for the purpose of calculating the specific CO2 emissions target in accordance with point 4, first the corresponding values provided for in point 3.1.2 shall be calculated for the reporting period of the year Y instead of for the reference period applicable to the vehicle sub-group sg according to point 3.2.
+
+The resulting values shall then be divided by
+
+— the target factor RETsg,Y , as defined in point 5.1.1, for obtaining reference CO2 emissions rCO2sg ,
+
+— the target factor RETpsg,Y , as defined in point 5.1.1, for obtaining reference CO2 emissions rCO2psg .
+
+**4\. Calculation of the specific CO2 emissions target of a manufacturer referred to in Article 6**
+
+**4.1. Specific CO2 emissions targets**
+
+For each manufacturer, the following specific CO2 emissions target T shall be calculated as follows:
+
+4.1.1. For the reporting periods of the years 2025 to 2029:
+
+T(2025) = Σ sg sharesg × MPWsg × (1 – rfsg) × rCO2sg
+
+4.1.2. For the reporting periods of the year 2030 onwards:
+
+T(NO)= Σ sg sharesg × MPWsg × (1 – rfsg) × rCO2sg
+
+T(MCO2) = Σ sg sharesg × MPWsg × [(1 – pvsg) × (1 – rfsg) × rCO2sg + pvsg × (1 – rfpsg) × rCO2psg]
+
+T(MZE) = Σsg sharesg × MPWsg × (1 – zevMsg) x rCO2sg
+
+T(M) = T(MCO2) + T(MZE)
+
+Where,
+
+Σsg is the sum of those vehicle sub-groups that are included in the calculation of the particular specific CO2 emissions target in accordance with point 4.2;
+
+sharesg is as determined in point 2.4;
+
+MPWsg is as determined in point 2.6;
+
+rfsg is the CO2 emissions reduction target applicable in the specific reporting period to new heavy-duty vehicles in the vehicle sub-group sg as provided for in point 4.3;
+
+rfpsg is the CO2 emissions reduction target applicable in the specific reporting period to primary vehicles of new heavy-duty vehicles in the vehicle sub-group sg as provided for in point 4.3;
+
+zevMsg is the zero-emission heavy-duty vehicles mandate applicable in the specific reporting period to heavy-duty vehicles in the vehicle sub-group sg as provided for in point 4.3;
+
+rCO2sg is as determined in point 3.1.2;
+
+rCO2psg is as determined in point 3.1.2;
+
+pvsg is as determined in point 2.4.
+
+**4.2. Vehicle sub-groups included in the calculation of average specific CO2 emissions and specific CO2 emissions targets of manufacturers**
+
+The following vehicle sub-groups sg shall be included in the calculation of the specific CO2 emissions CO2(X), specific CO2 emissions targets T(X) and CO2 emissions reduction trajectory ET(X)Y :
+
+| X = 2025 | X= NO | X = MCO2 | X= MZE |
+| --- | --- | --- | --- |
+| vehicle sub-groups, subject to CO2 emissions reduction targets according to Article 3a (1), point (a) | vehicle sub-groups of carriage of goods vehicles, subject to CO2 emissions reduction targets according to Article 3a(1), points (b), (c) and (d), and Article 3a (3) | vehicle sub-groups of carriage of passengers vehicles, subject to CO2 emissions reduction targets according to Article 3a (1), points (b), (c) and (d) (Coaches and Class II Low Entry Buses) | vehicle sub-groups of carriage of passengers vehicles, subject to zero-emission heavy-duty vehicles targets according to Article 3d (Urban buses) |
+| 4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD, 10-LH | All vehicle sub-groups referred to in points 1.1.1 and 1.1.3. However, in reporting periods of the years before 2035, vocational vehicle sub-groups shall not be included. | 32-C2, 32-C3, 32-DD, 34-C2, 34-C3, 34-DD, 31-L2, 33-L2 | 31-LF 31-L1, 31-DD, 33-LF, 33-L1, 33-DD, 35-FE, 39-FE |
+
+**4.3. CO2 emissions reduction targets and zero-emission heavy-duty vehicle mandates**
+
+4.3.1. The following CO2 emissions reduction targets rfsg and rfpsg pursuant to Article 3a shall apply to heavy-duty vehicles in the vehicle sub-group sg for different reporting periods:
+
+<table>
+<tbody><tr><td colspan="6">CO2 emissions reduction targets rfsg and rfpsg</td></tr>
+<tr><td colspan="2" rowspan="2">Vehicle sub-groups (sg)</td><td colspan="4">Reporting periods of the years</td></tr>
+<tr><td>2025–2029</td><td>2030–2034</td><td>2035–2039</td><td>As from 2040</td></tr>
+<tr><td>Medium lorries</td><td>53, 54</td><td>0 </td><td>43 %</td><td>64 %</td><td>90 %</td></tr>
+<tr><td>Heavy lorries &gt; 7,4 t</td><td>1s, 1, 2, 3</td><td>0 </td><td>43 %</td><td>64 %</td><td>90 %</td></tr>
+<tr><td>Heavy lorries &gt; 16 t with 4 × 2 and 6 × 4 axle configurations</td><td>4-UD, 4-RD, 4-LH, 5-RD, 5-LH, 9-RD, 9-LH, 10-RD, 10-LH</td><td>15 %</td><td>43 %</td><td>64 %</td><td>90 %</td></tr>
+<tr><td>Heavy lorries &gt; 16 t with special axle configurations</td><td>11, 12, 16, 11-EHC, 12-EHC, 16-EHC</td><td>0 </td><td>43 %</td><td>64 %</td><td>90 %</td></tr>
+<tr><td>Vocational vehicles</td><td>53v, 1sv, 1v, 2v, 3v, 4v, 5v, 9v, 10v, 11v, 12v, 16v</td><td>0 </td><td>0 </td><td>64 %</td><td>90 %</td></tr>
+<tr><td>Coaches and interurban buses (rfsg)</td><td>32-C2, 32-C3, 32-DD, 34-C2, 34-C3, 34-DD, 31-L2, 33-L2</td><td>0 </td><td>43 %</td><td>64 %</td><td>90 %</td></tr>
+<tr><td>Primary vehicles of coaches and interurban buses (rfpsg)</td><td>32-C2, 32-C3, 32-DD, 34-C2, 34-C3, 34-DD, 31-L2, 33-L2</td><td>0 </td><td>43 %</td><td>64 %</td><td>90 %</td></tr>
+<tr><td>Trailers</td><td>421, 421v, 422, 422v, 423, 431, 431v, 432, 432v, 433, 611, 612, 611V, 612V, 621, 623, 621V, 622, 622V, 623V, 624, 624V, 625, 631, 631v, 632, 632v, 633</td><td>0 </td><td>7,5 %</td><td>7,5 %</td><td>7,5 %</td></tr>
+<tr><td>Semi-trailers</td><td>111, 111V, 112, 112V, 113, 121, 121V, 122, 122V, 123, 123V, 124, 124V, 125, 126, 131, 131V, 132, 132V, 133</td><td>0 </td><td>10 %</td><td>10 %</td><td>10 %</td></tr>
+</tbody>
+</table>
+
+For reporting periods of the years before 2025, all CO2 emissions reduction targets rfsg and rfpsg shall be 0.
+
+4.3.2. The following zero-emission heavy-duty vehicle targets zevMsg pursuant to Article 3d are applicable to heavy-duty vehicles in the vehicle sub-group sg for different reporting periods:
+
+<table>
+<tbody><tr><td colspan="6">Zero-emission heavy-duty vehicle mandates zevMsg</td></tr>
+<tr><td colspan="2" rowspan="2">Vehicle sub-groups sg</td><td colspan="4">Reporting periods of the years</td></tr>
+<tr><td>before 2030</td><td>2030 – 2034</td><td>2035 – 2039</td><td>As from 2040</td></tr>
+<tr><td>Urban buses</td><td>31-LF, 31-L1, 31-DD, 33-LF, 33-L1, 33-DD, 35-FE, 39-FE</td><td>0</td><td>90 %</td><td>100 %</td><td>100 %</td></tr>
+</tbody>
+</table>
+
+**5\. Emission credits and debts referred to in Article 7**
+
+**5.1. CO2 emissions reduction trajectories**
+
+**5.1.1. Target factors**
+
+For each vehicle sub-group sg and reporting period of a year Y, target factors shall be defined as follows:
+
+RETsg,Y = (1-rfsg,uY)+(rfsg,uY – rfsg,lY)× (uY – Y)/(uY – lY)
+
+RETpsg,Y = (1-rfpsg,uY)+(rfpsg,uY – rfpsg,lY)× (uY – Y)/(uY – lY)
+
+ZETsg,Y = (1-zevMsg,uY)+(zevMsg,uY – zevMsg,lY)× (uY – Y)/(uY – lY)
+
+Where,
+
+lY, uY are the values for the lower year and upper year in the set {rY, 2025, 2030, 2035, 2040} for the vehicle sub-groups indicated in the column X = 2025 in the table of point 4.2,
+
+in the set {rY, 2030, 2035, 2040} for all other vehicle sub-groups sg, defining the smallest interval for which the condition lY ≤ Y &lt; uY holds;
+
+rY is the year of the reference period applicable to the vehicle sub-group sg according to point 3.2;
+
+| rfsg,lY, rfsg,uY | are the CO2 emissions reduction targets of the vehicle sub-group sg for new heavy-duty vehicles of the years lY and uY according to point 4.3; |
+| --- | --- |
+
+| rfpsg,lY, rfpsg,uY | are the CO2 emissions reduction targets of the vehicle sub-group sg for primary vehicles of new heavy-duty vehicles of the years lY and uY according to point 4.3; |
+| --- | --- |
+
+| zevMsg,lY, zevMsg,uY | are the zero-emission heavy-duty vehicle mandates for new heavy-duty vehicles of the years lY and uY according to point 4.3. |
+| --- | --- |
+
+For reporting years Y &lt; rY, the values of RETsg,Y , RETpsg,Y and ZETsg,Y shall be set to 1 such that there is no contribution of the vehicle sub-group sg to the CO2 emissions reduction trajectory.
+
+**5.1.2. CO2 emissions reduction trajectories**
+
+5.1.2.1. Then for each vehicle sub-group sg and reporting period of a year Y the following CO2 emissions reduction trajectories shall be defined:
+
+ETsg,Y = RETsg,Y × rCO2sg
+
+ETpsg,Y = RETpsg,Y × rCO2psg
+
+ETzsg,Y = ZETsg,Y × rCO2sg
+
+5.1.2.2. For each manufacturer and reporting period of a year Y between 2019 and 2024 the following CO2 emissions reduction trajectories shall be defined:
+
+ET(2025)Y = Σ sg sharesg × MPWsg × ETsg,Y
+
+5.1.2.3. For each manufacturer and reporting period of a year Y between 2025 and 2040 the following CO2 emissions reduction trajectories shall be defined:
+
+ET(NO)Y = Σ sg sharesg × MPWsg × ETsg,Y
+
+ET(MCO2)Y = Σ sg sharesg × MPWsg × [(1- pvsg) × ETsg,Y + pvsg × ETpsg,Y]
+
+ET(MZE)Y = Σsg sharesg × MPWsg × ETzsg,Y
+
+ET(M)Y = ET(MCO2)Y + ET(MZE)Y
+
+Where,
+
+Σ sg is the sum of those vehicle sub-groups that are included in the calculation of the particular CO2 emissions reduction trajectory in accordance with point 4.2;
+
+sharesg is the share of new heavy-duty vehicles of the manufacturer in the vehicle sub-group sg, as determined in point 2.4;
+
+MPWsg is as determined point 2.6;
+
+rCO2sg is as determined in point 3.1.2;
+
+rCO2psg is as determined in point 3.1.2;
+
+pvsg is the share of new heavy-duty vehicles of the manufacturer within the vehicle sub-group sg, which pursuant to Article 7b shall be accounted for with the CO2 emissions of their primary vehicles in the calculation of the average specific CO2 emissions of point 2.2.
+
+**5.2. Calculation of the emission credits and debts in each reporting period**
+
+For each manufacturer and each reporting period of the years Y from 2019 to 2040 the emission credits cCO2(X)Y and emission debts dCO2(X)Y, (X = NO, M), shall have the following values or be 0 (i.e. emission credits and emission debts cannot be negative), whichever is greater:
+
+|  | 2019 ≤ Y< 2025 | 2025 ≤ Y< 2030 | 2030 ≤ Y< 2040 |
+| --- | --- | --- | --- |
+| cCO2(NO)Y | [ET(2025)Y – CO2(2025)Y]× VY | [ET2025(NO)Y – CO2(NO)Y]× VY | [ET(NO)Y – CO2(NO)Y]× VY |
+| dCO2(NO)Y | 0 | [CO2 (2025)Y – T(2025) Y ]× VY | [CO2(NO)Y – T(NO)Y]× VY |
+| cCO2(M)Y | 0 | [ET2025(M)Y – CO2(M)Y]× VY | [ET(M)Y – CO2(M)Y]× VY |
+| dCO2(M)Y | 0 | 0 | [CO2(M)Y – T(M)Y]× VY |
+
+Where,
+
+ET(X)Y is the manufacturer’s CO2 emissions reduction trajectory in the reporting period of the year Y determined in accordance with point 5.1 (X = 2025, NO, M);
+
+CO2(X)Y is the manufacturer’s average specific CO2 emissions in the reporting period of the year Y determined in accordance with point 2.7 (X = 2025, NO, M);
+
+T(X)Y is the manufacturer’s specific CO2 emissions target in the reporting period of the year Y determined in accordance with point 4 (X = 2025, NO, M);
+
+VY is the number of new heavy-duty vehicles of the manufacturer in the reporting period of the year Y.
+
+Where ET2025(NO)Y and ET2025(M)Y are defined as follows:
+
+[image]
+
+[image]
+
+[image]
+
+**5.3. Emission debt limit**
+
+For each manufacturer the emission debt limits limCO2(X)Y in the reporting period of the year Y are defined as follows:
+
+| limCO2(NO)Y = T(2025)Y × 0,05 × V(2025)Y | for the reporting periods of the years Y < 2030; |
+| --- | --- |
+
+| limCO2(NO)Y = T(NO)Y × 0,05 × V(NO)Y | for the reporting periods of the years Y ≥ 2030; |
+| --- | --- |
+
+| limCO2(M)Y = T(M)Y × 0,05 × V(M)Y | for the reporting periods of the years Y ≥ 2030. |
+| --- | --- |
+
+Where
+
+T(X)Y is the manufacturer’s specific emission target in the reporting period of the year Y determined in accordance with point 4 (X = 2025, NO, M);
+
+V(X)Y is the number of new heavy-duty vehicles of the manufacturer in the reporting period of the year Y in the vehicle sub-groups, which are included in the calculation of the specific CO2 emissions CO2(X) in accordance with point 4.2 (X = 2025, NO, M).
+
+**5.4. Early emission credits**
+
+Emission debts acquired for the reporting period of the year 2025 shall be reduced by an amount corresponding to the emission credits acquired prior to that reporting period, which is determined for each manufacturer as follows:
+
+[image]
+
+Where,
+
+min is the minimum of the two values mentioned between the brackets;
+
+[image] is the sum of the reporting periods of the years Y from 2019 to 2024;
+
+dCO2(NO)Y is the emission debts for the reporting period of the year Y as determined in accordance with point 5.2;
+
+cCO2(NO)Y is the emission credits for the reporting period of the year Y as determined in accordance with point 5.2.
+
+**6\. Determination of a manufacturer’s excess CO2 emissions referred to in Article 8(2)**
+
+For each manufacturer and each reporting period of the year Y from the year 2025 onwards, the value of the vehicle category specific excess CO2 emissions exeCO2(X)Y shall be calculated as follows if the value is positive (X = NO, M).
+
+For the reporting period of the year 2025:
+
+[image]
+
+For the reporting periods of the years Y from 2026 to 2028, from 2030 to 2033 and from 2035 to 2038:
+
+[image]
+
+For the reporting periods of the years Y from 2030 to 2033 and from 2035 to 2038:
+
+[image]
+
+For the reporting period of the years Y = 2029, 2034 and 2039:
+
+[image]
+
+For the reporting period of the years Y = 2034 and 2039:
+
+[image]
+
+For the reporting period of the year 2040:
+
+[image]
+
+For the reporting periods of the years Y > 2040:
+
+exeCO2(NO)Y = (CO2(NO)Y – T(NO)Y) × VY
+
+exeCO2(M)Y = (CO2(M)Y – T(M)Y) × VY
+
+If the previous calculations result in a negative value for exeCO2(X)Y , the latter shall be set to 0.
+
+Where,
+
+[image] is the sum of the reporting periods of the years Y from 2019 to 2024;
+
+[image] is the sum of the reporting periods of the years I from 2025 to the year Y;
+
+[image] is the sum of the reporting periods of the years J from 2025 to the year (Y-1);
+
+[image] is the sum of the reporting periods of the years I from 2025 to 2039;
+
+[image] is the sum of the reporting periods of the years J from 2030 to the year (Y-1);
+
+dCO2(X)Y is the emission debts for the reporting period of the year Y as determined in accordance with point 5.2 (X = NO, M);
+
+cCO2(X)Y is the emission credits for the reporting period of the year Y as determined in accordance with point 5.2 (X = NO, M);
+
+ccCO2(X)I,Y are the emission credits for the reporting period of the year I corrected for the part that has expired after 7 years, as determined in accordance with point 6.1 (X = NO, M);
+
+limCO2(X)Y is the emission debt limit as determined in accordance with point 5.3 (X = NO, M);
+
+redCO2(X) is the reduction of emission debts of the reporting period of the year 2025 as determined in accordance with point 5.4 (X = NO, M).
+
+In all other cases the value of the excess emissions exeCO2(X)Y shall be set to 0 (X = NO, M).
+
+The excess CO2 emissions of the reporting period of the year Y as referred to in Article 8(2) shall be:
+
+exeCO2Y = exeCO2(NO)Y + exeCO2(M)Y
+
+**6.1. Determination of ccCO2(X)Y,I**
+
+| ccCO2(X)I,Y = cCO2(X)I | for Y ≤ I + 7; |
+| --- | --- |
+
+ccCO2(X)I,Y = min(cCO2(X)I ;
+
+[image] for Y > I + 7.
+
+## ANNEX II — Adjustment procedures referred to in Article 11
+
+**1\. Adjustment of reference CO2 emissions following an amendment of the type-approval procedures referred to in Article 11(2)**
+
+Following an amendment of the type-approval procedures referred to in Article 11(2), the reference CO2 emissions referred to in point 3.1.2 of Annex I shall be recalculated.
+
+For that purpose, the CO2 emissions in g/km of new heavy-duty vehicles v of the reference period and of their primary vehicles determined for a mission profile mp, as referred to in point 2.1 of Annex I, shall be adjusted as follows:
+
+CO2v,mp = CO2(RP)v,mp · (Σ r sr,sg · CO2r,mp)/ (Σ r sr,sg · CO2(RP)r,mp)
+
+CO2pv,mp = CO2p(RP)v,mp · (Σ r sr,sg · CO2pr,mp)/ (Σ r sr,sg · CO2p(RP)r,mp)
+
+Where
+
+Σ r is the sum of all representative heavy-duty vehicles r for the vehicle sub-group sg;
+
+sg is the vehicle sub-group to which the heavy-duty vehicle v belongs;
+
+sr,sg is the statistical weight of the representative heavy-duty vehicle r in the vehicle sub-group sg;
+
+CO2(RP)v,mp is the specific CO2 emissions of the heavy-duty vehicle v in g/km, as determined on mission profile mp and based on the monitoring data of the reference period;
+
+CO2(RP)r,mp is the specific CO2 emissions of the representative heavy-duty vehicle r in g/km, as determined on mission profile mp in accordance with Regulation (EC) No 595/2009 and its implementing measures as it was applied in the reference period;
+
+CO2r,mp is the specific CO2 emissions of the representative heavy-duty vehicle r, as determined on mission profile mp in accordance with Regulation (EC) No 595/2009 and its implementing measures pursuant to the amendments referred to in Article 11(2), point (a), of this Regulation;
+
+CO2p(RP)v,mp is the specific CO2 emissions of the primary vehicle of the heavy-duty vehicle v in g/km, as determined on mission profile mp and based on the monitoring data of the reference period;
+
+CO2p(RP)r,mp is the specific CO2 emissions of the primary vehicle of the representative heavy-duty vehicle r in g/km, as determined in accordance with Regulation (EC) No 595/2009 and its implementing measures as it was applied in the reference period;
+
+CO2pr,mp is the specific CO2 emissions of the primary vehicle of the representative heavy-duty vehicle r, as determined on mission profile mp in accordance with Regulation (EC) No 595/2009 and its implementing measures pursuant to the amendments referred to in Article 11(2), point (a), of this Regulation.
+
+The specific CO2 emissions shall be normalised pursuant to Annex III using those values for the parameters referred to in Article 14(1), point (f), that are applicable in the reporting period referred to in Article 11(2), point (a).
+
+The representative heavy-duty vehicles shall be defined in accordance with the methodology referred to in Article 11(3).
+
+**2\. Application of the adjusted reference CO2 emissions pursuant to Article 11(2)**
+
+If in the reporting period of the year Y the specific CO2 emissions of some new heavy-duty vehicles of a manufacturer have been determined with amendments referred to in Article 11(2), the reference CO2 emissions rCOsg of the vehicle sub-group sg used in points 4 and 5.1 of Annex I shall be calculated as follows:
+
+rCO2sg = Σ,i Vsg,i/Vsg x rCO2sg,,i
+
+where,
+
+Σ,i is the sum of
+
+— for i = 0: the non-amended procedure for determining the CO2 emissions, for which the initial reference CO2 emissions without adjustments are applicable, and
+
+— for i ≥ 1: all subsequent amendments referred to in Article 11(2);
+
+Vsg is the number of new heavy-duty vehicles of the manufacturer in the reporting period of the year Y and the vehicle sub-group sg;
+
+Vsg,i is the number of new heavy-duty vehicles of the manufacturer in the reporting period of the year Y and in the vehicle sub-group sg, the specific CO2 emissions of which have been determined with the amendment i;
+
+rCO2sg,i are:
+
+— for i = 0: the non-adjusted reference CO2 emissions
+
+— for i ≥ 1: the reference CO2 emissions that have been determined for the vehicle sub-group sg with the amendment i.
+
+## ANNEX III — Normalisation of specific CO2 emissions of new heavy-duty vehicles as referred to in Article 4
+
+**1\. Normalisation of specific CO2 emissions**
+
+For the purposes of the calculation in point 2.1 of Annex I, the values of CO2 emissions CO2v,mp of heavy-duty vehicles are normalised as follow:
+
+CO2v,mp = reportCO2v,mp + ΔCO2v,mp(m) + ΔCO2cvv,mp
+
+| m = PLsg,mp – PLv,mp + cCWv | (for heavy-duty vehicles of categories N and O) |
+| --- | --- |
+
+| m = PMsg,mp – PMv,mp + cCWv | (for heavy-duty vehicles of category M) |
+| --- | --- |
+
+The values of CO2 emissions CO2pv,mp of primary vehicles are normalised in accordance with the same methodology, using the parameters for primary vehicles.
+
+Where,
+
+CO2v,mp are the normalised CO2 emissions of the heavy-duty vehicle v determined for a mission profile mp that are to be considered in the calculation of point 2.1 of Annex I;
+
+reportCO2v,mp are the CO2 emissions in g/km of a new heavy-duty vehicle v determined for a mission profile mp and reported pursuant to Articles 13a and 13b;
+
+ΔCO2v,mp(m) is to be determined in accordance with point 3;
+
+ΔCO2cvv,mp is to be determined in accordance with point 4;
+
+PLv,mp is the payload of the heavy-duty vehicle v in the mission profile mp, as determined from the data reported pursuant to Articles 13a and 13b;
+
+PLsg,mp is the payload for the vehicle sub-group sg and mission profile mp as provided for in point 2.5 of Annex I;
+
+PMv,mp is the passenger mass of the heavy-duty vehicle v in the mission profile mp, as determined from the data reported pursuant to Articles 13a and 13b;
+
+PMsg,mp is the passenger mass for the vehicle sub-group sg and mission profile mp as provided for in point 2.5 of Annex I;
+
+cCWv is the correction of the curb weight of the heavy-duty vehicle v applied in accordance with point 2.
+
+**2\. Curb Weight normalisation**
+
+Since the transport utility of a heavy-duty vehicle increases with its technically permissible maximum payload or passenger number, but for technical reasons higher values for those parameters are correlated with higher curb weights and therefore higher CO2 emissions, the following correction of the curb weight of a heavy-duty vehicle v in the vehicle sub-group sg for the purpose of the normalisation of its specific CO2 emissions in accordance with point 1 shall be applied:
+
+| cCWv = asg · (maxPLsg – maxPLv) | for heavy-duty vehicles of category N; |
+| --- | --- |
+
+cCWv = 0 for heavy-duty vehicles of category O;
+
+| cCWv = asg · (maxPNsg – maxPNv) | for heavy-duty vehicles of category M; |
+| --- | --- |
+
+Where,
+
+asg is a linear coefficient determined in accordance with point 2.1 for the reporting period of the year in which the heavy-duty vehicle v was registered;
+
+maxPLv is the technically permissible maximum payload of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b;
+
+maxPNv is the technically permissible maximum passenger number of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b;
+
+maxPLsg is the technically permissible maximum payload of the vehicle sub-group sg determined in accordance with point 2.5 of Annex I;
+
+maxPNsg is the technically permissible maximum passenger number of the vehicle sub-group sg determined in accordance with point 2.5 of Annex I.
+
+**2.1. Determination of normalisation parameters**
+
+For each reporting period, the parameters asg and bsg shall be determined with a linear regression analysis of the correlation of the values of CWv with the values of maxPLv (heavy-duty vehicles of category N) and maxPNv (heavy-duty vehicles of category M), considering all newly registered heavy-duty vehicles v in the vehicle sub-group sg:
+
+| CWv ≈ asg maxPLv + bsg | for heavy-duty vehicles of category N; |
+| --- | --- |
+
+| CWv ≈ asg maxPNv + bsg | for heavy-duty vehicles of category M. |
+| --- | --- |
+
+Where,
+
+CWv is the curb weight of the heavy-duty vehicle v, as determined from the data reported pursuant to Articles 13a and 13b; if no precise value is available, it may be approximated by the corrected actual mass of the heavy-duty vehicle v;
+
+maxPLv is the technically permissible maximum payload of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b;
+
+maxPNv is the technically permissible maximum passenger number of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b.
+
+**3\. Change of CO2 emissions for change in total vehicle mass**
+
+The ex-post change of CO2 emissions of a heavy-duty vehicle v to be determined for a mission profile mp due to an ex-post change in the total mass to be attributed to the heavy-duty vehicle for the determination of CO2 emissions is defined by the following linear approximation:
+
+ΔCO2v,mp(m) = m (CO2v,r – CO2v,l) / (Mr – Ml)
+
+Where,
+
+m is the change of total mass attributed to the heavy-duty vehicle v for the determination of its CO2 emissions;
+
+CO2v,r are the CO2 emissions of the heavy-duty vehicle v in g/km, without the change of mass, determined for the same mission profile mp, representative loading conditions;
+
+CO2v,l are the CO2 emissions of the heavy-duty vehicle v in g/km, without the change of mass, determined for the same mission profile mp, low loading conditions;
+
+Mr is the total vehicle mass in simulation, without the change of mass, for the same mission profile mp, representative loading conditions;
+
+Ml is the total vehicle mass in simulation, without the change of mass, for the same mission profile mp, low loading conditions.
+
+**4\. Normalisation for different cargo volumes**
+
+Heavy-duty vehicles of category O within the same vehicle sub-group have different cargo volumes. Since the transport utility of a heavy-duty vehicle increases with the cargo volume, but for technical reasons such increase is also correlated with higher CO2 emissions, the following correction of the CO2 emissions of a heavy-duty vehicle v in the vehicle sub-group sg shall be applied:
+
+ΔCO2cvv,mp = asg,mp (CVsg – CVv)
+
+Where,
+
+asg,mp is a linear coefficient determined in accordance with point 4.1 for the reporting period of the year in which the heavy-duty vehicle v was registered;
+
+CVv is the cargo volume of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b;
+
+CVsg is the cargo volume of the vehicle sub-group sg determined in accordance with point 2.5 of Annex I.
+
+For heavy-duty vehicles of categories N and M, the correction of CO2 emissions ΔCO2cvv,mp shall be 0.
+
+**4.1. Determination of normalisation parameters**
+
+For each reporting period and mission profile, the parameters asg,mp and bsg,mp shall be determined with a linear regression analysis of the correlation of the values of [reportCO2v,mp + ΔCO2v,mp(m)] with the values of CVv , considering all newly registered heavy-duty vehicles v in the vehicle sub-group sg:
+
+reportCO2v,mp + ΔCO2v,mp(m) ≈ asg,mp · CVv + bsg,mp
+
+Where,
+
+CVv is the cargo volume of the heavy-duty vehicle v as determined from the data reported pursuant to Articles 13a and 13b;
+
+| reportCO2v,mp, ΔCO2v,mp(m) | are as defined in point 1. |
+| --- | --- |
+
+## ANNEX IV — Rules on data to be monitored and reported pursuant to Articles 13a and 13b
+
+**PART A: DATA TO BE MONITORED AND REPORTED BY MEMBER STATES**
+
+(a) vehicle identification numbers of all new heavy-duty vehicles as referred to in Article 2 that are registered in the Member State territory;
+
+(b) name of the manufacturer to whom the heavy-duty vehicle is attributed in accordance with Article 7a, point (a), (b) or (c);
+
+(c) make (trade name of manufacturer);
+
+(d) the code for the bodywork as specified in entry 38 of the certificate of conformity, including, where applicable, the supplementing digits referred to in Appendix 2 of Annex I to Regulation (EU) 2018/858;
+
+(e) in the case of the heavy-duty vehicles referred to in Article 2(1), first paragraph, point (a) or (b), the information on the powerplant specified in entries 23, 23.1 and 26 of the certificate of conformity;
+
+(f) the maximum speed of the heavy-duty vehicle as specified in entry 29 of the certificate of conformity;
+
+(g) the stage of completion, as indicated in the chosen model of the certificate of conformity in accordance with point 2 of Annex VIII to Commission Implementing Regulation (EU) 2020/683 ( 10 );
+
+(h) the vehicle category as specified in entry 0.4 of the certificate of conformity;
+
+(i) the number of axles, as specified in entry 1 of the certificate of conformity;
+
+(j) the TPMLM, as specified in entry 16.1 of the certificate of conformity;
+
+(k) the imprint of the cryptographic hash of the manufacturer’s records file as specified in entry 49.1 of the certificate of conformity; for heavy-duty vehicles registered until 30 June 2025 Member States may report only the first 8 characters of the cryptographic hash;
+
+(l) the specific CO2 emissions as specified in entry 49.5 of the certificate of conformity;
+
+(m) the average payload value as specified in entry 49.6 of the certificate of conformity;
+
+(n) the date of registration;
+
+(o) the TPMLM of the combination for a heavy-duty vehicle of category N3 in an extra heavy combination (EHC) referred to in Article 3, point (25), as specified in entry 16.4 of the certificate of conformity or individual vehicle approval certificate;
+
+(p) for special purpose vehicles, their designation as specified in entry 51 of the certificate of conformity;
+
+(q) the number of powered axles, as specified in entry 3 of the certificate of conformity;
+
+(r) for heavy-duty vehicles approved under Article 2(3), point (b), of Regulation (EU) 2018/858, the information that the heavy-duty vehicle was designed and constructed or adapted for use by civil protection services, fire services and forces responsible for maintaining public order;
+
+(s) for heavy-duty vehicles registered for use by civil protection services, fire services or forces responsible for maintaining public order, the confirmation that the vehicle is registered for use by civil protection services, fire services or forces responsible for maintaining public order and that it fulfils the conditions set out in Article 3a(5) of this Regulation. For all heavy-duty vehicles, including individually approved heavy-duty vehicles, the corresponding information shall be the information as to be provided in the EU certificate of conformity or EU individual vehicle approval certificate or the national individual approval certificate in accordance with the templates laid down in Implementing Regulation (EU) 2020/683 regardless of any national exemptions applicable under Article 45(1) of Regulation (EU) 2018/858;
+
+(t) for vehicles of category M, the name of the complete or completed vehicle manufacturer to whom the reporting obligations as provided for in the “Vehicle manufacturer” column of the first table in Part B of Annex IV apply;
+
+(u) for vehicles of category M, the world manufacturer identifier (WMI) code consisting of three characters, in accordance with Annex II, Part 2, Section A, point 2.2, to Commission Implementing Regulation (EU) 2021/535 (1) , of the complete or completed vehicle manufacturer referred to in point (t). Where the third character of the WMI code is a “9”, additionally the third, fourth and fifth characters of the vehicle indicator section (VIS), which are assigned to identify that manufacturer in accordance with Annex II, Part 2, Section A, point 2.2.3, to that Regulation.
+
+**PART B: DATA TO BE REPORTED BY MANUFACTURERS AND OTHER ENTITIES**
+
+In accordance with Article 13b of this Regulation, each reporter shall report the following data for those heavy-duty vehicles for which it is obliged to produce a Manufacturer’s Records File (MRF) or Vehicle Information File (VIF) in accordance with Regulation (EU) 2017/2400 and Implementing Regulation (EU) 2022/1362.
+
+For heavy-duty vehicles referred to in Part A, points (r) and (s), of this Annex, the manufacturer referred to in Article 7a shall also inform the Commission in accordance with Article 3a(4) and (5), if a heavy-duty vehicle which would otherwise be exempted from the obligations laid down in Article 3a(1), (2) and (3) is not exempted from those obligations.
+
+<table>
+<tbody><tr><td rowspan="2">Vehicle categories/vehicle sub-groups</td><td colspan="4">Reporters</td></tr>
+<tr><td>Primary vehicle manufacturer ()</td><td>Interim vehicle manufacturer ()</td><td>Vehicle manufacturer ()()</td><td>Designated technical service ()</td></tr>
+<tr><td>N/all</td><td>Not applicable</td><td>Not applicable</td><td>— MRF () — Additional information(9) </td><td>Not applicable</td></tr>
+<tr><td>M/all</td><td>— VIF () — MRF ()  — Additional information(9)  of the primary vehicle </td><td>Not applicable</td><td>— VIF () — MRF ()  — Additional information(9)  of the complete or completed vehicle </td><td>Not applicable</td></tr>
+<tr><td>O/all</td><td>Not applicable</td><td>Not applicable</td><td>— MRF () — Additional information(9) </td><td>— MRF () — Additional information(9) </td></tr>
+<tr><td colspan="5">(1)  Article 3, point (29), of Regulation (EU) 2017/2400  (2)  Article 3, point (31), of Regulation (EU) 2017/2400  (3)  Article 3, point (4a), of Regulation (EU) 2017/2400  (4)  Manufacturer’s record file (MRF), Article 3, point (23), of Regulation (EU) 2017/2400  (5)  Vehicle information file (VIF), Article 3, point (25), of Regulation (EU) 2017/2400  (6)  Article 2, point (5), of Implementing Regulation (EU) 2022/1362  (7)  Manufacturer’s record file (MRF), Article 2, point (9), of Implementing Regulation (EU) 2022/1362  (8)  Article 8(6) and (7) of Implementing Regulation (EU) 2022/1362  (9)  As specified in the table titled ‘Additional information’. </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="4">Additional information</td></tr>
+<tr><td>No</td><td>Monitoring parameter</td><td>Source (1)</td><td>Vehicle categories to which the monitoring parameter applies (2)</td></tr>
+<tr><td>15</td><td>Make (trade name of manufacturer)</td><td>  </td><td>All</td></tr>
+<tr><td>24</td><td>Name and address of transmission manufacturer (3)</td><td>Point 0.4 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex VI to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>25</td><td>Make (trade name of transmission manufacturer) (3)</td><td>Point 0.1 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex VI to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>32</td><td>Name and address of axle manufacturer (3)</td><td>Point 0.4 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex VII to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>33</td><td>Make (trade name of axle manufacturer) (3)</td><td>Point 0.1 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex VII to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>39</td><td>Name and address of tyre manufacturer</td><td>Point 1 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex X to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>40</td><td>Make (trade name of tyre manufacturer)</td><td>Point 3 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex X to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>72</td><td>Number of licence to operate the simulation tool</td><td>  </td><td>All</td></tr>
+<tr><td>75</td><td>CO2 mass emission of the engine over WHTC (4) (g/kWh)</td><td>Point 1.4.2 of the addendum to Appendix 5, or point 1.4.2 of the addendum to Appendix 7, to Annex I to Commission Regulation (EU) No 582/2011 (5), whichever is applicable</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>76</td><td>Fuel consumption of the engine over WHTC (g/kWh) (6)</td><td>Point 1.4.2 of the addendum to Appendix 5, or point 1.4.2 of the addendum to Appendix 7, to Annex I to Regulation (EU) No 582/2011, whichever is applicable</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>77</td><td>CO2 mass emission of the engine over WHSC (7) (g/kWh)</td><td>Point 1.4.1 of the addendum to Appendix 5, or point 1.4.1 of the addendum to Appendix 7, to Annex I to Regulation (EU) No 582/2011, whichever is applicable</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>78</td><td>Fuel consumption of the engine over WHSC (g/kWh) (6)</td><td>Point 1.4.1 of the addendum to Appendix 5, or point 1.4.1 of the addendum to Appendix 7, to Annex I to Regulation (EU) No 582/2011, whichever is applicable</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>101</td><td>For heavy-duty vehicles with a date of simulation as of 1 July 2020, the type-approval number of the engine</td><td>Point 1.2.1 of the addendum to Appendix 5, 6 or 7 to Annex I to Regulation (EU) No 582/2011, whichever is applicable</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>102</td><td>For heavy-duty vehicles with a date of simulation as of 1 July 2021, the comma separated values file of the same name as the job file and with an extension .vsum comprising aggregated results per simulated mission profile and payload condition</td><td>File generated by the simulation tool referred to in Article 5(1), point (a), of Regulation (EU) 2017/2400 in its graphical user interface (GUI) version</td><td>All</td></tr>
+<tr><td>103</td><td>Name and address of internal combustion engine manufacturer</td><td>Point 0.5 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex V to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>104</td><td>Make (trade name of internal combustion engine manufacturer)</td><td>Point 0.1 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex V to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>105</td><td>Name and address of electric machine system / integrated electric powertrain component (IEPC) / integrated hybrid electric vehicle powertrain component (IHPC) Type 1 manufacturer (3)</td><td>Point 0.5 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex Xb to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>106</td><td>Make (trade name of electric machine system / IEPC / IHPC Type 1 manufacturer) (3)</td><td>Point 0.1 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex Xb to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>107</td><td>Name and address of fuel cell manufacturer (3)</td><td>Point 0.5 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex Xb to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>108</td><td>Make (trade name of fuel cell manufacturer) (3)</td><td>Point 0.1 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex Xb to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only. </td></tr>
+<tr><td>109</td><td>Name and address of electric energy storage system manufacturer (3)</td><td>Point 0.5 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex Xb to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>110</td><td>Make (trade name of electric energy storage system manufacturer) (3)</td><td>Point 0.1 of the model of a certificate of a component, separate technical unit or system of Appendix 1 to Annex Xb to Regulation (EU) 2017/2400</td><td>Category N; Category M: primary vehicle only;  Category O. </td></tr>
+<tr><td>111</td><td>Presence of an internal combustion engine to power the refrigeration unit (yes/no)</td><td>  </td><td>Category O.</td></tr>
+<tr><td>112</td><td>K coefficient (W/m2-K)</td><td>Point 7.2.4 of the model of the certificate of compliance of the equipment with the Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for such Carriage (ATP) (8), specified in Annex 1, Appendix 3, to the Agreement</td><td>Category O (9).</td></tr>
+<tr><td>113</td><td>Presence of an actuated moving floor (yes/no)</td><td>  </td><td>Category O.</td></tr>
+<tr><td>114</td><td>Trailer with an internal height of the body, as defined in point 1(4) of Annex I to Implementing Regulation (EU) 2022/1362, greater than 3,5 m (yes/no)</td><td>  </td><td>Category O.</td></tr>
+<tr><td>115</td><td>Presence of a second floor which spans more than 50 % of the internal length of the trailer body, as defined in point 1(5) of Annex I to Implementing Regulation (EU) 2022/1362 (yes/no)</td><td>  </td><td>Category O.</td></tr>
+<tr><td>116</td><td>Rail-road combined transport certification according to UIC Leaflet 596-5 (10) or UIC Leaflet 597 (11) (yes/no)</td><td>  </td><td>Category O.</td></tr>
+<tr><td>117</td><td>Ferry-road combined transport certification according to MSC.479(102) (12) (yes/no)</td><td>  </td><td>Category O.</td></tr>
+<tr><td>118</td><td>Number of the ADR certificate of approval for EX/III trailers</td><td>Point 1 of the model for certificate of approval for vehicles carrying certain dangerous goods specified in Part 9, Chapter 9.1, point 9.1.3.5 of the Agreement Concerning the International Carriage of Dangerous Goods by Road (ADR) (13)</td><td>Category O (14).</td></tr>
+<tr><td>119</td><td>Information on specific vehicle technologies not covered by any of the monitoring parameters above (optional)</td><td>  </td><td>All (15)</td></tr>
+<tr><td colspan="4">(1)  Where standard values for a component, separate technical unit or system to which a monitoring parameter refers are used for the purpose of determining the CO2 emissions under Regulation (EU) 2017/2400 or Implementing Regulation (EU) 2022/1362 instead of certified values, reporters shall refer to their internal documentation as the source for the corresponding monitoring parameter. Where the source of a monitoring parameter is not explicitly specified, reporters shall also refer to their internal documentation.  (2)  Where a heavy-duty vehicle does not have a component, separate technical unit or system, or a technical characteristic to which a monitoring parameter refers, the corresponding monitoring parameter shall not be reported for the vehicle in question.  (3)  Where a heavy-duty vehicle contains multiple components, separate technical units or systems of the same type produced by different manufacturers, the monitoring parameter shall be reported for each manufacturer.  (4)  World Harmonised Transient Cycle.  (5)  Commission Regulation (EU) No 582/2011 of 25 May 2011 implementing and amending Regulation (EC) No 595/2009 of the European Parliament and of the Council with respect to emissions from heavy duty vehicles (Euro VI) and amending Annexes I and III to Directive 2007/46/EC of the European Parliament and of the Council (OJ L 167, 25.6.2011, p. 1, ELI: http://data.europa.eu/eli/reg/2011/582/oj).  (6)  For dual-fuel heavy-duty vehicles, this monitoring parameter shall be reported separately for each fuel declared during the CO2 determination in accordance with Regulation (EU) 2017/2400.  (7)  World Harmonised Stationary Cycle.  (8)  Agreement on the International Carriage of Perishable Foodstuffs and on the Special Equipment to be Used for such Carriage (ATP), done at Geneva on 1 September 1970 and entered into force on 21 November 1976, as amended.  (9)  This parameter shall only be reported for trailers with an ATP certificate of compliance.  (10)  UIC Leaflet 596-5 Semi-trailers for grab handling.  (11)  UIC Leaflet 597 Semi-trailers on bogies.  (12)  IMO Resolution MSC.479(102) (adopted 11 November 2020), Revised Guidelines for Securing Arrangements for the Transport of Road Vehicles on Ro-Ro Ships.  (13)  Agreement concerning the International Carriage of Dangerous Goods by Road (ADR), done at Geneva on 30 September 1957 and entered into force on 29 January 1968, as amended.  (14)  This parameter shall only be reported for EX/III trailers with an ADR certificate of approval.  (15)  This parameter may optionally be reported for vehicles with specific vehicle technologies which are not covered by any other monitoring parameter to enable their identification. </td></tr>
+</tbody>
+</table>
+
+**PART C: AIR DRAG VALUE (CDXA) RANGES FOR THE PURPOSE OF PUBLICATION IN ACCORDANCE WITH ARTICLE 13c**
+
+For the purpose of making the CdxA value contained in the manufacturer’s records file publicly available in accordance with Article 13c, the Commission shall use the ranges defined in the following table containing the corresponding range for each CdxA value:
+
+<table>
+<tbody><tr><td rowspan="2">Range</td><td colspan="2">CdxA value [m2]</td></tr>
+<tr><td>Min CdxA (CdxA ≥ min CdxA)</td><td>Max CdxA (CdxA &lt; MaxCdxA)</td></tr>
+<tr><td>A1</td><td>0,00 </td><td>3,00 </td></tr>
+<tr><td>A2</td><td>3,00 </td><td>3,15 </td></tr>
+<tr><td>A3</td><td>3,15 </td><td>3,31 </td></tr>
+<tr><td>A4</td><td>3,31 </td><td>3,48 </td></tr>
+<tr><td>A5</td><td>3,48 </td><td>3,65 </td></tr>
+<tr><td>A6</td><td>3,65 </td><td>3,83 </td></tr>
+<tr><td>A7</td><td>3,83 </td><td>4,02 </td></tr>
+<tr><td>A8</td><td>4,02 </td><td>4,22 </td></tr>
+<tr><td>A9</td><td>4,22 </td><td>4,43 </td></tr>
+<tr><td>A10</td><td>4,43 </td><td>4,65 </td></tr>
+<tr><td>A11</td><td>4,65 </td><td>4,88 </td></tr>
+<tr><td>A12</td><td>4,88 </td><td>5,12 </td></tr>
+<tr><td>A13</td><td>5,12 </td><td>5,38 </td></tr>
+<tr><td>A14</td><td>5,38 </td><td>5,65 </td></tr>
+<tr><td>A15</td><td>5,65 </td><td>5,93 </td></tr>
+<tr><td>A16</td><td>5,93 </td><td>6,23 </td></tr>
+<tr><td>A17</td><td>6,23 </td><td>6,54 </td></tr>
+<tr><td>A18</td><td>6,54 </td><td>6,87 </td></tr>
+<tr><td>A19</td><td>6,87 </td><td>7,21 </td></tr>
+<tr><td>A20</td><td>7,21 </td><td>7,57 </td></tr>
+<tr><td>A21</td><td>7,57 </td><td>7,95 </td></tr>
+<tr><td>A22</td><td>7,95 </td><td>8,35 </td></tr>
+<tr><td>A23</td><td>8,35 </td><td>8,77 </td></tr>
+<tr><td>A24</td><td>8,77 </td><td>9,21 </td></tr>
+</tbody>
+</table>
+
+## ANNEX V — Data reporting and management referred to in Articles 13a to 13c
+
+**1\. REPORTING BY MEMBER STATES**
+
+1.1. The data specified in Part A of Annex IV shall be transmitted in accordance with Article 13a by the contact point of the competent authority via electronic data transfer to the European Environment Agency.
+
+The contact point shall notify the Commission and the European Environment Agency by email to the following addresses when the data are transmitted:
+
+EC-CO2 -HDV-IMPLEMENTATION@ec.europa.eu
+
+and
+
+HDV-monitoring@eea.europa.eu
+
+**2\. REPORTING BY MANUFACTURERS**
+
+2.1. Manufacturers shall, without delay, report to the Commission and the European Environment Agency the following information:
+
+(a) the manufacturer’s name as indicated in the certificate of conformity or individual approval certificate;
+
+(b) WMI code or codes assigned to the manufacturer, and, for each WMI code where the third character is a “9”, additionally the third, fourth and fifth characters of the VIS assigned to identify the manufacturer;
+
+(c) the contact point responsible for uploading the data to the European Environment Agency;
+
+(d) the vehicle category of the vehicles for which the manufacturer has a reporting obligation in accordance with Article 13b.
+
+They shall notify the Commission and the European Environment Agency without delay of any changes to that information.
+
+The notifications shall be sent to the addresses referred to in point 1.1.
+
+2.2. The data specified in Part B of Annex IV shall be transmitted in accordance with Article 13b by the contact point of the manufacturer via electronic data transfer to the European Environment Agency.
+
+The contact point shall notify the Commission and the European Environment Agency by email to the addresses referred to in point 1.1 when the data are transmitted.
+
+2.3. Designated technical services that are responsible for the determination of the CO2 emissions of heavy-duty vehicles of categories O3 and O4 pursuant to Article 8(6) and (7) of Implementing Regulation (EU) 2022/1362, shall, without delay, report to the Commission and the European Environment Agency the following information:
+
+(a) the name of the technical service;
+
+(b) the Member State which has designated the technical service;
+
+(c) the contact point responsible for uploading the data to the European Environment Agency;
+
+(d) the names of the manufacturers which have made the technical service responsible for the simulation and reporting of data on their vehicles;
+
+(e) WMI code or codes assigned to the manufacturers which have made the technical service responsible for the simulation and reporting of data on their vehicles, and, for each WMI code where the third character is a “9”, additionally the third, fourth and fifth characters of the VIS assigned to identify the concerned manufacturer.
+
+They shall notify the Commission and the European Environment Agency without delay of any changes to that information.
+
+The notifications shall be sent to the addresses referred to in point 1.1.
+
+2.4. By way of derogation from point 2.2, for heavy-duty vehicles of categories O3 and O4, for which the responsibility for the determination of the CO2 emissions has been assigned to a designated technical service pursuant to Article 8(6) and (7) of Implementing Regulation (EU) 2022/1362, the data specified in Part B of Annex IV shall be transmitted in accordance with Article 13b by the contact point of the technical service via electronic data transfer to the European Environment Agency.
+
+The contact point shall notify the Commission and the European Environment Agency by email to the addresses referred to in point 1.1 when the data are transmitted.
+
+**3\. DATA PROCESSING**
+
+3.1. The European Environment Agency shall process the data transmitted in accordance with points 1.1 and 2.2 and shall record the processed data in the register.
+
+3.2. The data relating to heavy-duty vehicles registered in the preceding reporting period and recorded in the register shall be made public by 30 April each year, with the exception of the following data entries:
+
+3.2.1. vehicle identification number;
+
+3.2.2. name and address of the transmission manufacturer;
+
+3.2.3. make (trade name of transmission manufacturer);
+
+3.2.4. name and address of axle manufacturer;
+
+3.2.5. make (trade name of axle manufacturer);
+
+3.2.6. name and address of tyre manufacturer;
+
+3.2.7. make (trade name of tyre manufacturer);
+
+3.2.8. engine model;
+
+3.2.9. transmission model;
+
+3.2.10. retarder model;
+
+3.2.11. torque converter model;
+
+3.2.12. angle drive model;
+
+3.2.13. axel model;
+
+3.2.14. air drag model;
+
+3.2.15. comma separated values file of the same name as the job file and with an extension .vsum comprising aggregated results per simulated mission profile and payload condition;
+
+3.2.16. vehicle information file (VIF);
+
+3.2.17. name and address of internal combustion engine manufacturer;
+
+3.2.18. make (trade name of internal combustion engine manufacturer);
+
+3.2.19. name and address of electric machine system / IEPC / IHPC Type 1 manufacturer;
+
+3.2.20. make (trade name of electric machine system / IEPC / IHPC Type 1 manufacturer);
+
+3.2.21. name and address of fuel cell manufacturer;
+
+3.2.22. make (trade name of fuel cell manufacturer);
+
+3.2.23. name and address of electric energy storage system manufacturer;
+
+3.2.24. make (trade name of electric energy storage system manufacturer);
+
+3.2.25. K coefficient (W/m2-K);
+
+3.2.26. number of the ADR certificate of approval for EX/III trailers.
+
+3.3. Where a competent authority or a manufacturer identifies errors in the data submitted, it shall without delay notify the Commission and the European Environment Agency by submitting an error notification report to the European Environment Agency and by email to the addresses referred to in point 1.1.
+
+3.4. The Commission shall, with the support of the European Environment Agency, verify the notified errors and, where appropriate, correct the data in the register.
+
+3.5. The Commission, with the support of the European Environment Agency, shall make available electronic formats for the data transmissions referred to in points 1.1 and 2.2 in due time before the transmission deadlines.
+
+## ANNEX VI — Correlation table
+
+| Regulation (EU) 2018/956 | This Regulation |
+| --- | --- |
+| Article 1 | Article 1(2) |
+| Article 2 | Article 2 |
+| Article 3 | Article 3 |
+| Article 4 | Article 13a |
+| Article 5 | Article 13b |
+| Article 6 | Article 13c |
+| Article 7 | Article 13d |
+| Article 8 | Article 13e |
+| Article 9 | Article 13f |
+| Article 10 | — |
+| Article 11 | Article 14 |
+| Article 12 | Article 16 |
+| Article 13 | Article 17 |
+| Article 14 | — |
+| Annex I | Annex IV |
+| Annex II | Annex V |
+
+( 1 ) Regulation (EU) 2021/1119 of the European Parliament and of the Council of 30 June 2021 establishing the framework for achieving climate neutrality and amending Regulations (EC) No 401/2009 and (EU) 2018/1999 (“European Climate Law”) (OJ L 243, 9.7.2021, p. 1
+
+( 2 ) Regulation (EU) 2023/857 of the European Parliament and of the Council of 19 April 2023 amending Regulation (EU) 2018/842 on binding annual greenhouse gas emission reductions by Member States from 2021 to 2030 contributing to climate action to meet commitments under the Paris Agreement, and Regulation (EU) 2018/1999 (OJ L 111, 26.4.2023, p. 1).
+
+( 3 ) Regulation (EC) No 715/2007 of the European Parliament and of the Council of 20 June 2007 on type approval of motor vehicles with respect to emissions from light passenger and commercial vehicles (Euro 5 and Euro 6) and on access to vehicle repair and maintenance information (OJ L 171, 29.6.2007, p. 1).
+
+( 4 ) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65).
+
+( 5 ) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).
+
+( 6 ) Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p. 1).
+
+( 7 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 8 ) Commission Implementing Regulation (EU) 2022/1362 of 1 August 2022 implementing Regulation (EC) No 595/2009 of the European Parliament and of the Council as regards the performance of heavy-duty trailers with regard to their influence on the CO2 emissions, fuel consumption, energy consumption and zero emission driving range of motor vehicles and amending Implementing Regulation (EU) 2020/683 (OJ L 205, 5.8.2022, p. 145).
+
+( 9 ) Regulation (EU) 2018/1999 of the European Parliament and of the Council of 11 December 2018 on the Governance of the Energy Union and Climate Action, amending Regulations (EC) No 663/2009 and (EC) No 715/2009 of the European Parliament and of the Council, Directives 94/22/EC, 98/70/EC, 2009/31/EC, 2009/73/EC, 2010/31/EU, 2012/27/EU and 2013/30/EU of the European Parliament and of the Council, Council Directives 2009/119/EC and (EU) 2015/652 and repealing Regulation (EU) No 525/2013 of the European Parliament and of the Council (OJ L 328, 21.12.2018, p. 1).
+
+( *1 ) Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (OJ L 198, 25.7.2019, p. 202).’;
+
+( *2 ) Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1).’.
+
+( *3 ) Directive 2007/46/EC of the European Parliament and of the Council of 5 September 2007 establishing a framework for the approval of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (Framework Directive) (OJ L 263, 9.10.2007, p. 1).
+
+( *4 ) Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (OJ L 198, 25.7.2019, p. 202).’;
+
+( *5 ) Regulation (EU) 2019/1242 of the European Parliament and of the Council of 20 June 2019 setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC (OJ L 198, 25.7.2019, p. 202).’;
+
+( 9 ) Commission Implementing Regulation (EU) 2020/683 of 15 April 2020 implementing Regulation (EU) 2018/858 of the European Parliament and of the Council with regards to the administrative requirements for the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles (OJ L 163, 26.5.2020, p. 1).

@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(90/428/CEE)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2008/73/EC of 15 July 2008 </td><td> L 219</td><td>40</td><td>14.8.2008</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE**
 

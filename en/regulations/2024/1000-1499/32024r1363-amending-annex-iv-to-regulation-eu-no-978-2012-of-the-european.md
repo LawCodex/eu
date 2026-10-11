@@ -1,0 +1,69 @@
+---
+title: "Commission Delegated Regulation (EU) 2024/1363 of 12 March 2024 amending Annex IV to Regulation (EU) No 978/2012 of the European Parliament and of the Council in order to remove Bhutan from the list of beneficiary countries of the special arrangement for the least-developed countries"
+identifier: "32024R1363"
+eli: "http://data.europa.eu/eli/reg_del/2024/1363/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2024-03-12
+entry_into_force: 2025-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1363"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2024/1363 of 12 March 2024 amending Annex IV to Regulation (EU) No 978/2012 of the European Parliament and of the Council in order to remove Bhutan from the list of beneficiary countries of the special arrangement for the least-developed countries
+
+**COMMISSION DELEGATED REGULATION (EU) 2024/1363**
+
+**of 12 March 2024**
+
+**amending Annex IV to Regulation (EU) No 978/2012 of the European Parliament and of the Council in order to remove Bhutan from the list of beneficiary countries of the special arrangement for the least-developed countries**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union and in particular Article 207 thereof,
+
+Having regard to Regulation (EU) No 978/2012 of the European Parliament and of the Council of 25 October 2012 applying a scheme of generalised tariff preferences and repealing Council Regulation (EC) No 732/2008 (1), and in particular Article 17(2) thereof,
+
+Whereas:
+
+(1) Pursuant to Article 17(1) of Regulation (EU) No 978/2012, a country which is identified by the United Nations (‘UN’) as a least-developed country should benefit from the tariff preferences provided under the special arrangement for the least-developed countries ‘Everything But Arms’ (EBA).
+
+(2) The list of beneficiary countries of the special arrangement for the least-developed countries referred to in Article 1(2), point (c) of Regulation (EU) No 978/2012 is established in Annex IV to the Regulation. Article 17(2) of Regulation (EU) No 978/2012 lays down that Annex IV is to be continuously reviewed in order to reflect changes in relation to the conditions laid down in Article 17(1). Furthermore, Article 17(2) of Regulation (EU) No 978/2012 establishes a three-year transitional period for removing a country from the list of EBA beneficiary countries.
+
+(3) Bhutan graduated from the UN least-developed country category on 13 December 2023. Therefore, Bhutan no longer qualifies for EBA beneficiary status under Article 17(1) of Regulation (EU) No 978/2012 and should be removed from Annex IV to that Regulation. In accordance with Article 17(2) of Regulation (EU) No 978/2012, the removal of Bhutan from the list of EBA beneficiary countries should apply following a transitional period of 3 years as from the date on which the Commission’ delegated act amending Annex IV to Regulation (EU) No 978/2012 enters into force. Bhutan should, therefore, be removed from Annex IV, with application from 1 January 2028.
+
+(4) Therefore, Annex IV to Regulation (EU) No 978/2012 should be amended,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Amendment to Regulation (EU) No 978/2012
+
+In Annex IV to Regulation (EU) No 978/2012, the following alphabetical code and the corresponding country is removed from columns A and B, respectively:
+
+| ‘BT | Bhutan’ |
+| --- | --- |
+
+## Article 2 — Entry into force and application
+
+This Regulation shall enter into force on 1 January 2025.
+
+This Regulation shall apply from 1 January 2028.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 12 March 2024.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 303, 31.10.2012, p. 1, ELI: http://data.europa.eu/eli/reg/2012/978/oj.
+
+ELI: http://data.europa.eu/eli/reg_del/2024/1363/oj
+
+ISSN 1977-0677 (electronic edition)

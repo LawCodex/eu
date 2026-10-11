@@ -1,0 +1,605 @@
+---
+title: "Commission Implementing Regulation (EU) 2022/1193 of 11 July 2022 establishing measures to eradicate and prevent the spread of Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014"
+identifier: "32022R1193"
+eli: "http://data.europa.eu/eli/reg_impl/2022/1193/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2022-07-11
+entry_into_force: 2022-10-13
+last_amended: 2024-10-29
+consolidated_version: "02022R1193-20241029"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02022R1193-20241029"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2022/1193 of 11 July 2022 establishing measures to eradicate and prevent the spread of Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1193**
+
+**of 11 July 2022**
+
+**establishing measures to eradicate and prevent the spread of Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2632 of 8 October 2024 </td><td> L 2632</td><td>1</td><td>9.10.2024</td></tr>
+</table>
+
+C1
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2022/1193**
+
+**of 11 July 2022**
+
+**establishing measures to eradicate and prevent the spread of Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014**
+
+## Article 1 — Subject matter
+
+This Regulation establishes measures for the purpose of eradicating Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996, emend. Safni et al. 2014, the cause of the potato brown rot, and prevent its spread within the Union territory.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘specified pest’ means Ralstonia solanacearum (Smith 1896) Yabuuchi et al. 1996 emend. Safni et al. 2014;
+
+(2) ‘specified plants’ means plants of Solanum tuberosum L. (potato), other than seeds, and plants, other than fruits and seeds, of Solanum lycopersicum (L.) Karsten ex Farw (tomato);
+
+(3) ‘solanaceous host plants’ means wild and cultivated plants of Solanaceae;
+
+(4) ‘volunteer specified plants’ means specified plants which appear in the places of production without having been planted;
+
+(5) ‘tubers intended to be planted in their place of production’ means tubers produced in a specific place of production which are intended to permanently remain in that place and are not intended to be certified.
+
+## Article 3 — Annual surveys
+
+1\. The competent authorities shall carry out annual surveys for the presence of the specified pest on the specified plants in their territory, in surface water used for irrigation of the specified plants, and in liquid waste, in accordance with the following requirements:
+
+(a) as regards tubers other than those for planting, the surveys shall comprise:
+
+(i) sampling from tuber lots in store or from the growing crop, as late as possible between desiccation of haulms and harvest;
+
+(ii) visual inspection of the growing crop, where it is possible to visually identify symptoms of the specified pest, and visual inspection of cut tubers in the cases where that inspection is suitable to detect symptoms of the specified pest;
+
+(b) as regards tubers for planting, other than those intended to be planted in their place of production, surveys shall systematically comprise visual inspection of the growing crops and of lots in store, sampling in store or sampling from the growing crops as late as possible between desiccation of haulms and harvest;
+
+(c) as regards tubers intended to be planted in their place of production, the surveys shall be performed on the basis of the identified risk concerning the presence of the specified pest and shall comprise:
+
+(i) sampling from tuber lots in store or from the growing crop, as late as possible between desiccation of haulms and harvest;
+
+(ii) visual inspection of the growing crop where it is possible to visually identify symptoms of the specified pest, and visual inspection of cut tubers in the cases where that inspection is suitable to detect symptoms of the specified pest;
+
+(d) as regards plants of tomato, surveys shall comprise visual inspection, at appropriate times, of at least the growing crop at the place of production of plants intended for replanting;
+
+(e) as regards solanaceaous host plants, other than the specified plants, and surface water and liquid waste, surveys shall be conducted in accordance with appropriate methods and, where appropriate, samples shall be taken.
+
+2\. The number, origin and timing of the collection of samples shall be based on sound scientific and statistical principles and the biology of the specified pest, taking into account the particular potato and tomato production systems of the Member States concerned.
+
+3\. Member States shall report to the Commission and the other Member States, by 30 April of each year, the results of the annual surveys carried out during the preceding calendar year. They shall report the results of those surveys in accordance with the template set out in Annex II.
+
+## Article 4 — Measures in case of suspicion of the presence of the specified pest
+
+1\. The competent authority shall ensure that samples taken for the purpose of the surveys are subject to the detection tests referred to in point 2.1 of Annex I.
+
+2\. Pending the results of the detection tests, the competent authority shall:
+
+(a) prohibit the movement of the specified plants from all crops, lots or consignments from which the samples have been taken, except the specified plants under its control for which it has been established that there is no identifiable risk of the specified pest spreading;
+
+(b) trace the origin of the suspected presence;
+
+(c) carry out official control of the movement of any specified plants, other than those referred to in point (a), produced on the place of production from which the samples referred to in point (a) were taken;
+
+(d) prohibit the use of surface water on specified plants and on other cultivated solanaceous host plants until the confirmation or refutation of the presence of the specified pest in the surface water, except where it allows the use of surface water on tomatoes and other cultivated solanaceous host plants grown in greenhouses, on condition that water is disinfected through appropriate methods authorised by the competent authority.
+
+3\. Pending the results of the detection tests, the competent authority shall ensure that all of the following elements are retained and appropriately conserved:
+
+(a) all remaining tubers sampled and, wherever possible, all remaining plants sampled;
+
+(b) remaining specified plant extracts, DNA extracts and additional prepared material for the test;
+
+(c) the pure culture, when appropriate;
+
+(d) all relevant documentation.
+
+4\. Where the suspicion of the presence of the specified pest is confirmed in accordance with point 1.1 of Annex I, the competent authority shall ensure that the tests referred to in Annex I are carried out on the samples taken for the purpose of the surveys to confirm or refute the presence of the specified pest.
+
+## Article 5 — Measures in case of confirmation of the presence of the specified pest
+
+1\. Where the presence of the specified pest is confirmed in accordance with point 1.2 of Annex I, paragraphs 2 to 6 shall apply.
+
+2\. Where the presence of the specified pest is confirmed on specified plants, the competent authority shall, without delay, take all the following measures:
+
+(a) establish an investigation to determine the extent and primary source(s) of infection in accordance with Annex III, with further tests in accordance with Article 4(1), on at least all clonally related stocks of tubers for planting;
+
+(b) establish a demarcated area, which shall consist at least of an infested zone containing all of the following elements:
+
+(i) the specified plants, consignments and/or lots, vehicles, vessels, stores, or units thereof from which an infected specified plant sample was taken, any other objects including packaging material, and the machinery used in production, transport or storage of those specified plants, and, where appropriate, the place(s) of production or the production site(s) where those specified plants were grown or harvested;
+
+(ii) all types of items listed in point (i) determined to be probably infected by the specified pest, through pre- or post-harvest contact, or through simultaneous production, irrigation or spraying steps with the infected specified plants and taking into account the elements listed in point 1 of Annex IV;
+
+(c) establish, where necessary to address the phytosanitary risk, a buffer zone around the infested zone taking into account the elements of a possible spread of the specified pest as referred to in point 2 of Annex IV;
+
+(d) designate:
+
+(i) the items listed in point (b)(i) as infected;
+
+(ii) the items listed in point (b)(ii) as probably infected.
+
+3\. Where the presence of the specified pest is confirmed on crops of solanaceaous host plants other than the specified plants, and where production of the specified plants is identified at risk, the competent authority shall take the following measures:
+
+(a) establish an investigation to determine the extent and primary source(s) of infection in accordance with Annex III, with further tests in accordance with Article 4(1), on at least all clonally related stocks of tubers for planting; and
+
+(b) establish a demarcated area, which shall consist of an infested zone.
+
+The infested zone shall contain the following:
+
+(a) the host plants from which the infected sample was taken;
+
+(b) the host plants liable to be infected by the specified pest and designated as probably infected, through pre- or post-harvest contact, or through simultaneous production, irrigation or spraying steps with the infected host plants.
+
+The competent authority shall designate:
+
+(a) the host plants referred to in the second subparagraph, point (a), as infected;
+
+(b) the hosts plants referred in the second subparagraph, point (b), as probably infected.
+
+4\. Where the presence of the specified pest is confirmed in surface water, in liquid waste discharges from industrial processing or from packaging premises handling specified plants, or on associated wild solanaceous host plants, and where production of the specified plants is identified at risk through irrigation, spraying or flooding with surface water, the competent authority shall take the following measures:
+
+(a) establish an investigation in accordance with Annex III, including a survey at appropriate times on samples of surface water and liquid waste, and on wild solanaceous host plants if present, in order to determine the extent of the infection; and
+
+(b) establish a demarcated area containing an infested zone taking into account the elements of a possible spread of the specified pest as referred to in point 2 of Annex IV.
+
+The infested zone shall contain the following:
+
+(a) the surface water from which the infected sample(s) was (were) taken;
+
+(b) the surface water liable to be infected, taking into account the elements listed in point 2(b)(ii) and (iii) of Annex IV.
+
+The competent authority shall designate:
+
+(a) the surface water referred to in the second subparagraph, point (a), as infected;
+
+(b) the surface water referred to in the second subparagraph, point (b), as probably infected.
+
+5\. Where a Member State has submitted an outbreak notification in EUROPHYT, the neighbouring Member States which are referred to in the notification shall determine the extent of probable infection and establish a demarcated area in accordance with paragraphs 2, 3 and 4. In case of outbreak in surface water, a notification shall not be required for infected surface water contained in areas that are already demarcated.
+
+6\. The competent authorities shall ensure that all of the following elements are retained and properly conserved:
+
+(a) the material specified in Article 4(3) until at least the completion of all tests;
+
+(b) the material related to the second detection test and to the identification tests when appropriate, until the completion of all tests;
+
+(c) if applicable, the pure culture of the specified pest, until at least one month after the notification procedure under paragraph 5.
+
+## Article 6 — Measures for eradicating the specified pest
+
+1\. Specified plants designated as infected by the specified pest pursuant to Article 5(2), point (d)(i), shall not be planted. The professional operators, during the production or movement of the specified plants, shall, under the official supervision of the competent authority, ensure that the infected specified plants are destroyed or are disposed of in another way, in accordance with point 1 of Annex V provided that it is established that there is no identifiable risk of the specified pest spreading.
+
+Where specified plants have been planted before they are designated as infected, the planted material shall be immediately destroyed or disposed of in another way in accordance with point 1 of Annex V. The production site(s) where the infected specified plants have been planted shall be designated as infected. A demarcated area shall be established in accordance with Article 5(2), point (b).
+
+2\. Specified plants designated as probably infected pursuant to Article 5(2), point (d)(ii), and specified plants for which a risk has been identified pursuant to Article 5(4) shall not be planted and shall, under the control of their competent authorities, be put to appropriate use or disposal as specified in point 2 of Annex V, provided that it is established that there is no identifiable risk for spreading of the specified pest.
+
+Where specified plants have been planted before they are designated as probably infected, the planted material shall be immediately destroyed or the measures as specified in point 2 of Annex VI, shall apply. The production site(s) where the probably infected specified plants have been planted shall be designated as probably infected. A demarcated area shall be established in accordance with Article 5(2), point (b).
+
+3\. Any machinery, vehicle, vessel, store, or units thereof, and any other objects including packaging material, designated as infected pursuant to Article 5(2), point (d)(i) or probably infected pursuant to Article 5(2), point (d)(ii), and Article 5(4) third subparagraph, point (b), shall either be destroyed or cleaned and disinfected using methods as specified in point 3 of Annex V.
+
+4\. In addition to the measures provided for in paragraphs 1, 2, and 3 the measures specified in point 4 of Annex V shall be applied in the demarcated areas.
+
+## Article 7 — Specific testing measures for tubers for planting
+
+1\. Where the presence of the specified pest has been confirmed in a production site of tubers for planting, the competent authority shall ensure that the tests referred to in Annex I are carried out on the clonally related lines of the infected lots of tubers or, where the absence of clonally related lines is established, on the tubers or lots of tubers which have been in direct or indirect contact with the infected lots of tubers.
+
+2\. Where the presence of the specified pest has been confirmed in production sites of tubers for planting in a certification scheme, the tests referred to in Annex I shall be carried out either on each plant of the initial clonal selection or on representative samples of the basic seed potatoes.
+
+## Article 8 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Scheme for the tests to be performed pursuant to Articles 3, 4, 5, and 7**
+
+**1\. GENERAL PRINCIPLES ON THE PRESENCE OF THE SPECIFIED PEST**
+
+1.1. The presence of the specified pest is suspected where a positive result is obtained in the first detection test performed on the specified plant, or on water samples.
+
+1.2. The presence of the specified pest is confirmed in the following cases:
+
+(a) where the first or the second detection test is a selective isolation resulting in colonies with typical morphology, and positive results are obtained in two identification tests performed on the colonies;
+
+(b) where the first and second test are tests other than a selective isolation, and positive results are obtained in two identification tests after the sample has been subject to selective isolation resulting in colonies with typical morphology.
+
+One of those two identification tests shall be a test referred to in points 2.2(e), (f) and (g).
+
+**2\. TESTS**
+
+**2.1. Detection tests**
+
+The detection tests shall be such as to consistently detect at least 104 cells/ml resuspended pellet acquired from asymptomatic samples.
+
+The second detection test shall be based on different biological principles or different nucleotide regions than the first detection test.
+
+The detection tests are the following:
+
+(a) immunofluorescence tests as described in international diagnostic standards;
+
+(b) isolation of the specified pest on the semi-selective growth medium mSMSA, as described in international diagnostic standards;
+
+(c) conventional PCR test using the primers of Pastrik et al., (2002) ( 1 ), as described in international diagnostic standards;
+
+(d) TaqMan® Real-time PCR tests using primers and probes of:
+
+(i) Weller et al. (2000) ( 2 ), as described in international diagnostic standards;
+
+(ii) Vreeburg et al. (2016) ( 3 ) (using a TaqMan® probe modified from the original probe described by Weller et al. (2000)), as described in international diagnostic standards;
+
+(iii) Vreeburg et al. (2018) ( 4 ) (so-called NYtor test), as described in international diagnostic standards;
+
+(iv) Massart et al. (2014) ( 5 ), as described in the international diagnostic standards;
+
+(e) LAMP (loop-mediated isothermal amplification) test using the primers of Lenarčič et al. (2014) ( 6 ) (only for symptomatic plant material), as described in international diagnostic standards.
+
+**2.2. Identification tests**
+
+The identification tests are the following:
+
+(a) immunofluorescence tests as described in international diagnostic standards;
+
+(b) conventional PCR tests using the primers of Pastrik et al. (2002), as described in full detail in international diagnostic standards;
+
+(c) TaqMan® Real-time PCR tests using primers and probes of:
+
+(i) Weller et al. (2000), as described in international diagnostic standards;
+
+(ii) Vreeburg et al. (2016) (using a TaqMan® probe modified from the original probe described by Weller et al. (2000)) as described in full detail in international diagnostic standards;
+
+(iii) Vreeburg et al. (2018) (so-called NYtor test), as described in international diagnostic standards;
+
+(iv) Massart et al. (2014), as described in the international diagnostic standards;
+
+(d) LAMP (loop-mediated isothermal amplification) test using the primers of Lenarčič et al. (2014), as described in international diagnostic standards;
+
+(e) phylotype-specific multiplex conventional PCR test (Opina et al. (1997) ( 7 ); Fegan & Prior (2005) ( 8 )), as described in international diagnostic standards;
+
+(f) DNA barcoding (Wicker et al. (2007) ( 9 ), as described in international diagnostic standards;
+
+(g) MALDI-TOF MS (van de Bilt et al. (2018) ( 10 )), as described in international diagnostic standards.
+
+**3\. FLOW CHARTS OF PROCEDURES**
+
+**Flow chart No 1: Diagnostic procedure for the presence of the specified pest in samples of the specified plant.**
+
+[image]
+
+a Isolation can be used as the first or the second detection test. If the presence of the specified pest is suspected on the growth medium, colonies shall be purified to obtain pure cultures on which two identification tests shall be performed.
+
+b One of these two identification tests shall be a test referred to in points 2.2(e), (f) and (g). Positive results in the two identification tests are required to confirm the presence of the pest.
+
+c The third detection test shall be based on different biological principles or different nucleotide regions.
+
+**Flow chart No 2: Diagnostic procedure for the specified pest in water samples.**
+
+[image]
+
+a One of these two identification tests shall be a test referred to in points 2.2(e), (f) and (g). Positive results in the two identification tests are required to confirm the presence of the pest.
+
+**4\. SAMPLE PREPARATION**
+
+**4.1. Samples from asymptomatic tubers**
+
+The standard sample shall contain 200 tubers per test. The appropriate laboratory procedure to process the heel end cores to obtain the extract for detection of the specified pest is described in international diagnostic standards.
+
+**4.2. Samples from asymptomatic specified plants**
+
+Detection of latent infections shall be carried out on composite samples of stem segments or leaf petioles. The procedure may be applied for up to 200 stem parts or 200 leaf petioles from different plants in one sample. The appropriate laboratory procedure to disinfect and process the stem or leaf petiole segments to obtain the extract for the detection of the specified pest is described in international diagnostic standards.
+
+**4.3. Samples from symptomatic material of the specified plants**
+
+Sections of tissue shall be aseptically removed from the vascular ring in a potato tuber or from the vascular strands in stems of specified plants showing wilting symptoms. The appropriate laboratory procedure to process these tissues to obtain the extract for the detection of the specified pest is described in full detail in international diagnostic standards.
+
+**4.4. Samples of surface or recirculation water (including potato processing or sewage effluents)**
+
+The principal test for the detection of the specified pest in samples of surface water, water from recirculation systems and effluent samples (potato processing industry) is selective isolation. The appropriate laboratory procedure to process water samples is described in international diagnostic standards.
+
+## ANNEX II — Survey template referred to in Article 3(3)
+
+Template for presenting the results of the brown rot surveys carried out during the calendar year preceding the year of reporting
+
+<table>
+<tbody><tr><td rowspan="2">Member State</td><td rowspan="2">Category</td><td rowspan="2">Cropping area (ha)</td><td colspan="5">Visual inspections of growing crops</td><td colspan="4">Visual inspections of tuber lots in store (a)</td></tr>
+<tr><td>Area visually inspected (ha)</td><td>Number of visual inspections (b)</td><td>Number of visual inspections where symptoms were observed (c)</td><td>Number of symptomatic samples taken (d)</td><td>Number of asymptomatic samples taken (d)</td><td>Number of visual inspections (b)</td><td>Number of visual inspections where symptoms were observed (e)</td><td>Number of symptomatic samples taken (d)</td><td>Number of asymptomatic samples taken (d)</td></tr>
+<tr><td rowspan="6">  </td><td>Potato tubers for planting (f)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers intended to be planted in their place of production</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers other than those for planting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Tomatoes intended for replanting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Other hosts (specify species)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Irrigation water</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Waste water</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td rowspan="2">Member State</td><td rowspan="2">Category</td><td colspan="3">Laboratory tests related to visual inspections of growing crops</td><td colspan="3">Laboratory tests related to tuber lot inspections</td><td colspan="2">Laboratory tests related to water</td><td rowspan="2">Notification number(s) of the outbreaks notified, as applicable, in accordance with Implementing Regulation (EU) 2019/1715</td><td rowspan="2">Additional information</td></tr>
+<tr><td>Number of symptomatic samples tested positive</td><td>Number of asymptomatic samples tested positive</td><td>Number of positive visual inspections (g)</td><td>Number of symptomatic samples tested positive</td><td>Number of asymptomatic samples tested positive</td><td>Number of positive lots</td><td>Number of samples tested</td><td>Number of positive samples</td></tr>
+<tr><td rowspan="7">  </td><td>Potato tubers for planting (f)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers intended to be planted in their place of production</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Potato tubers other than those for planting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Tomatoes intended for replanting</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Other hosts (specify species)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Irrigation water</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Waste water</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="12">(a) To be filled only for the results of survey carried out on specified plants and other hosts grown and harvested in your country. (b) Including the number of multiple visual inspections carried out on the same field or on the same lot, as applicable.  (c) Symptoms were found on cut tubers or plants, and samples were taken for laboratory testing.  (d) Sample preparation is described in point 4 of Annex I.  (e) Symptoms were found on cut tubers and samples were taken for laboratory testing.  (f) Except potato tubers intended to be planted in their place of production.  (g) Total number of visual inspections for which samples were tested positively for the presence or R. solanacearum. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Investigation referred to in Article 5(2), point (a), Article 5(3), first subparagraph, point (a) and in Article 5(4) first subparagraph, point (a)**
+
+The investigation referred to in Article 5(2), point (a), in Article 5(3), first subparagraph, point (a), and in Article 5(4), first subparagraph, point (a), shall concern the following elements, where relevant:
+
+(1) places of production:
+
+(a) growing or having grown, potatoes which are clonally related to potatoes found to be infected with the specified pest;
+
+(b) growing or having grown tomatoes which are from the same source as tomatoes found to be infected with the specified pest;
+
+(c) growing or having grown potatoes or tomatoes which have been placed under official control because of the suspected presence of the specified pest;
+
+(d) growing or having grown potatoes which are clonally related to potatoes that have been grown on places of production found to be infected with the specified pest;
+
+(e) growing potatoes or tomatoes and located in the vicinity of infected places of production, including such places of production sharing production equipment and facilities directly or through a common contractor;
+
+(f) using surface water for irrigation or spraying from any source confirmed or suspected to be infected with the specified pest;
+
+(g) using surface water for irrigation or spraying from a source used in common with places of production confirmed or suspected to be infected with the specified pest;
+
+(h) flooded or that have been flooded with surface water confirmed or suspected to be infected with the specified pest; and
+
+(2) surface water used for irrigation or spraying of the specified plants, or which has flooded field(s) or place(s) of production confirmed to be infected with the specified pest.
+
+## ANNEX IV
+
+**Elements for the designation of items as probably infected by the specified pest pursuant to Article 5(2), point (b)(ii) and Article 5(4) second subparagraph, point (b) and for the determination of the possible spread of the specified pest pursuant to Article 5(2), point (c) and Article 5(4), first subparagraph, point (b)**
+
+1\. The elements to be considered for the designation of an item as probably infected by the specified pest pursuant to Article 5(2), point (b)(ii), are the following:
+
+(a) specified plants grown at a place of production designated as infected pursuant to Article 5(2), point (d)(i);
+
+(b) place(s) of production with some production link to the specified plants designated as infected pursuant to Article 5(2), point (d)(i), including those sharing production equipment and facilities directly or through a common contractor;
+
+(c) specified plants produced in the place(s) of production referred to in point (b), or present in such place(s) of production during the period when the specified plants designated as infected pursuant to Article 5(2), point (d)(i), were present on the place of production referred to in point (a);
+
+(d) premises handling the specified plants from the places of production referred to in points (a), (b) and (c);
+
+(e) any machinery, vehicle, vessel, store, or units thereof, and any other objects including packaging material, that may have come into contact with the specified plants designated as infected pursuant to Article 5(2), point (d)(i);
+
+(f) any of the specified plants stored in, or in contact with, any of the structures or objects listed in the previous point, prior to the cleaning and disinfection of such structures and objects;
+
+(g) as a result of the investigation and testing pursuant to Article 5(2), point (a), in the case of potato, those tubers or plants with a sister or parental clonal relationship to, and in the case of tomato, those plants with the same source as the specified plants designated to be infected pursuant to Article 5(2), point (d)(i), and for which, although they may have tested negative for the specified pest, it appears that infection is probable through a clonal link;
+
+(h) place(s) of production of the specified plants referred to in point (g);
+
+(i) place(s) of production of the specified plants using water for irrigation or spraying designated as infected pursuant to Article 5(4), third subparagraph, point (a), or liable to be infected pursuant to Article 5(4), third subparagraph, point (b);
+
+(j) specified plants produced on production sites flooded with surface water confirmed to be infected or liable to be infected.
+
+2\. The elements to be considered in the determination of the possible spread of the specified pest pursuant to Article 5(2), point (c), and Article 5(4), first subparagraph, point (b), are the following:
+
+(a) in the demarcated area established pursuant to Article 5(2), point (b):
+
+(i) the proximity of other places of production growing the specified plants,
+
+(ii) the common production and use of stocks of tubers for planting;
+
+(iii) places of production using surface water for irrigation or spraying of specified plants in cases where there is or has been risk of surface water run-off from, or flooding of, place(s) of production designated to be infected pursuant to Article 5(2), point (d)(i);
+
+(b) in cases where surface water has been designated as infected pursuant to Article 5(4), third subparagraph, point (a), or liable to be infected pursuant to Article 5(4), third subparagraph, point (b):
+
+(i) place(s) of production producing specified plants adjacent to, or at risk from flooding by, the surface water designated as infected or liable to be infected;
+
+(ii) any discrete irrigation basin associated with the surface water designated as infected or liable to be infected;
+
+(iii) water bodies connected with the surface water designated as infected or liable to be infected, taking into account:
+
+— the direction and rate of flow of the water designated as infected or liable to be infected;
+
+— the presence of wild solanaceous host plants.
+
+## ANNEX V
+
+**Eradication measures as referred to in Article 6**
+
+1\. The measures referred to in Article 6(1) shall be one or more of the following:
+
+(a) use as animal feed after heat treatment, such that there is no risk of the specified pest survival;
+
+(b) disposal at an officially approved dedicated waste disposal site at which there is no identifiable risk of escape of the specified pest into the environment e.g. through seepage to agricultural land;
+
+(c) incineration;
+
+(d) industrial processing through direct and immediate delivery to a processing plant with officially approved waste disposal facilities for which it has been established that there is no identifiable risk of the specified pest spreading, and with a system of cleaning and disinfection of at least the departing vehicles;
+
+(e) other measures, provided that it has been established that there is no identifiable risk of the specified pest spreading; such measures and their justification are to be notified to the Commission and the other Member States.
+
+Any remaining waste associated with and arising from the above shall be disposed of by officially approved methods in accordance with Annex VI.
+
+2\. The appropriate use or disposal of the specified plants designated as probably infected pursuant to Article 6(2), shall be carried out under the control of the competent authority. That competent authority shall approve the following uses, and the related waste disposal, of those specified plants:
+
+(a) for potato tubers:
+
+(i) use as tubers intended for consumption, packed ready for direct delivery and use without repacking, on a site with appropriate waste disposal facilities. Tubers for planting may only be handled at the same site, if this is done separately or after cleaning and disinfection; or
+
+(ii) use as tubers intended for industrial processing, and intended for direct and immediate delivery to a processing plant with appropriate waste disposal facilities and a system of cleaning and disinfection of at least the departing vehicles; or
+
+(iii) some other use or disposal, provided that it is established that there is no identifiable risk of the specified pest spreading and subject to approval by the competent authority;
+
+(b) for other plant parts of the specified plants including stem and foliage debris:
+
+(i) destruction; or
+
+(ii) some other use or disposal, provided that it is established that there is no identifiable risk of the specified pest spreading and subject to approval by the competent authority.
+
+3\. The appropriate methods for cleaning and disinfection of the objects referred to in Article 6(3) shall be those for which it has been established that there is no identifiable risk of the specified pest spreading and shall be employed under the supervision of the competent authorities of the Member States.
+
+4\. The series of measures to be implemented by Member States within the demarcated area(s), established pursuant to Article 5 and referred to in Article 6(4), shall include the measures set out in points 4.1 and 4.2:
+
+4.1. Measures to be taken in places of production designated as infected pursuant to Article 5(2), point (d)(i):
+
+4.1.1. In a production site or unit of protected crop production designated as infected pursuant to Article 5(2), point (d)(i), all of the measures set out in points (1), (2) and (3), or all of the measures set out in points (4), (5), (6) and (7) shall be taken:
+
+(1) during the first four growing years following that of the designation of infection, elimination of volunteer specified plants, as well as of other wild solanaceous host plants of the specified pest, and prohibition of planting of specified plants, of seeds of potatoes and of tomatoes, taking into account the biology of the specified pest, of cultivated solanaceous host plants, and of plants of species of Brassica, for which there is an identified risk of the specified pest survival;
+
+(2) from the fifth year following that of the designation of infection, following the fulfilment of the conditions of point (1) and on the condition that the production site has been found free from volunteer specified plants and from wild solanaceous host plants during official controls for at least the two consecutive growing years prior to planting, only potato tubers, other than those intended for reproduction of other potatoes, shall be allowed to be planted, and the harvested potato tubers, or the tomato plants, as appropriate, shall be tested in accordance with Annex I;
+
+(3) after the first production of the specified plants as referred to in point (2), and following an appropriate rotation cycle of at least two years if tubers for planting are to be grown, a survey shall be conducted as provided in Article 3; or
+
+(4) during the first five growing years following that of the designation of infection, elimination of volunteer specified plants as well as of wild solanaceous host plants of the specified pest;
+
+(5) during the first three years following that of the designation of infection, maintenance of the production site, either in bare fallow, or in cereals according to the risk identified, or in permanent pasture with frequent close cutting or intensive grazing, or as grass for seed production;
+
+(6) during the fourth and fifth years following that of the designation of infection, planting of non-host plants of the specified pest, for which there is no identified risk of the specified pest surviving or spreading;
+
+(7) from the sixth year following that of the designation of infection, and on the condition that points (4), (5) and (6) have been fulfilled and that the production site has been free from volunteer specified plants as well as from wild solanaceous host plants of the specified pest during official controls for at least the two consecutive growing years prior to planting, production of tubers for planting or of other tubers shall be allowed, and the harvested tubers, or the tomato plants, as appropriate, shall be tested in accordance with Annex I.
+
+4.1.2. In all other production sites of the infected place of production and under the condition that the competent authorities have established that the risk of volunteer specified plants and of wild solanaceous host plants of the specified pest as appropriate has been eliminated, the following conditions shall apply:
+
+(1) Certified potato tuber plants may be planted on production sites where, at least during two years, no potatoes or other cultivated solanaceous host plants have been grown, and all of the following requirements are fulfilled:
+
+(a) investigations conducted by the competent authority have shown that the source of infection in the place of production has only been clonal, and not by contact with other tuber lots;
+
+(b) those investigations are based on test records of all other potato lots which have been grown at the place of production, as well as on investigations of other possible sources of infestation, and especially nearby water ways;
+
+(c) the tubers produced on these production sites have been tested before marketing, in accordance with Annex I.
+
+(2) In other cases, the following conditions shall apply:
+
+(a) in the growing year following that of the designation of infection:
+
+(i) in the case of potato, either no potato tubers or plants or seeds, and no other cultivated solanaceous host plants of the specified pest shall be planted, or certified tubers for planting may be planted for production of tubers for consumption only;
+
+(ii) in the case of tomato, tomato plants grown from seeds, which meet the requirements of Implementing Regulation (EU) 2019/2072 ( 11 ) may be planted for fruit production only;
+
+(b) in the second growing year following that of the designation of infection:
+
+(i) only certified tubers for planting or tubers for planting tested for the absence of the specified pest and grown under official control on places of production other than those referred to in point 4.1 shall be planted for production either of tubers for planting or of other tubers;
+
+(ii) only tomato plants grown from seeds which meet the requirements of Implementing Regulation (EU) 2019/2072 or, if vegetatively propagated, from tomato plants produced from such seeds and grown under official control on places of production other than those referred to in point 4.1 shall be planted for either plant or fruit production;
+
+(c) for at least in the third growing year following that of the designation of infection:
+
+(i) only certified tubers for planting or tubers for planting grown under official control shall be planted for production either of tubers for planting or of other tubers;
+
+(ii) only tomato plants grown from seeds which meet the requirements of Implementing Regulation (EU) 2019/2072 or tomato plants grown under official control from such plants shall be planted for either plant or fruit production;
+
+(d) in each of the growing years referred to in points (a), (b) and (c), measures shall be taken to eliminate volunteer potato plants and wild solanaceous host plants of the specified pest if present, and official controls of the growing crop at appropriate times shall be conducted and in each potato production site, harvested tubers shall be tested in accordance with Annex I.
+
+4.1.3. Immediately following the designation of infection pursuant to Article 5(2), point (d)(i), and after the first subsequent growing year:
+
+(1) All machinery and storage facilities on the place of production and involved in specified plant production shall be cleaned and, where appropriate, disinfected using appropriate methods, as specified in point 3.
+
+(2) Official controls on irrigation and spraying programmes, including a ban thereof, shall be introduced as appropriate in order to prevent the spread of the specified pest.
+
+4.1.4. In a unit of protected crop production designated as infected pursuant to Article 5(2), point (d)(i), where complete replacement of the growing medium is possible:
+
+(1) No specified plants, no seed of potatoes and no other cultivated solanaceous host plants of the specified pest shall be planted unless the production unit has been subjected to all of the following officially supervised measures:
+
+(a) elimination of the specified pest;
+
+(b) removal of all host plant material;
+
+(c) complete change in growing medium and cleaning and, where appropriate, disinfection of the said unit and all equipment;
+
+(d) approval of potato or tomato production by the competent authority.
+
+(2) Potato production shall be from certified tubers for planting, or from mini-tubers or micro-plants derived from tested sources.
+
+(3) Tomato production shall be from seeds which meet the requirements of Implementing Regulation (EU) 2019/2072 or, if vegetatively propagated, from tomato plants produced from such seeds and grown under official control.
+
+(4) Official controls on irrigation and spraying programmes, including a ban thereof, shall be introduced as appropriate, in order to prevent the spread of the specified pest.
+
+4.2. Within the demarcated area, in addition to the measures detailed under point 4.1, Member States shall take the following measures:
+
+(1) Immediately following the designation of infection, they shall ensure that all machinery and storage facilities on such demarcated areas and involved with specified plant production are cleaned and disinfected, as appropriate, using appropriate methods, as specified in point 3.
+
+(2) Immediately, and for at least three growing years following the designation of infection:
+
+(a) in cases where the demarcated area has been determined pursuant to Article 5(2), point (b):
+
+(i) they shall ensure that their competent authorities supervise the premises where specified plants are grown, stored or handled, as well as of places of production which operate machinery for specified plant production under contract;
+
+(ii) they shall require the planting of only certified tubers for planting or tubers intended to be planted on the same place of production grown under official control for all potato crops within that area, and testing after harvest of tubers for planting grown in places of production determined as probably infected pursuant to Article 5(2), point (d)(ii);
+
+(iii) they shall require the separate handling of harvested tubers for planting stocks from the stocks of other tubers on all places of production within the demarcated area, or a system of cleaning and, where appropriate, disinfection to be carried out between the handling of stocks of tubers for planting and that of other tubers;
+
+(iv) require the planting of only tomato plants grown from seeds which meet the requirements of Implementing Regulation (EU) 2019/2072 or, if vegetatively propagated, from tomato plants produced from such seeds and grown under official control, for all tomato crops within that demarcated area;
+
+(v) they shall conduct the survey as provided for in Article 3(1);
+
+(b) in cases where surface water has been designated as infected pursuant to Article 5(4), third subparagraph, point (a), or liable to be infected pursuant to Article 5(4), third subparagraph, point (b), or included in the elements to be considered in the determination of the possible spread of the specified pest in accordance with point 2 of Annex IV:
+
+(i) they shall conduct the annual survey at appropriate times, including sampling of surface water and where appropriate, of wild solanaceous host plants in the relevant water sources and they shall ensure that samples are subject to tests referred to in Annex I;
+
+(ii) they shall introduce official controls on irrigation and spraying programmes, including a ban on the use of the water designated as infected and of water liable to be infected for the irrigation and spraying of specified plants, and, where appropriate, other cultivated solanaceous host plants in order to prevent the spread of the specified pest;
+
+(iii) in cases where liquid waste discharges are infected, they shall introduce official controls on the disposal of solid or liquid waste discharges from industrial processing or packaging stations handling specified plants of the places of production;
+
+(c) in cases referred to in the introductory phrase of point (b), the following derogations shall apply:
+
+(i) by way of derogation from point (b)(i), Member States may decide to not conduct annual surveys of surface water that has been designated as infected or liable to be infected, as long as there is no indication of change of pest status in the demarcated area;
+
+(ii) by way of derogation from point (b)(ii), the use of water subject to that ban may be permitted in greenhouses, under official control, for irrigation and spraying of tomato plants and other host plants intended for final consumption and processing, provided that the water is disinfected by using appropriate methods or is found free from the pest following intensive sampling and testing.
+
+(3) They shall establish a programme, where appropriate, for the replacement of all stocks of tubers for planting over an appropriate period of time.
+
+## ANNEX VI
+
+**Requirements for officially approved waste disposal as referred to in point (1) of Annex V**
+
+The officially approved waste disposal methods referred to in point 1 of Annex V shall comply with the following requirements:
+
+(1) Specified plant waste including rejected potatoes, potato peelings and tomatoes and any other solid waste associated with the specified plants (including soil, stones and other debris) shall be disposed by one of the following methods:
+
+(a) disposal at an officially approved dedicated waste disposal site at which there is no identifiable risk of escape of the specified pest into the environment e.g. through seepage to agricultural land or contact with water sources which could be used for irrigation of agricultural land;
+
+(b) incineration;
+
+(c) other measures, provided that it has been established that there is no identifiable risk of the specified pest spreading; such measures to be notified to the Commission and to the other Member States.
+
+For the purposes of point (a), the waste shall be conveyed directly to the site under containment conditions such that there is no risk of loss of the waste.
+
+(2) Prior to disposal, liquid waste containing suspended solids shall be subjected to filtration or settlement processes to remove such solids, which shall be disposed in accordance with point 1.
+
+The liquid waste shall be:
+
+(a) heated to a minimum of 60 °C throughout the entire volume during at least 30 minutes prior to disposal; or
+
+(b) otherwise disposed of subject to official approval and under official control such that there is no identifiable risk that the waste could come into contact with agricultural land or water sources which could be used for irrigation of agricultural land.
+
+( 1 ) Pastrik, K.H., Elphinstone, J.G., Pukall, R. (2002) Sequence analysis and detection of Ralstonia solanacearum by multiplex PCR amplification of 16S-23S ribosomal intergenic spacer region with internal positive control. European Journal of Plant Pathology 108, 831–842.
+
+( 2 ) Weller, S.A, Elphinstone, J.G., Smith, N., Boonham, N., Stead, D.E. (2000). Detection of Ralstonia solanacearum strains with a quantitative, multiplex, real-time, fluorogenic PCR (TaqMan) assay. Applied and Environmental Microbiology, 66, 2853–2858. https://journals.asm.org/doi/10.1128/AEM.66.7.2853-2858.2000
+
+( 3 ) Vreeburg, R.A.M., Bergsma-Vlami, M., Bollema, R.M., de Haan, E.G., Kooman-Gersmann, M., Smits-Mastebroek, L., Tameling, W.I.L., Tjou-Tam-Sin, N.N.A., van de Vossenberg B.T.L.H, Janse, J.D. (2016). Performance of real-time PCR and immunofluorescence for the detection of Clavibacter michiganensis subsp. sepedonicus and Ralstonia solanacearum in potato tubers in routine testing. Bulletin OEPP/EPPO Bulletin 46, 112–121.
+
+( 4 ) Vreeburg, R., Zendman, A., Pol A., Verheij, E., Nas, M., Kooman-Gersmann, M. (2018). Validation of four real-time TaqMan PCRs for the detection of Ralstonia solanacearum and/or Ralstonia pseudosolanacearum and/or Clavibacter michiganensis subsp. sepedonicus in potato tubers using a statistical regression approach. EPPO Bulletin 48, 86–96.
+
+( 5 ) Massart, S., Nagy, C., Jijakli, M.H. (2014). Development of the simultaneous detection of Ralstonia solanacearum race 3 and Clavibacter michiganensis subsp. sepedonicus in potato tubers by a multiplex real-time PCR assay. European Journal of Plant Pathology 138, 29–37.
+
+( 6 ) Lenarčič, R., Morisset, D., Pirc, M., Llop, P., Ravnikar, M., Dreo, T. (2014). Loop-mediated isothermal amplification of specific endoglucanase gene sequence for detection of the bacterial wilt pathogen Ralstonia solanacearum. PLoS ONE 9(4), e96027. https://doi.org/10.1371/journal.pone.0096027
+
+( 7 ) Opina, N., Tavner, F., Holloway, G., Wang, J.F., Li, T.H., Maghirang, R., Fegan, M., Hayward, A.C., Viji Krishnapillai, A., Wai-Foong Hong, Holloway, B.W, Timmis, J.N. (1997). A novel method for development of species and strainspecific DNA probes and PCR primers for identifying Burkholderia solanacearum (formerly Pseudomonas solanacearum). Asia-Pacific Journal of Molecular Biology and Biotechnology 5, 19–30.
+
+( 8 ) Fegan, M., Prior, P. (2005). How complex is the ‘ Ralstonia solanacearum species complex’. In Bacterial Wilt Disease and the Ralstonia solanacearum Species Complex (eds Allen C, Hayward AC & Prior P), pp. 449–461. American Phytopathological Society, St Paul, MN (US).
+
+( 9 ) Wicker, E., Grassart, L., Coranson-Beaudu, R., Mian, D., Guilbaud, C., Fegan, M., Prior, P. (2007). Ralstonia solanacearum strains from Martinique French West Indies) exhibiting a new pathogenic potential. Applied and Environmental Microbiology 73, 6790–6801.
+
+( 10 ) van de Bilt, J.L.J., Wolsink, M.H.L., Gorkink-Smits, P.P.M.A., Landman, N.M., Bergsma-Vlami, M. (2018). Application of Matrix-Assisted Laser Desorption Ionization Time-Of-Flight Mass Spectrometry for rapid and accurate identification of Ralstonia solanacearum and Ralstonia pseudosolanacearum. European Journal of Plant Pathology, https://doi.org/10.1007/s10658-018-1517-5
+
+( 11 ) Commission Implementing Regulation (EU) 2019/2072 of 28 November 2019 establishing uniform conditions for the implementation of Regulation (EU) 2016/2031 of the European Parliament and the Council, as regards protective measures against pests of plants, and repealing Commission Regulation (EC) No 690/2008 and amending Commission Implementing Regulation (EU) 2018/2019 (OJ L 319, 10.12.2019, p. 1).

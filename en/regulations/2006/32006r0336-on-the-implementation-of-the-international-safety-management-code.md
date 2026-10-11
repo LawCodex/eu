@@ -1,0 +1,1187 @@
+---
+title: "Regulation (EC) No 336/2006 of the European Parliament and of the Council of 15 February 2006 on the implementation of the International Safety Management Code within the Community and repealing Council Regulation (EC) No 3051/95 (Text with EEA relevance)"
+identifier: "32006R0336"
+eli: "http://data.europa.eu/eli/reg/2006/336/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2006-02-15
+entry_into_force: 2006-06-15
+last_amended: 2019-07-26
+consolidated_version: "02006R0336-20190726"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02006R0336-20190726"
+retrieved: 2026-10-11
+---
+
+# Regulation (EC) No 336/2006 of the European Parliament and of the Council of 15 February 2006 on the implementation of the International Safety Management Code within the Community and repealing Council Regulation (EC) No 3051/95 (Text with EEA relevance)
+
+**REGULATION (EC) No 336/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 February 2006**
+
+**on the implementation of the International Safety Management Code within the Community and repealing Council Regulation (EC) No 3051/95**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 540/2008 of 16 June 2008 </td><td> L 157</td><td>15</td><td>17.6.2008</td></tr>
+<tr><td></td><td> REGULATION (EC) No 1137/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 October 2008 </td><td> L 311</td><td>1</td><td>21.11.2008</td></tr>
+<tr><td></td><td> REGULATION (EU) 2019/1243 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 198</td><td>241</td><td>25.7.2019</td></tr>
+</table>
+
+**REGULATION (EC) No 336/2006 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 15 February 2006**
+
+**on the implementation of the International Safety Management Code within the Community and repealing Council Regulation (EC) No 3051/95**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Objective
+
+The objective of this Regulation is to enhance the safety management and safe operation of ships as well as the prevention of pollution from ships, referred to in Article 3(1), by ensuring that companies operating those ships comply with the ISM Code by means of:
+
+(a) the establishment, implementation and proper maintenance by companies of the shipboard and shore-based safety management systems; and
+
+(b) the control thereof by flag and port State administrations.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation the following definitions shall apply:
+
+(1) ‘the ISM Code’ means the International Management Code for the Safe Operation of Ships and for Pollution Prevention adopted by the International Maritime Organisation by Assembly Resolution A.741(18) of 4 November 1993, as amended by Maritime Safety Committee Resolution MSC.104(73) of 5 December 2000 and set out in Annex I to this Regulation, in its up-to-date version;
+
+(2) ‘recognised organisation’ means a body recognised in accordance with Directive 94/57/EC;
+
+(3) ‘company’ means the owner of the ship or any other organisation or person, such as the manager or the bareboat charterer, who has assumed responsibility for the operation of the ship from the shipowner and who, on assuming such responsibility, has agreed to take over all the duties and responsibilities imposed by the ISM Code;
+
+(4) ‘passenger ship’ means a ship, including a high-speed craft, carrying more than 12 passengers, or a passenger submersible craft;
+
+(5) ‘passenger’ means every person other than:
+
+(a) the master and the members of the crew or other persons employed or engaged in any capacity on board a ship on the business of that ship; and
+
+(b) a child under one year of age;
+
+(6) ‘high-speed craft’ means a high-speed craft as defined in Regulation X-1/2 of SOLAS, in its up-to-date version. For high-speed passenger craft, the limitations indicated in Article 2(f) of Directive 98/18/EC shall apply;
+
+(7) ‘cargo ship’ means a ship, including a high-speed craft, which is not a passenger ship;
+
+(8) ‘international voyage’ means a voyage by sea from a port of a Member State or any other State to a port outside that State, or vice versa;
+
+(9) ‘domestic voyage’ means a voyage in sea areas from a port of a Member State to the same or another port within that Member State;
+
+(10) ‘regular shipping service’ means a series of ship crossings operated so as to serve traffic between the same two or more points, either:
+
+(a) according to a published timetable; or
+
+(b) with crossings so regular or frequent that they constitute a recognisable systematic series;
+
+(11) ‘ro-ro passenger ferry’ means a seagoing passenger vessel as defined in Chapter II-1 of SOLAS, in its up-to-date version;
+
+(12) ‘passenger submersible craft’ means a passenger-carrying mobile vessel which primarily operates under water and relies on surface support, such as a surface ship or shore-based facilities, for monitoring and for one or more of the following:
+
+(a) recharging of power supply;
+
+(b) recharging high pressure air;
+
+(c) recharging life-support;
+
+(13) ‘mobile offshore drilling unit’ means a vessel capable of engaging in drilling operations for the exploration for or exploitation of resources beneath the seabed such as liquid or gaseous hydrocarbons, sulphur or salt;
+
+(14) ‘gross tonnage’ means the gross tonnage of a ship determined in accordance with the International Convention on Tonnage Measurement of Ships, 1969 or, in the case of ships engaged exclusively on domestic voyages and not measured in accordance with the said Convention, the gross tonnage of the ship determined in accordance with national tonnage measurement regulations.
+
+## Article 3 — Scope
+
+1\. This Regulation shall apply to the following types of ships and to companies operating them:
+
+(a) cargo ships and passenger ships, flying the flag of a Member State, engaged on international voyages;
+
+(b) cargo ships and passenger ships engaged exclusively on domestic voyages, regardless of their flag;
+
+(c) cargo ships and passenger ships operating to or from ports of the Member States, on a regular shipping service, regardless of their flag;
+
+(d) mobile offshore drilling units operating under the authority of a Member State.
+
+2\. This Regulation shall not apply to the following types of ships or to the companies operating them:
+
+(a) ships of war and troopships and other ships owned or operated by a Member State and used only on government non-commercial service;
+
+(b) ships not propelled by mechanical means, wooden ships of primitive build, pleasure yachts and pleasure craft, unless they are or will be crewed and carrying more than 12 passengers for commercial purposes;
+
+(c) fishing vessels;
+
+(d) cargo ships and mobile offshore drilling units of less than 500 gross tonnage;
+
+(e) passenger ships, other than ro-ro passenger ferries, in sea areas of Class C and D as defined in Article 4 of Directive 98/18/EC.
+
+## Article 4 — Compliance
+
+Member States shall ensure that all companies operating ships falling within the scope of this Regulation comply with the provisions of this Regulation.
+
+## Article 5 — Safety management requirements
+
+The ships referred to in Article 3(1) and the companies operating them shall comply with the requirements of Part A of the ISM Code.
+
+## Article 6 — Certification and verification
+
+For the purposes of certification and verification, Member States shall comply with the provisions of Part B of the ISM Code.
+
+## Article 7 — Derogation
+
+1\. A Member State may, if it considers it difficult in practice for companies to comply with paragraphs 6, 7, 9, 11 and 12 of Part A of the ISM Code for certain ships or categories of ships exclusively engaged on domestic voyages in that Member State, derogate wholly or partly from those provisions by imposing measures ensuring equivalent achievement of the objectives of the Code.
+
+2\. A Member State may, for ships and companies for which a derogation has been adopted by virtue of paragraph 1, if it considers it difficult in practice to apply the requirements laid down in Article 6, establish alternative certification and verification procedures.
+
+3\. In the circumstances set out in paragraph 1 and, if applicable, paragraph 2, the following procedure shall apply:
+
+(a) the Member State concerned shall notify the Commission of the derogation and of the measures which it intends to adopt;
+
+(b) if, within six months of the notification, it is decided, in accordance with the procedure referred to in Article 12(2), that the proposed derogation is not justified or that the proposed measures are not sufficient, the Member State shall be required to amend or refrain from adopting the proposed provisions;
+
+(c) the Member State shall make any adopted measures public with a direct reference to paragraph 1 and, if applicable, paragraph 2.
+
+4\. Following a derogation under paragraph 1 and, if applicable, paragraph 2, the Member State concerned shall issue a certificate in accordance with the second subparagraph of Annex II, Part B, Section 5, indicating the applicable operational limitations.
+
+## Article 8 — Validity, acceptance and recognition of certificates
+
+1\. The Document of Compliance shall remain valid for up to five years from the date of its issue. The Safety Management Certificate shall remain valid for up to five years from the date of its issue.
+
+2\. In cases of renewal of the Document of Compliance and the Safety Management Certificate, the relevant provisions of Part B of the ISM Code shall apply.
+
+3\. Member States shall accept Documents of Compliance, Interim Documents of Compliance, Safety Management Certificates and Interim Safety Management Certificates issued by the administration of any other Member State or on behalf of this administration by a recognised organisation.
+
+4\. Member States shall accept Documents of Compliance, Interim Documents of Compliance, Safety Management Certificates and Interim Safety Management Certificates issued by, or on behalf of, the administrations of third countries.
+
+However, for ships engaged on a regular shipping service, compliance with the ISM Code by the Documents of Compliance, Interim Documents of Compliance, Safety Management Certificates and Interim Safety Management Certificates issued on behalf of administrations of third countries shall be verified, by any appropriate means, by or on behalf of the Member State(s) concerned, unless they were issued by the administration of a Member State or by a recognised organisation.
+
+## Article 9 — Penalties
+
+Member States shall lay down the rules on penalties applicable to infringements of this Regulation and shall take all the measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+## Article 10 — Reporting
+
+1\. Member States shall report to the Commission every two years on the implementation of this Regulation.
+
+2\. The Commission shall, in accordance with the procedure referred to in Article 12(2), establish a harmonised specimen form for such reports.
+
+3\. The Commission shall, with the assistance of the European Maritime Safety Agency and within six months of receiving the reports from Member States, prepare a consolidated report concerning the implementation of this Regulation, with any proposed measures, if appropriate. This report shall be addressed to the European Parliament and the Council.
+
+## Article 11 — Amendments
+
+1\. Amendments to the ISM Code may be excluded from the scope of this Regulation pursuant to Article 5 of Regulation (EC) No 2099/2002 of the European Parliament and of the Council of 5 November 2002 establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) ( 1 ).
+
+2\. Within the scope of this Regulation as defined in Article 3, the Commission is empowered to adopt delegated acts in accordance with Article 11a amending Annex II in order to take account of developments at international level and in particular in the IMO, or to improve the effectiveness of this Regulation in the light of the experience gained in its implementation.
+
+## Article 11a — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 11(2) shall be conferred on the Commission for a period of five years from 26 July 2019. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 11(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making ( 2 ).
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 11(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 12 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) set up by Article 3 of Regulation (EC) No 2099/2002 of the European Parliament and of the Council ( 3 )
+
+2\. Where reference is made to this paragraph, Articles 5 and 7 of Decision 1999/468/EC shall apply, having regard to the provisions of Article 8 thereof.
+
+The period provided for in Article 5(6) of Decision 1999/468/EC shall be set at two months.
+
+## Article 13 — Repeal
+
+1\. Regulation (EC) No 3051/95 shall be repealed with effect from 24 March 2006.
+
+2\. Interim Documents of Compliance, Interim Safety Management Certificates, Documents of Compliance and Safety Management Certificates issued before 24 March 2006 shall remain valid until their expiry or until their next endorsement.
+
+## Article 14 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+As concerns cargo and passenger ships, which are not already required to comply with the ISM Code, this Regulation shall apply as from 24 March 2008.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — International Management Code for the Safe Operation of Ships and for Pollution Prevention (International Safety Management (ISM) Code)
+
+<table>
+<tr><td colspan="2">Part A — Implementation</td></tr>
+<tr><td>1.</td><td>General</td></tr>
+<tr><td>1.1.</td><td>Definitions</td></tr>
+<tr><td>1.2.</td><td>Objectives</td></tr>
+<tr><td>1.3.</td><td>Application</td></tr>
+<tr><td>1.4.</td><td>Functional requirements for a safety management system (SMS)</td></tr>
+<tr><td>2.</td><td>Safety and environmental protection policy</td></tr>
+<tr><td>3.</td><td>Company responsibilities and authority</td></tr>
+<tr><td>4.</td><td>Designated person(s)</td></tr>
+<tr><td>5.</td><td>Master's responsibility and authority</td></tr>
+<tr><td>6.</td><td>Resources and personnel</td></tr>
+<tr><td>7.</td><td>Development of plans for shipboard operations</td></tr>
+<tr><td>8.</td><td>Emergency preparedness</td></tr>
+<tr><td>9.</td><td>Reports and analysis of non-conformities, accidents and hazardous occurrences</td></tr>
+<tr><td>10.</td><td>Maintenance of the ship and equipment</td></tr>
+<tr><td>11.</td><td>Documentation</td></tr>
+<tr><td>12.</td><td>Company verification, review and evaluation</td></tr>
+<tr><td colspan="2">Part B — Certification and verification</td></tr>
+<tr><td>13.</td><td>Certification and periodical verification</td></tr>
+<tr><td>14.</td><td>Interim certification</td></tr>
+<tr><td>15.</td><td>Verification</td></tr>
+<tr><td>16.</td><td>Forms of certificates</td></tr>
+</table>
+
+**INTERNATIONAL MANAGEMENT CODE FOR THE SAFE OPERATION OF SHIPS AND FOR POLLUTION PREVENTION**
+
+**(INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE)**
+
+**PART A — IMPLEMENTATION**
+
+**1\. General**
+
+1.1. Definitions
+
+The following definitions apply to Parts A and B of this Code.
+
+1.1.1. ‘International Safety Management (ISM) Code’ means the International Management Code for the Safe Operation of Ships and for Pollution Prevention as adopted by the Assembly, as may be amended by the organisation.
+
+1.1.2. ‘Company’ means the owner of the ship or any other organisation or person such as the manager or the bareboat charterer, who has assumed the responsibility for the operation of the ship from the shipowner and who on assuming such responsibility has agreed to take over all the duties and responsibility imposed by the Code.
+
+1.1.3. ‘Administration’ means the government of the State whose flag the ship is entitled to fly.
+
+1.1.4. ‘Safety management system’ means a structured and documented system enabling company personnel to implement effectively the company safety and environmental protection policy.
+
+1.1.5. ‘Document of Compliance’ means a document issued to a company which complies with the requirements of this Code.
+
+1.1.6. ‘Safety Management Certificate’ means a document issued to a ship which signifies that the company and its shipboard management operate in accordance with the approved safety management system.
+
+1.1.7. ‘Objective evidence’ means quantitative or qualitative information, records or statements of fact pertaining to safety or to the existence and implementation of a safety management system element, which is based on observation, measurement or test and which can be verified.
+
+1.1.8. ‘Observation’ means a statement of fact made during a safety management audit and substantiated by objective evidence.
+
+1.1.9. ‘Non-conformity’ means an observed situation where objective evidence indicates the non-fulfilment of a specified requirement.
+
+1.1.10. ‘Major non-conformity’ means an identifiable deviation that poses a serious threat to the safety of personnel or the ship or a serious risk to the environment that requires immediate corrective action and includes the lack of effective and systematic implementation of a requirement of this Code.
+
+1.1.11. ‘Anniversary date’ means the day and month of each year that corresponds to the date of expiry of the relevant document or certificate.
+
+1.1.12. ‘Convention’ means the International Convention for the Safety of Life at Sea, 1974 as amended.
+
+1.2. Objectives
+
+1.2.1. The objectives of the Code are to ensure safety at sea, prevention of human injury or loss of life, and avoidance of damage to the environment, in particular, to the marine environment, and to property.
+
+1.2.2. Safety management objectives of the company should, inter alia:
+
+1.2.2.1. provide for safe practices in ship operation and a safe working environment;
+
+1.2.2.2. establish safeguards against all identified risks; and
+
+1.2.2.3. continuously improve safety management skills of personnel ashore and aboard ships, including preparing for emergencies related both to safety and environmental protection.
+
+1.2.3. The safety management system should ensure:
+
+1.2.3.1. compliance with mandatory rules and regulations; and
+
+1.2.3.2. that applicable codes, guidelines and standards recommended by the organisation, administrations, classification societies and maritime industry organisations are taken into account.
+
+1.3. Application
+
+The requirements of this Code may be applied to all ships.
+
+1.4. Functional requirements for a safety management system (SMS)
+
+Every company should develop, implement and maintain a safety management system (SMS) which includes the following functional requirements:
+
+1.4.1. a safety and environmental protection policy;
+
+1.4.2. instructions and procedures to ensure safe operation of ships and protection of the environment in compliance with relevant international and flag State legislation;
+
+1.4.3. defined levels of authority and lines of communication between, and amongst, shore and shipboard personnel;
+
+1.4.4. procedures for reporting accidents and non-conformities with the provisions of this Code;
+
+1.4.5. procedures to prepare for and respond to emergency situations; and
+
+1.4.6. procedures for internal audits and management reviews.
+
+**2\. Safety and environmental protection policy**
+
+2.1. The company should establish a safety and environmental protection policy which describes how the objectives, given in paragraph 1.2, will be achieved.
+
+2.2. The company should ensure that the policy is implemented and maintained at all levels of the organisation both ship-based as well as shore-based.
+
+**3\. Company responsibilities and authority**
+
+3.1. If the entity who is responsible for the operation of the ship is other than the owner, the owner must report the full name and details of such entity to the administration.
+
+3.2. The company should define and document the responsibility, authority and interrelation of all personnel who manage, perform and verify work relating to and affecting safety and pollution prevention.
+
+3.3. The company is responsible for ensuring that adequate resources and shore-based support are provided to enable the designated person or persons to carry out their functions.
+
+**4\. Designated person(s)**
+
+To ensure the safe operation of each ship and to provide a link between the company and those on board, every company, as appropriate, should designate a person or persons ashore having direct access to the highest level of management. The responsibility and authority of the designated person or persons should include monitoring the safety and pollution prevention aspects of the operation of each ship and to ensure that adequate resources and shore-based support are applied, as required.
+
+**5\. Master's responsibility and authority**
+
+5.1. The company should clearly define and document the master's responsibility with regard to:
+
+5.1.1. implementing the safety and environmental protection policy of the company;
+
+5.1.2. motivating the crew in the observance of that policy;
+
+5.1.3. issuing appropriate orders and instructions in a clear and simple manner;
+
+5.1.4. verifying that specified requirements are observed; and
+
+5.1.5. reviewing the SMS and reporting its deficiencies to the shore-based management.
+
+5.2. The company should ensure that the SMS operating on board the ship contains a clear statement emphasising the master's authority. The company should establish in the SMS that the master has the overriding authority and the responsibility to make decisions with respect to safety and pollution prevention and to request the company's assistance as may be necessary.
+
+**6\. Resources and personnel**
+
+6.1. The company should ensure that the master is:
+
+6.1.1. properly qualified for command;
+
+6.1.2. fully conversant with the company's SMS; and
+
+6.1.3. given the necessary support so that the master's duties can be safely performed.
+
+6.2. The company should ensure that each ship is manned with qualified, certificated and medically fit seafarers in accordance with national and international requirements.
+
+6.3. The company should establish procedures to ensure that new personnel and personnel transferred to new assignments related to safety and protection of the environment are given proper familiarisation with their duties.
+
+Instructions which must be provided prior to sailing should be identified, documented and given.
+
+6.4. The company should ensure that all personnel involved in the company's SMS have an adequate understanding of relevant rules, regulations, codes and guidelines.
+
+6.5. The company should establish and maintain procedures for identifying any training which may be required in support of the SMS and ensure that such training is provided for all personnel concerned.
+
+6.6. The company should establish procedures by which the ship's personnel receive relevant information on the SMS in a working language or languages understood by them.
+
+6.7. The company should ensure that the ship's personnel are able to communicate effectively in the execution of their duties related to the SMS.
+
+**7\. Development of plans for shipboard operations**
+
+The company should establish procedures for the preparation of plans and instructions, including checklists as appropriate, for key shipboard operations concerning the safety of the ship and the prevention of pollution. The various tasks involved should be defined and assigned to qualified personnel.
+
+**8\. Emergency preparedness**
+
+8.1. The company should establish procedures to identify, describe and respond to potential emergency shipboard situations.
+
+8.2. The company should establish programmes for drills and exercises to prepare for emergency actions.
+
+8.3. The SMS should provide for measures ensuring that the company's organisation can respond at any time to hazards, accidents and emergency situations involving its ships.
+
+**9\. Reports and analysis of non-conformities, accidents and hazardous occurrences**
+
+9.1. The SMS should include procedures ensuring that non-conformities, accidents and hazardous situations are reported to the company, investigated and analysed with the objective of improving safety and pollution prevention.
+
+9.2. The company should establish procedures for the implementation of corrective action.
+
+**10\. Maintenance of the ship and equipment**
+
+10.1. The company should establish procedures to ensure that the ship is maintained in conformity with the provisions of the relevant rules and regulations and with any additional requirements which may be established by the company.
+
+10.2. In meeting these requirements the company should ensure that:
+
+10.2.1. inspections are held at appropriate intervals;
+
+10.2.2. any non-conformity is reported with its possible cause, if known;
+
+10.2.3. appropriate corrective action is taken; and
+
+10.2.4. records of these activities are maintained.
+
+10.3. The company should establish procedures in the SMS to identify equipment and technical systems the sudden operational failure of which may result in hazardous situations. The SMS should provide for specific measures aimed at promoting the reliability of such equipment or systems. These measures should include the regular testing of stand-by arrangements and equipment or technical systems that are not in continuous use.
+
+10.4. The inspections mentioned in 10.2 as well as the measures referred to in 10.3 should be integrated in the ship's operational maintenance/routine.
+
+**11\. Documentation**
+
+11.1. The company should establish and maintain procedures to control all documents and data, which are relevant to the SMS.
+
+11.2. The company should ensure that:
+
+11.2.1. valid documents are available at all relevant locations;
+
+11.2.2. changes to documents are reviewed and approved by authorised personnel; and
+
+11.2.3. obsolete documents are promptly removed.
+
+11.3. The documents used to describe and implement the SMS may be referred to as the ‘safety management manual’. Documentation should be kept in a form that the company considers most effective. Each ship should carry on board all documentation relevant to that ship.
+
+**12\. Company verification, review and evaluation**
+
+12.1. The company should carry out internal safety audits to verify whether safety and pollution prevention activities comply with the SMS.
+
+12.2. The company should periodically evaluate the efficiency and when needed review the SMS in accordance with procedures established by the company.
+
+12.3. The audits and possible corrective actions should be carried out in accordance with documented procedures.
+
+12.4. Personnel carrying out audits should be independent of the areas being audited unless this is impracticable due to the size and the nature of the company.
+
+12.5. The results of the audits and reviews should be brought to the attention of all personnel having responsibility in the area involved.
+
+12.6. The management personnel responsible for the area involved should take timely corrective action on deficiencies found.
+
+**PART B — CERTIFICATION AND VERIFICATION**
+
+**13\. Certification and periodical verification**
+
+13.1. The ship should be operated by a company which has been issued with a Document of Compliance or with an Interim Document of Compliance in accordance with paragraph 14.1, relevant to that ship.
+
+13.2. The Document of Compliance should be issued by the administration, by an organisation recognised by the administration or, at the request of the administration, by another contracting government to the Convention to any company complying with the requirements of this Code for a period specified by the administration which should not exceed five years. Such a document should be accepted as evidence that the company is capable of complying with the requirements of this Code.
+
+13.3. The Document of Compliance is only valid for the ship types explicitly indicated in the document. Such indication should be based on the types of ships on which the initial verification was based. Other ship types should only be added after verification of the company's capability to comply with the requirements of this Code applicable to such ship types. In this context, ship types are those referred to in Regulation IX/1 of the Convention.
+
+13.4. The validity of a Document of Compliance should be subject to annual verification by the administration or by an organisation recognised by the administration or, at the request of the administration by another contracting government within three months before or after the anniversary date.
+
+13.5. The Document of Compliance should be withdrawn by the administration or, at its request, by the contracting government which issued the document, when the annual verification required in paragraph 13.4 is not requested or if there is evidence of major non-conformities with this Code.
+
+13.5.1. All associated Safety Management Certificates and/or Interim Safety Management Certificates should also be withdrawn if the Document of Compliance is withdrawn.
+
+13.6. A copy of the Document of Compliance should be placed on board in order that the master of the ship, if so requested, may produce it for verification by the administration or by an organisation recognised by the administration or for the purposes of the control referred to in Regulation IX/6.2 of the Convention. The copy of the document is not required to be authenticated or certified.
+
+13.7. The Safety Management Certificate should be issued to a ship for a period which should not exceed five years by the administration or an organisation recognised by the administration or, at the request of the administration, by another contracting government. The Safety Management Certificate should be issued after verifying that the company and its shipboard management operate in accordance with the approved safety management system. Such a certificate should be accepted as evidence that the ship is complying with the requirements of this Code.
+
+13.8. The validity of the Safety Management Certificate should be subject to at least one intermediate verification by the administration or an organisation recognised by the administration or, at the request of the administration, by another contracting government. If only one intermediate verification is to be carried out and the period of validity of the Safety Management Certificate is five years, it should take place between the second and third anniversary date of the Safety Management Certificate.
+
+13.9. In addition to the requirements of paragraph 13.5.1, the Safety Management Certificate should be withdrawn by the administration or, at the request of the administration, by the contracting government which has issued it when the intermediate verification required in paragraph 13.8 is not requested or if there is evidence of major non-conformity with this Code.
+
+13.10. Notwithstanding the requirements of paragraphs 13.2 and 13.7, when the renewal verification is completed within three months before the expiry date of the existing Document of Compliance or Safety Management Certificate, the new Document of Compliance or the new Safety Management Certificate should be valid from the date of completion of the renewal verification for a period not exceeding five years from the date of expiry of the existing Document of Compliance or Safety Management Certificate.
+
+13.11. When the renewal verification is completed more than three months before the expiry date of the existing Document of Compliance or Safety Management Certificate, the new Document of Compliance or the new Safety Management Certificate should be valid from the date of completion of the renewal verification for a period not exceeding five years from the date of completion of the renewal verification.
+
+**14\. Interim certification**
+
+14.1. An Interim Document of Compliance may be issued to facilitate initial implementation of this Code when:
+
+1\. a company is newly established; or
+
+2\. new ship types are to be added to an existing Document of Compliance, following verification that the company has a safety management system that meets the objectives of paragraph 1.2.3 of this Code, provided the company demonstrates plans to implement a safety management system meeting the full requirements of this Code within the period of validity of the Interim Document of Compliance. Such an Interim Document of Compliance should be issued for a period not exceeding 12 months by the administration or by an organisation recognised by the administration or, at the request of the administration, by another contracting government. A copy of the Interim Document of Compliance should be placed on board in order that the master of the ship, if so requested, may produce it for verification by the administration or by an organisation recognised by the administration or for the purposes of the control referred to in Regulation IX/6.2 of the Convention. The copy of the document is not required to be authenticated or certified.
+
+14.2. An Interim Safety Management Certificate may be issued:
+
+1\. to new ships on delivery;
+
+2\. when a company takes on responsibility for the operation of a ship which is new to the company; or
+
+3\. when a ship changes flag.
+
+Such an Interim Safety Management Certificate should be issued for a period not exceeding six months by the administration or an organisation recognised by the administration or, at the request of the administration, by another contracting government.
+
+14.3. An administration or, at the request of the administration, another contracting government may, in special cases, extend the validity of an Interim Safety Management Certificate for a further period which should not exceed six months from the date of expiry.
+
+14.4. An Interim Safety Management Certificate may be issued following verification that:
+
+1\. the Document of Compliance, or the Interim Document of Compliance, is relevant to the ship concerned;
+
+2\. the Safety management system provided by the company for the ship concerned includes key elements of this Code and has been assessed during the audit for issuance of the Document of Compliance or demonstrated for issuance of the Interim Document of Compliance;
+
+3\. the company has planned the audit of the ship within three months;
+
+4\. the master and officers are familiar with the safety management system and the planned arrangements for its implementation;
+
+5\. instructions, which have been identified as being essential, are provided prior to sailing; and
+
+6\. relevant information on the safety management system has been given in a working language or languages understood by the ship's personnel.
+
+**15\. Verification**
+
+15.1. All verifications required by the provisions of this Code should be carried out in accordance with procedures acceptable to the administration, taking into account the guidelines developed by the organisation ( 4 ).
+
+**16\. Forms of certificates**
+
+16.1. The Document of Compliance, the Safety Management Certificate, the Interim Document of Compliance and the Interim Safety Management Certificate should be drawn up in a form corresponding to the models given in the appendix to this Code. If the language used is neither English nor French, the text should include a translation into one of these languages.
+
+16.2. In addition to the requirements of paragraph 13.3 the ship types indicated on the Document of Compliance and the Interim Document of Compliance may be endorsed to reflect any limitations in the operations of the ships described in the safety management system.
+
+## Appendix — Forms of the Document of Compliance, the Safety Management Certificate, the Interim Document of Compliance and the Interim Safety Management Certificate
+
+**DOCUMENT OF COMPLIANCE**
+
+(Official seal)/(State)
+
+Certificate No
+
+Issued under the provisions of the
+
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, as amended
+
+Under the authority of the Government of …
+
+(name of the State)
+
+by …
+
+(person or organisation authorised)
+
+Name and address of the company:
+
+…
+
+…
+
+(see paragraph 1.1.2 of the ISM Code)
+
+THIS IS TO CERTIFY THAT the safety management system of the company has been audited and that it complies with the requirements of the International Management Code for the Safe Operation of Ships and for Pollution Prevention (ISM Code) for the types of ships listed below (delete as appropriate):
+
+Passenger ship
+
+Passenger high-speed craft
+
+Cargo high-speed craft
+
+Bulk carrier
+
+Oil tanker
+
+Chemical tanker
+
+Gas carrier
+
+Mobile offshore drilling unit
+
+Other cargo ship
+
+This Document of Compliance is valid until ………, subject to periodical verification.
+
+Issued at …
+
+(place of issue of the document)
+
+Date of issue …
+
+…
+
+(Signature of the duly authorised official issuing the document)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+**Certificate No**
+
+**ENDORSEMENT FOR ANNUAL VERIFICATION**
+
+THIS IS TO CERTIFY THAT, at the periodical verification in accordance with Regulation IX/6.1 of the Convention and paragraph 13.4 of the ISM Code, the safety management system was found to comply with the requirements of the ISM Code.
+
+| 1st ANNUAL VERIFICATION | Signed: … |
+| --- | --- |
+|  | (Signature of authorised official) |
+|  | Place: … |
+|  | Date: … |
+| 2nd ANNUAL VERIFICATION | Signed: … |
+|  | (Signature of authorised official) |
+|  | Place: … |
+|  | Date: … |
+| 3rd ANNUAL VERIFICATION | Signed: … |
+|  | (Signature of authorised official) |
+|  | Place: … |
+|  | Date: … |
+| 4th ANNUAL VERIFICATION | Signed: … |
+|  | (Signature of authorised official) |
+|  | Place: … |
+|  | Date: … |
+
+**SAFETY MANAGEMENT CERTIFICATE**
+
+(Official seal)/(State)
+
+Certificate No
+
+Issued under the provisions of the
+
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, as amended
+
+Under the authority of the Government of …
+
+(name of the State)
+
+by …
+
+(person or organisation authorised)
+
+Name of ship: …
+
+Distinctive number or letters: …
+
+Port of registry: …
+
+Type of ship ( *1 ): …
+
+Gross tonnage: …
+
+IMO number: …
+
+Name and address of company: …
+
+(see paragraph 1.1.2 of the ISM Code)
+
+THIS IS TO CERTIFY THAT the safety management system of the ship has been audited and that it complies with the requirements of the International Management Code for the Safe Operation of Ships and for Pollution Prevention (ISM Code), following verification that the Document of Compliance for the company is applicable to this type of ship.
+
+This Safety Management Certificate is valid until …, subject to periodical verification and the Document of Compliance remaining valid.
+
+Issued at …
+
+(place of issue of the document)
+
+Date of issue …
+
+(Signature of the duly authorised official issuing the certificate)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+**Certificate No**
+
+**ENDORSEMENT FOR INTERMEDIATE VERIFICATION AND ADDITIONAL VERIFICATION (IF REQUIRED)**
+
+THIS IS TO CERTIFY THAT, at the periodical verification in accordance with Regulation IX/6.1 of the Convention and paragraph 13.8 of the ISM Code, the safety management system was found to comply with the requirements of the ISM Code.
+
+<table>
+<tbody><tr><td rowspan="4">INTERMEDIATE VERIFICATION (to be completed between the second and third anniversary date)</td><td>Signed: …</td></tr>
+<tr><td>(Signature of authorised official)</td></tr>
+<tr><td>Place: …</td></tr>
+<tr><td>Date: …</td></tr>
+<tr><td>ADDITIONAL VERIFICATION (*1)</td><td>Signed: …</td></tr>
+<tr><td>  </td><td>(Signature of authorised official)</td></tr>
+<tr><td>  </td><td>Place: …</td></tr>
+<tr><td>  </td><td>Date: …</td></tr>
+<tr><td>ADDITIONAL VERIFICATION (*1)</td><td>Signed: …</td></tr>
+<tr><td>  </td><td>(Signature of authorised official)</td></tr>
+<tr><td>  </td><td>Place: …</td></tr>
+<tr><td>  </td><td>Date: …</td></tr>
+<tr><td>ADDITIONAL VERIFICATION (*1)</td><td>Signed: …</td></tr>
+<tr><td>  </td><td>(Signature of authorised official)</td></tr>
+<tr><td>  </td><td>Place: …</td></tr>
+<tr><td>  </td><td>Date: …</td></tr>
+<tr><td colspan="2">(*1)  If applicable. Reference is made to paragraph 3.4.1 of the Guidelines on Implementation of the International Safety Management (ISM) Code by Administrations (Resolution A.913(22)). </td></tr>
+</tbody>
+</table>
+
+**INTERIM DOCUMENT OF COMPLIANCE**
+
+(Official seal)/(State)
+
+Certificate No
+
+Issued under the provisions of the
+
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, as amended
+
+Under the authority of the Government of …
+
+(name of the State)
+
+by …
+
+(person or organisation authorised)
+
+Name and address of the company: …
+
+(see paragraph 1.1.2 of the ISM Code)
+
+THIS IS TO CERTIFY THAT the safety management system of the company has been recognised as meeting the objectives of paragraph 1.2.3 of the International Management Code for the Safe Operation of Ships and for Pollution Prevention (ISM Code), for the type(s) of ships listed below (delete as appropriate):
+
+Passenger ship
+
+Passenger high-speed craft
+
+Cargo high-speed craft
+
+Bulk carrier
+
+Oil tanker
+
+Chemical tanker
+
+Gas carrier
+
+Mobile offshore drilling unit
+
+Other cargo ship
+
+This Interim Document of Compliance is valid until:
+
+Issued at: …
+
+(Place of issue of the document)
+
+Date of issue: …
+
+(Signature of the duly authorised official issuing the document)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+**INTERIM SAFETY MANAGEMENT CERTIFICATE**
+
+(Official seal)/(State)
+
+Certificate No
+
+Issued under the provisions of the
+
+INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974,
+
+as amended
+
+Under the authority of the Government of …
+
+(name of the State)
+
+by …
+
+(person or organisation authorised)
+
+Name of ship: …
+
+Distinctive number or letters: …
+
+Port of registry: …
+
+Type of ship ( *2 ): …
+
+Gross tonnage: …
+
+IMO number: …
+
+Name and address of company: …
+
+…
+
+(see paragraph 1.1.2 of the ISM Code)
+
+THIS IS TO CERTIFY THAT the requirements of paragraph 14.4 of the ISM Code have been met and that the Document of Compliance/Interim Document of Compliance ( *3 ) of the company is relevant to this ship.
+
+This Interim Safety Management Certificate is valid until …
+
+subject to the Document of Compliance/Interim Document of Compliance (*3) remaining valid.
+
+Issued at …
+
+(place of issue of the document)
+
+Date of issue: …
+
+(Signature of the duly authorised official issuing the certificate)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+Certificate No
+
+The validity of this Interim Safety Management Certificate is extended to: …
+
+Date of extension: …
+
+(Signature of the duly authorised official extending the validity)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+## ANNEX II — PROVISIONS FOR THE ADMINISTRATION CONCERNING THE IMPLEMENTATION OF THE INTERNATIONAL SAFETY MANAGEMENT (ISM) CODE
+
+Part A General provisions
+
+Part B Certification and standards
+
+2\. Certification process
+
+3\. Standard of management
+
+4\. Standards of competence
+
+5\. Form of Document of Compliance and Safety Management Certificate
+
+**PART A — GENERAL PROVISIONS**
+
+1.1. When carrying out verifications and certification tasks required by the provisions of the ISM Code for ships falling within the scope of this Regulation, Member States shall comply with the requirements and standards laid down in Part B of this Title.
+
+1.2. In addition Member States shall take due account of the provisions of the Revised Guidelines on the Implementation of the International Safety Management (ISM) Code by Administrations, adopted by the IMO through Resolution A.913(22) of 29 November 2001, as far as they are not covered under Part B of this Title.
+
+**PART B — CERTIFICATION AND STANDARDS**
+
+**2\. Certification process**
+
+2.1. The certification process relevant for the issuance of a document of compliance for a company and a safety management certificate to each ship shall be performed taking account of the provisions set out below.
+
+2.2. The certification process shall normally involve the following steps:
+
+1\. initial verification;
+
+2\. annual or intermediate verification;
+
+3\. renewal verification; and
+
+4\. additional verification.
+
+These verifications are carried out at the request of the company to the administration or to the recognised organisation when acting on behalf of the administration.
+
+2.3. The verifications shall include a safety management audit.
+
+2.4. A lead auditor and, if relevant, an audit team, shall be nominated to perform the audit.
+
+2.5. The nominated lead auditor shall liaise with the company and produce an audit plan.
+
+2.6. An audit report shall be prepared under the direction of the lead auditor, who is responsible for its accuracy and completeness.
+
+2.7. The audit report shall include the audit plan, identification of audit team members, dates and identification of the company, records of any observations and non-conformities and observations on the effectiveness of the safety management system in meeting the specified objectives.
+
+**3\. Standard of management**
+
+3.1. Auditors or the audit team managing verification of compliance with the ISM Code shall have competence in relation to:
+
+1\. ensuring compliance with the rules and regulations including certification of seafarers, for each type of ship operated by the company;
+
+2\. approval, survey and certification activities relevant for the maritime certificates;
+
+3\. the terms of reference that must be taken into account under the safety management system as required by the ISM Code; and
+
+4\. practical experience of ship operation.
+
+3.2. In performing verification of compliance with the provisions of the ISM Code it shall be ensured that independence exists between the personnel providing consultancy services and those involved in the certification procedure.
+
+**4\. Standards of competence**
+
+4.1. Basic competence for performing verification
+
+4.1.1. Personnel who are to participate in the verification of compliance with the requirements of the ISM Code shall fulfil the minimum criteria for inspectors as laid down in Section 2 of Annex VII to Directive 95/21/EC.
+
+4.1.2. They shall have undergone training to ensure adequate competence and skills for performing verification of compliance with the requirements of the ISM Code, particularly with regard to:
+
+(a) knowledge and understanding of the ISM Code;
+
+(b) mandatory rules and regulations;
+
+(c) the terms of reference which the ISM Code requires that companies should take into account;
+
+(d) assessment techniques of examining, questioning, evaluating and reporting;
+
+(e) technical or operational aspects of safety management;
+
+(f) basic knowledge of shipping and shipboard operations; and
+
+(g) participation in at least one marine related management system audit.
+
+4.2. Competence for initial verification and renewal verification
+
+4.2.1. In order to assess fully whether the company or each type of ship complies with the requirements of the ISM Code, in addition to the basic competence stated above, personnel who are to perform initial verifications or renewal verifications for a document of compliance and a safety management certificate, must possess the competence to:
+
+(a) determine whether or not the elements of the safety management system (SMS) conform with the ISM Code;
+
+(b) determine the effectiveness of the company's SMS, or that of each type of ship, to ensure compliance with rules and regulations as evidenced by the statutory and classification survey records;
+
+(c) assess the effectiveness of the SMS in ensuring compliance with other rules and regulations which are not covered by statutory and classification surveys and enabling verification of compliance with these rules and regulations; and
+
+(d) assess whether the safe practices recommended by the IMO, administrations, classification societies and maritime industry organisations have been taken into account.
+
+4.2.2. This competence can be accomplished by teams, which together possess the total competence required.
+
+**5\. Form of Documents of Compliance and Safety Management Certificates**
+
+When ships operate only in a Member State, Member Sates shall either use the forms attached to the ISM Code or the Document of Compliance, the Safety Management Certificate, the Interim Document of Compliance and the Interim Safety Management Certificate drawn up in the form set out below.
+
+In the event of a derogation under Article 7(1) and, if applicable, Article 7(2), the certificate issued shall be different from the one referred to above and clearly indicate that a derogation in accordance with Article 7(1) and, if applicable, Article 7(2) of this Regulation, has been granted and shall include the applicable operational limitations.
+
+**DOCUMENT OF COMPLIANCE**
+
+(Official seal)/(State)
+
+Certificate No
+
+Issued under the provisions of [the INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, as amended and] ( *4 ) of Regulation (EC) No 336/2006 on the implementation of the ISM Code within the Community
+
+Under the authority of the Government of …
+
+(Name of the State)
+
+by …
+
+(person or organisation authorised)
+
+Name and address of the Company
+
+…
+
+(see paragraph 1.1.2 of Part A of Annex I to Regulation (EC) No 336/2006)
+
+THIS IS TO CERTIFY THAT the safety management system of the Company has been audited and that it complies with the requirements of the International Management Code for the Safe Operation of Ships and for Pollution Prevention (ISM Code) for the types of ships listed below (delete as appropriate):
+
+Passenger ship
+
+Passenger high-speed craft
+
+Cargo high-speed craft
+
+Bulk carrier
+
+Oil tanker
+
+Chemical tanker
+
+Gas carrier
+
+Mobile offshore drilling unit
+
+Other cargo ship
+
+Ro-ro passenger ship (ro-ro ferry)
+
+This Document of Compliance is valid until …, subject to periodical verification.
+
+Completion date of the verification on which this certificate is based …
+
+(dd/mm/yyyy)
+
+Issued at …
+
+(place of issue of the document)
+
+Date of issue …
+
+…
+
+(Signature of the duly authorised official issuing the document)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+**Certificate No**
+
+**ENDORSEMENT FOR ANNUAL VERIFICATION**
+
+THIS IS TO CERTIFY THAT, at the periodical verification in accordance with [Regulation IX/6.1 of the Convention and paragraph 13.4 of the ISM Code and] ( *5 ) Article 6 of Regulation (EC) No 336/2006 on the implementation of the ISM Code within the Community, the safety management system was found to comply with the requirements of the ISM Code.
+
+| FIRST ANNUAL VERIFICATION | Signed: … (Signature of authorised official) Place: … Date: … |
+| --- | --- |
+
+| SECOND ANNUAL VERIFICATION | Signed: … (Signature of authorised official) Place: … Date: … |
+| --- | --- |
+
+| THIRD ANNUAL VERIFICATION | Signed: … (Signature of authorised official) Place: … Date: … |
+| --- | --- |
+
+| FOURTH ANNUAL VERIFICATION | Signed: … (Signature of authorised official) Place: … Date: … |
+| --- | --- |
+
+**SAFETY MANAGEMENT CERTIFICATE**
+
+(Official seal)/(State)
+
+Certificate No
+
+Issued under the provisions of [the INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, as amended] and ( *6 ) of Regulation (EC) No 336/2006 on the implementation of the ISM Code within the Community
+
+Under the authority of the Government of …
+
+(name of the State)
+
+by …
+
+(person or organisation authorised)
+
+Name of ship: …
+
+Distinctive number or letters: …
+
+Port of registry: …
+
+Type of ship ( *7 ): …
+
+Gross tonnage: …
+
+IMO Number: …
+
+Name and address of company: …
+
+(see paragraph 1.1.2 of Part A of Annex I to Regulation (EC) No 336/2006)
+
+THIS IS TO CERTIFY THAT the safety management system of the ship has been audited and that it complies with the requirements of the International Management Code for the Safe Operation of Ships and for Pollution Prevention (ISM Code), following verification that the Document of Compliance for the Company is applicable to this type of ship.
+
+This Safety Management Certificate is valid until …, subject to periodical verification and the Document of Compliance remaining valid.
+
+Completion date of the verification on which this certificate is based …
+
+(dd/mm/yyyy)
+
+Issued at …
+
+(place of issue of the document)
+
+Date of issue …
+
+…
+
+(Signature of the duly authorised official issuing the certificate)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+**Certificate No**
+
+**ENDORSEMENT FOR INTERMEDIATE VERIFICATION AND ADDITIONAL VERIFICATION (IF REQUIRED)**
+
+THIS IS TO CERTIFY THAT, at the periodical verification in accordance with [Regulation IX/6.1 of the Convention and paragraph 13.8 of the ISM Code and] ( *8 ) Article 6 of Regulation (EC) No 336/2006 on the implementation of the ISM Code within the Community, the safety management system was found to comply with the requirements of the ISM Code.
+
+| INTERMEDIATE VERIFICATION (to be completed between the second and third anniversary date) | Signed: … (Signature of authorised official) Place: … Date: … |
+| --- | --- |
+
+| ADDITIONAL VERIFICATION ( *9 ) | Signed: … (Signature of authorised official) Place: … Date: … |
+| --- | --- |
+
+| ADDITIONAL VERIFICATION (*9) | Signed: … (Signature of authorised official) Place: … Date: … |
+| --- | --- |
+
+| ADDITIONAL VERIFICATION (*9) | Signed: … (Signature of authorised official) Place: … Date: … |
+| --- | --- |
+
+**INTERIM DOCUMENT OF COMPLIANCE**
+
+(Official seal)/(State)
+
+Certificate No
+
+Issued under the provisions of [the INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, as amended and] ( *10 ) of Regulation (EC) No 336/2006 on the implementation of the ISM Code within the Community
+
+Under the authority of the Government of …
+
+(name of the State)
+
+by …
+
+(person or organisation authorised)
+
+Name and address of the Company
+
+…
+
+(see paragraph 1.1.2 of Part A of Annex I to Regulation (EC) No 336/2006)
+
+THIS IS TO CERTIFY THAT the safety management system of the Company has been recognised as meeting the objectives of paragraph 1.2.3 of Part A of Annex I to Regulation (EC) No 336/2006 for the type(s) of ships listed below (delete as appropriate):
+
+Passenger ship
+
+Passenger high-speed craft
+
+Cargo high-speed craft
+
+Bulk carrier
+
+Oil tanker
+
+Chemical tanker
+
+Gas carrier
+
+Mobile offshore drilling unit
+
+Other cargo ship
+
+Ro-ro passenger ship (ro-ro ferry)
+
+This Interim Document of Compliance is valid until …
+
+Issued at: …
+
+(place of issue of the document)
+
+Date of issue: …
+
+(Signature of the duly authorised official issuing the document)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+**INTERIM SAFETY MANAGEMENT CERTIFICATE**
+
+(Official seal)/(State)
+
+Certificate No
+
+Issued under the provisions of [the INTERNATIONAL CONVENTION FOR THE SAFETY OF LIFE AT SEA, 1974, as amended and] ( *11 ) of Regulation (EC) No 336/2006 on the implementation of the ISM Code within the Community
+
+Under the authority of the Government of …
+
+(name of the State)
+
+by …
+
+(person or organisation authorised)
+
+Name of ship: …
+
+Distinctive number or letters: …
+
+Port of registry: …
+
+Type of ship ( *12 ): …
+
+Gross tonnage: …
+
+IMO Number: …
+
+Name and address of Company: …
+
+(see paragraph 1.1.2 of Part A of Annex I to Regulation (EC) No 336/2006)
+
+THIS IS TO CERTIFY THAT the requirements of paragraph 14.4 of Part A of Annex I to Regulation (EC) No 336/2006 have been met and that the Document of Compliance/Interim Document of Compliance ( *13 ) of the Company is relevant to this ship.
+
+This Interim Safety Management Certificate is valid until … subject to the Document of Compliance/Interim Document of Compliance (*13) remaining valid.
+
+Issued at: …
+
+(place of issue of the document)
+
+Date of issue: …
+
+(Signature of the duly authorised official issuing the certificate)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+Certificate No
+
+The validity of this Interim Safety Management Certificate is extended to:
+
+Date of extension: …
+
+(Signature of the duly authorised official extending the validity)
+
+(Seal or stamp of issuing authority, as appropriate)
+
+( 1 ) OJ L 324, 29.11.2002, p. 1. Regulation as amended by Commission Regulation (EC) No 415/2004 (OJ L 68, 6.3.2004, p. 10).
+
+( 2 ) OJ L 123, 12.5.2016, p. 1.
+
+( 3 ) OJ L 324, 29.11.2002, p. 1.
+
+( 4 ) Refer to the Revised Guidelines on Implementation of the International Safety Management (ISM) Code by Administrations adopted by the organisation by Resolution A.913(22).
+
+( *1 ) Insert the type of ship from among the following: passenger ship; passenger high-speed craft; cargo high-speed craft; bulk carrier; oil tanker; chemical tanker; gas carrier; mobile offshore drilling unit; other cargo ship.
+
+( *2 ) Insert the type of ship from among the following: passenger ship; passenger high-speed craft; cargo high-speed craft; bulk carrier; oil tanker; chemical tanker; gas carrier; mobile offshore drilling unit; other cargo ship.
+
+( *3 ) Delete as appropriate.
+
+( *4 ) May be deleted for ships engaged only on voyages within one Member State.
+
+( *5 ) May be deleted for ships engaged only on voyages within one Member State.
+
+( *6 ) May be deleted for ships engaged only on voyages within one Member State.
+
+( *7 ) Insert the type of ship from among the following: passenger ship; passenger high-speed craft; cargo high-speed craft; bulk carrier; oil tanker; chemical tanker; gas carrier; mobile offshore drilling unit; other cargo ship; ro-ro passenger ferry.
+
+( *8 ) May be deleted for ships engaged only on voyages within one Member State.
+
+( *9 ) If applicable. Reference is made to paragraph 13.8 of the ISM Code and paragraph 3.4.1 of the Guidelines on Implementation of the International Safety Management (ISM) Code by Administrations (Resolution A.913(22)).
+
+( *10 ) May be deleted for ships engaged only on voyages within one Member State.
+
+( *11 ) May be deleted for ships engaged only on voyages within one Member State.
+
+( *12 ) Insert the type of ship from among the following: passenger ship; passenger high-speed craft; cargo high-speed craft; bulk carrier; oil tanker; chemical tanker; gas carrier; mobile offshore drilling unit; other cargo ship; ro-ro passenger ferry.
+
+( *13 ) Delete as appropriate.

@@ -79,6 +79,7 @@ Jean-Claude JUNCKER
 
 In Annex III to Directive 2011/65/EU, point 13(a) is replaced by the following:
 
+<table>
 <tbody><tr><td>‘13(a)</td><td>Lead in white glasses used for optical applications</td><td>Applies to all categories; expires on:<table><tbody><tr><td>—</td><td>21 July 2023 for category 8 in vitro diagnostic medical devices;</td></tr>
 </tbody>
 </table>
@@ -90,3 +91,4 @@ In Annex III to Directive 2011/65/EU, point 13(a) is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>

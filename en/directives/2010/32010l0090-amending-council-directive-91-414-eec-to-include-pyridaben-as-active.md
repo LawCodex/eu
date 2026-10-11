@@ -124,6 +124,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘318</td><td>Pyridaben CAS No: 96489-71-3  CIPAC No: 583 </td><td>2-tert-butyl-5-(4-tert-butylbenzylthio)-4-chloropyrididazin-3(2H)-one</td><td>&gt; 980 g/kg</td><td>1 May 2011</td><td>30 April 2021</td><td>PART A Only uses as insecticide and acaricide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI, the conclusions of the review report on pyridaben, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 28 October 2010 shall be taken into account.  In this overall assessment Member States shall pay particular attention to: <table><tbody><tr><td>—</td><td>the operator safety and ensure that conditions of use prescribe the application of adequate personal protective equipment where appropriate,</td></tr>
 </tbody>
@@ -145,5 +146,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  They shall ensure that the applicant provides such confirmatory information to the Commission by 30 April 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

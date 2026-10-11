@@ -30,10 +30,12 @@ amending Directives 87/404/EEC (simple pressure vessels), 88/378/EEC (safety of 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Directive 98/13/EC of the European Parliament and of the Council of 12 February 1998</td><td> L 74</td><td>1</td><td>12.3.1998</td></tr>
 <tr><td></td><td>Directive 98/37/EC of the European Parliament and of the Council of 22 June 1998</td><td> L 207</td><td>1</td><td>23.7.1998</td></tr>
+</table>
 
 Corrected by:
 

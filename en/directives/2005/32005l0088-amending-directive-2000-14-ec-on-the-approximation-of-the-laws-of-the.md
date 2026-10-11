@@ -70,6 +70,7 @@ Directive 2000/14/EC is hereby amended as follows:
 
 1\. The table in Article 12 shall be replaced by the following:
 
+<table>
 <tbody><tr><td>‘Type of equipment</td><td>Net installed power P (in kW) Electric power Pel(1) in kW  Mass of appliance m in kg  Cutting width L in cm </td><td colspan="2">Permissible sound power level in dB/1 pW</td></tr>
 <tr><td></td><td></td><td>Stage I as from 3 January 2002</td><td>Stage II as from 3 January 2006</td></tr>
 <tr><td rowspan="3">Compaction machines (vibrating rollers, vibratory plates, vibratory rammers)</td><td>P ≤ 8</td><td>108</td><td>105 (2)</td></tr>
@@ -96,6 +97,7 @@ Directive 2000/14/EC is hereby amended as follows:
 <tr><td>L&gt; 120</td><td>105</td><td>103 (2)</td></tr>
 <tr><td colspan="4">(1) Pel for welding generators: conventional welding current multiplied by the conventional load voltage for the lowest value of the duty factor given by the manufacturer. (2) The figures for stage II are merely indicative for the following types of equipment:  — walk-behind vibrating rollers;  — vibratory plates (&gt; 3kW);  — vibratory rammers;  — dozers (steel tracked);  — loaders (steel tracked &gt; 55 kW);  — combustion-engine driven counterbalanced lift trucks;  — compacting screed paver-finishers;  — hand-held internal combustion-engine concrete-breakers and picks (15&lt;m&lt;30)  — lawnmowers, lawn trimmers/lawn-edge trimmers.  (3) For single-engine mobile cranes, the figures for stage I shall continue to apply until 3 January 2008. After that date, stage II figures shall apply.  The permissible sound power level shall be rounded up or down to the nearest integer number (less than 0,5, use lower number; greater than or equal to 0,5, use higher number)’ </td></tr>
 </tbody>
+</table>
 
 2\. Article 20 shall be amended as follows:
 

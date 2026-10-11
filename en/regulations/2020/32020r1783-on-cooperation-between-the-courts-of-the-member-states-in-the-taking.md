@@ -1,0 +1,1497 @@
+---
+title: "Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) (recast)"
+identifier: "32020R1783"
+eli: "http://data.europa.eu/eli/reg/2020/1783/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2020-11-25
+entry_into_force: 2020-10-28
+last_amended: 2020-12-02
+consolidated_version: "02020R1783-20201202"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02020R1783-20201202"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) (recast)
+
+**REGULATION (EU) 2020/1783 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 November 2020**
+
+**on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence)**
+
+**(recast)**
+
+**REGULATION (EU) 2020/1783 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 25 November 2020**
+
+**on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence)**
+
+**(recast)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Scope
+
+1\. This Regulation applies in civil or commercial matters in which the court of a Member State, in accordance with the law of that Member State, requests:
+
+(a) the competent court of another Member State to take evidence; or
+
+(b) the taking of evidence directly in another Member State.
+
+2\. A request shall not be made to obtain evidence which is not intended for use in judicial proceedings that have already commenced or are being contemplated.
+
+#### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘court’ means courts and other authorities in Member States as communicated to the Commission under Article 31(3), that exercise judicial functions, that act pursuant to a delegation of power by a judicial authority or that act under the control of a judicial authority, and which are competent under national law to take evidence for the purposes of judicial proceedings in civil or commercial matters;
+
+(2) ‘decentralised IT system’ means a network of national IT systems and interoperable access points operating under the individual responsibility and management of each Member State, that enables the secure and reliable cross-border exchange of information between the national IT systems.
+
+#### Article 3 — Direct transmission between courts
+
+1\. Requests referred to in point (a) of Article 1(1) shall be transmitted by the court before which the proceedings are commenced or contemplated (‘requesting court’), directly to the competent court of another Member State (‘requested court’), for the taking of evidence.
+
+2\. Each Member State shall draw up a list of the courts competent to take evidence in accordance with this Regulation. The list shall also indicate the territorial and, where applicable, the special jurisdiction of those courts.
+
+#### Article 4 — Central body
+
+1\. Each Member State shall designate a central body that is responsible for:
+
+(a) supplying information to the courts;
+
+(b) seeking solutions to any difficulties which may arise in respect of a request;
+
+(c) forwarding, in exceptional cases, a request to the competent court at the request of a requesting court.
+
+2\. Federal Member States, Member States in which several legal systems apply and Member States with autonomous territorial units shall be free to designate more than one central body.
+
+3\. Each Member State shall also designate the central body referred to in paragraph 1 of this Article or one or more competent authorities to be responsible for taking decisions on requests made pursuant to Article 19.
+
+## CHAPTER II — TRANSMISSION AND EXECUTION OF REQUESTS
+
+### SECTION 1 — Transmission of requests
+
+#### Article 5 — Form and content of requests
+
+1\. Requests shall be made using form A or, where appropriate, form L in Annex I. Each request shall contain the following details:
+
+(a) the requesting and, where appropriate, the requested court;
+
+(b) the names and addresses of the parties to the proceedings and their representatives, if any;
+
+(c) the nature and subject matter of the case and a brief statement of the facts;
+
+(d) a description of the taking of evidence requested;
+
+(e) where the request is for the examination of a person:
+
+— the name and address of the person to be examined,
+
+— the questions to be put to the person to be examined or a statement of the facts about which that person is to be examined,
+
+— where appropriate, a reference to the right to refuse to testify under the law of the Member State of the requesting court,
+
+— any requirement that the examination be carried out under oath or affirmation instead of an oath, and any special form to be used for such oath or affirmation,
+
+— where appropriate, any other information that the requesting court deems necessary;
+
+(f) where the request is for any form of taking of evidence other than that mentioned in point (e), the documents or other objects to be inspected;
+
+(g) where appropriate, any request pursuant to Article 12(3) or (4), or Article 13 or 14 and any information necessary for the execution thereof.
+
+2\. The request and all accompanying documents shall be exempt from the need for authentication or any equivalent formality.
+
+3\. Documents which the requesting court considers necessary to enclose for the execution of the request shall be accompanied by a translation of the documents in the language in which the request was written.
+
+#### Article 6 — Language
+
+Requests and communications made pursuant to this Regulation shall be drawn up in the official language of the requested Member State or, if there are several official languages in that Member State, in the official language or one of the official languages of the place where the requested taking of evidence is to take place, or in another language which that Member State has indicated it will accept.
+
+Each Member State shall communicate to the Commission any official language of the Union other than its own in which the forms set out in Annex I may be completed.
+
+#### Article 7 — Transmission of requests and other communications
+
+1\. Requests and communications made pursuant to this Regulation shall be transmitted through a secure and reliable decentralised IT system with due respect for fundamental rights and freedoms. That decentralised IT system shall be based on an interoperable solution such as e-CODEX.
+
+2\. The general legal framework for the use of qualified trust services set out in Regulation (EU) No 910/2014 shall apply to the requests and communications transmitted through the decentralised IT system.
+
+3\. Where requests and communications referred to in paragraph 1 of this Article require or feature a seal or handwritten signature, qualified electronic seals or qualified electronic signatures as defined in Regulation (EU) No 910/2014 may be used instead.
+
+4\. Where transmission in accordance with paragraph 1 is not possible due to the disruption of the decentralised IT system or to the nature of the evidence concerned, or due to exceptional circumstances, the transmission shall be carried out by the swiftest, most appropriate alternative means, taking into account the need to ensure reliability and security.
+
+#### Article 8 — Legal effects of electronic documents
+
+Documents that are transmitted through the decentralised IT system shall not be denied legal effect or considered inadmissible as evidence in the proceedings solely on the grounds that they are in electronic form.
+
+### SECTION 2 — Receipt of requests
+
+#### Article 9 — Receipt of requests
+
+1\. Within 7 days of the receipt of a request, the requested competent court shall send an acknowledgement of receipt to the requesting court using form B in Annex I. Where the request does not comply with the conditions laid down in Articles 6 and 7, the requested court shall enter a note to that effect in the acknowledgement of receipt.
+
+2\. Where the requested court does not have jurisdiction to execute a request, made using form A in Annex I, which complies with the conditions laid down in Article 6, that court shall forward the request to the competent court of its Member State and shall inform the requesting court thereof using form C in Annex I.
+
+#### Article 10 — Incomplete requests
+
+1\. If a request cannot be executed because it does not contain all of the necessary information referred to in Article 5, the requested court shall inform the requesting court thereof without delay and, at the latest, within 30 days of receipt of the request using form D in Annex I, and shall request the requesting court to send the missing information, specifying the information missing as precisely as possible.
+
+2\. If a request cannot be executed because a deposit or advance has been requested in accordance with Article 22(3), the requested court shall inform the requesting court thereof without delay, at the latest within 30 days of receipt of the request using form D in Annex I, and shall inform the requesting court how the deposit or advance is to be made. The requested court shall acknowledge receipt of the deposit or advance without delay, at the latest within 10 days of receiving the deposit or the advance, using form E in Annex I.
+
+#### Article 11 — Completion of the request
+
+1\. If the requested court has noted on the acknowledgement of receipt pursuant to Article 9(1) that the request does not comply with the conditions laid down in Articles 6 and 7 or has informed the requesting court pursuant to Article 10 that the request cannot be executed because it does not contain all of the necessary information referred to in Article 5, the time limit laid down in Article 12 shall begin to run when the requested court has received the duly completed request.
+
+2\. Where the requested court has asked for a deposit or advance in accordance with Article 22(3), the time limit laid down in Article 12 shall begin to run when the deposit or the advance is made.
+
+### SECTION 3 — Taking of evidence by the requested court
+
+#### Article 12 — General provisions on the execution of a request
+
+1\. The requested court shall execute the request without delay and, at the latest, within 90 days of receipt of the request.
+
+2\. The requested court shall execute the request in accordance with its national law.
+
+3\. The requesting court may call for the request to be executed in accordance with a special procedure provided for in its national law, using form A in Annex I. The requested court shall execute the request in accordance with the special procedure unless doing so would be incompatible with its national law or it is unable to do so because of major practical difficulties. If the requested court does not comply with the call for the request to be executed in accordance with a special procedure for one of those reasons, it shall inform the requesting court using form H in Annex I.
+
+4\. The requesting court may ask the requested court to use specific communications technology in the taking of evidence, in particular by using videoconferencing or teleconferencing.
+
+The requested court shall use the communications technology specified pursuant to the first subparagraph unless doing so would be incompatible with its national law or the requested court is unable to do so because of major practical difficulties.
+
+If the requested court does not use the specified communications technology for one of those reasons, it shall inform the requesting court using form H in Annex I.
+
+If the communications technology referred to in the first subparagraph is not available in the requesting or in the requested court, those courts may make such communications technology available by mutual agreement.
+
+#### Article 13 — Taking of evidence with the presence and participation of the parties
+
+1\. If the law of the Member State of the requesting court so provides, the parties and their representatives, if any, shall have the right to be present at the taking of evidence by the requested court.
+
+2\. In its request, the requesting court shall inform the requested court, using form A in Annex I, that the parties and their representatives, if any, will be present and, where appropriate, that their participation in the taking of evidence is requested. This information may also be given at any other appropriate time.
+
+3\. If the participation of the parties and their representatives, if any, is requested in the taking of evidence, the requested court shall determine the conditions under which they may participate, in accordance with Article 12.
+
+4\. The requested court shall notify the parties and their representatives, if any, of the time and the place where the taking of evidence will take place and, where appropriate, of the conditions under which they may participate in the taking of evidence, using form I in Annex I.
+
+5\. Paragraphs 1 to 4 are without prejudice to the ability of the requested court to request the parties and their representatives, if any, to be present at or to participate in the taking of evidence if provided for by the law of its Member State.
+
+#### Article 14 — Taking of evidence with the presence and participation of representatives of the requesting court
+
+1\. Where compatible with the law of the Member State of the requesting court, representatives of the requesting court shall have the right to be present in the taking of evidence by the requested court.
+
+2\. For the purposes of this Article, the term ‘representative’ includes judicial personnel designated by the requesting court in accordance with its national law. The requesting court may also designate any other person, such as an expert, in accordance with its national law.
+
+3\. In its request, the requesting court shall inform the requested court, using form A in Annex I, that its representatives will be present and, where appropriate, that their participation in the taking of evidence is requested. This information may also be given at any other appropriate time.
+
+4\. If the participation of the representatives of the requesting court is requested in the taking of evidence, the requested court shall determine, in accordance with Article 12, the conditions under which they may participate.
+
+5\. The requested court shall notify the requesting court of the time and the place where the taking of evidence will take place and, where appropriate, of the conditions under which its representatives may participate in the taking of evidence, using form I in Annex I.
+
+#### Article 15 — Coercive measures
+
+Where necessary, in executing a request the requested court shall apply the appropriate coercive measures in the instances and to the extent as are provided for by the law of the Member State of the requested court for the execution of a request made for the same purpose by its national authorities or one of the parties concerned.
+
+#### Article 16 — Refusals to execute requests
+
+1\. A request for the examination of a person shall not be executed where the person concerned invokes the right to refuse to give evidence or is prohibited from giving evidence:
+
+(a) under the law of the Member State of the requested court; or
+
+(b) under the law of the Member State of the requesting court, and such right or prohibition has been specified in the request, or, if necessary, at the instance of the requested court, has been confirmed by the requesting court.
+
+2\. The execution of a request may only be refused on grounds other than those referred to in paragraph 1, where one or more of the following grounds applies:
+
+(a) the request does not fall within the scope of this Regulation;
+
+(b) the execution of the request does not fall within the functions of the judiciary under the law of the Member State of the requested court;
+
+(c) the requesting court does not comply with the request of the requested court to complete the request for the taking of evidence pursuant to Article 10 within 30 days of the requested court asking it to do so; or
+
+(d) a deposit or advance asked for in accordance with Article 22(3) is not made within 60 days of the requested court asking for such a deposit or advance.
+
+3\. A requested court shall not refuse to execute a request solely on the ground that under its national law another court of that Member State has exclusive jurisdiction over the subject matter of the case or that the law of that Member State would not admit the right of action on the subject matter.
+
+4\. If the execution of a request is refused on one of the grounds referred to in paragraph 2, the requested court shall notify the requesting court thereof within 60 days of receipt of the request by the requested court using form K in Annex I.
+
+#### Article 17 — Notification of delay
+
+If the requested court is not in a position to execute the request within 90 days of receipt of the request, it shall inform the requesting court thereof using form J in Annex I. When it does so, it shall give the grounds for the delay as well as the estimated time it expects it will need to execute the request.
+
+#### Article 18 — Procedure after the execution of the request
+
+The requested court shall send to the requesting court the documents confirming the execution of the request, without delay and, where appropriate, shall return the documents received from the requesting court. Those documents shall be accompanied by a confirmation of execution using form K in Annex I.
+
+### SECTION 4 — Direct taking of evidence by the requesting court and taking of evidence by diplomatic agents or consular officers
+
+#### Article 19 — Direct taking of evidence by the requesting court
+
+1\. Where a court requests the taking of evidence directly in another Member State, it shall submit a request to the central body or to the competent authority of that Member State, using form L in Annex I.
+
+2\. The direct taking of evidence may only take place if it can be carried out on a voluntary basis without the use of coercive measures.
+
+Where the direct taking of evidence implies that a person has to be examined, the requesting court shall inform that person that the taking of evidence shall take place on a voluntary basis.
+
+3\. The direct taking of evidence shall be carried out by a member of the judicial personnel or by any other person, such as an expert, who is designated in accordance with the law of the Member State of the requesting court.
+
+4\. Within 30 days of receiving the request for the direct taking of evidence, the central body or the competent authority of the requested Member State shall inform the requesting court as to whether the request has been accepted and, if necessary, shall inform the requesting court of the conditions under which the direct taking of evidence is to be carried out according to the law of its Member State, using form M in Annex I.
+
+The central body or the competent authority may assign a court of its Member State to take part in the direct taking of evidence in order to ensure that this Article is properly applied and that the conditions under which the direct taking of evidence is to be carried out are complied with.
+
+5\. Where the requesting court has not received information within 30 days of acknowledgement of receipt of the request for the direct taking of evidence as to whether the request has been accepted, it may send a reminder to the central body or competent authority of the requested Member State. If the requesting court does not receive a reply within 15 days of the acknowledgement of receipt of the reminder, the request for the direct taking of evidence shall be considered accepted. However, in extraordinary circumstances where the central body or competent authority was prevented from reacting to the request within the deadline following the reminder, grounds for the refusal of direct taking of evidence may exceptionally still be invoked at any time after the expiration of that deadline until the moment of the actual direct taking of evidence.
+
+6\. The central body or the competent authority of the requested Member State may assign a court of its Member State to provide practical assistance in the direct taking of evidence.
+
+7\. The central body or the competent authority of the requested Member State may refuse a request for direct taking of evidence only if:
+
+(a) it does not fall within the scope of this Regulation;
+
+(b) it does not contain all of the necessary information referred to in Article 5; or
+
+(c) the direct taking of evidence requested is contrary to fundamental principles of law in its Member State.
+
+8\. Without prejudice to any conditions laid down in accordance with paragraph 4, the requesting court shall conduct the direct taking of evidence in accordance with the law of its Member State.
+
+#### Article 20 — Direct taking of evidence by videoconferencing or other distance communications technology
+
+1\. Where evidence is to be taken by examining a person who is present in another Member State, and the court requests the taking of evidence directly in accordance with Article 19, that court shall take evidence using videoconferencing or other distance communications technology provided that such technology is available to the court and the court considers the use of such technology to be appropriate in the specific circumstances of the case.
+
+2\. A request for the direct taking of evidence using videoconferencing or other distance communications technology shall be made using form N in Annex I. The requesting court and the central body or the competent authority of the requested Member State or the court assigned to provide practical assistance in the direct taking of evidence shall agree on the practical arrangements for the examination.
+
+Upon request, the requesting court shall be provided with assistance in finding an interpreter if necessary.
+
+#### Article 21 — Taking of evidence by diplomatic agents or consular officers
+
+Member States may provide in their national law for their courts to be able to request their diplomatic agents or consular officers in the territory of another Member State and within the area in which they are accredited to take evidence at the premises of the diplomatic mission or consulate, except in exceptional circumstances, without the need for a prior request, by hearing, on a voluntary basis and without the use of coercive measures, nationals of the Member State which they represent in the context of proceedings pending in the courts of the Member State which they represent. The requested diplomatic agent or consular officer shall execute the request in accordance with the law of his or her Member State.
+
+### SECTION 5 — Costs
+
+#### Article 22 — Costs
+
+1\. The execution of a request for the taking of evidence in accordance with Article 12 shall not give rise to any claim for the reimbursement of taxes or costs.
+
+2\. By way of derogation from paragraph 1, the requested court may require the reimbursement of taxes or costs. If the requested court so requires, the requesting court shall ensure that the following are reimbursed without delay:
+
+— the fees paid to experts and interpreters, and
+
+— the costs occasioned by the application of Article 12(3) and (4).
+
+The obligation of the parties to bear such fees or costs shall be governed by the law of the Member State of the requesting court.
+
+3\. Where the opinion of an expert is required, before executing the request for the taking of evidence, the requested court may ask the requesting court for an adequate deposit or advance towards the anticipated costs of the expert opinion. In all other cases, a deposit or advance shall not be a condition for the execution of a request for the taking of evidence.
+
+The deposit or advance shall be made by the parties if that is provided for by the law of the Member State of the requesting court.
+
+## CHAPTER III — FINAL PROVISIONS
+
+#### Article 23 — Manual and amendment of Annex I
+
+1\. The Commission shall draw up and regularly update a manual containing the information provided by the Member States in accordance with Article 31 and the agreements or arrangements in force, in accordance with Article 29(3). It shall make the manual available electronically, in particular through the European Judicial Network in Civil and Commercial Matters and on the European e-Justice Portal.
+
+2\. The Commission is empowered to adopt delegated acts in accordance with Article 24 to amend Annex I in order to update the forms set out therein or to make technical changes to those forms.
+
+#### Article 24 — Exercise of delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 23(2) shall be conferred on the Commission for a period of 5 years from 22 December 2020. The Commission shall draw up a report in respect of the delegation of power not later than 9 months before the end of the 5-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than 3 months before the end of each period.
+
+3\. The delegation of power referred to in Article 23(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 23(2) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
+
+#### Article 25 — Adoption of implementing acts by the Commission
+
+1\. The Commission shall adopt implementing acts establishing the decentralised IT system, setting out the following:
+
+(a) the technical specification defining the methods of communication by electronic means for the purposes of the decentralised IT system;
+
+(b) the technical specifications for communication protocols;
+
+(c) the information security objectives and relevant technical measures ensuring minimum information security standards for the processing and communication of information within the decentralised IT system;
+
+(d) the minimum availability objectives and possible related technical requirements for the services provided by the decentralised IT system;
+
+(e) the establishment of a steering committee comprising representatives of the Member States to ensure the operation and maintenance of the decentralised IT system in order to meet the objectives of this Regulation.
+
+2\. The implementing acts referred to in paragraph 1 of this Article shall be adopted by 23 March 2022 in accordance with the examination procedure referred to in Article 26(2).
+
+#### Article 26 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 27 — Reference implementation software
+
+1\. The Commission shall be responsible for the creation, maintenance and future development of reference implementation software which Member States may choose to apply as their back-end system instead of a national IT system. The creation, maintenance and future development of the reference implementation software shall be financed from the general budget of the Union.
+
+2\. The Commission shall provide, maintain and support on a free-of-charge basis implementation of the software components underlying the access points.
+
+#### Article 28 — Costs of the decentralised IT system
+
+1\. Each Member State shall bear the costs of the installation, operation and maintenance of its access points interconnecting the national IT systems in the context of the decentralised IT system.
+
+2\. Each Member State shall bear the costs of establishing and adjusting its national IT systems to make them interoperable with the access points, and shall bear the costs of administering, operating and maintaining those systems.
+
+3\. Paragraphs 1 and 2 shall be without prejudice to the possibility of Member States to apply for grants to support the activities referred to in those paragraphs under the Union’s financial programmes.
+
+#### Article 29 — Relationship with agreements or arrangements between Member States
+
+1\. This Regulation shall prevail in relation to matters to which it applies over other provisions contained in bilateral or multilateral agreements or arrangements concluded by the Member States, and in particular the Hague Convention of 1 March 1954 on Civil Procedure and the Hague Convention of 18 March 1970 on the Taking of Evidence Abroad in Civil or Commercial Matters, in relations between the Member States party thereto.
+
+2\. This Regulation shall not preclude Member States from maintaining or concluding agreements or arrangements to further facilitate the taking of evidence, provided that those agreements or arrangements are compatible with this Regulation.
+
+3\. Member States shall send to the Commission:
+
+(a) a copy of any agreements or arrangements referred to in paragraph 2 concluded between the Member States, as well as drafts of any such agreements or arrangements which they intend to adopt; and
+
+(b) any denunciation of, or amendments to, those agreements or arrangements.
+
+#### Article 30 — Protection of information transmitted
+
+1\. Any processing of personal data carried out pursuant to this Regulation, including the exchange or transmission of personal data by the competent authorities, shall be in conformity with Regulation (EU) 2016/679.
+
+Any exchange or transmission of information by competent authorities at Union level shall be undertaken in accordance with Regulation (EU) 2018/1725.
+
+Personal data which are not relevant for the handling of a specific case shall be deleted immediately.
+
+2\. The competent authority or authorities under national law shall be regarded as controllers within the meaning of Regulation (EU) 2016/679 with respect to personal data processing under this Regulation.
+
+3\. Notwithstanding paragraphs 1 and 2, information transmitted under this Regulation shall be used by the requested court only for the purpose for which it was transmitted.
+
+4\. Requested courts shall ensure that such information remains confidential, in accordance with their national law.
+
+5\. Paragraphs 3 and 4 shall be without prejudice to national laws enabling data subjects to be informed of the use made of information transmitted under this Regulation.
+
+6\. This Regulation shall be without prejudice to Directive 2002/58/EC.
+
+#### Article 31 — Communication
+
+1\. Member States shall communicate to the Commission the following:
+
+(a) the list drawn up pursuant to Article 3(2) indicating the territorial and, where applicable, the special jurisdiction of the courts;
+
+(b) the names and addresses of the central bodies and competent authorities designated pursuant to Article 4(3), indicating their territorial jurisdiction;
+
+(c) the technical means for the receipt of requests available to the courts on the list drawn up pursuant to Article 3(2);
+
+(d) the languages accepted for requests, as referred to in Article 6.
+
+2\. Member States shall inform the Commission of any subsequent changes to the information referred to in paragraph 1.
+
+3\. Each Member State shall communicate to the Commission details of the other authorities that are competent to take evidence for the purposes of judicial proceedings in civil or commercial matters. Member States shall inform the Commission of any subsequent changes to those details.
+
+4\. Member States may notify the Commission if they are in a position to operate the decentralised IT system earlier than required by this Regulation. The Commission shall make such information available electronically, in particular through the European e-Justice Portal.
+
+#### Article 32 — Monitoring
+
+1\. By 2 July 2023, the Commission shall establish a detailed programme for monitoring the outputs, results and impact of this Regulation.
+
+2\. The monitoring programme shall specify the action to be taken by the Commission and by the Member States to monitor the outputs, results and impact of this Regulation. It shall set out when the data referred to in paragraph 3 are to be collected for the first time, which shall be at the latest 2 July 2026, and at what further intervals those data are to be collected.
+
+3\. Member States shall provide the Commission with the following data necessary for the purposes of monitoring, where available:
+
+(a) the number of requests for the taking of evidence transmitted in accordance with Article 7(1) and Article 19(1) respectively;
+
+(b) the number of requests for the taking of evidence executed in accordance with Article 12 and Article 19(8) respectively;
+
+(c) the number of cases in which the request for the taking of evidence was transmitted by means other than through the decentralised IT system in accordance with Article 7(4).
+
+4\. The reference implementation software and, where equipped to do so, the national back-end system shall programmatically collect the data referred to in points (a) and (b) of paragraph 3 and transmit them to the Commission on a regular basis.
+
+#### Article 33 — Evaluation
+
+1\. No later than 5 years after the date of application of Article 7 in accordance with Article 35(3), the Commission shall carry out an evaluation of this Regulation and present a report on its main findings to the European Parliament, the Council and the European Economic and Social Committee, accompanied, where appropriate, by a legislative proposal.
+
+2\. Member States shall provide the Commission with the information necessary for the preparation of the report referred to in paragraph 1.
+
+#### Article 34 — Repeal
+
+1\. Regulation (EC) No 1206/2001 shall be repealed as from the date of application of this Regulation, with the exception of Article 6 of Regulation (EC) No 1206/2001 which shall be repealed as from the date of application of Article 7 referred to in Article 35(3) of this Regulation.
+
+2\. References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex III.
+
+#### Article 35 — Entry into force and application
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 July 2022.
+
+2\. Article 31(3) shall apply from 23 March 2022.
+
+3\. Article 7 shall apply from the first day of the month following the period of 3 years after the date of entry into force of the implementing acts referred to in Article 25.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX I
+
+**FORM A**
+
+REQUEST FOR THE TAKING OF EVIDENCE
+
+(Article 5 of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 1 ))
+
+1\. Reference No of the requesting court:
+
+2\. Requesting court:
+
+2.1. Name:
+
+2.2. Address:
+
+2.2.1. Street and number/PO box:
+
+2.2.2. Place and postcode:
+
+2.2.3. Country:
+
+2.3. Tel.
+
+2.4. Fax ( 2 ):
+
+2.5. Email:
+
+3\. Requested court:
+
+3.1. Name:
+
+3.2. Address:
+
+3.2.1. Street and number/PO box:
+
+3.2.2. Place and postcode:
+
+3.2.3. Country:
+
+3.3. Tel.
+
+3.4. Fax (2) :
+
+3.5. Email:
+
+4\. In the case brought by the claimant/petitioner(s) ( 3 )
+
+4.1. Name:
+
+4.2. Address:
+
+4.2.1. Street and number/PO box:
+
+4.2.2. Place and postcode:
+
+4.2.3. Country:
+
+4.3. Tel. (2) :
+
+4.4. Fax (2) :
+
+4.5. Email (2) :
+
+5\. Representatives of the claimant/petitioner
+
+5.1. Name:
+
+5.2. Address:
+
+5.2.1. Street and number/PO box:
+
+5.2.2. Place and postcode:
+
+5.2.3. Country:
+
+5.3. Tel.
+
+5.4. Fax (2) :
+
+5.5. Email:
+
+6\. Against the defendant/respondent(s) ( 4 )
+
+6.1. Name:
+
+6.2. Address:
+
+6.2.1. Street and number/PO box:
+
+6.2.2. Place and postcode:
+
+6.2.3. Country:
+
+6.3. Tel. (2) :
+
+6.4. Fax (2) :
+
+6.5. Email (2) :
+
+7\. Representatives of defendant/respondent
+
+7.1. Name:
+
+7.2. Address:
+
+7.2.1. Street and number/PO box:
+
+7.2.2. Place and postcode:
+
+7.2.3. Country:
+
+7.3. Tel.
+
+7.4. Fax (2) :
+
+7.5. Email:
+
+8\. Presence and participation of the parties
+
+8.1. Parties and representatives, if any, who will be present at the taking of evidence:□
+
+8.2. Participation of the parties and of their representatives, if any, is requested:□
+
+8.3. If any party or its representative will be present at the taking of evidence, interpretation in the following language is to be arranged:□BG,□ES,□CS,□DE,□ET,□EL,□EN,□FR,□GA,□HR,□IT,□LV,□LT,□HU,□MT,□NL,□PL,□PT,□RO,□SK,□SL,□FI,□SV,□other:
+
+9\. Presence and participation of the representatives of the requesting court:□
+
+9.1. Representatives will be present at the taking of evidence:□
+
+9.2. Participation of the representatives is requested: ( 5 )□
+
+9.2.1. Name:
+
+9.2.2. Title:
+
+9.2.3. Function:
+
+9.2.4. Task:
+
+9.3. If any representative of the requesting court will be present at the taking of evidence, interpretation in the following language is to be arranged:□BG,□ES,□CS,□DE,□ET,□EL,□EN,□FR,□GA,□HR,□IT,□LV,□LT,□HU,□MT,□NL,□PL,□PT,□RO,□SK,□SL,□FI,□SV,□other:
+
+10\. Nature and subject-matter of the case and a brief statement of the facts (in annex, where appropriate):
+
+11\. Taking of evidence to be carried out
+
+11.1. Description of the taking of evidence to be carried out (in annex, where appropriate):
+
+11.2. Examination of witnesses:□
+
+11.2.1. Name and surname:
+
+11.2.2. Date of birth, if available:
+
+11.2.3. Address:
+
+11.2.3.1. Street and number/PO box:
+
+11.2.3.2. Place and postcode:
+
+11.2.3.3. Country:
+
+11.2.4. Tel. (2) :
+
+11.2.5. Fax (2) :
+
+11.2.6. Email (2) :
+
+11.2.7. Questions to be put to the witness or a statement of the facts about which they are to be examined (in annex, where appropriate):
+
+11.2.8. Right to refuse to testify under the law of the Member State of the requesting court (in annex, where appropriate): yes□no□
+
+11.2.9. Please examine the witness
+
+11.2.9.1. under oath:□
+
+11.2.9.2. on affirmation:□
+
+11.2.10. Any other information that the requesting court deems necessary (in annex, where appropriate):
+
+11.3. Other taking of evidence
+
+11.3.1. documents to be inspected and a description of the requested taking of evidence (in annex, where appropriate):
+
+11.3.2. objects to be inspected and a description of the requested taking of evidence (in annex, where appropriate)
+
+12\. Please execute the request
+
+12.1. in accordance with a special procedure (Article 12(3) of Regulation (EU) 2020/1783) provided for by the law of the Member State of the requesting court described in annex□
+
+12.2. and/or by the use of communications technology (Article 12(4) of Regulation (EU) 2020/1783) set out in form N□
+
+12.3. the following information is necessary for the execution of the request:
+
+13\. Reasons for not transmitting through the decentralised IT system (Article 7(4) of Regulation (EU) 2020/1783) ( 6 )
+
+Electronic transmission was not possible due to:
+
+□ disruption of the decentralised IT system
+
+□ the nature of the evidence
+
+□ exceptional circumstances
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM B**
+
+ACKNOWLEDGEMENT OF RECEIPT OF A REQUEST FOR THE TAKING OF EVIDENCE
+
+(Article 9(1) of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 7 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the requested court:
+
+3\. Name of the requesting court:
+
+4\. Requested court
+
+4.1. Name:
+
+4.2. Address:
+
+4.3. Tel.
+
+4.4. Fax ( 8 ):
+
+4.5. Email:
+
+5\. The request was received on … (date of receipt) by the court indicated in item 4.
+
+6\. The request cannot be dealt with because:
+
+6.1. The language used to complete the form is not accepted (Article 6 of Regulation (EU) 2020/1783):□
+
+6.1.1. Please use one the following languages:
+
+6.2. The document is not legible:□
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal
+
+**FORM C**
+
+NOTIFICATION OF FORWARDING OF A REQUEST FOR THE TAKING OF EVIDENCE
+
+(Article 9(2) of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence ( 9 ))
+
+1\. Reference No of the requesting court:
+
+2\. Name of the requesting court:
+
+3\. Reference No of the requested court:
+
+4\. The request for the taking of evidence does not fall within the jurisdiction of the court indicated in item 3 of the request for the taking of evidence and was forwarded to
+
+4.1. Name of the competent court:
+
+4.2. Address:
+
+4.2.1. Street and number/PO box:
+
+4.2.2. Place and postcode:
+
+4.2.3. Country:
+
+4.3. Tel.
+
+4.4. Fax ( 10 ):
+
+4.5. Email:
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM D**
+
+REQUEST FOR ADDITIONAL INFORMATION FOR THE TAKING OF EVIDENCE
+
+(Article 10 of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 11 ))
+
+1\. Reference No of the requested court:
+
+2\. Reference No of the requesting court:
+
+3\. Name of the requested court:
+
+4\. Name of the requesting court:
+
+5\. The request for the taking of evidence cannot be executed without the following additional information:
+
+6\. The request for the taking of evidence cannot be executed before a deposit or advance is made in accordance with Article 22(3) of Regulation (EU) 2020/1783. The deposit or advance should be made in the following way:
+
+6.1. Name of account owner:
+
+6.2. Bank name/BIC or other relevant bank code:
+
+6.3. Account number/IBAN:
+
+6.4. Date by which payment was due:
+
+6.5. Amount of the deposit or advance requested:
+
+6.6. Currency:
+
+| □Euro (EUR) | □Bulgarian lev (BGN) | □Croatian kuna (HRK) |
+| --- | --- | --- |
+| □Czech koruna (CZK) | □Hungarian forint (HUF) | □Polish zloty (PLN) |
+| □Pound sterling (GBP) | □Romanian leu (RON) | □Swedish krona (SEK) |
+
+□Other (please specify (ISO code)):
+
+6.7. Reference number of payment/description/message to the recipient:
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM E**
+
+ACKNOWLEDGEMENT OF RECEIPT OF DEPOSIT OR ADVANCE
+
+(Article 10(2) of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 12 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the requested court:
+
+3\. Name of the requesting court:
+
+4\. Name of the requested court:
+
+5\. The deposit or advance was received on … (date of receipt) by the court indicated in item 4.
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM F ( 13 )**
+
+REQUEST FOR INFORMATION ON DELAY
+
+(Article 12(1) and Article 19(4) of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence ( 14 ))
+
+**THE FOLLOWING REQUEST FOR THE TAKING OF EVIDENCE WAS SENT BUT NO INFORMATION ON THE OUTCOME OF THE TAKING OF EVIDENCE IS AVAILABLE**
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the requested court/central body/competent authority (if available):
+
+3\. Name of the requesting court:
+
+4\. Name of the requested court/central body/competent authority:
+
+5\. The original request for the taking of evidence (form A) or original request for the direct taking of evidence (form L) is attached.□
+
+Information at disposal of the requesting court:
+
+5.1. request sent□
+
+date ...............................................
+
+5.2. acknowledgement of receipt□
+
+date ...............................................
+
+5.3. notification of delay□
+
+date ...............................................
+
+5.4. other information was received□
+
+..................................................................
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM G ( 15 )**
+
+REPLY TO REQUEST FOR INFORMATION ON DELAY
+
+(Article 12(1) of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 16 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the requested court/central body/competent authority (if available):
+
+3\. Name of the requesting court:
+
+4\. Name of the requested court/central body/competent authority:
+
+5\. THE DELAY WAS DUE TO:
+
+5.1. Request for taking of evidence was not received□
+
+5.2. Determination of current address of the person to be examined is in progress□
+
+5.3. Service of summons to the person to be examined is in progress□
+
+5.4. Person did not appear at the hearing despite being served the summons□
+
+5.5. Request replied to on … (date). Reply attached□
+
+5.6. Payment of a deposit or advance requested on … (date) has not been received□
+
+5.7. Other: …□
+
+6\. It is estimated that the request will be executed by … (indicate an estimated date).
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM H**
+
+NOTIFICATION CONCERNING THE REQUEST FOR SPECIAL PROCEDURES AND/OR FOR THE USE OF COMMUNICATIONS TECHNOLOGIES
+
+(Article 12(3) and (4) of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 17 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the requested court:
+
+3\. Name of the requesting court:
+
+4\. Name of the requested court:
+
+5\. The call for execution of the request for the taking of evidence in accordance with the special procedure indicated in item 12.1. of the request for the taking of evidence (form A) could not be complied with because:
+
+5.1. the requested procedure is incompatible with the law of the Member State of the requested court:□
+
+5.2. the carrying out of the requested procedure is not possible by reason of major practical difficulties:□
+
+6\. The call for execution of the request for the taking of evidence using distance communications technology indicated in item 12.2. of the request for the taking of evidence (form A) could not be complied with because:
+
+6.1. The use of communications technology is incompatible with the law of the Member State of the requested court□
+
+6.2. The use of the communications technology is not possible by reason of major practical difficulties□
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM I**
+
+NOTIFICATION OF THE DATE, TIME, PLACE OF THE TAKING OF EVIDENCE AND THE CONDITIONS FOR PARTICIPATION
+
+(Articles 13(4) and 14(5) of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 18 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the requested court:
+
+3\. Requesting court
+
+3.1. Name:
+
+3.2. Address:
+
+3.2.1. Street and number/PO box:
+
+3.2.2. Place and postcode:
+
+3.2.3. Country:
+
+3.3. Tel.
+
+3.4. Fax ( 19 ):
+
+3.5. Email:
+
+4\. Requested court
+
+4.1. Name:
+
+4.2. Address:
+
+4.2.1. Street and number/PO box:
+
+4.2.2. Place and postcode:
+
+4.2.3. Country:
+
+4.3. Tel.
+
+4.4. Fax (19) :
+
+4.5. Email:
+
+5\. Date and time of the taking of evidence:
+
+6\. Place of the taking of evidence, if different from that referred to in item 4:
+
+7\. Where appropriate, conditions under which the parties and their representatives, if any, may participate:
+
+8\. Where appropriate, conditions under which the representatives of the requesting court may participate:
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM J**
+
+NOTIFICATION OF DELAY
+
+(Article 17 of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 20 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the requested court:
+
+3\. Name of the requesting court:
+
+4\. Name of the requested court:
+
+5\. The request for the taking of evidence cannot be executed within 90 days of receipt for the following reasons:
+
+5.1. Determination of current address of the person to be examined is in progress□
+
+5.2. Service of summons on the person to be examined is in progress□
+
+5.3. Person did not appear at the hearing despite being served the summons□
+
+5.4. Request replied to on … (date). Reply attached□
+
+5.5. Payment of a deposit or advance requested on … (date) has not been received□
+
+5.6. Other (please specify): …□
+
+6\. It is estimated that the request will be executed by … (indicate an estimated date).
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM K**
+
+INFORMATION ON THE EXECUTION OF THE REQUEST FOR THE TAKING OF EVIDENCE
+
+(Articles 16 and 18 of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 21 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the requested court:
+
+3\. Name of the requesting court:
+
+4\. Name of the requested court:
+
+5\. The request for the taking of evidence has been executed□
+
+The documents confirming execution of the request for the taking of evidence are attached:
+
+6\. Execution of the request for the taking of evidence has been refused because:
+
+6.1. The person to be examined has invoked the right to refuse to give evidence or has claimed to be prohibited from giving evidence:□
+
+6.1.1. under the law of the Member State of the requested court:□
+
+6.1.2. under the law of the Member State of the requesting court:□
+
+6.2. The request for the taking of evidence does not fall within the scope of Regulation (EU) 2020/1783□
+
+6.3. Under the law of the Member State of the requested court, the execution of the request for the taking of evidence does not fall within the functions of the judiciary□
+
+6.4. The requesting court has not complied with the request for additional information from the requested court dated … (date of the request for additional information)□
+
+6.5. A deposit or advance asked for in accordance with Article 22(3) of Regulation (EU) 2020/1783 has not been made.□
+
+7\. Other reasons for non-execution:
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM L**
+
+REQUEST FOR DIRECT TAKING OF EVIDENCE
+
+(Articles 19 and 20 of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 22 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the central body/competent authority ( 23 ):
+
+3\. Requesting court:
+
+3.1. Name:
+
+3.2. Address:
+
+3.2.1. Street and number/PO box:
+
+3.2.2. Place and postcode:
+
+3.2.3. Country:
+
+3.3. Tel.
+
+3.4. Fax (23) :
+
+3.5. Email:
+
+4\. Central body/competent authority of the requested State
+
+4.1. Name:
+
+4.2. Address:
+
+4.2.1. Street and number/PO box:
+
+4.2.2. Place and postcode:
+
+4.2.3. Country:
+
+4.3. Tel.
+
+4.4. Fax (23) :
+
+4.5. Email:
+
+5\. In the case brought by the claimant/petitioner(s) ( 24 )
+
+5.1. Name:
+
+5.2. Address:
+
+5.2.1. Street and number/PO box:
+
+5.2.2. Place and postcode:
+
+5.2.3. Country:
+
+5.3. Tel. (23) :
+
+5.4. Fax (23) :
+
+5.5. Email (23) :
+
+6\. Representatives of the claimant/petitioner
+
+6.1. Name:
+
+6.2. Address:
+
+6.2.1. Street and number/PO box:
+
+6.2.2. Place and postcode:
+
+6.2.3. Country:
+
+6.3. Tel.
+
+6.4. Fax (23) :
+
+6.5. Email:
+
+7\. Against the defendant/respondent(s) ( 25 )
+
+7.1. Name:
+
+7.2. Address:
+
+7.2.1. Street and number/PO box:
+
+7.2.2. Place and postcode:
+
+7.2.3. Country:
+
+7.3. Tel. (23) :
+
+7.4. Fax (23) :
+
+7.5. Email (23) :
+
+8\. Representatives of defendant/respondent
+
+8.1. Name:
+
+8.2. Address:
+
+8.2.1. Street and number/PO box:
+
+8.2.2. Place and postcode:
+
+8.2.3. Country:
+
+8.3. Tel.
+
+8.4. Fax (23) :
+
+8.5. Email:
+
+9\. The evidence will be taken by:
+
+9.1. Name:
+
+9.2. Title:
+
+9.3. Function:
+
+9.4. Task:
+
+10\. Nature and subject matter of the case and a brief statement of the facts (in annex, where appropriate):
+
+11\. Taking of evidence to be carried out
+
+11.1. Description of the taking of evidence (in annex, where appropriate):
+
+11.2. Examination of witnesses
+
+11.2.1. Names and surname:
+
+11.2.2. Date of birth, if available:
+
+11.2.3. Address:
+
+11.2.3.1. Street and number/PO box:
+
+11.2.3.2. Place and postcode:
+
+11.2.3.3. Country:
+
+11.2.4. Tel. (23) :
+
+11.2.5. Fax (23) :
+
+11.2.6. Email (23) :
+
+11.2.7. Questions to be put to the witness or a statement of the facts about which they are to be examined (in the annex, where appropriate):
+
+11.2.8. Right to refuse to testify under the law of the Member State of the requesting court (in annex, where appropriate): yes□no□
+
+11.3. Other taking of evidence (in annex, where appropriate):
+
+12\. The requesting court asks that evidence be taken directly by using the communications technology set out in form N□
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM M**
+
+INFORMATION FROM THE CENTRAL BODY/COMPETENT AUTHORITY CONCERNING DIRECT TAKING OF EVIDENCE
+
+(Article 19 of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 26 ))
+
+1\. Reference No of the requesting court:
+
+2\. Reference No of the central body/competent authority:
+
+3\. Name of the requesting court:
+
+4\. Central body/competent authority
+
+4.1. Name:
+
+4.2. Address:
+
+4.2.1. Street and number/PO box:
+
+4.2.2. Place and postcode:
+
+4.2.3. Country:
+
+4.3. Tel.
+
+4.4. Fax ( 27 ):
+
+4.5. Email:
+
+5\. Information from the central body/competent authority
+
+5.1. Direct taking of evidence in accordance with the request is accepted:□
+
+5.2. Direct taking of evidence in accordance with the request is accepted under the following conditions (in annex, where appropriate):
+
+5.3. Direct taking of evidence in accordance with the request is refused for the following reasons:
+
+5.3.1. the request does not fall within the scope of Regulation (EU) 2020/1783:□
+
+5.3.2. the request does not contain all of the necessary information pursuant to Article 5 of Regulation (EU) 2020/1783:□
+
+5.3.3. the direct taking of evidence requested is contrary to fundamental principles of law of the Member State of the central body/competent authority:□
+
+6\. The following court was assigned to provide practical assistance in the direct taking of evidence:
+
+6.1. Name:
+
+6.2. Address:
+
+6.2.1. Street and number/PO box:
+
+6.2.2. Place and postcode:
+
+6.2.3. Country:
+
+6.3. Tel.
+
+6.4. Fax (27) :
+
+6.5. Email:
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+**FORM N**
+
+INFORMATION ON TECHNICAL PRACTICALITIES FOR HOLDING A VIDEOCONFERENCE OR USING OTHER DISTANCE COMMUNICATIONS TECHNOLOGY
+
+(Articles 12(4) and 20 of Regulation (EU) 2020/1783 of the European Parliament and of the Council of 25 November 2020 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (taking of evidence) ( 28 ))
+
+1\. Reference No of the requesting court ( 29 ):
+
+2\. Reference No of the requested court/central body/competent authority (29) :
+
+3\. Name of the requesting court (29) :
+
+4\. Name of the requested court/central body/competent authority (29) :
+
+5\. Technical data of the requesting court:
+
+5.1. ISDN (29) :
+
+5.2. IP:
+
+5.3. Tel. Court room (29) :
+
+5.4. Other:
+
+6\. Preferred form of connection (in case of more options filled in item 5):
+
+7\. Preferred date(s) and time(s) of connection:
+
+7.1. date:
+
+7.2. time ( 30 ):
+
+8\. Preferred date(s) and time(s) for the test connection:
+
+8.1. date:
+
+8.2. time (30) :
+
+8.3. contact person for the test connection or other technical assistance:
+
+8.4. language for communication:□BG,□ES,□CS,□DE,□ET,□EL,□EN,□FR,□GA,□HR,□IT,□LV,□LT,□HU,□MT,□NL,□PL,□PT,□RO,□SK,□SL,□FI,□SV,□other:
+
+8.5. tel. in the event of technical difficulties during the test connection or the taking of evidence:
+
+9\. Information on interpretation:
+
+9.1. Assistance for finding an interpreter is requested:□
+
+9.2. The relevant languages:□BG,□ES,□CS,□DE,□ET,□EL,□EN,□FR,□GA,□HR,□IT,□LV,□LT,□HU,□MT,□NL,□PL,□PT,□RO,□SK,□SL,□FI,□SV,□other:
+
+10\. Information on whether a recording of the taking of evidence will be made ( 31 ):
+
+10.1. yes□
+
+10.2. no□
+
+11\. Other: …
+
+Done at:
+
+Date:
+
+Signature and/or stamp or electronic signature and/or electronic seal:
+
+## ANNEX II
+
+**REPEALED REGULATION WITH LIST OF THE SUCCESSIVE AMENDMENTS THERETO**
+
+| Council Regulation (EC) No 1206/2001 of 28 May 2001 on cooperation between the courts of the Member States in the taking of evidence in civil or commercial matters (OJ L 174, 27.6.2001, p. 1). |  |
+| --- | --- |
+| Regulation (EC) No 1103/2008 of the European Parliament and of the Council of 22 October 2008 adapting a number of instruments subject to the procedure laid down in Article 251 of the Treaty to Council Decision 1999/468/EC, with regard to the regulatory procedure with scrutiny – Adaptation to the regulatory procedure with scrutiny – Part Three (OJ L 304, 14.11.2008, p. 80). | Only amendments to Articles 19(2) and 20 of Regulation (EC) No 1206/2001 |
+
+## ANNEX III
+
+**CORRELATION TABLE**
+
+| Regulation (EC) No 1206/2001 | This Regulation |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(2) |
+| Article 1(3) | – |
+| – | Article 2 |
+| Article 2(1) | Article 3(1) |
+| Article 2(2) | Article 3(2) |
+| Article 3(1) | Article 4(1) |
+| Article 3(2) | Article 4(2) |
+| Article 3(3) | Article 4(3) |
+| Article 4(1) | Article 5(1) |
+| Article 4(2) | Article 5(2) |
+| Article 4(3) | Article 5(3) |
+| Article 5 | Article 6 |
+| Article 6 | –Article 7(1) |
+| – | Article 7(2), (3) and (4) |
+| – | Article 8 |
+| Article 7(1) | Article 9(1) |
+| Article 7(2) | Article 9(2) |
+| Article 8(1) | Article 10(1) |
+| Article 8(2) | Article 10(2) |
+| Article 9(1) | Article 11(1) |
+| Article 9(2) | Article 11(2) |
+| Article 10(1) | Article 12(1) |
+| Article 10(2) | Article 12(2) |
+| Article 10(3) | Article 12(3) |
+| Article 10(4) | Article 12(4) |
+| Article 11(1) | Article 13(1) |
+| Article 11(2) | Article 13(2) |
+| Article 11(3) | Article 13(3) |
+| Article 11(4) | Article 13(4) |
+| Article 11(5) | Article 13(5) |
+| Article 12(1) | Article 14(1) |
+| Article 12(2) | Article 14(2) |
+| Article 12(3) | Article 14(3) |
+| Article 12(4) | Article 14(4) |
+| Article 12(5) | Article 14(5) |
+| Article 13 | Article 15 |
+| Article 14(1) | Article 16(1) |
+| Article 14(2) | Article 16(2) |
+| Article 14(3) | Article 16(3) |
+| Article 14(4) | Article 16(4) |
+| Article 15 | Article 17 |
+| Article 16 | Article 18 |
+| Article 17(1) | Article 19(1) |
+| Article 17(2) | Article 19(2) |
+| Article 17(3) | Article 19(3) |
+| Article 17(4), first subparagraph | Article 19(4), first subparagraph |
+| Article 17(4), second subparagraph | Article 19(4), second subparagraph |
+| Article 17(4), third subparagraph | – |
+| – | Article 19(5) |
+| – | Article 19(6) |
+| Article 17(5) | Article 19(7) |
+| Article 17(6) | Article 19(8) |
+| – | Article 20 |
+| – | Article 21 |
+| Article 18 | Article 22 |
+| Article 19(1) | Article 23(1) |
+| Article 19(2) | – |
+| – | Article 23(2) |
+| Article 20 | Article 26 |
+| – | Article 24 |
+| – | Article 25 |
+| – | Article 27 |
+| – | Article 28 |
+| Article 21(1) | Article 29(1) |
+| Article 21(2) | Article 29(2) |
+| Article 21(3)(a) | – |
+| Article 21(3)(b) | Article 29(3)(a) |
+| Article 21(3)(c) | Article 29(3)(b) |
+| – | Article 30 |
+| Article 22, first paragraph | Article 31(1) |
+| Article 22, second paragraph | Article 31(2) |
+| – | Article 31(3) |
+| – | Article 31(4) |
+| – | Article 32 |
+| Article 23 | Article 33(1) |
+| – | Article 33(2) |
+| Article 24 | – |
+| – | Article 34 |
+| Article 24(1) | Article 35(1), first subparagraph |
+| Article 24(2) | Article 35(1), second subparagraph |
+| – | Article 35(2) |
+|  | Article 35(3) |
+| Annex | Annex I |
+| – | Annex II |
+| – | Annex III |
+
+( 1 ) OJ L 405, 2.12.2020, p. 1.
+
+( 2 ) This item is optional.
+
+( 3 ) Where there is more than one claimant/petitioner, please provide information as set out in items 4.1. to 4.5.
+
+( 4 ) Where there is more than one defendant/respondent, please provide information as set out in items 6.1. to 6.5.
+
+( 5 ) Where there is more than one representative, please provide information as set out in item 9.2.
+
+( 6 ) This item only applies from the date of application of the decentralised IT system.
+
+( 7 ) OJ L 405, 2.12.2020, p. 1.
+
+( 8 ) This item is optional.
+
+( 9 ) OJ L 405, 2.12.2020, p. 1
+
+( 10 ) This item is optional.
+
+( 11 ) OJ L 405, 2.12.2020, p. 1.
+
+( 12 ) OJ L 405, 2.12.2020, p. 1
+
+( 13 ) The use of this form is optional.
+
+( 14 ) OJ L 405, 2.12.2020, p. 1
+
+( 15 ) The use of this form is optional.
+
+( 16 ) OJ L 405, 2.12.2020, p. 1
+
+( 17 ) OJ L 405, 2.12.2020, p. 1.
+
+( 18 ) OJ L 405, 2.12.2020, p. 1
+
+( 19 ) This item is optional.
+
+( 20 ) OJ L 405, 2.12.2020, p. 1
+
+( 21 ) OJ L 405, 2.12.2020, p. 1
+
+( 22 ) OJ L 405, 2.12.2020, p. 1.
+
+( 23 ) This item is optional.
+
+( 24 ) Where there is more than one claimant/petitioner, please provide information as set out in items 5.1. to 5.5.
+
+( 25 ) Where there is more than one defendant/respondent, please provide information as set out in items 7.1. to 7.5.
+
+( 26 ) OJ L 405, 2.12.2020, p. 1
+
+( 27 ) This item is optional.
+
+( 28 ) OJ L 405, 2.12.2020, p. 1
+
+( 29 ) This item is optional.
+
+( 30 ) Local time of requested Member State.
+
+( 31 ) E.g. online record or transcript of the taking of evidence

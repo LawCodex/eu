@@ -1,0 +1,809 @@
+---
+title: "Regulation (EU) 2024/792 of the European Parliament and of the Council of 29 February 2024 establishing the Ukraine Facility"
+identifier: "32024R0792"
+eli: "http://data.europa.eu/eli/reg/2024/792/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-02-29
+entry_into_force: 2024-12-18
+last_amended: 2026-02-27
+consolidated_version: "02024R0792-20260227"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R0792-20260227"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2024/792 of the European Parliament and of the Council of 29 February 2024 establishing the Ukraine Facility
+
+**REGULATION (EU) 2024/792 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 29 February 2024**
+
+**establishing the Ukraine Facility**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/468 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 24 February 2026 </td><td> L 468</td><td>1</td><td>26.2.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2024/792 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 29 February 2024**
+
+**establishing the Ukraine Facility**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+1\. This Regulation establishes the Ukraine Facility (the ‘Facility’) for the period 2024 to 2027.
+
+It lays down the objectives of the Facility, its financing and budget for the period 2024 to 2027, the forms of Union funding under it and the rules for providing such funding.
+
+2\. The Facility shall provide support to Ukraine under the following three pillars:
+
+(a) Pillar I: financial support provided to Ukraine for the delivery of reforms and investments to implement the Ukraine Plan as well as to maintain the macro-financial stability of the country, as set out in Chapter III;
+
+(b) Pillar II: a specific Ukraine Investment Framework to support investments and provide access to finance as set out in Chapter IV;
+
+(c) Pillar III: technical assistance and related support to Ukraine to design and implement Union accession-related reforms and to foster Ukraine’s administrative capacity, borrowing costs subsidies and provisioning, as well as other relevant activities, as set out in Chapter V.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘measures’ means reforms and investments under the Ukraine Plan;
+
+(2) ‘conditions’ means qualitative or quantitative steps relating to ensuring the maintenance of economic and financial stability or relating to the implementation of the reforms and investments set out in the Ukraine Plan;
+
+(3) ‘blending operation’ means an operation supported by the Union budget that combines non-repayable forms of support, repayable forms of support or both, from the Union budget with repayable forms of support from development or other public or commercial financial institutions, including export credit agencies, or from investors.
+
+### Article 3 — Objectives of the Facility
+
+1\. The general objectives of the Facility shall be to support Ukraine to:
+
+(a) address the social, economic and environmental consequences of Russia’s war of aggression, thereby contributing to the peaceful recovery, reconstruction, restoration and modernisation of the country and to the post-war recovery of Ukrainian society, including by creating the social and economic conditions for internally displaced persons and persons under temporary protection to return;
+
+(b) foster social and territorial cohesion, democratic, economic, environmental resilience, progressive integration into the Union and global economy and markets and upward economic, social and environmental convergence towards Union standards;
+
+(c) adopt and implement the political, institutional, legal, administrative, social and economic reforms required to align to Union values and to progressively align to Union rules, standards, policies and practices (‘acquis’) with a view to future Union membership, thereby contributing to mutual stability, security, peace, prosperity and sustainability.
+
+2\. The specific objectives of the Facility shall include:
+
+(a) helping to maintain the macro-financial stability of the country and easing Ukraine’s external and internal financing constraints to ensure the continued functioning of the Ukrainian state;
+
+(b) rebuilding and modernising infrastructure damaged by the war, such as energy infrastructure, water systems, internal and cross-border transport networks including rail, roads and bridges and border crossing points, and educational and cultural infrastructure, and fostering modern, improved and resilient infrastructures;
+
+(c) contributing to demining and other mine action efforts; restoring food production capacities; helping to address social and health challenges, including mental health, and improving and strengthening the social care systems and their accessibility, in particular for specific groups, such as veterans, internally displaced persons, single parents, war widows and widowers, children, especially those without parental care, persons with disabilities, minorities, young and elderly people, and other persons in vulnerable situations;
+
+(d) strengthening security against hybrid threats, such as cyber threats, as well as strengthening resilience against disinformation, foreign information manipulation and interference;
+
+(e) fostering the transition to a sustainable, climate neutral and inclusive economy and a stable investment environment;
+
+(f) supporting the integration of Ukraine into the internal market; repairing, rebuilding, safeguarding and improving social infrastructure, such as housing, social, sports, youth and healthcare facilities, schools and higher education institutions; strengthening economic and social development and inclusion, with particular attention to women, as well as youth, including through quality education, training, reskilling and upskilling, and employment policies, including for researchers;
+
+(g) promoting science and research; support the creative sector and independent media; supporting culture and cultural heritage including cultural infrastructure; strengthening strategic economic sectors; fostering an institutional framework for investment and competition to enable individuals, and businesses, with a focus on SMEs and innovation, inter alia, by promoting equal opportunities for access to funding, regardless of the size of companies, to develop modern, competitive and sustainable products and services; supporting sustainable agriculture and rural development, aquaculture and fisheries, including alignment with Union standards and control systems concerning food safety, animal and plant health, as well as animal welfare; reforming Ukraine’s financial and banking sector, improving access to loans and insurance coverage;
+
+(h) further strengthening the rule of law, democracy, respect for human rights and fundamental freedoms, including through strengthening democratic institutions, in particular the Verkhovna Rada, as well as regional and municipal representative bodies, and their powers of oversight and inquiry over the distribution of and access to public funds; promoting an independent judiciary to support deoligarchisation efforts, strengthen the fight against fraud, all forms of corruption, including high level corruption, organised crime, tax evasion and tax fraud, tax avoidance and the illicit trafficking of firearms and cultural property; strengthening compliance with international law;
+
+(i) strengthening the freedom and independence of the media and artistic and academic freedom as well as an enabling environment for civil society; fostering social dialogue and civil society involvement; promoting non-discrimination to ensure and strengthen respect for the rights of persons belonging to all minorities, and the promotion of gender equality, the overall empowerment of women and girls, as well as, the rights of children and persons with disabilities; reinforcing the effectiveness of public administration; encouraging access to information and the participation of civil society in decision making processes and public scrutiny, and supporting transparency, structural reforms and good governance at all levels, including in the areas of public financial management and public procurement, competition and state aid; supporting initiatives and bodies and organisations involved in supporting and enforcing democracy, international justice and anti-corruption efforts in Ukraine;
+
+(j) developing and strengthening environmental protection, a sustainable and just green transition in all economic sectors, including Ukraine’s transition towards climate neutrality, in accordance with the Paris Agreement; improve the awareness of and fight against environmental crime; promoting digital transformation as an enabler for sustainable development and inclusive growth; supporting ecological rehabilitation following the environmental damage inflicted by military operations and contributing to decontamination, the demining effort and clearance of other explosive remnants of war as well as pollution caused by military activity;
+
+(k) supporting political and administrative decentralisation and local development, especially by supporting meaningful consultation and a level playing field for all levels of government when accessing funds via open, fair, neutral and transparent procedures;
+
+(l) supporting cross-border cooperation with the Member States bordering Ukraine in areas such as trade, environmental protection and the fight against international crime, provided that Ukraine remains the sole beneficiary of the funding.
+
+### Article 4 — General principles
+
+1\. Cooperation under the Facility shall be based on and shall promote the development effectiveness principles, where applicable, across all modalities, namely ownership of development priorities by Ukraine, a focus on results, inclusive development partnerships, transparency and mutual accountability. The Facility shall strive to ensure a balanced and needs-based allocation and use of resources and an appropriate geographical balance of projects.
+
+2\. Support from the Facility shall be additional to the support provided under other Union programmes and instruments. Activities eligible for funding under this Regulation may receive support from other Union programmes and instruments provided that such support does not cover the same costs.
+
+3\. In order to promote the complementarity, coherence and efficiency of their actions and initiatives, the Commission and the Member States shall cooperate and shall strive to avoid duplication between support under this Regulation and other support provided by the Union, the Member States, third countries, multilateral and regional organisations and entities, such as international organisations and the relevant international financial institutions, agencies and non-Union donors, in line with the established principles for strengthening operational coordination in the field of external assistance, including through enhanced coordination with Member States at local level and through the harmonisation of policies and procedures, in particular the international principles on development effectiveness. In order to avoid the duplication of support, increase ownership from the Ukrainian authorities and simplify administrative work, support under the Facility shall, as far as possible, be integrated into international efforts towards a financial architecture for the recovery of Ukraine and be coordinated with relevant donors and international financial institutions.
+
+4\. Activities under the Facility shall comply, to the extent possible in a war-torn country, with the climate and environmental standards of the Union. Those activities shall mainstream climate change mitigation and adaptation, environmental protection and biodiversity conservation, human rights, democracy, gender equality and non-discrimination, where relevant, disaster risk reduction and energy infrastructure safety, and shall support progress towards the United Nations Sustainable Development Goals, promoting integrated activities that can create co-benefits and meet multiple objectives in a coherent way, contributing to the reduction of poverty and promoting peaceful and inclusive societies. Those activities shall, to the extent possible, avoid stranded assets, be compatible with the principle of ‘do no harm’, as well as with the sustainability mainstreaming approach underpinning the European Green Deal and shall be also guided by the ‘leaving no one behind’ principle.
+
+5\. The Facility shall not support activities or measures which are incompatible with Ukraine’s National Energy and Climate Plan, if available, or with Ukraine’s nationally determined contribution under the Paris Agreement, which promote investments in fossil fuels or cause significant adverse effects on the environment or the climate or biodiversity, unless such activities or measures are strictly necessary to achieve the objectives of the Facility, taking into account the need to rebuild and modernise infrastructure and rehabilitate natural environment damaged by the war in a resilient way, and are accompanied, where relevant, by appropriate measures to avoid, prevent or reduce and, if possible, offset those adverse effects.
+
+6\. In line with the principle of inclusive partnership, the Commission shall strive to ensure, as appropriate, democratic scrutiny in the form of consultation by the Ukrainian government of the Verkhovna Rada in accordance with the constitutional order of Ukraine, as well as of relevant stakeholders, including local and regional authorities, social partners and civil society, including vulnerable groups, so as to allow them to participate in shaping the design and implementation of activities eligible for funding under the Facility and in the related monitoring, scrutiny and evaluation processes, as relevant. That consultation shall seek to represent the pluralism of the Ukrainian society and business community and the inclusion of different communities in Ukraine. All consultations shall duly take into account the participation of women. The Commission shall encourage coordination among the relevant stakeholders and shall contribute to strengthening the capacity of civil society organisations. In addition, the Commission shall ensure that civil society in Ukraine, including non-governmental organisations, is able to directly report any irregularities it may detect to the Commission via appropriate standing channels, as well as to send to the Commission opinions on the implementation of the Ukraine Plan and the evaluation of its measures by the Ukrainian government.
+
+7\. The Commission, in close cooperation with the Member States and Ukraine, shall ensure the implementation of Union commitments to increased transparency and accountability in the delivery of support, including by promoting the implementation and reinforcement of internal control systems and anti-fraud policies. The Commission shall make information on the volume and allocation of support publicly available through a single web portal, and shall ensure that data are up-to-date, easily accessible, and available in machine-readable format.
+
+### Article 5 — Precondition for support under the Facility
+
+1\. A precondition for the support to Ukraine under the Facility shall be that Ukraine continues to uphold and respect effective democratic mechanisms, including a multi-party parliamentary system and the rule of law, and to guarantee respect for human rights, including the rights of persons belonging to minorities.
+
+2\. The Commission shall monitor the fulfilment of the precondition set out in paragraph 1 before disbursements to Ukraine under the Facility are made and throughout the period of the support provided under the Facility taking duly into account the Commission’s regular enlargement report. The Commission shall take into account the relevant recommendations of international bodies, such as the Council of Europe and its Venice Commission, in this process. The Commission shall inform the Council of the fulfilment of the precondition set out in paragraph 1 before disbursements to Ukraine. Where the Commission finds that the precondition is not met or is no longer met, it shall submit to the Council a proposal for an implementing decision suspending the payments referred to in Article 26, irrespective of the fulfilment of conditions referred to in Article 16(2). In its assessment, the Commission shall also take into account the context in Ukraine and the consequences of the application of martial law in Ukraine. The Commission’s assessment shall be transmitted simultaneously to the European Parliament and to the Council. Where, at the request of Ukraine or on its own initiative, the Commission considers that the precondition is again met, it shall submit to the Council a proposal for an implementing decision lifting the suspension of payments. In the cases to which this paragraph applies, the Council shall act, as a rule, within one month of receiving the Commission’s proposal.
+
+## CHAPTER II — FINANCING AND IMPLEMENTATION
+
+### Article 6 — Budget
+
+1\. The resources for the implementation of the Facility shall be available through the Ukraine Reserve to be mobilised in the framework of the annual budgetary procedure in accordance with Article 10b of Regulation (EU, Euratom) 2020/2093, with the following indicative distribution:
+
+(a) 31 % in the form of non-repayable financial support pursuant to Chapter III;
+
+(b) 41 % for expenditure pursuant to Chapter IV;
+
+(c) 26 % for expenditure pursuant to Chapter V;
+
+(d) 2 % for expenditure pursuant to paragraph 5, which may be increased in exceptional circumstances but shall not in any event exceed 2,5 %.
+
+The total resources made available pursuant to the first subparagraph shall be for an amount of up to EUR 17 000 000 000 .
+
+The allocation of the available resources under the first subparagraph of paragraph 1 of this Article shall take into account in particular the need to cover expenditure in accordance with Article 23.
+
+2\. The financial support pursuant to Chapter III in the form of a loan, shall be available for an amount of up to EUR 33 000 000 000 for the period from 1 January 2024 to 31 December 2027.
+
+3\. The sum of the resources made available pursuant to paragraphs 1 and 2 shall not exceed EUR 50 000 000 000 for the period 2024 to 2027.
+
+4\. Additional contributions for financing the support referred to in paragraph 1 of this Article may be provided in accordance with Article 7.
+
+Amounts made accessible pursuant to Article 4(1) of Regulation (EU) 2026/467 ( 1 ) shall be implemented as additional financial support pursuant to Chapter III of this Regulation in the form of loans and shall be in addition to the amounts referred to in paragraphs 2 and 3 of this Article.
+
+5\. The resources referred to in paragraph 1, first subparagraph, point (d), and paragraph 4 may be used for technical and administrative assistance for the implementation of the Facility, such as preparatory activities, monitoring, control, audit and evaluation activities, which are required for the management of the Facility and the achievement of its objectives, in particular studies, meetings of experts, the consultations with the Ukrainian authorities, conferences, consultation of stakeholders, information and communication activities, including inclusive outreach activities, and the corporate communication of the political priorities of the Union, insofar as they are related to the objectives of this Regulation, expenses linked to IT networks focusing on information processing and exchange, corporate information technology tools, and all other technical and administrative assistance expenses incurred by the Commission for the management and costs of the Facility at headquarters and in Union delegations. Expenses may also cover the costs of other supporting activities such as quality control and monitoring of projects on the ground and the costs of peer counselling and experts for the assessment and implementation of reforms and investments.
+
+6\. The resources not allocated or used for expenditure under paragraph 1, first subparagraph, point (d), of this Article, and under Article 23 shall be made available for other operational expenditure under paragraph 1 of this Article without prejudice to the prerogatives of the budgetary authority and subject to the third subparagraph of paragraph 1 of this Article.
+
+### Article 7 — Additional financial resources for the Facility
+
+1\. Member States, third countries, international organisations, international financial institutions or other sources may provide additional financial contributions to the Facility without being bound by the indicative distribution referred to in Article 6(1). Such contributions shall constitute external assigned revenue within the meaning of Article 21(2), points (a)(ii), (d) and (e), of Regulation (EU, Euratom) 2018/1046.
+
+Additional amounts received as external assigned revenue within the meaning of Article 21(5) of Regulation (EU, Euratom) 2018/1046 under the relevant Union legal acts shall be added to the resources referred to in Article 6 of this Regulation.
+
+2\. The contributions referred to in paragraph 1 of this Article shall be implemented in accordance with the same rules and conditions as the amount referred to in Article 6(1).
+
+3\. The contributions to the Ukraine Guarantee and to financial instruments under Chapter IV shall be made in accordance with Article 29.
+
+### Article 8 — Implementation and forms of Union funding
+
+1\. The Facility shall be implemented in accordance with Regulation (EU, Euratom) 2018/1046, either in direct management or in indirect management with any of the entities referred to in Article 62(1), first subparagraph, point (c), of that Regulation.
+
+2\. Union funding may be provided in any of the forms laid down in Regulation (EU, Euratom) 2018/1046, in particular grants, prizes, procurement, budget support, financial instruments, budgetary guarantees, blending operations and financial assistance.
+
+3\. Financial instruments, budgetary guarantees and blending operations combining support from financial instruments or budgetary guarantees under the Facility shall be implemented in accordance with the principles laid down in Title X, and in particular with Articles 208 and 209(1), (2) and (4), of Regulation (EU, Euratom) 2018/1046. Depending on the required operational and financial capacity, the counterpart of the budgetary guarantee or the entrusted entity implementing financial instruments may be the EIB Group, a multilateral European financial institution, such as the EBRD, or a bilateral European financial institution, such as development banks or the World Bank Group. Whenever possible, non-European multilateral financial institutions may participate in the Facility through joint operations with European financial institutions. The implementation of financial instruments, budgetary guarantees and blending operations under the Facility may be complemented by additional forms of financial support from either Member States or third parties.
+
+### Article 9 — Framework agreement
+
+1\. The Commission shall conclude a framework agreement with Ukraine (the ‘Framework Agreement’) for the implementation of the Facility setting out specific arrangements for the management, control, supervision, monitoring, evaluation, reporting and audit of funds under the Facility, including avoiding double funding, as well as to prevent, detect, investigate and correct irregularities, fraud, corruption or any other illegal activity affecting the financial interests of the Union and conflicts of interest, including the effective investigation and prosecution of offences affecting the funds provided under the Facility. The Framework Agreement shall be complemented by financing agreements referred to in Article 10 and a loan agreement referred to in Article 22, setting out specific provisions for the management and implementation of funding under the Facility. The Framework Agreement, including any related documentation, shall be made available, upon request, to the European Parliament and the Council simultaneously and without delay.
+
+2\. With the exception of bridge financing referred to in Article 25, funding shall only be granted to Ukraine after the Framework Agreement and the applicable financing and loan agreements have entered into force.
+
+3\. The Framework Agreement, the financing agreements and the loan agreement concluded with Ukraine, taken as a whole, and contracts and agreements signed with persons or entities receiving Union funds shall ensure that the obligations set out in Article 129 of Regulation (EU, Euratom) 2018/1046 are fulfilled.
+
+4\. The Framework Agreement shall ensure the commitment of Ukraine to achieve a high level of protection of the financial interests of the Union and shall lay down detailed provisions concerning, in particular:
+
+(a) the commitment of Ukraine to make decisive progress towards a robust framework to fight fraud, and establish more efficient and effective internal control systems, including appropriate mechanisms for the protection of whistleblowers as well as appropriate mechanisms and measures to effectively prevent, detect and correct irregularities, fraud, corruption and conflicts of interest as well as to support deoligarchisation efforts and to strengthen the fight against money laundering, organised crime, misuse of public funds, terrorism financing, tax avoidance, tax fraud or tax evasion, and other illegal activities affecting the funds provided under the Facility;
+
+(b) the activities related to control, supervision, monitoring, evaluation, reporting and audit of Union funding under the Facility, as well as detections, investigations, prosecutions, antifraud measures and cooperation, including mutual legal assistance in criminal matters and extradition;
+
+(c) control requirements for release of funding under the Facility to Ukraine;
+
+(d) rules on taxes, duties and charges in accordance with Article 27(9) and (10) of Regulation (EU) 2021/947;
+
+(e) the recognition of the responsibilities of the Audit Board referred to in Article 36, and the modalities of Ukraine’s cooperation with it;
+
+(f) the obligation for persons or entities implementing Union funds under the Facility to notify the Audit Board, the Commission, OLAF and, where applicable, the EPPO, without delay, of suspected or actual cases of irregularities, fraud, corruption and conflicts of interest and other illegal activities affecting the funds provided under the Facility and their follow-up;
+
+(g) the right of the Commission to monitor activities under the Facility carried out by the Ukrainian authorities, along the whole project cycle, including, inter alia, project selection and award procedures, including for public procurement, to take part in such activities as observer, as appropriate, and to make recommendations for the improvement of such activities and commitment from the Ukrainian authorities to do their best efforts to implement such recommendations of the Commission and to report on that implementation;
+
+(h) the obligations referred to in Article 35(2), including the precise rules and a timeframe on collection of data by Ukraine and access to it for the Commission, OLAF, the European Court of Auditors and, where applicable, the EPPO;
+
+(i) the obligation for Ukraine to transmit electronically to the Commission the data referred to in Article 27;
+
+(j) the obligations referred to in Article 43(2) on communication activities and the visibility of the Union funding.
+
+### Article 10 — Financing agreements
+
+1\. Financing agreements shall be concluded for Chapters III and V. They shall set out the responsibilities and obligations of Ukraine in the implementation of Union funds, including the obligations set out in Article 129 of Regulation (EU, Euratom) 2018/1046. They shall also set out the conditions for payment of the non-repayable financial support, including in relation to the implementation of the Framework Agreement, including the internal control systems as referred to in Article 9(4), points (a) and (c). The financing agreements shall also set out the Union’s rights and obligations. They shall be made available, upon request, to the European Parliament and the Council simultaneously.
+
+2\. The financing agreements shall include rules on reporting to the Commission on how activities are carried out, and on whether the conditions referred to in Article 16(2) are fulfilled.
+
+### Article 11 — Rules on the eligibility of persons and entities, on the origin of supply and materials and on restrictions under the Facility
+
+1\. Participation in procurement and in grant and prize award procedures for activities financed under the Facility shall be open to international and regional organisations and to all natural persons who are nationals of, or legal persons effectively established in:
+
+(a) Member States, Ukraine, Western Balkan partners, Georgia and Moldova and Contracting Parties to the Agreement on the European Economic Area;
+
+(b) countries which provide a level of support to Ukraine comparable to that provided by the Union taking into account the size of their economy and for which reciprocal access to external assistance in Ukraine is established by the Commission.
+
+2\. The reciprocal access referred to in paragraph 1, point (b), may be granted for a limited period of at least one year whenever a country grants eligibility on equal terms to entities from the Union and from countries eligible under the Facility.
+
+The Commission shall decide by means of implementing acts on the reciprocal access after consulting Ukraine. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42.
+
+3\. All supplies and materials financed and procured under the Facility shall originate from any country referred to paragraph 1, points (a) and (b), unless those supplies and materials cannot be sourced under reasonable conditions in any of those countries. In addition, the rules on restrictions in paragraph 7 apply. The Commission shall include information on the implementation of this paragraph in the annual report referred to in Article 39(4).
+
+4\. The eligibility rules set out in this Article shall not apply to, and shall not create nationality restrictions for, natural persons employed or otherwise legally contracted by an eligible contractor or, where applicable, subcontractor except where the nationality restrictions are based on the rules provided for in paragraph 7.
+
+5\. For activities jointly co-financed by an entity or implemented in direct or indirect management with entities referred to in Article 62(1), first subparagraph, point (c), of Regulation (EU, Euratom) 2018/1046 or for activities implemented by Ukrainian entities under Chapter III of this Regulation, the eligibility rules of those entities or of Ukraine shall also apply in addition to the rules established under this Article, including, where applicable, the restrictions provided for under paragraph 7 of this Article and duly reflected in the financing agreements and contractual documents signed with those entities.
+
+6\. Where additional contributions are provided in accordance with Article 7 through external assigned revenues, the eligibility rules in the agreement with the person providing the additional contribution shall apply with the rules on restrictions provided for under paragraph 7 of this Article.
+
+7\. The eligibility rules and rules on the origin of supplies and materials as set out in paragraphs 1 and 3 and the rules on the nationality of the natural persons as set out in paragraph 4 may be restricted with regard to the nationality, geographical location or nature of the legal entities participating in procurement procedures as well as with regard to the geographical origin of supplies and materials, in the following cases:
+
+(a) where such restrictions are required on account of the specific nature or objectives of the activity or specific award procedure or where those restrictions are necessary for the effective implementation of the activity;
+
+(b) where the activity or specific award procedures affect security or public order, in particular concerning strategic assets and interests of the Union, its Member States, or Ukraine, including the protection of the integrity of digital infrastructure, communication and information systems, and related supply chains.
+
+8\. Tender applicants and candidates from non-eligible countries may be accepted as eligible in cases of urgency or where services are unavailable in the markets of the countries or territories concerned, or in other duly substantiated cases where the application of the eligibility rules would make the realisation of an activity impossible or exceedingly difficult.
+
+### Article 12 — Carry-overs, annual instalments, commitment appropriations, surpluses from the budgetary guarantee, repayments and revenue generated by financial instruments
+
+1\. By way of derogation from Article 12(4) of Regulation (EU, Euratom) 2018/1046, unused commitment and payment appropriations under the Facility shall be automatically carried over and may be committed and used, respectively, up to 31 December of the following financial year. The amount carried over shall be used first in the following financial year.
+
+2\. The Commission shall submit to the European Parliament and the Council information on commitment appropriations carried over, including the amounts involved in accordance with Article 12(6) of Regulation (EU, Euratom) 2018/1046.
+
+3\. By way derogation from Article 15 of Regulation (EU, Euratom) 2018/1046, commitment appropriations corresponding to the amount of decommitments made as a result of total or partial non-implementation of an activity under the Facility shall be made available again to the benefit of the budget line of origin.
+
+4\. By way of derogation from the first, second and fourth subparagraphs of Article 209(3) of Regulation (EU, Euratom) 2018/1046, any revenues and repayments from financial instruments established under this Regulation shall constitute internal assigned revenue within the meaning of Article 21(5) of Regulation (EU, Euratom) 2018/1046, to the Facility or its successor programme.
+
+5\. By way of derogation from Article 213(4), point (a), of Regulation (EU, Euratom) 2018/1046, any surplus of the provisions for the Ukraine Guarantee shall constitute internal assigned revenue within the meaning of Article 21(5) of that Regulation to the Facility or its successor programme.
+
+6\. Budgetary commitments for activities extending over more than one financial year may be broken down over several years into annual instalments, in accordance with Article 112(2) of Regulation (EU, Euratom) 2018/1046.
+
+The third subparagraph of Article 114(2) of Regulation (EU, Euratom) 2018/1046 shall not apply to the activities referred to in the first subparagraph of this paragraph.
+
+### Article 13 — Exceptional financing
+
+1\. In duly justified exceptional circumstances, in particular where a significant deterioration of the war makes it impossible for Ukraine to fulfil the conditions attached to the forms of support under this Regulation, the Facility may provide exceptional financing to Ukraine in order to maintain its macro-financial stability and to foster the achievement of the objectives set out in Article 3. Such exceptional financing shall be granted for individual periods of up to three months and shall cease as soon as the fulfilment of the conditions becomes possible again. Financing under this Article may be granted in addition to and during the same period of exceptional bridge financing granted under Article 25.
+
+2\. For the purpose of paragraph 1, where the Commission finds that it is impossible for Ukraine to fulfil the conditions attached to support provided under this Regulation due to such duly justified exceptional circumstances, it may submit to the Council a proposal for an implementing decision providing for exceptional financing to Ukraine under the Facility. The Council shall act, as a rule, within one month of receiving the Commission’s proposal.
+
+3\. The exceptional financing shall be subject to the precondition set out in Article 5(1) and shall be financed within the resources referred to in Article 6(1), first subparagraph, point (a), and (2).
+
+4\. The implementing decision referred to in paragraph 2 shall set out the audit, control, monitoring and reporting rules, as well as the conditions and modalities for the exceptional financing.
+
+## CHAPTER III — PILLAR I: UKRAINE PLAN
+
+### Article 14 — Preparation and submission of the Ukraine Plan
+
+1\. In order to receive support under the Facility, Ukraine shall prepare and submit to the Commission a Ukraine Plan (the ‘Ukraine Plan’).
+
+2\. The Ukraine Plan shall be prepared by the Government of Ukraine with due involvement of the Verkhovna Rada in accordance with the constitutional order of Ukraine. Ukraine shall strive to submit the Ukraine Plan to the Commission by 2 May 2024. Ukraine may submit a draft of the Ukraine Plan to the Commission. The Commission shall share that draft simultaneously with the European Parliament and the Council.
+
+3\. When preparing the Ukraine Plan in accordance with Article 17, Ukraine shall take particular account of the situation in its regional, local and urban areas, having regard to their specific needs for recovery and reconstruction, reform, modernisation and decentralisation.
+
+4\. The preparation and implementation of the Ukraine Plan shall be done in consultation with regional, local, urban and other public authorities, as well as with social partners and civil society organisations, in accordance with the multi-level governance principle, and taking into account a bottom-up approach. In addition, in accordance with its national legal framework, Ukraine shall ensure that the Verkhovna Rada plays its role in the implementation of the Ukraine Plan in a duly informed way, in line with its prerogatives, including its authority to legislate, approve the state budget and oversee its execution, and oversee the executive branch.
+
+### Article 15 — Relation of the Ukraine Plan to the Pillars of the Facility
+
+1\. The Ukraine Plan shall provide for an overarching framework to achieve the objectives set out in Article 3.
+
+2\. The Ukraine Plan shall constitute the basis for the support provided under Pillar I of the Facility as set out in Article 1(2), point (a), and as referred to in this Chapter. The support provided under Pillars II and III of the Facility shall be coherent and avoid overlaps with the support provided under Pillar I covered by the Ukraine Plan, and in particular shall be guided by the principles set out in Article 16.
+
+### Article 16 — Principles for financing under the Ukraine Plan
+
+1\. The Ukraine Plan shall set out the reform and investment agenda of Ukraine, integrated in an economic and fiscal policy framework, towards the achievement of the general and specific objectives set out in Article 3. The Ukraine Plan shall comprise measures for the implementation of reforms and public investment through a comprehensive and coherent package, which may also include public schemes that aim to incentivise private investments. The Ukraine Plan shall identify the qualitative and quantitative steps as referred to in paragraph 2 of this Article, which in the case of reforms and investments shall be measurable.
+
+2\. The Facility shall provide financing under this Chapter upon satisfactory fulfilment of the precondition set out in Article 5(1), as well as conditions laid down in the Ukraine Plan, taking the form of qualitative or quantitative steps. Such conditions shall reflect the different objectives of the Facility, as set out in Article 3, and shall include conditions related to essential requirements, such as the maintenance of economic and financial stability, budget oversight and public financial management, and conditions related to the implementation of the reforms and investments set out in the Ukraine Plan.
+
+3\. The conditions referred to in paragraph 2 of this Article shall reflect the amounts referred to in Article 6(1), first subparagraph, point (a), and (2) and relevant contributions under paragraph 4 of that Article.
+
+4\. An amount equivalent to at least 20 % of the non-repayable financial support referred to in Article 6(1), first subparagraph, point (a), shall be allocated to the recovery, reconstruction and modernisation needs of Ukraine’s sub-national authorities, in particular local self-government, in line with Article 17.
+
+5\. Exceptionally, measures started from 1 January 2023 onwards shall be eligible provided that they comply with the requirements set out in this Regulation. Those measures shall be duly justified and properly documented.
+
+6\. The Ukraine Plan shall contribute to and be consistent with the relevant reform priorities identified in the context of Ukraine’s accession path, as outlined in the Commission’s Opinion on Ukraine's application for membership of the Union (the ‘Commission Opinion’) and the Analytical Report following that opinion (the ‘Analytical Report’), the Commission’s regular enlargement report and subsequent Council conclusions, and the Association Agreement including a Deep and Comprehensive Free Trade Area. It shall also contribute to and be consistent with Ukraine’s nationally determined contribution under the Paris Agreement, Ukraine’s commitments under the United Nations Convention on Biological Diversity and, if available, Ukraine’s National Energy and Climate Plan.
+
+7\. The Ukraine Plan shall respect the general principles set out in Article 4.
+
+### Article 17 — Content of the Ukraine Plan
+
+1\. The Ukraine Plan shall in particular set out the following elements, which shall be duly reasoned and substantiated:
+
+(a) measures constituting a needs-based, coherent, comprehensive and adequately balanced response to the objectives set out in Article 3, including structural reforms and measures to promote convergence with the Union, to strengthen the rule of law, democracy and respect of human rights and fundamental freedoms, as well as the application of the conditions referred to in Article 16(2), so that the Ukraine Plan as a whole raises the growth rate of the Ukrainian economy, reduces economic and social inequalities and ensures progress of Ukraine towards the Union’s social, economic, and environmental standards;
+
+(b) an explanation of how the Ukraine Plan contributes to and is consistent with addressing the relevant challenges identified in the context of Ukraine’s accession path, as outlined in the Commission Opinion and the Analytical Report, and the Association Agreement including a Deep and Comprehensive Free Trade Area;
+
+(c) an explanation of how the Ukraine Plan and its measures are consistent with the general principles referred to in Article 4, as well as requirements, plans and programmes referred to in Article 16;
+
+(d) an indicative timetable, and the envisaged qualitative and quantitative steps, which in the case of reforms and investments shall be measurable, to be implemented by 31 December 2027;
+
+(e) the arrangements for the effective implementation and monitoring of and reporting on the Ukraine Plan by Ukraine, including the proposed qualitative and quantitative steps, which in the case of reforms and investments shall be measurable, and the related indicators, as well as for the due involvement of the Verkhovna Rada;
+
+(f) an explanation of how the Ukraine Plan corresponds to the recovery, restoration reconstruction and modernisation needs in Ukraine’s regions and municipalities stemming from Russia’s war of aggression and thereby enhances their inclusive and sustainable economic, social, environmental and territorial development, reinforces social cohesion, supports decentralisation reform across Ukraine and convergence towards the Union’s standards; that explanation shall take into account the powers, tasks and responsibilities assigned to different levels of government;
+
+(g) an explanation of the methodology and processes used for the selection and implementation of projects, and the mechanisms to involve sub-national authorities, in particular municipalities, as well as civil society organisations, in decision-making on the use of support in the reconstruction process at local level and in the democratic scrutiny process, in particular timely and equal access to information and funds for the relevant sub-national authorities, including the methodology used to track related expenditure;
+
+(h) an explanation of how the Ukraine Plan ensures that the reconstruction projects selected and implemented by such sub-national authorities constitute an adequately substantial share of the support; that explanation shall also cover twinning and partnerships between cities, as well as peer-to-peer cooperation and programmes embedded in partnerships between cities and regions in the Union and those in Ukraine, where relevant;
+
+(i) for the preparation and for the implementation of the Ukraine Plan, a detailed explanation of the consultation process, conducted in accordance with the national legal framework, and of the involvement and consultations planned during implementation, of the Verkhovna Rada as well as relevant stakeholders, including local and regional representative bodies and authorities, social partners and civil society organisations, and of how the input of those stakeholders is reflected in the Ukraine Plan;
+
+(j) an explanation of the extent to which the measures under the Ukraine Plan are expected to contribute to:
+
+(i) climate and environmental objectives, including biodiversity conservation, in particular those measures related to relevant initiatives and reforms, and how compatibility with the principle of ‘do no significant harm’ is ensured to the extent possible in a context of war or post-war recovery and reconstruction;
+
+(ii) the promotion of the rule of law;
+
+(iii) social objectives, including the inclusion of groups in vulnerable situations, and ensuring the best interests of children; and
+
+(iv) gender equality and the empowerment of women and girls, and promotion of women and girls’ rights;
+
+(k) a detailed explanation of Ukraine’s system and planned measures to effectively prevent, detect and correct irregularities, fraud, all forms of corruption, including high-level corruption, or any other illegal activity affecting the financial interests of the Union, and conflicts of interest, as well as to effectively investigate and prosecute offences affecting the funds provided under the Facility, and of the arrangements that aim to avoid double funding from the Facility and other Union programmes or donors, as well as to ensure swift judicial cooperation with competent authorities of the Union and its Member States;
+
+(l) an explanation of how the Ukraine Plan ensures that other donors are able to contribute to supporting its measures;
+
+(m) any other relevant information.
+
+2\. The Ukraine Plan shall be results and impact based and shall include measurable indicators such as key performance indicators, where applicable, for assessing progress towards the achievement of the general and specific objectives referred to in Article 3.
+
+### Article 18 — Commission assessment of the Ukraine Plan
+
+1\. The Commission shall assess the relevance, comprehensiveness and appropriateness of the Ukraine Plan or, where applicable, the amendment to Ukraine Plan referred to in Article 20, without undue delay, and shall submit a proposal for a Council implementing decision in accordance with Article 19(1). When carrying out that assessment, the Commission shall act in close cooperation with Ukraine and the international partners contributing to its implementation. The Commission may make observations, seek additional information or request that Ukraine modifies the draft Ukraine Plan referred to in Article 14(2).
+
+2\. When assessing the Ukraine Plan, and in the determination of the amount to be allocated to Ukraine, the Commission shall take into account relevant available analytical information on Ukraine including its macroeconomic situation and debt sustainability, the justification and the elements provided by Ukraine pursuant to Article 17(1), as well as any other relevant information such as, in particular, the information listed in Article 16(6).
+
+3\. In its assessment, the Commission shall take into account the following criteria:
+
+(a) whether the Ukraine Plan represents a needs-based, coherent, comprehensive and adequately balanced response to the objectives set out in Article 3, including structural reforms and measures to promote the convergence with the Union, to strengthen the rule of law, democracy, the respect of human rights and fundamental freedoms as well as the application of the conditions referred to in Article 16(2), so that the Ukraine Plan as a whole raises the growth rate of the Ukrainian economy, reduces economic and social inequalities and ensures Ukraine’s progress towards the Union’s social, economic, and environmental standards;
+
+(b) whether the Ukraine Plan contributes to and is consistent with addressing the relevant challenges identified in the context of Ukraine’s accession path, as outlined in the Commission Opinion and the Analytical Report, and the Association Agreement including a Deep and Comprehensive Free Trade Area;
+
+(c) whether the Ukraine Plan and its measures are consistent with the general principles referred to in Article 4, as well as the requirements, plans and programmes referred to in Article 16;
+
+(d) whether the Ukraine Plan corresponds to the recovery, restoration, reconstruction and modernisation needs stemming from Russia’s war of aggression in Ukraine’s regions and municipalities and thereby enhances their inclusive and sustainable economic, social, environmental and territorial development, reinforces social cohesion, and supports the decentralisation reform across Ukraine and convergence towards the Union’s standards; whether it takes into account the powers, tasks and responsibilities assigned to different levels of government; whether the methodology and processes used for the selection and implementation of projects, and the mechanisms to involve sub-national authorities, in particular municipalities as well as civil society organisations, in decision-making on the use of support in the reconstruction process at local level and in the democratic scrutiny process, in particular timely and equal access to information and funds for the relevant sub-national authorities are appropriate; whether the methodology used to track related expenditure for the reconstruction projects selected and implemented by such sub-national authorities is appropriate and whether such projects constitute an adequately substantial share of the support;
+
+(e) whether the measures in the Ukraine Plan are expected to contribute to climate change mitigation and adaptation, environmental protection, including biodiversity conservation, and to the green transition, or to addressing the challenges resulting therefrom; whether the measures included in the Ukraine Plan are compatible with the principle of ‘do no significant harm’, to the extent possible, in a context of war or post-war recovery and reconstruction;
+
+(f) whether the measures in the Ukraine Plan are expected to contribute to the promotion of the rule of law;
+
+(g) whether the measures in the Ukraine Plan are expected to contribute to social objectives, including the inclusion of groups in vulnerable situations, and ensure the best interests of children;
+
+(h) whether the measures in the Ukraine Plan are expected to promote gender equality and the empowerment of women and girls;
+
+(i) whether the arrangements proposed by Ukraine are expected to ensure an effective implementation and monitoring of and reporting on the Ukraine Plan and any updates thereof, in particular the due involvement of the Verkhovna Rada, including the measurable qualitative and quantitative steps, and the related indicators;
+
+(j) whether the arrangements proposed by Ukraine are expected to effectively ensure an adequate level of protection of the financial interests of the Union, in particular by preventing, detecting and correcting irregularities, fraud, all forms of corruption, including high-level corruption, conflicts of interest, or any other illegal activity affecting the financial interests of the Union; whether the arrangements proposed support the effective investigation and prosecution of offences affecting the funds provided under the Facility and ensure swift judicial cooperation with competent authorities of the Union and its Member States; whether the arrangements proposed by Ukraine are expected to allow avoiding double funding from the Facility and other Union programmes as well as other donors;
+
+(k) whether the Verkhovna Rada has been duly consulted, and whether the Ukraine Plan takes into account, where appropriate, the inputs of stakeholders, including local and regional representative bodies and authorities, social partners and civil society organisations, in accordance with the national legal framework;
+
+(l) whether the Ukraine Plan ensures that other donors are able to support its objectives.
+
+4\. For the purpose of the assessment of the Ukraine Plan submitted by Ukraine, the Commission may be assisted by experts.
+
+### Article 19 — Council implementing decision
+
+1\. In the case of a positive assessment, the Council shall, on a proposal from the Commission, approve by means of an implementing decision the assessment of the Ukraine Plan submitted by Ukraine in accordance with Article 14(2) or, where applicable, of its amendment submitted in accordance with Article 20(1) or (2). The Council shall act, as a rule, within one month of receiving the Commission’s proposal. The Council, acting by qualified majority, may amend the Commission’s proposal and adopt the amended proposal by means of an implementing decision.
+
+2\. The Commission proposal for a Council implementing decision shall set out, for the part to be funded by the Facility:
+
+(a) the reforms and investments to be implemented by Ukraine, the conditions laid down in the Ukraine Plan, including those in the form of measurable qualitative and quantitative steps corresponding to the related reforms and investments, as referred to in Article 16(2), including the indicative timetable;
+
+(b) the total and annual maximum amounts for non-repayable financial support and the total and annual indicative maximum amounts of the loan support referred to in Article 6(1), first subparagraph, point (a), and (2) and relevant contributions under paragraph 4 of that Article;
+
+(c) the instalments, structured in accordance with Article 16(2) and with point (b) of this paragraph, to be paid once Ukraine has achieved satisfactory fulfilment of the relevant qualitative and quantitative steps identified in relation to the implementation of the Ukraine Plan;
+
+(d) the envisaged timetable for disbursement of the support and its payment schedule;
+
+(e) the amount of the loan support to be paid in the form of a pre-financing in accordance with Article 24;
+
+(f) the time limit, which shall expire no later than 31 December 2027, by which the final qualitative and quantitative steps for both investment projects and reforms must be completed;
+
+(g) the arrangements and timetable for monitoring and implementation of the Ukraine Plan, including the due involvement of the Verkhovna Rada, as well as, where relevant, measures necessary for complying with Article 35;
+
+(h) the indicators for assessing progress towards the achievement of the general and specific objectives mentioned in Article 3;
+
+(i) the arrangements for providing full access by the Commission to the underlying relevant data;
+
+(j) information on the actual and planned contributions from other donors and an explanation on the coordination measures in the development and implementation of the Ukraine Plan which would ensure the achievement of its objectives;
+
+(k) an analysis of the impact of the Ukraine Plan on the macroeconomic situation, taking into account the debt sustainability of Ukraine.
+
+### Article 20 — Amendments to the Ukraine Plan
+
+1\. Where the Ukraine Plan, including relevant qualitative and quantitative steps, is no longer achievable by Ukraine, either partially or totally, because of objective circumstances, the Ukrainian authorities, after consulting the Verkhovna Rada, whenever relevant, may propose amendments to the Ukraine Plan.
+
+2\. The Commission may, in agreement with Ukraine, submit a proposal to amend the Council implementing decision referred to in Article 19(1), in particular to take into account changes in the circumstances allowing for an increase in ambition or a change of the amounts available, notably due to additional contributions by the Member States or from other sources as referred to in Article 6(4). The Council may request the Commission to assess whether the conditions set out in this paragraph are met and to submit, where appropriate, the relevant proposal.
+
+3\. Where the Commission considers that the reasons put forward by Ukraine justify an amendment to the Ukraine Plan, the Commission shall assess the amended Ukraine Plan in accordance with Article 18 and shall submit a proposal for an amendment of the Council implementing decision referred to in Article 19(1) without undue delay. The Council shall act, as a rule, within one month of receiving the Commission’s proposal. The Council, acting by qualified majority, may amend the Commission’s proposal and adopt the amended proposal by means of an implementing decision.
+
+### Article 21 — Scoreboard for the Ukraine Plan
+
+1\. The Commission shall establish a scoreboard for the Ukraine Plan (the ‘Scoreboard’) which shall display the progress made in the implementation of the Ukraine Plan.
+
+2\. The Commission shall be empowered to adopt a delegated act in accordance with Article 41 to supplement this Regulation by establishing the detailed elements of the Scoreboard with a view to displaying the progress in the implementation of the Ukraine Plan as referred to in paragraph 1 of this Article.
+
+3\. The Scoreboard shall be operational by 1 January 2025 and shall be updated by the Commission twice a year. The Scoreboard shall be made publicly available online.
+
+### Article 22 — Loan agreement and borrowing and lending operations
+
+1\. In order to finance support under the Facility in the form of loans, the Commission shall be empowered, on behalf of the Union, to borrow the necessary funds on the capital markets or from financial institutions in accordance with Article 220a of Regulation (EU, Euratom) 2018/1046.
+
+2\. Upon adoption of the Council implementing decision referred to in Article 19(1), the Commission shall enter into a loan agreement with Ukraine in respect of the amount referred to in Article 6(2). The loan agreement shall lay down the availability period and the detailed terms of the support under the Facility in the form of loans, including in relation to the internal control systems as referred to in Article 9(4), points (a) and (c). The loans shall have maximum duration of 35 years. In addition to the elements laid down in Article 220(5) of Regulation (EU, Euratom) 2018/1046, the loan agreement shall contain the amount of pre-financing and rules on clearing of pre-financing.
+
+Upon adoption of the Council implementing decision referred to in Article 19(1) of this Regulation in respect of the amounts referred to in second subparagraph of Article 6(4) of this Regulation, the Commission shall enter into an amendment or addendum to the loan agreement with Ukraine referred to in the first subparagraph of this paragraph with the purpose of ensuring the implementation of the amounts pursuant to Chapter III of this Regulation, with the exception of rules on the duration and repayment of the loan, including borrowing cost subsidy, which shall be governed by Regulation (EU) 2026/467.
+
+3\. By way of derogation from Article 31(3) of Regulation (EU) 2021/947, the financial assistance provided to Ukraine in the form of loans under the Facility shall not be supported by the External Action Guarantee.
+
+4\. No provisioning for the loans under this Regulation shall be constituted and, by way of derogation from Article 211(1) of Regulation (EU, Euratom) 2018/1046, no provisioning rate as a percentage of the amount referred to in Article 6(2) of this Regulation shall be set.
+
+5\. The loan agreement shall be made available, upon request, simultaneously to the European Parliament and the Council.
+
+### Article 23 — Borrowing costs subsidy
+
+1\. By way of derogation from Article 223(4) of Regulation (EU, Euratom) 2024/2509 and subject to available resources, the Facility may bear the cost of funding, cost of liquidity management, and cost of service for administrative overheads related to the borrowing and lending (‘borrowing costs subsidy’), except for costs related to early repayment of the loan and except for amounts made accessible pursuant to Article 4(1) of Regulation (EU) 2026/467. For the period from 1 January 2024 to 31 December 2027, the borrowing costs subsidy shall be covered under Chapter V of this Regulation.
+
+2\. Ukraine may request the borrowing costs subsidy referred to in paragraph 1 each year. The Commission may award the borrowing costs subsidy for an amount not exceeding the limits of the appropriations made available in the annual budget.
+
+### Article 24 — Pre-financing
+
+1\. Subject to the adoption by the Council of the implementing decision referred to in Article 19(1), Ukraine may request, as part of the Ukraine Plan, a pre-financing payment of an amount of up to 7 % of the loan support provided under Chapter III.
+
+2\. The Commission may make the payment of pre-financing after the approval of the Ukraine Plan referred to in Article 19 and the entry into force of the loan agreement referred to in Article 22. The payments shall be made subject to the available funding on capital markets referred to in Article 22(1) and to the respect of the precondition set out in Article 5(1).
+
+3\. The Commission shall decide on the timeframe for the disbursement of the pre-financing, which may be disbursed in one or more tranches.
+
+### Article 25 — Exceptional bridge financing
+
+1\. Without prejudice to Article 24, if the Framework Agreement is not signed or the Ukraine Plan is not adopted by 2 March 2024, the Commission may decide to provide limited, exceptional support to Ukraine in the form of loans for a period of up to six months starting from 1 January 2024, subject to satisfactory progress on the preparation of the Ukraine Plan, in order to support the macro-financial stability of the country, subject to conditions to be agreed in a Memorandum of Understanding (MoU) between the Commission and Ukraine, to the respect of the precondition set out in Article 5(1), to compliance with Article 6 and to available funding.
+
+2\. The MoU shall in particular establish policy conditions, indicative financial planning and the reporting requirements, proportionate to the duration of the financing. The policy conditions shall include a commitment to the principles of sound financial management with a focus on anti-corruption and anti-money laundering, as well as measures to improve revenue management.
+
+The MoU shall be adopted and amended by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42.
+
+3\. The amount of support referred to in paragraph 1 shall not exceed EUR 1 500 000 000 on a monthly basis. The Commission shall enter into a loan agreement with Ukraine, which shall comply as appropriate with Articles 22 and 23.
+
+### Article 26 — Rules on payments, withholding and reduction of non-repayable financial support and loans
+
+1\. Payments of the non-repayable financial support and of the loans to Ukraine under this Article shall be made in accordance with the budget appropriations and subject to the available funding. Payments shall be made in instalments. An instalment may be disbursed in one or more tranches.
+
+2\. Every quarter, Ukraine shall submit a duly justified request for payment of the non-repayable financial support and of the loan support with a view to the Commission paying that non-repayable financial support and loan support on the basis of the assessment described in paragraph 3.
+
+3\. The Commission shall assess without undue delay whether Ukraine has met the precondition set out in Article 5(1) and has achieved satisfactory fulfilment of the qualitative and quantitative steps set out in the Council implementing decision referred to in Article 19(1). The satisfactory fulfilment of qualitative and quantitative steps shall presuppose that measures related to the steps for which Ukraine had achieved satisfactory fulfilment have not been reversed by Ukraine. The Commission may be assisted by experts in carrying out its assessment.
+
+4\. Where the Commission makes a positive assessment of the satisfactory fulfilment of qualitative and quantitative steps, it shall submit to the Council without undue delay a proposal for a Council implementing decision establishing the satisfactory fulfilment of the conditions for payments referred to in paragraph 3. The Council shall act, as a rule, within three weeks of receiving that proposal. The Council, acting by qualified majority, may amend the Commission’s proposal and adopt the amended proposal by means of an implementing decision. On the basis of the Council implementing decision, the Commission shall adopt a decision authorising the disbursement of the part of the non-repayable financial support and of the loan corresponding to such steps.
+
+5\. Where the Commission makes a negative assessment of the fulfilment of qualitative and quantitative steps as per the indicative timetable, it shall inform the Council and the Parliament without undue delay and the payment of the non-repayable financial support and of the loan corresponding to such steps shall be withheld. The payment withheld shall be disbursed, in accordance with paragraph 4, only when Ukraine has duly justified, as part of a subsequent payment request, that it has taken the necessary measures to ensure satisfactory fulfilment of the qualitative and quantitative steps. The Commission shall develop a methodology for handling the partial fulfilment of steps as guidance.
+
+6\. Where the Commission considers that Ukraine has not taken the necessary measures within a period of 12 months from the initial negative assessment referred to in paragraph 5, the Commission shall notify Ukraine thereof. Ukraine may present its observations within two months from the communication of the Commission’s notification. Where the Commission concludes that Ukraine has not taken the necessary measures, it shall submit a proposal for a Council implementing decision reducing the amount of the non-repayable financial support and of the loan proportionately to the part corresponding to the relevant qualitative and quantitative steps. The Council shall act, as a rule, within one month of receiving the Commission’s proposal. The Council, acting by qualified majority, may amend the Commission’s proposal and adopt the amended proposal by means of an implementing decision.
+
+7\. In the event of identified cases of, or serious concerns in relation to, irregularities, fraud, corruption and conflicts of interest affecting the financial interests of the Union that have not been corrected by Ukraine, or a serious breach of an obligation resulting from agreements referred to in Articles 9, 10 and 22 of this Regulation, including on the basis of the reports of the Audit Board referred to in Article 36 of this Regulation or information provided by OLAF, the Commission may reduce the amount of the non-repayable financial support and recover any amount due to the Union budget, including by offsetting in line with Article 102 of Regulation (EU, Euratom) 2018/1046, or reduce the amount of the loan to be disbursed to Ukraine as referred to in paragraph 4 of this Article, or ask for early repayment of the loan.
+
+8\. By way of derogation from Article 116(2) of Regulation (EU, Euratom) 2018/1046, the payment deadline as referred to in Article 116(1), point (a), of that Regulation shall start running from the date of the communication of the decision authorising the disbursement to Ukraine pursuant to paragraph 4 of this Article.
+
+9\. Article 116(5) of Regulation (EU, Euratom) 2018/1046 shall not apply to payments made pursuant to this Article and to Article 24 of this Regulation.
+
+### Article 27 — Transparency with regard to persons and entities receiving funding for the implementation of the Ukraine Plan
+
+1\. Ukraine shall publish up-to-date data on persons and entities, including contractors, receiving amounts of funding exceeding the equivalent of EUR 100 000 cumulatively over the period of four years for the implementation of reforms and investments specified in the Ukraine Plan.
+
+2\. For persons and entities referred to in paragraph 1, the following information shall be published in a machine-readable format on a webpage, in order of total funds received, having due regard to the requirements of confidentiality and security, in particular the protection of personal data:
+
+(a) in the case of a legal person, the recipient’s full legal name and VAT identification number or tax identification number, where available, or another unique identifier established at the national level;
+
+(b) in the case of a natural person, the first and last name or names of the recipient;
+
+(c) the amount received by the recipient and the reforms and investments under the Ukraine Plan that this amount contributes to implementing.
+
+3\. The information referred to in paragraph 2 shall not be published where disclosure risks threatening the rights and freedoms of the persons or entities concerned or seriously harming the commercial interests of the recipients. Such information shall be made available to the Commission and to the Audit Board.
+
+4\. Ukraine shall transmit electronically to the Commission at least once a year the data on the persons and entities referred to in paragraph 1 of this Article, in a machine-readable format to be defined in the Framework Agreement, as referred to in Article 9(4), point (i).
+
+## CHAPTER IV — PILLAR II: UKRAINE INVESTMENT FRAMEWORK
+
+### Article 28 — Scope and structure
+
+1\. Under the Ukraine Investment Framework, the Commission shall provide the Union support to Ukraine in the form of financial instruments, budgetary guarantees or blending operations, including technical assistance linked to the implementation of Pillar II.
+
+2\. The Commission shall be supported by a steering board in the implementation of the Ukraine Investment Framework (the ‘Steering Board’). The Steering Board shall adopt its rules of procedure.
+
+3\. The Steering Board shall comprise representatives of the Commission and of each Member State. Ukrainian authorities shall be invited to attend Steering Board meetings as appropriate. The European Parliament and the Verkhovna Rada shall have observer status. Counterparts implementing the Ukraine Guarantee and financial instruments supported by the Ukraine Investment Framework, may be given observer status. The Commission shall chair the Steering Board.
+
+4\. The Steering Board shall provide strategic and operational guidance and support to the Commission on different aspects including risk profiles, the form of support, the design of financial products to be deployed, and on non-eligible sectors. It shall formulate opinions on the use of Union support through the Ukraine Guarantee, financial instruments and blending operations including the concessionality levels, taking into account the relevant risk assessments. The Steering Board shall, where possible, adopt opinions by consensus.
+
+5\. The Commission shall ensure that Union support provided under the Ukraine Investment Framework is consistent with the Ukraine Plan and contributes to its implementation, and is complementary to Union support to Ukraine granted under other Union programmes and instruments, taking into account the promotion of corporate social responsibility and responsible business conduct, in particular by respecting internationally agreed guidelines, principles and conventions on investment.
+
+6\. At least 15 % of the guarantees provided under the Ukraine Investment Framework shall be used to support micro, small and medium-sized enterprises, as defined in Article 2 of the Annex to Recommendation 2003/361/EC, including start-ups, including through financial tools which have as an objective to reduce the risk involved in the lending operations of Ukrainian banks.
+
+7\. For the purpose of Article 209(2), point (h), of Regulation (EU, Euratom) 2018/1046, the requirement on ex ante evaluations of financial instruments and budgetary guarantees shall be met by the positive assessments of the Ukraine Plan by the Commission, referred to in Article 19(1) of this Regulation.
+
+8\. The support under the Ukraine Investment Framework shall in particular serve the implementation of the Ukraine Plan while complementing the financing sources established by this Regulation.
+
+9\. At least 20 % of the overall amount corresponding to support under the Ukraine Investment Framework and to investments under the Ukraine Plan shall contribute, to the extent possible in a war-torn country, to climate change mitigation and adaptation, environmental protection, including biodiversity conservation, and to the green transition.
+
+10\. The Commission shall report annually on the implementation of the support under the Ukraine Investment Framework in accordance with Article 41(4) and (5) of Regulation (EU, Euratom) 2018/1046. For that purpose, each counterpart of the Ukraine Guarantee and each entrusted entity implementing financial instruments shall provide on an annual basis the information necessary to allow the Commission to comply with its reporting obligations.
+
+### Article 29 — Additional contributions to the Ukraine Guarantee and to financial instruments
+
+1\. Member States, third countries, and third parties may contribute to the Ukraine Guarantee, and to the financial instruments set up under the Ukraine Investment Framework. Contributions to the Ukraine Guarantee shall be made in accordance with Article 218(2) of Regulation (EU, Euratom) 2018/1046.
+
+2\. The contributions to the Ukraine Guarantee shall increase the amount of the Ukraine Guarantee without leading to additional contingent liabilities for the Union.
+
+3\. For all contributions referred to in paragraph 1, a contribution agreement shall be concluded between the Commission, on behalf of the Union, and the contributor. It shall contain, in particular, provisions concerning the payment conditions. The Commission shall inform the European Parliament and the Council simultaneously and without delay of the concluded contribution agreements.
+
+### Article 30 — Implementation of the Ukraine Guarantee and financial instruments
+
+1\. The Ukraine Guarantee and financial instruments supported under the Ukraine Investment Framework shall be implemented in indirect management pursuant to Article 62(1), first subparagraph, point (c), of Regulation (EU, Euratom) 2018/1046.
+
+2\. The eligible counterparts for the purposes of the Ukraine Guarantee and the eligible entrusted entities for the purpose of financial instruments shall be those identified in Article 208(4) of Regulation (EU, Euratom) 2018/1046, including those from third countries contributing to the Ukraine Guarantee in accordance with Article 29 of this Regulation. In addition, by way of derogation from Article 62(1), first subparagraph, point (c), of Regulation (EU, Euratom) 2018/1046, bodies governed by private law of a Member State, or a third country which has contributed to the Ukraine Guarantee in accordance with Article 29 of this Regulation, and which provide adequate assurance of their financial and operational capacity shall be eligible for the purpose of the Ukraine Guarantee.
+
+3\. The Commission shall ensure the effective, efficient, needs-based and fair use of available resources among eligible counterparts and, where relevant, eligible entrusted entities, in an inclusive approach, while promoting cooperation between them and taking due account of their capacities, added value, experience and risk-taking capacity.
+
+4\. The Commission shall ensure a fair and transparent treatment for all eligible counterparts and all eligible entrusted entities and shall ensure that conflicts of interest are avoided throughout the implementation period of the Ukraine Investment Framework. In order to ensure complementarity, the Commission may request relevant information from eligible counterparts for the purpose of the Ukraine Guarantee or from eligible entrusted entities for the purpose of financial instruments about their non-EU-supported operations.
+
+### Article 31 — Ukraine Guarantee
+
+1\. The Ukraine Guarantee of EUR 7 800 000 000 in current prices shall be established to guarantee operations supporting the objectives of the Facility. The Ukraine Guarantee shall be independent of and autonomous from the External Action Guarantee and shall be granted as an irrevocable, unconditional and on demand guarantee in accordance with Article 219(1) of Regulation (EU, Euratom) 2018/1046.
+
+2\. The Ukraine Guarantee shall be used to cover risks for the following types of operations aiming at supporting sovereign, sub-sovereign, non-commercial and commercial entities, and the private sector:
+
+(a) loans, including local currency loans;
+
+(b) guarantees;
+
+(c) counter-guarantees;
+
+(d) capital market instruments;
+
+(e) any other form of funding or credit enhancement, insurance, and equity or quasi-equity participations.
+
+3\. On behalf of the Union, the Commission shall conclude with eligible counterparts Ukraine Guarantee agreements until 31 December 2027. The Ukraine Guarantee may be granted gradually.
+
+The Commission shall provide information on the signature of each Ukraine Guarantee agreement in the reports referred to in Article 28(10). Upon their request, those agreements shall be made available to the European Parliament and the Council without undue delay, taking into account the protection of confidential and commercially sensitive information.
+
+4\. When concluding Ukraine Guarantee agreements, the Commission shall take due account of the advice and guidance of the technical risk assessment group referred to in Article 33(8) of Regulation (EU) 2021/947 and of the Steering Board.
+
+5\. The Ukraine Guarantee agreements shall contain, in particular:
+
+(a) detailed rules on the coverage of the Ukraine Guarantee, estimated annual investments, requirements, eligibility, and procedures;
+
+(b) detailed rules on the provision of the Ukraine Guarantee, including its arrangements on the coverage and its defined coverage of portfolios and of projects of specific types of instruments, as well as a risk analysis of projects and project portfolios, including at sectoral, regional, and national levels;
+
+(c) a reference to the objectives and purpose of the Facility, an assessment of the needs and an indication of the expected results;
+
+(d) the remuneration of the Ukraine Guarantee, which shall be set on concessional terms reflecting the specific situation in a war-torn Ukraine, while taking into account the respective risk profiles of the investment programmes in order to ensure a level playing field;
+
+(e) requirements for the use of the Ukraine Guarantee, including payment conditions, such as specific time frames, interest to be paid on due amounts, expenses and recovery costs and possibly necessary liquidity arrangements;
+
+(f) claims procedures, including, but not limited to, triggering events and waiting periods, and procedures regarding the recovery of claims;
+
+(g) monitoring, reporting, transparency and evaluation obligations;
+
+(h) clear and accessible complaints procedures for third parties that could be affected by the implementation of projects supported by the Ukraine Guarantee.
+
+6\. The EIB Group shall implement operations in Ukraine, aiming at supporting Ukrainian sovereign entities and non-commercial sub-sovereign entities, covered with an indicative dedicated minimum amount of the Ukraine Guarantee of 25 % of the amount referred to in paragraph 1, which shall be granted in accordance with the procedures laid down in this Regulation.
+
+7\. The dedicated amount of the Ukraine Guarantee referred to in paragraph 6 shall be available for supporting EIB Group operations which have been approved by the relevant EIB Group Board by 31 December 2025. After that date, the remaining dedicated amount of the Ukraine Guarantee shall be available for all types of operations referred to in paragraph 6 to all eligible counterparts subject to paragraph 3.
+
+8\. The Commission may use up to 30 % of the amount referred in paragraph 1 of this Article to increase the amounts of the guarantee provided through External Action Guarantee agreements concluded pursuant to Article 38 of Regulation (EU) 2021/947 subject to the following:
+
+(a) for the purpose of this paragraph, the Ukraine Guarantee shall be implemented by an amendment or an addendum to agreements concluded pursuant to Article 38 of Regulation (EU) 2021/947 with the eligible counterparts selected pursuant to Article 35 of that Regulation increasing the guarantee amount under those agreements, to be signed within four months from the entry into force of this Regulation;
+
+(b) the eligible counterparts shall use the Ukraine Guarantee under this paragraph solely for the support of the implementation of the operations in Ukraine and only guarantee calls from operations in Ukraine are eligible for coverage by the Ukraine Guarantee under this paragraph;
+
+(c) by way of derogation from the second subparagraph of Article 36(1) of Regulation (EU) 2021/947 the operations covered by the Ukraine Guarantee under this paragraph shall constitute a separate portfolio of Ukraine Guarantee and shall not be taken into account for the purposes of calculating the 65 % coverage referred to in Article 36(1) of Regulation (EU) 2021/947;
+
+(d) the risk sharing in the separate portfolio of the Ukraine Guarantee shall ensure an alignment of interest between the Commission and the eligible counterpart in accordance with Article 209(2), point (e), of Regulation (EU, Euratom) 2018/1046 and the counterpart shall contribute with its own resources to this portfolio in accordance with Article 219(4) of that Regulation;
+
+(e) counterparts shall establish separate accounting and reporting for the implementation of the Ukraine Guarantee under this paragraph;
+
+(f) Article 32 of this Regulation shall apply to the provisioning of the Ukraine Guarantee under this paragraph, which shall be exclusively used for coverage of losses under the Ukraine Guarantee; the provisioning established under Article 31(5) of Regulation (EU) 2021/947 shall not be used for the coverage of the operations under the Ukraine Guarantee.
+
+9\. The eligible counterpart shall approve financing and investment operations in accordance with its own rules and procedures and in compliance with the Ukraine Guarantee agreement.
+
+10\. The maximum period allowed for eligible counterparts to sign contracts with financial intermediaries or final recipients shall be three years after the conclusion of the relevant Ukraine Guarantee agreement, with possible extensions when an additional amount of guarantee is granted and the Ukraine Guarantee agreement is amended.
+
+11\. The Ukraine Guarantee may cover:
+
+(a) for debt instruments, the principal and all interests and amounts due to the selected eligible counterpart, but not received by it in accordance with the terms of the financing operations after an event of default has occurred;
+
+(b) for equity investments, the amounts invested and their associated funding costs;
+
+(c) for other financing and investment operations referred to in paragraph 2, the amounts used and their associated funding costs;
+
+(d) all relevant expenses and recovery costs related to an event of default, unless deducted from recovery proceeds.
+
+12\. For the purposes of the Commission’s accounting and its annual reporting of the risks covered by the Ukraine Guarantee to the European Parliament and the Council, and in accordance with Article 209(4) of Regulation (EU, Euratom) 2018/1046, eligible counterparts with which a Ukraine Guarantee agreement has been concluded shall provide the Commission and the European Court of Auditors annually with the financial statements, audited by an independent external auditor, containing, among others, information on:
+
+(a) the risk assessment of financing and investment operations of the eligible counterparts, including information on Union liabilities measured in compliance with the accounting rules referred to in Article 80 of Regulation (EU, Euratom) 2018/1046 and International Public Sector Accounting Standards;
+
+(b) the outstanding financial obligation for the Union arising from the Ukraine Guarantee provided to the eligible counterparts and their financing and investment operations, broken down by individual operation.
+
+13\. The condition set out in Article 219(4) of Regulation (EU, Euratom) 2018/1046 on contributions with own resources shall apply to each eligible counterpart allocated with a budgetary guarantee under the Ukraine Investment Framework on a portfolio basis.
+
+14\. The European Fund for Sustainable Development Plus (EFSD+) risk management framework referred to in Article 33(7) of Regulation (EU) 2021/947, including the technical risk assessment group referred to in Article 33(8) of that Regulation, shall apply to the Ukraine Guarantee taking into account the objectives and principles of the Facility. The risk assessments for the Ukraine Guarantee shall be independent from the risk assessments of the EFSD+. The overall risk profile of operations covered by the Ukraine Guarantee may be different from the overall risk profile of the External Action Guarantee. The Commission shall ensure that the risk entailed by the guaranteed operations does not exceed the capacity of the Union budget to bear those risks as determined by the available budgetary resources and the provisioning rate referred to in Article 32(1) of this Regulation. In the framework of the reporting referred to in Article 28(10) of this Regulation, the Commission shall report annually on measures taken in this regard to the European Parliament and the Council.
+
+### Article 32 — Provisioning
+
+1\. The provisioning rate for the Ukraine Guarantee shall initially be 70 %.
+
+By way of derogation from Article 211(2) of Regulation (EU, Euratom) 2018/1046 in relation to the period of time for which global provisioning shall be constituted, the provisioning shall be constituted until 31 December 2027 and be equal to the amount of provisioning corresponding to the Ukraine Guarantee granted and may be constituted gradually to reflect progress in the selection and implementation of the financing and investment operations supporting the objectives of the Facility.
+
+2\. The provisioning rate shall be reviewed at least once a year following the entry into force of this Regulation. The Commission shall inform the European Parliament and the Council of the outcome of that review.
+
+3\. The Commission is empowered to adopt a delegated act in accordance with Article 41 of this Regulation to amend the provisioning rate while applying the criteria set out in Article 211(2) of the Regulation (EU, Euratom) 2018/1046, and, where relevant, to increase or decrease the maximum amount of the Ukraine Guarantee referred to in Article 31(1) of this Regulation by up to 30 %. The Commission may only increase the maximum amount of the Ukraine Guarantee if the provisioning rate is decreased. Without prejudice to Article 31(3) of this Regulation, the Commission may provide that the increased amount of the Ukraine Guarantee shall be available for signature of guarantee agreements gradually over three years.
+
+4\. By way of derogation from Article 213 of Regulation (EU, Euratom) 2018/1046, the effective provisioning rate shall not apply to the provisioning set aside in the common provisioning fund in respect of the Ukraine Guarantee.
+
+### Article 33 — Grievance and redress mechanism
+
+1\. In view of possible grievances of third parties, including communities and individuals affected by projects supported by the Ukraine Guarantee, the Commission and the Union delegation in Ukraine shall publish on their websites direct references to the complaints mechanisms of the relevant counterparts that have concluded Ukraine Guarantee agreements with the Commission. The Commission shall also provide the possibility of directly receiving complaints related to the treatment of grievances by eligible counterparts. The Commission shall take information received through any complaints mechanisms into account in view of future cooperation with those counterparts.
+
+2\. Whenever possible, taking into account the protection of confidential and commercially sensitive information, the Commission shall publish on its web portal information on financing and investment operations and the essential elements of the Ukraine Guarantee agreements, including information on the legal identity of eligible counterparts, expected development benefits and complaints procedures.
+
+3\. In accordance with their transparency policies and Union rules on data protection and on access to documents and information, eligible counterparts shall make publicly available on their websites information relating to all financing and investment operations covered by the Ukraine Guarantee, in particular information relating to the manner in which those operations contribute to the achievement of the objectives and requirements of this Regulation. Where possible, such information shall be broken down at project level. Such information shall take into account the protection of confidential and commercially sensitive information. Eligible counterparts shall also publicise Union support in all information that they publish on financing and investment operations covered by the Ukraine Guarantee in accordance with this Regulation.
+
+## CHAPTER V — PILLAR III: UNION ACCESSION ASSISTANCE AND RELATED SUPPORT MEASURES
+
+### Article 34 — Union accession assistance and related support measures
+
+1\. Assistance under this Chapter shall support Ukraine in attaining the objectives set out in Article 3. In particular, assistance provided under this Chapter shall aim to support Ukraine’s progressive alignment to the Union acquis with a view to future Union membership, thereby contributing to mutual stability, security, peace and prosperity. Such support shall include strengthening of the rule of law, including the independence of judiciary, democracy, the respect for human rights and fundamental freedoms, the fight against corruption, reinforcing of the effectiveness of public administration, institutional capacities, decentralisation, supporting transparency, structural reforms, sectoral policies and good governance at all levels, and contributing to the implementation of the Ukraine Plan.
+
+2\. Assistance under this Chapter shall also be provided to ensure that capacities of stakeholders, including social partners, civil society organisations and local and regional authorities, are strengthened, including through twinning and town twinning, as well as through the promotion of peer-to-peer cooperation and programs embedded in partnerships between cities and regions in the Union and those in Ukraine, where relevant.
+
+3\. Assistance under this Chapter shall also strengthen capacities for conflict prevention, peacebuilding and address pre- and post-crisis needs, including through, confidence-building measures and processes that promote justice, truth-seeking, comprehensive post-conflict rehabilitation for an inclusive, peaceful society, as well as collection of evidence of crimes committed during the war. Funding for initiatives and bodies involved in supporting and enforcing international justice in Ukraine may be provided under this Chapter.
+
+4\. Assistance under this Chapter shall support the creation and strengthening of Ukrainian authorities responsible for ensuring appropriate use of funds, audit and an effective fight against mismanagement of public funding, in particular fraud, all forms of corruption including high-level corruption, conflicts of interest and irregularities incurred in relation to any amount spent to achieve the objectives of the Facility, as well as to support deoligarchisation efforts.
+
+5\. The borrowing costs subsidy referred to in Article 23 shall be funded under this Chapter.
+
+6\. For the years 2024 to 2027, the support under this Chapter shall fund:
+
+(a) the provisioning of budgetary guarantees, which is not covered by the financial envelope referred to in Article 50 of Regulation (EU) 2021/947 in accordance with the rules set out in Article 31(8) of that Regulation, for the covered external lending mandate financial liabilities in Ukraine under Article 12(1) of Decision (EU) 2022/1628 of the European Parliament and of the Council ( 2 ) related to loan amounts disbursed after 15 July 2022 of up to EUR 1,586 billion;
+
+(b) the interest rate subsidy for macro-financial assistance loans under:
+
+(i) Decision (EU) 2022/1201 of the European Parliament and of the Council ( 3 ), by way of derogation from Article 1(3) thereof;
+
+(ii) Decision (EU) 2022/1628, by way of derogation from Article 6(3) thereof;
+
+(c) by way of derogation from Article 31(1) of Regulation (EU) 2021/947, the paid-in provisioning of 9 % for financial assistance which has not yet been committed at the end of 2023, referred to in Article 11(1) of Decision (EU) 2022/1628.
+
+## CHAPTER VI — PROTECTION OF THE FINANCIAL INTERESTS OF THE UNION
+
+### Article 35 — Protection of the financial interests of the Union
+
+1\. In implementing the Facility, the Commission and Ukraine shall take all the appropriate measures to protect the financial interests of the Union, taking into account the principle of proportionality and the specific conditions under which the Facility will operate, the precondition set out in Article 5(1) and conditions set out in the Framework Agreement and specific financing or loan agreements, in particular regarding the prevention, detection and correction of fraud, corruption, or any other illegal activity affecting the financial interests of the Union, conflicts of interest and irregularities, as well as the investigation and prosecution of offences affecting the funds provided under the Facility. Ukraine shall commit to progressing towards effective and efficient internal control systems and ensure that amounts wrongly paid or incorrectly used can be recovered. Ukraine shall also commit to ensure that the competent Ukrainian authorities treat, without delay, mutual legal assistance requests and extradition requests by the EPPO and Member States’ competent authorities concerning criminal offences affecting the funds under the Facility.
+
+2\. The agreements referred to in Articles 9, 10 and 22 shall provide for the obligations of Ukraine:
+
+(a) to regularly check that the financing provided has been used in accordance with the applicable rules, in particular regarding the prevention, detection and correction of fraud, corruption, conflicts of interest and irregularities or any other illegal activity affecting the financial interests of the Union;
+
+(b) to protect whistleblowers;
+
+(c) to take appropriate measures to prevent, detect and correct fraud, corruption, conflicts of interest and irregularities, as well as to investigate and prosecute criminal offences affecting the financial interests of the Union, to detect and avoid double funding and to take legal actions to recover funds that have been misappropriated, including in relation to any measure for the implementation of reforms and investment projects under the Ukraine Plan and to take appropriate measures to treat mutual legal assistance requests by the EPPO and Member States’ competent authorities concerning criminal offences affecting the funds provided under the Facility, without delay;
+
+(d) to accompany a request for payment as set out in Chapter III by a declaration of assurance that the funds were used in accordance with the principle of sound financial management and for their intended purpose and managed appropriately in particular in accordance with Ukrainian rules complemented by international standards on prevention, detection and correction of irregularities, fraud, corruption and conflicts of interest;
+
+(e) for the purpose of paragraph 1, in particular for checks on the use of funds in relation to the implementation of reforms and investments under the Ukraine Plan, to ensure the collection of, and access to, in compliance with Union data protection principles and with applicable data protection rules, adequate data on persons and entities receiving funding, including beneficial ownership information, for the implementation of measures of the Ukraine Plan;
+
+(f) to expressly authorise the Commission, OLAF and the European Court of Auditors to exert their rights as provided for in Article 129(1) of Regulation (EU, Euratom) 2018/1046, in application of the principle of proportionality;
+
+(g) to ensure that the competent Ukrainian authorities report to the EPPO any criminal conduct affecting the funds provided under the Facility that might fall within its competence.
+
+3\. The Commission shall strive to make available to Ukraine an integrated and interoperable information and monitoring system including a single data-mining and risk-scoring tool to access and analyse the relevant data, in compliance with Union data protection principles and with applicable data protection rules, including the data listed in paragraph 2, point (e). Where such a system is available, Ukraine shall use and feed the relevant data into the system, including with assistance granted under Chapter V.
+
+4\. The agreements referred to in Articles 9, 10 and 22 shall also provide for the right of the Commission to reduce proportionately the support provided under the Facility and recover any amount spent to achieve the objectives of the Facility or to ask for early repayment of the loan, in cases of irregularities, fraud, corruption or conflicts of interest affecting the financial interests of the Union that have not been corrected by Ukraine, or of a serious breach of an obligation resulting from such agreements. When deciding on the amount of the recovery and reduction, or the amount to be repaid early, the Commission shall respect the principle of proportionality and shall take into account the seriousness of the irregularity, fraud, corruption or conflict of interest affecting the financial interests of the Union, or of a breach of an obligation. Ukraine shall be given the opportunity to present its observations before the reduction is made or early repayment is requested.
+
+5\. Persons and entities implementing funds provided under the Facility shall report any suspected or actual cases, of fraud, corruption, conflict of interest and irregularities or any other illegal activities affecting financial interests of the Union without delay, to the Audit Board referred to in Article 36, the Commission, OLAF, and, where applicable, the EPPO. Those persons and entities shall be able to effectively report those cases through appropriate channels.
+
+### Article 36 — Audit Board
+
+1\. The Commission shall establish an Audit Board before the submission of the first payment request by Ukraine.
+
+2\. The Audit Board shall be composed of independent members appointed by the Commission. Representatives of Member States and other donors may be invited by the Commission to participate in the activities of the Audit Board. Other donors contributing to the Facility may be invited by the Commission to appoint observers to the Audit Board.
+
+3\. The Audit Board shall exercise its functions in complete objectivity and operate in compliance with best applicable international practices and standards. It shall act without prejudice to the powers of the Commission, OLAF, the European Court of Auditors and the EPPO.
+
+4\. The Audit Board shall ensure regular dialogue and cooperation with the European Court of Auditors, as well as with the Accounting Chamber of Ukraine and other institutions, as relevant.
+
+5\. In carrying out their duties, the Audit Board, its members and its staff shall neither seek nor take instructions from the Ukrainian government or any institution, body, office or agency. Strong guarantees of independence shall apply for the selection of its staff, management and budget.
+
+6\. The Audit Board shall assist the Commission in fighting mismanagement of Union funding under the Facility and, in particular fraud, corruption, conflicts of interest and irregularities incurred in relation to any amount spent to achieve the objectives of the Facility.
+
+7\. For that purpose, the Audit Board shall regularly report to the Commission, and transmit to the Commission without delay any information it obtains or is made aware of, on any identified cases of, or serious concerns in relation to, mismanagement of public funding incurred in relation with any amount spent to achieve the objectives of the Facility. The Commission shall keep the European Parliament and the Council informed in a timely manner of the findings and recommendations of the Audit Board.
+
+In addition, the Audit Board shall adopt recommendations to Ukraine on all cases where in its views competent Ukrainian authorities have not taken the necessary steps to prevent, detect and correct fraud, corruption, conflicts of interest and irregularities that have affected or seriously risk affecting the sound financial management of the expenditure financed under the Facility and in all cases where it identifies weaknesses affecting the design and functioning of the control system put in place by Ukrainian authorities. Ukraine shall implement such recommendations without undue delay, or provide a justification for why it has not done so.
+
+The reports of, and information from, the Audit Board shall also be sent to OLAF and may be shared with the relevant Ukrainian authorities, especially in cases where such authorities need to take steps to prevent, detect and correct fraud, corruption, conflicts of interest, irregularities or any other illegal activity affecting the financial interests of the Union, as well as to investigate and prosecute offences affecting the financial interests of the Union.
+
+8\. The Audit Board shall have access to the information, databases and registries required to carry out its tasks. The Framework Agreement shall define rules and details for the access to relevant information by the Audit Board and for the provision of relevant information by Ukraine to the Audit Board.
+
+9\. The functioning of the Audit Board shall be funded under Chapter V.
+
+### Article 37 — Ukraine Facility Dialogue
+
+1\. The Commission shall hold, at least every four months, a dialogue with the competent committees of the European Parliament, as relevant, to discuss:
+
+(a) the state of progress in the implementation of the Facility, in particular the Ukraine Plan and related investments and reforms, including reforms supporting Ukraine’s progressive alignment to Union rules, values, standards, policies and practices (‘acquis’);
+
+(b) the assessment of the Ukraine Plan, including a possible negative assessment;
+
+(c) the main findings of the reports referred to in Article 36(7);
+
+(d) the main findings of the report referred to in Article 39(4);
+
+(e) payment, withholding and reduction procedures, where applicable, including any observation presented to ensure a satisfactory fulfilment of the conditions; and
+
+(f) any other relevant information provided by the Commission to the European Parliament in relation to the implementation of the Facility.
+
+2\. The European Parliament may express its views in resolutions as regards the matters referred to in paragraph 1.
+
+3\. The Commission shall take into account any elements arising from the views expressed through the Ukraine Facility Dialogue, including the resolutions from the European Parliament, where relevant.
+
+## CHAPTER VII — WORK PROGRAMMES, MONITORING, REPORTING AND EVALUATION
+
+### Article 38 — Work programmes
+
+1\. Support under the Facility shall be implemented by way of work programmes as referred to in Article 110 of Regulation (EU, Euratom) 2018/1046. Work programmes shall be adopted by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 42 of this Regulation, with the exception of operations provided for on the basis of Articles 23(2) and 34(6) of this Regulation.
+
+2\. Assistance under Chapter V may also be implemented by way of specific work programmes where the implementation of that assistance does not require the conclusion of agreements referred to in Articles 9 and 10.
+
+### Article 39 — Monitoring and reporting
+
+1\. The Commission shall monitor the implementation of the Facility and assess the achievement of the objectives set out in Article 3. The monitoring of that implementation shall be targeted and proportionate to the activities carried out under the Facility.
+
+2\. The financing agreements referred to in Article 10 and the loan agreement referred to in Article 22 shall set out rules and procedures for Ukraine to report to the Commission for the purpose of paragraph 1 of this Article. For the purpose of such reporting, Ukrainian competent authorities should draw on regular consultation with the Verkhovna Rada, and other stakeholders including regional, local, urban and other public authorities, as well as with social partners and civil society organisations as set out in Article 14.
+
+3\. The Union support provided under the Ukraine Investment Framework shall be reported in accordance with Article 28(10).
+
+4\. The Commission shall provide simultaneously to the European Parliament and the Council an annual report on progress towards the achievement of the objectives of this Regulation, complemented by quarterly presentations on the state of play of the implementation of the Facility.
+
+5\. The Commission shall provide the report referred to in paragraph 4 of this Article to the committee referred to in Article 42.
+
+### Article 40 — Evaluation of the Facility
+
+1\. The Commission shall provide to the European Parliament and the Council an independent interim evaluation report on the implementation of the Facility by 31 December 2026, and an independent ex post evaluation report by 31 December 2031.
+
+2\. The evaluation reports referred to in paragraph 1 shall, in particular, assess the extent to which the objectives of the Facility have been achieved, the efficiency of the use of the resources provided under the Facility, the protection of the financial interests of the Union and the European added value. They shall also consider the continued relevance of all objectives and activities.
+
+3\. Where appropriate, the Commission shall submit proposals taking into account the results of the evaluation reports referred to in paragraph 1.
+
+4\. The ex post evaluation report shall consist of a global assessment of the Facility and shall, to the extent possible, include information on its impact in the long term.
+
+5\. The ex post evaluation shall make use of the good practice principles of the OECD Development Assistance Committee, seeking to ascertain whether the objectives have been met and to formulate recommendations with a view to improving future activities.
+
+The Commission shall communicate the findings and conclusions of the evaluations accompanied by its observations and follow-up, to the European Parliament, the Council and the Member States. Those evaluations may be discussed at the request of the European Parliament, the Council or the Member States. The results shall feed into the preparation of programmes and activities and resource allocation. Those evaluations and follow-up shall be made publicly available.
+
+The Commission shall, to an appropriate extent, involve all relevant stakeholders, including beneficiaries, social partners, civil society organisations and local and regional authorities in the evaluation process of the Union’s funding provided under the Facility, and may, where appropriate, seek to undertake joint evaluations with Member States and other partners with close involvement of Ukraine.
+
+## CHAPTER VIII — FINAL PROVISIONS
+
+### Article 41 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 21 and 32 shall be conferred on the Commission for an indeterminate period of time from seven days after the entry into force of this Regulation.
+
+3\. The delegation of power referred to in Articles 21 and 32 may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect on the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Articles 21 and 32 shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+### Article 42 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+3\. For implementing acts referred to in Article 11(2), where the committee delivers no opinion, the Commission shall not adopt the draft implementing act and Article 5(4), third subparagraph, of Regulation (EU) No 182/2011 shall apply.
+
+4\. Where the opinion of the committee is to be obtained by a written procedure, that procedure shall be terminated without result when, within the time-limit allowed for delivery of the opinion, the chair of the committee so decides or a simple majority of committee members so request.
+
+### Article 43 — Information, communication and publicity
+
+1\. The Commission may engage in communication activities to ensure the visibility of the Union funding for the financial support envisaged in the Ukraine Plan, including through joint communication activities with Ukraine. The Commission may, as appropriate, ensure that support under the Facility is communicated and acknowledged through a funding statement.
+
+2\. The recipients of Union funding shall acknowledge the origin and ensure the visibility of the Union funding, including, where applicable, by displaying the emblem of the Union and an appropriate funding statement that contains the words ‘funded by the European Union – Ukraine Facility’ or ‘co-funded by the European Union – Ukraine Facility’, in particular when promoting the activities and their results, by providing coherent, effective and proportionate targeted information to multiple audiences, including the media and the public.
+
+3\. The Commission shall implement information and communication activities relating to the Facility, to activities taken pursuant to the Facility and to the results obtained. Financial resources allocated to the Facility shall also contribute to the corporate communication of the political priorities of the Union, in so far as they are related to the objectives referred to in Article 3.
+
+4\. Information, communication and publicity shall be provided in accessible format.
+
+### Article 44 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) Regulation (EU) 2026/467 of the European Parliament and of the Council of 24 February 2026 implementing enhanced cooperation on the establishment of the Ukraine Support Loan for 2026 and 2027 (OJ L, 2026/467, 26.2.2026, ELI: http://data.europa.eu/eli/reg/2026/467/oj).
+
+( 2 ) Decision (EU) 2022/1628 of the European Parliament and of the Council of 20 September 2022 providing exceptional macro-financial assistance to Ukraine, reinforcing the common provisioning fund by guarantees by Member States and by specific provisioning for some financial liabilities related to Ukraine guaranteed under Decision No 466/2014/EU, and amending Decision (EU) 2022/1201 (OJ L 245, 22.9.2022, p. 1).
+
+( 3 ) Decision (EU) 2022/1201 of the European Parliament and of the Council of 12 July 2022 providing exceptional macro-financial assistance to Ukraine (OJ L 186, 13.7.2022, p. 1).

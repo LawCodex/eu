@@ -1,0 +1,468 @@
+---
+title: "Council Regulation (EU) 2017/1770 of 28 September 2017 concerning restrictive measures in view of the situation in Mali"
+identifier: "32017R1770"
+eli: "http://data.europa.eu/eli/reg/2017/1770/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2017-09-28
+entry_into_force: 2018-01-04
+last_amended: 2025-12-03
+consolidated_version: "02017R1770-20251203"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R1770-20251203"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2017/1770 of 28 September 2017 concerning restrictive measures in view of the situation in Mali
+
+**COUNCIL REGULATION (EU) 2017/1770**
+
+**of 28 September 2017**
+
+**concerning restrictive measures in view of the situation in Mali**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1163 of 5 July 2019 </td><td> L 182</td><td>33</td><td>8.7.2019</td></tr>
+<tr><td> M2</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/8 of 7 January 2020 </td><td> L 4I</td><td>1</td><td>8.1.2020</td></tr>
+<tr><td> M3</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/116 of 27 January 2020 </td><td> L 22</td><td>25</td><td>28.1.2020</td></tr>
+<tr><td> M4</td><td> COUNCIL REGULATION (EU) 2021/2201 of 13 December 2021 </td><td> L 446</td><td>1</td><td>14.12.2021</td></tr>
+<tr><td> M5</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/156 of 4 February 2022 </td><td> L 25I</td><td>1</td><td>4.2.2022</td></tr>
+<tr><td> M6</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/595 of 11 April 2022 </td><td> L 114</td><td>60</td><td>12.4.2022</td></tr>
+<tr><td> M7</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/2179 of 8 November 2022 </td><td> L 288</td><td>1</td><td>9.11.2022</td></tr>
+<tr><td> M8</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/2436 of 12 December 2022 </td><td> L 319</td><td>8</td><td>13.12.2022</td></tr>
+<tr><td> M9</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/428 of 25 February 2023 </td><td> L 59I</td><td>275</td><td>25.2.2023</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/720 of 31 March 2023 </td><td> L 94</td><td>1</td><td>3.4.2023</td></tr>
+<tr><td> M11</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/2798 of 11 December 2023 </td><td> L 2798</td><td>1</td><td>12.12.2023</td></tr>
+<tr><td> M12</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/212 of 4 January 2024 </td><td> L 212</td><td>1</td><td>5.1.2024</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2024/1205 of 22 April 2024 </td><td> L 1205</td><td>1</td><td>23.4.2024</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td> M15</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/3147 of 13 December 2024 </td><td> L 3147</td><td>1</td><td>13.12.2024</td></tr>
+<tr><td> M16</td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/1474 of 18 July 2025 </td><td> L 1474</td><td>1</td><td>21.7.2025</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/2435 of 1 December 2025 </td><td> L 2435</td><td>1</td><td>2.12.2025</td></tr>
+</table>
+
+C1
+
+**COUNCIL REGULATION (EU) 2017/1770**
+
+**of 28 September 2017**
+
+**concerning restrictive measures in view of the situation in Mali**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and includes in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(b) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for that purpose ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(c) ‘competent authorities’ refers to the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(d) ‘economic resources’ means assets of any kind, whether tangible or intangible, movable or immovable, which are not funds, but may be used to obtain funds, goods or services;
+
+(e) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(f) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to, or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or any other change that would enable the funds to be used, including portfolio management;
+
+(g) ‘funds’ means financial assets and benefits of any kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly-traded and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale; and
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(i) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace.
+
+## Article 2
+
+1\. All funds and economic resources belonging to, owned, held or controlled by any natural or legal person, entity or body listed in Annex Ia shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in Annex Ia.
+
+## Article 2b
+
+1\. Annex Ia shall include natural or legal persons, entities or bodies:
+
+(a) responsible for or complicit in, or having engaged, directly or indirectly, in the actions or policies that threaten the peace, security, or stability of Mali, such as:
+
+(i) involvement in planning, directing, sponsoring, or conducting attacks against:
+
+— UN and associated personnel in Mali,
+
+— international security presences in Mali;
+
+(ii) obstructing the delivery of humanitarian assistance to Mali, or access to, or distribution of, humanitarian assistance in Mali;
+
+(iii) planning, directing, or committing acts in Mali that violate international human rights law or international humanitarian law, as applicable, or that constitute human rights abuses or violations, including those involving the targeting of civilians, including women and children, through the commission of acts of violence (including killing, maiming, torture, or rape or other sexual violence), abduction, enforced disappearance, forced displacement, or attacks on schools, hospitals, religious sites, or locations where civilians are seeking refuge;
+
+(iv) the use or recruitment of children by armed groups or armed forces, which are a violation of applicable international law, in the context of the armed conflict in Mali;
+
+(v) knowingly facilitating the travel of a listed person in violation of the travel restrictions;
+
+(b) obstructing or undermining the successful completion of the political transition of Mali, including by obstructing or undermining the holding of elections or the handover of power to elected authorities; or
+
+(c) associated with natural or legal persons, entities or bodies referred to in point (a) or (b).
+
+2\. Annex Ia shall include the grounds for the listing of natural or legal persons, entities or bodies concerned.
+
+3\. Annex Ia shall also include, where available, the information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include: names and aliases; date and place of birth; nationality; passport and identity card numbers; gender; address, if known; and function or profession. With regard to legal persons, entities or bodies, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 3
+
+1\. By way of derogation from Article 2(1) and (2), the competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of natural or legal persons, entities or bodies listed in Annex Ia, and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for payment of reasonable professional fees or reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for payment of fees or service charges for routine holding or maintenance of frozen funds or economic resources;
+
+(d) necessary for extraordinary expenses, provided that the Member State concerned has notified other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to granting the authorisation; or
+
+(e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this Article within two weeks of the authorisation.
+
+## Article 3a
+
+1\. Article 2(1) and (2) shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations (UN), including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the UN General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the UN Humanitarian Response Plans, UN Refugee Response Plans, other UN appeals or humanitarian clusters coordinated by the UN Office for the Coordination of Humanitarian Affairs;
+
+(e) organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognised by a Member State in accordance with national procedures;
+
+(f) Member States’ specialised agencies; or
+
+(g) the employees, grantees, subsidiaries, or implementing partners of the entities mentioned in points (a) to (f) while and to the extent that they are acting in those capacities.
+
+2\. Without prejudice to paragraph 1, and by way of derogation from Article 2(1) and (2), the competent authorities may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the provision of such funds or economic resources is necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs.
+
+3\. In the absence of a negative decision, a request for information or a notification for additional time from the relevant competent authority within five working days of the date of receipt of a request for authorisation under paragraph 2, that authorisation shall be considered granted.
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under this Article within four weeks of such authorisation.
+
+## Article 4
+
+1\. By way of derogation from Article 2(1), the competent authorities may authorise the release of certain frozen funds or economic resources, provided that the following conditions are met:
+
+(a) the funds or economic resources are the subject of an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 2b was listed in Annex Ia, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex Ia;
+
+(d) recognising the decision is not contrary to public policy in the Member State concerned.
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 5
+
+1\. By way of derogation from Article 2(1) and provided that a payment by a natural or legal person, entity or body listed in Annex Ia is due under a contract or agreement that was concluded by, or an obligation that arose for, the natural or legal person, entity or body concerned, before the date on which that natural or legal person, entity or body was included in Annex Ia, the competent authorities may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources shall be used for a payment by a natural or legal person, entity or body listed in Annex Ia; and
+
+(b) the payment is not in breach of Article 2(2).
+
+2\. The Member State concerned shall inform the other Member States and the Commission of any authorisation granted under paragraph 1 within two weeks of the authorisation.
+
+## Article 6
+
+1\. Article 2(2) shall not prevent the crediting of frozen accounts by financial or credit institutions that receive funds transferred by third parties onto the account of a listed natural or legal person, entity or body, provided that any additions to such accounts will also be frozen. The financial or credit institution shall inform the relevant competent authority about any such transaction without delay.
+
+2\. Article 2(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose before the date on which the natural or legal person, entity or body referred to in Article 2 was included in Annex Ia; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in a Member State or enforceable in the Member State concerned,
+
+provided that any such interest, other earnings and payments are frozen in accordance with Article 2(1).
+
+## Article 7
+
+1\. Natural or legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as information on accounts and amounts frozen in accordance with Article 2(1), to the competent authority of the Member State where they are resident or located, and transmit such information, directly or through the Member State, to the Commission; and
+
+(b) cooperate with the competent authority in any verification of the information referred to in point (a).
+
+2\. The obligation in paragraph 1 shall apply subject to national or other applicable rules regarding the confidentiality of information held by judicial authorities, and consistent with respect for the confidentiality of communications between lawyers and their clients guaranteed by Article 7 of the Charter of the Fundamental Rights of the European Union. For this purpose, such communications include those relating to legal advice provided by other certified professionals who are authorised under national law to represent their clients in judicial proceedings, insofar as such legal advice is provided in connection with pending or prospective judicial proceedings.
+
+3\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+4\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+5\. The competent authorities of the Member States, including enforcement authorities, customs authorities within the meaning of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 1 ), competent authorities within the meaning of Regulation (EU) No 575/2013 of the European Parliament and of the Council ( 2 ), Directive (EU) 2015/849 of the European Parliament and of the Council ( 3 ) and Directive 2014/65/EU of the European Parliament and of the Council ( 4 ), as well as administrators of official registers wherein natural persons, legal persons, entities and bodies as well as immovable or movable property are registered, shall process and exchange without delay information, including personal data and, if necessary, the information referred to in paragraph 1, with other competent authorities of their Member State, of other Member States and the Commission, if such processing and exchange is necessary to carry out the tasks of the processing authority or the receiving authority under this Regulation, in particular when they detect instances of a breach or circumvention, or attempts at a breach or circumvention, of the prohibitions set out in this Regulation.
+
+## Article 8
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Article 2(1) and (2).
+
+## Article 9
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 10
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, notably a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) natural or legal persons, entities or bodies listed in Annex Ia;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the natural or legal persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 11
+
+1\. The Commission and Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information in respect of:
+
+(a) funds frozen under Article 2 and authorisations granted under the derogations set out in this Regulation;
+
+(b) violation and enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 12
+
+1\. Where the Council decides to subject a natural or legal person, group, entity or body to the measures referred to in Article 2, it shall amend Annex Ia accordingly.
+
+2\. The Council shall communicate a decision pursuant to paragraph 1, including the grounds for the listing, to the natural or legal person, group, entity or body concerned, either directly, if the address is known, or through the publication of a notice, providing that natural or legal person, group, entity or body with an opportunity to submit observations.
+
+3\. Where observations are submitted, or where substantial new evidence is presented, the Council shall review the decision concerned and inform the natural or legal person, group, entity or body concerned accordingly.
+
+4\. The list in Annex Ia shall be reviewed at regular intervals and at least every 12 months.
+
+5\. The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 13
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive. Member States shall also provide for appropriate measures of confiscation of the proceeds of such infringements.
+
+2\. Member States shall notify the Commission of the rules referred to in paragraph 1 without delay after the entry into force of this Regulation and shall notify it of any subsequent amendment.
+
+## Article 13a
+
+1\. The Council, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) may process personal data in order to carry out their tasks under this Regulation. These tasks include:
+
+(a) as regards the Council, preparing and making amendments to Annex Ia;
+
+(b) as regards the High Representative, preparing amendments to Annex Ia;
+
+(c) as regards the Commission:
+
+(i) adding the contents of Annex Ia to the electronic, consolidated list of persons, groups and entities subject to Union financial sanctions and to the interactive sanctions map, both publicly available;
+
+(ii) processing information on the impact of the measures of this Regulation, such as the value of frozen funds and information on authorisations granted by the competent authorities.
+
+2\. The Council, the Commission and the High Representative shall process, where applicable, relevant data relating to criminal offences committed by listed natural persons, to criminal convictions of such persons or to security measures concerning such persons only to the extent that such processing is necessary for the preparation of Annex Ia.
+
+3\. For the purposes of this Regulation, the Council, the Commission and the High Representative are designated as ‘controller’ within the meaning of Article 3, point 8, of Regulation (EU) 2018/1725 in order to ensure that the natural persons concerned can exercise their rights under that Regulation.
+
+## Article 14
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex II.
+
+2\. Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+## Article 14a
+
+Any information provided to or received in accordance with this Regulation shall be used only for the purposes for which it was provided or received.
+
+## Article 15
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board any aircraft or vessel under the jurisdiction of a Member State;
+
+(c) to any natural person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 16
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX Ia
+
+List of natural or legal persons, entities and bodies referred to in Article 2b:
+
+|  | Name | Identifying information | Reasons | Date of listing |
+| --- | --- | --- | --- | --- |
+| 1. | DIAW, Malick | Place of birth: Ségou Date of birth: 2.12.1979 Nationality: Malian Passport number: B0722922 valid until 13.8.2018 Gender: male Position: President of the National Transition Council (legislative organ of the political transition of Mali), Lieutenant General | Malick Diaw is a key member of Colonel Assimi Goïta’s inner circle. As chief of staff of the third military region of Kati, he was one of the instigators and leaders of the 18 August 2020 coup alongside Colonel-Major Ismaël Wagué, Colonel Assimi Goïta, Colonel Sadio Camara and Colonel Modibo Koné. Malick Diaw is therefore responsible for actions or policies that threaten the peace, security and stability of Mali. Malick Diaw is also a key actor in the context of the political transition of Mali, as President of the National Transition Council (CNT) since December 2020. On 16 October 2024, Malick Diaw was promoted to the rank of Lieutenant General ‘3 star’ by the Council of Ministers of Mali. The CNT failed to deliver in good time on the ‘missions’ enshrined in the Transition Charter of 1 October 2020 (‘Transition Charter’) and that should have been completed within 18 months, as illustrated by the CNT’s delay in adopting the draft electoral bill. That delay contributed to delaying the organization of the elections and thus the successful completion of the political transition of Mali. In addition, the new electoral bill, as eventually adopted by the CNT on 17 June 2022 and published in the Official Journal of the Republic of Mali on 24 June 2022, allows the Transition President and Vice-President and the members of the Transition Government to be candidates for the presidential and legislative elections, in contradiction with the Transition Charter. Malick Diaw presided over the session that approved on 3 July 2025 the revision of the Transition Charter granting Assimi Goïta a five-year renewable mandate without elections. The revision of the Transition Charter consolidates the position of Assimi Goïta and the powers of the junta as it does not provide for an immediate obligation to hold elections. The Economic Community of West African States (ECOWAS) adopted individual sanctions against the Transition Authorities (including Malick Diaw) in November 2021 for their delay in organising the elections and the completion of the political transition of Mali. On 3 July 2022, ECOWAS decided to maintain those individual sanctions. Malick Diaw is therefore obstructing and undermining the successful completion of the political transition of Mali. | 4.2.2022 |
+| 2. | WAGUÉ, Ismaël | Place of birth: Bamako Date of birth: 2.3.1975 Nationality: Malian Passport number: diplomatic passport AA0193660 valid until 15.2.2023 Gender: male Position: Minister for Reconciliation, Lieutenant General | Colonel-Major Ismaël Wagué is a key member of Colonel Assimi Goïta’s inner circle and was one of the main actors responsible for the 18 August 2020 coup, alongside Colonel Goïta, Colonel Sadio Camara, Colonel Modibo Koné and Colonel Malick Diaw. On 19 August 2020, he announced that the army had taken power, and he then became spokesperson for the National Committee for the Salvation of the People (Comité national pour le salut du peuple, CNSP). On 16 October 2024, Ismaël Wagué was promoted to the rank of Lieutenant General ‘3 star’ by the Council of Ministers of Mali. Ismaël Wagué is therefore responsible for actions that threaten the peace, security and stability of Mali. As Minister for Reconciliation in the Transition Government since October 2020, Ismaël Wagué was in charge of the implementation of the Agreement for Peace and Reconciliation in Mali. Through his statement in October 2021 and his perpetual disagreements with the members of the Permanent Strategic Framework (Cadre Stratégique Permanent, CSP), he contributed to the blocking of the Monitoring Committee of the Agreement for Peace and Reconciliation in Mali (Comité de suivi de l’accord, CSA), which led to the suspension of CSA meeting from October 2021 to September 2022. That situation obstructed the implementation of that Agreement, which was one of the ‘missions’ of the political transition of Mali, as provided for in Article 2 of the Transition Charter. On 25 January 2024, the Transition Government denounced the Agreement for Peace and Reconciliation in Mali and declared its immediate termination. Since that date, there has been a significant increase in the authoritarian constraints imposed by the Transition Government. The Economic Community of West African States (ECOWAS) adopted individual sanctions against the Transition Authorities (including Ismaël Wagué) in November 2021 for their delay in organising the elections and the completion of the political transition of Mali. On 3 July 2022, ECOWAS decided to maintain those individual sanctions. Ismaël Wagué is therefore responsible for actions that threaten the peace, security and stability of Mali, and is obstructing and undermining the successful completion of the political transition of Mali. | 4.2.2022 |
+| 4. | MAÏGA, Ibrahim Ikassa | Place of birth: Tondibi, Gao region, Mali Date of birth: 5.2.1971 Nationality: Malian Passport number: diplomatic passport issued by Mali Gender: male Position: former Minister of Refoundation | Ibrahim Ikassa Maïga is a member of the strategic committee of M5-RFP (Mouvement du 5 juin – Rassemblement des forces patriotiques), which played a key role in the overthrow of President Keita. As Minister of Refoundation from June 2021 to November 2024, Ibrahim Ikassa Maïga was entrusted with planning the National Consultations for Refoundation (Assises nationales de la Refondation, ANR) announced by Prime Minister Choguel Maïga. Even after being replaced in his role in the government, Ibrahim Ikassa Maïga has expressed himself politically and in solidarity with the Malian government, showing that he still maintains close ties with it. Contrary to the timetable for reform and elections previously agreed with the Economic Community of West African States (ECOWAS) in line with the Transition Charter, the ANR were announced by the Transition Government as a pre-reform process and a precondition to the organisation of the elections scheduled for 27 February 2022. As announced by Choguel Maïga, the ANR were then postponed several times and the elections delayed. The ANR, which were eventually held in December 2021, were boycotted by multiple stakeholders. On the basis of the final recommendations of the ANR, the Transition Government presented a new timetable providing for the holding of presidential elections in December 2025, thus allowing the Transition Authorities to stay in power for more than five years. Following a revised timetable presented in June 2022, providing for the holding of presidential elections in March 2024, the Transition Government announced on 21 September 2023 a further postponement of the elections. On 25 January 2024, the Transition Government denounced the Agreement for Peace and Reconciliation in Mali and declared its immediate termination. Since that date, there has been a significant increase in the authoritarian constraints imposed by the Transition Government. ECOWAS adopted individual sanctions against the Transition Authorities (including Ibrahim Ikassa Maïga) in November 2021 for their delay in organising the elections and the completion of the political transition of Mali. ECOWAS underlined that the Transition Authorities have used the need to implement reforms as a pretext to justify the extension of the political transition of Mali and to maintain themselves in power without democratic elections. On 3 July 2022, ECOWAS decided to maintain those individual sanctions. As a former Minister, co-founder of Espoir Mali Koura and co-founder of M5-RFP (Mouvement du 5 juin – Rassemblement des forces patriotiques), Ibrahim Ikassa Maïga continues to be an influential and vocal supporter of the Malian junta. Given his public statements, Ibrahim Ikassa Maïga is obstructing and undermining the successful completion of the political transition of Mali, in particular by obstructing and undermining the holding of elections and the handover of power to elected authorities. | 4.2.2022 |
+| 6. | Ivan Aleksandrovitch MASLOV Иван Александрович МАСЛОВ | Date of birth: 11.7.1982 or 3.1.1980 Place of birth: Arkhangelsk / Chuguevka village, Chuguev district, Primorsky territory Nationality: Russian Gender: male Function: former Head of the Wagner Group in Mali Address: Unknown, registered in the town of Shatki, in the Nizhni Novgorod region according to ‘All eyes on Wagner’ | Ivan Aleksandrovitch Maslov was the head of the Wagner Group in Mali, whose presence in the country has expanded since late 2021. The Wagner Group has withdrawn from Mali in June 2025 to be replaced by Africa Corps, the latter reportedly reintegrating most of Wagner’s Russian personnel. Wagner’s presence in Mali has posed a threat to the peace, security and stability of the country. In particular, Wagner mercenaries have been involved in acts of violence and multiple human rights abuses in Mali, including extrajudicial killings, such as the ‘Moura massacre’ at the end of March 2022. As the former local head of the Wagner Group, Ivan Maslov is therefore responsible for the actions of Wagner Group that threaten the peace, security and stability of Mali, in particular involvement in acts of violence and human rights abuses. | 25.2.2023 |
+
+## ANNEX II — Websites for information on the competent authorities and address for notifications to the Commission
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu
+
+( 1 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 2 ) Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013on prudential requirements for credit institutions and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).
+
+( 3 ) Directive (EU) 2015/849 of the European Parliament and of the Council of 20 May 2015on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing, amending Regulation (EU) No 648/2012 of the European Parliament and of the Council, and repealing Directive 2005/60/EC of the European Parliament and of the Council and Commission Directive 2006/70/EC (OJ L 141, 5.6.2015, p. 73).
+
+( 4 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).

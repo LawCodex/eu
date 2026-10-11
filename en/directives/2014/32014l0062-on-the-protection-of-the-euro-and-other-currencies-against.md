@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the protection of the euro and other currencies against counterfeiting by criminal law, and replacing Council Framework Decision 2000/383/JHA**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/2808 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 23 October 2024 </td><td> L 2808</td><td>1</td><td>4.11.2024</td></tr>
+</table>
 
 **DIRECTIVE 2014/62/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

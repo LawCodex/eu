@@ -1,0 +1,67 @@
+---
+title: "Commission Regulation (EC) No 435/2007 of 20 April 2007 amending Regulation (EC) No 1010/2006 on certain exceptional market support measures in the eggs and poultry sector in certain Member States"
+identifier: "32007R0435"
+eli: "http://data.europa.eu/eli/reg/2007/435/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2007-04-20
+entry_into_force: 2007-02-11
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R0435"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 435/2007 of 20 April 2007 amending Regulation (EC) No 1010/2006 on certain exceptional market support measures in the eggs and poultry sector in certain Member States
+
+**COMMISSION REGULATION (EC) No 435/2007**
+
+**of 20 April 2007**
+
+**amending Regulation (EC) No 1010/2006 on certain exceptional market support measures in the eggs and poultry sector in certain Member States**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Council Regulation (EEC) No 2771/75 of 29 October 1975 on the common organisation of the market in eggs (1), and in particular point (b) of the first subparagraph of Article 14(1) thereof,
+
+Having regard to Council Regulation (EEC) No 2777/75 of 29 October 1975 on the common organisation of the market in poultrymeat (2), and in particular point (b) of the first subparagraph of Article 14(1) thereof,
+
+Whereas:
+
+(1) Some Member States are experiencing difficulties in meeting the deadline of 31 March 2007, set in Article 10 of Commission Regulation (EC) No 1010/2006 (3), for making payments to the beneficiaries of the exceptional market support measures. As this is the first time that such measures have been taken, the administrative procedures have taken a long time to set up. The payment deadline should therefore be extended by two months.
+
+(2) Regulation (EC) No 1010/2006 should therefore be amended accordingly.
+
+(3) As the deadline currently set is 31 March 2007, this Regulation should apply from 1 April 2007.
+
+(4) The measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Poultrymeat and Eggs,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+In Article 10 of Regulation (EC) No 1010/2006, the date of ‘31 March 2007’ shall be replaced by the date of ‘31 May 2007’.
+
+## Article 2
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 April 2007.
+
+This Regulation shall be binding in its entirety and directly applicable in every Member State.
+
+Done at Brussels, 20 April 2007.
+
+For the Commission
+
+Mariann FISCHER BOEL
+
+Member of the Commission
+
+(1) OJ L 282, 1.11.1975, p. 49. Regulation as last amended by Regulation (EC) No 679/2006 (OJ L 119, 4.5.2006, p. 1).
+
+(2) OJ L 282, 1.11.1975, p. 77. Regulation as last amended by Regulation (EC) No 679/2006.
+
+(3) OJ L 180, 4.7.2006, p. 3. Regulation as last amended by Regulation (EC) No 1629/2006 (OJ L 302, 1.11.2006, p. 41).

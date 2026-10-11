@@ -1,0 +1,335 @@
+---
+title: "Commission Implementing Regulation (EU) No 170/2013 of 25 February 2013 laying down transitional measures in the sugar sector by reason of the accession of Croatia"
+identifier: "32013R0170"
+eli: "http://data.europa.eu/eli/reg_impl/2013/170/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2013-02-25
+entry_into_force: 2013-07-01
+last_amended: 2016-03-27
+consolidated_version: "02013R0170-20160327"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0170-20160327"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 170/2013 of 25 February 2013 laying down transitional measures in the sugar sector by reason of the accession of Croatia
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 170/2013**
+
+**of 25 February 2013**
+
+**laying down transitional measures in the sugar sector by reason of the accession of Croatia**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 50/2014 of 20 January 2014 </td><td> L 16</td><td>11</td><td>21.1.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 968/2014 of 12 September 2014 </td><td> L 272</td><td>6</td><td>13.9.2014</td></tr>
+<tr><td> M3</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1407 of 19 August 2015 </td><td> L 219</td><td>1</td><td>20.8.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/442 of 23 March 2016 </td><td> L 78</td><td>49</td><td>24.3.2016</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 170/2013**
+
+**of 25 February 2013**
+
+**laying down transitional measures in the sugar sector by reason of the accession of Croatia**
+
+## CHAPTER I — TRANSITIONAL MEASURES IN VIEW OF THE ACCESSION OF CROATIA
+
+### SECTION 1 — Applicability of the Single CMO in the sugar sector
+
+#### Article 1 — Applicability of certain provisions of Regulation (EC) No 1234/2007
+
+Articles 49, 50, 51, Article 55(1)(b) and Article 56 of Regulation (EC) No 1234/2007 shall not apply to Croatia for the marketing year 2012/2013.
+
+However, Article 56 shall apply in respect of the allocation in 2013 of the national quota which will apply as from marketing year 2013/2014.
+
+### SECTION 2 — Opening of tariff quotas for refining
+
+#### Article 2 — Opening of a tariff quota for the import of raw cane sugar for refining
+
+1\. For the period of 1 July to 30 September 2013 a tariff quota of 40 000 tonnes for the import from any third country of raw cane sugar for refining, falling within CN code 1701 14 10 shall be opened at a duty of EUR 98 per tonne.
+
+2\. For each of the marketing years 2013/2014 and 2014/2015 a tariff quota of 40 000 tonnes for the import from any third country of raw cane sugar for refining, falling within CN code 1701 14 10 shall be opened at a duty of EUR 98 per tonne.
+
+3\. Quantities imported in accordance with this Regulation shall bear the order number: 09.4367.
+
+#### Article 3 — Application of Commission Regulation (EC) No 891/2009 ( 1 )
+
+The rules on import licences and administration of certain Union tariff quotas in the sugar sector laid down in Regulation (EC) No 891/2009 shall apply to the imports of sugar under the tariff quotas opened by the present Regulation, unless otherwise provided for in Article 4.
+
+#### Article 4 — Import licences
+
+1\. Import licence applications for the quantities referred to in Article 2(1) and (2) shall be submitted to the competent authorities of Croatia.
+
+2\. Import licence applications may be submitted only by fulltime refiners, which are established on the territory of Croatia and which are approved in accordance with Article 57 of Regulation (EC) No 1234/2007.
+
+3\. By way of derogation from Article 5(1) of Regulation (EC) No 891/2009 applications for import licences in respect of the quantity referred to in Article 2(1) of this Regulation may be submitted only as from 1 July 2013.
+
+4\. Import licence applications and licences shall contain the following entries:
+
+(a) in boxes 17 and 18: the quantities of raw sugar which may not exceed the quantities referred to in Article 2(1) and (2);
+
+(b) in box 20: at least one of the entries listed in Part A of the Annex;
+
+(c) in box 24 (in the case of licences): at least one of the entries listed in Part B of the Annex.
+
+5\. Import licences issued under this Regulation shall be valid only for imports into Croatia. They shall be valid:
+
+(a) until 31 January 2014 in respect of the tariff quota referred to in Article 2(1);
+
+(b) until the end of the marketing year concerned in respect of the tariff quota referred to in Article 2(2).
+
+## CHAPTER II — TRANSITIONAL MEASURES TO AVOID SPECULATION AND MARKET DISTURBANCE
+
+#### Article 5 — Definitions
+
+For the purposes of this Chapter, the following definitions shall apply:
+
+(a) ‘sugar’ means:
+
+(i) beet sugar and cane sugar, in solid form, falling within CN code 1701 ;
+
+(ii) sugar syrup falling within CN codes 1702 60 95 and 1702 90 95 ;
+
+(iii) inulin syrup falling within CN codes 1702 60 80 and 1702 90 80 ;
+
+(b) ‘isoglucose’ means the product falling within CN codes 1702 30 10 , 1702 40 10 , 1702 60 10 , 1702 90 30 and 2106 90 30 ;
+
+(c) ‘processed products’ means products having an added sugar/sugar equivalent content exceeding 10 %, which have resulted from the processing of agricultural products;
+
+(d) ‘fructose’ means chemically pure fructose falling within CN code 1702 50 00 .
+
+### SECTION 1 — Products under particular customs treatments and procedures on the date of accession
+
+#### Article 6 — Suspensive regime
+
+By way of derogation from Section 5 of Annex IV to the Act of Accession products falling within CN codes 1701 , 1702 , 1704 , 1904 , 1905 , 2006 , 2007 , 2009 , 2105 and 2202 , which are in temporary storage referred to in Articles 50 and 51 of Regulation (EEC) No 2913/92, or under one of the customs treatments or procedures referred to in Article 4(15)(b) and (16)(b) to (g) of that Regulation in Croatia on 1 July 2013, shall be charged with the import duty in accordance with Annex I to Council Regulation (EEC) No 2658/87 ( 2 ) and any additional duty applicable on the date of the incurrence of the customs debt.
+
+### SECTION 2 — Surplus quantities
+
+#### Article 7 — Determination of surplus quantities
+
+1\. The Commission shall determine by 31 December 2014  at the latest, for Croatia, in accordance with the procedure referred to in Article 195(2) of Regulation (EC) No 1234/2007:
+
+(a) the quantity of sugar as such or in processed products (in white sugar equivalent);
+
+(b) the quantity of isoglucose (dry matter);
+
+(c) the quantity of fructose;
+
+exceeding the quantity considered as being normal carry-over stock on 1 July 2013 and which has to be eliminated from the market at the expense of Croatia.
+
+2\. To determine the surplus quantities referred to in paragraph 1, account shall in particular be taken of the development from 1 July 2012 to 30 June 2013, in relation to the previous three years, counting from 1 July 2009 to 30 June 2012, of:
+
+(a) imported and exported quantities of sugar as such or in processed products, isoglucose and fructose;
+
+(b) production, consumption and stocks of sugar and isoglucose;
+
+(c) the circumstances in which stocks were built up.
+
+#### Article 8 — Identification of surplus quantities at the operators’ level
+
+1\. Croatia shall have in place, on 1 July 2013, a system for the identification, at the level of operators, of traded or produced surplus quantities of sugar as such or in processed products, isoglucose or fructose. That system shall in particular rely on import tracking, fiscal monitoring, surveys based on operators’ accounts and physical stocks, and include measures such as risk guarantees and import licences.
+
+The identification system shall be based on a risk assessment taking due account in particular of the following criteria:
+
+(a) type of activity of the operators concerned;
+
+(b) capacity of storage facilities;
+
+(c) scale of economic activity.
+
+2\. Croatia shall use the identification system referred in paragraph 1 to compel the operators concerned to eliminate from the market, at their own expense, a quantity of sugar or isoglucose equivalent to their individual surplus quantity.
+
+#### Article 9 — Elimination of surplus quantities
+
+1\. Croatia shall ensure the elimination from the market, without Union intervention, of a quantity of sugar or isoglucose equal to the surplus quantity referred to in Article 7(1), by 31 July 2016  at the latest.
+
+2\. Elimination of surplus quantities determined pursuant to Article 7 shall be carried out without Union support, using the following methods:
+
+(a) export from the Union by identified operators, without national support;
+
+(b) use in the sector of combustibles;
+
+(c) denaturation without aid for animal feed in accordance with Titles III and IV of Commission Regulation (EEC) No 100/72 ( 3 ).
+
+#### Article 10 — Amount to be charged in case of surplus quantities
+
+Where the total quantities determined by the Commission in accordance with Article 7(1) exceed the total quantities referred to in Article 8, then Croatia shall be charged with an amount equal to the difference between those figures (in white sugar or dry matter equivalent) multiplied by the highest positive difference between the average Union sugar market price reported on a monthly basis in accordance with Article 14 of Commission Regulation (EC) No 952/2006 ( 4 ) and the average monthly quotation, in EUR equivalent, of white sugar observed at the London No 5 white sugar futures market for the nearest term during the period from 1 July 2013 to 31 July 2016  . That amount shall be increased by EUR 50 per tonne. The amount charged shall be assigned to the Union budget by 31 March 2017  at the latest.
+
+#### Article 11 — Proofs of elimination by the operators
+
+1\. By 31 October 2016  at the latest, the operators concerned shall provide the proof, to the satisfaction of Croatia that they have eliminated in accordance with Article 9(2), and at their own expense, their individual surplus quantities of sugar and isoglucose identified by virtue of the application of Article 8.
+
+2\. When the sugar or isoglucose is eliminated in accordance with Article 9(2)(a), the proof of elimination shall consist of:
+
+(a) export licences issued in accordance with Commission Regulations (EC) No 951/2006 ( 5 ) and (EC) No 376/2008 ( 6 );
+
+(b) relevant documents referred to in Articles 31 and 32 of Regulation (EC) No 376/2008 necessary for the release of the guarantee.
+
+The application for the export licence referred to in first subparagraph shall comprise in section 20 the following indication:
+
+‘for export in accordance with Article 9(2)(a) of Implementing Regulation (EU) No 170/2013’
+
+The export licence shall comprise in section 22 the following indication:
+
+‘to be exported without refund … (quantity for which this licence was issued) kg’
+
+The export licence shall be valid from the date of its issue until 31 July 2016  .
+
+3\. In case the proof of elimination is not provided in accordance with paragraphs 1 and 2 Croatia shall charge the operator concerned with an amount equal to its individual surplus quantity, identified by virtue of the application of Article 8, multiplied by EUR 500 per tonne (in white sugar or dry matter equivalent). This amount shall be assigned to the national budget of Croatia.
+
+#### Article 12 — Proof of elimination by Croatia
+
+1\. By 30 November 2016  at the latest Croatia shall provide the proof to the Commission that the surplus quantity referred to in Article 7(1) was eliminated from the Union market in accordance with the methods referred to in Article 9(2) and shall specify for each method the quantity eliminated.
+
+2\. In case the proof of elimination from the Union market is not provided in accordance with paragraph 1, for all or part of the surplus quantity, Croatia shall be charged an amount equal to the quantity not eliminated (in white sugar or dry matter equivalent) multiplied by the highest positive difference between the average Union sugar market price reported on a monthly basis in accordance with Article 14 of Regulation (EC) No 952/2006 and the average monthly quotation, in EUR equivalent, of white sugar observed at the London No 5 white sugar futures market for the nearest term during the period from 1 July 2013 to 31 July 2016  . That amount shall be increased by EUR 50 per tonne. From the resulting total amount shall be deducted any amount charged pursuant to Article 10 of this Regulation.
+
+This amount shall be assigned to the Union budget by 31 March 2017  at the latest.
+
+The amounts referred to in the first subparagraph and in Article 10 shall be determined in accordance with the procedure referred to in Article 195(2) of Regulation (EC) No 1234/2007 by 31 January 2017  at the latest on the basis of the communications made by Croatia pursuant to paragraph 1 of this Article.
+
+#### Article 13 — Control
+
+1\. Croatia shall take all the necessary measures for the application of this Chapter and establish the control procedures necessary for the elimination of the surplus quantity referred to in Article 7(1).
+
+2\. Croatia shall communicate to the Commission by 30 September 2013 at the latest:
+
+(a) information on the system established for the identification of surplus quantities referred to in Article 8;
+
+(b) quantities of sugar, isoglucose, fructose and processed products imported and exported monthly for the period from 1 July 2009 to 30 June 2013, communicated separately for imports from and exports to:
+
+(i) the Union as constituted at 30 June 2013;
+
+(ii) third countries;
+
+(c) for the period from 1 July 2009 to 30 June 2013, the quantities of sugar and isoglucose produced annually, broken down, as the case may be, by production under quota and out of quota, refined from imported raw sugar and consumed annually;
+
+(d) for the period from 1 July 2009 to 30 June 2013, the stocks of sugar and isoglucose held on 1 July of each year.
+
+## CHAPTER III — FINAL PROVISION
+
+#### Article 14 — Entry into force
+
+This Regulation shall enter into force subject to and on the date of the entry into force of the Treaty of Accession of Croatia.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**PART A**
+
+**Entries referred to in Article 4(4)(b)**
+
+— in Bulgarian: Преференциална сурова тръстикова захар за рафиниране, внесена в съответствие с член 2 от Регламент за изпълнение (ЕС) № 170/2013. Пореден номер (поредният номер, който трябва да се впише в съответствие с член 2, параграф 3 от посочения регламент)
+
+— in Spanish: Azúcar de caña en bruto preferencial, que se destine al refinado, importado de conformidad con el artículo 2 del Reglamento de Ejecución (UE) no 170/2013. No de orden (el número de orden se insertará de conformidad con lo dispuesto en el artículo 2, apartado 3, de dicho Reglamento)
+
+— in Czech: Preferenční surový třtinový cukr určený k rafinaci, dovezený podle článku 2 prováděcího nařízení (EU) č. 170/2013. Pořadové číslo (pořadové číslo se vloží v souladu s čl. 2 odst. 3 uvedeného nařízení)
+
+— in Danish: Præferencerårørsukker til raffinering, importeret i henhold til artikel 2 i gennemførelsesforordning (EU) nr. 170/2013. Løbenummer (der indsættes løbenummer i overensstemmelse med artikel 2, stk. 3, i nævnte forordning)
+
+— in German: Präferenzrohrohrzucker zur Raffination, eingeführt gemäß Artikel 2 der Durchführungsverordnung (EU) Nr. 170/2013. Laufende Nummer (gemäß Artikel 2 Absatz 3 der genannten Verordnung einzusetzen)
+
+— in Estonian: Sooduskorra alusel rakendusmääruse (EL) nr 170/2013 artikli 2 kohaselt imporditav rafineerimiseks ettenähtud toor-roosuhkur. Seerianumber (märgitakse vastavalt kõnealuse määruse artikli 2 lõikele 3)
+
+— in Greek: Προτιμησιακή ακατέργαστη ζάχαρη ζαχαροκάλαμου για ραφινάρισμα, που εισάγεται σύμφωνα με το άρθρο 2 του εκτελεστικού κανονισμού (ΕΕ) αριθ. 170/2013. Αύξων αριθμός (συμπληρώνεται ο αύξων αριθμός σύμφωνα με το άρθρο 2 παράγραφος 3 του εν λόγω κανονισμού)
+
+— in English: Preferential raw cane sugar for refining, imported in accordance with Article 2 of Implementing Regulation (EU) No 170/2013. Order No (order number to be inserted in accordance with Article 2(3) of that Regulation)
+
+— in French: Sucre de canne brut préférentiel destiné au raffinage, importé conformément à l’article 2 du règlement d'exécution (UE) no 170/2013. Numéro d’ordre (numéro d’ordre à insérer conformément à l’article 2, paragraphe 3, dudit règlement)
+
+— in Italian: Zucchero di canna greggio preferenziale destinato alla raffinazione, importato conformemente all’articolo 2 del regolamento di esecuzione (UE) n. 170/2013. Numero d’ordine (inserire in base all’articolo 2, paragrafo 3, del suddetto regolamento)
+
+— in Latvian: rafinēšanai paredzēts preferenciāls niedru jēlcukurs, ko importē saskaņā ar Īstenošanas regulas (ES) Nr. 170/2013 2. pantu. Kārtas Nr. (kārtas numuru ieraksta saskaņā ar šīs regulas 2. panta 3. punktu)
+
+— in Lithuanian: Lengvatinėmis sąlygomis pagal Įgyvendinimo reglamento (ES) Nr. 170/2013 2 straipsnį importuotas rafinuoti skirtas žaliavinis cukranendrių cukrus. Eilės Nr. (eilės numeris įrašomas remiantis to reglamento 2 straipsnio 3 dalimi)
+
+— in Hungarian: A 170/2013/EU végrehajtási rendelet 2. cikkével összhangban behozott, finomításra szánt kedvezményes nyers nádcukor. Tételszám (tételszám az említett rendelet 2. cikkének (3) bekezdése szerint)
+
+— in Maltese: Zokkor tal-kannamieli preferenzjali mhux maħdum għar-raffinar, importat skont l-Artikolu 2 tar-Regolament ta’ Implimentazzjoni (UE) Nru 170/2013. Nru tal-Ordni (in-numru tal-ordni għandu jiddaħħal skont l-Artikolu 2(3) ta’ dak ir-Regolament)
+
+— in Dutch: Preferentiële ruwe rietsuiker voor raffinage die wordt ingevoerd overeenkomstig artikel 2 van Uitvoeringsverordening (EU) nr. 170/2013. Volgnummer (volgnummer in te voegen overeenkomstig artikel 2, lid 3, van die verordening)
+
+— in Polish: Preferencyjny surowy cukier trzcinowy przeznaczony do rafinacji, przywieziony zgodnie z art. 2 rozporządzenia wykonawczego (UE) nr 170/2013. Numer porządkowy (numer porządkowy zgodnie z art. 2 ust. 3 wymienionego rozporządzenia)
+
+— in Portuguese: Açúcar bruto de cana preferencial para refinação, importado em conformidade com o artigo 2.o do Regulamento de Execução (UE) n.o 170/2013. Número de ordem (número de ordem a inserir de acordo com o artigo 2.o, n.o 3, desse regulamento)
+
+— in Romanian: Zahăr brut preferențial din trestie de zahăr destinat rafinării, importat în conformitate cu articolul 2 din Regulamentul de punere în aplicare (UE) nr. 170/2013. Nr. de ordine [numărul de ordine se va introduce în conformitate cu articolul 2 alineatul (3) din respectivul regulament]
+
+— in Slovak: Preferenčný surový trstinový cukor na rafináciu, dovážaný v súlade s článkom 2 vykonávacieho nariadenia (EÚ) č. 170/2013. Poradové č. (poradové číslo sa doplní v súlade s článkom 2 ods. 3 uvedeného nariadenia)
+
+— in Slovene: Preferencialni uvoz surovega trsnega sladkorja za rafiniranje v skladu s členom 2 Izvedbene uredbe (EU) št. 170/2013. Zaporedna številka (vstaviti v skladu s členom 2(3) navedene uredbe)
+
+— in Finnish: Puhdistettavaksi tarkoitettu etuuskohteluun oikeutettu raaka ruokosokeri, tuotu täytäntöönpanoasetuksen (EU) N:o 170/2013 2 artiklan mukaisesti. Järjestysnumero (järjestysnumero lisätään kyseisen asetuksen 2 artiklan 3 kohdan mukaisesti)
+
+— in Swedish: Förmånsrårörsocker för raffinering, importerat i enlighet med artikel 2 i genomförandeförordning (EU) nr 170/2013. Löpnummer (löpnummer ska anges enligt artikel 2.3 i den förordningen)
+
+— in Croatian: Preferencijalni sirovi šećer od šećerne trske za rafiniranje, uvezen u skladu s člankom 2. Provedbena uredba (EU) br. 170/2013. Redni br. (redni broj treba umetnuti u skladu s člankom 2. stavkom 3. te Uredbe)
+
+**PART B**
+
+**Entries referred to in Article 4(4)(c)**
+
+— in Bulgarian: Внос с мито 98 EUR на тон за сурова тръстикова захар за рафиниране със стандартно качество в съответствие с член 2 от Регламент за изпълнение (ЕС) № 170/2013. Пореден номер (поредният номер, който трябва да се впише в съответствие с член 2, параграф 3 от посочения регламент)
+
+— in Spanish: Importación con un derecho de 98 EUR por tonelada de azúcar de caña en bruto de calidad estándar que se destine al refinado, de conformidad con el artículo 2 del Reglamento de Ejecución (UE) no 170/2013. No de orden (el número de orden se insertará de conformidad con lo dispuesto en el artículo 2, apartado 3, de dicho Reglamento)
+
+— in Czech: Dovoz surového třtinového cukru standardní jakosti určeného k rafinaci s clem ve výši 98 EUR za tunu podle článku 2 prováděcího nařízení (EU) č. 170/2013. Pořadové číslo (pořadové číslo se vloží v souladu s čl. 2 odst. 3 uvedeného nařízení)
+
+— in Danish: Import til en told på 98 EUR/ton rårørsukker af standard kvalitet til raffinering i henhold til artikel 2 i gennemførelsesforordning (EU) nr. 170/2013. Løbenummer (der indsættes løbenummer i overensstemmelse med artikel 2, stk. 3, i nævnte forordning)
+
+— in German: Einfuhr zum Zollsatz von 98 EUR je Tonne Rohzucker der Standardqualität gemäß Artikel 2 der Durchführungsverordnung (EU) Nr. 170/2013. Laufende Nummer (gemäß Artikel 2 Absatz 3 der genannten Verordnung einzusetzen)
+
+— in Estonian: Vastavalt rakendusmääruse (EL) nr 170/2013 artiklile 2 tollimaksumääraga 98 eurot tonni kohta imporditud rafineerimiseks ette nähtud standardkvaliteediga toor-roosuhkur. Seerianumber (märgitakse vastavalt kõnealuse määruse artikli 2 lõikele 3)
+
+— in Greek: Εισαγωγή με δασμό 98 ευρώ ανά τόνο ακατέργαστης ζάχαρης ζαχαροκάλαμου του ποιοτικού τύπου για ραφινάρισμα σύμφωνα με το άρθρο 2 του εκτελεστικού κανονισμού (ΕΕ) αριθ. 170/2013. Αύξων αριθμός (συμπληρώνεται ο αύξων αριθμός σύμφωνα με το άρθρο 2 παράγραφος 3 του εν λόγω κανονισμού)
+
+— in English: Import at a duty of EUR 98 per tonne of standard-quality raw cane sugar for refining in accordance with Article 2 of Implementing Regulation (EU) No 170/2013. Order No (order number to be inserted in accordance with Article 2(3) of that Regulation)
+
+— in French: Importation à un droit de 98 EUR par tonne de sucre de canne brut destiné au raffinage de la qualité type conformément à l’article 2 du règlement d'exécution (UE) no 170/2013. Numéro d’ordre (numéro d’ordre à insérer conformément à l’article 2, paragraphe 3, dudit règlement)
+
+— in Italian: Importazione con un dazio di 98 EUR/t di zucchero di canna greggio della qualità tipo destinato alla raffinazione a norma dell’articolo 2 del regolamento di esecuzione (UE) n. 170/2013. Numero d’ordine (inserire in base all’articolo 2, paragrafo 3, del suddetto regolamento)
+
+— in Latvian: rafinēšanai paredzēta standarta kvalitātes niedru jēlcukurs, ko importē saskaņā ar Īstenošanas regulas (ES) Nr. 170/2013 2. pantu, piemērojot nodokļa likmi EUR 98 par tonnu. Kārtas Nr. (kārtas numuru ieraksta saskaņā ar šīs regulas 2. panta 3. punktu)
+
+— in Lithuanian: Importuojama taikant 98 EUR muito mokestį už toną standartinės kokybės rafinuoti skirto žaliavinio cukranendrių cukraus pagal Įgyvendinimo reglamento (ES) Nr. 170/2013 2 straipsnį. Eilės Nr. (eilės numeris įrašomas remiantis to reglamento 2 straipsnio 3 dalimi)
+
+— in Hungarian: 98 EUR/tonna vámtételű, finomításra szánt minőségi nyers nádcukor behozatala a 170/2013/EU végrehajtási rendelet 2. cikkével összhangban. Tételszám (az említett rendelet 2. cikkének (3) bekezdése szerint)
+
+— in Maltese: L-importazzjoni b’dazju ta’ EUR 98 għal kull tunnellata zokkor tal-kannamieli mhux maħdum ta’ kwalità standard għar-raffinar skont l-Artikolu 2 tar-Regolament ta’ Implimentazzjoni (UE) Nru 170/2013. Nru tal-Ordni (in-numru tal-ordni għandu jiddaħħal skont l-Artikolu 2(3) ta’ dak ir-Regolament)
+
+— in Dutch: Invoerrecht van 98 EUR per ton ruwe rietsuiker van standaardkwaliteit die is bestemd voor raffinage overeenkomstig artikel 2 van Uitvoeringsverordening (EU) nr. 170/2013. Volgnummer (volgnummer in te voegen overeenkomstig artikel 2, lid 3, van die verordening)
+
+— in Polish: Przywóz po stawce celnej 98 EUR za tonę surowego cukru trzcinowego standardowej jakości przeznaczonego do rafinacji zgodnie z art. 2 rozporządzenia wykonawczego (UE) nr 170/2013. Numer porządkowy (numer porządkowy zgodnie z art. 2 ust. 3 wymienionego rozporządzenia)
+
+— in Portuguese: Importação com direito de 98 EUR por tonelada de açúcar bruto de cana para refinação da qualidade-tipo, conformidade com o artigo 2.o do Regulamento de Execução (CE) n.o 170/2013. Número de ordem (número de ordem a inserir de acordo com o artigo 2.o, n.o 3, desse regulamento)
+
+— in Romanian: Importat la o taxă de 98 EUR per tonă de zahăr brut din trestie de zahăr de calitate standard destinat rafinării în conformitate cu articolul 2 din Regulamentul de punere în aplicare (UE) Nr. 170/2013. Nr. de ordine [numărul de ordine se va introduce în conformitate cu articolul 2 alineatul (3) din respectivul regulament]
+
+— in Slovak: Dovoz s clom 98 EUR za tonu surového trstinového cukru štandardnej kvality na rafináciu v súlade s článkom 2 vykonávacieho nariadenia (EÚ) č. 170/2013. Poradové č. (poradové číslo sa doplní v súlade s článkom 2 ods. 3 uvedeného nariadenia)
+
+— in Slovene: Uvoz po dajatvi 98 EUR na tono surovega trsnega sladkorja standardne kakovosti za rafiniranje v skladu s členom 2 Izvedbene uredbe (EU) št. 170/2013. Zaporedna številka (vstaviti v skladu s členom 2(3) navedene uredbe)
+
+— in Finnish: Puhdistettavaksi tarkoitetun vakiolaatuisen raa’an ruokosokerin tuonti, josta kannetaan 98 euron tonnilta täytäntöönpanoasetuksen (EU) N:o 170/2013 2 artiklan mukaisesti. Järjestysnumero (järjestysnumero lisätään kyseisen asetuksen 2 artiklan 3 kohdan mukaisesti)
+
+— in Swedish: Import till en tullsats av 98 euro per ton rårörsocker av standardkvalitet för raffinering i enlighet med artikel 2 i genomförandeförordning (EU) nr 170/2013. Löpnummer (löpnummer ska anges enligt artikel 2.3 i den förordningen)
+
+— in Croatian: Uvoz uz carinu od 98 EUR po toni sirovog šećera od šećerne trske za rafiniranje standardne kakvoće u skladu s člankom 2. Provedbena uredba (EU) br. 170/2013. Redni br. (redni broj treba umetnuti u skladu s člankom 2. stavkom 3. te Uredbe)
+
+( 1 ) OJ L 254, 26.9.2009, p. 82.
+
+( 2 ) OJ L 256, 7.9.1987, p. 1.
+
+( 3 ) OJ L 12, 15.1.1972, p. 15.
+
+( 4 ) OJ L 178, 1.7.2006, p. 39.
+
+( 5 ) OJ L 178, 1.7.2006, p. 24.
+
+( 6 ) OJ L 114, 26.4.2008, p. 3.

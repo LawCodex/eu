@@ -1,0 +1,1476 @@
+---
+title: "Commission Implementing Regulation (EU) 2016/1239 of 18 May 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the system of import and export licences (Text with EEA relevance)"
+identifier: "32016R1239"
+eli: "http://data.europa.eu/eli/reg_impl/2016/1239/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2016-05-18
+entry_into_force: 2016-11-02
+last_amended: 2025-07-11
+consolidated_version: "02016R1239-20250711"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02016R1239-20250711"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2016/1239 of 18 May 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the system of import and export licences (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/1239**
+
+**of 18 May 2016**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the system of import and export licences**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/1964 of 17 August 2017 </td><td> L 279</td><td>34</td><td>28.10.2017</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1607 of 27 September 2019 </td><td> L 250</td><td>56</td><td>30.9.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1466 of 6 July 2021 </td><td> L 321</td><td>16</td><td>13.9.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/82 of 17 January 2025 </td><td> L 82</td><td>1</td><td>31.3.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/1271 of 6 May 2025 </td><td> L 1271</td><td>1</td><td>10.7.2025</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2016/1239**
+
+**of 18 May 2016**
+
+**laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the system of import and export licences**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Definitions
+
+1\. For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘declarant’, as defined in Article 5, point (15), of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 1 );
+
+(b) ‘risk management’, as defined in Article 5, point (25), of Regulation (EU) No 952/2013;
+
+(c) ‘Union non-customs formality’, as defined in Article 2, point (11), of Regulation (EU) 2022/2399 of the European Parliament and of the Council ( 2 );
+
+(d) ‘electronic system for agricultural non-customs formalities (ELAN)’ as defined in Article 3, point (b), of Commission Delegated Regulation (EU) 2025/1269 ( 3 );
+
+(e) ‘exporter’, as defined in Article 1, point (19), of Commission Delegated Regulation (EU) 2015/2446 ( 4 );
+
+(f) ‘EU CSW-CERTEX’ means the European Union Customs Single Window Certificates Exchange System as defined in Article 4 of Regulation (EU) 2022/2399;
+
+(g) ‘advanced signature based on a qualified certificate’ means an electronic signature complying with the requirements laid down in Articles 26 and 28 of Regulation (EU) 910/2014 of the European Parliament and of the Council ( 5 );
+
+(h) ‘ELAN1L-AGRIM’ defines any import licence issued in accordance with the data model set out in the instructions published in series C of the Official Journal of the European Union, following the rules laid down in Annex I.1 to this Regulation for their use in ELAN;
+
+(i) ‘ELAN1L-AGREX’ defines any export licence issued in accordance with the data model set out in the instructions published in series C of the Official Journal of the European Union, following the rules laid down in Annex I.1 to this Regulation for their use in ELAN;
+
+(j) ‘instructions published in series C of the Official Journal of the European Union’ means the instructions set out in the Notice on the instructions on completing the ELAN1L-AGRIM and ELAN1L-AGREX data models ( 6 ) published in the C series of the Official Journal of the European Union that licence issuing authorities shall follow to issue import and export licences in accordance with Annex I.1 to this Regulation;
+
+(k) ‘ELAN (acceptance environment)’ means the electronic system identical to ELAN for the mere purpose of testing the functionality of that system before its actual release as a production environment.
+
+2\. In addition, the definitions laid down in Article 1 of Delegated Regulation (EU) 2016/1237, and in Article 4 of Delegated Regulation (EU) 2025/1269 apply.
+
+## Article 2 — Application for and issue of licences
+
+1\. Licences shall be applied for via information technology applications made available by Member States (‘national IT applications’) respecting the integrity and quality standards as set out in Section 3 B of Annex I to Commission Delegated Regulation (EU) 2022/127 ( 7 ). Where no such national IT applications are available or effective, or when national IT applications are temporarily unavailable, licences may also be applied for using the template set out in Annex I to this Regulation or any template set out by the competent national issuing authority.
+
+Licences shall be issued either in ELAN or in the national IT applications. Licences issued in national IT applications shall be considered issued and valid to be used for trade only after communication to ELAN, unless otherwise provided for in Articles 21a to 21d.
+
+The competent national issuing authorities shall set the template or data model that economic operators shall use for licence applications.
+
+2\. The names and addresses of the authorities competent for receiving the application and issuing the licence shall be published on the official website of those authorities, or on the official website dealing with agricultural trade of each Member State.
+
+3\. Applications and licences shall be completed and issued in typed format in one of the official languages of the Union, as specified by the competent authorities of the issuing Member State.
+
+4\. The competent authorities of the Member States may, where necessary, require that non-harmonised texts in applications for licences or accompanying documents be translated at the cost of the applicant into the official language or one of the official languages of the Member State concerned.
+
+5\. The licence application shall be filled in in accordance with the purpose of the licence and as set out in the instructions published in series C of the Official Journal of the European Union. If the transitional rules laid down in Articles 21a to 21d allow to use the template set out in Annex I, the licence application shall be filled in accordance with the Notice on import and export licences for agricultural products ( 8 ).
+
+6\. The licence issuing authority shall not accept applications that are not in accordance with the relevant Union legislation. It shall issue the licence without delay, using the accepted information as filled in by the applicant, and completing the information as set out in the instructions published in series C of the Official Journal of the European Union or in the Notice on import and export licences for agricultural products. On paper copies, the licence issuing authorities shall validate their issuing by signature and by means of a stamp, or an embossing press. Electronic copies shall be validated in accordance with the standards referred to in paragraph 1.
+
+## Article 3 — Deadlines
+
+1\. By way of derogation from Article 5 of Council Regulation (EEC, Euratom) No 1182/71 ( 9 ) the day an application for a licence is lodged shall be deemed to be the working day on which it is received by the licence issuing authority, provided that it has been received not later than 13.00 hours Brussels time.
+
+An application received after 13.00 hours Brussels time on a working day shall be deemed to have been lodged on the first working day following the day on which it was actually received.
+
+2\. A request for cancellation of an application for a licence may only be made in electronic or written form, to be received by the licence issuing authority by 13.00 hours Brussels time on the day the application is received.
+
+3\. Where in this Regulation a period for procedures is set, and the opening or closing date is a Saturday, Sunday, or public holiday as defined in Regulation (EEC, Euratom) No 1182/71:
+
+(a) the applicable opening date shall be the following working day and shall start at 0.00 hours, taking account of official office opening hours;
+
+(b) by way of derogation from Article 3(2)(b) and (4) of that Regulation, the applicable closing date shall be the last working day preceding the Saturday, Sunday or public holiday and shall end at 13.00 hours Brussels time. However, in respect of applications for a licence Member States may decide to provide for the necessary working arrangements to allow their submission on a Saturday, Sunday or public holiday. In that case, the applicable closing date shall be the given Saturday, Sunday or public holiday and shall end at 13.00 hours Brussels time. Where a Member State decides to provide for such working arrangements, it shall publish them.
+
+Point (b) of the first subparagraph shall also apply where the applicable closing date is defined by reference to a specified date and that date falls on a Saturday, Sunday or public holiday.
+
+4\. By way of derogation from paragraph 3, where for the purposes of this Regulation a time limit applies for the notification of quantities of products covered by applications for licences under a tariff quota or for the notification of unused quantities under a tariff quota, that time limit shall end with the expiry of the last hour of the last day, irrespective of whether that day is a Saturday, Sunday or public holiday.
+
+## Article 4 — Economic Operators Registration and Identification number
+
+1\. The Economic Operators Registration and Identification number (‘EORI number’) assigned to the applicant, titular holder or transferee pursuant to Article 9 of Regulation (EU) No 952/2013 shall be inserted in Section 4 or, where applicable, Section 6 of the application and the licence.
+
+Applicants or licence issuing authorities may, on the basis of national instructions, mention the EORI number of the applicant, titular holder or transferee in Section 20, provided that the name or identity number in Section 4 or 6 links to the EORI number in Section 20.
+
+2\. Where products are declared for release for free circulation or export by a customs representative as referred to in Article 18 of Regulation (EU) No 952/2013, the EORI number of the titular holder or transferee shall be mentioned in the appropriate data element of the electronic customs declaration.
+
+## Article 5 — Amount of the security
+
+1\. Where a security is required in accordance with Article 4(1) of Delegated Regulation (EU) 2016/1237, the amount of the security shall be as set out in Annex II to this Regulation.
+
+2\. Where the amounts resulting from the conversion of euro into sums in national currency to be entered on licences contain decimal places, the amount of the security shall be rounded to the first lower amount in whole national currency.
+
+## Article 6 — Extracts
+
+1\. Where the quantity indicated on a licence is to be subdivided for procedural or logistic reasons, the licence issuing authority may, at the request of the titular holder or transferee, issue extracts from licences (‘extracts’).
+
+When allowed by the transitional rules laid down in Articles 21a to 21d, the licence issuing authority may, at the request of the titular holder or transferee, issue extracts if the titular holder or transferee is required to use a licence issued in electronic format in a Member State different than the one where the licence was issued, and not connected to the national electronic system of the issuing Member State or via ELAN.
+
+2\. Extracts shall have the same legal effects as the licences from which they are extracted, within the limits of the quantity in respect of which such extracts are issued.
+
+3\. The procedures for the application for licences and the issuing and return thereof shall also apply to extracts. The licence issuing authority may provide for simplified application procedures.
+
+4\. The licence issuing authority shall deduct the quantity indicated in the extract from the original licence quantity, where applicable increased by the tolerance, and the word ‘extract’ shall be entered on the original licence beside that deducted quantity.
+
+5\. Extracts shall be issued without delay, and at no additional cost, in electronic format.
+
+When allowed by the transitional rules laid down in Articles 21a to 21d extracts may be issued in printed format using the models set out in Annexes I or I.1.
+
+6\. No further extract may be made of an extract.
+
+When allowed by the transitional rules laid down in Articles 21a to 21d, the licence issuing authority may, at the request of the titular holder or transferee, print out a copy of an extract issued in electronic format if the titular holder or transferee is required to use that extract in another Member State not connected to the national electronic system of the issuing Member State or via ELAN.
+
+7\. The titular holder shall return the holder's copy of the extract which has been used or expired to the licence issuing authority, together with the titular holder's copy of the original licence.
+
+## Article 7 — Period of validity
+
+1\. For the products listed in Annex II, the period of validity of the licences shall be as set out in that Annex.
+
+2\. A licence shall be valid from its actual day of issue as indicated in Section 25 of the import licence or Section 23 of the export licence as validated by the licence issuing authority's code or stamp. That day shall be included in the calculation of the period of validity of the licence.
+
+If pursuant to specific legislation another starting date of the period of validity applies, the licence issuing authority shall additionally indicate that date preceded by the words ‘valid from’ in the boxes of the licences referred to in the first subparagraph.
+
+## Article 8 — Tolerance and rounding
+
+1\. The positive or negative tolerance referred to in Article 5(4) of Delegated Regulation (EU) 2016/1237 shall be no more than 5 %.
+
+2\. When calculating quantities, the following rounding rules shall apply:
+
+(a) where the first decimal is five or more, the quantity shall be rounded up to the first higher unit of measurement referred to in Section 17 of the licence. Where the first decimal is less than five, the decimal quantity shall be deleted;
+
+(b) for headage-based quantities, quantities shall be rounded to the next greater whole number of head.
+
+## Article 9 — Customs declaration
+
+1\. The customs declaration shall refer to the licence or extract using a specific code and the licence number indicated on the licence, as set out in Title II of Annex B to Commission Implementing Regulation (EU) 2015/2447 ( 10 ).
+
+Where the transitional rules laid down in Articles 21a to 21d allow the competent authorities to issue licences in accordance with Annex I, the customs declaration may refer to the licence issue number indicated in Section 25 of the import licence or Section 23 of the export licence in accordance with Annex I.
+
+2\. ELAN shall allow customs offices to access the electronic licence or extract referred to in paragraph 1.
+
+Where allowed by the transitional rules laid down in Articles 21a to 21d, the national electronic systems of the licence issuing authority may allow the customs office to access the electronic licence or extract directly. If direct access is not available, the declarant or the licence issuing authority shall send the licence or extract to the customs office in electronic format.
+
+If, during the transitional periods laid down in Article 6(1) to (4), of Commission Implementing Regulation (EU) 2025/1272 ( 11 ), the IT applications of the customs office are not suited for applying the first and second subparagraph of this paragraph or if the customs office has no access to ELAN, licences or extracts may be sent in paper format.
+
+## Article 10 — Attribution and endorsements
+
+1\. The rules on the procedure for the issue of electronic licences in national electronic systems shall designate the authority that is to indicate the quantity released for free circulation or exported on the licence and specify how the declarant and the licence issuing authority get access to that information.
+
+2\. The customs office shall indicate and validate the quantity released for free circulation or exported, or if provided by national administrative rules, validate the quantity indicated by the declarant, in ELAN, either directly, or by interconnecting to it from the national customs IT system, via EU CSW-CERTEX.
+
+When the Union legislation allow the use of licences on paper, the customs office shall indicate and validate the quantity released for free circulation or exported, or if provided by national administrative rules, validate the quantity indicated by the declarant, in Sections ‘Quantity in figures’, ‘Unit of measurement’ and ‘Quantity in words’, endorse it, and return that copy to the declarant, or, if specific legislation requires so, return that copy to the licence issuing authority.
+
+When the copy of the licence is returned to the licence issuing authorities, the licence issuing authority shall encode in ELAN the quantity released for free circulation or exported, as indicated and validated in the licence, if that was not already done by the customs authorities.
+
+3\. Where the quantity released for free circulation or exported is lower than the quantity available on the licence, ELAN shall deduce the quantity released for free circulation or exported and indicate the remaining quantity within the limits of the quantity available on the licence.
+
+During the transitional periods laid down in Article 6(1) to (4), of Implementing Regulation (EU) 2025/1272, customs authorities shall indicate the remaining quantity on the licence.
+
+4\. Where, during the transitional period laid down in Articles 21a to 21d of this Regulation or during the periods of temporary unavailability of ELAN governed by Section 3 of Implementing Regulation (EU) 2025/1272, the quantity released for free circulation or exported does not correspond to the quantity indicated on the licence, customs authorities shall correct the entry on the licence by indicating the actual quantity within the limits of the quantity available on the licence.
+
+If the space for making attributions on paper licences or extracts is not sufficient, the authorities may attach extension pages, validated through allongement stamping.
+
+5\. The date of attribution shall be the date of acceptance of the declaration for release for free circulation or for export.
+
+6\. Customs authorities shall indicate and validate the quantity released for free circulation or exported in the national electronic systems of Member States only when this is allowed by the transitional rules laid down in Articles 21a to 21d of this Regulation, or during the periods of temporary unavailability of ELAN governed by Section 3 of Implementing Regulation (EU) 2025/1272.
+
+7\. Member States shall decide which authority carries out the functions referred to in this Article for electronic licences issued in their national systems, and they shall publish that information on their public website.
+
+## Article 11 — Transfer
+
+In the event of a request for transfer by the titular holder, the transferee's data and the date of the relevant entry shall be entered on the electronic licence in accordance with the instructions published in series C of the Official Journal of the European Union or, in the case of paper licences, in accordance with the Notice for import and export licences for agricultural products. The transfer shall be validated by the licence issuing authority.
+
+In the event of a transfer back to the titular holder, the licence issuing authority shall validate the transfer back and its date on the electronic licence in accordance with the instructions published in series C of the Official Journal of the European Union or, in case of paper licences, in accordance with the Notice for import and export licences for agricultural products.
+
+The transfer or transfer back shall take effect from the date indicated on the licence by the licence issuing authority, which shall fall during the period of validity of the licence.
+
+## Article 12 — Deposit
+
+1\. Member States may authorise the licence to be kept in deposit at the licence issuing authority, the paying agency or customs, or to stay available in the IT applications.
+
+2\. The licence issuing authority shall determine the cases in which deposit of a licence at the authorities involved in the procedure for release for free circulation or for export shall apply, and the conditions to be met by the titular holder or transferee.
+
+3\. Member States shall designate the authority involved in the system of deposit that is to carry out the functions referred to in Article 10 and they shall publish that information on their public website.
+
+4\. In box 44 of the paper customs declaration or in the appropriate data element of the electronic customs declaration the declarant shall add the words ‘in deposit’ to the licence issuing number. For electronic licences Member States may waive this obligation or apply a special code for this purpose.
+
+## Article 13 — Integrity and control of the licence, mutual assistance
+
+1\. Entries made on licences or extracts shall not be altered after their issue.
+
+2\. Where a competent customs authority has a doubt on the accuracy of entries on the licence or extract, it shall ask the licence-issuing authority for clarifications. Where a licence-issuing authority has a doubt on the accuracy of entries on the licence or extract, it shall ask the competent customs authority for clarifications.
+
+The first subparagraph shall not apply where it concerns minor or evident errors which the licence issuing authority or competent customs authority can remedy by applying the legislation correctly.
+
+3\. Where the licence issuing authority considers a correction necessary, it shall correct the licence or the extract without delay.
+
+4\. When licences or extracts are used in paper format, licence issuing authorities shall correct them only if they have been returned by the economic operator.
+
+5\. For electronic licences or extracts, the licence issuing authority shall validate the corrected version, which shall replace the original version. Where in accordance with the transitional rules laid down in Articles 21a to 21d of this Regulation or during the periods of temporary unavailability governed by Section 3 of Implementing Regulation (EU) 2025/1272, the issuing authority issues licences or extracts in paper form, it shall indicate on the top of these documents that they were corrected by adding the entry ‘licence corrected on …’ or ‘extract corrected on …’. Any former entries shall be reproduced on each copy.
+
+6\. Where, in accordance with the transitional rules laid down in Articles 21a to 21d of this Regulation or during the periods of temporary unavailability governed by Section 3 of Implementing Regulation (EU) 2025/1272, the licence is issued on paper at the request of the licence issuing authority, the titular holder or transferee shall return the licence or extract.
+
+Where on the basis of risk management the authenticity of a paper licence or extract, or entries or endorsements thereon must be verified, the authority concerned shall return the licence or extract, or a photocopy thereof to the competent authorities.
+
+The request for verification and its assessment shall be communicated by electronic means in accordance with Council Regulation (EC) No 515/97 ( 12 ) using the standard form as set out in Annex III to this Regulation. Authorities may agree on further simplification including direct consultations using the customs office list (COL) published on the Commission's official website.
+
+The requested authority shall ensure that a reply to the requesting authority is sent within 20 calendar days when the authorities are established in the same Member State. Where different Member States are involved, the reply shall be sent within 60 calendar days.
+
+7\. If the licence or extract is returned before the end of validity and the exhaustion of the available quantity, the competent authority shall indicate it in ELAN.
+
+Where, in accordance with the transitional rules laid down in Articles 21a to 21d of this Regulation or during the periods of temporary unavailability governed by Section 3 of Implementing Regulation (EU) 2025/1272, a licence or extract printed on paper is returned, the competent authority shall, on request, give a receipt to the party concerned, or alternatively note and stamp a date of receipt on a printed copy produced by the party concerned.
+
+## Article 14 — Fulfilment of the obligation and proof
+
+1\. The security for a licence shall be released if the obligations referred to in Article 24 of Delegated Regulation (EU) No 907/2014 and this Article have been fulfilled.
+
+2\. The right to have the products released for free circulation or to export shall be considered to have been exercised, and the corresponding obligation shall be considered to have been fulfilled, on the day the relevant customs declaration is accepted within the period of validity of the licence and provided that:
+
+(a) in case of release for free circulation, the products are actually released for free circulation;
+
+(b) in case of export, the products have left the customs territory of the Union within 150 calendar days from the day of acceptance of the customs declaration.
+
+3\. Proof of the fulfilment of the obligation to have the products released for free circulation shall be retrieved from ELAN.
+
+In case of unavailability of ELAN, the titular holder or transferee may submit the acceptance of the customs declaration retrieved from the customs database or a self-declaration stating the fulfilment of the obligation. Both documents shall be stamped and signed by customs authorities.
+
+4\. Proof of the fulfilment of the obligation to export shall be retrieved from ELAN.
+
+When the transitional rules laid down in Articles 21a to 21d of this Regulation apply, or during the periods of temporary unavailability governed by Section 3 of Implementing Regulation (EU) 2025/1272, the proof mentioned in the first sub-paragraph of this paragraph shall be either:
+
+(a) the titular holder’s or transferee’s copy of the licence or extract, stamped and signed by customs authorities; or
+
+(b) the exit certification by the customs office of export to the exporter or the declarant referred to in Article 334 of Implementing Regulation (EU) 2015/2447.
+
+5\. The proof referred to in paragraph 4, second subparagraph, point (b), shall be provided and checked as follows:
+
+(a) the exporter or declarant referred to in paragraph 4, second subparagraph, point (b), shall transfer the exit certification to the titular holder, and the titular holder shall submit the proof in paper or electronic format to the licence issuing authority. If the exit certification is annulled due to corrections by the customs office of exit, the customs office of export shall inform the exporter or his customs representative, and the exporter or his customs representative shall inform the titular holder, who shall inform the licence issuing authority accordingly;
+
+(b) the procedure set out in point (a) shall include submission of the Master Reference Number (MRN) concerned as defined in Article 1, point (22), of Commission Delegated Regulation (EU) 2015/2446 ( 13 ) to the licence issuing authority:
+
+(i) if more than one Member State is involved in the export procedure; or
+
+(ii) if the customs office of export is in another Member State than that of the licence issuing authority; or
+
+(iii) if the MRN is used in the export procedure completed within the Member State where the export declaration was lodged;
+
+(c) the licence issuing authority shall check the information received, including the correctness of the date of exit of the customs territory of the Union, on the basis of risk management. If the MRN and the MRN databank do not enable appropriate checks, customs shall, at the licence issuing authority’s request and on the basis of the MRN concerned, either confirm or correct the date of exit.
+
+If the customs office of export is established in another Member State than the licence issuing authority, the procedures set out in Article 13(6), third subparagraph, apply mutatis mutandis.
+
+Customs and licence issuing authorities may agree that the procedures set out in the first subparagraph are carried out directly between the authorities concerned. Licence issuing authorities may arrange simplified procedures for the purposes of the first subparagraph, point (a).
+
+6\. The competent authority shall retrieve from ELAN the proof of having the products released for free circulation in the Union before releasing the security for a licence, and in any case within 30 days after the expiry of the validity of the licence.
+
+The competent authority shall retrieve from ELAN the proof of export and exit of the customs territory of the Union within 90 calendar days after the expiry of the licence.
+
+When the transitional rules laid down in Articles 21a to 21d of this Regulation apply, or during the periods of temporary unavailability governed by Section 3 of Implementing Regulation (EU) 2025/1272:
+
+(a) the proof of having the products released for free circulation shall be received by the licence issuing authority within 60 calendar days of the expiry of the period of validity of the licence;
+
+(b) the proof of export and exit of the customs territory of the Union shall be received by the licence issuing authority within 180 calendar days after the expiry of the licence.
+
+If the deadlines provided for in the first, second and third subparagraphs cannot be complied with due to technical problems, the licence issuing authority may, at the request of the titular holder, who shall submit proof to support its request, extend those periods, if necessary, ex post, up to a maximum of 730 calendar days, taking account of Article 24(4) of Commission Delegated Regulation (EU) 2022/127 ( 14 ).
+
+7\. The licence issuing authorities may waive the obligation to provide the proof referred to in paragraphs 2, 3 and 4 if they are already in possession of the necessary information.
+
+## Article 15 — Replacement and duplicate licences or extracts issued during the transitional period laid down in Article 6 of Implementing Regulation (EU) 2025/1272 or during the periods of temporary unavailability governed by Section 3 of that Implementing Regulation
+
+1\. Where a paper licence or extract issued for products referred to in Article 2(1)(a) or (2)(a) of Delegated Regulation (EU) 2016/1237 is partly or totally destroyed, or lost, the titular holder or transferee may request the licence issuing authority to issue a replacement licence or extract. The replacement licence or extract substitutes the original licence or extract, including all rights and obligations concerned.
+
+For replacement licences under this paragraph a security shall be lodged as set out in Article 5.
+
+If the lost or partially destroyed original licence is found, the titular holder shall return the original licence to the licence issuing authority, who shall release the remaining security for the original licence forthwith.
+
+2\. A replacement licence or extract may only be issued once and for the period of validity and the balance of quantity remaining available for the original licence or extract.
+
+A replacement licence or extract shall not be issued where the issue of licences or extracts for the product in question is suspended or where it concerns an import or export tariff rate quota.
+
+3\. The security for the replacement licence, together with the security for the original licence if it was not found, shall be released in accordance with Article 14.
+
+4\. Where the request concerns a partly or totally destroyed licence or extract issued for products other than those referred to in Article 2(1)(a) and (2)(a) of Delegated Regulation (EU) 2016/1237, the following conditions shall apply:
+
+(a) the titular holder or transferee shall prove the total or partial destruction to the satisfaction of the licence issuing authority;
+
+(b) the replacement licence or extract shall not be issued if the titular holder or transferee has failed to show that he has taken reasonable precautions to prevent the destruction of the licence or extract, or where the evidence provided by the titular holder is unsatisfactory;
+
+(c) the security to be lodged for the replacement licence or extract shall be 150 % of the security for the original licence, with a minimum of 3 EUR per 100 kilograms or per hectolitre or head, taking account of the balance of the quantity remaining available at the moment of destruction, and of the positive tolerance, if applicable. The balance of security available for the original licence may be used when lodging the security for the replacement licence. Any excess of the security for the original licence compared to the security for the replacement licence, taking into account the remaining available quantity shall be released immediately.
+
+5\. When replacement licences or extracts are issued, the licence issuing authority shall immediately notify the Commission of:
+
+(a) the licence issuing number of replacement licences or extracts issued and the licence issuing number of replaced licences or extracts;
+
+(b) the products concerned with their Combined Nomenclature code (‘CN code’) and their quantity.
+
+The Commission shall inform the Member States thereof.
+
+6\. Where a paper licence or extract is lost or destroyed, and the lost or destroyed document has been used wholly or in part, for the sole purpose of releasing the still outstanding security concerning the release for free circulation or export which were already registered on the original licence, the following conditions shall apply:
+
+(a) the titular holder or transferee may request the licence issuing authority to issue a duplicate licence or extract to be drawn up and endorsed in the same way as the original document. A duplicate licence or extract may only be issued once;
+
+(b) the licence issuing authority may supply the titular holder or transferee with a duplicate licence or extract, clearly marked ‘duplicate’ on each copy;
+
+(c) the duplicate licence or extract shall be presented to the customs authority competent for the declaration for release for free circulation, or export, where that declaration was accepted under the lost licence or extract. That customs authority shall make entries on and endorse the duplicate concerning the release for free circulation or export carried out under the original licence or extract.
+
+## Article 16 — Force majeure
+
+1\. The competent authority of the Member State that has issued the licence or extract may recognise a case of force majeure taking account of Article 50 of Commission Implementing Regulation (EU) No 908/2014 ( 15 ) and decide to:
+
+(a) either cancel the obligation to have the products and quantity indicated on the licence be released for free circulation or exported during the period of validity of the licence, as referred to in Article 14(1) of this Regulation, and release the security, or extend the period of validity of the licence by a period of maximum 180 days following the expiry of the original period of validity of the licence, taking account of the circumstances of the case; or
+
+(b) extend the period for the submission of the proof of release for free circulation or export as referred to in Article 14(6), third subparagraph, of this Regulation, within the limits set by that provision, without partial forfeiture of the security.
+
+A decision taken pursuant point (a) shall relate only to the quantity of products that could not be released for free circulation or exported as a result of force majeure.
+
+2\. In their notification pursuant to Article 50(4) of Implementing Regulation (EU) No 908/2014, the competent authorities shall inform the Commission of the products concerned with their CN code and of the quantities involved and indicate whether it concerns release for free circulation or export and whether it concerns a cancellation of the licence or an extension of either the period of validity of the licence or the period for the submission of the proof of release for free circulation or export, specifying the new period. The Commission shall inform the other competent authorities thereof through its dedicated website accessible for licence issuing and customs authorities.
+
+3\. If pending a decision on force majeure the titular holder or transferee expresses the need to further use the licence in relation to the quantity for which force majeure is not requested, the licence issuing authority shall issue an extract for that balance, marked with information as set out in the notice on import and export licences for agricultural products.
+
+That extract shall not be transferable.
+
+## Article 17 — Information and notifications relating to hemp
+
+1\. For control purposes regarding the operations referred to in Article 9(4) of Delegated Regulation (EU) 2016/1237, where the operations are carried out in a Member State different from the one where the importer is authorised for importing hemp seeds other than for sowing, the authority having granted the authorisation shall send the competent authority of the other Member State copies of the documents concerning the operations carried out on the latter's territory and submitted by authorised importers.
+
+Where irregularities are discovered during the checks referred to in the fourth subparagraph of Article 9(4) of Delegated Regulation (EU) 2016/1237, the competent authority of the Member State concerned shall inform the authority competent for granting the authorisation in the Member State where the importer concerned is authorised.
+
+2\. The competent authorities shall send the Commission the names and addresses of the authorities responsible for the checks referred to in the fourth subparagraph of Article 9(4) of Delegated Regulation (EU) 2016/1237. The Commission shall forward those names and addresses to the competent authorities of the other Member States.
+
+## Article 18 — Notifications relating to garlic
+
+Member States shall notify the Commission of the total quantities covered by ‘B’ licence applications by Wednesday of each week in respect of applications received the previous week.
+
+The quantities concerned shall be broken down by day of import licence application, origin and CN code. For products other than garlic as set out in Sections E and F of Annex II, the name of the product, as shown in Section 14 of the import licence application, shall also be communicated.
+
+## Article 19 — Notifications relating to import licences for ethyl alcohol of agricultural origin
+
+1\. Member States shall notify the Commission each Thursday, or the first working day thereafter if the Thursday is a public holiday, of the quantities of the products referred to in Section H of Part I of Annex II for which import licences have been issued during the previous week broken down by CN code and by country of origin.
+
+2\. If a Member State considers that the quantities for which import licences have been requested in that Member State risk disturbing the market, that Member State shall immediately inform the Commission specifying the quantities by types of product concerned. The Commission shall examine the situation and shall inform the Member States thereof.
+
+## Article 19a — Notifications relating to rice
+
+Member States shall notify the Commission on a daily basis the total quantities covered by import licences other than those intended for the management of tariff quotas by product code and by the origin indicated in the licence application.
+
+## Article 20 — Exchange of information and notifications to the Commission
+
+1\. Where necessary for the proper application of this Regulation, the competent authorities shall exchange information on licences and extracts and on irregularities and infringements relating thereto.
+
+2\. The competent authorities shall inform the Commission as soon as they have knowledge of irregularities and infringements with regard to this Regulation.
+
+3\. Member States shall notify information on the Uniform Resource Locator (URL) of the web address of the authorities competent for receiving applications and issuing licences and extracts as referred to in Article 2(2) to the Commission, and shall keep that information updated and send it again when necessary. The Commission shall publish the URLs concerned on its public website.
+
+4\. Member States shall notify the Commission of impressions of the official stamps and, where appropriate, of the embossing presses to be used by authorities when the transitional rules laid down in Articles 21a to 21d of this Regulation apply, or during the periods of temporary unavailability governed by Section 3 of Implementing Regulation (EU) 2025/1272. The Commission shall immediately inform the other Member States thereof on a secured website accessible only to Member States’ authorities.
+
+5\. The notifications to the Commission referred to in this Regulation shall be made in accordance with Commission Regulation (EC) No 792/2009 ( 16 ).
+
+## Article 21 — Transitional provisions
+
+1\. The competent authorities may continue using paper versions of the models provided for in Article 17 of Regulation (EC) No 376/2008 as set out in Annex I to that Regulation for applications and for issuing licences until existing stocks have been exhausted. In any case, applications and licences generated pursuant to Article 3(1) of this Regulation in another Member State in accordance with the model set out in Annex I to this Regulation shall be acceptable in any phase of the procedure.
+
+2\. The proof of exit of the customs territory of the Union provided for in Article 14(4)(b) and (5) shall be accepted in all cases where such proof should have been produced using the T5 control copy as referred to in Article 912a-912g of Regulation (EEC) No 2454/93 ( 17 ).
+
+## Article 21a — Voluntary use of ELAN
+
+1\. From 15 July 2025, licence issuing authorities of Member States may start issuing or transmitting licences in ELAN (acceptance environment).
+
+2\. Documents made available in ELAN (acceptance environment) shall count as tests performed by Member States and shall not have legal value.
+
+3\. ELAN (acceptance environment) shall remain available for Member States throughout the whole duration of the transitional period laid down in Article 6 of Implementing Regulation (EU) 2025/1272, with the sole scope of allowing all users of ELAN to test the functioning of the system.
+
+4\. From the date laid down in paragraph 1, Member States may issue import and export licences in electronic or paper format using either:
+
+(a) the templates laid down in Annex I; or
+
+(b) the ELAN1L-AGRIM and ELAN1L-AGREX data models laid down in Annex I.1.
+
+The documents referred to in the first subparagraph, points (a) and (b), may, in addition, be issued in ELAN (acceptance environment) or transmitted to that system.
+
+5\. From 19 January 2026, Member States may start issuing imports and export licences in ELAN or transmit them to that system.
+
+Documents issued in ELAN or transmitted to that system in accordance with this paragraph shall have legal value and may be used for the release for free circulation or export of agricultural products.
+
+Licence issuing authorities of Member States may issue licences in ELAN (acceptance environment) for testing purposes after the date laid down in the first subparagraph, provided that documents issued in that system shall not have legal value.
+
+## Article 21b — Mandatory use of ELAN1L-AGRIM and ELAN1L-AGREX data models
+
+1\. From 18 January 2027, all licences shall be issued following the ELAN1L-AGRIM and ELAN1L-AGREX data models set out in Annex I.1, in accordance with the instructions published in series C of the Official Journal of the European Union.
+
+2\. Licences issued in accordance with paragraph 1, or their extracts may be printed on paper only if they have been transmitted to ELAN, unless otherwise provided by the rules on contingency periods laid down in Section 3 of Implementing Regulation (EU) 2025/1272.
+
+When licence issuing authorities transmit a licence or extract to ELAN from their national electronic systems, they shall transmit also the quantity released for free circulation or exported under the licence or extract as it is recorded in the national system.
+
+Licences printed in accordance with the first subparagraph shall bear a valid signature and the official stamp of the competent issuing authority.
+
+Unless otherwise provided by the rules on contingency periods laid down in Section 3 of Implementing Regulation (EU) 2025/1272, licences or extracts printed on paper that have not been transmitted to ELAN shall not be used for the release for free circulation or the export of agricultural products.
+
+3\. Customs authorities shall validate the quantity released for free circulation or exported with a signature and stamp in the case of a paper licence, or by an electronic validation system in the case of an electronic licence.
+
+All quantity attributions made on printed licences or extracts shall be encoded by the competent licence issuing authority within two working days from the return of the licence or extract, starting from the beginning of day following the date of the return.
+
+4\. Where licences or extracts, are printed on paper in accordance with paragraph 2, the corresponding copies in the national electronic system shall not be used for release for free circulation of goods in the Union territory or to export goods from the Union territory until the paper copy is returned and the licence issuing authority has:
+
+(a) encoded the quantity released for free circulation or exported under the licence or extract in ELAN and in the national system; and
+
+(b) indicated that the licence or extract will be used outside ELAN.
+
+5\. Where licences or extracts are printed on paper in accordance with paragraph 2, the equivalent electronic licences or extracts available in ELAN shall not be used for release for free circulation of goods in the Union territory or to export goods from the Union territory.
+
+The electronic licences or extracts may be used only once operators have returned the corresponding printed licences or extracts to the licence issuing authorities, and the attributions made by customs authorities have been encoded in ELAN and, if applicable, in the national electronic system.
+
+6\. Customs authorities shall accept paper licences issued in accordance with the template for licences laid down in Annex I, provided that they have been issued before the date laid down in paragraph 1 of this Article and that they are still valid according to the relevant Union legislation.
+
+## Article 21c — Mandatory availability of licences in ELAN
+
+1\. From 17 January 2028 all import and export licences shall be issued in ELAN or transmitted to it from national electronic systems. As of that date, licences not available in ELAN shall not have legal value and shall not be used for release for free circulation or export of goods.
+
+2\. Licences or extracts shall be printed on paper only if they have been transmitted to ELAN, unless otherwise provided by the rules on contingency periods laid down in Section 3 of Implementing Regulation (EU) 2025/1272.
+
+3\. When customs authorities indicate the quantity released for free circulation or exported on electronic licences or extracts in the national electronic system, licence issuing authorities shall encode or transmit these attributions in ELAN within two working days from the day following the date of attribution.
+
+## Article 21d — Mandatory use of ELAN
+
+1\. From 6 October 2028, automatic verifications by customs authorities of import and export licences and the reporting of cleared quantities to ELAN shall take place via EU CSW-CERTEX in accordance with Regulation (EU) 2022/2399.
+
+2\. Licences or extracts issued before the date laid down in paragraph 1 and printed on paper shall not be used after that date and shall be returned to the relevant licence issuing authorities.
+
+3\. Licence issuing authorities shall encode or transmit to ELAN all data concerning licences or extracts returned in accordance with the first subparagraph, and the available quantity shall take into account all quantities released for free circulation or exported indicated in the returned licences.
+
+4\. Once encoded in accordance with paragraph 2, licences shall be valid to be used in ELAN.
+
+## Article 22 — Entry into force and application
+
+This Regulation shall enter into force on the seventh day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 6 November 2016.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**MODEL REFERRED TO IN ARTICLE 2(1)**
+
+**INSTRUCTIONS FOR USE**
+
+1\. Licence forms shall be made up in sets containing copy No 1, copy No 2 and the application, together with any extra copies of the licence, in that order.
+
+However, the licence issuing authority may require applicants to complete an application form only, instead of the sets provided for in the first subparagraph.
+
+2\. Where, as a result of a Union measure, the quantity for which the licence is issued may be less than the quantity in respect of which application for a licence was initially made, the quantity applied for and the amount of the security relating thereto must be entered only on the application form.
+
+3\. Forms for extracts of licences shall be made up in sets containing copy No 1 and copy No 2, in that order.
+
+4\. In Section 2 the Member State issuing the document shall be indicated using the corresponding country code. The licence issuing authority may add numbers identifying the document.
+
+Member State Country code
+
+Belgium BE
+
+Bulgaria BG
+
+Czech Republic CZ
+
+Denmark DK
+
+Germany DE
+
+Estonia EE
+
+Ireland IE
+
+Greece EL
+
+Spain ES
+
+France FR
+
+Croatia HR
+
+Italy IT
+
+Cyprus CY
+
+Latvia LV
+
+Lithuania LT
+
+Luxembourg LU
+
+Hungary HU
+
+Malta MT
+
+Netherlands NL
+
+Austria AT
+
+Poland PL
+
+Portugal PT
+
+Romania RO
+
+Slovenia SI
+
+Slovakia SK
+
+Finland FI
+
+Sweden SE
+
+United Kingdom UK
+
+5\. At the time of their issue, licences and extracts may bear an issue number in Section 23 (export licence) or Section 25 (import licence) allocated by the licence issuing authority.
+
+6\. Applications, licences and extracts shall be completed in typescript or by computerised means.
+
+7\. The licence issuing authority may allow applications to be handwritten in ink and in block capitals.
+
+Text of image
+
+EUROPEAN UNION — IMPORT LICENCE AGRIM
+
+1
+
+1 Licence issuing authority (name and address)
+
+2 Licence issuing authority‘s embossment and perforation (1)
+
+No
+
+HOLDER’S COPY
+
+3
+
+4 Issued to (name, full address and Member State)
+
+5 Authority issuing the extract (name and address)
+
+6 Rights transferred to:
+
+with effect from ||||
+
+Stamp of the licence issuing authority:
+
+7 Exporting country
+
+Compulsory
+
+Yes
+
+No
+
+8 Country of origin
+
+Compulsory
+
+Yes
+
+No
+
+10 Date of lodging original licence application
+
+|||
+
+11 Total amount of security
+
+12 LAST DAY OF VALIDITY
+
+1
+
+13 PRODUCT TO BE IMPORTED
+
+|||
+
+14 Trade denomination
+
+(1) To be completed if the signature and the stamp do not appear in Section 25.
+
+(2) Net mass or other unit of measurement indicating unit.
+
+15 Description in accordance with the Combined Nomenclature (CN)
+
+16 CN code(s)
+
+17 Quantity (2) in figures
+
+18 Quantity (2) in words
+
+19 Tolerance
+
+% more
+
+20 Special particulars
+
+24 Special conditions
+
+25 Issued at:
+
+on |||| under No
+
+Licence issuing authority’s signature and stamp:
+
+26 Term of validity extended until |||| inclusive for (2)
+
+At on ||||
+
+Signature and stamp of licence issuing authority:
+
+Text of image
+
+27 ATTRIBUTIONS
+
+Indicate the quantity available in part 1 of column 29 and the quantity attributed in part 2 thereof
+
+28 Net quantity (net mass or other unit of measure stating the unit)
+
+31 Customs document (form and No) or extract No and date of attribution
+
+32 Name, Member State, stamp and signature of the attributing authority
+
+29 In figures
+
+30 In words for the quantity attributed
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+33 Extension pages to be attached hereto.
+
+Text of image
+
+EUROPEAN UNION — IMPORT LICENCE AGRIM
+
+2
+
+1 Licence issuing authority (name and address)
+
+2 Licence issuing authority‘s embossment and perforation (1)
+
+No
+
+LICENCE ISSUING AUTHORITY’S COPY
+
+3
+
+4 Issued to (name, full address and Member State)
+
+5 Authority issuing the extract (name and address)
+
+6 Rights transferred to:
+
+with effect from ||||
+
+Stamp of the licence issuing authority:
+
+7 Exporting country
+
+Compulsory
+
+Yes
+
+No
+
+8 Country of origin
+
+Compulsory
+
+Yes
+
+No
+
+10 Date of lodging original licence application
+
+|||
+
+11 Total amount of security
+
+12 LAST DAY OF VALIDITY
+
+2
+
+13 PRODUCT TO BE IMPORTED
+
+|||
+
+14 Trade denomination
+
+(1) To be completed if the signature and the stamp do not appear in Section 25.
+
+(2) Net mass or other unit of measurement indicating unit.
+
+15 Description in accordance with the Combined Nomenclature (CN)
+
+16 CN code(s)
+
+17 Quantity (2) in figures
+
+18 Quantity (2) in words
+
+19 Tolerance
+
+% more
+
+20 Special particulars
+
+24 Special conditions
+
+25 Issued at:
+
+on |||| under No
+
+Licence issuing authority’s signature and stamp:
+
+26 Term of validity extended until |||| inclusive for (2)
+
+At on ||||
+
+Signature and stamp of licence issuing authority:
+
+Text of image
+
+EUROPEAN UNION — IMPORT LICENCE AGRIM
+
+1 Licence issuing authority (name and address)
+
+APPLICATION
+
+4 Applicant (name, full address and Member State)
+
+7 Exporting country
+
+Compulsory
+
+Yes
+
+No
+
+8 Country of origin
+
+Compulsory
+
+Yes
+
+No
+
+11 Total amount of security
+
+13 PRODUCT TO BE IMPORTED
+
+14 Trade denomination
+
+(1) Net mass or other unit of measurement indicating unit.
+
+15 Description in accordance with the Combined Nomenclature (CN)
+
+16 CN code(s)
+
+17 Quantity (1) in figures
+
+18 Quantity (1) in words
+
+20 Special particulars
+
+Notes
+
+Place and date:
+
+Applicant’s signature:
+
+Text of image
+
+EUROPEAN UNION — EXPORT LICENCE AGREX
+
+1
+
+1 Licence issuing authority (name and address)
+
+2 Licence issuing authority‘s embossment and perforation (1)
+
+No
+
+HOLDER’S COPY
+
+3
+
+4 Issued to (name, full address and Member State)
+
+5 Authority issuing the extract (name and address)
+
+6 Rights transferred to:
+
+with effect from ||||
+
+Stamp of the licence issuing authority:
+
+7 Receiving country
+
+Compulsory
+
+Yes
+
+No
+
+10 Date of lodging original licence application
+
+|||
+
+11 Total amount of security
+
+12 LAST DAY OF VALIDITY
+
+1
+
+13 PRODUCT TO BE EXPORTED
+
+|||
+
+14 Trade denomination
+
+(1) To be completed if the signature and the stamp do not appear in Section 25.
+
+(2) Net mass or other unit of measurement indicating unit.
+
+15 Description in accordance with the Combined Nomenclature (CN)
+
+16 CN code(s)
+
+17 Quantity (2) in figures
+
+18 Quantity (2) in words
+
+19 Tolerance
+
+% more
+
+20 Special particulars
+
+22 Special conditions
+
+23 Issued at:
+
+on |||| under No
+
+Licence issuing authority’s signature and stamp:
+
+24 Term of validity extended until |||| inclusive for (2)
+
+At on ||||
+
+Signature and stamp of licence issuing authority:
+
+Text of image
+
+27 ATTRIBUTIONS
+
+Indicate the quantity available in part 1 of column 29 and the quantity attributed in part 2 thereof
+
+28 Net quantity (net mass or other unit of measure stating the unit)
+
+31 Customs document (form and No) or extract No and date of attribution
+
+32 Name, Member State, stamp and signature of the attributing authority
+
+29 In figures
+
+30 In words for the quantity attributed
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+1
+
+2
+
+33 Extension pages to be attached hereto.
+
+Text of image
+
+EUROPEAN UNION — EXPORT LICENCE AGREX
+
+2
+
+1 Licence issuing authority (name and address)
+
+2 Licence issuing authority‘s embossment and perforation (1)
+
+No
+
+LICENCE ISSUING AUTHORITY’S COPY
+
+3
+
+4 Issued to (name, full address and Member State)
+
+5 Authority issuing the extract (name and address)
+
+6 Rights transferred to:
+
+with effect from ||||
+
+Stamp of the licence issuing authority:
+
+7 Receiving country
+
+Compulsory
+
+Yes
+
+No
+
+10 Date of lodging original licence application
+
+|||
+
+11 Total amount of security
+
+12 LAST DAY OF VALIDITY
+
+2
+
+13 PRODUCT TO BE EXPORTED
+
+|||
+
+14 Trade denomination
+
+(1) To be completed if the signature and the stamp do not appear in Section 23.
+
+(2) Net mass or other unit of measurement indicating unit.
+
+15 Description in accordance with the Combined Nomenclature (CN)
+
+16 CN code(s)
+
+17 Quantity (2) in figures
+
+18 Quantity (2) in words
+
+19 Tolerance
+
+% more
+
+20 Special particulars
+
+22 Special conditions
+
+23 Issued at:
+
+on ||||under No
+
+Licence issuing authority’s signature and stamp:
+
+24 Term of validity extended until |||| inclusive for (2)
+
+At on ||||
+
+Signature and stamp of licence issuing authority:
+
+Text of image
+
+EUROPEAN UNION — EXPORT LICENCE AGREX
+
+1 Licence issuing authority (name and address)
+
+APPLICATION
+
+4 Applicant (name, full address and Member State)
+
+7 Receiving country
+
+Compulsory
+
+Yes
+
+No
+
+11 Total amount of security
+
+13 PRODUCT TO BE EXPORTED
+
+14 Trade denomination
+
+(1) Net mass or other unit of measurement indicating unit.
+
+15 Description in accordance with the Combined Nomenclature (CN)
+
+16 CN code(s)
+
+17 Quantity (1) in figures
+
+18 Quantity (1) in words
+
+20 Special particulars
+
+Notes
+
+Place and date:
+
+Applicant’s signature:
+
+## ANNEX I.1 — ELAN1L-AGRIM and ELAN1L-AGREX data models for import and export licences
+
+The ELAN1L-AGRIM and ELAN1L-AGREX data models lay down the information necessary for licence issuing authorities to issue import and export licences in accordance with the applicable Union legislation.
+
+**A.1 – ELAN1L-AGRIM data model**
+
+1\. Each entry in import licences following the ELAN1L-AGRIM data model shall use the format indicated in the instructions published in the C series of the Official Journal of the European Union.
+
+2\. Import licences issued in accordance with the ELAN1L-AGRIM data model shall always indicate the following data:
+
+(a) the entry ‘EUROPEAN UNION – Import licence AGRIM’ in Section ‘Document type’;
+
+(b) the licence number in Section ‘Licence number’ and, only for extracts, the licence number of the parent licence in Section ‘Parent licence number’;
+
+(c) if, according to the relevant Union rules, a pre-condition for issuing the licence is the existence of a document issued by third countries, the number of such document shall be indicated in Section ‘TCDOC number’;
+
+(d) if the licence is issued for a tariff quota, the number of the tariff quota shall be indicated in Section ‘TRQ number’ using the format ‘09.4xxx’;
+
+(e) the code of the authority issuing the licence;
+
+(f) the EORI number of the titular holder of the licence;
+
+(g) the EORI number of the transferee, if the licence or extract is transferred, and the date of validation of the transfer;
+
+(h) in case of transfer back, and subsequent new transfer, the Section ‘Transferee’ shall show the data of the last transfer. All transfers and transfers back shall be shown in the dedicated Section on the third page of the licence;
+
+(i) data concerning previous transfers and transfers back, in particular the date of validation of the transfer back/transfer, as well as the data on the economic operators from which and to which the licence or extract has been transferred, shall be shown on the third page of the licence;
+
+(j) if required by the relevant Union rules, the ISO 3166-1 alpha-2 code of:
+
+(i) the third country from where the products have been transported in Section ‘Exporting country’;
+
+(ii) the third country of origin of the products in Section ‘Country of origin’;
+
+(iii) the third country or countries from which imports are not allowed under the specific tariff quota in Section ‘Excluded origins’;
+
+(k) if the licence is issued for one of the tariff quotas with order number 09.4120, 09.4121 and 09.4122, the ISO 3166-1 alpha-2 code of Spain or Portugal shall be indicated in Section ‘Destination’, in accordance with the relevant Union legislation;
+
+(l) Section ‘Product. Trade denomination’ shall be completed in accordance with the instructions published in the C series of the Official Journal of the European Union;
+
+(m) the product list shall be indicated as follows:
+
+(i) the product code shall be indicated in Section ‘Product list. CN code’ in accordance with the instructions published in the C series of the Official Journal of the European Union;
+
+(ii) Section ‘Product list. Description in accordance with the Combined Nomenclature’ shall indicate the description of the product that, according to the relevant Union rules, corresponds to the code indicated in subpoint (i);
+
+(n) the quantity shall be indicated according to the instructions published in the C series of the Official Journal of the European Union;
+
+(o) Section ‘Tolerance’ shall be completed with the tolerance applicable to the products in accordance with the relevant Union rules;
+
+(p) if so required by the relevant Union rules, Section ‘Special conditions/special particulars’ shall indicate one or more of the codes indicated in the following table:
+
+| ELAN Code | Meaning of the code | Licences for which this entry shall be indicated in Section ‘Special conditions / special particulars’ |
+| --- | --- | --- |
+| SC01 | Replacement licence or extract of a lost or destroyed licence or extract | Licences issued in accordance with Article 15 of Implementing Regulation (EU) 2016/1239 |
+| SUG01 | Sugar intended for refining | Licences issued for tariff quotas with order numbers: 09.4317, 09.4318, 09.4354, 09.4355, 09.4319, 09.4320, 09.4329, 09.4330. |
+| SUG02 | WTO concessions sugar imported in accordance with Title III, Chapter 3, of Implementing Regulation (EU) 2020/761. | Licences issued for tariff quotas with order number: 09.4317, 09.4318, 09.4354, 09.4355, 09.4319, 09.4320, 09.4321, 09.4329, 09.4330. |
+| SUG03 | Application of Implementing Regulation (EU) 2020/761, Balkans sugar. | Licences issued for tariff quotas with order number: 09.4324, 09.4325, 09.4326, 09.4327. |
+| MI01 | Valid only if accompanied by the TCDOC – subtype IMA 1 certificate – with the number indicated in Section ‘TCDOC number’ | Licences issued for tariff quotas with order number: 09.4521, 09.4522. |
+| MI02 | Valid only if accompanied by the TCDOC – subtype certificate of eligibility – with the number indicated in Section ‘TCDOC number’ | Licences issued for tariff quotas with order number: 09.4518, 09.4519, 09.4520. |
+| SP01 | Preferential arrangements applicable to the quantity specified in Section ‘Total quantity’ | Applicable to all import licences issued for tariff quotas referred to in Article 5(5), second subparagraph, of Delegated Regulation (EU) 2016/1237. |
+| SP02 | In-quota duty applicable to the quantity specified in Section ‘Total quantity’ | Applicable to import licences issued for products subject to an import licence listed in Part I of the Annex to Delegated Regulation (EU) 2016/1237. |
+| SP03 | Article 3(4) of Regulation (EEC, Euratom) No 1182/71 shall not apply | Applicable to all import licences issued for tariff quotas. |
+| HE01 | Variety of hemp indicated in free text | Applicable to licences issued for imports of hempseeds for sowing (CN code ex 1207 99 20 ) |
+| HE02 | Seeds of varieties of hemp, for sowing, falling within CN code ex 1207 99 20 are accompanied by proof that the tetrahydrocannabinol content of the variety concerned does not exceed that laid down in accordance with Article 4(4), second subparagraph, and Article 4(8) of Regulation (EU) 2021/2115 of the European Parliament and of the Council | Applicable to licences issued for imports of hempseeds for sowing (CN code ex 1207 99 20 ) |
+| HE03 | Hempseeds other than for sowing, falling within CN code 1207 99 91 are imported by an importer approved by the Member State | Applicable to licences issued for imports of hempseeds other than for sowing (CN code 1207 99 91 ) |
+| HE04 | True hemp, raw or retted, falling within CN code 5302 10 00 fulfils the conditions laid down in Article 4(4), second subparagraph, and Article 4(8) of Regulation (EU) 2021/2115 | Applicable to licences issued for imports of hemp (CN code 5302 10 00 ) |
+| BA01 | Basmati rice falling within CN code 1006 20 17 or 1006 20 98 and imported at a zero rate of duty under the relevant Union legislation, accompanied by the authenticity certificate with the number indicated in Section ‘TCDOC number’ | Applicable to all import licences for basmati rice with CN codes 1006 20 17 and 1006 20 98 |
+
+(q) the licence shall indicate the date of issuance, and the first and last day of validity in the relevant Sections;
+
+(r) Section ‘Signature’ shall be completed with the signature of any official of the issuing authority issuing the document with the right to sign licences, and the stamp of that authority. The signature and the stamp shall have the format provided by the national rules applicable in the issuing Member State;
+
+(s) if the licence or extract is produced during the unavailability of ELAN, Section ‘To complete only in case of temporary unavailability’ shall be filled in with the applicable entry laid down in Section 3 of Implementing Regulation (EU) 2025/1272.
+
+3\. The following data may be indicated in import licences:
+
+(a) the name and address of the issuing authority;
+
+(b) the name and address of the titular holder;
+
+(c) the name and address of the transferee, if the licence or extract is transferred;
+
+(d) the name of the organisation issuing the document in Section ‘Licence issuing authority’;
+
+(e) the name of the person signing it in Section ‘Issued on’;
+
+(f) the date of signature, in Section ‘Signature’.
+
+4\. Quantity attributions on licences or extracts shall be indicated as follows:
+
+(a) for the purpose of the first attribution, enter in box 1 of Section ‘Quantity in figures’ the quantity indicated in Section ‘Total quantity’ of the licence, increased by the permitted tolerance, using the same unit of measurement indicated on the licence;
+
+(b) in Section ‘Customs document/extract number’ shall be indicated the type and number of the customs document and the date of acceptance of the customs declaration which is the date of attribution. In case of attribution for the creation of an extract, the section mentioned above shall indicate the number of the extract and the date of issue of the extract;
+
+(c) in the case of attribution relating to the issue of an extract, the quantity to be entered is that for which the extract is issued, plus any tolerance;
+
+(d) in Section ‘Customs reference number, signature, stamp of the attributing authority’ customs authorities shall indicate reference number identifying the customs office, the Member State, the signature of the official and the stamp of the authority.
+
+**EUROPEAN UNION – IMPORT LICENCE AGRIM**
+
+[image]
+
+<table>
+<tbody><tr><td colspan="4">Attributions</td></tr>
+<tr><td>Quantity in figures</td><td>Product code – Unit of Measurement</td><td>Customs document / Extract number</td><td>Customs reference number, signature, stamp of the attributing authority</td></tr>
+<tr><td>1 </td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2 </td><td>UoM</td><td>Date</td></tr>
+<tr><td>1 </td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2 </td><td>UoM</td><td>Date</td></tr>
+<tr><td>1 </td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2 </td><td>UoM</td><td>Date</td></tr>
+<tr><td>1 </td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2 </td><td>UoM</td><td>Date</td></tr>
+<tr><td>1 </td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2 </td><td>UoM</td><td>Date</td></tr>
+<tr><td>1 </td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2 </td><td>UoM</td><td>Date</td></tr>
+<tr><td>1 </td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2 </td><td>UoM</td><td>Date</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Special particulars / special conditions</td></tr>
+<tr><td>Code</td><td>Text</td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Free text</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="4">Transfers/Transfers back</td></tr>
+<tr><td>Transferred to – EORI</td><td>Transferred to – Name</td><td>Date of transfer</td><td>Date of transfer back</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="6">Extension of validity</td></tr>
+<tr><td>  </td><td>Date of operation</td><td>CN code</td><td>Quantity</td><td>UoM</td><td>Valid until</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**A.2 – ELAN1L-AGREX data model**
+
+1\. Each entry in export licences following the ELAN1L-AGREX data model shall use the format indicated in the instructions published in the C series of the Official Journal of the European Union.
+
+2\. Export licences issued in accordance with the ELAN1L-AGREX data model shall always indicate the following data:
+
+(a) the entry ‘AGREX’ in Section ‘Document type’;
+
+(b) the licence number in Section ‘Licence number’ and, only for extracts, the licence number of the parent licence in Section ‘Parent licence number’;
+
+(c) the code of the issuing authority;
+
+(d) the EORI number of the titular holder of the licence;
+
+(e) the ISO 3166-1 alpha-2 code of the third country of destination in Section ‘Receiving country’;
+
+(f) Section ‘Product. Trade denomination’ shall be completed in accordance with the instructions published in the C series of the Official Journal of the European Union;
+
+(g) the quantity for which the licence is issued, in Section ‘Total quantity’;
+
+(h) the code of the unit of measurement in Section ‘Unit of measurement’;
+
+(i) the product list shall be indicated as follows:
+
+(i) the product code shall be indicated in Section ‘Product list. CN code’ in accordance with the instructions published in the C series of the Official Journal of the European Union;
+
+(ii) Section ‘Product list. Description in accordance with the Combined Nomenclature’ shall indicate the description of the product that, according to the relevant Union rules, corresponds to the code indicated in subpoint (1);
+
+(j) the quantity shall be indicated according to the instructions published in the C series of the Official Journal of the European Union;
+
+(k) Section ‘Tolerance’ shall be completed with the tolerance applicable to the products in accordance with the relevant Union rules;
+
+(l) if so required by the relevant Union rules, Section ‘Special conditions/special particulars’ shall indicate one or more of the codes indicated in the following table:
+
+| ELAN Code | Meaning of the code | Licences for which this entry shall be indicated in Section ‘Special conditions / special particulars’ |
+| --- | --- | --- |
+| CA01 | Cheeses for direct export to Canada. Article 64 of Implementing Regulation (EU) 2020/761 | For some export licences for the quota for cheese to Canada, in accordance with Article 64(4) of Implementing Regulation (EU) 2020/761 |
+| CA02 | Cheeses for export directly/via New York to Canada. Article 64 of Implementing Regulation (EU) 2020/761 | For some export licences for the quota for cheese to Canada, in accordance with Article 64(4) of Implementing Regulation (EU) 2020/761 |
+| CA03 | Without export refund | For all export licences for the quota for cheese to Canada |
+| US01 | The license is valid for all the products falling under Heading 0406 of the CN | For all export licences for the quota for cheese to the United States of America |
+| SP03 | Article 3(4) of Regulation (EEC, Euratom) No 1182/71 shall not apply | Applicable to all export licences issued for tariff quotas. |
+
+(m) the licence shall indicate the date of issuance, and the first and last day of validity in the relevant Sections.
+
+3\. The following data may be indicated in export licences:
+
+(a) the name and address of the issuing authority in Section ‘Licence issuing authority’;
+
+(b) the name and address of the titular holder in the relevant Section;
+
+(c) the name of the person signing it in Section ‘‘Issued on’;
+
+(d) the date of signature, in Section ‘Signature’.
+
+4\. Quantity attributions on licences or extracts shall follow the same rules indicated in Part A.1 of this Annex.
+
+**EUROPEAN UNION – EXPORT LICENCE AGREX**
+
+[image]
+
+<table>
+<tbody><tr><td colspan="4">Attributions</td></tr>
+<tr><td>Quantity in figures</td><td>Product code – Unit of Measurement</td><td>Customs document / Extract number</td><td>Customs reference number, signature, stamp of the attributing authority</td></tr>
+<tr><td>1</td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td><td>UoM</td><td>Date</td></tr>
+<tr><td>1</td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td><td>UoM</td><td>Date</td></tr>
+<tr><td>1</td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td><td>UoM</td><td>Date</td></tr>
+<tr><td>1</td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td><td>UoM</td><td>Date</td></tr>
+<tr><td>1</td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td><td>UoM</td><td>Date</td></tr>
+<tr><td>1</td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td><td>UoM</td><td>Date</td></tr>
+<tr><td>1</td><td>Code</td><td>  </td><td rowspan="2">  </td></tr>
+<tr><td>2</td><td>UoM</td><td>Date</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="2">Special particulars / special conditions</td></tr>
+<tr><td>Code</td><td>Text</td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Free text</td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td colspan="6">Extension of validity</td></tr>
+<tr><td>  </td><td>Date of operation</td><td>CN code</td><td>Quantity</td><td>UoM</td><td>Valid until</td></tr>
+<tr><td>1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**PART I**
+
+**LICENSING OBLIGATION — FOR IMPORTS**
+
+**List of products referred to in Article 2(1)(a) of Delegated Regulation (EU) 2016/1237**
+
+A. Rice (Article 1(2)(b) and Part II of Annex I to Regulation (EU) No 1308/2013)
+
+| CN code | Description | Amount of the security | Period of validity |
+| --- | --- | --- | --- |
+| 1006 20 | Husked (brown) rice, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 | 30 EUR/t | until the end of the second month following the month of the day of issue of the licence, in accordance with Article 7(2) |
+| 1006 30 | Semi-milled or wholly milled rice, whether or not polished or glazed, including products imported under tariff quotas as referred to Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 | 30 EUR/t | until the end of the second month following the month of the day of issue of the licence, in accordance with Article 7(2) |
+| 1006 40 00 | Broken rice, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 | 1 EUR/t | until the end of the second month following the month of the day of issue of the licence, in accordance with Article 7(2) |
+
+B. Sugar (Article 1(2)(c) and Part III of Annex I to Regulation (EU) No 1308/2013)
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td><td>Amount of the security</td><td>Period of validity</td></tr>
+<tr><td>1701 </td><td>All products imported under preferential conditions other than tariff quotas (1), (2)</td><td>20 EUR/t</td><td>until the end of the third month following the month of the day of issue of the licence, in accordance with Article 7(2)</td></tr>
+<tr><td colspan="4">(1)  The import licence obligation applies until 30 September 2017.  (2)  With the exception of imports of preferential sugar of CN code 1701 99 10 originating in Moldova referred to in Council Decision 2014/492/EU of 16 June 2014 on the signing, on behalf of the European Union, and provisional application of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Moldova, of the other part (OJ L 260, 30.8.2014, p. 1) and of preferential imports of sugar of CN code 1701 originating in Georgia referred to in Council Decision 2014/494/EU of 16 June 2014 on the signing, on behalf of the European Union, and provisional application of the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and Georgia, of the other part (OJ L 261, 30.8.2014, p. 1). </td></tr>
+</tbody>
+</table>
+
+C. Seeds (Article 1(2)(e) and Part V of Annex I to Regulation (EU) No 1308/2013)
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td><td>Amount of the security</td><td>Period of validity</td></tr>
+<tr><td>ex 1207 99 20 </td><td>Seeds of varieties of hemp, for sowing</td><td>(1)</td><td>until the end of the sixth month following the month of the day of issue of the licence, in accordance with Article 7(2), save as otherwise provided by the Member States</td></tr>
+<tr><td colspan="4">(1)  No security is required </td></tr>
+</tbody>
+</table>
+
+D. Flax and hemp (Article 1(2)(h) and Part VIII of Annex I to Regulation (EU) No 1308/2013)
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td><td>Amount of the security</td><td>Period of validity</td></tr>
+<tr><td>5302 10 00 </td><td>True hemp, raw or retted</td><td>(1)</td><td>until the end of the sixth month following the month of the day of issue of the licence, in accordance with Article 7(2), save as otherwise provided by the Member States</td></tr>
+<tr><td colspan="4">(1)  No security is required. </td></tr>
+</tbody>
+</table>
+
+E. Fruit and vegetables (Article 1(2)(i) and Part IX of Annex I to Regulation (EU) No 1308/2013)
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td><td>Amount of the security</td><td>Period of validity</td></tr>
+<tr><td>0703 20 00 </td><td>Garlic, fresh or chilled, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 (1)</td><td>50 EUR/t</td><td>3 months from the day of issue in accordance with Article 7(2)</td></tr>
+<tr><td>ex 0703 90 00 </td><td>Other alliaceous vegetables, fresh or chilled, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 (1)</td><td>50 EUR/t</td><td>3 months from the day of issue in accordance with Article 7(2)</td></tr>
+<tr><td colspan="4">(1)  The import licence obligation applies until 30 September 2017. </td></tr>
+</tbody>
+</table>
+
+F. Processed fruit and vegetable products (Article 1(2)(j) and Part X of Annex I to Regulation (EU) No 1308/2013)
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td><td>Amount of the security</td><td>Period of validity</td></tr>
+<tr><td>ex 0710 80 95 </td><td>Garlic (1) and Allium ampeloprasum (uncooked or cooked by steaming or boiling in water), frozen, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 (2)</td><td>50 EUR/t</td><td>3 months from the day of issue in accordance with Article 7(2)</td></tr>
+<tr><td>ex 0710 90 00 </td><td>Mixtures of vegetables containing garlic (1) and/or Allium ampeloprasum (uncooked or cooked by steaming or boiling in water), frozen, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 (2)</td><td>50 EUR/t</td><td>3 months from the day of issue in accordance with Article 7(2)</td></tr>
+<tr><td>ex 0711 90 80 </td><td>Garlic (1) and Allium ampeloprasum provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in this state for immediate consumption, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 (2)</td><td>50 EUR/t</td><td>3 months from the day of issue in accordance with Article 7(2)</td></tr>
+<tr><td>ex 0711 90 90 </td><td>Mixtures of vegetables containing garlic (1) and/or Allium ampeloprasum, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in this state for immediate consumption, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 (2)</td><td>50 EUR/t</td><td>3 months from the day of issue in accordance with Article 7(2)</td></tr>
+<tr><td>ex 0712 90 90 </td><td>Dried garlic (1) and Allium ampeloprasum and mixtures of dried vegetables containing garlic (1) and/or Allium ampeloprasum, whole, cut, sliced, broken or in powder, but not further prepared, including products imported under tariff quotas as referred to in Article 2(1)(c) of Delegated Regulation (EU) 2016/1237 (2)</td><td>50 EUR/t</td><td>3 months from the day of issue in accordance with Article 7(2)</td></tr>
+<tr><td colspan="4">(1)  This shall also include products where the word ‘garlic’ is only part of the description. Such terms may include, but are not limited to ‘solo garlic’, ‘elephant garlic’, ‘single clove garlic’ or ‘great-headed garlic’.  (2)  The import licence obligation applies until 30 September 2017 </td></tr>
+</tbody>
+</table>
+
+G. Other products (Article 1(2)(x) and Section 1 of Part XXIV of Annex I to Regulation (EU) No 1308/2013)
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td><td>Amount of the security</td><td>Period of validity</td></tr>
+<tr><td>1207 99 91 </td><td>Hemp seeds other than for sowing</td><td>(1)</td><td>until the end of the sixth month following the month of the day of issue in accordance with Article 7(2), save as otherwise provided by the Member States</td></tr>
+<tr><td colspan="4">(1)  No security is required. </td></tr>
+</tbody>
+</table>
+
+H. Ethyl alcohol of agricultural origin (Article 1(2)(u) and Part XXI of Annex I to Regulation (EU) No 1308/2013)
+
+| CN code | Description | Amount of the security | Period of validity |
+| --- | --- | --- | --- |
+| ex 2207 10 00 | Undenatured ethyl alcohol of an alcoholic strength by volume of 80 % vol. or higher, obtained from the agricultural products listed in Annex I to the Treaty | EUR 1 per hectolitre | until the end of the fourth month following the month of the day of issue of the licence, in accordance with Article 7(2) |
+| ex 2207 20 00 | Ethyl alcohol and other spirits, denatured, of any strength, obtained from the agricultural products listed in Annex I to the Treaty | EUR 1 per hectolitre | until the end of the fourth month following the month of the day of issue of the licence, in accordance with Article 7(2) |
+| ex 2208 90 91 | Undenatured ethyl alcohol of alcoholic strength by volume of less than 80 % vol., obtained from the agricultural products listed in Annex I to the Treaty | EUR 1 per hectolitre | until the end of the fourth month following the month of the day of issue of the licence, in accordance with Article 7(2) |
+| ex 2208 90 99 | Undenatured ethyl alcohol of alcoholic strength by volume of less than 80 % vol., obtained from the agricultural products listed in Annex I to the Treaty | EUR 1 per hectolitre | until the end of the fourth month following the month of the day of issue of the licence, in accordance with Article 7(2) |
+
+**PART II**
+
+**LICENSING OBLIGATION FOR EXPORTS**
+
+**List of products referred to in Article 2(2)(a) of Delegated Regulation (EU) 2016/1237**
+
+B. Sugar (Article 1(2)(c) and Part III of Annex I to Regulation (EU) No 1308/2013)
+
+<table>
+<tbody><tr><td>CN code</td><td>Description</td><td>Amount of the security</td><td>Period of validity</td></tr>
+<tr><td>1701 </td><td>Cane or beet sugar and chemically pure sucrose, in solid form (1)</td><td>11 EUR/100 kg</td><td>until the end of the third month following the month of the day of issue, in accordance with Article 7(2) (2)</td></tr>
+<tr><td>1702 60 95  1702 90 95 </td><td>Other sugars in solid form and sugar syrups, not containing added flavouring or colouring matter, but not including lactose, glucose, maltodextrine and isoglucose (1)</td><td>4,2 EUR/100 kg</td><td>until the end of the third month following the month of the day of issue, in accordance with Article 7(2) (2)</td></tr>
+<tr><td>2106 90 59 </td><td>Flavoured or coloured sugar syrups, other than isoglucose, lactose, glucose and maltodextrine syrups (1)</td><td>4,2 EUR/100 kg</td><td>until the end of the third month following the month of the day of issue, in accordance with Article 7(2) (2)</td></tr>
+<tr><td colspan="4">(1)  The export licence obligation applies until 30 September 2017.  (2)  For quantities not exceeding 10 t, the party concerned may not use more than one such licence for the same export. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III — Standard form for the verification referred to in Article 13(6)
+
+The form shall be completed using block capitals.
+
+Put a cross in the relevant box to indicate information and replies.
+
+[image]
+
+[image]
+
+( 1 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/952/oj).
+
+( 2 ) Regulation (EU) 2022/2399 of the European Parliament and of the Council of 23 November 2022 establishing the European Union Single Window Environment for Customs and amending Regulation (EU) No 952/2013 (OJ L 317, 9.12.2022, p. 1, ELI: http://data.europa.eu/eli/reg/2022/2399/oj).
+
+( 3 ) Commission Delegated Regulation (EU) 2025/1269 of 28 April 2025 laying down rules supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the electronic system for agricultural non-customs formalities (‘ELAN’) to monitor and manage trade and market in agricultural products (OJ L, 2025/1269, 10.7.2025, ELI: http://data.europa.eu/eli/reg_del/2025/1269/oj).
+
+( 4 ) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 29.12.2015, p. 1, ELI: http://data.europa.eu/eli/reg_del/2015/2446/oj).
+
+( 5 ) Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73, ELI: http://data.europa.eu/eli/reg/2014/910/oj).
+
+( 6 ) Notice on the instructions on completing the ELAN1L-AGRIM and ELAN1L-AGREX data models (OJ C, C/2025/2819, 10.7.2025, ELI: http://data.europa.eu/eli/C/2025/2819/oj).
+
+( 7 ) Commission Delegated Regulation (EU) 2022/127 of 7 December 2021 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with rules on paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro (OJ L 20, 31.1.2022, p. 95, ELI: http://data.europa.eu/eli/reg_del/2022/127/oj).
+
+( 8 ) Notice on import and export licences for agricultural products (OJ C 278, 30.7.2016, p. 34).
+
+( 9 ) Regulation (EEC, Euratom) No 1182/71 of the Council of 3 June 1971 determining the rules applicable to periods, dates and time limits (OJ L 124, 8.6.1971, p. 1).
+
+( 10 ) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558, ELI: http://data.europa.eu/eli/reg_impl/2015/2447/oj).
+
+( 11 ) Commission Implementing Regulation (EU) 2025/1272 of 6 May 2025 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the electronic system for agricultural non-customs formalities (‘ELAN’) (OJ L, 2025/1272, 10.7.2025, ELI: http://data.europa.eu/eli/reg_impl/2025/1272/oj).
+
+( 12 ) Council Regulation (EC) No 515/97 of 13 March 1997 on mutual assistance between the administrative authorities of the Member States and cooperation between the latter and the Commission to ensure the correct application of the law on customs and agricultural matters (OJ L 82, 22.3.1997, p. 1, ELI: http://data.europa.eu/eli/reg/1997/515/oj).
+
+( 13 ) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code, (OJ L 343, 29.12.2015, p. 1, ELI: http://data.europa.eu/eli/reg_del/2015/2446/oj).
+
+( 14 ) Commission Delegated Regulation (EU) 2022/127 of 7 December 2021 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council with rules on paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro (OJ L 20, 31.1.2022, p. 95, ELI: http://data.europa.eu/eli/reg_del/2022/127/oj).
+
+( 15 ) Commission Implementing Regulation (EU) No 908/2014 of 6 August 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency (OJ L 255, 28.8.2014, p. 59).
+
+( 16 ) Commission Regulation (EC) No 792/2009 of 31 August 2009 laying down detailed rules for the Member States' notification to the Commission of information and documents in implementation of the common organisation of the markets, the direct payments' regime, the promotion of agricultural products and the regimes applicable to the outermost regions and the smaller Aegean islands (OJ L 228, 1.9.2009, p. 3).
+
+( 17 ) Commission Regulation (EEC) No 2454/93 of 2 July 1993 laying down provisions for the implementation of Council Regulation (EEC) No 2913/92 establishing the Community Customs Code (OJ L 253, 11.10.1993, p. 1).

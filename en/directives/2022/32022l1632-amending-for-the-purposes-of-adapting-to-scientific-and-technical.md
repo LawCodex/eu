@@ -101,6 +101,7 @@ Ursula VON DER LEYEN
 
 In Annex IV to Directive 2011/65/EU, in entry 27, the following points (c) and (d) are added:
 
+<table>
 <tbody><tr><td></td><td><table><tbody><tr><td>‘(c)</td><td>MRI non-integrated coils, for which the Declaration of Conformity of this model is issued for the first time before 23 September 2022, or</td></tr>
 </tbody>
 </table>
@@ -109,3 +110,4 @@ In Annex IV to Directive 2011/65/EU, in entry 27, the following points (c) and (
 </table>
  Expires on 30 June 2027.’ </td></tr>
 </tbody>
+</table>

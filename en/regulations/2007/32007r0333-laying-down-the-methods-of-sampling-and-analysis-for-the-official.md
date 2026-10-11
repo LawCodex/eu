@@ -1,0 +1,637 @@
+---
+title: "Commission Regulation (EC) No 333/2007 of 28 March 2007 laying down the methods of sampling and analysis for the official control of the levels of lead, cadmium, mercury, inorganic tin, 3-MCPD and benzo(a)pyrene in foodstuffs (Text with EEA relevance )"
+identifier: "32007R0333"
+eli: "http://data.europa.eu/eli/reg/2007/333/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2007-03-28
+entry_into_force: 2007-12-11
+last_amended: 2024-04-30
+consolidated_version: "02007R0333-20240430"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02007R0333-20240430"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 333/2007 of 28 March 2007 laying down the methods of sampling and analysis for the official control of the levels of lead, cadmium, mercury, inorganic tin, 3-MCPD and benzo(a)pyrene in foodstuffs (Text with EEA relevance )
+
+**COMMISSION REGULATION (EC) No 333/2007**
+
+**of 28 March 2007**
+
+**laying down the methods of sampling and analysis for the control of the levels of trace elements and processing contaminants in foodstuffs**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 836/2011 of 19 August 2011 </td><td> L 215</td><td>9</td><td>20.8.2011</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2016/582 of 15 April 2016 </td><td> L 101</td><td>3</td><td>16.4.2016</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/2093 of 29 November 2019 </td><td> L 317</td><td>96</td><td>9.12.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/705 of 28 April 2021 </td><td> L 146</td><td>73</td><td>29.4.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/685 of 28 April 2022 </td><td> L 126</td><td>14</td><td>29.4.2022</td></tr>
+<tr><td> M6</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/2418 of 9 December 2022 </td><td> L 318</td><td>4</td><td>12.12.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/1045 of 9 April 2024 </td><td> L 1045</td><td>1</td><td>10.4.2024</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 333/2007**
+
+**of 28 March 2007**
+
+**laying down the methods of sampling and analysis for the control of the levels of trace elements and processing contaminants in foodstuffs**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+1\. Sampling and analysis for the control of the levels of lead, cadmium, mercury, inorganic tin, inorganic arsenic, nickel, 3-monochloropropane1,2 -diol (3-MCPD), 3-MCPD fatty acid esters, glycidyl fatty acid esters, polycyclic aromatic hydrocarbons (PAH) and perchlorate listed in Sections 3, 5 and 6 of Annex I to Commission Regulation (EU) 2023/915 ( 1 ) and for the control of the levels of acrylamide in accordance with Commission Regulation (EU) 2017/2158 ( 2 ) shall be carried out in accordance with the Annex to this Regulation.
+
+2\. Paragraph 1 shall apply without prejudice to the provisions of Regulation (EU) 2017/625 of the European Parliament and of the Council ( 3 ).
+
+## Article 2
+
+Directives 2001/22/EC, 2004/16/EC and 2005/10/EC are hereby repealed.
+
+References to the repealed Directives shall be construed as references to this Regulation.
+
+## Article 3
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+It shall apply from 1 June 2007.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**PART A**
+
+**DEFINITIONS**
+
+For the purposes of this Annex, the following definitions shall apply:
+
+| ‘lot’ | : | an identifiable quantity of food delivered at one time and determined by the official to have common characteristics (such as origin, variety, species, catchment area, type of packing, packer, consignor or markings); |
+| --- | --- | --- |
+
+| ‘sublot’ | : | designated part of a large lot in order to apply the sampling method on that designated part. Each sublot must be physically separated and identifiable; |
+| --- | --- | --- |
+
+| ‘incremental sample’ | : | a quantity of material taken from a single place in the lot or sublot; |
+| --- | --- | --- |
+
+| ‘aggregate sample’ | : | the combined total of all the incremental samples taken from the lot or sublot; aggregate samples shall be considered as representative of the lots or sublots from which they are taken; |
+| --- | --- | --- |
+
+| ‘laboratory sample’ | : | a sample intended for the laboratory; |
+| --- | --- | --- |
+
+| ‘comparable size or weight’ | : | the difference in size or weight does not exceed 50 %. |
+| --- | --- | --- |
+
+**PART B**
+
+**SAMPLING METHODS**
+
+**B.1. GENERAL PROVISIONS**
+
+**B.1.1. Personnel**
+
+Sampling shall be performed by an authorised person as designated by the Member State.
+
+**B.1.2. Material to be sampled**
+
+Each lot or sublot which is to be examined shall be sampled separately.
+
+**B.1.3. Precautions to be taken**
+
+In the course of sampling, precautions shall be taken to avoid any changes which would affect the levels of contaminants, adversely affect the analytical determination or make the aggregate samples unrepresentative.
+
+**B.1.4. Incremental samples**
+
+As far as possible, incremental samples shall be taken at various places distributed throughout the lot or sublot. Departure from such procedure shall be recorded in the record provided for under point B.1.8. of this Annex.
+
+**B.1.5. Preparation of the aggregate sample**
+
+The aggregate sample shall be made up by combining the incremental samples.
+
+**B.1.6. Samples for enforcement, defence and referee purposes**
+
+The samples for enforcement, defence and referee purposes shall be taken from the homogenised aggregate sample unless this conflicts with the rules of the Member States as regards the rights of the food business operator.
+
+**B.1.7. Packaging and transmission of samples**
+
+Each sample shall be placed in a clean, inert container offering adequate protection from contamination, from loss of analytes by adsorption to the internal wall of the container and against damage in transit. All necessary precautions shall be taken to avoid any change in composition of the sample which might arise during transportation or storage.
+
+In case of sampling for PAH analysis plastic containers shall be avoided if possible as they could alter the PAH content of the sample. Inert, PAH-free glass containers, adequately protecting the sample from light, shall be used wherever possible. Where this is practically impossible, at least direct contact of the sample with plastics shall be avoided, e.g. in case of solid samples by wrapping the sample in aluminium foil before placing it in the sampling container.
+
+**B.1.8. Sealing and labelling of samples**
+
+Each sample taken for official use shall be sealed at the place of sampling and identified following the rules of the Member States.
+
+A record shall be kept of each sampling, permitting each lot or sublot to be identified unambiguously (reference to the lot number shall be given) and giving the date and place of sampling together with any additional information likely to be of assistance to the analyst.
+
+**B.2. SAMPLING PLANS**
+
+**B.2.1. Division of lots into sublots**
+
+Large lots shall be divided into sublots on condition that the sublot may be separated physically. For products traded in bulk consignments (e.g. cereals) Table 1 shall apply. For other products Table 2 shall apply. Taking into account that the weight of the lot is not always an exact multiple of the weight of the sublots, the weight of the sublot may exceed the mentioned weight by a maximum of 20 %.
+
+**B.2.2. Number of incremental samples**
+
+For food, other than food supplements, dried spices or herbs, dried fungi, algae or lichen, the aggregate sample shall be at least 1 kilogram or 1 litre, except where it is not possible, e.g. when the sample consists of 1 package or unit.
+
+For food supplements, dried spices or herbs, dried fungi, algae or lichen the aggregate sample shall be at least 100 grams or 100 millilitres.
+
+For food, other than food supplements, the minimum number of incremental samples to be taken from the lot or sublot shall be in accordance with Table 3.
+
+In the case of bulk liquid products, the lot or sublot shall be thoroughly mixed in so far as possible and in so far it does not affect the quality of the product, by either manual or mechanical means immediately prior to sampling. In this case, a homogeneous distribution of contaminants shall be assumed within a given lot or sublot. Therefore the number of incremental samples from a lot or sublot to form the aggregate sample shall be three.
+
+Where the lot or sublot consists of individual packages or units, for food, other than food supplements, the number of packages or units (incremental samples) to be taken to form the aggregate sample shall be in accordance with Table 4a.
+
+The incremental samples shall be of similar weight/volume. For food, other than food supplements, dried spices or herbs, dried fungi, algae or lichen, the weight/volume of an incremental sample shall be at least 100 grams or 100 millilitres, resulting in an aggregate sample of at least about 1 kilogram or 1 litre.
+
+For dried spices or herbs, dried fungi, algae or lichen, the weight/volume of an incremental sample shall be at least 35 grams or 35 millilitres, resulting in an aggregate sample of at least 100 grams or 100 millilitres.
+
+The maximum levels for inorganic tin apply to the contents of each can, but for practical reasons an aggregate sampling approach may be used. If the result of the test for an aggregate sample of cans is less than but close to the maximum level of inorganic tin and if it is suspected that individual cans might exceed the maximum level, then further investigations shall be conducted.
+
+For food supplements the minimum number and size of the incremental samples shall be in accordance with Table 4b.
+
+Where it is not possible to carry out the method of sampling set out in this point B.2. because of the unacceptable commercial consequences (e.g. because of packaging forms, damage to the lot) or where it is practically impossible to apply the method of sampling provided for in this point B.2., an alternative method of sampling may be applied provided that it is sufficiently representative for the sampled lot or sublot and is fully documented. This shall be recorded in the record provided for in point B.1.8.
+
+**Table 1**
+
+**Subdivision of lots into sublots for products traded in bulk consignments**
+
+| Lot weight (ton) | Weight or number of sublots |
+| --- | --- |
+| ≥ 1 500 | 500 tonnes |
+| > 300 and < 1 500 | 3 sublots |
+| ≥ 100 and ≤ 300 | 100 tonnes |
+| < 100 | — |
+
+**Table 2**
+
+**Subdivision of lots into sublots for products not traded in bulk consignments**
+
+| Lot weight (ton) | Weight or number of sublots |
+| --- | --- |
+| ≥ 15 | 15-30 tonnes |
+| < 15 | — |
+
+**Table 3**
+
+**Minimum number of incremental samples to be taken from the lot or sublot of food, other than food supplements**
+
+| Weight or volume of lot/sublot (in kilogram or litre) | Minimum number of incremental samples to be taken |
+| --- | --- |
+| < 50 | 3 |
+| ≥ 50 and ≤ 500 | 5 |
+| > 500 | 10 |
+
+**Table 4a**
+
+**Number of packages or units (incremental samples) to be taken to form the aggregate sample where the lot or sublot consists of individual packages or units of food, other than food supplements**
+
+| Number of packages or units in the lot/sublot | Number of packages or units to be taken |
+| --- | --- |
+| ≤ 25 | at least 1 package or unit |
+| 26-100 | about 5 %, at least 2 packages or units |
+| > 100 | about 5 %, at maximum 10 packages or units |
+
+**Table 4b**
+
+**The minimum number and size of the incremental samples for food supplements**
+
+| Lot size (number of packages) | Number of packages (incremental samples) to be taken for sample | Size of the incremental sample |
+| --- | --- | --- |
+| 1-50 | 1 | Entire content of the package |
+| 51-250 | 2 | Entire content of the package |
+| 251-1 000 | 4 | From each retail package taken for sample, half of the content of the package |
+| > 1 000 | 4 + 1 packages per 1 000 retail packages with a maximum of 25 retail packages | ≤ 10 packages: from each retail package, half of the content of the package > 10 packages: from each package, an equal amount is taken to result in a sample with the equivalent of the content of 5 packages |
+| Unknown (only applicable for e-commerce) | 1 | Entire content of the package |
+
+**B.2.3. Specific provisions for the sampling of lots containing whole fish of comparable size or weight**
+
+The number of incremental samples to be taken from the lot is set out in Table 3. The aggregate sample uniting all incremental samples shall be at least 1 kilogram (see point B.2.2).
+
+— Where the lot to be sampled contains small fish (individual fish weighing &lt; 1 kilogram), the whole fish is taken as incremental sample to form the aggregate sample. Where the resulting aggregate sample weighs more than 3 kilograms, the incremental samples may consist of the middle parts of the fish, weighing each at least 100 grams, forming the aggregate sample. The whole part to which the maximum level is applicable, is used for homogenisation of the sample.
+
+The middle part of the fish is where the centre of gravity is. This is located in most cases at the dorsal fin (in case the fish has a dorsal fin) or halfway between the gill opening and the anus.
+
+— Where the lot to be sampled contains larger fish (individual fish weighing ≥ 1 kilogram), the incremental sample consists of the middle part of the fish. Each incremental sample weighs at least 100 grams.
+
+For fish of intermediate size (≥ 1 kilogram and &lt; 6 kilograms) the incremental sample is taken as a slice of the fish from backbone to belly in the middle part of the fish.
+
+For very large fish (≥ 6 kilograms), the incremental sample is taken from the right side (frontal view) dorso-lateral muscle meat in the middle part of the fish. Where the taking of such a piece of the middle part of the fish would result in a significant economic damage, the taking of three incremental samples of at least 350 grams each may be considered as being sufficient independent of the size of the lot or alternatively three incremental samples of at least 350 grams each from an equal part (175 grams) of the muscle meat close to the tail part and the muscle meat close to the head part of each fish may be considered as being sufficient independent of the size of the lot.
+
+**B.2.4. Specific provisions for sampling of lots of fish containing whole fish of different size and/or weight**
+
+The provisions of point B.2.3 as regards sample constitution shall apply.
+
+Where a size or weight class/category is predominant (about 80 % or more of the lot), the sample is taken from fish with the predominant size or weight. This sample is to be considered as being representative for the whole lot.
+
+Where no particular size or weight class/category predominates, then it shall be ensured that the fish selected for the sample are representative for the lot. Specific guidance for such cases is provided in ‘Guidance document on sampling of whole fish of different size and/or weight’ ( 4 ).
+
+**B.2.5. Specific provisions for the sampling of terrestrial animals**
+
+For meat and offal of porcine, bovine, ovine, caprine and equine animals a sample of 1 kilogram shall be taken from at least one animal. If needed to obtain a sample quantity of 1 kilogram, equal sample quantities shall be taken from more than one animal.
+
+For poultry meat equal quantities shall be sampled from at least three animals in order to obtain an aggregate sample of 1 kilogram. For poultry offal equal quantities shall be sampled from at least three animals in order to obtain an aggregate sample of 300 grams.
+
+For meat and offal of farmed game animals and wild terrestrial animals a sample of 300 grams shall be taken from at least one animal. If needed to obtain a sample quantity of 300 grams, equal sample quantities shall be taken from more than one animal.
+
+**B.3. SAMPLING AT RETAIL STAGE**
+
+Sampling of foodstuffs at retail stage shall be done where possible in accordance with the sampling provisions set out in point B.2.2 of this Annex.
+
+Where it is not possible to carry out the method of sampling set out in point B.2.2 because of the unacceptable commercial consequences (e.g. because of packaging forms, damage to the lot, etc.) or where it is practically impossible to apply the abovementioned method of sampling, an alternative method of sampling may be applied provided that it is sufficiently representative for the sampled lot or sublot and is fully documented.
+
+**PART C**
+
+**SAMPLE PREPARATION AND ANALYSIS**
+
+**C.1. LABORATORY QUALITY STANDARDS**
+
+Laboratories shall comply with the provisions of Article 12 of Regulation (EC) No 882/2004 ————— ( 5 )—————  .
+
+Laboratories shall participate in appropriate proficiency testing schemes which comply with the ‘International Harmonised Protocol for the Proficiency Testing of (Chemical) Analytical Laboratories’ ( 6 ) developed under the auspices of IUPAC/ISO/AOAC.
+
+Laboratories shall be able to demonstrate that they have internal quality control procedures in place. Examples of these are the ‘ISO/AOAC/IUPAC Guidelines on Internal Quality Control in Analytical Chemistry Laboratories’ ( 7 ).
+
+Wherever possible the trueness of analysis shall be estimated by including suitable certified reference materials in the analysis.
+
+**C.2. SAMPLE PREPARATION**
+
+**C.2.1. Precautions and general considerations**
+
+The basic requirement is to obtain a representative and homogeneous laboratory sample without introducing secondary contamination.
+
+The whole part to which the maximum level is applicable shall be used for homogenisation of the sample.
+
+For products other than fish all of the sample material received by the laboratory shall be used for the preparation of the laboratory sample.
+
+For fish, all of the sample material received by the laboratory shall be homogenised. From the homogenised aggregate sample, a representative part/quantity shall be used for the preparation of the laboratory sample.
+
+In case the maximum level applies to the dry matter, the dry matter content of the product shall be determined on a part of the homogenised sample, using a method that has been demonstrated to determine accurately the dry matter content.
+
+Compliance with maximum levels laid down in Regulation (EU) 2023/915 shall be established on the basis of the levels determined in the laboratory samples.
+
+**C.2.2. Specific sample preparation procedures**
+
+C.2.2.1. Specific procedures for lead, cadmium, mercury, inorganic tin, inorganic and total arsenic and nickel
+
+The analyst shall ensure that samples do not become contaminated during sample preparation. Wherever possible, apparatus and equipment coming into contact with the sample shall not contain those metals to be determined and be made of inert materials, e.g. plastics such as polypropylene, polytetrafluoroethylene (PTFE), etc. These shall be acid cleaned to minimise the risk of contamination. High quality stainless steel may be used for cutting edges.
+
+There are many satisfactory specific sample preparation procedures which may be used for the products under consideration. For those aspects not specifically covered by this Regulation, the CEN Standard ‘Foodstuffs. Determination of elements and their chemical species. General considerations and specific requirements’ ( 8 ) has been found to be satisfactory but other sample preparation methods may be equally valid.
+
+In the case of inorganic tin, care shall be taken to ensure that all the material is taken into solution as losses are known to occur readily, particularly because of hydrolysis to insoluble hydrated Sn(IV) oxide species.
+
+In the case of nickel, contamination problems may arise when stainless steel or iron equipment is used for sampling or analysis. Special equipment shall be used in such cases in materials such as titanium, ceramics or agate.
+
+C.2.2.2. Specific procedures for polycyclic aromatic hydrocarbons
+
+The analyst shall ensure that samples do not become contaminated during sample preparation. Containers shall be rinsed with high purity acetone or hexane before use to minimise the risk of contamination. Wherever possible, apparatus and equipment coming into contact with the sample shall be made of inert materials such as aluminium, glass or polished stainless steel. Plastics such as polypropylene or PTFE shall be avoided because the analytes can adsorb onto these materials.
+
+For the analysis of PAH in cocoa and cocoa derived products, the determination of the fat content is performed in accordance with AOAC Official method 963.15 for the determination of the fat content of cocoa beans and derived products. Equivalent fat determination procedures can be applied for which it can be demonstrated that the used fat determination procedure provides an equal (equivalent) fat content value.
+
+**C.2.3. Treatment of the sample as received in the laboratory**
+
+The complete aggregate sample shall be finely ground (where relevant) and thoroughly mixed using a process that has been demonstrated to achieve complete homogenisation.
+
+**C.2.4. Samples for enforcement, defence and referee purposes**
+
+The samples for enforcement, defence and referee purposes shall be taken from the homogenised material unless this conflicts with the rules of the Member States on sampling as regards the rights of the food business operator.
+
+**C.3. METHODS OF ANALYSIS**
+
+**C.3.1. Definitions**
+
+The following definitions shall apply:
+
+| ‘r’ | = | Repeatability the value below which the absolute difference between single test results obtained under repeatability conditions (i.e., same sample, same operator, same apparatus, same laboratory, and short interval of time) may be expected to lie within a specific probability (typically 95 %) and hence r = 2,8 × sr. |
+| --- | --- | --- |
+
+| ‘sr’ | = | Standard deviation calculated from results generated under repeatability conditions. |
+| --- | --- | --- |
+
+| ‘RSDr’ | = | Relative standard deviation calculated from results generated under repeatability conditions [(sr/ [image] ) × 100]. |
+| --- | --- | --- |
+
+| ‘R’ | = | Reproducibility the value below which the absolute difference between single test results obtained under reproducibility conditions (i.e., on identical material obtained by operators in different laboratories, using the standardised test method), may be expected to lie within a certain probability (typically 95 %); R = 2,8 × sR. |
+| --- | --- | --- |
+
+| ‘sR’ | = | Standard deviation, calculated from results under reproducibility conditions. |
+| --- | --- | --- |
+
+| ‘RSDR’ | = | Relative standard deviation calculated from results generated under reproducibility conditions [(sR/ [image] ) × 100]. |
+| --- | --- | --- |
+
+| ‘LOD’ | = | Limit of detection, smallest measured content, from which it is possible to deduce the presence of the analyte with reasonable statistical certainty. |
+| --- | --- | --- |
+
+| ‘LOQ’ | = | Limit of quantification, lowest content of the analyte which can be measured with reasonable statistical certainty. |
+| --- | --- | --- |
+
+| ‘HORRAT ( 9 )r’ | = | The observed RSDr divided by the RSDr value estimated from the (modified) Horwitz equation ( 10 ) (cf. point C.3.3.1 (‘Notes to the performance criteria’)) using the assumption r = 0,66 R. |
+| --- | --- | --- |
+
+| ‘HORRAT ( 11 )R’ | = | The observed RSDR divided by the RSDR value estimated from the (modified) Horwitz equation ( 12 ) (cf. point C.3.3.1 (‘Notes to the performance criteria’)). |
+| --- | --- | --- |
+
+| ‘u’ | = | Combined standard measurement uncertainty obtained using the individual standard measurement uncertainties associated with the input quantities in a measurement model ( 13 ) |
+| --- | --- | --- |
+
+| ‘U’ | = | The expanded measurement uncertainty, using a coverage factor of 2 which gives a level of confidence of approximately 95 % (U = 2u). |
+| --- | --- | --- |
+
+| ‘Uf’ | = | Maximum standard measurement uncertainty. |
+| --- | --- | --- |
+
+**C.3.2. General requirements**
+
+Methods of analysis used for food control purposes shall comply with the provisions of Annex III to Regulation (EC) No 882/2004.
+
+Methods for analysis for total tin are appropriate for control on inorganic tin levels.
+
+For the analysis of lead in wine, the methods and rules established by the OIV ( 14 ) apply in accordance with Article 80(5) of Regulation (EU) No 1308/2013 ( 15 ).
+
+Methods for analysis for total arsenic are appropriate for screening purpose for control on inorganic arsenic levels. If the total arsenic concentration is below the maximum level for inorganic arsenic, no further testing is required and the sample is considered to be compliant with the maximum level for inorganic arsenic. If the total arsenic concentration is at or above the maximum level for inorganic arsenic, follow-up testing shall be conducted to determine if the inorganic arsenic concentration is above the maximum level for inorganic arsenic.
+
+**C.3.3. Specific requirements**
+
+C.3.3.1. Performance criteria
+
+Where no specific methods for the determination of contaminants in foodstuffs are prescribed at European Union level, laboratories may select any validated method of analysis for the respective matrix provided that the selected method meets the specific performance criteria set out in Tables 5, 6 and 7.
+
+It is recommended that fully validated methods (i.e. methods validated by collaborative trial for the respective matrix) are used where appropriate and available. Other suitable validated methods (e.g. in-house validated methods for the respective matrix) may also be used provided that they fulfil the performance criteria set out in Tables 5, 6 and 7.
+
+Where possible, the validation of in-house validated methods shall include a certified reference material.
+
+(a) Performance criteria for methods of analysis for lead, cadmium, mercury, inorganic tin, inorganic and total arsenic and nickel
+
+**Table 5**
+
+<table>
+<tbody><tr><td>Parameter</td><td colspan="4">Criterion</td></tr>
+<tr><td>Applicability</td><td colspan="4">Foods specified in Regulation (EU) 2023/915</td></tr>
+<tr><td>Specificity</td><td colspan="4">Free from matrix or spectral interferences</td></tr>
+<tr><td>Repeatability (RSDr)</td><td colspan="4">HORRATr less than 2</td></tr>
+<tr><td>Reproducibility (RSDR)</td><td colspan="4">HORRATR less than 2</td></tr>
+<tr><td>Recovery</td><td colspan="4">The provisions of point D.1.2 apply</td></tr>
+<tr><td>LOD</td><td colspan="4">= three tenths of LOQ</td></tr>
+<tr><td rowspan="9">LOQ</td><td>Inorganic tin</td><td colspan="3">≤ 10 mg/kg</td></tr>
+<tr><td rowspan="2">Lead</td><td>ML ≤ 0,02 mg/kg</td><td>0,02 &lt; ML &lt; 0,1 mg/kg</td><td>ML ≥ 0,1 mg/kg</td></tr>
+<tr><td>≤ ML</td><td>≤ two thirds of the ML</td><td>≤ one fifth of the ML</td></tr>
+<tr><td rowspan="2">Cadmium, mercury</td><td>ML ≤ 0,02 mg/kg</td><td>0,02 &lt; ML &lt; 0,1 mg/kg</td><td>ML ≥ 0,1 mg/kg</td></tr>
+<tr><td>≤ two fifths of the ML</td><td>≤ two fifths of the ML</td><td>≤ one fifth of the ML</td></tr>
+<tr><td rowspan="2">Inorganic arsenic and total arsenic</td><td>ML ≤ 0,03 mg/kg</td><td>0,03 &lt; ML &lt; 0,1 mg/kg</td><td>ML ≥ 0,1 mg/kg</td></tr>
+<tr><td>≤ ML</td><td>≤ two thirds of the ML</td><td>≤ two thirds of the ML</td></tr>
+<tr><td rowspan="2">Nickel</td><td>ML ≤ 0,3 mg/kg</td><td>0,3 &lt; ML &lt; 0,6 mg/kg</td><td>ML ≥ 0,6 mg/kg</td></tr>
+<tr><td>≤ ML</td><td>≤ two thirds of the ML</td><td>≤ one third of the ML</td></tr>
+</tbody>
+</table>
+
+(b) Performance criteria for methods of analysis for 3-monochloropropane-1,2-diol (3-MCPD), 3-MCPD fatty acid esters and glycidyl fatty acid esters:
+
+— Performance criteria for methods of analysis for 3-MCPD in foods specified in point 5.2 of Annex I to Regulation (EU) 2023/915
+
+**Table 6a**
+
+| Parameter | Criterion |
+| --- | --- |
+| Applicability | Foods specified in point 5.2 of Annex I to Regulation (EU) 2023/915 |
+| Specificity | Free from matrix or spectral interferences |
+| Field blanks | Less than LOD |
+| Repeatability (RSDr) | 0,66 times RSDR as derived from (modified) Horwitz equation |
+| Reproducibility (RSDR) | as derived from (modified) Horwitz equation |
+| Recovery | 75-110 % |
+| Limit of Detection (LOD) | ≤ 5 μg/kg (on dry matter basis) |
+| Limit of Quantification (LOQ) | ≤ 10 μg/kg (on dry matter basis) |
+
+— Performance criteria for methods of analysis for 3-MCPD in foods specified in point 5.3 of Annex I to Regulation (EU) 2023/915
+
+**Table 6b**
+
+| Parameter | Criterion |
+| --- | --- |
+| Applicability | Foods specified in point 5.3 of Annex I to Regulation (EU) 2023/915 |
+| Specificity | Free from matrix or spectral interferences |
+| Field blanks | Less than LOD |
+| Repeatability (RSDr) | 0,66 times RSDR as derived from (modified) Horwitz equation |
+| Reproducibility (RSDR) | as derived from (modified) Horwitz equation |
+| Recovery | 75-110 % |
+| Limit of Detection (LOD) | ≤ 7 μg/kg |
+| Limit of Quantification (LOQ) | ≤ 14 μg/kg |
+
+— Performance criteria for methods of analysis for 3-MCPD fatty acid esters, expressed as 3-MCPD, in foods specified in point 5.3 of Annex I to Regulation (EU) 2023/915
+
+**Table 6c**
+
+| Parameter | Criterion |
+| --- | --- |
+| Applicability | Foods specified in point 5.3 of Annex I to Regulation (EU) 2023/915 |
+| Specificity | Free from matrix or spectral interferences |
+| Repeatability (RSDr) | 0,66 times RSDR as derived from (modified) Horwitz equation |
+| Reproducibility (RSDR) | as derived from (modified) Horwitz equation |
+| Recovery | 70-125 % |
+| Limit of Detection (LOD) | Three tenths of LOQ |
+| Limit of Quantification (LOQ) for foods specified in 5.3.1  and 5.3.2 | ≤ 100 μg/kg in oils and fats |
+| Limit of Quantification (LOQ) for foods specified in 5.3.3.1  and in 5.3.3.2  with a fat content < 40 % | ≤ two fifths of the ML |
+| Limit of Quantification (LOQ) for foods specified in 5.3.3.2  with a fat content ≥ 40 % | ≤ 15 μg/kg fat |
+
+— Performance criteria for methods of analysis for glycidyl fatty acid esters, expressed as glycidol, in foods specified in point 5.4 of Annex I to Regulation (EU) 2023/915
+
+**Table 6d**
+
+| Parameter | Criterion |
+| --- | --- |
+| Applicability | Foods specified in point 5.4 of Annex I to Regulation (EU) 2023/915 |
+| Specificity | Free from matrix or spectral interferences |
+| Repeatability (RSDr) | 0,66 times RSDR as derived from (modified) Horwitz equation |
+| Reproducibility (RSDR) | as derived from (modified) Horwitz equation |
+| Recovery | 70-125 % |
+| Limit of Detection (LOD) | Three tenths of LOQ |
+| Limit of Quantification (LOQ) for foods specified in 5.4.1  and 5.4.2 | ≤ 100 μg/kg in oils and fats |
+| Limit of Quantification (LOQ) for foods specified in 5.4.3.1  with a fat content < 65 % and in 5.4.3.2  with a fat content < 8 % | ≤ two fifths of the ML |
+| Limit of Quantification (LOQ) for foods specified in 5.4.3.1  with a fat content ≥ 65 % and in 5.4.3.2  with a fat content ≥ 8 % | ≤ 31 μg/kg fat |
+
+(c) Performance criteria for methods of analysis for polycyclic aromatic hydrocarbons:
+
+The four polycyclic aromatic hydrocarbons to which these criteria apply are benzo(a)pyrene, benz(a)anthracene, benzo(b)fluoranthene and chrysene.
+
+**Table 7**
+
+| Parameter | Criterion |
+| --- | --- |
+| Applicability | Foods specified in Regulation (EU) 2023/915 |
+| Specificity | Free from matrix or spectral interferences, verification of positive detection |
+| Repeatability (RSDr) | HORRATr less than 2 |
+| Reproducibility (RSDR) | HORRATR less than 2 |
+| Recovery | 50-120 % |
+| LOD | ≤ 0,30 μg/kg for each of the four substances |
+| LOQ | ≤ 0,90 μg/kg for each of the four substances |
+
+(d) Performance criteria for methods of analysis for acrylamide:
+
+**Table 8**
+
+| Parameter | Criterion |
+| --- | --- |
+| Applicability | All foods |
+| Specificity | Free from matrix or spectral interferences |
+| Field blanks | Less than Limit of Detection (LOD) |
+| Repeatability (RSDr) | 0,66 times RSDR as derived from (modified) Horwitz equation |
+| Reproducibility (RSDR) | as derived from (modified) Horwitz equation |
+| Recovery | 75-110 % |
+| Limit of Detection (LOD) | Three tenths of LOQ |
+| Limit of Quantification (LOQ) | For foods with benchmark levels < 125 μg/kg: ≤ two fifths of the benchmark level, however not required to be lower than 20 μg/kg For foods with benchmark level ≥ 125 μg/kg: ≤ 50 μg/kg |
+
+(e) Performance criteria for methods of analysis for perchlorate:
+
+**Table 9**
+
+| Parameter | Criterion |
+| --- | --- |
+| Applicability | All foods |
+| Specificity | Free from matrix or spectral interferences |
+| Repeatability (RSDr) | 0,66 times RSDR as derived from (modified) Horwitz equation |
+| Reproducibility (RSDR) | as derived from (modified) Horwitz equation |
+| Recovery | 70-110 % |
+| Limit of Detection (LOD) | Three tenths of LOQ |
+| Limit of Quantification (LOQ) | ≤ two fifths of the ML |
+
+(f) Notes to the performance criteria:
+
+The Horwitz equation ( 16 ) (for concentrations 1,2 x 10-7 ≤ C ≤ 0,138) and the modified Horwitz equation ( 17 ) (for concentrations C &lt; 1,2 × 10-7) are generalised precision equations which are independent of analyte and matrix but solely dependent on concentration for most routine methods of analysis.
+
+Modified Horwitz equation for concentrations C &lt; 1,2 × 10-7:
+
+RSDR = 22 %
+
+where:
+
+— RSDR is the relative standard deviation calculated from results generated under reproducibility conditions [image]
+
+— C is the concentration ratio (i.e. 1 = 100g/100g, 0,001 = 1 000 mg/kg). The modified Horwitz equation applies to concentrations C &lt; 1,2 × 10-7.
+
+Horwitz equation for concentrations 1,2 x 10-7 ≤ C ≤ 0,138:
+
+RSDR = 2C(-0,15 )
+
+where:
+
+— RSDR is the relative standard deviation calculated from results generated under reproducibility conditions [image]
+
+— C is the concentration ratio (i.e. 1 = 100g/100g, 0,001 = 1 000 mg/kg). The Horwitz equation applies to concentrations 1,2 x 10-7 ≤ C ≤ 0,138.
+
+C.3.3.2. ‘Fitness-for-purpose’ approach
+
+For in-house validated methods, as an alternative a ‘fitness-for-purpose’ approach ( 18 ) may be used to assess their suitability for official control. Methods suitable for official control must produce results with a combined standard measurement uncertainty (u) less than the maximum standard measurement uncertainty calculated using the formula below:
+
+[image]
+
+where:
+
+— Uf is the maximum standard measurement uncertainty (μg/kg).
+
+— LOD is the limit of detection of the method (μg/kg). The LOD must meet the performance criteria set in point C.3.3.1 for the concentration of interest.
+
+— C is the concentration of interest (μg/kg);
+
+— α is a numeric factor to be used depending on the value of C. The values to be used are given in Table 10  .
+
+**Table 10**
+
+**Numeric values to be used for α as constant in formula set out in this point, depending on the concentration of interest**
+
+C (μg/kg) α
+
+≤ 50 0,2
+
+51-500 0,18
+
+501-1 000 0,15
+
+1 001 -10 000 0,12
+
+> 10 000 0,1
+
+The analyst shall note the ‘Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions of EU food and feed legislation’ ( 19 ).
+
+**PART D**
+
+**REPORTING AND INTERPRETATION OF RESULTS**
+
+**D.1. REPORTING**
+
+**D.1.1. Expression of results**
+
+The results shall be expressed in the same units and with the same number of significant figures as the maximum levels laid down in Regulation (EU) 2023/915  .
+
+**D.1.2. Recovery calculations**
+
+If an extraction step is applied in the analytical method, the analytical result shall be corrected for recovery. In this case the level of recovery must be reported.
+
+In case no extraction step is applied in the analytical method (e.g. in case of metals), the result may be reported uncorrected for recovery if evidence is provided by ideally making use of suitable certified reference material that the certified concentration allowing for the measurement uncertainty is achieved (i.e. high accuracy of the measurement), and thus that the method is not biased. In case the result is reported uncorrected for recovery this shall be mentioned.
+
+**D.1.3. Measurement uncertainty**
+
+The analytical result shall be reported as x +/– U whereby x is the analytical result and U is the expanded measurement uncertainty, using a coverage factor of 2 which gives a level of confidence of approximately 95 % (U = 2u).
+
+The analyst shall note the ‘Report on the relationship between analytical results, measurement uncertainty, recovery factors and the provisions of EU food and feed legislation’ ( 20 ).
+
+**D.2. INTERPRETATION OF RESULTS**
+
+**D.2.1. Acceptance of a lot/sublot**
+
+The lot or sublot is accepted if the analytical result of the laboratory sample does not exceed the respective maximum level as laid down in Regulation (EU) 2023/915  taking into account the expanded measurement uncertainty and correction of the result for recovery if an extraction step has been applied in the analytical method used.
+
+**D.2.2. Rejection of a lot/sublot**
+
+The lot or sublot is rejected if the analytical result of the laboratory sample exceeds beyond reasonable doubt the respective maximum level as laid down in Regulation (EU) 2023/915  taking into account the expanded measurement uncertainty and correction of the result for recovery if an extraction step has been applied in the analytical method used.
+
+**D.2.3. Applicability**
+
+The present interpretation rules shall apply for the analytical result obtained on the sample for enforcement. In case of analysis for defence or reference purposes, the national rules shall apply.
+
+( 1 ) Commission Regulation (EU) 2023/915 of 25 April 2023 on maximum levels for certain contaminants in food and repealing Regulation (EC) No 1881/2006 (OJ L 119, 5.5.2023, p. 103).
+
+( 2 ) Commission Regulation (EU) 2017/2158 of 20 November 2017 establishing mitigation measures and benchmark levels for the reduction of the presence of acrylamide in food (OJ L 304, 21.11.2017, p. 24).
+
+( 3 ) Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC, and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1).
+
+( 4 ) https://ec.europa.eu/food/safety/chemical-safety/contaminants/sampling-and-analysis
+
+( 5 ) As amended by Article 18 of Commission Regulation (EC) No 2076/2005 (OJ L 338, 22.12.2005, p. 83).
+
+( 6 ) ‘The international harmonized protocol for the proficiency testing of analytical chemistry laboratories’ by M. Thompson, S.L.R. Ellison and R. Wood, Pure Appl. Chem., 2006, 78, 145-96.
+
+( 7 ) Edited by M. Thompson and R. Wood, Pure Appl. Chem., 1995, 67, 649-666.
+
+( 8 ) Standard EN 13804:2013, ‘Foodstuffs. Determination of elements and their chemical species. General considerations and specific requirements’, CEN, Rue de Stassart/Stassartstraat 36, B-1050 Bruxelles/Brussel, BELGIQUE/BELGIË.
+
+( 9 ) Horwitz W. and Albert, R., 2006, The Horwitz Ratio (HorRat): A useful Index of Method Performance with respect to Precision, Journal of AOAC International, Vol. 89, 1095-1109.
+
+( 10 ) M. Thompson, Analyst, 2000, p. 125 and 385-386.
+
+( 11 ) Horwitz W. and Albert, R., 2006, The Horwitz Ratio (HorRat): A useful Index of Method Performance with respect to Precision, Journal of AOAC International, Vol. 89, 1095-1109.
+
+( 12 ) M. Thompson, Analyst, 2000, p. 125 and 385-386.
+
+( 13 ) International vocabulary of metrology – Basic and general concepts and associated terms (VIM), JCGM 200:2008.
+
+( 14 ) Organisation internationale de la vigne et du vin.
+
+( 15 ) Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007 (OJ L 347, 20.12.2013, p. 671).
+
+( 16 ) W. Horwitz, L.R. Kamps, K.W. Boyer, J.Assoc.Off.Analy.Chem.,63, 1980, 1344-1354.
+
+( 17 ) M. Thompson, Analyst, 125, 2000, 385-386.
+
+( 18 ) M. Thompson and R. Wood, Accred. Qual. Assur., 2006, p. 10 and 471-478.
+
+( 19 ) http://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf
+
+( 20 ) http://ec.europa.eu/food/food/chemicalsafety/contaminants/report-sampling_analysis_2004_en.pdf

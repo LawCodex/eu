@@ -125,6 +125,7 @@ José Manuel BARROSO
 
 The following entry shall be added at the end of the table in Annex I to Directive 91/414/EEC:
 
+<table>
 <tbody><tr><td>No</td><td>Common Name, Identification Numbers</td><td>IUPAC Name</td><td>Purity (1)</td><td>Entry into force</td><td>Expiration of inclusion</td><td>Specific provisions</td></tr>
 <tr><td>‘346</td><td>Flutriafol CAS No: 76674-21-0  CIPAC No: 436 </td><td>(RS)-2,4′-difluoro-α-(1H-1,2,4-triazol-1-ylmethyl)benzhydryl alcohol</td><td>≥ 920 g/kg (racemate)  Relevant impurities: dimethyl sulphate: max content 0,1 g/kg  dimethylformamide: max content 1 g/kg  methanol: max content 1 g/kg </td><td>1 June 2011</td><td>31 May 2021</td><td>PART A Only uses as fungicide may be authorised.  PART B  For the implementation of the uniform principles of Annex VI the conclusions of the review report on flutriafol, and in particular Appendices I and II thereof, as finalised in the Standing Committee on the Food Chain and Animal Health on 11 March 2011, shall be taken into account.  In this overall assessment Member States shall: <table><tbody><tr><td>(1)</td><td>pay particular attention to the protection of the workers’ safety and ensure that conditions of use include the application of adequate personal protective equipment;</td></tr>
 </tbody>
@@ -146,5 +147,6 @@ The following entry shall be added at the end of the table in Annex I to Directi
 </table>
  The Member States concerned shall ensure that the applicant submits to the Commission the information set out in point (a) by 1 December 2011, the information set out in points (b) and (c) by 31 May 2013.’ </td></tr>
 </tbody>
+</table>
 
 (1) Further details on identity and specification of active substance are provided in the review report.

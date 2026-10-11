@@ -197,6 +197,7 @@ Blade and stem shall be made of polished metal, preferably stainless steel. The 
 
 The borers shall conform to the dimensions (subject to a tolerance of 10 %) given in the table below:
 
+<table>
 <tbody><tr><td colspan="3">(in mm)</td></tr>
 <tr><td></td><td>Type A Long</td><td>Type B Short</td></tr>
 <tr><td>Length of blade</td><td>800</td><td>400</td></tr>
@@ -206,6 +207,7 @@ The borers shall conform to the dimensions (subject to a tolerance of 10 %) give
 <tr><td>Slit width at point</td><td>4</td><td>20</td></tr>
 <tr><td>Slit width at grip or stem</td><td>14</td><td>14</td></tr>
 </tbody>
+</table>
 
 **5\. Note on use of borers**
 

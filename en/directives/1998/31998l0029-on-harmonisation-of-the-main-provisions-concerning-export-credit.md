@@ -30,9 +30,11 @@ on harmonisation of the main provisions concerning export credit insurance for t
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Regulation (EC) No 806/2003 of 14 April 2003</td><td> L 122</td><td>1</td><td>16.5.2003</td></tr>
+</table>
 
 COUNCIL DIRECTIVE 98/29/EC
 

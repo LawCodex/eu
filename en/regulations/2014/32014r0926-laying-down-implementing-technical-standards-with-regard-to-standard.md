@@ -1,0 +1,510 @@
+---
+title: "Commission Implementing Regulation (EU) No 926/2014 of 27 August 2014 laying down implementing technical standards with regard to standard forms, templates and procedures for notifications relating to the exercise of the right of establishment and the freedom to provide services according to Directive 2013/36/EU of the European Parliament and of the Council Text with EEA relevance"
+identifier: "32014R0926"
+eli: "http://data.europa.eu/eli/reg_impl/2014/926/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-08-27
+entry_into_force: 2014-05-26
+last_amended: 2022-03-06
+consolidated_version: "02014R0926-20220306"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0926-20220306"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 926/2014 of 27 August 2014 laying down implementing technical standards with regard to standard forms, templates and procedures for notifications relating to the exercise of the right of establishment and the freedom to provide services according to Directive 2013/36/EU of the European Parliament and of the Council Text with EEA relevance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 926/2014**
+
+**of 27 August 2014**
+
+**laying down implementing technical standards with regard to standard forms, templates and procedures for notifications relating to the exercise of the right of establishment and the freedom to provide services according to Directive 2013/36/EU of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/193 of 17 November 2021 </td><td> L 31</td><td>4</td><td>14.2.2022</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 926/2014**
+
+**of 27 August 2014**
+
+**laying down implementing technical standards with regard to standard forms, templates and procedures for notifications relating to the exercise of the right of establishment and the freedom to provide services according to Directive 2013/36/EU of the European Parliament and of the Council**
+
+**(Text with EEA relevance)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter
+
+This Regulation lays down the standard forms, templates and procedures for the notifications to exercise the right of establishment and the freedom to provide services pursuant to Article 35(6), Article 36(6) and Article 39(5) of Directive 2013/36/EU.
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(1) ‘branch passport notification’ means a notification made in accordance with Article 35(1) of Directive 2013/36/EU by a credit institution wishing to establish a branch within the territory of another Member State to the competent authorities of its home Member State;
+
+(2) ‘change in branch particulars notification’ means a notification made in accordance with Article 36(3) of Directive 2013/36/EU by a credit institution to the competent authorities of the home and host Member States of a change in the particulars communicated pursuant to Article 35(2)(b), (c) or (d) of that Directive;
+
+(3) ‘services passport notification’ means a notification made in accordance with Article 39(1) of Directive 2013/36/EU by a credit institution wishing to exercise the freedom to provide services by carrying out its activities within the territory of another Member State for the first time to the competent authorities of its home Member State;
+
+(4) ‘passport notifications’ means a branch passport notification, a change in branch particulars notification or a services passport notification.
+
+### Article 3 — General requirements for passport notifications
+
+1\. Passport notifications submitted under this Regulation shall comply with the following requirements:
+
+(a) they shall be in writing in a language accepted by the competent authorities of the home Member State and in a language accepted by the competent authorities of the host Member State, or in any Union language accepted by both the competent authorities of the home and host Member States;
+
+(b) they shall be transmitted by post, or by electronic means where these are accepted by the relevant competent authorities.
+
+2\. The competent authorities shall make the following information publicly available:
+
+(a) the languages accepted in accordance with paragraph 1(a);
+
+(b) the address to which passport notifications are to be sent where submitted by post;
+
+(c) any electronic means by which passport notifications may be submitted and any relevant contact details.
+
+## CHAPTER II — PROCEDURES FOR BRANCH PASSPORT NOTIFICATION
+
+### Article 4 — Submission of the branch passport notification
+
+Credit institutions shall use the form laid down in Annex I to submit a branch passport notification to the competent authorities of the home Member State.
+
+### Article 5 — Assessment of completeness and accuracy of the branch passport notification
+
+1\. On receipt of a branch passport notification the competent authorities of the home Member State shall assess the completeness and accuracy of the information provided.
+
+2\. Competent authorities of the home Member State shall treat the three-month period referred to in Article 35(3) of Directive 2013/36/EU as having commenced on the date of receipt of the branch passport notification containing information that is assessed to be complete and correct.
+
+3\. Where the information provided in the branch passport notification is assessed to be incomplete or incorrect, the competent authorities of the home Member State shall inform the credit institution without delay, indicating in which respect the information is assessed to be incomplete or incorrect.
+
+### Article 6 — Communication of the branch passport notification
+
+1\. The competent authorities of the home Member State shall use the form laid down in Annex II to communicate a branch passport notification to the competent authorities of the host Member State together with a copy of the branch passport notification and with the latest available information on own funds using the form laid down in Annex III. Such latest available information on own funds of the credit institution submitting the passport notification shall be notified at both the individual and consolidated level, where applicable and available to the competent authority of the home Member State.
+
+2\. The competent authorities of the host Member State shall acknowledge receipt of the branch passport notification to the competent authorities of the home Member State without delay, stating the date on which the branch passport notification was received.
+
+3\. Following the acknowledgement of receipt from the competent authorities of the host Member State, the competent authorities of the home Member State shall inform the credit institution without delay of the following:
+
+(a) the communication of the branch passport notification to the competent authorities of the host Member State;
+
+(b) the date of receipt of the branch passport notification by the competent authorities of the host Member State.
+
+### Article 7 — Communication of conditions in the interest of the general good
+
+1\. The competent authorities of the host Member State shall communicate in writing to the credit institution any conditions referred to in Article 36(1) of Directive 2013/36/EU under which, in the interest of the general good, activities may have to be carried out in the territory of the host Member State.
+
+2\. Where the conditions referred to in paragraph 1 impose restrictions on the activities of the branch, the competent authorities of the host Member State shall also communicate those conditions in writing to the competent authorities of the home Member State.
+
+## CHAPTER III — PROCEDURES FOR A CHANGE IN BRANCH PARTICULARS NOTIFICATION
+
+### Article 8 — Submission of a change in branch particulars notification
+
+1\. Credit institutions shall use the form laid down in Annex I to notify a change in branch particulars notification to the competent authorities of the home and host Member States except where the change concerns a planned termination of the operation of the branch.
+
+2\. Credit institutions shall use the form laid down in Annex IV to notify a change which concerns a planned termination of the operation of the branch. Where the branch of a credit institution takes or took deposits and other repayable funds, the credit institution concerned shall also submit a statement listing the measures that have been or that are being undertaken to ensure that the credit institution will no longer hold deposits or other repayable funds from the public through the branch after the termination of the operation of that branch.
+
+### Article 9 — Assessment of completeness and accuracy of the notification
+
+1\. On receipt of a change in branch particulars notification the competent authorities of the home Member State shall assess the completeness and accuracy of the information provided.
+
+2\. Competent authorities of the home and host Member States shall treat the one-month period referred to in Article 36(3) of Directive 2013/36/EU as having commenced on the date of receipt of the change in branch particulars notification containing information that is assessed to be complete and correct. The competent authorities of the home and host Member States shall cooperate in order to take the decisions referred to in Article 36(3) of Directive 2013/36/EU within the period referred to therein.
+
+3\. Where the information provided in the change in branch particulars notification is assessed to be incomplete or incorrect, the competent authorities of the home Member State shall inform the credit institution without delay, indicating in which respect the information is assessed to be incomplete or incorrect.
+
+### Article 10 — Communication of the decisions taken following the notification
+
+1\. The competent authorities of the home Member State shall communicate their decision referred to in Article 36(3) of Directive 2013/36/EU in writing to the credit institution and to the competent authorities of the host Member State.
+
+2\. The competent authorities of the host Member State shall communicate their decision referred to in Article 36(3) of Directive 2013/36/EU in writing to the credit institution.
+
+3\. Where the decision referred to in paragraph 2 sets out conditions which impose restrictions on the activities of the branch, the competent authorities of the host Member State shall also communicate those conditions in writing to the competent authorities of the home Member State.
+
+## CHAPTER IV — PROCEDURES FOR SERVICES PASSPORT NOTIFICATION
+
+### Article 11 — Submission of the services passport notification
+
+Credit institutions shall use the form laid down in Annex V to submit a services passport notification to the competent authorities of the home Member State.
+
+### Article 12 — Assessment of completeness and accuracy of the services passport notification
+
+1\. On receipt of a services passport notification the competent authorities of the home Member State shall assess the completeness and accuracy of the information provided.
+
+2\. Competent authorities of the home Member State shall treat the one-month period referred to in Article 39(2) of Directive 2013/36/EU as having commenced on the date of receipt of the services passport notification containing information that is assessed to be complete and correct.
+
+3\. Where the information provided in the services passport notification is assessed to be incomplete or incorrect, the competent authorities of the home Member State shall inform the credit institution without delay, indicating in which respect the information is assessed to be incomplete or incorrect.
+
+### Article 13 — Communication of the services passport notification
+
+The competent authorities of the home Member State shall use the form laid down in Annex VI to communicate a services passport notification to the competent authorities of the host Member State.
+
+## CHAPTER V — FINAL PROVISIONS
+
+### Article 14 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Form for the submission of a branch passport notification or a change in a branch particulars notification
+
+Where credit institutions notify changes in branch particular notifications to competent authorities of home and host Member States, credit institutions shall only complete the parts of the form which contain information that has changed.
+
+**1\. Contact information**
+
+| Type of notification | □ Initial branch passport notification □ Notification of change in branch particulars notification |
+| --- | --- |
+| Host Member State in which the branch is to be established: | [to be completed by the credit institution] |
+| Name and national reference code of the credit institution as available in the credit institution register maintained by the European Banking Authority (EBA): | [to be completed by the credit institution] |
+| LEI of the credit institution: | [to be completed by the credit institution] |
+| Address of the credit institution in the host Member State from which documents may be obtained: | [to be completed by the credit institution] |
+| Intended principal place of business of the branch in the host Member State: | [to be completed by the credit institution] |
+| Date on which the branch intends to commence its activities: | [to be completed by the credit institution] |
+| Name of contact person at the branch: | [to be completed by the credit institution] |
+| Telephone number: | [to be completed by the credit institution] |
+| Email: | [to be completed by the credit institution] |
+
+**2\. Programme of operations**
+
+**2.1. Types of business envisaged**
+
+2.1.1. Description of the main objectives and business strategy of the branch and an explanation of how the branch will contribute to the strategy of the institution and, where applicable, of its group
+
+[to be completed by the credit institution]
+
+2.1.2. Description of the target customers and counterparties
+
+[to be completed by the credit institution]
+
+2.1.3. List of the activities referred to in Annex I to Directive 2013/36/EU that the credit institution intends to carry out in the host Member State with the indication of the activities that will constitute the core business in the host Member State, including the intended start date for each activity (as accurate as possible).
+
+<table>
+<tbody><tr><td>No.</td><td>Activity</td><td>Activities that the credit institution intends to start carrying out (fill in with ‘S’)/or to cease carrying out (fill in with ‘C’)</td><td>Activities that will constitute the core business</td><td>Intended start or cease date for each activity</td></tr>
+<tr><td>1.</td><td>Taking deposits and other repayable funds</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.</td><td>Lending including, inter alia: consumer credit, credit agreements relating to immovable property, factoring, with or without recourse, financing of commercial transactions (including forfeiting)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.</td><td>Financial leasing</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.</td><td>Payment services as defined in Article 4, point (3) of Directive (EU) 2015/2366 of the European Parliament and of the Council (1)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4a.</td><td>Services enabling cash to be placed on a payment account and all the operations required for operating a payment account</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4b.</td><td>Services enabling cash withdrawals from a payment account and all the operations required for operating a payment account</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4c.</td><td>Execution of payment transactions, including transfers of funds on a payment account with the user’s payment service provider or with another payment service provider: — execution of direct debits, including one- off direct debits  — execution of payment transactions through a payment card or a similar device  — execution of credit transfers, including standing orders </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4d. ()</td><td>Execution of payment transactions where the funds are covered by a credit line for a payment service user: — execution of direct debits, including one- off direct debits  — execution of payment transactions through a payment card or a similar device  — execution of credit transfers, including standing orders </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4e. ()</td><td>— Issuing of payment instruments — Acquiring of payment transactions </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4f.</td><td>Money remittance</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4g.</td><td>Payment initiation services</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4h.</td><td>Account information services</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.</td><td>Issuing and administering other means of payment (e.g. travellers’ cheques and bankers’ drafts) insofar as such activity is not covered by point 4.</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>6.</td><td>Guarantees and commitments</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.</td><td>Trading for own account or for account of customers in any of the following:</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7a.</td><td>— Money market instruments (e.g. cheques, bills, certificates of deposits)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7b.</td><td>— Foreign exchange</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7c.</td><td>— Financial futures and options</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7d.</td><td>— Exchange and interest-rate instruments</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7e.</td><td>— Transferable securities</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>8.</td><td>Participation in securities issues and the provision of services related to such issues</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>9.</td><td>Advice to undertakings on capital structure, industrial strategy, and related questions and advice as well as services relating to mergers and the purchase of undertakings</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>10.</td><td>Money broking</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11.</td><td>Portfolio management and advice</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12.</td><td>Safekeeping and administration of securities</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>13.</td><td>Credit reference services</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>14.</td><td>Safe custody services</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>15.</td><td>Issuing electronic money</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(1)  Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market (OJ L 337, 23.12.2015, p. 35).  (2)  Does the activity referred to in point 4d include the granting of credits in accordance with Article 18(4) of Directive (EU) 2015/2366? <br> □yes□no  (3)  Does the activity referred to in point 4e include the granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366? <br> □yes□no </td></tr>
+</tbody>
+</table>
+
+2.1.4. List of the services and activities that the credit institution intends to carry out in the host Member State, and which are provided for in Sections A and B of Annex I to Directive 2014/65/EU of the European Parliament and of the Council ( 1 ), when referring to the financial instruments provided for in Section C of Annex I of that Directive
+
+<table>
+<tbody><tr><td>Financial instruments</td><td colspan="9">Investment services and activities</td><td colspan="7">Ancillary services</td></tr>
+<tr><td>  </td><td>A 1</td><td>A 2</td><td>A 3</td><td>A 4</td><td>A 5</td><td>A 6</td><td>A 7</td><td>A 8</td><td>A9</td><td>B 1</td><td>B 2</td><td>B 3</td><td>B 4</td><td>B 5</td><td>B 6</td><td>B 7</td></tr>
+<tr><td>C1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C4</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C5</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C6</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C7</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C8</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C9</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C10</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C11</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Note 1:**
+
+Row and column headings are references to the relevant section and item numbers in Annex I to Directive 2014/65/EU (e.g. A1 refers to point 1 of Section A of Annex I)
+
+**2.2. Structural organisation of the branch**
+
+2.2.1. Description of the organisational structure of the branch, including functional and legal reporting lines and the position and role of the branch within the corporate structure of the institution and, where applicable, of its group
+
+[to be completed by the credit institution]
+
+The description can be supported by relevant documents, such as an organisational chart
+
+2.2.2. Description of the governance arrangements and internal control mechanisms of the branch, including the following information:
+
+2.2.2.1. Risk management procedures of the branch and details of liquidity risk management of the institution, and where applicable, of its group
+
+[to be completed by the credit institution]
+
+2.2.2.2. Any limits that apply to the activities of the branch, in particular to its lending activities
+
+[to be completed by the credit institution]
+
+2.2.2.3. Details of the internal audit arrangements of the branch, including details of the person responsible for these arrangements and, where applicable, details of the external auditor
+
+[to be completed by the credit institution]
+
+2.2.2.4. Anti-money laundering arrangements of the branch including details of the person appointed to ensure compliance with these arrangements
+
+[to be completed by the credit institution]
+
+2.2.2.5. Controls over outsourcing and other arrangements with third parties in connection with the activities carried out in the branch that are covered by the institution’s authorisation
+
+[to be completed by the credit institution]
+
+2.2.3. Where the branch is expected to carry out one or more of the investment services and activities defined in Article 4(1), point (2), of Directive 2014/65/EU, a description of the following arrangements:
+
+2.2.3.1. Arrangements for safeguarding client money and assets
+
+[to be completed by the credit institution]
+
+2.2.3.2. Arrangements for compliance with the obligations laid down in Articles 24, 25, 27 and 28 of Directive 2014/65/EU and measures adopted pursuant thereto by the relevant competent authorities of the host Member State
+
+[to be completed by the credit institution]
+
+2.2.3.3. Internal code of conduct including controls over personal account dealing
+
+[to be completed by the credit institution]
+
+2.2.3.4. Details of the person responsible for dealing with complaints in relation to the investment services and activities of the branch
+
+[to be completed by the credit institution]
+
+2.2.3.5. Details of the person appointed to ensure compliance with the arrangements of the branch relating to investment services and activities
+
+[to be completed by the credit institution]
+
+2.2.4. Details of professional experience of the persons responsible for the management of the branch
+
+[to be completed by the credit institution]
+
+**2.3. Other information**
+
+2.3.1. Financial plan containing forecasts for balance sheet and profit and loss account, covering a period of three years comprising the underlying assumptions
+
+[to be completed by the credit institution]
+
+This information can be provided as an attachment to the notification
+
+2.3.2. Name and contact details of the Union deposit guarantee and investor protection schemes in the Member State of which the institution is a member and which cover the activities and services of the branch, together with the maximum coverage of the investor protection scheme
+
+[to be completed by the credit institution]
+
+2.3.3. Details of the branch’s IT arrangements
+
+[to be completed by the credit institution]
+
+## ANNEX II — Form for the communication of branch passport notification
+
+<table>
+<tbody><tr><td>Competent authorities of the home Member State:</td><td>  </td></tr>
+<tr><td>Name of the relevant department:</td><td>  </td></tr>
+<tr><td>General email address of the relevant department (if any):</td><td>  </td></tr>
+<tr><td>Name of the contact person:</td><td>  </td></tr>
+<tr><td>Telephone number:</td><td>  </td></tr>
+<tr><td>Email:</td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>Address of the competent authorities of the host Member State:</td><td>  </td></tr>
+<tr><td>  </td><td>[Date]</td></tr>
+<tr><td>  </td><td>Ref:</td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Communication of branch passport notification</td></tr>
+<tr><td>[The communication shall contain the following information:</td><td>  </td></tr>
+<tr><td>— name and national reference code of the credit institution as available in the credit institution register maintained by the EBA;</td><td>  </td></tr>
+<tr><td>— LEI of the credit institution;</td><td>  </td></tr>
+<tr><td>— competent authorities responsible for the authorisation and supervision of the credit institution;</td><td>  </td></tr>
+<tr><td>— statement on the credit institution’s intention to carry out activities in the territory of the host Member State, including the date of receipt of the branch passport notification containing information that is assessed to be complete and correct;</td><td>  </td></tr>
+<tr><td>— name and contact details of the persons responsible for the management of the branch;</td><td>  </td></tr>
+<tr><td>— name and contact details of the Union deposit guarantee and investor protection schemes of which the institution is a member and which cover the activities and services of the branch.]</td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>[Contact details]</td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX III — Form for the communication of the amount and composition of own funds and own funds requirements
+
+**1\. Amount and composition of own funds at the individual level and consolidated level (where applicable and available)**
+
+<table>
+<tbody><tr><td colspan="3">Credit institution’s name: ________________________________________________________________ Reference date (Individual level): _________________________________________________________  Reference date (Consolidated level – where applicable and available): ____________________________ </td></tr>
+<tr><td>Item All references are to the provisions of Regulation (EU) No 575/2013 of the European Parliament and of the Council (1) </td><td>Individual level Amount  (in million EUR) </td><td>Consolidated level (where applicable and available)  Amount  (in million EUR) </td></tr>
+<tr><td>Own funds Articles 4(1), point (118), and Article 72 </td><td>[data as reported in row 010 in Template 1 of Annex I to Commission Implementing Regulation (EU) No 680/2014(2)]</td><td>[data as reported in row 010 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Tier 1 capital Article 25 </td><td>[data as reported in row 015 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 015 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Common Equity Tier 1 capital Article 50 </td><td>[data as reported in row 020 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 020 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Additional Tier 1 capital Article 61 </td><td>[data as reported in row 530 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 530 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Tier 2 capital Article 71 </td><td>[data as reported in row 750 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 750 in Template 1 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td colspan="3">(1)  Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1).  (2)  Commission Implementing Regulation (EU) No 680/2014 of 16 April 2014 laying down implementing technical standards with regard to supervisory reporting of institutions according to Regulation (EU) No 575/2013 of the European Parliament and of the Council (OJ L 191, 28.6.2014, p. 1). </td></tr>
+</tbody>
+</table>
+
+**2\. Own fund requirements**
+
+<table>
+<tbody><tr><td colspan="3">Credit institution’s name: ________________________________________________________________ Reference date (Individual level): _________________________________________________________  Reference date (Consolidated level – where applicable and available): ____________________________ </td></tr>
+<tr><td>Item All references are to the provisions of Regulation (EU) No 575/2013 </td><td>Individual level Amount  (in million EUR) </td><td>Consolidated level (where applicable and available)  Amount  (in million EUR) </td></tr>
+<tr><td>Total risk exposure amount Article 92(3) and Articles 95, 96 and 98 </td><td>[data as reported in row 010 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 010 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Risk weighted exposure amounts for credit, counterparty credit and dilution risks and free deliveries Article 92(3), points (a) and (f) </td><td>[data as reported in row 040 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 040 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Total risk exposure amount for settlement/delivery Article 92(3), point (c) (ii), and Article 92(4), point (b) </td><td>[data as reported in row 490 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 490 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Total risk exposure amount for position, foreign exchange and commodities risks Article 92(3), points (b)(i), (c)(i) and (c)(iii), and Article 92(4), point (b) </td><td>[data as reported in row 520 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 520 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Total risk exposure amount for operational risk Article 92(3), point (e), and Article 92(4), point (b) </td><td>[data as reported in row 590 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 590 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Additional risk exposure amount due to fixed overheads Article 95(2), Article 96(2), Article 97 and Article 98(1), point (a) </td><td>[data as reported in row 630 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 630 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Total risk exposure amount for credit valuation adjustment Article 92(3), point (d) </td><td>[data as reported in row 640 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 640 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Total risk exposure amount related to large exposures in the trading book Article 92(3), point (b)(ii), and Articles 395 to 401 </td><td>[data as reported in row 680 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 680 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+<tr><td>Other risk exposure amounts Articles 3, 458, 459 and 500 and risk exposure amounts which cannot be assigned to one of the other items of this table </td><td>[data as reported in row 690 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td><td>[data as reported in row 690 in Template 2 of Annex I to Implementing Regulation (EU) No 680/2014]</td></tr>
+</tbody>
+</table>
+
+## ANNEX IV — Form for the notification of a change which concerns a planned termination of the operation of a branch
+
+<table>
+<tbody><tr><td>Name of the contact person at the credit institution or branch:</td><td>  </td></tr>
+<tr><td>Telephone number:</td><td>  </td></tr>
+<tr><td>Email:</td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>Address of the competent authorities of the home Member State:</td><td>  </td></tr>
+<tr><td>Address of the competent authorities of the host Member State:</td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>[Date]</td></tr>
+<tr><td>  </td><td>[Ref:]</td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Submission of a change which concerns a planned termination of the operation of a branch</td></tr>
+<tr><td>[The notification shall contain the following information:</td><td>  </td></tr>
+<tr><td>— name and national reference code of the credit institution as available in the credit institution register maintained by the EBA;</td><td>  </td></tr>
+<tr><td>— LEI of the credit institution;</td><td>  </td></tr>
+<tr><td>— name of the branch in the territory of the host Member State;</td><td>  </td></tr>
+<tr><td>— competent authorities responsible for the authorisation and supervision of the credit institution;</td><td>  </td></tr>
+<tr><td>— statement on the credit institution’s intention to terminate the operation of the branch in the territory of the host Member State and the date by which the termination will be effective;</td><td>  </td></tr>
+<tr><td>— name and contact details of the persons who will be responsible for the process of terminating the operation of the branch;</td><td>  </td></tr>
+<tr><td>— estimated schedule for the planned termination;</td><td>  </td></tr>
+<tr><td>— information on the process of terminating the business relations with branch customers.]</td><td>  </td></tr>
+<tr><td>— where the branch provides activity N. 1 (Taking deposits and other repayable funds) under section 2.1.3 of Annex I, statement by the credit institution indicating the measures that have been or are being undertaken to ensure that the branch will no longer hold deposits or other repayable funds from the public through the branch after the termination of the operation of that branch.</td><td>  </td></tr>
+<tr><td>[Contact details]</td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX V — Form for the submission of services passport notification
+
+**1\. Contact information**
+
+| Type of notification | Services passport notification |
+| --- | --- |
+| Host Member State in which the credit institution intends to carry out its activities: |  |
+| Name and national reference code of the credit institution as available in the credit institution register maintained by the EBA: |  |
+| LEI of the credit institution: |  |
+| Address of the head office of the credit institution: |  |
+| Name of contact person at the credit institution: |  |
+| Telephone number: |  |
+| Email: |  |
+
+**2\. List of the activities referred to in Annex I to Directive 2013/36/EU that the credit institution will carry out in the host Member State with the indication of the activities that will constitute the core business of the credit institution in the host Member State, including the intended commencement date for each activity (as accurate as possible)**
+
+<table>
+<tbody><tr><td>No.</td><td>Activity</td><td>Activities that the credit institution intends to carry out (fill in with ‘X’)</td><td>Activities that will constitute the core business</td><td>Intended start date for each activity</td></tr>
+<tr><td>1.</td><td>Taking deposits and other repayable funds</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.</td><td>Lending including, inter alia: consumer credit, credit agreements relating to immovable property, factoring, with or without recourse, financing of commercial transactions (including forfeiting)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>3.</td><td>Financial leasing</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.</td><td>Payment services as defined in Article 4, point (3) of Directive (EU) 2015/2366 of the European Parliament and of the Council (1)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4a</td><td>Services enabling cash to be placed on a payment account and all the operations required for operating a payment account</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4b</td><td>Services enabling cash withdrawals from a payment account and all the operations required for operating a payment account</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4c</td><td>Execution of payment transactions, including transfers of funds on a payment account with the user’s payment service provider or with another payment service provider: — execution of direct debits, including one- off direct debits  — execution of payment transactions through a payment card or a similar device  — execution of credit transfers, including standing orders </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4d ()</td><td>Execution of payment transactions where the funds are covered by a credit line for a payment service user: — execution of direct debits, including one- off direct debits  — execution of payment transactions through a payment card or a similar device  — execution of credit transfers, including standing orders </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4e ()</td><td>— Issuing of payment instruments — Acquiring of payment transactions </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4f</td><td>Money remittance</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4g</td><td>Payment initiation services</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4h</td><td>Account information services</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>5.</td><td>Issuing and administering other means of payment (e.g. travellers’ cheques and bankers’ drafts) insofar as such activity is not covered by point 4</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>6.</td><td>Guarantees and commitments</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.</td><td>Trading for own account or for account of customers in any of the following:</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7a</td><td>— money market instruments (e.g. cheques, bills, certificates of deposits)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7b</td><td>— foreign exchange</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7c</td><td>— financial futures and options</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7d</td><td>— exchange and interest-rate instruments</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7e</td><td>— transferable securities</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>8.</td><td>Participation in securities issues and the provision of services related to such issues</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>9.</td><td>Advice to undertakings on capital structure, industrial strategy, and related questions and advice as well as services relating to mergers and the purchase of undertakings</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>10.</td><td>Money broking</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11.</td><td>Portfolio management and advice</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12.</td><td>Safekeeping and administration of securities</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>13.</td><td>Credit reference services</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>14.</td><td>Safe custody services</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>15.</td><td>Issuing electronic money</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(1)  Directive (EU) 2015/2366 of the European Parliament and of the Council of 25 November 2015 on payment services in the internal market (OJ L 337, 23.12.2015, p. 35).  (2)  Does the activity referred to in point 4d include the granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366? <br> □yes□no  (3)  Does the activity referred to in point 4e include the granting of credit in accordance with Article 18(4) of Directive (EU) 2015/2366? <br> □yes□no </td></tr>
+</tbody>
+</table>
+
+**3\. List of the services and activities that the credit institution intends to carry out in the host Member State, and which are provided for in Sections A and B of Annex I to Directive 2014/65/EU, when referring to the financial instruments provided for in Section C of that Annex**
+
+<table>
+<tbody><tr><td>Financial instruments</td><td colspan="8">Investment services and activities</td><td>  </td><td colspan="7">Ancillary services</td></tr>
+<tr><td>  </td><td>A 1</td><td>A 2</td><td>A 3</td><td>A 4</td><td>A 5</td><td>A 6</td><td>A 7</td><td>A 8</td><td>A9</td><td>B 1</td><td>B 2</td><td>B 3</td><td>B 4</td><td>B 5</td><td>B 6</td><td>B 7</td></tr>
+<tr><td>C1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C4</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C5</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C6</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C7</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C8</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C9</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C10</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>C11</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Note 1:**
+
+Row and column headings are references to the relevant section and item numbers in Annex I to Directive 2014/65/EU (e.g. A1 refers to point 1 of Section A of Annex I)
+
+## ANNEX VI — Form for the communication of services passport notification
+
+<table>
+<tbody><tr><td>Competent authorities of the home Member State:</td><td>  </td></tr>
+<tr><td>Name of the relevant department:</td><td>  </td></tr>
+<tr><td>General email address of the relevant department (if any):</td><td>  </td></tr>
+<tr><td>Name of the contact person:</td><td>  </td></tr>
+<tr><td>Telephone number:</td><td>  </td></tr>
+<tr><td>Email:</td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>Address of the competent authorities of the host Member State:</td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>[Date]</td></tr>
+<tr><td>  </td><td>Ref:</td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Communication of services passport notification</td></tr>
+<tr><td>[The communication shall contain the following information:</td><td>  </td></tr>
+<tr><td>— name and national reference code of the credit institution available in the credit institution register maintained by the EBA;</td><td>  </td></tr>
+<tr><td>— LEI of the credit institution;</td><td>  </td></tr>
+<tr><td>— competent authorities responsible for the authorisation and supervision of the credit institution;</td><td>  </td></tr>
+<tr><td>— statement on the credit institution’s intention to carry out activities in the territory of the host Member State in the exercise of the freedom to provide services.]</td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td>[Contact details]</td><td>  </td></tr>
+</tbody>
+</table>
+
+( 1 ) Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments and amending Directive 2002/92/EC and Directive 2011/61/EU (OJ L 173, 12.6.2014, p. 349).

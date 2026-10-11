@@ -1,0 +1,122 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/2011 of 17 November 2021 imposing a definitive anti-dumping duty on imports of optical fibre cables originating in the People’s Republic of China"
+identifier: "32021R2011"
+eli: "http://data.europa.eu/eli/reg_impl/2021/2011/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-11-17
+entry_into_force: 2021-11-10
+last_amended: 2023-08-10
+consolidated_version: "02021R2011-20230810"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R2011-20230810"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/2011 of 17 November 2021 imposing a definitive anti-dumping duty on imports of optical fibre cables originating in the People’s Republic of China
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/2011**
+
+**of 17 November 2021**
+
+**imposing a definitive anti-dumping duty on imports of optical fibre cables originating in the People’s Republic of China**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/72 of 18 January 2022 </td><td> L 12</td><td>34</td><td>19.1.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1617 of 8 August 2023 </td><td> L 199</td><td>34</td><td>9.8.2023</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/2011**
+
+**of 17 November 2021**
+
+**imposing a definitive anti-dumping duty on imports of optical fibre cables originating in the People’s Republic of China**
+
+## Article 1
+
+1\. A definitive anti-dumping duty is imposed on imports of single mode optical fibre cables, made up of one or more individually sheathed fibres, with protective casing, whether or not containing electric conductors, currently falling under CN code ex 8544 70 00 (TARIC code 8544700010 ) and originating in the People’s Republic of China.
+
+The following products are excluded:
+
+(i) cables in which all the optical fibres are individually fitted with operational connectors at one or both extremities; and
+
+(ii) cables for submarine use. Cables for submarine use are plastic insulated optical fibre cables, containing a copper or aluminium conductor, in which fibres are contained in metal module(s).
+
+2\. The rates of the definitive anti-dumping duty applicable to the net, free-at-Union-frontier price, before duty, of the product described in paragraph 1 and produced by the companies listed below shall be as follows:
+
+| Company | Definitive anti-dumping duty | TARIC additional code |
+| --- | --- | --- |
+| FTT Group: FiberHome Telecommunication Technologies Co., Ltd. Nanjing Wasin Fujikura Optical Communication Ltd. Hubei Fiberhome Boxin Electronic Co., Ltd | 88,0 % | C696 |
+| ZTT Group: Jiangsu Zhongtian Technology Co., Ltd. Zhongtian Power Optical Cable Co., Ltd. | 39,4 % | C697 |
+| Other companies cooperating in both anti-subsidy and anti-dumping investigation listed in the Annex I of Implementing Regulation (EU) 2022/72 | 62,4 % | See Annex I |
+| Other companies cooperating in anti-dumping investigation but not in anti-subsidy investigation listed in the Annex II of Implementing Regulation (EU) 2022/72 | 62,4 % | See Annex II |
+| All other companies | 88,0 % | C999 |
+
+3\. The application of the individual duty rates specified for the companies mentioned in paragraph 2 shall be conditional upon presentation to the Member States’ customs authorities of a valid commercial invoice, on which shall appear a declaration dated and signed by an official of the entity issuing such invoice, identified by his/her name and function, drafted as follows: ‘I, the undersigned, certify that the (volume) of (product concerned) sold for export to the European Union covered by this invoice was manufactured by (company name and address) (TARIC additional code) in the People’s Republic of China. I declare that the information provided in this invoice is complete and correct.’ If no such invoice is presented, the duty applicable to all other companies shall apply.
+
+4\. Unless otherwise specified, the provisions in force concerning customs duties shall apply.
+
+5\. The customs declaration shall indicate the length in kilometres of the product described in Article 1(1), provided this indication is compatible with Annex I to Council Regulation (EEC) No 2658/87 ( 1 ).
+
+7\. Should the definitive countervailing duties imposed by Article 1 of Commission Implementing Regulation (EU) 2022/72 ( 2 ) be modified or removed, the duties specified in paragraph 2 or in Annexes I or II shall be increased by the same proportion limited to the actual dumping margin found or the injury margin found as appropriate per company and from the entry into force of this Regulation.
+
+8\. In cases where the countervailing duty has been subtracted from the anti-dumping duty for certain exporting producers, refund requests under Article 21 of Regulation (EU) 2016/1037 shall also trigger the assessment of the dumping margin for that exporting producer prevailing during the refund investigation period.
+
+## Article 2
+
+Where a new exporting producer from the People’s Republic of China provides sufficient evidence to the Commission, the Annex of Implementing Regulation (EU) 2021/2011 may be amended by adding that new exporting producer to the list of cooperating companies not included in the sample and thus subject to the appropriate weighted average anti-dumping duty rate, namely 62,4 %. A new exporting producer shall provide evidence that:
+
+(a) it did not export the goods described in Article 1(1) of Implementing Regulation (EU) 2021/2011 originating in the People’s Republic of China during the period of investigation (1 July 2019–30 June 2020);
+
+(b) it is not related to an exporter or producer subject to the measures imposed by this Regulation; and
+
+(c) it has either actually exported the goods described in Article 1(1) originating in the People’s Republic of China or has entered into an irrevocable contractual obligation to export a significant quantity to the Union after the end of the period of investigation.
+
+## Article 3
+
+Customs authorities are hereby directed to discontinue the registration of imports established in accordance with Article 1 of Commission Implementing Regulation (EU) 2021/548 of 29 March 2021 making imports of optical fibre cables originating in the People’s Republic of China subject to registration.
+
+## Article 4
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Other companies cooperating in both anti-subsidy and anti-dumping investigation
+
+| Name of the company | TARIC additional code |
+| --- | --- |
+| Dongjie Optical Technology (Suzhou) Co., Ltd | C700 |
+| Fasten Group: Jiangsu Fasten Optical Communication Technology Co., Ltd Jiangsu Fasten Optical Cable Co., Ltd | C701 |
+| Hangzhou Futong Communication Technology Co., Ltd | C702 |
+| Hangzhou Tuolima Network Technologies Co., Ltd | C703 |
+| Jiangsu Etern Co., Ltd | C704 |
+| Jiangsu Hengtong Group: Hengtong Optic-Electric Co., Ltd Guangdong Hengtong Optic-electronical Technology Co., Ltd Jiangsu Hengtong Smart Grids Co., Ltd Zhejiang Dongtong Optical Network and IOT Technology Co., Ltd | C705 |
+| Jiangsu Tongguang Optical Fiber Cable Co., Ltd | C706 |
+| LEONI Cable (China) Co., Ltd | C707 |
+| Nanjing Huamai Technology Co., Ltd | C708 |
+| Ningbo Geyida Cable Technology Co., Ltd | C709 |
+| SDG group: — Shenzhen SDG Information Co., Ltd — Shenzhen SDGI Optical Network Technologies co., Ltd | C725 |
+| Shanghai Qishen International Trade Co., Ltd | C712 |
+| Shenzhen Wanbao Optical Fiber Communication Co., Ltd | C713 |
+| Sichuan Huiyuan Optical Communications Co., Ltd | C714 |
+| Suzhou Furukawa Power Optic Cable Co., Ltd | C715 |
+| Suzhou Torres Optic-electric Technology Co., Ltd | C716 |
+| Twentsche (Nanjing) Fibre Optics Ltd | C717 |
+| XDK Communication Equipment (Huizhou) Ltd | C718 |
+| Yangtze Optical Fibre and Cable group: — Yangtze Optical Fibre and Cable Joint Stock Limited Company — Yangtze Optical Fibre and Cable (Shanghai) Company Ltd — Yangtze Zhongli Optical Fibre and Cable (Jiangsu) Co., Ltd — Sichuan Lefei Optoelectronic Technology Company Limited — Everpro Technology Company Limited | C719 |
+
+## ANNEX II — Other companies cooperating in anti-dumping investigation but not in anti-subsidy investigation
+
+| Name of the company | TARIC additional code |
+| --- | --- |
+| Anhui Tianji Information Technology Co., Ltd | C698 |
+| Prysmian Wuxi Cable Co., Ltd | C710 |
+
+( 1 ) Annex I ‘Combined Nomenclature’ to Council Regulation (EEC) No 2658/87 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).
+
+( 2 ) Commission Implementing Regulation (EU) 2022/72 of 18 January 2022 imposing definitive countervailing duties on imports of optical fibre cables originating in the People's Republic of China and amending Implementing Regulation (EU) 2021/2011 imposing a definitive anti-dumping duty on imports of optical fibre cables originating in the People’s Republic of China (OJ L 12, 19.1.2022, p. 34)

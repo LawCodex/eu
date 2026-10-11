@@ -1,0 +1,1935 @@
+---
+title: "Commission Implementing Regulation (EU) No 180/2014 of 20 February 2014 laying down rules for the application of Regulation (EU) No 228/2013 of the European Parliament and of the Council laying down specific measures for agriculture in the outermost regions of the Union"
+identifier: "32014R0180"
+eli: "http://data.europa.eu/eli/reg_impl/2014/180/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-02-20
+entry_into_force: 2014-12-22
+last_amended: 2026-04-11
+consolidated_version: "02014R0180-20260411"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0180-20260411"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 180/2014 of 20 February 2014 laying down rules for the application of Regulation (EU) No 228/2013 of the European Parliament and of the Council laying down specific measures for agriculture in the outermost regions of the Union
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 180/2014**
+
+**of 20 February 2014**
+
+**laying down rules for the application of Regulation (EU) No 228/2013 of the European Parliament and of the Council laying down specific measures for agriculture in the outermost regions of the Union**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1282/2014 of 2 December 2014 </td><td> L 347</td><td>13</td><td>3.12.2014</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/920 of 28 June 2018 </td><td> L 164</td><td>5</td><td>29.6.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/260 of 14 February 2019 </td><td> L 44</td><td>1</td><td>15.2.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2224 of 17 October 2023 </td><td> L 2224</td><td>1</td><td>19.10.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/769 of 7 April 2026 </td><td> L 769</td><td>1</td><td>8.4.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 180/2014**
+
+**of 20 February 2014**
+
+**laying down rules for the application of Regulation (EU) No 228/2013 of the European Parliament and of the Council laying down specific measures for agriculture in the outermost regions of the Union**
+
+## CHAPTER I — SPECIFIC SUPPLY ARRANGEMENTS
+
+### SECTION 1 — Forecast supply balances
+
+#### Article 1 — Purpose of forecast supply balances and amendments thereto
+
+The forecast supply balances to be established by the Member States in accordance with Article 9(2) of Regulation (EU) No 228/2013 shall state the quantities of essential products needed to meet the supply requirements of each outermost region every calendar year.
+
+Member States may amend their forecast supply balance. Article 40 of this Regulation shall apply to such amendments.
+
+### SECTION 2 — Supplies through imports from third countries
+
+#### Article 2 — Import licence
+
+1\. For the purposes of Article 12(1) of Regulation (EU) No 228/2013, products subject to the presentation of an import licence shall be exempt from import duties on production of that licence.
+
+2\. Import licences shall be drawn up in accordance with the specimen set out in Annex I to Commission Implementing Regulation (EU) 2016/1239 ( 1 ).
+
+Article 4 of Commission Delegated Regulation (EU) 2016/1237 ( 2 ) and Articles 2 and 3, Article 4(1), Article 5 and 7 and 13 to 16 of Implementing Regulation (EU) 2016/1239 shall apply mutatis mutandis, without prejudice to this Regulation.
+
+The negative tolerance provided for in Article 5(4) of Delegated Regulation (EU) 2016/1237 and Article 8(1) of Implementing Regulation (EU) 2016/1239 shall apply mutatis mutandis.
+
+3\. Box 20 of import licence applications and import licences themselves shall contain one of the entries listed in Part A of Annex I and one of the entries listed in Part B of Annex I.
+
+4\. Box 12 of import licences shall show the last day of validity.
+
+5\. The competent authorities shall issue import licences at the request of the parties concerned, subject to the limits of the forecast supply balances.
+
+6\. Import duties shall be levied on quantities which exceed those stated on the import licence. The positive tolerance of 5 % provided for in Article 5(4) of Delegated Regulation (EU) 2016/1237 and Article 8(1) of Implementing Regulation (EU) 2016/1239 shall apply, provided that the import duties relating thereto are paid.
+
+#### Article 3 — Exemption certificate
+
+1\. For the purposes of Article 12(1) of Regulation (EU) No 228/2013, products not subject to the presentation of an import licence shall be exempt from import duties on production of an exemption certificate.
+
+2\. Exemption certificates shall be drawn up on the basis of the specimen import licence set out in Annex I to Implementing Regulation (EU) 2016/1239.
+
+Article 4 of Delegated Regulation (EU) 2016/1237 and Articles 2 and 3, Article 4(1), Articles 5 and 7 and 13 to 16 of Implementing Regulation (EU) 2016/1239 shall apply mutatis mutandis, without prejudice to this Regulation.
+
+The negative tolerance provided for in Article 5(4) of Delegated Regulation (EU) 2016/1237 and Article 8(1) of Implementing Regulation (EU) 2016/1239 shall apply mutatis mutandis.
+
+3\. One of the entries listed in Part C of Annex I shall be printed or stamped in the upper left-hand box of the certificate.
+
+4\. Box 20 of exemption certificate applications and of exemption certificates themselves shall contain one of the entries listed in Part D of Annex I and one of the entries listed in Part B of Annex I.
+
+5\. Box 12 of exemption certificates shall show the last day of validity.
+
+6\. The competent authorities shall issue exemption certificates at the request of the parties concerned, subject to the limits of the forecast supply balances.
+
+### SECTION 3 — Supply from the Union
+
+#### Article 4 — Fixing and granting of aid
+
+1\. For the purposes of Article 10(2) of Regulation (EU) No 228/2013, Member States shall determine within the context of the programme the amount of aid to be granted in order to compensate for remoteness, insularity and distant location, taking into account:
+
+(a) as regards specific additional transport costs, the intermediate reloading costs involved in supplying goods to the outermost regions concerned;
+
+(b) as regards the specific additional costs involved in local processing, the small size of the market, the need to guarantee security of supply and the specific quality requirements for goods in the outermost regions concerned.
+
+#### Article 5 — Aid certificate and payment
+
+1\. Aid shall be granted on presentation of a certificate (hereinafter referred to as ‘aid certificate’), which has been fully utilised.
+
+Presenting an aid certificate to the authorities responsible for making payments shall be tantamount to applying for the aid. Except in cases of force majeure or exceptional climatic conditions, certificates shall be presented within 30 days of the date on which they are charged. Where that time limit is overrun, the aid shall be reduced by 5 % per day of delay.
+
+The aid shall be paid by the competent authorities not later than 90 days after the date on which the utilised certificate is lodged, except in one of the following cases:
+
+(a) force majeure or exceptional climatic conditions;
+
+(b) where an administrative enquiry has been opened concerning entitlement to the aid; in such case, payment shall take place only after entitlement has been recognised.
+
+2\. Aid certificates shall be drawn up on the basis of the specimen import licence set out in Annex I to Implementing Regulation (EU) 2016/1239.
+
+Article 4 of Delegated Regulation (EU) 2016/1237 and Articles 2 and 3, Article 4(1), Articles 5 and 7 and 13 to 16 of Implementing Regulation (EU) 2016/1239 shall apply mutatis mutandis, without prejudice to this Regulation.
+
+The negative tolerance provided for in Article 5(4) of Delegated Regulation (EU) 2016/1237 and Article 8(1) of Implementing Regulation (EU) 2016/1239 shall apply mutatis mutandis.
+
+3\. One of the entries listed in Part E of Annex I shall be printed or stamped in the upper left-hand box of the certificate.
+
+Boxes 7 and 8 of the certificate shall be struck out.
+
+4\. Box 20 of aid certificate applications and of aid certificates themselves shall contain one of the entries listed in Part F of Annex I and one of the entries listed in Part G of Annex I.
+
+5\. Box 12 of aid certificates shall show the last day of validity.
+
+6\. The amount of aid applicable shall be that in force on the day on which the application for the aid certificate was lodged.
+
+7\. The competent authorities shall issue aid certificates at the request of the parties concerned, subject to the limits of the forecast supply balances.
+
+### SECTION 4 — Common provisions
+
+#### Article 6 — Passing on the advantage to the end-user
+
+For the purposes of Article 13(1) of Regulation (EU) No 228/2013, the competent authorities shall take all appropriate measures to check that the advantage is actually passed on to the end-user. In doing so, they may assess the trading margins and prices applied by the various operators concerned.
+
+The measures referred to in the first paragraph, and in particular the control points used to determine whether the aid has been passed on, and any amendments made, shall be notified to the Commission in the context of the annual implementation report referred to in Article 32(2) of Regulation (EU) No 228/2013.
+
+#### Article 7 — Register of operators
+
+1\. In order to be eligible for entry in the register referred to in the second subparagraph of Article 12(1) of Regulation (EU) No 228/2013, operators shall undertake to:
+
+(a) communicate to the competent authorities, at their request, all relevant information about their commercial activities, particularly regarding the prices and profit margins they practice;
+
+(b) operate exclusively in their own name and on their own accounts;
+
+(c) submit licence and certificate applications commensurate with their real capacity to dispose of the products concerned, such capacity being proven with reference to objective factors;
+
+(d) refrain from acting in a way likely to create artificial shortages of products and from marketing the available products at artificially low prices;
+
+(e) ensure to the satisfaction of the competent authorities that, when the agricultural products are disposed of in the outermost region concerned, the advantage is passed on to the end-user.
+
+2\. Operators intending to dispatch or export unprocessed, processed or packaged products under the conditions referred to in Article 13 shall, at the time of applying for entry in the register or later, declare their intention to engage in this activity and indicate the location of the packaging plant where applicable.
+
+3\. Processors intending to export or dispatch processed products under the conditions referred to in Articles 13 or 15 shall, at the time of applying for entry in the register or later, declare their intention to engage in this activity, indicate the location of the processing plant and, where applicable, provide analytical lists of the processed products.
+
+#### Article 8 — Documents to be presented by operators and validity of licences and certificates
+
+1\. Subject to Articles 2(5), 3(6), 5(7) and Articles 11 and 12, the competent authorities shall accept the import licence, exemption certificate or aid certificate application presented by operators for each consignment. Those applications shall be accompanied by the original or a certified copy of the purchase invoice and the original, a certified copy or an authenticated electronic equivalent of the following documents:
+
+(a) regarding the import licence, or the exemption certificate:
+
+(i) the bill of lading or airway bill or multimodal transport document;
+
+(ii) the certificate of origin for products originating in third countries;
+
+(b) regarding the aid certificate:
+
+(i) the means of proof of the customs status of Union goods referred to in Article 199(1)(b) of Commission Implementing Regulation (EU) 2015/2447 ( 3 ); or
+
+(ii) a declaration type CO pursuant to Chapters 2 and 3 of Title VIII of Commission Delegated Regulation (EU) 2015/2446 ( 4 ) in accordance with data elements No 1/1, 1/2 and 1/3 referred to in the data requirements table set out in Section 1 of Chapter 3 of Title I of Annex B to that Regulation.
+
+Those accompanying documents may take the form of an electronic message. In case the verifying competent authority has no access to the IT system managing and producing such electronic document, it shall be replaced by a duly certified true copy or its authenticated electronic equivalent print-out.
+
+The purchase invoice, bill of lading or airway bill shall be drawn up in the name of the applicant.
+
+2\. The period of validity of licences and certificates shall be fixed on the basis of transportation time. That time may be extended by the competent authority in special cases where serious and unforeseeable difficulties affect the transportation time, but may not exceed two months from the date on which the licence or certificate was issued.
+
+#### Article 9 — Presentation of licences, certificates and goods
+
+1\. For the products covered by the specific supply arrangements, import licences, exemption certificates and aid certificates shall be presented to the customs authorities with a view to completing the customs formalities within no more than 15 working days from the date of the authorisation for unloading the goods. The competent authorities may reduce that maximum time.
+
+In the case of products which have been the subject of inward processing or customs warehousing in the Azores, Madeira and the Canary Islands and subsequently released into free circulation there, the maximum period of 15 days shall start on the date on which the licences or certificates referred to in first subparagraph are applied for.
+
+2\. The goods shall be presented in bulk or in separate lots corresponding to the licence or certificate presented.
+
+The licences and certificates shall be used for a single operation only when completing customs formalities.
+
+#### Article 10 — Quality of products
+
+Conformity of the products with the requirements laid down in Article 10(4) of Regulation (EU) No 228/2013 shall be examined no later than the stage of first marketing, in accordance with the standards or practices in force in the Union.
+
+Where the product is considered not to meet the requirements laid down in Article 10(4) of Regulation (EU) No 228/2013, its entitlement under the specific supply arrangements shall be withdrawn and the corresponding quantity shall be reattributed to the forecast supply balance. Where aid has been granted in accordance with Article 5 of this Regulation the aid shall be reimbursed. Where imports have been made in accordance with Articles 2 or 3 of this Regulation, the import duty shall be paid, unless the party concerned supplies proof that the products have been re-exported or destroyed.
+
+#### Article 11 — Significant increases in applications for licences and certificates
+
+1\. If the state of execution of a forecast supply balance indicates a significant increase in applications for import licences, exemption certificates or aid certificates for a given product which might jeopardise the achievement of one or more of the objectives of the specific supply arrangements, Member State shall take all necessary measures, after having consulted the authorities concerned, to ensure that the outermost region concerned is supplied with essential products, taking account of available supply and the requirements of priority sectors.
+
+2\. Where, after having consulted the authorities concerned, Member States decide to apply restrictions on the issue of licences and certificates, the competent authorities shall apply a uniform reduction percentage to all pending applications.
+
+#### Article 12 — Fixing the maximum quantity per licence or certificate application
+
+In so far as is strictly necessary to avoid disturbances on the market in the outermost regions concerned, or the pursuit of speculative actions likely to be prejudicial to the smooth functioning of the specific supply arrangements, the competent authorities may fix the maximum quantity per licence or certificate application.
+
+The competent authorities shall notify the Commission immediately of the instances in which this Article is applied.
+
+The notification referred to in this Article shall be made in accordance with Commission Delegated Regulation (EU) 2017/1183 ( 5 ) and Commission Implementing Regulation (EU) 2017/1185 ( 6 ).
+
+### SECTION 5 — Export and dispatch
+
+#### Article 13 — Conditions of export and dispatch
+
+1\. The export or dispatch of unprocessed products which have benefited from the specific supply arrangements, or packaged or processed products containing products which have benefited from the specific supply arrangements, shall be subject to the requirements laid down in paragraphs 2 to 6.
+
+2\. For exported products, box 44 of the export declaration shall contain one of the entries listed in Part H of Annex I.
+
+3\. Quantities of products which have been exempt from import duties and which are exported shall be reattributed to the forecast supply balance.
+
+Such products shall not be eligible for export refunds.
+
+4\. Quantities of products which have been exempt from import duties and are dispatched shall be reattributed to the forecast supply balance and the amount of the erga omnes import duties applicable on the day of importation shall be paid by the consignor by the time of dispatch at the latest.
+
+Such products shall not be dispatched until the payment referred to in the first subparagraph has taken place.
+
+Where it is impossible to establish the day of importation, products shall be considered to have been imported on the day on which the highest erga omnes import duties applied during the six-month period preceding the date of dispatch.
+
+5\. Quantities of products which have benefited from aid and are exported or dispatched shall be reattributed to the forecast supply balance and the aid granted shall be reimbursed by the exporter or consignor by the time of export or dispatch at the latest.
+
+Those products shall not be dispatched or exported until the reimbursement referred to in the first subparagraph has been made.
+
+Where it is impossible to establish the amount of aid granted, the products shall be considered to have received the highest rate of aid fixed by the Union for such products during the six-month period preceding the submission of the application for export or dispatch.
+
+Such products may benefit from an export refund, provided that the criteria for granting such aid are met.
+
+6\. The competent authorities shall authorise the export or dispatch of quantities of processed products other than those referred to in paragraphs 3, 4 and 5 of this Article and in Article 15 only where the exporter certifies that those products have not benefited from specific supply arrangements.
+
+The competent authorities shall authorise the re-export or re-dispatch of unprocessed products or packaged products other than those referred to in paragraphs 3, 4 and 5 of this Article only where the exporter certifies that those products have not benefited from specific supply arrangements.
+
+The competent authorities shall carry out the necessary checks to ensure the accuracy of the certificates referred to in the first and second subparagraphs and shall, if necessary, recover the advantage.
+
+#### Article 14 — Export licence and significant increase in exports
+
+1\. Export of the following products shall not be subject to the presentation of an export licence:
+
+(a) the products referred to in Article 13(3);
+
+(b) the products referred to in Article 13(5) which do not fulfil the conditions for a grant of an export refund.
+
+2\. If there is a risk that regular supplies to the outermost regions might be jeopardised by a significant increase in exports of the products referred to in Article 13(1), the competent authorities may restrict quantities in such a way as to ensure that priority needs in the sectors concerned are met. That quantitative restriction shall be applied in a non-discriminatory manner.
+
+#### Article 15 — Traditional exports, exports in the context of regional trade, and traditional dispatches of processed products
+
+1\. Processors who have declared, in accordance with Article 7(3), that they intend to export in the context of traditional trade flows or regional trade, or to dispatch in the context of traditional trade flows, as referred to in Article 14(2) of Regulation (EU) No 228/2013, processed products containing raw materials which have benefited from specific supply arrangements may do so within the limits of the annual quantities indicated in Annexes II to V to this Regulation. The competent authorities shall deliver the requisite authorisations in such a way as to ensure that transactions do not exceed those annual quantities.
+
+The list of the countries referred to in Article 14(3) of Regulation (EU) No 228/2013 is set out in Annex VI to this Regulation.
+
+For exports within the framework of regional trade, exporters shall submit the documents specified in Article 17 of Regulation (EC) No 612/2009 to the competent authorities within the time limits laid down in Article 46 of that Regulation. Where documents have not been submitted within those time limits, the competent authorities shall recover the advantage granted under the specific supply arrangements.
+
+2\. The export of products referred to in this Article shall not be subject to the presentation of an export licence.
+
+3\. For exported products referred to in this Article, box 44 of the export declaration shall contain one of the entries listed in Part I of Annex I.
+
+### SECTION 6 — Management, controls and monitoring
+
+#### Article 16 — Checks
+
+1\. The administrative checks carried out on the import, entry, export and dispatch of agricultural products shall be exhaustive and shall involve cross-checks with the documents referred to in Article 8(1).
+
+2\. The physical checks carried out in the outermost region concerned on the import or entry of agricultural products shall involve a representative sample amounting to at least 5 % of the licences and certificates presented in accordance with Article 9.
+
+The physical checks carried out in the outermost region concerned on the export or dispatch provided for in Section 5 shall involve a representative sample of at least 5 % of the operations, based on the risk profiles established by the Member States.
+
+Commission Regulation (EC) No 1276/2008 ( 7 ) shall apply mutatis mutandis to those physical checks.
+
+In addition, in special cases the Commission may request that physical checks cover different percentages.
+
+#### Article 17 — National management and monitoring rules
+
+The competent authorities shall adopt the additional rules needed to manage and monitor the specific supply arrangements in real time.
+
+Upon request of the Commission, they shall notify the Commission of any measures they implement pursuant to the first paragraph.
+
+## CHAPTER II — MEASURES TO SUPPORT LOCAL AGRICULTURAL PRODUCTS
+
+### SECTION 1 — Aid applications
+
+#### Article 18 — Submission of applications
+
+Aid applications for a calendar year shall be submitted to the office designated by the competent authorities of the Member State in accordance with the specimens drawn up by the latter and within the periods they have laid down. Those periods shall be fixed so as to allow time for the necessary on-the-spot checks and shall not run beyond 28 February of the following calendar year.
+
+#### Article 19 — Correction of manifest errors
+
+An aid application may be rectified at any time after its submission where a manifest error is recognised by the competent authority.
+
+#### Article 20 — Late submission of applications
+
+Except in cases of force majeure and exceptional circumstances, submission of an aid application after the time limit laid down in accordance with Article 18 shall lead to a 1 % reduction per working day in the amounts to which the aid applicant would have been entitled if the aid application had been lodged within the time limit. If the delay amounts to more than 25 days, the application shall be considered inadmissible.
+
+#### Article 21 — Withdrawal of aid applications
+
+1\. An aid application may be totally or partially withdrawn at any time.
+
+However, where the competent authority has already informed the aid applicant of irregularities in the aid application or has given notice to the applicant of its intention to carry out an on-the-spot check and this check reveals irregularities, withdrawal shall not be authorised in respect of the parts of the aid application affected by those irregularities.
+
+2\. Withdrawal under paragraph 1 shall return the claimant to the situation prior to submitting an aid application or part of the aid application in question.
+
+### SECTION 2 — Checks
+
+#### Article 22 — General principles
+
+Verification shall be made by administrative and on-the-spot checks.
+
+Administrative checks shall be exhaustive and shall include cross-checks with, inter alia, data from the integrated administration and control system provided for in Chapter II of Title V, Chapter II of Title VI and Articles 47, 61 and 102, paragraph 3 of Regulation (EU) No 1306/2013 of the European Parliament and of the Council ( 8 ).
+
+On the basis of a risk analysis in accordance with Article 24(1) of this Regulation, the competent authorities shall perform on-the-spot checks by sampling, for each action, at least 5 % of aid applications. The sample shall also represent at least 5 % of the amounts covered by the aid for each action.
+
+In all appropriate cases, Member States shall make use of the integrated administration and control system.
+
+#### Article 23 — On-the-spot checks
+
+1\. On-the-spot checks shall be unannounced. However, provided that the purpose of the check is not compromised, advance notice limited to the strict minimum necessary may be given. Such notice shall not exceed 48 hours, except in duly justified cases.
+
+2\. Where applicable, the on-the-spot checks provided for in this Section shall be carried out in conjunction with any other checks provided for by Union legislation.
+
+3\. The aid application or applications concerned shall be rejected if the applicants for aid or their representatives prevent an on-the-spot check from being carried out.
+
+4\. On-the-spot checks may be executed remotely, with the use of suitable technology, provided that such checks ensure an equivalent level of assurance as checks carried out on the spot.
+
+#### Article 24 — Selection of aid applicants to be subjected to on-the-spot checks
+
+1\. Aid applicants shall be selected to undergo on-the-spot checks by the competent authority on the basis of a risk analysis and the representativeness of the aid applications submitted. The risk analysis shall take account of:
+
+(a) the amount of aid;
+
+(b) the number of agricultural parcels, the surface area and the number of animals covered by the aid application, or the quantity produced, transported, processed or marketed;
+
+(c) changes in comparison with the previous year;
+
+(d) the findings of checks performed in the preceding years;
+
+(e) other parameters to be defined by the Member States.
+
+To provide the element of representativeness, Member States shall randomly select between 20 and 25 % of the minimum number of aid applicants to be subjected to on-the-spot checks. When the minimum number of aid applicants to be subjected to on-the-spot checks is lower than 12, Member States shall randomly select at least one applicant.
+
+2\. The competent authority shall keep records of the reasons why specific aid applicants were selected for on-the-spot checks. The inspector performing the on-the-spot check shall be informed of those reasons before beginning the check.
+
+#### Article 25 — Inspection report
+
+1\. Every on-the-spot check shall be the subject of an inspection report relating the details of the checks carried out. Reports shall indicate in particular:
+
+(a) the aid scheme and applications checked;
+
+(b) the persons present;
+
+(c) the agricultural parcels checked, the agricultural parcels measured, the results of the measurements per parcel measured and the measuring methods used;
+
+(d) the number and type of animals found and, where applicable, the ear tag numbers, entries in the register and in the computerised database for bovine animals and any supporting documents checked, the results of the checks and, where applicable, particular observations in respect of individual animals or their identification code;
+
+(e) the quantities produced, transported, processed or marketed which are covered by the check;
+
+(f) whether advance notice was given to the aid applicant of the visit and, if so, how much;
+
+(g) any further control measures carried out.
+
+2\. Aid applicants or their representatives shall be given the opportunity to sign the report to attest their presence at the check and to add observations. Where irregularities are found the aid applicant shall receive a copy of the inspection report.
+
+Where the on-the-spot check is carried out by remote-sensing, the Member States may decide not to give the aid applicants or their representatives the opportunity to sign the inspection report if no irregularities are revealed during the check by remote-sensing.
+
+### SECTION 3 — Reductions and exclusions, and undue payments
+
+#### Article 26 — Reductions and exclusions
+
+In the event of a discrepancy between the information declared in the context of aid applications and the findings of the checks provided for in Section 2, the Member State concerned shall apply reductions and exclusions to the aid. Those reductions and exclusions shall be effective and proportionate and shall act as a deterrent.
+
+#### Article 27 — Exceptions to the application of reductions and exclusions
+
+1\. The reductions and exclusions provided for in Article 26 shall not apply where the aid applicant submitted factually correct information or can otherwise show that he or she is not at fault.
+
+2\. The reductions and exclusions shall not apply with regard to those parts of the aid application which the aid applicant informs the competent authority in writing are incorrect or have become incorrect since it was lodged, provided that the competent authority has not already informed the aid applicant of its intention to carry out an on-the-spot check or of any irregularity in the application.
+
+On the basis of the information given by the aid applicant as referred to in the first subparagraph, the aid application shall be rectified to reflect the actual situation.
+
+#### Article 28 — Recovery of undue payments and penalties
+
+1\. In the event of undue payment, Article 7 of Commission Implementing Regulation (EU) No 809/2014 ( 9 ) shall apply mutatis mutandis.
+
+2\. Where the undue payment has been made as a result of a false declaration, false documents or serious negligence on the part of the aid applicant, a penalty shall be imposed equal to the amount unduly paid, with interest calculated in accordance with Article 7(2) of Implementing Regulation (EU) No 809/2014.
+
+#### Article 29 — Force majeure and exceptional circumstances
+
+In cases of force majeure or exceptional circumstances within the meaning of Article 2(2) of Regulation (EU) No 1306/2013, Article 4 of Commission Delegated Regulation (EU) No 640/2014 ( 10 ) shall apply mutatis mutandis.
+
+## CHAPTER III — ACCOMPANYING MEASURES
+
+### SECTION 1 — Logo
+
+#### Article 30 — Checking of conditions for use of the logo
+
+The competent authorities shall regularly check that the approved operators fulfil the conditions for the use of the logo referred to in Article 5 of Delegated Regulation (EU) No 179/2014 and the undertakings provided for in Article 6(4) of that Delegated Regulation.
+
+The competent authorities may delegate the performance of those checks to qualified bodies possessing the requisite technical competence and impartiality. In such cases, the bodies shall report regularly to them on the performance of their checks.
+
+#### Article 31 — Misuse of and publicity for the logo
+
+Member States shall apply the relevant existing national provisions to prevent and, where necessary, penalise cases of misuse of the logo or adopt the measures required to that end. Upon request of the Commission, they shall notify the Commission of the measures applicable.
+
+Member States shall provide appropriate publicity for the logo and for the products for which it may be used.
+
+#### Article 32 — National measures
+
+1\. The competent authorities shall adopt any additional administrative measures necessary to manage the logo scheme. Those measures may include, in particular, charging approved operators a fee to cover printing of the logo, and administrative and inspection costs.
+
+2\. Upon request of the Commission, the competent authorities shall notify the Commission of the services or, as appropriate, bodies responsible for granting the approval provided for in Article 6(3) of Delegated Regulation (EU) No 179/2014 and for carrying out the checks required under this Section as well as of the additional measures referred to in paragraph 1 of this Article.
+
+3\. Upon request of the Commission, the competent authorities shall notify the Commission of the granted approvals of the right to use the logo referred to in Article 6(3) of Delegated Regulation (EU) No 179/2014, by indicating the names and the seats of the producers, the products, and the period for which such rights were granted.
+
+### SECTION 2 — Animal products
+
+#### Article 33 — Livestock farming
+
+1\. The import of young male bovine animals originating from third countries falling under CN codes 0102 29 05 , 0102 29 29 or 0102 29 49 and intended for fattening and consumption in the French overseas departments or Madeira shall not be subject to customs duties until the local numbers of young male bovines reach a level sufficient to ensure the maintenance and development of local beef and veal production.
+
+2\. In order to benefit from the exemption provided for in paragraph 1, the importer or applicant shall demonstrate that he fulfils the conditions set out in Article 8 of Delegated Regulation (EU) No 179/2014 by submitting:
+
+(a) a written declaration, made on the arrival of the animals in the French overseas departments or Madeira, to the effect that the bovines are intended for fattening there for at least 120 days from their actual date of arrival and will be consumed there afterwards;
+
+(b) a written undertaking, made on the arrival of the animals, to inform the competent authorities, within one month of their date of arrival, of the holding or holdings where the animals are to be fattened.
+
+### SECTION 3 — Importation of tobacco into the Canary Islands
+
+#### Article 34 — Exemption of tobacco from customs duties
+
+1\. The annual period for calculating the maximum annual quantity of tobacco to be exempted from import duties when directly imported into the Canary Islands, as referred to in the third subparagraph of Article 29(1) of Regulation (EU) No 228/2013 shall run from 1 January of any year to 31 December of the same year.
+
+2\. The quantities of raw and semi-manufactured tobacco referred to in Article 29(1) of Regulation (EU) No 228/2013 shall be converted into quantities of unmanufactured stemmed/stripped tobacco on the basis of the coefficients of equivalence set out in Annex VII to this Regulation for the products concerned.
+
+#### Article 35 — Conditions for exemption
+
+1\. Importation of the products listed in Annex VII shall be subject to the presentation of a certificate of exemption. Box 20 of applications for certificates and certificates themselves shall contain one of the entries listed in Part J of Annex I.
+
+Except where otherwise provided in this Regulation, Articles 3, 7 to 10, 12 and 16 of this Regulation, Article 1 of Delegated Regulation (EU) No 179/2014 and Article 12(2) and Article 18 of Regulation (EU) No 228/2013 shall apply mutatis mutandis.
+
+2\. The competent authorities shall ensure that the products listed in Annex VII are used in compliance with the relevant Union rules, and in particular Articles 211, 214, 215, 218, 219 and 254 of Regulation (EU) No 952/2013 of the European Parliament and of the Council ( 11 ), Articles 161 to 164, 171 to 175, 178, 179 and 239 of Delegated Regulation (EU) 2015/2446 and Articles 260 to 269 of Implementing Regulation (EU) 2015/2447.
+
+## CHAPTER IV — GENERAL AND FINAL PROVISIONS
+
+#### Article 36 — Aid payments
+
+After verifying the aid applications and the relevant supporting documents, and calculating the amounts to be granted under the POSEI programmes referred to in Chapter II of Regulation (EU) No 228/2013, the competent authorities shall pay the aid for a calendar year as follows:
+
+(a) in the case of the specific supply arrangements, of the measures of import and supply of live animals and of the measures referred to in Article 9 of Delegated Regulation (EU) No 179/2014 throughout the year;
+
+(b) in the case of direct payments, in accordance with Article 75 of Regulation (EU) No 1306/2013;
+
+(c) in the case of other payments, during the period beginning on 16 October of the current year and ending on 30 June of the following year.
+
+#### Article 37 — Performance indicators
+
+Every year, Member States shall notify the Commission of at least the data relating to the performance indicators laid down in Annex VIII for each of their outermost regions.
+
+That data shall be notified in the context of the annual implementation report referred to in Article 32(2) of Regulation (EU) No 228/2013.
+
+#### Article 38 — Notifications
+
+1\. As regards the specific supply arrangements, the competent authorities shall notify the Commission, no later than 31 May each year, of the following data relating to the operations carried out in the previous year with respect to the supply balance of the reference calendar year, broken down by product and CN code and, where applicable, by individual destination:
+
+(a) the quantities broken down according to whether they are imported from third countries or dispatched from the Union;
+
+(b) the amount of aid and the expenditure actually paid by product and, where applicable, by individual destination;
+
+(c) the quantities for which licences and certificates have not been utilised, broken down by category of licence or certificate;
+
+(d) any quantities re-exported or re-dispatched under Article 13 and the unit amounts and totals of recovered aid;
+
+(e) any quantities re-exported or re-dispatched after processing in accordance with Article 15;
+
+(f) transfers within an overall quantity for a category of products and amendments to the forecast supply balances during the period;
+
+(g) the available balance and the utilisation rate.
+
+The data provided for in the first subparagraph shall be supplied on the basis of the licences and certificates utilised. —————
+
+2\. As regards support for local production, the Member States shall notify the Commission of the aid applications received as well as the aid applications definitely eligible and the amounts involved for the previous calendar year upon the request of the Commission.
+
+3\. The notifications referred to in paragraph 1 of this Article shall be made in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+4\. The notifications referred to in Article 23(3) and 32(1) of Regulation (EU) No 228/2013 shall also be made in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+#### Article 39 — Annual report
+
+1\. The structure and content of the annual report referred to in Article 32(2) of Regulation (EU) No 228/2013 shall be as set out in Annex IX to this Regulation.
+
+2\. The report referred to in paragraph 1 shall be submitted to the Commission in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+#### Article 40 — Amendments to programmes
+
+1\. Amendments made to each POSEI programme shall be submitted by Member States to the Commission once per calendar year and per programme, except in cases of force majeure or exceptional circumstances. They shall be sent to the Commission no later than 31 July of the year prior to their application. The amendments shall be duly substantiated, in particular by giving the following information:
+
+(a) the reasons for any implementation problems justifying the amendment of the programme;
+
+(b) the expected effects of the amendment;
+
+(c) the implications for financing and eligibility conditions.
+
+The Commission shall inform the Member State if it considers that the amendments do not comply with Union legislation, in particular with Article 4 of Regulation (EU) No 228/2013, without prejudice to the Articles 51 and 52 of Regulation (EU) No 1306/2013.
+
+The amendments shall apply from 1 January of the year following that in which they were notified. In case an earlier application is deemed necessary, such amendments may apply earlier, unless the Commission objects.
+
+2\. By way of derogation from paragraph 1, the Commission shall evaluate separately the following amendments proposed by the Member States and decide on their approval within five months of their submission at the latest in accordance with the procedure referred to in Article 34(2) of Regulation (EU) No 228/2013:
+
+(a) the accession of a new outermost region;
+
+(b) the introduction into the general programme of new groups of products to be supported under the specific supply arrangements or of new measures to assist the local agricultural production.
+
+The amendments thus approved shall apply from 1 January of the year following that in which the proposal for an amendment was made or as from the date explicitly indicated in the approval decision.
+
+3\. Member States may make the following amendments without recourse to the procedure set out in paragraph 1, provided that the amendments are notified to the Commission:
+
+(a) in the case of forecast supply balances, changes in the individual level of aid up to 20 % or changes in the quantities of the products concerned covered by the supply balance and, consequently, the global amount of aid allocated to support each line of products;
+
+(b) as regards all measures, adjustments up to 20 % of the financial allocation for each individual measure, without prejudice to the financial ceilings provided for in Article 30 of Regulation (EU) No 228/2013, on condition that such adjustments are notified not later than 31 May of the year following the calendar year to which the amended financial allocation refers. However, if the adjustment consists in increasing the amount of a measure by complementary national funding, it may go up to 50 % of the financial allocation for each individual measure in duly justified circumstances, communicated to the Commission in accordance with the requirement laid down in paragraph 4 of this Article;
+
+(c) changes following amendments to codes and descriptions laid down in Council Regulation (EEC) No 2658/87 ( 12 ) used to identify the products benefiting from aid, as long as those amendments do not entail a change of the products themselves.
+
+4\. The amendments referred to in paragraph 3 shall not apply before the date on which they are received by the Commission. They shall be duly explained and justified and may be implemented only once per year except in the following cases:
+
+(a) force majeure or exceptional circumstances;
+
+(b) amendment of the quantities of products covered by the supply arrangements;
+
+(c) changes following amendments to codes and descriptions laid down in Regulation (EEC) No 2658/87.
+
+4a. Member States may amend their POSEI programmes for the year 2026 without recourse to the procedure set out in paragraph 1 if they amend their CAP Strategic Plans to transfer part of the amount in their CAP Strategic Plans set aside for their outermost regions, which is part of the amount allocated for rural development financial year 2027 under Annex XI to Regulation (EU) 2021/2115 of the European Parliament and of the Council ( 13 ) to POSEI programmes in accordance with Article 103(6) of that Regulation.
+
+These amendments shall be duly described and justified. They shall include an update of the general annual indicative financing table referred to in Article 5, point (a), of Regulation (EU) No 228/2013 as well as an updated list of the aid constituting direct payments referred to in Article 19(2), point (d), of that Regulation. Member States shall notify the amendment from the date of submission of the request for strategic amendment of the CAP Strategic Plan referred to in Article 103(6) of Regulation (EU) 2021/2115 and no later than 30 May 2026. The Commission shall inform the Member State within 30 days if it considers that the amendments do not comply with Union legislation, in particular with Article 4 of Regulation (EU) No 228/2013, without prejudice to Articles 53 and 55 of Regulation (EU) 2021/2116 of the European Parliament and of the Council ( 14 ). The amendment to the POSEI programme becomes applicable at the end of the 30 day deadline, or after the notified amendment is appropriately corrected if the Commission informed the Member States of non-compliance with Union legislation, provided that the amendment to the CAP Strategic Plan has been previously approved.
+
+The amendments concerning support to local production and specific supply arrangements shall apply to payments made to beneficiaries from 16 October 2026 to 15 October 2027.
+
+5\. For the purposes of this Article the following definitions shall apply:
+
+(a) ‘measure’ means the grouping of actions necessary to achieve one or more objectives for the programme constituting a line for which a financial allocation is defined in the financing table referred to in Article 5(a) of Regulation (EU) No 228/2013;
+
+(b) ‘group of products’ means all products sharing the first two digits of the CN code as provided for in Regulation (EEC) No 2658/87.
+
+6\. The notifications referred to in this Article shall be made in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+#### Article 41 — Reduction of advances
+
+Without prejudice to the general rules on budgetary discipline, where the information transmitted by the Member States to the Commission under Articles 38 and 39 is incomplete or the time limit for transmitting that information has not been complied with, the Commission may reduce advances on entry in the accounts of agricultural expenditure on a temporary and flat-rate basis.
+
+#### Article 42 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Part A**
+
+Entries referred to in Article 2(3):
+
+— in Bulgarian, one of the following entries:
+
+— „продукти за директна консумация“
+
+— „продукти за преработвателната и/или опаковъчната промишленост“
+
+— „продукти, предназначени за използване като производствени ресурси за селското стопанство“
+
+— „животни от рода на едрия рогат добитък, внасяни за угояване“
+
+— in Spanish, one of the following entries:
+
+— «Productos destinados al consumo directo»
+
+— «Productos destinados a la industria de transformación o acondicionamiento»
+
+— «Productos destinados a ser utilizados como insumos agrarios»
+
+— «Animales importados de la especie bovina, destinados al engorde»
+
+— in Czech, one of the following entries:
+
+— „produkty pro přímou spotřebu“
+
+— „produkty pro zpracovatelský a/nebo balicí průmysl“
+
+— „produkty určené pro použití jako zemědělské vstupy“
+
+— „dovezený skot pro výkrm“
+
+— in Danish, one of the following entries:
+
+— »produkter til direkte konsum«
+
+— »produkter til forarbejdnings- og/eller emballeringsindustrien«
+
+— »produkter, der skal anvendes som rå- og hjælpestoffer«
+
+— »importeret kvæg til opfedning«
+
+— in German, one of the following entries:
+
+— „Erzeugnisse für den direkten Verbrauch“
+
+— „Erzeugnisse für die Verarbeitungs- bzw. Verpackungsindustrie“
+
+— „zur Verwendung als landwirtschaftliche Betriebsstoffe bestimmte Erzeugnisse“
+
+— „zur Mast eingeführte Rinder“
+
+— in Estonian, one of the following entries:
+
+— „otsetarbimiseks ettenähtud tooted”
+
+— „tooted töötlevale ja/või pakenditööstusele”
+
+— „põllumajanduslikuks tooraineks ettenähtud tooted”
+
+— „imporditud nuumveised”
+
+— in Greek, one of the following entries:
+
+— «προϊόντα που προορίζονται για άμεση κατανάλωση»
+
+— «προϊόντα που προορίζονται για τις βιομηχανίες μεταποίησης ή/και συσκευασίας»
+
+— «προϊόντα που προορίζονται για χρήση ως γεωργικές εισροές»
+
+— «εισαγόμενα βοοειδή προς πάχυνση»
+
+— in English, one of the following entries:
+
+— ‘products for direct consumption’
+
+— ‘products for the processing and/or packaging industry’
+
+— ‘products intended for use as agricultural inputs’
+
+— ‘bovine animals imported for fattening’
+
+— in French, one of the following entries:
+
+— «produits destinés à la consommation directe»
+
+— «produits destinés aux industries de transformation et/ou de conditionnement»
+
+— «produits destinés à être utilisés comme intrants agricoles»
+
+— «animaux bovins pour l'engraissement importés»
+
+— in Croatian, one of the following entries:
+
+— „proizvodi za izravnu potrošnju”
+
+— „proizvodi za prerađivačku industriju i/ili industriju ambalaže”
+
+— „proizvodi namijenjeni za uporabu kao faktori u poljoprivrednoj proizvodnji”
+
+— „životinje vrste goveda uvezene za tov”
+
+— in Italian, one of the following entries:
+
+— «prodotti destinati al consumo diretto»
+
+— «prodotti destinati alle industrie di trasformazione e/o di condizionamento»
+
+— «prodotti destinati ad essere utilizzati come fattori di produzione agricoli»
+
+— «bovini destinati all’ingrasso importati»
+
+— in Latvian, one of the following entries:
+
+— “tiešam patēriņam paredzēti produkti”
+
+— “produkti, kas paredzēti pārstrādei un/vai iesaiņošanai”
+
+— “produkti, kas ir lauksaimniecībā izmantojamās vielas”
+
+— “ievesti liellopi nobarošanai”
+
+— in Lithuanian, one of the following entries:
+
+— „tiesiogiai vartoti skirti produktai“
+
+— „perdirbimo ir/arba pakavimo pramonei skirti produktai“
+
+— „produktai, skirti naudoti kaip žemės ūkio ištekliai“
+
+— „importuojami galvijai, skirti penėjimui“
+
+— in Hungarian, one of the following entries:
+
+— „közvetlen fogyasztásra szánt termékek”
+
+— „a feldolgozó- és/vagy a csomagolóipar számára szánt termékek”
+
+— „mezőgazdasági inputanyagként felhasználandó termékek”
+
+— „importált, hízlalásra szánt szarvasmarhafélék”
+
+— in Maltese, one of the following entries:
+
+— “prodotti maħsuba għall-konsum dirett”
+
+— “prodotti maħsuba għall-industriji tat-trasformazzjoni u/jew ta’ l-imballaġġ”
+
+— “prodotti maħsuba għall-użu agrikolu”
+
+— “bhejjem ta’ l-ifrat għat-tismin importati”
+
+— in Dutch, one of the following entries:
+
+— „producten voor rechtstreekse consumptie”
+
+— „producten voor de verwerkende industrie en/of de verpakkingsindustrie”
+
+— „producten voor gebruik als landbouwproductiemiddel”
+
+— „ingevoerde mestrunderen”
+
+— in Polish, one of the following entries:
+
+— „produkty przeznaczone do bezpośredniego spożycia”
+
+— „produkty przeznaczone do przetworzenia i/lub opakowania”
+
+— „produkty przeznaczone do użycia jako nakłady rolnicze”
+
+— „bydło importowane przeznaczone do opasu”
+
+— in Portuguese, one of the following entries:
+
+— «produtos destinados ao consumo directo»
+
+— «produtos destinados às indústrias de transformação e/ou de acondicionamento»
+
+— «produtos destinados a ser utilizados como factores de produção agrícola»
+
+— «bovinos de engorda importados»
+
+— in Romanian, one of the following entries:
+
+— „produse destinate consumului direct”
+
+— „produse pentru industria prelucrătoare și/sau de ambalare”
+
+— „produse destinate a fi utilizate ca factori de producție agricolă”
+
+— „bovine importate pentru îngrășat”
+
+— in Slovak, one of the following entries:
+
+— „výrobky určené na priamu spotrebu“
+
+— „výrobky určené pre spracovateľský a/alebo baliarenský priemysel“
+
+— „výrobky určené na použitie ako poľnohospodárske vstupy“
+
+— „dovezený hovädzí dobytok určený na výkrm“
+
+— in Slovene, one of the following entries:
+
+— „proizvodi, namenjeni za neposredno prehrano“
+
+— „proizvodi, namenjeni predelovalni in/ali pakirni industriji“
+
+— „proizvodi, namenjeni za kmetijske vložke“
+
+— „uvoženo govedo za pitanje“
+
+— in Finnish, one of the following entries:
+
+— ”suoraan kulutukseen tarkoitettuja tuotteita”
+
+— ”jalostus- ja/tai pakkausteollisuuteen tarkoitettuja tuotteita”
+
+— ”maatalouden tuotantopanoksiksi tarkoitettuja tuotteita”
+
+— ”tuotuja lihotukseen tarkoitettuja nautoja”
+
+— in Swedish, one of the following entries:
+
+— ”produkter avsedda för direkt konsumtion”
+
+— ”produkter avsedda för bearbetning eller förpackning”
+
+— ”produkter avsedda att användas som insatsvaror i jordbruket”
+
+— ”importerade nötkreatur, avsedda för gödning”
+
+**Part B**
+
+Entries referred to in Article 2(3) and Article 3(4):
+
+— in Bulgarian: „освобождаване от вносни мита“ и „сертификат за използване в (име на най-отдалечения регион)“
+
+— in Spanish: «Exención de los derechos de importación» y «Certificado destinado a ser utilizado en [nombre de la región ultraperiférica]»
+
+— in Czech: „osvobození od dovozních cel“ a „osvědčení pro použití v [název nejvzdálenějšího regionu]“
+
+— in Danish: »fritagelse for importtold« og »licensen skal anvendes i [fjernområdets navn]«
+
+— in German: „Befreiung von den Einfuhrzöllen“ und „zu verwenden in [Name der Region in äußerster Randlage]“
+
+— in Estonian: „imporditollimaksudest vabastatud” ja „[kus (äärepoolseima piirkonna nimi)] kasutamiseks ettenähtud litsents”
+
+— in Greek: «απαλλαγή από τους εισαγωγικούς δασμούς» και «πιστοποιητικό προς χρήση στην [όνομα της ιδιαίτερα απομακρυσμένης περιφέρειας]»
+
+— in English: ‘exemption from import duties’ and ‘certificate to be used in [name of the outermost region]’
+
+— in French: «exonération des droits à l'importation» et «certificat à utiliser dans [nom de la région ultrapériphérique]»
+
+— in Croatian: „izuzeće od uvoznih carina” i „potvrda koja se koristi u (ime najudaljenije regije)”
+
+— in Italian: «esenzione dai dazi all’importazione» e «titolo destinato a essere utilizzato in [nome della regione ultraperiferica]»
+
+— in Latvian: “atbrīvojums no ievedmuitas nodokļa” un “sertifikāts jāizmanto [attālākā reģiona nosaukums]”
+
+— in Lithuanian: „atleidimas nuo importo muitų“ ir „sertifikatas, skirtas naudoti [atokiausio regiono pavadinimas]“
+
+— in Hungarian: „behozatali vám alóli mentesség” és „[a legkülső régió neve]-i felhasználásra szóló engedély”
+
+— in Maltese: “eżenzjoni tad-dazji fuq l-importazzjoni” u “ċertifikat għall-użi fi [isem ir-reġjun ultraperiferiku]”
+
+— in Dutch: „vrijstelling van invoerrechten” en „in [naam van het ultraperifere gebied] te gebruiken certificaat”
+
+— in Polish: „zwolnienie z należności przywozowych” i „świadectwo stosowane w [nazwa danego regionu najbardziej oddalonego]”
+
+— in Portuguese: «isenção dos direitos de importação» e «certificado a utilizar em [nome da região ultraperiférica]»
+
+— in Romanian: „scutire de taxe vamale la import” și „certificat pentru utilizare în (numele regiunii ultraperiferice)”
+
+— in Slovak: „oslobodenie od dovozného cla“ a „osvedčenie určené na použitie v [názov najvzdialenejšieho regiónu]“
+
+— in Slovene: „oprostitev uvoznih dajatev“ in „dovoljenje se uporabi v [ime najbolj oddaljene regije]“
+
+— in Finnish: ”vapautettu tuontitulleista” ja ”(syrjäisimmän alueen nimi) käytettävä todistus”
+
+— in Swedish: ”tullbefrielse” och ”intyg som skall användas i [randområdets namn]”
+
+**Part C**
+
+Entries referred to in Article 3(3):
+
+— in Bulgarian: „сертификат за освобождаване“
+
+— in Spanish: «Certificado de exención»
+
+— in Czech: „osvědčení o osvobození“
+
+— in Danish: »fritagelseslicens«
+
+— in German: „Freistellungsbescheinigung“
+
+— in Estonian: „vabastussertifikaat”
+
+— in Greek: «πιστοποιητικό απαλλαγής»
+
+— in English: ‘exemption certificate’
+
+— in French: «certificat d'exonération»
+
+— in Croatian: „potvrda o izuzeću”
+
+— in Italian: «titolo di esenzione»
+
+— in Latvian: “atbrīvojuma apliecība”
+
+— in Lithuanian: „atleidimo nuo importo muitų sertifikatas“
+
+— in Hungarian: „mentességi bizonyítvány”
+
+— in Maltese: “ċertifikat ta’ eżenzjoni”
+
+— in Dutch: „vrijstellingscertificaat”
+
+— in Polish: „świadectwo zwolnienia”
+
+— in Portuguese: «certificado de isenção»
+
+— in Romanian: „certificat de scutire”
+
+— in Slovak: „osvedčenie o oslobodení od cla“
+
+— in Slovene: „potrdilo o oprostitvi“
+
+— in Finnish: ”vapautustodistus”
+
+— in Swedish: ”intyg om tullbefrielse”
+
+**Part D**
+
+Entries referred to in Article 3(4):
+
+— in Bulgarian, one of the following entries:
+
+— „продукти за преработвателната и/или опаковъчната промишленост“
+
+— „продукти за директна консумация“
+
+— „продукти, предназначени за използване като производствени ресурси за селското стопанство“
+
+— in Spanish, one of the following entries:
+
+— «Productos destinados a la industria de transformación o acondicionamiento»
+
+— «Productos destinados al consumo directo»
+
+— «Productos destinados a ser utilizados como insumos agrarios»
+
+— in Czech, one of the following entries:
+
+— „produkty pro zpracovatelský a/nebo balicí průmysl“
+
+— „produkty pro přímou spotřebu“
+
+— „produkty určené pro použití jako zemědělské vstupy“
+
+— in Danish, one of the following entries:
+
+— »produkter til forarbejdnings- og/eller emballeringsindustrien«
+
+— »produkter til direkte konsum«
+
+— »produkter, der skal anvendes som rå- og hjælpestoffer«
+
+— in German, one of the following entries:
+
+— „Erzeugnisse für die Verarbeitungs- bzw. Verpackungsindustrie“
+
+— „Erzeugnisse für den direkten Verbrauch“
+
+— „zur Verwendung als landwirtschaftliche Betriebsstoffe bestimmte Erzeugnisse“
+
+— in Estonian, one of the following entries:
+
+— „tooted töötlevale ja/või pakenditööstusele”
+
+— „otsetarbimiseks ettenähtud tooted”
+
+— „põllumajanduslikuks tooraineks ettenähtud tooted”
+
+— in Greek, one of the following entries:
+
+— «προϊόντα που προορίζονται για τις βιομηχανίες μεταποίησης ή/και συσκευασίας»
+
+— «προϊόντα που προορίζονται για άμεση κατανάλωση»
+
+— «προϊόντα που προορίζονται για χρήση ως γεωργικές εισροές»
+
+— in English, one of the following entries:
+
+— ‘products for the processing and/or packaging industry’
+
+— ‘products for direct consumption’
+
+— ‘products intended for use as agricultural inputs’
+
+— in French, one of the following entries:
+
+— «produits destinés aux industries de transformation et/ou de conditionnement»
+
+— «produits destinés à la consommation directe»
+
+— «produits destinés à être utilisés comme intrants agricoles»
+
+— in Croatian, one of the following entries:
+
+— „proizvodi za prerađivačku industriju i/ili industriju ambalaže”
+
+— „proizvodi za izravnu potrošnju”
+
+— „proizvodi namijenjeni za uporabu kao faktori u poljoprivrednoj proizvodnji”
+
+— in Italian, one of the following entries:
+
+— «prodotti destinati alle industrie di trasformazione e/o di condizionamento»
+
+— «prodotti destinati al consumo diretto»
+
+— «prodotti destinati ad essere utilizzati come fattori di produzione agricoli»
+
+— in Latvian, one of the following entries:
+
+— “produkti, kas paredzēti pārstrādei un/vai iesaiņošanai”
+
+— “tiešam patēriņam paredzēti produkti”
+
+— “produkti, kas ir lauksaimniecībā izmantojamās vielas”
+
+— in Lithuanian, one of the following entries:
+
+— „perdirbimo ir/arba pakavimo pramonei skirti produktai“
+
+— „tiesiogiai vartoti skirti produktai“
+
+— „produktai, skirti naudoti kaip žemės ūkio ištekliai“
+
+— in Hungarian, one of the following entries:
+
+— „a feldolgozó- és/vagy a csomagolóipar számára szánt termékek”
+
+— „közvetlen fogyasztásra szánt termékek”
+
+— „mezőgazdasági inputanyagként felhasználandó termékek”
+
+— in Maltese, one of the following entries:
+
+— “prodotti maħsuba għall-industriji tat-trasformazzjoni u/jew ta’ l-imballaġġ”
+
+— “prodotti maħsuba għall-konsum dirett”
+
+— “prodotti maħsuba għall-użu agrikolu”
+
+— in Dutch, one of the following entries:
+
+— „producten voor de verwerkende industrie en/of de verpakkingsindustrie”
+
+— „producten voor rechtstreekse consumptie”
+
+— „producten voor gebruik als landbouwproductiemiddel”
+
+— in Polish, one of the following entries:
+
+— „produkty przeznaczone do przetworzenia i/lub opakowania”
+
+— „produkty przeznaczone do bezpośredniego spożycia”
+
+— „produkty przeznaczone do użycia jako nakłady rolnicze”
+
+— in Portuguese, one of the following entries:
+
+— «produtos destinados às indústrias de transformação e/ou de acondicionamento»
+
+— «produtos destinados ao consumo directo»
+
+— «produtos destinados a ser utilizados como factores de produção agrícola»
+
+— in Romanian, one of the following entries:
+
+— „produse pentru industria prelucrătoare și/sau de ambalare”
+
+— „produse destinate consumului direct”
+
+— „produse destinate a fi utilizate ca factori de producție agricolă”
+
+— in Slovak, one of the following entries:
+
+— „výrobky určené pre spracovateľský a/alebo baliarenský priemysel“
+
+— „výrobky určené na priamu spotrebu“
+
+— „výrobky určené na použitie ako poľnohospodárske vstupy“
+
+— in Slovene, one of the following entries:
+
+— „proizvodi, namenjeni predelovalni in/ali pakirni industriji“
+
+— „proizvodi, namenjeni za neposredno prehrano“
+
+— „proizvodi, namenjeni za kmetijske vložke“
+
+— in Finnish, one of the following entries:
+
+— ”jalostus- ja/tai pakkausteollisuuteen tarkoitettuja tuotteita”
+
+— ”suoraan kulutukseen tarkoitettuja tuotteita”
+
+— ”maatalouden tuotantopanoksiksi tarkoitettuja tuotteita”
+
+— in Swedish, one of the following entries:
+
+— ”produkter avsedda för bearbetning eller förpackning”
+
+— ”produkter avsedda för direkt konsumtion”
+
+— ”produkter avsedda att användas som insatsvaror i jordbruket”
+
+**Part E**
+
+Entries referred to in Article 5(3):
+
+— in Bulgarian: „сертификат за помощ“
+
+— in Spanish: «Certificado de ayuda»
+
+— in Czech: „osvědčení o podpoře“
+
+— in Danish: »støttelicens«
+
+— in German: „Beihilfebescheinigung“
+
+— in Estonian: „toetussertifikaat”
+
+— in Greek: «πιστοποιητικό ενίσχυσης»
+
+— in English: ‘aid certificate’
+
+— in French: «certificat aides»
+
+— in Croatian: „potvrda o potpori”
+
+— in Italian: «titolo di aiuto»
+
+— in Latvian: “atbalsta sertifikāts”
+
+— in Lithuanian: „pagalbos sertifikatas“
+
+— in Hungarian: „támogatási bizonyítvány”
+
+— in Maltese: “ċertifikat ta’ l-għajnuniet”
+
+— in Dutch: „steuncertificaat”
+
+— in Polish: „świadectwo pomocy”
+
+— in Portuguese: «certificado de ajuda»
+
+— in Romanian: „certificat pentru ajutoare”
+
+— in Slovak: „osvedčenie o pomoci“
+
+— in Slovene: „potrdilo o pomoči“
+
+— in Finnish: ”tukitodistus”
+
+— in Swedish: ”stödintyg”
+
+**Part F**
+
+Entries referred to in Article 5(4):
+
+— in Bulgarian, one of the following entries:
+
+— „продукти за преработвателната и/или опаковъчната промишленост“
+
+— „продукти за директна консумация“
+
+— „продукти, предназначени за използване като производствени ресурси за селското стопанство“*
+
+— „живи животни за угояване“
+
+— in Spanish, one of the following entries:
+
+— «Productos destinados a la industria de transformación o acondicionamiento»
+
+— «Productos destinados al consumo directo»
+
+— «Productos destinados a ser utilizados como insumos agrarios»*
+
+— «Animales vivos destinados al engorde»
+
+— in Czech, one of the following entries:
+
+— „produkty pro zpracovatelský a/nebo balicí průmysl“
+
+— „produkty pro přímou spotřebu“
+
+— „produkty určené pro použití jako zemědělské vstupy“*
+
+— „živá zvířata pro výkrm“
+
+— in Danish, one of the following entries:
+
+— »produkter til forarbejdnings- og/eller emballeringsindustrien«
+
+— »produkter til direkte konsum«
+
+— »produkter, der skal anvendes som rå- og hjælpestoffer«*
+
+— »levende dyr til opfedning«
+
+— in German, one of the following entries:
+
+— „Erzeugnisse für die Verarbeitungs- bzw. Verpackungsindustrie“
+
+— „Erzeugnisse für den direkten Verbrauch“
+
+— „zur Verwendung als landwirtschaftliche Betriebsstoffe bestimmte Erzeugnisse“*
+
+— „zur Mast eingeführte lebende Tiere“
+
+— in Estonian, one of the following entries:
+
+— „tooted töötlevale ja/või pakenditööstusele”
+
+— „otsetarbimiseks ettenähtud tooted”
+
+— „põllumajanduslikuks tooraineks ettenähtud tooted”*
+
+— „imporditud nuumveised”
+
+— in Greek, one of the following entries:
+
+— «προϊόντα που προορίζονται για τις βιομηχανίες μεταποίησης ή/και συσκευασίας»
+
+— «προϊόντα που προορίζονται για άμεση κατανάλωση»
+
+— «προϊόντα που προορίζονται για χρήση ως γεωργικές εισροές»*
+
+— «ζώντα ζώα προς πάχυνση»
+
+— in English, one of the following entries:
+
+— ‘products for the processing and/or packaging industry’
+
+— ‘products for direct consumption’
+
+— ‘products intended for use as agricultural inputs’*
+
+— ‘live animals for fattening’
+
+— in French, one of the following entries:
+
+— «produits destinés aux industries de transformation et/ou de conditionnement»
+
+— «produits destinés à la consommation directe»
+
+— «produits destinés à être utilisés comme intrants agricoles»*
+
+— «animaux vivants pour l'engraissement»
+
+— in Croatian, one of the following entries:
+
+— „proizvodi za prerađivačku industriju i/ili industriju ambalaže”
+
+— „proizvodi za izravnu potrošnju”
+
+— „proizvodi namijenjeni za uporabu kao faktori u poljoprivrednoj proizvodnji”*
+
+— „žive životinje za tov”
+
+— in Italian, one of the following entries:
+
+— «prodotti destinati alle industrie di trasformazione e/o di condizionamento»
+
+— «prodotti destinati al consumo diretto»
+
+— «prodotti destinati ad essere utilizzati come fattori di produzione agricoli»*
+
+— «bovini destinati all’ingrasso importati»
+
+— in Latvian, one of the following entries:
+
+— “produkti, kas paredzēti pārstrādei un/vai iesaiņošanai”
+
+— “tiešam patēriņam paredzēti produkti”
+
+— “produkti, kas ir lauksaimniecībā izmantojamās vielas”*
+
+— “dzīvi dzīvnieki nobarošanai”
+
+— in Lithuanian, one of the following entries:
+
+— „perdirbimo ir/arba pakavimo pramonei skirti produktai“
+
+— „tiesiogiai vartoti skirti produktai“
+
+— „produktai, skirti naudoti kaip žemės ūkio ištekliai“*
+
+— „gyvi penėjimui skirti galvijai“
+
+— in Hungarian, one of the following entries:
+
+— „a feldolgozó- és/vagy a csomagolóipar számára szánt termékek”
+
+— „közvetlen fogyasztásra szánt termékek”
+
+— „mezőgazdasági inputanyagként felhasználandó termékek”*
+
+— „hízlalásra szánt élőállatok”
+
+— in Maltese, one of the following entries:
+
+— “prodotti maħsuba għall-industriji tat-trasformazzjoni u/jew ta’ l-imballaġġ”
+
+— “prodotti maħsuba għall-konsum dirett”
+
+— “prodotti maħsuba għall-użu agrikolu”*
+
+— “bhejjem ħajjin għat-tismin”
+
+— in Dutch, one of the following entries:
+
+— „producten voor de verwerkende industrie en/of de verpakkingsindustrie”
+
+— „producten voor rechtstreekse consumptie”
+
+— „producten voor gebruik als landbouwproductiemiddel”*
+
+— „levende mestdieren”
+
+— in Polish, one of the following entries:
+
+— „produkty przeznaczone do przetworzenia i/lub opakowania”
+
+— „produkty przeznaczone do bezpośredniego spożycia”
+
+— „produkty przeznaczone do użytku jako nakłady rolnicze”*
+
+— „bydło importowane przeznaczone do opasu”
+
+— in Portuguese, one of the following entries:
+
+— «produtos destinados às indústrias de transformação e/ou de acondicionamento»
+
+— «produtos destinados ao consumo directo»
+
+— «produtos destinados a ser utilizados como factores de produção agrícola»*
+
+— «animais vivos para engorda»
+
+— in Romanian, one of the following entries:
+
+— „produse pentru industria prelucrătoare și/sau de ambalare”
+
+— „produse destinate consumului direct”
+
+— „produse destinate a fi utilizate ca factori de producție agricolă”*
+
+— „animale vii pentru îngrășat”
+
+— in Slovak, one of the following entries:
+
+— „výrobky určené pre spracovateľský a/alebo baliarenský priemysel“
+
+— „výrobky určené na priamu spotrebu“
+
+— „výrobky určené na použitie ako poľnohospodárske vstupy“*
+
+— „živé zvieratá určené na výkrm“
+
+— in Slovene, one of the following entries:
+
+— „proizvodi, namenjeni predelovalni in/ali pakirni industriji“
+
+— „proizvodi, namenjeni za neposredno prehrano“
+
+— „proizvodi, namenjeni za kmetijske vložke“*
+
+— „žive živali za pitanje“
+
+— in Finnish, one of the following entries:
+
+— ”jalostus- ja/tai pakkausteollisuuteen tarkoitettuja tuotteita”
+
+— ”suoraan kulutukseen tarkoitettuja tuotteita”
+
+— ”maatalouden tuotantopanoksiksi tarkoitettuja tuotteita”*
+
+— ”lihotukseen tarkoitettuja eläviä eläimiä”
+
+— in Swedish, one of the following entries:
+
+— ”produkter avsedda för bearbetning eller förpackning”
+
+— ”produkter avsedda för direkt konsumtion”
+
+— ”produkter avsedda att användas som insatsvaror i jordbruket”*
+
+— ”levande djur avsedda för gödning”
+
+**Part G**
+
+Entries referred to in Article 5(4):
+
+— in Bulgarian: „сертификат за използване в (име на най-отдалечения регион)“
+
+— in Spanish: «Certificado destinado a ser utilizado en [nombre de la región ultraperiférica]»
+
+— in Czech: „osvědčení pro použití v [název nejvzdálenějšího regionu]“
+
+— in Danish: »licensen skal anvendes i [fjernområdets navn]«
+
+— in German: „Bescheinigung zu verwenden in [Name der Region in äußerster Randlage]“
+
+— in Estonian: „[kus (äärepoolseima piirkonna nimi)] kasutamiseks ettenähtud litsents”
+
+— in Greek: «πιστοποιητικό προς χρήση στην [όνομα της ιδιαίτερα απομακρυσμένης περιφέρειας]»
+
+— in English: ‘certificate to be used in [name of the outermost region]’
+
+— in French: «certificat à utiliser dans [nom de la région ultrapériphérique]»
+
+— in Croatian: „potvrda koja se koristi u (ime najudaljenije regije)”
+
+— in Italian: «titolo destinato a essere utilizzato in [nome della regione ultraperiferica]»
+
+— in Latvian: “sertifikāts jāizmanto [attālākā reģiona nosaukums]”
+
+— in Lithuanian: „sertifikatas, skirtas naudoti [atokiausio regiono pavadinimas]“
+
+— in Hungarian: „[a legkülső régió neve]-i felhasználásra szóló bizonyítvány”
+
+— in Maltese: “ċertifikat għall-użu fi [isem ir-reġjun ultraperiferiku]”
+
+— in Dutch: „in [naam van het ultraperifere gebied] te gebruiken certificaat”
+
+— in Polish: „świadectwo stosowane w [nazwa danego regionu najbardziej oddalonego]”
+
+— in Portuguese: «certificado a utilizar em [nome da região ultraperiférica]»
+
+— in Romanian: „certificat pentru utilizare în (numele regiunii ultraperiferice)”
+
+— in Slovak: „osvedčenie určené na použitie v [názov najvzdialenejšieho regiónu]“
+
+— in Slovene: „potrdilo za uporabo v [ime najbolj oddaljene regije]“
+
+— in Finnish: ”(syrjäisimmän alueen nimi) käytettävä todistus”
+
+— in Swedish: ”intyg som skall användas i [randområdets namn]”
+
+**Part H**
+
+Entries referred to in Article 13(2):
+
+— in Bulgarian: „стоки, изнасяни съгласно член 14, параграф 1, първа алинея от Регламент (ЕС) № 228/2013“
+
+— in Spanish: «Mercancía exportada en virtud del artículo 14, apartado 1, párrafo primero, del Reglamento (UE) no 228/2013»
+
+— in Czech: „zboží vyvážené podle čl. 14 odst. 1 prvního pododstavce nařízení (EU) č. 228/2013“
+
+— in Danish: »Vare eksporteret i henhold til artikel 14, stk. 1, første afsnit, i forordning (EU) nr. 228/2013«
+
+— in German: „Ausgeführte Ware gemäß Artikel 14 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 228/2013“
+
+— in Estonian: „määruse (EL) nr 228/2013 artikli 14 lõike 1 esimese lõigu alusel eksporditav kaup”
+
+— in Greek: «εμπόρευμα εξαγόμενο δυνάμει του άρθρου 14 παράγραφος 1, πρώτο εδάφιο, του κανονισμού (ΕΕ) αριθ. 228/2013»
+
+— in English: ‘goods exported under the first subparagraph of Article 14(1) of Regulation (EU) No 228/2013’
+
+— in French: «marchandise exportée en vertu de l'article 14, paragraphe 1, premier alinéa, du règlement (UE) no 228/2013»
+
+— in Croatian: „roba izvezena u skladu s člankom 14. stavkom 1. prvim podstavkom Uredbe (EU) br. 228/2013”
+
+— in Italian: «merce esportata in virtù dell’articolo 14, paragrafo 1, primo comma, del regolamento (UE) n. 228/2013»
+
+— in Latvian: “prece, ko eksportē saskaņā ar Regulas (ES) Nr. 228/2013 14. panta 1. punkta pirmās daļas noteikumiem”
+
+— in Lithuanian: „pagal Reglamento (ES) Nr. 228/2013 14 straipsnio 1 dalies pirmą punktą eksportuojama prekė“
+
+— in Hungarian: „a 228/2013/EU rendelet 14. cikke (1) bekezdésének első albekezdése szerint exportált termék”
+
+— in Maltese: “merkanzija esportata skond l-Artikolu 14, paragrafu 1, l-ewwel inċiż, tar-Regolament (UE) Nru 228/2013”
+
+— in Dutch: „op grond van artikel 14, lid 1, eerste alinea, van Verordening (EU) nr. 228/2013 uitgevoerde goederen”
+
+— in Polish: „towar wywieziony zgodnie z art. 14 ust. 1 akapit pierwszy rozporządzenia (UE) nr 228/2013”
+
+— in Portuguese: «mercadoria exportada nos termos do n.o 1, primeiro parágrafo, do artigo 14.o do Regulamento (UE) n.o 228/2013»
+
+— in Romanian: „mărfuri exportate în conformitate cu articolul 14 alineatul (1) primul paragraf din Regulamentul (UE) nr. 228/2013”
+
+— in Slovak: „tovar vyvezený podľa článku 14 ods. 1 prvý pododsek nariadenia (EU) č. 228/2013“
+
+— in Slovene: „blago, izvoženo v skladu s prvim pododstavkom člena 14(1) Uredbe (EU) št. 228/2013“
+
+— in Finnish: ”Asetuksen (EU) N:o 228/2013 14 artiklan 1 kohdan ensimmäisen alakohdan nojalla viety tavara”
+
+— in Swedish: ”vara som exporteras i enlighet med artikel 14.1 första stycket i förordning (EU) nr 228/2013”
+
+**Part I**
+
+Entries referred to in Article 15(3):
+
+— in Bulgarian: „стоки, изнасяни съгласно член 14, параграф 2 от Регламент (ЕС) № 228/2013“
+
+— in Spanish: «Mercancía exportada en virtud del artículo 14, apartado 2, del Reglamento (UE) no 228/2013»
+
+— in Czech: „zboží vyvážené podle čl. 14 odst. 2 nařízení (EU) č. 228/2013“
+
+— in Danish: »Vare eksporteret i henhold til artikel 14, stk. 2, i forordning (EU) nr. 228/2013«
+
+— in German: „Ausgeführte Ware gemäß Artikel 14 Absatz 2 der Verordnung (EU) Nr. 228/2013“
+
+— in Estonian: „määruse (EL) nr 228/2013 artikli 14 lõike 2 alusel eksporditav kaup”
+
+— in Greek: «εμπόρευμα εξαγόμενο δυνάμει του άρθρου 14 παράγραφος 2 του κανονισμού (ΕΕ) αριθ. 228/2013»
+
+— in English: ‘goods exported under Article 14(2) of Regulation (EU) No 228/2013’
+
+— in French: «marchandise exportée en vertu de l'article 14, paragraphe 2, du règlement (UE) no 228/2013»
+
+— in Croatian: „roba izvezena u skladu s člankom 14. stavkom 2. Uredbe (EU) br. 228/2013”
+
+— in Italian: «merce esportata in virtù dell’articolo 14, paragrafo 2, del regolamento (UE) n. 228/2013»
+
+— in Latvian: “prece, ko eksportē saskaņā ar Regulas (ES) Nr. 228/2013 14. panta 2. punkta noteikumiem”
+
+— in Lithuanian: „pagal Reglamento (ES) Nr. 228/2013 14 straipsnio 2 dalį eksportuojama prekė“
+
+— in Hungarian: „a 228/2013/EU rendelet 14. cikkének (2) bekezdése szerint exportált termék”
+
+— in Maltese: “merkanzija esportata skond l-Artikolu 14, paragrafu 2, tar-Regolament (UE) Nru 228/2013”
+
+— in Dutch: „op grond van artikel 14, lid 2, van Verordening (EU) nr. 228/2013 uitgevoerde goederen”
+
+— in Polish: „towar wywieziony zgodnie z art. 14 ust. 2 rozporządzenia (UE) nr 228/2013”
+
+— in Portuguese: «mercadoria exportada nos termos do n.o 2 do artigo 14.o do Regulamento (UE) n.o 228/2013»
+
+— in Romanian: „mărfuri exportate în conformitate cu articolul 14 alineatul (2) din Regulamentul (UE) nr. 228/2013”
+
+— in Slovak: „tovar vyvezený podľa článku 14 ods. 2 nariadenia (EU) č. 228/2013“
+
+— in Slovene: „blago, izvoženo v skladu s členom 14(2) Uredbe (EU) št. 228/2013“
+
+— in Finnish: ”Asetuksen (EU) No 228/2013 14 artiklan 2 kohdan nojalla viety tavara”
+
+— in Swedish: ”vara som exporteras i enlighet med artikel 14.2 i förordning (EU) nr 228/2013”
+
+**Part J**
+
+Entries referred to in Article 35(1), first subparagraph:
+
+— in Bulgarian: „продукт, предназначен за производството на тютюневи изделия“
+
+— in Spanish: «Producto destinado a la industria de fabricación de labores de tabaco»
+
+— in Czech: „produkt pro zpracovatelský průmysl tabákových výrobků“
+
+— in Danish: »produkt til tobaksvareindustrien«
+
+— in German: „Erzeugnis zur Herstellung von Tabakwaren“
+
+— in Estonian: „tubakatoodete valmistamiseks ettenähtud toode”
+
+— in Greek: «προϊόν που προορίζεται για τις καπνοβιομηχανίες»
+
+— in English: ‘product intended for industries manufacturing tobacco products’
+
+— in French: «produit destiné aux industries de manufacture de produits de tabac»
+
+— in Croatian: „proizvod namijenjen industriji za proizvodnju duhanskih proizvoda”
+
+— in Italian: «prodotto destinato alla manifattura di tabacchi»
+
+— in Latvian: “produkts paredzēts tabakas izstrādājumu ražošanas nozarēm”
+
+— in Lithuanian: „produktas, skirtas tabako gaminių gamybos pramonei“
+
+— in Hungarian: „a dohánytermékeket előállító iparnak szánt termékek”
+
+— in Maltese: “prodott maħsub għall-industriji tal-manifattura tal-prodotti tat-tabakk”
+
+— in Dutch: „product bestemd voor bedrijven waar tabaksproducten worden vervaardigd”
+
+— in Polish: „towar przeznaczony dla przemysłu tytoniowego”
+
+— in Portuguese: «produto destinado às indústrias de manufactura de produtos de tabaco»
+
+— in Romanian: „produs destinat industriilor care fabrică produse din tutun”
+
+— in Slovak: „výrobok určený pre výrobný priemysel tabakových výrobkov“
+
+— in Slovene: „proizvodi, namenjeni industriji za proizvodnjo tobačnih izdelkov“
+
+— in Finnish: ”tupakkatuotteiden valmistukseen tarkoitettu tuote”
+
+— in Swedish: ”produkt avsedd för framställning av tobaksprodukter”
+
+## ANNEX II
+
+**Maximum quantities of processed products which can be exported or dispatched annually from the French overseas departments in the context of regional trade or traditional consignments**
+
+**Réunion**
+
+<table>
+<tbody><tr><td colspan="3">[Quantity in kilograms (or litres*)]</td></tr>
+<tr><td>CN code</td><td>To the Union</td><td>To third countries</td></tr>
+<tr><td>1101 00 </td><td>—</td><td>3 580 000 </td></tr>
+<tr><td>1104 23 </td><td>—</td><td>33 500 </td></tr>
+<tr><td>1512 19 90 </td><td>—</td><td>*250 000 </td></tr>
+<tr><td>2309 90 </td><td>391 500 </td><td>7 985 000 </td></tr>
+</tbody>
+</table>
+
+**Martinique**
+
+<table>
+<tbody><tr><td colspan="3">(Quantity in kilograms (or litres *))</td></tr>
+<tr><td>CN code</td><td>To the Union</td><td>To third countries</td></tr>
+<tr><td>0403 10 </td><td>—</td><td>77 500 </td></tr>
+<tr><td>1101 00 </td><td>—</td><td>199 500 </td></tr>
+<tr><td>2309 90 </td><td>—</td><td>102 000 </td></tr>
+<tr><td>2202 </td><td>229 000 </td><td>5 500 </td></tr>
+<tr><td>2105 </td><td>146 000 </td><td>—</td></tr>
+<tr><td>2007 </td><td>1 000 </td><td>500</td></tr>
+</tbody>
+</table>
+
+**Guadeloupe**
+
+<table>
+<tbody><tr><td colspan="3">(Quantity in kilograms (or litres *))</td></tr>
+<tr><td>CN code</td><td>To the Union</td><td>To third countries</td></tr>
+<tr><td>0402 10 </td><td>45 000 </td><td>—</td></tr>
+<tr><td>1101 00 </td><td>—</td><td>128 000 </td></tr>
+<tr><td>2309 90 </td><td>—</td><td>522 000 </td></tr>
+<tr><td>2007 -2008 -2009 </td><td>4 000 </td><td>—</td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Maximum quantities of processed products which can be exported or dispatched annually from the Azores and Madeira in the context of regional trade and traditional consignments**
+
+**Azores**
+
+<table>
+<tbody><tr><td colspan="3">[Quantity in kilograms (or litres*)]</td></tr>
+<tr><td>CN code</td><td>To the Union</td><td>To third countries</td></tr>
+<tr><td>1701 99 </td><td>2 109 000 </td><td>  </td></tr>
+<tr><td>1905 90 45 </td><td>—</td><td>34 000 </td></tr>
+<tr><td>2203 00 </td><td>—</td><td>*35 000 </td></tr>
+</tbody>
+</table>
+
+**Madeira**
+
+<table>
+<tbody><tr><td colspan="3">[Quantity in kilograms (or litres*)]</td></tr>
+<tr><td>CN code</td><td>To the Union</td><td>To third countries</td></tr>
+<tr><td>1101 00 </td><td>3 000 </td><td>—</td></tr>
+<tr><td>1102 20 </td><td>13 000 </td><td>—</td></tr>
+<tr><td>1701 99 </td><td>28 000 </td><td>—</td></tr>
+<tr><td>1704 10  1704 90 </td><td>871 500 </td><td>67 500 </td></tr>
+<tr><td>1902 19 </td><td>468 000 </td><td>94 000 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1905 </td><td>116 100 </td><td>400 </td></tr>
+<tr><td>2009 </td><td>*13 480 </td><td>*20 </td></tr>
+<tr><td>2202 10  2202 90 </td><td>752 100 </td><td>42 900 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2203 00 </td><td>*592 000 </td><td>*591 500 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2208 </td><td>*24 800 </td><td>*31 200 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2301 10  2301 20 </td><td>386 000 </td><td>—</td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**Maximum quantities of processed products which can be exported or dispatched annually from the Canary Islands in the context of traditional exports and consignments**
+
+<table>
+<tbody><tr><td colspan="3">[Quantity in kilograms (or litres*)]</td></tr>
+<tr><td>CN code</td><td>To the Union</td><td>To third countries</td></tr>
+<tr><td>0210 11 </td><td>78 500 </td><td>4 000 </td></tr>
+<tr><td>0210 12 </td><td>3 500 </td><td>1 500 </td></tr>
+<tr><td>0210 19 </td><td>23 500 </td><td>17 500 </td></tr>
+<tr><td>0402 10 </td><td>26 500 </td><td>—</td></tr>
+<tr><td>0402 21 </td><td>76 000 </td><td>18 000 </td></tr>
+<tr><td>0402 29 </td><td>153 000 </td><td>—</td></tr>
+<tr><td>0402 91 </td><td>10 000 </td><td>—</td></tr>
+<tr><td>0402 99 </td><td>47 000 </td><td>16 500 </td></tr>
+<tr><td>0403 10 </td><td>179 000 </td><td>21 500 </td></tr>
+<tr><td>0403 90 </td><td>1 927 500 </td><td>28 000 </td></tr>
+<tr><td>0405 </td><td>2 500 </td><td>35 000 </td></tr>
+<tr><td>0406 10 </td><td>38 000 </td><td>2 500 </td></tr>
+<tr><td>0406 30 </td><td>67 500 </td><td>—</td></tr>
+<tr><td>0406 40 </td><td>—</td><td>2 000 </td></tr>
+<tr><td>0406 90 </td><td>290 500 </td><td>157 500 </td></tr>
+<tr><td>0811 90 </td><td>10 000 </td><td>—</td></tr>
+<tr><td>0812 90 </td><td>23 500 </td><td>—</td></tr>
+<tr><td>0901 21  0901 22 </td><td>62 000 </td><td>30 000 </td></tr>
+<tr><td>1101 00 </td><td>46 000 </td><td>193 500 </td></tr>
+<tr><td>1102 20 </td><td>25 000 </td><td>784 500 </td></tr>
+<tr><td>1102 90 </td><td>3 000 </td><td>17 000 </td></tr>
+<tr><td>1104 19 </td><td>—</td><td>1 500 </td></tr>
+<tr><td>1105 </td><td>10 000 </td><td>8 500 </td></tr>
+<tr><td>1108 12 </td><td>—</td><td>74 000 </td></tr>
+<tr><td>1208 10 </td><td>—</td><td>17 000 </td></tr>
+<tr><td>1302 13 </td><td>5 000 </td><td>—</td></tr>
+<tr><td>1507 90 </td><td>6 000 </td><td>1 784 000 </td></tr>
+<tr><td>1517 10 </td><td>8 500 </td><td>43 000 </td></tr>
+<tr><td>1517 90 </td><td>608 500 </td><td>53 500 </td></tr>
+<tr><td>1518 00 </td><td>2 609 000 </td><td>—</td></tr>
+<tr><td>1601 00 </td><td>81 500 </td><td>57 000 </td></tr>
+<tr><td>1602 </td><td>50 500 </td><td>128 000 </td></tr>
+<tr><td>1604 11 </td><td>6 000 </td><td>—</td></tr>
+<tr><td>1604 12 </td><td>2 500 </td><td>9 000 </td></tr>
+<tr><td>1604 13 </td><td>30 500 </td><td>9 000 </td></tr>
+<tr><td>1604 14 </td><td>63 000 </td><td>55 000 </td></tr>
+<tr><td>1604 15 </td><td>27 000 </td><td>8 000 </td></tr>
+<tr><td>1604 16 </td><td>6 500 </td><td>—</td></tr>
+<tr><td>1604 19 </td><td>24 000 </td><td>22 000 </td></tr>
+<tr><td>1604 20 </td><td>65 500 </td><td>6 500 </td></tr>
+<tr><td>1604 31 </td><td>2 000 </td><td>—</td></tr>
+<tr><td>1702 90 </td><td>156 000 </td><td>—</td></tr>
+<tr><td>1704 10 </td><td>14 500 </td><td>4 000 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1704 90 </td><td>417 500 </td><td>229 000 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1803 10 </td><td>7 500 </td><td>—</td></tr>
+<tr><td>1803 20 </td><td>30 000 </td><td>2 000 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1806 </td><td>490 500 </td><td>265 000 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1901 10 </td><td>12 500 </td><td>—</td></tr>
+<tr><td>1901 20 </td><td>854 000 </td><td>19 000 </td></tr>
+<tr><td>1901 90 </td><td>2 639 500 </td><td>1 732 500 </td></tr>
+<tr><td>1902 </td><td>8 500 </td><td>156 000 </td></tr>
+<tr><td>1904 10 </td><td>6 500 </td><td>1 016 500 </td></tr>
+<tr><td>1904 20 </td><td>3 500 </td><td>15 500 </td></tr>
+<tr><td>1904 90 </td><td>—</td><td>4 500 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>1905 </td><td>916 500 </td><td>878 000 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>2002 10 </td><td>—</td><td>5 000 </td></tr>
+<tr><td>2002 90 </td><td>29 500 </td><td>48 000 </td></tr>
+<tr><td>2005 10 </td><td>30 500 </td><td>10 000 </td></tr>
+<tr><td>2205 20 </td><td>12 000 </td><td>4 500 </td></tr>
+<tr><td>2005 40 </td><td>7 500 </td><td>1 500 </td></tr>
+<tr><td>2005 51 </td><td>3 000 </td><td>45 500 </td></tr>
+<tr><td>2005 59 </td><td>24 500 </td><td>8 000 </td></tr>
+<tr><td>2005 60 </td><td>453 000 </td><td>17 500 </td></tr>
+<tr><td>2005 70 </td><td>58 500 </td><td>37 000 </td></tr>
+<tr><td>2005 80 </td><td>13 000 </td><td>10 000 </td></tr>
+<tr><td>2005 91  2005 99 </td><td>53 500 </td><td>64 000 </td></tr>
+<tr><td>2006 00 </td><td>2 000 </td><td>2 500 </td></tr>
+<tr><td>2007 </td><td>16 500 </td><td>37 500 </td></tr>
+<tr><td>2008 </td><td>124 000 </td><td>64 000 </td></tr>
+<tr><td>2009 </td><td>389 500 </td><td>639 500 </td></tr>
+<tr><td>2101 11  2101 12 </td><td>4 000 </td><td>9 500 </td></tr>
+<tr><td>2101 20 </td><td>—</td><td>2 000 </td></tr>
+<tr><td>2102 10 </td><td>9 000 </td><td>11 000 </td></tr>
+<tr><td>2103 10 </td><td>6 500 </td><td>6 000 </td></tr>
+<tr><td>2103 20 </td><td>29 500 </td><td>10 000 </td></tr>
+<tr><td>2103 30 </td><td>2 500 </td><td>12 500 </td></tr>
+<tr><td>2103 90 </td><td>132 500 </td><td>23 500 </td></tr>
+<tr><td>2104 </td><td>23 500 </td><td>12 500 </td></tr>
+<tr><td>2105 00 </td><td>3 945 500 </td><td>568 000 </td></tr>
+<tr><td>2106 10 </td><td>27 000 </td><td>6 000 </td></tr>
+<tr><td>2106 90 </td><td>295 500 </td><td>73 500 </td></tr>
+<tr><td>2202 10 </td><td>*275 500 </td><td>*83 500 </td></tr>
+<tr><td>2202 90 </td><td>*2 900 000 </td><td>*399 500 </td></tr>
+<tr><td>2203 00 </td><td>*753 000 </td><td>*3 244 000 </td></tr>
+<tr><td>2204 30 </td><td>*4 000 </td><td>—</td></tr>
+<tr><td>2205 10 </td><td>*22 500 </td><td>*13 000 </td></tr>
+<tr><td>2205 90 </td><td>*7 500 </td><td>*3 000 </td></tr>
+<tr><td>2206 00 </td><td>*11 000 </td><td>*31 500 </td></tr>
+<tr><td>2208 40 </td><td>*6 983 000 </td><td>*8 500 </td></tr>
+<tr><td>2208 50 </td><td>*650 500 </td><td>*4 500 </td></tr>
+<tr><td>2208 70 </td><td>*548 500 </td><td>*13 000 </td></tr>
+<tr><td>2208 90 </td><td>*24 500 </td><td>*4 500 </td></tr>
+<tr><td>2209 00 </td><td>*4 000 </td><td>*9 000 </td></tr>
+<tr><td>2301 20 </td><td>831 500 </td><td>193 500 </td></tr>
+<tr><td>2302 30 </td><td>3 759 000 </td><td>—</td></tr>
+<tr><td>2306 30 </td><td>12 500 </td><td>—</td></tr>
+<tr><td>2306 90 </td><td>109 500 </td><td>—</td></tr>
+<tr><td>2309 10 </td><td>49 500 </td><td>2 500 </td></tr>
+<tr><td>2309 90 </td><td>72 500 </td><td>129 500 </td></tr>
+</tbody>
+</table>
+
+## ANNEX V
+
+**Maximum quantities of processed products which can be exported annually from the Canary Islands in the context of regional trade**
+
+<table>
+<tbody><tr><td colspan="2">[Quantity in kilograms (or litres*)]</td></tr>
+<tr><td>CN code</td><td>To third countries</td></tr>
+<tr><td>0402 21 </td><td>4 000 </td></tr>
+<tr><td>0403 10 </td><td>100 000 </td></tr>
+<tr><td>0405 10 </td><td>1 000 </td></tr>
+<tr><td>1101 00 </td><td>200 000 </td></tr>
+<tr><td>1507 90 </td><td>3 300 000 </td></tr>
+<tr><td>1704 90 </td><td>50 000 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>1806 </td><td>266 000 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>1901 20 </td><td>10 000 </td></tr>
+<tr><td>1901 90 </td><td>600 000 </td></tr>
+<tr><td>1902 11 </td><td>3 000 </td></tr>
+<tr><td>1902 19 </td><td>50 000 </td></tr>
+<tr><td>1902 20 </td><td>1 000 </td></tr>
+<tr><td>1902 30 </td><td>1 000 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>1905 </td><td>225 000 </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>2009 19 </td><td>10 000 </td></tr>
+<tr><td>2009 31 </td><td>1 000 </td></tr>
+<tr><td>2009 41 </td><td>4 000 </td></tr>
+<tr><td>2009 71 </td><td>4 000 </td></tr>
+<tr><td>2009 89 </td><td>35 000 </td></tr>
+<tr><td>2009 90 </td><td>60 000 </td></tr>
+<tr><td>2103 20 </td><td>10 000 </td></tr>
+<tr><td>2105 00 </td><td>400 000 </td></tr>
+<tr><td>2106 10 </td><td>1 000 </td></tr>
+<tr><td>2202 90 </td><td>200 000 </td></tr>
+<tr><td>2302 </td><td>300 000 </td></tr>
+</tbody>
+</table>
+
+## ANNEX VI
+
+**Third countries to which processed products are exported from the French overseas departments in the context of regional trade**
+
+Réunion : Mauritius, Madagascar and Comoros
+
+Martinique : Lesser Antilles ( 15 ), Surinam and Haïti
+
+Guadeloupe : Lesser Antilles, Surinam and Haïti
+
+French Guiana : Brazil, Surinam and Guyana
+
+**Third countries to which processed products are exported from the Azores and Madeira in the context of regional trade**
+
+Angola, Canada, Cape Verde, Guinea-Bissau, Morocco, Mozambique, South Africa, United Kingdom, United States of America and Venezuela
+
+**Third countries to which processed products are exported from the Canary Islands in the context of regional trade**
+
+Mauritania, Senegal, Equatorial Guinea, Cape Verde and Morocco
+
+## ANNEX VII
+
+**Coefficients of equivalence for products exempt from customs duties on direct importation into the Canary Islands**
+
+| CN code | Description of goods | Coefficient of equivalence |
+| --- | --- | --- |
+| 2401 10 | Unmanufactured tobacco, not stemmed/stripped | 0,72 |
+| 2401 20 | Unmanufactured tobacco, stemmed/stripped | 1,00 |
+| 2401 30 00 | Tobacco refuse | 0,28 |
+| ex 2402 10 00 | Unfinished cigars without wrapping | 1,05 |
+| ex 2403 19 90 | Cigarette rag (finished mixtures of tobacco for the manufacture of cigarettes, cigars, cheroots and cigarillos) | 1,05 |
+| 2403 91 00 | Homogenised or reconstituted tobacco | 1,05 |
+| ex 2403 99 90 | Expanded tobacco | 1,05 |
+
+## ANNEX VIII
+
+**Performance Indicators**
+
+| Objective | : | To guarantee the supply to the outermost regions of products essential for human consumption or for processing and as agricultural inputs: Indicator 1 : Level of coverage (in %) of the Specific Supply Arrangements over the total supply needs of the outermost regions for certain products/groups of products included in the forecast supply balance. |
+| --- | --- | --- |
+
+| Objective | : | To ensure a fair price level for products essential for human consumption or for animal feed: Indicator 2 : Comparison of prices for the consumer in the outermost regions of certain products/groups of products covered under the Specific Supply Arrangements with prices of similar products in their Member States. |
+| --- | --- | --- |
+
+| Objective | : | To encourage local agriculture production in view of the self-supply of the outermost regions and of maintaining/developing export-oriented productions: Indicator 3 : Level of coverage (in %) of the local needs by certain significant products produced locally. |
+| --- | --- | --- |
+
+<table>
+<tr><td>Objective</td><td>:</td><td>To maintain/develop local agricultural production:<table><tr><td>Indicator 4a</td><td>:</td><td>Evolution of the Utilised Agricultural Area (UAA) in the outermost regions and in their Member States.</td></tr>
+</table>
+<table><tr><td>Indicator 4b</td><td>:</td><td>Evolution of the livestock in Livestock Units (LU) in the outermost regions and in their Member States.</td></tr>
+</table>
+<table><tr><td>Indicator 4c</td><td>:</td><td>Evolution of quantities of certain local agricultural products in the outermost regions.</td></tr>
+</table>
+<table><tr><td>Indicator 4d</td><td>:</td><td>Evolution of the quantities of certain products processed in the outermost regions from local products.</td></tr>
+</table>
+<table><tr><td>Indicator 4e</td><td>:</td><td>Evolution of employment in the agricultural sector in the outermost regions and in their Member States.</td></tr>
+</table>
+</td></tr>
+</table>
+
+## ANNEX IX
+
+**Structure and content of the annual report referred to in Article 39**
+
+The structure and content of the report over the previous year shall be as follows:
+
+**1\. GENERAL CONTEXT IN THE PREVIOUS YEAR**
+
+1.1. Socioeconomic context.
+
+1.2. Situation of agriculture and its development.
+
+**2\. PHYSICAL AND FINANCIAL IMPLEMENTATION OF THE MEASURES AND ACTIONS**
+
+2.1. Overall table with financial data concerning support for local production and specific supply arrangements, including initial allocation per measure and action, as well as actual spending and, if relevant, any State aid provided in accordance with Article 23 of Regulation (EU) No 228/2013.
+
+2.2. Comprehensive description of the physical and financial implementation of each measure and action, including technical assistance, comprised in the programme:
+
+(a) for the specific supply arrangements: data and analysis of the annual supply balance of the region concerned;
+
+(b) for the support for local production: data and analysis of the physical and financial implementation of each measure and action listed in the programme including such data as the number of beneficiaries, the number of animals covered by the payment, the eligible surface area and/or the number of holdings concerned. Where necessary, the data must be accompanied by a presentation and analysis of the sector to which the measure relates.
+
+**3\. PERFORMANCE OF THE PROGRAMME IN THE PREVIOUS YEAR**
+
+3.1. Progress of the measures and actions towards the specific objectives and priorities of the programme and the general objectives set out in Article 2 of Regulation (EU) No 228/2013:
+
+(a) evolution and analysis of the national indicators quantifying the specific objectives of the programme and assessment of the extent to which the specific objectives assigned to each of the measures contained in the programme have been achieved;
+
+(b) for the specific supply arrangements, information on the manner in which the advantage granted was passed on as well as the measures taken and the checks performed to ensure that it was passed on in compliance with Article 6 of this Regulation;
+
+(c) for the specific supply arrangements, analysis of the proportionality of the aid in relation to the additional cost of transport to the outermost regions and, in the case of products intended for processing and agricultural inputs, the additional costs of insularity and distant location;
+
+(d) annual data on the common performance indicators referred to in Article 37 of this Regulation and their analysis in particular with regard to the attainment of the general objectives set out in Article 2 of Regulation (EU) No 228/2013.
+
+Those analyses must pay special attention to price monitoring, to local agricultural development, and to the competitive position of local products with regard to imports from third countries and supplies from the Union.
+
+3.2. Conclusions of the analyses on the suitability of the strategy of the measures and its possible improvement in order to achieve the objectives of the programme.
+
+**4\. MANAGEMENT OF THE PROGRAMME**
+
+4.1. Brief account of any major problems encountered in managing and implementing the measures during the year in question.
+
+4.2. Statistics on the checks carried out by the competent authorities and any penalties applied. Any additional information that could be useful for the understanding of the data submitted.
+
+**5\. AMENDMENTS**
+
+Brief summary of any amendments to the programme presented during the year in question and their justifications.
+
+( 1 ) Commission Implementing Regulation (EU) 2016/1239 of 18 May 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the system of import and export licences (OJ L 206, 30.7.2016, p. 44).
+
+( 2 ) Commission Delegated Regulation (EU) 2016/1237 of 18 May 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the rules for applying the system of import and export licences and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the rules on the release and forfeit of securities lodged for such licences, amending Commission Regulations (EC) No 2535/2001, (EC) No 1342/2003, (EC) No 2336/2003, (EC) No 951/2006, (EC) No 341/2007 and (EC) No 382/2008 and repealing Commission Regulations (EC) No 2390/98, (EC) No 1345/2005, (EC) No 376/2008 and (EC) No 507/2008 (OJ L 206, 30.7.2016, p. 1).
+
+( 3 ) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558).
+
+( 4 ) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 29.12.2015, p. 1).
+
+( 5 ) Commission Delegated Regulation (EU) 2017/1183 of 20 April 2017 on supplementing Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council with regard to the notifications to the Commission of information and documents (OJ L 171, 4.7.2017, p. 100).
+
+( 6 ) Commission Implementing Regulation (EU) 2017/1185 of 20 April 2017 laying down rules for the application of Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council as regards notifications to the Commission of information and documents and amending and repealing several Commission Regulations (OJ L 171, 4.7.2017, p. 113).
+
+( 7 ) Commission Regulation (EC) No 1276/2008 of 17 December 2008 on the monitoring by physical checks of exports of agricultural products receiving refunds or other amounts (OJ L 339, 18.12.2008, p. 53).
+
+( 8 ) Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (OJ L 347, 20.12.2013, p. 549).
+
+( 9 ) Commission Implementing Regulation (EU) No 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance (OJ L 227, 31.7.2014, p. 69).
+
+( 10 ) Commission Delegated Regulation (EU) No 640/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance (OJ L 181, 20.6.2014, p. 48).
+
+( 11 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).
+
+( 12 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).
+
+( 13 ) Regulation (EU) 2021/2115 of the European Parliament and of the Council of 2 December 2021 establishing rules on support for strategic plans to be drawn up by Member States under the common agricultural policy (CAP Strategic Plans) and financed by the European Agricultural Guarantee Fund (EAGF) and by the European Agricultural Fund for Rural Development (EAFRD) and repealing Regulations (EU) No 1305/2013 and (EU) No 1307/2013 (OJ L 435, 6.12.2021, p. 1, ELI: http://data.europa.eu/eli/reg/2021/2115/oj).
+
+( 14 ) Regulation (EU) 2021/2116 of the European Parliament and of the Council of 2 December 2021 on the financing, management and monitoring of the common agricultural policy and repealing Regulation (EU) No 1306/2013 (OJ L 435, 6.12.2021, p. 187, ELI: http://data.europa.eu/eli/reg/2021/2116/oj).
+
+( 15 ) Lesser Antilles: Virgin Islands, Saint Kitts and Nevis, Antigua and Barbuda, Dominica, Saint Lucia, Saint Vincent and the Grenadines, Barbados, Trinidad and Tobago, Sint Maarten, Anguilla.

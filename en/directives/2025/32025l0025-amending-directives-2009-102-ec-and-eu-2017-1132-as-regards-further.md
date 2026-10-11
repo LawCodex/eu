@@ -900,6 +900,7 @@ BÓKA J.
 
 ## ANNEX — ‘ANNEX IIB — TYPES OF COMPANIES REFERRED TO IN ARTICLES 7, 10, 13, 13f, 13g, 13j, 13k, 14a, 15, 16, 16b, 16c, 18, 19a, 26 and 28a
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>—</td><td>Belgium:</td></tr>
 </tbody>
 </table>
@@ -1009,6 +1010,7 @@ BÓKA J.
 </table>
 </td><td>handelsbolag, kommanditbolag.’</td></tr>
 </tbody>
+</table>
 
 ELI: http://data.europa.eu/eli/dir/2025/25/oj
 

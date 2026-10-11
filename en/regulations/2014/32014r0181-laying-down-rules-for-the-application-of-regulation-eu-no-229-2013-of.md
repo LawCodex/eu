@@ -1,0 +1,537 @@
+---
+title: "Commission Implementing Regulation (EU) No 181/2014 of 20 February 2014 laying down rules for the application of Regulation (EU) No 229/2013 of the European Parliament and of the Council laying down specific measures for agriculture in favour of the smaller Aegean islands"
+identifier: "32014R0181"
+eli: "http://data.europa.eu/eli/reg_impl/2014/181/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2014-02-20
+entry_into_force: 2015-06-01
+last_amended: 2026-04-11
+consolidated_version: "02014R0181-20260411"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R0181-20260411"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 181/2014 of 20 February 2014 laying down rules for the application of Regulation (EU) No 229/2013 of the European Parliament and of the Council laying down specific measures for agriculture in favour of the smaller Aegean islands
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 181/2014**
+
+**of 20 February 2014**
+
+**laying down rules for the application of Regulation (EU) No 229/2013 of the European Parliament and of the Council laying down specific measures for agriculture in favour of the smaller Aegean islands**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/916 of 27 June 2018 </td><td> L 163</td><td>6</td><td>28.6.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/2224 of 17 October 2023 </td><td> L 2224</td><td>1</td><td>19.10.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/769 of 7 April 2026 </td><td> L 769</td><td>1</td><td>8.4.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 181/2014**
+
+**of 20 February 2014**
+
+**laying down rules for the application of Regulation (EU) No 229/2013 of the European Parliament and of the Council laying down specific measures for agriculture in favour of the smaller Aegean islands**
+
+## CHAPTER I — SPECIFIC SUPPLY ARRANGEMENTS
+
+### SECTION 1 — Forecast supply balances
+
+#### Article 1 — Purpose of forecast supply balances and amendments thereto
+
+The forecast supply balances to be established by Greece in accordance with Article 8(2) of Regulation (EU) No 229/2013 shall state the quantities of essential products needed to meet the supply requirements of the smaller Aegean Islands (hereinafter referred to as ‘smaller islands’) every calendar year.
+
+Greece may amend its forecast supply balance. Article 32 of this Regulation shall apply mutatis mutandis to such amendments.
+
+### SECTION 2 — Functioning of the supply arrangements
+
+#### Article 2 — Fixing and granting of aid
+
+1\. For the purposes of Article 9(1) of Regulation (EU) No 229/2013, Greece shall determine within the context of the programme the amount of the aid to be granted for each product in order to compensate for remoteness, insularity and distant location, taking into account:
+
+(a) the specific needs of the smaller islands and the precise quality requirements;
+
+(b) traditional trade flows with ports in mainland Greece and between the islands in the Aegean Sea;
+
+(c) the economic aspect of the proposed aid;
+
+(d) where applicable, the need not to obstruct the potential development of local products;
+
+(e) as regards specific additional transport costs, the intermediate reloading costs involved in supplying goods to the smaller islands;
+
+(f) as regards the specific additional costs involved in local processing, the small size of the market and the need to guarantee security of supply for goods in the smaller islands concerned.
+
+2\. No aid shall be granted for the supply of products in a smaller island which has already benefited from the specific supply arrangements in another smaller island.
+
+#### Article 3 — Aid certificate and payment
+
+1\. Aid shall be granted on presentation of a certificate, (hereinafter referred to as ‘aid certificate’), which has been fully utilised.
+
+Presenting an aid certificate to the authorities responsible for making payments shall be tantamount to applying for the aid. Except in cases of force majeure or exceptional climatic conditions, certificates shall be presented within 30 days of the date on which they are charged. Where that time limit is overrun, the aid shall be reduced by 5 % per day of delay.
+
+The aid shall be paid by the competent authorities not later than 90 days after the date on which the utilised certificate is lodged, except in one of the following cases:
+
+(a) force majeure or exceptional climatic conditions;
+
+(b) where an administrative enquiry has been opened concerning entitlement to the aid; in such cases, payment shall take place only after entitlement has been recognised.
+
+2\. Aid certificates shall be drawn up on the basis of the specimen import licence set out in Annex I to Commission Implementing Regulation (EU) 2016/1239 ( 1 ).
+
+Article 4 of Commission Delegated Regulation (EU) 2016/1237 ( 2 ) and Articles 2 and 3, Article 4(1), Articles 5 and 7 and 13 to 16 of Implementing Regulation (EU) 2016/1239 shall apply mutatis mutandis, without prejudice to this Regulation.
+
+The negative tolerance provided for in Article 5(4) of Delegated Regulation (EU) 2016/1237 and Article 8(1) of Implementing Regulation (EU) 2016/1239 shall apply mutatis mutandis.
+
+3\. The entry ‘aid certificate’ shall be printed or stamped in box 20 (special particulars) of the certificate.
+
+4\. Boxes 7 and 8 of the certificate shall be struck out.
+
+5\. Box 12 of aid certificates shall show the last day of validity.
+
+6\. The amount of the aid applicable shall be that in force on the day on which the application for the aid certificate was lodged.
+
+7\. The competent authority shall issue aid certificates at the request of the parties concerned, subject to the limits of the forecast supply balances.
+
+#### Article 4 — Passing on the advantage to the end-user
+
+For the purposes of Article 12(1) of Regulation (EU) No 229/2013, the competent authorities shall take all appropriate measures to check that the advantage is actually passed on to the end-user. In doing so, they may assess the trading margins and prices applied by the various operators concerned.
+
+The measures referred to in the first paragraph, and in particular the control points used to determine whether the aid has been passed on, and any amendments made, shall be notified to the Commission in the context of the annual implementation report provided for in Article 20(2) of Regulation (EU) No 229/2013.
+
+#### Article 5 — Register of operators
+
+1\. In order to be eligible for entry in the register referred to in the second subparagraph of Article 11(1) of Regulation (EU) No 229/2013, operators shall undertake to:
+
+(a) communicate to the competent authorities, at their request, all relevant information about their commercial activities, particularly regarding the prices and profit margins they practise;
+
+(b) operate exclusively in their own name and on their own account;
+
+(c) submit certificate applications commensurate with their real capacity to dispose of the products concerned, such capacity being proven by reference to objective factors;
+
+(d) refrain from acting in any way likely to create artificial shortages of products and from marketing the available products at artificially low prices;
+
+(e) ensure to the satisfaction of the competent authorities that, when the agricultural products are disposed of in the smaller islands, the advantage is passed on to the end-user.
+
+2\. Operators intending to dispatch to the rest of the Union or export to third countries unprocessed, processed or packaged products under the conditions referred to in Article 11 shall, at the time of applying for entry in the register or later, declare their intention to engage in this activity and indicate the location of the packaging plant where applicable.
+
+3\. Processors intending to export to third countries or dispatch to the rest of the Union processed products under the conditions referred to in Article 11 or 12 shall, at the time of applying for entry in the register or later, declare their intention to engage in this activity, indicate the location of the processing plant and, where applicable, provide analytical lists of the processed products.
+
+#### Article 6 — Documents to be presented by operators and validity of aid certificates
+
+1\. The competent authorities shall accept the aid-certificate application presented by operators for each consignment, provided that they are accompanied by the original or a certified copy of the purchase invoice.
+
+The purchase invoice, bill of lading or airway bill shall be drawn up in the name of the applicant.
+
+2\. The period of validity of certificates shall be 45 days. The validity period may be extended by the competent authority in special cases where serious and unforeseeable difficulties affect the transportation time, but may not exceed two months from the date on which the certificate was issued.
+
+#### Article 7 — Presentation of certificates and goods
+
+1\. For products covered by the specific supply arrangements aid certificates shall be presented to the competent authorities within no more than 15 working days from the date of the authorisation for unloading the goods. The competent authorities may reduce this maximum time.
+
+2\. The goods shall be presented in bulk or in separate lots corresponding to the certificate presented.
+
+#### Article 8 — Quality of products
+
+Conformity of the products with the requirements laid down in Article 9(2) of Regulation (EU) No 229/2013 shall be examined no later than the stage of first marketing, in accordance with the standards or practices in force in the Union.
+
+Where a product is considered not to meet the requirements laid down in Article 9(2) of Regulation (EU) No 229/2013, its entitlement under the specific supply arrangements shall be withdrawn and the corresponding quantity shall be reattributed to the forecast supply balance.
+
+Where aid has been granted in accordance with Article 3 of this Regulation, the aid shall be reimbursed.
+
+#### Article 9 — Significant increases in application for aid certificates
+
+1\. If the state of execution of a forecast supply balance indicates a significant increase in applications for aid certificates for a given product which might jeopardise achievement of one or more of the objectives of the specific supply arrangements, Greece shall take all necessary measures, after having consulted the authorities concerned, to ensure that the smaller islands are supplied with essential products, taking account of available supply and the requirements of the priority sectors.
+
+2\. Where, after having consulted the authorities concerned, Greece decides to apply restrictions on the issue of certificates, the competent authorities shall apply a uniform reduction percentage to all pending applications.
+
+#### Article 10 — Fixing a maximum quantity per certificate application
+
+Insofar as is strictly necessary to avoid disturbances on the market in the smaller islands, or the pursuit of speculative actions likely to be prejudicial to the smooth functioning of the specific supply arrangements, the competent authorities may fix a maximum quantity per certificate application.
+
+The competent authorities shall notify the Commission immediately of the instances in which this Article is applied.
+
+The notification referred to in this Article shall be made in accordance with Commission Delegated Regulation (EU) 2017/1183 ( 3 ) and Commission Implementing Regulation (EU) 2017/1185 ( 4 ).
+
+### SECTION 3 — Export and dispatch
+
+#### Article 11 — Conditions of export or dispatch
+
+1\. The export and dispatch of unprocessed products which have benefited from the specific supply arrangements, or packaged or processed products containing products which have benefited from the specific supply arrangements, shall be subject to the requirements laid down in paragraphs 2 and 3.
+
+2\. Quantities of products which have benefited from aid and are exported or dispatched shall be reattributed to the forecast supply balance and the aid granted shall be reimbursed by the exporter or consignor by the time of export or dispatch at the latest.
+
+Those products shall not be dispatched or exported until the reimbursement referred to in the first subparagraph has been made.
+
+Where it is impossible to establish the amount of aid granted, the products shall be considered to have received the highest rate of aid fixed by the Union for such products during the six-month period preceding the submission of the application for export or dispatch.
+
+Such products may benefit from an export refund, provided that the criteria for granting such a refund are met.
+
+3\. The competent authorities shall authorise the export or dispatch of quantities of processed products other than those referred to in paragraph 2 and in Article 12 only where the processor or exporter certifies that the products concerned do not contain raw materials introduced under the specific supply arrangements.
+
+The competent authorities shall authorise the re-export or re-dispatch of unprocessed products or packaged products other than those referred to in paragraph 2 only where the consignor certifies that those products have not benefited from specific supply arrangements.
+
+The competent authorities shall carry out the necessary checks to ensure the accuracy of the certificates referred to in the first and second subparagraphs and shall, if necessary, recover the advantage.
+
+#### Article 12 — Traditional exports and traditional dispatches of processed products
+
+1\. Processors who have declared, in accordance with Article 5(3), that they intend to export or to dispatch in the context of traditional trade flows, as referred to in Article 13(2) of Regulation (EU) No 229/2013, processed products containing raw materials which have benefited from specific supply arrangements may do so within the limits of the annual quantities indicated in Annex I to this Regulation. The competent authorities shall deliver the requisite authorisations in such a way as to ensure that transactions do not exceed those annual quantities.
+
+2\. The export of products referred to in paragraph 1 shall not be subject to the presentation of an export licence.
+
+### SECTION 4 — Management, controls and monitoring
+
+#### Article 13 — Checks
+
+1\. The administrative checks carried out on the, entry, export and dispatch of agricultural products shall be exhaustive and shall involve cross-checks with the documents referred to in Article 6(1).
+
+2\. The physical checks carried out in the smaller Aegean islands on the entry of agricultural products shall involve a representative sample amounting to at least 5 % of the certificates presented in accordance with Article 7.
+
+The physical checks carried out in the smaller Aegean islands on the export or dispatch provided for in Section 3 shall involve a representative sample of at least 5 % of the operations, based on the risk profiles established by Greece.
+
+Commission Regulation (EC) No 1276/2008 ( 5 ) shall apply mutatis mutandis to those physical checks.
+
+In addition, in special cases the Commission may request that physical checks cover different percentages.
+
+#### Article 14 — National management and monitoring rules
+
+The competent authorities shall adopt the additional rules needed to manage and monitor the specific supply arrangements in real time.
+
+Upon request of the Commission, they shall notify the Commission of any measures they intend to implement pursuant to the first paragraph.
+
+## CHAPTER II — MEASURES TO SUPPORT LOCAL AGRICULTURAL PRODUCTS
+
+### SECTION 1 — Amount of aid and aid applications
+
+#### Article 15 — Amount of aid
+
+1\. The amount of aid granted under the measures to assist local agricultural production as provided for in Chapter IV of Regulation (EU) No 229/2013 shall be within the ceilings fixed in Article 18 of that Regulation.
+
+2\. The conditions for granting aid, the lines of agricultural production and the amounts concerned shall be specified in the programme approved in accordance with Article 6(1) of Regulation (EU) No 229/2013.
+
+#### Article 16 — Submission of applications
+
+Aid applications for a calendar year shall be submitted to the office designated by the competent authorities of Greece in accordance with the specimens drawn up by the latter and within the periods they have laid down. Those periods shall be fixed so as to allow time for the necessary on-the-spot checks and shall not run beyond 28 February of the following calendar year.
+
+#### Article 17 — Correction of manifest errors
+
+An aid application may be rectified at any time after its submission where a manifest error is recognised by the competent authority.
+
+#### Article 18 — Late submission of applications
+
+Except in cases of force majeure and exceptional circumstances, submission of an aid application after the time limit laid down in accordance with Article 16 shall lead to a 1 % reduction per working day in the amounts to which the aid applicant would have been entitled if the aid application had been lodged within the time limit. If the delay amounts to more than 25 calendar days, the application shall be considered inadmissible.
+
+#### Article 19 — Withdrawal of aid applications
+
+1\. An aid application may be totally or partially withdrawn at any time.
+
+However, where the competent authority has already informed the aid applicant of irregularities in the aid application or has given notice to the aid applicant of its intention to carry out an on-the-spot check and this check reveals irregularities, withdrawal shall not be authorised in respect of the parts of the aid application affected by those irregularities.
+
+2\. Withdrawal under paragraph 1 shall return the claimant to the situation prior to submitting the aid application or part of the aid application in question.
+
+3\. No later than 31 March of each year an analysis of aid applications withdrawn for the previous calendar year shall be carried out to identify the main causes and potential trends at local level.
+
+### SECTION 2 — Checks
+
+#### Article 20 — General principles
+
+Verification shall be by administrative and on-the-spot checks.
+
+Administrative checks shall be exhaustive and shall include cross-checks with, inter alia, data from the integrated administration and control system provided for in Chapter II of Title V, Chapter II of Title VI and Articles 47, 61 and 102, paragraph 3 of Regulation (EU) No 1306/2013 of the European Parliament and of the Council ( 6 ).
+
+On the basis of a risk analysis in accordance with Article 22(1) of this Regulation, the competent authorities shall perform on-the-spot checks by sampling, for each action, at least 5 % of aid applications. The sample shall also represent at least 5 % of the amounts covered by the aid for each action.
+
+In all appropriate cases, Greece shall make use of the integrated administration and control system.
+
+#### Article 21 — On-the-spot checks
+
+1\. On-the-spot checks shall be unannounced. However, provided that the purpose of the check is not compromised, advance notice limited to the strict minimum necessary may be given. Such notice shall not exceed 48 hours, except in duly justified cases.
+
+2\. Where applicable, the on-the-spot checks provided for in this Section shall be carried out in conjunction with any other checks provided for by Union legislation.
+
+3\. The aid application or applications concerned shall be rejected if aid applicants or their representatives prevent an on-the-spot check from being carried out.
+
+4\. On-the-spot checks may be executed remotely, with the use of suitable technology, provided that such checks ensure an equivalent level of assurance as checks carried out on the spot.
+
+#### Article 22 — Selection of aid applicants to be subjected to on-the-spot checks
+
+1\. Aid applicants shall be selected to undergo on-the-spot checks by the competent authority on the basis of a risk analysis and the representativeness of the aid applications submitted. The risk analysis shall, as appropriate, take account of:
+
+(a) the amount of aid;
+
+(b) the number of agricultural parcels and the surface area and, if applicable, the number of animals covered by the aid application, or the quantity produced, transported, processed or marketed;
+
+(c) changes in comparison with the previous year;
+
+(d) the findings of checks performed in the preceding years;
+
+(e) other parameters to be defined by Greece.
+
+To provide the element of representativeness, Greece shall randomly select between 20 % and 25 % of the minimum number of aid applicants to be subjected to on-the-spot checks. When the minimum number of aid applicants to be subjected to on-the-spot checks is lower than 12, Greece shall randomly select at least one applicant.
+
+2\. The competent authority shall keep records of the reasons why specific aid applicants were selected for on-the-spot checks. The inspector performing the on-the-spot check shall be informed of those reasons before beginning the check.
+
+#### Article 23 — Inspection report
+
+1\. Every on-the-spot check shall be the subject of an inspection report relating the details of the checks carried out. Reports shall indicate in particular:
+
+(a) the aid schemes and applications checked;
+
+(b) the persons present;
+
+(c) the agricultural parcels checked, the agricultural parcels measured, the results of the measurements per parcel measured and the measuring methods used;
+
+(d) the number and type of animals found and, where applicable, the ear tag numbers, entries in the register and in the computerised database for bovine animals and any supporting documents checked, the results of the checks and, where applicable, particular observations in respect of individual animals or their identification code;
+
+(e) the quantities produced, transported, processed or marketed which are covered by the check;
+
+(f) whether advance notice was given to the aid applicant of the visit and, if so, how much;
+
+(g) any further control measures carried out.
+
+2\. Aid applicants or their representatives shall be given the opportunity to sign the report to attest their presence at the check and to add observations. Where irregularities are found the aid applicant shall receive a copy of the inspection report.
+
+Where the on-the-spot check is carried out by remote-sensing, Greece may decide not to give the aid applicants or their representatives the opportunity to sign the inspection report if no irregularities are revealed during the check by remote-sensing.
+
+### SECTION 3 — Reductions and exclusions, and undue payments
+
+#### Article 24 — Reductions and exclusions
+
+In the event of a discrepancy between the information declared in the context of aid applications and the findings of the inspections referred to in Section 2, Greece shall apply reductions and exclusions to the aid. Those reductions and exclusions shall be effective and proportionate and shall act as a deterrent.
+
+#### Article 25 — Exceptions to the application of reductions and exclusions
+
+1\. The reductions and exclusions provided for in Article 24 shall not apply where the aid applicant submitted factually correct information or can otherwise show that he or she is not at fault.
+
+2\. The reductions and exclusions shall not apply with regard to those parts of the aid application which the aid applicant informs the competent authority in writing are incorrect or have become incorrect since it was lodged, provided that the competent authority has not already informed the aid applicant of its intention to carry out an on-the-spot check or of any irregularity in the application.
+
+On the basis of the information given by the aid applicant as referred to in the first subparagraph, the aid application shall be rectified to reflect the actual situation.
+
+#### Article 26 — Recovery of undue payments and penalties
+
+1\. In the event of undue payment, Article 7 of Commission Implementing Regulation (EU) No 809/2014 ( 7 ) shall apply mutatis mutandis.
+
+2\. Where the undue payment has been made as a result of a false declaration, false documents or serious negligence on the part of the aid applicant, a penalty shall be imposed equal to the amount unduly paid, with interest calculated in accordance with Article 7(2) of Implementing Regulation (EU) No 809/2014.
+
+#### Article 27 — Force majeure and exceptional circumstances
+
+In cases of force majeure or exceptional circumstances within the meaning of Article 2(2) of Regulation (EU) No 1306/2013, Article 4 of Commission Delegated Regulation (EU) No 640/2014 ( 8 ) shall apply mutatis mutandis.
+
+## CHAPTER III — GENERAL AND FINAL PROVISIONS
+
+#### Article 28 — Aid payments
+
+After verifying the aid applications and relevant supporting documents, and calculating the amounts to be granted under the support programme referred to in Chapter II of Regulation (EU) No 229/2013, the competent authorities shall pay the aid for a calendar year as follows:
+
+(a) in the case of the specific supply arrangements and of the measures referred to in Article 3 of Delegated Regulation (EU) No 178/2014, throughout the year;
+
+(b) in the case of direct payments, in accordance with Article 75 of Regulation (EU) No 1306/2013;
+
+(c) in the case of other payments, during the period beginning on 16 October of the current year and ending on 30 June of the following year.
+
+#### Article 29 — Performance indicators
+
+Every year, Greece shall notify the Commission of at least the data relating to the performance indicators laid down in Annex II.
+
+This data shall be notified in the context of the annual implementation report referred to in Article 20(2) of Regulation (EU) No 229/2013.
+
+#### Article 30 — Notifications
+
+1\. As regards the specific supply arrangements, the competent authorities shall notify the Commission, no later than 31 May each year, of the following data relating to the operations carried out in the previous year with respect to the supply balance of the reference calendar year, broken down by product and CN code and, where applicable, by individual destination:
+
+(a) the quantities broken down according to whether they are dispatched from mainland Greece or other islands;
+
+(b) the amount of aid and the expenditure actually paid by product;
+
+(c) the quantities for which aid certificates have not been utilised;
+
+(d) any quantities exported to third countries or dispatched to the rest of the Union after processing in accordance with Article 11;
+
+(e) transfers within an overall quantity for a category of products and amendments to the forecast supply balances during the period;
+
+(f) the available balance and the utilisation rate.
+
+The data provided for in the first subparagraph shall be supplied on the basis of the certificates utilised. —————
+
+2\. As regards support for local production, Greece shall notify the Commission upon its request, of the aid applications received as well as the aid applications definitely eligible and the amounts involved for the previous calendar year.
+
+3\. The notifications referred to in paragraph 1 of this Article shall be made in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+4\. The notifications referred to in Article 20(1) of Regulation (EU) No 229/2013 shall also be made in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+#### Article 31 — Annual report
+
+1\. The structure and content of the annual report referred to in Article 20(2) of Regulation (EU) No 229/2013 shall be as set out in Annex III to this Regulation.
+
+2\. The report referred to in paragraph 1 shall be submitted to the Commission in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+#### Article 32 — Amendments to the programme
+
+1\. Amendments made to the support programme referred to in Chapter II of Regulation (EU) No 229/2013 shall be submitted to the Commission once per calendar year, except in cases of force majeure or exceptional circumstances. They shall be sent to the Commission no later than 31 July of the year prior to their application. The amendments shall be duly substantiated, in particular by giving the following information:
+
+(a) the reasons for any implementation problems justifying the amendment of the programme;
+
+(b) the expected effects of the amendment;
+
+(c) the implications for financing and eligibility conditions.
+
+The Commission shall inform Greece if it considers that the amendments do not comply with Union legislation, in particular with Article 4 of Regulation (EU) No 229/2013, without prejudice to the Articles 51 and 52 of Regulation (EU) No 1306/2013.
+
+The amendments shall apply from 1 January of the year following that in which they were notified. In case an earlier application is deemed necessary, such amendments may apply earlier, unless the Commission objects.
+
+2\. By way of derogation from paragraph 1, the Commission shall evaluate separately the amendments proposed by Greece consisting in the introduction into the general programme of new groups of products to be supported under the specific supply arrangements or of new measures to assist the local agricultural production. The Commission shall decide on their approval within five months of their submission at the latest in accordance with the procedure referred to in Article 22(2) of Regulation (EU) No 229/2013.
+
+The amendments thus approved shall apply from 1 January of the year following that in which the proposal for an amendment was made or as from the date explicitly indicated in the approval decision.
+
+3\. Greece may make the following amendments without recourse to the procedure set out in paragraph 1, provided that the amendments are notified to the Commission:
+
+(a) in the case of forecast supply balances, changes in the individual level of aid up to 20 % or changes in the quantities of the products concerned covered by the supply balance and, consequently, the global amount of aid allocated to support each line of products;
+
+(b) as regards all measures, adjustments up to 20 % of the financial allocation for each individual measure, without prejudice to the financial ceilings provided for in Article 18 of Regulation (EU) No 229/2013, on condition that such adjustments are notified not later than 31 May of the year following the calendar year to which the amended financial allocation refers. However, if the adjustment consists in increasing the amount of a measure by complementary national aid, it may go up to 50 % of the financial allocation for each individual measure in duly justified circumstances, communicated to the Commission in accordance with the requirement laid down in paragraph 4 of this Article;
+
+(c) changes following amendments to codes and descriptions laid down in Council Regulation (EEC) No 2658/87 ( 9 ) used to identify the products benefiting from aid, as long as those amendments do not entail a change of the products themselves.
+
+4\. The amendments referred to in paragraph 3 shall not apply before the date on which they are received by the Commission. They shall be duly explained and justified and may be implemented only once per year except in the following cases:
+
+(a) force majeure or exceptional circumstances;
+
+(b) amendment of the quantities of products covered by the supply arrangements,
+
+(c) changes following amendments to codes and descriptions laid down in Regulation (EEC) No 2658/87.
+
+5\. For the purposes of this Article the following definitions shall apply:
+
+(a) ‘measure’ means the grouping of actions necessary to achieve one or more objectives for the programme constituting a line for which a financial allocation is defined in the financing table referred to in Article 5(a) of Regulation (EU) No 229/2013;
+
+(b) ‘group of products’ means all products sharing the first two digits of the CN code as provided for in Regulation (EEC) No 2658/87.
+
+6\. The notifications referred to in this Article shall be made in accordance with Delegated Regulation (EU) 2017/1183 and Implementing Regulation (EU) 2017/1185.
+
+#### Article 33 — Reduction of advances
+
+Without prejudice to the general rules on budgetary discipline, where the information transmitted by Greece to the Commission under Articles 30 and 31 is incomplete or the time limit for transmitting that information has not been complied with, the Commission may reduce advances on entry in the accounts of agricultural expenditure on a temporary and flat-rate basis.
+
+#### Article 34 — Entry into force
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Maximum quantities of processed products which can be exported or dispatched annually from the smaller Aegean islands in the context of traditional trade flows**
+
+<table>
+<tbody><tr><td colspan="3">[Quantity in kilograms (or litres*)]</td></tr>
+<tr><td>CN code</td><td>To the Union</td><td>To third countries</td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Performance Indicators**
+
+<table>
+<tr><td>Objective</td><td>:</td><td>To guarantee the supply to the smaller Aegean islands of products essential for human consumption or for processing and as agricultural inputs:<table><tr><td>Indicator 1</td><td>:</td><td>Level of coverage (in %) of the Specific Supply Arrangements over the total supply needs of the smaller Aegean islands for certain products/groups of products included in the forecast supply balance.</td></tr>
+</table>
+</td></tr>
+</table>
+
+<table>
+<tr><td>Objective</td><td>:</td><td>To ensure a fair price level for products essential for human consumption or for animal feed:<table><tr><td>Indicator 2</td><td>:</td><td>Comparison of prices for the consumer in the smaller Aegean islands of certain products/groups of products covered under the Specific Supply Arrangements with prices of similar products in mainland Greece.</td></tr>
+</table>
+</td></tr>
+</table>
+
+<table>
+<tr><td>Objective</td><td>:</td><td>To encourage local agriculture production in view of the self-supply of the smaller Aegean islands and of maintaining/developing export-oriented production:<table><tr><td>Indicator 3</td><td>:</td><td>Level of coverage (in %) of the local needs by certain significant products produced locally.</td></tr>
+</table>
+</td></tr>
+</table>
+
+<table>
+<tr><td>Objective</td><td>:</td><td>To maintain/develop local agricultural production:<table><tr><td>Indicator 4a</td><td>:</td><td>Evolution of the Utilised Agricultural Area (UAA) in the smaller Aegean islands and on mainland Greece.</td></tr>
+</table>
+<table><tr><td>Indicator 4b</td><td>:</td><td>Evolution of the livestock in Livestock Units (LU) in the smaller Aegean islands and on mainland Greece.</td></tr>
+</table>
+<table><tr><td>Indicator 4c</td><td>:</td><td>Evolution of quantities of certain local agricultural products in the smaller Aegean islands.</td></tr>
+</table>
+<table><tr><td>Indicator 4d</td><td>:</td><td>Evolution of the quantities of certain products processed in the smaller Aegean islands from local products.</td></tr>
+</table>
+<table><tr><td>Indicator 4e</td><td>:</td><td>Evolution of employment in the agricultural sector on the smaller Aegean islands and in mainland Greece.</td></tr>
+</table>
+</td></tr>
+</table>
+
+## ANNEX III
+
+**Structure and content of the annual report referred to in Article 31**
+
+The structure and content of the report over the previous year shall be as follows:
+
+**1\. GENERAL CONTEXT IN THE PREVIOUS YEAR**
+
+1.1. Socio-economic context.
+
+1.2. Situation of agriculture and its development.
+
+**2\. PHYSICAL AND FINANCIAL IMPLEMENTATION OF THE MEASURES AND ACTIONS**
+
+2.1. Overall table with financial data concerning support for local production and specific supply arrangements, including initial allocation per measure and action, as well as actual spending and, if relevant, any State aid provided in accordance with Article 17 of Regulation (EU) No 229/2013.
+
+2.2. Comprehensive description of the physical and financial implementation of each measure and action, including technical assistance, comprised in the programme:
+
+(a) for the specific supply arrangements: data and analysis of the annual supply balance of the smaller Aegean islands;
+
+(b) for the support for local production: data and analysis of the physical and financial implementation of each measure and action listed in the programme including such data as the number of beneficiaries, the number of animals covered by the payment, the eligible surface area and/or the number of holdings concerned. Where necessary, the data must be accompanied by a presentation and analysis of the sector to which the measure relates.
+
+**3\. PERFORMANCE OF THE PROGRAMME IN THE PREVIOUS YEAR**
+
+3.1. Progress of the measures and actions towards the specific objectives and priorities of the programme and the general objectives set out in Article 2 of Regulation (EU) No 229/2013:
+
+(a) evolution and analysis of the national indicators quantifying the specific objectives of the programme and assessment of the extent to which the specific objectives assigned to each of the measures contained in the programme have been achieved;
+
+(b) for the specific supply arrangements, information on the manner in which the advantage granted was passed on, as well as the measures taken and the checks performed to ensure that it was passed on in compliance with Article 4 of this Regulation.
+
+(c) for the specific supply arrangements, analysis of the proportionality of the aid in relation to the additional cost of transport to the smaller Aegean islands and, in the case of products intended for processing and agricultural inputs, the additional costs of insularity and distant location;
+
+(d) annual data on the common performance indicators referred to in Article 29 of this Regulation and their analysis in particular with regard to the attainment of the general objectives set out in Article 2 of Regulation (EU) No 229/2013.
+
+3.2. Conclusions of the analyses on the suitability of the strategy of the measures and its possible improvement in order to achieve the objectives of the programme.
+
+**4\. MANAGEMENT OF THE PROGRAMME**
+
+4.1. Brief account of any major problems encountered in managing and implementing the measures during the year in question.
+
+4.2. Statistics on the checks carried out by the competent authorities and any penalties applied. Any additional information that could be useful for the understanding of the data submitted.
+
+**5\. AMENDMENTS**
+
+Brief summary of any amendments to the programme presented during the year in question and their justifications.
+
+( 1 ) Commission Implementing Regulation (EU) 2016/1239 of 18 May 2016 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the system of import and export licences (OJ L 206, 30.7.2016, p. 44).
+
+( 2 ) Commission Delegated Regulation (EU) 2016/1237 of 18 May 2016 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the rules for applying the system of import and export licences and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the rules on the release and forfeit of securities lodged for such licences, amending Commission Regulations (EC) No 2535/2001, (EC) No 1342/2003, (EC) No 2336/2003, (EC) No 951/2006, (EC) No 341/2007 and (EC) No 382/2008 and repealing Commission Regulations (EC) No 2390/98, (EC) No 1345/2005, (EC) No 376/2008 and (EC) No 507/2008 (OJ L 206, 30.7.2016, p. 1).
+
+( 3 ) Commission Delegated Regulation (EU) 2017/1183 of 20 April 2017 on supplementing Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council with regard to the notifications to the Commission of information and documents (OJ L 171, 4.7.2017, p. 100).
+
+( 4 ) Commission Implementing Regulation (EU) 2017/1185 of 20 April 2017 laying down rules for the application of Regulations (EU) No 1307/2013 and (EU) No 1308/2013 of the European Parliament and of the Council as regards notifications to the Commission of information and documents and amending and repealing several Commission Regulations (OJ L 171, 4.7.2017, p. 113).
+
+( 5 ) Commission Regulation (EC) No 1276/2008 of 17 December 2008 on the monitoring by physical checks of exports of agricultural products receiving refunds or other amounts (OJ L 339, 18.12.2008, p. 53).
+
+( 6 ) Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (OJ L 347, 20.12.2013, p. 549).
+
+( 7 ) Commission Implementing Regulation (EU) No 809/2014 of 17 July 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system, rural development measures and cross compliance (OJ L 227, 31.7.2014, p. 69).
+
+( 8 ) Commission Delegated Regulation (EU) No 640/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance (OJ L 181, 20.6.2014, p. 48).
+
+( 9 ) Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff (OJ L 256, 7.9.1987, p. 1).

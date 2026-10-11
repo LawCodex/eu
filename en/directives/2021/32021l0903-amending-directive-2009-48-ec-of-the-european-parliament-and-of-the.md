@@ -58,6 +58,7 @@ HAS ADOPTED THIS DIRECTIVE:
 
 In Appendix C to Annex II to Directive 2009/48/EC, the following entry is added:
 
+<table>
 <tbody><tr><td>Substance</td><td>CAS No</td><td>Limit value</td></tr>
 <tr><td>‘Aniline</td><td>62-53-3</td><td><table><tbody><tr><td>30 mg/kg</td><td>after reductive cleavage in textile toy material and leather toy material</td></tr>
 <tr><td>10 mg/kg</td><td>as free aniline in finger paints</td></tr>
@@ -66,6 +67,7 @@ In Appendix C to Annex II to Directive 2009/48/EC, the following entry is added:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 ## Article 2
 

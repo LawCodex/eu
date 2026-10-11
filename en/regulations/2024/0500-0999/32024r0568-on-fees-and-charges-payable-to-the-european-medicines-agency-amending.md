@@ -1,0 +1,966 @@
+---
+title: "Regulation (EU) 2024/568 of the European Parliament and of the Council of 7 February 2024 on fees and charges payable to the European Medicines Agency, amending Regulations (EU) 2017/745 and (EU) 2022/123 of the European Parliament and of the Council and repealing Regulation (EU) No 658/2014 of the European Parliament and of the Council and Council Regulation (EC) No 297/95"
+identifier: "32024R0568"
+eli: "http://data.europa.eu/eli/reg/2024/568/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2024-02-07
+entry_into_force: 2025-01-01
+last_amended: 2024-02-14
+consolidated_version: "02024R0568-20240214"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R0568-20240214"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2024/568 of the European Parliament and of the Council of 7 February 2024 on fees and charges payable to the European Medicines Agency, amending Regulations (EU) 2017/745 and (EU) 2022/123 of the European Parliament and of the Council and repealing Regulation (EU) No 658/2014 of the European Parliament and of the Council and Council Regulation (EC) No 297/95
+
+**REGULATION (EU) 2024/568 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 February 2024**
+
+**on fees and charges payable to the European Medicines Agency, amending Regulations (EU) 2017/745 and (EU) 2022/123 of the European Parliament and of the Council and repealing Regulation (EU) No 658/2014 of the European Parliament and of the Council and Council Regulation (EC) No 297/95**
+
+**REGULATION (EU) 2024/568 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 7 February 2024**
+
+**on fees and charges payable to the European Medicines Agency, amending Regulations (EU) 2017/745 and (EU) 2022/123 of the European Parliament and of the Council and repealing Regulation (EU) No 658/2014 of the European Parliament and of the Council and Council Regulation (EC) No 297/95**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation lays down rules concerning:
+
+(a) the fees and charges levied by the European Medicines Agency (the ‘Agency’) for assessment activities relating to obtaining and maintaining a Union authorisation to market medicinal products for human use and veterinary medicinal products, and for other services provided or tasks carried out by the Agency, as provided for in Regulations (EC) No 726/2004 and (EU) 2019/6;
+
+(b) the corresponding remuneration payable by the Agency to the competent authorities of the Member States for the services provided by rapporteurs and, where applicable, co-rapporteurs from competent authorities of the Member States, or by persons performing other roles considered as equivalent for the purposes of this Regulation, as referred to in the Annexes to this Regulation; and
+
+(c) the monitoring of the costs of activities and services provided by the Agency and the monitoring of the costs of the remuneration referred to in point (b).
+
+2\. This Regulation also lays down the following:
+
+(a) the amounts of the fees and charges referred to in paragraph 1, point (a), established on a cost-based evaluation; and
+
+(b) the corresponding amounts of remuneration referred to in paragraph 1, point (b), established on a cost-based evaluation.
+
+3\. Medicinal products for human use which are authorised to be placed on the market in accordance with Article 126a of Directive 2001/83/EC shall not be subject to the fees for pharmacovigilance activities set out in the Annexes to this Regulation.
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘chargeable unit in relation to medicinal products for human use’ means a unit defined by a unique combination of the following dataset derived from information on all medicinal products authorised in the Union, held by the Agency, and consistent with the obligation of marketing authorisation holders referred to in Article 57(2), points (b) and (c), of Regulation (EC) No 726/2004 to submit such information to the database referred to in Article 57(1), second subparagraph, point (l), of that Regulation:
+
+(a) the name of the medicinal product, as defined in Article 1, point (20), of Directive 2001/83/EC;
+
+(b) the marketing authorisation holder;
+
+(c) the Member State in which the marketing authorisation is valid;
+
+(d) the active substance or combination of active substances, except in the case of homeopathic medicinal products or herbal medicinal products, as defined in Article 1, points 5 and 30, respectively, of Directive 2001/83/EC;
+
+(e) the pharmaceutical form;
+
+(2) ‘chargeable unit in relation to veterinary medicinal products’ means a unit defined by the unique combination of the following data fields contained in the Union product database established pursuant to Article 55(1) of Regulation (EU) 2019/6:
+
+(a) the Permanent Identifier referred to under Data Field ID 3.1 in Annex III to Implementing Regulation (EU) 2021/16;
+
+(b) the Product Identifier referred to under Data Field ID 3.2 in Annex III to Implementing Regulation (EU) 2021/16;
+
+(3) ‘medium-sized enterprise’ means a medium-sized enterprise within the meaning of Recommendation 2003/361/EC;
+
+(4) ‘small enterprise’ means a small enterprise within the meaning of Recommendation 2003/361/EC;
+
+(5) ‘microenterprise’ means a microenterprise within the meaning of Recommendation 2003/361/EC;
+
+(6) ‘public health emergency’ means a situation of public health emergency recognised by the Commission in accordance with Article 23(1) of Regulation (EU) 2022/2371 of the European Parliament and of the Council ( 1 ).
+
+## Article 3 — Types of fees and charges
+
+The Agency may levy the following types of fees or charges:
+
+(a) fees and charges for assessment procedures and services relating to medicinal products for human use, as set out in Annex I;
+
+(b) fees and charges for assessment procedures and services relating to veterinary medicinal products, as set out in Annex II;
+
+(c) annual fees for authorised medicinal products for human use and for authorised veterinary medicinal products, as set out in Annex III;
+
+(d) other fees and charges for medicinal products for human use, veterinary medicinal products and consultations on medical devices, as set out in Annex IV.
+
+## Article 4 — Additional fees and charges
+
+1\. The Agency may levy a scientific service fee for scientific services it provides if those services are not covered by another fee or charge provided for in this Regulation or in another Union legal act. The amount of the scientific service fee shall take into account the workload involved. The minimum and maximum amount of such scientific service fees and, where relevant, the corresponding remuneration to the rapporteurs and, where relevant, co-rapporteurs, are set out in point 5 of Annex IV.
+
+2\. The Agency may levy a charge for administrative services that it provides at the request of a third party, if those services are not covered by another fee or charge provided for in this Regulation or in another Union legal act. The amount of the charge for administrative services shall take into account the workload involved. The minimum and maximum amount of such charges are set out in point 6.4 of Annex IV.
+
+3\. Fees and charges levied pursuant to paragraphs 1 and 2 shall be set by the Management Board of the Agency following a favourable opinion by the Commission, in accordance with the procedure established under Article 8. The applicable amounts shall be published on the website of the Agency.
+
+4\. The Commission shall take into account any fees and charges levied by the Agency in accordance with this Article in any revision of this Regulation.
+
+## Article 5 — Payment of remuneration to competent authorities of the Member States for the provision of services to the Agency
+
+1\. The Agency shall pay the competent authorities of the Member States the remuneration referred to in Article 1(1), point (b), in accordance with the amounts of remuneration provided for in this Regulation.
+
+2\. Where reductions or waivers apply to fees or charges, the corresponding remuneration payable to competent authorities of the Member States in accordance with this Regulation shall not be reduced, unless otherwise provided for in this Regulation.
+
+3\. The remuneration to competent authorities of the Member States shall be paid in accordance with the written contract referred to in Article 62(3), first subparagraph, of Regulation (EC) No 726/2004. The remuneration shall be paid in euro. Any bank charges related to the payment of such remuneration shall be borne by the Agency. Detailed rules concerning the payment of remuneration to competent authorities of the Member States shall be established by the Management Board of the Agency, in accordance with Article 8 of this Regulation.
+
+## Article 6 — Reductions and deferrals of fees and charges
+
+1\. The Agency shall apply the reductions and deferrals set out in Annex V.
+
+2\. Member States or Union institutions that have requested an assessment, opinion or a service from the Agency shall not be subject to fees or charges under this Regulation.
+
+3\. Without prejudice to Article 5(2), where the applicant or marketing authorisation holder may also benefit from a reduction provided for in another Union legal act, only that reduction which is the most favourable to the applicant or marketing authorisation holder shall apply.
+
+4\. On a reasoned proposal from the Executive Director of the Agency, in particular for the protection of public or animal health or for the support of specific types of products or types of applicants, selected for duly justified reasons, the Management Board of the Agency may grant, following a favourable opinion from the Commission, a total or partial reduction of the applicable fee or charge, in accordance with Article 8. The Agency shall make information on such reductions publicly available on its website, after deletion of all information of a commercially confidential nature.
+
+5\. In exceptional circumstances and for imperative reasons of public or animal health, the Executive Director of the Agency may grant, on a case-by-case basis, total or partial reductions of the fees set out in Annexes I, II, III and IV, with the exception of the fees set out in Sections 6, 14 and 15 of Annex I, Sections 7 and 10 of Annex II and Section 3 of Annex III. Any decision taken pursuant to this Article shall state the reasons on which it is based. The Agency shall make information on such reductions, including the reasons for the reductions, publicly available on its website, after deletion of all information of a commercially confidential nature.
+
+## Article 7 — Payment of fees and charges
+
+1\. Fees and charges due to the Agency under this Regulation shall be paid in euro.
+
+2\. Where fees and charges are due under this Regulation, the Agency shall issue a request for payment to the payer, stating the amount due and specifying the deadline for payment.
+
+Where the payer receives a request for payment under the first subparagraph, the payer shall make payment by the deadline for payment specified in the request.
+
+3\. Payment of the fees and charges shall be made by means of a transfer to the bank account of the Agency specified in the request for payment. Any bank charges related to that payment shall be borne by the payer.
+
+4\. The payer shall be deemed to have made the payment by the deadline for payment set by the Agency only if the full amount has been paid by that deadline. The date on which the full amount of the payment is received in the bank account held by the Agency shall constitute the date on which the payment has been made.
+
+## Article 8 — Working arrangements
+
+1\. The Management Board of the Agency shall, on a reasoned proposal from the Executive Director and following a favourable opinion from the Commission, establish working arrangements to facilitate the application of this Regulation, including payment methods of the fees and charges levied by the Agency, the mechanism for payment of remuneration to competent authorities of the Member States under this Regulation, a total or partial reduction of applicable fees or charges in accordance with Article 6(4), and the establishment of a common format, based on a transparent methodology, to be used by competent authorities of the Member States or experts contracted for the work of the expert panels on medical devices when providing the financial information to the Agency in accordance with Article 10(4).
+
+2\. As part of the working arrangements referred to in paragraph 1, the Management Board of the Agency shall also establish the scope of a distinct inspection, for each type of inspection. This shall include, where relevant, the medicinal product concerned, the site concerned, the activity concerned and the inspection team concerned.
+
+3\. The Agency shall make the working arrangements publicly available on its website.
+
+## Article 9 — Due date and measures in case of non-payment
+
+1\. By 1 January 2025, the due dates of the fees or charges levied in accordance with this Regulation shall be specified in the working arrangements set out in accordance with Article 8 of this Regulation. Due account shall be taken of the deadlines of the assessment procedures provided for in Regulations (EC) No 726/2004 and (EU) 2019/6 and in Directive 2001/83/EC.
+
+2\. Where the payment of any fee or charge levied by the Agency in accordance with this Regulation is overdue, and without prejudice to the Agency’s capacity to institute legal proceedings to ensure payment pursuant to Article 71 of Regulation (EC) No 726/2004, the Executive Director of the Agency may decide that the Agency will not provide the services or will not carry out the procedures to which the respective fee or charge relates, or that the Agency will suspend any ongoing or future services and procedures until the respective fee or charge has been paid, including relevant interest as provided for in Article 99 of Regulation (EU, Euratom) 2018/1046.
+
+## Article 10 — Transparency and monitoring
+
+1\. The Agency shall publish on its website the amounts of fees, charges and remuneration set out in the Annexes.
+
+2\. The Agency shall monitor its costs and the Executive Director of the Agency shall provide, in a timely manner as part of the annual activity report delivered to the European Parliament, the Council, the Commission and the Court of Auditors, detailed and substantiated information on the costs to be covered by fees and charges that are within the scope of this Regulation. That information shall include the performance information set out in Annex VI and may include other relevant information, such as information related to the practical aspects of carrying out the activities of the Agency, and a cost breakdown related to the previous calendar year and to a forecast for the following calendar year. The Agency shall also publish, in a timely manner, an overview of that information in its annual activity report.
+
+3\. In its annual activity report, the Agency shall publish the annual revenue received per type of fee and charge, including where reductions and waivers have been granted, and including fees and charges that are due but have not yet been received by the Agency.
+
+The Agency shall also include in its annual activity report a detailed breakdown of all remunerated amounts paid to competent authorities of the Member States for their work.
+
+4\. Competent authorities of the Member States responsible for medicinal products or experts contracted for the work of the expert panels on medical devices may provide the Agency with evidence of significant changes in the costs of services provided to the Agency, excluding any effect of inflationary adjustments and any costs for activities that do not constitute a service to the Agency.
+
+Such information may be provided once per calendar year or less frequently, as a complement to the information provided in accordance with Annex VI. Such evidence shall be based on duly justified and specific financial information on the nature and the extent of the financial impact on costs for services to the Agency. To that end, the competent authorities of the Member States or experts contracted for the work of the expert panels on medical devices shall use the common format facilitating comparison and consolidation, established in accordance with Article 8. The competent authorities of the Member States and the experts contracted to the Agency for the procedures of the expert panels on medical devices shall provide such information in the format provided by the Agency, together with any supporting information allowing the correctness of the amounts submitted to be verified. The Agency shall review and aggregate that information and shall use it, in accordance with paragraph 7, as a source for the special report provided for in that paragraph.
+
+5\. Article 257 of Regulation (EU, Euratom) 2018/1046 shall apply to the information provided to the Agency in accordance with paragraph 3 of this Article and Annex VI to this Regulation.
+
+6\. From 1 January 2025, the Commission shall monitor the inflation rate, measured by means of the Harmonised Index of Consumer Prices published by Eurostat pursuant to Regulation (EU) 2016/792, in relation to the amounts of fees, charges and remuneration set out in the Annexes to this Regulation. Such monitoring shall cover the period since the last inflation adjustment and shall thereafter take place on an annual basis. Any adjustment, in line with inflation, to fees, charges and remuneration established in accordance with this Regulation shall become applicable, at the earliest, on 1 January of the calendar year following the calendar year in which the monitoring exercise took place.
+
+7\. At the earliest in January 2026 and at three-year intervals thereafter, the Executive Director of the Agency shall provide the Commission with a special report adopted by the Management Board of the Agency outlining, in an objective, fact-based and sufficiently detailed manner, reasoned recommendations to:
+
+(a) increase or decrease the amount of any fee, charge or remuneration, following a significant change in the respective costs as identified, documented and substantiated in the report;
+
+(b) amend any other element of the Annexes pertaining to the levying of fees and charges by the Agency, including additional fees and charges referred to in Article 4;
+
+(c) adapt the specification of activities for which the Agency collects fees or charges to changing conditions and requirements;
+
+(d) increase, decrease or introduce any fee, charge or remuneration following a change in the statutory tasks of the Agency leading to a significant change in its costs.
+
+8\. The special report referred to in paragraph 7 and the recommendations it contains shall be based on the following:
+
+(a) monitoring of the information referred to in paragraphs 2 and 3 and of the cost of the activities necessary for the fulfilment of the statutory tasks of the Agency, aimed at identifying significant changes to the cost base of services and activities of the Agency; and
+
+(b) objective and verifiable information, including quantification that directly supports the relevance of the recommended adjustments.
+
+9\. The Agency shall make publicly available, in a timely manner, on its website the special report referred to in paragraph 7.
+
+10\. The Commission may request any clarification or further substantiation of the special report and its recommendations, if considered necessary. Following such a request, the Executive Director of the Agency shall without undue delay prepare an updated special report which addresses the matters raised in the Commission’s request. That updated special report shall be adopted in accordance with paragraph 7 and submitted forthwith to the Commission.
+
+11\. The time interval for the first special report as well as the reporting time interval referred to in paragraph 7 may be shortened in any of the following situations:
+
+(a) a public health emergency;
+
+(b) a change in the statutory tasks of the Agency;
+
+(c) there is evidence of significant changes in the costs or the cost-revenue balance of the Agency;
+
+(d) there is evidence of significant changes in the costs for cost-based remuneration to competent authorities of the Member States.
+
+## Article 11 — Revision
+
+1\. The Commission is empowered to adopt delegated acts in accordance with Article 13 to amend the Annexes where justified in view of any of the following:
+
+(a) a special report received by the Commission in accordance with Article 10(7);
+
+(b) the findings from the monitoring of the inflation rate referred to in Article 10(6); or
+
+(c) the budgetary reporting of the Agency.
+
+2\. Any revision of the fees and charges and of the remuneration paid to competent authorities of the Member States provided for in this Regulation shall be based on the Commission’s evaluation of the Agency’s costs and revenues and of the full costs of the services provided to the Agency within the scope of this Regulation by the competent authorities of the Member States, taking into account also the impact of such services on the sustainability of the operations of the Agency, including the services provided to the Agency by the competent authorities of the Member States, and a fair and objective allocation of fees, charges and remuneration.
+
+The Commission may take into account any factors that could have a substantive impact on the Agency’s costs, including but not limited to the workload associated with its activities, and potential risks related to fluctuations in its fee revenue. The fees and charges shall be set at a level which ensures that the Agency has sufficient revenue to cover the costs of the services delivered.
+
+3\. In any revision of the Annexes, the amounts of remuneration paid to competent authorities of the Member States provided for in this Regulation shall be maintained as a single amount of remuneration irrespective of the Member State of the competent authority concerned.
+
+## Article 12 — Estimate of the Agency’s budget
+
+The Agency shall, when producing an estimate of revenue and expenditure for the following financial year in accordance with Article 67(6) of Regulation (EC) No 726/2004, include detailed information on income from each type of fee and charge and on the corresponding remuneration. In accordance with the typology of fees and charges set out in Article 3 of this Regulation, that information shall distinguish between the following:
+
+(a) medicinal products for human use and consultations on medical devices;
+
+(b) veterinary medicinal products;
+
+(c) annual fees, by type;
+
+(d) other fees and charges, by type.
+
+The Agency may provide a breakdown by type of procedure in an annex to the single programming document produced in accordance with Article 32(1) of Delegated Regulation (EU) 2019/715.
+
+## Article 13 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 11(1) shall be conferred on the Commission for a period of five years from 15 February 2024. The Commission shall draw up a report in respect of the delegation of power not later than nine months before the end of the five-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than three months before the end of each period.
+
+3\. The delegation of power referred to in Article 11(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 11(1) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 14 — Amendment to Regulation (EU) 2017/745
+
+In Article 106 of Regulation (EU) 2017/745, paragraph 14 is replaced by the following:
+
+‘14. The fees established in accordance with the procedure under paragraph 13 of this Article shall be set in a transparent manner and on the basis of the costs for the services provided. The fees payable shall be reduced in the case of a clinical evaluation consultation procedure initiated in accordance with Section 5.1, point (c), of Annex IX involving a manufacturer who is a micro, small or medium-sized enterprise within the meaning of Recommendation 2003/361/EC.
+
+The fees related to the advice provided by expert panels are payable to EMA pursuant to Article 30, point (f), of Regulation (EU) 2022/123 of the European Parliament and of the Council ( *1 ).
+
+The fees related to the advice provided by expert laboratories are payable to the Commission.
+
+## Article 15 — Amendment to Regulation (EU) 2022/123
+
+Article 30, point (f), of Regulation (EU) 2022/123 is replaced by the following:
+
+‘(f) levy fees in accordance with Article 106(14) of Regulation (EU) 2017/745 and ensure that remuneration and expenses are provided to experts in accordance with implementing acts adopted by the Commission pursuant to Article 106(1) of Regulation (EU) 2017/745;’.
+
+## Article 16 — Repeal
+
+Regulation (EU) No 658/2014 of the European Parliament and of the Council ( 2 ) and Council Regulation (EC) No 297/95 ( 3 ) are repealed with effect from 1 January 2025.
+
+References to Regulation (EC) No 297/95 shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex VII to this Regulation.
+
+## Article 17 — Transitional provisions
+
+This Regulation shall not apply to annual fees, procedures or services for which the amount became due pursuant to Regulation (EC) No 297/95 or Regulation (EU) No 658/2014 before 1 January 2025.
+
+## Article 18 — Entry into force and date of application
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2025.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Fees, charges and remuneration for assessment procedures and services relating to medicinal products for human use**
+
+1\. Scientific advice provided by the Agency in accordance with Article 57(1), point (n), of Regulation (EC) No 726/2004
+
+1.1. A fee of EUR 98 400 shall apply to each of the following requests:
+
+(a) a request regarding quality, non-clinical and clinical development;
+
+(b) a request regarding quality and clinical development;
+
+(c) a request regarding non-clinical and clinical development;
+
+(d) a request regarding qualification of novel methodologies.
+
+The remuneration for each of the two scientific advice coordinators shall be EUR 24 600 .
+
+1.2. A fee of EUR 73 900 shall apply to each of the following requests:
+
+(a) a request regarding clinical development;
+
+(b) a request regarding quality and non-clinical development;
+
+(c) a request regarding quality development and bioequivalence studies for generic medicinal products as defined in Article 10(2), point (b), of Directive 2001/83/EC.
+
+The remuneration for each of the two scientific advice coordinators shall be EUR 18 500 .
+
+1.3. A fee of EUR 51 900 shall apply to each of the following requests:
+
+(a) a request regarding quality development;
+
+(b) a request regarding non-clinical development;
+
+(c) a request regarding bioequivalence studies for generic medicinal products as defined in Article 10(2), point (b), of Directive 2001/83/EC.
+
+The remuneration for each of the two scientific advice coordinators shall be EUR 12 300 .
+
+2\. Authorisation to market a medicinal product falling within the scope of Regulation (EC) No 726/2004
+
+2.1. A fee of EUR 865 200 shall apply to an application for a marketing authorisation for a medicinal product pursuant to Article 8(3) of Directive 2001/83/EC where the applicant claims a new active substance. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application. The remuneration shall be EUR 272 200 for the rapporteur, EUR 237 100 for the co-rapporteur and EUR 25 500 for the Pharmacovigilance Risk Assessment Committee (PRAC) rapporteur.
+
+2.2. A fee of EUR 690 700 shall apply to an application for a marketing authorisation for a medicinal product pursuant to Article 8(3) of Directive 2001/83/EC where the applicant claims a known active substance. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application. The remuneration shall be EUR 191 600 for the rapporteur, EUR 179 500 for the co-rapporteur and EUR 18 600 for the PRAC rapporteur.
+
+2.3. A fee of EUR 571 100 shall apply to an application for a fixed combination medicinal product pursuant to Article 10b of Directive 2001/83/EC. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application. The remuneration shall be EUR 177 200 for the rapporteur, EUR 104 000 for the co-rapporteur and EUR 14 100 for the PRAC rapporteur.
+
+2.4. A fee of EUR 732 400 shall apply to an application for a biological medicinal product which is similar to a reference biological product pursuant to Article 10(4) of Directive 2001/83/EC. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application. The remuneration shall be EUR 296 200 for the rapporteur, EUR 190 000 for the co-rapporteur and EUR 24 300 for the PRAC rapporteur.
+
+2.5. A fee of EUR 780 900 shall apply to an application for a marketing authorisation for a medicinal product pursuant to Article 10a of Directive 2001/83/EC. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application. The remuneration shall be EUR 201 200 for the rapporteur, EUR 187 100 for the co-rapporteur and EUR 19 400 for the PRAC rapporteur.
+
+2.6. A fee of EUR 177 900 shall apply to an application for a marketing authorisation for a generic medicinal product pursuant to Article 10(1) of Directive 2001/83/EC.
+
+That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application. The remuneration shall be EUR 78 300 for the rapporteur and EUR 3 900 for the PRAC rapporteur.
+
+2.7. A fee of EUR 172 800 shall apply to an application based on informed consent for a marketing authorisation for a medicinal product pursuant to Article 10c of Directive 2001/83/EC.
+
+That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application. The remuneration shall be EUR 50 400 for the rapporteur and EUR 2 500 for the PRAC rapporteur.
+
+2.8. A fee of EUR 426 100 shall apply to an application for a marketing authorisation for a medicinal product pursuant to Article 10(3) of Directive 2001/83/EC. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application. The remuneration shall be EUR 111 600 for the rapporteur, EUR 111 600 for the co-rapporteur and EUR 11 200 for the PRAC rapporteur.
+
+2.9. A fee of EUR 33 300 shall apply to the second and to each subsequent application for a marketing authorisation submitted pursuant to Article 10(1), (3) or (4) of Directive 2001/83/EC on patent grounds where indications or dosage forms of the reference medicinal product are still covered by patent law. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in the same application. The remuneration shall be EUR 8 500 for the rapporteur and EUR 1 300 for the co-rapporteur.
+
+3\. Scientific opinions and assessments prior to potential submission of an application for a marketing authorisation
+
+3.1. The amounts of the fees and the amounts of the corresponding remuneration laid down in Section 2 shall apply to any of the following:
+
+(a) an opinion on a medicinal product for compassionate use pursuant to Article 83 of Regulation (EC) No 726/2004;
+
+(b) an assessment on an on-going basis of data packages of particulars and documents submitted to the Agency by a prospective applicant prior to a formal submission of an application for a marketing authorisation falling within the scope of Regulation (EC) No 726/2004.
+
+3.2. The amounts applicable pursuant to points 3.1(a) and 3.1(b) shall cover all strengths, all pharmaceutical forms and all presentations submitted in the same application.
+
+3.3. An additional fee and additional remuneration shall apply to the assessment set out in point 3.1(b). The amount of that additional fee and the amounts of the corresponding additional remuneration shall be equal to 15 per cent of the respective amounts for an application for a marketing authorisation for a medicinal product falling within the scope of Regulation (EC) No 726/2004 that are laid down in point 2.
+
+3.4. In the event of multiple submissions of data packages submitted by the same prospective applicant for the same product, the fees applicable pursuant to point 3.1(b) and point 3.3 shall only be levied once, namely when the first data package is submitted.
+
+3.5. The amounts applicable pursuant to points 3.1(a) and 3.1(b) shall be deducted from the respective fee and remuneration payable to competent authorities of the Member States for an application for a marketing authorisation for the same product, where such application is submitted by the same applicant.
+
+4\. Extension of a marketing authorisation within the meaning of Annex I to Regulation (EC) No 1234/2008
+
+4.1. A fee of EUR 168 500 shall apply to an application for an extension of a marketing authorisation requiring only chemical, pharmaceutical or biological documentation and for which no clinical or non-clinical data are submitted. That fee shall cover a single pharmaceutical form and a single associated strength. The remuneration shall be EUR 56 700 for the rapporteur and EUR 33 300 for the co-rapporteur.
+
+4.2. A fee of EUR 196 800 shall apply to an application for an extension of a marketing authorisation not covered by point 4.1. That fee shall cover a single pharmaceutical form and a single associated strength. The remuneration shall be EUR 69 300 for the rapporteur and EUR 39 100 for the co-rapporteur.
+
+4.3. Without prejudice to points 4.1 and 4.2, a fee of EUR 33 300 shall apply to each application for an extension of a marketing authorisation on the basis of an application submitted under Article 10(1), (3) or (4) of Directive 2001/83/EC on patent grounds where indications or dosage forms of the reference medicinal product are still covered by patent law. The remuneration shall be EUR 8 500 for the rapporteur and EUR 1 300 for the co-rapporteur.
+
+5\. Major variation of type II to the terms of a marketing authorisation in accordance with Commission Regulation (EC) No 1234/2008
+
+5.1. A fee of EUR 163 200 shall apply to an application for a major variation of type II as defined in Article 2, point 3, of Regulation (EC) No 1234/2008 for an addition of a new therapeutic indication or modification of an approved indication. The remuneration shall be EUR 57 300 for the rapporteur and EUR 57 300 for the co-rapporteur.
+
+5.2. A fee of EUR 22 000 shall apply to an application for a major variation of type II not covered by point 5.1. The remuneration for the rapporteur shall be EUR 14 600 .
+
+5.3. For each application for a major variation of type II that is grouped in a single application pursuant to Article 7 of Regulation (EC) No 1234/2008, the corresponding fee shall be levied as set out in points 5.1 and 5.2. Remuneration shall be paid in accordance with those points.
+
+5.4. Where a work-sharing application pursuant to Article 20 of Regulation (EC) No 1234/2008 includes more than one centrally authorised product, the fees and remuneration specified in points 5.1 and 5.2 of this Annex shall apply to each variation of the first centrally authorised product, whereas a charge of EUR 900 shall apply to each variation of the second and subsequent centrally authorised product included in the application.
+
+6\. Referrals and scientific opinions pursuant to Article 5(3) of Regulation (EC) No 726/2004
+
+6.1. A fee of EUR 163 900 shall apply to the assessment carried out in the context of a procedure initiated under Article 5(3) of Regulation (EC) No 726/2004. Such fee shall be waived in full. The remuneration shall be EUR 15 500 for the rapporteur and EUR 15 500 for the co-rapporteur.
+
+6.2. A fee of EUR 313 500 shall apply to the assessment carried out in the context of a procedure initiated under Article 13 of Regulation (EC) No 1234/2008. Such fee shall be waived in full. The remuneration shall be EUR 19 200 for the rapporteur and EUR 19 200 for the co-rapporteur.
+
+6.3. A fee of EUR 98 900 shall apply to the assessment carried out in the context of a procedure initiated under Article 29(4) of Directive 2001/83/EC. Such fee shall be waived in full. The remuneration shall be EUR 3 500 for the rapporteur and EUR 3 500 for the co-rapporteur.
+
+6.4. A fee of EUR 153 100 shall apply to the assessment carried out in the context of a procedure initiated under Article 30 of Directive 2001/83/EC. The remuneration shall be EUR 8 500 for the rapporteur and EUR 8 500 for the co-rapporteur.
+
+6.5. A fee of EUR 216 200 shall apply to the assessment carried out in the context of a procedure initiated under Article 31 of Directive 2001/83/EC where that procedure is initiated as a result of the evaluation of data other than data relating to pharmacovigilance. The remuneration shall be EUR 15 500 for the rapporteur and EUR 15 500 for the co-rapporteur.
+
+6.6. A fee of EUR 206 600 shall apply to the assessment carried out in the context of a procedure initiated under Article 20 of Regulation (EC) No 726/2004 where that procedure is initiated as a result of the evaluation of data other than data relating to pharmacovigilance. The remuneration shall be EUR 21 900 for the rapporteur and EUR 21 900 for the co-rapporteur.
+
+6.7. For an assessment carried out in the context of a procedure initiated as a result of the evaluation of pharmacovigilance data under Article 31(1), second subparagraph, Article 31(2) and Articles 107i, 107j and 107k of Directive 2001/83/EC or under Article 20(8) of Regulation (EC) No 726/2004, the following fees shall apply:
+
+6.7.1. a fee of EUR 219 900 where one active substance or combination of active substances and one marketing authorisation holder are included in the assessment. The remuneration shall be EUR 28 600 for the rapporteur and EUR 28 600 for the co-rapporteur;
+
+6.7.2. a fee of EUR 310 000 where two or more active substances or combinations of active substances and one marketing authorisation holder are included in the assessment. The remuneration shall be EUR 32 900 for the rapporteur and EUR 32 900 for the co-rapporteur;
+
+6.7.3. a fee of EUR 377 100 where one or two active substances or combinations of active substances and two or more marketing authorisation holders are included in the assessment. The remuneration shall be EUR 40 100 for the rapporteur and EUR 40 100 for the co-rapporteur;
+
+6.7.4. a fee of EUR 511 600 where more than two active substances or combinations of active substances and two or more marketing authorisation holders are included in the assessment. The remuneration shall be EUR 54 400 for the rapporteur and EUR 54 400 for the co-rapporteur.
+
+6.8. Where two or more marketing authorisation holders are involved in the procedures referred to in points 6.4, 6.5, 6.6 and 6.7, the amount payable by each marketing authorisation holder shall be calculated by the Agency in two steps, as follows:
+
+(a) first, by dividing the total amount of the fee among the marketing authorisation holders proportionally to the number of chargeable units in relation to medicinal products for human use corresponding to products included in the procedure which are held by each of those marketing authorisation holders; and
+
+(b) second, by subsequently applying the fee reduction laid down in Section 1 of Annex V, where relevant.
+
+7\. Evaluation of traditional herbal medicinal products in accordance with Article 57(1), point (n), of Regulation (EC) No 726/2004
+
+A fee of EUR 34 900 shall apply to a request for scientific advice from the Committee on Herbal Medicinal Products related to traditional herbal medicinal products. The remuneration for the rapporteur shall be EUR 4 500 .
+
+8\. Certification of compliance with Union legislation for a plasma master file (PMF) in accordance with Part III of Annex I to Directive 2001/83/EC
+
+8.1. A fee of EUR 69 000 shall apply to an application for review of a PMF and its initial certification pursuant to Part III, point 1.1, of Annex I to Directive 2001/83/EC. The remuneration shall be EUR 10 800 for the rapporteur and EUR 10 800 for the co-rapporteur.
+
+8.2. A charge of EUR 6 900 shall apply to the issuing of an initial PMF certification where it is submitted simultaneously with an application for a marketing authorisation for a medicinal product under the centralised procedure. The PMF documentation shall be evaluated within the centralised marketing authorisation application.
+
+8.3. A fee of EUR 12 800 shall apply to an application for review and certification of a major variation of type II to the PMF pursuant to Regulation (EC) No 1234/2008. The remuneration shall be EUR 2 000 for the rapporteur and EUR 2 000 for the co-rapporteur.
+
+For two or more major variations of type II grouped in a single application pursuant to Regulation (EC) No 1234/2008, the fee and remuneration laid down in point 8.4 of this Annex shall apply.
+
+8.4. A fee of EUR 20 400 shall apply to an application for review and annual re-certification of a PMF which may include any variation pursuant to Regulation (EC) No 1234/2008 submitted simultaneously with the application for a PMF annual re-certification. The remuneration shall be EUR 2 400 for the rapporteur and EUR 2 400 for the co-rapporteur.
+
+9\. Certification of compliance with Union legislation for a vaccine antigen master file (VAMF)
+
+9.1. A fee of EUR 69 000 shall apply to an application for review of a VAMF and its initial certification not submitted simultaneously with a new application for marketing authorisation under the centralised procedure pursuant to Part III, point 1.2, of Annex I to Directive 2001/83/EC. The remuneration shall be EUR 10 800 for the rapporteur and EUR 10 800 for the co-rapporteur.
+
+9.2. In the case of a group of antigens aimed at preventing a single infectious disease, a fee shall be levied for the VAMF application for one antigen and remuneration shall be paid pursuant to point 9.1. The second and subsequent VAMF applications submitted simultaneously for antigens as part of the same group shall be charged a fee of EUR 9 500 for each VAMF. The total amount charged by the Agency for VAMF applications submitted simultaneously for antigens as part of the same group shall not exceed EUR 82 800 . In that case, the remuneration for each second and subsequent VAMF shall be EUR 2 400 for the rapporteur and EUR 2 400 for the co-rapporteur.
+
+9.3. A charge of EUR 6 900 shall apply to an application for issuing each VAMF certification where it is submitted simultaneously with a new application for a marketing authorisation under the centralised procedure.
+
+9.4. A fee of EUR 12 800 shall apply to an application for review and certification of a major variation of type II to the VAMF pursuant to Regulation (EC) No 1234/2008. The remuneration shall be EUR 1 900 for the rapporteur and EUR 1 900 for the co-rapporteur.
+
+For each major variation of type II that is grouped in a single application made pursuant to Regulation (EC) No 1234/2008 a fee shall be levied as set out in the first subparagraph of this point.
+
+10\. Certification of quality and non-clinical data relating to advanced therapy medicinal products (ATMPs) developed by SMEs in accordance with Regulation (EC) No 1394/2007
+
+10.1. A fee of EUR 173 100 shall apply to an application for evaluating and certifying the quality and non-clinical data pursuant to Article 18 of Regulation (EC) No 1394/2007. Such fee shall be waived in full. The remuneration for the rapporteur shall be EUR 59 400 .
+
+10.2. A fee of EUR 115 100 shall apply to an application for evaluating and certifying only the quality data pursuant to Article 18 of Regulation (EC) No 1394/2007. Such fee shall be waived in full. The remuneration for the rapporteur shall be EUR 39 500 .
+
+11\. Paediatric applications in accordance with Regulation (EC) No 1901/2006
+
+11.1. A fee of EUR 38 100 shall apply to an application for agreement of a paediatric investigation plan requested pursuant to Article 15 of Regulation (EC) No 1901/2006. Such fee shall be waived in full. The remuneration for the rapporteur shall be EUR 8 400 .
+
+11.2. A fee of EUR 21 300 shall apply to an application for a modification of an agreed paediatric investigation plan pursuant to Article 22 of Regulation (EC) No 1901/2006. Such fee shall be waived in full. The remuneration for the rapporteur shall be EUR 8 000 .
+
+11.3. A fee of EUR 14 400 shall apply to an application for a product-specific waiver pursuant to Article 13 of Regulation (EC) No 1901/2006. Such fee shall be waived in full. The remuneration for the rapporteur shall be EUR 2 300 .
+
+11.4. A fee of EUR 9 600 shall apply to a request for compliance check with the paediatric investigation plan pursuant to Article 23 of Regulation (EC) No 1901/2006. Such fee shall be waived in full. The remuneration for the rapporteur shall be EUR 1 300 .
+
+12\. Orphan designation in accordance with Regulation (EC) No 141/2000
+
+A fee of EUR 20 000 shall apply to an application for or reassessment of the designation of an orphan medicinal product pursuant to Regulation (EC) No 141/2000. Such fee shall be waived in full. The remuneration for the rapporteur shall be EUR 1 900 .
+
+13\. Scientific opinions on the evaluation of medicinal products intended exclusively for markets outside the Union
+
+A fee and corresponding remuneration as specified in Sections 1 to 5 of this Annex and in Sections 1, 3, 4 and 5 of Annex IV and points 6.1, 6.2 and 6.4 of that Annex shall apply to an application for a scientific opinion following the evaluation of a medicinal product for human use intended exclusively for markets outside the Union pursuant to Article 58 of Regulation (EC) No 726/2004.
+
+14\. Periodic safety update reports
+
+14.1. A fee of EUR 34 100 shall apply per procedure for the assessment of periodic safety update reports referred to in Articles 107e and 107g of Directive 2001/83/EC and in Article 28 of Regulation (EC) No 726/2004. The remuneration for the rapporteur shall be EUR 17 300 .
+
+14.2. Where two or more marketing authorisation holders are subject to the obligation to submit periodic safety update reports in the context of the procedures referred to in point 14.1, the amount payable by each marketing authorisation holder shall be calculated by the Agency in two steps, as follows:
+
+(a) first, by dividing the total amount of the fee among the marketing authorisation holders proportionally to the number of chargeable units in relation to medicinal products for human use corresponding to products included in the procedure which are held by each of those marketing authorisation holders; and
+
+(b) second, by subsequently applying the fee reduction laid down in point 1 of Annex V, where relevant.
+
+15\. Post-authorisation safety studies
+
+15.1. A fee of EUR 107 000 shall apply to an assessment carried out under Articles 107n to 107q of Directive 2001/83/EC and Article 28b of Regulation (EC) No 726/2004 of post-authorisation safety studies as referred to in Article 21a, point (b), or Article 22a(1), point (a), of Directive 2001/83/EC, or in Article 9(4), point (cb), or Article 10a(1), point (a), of Regulation (EC) No 726/2004, that are conducted in more than one Member State.
+
+15.2. The fee shall be levied as follows:
+
+(a) EUR 53 500 shall be due at the date of the start of the procedure for the assessment of the draft protocol referred to in Article 107n of Directive 2001/83/EC. The remuneration for the rapporteur shall be EUR 22 300 ; and
+
+(b) EUR 53 500 shall be due at the date of the start of the procedure for the assessment of the final study report, as referred to in Article 107p of Directive 2001/83/EC, by the Pharmacovigilance Risk Assessment Committee. The remuneration for the rapporteur shall be EUR 22 300 .
+
+15.3. Where the obligation to conduct a post-authorisation safety study is imposed by the Commission on more than one marketing authorisation holder, the same concerns apply to more than one medicinal product and the marketing authorisation holders concerned conduct a joint post-authorisation safety study, the Agency shall calculate the amount payable by each marketing authorisation holder in two steps, as follows:
+
+(a) first, by evenly dividing the total amount of the fee among those marketing authorisation holders; and
+
+(b) second, by subsequently applying the fee reduction as set out in point 1 of Annex V, where relevant.
+
+15.4. Marketing authorisation holders who are charged the fee under this point shall be exempted from the payment of any other fee levied by the Agency or competent authorities of the Member State for the submission of the studies referred to in point 15.1.
+
+## ANNEX II
+
+**Fees, charges and remuneration for assessment procedures and services relating to veterinary medicinal products**
+
+1\. Scientific advice provided by the Agency in accordance with Article 57(1), point (n), of Regulation (EC) No 726/2004
+
+1.1. A fee of EUR 35 100 shall apply to each of the following requests:
+
+(a) a request regarding quality, safety and clinical development;
+
+(b) a request regarding quality and clinical development;
+
+(c) a request regarding safety and clinical development;
+
+The remuneration for the scientific advice coordinator shall be EUR 16 700 .
+
+1.2. A fee of EUR 25 700 shall apply to each of the following requests:
+
+(a) a request regarding clinical development;
+
+(b) a request regarding quality and safety development;
+
+(c) a request regarding quality development and bioequivalence studies for generic veterinary medicinal products as defined in Article 4, point (9), of Regulation (EU) 2019/6.
+
+The remuneration for the scientific advice coordinator shall be EUR 10 700 .
+
+1.3. A fee of EUR 22 600 shall apply to each of the following requests:
+
+(a) a request regarding quality development;
+
+(b) a request regarding safety development;
+
+(c) a request regarding bioequivalence studies for generic veterinary medicinal products as defined in Article 4, point (9), of Regulation (EU) 2019/6;
+
+(d) a request for a preliminary risk profile;
+
+(e) a request related to the setting of a new maximum residue limit (MRL).
+
+The remuneration for the scientific advice coordinator shall be EUR 6 500 .
+
+2\. Request for classification of a veterinary medicinal product as intended for a limited market as defined in Article 4, point (29), of Regulation (EU) 2019/6 and for consideration for eligibility for authorisation in accordance with Article 23 of that Regulation
+
+A charge of EUR 5 500 shall apply to a request for classification of a veterinary medicinal product as intended for a limited market as defined in Article 4, point (29), of Regulation (EU) 2019/6 and for consideration for eligibility for authorisation pursuant to Article 23 of Regulation (EU) 2019/6.
+
+3\. Establishment, modification or extension of an MRL in accordance with the procedure laid down in Regulation (EC) No 470/2009
+
+3.1. A fee of EUR 89 700 shall apply to an application to set an initial MRL for a given substance. The remuneration shall be EUR 22 700 for the rapporteur and EUR 10 900 for the co-rapporteur.
+
+3.2. A fee of EUR 56 100 shall apply to each application to modify or to extend an existing MRL. The remuneration shall be EUR 11 200 for the rapporteur and EUR 10 300 for the co-rapporteur.
+
+3.3. A fee of EUR 25 700 shall apply to the assessment to determine whether a chemical-unlike biological substance requires a full MRL evaluation or not pursuant to Section I.7 of Annex I to Regulation (EU) 2018/782. The remuneration for the rapporteur shall be EUR 10 700 .
+
+4\. Authorisation to market veterinary medicinal products falling within the scope of the centralised marketing authorisation procedure pursuant to Article 42 of Regulation (EU) 2019/6
+
+4.1. A fee of EUR 313 000 shall apply to an application for a marketing authorisation for a veterinary medicinal product pursuant to Article 8, 23 or 25 of Regulation (EU) 2019/6 where the applicant claims a new active substance. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application, irrespective of the number of target species. The remuneration shall be EUR 113 300 for the rapporteur and EUR 40 400 for the co-rapporteur.
+
+4.2. A fee of EUR 283 600 shall apply to an application for a marketing authorisation for a veterinary medicinal product pursuant to Article 8, 20, 22, 23 or 25 of Regulation (EU) 2019/6 where the applicant claims a known active substance. That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in that application, irrespective of the number of target species. The remuneration shall be EUR 87 000 for the rapporteur and EUR 37 400 for the co-rapporteur.
+
+4.3. A fee of EUR 144 900 shall apply to any of the following applications:
+
+(a) an application for a marketing authorisation for a generic veterinary medicinal product pursuant to Article 18 of Regulation (EU) 2019/6;
+
+(b) an application for a marketing authorisation for a hybrid veterinary medicinal product pursuant to Article 19 of Regulation (EU) 2019/6;
+
+(c) an application based on informed consent for a marketing authorisation for a veterinary medicinal product pursuant to Article 21 of Regulation (EU) 2019/6.
+
+That fee shall cover all strengths, all pharmaceutical forms and all presentations submitted in the same application, irrespective of the number of target species. The remuneration shall be EUR 32 600 for the rapporteur and EUR 19 000 for the co-rapporteur.
+
+5\. Re-examination of a marketing authorisation for limited markets
+
+A fee of EUR 20 100 shall apply to an application for a re-examination of a marketing authorisation for a limited market pursuant to Article 24(3) of Regulation (EU) 2019/6. The remuneration shall be EUR 3 300 for the rapporteur and EUR 2 500 for the co-rapporteur.
+
+6\. Variations to the terms of a marketing authorisation, requiring assessment in accordance with Articles 64, 65 and 66 of Regulation (EU) 2019/6
+
+6.1. A fee of EUR 93 000 shall apply to a variation requiring assessment introducing changes of active substance(s), strength, pharmaceutical form, route of administration or food-producing target species, which are to be assessed within 90 days in accordance with Article 66(3) of Regulation (EU) 2019/6. That fee shall be levied for each single pharmaceutical form or each single associated strength or potency. The remuneration shall be EUR 30 300 for the rapporteur and EUR 9 100 for the co-rapporteur.
+
+6.2. A fee of EUR 50 300 shall apply to variations requiring assessment that introduce changes to safety, efficacy or pharmacovigilance, which are to be assessed within 60 or 90 days, as the case may be, in accordance with Article 66(3) of Regulation (EU) 2019/6. The remuneration shall be EUR 10 400 for the rapporteur and EUR 8 100 for the co-rapporteur.
+
+6.3. A fee of EUR 25 300 shall apply to variations requiring assessment introducing quality changes only, which are to be assessed within 60 days in accordance with Article 66(3) of Regulation (EU) 2019/6. The remuneration shall be EUR 3 800 for the rapporteur and EUR 3 800 for the co-rapporteur.
+
+6.4. Where several variations requiring assessment are grouped in a single application under Article 64 of Regulation (EU) 2019/6, the corresponding fee as set out in points 6.1, 6.2 and 6.3 of this Annex shall apply to each of the first two variations. Remuneration shall be paid in accordance with those points. For the third and subsequent variations, the fee shall be EUR 12 700 per variation and the remuneration shall be EUR 1 900 per variation for the rapporteur and EUR 1 900 for the co-rapporteur.
+
+6.5. Where a work-sharing application pursuant to Article 65 of Regulation (EU) 2019/6 includes more than one centrally authorised product, the fees and remuneration specified in points 6.1, 6.2 and 6.3 of this Annex shall apply to each variation of the first centrally authorised product, whereas a charge of EUR 800 shall apply to each variation of the second and subsequent centrally authorised product included in that application.
+
+7\. Referrals and arbitration procedures
+
+7.1. A fee of EUR 161 800 shall apply to the assessment carried out in the context of a procedure initiated under Article 54(8) of Regulation (EU) 2019/6. Such fee shall be waived in full. The remuneration shall be EUR 22 400 for the rapporteur and EUR 10 200 for the co-rapporteur.
+
+7.2. A fee of EUR 221 700 shall apply to the assessment carried out in the context of a procedure initiated under Article 70(11) of Regulation (EU) 2019/6. Such fee shall be waived in full. The remuneration shall be EUR 30 900 for the rapporteur and EUR 13 700 for the co-rapporteur.
+
+7.3. A fee of EUR 155 900 shall apply to the assessment carried out pursuant to Article 141(1), points (c) and (e), of Regulation (EU) 2019/6. Such fee shall be waived in full. The remuneration shall be EUR 18 500 for the rapporteur and EUR 8 200 for the co-rapporteur.
+
+7.4. A fee of EUR 221 700 shall apply to the assessment carried out in the context of a procedure initiated under Article 82 of Regulation (EU) 2019/6. The remuneration shall be EUR 30 900 for the rapporteur and EUR 13 700 for the co-rapporteur.
+
+7.5. A fee of EUR 155 900 shall apply to the assessment carried out in the context of a procedure initiated under Article 129(3) or Article 130(4) of Regulation (EU) 2019/6. The remuneration shall be EUR 18 500 for the rapporteur and EUR 8 200 for the co-rapporteur.
+
+7.6. Where two or more marketing authorisation holders are involved in the procedures referred to in point 7.4 or 7.5, the amount payable by each marketing authorisation holder shall be calculated by the Agency in two steps, as follows:
+
+(a) first, by dividing the total amount of the fee among the marketing authorisation holders proportionally to the number of chargeable units in relation to veterinary medicinal products corresponding to products included in the procedure which are held by each of those marketing authorisation holders; and
+
+(b) second, by subsequently applying the fee reduction laid down in Section 1 of Annex V, where relevant.
+
+8\. Certification of compliance with Union legislation for vaccine antigen master files (VAMF)
+
+8.1. A fee of EUR 25 300 shall apply to an application for review of a VAMF and its certification pursuant to point V.2 of Annex II to Regulation (EU) 2019/6 when it is submitted simultaneously with an initial application for a marketing authorisation for a veterinary medicinal product under the centralised procedure containing the named antigen. The remuneration shall be EUR 3 800 for the rapporteur and EUR 3 800 for the co-rapporteur.
+
+8.2. For multiple VAMF applications submitted simultaneously in the context of the same initial marketing authorisation application, a fee of EUR 25 300 shall apply to each VAMF. The total amount levied by the Agency shall not exceed EUR 76 000 . The remuneration shall be EUR 3 800 for the rapporteur and EUR 3 800 for the co-rapporteur for each VAMF. The remuneration shall not exceed EUR 11 400 for the rapporteur and EUR 11 400 for the co-rapporteur.
+
+8.3. A fee of EUR 35 100 shall apply to an application for the review of a VAMF and its certification when submitted as a separate application for an antigen in vaccine(s) already authorised under the centralised, decentralised or mutual recognition procedure. The remuneration shall be EUR 5 300 for the rapporteur and EUR 5 300 for the co-rapporteur.
+
+8.4. Section 6 of this Annex shall apply to variations to a certified VAMF.
+
+9\. Certification of compliance with Union legislation for vaccine platform technology master files (vPTMF)
+
+9.1. A fee of EUR 25 300 shall apply to an application for the review of a vPTMF and its certification pursuant to point V.4 of Annex II to Regulation (EU) 2019/6 when submitted simultaneously with an initial application for a marketing authorisation for a veterinary medicinal product under the centralised procedure containing the named platform. The remuneration shall be EUR 3 800 for the rapporteur and EUR 3 800 for the co-rapporteur.
+
+9.2. A fee of EUR 35 100 shall apply to an application for the review of a vPTMF and its certification when submitted as a separate application for a platform in vaccines already authorised under the centralised, decentralised or mutual recognition procedure. The remuneration shall be EUR 5 300 for the rapporteur and EUR 5 300 for the co-rapporteur.
+
+9.3. Section 6 of this Annex shall apply to variations to a certified vPTMF.
+
+10\. Assessment of post-marketing surveillance studies
+
+10.1. A fee of EUR 40 000 shall apply to the assessment of post-marketing surveillance studies pursuant to Article 76(3) of Regulation (EU) 2019/6 that are conducted in more than one Member State.
+
+10.2. The fee shall be levied as follows:
+
+(a) EUR 20 000 shall be due at the date of the start of the procedure for the approval of the draft study protocol as referred to in Article 15(3) of Implementing Regulation (EU) 2021/1281. The remuneration for the rapporteur shall be EUR 8 200 ;
+
+(b) EUR 20 000 shall be due at the date of the start of the procedure for the assessment of the final study report as referred to in Article 15(5) of Implementing Regulation (EU) 2021/1281. The remuneration for the rapporteur shall be EUR 8 200 .
+
+10.3. Where the obligation to conduct a post-marketing surveillance study is imposed by the Commission on more than one marketing authorisation holder and the marketing authorisation holders concerned conduct a joint post-marketing surveillance study, the Agency shall calculate the amount payable by each marketing authorisation holder in two steps, as follows:
+
+(a) first, by evenly dividing the total amount of the fee among those marketing authorisation holders; and
+
+(b) second, by subsequently applying the fee reduction as set out in point 1 of Annex V, where relevant.
+
+11\. Scientific opinions in the context of cooperation with international organisations for animal health for the evaluation of veterinary medicinal products intended exclusively for markets outside the Union
+
+A fee and corresponding remuneration as specified in Sections 1, 3, 4 and 6 of this Annex and in Sections 1, 3, 4 and 5 of Annex IV and points 6.1, 6.2 and 6.4 of that Annex shall apply to an application for a scientific opinion for the evaluation of veterinary medicinal products intended exclusively for markets outside the Union pursuant to Article 138 of Regulation (EU) 2019/6.
+
+## ANNEX III
+
+**Annual fees and remuneration**
+
+1\. Annual fee for medicinal products for human use authorised in accordance with Regulation (EC) No 726/2004
+
+1.1. An annual fee of EUR 60 300 shall apply to each marketing authorisation of a medicinal product for human use authorised on the basis of an application submitted under Article 10(1) and (3) and Article 10c of Directive 2001/83/EC. The remuneration shall be EUR 8 000 for the rapporteur, EUR 7 000 for the co-rapporteur and EUR 1 500 for the PRAC rapporteur.
+
+1.2. An annual fee of EUR 118 100 shall apply to each marketing authorisation of a medicinal product for human use authorised on the basis of an application submitted under Article 10(4) of Directive 2001/83/EC. The remuneration shall be EUR 16 200 for the rapporteur, EUR 14 300 for the co-rapporteur and EUR 3 000 for the PRAC rapporteur.
+
+1.3. An annual fee of EUR 232 400 shall apply to each marketing authorisation of a medicinal product for human use not covered by point 1.1 or 1.2. The remuneration shall be EUR 32 200 for the rapporteur, EUR 28 400 for the co-rapporteur and EUR 6 100 for the PRAC rapporteur.
+
+1.4. The annual fees as specified in points 1.1, 1.2 and 1.3 shall relate to the preceding year.
+
+2\. Annual fee for veterinary medicinal products authorised through the centralised procedure in accordance with Regulation (EU) 2019/6
+
+2.1. An annual fee of EUR 26 200 shall apply to each marketing authorisation of a veterinary medicinal product authorised pursuant to Article 18, 19 or 21 of Regulation (EU) 2019/6. The remuneration shall be EUR 6 300 for the rapporteur and EUR 5 800 for the co-rapporteur.
+
+2.2. An annual fee of EUR 106 400 shall apply to each marketing authorisation of a veterinary medicinal product not covered by point 2.1. The remuneration shall be EUR 25 600 for the rapporteur and EUR 23 500 for the co-rapporteur.
+
+2.3. The annual fees as specified in points 2.1 and 2.2 shall relate to the preceding year.
+
+3\. Annual pharmacovigilance fee for medicinal products for human use authorised in accordance with Directive 2001/83/EC and for veterinary medicinal products authorised by competent authorities of the Member States in accordance with Regulation (EU) 2019/6
+
+3.1. For medicinal products for human use authorised in accordance with Directive 2001/83/EC, a fee of EUR 230 per chargeable unit in relation to medicinal products for human use, shall apply once per year for the Agency’s pharmacovigilance activities including analysis of Union-wide health data to support better decision-making with real world evidence. The Agency shall retain the fee revenue from the annual pharmacovigilance fee.
+
+3.2. For veterinary medicinal products authorised by competent authorities of the Member States in accordance with Chapter III, Sections 2 to 5, of Regulation (EU) 2019/6, a fee of EUR 90 per chargeable unit in relation to veterinary medicinal products shall apply once per year for the Agency’s pharmacovigilance activities. The Agency shall retain the fee revenue from the annual pharmacovigilance fee.
+
+3.3. The total payable amount of the annual fees referred to in points 3.1 and 3.2 for each marketing authorisation holder shall be calculated by the Agency on the basis of the number of chargeable units in relation to medicinal products for human use and chargeable units in relation to veterinary medicinal products, respectively, which correspond to the information recorded on 1 July each year.
+
+3.4. The annual fees referred to in points 3.1 and 3.2 shall be due on 1 July every year and shall cover the period from 1 January to 31 December of that calendar year.
+
+## ANNEX IV
+
+**Other fees and charges for medicinal products for human use, veterinary medicinal products and consultations on medical devices**
+
+1\. Inspections pursuant to Article 8(2), Article 19 and Article 57(1), point (i), of Regulation (EC) No 726/2004 and Article 126(2) of Regulation (EU) 2019/6
+
+1.1. Inspections in relation to medicinal products for human use and veterinary medicinal products
+
+1.1.1. For any distinct Good Manufacturing Practice inspection within the Union a fee of EUR 30 300 shall apply. The remuneration shall be EUR 10 800 for the leading authority and EUR 6 500 for the supporting authority.
+
+1.1.2. For any distinct Good Manufacturing Practice inspection outside the Union a fee of EUR 48 700 shall apply. The remuneration shall be EUR 20 900 for the leading authority and EUR 12 600 for the supporting authority.
+
+1.1.3. For any distinct Good Clinical Practice inspection within the Union a fee of EUR 45 600 shall apply. The remuneration shall be EUR 18 400 for the leading authority and EUR 11 400 for the supporting authority.
+
+1.1.4. For any distinct Good Clinical Practice inspection outside the Union a fee of EUR 57 000 shall apply. The remuneration shall be EUR 26 300 for the leading authority and EUR 13 900 for the supporting authority.
+
+1.1.5. For any distinct Plasma Master File inspection within or outside the Union a fee of EUR 46 100 shall apply. The remuneration shall be EUR 17 900 for the leading authority and EUR 11 000 for the supporting authority.
+
+1.1.6. For any consecutive Plasma Master File inspection within or outside the Union a fee of EUR 44 300 shall apply. The remuneration shall be EUR 16 800 for the leading authority and EUR 10 300 for the supporting authority.
+
+1.1.7. For any distinct Good Laboratory Practice inspection within or outside the Union a fee of EUR 42 900 shall apply. The remuneration shall be EUR 16 500 for the leading authority and EUR 10 900 for the supporting authority.
+
+1.1.8. For any distinct pharmacovigilance inspection within or outside the Union a fee of EUR 64 300 shall apply. The remuneration shall be EUR 20 300 for the leading authority and EUR 12 700 for the supporting authority.
+
+1.2. If a scheduled inspection is cancelled 30 calendar days or less before the first day of the inspection for reasons attributable to the applicant, the applicable fee referred to in point 1.1 shall apply.
+
+1.3. If a scheduled inspection is cancelled more than 30 calendar days before the first day of the inspection for reasons attributable to the applicant, a charge of EUR 1 000 shall apply.
+
+1.4. The supervisory authorities shall charge the applicant the travel expenses separately from the fee specified in this Annex, based on actual costs. In case of a cancelled inspection as set out in point 1.2 or 1.3, the applicant shall be charged for any travel expenses already incurred by the inspecting authority on the date of cancellation for which that authority is not able to obtain reimbursement.
+
+2\. Transfer of a marketing authorisation
+
+A charge of EUR 4 400 shall apply to an application for the transfer of a marketing authorisation pursuant to Article 3 of Regulation (EC) No 2141/96. This covers all authorised presentations of a given medicinal product.
+
+The charge shall be levied to the marketing authorisation holder that requested the transfer, according to the application submitted to the Agency.
+
+3\. Pre-submission requests by a prospective applicant prior to a potential submission of an application for a marketing authorisation falling within the scope of the centralised procedure
+
+3.1. A fee of EUR 8 600 shall apply to each eligibility request submitted with a notification of intention to submit an application for a marketing authorisation falling within the scope of Regulation (EC) No 726/2004 or the scope of the centralised marketing authorisation procedure pursuant to Article 42 of Regulation (EU) 2019/6. The fee shall cover any costs related to pre-submission activities up until the potential submission of the marketing authorisation application. The fee shall apply irrespective of whether or not a marketing authorisation application for the concerned product is subsequently submitted. If an eligibility request with a notification of intention to submit an application for a marketing authorisation has not been submitted, the fee shall apply in addition to the applicable authorisation fee.
+
+The remuneration of the competent authority of the Member State, where applicable, shall be EUR 1 600 for the rapporteur and EUR 1 600 for the co-rapporteur.
+
+3.2. Where the applicant changes the intended submission date by more than 60 days, an additional fee of EUR 4 200 shall apply. The additional remuneration of the competent authority of the Member State, where applicable, shall be EUR 800 for the rapporteur and EUR 800 for the co-rapporteur.
+
+4\. Re-examination of an opinion of the Committees referred to in Article 56(1) of Regulation (EC) No 726/2004 and in Article 139(1) of Regulation (EU) 2019/6
+
+The fee for the re-examination of an opinion of any of the committees referred to in Article 56(1) of Regulation (EC) No 726/2004 and in Article 139(1) of Regulation (EU) 2019/6 shall be 30 % of the fee applicable to the initial opinion in accordance with Sections 2, 4, 5 and 6 of Annex I and Sections 3, 4, 6 and 7 of Annex II to this Regulation.  The remuneration to the rapporteur and the co-rapporteur shall be calculated based on the same proportion of the respective remuneration.
+
+5\. Scientific services referred to in Article 4(1) of this Regulation
+
+The range for fees for scientific services referred to in Article 4(1) shall be EUR 5 000 to EUR 841 100 . The range for the remuneration shall be EUR 1 300 to EUR 272 200 for the rapporteur and the co-rapporteur. The applicable amounts of the fee and the remuneration within the above ranges shall be determined in accordance with Article 8 of this Regulation.
+
+6\. Administrative services
+
+6.1. Administrative charge
+
+A charge of EUR 4 400 shall apply to applications subject to a fee set out in Annex I or II in any of the following situations:
+
+(a) the application is withdrawn after 24 hours of its submission and prior to completion of the administrative validation;
+
+(b) the application has been rejected following the conclusion of the administrative validation.
+
+The charge laid down in the first subparagraph shall also apply to applications in relation to procedures and services for which the applicable fee is waived in those Annexes.
+
+In the cases referred to in the previous subparagraph, the corresponding fee shall not be levied.
+
+In addition to the applicable fee or charge set out in Annex I, II or III, a charge of EUR 4 400 shall also apply to applications where a marketing authorisation holder or an applicant claiming, or having claimed, to be entitled to a fee or charge reduction, fails to demonstrate that it is entitled to such a reduction. That charge shall be levied in full also to SMEs, where applicable.
+
+6.2. Certificates of medicinal products as referred to in Article 127 of Directive 2001/83/EC and in Article 98 of Regulation (EU) 2019/6
+
+6.2.1. A charge of EUR 200 shall apply to each request for a certificate issued by the Agency for a medicinal product, using the standard procedure for issuing the certificate.
+
+6.2.2. A charge of EUR 500 shall apply to each request for a certificate issued by the Agency for a medicinal product, using the urgent procedure for issuing the certificate.
+
+6.3. Notification of parallel distribution in accordance with Article 57(1), point (o), of Regulation (EC) No 726/2004
+
+6.3.1. A charge of EUR 1 400 shall apply to each initial notification for each presentation of a medicinal product, for one Member State of destination having one or more official languages or for several Member States of destination having the same official language. That charge shall cover any subsequent safety update notification relating to the initial notification.
+
+6.3.2. A charge of EUR 400 shall apply to each notification of a bulk change. That charge shall cover all initial notifications approved by the date of submission of the notification of bulk changes.
+
+6.3.3. A charge of EUR 400 shall apply to each annual update notification. That charge shall cover all the presentations belonging to the same medicinal product for one Member State of destination having one or more official languages, or for several Member States of destination having the same official language. No charge shall apply if there have been no regulatory updates in the past 12 months or if the product was dormant.
+
+6.4. Administrative services referred to in Article 4(2) of this Regulation
+
+The range for charges for other administrative services referred to in Article 4(2) shall be from EUR 120 to EUR 11 900 . The applicable amounts of the charge within the above range shall be determined in accordance with Article 8 of this Regulation.
+
+7\. Consultation on medical devices
+
+7.1. Ancillary substances incorporated in medical devices
+
+7.1.1. A fee of EUR 114 700 shall apply to a consultation on one or more ancillary medicinal substances pursuant to Section 5.2 of Annex IX to Regulation (EU) 2017/745, where the medicinal substance from the specified manufacturer has not been evaluated by the Agency or a competent authority designated by the Member States in accordance with Directive 2001/83/EC (‘medicinal products authority’) in connection with a previous marketing authorisation or through a previous consultation by a notified body. One application may include a range of strength or concentrations of the ancillary substance or a range of similar devices from the same medical device manufacturer incorporating the same substance or both. The remuneration shall be EUR 29 400 for the rapporteur and EUR 29 400 for the co-rapporteur.
+
+7.1.2. A fee of EUR 57 200 shall apply to a consultation on one or more ancillary medicinal substances pursuant to Section 5.2 of Annex IX to Regulation (EU) 2017/745, where the medicinal substance from the specified manufacturer has been evaluated by a medicinal products authority in connection with a previous marketing authorisation or through a previous consultation by a notified body. One application may include a range of strengths or concentrations of the ancillary substance or a range of similar devices from the same medical device manufacturer incorporating the same substance or both. The remuneration shall be EUR 14 400 for the rapporteur and EUR 14 400 for the co-rapporteur.
+
+7.1.3. For the purpose of 7.1.1. and 7.1.2., a fee of EUR 5 000 shall apply to a consultation, pursuant to Section 5.2, point (f), of Annex IX to Regulation (EU) 2017/745, regarding a change with respect to an ancillary medicinal substance incorporated in a device. The remuneration for the rapporteur shall be EUR 1 800 .
+
+7.2. Medical devices composed of a substance or a combination of substances that are systemically absorbed to achieve their intended purpose
+
+A fee of EUR 86 100 shall apply to a consultation on a medical device or a range of similar devices composed of a substance or a combination of substances that are absorbed by or locally dispersed in the human body, pursuant to Section 5.4 of Annex IX to Regulation (EU) 2017/745. The remuneration shall be EUR 21 900 for the rapporteur and EUR 21 900 for the co-rapporteur.
+
+7.3. Companion diagnostic
+
+A fee of EUR 56 500 shall apply to a consultation on the suitability of a companion diagnostic in relation to a concerned medicinal product, pursuant to Article 48(3) or (4) of Regulation (EU) 2017/746, and Section 5.2 of Annex IX or Section 3, point (k), of Annex X to that Regulation. The remuneration for the rapporteur shall be EUR 14 800 .
+
+A fee of EUR 5 000 shall apply to a consultation on a change affecting the suitability of the companion diagnostic in relation to the medicinal product concerned, pursuant to Section 5.2, point (f), of Annex IX to Regulation (EU) 2017/746. The remuneration for the rapporteur shall be EUR 1 800 .
+
+7.4. The fees set out in points 7.1, 7.2 and 7.3 shall be levied to the medical device manufacturer that, according to the application form submitted to the Agency, requested the assessment of conformity of the medical device for which the notified body is consulting the Agency.
+
+## ANNEX V
+
+**Fee and charge reductions and deferrals**
+
+1\. Fee and charge reductions granted to SMEs
+
+1.1. The following total or partial reductions to the fees and charges laid down in this Regulation shall be granted to SMEs:
+
+1.1.1. for a small or medium-sized enterprise, a reduction of 40 % of the applicable amount shall apply to the following fees and charges:
+
+(a) extension of a marketing authorisation for medicinal products for human use pursuant to Section 4 of Annex I;
+
+(b) major type-II variations for medicinal products for human use pursuant to Section 5 of Annex I, excluding point 5.4 of that section;
+
+(c) referral procedures for medicinal products for human use pursuant to points 6.4 to 6.7 of Annex I;
+
+(d) request for scientific advice by the Committee on Herbal Medicinal Products related to traditional herbal medicinal products pursuant to Section 7 of Annex I;
+
+(e) certification of compliance with Union legislation for plasma master files pursuant to Section 8 of Annex I;
+
+(f) certification of compliance with Union legislation regarding vaccine antigen master files (VAMF) pursuant to Section 9 of Annex I;
+
+(g) assessment of periodic safety update reports for medicinal products for human use pursuant to Section 14 of Annex I;
+
+(h) assessment of post-authorisation safety studies for medicinal products for human use pursuant to Section 15 of Annex I;
+
+(i) variations to the terms of a marketing authorisation requiring assessment pursuant to Section 6 of Annex II, excluding point 6.5 of that section;
+
+(j) referral procedures for veterinary medicinal products pursuant to points 7.4 to 7.5 of Annex II;
+
+(k) certification of compliance with Union legislation for VAMF pursuant to Section 8 of Annex II;
+
+(l) certification of compliance with Union legislation vPTMF pursuant to Section 9 of Annex II;
+
+(m) assessment of post-marketing surveillance studies for veterinary medicinal products pursuant to Section 10 of Annex II;
+
+(n) annual fee for medicinal products for human use or for veterinary medicinal products pursuant to Section 1 or 2, respectively, of Annex III;
+
+(o) annual pharmacovigilance fee for medicinal products for human use or veterinary medicinal products pursuant to Annex III;
+
+(p) transfer of a marketing authorisation to another SME, both for medicinal products for human use and veterinary medicinal products pursuant to Section 2 of Annex IV;
+
+1.1.2. for a small or medium-sized enterprise, a fee reduction of 90 % of the applicable amount shall apply to a consultation on medical devices pursuant to Section 7 of Annex IV, where the medical device manufacturer has been assigned the small and medium-sized enterprise status by the Agency;
+
+1.1.3. for a micro enterprise, a reduction of 100 % shall apply to the fees and charges set out in points 1.1.1. and 1.1.2.
+
+1.2. The reductions set out in point 1.1 shall apply in addition to fee reductions and incentives provided for in Regulation (EC) No 2049/2005 or in the Union pharmaceutical legislation.
+
+1.3. The reductions set out in point 1.1 shall not be granted to SMEs acting as applicant or marketing authorisation holder for the relevant medicinal product by virtue of a contractual arrangement with a non-SME legal entity. Such contractual arrangements shall be declared to the Agency ahead of any service listed under point 1.1.
+
+2\. Fee reductions applied to entities not engaged in an economic activity
+
+2.1. The fees set out in Section 1 of Annex I, and Section 1 of Annex II, shall be waived where the scientific advice provided by the Agency in accordance with Article 57(1), second subparagraph, point (n), of Regulation (EC) No 726/2004 is provided to entities not engaged in an economic activity.
+
+3\. Applications relating to core dossier medicinal products to be used in a human pandemic situation
+
+3.1. The payment of the fee for an application for a marketing authorisation of a medicinal product to be used in a human pandemic situation shall be deferred until the pandemic situation is duly recognised, either by the World Health Organization or by the Commission in accordance with Article 23(1) of Regulation (EU) 2022/2371.
+
+Such deferral shall not exceed five years.
+
+3.2. In addition to the deferral provided for in point 3.1, for regulatory activities within the framework of the submission of a core dossier for a pandemic vaccine and the follow-up submission of a pandemic variation, a fee and charge reduction of 100 % shall apply in the following cases:
+
+(a) pre-submission activities pursuant to Section 3 of Annex IV;
+
+(b) scientific advice pursuant to Section 1 of Annex I;
+
+(c) extension of marketing authorisation pursuant to Section 4 of Annex I;
+
+(d) major type-II variation pursuant to Section 5 of Annex I;
+
+(e) annual fee pursuant to Section 1 of Annex III.
+
+Those reductions shall apply until the human pandemic situation is duly recognised.
+
+3.3. Where reductions apply pursuant to point 3.2, no remuneration shall be paid to competent authorities of the Member States for the annual fees referred to in point 3.2(e).
+
+4\. Applications submitted under Article 30 of Regulation (EC) No 1901/2006
+
+A 50 % fee reduction shall apply to paediatric use marketing authorisation applications submitted under Article 30 of Regulation (EC) No 1901/2006 for the following services:
+
+(a) initial marketing authorisation application pursuant to Section 2 of Annex I to this Regulation;
+
+(b) pre-authorisation inspection pursuant to Section 1 of Annex IV to this Regulation;
+
+(c) extension of a marketing authorisation pursuant to Section 4 of Annex I to this Regulation, in the first year from granting of the marketing authorisation;
+
+(d) major type-II variation pursuant to Section 5 of Annex I to this Regulation, in the first year from granting of a marketing authorisation;
+
+(e) annual fee pursuant to Section 1 of Annex III to this Regulation, in the first year from granting of a marketing authorisation;
+
+(f) post-authorisation inspection pursuant to Section 1 of Annex IV to this Regulation, in the first year from granting of a marketing authorisation.
+
+5\. Immunological veterinary medicinal products
+
+A fee and charge reduction of 50 % shall apply to immunological veterinary medicinal products for the following activities:
+
+(a) scientific advice pursuant to Section 1 of Annex II;
+
+(b) request for classification of a veterinary medicinal product as intended for a limited market as defined in Article 4, point (29), of Regulation (EU) 2019/6 and for consideration for eligibility for authorisation according to Article 23 of that Regulation, pursuant to Section 2 of Annex II to this Regulation;
+
+(c) authorisation to market veterinary medicinal products falling within the scope of the centralised marketing authorisation procedure pursuant to Article 42 of Regulation (EU) 2019/6, pursuant to Section 4 of Annex II to this Regulation;
+
+(d) variations to the terms of a marketing authorisation requiring assessment in accordance with Articles 64, 65 and 66 of Regulation (EU) 2019/6, pursuant to Section 6 of Annex II to this Regulation; in the specific case of point 6.5 of Annex II to this Regulation, the reduction shall apply to the variations subject to a fee and shall not apply to the variations subject to a charge;
+
+(e) certification of compliance with Union legislation for VAMF pursuant to Section 8 of Annex II;
+
+(f) certification of compliance with Union legislation for vPTMF pursuant to Section 9 of Annex II;
+
+(g) assessment of post-marketing surveillance studies pursuant to Section 10 of Annex II;
+
+(h) annual fee pursuant to Section 2 of Annex III;
+
+(i) pre-submission requests pursuant to Section 3 of Annex IV.
+
+6\. Veterinary medicinal products for limited markets
+
+6.1. A fee reduction of 50 % shall apply to veterinary medicinal products classified as intended for a limited market as defined in Article 4, point (29), of Regulation (EU) 2019/6 and considered eligible for authorisation or authorised pursuant to Article 23 of that Regulation, for the following activities:
+
+(a) scientific advice pursuant to section 1 of Annex II to this Regulation;
+
+(b) establishment, modification or extension of an MRL pursuant to Section 3 of Annex II to this Regulation;
+
+(c) authorisation to market veterinary medicinal products falling within the scope of the centralised marketing authorisation procedure pursuant to Article 42 of Regulation (EU) 2019/6, pursuant to Article 23 of that Regulation and pursuant to point 4.1 or 4.2 of Annex II to this Regulation;
+
+(d) variations to the terms of a marketing authorisation requiring assessment in accordance with Articles 64, 65 and 66 of Regulation (EU) 2019/6, pursuant to Section 6 of Annex II to this Regulation; in the specific case of point 6.5 of Annex II, the reduction shall apply to the variations subject to a fee and shall not apply to the variations subject to a charge;
+
+(e) certification of compliance with Union legislation for VAMF pursuant to Section 8 of Annex II to this Regulation;
+
+(f) certification of compliance with Union legislation for vPTMF pursuant to Section 9 of Annex II to this Regulation;
+
+(g) assessment of post-marketing surveillance studies pursuant to Section 10 of Annex II to this Regulation;
+
+(h) annual fee pursuant to Section 2 of Annex III to this Regulation;
+
+(i) pre-submission requests pursuant Section 3 to Annex IV to this Regulation.
+
+6.2. A reduction of 100 % shall apply to the fee for extension of MRL set out in Section 3 of Annex II, when such extension does not require assessment of data.
+
+7\. Veterinary vaccines against certain major epizootic diseases
+
+7.1. A reduction of 100 % shall apply to the annual fee for vaccines against infection with bluetongue virus (serotypes 1-24), highly pathogenic avian influenza, foot and mouth disease and classical swine fever, where the vaccine is authorised under normal circumstances and the product has not been marketed within the Union at any time during the totality of the period covered by the fee.
+
+7.2. Where a reduction applies pursuant to point 7.1, no remuneration shall be paid to competent authorities of the Member States for the annual fees referred to in point 7.1.
+
+8\. Annual fee for veterinary medicinal products
+
+A fee reduction of 25 % shall apply to the annual fee for veterinary medicinal products set out in Section 2 of Annex III, with the exclusion of those products already listed in Sections 5, 6 and 7 of this Annex.
+
+9\. Annual pharmacovigilance fee for generic, homeopathic and herbal medicinal products and for medicinal products authorised under provisions relating to well-established medicinal use
+
+A fee reduction of 25 % shall apply to the annual pharmacovigilance fee set out in Section 3 of Annex III for the following medicinal products:
+
+(a) medicinal products for human use as referred to in Article 10(1) and Article 10a of Directive 2001/83/EC;
+
+(b) homeopathic medicinal products for human use;
+
+(c) herbal medicinal products for human use;
+
+(d) veterinary medicinal products as referred to in Articles 18 and 22 of Regulation (EU) 2019/6;
+
+(e) homeopathic veterinary medicinal products;
+
+(f) homeopathic veterinary medicinal products registered in accordance with Article 87 of Regulation (EU) 2019/6.
+
+## ANNEX VI
+
+**Performance information**
+
+The following information relating to each calendar year shall be made publicly available on the Agency’s website:
+
+(1) the overall cost and breakdown of Agency staff and non-staff costs relating to the fees and charges referred to in Article 3;
+
+(2) number of Agency staff involved and the overall costs for obtaining and maintaining a Union authorisation to market medicinal products for human use and veterinary medicinal products and for other services of the Agency;
+
+(3) number of procedures for obtaining and maintaining a Union authorisation to market medicinal products for human use and veterinary medicinal products and for other services of the Agency;
+
+(4) number and amount of fee reductions or waivers granted per type of fee reduction or waiver under Union legislation and number of applicants or holders concerned;
+
+(5) attribution of rapporteurs, co-rapporteurs or persons performing other roles considered as equivalent for the purposes of this Regulation as referred to in the Annexes to this Regulation, per Member State and per type of procedure;
+
+(6) number of working hours spent by the rapporteur, the co-rapporteurs or persons performing other roles considered as equivalent for the purposes of this Regulation as referred to in the Annexes to this Regulation, including hours spent by experts and others employed by the competent authorities of the Member States to assist them, and number of working hours spent by experts contracted for the work of the expert panels on medical devices. Information shall be provided per type of procedure on the basis of the information provided to the Agency by the competent authorities of the Member States concerned. The types of procedure to be included shall be decided by the Management Board based on a proposal by the Agency;
+
+(7) any performance indicators relevant to scientific service fees or charges for administrative services levied in accordance with Article 4(1) and (2) of this Regulation;
+
+(8) any additional relevant key performance indicators that impact the evolving workload of the Agency and competent authorities of the Member States in the Union pharmaceutical regulatory framework, including procedures for the authorisation and supervision of medicinal products.
+
+## ANNEX VII
+
+**Correlation table**
+
+| Regulation (EC) No 297/95 | This Regulation |
+| --- | --- |
+| Article 8(1) | Annex I, Section 1 and Annex II, section 1 |
+| Article 3(1) | Annex I, Sections 2 and 4 |
+| Article 7 | Annex II, Section 3 |
+| Article 5(1) | Annex II, Section 4 |
+| Article 3(4) | Annex IV, Section 1 |
+| Article 5(4) | Annex IV, Section 1 |
+| Article 8(2) | Annex IV, Section 5 |
+| Article 8(3) | Annex IV, points 6.1 (except for the last paragraph), 6.2 and 6.4 |
+
+( 1 ) Regulation (EU) 2022/2371 of the European Parliament and of the Council of 23 November 2022 on serious cross-border threats to health and repealing Decision No 1082/2013/EU (OJ L 314, 6.12.2022, p. 26).
+
+( *1 ) Regulation (EU) 2022/123 of the European Parliament and of the Council of 25 January 2022 on a reinforced role for the European Medicines Agency in crisis preparedness and management for medicinal products and medical devices (OJ L 20, 31.1.2022, p. 1).’.
+
+( 2 ) Regulation (EU) No 658/2014 of the European Parliament and of the Council of 15 May 2014 on fees payable to the European Medicines Agency for the conduct of pharmacovigilance activities in respect of medicinal products for human use (OJ L 189, 27.6.2014, p. 112).
+
+( 3 ) Council Regulation (EC) No 297/95 of 10 February 1995 on fees payable to the European Agency for the Evaluation of Medicinal Products (OJ L 35, 15.2.1995, p. 1).

@@ -90,6 +90,7 @@ Annex I to Directive 2002/32/EC is amended as follows:
 
 1\. Row 3, Fluorine, is replaced by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td rowspan="19"><table><tbody><tr><td>‘3.</td><td>Fluorine (*1)</td></tr>
@@ -160,9 +161,11 @@ Annex I to Directive 2002/32/EC is amended as follows:
 </table>
 </td><td>350 </td></tr>
 </tbody>
+</table>
 
 2\. Row 14, Weed seeds and unground and uncrushed fruits containing alkaloids, glucosides or other toxic substances, is replaced by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td><table><tbody><tr><td>‘14.</td><td>Weed seeds and unground and uncrushed fruits containing alkaloids, glucosides or other toxic substances separately or in combination including</td></tr>
@@ -171,9 +174,11 @@ Annex I to Directive 2002/32/EC is amended as follows:
 </td><td>All feedingstuffs</td><td>3 000 </td></tr>
 <tr><td>Datura stramonium L.</td><td></td><td>1 000 ’</td></tr>
 </tbody>
+</table>
 
 3\. Row 21, DDT, is replaced by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td rowspan="2">‘DDT (sum of DDT-, DDD- (or TDE-) and DDE-isomers, expressed as DDT)</td><td>All feedingstuffs with the exception of</td><td>0,05 </td></tr>
@@ -182,6 +187,7 @@ Annex I to Directive 2002/32/EC is amended as follows:
 </table>
 </td><td>0,5 ’</td></tr>
 </tbody>
+</table>
 
 4\. Row 28, Apricots — Prunus armeniaca L., row 29, Bitter almond — Prunus dulcis (Mill.) D.A. Webb var. amara (DC.) Focke (=Prunus amygdalus Batsch var. amara (DC.) Focke), and row 31, Camelina — Camelina sativa (L.) Crantz, are deleted.
 

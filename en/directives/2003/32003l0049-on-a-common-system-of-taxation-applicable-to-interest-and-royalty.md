@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on a common system of taxation applicable to interest and royalty payments made between associated companies of different Member States**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2004/76/EC of 29 April 2004 </td><td> L 157</td><td>106</td><td>30.4.2004</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2004/66/EC of 26 April 2004 </td><td> L 168</td><td>35</td><td>1.5.2004</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/98/EC of 20 November 2006 </td><td> L 363</td><td>129</td><td>20.12.2006</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/13/EU of 13 May 2013 </td><td> L 141</td><td>30</td><td>28.5.2013</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2003/49/EC**
 

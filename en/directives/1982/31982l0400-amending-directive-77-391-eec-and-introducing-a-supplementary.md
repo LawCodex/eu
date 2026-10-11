@@ -32,10 +32,12 @@ amending Directive 77/391/EEC and introducing a supplementary Community measure 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive 83/253/EEC of 25 May 1983</td><td> L 143</td><td>36</td><td>2.6.1983</td></tr>
 <tr><td></td><td>Council Regulation (EEC) No 3768/85 of 20 December 1985</td><td> L 362</td><td>8</td><td>31.12.1985</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 

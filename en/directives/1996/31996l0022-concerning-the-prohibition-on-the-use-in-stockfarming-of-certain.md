@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **concerning the prohibition on the use in stockfarming of certain substances having a hormonal or thyrostatic action and of beta-agonists, and repealing Directives 81/602/EEC, 88/146/EEC and 88/299/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE 2003/74/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 September 2003</td><td> L 262</td><td>17</td><td>14.10.2003</td></tr>
 <tr><td></td><td> DIRECTIVE 2008/97/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 November 2008 </td><td> L 318</td><td>9</td><td>28.11.2008</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 96/22/EC**
 
@@ -245,6 +247,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX I — Correlation table
 
+<table>
 <tbody><tr><td>This Directive</td><td colspan="2">Directives 81/602/EEC, 88/146/EEC and 88/299/EEC</td></tr>
 <tr><td rowspan="2">Article 1 (1)</td><td>Article 1 (1)</td><td>81/602/EEC</td></tr>
 <tr><td>Article 1 (1)</td><td>88/146/EEC</td></tr>
@@ -278,6 +281,7 @@ This Directive is addressed to the Member States.
 <tr><td>Article 16</td><td>—</td><td>  </td></tr>
 <tr><td>Annex</td><td>—</td><td>  </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 

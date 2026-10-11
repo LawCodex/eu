@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/24/EU of 13 May 2013 </td><td> L 158</td><td>365</td><td>10.6.2013</td></tr>
+</table>
 
 **DIRECTIVE 2009/102/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

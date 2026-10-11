@@ -1,0 +1,7940 @@
+---
+title: "Regulation (EU) 2021/1060 of the European Parliament and of the Council of 24 June 2021 laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime, Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy"
+identifier: "32021R1060"
+eli: "http://data.europa.eu/eli/reg/2021/1060/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-06-24
+entry_into_force: 2022-01-01
+last_amended: 2026-07-01
+consolidated_version: "02021R1060-20260701"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R1060-20260701"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2021/1060 of the European Parliament and of the Council of 24 June 2021 laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime, Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy
+
+**REGULATION (EU) 2021/1060 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 June 2021**
+
+**laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime, Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2022/2039 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 October 2022 </td><td> L 275</td><td>23</td><td>25.10.2022</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/435 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 February 2023 </td><td> L 63</td><td>1</td><td>28.2.2023</td></tr>
+<tr><td></td><td> REGULATION (EU) 2023/955 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 10 May 2023 </td><td> L 130</td><td>1</td><td>16.5.2023</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/795 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 29 February 2024 </td><td> L 795</td><td>1</td><td>29.2.2024</td></tr>
+<tr><td></td><td> REGULATION (EU) 2024/1351 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 14 May 2024 </td><td> L 1351</td><td>1</td><td>22.5.2024</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2025/2190 of 22 September 2025 </td><td> L 2190</td><td>1</td><td>24.10.2025</td></tr>
+</table>
+
+**REGULATION (EU) 2021/1060 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 24 June 2021**
+
+**laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime, Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy**
+
+<table>
+<tr><td colspan="2">TABLE OF CONTENTS</td></tr>
+<tr><td>TITLE I</td><td>OBJECTIVES AND GENERAL RULES ON SUPPORT</td></tr>
+<tr><td>Chapter I</td><td>Subject-matter, definitions and general rules</td></tr>
+<tr><td>Article 1</td><td>Subject-matter and scope</td></tr>
+<tr><td>Article 2</td><td>Definitions</td></tr>
+<tr><td>Article 3</td><td>Calculation of time limits for Commission actions</td></tr>
+<tr><td>Article 4</td><td>Processing and protection of personal data</td></tr>
+<tr><td>Chapter II</td><td>Policy objectives and principles for the support of the Funds</td></tr>
+<tr><td>Article 5</td><td>Policy objectives</td></tr>
+<tr><td>Article 6</td><td>Climate targets and climate adjustment mechanism</td></tr>
+<tr><td>Article 7</td><td>Shared management</td></tr>
+<tr><td>Article 8</td><td>Partnership and multi-level governance</td></tr>
+<tr><td>Article 9</td><td>Horizontal Principles</td></tr>
+<tr><td>TITLE II</td><td>STRATEGIC APPROACH</td></tr>
+<tr><td>Chapter I</td><td>Partnership Agreement</td></tr>
+<tr><td>Article 10</td><td>Preparation and submission of the Partnership Agreement</td></tr>
+<tr><td>Article 11</td><td>Content of the Partnership Agreement</td></tr>
+<tr><td>Article 12</td><td>Approval of the Partnership Agreement</td></tr>
+<tr><td>Article 13</td><td>Amendment of the Partnership Agreement</td></tr>
+<tr><td>Article 14</td><td>Use of the ERDF, the ESF+, the Cohesion Fund and the EMFAF delivered through the InvestEU Programme</td></tr>
+<tr><td>Chapter II</td><td>Enabling conditions and performance framework</td></tr>
+<tr><td>Article 15</td><td>Enabling conditions</td></tr>
+<tr><td>Article 16</td><td>Performance framework</td></tr>
+<tr><td>Article 17</td><td>Methodology for the establishment of the performance framework</td></tr>
+<tr><td>Article 18</td><td>Mid-term review and flexibility amount</td></tr>
+<tr><td>Chapter III</td><td>Measures linked to sound economic governance and to exceptional or unusual circumstances</td></tr>
+<tr><td>Article 19</td><td>Measures linking effectiveness of Funds to sound economic governance</td></tr>
+<tr><td>Article 20</td><td>Temporary measures for the use of the Funds in response to exceptional or unusual circumstances</td></tr>
+<tr><td>TITLE III</td><td>PROGRAMMING</td></tr>
+<tr><td>Chapter I</td><td>General Provisions on the Funds</td></tr>
+<tr><td>Article 21</td><td>Preparation and submission of programmes</td></tr>
+<tr><td>Article 22</td><td>Content of programmes</td></tr>
+<tr><td>Article 23</td><td>Approval of programmes</td></tr>
+<tr><td>Article 24</td><td>Amendment of programmes</td></tr>
+<tr><td>Article 25</td><td>Joint support from the ERDF, the ESF+, the Cohesion Fund and the JTF</td></tr>
+<tr><td>Article 26</td><td>Transfer of resources</td></tr>
+<tr><td>Article 26a</td><td>Support for the objectives in Article 21c(3) of Regulation (EU) 2021/241</td></tr>
+<tr><td>Article 26b</td><td>Resources transferred from the Social Climate Fund</td></tr>
+<tr><td>Article 27</td><td>Transfer of resources from the ERDF and the ESF+ to the JTF</td></tr>
+<tr><td>Chapter II</td><td>Territorial development</td></tr>
+<tr><td>Article 28</td><td>Integrated territorial development</td></tr>
+<tr><td>Article 29</td><td>Territorial strategies</td></tr>
+<tr><td>Article 30</td><td>Integrated territorial investment</td></tr>
+<tr><td>Article 31</td><td>Community-led local development</td></tr>
+<tr><td>Article 32</td><td>Community-led local development strategies</td></tr>
+<tr><td>Article 33</td><td>Local action groups</td></tr>
+<tr><td>Article 34</td><td>Support from Funds for community-led local development</td></tr>
+<tr><td>Chapter III</td><td>Technical assistance</td></tr>
+<tr><td>Article 35</td><td>Technical assistance at the initiative of the Commission</td></tr>
+<tr><td>Article 36</td><td>Technical assistance of Member States</td></tr>
+<tr><td>Article 37</td><td>Financing not linked to costs for technical assistance of Member States</td></tr>
+<tr><td>TITLE IV</td><td>MONITORING, EVALUATION, COMMUNICATION AND VISIBILITY</td></tr>
+<tr><td>Chapter I</td><td>Monitoring</td></tr>
+<tr><td>Article 38</td><td>Monitoring committee</td></tr>
+<tr><td>Article 39</td><td>Composition of the monitoring committee</td></tr>
+<tr><td>Article 40</td><td>Functions of the monitoring committee</td></tr>
+<tr><td>Article 41</td><td>Annual performance review</td></tr>
+<tr><td>Article 42</td><td>Transmission of data</td></tr>
+<tr><td>Article 43</td><td>Final performance report</td></tr>
+<tr><td>Chapter II</td><td>Evaluation</td></tr>
+<tr><td>Article 44</td><td>Evaluations by the Member State</td></tr>
+<tr><td>Article 45</td><td>Evaluation by the Commission</td></tr>
+<tr><td>Chapter III</td><td>Visibility, transparency and communication</td></tr>
+<tr><td>Section I</td><td>Visibility of support from the Funds</td></tr>
+<tr><td>Article 46</td><td>Visibility</td></tr>
+<tr><td>Article 47</td><td>Emblem of the Union</td></tr>
+<tr><td>Article 48</td><td>Communication officers and networks</td></tr>
+<tr><td>Section II</td><td>Transparency of implementation of the Funds and communication on programmes</td></tr>
+<tr><td>Article 49</td><td>Responsibilities of the managing authority</td></tr>
+<tr><td>Article 50</td><td>Responsibilities of beneficiaries</td></tr>
+<tr><td>TITLE V</td><td>FINANCIAL SUPPORT FROM THE FUNDS</td></tr>
+<tr><td>Chapter I</td><td>Forms of Union contribution</td></tr>
+<tr><td>Article 51</td><td>Forms of Union contribution to programmes</td></tr>
+<tr><td>Chapter II</td><td>Forms of support by Member States</td></tr>
+<tr><td>Article 52</td><td>Forms of support</td></tr>
+<tr><td>Section I</td><td>Forms of Grants</td></tr>
+<tr><td>Article 53</td><td>Forms of grants</td></tr>
+<tr><td>Article 54</td><td>Flat-rate financing for indirect costs concerning grants</td></tr>
+<tr><td>Article 55</td><td>Direct staff costs concerning grants</td></tr>
+<tr><td>Article 56</td><td>Flat rate financing for eligible costs other than direct staff costs concerning grants</td></tr>
+<tr><td>Article 57</td><td>Grants under conditions</td></tr>
+<tr><td>Section II</td><td>Financial Instruments</td></tr>
+<tr><td>Article 58</td><td>Financial instruments</td></tr>
+<tr><td>Article 59</td><td>Implementation of financial instruments</td></tr>
+<tr><td>Article 60</td><td>Interest and other gains generated by support from the Funds to financial instruments</td></tr>
+<tr><td>Article 61</td><td>Differentiated treatment of investors</td></tr>
+<tr><td>Article 62</td><td>Re-use of resources attributable to the support from the Funds</td></tr>
+<tr><td>Chapter III</td><td>Eligibility rules</td></tr>
+<tr><td>Article 63</td><td>Eligibility</td></tr>
+<tr><td>Article 64</td><td>Non-eligible costs</td></tr>
+<tr><td>Article 65</td><td>Durability of operations</td></tr>
+<tr><td>Article 66</td><td>Relocation</td></tr>
+<tr><td>Article 67</td><td>Specific eligibility rules for grants</td></tr>
+<tr><td>Article 68</td><td>Specific eligibility rules for financial instruments</td></tr>
+<tr><td>TITLE VI</td><td>MANAGEMENT AND CONTROL</td></tr>
+<tr><td>Chapter I</td><td>General rules on management and control</td></tr>
+<tr><td>Article 69</td><td>Responsibilities of Member States</td></tr>
+<tr><td>Article 70</td><td>Commission powers and responsibilities</td></tr>
+<tr><td>Article 71</td><td>Programme authorities</td></tr>
+<tr><td>Chapter II</td><td>Standard management and control systems</td></tr>
+<tr><td>Article 72</td><td>Functions of the managing authority</td></tr>
+<tr><td>Article 73</td><td>Selection of operations by the managing authority</td></tr>
+<tr><td>Article 74</td><td>Programme management by the managing authority</td></tr>
+<tr><td>Article 75</td><td>Support of the work of the monitoring committee by the managing authority</td></tr>
+<tr><td>Article 76</td><td>The accounting function</td></tr>
+<tr><td>Article 77</td><td>Functions of the audit authority</td></tr>
+<tr><td>Article 78</td><td>Audit strategy</td></tr>
+<tr><td>Article 79</td><td>Audits of operations</td></tr>
+<tr><td>Article 80</td><td>Single audit arrangements</td></tr>
+<tr><td>Article 81</td><td>Management verifications and audits of financial instruments</td></tr>
+<tr><td>Article 82</td><td>Availability of documents</td></tr>
+<tr><td>Chapter III</td><td>Reliance on national management systems</td></tr>
+<tr><td>Article 83</td><td>Enhanced proportionate arrangements</td></tr>
+<tr><td>Article 84</td><td>Conditions for application of enhanced proportionate arrangements</td></tr>
+<tr><td>Article 85</td><td>Adjustment during the programming period</td></tr>
+<tr><td>TITLE VII</td><td>FINANCIAL MANAGEMENT, SUBMISSION AND EXAMINATION OF ACCOUNTS AND FINANCIAL CORRECTIONS</td></tr>
+<tr><td>Chapter I</td><td>Financial management</td></tr>
+<tr><td>Section I</td><td>General Accounting Rules</td></tr>
+<tr><td>Article 86</td><td>Budgetary commitments</td></tr>
+<tr><td>Article 87</td><td>Use of the euro</td></tr>
+<tr><td>Article 88</td><td>Repayment</td></tr>
+<tr><td>Section II</td><td>Rules for Payments to Member States</td></tr>
+<tr><td>Article 89</td><td>Types of payments</td></tr>
+<tr><td>Article 90</td><td>Pre-financing</td></tr>
+<tr><td>Article 91</td><td>Payment applications</td></tr>
+<tr><td>Article 92</td><td>Specific elements for financial instruments in payment applications</td></tr>
+<tr><td>Article 93</td><td>Common rules for payments</td></tr>
+<tr><td>Article 94</td><td>Union contribution based on unit costs, lump sums and flat rates</td></tr>
+<tr><td>Article 95</td><td>Union contribution based on financing not linked to costs</td></tr>
+<tr><td>Section III</td><td>Interruptions and Suspensions</td></tr>
+<tr><td>Article 96</td><td>Interruption of the payment deadline</td></tr>
+<tr><td>Article 97</td><td>Suspension of payments</td></tr>
+<tr><td>Chapter II</td><td>Submission and examination of accounts</td></tr>
+<tr><td>Article 98</td><td>Content and submission of accounts</td></tr>
+<tr><td>Article 99</td><td>Examination of accounts</td></tr>
+<tr><td>Article 100</td><td>Calculation of the balance</td></tr>
+<tr><td>Article 101</td><td>Procedure for the examination of accounts</td></tr>
+<tr><td>Article 102</td><td>Contradictory procedure for the examination of accounts</td></tr>
+<tr><td>Chapter III</td><td>Financial corrections</td></tr>
+<tr><td>Article 103</td><td>Financial corrections by Member States</td></tr>
+<tr><td>Article 104</td><td>Financial corrections by the Commission</td></tr>
+<tr><td>Chapter IV</td><td>Decommitment</td></tr>
+<tr><td>Article 105</td><td>Decommitment principles and rules</td></tr>
+<tr><td>Article 106</td><td>Exceptions to the decommitment rules</td></tr>
+<tr><td>Article 107</td><td>Procedure for decommitment</td></tr>
+<tr><td>TITLE VIII</td><td>FINANCIAL FRAMEWORK</td></tr>
+<tr><td>Article 108</td><td>Geographical coverage of support for the Investment for jobs and growth goal</td></tr>
+<tr><td>Article 109</td><td>Resources for economic, social and territorial cohesion</td></tr>
+<tr><td>Article 110</td><td>Resources for the Investment for jobs and growth goal and for the European territorial cooperation goal (Interreg)</td></tr>
+<tr><td>Article 111</td><td>Transferability of resources</td></tr>
+<tr><td>Article 112</td><td>Determination of co-financing rates</td></tr>
+<tr><td>TITLE IX</td><td>DELEGATION OF POWER, IMPLEMENTING, TRANSITIONAL AND FINAL PROVISIONS</td></tr>
+<tr><td>Chapter I</td><td>Delegation of power and implementing provisions</td></tr>
+<tr><td>Article 113</td><td>Delegation of powers as regards certain Annexes</td></tr>
+<tr><td>Article 114</td><td>Exercise of the delegation</td></tr>
+<tr><td>Article 115</td><td>Committee procedure</td></tr>
+<tr><td>Chapter II</td><td>Transitional and final provisions</td></tr>
+<tr><td>Article 116</td><td>Review</td></tr>
+<tr><td>Article 117</td><td>Transitional provisions</td></tr>
+<tr><td>Article 118</td><td>Conditions for operations subject to phased implementation</td></tr>
+<tr><td>Article 118a</td><td>Conditions for operations subject to phased implementation that were selected for support before 29 June 2022 under Regulation (EU) No 1303/2013</td></tr>
+<tr><td>Article 119</td><td>Entry into force</td></tr>
+<tr><td>ANNEX I</td><td>DIMENSIONS AND CODES FOR THE TYPES OF INTERVENTION FOR THE ERDF, THE ESF+, THE COHESION FUND AND THE JTF – ARTICLE 22(5)</td></tr>
+<tr><td>ANNEX II</td><td>TEMPLATE FOR PARTNERSHIP AGREEMENT – ARTICLE 10(6)</td></tr>
+<tr><td>ANNEX III</td><td>HORIZONTAL ENABLING CONDITIONS – ARTICLE 15(1)</td></tr>
+<tr><td>ANNEX IV</td><td>THEMATIC ENABLING CONDITIONS APPLICABLE TO ERDF, ESF+ AND THE COHESION FUND – ARTICLE 15(1)</td></tr>
+<tr><td>ANNEX V</td><td>TEMPLATE FOR PROGRAMMES SUPPORTED FROM THE ERDF (INVESTMENT FOR JOBS AND GROWTH GOAL), ESF+, THE JTF, THE COHESION FUND AND THE EMFAF – ARTICLE 21(3)</td></tr>
+<tr><td>ANNEX VI</td><td>TEMPLATE OF A PROGRAMME FOR THE AMIF, THE ISF AND THE BMVI – ARTICLE 21(3)</td></tr>
+<tr><td>ANNEX VII</td><td>TEMPLATE FOR THE TRANSMISSION OF DATA – ARTICLE 42</td></tr>
+<tr><td>ANNEX VIII</td><td>A FORECAST OF THE AMOUNT FOR WHICH THE MEMBER STATE EXPECTS TO SUBMIT PAYMENT APPLICATIONS FOR THE CURRENT AND THE SUBSEQUENT CALENDAR YEAR (ARTICLE 69(10))</td></tr>
+<tr><td>ANNEX IX</td><td>COMMUNICATION AND VISIBILITY – ARTICLES 47, 49 AND 50</td></tr>
+<tr><td>ANNEX X</td><td>ELEMENTS FOR FUNDING AGREEMENTS AND STRATEGY DOCUMENTS – ARTICLE 59(1) AND (5)</td></tr>
+<tr><td>ANNEX XI</td><td>KEY REQUIREMENTS OF MANAGEMENT AND CONTROL SYSTEMS AND THEIR CLASSIFICATION – ARTICLE 69(1)</td></tr>
+<tr><td>ANNEX XII</td><td>DETAILED RULES AND TEMPLATE FOR THE REPORTING OF IRREGULARITIES – ARTICLE 69(2)</td></tr>
+<tr><td>ANNEX XIII</td><td>ELEMENTS FOR THE AUDIT TRAIL – ARTICLE 69(6)</td></tr>
+<tr><td>ANNEX XIV</td><td>ELECTRONIC DATA EXCHANGE SYSTEMS BETWEEN PROGRAMME AUTHORITIES AND BENEFICIARIES – ARTICLE 69(8)</td></tr>
+<tr><td>ANNEX XV</td><td>SFC2021: ELECTRONIC DATA EXCHANGE SYSTEM BETWEEN THE MEMBER STATES AND THE COMMISSION – ARTICLE 69(9)</td></tr>
+<tr><td>ANNEX XVI</td><td>TEMPLATE FOR THE DESCRIPTION OF THE MANAGEMENT AND CONTROL SYSTEM – ARTICLE 69(11)</td></tr>
+<tr><td>ANNEX XVII</td><td>DATA TO BE RECORDED AND STORED ELECTRONICALLY ON EACH OPERATION – ARTICLE 72(1), POINT (E)</td></tr>
+<tr><td>ANNEX XVIII</td><td>TEMPLATE FOR THE MANAGEMENT DECLARATION – ARTICLE 74(1), POINT (F)</td></tr>
+<tr><td>ANNEX XIX</td><td>TEMPLATE FOR THE ANNUAL AUDIT OPINION – ARTICLE 77(3), POINT (A)</td></tr>
+<tr><td>ANNEX XX</td><td>TEMPLATE FOR THE ANNUAL CONTROL REPORT – ARTICLE 77(3), POINT (B)</td></tr>
+<tr><td>ANNEX XXI</td><td>TEMPLATE FOR THE ANNUAL AUDIT REPORT – ARTICLE 81(5)</td></tr>
+<tr><td>ANNEX XXII</td><td>TEMPLATE FOR THE AUDIT STRATEGY – ARTICLE 78</td></tr>
+<tr><td>ANNEX XXIII</td><td>TEMPLATE FOR PAYMENT APPLICATIONS – ARTICLE 91(3)</td></tr>
+<tr><td>ANNEX XXIV</td><td>TEMPLATE FOR THE ACCOUNTS – ARTICLE 98(1), POINT (A)</td></tr>
+<tr><td>ANNEX XXV</td><td>DETERMINATION OF THE LEVEL OF FINANCIAL CORRECTIONS: FLAT-RATE AND EXTRAPOLATED FINANCIAL CORRECTIONS – ARTICLE 104(1)</td></tr>
+<tr><td>ANNEX XXVI</td><td>METHODOLOGY ON THE ALLOCATION OF GLOBAL RESOURCES PER MEMBER STATE – ARTICLE 109(2)</td></tr>
+</table>
+
+**TITLE I**
+
+**OBJECTIVES AND GENERAL RULES ON SUPPORT**
+
+**CHAPTER I**
+
+**Subject matter, definitions and general rules**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation lays down:
+
+(a) financial rules for the European Regional Development Fund (ERDF), the European Social Fund Plus (ESF+), the Cohesion Fund, the Just Transition Fund (JTF), the European Maritime, Fisheries and Aquaculture Fund (EMFAF), the Asylum, Migration and Integration Fund (AMIF), the Internal Security Fund (ISF) and the Instrument for Financial Support for Border Management and Visa Policy (BMVI) (together referred to as the ‘Funds’);
+
+(b) common provisions applicable to the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF.
+
+2\. This Regulation does not apply to the Employment and Social Innovation strand of the ESF+ or to the direct or indirect management components of the EMFAF, the AMIF, the ISF and the BMVI, except for technical assistance at the initiative of the Commission.
+
+3\. Articles 5, 14, 19, 28 to 34 and 108 to 112 do not apply to the AMIF, the ISF or the BMVI.
+
+4\. Articles 108 to 112 do not apply to the EMFAF.
+
+5\. Articles 14, 15, 18, 19, 21 to 27, 37 to 42, Article 43(1) to (4), Articles 44 and 50, Article 55(1) and Articles 73, 77, 80 and 83 to 85 do not apply to Interreg programmes.
+
+6\. The Fund-specific Regulations listed below may establish rules to complement this Regulation which shall not be in contradiction with this Regulation:
+
+(a) Regulation (EU) 2021/1060 of the European Parliament and of the Council ( 1 ) (the ‘ERDF and CF Regulation’);
+
+(b) Regulation (EU) 2021/1060 of the European Parliament and of the Council ( 2 ) (the ‘ESF+ Regulation’);
+
+(c) Regulation (EU) 2021/1060 of the European Parliament and of the Council ( 3 ) (the ‘Interreg Regulation’);
+
+(d) Regulation (EU) 2021/1060 of the European Parliament and of the Council ( 4 ) (the ‘JTF Regulation’).
+
+(e) Regulation of the European Parliament and of the Council establishing the European Maritime, Fisheries and Aquaculture Fund and amending Regulation (EU) 2017/1004 (the ‘EMFAF Regulation’);
+
+(f) Regulation of the European Parliament and of the Council establishing the Asylum, Migration and Integration Fund (the ‘AMIF Regulation’);
+
+(g) Regulation of the European Parliament and of the Council establishing the Internal Security Fund (the ‘ISF Regulation’);
+
+(h) Regulation of the European Parliament and of the Council establishing, as part of the Integrated Border Management Fund, the Instrument for Financial Support for Border Management and Visa Policy (the ‘BMVI Regulation’);
+
+In case of doubt about the application between this Regulation and Fund-specific Regulations, this Regulation shall prevail.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions apply:
+
+(1) ‘relevant country-specific recommendations’ mean Council recommendations adopted in accordance with Articles 121(2) and 148(4) TFEU relating to structural challenges as well as complementary Commission recommendations issued in accordance with Article 34 of Regulation (EU) 2018/1999, which are appropriate to be addressed through multiannual investments that fall within the scope of the Funds as set out in Fund-specific Regulations;
+
+(2) ‘enabling condition’ means a prerequisite condition for the effective and efficient implementation of the specific objectives;
+
+(3) ‘applicable law’ means Union law and the national law relating to its application;
+
+(4) ‘operation’ means:
+
+(a) a project, contract, action or group of projects selected under the programmes concerned;
+
+(b) in the context of financial instruments, a programme contribution to a financial instrument and the subsequent financial support provided to final recipients by that financial instrument;
+
+(5) ‘operation of strategic importance’ means an operation which provides a significant contribution to the achievement of the objectives of a programme and which is subject to particular monitoring and communication measures;
+
+(6) ‘priority’ in the context of the AMIF, the ISF and the BMVI, means a specific objective;
+
+(7) ‘priority’ in the context of the EMFAF, for the purpose of Title VII only, means a specific objective;.
+
+(8) ‘intermediate body’ means a public or private body which acts under the responsibility of a managing authority, or which carries out functions or tasks on behalf of such an authority;
+
+(9) ‘beneficiary’ means:
+
+(a) a public or private body, an entity with or without legal personality, or a natural person, responsible for initiating or both initiating and implementing operations;
+
+(b) in the context of public-private partnerships (‘PPPs’), the public body initiating a PPP operation or the private partner selected for its implementation;
+
+(c) in the context of State aid schemes, the undertaking which receives the aid;
+
+(d) in the context of de minimis aid provided in accordance with Commission Regulations (EU) No 1407/2013 ( 5 ) or (EU) No 717/2014 ( 6 ), the Member State may decide that the beneficiary for the purposes of this Regulation is the body granting the aid, where it is responsible for intiating or both initiating and implementing the operation;
+
+(e) in the context of financial instruments, the body that implements the holding fund or, where there is no holding fund structure, the body that implements the specific fund or, where the managing authority manages the financial instrument, the managing authority;
+
+(10) ‘small project fund’ means an operation in an Interreg programme aimed at the selection and implementation of projects, including people-to-people actions, of limited financial volume;
+
+(11) ‘target’ means a pre-agreed value to be achieved by the end of the eligibility period in relation to an indicator included under a specific objective;
+
+(12) ‘milestone’ means an intermediate value to be achieved at a given point in time during the eligibility period in relation to an output indicator included under a specific objective;
+
+(13) ‘output indicator’ means an indicator to measure the specific deliverables of the intervention;
+
+(14) ‘result indicator’ means an indicator to measure the effects of the interventions supported, with particular reference to the direct addressees, population targeted or users of infrastructure;
+
+(15) ‘PPP operation’ means an operation which is implemented under a partnership between public bodies and the private sector in line with a PPP agreement, and which aims to provide public services through risk sharing by the pooling of either private sector expertise or additional sources of capital or both;
+
+(16) ‘financial instrument’ means a form of support delivered via a structure through which financial products are provided to final recipients;
+
+(17) ‘financial product’ means equity or quasi-equity investments, loans and guarantees as defined in Article 2 of the Financial Regulation;
+
+(18) ‘final recipient’ means a legal or natural person receiving support from the Funds through a beneficiary of a small project fund or from a financial instrument;
+
+(19) ‘programme contribution’ means the support from the Funds and the national public and private, if any, co-financing to a financial instrument;
+
+(20) ‘holding fund’ means a fund set up under the responsibility of a managing authority under one or more programmes, to implement one or more specific funds;
+
+(21) ‘specific fund’ means a fund through which a managing authority or a holding fund provides financial products to final recipients;
+
+(22) ‘body implementing a financial instrument’ means a body, governed by public or private law, carrying out tasks of a holding fund or specific fund;
+
+(23) ‘leverage effect’ means the amount of reimbursable financing provided to final recipients divided by the amount of the contribution from the Funds;
+
+(24) ‘multiplier ratio’ in the context of guarantee instruments means a ratio established on the basis of a prudent ex ante risk assessment in respect of each a guarantee product to be offered, between the value of the underlying disbursed new loans, equity or quasi-equity investments, and the amount of the programme contribution set aside for guarantee contracts to cover expected and unexpected losses from these new loans, equity or quasi-equity investments;
+
+(25) ‘management costs’ means direct or indirect costs reimbursed against evidence of expenditure incurred in the implementation of financial instruments;
+
+(26) ‘management fees’ means a price for services rendered, as determined in the funding agreement between the managing authority and the body implementing a holding fund or a specific fund; and, where applicable, between the body implementing a holding fund and the body implementing a specific fund;
+
+(27) ‘relocation’ means a transfer of the same or similar activity or part thereof within the meaning of point (61a) of Article 2 of Regulation (EU) No 651/2014;
+
+(28) ‘public contribution’ means any contribution to the financing of operations the source of which is the budget of national, regional or local public authorities or of any European grouping of territorial cooperation (EGTC) established in accordance with Regulation (EC) No 1082/2006 of the European Parliament and of the Council ( 7 ), the budget of the Union made available to the Funds, the budget of public law bodies or the budget of associations of public authorities or of public law bodies and, for the purpose of determining the co-financing rate for ESF+ programmes or priorities, may include any financial resources collectively contributed by employers and workers;
+
+(29) ‘accounting year’ means the period from 1 July to 30 June of the following year, except for the first accounting year of the programming period, in respect of which it means the period from the start date for eligibility of expenditure until 30 June 2022; for the final accounting year, it means the period from 1 July 2029 to 30 June 2030;
+
+(30) ‘economic operator’ means any natural or legal person, or other entity involved in the implementation of the Funds, with the exception of a Member State exercising its prerogatives as a public authority;
+
+(31) ‘irregularity’ means any breach of applicable law, resulting from an act or omission by an economic operator, which has, or would have, the effect of prejudicing the budget of the Union by charging unjustified expenditure to that budget;
+
+(32) ‘serious deficiency’ means a deficiency in the effective functioning of the management and control system of a programme for which significant improvements in the management and control systems are required and where any of the key requirements 2, 4, 5, 9, 12, 13 and 15 referred to in Annex XI, or two or more of the other key requirements are assessed into categories 3 and 4 of that Annex;
+
+(33) ‘systemic irregularity’ means any irregularity, which may be of a recurring nature, with a high probability of occurrence in similar types of operations, which results from a serious deficiency, including a failure to establish appropriate procedures in accordance with this Regulation and the Fund-specific rules;
+
+(34) ‘total errors’ means the sum of the projected random errors and, if applicable, delimited systemic errors and uncorrected anomalous errors;
+
+(35) ‘total error rate’ means total errors divided by the audit population;
+
+(36) ‘residual error rate’ means the total errors less the financial corrections applied by the Member State to reduce the risks identified by the audit authority, divided by the expenditure to be declared in the accounts;
+
+(37) ‘completed operation’ means an operation that has been physically completed or fully implemented and in respect of which all related payments have been made by beneficiaries and the corresponding public contribution has been paid to the beneficiaries;
+
+(38) ‘sampling unit’ means one of the units, which may be an operation, a project within an operation or a payment claim by a beneficiary, into which an audit population is divided for the purpose of sampling;
+
+(39) ‘escrow account’ means, in the case of a PPP operation, a bank account covered by a written agreement between a public body beneficiary and the private partner approved by the managing authority or an intermediate body used for payments during or after the eligibility period;
+
+(40) ‘participant’ means a natural person benefiting directly from an operation without being responsible for initiating or both initiating and implementing the operation and who, in the context of the EMFAF, does not receive financial support;
+
+(41) ‘energy efficiency first’ means taking utmost account in energy planning, and in policy and investment decisions, of alternative cost-efficient energy efficiency measures to make energy demand and energy supply more efficient, in particular by means of cost-effective end-use energy savings, demand response initiatives and more efficient conversion, transmission and distribution of energy, whilst still achieving the objectives of those decisions;
+
+(42) ‘climate proofing’ means a process to prevent infrastructure from being vulnerable to potential long-term climate impacts whilst ensuring that the ‘energy efficiency first’ principle is respected and that the level of greenhouse gas emissions arising from the project is consistent with the climate neutrality objective in 2050;
+
+(43) ‘grants under conditions’ means a category of grant subject to conditions linked to the repayment of support;
+
+(44) ‘EIB’ means the European Investment Bank, the European Investment Fund or any subsidiary of the European Investment Bank;
+
+(45) ‘Seal of Excellence’ means the quality label attributed by the Commission in respect of a proposal, which shows that the proposal which has been assessed in a call for proposals under a Union instrument is deemed to comply with the minimum quality requirements of that Union instrument, but could not be funded due to lack of budget available for that call for proposals, and might receive support from other Union or national sources of funding; or the ‘Sovereignty Seal’ referred to in Article 4 of Regulation (EU) 2024/795 of the European Parliament and of the Council ( 8 ).
+
+## Article 3 — Calculation of time limits for Commission actions
+
+Where a time limit is set for an action by the Commission, that time limit shall start when all information in accordance with the requirements laid down in this Regulation or in Fund-specific Regulations have been submitted by the Member State.
+
+That time limit shall be suspended from the day following the date on which the Commission sends its observations or a request for revised documents to the Member State and until the Member State responds to the Commission.
+
+## Article 4 — Processing and protection of personal data
+
+The Member States and the Commission shall be allowed to process personal data only where necessary for the purpose of carrying out their respective obligations under this Regulation, in particular for monitoring, reporting, communication, publication, evaluation, financial management, verifications and audits and, where applicable, for determining the eligibility of participants. The personal data shall be processed in accordance with Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 of the European Parliament and of the Council ( 9 ), whichever is applicable.
+
+**CHAPTER II**
+
+**Policy objectives and principles for the support of the funds**
+
+## Article 5 — Policy objectives
+
+1\. The ERDF, the ESF+, the Cohesion Fund and the EMFAF shall support the following policy objectives:
+
+(a) a more competitive and smarter Europe by promoting innovative and smart economic transformation and regional ICT connectivity;
+
+(b) a greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility;
+
+(c) a more connected Europe by enhancing mobility;
+
+(d) a more social and inclusive Europe implementing the European Pillar of Social Rights;
+
+(e) a Europe closer to citizens by fostering the sustainable and integrated development of all types of territories and local initiatives.
+
+The JTF shall support the specific objective of enabling regions and people to address the social, employment, economic and environmental impacts of the transition towards the Union’s 2030 targets for energy and climate and a climate-neutral economy of the Union by 2050, based on the Paris Agreement.
+
+The first subparagraph of paragraph 1 of this Article shall not apply to the resources of the ERDF and the ESF+ that are transferred to the JTF in accordance with Article 27.
+
+2\. The ERDF, the ESF+, the Cohesion Fund and the JTF shall contribute to the actions of the Union, leading to the strengthening of its economic, social and territorial cohesion in accordance with Article 174 TFEU, by pursuing the following goals:
+
+(a) the Investment for jobs and growth goal in Member States and regions, to be supported by the ERDF, the ESF+, the Cohesion Fund and the JTF; and
+
+(b) the European territorial cooperation goal (Interreg), to be supported by the ERDF.
+
+3\. Member States and the Commission shall promote the coordination, complementarity and coherence between the Funds and other Union instruments and funds. They shall optimise mechanisms for coordination between those responsible to avoid duplication during planning and implementation. Accordingly, Member States and the Commission shall also take into account the relevant country-specific recommendations in the programming and implementation of the Funds.
+
+## Article 6 — Climate targets and climate adjustment mechanism
+
+1\. Member States shall provide information on support for environment and climate objectives by using a methodology based on types of intervention for each of the Funds. That methodology shall consist of assigning a specific weighting to the support provided at a level which reflects the extent to which such support makes a contribution to environmental objectives and to climate objectives. In the case of the ERDF, the ESF+ and the Cohesion Fund, weightings shall be attached to dimensions and codes for the types of intervention established in Annex I. The ERDF and the Cohesion Fund shall contribute with 30 % and 37 % respectively of the Union contribution to expenditure supported for the achievement of the climate objectives set for the Union budget.
+
+Where, as a result of a programme amendment for the Strategic Technologies for Europe Platform (STEP) established by Regulation (EU) 2024/795, the climate contribution of the Cohesion Fund would exceed the target of 37 % of its total allocation, the amount exceeding that target may be taken into account when calculating the climate contribution of the ERDF for the purpose of reaching the target of 30 % of its total allocation. The amounts exceeding the ERDF climate contribution target of 30 % of its total allocation may be taken into account when calculating the climate contribution of the Cohesion Fund.
+
+2\. The climate contribution target for each Member State shall be established as a percentage of its total ERDF and Cohesion Fund allocation and included in programmes as a result of the types of intervention and the indicative financial breakdown pursuant to point (d)(viii) of Article 22(3). As provided for in Article 11(1), the preliminary climate contribution target shall be established in the Partnership Agreement.
+
+3\. The Member State and the Commission shall regularly monitor respect of the climate contribution targets, based on the total eligible expenditure declared by the beneficiaries to the managing authority as broken down by types of intervention in accordance with Article 42 and on data submitted by the Member State. Where the monitoring shows insufficient progress towards reaching the climate contribution target, the Member State and the Commission shall agree on remedial measures in the annual review meeting.
+
+4\. Where there is insufficient progress towards reaching the climate contribution target at national level by 31 December 2024, the Member State shall take this into account in its mid-term review in accordance with Article 18(1).
+
+## Article 7 — Shared management
+
+1\. The Member States and the Commission shall implement the budget of the Union allocated to the Funds under shared management in accordance with Article 63 of the Financial Regulation. Member States shall prepare and implement programmes at the appropriate territorial level in accordance with their institutional, legal and financial framework.
+
+2\. The Commission shall implement the amount of support from the Cohesion Fund transferred to the Connecting Europe Facility (CEF), the European Urban Initiative, Interregional Innovative Investments, the amount of support transferred from the ESF+ to transnational cooperation, the amounts contributed to the InvestEU Programme and technical assistance at the initiative of the Commission under direct or indirect management in accordance with points (a) and (c) of the first subparagraph of Article 62(1) of the Financial Regulation.
+
+3\. The Commission may, with the agreement of the Member State and the regions concerned, implement outermost regions’ cooperation under the European territorial cooperation goal (Interreg) under indirect management.
+
+## Article 8 — Partnership and multi-level governance
+
+1\. For the Partnership Agreement and each programme, each Member State shall organise and implement a comprehensive partnership in accordance with its institutional and legal framework and taking into account the specificities of the Funds. That partnership shall include at least the following partners:
+
+(a) regional, local, urban and other public authorities;
+
+(b) economic and social partners;
+
+(c) relevant bodies representing civil society, such as environmental partners, non-governmental organisations, and bodies responsible for promoting social inclusion, fundamental rights, rights of persons with disabilities, gender equality and non-discrimination;
+
+(d) research organisations and universities, where appropriate.
+
+2\. The partnership established under paragraph 1 of this Article shall operate in accordance with the multi-level governance principle and a bottom-up approach. The Member State shall involve partners referred to in paragraph 1 in the preparation of the Partnership Agreement and throughout the preparation, implementation and evaluation of programmes, including through participation in monitoring committees in accordance with Article 39.
+
+In that context, Member States shall, where relevant, allocate an appropriate percentage of the resources coming from the Funds for the administrative capacity building of social partners and civil society organisations.
+
+3\. For Interreg programmes, the partnership shall include partners from all participating Member States.
+
+4\. The organisation and implementation of partnership shall be carried out in accordance with the European code of conduct on partnership established by Delegated Regulation (EU) No 240/2014.
+
+5\. At least once a year, the Commission shall consult organisations which represent partners at Union level on the implementation of programmes, and shall report to the European Parliament and Council on the outcome.
+
+## Article 9 — Horizontal Principles
+
+1\. Member States and the Commission shall ensure respect for fundamental rights and compliance with the Charter of Fundamental Rights of the European Union in the implementation of the Funds.
+
+2\. Member States and the Commission shall ensure that equality between men and women, gender mainstreaming and the integration of a gender perspective are taken into account and promoted throughout the preparation, implementation, monitoring, reporting and evaluation of programmes.
+
+3\. Member States and the Commission shall take appropriate steps to prevent any discrimination based on gender, racial or ethnic origin, religion or belief, disability, age or sexual orientation during the preparation, implementation, monitoring, reporting and evaluation of programmes. In particular, accessibility for persons with disabilities shall be taken into account throughout the preparation and implementation of programmes.
+
+4\. The objectives of the Funds shall be pursued in line with the objective of promoting sustainable development as set out in Article 11 TFEU, taking into account the UN Sustainable Development Goals, the Paris Agreement and the "do no significant harm" principle.
+
+The objectives of the Funds shall be pursued in full respect of the Union environmental acquis.
+
+**TITLE II**
+
+**STRATEGIC APPROACH**
+
+**CHAPTER I**
+
+**Partnership Agreement**
+
+## Article 10 — Preparation and submission of the Partnership Agreement
+
+1\. Each Member State shall prepare a Partnership Agreement which sets out the strategic orientation for programming and the arrangements for using the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF in an effective and efficient way for the period from 1 January 2021 to 31 December 2027.
+
+2\. The Partnership Agreement shall be prepared in accordance with the European code of conduct on partnership. Where a Member State already provides for a comprehensive partnership during the preparation of its programmes, that requirement is considered to be complied with.
+
+3\. The Member State shall submit the Partnership Agreement to the Commission before or at the same time as the submission of the first programme.
+
+4\. The Partnership Agreement may be submitted together with the relevant annual National Reform Programme and the integrated national energy and climate plan.
+
+5\. The Partnership Agreement shall be a strategic and concise document. It shall be no longer than 35 pages, unless the Member State, at its own initiative, decides to extend the length of the document.
+
+6\. The Member State shall draw up the Partnership Agreement in accordance with the template set out in Annex II. The Member State may include the Partnership Agreement in one of its programmes.
+
+7\. Interreg programmes may be submitted to the Commission before the submission of the Partnership Agreement.
+
+8\. The EIB may, at the request of the Member State concerned, participate in the preparation of the Partnership Agreement, as well as in activities relating to the preparation of operations, financial instruments and PPPs.
+
+## Article 11 — Content of the Partnership Agreement
+
+1\. The Partnership Agreement shall contain the following elements:
+
+(a) the selected policy objectives and the specific objective of the JTF, indicating by which of the funds covered by the Partnership Agreement and programmes these objectives will be pursued and a justification thereto, taking into account relevant country-specific recommendations, the integrated national energy and climate plan, the principles of the European Pillar of Social Rights and, where relevant, regional challenges;
+
+(b) for each of the selected policy objectives and the specific objective of the JTF:
+
+(i) a summary of the policy choices and the main results expected for each of the funds covered by the Partnership Agreement;
+
+(ii) coordination, demarcation and complementarities between the Funds and, where appropriate, coordination between national and regional programmes;
+
+(iii) complementarities and synergies between the funds covered by the Partnership Agreement, the AMIF, the ISF, the BMVI, and other Union instruments, including LIFE strategic integrated projects and strategic nature projects, and, where appropriate, projects funded under Horizon Europe;
+
+(c) the preliminary financial allocation from each of the funds covered by the Partnership Agreement by policy objective at national and where appropriate at regional level, respecting Fund-specific rules on thematic concentration and the preliminary financial allocation for the specific objective of the JTF, including any ERDF and ESF+ resources to be transferred to the JTF in accordance with Article 27;
+
+(d) the preliminary climate contribution target in accordance with Article 6(2);
+
+(e) where applicable, the breakdown of financial resources by category of region drawn up in accordance with Article 108(2) and the amounts of allocations proposed to be transferred pursuant to Articles 26 and 111, including a justification for such transfers;
+
+(f) for technical assistance, the choice of the Member State of the form of Union contribution pursuant to Article 36(3) and, where applicable, the preliminary financial allocation from each of the funds covered by the Partnership Agreement at national level and breakdown of financial resources by programme and category of region;
+
+(g) the amounts to be contributed to the InvestEU Programme by Fund and by category of region, where applicable;
+
+(h) the list of planned programmes under the funds covered by the Partnership Agreement with the respective preliminary financial allocations by fund and the corresponding national contribution by category of region, where applicable;
+
+(i) a summary of the actions which the Member State concerned plans to take to reinforce its administrative capacity of the implementation of the funds covered by the Partnership Agreement;
+
+(j) where appropriate, an integrated approach to address the demographic challenges or specific needs of regions and areas.
+
+As regards the European territorial cooperation goal (Interreg), the Partnership Agreement shall only contain the list of planned programmes.
+
+2\. The Partnership Agreement may also contain a summary of the assessment of the fulfilment of relevant enabling conditions referred to in Article 15 and Annexes III and IV.
+
+## Article 12 — Approval of the Partnership Agreement
+
+1\. The Commission shall assess the Partnership Agreement and its compliance with this Regulation and with the Fund-specific rules while respecting the principle of proportionality, taking into account the strategic nature of the document, the number of programmes covered and the total amount of resources allocated to the Member State concerned. In its assessment, the Commission shall, in particular, take into account how the Member State intends to address relevant country-specific recommendations, its integrated national energy and climate plan as well as the European Pillar of Social Rights.
+
+2\. The Commission may make observations within 3 months of the date of submission by the Member State of the Partnership Agreement.
+
+3\. The Member State shall review the Partnership Agreement, taking into account the observations made by the Commission.
+
+4\. The Commission shall adopt a decision by means of an implementing act approving the Partnership Agreement no later than 4 months after the date of first submission of that Partnership Agreement by the Member State concerned.
+
+5\. When the Partnership Agreement is included in a programme in accordance with Article 10(6), the Commission shall adopt a single decision by means of an implementing act approving both the Partnership Agreement and the programme no later than 6 months after the date of first submission of the programme by the Member State concerned.
+
+## Article 13 — Amendment of the Partnership Agreement
+
+1\. A Member State may submit to the Commission by 31 March 2025 an amended Partnership Agreement, taking into account the outcome of the mid-term review.
+
+2\. The Commission shall assess the amendment and may make observations within 3 months of the submission of the amended Partnership Agreement.
+
+3\. The Member State shall review the amended Partnership Agreement, taking into account the observations made by the Commission.
+
+4\. The Commission shall approve the amendment of a Partnership Agreement no later than 6 months after its first submission by the Member State.
+
+5\. Without prejudice to the possibility to amend the Partnership Agreement by 31 March 2025 as referred to in paragraph 1 of this Article, a Member State may submit to the Commission an amended Partnership Agreement to take into account the introduction in the programmes of priorities contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795.
+
+6\. By way of derogation from paragraphs 2 and 4 of this Article, the Commission shall approve the amended Partnership Agreement referred to in paragraph 5 no later than three months after its first submission by the Member State.
+
+## Article 14 — Use of the ERDF, the ESF+, the Cohesion Fund and the EMFAF delivered through the InvestEU Programme
+
+1\. Member States may allocate, in the Partnership Agreement, an amount of up to 2 % of the initial national allocation for the ERDF, the ESF+, the Cohesion Fund and the EMFAF, respectively, to be contributed to the InvestEU Programme and delivered through the EU guarantee and the InvestEU Advisory Hub in accordance with Article 10 of the InvestEU Regulation. Member States, with the agreement of the managing authority concerned, may further allocate an amount of up to 3 % of the initial national allocation of each of those Funds after 1 January 2023 through one or more programme amendment requests.
+
+Such amounts shall contribute to the achievement of the policy objectives selected in the Partnership Agreement or the programme and shall support investments essentially in the category of contributing regions.
+
+Such contributions shall be implemented in accordance with the rules established in the InvestEU Regulation and shall not constitute transfers of resources under Article 26.
+
+2\. Member States shall determine the total amount contributed for each year by Fund and by category of region, where applicable. For the Partnership Agreement, resources of the current and future calendar years may be allocated. Where a Member State requests an amendment of a programme, only resources of future calendar years may be allocated.
+
+3\. The amounts referred to in paragraph 1 of this Article shall be used for the provisioning of the part of the EU guarantee under the Member State compartment and for the InvestEU Advisory Hub upon conclusion of the contribution agreement in accordance with Article 10(3) of the InvestEU Regulation. The budgetary commitments of the Union in respect of each contribution agreement may be made by the Commission in annual instalments during the period between 1 January 2021 and 31 December 2027.
+
+4\. Notwithstanding Article 12 of the Financial Regulation, where a contribution agreement, as set out in Article 10(2) of the InvestEU Regulation, has not been concluded within 4 months of the date of the Commission decision adopting the Partnership Agreement, for an amount referred to in paragraph 1 of this Article allocated in the Partnership Agreement, the corresponding amount shall be allocated to a programme or programmes within the contributing Fund and category of region, where relevant following a request by the Member State.
+
+The contribution agreement for the amounts referred to in paragraph 1 allocated in the request of the amendment of a programme shall be concluded simultaneously with the adoption of the decision amending the programme.
+
+5\. In accordance with the second subparagraph of Article 10(4) of Regulation (EU) 2021/523, where a guarantee agreement has not been concluded within 12 months of the conclusion of the contribution agreement, the contribution agreement shall be terminated or prolonged by mutual agreement.
+
+Where the participation of a Member State in the InvestEU Fund is discontinued, the amounts concerned paid into the common provisioning fund as a provisioning shall be recovered as internal assigned revenue pursuant to Article 21(5) of the Financial Regulation. The Member State concerned shall submit a request for one or more programme amendments to use the amounts recovered and the amounts allocated to future calendar years according to paragraph 2 of this Article. The termination or amendment of the contribution agreement shall be concluded simultaneously with the adoption of the decisions amending the programme or programmes concerned.
+
+6\. In accordance with the third subparagraph of Article 10(4) of the InvestEU Regulation, where a guarantee agreementhas not been duly implemented within 4 years from the conclusion of the guarantee agreement, the contribution agreement shall be amended. The Member State may request that amounts contributed to the EU guarantee under paragraph 1 of this Article and committed in the guarantee agreement but not covering underlying loans, equity investments or other risk bearing instruments be treated in accordance with paragraph 5 of this Article.
+
+7\. Resources generated by or attributable to the amounts contributed to the EU guarantee shall be made available to the Member State in accordance with point (a) of Article 10(5) of the InvestEU Regulation and shall be used for support under the same objective or objectives in the form of financial instruments or budgetary guarantees.
+
+8\. For the amounts to be reused in a programme in accordance with paragraphs 4, 5 and 6 of this Article, the decommitment time limit as set out in Article 105(1) shall start in the year in which the corresponding budgetary commitments are made.
+
+**CHAPTER II**
+
+**Enabling conditions and performance framework**
+
+## Article 15 — Enabling conditions
+
+1\. For the specific objectives, enabling conditions are laid down in this Regulation.
+
+Annex III contains horizontal enabling conditions applicable to all specific objectives and the criteria necessary for the assessment of their fulfilment.
+
+Annex IV contains thematic enabling conditions for the ERDF, the ESF+ and the Cohesion Fund and the criteria necessary for the assessment of their fulfilment.
+
+The enabling condition regarding the tools and capacity for effective application of State aid rules shall not be applicable to programmes supported by the AMIF, the ISF or the BMVI.
+
+2\. When preparing a programme or introducing a new specific objective as part of a programme amendment, the Member State shall assess whether the enabling conditions linked to the selected specific objective are fulfilled. An enabling condition is fulfilled where all the related criteria are met. The Member State shall identify in each programme or in the programme amendment the fulfilled and non-fulfilled enabling conditions and shall provide a justification where it considers that an enabling condition has been fulfilled.
+
+3\. Where an enabling condition is not fulfilled at the time of approval of the programme or the programme amendment, the Member State shall inform the Commission as soon as it considers that the enabling condition has been fulfilled with a justification of the fulfilment.
+
+4\. The Commission shall, as soon as possible and no later than 3 months after receipt of the information referred to in paragraph 3, carry out an assessment and inform the Member State whether it agrees with the Member State regarding the fulfilment of the enabling condition.
+
+Where the Commission disagrees with the Member State regarding the fulfilment of the enabling condition, it shall inform the Member State and set out its assessment.
+
+Where the Member State disagrees with the Commission’s assessment, it shall present its observations within 1 month and the Commission shall proceed in accordance with the first subparagraph.
+
+Where the Member State accepts the Commission’s assessment, it shall proceed in accordance with paragraph 3.
+
+5\. Without prejudice to Article 105, expenditure related to operations linked to the specific objective may be included in payment applications but shall not be reimbursed by the Commission until the Commission has informed the Member State of the fulfilment of the enabling condition pursuant to the first subparagraph of paragraph 4 of this Article.
+
+The first subparagraph shall not apply to operations that contribute to the fulfilment of the corresponding enabling condition.
+
+6\. The Member State shall ensure that enabling conditions remain fulfilled and respected throughout the programming period. It shall inform the Commission of any modification impacting the fulfilment of enabling conditions.
+
+Where the Commission considers that an enabling condition is no longer fulfilled, it shall inform the Member State setting out its assessment. Subsequently, the procedure set out in the second and third subparagraphs of paragraph 4 shall be followed.
+
+Where the Commission concludes that the non-fulfilment of the enabling condition persists and without prejudice to Article 105, based on the observations of the Member State, expenditure related to the specific objective concerned may be included in payment applications but shall not be reimbursed by the Commission until the Commission has informed the Member State of the fulfilment of the enabling condition pursuant to the first subparagraph of paragraph 4 of this Article.
+
+7\. Annex IV shall not apply to priorities supported by the JTF or to any ERDF and ESF+ resources transferred to the JTF in accordance with Article 27.
+
+## Article 16 — Performance framework
+
+1\. Each Member State shall establish a performance framework to allow monitoring, reporting on and evaluating programme performance during implementation of the programme, and to contribute to measuring the overall performance of the Funds.
+
+The performance framework shall consist of:
+
+(a) output and result indicators linked to specific objectives set out in the Fund-specific Regulations selected for the programme;
+
+(b) milestones to be achieved by the end of the year 2024 for output indicators; and
+
+(c) targets to be achieved by the end of the year 2029 for output and result indicators.
+
+2\. Milestones and targets shall be established in relation to each specific objective within a programme, with the exception of technical assistance and of the specific objective addressing material deprivation set out in point (m) of Article 4(1) of the ESF+ Regulation.
+
+3\. Milestones and targets shall allow the Commission and the Member State to measure progress towards the achievement of the specific objectives. They shall meet the requirements set out in Article 33(3) of the Financial Regulation.
+
+## Article 17 — Methodology for the establishment of the performance framework
+
+1\. The methodology to establish the performance framework shall include:
+
+(a) the criteria applied by the Member State to select indicators;
+
+(b) data or evidence used, data quality assurance and the calculation method;
+
+(c) factors that may influence the achievement of the milestones and targets and how they were taken into account.
+
+2\. The Member State shall make the methodology to establish the performance framework available to the Commission on request.
+
+## Article 18 — Mid-term review and flexibility amount
+
+1\. For programmes supported by the ERDF, the ESF+, the Cohesion Fund and the JTF, the Member State shall review each programme, taking into account the following elements:
+
+(a) the new challenges identified in relevant country-specific recommendations adopted in 2024;
+
+(b) the progress in implementing the integrated national energy and climate plan, if relevant;
+
+(c) the progress in implementing the principles of the European Pillar of Social Rights;
+
+(d) the socioeconomic situation of the Member State or region concerned, with special emphasis on territorial needs, taking into account any major negative financial, economic or social development;
+
+(e) the main results of relevant evaluations;
+
+(f) the progress in achieving the milestones, taking into account major difficulties encountered in the implementation of the programme;
+
+(g) for programmes supported by the JTF, the assessment carried out by the Commission, pursuant to point (b) of Article 29(1) of Regulation (EU) 2018/1999.
+
+2\. The Member State shall submit an assessment for each programme on the outcome of the mid-term review, including a proposal for the definitive allocation of the flexibility amount referred to in the second subparagraph of Article 86(1), to the Commission by 31 March 2025.
+
+3\. If deemed necessary following the mid-term review of the programme or in the event that new challenges are identified pursuant to point (a) of paragraph 1, the Member State shall submit to the Commission the assessment referred to in paragraph 2 together with the amended programme.
+
+The revisions shall include:
+
+(a) the allocations of the financial resources by priority;
+
+(b) revised or new targets;
+
+(c) the amounts to be contributed to the InvestEU Programme per Fund and per category of region, where applicable.
+
+The Commission shall approve the revised programme in accordance with Article 24, including a definitive allocation of the flexibility amount.
+
+4\. Where, as a result of the mid-term review, the Member State considers that the programme does not need to be amended, the Commission shall either:
+
+(a) adopt a decision within 3 months of the submission of the assessment referred to in paragraph 2 confirming the definitive allocation of the flexibility amount; or
+
+(b) request the Member State within 2 months of the submission of the assessment referred to in paragraph 2 of this Article to submit an amended programme in accordance with Article 24.
+
+5\. Until the adoption of the Commission decision confirming the definitive allocation of the flexibility amount, this amount shall not be available for selection of operations.
+
+6\. The Commission shall prepare a report about the outcome of the mid-term review and submit it to the European Parliament and to the Council by the end of 2026.
+
+**CHAPTER III**
+
+**Measures linked to sound economic governance and to exceptional or unusual circumstances**
+
+## Article 19 — Measures linking effectiveness of Funds to sound economic governance
+
+1\. The Commission may request a Member State to review and propose amendments of relevant programmes, where this is necessary to support the implementation of relevant Council Recommendations.
+
+Such a request may be made for the following purposes:
+
+(a) to support the implementation of a relevant country-specific recommendation adopted in accordance with Article 121(2) TFEU and of a relevant Council recommendation adopted in accordance with Article 148(4) TFEU, addressed to the Member State concerned;
+
+(b) to support the implementation of relevant Council Recommendations addressed to the Member State concerned and adopted in accordance with Article 7(2) or 8(2) of Regulation (EU) No 1176/2011 of the European Parliament and of the Council ( 10 ) provided that these amendments are deemed necessary to help correct the macroeconomic imbalances.
+
+2\. A request by the Commission to a Member State in accordance with paragraph 1 shall be justified, with reference to the need to support the implementation of the relevant recommendations, and shall indicate the programmes or priorities which it considers are concerned and the nature of the amendments expected. Such a request shall not be made before 2023 or after 2026, nor in relation to the same programmes in two consecutive years.
+
+3\. The Member State shall submit its response to the request referred to in paragraph 1 within 2 months of its receipt, setting out the amendments it considers necessary in the relevant programmes, the reasons for such amendments, identifying the programmes concerned and outlining the nature of the amendments proposed and their expected effects on the implementation of recommendations and on the implementation of the Funds. If necessary, the Commission shall make observations within 1 month of the receipt of that response.
+
+4\. The Member State shall submit a proposal to amend the relevant programmes within 2 months of the date of submission of the response referred to in paragraph 3.
+
+5\. Where the Commission has not submitted observations or where it is satisfied that any observations submitted have been duly taken into account, it shall adopt a decision approving the amendments of the relevant programmes no later than 4 months after its submission by the Member State.
+
+6\. Where the Member State fails to take effective action in response to a request made in accordance with paragraph 1, within the deadlines set out in paragraphs 3 and 4, the Commission may, within 3 months, following its observations under paragraph 3 or following the submission of the proposal of the Member State under paragraph 4, make a proposal to the Council to suspend part or all of the payments for the programmes or priorities concerned. In its proposal, the Commission shall set out the grounds for concluding that the Member State has failed to take effective action. In making its proposal, the Commission shall take account of all relevant information, and shall give due consideration to any elements arising from and opinions expressed through the structured dialogue under paragraph 14.
+
+The Council shall decide on that proposal by means of an implementing act. That implementing act shall only apply with respect to payment applications submitted after the date of the adoption of that implementing act.
+
+7\. The Commission shall make a proposal to the Council to suspend all or part of the commitments or payments for one or more of the programmes of a Member State where the Council decides in accordance with Article 126(8) or (11) TFEU that a Member State has not taken effective action to correct its excessive deficit, unless it has determined the existence of a severe economic downturn in the euro area or in the Union as a whole within the meaning of Articles 3(5) and 5(2) of Council Regulation (EC) No 1467/97 ( 11 ).
+
+8\. The Commission may make a proposal to the Council to suspend all or part of the commitments or payments for one or more of the programmes of a Member State in the following cases:
+
+(a) where the Council adopts two successive recommendations in the same excessive imbalance procedure in accordance with Article 8(3) of Regulation (EU) No 1176/2011 on the grounds that a Member State has submitted an insufficient corrective action plan;
+
+(b) where the Council adopts two successive decisions in the same excessive imbalance procedure in accordance with Article 10(4) of Regulation (EU) No 1176/2011 establishing non-compliance by a Member State on the grounds that it has not taken the recommended corrective action;
+
+(c) where the Commission concludes that a Member State has not taken measures as referred to in Council Regulation (EC) No 332/2002 ( 12 ) and as a consequence decides not to authorise the disbursement of the financial assistance granted to that Member State;
+
+(d) where the Council decides that a Member State does not comply with the macroeconomic adjustment programme referred to in Article 7 of Regulation (EU) No 472/2013 of the European Parliament and of the Council ( 13 ), or with the measures requested by a Council decision adopted in accordance with Article 136(1) TFEU.
+
+9\. Priority shall be given to the suspension of commitments. Payments shall be suspended only when immediate action is sought and in the case of significant non-compliance. The suspension of payments shall apply to payment applications submitted for the programmes concerned after the date of the decision to suspend.
+
+10\. A proposal by the Commission for a decision to suspend commitments shall be deemed adopted by the Council unless the Council decides, by means of an implementing act, to reject such a proposal by qualified majority within 1 month of the submission of the Commission proposal.
+
+The suspension of commitments shall apply to the commitments from the Funds for the Member State concerned from 1 January of the year following the adoption of the decision to suspend.
+
+The Council shall adopt a decision, by means of an implementing act, on a proposal by the Commission referred to in paragraphs 7 and 8 in relation to the suspension of payments.
+
+11\. The scope and level of the suspension of commitments or payments to be imposed shall be proportionate, respect the equality of treatment between Member States and take into account the economic and social circumstances of the Member State concerned, in particular the level of unemployment, the level of poverty or social exclusion in the Member State concerned compared to the Union average and the impact of the suspension on the economy of the Member State concerned. The impact of suspensions on programmes of critical importance to address adverse economic or social conditions shall be a specific factor to be taken into account.
+
+12\. The suspension of commitments shall be subject to a maximum of 25 % of the commitments relating to the next calendar year for the Funds or 0,25 % of nominal GDP, whichever is lower, in any of the following cases:
+
+(a) in the first case of non-compliance with an excessive deficit procedure as referred to in paragraph 7;
+
+(b) in the first case of non-compliance relating to a corrective action plan under an excessive imbalance procedure as referred to in point (a) of paragraph 8;
+
+(c) in the case of non-compliance with the recommended corrective action pursuant to an excessive imbalance procedure as referred to in point (b) of paragraph 8;
+
+(d) in the first case of non-compliance as referred to in points (c) and (d) of paragraph 8.
+
+In the case of persistent non-compliance, the suspension of commitments may exceed the maximum percentages set out in the first subparagraph.
+
+13\. The Council shall lift the suspension of commitments on a proposal from the Commission in the following cases:
+
+(a) where the excessive deficit procedure is held in abeyance in accordance with Article 9 of Regulation (EC) No 1467/97or the Council has decided in accordance with Article 126(12) TFEU to abrogate the decision on the existence of an excessive deficit;
+
+(b) where the Council has endorsed the corrective action plan submitted by the Member State concerned in accordance with Article 8(2) of Regulation (EU) No 1176/2011 or the excessive imbalance procedure is placed in a position of abeyance in accordance with Article 10(5) of that Regulation or the Council has closed the excessive imbalance procedure in accordance with Article 11 of that Regulation;
+
+(c) where the Commission has concluded that the Member State concerned has taken appropriate measures as referred to in Regulation (EC) No 332/2002;
+
+(d) where the Commission has concluded that the Member State concerned has taken appropriate measures to implement the macroeconomic adjustment programme referred to in Article 7 of Regulation (EU) No 472/2013 or the measures requested by a Council decision adopted in accordance with Article 136(1) TFEU.
+
+After the Council has lifted the suspension of commitments, the Commission shall re-budget the suspended commitments in accordance with Article 6 of Regulation (EU, Euratom) 2020/2093.
+
+Suspended commitments may not be re-budgeted beyond the year 2027.
+
+The decommitment time limit for the re-budgeted amount in accordance with Article 105 shall start from the year in which the suspended commitment has been re-budgeted.
+
+A decision concerning the lifting of the suspension of payments shall be taken by the Council on a proposal by the Commission where the applicable conditions set out in in the first subparagraph are fulfilled. A proposal by the Commission for a decision to lift the suspension of commitments shall be deemed adopted by the Council unless the Council decides, by means of an implementing act, to reject such a proposal by qualified majority within 1 month of the submission of the Commission proposal.
+
+14\. The Commission shall keep the European Parliament informed of the implementation of this Article. In particular, the Commission shall, when one of the conditions set out in paragraph 6, 7 or 8 is fulfilled for a Member State, immediately inform the European Parliament and provide details of the Funds and programmes which could be subject to a suspension.
+
+The European Parliament may invite the Commission for a structured dialogue on the application of this Article, having regard to the transmission of the information referred to in the first subparagraph.
+
+The Commission shall transmit the proposal for suspension or the proposal to lift such a suspension to the European Parliament and to the Council without delay after its adoption. The European Parliament may invite the Commission to explain the reasons for its proposal.
+
+15\. By 31 December 2025, the Commission shall carry out a review of the application of this Article. To that end, the Commission shall prepare a report which it shall transmit to the European Parliament and the Council, accompanied where necessary by a legislative proposal.
+
+16\. Where there are major changes in the social and economic situation in the Union, the Commission may submit a proposal to review the application of this Article, or the European Parliament or the Council, acting in accordance with Article 225 or 241 TFEU respectively, may request the Commission to submit such a proposal.
+
+17\. This Article shall not apply to the ESF+, the AMIF, the ISF, the BMVI or to Interreg programmes.
+
+## Article 20 — Temporary measures for the use of the Funds in response to exceptional or unusual circumstances
+
+1\. Where after 1 July 2021 the Council has recognised the occurrence of an unusual event outside the control of one or more Member States, which has a major impact on the financial position of the general government or a severe economic downturn for the euro area or the Union as a whole as referred to in the tenth subparagraph of Article 5(1), the fourth subparagraph of Article 6(3), the tenth subparagraph of Article 9(1) and the fourth subparagraph of Article 10(3) of Regulation (EC) No 1466/97 ( 14 ) or the occurrence of unexpected adverse economic events with major unfavourable consequences for government finances as referred to in Articles 3(5) and 5(2) of Regulation (EC) No 1467/97, the Commission may, by means of an implementing decision and for a period of a maximum of 18 months, adopt one or more of the following measures provided that they are strictly necessary to respond to such exceptional or unusual circumstances:
+
+(a) on request of one or more Member States concerned, increase interim payments by 10 percentage points above the co-financing rate applicable, not exceeding 100 %, by way of derogation from Article 112(3) and (4) of this Regulation, as well as from Article 40 of the EMFAF Regulation, Article 15 of the AMIF Regulation, Article 12 of the ISF Regulation and Article 12 of the BMVI Regulation;
+
+(b) allow the authorities of a Member State to select for support operations that have been physically completed or fully implemented before the application for the funding under the programme is duly submitted to the managing authority, by way of derogation from Article 63(6), provided that the operation is in response to the exceptional circumstances;
+
+(c) provide that expenditure for operations in response to such circumstances may be eligible from the date on which the Council endorsed the occurrence of those circumstances, by way of derogation from Article 63(7);
+
+(d) extend the deadlines for the submission of documents and the submission of data to the Commission by up to 3 months, by way of derogation from Articles 41(6), 42(1), 44(2) and the first subparagraph of Article 49(3).
+
+2\. The Commission shall keep the European Parliament and the Council informed of the implementation of this Article. When one of the conditions set out in paragraph 1 is fulfilled, the Commission shall immediately inform the European Parliament and the Council on its assessment of the situation and its envisaged follow-up.
+
+3\. The European Parliament or the Council may invite the Commission for a structured dialogue on the application of this Article. When assessing the situation and envisaging a follow-up, the Commission shall give due consideration to the positions taken and views expressed through the structured dialogue.
+
+4\. If after the period not exceeding 18 months, as referred to in paragraph 1, the specific circumstances that led to the adoption of these temporary measures persist, the Commission shall reassess the situation and put forward a legislative proposal, as appropriate, amending this Regulation, providing for the necessary flexibility to address these circumstances.
+
+5\. The Commission shall inform the European Parliament and the Council of the implementing decision adopted under paragraph 1 without delay, at the latest within 2 working days of its adoption.
+
+**TITLE III**
+
+**PROGRAMMING**
+
+**CHAPTER I**
+
+**General provisions on the Funds**
+
+## Article 21 — Preparation and submission of programmes
+
+1\. Member States shall prepare, in cooperation with the partners referred to in Article 8(1), programmes to implement the Funds for the period from 1 January 2021 to 31 December 2027.
+
+2\. Member States shall submit programmes to the Commission no later than 3 months after the submission of the Partnership Agreement. For the AMIF, the ISF and the BMVI, Member States shall submit programmes to the Commission no later than 3 months after the entry into force of this Regulation or the relevant fund-specific Regulation, whichever is later.
+
+3\. Member States shall prepare programmes in accordance with the programme template set out in Annex V.
+
+For the AMIF, the ISF and the BMVI, Member States shall prepare programmes in accordance with the programme template set out in Annex VI.
+
+4\. Where an environmental report is prepared in accordance with Directive 2001/42/EC of the European Parliament and of the Council ( 15 ), it shall be published on the programme website referred to in Article 49(1) of this Regulation.
+
+## Article 22 — Content of programmes
+
+1\. Each programme shall set out a strategy for the contribution of the programme to the policy objectives or to the specific objective of the JTF and the communication of its results.
+
+2\. A programme shall consist of one or more priorities. Each priority shall correspond to a single policy objective, the specific objective of the JTF, or to technical assistance implemented pursuant to Article 36(4) or Article 37. A priority may use support from one or more Funds unless it receives support from the JTF or concerns technical assistance implemented pursuant to Article 36(4) or Article 37. A priority corresponding to a policy objective shall consist of one or more specific objectives. More than one priority may correspond to the same policy objective or to the specific objective of the JTF.
+
+For programmes supported by the AMIF, the ISF and the BMVI, a programme shall use support from one Fund and consist of specific objectives and of technical assistance specific objectives.
+
+3\. Each programme shall set out:
+
+(a) a summary of the main challenges, taking into account:
+
+(i) economic, social and territorial disparities as well as inequalities, except for programmes supported by the EMFAF;
+
+(ii) market failures;
+
+(iii) investment needs and complementarity and synergies with other forms of support;
+
+(iv) challenges identified in relevant country-specific recommendations, relevant national or regional strategies of that Member State, including its integrated national energy and climate plan, in relation to the principles of the European Pillar of Social Rights and, for the AMIF, the ISF and the BMVI, other relevant Union recommendations addressed to the Member State;
+
+(v) challenges in administrative capacity and governance and simplification measures;
+
+(vi) an integrated approach to address demographic challenges, where relevant;
+
+(vii) lessons learnt from past experience;
+
+(viii) macro-regional strategies and sea-basin strategies where Member States and regions participate in such strategies;
+
+(ix) for programmes supported by the AMIF, the ISF and the BMVI, progress in implementing the relevant Union acquis and action plans and a justification for the choice of specific objectives;
+
+(x) for programmes supported by the JTF, transition challenges identified in the territorial just transition plans;
+
+Points (i), (ii) and (viii) shall not apply to programmes supported by the AMIF, the ISF or the BMVI.
+
+(b) a justification for the selected policy objectives, corresponding priorities, specific objectives and the forms of support;
+
+(c) for each priority, except for technical assistance, specific objectives;
+
+(d) for each specific objective:
+
+(i) the related types of actions and their expected contribution to those specific objectives, to macro-regional strategies, sea-basin strategies, and to territorial just transition plans supported by the JTF, where appropriate;
+
+(ii) output indicators and result indicators with the corresponding milestones and targets;
+
+(iii) the main target groups;
+
+(iv) actions safeguarding equality, inclusion and non-discrimination;
+
+(v) indication of the specific territories targeted, including the planned use of integrated territorial investment, community-led local development or other territorial tools;
+
+(vi) the interregional, cross-border and transnational actions with beneficiaries located in at least one other Member State or outside the Union, where relevant;
+
+(vii) the planned use of financial instruments;
+
+(viii) the types of intervention and an indicative breakdown of the programmed resources by type of intervention;
+
+(ix) for the specific objective of the JTF, the justification of any amounts transferred from the ERDF and the ESF+ resources in accordance with Article 27, as well as their breakdown by category of region, reflecting the types of interventions planned in accordance with the territorial just transition plans;
+
+(e) for each priority on technical assistance implemented pursuant to Article 36(4):
+
+(i) the related types of actions;
+
+(ii) output indicators with the corresponding milestones and targets;
+
+(iii) the main target groups;
+
+(iv) the types of intervention and an indicative breakdown of the programmed resources by type of intervention;
+
+(f) the planned use of technical assistance pursuant to Article 37, if applicable, and relevant types of intervention;
+
+(g) a financing plan containing:
+
+(i) a table specifying the total financial allocations for each of the Funds and, where applicable, for each category of region for the whole programming period and by year, including any amounts transferred pursuant to Article 26 or 27, and the Member State’s request for supporting measures contributing to the objectives set out in Article 21c(3) of Regulation (EU) 2021/241 of the European Parliament and of the Council ( 16 );
+
+(ii) for programmes supported by ERDF, the ESF+, the Cohesion Fund and the JTF, a table specifying the total financial allocations for each priority by Fund and by category of region, where applicable, and the national contribution and whether it is made up of public or private contribution, or both;
+
+(iii) for programmes supported by the EMFAF, a table specifying for each specific objective, the amount of the total financial allocations of the support from the Fund and the national contribution;
+
+(iv) for programmes supported by the AMIF, the ISF and the BMVI, a table specifying, by specific objective, the total financial allocations by type of action, the national contribution and whether it is made up of public or private contribution, or both;
+
+(h) the actions taken to involve the relevant partners referred to in Article 8(1) in the preparation of the programme, and the role of those partners in the implementation, monitoring and evaluation of the programme;
+
+(i) for each enabling condition linked to the selected specific objective, established in accordance with Article 15 and Annexes III and IV, an assessment of whether the enabling condition is fulfilled at the date of submission of the programme;
+
+(j) the envisaged approach to communication and visibility for the programme through defining its objectives, target audiences, communication channels, including social media outreach, where appropriate, planned budget and relevant indicators for monitoring and evaluation;
+
+(k) the programme authorities and the body or, in case of technical assistance pursuant to Article 36(5), where applicable, bodies which receive payments from the Commission.
+
+Points (a)(i), (ii) and (viii) of this paragraph shall not apply to programmes limited to supporting the specific objective set out in point (m) of Article 4(1) of the ESF+ Regulation. Point (d) of this paragraph shall not apply to the specific objective set out in point (m) of Article 4(1) of the ESF+ Regulation.
+
+For the ERDF, the Cohesion Fund, the ESF+, the JTF and the EMFAF, the programme shall be accompanied for information purposes by a list of planned operations of strategic importance, with a timetable.
+
+If, in accordance with point (k), more than one body is identified to receive payments from the Commission, the Member State shall set out the share of the reimbursed amounts between those bodies.
+
+4\. By way of derogation from point (b) to (e) of paragraph 3, for each specific objective of programmes supported by the AMIF, the ISF and the BMVI, the following shall be provided:
+
+(a) a description of the initial situation, challenges and responses supported by the Fund;
+
+(b) indication of the implementation measures;
+
+(c) an indicative list of actions and their expected contribution to the specific objectives;
+
+(d) where applicable, a justification for the operating support, specific actions, emergency assistance, and actions as referred to in Articles 19 and 20 of the AMIF Regulation;
+
+(e) output and result indicators with the corresponding milestones and targets;
+
+(f) an indicative breakdown of the programmed resources by type of intervention.
+
+5\. Types of intervention shall be based on a nomenclature set out in Annex I. For programmes supported by the EMFAF, the AMIF, the ISF and the BMVI, types of intervention shall be based on a nomenclature set out in the Fund-specific Regulations.
+
+6\. For ERDF, ESF+, Cohesion Fund and JTF programmes, the table referred to in point (g)(ii) of paragraph 3 shall include the amounts for the years 2021 to 2027, including the flexibility amount.
+
+7\. The Member State shall communicate to the Commission any changes in the information referred to in point (k) of the first subparagraph of paragraph (3) without requiring a programme amendment.
+
+8\. For programmes supported by the JTF, Member States shall submit to the Commission the territorial just transition plans as part of the programme or programmes or of a request for amendment.
+
+## Article 23 — Approval of programmes
+
+1\. The Commission shall assess the programme and its compliance with this Regulation and with the Fund-specific Regulations, as well as, for the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF, its consistency with the relevant Partnership Agreement. In its assessment, the Commission shall, in particular, take into account relevant country-specific recommendations, relevant challenges identified in the integrated national energy and climate plan, and the principles of the European Pillar of Social Rights, and the way they are addressed.
+
+2\. The Commission may make observations within 3 months of the date of submission of the programme by the Member State.
+
+3\. The Member State shall review the programme, taking into account the observations made by the Commission.
+
+4\. The Commission shall adopt a decision by means of an implementing act approving the programme no later than 5 months after the date of the first submission of the programme by the Member State.
+
+## Article 24 — Amendment of programmes
+
+1\. The Member State may submit a reasoned request for an amendment of a programme, together with the amended programme, setting out the expected impact of that amendment on the achievement of the objectives.
+
+2\. The Commission shall assess the amendment and its compliance with this Regulation and with the Fund-specific Regulations, including requirements at national level, and may make observations within 2 months of the submission of the amended programme.
+
+3\. The Member State shall review the amended programme, taking into account the observations made by the Commission.
+
+4\. The Commission shall adopt a decision approving the amendment of a programme no later than 4 months after its submission by the Member State.
+
+5\. For programmes supported by the ERDF, the ESF+, the Cohesion Fund and the JTF, the Member State may transfer during the programming period an amount of up to 8 % of the initial allocation of a priority and no more than 4 % of the programme budget to another priority of the same Fund of the same programme. For programmes supported by the ERDF, the ESF+ and the JTF, the transfer shall only concern allocations for the same category of region.
+
+For programmes supported by the EMFAF, the Member State may transfer during the programming period an amount of up to 8 % of the initial allocation of a specific objective to another specific objective, including technical assistance implemented pursuant to Article 36(4).
+
+For programmes supported by the AMIF, the ISF and the BMVI, the Member State may transfer during the programming period allocations between types of actions within the same priority and, in addition, an amount of up to 15 % of the initial allocation of a priority to another priority of the same Fund.
+
+Such transfers shall not affect previous years. The transfers and related changes shall be considered to be not substantial and shall not require a decision of the Commission approving the amendment of the programme. They shall however, comply with all regulatory requirements and shall be approved by the monitoring committee in advance pursuant to point (d) of Article 40(2). The Member State shall submit to the Commission the amended table referred to under points (g)(ii), (iii) or (iv) of Article 22(3), as applicable, together with any related changes in the programme.
+
+6\. The approval of the Commission shall not be required for corrections of a purely clerical or editorial nature that do not affect the implementation of the programme. Member States shall inform the Commission of such corrections.
+
+7\. For programmes supported by the EMFAF, amendments of the programmes relating to the introduction of indicators shall not require the approval of the Commission.
+
+8\. For programmes supported by the ERDF, the ESF+ or the Cohesion Fund the Member State may submit an amendment of a programme, in accordance with this Article, requesting that measures contributing to the objectives set out in Article 21c(3) of Regulation (EU) 2021/241 are included in a programme, where such support contributes to the specific objectives of the Fund concerned as set out in Fund-specific Regulations. The amounts requested for such measures shall be programmed under a specific objective in accordance with the Fund-specific Regulations and included in a priority. Those amounts overall shall not exceed the limit of 7,5 % of the initial national allocation for each Fund.
+
+9\. By way of derogation from Article 18 of this Regulation, where priorities dedicated to investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795 have been included in a programme as a result of the approval of a programme amendment submitted by the Member State by 31 August 2024, those priorities shall not be taken into account for the purposes of the mid-term review. The decision approving such programme amendments may include a definitive allocation of the totality or part of the flexibility amount for the years 2026 and 2027 to address priorities dedicated to investments contributing to the STEP objectives. Where the totality of the flexibility amount of a programme is definitively allocated to such priorities, the mid-term review shall not be carried out for that programme.
+
+10\. By way of derogation from paragraph 4 of this Article, the Commission shall adopt the decision approving a programme amendment that has been submitted by 31 August 2024 within two months of its submission by a Member State provided that it concerns exclusively the introduction of dedicated priorities to investments contributing to the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795.
+
+## Article 25 — Joint support from the ERDF, the ESF+, the Cohesion Fund and the JTF
+
+1\. The ERDF, the ESF+, the Cohesion Fund and the JTF may jointly provide support for programmes under the Investment for jobs and growth goal.
+
+2\. The ERDF and the ESF+ may finance, in a complementary manner and subject to a limit of 15 % of support from those Funds for each priority of a programme, all or part of an operation for which the costs are eligible for support from the other Fund on the basis of eligibility rules applied to that Fund, provided that such costs are necessary for the implementation. That option shall not apply to any resources of the ERDF and the ESF+ that are transferred to the JTF in accordance with Article 27.
+
+## Article 26 — Transfer of resources
+
+1\. Member States may request, in the Partnership Agreement or in a request for an amendment of a programme if agreed by the monitoring committee of the programme pursuant to point (d) of Article 40(2), the transfer of up to 5 % of the initial national allocation of each Fund to any other instrument under direct or indirect management, where such possibility is provided for in the basic act of such an instrument.
+
+The sum of the transfers referred to in the first subparagraph of this paragraph and the contributions in accordance with the first subparagraph of Article 14(1) shall not exceed 5 % of the initial national allocation of each Fund.
+
+Member States may also request in the Partnership Agreement or in the request for an amendment of a programme the transfer of up to 5 % of the initial national allocation of each Fund to another Fund or Funds, except for transfers which are set out in the fourth subparagraph.
+
+Member States may also request in the Partnership Agreement or in the request for an amendment of a programme an additional transfer of up to 20 % of the initial national allocation by Fund between the ERDF, the ESF+ or the Cohesion Fund within the Member State’s global resources under the Investment for jobs and growth goal. The Member States whose average total unemployment rate for the period 2017-2019 is under 3 % may request such an additional transfer of up to 25 % of the initial national allocation.
+
+2\. Transferred resources shall be implemented in accordance with the rules of the Fund or the instrument to which the resources are transferred and, in the case of transfers to instruments under direct or indirect management, for the benefit of the Member State concerned.
+
+3\. Requests for an amendment of a programme shall set out the total amount transferred for each year by Fund and by category of region, where applicable, shall be duly justified with a view to the complementarities and impact to be achieved, and shall be accompanied by the amended programme or programmes in accordance with Article 24.
+
+4\. After consultation with the Member State concerned, the Commission shall object to a request for transfer in the related programme amendment where such a transfer would undermine the achievement of the objectives of the programme from which the resources are to be transferred.
+
+The Commission shall also object to the request where it considers that the Member State has not provided an adequate justification for the transfer with regard to the results to be achieved or the contribution to be made to the objectives of the receiving Fund or instrument in direct or indirect management.
+
+5\. Where the request for transfer concerns an amendment of a programme, only resources of future calendar years may be transferred.
+
+6\. JTF resources, including any resources transferred from the ERDF and the ESF+ in accordance with Article 27, shall not be transferable to other Funds or instruments pursuant to paragraphs 1 to 5 of this Article.
+
+The JTF shall not receive transfers pursuant to paragraphs 1 to 5.
+
+7\. Where the Commission has not entered into a legal commitment under direct or indirect management for resources transferred in accordance with paragraph 1, the corresponding uncommitted resources may be transferred back to the Fund from which they have been initially transferred and allocated to one or more programmes.
+
+To this end, the Member State shall submit a request for a programme amendment in accordance with Article 24(1), at the latest 4 months before the time limit for commitments set out in the first subparagraph of Article 114(2) of the Financial Regulation.
+
+8\. Resources transferred back to the Fund from which they have been initially transferred and allocated to one or more programmes shall be implemented in accordance with the rules set out in this Regulation and the Fund-specific Regulations as from the date of submission of the request for programme amendment.
+
+9\. For the resources transferred back to the Fund from which they have been initially transferred and allocated to a programme in accordance with paragraph 7 of this Article, the decommitment time limit as defined in Article 105(1) shall start in the year in which the corresponding budgetary commitments are made.
+
+## Article 26a — Support for the objectives in Article 21c(3) of Regulation (EU) 2021/241
+
+1\. Member States submitting to the Commission, in accordance with Regulation (EU) 2021/241, recovery and resilience plans which contain a REPowerEU chapter may request through an amendment of a programme under Article 24 of this Regulation that up to 7,5 % of their initial national allocation under the ERDF, the ESF+ and the Cohesion Fund be included in priorities contributing to the objectives set out in Article 21c(3) of Regulation (EU) 2021/241, provided that such support contributes to the specific objectives of the Fund concerned as set out in the Fund-specific Regulations. The possibility of such a request shall be without prejudice to the possibility of transfer of resources envisaged under Article 26 of this Regulation.
+
+2\. Resources requested by Member States under this Article shall be implemented in accordance with this Regulation and the Fund-specific Regulations.
+
+3\. Requests for an amendment of a programme shall set out the total amount of the resources contributing to the objectives set out in Article 21c(3) of Regulation (EU) 2021/241 for each year by Fund and by category of region, where applicable.
+
+## Article 26b — Resources transferred from the Social Climate Fund
+
+1\. Resources transferred from the Social Climate Fund, established by Regulation (EU) 2023/955 of the European Parliament and of the Council ( 17 ) shall be implemented in accordance with this Regulation and the provisions governing the Fund to which the resources are transferred and shall be definitive. Such resources shall constitute external assigned revenue for the purpose of Article 21(5) of Regulation (EU, Euratom) 2018/1046 and shall be additional to the resources referred to in Article 110 of this Regulation.
+
+2\. Where Member States implement the resources referred to in paragraph 1 of this Article under shared management, they shall submit programme amendments in accordance with Article 24 of this Regulation concerning one or more programmes. Member States shall plan the use of such resources for achieving the climate objectives set out for the Union budget in accordance with Article 6(1) of this Regulation. Those resources shall contribute to achieving relevant objectives of the Social Climate Fund as set out in Article 3 of Regulation (EU) 2023/955 and shall be used to support measures and investments set out in Article 8 of that Regulation. They shall be programmed under one or more dedicated priorities corresponding to one or more specific objectives of the Fund to which the resources are transferred and for one or more categories of regions, where applicable, with an indication of the yearly breakdown of resources. They shall not be taken into account for the calculation of compliance with thematic concentration requirements as set out in Fund-specific rules.
+
+3\. Where the Commission has already approved a Member State’s request for an amendment of a programme relating to a transfer of resources from the Social Climate Fund, for any further transfer of resources in subsequent years, the Member State may submit a notification of financial tables instead of an amendment of a programme, provided that the proposed changes relate exclusively to an increase of the financial resources, without any further changes to the programme.
+
+4\. By way of derogation from Article 18 and Article 86(1), second subparagraph, of this Regulation, the resources transferred in accordance with this Article and Article 11(2) of Regulation (EU) 2023/955 shall not be taken into account for the mid-term review and the flexibility amount.
+
+5\. By way of derogation from Article 14(3) of Regulation (EU, Euratom) 2018/1046, the time limit after which the Commission shall decommit the amounts in accordance with Article 105(1) of this Regulation shall start from the year in which the corresponding budgetary commitments are made. Resources shall not be transferred to programmes under the European territorial cooperation goal (Interreg).
+
+## Article 27 — Transfer of resources from the ERDF and the ESF+ to the JTF
+
+1\. Member States may request on a voluntary basis that the amount of resources available for the JTF under the Investment for jobs and growth goal in accordance with Article 3 of theJTF Regulation be complemented with resources from the ERDF, the ESF+ or a combination thereof, of the category of region where the territory concerned is located. The total of the ERDF and the ESF+ resources transferred to the JTF shall not exceed three times the amount of the JTF allocation referred to in point (g) of Article 110(1). The resources transferred from either the ERDF or the ESF+ shall not exceed 15 % of the respective ERDF and ESF+ allocation to the Member State concerned. Member States shall set out in those requests the total amount transferred for each year by category of region.
+
+2\. The respective transfers from the ERDF and the ESF+ resources to the priority or priorities supported by the JTF shall reflect the types of interventions in accordance with the information set out in the programme pursuant to point (d)(ix) of Article 22(3). Such transfers shall be considered to be definitive.
+
+3\. The JTF resources, including the resources transferred from the ERDF and the ESF+, shall be implemented in accordance with the rules set out in this Regulation and in the JTF Regulation. The rules set out in the ERDF and CF Regulation and in the ESF+ Regulation shall not apply to the ERDF and ESF+ resources transferred in accordance with paragraph 1.
+
+**CHAPTER II**
+
+**Territorial development**
+
+## Article 28 — Integrated territorial development
+
+Where a Member State supports integrated territorial development, it shall do so through territorial or local development strategies in any of the following forms:
+
+(a) integrated territorial investments;
+
+(b) community-led local development; or
+
+(c) another territorial tool supporting initiatives designed by the Member State.
+
+Where implementing territorial or local development strategies under more than one Fund, the Member State shall ensure coherence and coordination among the Funds concerned.
+
+## Article 29 — Territorial strategies
+
+1\. Territorial strategies implemented pursuant to point (a) or (c) of Article 28 shall contain the following elements:
+
+(a) the geographical area covered by the strategy;
+
+(b) an analysis of the development needs and the potential of the area, including economic, social and environmental interlinkages;
+
+(c) a description of an integrated approach to address the identified development needs and the potential of the area;
+
+(d) a description of the involvement of partners in accordance with Article 8 in the preparation and in the implementation of the strategy.
+
+They may also contain a list of operations to be supported.
+
+2\. Territorial strategies shall be under the responsibility of the relevant territorial authorities or bodies. Existing strategic documents concerning the covered areas may be used for territorial strategies.
+
+3\. Where the list of operations to be supported has not been included in the territorial strategy, the relevant territorial authorities or bodies shall select or shall be involved in the selection of operations.
+
+4\. When preparing territorial strategies, the authorities or bodies referred to in paragraph 2 shall cooperate with relevant managing authorities, in order to determine the scope of operations to be supported under the relevant programme.
+
+Selected operations shall comply with the territorial strategy.
+
+5\. Where a territorial authority or body carries out tasks falling under the responsibility of the managing authority other than the selection of operations, the authority shall be identified by the managing authority as an intermediate body.
+
+6\. Support may be provided for the preparation and design of territorial strategies.
+
+## Article 30 — Integrated territorial investment
+
+Where a territorial strategy referred to in Article 29 involves investments that receive support from one or more Funds, from more than one programme or from more than one priority of the same programme, actions may be carried out as an integrated territorial investment.
+
+## Article 31 — Community-led local development
+
+1\. Where a Member State considers it appropriate pursuant to Article 28, the ERDF, the ESF+, the JTF and the EMFAF shall support community-led local development.
+
+2\. The Member State shall ensure that community-led local development is:
+
+(a) focused on subregional areas;
+
+(b) led by local action groups composed of representatives of public and private local socioeconomic interests, in which no single interest group controls the decision-making;
+
+(c) carried out through strategies in accordance with Article 32;
+
+(d) supportive of networking, accessibility, innovative features in the local context and, where appropriate, cooperation with other territorial actors.
+
+3\. Where support to strategies referred to in point (c) of paragraph 2 is available from more than one Fund, the relevant managing authorities shall organise a joint call for selection of those strategies and establish a joint committee for all the Funds concerned to monitor the implementation of those strategies. The relevant managing authorities may choose one of the Funds concerned to support all preparatory, management and animation costs referred to in points (a) and (c) of Article 34(1) related to those strategies.
+
+4\. Where the implementation of such a strategy involves support from more than one Fund, the relevant managing authorities may choose one of the Funds concerned as the Lead Fund.
+
+5\. While respecting the scope and the eligibility rules of each fund involved in supporting the strategy, the rules of the Lead Fund shall apply to that strategy. The authorities of other funds shall rely on decisions and management verifications made by the competent authority of the Lead Fund.
+
+6\. The authority of the Lead Fund shall provide the authorities of other Funds with information necessary to monitor and make payments in accordance with the rules set out in the Fund-specific Regulations.
+
+## Article 32 — Community-led local development strategies
+
+1\. The relevant managing authorities shall ensure that each strategy referred to in point (c) of Article 31(2) sets out the following elements:
+
+(a) the geographical area and population covered by that strategy;
+
+(b) the community involvement process in the development of that strategy;
+
+(c) an analysis of the development needs and potential of the area;
+
+(d) the objectives of that strategy, including measurable targets for results, and related planned actions;
+
+(e) the management, monitoring and evaluation arrangements, demonstrating the capacity of the local action group to implement that strategy;
+
+(f) a financial plan, including the planned allocation from each Fund, and also, where appropriate, the planned allocation from the EAFRD and each programme concerned.
+
+It may also contain types of measures and operations to be financed by each affected Fund.
+
+2\. The relevant managing authorities shall define criteria for the selection of those strategies, set up a committee to carry out this selection and approve the strategies selected by that committee.
+
+3\. The relevant managing authorities shall complete the first round of selection of strategies and ensure the local action groups selected can fulfil their tasks set out in Article 33(3) within 12 months of the date of the decision approving the programme or, in the case of strategies supported by more than one Fund, within 12 months of the date of the decision approving the last programme concerned.
+
+4\. The decision approving a strategy shall set out the allocation of each Fund and programme concerned and set out the responsibilities for the management and control tasks under the programme or programmes.
+
+## Article 33 — Local action groups
+
+1\. Local action groups shall design and implement the strategies referred to in point (c) of Article 31(2).
+
+2\. The managing authorities shall ensure that the local action groups are inclusive, and that they either select one partner within the group as a lead partner in administrative and financial matters or come together in a legally constituted common structure.
+
+3\. The following tasks shall be carried out exclusively by the local action groups:
+
+(a) building the capacity of local actors to develop and implement operations;
+
+(b) drawing up a non-discriminatory and transparent selection procedure and criteria, which avoids conflicts of interest and ensures that no single interest group controls selection decisions;
+
+(c) preparing and publishing calls for proposals;
+
+(d) selecting operations and fixing the amount of support and presenting the proposals to the body responsible for final verification of eligibility before approval;
+
+(e) monitoring progress towards the achievement of objectives of the strategy;
+
+(f) evaluating the implementation of the strategy.
+
+4\. Where local action groups carry out tasks not covered by paragraph 3 that fall under the responsibility of the managing authority, or of the paying agency where the EAFRD is selected as a Lead Fund, these local action groups shall be identified by the managing authority as intermediate bodies in accordance with the Fund-specific rules.
+
+5\. The local action group may be a beneficiary and may implement operations in accordance with the strategy, provided that the local action group ensures that the principle of separation of functions is respected.
+
+## Article 34 — Support from Funds for community-led local development
+
+1\. The Member State shall ensure that support from the Funds for community-led local development covers:
+
+(a) capacity building and preparatory actions supporting the design and future implementation of the strategy;
+
+(b) the implementation of operations, including cooperation activities and their preparation, selected under the strategy;
+
+(c) the management, monitoring and evaluation of the strategy and its animation, including the facilitation of exchanges between stakeholders;
+
+2\. The support referred to under point (a) of paragraph 1 shall be eligible regardless of whether the strategy is subsequently selected for funding.
+
+The support referred to under point (c) of paragraph 1 shall not exceed 25 % of the total public contribution to the strategy.
+
+**CHAPTER III**
+
+**Technical assistance**
+
+## Article 35 — Technical assistance at the initiative of the Commission
+
+1\. At the initiative of the Commission, the Funds may support preparatory, monitoring, control, audit, evaluation, communication including corporate communication on the political priorities of the Union, visibility and all administrative and technical assistance actions necessary for the implementation of this Regulation and, where appropriate, with third countries.
+
+2\. The actions referred to in paragraph 1 may include in particular:
+
+(a) assistance for project preparation and appraisal;
+
+(b) support for institutional strengthening and administrative capacity-building for the effective management of the Funds;
+
+(c) studies linked to the Commission’s reporting on the Funds and the cohesion report;
+
+(d) measures related to the analysis, management, monitoring, information exchange and implementation of the Funds, as well as measures relating to the implementation of control systems and technical and administrative assistance;
+
+(e) evaluations, expert reports, statistics and studies, including those of a general nature, concerning the current and future operation of the Funds;
+
+(f) actions to disseminate information, support networking where appropriate, carry out communication activities with particular attention to the results and added value of support from the Funds, and to raise awareness and promote cooperation and exchange of experience, including with third countries;
+
+(g) the installation, operation and interconnection of computerised systems for management, monitoring, audit, control and evaluation;
+
+(h) actions to improve evaluation methods and the exchange of information on evaluation practices;
+
+(i) actions related to auditing;
+
+(j) the strengthening of national and regional capacity regarding investment planning, funding needs, preparation, design and implementation of financial instruments, joint action plans and major projects;
+
+(k) the dissemination of good practices in order to assist Member States to strengthen the capacity of the relevant partners referred to in Article 8(1) and their umbrella organisations.
+
+3\. The Commission shall dedicate at least 15 % of the resources for technical assistance at the initiative of the Commission to the delivery of greater efficiency in communication to the public and stronger synergies between the communication activities undertaken at the initiative of the Commission, by extending the knowledge base about results, in particular through more effective data collection and dissemination, evaluations and reporting, and especially by highlighting the contribution of the Funds to improving the lives of citizens, and by increasing the visibility of support from the Funds as well as by raising awareness about the results and the added value of such support. Information, communication and visibility measures on results and added value of support from the Funds, with particular focus on operations, shall be continued after the closure of the programmes, where appropriate. Such measures shall also contribute to the corporate communication of the political priorities of the Union as far as they are related to the general objectives of this Regulation.
+
+4\. The actions referred to in paragraph 1 may cover previous and subsequent programming periods.
+
+5\. The Commission shall set out its plans when a contribution from the Funds is envisaged in accordance with Article 110 of the Financial Regulation.
+
+6\. Depending on the purpose, the actions referred to in this Article may be financed either as operational or administrative expenditure.
+
+7\. In accordance with point (a) of the second subparagraph of Article 193(2) of the Financial Regulation, in duly justified cases specified in the financing decision and for a limited period, technical assistance actions at the initiative of the Commission supported under this Regulation in direct management and the underlying costs may be considered to be eligible from 1 January 2021, even if these actions were implemented and incurred before the grant application was submitted.
+
+## Article 36 — Technical assistance of Member States
+
+1\. At the initiative of a Member State, the Funds may support actions, which may concern previous and subsequent programming periods, necessary for the effective administration and use of those Funds, including for the capacity building of the partners referred to in Article 8(1), as well as to provide financing for carrying out, inter alia, functions such as preparation, training, management, monitoring, evaluation, visibility and communication.
+
+The amounts for technical assistance under this Article and Article 37 shall not be taken into account for the purposes of thematic concentration in accordance with the fund-specific rules.
+
+2\. Each Fund may support technical assistance actions eligible under any of the other Funds.
+
+3\. The Union contribution for technical assistance in a Member State shall be made either pursuant to point (b) or (e) of Article 51.
+
+The Member State shall indicate its choice of the form of Union contribution for technical assistance in the Partnership Agreement in accordance with Annex II. That choice shall apply to all programmes in the Member State concerned for the entire programming period and cannot be modified subsequently.
+
+For programmes supported by the AMIF, the ISF and the BMVI and for Interreg programmes the Union contribution for technical assistance shall be made only pursuant to point (e) of Article 51.
+
+3a. By way of derogation from paragraph 3 of this Article, no Union contribution for technical assistance shall be made to the support of solidarity actions, as defined in point (15) of Article 2 of the AMIF Regulation and point (11) of Article 2 of the BMVI Regulation.
+
+4\. Where the Union contribution for technical assistance in a Member State is reimbursed pursuant to point (b) of Article 51, the following elements shall apply:
+
+(a) technical assistance takes the form of a priority relating to one single Fund in one or more programmes, or of a specific programme, or a combination thereof;
+
+(b) the amount of the Funds allocated to technical assistance is limited to the following:
+
+(i) for the ERDF support under the Investment for jobs and growth goal: 3,5 %;
+
+(ii) for the Cohesion Fund support: 2,5 %;
+
+(iii) for the ESF+ support: 4 % and for programmes under point (m) of Article 4(1) of the ESF+ Regulation: 5 %;
+
+(iv) for the JTF support: 4 %;
+
+(v) for the ERDF, the ESF+ and the Cohesion Fund, where the total amount allocated to a Member State under the Investment for jobs and growth goal does not exceed EUR 1 billion: 6 %;
+
+(vi) for the EMFAF support: 6 %;
+
+(vii) for programmes under the Investment for jobs and growth goal that concern only the outermost regions, the percentage shall be increased by 1 percentage point.
+
+5\. Where the Union contribution for technical assistance is reimbursed pursuant to point (e) of Article 51, the following elements shall apply:
+
+(a) the amount of the Funds allocated to technical assistance is identified as part of the financial allocations of each priority of the programme in accordance with point (g)(ii) of Article 22(3), and for the EMFAF, each specific objective in accordance with point (g)(iii) of that paragraph; it does not take the form of a separate priority or a specific programme except for programmes supported by the AMIF, the ISF or the BMVI, for which it takes the form of a specific objective;
+
+(b) the reimbursement is made, by applying the percentages set out in points (i) to (vii) to the eligible expenditure included in each payment application pursuant to points (a) or (c) of Article 91(3) as appropriate and from the same fund to which the eligible expenditure is reimbursed, to one or more bodies which receive payments from the Commission in accordance with point (k) of Article 22(3);
+
+(i) for the ERDF support under the Investment for jobs and growth goal: 3,5 %;
+
+(ii) for the Cohesion Fund support: 2,5 %;
+
+(iii) for the ESF+ support: 4 % and for programmes under point (m) of Article 4(1) of the ESF+ Regulation: 5 %;
+
+(iv) for the JTF support: 4 %;
+
+(v) for the ERDF, the ESF+ and the Cohesion Fund, where the total amount allocated to a Member State under the Investment for jobs and growth goal does not exceed EUR 1 billion, the percentage reimbursed for technical assistance: 6 %;
+
+(vi) for the EMFAF, the AMIF, the ISF and the BMVI support: 6 %;
+
+(vii) for programmes under the Investment for jobs and growth goal that concern only the outermost regions, the percentage shall be increased by 1 percentage point;
+
+(c) the amounts allocated to technical assistance identified in the programme correspond to the percentages set out in points (i) to (vi) of point (b) for each priority and fund.
+
+6\. Specific rules for technical assistance for Interreg programmes shall be set out in the Interreg Regulation.
+
+## Article 37 — Financing not linked to costs for technical assistance of Member States
+
+In addition to Article 36, the Member State may propose to undertake additional technical assistance actions to reinforce the capacity and efficiency of public authorities and bodies, beneficiaries and relevant partners necessary for the effective administration and use of the Funds.
+
+Support for such actions shall be implemented by financing not linked to costs in accordance with Article 95. Such support may also take the form of a specific programme.
+
+**TITLE IV**
+
+**MONITORING, EVALUATION, COMMUNICATION AND VISIBILITY**
+
+**CHAPTER I**
+
+**Monitoring**
+
+## Article 38 — Monitoring committee
+
+1\. Each Member State shall set up a committee to monitor the implementation of the programme (‘monitoring committee’), after consulting the managing authority, within 3 months of the date of notification to the Member State concerned of the decision approving the programme.
+
+The Member State may set up a single monitoring committee to cover more than one programme.
+
+2\. Each monitoring committee shall adopt its rules of procedure, including provisions regarding the prevention of any conflict of interest and the application of the principle of transparency.
+
+3\. The monitoring committee shall meet at least once a year and shall review all issues that affect the progress of the programme towards achieving its objectives.
+
+4\. The rules of procedure of the monitoring committee and the data and information shared with the monitoring committee shall be published on the website referred to in Article 49(1), without prejudice to Article 69(5).
+
+5\. Paragraphs 1 to 4 of this Article shall not apply to programmes limited to the specific objective set out in point (m) of Article 4(1) of the ESF+ Regulation and related technical assistance.
+
+## Article 39 — Composition of the monitoring committee
+
+1\. Each Member State shall determine the composition of the monitoring committee and shall ensure a balanced representation of the relevant Member State authorities and intermediate bodies and of representatives of the partners referred to in Article 8(1) through a transparent process.
+
+Each member of the monitoring committee shall have a vote. The rules of procedures shall regulate the exercise of the voting right and the details on the procedure in the monitoring committee in accordance with the institutional, legal and financial framework of the Member State concerned.
+
+The rules of procedure may allow non-members, including the EIB, to participate in the work of the monitoring committee.
+
+The monitoring committee shall be chaired by a representative of the Member State or of the managing authority.
+
+The list of the members of the monitoring committee shall be published on the website referred to in Article 49(1).
+
+2\. Representatives of the Commission shall participate in the work of the monitoring committee in a monitoring and an advisory capacity.
+
+3\. For the AMIF, the ISF and the BMVI, relevant decentralised agencies may participate in the work of the monitoring committee.
+
+## Article 40 — Functions of the monitoring committee
+
+1\. The monitoring committee shall examine:
+
+(a) the progress in programme implementation and in achieving the milestones and targets;
+
+(b) any issues that affect the performance of the programme and the measures taken to address those issues;
+
+(c) the contribution of the programme to tackling the challenges identified in the relevant country-specific recommendations that are linked to the implementation of the programme;
+
+(d) the elements of the ex ante assessment listed in Article 58(3) and the strategy document referred to in Article 59(1);
+
+(e) the progress made in carrying out evaluations, syntheses of evaluations and any follow-up given to findings;
+
+(f) the implementation of communication and visibility actions;
+
+(g) the progress in implementing operations of strategic importance, where relevant;
+
+(h) the fulfilment of enabling conditions and their application throughout the programming period;
+
+(i) the progress in administrative capacity building for public institutions, partners and beneficiaries, where relevant.
+
+(j) information regarding the implementation of the contribution of the programme to the InvestEU Programme in accordance with Article 14 or of the resources transferred in accordance with Article 26, where applicable.
+
+As regards the programmes supported by the EMFAF, the monitoring committee shall be consulted and shall, if it considers it appropriate, give an opinion on any amendment of the programme proposed by the managing authority.
+
+2\. The monitoring committee shall approve:
+
+(a) the methodology and criteria used for the selection of operations, including any changes thereto, without prejudice to points (b), (c) and (d) of Article 33(3); at the request of the Commission, the methodology and criteria used for the selection of operations, including any changes thereto, shall be submitted to the Commission at least 15 working days prior to their submission to the monitoring committee.
+
+(b) the annual performance reports for programmes supported by the AMIF, the ISF and the BMVI, and the final performance report for programmes supported by the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF.
+
+(c) the evaluation plan and any amendment thereto;
+
+(d) any proposal by the managing authority for the amendment of a programme including for transfers in accordance with Article 24(5) and Article 26, with the exception of programmes supported by the EMFAF.
+
+3\. The monitoring committee may make recommendations to the managing authority, including on measures to reduce the administrative burden for beneficiaries.
+
+## Article 41 — Annual performance review
+
+1\. Review meetings shall be organised once a year between the Commission and each Member State to examine the performance of each programme. Relevant managing authorities shall participate in the review meetings.
+
+The review meeting may cover more than one programme.
+
+The review meeting shall be chaired by the Commission or, if the Member State so requests, co-chaired by the Member State and the Commission.
+
+2\. By way of derogation from the first subparagraph of paragraph 1, for programmes supported by the AMIF, the ISF and the BMVI, the review meeting shall be organised at least twice during the programming period.
+
+3\. For programmes supported by the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF, the Member State shall no later than 1 month before the review meeting provide the Commission with concise information on the elements listed in Article 40(1). That information shall be based on the most recent data available to the Member State.
+
+For programmes limited to the specific objective set out in point (m) of Article 4(1) of the ESF+ Regulation, the information to be provided, based on the most recent data available, shall be limited to points (a), (b), (e), (f) and (h) of Article 40(1) of this Regulation.
+
+4\. The Member State and the Commission may agree not to organise a review meeting. In such a case, the review may be carried out in writing.
+
+5\. The outcome of the review meeting shall be recorded in agreed minutes.
+
+6\. The Member State shall follow up issues raised during the review meeting which affect the implementation of the programme and shall inform the Commission within 3 months of the measures taken.
+
+7\. For programmes supported by the AMIF, the ISF and the BMVI, the Member State shall submit an annual performance report in accordance with the Fund-specific Regulations.
+
+## Article 42 — Transmission of data
+
+1\. The Member State or the managing authority shall electronically transmit to the Commission cumulative data for each programme by 31 January, 30 April, 31 July, 30 September and 30 November of each year, with the exception of the data required in point (b) of paragraph 2 and in paragraph 3 that shall be electronically transmitted by 31 January and 31 July of each year, in accordance with the template set out in Annex VII.
+
+The first transmission shall be due by 31 January 2022 and the last one by 31 January 2030.
+
+For priorities supporting the specific objective set out in point (m) of Article 4(1) of the ESF+ Regulation, data shall be transmitted annually by 31 January.
+
+The ESF+ Regulation may determine specific rules for the frequency of collecting and transmitting longer-term result indicators.
+
+2\. The data shall be broken down for each priority by specific objective and, where applicable, by category of region and shall refer to:
+
+(a) the number of selected operations, their total eligible cost, the contribution from the Funds and the total eligible expenditure declared by the beneficiaries to the managing authority, all broken down by type of intervention;
+
+(b) the values of output and result indicators for selected operations and values achieved by operations.
+
+3\. For financial instruments data shall also be provided on the following:
+
+(a) eligible expenditure by type of financial product;
+
+(b) amount of management costs and fees declared as eligible expenditure;
+
+(c) the amount, by type of financial product, of private and public resources mobilised in addition to the Funds;
+
+(d) interest and other gains generated by support from the Funds to financial instruments referred to in Article 60 and resources returned attributable to support from the Funds as referred to in Article 62;
+
+(e) total value of loans, equity or quasi-equity investments in final recipients which were guaranteed with programme resources and which were actually disbursed to final recipients.
+
+4\. The data submitted in accordance with this Article shall be reliable and reflect the data stored electronically as referred to in point (e) of Article 72(1) as at the end of the month preceding the month of submission.
+
+5\. The Member State or the managing authority shall publish or provide a link to all the data transmitted to the Commission on the website portal referred to in point (b) of Article 46 or on the website referred to in Article 49(1).
+
+## Article 43 — Final performance report
+
+1\. For programmes supported by the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF, each managing authority shall submit to the Commission a final performance report of the programme by 15 February 2031.
+
+2\. The final performance report shall assess the achievement of programme objectives based on the elements listed in Article 40(1) with the exception of the information provided under point (d) of that paragraph.
+
+3\. The Commission shall examine the final performance report and inform the managing authority of any observations within 5 months of the date of receipt of the final performance report. Where such observations are made, the managing authority shall provide all necessary information with regard to those observations and, where appropriate, inform the Commission, within 3 months, of measures taken. The Commission shall inform the managing authority of the acceptance of the report, within 2 months of receiving all necessary information. Where the Commission does not inform the managing authority within those deadlines, the report shall be deemed to be accepted.
+
+4\. The managing authority shall publish final performance reports on the website referred to in Article 49(1).
+
+5\. The Commission shall, in order to ensure uniform conditions for the implementation of this Article, adopt an implementing act establishing the template for the final performance report. That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 115(2).
+
+**CHAPTER II**
+
+**Evaluation**
+
+## Article 44 — Evaluations by the Member State
+
+1\. The Member State or the managing authority shall carry out evaluations of the programmes related to one or more of the following criteria: effectiveness, efficiency, relevance, coherence and Union added value, with the aim to improve the quality of the design and implementation of programmes. Evaluations may also cover other relevant criteria, such as inclusiveness, non-discrimination and visibility, and may cover more than one programme.
+
+2\. In addition, an evaluation for each programme to assess its impact shall be carried out by 30 June 2029.
+
+3\. Evaluations shall be entrusted to internal or external experts who are functionally independent.
+
+4\. The Member State or the managing authority shall ensure the necessary procedures are set up to produce and collect the data necessary for evaluations.
+
+5\. The Member State or the managing authority shall draw up an evaluation plan which may cover more than one programme. For the AMIF, the ISF and the BMVI, that plan shall include a mid-term evaluation to be completed by 31 March 2024.
+
+6\. The Member State or the managing authority shall submit the evaluation plan to the monitoring committee no later than one year after the decision approving the programme.
+
+7\. All evaluations shall be published on the website referred to in Article 49(1).
+
+## Article 45 — Evaluation by the Commission
+
+1\. The Commission shall carry out a mid-term evaluation to examine the effectiveness, efficiency, relevance, coherence and Union added value of each Fund by the end of 2024. The Commission may make use of all relevant information already available in accordance with Article 128 of the Financial Regulation.
+
+2\. The Commission shall carry out a retrospective evaluation to examine the effectiveness, efficiency, relevance, coherence and Union added value of each Fund by 31 December 2031. In the case of the ERDF, the ESF+, the Cohesion Fund and the EMFAF, that evaluation shall focus in particular on the social, economic and territorial impact of those funds in relation to the policy objectives referred to in Article 5(1).
+
+3\. The Commission shall publish the results of the retrospective evaluation on its website and communicate those results to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions.
+
+**CHAPTER III**
+
+**Visibility, transparency and communication**
+
+**Section I**
+
+**Visibility of support from the Funds**
+
+## Article 46 — Visibility
+
+Each Member State shall ensure:
+
+(a) the visibility of support in all activities relating to operations supported by the Funds with particular attention to operations of strategic importance;
+
+(b) communication to Union citizens of the role and achievements of the Funds through a single website portal providing access to all programmes involving that Member State.
+
+## Article 47 — Emblem of the Union
+
+Member States, managing authorities and beneficiaries shall use the emblem of the Union in accordance with Annex IX when carrying out visibility, transparency and communication activities.
+
+## Article 48 — Communication officers and networks
+
+1\. Each Member State shall identify a communication coordinator for visibility, transparency and communication activities in relation to the support from the Funds, including programmes under the European territorial cooperation goal (Interreg) where that Member State hosts the managing authority. The communication coordinator may be appointed at the level of the body defined under Article 71(6) and shall coordinate communication and visibility measures across programmes.
+
+The communication coordinator shall involve in the visibility, transparency and communication activities the following bodies:
+
+(a) European Commission Representations and European Parliament Liaison Offices in the Member States, as well as Europe Direct Information Centres and other relevant networks, educational and research organisations;
+
+(b) other relevant partners referred to in Article 8(1).
+
+2\. Each managing authority shall identify a communication officer for each programme. A communication officer may be responsible for more than one programme.
+
+3\. The Commission shall maintain the network comprising communication coordinators, communication officers and Commission representatives to exchange information on visibility, transparency and communication activities.
+
+**Section II**
+
+**Transparency of implementation of the Funds and communication on programmes**
+
+## Article 49 — Responsibilities of the managing authority
+
+1\. The managing authority shall ensure that, within 6 months of the decision approving the programme, there is a website where information on programmes under its responsibility is available, covering the programme’s objectives, activities, available funding opportunities and achievements.
+
+2\. The managing authority shall ensure the publication on the website referred to in paragraph 1, or on the single website portal referred to in point (b) of Article 46, of a timetable of the planned calls for proposals, that is updated at least three times a year, with the following indicative data:
+
+(a) geographical area covered by the call for proposal;
+
+(b) policy objective or specific objective concerned;
+
+(c) type of eligible applicants;
+
+(d) total amount of support for the call;
+
+(e) start and end date of the call.
+
+3\. The managing authority shall make the list of operations selected for support by the Funds publicly available on the website in at least one of the official languages of the institutions of the Union and shall update that list at least every 4 months. Each operation shall have a unique code. The list shall contain the following data:
+
+(a) in the case of legal entities, the beneficiary’s and, in the case of public procurement, the contractor’s name;
+
+(b) where the beneficiary is a natural person the first name and the surname;
+
+(c) for EMFAF operations linked to a fishing vessel, the Union fishing fleet register identification number as referred to in Commission Implementing Regulation (EU) 2017/218 ( 18 );
+
+(d) name of the operation;
+
+(e) the purpose of the operation and its expected or actual achievements;
+
+(f) start date of the operation;
+
+(g) expected or actual date of completion of the operation;
+
+(h) total cost of the operation;
+
+(i) fund concerned;
+
+(j) specific objective concerned;
+
+(k) Union co-financing rate;
+
+(l) location indicator or geolocation for the operation and country concerned;
+
+(m) for mobile operations or operations covering several locations the location of the beneficiary where the beneficiary is a legal entity; or the NUTS 2 level region where the beneficiary is a natural person;
+
+(n) type of intervention for the operation in accordance with point (g) of Article 73(2).
+
+For data referred to in points (b) and (c) of the first subparagraph, the data shall be removed 2 years from the date of the initial publication on the website.
+
+4\. The data referred to in paragraphs 2 and 3 of this Article shall be published on the website referred to in paragraph 1, or on the single website portal referred to in point (b) of Article 46 of this Regulation, in open, machine-readable formats, as set out in Article 5(1) of the Directive (EU) 2019/1024 of the European Parliament and of the Council ( 19 ), which allows data to be sorted, searched, extracted, compared and reused.
+
+5\. The managing authority shall inform the beneficiaries that the data will be made public before the publication takes place in accordance with this Article.
+
+6\. The managing authority shall ensure that communication and visibility material including at the level of beneficiaries is made available upon request to Union institutions, bodies, offices or agencies and that a royalty-free, non-exclusive and irrevocable licence to use such material and any pre-existing rights attached to it is granted to the Union in accordance with Annex IX. This shall not require significant additional costs or a significant administrative burden for the beneficiaries or for the managing authority.
+
+7\. Where support is programmed for the STEP objectives referred to in Article 2 of Regulation (EU) 2024/795, the managing authority shall ensure that all the information to be published in accordance with paragraph 2 of this Article is also submitted to the Commission in the format set out in paragraph 4 of this Article for publication on the Sovereignty Portal established pursuant to Article 6 of Regulation (EU) 2024/795, including a timetable of the planned calls for proposals that is updated at least three times a year, as well as the link to the calls for proposals on the day of their publication.
+
+## Article 50 — Responsibilities of beneficiaries
+
+1\. Beneficiaries and bodies implementing financial instruments shall acknowledge support from the Funds, including resources reused in accordance with Article 62, to the operation by:
+
+(a) providing on the beneficiary’s official website, where such a site exists, and social media sites, a short description of the operation, proportionate to the level of support, including its aims and results, and highlighting the financial support from the Union;
+
+(b) providing a statement highlighting the support from the Union in a visible manner on documents and communication material relating to the implementation of the operation, intended for the public or for participants;
+
+(c) displaying durable plaques or billboards clearly visible to the public, that present the emblem of the Union in accordance with the technical characteristics laid down in Annex IX, as soon as the physical implementation of operations involving physical investment starts or purchased equipment is installed, in respect of the following:
+
+(i) operations supported by the ERDF and the Cohesion Fund the total cost of which exceeds EUR 500 000 ;
+
+(ii) operations supported by the ESF+, the JTF, the EMFAF, the AMIF, the ISF or the BMVI the total cost of which exceeds EUR 100 000 ;
+
+(d) for operations not falling under point (c), displaying at a location clearly visible to the public at least one poster of a minimum size A3 or equivalent electronic display with information about the operation highlighting the support from the Funds; where the beneficiary is a natural person, the beneficiary shall ensure, to the extent possible, that appropriate information is available, highlighting the support from the funds, at a location visible to the public or through an electronic display;
+
+(e) for operations of strategic importance and operations the total cost of which exceeds EUR 10 000 000 , organising a communication event or activity, as appropriate, and involving the Commission and the responsible managing authority in a timely manner.
+
+Where an ESF+ beneficiary is a natural person or for operations supported under the specific objective set out in point (m) of Article 4(1) of the ESF+ Regulation, the requirement set out in point (d) of the first subparagraph shall not apply.
+
+By derogation from points (c) and (d) of the first subparagraph, for operations supported by the AMIF, the ISF and the BMVI, the document setting out the conditions for support may establish specific requirements for the public display of information on the support from the Funds where this is justified by reasons of security and public order in accordance with Article 69(5).
+
+2\. For small project funds, the beneficiary shall comply with the obligations under Article 36(5) of the Interreg Regulation.
+
+For financial instruments, the beneficiary shall ensure by means of the contractual terms that final recipients comply with the requirements set out in point (c) of paragraph 1.
+
+3\. Where the beneficiary does not comply with its obligations under Article 47 or paragraphs 1 and 2 of this Article, and where remedial actions have not been put into place, the managing authority shall apply measures, taking into account the principle of proportionality, by cancelling up to 3 % of the support from the Funds to the operation concerned.
+
+**TITLE V**
+
+**FINANCIAL SUPPORT FROM THE FUNDS**
+
+**CHAPTER I**
+
+**Forms of Union contribution**
+
+## Article 51 — Forms of Union contribution to programmes
+
+The Union contribution may take any of the following forms:
+
+(a) financing not linked to costs of the relevant operations in accordance with Article 95 and based on either of the following:
+
+(i) the fulfilment of conditions;
+
+(ii) the achievement of results;
+
+(b) reimbursement of support provided to beneficiaries in accordance with Chapters II and III of this Title;
+
+(c) unit costs in accordance with Article 94, which cover all or certain specific categories of eligible costs, clearly identified in advance by reference to an amount per unit;
+
+(d) lump sums in accordance with Article 94, which cover in global terms all or certain specific categories of eligible costs, clearly identified in advance;
+
+(e) flat-rate financing in accordance with Article 94 or Article 36(5), which covers specific categories of eligible costs, clearly identified in advance, by applying a percentage;
+
+(f) a combination of the forms referred to in points (a) to (e).
+
+**CHAPTER II**
+
+**Forms of support by Member States**
+
+## Article 52 — Forms of support
+
+Member States shall use the contribution from the Funds to provide support to beneficiaries in the form of grants, financial instruments or prizes or a combination thereof.
+
+**Section I**
+
+**Forms of grants**
+
+## Article 53 — Forms of grants
+
+1\. Grants provided by Member States to beneficiaries may take any of the following forms:
+
+(a) reimbursement of eligible costs actually incurred by a beneficiary or the private partner of PPP operations and paid in implementing operations, contributions in kind and depreciation;
+
+(b) unit costs;
+
+(c) lump sums;
+
+(d) flat-rate financing;
+
+(e) a combination of the forms referred to in points (a) to (d), provided that each form covers different categories of costs or where they are used for different projects forming a part of an operation or for successive phases of an operation;
+
+(f) financing not linked to costs, provided such grants are covered by a reimbursement of the Union contribution pursuant to Article 95.
+
+2\. Where the total cost of an operation does not exceed EUR 200 000 , the contribution provided to the beneficiary from the ERDF, the ESF+, the JTF, the AMIF, the ISF and the BMVI shall take the form of unit costs, lump sums or flat rates, except for operations for which the support constitutes State aid. Where flat-rate financing is used, only the categories of costs to which the flat -rate applies may be reimbursed in accordance with point (a) of paragraph 1.
+
+By way of derogation from the first subparagraph of this paragraph, the managing authority may agree to exempt some operations in the area of research and innovation from the requirement set out in that subparagraph, provided that the monitoring committee has given prior approval for such an exemption. In addition, allowances and salaries paid to participants may be reimbursed in accordance with point (a) of paragraph 1.
+
+3\. The amounts for the forms of grants referred to under points (b), (c) and (d) of paragraph 1, shall be established in one of the following ways:
+
+(a) a fair, equitable and verifiable calculation method based on:
+
+(i) statistical data, other objective information or an expert judgement;
+
+(ii) the verified historical data of individual beneficiaries;
+
+(iii) the application of the usual cost accounting practices of individual beneficiaries;
+
+(b) draft budget established on a case-by-case basis and agreed ex ante by the body selecting the operation, where the total cost of the operation does not exceed EUR 200 000 ;
+
+(c) in accordance with the rules for application of corresponding unit costs, lump sums and flat rates applicable in Union policies for a similar type of operation;
+
+(d) in accordance with the rules for application of corresponding unit costs, lump sums and flat rates applied under schemes for grants funded entirely by the Member State for a similar type of operation;
+
+(e) flat rates and specific methods established by or on the basis of this Regulation or the Fund-specific Regulations.
+
+## Article 54 — Flat-rate financing for indirect costs concerning grants
+
+Where a flat rate is used to cover indirect costs of an operation, it may be based on one of the following:
+
+(a) up to 7 % of eligible direct costs, in which case the Member State shall not be required to perform a calculation to determine the applicable rate;
+
+(b) up to 15 % of eligible direct staff costs, in which case the Member State shall not be required to perform a calculation to determine the applicable rate;
+
+(c) up to 25 % of eligible direct costs, provided that the rate is calculated in accordance with point (a) of Article 53(3).
+
+In addition, where a Member State has calculated a flat rate in accordance with point (a) of Article 67(5) of Regulation (EU) No 1303/2013, that flat rate may be used for a similar operation for the purposes of point (c) of this Article.
+
+## Article 55 — Direct staff costs concerning grants
+
+1\. Direct staff costs of an operation may be calculated at a flat rate of up to 20 % of the direct costs other than the direct staff costs of that operation, without there being a requirement for the Member State to perform a calculation to determine the applicable rate, provided that the direct costs of the operation do not include public works contracts or supply or service contracts which exceed in value the thresholds set out in Article 4 of Directive 2014/24/EU of the European Parliament and of the Council ( 20 ) or in Article 15 of Directive 2014/25/EU of the European Parliament and of the Council ( 21 ).
+
+Where a flat rate is applied in accordance with the first subparagraph for the AMIF, the ISF and the BMVI, that flat rate shall only be applied to the direct costs of the operation not subject to public procurement.
+
+2\. For the purposes of determining direct staff costs, an hourly rate may be calculated in one of the following ways:
+
+(a) by dividing the latest documented annual gross employment costs by 1 720 hours for persons working full time, or by a corresponding pro-rata of 1 720 hours, for persons working part-time;
+
+(b) by dividing the latest documented monthly gross employment costs by the average monthly working time of the person concerned in accordance with applicable national rules referred to in the employment or work contract or an appointment decision (both referred to as the employment document).
+
+3\. When applying the hourly rate calculated in accordance with paragraph 2, the total number of hours declared per person for a given year or month shall not exceed the number of hours used for the calculation of that hourly rate.
+
+4\. Where annual gross employment costs are not available, they may be derived from the available documented gross employment costs or from the employment document, duly adjusted for a 12-month period.
+
+5\. Staff costs related to individuals who work on part-time assignment on the operation may be calculated as a fixed percentage of the gross employment costs, in line with a fixed percentage of time worked on the operation per month, with no obligation to establish a separate working time registration system. The employer shall issue a document for employees setting out that fixed percentage.
+
+## Article 56 — Flat rate financing for eligible costs other than direct staff costs concerning grants
+
+1\. A flat rate of up to 40 % of eligible direct staff costs may be used in order to cover the remaining eligible costs of an operation. The Member State shall not be required to perform a calculation to determine the applicable rate.
+
+2\. For operations supported by the ERDF, the ESF+, the JTF, the AMIF, the ISF and the BMVI, salaries and allowances paid to participants shall be considered additional eligible costs not included in the flat rate.
+
+3\. The flat rate referred to in paragraph 1 of this Article shall not be applied to staff costs calculated on the basis of a flat rate as referred to in Article 55(1).
+
+## Article 57 — Grants under conditions
+
+1\. Member States may provide grants under conditions to beneficiaries which are fully or partially repayable as specified in the document setting out the conditions for support.
+
+2\. Repayments by the beneficiary shall be made under the conditions agreed by the managing authority and the beneficiary.
+
+3\. Member States shall reuse resources paid back by the beneficiary for the same purpose or in accordance with the objectives of the programme concerned by 31 December 2030, in the form of grants under conditions or of a financial instrument or in another form of support. The amounts paid back and information about their reuse shall be included in the final performance report.
+
+4\. Member States shall adopt the necessary measures to ensure that the resources are kept in separate accounts or under appropriate accounting codes.
+
+5\. Union resources paid back by beneficiaries at any time, but not reused by 31 December 2030, shall be repaid to the budget of the Union in accordance with Article 88.
+
+**Section II**
+
+**Financial instruments**
+
+## Article 58 — Financial instruments
+
+1\. Managing authorities may provide a programme contribution, from one or more programmes to existing or newly created financial instruments set up at national, regional, transnational or cross border level and implemented directly by, or under the responsibility of, the managing authority which contribute to achieving specific objectives.
+
+2\. Financial instruments shall provide support to final recipients only for investments in both tangible and intangible assets as well as working capital expected to be financially viable and which do not find sufficient funding from market sources. Such support shall be in compliance with applicable Union State aid rules.
+
+Such support shall be provided only for the elements of the investments which are not physically completed or fully implemented at the date of the investment decision.
+
+3\. Appropriate support from the Funds through financial instruments shall be based on an ex ante assessment drawn up under the responsibility of the managing authority. The ex ante assessment shall be completed before managing authorities make programme contributions to financial instruments.
+
+The ex ante assessment shall include at least the following elements:
+
+(a) the proposed amount of programme contribution to a financial instrument and the estimated leverage effect accompanied by a short justification;
+
+(b) the proposed financial products to be offered, including the possible need for differentiated treatment of investors;
+
+(c) the proposed target group of final recipients;
+
+(d) the expected contribution of the financial instrument to the achievement of specific objectives.
+
+The ex ante assessment may be reviewed or updated, may cover part or the entire territory of the Member State, and may be based on existing or updated ex ante assessments.
+
+4\. Support to final recipients may be combined with support from any Fund or another Union instrument and may cover the same expenditure item. In such a case, the Fund’s support under the financial instrument, which is part of a financial instrument operation, shall not be declared to the Commission for support under another form, another Fund or another Union instrument.
+
+5\. Financial instruments may be combined with programme support in the form of grants in a single financial instrument operation, within a single funding agreement, where both distinct forms of support shall be provided by the body implementing the financial instrument. In such a case, the rules applicable to financial instruments shall apply to that single financial instrument operation. The programme support in the form of grants shall be directly linked and necessary for the financial instrument and shall not exceed the value of the investments supported by the financial product.
+
+6\. In the case of combined support under paragraphs 4 and 5, separate records shall be kept for each source of support.
+
+7\. The sum of all forms of combined support shall not exceed the total amount of the expenditure item concerned. Grants shall not be used to reimburse support received from financial instruments. Financial instruments shall not be used to pre-finance grants.
+
+## Article 59 — Implementation of financial instruments
+
+1\. Financial instruments implemented directly by the managing authority may only provide loans or guarantees. The managing authority shall set out the terms and conditions of the programme contribution to the financial instrument in a strategy document which shall include the elements set out in Annex X.
+
+2\. Financial instruments implemented under the responsibility of the managing authority may be either of the following:
+
+(a) an investment of programme resources into the capital of a legal entity;
+
+(b) separate blocks of finance or fiduciary accounts.
+
+The managing authority shall select the body implementing a financial instrument.
+
+3\. The managing authority may directly award a contract for the implementation of a financial instrument to:
+
+(a) the EIB;
+
+(b) international financial institutions in which a Member State is a shareholder;
+
+(c) a publicly-owned bank or institution, established as a legal entity carrying out financial activities on a professional basis, which fulfils all of the following conditions:
+
+(i) there is no direct private capital participation, with the exception of non-controlling and non-blocking forms of private capital participation required by national legislative provisions, in conformity with the Treaties, which do not exert a decisive influence on the relevant bank or institution, and with the exception of forms of private capital participation which confer no influence on decisions regarding the day-to-day management of the financial instrument supported by the Funds;
+
+(ii) operates under a public policy mandate given by the relevant authority of a Member State at national or regional level, which includes carrying out, as all or part of its activities, economic development activities contributing to the objectives of the Funds;
+
+(iii) carries out, as all or part of its activities, economic development activities contributing to the objectives of the Funds in regions, policy areas or sectors for which access to funding from market sources is not generally available or sufficient;
+
+(iv) operates without primarily focusing on maximising profits, but ensures a long-term financial sustainability for its activities;
+
+(v) ensures that the direct award of a contract referred to in point (b) does not provide any direct or indirect benefit for commercial activities by way of appropriate measures in accordance with applicable law;
+
+(vi) is subject to the supervision of an independent authority in accordance with applicable law,
+
+(d) other bodies, also entering under the scope of Article 12 of Directive 2014/24/EU.
+
+4\. When the body selected by the managing authority implements a holding fund, that body may further select other bodies to implement specific funds.
+
+5\. The terms and conditions of programme contributions to financial instruments implemented in accordance with paragraph 2, shall be set out in funding agreements between:
+
+(a) the duly mandated representatives of the managing authority and the body implementing a holding fund, where applicable;
+
+(b) the duly mandated representatives of the managing authority, or, where applicable, the body implementing a holding fund and the body implementing a specific fund.
+
+Those funding agreements shall include all the elements set out in Annex X.
+
+6\. The financial liability of the managing authority shall not exceed the amount committed by the managing authority to the financial instrument under the relevant funding agreements.
+
+7\. The bodies implementing the financial instruments concerned, or in the context of guarantees, the body providing the underlying loans, shall support final recipients, taking due account of the programme objectives and the potential for the financial viability of the investment as justified in the business plan or an equivalent document. The selection of final recipients shall be transparent and shall not give rise to a conflict of interest.
+
+8\. National co-financing of a programme may be provided either by the managing authority or at the level of holding funds, or at the level of specific funds, or at the level of investments in final recipients, in accordance with the Fund-specific rules. When the national co-financing is provided at the level of investments in final recipients, the body implementing financial instruments shall keep documentary evidence demonstrating the eligibility of the underlying expenditure.
+
+9\. The managing authority implementing directly the financial instrument pursuant to paragraph 1 of this Article, or the body implementing the financial instrument pursuant to paragraph 2 of this Article, shall keep separate accounts or maintain an accounting code for each priority or, for the EMFAF, each specific objective and, where applicable, each category of region for each programme contribution, and separately for resources referred to in Articles 60 and 62, respectively.
+
+## Article 60 — Interest and other gains generated by support from the Funds to financial instruments
+
+1\. Support from the Funds paid to financial instruments shall be placed in accounts in financial institutions domiciled within Member States and shall be managed in line with active treasury management and the principle of sound financial management.
+
+2\. Interest and other gains attributable to support from the Funds paid to financial instruments shall be used under the same objective or objectives, as the initial support from the Funds, including for the payments of management fees and the reimbursement of management costs incurred by the bodies implementing the financial instrument in accordance with point (d) of Article 68(1), either within the same financial instrument; or, following the winding up of the financial instrument, in other financial instruments or other forms of support for further investments in final recipients, until the end of the eligibility period.
+
+3\. Interest and other gains referred to in paragraph 2 not used in accordance with that provision shall be deducted from the accounts submitted for the final accounting year.
+
+## Article 61 — Differentiated treatment of investors
+
+1\. Support from the Funds to financial instruments invested in final recipients and any type of income generated by those investments, including resources paid back, which are attributable to the support from the Funds, may be used for differentiated treatment of investors operating under the market economy principle through an appropriate sharing of risks and profits, taking into account the principle of sound financial management.
+
+2\. The level of such differentiated treatment shall not exceed that which is necessary to create incentives for attracting private resources, established either by a competitive process or an independent assessment.
+
+## Article 62 — Re-use of resources attributable to the support from the Funds
+
+1\. Resources paid back, before the end of the eligibility period, to financial instruments from investments in final recipients or from the release of resources set aside for guarantee contracts, including capital repayments and any type of generated income that is attributable to the support from the Funds, shall be re-used in the same or other financial instruments for further investments in final recipients, to cover the losses in the nominal amount of the Funds contribution to the financial instrument resulting from negative interest, if such losses occur despite active treasury management, or for any management costs and fees associated to such further investments, taking into account the principle of sound financial management.
+
+2\. Member States shall adopt the necessary measures to ensure that the resources referred to in paragraph 1 and paid back to financial instruments during a period of at least 8 years after the end of the eligibility period, are re-used in accordance with the policy objectives of the programme or programmes under which they were set up, either within the same financial instrument or, following the exit of those resources from the financial instrument, in other financial instruments or in other forms of support.
+
+**CHAPTER III**
+
+**Eligibility rules**
+
+## Article 63 — Eligibility
+
+1\. The eligibility of expenditure shall be determined on the basis of national rules, except where specific rules are laid down in, or on the basis of, this Regulation or the Fund-specific Regulations.
+
+2\. Expenditure shall be eligible for a contribution from the Funds if it has been incurred by a beneficiary or the private partner of a PPP operation and paid in implementing operations, between the date of submission of the programme to the Commission or from 1 January 2021, whichever date is earlier, and 31 December 2029.
+
+For costs reimbursed pursuant to points (b), (c) and (f) of Article 53(1), the actions constituting the basis for reimbursement shall be carried out between the date of submission of the programme to the Commission or from 1 January 2021, whichever is earlier, and 31 December 2029.
+
+3\. For the ERDF, expenditure related to operations covering more than one category of region as set out in Article 108(2) within a Member State shall be allocated to the categories of region concerned on a pro rata basis, based on objective criteria.
+
+For the ESF+, expenditure related to operations may be allocated to any of the categories of region of the programme under the condition that the operation contributes to the achievement of the specific objectives of the programme.
+
+For the JTF, expenditure related to operations shall contribute to the implementation of the relevant territorial just transition plan.
+
+4\. All or part of an operation may be implemented outside of a Member State, including outside the Union, provided that the operation contributes to the objectives of the programme.
+
+5\. For grants taking the forms of points (b), (c) and (d) of Article 53(1), the expenditure which shall be eligible for a contribution from the Funds shall equal the amounts calculated in accordance with Article 53(3).
+
+6\. Operations shall not be selected for support by the Funds where they have been physically completed or fully implemented before the application for funding under the programme is submitted, irrespective of whether all related payments have been made. This paragraph shall not apply to the EMFAF compensation for additional costs in outermost regions pursuant to Article 24 of the EMFAF Regulation and to support from the additional funding for the outermost regions pursuant to point (e) of Article 110(1) of this Regulation.
+
+The first subparagraph of this paragraph shall not apply to support for solidarity actions, as defined in point (15) of Article 2 of the AMIF Regulation and point (11) of Article 2 of the BMVI Regulation.
+
+7\. Expenditure which becomes eligible as a result of a programme amendment shall be eligible from the date of the submission of the corresponding request to the Commission.
+
+For the ERDF, the Cohesion Fund and the JTF, expenditure becomes eligible as a result of a programme amendment when a new type of intervention referred to in Table 1 of Annex I or, for the EMFAF, the AMIF, the ISF and the BMVI, in the Fund-specific Regulations is added in the programme.
+
+Where a programme is amended in order to provide a response to natural disasters, the programme may provide that the eligibility of expenditure relating to such amendment starts from the date when the natural disaster occurred.
+
+Where a programme is amended to introduce financial support for solidarity actions, as defined in point (15) of Article 2 of the AMIF Regulation and point (11) of Article 2 of the BMVI Regulation, the programme may provide that the eligibility of expenditure relating to such amendment starts from 11 June 2024.
+
+8\. Where a new programme is approved, expenditure shall be eligible from the date of submission of the corresponding request to the Commission.
+
+9\. An operation may receive support from one or more Funds or from one or more programmes and from other Union instruments. In such cases, expenditure declared in a payment application for one of the Funds shall not be declared for either of the following:
+
+(a) support from another Fund or Union instrument;
+
+(b) support from the same Fund under another programme.
+
+The amount of expenditure to be entered into a payment application of a Fund may be calculated for each Fund and for the programme or programmes concerned on a pro rata basis, in accordance with the document setting out the conditions for support.
+
+## Article 64 — Non-eligible costs
+
+1\. The following costs shall not be eligible for a contribution from the Funds:
+
+(a) interest on debt, except in relation to grants given in the form of an interest rate subsidy or guarantee fee subsidy;
+
+(b) the purchase of land for an amount exceeding 10 % of the total eligible expenditure for the operation concerned; for derelict sites and for those formerly in industrial use which comprise buildings, that limit shall be increased to 15 %; for financial instruments, those percentages shall apply to the programme contribution paid to the final recipient or, in case of guarantees, to the amount of the underlying loan;
+
+(c) value added tax (‘VAT’), except:
+
+(i) for operations the total cost of which is below EUR 5 000 000 (including VAT);
+
+(ii) for operations the total cost of which is at least EUR 5 000 000 (including VAT) where it is non-recoverable under national VAT legislation;
+
+(iii) investments made by final recipients in the context of financial instruments; where these investments are supported by financial instruments combined with programme support in the form of a grant as referred to in Article 58(5), the VAT shall not be eligible for the part of the investment cost which corresponds to the programme support in the form of a grant, unless the VAT for the investment cost is non-recoverable under national VAT legislation or where the part of the investment cost corresponding to the programme support in the form of the grant is below EUR 5 000 000 (including VAT);
+
+(iv) for small project funds and investments made by final recipients in the context of small project funds under Interreg.
+
+Point (b) of the first subparagraph shall not apply to operations concerning environmental conservation.
+
+2\. The Fund-specific Regulations may identify additional costs that are not eligible for a contribution from each Fund.
+
+## Article 65 — Durability of operations
+
+1\. The Member State shall repay the contribution from the Funds to an operation comprising investment in infrastructure or productive investment, if within 5 years of the final payment to the beneficiary or within the period of time set out in State aid rules, where applicable, that operation is subject to any of the following:
+
+(a) a cessation or transfer of a productive activity outside the NUTS level 2 region in which it received support;
+
+(b) a change in ownership of an item of infrastructure which gives to a firm or a public body an undue advantage;
+
+(c) a substantial change affecting its nature, objectives or implementation conditions which would result in undermining its original objectives.
+
+The Member State may reduce the time limit set out in the first subparagraph to 3 years in cases concerning the maintenance of investments or jobs created by SMEs.
+
+Repayment by the Member State due to non-compliance with this Article shall be made in proportion to the period of non-compliance.
+
+2\. Operations supported by the ESF+ or by the JTF in accordance with points (k), (l) and (m) of Article 8(2) of the JTF Regulation shall repay the support when they are subject to an obligation for maintenance of investment under State aid rules.
+
+3\. Paragraphs 1 and 2 shall not apply to programme contributions to or by financial instruments or to any operation which undergoes cessation of a productive activity due to a non-fraudulent bankruptcy.
+
+## Article 66 — Relocation
+
+1\. Expenditure supporting relocation shall not be eligible for a contribution from the Funds.
+
+2\. Where a contribution from the Funds constitutes State aid, the managing authority shall satisfy itself that the contribution does not support relocation in accordance with Article 14(16) of Regulation (EU) No 651/2014.
+
+## Article 67 — Specific eligibility rules for grants
+
+1\. Contributions in kind in the form of provision of works, goods, services, land and real estate for which no payment supported by invoices, or documents of equivalent probative value, has been made, may be eligible where the following conditions are fulfilled:
+
+(a) the public support paid to the operation which includes contributions in kind does not exceed the total eligible expenditure, excluding contributions in kind, at the end of the operation;
+
+(b) the value attributed to contributions in kind does not exceed the costs generally accepted on the market in question;
+
+(c) the value and the delivery of the contribution in kind can be independently assessed and verified;
+
+(d) in the case of provision of land or real estate, a payment, for the purposes of a lease agreement of a nominal amount per annum not exceeding a single unit of the currency of the Member State, may be made;
+
+(e) in the case of contributions in kind in the form of unpaid work, the value of that work is determined by taking into account the verified time spent and the rate of remuneration for equivalent work.
+
+The value of the land or real estate referred to in point (d) of the first subparagraph of this paragraph shall be certified by an independent qualified expert or duly authorised official body and shall not exceed the limit laid down in point (b) of Article 64(1).
+
+2\. Depreciation costs for which no payment supported by invoices has been made may be considered to be eligible where the following conditions are fulfilled:
+
+(a) the eligibility rules of the programme allow for it;
+
+(b) the amount of the expenditure is duly justified by supporting documents having equivalent probative value to invoices for eligible costs where those costs were reimbursed in the form referred to in point (a) of Article 53(1);
+
+(c) the costs relate exclusively to the period of support for the operation;
+
+(d) public grants have not contributed towards the acquisition of the depreciated assets.
+
+## Article 68 — Specific eligibility rules for financial instruments
+
+1\. Eligible expenditure of a financial instrument shall be the total amount of programme contribution paid to, or, in the case of guarantees, set aside for guarantee contracts, by the financial instrument within the eligibility period, where that amount corresponds to:
+
+(a) payments to final recipients, in the case of loans, equity and quasi-equity investments;
+
+(b) resources set aside for guarantee contracts, whether outstanding or having already come to maturity, in order to honour possible guarantee calls for losses, calculated based on a multiplier ratio established for the respective underlying disbursed new loans, equity or quasi-equity investments in final recipients;
+
+(c) payments to, or for the benefit of, final recipients where financial instruments are combined with other Union contribution in a single financial instrument operation in accordance with Article 58(5);
+
+(d) payments of management fees and reimbursements of management costs incurred by the bodies implementing the financial instrument.
+
+2\. Where a financial instrument is implemented across consecutive programming periods, support may be provided to, or for the benefit of, final recipients, including management costs and fees, based on agreements made under the previous programming period, provided that such support complies with the eligibility rules of the subsequent programming period. In such cases, the eligibility of expenditure submitted in payment applications shall be determined in accordance with the rules of the respective programming period.
+
+3\. For point (b) of paragraph 1, if the entity benefiting from the guarantees has not disbursed the planned amount of new loans, equity or quasi-equity investments to final recipients in accordance with the multiplier ratio, the eligible expenditure shall be reduced proportionally. The multiplier ratio may be reviewed, where justified by subsequent changes in market conditions. Such a review shall not have retroactive effect.
+
+4\. For point (d) of paragraph 1, management fees shall be performance based.
+
+Where bodies implementing a holding fund are selected through a direct award of contract pursuant to Article 59(3), the amount of management costs and fees paid to those bodies that can be declared as eligible expenditure shall be subject to a threshold of up to 5 % of the total amount of programme contributions disbursed to final recipients in loans or set aside for guarantee contracts and up to 7 % of the total amount of programme contributions disbursed to final recipients in equity and quasi-equity investments.
+
+Where bodies implementing a specific fund are selected through a direct award of contract pursuant to Article 59(3), the amount of management costs and fees paid to those bodies that can be declared as eligible expenditure shall be subject to a threshold of up to 7 % of the total amount of programme contributions disbursed to final recipients in loans or set aside for in guarantee contracts and up to 15 % of the total amount of programme contributions disbursed to final recipients in equity or quasi-equity investments.
+
+Where bodies implementing a holding fund or specific funds, or both, are selected through a competitive tender in accordance with the applicable law, the amount of management costs and fees shall be established in the funding agreement and shall reflect the result of the competitive tender.
+
+5\. Where arrangement fees, or any part thereof, are charged to final recipients, they shall not be declared as eligible expenditure.
+
+6\. The eligible expenditure declared in accordance with paragraph 1 shall not exceed the sum of the total amount of support from the Funds paid for the purposes of that paragraph and the corresponding national co-financing.
+
+**TITLE VI**
+
+**MANAGEMENT AND CONTROL**
+
+**CHAPTER I**
+
+**General rules on management and control**
+
+## Article 69 — Responsibilities of Member States
+
+1\. Member States shall have management and control systems for their programmes in accordance with this Title and ensure their functioning in accordance with the principle of sound financial management and the key requirements listed in Annex XI.
+
+2\. Member States shall ensure the legality and regularity of expenditure included in the accounts submitted to the Commission and shall take all required actions to prevent, detect and correct and report on irregularities including fraud. Those actions comprise the collection of information on the beneficial owners of the recipients of Union funding in accordance with Annex XVII. The rules related to the collection and processing of such data shall comply with applicable data protection rules. The Commission, the European Anti-Fraud Office and the Court of Auditors shall have the necessary access to that information.
+
+For programmes supported by the AMIF, the ISF and the BMVI, the obligations concerning the collection of information on the beneficial owners of the recipients of Union funding in accordance with Annex XVII as set out in the first subparagraph shall apply as from 1 January 2023.
+
+3\. Member States shall, upon request of the Commission, take the actions necessary to ensure the effective functioning of their management and control systems and the legality and regularity of expenditure submitted to the Commission. Where that action is an audit, the Commission officials or their authorised representatives may take part.
+
+4\. Member States shall ensure the quality, accuracy and reliability of the monitoring system and of data on indicators.
+
+5\. Member States shall ensure the publication of information in accordance with the requirements established in this Regulation and in the Fund-specific Regulations, except where Union law or national law excludes such publication for reasons of security, public order, criminal investigations, or protection of personal data in accordance with Regulation (EU) 2016/679.
+
+6\. Member States shall have systems and procedures to ensure that all documents required for the audit trail as set out in Annex XIII are kept in accordance with the requirements set out in Article 82.
+
+7\. Member States shall make arrangements to ensure the effective examination of complaints concerning the Funds. The scope, rules and procedures concerning those arrangements shall be the responsibility of Member States in accordance with their institutional and legal framework. This is without prejudice to the general possibility to address complaints to the Commission by citizens and stakeholders. Member States shall, upon request by the Commission, examine complaints submitted to the Commission falling within the scope of their programmes and shall inform the Commission of the results of these examinations.
+
+For the purposes of this Article, complaints cover any dispute between potential and selected beneficiaries with regard to the proposed or selected operation and any disputes with third parties on the implementation of the programme or operations thereunder, irrespective of the qualification of means of legal redress established under national law.
+
+8\. Member States shall ensure that all exchanges of information between beneficiaries and the programme authorities are carried out by means of electronic data exchange systems in accordance with Annex XIV.
+
+Member States shall promote the benefits of electronic data exchange and provide all necessary support to beneficiaries in this respect.
+
+By way of derogation from the first subparagraph, the managing authority may exceptionally accept, upon the explicit request of a beneficiary, the exchanges of information in paper format, without prejudice to its obligation to record and store data in accordance with point (e) of Article 72(1).
+
+For programmes supported by the EMFAF, the AMIF, the ISF and the BMVI, the first subparagraph shall apply as from 1 January 2023.
+
+The first subparagraph shall not apply to programmes or priorities under point (m) of Article 4(1) of the ESF+ Regulation.
+
+9\. Member States shall ensure that all official exchanges of information with the Commission are carried out by means of an electronic data exchange system in accordance with Annex XV.
+
+10\. The Member State shall provide, or shall ensure that the managing authorities provide, forecasts of the amount for payment applications to be submitted for the current and subsequent calendar year by 31 January and 31 July, in accordance with Annex VIII.
+
+11\. Each Member State shall have in place, at the latest by the time of submission of the final payment application for the first accounting year and no later than 30 June 2023, a description of the management and control system in accordance with the template set out in Annex XVI. It shall keep that description updated to reflect any subsequent modifications.
+
+12\. Member States shall report on irregularities in accordance with the criteria for determining the cases of irregularity to be reported, the data to be provided and the format for reporting set out in Annex XII.
+
+## Article 70 — Commission powers and responsibilities
+
+1\. The Commission shall satisfy itself that Member States have management and control systems that comply with this Regulation and that these systems function effectively and efficiently during the implementation of the programmes. The Commission shall draw up, for the purposes of its own audit work, an audit strategy and an audit plan which shall be based on a risk-assessment.
+
+The Commission and the audit authorities shall coordinate their audit plans.
+
+2\. The Commission shall carry out audits up to three calendar years following the acceptance of the accounts in which the expenditure concerned was included. That period shall not apply to operations where there is a suspicion of fraud.
+
+3\. For the purpose of their audits, Commission officials or their authorised representatives shall have access to all necessary records, documents and metadata, irrespective of the medium in which they are stored, relating to operations supported by the Funds or to management and control systems and shall receive copies in the specific format requested.
+
+4\. For on-the-spot audits, the following shall also apply:
+
+(a) the Commission shall give at least 15 working days’ notice for the audit to the competent programme authority, except in urgent cases; officials or authorised representatives of the Member State may take part in such audits;
+
+(b) where the application of national provisions reserves certain acts for agents specifically designated by national legislation, Commission officials and authorised representatives shall have access to the information thus obtained without prejudice to the competences of national courts and in full respect of the fundamental rights of the legal subjects concerned;
+
+(c) the Commission shall transmit the preliminary audit findings to the competent Member State authority no later than 3 months after the last day of the audit;
+
+(d) the Commission shall transmit the audit report no later than 3 months from the date of receiving a complete reply from the competent Member State authority to the preliminary audit findings; the Member State’s reply shall be considered complete in the absence of a request from the Commission to provide further information or a revised document within 2 months from the date of receipt of the Member State’s response.
+
+For the purpose of complying with the time limits set out in points (c) and (d) of the first subparagraph of this paragraph, the Commission shall make available the preliminary audit findings and the audit report in at least one of the official languages of the institutions of the Union.
+
+The time limits referred to in points (c) and (d) of the first subparagraph of this paragraph may be extended where it is deemed necessary and agreed upon between the Commission and the competent Member State authority.
+
+Where a time limit is set for a reply by the Member State to the preliminary audit findings or the audit report referred to in points (c) and (d) of the first subparagraph of this paragraph, that time limit shall start upon their receipt by the competent Member State authority in at least one of the official languages of the Member State concerned.
+
+## Article 71 — Programme authorities
+
+1\. For the purposes of Article 63(3) of the Financial Regulation, the Member State shall identify for each programme a managing authority and an audit authority. Where a Member State entrusts the accounting function to a body other than the managing authority in accordance with Article 72(2) of this Regulation, the body concerned shall also be identified as a programme authority. Those same authorities may be responsible for more than one programme.
+
+2\. The audit authority shall be a public authority. Audit work may be carried out by a public or private body other than the audit authority under its responsibility. The audit authority and any such body carrying out audit work under the responsibility of the audit authority shall be functionally independent from the auditees.
+
+3\. The managing authority may identify one or more intermediate bodies to carry out certain tasks under its responsibility. Arrangements between the managing authority and intermediate bodies shall be recorded in writing.
+
+4\. Member States shall ensure that the principle of separation of functions between and within the programme authorities is respected.
+
+5\. Where a programme provides, in line with its objectives, support from the ERDF or the ESF+ to a programme co-funded by Horizon Europe, as referred to in point (b) of Article 10(1) of the Horizon Europe Regulation, the body implementing the programme co-funded by Horizon Europe shall be identified as an intermediate body by the managing authority of the relevant programme, in accordance with paragraph 3 of this Article.
+
+6\. The Member State, at its own initiative, may set up a coordination body to liaise with and provide information to the Commission and to coordinate activities of the programme authorities in that Member State.
+
+**CHAPTER II**
+
+**Standard management and control systems**
+
+## Article 72 — Functions of the managing authority
+
+1\. The managing authority shall be responsible for managing the programme with a view to delivering the objectives of the programme. In particular, it shall have the following functions:
+
+(a) select operations in accordance with Article 73, with the exception of operations referred to in point (d) of Article 33(3);
+
+(b) carry out programme management tasks in accordance with Article 74;
+
+(c) support the work of the monitoring committee in accordance with Article 75;
+
+(d) supervise intermediate bodies;
+
+(e) record and store electronically the data on each operation necessary for monitoring, evaluation, financial management, verifications and audits in accordance with Annex XVII, and ensure the security, integrity and confidentiality of data and the authentication of users.
+
+2\. The Member State may entrust the accounting function referred to in Article 76 to the managing authority or to another body.
+
+3\. For programmes supported by the AMIF, the ISF and the BMVI, the accounting function shall be carried out by the managing authority or under its responsibility.
+
+## Article 73 — Selection of operations by the managing authority
+
+1\. For the selection of operations, the managing authority shall establish and apply criteria and procedures which are non-discriminatory, transparent, ensure accessibility to persons with disabilities, ensure gender equality, and take account of the Charter of Fundamental Rights of the European Union, the principle of sustainable development and of the Union policy on the environment in accordance with Article 11 and Article 191(1) TFEU.
+
+The criteria and procedures shall ensure that the operations to be selected are prioritised with a view to maximising the contribution of Union funding towards the achievement of the objectives of the programme.
+
+2\. In selecting operations, the managing authority shall:
+
+(a) ensure that selected operations comply with the programme, including their consistency with the relevant strategies underlying the programme, as well as provide an effective contribution to the achievement of the specific objectives of the programme;
+
+(b) ensure that selected operations which fall within the scope of an enabling condition are consistent with the corresponding strategies and planning documents established for the fulfilment of that enabling condition;
+
+(c) ensure that selected operations present the best relationship between the amount of support, the activities undertaken and the achievement of objectives;
+
+(d) verify that the beneficiary has the necessary financial resources and mechanisms to cover operation and maintenance costs for operations comprising investment in infrastructure or productive investment, so as to ensure their financial sustainability;
+
+(e) ensure that selected operations which fall under the scope of Directive 2011/92/EU of the European Parliament and of the Council ( 22 ) are subject to an environmental impact assessment or a screening procedure and that the assessment of alternative solutions has been taken in due account, on the basis of the requirements of that Directive;
+
+(f) verify that where the operations have started before the submission of an application for funding to the managing authority, applicable law has been complied with;
+
+(g) ensure that selected operations fall within the scope of the Fund concerned and are attributed to a type of intervention;
+
+(h) ensure that operations do not include activities which were part of an operation subject to relocation in accordance with Article 66 or which would constitute a transfer of a productive activity in accordance with point (a) of Article 65(1);
+
+(i) ensure that selected operations are not directly affected by a reasoned opinion by the Commission in respect of an infringement under Article 258 TFEU that puts at risk the legality and regularity of expenditure or the performance of operations;
+
+(j) ensure the climate proofing of investments in infrastructure which have an expected lifespan of at least 5 years.
+
+As regards point (b) of this paragraph, in the case of policy objective one, as set out in point (a) of Article 3(1) of the ERDF and CF Regulation, only operations corresponding to the specific objectives referred to in subpoints (i) and (iv) of that point shall be consistent with the corresponding smart specialisation strategies.
+
+3\. The managing authority shall ensure that the beneficiary is provided with a document setting out all the conditions for support for each operation including the specific requirements concerning the products or services to be delivered, the financing plan, the time limit for its execution and where applicable, the method to be applied for determining the costs of the operation and the conditions for payment of the support.
+
+4\. For operations attributed a Seal of Excellence, or operations selected under a programme co-funded by Horizon Europe, the managing authority may decide to grant support from the ERDF or the ESF+ directly, provided that such operations meet the requirements set out in points (a), (b) and (g) of paragraph 2.
+
+In addition, managing authorities may apply to the operations referred to in the first subparagraph the categories, maximum amounts and methods of calculation of eligible costs established under the relevant Union instrument. These elements shall be set out in the document referred in paragraph 3.
+
+5\. When the managing authority selects an operation of strategic importance, it shall inform the Commission within 1 month and shall provide all relevant information to the Commission about that operation.
+
+## Article 74 — Programme management by the managing authority
+
+1\. The managing authority shall:
+
+(a) carry out management verifications to verify that the co-financed products and services have been delivered, that the operation complies with applicable law, the programme and the conditions for support of the operation, and:
+
+(i) where costs are to be reimbursed pursuant to point (a) of Article 53(1), that the amount of expenditure claimed by the beneficiaries in relation to these costs has been paid and that beneficiaries maintain separate accounting records or use appropriate accounting codes for all transactions relating to the operation;
+
+(ii) where costs are to be reimbursed pursuant to points (b), (c) and (d) of Article 53(1), that the conditions for reimbursement of expenditure to the beneficiary have been met;
+
+(b) ensure, subject to the availability of funding, that a beneficiary receives the amount due in full and no later than 80 days from the date of submission of the payment claim by the beneficiary; the deadline may be interrupted if information submitted by the beneficiary does not allow the managing authority to establish whether the amount is due;
+
+(c) have effective and proportionate anti-fraud measures and procedures in place, taking into account the risks identified;
+
+(d) prevent, detect and correct irregularities;
+
+(e) confirm that the expenditure entered into the accounts is legal and regular;
+
+(f) draw up the management declaration in accordance with the template set out in Annex XVIII.
+
+For point (b) of the first subparagraph, no amount shall be deducted or withheld and no specific charge or other charge with equivalent effect shall be levied that would reduce amounts due to beneficiaries.
+
+For PPP operations, the managing authority shall make payments to an escrow account set up for that purpose in the name of the beneficiary for use in accordance with the PPP agreement.
+
+2\. Management verifications referred to in point (a) of the first subparagraph of paragraph 1 shall be risk-based and proportionate to the risks identified ex ante and in writing.
+
+Management verifications shall include administrative verifications in respect of payment claims made by beneficiaries and on-the-spot verifications of operations. Those verifications shall be carried out before submission of the accounts in accordance with Article 98.
+
+3\. Where the managing authority is also a beneficiary under the programme, arrangements for the management verifications shall ensure separation of functions.
+
+Without prejudice to paragraph 2, the Interreg Regulation may establish specific rules on management verifications applicable to Interreg programmes. The AMIF, the ISF and the BMVI Regulations may establish specific rules on management verifications that are applicable where an international organisation is a beneficiary.
+
+## Article 75 — Support of the work of the monitoring committee by the managing authority
+
+The managing authority shall:
+
+(a) provide the monitoring committee in a timely manner with all information necessary to carry out its tasks;
+
+(b) ensure the follow-up of the decisions and recommendations of the monitoring committee.
+
+## Article 76 — The accounting function
+
+1\. The accounting function shall consist of the following tasks:
+
+(a) drawing up and submitting payment applications to the Commission in accordance with Articles 91 and 92;
+
+(b) drawing up and submitting the accounts confirming completeness, accuracy and veracity of the accounts in accordance with Article 98, and keeping electronic records of all the elements of the accounts, including payment applications;
+
+(c) converting the amounts of expenditure incurred in another currency into euro by using the monthly accounting exchange rate of the Commission in the month during which the expenditure is registered in the accounting systems of the body responsible for carrying out the tasks set out in this Article.
+
+2\. The accounting function shall not comprise verifications at the level of beneficiaries.
+
+3\. By way of derogation from point (c) of paragraph 1, the Interreg Regulation may establish a different method to convert the amounts of expenditure incurred in another currency into euro.
+
+## Article 77 — Functions of the audit authority
+
+1\. The audit authority shall be responsible for carrying out system audits, audits on operations and audits of accounts in order to provide independent assurance to the Commission regarding the effective functioning of the management and control systems and the legality and regularity of the expenditure included in the accounts submitted to the Commission.
+
+2\. Audit work shall be carried out in accordance with internationally accepted audit standards.
+
+3\. The audit authority shall draw up and submit to the Commission:
+
+(a) an annual audit opinion in accordance with Article 63(7) of the Financial Regulation and with the template set out in Annex XIX to this Regulation and, based on all audit work carried out, cover the following distinct components:
+
+(i) the completeness, accuracy and veracity of the accounts;
+
+(ii) the legality and regularity of the expenditure included in the accounts submitted to the Commission;
+
+(iii) the effective functioning of the management and control system;
+
+(b) an annual control report fulfilling the requirements of point (b) of Article 63(5) of the Financial Regulation, in accordance with the template set out in Annex XX to this Regulation, which supports the annual audit opinion referred to in point (a) of this paragraph and sets out a summary of findings, including an analysis of the nature and extent of errors and deficiencies in the systems as well as the proposed and implemented corrective actions and the resulting total error rate and residual error rate for the expenditure entered in the accounts submitted to the Commission.
+
+4\. Where programmes are grouped for the purpose of audits of operations pursuant to the second subparagraph of Article 79(2), the information required under point (b) of paragraph 3 of this Article may be grouped in a single report.
+
+5\. The audit authority shall transmit to the Commission system audit reports as soon as the contradictory procedure with the relevant auditees is concluded.
+
+6\. The Commission and the audit authorities shall meet on a regular basis and, unless otherwise agreed, at least once a year to examine the audit strategy, the annual control report and the audit opinion, to coordinate their audit plans and methods, and to exchange views on issues relating to the improvement of management and control systems.
+
+## Article 78 — Audit strategy
+
+1\. The audit authority shall, after consulting the managing authority, prepare an audit strategy based on a risk assessment, taking account of the management and control system description provided for in Article 69(11), covering system audits and audits of operations. The audit strategy shall include system audits of newly identified managing authorities and authorities in charge of the accounting function. Such audits shall be carried out within 21 months of the decision approving the programme or the amendment of the programme identifying such an authority. The audit strategy shall be prepared in accordance with the template set out in Annex XXII and shall be updated annually following the first annual control report and audit opinion provided to the Commission. It may cover one or more programmes.
+
+2\. The audit strategy shall be submitted to the Commission upon request.
+
+## Article 79 — Audits of operations
+
+1\. Audits of operations shall cover expenditure declared to the Commission in the accounting year on the basis of a sample. That sample shall be representative and based on statistical sampling methods.
+
+2\. Where the population consists of less than 300 sampling units, a non-statistical sampling method may be used on the professional judgement of the audit authority. In such cases, the size of the sample shall be sufficient to enable the audit authority to draw up a valid audit opinion. The non-statistical sampling method shall cover a minimum of 10 % of the sampling units in the population of the accounting year, selected randomly.
+
+The statistical sample may cover one or more programmes receiving support from the ERDF, the ESF+, the Cohesion Fund and the JTF and, subject to stratification where appropriate, one or more programming periods according to the professional judgement of the audit authority.
+
+The sample of operations supported by the EMFAF, the AMIF, the ISF and the BMVI shall cover operations supported by each Fund separately.
+
+3\. Audits of operations shall include on-the-spot verification of the physical implementation of the operation only where it is required by the type of operation concerned.
+
+The ESF+ Regulation may set out specific provisions for programmes or priorities under point (m) of Article 4(1) of that Regulation. The AMIF, the ISF and the BMVI Regulations may establish specific provisions for audit of operations where an international organisation is a beneficiary. The Interreg Regulation may establish specific rules on audits of operations applicable to Interreg programmes.
+
+Audits shall be conducted on the basis of the rules in force at the time when the activities within the operation were carried out.
+
+4\. The Commission is empowered to adopt a delegated act in accordance with Article 114 to supplement this Article by setting out standardised off-the-shelf sampling methodologies and modalities to cover one or more programming periods.
+
+## Article 80 — Single audit arrangements
+
+1\. When carrying out audits, the Commission and the audit authorities shall take due account of the principles of single audit and proportionality in relation to the level of risk to the budget of the Union. This shall be, in particular, in order to avoid duplication of audits and management verifications of the same expenditure declared to the Commission with the objective of minimising the cost of management verifications and audits and the administrative burden on beneficiaries.
+
+The Commission and audit authorities shall first use all the information and records referred to in point (e) of Article 72(1), including results of management verifications, and only request and obtain additional documents and audit evidence from the beneficiaries concerned where, based on their professional judgement, this is required to support robust audit conclusions.
+
+2\. For programmes for which the Commission concludes that the opinion of the audit authority is reliable and the Member State concerned participates in the enhanced cooperation on the establishment of the European Public Prosecutor’s Office, the Commission’s own audits shall be limited to auditing the work of the audit authority.
+
+3\. Prior to the submission of the accounts for the accounting year in which the operation is completed, the Commission or audit authority shall not carry out more than one audit in respect of operations for which the total eligible expenditure does not exceed EUR 400 000 for the ERDF or the Cohesion Fund, EUR 350 000 for the JTF, EUR 300 000 for the ESF+, or EUR 200 000 for the EMFAF, the AMIF, the ISF or the BMVI.
+
+Other operations shall not be subject to more than one audit per accounting year by either the audit authority or the Commission prior to the submission of the accounts for the accounting year in which the operation is completed. Operations shall not be subject to an audit by the Commission or the audit authority in any year where there has already been an audit in that year by the Court of Auditors, provided that the results of that Court of Auditors’ audit for such operations can be used by the audit authority or the Commission for the purpose of fulfilling their respective tasks.
+
+4\. Notwithstanding paragraph 3, any operation may be subject to more than one audit, if the audit authority concludes, based on its professional judgement, that it is not possible to draw up a valid audit opinion.
+
+5\. Paragraphs 2 and 3 shall not apply where:
+
+(a) there is a specific risk of irregularity or a suspicion of fraud;
+
+(b) there is a need to re-perform the work of the audit authority for obtaining assurance as to its effective functioning;
+
+(c) there is evidence of a serious deficiency in the work of the audit authority.
+
+## Article 81 — Management verifications and audits of financial instruments
+
+1\. The managing authority shall carry out on-the-spot management verifications in accordance with Article 74(1) only at the level of bodies implementing the financial instrument and, in the context of guarantee funds, at the level of bodies delivering the underlying new loans. The managing authority may rely on verifications carried out by external bodies and not carry out on-the-spot management verifications, provided that it has sufficient evidence of the competence of these external bodies.
+
+2\. The managing authority shall not carry out on-the-spot verifications at the level of the EIB or other international financial institutions in which a Member State is a shareholder.
+
+However, the EIB or other international financial institutions in which a Member State is a shareholder shall provide control reports supporting the payment claims to the managing authority.
+
+3\. The audit authority shall carry out system audits and audits of operations in accordance with Article 77, 79 or 83, as appropriate, at the level of bodies implementing the financial instrument and, in the context of guarantee funds, at the level of bodies delivering the underlying new loans. The audit results of external auditors of bodies implementing the financial instrument may be taken into account by the audit authority for the purposes of the overall assurance and on this basis, the audit authority may decide to limit its own audit work.
+
+4\. In the context of guarantee funds, the bodies responsible for the audit of programmes may conduct audits of the bodies providing new underlying loans only when one or more of the following situations occur:
+
+(a) supporting documents, providing evidence of the support from the financial instrument to final recipients, are not available at the level of the managing authority or at the level of the bodies implementing the financial instrument;
+
+(b) there is evidence that the documents available at the level of the managing authority or at the level of the bodies implementing the financial instrument do not represent a true and accurate record of the support provided.
+
+5\. The audit authority shall not carry out audits at the level of the EIB or other international financial institutions in which a Member State is a shareholder, for financial instruments implemented by them.
+
+However, the EIB or other international financial institutions in which a Member State is a shareholder shall provide to the Commission and to the audit authority an annual audit report drawn up by their external auditors by the end of each calendar year. This report shall cover the elements included in Annex XXI, and constitute the basis for the audit authority’s work.
+
+6\. The EIB or other international financial institutions shall provide to the programme authorities all the necessary documents to enable them to fulfil their obligations.
+
+## Article 82 — Availability of documents
+
+1\. Without prejudice to the rules governing State aid, the managing authority shall ensure that all supporting documents related to an operation supported by the Funds are kept at the appropriate level for a 5-year period from 31 December of the year in which the last payment by the managing authority to the beneficiary is made.
+
+2\. The time period referred to in paragraph 1 shall be interrupted either in the case of legal proceedings or by a request of the Commission.
+
+**CHAPTER III**
+
+**Reliance on national management systems**
+
+## Article 83 — Enhanced proportionate arrangements
+
+The Member State may apply the following enhanced proportionate arrangements for the management and control system of a programme where the conditions set out in Article 84 are fulfilled:
+
+(a) by way of derogation from point (a) of Article 74(1) and Article 74(2), the managing authority may apply only national procedures to carry out management verifications;
+
+(b) by way of derogation from Article 77(1) regarding system audits and Article 79(1) and (3) regarding audits of operations, the audit authority may limit its audit activity to audits of operations covering a sample based on a statistical selection of 30 sampling units for the programme or group of programmes concerned;
+
+For the purposes of management verifications referred to in point (a) of the first subparagraph, the managing authority may rely on verifications carried out by external bodies provided that it has sufficient evidence of the competence of those bodies.
+
+For point (b) of the first subparagraph, where the population consists of less than 300 sampling units, the audit authority may apply a non-statistical sampling method in accordance with Article 79(2).
+
+The Commission shall limit its own audits to a review of the work of the audit authority through re-performance at its level only, unless available information suggests a serious deficiency in the work of the audit authority.
+
+## Article 84 — Conditions for application of enhanced proportionate arrangements
+
+1\. The Member State may apply the enhanced proportionate arrangements referred to in Article 83 at any time during the programming period, where the Commission has confirmed in its published annual activity reports, for the last 2 years preceding such a decision by the Member State, that the management and control system of the programme is functioning effectively and that the total error rate for each year is 2 % or below. When assessing the effective functioning of the management and control system of the programme, the Commission shall take into account the participation of the Member State concerned in the enhanced cooperation on the establishment of the European Public Prosecutor’s Office.
+
+Where a Member State decides to apply the enhanced proportionate arrangements referred to in Article 83, it shall notify the Commission on the application of such arrangements. In such a case the arrangements shall apply from the start of the subsequent accounting year.
+
+2\. At the start of the programming period, the Member State may apply the enhanced proportionate arrangements referred to in Article 83, provided that the conditions set out in paragraph 1 of this Article are met with respect to a similar programme implemented in 2014-2020 and where the management and control arrangements established for the 2021-2027 programme build largely on those from the previous programme. In such a case, the arrangements shall apply from the start of the programme.
+
+3\. The Member State shall establish or update accordingly the description of the management and control system and the audit strategy set out in Article 69(11) and Article 78.
+
+## Article 85 — Adjustment during the programming period
+
+1\. Where the Commission or the audit authority conclude, based on the audits carried out and the annual control report, that the conditions set out in Article 84 are no longer fulfilled, the Commission shall request the audit authority to carry out additional audit work in accordance with Article 69(3) and satisfy itself that remedial actions are taken.
+
+2\. Where the subsequent annual control report confirms that the conditions continue not to be fulfilled, thus limiting the assurance provided to the Commission on the effective functioning of the management and control systems and of the legality and regularity of expenditure, the Commission shall request the audit authority to carry out system audits.
+
+3\. The Commission may, after having given to the Member State the opportunity to present its observations, inform the Member State that the enhanced proportionate arrangements set out in Article 83 shall no longer be applied from the start of the subsequent accounting year.
+
+**TITLE VII**
+
+**FINANCIAL MANAGEMENT, SUBMISSION AND EXAMINATION OF ACCOUNTS AND FINANCIAL CORRECTIONS**
+
+**CHAPTER I**
+
+**Financial management**
+
+**Section I**
+
+**General accounting rules**
+
+## Article 86 — Budgetary commitments
+
+1\. The decision approving the programme in accordance with Article 23 shall constitute a financing decision within the meaning of Article 110(1) of the Financial Regulation and its notification to the Member State concerned shall constitute a legal commitment.
+
+That decision shall specify the total Union contribution per Fund and per year. However, for programmes under the Investment for jobs and growth goal, an amount corresponding to 50 % of the contribution for the years 2026 and 2027 (‘flexibility amount’) per programme in each Member State shall be retained and shall only be definitively allocated to the programme after the adoption of the Commission decision following the mid-term review in accordance with Article 18.
+
+2\. The budgetary commitments of the Union in respect of each programme shall be made by the Commission in annual instalments for each Fund during the period between 1 January 2021 and 31 December 2027.
+
+3\. By way of derogation from Article 111(2) of the Financial Regulation, the budgetary commitments for the first instalment shall follow the adoption of the programme by the Commission.
+
+## Article 87 — Use of the euro
+
+Any amounts set out in programmes, reported or declared to the Commission by Member States shall be denominated in euro.
+
+## Article 88 — Repayment
+
+1\. Any repayment due to be made to the budget of the Union shall be effected before the due date indicated in the order for recovery drawn up in accordance with Article 98 of the Financial Regulation. The due date shall be the last day of the second month following the issuing of the order.
+
+2\. Any delay in effecting repayment shall give rise to interest on account of late payment, starting on the due date and ending on the date of actual payment. The rate of such interest shall be one-and-a-half percentage points above the rate applied by the European Central Bank in its main refinancing operations on the first working day of the month in which the due date falls.
+
+**Section II**
+
+**Rules for payments to Member States**
+
+## Article 89 — Types of payments
+
+Payments shall take the form of pre-financing, interim payments and payments of the balance of the accounts for the accounting year.
+
+## Article 90 — Pre-financing
+
+1\. The Commission shall pay pre-financing based on the total support from the Funds set out in the decision approving the programme.
+
+2\. The pre-financing for each Fund shall be paid in yearly instalments before 1 July of each year, subject to availability of funds, as follows:
+
+(a) 2021: 0,5 %;
+
+(b) 2022: 0,5 %;
+
+(c) 2023: 0,5 %;
+
+(d) 2024: 0,5 %;
+
+(e) 2025: 0,5 %;
+
+(f) 2026: 0,5 %.
+
+Where a programme is adopted after 1 July 2021, the earlier instalments shall be paid in the year of adoption.
+
+An additional 0,5 % pre-financing shall be paid in 2022 immediately following the entry into force of this Regulation and an additional 0,5 % pre-financing shall be paid in 2023 for programmes supported by the ERDF, ESF+ or the Cohesion Fund under the Investment for jobs and growth goal. Where a programme is adopted after 31 December 2022, the 2022 instalment shall be paid in the year of adoption.
+
+3\. By way of derogation from paragraph 2, specific rules on pre-financing for Interreg programmes shall be set out in the Interreg Regulation.
+
+4\. By way of derogation from paragraph 2, specific rules on pre-financing for programmes supported by the AMIF, the ISF and the BMVI shall be set out in the Fund-specific Regulations.
+
+5\. The amount paid as pre-financing for the years 2021 and 2022, with the exception of the additional pre-financing referred to in the third subparagraph of paragraph 2 of this Article, shall be cleared from the Commission accounts each year. All other amounts paid as pre-financing shall be cleared from the Commission accounts no later than with the final accounting year in accordance with Article 100.
+
+For programmes supported by the AMIF, the ISF and the BMVI, the amount paid as pre-financing shall be cleared from the Commission accounts no later than with the final accounting year.
+
+6\. Any interest generated by the pre-financing shall be used for the programme concerned in the same way as the Funds and shall be included in the accounts for the final accounting year.
+
+## Article 91 — Payment applications
+
+1\. The Member State shall submit a maximum of six payment applications per programme, per Fund and per accounting year. Every year, one payment application may be submitted at any time in each time period between the following dates: 28 February, 31 May, 31 July, 31 October, 30 November and 31 December.
+
+The last payment application submitted by 31 July shall be deemed to be the final payment application for the accounting year that has ended 30 June.
+
+The first subparagraph shall not apply to Interreg programmes.
+
+2\. Payment applications shall be admissible only where the latest assurance package due, as referred to in Article 98, has been submitted.
+
+3\. Payment applications shall be submitted to the Commission in accordance with the template set out in Annex XXIII and include, for each priority and, where applicable, by category of region:
+
+(a) the total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations linked to specific objectives for which enabling conditions are fulfilled and operations linked to specific objectives for which enabling conditions are not fulfilled but contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function;
+
+(b) the amount for technical assistance calculated in accordance with point (b) of Article 36(5), where applicable;
+
+(c) the total amount of public contribution made or to be made linked to specific objectives for which enabling conditions are fulfilled and operations linked to specific objectives for which enabling conditions are not fulfilled but contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function;
+
+(d) the total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function.
+
+4\. By way of derogation from point (a) of paragraph 3, the following shall apply:
+
+(a) where the Union contribution is made pursuant to point (a) of Article 51, the amounts included in a payment application are the amounts justified by the progress in the fulfilment of conditions, or achievement of results, in accordance with the decision referred to in Article 95(2) or the delegated act referred to in Article 95(4);
+
+(b) where the Union contribution is made pursuant to points (c), (d) and (e) of Article 51, the amounts included in a payment application are the amounts determined in accordance with the decision referred to in Article 94(3) or the delegated act referred to in Article 94(4);
+
+(c) for the forms of grants listed in points (b), (c) and (d) of the first subparagraph of Article 53(1), the amounts included in a payment application are the costs calculated on the applicable basis.
+
+5\. By way of derogation from paragraph 3, in the case of State aid, the payment application may include advances paid to the beneficiary by the body granting the aid under the following cumulative conditions:
+
+(a) those advances are subject to a guarantee provided by a bank or other financial institution established in the Member State or be covered by a facility provided as a guarantee by a public entity or by the Member State;
+
+(b) those advances do not exceed 40 % of the total amount of the aid to be granted to a beneficiary for a given operation;
+
+(c) those advances are covered by expenditure paid by beneficiaries in implementing the operation and supported by receipted invoices or accounting documents of equivalent probative value at the latest within 3 years following the year of the payment of the advance or on 31 December 2029, whichever is earlier, failing which the next payment application shall be corrected accordingly.
+
+Each payment application which includes advances of this type shall separately disclose the total amount paid from the programme as advances, the amount which has been covered by expenditure paid by beneficiaries within 3 years of the payment of the advance in accordance with point (c), and the amount which has not been covered by expenditure paid by beneficiaries and for which the 3-year period has not yet elapsed.
+
+6\. By way of derogation from point (c) of paragraph 3 of this Article, in the case of aid schemes under Article 107 TFEU, the public contribution corresponding to the expenditure included in a payment application shall have been paid to the beneficiaries by the body granting the aid.
+
+## Article 92 — Specific elements for financial instruments in payment applications
+
+1\. Where financial instruments are implemented in accordance with Article 59(1), payment applications submitted in accordance with Annex XXIII shall include the total amounts disbursed or, in the case of guarantees, the amounts set aside for guarantee contracts, by the managing authority to final recipients as referred to in points (a), (b) and (c) of Article 68(1).
+
+2\. Where financial instruments are implemented in accordance with Article 59(2), payment applications that include expenditure for financial instruments shall be submitted in accordance with the following conditions:
+
+(a) the amount included in the first payment application shall have been paid to the financial instruments and may be up to 30 % of the total amount of programme contributions committed to the financial instruments under the relevant funding agreement, in accordance with the relevant priority and category of region, where applicable;
+
+(b) the amount included in subsequent payment applications submitted during the eligibility period shall include the eligible expenditure as referred to in Article 68(1).
+
+3\. The amount included in the first payment application, referred to in point (a) of paragraph 2, shall be cleared from Commission accounts no later than the final accounting year.
+
+It shall be disclosed separately in payment applications.
+
+## Article 93 — Common rules for payments
+
+1\. Without prejudice to Article 15(5) and (6) and subject to available funding, the Commission shall make interim payments within 60 days of the date on which a payment application is received by the Commission.
+
+2\. Each payment shall be attributed to the earliest open budget commitment of the Fund and category of region concerned. The Commission shall reimburse as interim payments 95 % of the amounts included in the payment application, which results from applying the co-financing rate for each priority to the total eligible expenditure or to the public contribution, as appropriate. The Commission shall determine the remaining amounts to be reimbursed or to be recovered when calculating the balance of the accounts in accordance with Article 100.
+
+3\. The support from the Funds to a priority in interim payments shall not be higher than the amount of the support from the Funds for the priority laid down in the decision approving the programme.
+
+4\. Where the Union contribution takes any of the forms listed in Article 51, the Commission shall not pay more than the amount requested by the Member State.
+
+5\. The support from the Funds to a priority in the payment of the balance of the final accounting year shall not exceed any of the following amounts:
+
+(a) the public contribution declared in payment applications;
+
+(b) support from the Funds paid or to be paid to beneficiaries;
+
+(c) the amount requested by the Member State.
+
+Amounts reimbursed pursuant to Article 36(5) shall not be taken into account for the purposes of calculating the ceiling set out in point (b) of the first subparagraph of this Article.
+
+6\. On the request of a Member State, interim payments may be increased by 10 % above the co-financing rate applicable to each priority for the Funds, if a Member State meets one of the following conditions after 1 July 2021:
+
+(a) the Member State receives a loan from the Union pursuant to Council Regulation (EU) No 407/2010 ( 23 );
+
+(b) the Member State receives medium-term financial assistance under the European Stability Mechanism as established by the Treaty establishing the European Stability Mechanism of 2 February 2012 or as referred to in Regulation (EC) No 332/2002 conditional on the implementation of a macroeconomic adjustment programme;
+
+(c) financial assistance is made available to the Member State conditional on the implementation of a macroeconomic adjustment programme as specified in Regulation (EU) No 472/2013.
+
+The increased rate, which may not exceed 100 %, shall apply to requests for payments until the end of the calendar year in which the related financial assistance comes to an end.
+
+7\. Paragraph 6 shall not apply to Interreg programmes.
+
+## Article 94 — Union contribution based on unit costs, lump sums and flat rates
+
+1\. The Commission may reimburse the Union contribution to a programme on the basis of unit costs, lump sums and flat rates in accordance with Article 51, either based on the amounts and rates approved by a decision in accordance with paragraph 3 of this Article or set out in the delegated act referred to in paragraph 4 of this Article.
+
+2\. In order to make use of a Union contribution to the programme based on unit costs, lump sums and flat rates, Member States shall submit a proposal to the Commission in accordance with the templates set out in Annexes V and VI, as part of the programme submission or of a request for its amendment.
+
+The amounts and rates proposed by the Member State shall be established on the basis of the following and assessed by the audit authority:
+
+(a) a fair, equitable and verifiable calculation method based on any of the following:
+
+(i) statistical data, other objective information or an expert judgement;
+
+(ii) verified historical data;
+
+(iii) the application of usual cost accounting practices;
+
+(b) draft budgets;
+
+(c) the rules on corresponding unit costs, lump sums and flat rates applicable in Union policies for a similar type of operation;
+
+(d) the rules on corresponding unit costs, lump sums and flat rates applied under schemes for grants funded entirely by the Member State for a similar type of operation.
+
+3\. The decision approving the programme or its amendment shall set out the types of operations covered by the reimbursement based on unit costs, lump sums and flat rates, the definition and the amounts covered by those unit costs, lump sums and flat rates, and the methods for adjustment of the amounts.
+
+Member States shall reimburse beneficiaries for the purposes of this Article. That reimbursement may take any form of support.
+
+Commission and Member State audits and management verifications carried out by Member States shall exclusively aim at verifying that the conditions for reimbursement by the Commission have been fulfilled.
+
+4\. The Commission is empowered to adopt a delegated act in accordance with Article 114 to supplement this Article by defining at Union level unit costs, lump sums, flat rates, their amounts and adjustment methods in the ways referred to in points (a) to (d) of the second subparagraph of paragraph 2 of this Article.
+
+5\. This Article shall not apply to the Union contribution for technical assistance reimbursed pursuant to point (e) of Article 51.
+
+## Article 95 — Union contribution based on financing not linked to costs
+
+1\. The Commission may reimburse the Union contribution to all or parts of a priority of programmes based on financing not linked to costs in accordance with Article 51, either based on the amounts approved by a decision referred to in paragraph 2 of this Article or set out in the delegated act referred to in paragraph 4 of this Article. In order to make use of a Union contribution to the programme based on financing not linked to costs, Member States shall submit a proposal to the Commission in accordance with the templates set out in Annexes V and VI, as part of the programme or of a request for its amendment. The proposal shall contain the following information:
+
+(a) identification of the priority concerned and the overall amount covered by the financing not linked to costs;
+
+(b) a description of the part of the programme and the type of operations covered by the financing not linked to costs;
+
+(c) a description of the conditions to be fulfilled or of the results to be achieved and a timeline;
+
+(d) intermediate deliverables triggering reimbursement by the Commission;
+
+(e) measurement units;
+
+(f) the schedule for reimbursement by the Commission and related amounts linked to the progress in the fulfilment of conditions or achievement of results;
+
+(g) the arrangements for verification of the intermediate deliverables and of the fulfilment of conditions or achievement of results;
+
+(h) the methods for adjustment of the amounts, where applicable;
+
+(i) the arrangements to ensure the audit trail in accordance with Annex XIII demonstrating the fulfilment of conditions or achievement of results;
+
+(j) the envisaged type of reimbursement method used to reimburse the beneficiary or beneficiaries within the priority or parts of a priority of programmes concerned by this Article.
+
+2\. The decision approving the programme or the request for its amendment shall set out all the elements listed in paragraph 1.
+
+3\. Member States shall reimburse beneficiaries for the purposes of this Article. That reimbursement may take any form of support.
+
+Commission and Member State audits and management verifications carried out by Member States shall exclusively aim at verifying that the conditions for reimbursement by the Commission have been fulfilled or the results have been achieved.
+
+4\. The Commission is empowered to adopt a delegated act in accordance with Article 114 to supplement this Article by establishing amounts for Union-level financing not linked to costs by type of operation, the methods for adjustment of the amounts and the conditions to be fulfilled or the results to be achieved.
+
+**Section III**
+
+**Interruptions and suspensions**
+
+## Article 96 — Interruption of the payment deadline
+
+1\. The Commission may interrupt the payment deadline, except for pre-financing, for a maximum period of 6 months where any of the following conditions is met:
+
+(a) there is evidence to suggest a serious deficiency for which corrective measures have not been taken;
+
+(b) the Commission has to carry out additional verifications following receipt of information that expenditure in a payment application may be linked to an irregularity.
+
+2\. The Member State may agree to extend the interruption period by 3 months.
+
+3\. The Commission shall limit the interruption to the part of the expenditure affected by the elements referred to in paragraph 1, unless it is not possible to identify the part of the expenditure affected. The Commission shall inform the Member State and the managing authority in writing of the reason for interruption and shall request them to remedy the situation. The Commission shall end the interruption as soon as the measures remedying the elements referred to in paragraph 1 have been taken.
+
+4\. The Fund-specific rules for the EMFAF may lay down specific bases for interruption of payments linked to non-compliance with rules applicable under the Common Fisheries Policy.
+
+## Article 97 — Suspension of payments
+
+1\. The Commission may suspend all or part of payments, except for pre-financing, after having given the Member State the opportunity to present its observations, if any of the following conditions is met:
+
+(a) the Member State has failed to take the necessary action to remedy the situation giving rise to an interruption under Article 96;
+
+(b) there is a serious deficiency;
+
+(c) the expenditure in payment applications is linked to an irregularity that has not been corrected;
+
+(d) there is a reasoned opinion by the Commission in respect of an infringement procedure under Article 258 TFEU on a matter that puts at risk the legality and regularity of expenditure.
+
+2\. The Commission shall end the suspension of all or part of payments when the Member State has taken the measures remedying the elements referred to in paragraph 1.
+
+3\. The Fund-specific rules for the EMFAF may lay down specific bases for suspension of payments linked to non-compliance with rules applicable under the Common Fisheries Policy.
+
+**CHAPTER II**
+
+**Submission and examination of accounts**
+
+## Article 98 — Content and submission of accounts
+
+1\. For each accounting year for which payment applications have been submitted, the Member State shall submit to the Commission by 15 February, the following documents (‘the assurance package’) which shall cover the preceding accounting year:
+
+(a) the accounts in accordance with the template set out in Annex XXIV;
+
+(b) the management declaration referred to in point (f) of Article 74(1) in accordance with the template set out in Annex XVIII;
+
+(c) the annual audit opinion referred to in point (a) of Article 77(3) in accordance with the template set out in Annex XIX;
+
+(d) the annual control report referred to in point (b) of Article 77(3) in accordance with the template set out in Annex XX.
+
+2\. The deadline referred to in paragraph 1 may exceptionally be extended by the Commission to 1 March, upon communication by the Member State concerned.
+
+3\. The accounts shall include at the level of each priority and, where applicable, by fund and by category of region:
+
+(a) the total amount of eligible expenditure entered into the accounting systems of the body carrying out the accounting function which has been included in the final payment application for the accounting year and the total amount of the corresponding public contribution made or to be made linked to specific objectives for which enabling conditions are fulfilled and operations linked to specific objectives for which enabling conditions are not fulfilled but contribute to the fulfilment of enabling conditions;
+
+(b) the amounts withdrawn during the accounting year;
+
+(c) the amounts of public contribution paid to financial instruments;
+
+(d) for each priority, an explanation on any differences between the amounts declared pursuant to point (a) and the amounts declared in payment applications for the same accounting year.
+
+4\. The assurance package shall not concern the total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations or the corresponding public contribution made or to be made linked to specific objectives for which enabling conditions are not fulfilled with the exception of operations that contribute to the fulfilment of enabling conditions.
+
+5\. The accounts shall not be admissible if Member States have not undertaken the necessary corrections to reduce the residual error rate on the legality and regularity of the expenditure included in the accounts to 2 % or below.
+
+6\. Member States shall in particular deduct from the accounts:
+
+(a) the irregular expenditure which has been subject to financial corrections in accordance with Article 103;
+
+(b) the expenditure which is subject to an ongoing assessment of its legality and regularity;
+
+(c) other amounts as necessary to reduce the residual error rate of the expenditure declared in the accounts to 2 % or below.
+
+The Member State may include expenditure under point (b) of the first subparagraph in a payment application in subsequent accounting years once its legality and regularity is confirmed.
+
+7\. The Member State may correct irregular amounts which it has detected after the submission of the accounts in which the amounts were included by making the corresponding adjustments for the accounting year in which the irregularity is detected, without prejudice to Article 104.
+
+8\. As part of the assurance package, the Member State shall submit for the last accounting year the final performance report referred to in Article 43 or the last annual performance report for the AMIF, the ISF or the BMVI.
+
+## Article 99 — Examination of accounts
+
+The Commission shall satisfy itself that the accounts are complete, accurate and true by 31 May of the year following the end of the accounting year unless Article 102 applies.
+
+## Article 100 — Calculation of the balance
+
+1\. When the Commission determines the amount chargeable to the Funds for the accounting year and the consequent adjustments in relation to the payments to the Member State, it shall take into account:
+
+(a) the amounts in the accounts referred to in point (a) of Article 98(3) and to which the co-financing rate for each priority is to be applied;
+
+(b) the total amount of interim payments made by the Commission during that accounting year;
+
+(c) for the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF, for the years 2021 and 2022, the amount of pre-financing.
+
+2\. Where there is an amount recoverable from the Member State, it shall be subject to a recovery order issued by the Commission which shall be executed, where possible, by offsetting against amounts due to the Member State in subsequent payments to the same programme. Such a recovery shall not constitute a financial correction and shall not reduce support from the Funds to the programme. The amount recovered shall constitute assigned revenue in accordance with Article 21(3) of the Financial Regulation.
+
+## Article 101 — Procedure for the examination of accounts
+
+1\. The procedure set out in Article 102 shall apply in either of the following cases:
+
+(a) the audit authority has provided a qualified or adverse audit opinion due to reasons linked to the completeness, accuracy and veracity of the accounts;
+
+(b) the Commission has evidence putting into question the reliability of an unqualified audit opinion.
+
+2\. In all other cases, the Commission shall calculate the amounts chargeable to the Funds in accordance with Article 100 and make the respective payments or recoveries before 1 July. That payment or recovery shall constitute the acceptance of accounts.
+
+## Article 102 — Contradictory procedure for the examination of accounts
+
+1\. If the audit authority provides an audit opinion which is qualified or adverse due to reasons linked to the completeness, accuracy and veracity of the accounts, the Commission shall request the Member State to revise these accounts and to resubmit the documents referred to in Article 98(1) within 1 month.
+
+Where by the time limit set out in the first subparagraph:
+
+(a) the audit opinion is unqualified, Article 100 shall apply and the Commission shall pay any additional amount due or proceed to a recovery within 2 months;
+
+(b) the audit opinion is still qualified or documents have not been re-submitted by the Member State, paragraphs 2, 3 and 4 shall apply.
+
+2\. If the audit opinion remains qualified due to reasons linked to the completeness, accuracy and veracity of the accounts or if the audit opinion remains unreliable, the Commission shall inform the Member State on the amount chargeable to the Funds for the accounting year.
+
+3\. Where the Member State agrees with the amount referred to in paragraph 2 of this Artcile within 1 month, the Commission shall pay within 2 months any additional amount due or proceed to a recovery in accordance with Article 100.
+
+4\. Where the Member State does not agree with the amount referred to in paragraph 2 of this Article, the Commission shall establish the amount chargeable to the Funds for the accounting year. Such an act shall not constitute a financial correction and shall not reduce support from the Funds to the programme. The Commission shall pay within 2 months any additional amount due or proceed to a recovery in accordance with Article 100.
+
+5\. With regard to the final accounting year, the Commission shall pay or recover the annual balance of the accounts for programmes supported by the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF no later than 2 months after the date of acceptance of the final performance report as referred to in Article 43.
+
+**CHAPTER III**
+
+**Financial corrections**
+
+## Article 103 — Financial corrections by Member States
+
+1\. Member States shall protect the Union budget and apply financial corrections by cancelling all or part of the support from the Funds to an operation or programme where expenditure declared to the Commission is found to be irregular.
+
+2\. Financial corrections shall be recorded in the accounts for the accounting year in which the cancellation is decided.
+
+3\. The support from the Funds cancelled may be reused by the Member State within the programme concerned except for an operation that was subject of that correction or, where a financial correction is made for a systemic irregularity, for any operation affected by the systemic irregularity.
+
+4\. The Fund-specific rules for the EMFAF may lay down specific bases for financial corrections by the Member States linked to non-compliance with rules applicable under the Common Fisheries Policy.
+
+5\. By way of derogation from paragraphs 1, 2 and 3, in operations comprising financial instruments, a contribution cancelled in accordance with this Article, as a result of an individual irregularity, may be reused within the same operation under the following conditions:
+
+(a) where the irregularity that gives rise to the cancellation of the contribution is detected at the level of the final recipient, only for other final recipients within the same financial instrument;
+
+(b) where the irregularity that gives rise to the cancellation of the contribution is detected at the level of the body implementing the specific fund, where a financial instrument is implemented through a structure with a holding fund, only for other bodies implementing specific funds.
+
+Where that irregularity that gives rise to the cancellation of the contribution is detected at the level of the body implementing the holding fund, or at the level of the body implementing the specific fund where a financial instrument is implemented through a structure without a holding fund, the contribution cancelled shall not be reused within the same operation.
+
+Where a financial correction is made for a systemic irregularity, the contribution cancelled shall not be reused for any operation affected by the systemic irregularity.
+
+6\. The bodies implementing financial instruments shall reimburse to Member States programme contributions affected by irregularities, together with interest and any other gains generated by these contributions.
+
+The bodies implementing financial instruments shall not reimburse to Member States the amounts referred to in the first subparagraph provided that those bodies demonstrate for a given irregularity that the following cumulative conditions are fulfilled:
+
+(a) the irregularity occurred at the level of final recipients or, in the case of a holding fund, at the level of bodies implementing specific funds or final recipients;
+
+(b) the bodies implementing financial instruments carried out their obligations, in relation to the programme contributions affected by the irregularity, in accordance with applicable law and acted with the degree of professional care, transparency and diligence expected from a professional body experienced in implementing financial instruments;
+
+(c) the amounts affected by the irregularity could not be recovered notwithstanding that the bodies implementing financial instruments pursued all applicable contractual and legal measures with due diligence.
+
+## Article 104 — Financial corrections by the Commission
+
+1\. The Commission shall make financial corrections by reducing support from the Funds to a programme where it concludes that:
+
+(a) there is a serious deficiency which has put at risk the support from the Funds already paid to the programme;
+
+(b) expenditure contained in accepted accounts is irregular and was not detected and reported by the Member State;
+
+(c) the Member State has not complied with its obligations under Article 97 prior to the opening of the financial correction procedure by the Commission.
+
+Where the Commission applies flat-rate or extrapolated financial corrections, this shall be carried out in accordance with Annex XXV.
+
+2\. Before taking a decision on a financial correction, the Commission shall inform the Member State of its conclusions and give the Member State the opportunity to present, within 2 months, its observations and to demonstrate that the actual extent of irregularity is less than the Commission’s assessment. The deadline can be extended if mutually agreed.
+
+3\. Where the Member State does not accept the conclusions of the Commission, the Member State shall be invited to a hearing by the Commission, in order to ensure that all relevant information and observations are available to form the basis for Commission conclusions on the application of the financial correction.
+
+4\. The Commission shall decide on a financial correction taking into account the extent, the frequency and financial implications of the irregularities or serious deficiencies, by means of an implementing act within 10 months of the date of the hearing or of the submission of additional information as required by the Commission.
+
+When deciding on a financial correction, the Commission shall take account of all information and observations submitted.
+
+Where a Member State agrees to the financial correction for cases referred to in points (a) and (c) of the first subparagraph of paragraph 1 before the adoption of the decision referred to in the first subparagraph of this paragraph, the Member State may reuse the amounts concerned. That possibility shall not apply to a case of a financial correction under point (b) of the first subparagraph of paragraph 1.
+
+5\. The Fund-specific rules for the EMFAF may lay down specific bases for financial corrections by the Commission linked to non-compliance with rules applicable under the Common Fisheries Policy.
+
+6\. The Fund-specific rules for the JTF may lay down specific bases for financial corrections by the Commission linked to the under-achievement of targets established for the JTF.
+
+**CHAPTER IV**
+
+**Decommitment**
+
+## Article 105 — Decommitment principles and rules
+
+1\. The Commission shall decommit any amount in a programme which has not been used for pre-financing, in accordance with Article 90, or for which a payment application has not been submitted, in accordance with Articles 91 and 92, by 31 December of the third calendar year following the year of the budget commitments for the years 2021 to 2026.
+
+2\. The part of commitments still open on 31 December 2029 shall be decommitted if the assurance package and the final performance report for programmes supported by the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF have not been submitted to the Commission by the time limit set out in Article 43(1).
+
+## Article 106 — Exceptions to the decommitment rules
+
+1\. The amount concerned by decommitment shall be reduced by the amounts equivalent to that part of the budget commitment for which:
+
+(a) the operations are suspended by a legal proceeding or by an administrative appeal having suspensory effect; or
+
+(b) it has not been possible to make a payment application for reasons of force majeure seriously affecting implementation of all or part of the programme.
+
+The national authorities claiming force majeure shall demonstrate the direct consequences of the force majeure on the implementation of all or part of the programme.
+
+2\. By 31 January, the Member State shall send to the Commission information on the exceptions referred to in points (a) and (b) of the first subparagraph of paragraph 1 for the amount to be declared by 31 December of the preceding year.
+
+## Article 107 — Procedure for decommitment
+
+1\. On the basis of the information it has received as of 31 January, the Commission shall inform the Member State of the amount of the decommitment resulting from that information.
+
+2\. The Member State shall have 2 months to agree to the amount to be decommitted or to submit its observations.
+
+3\. By 30 June, the Member State shall submit to the Commission an amended financing plan reflecting, for the calendar year concerned, the reduced amount of support over one or more priorities of the programme. For programmes supported by more than one Fund, the amount of support shall be reduced by Fund proportionately to the amounts concerned by the decommitment that had not been used in the calendar year concerned.
+
+In the absence of such a submission, the Commission shall amend the financing plan by reducing the contribution from the Funds for the calendar year concerned. That reduction shall be allocated to each priority proportionately to the amounts concerned by the decommitment that had not been used in the calendar year concerned.
+
+4\. The Commission shall amend the decision approving the programme no later than 31 October.
+
+**TITLE VIII**
+
+**FINANCIAL FRAMEWORK**
+
+## Article 108 — Geographical coverage of support for the Investment for jobs and growth goal
+
+1\. The ERDF, the ESF+ and the Cohesion Fund shall support the Investment for jobs and growth goal in all regions corresponding to level 2 of the common classification of territorial units for statistics (‘NUTS level 2 regions’) established by Regulation (EC) No 1059/2003 as amended by Regulation (EU) 2016/2066.
+
+2\. Resources from the ERDF and ESF+ for the Investment for jobs and growth goal shall be allocated among the following three categories of NUTS level 2 regions:
+
+(a) less developed regions, whose GDP per capita is less than 75 % of the average GDP per capita of the EU-27 (‘less developed regions’);
+
+(b) transition regions, whose GDP per capita is between 75 % and 100 % of the average GDP per capita of the EU-27 (‘transition regions’);
+
+(c) more developed regions, whose GDP per capita is above 100 % of the average GDP per capita of the EU-27 (‘more developed regions’).
+
+The classification of regions under one of the three categories of region shall be determined on the basis of how the GDP per capita of each region, measured in purchasing power standards (PPS) and calculated on the basis of Union figures for the period 2015-2017, relates to the average GDP per capita of the EU-27 for the same reference period.
+
+3\. The Cohesion Fund shall support those Member States whose gross national income (GNI) per capita, measured in PPS and calculated on the basis of Union figures for the period 2015-2017, is less than 90 % of the average GNI per capita of the EU-27 for the same reference period.
+
+4\. The Commission shall adopt a decision, by means of implementing act, setting out the list of regions fulfilling the criteria of one of the three categories of region and of Member States fulfilling the criteria of paragraph 3. That list shall be valid from 1 January 2021 to 31 December 2027.
+
+## Article 109 — Resources for economic, social and territorial cohesion
+
+1\. The resources for economic, social and territorial cohesion available for budgetary commitment for the 2021-2027 period under the MFF shall be EUR 330 234 776 621 in 2018 prices for the ERDF, the ESF+ and the Cohesion Fund, and EUR 7 500 000 000 in 2018 prices for the JTF.
+
+The resources referred to in the first subparagraph shall be completed by an amount of EUR 10 000 000 000 in 2018 prices for measures referred to in Article 1(2) of Council Regulation (EU) 2020/2094 ( 24 ) for the purposes of the JTF Regulation. This amount shall constitute external assigned revenue for the purpose of Article 21(5) of the Financial Regulation.
+
+For the purposes of programming and subsequent inclusion in the budget of the Union, amounts referred to in the first and second subparagraphs shall be indexed at 2 % per year.
+
+2\. The Commission shall adopt a decision, by means of implementing act, setting out the annual breakdown of the global resources for the ERDF, the ESF+ and the Cohesion Fund by Member State under the Investment for jobs and growth goal and, where applicable, by category of region, in accordance with the methodologies set out in Annex XXVI.
+
+That decision shall also set out the annual breakdown of the global resources per Member State under the European territorial cooperation goal (Interreg).
+
+3\. 0,35 % of the resources referred to in the first and second subparagraphs of paragraph 1, after the deduction of the support to the CEF referred to in Article 110(3), shall be allocated to technical assistance at the initiative of the Commission.
+
+## Article 110 — Resources for the Investment for jobs and growth goal and for the European territorial cooperation goal (Interreg)
+
+1\. Resources for the Investment for jobs and growth goal under the MFF shall amount to 97,6 % of the global resources (i.e. a total of EUR 329 684 776 621 ) and shall be allocated as follows:
+
+(a) 61,3 % (i.e. a total of EUR 202 226 984 629 ) for less developed regions;
+
+(b) 14,5 % (i.e. a total of EUR 47 771 802 082 ) for transition regions;
+
+(c) 8,3 % (i.e. a total of EUR 27 202 682 372 ) for more developed regions;
+
+(d) 12,9 % (i.e. a total of EUR 42 555 570 217 ) for Member States supported by the Cohesion Fund;
+
+(e) 0,6 % (i.e. a total of EUR 1 927 737 321 ) as additional funding for the outermost regions identified in Article 349 TFEU and the NUTS level 2 regions fulfilling the criteria laid down in Article 2 of Protocol No 6 to the 1994 Act of Accession;
+
+(f) 0,2 % (i.e. a total of EUR 500 000 000 ) for interregional innovation investments;
+
+(g) 2,3 % (i.e. a total of EUR 7 500 000 000 ) for the Just Transition Fund.
+
+2\. The amount of resources available for the ESF+ under the Investment for jobs and growth goal shall be EUR 87 319 331 844 .
+
+The amount of additional funding for the regions referred to in point (e) in paragraph 1 allocated to the ESF+ shall be EUR 472 980 447 .
+
+3\. The amount of support from the Cohesion Fund to be transferred to the CEF shall be EUR 10 000 000 000 . It shall be spent for transport infrastructure projects, taking into account the investment infrastructure needs of Member States and regions, by launching specific calls in accordance with the CEF Regulation exclusively in Member States eligible for funding from the Cohesion Fund.
+
+The Commission shall adopt an implementing act setting out the amount to be transferred from each Member State’s Cohesion Fund allocation to the CEF and determined on a pro rata basis for the whole period.
+
+The Cohesion Fund allocation of each Member State shall be reduced accordingly.
+
+The annual appropriations corresponding to the support from the Cohesion Fund referred to in the first subparagraph shall be entered in the relevant budget lines of the CEF as of the 2021 budgetary exercise.
+
+30 % of the resources transferred to the CEF shall be available immediately after the transfer to all Member States eligible for funding from the Cohesion Fund to finance transport infrastructure projects in accordance with the CEF Regulation.
+
+Rules applicable for the transport sector under the CEF Regulation shall apply to the specific calls referred to in the first subparagraph. Until 31 December 2023, the selection of projects eligible for financing shall respect the national allocations under the Cohesion Fund with regard to 70 % of the resources transferred to the CEF.
+
+As of 1 January 2024, resources transferred to the CEF which have not been committed to a transport infrastructure project shall be made available to all Member States eligible for funding from the Cohesion Fund to finance transport infrastructure projects in accordance with the CEF Regulation.
+
+In order to support Member States which are eligible for funding from the Cohesion Fund and which might experience difficulties in designing projects that are of a sufficient maturity, quality, or both, and that have sufficient Union added value, particular attention shall be given to technical assistance which aims to strengthen the institutional capacity and the efficiency of public administrations and public services in relation to the development and implementation of projects listed in the CEF Regulation.
+
+The Commission shall do its utmost to enable Member States eligible for funding from the Cohesion Fund to attain, by the end of the 2021-2027 period, the highest possible absorption of the amount transferred to the CEF, including through the organisation of additional calls.
+
+Particular attention and support under the eighth and ninth subparagraph shall be given to those Member States whose GNI per capita, measured in PPS for the period 2015- 2017, is less than 60 % of the average GNI per capita of the EU-27.
+
+In respect of Member States whose GNI per capita, measured in PPS for the period 2015-2017, is less than 60 % of the average GNI per capita of the EU-27, 70 % of 70 % of the amount of money that those Member States have transferred to the CEF shall be guaranteed until 31 December 2024.
+
+4\. EUR 400 000 000 of the resources for the Investment for jobs and growth goal shall be allocated to the European Urban Initiative under direct or indirect management by the Commission.
+
+5\. EUR 175 000 000 of the ESF+ resources for the Investment for jobs and growth goal shall be allocated for transnational cooperation supporting innovative solutions under direct or indirect management.
+
+6\. The amount referred to in point (f) of paragraph 1 shall be allocated from the ERDF resources under the Investment for jobs and growth goal for interregional innovative investments under direct or indirect management.
+
+7\. Resources for the European territorial cooperation goal (Interreg) shall amount to 2,4 % of the global resources available for budgetary commitment from the Funds for the 2021-2027 period (i.e. a total of EUR 8 050 000 000 ).
+
+8\. The amount referred to in the second subparagraph of Article 109(1) shall be part of the resources for the Investments for jobs and growth goal.
+
+## Article 111 — Transferability of resources
+
+1\. The Commission may accept a proposal by a Member State, in its submission of the Partnership Agreement or in the context of the mid-term review, for a transfer:
+
+(a) adding up to not more than 5 % of the initial allocations for less developed regions to transition regions or more developed regions and from transition regions to more developed regions;
+
+(b) from the allocations for more developed regions or transition regions to less developed regions and from more developed regions to transition regions.
+
+By way of derogation from point (a) of the first subparagraph, the Commission may accept an additional transfer of up to 10 % of the total allocations for less developed regions to transition regions or more developed regions within those Member States whose GNI per capita, measured in PPS for the period 2015- 2017, is less than 90 % of the average GNI per capita of the EU-27. Resources of any additional transfer shall be used to contribute to the policy objectives referred to in points (a) and (b) of Article 5(1).
+
+2\. The total allocations to each Member State in respect of the Investment for jobs and growth goal and the European territorial cooperation goal (Interreg) shall not be transferable between these goals.
+
+3\. In order to uphold the effective contribution of the Funds to the actions referred to in Article 5(2), and by way of derogation from paragraph 2 of this Article, the Commission may, in duly justified circumstances, and subject to the condition laid down in paragraph 4 of this Article, accept by means of an implementing act a proposal by a Member State in its first submission of the Partnership Agreement to transfer a part of its appropriations for the European territorial cooperation goal (Interreg) to the Investment for jobs and growth goal.
+
+4\. The share of the European territorial cooperation goal (Interreg) in the Member State making the proposal referred to in paragraph 3 shall be not less than 35 % of the total allocated to that Member State in respect of the Investment for jobs and growth goal and the European territorial cooperation goal (Interreg), and after transfer shall be not less than 25 % of that total.
+
+## Article 112 — Determination of co-financing rates
+
+1\. The decision approving a programme shall fix the co-financing rate and the maximum amount of support from the Funds for each priority.
+
+2\. For each priority, the Commission decision shall set out whether the co-financing rate for the priority is to be applied to either of the following:
+
+(a) total contribution, including public and private contribution;
+
+(b) public contribution.
+
+3\. The co-financing rate for the Investment for jobs and growth goal at the level of each priority shall not be higher than:
+
+(a) 85 % for the less developed regions;
+
+(b) 70 % for transition regions that were classified as less developed regions for the 2014-2020 period;
+
+(c) 60 % for the transition regions;
+
+(d) 50 % for more developed regions that were classified as transition regions or had a GDP per capita below 100 % for the 2014-2020 period;
+
+(e) 40 % for the more developed regions.
+
+The co-financing rates set out under point (a) of the first subparagraph shall also apply to the outermost regions, including the additional allocation for the outermost regions.
+
+The co-financing rate for the Cohesion Fund at the level of each priority shall not be higher than 85 %.
+
+The ESF+ Regulation may establish higher co-financing rates in accordance with Articles 10 and 14 of that Regulation.
+
+The co-financing rate, applicable to the region where the territory or territories identified in the territorial just transition plans are located, for the priority supported by the JTF shall not be higher than:
+
+(a) 85 % for less developed regions;
+
+(b) 70 % for transition regions;
+
+(c) 50 % for more developed regions.
+
+4\. The co-financing rate for Interreg programmes shall be no higher than 80 % except in cases where the Interreg Regulation establishes higher co-financing rates for Interreg strand D and for external cross-border cooperation programmes.
+
+5\. The maximum co-financing rates listed under paragraphs 3 and 4 shall be increased by ten percentage points for priorities entirely delivered through community-led local development.
+
+6\. Technical assistance measures implemented at the initiative of, or on behalf of, the Commission may be financed at the rate of 100 %.
+
+7\. Where a separate priority is established within a programme to support operations promoting the socioeconomic integration of third country nationals, a co-financing rate of up to 100 % shall be applied to expenditure declared in payment applications until the end of the accounting year ending on 30 June 2024. After that date, the co-financing rate set out in the programme in accordance with the maximum co-financing rates listed under paragraphs 3 and 4 shall apply.
+
+The total amount programmed under such priorities in a Member State shall not exceed 5 % of the initial national allocation from the ERDF and the ESF+ combined.
+
+The Commission shall review the co-financing rate by 30 June 2024.
+
+At least 30 % of the financial allocation of such a separate priority shall be attributed to operations which have beneficiaries that are local authorities or civil society organisations operating in local communities. Member States shall report on the fulfilment of that condition in the final performance report required under Article 43. Where that condition is not fulfilled, reimbursement by the Commission under the priority concerned shall be reduced proportionately to ensure that that condition is respected when calculating the final balance to be paid to the programme.
+
+**TITLE IX**
+
+**DELEGATION OF POWER, IMPLEMENTING, TRANSITIONAL AND FINAL PROVISIONS**
+
+**CHAPTER I**
+
+**Delegation of power and implementing provisions**
+
+## Article 113 — Delegation of powers as regards certain Annexes
+
+The Commission is empowered to adopt delegated acts in accordance with Article 114 to amend the Annexes to this Regulation, except Annexes III, IV, XI, XIII, XIV, XVII and XXVI, in order to adapt them to changes occurring during the programming period.
+
+## Article 114 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Articles 79(4), 94(4) and 95(4) and Article 113 shall be conferred on the Commission for an indeterminate period of time from 1 July 2021.
+
+3\. The delegation of power referred to in Articles 79(4), 94(4) and 95(4), Article 113 and Article 117(2) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Articles 79(4), 94(4) and 95(4), Article 113 and Article 117(2) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
+
+## Article 115 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+**CHAPTER II**
+
+**Transitional and final provisions**
+
+## Article 116 — Review
+
+The European Parliament and the Council shall review this Regulation by 31 December 2027 in accordance with Article 177 TFEU.
+
+## Article 117 — Transitional provisions
+
+1\. Regulation (EU) No 1303/2013 or any other act applicable to the 2014–2020 programming period shall continue to apply only to operational programmes and operations supported by the ERDF, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund under that period.
+
+2\. The empowerment conferred in paragraph 3 of Article 5 of Regulation (EU) No 1303/2013 on the Commission to adopt a delegated act to provide for a European code of conduct on partnership shall remain in force for the 2021-2027 programming period. The delegation of power shall be exercised in accordance with Article 114 of this Regulation.
+
+## Article 118 — Conditions for operations subject to phased implementation
+
+1\. The managing authority may proceed with the selection of an operation consisting of the second phase of an operation selected for support and started under Regulation (EU) No 1303/2013, provided that the following cumulative conditions are met:
+
+(a) the operation, as selected for support under Regulation (EU) No 1303/2013, has two phases identifiable from a financial point of view with separate audit trails;
+
+(b) the total cost of the operation referred to in point (a) exceeds EUR 5 000 000 ;
+
+(c) expenditure included in a payment application in relation to the first phase is not included under any payment applications in relation to the second phase;
+
+(d) the second phase of the operation complies with applicable law and is eligible for support from the ERDF, the ESF+, the Cohesion Fund or the EMFAF under the provisions of this Regulation or the Fund-specific Regulations;
+
+(e) the Member State commits to complete during the programming period and render operational the second and final phase in the final implementation report, or in the context of the European Maritime and Fisheries Fund in the last annual implementation report, submitted in accordance with Article 141 of Regulation (EU) No 1303/2013.
+
+2\. The provisions of this Regulation shall apply to the second phase of the operation.
+
+## Article 118a — Conditions for operations subject to phased implementation that were selected for support before 29 June 2022 under Regulation (EU) No 1303/2013
+
+1\. Notwithstanding Article 118, where an operation with a total cost exceeding EUR 1 000 000 was selected for support and started before 29 June 2022 under Regulation (EU) No 1303/2013 and Fund-specific Regulations (EU) No 1301/2013 ( 25 ), (EU) No 1304/2013 ( 26 ), (EU) No 1300/2013 ( 27 ), (EU) No 1299/2013 ( 28 ) and (EU) No 508/2014 ( 29 ) of the European Parliament and of the Council, that operation shall be deemed eligible for support under this Regulation and the corresponding Fund-specific Regulations in the 2021–2027 programming period.
+
+By way of derogation from Article 73(1) and (2), the managing authority may decide to grant support to such an operation under this Regulation directly, provided that the following conditions are met:
+
+(a) the operation has two phases that are identifiable from a financial point of view with separate audit trails;
+
+(b) the operation falls within actions programmed under a relevant specific objective and is attributed to a type of intervention in accordance with Annex I;
+
+(c) expenditure included in a payment application in relation to the first phase is not included under any payment applications in relation to the second phase;
+
+(d) the Member State commits to complete during the programming period and render operational the second and final phase in the final implementation report, or in the context of the European Maritime and Fisheries Fund in the last annual implementation report, submitted in accordance with Article 141 of Regulation (EU) No 1303/2013.
+
+2\. This Article shall not apply to operations addressing migratory challenges resulting from the military aggression by the Russian Federation that are supported by making use of the possibility provided under the first and second subparagraphs of Article 98(4) of Regulation (EU) No 1303/2013.
+
+## Article 119 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.
+
+## ANNEX I — Dimensions and codes for the types of intervention for the ERDF, the ESF+, the Cohesion Fund and the JTF Article 22(5)
+
+**TABLE 1: DIMENSIONS AND CODES FOR THE TYPES OF INTERVENTION (1) , (2)**
+
+<table>
+<tbody><tr><td colspan="2">INTERVENTION FIELD (3)</td><td>Coefficient for the calculation of support to climate change objectives</td><td>Coefficient for the calculation of support to environmental objectives</td></tr>
+<tr><td colspan="4">Policy objective 1: A more competitive and smarter Europe by promoting innovative and smart economic transformation and regional ICT connectivity</td></tr>
+<tr><td>001</td><td>Investment in fixed assets, including research infrastructure, in micro enterprises directly linked to research and innovation activities</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>002</td><td>Investment in fixed assets, including research infrastructure, in small and medium-sized enterprises (including private research centres) directly linked to research and innovation activities</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>003</td><td>Investment in fixed assets, including research infrastructure, in large enterprises (4) directly linked to research and innovation activities</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>004</td><td>Investment in fixed assets, including research infrastructure, in public research centres and higher education directly linked to research and innovation activities</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>005</td><td>Investment in intangible assets in micro enterprises directly linked to research and innovation activities</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>006</td><td>Investment in intangible assets in SMEs (including private research centres) directly linked to research and innovation activities</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>007</td><td>Investment in intangible assets in large enterprises directly linked to research and innovation activities</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>008</td><td>Investment in intangible assets in public research centres and higher education directly linked to research and innovation activities</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>009</td><td>Research and innovation activities in micro enterprises including networking (industrial research, experimental development, feasibility studies)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>010</td><td>Research and innovation activities in SMEs, including networking</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>011</td><td>Research and innovation activities in large enterprises, including networking</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>012</td><td>Research and innovation activities in public research centres, higher education and centres of competence including networking (industrial research, experimental development, feasibility studies)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>013</td><td>Digitising SMEs (including e-Commerce, e-Business and networked business processes, digital innovation hubs, living labs, web entrepreneurs and ICT start-ups, B2B)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>014</td><td>Digitising large enterprises (including e-Commerce, e-Business and networked business processes, digital innovation hubs, living labs, web entrepreneurs and ICT start-ups, B2B)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>015</td><td>Digitising SMEs or large enterprises (including e-Commerce, e-Business and networked business processes, digital innovation hubs, living labs, web entrepreneurs and ICT start-ups, B2B) compliant with greenhouse gas emission reduction or energy efficiency criteria (5)</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>016</td><td>Government ICT solutions, e-services, applications</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>017</td><td>Government ICT solutions, eservices, applications compliant with greenhouse gas emission reduction or energy efficiency criteria (6)</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>018</td><td>IT services and applications for digital skills and digital inclusion</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>019</td><td>e-Health services and applications (including e-Care, Internet of Things for physical activity and ambient assisted living)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>020</td><td>Business infrastructure for SMEs (including industrial parks and sites)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>021</td><td>SME business development and internationalisation, including productive investments</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>022</td><td>Support for large enterprises through financial instruments, including productive investments</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>023</td><td>Skills development for smart specialisation, industrial transition, entrepreneurship and adaptability of enterprises to change</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>024</td><td>Advanced support services for SMEs and groups of SMEs (including management, marketing and design services)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>025</td><td>Incubation, support to spin offs and spin outs and start ups</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>026</td><td>Support for innovation clusters including between businesses, research organisations and public authorities and business networks primarily benefiting SMEs</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>027</td><td>Innovation processes in SMEs (process, organisational, marketing, co-creation, user and demand driven innovation)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>028</td><td>Technology transfer and cooperation between enterprises, research centres and higher education sector</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>029</td><td>Research and innovation processes, technology transfer and cooperation between enterprises, research centres and universities, focusing on the low carbon economy, resilience and adaptation to climate change</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>030</td><td>Research and innovation processes, technology transfer and cooperation between enterprises, focusing on circular economy</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>031</td><td>Financing of working capital in SMEs in the form of grants to address emergency situation (7)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>032</td><td>ICT: Very High-Capacity broadband network (backbone/backhaul network)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>033</td><td>ICT: Very High-Capacity broadband network (access/local loop with a performance equivalent to an optical fibre installation up to the distribution point at the serving location for multi-dwelling premises)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>034</td><td>ICT: Very High-Capacity broadband network (access/local loop with a performance equivalent to an optical fibre installation up to the distribution point at the serving location for homes and business premises)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>035</td><td>ICT: Very High-Capacity broadband network (access/local loop with a performance equivalent to an optical fibre installation up to the base station for advanced wireless communication)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>036</td><td>ICT: Other types of ICT infrastructure (including large-scale computer resources/equipment, data centres, sensors and other wireless equipment)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>037</td><td>ICT: Other types of ICT infrastructure (including large-scale computer resources/equipment, data centres, sensors and other wireless equipment) compliant with the carbon emission reduction and energy efficiency criteria (8)</td><td>40 %</td><td>0 %</td></tr>
+<tr><td colspan="4">Policy objective 2: A greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility</td></tr>
+<tr><td>038</td><td>Energy efficiency and demonstration projects in SMEs and supporting measures</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>039</td><td>Energy efficiency and demonstration projects in large enterprises and supporting measures</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>040</td><td>Energy efficiency and demonstration projects in SMEs or large enterprises and supporting measures compliant with energy efficiency criteria (9)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>041</td><td>Energy efficiency renovation of existing housing stock, demonstration projects and supporting measures</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>042</td><td>Energy efficiency renovation of existing housing stock, demonstration projects and supporting measures compliant with energy efficiency criteria (10)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>043</td><td>Construction of new energy efficient buildings (11)</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>044</td><td>Energy efficiency renovation or energy efficiency measures regarding public infrastructure, demonstration projects and supporting measures</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>045</td><td>Energy efficiency renovation or energy efficiency measures regarding public infrastructure, demonstration projects and supporting measures compliant with energy efficiency criteria (12)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>046</td><td>Support to entities that provide services contributing to the low carbon economy and to resilience to climate change, including awareness-raising measures</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>047</td><td>Renewable energy: wind</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>048</td><td>Renewable energy: solar</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>049</td><td>Renewable energy: biomass (13)</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>050</td><td>Renewable energy: biomass with high greenhouse gas savings (14)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>051</td><td>Renewable energy: marine</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>052</td><td>Other renewable energy (including geothermal energy)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>053</td><td>Smart Energy Systems (including smart grids and ICT systems) and related storage</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>054</td><td>High efficiency co-generation, district heating and cooling</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>055 (15)</td><td>High efficiency co-generation, efficient district heating and cooling with low lifecycle emissions (16)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>056</td><td>Replacement of coal-based heating systems by gas-based heating systems for climate mitigation purposes</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>057</td><td>Distribution and transport of natural gas substituting coal</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>058</td><td>Adaptation to climate change measures and prevention and management of climate related risks: floods and landslides (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches)</td><td>100 %</td><td>100 %</td></tr>
+<tr><td>059</td><td>Adaptation to climate change measures and prevention and management of climate related risks: fires (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches)</td><td>100 %</td><td>100 %</td></tr>
+<tr><td>060</td><td>Adaptation to climate change measures and prevention and management of climate related risks: others, e.g. storms and drought (including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches)</td><td>100 %</td><td>100 %</td></tr>
+<tr><td>061</td><td>Risk prevention and management of non-climate related natural risks (for example earthquakes) and risks linked to human activities (for example technological accidents), including awareness raising, civil protection and disaster management systems, infrastructures and ecosystem based approaches</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>062</td><td>Provision of water for human consumption (extraction, treatment, storage and distribution infrastructure, efficiency measures, drinking water supply)</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>063</td><td>Provision of water for human consumption (extraction, treatment, storage and distribution infrastructure, efficiency measures, drinking water supply) compliant with efficiency criteria (17)</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>064</td><td>Water management and water resource conservation (including river basin management, specific climate change adaptation measures, reuse, leakage reduction)</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>065</td><td>Waste water collection and treatment</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>066</td><td>Waste water collection and treatment compliant with energy efficiency criteria (18)</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>067</td><td>Household waste management: prevention, minimisation, sorting, reuse, recycling measures</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>068</td><td>Household waste management: residual waste treatment</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>069</td><td>Commercial, industrial waste management: prevention, minimisation, sorting, reuse, recycling measures</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>070</td><td>Commercial, industrial waste management: residual and hazardous waste</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>071</td><td>Promoting the use of recycled materials as raw materials</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>072</td><td>Use of recycled materials as raw materials compliant with the efficiency criteria (19)</td><td>100 %</td><td>100 %</td></tr>
+<tr><td>073</td><td>Rehabilitation of industrial sites and contaminated land</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>074</td><td>Rehabilitation of industrial sites and contaminated land compliant with efficiency criteria (20)</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>075</td><td>Support to environmentally-friendly production processes and resource efficiency in SMEs</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>076</td><td>Support to environmentally-friendly production processes and resource efficiency in large enterprises</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>077</td><td>Air quality and noise reduction measures</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>078</td><td>Protection, restoration and sustainable use of Natura 2000 sites</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>079</td><td>Nature and biodiversity protection, natural heritage and resources, green and blue infrastructure</td><td>40 %</td><td>100 %</td></tr>
+<tr><td>080</td><td>Other measures to reduce greenhouse gas emissions in the area of preservation and restoration of natural areas with high potential for carbon absorption and storage, e.g. by rewetting of moorlands, the capture of landfill gas</td><td>100 %</td><td>100 %</td></tr>
+<tr><td>081</td><td>Clean urban transport infrastructure (21)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>082</td><td>Clean urban transport rolling stock (22)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>083</td><td>Cycling infrastructure</td><td>100 %</td><td>100 %</td></tr>
+<tr><td>084</td><td>Digitalisation of urban transport</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>085</td><td>Digitalisation of transport when dedicated in part to greenhouse gas emissions reduction: urban transport</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>086</td><td>Alternative fuels infrastructure (23)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td colspan="4">Policy objective 3: A more connected Europe by enhancing mobility</td></tr>
+<tr><td>087 (24)</td><td>Newly built or upgraded motorways and roads - TEN-T core network</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>088</td><td>Newly built or upgraded motorways and roads - TEN-T comprehensive network</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>089</td><td>Newly built or upgraded secondary road links to TEN-T road network and nodes</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>090</td><td>Newly built or upgraded other national, regional and local access roads</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>091</td><td>Reconstructed or modernised motorways and roads - TEN-T core network</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>092</td><td>Reconstructed or modernised motorways and roads - TEN-T comprehensive network</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>093</td><td>Other reconstructed or modernised roads (motorway, national, regional or local)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>094</td><td>Digitalisation of transport: road</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>095</td><td>Digitalisation of transport when dedicated in part to greenhouse gas emissions reduction: road</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>096</td><td>Newly built or upgraded railways - TEN-T core network</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>097</td><td>Newly built or upgraded railways - TEN-T comprehensive network</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>098</td><td>Other newly built or upgraded railways</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>099</td><td>Other newly built or upgraded railways – electric/zero emission (25)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>100</td><td>Reconstructed or modernised railways - TEN-T core network</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>101</td><td>Reconstructed or modernised railways - TEN-T comprehensive network</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>102</td><td>Other reconstructed or modernised railways</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>103</td><td>Other reconstructed or modernised railways – electric/zero emission (26)</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>104</td><td>Digitalisation of transport: rail</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>105</td><td>European Rail Traffic Management System (ERTMS)</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>106</td><td>Mobile rail assets</td><td>0 %</td><td>40 %</td></tr>
+<tr><td>107</td><td>Mobile zero emission/electric powered (26) rail assets</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>108</td><td>Multimodal transport (TEN-T)</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>109</td><td>Multimodal transport (not urban)</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>110</td><td>Seaports (TEN-T)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>111</td><td>Seaports (TEN-T) excluding facilities dedicated to transport of fossil fuels</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>112</td><td>Other seaports</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>113</td><td>Other seaports excluding facilities dedicated to transport of fossil fuels</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>114</td><td>Inland waterways and ports (TEN-T)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>115</td><td>Inland waterways and ports (TEN-T) excluding facilities dedicated to transport of fossil fuels</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>116</td><td>Inland waterways and ports (regional and local)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>117</td><td>Inland waterways and ports (regional and local) excluding facilities dedicated to transport of fossil fuels</td><td>40 %</td><td>0 %</td></tr>
+<tr><td>118</td><td>Security, safety and air traffic management systems, for existing airports</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>119</td><td>Digitising transport: other transport modes</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>120</td><td>Digitising transport when dedicated in part to greenhouse gas emissions reduction: other transport modes</td><td>40 %</td><td>0 %</td></tr>
+<tr><td colspan="4">Policy objective 4: A more social and inclusive Europe implementing the European Pillar of Social Rights</td></tr>
+<tr><td>121</td><td>Infrastructure for early childhood education and care</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>122</td><td>Infrastructure for primary and secondary education</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>123</td><td>Infrastructure for tertiary education</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>124</td><td>Infrastructure for vocational education and training and adult learning</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>125</td><td>Housing infrastructure for migrants, refugees and persons under or applying for international protection</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>126</td><td>Housing infrastructure (other than for migrants, refugees and persons under or applying for international protection)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>127</td><td>Other social infrastructure contributing to social inclusion in the community</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>128</td><td>Health infrastructure</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>129</td><td>Health equipment</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>130</td><td>Health mobile assets</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>131</td><td>Digitalisation in health care</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>132</td><td>Critical equipment and supplies necessary to address emergency situation</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>133</td><td>Temporary reception infrastructure for migrants, refugees and persons under or applying for international protection</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>134</td><td>Measures to improve access to employment</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>135</td><td>Measures to promote access to employment of long-term unemployed</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>136</td><td>Specific support for youth employment and socio-economic integration of young people</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>137</td><td>Support for self-employment and business start-ups</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>138</td><td>Support for social economy and social enterprises</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>139</td><td>Measures to modernise and strengthen labour market institutions and services to assess and anticipate skills needs and to ensure timely and tailor-made assistance</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>140</td><td>Support for labour market matching and transitions</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>141</td><td>Support for labour mobility</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>142</td><td>Measures to promote women’s labour market participation and reduce gender-based segregation in the labour market</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>143</td><td>Measures promoting work-life balance, including access to childcare and care for dependent persons</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>144</td><td>Measures for a healthy and well–adapted working environment addressing health risks, including promotion of physical activity</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>145</td><td>Support for the development of digital skills</td><td>0 %</td><td>0 %</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>145a</td><td>Support for the development of skills or access to employment in digital technologies and deep tech innovation, biotechnologies and defence technologies</td><td>0 %</td><td>0 %</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>145b</td><td>Support for the development of skills or access to employment in clean and resource-efficient technologies.</td><td>100 %</td><td>40 %</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>146</td><td>Support for adaptation of workers, enterprises and entrepreneurs to change</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>147</td><td>Measures encouraging active and healthy ageing</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>148</td><td>Support for early childhood education and care (excluding infrastructure)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>149</td><td>Support for primary to secondary education (excluding infrastructure)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>150</td><td>Support for tertiary education (excluding infrastructure)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>151</td><td>Support for adult education (excluding infrastructure)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>152</td><td>Measures to promote equal opportunities and active participation in society</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>153</td><td>Pathways to integration and re-entry into employment for disadvantaged people</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>154</td><td>Measures to improve access of marginalised groups such as the Roma to education, employment and to promote their social inclusion</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>155</td><td>Support to the civil society working with marginalised communities such as the Roma</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>156</td><td>Specific actions to increase participation of third-country nationals in employment</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>157</td><td>Measures for the social integration of third-country nationals</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>158</td><td>Measures to enhancing the equal and timely access to quality, sustainable and affordable services</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>159</td><td>Measures to enhancing the delivery of family and community-based care services</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>160</td><td>Measures to improve the accessibility, effectiveness and resilience of healthcare systems (excluding infrastructure)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>161</td><td>Measures to improve access to long-term care (excluding infrastructure)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>162</td><td>Measures to modernise social protection systems, including promoting access to social protection</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>163</td><td>Promoting social integration of people at risk of poverty or social exclusion, including the most deprived and children</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>164</td><td>Addressing material deprivation through food and/or material assistance to the most deprived, including accompanying measures</td><td>0 %</td><td>0 %</td></tr>
+<tr><td colspan="4">Policy objective 5: A Europe closer to citizens by fostering the sustainable and integrated development of all types of territories and local initiatives</td></tr>
+<tr><td>165</td><td>Protection, development and promotion of public tourism assets and tourism services</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>166</td><td>Protection, development and promotion of cultural heritage and cultural services</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>167</td><td>Protection, development and promotion of natural heritage and eco-tourism other than Natura 2000 sites</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>168</td><td>Physical regeneration and security of public spaces</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>169</td><td>Territorial development initiatives, including preparation of territorial strategies</td><td>0 %</td><td>0 %</td></tr>
+<tr><td colspan="4">Other codes related to policy objectives 1-5</td></tr>
+<tr><td>170</td><td>Improve the capacity of programme authorities and bodies linked to the implementation of the Funds</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>171</td><td>Enhancing cooperation with partners both within and outside the Member State</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>172</td><td>Cross-financing under the ERDF (support to ESF+-type actions necessary for the implementation of the ERDF part of the operation and directly linked to it)</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>173</td><td>Enhancing institutional capacity of public authorities and stakeholders to implement territorial cooperation projects and initiatives in a cross-border, transnational, maritime and inter-regional context</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>174</td><td>Interreg: border crossing management and mobility and migration management</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>175</td><td>Outermost regions: compensation of any additional costs due to accessibility deficit and territorial fragmentation</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>176</td><td>Outermost regions: specific action to compensate additional costs due to size market factors</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>177</td><td>Outermost regions: support to compensate additional costs due to climate conditions and relief difficulties</td><td>40 %</td><td>40 %</td></tr>
+<tr><td>178</td><td>Outermost regions: airports</td><td>0 %</td><td>0 %</td></tr>
+<tr><td colspan="4">Technical assistance</td></tr>
+<tr><td>179</td><td>Information and communication</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>180</td><td>Preparation, implementation, monitoring and control</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>181</td><td>Evaluation and studies, data collection</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>182</td><td>Reinforcement of the capacity of Member State authorities, beneficiaries and relevant partners</td><td>0 %</td><td>0 %</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">Other codes related to operations subject to phased implementation pursuant to Article 118a</td></tr>
+<tr><td>183</td><td>Household waste management: landfill</td><td>0 %</td><td>100 %</td></tr>
+<tr><td>184</td><td>Electricity storage and transmission</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>185</td><td>Natural gas: storage, transmission and distribution</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>186</td><td>Airports</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>187</td><td>Productive investment in large enterprises linked to the low-carbon economy</td><td>40 %</td><td>0 %</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>188</td><td>Productive investments in large enterprises linked primarily to clean and resource-efficient technologies.</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>189</td><td>Productive investments in SMEs linked primarily to clean and resource-efficient technologies.</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>190</td><td>Productive investments in large enterprises linked primarily to biotechnologies.</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>191</td><td>Productive investments in SMEs linked primarily to biotechnologies.</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>192</td><td>Productive investments in large enterprises linked primarily to digital technologies and deep tech innovation.</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>193</td><td>Productive investments in SMEs linked primarily to digital technologies and deep tech innovation.</td><td>0 %</td><td>0 %</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">Other codes related to specific measures to address strategic challenges in the context of the mid-term review</td></tr>
+<tr><td>194</td><td>Productive investment in large firms linked to defence and dual use technology</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>195</td><td>Productive investment in SMEs linked to defence and dual use technology</td><td>0 %</td><td>0 %</td></tr>
+<tr><td>196</td><td>Energy interconnectors and related transmission, distribution, storage and supporting infrastructure</td><td>100 %</td><td>40 %</td></tr>
+<tr><td>197</td><td>Protection of critical infrastructure</td><td>0 %</td><td>40 %</td></tr>
+<tr><td>198</td><td>Defence infrastructure and infrastructure construction and upgrades for dual use, including military mobility</td><td>0 %</td><td>0 %</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td colspan="4">(1)  For the specific objective ‘enabling regions and people to address the social, employment, economic and environmental impacts of the transition towards the Union’s 2030 targets for energy and climate and a climate-neutral economy of the Union by 2050, based on the Paris Agreement’ supported by the JTF, intervention fields under any policy objectives may be used, provided they are consistent with Articles 8 and 9 of the JTF Regulation and are in accordance with the relevant territorial just transition plan. For that specific objective, the coefficient for the calculation of support to climate change objectives is set at 100 % for all intervention fields used.  (2)  Where a Member State’s recognised amount in support for climate objectives under its Recovery and Resilience Plan has been increased following the application of point (e) of Article 18(4) of Regulation (EU) 2021/241, an identical proportionate increase in the level of that Member State’s contribution to its support for climate objectives shall also be applied under cohesion policy.  (3)  The intervention fields are grouped by policy objectives, but their use is not limited to them. Any intervention field can be used under any policy objective. Especially for policy objective 5 all dimension codes under policy objectives 1 to 4 may be chosen in addition to those listed under policy objective 5.  (4)  Large enterprises are all enterprises other than SMEs, including small mid-cap companies.  (5)  If the objective of the measure is that the activity has to process or collect data to enable greenhouse gas emission reductions that result in demonstrated substantial lifecycle greenhouse gas emissions savings; or if the objective of the measure requires data centres to comply with “European Code of Conduct on Data Centre Energy Efficiency”.  (6)  If the objective of the measure is that the activity has to process or collect data to enable greenhouse gas emission reductions that result in demonstrated substantial lifecycle greenhouse gas emissions savings; or if the objective of the measure requires data centres to comply with “European Code of Conduct on Data Centre Energy Efficiency”.  (7)  This code is only available for use where temporary measures for the use of the ERDF in response to exceptional circumstances are implemented pursuant to Article 5(6) ERDF and CF Regulation.  (8)  If the objective of the measure is that the activity has to process or collect data to enable greenhouse gas emission reductions that result in demonstrated substantial lifecycle greenhouse gas emissions savings; or if the objective of the measure requires data centres to comply with “European Code of Conduct on Data Centre Energy Efficiency”.  (9)  If the objective of the measure is (a) to achieve, on average, at least a medium-depth level renovation as defined in Commission Recommendation (EU) 2019/786 of 8 May 2019 on building renovation (OJ L 127, 16.5.2019, p. 34) or (b) to achieve, on average, at least a 30 % reduction of direct and indirect greenhouse gas emissions compared to the ex-ante emissions.  (10)  If the objective of the measure is to achieve, on average, at least a medium-depth level renovation as defined in Commission Recommendation (EU) 2019/786. The renovation of buildings is also meant to include infrastructure in the sense of intervention fields 120 to 127.  (11)  If the objective of the measures concerns the construction of new buildings with a Primary Energy Demand (PED) that is at least 20 % lower than the NZEB requirement (nearly zero-energy building, national directives). The construction of new energy efficient buildings is also meant to include infrastructure in the sense of intervention fields 120 to 127.  (12)  If the objective of the measure is to achieve, on average (a) at least a medium-depth level renovation as defined in Commission Recommendation (EU) 2019/786 or (b), at least a 30 % reduction of direct and indirect greenhouse gas emissions compared to the ex-ante emissions. The renovation of buildings is also meant to include infrastructure in the sense of intervention fields 120 to 127.  (13)  If the objective of the measure relates to the production of electricity or heat from biomass, in line with Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).  (14)  If the objective of the measure relates to the production of electricity or heat from biomass, in line with Directive (EU) 2018/2001; and if the objective of the measure is to achieve at least 80 % greenhouse gas emission savings at the facility from the use of biomass in relation to the greenhouse gas saving methodology and the relative fossil fuel comparator set out in Annex VI to Directive (EU) 2018/2001. If the objective of the measure relates to the production of biofuel from biomass (excluding food and feed crops), in line with Directive (EU) 2018/2001; and if the objective of the measure is to achieve at least 65 % greenhouse gas emission savings at the facility from the use of biomass for this purpose in relation to the greenhouse gas saving methodology and the relative fossil fuel comparator set out in Annex V to Directive (EU) 2018/2001.  (15)  This field cannot be used when supporting fossil fuels under point (h) of Article 7(1) ERDF and Cohesion Fund Regulation.  (16)  In case of high-efficiency cogeneration, if the objective of the measure is to achieve life cycle emissions that are lower than 100gCO2e/kWh or heat/cool produced from waste heat. In the case of district heating/cooling, if the associated infrastructure follows Directive 2012/27/EU of the European Parliament and of the Council of 25 October 2012 on energy efficiency, amending Directives 2009/125/EC and 2010/30/EU and repealing Directives 2004/8/EC and 2006/32/EC (OJ L 315 14.11.2012, p. 1), or the existing infrastructure is refurbished to meet the definition of the efficient district heating and cooling, or the project is an advanced pilot system (control and energy management systems, Internet of Things) or leads to a lower temperature regime in the district heating and cooling system.  (17)  If the objective of the measure is for the constructed system to have an average energy consumption of &lt;= 0.5 kWh or an Infrastructure Leakage Index (ILI) of &lt;= 1.5, and for the renovation activity to decrease the average energy consumption by more than 20 % or decrease leakage by more than 20 %.  (18)  If the objective of the measure for the constructed front-to-end waste water system to have net zero energy use or for the renewal of the front-to-end waste water system to lead to a decreased average energy use by at least 10 % (solely by energy efficiency measures and not by material changes or changes in load).  (19)  If the objective of the measure is to convert at least 50 %, in terms of weight, of the processed separately collected non-hazardous waste into secondary raw materials.  (20)  If the objective of the measure is to turn industrial sites and contaminated land into a natural carbon sink.  (21)  Clean urban transport infrastructure refers to infrastructure that enables the operation of zero-emission rolling stock.  (22)  Clean urban transport rolling stock refers to zero-emission rolling stock.  (23)  If the objective of the measure is in line with Directive (EU) 2018/2001.  (24)  For intervention fields 087 to 091, intervention fields 081, 082 and 086 can be used for elements of the measures that relate to interventions in alternative fuels, including EV charging, or public transport.  (25)  If the objective of the measure relates to electrified trackside and associated subsystems or if there is a plan for electrification or it will be fit for use by zero tailpipe emission trains within 10 years.  (26)  Also applies to bi-mode trains. </td></tr>
+</tbody>
+</table>
+
+**TABLE 2: CODES FOR THE FORM OF SUPPORT DIMENSION (1)**
+
+<table>
+<tbody><tr><td colspan="2">FORM OF SUPPORT</td></tr>
+<tr><td>01</td><td>Grant</td></tr>
+<tr><td>02</td><td>Support through financial instruments: equity or quasi-equity</td></tr>
+<tr><td>03</td><td>Support through financial instruments: loan</td></tr>
+<tr><td>04</td><td>Support through financial instruments: guarantee</td></tr>
+<tr><td>05</td><td>Support through financial instruments: Grants within a financial instrument operation</td></tr>
+<tr><td>06</td><td>Prize</td></tr>
+<tr><td colspan="2">(1)  This table is applicable to the EMFAF for the purpose of Table 12 of Annex VII. </td></tr>
+</tbody>
+</table>
+
+**TABLE 3: CODES FOR THE TERRITORIAL DELIVERY MECHANISM AND TERRITORIAL FOCUS DIMENSION**
+
+<table>
+<tbody><tr><td colspan="3">TERRITORIAL DELIVERY MECHANISM AND TERRITORIAL FOCUS</td></tr>
+<tr><td colspan="2">Integrated territorial investment (ITI)</td><td>ITI focused on sustainable urban development</td></tr>
+<tr><td>01</td><td>Urban neighbourhoods</td><td>x</td></tr>
+<tr><td>02</td><td>Cities, towns and suburbs</td><td>x</td></tr>
+<tr><td>03</td><td>Functional urban areas</td><td>x</td></tr>
+<tr><td>04</td><td>Rural areas</td><td>  </td></tr>
+<tr><td>05</td><td>Mountainous areas</td><td>  </td></tr>
+<tr><td>06</td><td>Islands and coastal areas</td><td>  </td></tr>
+<tr><td>07</td><td>Sparsely populated areas</td><td>  </td></tr>
+<tr><td>08</td><td>Other types of territories targeted</td><td>  </td></tr>
+<tr><td colspan="2">Community-led local development (CLLD)</td><td>CLLD focused on sustainable urban development</td></tr>
+<tr><td>09</td><td>Urban neighbourhoods</td><td>x</td></tr>
+<tr><td>10</td><td>Cities, towns and suburbs</td><td>x</td></tr>
+<tr><td>11</td><td>Functional urban areas</td><td>x</td></tr>
+<tr><td>12</td><td>Rural areas</td><td>  </td></tr>
+<tr><td>13</td><td>Mountainous areas</td><td>  </td></tr>
+<tr><td>14</td><td>Islands and coastal areas</td><td>  </td></tr>
+<tr><td>15</td><td>Sparsely populated areas</td><td>  </td></tr>
+<tr><td>16</td><td>Other types of territories targeted</td><td>  </td></tr>
+<tr><td colspan="2">Other type of territorial tool</td><td>Other type of territorial tool focused on sustainable urban development</td></tr>
+<tr><td>17</td><td>Urban neighbourhoods</td><td>x</td></tr>
+<tr><td>18</td><td>Cities, towns and suburbs</td><td>x</td></tr>
+<tr><td>19</td><td>Functional urban areas</td><td>x</td></tr>
+<tr><td>20</td><td>Rural areas</td><td>  </td></tr>
+<tr><td>21</td><td>Mountainous areas</td><td>  </td></tr>
+<tr><td>22</td><td>Islands and coastal areas</td><td>  </td></tr>
+<tr><td>23</td><td>Sparsely populated areas</td><td>  </td></tr>
+<tr><td>24</td><td>Other types of territories targeted</td><td>  </td></tr>
+<tr><td colspan="3">Other approaches (1)</td></tr>
+<tr><td>25</td><td colspan="2">Urban neighbourhoods</td></tr>
+<tr><td>26</td><td colspan="2">Cities, towns and suburbs</td></tr>
+<tr><td>27</td><td colspan="2">Functional urban areas</td></tr>
+<tr><td>28</td><td colspan="2">Rural areas</td></tr>
+<tr><td>29</td><td colspan="2">Mountainous areas</td></tr>
+<tr><td>30</td><td colspan="2">Islands and coastal areas</td></tr>
+<tr><td>31</td><td colspan="2">Sparsely populated areas</td></tr>
+<tr><td>32</td><td colspan="2">Other types of territories targeted</td></tr>
+<tr><td>33</td><td colspan="2">No territorial targeting</td></tr>
+<tr><td colspan="3">(1)  Other approaches undertaken under policy objectives other than policy objective 5 and not in a form of integrated territorial investment or in form of community-led local development. </td></tr>
+</tbody>
+</table>
+
+**TABLE 4: CODES FOR THE ECONOMIC ACTIVITY DIMENSION**
+
+01 Agriculture and forestry
+
+02 Fisheries
+
+03 Aquaculture
+
+04 Other blue economy sectors
+
+05 Manufacture of food products and beverages
+
+06 Manufacture of textiles and textile products
+
+07 Manufacture of transport equipment
+
+08 Manufacture of computer, electronic and optical products
+
+09 Other unspecified manufacturing industries
+
+10 Construction
+
+11 Mining and quarrying
+
+12 Electricity, gas, steam, hot water and air conditioning
+
+13 Water supply, sewerage, waste management and remediation act
+
+14 Transport and storage
+
+15 Information and communication activities, including telecomm
+
+16 Wholesale and retail trade
+
+17 Tourism, accommodation and food service activities
+
+18 Financial and insurance activities
+
+19 Real estate, renting and business services activities
+
+20 Public administration
+
+21 Education
+
+22 Human health activities
+
+23 Social work activities, community, social and personal services
+
+24 Activities linked to the environment
+
+25 Arts, entertainment, creative industries and recreation
+
+26 Other unspecified services
+
+**TABLE 5: CODES FOR THE LOCATION DIMENSION**
+
+<table>
+<tbody><tr><td colspan="2">LOCATION</td></tr>
+<tr><td>Code</td><td>Location</td></tr>
+<tr><td>  </td><td>Code of region or area where operation is located or carried out, as set out in the common classification of territorial units for statistics (NUTS) provided in Annex I to Regulation (EC) No 1059/2003.</td></tr>
+</tbody>
+</table>
+
+**TABLE 6: CODES FOR ESF+ SECONDARY THEMES**
+
+<table>
+<tbody><tr><td colspan="2">ESF+ SECONDARY THEME</td><td>Coefficient for the calculation of support to climate change objectives</td></tr>
+<tr><td>01</td><td>Contributing to green skills and jobs and the green economy</td><td>100 %</td></tr>
+<tr><td>02</td><td>Developing digital skills and jobs</td><td>0 %</td></tr>
+<tr><td>03</td><td>Investing in research and innovation and smart specialisation</td><td>0 %</td></tr>
+<tr><td>04</td><td>Investing in small and medium-sized enterprises (SMEs)</td><td>0 %</td></tr>
+<tr><td>05</td><td>Non-discrimination</td><td>0 %</td></tr>
+<tr><td>06</td><td>Addressing child poverty</td><td>0 %</td></tr>
+<tr><td>07</td><td>Capacity building of social partners</td><td>0 %</td></tr>
+<tr><td>08</td><td>Capacity building of the civil society organisations</td><td>0 %</td></tr>
+<tr><td>09</td><td>Not applicable</td><td>0 %</td></tr>
+<tr><td>10</td><td>Addressing challenges identified in the European Semester (1)</td><td>0 %</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>11</td><td>Contributing to skills and jobs in digital technologies and deep tech innovation, clean and resource-efficient technologies, biotechnologies and defence technologies</td><td>0 %</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td colspan="3">(1)  Including in their national reform programmes as well as in the relevant country-specific recommendations (adopted in accordance with Articles 121(2) and 148(4) TFEU). </td></tr>
+</tbody>
+</table>
+
+**TABLE 7: CODES FOR ESF+ / ERDF / COHESION FUND / JTF GENDER EQUALITY DIMENSION**
+
+<table>
+<tbody><tr><td colspan="2">ESF+/ERDF/ Cohesion Fund/ JTF gender equality dimension</td><td>Coefficient for the calculation of support to gender equality</td></tr>
+<tr><td>01</td><td>Gender targeting</td><td>100 %</td></tr>
+<tr><td>02</td><td>Gender mainstreaming</td><td>40 %</td></tr>
+<tr><td>03</td><td>Gender neutral</td><td>0 %</td></tr>
+</tbody>
+</table>
+
+**TABLE 8: CODES FOR THE MACRO-REGIONAL AND SEA BASIN STRATEGIES**
+
+<table>
+<tbody><tr><td colspan="2">MACRO-REGIONAL AND SEA BASIN STRATEGIES</td></tr>
+<tr><td>01</td><td>Adriatic & Ionian Region Strategy</td></tr>
+<tr><td>02</td><td>Alpine Region Strategy</td></tr>
+<tr><td>03</td><td>Baltic Sea Region Strategy</td></tr>
+<tr><td>04</td><td>Danube Region Strategy</td></tr>
+<tr><td>05</td><td>Arctic Ocean</td></tr>
+<tr><td>06</td><td>Atlantic Strategy</td></tr>
+<tr><td>07</td><td>Black Sea</td></tr>
+<tr><td>08</td><td>Mediterranean Sea</td></tr>
+<tr><td>09</td><td>North Sea</td></tr>
+<tr><td>10</td><td>Western Mediterranean Strategy</td></tr>
+<tr><td>11</td><td>No contribution to macro-regional or sea basin strategies</td></tr>
+</tbody>
+</table>
+
+## ANNEX II — Template for Partnership Agreement - Article 10(6) ( 30 )
+
+Reference: Article 10(5) of Regulation (EU) 2021/1060 (CPR). The justifications and text fields under points 1-10 of this Annex amount to no more than 35 pages, whereby one page contains on average 3 000 characters without spaces.
+
+<table>
+<tbody><tr><td>CCI</td><td>[15] (1)</td></tr>
+<tr><td>Title</td><td>[255]</td></tr>
+<tr><td>Version</td><td>  </td></tr>
+<tr><td>First year</td><td>[4]</td></tr>
+<tr><td>Last year</td><td>[4]</td></tr>
+<tr><td>Commission decision number</td><td>  </td></tr>
+<tr><td>Commission decision date</td><td>  </td></tr>
+<tr><td colspan="2">(1)  Numbers in square brackets refer to number of characters without spaces. </td></tr>
+</tbody>
+</table>
+
+**1\. Selection of policy objectives and the JTF specific objective**
+
+**Reference: point (a) of Article 11(1) CPR**
+
+**Table 1: Selection of policy objective and JTF specific objective with justification**
+
+| Selected objective | Programme | Fund | Justification for selection of a policy objective or JTF-specific objective |
+| --- | --- | --- | --- |
+|  |  |  | [3 500 per objective] |
+
+**2\. Policy choices, coordination and complementarity ( 31 )**
+
+**Reference: points (b)(i), (ii) and (iii) of Article 11(1) CPR**
+
+A summary of the policy choices and the main results expected for each of the funds covered by the Partnership Agreement – point (b)(i) of Article 11(1) CPR
+
+Text field
+
+Coordination, demarcation and complementarities between the Funds and, where appropriate, coordination between national and regional programmes – point (b)(ii) of Article 11(1) CPR
+
+Text field
+
+Complementarities and synergies between the funds covered by the Partnership Agreement, the AMIF, the ISF, the BMVI, and other Union instruments – point (b)(iii) of Article 11(1) CPR
+
+Text field
+
+**3\. Contribution to the budgetary guarantee under InvestEU with justification ( 32 )**
+
+**Reference: point (g) of Article 11(1) and Article 14 CPR**
+
+**Table 2A: Contribution to InvestEU (breakdown by year)**
+
+<table>
+<tbody><tr><td colspan="2">Contribution from</td><td>Contribution to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>InvestEU window(s)</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 2B: Contribution to InvestEU (summary)**
+
+<table>
+<tbody><tr><td>  </td><td>Category of region</td><td>Window 1 Sustainable Infrastructure</td><td>Window 2 Research, Innovation and Digitisation</td><td>Window 3 SME</td><td>Window 4 Social Investment and Skills </td><td>Total</td></tr>
+<tr><td>  </td><td>  </td><td>(a)</td><td>(b)</td><td>(c)</td><td>(d)</td><td>(f)=(a)+(b)+(c)+(d)</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification taking into account how those amounts contribute to the achievement of policy objectives selected in the Partnership Agreement in line with Art. 10(1) of the InvestEU Regulation)
+
+**4\. Transfers ( 33 )**
+
+<table>
+<tbody><tr><td rowspan="2">MS requests a</td><td>□ transfer between categories of region</td></tr>
+<tr><td>□ transfer to instruments under direct or indirect management</td></tr>
+<tr><td>  </td><td>□ transfer between ERDF, ESF+, Cohesion Fund or to another Fund or Funds</td></tr>
+<tr><td>  </td><td>□ transfer of ERDF and ESF+ resources as complementary support to the JTF</td></tr>
+<tr><td>  </td><td>□ transfers from European territorial cooperation to Investment for jobs and growth</td></tr>
+</tbody>
+</table>
+
+**4.1. Transfer between categories of region**
+
+**Reference: point (e) of Article 11(1) and Article 111 CPR**
+
+**Table 3A: Transfers between categories of region (breakdown by year)**
+
+<table>
+<tbody><tr><td>Transfer from</td><td>Transfer to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Category of region</td><td>Category of region</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td>More developed</td><td rowspan="3">More developed / Transition /  Less developed </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 3B. Transfer between categories of region (summary)**
+
+<table>
+<tbody><tr><td>Category of region</td><td>Allocation by category of region</td><td>Transfer to:</td><td>Transfer amount</td><td>Share of the initial allocation transferred</td><td>Allocation by category of region after the transfer</td></tr>
+<tr><td rowspan="2">Less developed</td><td rowspan="2">  </td><td>More developed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">More developed</td><td rowspan="2">  </td><td>Transition</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">Transition</td><td rowspan="2">  </td><td>More developed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**4.2. Transfers to instruments under direct or indirect management**
+
+**Reference: Article 26(1) CPR**
+
+**Table 4A: Transfers to instruments under direct or indirect management where such possibility is provided for in the basic act (*1) (breakdown by year)**
+
+<table>
+<tbody><tr><td colspan="2">Transfer from</td><td>Transfer to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>Instrument</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">(*1)  Transfers may be made to any other instrument under direct or indirect management, where such possibility is provided for in the basic act. Number and names of the relevant Union instruments will be specified accordingly. </td></tr>
+</tbody>
+</table>
+
+**Table 4B: Transfers to instruments under direct or indirect management where such possibility is provided for in the basic act (*1) (summary)**
+
+<table>
+<tbody><tr><td>Fund</td><td>Category of region</td><td>Instrument 1</td><td>Instrument 2</td><td>Instrument 3</td><td>Instrument 4</td><td>Instrument 5</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="8">(*1)  Transfers may be made to any other instrument under direct or indirect management, where such possibility is provided for in the basic act. Number and names of the relevant Union instruments will be specified accordingly. </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**4.3. Transfers between ERDF, ESF+ and Cohesion Fund or to another Fund or Funds**
+
+**Reference: Article 26(1) CPR**
+
+**Table 5A: Transfers between ERDF, ESF+ and Cohesion Fund and to other Fund or Funds (*1) (breakdown by year)**
+
+<table>
+<tbody><tr><td colspan="2">Transfers from</td><td colspan="2">Transfers to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>Fund</td><td>Category of region (where relevant)</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td rowspan="8">ERDF, ESF+ or Cohesion Fund, EMFAF, AMIF, ISF, BMVI</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="12">(*1)  Transfers between ERDF and ESF+ can only be done within the same category of region. </td></tr>
+</tbody>
+</table>
+
+**Table 5B: Transfers between ERDF, ESF+ and Cohesion Fund or to another Fund or Funds (summary) (*1)**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="2">Transfer to/Transfer from</td><td colspan="3">ERDF</td><td colspan="3">ESF+</td><td rowspan="2">Cohesion Fund</td><td rowspan="2">EMFAF</td><td rowspan="2">AMIF</td><td rowspan="2">ISF</td><td rowspan="2">BMVI</td><td rowspan="2">Total</td></tr>
+<tr><td>More developed</td><td>Transition</td><td>Less developed</td><td>More developed</td><td>Transition</td><td>Less developed</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="14">(*1)  Transfer to other programmes. Transfers between ERDF and ESF+ can only be done within the same category of region. </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**4.4. Transfer of ERDF and ESF+ resources as complementary support to the JTF, with justification ( 34 )**
+
+**Reference: Article 27 CPR**
+
+**Table 6A: Transfer of ERDF and ESF+ resources as complementary support to the JTF (breakdown by year)**
+
+<table>
+<tbody><tr><td>Fund</td><td>Category of region</td><td>Fund</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td rowspan="3">JTF (*1)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td rowspan="3">JTF</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">(*1)  JTF resources should be complemented with ERDF or ESF+ resources of the category of region where the territory concerned is located. </td></tr>
+</tbody>
+</table>
+
+**Table 6B: Transfer of ERDF and ESF+ resources as complementary support to the JTF (summary)**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="3">  </td><td>Article 3 JTF Regulation allocation prior to transfers</td></tr>
+<tr><td>  </td></tr>
+<tr><td>Transfers to JTF to the territory located in (*1):</td></tr>
+<tr><td colspan="2">Transfer (complementary support) per category of region from:</td><td>  </td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td></tr>
+<tr><td>Total</td><td>More developed</td><td>  </td></tr>
+<tr><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td colspan="3">(*1)  JTF resources should be complemented with ERDF or ESF+ resources of the category of region where the territory concerned is located. </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**4.5. Transfers from European territorial cooperation goal (Interreg) to Investment for jobs and growth goal**
+
+**Reference: Article 111(3) CPR**
+
+**Table 7: Transfers from European territorial cooperation goal (Interreg) to Investment for jobs and growth goal**
+
+<table>
+<tbody><tr><td colspan="10">Transfer from European territorial cooperation goal (Interreg)</td></tr>
+<tr><td colspan="2">  </td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td colspan="2">Cross-border</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Transnational</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Outermost</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="10">Transfer to Investment for jobs and growth goal</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td>ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>JTF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**5\. The form of Union contribution for technical assistance**
+
+**Reference: point (f) of Article 11(1) CPR**
+
+<table>
+<tbody><tr><td rowspan="2">The choice of the form of the Union contribution to technical assistance</td><td>□ Technical assistance pursuant to Article 36(4) (*1)</td></tr>
+<tr><td>□ Technical assistance pursuant to Article 36(5) (*2)</td></tr>
+<tr><td colspan="2">(*1)  If chosen table 1 of section 8 is to be filled in.  (*2)  If chosen table 2 of section 8 is to be filled in. </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**6\. Thematic concentration**
+
+**6.1.**
+
+**Reference: Article 4(3) ERDF and CF Regulation**
+
+<table>
+<tbody><tr><td rowspan="3">Member State decides to</td><td>□ comply with thematic concentration at national level</td></tr>
+<tr><td>□ comply with thematic concentration at category of region level</td></tr>
+<tr><td>□ take into account Cohesion Fund resources for the purpose of thematic concentration</td></tr>
+</tbody>
+</table>
+
+**6.2.**
+
+**Reference: point (c) of Article 11(1) CPR and Article 7 ESF+ Regulation**
+
+<table>
+<tbody><tr><td rowspan="3">Member State complies with thematic concentration requirements</td><td>… % social inclusion Programmed under specific objectives (h) – (l) of Article 4 ESF+ Regulation </td><td>Planned ESF+ programmes 1  2 </td></tr>
+<tr><td>… % support to the most deprived Programmed under specific objectives (m), and in duly justified cases (l) of Article 4 ESF+ Regulation </td><td>Planned ESF+ programmes 1  2 </td></tr>
+<tr><td>… % support to youth employment Programmed under specific objectives (a), (f) and (l) of Article 4 ESF+ Regulation </td><td>Planned ESF+ programmes 1  2 </td></tr>
+<tr><td rowspan="2">  </td><td>… % support to tackling child poverty Programmed under specific objectives (f), (h) – (l) of Article 4 ESF+ Regulation </td><td>Planned ESF+ programmes 1  2 </td></tr>
+<tr><td>…% capacity building social partners and NGOs Programmed under all specific objectives except (m) of Article 4 ESF+ Regulation </td><td>Planned ESF+ programmes 1  2 </td></tr>
+</tbody>
+</table>
+
+**7\. Preliminary financial allocation from each of the funds covered by the Partnership Agreement by policy objective, JTF specific objective and technical assistance, at national and where appropriate regional level**
+
+**Reference: point (c) of Article 11(1) CPR**
+
+**Table 8: Preliminary financial allocation from ERDF, Cohesion Fund, JTF, ESF+, EMFAF by policy objective, JTF specific objective and technical assistance (*1)**
+
+<table>
+<tbody><tr><td rowspan="2">Policy objectives, JTF specific objective or technical assistance</td><td colspan="3">ERDF</td><td rowspan="2">Cohesion Fund allocation at national level</td><td colspan="3">JTF (*2)</td><td colspan="3">ESF+</td><td>EMFAF allocation at national level</td><td>Total</td></tr>
+<tr><td>Allocation at national level</td><td>Category of region</td><td>Allocation by category of region</td><td>Allocation at national level</td><td>Article 3 JTF Regulation resources</td><td>Article 4 JTF Regulation resources</td><td>Allocation at national level</td><td>Category of region</td><td>Allocation by category of region</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">Policy objective 1</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td>  </td><td>  </td><td>  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td rowspan="4">Policy objective 2</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td>  </td><td>  </td><td>  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td rowspan="4">Policy objective 3</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td>  </td><td>  </td><td>  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td rowspan="4">Policy objective 4</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td>  </td><td>  </td><td>  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td rowspan="4">Policy objective 5</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td>  </td><td>  </td><td>  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td>JTF specific objective</td><td colspan="3">  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="3">  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">Technical assistance pursuant to Article 36(4) CPR (where relevant)</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td rowspan="4">Technical assistance pursuant to Article 36(5) CPR (where relevant)</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td rowspan="4">Technical assistance pursuant to Article 37 CPR (where relevant)</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td rowspan="4">Total</td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td>  </td><td>  </td><td>  </td><td rowspan="4">  </td><td>More developed</td><td>  </td><td rowspan="4">  </td><td rowspan="4">  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Transition</td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Less developed</td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td></tr>
+<tr><td>Article 7 JTF Regulation resources related to Article 3 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Article 7 JTF Regulation resources related to Article 4 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="13">(*1)  The amount should include the flexibility amounts in accordance with Article 18 CPR that have been preliminarily allocated. The actual allocation of the flexibility amounts will only be confirmed at the mid-term review.  (*2)  JTF amounts after the envisaged complementary support from the ERDF and ESF+. </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**8\. List of planned programmes under the funds covered by the Partnership agreement with the respective preliminary financial allocations by fund and the corresponding national contribution by category of region**
+
+**Reference: point (h) of Article 11(1) and Article 110 CPR**
+
+**Table 9A: List of planned programmes (1) with preliminary financial allocations (*1)**
+
+<table>
+<tbody><tr><td>Title [255]</td><td>Fund</td><td>Category of region</td><td>Union contribution</td><td>National contribution</td><td>Total</td></tr>
+<tr><td rowspan="4">Programme (*2) 1</td><td rowspan="4">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Programme 2</td><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">Programme 3</td><td rowspan="4">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">Programme 4</td><td>JTF allocation (Article 3 JTF Regulation)</td><td>N/A</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>JTF allocation (Article 4 JTF Regulation)</td><td>N/A</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>ERDF, Cohesion Fund, JTF, ESF+</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Programme 5</td><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">(*1)  The amount should include the flexibility amounts in accordance with Article 18 CPR that have been preliminarily allocated. The actual allocation of the flexibility amounts will only be confirmed at the mid-term review.  (*2)  Programmes may have joint support from the Funds in line with Article 25(1) CPR (as priorities may use support from one or more Funds in line with Article 22(2) CPR). Whenever the JTF contributes to a programme, the JTF allocation needs to include complementary transfers and be split to present amounts in accordance with Articles 3 and 4 JTF Regulation.  (1)  In case Article 36(4) CPR technical assistance was chosen. </td></tr>
+</tbody>
+</table>
+
+**Table 9B: List of planned programmes (1) with preliminary financial allocations (*1)**
+
+<table>
+<tbody><tr><td rowspan="2">Title [255]</td><td rowspan="2">Fund</td><td rowspan="2">Category of region</td><td colspan="2">Union contribution</td><td>National contribution</td><td>Total</td></tr>
+<tr><td>Union contribution without technical assistance pursuant to Article 36(5) CPR</td><td>Union contribution for technical assistance pursuant to Article 36(5) CPR</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">Programme (*2) 1</td><td rowspan="4">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Programme 2</td><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">Programme 3</td><td rowspan="4">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">Programme 4</td><td>JTF allocation (Article 3 JTF Regulation)</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>JTF allocation (Article 4 JTF Regulation)</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>ERDF, Cohesion Fund, ESF+, JTF</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Programme 5</td><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>All funds</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">(*1)  The amount should include the flexibility amounts in accordance with Article 18 CPR that have been preliminarily allocated. The actual allocation of the flexibility amounts will only be confirmed at the mid-term review.  (*2)  Programmes may have joint support from the Funds in line with Article 25(1) CPR (as priorities may use support from one or more Funds in line with Article 22(2) CPR). Whenever the JTF contributes to a programme, the JTF allocation needs to include complementary transfers and be split to present amounts in accordance with Articles 3 and 4 JTF Regulation.  (1)  In case Article 36(5) CPR technical assistance was chosen. </td></tr>
+</tbody>
+</table>
+
+**Reference: Article 11 CPR**
+
+**Table 10: List of planned Interreg programmes**
+
+Programme 1 Title 1 [255]
+
+Programme 2 Title 1 [255]
+
+**9\. A summary of actions planned to reinforce administrative capacity of the implementation of the funds covered by the Partnership Agreement**
+
+**Reference: point (i) of Article 11(1) CPR**
+
+Text field [4 500 ]
+
+**10\. An integrated approach to address the demographic challenges and/or specific needs of regions and areas (where appropriate)**
+
+**Reference: point (j) of Article 11(1) CPR and Article 10 ERDF and CF Regulation**
+
+Text field [3 500 ]
+
+**11\. A summary of the assessment of the fulfilment of relevant enabling conditions referred to in Article 15 and Annexes III and IV (optional)**
+
+**Reference: Article 11 CPR**
+
+**Table 11: Enabling conditions**
+
+| Enabling condition | Fund | Selected specific objective (N/A to the EMFAF) | Summary of the assessment |
+| --- | --- | --- | --- |
+|  |  |  | [1 000 ] |
+
+**12\. Preliminary climate contribution target**
+
+**Reference: Article 6(2) and point (d) of Article 11(1) CPR**
+
+<table>
+<tbody><tr><td>Fund</td><td>Preliminary climate contribution (1)</td></tr>
+<tr><td>ERDF</td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>  </td></tr>
+<tr><td colspan="2">(1)  Corresponding to information included or to be included in programmes as a result of the types of intervention and the indicative financial breakdown pursuant to point (d)(viii) of Article 22(3) CPR. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III — Horizontal enabling conditions – Article 15(1)
+
+<table>
+<tbody><tr><td colspan="2">Applicable to all specific objectives</td></tr>
+<tr><td>Name of enabling conditions</td><td>Fulfilment criteria</td></tr>
+<tr><td>Effective monitoring mechanisms of the public procurement market</td><td>Monitoring mechanisms are in place that cover all public contracts and their procurement under the Funds in line with Union procurement legislation. That requirement includes: 1. Arrangements to ensure compilation of effective and reliable data on public procurement procedures above the Union thresholds in accordance with reporting obligations under Articles 83 and 84 of Directive 2014/24/EU and Articles 99 and 100 of Directive 2014/25/EU.  2. Arrangements to ensure the data cover at least the following elements:  (a) quality and intensity of competition: names of winning bidder, number of initial bidders and contractual value;  (b) information on final price after completion and on participation of SMEs as direct bidders, where national systems provide such information.  3. Arrangements to ensure monitoring and analysis of the data by the competent national authorities in accordance with Article 83(2) of Directive 2014/24/EU and Article 99(2) of Directive 2014/25/EU.  4. Arrangements to make the results of the analysis available to the public in accordance with Article 83(3) of Directive 2014/24/EU and Article 99(3) Directive 2014/25/EU.  5. Arrangements to ensure that all information pointing to suspected bid-rigging situations is communicated to the competent national bodies in accordance with Article 83(2) of Directive 2014/24/EU and Article 99(2) of Directive 2014/25/EU. </td></tr>
+<tr><td>Tools and capacity for effective application of State aid rules</td><td>Managing authorities have the tools and capacity to verify compliance with State aid rules: 1. For undertakings in difficulty and undertakings under a recovery requirement.  2. Through access to expert advice and guidance on State aid matters, provided by State aid experts of local or national bodies. </td></tr>
+<tr><td>Effective application and implementation of the Charter of Fundamental Rights</td><td>Effective mechanisms are in place to ensure compliance with the Charter of Fundamental Rights of the European Union ('the Charter') which include: 1. Arrangements to ensure compliance of the programmes supported by the Funds and their implementation with the relevant provisions of the Charter.  2. Reporting arrangements to the monitoring committee regarding cases of non-compliance of operations supported by the Funds with the Charter and complaints regarding the Charter submitted in accordance with the arrangements made pursuant to Article 69(7). </td></tr>
+<tr><td>Implementation and application of the United Nations Convention on the rights of persons with disabilities (UNCRPD) in accordance with Council Decision 2010/48/EC (1)</td><td>A national framework to ensure implementation of the UNCRPD is in place that includes: 1. Objectives with measurable goals, data collection and monitoring mechanisms.  2. Arrangements to ensure that the accessibility policy, legislation and standards are properly reflected in the preparation and implementation of the programmes.  3. Reporting arrangements to the monitoring committee regarding cases of non-compliance of operations supported by the Funds with the UNCRPD and complaints regarding the UNCRPD submitted in accordance with the arrangements made pursuant to Article 69(7). </td></tr>
+<tr><td colspan="2">(1)  Council Decision of 26 November 2009 concerning the conclusion, by the European Community, of the United Nations Convention on the Rights of Persons with Disabilities (OJ L 23, 27.1.2010, p. 35). </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV — Thematic enabling conditions applicable to ERDF, ESF+ and the Cohesion Fund – Article 15(1)
+
+<table>
+<tbody><tr><td>Policy objective</td><td>Specific objective</td><td>Name of enabling condition</td><td>Fulfilment criteria for the enabling condition</td></tr>
+<tr><td rowspan="2">1. A more competitive and smarter Europe by promoting innovative and smart economic transformation and regional ICT connectivity</td><td>ERDF: Developing and enhancing research and innovation capacities and the uptake of advanced technologies  Developing skills for smart specialisation, industrial transition and entrepreneurship </td><td>1.1. Good governance of national or regional smart specialisation strategy</td><td>Smart specialisation strategy or strategies shall be supported by: 1. Up-to-date analysis of challenges for innovation diffusion and digitalisation.  2. Existence of competent regional or national institution or body, responsible for the management of the smart specialisation strategy.  3. Monitoring and evaluation tools to measure performance towards the objectives of the strategy.  4. Functioning of stakeholder co-operation (“entrepreneurial discovery process”).  5. Actions necessary to improve national or regional research and innovation systems, where relevant.  6. Where relevant, actions to support industrial transition.  7. Measures for enhancing cooperation with partners outside a given Member State in priority areas supported by the smart specialisation strategy. </td></tr>
+<tr><td>ERDF: Enhancing digital connectivity </td><td>1.2. National or regional broadband plan</td><td>A national or regional broadband plan is in place which includes: 1. An assessment of the investment gap that needs to be addressed to ensure that all Union citizens have access to very high capacity networks (1), based on:  (a) a recent mapping (2) of existing private and public infrastructure and quality of service using standard broadband mapping indicators;  (b) a consultation on planned investments in line with State aid requirements.  2. The justification of planned public intervention on the basis of sustainable investment models that:  (a) enhance affordability and access to open, quality and future-proof infrastructure and services;  (b) adjust the forms of financial assistance to the identified market failures;  (c) allow for a complementary use of different forms of financing from Union, national or regional sources.  3. Measures to support demand and use of very high capacity networks, including actions to facilitate their roll-out, in particular through the effective implementation of the Directive 2014/61/EU of the European Parliament and of the Council (3).  4. Technical assistance and expert advice mechanisms, such as a Broadband Competence Office, to reinforce the capacity of local stakeholders and advise project promoters.  5. A monitoring mechanism based on standard broadband mapping indicators. </td></tr>
+<tr><td>2. A greener, low-carbon transitioning towards a net zero carbon economy and resilient Europe by promoting clean and fair energy transition, green and blue investment, the circular economy, climate change mitigation and adaptation, risk prevention and management, and sustainable urban mobility</td><td>ERDF and Cohesion Fund: Promoting energy efficiency and reducing greenhouse gas emissions </td><td>2.1. Strategic policy framework to support energy efficiency renovation of residential and non-residential buildings</td><td>1. A national long term renovation strategy to support the renovation of the national stock of residential and non-residential buildings is adopted, in line with the requirements of Directive (EU) 2010/31/EU of the European Parliament and of the Council (4), which: (a) entails indicative milestones for 2030, 2040 and 2050;  (b) provides an indicative outline of financial resources to support the implementation of the strategy;  (c) defines effective mechanisms for promoting investments in building renovation.  2. Energy efficiency improvement measures to achieve required energy savings </td></tr>
+<tr><td>  </td><td>ERDF and Cohesion Fund: Promoting energy efficiency and reducing greenhouse gas emissions  Promoting renewable energy in accordance with Directive (EU) 2018/2001 of the European Parliament and of the Council (5), including the sustainability criteria set out therein </td><td>2.2. Governance of the energy sector</td><td>The integrated national energy and climate plan is notified to the Commission, in accordance with Article 3 of Regulation (EU) 2018/1999 and consistent with the long-term greenhouse gas emission reduction objectives under the Paris Agreement, which includes: 1. All elements required by the template set out in Annex I to Regulation (EU) 2018/1999.  2. An outline of envisaged financial resources and mechanisms for measures promoting low-carbon energy. </td></tr>
+<tr><td>  </td><td>ERDF and Cohesion Fund: Promoting renewable energy in accordance with Directive (EU) 2018/2001, including the sustainability criteria set out therein </td><td>2.3. Effective promotion of the use of renewable energy across sectors and across the Union</td><td>Measures are in place which ensure: 1. Compliance with the 2020 binding national renewable energy target and with this share of renewable energy as a baseline up to 2030 or having taken additional measures in case the baseline is not maintained over any one-year period in accordance with the Directive (EU) 2018/2001 and Regulation (EU) 2018/1999.  2. In accordance with the requirements of Directive (EU) 2018/2001 and Regulation (EU) 2018/1999, an increase of the share of renewable energy in the heating and cooling sector in line with Article 23 of Directive (EU) 2018/2001. </td></tr>
+<tr><td>  </td><td>ERDF and Cohesion Fund: Promoting climate change adaptation, and disaster risk prevention, and resilience, taking into account eco-system based approaches </td><td>2.4. Effective disaster risk management framework.</td><td>A national or regional disaster risk management plan, established on the basis of risk assessments, taking due account of the likely impacts of climate change and the existing climate adaptation strategies, is in place and includes: 1. Description of key risks, assessed in accordance with Article 6(1) of Decision No 1313/2013/EU of the European Parliament and of the Council (6), reflecting the current and evolving risk profile with an indicative 25 to 35 years timespan. The assessment shall build, for climate-related risks, on climate change projections and scenarios.  2. Description of the disaster prevention, preparedness and response measures to address the key risks identified. The measures shall be prioritised in proportion to the risks and their economic impact, capacity gaps (7), effectiveness and efficiency, taking into account possible alternatives.  3. Information on financing resources and mechanisms available for covering the operation and maintenance costs related to prevention, preparedness and response. </td></tr>
+<tr><td>  </td><td>ERDF and Cohesion Fund: Promoting access to water and sustainable water management </td><td>2.5. Updated planning for required investments in water and wastewater sectors</td><td>For each or both sectors, a national investment plan is in place and includes: 1. An assessment of the current state of implementation of Council Directive 91/271/EEC (8) and of Council Directive 98/83/EC (9).  2. The identification and planning of any public investments, including an indicative financial estimation:  (a) required to implement the Directive 91/271/EEC, including a prioritisation with regard to the size of agglomerations and the environmental impact, with investments broken down for each wastewater agglomeration;  (b) required to implement Directive 98/83/EC;  (c) required to match the needs stemming from Directive (EU) 2020/2184 (10) , regarding in particular the revised quality parameters set out in Annex I of that Directive.  3. An estimate of investments needed to renew existing wastewater and water supply infrastructure, including networks, based on their age and depreciation plans.  4. An indication of potential sources of public financing, when needed to complement user charges. </td></tr>
+<tr><td>  </td><td>ERDF and Cohesion Fund: Promoting the transition to a circular and resource efficient economy </td><td>2.6. Updated planning for waste management</td><td>One or more waste management plans as referred to in Article 28 of Directive 2008/98/EC of the European Parliament and of the Council (11) are in place, covering the entire territory of the Member State, and include: 1. An analysis of the current waste management situation in the geographical entity concerned, including the type, quantity and source of waste generated and an evaluation of their future development taking into account the expected impacts of measures set out in the waste prevention programmes developed in accordance with Article 29 of Directive 2008/98/EC.  2. An assessment of existing waste collection schemes, including the material and territorial coverage of separate collection and measures to improve its operation, as well as the need for new collection schemes.  3. An investment gap assessment justifying the need for the closure of existing waste installations and additional or upgraded waste infrastructure, with an information of the sources of revenues available to meet operation and maintenance costs.  4. Information on the location criteria for how future site locations identification will be determined and on the capacity of future waste treatment installations. </td></tr>
+<tr><td>  </td><td>ERDF and Cohesion Fund: Enhancing protection and preservation of nature, biodiversity and green infrastructure, including in urban areas, and reducing all forms of pollution; </td><td>2.7. Prioritised action framework for the necessary conservation measures involving Union co-financing.</td><td>For interventions supporting nature conservation measures in connection with Natura 2000 areas within the scope of Council Directive 92/43/EEC (12): A priority action framework pursuant to Article 8 of Directive 92/43/EEC is in place and includes all elements required by the template for the priority action framework for 2021-2027 agreed by the Commission and the Member States, including the identification of the priority measures and an estimate of financing needs. </td></tr>
+<tr><td>3. A more connected Europe by enhancing mobility</td><td>ERDF and Cohesion Fund: Developing a climate resilient, intelligent, secure, sustainable and intermodal TEN-T;  Developing and enhancing sustainable, climate resilient, intelligent and intermodal national, regional and local mobility, including improved access to TEN-T and cross-border mobility </td><td>3.1. Comprehensive transport planning at the appropriate level</td><td>Multimodal mapping of existing and planned infrastructures, except at local level, until 2030 is in place which: 1. Includes economic assessment of the planned investments, underpinned by demand analysis and traffic modelling, which should take into account the anticipated impact of the opening of the rail services markets.  2. Is consistent with the transport related elements of the integrated national energy and climate plan.  3. Includes investments in TEN-T core network corridors, as defined by the CEF Regulation, in line with the respective TEN-T core network corridors work plans.  4. For investments outside the TEN-T core network corridors, including in cross-border sections, ensures complementarity by providing sufficient connectivity of the urban networks, regions and local communities to the core TEN-T and its nodes.  5. Ensures interoperability of the rail network, and, where relevant, reports on the deployment of ERTMS according to Commission Implementing Regulation (EU) 2017/6 (13).  6. Promotes multimodality, identifying needs for multimodal or transhipment freight and passengers terminals.  7. Includes measures relevant for infrastructure planning aiming at promoting alternative fuels, in line with the relevant national policy frameworks.  8. Presents the results of the assessment of road safety risks in line with existing national road safety strategies, together with a mapping of the affected roads and sections and providing with a prioritisation of the corresponding investments.  9. Provides information on financing resources corresponding to the planned investments and required to cover operation and maintenance costs of the existing and planned infrastructures. </td></tr>
+<tr><td>4. A more social and inclusive Europe implementing the European Pillar of Social Rights</td><td>ERDF: Enhancing the effectiveness and inclusiveness of labour markets and access to quality employment through developing social infrastructure and promoting social economy  ESF+:  Improving access to employment and activation measures for all jobseekers, in particular youth, especially through the implementation of the Youth Guarantee, for long-term unemployed and disadvantaged groups on the labour market, and for inactive people, as well as through promoting self-employment and the social economy  Modernising labour market institutions and services to assess and anticipate skills needs and ensure timely and tailor-made assistance and support to labour market matching, transitions and mobility; </td><td>4.1. Strategic policy framework for active labour market policies</td><td>A strategic policy framework for active labour market policies in the light of the Employment guidelines is in place and includes: 1. Arrangements for conducting jobseekers’ profiling and assessment of their needs.  2. Information on job vacancies and employment opportunities, taking into account the needs of the labour market.  3. Arrangements for ensuring that its design, implementation, monitoring and review is conducted in close cooperation with relevant stakeholders.  4. Arrangements for monitoring, evaluation and review of active labour market policies.  5. For youth employment interventions, evidence-based and targeted pathways towards young people not in employment, education or training including outreach measures and based on quality requirements, taking into account criteria for quality apprenticeships and traineeships, including in the context of Youth Guarantee schemes implementation. </td></tr>
+<tr><td>  </td><td>ERDF: Enhancing the effectiveness and inclusiveness of labour markets and access to quality employment through developing social infrastructure and promoting social economy  ESF+:  Promoting a gender-balanced labour market participation, equal working conditions, and a better work/life balance including through access to affordable childcare, and care for dependent persons </td><td>4.2. National strategic framework for gender equality</td><td>A national strategic policy framework for gender equality is in place that includes: 1. Evidence-based identification of challenges to gender equality.  2. Measures to address gender gaps in employment, pay, pensions, and to promote work-life balance for women and men, including through improving access to early childhood education and care, with targets, while respecting the role and autonomy of the social partners.  3. Arrangements for monitoring, evaluation and review of the strategic policy framework and data collection methods based on sex-disaggregated data.  4. Arrangements for ensuring that its design, implementation, monitoring and review is conducted in close cooperation with relevant stakeholders, including equality bodies, social partners and civil society organisations. </td></tr>
+<tr><td>  </td><td>ERDF: Improving equal access to inclusive and quality services in education, training and lifelong learning through developing infrastructure, including by fostering resilience for distance and on-line education and training;  ESF+:  Improving the quality, inclusiveness, effectiveness and labour market relevance of education and training systems including through validation of non-formal and informal learning, to support acquisition of key competences including entrepreneurial and digital skills, and by promoting the introduction of dual-training systems and apprenticeships;  Promoting lifelong learning, in particular flexible upskilling and reskilling opportunities for all taking into account entrepreneurial and digital skills, better anticipating change and new skills requirements based on labour market needs, facilitating career transitions and promoting professional mobility;  Promoting equal access to and completion of, quality and inclusive education and training, in particular for disadvantaged groups, from early childhood education and care through general and vocational education and training, to tertiary level, as well as adult education and learning, including facilitating learning mobility for all and accessibility for persons with disabilities. </td><td>4.3. Strategic policy framework for the education and training system at all levels.</td><td>A national or regional strategic policy framework for the education and training system is in place and includes: 1. Evidence-based systems for skills anticipation and forecasting.  2. Graduate tracking mechanisms and services for quality and effective guidance for learners of all ages.  3. Measures to ensure equal access to, participation in and completion of quality, affordable, relevant, non-segregated and inclusive education and training, and acquisition of key competences at all levels including higher education.  4. A coordination mechanism covering all levels of education and training, including higher education, and a clear assignment of responsibilities between the relevant national and/or regional bodies.  5. Arrangements for monitoring, evaluation and review of the strategic policy framework.  6. Measures to target low-skilled, low-qualified adults and those with disadvantaged socio-economic backgrounds and upskilling pathways.  7. Measures to support teachers, trainers and academic staff as regards appropriate learning methods, assessment and validation of key competences.  8. Measures to promote mobility of learners and staff and transnational collaboration of education and training providers, including through recognition of learning outcomes and qualifications. </td></tr>
+<tr><td>  </td><td>ERDF: Promoting the socioeconomic inclusion of marginalised communities, low income households and disadvantaged groups including people with special needs, through integrated actions including housing and social services;  ESF+:  Fostering active inclusion with a view to promoting equal opportunities, non-discrimination and active participation, and improving employability, in particular for disadvantaged groups; </td><td>4.4. National strategic policy framework for social inclusion and poverty reduction</td><td>A national or regional strategic policy or legislative framework for social inclusion and poverty reduction is in place that includes: 1. Evidence-based diagnosis of poverty and social exclusion, including child poverty, in particular as regards equal access to quality services for children in vulnerable situations as well as homelessness, spatial and educational segregation, limited access to essential services and infrastructure, and the specific needs of vulnerable people of all ages.  2. Measures to prevent and combat segregation in all fields, including social protection, inclusive labour markets and access to quality services for vulnerable people, including migrants and refugees.  3. Measures for the shift from institutional to family- and community-based care.  4. Arrangements for ensuring that its design, implementation, monitoring and review is conducted in close cooperation with relevant stakeholders, including social partners and relevant civil society organisations. </td></tr>
+<tr><td>  </td><td>ESF+: Promoting the socio-economic integration of marginalised communities such as Roma people; </td><td>4.5. National Roma inclusion strategic policy framework</td><td>The National Roma inclusion strategic policy framework is in place that includes: 1. Measures to accelerate Roma integration, and prevent and eliminate segregation, taking into account the gender dimension and situation of young Roma, and sets baseline and measurable milestones and targets.  2. Arrangements for monitoring, evaluation and review of the Roma integration measures.  3. Arrangements for the mainstreaming of Roma inclusion at regional and local level.  4. Arrangements for ensuring that its design, implementation, monitoring and review is conducted in a close cooperation with the Roma civil society and all other relevant stakeholders, including at the regional and local levels. </td></tr>
+<tr><td>  </td><td>ERDF: Ensuring equal access to health care and fostering resilience of health systems, including primary care and promoting the transition from institutional to family-based and community based care  ESF+:  Enhancing equal and timely access to quality, sustainable and affordable services, including services that promote the access to housing and person-centred care including healthcare; modernising social protection systems, including promoting access to social protection, with a particular focus on children and disadvantaged groups; improving accessibility including for persons with disabilities, effectiveness and resilience of healthcare systems and long-term care services </td><td>4.6. Strategic policy framework for health and long-term care.</td><td>A national or regional strategic policy framework for health is in place that contains: 1. Mapping of health and long-term care needs, including in terms of medical and care staff, to ensure sustainable and coordinated measures.  2. Measures to ensure the efficiency, sustainability, accessibility and affordability of health and long-term care services, including a specific focus on individuals excluded from the health and long-term care systems, including those who are hardest to reach.  3. Measures to promote community and family-based services through de-institutionalisation, including prevention and primary care, home-care and community-based services. </td></tr>
+<tr><td colspan="4">(1)  In line with the objective defined in point (a) of Article 3(2) in conjunction with recital (25) of Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code (OJ L 321, 17.12.2018, p. 36).  (2)  In line with Article 22 of Directive (EU) 2018/1972.  (3)  Directive 2014/61/EU of the European Parliament and of the Council of 15 May 2014 on measures to reduce the cost of deploying high-speed electronic communications networks (OJ L 155, 23.5.2014, p. 1).  (4)  Directive (EU) 2010/31/EU of the European Parliament and of the Council of 19 May 2010 on the energy performance of buildings (OJ L 153, 18.6.2010, p. 13).  (5)  Directive (EU) 2018/2001 of the European Parliament and of the Council of 11 December 2018 on the promotion of the use of energy from renewable sources (OJ L 328, 21.12.2018, p. 82).  (6)  Decision No 1313/2013/EU of the European Parliament and of the Council of 17 December 2013 on a Union Civil Protection Mechanism (OJ L 347, 20.12.2013, p. 924).  (7)  As assessed in the risk management capabilities assessment required under point (b) of Article 6(1) of Decision No 1313/2013.  (8)  Council Directive 91/271/EEC of 21 May 1991 concerning urban waste water treatment (OJ L 135, 30.5.1991, p. 40).  (9)  Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption (OJ L 330, 5.12.1998, p. 32).  (10)  Directive (EU) 2020/2184 of the European Parliament and of the Council of 16 December 2020 on the quality of water intended for human consumption (OJ L 435, 23.12.2020, p. 1).  (11)  Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives (OJ L 312, 22.11.2008, p. 3).  (12)  Council Directive 92/43/EEC of 21 May 1992 on the conservation of natural habitats and of wild fauna and flora (OJ L 206, 22.7.1992, p. 7).  (13)  Commission Implementing Regulation (EU) 2017/6 of 5 January 2017 on the European Rail Traffic Management System European deployment plan (OJ L 3, 6.1.2017, p. 6). </td></tr>
+</tbody>
+</table>
+
+## ANNEX V — Template for programmes supported from the ERDF (Investment for jobs and growth goal), ESF+, the Cohesion Fund, the JTF and the EMFAF – Article 21(3)
+
+<table>
+<tbody><tr><td>CCI</td><td>  </td></tr>
+<tr><td>Title in EN</td><td>[255] (1)</td></tr>
+<tr><td>Title in national language(s)</td><td>[255]</td></tr>
+<tr><td>Version</td><td>  </td></tr>
+<tr><td>First year</td><td>[4]</td></tr>
+<tr><td>Last year</td><td>[4]</td></tr>
+<tr><td>Eligible from</td><td>  </td></tr>
+<tr><td>Eligible until</td><td>  </td></tr>
+<tr><td>Commission decision number</td><td>  </td></tr>
+<tr><td>Commission decision date</td><td>  </td></tr>
+<tr><td>Member State amending decision number</td><td>  </td></tr>
+<tr><td>Member State amending decision entry into force date</td><td>  </td></tr>
+<tr><td>Non substantial transfer (Article 24(5) CPR)</td><td>Yes/No</td></tr>
+<tr><td>NUTS regions covered by the programme (not applicable to the EMFAF)</td><td>  </td></tr>
+<tr><td rowspan="5">Fund(s) concerned</td><td>□ ERDF</td></tr>
+<tr><td>□ Cohesion Fund</td></tr>
+<tr><td>□ ESF+</td></tr>
+<tr><td>□ JTF</td></tr>
+<tr><td>□ EMFAF</td></tr>
+<tr><td>Programme</td><td>□ under Investment for jobs and growth goal for the outermost regions only</td></tr>
+<tr><td colspan="2">(1)  Numbers in square brackets refer to number of characters without spaces. </td></tr>
+</tbody>
+</table>
+
+**1\. Programme strategy: main development challenges and policy responses ( 35 )**
+
+Reference: points (a)(i) to (viii) and point (a)(x) of Article 22(3) and point (b) of Article 22(3) of Regulation (EU) 2021/1060 (CPR)
+
+Text field [30 000 ]
+
+For the Investment for jobs and growth goal:
+
+**Table 1**
+
+<table>
+<tbody><tr><td>Policy objective or JTF specific objective</td><td>Specific objective or dedicated priority (*1)</td><td>Justification (summary)</td></tr>
+<tr><td>  </td><td>  </td><td>[2 000 per specific objective or dedicated ESF+ priority or JTF specific objective]</td></tr>
+<tr><td colspan="3">(*1)  Dedicated priorities according to ESF+ Regulation. </td></tr>
+</tbody>
+</table>
+
+For the EMFAF:
+
+**Table 1A**
+
+<table>
+<tbody><tr><td>Policy objective</td><td>Priority</td><td>SWOT analysis (for each priority)</td><td>Justification (summary)</td></tr>
+<tr><td rowspan="5">  </td><td rowspan="5">  </td><td>Strengths [10 000 per priority] </td><td rowspan="5">[20 000 per priority]</td></tr>
+<tr><td>Weaknesses [10 000 per priority] </td></tr>
+<tr><td>Opportunities [10 000 per priority] </td></tr>
+<tr><td>Threats [10 000 per priority] </td></tr>
+<tr><td>Identification of needs on the basis of the SWOT analysis and taking into account the elements set out in Article 8(5) of the EMFAF Regulation [10 000 per priority] </td></tr>
+</tbody>
+</table>
+
+**2\. Priorities**
+
+Reference: Article 22(2) and point (c) of Article 22(3) CPR
+
+**2.1. Priorities other than technical assistance**
+
+**2.1.1. Title of the priority [300] (repeated for each priority)**
+
+□ This is a priority dedicated to youth employment
+
+□ This is a priority dedicated to social innovative actions
+
+□ This is a priority dedicated to support to the most deprived persons under the specific objective set out in point (m) of Article 4(1) of the ESF+ Regulation (*1)
+
+□ This is a priority dedicated to support to the most deprived persons under the specific objective set out in point (l) of Article 4(1) of the ESF+ Regulation (1)
+
+□ This is a priority dedicated to urban mobility specific objective set out in point (viii) of Article 3(1)(b) of the ERDF and Cohesion Fund Regulation
+
+□ This is a priority dedicated to digital connectivity specific objective set out in point (v) of Article 3(1)(a) of the ERDF and Cohesion Fund Regulation
+
+(*1)
+
+If marked go to section 2.1.1.2.
+
+(1)
+
+In case resources under the specific objective set out in point (l) of Article 4(1) ESF+ Regulation are taken into account for the purposes of Article 7(4) ESF+ Regulation.
+
+2.1.1.1. Specific objective ( 36 ) (repeated for each selected specific objective for priorities other than technical assistance)
+
+2.1.1.1.1. Interventions of the Funds
+
+Reference: points (d)(i), (iii), (iv), (v), (vi) and (vii) of Article 22(3) CPR
+
+The related types of actions – point (d)(i) of Article 22(3) CPR and Article 6 ESF+ Regulation:
+
+Text field [8 000 ]
+
+The main target groups - point (d)(iii) of Article 22(3) CPR:
+
+Text field [1 000 ]
+
+Actions safeguarding equality, inclusion and non-discrimination – point (d)(iv) of Article 22(3) CPR and Article 6 ESF+ Regulation
+
+Text field [2 000 ]
+
+Indication of the specific territories targeted, including the planned use of territorial tools – point (d)(v) of Article 22(3) CPR
+
+Text field [2 000 ]
+
+The interregional, cross-border and transnational actions – point (d)(vi) of Article 22(3) CPR
+
+Text field [2 000 ]
+
+The planned use of financial instruments – point (d)(vii) of Article 22(3) CPR
+
+Text field [1 000 ]
+
+2.1.1.1.2. Indicators
+
+Reference: point (d)(ii) of Article 22(3) CPR and Article 8 ERDF and CF Regulation
+
+**Table 2: Output indicators**
+
+| Priority | Specific objective | Fund | Category of region | ID [5] | Indicator [255] | Measurement unit | Milestone (2024) | Target (2029) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |
+
+Reference: point (d)(ii) of Article 22(3) CPR
+
+**Table 3: Result indicators**
+
+| Priority | Specific objective | Fund | Category of region | ID [5] | Indicator [255] | Measurement unit | Baseline or reference value | Reference year | Target (2029) | Source of data [200] | Comments [200] |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |  |
+
+2.1.1.1.3. Indicative breakdown of the programme resources (EU) by type of intervention (not applicable to the EMFAF)
+
+Reference: point (d)(viii) of Article 22(3) CPR
+
+**Table 4: Dimension 1 – intervention field**
+
+| Priority No | Fund | Category of region | Specific objective | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+**Table 5: Dimension 2 – form of financing**
+
+| Priority No | Fund | Category of region | Specific objective | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+**Table 6: Dimension 3 – territorial delivery mechanism and territorial focus**
+
+| Priority No | Fund | Category of region | Specific objective | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+**Table 7: Dimension 6 – ESF+ secondary themes**
+
+| Priority No | Fund | Category of region | Specific objective | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+**Table 8: Dimension 7 – ESF+ (*1), ERDF, Cohesion Fund and JTF gender equality dimension**
+
+<table>
+<tbody><tr><td>Priority No</td><td>Fund</td><td>Category of region</td><td>Specific objective</td><td>Code</td><td>Amount (EUR)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">(*1)  In principle, 40 % for the ESF+ contributes to gender tracking. 100 % is applicable when Member State chooses to use Article 6 ESF+ Regulation as well as programme specific actions in gender equality. </td></tr>
+</tbody>
+</table>
+
+2.1.1.1.4. Indicative breakdown of the programmed resources (EU) by type of intervention for EMFAF
+
+Reference: point (c) of Article 22(3) CPR
+
+**Table 9: Indicative breakdown of the programmed resources (EU) by type of intervention for EMFAF**
+
+| Priority No | Specific objective | Type of intervention | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+2.1.1.2. Specific objective addressing material deprivation ( 37 )
+
+2.1.1.2.1. Interventions of the Funds
+
+Reference: Article 22(3) CPR and Article 20 and Article 23(1) and (2) ESF+ Regulation
+
+Types of support
+
+Text field [2 000 ]
+
+Main target groups
+
+Text field [2 000 ]
+
+Decryption of the national or regional schemes of support
+
+Text field [2 000 ]
+
+Criteria for the selection of operations ( 38 )
+
+Text field [4 000 ]
+
+2.1.1.2.2. Indicators
+
+**Table 2: Output indicators**
+
+| Priority | Specific objective | Fund | Category of region | ID [5] | Indicator [255] | Measurement unit |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+
+**Table 3: Result indicators**
+
+| Priority | Specific objective | Fund | Category of region | ID [5] | Indicator [255] | Measurement unit | Reference value | Reference year | Source of data [200] | Comments [200] |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+**2.2. Technical assistance priorities**
+
+**2.2.1. Priority for technical assistance pursuant to Article 36(4) CPR (repeated for each such technical assistance priority)**
+
+Reference: point (e) of Article 22(3) CPR
+
+2.2.1.1. Intervention from the Funds
+
+The related types of actions – point (e)(i) of Article 22(3) CPR
+
+Text field [8 000 ]
+
+The main target groups – point (e)(iii) of Article 22(3) CPR
+
+Text field [1 000 ]
+
+2.2.1.2. Indicators
+
+Output indicators with the corresponding milestones and targets
+
+Reference: point (e)(ii) of Article 22(3) CPR
+
+**Table 2: Output indicators**
+
+| Priority | Fund | Category of region | ID [5] | Indicator [255] | Measurement unit | Milestone (2024) | Target (2029) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+2.2.1.3. Indicative breakdown of the programmed resources (EU) by type of intervention
+
+Reference point (e)(iv) of Article 22(3) CPR
+
+**Table 4: Dimension 1 – intervention field**
+
+| Priority No | Fund | Category of region | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+**Table 7: Dimension 6 – ESF+ secondary themes**
+
+| Priority No | Fund | Category of region | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+**Table 8: Dimension 7 – ESF+ (*1), ERDF, Cohesion Fund and JTF gender equality dimension**
+
+<table>
+<tbody><tr><td>Priority No</td><td>Fund</td><td>Category of region</td><td>Code</td><td>Amount (EUR)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(*1)  In principle, 40 % for the ESF+ contributes to gender tracking. 100 % is applicable when Member State chooses to use Article 6 ESF+ Regulation as well as programme specific actions in gender equality. </td></tr>
+</tbody>
+</table>
+
+**Table 9: Indicative breakdown of the programmed resources (EU) by type of intervention for EMFAF**
+
+| Priority No | Specific objective | Type of intervention | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+**2.2.2. Priority for technical assistance pursuant to Article 37 CPR (repeated for each such technical assistance priority)**
+
+Reference: point (f) of Article 22(3) CPR
+
+2.2.2.1. Description of technical assistance under financing not linked to costs – Article 37 CPR
+
+Text field [3 000 ]
+
+2.2.2.2. Indicative breakdown of the programmed resources (EU) by type of intervention
+
+Reference: point (f) of Article 22(3) CPR
+
+**Table 4: Dimension 1 – intervention field**
+
+| Priority No | Fund | Category of region | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+**Table 7: Dimension 6 – ESF+ secondary themes**
+
+| Priority No | Fund | Category of region | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+**Table 8: Dimension 7 – ESF+ (*1), ERDF, Cohesion Fund and JTF gender equality dimension**
+
+<table>
+<tbody><tr><td>Priority No</td><td>Fund</td><td>Category of region</td><td>Code</td><td>Amount (EUR)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="5">(*1)  In principle, 40 % for the ESF+ contributes to gender tracking. 100 % is applicable when Member State chooses to use Article 6 ESF+ Regulation as well as programme specific actions in gender equality. </td></tr>
+</tbody>
+</table>
+
+**Table 9: Indicative breakdown of the programmed resources (EU) by type of intervention for EMFAF**
+
+| Priority No | Specific objective | Type of intervention | Code | Amount (EUR) |
+| --- | --- | --- | --- | --- |
+|  |  |  |  |  |
+
+**3\. Financing plan**
+
+Reference: points (g)(i), (ii) and (iii) of Article 22(3), Article 112(1), (2) and (3), and Articles 14, 26 and 26a CPR
+
+**3.1. Transfers and contributions ( 39 )**
+
+Reference: Articles 14, 26, 26a and 27 CPR
+
+<table>
+<tbody><tr><td rowspan="4">Programme amendment related to</td><td>□ contribution to InvestEU</td></tr>
+<tr><td>□ transfer to instruments under direct or indirect management</td></tr>
+<tr><td>□ transfer between ERDF, ESF+, Cohesion Fund or to another Fund or Funds</td></tr>
+<tr><td>□ Funds contributing to the objectives set out in Article 21c(3) of Regulation (EU) 2021/241 (1)</td></tr>
+<tr><td colspan="2">(1)  Indicate if the programme amendment contributes, in accordance with Article 26a of this Regulation, to the objectives set out in Article 21c(3) of Regulation (EU) 2021/241. If yes, indicate the additional amount by Fund, year and category of region at programme level in Table 21. </td></tr>
+</tbody>
+</table>
+
+**Table 15A: Contribution to InvestEU (*1) (breakdown by year)**
+
+<table>
+<tbody><tr><td colspan="2">Contribution from</td><td>Contribution to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>InvestEU window(s)</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">(*1)  For each new request for contribution, a programme amendment shall set out the total amounts for each year by Fund and by category of region. </td></tr>
+</tbody>
+</table>
+
+**Table 15B: Contributions to InvestEU (*1) (summary)**
+
+<table>
+<tbody><tr><td>  </td><td>Category of region</td><td>Window 1 Sustainable Infrastructure</td><td>Window 2 Innovation and Digitisation</td><td>Window 3 SME</td><td>Window 4 Social Investment and Skills</td><td>Total</td></tr>
+<tr><td>  </td><td>  </td><td>(a)</td><td>(b)</td><td>(c)</td><td>(d)</td><td>(f)=(a)+(b)+(c)+(d)</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="7">(*1)  Cumulative amounts for all contributions done through programme amendments during the programming period. With each new request for contribution, a programme amendment shall set out the total amounts for each year by Fund and by category of region. </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification), taking into account how those amount contribute to the achievement of policy objectives selected in the programme in accordance with Article 10(1) of the InvestEU Regulation.
+
+**Table 16A: Transfers to instruments under direct or indirect management (breakdown by year)**
+
+<table>
+<tbody><tr><td colspan="2">Transfer from</td><td>Transfer to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>Instrument</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 16B: Transfers to instruments under direct or indirect management (*1) (summary)**
+
+<table>
+<tbody><tr><td>Fund</td><td>Category of region</td><td>Instrument 1</td><td>Instrument 2</td><td>Instrument 3</td><td>Instrument 4</td><td>Instrument 5 (*2)</td><td>Total</td></tr>
+<tr><td>  </td><td>  </td><td>(a)</td><td>(b)</td><td>(c)</td><td>(d)</td><td>(e)</td><td>(f)=(a)+(b)+(c)+(d)+(e)</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="8">(*1)  Cumulative amounts for all transfers done through programme amendments during programming period. With each new request for transfer, a programme amendment shall set out the total amounts transferred for each year by Fund and by category of region.  (*2)  Transfers may be made to any other instrument under direct or indirect management, where such possibility is provided for in the basic act. Number and names of the relevant Union instruments will be specified accordingly. </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**Table 17A: Transfers between ERDF, ESF+ and Cohesion Fund or to another Fund or Funds (*1) (breakdown by year)**
+
+<table>
+<tbody><tr><td colspan="2">Transfers from</td><td colspan="2">Transfers to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>Fund</td><td>Category of region (where relevant)</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td rowspan="8">ERDF, ESF+ or Cohesion Fund, EMFAF, AMIF, ISF, BMVI</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="12">(*1)  Transfer to other programmes. Transfers between ERDF and ESF+ can only be done within the same category of region. </td></tr>
+</tbody>
+</table>
+
+**Table 17B: Transfers between ERDF, ESF+ and Cohesion Fund or to another Fund or Funds (*1) (summary)**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="2">  </td><td colspan="3">ERDF</td><td colspan="3">ESF+</td><td rowspan="2">Cohesion Fund</td><td rowspan="2">EMFAF</td><td rowspan="2">AMIF</td><td rowspan="2">ISF</td><td rowspan="2">BMVI</td><td rowspan="2">Total</td></tr>
+<tr><td>More developed</td><td>Transition</td><td>Less developed</td><td>More developed</td><td>Transition</td><td>Less developed</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="14">(*1)  Cumulative amounts for all transfers done through programme amendments during the programming period. With each new request for transfer, a programme amendment shall set out the total amounts transferred for each year by Fund and by category of region. </td></tr>
+</tbody>
+</table>
+
+Text field [3 500 ] (justification)
+
+**Table 21: Resources contributing to the objectives set out in Article 21c(3) of Regulation (EU) 2021/241**
+
+<table>
+<tbody><tr><td>Fund</td><td>Category of region</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td>ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">  </td><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">  </td><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**3.2. JTF: allocation in the programme and transfers ( 40 )**
+
+**3.2.1. JTF allocation to the programme prior to transfers by priority (where relevant) ( 41 )**
+
+Reference: Article 27 CPR
+
+**Table 18: JTF allocation to the programme in accordance with Article 3 JTF Regulation, prior to transfers**
+
+JTF priority 1
+
+JTF priority 2
+
+Total
+
+**3.2.2. Transfers to the JTF as complementary support ( 42 ) (where relevant)**
+
+<table>
+<tbody><tr><td rowspan="2">Transfer to JTF</td><td>□ concerns internal transfers within the programme with JTF allocation</td><td>  </td></tr>
+<tr><td>□ concerns transfers from other programmes to the programme with JTF allocation</td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 18A: Transfers to the JTF within the programme (breakdown by year)**
+
+<table>
+<tbody><tr><td colspan="2">Transfer from</td><td>Transfer to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>JTF priority (*1)</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td rowspan="3">JTF priority 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td rowspan="3">JTF priority 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">(*1)  JTF resources should be complemented with ERDF or ESF+ resources of the category of region where the territory concerned is located. </td></tr>
+</tbody>
+</table>
+
+**Table 18B: Transfer of ERDF and ESF+ resources to the JTF within the programme**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="2">  </td><td colspan="2">JTF allocation in the programme (*1) broken down by category of region, which territory located (*2) in (by JTF priority)</td></tr>
+<tr><td>JTF priority (for each JTF priority)</td><td>Amount</td></tr>
+<tr><td colspan="2">Transfer within the programme (*1) (complementary support) per category of region</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>More developed</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Transition</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Less developed</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">(*1)  Programme with the JTF allocation.  (*2)  JTF resources should be complemented with ERDF or ESF+ resources of the category of region where the territory concerned is located. </td></tr>
+</tbody>
+</table>
+
+**Table 18C: Transfers to the JTF from the other programme(s) (breakdown by year)**
+
+<table>
+<tbody><tr><td colspan="2">Transfer from</td><td>Transfer to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>Fund</td><td>Category of region</td><td>JTF priority (*1)</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td rowspan="3">JTF priority 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td rowspan="3">JTF priority 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="11">(*1)  JTF resources should be complemented with ERDF or ESF+ resources of the category of region where the territory concerned is located. </td></tr>
+</tbody>
+</table>
+
+**Table 18D: Transfer of ERDF and ESF+ resources from other programmes to the JTF in this programme**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="2">  </td><td colspan="2">Complementary support to the JTF in this programme (*1) to the territory located (*3) in a given category of region (by priority):</td></tr>
+<tr><td>JTF priority</td><td>Amount</td></tr>
+<tr><td colspan="2">Transfer(s) from other programme(s) (*2) per category of region</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Total</td><td>  </td><td>  </td></tr>
+<tr><td colspan="4">(*1)  Programme with JTF allocation, which receives complementary support from the ERDF and ESF+.  (*2)  Programme providing the complementary support from the ERDF and ESF+ (source).  (*3)  JTF resources should be complemented with ERDF or ESF+ resources of the category of region where the territory concerned is located. </td></tr>
+</tbody>
+</table>
+
+Text field [3 000 ] Justification for the complementary transfer from ERDF and ESF+ based on the planned types of interventions – point (d)(ix) of Article 22(3) CPR
+
+**3.3. Transfers between categories of region resulting from the mid-term review**
+
+**Table 19A: Transfers between categories of region resulting from the mid-term review, within the programme (breakdown by year)**
+
+<table>
+<tbody><tr><td>Transfer from</td><td>Transfer to</td><td colspan="4">Breakdown by year</td></tr>
+<tr><td>Category of region (*1)</td><td>Category of region (*1)</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td>More developed</td><td rowspan="3">More developed / Transition /  Less developed </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">(*1)  Applicable to ERDF and ESF+ only. </td></tr>
+</tbody>
+</table>
+
+**Table 19B: Transfers between categories of region resulting from the mid-term review, to other programmes (breakdown by year)**
+
+<table>
+<tbody><tr><td>Transfer from</td><td>Transfer to</td><td colspan="4">Breakdown by year</td></tr>
+<tr><td>Category of region (*1)</td><td>Category of region (*1)</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td>More developed</td><td rowspan="3">More developed / Transition /  Less developed </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="6">(*1)  Applicable to ERDF and ESF+ only. </td></tr>
+</tbody>
+</table>
+
+**3.4. Transfers back ( 43 )**
+
+**Table 20A: Transfers back (breakdown by year)**
+
+<table>
+<tbody><tr><td>Transfer from</td><td colspan="2">Transfer to</td><td colspan="8">Breakdown by year</td></tr>
+<tr><td>InvestEU or other Union instrument</td><td>Fund</td><td>Category of region</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td><td>Total</td></tr>
+<tr><td rowspan="8">InvestEU window 1  window 2  window 3  window 4  Union instrument 1  Union instrument 2  […] </td><td rowspan="3">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 20B: Transfers back (*1) (summary)**
+
+<table>
+<tbody><tr><td rowspan="2">From / To</td><td colspan="3">ERDF</td><td colspan="3">ESF+</td><td>Cohesion Fund</td><td>EMFAF</td></tr>
+<tr><td>More developed</td><td>Transition</td><td>Less developed</td><td>More developed</td><td>Transition</td><td>Less developed</td><td>  </td><td>  </td></tr>
+<tr><td>InvestEU</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Window 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Window 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Window 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Window 4</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Instrument 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Instrument 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Instrument 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Instrument 4 (*2)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(*1)  Cumulative amounts for all transfers done through programme amendments during programming period. With each new request for transfer, a programme amendment shall set out the total amounts transferred for each year by Fund and by category of region.  (*2)  Transfers may be made to any other instrument under direct or indirect management, where such possibility is provided for in the basic act. Number and names of the relevant Union instruments will be specified accordingly. </td></tr>
+</tbody>
+</table>
+
+**3.5. Financial appropriations by year**
+
+Reference: point (g)(i) of Article 22(3) CPR and Articles 3, 4 and 7 JTF Regulation.
+
+**Table 10: Financial appropriations by year**
+
+<table>
+<tbody><tr><td colspan="2" rowspan="2">Fund</td><td rowspan="2">Category of region</td><td rowspan="2">2021</td><td rowspan="2">2022</td><td rowspan="2">2023</td><td rowspan="2">2024</td><td rowspan="2">2025</td><td colspan="2">2026</td><td rowspan="2">2026 for EMFAF only </td><td colspan="2">2027</td><td rowspan="2">2027 for EMFAF only </td><td rowspan="2">Total</td></tr>
+<tr><td>Financial appropriation without flexibility amount</td><td>Flexibility amount</td><td>Financial appropriation without flexibility amount</td><td>Flexibility amount</td></tr>
+<tr><td colspan="2" rowspan="4">ERDF (*1)</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="4">ESF+ (*1)</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">JTF (*1)</td><td>Article 3 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Article 4 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Article 7 JTF Regulation resources (related to Article 3 JTF Regulation resources)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Article 7 JTF Regulation resources (related to Article 4 JTF Regulation resources)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Cohesion Fund</td><td>  </td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>EMFAF</td><td>  </td><td>N/A</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="15">(*1)  Amounts after the complementary transfer to the JTF. </td></tr>
+</tbody>
+</table>
+
+**3.6. Total financial appropriations by fund and national co-financing**
+
+Reference: point (g)(ii) of Article 22(3), Article 22(6) and Article 36 CPR
+
+For programmes under the Investment for jobs and growth goal where technical assistance in accordance with Article 36(4) CPR was chosen in the Partnership Agreement.
+
+**Table 11: Total financial appropriations by fund and national co-financing**
+
+<table>
+<tbody><tr><td rowspan="3">Policy/ JTF specific objective number or technical assistance</td><td rowspan="3">Priority</td><td rowspan="3">Basis for calculation Union support (total eligible cost or public contribution)</td><td colspan="2" rowspan="3">Fund</td><td rowspan="3">Category of region (*1)</td><td rowspan="3">Union contribution (a) = (g)+(h) </td><td colspan="2">Breakdown of Union contribution</td><td rowspan="2">National contribution</td><td colspan="2">Indicative breakdown of national contribution</td><td rowspan="2">Total</td><td rowspan="2">Co-financing rate</td></tr>
+<tr><td rowspan="2">Union contribution less the flexibility amount (g)</td><td rowspan="2">Flexibility amount (h) </td><td>public</td><td>private</td></tr>
+<tr><td>(b)=(c)+(d)</td><td>(c)</td><td>(d)</td><td>(e)=(a)+(b)</td><td>(f)=(a)/(e)</td></tr>
+<tr><td rowspan="4">  </td><td rowspan="4">Priority 1</td><td rowspan="4">P/T</td><td colspan="2" rowspan="4">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="4">  </td><td rowspan="4">Priority 2</td><td rowspan="4">  </td><td colspan="2" rowspan="4">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">  </td><td rowspan="3">Priority 3</td><td rowspan="3">  </td><td rowspan="3">JTF (*2)</td><td>Article 3 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Article 4 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Priority 4</td><td>  </td><td colspan="2">Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance</td><td>Priority 5 Technical assistance pursuant to Article 36(4) CPR </td><td>  </td><td colspan="2">ERDF or ESF+ or JTF or Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance</td><td>Priority 6 Technical assistance pursuant to Article 37 CPR </td><td>  </td><td colspan="2">ERDF or ESF+ or JTF or Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="4">  </td><td>  </td><td colspan="2" rowspan="4">Total ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="4">  </td><td>  </td><td colspan="2" rowspan="4">Total ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="2">  </td><td>  </td><td rowspan="2">JTF (*2)</td><td>Article 3 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Article 4 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td colspan="2">Total Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td colspan="2">Grand total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="14">(*1)  For ERDF: less developed, transition, more developed, and, where applicable, special allocation for outermost and northern sparsely populated regions. For ESF+: less developed, transition, more developed and, where applicable, additional allocation for outermost regions. For Cohesion Fund: not applicable. For technical assistance, application of categories of region depends on selection of a fund.  (*2)  Indicate the total JTF resources, including the complementary support transferred from the ERDF and the ESF+. The table shall not include the amounts in accordance to Article 7 JTF Regulation. In case of technical assistance financed from the JTF, the JTF resources should be split into resources related to Articles 3 and 4 JTF Regulation. For Article 4 JTF Regulation, there is no flexibility amount. </td></tr>
+</tbody>
+</table>
+
+For the Investment for jobs and growth goal: programmes using technical assistance according to Article 36(5) CPR in accordance with the choice made in the Partnership Agreement.
+
+**Table 11: Total financial allocations by fund and national contribution**
+
+<table>
+<tbody><tr><td rowspan="6">Policy/JTF specific objective number or technical assistance</td><td rowspan="2">Priority</td><td rowspan="6">Basis for calculation Union support (total eligible cost or public contribution)</td><td colspan="2" rowspan="6">Fund</td><td rowspan="6">Category of region (*1)</td><td rowspan="6">Union contribution (a)=(b)+(c)+(i)+(j) </td><td colspan="4" rowspan="3">Breakdown of Union contribution</td><td rowspan="2">National contribution</td><td colspan="2">Indicative breakdown of national contribution</td><td rowspan="2">Total</td><td rowspan="2">Co-financing rate</td></tr>
+<tr><td>public</td><td>private</td></tr>
+<tr><td rowspan="4">  </td><td>(d)=(e)+(f)</td><td>(e)</td><td>(f)</td><td>(g)=(a)+(d)</td><td>(h)=(a)/(g)</td></tr>
+<tr><td colspan="2">Union contribution</td><td colspan="2">Flexibility amount</td><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td></tr>
+<tr><td>without technical assistance pursuant to Article 36(5)</td><td>for technical assistance pursuant to Article 36(5)</td><td>without technical assistance pursuant to Article 36(5)</td><td>for technical assistance pursuant to Article 36(5)</td></tr>
+<tr><td>(b)</td><td>(c)</td><td>(i)</td><td>(j)</td></tr>
+<tr><td>  </td><td>Priority 1</td><td>P/T</td><td colspan="2">ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">  </td><td rowspan="3">  </td><td rowspan="3">  </td><td colspan="2" rowspan="3">  </td><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">  </td><td rowspan="3">Priority 2</td><td rowspan="3">  </td><td colspan="2" rowspan="3">ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td colspan="2">  </td><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="3">  </td><td rowspan="3">Priority 3</td><td rowspan="3">  </td><td rowspan="3">JTF (*2)</td><td>Article 3 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Article 4 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Priority 4</td><td>  </td><td colspan="2">Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance</td><td>Priority 5 Technical assistance pursuant to Article 37 CPR </td><td>  </td><td colspan="2">ERDF or ESF+ or JTF or Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="3">  </td><td>  </td><td colspan="2" rowspan="3">Total ERDF</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td colspan="2">  </td><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2" rowspan="3">  </td><td>  </td><td colspan="2" rowspan="3">Total ESF+</td><td>More developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Transition</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Less developed</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td colspan="2">  </td><td>Outermost and northern sparsely populated</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td>JTF (*2)</td><td>Article 3 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td>  </td><td>Article 4 JTF Regulation resources</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">  </td><td>  </td><td colspan="2">Total Cohesion Fund</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="2">Grand total</td><td>  </td><td colspan="2">  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="16">(*1)  For ERDF and ESF+: less developed, transition, more developed, and, where applicable special allocation for outermost and northern sparsely populated regions. For Cohesion Fund: not applicable. For technical assistance, application of categories of region depends on the selection of the fund.  (*2)  Indicate the total JTF resources, including the complementary support transferred from the ERDF and the ESF+. The table shall not include the amounts in accordance to Article 7 JTF Regulation. In case of technical assistance financed from the JTF, the JTF resources should be split into resources related to Articles 3 and 4 JTF Regulation. For Article 4 JTF Regulation, there is no flexibility amount. </td></tr>
+</tbody>
+</table>
+
+For the EMFAF:
+
+Reference: point (g)(iii) of Article 22(3) CPR
+
+EMFAF programmes using technical assistance according to Article 36(4) CPR in accordance with the choice made in the Partnership Agreement.
+
+**Table 11A: Total financial allocations by fund and national contribution**
+
+<table>
+<tbody><tr><td>Priority</td><td>Specific objective (nomenclature set out in the EMFAF Regulation)</td><td>Basis for calculation of Union support</td><td>Union contribution</td><td>National public contribution</td><td>Total</td><td>Co-financing rate</td></tr>
+<tr><td rowspan="7">Priority 1</td><td>1.1.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.1.2</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.2</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.3</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.4</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.5</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.6</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">Priority 2</td><td>2.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.2</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Priority 3</td><td>3.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Priority 4</td><td>4.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance pursuant to Article 36(4) CPR</td><td>5.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance pursuant to Article 37 CPR</td><td>5.2</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+EMFAF programmes using technical assistance according to Article 36(5) CPR in accordance with the choice made in the Partnership Agreement.
+
+**Table 11A: Total financial allocations by fund and national contribution**
+
+<table>
+<tbody><tr><td rowspan="2">Priority</td><td rowspan="2">Specific objective (nomenclature set out in the EMFAF Regulation)</td><td rowspan="2">Basis for calculation of Union support</td><td colspan="2">Union contribution</td><td rowspan="2">National public contribution</td><td rowspan="2">Total</td><td rowspan="2">Co-financing rate</td></tr>
+<tr><td>Union contribution without technical assistance pursuant to Article 36(5) CPR</td><td>Union contribution for technical assistance pursuant to Article 36(5) CPR</td></tr>
+<tr><td rowspan="7">Priority 1</td><td>1.1.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.1.2</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.2</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.3</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.4</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.5</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>1.6</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">Priority 2</td><td>2.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>2.2</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Priority 3</td><td>3.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Priority 4</td><td>4.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance (Article 37 CPR)</td><td>5.1</td><td>Public</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**4\. Enabling conditions**
+
+Reference: point (i) of Article 22(3) CPR
+
+**Table 12: Enabling conditions**
+
+| Enabling conditions | Fund | Specific objective (N/A to the EMFAF) | Fulfilment of enabling condition | Criteria | Fulfilment of criteria | Reference to relevant documents | Justification |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  | Yes/No | Criterion 1 | Y/N | [500] | [1 000 ] |
+|  |  |  |  | Criterion 2 | Y/N |  |  |
+
+**5\. Programme authorities**
+
+Reference: point (k) of Article 22(3) and Articles 71 and 84 CPR
+
+**Table 13: Programme authorities**
+
+| Programme authorities | Name of the institution [500] | Contact name [200] | E-mail [200] |
+| --- | --- | --- | --- |
+| Managing authority |  |  |  |
+| Audit authority |  |  |  |
+| Body which receives payments from the Commission |  |  |  |
+| Where applicable, body or, bodies which receive payments from the Commission in case of technical assistance pursuant to Article 36(5) CPR |  |  |  |
+| Accounting function in case this function is entrusted to a body other than the managing authority |  |  |  |
+
+The repartition of the reimbursed amounts for technical assistance pursuant to Article 36(5) CPR if more bodies are identified to receive payments from the Commission.
+
+Reference: Article 22(3) CPR
+
+**Table 13A: The portion of the percentages set out in point (b) of Article 36(5) CPR that would be reimbursed to the bodies which receive payments from the Commission in case of technical assistance pursuant to Article 36(5) CPR (in percentage points)**
+
+<table>
+<tbody><tr><td>Body 1</td><td>p.p.</td></tr>
+<tr><td>Body 2 (*1)</td><td>p.p.</td></tr>
+<tr><td colspan="2">(*1)  Number of bodies defined by a Member State. </td></tr>
+</tbody>
+</table>
+
+**6\. Partnership**
+
+Reference: point (h) of Article 22(3) CPR
+
+Text field [10 000 ]
+
+**7\. Communication and visibility**
+
+Reference: point (j) of Article 22(3) CPR
+
+Text field [4 500 ]
+
+**8\. Use of unit costs, lump sums, flat rates and financing not linked to costs**
+
+Reference: Articles 94 and 95 CPR
+
+**Table 14: Use of unit costs, lump sums, flat rates and financing not linked to costs**
+
+| Intended use of Articles 94 and 95 CPR | YES | NO |
+| --- | --- | --- |
+| From the adoption programme will make use of reimbursement of the Union contribution based on unit costs, lump sums and flat rates under the priority according to Article 94 CPR (if yes, fill in Appendix 1) | □ | □ |
+| From the adoption programme will make use of reimbursement of the Union contribution based on financing not linked to costs according to Article 95 CPR (if yes, fill in Appendix 2) | □ | □ |
+
+**Appendix 1**
+
+**Union contribution based on unit costs, lump sums and flat rates**
+
+**Template for submitting data for the consideration of the Commission (Article 94) CPR**
+
+| Date of submitting the proposal |  |
+| --- | --- |
+|  |  |
+
+This Appendix is not required when Union-level simplified cost options (SCO) established by the delegated act referred to in Article 94(4) CPR are used.
+
+**A. Summary of the main elements**
+
+<table>
+<tbody><tr><td>Priority</td><td>Fund</td><td>Specific objective</td><td>Category of region</td><td>Estimated proportion of the total financial allocation within the priority to which the SCO will be applied in %</td><td colspan="2">Type(s) of operation covered</td><td colspan="2">Indicator triggering reimbursement</td><td>Unit of measurement for the indicator triggering reimbursement</td><td>Type of SCO (standard scale of unit costs, lump sums or flat rates)</td><td>Amount (in EUR) or percentage (in case of flat rates) of the SCO</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Code (1)</td><td>Description</td><td>Code (2)</td><td>Description</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="12">(1)  This refers to the code for the intervention field dimension in Table 1 of Annex I to the CPR and Annex IV to the EMFAF Regulation.  (2)  This refers to the code of a common indicator, if applicable. </td></tr>
+</tbody>
+</table>
+
+**B. Details by type of operation (to be completed for every type of operation)**
+
+Did the managing authority receive support from an external company to set out the simplified costs below?
+
+| If so, please specify which external company | : | Yes/No – Name of external company |
+| --- | --- | --- |
+
+<table>
+<tbody><tr><td>1. Description of the operation type including the timeline for implementation (1)</td><td>  </td></tr>
+<tr><td>2. Specific objective(s)</td><td>  </td></tr>
+<tr><td>3. Indicator triggering reimbursement (2)</td><td>  </td></tr>
+<tr><td>4. Unit of measurement for the indicator triggering reimbursement</td><td>  </td></tr>
+<tr><td>5. Standard scale of unit cost, lump sum or flat rate</td><td>  </td></tr>
+<tr><td>6. Amount per unit of measurement or percentage (for flat rates) of the SCO</td><td>  </td></tr>
+<tr><td>7. Categories of costs covered by the unit cost, lump sum or flat rate</td><td>  </td></tr>
+<tr><td>8. Do these categories of costs cover all eligible expenditure for the operation? (Y/N)</td><td>  </td></tr>
+<tr><td>9. Adjustment(s) method (3)</td><td>  </td></tr>
+<tr><td>10. Verification of the achievement of the units — describe what document(s)/system will be used to verify the achievement of the units delivered  — describe what will be checked and by whom during management verifications  — describe what arrangements will be made to collect and store relevant data/documents </td><td>  </td></tr>
+<tr><td>11. Possible perverse incentives, mitigating measures (4) and the estimated level of risk (high/medium/low)</td><td>  </td></tr>
+<tr><td>12. Total amount (national and Union) expected to be reimbursed by the Commission on this basis</td><td>  </td></tr>
+<tr><td colspan="2">(1)  Envisaged starting date of the selection of operations and envisaged final date of their completion (ref. Article 63(5) CPR).  (2)  For operations encompassing several simplified cost options covering different categories of costs, different projects or successive phases of an operation, the fields 3 to 11 need to be filled in for each indicator triggering reimbursement.  (3)  If applicable, indicate the frequency and timing of the adjustment and a clear reference to a specific indicator (including a link to the website where this indicator is published, if applicable).  (4)  Are there any potential negative implications on the quality of the supported operations and, if so, what measures (e.g. quality assurance) will be taken to offset this risk? </td></tr>
+</tbody>
+</table>
+
+**C. Calculation of the standard scale of unit costs, lump sums or flat rates**
+
+1\. Source of data used to calculate the standard scale of unit costs, lump sums or flat rates (who produced, collected and recorded the data; where the data are stored; cut-off dates; validation, etc.).
+
+2\. Please specify why the proposed method and calculation based on Article 94(2) is relevant to the type of operation.
+
+3\. Please specify how the calculations were made, in particular including any assumptions made in terms of quality or quantities. Where relevant, statistical evidence and benchmarks should be used and, if requested, provided in a format that is usable by the Commission.
+
+4\. Please explain how you have ensured that only eligible expenditure was included in the calculation of the standard scale of unit cost, lump sum or flat rate.
+
+5\. Assessment of the audit authority(ies) of the calculation methodology and amounts and the arrangements to ensure the verification, quality, collection and storage of data.
+
+**Appendix 2**
+
+**Union contribution based on financing not linked to costs**
+
+**Template for submitting data for the consideration of the Commission**
+
+**(Article 95 CPR)**
+
+| Date of submitting the proposal |  |
+| --- | --- |
+|  |  |
+
+This Appendix is not required when amounts for Union-level financing not linked to costs established by the delegated act referred to in Article 95(4) CPR are used.
+
+**A. Summary of the main elements**
+
+<table>
+<tbody><tr><td>Priority</td><td>Fund</td><td>Specific objective</td><td>Category of region</td><td>The amount covered by the financing not linked to costs</td><td colspan="2">Type(s) of operation covered</td><td>Conditions to be fulfilled/results to be achieved triggering reimbursement by the Commission</td><td colspan="2">indicator</td><td>Unit of measurement for the conditions to be fulfilled/results to be achieved triggering reimbursement by the Commission</td><td>Envisaged type of reimbursement method used to reimburse the beneficiary or beneficiaries</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Code (1)</td><td>Description</td><td>  </td><td>Code (2)</td><td>Description</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="12">(1)  This refers to the code for the intervention field dimension in Table 1 of Annex I to the CPR and Annex IV to the EMFAF Regulation.  (2)  This refers to the code of a common indicator, if applicable. </td></tr>
+</tbody>
+</table>
+
+**B. Details by type of operation (to be completed for every type of operation)**
+
+<table>
+<tbody><tr><td>1. Description of the operation type</td><td colspan="3">  </td></tr>
+<tr><td>2. Specific objective(s)</td><td colspan="3">  </td></tr>
+<tr><td>3. Conditions to be fulfilled or results to be achieved</td><td colspan="3">  </td></tr>
+<tr><td>4. Deadline for fulfilment of conditions or results to be achieved</td><td colspan="3">  </td></tr>
+<tr><td>5. Indicator definition</td><td colspan="3">  </td></tr>
+<tr><td>6. Unit of measurement for conditions to be fulfilled/results to be achieved triggering reimbursement by the Commission</td><td colspan="3">  </td></tr>
+<tr><td rowspan="3">7. Intermediate deliverables (if applicable) triggering reimbursement by the Commission with schedule for reimbursements</td><td>Intermediate deliverables</td><td>Envisaged date</td><td>Amounts (in EUR)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>8. Total amount (including Union and national funding)</td><td colspan="3">  </td></tr>
+<tr><td>9. Adjustment(s) method</td><td colspan="3">  </td></tr>
+<tr><td>10. Verification of the achievement of the result or condition (and where relevant, the intermediate deliverables): — describe what document(s)/system will be used to verify the achievement of the result or condition (and where relevant, each of the intermediate deliverables);  — describe how management verifications (including on-the-spot) will be carried out, and by whom;  — describe what arrangements will be made to collect and store relevant data/documents. </td><td colspan="3">  </td></tr>
+<tr><td>11. Use of grants in the form of financing not linked to costs Does the grant provided by Member State to beneficiaries take the form of financing not linked to costs? [Y/N] </td><td colspan="3">  </td></tr>
+<tr><td>12. Arrangements to ensure the audit trail Please list the body(ies) responsible for these arrangements. </td><td colspan="3">  </td></tr>
+</tbody>
+</table>
+
+**Appendix 3**
+
+**List of planned operations of strategic importance with a timetable**
+
+**(Article 22(3) CPR)**
+
+Text field [2 000 ]
+
+**Appendix 4**
+
+**EMFAF action plan for each outermost region**
+
+NB: to be duplicated for each outermost region
+
+Template for submitting data for the consideration of the Commission
+
+| Name of the outermost region |  |
+| --- | --- |
+
+**A. Description of the strategy for the sustainable exploitation of fisheries and the development of the sustainable blue economy**
+
+Text field [30 000 ]
+
+**B. Description of the main actions envisaged and the corresponding financial means**
+
+| Description of the main actions | EMFAF amount allocated (EUR) |
+| --- | --- |
+| Structural support to the fishery and aquaculture sector under the EMFAF Text field [10 000 ] |  |
+| Compensation for the additional costs under Article 24 of the EMFAF Regulation Text field [10 000 ] |  |
+| Other investments in the sustainable blue economy necessary to achieve a sustainable coastal development Text field [10 000 ] |  |
+| TOTAL |  |
+
+**C. Description of the synergies with other sources of Union funding**
+
+Text field [10 000 ]
+
+**D. Additional funding for the implementation of the compensation for the additional costs (State aid)**
+
+Information to be provided for each envisaged scheme/ad hoc aid
+
+<table>
+<tbody><tr><td>Region</td><td>Name of the region(s) (NUTS) (1)</td><td>… …  … </td></tr>
+<tr><td rowspan="2">Granting authority</td><td>Name</td><td>…</td></tr>
+<tr><td>Postal address Web address </td><td>… … </td></tr>
+<tr><td>Title of the aid measure</td><td colspan="2">…</td></tr>
+<tr><td>National legal basis (reference to the relevant national official publication)</td><td colspan="2">… …  … </td></tr>
+<tr><td>Web link to the full text of the aid measure</td><td colspan="2">…</td></tr>
+<tr><td rowspan="2">Type of measure</td><td>□ Scheme</td><td>  </td></tr>
+<tr><td>□ Ad hoc aid</td><td>Name of the beneficiary and the group (2) it belongs to …  … </td></tr>
+<tr><td rowspan="3">Amendment of an existing aid scheme or ad hoc aid</td><td>  </td><td>Commission aid reference</td></tr>
+<tr><td>□ Prolongation</td><td>… … </td></tr>
+<tr><td>□ Modification</td><td>… … </td></tr>
+<tr><td>Duration (3)</td><td>□ Scheme</td><td>dd/mm/yyyy to dd/mm/yyyy</td></tr>
+<tr><td>Date of granting (4)</td><td>□ Ad hoc aid</td><td>dd/mm/yyyy</td></tr>
+<tr><td rowspan="2">Economic sector(s) concerned</td><td>□ All economic sectors eligible to receive aid</td><td>  </td></tr>
+<tr><td>□ Limited to certain sectors: please specify at NACE group level (5)</td><td>… …  …  … </td></tr>
+<tr><td rowspan="2">Type of beneficiary</td><td>□ SME</td><td>  </td></tr>
+<tr><td>□ Large undertakings</td><td>  </td></tr>
+<tr><td rowspan="3">Budget</td><td>Total annual amount of the budget planned under the scheme (6)</td><td>National currency … (full amounts) … </td></tr>
+<tr><td>Overall amount of the ad hoc aid awarded to the undertaking (7)</td><td>National currency … (full amounts) … </td></tr>
+<tr><td>□ For guarantees (8)</td><td>National currency … (full amounts) … </td></tr>
+<tr><td rowspan="6">Aid instrument</td><td colspan="2">□ Grant/Interest rate subsidy</td></tr>
+<tr><td colspan="2">□ Loan/Repayable advances</td></tr>
+<tr><td colspan="2">□ Guarantee (where appropriate with a reference to the Commission decision (9)</td></tr>
+<tr><td colspan="2">□ Tax advantage or tax exemption</td></tr>
+<tr><td colspan="2">□ Provision of risk finance</td></tr>
+<tr><td colspan="2">□ Other (please specify) … </td></tr>
+<tr><td>Motivation</td><td colspan="2">Indicate why a State aid scheme has been established or an ad-hoc aid has been granted, instead of assistance under the EMFAF: □ measure not covered by the national programme;  □ prioritisation in the allocation of funds under the national programme;  □ funding no longer available under the EMFAF;  □ other (please specify) </td></tr>
+<tr><td colspan="3">(1)  NUTS — Nomenclature of Territorial Units for Statistics. Typically, the region is specified at level 2. Regulation (EC) No 1059/2003 of the European Parliament and of the Council of 26 May 2003 on the establishment of a common classification of territorial units for statistics (NUTS) (OJ L 154, 21.6.2003, p. 1) as amended by Commission Regulation (EU) 2016/2066 amending the annexes to Regulation (EC) No 1059/2003 of the European Parliament and of the Council on the establishment of a common classification of territorial units for statistics (NUTS) (OJ L 322, 29.11.2016, p. 1).  (2)  An undertaking for the purposes of rules on competition laid down in the Treaty and for the purposes of this section is any entity engaged in an economic activity, regardless of its legal status and the way in which it is financed (see decision of the Court of Justice in Case C-222/04, Ministero dell’Economia e delle Finanze v Cassa di Risparmio di Firenze SpA et al. [2006] ECR I-289). The Court of Justice has ruled that entities which are controlled (on a legal or on a de facto basis) by the same entity should be considered as one undertaking (Case C-382/99 Netherlands v Commission [2002] ECR I-5163).  (3)  Period during which the granting authority can commit itself to grant the aid.  (4)  ‘Date of granting the aid’ means the date when the legal right to receive the aid is conferred on the beneficiary under the applicable national legal regime.  (5)  NACE Rev. 2 — Statistical Classification of Economic Activities in the European Union. Typically, the sector shall be specified at group level.  (6)  In case of an aid scheme: indicate the annual overall amount of the budget planned under the scheme or the estimated tax loss per year for all aid instruments contained in the scheme.  (7)  In case of an ad hoc aid award: indicate the overall aid amount/tax loss.  (8)  For guarantees, indicate the (maximum) amount of loans guaranteed.  (9)  Where appropriate, reference to the Commission decision approving the methodology to calculate the gross grant equivalent. </td></tr>
+</tbody>
+</table>
+
+## ANNEX VI — Template of a programme for the AMIF, the ISF and the BMVI – Article 21(3)
+
+<table>
+<tbody><tr><td>CCI number</td><td>  </td></tr>
+<tr><td>Title in English</td><td>[255] (1)</td></tr>
+<tr><td>Title in the national language</td><td>[255]</td></tr>
+<tr><td>Version</td><td>  </td></tr>
+<tr><td>First year</td><td>[4]</td></tr>
+<tr><td>Last year</td><td>[4]</td></tr>
+<tr><td>Eligible from</td><td>  </td></tr>
+<tr><td>Eligible until</td><td>  </td></tr>
+<tr><td>Commission decision number</td><td>  </td></tr>
+<tr><td>Commission decision date</td><td>  </td></tr>
+<tr><td>Member State amending decision number</td><td>  </td></tr>
+<tr><td>Member State amending decision entry into force date</td><td>  </td></tr>
+<tr><td>Non substantial transfer (Article 24(5) CPR)</td><td>Yes/No</td></tr>
+<tr><td colspan="2">(1)  Number in square brackets refer to number of characters without spaces. </td></tr>
+</tbody>
+</table>
+
+**1\. Programme strategy: main challenges and policy responses**
+
+Reference: points (a) (iii), (iv), (v) and (ix) Article 22(3) of Regulation (EU) 2021/1060 (CPR)
+
+This section explains how the programme will address the main challenges identified at the national level based on local, regional and national needs assessments and/or strategies. It provides an overview of the state of implementation of relevant Union acquis and the progress achieved on Union action plans, and describes how the Fund will support their development through the programming period.
+
+Text field [15 000 ]
+
+**2\. Specific objectives (repeated for each specific objective other than technical assistance)**
+
+Reference: Article 22(2) and (4) CPR
+
+**2.1. Title of the specific objective [300]**
+
+**2.1.1. Description of a specific objective**
+
+This section describes, for each specific objective, the initial situation, main challenges and proposes responses supported by the Fund. It describes which implementation measures are addressed with the support of the Fund; it provides an indicative list of actions within the scope of Articles 3 and 5 of the AMIF, ISF or BMVI Regulations.
+
+In particular: For operating support, it provides an explanation in line with Article 21 of the AMIF Regulation, Article 16 of the ISF Regulation or Articles 16 and 17 of the BMVI Regulation. It includes an indicative list of beneficiaries with their statutory responsibilities, main tasks to be supported.
+
+Planned use of financial instruments, if applicable.
+
+Text field (16 000 characters)
+
+**2.1.2. Indicators**
+
+Reference: point (e) of Article 22(4) CPR
+
+**Table 1: Output indicators**
+
+| Specific objective | ID [5] | Indicator [255] | Measurement unit | Milestone (2024) | Target (2029) |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+
+**Table 2: Result indicators**
+
+| Specific objective | ID [5] | Indicator [255] | Measurement unit | Baseline | Measurement unit for baseline | Reference year(s) | Target (2029) | Measurement unit for target | Source of data [200] | Comments [200] |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |  |  |
+
+**2.1.3. Indicative breakdown of the programme resources (EU) by type of intervention**
+
+Reference: Article 22(5) CPR; and Article 16(12) AMIF Regulation, Article 13(12) ISF Regulation or Article 13(18) BMVI Regulation
+
+**Table 3: Indicative breakdown**
+
+| Specific objective | Type of intervention | Code | Indicative amount (Euro) |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+**2.2. Technical assistance**
+
+**2.2.1. Description**
+
+Reference: point (f) of Article 22(3), Article 36(5), Article 37, and Article 95 CPR
+
+Text field [5 000 ] (Technical assistance pursuant to Article 36(5) CPR)
+
+Text field [3 000 ] (Technical assistance pursuant to Article 37 CPR)
+
+**2.2.2. Indicative breakdown of technical assistance pursuant to Article 36(5) and Article 37 CPR**
+
+**Table 4: Indicative breakdown**
+
+| Type of intervention | Code | Indicative amount (Euro) |
+| --- | --- | --- |
+|  |  |  |
+
+**3\. Financing plan**
+
+Reference: point (g) Article 22(3) CPR
+
+**3.1. Financial appropriations by year**
+
+**Table 5: Financial appropriations by year**
+
+| Fund | 2021 | 2022 | 2023 | 2024 | 2025 | 2026 | 2027 | Total |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |  |
+
+**3.2. Total financial allocations**
+
+**Table 6: Total financial allocations by fund and national contribution**
+
+<table>
+<tbody><tr><td rowspan="2">Specific objective (SO)</td><td rowspan="2">Type of action</td><td rowspan="2">Basis for calculation Union support (total or public)</td><td rowspan="2">Union contribution (a)</td><td rowspan="2">National contribution (b)=(c)+(d)</td><td colspan="2">Indicative breakdown of national contribution</td><td rowspan="2">Total e=(a)+(b) </td><td rowspan="2">Co-financing rate (f)=(a)/(e)</td></tr>
+<tr><td>public (c)</td><td>private (d)</td></tr>
+<tr><td>SO 1</td><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total for SO 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>SO 2</td><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation or Article 15(4) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(5) of ISF or Article 12(6) of BMVI Regulation or Article 15(5) AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total for SO 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>SO 3</td><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 15(2) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 15(3) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 15(4) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 15(5) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total for SO 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>SO 4</td><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 15(2) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 15(3) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 15(4) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line Article 15(5) of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 20 of AMIF Regulation (‘transfer in’)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>Actions co-financed in line with Article 20 of AMIF Regulation (‘transfer out’)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total for SO 4</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance pursuant to Article 36(5) CPR</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance pursuant to Article 37 CPR</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Grand total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 6A: Pledging plan**
+
+<table>
+<tbody><tr><td>  </td><td colspan="7">Number of persons per year</td></tr>
+<tr><td>Category</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td><td>2026</td><td>2027</td></tr>
+<tr><td>Resettlement</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Humanitarian admission in line with Article 19(2) AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Humanitarian admission of vulnerable persons in line with Article 19(3) AMIF Regulation</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transfer of applicants for or beneficiaries of international protection (‘transfer in’)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Transfer of applicants for or beneficiaries of international protection (‘transfer out’)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>[other categories]</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**3.3. Transfers**
+
+**Table 7: Transfers between shared management funds (1)**
+
+<table>
+<tbody><tr><td>Receiving fund /instrument Transferring fund / instrument </td><td>AMIF</td><td>ISF</td><td>BMVI</td><td>ERDF</td><td>ESF+</td><td>Cohesion Fund</td><td>EMFAF</td><td>Total</td></tr>
+<tr><td>AMIF</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>ISF</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>BMVI</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(1)  Cumulative amounts for all transfers during programming period. </td></tr>
+</tbody>
+</table>
+
+**Table 8: Transfers to instruments under direct or indirect management (1)**
+
+<table>
+<tbody><tr><td>  </td><td>Transfer amount</td></tr>
+<tr><td>Instrument 1[name]</td><td>  </td></tr>
+<tr><td>Instrument 2[name]</td><td>  </td></tr>
+<tr><td>Total</td><td>  </td></tr>
+<tr><td colspan="2">(1)  Cumulative amounts for all transfers during programming period. </td></tr>
+</tbody>
+</table>
+
+**4\. Enabling conditions**
+
+Reference: point (i) of Article 22(3) CPR
+
+**Table 9: Horizontal enabling conditions**
+
+| Enabling condition | Fulfilment of enabling condition | Criteria | Fulfilment of criteria | Reference to relevant documents | Justification |
+| --- | --- | --- | --- | --- | --- |
+|  |  | Criterion 1 | Y/N | [500] | [1 000 ] |
+|  |  | Criterion 2 |  |  |  |
+
+**5\. Programme authorities**
+
+Reference: point (k) of Article 22(3) and Articles 71 and 84 CPR
+
+**Table 10: Programme authorities**
+
+|  | Name of the institution [500] | Contact name and position [200] | e-mail [200] |
+| --- | --- | --- | --- |
+| Managing authority |  |  |  |
+| Audit authority |  |  |  |
+| Body which receives payments from the Commission |  |  |  |
+
+**6\. Partnership**
+
+Reference: point (h) of Article 22(3) CPR
+
+Text field [10 000 ]
+
+**7\. Communication and visibility**
+
+Reference: point (j) of Article 22(3) CPR
+
+Text field [4 500 ]
+
+**8\. Use of unit costs, lump sums, flat rates and financing not linked to costs**
+
+Reference: Articles 94 and 95 CPR
+
+| Intended use of Articles 94 and 95 CPR | YES | NO |
+| --- | --- | --- |
+| From the adoption programme will make use of reimbursement of the Union contribution based on unit costs, lump sums and flat rates under the priority according to Article 94 CPR (if yes, fill in Appendix 1) | □ | □ |
+| From the adoption programme will make use of reimbursement of the Union contribution based on financing not linked to costs according to Article 95 CPR (if yes, fill in Appendix 2) | □ | □ |
+
+**Appendix 1**
+
+**Union contribution based on unit costs, lump sums and flat rates**
+
+**Template for submitting data for the consideration of the Commission**
+
+**(Article 94 CPR)**
+
+| Date of submitting the proposal |  |
+| --- | --- |
+|  |  |
+
+This Appendix is not required when Union-level simplified cost options (SCO) established by the delegated act referred to in Article 94(4) CPR are used.
+
+**A. Summary of the main elements**
+
+<table>
+<tbody><tr><td>Specific objective</td><td>Estimated proportion of the total financial allocation within the specific objective to which the SCO will be applied in %</td><td colspan="2">Type(s) of operation covered</td><td colspan="2">Indicator triggering reimbursement</td><td>Unit of measurement for the indicator triggering reimbursement</td><td>Type of SCO (standard scale of unit costs, lump sums or flat rates)</td><td>Amount (in EUR) or percentage (in case of flat rates) of the SCO</td></tr>
+<tr><td>  </td><td>  </td><td>Code (1)</td><td>Description</td><td>Code (2)</td><td>Description</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(1)  This refers to the code in Annex VI of the AMIF, BMVI and ISF Regulations.  (2)  This refers to the code of a common indicator, if applicable. </td></tr>
+</tbody>
+</table>
+
+**B. Details by type of operation (to be completed for every type of operation)**
+
+Did the managing authority receive support from an external company to set out the simplified costs below?
+
+If so, please specify which external company: Yes/No – Name of external company
+
+<table>
+<tbody><tr><td>1. Description of the operation type including the timeline for implementation (1)</td><td>  </td></tr>
+<tr><td>2. Specific objective(s)</td><td>  </td></tr>
+<tr><td>3. Indicator triggering reimbursement (2)</td><td>  </td></tr>
+<tr><td>4. Unit of measurement for the indicator triggering reimbursement</td><td>  </td></tr>
+<tr><td>5. Standard scale of unit cost, lump sum or flat rate</td><td>  </td></tr>
+<tr><td>6. Amount per unit of measurement or percentage (for flat rates) of the SCO</td><td>  </td></tr>
+<tr><td>7. Categories of costs covered by the unit cost, lump sum or flat rate</td><td>  </td></tr>
+<tr><td>8. Do these categories of costs cover all eligible expenditure for the operation? (Y/N)</td><td>  </td></tr>
+<tr><td>9. Adjustment(s) method (3)</td><td>  </td></tr>
+<tr><td>10. Verification of the achievement of the units [delivered] — describe what document(s)/system will be used to verify the achievement of the units delivered?  — describe what will be checked and by whom during management verifications.  — describe what arrangements will be made to collect and store relevant data/documents </td><td>  </td></tr>
+<tr><td>11. Possible perverse incentives, mitigating measures (4) and the estimated level of risk (high/medium/low)</td><td>  </td></tr>
+<tr><td>12. Total amount (national and Union) expected to be reimbursed by the Commission on this basis</td><td>  </td></tr>
+<tr><td colspan="2">(1)  Envisaged starting date of the selection of operations and envisaged final date of their completion (ref. Article 63(5) CPR).  (2)  For operations encompassing several simplified cost options covering different categories of costs, different projects or successive phases of an operation, the fields 3 to 11 need to be filled in for each indicator triggering reimbursement.  (3)  If applicable, indicate the frequency and timing of the adjustment and a clear reference to a specific indicator (including a link to the website where this indicator is published, if applicable).  (4)  Are there any potential negative implications on the quality of the supported operations and, if so, what measures (e.g. quality assurance) will be taken to offset this risk? </td></tr>
+</tbody>
+</table>
+
+**C. Calculation of the standard scale of unit costs, lump sums or flat rates**
+
+1\. Source of data used to calculate the standard scale of unit costs, lump sums or flat rates (who produced, collected and recorded the data; where the data are stored; cut-off dates; validation, etc.).
+
+2\. Please specify why the proposed method and calculation based on Article 94(2) CPR is relevant to the type of operation.
+
+3\. Please specify how the calculations were made, in particular including any assumptions made in terms of quality or quantities. Where relevant, statistical evidence and benchmarks should be used and, if requested, provided in a format that is usable by the Commission.
+
+4\. Please explain how you have ensured that only eligible expenditure was included in the calculation of the standard scale of unit cost, lump sum or flat rate.
+
+5\. Assessment of the audit authority(ies) of the calculation methodology and amounts and the arrangements to ensure the verification, quality, collection and storage of data.
+
+**Appendix 2**
+
+**Union contribution based on financing not linked to costs**
+
+**Template for submitting data for the consideration of the Commission**
+
+**(Article 95 CPR)**
+
+| Date of submitting the proposal |  |
+| --- | --- |
+|  |  |
+
+This Appendix is not required when amounts for Union-level financing not linked to costs established by the delegated act referred to in Article 95(4) CPR are used.
+
+**A. Summary of the main elements**
+
+<table>
+<tbody><tr><td>Specific objective</td><td>The amount covered by the financing not linked to costs</td><td colspan="2">Type(s) of operation covered</td><td>Conditions to be fulfilled/results to be achieved triggering reimbursement by the Commission</td><td colspan="2">indicator</td><td>Unit of measurement for the conditions to be fulfilled/results to be achieved triggering reimbursement by the Commission</td><td>Envisaged type of reimbursement method used to reimburse the beneficiary or beneficiaries</td></tr>
+<tr><td>  </td><td>  </td><td>Code (1)</td><td>Description</td><td>  </td><td>Code (2)</td><td>Description</td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="9">(1)  Refers to the code in Annex VI of the AMIF, BMVI and ISF Regulations.  (2)  Refers to the code of a common indicator, if applicable. </td></tr>
+</tbody>
+</table>
+
+**B. Details by type of operation (to be completed for every type of operation)**
+
+<table>
+<tbody><tr><td>1. Description of the operation type</td><td colspan="3">  </td></tr>
+<tr><td>2. Specific objective</td><td colspan="3">  </td></tr>
+<tr><td>3. Conditions to be fulfilled or results to be achieved</td><td colspan="3">  </td></tr>
+<tr><td>4. Deadline for fulfilment of conditions or results to be achieved</td><td colspan="3">  </td></tr>
+<tr><td>5. Indicator definition</td><td colspan="3">  </td></tr>
+<tr><td>6. Unit of measurement for conditions to be fulfilled/results to be achieved triggering reimbursement by the Commission</td><td colspan="3">  </td></tr>
+<tr><td rowspan="3">7. Intermediate deliverables (if applicable) triggering reimbursement by the Commission with schedule for reimbursements</td><td>Intermediate deliverables</td><td>Envisaged date</td><td>Amounts (in EUR)</td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>8. Total amount (including Union and national funding)</td><td colspan="3">  </td></tr>
+<tr><td>9. Adjustment(s) method</td><td colspan="3">  </td></tr>
+<tr><td>10. Verification of the achievement of the result or condition (and where relevant, the intermediate deliverables): — describe what document(s)/system will be used to verify the achievement of the result or condition (and where relevant, each of the intermediate deliverables);  — describe what will be checked, by whom and how during management verifications (including on-the-spot);  — describe what arrangements will be made to collect and store relevant data/documents. </td><td colspan="3">  </td></tr>
+<tr><td>11. Use of grants in the form of financing not linked to costs. Does the grant provided by Member State to beneficiaries take the form of financing not linked to costs? [Y/N] </td><td colspan="3">  </td></tr>
+<tr><td>12. Arrangements to ensure the audit trail Please list the body(ies) responsible for these arrangements. </td><td colspan="3">  </td></tr>
+</tbody>
+</table>
+
+**Appendix 3**
+
+**Thematic Facility**
+
+<table>
+<tbody><tr><td>Procedure reference</td><td>Specific objective</td><td>Modality: Specific action/ emergency assistance/ resettlement and humanitarian admission/ transfer of applicants for or beneficiaries of international protection</td><td>Type of intervention</td><td>Union contribution (EUR)</td><td>Pre-financing rate</td></tr>
+<tr><td>&lt;type='N' input='M'&gt;</td><td>&lt;type='N' input='M'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='N' input='M'&gt;</td><td>&lt;type='N' input='M'&gt;</td></tr>
+<tr><td colspan="2">Description of the action</td><td colspan="4">[text]</td></tr>
+<tr><td colspan="3">Member State submits a thematic facility amendment /declines</td><td colspan="3">Date: &lt;type='N' input='M'&gt; Submit/Decline: &lt;type='S’ input='S'&gt; </td></tr>
+<tr><td colspan="3">Comment (if Member State declines or if indicators targets and milestones are not updated a justification should be encoded; tables 1 of point 2.1.3, 1 of point 3.1 and 1 of point 3.2 of this Annex should be revised)</td><td colspan="3">[text]</td></tr>
+</tbody>
+</table>
+
+## ANNEX VII — Template for the transmission of data – Article 42 ( 44 )
+
+**Table 1: Financial information at priority and programme level for the ERDF, the ESF+, the Cohesion Fund, the JTF and the EMFAF (point (a) of Article 42(2))**
+
+<table>
+<tbody><tr><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td><td>8.</td><td>9.</td><td>10.</td><td>11.</td><td>12.</td><td>13.</td></tr>
+<tr><td colspan="7">The financial allocation of the priority based on the programme</td><td colspan="6">Cumulative data on the financial progress of the programme</td></tr>
+<tr><td>Priority</td><td>Specific objective</td><td>Fund</td><td>Category of region (1)</td><td>Basis for the calculation of Union contribution (*1) (Total contribution or public contribution) (*2) </td><td>Total financial allocation by fund and national contribution (EUR)</td><td>Co-financing rate (%) </td><td>Total eligible cost of selected operations (EUR)</td><td>Contribution from the funds to selected operations (EUR)</td><td>Proportion of the total financial allocation (2) covered with selected operations (%) [column 8/ column 6x 100] </td><td>Total eligible expenditure declared by beneficiaries</td><td>Proportion of the total financial allocation covered by eligible expenditure declared by beneficiaries (%) [column 11/column 6x100] </td><td>Number of selected operations</td></tr>
+<tr><td colspan="7">  </td><td>  </td><td>  </td><td>Calculation</td><td>  </td><td>Calculation</td><td>  </td></tr>
+<tr><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='Cu' input='M'&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input='M'&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input='M'&gt;</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Priority 1</td><td>SO 1</td><td>ERDF</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Priority 2</td><td>SO 2</td><td>ESF+</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Priority 3</td><td>SO 3</td><td>Cohesion Fund</td><td>NA</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Priority 4</td><td>SO JTF</td><td>JTF (*1)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Total</td><td>  </td><td>ERDF</td><td>Less developed</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>ERDF</td><td>Transition</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>ERDF</td><td>More developed</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>ERDF</td><td>Special allocation to outermost regions or northern sparsely populated regions</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>ESF+</td><td>Less developed</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>ESF+</td><td>Transition</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>ESF+</td><td>More developed</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>ESF+</td><td>Special allocation to outermost regions or northern sparsely populated regions</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>Cohesion Fund</td><td>N/A</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>EMFAF</td><td>N/A</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Total</td><td>  </td><td>JTF (*1)</td><td>N/A</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='Cu' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td>Grand Total</td><td>  </td><td>All Funds</td><td>  </td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='N' input=' G '&gt;</td><td>  </td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='N' input=' G '&gt;</td><td>&lt;type=‘P’ input='G'&gt;</td><td>&lt;type='N' input=' G '&gt;</td></tr>
+<tr><td colspan="13">(*1)  Amounts including the complementary support transferred from the ERDF and the ESF+.  (*2)  Only total public contribution for the EMFAF.  (1)  It does not apply to the Cohesion Fund, the JTF and the EMFAF.  (2)  For the purposes of this Annex, the data for selected operations will be based on the document setting out the conditions for support in accordance with Article 73(3). </td></tr>
+</tbody>
+</table>
+
+**Table 2: Breakdown of the cumulative financial data by type of intervention for the ERDF, the ESF+, the Cohesion Fund and the JTF (point (a) of Article 42(2))**
+
+<table>
+<tbody><tr><td>Priority</td><td>Specific objective</td><td colspan="2">Characteristics of expenditure</td><td colspan="8">Categorisation dimension</td><td colspan="3">Financial data</td></tr>
+<tr><td>  </td><td>  </td><td>Fund</td><td>Category of region (1)</td><td>1 Intervention field </td><td>2 Form of support </td><td>3 Territorial delivery dimension </td><td>4 Economic activity dimension </td><td>5 Location dimension </td><td>6 ESF+ secondary theme</td><td>7 Gender equality dimension </td><td>8 Macro-regional and sea-basin dimension </td><td>Total eligible cost of selected operations (EUR)</td><td>Total eligible expenditure declared by beneficiaries</td><td>Number of selected operations</td></tr>
+<tr><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td colspan="2">&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='Cu' input='M'&gt;</td><td>&lt;type='Cu' input=M'&gt;</td><td>&lt;type='N' input=M'&gt;</td></tr>
+<tr><td colspan="15">(1)  It does not apply to the Cohesion Fund and the JTF. </td></tr>
+</tbody>
+</table>
+
+**Table 3: Financial information and its breakdown by type of intervention for the AMIF, the ISF and the BMVI (point (a) of Article 42(2))**
+
+<table>
+<tbody><tr><td>Specific objective (repeated for each specific objective)</td><td>Co-financing rate (Annex VI)</td><td colspan="4">Categorisation dimension</td><td colspan="7">Financial data</td></tr>
+<tr><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td></tr>
+<tr><td>  </td><td>  </td><td>Type of intervention (Table 1 of Annex VI, Fund specific regulation</td><td>Type of intervention (Table 2 of Annex VI Fund specific regulation)</td><td>Type of intervention (Table 3 of Annex VI Fund specific regulation)</td><td>Type of intervention (Table 4 of Annex VI Fund specific regulation)</td><td>Total financial allocation (EUR) from the Fund and national contribution</td><td>Total eligible cost of selected operations (EUR)</td><td>Contribution from the funds to selected operations (EUR)</td><td>Proportion of the total financial allocation covered with selected operations (%) [column 8/ column 7 x 100 ] </td><td>Total eligible expenditure declared by beneficiaries (EUR)</td><td>Proportion of the total financial allocation covered by eligible expenditure declared by beneficiaries (%) [column 11/column 7 x 100 ] </td><td>Number of selected operations</td></tr>
+<tr><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type='Cu' input='M'&gt;</td><td>&lt;type='Cu' input=' M '&gt;</td><td>&lt;type='P' input=' G '&gt;</td><td>&lt;type='Cu' input='M'&gt;</td><td>&lt;type='P' input='G'</td><td>&lt;type='Cu' input='M'&gt;</td></tr>
+<tr><td>Subtotal by Specific Objective</td><td>SO1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+**Table 4: Breakdown of the cumulative financial data by type of intervention for the EMFAF (point (a) of Article 42(2))**
+
+<table>
+<tbody><tr><td>Priority</td><td>Specific objective</td><td>Type of intervention (Annex IV of the EMFAF Regulation) </td><td colspan="3">Financial data</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>Total eligible cost of selected operations (EUR)</td><td>Total eligible expenditure declared by beneficiaries</td><td>Number of selected operations</td></tr>
+<tr><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='S’ input='S'&gt;</td><td>&lt;type='Cu' input='M'&gt;</td><td>&lt;type='Cu' input=M'&gt;</td><td>&lt;type='N' input=M'&gt;</td></tr>
+</tbody>
+</table>
+
+**Table 5: Common and programme specific output indicators for the ERDF, the Cohesion Fund, the JTF and the EMFAF (point (b) of Article 42(2))**
+
+<table>
+<tbody><tr><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td><td>8.</td><td>9.</td><td>10.</td><td>11.</td><td>12.</td><td>13.</td></tr>
+<tr><td colspan="13"></td></tr>
+<tr><td colspan="9">Data on output indicators from the programme [extracted from table 2 of point 2.1.1.1.2 of Annex V and table 2 of point 2.1.1.2.2. of Annex V] </td><td colspan="4">Progress in output indicators to date</td></tr>
+<tr><td colspan="13"></td></tr>
+<tr><td>Priority</td><td>Specific objective</td><td>Fund</td><td>Category of region (1)</td><td>ID</td><td>Indicator name</td><td>Indicator breakdown (2) (of which:) </td><td>Measurement unit</td><td>Milestone (2024)</td><td>Target 2029</td><td>Selected operations[dd/mm/yy]</td><td>Implemented operations[dd/mm/yy]</td><td>Comments</td></tr>
+<tr><td>&lt;type='S’ input='G'&gt; (3)</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type='N' input='M'&gt;</td><td>&lt;type='N' input='M'&gt;</td><td>&lt;type='S' input='M'&gt;</td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="13">(1)  It does not apply to the Cohesion Fund, the JTF and the EMFAF.  (2)  It applies only to some indicators. See Commission guidelines for details.  (3)  Legend for the characteristics of fields: type: N=Number, S=String, C=Checkbox; input: M=Manual, S=Selection, G=Generated by system. </td></tr>
+</tbody>
+</table>
+
+**Table 6: Common and programme specific output indicators for the ESF+ (point (b) of Article 42(2))**
+
+<table>
+<tbody><tr><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td><td>8 (1).</td><td colspan="4">9.</td><td colspan="4">10.</td><td colspan="4">11.</td><td>12.</td></tr>
+<tr><td colspan="12">Data on all common output indicators as set out in Annexes I, II and III of the ESF+ Regulation and on programme-specific indicators [extracted from table 2 of point 2.1.1.1.2 of Annex V and table 2 of point 2.1.1.2.2. of Annex V]</td><td colspan="9">Progress in output indicators</td></tr>
+<tr><td>Priority</td><td>Specific objective</td><td>Fund</td><td>Category of region</td><td>ID</td><td>Indicator name</td><td>Measurement unit</td><td>Milestone (2024)</td><td colspan="4">Target 2029 (gender break-down optional)</td><td colspan="4">Values achieved to date [dd/mm/yy] </td><td colspan="4">Achievement ratio</td><td>Comments</td></tr>
+<tr><td>&lt;type='S’ input='G'&gt; (2)</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td colspan="4">&lt;type=‘N’ input='G'&gt;</td><td colspan="4">&lt;type='N' input='M'&gt;</td><td colspan="4">&lt;type='N' input='G'&gt;</td><td>&lt;type='S' input='M'&gt;</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>M</td><td>F</td><td>N</td><td>T</td><td>M</td><td>F</td><td>N</td><td>T</td><td>M</td><td>F</td><td>N</td><td>T</td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="4">  </td><td colspan="4">  </td><td colspan="4">  </td><td>  </td></tr>
+<tr><td colspan="21">(1)  Columns 8, 9, 10 and 11 are not applicable to the indicators in Annex III of the ESF+ Regulation - Common indicators for ESF+ support for addressing material deprivation (point (m) of Article 4(1) ESF+ Regulation).  (2)  Legend for the characteristics of fields: type: N=Number, S=String, C=Checkbox; input: M=Manual, S=Selection, G=Generated by system. </td></tr>
+</tbody>
+</table>
+
+**Table 7: Common output indicators for the AMIF, the ISF and the BMVI (point (b) of Article 42(2))**
+
+<table>
+<tbody><tr><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td><td>8.</td><td>9.</td><td>10.</td></tr>
+<tr><td colspan="7">Data on all common output indicators listed in annex VIII of AMIF/ISF/BMVI Regulations for each specific objective [extracted from Table 1 of point 2.1.2 of Annex VI]</td><td colspan="3">Progress in output indicators to date</td></tr>
+<tr><td rowspan="2">Specific objective</td><td rowspan="2">ID</td><td rowspan="2">Indicator name</td><td rowspan="2">Indicator breakdown (of which)</td><td rowspan="2">Measurement unit</td><td rowspan="2">Milestone (2024)</td><td rowspan="2">Target (2029)</td><td>Planned values in selected operations (1)</td><td>Values achieved (2)</td><td rowspan="2">Comments</td></tr>
+<tr><td>[dd/mm/yy]</td><td>[dd/mm/yy]</td></tr>
+<tr><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type='N' input='M'&gt;</td><td>&lt;type='N' input='M'&gt;</td><td>&lt;type='S' input='M'&gt;</td></tr>
+<tr><td colspan="10">(1)  Including gender and age breakdown, where required.  (2)  Including gender and age breakdown, where required. </td></tr>
+</tbody>
+</table>
+
+**Table 8: Multiple support to enterprises for the ERDF, the Cohesion Fund and the JTF at programme level (point (b) of Article 42(2))**
+
+| 1. | 2. | 3. | 4. | 5. |
+| --- | --- | --- | --- | --- |
+| ID | Indicator name | Indicator breakdown (of which:) | Number of enterprises net of multiple support by [dd/mm/yy] | Comments |
+| <type='S' input='G'> | <type='S' input='G'> | <type='S' input='G'> | <type='N' input='M' > | <type='S' input='M'> |
+| RCO 01 | Enterprises supported | Micro |  |  |
+| RCO 01 | Enterprises supported | Small |  |  |
+| RCO 01 | Enterprises supported | Medium |  |  |
+| RCO 01 | Enterprises supported | Large |  |  |
+| RCO 01 | Enterprises supported | Total | <type='N' input='G'> |  |
+
+**Table 9: Common and programme specific result indicators for the ERDF, the Cohesion Fund, the JTF and the EMFAF (point (b) of Article 42(2))**
+
+<table>
+<tbody><tr><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td><td>8.</td><td>9.</td><td>10.</td><td>11.</td><td>12.</td><td>13.</td><td>14.</td><td>15.</td></tr>
+<tr><td colspan="10">Data on result indicators from the programme [extracted from Table 5 of Annex VII ]</td><td colspan="5">Progress in result indicators to date</td></tr>
+<tr><td rowspan="2">Priority</td><td rowspan="2">Specific objective</td><td rowspan="2">Fund</td><td rowspan="2">Category of region (1)</td><td rowspan="2">ID</td><td rowspan="2">Indicator name</td><td rowspan="2">Indicator breakdown (2) (of which:) </td><td rowspan="2">Measurement unit</td><td rowspan="2">Baseline in the programme</td><td rowspan="2">Target 2029</td><td colspan="2">Selected operations [dd/mm/yy]</td><td colspan="2">Implemented operations [dd/mm/yy]</td><td rowspan="2">Comments</td></tr>
+<tr><td>Baseline</td><td>Planned achievements</td><td>Baseline</td><td>Achieved</td></tr>
+<tr><td>&lt;type='S’ input='G'&gt; (3)</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>  </td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type='N' input='M' &gt;</td><td>&lt;type='N' input='M' &gt;</td><td>&lt;type='N' input='M' &gt;</td><td>&lt;type='N' input='M' &gt;</td><td>&lt;type='S' input='M'&gt;</td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="15">(1)  It does not apply to the Cohesion Fund, the JTF and the EMFAF.  (2)  It applies only to some indicators. See Commission guidelines for details.  (3)  Legend for the characteristics of fields: type: N=Number, S=String, C=Checkbox; input: M=Manual and [also covering automatically upload], S=Selection, G=Generated by system. </td></tr>
+</tbody>
+</table>
+
+**Table 10: Common and programme specific result indicators for the ESF+ (point (b) of Article 42(2))**
+
+<table>
+<tbody><tr><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td><td>8.</td><td>9.</td><td colspan="4">10. (1)</td><td colspan="4">11.</td><td colspan="4">12.</td><td>13.</td></tr>
+<tr><td colspan="13">Data on all common result indicators as set out in Annexes I, II and III of the ESF+ Regulation and on programme specific indicators [extracted from Table 5 of Annex VII and table 3 of point 2.1.1.2.2. of Annex V]</td><td colspan="9">Progress in result indicators</td></tr>
+<tr><td>Priority</td><td>Specific objective</td><td>Fund</td><td>Category of region</td><td>ID</td><td>Indicator name</td><td>Output indicator used as a basis for target setting</td><td>Measurement unit of indicator</td><td>Measurement unit of target</td><td colspan="4">Target 2029 (gender break-down optional)</td><td colspan="4">Values achieved to date [dd/mm/yy] </td><td colspan="4">Achievement ratio</td><td>Comments</td></tr>
+<tr><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td colspan="4">&lt;type=‘N’ input='G'&gt;</td><td colspan="4">&lt;type='N' input='M'&gt;</td><td colspan="4">&lt;type='N' input='G'&gt;</td><td>&lt;type='S' input='M'&gt;</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>M</td><td>F</td><td>N</td><td>T</td><td>M (*1)</td><td>F</td><td>N (*1)</td><td>T</td><td>M</td><td>F</td><td>N</td><td>T</td><td>  </td></tr>
+<tr><td>…</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td colspan="4">  </td><td colspan="4">  </td><td colspan="4">  </td><td>  </td></tr>
+<tr><td colspan="22">(*1)  Not requested for specific objective in point (m) of Article 4(1) ESF+ Regulation.  (1)  Columns 9, 10 and 12 are not applicable to the indicators in Annex III of the ESF+ Regulation - Common indicators for ESF+ support for addressing material deprivation (point (m) of Article 4(1) ESF+ Regulation). </td></tr>
+</tbody>
+</table>
+
+**Table 11: Common result indicators for the AMIF, the ISF and the BMVI (point (a) of Article 42(2))**
+
+<table>
+<tbody><tr><td>1.</td><td>2.</td><td>3.</td><td>4.</td><td>5.</td><td>6.</td><td>7.</td><td>8.</td><td>9.</td><td>10.</td><td>11.</td></tr>
+<tr><td colspan="7">Data on all common result indicators listed in Annex VIII of AMIF/ISF/BMVI Regulations for each specific objective [extracted from Table 2 of point 2.1.2 of Annex VI]</td><td>  </td><td colspan="3">Progress in result indicators to date</td></tr>
+<tr><td rowspan="2">Specific objective</td><td rowspan="2">ID</td><td rowspan="2">Indicator name</td><td rowspan="2">Indicator breakdown (of which)</td><td rowspan="2">Measurement unit (for indicators and baseline)</td><td rowspan="2">Baseline</td><td rowspan="2">Target 2029</td><td rowspan="2">Measurement unit (for target)</td><td>Planned values in selected operations (1)</td><td>Values achieved (2)</td><td rowspan="2">Comments</td></tr>
+<tr><td>[dd/mm/yy]</td><td>[dd/mm/yy]</td></tr>
+<tr><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type=‘N’ input='G'&gt;</td><td>&lt;type='S’ input='G'&gt;</td><td>&lt;type='S' input='M'&gt;</td></tr>
+<tr><td colspan="11">(1)  Including gender and age breakdown, where required.  (2)  Including gender and age breakdown, where required. </td></tr>
+</tbody>
+</table>
+
+**Table 12: Financial instruments data for the Funds (Article 42(3))**
+
+<table>
+<tbody><tr><td>Priority (1)</td><td colspan="3">Characteristics of expenditure</td><td colspan="4">Eligible expenditure by product</td><td colspan="4">Amount of private and public resources mobilised in addition to the contribution from the Funds</td><td colspan="6">Amount of management costs and fees declared as eligible expenditure, including (MCF are to be reported separately in case of direct award and in case of competitive tender) (2):</td><td rowspan="2">Interest and other gains generated by support from the Funds to financial instruments referred to in Article 60</td><td rowspan="2">Resources returned attributable to support from the Funds as referred to in Article 62</td><td rowspan="2">For guarantees, total value of loans, equity or quasi-equity investments in final recipients guaranteed with programme resources and actually disbursed to final recipients</td></tr>
+<tr><td rowspan="2">  </td><td rowspan="2">Fund</td><td rowspan="2">Specific objective</td><td rowspan="2">Category of region (3)</td><td rowspan="2">Loans (form of support code for FI) </td><td rowspan="2">Guarantee (form of support code for FI) </td><td rowspan="2">Equity or quasi-equity (form of support code for FI)</td><td rowspan="2">Grants within a financial instrument operation (form of support code for FI)</td><td rowspan="2">Loans (form of support code for FI) </td><td rowspan="2">Guarantee (form of support code for FI) </td><td rowspan="2">Equity or quasi-equity (form of support code for FI) </td><td rowspan="2">Grants within a financial instrument operation (form of support code for FI) </td><td colspan="3">Management costs and fees for holding funds depending on the financial product operating within the holding fund structure</td><td colspan="3">Management costs and fees for specific funds (set-up either with or without the holding fund structure) by financial product</td></tr>
+<tr><td>Loans</td><td>Guarantees</td><td>Equity</td><td>Loans</td><td>Guarantees</td><td>Equity</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Input = selection</td><td>Input = selection</td><td>Input = selection</td><td>Input = selection</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td><td>Input = manual</td></tr>
+<tr><td colspan="21">(1)  Not applicable to the AMIF, ISF or BMVI.  (2)  In the data exchange system SFC2021 the column should separate possibility to report MCF paid in case of direct of award of contract and in case of competitive tender.  (3)  Not applicable to the Cohesion Fund, JTF, AMIF, BMVI, ISF or EMFAF. </td></tr>
+</tbody>
+</table>
+
+## ANNEX VIII — A forecast of the amount for which the Member State expects to submit payment applications for the current and the subsequent calendar year (Article 69(10))
+
+For each programme, to be filled in by Fund and category of region, where appropriate.
+
+<table>
+<tbody><tr><td rowspan="3">Fund</td><td rowspan="3">Category of region</td><td colspan="3">Expected Union contribution</td></tr>
+<tr><td colspan="2">[current calendar year]</td><td>[subsequent calendar year]</td></tr>
+<tr><td>January - October</td><td>November - December</td><td>January- December</td></tr>
+<tr><td>ERDF</td><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>  </td><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>  </td><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>  </td><td>Outermost regions and Northern sparsely populated regions (1)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Interreg</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>ESF+</td><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>  </td><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>  </td><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>  </td><td>Outermost regions and Northern sparsely populated regions (2)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Cohesion Fund</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>JTF (*1)</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>EMFAF</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>AMIF</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>ISF</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>BMVI</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td colspan="5">(*1)  Amounts including the complementary funding transferred from the ERDF and the ESF+ as appropriate.  (1)  This should only show the specific allocation for outermost regions / Northern sparsely populated regions.  (2)  This should only show the specific allocation for outermost regions/ Northern sparsely populated regions. </td></tr>
+</tbody>
+</table>
+
+## ANNEX IX — Communication and visibility – Articles 47, 49 and 50
+
+1\. The use and technical characteristics of the emblem of the Union (‘the emblem’)
+
+1.1. The emblem shall be prominently featured on all communication materials such as printed or digital products, websites and their mobile views relating to the implementation of an operation, used for the public or for participants.
+
+1.2. The statement ‘Funded by the European Union’ or ‘Co-funded by the European Union’ shall be written in full and placed next to the emblem.
+
+1.3. The typeface to be used in conjunction with the emblem may be any of the following fonts: Arial, Auto, Calibri, Garamond, Trebuchet, Tahoma, Verdana or Ubuntu. Italic, underlined variations or font effects shall not be used.
+
+1.4. The positioning of the text in relation to the emblem shall not interfere with the emblem in any way.
+
+1.5. The font size used shall be proportionate to the size of the emblem.
+
+1.6. The colour of the font shall be reflex blue, black or white depending on the background.
+
+1.7. The emblem shall not be modified or merged with any other graphic elements or texts. If other logos are displayed in addition to the emblem, the emblem shall have at least the same size, measured in height or width, as the biggest of the other logos. Apart from the emblem, no other visual identity or logo must be used to highlight the support from the Union.
+
+1.8. Where several operations are taking place at the same location, supported by the same or different funding instruments, or where further funding is provided for the same operation at a later date, at least one plaque or billboard shall be displayed.
+
+1.9. Graphic standards for the emblem and the definition of standard colours:
+
+(A) SYMBOLIC DESCRIPTION
+
+Against a background of blue sky, twelve golden stars form a circle representing the union of the peoples of Europe. The number of stars is fixed, twelve being the symbol of perfection and unity.
+
+(B) HERALDIC DESCRIPTION
+
+On an azure field a circle of twelve golden mullets, their points not touching.
+
+(C) GEOMETRIC DESCRIPTION
+
+[image]
+
+The emblem has the form of a blue rectangular flag of which the fly is one and a half times the length of the hoist. Twelve gold stars situated at equal intervals form an invisible circle whose centre is the point of intersection of the diagonals of the rectangle. The radius of the circle is equal to one third of the height of the hoist. Each of the stars has five points which are situated on the circumference of an invisible circle whose radius is equal to one eighteenth of the height of the hoist. All the stars are upright, i.e. with one point vertical and two points in a straight line at right angles to the mast. The circle is arranged so that the stars appear in the position of the hours on the face of a clock. Their number is invariable.
+
+(D) REGULATION COLOURS
+
+The emblem is in the following colours: PANTONE REFLEX BLUE for the surface of the rectangle; PANTONE YELLOW for the stars
+
+(E) FOUR-COLOUR PROCESS
+
+If the four-colour process is used, recreate the two standard colours by using the four colours of the four-colour process.
+
+PANTONE YELLOW is obtained by using 100 % ‘Process Yellow’.
+
+PANTONE REFLEX BLUE is obtained by mixing 100 % ‘Process Cyan’ and 80 % ‘Process Magenta’.
+
+INTERNET
+
+PANTONE REFLEX BLUE corresponds in the web-palette colour RGB:0/51/153 (hexadecimal: 003399) and PANTONE YELLOW corresponds in the web-palette colour RGB: 255/204/0 (hexadecimal: FFCC00).
+
+MONOCHROME REPRODUCTION PROCESS
+
+Using black, outline the rectangle in black and print the stars in black on white.
+
+[image]
+
+Using blue (Reflex Blue), use 100 % with the stars reproduced in negative white.
+
+[image]
+
+REPRODUCTION ON A COLOURED BACKGROUND
+
+If there is no alternative to a coloured background, put a white border around the rectangle, the width of the border being 1/25th of the height of the rectangle.
+
+[image]
+
+The principles of the use of the Union emblem by third parties are set out in the Administrative agreement with the Council of Europe regarding the use of the European emblem by third parties ( 45 ).
+
+2\. The licence on intellectual property rights referred to in Article 49(6) shall grant to the Union at least the following rights:
+
+2.1. internal use i.e. right to reproduce, copy and make available the communication and visibility materials to Union’s institutions and agencies, Member States' authorities, and their employees;
+
+2.2. reproduction of the communication and visibility materials by any means and in any form, in whole or in part;
+
+2.3. communication to the public of the communication and visibility materials by using any and all means of communication;
+
+2.4. distribution to the public of the communication and visibility materials (or copies thereof) in any and all forms;
+
+2.5. storage and archiving of the communication and visibility materials;
+
+2.6. sub-licensing of the rights on the communication and visibility materials to third parties.
+
+## ANNEX X — Elements for funding agreements and strategy documents – Article 59(1) and (5)
+
+1\. Required elements of the funding agreement for financial instruments implemented under Article 59(5):
+
+(a) the investment strategy or policy including implementation arrangements, financial products to be offered, final recipients targeted, and envisaged combination with grant support (as appropriate);
+
+(b) a business plan or equivalent documents for the financial instrument to be implemented, including the estimated leverage effect referred to in point (a) of Article 58(3);
+
+(c) the target results that the financial instrument concerned is expected to achieve to contribute to the specific objectives and results of the relevant priority;
+
+(d) provisions for monitoring of the implementation of investments and of deal flows including reporting by the financial instrument to the holding fund and to the managing authority to ensure compliance with Article 42;
+
+(e) audit requirements, such as minimum requirements for documentation to be kept at the level of the financial instrument (and at the level of the holding fund where appropriate) in accordance with Article 82, and requirements in relation to the maintenance of separate records for the different forms of support in compliance with Article 58(6),where applicable, including provisions and requirements regarding access to documents by audit authorities of Member States, Commission auditors and the Court of Auditors in order to ensure a clear audit trail;
+
+(f) requirements and procedures for managing the contribution provided by the programme in accordance with Article 92 and for the forecast of deal flows, including requirements for fiduciary or separate accounting as set out in Article 59;
+
+(g) requirements and procedures for managing interest and other gains generated as referred to in Article 60, including acceptable treasury operations or investments, and the responsibilities and liabilities of the parties concerned;
+
+(h) provisions regarding the calculation and payment of management costs incurred or of the management fees of the financial instrument in compliance with point (d) of Article 68(1);
+
+(i) provisions regarding the re-use of resources attributable to the support from the Funds in compliance with Article 62 and an exit policy for the contribution from the Funds out of the financial instrument;
+
+(j) conditions for a possible total or partial withdrawal of programme contributions from programmes to financial instruments, including the holding fund where applicable;
+
+(k) provisions to ensure that bodies implementing financial instruments manage financial instruments with independence and in accordance with the relevant professional standards, and act in the exclusive interest of the parties providing contributions to the financial instrument;
+
+(l) provisions for the winding-up of the financial instrument;
+
+(m) other terms and conditions for making contributions from the programme to the financial instrument;
+
+(n) terms and conditions to ensure that through contractual arrangements final recipients comply with the requirements of displaying of durable plaques or billboards in accordance with point (c) of Article 50(1), and other arrangements to ensure compliance with Article 50 and Annex IX for the acknowledgement of support from the Funds;
+
+(o) appraisal and selection of bodies implementing the financial instruments, including calls for expression of interest or public procurement procedures (only where financial instruments are organised through a holding fund).
+
+2\. Required elements of the strategy document(s) referred to in Article 59(1):
+
+(a) the investment strategy or policy of the financial instrument, general terms and conditions of envisaged debt products, target recipients and actions to be supported;
+
+(b) a business plan or equivalent documents for the financial instrument to be implemented, including the estimated leverage effect referred to in Article 58;
+
+(c) the use and re-use of resources attributable to the support of the Funds in accordance with Articles 60 and 62;
+
+(d) monitoring and reporting of the implementation of the financial instrument to ensure compliance with Articles 42 and 50.
+
+## ANNEX XI — Key requirements of management and control systems and their classification - Article 69(1)
+
+**Table 1 - Key requirements of management and control systems**
+
+<table>
+<tbody><tr><td colspan="2">  </td><td>Bodies/authorities concerned</td></tr>
+<tr><td>1</td><td>Appropriate separation of functions and written arrangements for reporting, supervising and monitoring of delegated tasks to an intermediate body</td><td>Managing authority</td></tr>
+<tr><td>2</td><td>Appropriate criteria and procedures for the selection of operations</td><td>Managing authority (1)</td></tr>
+<tr><td>3</td><td>Appropriate information to beneficiaries on applicable conditions for support for the selected operations</td><td>Managing authority</td></tr>
+<tr><td>4</td><td>Appropriate management verifications, including appropriate procedures for checking fulfilment of conditions for financing not linked to costs and for simplified cost options</td><td>Managing authority</td></tr>
+<tr><td>5</td><td>Effective system to ensure that all documents necessary for the audit trail are held</td><td>Managing authority</td></tr>
+<tr><td>6</td><td>Reliable electronic system (including links with electronic data exchange systems with beneficiaries) for recording and storing data for monitoring, evaluation, financial management, verifications and audits, including appropriate processes to ensure the security, integrity and confidentiality of the data and the authentication of users</td><td>Managing authority</td></tr>
+<tr><td>7</td><td>Effective implementation of proportionate anti-fraud measures</td><td>Managing authority</td></tr>
+<tr><td>8</td><td>Appropriate procedures for drawing up the management declaration</td><td>Managing authority</td></tr>
+<tr><td>9</td><td>Appropriate procedures for confirming that the expenditure entered into the accounts is legal and regular</td><td>Managing authority</td></tr>
+<tr><td>10</td><td>Appropriate procedures for drawing up and submission of payment applications and of accounts and confirming completeness, accuracy and veracity of the accounts</td><td>Managing authority/ Body carrying out the accounting function</td></tr>
+<tr><td>11</td><td>Appropriate separation of functions and functional independence between the audit authority (and any body carrying out audit work under the responsibility of the audit authority on which the audit authority relies and supervises, if applicable) and the other programme authorities and audit work carried out in accordance with internationally accepted audit standards</td><td>Audit authority</td></tr>
+<tr><td>12</td><td>Appropriate system audits</td><td>Audit authority</td></tr>
+<tr><td>13</td><td>Appropriate audits of operations</td><td>Audit authority</td></tr>
+<tr><td>14</td><td>Appropriate audits of accounts</td><td>Audit authority</td></tr>
+<tr><td>15</td><td>Appropriate procedures for providing a reliable audit opinion and for preparing the annual control report</td><td>Audit authority</td></tr>
+<tr><td colspan="3">(1)  Territorial authorities or bodies pursuant to Article 29(3) of this Regulation and steering committee pursuant to Article 22(2) of Interreg Regulation, where applicable. </td></tr>
+</tbody>
+</table>
+
+**Table 2 - Classification of management and control systems with regard to their effective functioning**
+
+Category 1 Works well. No or only minor improvement needed.
+
+Category 2 Works. Some improvement needed.
+
+Category 3 Works partially. Substantial improvement needed.
+
+Category 4 Essentially does not work.
+
+## ANNEX XII — Detailed rules and template for the reporting of irregularities - Article 69(2) and (12)
+
+**Section 1**
+
+**Detailed rules for the reporting of irregularities**
+
+**1.1. Irregularities to be reported**
+
+The following irregularities shall be reported to the Commission in accordance with Article 69(2):
+
+(a) irregularities that have been the subject of a first written assessment by a competent authority, either administrative or judicial, which has concluded on the basis of specific facts that an irregularity has been committed, regardless of the possibility that this conclusion may subsequently have to be revised or withdrawn as a result of developments in the course of the administrative or judicial procedure;
+
+(b) irregularities that give rise to the initiation of administrative or judicial proceedings at national level in order to establish the presence of fraud or other criminal offences, as referred to in points (a) and (b) of Article 3(2) and Article 4(1), (2) and (3) of Directive (EU) 2017/1371 and point (a) of Article 1(1) of the Convention drawn up on the basis of Article K.3 of the Treaty on European Union, on the protection of the European Communities' financial interests ( 46 ) for the Member States not bound by that Directive;
+
+(c) irregularities preceding a bankruptcy;
+
+(d) specific irregularity or group of irregularities for which the Commission submits a written request for information to the Member State following the initial reporting from a Member State.
+
+**1.2. Irregularities exempted from reporting**
+
+The following irregularities shall not be reported:
+
+(a) irregularities for an amount lower than EUR 10 000 in contribution from the Funds; this does not apply in the case of irregularities which are interlinked and the total amount of which exceeds EUR 10 000 in contribution from the Funds, even when none of them exceeds that ceiling on its own;
+
+(b) cases where the irregularity consists solely of the failure to execute, in whole or in part, an operation included in the co-financed programme owing to the non-fraudulent bankruptcy of the beneficiary;
+
+(c) cases brought to the attention of the managing authority or the authority in charge of the accounting function by the beneficiary voluntarily and before detection by either authority, whether before or after the payment of the public contribution;
+
+(d) cases which are detected and corrected by the managing authority before inclusion in a payment application submitted to the Commission.
+
+The exemptions in points (c) and (d) of the first subparagraph of this point shall not apply to irregularities referred to under point 1.1(b).
+
+**1.3. Determination of the reporting Member State**
+
+The Member State in which the irregular expenditure is incurred by the beneficiary and paid in implementing the operation shall be responsible for reporting the irregularity in accordance with Article 69(2). For programmes under the European territorial cooperation goal (Interreg), the reporting Member State shall inform the managing authority and the audit authority of the programme.
+
+**1.4. Timing of the reporting**
+
+Member States shall report irregularities within two months following the end of each quarter from their detection or as soon as additional information on the reported irregularities becomes available. However, a Member State shall immediately report to the Commission irregularities discovered or supposed to have occurred, indicating any other Member States concerned, in case the irregularities may have repercussions outside its territory.
+
+**1.5. Submission, use and processing of information reported**
+
+Where national provisions provide for the confidentiality of investigations, only information subject to the authorisation of the competent tribunal, court or other body in accordance with national rules may be reported.
+
+The information reported in accordance with this Annex may be used for the purposes of protecting the financial interests of the Union, in particular to perform risk analyses and develop systems serving to identify risks more effectively.
+
+This information shall not be used for any purposes other than the protection of the Union's financial interests unless the authorities that have provided it have given their express consent.
+
+This information shall be covered by professional secrecy and may not be disclosed to persons other than those in the Member States or within the Union’s institutions, agencies, offices and bodies whose duties require that they have access to it.
+
+**Section 2**
+
+**Template for electronic reporting via the Irregularity Management System (IMS)**
+
+<table>
+<tbody><tr><td rowspan="15">  </td><td rowspan="7">Identification</td><td>Fund</td></tr>
+<tr><td>Member State</td></tr>
+<tr><td>Reporting authority</td></tr>
+<tr><td>Year</td></tr>
+<tr><td>Sequence number</td></tr>
+<tr><td>Programming period</td></tr>
+<tr><td>Reference number – national</td></tr>
+<tr><td rowspan="4">Drafting information</td><td>Initiating authority - complete name</td></tr>
+<tr><td>Request language</td></tr>
+<tr><td>Drafting date</td></tr>
+<tr><td>Quarter</td></tr>
+<tr><td rowspan="2">Special request</td><td>Necessity to inform other countries</td></tr>
+<tr><td>Person found in other case(s)</td></tr>
+<tr><td>Status</td><td>Proceedings</td></tr>
+<tr><td>Case closure</td><td>Case closure date</td></tr>
+<tr><td rowspan="13">Personal data</td><td rowspan="9">Identification of persons involved</td><td>Legal person / natural person</td></tr>
+<tr><td>Legal status</td></tr>
+<tr><td>National ID number</td></tr>
+<tr><td>Company name /Family name</td></tr>
+<tr><td>Trade name / First name</td></tr>
+<tr><td>Parent name / Independent prefix</td></tr>
+<tr><td>Street</td></tr>
+<tr><td>Postcode</td></tr>
+<tr><td>City</td></tr>
+<tr><td rowspan="4">Territorial unit where the person is registered</td><td>Member State</td></tr>
+<tr><td>Relevant NUTS level</td></tr>
+<tr><td>Flagged on basis of the Financial Regulation (1) (Articles 135 to145)</td></tr>
+<tr><td>Justification for non-disclosure of personal data</td></tr>
+<tr><td rowspan="14">  </td><td rowspan="11">Description of operation</td><td>CCI number</td></tr>
+<tr><td>Objective – CCI</td></tr>
+<tr><td>Category of region where applicable</td></tr>
+<tr><td>Goal (IJG/Interreg)</td></tr>
+<tr><td>Programme</td></tr>
+<tr><td>Programme closure date</td></tr>
+<tr><td>Commission decision - number</td></tr>
+<tr><td>Commission decision - date</td></tr>
+<tr><td>Policy objective</td></tr>
+<tr><td>Priority</td></tr>
+<tr><td>Specific objective</td></tr>
+<tr><td rowspan="3">Territorial unit where the operation takes place</td><td>Member State</td></tr>
+<tr><td>Relevant NUTS level</td></tr>
+<tr><td>Competent authority</td></tr>
+<tr><td rowspan="6">Operation - specific - project</td><td rowspan="6">Project</td><td>Project</td></tr>
+<tr><td>Project – name</td></tr>
+<tr><td>Project – number</td></tr>
+<tr><td>Co-financing rate</td></tr>
+<tr><td>Total amount of expenditure</td></tr>
+<tr><td>Total amount of irregular expenditure</td></tr>
+<tr><td rowspan="15">Irregularity</td><td rowspan="2">Information leading to a suspicion of an irregularity</td><td>Date</td></tr>
+<tr><td>Source</td></tr>
+<tr><td rowspan="2">Provisions breached</td><td>Provisions – Union: Type, title, reference, Article and paragraph as relevant</td></tr>
+<tr><td>Provisions - national – Type, title, reference, Article and paragraph as relevant</td></tr>
+<tr><td rowspan="2">Other States involved</td><td>Member State(s)</td></tr>
+<tr><td>Non-Member State(s)</td></tr>
+<tr><td rowspan="8">Specific information on the irregularity</td><td>Start date Irregularity</td></tr>
+<tr><td>End date irregularity</td></tr>
+<tr><td>Type of irregularity - typology</td></tr>
+<tr><td>Type of irregularity - category</td></tr>
+<tr><td>Modus operandi</td></tr>
+<tr><td>Additional information</td></tr>
+<tr><td>Findings of the administration</td></tr>
+<tr><td>Classification of the irregularity</td></tr>
+<tr><td>  </td><td>Offences pursuant to Directive (EU) 2017/1371</td></tr>
+<tr><td rowspan="9">Detection</td><td rowspan="5">  </td><td>Date of discovery (Primary administrative or judicial finding)</td></tr>
+<tr><td>Reason for performing a control (why)</td></tr>
+<tr><td>Type and/or method of control (how)</td></tr>
+<tr><td>Control carried out after payment(s) of public contribution</td></tr>
+<tr><td>Competent authority</td></tr>
+<tr><td rowspan="4">OLAF-Case</td><td>OLAF number – Reference</td></tr>
+<tr><td>OLAF number – Year</td></tr>
+<tr><td>OLAF number – Sequence</td></tr>
+<tr><td>Status</td></tr>
+<tr><td rowspan="15">Total Amounts</td><td rowspan="15">Financial impact</td><td>Expenditure – EU contribution</td></tr>
+<tr><td>Expenditure – National contribution</td></tr>
+<tr><td>Expenditure - Public contribution</td></tr>
+<tr><td>Expenditure - Private contribution</td></tr>
+<tr><td>Expenditure – Total</td></tr>
+<tr><td>Irregular amount – EU contribution</td></tr>
+<tr><td>Irregular amount - National contribution</td></tr>
+<tr><td>Irregular amount - Public contribution</td></tr>
+<tr><td>whereof not paid – EU contribution</td></tr>
+<tr><td>whereof not paid – National contribution-</td></tr>
+<tr><td>whereof not paid - Public contribution</td></tr>
+<tr><td>Where of paid – EU contribution</td></tr>
+<tr><td>Where of paid – National contribution</td></tr>
+<tr><td>Where of paid - Public contribution</td></tr>
+<tr><td>Comments</td></tr>
+<tr><td rowspan="11">Penalties</td><td rowspan="5">Procedures</td><td>Procedures initiated to impose penalties</td></tr>
+<tr><td>Type of procedure</td></tr>
+<tr><td>Start date of procedure</td></tr>
+<tr><td>(Expected) end date of procedure</td></tr>
+<tr><td>Status of procedure</td></tr>
+<tr><td rowspan="6">Sanctions</td><td>Penalties</td></tr>
+<tr><td>Penalties – Category</td></tr>
+<tr><td>Penalties – Type</td></tr>
+<tr><td>Penalties applied</td></tr>
+<tr><td>Amounts related to financial penalties</td></tr>
+<tr><td>End date of procedure</td></tr>
+<tr><td rowspan="5">Comments</td><td>Comments</td><td>Comments - Reporting authority</td></tr>
+<tr><td rowspan="2">Attachments</td><td>Attachments</td></tr>
+<tr><td>Attachments description</td></tr>
+<tr><td rowspan="2">Request for cancellation</td><td>Cancellation reasons</td></tr>
+<tr><td>Rejection reasons</td></tr>
+<tr><td colspan="3">(1)  Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012 (OJ L 193, 30.7.2018, p. 1). </td></tr>
+</tbody>
+</table>
+
+## ANNEX XIII — Elements for the audit trail – Article 69(6)
+
+As regards Union contribution based on unit costs, lump sums and flat rates reimbursed by the Commission under Article 94 and on financing not linked to costs reimbursed by the Commission under Article 95, only the elements set out under Sections III and IV respectively shall be required.
+
+I. Obligatory elements of audit trail for grants taking the forms set out in points (a) to (e) of Article 53(1):
+
+1\. documentation that allows verification of the application of the selection criteria by the managing authority, as well as documentation relating to the overall selection procedure and the approval of operations;
+
+2\. document (grant agreement or equivalent) setting out the conditions for support signed between the beneficiary and the managing authority/intermediate body;
+
+3\. accounting records of payment claims submitted by the beneficiary, as recorded in the managing authority/intermediate body's electronic system;
+
+4\. documentation on verifications addressing the non-relocation and durability requirements as set out in Article 65, Article 66(2) and point (h) of Article 73(2);
+
+5\. proof of payment of the public contribution to the beneficiary and of the date the payment was made;
+
+6\. documentation evidencing the administrative and, where applicable, on-the-spot checks carried out by the managing authority/intermediate body;
+
+7\. information on audits carried out;
+
+8\. documentation relating to the follow-up by the managing authority/intermediate body for purposes of management verifications and audit findings;
+
+9\. documentation demonstrating verification of compliance with applicable law;
+
+10\. data in relation to output and result indicators enabling reconciliation with corresponding targets and reported milestones;
+
+11\. documentation related to financial corrections to and deductions from the expenditure declared to the Commission to ensure compliance with Article 98(6) made by the managing authority/intermediate body/the body to which the accounting function has been entrusted to;
+
+12\. for grants taking the form set out in point (a) of Article 53(1), the invoices (or documents of equivalent probative value) and proof of their payment by the beneficiary, as well as accounting records of the beneficiary relating to the expenditure declared to the Commission;
+
+13\. for grants taking the forms set out in points (b), (c) and (d) of Article 53(1), and as applicable, documents justifying the method of establishing unit costs, lump sums and flat rates; the categories of costs forming the basis for the calculation; documents evidencing costs declared under other categories of costs to which a flat rate applies; the explicit agreement by the managing authority on the draft budget on the document setting out the conditions for support; documentation on the gross employment costs and on calculation of the hourly rate; where simplified cost options are used based on existing methods, documentation confirming compliance with similar type of operations and with documentation required by the existing method, if any.
+
+II. Obligatory elements for audit trail for financial instruments:
+
+1\. documents on the establishment of the financial instrument, such as funding agreements, etc.;
+
+2\. documents identifying the amounts contributed by each programme and under each priority to the financial instrument, the expenditure that is eligible under each programme and the interest and other gains generated by support from the Funds and re-use of resources attributable to the Funds in accordance with Articles 60 and 62;
+
+3\. documents on the functioning of the financial instrument, including those related to monitoring, reporting and verifications;
+
+4\. documents concerning exits of programme contributions and the winding-up of the financial instrument;
+
+5\. documents on the management costs and fees;
+
+6\. application forms, or equivalent, submitted by final recipients with supporting documents, including business plans and, when relevant, previous annual accounts;
+
+7\. checklists and reports from the bodies implementing the financial instrument;
+
+8\. declarations made in connection with de minimis aid;
+
+9\. agreements signed in connection with the support provided by the financial instrument, including for equity, loans, guarantees or other forms of investment provided to final recipients;
+
+10\. evidence that the support provided through the financial instrument is to be used for its intended purpose;
+
+11\. records of the financial flows between the managing authority and the financial instrument, and within the financial instrument at all levels, down to the final recipients, and, for guarantees, proof that underlying loans were disbursed;
+
+12\. separate records or accounting codes for a programme contribution paid or a guarantee committed by the financial instrument for the benefit of the final recipient.
+
+III. Obligatory elements of audit trail for reimbursement of the Union contribution by the Commission under Article 94 to be kept at the level of the managing authority/ intermediate body:
+
+1\. documents evidencing the ex-ante agreement of the Commission on the types of operations covered by unit costs, lump sums and flat rates and the definition of related amounts and rates, as well as the methods for adjustment of the amounts (programme approval or amendment;
+
+2\. documents evidencing the categories of costs and the amounts forming the basis for the calculation to which the flat rate applies;
+
+3\. documents evidencing the fulfilment of the conditions for reimbursement by the Commission;
+
+4\. documents evidencing the adjustment of the amounts, where relevant;
+
+5\. documents evidencing the calculation method if point (a) of the second subparagraph of Article 94(2) is applied;
+
+6\. documentation relating to the selection and approval of operations covered by the reimbursement of the Union contribution by the Commission on the basis of simplified cost options;
+
+7\. document setting out the conditions of support signed by the beneficiary and the managing authority/intermediate body stating the form of support provided to beneficiaries;
+
+8\. documentation evidencing management verifications and audits carried out in accordance with the third subparagraph of Article 94(3);
+
+9\. proof of payment of the public contribution to the beneficiary and of the date the payment was made.
+
+IV. Obligatory elements of audit trail for reimbursement of the Union contribution by the Commission under Article 95 to be kept at the level of the managing authority/ intermediate body:
+
+1\. documents evidencing the ex-ante agreement of the Commission on the conditions to be fulfilled or the results to be achieved and corresponding amounts (programme approval or amendment);
+
+2\. documentation relating to the selection and approval of operations covered by the reimbursement of the Union contribution by the Commission based on Article 95 (financing not linked to costs);
+
+3\. document setting out the conditions of support signed by the beneficiary and the managing authority/intermediate body stating the form of support provided to beneficiaries;
+
+4\. documentation evidencing management verifications and audits carried out in accordance with the second subparagraph of Article 95(3);
+
+5\. proof of payment of the public contribution to the beneficiary and of the date the payment was made;
+
+6\. documents evidencing the fulfilment of conditions or the achievement of results at each stage if done in steps, as well as before final expenditure is declared to the Commission.
+
+## ANNEX XIV — Electronic data exchange systems between programme authorities and beneficiaries - Article 69(8)
+
+1\. Responsibilities of programme authorities regarding the characteristics of electronic data exchange systems
+
+1.1. Ensuring the data security, data integrity, data confidentiality, authentication of the sender in accordance with Articles 69(6), 69(8), point (e) of Article 72(1) and Article 82.
+
+1.2. Ensuring availability and functioning during and outside standard office hours (except during technical maintenance).
+
+1.3. Ensuring that the system aims to make use of logical, simple and intuitive functions and interface.
+
+1.4. Use of functionalities in the system providing for:
+
+(a) interactive forms and/or forms prefilled by the system on the basis of the data which are stored at consecutive steps of the procedures;
+
+(b) automatic calculations, where applicable;
+
+(c) automatic embedded controls which reduce repeated exchanges of documents or information;
+
+(d) system-generated alerts to inform the beneficiary that certain actions can be performed;
+
+(e) online status tracking allowing the beneficiary to monitor the current status of the project;
+
+(f) all previously available data and documents processed by the electronic data exchange system.
+
+1.5. Ensuring record-keeping and data storage in the system enabling both administrative verifications of payment claims submitted by beneficiaries in accordance with Article 74(2) and audits.
+
+2\. Responsibilities of programme authorities regarding the modalities for transmission of documents and data for all exchanges
+
+2.1. Ensuring the use of electronic signature compatible with one of the three types of electronic signature defined by Regulation (EU) No 910/2014 of the European Parliament and of the Council ( 47 ).
+
+2.2. Providing for storing the date of transmission of documents and data by the beneficiary to the programme authorities and vice versa.
+
+2.3. Ensuring accessibility directly through an interactive user interface (a web application) or via a technical interface that allows for automatic synchronisation and transmission of data between beneficiaries' and Member States' systems.
+
+2.4. Ensuring the protection of privacy of personal data for individuals and commercial confidentiality for legal entities according to Directive 2002/58/EC of the European Parliament and of the Council ( 48 ) and Regulation (EU) 2016/679.
+
+## ANNEX XV — SFC2021: electronic data exchange system between the Member States and the Commission – Article 69(9)
+
+**1\. Responsibilities of the Commission**
+
+1.1. Ensuring the operation of an electronic data exchange system (‘SFC2021’) for all official exchanges of information between the Member State and the Commission. SFC2021 shall contain at least the information specified in the templates established in accordance with this Regulation.
+
+1.2. Ensuring the following characteristics of SFC2021:
+
+(a) interactive forms or forms pre-filled by the system on the basis of the data already recorded in the system previously;
+
+(b) automatic calculations, where they reduce the encoding effort of users;
+
+(c) automatic embedded controls to verify internal consistency of transmitted data and consistency of this data with applicable rules;
+
+(d) system generated alerts warning SFC2021 users that certain actions can or cannot be performed;
+
+(e) online status tracking of the treatment of information entered into the system;
+
+(f) availability of historical data in respect of all information entered for a programme;
+
+(g) availability of a compulsory electronic signature within the meaning of Regulation (EU) No 910/2014 which will be recognised as evidence in legal proceedings.
+
+1.3. Ensuring an information technology security policy for SFC2021 applicable to the personnel using the system in accordance with relevant Union rules, in particular Commission Decision (EU, Euratom) 2017/46 ( 49 ) and its implementing rules.
+
+1.4. Designating a person or persons responsible for defining, maintaining and ensuring the correct application of the security policy to SFC2021.
+
+**2\. Responsibilities of Member States**
+
+2.1. Ensuring that the programme authorities of the Member State identified in accordance with Article 71(1) as well as the bodies identified to carry out certain tasks under the responsibility of the managing authority or the audit authority in accordance with Article 71(2) and (3) enter into SFC2021 the information for the transmission of which they are responsible and any updates thereto.
+
+2.2. Ensuring the verification of information submitted by a person other than the person who entered the data for that transmission.
+
+2.3. Providing arrangements for the separation of the above tasks through the Member State’s management and control information systems connected automatically with SFC2021.
+
+2.4. Appointing a person or persons responsible for managing access rights to fulfil the following tasks:
+
+(a) identifying users requesting access, making sure those users are employed by the organisation;
+
+(b) informing users about their obligations to preserve the security of the system;
+
+(c) verifying the entitlement of users to the required privilege level in relation to their tasks and their hierarchical position;
+
+(d) requesting the termination of access rights when those access rights are no longer needed or justified;
+
+(e) promptly reporting suspicious events that may bring prejudice to the security of the system;
+
+(f) ensuring the continued accuracy of user identification data by reporting any changes;
+
+(g) taking the necessary data protection and commercial confidentiality precautions in accordance with Union and national rules;
+
+(h) informing the Commission of any changes affecting the capacity of the Member State authorities or users of SFC2021 to carry out the responsibilities referred to in point 2.1 or their personal capacity to carry out responsibilities referred to in points (a) to (g).
+
+2.5. Providing arrangements for the respect of the protection of privacy and of personal data for individuals, and of commercial confidentiality for legal entities in accordance with Directive 2002/58/EC, Regulation (EU) 2016/679 and Regulation (EU) 2018/1725.
+
+2.6. Adopting national, regional or local information security policies on access to SFC2021 based on a risk assessment applicable to all authorities using SFC2021 and addressing the following aspects:
+
+(a) the IT security aspects of the work performed by the person or persons responsible for managing the access rights referred to in point 2.4 of section II in case of application of direct use;
+
+(b) for national, regional or local computer systems connected to SFC2021, through a technical interface referred to in point 2.3 the security measures for those systems allowing to be aligned with SFC2021 security requirements and covering:
+
+(i) physical security;
+
+(ii) data media and access control;
+
+(iii) storage control;
+
+(iv) access and password control;
+
+(v) monitoring;
+
+(vi) interconnection with SFC2021;
+
+(vii) communication infrastructure;
+
+(viii) human resources management prior to employment, during employment and after employment;
+
+(ix) incident management.
+
+2.7. Making the document referred to in point 2.6 available to the Commission upon request.
+
+2.8. Appointing a person or persons responsible for maintaining and ensuring the application of the national, regional or local IT security policies and acting as a contact point with the person or persons designated by the Commission and referred to in point 1.4.
+
+**3\. Joint responsibilities of the Commission and the Member States**
+
+3.1. Ensuring accessibility either directly through an interactive user-interface (i.e. a web-application) or via a technical interface using pre-defined protocols (i.e. web-services) that allows for automatic synchronisation and transmission of data between Member States information systems and SFC2021.
+
+3.2. Providing for the date of electronic transmission of the information by the Member State to the Commission and vice-versa in electronic data exchange, which constitutes the date of submission of the document concerned.
+
+3.3. Ensuring that official data is exchanged exclusively through SFC2021, except where force majeure occurs, and that information provided in the electronic forms embedded in SFC2021 (hereinafter referred to as ‘structured data’) is not replaced by non-structured data and, in the event of inconsistency, that structured data prevails over non-structured data.
+
+In the event of force majeure, a malfunctioning of SFC2021 or a lack of a connection with SFC2021 exceeding one working day in the last week before a regulatory deadline for the submission of information or in the period from 18 to 26 December, or five working days at other times, the information exchange between the Member State and the Commission may take place in paper form using the templates set out in this Regulation in which case the date of submission of the document is the date stamped by the post. When the cause of the force majeure ceases, the party concerned enters in SFC2021 without delay the information already provided in paper form.
+
+3.4. Ensuring compliance with the IT security terms and conditions published in the SFC2021 portal and the measures that are implemented in SFC2021 by the Commission to secure the transmission of data, in particular in relation to the use of the technical interface referred to in point 2.3.
+
+3.5. Implementing and ensuring the effectiveness of the security measures adopted to protect the data stored and transmitted through SFC2021.
+
+3.6. Updating and reviewing annually the SFC2021 IT security policy and the relevant national, regional and local IT security policies in the event of technological changes, the identification of new threats or other relevant developments.
+
+## ANNEX XVI — Template for the description of the management and control system – Article 69(11)
+
+**1\. GENERAL**
+
+1.1. Information submitted by:
+
+— Member State:
+
+— Title of the programme(s) and CCI number(s): (all programmes covered by the managing authority where there is a common management and control system):
+
+— Name and email of main contact point: (body responsible for the description):
+
+1.2. The information provided describes the situation on: (dd/mm/yy).
+
+1.3. System structure (general information and flowchart showing the organisational relationship between the authorities/bodies involved in the management and control system).
+
+1.3.1. Managing authority (name, address and contact point in the managing authority).
+
+1.3.2. Intermediate bodies (name, address and contact points in the intermediate bodies).
+
+1.3.3. The body carrying out the accounting function (name, address and contact points in the managing authority or the programme authority carrying out the accounting function).
+
+1.3.4. Indicate how the principle of separation of functions between and within the programme authorities is respected.
+
+**2\. MANAGING AUTHORITY**
+
+2.1. Managing authority – description of the organisation and the procedures related to its functions and tasks as provided for in Articles 72 to 75.
+
+2.1.1. The status of the managing authority (national, regional or local public body or private body) and the body of which it is part.
+
+2.1.2. Specification of the functions and tasks carried out directly by the managing authority.
+
+2.1.3. Where applicable, specification per intermediate body of each of the functions and tasks delegated by the managing authority, identification of the intermediate bodies and the form of the delegation. Reference should be made to relevant documents (written agreements).
+
+2.1.4. Procedures for the supervision of the functions and tasks delegated by the managing authority, if any.
+
+2.1.5. Framework to ensure that an appropriate risk management exercise is conducted when necessary, and in particular in the event of major modifications to the management and control system.
+
+2.1.6 Organisation chart of the managing authority and information on its relationship with any other bodies or divisions (internal or external) that carry out functions and tasks as provided for in Articles 72 to 75.
+
+2.1.7. Indication of planned resources to be allocated in relation to the different functions of the managing authority (including information on any planned outsourcing and its scope, where appropriate).
+
+**3\. BODY CARRYING OUT THE ACCOUNTING FUNCTION**
+
+3.1. Status and description of the organisation and the procedures related to the functions of the body carrying out the accounting function.
+
+3.1.1. The status of the body carrying out the accounting function (national, regional or local public or private body) and the body of which it is part, where relevant.
+
+3.1.2. Description of the functions and tasks carried out by the body carrying out the accounting function as set out in Article 76.
+
+3.1.3. Description of how the work is organised (workflows, processes, internal divisions), what procedures apply and when, how these are supervised, etc.
+
+3.1.4. Indication of planned resources to be allocated in relation to the different accounting tasks.
+
+**4\. ELECTRONIC SYSTEM**
+
+4.1. Description of the electronic system or systems including a flowchart (central or common network system or decentralised system with links between the systems) for:
+
+4.1.1. Recording and storing, in a computerised form data on each operation, including where appropriate data on individual participants and a breakdown of data on indicators when provided for in this Regulation;
+
+4.1.2. Ensuring that accounting records or codes for each operation are recorded and stored, and that these records or codes support the data required for drawing up payment applications and the accounts;
+
+4.1.3. Maintaining accounting records or keeping separate accounting codes of expenditure declared to the Commission and the corresponding public contribution paid to beneficiaries;
+
+4.1.4. Recording all amounts withdrawn during the accounting year as set out in point (b) of Article 98(3) and deducted from the accounts as set out in Article 98(6) and the reasons for these withdrawals and deductions;
+
+4.1.5. Indicating whether the systems are functioning effectively and can reliably record the data mentioned on the date where this description is compiled as set out in point 1.2;
+
+4.1.6. Describing the procedures to ensure the electronic systems' security, integrity and confidentiality.
+
+## ANNEX XVII — Data to be recorded and stored electronically on each operation – point (e) of Article 72(1)
+
+This Annex establishes the data to be recorded without prescribing a specific structure for the electronic system (e.g. information included in a line for the purposes of this Annex may be broken down into multiple data fields in the electronic system concerned).
+
+The data indicated in the first column of the table is required for operations supported by any of the Funds covered by this Regulation unless otherwise specified in the second column. Only data fields that are relevant to the operation in question should be completed. For financial instruments operations, information in sections that explicitly refer to financial instruments shall be also recorded and stored.
+
+Where an operation is supported by more than one programme, priority, Fund, or under more than one category of region, the information referred to in fields 28-123 of this Annex shall be recorded in a manner that allows data to be retrieved broken down by programme, priority, Fund and category of region.
+
+In addition, the information referred to in fields 46-152 of this Annex (data related to reporting requirements under Article 42 and Annex VII) shall be recorded in a manner that allows data to be retrieved broken down by specific objective.
+
+<table>
+<tbody><tr><td>Data fields</td><td>Indication of Funds for which data is not required</td></tr>
+<tr><td colspan="2">Data on the beneficiary (1)(2)</td></tr>
+<tr><td>1. Name and unique identifier, where relevant, of each beneficiary</td><td>  </td></tr>
+<tr><td>2. Information whether the beneficiary is a public or private law body, or an entity with or without legal personality, or a natural person. If a natural person, date of birth and national ID number. If public or private law body, or an entity with or without legal personality, VAT or tax identification number</td><td>  </td></tr>
+<tr><td>3. Information on all beneficial owners of the beneficiary, if any, as defined in Article 3(6) of Directive (EU) 2015/849, namely first name(s) and last names(s), dates(s) of birth and VAT registration number(s) or tax identification number(s) Member States may comply with this requirement by using the data stored in the registers as referred to in Article 30 of Directive (EU) 2015/849, provided a unique identification number is included. </td><td>  </td></tr>
+<tr><td>4. Information on whether the beneficiary is the body receiving the aid (in the context of State aid) or granting the aid (in the context of de minimis aid)</td><td>  </td></tr>
+<tr><td>5. Only for PPP operations, information whether the beneficiary is the public body initiating the PPP or the private partner selected for its implementation</td><td>  </td></tr>
+<tr><td>6. Only for small projects funds (Interreg), information whether the beneficiary of a small project fund is a cross-border legal body, a European grouping of territorial cooperation or a body which has legal personality</td><td>Not applicable to ERDF under the Investment for jobs and growth goal, ESF+, the Cohesion Fund, JTF, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>7. Contact details of the beneficiary</td><td>  </td></tr>
+<tr><td colspan="2">Data on the beneficiary in the context of financial instruments</td></tr>
+<tr><td colspan="2">8. Information whether the beneficiary is: (a) the body that implements a holding fund or,  (b) where there is no holding fund structure, the body that implements a specific fund, or  (c) where the managing authority implements financial instrument directly, information on the managing authority </td></tr>
+<tr><td colspan="2">Data on the operation</td></tr>
+<tr><td>9. Name and unique identifier of the operation</td><td>  </td></tr>
+<tr><td>10. Short description of the operation. Information on what is being financed and key objectives</td><td>  </td></tr>
+<tr><td>11. Information whether the operation falls under the provisions of Article 94 or 95</td><td>  </td></tr>
+<tr><td>12. Information whether the operation is an operation of strategic importance</td><td>  </td></tr>
+<tr><td>13. Information whether the operation is pursuant to Article 12(1) of the BMVI Regulation, Article 12(1) of the ISF Regulation, and Article 15(1) of the AMIF Regulation, or a specific action, or an action listed in Annex IV to those Regulations, or operating support or emergency assistance</td><td>Not applicable to ERDF, ESF+, Cohesion Fund, JTF or EMFAF</td></tr>
+<tr><td>14. Date of submission of the application for the operation</td><td>  </td></tr>
+<tr><td>15. Starting date as indicated in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>16. End date as indicated in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>17. Actual date when the operation is physically completed or fully implemented</td><td>  </td></tr>
+<tr><td>18. Body issuing the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>19. Date of the document setting out the conditions for support and date of its amendments, if any</td><td>  </td></tr>
+<tr><td>20. Information whether the public support for the operation will constitute State aid</td><td>  </td></tr>
+<tr><td>21. Information whether the public support for the operation will constitute de minimis aid</td><td>  </td></tr>
+<tr><td>22. Information whether the operation is a PPP operation</td><td>  </td></tr>
+<tr><td>23. Information whether the beneficiary or other entities implementing the operation in accordance with Union procurement rules use contractors and if so, once the corresponding contracts are signed, information on: (a) all contractors, including name and VAT registration or tax identification number of the contractor(s),  (b) and beneficial owners of the contractor, as defined in Article 3(6) of Directive (EU) 2015/849, namely first name(s) and last names(s), dates(s) of birth and VAT registration number(s) or tax identification number(s) of these beneficial owners and  (c) contracts (date of the contract, name, reference and contract amount) </td><td>  </td></tr>
+<tr><td>Member States may comply with the requirement under point (b) by using the data stored in the registers as referred to in Article 30 of Directive (EU) 2015/849, provided a unique identification number is included. Information under this field is only required where public procurement procedures above the Union thresholds are concerned. </td><td>  </td></tr>
+<tr><td>24. Information (3) on whether the contractor, as referred to in the field 23, uses sub-contractors and if so, once the corresponding sub-contracts are signed, information on all sub-contractors listed in the procurement documents (of the contractor), namely name and VAT registration or tax identification number and information on sub-contracts (date of the contract, name, reference and contract amount) The requirement to record the information under this field shall apply from one year after the entry into force of this regulation. </td><td>  </td></tr>
+<tr><td>25. Information on whether for the implementation of the operation, the beneficiary further cascades the grant to other entities. If so, information on their name, VAT registration or tax identification number and information on agreements between them and the beneficiary (date of agreement, reference and agreement amount)</td><td>  </td></tr>
+<tr><td>26. Only where the total cost of the operation (including VAT) exceeds 5 million EUR, information whether VAT on expenditure incurred by the beneficiary is non-recoverable under national VAT legislation (point (c) of Article 64(1)),</td><td>  </td></tr>
+<tr><td>27. Currency of the operation (as set out in the document setting out the condition for support)</td><td>  </td></tr>
+<tr><td>28. CCI of the programme(s) under which the operation is supported</td><td>  </td></tr>
+<tr><td>29. Priority or priorities of the programme(s) under which the operation is supported</td><td>  </td></tr>
+<tr><td>30. Fund(s) from which the operation is supported. If there are several funds or other Union instruments from which the operation is supported, information on the split, on the pro-rata amounts, etc.</td><td>  </td></tr>
+<tr><td>31. Information on whether the operation is with the participation of a third country, or takes place in a third country. If so, identification of that third country</td><td>Not applicable to the ERDF, ESF+, Cohesion Fund or JTF</td></tr>
+<tr><td>32. Only for ESF+ support provided under the specific objective set out in point (m) of Article 4(1), quantity of food: (a) purchased by the beneficiary;  (b) obtained in accordance with Article 17(2) of the ESF+ Regulation;  (c) delivered to the bodies distributing the food to end recipients; and  (d) distributed to end recipients </td><td>Not applicable to the ERDF, Cohesion Fund, JTF, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>33. Only for ESF+ support provided under the specific objective set out in point (m) of Article 4(1), quantity of basic material assistance: (a) purchased by the beneficiary;  (b) delivered to bodies distributing the assistance to end recipients; and  (c) distributed to end recipients </td><td>Not applicable to the ERDF, Cohesion Fund, JTF, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>34. Only for ESF+ support provided under specific objective set out in point (m) of Article 4(1), number of vouchers or cards (or other instruments of indirect delivery) issued, and delivered to end recipients, and used by end recipients, as well as information on the total amount of expenditure loaded in vouchers or cards (or other instruments of indirect delivery) delivered to end recipients, and used by end recipients</td><td>Not applicable to the ERDF, Cohesion Fund, JTF, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>35. Category(ies) of region concerned by the operation</td><td>Not applicable to the Cohesion Fund, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td colspan="2">Data specific to financial instruments operations</td></tr>
+<tr><td>36. Information on whether the financial instrument is combined with programme support in the form of grants within the meaning of Article 58(5)</td><td>  </td></tr>
+<tr><td>37. Information on whether the financial instrument operation is implemented directly by the managing authority, or is implemented under the responsibility of the managing authority, within the meaning of Article 59(1) and (2)</td><td>  </td></tr>
+<tr><td>38. Information on whether the financial instrument operation is implemented across consecutive periods, and if so, identification of the periods concerned below: (a) 2014-2020 and 2021-2027  (b) 2021-2027 and post-2027 </td><td>  </td></tr>
+<tr><td>39. Where the financial instrument is organised through a holding fund, information about the body implementing a specific fund under the holding fund</td><td>  </td></tr>
+<tr><td>40. Procedure for selecting the body implementing the financial instrument</td><td>  </td></tr>
+<tr><td>41. Legal status of the financial instrument, either: (a) an investment of programme resources into the capital of a legal entity; or  (b) separate blocks of finance or fiduciary accounts </td><td>  </td></tr>
+<tr><td>42. Contact details of the beneficiary, and, where the financial instrument is set up with a holding fund, contact details of the body implementing a specific fund under the holding fund</td><td>  </td></tr>
+<tr><td>43. Date of signature of the funding agreement between the managing authority and the body implementing a holding fund, or a specific fund without a holding fund</td><td>  </td></tr>
+<tr><td>44. Date of signature of the funding agreement between the body implementing a holding fund and the body implementing a specific fund</td><td>  </td></tr>
+<tr><td>45. Date of completion of the ex-ante assessment referred to in Article 58(3)</td><td>  </td></tr>
+<tr><td colspan="2">Data on types of intervention</td></tr>
+<tr><td>46. Codes for intervention field dimension, for form of support dimension, for territorial delivery mechanism and territorial focus dimension, for economic activity dimension, for location dimension, for gender tracking and for macro-regional and sea basin strategies, where applicable, pursuant to Annex I to this Regulation and Annex VII to the ERDF and CF Regulation, as well as Annex VI to the AMIF, ISF and BMVI Regulations</td><td>Not applicable to EMFAF</td></tr>
+<tr><td>47. Code(s) for ESF+ secondary theme dimension, pursuant to Annex I to this Regulation</td><td>Not applicable to the ERDF, the Cohesion Fund, JTF, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>48. Codes for the type of action, implementation and particular themes dimensions, pursuant to Annex VI to the AMIF, ISF and BMVI Regulations</td><td>Not applicable to the ERDF, ESF+ , Cohesion Fund, JTF or EMFAF</td></tr>
+<tr><td colspan="2">Data on indicators for all operations (including financial instruments operations)</td></tr>
+<tr><td>49. Unique identifier and indicator name for each of the common and/or programme specific output indicators relevant for the operation</td><td>  </td></tr>
+<tr><td>50. For each output indicator: (a) measurement unit,  (b) target value for the operation, where applicable, broken down by gender where applicable,  (c) cumulative values achieved to date, where applicable, broken down by gender, where applicable,  (d) achievement ratio (achieved value/target value), where applicable </td><td>Not applicable to EMFAF</td></tr>
+<tr><td>51. Milestone value for each output indicator, where applicable and broken down by gender, where applicable</td><td>Not applicable to the ESF+ support provided under specific objective set out in point (m) of Article 4(1) of the ESF+ Regulation, or to EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>52. Unique identifier and indicator name for each of the common and/or programme specific result indicators relevant for the operation</td><td>  </td></tr>
+<tr><td>53. Indicator breakdown, where specifically required in the Fund specific Regulations</td><td>Not applicable to ERDF, ESF+, Cohesion Fund, JTF or EMFAF</td></tr>
+<tr><td>54. Measurement unit for each result indicator, where relevant</td><td>Not applicable to ERDF, Cohesion Fund, JTF or EMFAF</td></tr>
+<tr><td>55. Baseline and target value for each result indicator for the operation, where applicable and broken down by gender, where applicable, as well as values achieved to date and result indicator achievement ratio (achieved value/target value)</td><td>Not applicable to EMFAF Baseline value not applicable to ESF+, AMIF, ISF or BMVI </td></tr>
+<tr><td colspan="2">Financial data specific to operations (in the currency applicable to the operation)</td></tr>
+<tr><td>56. Amount of the total eligible cost of the operation approved in the latest version of the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>57. Amount of the total eligible costs for which public contribution is provided</td><td>  </td></tr>
+<tr><td>58. Amount of support from the Funds paid or to be paid</td><td>  </td></tr>
+<tr><td colspan="2">Financial data specific to financial instruments operations (in the currency applicable to the operation)</td></tr>
+<tr><td>59. Amount of programme contribution, committed to a financial instrument and approved in a document setting out the conditions for support (funding agreement), out of which: (a) amount of public contribution;  (b) amount of Funds contribution, broken down by Fund </td><td>  </td></tr>
+<tr><td>60. Amount of private and public resources mobilised in addition to the Funds, by product: loans; guarantees; equity or quasi-equity; grants within a financial instrument operation</td><td>  </td></tr>
+<tr><td>61. Interest and other gains generated by support from the Funds to financial instruments</td><td>  </td></tr>
+<tr><td>62. Amount of interests and other gains attributable to the Funds used until the end of eligibility period used for capital investments, as well as payments of management fees and reimbursement management costs</td><td>  </td></tr>
+<tr><td>63. Amounts of interests and other gains attributable to the Funds not used until the end of eligibility period</td><td>  </td></tr>
+<tr><td>64. Support from the Funds used for differentiated treatment of investors operating under the market economy principle through an appropriate sharing of risks and profits</td><td>  </td></tr>
+<tr><td>65. Resources returned attributable to support from the Funds, out of which capital repayments, or gains, or other earnings and yields</td><td>  </td></tr>
+<tr><td>66. Information on re-use of resources returned attributable to the support from the Funds within the eligibility period, providing separate records for the amounts: (a) re-used in the same or other financial instruments for further investments in final recipients,  (b) to cover the losses in the nominal amount of the Funds contribution to the financial instrument resulting from negative interest, and/or  (c) for any management costs and fees associated to such further investments </td><td>  </td></tr>
+<tr><td>67. Re-use of resources returned which are attributable to the support from the Funds within a period of 8 years after the end of the eligibility period</td><td>  </td></tr>
+<tr><td>68. Total value of loans, equity or quasi-equity investments in final recipients guaranteed with programme resources and actually disbursed to final recipients</td><td>  </td></tr>
+<tr><td>69. Information on: (a) the final recipient of support from the Funds, name(s) and ID number,  (b) beneficial owners of the final recipient, if any, as defined in Article 3(6) of Directive (EU) 2015/849, namely first name(s) and last names(s), dates(s) of birth and VAT registration number(s) or tax identification number(s),  (c) amount of support received (grant, loan, guaranteed loan, equity)  Member States may comply with the requirement under point (b) by using the data stored in the registers as referred to in Article 30 of Directive (EU) 2015/849, provided a unique identification number is included therein. </td><td>  </td></tr>
+<tr><td colspan="2">Data on payment claims by the beneficiary</td></tr>
+<tr><td>70. Date of receipt of each payment claim by the beneficiary</td><td>  </td></tr>
+<tr><td>71. Date of the last payment to the beneficiary (for the purposes of the start date for the document retention period)</td><td>  </td></tr>
+<tr><td>72. Amount of eligible expenditure in each payment claim as paid out to the beneficiary, as well as the date of payment to the beneficiary</td><td>  </td></tr>
+<tr><td>73. Total amount of eligible expenditure entered into the accounting system(s) that has been included in the final payment application for the accounting year and total amount of the corresponding public contribution made or to be made</td><td>  </td></tr>
+<tr><td>74. Only for operations with expenditure related to operations covering more than one category of region, pro-rata allocation of expenditure to the categories of region</td><td>Not applicable to the ESF+, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>75. Only for operations with expenditure related to operations receiving support from one or more Funds or one or more programmes and from other Union instruments, pro-rata allocation of expenditure to each Fund and for the programme or programmes</td><td>  </td></tr>
+<tr><td>76. Dates and short description of the results of management verifications of the operation</td><td>  </td></tr>
+<tr><td>77. Dates and short description of the results of on-the-spot audits of the operation</td><td>  </td></tr>
+<tr><td>78. Body carrying out audit work or verifications</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary – only for expenditure based on real costs</td></tr>
+<tr><td>79. Eligible expenditure declared to the Commission established on the basis of costs actually incurred and paid, together with in-kind contributions and depreciation, where applicable</td><td>  </td></tr>
+<tr><td>80. Public contribution corresponding to the eligible expenditure declared to the Commission established on the basis of costs actually reimbursed and paid, together with in-kind contributions and depreciation, where applicable</td><td>  </td></tr>
+<tr><td>81. Contract type and contract amount if the contract award is subject to the provisions of Directive 2014/23/EU (4), 2014/24/EU (5) or 2014/25/EU (6) of the European Parliament and of the Council</td><td>  </td></tr>
+<tr><td>82. Eligible expenditure incurred and paid based on a contract if the contract award is subject to the provisions of Directive 2014/23/EU, 2014/24/EU or 2014/25/EU</td><td>  </td></tr>
+<tr><td>83. The procurement procedure used if the contract award is subject to the provisions of Directive 2014/23/EU, 2014/24/EU or 2014/25/EU</td><td>  </td></tr>
+<tr><td>84. Name and VAT registration or tax identification number of the contractor(s) and sub-contractor(s) if the contract award is subject to the provisions of Directive 2014/23/EU, 2014/24/EU or 2014/25/EU or national provisions on public procurement (7)</td><td>  </td></tr>
+<tr><td>85 The procurement procedure used, contract amount and eligible expenditure incurred and paid based on a contract if the contract award is subject to the provisions of Directive 2009/81/EC of the European Parliament and of the Council (8)</td><td>Not applicable to ERDF, ESF+, Cohesion Fund, JTF or EMFAF</td></tr>
+<tr><td colspan="2">Data on expenditure in each payment claim from beneficiary – only for expenditure based on unit costs</td></tr>
+<tr><td>86. Amount of eligible expenditure declared to the Commission on the basis of unit costs</td><td>  </td></tr>
+<tr><td>87. Public contribution corresponding to the eligible expenditure declared to the Commission established on the basis of unit costs</td><td>  </td></tr>
+<tr><td>88. Definition of a unit to be used for each unit cost</td><td>  </td></tr>
+<tr><td>89. Number of units delivered as indicated in the payment claim for each unit item for each unit cost</td><td>  </td></tr>
+<tr><td>90. Unit cost for a single unit</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in each payment claim from beneficiary – only for expenditure based on lump sums</td></tr>
+<tr><td>91. Amount of eligible expenditure declared to the Commission on the basis of lump sums</td><td>  </td></tr>
+<tr><td>92. Public contribution corresponding to eligible expenditure declared to the Commission established on the basis of lump sums</td><td>  </td></tr>
+<tr><td>93. For each lump sum, deliverables (outputs or results) in accordance with the document setting out the conditions for support as the basis for disbursement of lump sum payments</td><td>  </td></tr>
+<tr><td>94. For each lump sum, the corresponding amount in accordance with the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in payment claim from beneficiary – only for expenditure based on flat rates</td></tr>
+<tr><td>95. Amount of eligible expenditure declared to the Commission, as well as the flat rate in the document setting out the conditions for support</td><td>  </td></tr>
+<tr><td>96. Public contribution corresponding to eligible expenditure declared to the Commission established on the basis of flat rates</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure of financial instruments in payment claims by beneficiaries</td></tr>
+<tr><td>97. Total amount of programme contribution paid to final recipients in the case of loans, equity and quasi-equity, by product: (a) out of which total amount of Funds contribution, broken down by Fund  (b) out of which total amount of national public co-financing  (c) out of which total amount of national private co-financing </td><td>  </td></tr>
+<tr><td>98. Total amount of programme contributions set aside for guarantee contracts, in accordance with point (b) of Article 68(1): (a) out of which total amount of Funds contribution, broken down by Fund  (b) out of which total amount of national public co-financing </td><td>  </td></tr>
+<tr><td>99. Total amount of programme contribution corresponding to payments to, or for the benefit of, final recipients where financial instruments are combined with other Union contribution in a single financial instrument operation: (a) out of which total amount of Funds contribution, broken down by Fund  (b) out of which total amount of national public co-financing  (c) out of which total amount of national private co-financing </td><td>  </td></tr>
+<tr><td>100. Information on amount of management costs and fees where bodies implementing a holding fund and/or specific funds are selected through a direct award, distinguishing between: (a) in relation to a holding fund: by financial product operating within the holding fund structure  (b) in relation to specific funds (set up either with or without the holding fund structure): by financial product </td><td>  </td></tr>
+<tr><td>101. Amount of management costs and fees where bodies implementing a holding fund and/or specific funds are selected through a competitive tender</td><td>  </td></tr>
+<tr><td colspan="2">Data on deductions from the accounts</td></tr>
+<tr><td>102. Date and reason for each deduction made in accordance with Article 98(6), as well as information on the type of deduction</td><td>  </td></tr>
+<tr><td>103. Amounts of total eligible expenditure affected by each deduction (out of which, amount corrected as a result of audit)</td><td>  </td></tr>
+<tr><td>104. Amounts of public contribution affected by each deduction (out of which, amount corrected as a result of audit)</td><td>  </td></tr>
+<tr><td colspan="2">Data on payment applications to the Commission (in EUR)</td></tr>
+<tr><td>105. Date of submission of each payment application including eligible expenditure from the operation</td><td>  </td></tr>
+<tr><td>106. Total amount of eligible expenditure incurred by the beneficiary and paid in implementing the operation included in each payment application</td><td>  </td></tr>
+<tr><td>107. Total amount of public contribution of the operation included in each payment application</td><td>  </td></tr>
+<tr><td>108. Only for cases of State aid where advances are paid in accordance with Article 91(5), the amount paid to the beneficiary under the operation as an advance and included in a payment application (date and amount)</td><td>  </td></tr>
+<tr><td>109. Only for cases of State aid where advances are paid in accordance with Article 91(5), the amount of the advance included in a payment application which has been covered by expenditure paid by the beneficiary within three years of the payment of the advance</td><td>  </td></tr>
+<tr><td>110. Only for cases of State aid where advances are paid in accordance with Article 91(5), the amount paid to the beneficiary under the operation as an advance included in a payment application which has not been covered by expenditure paid by the beneficiary and for which the three-year period has not yet elapsed</td><td>  </td></tr>
+<tr><td>111. Only for aid schemes under Article 107 TFEU, amount of public contribution paid to the beneficiary in case of aid schemes, pursuant to Article 91(6) of this Regulation</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in each payment application from the Member State – only for expenditure for which Union contribution under Article 94 is provided</td></tr>
+<tr><td>112. For each type of expenditure in a payment application date on which it was paid and type of reimbursement by the Member State to the beneficiary</td><td>  </td></tr>
+<tr><td>113. Date and short description of the audits and management verifications carried out by the Member State aiming at verifying that the conditions for reimbursement by the Commission have been fulfilled</td><td>  </td></tr>
+<tr><td>114. Only for reimbursement of eligible expenditure under Article 94, amount of eligible expenditure in accordance with the decision referred to in Article 94(2) or the delegated act referred to in Article 94(4), included in each payment application</td><td>  </td></tr>
+<tr><td colspan="2">Data on expenditure in each payment application from the Member State - only for expenditure for which Union contribution under Article 95 is provided</td></tr>
+<tr><td>115. Information on the type of reimbursement by the Member State to the beneficiary and what kind of support it takes, as well as the date of reimbursement</td><td>  </td></tr>
+<tr><td>116. Date and short description of the audits and management verifications carried out by the Member State aiming at exclusively verifying that the conditions for reimbursement by the Commission have been fulfilled</td><td>  </td></tr>
+<tr><td>117. Only for reimbursement of eligible expenditure under Article 95, amount of eligible expenditure in accordance with the decision referred to in Article 95(2) or the delegated act referred to in Article 95(4), included in each payment application</td><td>  </td></tr>
+<tr><td colspan="2">Specific data on payment applications to the Commission (in EUR) for financial instruments</td></tr>
+<tr><td>118. Total amount of programme contributions effectively paid, or, in case of guarantees, set aside for guarantee contracts, as eligible expenditure in accordance with Article 92(1)</td><td>  </td></tr>
+<tr><td>119. Amount of public contribution effectively paid or, in case of guarantees, set aside for guarantee contracts, as eligible expenditure in accordance with Article 92(1)</td><td>  </td></tr>
+<tr><td>120. Total amount of programme contributions paid to financial instrument included in the first payment application</td><td>  </td></tr>
+<tr><td>121. Amount of public contribution paid to the financial instrument included in the first payment application</td><td>  </td></tr>
+<tr><td>122. Total amount of programme contributions effectively paid or, in the case of guarantees, set aside for guarantee contracts as eligible expenditure, and included in payment applications in accordance with point (b) of Article 92(2)</td><td>  </td></tr>
+<tr><td>123. The amount of corresponding public contribution, effectively paid or, in the case of guarantees, set aside for guarantee contracts as eligible expenditure, and included in payment applications in accordance with point (b) of Article 92(2)</td><td>  </td></tr>
+<tr><td colspan="2">Data on accounts submitted to the Commission under point (a) of Article 98(1) (in EUR)</td></tr>
+<tr><td>124. The date of submission of each set of accounts, including expenditure linked to an operation</td><td>  </td></tr>
+<tr><td>125. Total amount of eligible expenditure of the operation entered into the accounting systems of the body carrying out the accounting function, which has been included in the accounts</td><td>  </td></tr>
+<tr><td>126. Total amount of public contribution made or to be made in implementing the operation corresponding to the total amount of eligible expenditure entered into the accounting systems of the body carrying out the accounting function, which has been included in the accounts</td><td>  </td></tr>
+<tr><td>127. Total amount of payments paid to the beneficiary corresponding to the total amount of eligible expenditure entered into the accounting systems of the body carrying out the accounting function which has been included in the accounts</td><td>  </td></tr>
+<tr><td>128. Total eligible expenditure of the operation withdrawn during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>129. Total amount of public contribution made or to be made in implementing the operation corresponding to total eligible expenditure of the operation withdrawn during the accounting year included in the accounts</td><td>  </td></tr>
+<tr><td>130. Total expenditure of the operation deducted from the accounts under points (a), (b) and (c) of Article 98(6) during the accounting year reflected in the accounts (out of which amounts corrected as a results of audits)</td><td>  </td></tr>
+<tr><td colspan="2">Specific data for financial instruments on accounts submitted to the Commission under point (a) of Article 98(1) (in EUR)</td></tr>
+<tr><td>131. Total amount of programme contributions paid to financial instruments included in the first payment application</td><td>  </td></tr>
+<tr><td>132. The amount of public contribution paid to financial instrument included in the first payment application</td><td>  </td></tr>
+<tr><td>133. Total amount of programme contributions effectively paid or, in the case of guarantees, set aside for guarantee contracts, as eligible expenditure included in the accounts</td><td>  </td></tr>
+<tr><td>134. The amount of corresponding public contribution effectively paid or, in the case of guarantees, set aside for guarantee contracts as eligible expenditure included in the accounts</td><td>  </td></tr>
+<tr><td colspan="2">Data on specific types of expenditure</td></tr>
+<tr><td>135. Amount of ERDF-type expenditure co-financed by the ESF+ under Article 20(2) paid or to be paid</td><td>Not applicable to the ERDF, the Cohesion Fund, JTF, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>136. Amount of ESF+-type expenditure co-financed by the ERDF under Article 20(2) paid or to be paid</td><td>Not applicable to the ESF+, the Cohesion Fund, JTF, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>137. Amount of incurred and paid expenditure for land purchase under point (b) of Article 64(1) and the amount linked to land purchase pursuant to 64(1) and, where applicable, the reasons for exceeding the ceilings</td><td>  </td></tr>
+<tr><td>138. Amount of in-kind contributions to the operation</td><td>  </td></tr>
+<tr><td>139. Amount of depreciation costs for which no payment supported by invoices has been made to the operation</td><td>  </td></tr>
+<tr><td>140. Amount of the contribution from the ERDF or, where applicable, an external financing instrument of the Union to a small project Fund within an Interreg programme</td><td>Not applicable to the ESF+, the Cohesion Fund, JTF, EMFAF, AMIF, ISF or BMVI</td></tr>
+<tr><td>141. Amount of incurred and paid expenditure for operating support under Article 16(1) of the BMVI Regulation (and Article 17(3) of the BMVI Regulation for LT only), Article 16(1) of the ISF Regulation, or Article 21(1) of the AMIF Regulation.</td><td>Not applicable to the ERDF, ESF+, the Cohesion Fund, JTF or EMFAF</td></tr>
+<tr><td>142. Amount of incurred and paid expenditure for equipment, means of transport or the construction of security-relevant facilities pursuant to Article 13(7) of the ISF Regulation</td><td>Not applicable to the ERDF, ESF+, the Cohesion Fund, JTF, EMFAF, AMIF or BMVI</td></tr>
+<tr><td colspan="2">(1)  In case of the European territorial cooperation goal (Interreg), beneficiaries shall include the lead beneficiary and other beneficiaries.  (2)  Beneficiary includes, where applicable, other bodies incurring expenditure under the operation which is treated as expenditure incurred by the beneficiary.  (3)  Information under this field is only required at the first level of sub-contracting, only where information is recorded on a contractor under field 23, and only for sub-contracts above EUR 50 000 total value.  (4)  Directive 2014/23/EU of the European Parliament and of the Council of 26 February 2014 on the award of concession contracts (OJ L 94, 28.3.2014, p. 1.).  (5)  Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65).  (6)  Directive 2014/25/EU of the European Parliament and the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).  (7)  Information under this field is only required where information is recorded under fields 23 or 24.  (8)  Directive 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security, and amending Directives 2004/17/EC and 2004/18/EC (OJ L 216, 20.8.2009, p. 76). </td></tr>
+</tbody>
+</table>
+
+## ANNEX XVIII — Template for the management declaration – point (f) of Article 74(1)
+
+I/We, the undersigned (name(s), first name(s), title(s) or function(s)), Head of the managing authority for the programme (name of the programme, CCI)
+
+based on the implementation of the (name of programme) during the accounting year ended 30 June (year), based on my/our own judgment and on all information available to me/us at the date of the accounts submitted to the Commission, including the results from management verifications carried out in accordance with Article 74 of Regulation (EU) 2021/1060 of the European Parliament and of the Council ( 50 ) and from audits in relation to the expenditure included in the payment applications submitted to the Commission in respect of the accounting year ended 30 June … (year),
+
+and taking into account my/our obligations under Regulation (EU) 2021/1060
+
+hereby declare that:
+
+(a) the information in the accounts is properly presented, complete and accurate in accordance with Article 98 of Regulation (EU) 2021/1060,
+
+(b) the expenditure entered in the accounts complies with applicable law and was used for its intended purpose,
+
+I/We confirm that irregularities identified in the final audit and control reports in relation to the accounting year have been appropriately treated in the accounts, in particular to comply with Article 98 for submitting accounts. I/We also confirm that expenditure which is subject to an ongoing assessment of its legality and regularity has been excluded from the accounts pending conclusion of the assessment, for possible inclusion in a payment application in a subsequent accounting year.
+
+Furthermore, I/we confirm the reliability of data relating to indicators, milestones and the progress of the programme.
+
+I/we also confirm that effective and proportionate anti-fraud measures are in place and that these take account of the risks identified in that respect.
+
+Finally, I/we confirm that I/we am/are not aware of any undisclosed reputational matter related to the implementation of the programme.
+
+## ANNEX XIX — Template for the annual audit opinion – point (a) of Article 77(3)
+
+To the European Commission, Directorate-General [name of the concerned Directorate(s)-General]
+
+**1\. INTRODUCTION**
+
+I, the undersigned, representing the [name of the audit authority], independent in the sense of Article 71(2) of Regulation (EU) 2021/1060 of the European Parliament and of the Council ( 51 ), have audited
+
+(i) the accounts for the accounting year started on 1 July … [year] and ended 30 June … [year+1]and dated … [date of the accounts submitted to the Commission] (hereafter ‘the accounts’),
+
+(ii) the legality and regularity of the expenditure for which reimbursement has been requested from the Commission in reference to the accounting year (and included in the accounts), and
+
+(iii) the functioning of the management and control system, and verified the management declaration in relation to the programme [name of programme, CCI number] (hereafter ‘the programme’),
+
+in order to issue an audit opinion in accordance with point (a) of Article 77(3).
+
+**2\. RESPONSIBILITIES OF THE MANAGING AUTHORITY**
+
+[Name of the managing authority], identified as the managing authority of the programme, is responsible to ensure proper functioning of the management and control system in regard to the functions and tasks provided for in Articles 72 to 75.
+
+In addition, the [name of the managing authority or of the body carrying out the accounting function where relevant], is responsible to confirm the completeness, accuracy and veracity of the accounts, as required in Article 76 of Regulation (EU) 2021/1060 (and Article 46 of Regulation (EU) 2021/1059 of the European Parliament and of the Council ( 52 ) , ( 53 ).
+
+Moreover, in accordance with Article 74 of Regulation (EU) 2021/1060 it is the responsibility of the managing authority to confirm that the expenditure entered in the accounts is legal and regular and complies with applicable law.
+
+**3\. RESPONSIBILITIES OF THE AUDIT AUTHORITY**
+
+As established by Article 77 of Regulation (EU) 2021/1060, my responsibility is to independently express an opinion on the completeness, accuracy and veracity of the accounts, whether expenditure for which reimbursement has been requested from the Commission and which is included in the accounts is legal and regular, and whether the management and control system put in place functions properly.
+
+My responsibility is also to include in the opinion a statement as to whether the audit work puts in doubt the assertions made in the management declaration.
+
+The audits in respect of the programme were carried out in accordance with the audit strategy and complied with internationally accepted audit standards. Those standards require that the audit authority complies with ethical requirements, plans and performs the audit work in order to obtain reasonable assurance for the purpose of the audit opinion.
+
+An audit involves performing procedures to obtain sufficient and appropriate evidence to support the opinion set out below. The procedures performed depend on the auditor's professional judgement, including assessing the risk of material non-compliance, whether due to fraud or error. The audit procedures performed are those that I believe to be appropriate in the circumstances and comply with the requirements of Regulation (EU) 2021/1060.
+
+I believe that the audit evidence gathered is sufficient and appropriate to provide the basis for my opinion, [in case there is any scope limitation:] except those which are mentioned in point 4 ‘Scope limitation’.
+
+The summary of the main findings drawn from the audits in respect of the programme are reported in the attached annual control report in accordance with point (b) of Article 77(3) of Regulation (EU) 2021/1060.
+
+**4\. SCOPE LIMITATION**
+
+Either
+
+There were no limitations on the audit scope.
+
+Or
+
+The audit scope was limited by the following factors:
+
+(a) …
+
+(b) …
+
+(c) …
+
+[N.B. Indicate any limitation on the audit scope, for example any lack of supporting documentation, cases under legal proceedings, and estimate under ‘Qualified opinion’ below, the amounts of expenditure and contribution the support from the Funds affected and the impact of the scope limitation on the audit opinion. Further explanations in this regard shall be provided in the annual control report, as appropriate.]
+
+**5\. OPINION**
+
+Either
+
+(Unqualified opinion)
+
+In my opinion, and based on the audit work performed:
+
+(1) Accounts
+
+— the accounts give a true and fair view;
+
+(2) Legality and regularity of the expenditure included in the accounts
+
+— expenditure included in the accounts is legal and regular ( 54 ),
+
+(3) The management and control system in place as at the date of this audit opinion
+
+— the management and control system functions properly
+
+The audit work carried out does not put in doubt the assertions made in the management declaration.
+
+Or
+
+(Qualified opinion)
+
+In my opinion, and based on the audit work performed,
+
+(1) Accounts
+
+— the accounts give a true and fair view [where the qualification applies to the accounts, the following text is added:] except in the following material aspects: …
+
+(2) Legality and regularity of the expenditure included in the accounts
+
+— the expenditure included in the accounts is legal and regular [where the qualification applies to the accounts, the following text is added:] except for the following aspects: …
+
+The impact of the qualification is limited [or significant] and corresponds to … (amount in EUR of the total amount of expenditure included in the accounts)
+
+(3) The management and control system in place as at the date of this audit opinion
+
+— the management and control system put in place functions properly [where the qualification applies to the management and control system, the following text is added:] except for the following aspects ( 55 ): …
+
+The impact of the qualification is limited [or significant] and corresponds to … (amount in EUR of the total amount of expenditure included in the accounts).
+
+The audit work carried out does not put/puts [delete as appropriate] in doubt the assertions made in the management declaration.
+
+[Where the audit work carried out puts in doubt the assertions made in the management declaration, the audit authority shall disclose in this paragraph the aspects leading to this conclusion.]
+
+Or
+
+(Adverse opinion)
+
+In my opinion, and based on the audit work performed:
+
+(i) the accounts give/do not give [delete as appropriate] a true and fair view; and/or
+
+(ii) the expenditure included in the accounts for which reimbursement has been requested from the Commission is/is not [delete as appropriate] legal and regular; and/or
+
+(iii) the management and control system put in place functions/does not function [delete as appropriate] properly.
+
+This adverse opinion is based on the following aspects:
+
+— in relation to material matters related to the accounts:
+
+and/or [delete as appropriate]
+
+— in relation to material matters related to the legality and regularity of the expenditure included in the accounts for which reimbursement has been requested from the Commission:
+
+and/or [delete as appropriate]
+
+— in relation to material matters related to the functioning of the management and control system ( 56 ):
+
+The audit work carried out puts in doubt the assertions made in the management declaration for the following aspects:
+
+[The audit authority may also include emphasis of matter, not affecting its opinion, as established by internationally accepted auditing standards. A disclaimer of opinion can be envisaged in exceptional cases ( 57 ).]
+
+Date:
+
+Signature:
+
+______________
+
+## ANNEX XX — Template for the annual control report – point (b) of Article 77(3)
+
+**1\. Introduction**
+
+1.1. Identification of the audit authority and other bodies that have been involved in the preparation of the report.
+
+1.2. Reference period (i.e. the accounting year).
+
+1.3. Audit period (during which the audit work took place).
+
+1.4. Identification of the programme(s) covered by the report and of its/their managing authority/ies. Where the report covers more than one programme or Fund, the information shall be broken down by programme and by Fund, identifying in each Section the information that is specific for the programme and/or the Fund.
+
+1.5. A description of the steps taken to prepare the report and to draw up the corresponding audit opinion.
+
+Section 1.5 is to be adapted for Interreg programmes in order to describe the steps taken to prepare the report based on the specific rules on audits on operations applicable to Interreg programmes as set out in Article 49 of Regulation (EU) 2021/1059 of the European Parliament and of the Council ( 58 ) (the ‘Interreg Regulation’).
+
+**2\. Significant changes in management and control system(s)**
+
+2.1. Details of any major changes in the management and control systems related to the managing authority's responsibilities, in particular with respect to the delegation of functions to intermediate bodies, to the body to which the accounting function has been entrusted and confirmation of their compliance with Articles 72 to 76 and 81 based on the audit work carried out by the audit authority.
+
+2.2. Information on the application of enhanced proportionate arrangements pursuant to Articles 83, 84 and 85.
+
+**3\. Changes to the audit strategy**
+
+3.1. Details of any changes made to the audit strategy and related explanations. In particular, indicate any change to the sampling method used for the audit of operations (see Section 5) and whether the strategy was subject to changes due to the application of enhanced proportionate arrangements pursuant to Articles 83, 84 and 85.
+
+3.2. Section 1 is to be adapted for Interreg programmes in order to describe changes to the audit strategy based on the specific rules on audits of operations applicable to Interreg programmes as set out in Article 49 of the Interreg Regulation .
+
+**4\. System audits (where applicable ( 59 )**
+
+4.1. Details of the bodies (including the audit authority) that have carried out audits on the proper functioning of the management and control system of the programme (‘system audits’).
+
+4.2. A description of the basis for the audits carried out, including a reference to the audit strategy applicable and more particularly to the risk assessment methodology and the results that led to establishing the audit plan for system audits. If the risk assessment has been updated, this should be described in Section 3 covering the changes in the audit strategy.
+
+4.3. In relation to the table in Section 9.1, a description of the main findings and conclusions drawn from system audits, including the audits targeted at specific thematic areas.
+
+4.4. Indications as to whether any irregularities identified were considered to be of a systemic character, details of the measures taken, including a quantification of the irregular expenditure and any related financial corrections made, in accordance with point (b) of Article 77(3) and Article 103.
+
+4.5. Information on the follow up of audit recommendations from system audits from previous accounting years.
+
+4.6. A description of irregularities or deficiencies specific to financial instruments or other types of expenditure or costs covered by particular rules (e.g. State aid, public procurement, simplified cost options, financing not linked to costs), detected during system audits and of the follow up given by the managing authority to remedy these irregularities or deficiencies.
+
+4.7. Level of assurance obtained following the system audits (low/average/high) and a justification.
+
+**5\. Audits of operations**
+
+Sections 5.1 to 5.10 are to be adapted for Interreg programmes in order to describe the steps taken to prepare the report based on the specific rules on audits on operations applicable to Interreg programmes as set out in Article 49 of the Interreg Regulation.
+
+5.1. Identification of the bodies (including the audit authority) that carried out the audits of operations (as envisaged in Article 79).
+
+5.2. A description of the sampling methodology applied and information as to whether the methodology is in accordance with the audit strategy.
+
+5.3. An indication of the sampling parameters and other information for statistical or non-statistical sampling procedures, as well as an explanation of the underlying calculations and professional judgement applied. The information should include: materiality level, confidence level, sampling unit, expected error rate, sampling interval, standard deviation, population value, population size, sample size and information on stratification. The underlying calculations for sample selection, total error rate and residual error rate in Section 9.3, in a format permitting an understanding of the basic steps taken, in accordance with the specific sampling method used.
+
+5.4. A reconciliation between the amounts included in the accounts, as well as the amounts declared in payment applications during the accounting year and the population from which the random sample was drawn (column ‘A’ of table in Section 9.2). Reconciling items include negative sampling units where financial corrections have been made.
+
+5.5. Where there are negative sampling units, confirmation that they have been treated as a separate population. Analysis of the principal results of the audits of these units, namely focusing on verifying whether the decisions to apply financial corrections (taken by the Member State or by the Commission) have been registered in the accounts as withdrawals.
+
+5.6. Where a non-statistical sampling method is used, specify the reasons for using the method, the percentage of sampling units covered by audits, the steps taken to ensure randomness of the sample bearing in mind that the sample has to be representative.
+
+In addition, define the steps taken to ensure a sufficient size of the sample, enabling the audit authority to draw up a valid audit opinion. A total (projected) error rate is also calculated where non-statistical sampling method has been used.
+
+5.7. Analysis of the main findings of the audits of operations, describing:
+
+(a) the number of sampling units audited, the respective amount;
+
+(b) the type of error by sampling unit ( 60 );
+
+(c) the nature of errors found ( 61 );
+
+(d) the stratum ( 62 ) error rate and corresponding serious deficiencies or irregularities the upper limit of the error rate, root causes, corrective measures proposed (including those intending to improve the management and control systems) and the impact on the audit opinion.
+
+Further explanations on the data presented in Sections 9.2 and 9.3 shall be provided, in particular concerning the total error rate.
+
+5.8. Details of any financial corrections relating to the accounting year and implemented by the managing authority before submitting the accounts to the Commission, and as a consequence of the audits of operations, including flat rate or extrapolated corrections leading to a reduction to 2 % of the residual error rate of the expenditure included in the accounts pursuant to Article 98.
+
+5.9. Comparison of the total error rate and the residual error rate (as shown in Section 9.2) with the materiality level of 2 %, in order to ascertain if the population is materially misstated and the impact on the audit opinion.
+
+5.10. Details of whether any irregularities identified were considered to be systemic in nature, and the measures taken, including a quantification of the irregular expenditure and any related financial corrections.
+
+5.11. Information on the follow-up of audits of operations carried out in respect of the common sample for Interreg programmes based on the specific rules on audits on operations applicable to Interreg programmes as set out in Article 49 of the Interreg Regulation.
+
+5.12. Information on the follow-up of audits of operations carried out for previous accounting years, in particular on serious deficiencies of systemic nature.
+
+5.13. A table categorising errors identified by type.
+
+5.14. Conclusions drawn from the main findings of the audits of operations with regard to the proper functioning of the management and control system.
+
+Section 5.14 is to be adapted for Interreg programmes in order to describe the steps taken to draw the conclusions based on the specific rules on audits on operations applicable to Interreg programmes as set out in Article 49 of the Interreg Regulation.
+
+**6\. Audits of accounts**
+
+6.1. Identification of the authorities/bodies that have carried out audits of accounts.
+
+6.2. Description of audit approach used to verify that the accounts are complete, accurate and true. This shall include a reference to the audit work carried out in the context of system audits, audits of operations with relevance for the assurance on the accounts and additional verifications to be carried out on the draft accounts before these are sent to the Commission.
+
+6.3. Conclusions drawn from the audits in relation to the completeness, accuracy and veracity of the accounts, including an indication on the corresponding financial corrections made and reflected in the accounts as a follow-up to these conclusions.
+
+6.4. Indication of whether any irregularities identified were considered to be systemic in nature, and of the measures taken.
+
+**7\. Other information**
+
+7.1. Audit authority’s assessment of the cases of suspicions of fraud detected in the context of their audits (and of the cases reported by other national or Union bodies and related to operations audited by the audit authority), together with the measures taken. Information on number of cases, gravity, and the amounts affected, if known.
+
+7.2. Subsequent events occurred after the end of the accounting year and before the transmission of the annual control report to the Commission and considered when establishing the level of assurance and opinion by the audit authority.
+
+**8\. Overall level of assurance**
+
+8.1. Indication of the overall level of assurance on the proper functioning of the management and control system, and an explanation of how the level was obtained from the combination of the results of the system audits and audits of operations. Where relevant, the audit authority shall take also account of the results of other national or Union audit work carried out.
+
+8.2. Assessment of any mitigating actions not linked to financial corrections that were implemented, financial corrections implemented and an assessment of the need for any additional corrective measures, both from the perspective of improvements of the management and control systems and of the impact on the Union budget.
+
+**9\. ANNEXES TO THE ANNUAL CONTROL REPORT**
+
+9.1. Results of system audits.
+
+<table>
+<tbody><tr><td rowspan="2">Audited Entity</td><td rowspan="2">Fund (Multi-funds programme)</td><td rowspan="2">Title of the audit</td><td rowspan="2">Date of the final audit report</td><td colspan="10">Programme: [CCI and name of Programme]</td><td rowspan="2">Overall assessment (category 1, 2, 3, 4) [as defined in Table 2 of Annex XI to the Regulation </td><td rowspan="2">Comments</td></tr>
+<tr><td colspan="10">Key requirements (as applicable) [as defined in Table 1 of Annex XI </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>KR 1</td><td>KR 2</td><td>KR 3</td><td>KR 4</td><td>KR 5</td><td>KR 6</td><td>KR 7</td><td>KR 8</td><td>KR 9</td><td>KR 10</td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">MA</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td rowspan="2">  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">IB(s)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td rowspan="2">Accounting function (if not performed by the MA)</td><td>  </td><td>  </td><td>  </td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td><td rowspan="2">  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="16">Note: The blank parts in the table above refer to key requirements that are not applicable to the audited entity.</td></tr>
+</tbody>
+</table>
+
+9.2. Results of audits of operations
+
+<table>
+<tbody><tr><td rowspan="3">Fund</td><td rowspan="3">Programme CCI number</td><td rowspan="3">Programme title</td><td>A</td><td colspan="2">B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td></tr>
+<tr><td rowspan="2">Amount in Euros corresponding to the population from which the sample was drawn ()</td><td colspan="2">Expenditure in reference to the accounting year audited for the random sample</td><td>Amount of irregular expenditure in random sample</td><td>Total error rate ()</td><td>Corrections implemented as a result of the total error rate</td><td>Residual total error rate</td><td>Other expenditure audited ()</td><td>Amount of irregular expenditure in other expenditure audited</td></tr>
+<tr><td>Amount ()</td><td>% ()</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td colspan="12">(1)  Column ‘A’ shall refer to the positive population from which the random sample was drawn, i.e. total amount of eligible expenditure entered into the accounting system of the managing authority/body carrying out the accounting function which has been included in payment applications submitted to the Commission less negative sampling units if any. Where applicable, explanations shall be provided in Section 5.4.  (2)  The total error rate is calculated before any financial corrections are applied in relation to the audited sample or the population from which the random sample was drawn. Where the random sample covers more than one Fund or programme, the total error rate (calculated) presented in column ‘D’ concerns the whole population. Where stratification is used, further information by stratum shall be provided in Section 5.7.  (3)  Column ‘G’ shall refer to expenditure audited in the context of a complementary sample.  (4)  Amount of expenditure audited (in case sub-sampling is applied) only the amount of the expenditure items effectively audited, shall be included in this column).  (5)  Percentage of expenditure audited in relation to the population. </td></tr>
+</tbody>
+</table>
+
+9.3. Calculations underlying the random sample selection, total error rate and total residual error rate.
+
+## ANNEX XXI — Template for the annual audit report – Article 81(5)
+
+**1\. Introduction**
+
+1.1. Identification of the external audit firm that has been involved in preparing the report.
+
+1.2. Reference period (e.g. 01 July N-1 to 30 June N).
+
+1.3. Identification of the financial instrument(s)/mandate(s) and programme(s) covered by the audit report. Identification of the funding agreement to which the report relates to (the ‘Funding agreement’).
+
+**2\. Audit of internal control systems applied by the EIB/EIF or other international financial institutions**
+
+Results of the external audit of the internal control system of the EIB or other international financial institutions (IFIs), in which a Member State is a shareholder, assessing the set-up and effectiveness of this internal control system and covering the following elements:
+
+2.1. Mandate acceptance process.
+
+2.2. Process for the appraisal and selection of financial intermediaries: formal and quality assessment.
+
+2.3. Process for the approval of transactions with financial intermediaries and signature of relevant funding agreements.
+
+2.4. Processes for the monitoring of financial intermediaries relating to:
+
+2.4.1. reporting by financial intermediaries;
+
+2.4.2. maintenance of records;
+
+2.4.3. disbursements to final recipients;
+
+2.4.4. eligibility of support to final recipients;
+
+2.4.5. management fees and costs charged by the financial intermediaries;
+
+2.4.6. visibility, transparency and communication requirements;
+
+2.4.7. implementation of State aid requirements by the financial intermediaries;
+
+2.4.8. differentiated treatment of investors, where relevant;
+
+2.4.9. compliance with applicable Union law related to money laundering, terrorism financing, tax avoidance, tax fraud or tax evasion.
+
+2.5. Systems for the processing of payments received from the managing authority.
+
+2.6. Systems for the calculation and payment of amounts related to management costs and fees.
+
+2.7. Systems for the processing of payments to financial intermediaries.
+
+2.8. Systems for the processing of interest and other gains generated by support from the Funds to financial instruments.
+
+For points 2.1, 2.2 and 2.3, following the submission of the first annual audit report information only on the updates or changes to the procedures or arrangements in place need to be provided.
+
+2.9. For the annual audit report concerning the final accounting year information on the following elements shall be covered in addition to those of points 2.1 to 2.8:
+
+2.9.1. Use of differentiated treatment of investors;
+
+2.9.2. Achieved multiplier ratio compared to the agreed multiplier ratio in the guarantee agreements for financial instruments delivering guarantees;
+
+2.9.3. Use of interest and other gains attributable to the support from the Funds paid to financial instruments in line with Article 60;
+
+2.9.4. Use of resources paid back to financial instruments, which are attributable to the support from the Funds, until the end of the eligibility period and arrangements put in place for the use of those resources after the end of the eligibility period in line with Article 62.
+
+**3\. Audit conclusions**
+
+3.1. Conclusion as to whether the external audit firm can provide reasonable assurance on the set-up and effectiveness of the internal control system put in place by the EIB or other IFIs, in which a Member State is a shareholder, in accordance with the applicable rules, as per the elements referred to in Section 2.
+
+3.2. Findings and recommendations resulting from the audit work carried out.
+
+Points 3.1 and 3.2 shall be based on the results of the audit work referred to in Section 2 and, where relevant, take account of the results of other national or Union audit work carried out in relation to the same body implementing financial instruments or to the same mandate for financial instruments.
+
+## ANNEX XXII — Template for the audit strategy – Article 78
+
+**1\. INTRODUCTION**
+
+(a) Identification of the programme(s) (title(s) and CCI(s) numbers ( 63 ), Funds and period covered by the audit strategy.
+
+(b) Identification of the audit authority responsible for drawing up, monitoring and updating the audit strategy and of any other bodies that have contributed to this document.
+
+(c) Reference to the status of the audit authority (national, regional or local public body) and the body in which it is located.
+
+(d) Reference to the mission statement, audit charter or national legislation (where applicable) setting out the functions and responsibilities of the audit authority and other bodies carrying out audits under its responsibility.
+
+(e) Confirmation by the audit authority that the bodies carrying out audits have the requisite functional and organisational independence.
+
+**2\. RISK ASSESSMENT**
+
+(a) explanation of the risk assessment method followed; and
+
+(b) internal procedures for updating the risk assessment.
+
+**3\. METHODOLOGY**
+
+**3.1. Overview**
+
+(a) Reference to the internationally accepted audit standards that the audit authority will apply for its audit work.
+
+(b) Information on how the audit authority will obtain its assurance with regard to programmes in the standard management and control system and for programmes with enhanced proportionated arrangements (description of main building blocks - types of audits and their scope).
+
+(c) Reference to the procedures in place for drawing up the annual control report and audit opinion to be submitted to the Commission in accordance with Article 77(3) of this Regulation, with the necessary exceptions for Interreg programmes based on the specific rules on audits on operations applicable to Interreg programmes as set out in Article 49 of the Interreg Regulation.
+
+(d) Reference to audit manuals or procedures containing the description of the main steps of the audit work, including the classification treatment of the errors detected in the preparation of the annual control report to be submitted to the Commission in accordance with point (b) of Article 77(3).
+
+(e) For Interreg programmes, reference to specific audit arrangements and explanation on how the audit authority intends to ensure cooperation with the Commission regarding the audits of operations under the common Interreg sample to be drawn by the Commission set out in Article 49 of the Interreg Regulation.
+
+(f) For Interreg programmes, when additional audit work may be required as set out in Article 49 of Regulation the Interreg Regulation (reference to specific audit arrangements in that respect and to the follow up of that additional audit work).
+
+**3.2. Audits on the proper functioning of management and control systems (system audits)**
+
+Identification of the bodies/structures to be audited, as well as the relevant key requirements in the context of system audits. The list shall include any bodies that have been appointed in the last twelve months.
+
+Where applicable, reference to the audit body on which the audit authority relies to perform these audits.
+
+Indication of any system audits targeted at specific thematic areas or bodies, such as:
+
+(a) quality and quantity of the administrative and on-the-spot management verifications in respect of applicable law such as public procurement rules, State aid rules or environmental requirements;
+
+(b) quality of project selection and of management verifications at the level of the managing authority or intermediate body;
+
+(c) set-up and implementation of financial instruments at the level of the bodies implementing financial instruments;
+
+(d) functioning and security of electronic systems, and their connection with the electronic data exchange system of the Commission;
+
+(e) reliability of data related to targets and milestones and on the progress of the programme in achieving its objectives provided by the managing authority;
+
+(f) financial corrections (and deductions from the accounts);
+
+(g) implementation of effective and proportionate anti-fraud measures underpinned by a fraud risk assessment.
+
+**3.3. Audits of operations**
+
+**3.3.1. For all programmes except Interreg programmes**
+
+(a) Description of (or reference to internal document specifying) the sampling methodology to be used in line with Article 79 (and other specific procedures in place for audits of operations, namely related to the classification and treatment of the errors detected, including suspected fraud).
+
+(b) A separate description shall be proposed for years when the Member States chooses to apply the enhanced proportionate system for one or more programmes as set out in Article 83.
+
+**3.3.2. For Interreg programmes**
+
+(a) Description of (or reference to internal document specifying) the treatment of findings and errors to be used in line with Article 49(1) of the Interreg Regulation and other specific procedures in place for audits of operations, namely related to the common Interreg sample to be drawn up by the Commission each year.
+
+(b) A separate description shall be proposed for years when the common sample for audits of operations for Interreg programmes does not include operations or sampling units from of the programme in question and when the audit authority carries out a sampling exercise in line with Article 49(10) of the Interreg Regulation.
+
+In case of sampling exercise referred to in point (b), there shall be a description of the sampling methodology to be used by the audit authority and other specific procedures in place for audits of operations, namely related to the classification and treatment of the errors detected, etc.
+
+**3.4. Audits of the accounts**
+
+Description of the audit approach for audits of accounts.
+
+**3.5. Verification of the management declaration**
+
+Reference to the internal procedures setting out the work involved in the verification of the assertions in the management declaration as drawn up by the managing authority, for purposes of the audit opinion.
+
+**4\. AUDIT WORK PLANNED**
+
+(a) Description and justification of the audit priorities and objectives in relation to the current accounting year and the two subsequent accounting years, together with an explanation of the linkage of the risk assessment results to the audit work planned.
+
+(b) An indicative schedule of system audits, including audits targeted to specific thematic areas, in relation to the current accounting year and the two subsequent accounting years, as follows:
+
+| Authorities/Bodies or specific thematic areas to be audited | CCI | Programme Title | Body responsible for auditing | Result of risk assessment | 20xx Audit objective and scope | 20xx Audit objective and scope | 20xx Audit objective and scope |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |
+
+**5\. RESOURCES**
+
+(a) Organisation chart of the audit authority.
+
+(b) Indication of planned resources to be allocated in relation to the current accounting year and the two subsequent accounting years (including information on any foreseen outsourcing and its scope, where appropriate).
+
+## ANNEX XXIII — Template for payment applications – Article 91(3)
+
+**PAYMENT APPLICATION**
+
+**EUROPEAN COMMISSION**
+
+<table>
+<tbody><tr><td>  </td><td>  </td></tr>
+<tr><td>Fund concerned (1):</td><td>&lt;type="S" input="S" &gt; (2)</td></tr>
+<tr><td>Commission reference (CCI):</td><td>&lt;type="S" input="S"&gt;</td></tr>
+<tr><td>Name of programme:</td><td>&lt;type="S" input="G"&gt;</td></tr>
+<tr><td>Commission decision:</td><td>&lt;type="S" input="G"&gt;</td></tr>
+<tr><td>Date of Commission decision:</td><td>&lt;type="D" input="G"&gt;</td></tr>
+<tr><td>Payment application number:</td><td>&lt;type="N" input="G"&gt;</td></tr>
+<tr><td>Date of submission of the payment application:</td><td>&lt;type="D" input="G"&gt;</td></tr>
+<tr><td>National reference (optional):</td><td>&lt;type="S" maxlength="250" input="M"&gt;</td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">(1)  If a programme concerns more than one fund, a payment application should be sent separately for each fund.  (2)  Legends: <br> type: N=Number, D=Date, S=String, C=Checkbox, P=Percentage, B=Boolean, Cu=Currency <br> input: M=Manual, S=Selection, G=Generated by system </td></tr>
+</tbody>
+</table>
+
+According to Article 91, this payment application refers to the accounting year:
+
+<table>
+<tbody><tr><td>From (1)</td><td>&lt;type="D" input="G"&gt;</td><td>until:</td><td>&lt;type="D" input="G"&gt;</td></tr>
+<tr><td colspan="4">(1)  First day of the accounting year, automatically encoded by the electronic system. </td></tr>
+</tbody>
+</table>
+
+Expenditure broken down by priority and, where relevant, by category of region as entered into the accounts of the body carrying out the accounting function
+
+(Including programme contributions paid to financial instruments (Article 92 and advances paid in the context of State Aid (Article 91(5))
+
+This table shall not include expenditure linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions
+
+<table>
+<tbody><tr><td rowspan="2">Priority</td><td>Calculation basis (public or total) (1)</td><td>Total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in accordance with point (a) of Article 91(3) and point (c) of Article 91(4)</td><td>Total amount of Union contribution pursuant to points (a) and (b) of Article 91(4)</td><td>Amount for technical assistance in accordance with point (b) of Article 91(3)</td><td>Total amount of public contribution made or to be made in accordance with point (c) of Article 91(3)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td><td>(E)</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>  </td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="6">(1)  For the EMFAF the co-financing applies only on "Total eligible public expenditure". Therefore, in case of EMFAF, the calculation base in this template will automatically be adjusted to "Public". </td></tr>
+</tbody>
+</table>
+
+OR
+
+Expenditure broken down by specific objective as entered into the accounts of the managing authority
+
+Applicable for AMIF, ISF and BMVI
+
+This table shall not include expenditure linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions
+
+<table>
+<tbody><tr><td rowspan="2">Specific objective</td><td>Calculation basis (public or total)</td><td>Total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in accordance with point (a) of Article 91(3) and point (c) of Article 91(4)</td><td>Total amount of Union contribution pursuant to points (a) and (b) of Article 91(4)</td><td>Total amount of public contribution made or to be made in accordance with point (c) of Article 91(3)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4 (AMIF)</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer in')</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer out')</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance specific objective</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>  </td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+</tbody>
+</table>
+
+The template is automatically adjusted on the basis of the CCI. For example, in the case of programmes not including categories of region (the Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF if applicable) or programmes not modulating co-financing rates within a priority (specific objective), the table shall look as follows:
+
+This table shall not include expenditure linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions
+
+| Priority | Calculation basis (public or total) (') | Total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in accordance with point (a) of Article 91(3) and point (c) of Article 91(4) | Total amount of Union contribution pursuant to points (a) and (b) of Article 91(4) | Amount for technical assistance in accordance with point (b) of Article 91(3) | Total amount of public contribution made or to be made in accordance with point (c) of Article 91(3) |
+| --- | --- | --- | --- | --- | --- |
+|  | (A) | (B) | (C) | (D) | (E) |
+| Priority 1 | <type='S' input='C'> | <type="Cu" input="M"> | <type="Cu" input="M"> | <type="Cu" input="M"> | <type="Cu" input="M"> |
+| Priority 2 | <type='S' input='C'> | <type="Cu" input="M"> | <type="Cu" input="M"> | <type="Cu" input="M"> | <type="Cu" input="M"> |
+| Priority 3 | <type='S' input='C'> | <type="Cu" input="M"> | <type="Cu" input="M"> | <type="Cu" input="M"> | <type="Cu" input="M"> |
+| Grand total | <type="Cu" input="G"> | <type="Cu" input="G"> | <type="Cu" input="G"> | <type="Cu" input="G"> | <type="Cu" input="G"> |
+
+**DECLARATION**
+
+By validating this payment application the body carrying out the accounting function/managing authority requests the payment of the amounts as mentioned below.
+
+| Representing the body carrying out the accounting function: Or Representing the managing authority responsible for the accounting function: | <type="S" input="G"> |
+| --- | --- |
+
+**PAYMENT APPLICATION**
+
+<table>
+<tbody><tr><td rowspan="2">FUND</td><td>  </td><td colspan="3">  </td></tr>
+<tr><td>Less developed regions</td><td>Transition regions</td><td>More developed regions</td><td>Outermost regions and Northern sparsely populated regions</td></tr>
+<tr><td>  </td><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td></tr>
+<tr><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+</tbody>
+</table>
+
+**COMMENTS**
+
+The template is automatically adjusted on the basis of the CCI. For example, in the case of programmes not including categories of region (Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF if applicable) or programmes not modulating co-financing rates within a priority (specific objective), the table shall look as follows:
+
+| FUND | AMOUNT |
+| --- | --- |
+| <type="S" input="G"> | <type="Cu" input="G"> |
+
+Or
+
+Applicable for AMIF, ISF and BMVI
+
+| Fund |  | Amounts |
+| --- | --- | --- |
+| <type="S" input="G"> | Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation | <type="Cu" input="G"> |
+| <type="S" input="G"> | Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation | <type="Cu" input="G"> |
+| <type="S" input="G"> | Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation | <type="Cu" input="G"> |
+| <type="S" input="G"> | Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation | <type="Cu" input="G"> |
+| <type="S" input="G"> | Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme) | <type="Cu" input="G"> |
+| <type="S" input="G"> | Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation | <type="Cu" input="G"> |
+| <type="S" input="G"> | Actions co-financed in line with Article 12(5) of BMVI Regulation | <type="Cu" input="G"> |
+| <type="S" input="G"> | Actions co-financed in line with Article 19 of AMIF Regulation | <type="Cu" input="G"> |
+| <type="S" input="G"> | Actions co-financed in line with Article 20 of AMIF Regulation | <type="Cu" input="G"> |
+| <type="S" input="G"> | Technical assistance in accordance with Article 36(5) | <type="Cu" input="G"> |
+| <type="S" input="G"> | Technical assistance in accordance with Article 37 | <type="Cu" input="G"> |
+
+**COMMENTS**
+
+The payment will be made on the following bank account:
+
+| Body identified | <type="S" maxlength="150" input="G"> |
+| --- | --- |
+| Bank | <type="S" maxlength="150" input="G"> |
+| BIC | <type="S" maxlength="11" input="G"> |
+| Bank account IBAN | <type="S" maxlength="34" input="G"> |
+| Holder of account (where not the same as the body identified) | <type="S" maxlength="150" input="G"> |
+
+**Appendix 1**
+
+**Information on programme contributions paid to financial instruments as referred to in Article 92 and included in the payment applications (cumulative from the start of the programme)**
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td colspan="2">Amount included in the first payment application and paid to the financial instrument in accordance with Article 92 (maximum 30 % of the total amount of programme contributions committed to [the] financial instrument[s] under the relevant funding agreement)</td><td colspan="2">Corresponding cleared amount as referred to in Article 92(3) (1)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td></tr>
+<tr><td>Total amount of programme contributions paid to financial instruments</td><td>Total amount of corresponding public contribution</td><td>Total amount of programme contributions pursuant to Article 92(2)(b)</td><td>Total amount of corresponding public contribution</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="5">(1)  This amount shall not be included in the payment application. </td></tr>
+</tbody>
+</table>
+
+The template is automatically adjusted on the basis of the CCI. For example, in the case of programmes not including categories of region (Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF if applicable) or programmes not modulating co-financing rates within a priority (specific objective), the table shall look as follows:
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td colspan="2">Amount included in the first payment application and paid to the financial instrument in accordance with Article 92 (maximum 30 % of the total amount of programme contributions committed to [the] financial instrument[s] under the relevant funding agreement)</td><td colspan="2">Corresponding cleared amount as referred to in Article 92(3) (1)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td></tr>
+<tr><td>Total amount of programme contributions paid to financial instruments</td><td>Total amount of corresponding public contribution</td><td>Total amount of programme contributions pursuant to Article 92(2)(b)</td><td>Total amount of corresponding public contribution</td></tr>
+<tr><td>Priority 1</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="5">(1)  This amount shall not be included in the payment application. </td></tr>
+</tbody>
+</table>
+
+Or
+
+Applicable for AMIF, ISF and BMVI
+
+<table>
+<tbody><tr><td rowspan="3">Specific objective</td><td colspan="2">Amount included in the first payment application and paid to the financial instrument in accordance with Article 92 (maximum 30 % of the total amount of programme contributions committed to [the] financial instrument[s] under the relevant funding agreement)</td><td colspan="2">Corresponding cleared amount as referred to in Article 92(3) (1)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td></tr>
+<tr><td>Total amount of programme contributions paid to financial instruments</td><td>Total amount of corresponding public contribution</td><td>Total amount of programme contributions pursuant to Article 92(2)(b)</td><td>Total amount of corresponding public contribution</td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4 (AMIF)</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="5">(1)  This amount shall not be included in the payment application. </td></tr>
+</tbody>
+</table>
+
+**Appendix 2**
+
+**Information on expenditure linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions (cumulative from the beginning of the programming period)**
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td rowspan="2">Calculation basis (public or total) (1)</td><td colspan="2">Amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in the meaning of Article 91(3), points (a) or (c) or Union contribution pursuant to Article 91(4) linked to non-fulfilled enabling conditions within the meaning of Article 15(5) or (6), with the exception of operations that contribute to the fulfilment of enabling conditions</td><td colspan="2">Amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in the meaning of Article 91(3), points (a) or (c) or Union contribution pursuant to Article 91(4) linked to fulfilled enabling conditions within the meaning of Article 15(5) or (6), or contributing to the fulfilment of enabling conditions (2)</td></tr>
+<tr><td>Total</td><td>Public</td><td>Total</td><td>Public</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td><td>(E)</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>  </td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="6">(1)  For the EMFAF the co-financing applies only on "Total eligible public expenditure". Therefore, in case of EMFAF, the calculation base in this template will automatically be adjusted to "Public".  (2)  Amounts in this column should be identical to the amounts in the first table of Annex XXIII. </td></tr>
+</tbody>
+</table>
+
+**Appendix 3**
+
+**Information on expenditure linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions (cumulative from the beginning of the programming period) for AMIF, ISF and BMVI**
+
+<table>
+<tbody><tr><td rowspan="2">Specific objective</td><td>Calculation basis (public or total)</td><td colspan="2">Amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in the meaning of Article 91(3), points (a) or (c) or Union contribution pursuant to Article 91(4) linked to non-fulfilled enabling conditions within the meaning of Article 15(5) or (6), with the exception of operations that contribute to the fulfilment of enabling conditions</td><td colspan="2">Amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in the meaning of Article 91(3), points (a) or (c) or Union contribution pursuant to Article 91(4) linked to fulfilled enabling conditions within the meaning of Article 15(5) or (6), or contributing to the fulfilment of enabling conditions (1)</td></tr>
+<tr><td>(A)</td><td>Total (B) </td><td>Public (C) </td><td>Total (D) </td><td>Public (E) </td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4 (AMIF)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer in')</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer out')</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>  </td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td colspan="6">(1)  Amounts in this column should be identical to the amounts in the first table of Annex XXIII. </td></tr>
+</tbody>
+</table>
+
+**Appendix 4**
+
+**Advances paid in the context of State aid (Article 91(5)) and included in the payment applications (cumulative from the start of the programme)**
+
+<table>
+<tbody><tr><td rowspan="2">Priority</td><td>Total amount paid as advances (1)</td><td>Amount which has been covered by expenditure paid by beneficiaries within three years following the year of the payment of the advance</td><td>Amount which has not been covered by expenditure paid by beneficiaries and for which the three year period has not yet elapsed</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="4">(1)  This amount is included in the Total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations as mentioned in the payment application. As state aid is by nature public expenditure, this total amount is equal to public expenditure. </td></tr>
+</tbody>
+</table>
+
+The template is automatically adjusted on basis of the CCI. For example, in the case of programmes not including categories of region (Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF) the table shall look as follows:
+
+<table>
+<tbody><tr><td rowspan="2">Priority</td><td>Total amount paid as advances (1)</td><td>Amount which has been covered by expenditure paid by beneficiaries within 3 years of the payment of the advance</td><td>Amount which has not been covered by expenditure paid by beneficiaries and for which the 3 year period has not yet elapsed</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Priority 1</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="4">(1)  This amount is included in the total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations as mentioned in the payment application. As State aid is by nature public expenditure, this total amount is equal to public expenditure. </td></tr>
+</tbody>
+</table>
+
+Or
+
+Applicable for AMIF, ISF and BMVI Funds
+
+<table>
+<tbody><tr><td rowspan="2">Specific objective</td><td>Total amount paid as advances (1)</td><td>Amount which has been covered by expenditure paid by beneficiaries within three years of the payment of the advance</td><td>Amount which has not been covered by expenditure paid by beneficiaries and for which the three year period has not yet elapsed</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4 (AMIF)</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand Total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="4">(1)  This amount is included in the Total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations as mentioned in the payment application. As state aid is by nature public expenditure, this total amount is equal to public expenditure. </td></tr>
+</tbody>
+</table>
+
+## ANNEX XXIV — Template for the accounts - point (a) of Article 98(1)
+
+**ACCOUNTS FOR ACCOUNTING YEAR**
+
+&lt;type="D" – type="D" input="S">
+
+**EUROPEAN COMMISSION**
+
+<table>
+<tbody><tr><td>  </td><td>  </td></tr>
+<tr><td>Fund concerned (1):</td><td>&lt;type="S" input="S" &gt; (2)</td></tr>
+<tr><td>Commission reference (CCI):</td><td>&lt;type="S" input="S"&gt;</td></tr>
+<tr><td>Name of programme:</td><td>&lt;type="S" input="G"&gt;</td></tr>
+<tr><td>Commission decision:</td><td>&lt;type="S" input="G"&gt;</td></tr>
+<tr><td>Date of Commission decision:</td><td>&lt;type="D" input="G"&gt;</td></tr>
+<tr><td>Version of the accounts:</td><td>&lt;type="S" input="G"&gt;</td></tr>
+<tr><td>Date of submission of the accounts:</td><td>&lt;type="D" input="G"&gt;</td></tr>
+<tr><td>National reference (optional):</td><td>&lt;type="S" maxlength="250" input="M"&gt;</td></tr>
+<tr><td>  </td><td>  </td></tr>
+<tr><td colspan="2">(1)  If a programme concerns more than one fund, accounts should be sent separately for each fund.  (2)  Legends: <br> type: N=Number, D=Date, S=String, C=Checkbox, P=Percentage, B=Boolean, Cu=Currency <br> input: M=Manual, S=Selection, G=Generated by system </td></tr>
+</tbody>
+</table>
+
+**DECLARATIONS**
+
+The managing authority / the body carrying out the accounting function responsible for the programme hereby confirms that:
+
+(1) the accounts are complete, accurate and true;
+
+(2) the provisions in points (b) and (c) of Article 76(1) are respected.
+
+| Representing the managing authority / the body carrying out the accounting function: | <type="S" input="G"> |
+| --- | --- |
+
+The managing authority responsible for the programme hereby confirms that:
+
+(1) the expenditure entered into the accounts complies with applicable law and is legal and regular;
+
+(2) the provisions in the Fund-specific Regulations, Article 63(5) of the Financial Regulation and in points (a) to (e) of Article 74(1) of this Regulation are respected;
+
+(3) the provisions in Article 82 with regard to the availability of documents are respected.
+
+| Representing the managing authority | <type="S" input="G"> |
+| --- | --- |
+
+**Appendix 1**
+
+**Amounts entered into the accounting systems of the accounting function – point (a) of Article 98(3)**
+
+This table shall not include expenditure linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions
+
+<table>
+<tbody><tr><td rowspan="2">Priority</td><td>Total amount of eligible expenditure entered into the accounting systems of the body carrying out the accounting function which has been included in payment applications for the accounting year in accordance with point (a) of Article 98(3)</td><td>The amount for technical assistance in accordance with point (b) of Article 91(3)</td><td>Total amount of the corresponding public contribution made or to be made in accordance with point (a) of Article 98(3)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+</tbody>
+</table>
+
+Or
+
+Applicable for AMIF, ISF and BMVI
+
+This table shall not include expenditure linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions
+
+<table>
+<tbody><tr><td rowspan="2">Specific objective</td><td>Total amount of eligible expenditure entered into the accounting systems of the managing authority and which has been included in the payment for the accounting year in accordance with point (a) of Article 98(3)</td><td>Total amount of the corresponding public contribution made or to be made in accordance with point (a) of Article 98(3)</td></tr>
+<tr><td>(A)</td><td>(B)</td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4 (AMIF)</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer in')</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer out')</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+</tbody>
+</table>
+
+The template is automatically adjusted on the basis of the CCI. For example, in the case of programmes not including categories of region (Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF, if applicable) or programmes not modulating co-financing rates within a priority (specific objective), the table shall look as follows:
+
+This table shall not include expenditure linked to specific objectives for which enabling conditions are not fulfilled, with the exception of operations that contribute to the fulfilment of enabling conditions
+
+<table>
+<tbody><tr><td rowspan="2">Priority</td><td>Total amount of eligible expenditure entered into the accounting systems of the body carrying out the accounting function which has been included in payment applications for the accounting year in accordance with point (a) of Article 98(3)</td><td>The amount for technical assistance in accordance with point (b) of Article 91(3)</td><td>Total amount of the corresponding public contribution made or to be made in accordance with point(a) of Article 98(3)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Priority 1</td><td>&lt;type="Cu" input="M"&gt;</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>  </td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+</tbody>
+</table>
+
+**Appendix 2**
+
+**Amounts withdrawn during the accounting year – point (b) of Article 98(3) and Article 98(7)**
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td colspan="2">Withdrawals</td></tr>
+<tr><td>Total amount of expenditure included in payment applications</td><td>Corresponding public contribution</td></tr>
+<tr><td>(A)</td><td>(B)</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="3">Split of amounts withdrawn during the accounting year by accounting year of declaration of the corresponding expenditure</td></tr>
+<tr><td>In relation to accounting year ending 30 June XX … (total)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In particular, out of which amounts corrected as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In relation to accounting year ending 30 June XX … (total)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In particular, out of which amounts corrected as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+</tbody>
+</table>
+
+The template is automatically adjusted on the basis of the CCI. For example, in the case of programmes not including categories of regions (Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF, if applicable) or programmes not modulating co-financing rates within a priority (specific objective), the table shall look as follows:
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td colspan="2">Withdrawals</td></tr>
+<tr><td>Total amount of expenditure included in payment applications</td><td>Corresponding public contribution</td></tr>
+<tr><td>(A)</td><td>(B)</td></tr>
+<tr><td>Priority 1</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="3">Split of amounts withdrawn during the accounting year by accounting year of declaration of the corresponding expenditure</td></tr>
+<tr><td>In relation to accounting year ending 30 June XX … (total)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In particular, out of which amounts corrected as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In relation to accounting year ending 30 June XX … (total)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In particular, out of which amounts corrected as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+</tbody>
+</table>
+
+Or
+
+Applicable for AMIF, ISF and BMVI
+
+<table>
+<tbody><tr><td rowspan="3">Specific objective</td><td colspan="2">Withdrawals</td></tr>
+<tr><td>Total amount of expenditure included in payment applications</td><td>Corresponding public expenditure</td></tr>
+<tr><td>(A)</td><td>(B)</td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer in')</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer out')</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="3">Split of amounts withdrawn during the accounting year by accounting year of declaration of the corresponding expenditure</td></tr>
+<tr><td>In relation to accounting year ending 30 June XX … (total)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In particular, out of which amounts corrected as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In relation to accounting year ending 30 June XX … (total)</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>In particular, out of which amounts corrected as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+</tbody>
+</table>
+
+**Appendix 3**
+
+**Amounts of programme contributions paid to financial instruments**
+
+**(cumulative from the start of the programme) - point (c) of Article 98(3)**
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td colspan="2">Amount included in the first payment application and paid to the financial instrument in accordance with Article 92 (maximum 30 % of the total amount of programme contributions committed to [the] financial instrument[s] under the relevant funding agreement)</td><td colspan="2">Corresponding cleared amount as referred to in Article 92(3) (1)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td></tr>
+<tr><td>Total amount of programme contributions paid to financial instruments</td><td>Total amount of corresponding public contribution</td><td>Total amount of programme contributions pursuant to point (b) of Article 92(2)</td><td>Total amount of corresponding public contribution</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="5">(1)  This amount shall not be included in payment applications. </td></tr>
+</tbody>
+</table>
+
+The template is automatically adjusted on the basis of the CCI. For example, in the case of programmes not including categories of region (Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF, if applicable) or programmes not modulating co-financing rates within a priority (specific objective), the table shall look as follows:
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td colspan="2">Amount included in the first payment application and paid to the financial instrument in accordance with Article 92 (maximum 30 % of the total amount of programme contributions committed to [the] financial instrument[s] under the relevant funding agreement)</td><td colspan="2">Corresponding cleared amount as referred to in Article 92(3) (1)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td></tr>
+<tr><td>Total amount of programme contributions paid to financial instruments</td><td>Total amount of corresponding public contribution</td><td>Total amount of programme contributions pursuant to Article 92(2)(b)</td><td>Total amount of corresponding public contribution</td></tr>
+<tr><td>Priority 1</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="5">(1)  This amount shall not be included in payment applications. </td></tr>
+</tbody>
+</table>
+
+Or
+
+Applicable for AMIF, ISF and BMVI
+
+<table>
+<tbody><tr><td rowspan="3">Specific objective</td><td colspan="2">Amount included in the first payment application and paid to the financial instrument in accordance with Article 92 (maximum 30 % of the total amount of programme contributions committed to [the] financial instrument[s] under the relevant funding agreement)</td><td colspan="2">Corresponding cleared amount as referred to in Article 92(3) (1)</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td></tr>
+<tr><td>Total amount of programme contributions paid to financial instruments</td><td>Total amount of corresponding public contribution</td><td>Total amount of programme contributions pursuant to point (b) of Article 86(2)</td><td>Total amount of corresponding public contribution</td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="5">(1)  This amount shall not be included in the payment application. </td></tr>
+</tbody>
+</table>
+
+**Appendix 4**
+
+**Reconciliation of expenditure - point (d) of Article 98(3) and Article 98(7)**
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td colspan="2">Total eligible expenditure included in payment applications submitted to the Commission</td><td colspan="2">Expenditure declared in accordance with Article 98 of the Regulation</td><td colspan="2">Difference</td><td>Comments (obligatory in case of difference for each type of deduction in accordance with Article 98(6))</td></tr>
+<tr><td>Total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations linked to specific objectives for which enabling conditions are fulfilled or operations that contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function</td><td>Total amount of public contribution made or to be made in implementing operations linked to specific objectives for which enabling conditions are fulfilled or operations that contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function</td><td>Total amount of eligible expenditure entered into the accounting systems of the accounting function and which has been included in payment applications submitted to the Commission linked to specific objectives for which enabling conditions are fulfilled or to operations that contribute to the fulfilment of enabling conditions</td><td>Total amount of the corresponding public contribution made or to be made in implementing operations linked to specific objectives for which enabling conditions are fulfilled or to operations that contribute to the fulfilment of enabling conditions</td><td>(E=A-C)</td><td>(F=B-D)</td><td>  </td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td><td>(E)</td><td>(F)</td><td>(G)</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Outermost regions and Northern sparsely populated</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td colspan="5">Out of which amounts corrected in the current accounts as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>  </td></tr>
+</tbody>
+</table>
+
+Or
+
+Applicable for AMIF, ISF and BMVI
+
+<table>
+<tbody><tr><td rowspan="3">Specific objective</td><td colspan="2">Total eligible expenditure included in payment applications submitted to the Commission</td><td colspan="2">Expenditure declared in accordance with Article 98 of the Regulation</td><td colspan="2">Difference</td><td>Comments (obligatory in case of difference for each type of deduction in accordance with Article 98(6))</td></tr>
+<tr><td>Total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations linked to specific objectives for which enabling conditions are fulfilled or operations that contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function</td><td>Total amount of public contribution made or to be made in implementing operations linked to specific objectives for which enabling conditions are fulfilled or operations that contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function</td><td>Total amount of eligible expenditure entered into the accounting systems of the managing authority and which has been included in payment applications submitted to the Commission linked to specific objectives for which enabling conditions are fulfilled or to operations that contribute to the fulfilment of enabling conditions</td><td>Total amount of the corresponding public contribution made or to be made in implementing operations linked to specific objectives for which enabling conditions are fulfilled or to operations that contribute to the fulfilment of enabling conditions</td><td>(E=A-C)</td><td>(F=B-D)</td><td>  </td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td><td>(E)</td><td>(F)</td><td>(G)</td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4 (AMIF)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer in')</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation ('transfer out')</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 20 of AMIF Regulation</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td colspan="5">Out of which amounts corrected in the current accounts as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>  </td></tr>
+</tbody>
+</table>
+
+The template is automatically adjusted on the basis of the CCI. For example, in the case of programmes not including categories of regions (Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF, if applicable) or programmes not modulating co-financing rates within a priority (specific objective), the table shall look as follows:
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td colspan="2">Total eligible expenditure included in payment applications submitted to the Commission</td><td colspan="2">Expenditure declared in accordance with Article 98 of the Regulation</td><td colspan="2">Difference</td><td>Comments (obligatory in case of difference)</td></tr>
+<tr><td>Total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations linked to specific objectives for which enabling conditions are fulfilled or operations that contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function</td><td>Total amount of public contribution made or to be made in implementing operations linked to specific objectives for which enabling conditions are fulfilled or operations that contribute to the fulfilment of enabling conditions, as entered in the system of the body carrying out the accounting function</td><td>Total amount of eligible expenditure entered into the accounting systems of the accounting function and which has been included in payment applications submitted to the Commission linked to specific objectives for which enabling conditions are fulfilled or to operations that contribute to the fulfilment of enabling conditions</td><td>Total amount of the corresponding public contribution made or to be made in implementing operations linked to specific objectives for which enabling conditions are fulfilled or to operations that contribute to the fulfilment of enabling conditions</td><td>(E=A-C)</td><td>(F=B-D)</td><td>  </td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td><td>(E)</td><td>(F)</td><td>(G)</td></tr>
+<tr><td>Priority 1</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="S" maxlength="500" input="M"&gt;</td></tr>
+<tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td colspan="5">Out of which amounts corrected in the current accounts as a result of audits</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>  </td></tr>
+</tbody>
+</table>
+
+**Appendix 5**
+
+**Information on expenditure linked to specific objectives for which enabling conditions are not fulfilled**
+
+**(cumulative from the beginning of the programming period)**
+
+<table>
+<tbody><tr><td rowspan="3">Priority</td><td rowspan="2">Calculation basis (public or total) (1)</td><td colspan="2">Amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in accordance with Article 91(3)(a) or (c) or Union contribution pursuant to Article 91(4) linked to non-fulfilled enabling conditions within the meaning of Article 15(5) or (6), with the exception of operations that contribute to the fulfilment of enabling conditions</td><td colspan="2">Amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in accordance with Article 91(3)(a) or (c) or Union contribution pursuant to Article 91(4) linked to fulfilled enabling conditions within the meaning of Article 15(5) or (6), or contributing to the fulfilment of enabling conditions (2)</td></tr>
+<tr><td>Total</td><td>Public</td><td>Total</td><td>Public</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td><td>(D)</td><td>(E)</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>  </td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="6">(1)  For the EMFAF the co-financing applies only on "Total eligible public expenditure". Therefore, in case of EMFAF, the calculation base in this template will automatically be adjusted to "Public".  (2)  Amounts in this column should be identical to the amounts in the first table of Appendix 1 of Annex XXIV. </td></tr>
+</tbody>
+</table>
+
+**Appendix 6**
+
+**Information on expenditure linked to specific objectives for which enabling conditions are not fulfilled**
+
+**(cumulative from the beginning of the programming period) for AMIF, ISF and BMVI**
+
+<table>
+<tbody><tr><td rowspan="2">Specific objective</td><td>Calculation basis (public or total)</td><td colspan="2">Amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in the meaning of points (a) or (c) of Article 91(3) or Union contribution pursuant to Article 91(4) linked to non-fulfilled enabling conditions within the meaning of Article 15(5) or (6), with the exception of operations that contribute to the fulfilment of enabling conditions</td><td colspan="2">Amount of eligible expenditure incurred by beneficiaries and paid in implementing operations in the meaning of points (a) or (c) of Article 91(3) or Union contribution pursuant to Article 91(4) linked to fulfilled enabling conditions within the meaning of Article 15(5) or (6), or contributing to the fulfilment of enabling conditions (1)</td></tr>
+<tr><td>(A)</td><td>Total (B) </td><td>Public (C) </td><td>Total (D) </td><td>Public (E) </td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation (excluding Special Transit Scheme) or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of BMVI Regulation (Special Transit Scheme)</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of BMVI Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 12(2) of BMVI Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 12(3) of BMVI Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 12(4) of BMVI Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 12(6) of BMVI Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(2) of ISF Regulation or Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(3) of ISF Regulation or Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(4) of ISF Regulation or Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(5) of ISF Regulation or Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4 (AMIF)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(2) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(3) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(4) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line Article 15(5) of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions financed in line with Article 19 of AMIF Regulation</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions financed in line with Article 20 of AMIF Regulation ('transfer in')</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions financed in line with Article 20 of AMIF Regulation ('transfer out')</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 36(5)</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Technical assistance in accordance with Article 37</td><td>&lt;type="S" input="G"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>  </td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>  </td></tr>
+<tr><td colspan="6">(1)  Amounts in this column should be identical to the amounts in the first table of Annex XXIV. </td></tr>
+</tbody>
+</table>
+
+**Appendix 7**
+
+**Advances paid in the context of State aid under Article 91(5) (cumulative from the start of the programme)**
+
+<table>
+<tbody><tr><td rowspan="2">Priority</td><td>Total amount paid as advances (1)</td><td>Amount which has been covered by expenditure paid by beneficiaries within 3 years following the year of the payment of the advance</td><td>Amount which has not been covered by expenditure paid by beneficiaries and for which the 3 year period has not yet elapsed</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Priority 1</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Totals</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Less developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Transition regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>More developed regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Outermost regions and Northern sparsely populated regions</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="4">(1)  This amount is included in the total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations as mentioned in the payment application. As State aid is by nature public expenditure, this total amount is equal to public expenditure. </td></tr>
+</tbody>
+</table>
+
+The template is automatically adjusted on basis of the CCI. For example, in the case of programmes not including categories of region (Cohesion Fund, JTF, European territorial cooperation goal (Interreg), EMFAF) the table shall look as follows:
+
+<table>
+<tbody><tr><td rowspan="2">Priority</td><td>Total amount paid from the programme as advances (1)</td><td>Amount which has been covered by expenditure paid by beneficiaries within three years following the year of the payment of the advance</td><td>Amount which has not been covered by expenditure paid by beneficiaries and for which the three year period has not yet elapsed</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Priority 1</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Priority 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="4">(1)  This amount is included in the total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations as mentioned in the payment application. As State aid is by nature public expenditure, this total amount is equal to public expenditure. </td></tr>
+</tbody>
+</table>
+
+Or
+
+Applicable for AMIF, ISF and BMVI
+
+<table>
+<tbody><tr><td rowspan="2">Specific objective</td><td>Total amount paid from the programme as advances (1)</td><td>Amount which has been covered by expenditure paid by beneficiaries within three years following the year of the payment of the advance</td><td>Amount which has not been covered by expenditure paid by beneficiaries and for which the three year period has not yet elapsed</td></tr>
+<tr><td>(A)</td><td>(B)</td><td>(C)</td></tr>
+<tr><td>Specific objective 1</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 2</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 12(1) of BMVI Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 3</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 12(1) of ISF Regulation or Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Specific objective 4</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Actions co-financed in line with Article 15(1) of AMIF Regulation</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td><td>&lt;type="Cu" input="M"&gt;</td></tr>
+<tr><td>Grand total</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td><td>&lt;type="Cu" input="G"&gt;</td></tr>
+<tr><td colspan="4">(1)  This amount is included in the total amount of eligible expenditure incurred by beneficiaries and paid in implementing operations as mentioned in the payment application. As State aid is by nature public expenditure, this total amount is equal to public expenditure. </td></tr>
+</tbody>
+</table>
+
+## ANNEX XXV — Determination of the level of financial corrections: flat-rate and extrapolated financial corrections – Article 104(1)
+
+**1\. Elements for applying an extrapolated correction**
+
+Where extrapolated financial corrections are to be applied, the results of the examination of the representative sample are extrapolated to the rest of the population from which the sample was drawn for the purposes of determining the financial correction.
+
+**2\. Elements for consideration when applying a flat rate correction**
+
+(a) gravity of the serious deficiency(-ies) in the context of the management and control system as a whole;
+
+(b) the frequency and extent of the serious deficiency(-ies);
+
+(c) the degree of financial prejudice to the Union budget.
+
+**3\. The level of flat rate financial correction is determined as follows:**
+
+(a) where the serious deficiency(-ies) is so fundamental, frequent or widespread that it represents a complete failure of the system that puts at risk the legality and regularity of all expenditure concerned, a flat rate of 100 % is applied;
+
+(b) where the serious deficiency(-ies) is so frequent and widespread that it represents an extremely serious failure of the system that puts at risk the legality and regularity of a very high proportion of the expenditure concerned, a flat rate of 25 % is applied;
+
+(c) where the serious deficiency(-ies) is due to the system not fully functioning or functioning so poorly or so infrequently that it puts at risk the legality and regularity of a high proportion of the expenditure concerned, a flat rate of 10 % is applied;
+
+(d) where the serious deficiency(-ies) is due to the system not functioning consistently so that it puts at risk the legality and regularity of a significant proportion of the expenditure concerned, a flat rate of 5 % is applied.
+
+Where, due to a failure of the responsible authorities to take corrective measures following the application of a financial correction in an accounting year, the same serious deficiency (-ies) is identified in a subsequent accounting year, the rate of correction may, due to the persistence of the serious deficiency(-ies) be increased to a level not exceeding that of the next higher category.
+
+Where the level of the flat rate is disproportionate following consideration of the elements listed in section 2, the rate of correction may be reduced.
+
+## ANNEX XXVI — Methodology on the allocation of global resources per Member State – Article 109(2)
+
+**Allocation method for the less developed regions eligible under the Investment for jobs and growth goal - point (a) of Article 108(2)**
+
+1\. Each Member State's allocation shall be the sum of the allocations for its individual eligible regions, calculated in accordance with the following steps:
+
+(a) determination of an absolute amount per year (in EUR) obtained by multiplying the population of the region concerned by the difference between that region's GDP per capita, measured in PPS, and the EU-27 average GDP per capita (in PPS);
+
+(b) application of a percentage to the above absolute amount in order to determine that region's financial envelope; this percentage shall be graduated to reflect the relative prosperity, measured in PPS, as compared to the EU-27 average, of the Member State in which the eligible region is situated, i.e.:
+
+(i) for regions in Member States whose level of GNI per capita is below 82 % of the EU-27 average: 2,85 %;
+
+(ii) for regions in Member States whose level of GNI per capita is between 82 % and 99 % of the EU-27 average: 1,25 %;
+
+(iii) for regions in Member States whose level of GNI per capita is over 99 % of the EU-27 average: 0,75 %;
+
+(c) to the amount obtained in accordance with point (b) is added, if applicable, an amount resulting from the allocation of a premium of EUR 570 per unemployed person per year, applied to the number of persons unemployed in that region exceeding the number that would be unemployed if the average unemployment rate of all the less developed regions applied;
+
+(d) to the amount obtained in accordance with point (c) is added, if applicable, an amount resulting from the allocation of a premium of EUR 570 per young unemployed person (age group 15-24) per year, applied to the number of young persons unemployed in that region exceeding the number that would be unemployed if the average youth unemployment rate of all less developed regions applied;
+
+(e) to the amount obtained in accordance with point (d) is added, if applicable, an amount resulting from the allocation of a premium of EUR 270 per person (age group 25-64) per year, applied to the number of persons in that region that would need to be subtracted in order to reach the average level of low education rate (less than primary, primary and lower secondary education) of all less developed regions;
+
+(f) to the amount obtained in accordance with point (e) is added, if applicable, an amount of EUR 1 per tonne of CO2 equivalent per year applied to the population share of the region of the number of tonnes of CO2 equivalent by which the Member State exceeds the target of greenhouse gas emissions outside the emissions trading scheme set for 2030 as proposed by the Commission in 2016;
+
+(g) to the amount obtained in accordance with point (f) is added, an amount resulting from the allocation of a premium of EUR 405 per person per year, applied to the population share of the regions of net migration from outside the Union to the Member State since 1 January 2014.
+
+**Allocation method for transition regions eligible under the Investment for jobs and growth goal - point (b) of Article 108(2)**
+
+2\. Each Member State's allocation shall be the sum of the allocations for its individual eligible regions, calculated in accordance with the following steps:
+
+(a) determination of the minimum and maximum theoretical aid intensity for each eligible transition region. The minimum level of support is determined by the initial average per capita aid intensity of all more developed regions, i.e. EUR 15,2 per head and per year. The maximum level of support refers to a theoretical region with a GDP per head of 75 % of the EU-27 average and is calculated using the method defined in points (a) and (b) of paragraph 1. Of the amount obtained by this method, 60 % is taken into account;
+
+(b) calculation of initial regional allocations, taking into account regional GDP per capita (in PPS) through a linear interpolation of the region's relative GDP per capita compared to EU-27;
+
+(c) to the amount obtained in accordance with point (b) is added, if applicable, an amount resulting from the allocation of a premium of EUR 560 per unemployed person per year, applied to the number of persons unemployed in that region exceeding the number that would be unemployed if the average unemployment rate of all the less developed regions applied;
+
+(d) to the amount obtained in accordance with point (c) is added, if applicable, an amount resulting from the allocation of a premium of EUR 560 per young unemployed person (aged 15 to 24) per year, applied to the number of young persons unemployed in that region exceeding the number that would be unemployed if the average youth unemployment rate of all less developed regions applied;
+
+(e) to the amount obtained in accordance with point (d) is added, if applicable, an amount resulting from the allocation of a premium of EUR 250 per person (aged 25 to 64) per year, applied to the number of persons in that region that would need to be subtracted in order to reach the average level of low education rate (less than primary, primary and lower secondary education) of all less developed regions;
+
+(f) to the amount obtained in accordance with point (e) is added, if applicable, an amount of EUR 1 per tonne of CO2 equivalent per year applied to the population share of the region of the number of tonnes of CO2 equivalent by which the Member State exceeds the target of greenhouse gas emissions outside the emissions trading scheme set for 2030 as proposed by the Commission in 2016;
+
+(g) to the amount obtained in accordance with point (f) is added, an amount resulting from the allocation of a premium of EUR 405 per person per year, applied to the population share of the region of net migration from outside the Union to the Member State since 1 January 2014.
+
+**Allocation method for the more developed regions eligible under the Investment for jobs and growth goal - point (c) of Article 108(2)**
+
+3\. The total initial theoretical financial envelope shall be obtained by multiplying an aid intensity per head and per year of EUR 15,2 by the eligible population.
+
+4\. The share of each Member State concerned shall be the sum of the shares of its eligible regions, which are determined on the basis of the following criteria, weighted as indicated:
+
+(a) total regional population (weighting 20 %);
+
+(b) number of unemployed people in NUTS level 2 regions with an unemployment rate above the average of all more developed regions (weighting 12,5 %);
+
+(c) employment to be added to reach the average employment rate (aged 20 to 64) of all more developed regions (weighting 20 %);
+
+(d) number of persons aged 30 to 34 with tertiary educational attainment to be added to reach the average tertiary educational attainment rate (aged 30 to 34) of all more developed regions (weighting 22,5 %);
+
+(e) number of early leavers from education and training (aged 18 to 24) to be subtracted to reach the average rate of early leavers from education and training (aged 18 to 24) of all more developed regions (weighting 15 %);
+
+(f) difference between the observed GDP of the region (measured in PPS), and the theoretical regional GDP if the region were to have the same GDP per head as the most prosperous NUTS level 2 region (weighting 7,5 %);
+
+(g) population of NUTS level 3 regions with a population density below 12,5 inhabitants/km2 (weighting 2,5 %).
+
+5\. To the amounts by NUTS level 2 region obtained in accordance with point (4) is added, if applicable, an amount of EUR 1 per tonne of CO2 equivalent per year applied to the population share of the region of the number of tonnes of CO2 equivalent by which the Member State exceeds the target of greenhouse gas emissions outside the emissions trading scheme set for 2030 as proposed by the Commission in 2016.
+
+6\. To the amounts by NUTS level 2 region obtained in accordance with point (5) is added, an amount resulting from the allocation of a premium of EUR 405 per person per year, applied to the population share of the region of net migration from outside the Union to the Member State since 1 January 2014.
+
+**Allocation method for the Member States eligible for the Cohesion Fund - Article 108(3)**
+
+7\. The financial envelope shall be obtained by multiplying the average aid intensity per head and per year of EUR 62,9 by the eligible population. Each eligible Member State's allocation of this theoretical financial envelope corresponds to a percentage based on its population, surface area and national prosperity, and shall be obtained by applying the following steps:
+
+(a) calculation of the arithmetical average of that Member State's population and surface area shares of the total population and surface area of all the eligible Member States. If, however, a Member State's share of total population exceeds its share of total surface area by a factor of five or more, reflecting an extremely high population density, only the share of total population shall be used for this step;
+
+(b) adjustment of the percentage figures so obtained by a coefficient representing one third of the percentage by which that Member State's GNI per capita (in PPS) for the 2015-2017 period exceeds or falls below the average GNI per capita of all the eligible Member States (average expressed as 100 %).
+
+For each eligible Member State, the share of the Cohesion Fund shall not be higher than one third of the total allocation minus the allocation for the European territorial cooperation goal (Interreg) after the application of paragraphs 10 to 16. This adjustment shall proportionally increase all other transfers resulting from paragraphs 1 to 6.
+
+**Allocation method for the European territorial cooperation goal (Interreg) – Article 12**
+
+8\. The allocation of resources by Member State, covering cross-border, transnational and outermost regions' cooperation is determined as the weighted sum of the shares determined on the basis of the following criteria, weighted as indicated:
+
+(a) total population of all NUTS level 3 border regions and of other NUTS level 3 regions of which at least half of the regional population lives within 25 kilometres of the border (weighting 45,8 %);
+
+(b) population living within 25 kilometres of the borders (weighting 30,5 %);
+
+(c) total population of the Member States (weighting 20 %);
+
+(d) total population of outermost regions (weighting 3,7 %).
+
+The share of the cross-border strand corresponds to the sum of the weights of criteria (a) and (b). The share of the transnational strand corresponds to the weight of criterion (c). The share of the outermost regions' cooperation corresponds to the weight of criterion (d).
+
+**Allocation method for the additional funding for the outermost regions identified in Article 349 TFEU and the NUTS level 2 regions fulfilling the criteria laid down in Article 2 of Protocol No 6 to the 1994 Act of Accession – point (e) of Article 110(1)**
+
+9\. An additional special allocation corresponding to an aid intensity of EUR 40 per inhabitant per year shall be allocated to the outermost NUTS level 2 regions and the northern sparsely populated NUTS level 2 regions. That allocation will be distributed per region and Member State in a manner proportional to the total population of those regions.
+
+Minimum and maximum levels of transfers from the funds supporting economic, social and territorial cohesion
+
+10\. In order to contribute to achieving adequate concentration of cohesion funding on the least developed regions and Member States and to the reduction of disparities in average per capita aid intensities, the maximum level of transfer (capping) from the Funds to each individual Member State shall be determined as a percentage of the GDP of the Member State, whereby these percentages will be as follows:
+
+(a) for Member States whose average GNI per capita (in PPS) for the 2015-2017 period is under 55 % of the EU-27 average per capita: 2,3 % of their GDP;
+
+(b) for Member States whose average GNI per capita (in PPS) for the 2015-2017 period is equal to or above 68 % of the EU-27 average per capita: 1,5 % of their GDP;
+
+(c) for Member States whose average GNI per capita (in PPS) for the 2015-2017 period is equal to or above 55 % and below 68 % of the EU-27 average per capita: the percentage is obtained through a linear interpolation between 2,3 % and 1,5 % of their GDP leading to a proportional reduction of the capping percentage in line with the increase in prosperity.
+
+The capping shall be applied on an annual basis to the GDP projections of the Commission, and shall - if applicable - proportionally reduce all transfers (except for the more developed regions and European territorial cooperation goal (Interreg)) to the Member State concerned in order to obtain the maximum level of transfer.
+
+11\. The rules described in paragraph 10 shall not result in allocations per Member State higher than 107 % of their level in real terms for the 2014-2020 programming period. That adjustment shall be applied proportionately to all transfers (except for the European territorial cooperation goal (Interreg)) to the Member State concerned in order to obtain the maximum level of transfer.
+
+12\. The minimum total allocation from the Funds for a Member State shall correspond to 76 % of its individual 2014-2020 total allocation. The minimum total allocation from the Funds for a Member State where at least one third of the population lives in NUTS level 2 regions with a GDP per capita (in PPS) of less than 50 % of the EU-27 average, shall correspond to 85 % of its individual 2014-2020 total allocation. The adjustments needed to fulfil this requirement shall be applied proportionally to the allocations from the Funds, excluding the allocations under the European territorial cooperation goal (Interreg).
+
+13\. The maximum total allocation from the Funds for a Member State having a GNI per capita (in PPS) of at least 120 % of the EU-27 average shall correspond to 80 % of its individual 2014-2020 total allocation. The maximum total allocation from the funds for a Member State having a GNI per capita (in PPS) equal to or above 110 % and below 120 % of the EU-27 average shall correspond to 90 % of its individual 2014-2020 total allocation. The adjustments needed to fulfil this requirement shall be applied proportionally to the allocations from the Funds, excluding the allocation under the European territorial cooperation goal (Interreg). If a Member State has transition regions for which paragraph 16 applies, 25 % of that Member State's allocation for the more developed regions shall be transferred to the allocation of that Member State's transition regions.
+
+**Additional provisions**
+
+14\. For all regions that were classified as less developed regions for the 2014-2020 programming period, but whose GDP per capita is above 75 % of the EU-27 average per capita, the minimum yearly level of support under the Investment for jobs and growth goal shall correspond to 60 % of their former indicative average annual allocation under the Investment for jobs and growth goal, calculated by the Commission within the multiannual financial framework 2014-2020.
+
+15\. No transition region shall receive less than what it would have received if it had been a more developed region.
+
+16\. The minimum total allocation of a Member State for its transition regions, which were already transition regions in 2014-2020, shall correspond to a minimum of 65 % of the total 2014-2020 allocation for these regions in that Member State.
+
+17\. Notwithstanding paragraphs 10 to 13, additional allocations as set out in paragraphs 18 to 23 shall apply.
+
+18\. A total of EUR 120 000 000 shall be allocated for the PEACE PLUS programme where it is acting in support of peace and reconciliation and of the continuation of North-South cross border co-operation. In addition, at least EUR 60 000 000 shall be allocated for the PEACE PLUS programme from the allocation for Ireland under the European territorial cooperation goal (Interreg).
+
+19\. Where the population of a Member State has declined, on average, by more than 1% per year, between the periods 2007-2009 and 2016-2018, that Member State shall receive an additional allocation equivalent to the total fall in its population between those two periods multiplied by EUR 500. Where applicable, that additional allocation shall be allocated to the less developed regions in the Member State concerned.
+
+20\. The less developed regions of the Member States which have only started receiving support from the Funds in the 2014-2020 programming period, shall receive an additional allocation of EUR 400 000 000 .
+
+21\. In order to recognise the challenges posed by the situation of island Member States and the remoteness of certain parts of the Union, Malta and Cyprus shall receive an additional allocation of EUR 100 000 000 each for the Structural Funds under the Investment for jobs and growth goal. The northern sparsely populated areas of Finland shall receive an additional allocation of EUR 100 000 000 to the amount referred to in paragraph 9.
+
+22\. In order to boost competitiveness, growth and job creation in certain Member States, the Funds shall provide the following additional allocations under the Investment for jobs and growth goal:
+
+(a) EUR 200 000 000 for the transition regions in Belgium;
+
+(b) EUR 200 000 000 for the less developed regions in Bulgaria;
+
+(c) EUR 1 550 000 000 for Czechia under the Cohesion Fund;
+
+(d) EUR 100 000 000 for Cyprus under the Structural Funds;
+
+(e) EUR 50 000 000 for Estonia under the Structural Funds;
+
+(f) EUR 650 000 000 for the transition regions of Germany affected by paragraph 16;
+
+(g) EUR 50 000 000 for Malta under the Structural Funds;
+
+(h) EUR 600 000 000 for the less developed regions in Poland;
+
+(i) EUR 300 000 000 for the transition regions in Portugal;
+
+(j) EUR 350 000 000 for the more developed region of Slovenia.
+
+23\. An additional EUR 100 million shall support cross-border cooperation. It shall complete the allocations of resources by Member States pursuant to the weighted criteria detailed in points (a) and (b) of paragraph 8.
+
+( 1 ) Regulation (EU) 2021/1060 (OJ L231, 30.6.2021, p. 159).
+
+( 2 ) Regulation (EU) 2021/1060 (OJ L231, 30.6.2021, p. 159).
+
+( 3 ) Regulation (EU) 2021/1060 (OJ L231, 30.6.2021, p. 159).
+
+( 4 ) Regulation (EU) 2021/1060 (OJ L231, 30.6.2021, p. 159).
+
+( 5 ) Commission Regulation (EU) No 1407/2013 of 18 December 2013 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to de minimis aid (OJ L 352, 24.12.2013, p. 1).
+
+( 6 ) Commission Regulation (EU) No 717/2014 of 27 June 2014 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to de minimis aid in the fishery and aquaculture sector (OJ L 190, 28.6.2014, p. 45).
+
+( 7 ) Regulation (EC) No 1082/2006 of the European Parliament and of the Council of 5 July 2006 on a European grouping of territorial cooperation (EGTC) (OJ L 210, 31.7.2006, p. 19).
+
+( 8 ) Regulation (EU) 2024/795 of the European Parliament and of the Council of 29 February 2024 establishing the Strategic Technologies for Europe Platform (STEP), and amending Directive 2003/87/EC and Regulations (EU) 2021/1058, (EU) 2021/1056, (EU) 2021/1057, (EU) No 1303/2013, (EU) No 223/2014, (EU) 2021/1060, (EU) 2021/523, (EU) 2021/695, (EU) 2021/697 and (EU) 2021/241 (OJ L, 2024/795, 29.2.2024, ELI: http://data.europa.eu/eli/reg/2024/795/oj).
+
+( 9 ) Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).
+
+( 10 ) Regulation (EU) No 1176/2011 of the European Parliament and of the Council of 16 November 2011 on the prevention and correction of macroeconomic imbalances (OJ L 306, 23.11.2011, p. 25).
+
+( 11 ) Council Regulation (EC) No 1467/97 of 7 July 1997 on speeding up and clarifying the implementation of the excessive deficit procedure (OJ L 209, 2.8.1997, p. 6).
+
+( 12 ) Council Regulation (EC) No 332/2002 of 18 February 2002 establishing a facility providing medium-term financial assistance for Member States’ balances of payments (OJ L 53, 23.2.2002, p. 1).
+
+( 13 ) Regulation (EU) No 472/2013 of the European Parliament and of the Council of 21 May 2013 on the strengthening of economic and budgetary surveillance of Member States in the euro area experiencing or threatened with serious difficulties with respect to their financial stability (OJ L 140, 27.5.2013, p. 1).
+
+( 14 ) Council Regulation (EC) No 1466/97 of 7 July 1997 on the strengthening of the surveillance of budgetary positions and the surveillance and coordination of economic policies (OJ L 209, 2.8.1997, p. 1).
+
+( 15 ) Directive 2001/42/EC of the European Parliament and of the Council of 27 June 2001 on the assessment of the effects of certain plans and programmes on the environment (OJ L 197, 21.7.2001, p. 30).
+
+( 16 ) Regulation (EU) 2021/241 of the European Parliament and of the Council of 12 February 2021 establishing the Recovery and Resilience Facility (OJ L 57, 18.2.2021, p. 17).
+
+( 17 ) Regulation (EU) 2023/955 of the European Parliament and of the Council of 10 May 2023 establishing a Social Climate Fund and amending Regulation (EU) 2021/1060 (OJ L 130, 16.5.2023, p. 1).
+
+( 18 ) Commission Implementing Regulation (EU) 2017/218 of 6 February 2017 on the Union fishing fleet register (OJ L 34, 9.2.2017, p. 9).
+
+( 19 ) Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 2019 on open data and the re-use of public sector information (OJ L 172, 26.6.2019, p. 56).
+
+( 20 ) Directive 2014/24/EU of the European Parliament and of the Council of 26 February 2014 on public procurement and repealing Directive 2004/18/EC (OJ L 94, 28.3.2014, p. 65).
+
+( 21 ) Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).
+
+( 22 ) Directive 2011/92/EU of the European Parliament and of the Council of 13 December 2011 on the assessment of the effects of certain public and private projects on the environment (OJ L 26, 28.1.2012, p. 1).
+
+( 23 ) Council Regulation (EU) No 407/2010 of 11 May 2010 establishing a European financial stabilisation mechanism (OJ L 118, 12.5.2010, p. 1).
+
+( 24 ) Council Regulation (EU) 2020/2094 of 14 December 2020 establishing a European Union Recovery Instrument to support the recovery in the aftermath of the COVID-19 crisis (OJ L 433 I, 22.12.2020, p. 23).
+
+( 25 ) Regulation (EU) No 1301/2013 of the European Parliament and of the Council of 17 December 2013 on the European Regional Development Fund and on specific provisions concerning the Investment for growth and jobs goal and repealing Regulation (EC) No 1080/2006 (OJ L 347, 20.12.2013, p. 289).
+
+( 26 ) Regulation (EU) No 1304/2013 of the European Parliament and of the Council of 17 December 2013 on the European Social Fund and repealing Council Regulation (EC) No 1081/2006 (OJ L 347, 20.12.2013, p. 470).
+
+( 27 ) Regulation (EU) No 1300/2013 of the European Parliament and of the Council of 17 December 2013 on the Cohesion Fund and repealing Council Regulation (EC) No 1084/2006 (OJ L 347, 20.12.2013, p. 281).
+
+( 28 ) Regulation (EU) No 1299/2013 of the European Parliament and of the Council of 17 December 2013 on specific provisions for the support from the European Regional Development Fund to the European territorial cooperation goal (OJ L 347, 20.12.2013, p. 259).
+
+( 29 ) Regulation (EU) No 508/2014 of the European Parliament and of the Council of 15 May 2014 on the European Maritime and Fisheries Fund and repealing Council Regulations (EC) No 2328/2003, (EC) No 861/2006, (EC) No 1198/2006 and (EC) No 791/2007 and Regulation (EU) No 1255/2011 of the European Parliament and of the Council (OJ L 149, 20.5.2014, p. 1).
+
+( 30 ) As regards the ERDF, only table 2 in section 8 is relevant for European territorial cooperation goal (Interreg), while all the information in the remaining sections and tables concern only the Investment for jobs and growth goal.
+
+( 31 ) The total length of the text inserted in the three text fields above shall be between 10 000 and 30 000 characters.
+
+( 32 ) Contributions shall not affect the annual breakdown of financial appropriations at the MFF level for a Member State.
+
+( 33 ) Transfers shall not affect the annual breakdown of financial appropriations at the MFF level for a Member State.
+
+( 34 ) This transfer is preliminary. It should be confirmed or corrected at the first adoption of programme(s) with JTF allocation, as indicated in Annex V.
+
+( 35 ) For programmes limited to supporting the specific objective set out in point (m) of Article 4(1) ESF+ Regulation, the description of the programme strategy does not need to relate to challenges referred to in points (a)(i), (ii) and (vi) of Article 22(3) CPR.
+
+( 36 ) Except for a specific objective set out in point (m) of Article 4(1) ESF+ Regulation.
+
+( 37 ) Point (d) of Article 22(3) CPR does not apply to the specific objective set out in point (m) of Article 4(1) ESF+ Regulation.
+
+( 38 ) Only for programmes limited to the specific objective set out in point (m) of Article 4(1) ESF+ Regulation.
+
+( 39 ) Applicable only to programme amendments in accordance with Articles 14, 26 and 26a, except for complementary transfers to the JTF in accordance with Article 27 CPR. Transfers shall not affect the annual breakdown of financial appropriations at the MFF level for a Member State.
+
+( 40 ) Transfers shall not affect the annual breakdown of financial appropriations at the MFF level for a Member State.
+
+( 41 ) Applicable to the first adoption of programmes with JTF allocation.
+
+( 42 ) Section to be filled in by receiving programme. Where a programme supported by the JTF receives complementary support (cf. Article 27 CPR) within the programme and from other programmes all tables in this section need to be filled in. At the first adoption with JTF allocation, this section is to confirm or correct the preliminary transfers proposed in the Partnership Agreement.
+
+( 43 ) Applicable only to programme amendments for resources transferred back from other Union instruments, including elements of AMIF, ISF and BMVI, under direct or indirect management, or from Invest EU.
+
+( 44 ) Legend for the characteristics of fields:
+
+type: N=Number, D=Date, S=String, C=Checkbox, P=Percentage, B=Boolean, Cu=Currency; input: M=Manual, S=Selection, G=Generated by system.
+
+( 45 ) OJ C 271, 8.9.2012, p. 5.
+
+( 46 ) OJ C 316, 27.11.1995, p. 49.
+
+( 47 ) Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73).
+
+( 48 ) Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37).
+
+( 49 ) Commission Decision (EU, Euratom) 2017/46 of 10 January 2017 on the security of communication and information systems in the European Commission (OJ L 6, 11.1.2017, p. 40).
+
+( 50 ) Regulation (EU) 2021/1060 of the European Parliament and of the Council of 24 June 2021 laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy (OJ L 231, 30.6.2021, p. 159)
+
+( 51 ) Regulation (EU) 2021/1060 of the European Parliament and of the Council of 24 June 2021 laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy (OJ L 231, 30.6.2021, p. 159).
+
+( 52 ) Regulation (EU) 2021/1059 of 24 June 2021 on specific provisions for the European territorial cooperation goal (Interreg) supported by the European Regional Development Fund and external financing instruments (OJ L 231, 30.6.2021, p. 94).
+
+( 53 ) To be included in case of Interreg programmes.
+
+( 54 ) Except for the Interreg programmes that fall under the annual sample for audits of operation to be drawn by the Commission as envisaged in Article 48 of the Interreg Regulation.
+
+( 55 ) In case the management and control system is affected, the body or bodies and the aspect(s) of their systems that did not comply with requirements and/or did not function properly shall be identified in the opinion, except where this information is already clearly disclosed in the annual control report and the opinion paragraph refers to the specific section(s) of this report where such information is disclosed.
+
+( 56 ) In case the management and control system is affected, the body or bodies and the aspect(s) of their systems that did not comply with requirements and/or did not function properly shall be identified in the opinion, except where this information is already clearly disclosed in the annual control report and the opinion paragraph refers to the specific section(s) of this report where such information is disclosed.
+
+( 57 ) These exceptional cases should be related to unforeseeable, external factors outside the remit of the audit authority.
+
+( 58 ) Regulation (EU) 2021/1059 of 24 June 2021 on specific provisions for the European territorial cooperation goal (Interreg) supported by the European Regional Development Fund and external financing instruments (OJ L 231, 30.6.2021, p. 94).
+
+( 59 ) This section is voluntary for programmes that fall under the ‘enhanced proportionate arrangements’ for the accounting year in question.
+
+( 60 ) Random, systemic, anomalous.
+
+( 61 ) For instance: eligibility, public procurement, State aid.
+
+( 62 ) The stratum error rate is to be disclosed where stratification was applied, covering sub-populations with similar characteristics such as operations consisting of financial contributions from a programme to financial instruments, high-value items, Funds (in the case of multi-Fund programmes).
+
+( 63 ) Indicate the programmes covered by a common management and control system, in case a single audit strategy is prepared for several programmes.

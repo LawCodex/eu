@@ -1,0 +1,118 @@
+---
+title: "Commission Implementing Regulation (EU) 2021/574 of 30 March 2021 amending Implementing Regulations (EU) 2017/375 and (EU) No 540/2011 as regards the conditions of approval of the active substance prosulfuron (Text with EEA relevance)"
+identifier: "32021R0574"
+eli: "http://data.europa.eu/eli/reg_impl/2021/574/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2021-03-30
+entry_into_force: 2021-06-20
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R0574"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2021/574 of 30 March 2021 amending Implementing Regulations (EU) 2017/375 and (EU) No 540/2011 as regards the conditions of approval of the active substance prosulfuron (Text with EEA relevance)
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2021/574**
+
+**of 30 March 2021**
+
+**amending Implementing Regulations (EU) 2017/375 and (EU) No 540/2011 as regards the conditions of approval of the active substance prosulfuron**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC (1), and in particular Article 13(2)(c) thereof,
+
+Whereas:
+
+(1) Commission Implementing Regulation (EU) 2017/375 (2) renewed the approval of the active substance prosulfuron as a candidate for substitution in accordance with Regulation (EC) No 1107/2009.
+
+(2) The approval of the active substance prosulfuron, as set out in Part E of the Annex to Commission Implementing Regulation (EU) No 540/2011 (3), included a restriction that the use of prosulfuron was to be limited to one application every three years on the same field at a maximum dose of 20 g active substance per hectare.
+
+(3) In accordance with Article 7(1) of Regulation (EC) No 1107/2009, on 12 October 2016, Syngenta Crop Protection AG submitted an application to the designated rapporteur Member State, France, seeking an amendment to the conditions of approval of prosulfuron in order to remove that restriction. The application was found to be admissible by the designated rapporteur Member State.
+
+(4) The designated rapporteur Member State assessed the amended use of the active substance prosulfuron in relation to the potential effects on human and animal health and the environment in accordance with the provisions of Article 4 of Regulation (EC) No 1107/2009, and prepared a revised renewal assessment report which was submitted to the European Food Safety Authority (‘the Authority’) and the Commission on 5 April 2018.
+
+(5) In accordance with Article 12(1) of Regulation (EC) No 1107/2009, the Authority circulated the revised renewal assessment report to the applicant and to the Member States for comments and made it available to the public. In accordance with Article 12(3) of Regulation (EC) No 1107/2009, additional information was requested from the applicant. France evaluated the additional information and submitted a revised renewal assessment report to the Commission and to the Authority on 28 February 2019.
+
+(6) On 15 June 2020, the Authority communicated to the Commission its conclusion (4) on whether the amended use of the active substance prosulfuron can be expected to meet the approval criteria provided for in Article 4 of Regulation (EC) No 1107/2009.
+
+(7) The Commission presented an addendum to the review report for prosulfuron and a draft Regulation to the Standing Committee on Plants, Animals, Food and Feed on 23 October 2020.
+
+(8) The applicant was invited to submit comments on the addendum to the review report.
+
+(9) It has been established with respect to one or more representative uses of at least one plant protection product containing prosulfuron that, when the plant protection product is applied annually, the approval criteria provided for in Article 4 of Regulation (EC) No 1107/2009 are satisfied. It is therefore appropriate to remove the restriction limiting the use of prosulfuron to one application every three years on the same field at a maximum dose of 20 g active substance per hectare.
+
+(10) Implementing Regulations (EU) 2017/375 and (EU) No 540/2011 should therefore be amended accordingly.
+
+(11) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1 — Amendment to Implementing Regulation (EU) 2017/375
+
+Annex I to Implementing Regulation (EU) 2017/375 is amended in accordance with Annex I to this Regulation.
+
+## Article 2 — Amendment to Implementing Regulation (EU) No 540/2011
+
+The Annex to Implementing Regulation (EU) No 540/2011 is amended in accordance with Annex II to this Regulation.
+
+## Article 3 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 30 March 2021.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 309, 24.11.2009, p. 1.
+
+(2) Commission Implementing Regulation (EU) 2017/375 of 2 March 2017 renewing the approval of the active substance prosulfuron, as a candidate for substitution, in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council concerning the placing of plant protection products on the market, and amending the Annex to Commission Implementing Regulation (EU) No 540/2011 (OJ L 58, 4.3.2017, p. 3).
+
+(3) Commission Implementing Regulation (EU) No 540/2011 of 25 May 2011 implementing Regulation (EC) No 1107/2009 of the European Parliament and of the Council as regards the list of approved active substances (OJ L 153, 11.6.2011, p. 1).
+
+(4) EFSA (European Food Safety Authority), 2020. Conclusion on the peer review of the pesticide risk assessment of the active substance prosulfuron. EFSA Journal 2020;18(7):6181, 20 pp. https://doi.org/10.2903/j.efsa.2020.6181
+
+## ANNEX I
+
+In Annex I to Implementing Regulation (EU) 2017/375, the text of the column ‘Specific provisions’ is replaced by the following:
+
+‘For the implementation of the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, the conclusions of the review report on prosulfuron including its addendum, and in particular Appendices I and II thereto, shall be taken into account.
+
+In that overall assessment Member States shall pay particular attention to:
+
+— the protection of groundwater, when the substance is applied in regions with vulnerable soil and/or climatic conditions;
+
+— the protection of consumers, taking into account exposure to metabolites of prosulfuron;
+
+— the risk to non-target terrestrial and aquatic plants.
+
+Conditions of use shall include risk mitigation measures, where appropriate.’
+
+## ANNEX II
+
+The text of the column ‘Specific provisions’ of row 6, prosulfuron, in Part E of the Annex to Implementing Regulation (EU) No 540/2011 is replaced by the following:
+
+‘For the implementation of the uniform principles, as referred to in Article 29(6) of Regulation (EC) No 1107/2009, the conclusions of the review report on prosulfuron including its addendum, and in particular Appendices I and II thereto, shall be taken into account.
+
+In that overall assessment Member States shall pay particular attention to:
+
+— the protection of groundwater, when the substance is applied in regions with vulnerable soil and/or climatic conditions;
+
+— the protection of consumers, taking into account exposure to metabolites of prosulfuron;
+
+— the risk to non-target terrestrial and aquatic plants.
+
+Conditions of use shall include risk mitigation measures, where appropriate.’

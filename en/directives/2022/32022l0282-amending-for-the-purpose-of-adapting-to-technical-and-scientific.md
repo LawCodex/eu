@@ -93,6 +93,8 @@ Ursula VON DER LEYEN
 
 In Annex III to Directive 2011/65/EU, entry 2(b)(3) is replaced by the following:
 
+<table>
 <tbody><tr><td colspan="2">Exemption</td><td>Scope and dates of applicability</td></tr>
 <tr><td>‘2(b)(3)</td><td>Non-linear tri-band phosphor lamps with tube diameter &gt; 17 mm (e.g. T9): 15 mg</td><td>Expires on 24 February 2023; 10 mg may be used per lamp from 25 February 2023 until 24 February 2025’</td></tr>
 </tbody>
+</table>

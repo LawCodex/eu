@@ -26,12 +26,14 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/1023 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 172</td><td>18</td><td>26.6.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/1151 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 June 2019 </td><td> L 186</td><td>80</td><td>11.7.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/2121 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 321</td><td>1</td><td>12.12.2019</td></tr>
 <tr><td></td><td> REGULATION (EU) 2021/23 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 16 December 2020 </td><td> L 22</td><td>1</td><td>22.1.2021</td></tr>
+</table>
 
 **DIRECTIVE (EU) 2017/1132 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -3715,6 +3717,7 @@ società a responsabilità limitata semplificata;
 
 **(REFERRED TO IN ARTICLE 166)**
 
+<table>
 <tbody><tr><td colspan="2">Council Directive 82/891/EEC (OJ L 378, 31.12.1982, p. 47). </td></tr>
 <tr><td>Directive 2007/63/EC of the European Parliament and of the Council (OJ L 300, 17.11.2007, p. 47). </td><td>Article 3</td></tr>
 <tr><td>Directive 2009/109/EC of the European Parliament and of the Council (OJ L 259, 2.10.2009, p. 14). </td><td>Article 3</td></tr>
@@ -3735,6 +3738,7 @@ società a responsabilità limitata semplificata;
 <tr><td>Council Directive 2013/24/EU (OJ L 158, 10.6.2013, p. 365). </td><td>Article 1 and point 4 of Part A of the Annex</td></tr>
 <tr><td>Directive 2014/59/EU of the European Parliament and of the Council (OJ L 173, 12.6.2014, p. 190). </td><td>Article 123</td></tr>
 </tbody>
+</table>
 
 **PART B**
 
@@ -3742,6 +3746,7 @@ società a responsabilità limitata semplificata;
 
 **(REFERRED TO IN ARTICLE 166)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Time limit for transposition</td><td>Date of application</td></tr>
 <tr><td>82/891/EEC</td><td>1 January 1986</td><td>—</td></tr>
 <tr><td>89/666/EEC</td><td>1 January 1992</td><td>1 January 1993 (1)</td></tr>
@@ -3753,11 +3758,13 @@ società a responsabilità limitata semplificata;
 <tr><td>2014/59/EU</td><td>31 December 2014</td><td>1 January 2015 (3)</td></tr>
 <tr><td colspan="3">(1)  Under Article 16(2) of Directive 89/666/EC, Member States are required to stipulate that the provisions referred to in paragraph 1 shall apply from 1 January 1993 and, with regard to accounting documents, shall apply for the first time to annual accounts for the financial year beginning on 1 January 1993 or during 1993.  (2)  Under Article 5(2) of Directive 2012/17/EU Member States are required to, not later than 8 June 2017, adopt, publish and apply the provisions necessary to comply with:  — Article 1(3) and (4) and Article 5a of Directive 89/666/EEC,  — Article 13 of Directive 2005/56/EC,  — Article 3(1), second subparagraph, Article 3b, Article 3c, Article 3d and Article 4a(3) to (5) of Directive 2009/101/EC.  (3)  Under the third subparagraph of Article 130(1) of Directive 2014/59/EU, Member States are required to apply provisions adopted in order to comply with Section 5 of Chapter IV of Title IV of that Directive from 1 January 2016 at the latest. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV
 
 **CORRELATION TABLE**
 
+<table>
 <tbody><tr><td>Directive 82/891/EEC</td><td>Directive 89/666/EEC</td><td>Directive 2005/56/EC</td><td>Directive 2009/101/EC</td><td>Directive 2011/35/EU</td><td>Directive 2012/30/EU</td><td>This Directive</td></tr>
 <tr><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>Article 1</td></tr>
 <tr><td>Article 1</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>Article 135</td></tr>
@@ -3973,6 +3980,7 @@ società a responsabilità limitata semplificata;
 <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>Annex III</td></tr>
 <tr><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>—</td><td>Annex IV</td></tr>
 </tbody>
+</table>
 
 ( 1 ) Regulation (EU) No 910/2014 of the European Parliament and of the Council of 23 July 2014 on electronic identification and trust services for electronic transactions in the internal market and repealing Directive 1999/93/EC (OJ L 257, 28.8.2014, p. 73).
 

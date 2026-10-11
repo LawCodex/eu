@@ -1,0 +1,1649 @@
+---
+title: "Commission Delegated Regulation (EU) 2023/361 of 28 November 2022 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council as regards rules for the use of certain veterinary medicinal products for the purpose of prevention and control of certain listed diseases (Text with EEA relevance)"
+identifier: "32023R0361"
+eli: "http://data.europa.eu/eli/reg_del/2023/361/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2022-11-28
+entry_into_force: 2028-01-01
+last_amended: 2026-06-02
+consolidated_version: "02023R0361-20260602"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02023R0361-20260602"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2023/361 of 28 November 2022 supplementing Regulation (EU) 2016/429 of the European Parliament and the Council as regards rules for the use of certain veterinary medicinal products for the purpose of prevention and control of certain listed diseases (Text with EEA relevance)
+
+**COMMISSION DELEGATED REGULATION (EU) 2023/361**
+
+**of 28 November 2022**
+
+**supplementing Regulation (EU) 2016/429 of the European Parliament and the Council as regards rules for the use of certain veterinary medicinal products for the purpose of prevention and control of certain listed diseases**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2026/1073 of 6 March 2026 </td><td> L 1073</td><td>1</td><td>13.5.2026</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2023/361**
+
+**of 28 November 2022**
+
+**supplementing Regulation (EU) 2016/429 of the European Parliament and the Council as regards rules for the use of certain veterinary medicinal products for the purpose of prevention and control of certain listed diseases**
+
+**(Text with EEA relevance)**
+
+## PART I — GENERAL PROVISIONS
+
+##### Article 1 — Subject matter and scope
+
+1\. This Regulation supplements the rules laid down in Regulation (EU) 2016/429 on the use within the Union of veterinary medicinal products with regard to prevention and control of the listed diseases referred to in Article 9(1), points (a) and (b), of Regulation (EU) 2016/429 in kept and wild terrestrial and aquatic animals (‘animals’). In particular, it lays down:
+
+(a) prohibitions and restrictions on the use of certain veterinary medicinal products in animals for prevention and control of category A and B diseases;
+
+(b) rules on the use of vaccines in animals for prevention and control of category A and certain category B diseases;
+
+(c) risk-mitigating measures to prevent the spread of category A diseases through vaccinated animals or products from such animals;
+
+(d) rules on surveillance of category A diseases following the use of vaccines in terrestrial animals for their prevention and control.
+
+2\. This Regulation does not apply to the use of the veterinary medicinal products referred to in paragraph 1 for scientific studies or for the purposes of developing and testing them, as referred to in Article 46(3) of Regulation (EU) 2016/429.
+
+##### Article 2 — Definitions
+
+1\. For the purposes of this Regulation the following definitions apply:
+
+(a) ‘category A disease’ means a listed disease that does not normally occur in the Union and for which immediate eradication measures must be taken as soon as it is detected, as referred to in Article 9(1), point (a), of Regulation (EU) 2016/429;
+
+(b) ‘category B disease’ means a listed disease which must be controlled in all Member States with the goal of eradicating it throughout the Union, as referred to in Article 9(1), point (b), of Regulation (EU) 2016/429;
+
+(c) ‘emergency suppressive vaccination’ means a vaccination strategy implemented by the competent authority in kept terrestrial animals for the prevention and control of category A diseases in accordance with Article 7(1), point (a)(i);
+
+(d) ‘emergency protective vaccination’ means a vaccination strategy implemented by the competent authority in kept terrestrial animals for the prevention and control of category A diseases in accordance with Article 7(1), point (a)(ii);
+
+(e) ‘emergency vaccination in wild terrestrial animals’ means a vaccination strategy implemented by the competent authority in wild terrestrial animals for the prevention and control of category A diseases in accordance with Article 7(1), point (a)(iii);
+
+(f) ‘preventive vaccination’ means a vaccination strategy implemented by the competent authority for the prevention and control of category A diseases in accordance with Article 7(1), point (b);
+
+(g) ‘vaccination zone’ means a zone in which a vaccine is administered to listed species to prevent and control category A diseases;
+
+(h) ‘peri-vaccination zone’ means a zone, surrounding the vaccination zone, where vaccination for the purpose of preventing and controlling category A diseases is not allowed and where reinforced surveillance is implemented to detect those diseases.
+
+(i) ‘confirmed outbreak’ means an outbreak confirmed in accordance with Article 9(2), (3) and (4) of Delegated Regulation (EU) 2020/689;
+
+(j) ‘waiting period’ means the necessary period of time required to demonstrate the absence of the category A disease after emergency protective vaccination against the disease has been carried out in a vaccination zone;
+
+(k) ‘protection zone’ means a protection zone as established on the basis of Article 21(1), point (a), of Delegated Regulation (EU) 2020/687;
+
+(l) ‘surveillance zone’ means a surveillance zone as established on the basis of Article 21(1), point (b), of Delegated Regulation (EU) 2020/687;
+
+(m) ‘bovine animal’ means an animal of the species of ungulates belonging to the genera Bison, Bos (including the subgenera Bos, Bibos, Novibos, Poephagus) and Bubalus (including the subgenus Anoa) and the offspring of crossings of those species;
+
+(n) ‘ovine animal’ means an animal of the species of ungulates belonging to the genus Ovis and the offspring of crossings of those species;
+
+(o) ‘caprine animal’ means an animal of the species of ungulates belonging to the genus Capra and the offspring of crossings of those species;
+
+(p) ‘camelid animal’ means an animal of the species of ungulates belonging to the family Camelidae listed in Annex III to Regulation (EU) 2016/429;
+
+(q) ‘porcine animal’ means an animal of the species of ungulates belonging to the family Suidae listed in Annex III to Regulation (EU) 2016/429;
+
+(r) ‘equine animal’ as an animal of species of solipeds belonging to the genus Equus (including horses, asses, and zebras) and the offspring of crossings of those species;
+
+(s) ‘day-old chicks’ means all poultry less than 72 hours old.
+
+2\. In addition to the definitions laid down in paragraph 1, the definitions of ‘veterinary medicinal product’, ‘immunological veterinary medicinal product’ and ‘antimicrobial’ set out in Article 4(1), (5) and (12) of Regulation (EU) 2019/6 shall apply.
+
+##### Article 3 — Prohibitions and restrictions on the use of vaccines in animals for the prevention and control of category A and certain category B diseases
+
+1\. Member States may allow the use of vaccines in animals for the prevention and control of category A diseases, except for the diseases listed in Part 1 of Annex I, only under the control of the competent authority and if they are used:
+
+(a) as a part of the official measures put in place by the competent authority for prevention and control of those diseases;
+
+(b) under the conditions laid down in this Regulation.
+
+2\. The conditions for the use of vaccines against category A diseases shall not apply to certain uses of vaccines against infection with Newcastle disease virus, notably to routine precautionary use or to use in the framework of trade, which the Member States may allow irrespectively of the official disease prevention and control measures referred to in paragraph 1, for purposes other than responding to an outbreak.
+
+3\. Member States may allow the use of vaccines in animals for prevention and control of category B diseases, except for the diseases listed in Part 2 of Annex I, in those listed species for which the corresponding diseases have been classified as category B.
+
+##### Article 4 — Prohibitions and restrictions on the use of certain veterinary medicinal products, other than vaccines, in animals, for the prevention and control of category A and B diseases
+
+Member States shall prohibit the use of the following veterinary medicinal products in animals for the prevention and control of category A and B diseases unless they are used for the prevention and control of the diseases listed in Part 3 of Annex I, and their type and use comply with the conditions set out therein:
+
+(a) immunological veterinary medicinal products to diagnose the state of immunity of animals;
+
+(b) hyper-immune serum;
+
+(c) inactivated immunological veterinary medicinal products, as referred to in Article 2(3) of Regulation (EU) 2019/6;
+
+(d) antimicrobials.
+
+## PART II — RULES ON THE USE OF VACCINES FOR THE PREVENTION AND CONTROL OF CATEGORY A DISEASES IN ANIMALS
+
+### CHAPTER 1 — Preconditions
+
+##### Article 5 — Preconditions for the use of vaccines for the prevention and control of category A diseases in terrestrial and aquatic animals
+
+1\. The competent authority may decide on the use of vaccines in animals to prevent and control category A diseases, in accordance with Article 3(1), provided that:
+
+(a) it has carried out an assessment to support this decision considering at least the criteria set out in Part 1 of Annex II, in addition to the criteria provided for in Article 46(2) of Regulation (EU) 2016/429;
+
+(b) the vaccines are used in accordance with an official vaccination plan which fulfils the requirements laid down in Article 6.
+
+2\. The competent authority may carry out the assessment referred to in paragraph 1, point (a), following the simplified rules provided for in Part 2 of Annex II when implementing the vaccination strategy referred to in Article 7(1), point (a)(i).
+
+##### Article 6 — Official vaccination plan for the prevention and control of category A diseases in terrestrial and aquatic animals, and information obligations for the Member States
+
+1\. The official vaccination plan referred to in Article 5(1), point (b), shall:
+
+(a) detail, at least, the information and measures set out in Part 1 of Annex III;
+
+(b) be implemented under the control of the competent authority and only for the strictly necessary period of time.
+
+2\. The competent authority may include in the official vaccination plan referred to in Article 5(1), point (b), the simplified information provided for in Part 2 of Annex III, when implementing the vaccination strategy referred to in Article 7(1), point (a)(i).
+
+3\. The competent authority shall keep up to date, amend or supplement the official vaccination plan referred to in Article 5(1), point (b), taking into account the evolution of its implementation and the evolution of the epidemiological situation of the disease.
+
+4\. Member States shall provide the other Member States and the Commission with:
+
+(a) at least the preliminary information set out in Annex IV, at the latest two days before starting the vaccination;
+
+(b) the official vaccination plan and its amendments and updates, as soon as possible and at the latest two weeks after starting the vaccination or implementing the amendments or updates of the official vaccination plan.
+
+5\. The Commission shall, in accordance with Article 71 of Regulation (EU) 2016/429, review the national measures referred to in paragraph 2 of that Article, as laid in the official vaccination plan, and act in accordance with that Article.
+
+### CHAPTER 2 — Rules on the implementation of vaccination in terrestrial animals and entry into force
+
+#### Section 1 — Vaccination strategies and related disease surveillance
+
+##### Article 7 — Vaccination strategies for the prevention and control of category A diseases in terrestrial animals
+
+1\. The competent authority may implement the following vaccination strategies to prevent and control category A diseases in terrestrial animals, in accordance with Article 3(1):
+
+(a) emergency vaccination, as referred to in Article 69 of Regulation (EU) 2016/429, may be any of the following:
+
+(i) emergency suppressive vaccination, implemented in response to an outbreak of a category A disease to control its spread and limited to kept terrestrial animals that are to be killed in accordance with Articles 12(1), point (a), and 18(1), point (b), of Delegated Regulation (EU) 2020/687 but are subject to the derogation provided for in Article 12(4), point (b), of that Regulation;
+
+(ii) emergency protective vaccination, implemented in response to an outbreak of a category A disease, and carried out in any of the following cases:
+
+— terrestrial animals at risk of infection that are kept in establishments located in affected Member States or zones thereof, in which category A diseases have not been confirmed nor are suspected in accordance with Article 6(1) and Article 11 of Delegated Regulation (EU) 2020/687;
+
+— in response to a change in the risk of introduction of a category A disease in a non-affected Member State or area thereof;
+
+— equine animals subject to the derogation provided for in point 1 of Annex III to Delegated Regulation (EU) 2020/687;
+
+(iii) emergency vaccination in wild terrestrial animals, implemented in response to an outbreak of a category A disease;
+
+(b) preventive vaccination, where a vaccine against a category A disease is administered to terrestrial animals in non-affected geographic areas for preventive purposes other than the cases covered by emergency protective vaccination.
+
+2\. The competent authority may implement the strategies referred to in paragraph 1 simultaneously or consecutively in different kept and wild terrestrial animal populations, in different zones and geographic areas and at different time points throughout an outbreak, and may vary the strategies applied according to the zone or area, species affected or other defining characteristics. In such cases, the competent authority shall include all the strategies applied simultaneously or consecutively in the official vaccination plan after the assessment referred to in Article 5(1), point (a).
+
+When an area where preventive vaccination in accordance with paragraph 1, point (b), is implemented becomes affected by the relevant category A disease and falls under a restricted zone established in accordance with Article 21 of Delegated Regulation (EU) 2020/687, the preventive vaccination plan may continue to be implemented unless the competent authority decides to apply an emergency vaccination to respond to the increased risk.
+
+##### Article 8 — Rules for the implementation of emergency suppressive vaccination
+
+When implementing emergency suppressive vaccination, as referred to in Article 7(1), point (a)(i), the competent authority shall:
+
+(a) vaccinate the animals subject to the derogation provided for in Article 12(4), point (b), of Delegated Regulation (EU) 2020/687 without delay after the confirmation of the relevant outbreak(s);
+
+(b) order and supervise the killing of all vaccinated animals as soon as possible, in accordance with the rules laid down in either Article 12(1), point (a), or Article 12(4), point (a), of Delegated Regulation (EU) 2020/687 and under the biosecurity measures provided for in Articles 12(1), point (c), and Article 12(2) of that Delegated Regulation.
+
+##### Article 9 — Rules for the implementation of emergency protective vaccination and emergency vaccination in wild animals
+
+1\. When implementing emergency protective vaccination, as referred to in Article 7(1), point (a)(ii), and emergency vaccination in wild animals, as referred to in Article 7(1), point (a)(iii), the competent authority shall:
+
+(a) specify the type of vaccine to be used or prioritised, the minimum vaccine coverage and the targeted animals/species;
+
+(b) establish geographically:
+
+(i) a vaccination zone, in which vaccination is carried out, in order to prevent spreading of the category A disease from affected areas to non-affected areas;
+
+(ii) a peri-vaccination zone, surrounding the vaccination zone, in which vaccination is not allowed, covering a distance width from the perimeters of the vaccination zone;
+
+(c) implement reinforced clinical and laboratory surveillance in the vaccination and peri-vaccination zones referred to in point (b):
+
+(i) to assess vaccination effectiveness in the vaccination zone;
+
+(ii) to detect any possible new outbreak of the disease in the vaccination and peri-vaccination zones;
+
+(iii) in accordance with Annex I to Delegated Regulation (EU) 2020/687 as regards the sampling procedures, diagnostic methods and transport of samples;
+
+(iv) selecting the diagnostic methods depending on the type of vaccine administered.
+
+2\. By way of derogation from paragraph 1, point (b)(ii), the competent authority may decide not to establish the peri-vaccination zone when implementing emergency protective vaccination in zones where the relevant category A disease has not been suspected or confirmed and when implementing emergency vaccination in wild animals.
+
+3\. Where vaccination zones or peri-vaccination zones as provided for in paragraph 1, point (b), are situated in the territory of more than one Member State, the competent authorities of those Member States shall cooperate in establishing them.
+
+4\. Where disease-specific conditions are laid down in Parts 1 and 2 of Annexes VII to XVIII  , the competent authority shall implement the measures laid down in paragraph 1 in accordance with those conditions.
+
+##### Article 10 — Rules for the implementation of preventive vaccination
+
+1\. Preventive vaccination may only be implemented for the prevention of category A diseases for which specific conditions for preventive vaccination are laid down in Part 5 of Annexes VII to XVIII  , and shall be implemented in accordance with those conditions.
+
+2\. When implementing preventive vaccination, as referred to in Article 7(1), point (b), the competent authority shall:
+
+(a) specify the type of vaccine to be used or prioritised;
+
+(b) implement reinforced clinical and laboratory surveillance;
+
+in accordance with the relevant disease-specific conditions laid down in Part 5 of Annexes VII to XVIII  , where provided.
+
+##### Article 11 — Record-keeping and reporting obligations for emergency and preventive vaccination
+
+1\. When implementing emergency and preventive vaccination the competent authority shall ensure that at least the information detailed in Annex V on the vaccination is recorded.
+
+2\. The competent authority shall provide the other Member States and the Commission with a report on the implementation of the vaccination that includes at least the relevant information detailed in point 1 of Annex VI at the time points and minimum frequency provided for in point 2 of that Annex.
+
+#### Section 2 — Risk mitigation measures, certification requirements and waiting  periods
+
+##### Article 12 — Biosafety rules for emergency and preventive vaccination
+
+1\. When implementing emergency or preventive vaccination the competent authority shall ensure that the following tasks are under the supervision of an official veterinarian:
+
+(a) distribution and administration of the vaccine;
+
+(b) returning of any residual quantities of the vaccine to the point of distribution or to any other designated point with a record on the vaccinated establishments, the number of vaccinated animals and the number of doses used.
+
+2\. During the administration of the vaccine and the return of residual quantities of the product, the competent authority shall put in place all the necessary measures to avoid the possible spread of disease agents.
+
+##### Article 13 — Risk-mitigating measures in the vaccination zone when implementing emergency protective vaccination and emergency vaccination in wild animals
+
+1\. When implementing emergency protective vaccination the competent authority shall prohibit:
+
+(a) the movements of animals and products thereof laid down in Part 3, point 1, of Annexes VII to XVIII;
+
+(b) the collection of germinal products from animals laid down in Part 3, point 2, of Annexes VII to XVIII;
+
+(c) in the absence of disease-specific conditions laid down in Part 3, of Annexes VII to XVIII, movements of:
+
+(i) vaccinated animals from the establishment where they were vaccinated;
+
+(ii) products from vaccinated animals from the production and/or processing establishments.
+
+2\. By way of derogation from paragraph 1, point (a), the competent authority may allow movements of animals, either:
+
+(a) if they are subject to compulsory killing after vaccination, in accordance with the official vaccination plan referred to in Article 5(1), point (b), and they are moved to be killed at the nearest suitable place;
+
+or
+
+(b) if they are not subject to compulsory killing after vaccination, in accordance with the official vaccination plan referred to in Article 5(1), point (b), and they comply with the conditions laid down in Part 3, point 3, of Annexes VII to XVIII.
+
+3\. By way of derogation from paragraph 1, point (a), the competent authority may allow movements of products of animals from the production and/or processing establishment in accordance with the conditions laid down in Part 3, point 3, of Annexes VII to XVIII.
+
+4\. By way of derogation from paragraph 1, point (b), the competent authority may allow the collection of germinal products in accordance with the conditions laid down in Part 3, point (3), of Annexes VII to XVIII.
+
+5\. When implementing emergency vaccination in wild animals the competent authority shall apply in the vaccination zone the disease-specific restrictions and other risk-mitigating measures set out in Part 3 of Annexes VII to XVIII for the relevant disease, where provided specifically for emergency vaccination in wild animals.
+
+6\. In vaccination zones situated in a restricted zone in accordance with Delegated Regulation (EU) 2020/687, the restrictions and other risk-mitigating measures provided for in paragraphs 1 and 5 shall apply in addition to the measures applicable to:
+
+(a) protection and surveillance zones and further restricted zones where applicable, established in accordance with Article 21(1) of Delegated Regulation (EU) 2020/687 in the event of an outbreak of a category A disease in kept terrestrial animals, until they are lifted in accordance with Articles 39 and 55 of that Regulation;
+
+(b) infected zones established in accordance with Article 63(1) of Delegated Regulation (EU) 2020/687 in the event of an outbreak of a category A disease in wild animals, until they are lifted in accordance with Article 67 of that Regulation;
+
+(c) restricted zones established under emergency measures provided for in Articles 71, 257 and 258 of Regulation (EU) 2016/429, and any rules adopted pursuant to Article 71(3) and Article 259 of that Regulation until those measures are lifted.
+
+7\. The measures referred to in paragraphs 1 and 5 shall continue to apply after the measures referred to in paragraph 6 have been lifted.
+
+##### Article 14 — Risk-mitigating measures when implementing preventive vaccination
+
+1\. When implementing preventive vaccination the competent authority shall prohibit the movement of vaccinated animals from the establishment where they were vaccinated and the movement of products from vaccinated animals from the production and/or processing establishment.
+
+2\. By way of derogation from paragraph 1, the competent authority may allow movements of vaccinated animals and products thereof from the establishment where they were vaccinated or where they were produced and/or processed if:
+
+(a) they are not included in the list of animals and products, referred to in Article 13(1), points (a) and (b);
+
+(b) they are subject to prohibitions of movements but they comply with the relevant conditions and the competent authority has authorised their movement;
+
+in accordance with the conditions laid down in Part 5 of Annexes VII to XVIII  , where provided.
+
+##### Article 15 — Certification requirements for movements of kept animals and products thereof from vaccination zones
+
+Operators shall move animals and products, to which measures provided for in Article 13(1) apply, within a Member State or from one Member State to another Member State, only if the animals and products to be moved comply with the relevant conditions provided for in Article 13 and are accompanied by an animal health certificate issued by the competent authority of the Member State of origin in accordance with:
+
+(a) Article 149(1) of Regulation (EU) 2016/429 for kept terrestrial animals;
+
+(b) Article 161(4) of Regulation (EU) 2016/429 for germinal products;
+
+(c) Article 167(3) of Regulation (EU) 2016/429 for products of animal origin;
+
+(d) Article 22(5) and (6) of Delegated Regulation (EU) 2020/687 for animal by-products;
+
+##### Article 16 — Waiting  periods after emergency protective vaccination
+
+1\. After the completion of emergency protective vaccination the competent authority shall respect the relevant disease-specific waiting  periods provided for in Part 4 of Annexes VII to XVIII  , during which clinical and/or laboratory surveillance demonstrating the absence of infection with the relevant pathogen is conducted in the vaccination and peri-vaccination zones.
+
+2\. The surveillance referred to in paragraph 1 shall be implemented:
+
+(a) in accordance with:
+
+(i) the disease-specific conditions set out in Part 4 of Annexes VII to XVIII  ;
+
+(ii) Annex I to Delegated Regulation (EU) 2020/687, as regards the sampling procedures, diagnostic methods and transport of samples;
+
+(b) taking into account the type of vaccine administered.
+
+#### Section 3 — Final provisions
+
+##### Article 17 — Entry into force
+
+This Regulation shall enter into force 20 days following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+### LIST OF ANNEXES
+
+1\. Annex I on category A and B diseases for which the use of vaccines shall be prohibited by Member States and on the use of certain veterinary medicinal products, other than vaccines, for prevention and control of category A and B diseases.
+
+2\. Annex II on the criteria for the use of a vaccine to prevent and control a category A disease in animals.
+
+3\. Annex III on the information to be included in the official vaccination plan.
+
+4\. Annex IV on the preliminary information to be provided to other Member States and the Commission prior to vaccination.
+
+5\. Annex V on the minimum records on vaccination.
+
+6\. Annex VI on the minimum information to be provided by the competent authority to other Member States and the Commission on the implementation of vaccination.
+
+7\. Annex VII on vaccination against foot and mouth disease (FMD).
+
+8\. Annex VIII on vaccination against infection with Rift Valley Fever virus (RVF).
+
+9\. Annex IX on vaccination against infection with lumpy skin disease virus (LSD).
+
+10\. Annex X on vaccination against infection with peste des petits ruminants virus (PPR).
+
+11\. Annex XI on vaccination against African horse sickness (AHS).
+
+12\. Annex XII on vaccination against classical swine fever (CSF) in kept porcine animals.
+
+13\. Annex XIII on vaccination against highly pathogenic avian influenza (HPAI).
+
+14\. Annex XIV on vaccination against infection with Newcastle disease virus (NCD).
+
+15\. Annex XV on vaccination against classical swine fever (CSF) in wild porcine animals.
+
+16\. Annex XVI on vaccination against African swine fever (ASF) in kept porcine animals.
+
+17\. Annex XVII on vaccination against African swine fever (ASF) in wild porcine animals.
+
+18\. Annex XVIII on vaccination against sheep pox and goat pox (SPGP).
+
+## ANNEX I
+
+**PART 1**
+
+**CATEGORY A DISEASES FOR WHICH THE USE OF VACCINES SHALL BE PROHIBITED BY MEMBER STATES**
+
+— Infection with Rinderpest virus
+
+**PART 2**
+
+**CATEGORY B DISEASES FOR WHICH THE USE OF VACCINES SHALL BE PROHIBITED BY MEMBER STATES**
+
+— Infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae and M. tuberculosis)
+
+**PART 3**
+
+**USE OF CERTAIN VETERINARY MEDICINAL PRODUCTS, OTHER THAN VACCINES, FOR PREVENTION AND CONTROL OF CATEGORY A AND B DISEASES**
+
+**(Article 4)**
+
+| Disease | Type of veterinary medicinal product | Conditions |
+| --- | --- | --- |
+| Infection with Brucella abortus, B. melitensis, B. suis | Immunological veterinary medicinal products to diagnose the state of immunity of animals: brucelin | Their use shall be allowed only in accordance with Delegated Regulation (EU) 2020/688, Delegated Regulation (EU) 2020/689, Delegated Regulation (EU) 2020/686 and Regulation (EU) No 853/2004, or for export purposes |
+| Infection with Mycobacterium tuberculosis complex (M. bovis, M. caprae, M. tuberculosis) | Immunological veterinary medicinal products to diagnose the state of immunity of animals: tuberculin | Their use shall be allowed only in accordance with Delegated Regulation (EU) 2020/688, Delegated Regulation (EU) 2020/689, Delegated Regulation (EU) 2020/686 and Regulation (EU) No 853/2004, or for export purposes |
+
+## ANNEX II
+
+**Criteria for the use of a vaccine to prevent and control a category A disease in animals**
+
+**PART 1**
+
+**1\. Vaccination of kept animals**
+
+1\. Number of establishments where the category A disease has been confirmed or suspected;
+
+2\. Type of establishments where the category A disease has been confirmed or suspected;
+
+3\. Number of animals kept in the establishments where the category A disease has been confirmed or suspected;
+
+4\. Species affected and risk of disease spread to humans;
+
+5\. Presence of the disease in wild animals;
+
+6\. Density of animals of listed species in the areas where the disease is present;
+
+7\. Density of establishments keeping animals of listed species in the areas where the disease is present;
+
+8\. Origin of the outbreak(s);
+
+9\. Traceability and possibility to perform contact tracing;
+
+10\. Incidence slope of outbreaks;
+
+11\. Simulation models used to assess when and if vaccination is relevant, if such information is available;
+
+12\. Capacity of killing and killing and disposal schedule in establishments where animals are killed;
+
+13\. Movement of potentially infected animals or products out of the restricted zone established pursuant to Delegated Regulation (EU) 2020/687;
+
+14\. Rate of airborne or vector-borne spread of the disease agent from the establishments or area where the category A disease has been confirmed;
+
+15\. Effectiveness of other disease control measures taken and available resources to implement them;
+
+16\. Level of preparedness and capacity of the competent authorities and other personnel concerned;
+
+17\. Economic assessment: cost–benefit analysis;
+
+18\. Trade concerns: consequences on disease freedom status of the Member State concerned and trade restrictions likely to be imposed by third countries or territories as a consequence of vaccination.
+
+**2\. Vaccination of wild animals**
+
+In addition to the criteria provided for in point 1, the following criteria shall be considered:
+
+1\. mortality in wild animals due to the category A disease;
+
+2\. knowledge of the population and ecological dynamics of the affected wild animals;
+
+3\. size of the affected area (where animals affected are found);
+
+4\. the risk of spread of the disease to additional listed species of wild animals or beyond the above area;
+
+5\. the risk of spread of the category A disease to kept animals or to humans;
+
+6\. the availability of vaccines and vaccination systems to distribute the vaccine among the target population;
+
+7\. the possibility to control the vaccination and to establish a surveillance system to detect the specific disease agent and to assess the effectiveness of vaccination.
+
+**PART 2**
+
+**SIMPLIFIED ASSESSMENT OF THE VACCINATION STRATEGY**
+
+1\. Number of establishments where the category A disease has been confirmed or suspected;
+
+2\. Type of establishments where the category A disease has been confirmed or suspected;
+
+3\. Number of animals kept in the establishments where the category A disease has been confirmed or suspected;
+
+4\. Species affected;
+
+5\. Capacity of killing and killing and disposal schedule in establishments where animals are killed;
+
+6\. Rate of airborne or vector-borne spread of the disease agent from the establishments or area where the category A disease has been confirmed.
+
+## ANNEX III
+
+**Information to be included in the official vaccination plan**
+
+**PART 1**
+
+**1\. Kept animals**
+
+(a) the description and the results of the assessment performed in accordance with Annex II, including the epidemiological situation and the relevant information used as a basis for the assessment;
+
+(b) the main objectives and targets with the chosen vaccination strategy and the official vaccination plan;
+
+(c) the detailed geographic description of the vaccination zone in which vaccination is to be carried out and the location of establishments keeping animals to be vaccinated, when available and applicable, including maps;
+
+(d) where relevant, the detailed geographic description of the peri-vaccination zone surrounding the vaccination zone, and the location of establishments keeping animals of listed species, when available, including maps;
+
+(e) the number of establishments keeping animals of listed species located in the vaccination zone and the number of establishments in which vaccination is to be carried out, if different;
+
+(f) the estimated number of kept animals of listed species to be vaccinated, their categories and, when relevant, their age;
+
+(g) intended final use of vaccinated animals and products;
+
+(h) categories of animals exempted from vaccination and reasoning;
+
+(i) the arrangements to administer the vaccine and the system to supervise the administration of the vaccine;
+
+(j) the envisaged duration of the vaccination, from the start of the vaccination to the end of the surveillance carried out after vaccination;
+
+(k) the summary of the characteristics of the vaccine, including the name of the product(s) and the name of the manufacturer(s), and routes of administration;
+
+(l) indication if the vaccine is used in accordance with Article 110(2) of Regulation (EU) 2019/6;
+
+(m) the details of the reinforced clinical and laboratory surveillance referred to in Article 9, point 1(c) and Article 10, point 2(b);
+
+(n) the hygiene and biosecurity rules to be applied;
+
+(o) the record keeping system on the vaccination;
+
+(p) the restrictions on movements of vaccinated animals and products thereof and other risk-mitigating measures to control the potential spread of disease to be put in place and their duration in addition to those provided for in this Regulation;
+
+(q) communication campaign to be put in place to inform operators and the public about the vaccination, including the safety for human consumption of products of animal origin from vaccinated animals of listed species;
+
+(r) other matters deemed appropriate to the situation by the competent authority.
+
+**2\. Wild animals**
+
+In case vaccination involves wild animals of listed species, the official vaccination plan shall include the information referred to in point 1, points (a), (b), (j), (k), (l), (m), (n), (o), (p) and (q), and the following information:
+
+(a) the detailed geographic description of the vaccination zone and the peri-vaccination zone, where relevant;
+
+(b) the estimated number of wild animals of listed species to be vaccinated;
+
+(c) the measures to be adopted to avoid a high number of movements of wild animals;
+
+(d) the vaccination periods or seasons where relevant;
+
+(e) the vaccine delivery system.
+
+**PART 2**
+
+**SIMPLIFIED INFORMATION TO BE INCLUDED IN THE OFFICIAL VACCINATION PLAN**
+
+(a) The description and the results of the assessment performed in accordance with Annex II, including the epidemiological situation and the relevant information used as a basis for the assessment;
+
+(b) the main objectives and targets with the chosen vaccination strategy and the official vaccination plan;
+
+(c) the number of establishments keeping animals of listed species to be vaccinated;
+
+(d) the estimated number of kept animals of listed species to be vaccinated, their categories and, when relevant, their age;
+
+(e) categories of animals exempted from vaccination and reasons for exempting them;
+
+(f) the system to supervise the administration of the vaccine;
+
+(g) the summary of the characteristics of the vaccine, including the name of the products and the name of the manufacturers;
+
+## ANNEX IV
+
+**Preliminary information to be provided to other Member States and the Commission prior to vaccination**
+
+The Member State intending to apply a vaccination against category A diseases shall provide the following information before starting the vaccination:
+
+(a) brief reasoning to start the vaccination;
+
+(b) chosen strategy and motivation;
+
+(c) species of animals that will be vaccinated, specifying if wild animals will be included;
+
+(d) estimated number of animals that will be vaccinated;
+
+(e) estimated duration of the vaccination;
+
+(f) type and commercial name of the vaccine applied, including the indication if the vaccine will be used in accordance with Article 110(2) of Regulation (EU) 2019/6;
+
+(g) description of the estimated vaccination zone.
+
+## ANNEX V
+
+**Minimum records on vaccination**
+
+**1\. Kept animals**
+
+— Individual identification, where relevant in accordance with Regulation (EU) 2019/2035,
+
+— species and category,
+
+— Registration number of the establishment,
+
+— number of vaccinated animals,
+
+— number of vaccine doses administered,
+
+— type and name of the vaccine,
+
+— date of vaccination,
+
+— date of killing (where applicable),
+
+— date and method of disposal of the carcass (where applicable).
+
+**2\. Wild animals**
+
+— Regions or zones where wild animals are vaccinated,
+
+— vaccine delivery system,
+
+— period of vaccination,
+
+— type and name of the vaccine,
+
+— number of vaccine doses distributed,
+
+— methods to monitor vaccination effectiveness and methods of disease surveillance in vaccinated zones.
+
+## ANNEX VI
+
+**Minimum information to be provided by the competent authority to other Member States and the Commission on the implementation of vaccination**
+
+**1\. Minimum information to be provided in the reports**
+
+<table>
+<tbody><tr><td rowspan="2">  </td><td colspan="3">Emergency vaccination strategy</td><td rowspan="2">Preventive vaccination strategy</td></tr>
+<tr><td>Suppressive vaccination</td><td>Protective vaccination</td><td>In wild animals</td></tr>
+<tr><td>Description of vaccination and peri-vaccination zones</td><td>WHERE APPLICABLE</td><td>YES</td><td>YES</td><td>WHERE APPLICABLE</td></tr>
+<tr><td>Total number of establishments and total number of establishments in each vaccination zone (where applicable)</td><td>YES</td><td>YES</td><td>NO</td><td>YES</td></tr>
+<tr><td>Total number of animals to be vaccinated, (by species) and total number of animals in each vaccination zone (where applicable).</td><td>YES</td><td>YES</td><td>NO</td><td>YES</td></tr>
+<tr><td>Total number of vaccinated establishments (in each vaccination zone where applicable)</td><td>YES</td><td>YES</td><td>NO</td><td>YES</td></tr>
+<tr><td>Total number of vaccinated animals, by species, (in each vaccination zone, where applicable)</td><td>YES</td><td>YES</td><td>NO</td><td>YES</td></tr>
+<tr><td>Total number of doses administered or distributed</td><td>YES</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td>Expected date for completing the vaccination</td><td>NO</td><td>YES</td><td>YES</td><td>YES</td></tr>
+<tr><td>Total number of vaccinated animals killed.</td><td>YES</td><td>WHERE APPLICABLE</td><td>NO</td><td>NO</td></tr>
+<tr><td>Dates of killing of the vaccinated animals (suppressive vaccination) or expected date of completion of killing (protective vaccination, where applicable)</td><td>YES</td><td>WHERE APPLICABLE</td><td>NO</td><td>NO</td></tr>
+</tbody>
+</table>
+
+**2\. Time points and minimum frequency to submit the reports**
+
+<table>
+<tbody><tr><td colspan="3">Emergency vaccination strategy</td><td rowspan="2">Preventive vaccination</td></tr>
+<tr><td>Suppressive vaccination</td><td>Protective vaccination</td><td>In wild animals</td></tr>
+<tr><td rowspan="2">Within 7 days from the end of the administration of the vaccine to all animals included in the official vaccination plan</td><td>At least once every two weeks for the first month of vaccination and once a month for the rest of the duration of the vaccination for one-year or shorter vaccination campaigns</td><td>At least once a month for one-year or shorter vaccination campaigns</td><td rowspan="2">Once a year</td></tr>
+<tr><td>At least once at the end of the annual vaccination for multi-year vaccination campaigns</td><td>At least every 6 months for multi-year vaccination campaigns</td></tr>
+</tbody>
+</table>
+
+## ANNEX VII — Foot and mouth disease (FMD)
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF FMD**
+
+1\. Type of vaccine to be used: Inactivated vaccines; live attenuated vaccines shall not be used.
+
+2\. Size of the vaccination zone and of the peri-vaccination zone:
+
+2.1. Vaccination zone: no specific rules.
+
+2.2. Peri-vaccination zone: The peri-vaccination zone shall be of at least 10 km width from the perimeters of the vaccination zone.
+
+3\. Minimum coverage: To be adapted according to the circulating strain, the effectiveness of biosecurity in establishments and the animal density, in the vaccination zone. As a baseline, vaccine coverage should aim for at least 80 % of establishments in the vaccination zone and for 80 % of the targeted animals per each species kept in each of those establishments selected for the application of vaccination.
+
+4\. Targeted animals/species: Listed species in accordance with Implementing Regulation (EU) 2018/1882.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF FMD**
+
+Reinforced clinical and laboratory surveillance shall be implemented in the vaccination zone, starting not earlier than 30 days after the completion of emergency protective vaccination. This surveillance shall include:
+
+1\. a clinical examination of one of the following types:
+
+(a) clinical examination of all animals of listed species kept in all establishments in the vaccination zone;
+
+(b) clinical examination targeted at particular species likely to exhibit clear clinical signs, if the competent authority decides so, based on the positive outcome of a risk assessment;
+
+2\. laboratory examination as follows:
+
+(a) tests for antibodies against non-structural proteins of the FMD virus carried out on samples taken from vaccinated animals of listed species and their non-vaccinated offspring in all establishments in the vaccination zone in which vaccination was carried out; the sample size shall be calculated to detect a within-establishment animal prevalence of 5 % or less, with a 95 % confidence, in both vaccinated and non-vaccinated animals;
+
+(b) tests, either by an assay for antibodies against non-structural proteins of the FMD virus or by another approved method, carried out on samples collected in accordance with Annex I to Delegated Regulation (EU) 2020/687 from all establishments in the vaccination zone, in which vaccination was not carried out;
+
+(c) where animals introduced in affected establishments as part of their repopulation are used as sentinel animals, the conditions for repopulation of affected establishments provided for in Delegated Regulation (EU) 2020/687 shall be taken into account.
+
+**PART 3**
+
+**SPECIFIC CONDITIONS FOR THE PROHIBITION OF MOVEMENTS OF ANIMALS AND PRODUCTS AND FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13, IN VACCINATION ZONES WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF FMD IS CARRIED OUT**
+
+1\. Animals and products thereof subject to prohibition of movements
+
+(a) animals of listed species from establishments located in the vaccination zone;
+
+(b) fresh meat, raw milk and colostrum obtained from vaccinated animals;
+
+(c) dairy products and colostrum-based products produced from milk and colostrum obtained from vaccinated animals;
+
+2\. Germinal products subject to prohibition of collection: semen for artificial insemination from donor animals of listed species kept in approved germinal product establishments located in the vaccination zone.
+
+3\. Conditions for granting a derogation in accordance with Article 13(2), point (b), Article 13(3) and Article 13(4)
+
+3.1. From the start of the emergency protective vaccination until at least 30 days have elapsed following its completion, the following may be authorised:
+
+(a) movements for slaughter of kept animals of listed species from establishments located in the vaccination zone to a slaughterhouse located within or as close as possible to the vaccination zone, within the same Member State, under the same conditions as those laid down in Article 24, Article 28(2), (3), (4), (5) and (7) and Article 29(1) and (2) of Delegated Regulation (EU) 2020/687;
+
+(b) movements of fresh meat and raw milk obtained from vaccinated animals under the same conditions as those provided for in Article 24, Article 28(2), (3), (4), (6) and (7) and Article 33(1), point (a), and Article 33(2) of Delegated Regulation (EU) 2020/687;
+
+(c) movements of dairy products produced from milk obtained from vaccinated animals if they have undergone an effective treatment for FMD in accordance with Annex VII to Delegated Regulation (EU) 2020/687 and only if during the production process, storage and transport they have been separated from products not eligible for dispatch outside the vaccination zone pursuant to this Regulation;
+
+(d) collection of semen for artificial insemination from donor animals of listed species kept in approved germinal product establishments located in the vaccination zone for the production of frozen semen, under the following conditions:
+
+(i) it is ensured that the semen collected during this period is stored separately for at least 30 days;
+
+(ii) prior to dispatch of the semen, either:
+
+— the donor animal has not been vaccinated and the same conditions as those set out in Article 32, points (b) and (c), of Delegated Regulation (EU) 2020/687 are fulfilled; or
+
+— the donor animal has been vaccinated following a negative result to a laboratory examination for the detection of antibodies against the FMD virus carried out prior to vaccination; and
+
+— a negative result has been achieved in a laboratory examination for the detection of either virus or viral genome, or in an approved test for the detection of antibodies against non-structural proteins of the FMD virus, carried out at the end of the quarantine period for the semen on samples taken from all animals of listed species present at that time in the approved germinal product establishment; and
+
+— the semen complies with the conditions set out in Part 5, Chapter I, point 3, of Annex II to Delegated Regulation (EU) 2020/686.
+
+3.2. During the period starting not earlier than 30 days after the completion of emergency protective vaccination until completion of the specific surveillance provided for in Part 2 of this Annex, the following may be authorised:
+
+(a) movements for slaughter of kept animals of listed species kept in the vaccination zone to a slaughterhouse located within or outside the vaccination zone but within the same Member State, under the same conditions as those provided for in Article 24 and Article 28(5) of Delegated Regulation (EU) 2020/687;
+
+(b) movements of fresh meat, excluding offal, obtained from vaccinated ungulates of listed species, other than porcine animals, if the fresh meat:
+
+— complies with the same conditions as those set out in Article 28(6) of Delegated Regulation (EU) 2020/687;
+
+— has been de-boned and the main accessible lymph nodes have been removed;
+
+— is, or has been obtained from, carcasses that have been subjected to a maturation process at a temperature of more than 2 oC for at least 24 hours and the pH value recorded in the middle of the Longissimus dorsi muscle was less than 6,0;
+
+(c) movements of fresh meat obtained from ungulates of listed species, other than porcine animals, kept and slaughtered outside the vaccination zone;
+
+(d) movements of fresh meat, excluding offal, obtained from vaccinated porcine animals slaughtered in this period, if the fresh meat was produced under the conditions provided for in Article 24, Article 28(2), (3), (4), (6) and (7) and Article 33(1), point (a), and Article 33(2) of Delegated Regulation (EU) 2020/687;
+
+(e) movements of raw milk obtained from vaccinated animals under the same conditions as those provided for in Article 24, Article 28(2), (3), (4), (6) and (7) and Article 33(1), point (a), and Article 33(2), point (b), of Delegated Regulation (EU) 2020/687;
+
+(f) movements of dairy products obtained from vaccinated animals if those dairy products have undergone an effective treatment against FMD in accordance with Annex VII to Delegated Regulation (EU) 2020/687 and only if during the production process, storage and transport have been separated from products not eligible for dispatch outside the vaccination zone pursuant to this Regulation.
+
+(g) collection of semen for artificial insemination from donor animals of listed species kept in approved germinal product establishments located in the vaccination zone under the conditions set out in point 3.1, subpoint (d).
+
+3.3. After the completion of the specific surveillance provided for in Part 2 of this Annex, the following may be authorised:
+
+(a) movements for slaughter of animals of listed species kept in the vaccination zone to a slaughterhouse located within or out of the vaccination zone, but within the same Member State, under the same conditions as those set out in Article 24 and Article 28(5) of Delegated Regulation (EU) 2020/687;
+
+(b) movements of unvaccinated animals of listed species, within or out of the vaccination zone, but within the same Member State, in accordance with the following provisions:
+
+(i) within 24 hours preceding loading, all animals of listed species on the establishment have been subjected to clinical examination and have not shown clinical signs of FMD,
+
+(ii) the animals have completed a standstill on the establishment of origin of at least 30 days during which no animal of listed species has been introduced into the establishment,
+
+(iii) the animals intended for movement were either individually subjected, with negative results, to tests for the detection of antibodies against the FMD virus at the end of the 30 day period provided for in (ii), or a serological survey was completed on that establishment irrespective of the species concerned;
+
+(iv) the animals must not be exposed to any source of infection during their transportation from the establishment of origin to the place of destination.
+
+(c) movements of unvaccinated calves, offspring of vaccinated cows to:
+
+(i) an establishment within the vaccination zone of the same health status as the establishment of origin;
+
+(ii) a slaughterhouse for immediate slaughter;
+
+(iii) an establishment designated by the competent authority, from which the offspring are to be sent directly to a slaughterhouse;
+
+(iv) any establishment, after having been subjected, with a negative result, to a test for the detection of antibody against the FMD virus, carried out on a sample of blood taken prior to dispatch from the establishment of origin.
+
+(d) movements of fresh meat, meat products, raw milk, dairy products in accordance with point 3.2, points (b) to (f);
+
+(e) collection of semen in accordance with point 3.1, point (d).
+
+**PART 4**
+
+**WAITING PERIOD FOR FMD FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in Part 3 until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of FMD during the waiting period |
+| --- | --- |
+| 3 months after the last remaining vaccinated animal in the vaccination zone has been killed or slaughtered, excluding animals referred to in Article 13(2) of Regulation 2020/687 | Clinical and laboratory surveillance (pathogen identification and antibody detection), in accordance with Article 9(1), point (c)(ii) to (iv) and Part 2 of this Annex |
+
+## ANNEX VIII
+
+**Infection with Rift valley fever virus (RVF)**
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF RVF**
+
+1\. Size of the vaccination zone : at least 50 km radius around affected establishments or ring vaccination between 20 and 50 km.
+
+2\. Size of the peri-vaccination zone : No specific rules.
+
+3\. Type of vaccine to be used or prioritised : Inactivated vaccines. Live attenuated vaccines may only be used in endemic areas.
+
+4\. Minimum coverage : No specific rules.
+
+5\. Targeted animals/species : Animals of listed species in accordance with Implementing Regulation (EU) 2018/1882 kept in the vaccination zone, including at least bovine, ovine, caprine and camelid animals.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF RVF**
+
+Passive surveillance: in the vaccination and peri-vaccination zones, enhanced passive surveillance on abortions, stillbirths and neonatal mortality during summer and autumn (during the peak of and end of the vector season).
+
+**PART 3**
+
+**SPECIFIC CONDITIONS FOR THE PROHIBITION OF MOVEMENTS OF ANIMALS AND PRODUCTS AND FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13, IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF RVF IS CARRIED OUT**
+
+1\. Animals and products subject to prohibition of movements: vaccinated animals and products thereof, including semen, embryos and oocytes destined to be moved to other Member States.
+
+2\. Germinal products subject to prohibition of collection: semen, oocytes and embryo from animals of listed species.
+
+3\. Conditions for granting a derogation in accordance with Article 13(2), point (b), Article 13(3) and Article 13(4). Movements of animals and products thereof that may be authorised:
+
+Movements of vaccinated animals and products thereof, including semen, embryos and oocytes to another Member State for which the competent authority of the Member State of destination grants a specific authorisation for entry of each consignment of vaccinated animals or products thereof. This authorisation may be based on the results of laboratory examinations.
+
+**PART 4**
+
+**WAITING  PERIODS FOR RVF**
+
+No additional disease-specific requirements
+
+## ANNEX IX — Infection with lumpy skin disease virus (LSD)
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF LSD**
+
+**1\. Types of vaccination zones**
+
+1.1. Vaccination zone I: vaccination zone where there are no restrictions linked to outbreaks of LSD;
+
+1.2. Vaccination zone II: vaccination zone where restrictions apply in response to outbreaks of LSD;
+
+**2\. Size of the vaccination zones and peri-vaccination zone**
+
+2.1. Vaccination zone I: no specific requirements;
+
+2.2. Vaccination zone II: at least the areas included in the protection, surveillance and further restricted zones established after the confirmation of LSD in accordance with Article 21 of Delegated Regulation (EU) 2020/687;
+
+2.3. Peri-vaccination zone: no specific requirements.
+
+3\. Type of vaccine to be used or prioritised: to prioritise the use of live attenuated homologous vaccines.
+
+4\. Minimum coverage: Vaccine coverage must be of at least 90 % of establishments representing 75 % of the targeted animal population of the vaccination zone.
+
+5\. Targeted animals/species: kept bovine animals.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF LSD**
+
+No additional specific requirements.
+
+**PART 3**
+
+**ANIMALS AND PRODUCTS SUBJECT TO PROHIBITION OF MOVEMENTS AND CONDITIONS FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13 IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF LSD IS CARRIED OUT**
+
+**1\. Animals and products thereof subject to prohibition of movements from vaccination zones**
+
+(a) bovine animals not for direct slaughter;
+
+(b) germinal products from bovine animals;
+
+(c) hides and skins from bovine animals.
+
+2\. Germinal products subject to prohibition of collection: none.
+
+3\. Conditions for granting a derogation in accordance with Article 13(2), point (b), Article 13(3), and Article 13(4), point (b)
+
+Without prejudice to the movement restrictions which apply in accordance with Article 27(1) of Delegated Regulation (EU) 2020/687, and notwithstanding the conditions for granting derogations laid down in Article 28(2) to (5) and Article 28(7) of Delegated Regulation (EU) 2020/687, movements of the following bovine animals and products thereof may be authorised:
+
+3.1. Movements of bovine animals from vaccination zone II to:
+
+(a) any destination in the same Member State if:
+
+(i) the bovine animals have been kept in their establishment of origin since birth or for a continuous period of at least 28 days prior to the date of dispatch;
+
+(ii) the bovine animals have been vaccinated against LSD at least 28 days prior to the date of dispatch and remain on that date within the immunity period in accordance with the instructions of the vaccine manufacturer, or within the immunity period induced by maternal immunity;
+
+(iii) all the other bovine animals kept in the same establishment of origin as the bovine animals to be moved have been vaccinated against LSD at least 28 days prior to the date of dispatch and remain on that date within the immunity period in accordance with the instructions of the vaccine manufacturer or within the immunity period induced by maternal immunity;
+
+(iv) a clinical examination was carried out, with favourable results, of all bovine animals kept in the establishment of origin, including the bovine animals to be moved;
+
+(b) any destination in other Member States, if, in addition to the conditions laid down in point (a):
+
+(i) LSD vaccination programme has been completed in the vaccination zone of origin of the bovine animals, in line with the vaccination plan, at least 28 days prior to the date of dispatch;
+
+(ii) the bovine animals comply with animal health guarantees, based on the favourable outcome of a risk assessment of measures against the spread of LSD, required by the competent authority of the Member State of origin and authorised by the competent authority of the Member States of destination;
+
+3.2. Movements of bovine animals from vaccination zone I to any destination in the same Member State or in other Member States, if:
+
+(a) a clinical examination was carried out, with favourable results, of all bovine animals kept in the establishment of origin, including the bovine animals to be moved;
+
+(b) the bovine animals:
+
+(i) have been vaccinated against LSD at least 28 days prior to the date of dispatch or remain within the immunity period induced by maternal immunity on the date of dispatch; or
+
+(ii) have not been vaccinated against LSD and are not within the immunity period induced by maternal immunity, LSD vaccination has ceased in the vaccination zone of origin of the bovine animals, in line with the vaccination plan, and the bovine animals were subjected, with negative results, to a LSD virus detection test or a serological test to detect specific antibodies against LSD virus;
+
+3.3. Movements of germinal products of bovine animals from vaccination zones to any destination, provided that the donor animals were clinically examined 28 days prior to the date of collection, as well as throughout the entire collection period, did not show any clinical symptoms of LSD and either:
+
+(a) have been vaccinated against LSD at least 28 days prior to the date of collection and remain on that date within the immunity period in accordance with the instructions of the vaccine manufacturer, or
+
+(b) were subjected, with negative results, to:
+
+(i) a serological test to detect specific antibodies against LSD virus, conducted on blood samples collected:
+
+— on the first day of the collection and at least 28 days after the period of collection as regards semen, or
+
+— on the day of collection as regards embryos and oocytes;
+
+(ii) if kept in vaccination zone II, a polymerase chain reaction (PCR) test to detect LSD, conducted on blood samples collected:
+
+— on the first day of the collection and at least every 14 days thereafter during the collection period as regards semen, or
+
+— on the day of collection as regards embryos and oocytes;
+
+3.4. Movements of hides and skins from vaccination zones to any destination, provided that they have been subjected to a risk-mitigating treatment as set out in Annex VII to Delegated Regulation (EU) 2020/687.
+
+4\. Conditions related to the means of transport used for the movement of bovine animals from vaccination zones
+
+(a) the means of transport only include bovine animals of the same health status;
+
+(b) they comply with the requirements laid down in Article 24(1) of Delegated Regulation (EU) 2020/687;
+
+(c) they are cleaned and disinfected in accordance with Article 24(2) of Delegated Regulation (EU) 2020/687 under the control or supervision of the competent authority of the Member State.
+
+**PART 4**
+
+**WAITING PERIODS FOR LSD FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in part 3 of this Annex until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of LSD during the waiting period |
+| --- | --- |
+| 8 months after the last vaccination or the disinfection of the last affected establishment, which ever occurred last | Clinical and laboratory surveillance (pathogen identification, and antibody detection in unvaccinated animals), in accordance with Article 9(1), point (c)(ii) to (iv) |
+
+## ANNEX X
+
+**Infection with peste des petits ruminants virus (PPR)**
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF PPR**
+
+1\. Size of the vaccination zone : No specific conditions.
+
+2\. Size of the peri-vaccination zone : No specific conditions.
+
+3\. Type of vaccine to be used or prioritised : No specific conditions
+
+4\. Minimum coverage : Vaccine coverage must be at least 95 % of the establishments in the vaccination zone representing at least 80 % of the targeted animals in the vaccination zone
+
+5\. Targeted animals/species : Animals of listed species in accordance with Implementing Regulation (EU) 2018/1882 kept in the vaccination zone, including at least ovine and caprine animals.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF PPR**
+
+Passive surveillance: in the vaccination and peri-vaccination zones, enhanced passive surveillance for PPR signs and symptoms as well as for increased mortality in small ruminants.
+
+**PART 3**
+
+**SPECIFIC CONDITIONS FOR THE PROHIBITION OF MOVEMENTS OF ANIMALS AND PRODUCTS AND FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13, IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF PPR IS CARRIED OUT**
+
+1\. Animals and products thereof subject to prohibition of movements
+
+The same animals and products, located in the vaccination zones, as those subject to restrictions in establishments located in protection and surveillance zones established in the event of an outbreak of PPR provided for in Article 27 of Delegated Regulation (EU) 2020/687 and with the same restrictions.
+
+2\. Germinal products subject to prohibition of collection: semen, oocytes and embryos from animals of listed species.
+
+3\. Conditions for granting a derogation in accordance with Article 13(2) point (b), Article 13(3) and Article 13(4). Movements of animals and products thereof that may be authorised:
+
+3.1. Movements of vaccinated animals and products thereof from establishments located in the vaccination zone, under the same general conditions as those provided for in Article 43 of Delegated Regulation (EU) 2020/687, and only in the cases covered by and under the same specific conditions as those provided for in Articles 44, 45, 48, 49, 51 and 53 of that Regulation in relation to the surveillance zone.
+
+3.2. Movements of vaccinated animals and products thereof from establishments located in the vaccination zone, provided that those establishments do not keep vaccinated animals anymore.
+
+3.3. Movements of vaccinated animals and products thereof from establishments located in the vaccination zone after 2 years have elapsed from cessation of vaccination.
+
+**PART 4**
+
+**WAITING PERIODS FOR PPR FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in Part 3 until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of PPR during the waiting period |
+| --- | --- |
+| 6 months after the slaughter or killing of all vaccinated animals | Clinical and laboratory surveillance (pathogen identification and antibody detection), in accordance with Article 9(1), point (c)(ii) to (iv) |
+| 24 months after the last vaccination | Clinical and laboratory surveillance (pathogen identification and antibody detection), in accordance with Article 9(1), point (c)(ii) to (iv) |
+
+## ANNEX XI
+
+**African horse sickness (AHS)**
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF AHS**
+
+1\. Type of vaccine to be used or prioritised : Monovalent vaccines or, if monovalent vaccines are not available, polyvalent vaccines with the least possible number of valences authorised by the competent authority.
+
+2\. Size of the vaccination zone : infected establishments subject to the derogation provided for in Annex III to Delegated Regulation (EU) 2020/687 and establishments located within a 20 km radius around the infected establishments (included in the protection zone). A vaccination zone may cover the entire protection zone. Any vaccination in the surveillance zone is prohibited.
+
+3\. Size of the peri-vaccination zone : No specific conditions
+
+4\. Minimum coverage : No specific conditions
+
+5\. Targeted animals/species : all equine animals in the vaccination zone, in accordance with the instruction of the vaccine manufacturer/the marketing authorisation.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF AHS**
+
+Clinical and laboratory surveillance shall be carried out in the vaccination zone. This surveillance shall include at least:
+
+1\. a clinical examination of equine animals every 3 to 7 days, or each day in the case of severe clinical cases, since such cases may need to be euthanised because of animal welfare reasons;
+
+2\. a laboratory surveillance of equine animals (testing should be carried out on samples taken at intervals of 3 to 7 days as the minimum time required to capture the minimum incubation period after which an infected animal may test positive), and the diagnostic protocol shall be set up according to the vaccine used (a serological surveillance, in case a DIVA vaccine is used, or a virological surveillance). The surveillance is necessary to detect the AHS virus types circulating to ensure that all circulating serotypes are included in the official vaccination plan;
+
+3\. a surveillance of Culicoides.
+
+**PART 3**
+
+**SPECIFIC CONDITIONS FOR THE PROHIBITION OF MOVEMENTS OF ANIMALS AND PRODUCTS AND FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13, IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF AHS IS CARRIED OUT**
+
+1\. Animals and products thereof subject to prohibition of movements
+
+Equine animals and germinal products thereof.
+
+2\. Germinal products subject to prohibition of collection: none.
+
+3\. Conditions for granting a derogation in accordance with Article 13(2) point (b), Article 13(3) and Article 13(4). Movements of animals and products thereof that may be authorised:
+
+3.1. Movements of vaccinated equine animals from the establishment where they were kept at the time when the vaccination was carried out, provided that:
+
+(a) they were vaccinated more than 40 days prior to movement;
+
+(b) they have undergone a prior identity check and clinical examination as referred to in Article 91(1), point (a), of Delegated Regulation (EU) 2020/688;
+
+(c) they showed no clinical symptoms of AHS on the day of the clinical examination;
+
+(d) they are identified by way of a transponder and a record of vaccination against AHS is kept in their single lifetime document and in the computer database referred to in Article 109(1), point (d), of Regulation (EU) 2016/429;
+
+(e)
+
+(i) they were kept in a vector protected establishment as defined in Article 2(18) of Delegated Regulation (EU) 2020/689 for a period of at least 14 days prior to movement and were subjected to an agent identification test for AHS, at the end of this period, with a favourable result,
+
+or
+
+(ii) they were kept in a vector protected establishment for at least 40 days prior to movement;
+
+(f) they are protected from the attack of vectors.
+
+**PART 4**
+
+**WAITING PERIODS FOR AHS FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in Part 3 until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of AHS during the waiting period |
+| --- | --- |
+| 12 months since the last animal was vaccinated and 2 years since the last outbreak | Clinical and laboratory surveillance (pathogen identification and antibody detection in case of use of DIVA vaccines), in accordance with Article 9(1), point (c)(ii) to (iv) |
+
+## ANNEX XII — Classical swine fever (CSF) in kept porcine animals
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF CSF**
+
+1\. Size of the vaccination zone: No specific conditions.
+
+2\. Size of the peri-vaccination zone: No specific conditions.
+
+3\. Type of vaccine to be used or prioritised: Live attenuated vaccines shall be prioritised. Other vaccines may be used only for duly justified reasons.
+
+4\. Minimum coverage: Vaccine coverage must be at least 95 % of establishments in the vaccination zone representing 80 % of suitable targeted animals in each of those establishments.
+
+5\. Targeted animals/species: Animals of listed species, in accordance with Implementing Regulation (EU) 2018/1882, kept in the vaccination zone.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF CSF**
+
+Clinical and laboratory reinforced surveillance shall be implemented in the peri-vaccination and vaccination zones to identify establishments keeping animals of listed species that had contact with the CSF virus without showing clinical signs of the disease.
+
+When at least 30 days have passed since the completion of emergency protective vaccination, the following surveillance shall be initiated:
+
+In the peri-vaccination zone: each establishment keeping animals of listed species shall be visited at least once by an official veterinarian who shall perform sampling for laboratory surveillance with pathogen identification tests targeted at dead kept porcine animals over the age of 60 days. In the absence of such dead animals over the age of 60 days, sampling may be performed on any kept porcine animals that died or were culled after weaning.
+
+In the vaccination zone: each establishment where vaccination was carried out shall be visited by an official veterinarian who shall perform sampling:
+
+(i) from vaccinated animals of listed species for serology to assess vaccination effectiveness;
+
+(ii) from at least the first two dead kept porcine animals every week over the age of 60 days for pathogen identification. In the absence of such dead animals over the age of 60 days, sampling may be performed on any kept porcine animals that died or were culled after weaning.
+
+**PART 3**
+
+**ANIMALS AND PRODUCTS SUBJECT TO PROHIBITION OF MOVEMENTS AND CONDITIONS FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13 IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF CSF IS CARRIED OUT**
+
+**1\. Animals and products thereof subject to prohibition of movements**
+
+The following animals, germinal products and products of animal origin from establishments located in the vaccination zone, are subject to prohibition of movements outside of the vaccination zone:
+
+(a) vaccinated porcine animals;
+
+(b) semen, oocytes and embryos from donor vaccinated porcine animals;
+
+(c) fresh meat and meat products, including casings, obtained from vaccinated porcine animals;
+
+**2\. Germinal products subject to prohibition of collection**
+
+Semen, oocytes and embryos for artificial insemination from vaccinated donor porcine animals kept in approved germinal product establishments located in the vaccination zone.
+
+**3\. Conditions for granting a derogation in accordance with Article 13(2), point (b), Article 13(3), and Article 13(4)**
+
+Movements of animals and products thereof that may be authorised:
+
+3.1. movements of vaccinated porcine animals, directly from the establishment of origin to:
+
+(a) a slaughterhouse located as close as possible to the vaccination zone, under the same conditions as those provided for in Article 24, Article 28(2), (3), (4), (5) and (7) and Article 29(1) and (2) of Delegated Regulation (EU) 2020/687; or
+
+(b) where as a result of prohibition in point 1 animal welfare problems arise in an establishment where porcine animals are kept, to an establishment as close as possible to the vaccination zone, provided that:
+
+(i) the general conditions laid down in Article 24, Article 28(2), (3), (4), (5) and (7) of Delegated Regulation (EU) 2020/687 are met;
+
+(ii) the establishment of destination belongs to the same supply chain and
+
+(iii) the vaccinated porcine animals are to be moved to complete the production cycle;
+
+(c) an animal by-product approved plant, under the same conditions as those provided for in Article 24, Article 28(2), (3), (4), (5) and (7) and Article 37 of Delegated Regulation (EU) 2020/687;
+
+3.2. movement of fresh meat from vaccinated porcine animals in accordance with Article 33(1), point (a), of Delegated Regulation (EU) 2020/687 and meat products, including casing, if they have undergone one of the risk-mitigating treatments set out in Annex VII to Delegated Regulation (EU) 2020/687;
+
+**PART 4**
+
+**WAITING PERIODS FOR CSF FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in part 3 of this Annex until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of CSF during the waiting period |
+| --- | --- |
+| 3 months after all vaccinated porcine animals have been slaughtered or killed, excluding kept porcine animals referred to in Article 13(2) of Delegated Regulation (EU) 2020/687 when there are means, validated in accordance with the Terrestrial Manual of the WOAH, of distinguishing between vaccinated and infected kept porcine animals | Clinical and laboratory surveillance (pathogen identification and antibody detection), in accordance with Article 9(1), point (c)(ii) to (iv) and Part 2 of this Annex |
+
+## ANNEX XIII — Highly Pathogenic Avian Influenza (HPAI)
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF HPAI**
+
+1\. Size of the vaccination zone: at least 3 km radius around the affected establishments.
+
+2\. Size of the peri-vaccination zone: at least 7 km width from the perimeters of the vaccination zone.
+
+3\. Type of vaccine to be used: Vaccines that do not contain live avian influenza virus (vaccines containing live avian influenza virus, whether attenuated or not, shall not be used).
+
+4\. Minimum coverage: No specific conditions.
+
+5\. Targeted animals/species: poultry and/or captive birds kept in the establishments included in the official vaccination plan.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERIVACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF HPAI**
+
+For the purpose of the reinforced surveillance as laid down in this Part, ‘flock’ means all poultry or captive birds of the same health status kept in the same enclosure and sharing the same airspace.
+
+Laboratory surveillance to early detect occurrence of infection with HPAI field virus shall be implemented by means of pathogen identification methods, in the vaccination and peri-vaccination zones, as follows:
+
+1\. In the establishments where vaccination has been carried out:
+
+(a) at least every three weeks, by at least sampling of all dead birds up to 15 collected from each flock within the 48 hours before the sampling. The number of sampled birds per flock, the type of birds sampled and the frequency of the sampling have to enable detection of the infection with the HPAI virus in the vaccinated flock with a probability of at least 99 % and a confidence level of at least 95 %.
+
+(b) by sampling all dead birds up to 15 per flock when the expected daily mortality rate for that flock is overpassed.
+
+2\. In the poultry establishments where vaccination has not been carried out:
+
+(a) by passive surveillance of Galliformes species, and
+
+(b) by weekly sampling of all dead birds up to 15 per flock of Anseriformes species, collected within a week.
+
+**PART 3**
+
+**ANIMALS AND PRODUCTS SUBJECT TO PROHIBITION OF MOVEMENTS AND CONDITIONS FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13 in A vaccination zone where emergency protective vaccination for prevention and control of HPAI is carried out**
+
+1\. Animals and products thereof subject to prohibition of movements: vaccinated poultry or captive birds and their products within and outside the vaccination zone.
+
+2\. Germinal products subject to prohibition of collection: not applicable.
+
+3\. Conditions for granting a derogation in accordance with Article 13(2), point (b), Article 13(3), and Article 13(4)
+
+Movements of vaccinated poultry or captive birds and their products within and outside the vaccination zone may be authorised only in the cases covered by and under the same general and specific conditions as those provided for in Articles 28, 29 and 30, Article 31(1) and Articles 33, 34 and 37 of Delegated Regulation (EU) 2020/687.
+
+After the end of the waiting period, the measures provided for in points 2 to 4 of Part 5 shall remain in place in the establishments keeping vaccinated animals, as long as they keep vaccinated animals.
+
+**PART 4**
+
+**WAITING periods for HPAI FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in part 3 of this Annex until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of HPAI during the waiting period |
+| --- | --- |
+| 28 days after completion of the emergency protective vaccination or at the time of the lifting in accordance with Article 55 of Delegated Regulation 2020/687 of the restricted zones established in accordance with Article 21 of that Delegated Regulation, whichever occurred last. | Clinical and laboratory surveillance (pathogen identification), in accordance with Article 9(1), point (c)(ii) to (iv) and Part 2 of this Annex. |
+
+**PART 5**
+
+**SPECIFIC CONDITIONS FOR PREVENTIVE VACCINATION OF HPAI**
+
+1\. Type of vaccine to be used: Vaccines that do not contain live avian influenza virus (vaccines containing live avian influenza virus, whether attenuated or not, shall not be used).
+
+2\. Reinforced surveillance to be implemented in case of preventive vaccination:
+
+2.1. For the purpose of the surveillance as laid down in point 2.2 and 2.3, ‘flock’ means all poultry or captive birds of the same health status kept in the same enclosure and sharing the same airspace.
+
+2.2. Passive surveillance must be implemented in all the establishments where poultry or captive birds are kept in the area where preventive vaccination against HPAI has been implemented when any clinical signs or post-mortem lesions suggesting HPAI are observed or when there is a change in normal production and health parameters such as mortality rate and feed and water intake.
+
+2.3. After the start of vaccination, the following active surveillance must be carried out at least every 30 days by an official veterinarian or under their responsibility in all establishments where vaccinated poultry or captive birds are kept, to detect occurrence of infection with HPAI field virus:
+
+(a) a clinical examination that includes a check of the production records and health records of the establishment for each flock, including an evaluation of its clinical history and clinical examinations of the poultry or captive birds;
+
+(b) sampling for testing by pathogen identification methods of all dead birds up to 15 per flock collected within the 48 hours before the sampling;
+
+(c) out of the high risk period for infection with HPAI virus, the testing required in point (b) may be carried out only in a sufficiently representative sample of establishments where vaccinated poultry or captive birds are kept;
+
+(d) the number of establishments sampled for the purpose of surveillance as required in point (b) and (c) and the frequency of sampling must comply with:
+
+(i) the following minimum requirements:
+
+<table>
+<tbody><tr><td>Species</td><td>% of vaccinated establishments to be sampled</td><td>Frequency of sampling (days) </td></tr>
+<tr><td rowspan="2">Chicken layers</td><td>100 </td><td>30 </td></tr>
+<tr><td>25 </td><td>7 </td></tr>
+<tr><td rowspan="2">Ducks</td><td>100 </td><td>30 </td></tr>
+<tr><td>50 </td><td>7 </td></tr>
+<tr><td rowspan="2">Turkeys</td><td>100 </td><td>30 </td></tr>
+<tr><td>25 </td><td>7 </td></tr>
+</tbody>
+</table>
+
+or
+
+(ii) any scientifically valid sampling design that ensures with at least 95 % confidence that the population of vaccinated poultry and captive birds is free from HPAI, with at least 90 % sensitivity for early detection of infection with HPAI virus.
+
+2.4. Vaccinated captive birds from confined establishments and from establishments keeping up to 50 captive birds are exempted from the surveillance requested in point 2.3, subpoints (b), (c) and (d).
+
+2.5. The surveillance provided for in points 2.2 and 2.3 must remain in place in the establishments keeping vaccinated animals as long as they keep vaccinated animals. By way of derogation, in case of long living vaccinated captive birds or those from confined establishments, the surveillance provided for in points 2.2 and 2.3 must be maintained for a period of 12 months from the date when the last vaccination was applied.
+
+3\. Animals and products thereof subject to prohibition of movements in accordance with Article 14(1): vaccinated poultry or captive birds and hatching eggs and products of animal origin thereof.
+
+4\. Conditions for granting a derogation in accordance with Article 14(2), point (b)
+
+4.1. Conditions for granting a derogation for movements of vaccinated poultry or captive birds including day-old chicks and hatching eggs derived from such poultry or captive birds:
+
+(a) They are vaccinated poultry or captive birds for which the results of the passive and active surveillance, implemented in accordance with point (2) of this Part, are negative for detection of infection with HPAI field virus, or they are day-old chicks and hatching eggs derived from such poultry or captive birds, and:
+
+(i) in case of poultry, these are moved to a slaughterhouse for immediate slaughter; or
+
+(ii) they are moved from their establishments to other establishments:
+
+— where vaccination is carried out; or
+
+— where only vaccinated poultry or captive birds are kept; or
+
+— where complete separation between vaccinated and non-vaccinated poultry or captive birds can be ensured;
+
+and
+
+(iii) the poultry or captive birds, including day-old chicks and hatching eggs derived from such poultry or captive birds, referred to in subpoints (i) and (ii) are not moved to another Member State;
+
+or
+
+(b) they are vaccinated captive birds from confined establishments moved to a confined establishment in another Member State provided that:
+
+(i) authorisation of such type of movements has been granted by the competent authority of the Member State of destination;
+
+(ii) within 72 hours before movement they have been subjected to a sampling for testing by pathogen identification methods with favourable results;
+
+or
+
+(c) they are vaccinated poultry sent for immediate slaughter to another Member State, provided that:
+
+(i) the surveillance applied in the establishment of origin in accordance with point (2) of this Part has favourable results;
+
+(ii) poultry of the consignment to be dispatched were clinically inspected with favourable results by an official veterinarian within 72 hours before the time of loading, and favourable results were obtained from testing by pathogen identification methods on samples collected from the flock of origin within 72 hours prior to the time of departure of that consignment from all up to 15 dead birds;
+
+or
+
+(d) they are hatching eggs derived from vaccinated poultry or captive birds:
+
+(i) which originate from a vaccinated breeding flock for which the passive and active surveillance in accordance with point (2) of this Part has favourable results;
+
+(ii) which have been disinfected before dispatch in accordance with a method approved by the competent authority;
+
+(iii) which are transported directly to the hatchery of destination;
+
+(iv) which are traceable within the hatchery;
+
+(v) and the movement of which, in case they are moved to another Member State, has been notified by the competent authority of the Member State of origin to the competent authority of the Member State of destination;
+
+or
+
+(e) they are day-old chicks derived from vaccinated poultry:
+
+(i) which originate from a vaccinated breeding flock for which the reinforced passive and active surveillance in accordance with point (2) of this Part has favourable results;
+
+(ii) which are placed in a poultry house or shed where there is no resident poultry;
+
+(iii) and the movement of which, in case they are moved to another Member State, has been notified by the competent authority of the Member State of origin to the competent authority of the Member State of destination.
+
+(f) by way of derogation from third indent of point 4.1(a)(ii), the vaccinated captive birds from confined establishments moved to another confined establishment for breeding purposes may be kept together with non-vaccinated captive birds that are part of the same breeding programme;
+
+4.2. Conditions for granting a derogation for the movement of eggs for human consumption and meat derived from vaccinated poultry:
+
+(a) The eggs originate from a vaccinated flock for which the surveillance in point (2) of this Part has favourable results and are directly transported to:
+
+(i) a packing centre designated by the competent authority provided that they are packed in disposable packaging or in a packaging which can be cleaned and disinfected in such way as to inactivate the HPAI virus; or
+
+(ii) an establishment for the manufacture of egg products as set out in Chapter II of Section X of Annex III to Regulation (EC) No 853/2004 to be handled and treated in accordance with Chapter XI of Annex II to Regulation (EC) No 852/2004.
+
+(b) The movement of meat obtained from poultry in accordance with the conditions laid down in points 4.1(a)(i), 4.1(a)(iii) and 4.1(c) may be authorized without further condition.
+
+## ANNEX XIV
+
+**Infection with Newcastle disease virus (NCD)**
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF NCD**
+
+1\. Size of the vaccination zone : No specific conditions.
+
+2\. Size of the peri-vaccination zone : No specific conditions.
+
+3\. Type of vaccine to be used : No specific conditions.
+
+4\. Minimum coverage : all poultry of the species included in the official vaccination plan or captive birds hatched in or transferred to an establishment inside the vaccination zone must be or have been vaccinated.
+
+5\. Targeted animals/species : Poultry and captive birds.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF NCD**
+
+No specific conditions in addition to the reinforced surveillance in accordance with Article 9(1), point (c).
+
+**PART 3**
+
+**ANIMALS AND PRODUCTS SUBJECT TO PROHIBITION OF MOVEMENTS AND CONDITIONS FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13 IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF NCD IS CARRIED OUT**
+
+1\. Animals and products subject to prohibition of movements: vaccinated poultry or captive birds and their products within and outside the vaccination zone.
+
+2\. Germinal products subject to prohibition of collection: not applicable.
+
+3\. Conditions for granting a derogation in accordance with Article 13(2), point (b), Article 13(3) and Article 13(4). Movements of animals and products thereof that may be authorised:
+
+Movements of vaccinated poultry or captive birds and their products within and outside the vaccination zone, only in the cases covered by, and under the same general and specific conditions as those provided for in, Articles 28, 29, 30, 31, 33, 34 and 37 of the Delegated Regulation (EU) 2020/687.
+
+**PART 4**
+
+**WAITING PERIODS FOR NCD FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in Part 3 until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of NCD during the waiting period |
+| --- | --- |
+| 3 months after completion of the emergency protective vaccination or at the time of the lifting in accordance with Article 55 of Delegated Regulation 2020/687, of the restricted zones established in accordance with Article 21 of that Delegated Regulation, whichever occurred last. | Clinical and laboratory surveillance (pathogen identification and antibody detection), in accordance with Article 9(1), point (c)(ii) to (iv) |
+
+## ANNEX XV — Classical swine fever (CSF) in wild porcine animals
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF CSF**
+
+1\. Size of the vaccination zone:
+
+The competent authority shall determine the vaccination zone on the basis of:
+
+(a) the estimated population of wild porcine animals, its spatial distribution and the landscape structure;
+
+(b) the risk factors contributing to the spread of CSF, in particular, the risk of its introduction into establishments of kept porcine animals;
+
+(c) the sampling results.
+
+2\. Size of the peri-vaccination zone: No specific conditions.
+
+3\. Type of vaccine to be used or prioritised: Live attenuated vaccines shall be prioritised. Other vaccines may be used only for duly justified reasons.
+
+4\. Minimum coverage: must be adapted according to the vaccine used, to the local conditions and to the characteristics of the estimated population of wild porcine animals, its spatial distribution and the landscape structure.
+
+5\. Targeted animals/species: Wild porcine animals of listed species, in accordance with Implementing Regulation (EU) 2018/1882, in the vaccination zone.
+
+6\. Hunting and other activities likely to cause displacement of wild porcine animal populations: Must be regulated in the vaccination zone at least until the end of the waiting period provided for in part 4. Hunted wild porcine animals must be tested with pathogen identification and antibody detection tests.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION ZONE DURING EMERGENCY VACCINATION FOR PREVENTION AND CONTROL OF CSF IN WILD PORCINE ANIMALS**
+
+In the vaccination zone, after completing oral immunisation, the age class of wild porcine animals that must be examined serologically to detect a new or re-emerging infection depends on the season in which vaccination was completed and the length of time since completion.
+
+Specific surveillance shall be implemented in wild porcine animals in the vaccination zone to verify the success of the vaccination operation. This surveillance shall include reinforced laboratory surveillance to assess immunity levels and detect any virus persistence in the wild porcine animal population; this includes pathogen identification and antibody detection in all hunted, culled and found dead or sick wild porcine animals.
+
+**PART 3**
+
+**ANIMALS AND PRODUCTS SUBJECT TO PROHIBITION OF MOVEMENTS IN ACCORDANCE WITH ARTICLE 13 IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF CSF IN WILD PORCINE ANIMALS IS CARRIED OUT**
+
+**1\. Animals subject to prohibition of movements**
+
+Wild porcine animals.
+
+**2\. Products subject to prohibition of movements**
+
+Fresh meat, meat products and any other products of animal origin, animal by-products and derived products obtained from wild porcine animals and bodies of wild porcine animals.
+
+**3\. Conditions for granting a derogation in accordance with Article 13(3)**
+
+3.1. By way of derogation from the movement restrictions established under point 2, the competent authority may authorize the movement of fresh meat, meat products and any other products of animal origin, animal by-products and derived products within and outside the vaccination zone, provided that the following conditions are met:
+
+(a) a risk assessment conducted by the competent authority demonstrates that such movement does not pose a risk of spreading CSF;
+
+(b) bodies of wild porcine animals are tested for the presence of the CSF virus, with negative results obtained prior to any further movement for processing or treatment;
+
+(c) the movement of bodies of wild porcine animals to the processing and storage establishment take place under strict biosecurity measures;
+
+(d) the processing and storage of bodies of wild porcine animals and their derived products take place in establishments designated by the competent authority, ensuring compliance with biosecurity and CSF control measures;
+
+(e) either:
+
+(i) the products undergo the risk-mitigating treatments as set out in Annex VII to Delegated Regulation (EU) 2020/687; or
+
+(ii) the fresh meat, meat products and any other products of animal origin from wild porcine animals and bodies of wild porcine animals are moved within the restricted zone:
+
+— for private domestic use; or
+
+— by hunters for the supply of small quantities of wild porcine game or wild game meat of porcine origin directly to the final consumer or to local retail establishments directly supplying the final consumer, as provided for in Article 1(3), point (e), of Regulation (EC) No 853/2004;
+
+3.2. The competent authority shall document and monitor all authorized movements under this derogation and ensure compliance with the conditions set out in paragraph 3.1.
+
+**PART 4**
+
+**WAITING PERIODS FOR CSF FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in part 3 of this Annex until:
+
+| Waiting period | Type of surveillance to be implemented demonstrating the absence of occurrence of CSF during the waiting period |
+| --- | --- |
+| 12 months after the end date of the last vaccination campaign in wild porcine animals, and supported by the favourable conclusions of the implementation of an exit strategy that demonstrated absence of CSF virus circulation. | Clinical and laboratory surveillance (pathogen identification in wild porcine animals found dead or killed) in accordance with Article 9(1), point (c)(ii) to (iv) and Part 2 of this Annex |
+
+## ANNEX XVI — African swine fever (ASF) in kept porcine animals
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF ASF IN KEPT PORCINE ANIMALS**
+
+1\. Size of the vaccination zone: No specific conditions.
+
+2\. Size of the peri-vaccination zone: No specific conditions.
+
+3\. Type of vaccine to be used: ASF vaccines holding a centralised marketing authorization granted by the Commission in accordance with Article 44(9)of Regulation 2019/6
+
+4\. Minimum coverage: Vaccine coverage must be at least 95 % of establishments in the vaccination zone representing 80 % of targeted animals in each of those establishments.
+
+5\. Targeted animals/species: Animals of listed species, in accordance with Implementing Regulation (EU) 2018/1882, kept in the vaccination zone.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF ASF**
+
+Clinical and laboratory reinforced surveillance shall be implemented in the peri-vaccination and vaccination zones to identify establishments keeping animals of listed species that had contact with the ASF virus (ASFV) without showing clinical signs of the disease.
+
+When at least 30 days have passed since the completion of emergency protective vaccination, the following surveillance shall be initiated:
+
+In the peri-vaccination zone, each establishment shall be visited at least once by an official veterinarian who shall perform sampling for laboratory surveillance with pathogen identification tests targeted at dead kept porcine animals over the age of 60 days. In the absence of such dead animals over the age of 60 days, sampling may be performed on any kept porcine animals that died or were culled after weaning.
+
+In the vaccination zone, each establishment where vaccination was carried out shall be visited by an official veterinarian who shall perform sampling:
+
+(i) for serology from vaccinated animals of listed species to assess vaccination effectiveness.
+
+(ii) for pathogen identification from at least the first two dead kept porcine animals every week over the age of 60 days. In the absence of such dead animals over the age of 60 days, sampling may be performed on any kept porcine animals that died or were culled after weaning.
+
+**PART 3**
+
+**ANIMALS AND PRODUCTS SUBJECT TO PROHIBITION OF MOVEMENTS AND CONDITIONS FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13 IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF ASF IS CARRIED OUT**
+
+**1\. Animals and products thereof subject to prohibition of movements**
+
+The following animals, germinal products and products of animal origin from establishments located in the vaccination zone, within and outside of the vaccination zone:
+
+(a) kept porcine animals;
+
+(b) semen, oocytes and embryos from donor kept porcine animals;
+
+(c) fresh meat and meat products, including casings, obtained from kept porcine animals.
+
+**2\. Germinal products subject to prohibition of collection**
+
+Semen, oocytes and embryos for artificial insemination from vaccinated donor porcine animals kept in approved germinal product establishments located in the vaccination zone.
+
+**3\. Conditions for granting a derogation in accordance with Article 13(2), point (b), Article 13(3), and Article 13(4)**
+
+Movements of animals and products thereof that may be authorised:
+
+3.1. movements of kept porcine animals, directly from the establishment of origin in the vaccination zone:
+
+(a) to a slaughterhouse for immediate slaughter located in the vaccination zone; or
+
+(b) to a slaughterhouse for immediate slaughter located as close as possible to the vaccination zone, in the same Member State, under the same conditions as those provided for in Article 24, Article 28(2), (3), (4), (5) and (7) and Article 29(1) and (2) of Delegated Regulation (EU) 2020/687;
+
+(c) to an animal by-products approved plant for killing and disposal, under the same conditions as those provided for in Article 24, Article 28(2), (3), (4), (5) and (7) and Article 37 of Delegated Regulation (EU) 2020/687;
+
+3.2. movement of fresh meat from kept porcine animals in accordance with the provisions of Article 33(1), point (a), of Delegated Regulation (EU) 2020/687 and of meat products from kept porcine animals, including casings, if they have undergone one of the risk-mitigating treatment set out in Annex VII to Delegated Regulation (EU) 2020/687.
+
+**PART 4**
+
+**WAITING PERIODS FOR ASF FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in part 3 of this Annex until:
+
+| Waiting period | Type of surveillance to be implemented demonstrating the absence of occurrence of ASF during the waiting period |
+| --- | --- |
+| 3 months after all vaccinated porcine animals have been slaughtered or killed, excluding kept porcine animals referred to in Article 13(2) of Regulation (EU) 2020/687 when there are means, validated in accordance with the Terrestrial Manual of the WOAH, of distinguishing between vaccinated and infected kept porcine animals | Clinical and laboratory surveillance (pathogen identification and antibody detection) in accordance with Article 9(1), point (c)(ii) to (iv) and Part 2 of this Annex |
+
+## ANNEX XVII — African swine fever (ASF) in wild porcine animals
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY VACCINATION FOR PREVENTION AND CONTROL OF ASF IN WILD PORCINE ANIMALS**
+
+1\. Size of the vaccination zone: The competent authority shall determine the vaccination zone on the basis of:
+
+a) the estimated population of wild porcine animals, its spatial distribution and the landscape structure;
+
+b) the risk factors contributing to the spread of ASF, in particular, the risk of its introduction into establishments of kept porcine animals;
+
+c) the sampling results.
+
+2\. Size of the peri-vaccination zone: No specific conditions.
+
+3\. Type of vaccine to be used or prioritised: ASF vaccines holding a centralised marketing authorization granted by the Commission in accordance with Article 44(9) of Regulation 2019/6.
+
+4\. Minimum coverage: must be adapted according to the vaccine used, to the local conditions and to the characteristics of the estimated population of wild porcine animals, its spatial distribution and the landscape structure.
+
+5\. Targeted animals/species: Wild porcine animals of listed species, in accordance with Implementing Regulation (EU) 2018/1882, in the vaccination zone.
+
+6\. Hunting and other activities likely to cause displacement of wild porcine animal populations: Must be regulated in the vaccination zone at least until the end of the waiting period provided for in part 4. Hunted wild porcine animals must be tested with antibody detection and pathogen identification tests.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION ZONE DURING EMERGENCY VACCINATION FOR PREVENTION AND CONTROL OF ASF IN WILD PORCINE ANIMALS**
+
+In the vaccination zone, after completing oral immunisation, the age class of wild porcine animals that must be examined serologically to detect a new or re-emerging infection depends on the season in which vaccination was completed and the length of time since completion.
+
+Specific surveillance shall be implemented in wild porcine animals in the vaccination zone to verify the success of the vaccination operation.
+
+This surveillance shall include reinforced laboratory surveillance to assess immunity levels and detect any virus persistence in the population of wild porcine animals; this includes pathogen identification and antibody detection in all hunted, culled and found dead or sick wild porcine animals.
+
+**PART 3**
+
+**ANIMALS AND PRODUCTS SUBJECT TO PROHIBITION OF MOVEMENTS IN ACCORDANCE WITH ARTICLE 13 IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF ASF IN WILD PORCINE ANIMALS IS CARRIED OUT**
+
+**1\. Animals subject to prohibition of movements**
+
+Wild porcine animals.
+
+**2\. Products subject to prohibition of movements**
+
+Fresh meat, meat products and any other products of animal origin, animal by-products and derived products obtained from wild porcine animals and bodies of wild porcine animals.
+
+**3\. Conditions for granting a derogation in accordance with Article 13(3)**
+
+3.1. By way of derogation from the movement restrictions established under point 2, the competent authority may authorize the movement of fresh meat, meat products and any other products of animal origin, animal by-products and derived products within and outside the vaccination zone, provided that the following conditions are met:
+
+(a) a risk assessment conducted by the competent authority demonstrates that such movement does not pose a risk of spreading ASF;
+
+(b) bodies of wild porcine animals are tested for the presence of the ASF virus, with negative results obtained prior to any further movement for processing or treatment;
+
+(c) the movement of bodies of wild porcine animals to the processing and storage establishment take place under strict biosecurity measures;
+
+(d) the processing and storage of bodies of wild porcine animals and their derived products take place in establishments designated by the competent authority, ensuring compliance with biosecurity and ASF control measures;
+
+(e) either:
+
+(i) the products undergo the risk-mitigating treatments as set out in Annex VII to Delegated Regulation (EU) 2020/687; or
+
+(ii) the fresh meat, meat products and any other products of animal origin from wild porcine animals and bodies of wild porcine animals are moved within the restricted zone:
+
+— for private domestic use; or
+
+— by hunters for the supply of small quantities of wild porcine game or wild game meat of porcine origin directly to the final consumer or to local retail establishments directly supplying the final consumer, as provided for in Article 1(3), point (e), of Regulation (EC) No 853/2004.
+
+3.2. The competent authority shall document and monitor all authorized movements under this derogation and ensure compliance with the conditions set out in point 3.1.
+
+**PART 4**
+
+**WAITING PERIODS FOR ASF FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in part 3 of this Annex until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of ASF during the waiting period |
+| --- | --- |
+| 12 months after the end date of the last vaccination campaign in wild porcine animals, and supported by the favourable conclusions of the implementation of an exit strategy that demonstrated absence of ASF virus circulation. | Clinical and laboratory surveillance (pathogen identification in wild porcine animals found dead or killed) in accordance with Article 9(1), point (c)(ii) to (iv) and Part 2 of this Annex |
+
+## ANNEX XVIII — Sheep pox and goat pox (SPGP)
+
+**PART 1**
+
+**SPECIFIC CONDITIONS FOR THE IMPLEMENTATION OF EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF SHEEP POX AND GOAT POX**
+
+1\. Size of the vaccination zone: No specific rules.
+
+2\. Size of the peri-vaccination zone: No specific conditions.
+
+3\. Type of vaccine to be used: No specific rules.
+
+4\. Minimum coverage: Vaccine coverage must be at least 95 % of the establishments in the vaccination zone representing at least 80 % of the targeted animals in the vaccination zone.
+
+5\. Targeted animals/species: Animals of listed species in accordance with Implementing Regulation (EU) 2018/1882 kept in the vaccination zone, including at least ovine and caprine animals.
+
+**PART 2**
+
+**SPECIFIC CONDITIONS FOR THE REINFORCED CLINICAL AND LABORATORY SURVEILLANCE TO BE IMPLEMENTED IN THE VACCINATION AND PERI-VACCINATION ZONES DURING EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF SHEEP POX AND GOAT POX**
+
+Reinforced clinical surveillance: surveillance for sheep pox and goat pox clinical signs as well as for increased mortality in small ruminants.
+
+**PART 3**
+
+**ANIMALS AND PRODUCTS SUBJECT TO PROHIBITION OF MOVEMENTS AND CONDITIONS FOR GRANTING A DEROGATION IN ACCORDANCE WITH ARTICLE 13 IN A VACCINATION ZONE WHERE EMERGENCY PROTECTIVE VACCINATION FOR PREVENTION AND CONTROL OF SHEEP POX AND GOAT POX IS CARRIED OUT**
+
+1\. Animals and products thereof subject to prohibition of movements:
+
+The same animals and products, located in the vaccination zones, as those subject to restrictions in establishments located in protection and surveillance zones established in the event of an outbreak of sheep pox and goat pox, as provided for in Article 27 of Delegated Regulation (EU) 2020/687.
+
+2\. Germinal products subject to prohibition of collection: semen, oocytes and embryos from animals of listed species.
+
+3\. Conditions for granting a derogation in accordance with Article 13(2), point (b), Article 13(3), and Article 13(4).
+
+Movements that may be authorised are the following:
+
+3.1. Movements of vaccinated animals and products thereof, under the same conditions as those provided for in Article 43 of Delegated Regulation (EU) 2020/687.
+
+3.2. Movements of unvaccinated animals and products thereof, provided that their establishments of origin do not keep vaccinated animals anymore.
+
+**PART 4**
+
+**WAITING PERIODS FOR SHEEP POX AND GOAT POX FOLLOWING EMERGENCY PROTECTIVE VACCINATION**
+
+The competent authority shall maintain in the vaccination zone the conditions provided for in part 3 of this Annex until:
+
+| Waiting period | Type of surveillance to be implemented to demonstrate the absence of occurrence of sheep pox and goat pox during the waiting period |
+| --- | --- |
+| 30 days after disinfection of the last affected establishment and the slaughter or killing of all vaccinated animals | Clinical and laboratory surveillance (pathogen identification and antibody detection) in accordance with Article 9(1), point (c)(ii) to (iv) and Part 2 of this Annex |
+| 8 months after the last vaccination or the disinfection of the last affected establishment, which ever occurred last | Clinical and laboratory surveillance (pathogen identification and antibody detection) in accordance with Article 9(1), point (c)(ii) to (iv) and Part 2 of this Annex |

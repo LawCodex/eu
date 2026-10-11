@@ -24,9 +24,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DELEGATED DIRECTIVE (EU) 2021/1717 of 9 July 2021 </td><td> L 342</td><td>48</td><td>27.9.2021</td></tr>
+</table>
 
 **DIRECTIVE 2014/45/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -408,12 +410,15 @@ For each vehicle system and component subject to testing, the assessment of defi
 
 Deficiencies not listed in this Annex shall be assessed in terms of the risks that they pose to road safety.
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 **0\. IDENTIFICATION OF THE VEHICLE**
 
+<table>
 <tbody><tr><td rowspan="3">0.1. Registration number plates (if needed by requirements1)</td><td rowspan="3">Visual inspection</td><td>(a) Number plate(s) missing or so insecurely fixed that it is (they are) likely to fall off.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Inscription missing or illegible</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(c) Not in accordance with vehicle documents or records.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -421,11 +426,13 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Incomplete, illegible, obviously falsified, or does not match the vehicle documents.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(c) Illegible vehicle documents or clerical inaccuracies.</td><td>X</td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 **1\. BRAKING EQUIPMENT**
 
 1.1. Mechanical condition and operation
 
+<table>
 <tbody><tr><td rowspan="2">1.1.1. Service brake pedal/hand lever pivot</td><td rowspan="2">Visual inspection of the components while the braking system is operated. Note: Vehicles with power-assisted braking systems should be inspected with the engine switched off. </td><td>(a) Pivot too tight.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Excessive wear or play.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td rowspan="4">1.1.2. Pedal/hand lever condition and travel of the brake operating device</td><td rowspan="4">Visual inspection of the components while the braking system is operated Note: Vehicles with power-assisted braking systems should be inspected with the engine switched off. </td><td>(a) Excessive or insufficient reserve travel.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -433,7 +440,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>If its functionality is affected.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(c) Anti-slip provision on brake pedal missing, loose or worn smooth.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="7">1.1.3. Vacuum pump or compressor and reservoirs</td><td rowspan="7">Visual inspection of the components at normal working pressure. Check time required for vacuum or air pressure to reach safe working value and function of warning device, multi-circuit protection valve and pressure relief valve.</td><td>(a) Insufficient pressure/vacuum to give assistance for at least four brake applications after the warning device has operated (or gauge shows an unsafe reading);</td><td>  </td><td>X</td><td>  </td></tr>
@@ -450,7 +459,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(c) Loose connections or leaks in system.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(d) Unsatisfactory operation.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="6">1.1.6. Parking brake activator, lever control, parking brake ratchet, electronic parking brake</td><td rowspan="6">Visual inspection of the components while the braking system is operated.</td><td>(a) Ratchet not holding correctly.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -472,7 +483,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(c) Excessive leaks.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>If its functionality is affected.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">  </td><td rowspan="2">  </td><td>(d) Not functioning correctly.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -495,7 +508,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(f) Brake fluid warning light illuminated or defective.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>(g) Incorrect functioning of brake fluid level warning device.</td><td>X</td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="7">1.1.11. Rigid brake pipes</td><td rowspan="7">Visual inspection of the components while the braking system is operated, if possible.</td><td>(a) Imminent risk of failure or fracture.</td><td>  </td><td>  </td><td>X</td></tr>
@@ -516,7 +531,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">1.1.13. Brake linings and pads</td><td rowspan="2">Visual inspection.</td><td>(a) Lining or pad excessively worn (minimum mark reached).</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Lining or pad excessively worn (minimum mark not visible).</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="3">  </td><td rowspan="3">  </td><td>(b) Lining or pad contaminated (oil, grease etc.).</td><td>  </td><td>X</td><td>  </td></tr>
@@ -537,7 +554,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(e) Restriction to free movement of the braking system.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(f) Abnormal movement of the levers/linkage indicating maladjustment or excessive wear.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="12">1.1.16. Brake actuators (including spring brakes or hydraulic cylinders)</td><td rowspan="12">Visual inspection of the components while the braking system is operated, if possible.</td><td>(a) Actuator cracked or damaged.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -559,7 +578,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(d) Valve missing (if required).</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(e) Missing data plate.</td><td>X</td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td>  </td><td>  </td><td>(f) Data illegible or not in accordance with requirements1</td><td>X</td><td>  </td><td>  </td></tr>
@@ -578,7 +599,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(d) Unsafe modification to any component3</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Braking performance affected.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="3">1.1.22. Test connections (where fitted or required)</td><td rowspan="3">Visual inspection</td><td>(a) Missing.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -586,9 +609,11 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Unusable or leaking.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>1.1.23. Overrun brake</td><td>Visual inspection and by operation</td><td>Insufficient efficiency.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 1.2. Service braking performance and efficiency
 
+<table>
 <tbody><tr><td rowspan="7">1.2.1. Performance</td><td rowspan="7">During a test on a brake tester or, if impossible, during a road test, apply the brakes progressively up to maximum effort.</td><td>(a) Inadequate braking effort on one or more wheels.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>No braking effort on one or more wheels.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Braking effort from any wheel is less than 70 % of the maximum effort recorded from the other wheel on the same axle. Or, in the case of testing on the road, the vehicle deviates excessively from a straight line.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -597,7 +622,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(d) Abnormal lag in brake operation of any wheel.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(e) Excessive fluctuation of brake force during each complete wheel revolution.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="4">1.2.2. Efficiency</td><td rowspan="4">Test with a brake tester or, if one cannot be used for technical reasons, by a road test using a deceleration recording instrument to establish the braking ratio which relates to the maximum authorised mass or, in the case of semi-trailers, to the sum of the authorised axle loads. Vehicles or a trailer with a maximum permissible mass exceeding 3,5 tonnes has to be inspected following the standards given by ISO 21069 or equivalent methods.  Road tests should be carried out under dry conditions on a flat, straight road. </td><td>Does not give at least the minimum figure as follows (1): 1. Vehicles registered for the first time after 1/1/2012:  — Category M1: 58 %  — Categories M2 and M3: 50 %  — Category N1: 50 %  — Categories N2 and N3: 50 %  — Categories O2, O3 and O4: —  — for semi-trailers: 45 % (2)  — for draw-bar trailers: 50 % </td><td>  </td><td>X</td><td>  </td></tr>
@@ -605,13 +632,17 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>3. Other categories Categories L (both brakes together):  — Category L1e: 42 %  — Categories L2e, L6e: 40 %  — Category L3e: 50 %  — Category L4e: 46 %  — Categories L5e, L7e: 44 %  Category L (rear wheel brake):  all categories: 25 % of the total vehicle mass </td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Less than 50 % of the above values reached.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 1.3. Secondary (emergency) braking performance and efficiency (if met by separate system)
 
+<table>
 <tbody><tr><td rowspan="5">1.3.1. Performance</td><td rowspan="5">If the secondary braking system is separate from the service braking system, use the method specified in 1.2.1.</td><td>(a) Inadequate braking effort on one or more wheels.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>No braking effort on one or more wheels.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Braking effort from any wheel is less than 70 % of the maximum effort recorded from another wheel on the same axle specified. Or, in the case of testing on the road, the vehicle deviates excessively from a straight line.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -620,13 +651,17 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">1.3.2. Efficiency</td><td rowspan="2">If the secondary braking system is separate from the service braking system, use the method specified in 1.2.2.</td><td>Braking effort less than 50 % (6) of the service brake performance defined in section 1.2.2 in relation to the maximum authorized mass.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Less than 50 % of the above braking effort values reached.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
 1.4. Parking braking performance and efficiency
 
+<table>
 <tbody><tr><td rowspan="2">1.4.1. Performance</td><td rowspan="2">Apply the brake during a test on a brake tester.</td><td>Brake inoperative on one side or, in the case of testing on the road, the vehicle deviates excessively from a straight line.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Less than 50 % of the braking effort values as referred to in point 1.4.2 reached in relation to the vehicle mass during testing.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">1.4.2. Efficiency</td><td rowspan="2">Test with a brake tester. If not possible, then by a road test using either an indicating or deceleration recording instrument or with the vehicle on a slope of known gradient.</td><td>Does not give, for all vehicles, a braking ratio of at least 16 % in relation to the maximum authorized mass or, for motor vehicles, of at least 12 % in relation to the maximum authorised combination mass of the vehicle, whichever is the greater.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -640,7 +675,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(e) Other components missing or damaged.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(f) System indicates failure via the electronic vehicle interface.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="3">1.7. Electronic brake system (EBS)</td><td rowspan="3">Visual inspection and inspection of warning device and/or using electronic vehicle interface.</td><td>(a) Warning device malfunctioning.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -649,11 +686,13 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">1.8. Brake fluid</td><td rowspan="2">Visual inspection</td><td>Brake fluid contaminated or sedimented.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Imminent risk of failure.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
 **2\. STEERING**
 
 2.1. Mechanical condition
 
+<table>
 <tbody><tr><td rowspan="9">2.1.1. Steering gear condition</td><td rowspan="9">With the vehicle over a pit or on a hoist and with the road wheels off the ground or on turntables, rotate the steering wheel from lock to lock. Visual inspection of the operation of the steering gear.</td><td>(a) Roughness in operation of gear.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Sector shaft twisted or splines worn.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Affecting functionality.</td><td>  </td><td>  </td><td>X</td></tr>
@@ -664,7 +703,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(e) Leaking.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Formation of drops.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="8">2.1.2. Steering gear casing attachment</td><td rowspan="8">With vehicle on a pit or hoist and the weight of the vehicle road wheels on the ground, rotate steering/handle bar wheel clockwise and anticlockwise or using a specially adapted wheel play detector. Visual inspection of the attachment of gear casing to chassis.</td><td>(a) Steering gear casing not properly attached.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -686,7 +727,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(f) Unsafe modification3.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Affecting function.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">  </td><td rowspan="2">  </td><td>(g) Dust cover damaged or deteriorated.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -705,15 +748,19 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(f) Unsafe modification3.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Steering affected.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">  </td><td rowspan="2">  </td><td>(g) Cables/hoses damaged, excessively corroded.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Steering affected.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
 2.2. Steering wheel, column and handle bar
 
+<table>
 <tbody><tr><td rowspan="6">2.2.1. Steering wheel/handle bar condition</td><td rowspan="6">With the vehicle over a pit or on a hoist and the mass of the vehicle on the ground, push and pull the steering wheel in line with column, push steering wheel/handle bar in various directions at right angles to the column/forks. Visual inspection of play, and condition of flexible couplings or universal joints.</td><td>(a) Relative movement between steering wheel and column indicating looseness.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Very serious risk of unlinking.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Absence of retaining device on steering wheel hub.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -727,7 +774,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Very serious risk of unlinking.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(e) Unsafe modification3</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">2.3. Steering play</td><td rowspan="2">With the vehicle over a pit or on a hoist, the mass of the vehicle on the road wheels, the engine, if possible, running for vehicles with power steering and with the road wheels in the straight-ahead position, lightly turn the steering wheel clockwise and anti-clockwise as far as possible without moving the road wheels. Visual inspection of free movement.</td><td>Free play in steering excessive (for example, movement of a point on the rim exceeding one fifth of the diameter of the steering wheel or not in accordance with the requirements1.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -744,15 +793,19 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Inconsistency between the angle of the steering wheel and the angle of the wheels.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Steering affected.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">  </td><td rowspan="2">  </td><td>(c) Power assistance not working.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(d) System indicates failure via the electronic vehicle interface.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 **3\. VISIBILITY**
 
+<table>
 <tbody><tr><td rowspan="2">3.1. Field of vision</td><td rowspan="2">Visual inspection from driving seat.</td><td>Obstruction within driver's field of view that materially affects his view in front or to the sides (outside cleaning area of windscreen wipers).</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Inside cleaning area of windscreen wipers affected or outer mirrors not visible.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td rowspan="6">3.2. Condition of glass</td><td rowspan="6">Visual inspection.</td><td>(a) Cracked or discoloured glass or transparent panel (if permitted) (outside cleaning area of windscreen wipers).</td><td>X</td><td>  </td><td>  </td></tr>
@@ -764,7 +817,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">3.3. Rear-view mirrors or devices</td><td rowspan="2">Visual inspection.</td><td>(a) Mirror or device missing or not fitted according to the requirements1 (at least two rear-view devices available).</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Fewer than two rear-view devices available.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="3">  </td><td rowspan="3">  </td><td>(b) Mirror or device slightly damaged or loose.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -777,17 +832,21 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Washers not operating.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>3.6. Demisting system (X)2</td><td>Visual inspection and by operation.</td><td>System inoperative or obviously defective.</td><td>X</td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 **4\. LAMPS, REFLECTORS AND ELECTRICAL EQUIPMENT**
 
 4.1. Headlamps
 
+<table>
 <tbody><tr><td rowspan="4">4.1.1. Condition and operation</td><td rowspan="4">Visual inspection and by operation.</td><td>(a) Defective or missing light/light source.(multiple light/light sources; in the case of LED, up to 1/3 not functioning).</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Single light/light sources; in the case of LED, seriously affected visibility.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Slightly defective projection system (reflector and lens).</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Heavily defective or missing projection system (reflector and lens).</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td>  </td><td>  </td><td>(c) Lamp not securely attached.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -804,15 +863,19 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Manual device cannot be operated from driver's seat.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(c) System indicates failure via the electronic vehicle interface.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">4.1.6. Headlamp cleaning device (where mandatory)</td><td rowspan="2">Visual inspection and by operation if possible.</td><td>Device not operating.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>In the case of gas-discharging lamps.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 4.2. Front and rear position lamps, side marker lamps, end outline marker lamps and daytime running lamps
 
+<table>
 <tbody><tr><td rowspan="4">4.2.1. Condition and operation</td><td rowspan="4">Visual inspection and by operation.</td><td>(a) Defective light source.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Defective lens.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(c) Lamp not securely attached.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -825,13 +888,17 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Products on lens or light source which reduce light, brightness or change emitted colour.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Red light to the front or white light to the rear; heavily reduced light brightness.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 4.3. Stop Lamps
 
+<table>
 <tbody><tr><td rowspan="7">4.3.1. Condition and operation</td><td rowspan="7">Visual inspection and by operation.</td><td>(a) Defective light source(multiple light source in the case of LED up to 1/3 not functioning).</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Single light sources; in the case of LED less than 2/3 functioning.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>All light sources not functioning.</td><td>  </td><td>  </td><td>X</td></tr>
@@ -848,13 +915,17 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">4.3.3. Compliance with requirements1.</td><td rowspan="2">Visual inspection and by operation.</td><td>Lamp, emitted colour, position, brightness or marking not in accordance with the requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>White light to the rear; heavily reduced light brightness.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 4.4. Direction indicator and hazard warning lamps
 
+<table>
 <tbody><tr><td rowspan="6">4.4.1. Condition and operation</td><td rowspan="6">Visual inspection and by operation.</td><td>(a) Defective light source (multiple light source in the case of LED up to 1/3 not functioning).</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Single light sources; in the case of LED less than 2/3 functioning.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Slightly defective lens (no influence on emitted light).</td><td>X</td><td>  </td><td>  </td></tr>
@@ -866,15 +937,19 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>4.4.3. Compliance with requirements1.</td><td>Visual inspection and by operation.</td><td>Lamp, emitted colour, position, brightness or marking not in accordance with the requirements1.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>4.4.4. Flashing frequency</td><td>Visual inspection and by operation.</td><td>Rate of flashing not in accordance with the requirements1.(frequency more than 25 % deviating).</td><td>X</td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 4.5. Front and rear fog lamps
 
+<table>
 <tbody><tr><td rowspan="4">4.5.1. Condition and operation</td><td rowspan="4">Visual inspection and by operation.</td><td>(a) Defective light source. (multiple light source in the case of LED up to 1/3 not functioning).</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Single light sources; in the case of LED less than 2/3 functioning.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Slightly defective lens (no influence on emitted light).</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Heavily defective lens (emitted light affected).</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">  </td><td rowspan="2">  </td><td>(c) Lamp not securely attached.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -886,9 +961,11 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">4.5.4. Compliance with requirements1.</td><td rowspan="2">Visual inspection and by operation.</td><td>(a) Lamp, emitted colour, position, brightness or marking not in accordance with the requirements1</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) System does not operate in accordance with the requirements1</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 4.6. Reversing lamps
 
+<table>
 <tbody><tr><td rowspan="4">4.6.1. Condition and operation</td><td rowspan="4">Visual inspection and by operation.</td><td>(a) Defective light source.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>(b) Defective lens.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>(c) Lamp not securely attached.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -896,15 +973,19 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">4.6.2. Compliance with requirements1</td><td rowspan="2">Visual inspection and by operation.</td><td>(a) Lamp, emitted colour, position, brightness or marking not in accordance with the requirements1</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) System does not operate in accordance with the requirements1.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">4.6.3. Switching</td><td rowspan="2">Visual inspection and by operation.</td><td>Switch does not operate in accordance with the requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Reversing lamp can be switched on with gear not in reverse position.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 4.7. Rear registration plate lamp
 
+<table>
 <tbody><tr><td rowspan="5">4.7.1. Condition and operation</td><td rowspan="5">Visual inspection and by operation.</td><td>(a) Lamp throwing direct or white light to the rear.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>(b) Defective light source. (Multiple light source).</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Defective light source. (Single light source).</td><td>  </td><td>X</td><td>  </td></tr>
@@ -912,9 +993,11 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Very serious risk of falling off.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>4.7.2. Compliance with requirements1</td><td>Visual inspection and by operation.</td><td>System does not operate in accordance with the requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 4.8. Retro-reflectors, conspicuity (retro reflecting) markings and rear marking plates
 
+<table>
 <tbody><tr><td rowspan="4">4.8.1. Condition</td><td rowspan="4">Visual inspection.</td><td>(a) Reflecting equipment defective or damaged.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Reflecting affected.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Reflector not securely attached.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -922,13 +1005,17 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">4.8.2. Compliance with requirements1</td><td rowspan="2">Visual inspection.</td><td>Device, reflected colour or position not in accordance with the requirements1</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Missing or reflecting red colour to the front or white colour to the rear.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 4.9. Tell-tales mandatory for lighting equipment
 
+<table>
 <tbody><tr><td rowspan="2">4.9.1. Condition and operation</td><td rowspan="2">Visual inspection and by operation.</td><td>Not operating.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Not operating for main beam headlamp or rear fog lamp.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>4.9.2. Compliance with requirements1</td><td>Visual inspection and by operation.</td><td>Not in accordance with the requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -945,7 +1032,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Wiring heavily deteriorated.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Wiring extremely deteriorated (relevant parts for braking, steering).</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="3">  </td><td rowspan="3">  </td><td>(c) Damaged or deteriorated insulation.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -965,15 +1054,19 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(d) Defective fuses (if required).</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(e) Inappropriate ventilation (if required).</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 **5\. AXLES, WHEELS, TYRES AND SUSPENSION**
 
 5.1. Axles
 
+<table>
 <tbody><tr><td rowspan="5">5.1.1. Axles</td><td rowspan="5">Visual inspection with vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles having a maximum mass exceeding 3,5 tonnes</td><td>(a) Axle fractured or deformed.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Insecure fixing to vehicle.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Stability impaired, functionality affected: Extensive movement relative to its fixtures.</td><td>  </td><td>  </td><td>X</td></tr>
@@ -991,13 +1084,17 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Wheel bearing too tight, jammed.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Danger of overheating; danger of demolishment.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 5.2. Wheels and tyres
 
+<table>
 <tbody><tr><td rowspan="4">5.2.1. Road wheel hub</td><td rowspan="4">Visual inspection.</td><td>(a) Any wheel nuts or studs missing or loose.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Missing fixing or loose to an extent which very seriously affects road safety.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Hub worn or damaged.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1012,7 +1109,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Insufficient load capacity or speed category for actual use, tyre touches other fixed vehicle parts impairing safe driving.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Tyres on same axle or on twin wheels of different sizes.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="11">  </td><td rowspan="11">  </td><td>(c) Tyres on same axle of different construction (radial/ cross-ply).</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1027,15 +1126,19 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(h) Tyre pressure monitoring system malfunctioning or tyre obviously underinflated.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Obviously inoperative.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 5.3. Suspension system
 
+<table>
 <tbody><tr><td rowspan="4">5.3.1. Springs and stabiliser</td><td rowspan="4">Visual inspection with vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles having a maximum mass exceeding 3,5 tonnes</td><td>(a) Insecure attachment of springs to chassis or axle.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Relative movement visible. fixings very seriously loose.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) A damaged or fractured spring component.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Main spring (-leaf), or additional leafs very seriously affected.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="4">  </td><td rowspan="4">  </td><td>(c) Spring missing</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1054,7 +1157,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(c) Unsafe modification3.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Insufficient clearance to other vehicle parts; system inoperative.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="4">5.3.4. Suspension joints</td><td rowspan="4">Visual inspection with vehicle over a pit or on a hoist. Wheel play detectors may be used and are recommended for vehicles having a maximum mass exceeding 3,5 tonnes</td><td>(a) Excessive wear in swivel pin and/or bushes or at suspension joints.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1066,11 +1171,13 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Functioning of system seriously affected.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(c) Audible system leakage.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 **6\. CHASSIS AND CHASSIS ATTACHMENTS**
 
 6.1. Chassis or frame and attachments
 
+<table>
 <tbody><tr><td rowspan="6">6.1.1. General condition</td><td rowspan="6">Visual inspection with vehicle over a pit or on a hoist.</td><td>(a) Slight fracture or deformation of any side or cross-member.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Serious fracture or deformation of any side or cross-member.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Insecurity of strengthening plates or fastenings.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1078,7 +1185,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(c) Excessive corrosion which affects the rigidity of the assembly.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Insufficient strength of parts.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="3">6.1.2. Exhaust pipes and silencers</td><td rowspan="3">Visual inspection with vehicle over a pit or on a hoist.</td><td>(a) Insecure or leaking exhaust system</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1096,7 +1205,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Parts likely to fall off; functionality heavily affected.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Device obviously not in compliance with the requirements1</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="4">6.1.5. Spare wheel carrier (if fitted)</td><td rowspan="4">Visual inspection.</td><td>(a) Carrier not in proper condition</td><td>X</td><td>  </td><td>  </td></tr>
@@ -1117,7 +1228,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Unsafe modification3 (primary parts).</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(h) Coupling too weak.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="14">6.1.7. Transmission</td><td rowspan="14">Visual inspection.</td><td>(a) Loose or missing securing bolts</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1138,14 +1251,18 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Loose or fractured mountings.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>6.1.9. Engine performance (X)2</td><td>Visual inspection and/or using electronic interface</td><td>(a) Control unit modified affecting safety and/or the environment.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td>  </td><td>  </td><td>(b) Engine modification affecting safety and/or the environment.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
 6.2. Cab and bodywork
 
+<table>
 <tbody><tr><td rowspan="8">6.2.1. Condition</td><td rowspan="8">Visual inspection</td><td>(a) A loose or damaged panel or part likely to cause injury.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Likely to fall off.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Insecure body pillar.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1162,7 +1279,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(d) Excessive corrosion at fixing points on integral bodies.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Stability impaired.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="5">6.2.3. Doors and door catches</td><td rowspan="5">Visual inspection.</td><td>(a) A door will not open or close properly.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1183,7 +1302,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">6.2.7. Driving controls</td><td rowspan="2">Visual inspection and by operation.</td><td>Any control necessary for the safe operation of the vehicle not functioning correctly.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Safe operation affected.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="3">6.2.8. Cab steps</td><td rowspan="3">Visual inspection.</td><td>(a) Step or step rung insecure.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -1204,17 +1325,21 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Not in accordance with the requirements1</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(c) Risk of unfolding when the vehicle is in motion.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">6.2.12. Handgrips and footrests</td><td rowspan="2">Visual inspection.</td><td>(a) Missing, loose or badly corroded.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Not in accordance with the requirements1</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 **7\. OTHER EQUIPMENT**
 
 7.1. Safety-belts/buckles and restraint systems
 
+<table>
 <tbody><tr><td rowspan="3">7.1.1. Security of safety-belts/buckles mounting</td><td rowspan="3">Visual inspection.</td><td>(a) Anchorage point badly deteriorated.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Stability affected.</td><td>  </td><td>  </td><td>X</td></tr>
 <tr><td>(b) Anchorage loose.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1227,7 +1352,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">7.1.3. Safety belt load limiter</td><td rowspan="2">Visual inspection, and/or using electronic interface</td><td>(a) Load limiter obviously missing or not suitable with the vehicle.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) System indicates failure via the electronic vehicle interface.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">7.1.4. Safety belt Pre-tensioners</td><td rowspan="2">Visual inspection, and/or using electronic interface</td><td>(a) Pre-tensioner obviously missing or not suitable with the vehicle.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1246,7 +1373,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td rowspan="2">7.4. Warning triangle (if required) (X)2</td><td rowspan="2">Visual inspection.</td><td>(a) Missing or incomplete.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>(b) Not in accordance with the requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td>7.5. First aid kit. (if required) (X)2</td><td>Visual inspection.</td><td>Missing, incomplete or not in accordance with the requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -1266,7 +1395,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Not operational.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(c) Defective or missing seals.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="3">  </td><td rowspan="3">  </td><td>(d) Installation plaque missing, illegible or out of date.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1284,7 +1415,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Wirings damaged.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(c) Other components missing or damaged.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="4">  </td><td rowspan="5">  </td><td>(d) Switch damaged or not functioning correctly.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1307,24 +1440,30 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Audio components not working in order</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td colspan="6"></td></tr>
 </tbody>
+</table>
 
 **8\. NUISANCE**
 
 8.1. Noise
 
+<table>
 <tbody><tr><td rowspan="3">8.1.1. Noise suppression system</td><td rowspan="3">Subjective evaluation (unless the inspector considers that the noise level may be borderline, in which case a measurement of noise emitted by stationary vehicle using a sound level meter may be conducted)</td><td>(a) Noise levels in excess of those permitted in the requirements1.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Any part of the noise suppression system loose, damaged, incorrectly fitted, missing or obviously modified in a way that would adversely affect the noise levels.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Very serious risk of falling off.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
 8.2. Exhaust emissions
 
 8.2.1. Positive ignition engine emissions
 
+<table>
 <tbody><tr><td rowspan="2">8.2.1.1. Exhaust emissions control equipment</td><td rowspan="2">Visual inspection</td><td>(a) Emission control equipment fitted by the manufacturer absent, modified or obviously defective.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Leaks which would affect emission measurements.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="4">8.2.1.2. Gaseous emissions</td><td rowspan="4">— For vehicles up to emission classes Euro 5 and Euro V (7): — measurement using an exhaust gas analyser in accordance with the requirements1 or reading of OBD. Tailpipe testing shall be the default method of exhaust emission assessment. On the basis of an assessment of equivalence, and by taking into account the relevant type- approval legislation, Member States may authorise the use of OBD in accordance with the manufacturer's recommendations and other requirements.  — For vehicles as of emission classes Euro 6 and Euro VI (8): — measurement using an exhaust gas analyser in accordance with the requirements1 or reading of OBD in accordance with the manufacturer's recommendations and other requirements1.  — Measurements not applicable for two-stroke engines. </td><td>(a) Either gaseous emissions exceed the specific levels given by the manufacturer;</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1332,33 +1471,44 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(c) Lambda coefficient outside the range 1 ± 0,03 or not in accordance with the manufacturer's specification;</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(d) OBD read-out indicating significant malfunction.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 8.2.2. Compression ignition engine emissions
 
+<table>
 <tbody><tr><td rowspan="2">8.2.2.1. Exhaust emission control equipment</td><td rowspan="2">Visual inspection</td><td>(a) Emission control equipment fitted by the manufacturer absent or obviously defective.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Leaks which would affect emission measurements.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>8.2.2.2. Opacity Vehicles registered or put into service before 1 January 1980 are exempted from this requirement </td><td>— For vehicles up to emission classes Euro 5 and Euro V (7): — Exhaust gas opacity to be measured during free acceleration (no load from idle up to cut-off speed) with gear lever in neutral and clutch engaged or reading of OBD. The tailpipe testing shall be the default method of exhaust emission assessment. On the basis of an assessment of equivalence, Member States may authorise the use of OBD in accordance with the manufacturer's recommendations and other requirements.  — For vehicles as of emission classes Euro 6 and Euro VI (8): — Exhaust gas opacity to be measured during free acceleration (no load from idle up to cut-off speed) with gear lever in neutral and clutch engaged or reading of OBD in accordance with the manufacturer's recommendations and other requirements1.  Vehicle preconditioning:  1. Vehicles may be tested without preconditioning, although for safety reasons checks should be made that the engine is warm and in a satisfactory mechanical condition. </td><td>(a) For vehicles registered or put into service for the first time after the date specified in requirements1. opacity exceeds the level recorded on the manufacturer's plate on the vehicle; </td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td>  </td><td>2. Precondition requirements: (i) Engine shall be fully warm, for instance the engine oil temperature measured by a probe in the oil level dipstick tube to be at least 80 °C, or normal operating temperature if lower, or the engine block temperature measured by the level of infrared radiation to be at least an equivalent temperature. If, owing to the vehicle configuration, this measurement is impractical, the establishment of the engine's normal operating temperature may be made by other means, for example by the operation of the engine cooling fan.  (ii) Exhaust system shall be purged by at least three free acceleration cycles or by an equivalent method. </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>  </td><td>  </td><td>(b) Where this information is not available or requirements1 do not allow the use of reference values, — for naturally aspirated engines: 2,5 m–1,  — for turbo-charged engines: 3,0 m–1, or  — for vehicles identified in requirements1 or first registered or put into service for the first time after the date specified in requirements1: —  1,5 m–1 (9)  or 0,7 m–1 (8) </td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td>  </td><td>Test procedure: 1. Engine and any turbocharger fitted, to be at idle before the start of each free acceleration cycle. For heavy-duty diesels, this means waiting for at least 10 seconds after the release of the throttle.  2. To initiate each free acceleration cycle, the throttle pedal must be fully depressed quickly and continuously (in less than one second) but not violently, so as to obtain maximum delivery from the injection pump.  3. During each free acceleration cycle, the engine shall reach cut-off speed or, for vehicles with automatic transmissions, the speed specified by the manufacturer or, if this data is not available, then two thirds of the cut-off speed, before the throttle is released. This could be checked, for instance, by monitoring engine speed or by allowing a sufficient time to elapse between initial throttle depression and release, which in the case of vehicles of categories M2, M3, N2 and N3, should be at least two seconds.  4. Vehicles shall only be failed if the arithmetic means of at least the last three free acceleration cycles are in excess of the limit value. This may be calculated by ignoring any measurement that departs significantly from the measured mean, or the result of any other statistical calculation that takes account of the scattering of the measurements. Member States may limit the number of test cycles. </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td>  </td><td>5. To avoid unnecessary testing, Member States may fail vehicles which have measured values significantly in excess of the limit values after fewer than three free acceleration cycles or after the purging cycles. Equally to avoid unnecessary testing, Member States may pass vehicles which have measured values significantly below the limits after fewer than three free acceleration cycles or after the purging cycles</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 8.3. Electromagnetic interference suppression
 
@@ -1367,14 +1517,17 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 
 8.4. Other items related to the environment
 
+<table>
 <tbody><tr><td rowspan="2">8.4.1. Fluid leaks</td><td rowspan="2">  </td><td>Any excessive fluid leak, other than water, likely to harm the environment or to pose a safety risk to other road users.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Steady formation of drops that constitutes a very serious risk.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
 **9\. SUPPLEMENTARY TESTS FOR PASSENGER-CARRYING VEHICLES CATEGORIES M2, M3**
 
 9.1. Doors
 
+<table>
 <tbody><tr><td rowspan="7">9.1.1. Entrance and exit doors</td><td rowspan="7">Visual inspection and by operation.</td><td>(a) Defective operation.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Deteriorated condition.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Likely to cause injuries.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1383,7 +1536,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(e) Not in accordance with the requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Insufficient door width.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="6">9.1.2. Emergency exits</td><td rowspan="6">Visual inspection and by operation (where appropriate)</td><td>(a) Defective operation.</td><td>  </td><td>X</td><td>  </td></tr>
@@ -1402,9 +1557,11 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Emission of toxic or exhaust gases into driver's or passenger compartment.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>Danger to health of persons on board.</td><td>  </td><td>  </td><td>X</td></tr>
 </tbody>
+</table>
 
 9.4. Seats
 
+<table>
 <tbody><tr><td rowspan="2">9.4.1. Passenger seats (including seats for accompanying personnel)</td><td rowspan="2">Visual inspection</td><td>Folding seats (if allowed) not working automatically.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Blocking an emergency exit.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td rowspan="4">9.4.2. Driver's seat (additional requirements)</td><td rowspan="4">Visual inspection</td><td>(a) Defective special devices such as anti- glare shield.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -1412,7 +1569,9 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Protection for driver insecure or not in accordance with requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Likely to cause injuries.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">9.5. Interior lighting and destination devices (X)2</td><td rowspan="2">Visual inspection and by operation</td><td>Device defective or not in accordance with requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -1435,6 +1594,7 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(b) Not in accordance with requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>False information.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 9.10. Requirements regarding the transportation of children. (X)2
 
@@ -1442,12 +1602,15 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 | --- | --- | --- | --- | --- | --- |
 | 9.10.2. Signalling and special equipment | Visual inspection | Signalling or special equipment absent or not in accordance with requirements1 | X |  |  |
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 </tbody>
+</table>
 
 9.11. Requirements regarding the transportation of persons with reduced mobility (X)2
 
+<table>
 <tbody><tr><td rowspan="9">9.11.1. Doors, ramps and lifts</td><td rowspan="9">Visual inspection and operation</td><td>(a) Defective operation.</td><td>X</td><td>  </td><td>  </td></tr>
 <tr><td>Safe operation affected.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Deteriorated condition.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -1466,13 +1629,17 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>(d) Not in accordance with the requirements1.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>9.11.3. Signalling and special equipment</td><td>Visual inspection</td><td>Signalling or special equipment absent or not in accordance with requirements1.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
 9.12. Other special equipment (X)2
 
+<table>
 <tbody><tr><td rowspan="2">9.12.1. Installations for food preparation</td><td rowspan="2">Visual inspection</td><td>(a) Installation not in accordance with the requirements1.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td>(b) Installation damaged to such an extent that it would be dangerous to use it.</td><td>  </td><td>X</td><td>  </td></tr>
 </tbody>
+</table>
 
+<table>
 <tbody><tr><td>Item</td><td>Method</td><td>Reasons for failure</td><td colspan="3">Assessment of deficiencies</td></tr>
 <tr><td colspan="3">  </td><td>Minor</td><td>Major</td><td>Dangerous</td></tr>
 <tr><td rowspan="2">9.12.2. Sanitary installation</td><td rowspan="2">Visual inspection</td><td>Installation not in accordance with the requirements1.</td><td>X</td><td>  </td><td>  </td></tr>
@@ -1481,6 +1648,7 @@ Deficiencies not listed in this Annex shall be assessed in terms of the risks th
 <tr><td>Safe operation of vehicle affected.</td><td>  </td><td>X</td><td>  </td></tr>
 <tr><td colspan="6">(1) The vehicle categories which are outside the scope of this Directive are included for guidance. (2) 43 % for semi-trailers approved before 1 January 2012.  (3) 48 % for vehicles not fitted with ABS or type-approved before 1 October 1991.  (4) 45 % for vehicles registered after 1988 or from the date specified in requirements, whichever is the later.  (5) 43 % for semi-trailers and draw-bar trailers registered after 1988 or from the date specified in requirements, whichever is the later.  (6) E.g. 2,5 m/s2 for N1, N2 and N3 vehicles registered for the first time after 1.1.2012.  (7) Type-approved in accordance with Directive 70/220/EEC, Regulation (EC) No 715/2007, Annex I, Table 1 (Euro 5), Directive 88/77/EEC and Directive 2005/55/EC.  (8) Type-approved in accordance with Regulation (EC) No 715/2007, Annex I, Table 2 (Euro 6) and Regulation (EC) No 595/2009 (Euro VI).  (9) Type-approved in accordance with limits in row B, Section 5.3.1.4 of Annex I to Directive 70/220/EEC as amended by Directive 98/69/EC or later; row B1, B2 or C, Section 6.2.1 of Annex I to Directive 88/77/EEC or first registered or put into service after 1 July 2008.  NOTES:  1 ‘Requirements’ are laid down by type-approval at the date of approval, first registration or first entry into service as well as by retrofitting obligations or by national legislation in the country of registration. These reasons for failure apply only when compliance with requirements has been checked.  2 (X) identifies items which relate to the condition of the vehicle and its suitability for use on the road but which are not considered essential in a roadworthiness test.  3 Unsafe modification means a modification that adversely affects the road safety of the vehicle or has a disproportionately adverse effect on the environment. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II
 
@@ -1574,6 +1742,7 @@ Unless specified otherwise by the relevant Union legislation, the interval betwe
 
 **Table I (1)**
 
+<table>
 <tbody><tr><td colspan="19">Minimum equipment required for the purpose of performing a roadworthiness test</td></tr>
 <tr><td colspan="2">Vehicles</td><td colspan="2">Category</td><td colspan="15">Equipment required for each item listed in section I</td></tr>
 <tr><td>  </td><td>Maximum mass</td><td colspan="2">  </td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>9</td><td>10</td><td>11</td><td>12</td><td>13</td><td>14</td><td>15</td></tr>
@@ -1609,6 +1778,7 @@ Unless specified otherwise by the relevant Union legislation, the interval betwe
 <tr><td>  </td><td>&gt; 3 500 kg</td><td>O3,O4</td><td>  </td><td>x</td><td>x</td><td>x</td><td>  </td><td>  </td><td>x</td><td>x</td><td>x</td><td>  </td><td>  </td><td>  </td><td>  </td><td>x</td><td>  </td><td>  </td></tr>
 <tr><td colspan="19">(1)  The vehicle categories which are outside the scope of this Directive are included for guidance.  1 P…petrol (positive ignition); D…diesel (compression ignition) </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV
 

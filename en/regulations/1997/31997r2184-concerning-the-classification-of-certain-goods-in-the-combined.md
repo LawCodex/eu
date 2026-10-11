@@ -1,0 +1,70 @@
+---
+title: "Commission Regulation (EC) No 2184/97 of 3 November 1997 concerning the classification of certain goods in the combined nomenclature"
+identifier: "31997R2184"
+eli: "http://data.europa.eu/eli/reg/1997/2184/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1997-11-03
+entry_into_force: 1997-11-25
+last_amended: 2006-03-01
+consolidated_version: "01997R2184-20060301"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997R2184-20060301"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 2184/97 of 3 November 1997 concerning the classification of certain goods in the combined nomenclature
+
+**COMMISSION REGULATION (EC) No 2184/97**
+
+**of 3 November 1997**
+
+**concerning the classification of certain goods in the combined nomenclature**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EC) No 216/2006 of 8 February 2006 </td><td> L 38</td><td>15</td><td>9.2.2006</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 2184/97**
+
+**of 3 November 1997**
+
+**concerning the classification of certain goods in the combined nomenclature**
+
+## Article 1
+
+The goods described in column 1 of the annexed table are now classified within the combined nomenclature under the appropriate CN codes indicated in column 2 of the said table.
+
+## Article 2
+
+Binding tariff information issued by the customs authorities of Member States which do not conform to the rights established by this Regulation can continue to be invoked under the provisions of Article 12 (6) of Regulation (EEC) No 2913/92 for a period of three months.
+
+## Article 3
+
+This Regulation shall enter into force on the 21st day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+<table>
+<tbody><tr><td>Description</td><td>Classification CN code</td><td>Reason</td></tr>
+<tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
+<tr><td>1. Barbecue for single use in a package for retail sale, consisting of:  — an aluminium tray (weight 35 g),  — a wire grill and a wire stand made of steel (weight 105 g),  — charcoal briquettes and  — three firelighters. </td><td>7321 13 00 </td><td>Classification is determined by the provisions of general rules 1, 3b and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 7321 and 7321 13 00 .</td></tr>
+<tr><td>2. A video conferencing system consisting of the following components, which are linked by cable:  — a colour monitor with built-in loud-speakers,  — a cabinet designed as a stand for the monitor and containing the telecommunication circuitry for the system,  — a video camera with control and zoom functions,  — a telephone keypad (with a built-in microphone), which also controls the system. </td><td>8517 19 10 </td><td>Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, note 4 to Section XVI and by the wording of CN codes 8517, 8517 19 and 8517 19 10 .</td></tr>
+<tr><td>3. Multifunction facsimile machine essentially consisting of:  — a modem,  — a scanner,  — a printing device.  The apparatus operates either in an autonomous form (fax-transmitting or receiving) or in conjunction with a computer (as printer, scanner or fax machine).  The apparatus also includes a document copying function (2 to 3 pages per minute) available in autonomous mode. </td><td>8517 21 00 </td><td>Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature, note 3 to Section XVI and by the wording of CN codes 8517 and 8517 21 00 . The telecommunication (facsimile) function is the principal function of this item of equipment. </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>4. Set put up for retail sale comprising:  — an audio unit with a telephone handset,  — a telecommunication card,  — a video camera connectable to an automatic data-processing machine,  — a network connection unit, and  — two diskettes with video telephony application software.  The set enables an automatic data-processing machine to perform an additional function (video telephony). </td><td>8517 50 90 </td><td>Classification is determined by General Rules 1, 3(b) and 6 for the interpretation of the Combined Nomenclature, and by the wording of CN codes 8517 , 8517 50 and 8517 50 90 . The essential character of the set is given by the telecommunication apparatus (the audio unit and telecommunication card). </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>5. A projector operating by means of a flat panel display (liquid crystal device) for the projection in colour of both data received directly from automatic data-processing machines (e.g. text, graphics) and still or moving images from still image video cameras and other video camera recorders, video recording or reproducing apparatus, television receivers, etc.  The apparatus incorporates loud-speakers. </td><td>8528 30 05 (1)</td><td>Classification is determined by the provisions of general rules 1, 3c and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 8528, 8528 30 and 8528 30 05 .</td></tr>
+<tr><td>6. A stuffed article made of pile fabric, representing a dog about 30 cm high.  It is decorated with a permanently glued on Santa Claus cap and a red textile ribbon around its neck, the latter is decorated with printed stars and Christmas boots.  It also contains a battery-powered music module, which produces a Christmas song after pressing a paw. Simultaneously, a red heart-shaped bulb is illuminated in the dog's chest and the mouth parts move.  (See photograph) (*1) </td><td>9503 41 00 </td><td>Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 9503 and 9503 41 00 . The article can be used as a toy at any time of the year. Although it has certain Christmas features, it does not have the characteristics of festive articles of heading 9505. </td></tr>
+<tr><td>7. A plastic toy representing a non-human creature (robot).  It contains a battery-powered motor, which enables the robot to move around and to move its arms. </td><td>9503 49 30 </td><td>Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 9503, 9503 49 and 9503 49 30 .</td></tr>
+<tr><td>8. A set for retail sale, consisting of the representation of a mouse made of textile material, six wooden cubes carrying the letters A, B, C, X, Y, Z and a children's picture book made of paperboard. </td><td>9503 70 00 </td><td>Classification is determined by the provisions of general rules 1 and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 9503 and 9503 70 00 . The product refers to the sets described in the explanatory notes to the Harmonized System to subheading 9503 70 . </td></tr>
+<tr><td>9. A plastic picture panel (about 29 x 22 cm) protected by a cover made of paper board.  The picture panel with images of animals is fixed on the right inside cover. It contains a battery-powered electronic module, press buttons under the images of the animals, a switch-on-button and a loudspeaker.  Pressing the buttons activates the module which produces mainly prerecorded spoken text and only a few bars of music.  The left inside cover contains a book with plank pages. </td><td>9503 90 32 </td><td>Classification is determined by the provisions of general rules 1, 3b and 6 for the interpretation of the combined nomenclature and by the wording of CN codes 9503, 9503 90 and 9503 90 32 . The picture panel determines the essential character as a toy. The cover only serves as protection. </td></tr>
+<tr><td colspan="3">[image]</td></tr>
+<tr><td colspan="3">(1)  Taric code until 31.12.1997: 8528301091 .  (*1)  Photographs are purely for information. </td></tr>
+</tbody>
+</table>

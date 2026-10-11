@@ -24,8 +24,10 @@ retrieved: 2026-10-11
 
 **(72/221/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
+</table>
 
 | A1 | ACT concerning the conditions of accession of the Hellenic Republic and the adjustments to the Treaties | L 291 | 17 | 19.11.1979 |
 | --- | --- | --- | --- | --- |
@@ -97,6 +99,7 @@ This Directive is addressed to the Member States.
 
 ## ANNEX — variables adopted for the collection of data by undertaking and data according to units of economic activity (EAU)
 
+<table>
 <tbody><tr><td rowspan="2">Code</td><td rowspan="2">Variables</td><td colspan="2">Questions for</td></tr>
 <tr><td>the undertaking</td><td>the EAU</td></tr>
 <tr><td>1</td><td>Number of persons employed, total</td><td>*</td><td>—</td></tr>
@@ -153,5 +156,6 @@ This Directive is addressed to the Member States.
 <tr><td>16.2</td><td>Other indirect taxes</td><td>*</td><td>—</td></tr>
 <tr><td>17</td><td>Operating subsidies</td><td>*</td><td>(*)</td></tr>
 </tbody>
+</table>
 
 ( ) OJ No 131, 13.8.1964, p. 2193/64.

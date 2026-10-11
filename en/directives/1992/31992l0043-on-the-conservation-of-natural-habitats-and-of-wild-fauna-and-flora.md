@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the conservation of natural habitats and of wild fauna and flora**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL DIRECTIVE 97/62/EC of 27 October 1997 </td><td> L 305</td><td>42</td><td>8.11.1997</td></tr>
@@ -29,6 +30,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/105/EC of 20 November 2006 </td><td> L 363</td><td>368</td><td>20.12.2006</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/17/EU of 13 May 2013 </td><td> L 158</td><td>193</td><td>10.6.2013</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2025/1237 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 June 2025 </td><td> L 1237</td><td>1</td><td>24.6.2025</td></tr>
+</table>
 
 | A1 | ACT (94/C 241/08) | C 241 | 21 | 29.8.1994 |
 | --- | --- | --- | --- | --- |

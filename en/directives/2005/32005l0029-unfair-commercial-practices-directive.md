@@ -26,10 +26,12 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/2161 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 27 November 2019 </td><td> L 328</td><td>7</td><td>18.12.2019</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/825 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 28 February 2024 </td><td> L 825</td><td>1</td><td>6.3.2024</td></tr>
+</table>
 
 **DIRECTIVE 2005/29/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

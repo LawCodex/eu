@@ -22,6 +22,7 @@ retrieved: 2026-10-11
 
 **on the marketing of seed potatoes**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DECISION of 28 January 2003 </td><td> L 25</td><td>42</td><td>30.1.2003</td></tr>
@@ -35,6 +36,7 @@ retrieved: 2026-10-11
 <tr><td> M9</td><td> COMMISSION IMPLEMENTING DECISION (EU) 2019/119 of 24 January 2019 </td><td> L 24</td><td>26</td><td>28.1.2019</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/177 of 11 February 2020 </td><td> L 41</td><td>1</td><td>13.2.2020</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DECISION (EU) 2024/202 of 8 January 2024 </td><td> L </td><td>1</td><td>9.1.2024</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2002/56/EC**
 
@@ -512,6 +514,7 @@ The following tolerances for impurities, blemishes and RNQPs, or symptoms caused
 
 **(referred to by Article 29)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Deadlines for transposition</td></tr>
 <tr><td rowspan="2">66/403/EEC</td><td>1 July 1968 (Article 13(1))</td></tr>
 <tr><td>1 July 1969 (other provisions) (1)(2)(3)</td></tr>
@@ -551,11 +554,13 @@ The following tolerances for impurities, blemishes and RNQPs, or symptoms caused
 <tr><td>98/96/EC</td><td>1 February 2000</td></tr>
 <tr><td colspan="2">(1)  For Denmark, Ireland and the united Kingdom, 1 July 1973 for Article 13(1), 1 July 1974 for the other provisions concerning basic seed potatoes and 1 July 1976 for the other provisions.  (2)  1 January 1986 for Greece, 1 March 1986 for Spain, and 1 January 1991 for Portugal.  (3)  1 January 1995 for Austria, Finland and Sweden. <br> However:  — Sweden shall be allowed to maintain a tolerance limit of 40 % by weight for tubers affected over more than one tenth of their surface with common scab, relating to the marketing in its territory of seed potatoes until 31 December 1996 at the latest. This tolerance limit shall apply solely to seed potatoes produced in areas of Sweden in which particular problems with common scab have been experienced. Such seed potatoes shall not be introduced into the territory of other Member States,  — Sweden shall adapt its legislation in this respect to comply with the relevant part of Annex II to the Directive by the date of expiry of the above period,  — Sweden shall apply from the date of acession those provisions of the Directive which ensure access for material complying with the Directive to marketing in its territory.  (4)  The remaining stocks of labels bearing the abbreviation ‘EEC’ may continue to be used until 31 December 2001. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX V
 
 **CORRELATION TABLE**
 
+<table>
 <tbody><tr><td>Directive 66/403/EEC</td><td>This Directive</td></tr>
 <tr><td>Article 1</td><td>Article 1, first subparagraph</td></tr>
 <tr><td>Article 17</td><td>Article 1, second subparagraph</td></tr>
@@ -630,6 +635,7 @@ The following tolerances for impurities, blemishes and RNQPs, or symptoms caused
 <tr><td>—</td><td>ANNEX V</td></tr>
 <tr><td colspan="2">(1)  98/95/EC Article 9(2) and 98/96/EC Article 8(2). </td></tr>
 </tbody>
+</table>
 
 ( 1 ) OJ L 169, 10.7.2000, p. 1. Directive as last amended by Commission Directive 2002/28/EC (OJ L 77, 20.3.2002, p. 23).
 

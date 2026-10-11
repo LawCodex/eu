@@ -1,0 +1,315 @@
+---
+title: "Commission Implementing Regulation (EU) 2018/764 of 2 May 2018 on the fees and charges payable to the European Union Agency for Railways and their conditions of payment (Text with EEA relevance. )"
+identifier: "32018R0764"
+eli: "http://data.europa.eu/eli/reg_impl/2018/764/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2018-05-02
+entry_into_force: 2018-09-01
+last_amended: 2024-10-01
+consolidated_version: "02018R0764-20241001"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R0764-20241001"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2018/764 of 2 May 2018 on the fees and charges payable to the European Union Agency for Railways and their conditions of payment (Text with EEA relevance. )
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/764**
+
+**of 2 May 2018**
+
+**on the fees and charges payable to the European Union Agency for Railways and their conditions of payment**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1903 of 29 October 2021 </td><td> L 387</td><td>126</td><td>3.11.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2018 of 26 July 2024 </td><td> L 2018</td><td>1</td><td>29.7.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2018/764**
+
+**of 2 May 2018**
+
+**on the fees and charges payable to the European Union Agency for Railways and their conditions of payment**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation lays down the fees and charges payable to the European Union Agency for Railways (‘the Agency’) for the processing of applications pursuant to Articles 14, 20, 21, and 22 of Regulation (EU) 2016/796, including for the use by an applicant of the one-stop shop (‘OSS’) provided for in Article 12 of that Regulation for the submission of applications to the Agency), and for the provision of other services in accordance with the objectives for which the Agency has been established. It also specifies the method to be used for calculating those fees and charges and conditions for payment.
+
+2\. This Regulation also establishes procedures to ensure transparency, non-discrimination and other basic principles of European law in relation to the costs of the national safety authorities (‘NSAs’) for processing the national part of the applications for which the Agency is responsible pursuant to Articles 14, 20, and 21 of Regulation (EU) 2016/796.
+
+3\. This Regulation shall not apply to the fees and charges levied in relation to the following activities of the NSAs:
+
+(a) processing of applications for single safety certificates pursuant to Article 10(8) of Directive (EU) 2016/798 ( 1 ) and the related pre-engagement process provided for in Commission Implementing Regulation (EU) 2018/763 ( 2 ),
+
+(b) processing of applications for vehicle authorisations for placing on the market or type authorisations of vehicles pursuant to Articles 21(8) and 24(1) of Directive (EU) 2016/797 ( 3 ) and the related pre-engagement process provided for in Commission Implementing Regulation (EU) 2018/545 ( 4 );
+
+(c) issuing an opinion on the request for the European Railway Traffic Management System (ERTMS) track-side equipment approval in accordance with the last subparagraph of Article 19(3) of Directive (EU) 2016/797;
+
+(d) delivering temporary authorisations for on-site tests pursuant to Article 21(3) and (5) of Directive (EU) 2016/797.
+
+## Article 2 — Types of fees and charges levied by the Agency
+
+1\. The Agency shall levy fees in the following cases:
+
+(a) for the submission of applications through the OSS to the Agency, where such fees are not included in the fixed fees for the processing of applications;
+
+(b) for the processing of applications, requests and notifications submitted to the Agency, including for the issuing of estimates referred to in Article 4 or where an application, request or notification is subsequently withdrawn by the applicant;
+
+(c) where the Agency, acting on its own initiative, restricts, amends or reviews a decision issued in accordance with Directive (EU) 2016/798 or Directive (EU) 2016/797.
+
+The Agency may levy fees where it revokes an authorisation for placing on the market due to a subsequently established non-compliance with the essential requirements of a vehicle in use or a vehicle type in accordance with Article 26 of Directive (EU) 2016/797, or where a holder of a single safety certificate no longer satisfies the conditions for the certification in accordance with Article 17(5) and (6) of Directive 2016/798.
+
+2\. The applications, requests and notifications referred to in paragraph 1, first subparagraph, points (a) and (b), shall cover:
+
+(a) authorisations for the placing on the market of vehicles and of vehicle types in accordance with Article 20 and 21 of Regulation (EU) 2016/796 other than those specified in point (b) of this paragraph;
+
+(b) authorisations for the placing on the market of a vehicle or a series of vehicles which is in conformity with an authorised vehicle type pursuant to Article 25(1) of Directive (EU) 2016/797;
+
+(c) single safety certificates in accordance with Article 14 of Regulation (EU) 2016/796;
+
+(d) decisions for approval of the interoperability compliance of an ERTMS track-side equipment solution with the relevant TSI in accordance with Article 22 of Regulation (EU) 2016/796;
+
+(e) pre-engagement applications in accordance with Article 22 of Implementing Regulation (EU) 2018/545 and Article 2(3) and Article 4(5) of Implementing Regulation 2018/763;
+
+(f) appeals referred to in Article 58 of Regulation (EU) 2016/796 in accordance with Article 7 of this Regulation;
+
+(g) registrations in the European register of authorised types of railway vehicles (ERATV) of a new version of a vehicle type or a new version of a vehicle type variant in accordance with Article 15(3) of Implementing Regulation (EU) 2018/545;
+
+(h) notifications in accordance with Article 16(4) of Implementing Regulation (EU) 2018/545, including any decisions of the Agency to that effect.
+
+3\. The Agency shall levy charges for the provision of services other than those referred to in paragraph 1, requested by an applicant or any other person or entity.
+
+4\. The Agency shall publish a list of services on its website.
+
+## Article 3 — Calculation of fees, charges and fixed fees levied by the Agency
+
+1\. The amount of fees for the use of the OSS for submitting to the Agency applications referred to in Article 2(2), points (a), (c), (d) and (e) shall be a fixed amount specified in table A of point 2 of the Annex. That fixed fee shall be due for payment at the time of the submission of the application.
+
+2\. Without prejudice to paragraph 3, point (a), the amount of fees for processing applications referred to in Article 2(2), points (a), (c), (d) and (e), and for performing the activities referred to in Article 2(1), first subparagraph, point (c), and Article 2(1), second subparagraph, shall be the total of the following:
+
+(a) the number of hours spent by Agency staff and external experts, on the processing of the application multiplied by the hourly rate of the Agency specified in point 1 of the Annex;
+
+(b) the relevant amounts submitted by the national safety authorities (‘NSAs’) resulting from the cost for processing of the national parts of the application, including assessments related to border stations, as appropriate.
+
+3\. The amount of fees for the submission and processing of the following applications, requests and notifications shall be the relevant fixed amount specified in point 3, Table B, of the Annex and shall include the fee for using the OSS referred to in paragraph 1 of this Article, where appropriate:
+
+(a) applications under Article 2(2), point (a), of this Regulation, for freight wagons as defined in point 2.1 of the Annex to Commission Regulation (EU) No 321/2013 ( 5 ) where the area of use is the whole Union;
+
+(b) applications under Article 2(2), point (b);
+
+(c) requests under Article 2(2), point (g);
+
+(d) notifications under Article 2(2), point (h).
+
+The fixed amount referred to in the first subparagraph shall be due for payment at the time of the submission of the application, request or notification.
+
+4\. The amount of charges for services referred to in Article 2(3) of this Regulation shall be the number of hours spent by Agency staff and external experts multiplied by the hourly rate of the Agency set out in point 1 of the Annex. For services referred to in Article 43 of Regulation (EU) 2016/796 the charge per individual participant shall be the result of the division of such amount of charges by the estimated number of participants to the Agency’s assistance activity, unless agreed otherwise.
+
+5\. At the request of the applicant, a 20 % reduction of the amount levied by the Agency for an application, request or notification referred to in Article 2(1) shall apply in case of micro, small or medium-sized enterprise.
+
+For the purposes of this Regulation, micro, small or medium-sized enterprise means an autonomous railway undertaking, infrastructure manager, vehicle keeper or manufacturer, established or having its seat in a member country of the European Economic Area and meeting the conditions laid down in Commission Recommendation 2003/361/EC ( 6 ).
+
+The applicant shall provide proof that it qualifies as micro, small or medium-sized enterprise within 1 month from the date of the application, request or notification. The Agency shall assess the evidence provided and may refuse the request for the status as micro, small or medium-sized enterprise in case of doubt or lack of justification.
+
+## Article 4 — Estimates of fees and charges
+
+1\. The Agency shall, at the request of the applicant, issue a non-binding estimate of the amount of the fees and charges related to the application, request or notification, including request for service, and provide information regarding the timing for the issue of the invoices.
+
+The NSAs which are involved in the processing of an application shall provide a non-binding estimate of their costs as referred to in Article 3(1)(b) to the Agency to be included in the estimate issued by the Agency.
+
+2\. During the processing of an application, request or notification the Agency and the NSAs shall monitor their costs. At the request of the applicant, where the costs risk exceeding the estimate by more than 15 %, the Agency shall inform the applicant thereof.
+
+3\. Where the processing of an application, request or notification, or a service lasts longer than 1 year, the applicant may request a new estimate.
+
+4\. Where the issuing of estimates and any review thereof is requested, the deadlines set by Article 19(4) and Article 21(6) of Directive (EU) 2016/797 and Article 10(6) of Directive (EU) 2016/798 may be suspended for a maximum of 10 working days.
+
+## Article 5 — Conditions of payment
+
+1\. The Agency shall issue an invoice for the fees and charges due, within 60 calendar days of the date:
+
+(a) of its decision, except in case of decisions covered by the fixed fee regime or subject to Article 6(3);
+
+(b) of the decision of Board of Appeal;
+
+(c) when the service rendered ended;
+
+(d) of withdrawal of an application, request or notification;
+
+(e) of any other event leading to cessation of processing of an application, request or notification.
+
+With regard to fixed fees that become due for payment at the time of the submission of the application, request or notification referred to in Article 3(1) and (3), before the Agency’s processing of the application, request or notification, the Agency may agree a shorter due date with individual applicants at their request, as well as enter into a special arrangement for invoicing, including issuing of a monthly invoice.
+
+2\. The invoice shall provide the following elements, where applicable:
+
+(a) differentiation between fees or charges;
+
+(b) amounts subject to fixed fees;
+
+(c) where no fixed fees apply, the number of hours spent under the Agency’s responsibility and the hourly rate applied;
+
+(d) where relevant, the costs charged by the responsible NSA. Those costs shall be specified in relation to tasks and time spent or in form of fixed rates applied by the NSA to the processing of the national part of the application, including assessment related to border stations, as appropriate.
+
+2a. The invoice shall be addressed to the person or the entity:
+
+(a) indicated as the applicant in the OSS;
+
+(b) requesting registration pursuant to Article 2(2), point (g);
+
+(c) submitting notification pursuant to Article 2(2), point (h);
+
+(d) requesting a service pursuant to Article 2(3).
+
+3\. The NSAs shall provide the Agency with a statement of costs for their contribution to be included in the invoice issued by the Agency, within 30 calendar days of the dates referred to in paragraph 1. The statement of costs shall detail how such costs have been calculated.
+
+4\. Payment of the fees and charges shall be denominated and payable in euro.
+
+4a. Where Article 6(3) applies to applicants, the Agency shall have the right to issue payment notices requiring partial payment for the parts of the application already processed. In the absence of the requested payment within a timeframe set by the Agency but not less than 10 calendar days, the Agency may suspend the processing of the application and inform the applicant thereof. The Agency shall resume the processing of the application in case the requested payment is made within 20 calendar days following the notification of the suspension. In the absence of the payment within 20 calendar days following the notification of the suspension, the Agency has the right to reject the application.
+
+5\. The Agency shall notify the applicants of the decision and submit the invoice through the one-stop shop referred to in Article 12 of Regulation (EU) 2016/796 or by any other appropriate means.
+
+6\. The Agency may invoice interim amounts every 6 months or issue multiple invoices where relevant.
+
+7\. Payment of the fees and charges shall be made by means of transfer to the Agency's bank account indicated for that purpose.
+
+8\. Applicants shall ensure that the Agency receives payment of the amounts due, including any bank charges related to that payment, within 60 calendar days from the date of notification of the invoice.
+
+9\. Where the applicant is a micro, small or medium-sized enterprise, the Agency shall take into account requests for a reasonable extension of the deadline for payment and payment by instalments.
+
+10\. NSAs shall receive a reimbursement for the cost incurred for processing the national part of the applications, including assessments related to border stations, as appropriate, within the deadlines referred to in paragraphs 8 and 9.
+
+## Article 6 — Failure to pay
+
+1\. In the absence of payment of the amounts due, the Agency may charge interest for each additional calendar day for which payment is delayed and shall apply the rules on recovery provided for in Part one, Title IV, Chapter 6, Section 5 of Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council, as applied to European agencies, in particular its Article 101, and in the financial rules of the Agency adopted in accordance with Article 66 of Regulation (EU) 2016/796.
+
+2\. The interest rate shall be the rate applied by the European Central Bank to its principal refinancing operations, as published in the C series of the Official Journal of the European Union, in force on the first calendar day of the month in which the due date falls, increased by eight percentage points.
+
+3\. Where the Agency has evidence that the applicant’s financial ability is at risk or where the applicant is not established or does not have its seat in a member country of the European Economic Area it may require the applicant to provide a bank guarantee or secured deposit within 15 days following receipt of the application. Where the applicant fails to do so, the Agency may reject its application.
+
+4\. Without prejudice to paragraph 1, the Agency may reject a new application or suspend the processing of an ongoing application, where the applicant or its legal successor has not fulfilled its payment obligations arising out of previous authorisation, certification or approval tasks or services performed by the Agency, unless the applicant pays all amounts due. In case an ongoing application is to be suspended the procedure referred to in Article 5, paragraph 4a shall apply accordingly.
+
+5\. The Agency shall take all appropriate legal steps to ensure full payment of invoices issued. To this end, NSAs which have submitted a statement of cost for reimbursement shall support the Agency in this process.
+
+## Article 7 — Appeal and fees for appeal
+
+1\. The Agency shall levy a fee in respect of any appeal which is dismissed or withdrawn.
+
+2\. The appeal fee shall be EUR 10 000 or equal to the amount of the fee charged for the decision appealed against, whichever is lower.
+
+3\. The Registrar of the Board of Appeal shall inform the appellant of the conditions of payment. The appellant shall have 30 calendar days for payment from the date of notification of the invoice.
+
+4\. An applicant may appeal against the invoiced fees and charges to the Board of Appeal.
+
+## Article 8 — Publication and revision of the rates
+
+1\. The Agency shall publish the hourly rate and fixed rates referred to in Article 3 on its website.
+
+2\. The NSA shall publish on its website the rates relevant for establishing the costs charged to the Agency referred to in Article 3(2), point (b). Where the NSA applies a fixed rate it shall specify to which authorisation and certification case the fixed rate will apply. The NSA shall provide the Agency with a link to its website containing information on its fees and charges.
+
+3\. The website of the Agency shall contain a link to that information.
+
+4\. The Agency shall include in the annual report referred to in Article 51(1)(a) of Regulation (EU) 2016/796 information on the elements serving as a basis for the hourly rate, the financial results and the forecasts.
+
+## Article 9 — Procedures of the Agency
+
+1\. In order to distinguish the revenue and expenditure from the activities subject to fees and charges referred to in Article 1(1), the Agency shall:
+
+(a) receive and keep the fees and charges generated income in a separate bank account;
+
+(b) annually report on the total revenue and expenditure attributable to the activities subject to fees and charges as well as the cost structure and performance.
+
+2\. If at the end of a financial year the overall revenue from fees and charges exceeds the overall cost of the activities subject to fees and charges, the excess shall be kept in a budgetary reserve and shall be used to deal with surpluses or deficits in accordance with the Agency's Financial Regulation.
+
+3\. The sustainability of income from activities subject to fees and charges shall be ensured.
+
+## Article 10 — Evaluation and revision
+
+1\. The regime for fees and charges shall be subject to an assessment once every financial year. This assessment shall be based on the Agency's previous financial results and its estimate of expenditure and revenue. It shall also be related to the Agency's Single Programming Document.
+
+1a. Amounts referred to in the Annex shall be indexed by the Agency, for the first time in 2023 and once every financial year thereafter, with effect from 1 January, based on
+
+(a) the annual update of the remuneration and pensions of the officials and other servants of the European Union and the correction coefficients applied thereto as published in the Official Journal of the European Union, in accordance with a calculation method to be agreed by the Agency’s Management Board, and based on the relevant annual financial data used in the Agency’s Single Programming Document and its Consolidated Annual Activity reports; and/or
+
+(b) the inflation rate in the Union, in accordance with the method set out in point 4 of the Annex.
+
+2\. The Commission shall on the basis of the assessment of financial results and forecasts of the Agency, revise fees and charges, if necessary.
+
+3\. In light of the relevant information provided by the Agency in its annual reports, this Regulation shall be reviewed to introduce fixed fees.
+
+## Article 11 — Transitional provisions
+
+In the cases referred to in Article 55(4) of Regulation (EU) 2018/545 and in Article 15(4) of Implementing Regulation (EU) 2018/763, the work done before the submission of the application to the Agency shall not be covered by fees and charges in this Regulation and shall be subject to national legislation.
+
+## Article 12 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 16 February 2019.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+1\. The Agency shall apply an hourly rate of EUR 265.
+
+2\. The fixed fees to be paid to the Agency for the use of the one-stop shop (OSS) shall be as follows:
+
+**Table A**
+
+<table>
+<tbody><tr><td>  </td><td>OSS Cost group</td><td>Amount (EUR)</td></tr>
+<tr><td colspan="3">Submission of an application to the Agency for:</td></tr>
+<tr><td>1.</td><td>A single safety certificate</td><td>464 </td></tr>
+<tr><td>2.</td><td>A vehicle type authorisation</td><td>464 </td></tr>
+<tr><td>3.</td><td>A vehicle authorisation other than an authorisation in conformity to type</td><td>464 </td></tr>
+<tr><td>4.</td><td>An ERTMS trackside approval</td><td>464 </td></tr>
+<tr><td>5.</td><td>A pre-engagement process</td><td>464 </td></tr>
+</tbody>
+</table>
+
+3\. The fixed fees for the submission and processing of applications, requests and notifications in accordance with Article 3 shall be as follows:
+
+**Table B**
+
+<table>
+<tbody><tr><td>  </td><td>Cost group</td><td>Amount (EUR)</td></tr>
+<tr><td colspan="3">Submission to and processing by the Agency of an application for a decision authorising vehicles in conformity to type:</td></tr>
+<tr><td>1.</td><td>(a) freight wagons; (b) vehicles designed to carry:  — motor vehicles with their passengers on board, or  — motor vehicles without passengers on board but intended to be integrated in passenger trains (car carriers);  (c) vehicles which  — increase their length in loaded configuration, and  — their payload itself is part of the vehicle structure </td><td>865 </td></tr>
+<tr><td>2.</td><td>(a) thermal or electric traction units; (b) passenger carriages;  (c) special vehicles. </td><td>1 082 </td></tr>
+<tr><td>3.</td><td>self-propelling thermal or electric trains</td><td>1 244 </td></tr>
+<tr><td colspan="3">Submission to and processing by the Agency of an application for a decision authorising a vehicle type:</td></tr>
+<tr><td>4.</td><td>freight wagons when the area of use is whole Union</td><td>26 500 </td></tr>
+<tr><td colspan="3">Request for and registration in the European Register of Authorised Types of Vehicles (ERATV) of a new version of a vehicle type or a new version of a vehicle type variant:</td></tr>
+<tr><td>5.</td><td>(a) freight wagons; (b) vehicles designed to carry:  — motor vehicles with their passengers on board, or  — motor vehicles without passengers on board but intended to be integrated in passenger trains (car carriers);  (c) vehicles which  — increase their length in loaded configuration, and  — their payload itself is part of the vehicle structure </td><td>398 </td></tr>
+<tr><td>6.</td><td>(a) thermal or electric traction units; (b) passenger carriages;  (c) special vehicles. </td><td>451 </td></tr>
+<tr><td>7.</td><td>self-propelling thermal or electric trains</td><td>504 </td></tr>
+<tr><td colspan="3">Processing of notifications, including decisions of the Agency in accordance with Article 16(4) of Implementing Regulation (EU) 2018/545:</td></tr>
+<tr><td>8.</td><td>all types of vehicles</td><td>3 710 </td></tr>
+</tbody>
+</table>
+
+4\. The annual inflation rate referred to in Article 10(1a) is established as follows:
+
+| Annual inflation rate to be used: | ‘Eurostat HICP (All items) – European Union all countries’ (2015 = 100) Percentage change/12 months average |
+| --- | --- |
+| Value of the rate to be taken into account: | Value of the rate 3 months prior to the implementation of the indexation |
+
+( 1 ) Directive (EU) 2016/798 of the European Parliament and of the Council of 11 May 2016 on railway safety (OJ L 138, 26.5.2016, p. 102).
+
+( 2 ) Commission Implementing Regulation (EU) 2018/763 of 9 April 2018 establishing practical arrangements for issuing single safety certificates to railway undertakings pursuant to Directive (EU) 2016/798 of the European Parliament and of the Council, and repealing Commission Regulation (EC) No 653/2007 (see page 49 of this Official Journal).
+
+( 3 ) Directive (EU) 2016/797 of the European Parliament and of the Council of 11 May 2016 on the interoperability of the rail system within the European Union (OJ L 138, 26.5.2016, p. 44).
+
+( 4 ) Commission Implementing Regulation (EU) 2018/545 of 4 April 2018 establishing practical arrangements for the railway vehicle authorisation and railway vehicle type authorisation process pursuant to Directive (EU) 2016/797 of the European Parliament and of the Council (OJ L 90, 6.4.2018, p. 66).
+
+( 5 ) Commission Regulation (EU) No 321/2013 of 13 March 2013 concerning the technical specification for interoperability relating to the subsystem ‘rolling stock — freight wagons’ of the rail system in the European Union and repealing Decision 2006/861/EC (OJ L 104, 12.4.2013, p. 1, ELI: http://data.europa.eu/eli/reg/2013/321/oj).
+
+( 6 ) Commission Recommendation of 6 May 2003 concerning the definition of micro, small and medium-sized enterprises (OJ L 124, 20.5.2003, p. 36, ELI: http://data.europa.eu/eli/reco/2003/361/oj).

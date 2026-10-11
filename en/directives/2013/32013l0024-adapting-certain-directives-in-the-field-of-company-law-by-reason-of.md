@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **adapting certain directives in the field of company law, by reason of the accession of the Republic of Croatia**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>DIRECTIVE 2013/34/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 26 June 2013</td><td> L 182</td><td>19</td><td>29.6.2013</td></tr>
 <tr><td></td><td>DIRECTIVE (EU) 2017/1132 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL Text with EEA relevance of 14 June 2017</td><td> L 169</td><td>46</td><td>30.6.2017</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2013/24/EU**
 

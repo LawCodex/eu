@@ -22,12 +22,14 @@ retrieved: 2026-10-11
 
 **on the monitoring of zoonoses and zoonotic agents, amending Council Decision 90/424/EEC and repealing Council Directive 92/117/EEC**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COUNCIL DIRECTIVE 2006/104/EC of 20 November 2006 </td><td> L 363</td><td>352</td><td>20.12.2006</td></tr>
 <tr><td></td><td> REGULATION (EC) No 219/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 11 March 2009 </td><td> L 87</td><td>109</td><td>31.3.2009</td></tr>
 <tr><td></td><td> COUNCIL DECISION of 25 May 2009 </td><td> L 155</td><td>30</td><td>18.6.2009</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/20/EU of 13 May 2013 </td><td> L 158</td><td>234</td><td>10.6.2013</td></tr>
+</table>
 
 **DIRECTIVE 2003/99/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

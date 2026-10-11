@@ -1,0 +1,931 @@
+---
+title: "Commission Regulation (EU) No 813/2013 of 2 August 2013 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for space heaters and combination heaters Text with EEA relevance"
+identifier: "32013R0813"
+eli: "http://data.europa.eu/eli/reg/2013/813/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-08-02
+entry_into_force: 2013-07-01
+last_amended: 2017-01-09
+consolidated_version: "02013R0813-20170109"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R0813-20170109"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 813/2013 of 2 August 2013 implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for space heaters and combination heaters Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 813/2013**
+
+**of 2 August 2013**
+
+**implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for space heaters and combination heaters**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2016/2282 of 30 November 2016 </td><td> L 346</td><td>51</td><td>20.12.2016</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 813/2013**
+
+**of 2 August 2013**
+
+**implementing Directive 2009/125/EC of the European Parliament and of the Council with regard to ecodesign requirements for space heaters and combination heaters**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes ecodesign requirements for the placing on the market and/or putting into service of space heaters and combination heaters with a rated heat output ≤ 400 kW, including those integrated in packages of space heater, temperature control and solar device or packages of combination heater, temperature control and solar device as defined in Article 2 of Commission Delegated Regulation (EU) No 811/2013.
+
+2\. This Regulation shall not apply to:
+
+(a) heaters specifically designed for using gaseous or liquid fuels predominantly produced from biomass;
+
+(b) heaters using solid fuels;
+
+(c) heaters within the scope of Directive 2010/75/EU of the European Parliament and of the Council ( 1 );
+
+(d) heaters generating heat only for the purpose of providing hot drinking or sanitary water;
+
+(e) heaters for heating and distributing gaseous heat transfer media such as vapour or air;
+
+(f) cogeneration space heaters with a maximum electrical capacity of 50 kW or above;
+
+(g) heat generators designed for heaters and heater housings to be equipped with such heat generators placed on the market before 1 January 2018 to replace identical heat generators and identical heater housings. The replacement product or its packaging shall clearly indicate the heater for which it is intended.
+
+## Article 2 — Definitions
+
+In addition to the definitions set out in Article 2 of Directive 2009/125/EC, the following definitions shall apply for the purposes of this Regulation:
+
+(1) ‘heater’ means a space heater or combination heater;
+
+(2) ‘space heater’ means a device that
+
+(a) provides heat to a water-based central heating system in order to reach and maintain at a desired level the indoor temperature of an enclosed space such as a building, a dwelling or a room; and
+
+(b) is equipped with one or more heat generators;
+
+(3) ‘combination heater’ means a space heater that is designed to also provide heat to deliver hot drinking or sanitary water at given temperature levels, quantities and flow rates during given intervals, and is connected to an external supply of drinking or sanitary water;
+
+(4) ‘water-based central heating system’ means a system using water as a heat transfer medium to distribute centrally generated heat to heat emitters for the space heating of buildings, or parts thereof;
+
+(5) ‘heat generator’ means the part of a heater that generates the heat using one or more of the following processes:
+
+(a) combustion of fossil fuels and/or biomass fuels;
+
+(b) use of the Joule effect in electric resistance heating elements;
+
+(c) capture of ambient heat from an air source, water source or ground source, and/or waste heat;
+
+whereby a heat generator designed for a heater and a heater housing to be equipped with such a heat generator shall be also considered a heater;
+
+(6) ‘heater housing’ means the part of a heater designed to have a heat generator fitted;
+
+(7) ‘rated heat output’ (Prated) means the declared heat output of a heater when providing space heating and, if applicable, water heating at standard rating conditions, expressed in kW; for heat pump space heaters and heat pump combination heaters the standard rating conditions for establishing the rated heat output are the reference design conditions, as set out in Annex III, Table 4;
+
+(8) ‘standard rating conditions’ means the operating conditions of heaters under average climate conditions for establishing the rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and nitrogen oxide emissions;
+
+(9) ‘biomass’ means the biodegradable fraction of products, waste and residues from biological origin from agriculture (including vegetal and animal substances), forestry and related industries including fisheries and aquaculture, as well as the biodegradable fraction of industrial and municipal waste;
+
+(10) ‘biomass fuel’ means a gaseous or liquid fuel produced from biomass;
+
+(11) ‘fossil fuel’ means a gaseous or liquid fuel of fossil origin;
+
+(12) ‘boiler space heater’ means a space heater that generates heat using the combustion of fossil fuels and/or biomass fuels, and/or using the Joule effect in electric resistance heating elements;
+
+(13) ‘boiler combination heater’ means a boiler space heater that is designed to also provide heat to deliver hot drinking or sanitary water at given temperature levels, quantities and flow rates during given intervals, and is connected to an external supply of drinking or sanitary water;
+
+(14) ‘electric boiler space heater’ means a boiler space heater that generates heat using the Joule effect in electric resistance heating elements only;
+
+(15) ‘electric boiler combination heater’ means a boiler combination heater that generates heat using the Joule effect in electric resistance heating elements only;
+
+(16) ‘cogeneration space heater’ means a space heater simultaneously generating heat and electricity in a single process;
+
+(17) ‘heat pump space heater’ means a space heater using ambient heat from an air source, water source or ground source, and/or waste heat for heat generation; a heat pump space heater may be equipped with one or more supplementary heaters using the Joule effect in electric resistance heating elements or the combustion of fossil and/or biomass fuels;
+
+(18) ‘heat pump combination heater’ means a heat pump space heater that is designed to also provide heat to deliver hot drinking or sanitary water at given temperature levels, quantities and flow rates during given intervals, and is connected to an external supply of drinking or sanitary water;
+
+(19) ‘supplementary heater’ means a non-preferential heater that generates heat in cases where the heat demand is greater than the rated heat output of the preferential heater;
+
+(20) ‘seasonal space heating energy efficiency’ (ηs ) means the ratio between the space heating demand for a designated heating season, supplied by a heater and the annual energy consumption required to meet this demand, expressed in %;
+
+(21) ‘water heating energy efficiency’ (ηwh ) means the ratio between the useful energy in the drinking or sanitary water provided by a combination heater and the energy required for its generation, expressed in %;
+
+(22) ‘sound power level’ (LWA ) means the A-weighted sound power level, indoors and/or outdoors, expressed in dB;
+
+(23) ‘conversion coefficient’ (CC) means a coefficient reflecting the estimated 40 % average EU generation efficiency referred to in Directive 2012/27/EU of the European Parliament and of the Council ( 2 ); the value of the conversion coefficient is CC = 2,5.
+
+For the purposes of Annexes II to V, additional definitions are set out in Annex I.
+
+## Article 3 — Ecodesign requirements and timetable
+
+1\. The ecodesign requirements for heaters are set out in Annex II.
+
+2\. Each ecodesign requirements shall apply in accordance with the following timetable:
+
+(a) from 26 September 2015:
+
+(i) heaters shall meet the requirements set out in Annex II, points 1(a), 3 and 5;
+
+(ii) combination heaters shall meet the requirements set out in Annex II, point 2(a);
+
+(b) from 26 September 2017:
+
+(i) electric space heaters, electric combination heaters, cogeneration space heaters, heat pump space heaters and heat pump combination heaters shall meet the requirements set out in Annex II, point 1(b);
+
+(ii) combination heaters shall meet the requirements set out in Annex II, point 2(b);
+
+(c) from 26 September 2018 heaters shall meet the requirements set out in Annex II, point 4(a).
+
+3\. Compliance with ecodesign requirements shall be measured and calculated in accordance with the requirements set out in Annex III.
+
+## Article 4 — Conformity assessment
+
+1\. The conformity assessment procedure referred to in Article 8(2) of Directive 2009/125/EC shall be the internal design control set out in Annex IV to that Directive or the management system set out in Annex V to that Directive without prejudice to Articles 7(2) and 8 of and Annexes III to V to Council Directive 92/42/EEC.
+
+2\. For the purposes of conformity assessment, the technical documentation shall contain the product information set out in point 5(b) of Annex II to this Regulation.
+
+## Article 5 — Verification procedure for market surveillance purposes
+
+When performing the market surveillance checks referred to in Article 3(2) of Directive 2009/125/EC to ensure compliance with the requirements set out in Annex II to this Regulation, the Member States’ authorities shall apply the verification procedure set out in Annex IV to this Regulation.
+
+## Article 6 — Indicative benchmarks
+
+The indicative benchmarks for best-performing heaters available on the market at the time of entry into force of this Regulation are set out in Annex V.
+
+## Article 7 — Review
+
+The Commission shall review this Regulation in the light of technological progress with heaters and present the result of that review to the Ecodesign Consultation Forum no later than five years from the date of entry into force of this Regulation. In particular, the review shall include an assessment of the following aspects:
+
+(a) the appropriateness of setting ecodesign requirements for greenhouse gas emissions related to refrigerants;
+
+(b) on the basis of the measurement methods under development, the level of the ecodesign requirements for emissions of carbon monoxide, hydrocarbons and particulate matter that may be introduced;
+
+(c) the appropriateness of setting stricter ecodesign requirements for the energy efficiency of boiler space heaters and boiler combination heaters, for the sound power level and for emissions of nitrogen oxides;
+
+(d) the appropriateness of setting ecodesign requirements for heaters specifically designed for using gaseous or liquid fuels predominantly produced from biomass;
+
+(e) the validity of the conversion coefficient value;
+
+(f) the appropriateness of third party certification.
+
+## Article 8 — Transitional provisions
+
+1\. Until 26 September 2015 Member States may allow the placing on the market and/or putting into service of heaters which are in conformity with the national provisions in force when this Regulation is adopted regarding seasonal space heating energy efficiency, water heating energy efficiency and sound power level.
+
+2\. Until 26 September 2018 Member States may allow the placing on the market and/or putting into service of heaters, which are in conformity with the national provisions in force when this Regulation is adopted regarding emissions of nitrogen oxides.
+
+## Article 9 — Repeal
+
+Council Directive 92/42/EEC is repealed, except for Articles 7(2) and 8 thereof and Annexes III to V thereto, without prejudice to the obligations of the Member States relating to the transposition into national law and application of that Directive until the ecodesign requirements set out in Annex II of this Regulation start to apply.
+
+## Article 10 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Definitions applicable for Annexes II to V**
+
+For the purposes of Annexes II to V the following definitions shall apply:
+
+**Definitions related to heaters**
+
+(1) ‘standby mode’ means a condition where the heater is connected to the mains power source, depends on energy input from the mains power source to work as intended and provides only the following functions, which may persist for an indefinite time: reactivation function, or reactivation function and only an indication of enabled reactivation function, and/or information or status display;
+
+(2) ‘standby mode power consumption’ (PSB ) means the power consumption of a heater in standby mode, expressed in kW;
+
+(3) ‘average climate conditions’ mean the temperature conditions characteristic for the city of Strasbourg;
+
+(4) ‘temperature control’ means the equipment that interfaces with the end-user regarding the values and timing of the desired indoor temperature, and communicates relevant data to an interface of the heater such as a central processing unit, thus helping to regulate the indoor temperature(s);
+
+(5) ‘gross calorific value’ (GCV) means the total amount of heat released by a unit quantity of fuel when it is burned completely with oxygen and when the products of combustion are returned to ambient temperature; this quantity includes the condensation heat of any water vapour contained in the fuel and of the water vapour formed by the combustion of any hydrogen contained in the fuel;
+
+(6) ‘equivalent model’ means a model placed on the market with the same technical parameters set out in Table 1 or Table 2 (as applicable) of Annex II, point 5, as another model placed on the market by the same manufacturer;
+
+**Definitions related to boiler space heaters, boiler combination heaters and cogeneration space heaters**
+
+(7) ‘fuel boiler space heater’ means a boiler space heater that generates heat by burning fossil fuels and/or biomass fuels, and which may be equipped with one or more additional heat generators using the Joule effect in electric resistance heating elements;
+
+(8) ‘fuel boiler combination heater’ means a boiler combination heater that generates heat by burning fossil fuels and/or biomass fuels, and which may be equipped with one or more additional heat generators using the Joule effect in electric resistance heating elements;
+
+(9) ‘type B1 boiler’ means a fuel boiler space heater incorporating a draught diverter, intended to be connected to a natural draught flue that evacuates the residues of combustion to the outside of the room containing the fuel boiler space heater, and drawing the combustion air directly from the room; a type B1 boiler is marketed as type B1 boiler only;
+
+(10) ‘type B1 combination boiler’ means a fuel boiler combination heater incorporating a draught diverter, intended to be connected to a natural draught flue that evacuates the residues of combustion to the outside of the room containing the fuel boiler combination heater, and drawing the combustion air directly from the room; a type B1 combination boiler is marketed as type B1 combination boiler only;
+
+(11) ‘seasonal space heating energy efficiency in active mode’ (ηson ) means
+
+— for fuel boiler space heaters and fuel boiler combination heaters, a weighted average of the useful efficiency at rated heat output and the useful efficiency at 30 % of the rated heat output, expressed in %;
+
+— for electric boiler space heaters and electric boiler combination heaters, the useful efficiency at rated heat output, expressed in %;
+
+— for cogeneration space heaters not equipped with supplementary heaters, the useful efficiency at rated heat output, expressed in %;
+
+— for cogeneration space heaters equipped with supplementary heaters, a weighted average of the useful efficiency at rated heat output with supplementary heater disabled, and the useful efficiency at rated heat output with supplementary heater enabled, expressed in %;
+
+(12) ‘useful efficiency’ (η) means the ratio of the useful heat output and the total energy input of a boiler space heater, boiler combination heater or cogeneration space heater, expressed in %, whereby the total energy input is expressed in terms of GCV and/or in terms of final energy multiplied by CC;
+
+(13) ‘useful heat output’ (P) means the heat output of a boiler space heater, boiler combination heater or cogeneration space heater transmitted to the heat carrier, expressed in kW;
+
+(14) ‘electrical efficiency’ (ηel ) means the ratio of the electricity output and the total energy input of a cogeneration space heater, expressed in %, whereby the total energy input is expressed in terms of GCV and/or in terms of final energy multiplied by CC;
+
+(15) ‘ignition burner power consumption’ (Pign ) means the power consumption of a burner intended to ignite the main burner, expressed in W in terms of GCV;
+
+(16) ‘condensing boiler’ means a boiler space heater or boiler combination heater in which, under normal operating conditions and at given operating water temperatures, the water vapour in the combustion products is partially condensed, in order to make use of the latent heat of this water vapour for heating purposes;
+
+(17) ‘auxiliary electricity consumption’ means the annual electricity required for the designated operation of a boiler space heater, boiler combination heater or cogeneration space heater, calculated from the electric power consumption at full load (elmax), at part load (elmin), in standby mode and default operating hours at each mode, expressed in kWh in terms of final energy;
+
+(18) ‘standby heat loss’ (Pstby ) means the heat loss of a boiler space heater, boiler combination heater or cogeneration space heater in operating modes without heat demand, expressed in kW;
+
+**Definitions related to heat pump space heaters and heat pump combination heaters**
+
+(19) ‘outdoor temperature’ (Tj ) means the dry bulb outdoor air temperature, expressed in degrees Celsius; the relative humidity may be indicated by a corresponding wet bulb temperature;
+
+(20) ‘rated coefficient of performance’ (COPrated ) or ‘rated primary energy ratio’ (PERrated ) means the declared capacity for heating, expressed in kW, divided by the energy input, expressed in kW in terms of GCV and/or in kW in terms of final energy multiplied by CC, for heating provided at standard rating conditions;
+
+(21) ‘reference design conditions’ means the combination of the reference design temperature, the maximum bivalent temperature and the maximum operation limit temperature, as set out in Annex III, Table 4;
+
+(22) ‘reference design temperature’ (Tdesignh) means the outdoor temperature, expressed in degrees Celsius, as set out in Annex III, Table 4, at which the part load ratio is equal to 1;
+
+(23) ‘part load ratio’ (pl(Tj )) means the outdoor temperature minus 16 °C divided by the reference design temperature minus 16 °C;
+
+(24) ‘heating season’ means a set of operating conditions describing per bin the combination of outdoor temperatures and the number of hours these temperatures occur per season;
+
+(25) ‘bin’ (binj ) means a combination of an outdoor temperature and bin hours, as set out in Annex III, Table 5;
+
+(26) ‘bin hours’ (Hj ) means the hours per heating season, expressed in hours per year, at which an outdoor temperature occurs for each bin, as set out in Annex III, Table 5;
+
+(27) ‘part load for heating’ (Ph(Tj )) means the heating load at a specific outdoor temperature, calculated as the design load multiplied by the part load ratio and expressed in kW;
+
+(28) ‘seasonal coefficient of performance’ (SCOP) or ‘seasonal primary energy ratio’ (SPER) is the overall coefficient of performance of a heat pump space heater or heat pump combination heater using electricity or the overall primary energy ratio of a heat pump space heater or heat pump combination heater using fuels, representative of the designated heating season, calculated as the reference annual heating demand divided by the annual energy consumption;
+
+(29) ‘reference annual heating demand’ (QH ) means the reference heating demand for a designated heating season, to be used as the basis for calculating SCOP or SPER and calculated as the product of the design load for heating and the annual equivalent active mode hours, expressed in kWh;
+
+(30) ‘annual energy consumption’ (QHE ) means the energy consumption required to meet the reference annual heating demand for a designated heating season, expressed in kWh in terms of GCV and/or in kWh in terms of the final energy multiplied by CC;
+
+(31) ‘annual equivalent active mode hours’ (HHE ) means the assumed annual number of hours a heat pump space heater or heat pump combination heater has to provide the design load for heating to satisfy the reference annual heating demand, expressed in h;
+
+(32) ‘active mode coefficient of performance’ (SCOPon ) or ‘active mode primary energy ratio’ (SPERon ) means the average coefficient of performance of the heat pump space heater or heat pump combination heater using electricity in active mode, or the average primary energy ratio of the heat pump space heater or heat pump combination heater using fuels in active mode for the designated heating season;
+
+(33) ‘supplementary capacity for heating’ (sup(Tj )) means the rated heat output Psup of a supplementary heater that supplements the declared capacity for heating to meet the part load for heating, if the declared capacity for heating is less than the part load for heating, expressed in kW;
+
+(34) ‘bin-specific coefficient of performance’ (COPbin(Tj )) or ‘bin-specific primary energy ratio’ (PERbin(Tj )) means the coefficient of performance of the heat pump space heater or heat pump combination heater using electricity, or primary energy ratio of the heat pump space heater or heat pump combination heater using fuel specific for every bin in a season, derived from the part load for heating, declared capacity for heating and declared coefficient of performance for specified bins and calculated for other bins by interpolation or extrapolation, corrected where necessary by the degradation coefficient;
+
+(35) ‘declared capacity for heating’ (Pdh(Tj )) means the heating capacity a heat pump space heater or heat pump combination heater is able to deliver, for an outdoor temperature, expressed in kW;
+
+(36) ‘capacity control’ means the ability of a heat pump space heater or heat pump combination heater to change its capacity by changing the volumetric flow rate of at least one of the fluids needed to operate the refrigeration cycle, to be indicated as ‘fixed’ if the volumetric flow rate cannot be changed or ‘variable’ if the volumetric flow rate is changed or varied in series of two or more steps;
+
+(37) ‘design load for heating’ (Pdesignh) means the rated heat output (Prated) of a heat pump space heater or heat pump combination heater at the reference design temperature, whereby the design load for heating is equal to the part load for heating with outdoor temperature equal to reference design temperature, expressed in kW;
+
+(38) ‘declared coefficient of performance’ (COPd(Tj )) or ‘declared primary energy ratio’ (PERd(Tj )) means the coefficient of performance or primary energy ratio at a limited number of specified bins;
+
+(39) ‘bivalent temperature’ (Tbiv ) means the outdoor temperature declared by the manufacturer for heating at which the declared capacity for heating equals the part load for heating and below which the declared capacity for heating requires supplementary capacity for heating to meet the part load for heating, expressed in degrees Celsius;
+
+(40) ‘operation limit temperature’ (TOL) means the outdoor temperature declared by the manufacturer for heating, below which the air-to-water heat pump space heater or air-to-water heat pump combination heater will not be able to deliver any heating capacity and the declared capacity for heating is equal to zero, expressed in degrees Celsius;
+
+(41) ‘heating water operation limit temperature’ (WTOL) means the outlet water temperature declared by the manufacturer for heating, above which the heat pump space heater or heat pump combination heater will not be able to deliver any heating capacity and the declared capacity for heating is equal to zero, expressed in degrees Celsius;
+
+(42) ‘cycling interval capacity for heating’ (Pcych) means the integrated heating capacity over the cycling test interval for heating, expressed in kW;
+
+(43) ‘cycling interval efficiency’ (COPcyc or PERcyc) means the average coefficient of performance or average primary energy ratio over the cycling test interval, calculated as the integrated heating capacity over the interval, expressed in kWh, divided by the integrated energy input over that same interval, expressed in kWh in terms of GCV and/or in kWh in terms of final energy multiplied by CC;
+
+(44) ‘degradation coefficient’ (Cdh) means the measure of efficiency loss due to cycling of heat pump space heaters or heat pump combination heaters; if Cdh is not determined by measurement then the default degradation coefficient is Cdh = 0,9;
+
+(45) ‘active mode’ means the condition corresponding to the hours with a heating load for the enclosed space and activated heating function; this condition may involve cycling of the heat pump space heater or heat pump combination heater to reach or maintain a required indoor air temperature;
+
+(46) ‘off mode’ means a condition in which the heat pump space heater or heat pump combination heater is connected to the mains power source and is not providing any function, including conditions providing only an indication of off mode condition and conditions providing only functionalities intended to ensure electromagnetic compatibility pursuant to Directive 2004/108/EC of the European Parliament and of the Council ( 3 );
+
+(47) ‘thermostat-off mode’ means the condition corresponding to the hours with no heating load and activated heating function, whereby the heating function is switched on but the heat pump space heater or heat pump combination heater is not operational; cycling in active mode is not considered as thermostat-off mode;
+
+(48) ‘crankcase heater mode’ means the condition in which a heating device is activated to avoid the refrigerant migrating to the compressor so as to limit the refrigerant concentration in oil when the compressor is started;
+
+(49) ‘off mode power consumption’ (POFF ) means the power consumption of a heat pump space heater or heat pump combination heater in off mode, expressed in kW;
+
+(50) ‘thermostat-off mode power consumption’ (PTO ) means the power consumption of the heat pump space heater or heat pump combination heater while in thermostat-off mode, expressed in kW;
+
+(51) ‘crankcase heater mode power consumption’ (PCK ) means the power consumption of the heat pump space heater or heat pump combination heater while in crankcase heater mode, expressed in kW;
+
+(52) ‘low-temperature heat pump’ means a heat pump space heater that is specifically designed for low-temperature application, and that cannot deliver heating water with an outlet temperature of 52 °C at an inlet dry (wet) bulb temperature of – 7 °C (– 8 °C) in the reference design conditions for average climate;
+
+(53) ‘low-temperature application’ means an application where the heat pump space heater delivers its declared capacity for heating at an indoor heat exchanger outlet temperature of 35 °C;
+
+(54) ‘medium-temperature application’ means an application where the heat pump space heater or heat pump combination heater delivers its declared capacity for heating at an indoor heat exchanger outlet temperature of 55 °C;
+
+**Definitions related to water heating in combination heaters**
+
+(55) ‘load profile’ means a given sequence of water draw-offs, as specified in Annex III, Table 7; each combination heater meets at least one load profile;
+
+(56) ‘water draw-off’ means a given combination of useful water flow rate, useful water temperature, useful energy content and peak temperature, as specified in Annex III, Table 7;
+
+(57) ‘useful water flow rate’ (f) means the minimum flow rate, expressed in litres per minute, for which hot water is contributing to the reference energy, as specified in Annex III, Table 7;
+
+(58) ‘useful water temperature’ (Tm ) means the water temperature, expressed in degrees Celsius, at which hot water starts contributing to the reference energy, as specified in Annex III, Table 7;
+
+(59) ‘useful energy content’ (Qtap ) means the energy content of hot water, expressed in kWh, provided at a temperature equal to, or above, the useful water temperature, and at water flow rates equal to, or above, the useful water flow rate, as specified in Annex III, Table 7;
+
+(60) ‘energy content of hot water’ means the product of the specific heat capacity of water, the average temperature difference between the hot water output and cold water input, and the total mass of the hot water delivered;
+
+(61) ‘peak temperature’ (Tp ) means the minimum water temperature, expressed in degrees Celsius, to be achieved during water draw-off, as specified in Annex III, Table 7;
+
+(62) ‘reference energy’ (Qref ) means the sum of the useful energy content of water draw-offs, expressed in kWh, in a particular load profile, as specified in Annex III, Table 7;
+
+(63) ‘maximum load profile’ means the load profile with the greatest reference energy that a combination heater is able to provide while fulfilling the temperature and flow rate conditions of that load profile;
+
+(64) ‘declared load profile’ means the load profile applied for conformity assessment;
+
+(65) ‘daily electricity consumption’ (Qelec ) means the consumption of electricity for water heating over 24 consecutive hours under the declared load profile, expressed in kWh in terms of final energy;
+
+(66) ‘daily fuel consumption’ (Qfuel ) means the consumption of fuels for water heating over 24 consecutive hours under the declared load profile, expressed in kWh in terms of GCV.
+
+## ANNEX II
+
+**Ecodesign requirements**
+
+**1\. REQUIREMENTS FOR SEASONAL SPACE HEATING ENERGY EFFICIENCY**
+
+(a) From 26 September 2015 the seasonal space heating energy efficiency and useful efficiencies of heaters shall not fall below the following values:
+
+Fuel boiler space heaters with rated heat output ≤ 70 kW and fuel boiler combination heaters with rated heat output ≤ 70 kW, with the exception of type B1 boilers with rated heat output ≤ 10 kW and type B1 combination boilers with rated heat output ≤ 30 kW:
+
+The seasonal space heating energy efficiency shall not fall below 86 %.
+
+Type B1 boilers with rated heat output ≤ 10 kW and type B1 combination boilers with rated heat output ≤ 30 kW:
+
+The seasonal space heating energy efficiency shall not fall below 75 %.
+
+Fuel boiler space heaters with rated heat output > 70 kW and ≤ 400 kW and fuel boiler combination heaters with rated heat output > 70 kW and ≤ 400 kW:
+
+The useful efficiency at 100 % of the rated heat output shall not fall below 86 %, and the useful efficiency at 30 % of the rated heat output shall not fall below 94 %.
+
+Electric boiler space heaters and electric boiler combination heaters:
+
+The seasonal space heating energy efficiency shall not fall below 30 %.
+
+Cogeneration space heaters:
+
+The seasonal space heating energy efficiency shall not fall below 86 %.
+
+Heat pump space heaters and heat pump combination heaters, with the exception of low-temperature heat pumps:
+
+The seasonal space heating energy efficiency shall not fall below 100 %.
+
+Low-temperature heat pumps:
+
+The seasonal space heating energy efficiency shall not fall below 115 %.
+
+(b) From 26 September 2017 the seasonal space heating energy efficiency of electric boiler space heaters, electric boiler combination heaters, cogeneration space heaters, heat pump space heaters and heat pump combination heaters shall not fall below the following values:
+
+Electric boiler space heaters and electric boiler combination heaters:
+
+The seasonal space heating energy efficiency shall not fall below 36 %.
+
+Cogeneration space heaters:
+
+The seasonal space heating energy efficiency shall not fall below 100 %.
+
+Heat pump space heaters and heat pump combination heaters, with the exception of low-temperature heat pumps:
+
+The seasonal space heating energy efficiency shall not fall below 110 %.
+
+Low-temperature heat pumps:
+
+The seasonal space heating energy efficiency shall not fall below 125 %.
+
+**2\. REQUIREMENTS FOR WATER HEATING ENERGY EFFICIENCY**
+
+(a) From 26 September 2015 the water heating energy efficiency of combination heaters shall not fall below the following values:
+
+| Declared load profile | 3XS | XXS | XS | S | M | L | XL | XXL | 3XL | 4XL |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Water heating energy efficiency | 22 % | 23 % | 26 % | 26 % | 30 % | 30 % | 30 % | 32 % | 32 % | 32 % |
+
+(b) From 26 September 2017 the water heating energy efficiency of combination heaters shall not fall below the following values:
+
+| Declared load profile | 3XS | XXS | XS | S | M | L | XL | XXL | 3XL | 4XL |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Water heating energy efficiency | 32 % | 32 % | 32 % | 32 % | 36 % | 37 % | 38 % | 60 % | 64 % | 64 % |
+
+**3\. REQUIREMENTS FOR SOUND POWER LEVEL**
+
+From 26 September 2015 the sound power level of heat pump space heaters and heat pump combination heaters shall not exceed the following values:
+
+<table>
+<tbody><tr><td colspan="2">Rated heat output ≤ 6 kW</td><td colspan="2">Rated heat output &gt; 6 kW and ≤ 12 kW</td><td colspan="2">Rated heat output &gt; 12 kW and ≤ 30 kW</td><td colspan="2">Rated heat output &gt; 30 kW and ≤ 70 kW</td></tr>
+<tr><td>Sound power level (LWA), indoors</td><td>Sound power level (LWA), outdoors</td><td>Sound power level (LWA), indoors</td><td>Sound power level (LWA), outdoors</td><td>Sound power level (LWA), indoors</td><td>Sound power level (LWA), outdoors</td><td>Sound power level (LWA), indoors</td><td>Sound power level (LWA), outdoors</td></tr>
+<tr><td>60 dB</td><td>65 dB</td><td>65 dB</td><td>70 dB</td><td>70 dB</td><td>78 dB</td><td>80 dB</td><td>88 dB</td></tr>
+</tbody>
+</table>
+
+**4\. REQUIREMENTS FOR EMISSIONS OF NITROGEN OXIDES**
+
+(a) From 26 September 2018 emissions of nitrogen oxides, expressed in nitrogen dioxide, of heaters shall not exceed the following values:
+
+— fuel boiler space heaters and fuel boiler combination heaters using gaseous fuels: 56 mg/kWh fuel input in terms of GCV;
+
+— fuel boiler space heaters and fuel boiler combination heaters using liquid fuels: 120 mg/kWh fuel input in terms of GCV;
+
+— cogeneration space heaters equipped with external combustion using gaseous fuels: 70 mg/kWh fuel input in terms of GCV;
+
+— cogeneration space heaters equipped with external combustion using liquid fuels: 120 mg/kWh fuel input in terms of GCV;
+
+— cogeneration space heaters equipped with an internal combustion engine using gaseous fuels: 240 mg/kWh fuel input in terms of GCV;
+
+— cogeneration space heaters equipped with an internal combustion engine using liquid fuels: 420 mg/kWh fuel input in terms of GCV;
+
+— heat pump space heaters and heat pump combination heaters equipped with external combustion using gaseous fuels: 70 mg/kWh fuel input in terms of GCV;
+
+— heat pump space heaters and heat pump combination heaters equipped with external combustion using liquid fuels: 120 mg/kWh fuel input in terms of GCV;
+
+— heat pump space heaters and heat pump combination heaters equipped with an internal combustion engine using gaseous fuels: 240 mg/kWh fuel input in terms of GCV;
+
+— heat pump space heaters and heat pump combination heaters equipped with an internal combustion engine using liquid fuels: 420 mg/kWh fuel input in terms of GCV.
+
+**5\. REQUIREMENTS FOR PRODUCT INFORMATION**
+
+From 26 September 2015 the following product information on heaters shall be provided:
+
+(a) the instruction manuals for installers and end-users, and free access websites of manufacturers, their authorised representatives and importers shall contain the following elements:
+
+— for boiler space heaters, boiler combination heaters and cogeneration space heaters, the technical parameters set out in Table 1, measured and calculated in accordance with Annex III;
+
+— for heat pump space heaters and heat pump combination heaters, the technical parameters set out in Table 2, measured and calculated in accordance with Annex III;
+
+— any specific precautions that shall be taken when the heater is assembled, installed or maintained;
+
+— for type B1 boilers and type B1 combination boilers, their characteristics and the following standard text: ‘This natural draught boiler is intended to be connected only to a flue shared between multiple dwellings in existing buildings that evacuates the residues of combustion to the outside of the room containing the boiler. It draws the combustion air directly from the room and incorporates a draught diverter. Due to lower efficiency, any other use of this boiler shall be avoided and would result in higher energy consumption and higher operating costs.’;
+
+— for heat generators designed for heaters, and heater housings to be equipped with such heat generators, their characteristics, the requirements for assembly, to ensure compliance with the ecodesign requirements for heaters and, where appropriate, the list of combinations recommended by the manufacturer;
+
+— information relevant for disassembly, recycling and/or disposal at end-of-life;
+
+(b) the technical documentation for the purposes of conformity assessment pursuant to Article 4 shall contain the following elements:
+
+— the elements specified in point (a);
+
+— for heat pump space heaters and heat pump combination heaters where the information relating to a specific model comprising a combination of indoor and outdoor units has been obtained by calculation on the basis of design and/or extrapolation from other combinations, the details of such calculations and/or extrapolations, and of any tests undertaken to verify the accuracy of the calculations, including details of the mathematical model for calculating the performance of such combinations and details of the measurements taken to verify this model;
+
+(c) the following information shall be durably marked on the heater:
+
+— if applicable, ‘type B1 boiler’ or ‘type B1 combination boiler’;
+
+— for cogeneration space heaters, the electrical capacity.
+
+**Table 1**
+
+**Information requirements for boiler space heaters, boiler combination heaters and cogeneration space heaters**
+
+<table>
+<tbody><tr><td colspan="9">Model(s): [information identifying the model(s) to which the information relates]</td></tr>
+<tr><td colspan="9">Condensing boiler: [yes/no]</td></tr>
+<tr><td colspan="9">Low-temperature (*2) boiler: [yes/no]</td></tr>
+<tr><td colspan="9">B1 boiler: [yes/no]</td></tr>
+<tr><td colspan="5">Cogeneration space heater: [yes/no]</td><td colspan="4">If yes, equipped with a supplementary heater: [yes/no]</td></tr>
+<tr><td colspan="9">Combination heater: [yes/no]</td></tr>
+<tr><td>Item</td><td>Symbol</td><td>Value</td><td>Unit</td><td rowspan="16">  </td><td>Item</td><td>Symbol</td><td>Value</td><td>Unit</td></tr>
+<tr><td>Rated heat output</td><td>Prated</td><td>x</td><td>kW</td><td>Seasonal space heating energy efficiency</td><td>ηs</td><td>x</td><td>%</td></tr>
+<tr><td colspan="4">For boiler space heaters and boiler combination heaters: Useful heat output</td><td colspan="4">For boiler space heaters and boiler combination heaters: Useful efficiency</td></tr>
+<tr><td>At rated heat output and high-temperature regime (*1)</td><td>P4</td><td>x,x</td><td>kW</td><td>At rated heat output and high-temperature regime (*1)</td><td>η4</td><td>x,x</td><td>%</td></tr>
+<tr><td>At 30 % of rated heat output and low-temperature regime (*2)</td><td>P1</td><td>x,x</td><td>kW</td><td>At 30 % of rated heat output and low-temperature regime (*2)</td><td>η1</td><td>x,x</td><td>%</td></tr>
+<tr><td colspan="4">For cogeneration space heaters: Useful heat output</td><td colspan="4">For cogeneration space heaters: Useful efficiency</td></tr>
+<tr><td>At rated heat output of cogeneration space heater with supplementary heater disabled</td><td>PCHP100 + Sup0</td><td>x,x</td><td>kW</td><td>At rated heat output of cogeneration space heater with supplementary heater disabled</td><td>ηCHP100 + Sup0</td><td>x,x</td><td>%</td></tr>
+<tr><td>At rated heat output of cogeneration space heater with supplementary heater enabled</td><td>PCHP100 + Sup100</td><td>x,x</td><td>kW</td><td>At rated heat output of cogeneration space heater with supplementary heater enabled</td><td>ηCHP100 + Sup100</td><td>x,x</td><td>%</td></tr>
+<tr><td colspan="4">For cogeneration space heaters: Electrical efficiency</td><td colspan="4">Supplementary heater</td></tr>
+<tr><td>At rated heat output of cogeneration space heater with supplementary heater disabled</td><td>ηel,CHP100 + Sup0</td><td>x,x</td><td>%</td><td>Rated heat output</td><td>Psup</td><td>x,x</td><td>kW</td></tr>
+<tr><td>At rated heat output of cogeneration space heater with supplementary heater enabled</td><td>ηel,CHP100 + Sup100</td><td>x,x</td><td>%</td><td>Type of energy input</td><td colspan="3">  </td></tr>
+<tr><td colspan="4">Auxiliary electricity consumption</td><td colspan="4">Other items</td></tr>
+<tr><td>At full load</td><td>elmax</td><td>x,xxx</td><td>kW</td><td>Standby heat loss</td><td>Pstby</td><td>x,xxx</td><td>kW</td></tr>
+<tr><td>At part load</td><td>elmin</td><td>x,xxx</td><td>kW</td><td>Ignition burner power consumption</td><td>Pign</td><td>x,xxx</td><td>kW</td></tr>
+<tr><td>In standby mode</td><td>PSB</td><td>x,xxx</td><td>kW</td><td>Emissions of nitrogen oxides</td><td>NOx</td><td>x</td><td>mg/kWh</td></tr>
+<tr><td colspan="9">For combination heaters:</td></tr>
+<tr><td>Declared load profile</td><td colspan="3">  </td><td rowspan="3">  </td><td>Water heating energy efficiency</td><td>ηwh</td><td>x</td><td>%</td></tr>
+<tr><td>Daily electricity consumption</td><td>Qelec</td><td>x,xxx</td><td>kWh</td><td>Daily fuel consumption</td><td>Qfuel</td><td>x,xxx</td><td>kWh</td></tr>
+<tr><td>Contact details</td><td colspan="8">Name and address of the manufacturer or its authorised representative.</td></tr>
+<tr><td colspan="9">(*1)  High-temperature regime means 60 °C return temperature at heater inlet and 80 °C feed temperature at heater outlet.  (*2)  Low temperature means for condensing boilers 30 °C, for low-temperature boilers 37 °C and for other heaters 50 °C return temperature (at heater inlet). </td></tr>
+</tbody>
+</table>
+
+**Table 2**
+
+**Information requirements for heat pump space heaters and heat pump combination heaters**
+
+<table>
+<tbody><tr><td colspan="9">Model(s): [information identifying the model(s) to which the information relates]</td></tr>
+<tr><td colspan="9">Air-to-water heat pump: [yes/no]</td></tr>
+<tr><td colspan="9">Water-to-water heat pump: [yes/no]</td></tr>
+<tr><td colspan="9">Brine-to-water heat pump: [yes/no]</td></tr>
+<tr><td colspan="9">Low-temperature heat pump: [yes/no]</td></tr>
+<tr><td colspan="9">Equipped with a supplementary heater: [yes/no]</td></tr>
+<tr><td colspan="9">Heat pump combination heater: [yes/no]</td></tr>
+<tr><td colspan="9">Parameters shall be declared for medium-temperature application, except for low-temperature heat pumps. For low-temperature heat pumps, parameters shall be declared for low-temperature application.</td></tr>
+<tr><td colspan="9">Parameters shall be declared for average climate conditions.</td></tr>
+<tr><td>Item</td><td>Symbol</td><td>Value</td><td>Unit</td><td rowspan="23">  </td><td>Item</td><td>Symbol</td><td>Value</td><td>Unit</td></tr>
+<tr><td>Rated heat output(*1)</td><td>Prated</td><td>x</td><td>kW</td><td>Seasonal space heating energy efficiency</td><td>ηs</td><td>x</td><td>%</td></tr>
+<tr><td colspan="4">Declared capacity for heating for part load at indoor temperature 20 °C and outdoor temperature Tj</td><td colspan="4">Declared coefficient of performance or primary energy ratio for part load at indoor temperature 20 °C and outdoor temperature Tj</td></tr>
+<tr><td>Tj = – 7 °C</td><td>Pdh</td><td>x,x</td><td>kW</td><td>Tj = – 7 °C</td><td>COPd or PERd</td><td>x,xx or x,x</td><td>– or %</td></tr>
+<tr><td>Tj = + 2 °C</td><td>Pdh</td><td>x,x</td><td>kW</td><td>Tj = + 2 °C</td><td>COPd or PERd</td><td>x,xx or x,x</td><td>– or %</td></tr>
+<tr><td>Tj = + 7 °C</td><td>Pdh</td><td>x,x</td><td>kW</td><td>Tj = + 7 °C</td><td>COPd or PERd</td><td>x,xx or x,x</td><td>– or %</td></tr>
+<tr><td>Tj = + 12 °C</td><td>Pdh</td><td>x,x</td><td>kW</td><td>Tj = + 12 °C</td><td>COPd or PERd</td><td>x,xx or x,x</td><td>– or %</td></tr>
+<tr><td>Tj = bivalent temperature</td><td>Pdh</td><td>x,x</td><td>kW</td><td>Tj = bivalent temperature</td><td>COPd or PERd</td><td>x,xx or x,x</td><td>– or %</td></tr>
+<tr><td>Tj = operation limit temperature</td><td>Pdh</td><td>x,x</td><td>kW</td><td>Tj = operation limit temperature</td><td>COPd or PERd</td><td>x,xx or x,x</td><td>– or %</td></tr>
+<tr><td>For air-to-water heat pumps: Tj = – 15 °C (if TOL &lt; – 20 °C)</td><td>Pdh</td><td>x,x</td><td>kW</td><td>For air-to-water heat pumps: Tj = – 15 °C (if TOL &lt; – 20 °C)</td><td>COPd or PERd</td><td>x,xx or x,x</td><td>– or %</td></tr>
+<tr><td>Bivalent temperature</td><td>Tbiv</td><td>x</td><td>°C</td><td>For air-to-water heat pumps: Operation limit temperature</td><td>TOL</td><td>x</td><td>°C</td></tr>
+<tr><td>Cycling interval capacity for heating</td><td>Pcych</td><td>x,x</td><td>kW</td><td>Cycling interval efficiency</td><td>COPcyc or PERcyc</td><td>x,xx or x,x</td><td>– or %</td></tr>
+<tr><td>Degradation co-efficient (*2)</td><td>Cdh</td><td>x,x</td><td>—</td><td>Heating water operating limit temperature</td><td>WTOL</td><td>x</td><td>°C</td></tr>
+<tr><td colspan="4">Power consumption in modes other than active mode</td><td colspan="4">Supplementary heater</td></tr>
+<tr><td>Off mode</td><td>POFF</td><td>x,xxx</td><td>kW</td><td>Rated heat output (*1)</td><td>Psup</td><td>x,x</td><td>kW</td></tr>
+<tr><td>Thermostat-off mode</td><td>PTO</td><td>x,xxx</td><td>kW</td><td>  </td><td colspan="3" rowspan="4">  </td></tr>
+<tr><td>Standby mode</td><td>PSB</td><td>x,xxx</td><td>kW</td><td>Type of energy input</td></tr>
+<tr><td>Crankcase heater mode</td><td>PCK</td><td>x,xxx</td><td>kW</td><td>  </td></tr>
+<tr><td colspan="4">Other items</td><td colspan="4">  </td></tr>
+<tr><td>Capacity control</td><td colspan="3">fixed/variable</td><td>For air-to-water heat pumps: Rated air flow rate, outdoors</td><td>—</td><td>x</td><td>m3/h</td></tr>
+<tr><td>Sound power level, indoors/outdoors</td><td>LWA</td><td>x/x</td><td>dB</td><td rowspan="3">For water-/brine-to-water heat pumps: Rated brine or water flow rate, outdoor heat exchanger</td><td rowspan="3">—</td><td rowspan="3">x</td><td rowspan="3">m3/h</td></tr>
+<tr><td>Emissions of nitrogen oxides</td><td>NOx</td><td>x</td><td>mg/kWh</td></tr>
+<tr><td colspan="9">For heat pump combination heater:</td></tr>
+<tr><td>Declared load profile</td><td colspan="3">x</td><td rowspan="3">  </td><td>Water heating energy efficiency</td><td>ηwh</td><td>x</td><td>%</td></tr>
+<tr><td>Daily electricity consumption</td><td>Qelec</td><td>x,xxx</td><td>kWh</td><td>Daily fuel consumption</td><td>Qfuel</td><td>x,xxx</td><td>kWh</td></tr>
+<tr><td>Contact details</td><td colspan="8">Name and address of the manufacturer or its authorised representative.</td></tr>
+<tr><td colspan="9">(*1)  For heat pump space heaters and heat pump combination heaters, the rated heat output Prated is equal to the design load for heating Pdesignh, and the rated heat output of a supplementary heater Psup is equal to the supplementary capacity for heating sup(Tj).  (*2)  If Cdh is not determined by measurement then the default degradation coefficient is Cdh = 0,9. </td></tr>
+</tbody>
+</table>
+
+## ANNEX III
+
+**Measurements and calculations**
+
+1\. For the purposes of compliance and verification of compliance with the requirements of this Regulation, measurements and calculations shall be made using harmonised standards the reference numbers of which have been published for this purpose in the Official Journal of the European Union, or using other reliable, accurate and reproducible methods that take into account the generally recognised state-of-the-art methods. They shall meet the conditions and technical parameters set out in points 2 to 5.
+
+2\. General conditions for measurements and calculations
+
+(a) For the purposes of the measurements set out in points 2 to 5, the indoor ambient temperature shall be set at 20 °C ± 1 °C.
+
+(b) For the purposes of the calculations set out in points 3 to 5, consumption of electricity shall be multiplied by a conversion coefficient CC of 2,5.
+
+(c) Emissions of nitrogen oxides shall be measured as the sum of nitrogen monoxide and nitrogen dioxide, and expressed in nitrogen dioxide.
+
+(d) For heaters equipped with supplementary heaters, the measurement and calculation of rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall take account of the supplementary heater.
+
+(e) Declared values for rated heat output, seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides shall be rounded to the nearest integer.
+
+(f) Any heat generator designed for a heater, and any heater housing to be equipped with such a heat generator, shall be tested with an appropriate heater housing and heat generator, respectively.
+
+3\. Seasonal space heating energy efficiency of boiler space heaters, boiler combination heaters and cogeneration space heaters
+
+The seasonal space heating energy efficiency ηs shall be calculated as the seasonal space heating energy efficiency in active mode ηson , corrected by contributions accounting for temperature controls, auxiliary electricity consumption, standby heat loss, ignition burner power consumption (if applicable) and, for cogeneration space heaters, corrected by adding the electrical efficiency multiplied by a conversion coefficient CC of 2,5.
+
+4\. Seasonal space heating energy efficiency of heat pump space heaters and heat pump combination heaters
+
+(a) For establishing the rated coefficient of performance COPrated or rated primary energy ratio PERrated , the sound power level or emissions of nitrogen oxides, the operating conditions shall be the standard rating conditions set out in Table 3 and the same declared capacity for heating shall be used.
+
+(b) The active mode coefficient of performance SCOPon or active mode primary energy ratio SPERon shall be calculated on the basis of the part load for heating Ph(Tj), the supplementary capacity for heating sup(Tj) (if applicable) and the bin-specific coefficient of performance COPbin(Tj) or bin-specific primary energy ratio PERbin(Tj), weighted by the bin-hours for which the bin conditions apply, using the following conditions:
+
+— the reference design conditions set out in Table 4;
+
+— the European reference heating season under average climate conditions set out in Table 5;
+
+— if applicable, the effects of any degradation of energy efficiency caused by cycling depending on the type of control of the heating capacity.
+
+(c) The reference annual heat demand QH shall be the design load for heating Pdesignh multiplied by the annual equivalent active mode hours HHE of 2 066 .
+
+(d) The annual energy consumption QHE shall be calculated as the sum of:
+
+— the ratio of the reference annual heating demand QH and the active mode coefficient of performance SCOPon or active mode primary energy ratio SPERon and
+
+— the energy consumption for off, thermostat-off, standby, and crankcase heater mode during the heating season.
+
+(e) The seasonal coefficient of performance SCOP or seasonal primary energy ratio SPER shall be calculated as the ratio of the reference annual heat demand QH and the annual energy consumption QHE .
+
+(f) The seasonal space heating energy efficiency ηs shall be calculated as the seasonal coefficient of performance SCOP divided by the conversion coefficient CC or the seasonal primary energy ratio SPER, corrected by contributions accounting for temperature controls and, for water-/brine-to-water heat pump space heaters and heat pump combination heaters, the electricity consumption of one or more ground water pumps.
+
+5\. Water heating energy efficiency of combination heaters
+
+The water heating energy efficiency ηwh of a combination heater shall be calculated as the ratio between the reference energy Qref of the declared load profile and the energy required for its generation under the following conditions:
+
+(a) measurements shall be carried out using the load profiles set out in Table 7;
+
+(b) measurements shall be carried out using a 24-hour measurement cycle as follows:
+
+— 00:00 to 06:59: no water draw-off;
+
+— from 07:00: water draw-offs according to the declared load profile;
+
+— from end of last water draw-off until 24:00: no water draw-off;
+
+(c) the declared load profile shall be the maximum load profile or the load profile one below the maximum load profile;
+
+(d) for heat pump combination heaters, the following additional conditions apply:
+
+— heat pump combination heaters shall be tested under the conditions set out in Table 3;
+
+— heat pump combination heaters which use ventilation exhaust air as the heat source shall be tested under the conditions set out in Table 6.
+
+**Table 3**
+
+**Standard rating conditions for heat pump space heaters and heat pump combination heaters**
+
+<table>
+<tbody><tr><td rowspan="3">Heat source</td><td>Outdoor heat exchanger</td><td colspan="4">Indoor heat exchanger</td></tr>
+<tr><td rowspan="2">Inlet dry bulb (wet bulb) temperature</td><td colspan="2">Heat pump space heaters and heat pump combination heaters, except low-temperature heat pumps</td><td colspan="2">Low-temperature heat pumps</td></tr>
+<tr><td>Inlet temperature</td><td>Outlet temperature</td><td>Inlet temperature</td><td>Outlet temperature</td></tr>
+<tr><td>Outdoor air</td><td>+ 7 °C (+ 6 °C)</td><td rowspan="5">+ 47 °C</td><td rowspan="5">+ 55 °C</td><td rowspan="5">+ 30 °C</td><td rowspan="5">+ 35 °C</td></tr>
+<tr><td>Exhaust air</td><td>+ 20 °C (+ 12 °C)</td></tr>
+<tr><td>  </td><td>Inlet/outlet temperature</td></tr>
+<tr><td>Water</td><td>+ 10 °C/+ 7 °C</td></tr>
+<tr><td>Brine</td><td>0 °C/– 3 °C</td></tr>
+</tbody>
+</table>
+
+**Table 4**
+
+**Reference design conditions for heat pump space heaters and heat pump combination heaters, temperatures in dry bulb air temperature (wet bulb air temperature indicated in brackets)**
+
+| Reference design temperature | Bivalent temperature | Operation limit temperature |
+| --- | --- | --- |
+| Tdesignh | Tbiv | TOL |
+| – 10 (– 11) °C | maximum + 2 °C | maximum – 7 °C |
+
+**Table 5**
+
+**European reference heating season under average climate conditions for heat pump space heaters and heat pump combination heaters**
+
+<table>
+<tbody><tr><td>binj</td><td>Tj [°C]</td><td>Hj [h/annum]</td></tr>
+<tr><td>1 to 20</td><td>– 30 to – 11</td><td>0 </td></tr>
+<tr><td>21 </td><td>-10 </td><td>1 </td></tr>
+<tr><td>22 </td><td>-9 </td><td>25 </td></tr>
+<tr><td>23 </td><td>-8 </td><td>23 </td></tr>
+<tr><td>24 </td><td>-7 </td><td>24 </td></tr>
+<tr><td>25 </td><td>-6 </td><td>27 </td></tr>
+<tr><td>26 </td><td>-5 </td><td>68 </td></tr>
+<tr><td>27 </td><td>-4 </td><td>91 </td></tr>
+<tr><td>28 </td><td>-3 </td><td>89 </td></tr>
+<tr><td>29 </td><td>-2 </td><td>165 </td></tr>
+<tr><td>30 </td><td>-1 </td><td>173 </td></tr>
+<tr><td>31 </td><td>0 </td><td>240 </td></tr>
+<tr><td>32 </td><td>1 </td><td>280 </td></tr>
+<tr><td>33 </td><td>2 </td><td>320 </td></tr>
+<tr><td>34 </td><td>3 </td><td>357 </td></tr>
+<tr><td>35 </td><td>4 </td><td>356 </td></tr>
+<tr><td>36 </td><td>5 </td><td>303 </td></tr>
+<tr><td>37 </td><td>6 </td><td>330 </td></tr>
+<tr><td>38 </td><td>7 </td><td>326 </td></tr>
+<tr><td>39 </td><td>8 </td><td>348 </td></tr>
+<tr><td>40 </td><td>9 </td><td>335 </td></tr>
+<tr><td>41 </td><td>10 </td><td>315 </td></tr>
+<tr><td>42 </td><td>11 </td><td>215 </td></tr>
+<tr><td>43 </td><td>12 </td><td>169 </td></tr>
+<tr><td>44 </td><td>13 </td><td>151 </td></tr>
+<tr><td>45 </td><td>14 </td><td>105 </td></tr>
+<tr><td>46 </td><td>15 </td><td>74 </td></tr>
+<tr><td colspan="2">Total hours:</td><td>4 910 </td></tr>
+</tbody>
+</table>
+
+**Table 6**
+
+**Maximum ventilation exhaust air available [m3/h], at humidity of 5,5 g/m3**
+
+| Declared load profile | XXS | XS | S | M | L | XL | XXL | 3XL | 4XL |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Maximum ventilation exhaust air available | 109 | 128 | 128 | 159 | 190 | 870 | 1 021 | 2 943 | 8 830 |
+
+**Table 7**
+
+**Water heating load profiles of combination heaters**
+
+<table>
+<tbody><tr><td rowspan="3">h</td><td colspan="3">3XS</td><td colspan="3">XXS</td><td colspan="3">XS</td><td colspan="4">S</td></tr>
+<tr><td>Qtap</td><td>f</td><td>Tm</td><td>Qtap</td><td>f</td><td>Tm</td><td>Qtap</td><td>f</td><td>Tm</td><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td></tr>
+<tr><td>kWh</td><td>l/min</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td></tr>
+<tr><td>07:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:05</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:15</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:26</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>0,525 </td><td>3 </td><td>35 </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:01</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:05</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:15</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:25</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:30</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>09:00</td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>09:30</td><td>0,105 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>10:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>10:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>11:45</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>12:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:45</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>0,525 </td><td>3 </td><td>35 </td><td>0,315 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>14:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>15:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>15:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>16:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>16:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>17:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>18:00</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>18:15</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td></tr>
+<tr><td>18:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>19:00</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>19:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:00</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>1,05 </td><td>3 </td><td>35 </td><td>0,42 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>20:45</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:46</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:00</td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:15</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:30</td><td>0,015 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,525 </td><td>5 </td><td>45 </td><td>  </td></tr>
+<tr><td>21:35</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:45</td><td>0,015 </td><td>2 </td><td>25 </td><td>0,105 </td><td>2 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Qref</td><td>0,345 </td><td>  </td><td>  </td><td>2,100 </td><td>  </td><td>  </td><td>2,100 </td><td>  </td><td>  </td><td>2,100 </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td rowspan="3">h</td><td colspan="4">M</td><td colspan="4">L</td><td colspan="4">XL</td></tr>
+<tr><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td></tr>
+<tr><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td></tr>
+<tr><td>07:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:05</td><td>1,4 </td><td>6 </td><td>40 </td><td>  </td><td>1,4 </td><td>6 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:15</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>1,82 </td><td>6 </td><td>40 </td><td>  </td></tr>
+<tr><td>07:26</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>07:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>4,42 </td><td>10 </td><td>10 </td><td>40 </td></tr>
+<tr><td>08:01</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:05</td><td>  </td><td>  </td><td>  </td><td>  </td><td>3,605 </td><td>10 </td><td>10 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:15</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:25</td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:45</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>09:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>09:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>10:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>10:30</td><td>0,105 </td><td>3 </td><td>10 </td><td>40 </td><td>0,105 </td><td>3 </td><td>10 </td><td>40 </td><td>0,105 </td><td>3 </td><td>10 </td><td>40 </td></tr>
+<tr><td>11:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>11:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>11:45</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>12:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:45</td><td>0,315 </td><td>4 </td><td>10 </td><td>55 </td><td>0,315 </td><td>4 </td><td>10 </td><td>55 </td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>14:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>15:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>15:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>16:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>16:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>17:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>18:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>18:15</td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td></tr>
+<tr><td>18:30</td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td></tr>
+<tr><td>19:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>19:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:30</td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td></tr>
+<tr><td>20:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:46</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>4,42 </td><td>10 </td><td>10 </td><td>40 </td></tr>
+<tr><td>21:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>3,605 </td><td>10 </td><td>10 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:15</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td></tr>
+<tr><td>21:30</td><td>1,4 </td><td>6 </td><td>40 </td><td>  </td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>4,42 </td><td>10 </td><td>10 </td><td>40 </td></tr>
+<tr><td>21:35</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Qref</td><td>5,845 </td><td>  </td><td>  </td><td>  </td><td>11,655 </td><td>  </td><td>  </td><td>  </td><td>19,07 </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+<table>
+<tbody><tr><td rowspan="3">h</td><td colspan="4">XXL</td><td colspan="4">3XL</td><td colspan="4">4XL</td></tr>
+<tr><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td><td>Qtap</td><td>f</td><td>Tm</td><td>Tp</td></tr>
+<tr><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td><td>kWh</td><td>l/min</td><td>°C</td><td>°C</td></tr>
+<tr><td>07:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>11,2 </td><td>48 </td><td>40 </td><td>  </td><td>22,4 </td><td>96 </td><td>40 </td><td>  </td></tr>
+<tr><td>07:05</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:15</td><td>1,82 </td><td>6 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:26</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>07:45</td><td>6,24 </td><td>16 </td><td>10 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:01</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>5,04 </td><td>24 </td><td>25 </td><td>  </td><td>10,08 </td><td>48 </td><td>25 </td><td>  </td></tr>
+<tr><td>08:05</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:15</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:25</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>08:45</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>09:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>1,68 </td><td>24 </td><td>25 </td><td>  </td><td>3,36 </td><td>48 </td><td>25 </td><td>  </td></tr>
+<tr><td>09:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>10:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>10:30</td><td>0,105 </td><td>3 </td><td>10 </td><td>40 </td><td>0,84 </td><td>24 </td><td>10 </td><td>40 </td><td>1,68 </td><td>48 </td><td>10 </td><td>40 </td></tr>
+<tr><td>11:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11:45</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>1,68 </td><td>24 </td><td>25 </td><td>  </td><td>3,36 </td><td>48 </td><td>25 </td><td>  </td></tr>
+<tr><td>12:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>12:45</td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td><td>2,52 </td><td>32 </td><td>10 </td><td>55 </td><td>5,04 </td><td>64 </td><td>10 </td><td>55 </td></tr>
+<tr><td>14:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>15:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>15:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>2,52 </td><td>24 </td><td>25 </td><td>  </td><td>5,04 </td><td>48 </td><td>25 </td><td>  </td></tr>
+<tr><td>16:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>16:30</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>17:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>18:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>18:15</td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>18:30</td><td>0,105 </td><td>3 </td><td>40 </td><td>  </td><td>3,36 </td><td>24 </td><td>25 </td><td>  </td><td>6,72 </td><td>48 </td><td>25 </td><td>  </td></tr>
+<tr><td>19:00</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>19:30</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:30</td><td>0,735 </td><td>4 </td><td>10 </td><td>55 </td><td>5,88 </td><td>32 </td><td>10 </td><td>55 </td><td>11,76 </td><td>64 </td><td>10 </td><td>55 </td></tr>
+<tr><td>20:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>20:46</td><td>6,24 </td><td>16 </td><td>10 </td><td>40 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:00</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:15</td><td>0,105 </td><td>3 </td><td>25 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:30</td><td>6,24 </td><td>16 </td><td>10 </td><td>40 </td><td>12,04 </td><td>48 </td><td>40 </td><td>  </td><td>24,08 </td><td>96 </td><td>40 </td><td>  </td></tr>
+<tr><td>21:35</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21:45</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Qref</td><td>24,53 </td><td>  </td><td>  </td><td>  </td><td>46,76 </td><td>  </td><td>  </td><td>  </td><td>93,52 </td><td>  </td><td>  </td><td>  </td></tr>
+</tbody>
+</table>
+
+## ANNEX IV
+
+**Product compliance verification by market surveillance authorities**
+
+The verification tolerances defined in this Annex relate only to the verification of the measured parameters by Member State authorities and shall not be used by the manufacturer or importer as an allowed tolerance to establish the values in the technical documentation or in interpreting these values with a view to achieving compliance or to communicate better performance by any means.
+
+When verifying the compliance of a product model with the requirements laid down in this Regulation pursuant to Article 3(2) of Directive 2009/125/EC, for the requirements referred to in this Annex, the authorities of the Member States shall apply the following procedure:
+
+(1) The Member State authorities shall verify one single unit of the model.
+
+(2) The model shall be considered to comply with the applicable requirements if:
+
+(a) the values given in the technical documentation pursuant to point 2 of Annex IV to Directive 2009/125/EC (declared values), and, where applicable, the values used to calculate these values, are not more favourable for the manufacturer or importer than the results of the corresponding measurements carried out pursuant to paragraph (g) thereof; and
+
+(b) the declared values meet any requirements laid down in this Regulation, and any required product information published by the manufacturer or importer does not contain values that are more favourable for the manufacturer or importer than the declared values; and
+
+(c) when the Member State authorities test the unit of the model, the determined values (the values of the relevant parameters as measured in testing and the values calculated from these measurements) comply with the respective verification tolerances as given in Table 8.
+
+(3) If the results referred to in point 2(a) or (b) are not achieved, the model and all other equivalent models shall be considered not to comply with this Regulation.
+
+(4) If the result referred to in point 2(c) is not achieved, the Member State authorities shall select three additional units of the same model for testing. As an alternative, the three additional units selected may be of one or more different equivalent models.
+
+(5) The model shall be considered to comply with the applicable requirements if, for these three units, the arithmetical mean of the determined values complies with the respective verification tolerances given in Table 8.
+
+(6) If the result referred to in point 5 is not achieved, the model and all other equivalent models shall be considered not to comply with this Regulation.
+
+(7) The Member State authorities shall provide all relevant information to the authorities of the other Member States and to the Commission without delay after a decision being taken on the non-compliance of the model according to points 3 and 6.
+
+The Member State authorities shall use the measurement and calculation methods set out in Annex III.
+
+The Member State authorities shall only apply the verification tolerances that are set out in Table 8 and shall only use the procedure described in points 1 to 7 for the requirements referred to in this Annex. No other tolerances, such as those set out in harmonised standards or in any other measurement method, shall be applied.
+
+**Table 8**
+
+**Verification tolerances**
+
+| Parameters | Verification tolerances |
+| --- | --- |
+| Seasonal space-heating energy efficiency, ηs | The determined value shall not be lower than the declared value by more than 8 %. |
+| Water-heating energy efficiency, ηwh | The determined value shall not be lower than the declared value by more than 8 %. |
+| Sound power level, LWA | The determined value shall not exceed the declared value by more than 2 dB(A). |
+| Emissions of nitrogen oxides | The determined value shall not exceed the declared value by more than 20 %. |
+
+## ANNEX V
+
+**Indicative benchmarks referred to in Article 6**
+
+At the time of entry into force of this Regulation, the best available technology on the market for heaters in terms of seasonal space heating energy efficiency, water heating energy efficiency, sound power level and emissions of nitrogen oxides was identified as follows:
+
+1\. Benchmark for seasonal space heating energy efficiency in medium-temperature application: 145 %;
+
+2\. Benchmarks for water heating energy efficiency of combination heaters:
+
+| Declared load profile | 3XS | XXS | XS | S | M | L | XL | XXL | 3XL | 4XL |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Water heating energy efficiency | 35 % | 35 % | 38 % | 38 % | 75 % | 110 % | 115 % | 120 % | 130 % | 130 % |
+
+3\. Benchmarks for sound power level (LWA ), outdoor, of heat pump space heaters and of heat pump combination heaters with rated heat output:
+
+(a) ≤ 6 kW: 39 dB;
+
+(b) > 6 kW and ≤ 12 kW: 40 dB;
+
+(c) > 12 kW and ≤ 30 kW: 41 dB;
+
+(d) > 30 kW and ≤ 70 kW: 67 dB.
+
+4\. Benchmarks for emissions of nitrogen oxides, expressed in nitrogen dioxide:
+
+(a) of boiler space heaters and boiler combination heaters using gaseous fuels: 14 mg/kWh fuel input in terms of GCV;
+
+(b) of boiler space heaters and boiler combination heaters using liquid fuels: 50 mg/kWh fuel input in terms of GCV.
+
+The benchmarks specified in points 1 to 4 do not necessarily imply that a combination of these values is achievable for a single heater.
+
+( 1 ) OJ L 334, 17.12.2010, p. 17.
+
+( 2 ) OJ L 315, 14.11.2012, p. 1.
+
+( 3 ) OJ L 390, 31.12.2004, p. 24.

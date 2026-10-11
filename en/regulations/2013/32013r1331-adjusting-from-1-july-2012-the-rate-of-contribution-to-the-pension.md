@@ -1,0 +1,61 @@
+---
+title: "Council Regulation (EU) No 1331/2013 of 10 December 2013 adjusting, from 1 July 2012 , the rate of contribution to the pension scheme of officials and other servants of the European Union"
+identifier: "32013R1331"
+eli: "http://data.europa.eu/eli/reg/2013/1331/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-12-10
+entry_into_force: 2014-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32013R1331"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) No 1331/2013 of 10 December 2013 adjusting, from 1 July 2012 , the rate of contribution to the pension scheme of officials and other servants of the European Union
+
+**COUNCIL REGULATION (EU) No 1331/2013**
+
+**of 10 December 2013**
+
+**adjusting, from 1 July 2012, the rate of contribution to the pension scheme of officials and other servants of the European Union**
+
+THE COUNCIL OF THE EUROPEAN UNION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities (‘Staff Regulations’) laid down by Regulation (EEC, Euratom, ECSC) No 259/68 of the Council (1), and in particular Article 83a thereof and Annex XII thereto,
+
+Having regard to the proposal from the European Commission,
+
+Whereas:
+
+(1) In accordance with Article 13 of Annex XII to the Staff Regulations, Eurostat submitted a report on the 2012 actuarial assessment of the pension scheme updating the parameters referred to in that Annex. According to this assessment, the rate of contribution required to maintain actuarial balance of the pension scheme would be 9,9 % of the basic salary.
+
+(2) Under Article 2(1) of Annex XII to the Staff Regulations, the adjustment cannot lead to a contribution that is more than one percentage point above or below the valid rate of the previous year (11,6 %).
+
+(3) In the interests of actuarial balance of the pension scheme of Officials and other Servants of the Union, and taking into account the 2011 and 2012 actuarial assessments, the Council considers that the rate of contribution should be adjusted to 10,6 % of the basic salary.
+
+(4) However, in the light of recent and future judgments in the cases on the 2011 and 2012 adjustment of salaries and pensions and in the case on the 2011 adjustment of the rate of contribution to the pension scheme, the result of this adjustment may be subject to change. The implementation of those judgments may have an impact on the calculation of the rates of contribution for the years 2012 and 2013 and thus require the Council to re-adjust the said rates of contribution with retroactive effect. Where applicable, this may lead to a recovery of overpaid sums from staff,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+With effect from 1 July 2012, the rate of the contribution referred to in Article 83(2) of the Staff Regulations shall be 10,6 %.
+
+## Article 2
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 10 December 2013.
+
+For the Council
+
+The President
+
+R. ŠADŽIUS
+
+(1) Regulation (EEC, Euratom, ECSC) No 259/68 of the Council of 29 February 1968 laying down the Staff Regulations of Officials and the Conditions of Employment of Other Servants of the European Communities (OJ L 56, 4.3.1968, p. 1).

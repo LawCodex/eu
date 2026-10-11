@@ -1,0 +1,190 @@
+---
+title: "Commission Delegated Regulation (EU) 2015/288 of 17 December 2014 supplementing Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund with regard to the period of time and the dates for the inadmissibility of applications"
+identifier: "32015R0288"
+eli: "http://data.europa.eu/eli/reg_del/2015/288/oj"
+type: regulation
+subtype: delegated
+jurisdiction: eu
+language: en
+date: 2014-12-17
+entry_into_force: 2015-10-21
+last_amended: 2014-01-01
+consolidated_version: "02015R0288-20140101"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02015R0288-20140101"
+retrieved: 2026-10-11
+---
+
+# Commission Delegated Regulation (EU) 2015/288 of 17 December 2014 supplementing Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund with regard to the period of time and the dates for the inadmissibility of applications
+
+**COMMISSION DELEGATED REGULATION (EU) 2015/288**
+
+**of 17 December 2014**
+
+**supplementing Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund with regard to the period of time and the dates for the inadmissibility of applications**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION DELEGATED REGULATION (EU) 2015/2252 of 30 September 2015 </td><td> L 321</td><td>2</td><td>5.12.2015</td></tr>
+</table>
+
+**COMMISSION DELEGATED REGULATION (EU) 2015/288**
+
+**of 17 December 2014**
+
+**supplementing Regulation (EU) No 508/2014 of the European Parliament and of the Council on the European Maritime and Fisheries Fund with regard to the period of time and the dates for the inadmissibility of applications**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+### Article 1 — Subject matter and scope
+
+This Regulation applies to applications for support from the European Maritime and Fisheries Fund (EMFF) and identifies the period during which such applications submitted by operators who have carried out any of the actions referred to in Article 10(1)(a), (b) and (d) of Regulation (EU) No 508/2014, or in Article 10(3) of that Regulation, shall be inadmissible (the inadmissibility period).
+
+### Article 2 — Definitions
+
+For the purposes of this Regulation:
+
+1\. ‘infringement points’ means points assigned to the operator for a fishing vessel in the context of the point system for serious infringements set out in Article 92 of Regulation (EC) No 1224/2009.
+
+2\. ‘operator’ means an operator as defined in Article 4(30) of Regulation (EU) No 1380/2013 who submits an application for EMFF support.
+
+## CHAPTER II — DURATION AND STARTING DATE OF INADMISSIBILITY PERIOD
+
+### Article 3 — Inadmissibility of applications by operators who have committed serious infringements under Article 42(1) of Council Regulation (EC) No 1005/2008 ( 6 ) or Article 90(1) of Regulation (EC) No 1224/2009
+
+1\. Where a competent authority has determined that an operator has committed a serious infringement under Article 42(1) of Regulation (EC) No 1005/2008 or Article 90(1) of Regulation (EC) No 1224/2009, applications for EMFF support by that operator shall be inadmissible for a period of 12 months.
+
+2\. By way of derogation from paragraph 1, where a Member State pursuant to Article 42(1)(a) of Regulation (EC) No 1005/2008 assigns infringement points for serious infringements listed in points 1, 2, and 5 of Annex XXX to Regulation (EU) No 404/2011, the following rules shall apply:
+
+(a) if the infringement points accumulated by an operator in respect of a fishing vessel remain below 9, applications for EMFF support by that operator shall be admissible;
+
+(b) if the number of infringement points accumulated by an operator in respect of a fishing vessel is 9 points, the inadmissibility period shall be 12 months;
+
+(c) each infringement point assigned in addition to the points accumulated by an operator in respect of a fishing vessel in point (b) shall result in an additional period of inadmissibility of 1 month.
+
+3\. The starting date of the inadmissibility period shall be the date of the first official decision by a competent authority determining that a serious infringement within the meaning of Article 42(1) of Regulation (EC) No 1005/2008 or Article 90(1) of Regulation (EC) No 1224/2009 was committed.
+
+For the purposes of calculating the inadmissibility period, only serious infringements committed as from 1 January 2013 and for which a decision within the meaning of the above subparagraph was taken as from that date shall be taken into account.
+
+4\. However, for the specific purposes of paragraph 2, the starting date of the inadmissibility period shall be the date of the first official decision by a competent authority assigning infringement points to an operator pursuant to Article 126(4) of Implementing Regulation (EU) No 404/2011 and resulting in that operator being assigned a total of 9 or more infringement points in respect of a fishing vessel.
+
+For the purposes of calculating the inadmissibility period, only points for infringements committed as from 1 January 2013 and assigned by an official decision taken as from that date shall be taken into account.
+
+### Article 4 — Inadmissibility of applications by operators included in the Union IUU vessel list or whose vessel is flagged to a non-cooperating third county
+
+1\. The period of inadmissibility for an operator whose fishing vessel is included in the Union list of fishing vessels engaged in illegal, unreported and unregulated (IUU) fishing as referred to in Article 27 of Regulation (EC) No 1005/2008 shall be the whole period during which the fishing vessel is included in that list and, in any event, not less than 24 months from the date of its listing.
+
+2\. Operators whose fishing vessel is flagged to a country identified as a non-cooperating third country as provided for in Article 33 of Regulation (EC) No 1005/2008 shall be inadmissible during the whole period while that country is listed and, in any event, for a minimum period of 12 months.
+
+3\. The starting date of the inadmissibility period shall be the date of entry into force of the Commission Regulation (EU) No 468/2010 ( 7 ) establishing the Union IUU vessel list or of the Council Implementing Decision 2014/170/EU ( 8 ) establishing the list of non-cooperating third countries or the date of an amendment to such a Regulation or a Decision whereby a fishing vessel or a country would be added to such a list.
+
+### Article 4a — Inadmissibility of applications by operators who have committed environmental offences
+
+1\. Where a competent authority has determined in a first official decision that an operator has committed one of the offences set out in Article 3 of Directive 2008/99/EC of the European Parliament and of the Council ( 9 ), applications for support from the EMFF made by that operator pursuant to Chapter II of Title V of Regulation (EU) No 508/2014 shall be inadmissible:
+
+(a) for a period of 12 months, if the offence was committed with serious negligence; or
+
+(b) for a period of 24 months, if the offence was committed intentionally.
+
+2\. Where a competent authority has determined in a first official decision that an operator has committed one of the offences set out in Article 4 of Directive 2008/99/EC, applications for support from the EMFF made by that operator pursuant to Chapter II of Title V of Regulation (EU) No 508/2014 shall be inadmissible for a period of 24 months.
+
+3\. The inadmissibility period shall be increased by 6 months where in the decision referred to in paragraph 1 or 2 the competent authority has:
+
+(a) explicitly referred to the presence of aggravating circumstances; or
+
+(b) determined that an offence committed by the operator was carried out over a period of more than 1 year.
+
+4\. Provided that it lasts at least 12 months in total, the inadmissibility period shall be reduced by 6 months if the competent authority has explicitly referred to the presence of mitigating circumstances in its decision referred to in paragraph 1 or 2.
+
+5\. The starting date of the inadmissibility period shall be the date of the first official decision by a competent authority determining that one or more of the offences set out in Articles 3 and 4 of Directive 2008/99/EC were committed.
+
+6\. For the purposes of calculating the inadmissibility period, only decisions referring to offences committed as from 1 January 2013 and for which a decision within the meaning of the above subparagraph was taken as from that date shall be taken into account.
+
+7\. Where an application of an operator is inadmissible under paragraphs 1 and 2, all applications of that operator pursuant to Chapter II of Title V of Regulation (EU) No 508/2014 shall be inadmissible.
+
+### Article 5 — Inadmissibility of applications by operators that have committed fraud in the context of the EFF or the EMFF
+
+1\. Where it is determined by a competent authority that an operator committed a fraud in the context of the EFF or EMFF, all applications for EMFF support by that operator shall be inadmissible from the date of the first official decision establishing the fraud as defined in Article 1 of the Convention on the protection of the European Communities' financial interests ( 10 ).
+
+2\. The inadmissibility period shall last until the end of the eligibility period of the EMFF as set out to in Article 65(2) of Regulation (EU) No 1303/2013.
+
+## CHAPTER III — COMMON PROVISIONS
+
+### Article 6 — Calculation of the inadmissibility period where the operator owns more than one fishing vessel
+
+1\. Where an operator owns or controls more than one fishing vessel, the inadmissibility period of an application by that operator shall be determined separately in relation to each individual fishing vessel, in accordance with Article 3 or Article 4.
+
+2\. However, applications for EMFF support by that operator shall also be inadmissible:
+
+(a) if applications in relation to more than half of fishing vessels owned or controlled by that operator are inadmissible for EMFF support pursuant to Article 3 and Article 4, or
+
+(b) if, in the case of serious infringements pursuant to Article 42(1)(a) of Regulation (EC) No 1005/2008 listed in points 1, 2, and 5 of Annex XXX to Implementing Regulation (EU) No 404/2011, the average number of assigned infringement points per fishing vessel owned or controlled by the operator is 7 or more.
+
+3\. By way of derogation from paragraphs 1 and 2, where a serious infringement committed by an operator is not related to any fishing vessel owned or controlled by that operator, all applications for EMFF support by that operator shall be inadmissible.
+
+### Article 7 — Transfer of ownership
+
+1\. In the case of a sale or other type of transfer of ownership of a fishing vessel, the inadmissibility period concerning the operator transferring the fishing vessel and resulting from serious infringements committed prior to the change of ownership shall not be transferred to the new operator. The inadmissibility of applications by the new operator can only result from new serious infringements committed by that new operator.
+
+2\. However, where infringement points are assigned for serious infringements within the meaning of Article 42(1)(a) of Regulation (EC) No 1005/2008 listed in points 1, 2, and 5 of Annex XXX to Implementing Regulation (EU) No 404/2011 committed prior to the change of ownership of the fishing vessel, those points shall be taken into account for the purposes of calculating the inadmissibility period of the new operator pursuant to Article 3(2) and Article 6(2)(b) if that operator commits a new serious infringement under Article 42(1)(a) of Regulation (EC) No 1005/2008 listed in points 1, 2, and 5 of Annex XXX to Implementing Regulation (EU) No 404/2011.
+
+### Article 8 — Permanent withdrawal of the fishing licence
+
+By way of derogation from Article 6, where the fishing licence of an operator has been permanently withdrawn for any of the fishing vessels owned or controlled by that operator:
+
+(a) in accordance with Article 129(2) of Implementing Regulation (EU) No 404/2011; or, where applicable,
+
+(b) as a result of sanctions for serious infringements imposed by the Member States in accordance with Article 45 of Regulation (EC) No 1005/2008,
+
+all applications by that operator shall be inadmissible for support from the EMFF from the date of the withdrawal until the end of the eligibility period as set out in Article 65(2) of Regulation (EU) No 1303/2013.
+
+### Article 9 — Revision of inadmissibility period
+
+Provided it lasts at least 12 months in total, the inadmissibility period:
+
+(a) hall be reduced in the case of serious infringements pursuant to Article 42(1)(a) of Regulation (EC) No 1005/2008 listed in points 1, 2, and 5 of Annex XXX to Implementing Regulation (EU) No 404/2011 by 2 months if 2 infringement points are deleted in accordance with Article 133(3) of Implementing Regulation (EU) No 404/2011 for such serious infringements;
+
+(b) shall be extended by 12 months for each additional serious infringement committed by the operator during the inadmissibility period under Article 42(1) of Regulation (EC) No 1005/2008 or Article 90(1) of Regulation (EC) No 1224/2009; or
+
+(c) by way of derogation from paragraph (b), shall be extended in accordance with the rules set out in Article 3(2)(c) for each additional serious infringement committed by the operator during the inadmissibility period under Article 42(1)(a) of Regulation (EC) No 1005/2008 listed in items 1, 2 and 5 of Annex XXX to Implementing Regulation (EU) No 404/2011;
+
+(d) shall be extended by the following periods for each additional offence set out in Article 3 of Directive 2008/99/EC committed by the operator during the inadmissibility period:
+
+(i) 12 months, if the additional offence has been committed with serious negligence;
+
+(ii) 24 months if the additional offence has been committed intentionally; or
+
+(e) shall be extended by 24 months for each additional offence set out in Article 4 of Directive 2008/99/EC committed by the operator during the inadmissibility period;
+
+If an additional offence referred to in point (d) or (e) of the first paragraph is of the same type of environmental offences as the one which has caused the inadmissibility period or which has already led to its revision, the extension of the inadmissibility period due to that offence as provided for in points (d) and (e) shall be increased by an additional 6 months.
+
+## CHAPTER IV — FINAL PROVISIONS
+
+### Article 10 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+( 1 ) OJ L 149, 20.5.2014, p. 1.
+
+( 2 ) Regulation (EU) No 1380/2013 of the European Parliament and of the Council of 11 December 2013 on the Common Fisheries Policy, amending Council Regulations (EC) No 1954/2003 and (EC) No 1224/2009 and repealing Council Regulations (EC) No 2371/2002 and (EC) No 639/2004 and Council Decision 2004/585/EC (OJ L 354, 28.12.2013, p. 22).
+
+( 3 ) Council Regulation (EC) No 1224/2009 of 20 November 2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy, amending Regulations (EC) No 847/96, (EC) No 2371/2002, (EC) No 811/2004, (EC) No 768/2005, (EC) No 2115/2005, (EC) No 2166/2005, (EC) No 388/2006, (EC) No 509/2007, (EC) No 676/2007, (EC) No 1098/2007, (EC) No 1300/2008, (EC) No 1342/2008 and repealing Regulations (EEC) No 2847/93, (EC) No 1627/94 and (EC) No 1966/2006, (OJ L 343, 22.12.2009, p. 1).
+
+( 4 ) Commission Implementing Regulation (EU) No 404/2011 of 8 April 2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the Common Fisheries Policy, (OJ L 112, 30.4.2011, p. 1).
+
+( 5 ) Regulation (EU) No 1303/2013 of the European Parliament and of the Council of 17 December 2013 laying down common provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund, the European Agricultural Fund for Rural Development and the European Maritime and Fisheries Fund and laying down general provisions on the European Regional Development Fund, the European Social Fund, the Cohesion Fund and the European Maritime and Fisheries Fund and repealing Council Regulation (EC) No 1083/2006 (OJ L 347, 20.12.2013, p. 320).
+
+( 6 ) Council Regulation (EC) No 1005/2008 of 29 September 2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing, amending Regulations (EEC) No 2847/93, (EC) No 1936/2001 and (EC) No 601/2004 and repealing Regulations (EC) No 1093/94 and (EC) No 1447/1999 (OJ L 286, 29.10.2008, p. 1).
+
+( 7 ) Commission Regulation (EU) No 468/2010 of 28 May 2010 establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing (OJ L 131, 29.5.2010, p. 22).
+
+( 8 ) Council Implementing Decision 2014/170/EU of 24 March 2014 establishing a list of non-cooperating third countries in fighting IUU fishing pursuant to Regulation (EC) No 1005/2008 establishing a Community system to prevent, deter and eliminate illegal, unreported and unregulated fishing (OJ L 91, 27.3.2014, p. 43).
+
+( 9 ) Directive 2008/99/EC of the European Parliament and of the Council of 19 November 2008 on the protection of the environment through criminal law (OJ L 328, 6.12.2008, p. 28).
+
+( 10 ) Council Act of 26 July 1995 drawing up the Convention on the protection of the European Communities' financial interests (OJ C 316, 27.11.1995, p. 48).

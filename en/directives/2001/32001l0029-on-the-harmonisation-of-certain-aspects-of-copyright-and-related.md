@@ -22,10 +22,12 @@ retrieved: 2026-10-11
 
 **on the harmonisation of certain aspects of copyright and related rights in the information society**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2017/1564 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 13 September 2017 </td><td> L 242</td><td>6</td><td>20.9.2017</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2019/790 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 17 April 2019 </td><td> L 130</td><td>92</td><td>17.5.2019</td></tr>
+</table>
 
 **DIRECTIVE 2001/29/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

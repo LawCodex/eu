@@ -1,0 +1,2187 @@
+---
+title: "Council Regulation (EC) No 2368/2002 of 20 December 2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds"
+identifier: "32002R2368"
+eli: "http://data.europa.eu/eli/reg/2002/2368/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2002-12-20
+entry_into_force: 2002-08-01
+last_amended: 2025-06-17
+consolidated_version: "02002R2368-20250617"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02002R2368-20250617"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 2368/2002 of 20 December 2002 implementing the Kimberley Process certification scheme for the international trade in rough diamonds
+
+**COUNCIL REGULATION (EC) No 2368/2002**
+
+**of 20 December 2002**
+
+**implementing the Kimberley Process certification scheme for the international trade in rough diamonds**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EC) No 254/2003 of 11 February 2003 </td><td> L 36</td><td>7</td><td>12.2.2003</td></tr>
+<tr><td> M2</td><td> COMMISSION REGULATION (EC) No 257/2003 of 11 February 2003 </td><td> L 36</td><td>11</td><td>12.2.2003</td></tr>
+<tr><td> M3</td><td> COMMISSION REGULATION (EC) No 418/2003 of 6 March 2003 </td><td> L 64</td><td>13</td><td>7.3.2003</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EC) No 762/2003 of 30 April 2003 </td><td> L 109</td><td>10</td><td>1.5.2003</td></tr>
+<tr><td> M5</td><td> COMMISSION REGULATION (EC) No 803/2003 of 8 May 2003 </td><td> L 115</td><td>53</td><td>9.5.2003</td></tr>
+<tr><td> M6</td><td> COMMISSION REGULATION (EC) No 1214/2003 of 7 July 2003 </td><td> L 169</td><td>30</td><td>8.7.2003</td></tr>
+<tr><td> M7</td><td> COMMISSION REGULATION (EC) No 1536/2003 of 29 August 2003 </td><td> L 218</td><td>31</td><td>30.8.2003</td></tr>
+<tr><td> M8</td><td> COMMISSION REGULATION (EC) No 1768/2003 of 8 October 2003 </td><td> L 256</td><td>9</td><td>9.10.2003</td></tr>
+<tr><td> M9</td><td> COMMISSION REGULATION (EC) No 1880/2003 of 24 October 2003 </td><td> L 275</td><td>26</td><td>25.10.2003</td></tr>
+<tr><td> M10</td><td> COMMISSION REGULATION (EC) No 2062/2003 of 24 November 2003 </td><td> L 308</td><td>7</td><td>25.11.2003</td></tr>
+<tr><td> M11</td><td> COMMISSION REGULATION (EC) No 101/2004 of 21 January 2004 </td><td> L 15</td><td>20</td><td>22.1.2004</td></tr>
+<tr><td> M12</td><td> COMMISSION REGULATION (EC) No 657/2004 of 7 April 2004 </td><td> L 104</td><td>62</td><td>8.4.2004</td></tr>
+<tr><td> M13</td><td> COMMISSION REGULATION (EC) No 913/2004 of 29 April 2004 </td><td> L 163</td><td>73</td><td>30.4.2004</td></tr>
+<tr><td> M14</td><td> COMMISSION REGULATION (EC) No 1458/2004 of 16 August 2004 </td><td> L 269</td><td>21</td><td>17.8.2004</td></tr>
+<tr><td> M15</td><td> COMMISSION REGULATION (EC) No 1459/2004 of 16 August 2004 </td><td> L 269</td><td>26</td><td>17.8.2004</td></tr>
+<tr><td> M16</td><td> COMMISSION REGULATION (EC) No 1474/2004 of 18 August 2004 </td><td> L 271</td><td>29</td><td>19.8.2004</td></tr>
+<tr><td> M17</td><td> COMMISSION REGULATION (EC) No 522/2005 of 1 April 2005 </td><td> L 84</td><td>8</td><td>2.4.2005</td></tr>
+<tr><td> M18</td><td> COMMISSION REGULATION (EC) No 718/2005 of 12 May 2005 </td><td> L 121</td><td>64</td><td>13.5.2005</td></tr>
+<tr><td> M19</td><td> COMMISSION REGULATION (EC) No 1285/2005 of 3 August 2005 </td><td> L 203</td><td>12</td><td>4.8.2005</td></tr>
+<tr><td> M20</td><td> COMMISSION REGULATION (EC) No 1574/2005 of 28 September 2005 </td><td> L 253</td><td>11</td><td>29.9.2005</td></tr>
+<tr><td> M21</td><td> COMMISSION REGULATION (EC) No 1486/2006 of 5 October 2006 </td><td> L 278</td><td>3</td><td>10.10.2006</td></tr>
+<tr><td> M22</td><td> COMMISSION REGULATION (EC) No 1636/2006 of 6 November 2006 </td><td> L 306</td><td>10</td><td>7.11.2006</td></tr>
+<tr><td> M23</td><td> COUNCIL REGULATION (EC) No 1791/2006 of 20 November 2006 </td><td> L 363</td><td>1</td><td>20.12.2006</td></tr>
+<tr><td> M24</td><td> COMMISSION REGULATION (EC) No 2026/2006 of 22 December 2006 </td><td> L 384</td><td>85</td><td>29.12.2006</td></tr>
+<tr><td> M25</td><td> COMMISSION REGULATION (EC) No 127/2007 of 9 February 2007 </td><td> L 41</td><td>3</td><td>13.2.2007</td></tr>
+<tr><td> M26</td><td> COMMISSION REGULATION (EC) No 613/2007 of 1 June 2007 </td><td> L 141</td><td>56</td><td>2.6.2007</td></tr>
+<tr><td> M27</td><td> COMMISSION REGULATION (EC) No 1038/2007 of 7 September 2007 </td><td> L 238</td><td>23</td><td>11.9.2007</td></tr>
+<tr><td> M28</td><td> COMMISSION REGULATION (EC) No 1226/2007 of 17 October 2007 </td><td> L 277</td><td>7</td><td>20.10.2007</td></tr>
+<tr><td> M29</td><td> COMMISSION REGULATION (EC) No 458/2008 of 26 May 2008 </td><td> L 137</td><td>6</td><td>27.5.2008</td></tr>
+<tr><td> M30</td><td> COMMISSION REGULATION (EC) No 1268/2008 of 12 December 2008 </td><td> L 338</td><td>39</td><td>17.12.2008</td></tr>
+<tr><td> M31</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1116/2011 of 31 October 2011 </td><td> L 289</td><td>1</td><td>8.11.2011</td></tr>
+<tr><td> M32</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 947/2012 of 12 October 2012 </td><td> L 282</td><td>27</td><td>16.10.2012</td></tr>
+<tr><td> M33</td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td> M34</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 622/2013 of 25 June 2013 </td><td> L 177</td><td>15</td><td>28.6.2013</td></tr>
+<tr><td> M35</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 789/2013 of 16 August 2013 </td><td> L 222</td><td>1</td><td>20.8.2013</td></tr>
+<tr><td></td><td> REGULATION (EU) No 257/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 26 February 2014 </td><td> L 84</td><td>69</td><td>20.3.2014</td></tr>
+<tr><td> M37</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1147/2014 of 23 October 2014 </td><td> L 308</td><td>61</td><td>29.10.2014</td></tr>
+<tr><td> M38</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/1374 of 7 August 2015 </td><td> L 212</td><td>3</td><td>11.8.2015</td></tr>
+<tr><td> M39</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/91 of 26 January 2016 </td><td> L 19</td><td>28</td><td>27.1.2016</td></tr>
+<tr><td> M40</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/557 of 7 April 2016 </td><td> L 96</td><td>8</td><td>12.4.2016</td></tr>
+<tr><td> M41</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2016/667 of 27 April 2016 </td><td> L 115</td><td>28</td><td>29.4.2016</td></tr>
+<tr><td> M42</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/578 of 13 April 2018 </td><td> L 97</td><td>1</td><td>17.4.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1189 of 8 July 2019 </td><td> L 187</td><td>14</td><td>12.7.2019</td></tr>
+<tr><td> M44</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/130 of 28 January 2020 </td><td> L 27</td><td>10</td><td>31.1.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/2149 of 9 December 2020 </td><td> L 428</td><td>38</td><td>18.12.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/1359 of 27 July 2022 </td><td> L 205</td><td>99</td><td>5.8.2022</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2025/1108 of 23 May 2025 </td><td> L 1108</td><td>1</td><td>28.5.2025</td></tr>
+</table>
+
+C1
+
+C2
+
+C3
+
+C4
+
+C5
+
+**COUNCIL REGULATION (EC) No 2368/2002**
+
+**of 20 December 2002**
+
+**implementing the Kimberley Process certification scheme for the international trade in rough diamonds**
+
+## CHAPTER I — SUBJECT MATTER AND DEFINITIONS
+
+### Article 1
+
+This Regulation sets up a Union system of certification and import and export controls for rough diamonds for the purposes of implementing the Kimberley Process certification scheme.
+
+For the purposes of the certification scheme, the territory of the Union and that of Greenland shall be considered as one entity without internal borders.
+
+This Regulation does not prejudice or substitute any provisions in force relating to customs formalities and controls.
+
+### Article 2
+
+For the purposes of this Regulation the following definitions shall apply:
+
+(a) ‘Kimberley Process’ means the forum in which the participants have designed an international certification scheme for rough diamonds;
+
+(b) ‘Kimberley Process certification scheme’ (hereinafter ‘KP certification scheme’) means the international certification scheme negotiated by the Kimberley Process as set out in Annex I;
+
+(c) ‘Participant’ means any State, regional economic integration organisation, WTO-member or separate customs territory that fulfils the requirements of the KP certification scheme, has notified that fact to the Chair of the KP certification scheme and is listed in Annex II;
+
+(d) ‘certificate’ means a document duly issued and validated by a participant's competent authority identifying a shipment of rough diamonds as being in compliance with the requirements of the KP certification scheme;
+
+(e) ‘competent authority’ means the authority designated by a participant to issue, validate or verify certificates;
+
+(f) ‘Community authority’ means a competent authority designated by a Member State and listed in Annex III;
+
+(g) ‘Community certificate’ means a certificate corresponding to the specimen in Annex IV and issued by a Community authority;
+
+(h) ‘conflict diamonds’ means rough diamonds as defined under the KP Certification Scheme;
+
+(i) ‘rough diamond’ means a diamond that is unworked or simply sawn, cleaved or bruted and falls under the Harmonised Commodity Description and Coding System 7102 10 , 7102 21 and 7102 31 (hereinafter ‘HS code’);
+
+(j) ‘imports’ means the physical entering or bringing into any part of the geographical territory of a participant;
+
+(k) ‘export’ means the physical leaving or taking out of any part of the geographical territory of a participant;
+
+(l) ‘shipment’ means one or more parcels;
+
+(m) ‘parcel’ means one or more diamonds that are packed together;
+
+(n) ‘parcel of mixed origin’ means a parcel that contains rough diamonds from two or more countries of origin;
+
+(o) ‘Community territory’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in that Treaty;
+
+(p) ‘Certified stock’ means a stock of rough diamonds to which this Regulation applies, and whose location, volume and value, and changes therein, have been submitted to effective supervision of a Member State;
+
+(q) ‘Customs transit’ means transit as provided for by Articles 91 to 97 of Council Regulation (EEC) No 2913/92 of 12 October 1992 establishing the Community Customs Code ( 1 ).
+
+## CHAPTER II — IMPORT REGIME
+
+### Article 3
+
+The import of rough diamonds into the Community ( 2 ) territory or Greenland shall be prohibited unless all of the following conditions are fulfilled:
+
+(a) the rough diamonds are accompanied by a certificate validated by the competent authority of a participant;
+
+(b) the rough diamonds are contained in tamper-resistant containers, and the seals applied at export by that participant are not broken;
+
+(c) the certificate clearly identifies the consignment to which it refers.
+
+### Article 4
+
+1\. Containers and the corresponding certificates shall without delay be submitted for verification together, to a Community authority either in the Member State where they are imported or in the Member State for which they are destined, as indicated in accompanying documents. Containers destined for Greenland shall be submitted for verification to one of the Community authorities, either in the Member State where they are imported, or in one of the other Member States where a Community authority is established.
+
+2\. In cases where rough diamonds are imported into a Member State where there is no Community authority, they shall be submitted to the appropriate Community authority in the Member State for which they are destined. If a Community authority exists neither in the importing Member State nor in the Member State of destination they shall be submitted to an appropriate Community authority in another Member State.
+
+3\. The Member State where the rough diamonds are imported shall ensure their submission to the appropriate Community authority provided for in paragraphs 1 and 2. Customs transit may be granted to that effect. If such customs transit is granted, the verification provided for by this Article shall be suspended until arrival at the appropriate Community authority.
+
+4\. The importer shall be responsible for the proper movement of the rough diamonds and the costs thereof.
+
+5\. A Community authority shall opt for either of the following methods to verify that the content of a container matches the particulars on the corresponding certificate:
+
+(a) it will open each container with a view to such verification; or
+
+(b) it will identify the containers to be opened with a view to such verification on the basis of a risk analysis or equivalent system that gives due consideration to rough diamond shipments.
+
+6\. A Community authority shall complete the verification without delay.
+
+### Article 5
+
+1\. If a Community authority establishes that the conditions in Article 3 are:
+
+(a) fulfilled, it shall confirm this on the original certificate and provide the importer with an authenticated and forgery-resistant copy of that confirmed certificate. This confirmation procedure shall take place within 10 working days of the submission of the certificate;
+
+(b) not fulfilled, it shall detain the shipment.
+
+2\. If a Community authority finds that the failure to fulfil the conditions is not made knowingly or intentionally or is the result of an action by another authority in the exercise of its proper duties, it may proceed with the confirmation and release the shipment, after the necessary remedial measures have been taken to ensure that the conditions are met.
+
+3\. A Community authority shall, within one month, inform the Commission and the competent authority of the participant that purportedly issued or validated the certificate for the shipment of any failure to fulfil the conditions.
+
+### Article 6
+
+1\. Until the date of applicability of the Articles referred to in Article 29(3), a Member State may certify stocks of rough diamonds that have been imported or are present in the Community territory before that date. After that date, rough diamonds from certified stocks shall be considered to have fulfilled the conditions laid down in Article 3.
+
+2\. In all other cases, a Community authority may issue a confirmation that it considers rough diamonds to have fulfilled the conditions of Article 3, if it has established that those diamonds were legally present in the Community at that date and have been so since.
+
+### Article 7
+
+Notwithstanding the provisions of Articles 3, 4 and 5, a Community authority may allow the import of rough diamonds if the importer provides conclusive evidence that those diamonds were destined for import into the Community and were exported 5 working days or less before the date of applicability of the Articles referred to in Article 29(3).
+
+In such cases, the Community authority concerned shall issue the importer with a confirmation of legal import, to the effect that those diamonds shall be considered to have fulfilled the conditions of Article 3.
+
+### Article 8
+
+1\. The Commission shall consult participants on the practical arrangements for providing the competent authority of the exporting participant that has validated a certificate with confirmation of imports into the Community territory or Greenland.
+
+2\. On the basis of these consultations the Commission shall, in accordance with the procedure referred to in Article 22(2), lay down guidelines for such confirmation.
+
+### Article 9
+
+The Commission shall provide all Community authorities with authenticated specimens of the participants' certificates, the names and other relevant details of the participants issuing and/or validating authorities, authenticated specimens of stamps and signatures attesting that a certificate has been legally issued or validated and any other relevant information received in respect of certificates.
+
+### Article 10
+
+1\. Community authorities shall provide the Commission with a monthly report on all certificates submitted for verification under Article 4.
+
+For each certificate this report shall list at least:
+
+(a) the unique certificate number,
+
+(b) the name of the issuing and validating authorities,
+
+(c) the date of issue and validation,
+
+(d) the date of expiry of validity,
+
+(e) the country of provenance,
+
+(f) the country of origin, where known,
+
+(g) the HS code(s),
+
+(h) the carat weight,
+
+(i) the value,
+
+(j) the verifying Community authority,
+
+(k) the date of verification.
+
+The Commission may, in accordance with the procedure referred to in Article 22(2), determine the format of this report in order to facilitate monitoring of the certification scheme's working.
+
+2\. The Community authority shall keep the originals of certificates provided for under Article 3(a) submitted for verification for at least three years. It shall provide the Commission or persons or bodies designated by the Commission with access to these original certificates in particular with a view to answering questions raised within the framework of the KP certification scheme.
+
+## CHAPTER III — EXPORT REGIME
+
+### Article 11
+
+The export from the Community territory or Greenland of rough diamonds shall be prohibited unless both of the following conditions are fulfilled:
+
+(a) the rough diamonds are accompanied by a corresponding Community certificate issued and validated by a Community authority;
+
+(b) the rough diamonds are contained in tamper-resistant containers sealed in accordance with Article 12.
+
+### Article 12
+
+1\. The Community authority may issue a Community certificate to an exporter when it has established that:
+
+(a) the exporter has provided conclusive evidence that:
+
+(i) the rough diamonds for which a certificate is being requested were lawfully imported in accordance with Article 3; or
+
+(ii) the rough diamonds for which a certificate is being requested were mined or extracted in Greenland in case the rough diamonds have not been previously exported to a participant other than the Union.
+
+(b) the other information requested on the certificate is correct;
+
+(c) the rough diamonds are effectively destined for arrival in the territory of a participant, and
+
+(d) the rough diamonds are to be transported in a tamper-resistant container.
+
+2\. A Community authority shall not validate a Community certificate until it has verified that the content of the container matches the particulars on the corresponding certificate and that the tamper-resistant container containing the rough diamonds has subsequently been sealed on the responsibility of that authority.
+
+3\. A Community authority shall opt for either of the following methods to verify that the content of a container matches the particulars thereon on the certificate:
+
+(a) it will verify the content of each container; or
+
+(b) it will identify the containers, the content of which shall be verified, on the basis of a risk analysis or equivalent system that gives due consideration to rough diamond shipments.
+
+4\. The Community authority shall provide the exporter with an authenticated forgery-resistant copy of the Community certificate it has validated. The exporter shall keep any copy accessible for at least three years.
+
+5\. The Community certificate shall be valid for export for no more than two months from the date of issue. If the rough diamonds are not exported within this period, the Community certificate shall be returned to the issuing Community authority.
+
+### Article 13
+
+If an exporter is a member of a diamond organisation listed in Annex V, the Community authority may accept as conclusive evidence of lawful import into the Community a signed declaration by the exporter to that effect. Such a declaration shall contain at least the information to be given in an invoice under Article 17(2)(a)(ii).
+
+### Article 14
+
+1\. If a Community authority establishes that a shipment of rough diamonds, for which a Community certificate is requested, does not fulfil the conditions of Articles 11, 12, or 13, that authority shall detain the shipment.
+
+2\. If a Community authority finds that the failure to fulfil the conditions is not made knowingly or intentionally or is the result of an action by another authority in the exercise of its proper duties, it may release the shipment and proceed with the issuing and validation of a Community Certificate, after the necessary remedial measures have been taken to ensure that the conditions are met.
+
+3\. The Community authority shall, within one month, inform the Commission and the competent authority of the participant that purportedly issued or validated the certificate for the shipment of any failure to fulfil the conditions.
+
+### Article 15
+
+1\. Community authorities shall provide the Commission with a monthly report on all Community certificates issued and validated by them.
+
+For each certificate this report shall list at least:
+
+(a) the unique certificate number,
+
+(b) the name of the issuing and validating authorities,
+
+(c) the date of issue and validation,
+
+(d) the date of expiry of validity,
+
+(e) the country of provenance,
+
+(f) the country of origin, where known,
+
+(g) the HS code(s),
+
+(h) the carat weight and value.
+
+In accordance with the procedure referred to in Article 22(2), the Commission may determine the format of the report in order to facilitate monitoring of the certification scheme's working.
+
+2\. Community authorities shall keep for at least three years the authenticated copies provided for under Article 12(4) as well as all information received from an exporter to justify the issue and validation of a Community certificate.
+
+They shall provide the Commission or persons or bodies designated by the Commission with access to those authenticated copies and this information, in particular with a view to answering questions raised within the framework of the KP certification scheme.
+
+### Article 16
+
+1\. The Commission shall consult participants on the practical arrangements for obtaining confirmation of imports of rough diamonds exported from the Community covered by a certificate validated by the Community authority.
+
+2\. On the basis of these consultations the Commission shall, in accordance with the procedure referred to in Article 22(2), lay down guidelines for such confirmation.
+
+## CHAPTER IV — INDUSTRY SELF-REGULATION
+
+### Article 17
+
+1\. Organisations representing traders in rough diamonds which have established a system of warranties and industry self-regulation for the purposes of implementing the KP Certification Scheme may apply to the Commission for listing in Annex V directly or through the appropriate Community authority.
+
+2\. When applying for listing, an organisation shall:
+
+(a) provide conclusive evidence that adopted rules and regulations whereby its members dealing in rough diamonds, whether natural or legal persons, undertake that they will, at the latest from the date of applicability of the Articles referred to in Article 29(3):
+
+(i) sell only diamonds purchased from legitimate sources in compliance with the provisions of relevant United Nations Security Council Resolutions and of the Kimberley Process Certification Scheme and guarantee in writing on the invoice accompanying each sale of rough diamonds that, on the basis of their personal knowledge and/or written warranties provided by the supplier of such rough diamonds, the rough diamonds sold are therefore not conflict diamonds;
+
+(ii) see that each sale of rough diamonds is accompanied by an invoice containing the said signed guarantee unequivocally identifying the seller and buyer and their registered offices, containing the VAT identification number of the seller, where applicable, the quantity/weight and qualification of the goods sold, the value of the transaction and the date of delivery;
+
+(iii) not buy rough diamonds from suspect or unknown sources of supply and/or rough diamonds originating in non-participants in the KP certification scheme;
+
+(iv) not buy rough diamonds from any source found, after legally binding due process, to have violated government laws and regulations concerning the trade in conflict diamonds;
+
+(v) not buy rough diamonds in, or from, any region that is the subject of an advisory notice from a governmental or KP certification scheme authority to the effect that conflict diamonds are emanating from, or are available for sale in, that region;
+
+(vi) not knowingly buy, sell or assist others in buying or selling conflict diamonds;
+
+(vii) ensure that all employees buying or selling rough diamonds within the diamond trade are fully informed of trade resolutions and government regulations restricting the trade in conflict diamonds;
+
+(viii) create and maintain for at least three years records of invoices received from suppliers and issued to customers;
+
+(ix) instruct an independent auditor to certify that these records have been created and maintained accurately and either that it has identified no transactions which failed to comply with the undertakings referred to in (i) to (viii) or that any transaction which failed to comply with such undertakings has been duly reported to the appropriate Community authority;
+
+and
+
+(b) provide conclusive evidence that is has adopted rules and regulations which oblige the organisation:
+
+(i) to expel any member found, after a due process inquiry by the organisation itself, to have seriously violated the abovementioned undertakings; and
+
+(ii) to publicise that member's expulsion and notify the Commission thereof;
+
+(iii) to make known to all its members all governmental and KP certification scheme laws, regulations and guidelines regarding conflict diamonds and the names of any natural or legal person found guilty, after legally binding due process, of violating these laws and regulations;
+
+and
+
+(c) provide the Commission and the appropriate Community authority with a complete list of all its members dealing in rough diamonds, including full names, addresses, location and other information which will contribute to avoiding mistaken identities.
+
+3\. Organisations covered by this Article shall immediately notify the Commission and the Community authority of a Member State in which they are resident or established of all changes in their membership subsequent to the application for listing.
+
+4\. In accordance with the procedure referred to in Article 22(2), the Commission shall list in Annex V each organisation that fulfils the requirements of this Article. It shall notify all Community authorities of the names and other relevant particulars of the members of listed organisations and any changes therein.
+
+5.
+
+(a) A listed organisation or a member thereof shall provide the relevant Community authority with access to any information that may be needed to assess the proper functioning of the system of warranties and industry self-regulation. Where circumstances justify, that Community authority may require additional guarantees that an organisation is able to maintain a credible system.
+
+(b) The appropriate Community authority shall report its assessment to the Commission on an annual basis.
+
+6\. If, in the course of monitoring the proper functioning of the system, a Community authority in a Member State obtains credible information that a listed organisation covered by this Article and established or resident in that Member State, or a member thereof established or resident in that Member State, is infringing the provisions of this Article, it shall inquire into the matter to verify whether the provisions of this Article have effectively been infringed.
+
+7.
+
+(a) If the Commission has credible information that a listed organisation or a member thereof is infringing the provisions of this Article, it shall request an assessment of the situation by the Community authority of a Member State in which the organisation or its member is resident or established. Upon such request, the relevant Community authority shall promptly inquire into the matter and duly inform the Commission of its findings.
+
+(b) If the Commission, on the basis of reports, assessments or other pertinent information, comes to the conclusion that a system of warranties and industry self-regulation does not function properly, and the issue has not been addressed adequately, the Commission shall take the necessary measures in accordance with the procedure referred to in Article 22(2).
+
+8\. If an inquiry leads to the conclusion that an organisation is infringing the provisions of this Article, the Community authority of a Member State in which that organisation is resident or established will notify the Commission thereof without delay. In turn, the Commission, in accordance with the procedure referred to in Article 22(2), shall take the appropriate measures with a view to removing that organisation from the list in Annex V.
+
+9\. If a listed organisation or one or more of its members are established or resident in a Member State that has not designated a Community authority for the purposes of this Article, the Commission shall be the Community authority for that organisation or those members.
+
+10\. Organisations or their members covered by this Article acting in the territory of a participant other than the Community shall be considered to have complied with the provisions of this Article if they comply with the rules and regulations that this participant has laid down for the purpose of implementing the Kimberley Process Certification Scheme.
+
+## CHAPTER V — TRANSIT
+
+### Article 18
+
+Articles 4, 11, 12, and 14 shall not apply to rough diamonds which enter the Community territory or Greenland solely for the purposes of transit to a participant outside those territories, on condition that neither the original container in which rough diamonds are being transported nor the original accompanying certificate issued by a competent authority of a participant has been tampered with at entry into or exit from the Community territory or Greenland, and the transit purpose is clearly attested by the accompanying certificate.
+
+## CHAPTER VI — GENERAL PROVISIONS
+
+### Article 19
+
+1\. Member States may designate one or more authorities in their territory as Community authority and may attribute different tasks to them.
+
+2\. Member States designating a Community authority shall provide the Commission with the information showing that their designated Community authorities can reliably, timely, effectively and adequately fulfil the tasks required by this Regulation.
+
+3\. Member States may limit the number of points where the formalities provided for in this Regulation can be completed. They shall notify the Commission thereof. Based on the information provided under paragraphs 1 and 2 and in accordance with the procedure referred to in Article 22(2), the Commission shall maintain in Annex III a list of Community authorities, their location and the tasks entrusted to them.
+
+4\. Community authorities may ask an economic operator to pay a fee for the production, issue and/or validation of a certificate and for a physical inspection in accordance with Articles 4 and 14. Under no circumstances shall the amount of that fee exceed the costs incurred by that competent authority for the operation concerned. No levies or similar duties shall be charged in relation to such operations.
+
+5\. Member States shall notify the Commission of the option they choose under Articles 4(5) and 12(3) or of subsequent changes.
+
+6\. The Commission may amend the specifications of the Community certificate with a view to improving its security, processing and functionality for the purposes of the KP certification scheme.
+
+### Article 20
+
+On the basis of relevant Information provided to the Chair of the KP certification scheme and/or by participants, the Commission may amend the list of participants and their competent authorities.
+
+### Article 21
+
+1\. The Union, including Greenland, shall be a participant in the KP certification scheme.
+
+2\. The Commission, which represents the Union, including Greenland, in the KP certification scheme, shall aim to ensure optimal implementation of the KP certification scheme, in particular through cooperation with participants. To this end, the Commission shall, in particular, exchange information with participants on international trade in rough diamonds and, where appropriate, cooperate in monitoring activities and in the settlement of any disputes that may arise.
+
+### Article 22
+
+1\. In the performance of its duties under Articles 8, 10, 15, 16, 17 and 19, the Commission shall be assisted by a Committee (hereinafter referred to as ‘the Committee’).
+
+2\. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply.
+
+The period laid down in Article 4(3) of Decision 1999/468/EC shall be set at ten working days.
+
+3\. The Committee shall establish its rules of procedure.
+
+### Article 23
+
+The Committee referred to in Article 22 may examine any question concerning the application of this Regulation. Such questions may be raised either by the chairman or by a representative of a Member State or Greenland.
+
+### Article 24
+
+1\. Any natural or legal person providing services directly or indirectly related to the activities covered by Articles 3, 4, 6, 7, 11, 12, 13, 17 or 18 shall exercise due diligence for establishing that the activities for which it provides services comply with the provisions of this Regulation.
+
+2\. The participation, knowingly and intentionally, in activities, the object or effect of which is, directly or indirectly, to circumvent the provisions of this Regulation shall be prohibited.
+
+3\. The Commission shall be notified of any information suggesting that the provisions of this Regulation are being, or have been, circumvented.
+
+### Article 25
+
+Information supplied in accordance with this Regulation shall be used only for the purposes for which it was provided.
+
+Information which is by nature confidential or which is provided on a confidential basis shall be covered by the obligation of professional secrecy. It shall not be disclosed by the Commission without the express permission of the person providing it.
+
+Communication of such information shall however be permitted where the Commission is obliged or authorised to do so, in particular in connection with legal proceedings. Such communication must take into account the legitimate interests of the person concerned that his or her business secrets should not be divulged.
+
+This Article shall not preclude the disclosure of general information by the Commission. Such disclosure shall not be permitted if this is incompatible with the original purpose of such information.
+
+In the event of a breach of confidentiality, the originator of the information shall be entitled to obtain that it be deleted, disregarded or rectified, as the case may be.
+
+### Article 26
+
+Compliance with this Regulation does not discharge any natural or legal person from compliance, fully or partially, with any other obligation under other Community or national legislation.
+
+### Article 27
+
+Each Member State shall determine the sanctions to be imposed where the provisions of this Regulation are infringed. Such sanctions shall be effective, proportionate and dissuasive and shall be capable of preventing those responsible for the infringement from obtaining any economic benefit from their action.
+
+Pending the adoption, where necessary, of any legislation to this end, the sanctions to be imposed where the provisions of this Regulation are infringed shall, where relevant, be those determined by the Member States in order to give effect to Article 5 of Regulation (EC) No 303/2002.
+
+### Article 28
+
+This Regulation shall apply:
+
+(a) within the Community territory, including its airspace, or on board any aircraft or any vessel under the jurisdiction of a Member State;
+
+(b) to any national of a Member State, and to any legal person, entity, or body which is incorporated or constituted under the law of a Member State.
+
+### Article 29
+
+1\. This Regulation shall enter into force on the day of its publication in the Official Journal of the European Communities.
+
+2\. The Commission shall report annually or at any other time as necessary to the Council on the implementation of this Regulation and the need for a review or repeal of the Regulation.
+
+3\. Articles 3, 4, 5, 10, 11, 12, 13, 14, 15 and 18 shall apply from 1 February 2003.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Kimberley Process Certification Scheme
+
+**PREAMBLE**
+
+PARTICIPANTS,
+
+— RECOGNISING that the trade in conflict diamonds is a matter of serious international concern, which can be directly linked to the fuelling of armed conflict, the activities of rebel movements aimed at undermining or overthrowing legitimate governments, and the illicit traffic in, and proliferation of, armaments, especially small arms and light weapons;
+
+— FURTHER RECOGNISING the devastating impact of conflicts fuelled by the trade in conflict diamonds on the peace, safety and security of people in affected countries and the systematic and gross human rights violations that have been perpetrated in such conflicts;
+
+— NOTING the negative impact of such conflicts on regional stability and the obligations placed upon states by the United Nations Charter regarding the maintenance of international peace and security;
+
+— BEARING IN MIND that urgent international action is imperative to prevent the problem of conflict diamonds from negatively affecting the trade in legitimate diamonds, which makes a critical contribution to the economies of many of the producing, processing, exporting and importing states, especially developing states;
+
+— RECALLING all of the relevant resolutions of the United Nations Security Council under Chapter VII of the United Nations Charter, including the relevant provisions of Resolutions 1173 (1998), 1295 (2000), 1306 (2000), and 1343 (2001), and determined to contribute to and support the implementation of the measures provided for in these resolutions;
+
+— HIGHLIGHTING the United Nations General Assembly Resolution 55/56 (2000) on the role of the trade in conflict diamonds in fuelling armed conflict, which called on the international community to give urgent and careful consideration to devising effective and pragmatic measures to address this problem;
+
+— FURTHER HIGHLIGHTING the recommendation in United Nations General Assembly Resolution 55/56 that the international community develop detailed proposals for a simple and workable international certification scheme for rough diamonds based primarily on national certification schemes and on internationally agreed minimum standards;
+
+— RECALLING that the Kimberley Process, which was established to find a solution to the international problem of conflict diamonds, was inclusive of concerned stake holders, namely producing, exporting and importing states, the diamond industry and civil society;
+
+— CONVINCED that the opportunity for conflict diamonds to play a role in fuelling armed conflict can be seriously reduced by introducing a certification scheme for rough diamonds designed to exclude conflict diamonds from the legitimate trade;
+
+— RECALLING that the Kimberley Process considered that an international certification scheme for rough diamonds, based on national laws and practices and meeting internationally agreed minimum standards, will be the most effective system by which the problem of conflict diamonds could be addressed;
+
+— ACKNOWLEDGING the important initiatives already taken to address this problem, in particular by the governments of Angola, the Democratic Republic of Congo, Guinea and Sierra Leone and by other key producing, exporting and importing countries, as well as by the diamond industry, in particular by the World Diamond Council, and by civil society;
+
+— WELCOMING voluntary self-regulation initiatives announced by the diamond industry and recognising that a system of such voluntary self-regulation contributes to ensuring an effective internal control system of rough diamonds based upon the international certification scheme for rough diamonds;
+
+— RECOGNISING that an international certification scheme for rough diamonds will only be credible if all Participants have established internal systems of control designed to eliminate the presence of conflict diamonds in the chain of producing, exporting and importing rough diamonds within their own territories, while taking into account that differences in production methods and trading practices as well as differences in institutional controls thereof may require different approaches to meet minimum standards;
+
+— FURTHER RECOGNISING that the international certification scheme for rough diamonds must be consistent with international law governing international trade;
+
+— ACKNOWLEDGING that state sovereignty should be fully respected and the principles of equality, mutual benefits and consensus should be adhered to,
+
+RECOMMEND THE FOLLOWING PROVISIONS:
+
+**SECTION I**
+
+**Definitions**
+
+For the purposes of the international certification scheme for rough diamonds (hereinafter referred to as ‘the Certification Scheme’) the following definitions apply:
+
+CONFLICT DIAMONDS means rough diamonds used by rebel movements or their allies to finance conflict aimed at undermining legitimate governments, as described in relevant United Nations Security Council (UNSC) resolutions insofar as they remain in effect, or in other similar UNSC resolutions which may be adopted in the future, and as understood and recognised in United Nations General Assembly (UNGA) Resolution 55/56, or in other similar UNGA resolutions which may be adopted in future;
+
+COUNTRY OF ORIGIN means the country where a shipment of rough diamonds has been mined or extracted;
+
+COUNTRY OF PROVENANCE means the last Participant from where a shipment of rough diamonds was exported, as recorded on import documentation;
+
+DIAMOND means a natural mineral consisting essentially of pure crystallised carbon in the isometric system, with a hardness on the Mohs (scratch) scale of 10, a specific gravity of approximately 3.52 and a refractive index of 2.42;
+
+EXPORT means the physical leaving/taking out of any part of the geographical territory of a Participant;
+
+EXPORTING AUTHORITY means the authority(ies) or body(ies) designated by a Participant from whose territory a shipment of rough diamonds is leaving, and which are authorised to validate the Kimberley Process Certificate;
+
+FREE TRADE ZONE means a part of the territory of a Participant where any goods introduced are generally regarded, insofar as import duties and taxes are concerned, as being outside the customs territory;
+
+IMPORT means the physical entering/bringing into any part of the geographical territory of a Participant;
+
+IMPORTING AUTHORITY means the authority(ies) or body(ies) designated by a Participant into whose territory a shipment of rough diamonds is imported to conduct all import formalities and particularly the verification of accompanying Kimberley Process Certificates;
+
+KIMBERLEY PROCESS CERTIFICATE means a forgery resistant document with a particular format which identifies a shipment of rough diamonds as being in compliance with the requirements of the Certification Scheme;
+
+OBSERVER means a representative of civil society, the diamond industry, international organisations and non-participating governments invited to take part in Plenary meetings;
+
+PARCEL means one or more diamonds that are packed together and that are not individualised;
+
+PARCEL OF MIXED ORIGIN means a parcel that contains rough diamonds from two or more countries of origin, mixed together;
+
+PARTICIPANT means a state or a regional economic integration organisation for which the Certification Scheme is effective;
+
+REGIONAL ECONOMIC INTEGRATION ORGANISATION means an organisation comprised of sovereign states that have transferred competence to that organisation in respect of matters governed by the Certification Scheme;
+
+ROUGH DIAMONDS means diamonds that are unworked or simply sawn, cleaved or bruted and fall under the Relevant Harmonised Commodity Description and Coding System 7102 10 00 , 7102 21 00 and 7102 31 00 ;
+
+SHIPMENT means one or more parcels that are physically imported or exported;
+
+TRANSIT means the physical passage across the territory of a Participant or a non-Participant, with or without transhipment, warehousing or change in mode of transport, when such passage is only a portion of a complete journey beginning and terminating beyond the frontier of the Participant or non-Participant across whose territory a shipment passes;
+
+**SECTION II**
+
+**The Kimberley Process Certificate**
+
+Each Participant should ensure that:
+
+(a) a Kimberley Process Certificate (hereafter referred to as the Certificate) accompanies each shipment of rough diamonds on export;
+
+(b) its processes for issuing Certificates meet the minimum standards of the Kimberley Process as set out in Section IV;
+
+(c) Certificates meet the minimum requirements set out in Annex I. As long as these requirements are met, Participants may at their discretion establish additional characteristics for their own Certificates, for example their form, additional data or security elements;
+
+(d) it notifies all other Participants through the Chair of the features of its Certificate as specified in Annex I, for purposes of validation.
+
+**SECTION III**
+
+**Undertakings in respect of the international trade in rough diamonds**
+
+Each Participant should:
+
+(a) with regard to shipments of rough diamonds exported to a Participant, require that each such shipment is accompanied by a duly validated Certificate;
+
+(b) with regard to shipments of rough diamonds imported from a Participant:
+
+— require a duly validated Certificate;
+
+— ensure that confirmation of receipt is sent expeditiously to the relevant Exporting Authority. The confirmation should as a minimum refer to the Certificate number, the number of parcels, the carat weight and the details of the importer and exporter;
+
+— require that the original of the Certificate be readily accessible for a period of no less than three years;
+
+(c) ensure that no shipment of rough diamonds is imported from or exported to a non-Participant;
+
+(d) recognise that Participants through whose territory shipments transit are not required to meet the requirement of paragraphs (a) and (b) above, and of Section II (a) provided that the designated authorities of the Participant through whose territory a shipment passes, ensure that the shipment leaves its territory in an identical state as it entered its territory (i.e. unopened and not tampered with).
+
+**SECTION IV**
+
+**Internal controls**
+
+**Undertakings by Participants**
+
+Each Participant should:
+
+(a) establish a system of internal controls designed to eliminate the presence of conflict diamonds from shipments of rough diamonds imported into and exported from its territory;
+
+(b) designate an Importing and an Exporting Authority(ies);
+
+(c) ensure that rough diamonds are imported and exported in tamper resistant containers;
+
+(d) as required, amend or enact appropriate laws or regulations to implement and enforce the Certification Scheme and to maintain dissuasive and proportional penalties for transgressions;
+
+(e) collect and maintain relevant official production, import and export data, and collate and exchange such data in accordance with the provisions of Section V.
+
+(f) when establishing a system of internal controls, take into account, where appropriate, the further options and recommendations for internal controls as elaborated in Annex II.
+
+**Principles of Industry Self-Regulation**
+
+Participants understand that a voluntary system of industry self-regulation, as referred to in the Preamble of this Document, will provide for a system of warranties underpinned through verification by independent auditors of individual companies and supported by internal penalties set by industry, which will help to facilitate the full traceability of rough diamond transactions by government authorities.
+
+**SECTION V**
+
+**Cooperation and transparency**
+
+Participants should:
+
+(a) provide to each other through the Chair information identifying their designated authorities or bodies responsible for implementing the provisions of this Certification Scheme. Each Participant should provide to other Participants through the Chair information, preferably in electronic format, on its relevant laws, regulations, rules, procedures and practices, and update that information as required. This should include a synopsis in English of the essential content of this information;
+
+(b) compile and make available to all other Participants through the Chair statistical data in line with the principles set out in Annex III;
+
+(c) exchange on a regular basis experiences and other relevant information, including on self-assessment, in order to arrive at the best practice in given circumstances;
+
+(d) consider favourably requests from other Participants for assistance to improve the functioning of the Certification Scheme within their territories;
+
+(e) inform another Participant through the Chair if it considers that the laws, regulations, rules, procedures or practices of that other Participant do not ensure the absence of conflict diamonds in the exports of that other Participant;
+
+(f) cooperate with other Participants to attempt to resolve problems which may arise from unintentional circumstances and which could lead to non-fulfilment of the minimum requirements for the issuance or acceptance of the Certificates, and inform all other Participants of the essence of the problems encountered and of solutions found;
+
+(g) encourage, through their relevant authorities, closer cooperation between law enforcement agencies and between customs agencies of Participants.
+
+**SECTION VI**
+
+**Administrative matters**
+
+**MEETINGS**
+
+1\. Participants and Observers are to meet in Plenary annually, and on other occasions as Participants may deem necessary, in order to discuss the effectiveness of the Certification Scheme.
+
+2\. Participants should adopt Rules of Procedure for such meetings at the first Plenary meeting.
+
+3\. Meetings are to be held in the country where the Chair is located, unless a Participant or an international organisation offers to host a meeting and this offer has been accepted. The host country should facilitate entry formalities for those attending such meetings.
+
+4\. At the end of each Plenary meeting, a Chair would be elected to preside over all Plenary meetings, ad hoc working groups and other subsidiary bodies, which might be formed until the conclusion of the next annual Plenary meeting.
+
+5\. Participants are to reach decisions by consensus. In the event that consensus proves to be impossible, the Chair is to conduct consultations.
+
+**ADMINISTRATIVE SUPPORT**
+
+6\. For the effective administration of the Certification Scheme, administrative support will be necessary. The modalities and functions of that support should be discussed at the first Plenary meeting, following endorsement by the UN General Assembly.
+
+7\. Administrative support could include the following functions:
+
+(a) to serve as a channel of communication, information sharing and consultation between the Participants with regard to matters provided for in this Document;
+
+(b) to maintain and make available for the use of all Participants a collection of those laws, regulations, rules, procedures, practices and statistics notified pursuant to Section V;
+
+(c) to prepare documents and provide administrative support for Plenary and working group meetings;
+
+(d) to undertake such additional responsibilities as the Plenary meetings, or any working group delegated by Plenary meetings, may instruct.
+
+**PARTICIPATION**
+
+8\. Participation in the Certification Scheme is open on a global, non-discriminatory basis to all Applicants willing and able to fulfill the requirements of that Scheme.
+
+9\. Any applicant wishing to participate in the Certification Scheme should signify its interest by notifying the Chair through diplomatic channels. This notification should include the information set forth in paragraph (a) of Section V and be circulated to all Participants within one month.
+
+10\. Participants intend to invite representatives of civil society, the diamond industry, non-participating governments and international organisations to participate in Plenary meetings as Observers.
+
+**PARTICIPANT MEASURES**
+
+11\. Participants are to prepare, and make available to other Participants, in advance of annual Plenary meetings of the Kimberley Process, information as stipulated in paragraph (a) of Section V outlining how the requirements of the Certification Scheme are being implemented within their respective jurisdictions.
+
+12\. The agenda of annual Plenary meetings is to include an item where information as stipulated in paragraph (a) of Section V is reviewed and Participants can provide further details of their respective systems at the request of the Plenary.
+
+13\. Where further clarification is needed, Participants at Plenary meetings, upon recommendation by the Chair, can identify and decide on additional verification measures to be undertaken. Such measures are to be implemented in accordance with applicable national and international law. These could include, but need not be limited to measures such as:
+
+(a) requesting additional information and clarification from Participants;
+
+(b) review missions by other Participants or their representatives where there are credible indications of significant non-compliance with the Certification Scheme.
+
+14\. Review missions are to be conducted in an analytical, expert and impartial manner with the consent of the Participant concerned. The size, composition, terms of reference and time-frame of these missions should be based on the circumstances and be established by the Chair with the consent of the Participant concerned and in consultation with all Participants.
+
+15\. A report on the results of compliance verification measures is to be forwarded to the Chair and to the Participant concerned within three weeks of completion of the mission. Any comments from that Participant as well as the report, are to be posted on the restricted access section of an official Certification Scheme website no later than three weeks after the submission of the report to the Participant concerned. Participants and Observers should make every effort to observe strict confidentiality regarding the issue and the discussions relating to any compliance matter.
+
+**COMPLIANCE AND DISPUTE PREVENTION**
+
+16\. In the event that an issue regarding compliance by a Participant or any other issue regarding the implementation of the Certification Scheme arises, any concerned Participant may so inform the Chair, who is to inform all Participants without delay about the said concern and enter into dialogue on how to address it. Participants and Observers should make every effort to observe strict confidentiality regarding the issue and the discussions relating to any compliance matter.
+
+**MODIFICATIONS**
+
+17\. This document may be modified by consensus of the Participants.
+
+18\. Modifications may be proposed by any Participant. Such proposals should be sent in writing to the Chair, at least ninety days before the next Plenary meeting, unless otherwise agreed.
+
+19\. The Chair is to circulate any proposed modification expeditiously to all Participants and Observers and place it on the agenda of the next annual Plenary meeting.
+
+**REVIEW MECHANISM**
+
+20\. Participants intend that the Certification Scheme should be subject to periodic review, to allow Participants to conduct a thorough analysis of all elements contained in the scheme. The review should also include consideration of the continuing requirement for such a scheme, in view of the perception of the Participants, and of international organisations, in particular the United Nations, of the continued threat posed at that time by conflict diamonds. The first such review should take place no later than three years after the effective starting date of the Certification Scheme. The review meeting should normally coincide with the annual Plenary meeting, unless otherwise agreed.
+
+**THE START OF THE IMPLEMENTATION OF THE SCHEME**
+
+21\. The Certification Scheme should be established at the Ministerial Meeting on the Kimberley Process Certification Scheme for Rough Diamonds in Interlaken on 5 November 2002.
+
+## Annex I to ANNEX I — CERTIFICATES
+
+**A. Minimum requirements for Certificates**
+
+A Certificate is to meet the following minimum requirements:
+
+— Each Certificate should bear the title ‘Kimberley Process Certificate’ and the following statement: ‘The rough diamonds in this shipment have been handled in accordance with the provisions of the Kimberley Process Certification Scheme for rough diamonds’
+
+— Country of origin for shipment of parcels of unmixed (i.e. from the same) origin
+
+— Certificates may be issued in any language, provided that an English translation is incorporated
+
+— Unique numbering with the Alpha 2 country code, according to ISO 3166-1
+
+— Tamper and forgery resistant
+
+— Date of issuance
+
+— Date of expiry
+
+— Issuing authority
+
+— Identification of exporter and importer
+
+— Carat weight/mass
+
+— Value in US$
+
+— Number of parcels in shipment
+
+— Relevant Harmonised Commodity Description and Coding System
+
+— Validation of Certificate by the Exporting Authority
+
+**B. Optional Certificate Elements**
+
+A Certificate may include the following optional features:
+
+— Characteristics of a Certificate (for example as to form, additional data or security elements)
+
+— Quality characteristics of the rough diamonds in the shipment
+
+— A recommended import confirmation part should have the following elements:
+
+Country of destination
+
+Identification of importer
+
+Carat/weight and value in US$
+
+Relevant Harmonised Commodity Description and Coding System
+
+Date of receipt by Importing Authority
+
+Authentication by Importing Authority
+
+**C. Optional Procedures**
+
+Rough diamonds may be shipped in transparent security bags.
+
+The unique Certificate number may be replicated on the container.
+
+## Annex II to ANNEX I — RECOMMENDATIONS AS PROVIDED FOR IN SECTION IV, PARAGRAPH (F)
+
+**General Recommendations**
+
+1\. Participants may appoint an official coordinator(s) to deal with the implementation of the Certification Scheme.
+
+2\. Participants may consider the utility of complementing and/or enhancing the collection and publication of the statistics identified in Annex III based on the contents of Kimberley Process Certificates.
+
+3\. Participants are encouraged to maintain the information and data required by Section V on a computerised database.
+
+4\. Participants are encouraged to transmit and receive electronic messages in order to support the Certification Scheme.
+
+5\. Participants that produce diamonds and that have rebel groups suspected of mining diamonds within their territories are encouraged to identify the areas of rebel diamond mining activity and provide this information to all other Participants. This information should be updated on a regular basis.
+
+6\. Participants are encouraged to make known the names of individuals or companies convicted of activities relevant to the purposes of the Certification Scheme to all other Participants through the Chair.
+
+7\. Participants are encouraged to ensure that all cash purchases of rough diamonds are routed through official banking channels, supported by verifiable documentation.
+
+8\. Participants that produce diamonds should analyse their diamond production under the following headings:
+
+— Characteristics of diamonds produced
+
+— Actual production
+
+**Recommendations for Control over Diamond Mines**
+
+9\. Participants are encouraged to ensure that all diamond mines are licensed and to allow only those mines so licensed to mine diamonds.
+
+10\. Participants are encouraged to ensure that prospecting and mining companies maintain effective security standards to ensure that conflict diamonds do not contaminate legitimate production.
+
+**Recommendations for Participants with Small-scale Diamond Mining**
+
+11\. All artisanal and informal diamond miners should be licensed and only those persons so licensed should be allowed to mine diamonds.
+
+12\. Licensing records should contain the following minimum information: name, address, nationality and/or residence status and the area of authorised diamond mining activity.
+
+**Recommendations for Rough Diamond Buyers, Sellers and Exporters**
+
+13\. All diamond buyers, sellers, exporters, agents and courier companies involved in carrying rough diamonds should be registered and licensed by each Participant's relevant authorities.
+
+14\. Licensing records should contain the following minimum information: name, address and nationality and/or residence status.
+
+15\. All rough diamond buyers, sellers and exporters should be required by law to keep for a period of five years daily buying, selling or exporting records listing the names of buying or selling clients, their license number and the amount and value of diamonds sold, exported or purchased.
+
+16\. The information in paragraph 14 above should be entered into a computerised database, to facilitate the presentation of detailed information relating to the activities of individual rough diamond buyers and sellers.
+
+**Recommendations for Export Processes**
+
+17\. A exporter should submit a rough diamond shipment to the relevant Exporting Authority.
+
+18\. The Exporting Authority is encouraged, prior to validating a Certificate, to require an exporter to provide a declaration that the rough diamonds being exported are not conflict diamonds.
+
+19\. Rough diamonds should be sealed in a tamper proof container together with the Certificate or a duly authenticated copy. The Exporting Authority should then transmit a detailed e-mail message to the relevant Importing Authority containing information on the carat weight, value, country of origin or provenance, importer and the serial number of the Certificate.
+
+20\. The Exporting Authority should record all details of rough diamond shipments on a computerised database.
+
+**Recommendations for Import Processes**
+
+21\. The Importing Authority should receive an e-mail message either before or upon arrival of a rough diamond shipment. The message should contain details such as the carat weight, value, country of origin or provenance, exporter and the serial number of the Certificate.
+
+22\. The Importing Authority should inspect the shipment of rough diamonds to verify that the seals and the container have not been tampered with and that the export was performed in accordance with the Certification Scheme.
+
+23\. The Importing Authority should open and inspect the contents of the shipment to verify the details declared on the Certificate.
+
+24\. Where applicable and when requested, the Importing Authority should send the return slip or import confirmation coupon to the relevant Exporting Authority.
+
+25\. The Importing Authority should record all details of rough diamond shipments on a computerised database.
+
+**Recommendations on Shipments to and from Free Trade Zones**
+
+26\. Shipments of rough diamonds to and from free trade zones should be processed by the designated authorities.
+
+## Annex III to ANNEX I — STATISTICS
+
+Recognising that reliable and comparable data on the production and the international trade in rough diamonds are an essential tool for the effective implementation of the Certification Scheme, and particularly for identifying any irregularities or anomalies which could indicate that conflict diamonds are entering the legitimate trade, Participants strongly support the following principles, taking into account the need to protect commercially sensitive information:
+
+(a) to keep and publish within two months of the reference period and in a standardised format, quarterly aggregate statistics on rough diamond exports and imports, as well as the numbers of certificates validated for export, and of imported shipments accompanied by Certificates;
+
+(b) to keep and publish statistics on exports and imports, by origin and provenance wherever possible; by carat weight and value; and under the relevant Harmonised Commodity Description and Coding System (HS) classifications 7102 10 ; 7102 21 ; 7102 31 ;
+
+(c) to keep and publish on a semi-annual basis and within two months of the reference period statistics on rough diamond production by carat weight and by value. In the event that a Participant is unable to publish these statistics it should notify the Chair immediately;
+
+(d) to collect and publish these statistics by relying in the first instance on existing national processes and methodologies;
+
+(e) to make these statistics available to an intergovernmental body or to another appropriate mechanism identified by the Participants for (1) compilation and publication on a quarterly basis in respect of exports and imports, and (2) on a semi-annual basis in respect of production. These statistics are to be made available for analysis by interested parties and by the Participants, individually or collectively, according to such terms of reference as may be established by the Participants;
+
+(f) to consider statistical information pertaining to the international trade in and production of rough diamonds at annual Plenary meetings, with a view to addressing related issues, and to supporting effective implementation of the Certification Scheme.
+
+## ANNEX II — List of participants in the Kimberley Process certification scheme and their respective competent authorities as referred to in Articles 2, 3, 8, 9, 12, 17, 18, 19 and 20
+
+**ANGOLA**
+
+Ministry of Mineral Resources and Petroleum and Gas
+
+Av. 4 de Fevereiro no 105
+
+1279 Luanda
+
+Angola
+
+Export authority:
+
+Ministry of Industry and Trade
+
+Largo 4 de Fevereiro #3
+
+Edifício Palacio de vidro
+
+1242 Luanda
+
+Angola
+
+**ARMENIA**
+
+Department of Gemstones and Jewellery
+
+Ministry of Economy
+
+M. Mkrtchyan 5
+
+Yerevan
+
+Armenia
+
+**AUSTRALIA**
+
+Department of Foreign Affairs and Trade
+
+Investment and Business Engagement Division
+
+R.G. Casey Building
+
+John McEwen Crescent
+
+Barton ACT 0221
+
+Australia Import and export authority:
+
+Department of Home Affairs
+
+Customs and Trade Policy Branch
+
+Australian Border Force
+
+3 Molonglo Drive
+
+Brindabella Business Park
+
+Canberra ACT 2609
+
+Australia
+
+Department of Industry, Science, Energy and Resources
+
+GPO Box 2013
+
+Canberra ACT 2601
+
+Australia
+
+**BANGLADESH**
+
+Export Promotion Bureau
+
+TCB Bhaban
+
+1, Karwan Bazaar
+
+Dhaka
+
+Bangladesh
+
+**BELARUS**
+
+Ministry of Finance
+
+Department for Precious Metals and Precious Stones
+
+Sovetskaja Str, 7
+
+220010 Minsk
+
+Republic of Belarus
+
+**BOTSWANA**
+
+Ministry of Minerals, Green Technology and Energy Security (MMGE)
+
+Fairgrounds Office Park, Plot No. 50676 Block C
+
+P/Bag 0018
+
+Gaborone
+
+Botswana
+
+Import and Export Authority:
+
+Diamond Hub
+
+Diamond Technology Park
+
+Plot 67782, Block 8 Industrial
+
+Gaborone
+
+Botswana
+
+**BRAZIL**
+
+Ministry of Mines and Energy
+
+Esplanada dos Ministérios, Bloco‘U', 4o andar
+
+70065, 900 Brasilia, DF
+
+Brazil
+
+**CAMBODIA**
+
+Ministry of Commerce
+
+Lot 19–61, MOC Road (113 Road), Phum Teuk Thla, Sangkat Teuk Thla
+
+Khan Sen Sok, Phnom Penh
+
+Cambodia
+
+**CAMEROON**
+
+National Permanent Secretariat for the Kimberley Process
+
+Ministry of Mines, Industry and Technological Development
+
+Intek Building, 6th floor,
+
+Navik Street
+
+BP 35601 Yaounde
+
+Cameroon
+
+**CANADA**
+
+International:
+
+Global Affairs Canada Natural Resources and Governance Division (MES) 125 Sussex Drive Ottawa, Ontario K1A 0G2
+
+Canada
+
+For General Enquiries at Natural Resources Canada:
+
+Kimberley Process Office
+
+Lands and Minerals Sector Natural Resources Canada (NRCan)
+
+580 Booth Street, 10th floor
+
+Ottawa, Ontario
+
+Canada K1A 0E4
+
+**CENTRAL AFRICAN REPUBLIC**
+
+Secrétariat permanent du processus de Kimberley
+
+BP: 26 Bangui
+
+Central African Republic
+
+CHINA, People's Republic of
+
+Department of Duty Collection
+
+General Administration of China Customs (GACC)
+
+No 6 Jianguomen Nie Rev.
+
+Dongcheng District, Beijing 100730
+
+People’s Republic of China
+
+HONG KONG, Special Administrative Region of the People's Republic of China
+
+Department of Trade and Industry
+
+Hong Kong Special Administrative Region
+
+People’s Republic of China
+
+Room 703, Trade and Industry Tower
+
+700 Nathan Road
+
+Kowloon
+
+Hong Kong
+
+China
+
+MACAO, Special Administrative Region of the People’s Republic of China
+
+Macao Economic Bureau
+
+Government of the Macao Special Administrative Region
+
+Rua Dr Pedro José Lobo, no. 1–3, 25th Floor
+
+Macao
+
+CONGO, Democratic Republic of
+
+Centre d'Expertise, d'Évaluation et de Certification des Substances Minérales Précieuses et Semi-précieuses (CEEC)
+
+3989, avenue des Cliniques
+
+Kinshasa/Gombe
+
+Democratic Republic of Congo
+
+CONGO, Republic of
+
+Bureau d'Expertise, d'Évaluation et de Certification des Substances Minérales Précieuses (BEEC)
+
+BP 2787
+
+Brazzaville
+
+Republic of Congo
+
+**COTE D'IVOIRE**
+
+Ministère des Mines et de la Géologie
+
+Secrétariat Permanent de la Représentation en Côte d'Ivoire du Processus de Kimberley (SPRPK-CI)
+
+B.P 65 Abidjan
+
+Côte d'Ivoire
+
+**ESWATINI**
+
+Office for the Commissioner of Mines
+
+Minerals and Mines Departments, Third Floor Lilunga Building (West Wing),
+
+Somhlolo Road,
+
+Mbabane
+
+Eswatini
+
+**EUROPEAN UNION**
+
+European Commission
+
+Service for Foreign Policy Instruments
+
+Office EEAS
+
+B-1049 Bruxelles/Brussel
+
+Belgium
+
+**GABON**
+
+Centre Permanent du Processus de Kimberley (CPPK)
+
+Ministry of Equipment, Infrastructure, and Mines
+
+Immeuble de la Géologie, 261 rue Germain Mba
+
+B.P. 284/576
+
+Libreville
+
+Gabon
+
+**GHANA**
+
+Ministry of Lands and Natural Resources
+
+Accra P.O. Box M 212
+
+Ghana
+
+Import and export authority:
+
+Precious Minerals Marketing Company Ltd (PMMC)
+
+Diamond House
+
+PO Box M.108
+
+Accra
+
+Ghana
+
+**GUINEA**
+
+Ministry of Mines and Geology
+
+Boulevard du Commerce – BP 295
+
+Quartier Almamya / Commune de Kaloum
+
+Conakry
+
+Guinea
+
+**GUYANA**
+
+Geology and Mines Commission
+
+P O Box 1028
+
+Upper Brickdam
+
+Stabroek
+
+Georgetown
+
+Guyana
+
+**INDIA**
+
+Government of India, Ministry of Commerce & Industry
+
+Udyog Bhawan
+
+New Delhi 110 011
+
+India
+
+Import and export authority:
+
+The Gem & Jewellery Export Promotion Council
+
+KP Exporting/Importing Authority
+
+Tower A, AW-1010, Baharat Diamond Bourse
+
+Opp NABARD Bank, Bandra Kurla Complex
+
+Bandra (E), Mumbai – 400 051
+
+India
+
+**INDONESIA**
+
+Directorate of Export and Import Facility, Ministry of Trade M. I. Ridwan Rais Road, No. 5 Blok I Iantai 4
+
+Jakarta Pusat Kotak Pos. 10110
+
+Jakarta
+
+Indonesia
+
+**ISRAEL**
+
+Ministry of Economy and Industry Office of the Diamond Controller
+
+3 Jabotinsky Road
+
+Ramat Gan 52520
+
+Israel
+
+**JAPAN**
+
+Agency for Natural Resources and Energy
+
+Mineral and Natural Resources Division
+
+Ministry of Economy, Trade and Industry
+
+1-3-1 Kasumigaseki, Chiyoda-ku
+
+100-8901 Tokyo
+
+Japan
+
+**KAZAKHSTAN**
+
+Ministry of Industry and Infrastructural Development of the Republic of Kazakhstan
+
+Industrial Development Committee
+
+32/1 Kabanbai Batyr Ave. Nur-Sultan
+
+Republic of Kazakhstan
+
+KOREA, Republic of
+
+Ministry of Foreign Affairs
+
+United Nations Division 60 Sajik-ro 8-gil
+
+Jongno-gu
+
+Seoul 03172
+
+Korea
+
+**KYRGYZSTAN**
+
+Ministry of and Finance of the Kyrgyz Republic
+
+Department of Precious Metals
+
+Samanchina street 6
+
+Bishkek 720020
+
+Kyrgyz Republic
+
+LAOS, People's Democratic Republic of
+
+Department of Import and Export
+
+Ministry of Industry and Commerce
+
+Phonxay road, Saisettha District
+
+Vientiane, Lao PDR
+
+P.O Box: 4107
+
+Laos
+
+**LEBANON**
+
+Ministry of Economy and Trade
+
+Lazariah Building
+
+Down Town
+
+Beirut
+
+Lebanon
+
+**LESOTHO**
+
+Department of Mines
+
+Ministry of Mining
+
+Corner Constitution and Parliament Road
+
+P.O. Box 750
+
+Maseru 100
+
+Lesotho
+
+**LIBERIA**
+
+Government Diamond Office
+
+Ministry of Mines and Energy
+
+Capitol Hill
+
+P.O. Box 10-9024
+
+1000 Monrovia 10
+
+Liberia
+
+**MALAYSIA**
+
+Ministry of International Trade and Industry
+
+MITI Tower,
+
+No.7, Jalan Sultan Haji Ahmad Shah
+
+50480 Kuala Lumpur
+
+Malaysia
+
+Import and export authority:
+
+Royal Malaysian Customs Department
+
+Jabatan Kastam Diraja Malaysia,
+
+Kompleks Kementerian Kewangan No. 3,
+
+Persiaran Perdana,
+
+Presint 2, 62596 Putrajaya,
+
+Malaysia.
+
+**MALI**
+
+Ministère des Mines
+
+Bureau d'Expertise d'Évaluation et de Certification des Diamants Bruts
+
+Cité administrative, P.O. BOX : 1909
+
+Bamako
+
+République du Mali
+
+**MAURITIUS**
+
+Import Division
+
+Ministry of Industry, Commerce & Consumer Protection
+
+2nd Floor, SICOM Tower
+
+Wall Street
+
+Ebene
+
+Mauritius
+
+**MEXICO**
+
+Ministry of Economy
+
+Directorate-General for Market Access of Goods SE.
+
+189 Pachuca Street, Condesa, 17th Floor
+
+Mexico City, 06140
+
+Mexico
+
+Import and export authority:
+
+Directorate-General for Trade Facilitation and Foreign Trade
+
+SE. Undersecretary of Industry and Trade
+
+1940 South Insurgentes Avenue, PH floor
+
+Mexico City, 01030
+
+Mexico
+
+SHCP-AGA. Strategic Planning and Coordination
+
+Customs Administration ‘2’
+
+160 Lucas Alaman Street, Obrera
+
+Mexico City, 06800
+
+Mexico
+
+**MOZAMBIQUE**
+
+Ministry Mineral Resources and Energy
+
+Av. Fernão de Magalhães №.34, 1o andar
+
+Maputo
+
+Mozambique
+
+Import and Export Authority:
+
+UGPK
+
+Praca 25 de Junho, №.380 3o andar
+
+Maputo
+
+Mozambique
+
+Department of Licencing and Exchange Control (DLC)
+
+Av. 25 de Setembro, no 1695, caixa postal no 423
+
+Maputo
+
+Mozambique
+
+**NAMIBIA**
+
+The Government of Republic of Namibia Ministry of Mines and Energy
+
+Directorate of Diamond Affairs Private Bag 13297
+
+1st Aviation Road (Eros Airport)
+
+Windhoek
+
+Namibia
+
+**NEW ZEALAND**
+
+Middle East and Africa Division
+
+Ministry of Foreign Affairs and Trade
+
+Private Bag 18 901
+
+Wellington
+
+New Zealand
+
+Import and export authority:
+
+New Zealand Customs Service
+
+1 Hinemoa Street
+
+PO box 2218
+
+Wellington 6140
+
+New Zealand
+
+**NORWAY**
+
+Ministry of Foreign Affairs
+
+Department for Regional Affairs
+
+The budget and coordination unit
+
+Box 8114 Dep
+
+0032 Oslo, Norway
+
+Import and export authority:
+
+The Directorate of Norwegian Customs
+
+Postboks 2103 Vika
+
+N-0125 Oslo, Norway
+
+**PANAMA**
+
+National Customs Authority
+
+Panama City, Curundu, Dulcidio Gonzalez Avenue, building # 1009
+
+Republic of Panama
+
+**QATAR**
+
+Qatar Free Zones Authority - Business and Innovation Park (QFZA/BIP)
+
+Building No 1
+
+Zone 49
+
+Street 504
+
+Qatar
+
+**RUSSIAN FEDERATION**
+
+International:
+
+Ministry of Finance
+
+9, Ilyinka Street
+
+109097 Moscow
+
+Russian Federation
+
+Import and Export Authority:
+
+Gokhran of Russia
+
+14, 1812 Goda St.
+
+121170 Moscow
+
+Russian Federation
+
+**SIERRA LEONE**
+
+Ministry of Mines and Mineral Resources
+
+Youyi Building
+
+Brookfields
+
+Freetown
+
+Sierra Leone
+
+Import and export authority:
+
+National Minerals Agency
+
+New England Ville
+
+Freetown
+
+Sierra Leone
+
+**SINGAPORE**
+
+Ministry of Trade and Industry
+
+100 High Street
+
+\#09-01, The Treasury
+
+Singapore 179434
+
+Import and Export authority:
+
+Singapore Customs
+
+55 Newton Road
+
+\#06-02 Revenue House
+
+Singapore 307987
+
+**SOUTH AFRICA**
+
+South African Diamond and Precious Metals Regulator
+
+251 Fox Street
+
+Doornfontein 2028
+
+Johannesburg
+
+South Africa
+
+**SRI LANKA**
+
+National Gem and Jewellery Authority
+
+25, Galle Face Terrace
+
+Post Code 00300
+
+Colombo 03
+
+Sri Lanka
+
+**SWITZERLAND**
+
+State Secretariat for Economic Affairs (SECO)
+
+Sanctions Unit
+
+Holzikofenweg 36
+
+CH-3003 Berne/Switzerland
+
+**TAIWAN, PENGHU, KINMEN AND MATSU, SEPARATE CUSTOMS TERRITORY**
+
+Export/Import Administration Division
+
+Bureau of Foreign Trade
+
+Ministry of Economic Affairs
+
+1, Hu Kou Street
+
+Taipei, 100
+
+Taiwan
+
+**TANZANIA**
+
+Mining Commission
+
+Ministry of Energy and Minerals
+
+P.O BOX 2292
+
+40744 Dodoma
+
+Tanzania
+
+**THAILAND**
+
+Department of Foreign Trade
+
+Ministry of Commerce
+
+563 Nonthaburi Road
+
+Muang District, Nonthaburi 11000
+
+Thailand
+
+**TOGO**
+
+The Ministry of Mines and Energy
+
+Head Office of Mines and Geology
+
+216, Avenue Sarakawa
+
+B.P. 356
+
+Lomé
+
+Togo
+
+**TÜRKIYE**
+
+Foreign Exchange Department
+
+Ministry of Treasury and Finance
+
+T.C. Bașbakanlık Hazine
+
+Müsteșarlığı İnönü Bulvarı No 36
+
+06510 Emek, Ankara
+
+Türkiye
+
+Import and Export Authority:
+
+Istanbul Gold Exchange / Borsa Istanbul Precious Metals and Diamond
+
+Market (BIST)
+
+Borsa İstanbul, Resitpasa Mahallesi,
+
+Borsa İstanbul Caddesi No 4
+
+Sariyer, 34467, Istanbul
+
+Türkiye
+
+**UKRAINE**
+
+Ministry of Finance
+
+State Gemological Centre of Ukraine
+
+38–44, Degtyarivska St.
+
+Kyiv 04119
+
+Ukraine
+
+**UNITED ARAB EMIRATES**
+
+U.A.E. Kimberley Process Office
+
+Dubai Multi Commodities Centre
+
+Dubai Airport Free Zone
+
+Emirates Security Building
+
+Block B, 2nd Floor, Office # 20
+
+P.O. Box 48800
+
+Dubai
+
+United Arab Emirates
+
+**UNITED KINGDOM ( 3 )**
+
+Government Diamond Office
+
+Conflict Department
+
+Room WH1.214
+
+Foreign, Commonwealth & Development Office
+
+King Charles Street
+
+London
+
+SW1A 2AH
+
+United Kingdom
+
+**UNITED STATES OF AMERICA**
+
+United States Kimberley Process Authority
+
+U.S. Department of State
+
+Bureau of Economic and Business Affairs
+
+2201 C Street, NW
+
+Washington DC 20520
+
+United States of America
+
+Import and export authority:
+
+U.S. Customs and Border Protection
+
+Office of Trade
+
+1400 L Street, NW
+
+Washington, DC 20229
+
+United States of America
+
+U.S. Census Bureau
+
+4600 Silver Hill Road
+
+Room 5K167
+
+Washington, DC 20233
+
+United States of America
+
+**UZBEKISTAN**
+
+Ministry of Investment, Industry and Trade of the Republic of Uzbekistan
+
+Legal Department
+
+I. Karimov street, building 1, 100029,
+
+Tashkent, Republic of Uzbekistan
+
+**VENEZUELA**
+
+Central Bank of Venezuela
+
+36 Av. Urdaneta, Caracas, Capital District
+
+Caracas
+
+ZIP Code 1010
+
+Venezuela
+
+**VIETNAM**
+
+Ministry of Industry and Trade
+
+Agency of Foreign Trade 54 Hai Ba Trung
+
+Hoan Kiem
+
+Hanoi
+
+Vietnam
+
+**ZIMBABWE**
+
+Principal Minerals Development Office
+
+Ministry of Mines and Mining Development
+
+6th Floor, ZIMRE Centre
+
+Cnr L.Takawira St/ K. Nkrumah Ave.
+
+Harare
+
+Zimbabwe
+
+Import and export authority:
+
+Zimbabwe Revenue Authority
+
+Block E 5th Floor, Mhlahlandlela Complex
+
+Cnr Basch Street/10th Avenue
+
+Bulawayo
+
+Zimbabwe
+
+Minerals Marketing Corporation of Zimbabwe
+
+90 Mutare road,
+
+Msasa
+
+PO Box 2628
+
+Harare
+
+Zimbabwe
+
+## ANNEX III — List of Member States’ competent authorities and their tasks as referred to in Articles 2 and 19
+
+**BELGIUM**
+
+Federale Overheidsdienst Economie, KMO, Middenstand en Energie, Algemene Directie Economische Analyses en Internationale Economie, Dienst Vergunningen
+
+Service Public Fédéral Économie, PME, Classes moyennes et Énergie, Direction générale des Analyses économiques et de l’Économie internationale, Service Licences
+
+(Federal Public Service Economy SME’s, Self-employed and Energy, Directorate-General for Economic Analyses & International Economy)
+
+Entrepotplaats 1 – box 5
+
+B-2000 Antwerpen
+
+Belgium
+
+Tel. +32 (0)2 277 54 59
+
+Fax +32 (0)2 277 54 61 or +32 (0)2 277 98 70
+
+Email: kpcs-belgiumdiamonds@economie.fgov.be
+
+In Belgium the controls of imports and exports of rough diamonds required by Regulation (EC) No 2368/2002 and the customs treatment will only be done at:
+
+The Diamond Office
+
+Hoveniersstraat 22
+
+B-2018 Antwerpen
+
+Belgium
+
+**CZECHIA**
+
+In Czechia the controls of imports and exports of rough diamonds required by Regulation (EC) No 2368/2002 and the customs treatment will only be done at:
+
+Generální ředitelství cel
+
+Budějovická 7
+
+140 96 Praha 4
+
+Česká republika
+
+Tel. (420-2) 61 33 38 41, (420-2) 61 33 38 59, cell (420-737) 213 793
+
+Fax (420-2) 61 33 38 70
+
+Email: diamond@cs.mfcr.cz
+
+Permanent service at designated custom office – Praha Ruzyně
+
+Tel. (420-2) 20 113 788 (Mondays to Fridays -7:30am – 15:30pm)
+
+Tel. (420-2) 20 119 678 (Saturdays, Sundays and rest – 15:30pm – 7:30am)
+
+**GERMANY**
+
+In Germany the controls of imports and exports of rough diamonds required by Regulation (EC) No 2368/2002, including the issuing of Community certificates, will only be done at the following authority:
+
+Hauptzollamt Koblenz
+
+Zollamt Idar-Oberstein
+
+Zertifizierungsstelle für Rohdiamanten
+
+Saarstraße 2
+
+D-55743 Idar-Oberstein
+
+Germany
+
+Tel. +49 261-98376-9400
+
+Fax +49 261-98376-9419
+
+Email: poststelle.za-idar-oberstein@zoll.bund.de
+
+For the purpose of Articles 5(3), 6, 9, 10, 14(3), 15 and 17 of this Regulation, concerning in particular reporting obligations to the Commission, the following authority shall act as competent German authority:
+
+Generalzolldirektion
+
+– Direktion VI –
+
+Recht des grenzüberschreitenden Warenverkehrs/Besonderes Zollrecht
+
+Krelingstraβe 50
+
+D-90408 Nürnberg
+
+Germany
+
+Tel. +49 228 303-49874
+
+Fax +49 228 303-99106
+
+Email: DVIA3.gzd@zoll.bund.de
+
+**IRELAND**
+
+The Kimberley Process and Responsible Minerals Authority
+
+Exploration and Mining Division
+
+Department of Communications, Climate Action and Environment
+
+29–31 Adelaide Road
+
+Dublin
+
+D02 X285
+
+Ireland
+
+Tel. +353 1 678 2000
+
+Email: KPRMA@DCCAE.gov.ie
+
+**ITALY**
+
+In Italy the controls of imports and exports of rough diamonds required by Regulation (EC) No 2368/2002, including the issuing of Community certificates, will only be done at the following authority:
+
+Laboratorio chimico di Torino – Ufficio antifrode –Direzione Interregionale Liguria, Piemonte e Valle d’Aosta
+
+(Turin Chemical Laboratory – Anti-fraud Office – Inter-regional Directorate of Liguria, Piemonte and Val d’Aosta)
+
+Corso Sebastopoli, 3
+
+10134 Torino
+
+Tel. +39 011 3166341 – 0369206
+
+Email : dir.liguria-piemonte-valledaosta.lab.torino@adm.gov.it
+
+For the purpose of Articles 5(3), 6, 9, 10, 14(3), 15, and 17 of this Regulation, concerning in particular reporting obligations to the Commission, the following authority shall act as the competent Italian authority:
+
+Ufficio Laboratori – Direzione Antifrode
+
+Via Mario Carucci, 71
+
+00143 Roma
+
+Italy
+
+Tel. +39 06 50246049
+
+Email: dir.antifrode.laboratori@adm.gov.it
+
+**PORTUGAL**
+
+Autoridade Tributária e Aduaneira
+
+Direção de Serviços de Licenciamento
+
+R. da Alfândega, 5
+
+1149-006 Lisboa
+
+Portugal
+
+Tel. +351 218 813 843/8
+
+Fax +351 218 813 986
+
+Email: dsl@at.gov.pt
+
+In Portugal the controls of imports and exports of rough diamonds required by Regulation (EC) No 2368/2002, including the issuing of Community certificates, will only be done at the following authority:
+
+Alfândega do Aeroporto de Lisboa
+
+Aeroporto de Lisboa,
+
+Terminal de Carga, Edifício 134
+
+1750-364 Lisboa
+
+Portugal
+
+Tel. +351 210030080
+
+Email address: aalisboa-kimberley@at.gov.pt
+
+**ROMANIA**
+
+Autoritatea Națională pentru Protecția Consumatorilor
+
+(National Authority for Consumer Protection)
+
+1 Bd. Aviatorilor Nr. 72, sectorul 1 București, România
+
+(72 Aviatorilor Bvd., sector 1, Bucharest, Romania)
+
+Cod postal (Postal code) 011865
+
+Tel. (40-21) 318 46 35/312 98 90/312 12 75
+
+Fax (40-21) 318 46 35/314 34 62
+
+www.anpc.ro
+
+## ANNEX IV
+
+**Community certificate as referred to in Article 2**
+
+In accordance with the changes enacted by the Treaty of Lisbon, whereby the European Union replaced and succeeded the European Community, the term ‘EU certificate’ shall refer to the Community certificate as defined in Article 2(g) of this Regulation.
+
+The EU Certificate shall have the following features: Member States shall ensure that the Certificates they issue shall be identical. To this end they shall submit to the Commission specimens of the Certificates to be issued.
+
+Member States shall be responsible for having the EU Certificates printed. The EU Certificates may be printed by printers appointed by the Member State in which they are established. In the latter case, reference to the appointment by the Member State must appear on each EU Certificate. Each EU Certificate shall bear an indication of the printer's name and address or a mark enabling the printer to be identified. The printer shall be a High Security Banknote Printer. The printer shall provide suitable references from governmental and commercial customers.
+
+The European Commission shall make specimens of original EU Certificates available to EU authorities.
+
+**Materials**
+
+— Dimensions: A4 (210 mm × 297 mm);
+
+— Watermarked with invisible (yellow/blue) UV fibres;
+
+— Solvent sensitive;
+
+— UV dull (features in the document stand out clearly when highlighted under a Ultra-violet lamp);
+
+— 95 g/m2 paper.
+
+**Printing**
+
+— Rainbow background tint (solvent sensitive);
+
+— The ‘rainbow’ effect has a security background that will not visualise when photocopied.
+
+— The inks used must be ‘solvent sensitive’ to protect the document against attack from chemicals used to alter infilled text, such as bleach.
+
+— 1 Colour background tint (permanent and light fast);
+
+— Ensure that a secondary ‘Rainbow’ is printed to prevent the Certificates from exposure to sunlight.
+
+— UV invisible working (stars of the EU Flag);
+
+— The security printer should apply the correct weight of ink to ensure that the UV feature is invisible in normal light.
+
+— EU Flag: Printed gold and European blue;
+
+— Intaglio Border;
+
+— Tactile Intaglio ink is one of the most important features in the document.
+
+— Extra Small Print line reading ‘Kimberley Process Certificate’;
+
+— Latent image: KP;
+
+— Micro-text reading ‘KPCS’;
+
+— The document design must incorporate anticopy (‘Medallion’) features into the background fine-line printing.
+
+**Numbering**
+
+— Each EU Certificate shall have a unique serial number, preceded by the code: EU.
+
+— The Commission shall attribute the serial numbers to the Member States that intend to issue EU Certificates.
+
+— There should be two types of matching numbering — visible and invisible:
+
+— First = 8 digit sequential, once on all parts of the document, printed black
+
+— The printer shall hold all responsibility for numbering every Certificate.
+
+— The printer shall also keep a database of all numbering.
+
+— Second = 8 digit sequential invisible printed numbering (matching above), fluorescing under UV light.
+
+**Language**
+
+English and, where relevant, the language(s) of the Member State concerned.
+
+**Lay out and finishing**
+
+**Obligatory features**
+
+Slot perforated in 1 position, cut to singles A4 size, at 100 mm from right edge
+
+(a) left side
+
+[image]
+
+(b) right side
+
+[image]
+
+## ANNEX V — List of diamond organisations implementing the system of warranties and industry self-regulation referred to in Articles 13 and 17
+
+Antwerpsche Diamantkring CV
+
+Hoveniersstraat 2 bus 515
+
+B-2018 Antwerpen
+
+Beurs voor Diamanthandel CV
+
+Pelikaanstraat 78
+
+B-2018 Antwerpen
+
+Diamantclub van Antwerpen CV
+
+Pelikaanstraat 62
+
+B-2018 Antwerpen
+
+Vrije Diamanthandel NV
+
+Pelikaanstraat 62
+
+B-2018 Antwerpen
+
+( 1 ) OJ L 302, 19.10.1992, p. 1. Regulation as last amended by Regulation (EC) No 2700/2000 (OJ L 311, 12.12.2000, p. 17).
+
+( 2 ) With effect from 1 December 2009 the Treaty on the Functioning of the European Union introduced certain changes in terminology, such as the replacement of ‘Community’ by ‘Union’.
+
+( 3 ) Without prejudice to the application of Regulation (EC) No 2368/2002 to and in the United Kingdom in respect of Northern Ireland, in accordance with Article 5 (4), read in conjunction with Annex 2, point 47, of the Protocol on Ireland/Northern Ireland to the Withdrawal Agreement as of 1 January 2021 (OJ L 29, 31.1.2020, p. 7).

@@ -24,12 +24,14 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2006/15/EC of 7 February 2006 </td><td> L 38</td><td>36</td><td>9.2.2006</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2009/161/EU of 17 December 2009 </td><td> L 338</td><td>87</td><td>19.12.2009</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2017/164 of 31 January 2017 </td><td> L 27</td><td>115</td><td>1.2.2017</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE (EU) 2019/1831 of 24 October 2019 </td><td> L 279</td><td>31</td><td>31.10.2019</td></tr>
+</table>
 
 **COMMISSION DIRECTIVE 2000/39/EC**
 
@@ -71,6 +73,7 @@ This Directive is addressed to the Member States.
 
 **INDICATIVE OCCUPATIONAL EXPOSURE LIMIT VALUES**
 
+<table>
 <tbody><tr><td rowspan="3">Einecs (1)</td><td rowspan="3">CAS (2)</td><td rowspan="3">Name of agent</td><td colspan="4">Limit values</td><td rowspan="3">Notation (3)</td></tr>
 <tr><td colspan="2">Eight hours (4)</td><td colspan="2">Short-term (5)</td></tr>
 <tr><td>mg/m3(6)</td><td>ppm (7)</td><td>mg/m3(6)</td><td>ppm (7)</td></tr>
@@ -143,3 +146,4 @@ This Directive is addressed to the Member States.
 <tr><td>Fluorides, inorganic</td><td>2,5 </td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
 <tr><td colspan="8">(1)  Einecs: European inventory of existing chemical substances.  (2)  CAS: Chemical abstract service registry number.  (3)  A skin notation assigned to the OEL identifies the possibility of significant uptake through the skin.  (4)  Measured or calculated in relation to a reference period of eight-hours time-weighted average.  (5)  A limit value above which exposure should not occur and is related to a 15-minute period, unless otherwise specified.  (6)  mg/m3: milligrams per cubic metre of air at 20 °C and 101,3 KPa.  (7)  ppm: parts per million by volume in air (ml/m3). </td></tr>
 </tbody>
+</table>

@@ -1,0 +1,11543 @@
+---
+title: "Commission Regulation (EU) No 1321/2014 of 26 November 2014 on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks Text with EEA relevance"
+identifier: "32014R1321"
+eli: "http://data.europa.eu/eli/reg/2014/1321/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2014-11-26
+entry_into_force: 2015-02-20
+last_amended: 2026-08-07
+consolidated_version: "02014R1321-20260807"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02014R1321-20260807"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EU) No 1321/2014 of 26 November 2014 on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks Text with EEA relevance
+
+**COMMISSION REGULATION (EU) No 1321/2014**
+
+**of 26 November 2014**
+
+**on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/1088 of 3 July 2015 </td><td> L 176</td><td>4</td><td>7.7.2015</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2015/1536 of 16 September 2015 </td><td> L 241</td><td>16</td><td>17.9.2015</td></tr>
+<tr><td> M3</td><td> COMMISSION REGULATION (EU) 2017/334 of 27 February 2017 </td><td> L 50</td><td>13</td><td>28.2.2017</td></tr>
+<tr><td> M4</td><td> COMMISSION REGULATION (EU) 2018/750 of 22 May 2018 </td><td> L 126</td><td>1</td><td>23.5.2018</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) 2018/1142 of 14 August 2018 </td><td> L 207</td><td>2</td><td>16.8.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1383 of 8 July 2019 </td><td> L 228</td><td>1</td><td>4.9.2019</td></tr>
+<tr><td> M7</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2019/1384 of 24 July 2019 </td><td> L 228</td><td>106</td><td>4.9.2019</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/270 of 25 February 2020 </td><td> L 56</td><td>20</td><td>27.2.2020</td></tr>
+<tr><td> M9</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/1159 of 5 August 2020 </td><td> L 257</td><td>14</td><td>6.8.2020</td></tr>
+<tr><td> M10</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/685 of 22 April 2021 </td><td> L 143</td><td>6</td><td>27.4.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/700 of 26 March 2021 </td><td> L 145</td><td>20</td><td>28.4.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2021/1963 of 8 November 2021 </td><td> L 400</td><td>18</td><td>12.11.2021</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/410 of 10 March 2022 </td><td> L 84</td><td>20</td><td>11.3.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/1360 of 28 July 2022 </td><td> L 205</td><td>115</td><td>5.8.2022</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/203 of 27 October 2022 </td><td> L 31</td><td>1</td><td>2.2.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/989 of 22 May 2023 </td><td> L 135</td><td>53</td><td>23.5.2023</td></tr>
+<tr><td> M17</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/1152 of 12 June 2023 </td><td> L 152</td><td>5</td><td>13.6.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/111 of 23 January 2025 </td><td> L 111</td><td>1</td><td>24.1.2025</td></tr>
+<tr><td> M19</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2070 of 13 October 2025 </td><td> L 2070</td><td>1</td><td>14.10.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2025/2293 of 10 November 2025 </td><td> L 2293</td><td>1</td><td>11.11.2025</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/100 of 15 January 2026 </td><td> L 100</td><td>1</td><td>19.1.2026</td></tr>
+</table>
+
+**COMMISSION REGULATION (EU) No 1321/2014**
+
+**of 26 November 2014**
+
+**on the continuing airworthiness of aircraft and aeronautical products, parts and appliances, and on the approval of organisations and personnel involved in these tasks**
+
+**(Recast)**
+
+**(Text with EEA relevance)**
+
+## Article 1 — Subject-matter and scope
+
+This Regulation establishes common technical requirements and administrative procedures to ensure:
+
+(a) the continuing airworthiness of aircraft, including any component for installation thereto, which are:
+
+(i) registered in a Member State, unless their regulatory safety oversight has been delegated to a third country and they are not used by an EU operator; or
+
+(ii) registered in a third country and used by an EU operator, where their regulatory safety oversight has been delegated to a Member State;
+
+(b) compliance with the essential requirements set out in Regulation (EC) No 216/2008 for continuing airworthiness of aircraft registered in a third country and components for installation thereon for which their regulatory safety oversight has not been delegated to a Member State that are dry leased-in by a licence air carrier in accordance with Regulation (EC) No 1008/2008 of the European Parliament and the Council ( 1 ).
+
+## Article 2 — Definitions
+
+For the purposes of this Regulation, the following definitions shall apply:
+
+(a) ‘aircraft’ means any machine that can derive support in the atmosphere from the reactions of the air other than reactions of the air against the earth's surface;
+
+(b) ‘certifying staff’ means personnel responsible for the release of an aircraft or a component after maintenance;
+
+(c) ‘component’ means any engine, propeller, part or appliance;
+
+(d) ‘continuing airworthiness’ means all of the processes ensuring that, at any time in its operating life, the aircraft complies with the airworthiness requirements in force and is in a condition for safe operation;
+
+(e) ‘JAA’ means ‘Joint Aviation Authorities.’;
+
+(f) ‘JAR’ means ‘Joint Aviation Requirements’;
+
+(g) ‘commercial air transport (CAT) operation’ means an aircraft operation to transport passengers, cargo or mail for remuneration or other valuable consideration;
+
+(h) ‘maintenance’ means any one or combination of the following activities: overhaul, repair, inspection, replacement, modification or defect rectification of an aircraft or component, with the exception of pre-flight inspection;
+
+(i) ‘organisation’ means a natural person, a legal person or part of a legal person. Such an organisation may be established at more than one location whether or not within the territory of the Member States;
+
+(j) ‘pre-flight inspection’ means the inspection carried out before flight to ensure that the aircraft is fit for the intended flight;
+
+(k) ‘ELA1 aircraft’ means the following manned European light aircraft:
+
+(i) an aeroplane with a maximum take-off mass (MTOM) of 1 200 kg or less that is not classified as complex motor-powered aircraft;
+
+(ii) a sailplane or powered sailplane of 1 200 kg MTOM or less;
+
+(iii) a balloon with a maximum design lifting gas or hot air volume of not more than 3 400 m3 for hot air balloons, 1 050 m3 for gas balloons, 300 m3 for tethered gas balloons;
+
+(iv) an airship designed for not more than four occupants and a maximum design lifting gas or hot air volume of not more than 3 400 m3 for hot air airships and 1 000 m3 for gas airships;
+
+(ka) ‘ELA2 aircraft’ means the following manned European Light Aircraft:
+
+(i) an aeroplane with a Maximum Take-off Mass (MTOM) of 2 000 kg or less that is not classified as complex motor-powered aircraft;
+
+(ii) a sailplane or powered sailplane of 2 000 kg MTOM or less;
+
+(iii) a balloon;
+
+(iv) a hot air ship;
+
+(v) a gas airship complying with all of the following characteristics:
+
+— 3 % maximum static heaviness,
+
+— non-vectored thrust (except reverse thrust),
+
+— conventional and simple design of structure, control system and ballonet system, and
+
+— non-power assisted controls;
+
+(vi) a Very Light Rotorcraft;
+
+(l) ‘LSA aircraft’ means a light sport aeroplane which has all of the following characteristics:
+
+(i) a Maximum Take-off Mass (MTOM) of not more than 600 kg;
+
+(ii) a maximum stalling speed in the landing configuration (VS0) of not more than 45 knots Calibrated Airspeed (CAS) at the aircraft's maximum certificated take-off mass and most critical centre of gravity;
+
+(iii) a maximum seating capacity of no more than two persons, including the pilot;
+
+(iv) a single, non-turbine engine fitted with a propeller;
+
+(v) a non-pressurised cabin;
+
+(m) ‘principal place of business’ means the head office or the registered office of the undertaking within which the principal financial functions and operational control of the activities referred to in this Regulation are exercised;
+
+(n) ‘critical maintenance task’ means a maintenance task that involves the assembly or any disturbance of a system or any part on an aircraft, engine or propeller that, if an error occurred during its performance, could directly endanger the flight safety;
+
+(o) ‘commercial specialised operations’ means those operations subject to the requirements of Part-ORO, Subpart-SPO set out in Annex III to Commission Regulation (EU) No 965/2012 ( 2 );
+
+(p) ‘limited operations’ means the operations of other-than-complex motor-powered aircraft for:
+
+(i) cost-shared flights by private individuals, on the condition that the direct cost is shared by all the occupants of the aircraft, pilot included and the number of persons sharing the direct costs is limited to six;
+
+(ii) competition flights or flying displays, on the condition that the remuneration or any valuable consideration given for such flights is limited to recovery of direct costs and a proportionate contribution to annual costs, as well as prizes of no more than a value specified by the competent authority;
+
+(iii) introductory flights, parachute dropping, sailplane towing or aerobatic flights performed either by a training organisation having its principal place of business in a Member State and approved in accordance with Commission Regulation (EU) No 1178/2011 ( 3 ), or by an organisation created with the aim of promoting aerial sport or leisure aviation, on the condition that the aircraft is operated by the organisation on the basis of ownership or dry lease, that the flight does not generate profits distributed outside of the organisation, and that whenever non-members of the organisation are involved, such flights represent only a marginal activity of the organisation;
+
+For the purpose of this Regulation, ‘limited operations’ are not considered as CAT operations or commercial specialised operations;
+
+(q) ‘introductory flight’ means ‘introductory flight’ as defined in Article 2(9) of Regulation (EU) No 965/2012;
+
+(r) ‘competition flight’ means ‘competition flight’ as defined in Article 2(10) of Regulation (EU) No 965/2012;
+
+(s) ‘flying display’ means ‘flying display’ as defined in Article 2(11) of Regulation (EU) No 965/2012;
+
+(t) ‘management systems harmonisation’ means the coordinated process by which the management systems of two or more organisations interact and share information and methods to reach common or consistent safety and compliance monitoring objectives;
+
+(u) ‘complex motor-powered aircraft’ means:
+
+(i) an aeroplane:
+
+— with a maximum certified take-off mass exceeding 5 700 kg, or
+
+— certified for a maximum passenger seating configuration of more than 19, or
+
+— certified for operation with a minimum crew of at least two pilots, or
+
+— equipped with (a) turbojet engine(s) or more than one turboprop engine; or
+
+(ii) a helicopter certified:
+
+— for a maximum take-off mass exceeding 3 175 kg, or
+
+— for a maximum passenger seating configuration of more than nine, or
+
+— for operation with a minimum crew of at least two pilots; or
+
+(iii) a non-conventional aircraft certified:
+
+— for a maximum take-off mass exceeding 5 700 kg, or
+
+— for a maximum take-off mass exceeding 3 175 kg if it can maintain zero horizontal speed in flight, or
+
+— for a maximum passenger seating configuration of more than nine;
+
+(v) ‘aeroplane’ means an engine-driven fixed-wing aircraft heavier than air that is supported in flight by the dynamic reaction of the air against its wings;
+
+(w) ‘rotorcraft’ means a power-driven, heavier-than-air aircraft that depends principally for its support in flight on the lift generated by up to two rotors;
+
+(x) ‘helicopter’ means a type of rotorcraft supported in flight chiefly by the reactions of the air on up to two power-driven rotors on substantially vertical axes;
+
+(y) ‘non-conventional aircraft’ means an aircraft other than an aeroplane, helicopter, sailplane, balloon or airship.
+
+## Article 3 — Continuing airworthiness requirements
+
+1\. The continuing airworthiness of aircraft referred to in point (a) of Article 1 and components for installation thereon shall be ensured in accordance with the requirements of Annex I (Part-M), except for aircraft listed in the first subparagraph of paragraph 2 to which the requirements of Annex Vb (Part-ML) shall apply.
+
+2\. The requirements of Annex Vb (Part-ML) shall apply to the following other than complex motor-powered aircraft:
+
+(a) aeroplanes of 2 730 kg maximum take-off mass or less;
+
+(b) helicopters of 1 200 kg maximum take-off mass or less, certified for a maximum of up to four occupants;'
+
+(c) other ELA2 aircraft;
+
+(d) non-conventional aircraft with a maximum take-off mass of:
+
+(i) 1 200 kg or less if they can maintain zero horizontal speed in flight; or
+
+(ii) 2 730 kg or less for other than those in point (i).
+
+Where an aircraft referred to in the first subparagraph is listed in the air operator certificate of an air carrier licensed in accordance with Regulation (EC) No 1008/2008, the requirements of Annex I (Part-M) to this Regulation shall apply.
+
+3\. In order to be listed in the air operator certificate of an air carrier licensed in accordance with Regulation (EC) No 1008/2008, an aircraft referred to in paragraph 2, first subparagraph, shall comply with all of the following requirements:
+
+(a) its aircraft maintenance programme has been approved by the competent authority in accordance with point M.A.302 of Annex I (Part-M);
+
+(b) due maintenance required by the maintenance programme referred to in point (a) has been performed and certified in accordance with point 145.A.48 and 145.A.50 of Annex II (Part-145);
+
+(c) an airworthiness review has been performed in accordance with point M.A.903 of Annex I (Part-M) and a new airworthiness review certificate has been issued in accordance with point M.A.901 or M.B.901 of Annex I (Part-M), as applicable.
+
+4\. By way of derogation from paragraph 1 of this Article, the continuing airworthiness of aircraft referred to in point (a) of Article 1, for which a permit to fly has been issued, shall be ensured on the basis of the specific continuing airworthiness arrangements defined in the permit to fly issued in accordance with Annex I (Part-21) to Commission Regulation (EU) No 748/2012 ( 4 ).
+
+5\. Aircraft maintenance programmes for aircraft referred to in point (a) of Article 1 that comply with the requirements specified in point M.A.302 of Annex I (Part-M) applicable before 24 March 2020 shall be deemed to comply with the requirements specified in point M.A.302 of Annex I (Part-M) or point ML.A.302 of Annex Vb (Part-ML), as applicable, in accordance with paragraphs 1 and 2.
+
+6\. Operators shall ensure the continuing airworthiness of aircraft referred to in point (b) of Article 1 and components for installation thereon in accordance with the requirements of Annex Va (Part-T).
+
+7\. The continuing airworthiness of aeroplanes with a maximum certificated take-off mass at or below 5 700 kg which are equipped with multiple turboprop engines shall be ensured in accordance with the requirements applicable to other than complex motor-powered aircraft as set out in points M.A.201, M.A.301, M.A.302, M.A.601 and M.A.803 of Annex I (Part-M), point 145.A.30 of Annex II (Part-145), points 66.A.5, 66.A.30, 66.A.70, Appendix V and VI of Annex III (Part-66), point CAMO.A.315 of Annex Vc (Part-CAMO), point CAO.A.010 and Appendix I of Annex Vd (Part-CAO) to the extent that they apply to other than complex motor-powered aircraft.
+
+## Article 4 — Approvals for organisations involved in the continuing airworthiness
+
+1\. Organisations involved in the continuing airworthiness of aircraft and components for installation thereon, including maintenance, shall be approved, upon their request, by the competent authority in accordance with the requirements of Annex II (Part-145), Annex Vc (Part-CAMO) or Annex Vd (Part-CAO), as applicable to the respective organisations.
+
+2\. By way of derogation from paragraph 1, until 24 September 2020 organisations may, upon their request, be issued approvals by the competent authority in accordance with Subpart F and Subpart G of Annex I (Part-M). All approvals issued in accordance with Subpart F and Subpart G of Annex I (Part-M) shall be valid until 24 March 2022.
+
+3\. Maintenance organisation approval certificates issued or recognised by a Member State in accordance with the certification specification JAR-145 referred to in Annex II to Council Regulation (EEC) No 3922/91 ( 5 ) and valid before 29 November 2003 shall be deemed to have been issued in accordance with the requirements of Annex II (Part-145) to this Regulation.
+
+4\. Organisations that hold a valid organisation approval certificate issued in accordance with Subpart F or Subpart G of Annex I (Part- M) or with Annex II (Part-145) shall, upon their request, be issued by the competent authority a Form 3-CAO as set out in Appendix I to Annex Vd (Part-CAO) and thereafter be overseen by the competent authority in accordance with Annex Vd (Part-CAO).
+
+The privileges of such an organisation under the approval issued in accordance with Annex Vd (Part-CAO) shall be the same as privileges under the approval issued in accordance with Subpart F or Subpart G of Annex I (Part-M) or with Annex II (Part-145). However, those privileges shall not exceed the privileges of an organisation referred to in Section A of Annex Vd (Part-CAO).
+
+By way of derogation from point CAO.B.060 of Annex Vd (Part-CAO), until 24 March 2022, the organisation may correct any findings of non-compliance related to requirements introduced by Annex Vd (Part- CAO) which are not included in Subpart F or Subpart G of Annex I (Part-M) or in Annex II (Part-145).
+
+If after 24 March 2022 the organisation has not closed these findings, the approval certificate shall be revoked, limited or suspended in whole or in part.
+
+5\. Organisations that hold a valid continuing airworthiness management organisation approval certificate issued in accordance with Subpart G of Annex I (Part-M) shall, upon their request, be issued by the competent authority an EASA Form 14 approval certificate in accordance with Annex Vc (Part-CAMO) and thereafter be overseen by the competent authority in accordance with Annex Vc (Part-CAMO).
+
+By way of derogation from point CAMO.B.350 of Annex Vc (Part- CAMO), until 24 March 2022, the organisation may correct any findings of non-compliance related to requirements introduced by Annex Vc (Part-CAMO) and not included in Subpart G of Annex I (Part-M).
+
+If after 24 March 2022 the organisation has not closed these findings, the approval certificate shall be revoked, limited or suspended in whole or in part.
+
+6\. Certificates and aircraft maintenance programme approvals issued pursuant to Regulation (EU) No 1321/2014 as applicable before 24 March 2020 shall be deemed to have been issued in accordance with this Regulation.
+
+7\. By way of derogation from points (1) and (2) of point 145.B.350(d) of Annex II (Part-145), a maintenance organisation that holds a valid approval certificate issued in accordance with Annex II (Part-145) may correct, until 2 December 2024, any findings of non-compliance related to the Annex II requirements introduced by Commission Regulation (EU) 2021/1963 ( 6 ).
+
+Where after 2 December 2024 the organisation has not closed such findings, the approval certificate shall be revoked, limited or suspended in whole or in part.
+
+## Article 5 — Certifying staff
+
+1\. Certifying staff shall be qualified in accordance with the requirements of Annex III (Part-66), except as provided for in points M.A.606(h), M.A.607(b), M.A.801(c) and M.A.803 of Annex I (Part-M), in points ML.A.801(c) and ML.A.803 of Annex Vb (Part-ML), CAO.A.040(b) and CAO.A.040(c) of Annex Vd (Part-CAO) and in points 145.A.30(j) of and Appendix IV to Annex II (Part-145).
+
+2\. Any aircraft maintenance licence and, if any, the technical limitations associated with that licence, issued or recognised by a Member State in accordance with the JAA requirements and procedures and valid at the time of entry into force of Regulation (EC) No 2042/2003, shall be deemed to have been issued in accordance with this Regulation.
+
+3\. Certifying staff holding a licence issued in accordance with Annex III (Part-66) in a given category/sub-category are deemed to have the privileges described in point 66.A.20(a) of the same Annex corresponding to such a category/sub-category. The basic knowledge requirements corresponding to these new privileges shall be deemed as met for the purpose of extending such licence to a new category/sub-category.
+
+4\. Certifying staff holding a licence including aircraft which do not require an individual type rating may continue to exercise his/her privileges until the first renewal or change, where the licence shall be converted following the procedure described in point 66.B.125 of Annex III (Part-66) to the ratings defined in point 66.A.45 of the same Annex.
+
+5\. Conversion reports and Examination credit reports complying with the requirements applicable before Regulation (EU) No 1149/2011 applied shall be deemed to be in compliance with this Regulation.
+
+6\. Until specific requirements for certifying staff for components are added to this Regulation, the requirements laid down in the national laws in force in the relevant Member State shall continue to apply, except for maintenance organisations located outside the Union where the requirements shall be approved by the Agency.
+
+7\. Limited certifying staff authorisations issued to flight engineer licence holders pursuant to point 145.A.30(j)(3) or (4) of Annex II (Part-145) before 2 December 2022 shall remain valid until they expire or until they are revoked by the maintenance organisation.
+
+8\. By way of derogation from points 66.A.3(a)(2) and 66.A.45(a) of Annex III (Part-66), until 13 February 2028, an aeroplane with electric power plant and MTOM below 5 700 kg may be endorsed in a licence with subcategory B1.1 or B1.2 when all the following conditions are met:
+
+(a) the licence holder has at least 6 months of maintenance experience on aircraft covered by the licence (sub)category within the last 24 months;
+
+(b) the aeroplane being endorsed is not the first aeroplane endorsed for the relevant (sub)category;
+
+(c) the licence holder has followed aircraft type training in accordance with Appendix III to Annex III (Part-66), followed the procedure for the direct approval of aircraft type training set out in point 66.B.130 or followed the procedure described in point 66.A.45(da) of Annex III (Part-66).
+
+## Article 6 — Requirements applicable to training organisations and competent authorities issuing licenses
+
+1\. Organisations involved in the training of personnel referred to in Article 5 shall be approved in accordance with Annex IV (Part-147) to be entitled:
+
+(a) to conduct recognised basic training courses; and/or
+
+(b) to conduct recognised type training courses; and
+
+(c) to conduct examinations; and
+
+(d) to issue training certificates.
+
+2\. Any maintenance training organisation approval issued or recognised by a Member State in accordance with the JAA requirements and procedures and valid at the time of entry into force of Regulation (EC) No 2042/2003 shall be deemed to have been issued in accordance with this Regulation.
+
+3\. Type training courses approved before the approval of the minimum syllabus of certifying staff type rating training in the operational suitability data for the relevant type in accordance with Regulation (EU) No 748/2012 shall include the relevant elements defined in the mandatory part of that operational suitability data not later than 18 December 2017 or within two years after the operational suitability data was approved, whichever is the latest.
+
+4\. Any basic training course, or part thereof, that commenced before 12 June 2024 shall be finished, including any related examination, before 12 June 2026. The corresponding certificates of recognition shall also be issued before 12 June 2026.
+
+5\. Certificates of recognition referred in paragraph 4 shall be issued in accordance with this Regulation in its version applicable before 12 June 2024.
+
+6\. For the purpose of the issue or change of an aircraft maintenance licence in accordance with Annex III (Part-66) after 12 June 2024, the competent authority shall accept an applicant’s basic knowledge examination status corresponding to this Regulation in its version applicable before 12 June 2024, as meeting the requirements of this Regulation in its version applicable from 12 June 2024.
+
+## Article 7
+
+Regulation (EC) No 2042/2003 is repealed.
+
+References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex VI.
+
+## Article 7a — Competent authorities
+
+1\. Where a Member State designates more than one entity as competent authority with the necessary powers and allocated responsibilities for the certification and oversight of persons and organisations subject to this Regulation, the following requirements shall be complied with:
+
+(a) the areas of competence of each competent authority shall be clearly defined, in particular in terms of responsibilities and geographic limitations;
+
+(b) coordination shall be established between those authorities in order to ensure effective certification and oversight of all organisations and persons subject to this Regulation within their respective remits.
+
+2\. Member States shall ensure that the personnel of their competent authorities do not perform certification and oversight activities when there are indications that this could result, directly or indirectly, in a conflict of interest, in particular when relating to family or financial interest.
+
+3\. Where necessary to carry out certification or oversight tasks under this Regulation, the competent authorities shall be empowered to:
+
+(a) examine the records, data, procedures, and any other material relevant to the execution of the certification and/or oversight tasks;
+
+(b) make copies or extracts from such records, data, procedures and other material;
+
+(c) ask for an oral explanation on-site from any of the personnel of those organisations;
+
+(d) enter relevant premises, operating sites or means of transport owned or used by those persons;
+
+(e) perform audits, investigations, assessments, inspections, including unannounced inspections, in respect of those organisations;
+
+(f) take or initiate enforcement measures as appropriate.
+
+4\. The powers referred to in paragraph 3 shall be exercised in compliance with the legal provisions of the relevant Member State.
+
+## Article 8 — Entry into force
+
+1\. This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+2\. By way of derogation from paragraph 1, Member States may elect not to apply:
+
+(a) for the maintenance of piston-engine non-pressurised aeroplanes of 2 000 kg MTOM and below not involved in commercial air transport,
+
+until 28 September 2014, the requirement to have certifying staff qualified in accordance with Annex III (Part-66) contained in the following provisions:
+
+— points M.A.606(g) and M.A.801(b)2 of Annex I (Part-M),
+
+— points 145.A.30(g) and (h) of Annex II (Part-145);
+
+(c) for aircraft registered in a third country and dry leased-in by air carriers licenced in accordance with Regulation (EC) No 1008/2008, until 25 August 2017, the requirements of Annex Va.
+
+2a. By way of derogation from paragraph 1, the requirements for aircraft used for commercial specialised operations and CAT other than those by air carriers licenced in accordance with Regulation (EC) No 1008/2008, set out in Regulation (EU) No 965/2012, as amended by Regulation (EU) No 379/2014 ( 7 ), shall apply from 21 April 2017.
+
+Until that time:
+
+— The provisions of Annex I, point M.A.201(f) shall apply to complex motor-powered aircraft used by operators requested by a Member State to hold a certificate for commercial operations other than licence air carriers in accordance with Regulation (EC) No 1008/2008 and to commercial ATOs;
+
+— The provisions of Annex I, point M.A.201(h) shall apply to other than complex motor-powered aircraft, used by operators requested by a Member State to hold a certificate for commercial operations other than licence air carriers in accordance with Regulation (EC) No 1008/2008 and to commercial ATOs;
+
+— The provisions of Annex I, point M.A.306(a) shall apply to aircraft used by licence air carriers in accordance with Regulation (EC) No 1008/2008 and aircraft used by operators requested by a Member State to hold a certificate for commercial operations;
+
+— The provisions of Annex I, point M.A.801(c) shall apply to ELA1 not used by licence air carriers in accordance with Regulation (EC) No 1008/2008 and not used by commercial ATOs;
+
+— The provisions of Annex I, point M.A.803(b) shall apply to non-complex motor-powered aircraft of 2 730 kg MTOM and below, sailplane, powered sailplane or balloon, not used by licence air carriers in accordance with Regulation (EC) No 1008/2008, or by operators requested by a Member State to hold a certificate for commercial operations, or by commercial ATOs;
+
+— The provisions of Annex I, point M.A.901(g) shall apply to ELA1 aircraft not used by licence air carriers in accordance with Regulation (EC) No 1008/2008, or by operators requested by a Member State to hold a certificate for commercial operations, or by commercial ATOs.
+
+3\. When a Member State makes use of the provisions of paragraph 2 it shall notify the Commission and the Agency.
+
+4\. For the purpose of time limits contained in points 66.A.25, 66.A.30 and Appendix III of Annex III (Part-66) related to basic knowledge examinations, basic experience, theoretical type training and examinations, practical training and assessment, type examinations and on the job training completed before Regulation (EU) No 1149/2011  applied, the origin of time shall be the date by which Regulation (EU) No 1149/2011  applied.
+
+6\. By way of derogation from paragraph 1:
+
+(a) competent authorities or, where applicable, organisations may continue to issue certificates, previous issue, as laid down in Appendix III to Annex I (Part-M) or Appendix II and Appendix III to Annex IV (Part-147) to Regulation (EU) No 1321/2014, in force prior to 27 July 2015, until 31 December 2015.
+
+(b) certificates issued before 1 January 2016 remain valid until they are changed, suspended or revoked.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — (Part-M)
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td colspan="2">M.1</td></tr>
+<tr><td>SECTION A —</td><td>TECHNICAL REQUIREMENTS</td></tr>
+<tr><td>SUBPART A —</td><td>GENERAL</td></tr>
+<tr><td>M.A.101</td><td>Scope</td></tr>
+<tr><td>SUBPART B —</td><td>ACCOUNTABILITY</td></tr>
+<tr><td>M.A.201</td><td>Responsibilities</td></tr>
+<tr><td>M.A.202</td><td>Occurrence reporting</td></tr>
+<tr><td>SUBPART C —</td><td>CONTINUING AIRWORTHINESS</td></tr>
+<tr><td>M.A.301</td><td>Continuing airworthiness tasks</td></tr>
+<tr><td>M.A.302</td><td>Aircraft maintenance programme</td></tr>
+<tr><td>M.A.303</td><td>Airworthiness directives</td></tr>
+<tr><td>M.A.304</td><td>Data for modifications and repairs</td></tr>
+<tr><td>M.A.305</td><td>Aircraft continuing airworthiness record system</td></tr>
+<tr><td>M.A.306</td><td>Aircraft technical log system</td></tr>
+<tr><td>M.A.307</td><td>Transfer of aircraft continuing airworthiness records</td></tr>
+<tr><td>SUBPART D —</td><td>MAINTENANCE STANDARDS</td></tr>
+<tr><td>M.A.401</td><td>Maintenance data</td></tr>
+<tr><td>M.A.402</td><td>Performance of maintenance</td></tr>
+<tr><td>M.A.403</td><td>Aircraft defects</td></tr>
+<tr><td>SUBPART E —</td><td>COMPONENTS</td></tr>
+<tr><td>M.A.501</td><td>Classification and installation</td></tr>
+<tr><td>M.A.502</td><td>Component maintenance</td></tr>
+<tr><td>M.A.503</td><td>Life-limited parts and time-controlled components</td></tr>
+<tr><td>M.A.504</td><td>Segregation of components</td></tr>
+<tr><td>SUBPART F —</td><td>MAINTENANCE ORGANISATION</td></tr>
+<tr><td>M.A.601</td><td>Scope</td></tr>
+<tr><td>M.A.602</td><td>Application</td></tr>
+<tr><td>M.A.603</td><td>Extent of approval</td></tr>
+<tr><td>M.A.604</td><td>Maintenance organisation manual</td></tr>
+<tr><td>M.A.605</td><td>Facilities</td></tr>
+<tr><td>M.A.606</td><td>Personnel requirements</td></tr>
+<tr><td>M.A.607</td><td>Certifying staff and airworthiness review staff</td></tr>
+<tr><td>M.A.608</td><td>Components, equipment and tools</td></tr>
+<tr><td>M.A.609</td><td>Maintenance data</td></tr>
+<tr><td>M.A.610</td><td>Maintenance work orders</td></tr>
+<tr><td>M.A.611</td><td>Maintenance standards</td></tr>
+<tr><td>M.A.612</td><td>Aircraft certificate of release to service</td></tr>
+<tr><td>M.A.613</td><td>Component certificate of release to service</td></tr>
+<tr><td>M.A.614</td><td>Maintenance and airworthiness review records</td></tr>
+<tr><td>M.A.615</td><td>Privileges of the organisation</td></tr>
+<tr><td>M.A.616</td><td>Organisational review</td></tr>
+<tr><td>M.A.617</td><td>Changes to the approved maintenance organisation</td></tr>
+<tr><td>M.A.618</td><td>Continued validity of approval</td></tr>
+<tr><td>M.A.619</td><td>Findings</td></tr>
+<tr><td>SUBPART G —</td><td>CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATION</td></tr>
+<tr><td>M.A.701</td><td>Scope</td></tr>
+<tr><td>M.A.702</td><td>Application</td></tr>
+<tr><td>M.A.703</td><td>Extent of approval</td></tr>
+<tr><td>M.A.704</td><td>Continuing airworthiness management exposition</td></tr>
+<tr><td>M.A.705</td><td>Facilities</td></tr>
+<tr><td>M.A.706</td><td>Personnel requirements</td></tr>
+<tr><td>M.A.707</td><td>Airworthiness review staff</td></tr>
+<tr><td>M.A.708</td><td>Continuing airworthiness management</td></tr>
+<tr><td>M.A.709</td><td>Documentation</td></tr>
+<tr><td>M.A.710</td><td>Airworthiness review</td></tr>
+<tr><td>M.A.711</td><td>Privileges of the organisation</td></tr>
+<tr><td>M.A.712</td><td>Quality system</td></tr>
+<tr><td>M.A.713</td><td>Changes to the approved continuing airworthiness organisation</td></tr>
+<tr><td>M.A.714</td><td>Record-keeping</td></tr>
+<tr><td>M.A.715</td><td>Continued validity of approval</td></tr>
+<tr><td>M.A.716</td><td>Findings</td></tr>
+<tr><td>SUBPART H —</td><td>CERTIFICATE OF RELEASE TO SERVICE (CRS)</td></tr>
+<tr><td>M.A.801</td><td>Aircraft certificate of release to service</td></tr>
+<tr><td>M.A.802</td><td>Component certificate of release to service</td></tr>
+<tr><td>M.A.803</td><td>Pilot-owner authorisation</td></tr>
+<tr><td>SUBPART I —</td><td>AIRWORTHINESS REVIEW CERTIFICATE</td></tr>
+<tr><td>M.A.901</td><td>Airworthiness review — General</td></tr>
+<tr><td>M.A.902</td><td>Validity of the airworthiness review certificate</td></tr>
+<tr><td>M.A.903</td><td>Airworthiness review process</td></tr>
+<tr><td>M.A.904</td><td>Airworthiness review staff</td></tr>
+<tr><td>M.A.905</td><td>Transfer of aircraft registration within the Union</td></tr>
+<tr><td>M.A.906</td><td>Airworthiness review of aircraft without an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012</td></tr>
+<tr><td>M.A.907</td><td>Findings</td></tr>
+<tr><td>SECTION B —</td><td>PROCEDURE FOR COMPETENT AUTHORITIES</td></tr>
+<tr><td>SUBPART A —</td><td>GENERAL</td></tr>
+<tr><td>M.B.101</td><td>Scope</td></tr>
+<tr><td>M.B.102</td><td>Competent authority</td></tr>
+<tr><td>M.B.103</td><td>Findings and enforcement measures – persons</td></tr>
+<tr><td>M.B.104</td><td>Record-keeping</td></tr>
+<tr><td>M.B.105</td><td>Mutual exchange of information</td></tr>
+<tr><td>SUBPART B —</td><td>ACCOUNTABILITY</td></tr>
+<tr><td>M.B.201</td><td>Responsibilities</td></tr>
+<tr><td>M.B.202</td><td>Information to the Agency</td></tr>
+<tr><td>SUBPART C —</td><td>CONTINUING AIRWORTHINESS</td></tr>
+<tr><td>M.B.301</td><td>Aircraft maintenance programme</td></tr>
+<tr><td>M.B.302</td><td>Exemptions</td></tr>
+<tr><td>M.B.303</td><td>Aircraft continuing airworthiness monitoring</td></tr>
+<tr><td>M.B.304</td><td>Revocation and suspension</td></tr>
+<tr><td>M.B.305</td><td>Aircraft technical log system</td></tr>
+<tr><td>SUBPART D —</td><td>MAINTENANCE STANDARDS</td></tr>
+<tr><td>SUBPART E —</td><td>COMPONENTS</td></tr>
+<tr><td>SUBPART F —</td><td>MAINTENANCE ORGANISATION</td></tr>
+<tr><td>M.B.601</td><td>Application</td></tr>
+<tr><td>M.B.602</td><td>Initial Approval</td></tr>
+<tr><td>M.B.603</td><td>Issue of approval</td></tr>
+<tr><td>M.B.604</td><td>Continuing oversight</td></tr>
+<tr><td>M.B.605</td><td>Findings</td></tr>
+<tr><td>M.B.606</td><td>Changes</td></tr>
+<tr><td>M.B.607</td><td>Revocation, suspension and limitation of an approval</td></tr>
+<tr><td>SUBPART G —</td><td>CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATION</td></tr>
+<tr><td>M.B.701</td><td>Application</td></tr>
+<tr><td>M.B.702</td><td>Initial approval</td></tr>
+<tr><td>M.B.703</td><td>Issue of approval</td></tr>
+<tr><td>M.B.704</td><td>Continuing oversight</td></tr>
+<tr><td>M.B.705</td><td>Findings</td></tr>
+<tr><td>M.B.706</td><td>Changes</td></tr>
+<tr><td>M.B.707</td><td>Revocation, suspension and limitation of an approval</td></tr>
+<tr><td>SUBPART H —</td><td>CERTIFICATE OF RELEASE TO SERVICE (CRS)</td></tr>
+<tr><td>SUBPART I —</td><td>AIRWORTHINESS REVIEW CERTIFICATE</td></tr>
+<tr><td>M.B.901</td><td>Airworthiness review certificate issued by the competent authority</td></tr>
+<tr><td>M.B.902</td><td>Assessment of recommendations</td></tr>
+<tr><td>M.B.905</td><td>Transfer of aircraft registration within the Union</td></tr>
+<tr><td>M.B.906</td><td>Airworthiness review of aircraft without an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012</td></tr>
+<tr><td>M.B.907</td><td>Findings</td></tr>
+<tr><td>Appendix I —</td><td>Continuing airworthiness management contract</td></tr>
+<tr><td>Appendix II —</td><td>Authorised Release Certificate — EASA Form 1</td></tr>
+<tr><td>Appendix III —</td><td>Airworthiness Review Certificate — EASA Form 15</td></tr>
+<tr><td>Appendix IV —</td><td>Class and rating system for the terms of approval of maintenance organisations referred to in Annex I (Part-M), Subpart F</td></tr>
+<tr><td>Appendix V —</td><td>Maintenance Organisation Certificate referred to in Annex I (Part-M) Subpart F — EASA Form 3 MF</td></tr>
+<tr><td>Appendix VI —</td><td>Continuing airworthiness management organisation certificate referred to in Annex I (Part-M) Subpart G — EASA Form 14-MG</td></tr>
+<tr><td>Appendix VII —</td><td>Complex Maintenance Tasks</td></tr>
+<tr><td>Appendix VIII —</td><td>Limited Pilot-owner Maintenance</td></tr>
+</table>
+
+**M.1**
+
+For the purpose of this Part, the competent authority shall be:
+
+1\. for the oversight of the continuing airworthiness of individual aircraft and the issue of airworthiness review certificates the authority designated by the Member State of registry;
+
+2\. for the oversight of a maintenance organisation as specified in Section A, Subpart F of this Annex (Part-M):
+
+(i) the authority designated by the Member State where that organisation's principle place of business is located;
+
+(ii) the Agency if the organisation is located in a third country;
+
+3\. for the approval of aircraft maintenance programmes (‘AMP’), one of the following:
+
+(i) the authority designated by the Member State of registry of the aircraft;
+
+(ii) if prior to the approval of the aircraft maintenance programme the Member State of registry agrees, one of the following:
+
+(a) the authority designated by the Member State where the operator has its principal place of business or, in case the operator has no principal place of business, the authority designated by the Member State where the operator has its place of establishment or where the operator resides;
+
+(b) the authority responsible for the oversight of the organisation managing the continuing airworthiness of the aircraft or with which the owner has concluded a limited contract in accordance with point (i)(3) of point M.A.201.
+
+4\. for the oversight of a continuing airworthiness management organisation as specified in Section A, Subpart G of this Annex (Part-M):
+
+(i) the authority designated by the Member State where that organisation's principle place of business is located if the approval is not included in an air operator's certificate;
+
+(ii) the authority designated by the Member State of the operator if the approval is included in an air operator's certificate;
+
+(iii) the Agency if the organisation is located in a third country.
+
+**SECTION A**
+
+**TECHNICAL REQUIREMENTS**
+
+**SUBPART A**
+
+**GENERAL**
+
+M.A.101 Scope
+
+This Section establishes the measures to be taken to ensure that the airworthiness of aircraft is maintained, including its maintenance. It also specifies the conditions to be met by the persons or organisations involved in such activities.
+
+**SUBPART B**
+
+**ACCOUNTABILITY**
+
+M.A.201 Responsibilities
+
+(a) The owner of the aircraft shall be responsible for the continuing airworthiness of aircraft and shall ensure that no flight takes place unless all of the following requirements are met:
+
+(1) the aircraft is maintained in an airworthy condition;
+
+(2) any operational and emergency equipment fitted is correctly installed and serviceable or clearly identified as unserviceable;
+
+(3) the airworthiness certificate is valid;
+
+(4) the maintenance of the aircraft is performed in accordance with the AMP specified in point M.A.302.
+
+(b) When the aircraft is leased, the responsibilities of the owner are transferred to the lessee if:
+
+1\. the lessee is stipulated on the registration document; or
+
+2\. detailed in the leasing contract.
+
+When reference is made in this Part to the ‘owner’, the term owner covers the owner or the lessee, as applicable.
+
+(c) Any person or organisation performing maintenance shall be responsible for the tasks performed.
+
+(d) The pilot-in-command or, in the case of aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, the operator, shall be responsible for the satisfactory accomplishment of the pre-flight inspection. That inspection shall be carried out by the pilot or another qualified person and shall not need to be carried out by an approved maintenance organisation or by certifying staff.
+
+(e) In the case of aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008 ( 8 ) the operator shall be responsible for the continuing airworthiness of the aircraft it operates and shall:
+
+(1) ensure that no flight takes place unless the conditions set out in point (a) are met;
+
+(2) take the necessary steps to ensure its approval as a continuing airworthiness management organisation (‘CAMO’) pursuant to Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), as part of air operator certificate for the aircraft it operates;
+
+(3) take the necessary steps to ensure its approval in accordance with Annex II (Part-145) or conclude a written contract in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) of this Annex (Part-M) with an organisation which has been approved in accordance with Annex II (Part-145).
+
+(ea) By derogation to point (e)(2), at least two operators forming part of a single air carrier business grouping may use the same CAMO to assume the responsibility for the continuing airworthiness management of all the aircraft they operate, provided that all of the following requirements are met:
+
+(1) the CAMO is approved in accordance with Annex Vc (Part-CAMO) for the aircraft to be managed;
+
+(2) the CAMO forms part of the same air carrier business grouping as the operators concerned;
+
+(3) a contract is established in accordance with Appendix I to this Annex between the CAMO and the AOC holder not itself approved as a CAMO;
+
+(4) the CAMO has its principal place of business in the territory to which the Treaties apply;
+
+(5) the individual management systems of the organisations concluding a contract are harmonised with each other.
+
+(eb) By derogation to point (e)(2), when the termination or revocation of an air operator certificate results in a situation where an air carrier licensed in accordance with Regulation (EC) No 1008/2008 and forming part of an air carrier business grouping is no longer in compliance with point M.A.201(ea), that licensed air carrier shall define and implement an action plan to the satisfaction of the competent authority to comply with point M.A.201(e)(2) as soon as practicable.
+
+(f) For complex motor-powered aircraft used for commercial specialised operations, for CAT operations other than those performed by air carriers licensed in accordance with Regulation (EC) No 1008/2008 or by commercial Approved Training Organisations (‘ATO’) and Declared Training Organisations (‘DTO’) referred to in Article 10a of Regulation (EU) No 1178/2011 ( 9 ), the operator shall ensure that:
+
+(1) no flight takes place unless the conditions set out in point (a) are met;
+
+(2) the tasks associated with continuing airworthiness are performed by a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M); when the operator is not a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), it shall conclude a written contract as regards the performance of those tasks in accordance with Appendix I to this Annex with an organisation approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M);
+
+(3) the CAMO referred to in point (2) is approved in accordance with Annex II (Part-145) as an organisation to qualify for the issue of an approval for the maintenance of aircraft and of components for installation thereon, or that CAMO has concluded a written contract in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) of this Annex (Part-M) with organisations approved in accordance with Annex II (Part-145).
+
+(g) For complex motor-powered aircraft not included in points (e) and (f), the owner shall ensure that:
+
+(1) no flight takes place unless the conditions set out in point (a) are met;
+
+(2) the tasks associated with continuing airworthiness are performed by a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M); when the owner is not a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), it shall conclude a written contract as regards the performance of those tasks in accordance with Appendix I to this Annex with an organisation approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M);
+
+(3) the CAMO referred to in point (2) is approved in accordance with Annex II (Part-145) as an organisation to qualify for the issue of an approval for the maintenance of aircraft and of components for installation thereon, or that CAMO has concluded a written contract in accordance with point CAMO.A.315(c) of Annex Vc (Part-CAMO) or point M.A.708(c) of this Annex (Part-M) with organisations approved in accordance with Annex II (Part-145).
+
+(h) For aircraft other than complex motor-powered aircraft used for commercial specialised operations or for CAT operations other than those performed by air carriers licensed in accordance with Regulation (EC) No 1008/2008, or by commercial ATOs and commercial DTOs referred to in Article 10a of Regulation (EU) No 1178/2011, the operator shall ensure that:
+
+(1) no flight takes place unless the conditions set out in point (a) are met;
+
+(2) the tasks associated with continuing airworthiness are performed by a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), or a combined airworthiness organisation (‘CAO’) approved in accordance with Annex Vd (Part-CAO); when the operator is not a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), or a CAO approved in accordance with Annex Vd (Part-CAO), it shall conclude a written contract in accordance with Appendix I to this Annex with a CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M), or a CAO approved in accordance with Annex Vd (Part-CAO);
+
+(3) the CAMO or CAO referred to in point (2) is approved in accordance with Annex II (Part-145) or in accordance with Subpart F of this Annex (Part-M) or as a CAO with maintenance privileges, or that CAMO or CAO has concluded a written contract with organisations approved in accordance with Annex II (Part-145) or in accordance with Subpart F of this Annex (Part-M) or Annex Vd (Part-CAO) with maintenance privileges.
+
+(i) For aircraft other than complex motor-powered aircraft not included in points (e) and (h), or used for limited operations, the owner shall ensure that flight takes place only if the conditions set out in point (a) are met. To that end, the owner shall:
+
+(1) attribute the continuing airworthiness tasks referred to in point M.A.301 to a CAMO or CAO through a written contract concluded in accordance with Appendix I; or
+
+(2) carry out those tasks himself; or
+
+(3) carry out those tasks himself except the tasks of the development of and the processing of the approval of the AMP, only if those tasks are performed by a CAMO or CAO through a limited contract concluded in accordance with point M.A.302.
+
+(j) The owner/operator shall ensure that any person authorised by the competent authority is granted access to any of its facilities, aircraft or documents related to its activities, including any subcontracted activities, to determine compliance with this Part.
+
+(k) Where an aircraft included in an air operator certificate is used for non-commercial operations or specialised operations under point ORO.GEN.310 of Annex III or point NCO.GEN.104 of Annex VII to Regulation (EU) No 965/2012, the operator shall ensure that the tasks associated with continuing airworthiness are performed by the CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of this Annex (Part-M) or the combined airworthiness organisation (‘CAO’) approved in accordance with Annex Vd (Part-CAO), whichever applicable, of the air operator certificate holder.
+
+M.A.202 Occurrence reporting
+
+(a) The following persons shall report any safety-related event or identified condition of an aircraft or component that endangers or, if not corrected or addressed, could endanger an aircraft, its occupants or any other person:
+
+(1) the owner carrying out the aircraft continuing airworthiness tasks themselves in accordance with points M.A.201(i)(2) and (3);
+
+(2) the independent certifying staff referred to in point M.A.801(b)(1);
+
+(3) the pilot-owner referred to in point M.A.801(b)(2).
+
+(b) Reports required by point (a) shall:
+
+(1) be made to the competent authority of the Member State of registry of the aircraft and to the organisation responsible for the design of the aircraft or component;
+
+(2) be made as soon as practicable, but in any case, within 72 hours of becoming aware of the event or condition, unless exceptional circumstances prevent this;
+
+(3) be made in a form and manner established by the competent authority of the Member State of registry of the aircraft;
+
+(4) contain all pertinent information about the event or condition known to the person.
+
+(c) In addition to the requirements set out in points (a) and (b), a person maintaining the aircraft shall also report any such event or condition affecting the aircraft to the person or organisation responsible in accordance with point M.A.201 for the continuing airworthiness of such aircraft.
+
+**SUBPART C**
+
+**CONTINUING AIRWORTHINESS**
+
+M.A.301 Continuing airworthiness tasks
+
+The aircraft continuing airworthiness and the serviceability of operational and emergency equipment shall be ensured by:
+
+(a) the accomplishment of pre-flight inspections;
+
+(b) the rectification of any defect and damage affecting safe operation in accordance with data specified in points M.A.304 and M.A.401, as applicable, while taking into account the minimum equipment list (‘MEL’) and configuration deviation list, when they exist;
+
+(c) the accomplishment of all maintenance in accordance with the AMP referred to in point M.A.302;
+
+(d) the release of all maintenance in accordance with Subpart H;
+
+(e) for all complex motor-powered aircraft or aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, the analysis of the effectiveness of the approved AMP referred to in point M.A.302;
+
+(f) the accomplishment of any applicable:
+
+(1) airworthiness directive (AD);
+
+(2) operational directive with a continuing airworthiness impact;
+
+(3) continuing airworthiness requirement established by the Agency;
+
+(4) measures required by the competent authority in immediate reaction to a safety problem;
+
+(g) the accomplishment of modifications and repairs in accordance with point M.A.304;
+
+(h) delivering to the pilot-in-command, or to the operator in the case of air carriers licensed in accordance with Regulation (EC) No 1008/2008, the mass and balance statement reflecting the current configuration of the aircraft;
+
+(i) maintenance check flights, when necessary.
+
+M.A.302 Aircraft maintenance programme
+
+(a) Maintenance of each aircraft shall be organised in accordance with an AMP.
+
+(b) The AMP and any subsequent amendments thereto shall be approved by the competent authority.
+
+(c) When the continuing airworthiness of aircraft is managed by a CAMO or CAO, or when there is a limited contract between the owner and a CAMO or CAO concluded in accordance with point M.A.201(i)(3), the AMP and its amendments may be approved through an indirect approval procedure.
+
+In that case, the indirect approval procedure shall be established by the CAMO or CAO concerned as part of the continuing airworthiness management exposition (‘CAME’) referred to in point CAMO.A.300 of Annex Vc or point M.A.704 of this Annex, or as part of the combined airworthiness exposition (‘CAE’) referred to in point CAO.A.025 of Annex Vd and shall be approved by the competent authority responsible for that CAMO or CAO.
+
+The indirect approval procedure shall only be used when the CAMO or CAO concerned is under the oversight of the Member State of registry of aircraft, unless a written contract has been concluded in accordance with point 3 of point M.1 transferring responsibility for the approval of the aircraft maintenance programme to the competent authority responsible for the CAMO or CAO.
+
+(d) The AMP shall demonstrate compliance with:
+
+(1) the instructions issued by the competent authority;
+
+(2) the instructions for continuing airworthiness:
+
+(i) issued by the holders of the type certificate, restricted type certificate, supplemental type certificate, major repair design approval, ETSO authorisation or the declarant of a declaration of design compliance or the holder of any other relevant approval issued under Annex I (Part 21) or, as applicable, Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(ii) included in the certification specifications referred to in point 21.A.90B or 21.A.431B of Annex I (Part 21) to Regulation (EU) No 748/2012, if applicable;
+
+(iii) included in the certification specifications referred to in point 21L.A.62, 21L.A.102, 21L.A.202 or 21L.A.222 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, if applicable.
+
+(e) By derogation to point (d), the owner or the organisation managing the continuing airworthiness of the aircraft may deviate from the instruction referred to in point (d)(2) and propose escalated intervals in the AMP, based on data obtained from sufficient reviews carried out in accordance with point (h). Indirect approval is not permitted for the escalation of safety-related tasks. The owner or the organisation managing the continuing airworthiness of the aircraft may also propose additional instructions in the AMP.
+
+(f) The AMP shall contain details of all maintenance to be carried out, including frequency and any specific tasks linked to the type and specificity of operations.
+
+(g) For complex motor-powered aircraft, when the AMP is based on maintenance steering group logic or on condition monitoring, the AMP shall include a reliability programme.
+
+(h) The AMP shall be subject to periodic reviews and be amended accordingly when necessary. Those reviews shall ensure that the AMP continues to be up to date and valid in light of the operating experience and instructions from the competent authority, while taking into account new or modified maintenance instructions issued by the type-certificate and supplemental type-certificate holders, declarant of a declaration of design compliance and any other organisation that publishes such data in accordance with Annex I (Part 21) or, as applicable, Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+M.A.303 Airworthiness directives
+
+Any applicable airworthiness directive must be carried out within the requirements of that airworthiness directive, unless otherwise specified by the Agency.
+
+M.A.304 Data for modifications and repairs
+
+A person or organisation repairing an aircraft or a component, shall assess any damage. Modifications and repairs shall be carried out using, as appropriate, the following data:
+
+(a) approved by the Agency;
+
+(b) approved by a design organisation complying with Annex I (Part 21) to Regulation (EU) No 748/2012;
+
+(c) contained in the requirements referred to in point 21.A.90B or 21.A.431B of Annex I (Part 21) to Regulation (EU) No 748/2012;
+
+(d) contained in the requirements referred to in point 21L.A.62, 21L.A.102, 21L.A.202 or 21L.A.222 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(e) declared by a declarant of a declaration of design compliance complying with Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+M.A.305 Aircraft continuing airworthiness record system
+
+(a) At the completion of any maintenance, aircraft certificate of release to service (‘CRS’) required by point M.A.801 or point 145.A.50, as applicable, shall be entered in the aircraft continuing airworthiness record system, as soon as practicable and no later than 30 days after the completion of any maintenance.
+
+(b) The aircraft continuing airworthiness record system shall contain the following:
+
+1\. the date of the entry, the total in-service life accumulated in the applicable parameter for aircraft, engine(s) and/or propeller(s);
+
+2\. the aircraft continuing airworthiness records described in points (c) and (d) below together with the supporting detailed maintenance records described in point (e) below;
+
+3\. if required by point M.A.306, the aircraft technical log.
+
+(c) The aircraft continuing airworthiness records shall include the current mass and balance report and the current status of:
+
+1\. ADs and measures mandated by the competent authority in immediate reaction to a safety problem;
+
+2\. modifications and repairs;
+
+3\. compliance with the AMP;
+
+4\. deferred maintenance tasks and deferred defects rectification.
+
+(d) The aircraft continuing airworthiness records shall include the current status specific to components of:
+
+1\. life-limited parts, including the life accumulated by each affected part in relation to the applicable airworthiness limitation parameter; and
+
+2\. time-controlled components, including the life accumulated by the affected components in the applicable parameter, since the last accomplishment of scheduled maintenance, as specified in the AMP.
+
+(e) The owner or operator shall establish a system to keep the following documents and data in a form acceptable to the competent authority and for the periods specified below:
+
+1\. aircraft technical log system: the technical log or other data equivalent in scope and detail, covering the 36 months period prior to the last entry,
+
+2\. the CRS and detailed maintenance records:
+
+(i) demonstrating compliance with ADs and measures mandated by the competent authority in immediate reaction to a safety problem applicable to the aircraft, engine(s), propeller(s) and components fitted thereto, as appropriate, until such time as the information contained therein is superseded by new information equivalent in scope and detail but covering a period not shorter than 36 months;
+
+(ii) demonstrating compliance with the applicable data in accordance with point M.A.304 for current modifications and repairs to the aircraft, engine(s), propeller(s) and any component subject to airworthiness limitations; and
+
+(iii) of all scheduled maintenance or other maintenance required for continuing airworthiness of aircraft, engine(s), propeller(s), as appropriate, until such time as the information contained therein is superseded by new information equivalent in scope and detail but covering a period not shorter than 36 months.
+
+3\. data specific to certain components:
+
+(i) an in-service history record for each life-limited part based on which the current status of compliance with airworthiness limitations is determined;
+
+(ii) the CRS and detailed maintenance records for the last accomplishment of any scheduled maintenance and any subsequent unscheduled maintenance of all life-limited parts and time-controlled components until the scheduled maintenance has been superseded by another scheduled maintenance of equivalent scope and detail but covering a period not shorter than 36 months;
+
+(iii) the CRS and owner’s acceptance statement for any component that is fitted to an ELA2 aircraft without an EASA Form 1 in accordance with point 21.A.307(b)(2) of Annex I (Part 21) to Regulation (EU) No 748/2012 but covering a period not shorter than 36 months;
+
+(iv) the CRS and owner’s acceptance statement for any component that is fitted to an aircraft without an EASA Form 1 in accordance with point 21L.A.193(b)(2) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 but covering a period not shorter than 36 months.
+
+4\. Record-keeping periods when the aircraft is permanently withdrawn from service:
+
+(i) the data required by point (b)(1) of point M.A.305 in respect of aircraft, engine(s), and propeller(s) which shall be retained for at least 12 months;
+
+(ii) the last effective status and reports as identified under points (c) and (d) of point M.A.305 which shall be retained for at least 12 months; and
+
+(iii) the most recent CRS(s) and detailed maintenance records as identified under points (e)(2)(ii) and (e)(3)(i) of point M.A.305 which shall be retained for at least 12 months.
+
+(f) The person or organisation responsible for the management of continuing airworthiness tasks pursuant to point M.A.201 shall comply with the requirements regarding the aircraft continuing airworthiness record system and present the records to the competent authority upon request.
+
+(g) All entries made in the aircraft continuing airworthiness record system shall be clear and accurate. When it is necessary to correct an entry, the correction shall be made in a manner that clearly shows the original entry.
+
+M.A.306 Aircraft technical log system
+
+(a) In addition to the requirements of point M.A.305, for CAT, commercial specialised operations and commercial ATO or commercial DTO operations, the operator shall use a technical log system containing the following information for each aircraft:
+
+1\. information about each flight, necessary to ensure continued flight safety, and;
+
+2\. the current aircraft certificate of release to service, and;
+
+3\. the current maintenance statement giving the aircraft maintenance status of what scheduled and out of phase maintenance is next due except that the competent authority may agree to the maintenance statement being kept elsewhere, and;
+
+4\. all outstanding deferred defects rectifications that affect the operation of the aircraft, and;
+
+5\. any necessary guidance instructions on maintenance support arrangements.
+
+(b) The initial issue of aircraft technical log system shall be approved by the competent authority specified in point CAMO.A.105 of Annex Vc (Part-CAMO), or point M.1 of this Annex (Part-M) or point CAO.1(1) of Annex Vd (Part-CAO), as applicable. Any subsequent amendment to that system shall be managed in accordance with point CAMO.A.300(c), or points M.A.704(b) and (c), or point CAO.A.025(c).
+
+M.A.307 Transfer of aircraft continuing airworthiness records
+
+(a) When an aircraft is permanently transferred from one owner or operator to another, the transferring owner or operator shall ensure that the continuing airworthiness records referred to in point M.A.305 and, if applicable the technical log system referred to in point M.A.306, are also transferred.
+
+(b) When the owner contracts the continuing airworthiness management tasks to a CAMO or CAO, the owner shall ensure that the continuing airworthiness records referred to in point M.A.305 are transferred to that contracted organisation.
+
+(c) The time periods for the retention of records set out in point (e) of point M.A.305 shall continue to apply to the new owner, operator, CAMO or CAO.
+
+**SUBPART D**
+
+**MAINTENANCE STANDARDS**
+
+M.A.401 Maintenance data
+
+(a) The person or organisation maintaining an aircraft shall have access to and use only applicable current maintenance data in the performance of maintenance including modifications and repairs.
+
+(b) For the purposes of this Annex, applicable maintenance data is any of the following:
+
+(1) any applicable requirement, procedure, standard or information issued by the competent authority or the Agency;
+
+(2) any applicable airworthiness directive;
+
+(3) the applicable instructions for continuing airworthiness and other maintenance instructions, issued by the type-certificate holder, supplemental type-certificate holder, a declarant of a declaration of design compliance and any other organisation that publishes such data in accordance with Annex I (Part 21) or, as applicable, Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(4) for components approved for installation by the design approval holder or declarant of a declaration of design compliance, the applicable maintenance instructions published by the component manufacturers and acceptable to the design approval holder or declarant of a declaration of design compliance;
+
+(5) any applicable data issued in accordance with point 145.A.45(d).
+
+(c) The person or organisation maintaining an aircraft shall ensure that all applicable maintenance data is current and readily available for use when required. The person or organisation shall establish a work card or worksheet system to be used and shall either transcribe accurately the maintenance data onto such work cards or worksheets or make precise reference to the particular maintenance task or tasks contained in such maintenance data.
+
+M.A.402 Performance of maintenance
+
+Except for maintenance performed by a maintenance organisation approved in accordance with Annex II (Part-145), any person or organisation performing maintenance shall:
+
+(a) be qualified for the tasks performed, as required by this part;
+
+(b) ensure that the area in which maintenance is carried out is well organised and clean in respect of dirt and contamination;
+
+(c) use the methods, techniques, standards and instructions specified in the M.A.401 maintenance data;
+
+(d) use the tools, equipment and material specified in the M.A.401 maintenance data. If necessary, tools and equipment shall be controlled and calibrated to an officially recognised standard;
+
+(e) ensure that maintenance is performed within any environmental limitations specified in the M.A.401 maintenance data;
+
+(f) ensure that proper facilities are used in case of inclement weather or lengthy maintenance;
+
+(g) ensure that the risk of multiple errors during maintenance and the risk of errors being repeated in identical maintenance tasks are minimised;
+
+(h) ensure that an error capturing method is implemented after the performance of any critical maintenance task; and
+
+(i) carry out a general verification after completion of maintenance to ensure the aircraft or component is clear of all tools, equipment and any extraneous parts or material, and that all access panels removed have been refitted.
+
+M.A.403 Aircraft defects
+
+(a) Any aircraft defect that hazards seriously the flight safety shall be rectified before further flight.
+
+(b) Only the certifying staff referred to in point M.A.801(b)(1) or in Subpart F of this Annex or in Annex II (Part-145) or in Annex Vd (Part-CAO), or the person authorised in accordance with point M.A.801(c) of this Annex can decide, using maintenance data referred to in point M.A.401 of this Annex, whether an aircraft defect hazards seriously the flight safety and therefore decide when and which rectification action shall be taken before further flight and which defect rectification can be deferred. However, this does not apply when the MEL is used by the pilot or by the certifying staff.
+
+(c) Any aircraft defect that would not hazard seriously the flight safety shall be rectified as soon as practicable, after the date the aircraft defect was first identified and within any limits specified in the maintenance data or the MEL.
+
+(d) Any defect not rectified before flight shall be recorded in the aircraft continuing airworthiness record system referred to in point M.A.305 or, if applicable in the aircraft technical log system referred to in point M.A.306.
+
+**SUBPART E**
+
+**COMPONENTS**
+
+M.A.501 Classification and installation
+
+(a) All components shall be classified into the following categories:
+
+(1) Components which are in a satisfactory condition, released on an EASA Form 1 or equivalent and marked in accordance with Subpart Q of Annex I (Part 21) or, as applicable, Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, unless otherwise specified in point 21.A.307 of Annex I (Part 21) or point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 or in this Annex (Part-M) or in Annex Vd (Part-CAO).
+
+(2) Unserviceable components which shall be maintained in accordance with this Regulation.
+
+(3) Components categorised as unsalvageable because they have reached their mandatory life limitation or contain a non-repairable defect.
+
+(4) Standard parts used on an aircraft, engine, propeller or other aircraft component when specified in the maintenance data and accompanied by evidence of conformity traceable to the applicable standard.
+
+(5) Material both raw and consumable used in the course of maintenance when the organisation is satisfied that the material meets the required specification and has appropriate traceability. All materials must be accompanied by documentation clearly relating to the particular material and containing a conformity to specification statement plus both the manufacturing and supplier source.
+
+(b) Components, standard parts and material shall only be installed on an aircraft or a component when they are in a satisfactory condition, belong to one of the categories listed in point (a) and the applicable maintenance data specifies the particular component, standard part or material.
+
+M.A.502 Component maintenance
+
+(a) The maintenance of components other than the components referred to in points (b)(2) to (b)(6) of point 21.A.307 of Annex I (Part 21) or, as applicable, points (b)(2) to (b)(6) of point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 shall be performed by maintenance organisations approved in accordance with Subpart F of this Annex or with Annex II (Part-145) or with Annex Vd (Part-CAO), as applicable.
+
+(b) By way of derogation from point (a), where a component is fitted to the aircraft, the maintenance of such a component may be performed by an aircraft maintenance organisation approved in accordance with Subpart F of this Annex or with Annex II (Part-145) or with Annex Vd (Part-CAO) or by the certifying staff referred to in point (b)(1) of point M.A.801 of this Annex. Such maintenance shall be performed in accordance with the aircraft maintenance data or in accordance with the component maintenance data if agreed by the competent authority. Such aircraft maintenance organisation or the certifying staff may temporarily remove the component for maintenance where it becomes necessary to improve access to the component, except where additional maintenance is required due to the removal. Component maintenance performed in accordance with this point shall not be eligible for the issuance of an EASA Form 1 and shall be subject to the aircraft release requirements provided for in point M.A.801 of this Annex.
+
+(c) By way of derogation from point (a), where a component is fitted to the engine or the auxiliary power unit (APU), the maintenance of such component may be performed by an engine maintenance organisation approved in accordance with Subpart F of this Annex, or with Annex II (Part-145) or Annex Vd (Part-CAO). Such maintenance shall be performed in accordance with the engine or the APU maintenance data or in accordance with the component maintenance data if agreed by the competent authority. Such engine maintenance organisation may temporarily remove the component for maintenance if this is necessary to improve access to the component, except where additional maintenance is required due to the removal.
+
+(d) The maintenance of components referred to in point (b)(2) of point 21.A.307 of Annex I (Part 21) or in point (b)(2) of point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, where the component is fitted to the aircraft or is temporarily removed to improve access, shall be performed by an aircraft maintenance organisation approved in accordance with Subpart F of this Annex or with Annex II (Part-145) or with Annex Vd (Part-CAO), as applicable, by the certifying staff referred to in point (b)(1) of point M.A.801 or by the pilot-owner referred to in point (b)(2) of point M.A.801. Component maintenance performed in accordance with this point shall not be eligible for the issuance of an EASA Form 1 and shall be subject to the aircraft release requirements provided for in point M.A.801.
+
+(e) The maintenance of components referred to in points (b)(3) to (b)(6) of point 21.A.307 of Annex I (Part 21) to Regulation (EU) No 748/2012 or in points (b)(3) to (b)(6) of point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 shall be performed either by the organisations referred to in point (a), or performed by any person or organisation and released with a ‘declaration of maintenance accomplished’ issued by the person or organisation performing the maintenance. The ‘declaration of maintenance accomplished’ shall contain at least basic details of the maintenance carried out, the date on which the maintenance was completed, and the identification of the organisation or person issuing it. It shall be considered a maintenance record and equivalent to an EASA Form 1 in respect of the component undergoing maintenance.
+
+M.A.503 Life-limited parts and time-controlled components
+
+(a) Installed life-limited parts and time-controlled components shall not exceed the approved limitation as specified in the AMP and ADs, except as provided for in point M.A.504(b).
+
+(b) When the approved limitation expires, the component shall be removed from the aircraft for maintenance, or for disposal in the case of life-limited parts.
+
+M.A.504 Segregation of components
+
+(a) Unserviceable and unsalvageable components shall be segregated from serviceable components, standards parts and materials.
+
+(b) Unsalvageable components shall not be permitted to re-enter the component supply system unless the mandatory life limitation has been extended or a repair solution has been approved in accordance with Regulation (EU) No 748/2012.
+
+**SUBPART F**
+
+**MAINTENANCE ORGANISATION**
+
+M.A.601 Scope
+
+This Subpart establishes the requirements to be met by an organisation to qualify for the issue or continuation of an approval for the maintenance of aircraft other than complex motor powered aircraft and components to be installed therein not used by licenced air carriers in accordance with Regulation (EC) No 1008/2008.
+
+M.A.602 Application
+
+An application for issue or change of a maintenance organisation approval shall be made on a form and in a manner established by the competent authority.
+
+M.A.603 Extent of approval
+
+(a) An organisation involved in activities subject to this Subpart shall not exercise its activities unless approved by the competent authority. To that aim, the competent authority shall use the template set out in Appendix V.
+
+(b) The scope of work subject to approval shall be specified in the maintenance organisation manual in accordance with point M.A.604. Classes and ratings to be used for the approval of maintenance organisations are set out in Appendix IV of this Part.
+
+(c) An approved maintenance organisation may fabricate, in conformity with maintenance data, a restricted range of parts for the use in the course of undergoing work within its own facilities, as identified in the maintenance organisation manual.
+
+M.A.604 Maintenance organisation manual
+
+(a) The maintenance organisation shall provide a manual containing at least the following information:
+
+1\. a statement signed by the accountable manager appointed in accordance with point M.A.606, point (a) which confirms that the organisation will at all times carry out its activities in accordance with the requirements of this Annex (Part-M) or Annex Vb (Part-ML), as applicable, and with the manual;
+
+2\. the organisation's scope of work, and;
+
+3\. the title(s) and name(s) of person(s) referred to in point M.A.606(b), and;
+
+4\. an organisation chart showing associated chains of responsibility between the person(s) referred to in point M.A.606(b), and;
+
+5\. a list of certifying staff and, if applicable, airworthiness review staff, with their scope of approval, and;
+
+6\. a list of locations where maintenance is carried out, together with a general description of the facilities, and;
+
+7\. procedures specifying how the maintenance organisation ensures compliance with this Part, and;
+
+8\. the maintenance organisation manual amendment procedure(s).
+
+(b) The maintenance organisation manual and its amendments shall be approved by the competent authority.
+
+(c) Notwithstanding point (b) minor amendments to the manual may be approved through a procedure (hereinafter called indirect approval).
+
+M.A.605 Facilities
+
+The organisation shall ensure that:
+
+(a) Facilities are provided for all planned work, specialised workshops and bays are segregated as appropriate, to ensure protection from contamination and the environment.
+
+(b) Office accommodation is provided for the management of all planned work including in particular, the completion of maintenance records.
+
+(c) Secure storage facilities are provided for components, equipment, tools and material. Storage conditions shall ensure segregation of unserviceable components and material from all other components, material, equipment and tools. Storage conditions shall be in accordance with the manufacturers' instructions and access shall be restricted to authorised personnel.
+
+M.A.606 Personnel requirements
+
+(a) The organisation shall appoint an accountable manager, who has corporate authority for ensuring that all maintenance required by the customer can be financed and carried out to the standard required by this Part.
+
+(b) A person or group of persons shall be nominated with the responsibility of ensuring that the organisation is always in compliance with this Subpart. Such person(s) shall be ultimately responsible to the accountable manager.
+
+(c) All point (b) persons shall be able to show relevant knowledge, background and appropriate experience related to aircraft and/or component maintenance.
+
+(d) The organisation shall have appropriate staff for the normal expected contracted work. The use of temporarily sub-contracted staff is permitted in the case of higher than normally expected contracted work and only for personnel not issuing a certificate of release to service.
+
+(e) The qualification of all personnel involved in maintenance and airworthiness reviews shall be demonstrated and recorded.
+
+(f) Personnel who carry out specialised tasks such as welding, non-destructive testing/inspection other than colour contrast shall be qualified in accordance with an officially recognised standard.
+
+(g) The maintenance organisation shall have sufficient certifying staff to issue certificates of release to service for aircraft and components provided for in points M.A.612 and M.A.613. The staff shall comply with the following requirements:
+
+1\. Annex III (Part-66) in the case of aircraft;
+
+2\. Article 5(6) of this Regulation in the case of components.
+
+(h) By derogation from point (g), the organisation may use certifying staff qualified in accordance with the following provisions when providing maintenance support to operators involved in commercial operations, subject to appropriate procedures to be approved as part of the organisation's manual:
+
+1\. For a repetitive pre-flight airworthiness directive which specifically states that the flight crew may carry out such airworthiness directive, the organisation may issue a limited certifying staff authorisation to the aircraft commander on the basis of the flight crew licence held, provided that the organisation ensures that sufficient practical training has been carried out to ensure that such person can accomplish the airworthiness directive to the required standard;
+
+2\. In the case of aircraft operating away from a supported location the organisation may issue a limited certifying staff authorisation to the aircraft commander on the basis of the flight crew licence, provided that the organisation ensures that sufficient practical training has been carried out to ensure that such person can accomplish the task to the required standard.
+
+(i) If the organisation performs airworthiness reviews and issues the corresponding airworthiness review certificate for ELA1 aircraft not involved in commercial operations in accordance with point ML.A.903 of Annex Vb (Part-ML), it shall have airworthiness review staff qualified and authorised meeting all of the following requirements:
+
+1\. shall hold a certifying staff authorisation for the corresponding aircraft;
+
+2\. shall have at least three years of experience as certifying staff;
+
+3\. shall be independent from the continuing airworthiness management process of the aircraft being reviewed or shall have overall authority on the continuing airworthiness management process of the complete aircraft being reviewed;
+
+4\. shall have acquired knowledge of Subpart C of this Annex (Part-M) or Subpart C of Annex Vb (Part-ML);
+
+5\. shall have acquired proven knowledge of the procedures of the maintenance organisation relevant to the airworthiness review and issue of the airworthiness review certificate;
+
+6\. shall have been formally accepted by the competent authority after having performed an airworthiness review under the supervision of the competent authority or under the supervision of the organisation's airworthiness review staff in accordance with a procedure approved by the competent authority;
+
+7\. shall have performed at least one airworthiness review in the last twelve-month period.
+
+M.A.607 Certifying staff and airworthiness review staff
+
+(a) In addition to point M.A.606(g), certifying staff can only exercise their privileges, if the organisation has ensured:
+
+1\. that certifying staff can demonstrate that they meet the requirements of point (b) of point 66.A.20 of Annex III (Part-66) or, where that Annex so requires, the requirements of the law of the Member State;
+
+2\. that certifying staff have an adequate understanding of the relevant aircraft and/or aircraft component(s) to be maintained together with the associated organisation procedures.
+
+(b) In the following unforeseen cases, where an aircraft is grounded at a location other than the main base where no appropriate certifying staff is available, the maintenance organisation contracted to provide maintenance support may issue a one-off certification authorisation:
+
+1\. to one of its employees holding type qualifications on aircraft of similar technology, construction and systems; or
+
+2\. to any person with not less than three years maintenance experience and holding a valid ICAO aircraft maintenance licence rated for the aircraft type requiring certification provided there is no organisation appropriately approved under this Part at that location and the contracted organisation obtains and holds on file evidence of the experience and the licence of that person.
+
+All such cases must be reported to the competent authority within seven days after issuing such certification authorisation.  The approved maintenance organisation issuing the one-off certification authorisation shall ensure that any such maintenance that could affect flight safety is re-checked.
+
+(c) The approved maintenance organisation shall record all details concerning certifying staff and airworthiness review staff and maintain a current list of all certifying staff and airworthiness review staff together with their scope of approval as part of the organisation's manual pursuant to point M.A.604(a)5.
+
+M.A.608 Components, equipment and tools
+
+(a) The organisation shall:
+
+1\. hold the equipment and tools specified in the maintenance data described in point M.A.609 or verified equivalents as listed in the maintenance organisation manual as necessary for day-to-day maintenance within the scope of the approval; and,
+
+2\. demonstrate that it has access to all other equipment and tools used only on an occasional basis.
+
+(b) Tools and equipment shall be controlled and calibrated to an officially recognised standard. Records of such calibrations and the standard used shall be kept by the organisation.
+
+(c) The organisation shall inspect, classify and appropriately segregate all incoming components, standard parts and materials.
+
+M.A.609 Maintenance data
+
+The approved maintenance organisation shall hold and use applicable current maintenance data specified in point M.A.401 of this Annex or in point ML.A.401 of Annex Vb (Part-ML), as applicable, in the performance of maintenance, including modifications and repairs. However, in the case of customer-provided maintenance data, the organisation shall only hold and use such data when the maintenance work is in progress.
+
+M.A.610 Maintenance work orders
+
+Before the commencement of maintenance a written work order shall be agreed between the organisation and the organisation requesting maintenance to clearly establish the maintenance to be carried out.
+
+M.A.611 Maintenance standards
+
+All maintenance shall be carried out in accordance with the requirements of Subpart D, Section A of this Annex or with the requirements of Subpart D, Section A of Annex Vb (Part-ML), as set out in Article 3 paragraph 1.
+
+M.A.612 Aircraft certificate of release to service
+
+Upon completion of all required aircraft maintenance in accordance with this Subpart, an aircraft CRS shall be issued in accordance with point M.A.801 of this Annex or point ML.A.801 of Annex Vb (Part-ML), as set out in Article 3 paragraph 1.
+
+M.A.613 Component certificate of release to service
+
+(a) Upon completion of all required component maintenance in accordance with this Subpart, a component CRS shall be issued in accordance with point M.A.802 of this Annex or with point ML.A.802 of Annex Vb (Part-ML), as applicable. An EASA Form 1 shall be issued, except for those components maintained in accordance with points (b) or (d) of point M.A.502, for components fabricated in accordance with point (c) of point M.A.603 of this Annex and for components in respect of which point ML.A.502 of Annex Vb (Part-ML) provides otherwise.
+
+(b) The component CRS document, EASA Form 1, may be generated from a computer system.
+
+M.A.614 Maintenance and airworthiness review records
+
+(a) The approved maintenance organisation shall record all details of work carried out. Records necessary to prove all requirements have been met for the issue of the certificate of release to service including the subcontractor's release documents and for the issue of any airworthiness review certificate shall be retained.
+
+(b) The approved maintenance organisation shall provide a copy of each CRS to the aircraft owner or operator, together with a copy of any detailed maintenance records associated with the work carried out and necessary to demonstrate compliance with point M.A.305 of this Annex (Part-M) or ML.A.305 of Annex Vb (Part-ML), as applicable.
+
+(c) The approved maintenance organisation shall retain a copy of all maintenance records and any associated maintenance data for three years from the date the aircraft or aircraft component to which the work relates was released from the approved maintenance organisation. In addition, it shall retain a copy of all the records related to the issue of airworthiness review certificates for three years from the date of issue and shall provide a copy of them to the owner of the aircraft.
+
+1\. The records under this point shall be stored in a manner that ensures protection from damage, alteration, and theft.
+
+2\. All computer hardware used to ensure backup shall be stored in a different location from that containing the working data in an environment that ensures they remain in good condition.
+
+3\. Where an approved maintenance organisation terminates its operation, all retained maintenance records covering the last three years shall be distributed to the last owner or customer of the respective aircraft or component or shall be stored as specified by the competent authority.
+
+M.A.615 Privileges of the organisation
+
+The maintenance organisation approved in accordance with Subpart F, Section A of this Annex may:
+
+(a) maintain any aircraft and/or component for which it is approved at the locations specified in the approval certificate and the maintenance organisation manual;
+
+(b) arrange for the performance of specialised services under the control of the maintenance organisation at another organisation appropriately qualified, as described in the maintenance organisation manual;
+
+(c) maintain any aircraft or component for which it is approved at any location, where the need of such maintenance arises either from the unserviceability of the aircraft or from the necessity of supporting occasional maintenance and subject to compliance with the conditions specified in the maintenance organisation manual;
+
+(d) issue certificates of release to service, upon completion of maintenance, in accordance with point M.A.612 or M.A.613 of this Annex;
+
+(e) if specifically approved to do so for ELA1 aircraft not involved in commercial operations, perform airworthiness reviews and issue the corresponding airworthiness review certificate in accordance with the conditions specified in point ML.A.903 of Annex Vb (Part-ML).
+
+The organisation shall only maintain an aircraft or component for which it is approved when all the necessary facilities, equipment, tooling, material, maintenance data and certifying staff are available.
+
+M.A.616 Organisational review
+
+To ensure that the approved maintenance organisation continues to meet the requirements of this Subpart, it shall organise, on a regular basis, organisational reviews.
+
+M.A.617 Changes to the approved maintenance organisation
+
+In order to enable the competent authority to determine continued compliance with this Part, the approved maintenance organisation shall notify it of any proposal to carry out any of the following changes, before such changes take place:
+
+1\. the name of the organisation;
+
+2\. the location of the organisation;
+
+3\. additional locations of the organisation;
+
+4\. the accountable manager;
+
+5\. any of the persons specified in point M.A.606(b);
+
+6\. the facilities, equipment, tools, material, procedures, work scope, certifying staff and airworthiness review staff that could affect the approval.
+
+In the case of proposed changes in personnel not known to the management beforehand, these changes shall be notified at the earliest opportunity.
+
+M.A.618 Continued validity of approval
+
+(a) An approval shall remain valid until 24 March 2022, subject to:
+
+1\. the organisation remaining in compliance with this Part, in accordance with the provisions related to the handling of findings as specified under point M.A.619, and;
+
+2\. the competent authority being granted access to the organisation to determine continued compliance with this Part, and;
+
+3\. the approval not being surrendered or revoked;
+
+(b) Upon surrender or revocation, the approval certificate shall be returned to the competent authority.
+
+M.A.619 Findings
+
+(a) A level 1 finding is any finding of significant non-compliance with the requirements of this Annex and Annex Vb (Part-ML) which lowers the safety standard and seriously endangers flight safety.
+
+(b) A level 2 finding is any finding of non-compliance with the requirements of this Annex and Annex Vb (Part-ML) which may lower the safety standard and may endanger flight safety.
+
+(c) After receipt of notification of findings according to point M.B.605, the holder of the maintenance organisation approval shall define a corrective action plan and demonstrate corrective action to the satisfaction of the competent authority within a period agreed with this authority.
+
+**SUBPART G**
+
+**CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATION**
+
+M.A.701 Scope
+
+This Subpart establishes the requirements to be met by an organisation to qualify for the issue or continuation of an approval for the management of aircraft continuing airworthiness.
+
+M.A.702 Application
+
+An application for issue or change of a continuing airworthiness management organisation approval shall be made on a form and in a manner established by the competent authority.
+
+M.A.703 Extent of approval
+
+(a) The approval is indicated on a certificate included in Appendix VI issued by the competent authority.
+
+(b) Notwithstanding point (a), for licenced air carriers in accordance with Regulation (EC) No 1008/2008, the approval shall be part of the air operator certificate issued by the competent authority, for the aircraft operated.
+
+(c) The scope of work deemed to constitute the approval shall be specified in the continuing airworthiness management exposition in accordance with point M.A.704.
+
+M.A.704 Continuing airworthiness management exposition
+
+(a) The continuing airworthiness management organisation shall provide a continuing airworthiness management exposition containing the following information:
+
+1\. a statement signed by the accountable manager confirming that the organisation will at all times work in accordance with this Annex (Part-M) and Annex Vb (Part-ML), as applicable;
+
+2\. the organisation's scope of work, and;
+
+3\. the title(s) and name(s) of person(s) referred to in points M.A.706(a), M.A.706(c), M.A.706(d) and M.A.706(i), and;
+
+4\. an organisation chart showing associated chains of responsibility between all the person(s) referred to in points M.A.706(a), M.A.706(c), M.A.706(d) and M.A.706(i), and;
+
+5\. a list of the airworthiness staff referred to in point M.A.707, specifying, where applicable, the staff authorised to issue permits to fly in accordance with point M.A.711(c), and;
+
+6\. a general description and location of the facilities, and;
+
+7\. the procedures specifying how the organisation ensures compliance with this Annex (Part-M) and Annex Vb (Part-ML), as applicable, and;
+
+8\. the continuing airworthiness management exposition amendment procedures, and;
+
+9\. the list of approved aircraft maintenance programmes, or, for aircraft not used by licenced air carriers in accordance with Regulation (EC) No 1008/2008, the list of ‘generic’ and ‘baseline’ maintenance programmes.
+
+(b) The continuing airworthiness management exposition and its amendments shall be approved by the competent authority.
+
+(c) Notwithstanding point (b), minor amendments to the exposition may be approved indirectly through an indirect approval procedure. The indirect approval procedure shall define the minor amendment eligible, be established by the continuing airworthiness management organisation as part of the exposition and be approved by the competent authority responsible for that continuing airworthiness management organisation.
+
+M.A.705 Facilities
+
+The continuing airworthiness management organisation shall provide suitable office accommodation at appropriate locations for the personnel specified in point M.A.706.
+
+M.A.706 Personnel requirements
+
+(a) The organisation shall appoint an accountable manager, who has corporate authority for ensuring that all continuing airworthiness management activities can be financed and carried out in accordance with this Annex (Part-M) and Annex Vb (Part-ML), as applicable.
+
+(b) For licenced air carriers in accordance with Regulation (EC) No 1008/2008 the accountable manager referred to in point (a) shall be the person who also has corporate authority for ensuring that all the operations of the operator can be financed and carried out to the standard required for the issue of an air operator's certificate.
+
+(c) A person or group of persons shall be nominated with the responsibility of ensuring that the organisation always complies with the applicable continuing airworthiness management, airworthiness review and permit to fly requirements of this Annex (Part-M) and Annex Vb (Part-ML). Such person(s) shall be ultimately responsible to the accountable manager.
+
+(d) For licenced air carriers in accordance with Regulation (EC) No 1008/2008, the accountable manager shall designate a nominated post holder. This person shall be responsible for the management and supervision of continuing airworthiness activities, pursuant to point (c).
+
+(e) The nominated post holder referred to in point (d) shall not be employed by a Part-145 approved organisation under contract to the operator, unless specifically agreed by the competent authority.
+
+(f) The organisation shall have sufficient appropriately qualified staff for the expected work.
+
+(g) All point (c) and (d) persons shall be able to show relevant knowledge, background and appropriate experience related to aircraft continuing airworthiness.
+
+(h) The qualification of all personnel involved in continuing airworthiness management shall be recorded.
+
+(i) For organisations extending airworthiness review certificates in accordance with points M.A.711(a)(4) and M.A.901 of this Annex (Part-M) or point ML.A.901(c) of Annex Vb (Part-ML) as applicable, the organisation shall nominate persons authorised to do so, subject to approval by the competent authority.
+
+(j) The organisation shall define and keep updated in the continuing airworthiness management exposition the title(s) and name(s) of person(s) referred to in points M.A.706(a), M.A.706(c), M.A.706(d) and M.A.706(i).
+
+(k) For complex motor-powered aircraft and for aircraft used by licenced air carriers in accordance with Regulation (EC) No 1008/2008, the organisation shall establish and control the competence of personnel involved in the continuing airworthiness management, airworthiness review and/or quality audits in accordance with a procedure and to a standard agreed by the competent authority.
+
+M.A.707 Airworthiness review staff
+
+(a) To be approved to carry out airworthiness reviews and, if applicable, to issue permits to fly, an approved continuing airworthiness management organisation shall have appropriate airworthiness review staff to issue airworthiness review certificates or recommendations referred to in Section A, Subpart I of Annex I (Part-M) or in Section A, Subpart I of Annex Vb (Part-ML) and, if applicable, to issue a permit to fly in accordance with point M.A.711(c):
+
+1\. For aircraft used by licenced air carriers in accordance with Regulation (EC) No 1008/2008, and aircraft above 2 730 kg MTOM, except balloons, these staff shall have acquired:
+
+(a) at least 5 years' experience in continuing airworthiness, and;
+
+(b) an appropriate license in compliance with Annex III (Part-66) or an aeronautical degree or a national equivalent, and;
+
+(c) formal aeronautical maintenance training, and;
+
+(d) a position within the approved organisation with appropriate responsibilities.
+
+(e) Notwithstanding points (a) to (d), the requirement laid down in point M.A.707(a)1(b) may be replaced by 5 years of experience in continuing airworthiness additional to those already required by point M.A.707(a)1(a).
+
+2\. For aircraft not used by licenced air carriers in accordance with Regulation (EC) No 1008/2008 of 2 730 kg MTOM and below, and balloons, these staff shall have acquired:
+
+(a) at least 3 years' experience in continuing airworthiness, and;
+
+(b) an appropriate license in compliance with Annex III (Part-66) or an aeronautical degree or a national equivalent, and;
+
+(c) appropriate aeronautical maintenance training, and;
+
+(d) a position within the approved organisation with appropriate responsibilities;
+
+(e) Notwithstanding points (a) to (d), the requirement laid down in point M.A.707(a)2(b) may be replaced by 4 years of experience in continuing airworthiness additional to those already required by point M.A.707(a)2(a).
+
+(b) Airworthiness review staff nominated by the approved continuing airworthiness organisation can only be issued an authorisation by the approved continuing airworthiness organisation when formally accepted by the competent authority after satisfactory completion of an airworthiness review under the supervision of the competent authority or under the supervision of the organisation's airworthiness review staff in accordance with a procedure approved by the competent authority.
+
+(c) The organisation shall ensure that aircraft airworthiness review staff can demonstrate appropriate recent continuing airworthiness management experience.
+
+(d) Airworthiness review staff shall be identified by listing each person in the continuing airworthiness management exposition together with their airworthiness review authorisation reference.
+
+(e) The organisation shall maintain a record of all airworthiness review staff, which shall include details of any appropriate qualification held together with a summary of relevant continuing airworthiness management experience and training and a copy of the authorisation. This record shall be retained until two years after the airworthiness review staff have left the organisation.
+
+M.A.708 Continuing airworthiness management
+
+(a) The organisation shall ensure that all continuing airworthiness management is carried out in accordance with Section A, Subpart C of this Annex (Part-M), and Section A, Subpart C of Annex Vb (Part-ML), as applicable.
+
+(b) For every aircraft managed, the approved continuing airworthiness management organisation shall:
+
+1\. ensure that an aircraft maintenance programme including any applicable reliability programme, as required by point M.A.302 of this Annex (Part-M) or ML.A.302 of Annex Vb (Part-ML), as applicable, is developed and controlled,
+
+2\. for aircraft not used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, provide a copy of the aircraft maintenance programme to the owner or operator responsible in accordance with point M.A.201 of this Annex (Part-M) or ML.A.201 of Annex Vb (Part-ML), as applicable,
+
+3\. manage the approval of modification and repairs,
+
+4\. ensure that all maintenance is carried out in accordance with the approved maintenance programme and released in accordance with Section A, Subpart H of this Annex (Part-M) or Section A, Subpart H of Annex Vb (Part-ML), as applicable,
+
+5\. ensure that all applicable airworthiness directives and operational directives with a continuing airworthiness impact, are applied,
+
+6\. ensure that all defects discovered during scheduled maintenance or reported are corrected by an appropriately approved maintenance organisation,
+
+7\. ensure that the aircraft is taken to an appropriately approved maintenance organisation whenever necessary,
+
+8\. coordinate scheduled maintenance, the application of airworthiness directives, the replacement of service life limited parts, and component inspection to ensure the work is carried out properly,
+
+9\. manage and archive all continuing airworthiness records and/or operator's technical log.
+
+10\. ensure that the mass and balance statement reflects the current status of the aircraft.
+
+(c) In the case of complex motor-powered aircraft or aircraft used for CAT, or aircraft used for commercial specialised operations or commercial ATO or commercial DTO operations, when the CAMO is not appropriately approved in accordance with Annex II (Part-145) or Subpart F of this Annex (Part-M) or Annex Vd (Part-CAO), the organisation shall, in consultation with the operator, establish a written maintenance contract with an organisation approved in accordance with Annex II (Part-145) or Subpart F of this Annex (Part-M) or Annex Vd (Part-CAO) or with another operator, detailing the functions specified under points M.A.301(b), M.A.301(c), M.A.301(f) and M.A.301(g) of this Annex (Part-M), or points ML.A.301(b) to (e) of Annex Vb (Part-ML), ensuring that all maintenance is ultimately carried out by a maintenance organisation approved in accordance with Annex II (Part-145) or Subpart F of this Annex (Part-M) or Annex Vd (Part-CAO) and defining the support of the quality functions referred to in point M.A.712(b) of this Annex (Part-M).
+
+(d) Notwithstanding point (c), the contract may be in the form of individual work orders addressed to the maintenance organisation approved in accordance with Annex II (Part-145) or Subpart F of this Annex (Part-M) or Annex Vd (Part-CAO) in the case of:
+
+1\. an aircraft requiring unscheduled line maintenance;
+
+2\. component maintenance, including engine maintenance.
+
+M.A.709 Documentation
+
+(a) The approved continuing airworthiness management organisation shall hold and use applicable current maintenance data in accordance with point M.A.401 of this Annex (Part-M) or point ML.A.401 of Annex Vb (Part-ML), as applicable, for the performance of continuing airworthiness tasks referred to in point M.A.708 of this Annex (Part-M). That data may be provided by the owner or the operator, subject to an appropriate contract being established with such an owner or operator. In such case, the continuing airworthiness management organisation only needs to keep such data for the duration of the contract, except when required by point M.A.714 of this Annex (Part-M).
+
+(b) For aircraft not used by licenced air carriers in accordance with Regulation (EC) No 1008/2008, the approved continuing airworthiness management organisation may develop ‘baseline’ or ‘generic’ maintenance programmes, or both, in order to allow for the initial approval or the extension of the scope of an approval, without having the contracts referred to in Appendix I to this Annex (Part M) or Appendix I to Annex Vb (Part-ML), as applicable. Those ‘baseline’ and ‘generic’ maintenance programmes however do not preclude the need to establish an adequate Aircraft Maintenance Programme in compliance with point M.A.302 of this Annex (Part-M) or ML.A.302 of Annex Vb (Part-ML), as applicable, in due time before exercising the privileges referred to in point M.A.711 of this Annex (Part-M).
+
+M.A.710 Airworthiness review
+
+When the organisation approved in accordance with point M.A.711(b) of this Annex (Part-M) performs airworthiness reviews, they shall be performed in accordance with point M.A.901 of this Annex (Part-M) or point ML.A.903 of Annex Vb (Part-ML), as applicable.
+
+M.A.711 Privileges of the organisation
+
+(a) A continuing airworthiness management organisation approved in accordance with Section A, Subpart G of this Annex (Part-M) may:
+
+1\. manage the continuing airworthiness of aircraft, except those used by licenced air carriers in accordance with Regulation (EC) No 1008/2008, as listed on the approval certificate;
+
+2\. manage the continuing airworthiness of aircraft used by licenced air carriers in accordance with Regulation (EC) No 1008/2008, when listed both on its approval certificate and on its Air Operator Certificate (AOC);
+
+3\. arrange to carry out limited continuing airworthiness tasks with any contracted organisation, working under its quality system, as listed on the approval certificate;
+
+4\. extend, under the conditions set out in point M.A.901(f) of this Annex (Part-M) or ML.A.901(c) of Annex Vb (Part-ML), as applicable, an airworthiness review certificate that has been issued by the competent authority or by another organisation or person, as applicable;
+
+5\. approve the AMP, in accordance with point (b)(2) of point ML.A.302, for aircraft managed in accordance with Annex Vb (Part-ML).
+
+(b) An approved continuing airworthiness management organisation registered in one of the Member States may, additionally, be approved to carry out airworthiness reviews referred to in point M.A.710 and:
+
+1\. issue the related airworthiness review certificate and extend it in due time under the conditions set out in points M.A.901(c)(2) or M.A.901(e)(2) of this Annex (Part-M) or point ML.A.901(c) of Annex Vb (Part-ML), as applicable; and,
+
+2\. issue a recommendation for the airworthiness review to the competent authority of the Member State of registry.
+
+(c) A continuing airworthiness management organisation whose approval includes the privileges referred to in point M.A.711(b) may additionally be approved to issue a permit to fly in accordance with point 21.A.711(d) of Annex I (Part-21) to Regulation (EU) No 748/2012 for the particular aircraft for which the organisation is approved to issue the airworthiness review certificate, when the continuing airworthiness management organisation is attesting conformity with approved flight conditions, subject to an adequate approved procedure in the exposition referred to in point M.A.704.
+
+M.A.712 Quality system
+
+(a) To ensure that the approved continuing airworthiness management organisation continues to meet the requirements of this Subpart, it shall establish a quality system and designate a quality manager to monitor compliance with, and the adequacy of, procedures required to ensure airworthy aircraft. Compliance monitoring shall include a feedback system to the accountable manager to ensure corrective action as necessary.
+
+(b) The quality system shall monitor activities carried out under Section A, Subpart G of this Annex (Part M). It shall at least include the following functions:
+
+1\. monitoring that all activities carried out under Section A, Subpart G of this Annex (Part M) are being performed in accordance with the approved procedures, and;
+
+2\. monitoring that all contracted maintenance is carried out in accordance with the contract, and;
+
+3\. monitoring the continued compliance with the requirements of this Part.
+
+(c) The records of these activities shall be stored for at least two years.
+
+(d) Where the approved continuing airworthiness management organisation is approved in accordance with another Part, the quality system may be combined with that required by the other Part.
+
+(e) For licenced air carriers in accordance with Regulation (EC) No 1008/2008 the M.A. Subpart G quality system shall be an integrated part of the operator's quality system.
+
+(f) In the case of a small organisation not managing the continuing airworthiness of aircraft used by licenced air carriers in accordance with Regulation (EC) No 1008/2008, the quality system may be replaced by regular organisational reviews subject to the approval of the competent authority, except when the organisation issues airworthiness review certificates for aircraft above 2 730 kg MTOM other than balloons. In the case where there is no quality system, the organisation shall not contract continuing airworthiness management tasks to other parties.
+
+M.A.713 Changes to the approved continuing airworthiness organisation
+
+In order to enable the competent authority to determine continued compliance with this Part, the approved continuing airworthiness management organisation shall notify it of any proposal to carry out any of the following changes, before such changes take place:
+
+1\. the name of the organisation.
+
+2\. the location of the organisation.
+
+3\. additional locations of the organisation.
+
+4\. the accountable manager.
+
+5\. any of the persons specified in M.A.706(c).
+
+6\. the facilities, procedures, work scope and staff that could affect the approval.
+
+In the case of proposed changes in personnel not known to the management beforehand, these changes shall be notified at the earliest opportunity.
+
+M.A.714 Record-keeping
+
+(a) The continuing airworthiness management organisation shall record all details of work carried out. The records required under point M.A.305 of this Annex (Part-M) or ML.A.305 of Annex Vb (Part-ML), as applicable, and if applicable point M.A.306 of this Annex (Part-M), shall be retained.
+
+(b) If the continuing airworthiness management organisation has the privilege referred to in point M.A.711(b), it shall retain a copy of each airworthiness review certificate and recommendation issued or, as applicable, extended, together with all supporting documents. In addition, the organisation shall retain a copy of any airworthiness review certificate that it has extended under the privilege referred to in point M.A.711(a)4.
+
+(c) If the continuing airworthiness management organisation has the privilege referred to in point M.A.711(c), it shall retain a copy of each permit to fly issued in accordance with the provisions of point 21A.729 of Annex I (Part-21) to Regulation (EU) No 748/2012.
+
+(d) The continuing airworthiness management organisation shall retain a copy of all records referred to in points (b) and (c) until two years after the aircraft has been permanently withdrawn from service.
+
+(e) The records shall be stored in a manner that ensures protection from damage, alteration and theft.
+
+(f) All computer hardware used to ensure backup shall be stored in a different location from that containing the working data in an environment that ensures they remain in good condition.
+
+(g) Where continuing airworthiness management of an aircraft is transferred to another organisation or person, all retained records shall be transferred to the said organisation or person. The time periods prescribed for the retention of records shall continue to apply to the said organisation or person.
+
+(h) Where a continuing airworthiness management organisation terminates its operation, all retained records shall be transferred to the owner of the aircraft.
+
+M.A.715 Continued validity of approval
+
+(a) An approval shall remain valid until 24 March 2022, subject to:
+
+1\. the organisation remaining in compliance with this Part, in accordance with the provisions related to the handling of findings as specified under point M.B.705 and;
+
+2\. the competent authority being granted access to the organisation to determine continued compliance with this Part, and;
+
+3\. the approval not being surrendered or revoked.
+
+(b) Upon surrender or revocation, the approval certificate shall be returned to the competent authority.
+
+M.A.716 Findings
+
+(a) A level 1 finding is any significant non-compliance with the requirements of this Annex (Part-M) or Annex Vb (Part-ML), as applicable, which lowers the safety standard and hazards seriously the flight safety;
+
+(b) A level 2 finding is any non-compliance with the requirements of this Annex (Part-M) or Annex Vb (Part-ML), as applicable, which could lower the safety standard and possibly hazard the flight safety;
+
+(c) After receipt of notification of findings according to point M.B.705, the holder of the continuing airworthiness management organisation approval shall define a corrective action plan and demonstrate corrective action to the satisfaction of the competent authority within a period agreed with this authority.
+
+**SUBPART H**
+
+**CERTIFICATE OF RELEASE TO SERVICE — CRS**
+
+M.A.801 Aircraft certificate of release to service
+
+(a) Except for aircraft released to service by a maintenance organisation approved in accordance with Annex II (Part-145), the CRS shall be issued in accordance with this Subpart.
+
+(b) No aircraft shall be released to service unless a CRS is issued when all maintenance tasks ordered have been properly carried out. The CRS shall be issued by an authorised certifying staff of the maintenance organisation approved in accordance with Subpart F of this Annex or with Annex Vd (Part-CAO), except for maintenance tasks other than complex maintenance tasks listed in Appendix VII to this Annex where the CRS is issued, alternatively by:
+
+1\. independent certifying staff acting in accordance with the requirements laid down in Article 5 of this Regulation;
+
+2\. the pilot-owner acting in accordance with point M.A.803 of this Annex.
+
+(c) By derogation from point (b), in case of unforeseen situations, when an aircraft is grounded at a location where no maintenance organisation approved in accordance with this Annex, Annex II (Part-145) or Annex Vd (Part-CAO) and no independent certifying staff are available, the owner may authorise any person, with no less than 3 years of appropriate maintenance experience and holding either a valid ICAO Annex 1 compliant maintenance license for the aircraft type requiring certification or a certifying staff authorisation valid for the work requiring certification issued by an ICAO Annex 6 approved maintenance organisation to maintain the aircraft in accordance with the standards set out in Subpart D of this Annex and release it to service. In that case, the owner shall:
+
+1\. obtain and keep in the aircraft records specifying details of the maintenance carried out and of the qualifications of the person issuing the CRS;
+
+2\. ensure that any such maintenance is later on verified and a new CRS is issued by an appropriately authorised person referred to in point (b) or an organisation approved in accordance with Subpart F of this Annex, Annex II (Part-145) or Annex Vd (Part-CAO), at the earliest opportunity and in any case within 7 calendar days from the issuance of a CRS by the person authorised by the owner;
+
+3\. notify the organisation responsible for the continuing airworthiness management of the aircraft, when contracted, or the competent authority in the absence of such a contract, within 7 days from the issuance of such authorisation.
+
+(d) In case of a release to service in accordance with point (b)(1), the certifying staff may be assisted in performing the maintenance tasks by one or more persons subject to his or her direct and continuous control.
+
+(e) A CRS shall contain at least:
+
+1\. basic details of the maintenance carried out;
+
+2\. the date on which the maintenance was completed;
+
+3\. the identity of the organisation or person issuing the CRS, including, alternatively:
+
+(i) the approval reference of the maintenance organisation and the certifying staff issuing the CRS;
+
+(ii) in the case referred to in point (b)(2), the identity and, where applicable, the licence number of the certifying staff issuing the CRS;
+
+4\. the limitations to airworthiness or operations, if any.
+
+(f) By derogation from point (b) and notwithstanding point (g), when the required maintenance cannot be completed, a CRS may be issued with the approved aircraft limitations. In that case, the certificate shall indicate that the maintenance could not be completed, as well as indicate any applicable airworthiness or operations limitations, as part of the information required by point (e)(4).
+
+(g) A CRS shall not be issued in the case of any known non-compliance which endangers flight safety.
+
+M.A.802 Component certificate to release to service
+
+(a) Except for components released to service by a maintenance organisation that is approved in accordance with Annex II (Part-145) and for the cases covered by point (e) of point M.A.502, a CRS shall be issued at the completion of any maintenance work carried out on an aircraft component in accordance with point M.A.502.
+
+(b) The authorised release certificate identified as EASA Form 1 constitutes the component CRS, except when such maintenance on aircraft components has been performed in accordance with point (b) or (d) of point M.A.502 in which case the maintenance is subject to aircraft release procedures in accordance with point M.A.801.
+
+M.A.803 Pilot-owner authorisation
+
+(a) To qualify as a Pilot-owner, the person must:
+
+1\. hold a valid pilot licence (or equivalent) issued or validated by a Member State for the aircraft type or class rating; and
+
+2\. own the aircraft, either as sole or joint owner; that owner must be:
+
+(i) one of the natural persons on the registration form; or
+
+(ii) a member of a non-profit recreational legal entity, where the legal entity is specified on the registration document as owner or operator, and that member is directly involved in the decision making process of the legal entity and designated by that legal entity to carry out Pilot-owner maintenance.
+
+(b) For any other than complex motor-powered aircraft of 2 730 kg MTOM and below, which are not used in CAT operations, in commercial specialised operations or in commercial operations by ATOs or DTOs, the pilot-owner may issue a CRS after having carried out limited pilot-owner maintenance as specified in Appendix VIII to this Annex.
+
+(c) The scope of the limited Pilot-owner maintenance shall be specified in the aircraft maintenance programme referred to in point M.A.302.
+
+(d) The CRS shall be entered in the aircraft continuing airworthiness record system and contain basic details of the maintenance carried out, the maintenance data used, the date on which that maintenance was completed, as well as the identity, the signature and pilot licence number of the pilot-owner issuing such a certificate.
+
+**SUBPART I**
+
+**AIRWORTHINESS REVIEW CERTIFICATE**
+
+M.A.901 Airworthiness review — General
+
+(a) To ensure the validity of the airworthiness certificate, an aircraft shall periodically undergo an airworthiness review in accordance with point M.A.903.
+
+(b) The satisfactory completion of an airworthiness review shall result in:
+
+(1) an airworthiness review certificate (ARC) issued in accordance with Appendix III (EASA Form 15b), if the following conditions are met:
+
+(i) the continuing airworthiness of the aircraft has been continuously managed in accordance with point M.A.201 of this Annex or point ML.A.201 of Annex Vb, as applicable, since the issue of the former ARC;
+
+(ii) the aircraft has been maintained in accordance with this Regulation, since the issue of the former ARC;
+
+(iii) the airworthiness certificate has been issued in accordance with Regulation (EU) No 748/2012 and is not revoked or surrendered at the time of the review;
+
+(2) a recommendation for the issuance of an ARC to the competent authority, if the conditions in point (1) are not met.
+
+(c) An organisation approved to carry out airworthiness reviews in accordance with point CAMO.A.125(e) of Annex Vc (Part-CAMO) or point CAO.A.095(c)(1) of Annex Vd (Part-CAO) may carry out an airworthiness review of an aircraft included in its scope of work.
+
+(d) When the airworthiness review is carried out by the organisation specified in point (c), the ARC or the recommendation shall be signed by the airworthiness review staff who carried out the airworthiness review.
+
+(e) The person or organisation responsible for the continuing airworthiness of the aircraft in accordance with point M.A.201 shall, upon request and where necessary for those purposes, ensure that the organisation or the competent authority carrying out the airworthiness review or the assessment of an ARC recommendation:
+
+(1) has the required aircraft documentation and records;
+
+(2) has suitable accommodation at the appropriate location for its personnel;
+
+(3) has access to the aircraft;
+
+(4) has the assistance of appropriate certifying staff.
+
+(f) By derogation from point M.A.902(a), the airworthiness review may be carried out 90 days or less before the expiry date of the ARC, without loss of continuity of the airworthiness review pattern.
+
+(g) The airworthiness review shall not be subcontracted.
+
+(h) An ARC shall not be issued if there is evidence or there are indications that the aircraft is not airworthy.
+
+(i) A copy of any ARC issued or extended for an aircraft shall be sent to the competent authority of the Member State of registry of the aircraft concerned within 10 days of the issuance or extension.
+
+(j) Without prejudice to point (b) of point M.B.901, for aircraft of 2 730 kg MTOM and below the competent authority may carry out the airworthiness review and issue an ARC itself, if requested by the owner.
+
+(k) Upon surrender or revocation, the ARC shall be returned to the competent authority of the Member State of registry, when so requested by the respective authority.
+
+M.A.902 Validity of the airworthiness review certificate
+
+(a) An ARC shall be valid for 1 year and its validity may be extended for another year for a maximum of two consecutive extensions. The extension of the validity of the ARC shall begin on:
+
+(1) the previous expiry date, if:
+
+(i) the extension is carried out within 30 days before the expiry date of the ARC;
+
+(ii) the extension is carried out after the expiry date of the ARC;
+
+(2) the date on which the extension is carried out, if it is carried out more than 30 days before the expiry date of the ARC.
+
+(b) The ARC shall only be extended by the organisation managing the continuing airworthiness of the aircraft, subject to the following conditions:
+
+(1) the continuing airworthiness of the aircraft has been continuously managed by that organisation since the issue of the ARC;
+
+(2) the aircraft has been maintained since the issue of the ARC by a maintenance organisation approved in accordance with Annex II (Part-145) or Annex Vd (Part-CAO), as applicable;
+
+(3) the organisation managing the continuing airworthiness of the aircraft has no evidence or reason to believe that the aircraft is not airworthy.
+
+The maintenance referred to in the first paragraph, point (2), may include pilot-owner maintenance tasks carried out and released to service either by the pilot-owner or by independent certifying staff.
+
+(c) An ARC shall become invalid if:
+
+(1) it is expired, suspended, surrendered or revoked;
+
+(2) the airworthiness certificate is suspended, surrendered or revoked.
+
+(d) An aircraft shall not fly if the ARC is invalid or if the continuing airworthiness of the aircraft or any component installed on the aircraft does not meet the applicable requirements of this Annex.
+
+M.A.903 Airworthiness review process
+
+(a) An airworthiness review is a process that comprises all the tasks and activities for evaluating the airworthiness status of an aircraft based on a documented review of the related aircraft continuing airworthiness records and a physical survey.
+
+(b) Through the documented review of the aircraft, the airworthiness review staff shall be satisfied that:
+
+(1) the total in-service life accumulated in the applicable parameter of the aircraft, engine(s), propeller(s), life-limited parts and time-controlled components has been properly recorded;
+
+(2) the flight manual is applicable to the aircraft configuration and is kept up to date;
+
+(3) the maintenance due on the aircraft according to the AMP, as specified in point M.A.302, has been carried out;
+
+(4) known defects have been rectified or, when applicable, deferred in accordance with point M.A.403;
+
+(5) the applicable airworthiness directives and the measures mandated by the competent authority have been complied with and properly entered into the aircraft continuing airworthiness record system;
+
+(6) the modifications and repairs applied to the aircraft have been entered into the aircraft continuing airworthiness record system and comply with point M.A.304;
+
+(7) the life-limited parts and time-controlled components installed on the aircraft are properly identified, entered into the aircraft continuing airworthiness record system and have not exceeded their limitation;
+
+(8) if applicable, the current mass and balance statement reflects the current configuration of the aircraft and is valid;
+
+(9) the aircraft complies with the applicable type design;
+
+(10) if issued, the aircraft holds a valid airworthiness certificate in compliance with Section A, Subpart H, of Annex I (Part 21) or, as applicable, Section A, Subpart H, of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(11) if issued, the aircraft holds a valid noise certificate corresponding to the current configuration of the aircraft in compliance with Section A, Subpart I, of Annex I (Part 21) or, as applicable, Section A, Subpart I, of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(12) maintenance has been released in accordance with any of the following:
+
+(i) the applicable requirements of this Regulation, for the period during which the aircraft is within the scope of this Regulation;
+
+(ii) the appropriate airworthiness requirements of the State which was responsible for the oversight of the aircraft for the period during which the aircraft was not within the scope of this Regulation.
+
+If there is evidence or reason to believe that maintenance in the period referred to in the first paragraph, point (ii), has been inadequate, the airworthiness review staff shall ensure that appropriate actions are taken.
+
+(c) Through the physical survey of the aircraft, the airworthiness review staff shall be satisfied that:
+
+(1) the required markings and placards are properly installed and meet the requirements set out in point 21.A.175 of Annex I (Part 21) or, as applicable, point 21L.A.144(a) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(2) the aircraft complies with its approved flight manual;
+
+(3) the aircraft configuration complies with the documentation;
+
+(4) no evident defect can be found that has not been addressed in accordance with point M.A.403;
+
+(5) no inconsistencies can be found between the aircraft and the documented review of records as referred to in point (b).
+
+(d) For the physical survey, airworthiness review staff not qualified as certifying staff on the specific aircraft subject to the airworthiness review shall be assisted by such qualified personnel.
+
+(e) The airworthiness review shall be planned and carried out in such a manner that the time elapsed between the review of the aircraft continuing airworthiness records and their corresponding verification during physical survey shall be as short as possible.
+
+(f) If for any reason an airworthiness review cannot be completed, the organisation carrying out the airworthiness review shall inform the competent authority of the Member State of registry as soon as possible.
+
+(g) The ARC and the recommendation shall not be issued until all actions to eliminate the detected non-compliance have been implemented.
+
+(h) The details and the outcome of an airworthiness review shall be recorded in an airworthiness review report.
+
+M.A.904 Airworthiness review staff
+
+(a) Airworthiness review staff acting on behalf of the competent authority shall be qualified in accordance with point M.B.901(c).
+
+(b) Airworthiness review staff acting on behalf of an organisation referred to in Annex Vc (Part-CAMO) or Annex Vd (Part CAO) shall be qualified in accordance with Annex Vc (Part-CAMO) or Annex Vd (Part-CAO) respectively.
+
+M.A.905 Transfer of aircraft registration within the Union
+
+(a) When transferring within the Union an aircraft registration of an aircraft that has, at the time of application, an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012, the applicant shall:
+
+(1) first, notify the competent authority of the Member State of registry where the aircraft is registered of the name of the Member State in which the aircraft will be registered;
+
+(2) subsequently, apply to the competent authority of the new Member State of registry for the issuance of a new airworthiness certificate in accordance with point 21.A.174(b)(3)(i) of Annex I (Part 21) or, as applicable, point 21L.A.143(e) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+(b) At the time of the application to the new Member State of registry:
+
+(1) if the ARC is valid, it shall:
+
+(i) remain valid until its expiry date, unless the conditions set out in point M.A.902(c) are met;
+
+(ii) be amended with the new nationality and registration marks by the competent authority of the new Member State of registry;
+
+(2) if the ARC is either invalid or becomes invalid during the transfer process, the applicant shall take one of the following steps:
+
+(i) ensure that the validity of the ARC is restored;
+
+(ii) ensure obtaining a new ARC in accordance with point M.A.901.
+
+M.A.906 Airworthiness review of aircraft without an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012
+
+(a) When applying for an airworthiness certificate for aircraft not having an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012 at the time of the application, the applicant shall:
+
+(1) apply to the competent authority of the Member State of registry for the issuance of a new airworthiness certificate in accordance with Annex I (Part 21) or, as applicable, Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(2) for aircraft other than new, have an airworthiness review carried out and completed satisfactorily in accordance with point M.A.903;
+
+(3) have all maintenance carried out to comply with the AMP approved in accordance with point M.A.302;
+
+(4) if the former airworthiness certificate was issued in accordance with Regulation (EU) No 748/2012, but it was revoked or surrendered, notify the competent authority that issued the former airworthiness certificate, if different, of the name of the Member State in which the aircraft will be registered.
+
+(b) A recommendation for the issuance of an ARC shall be sent by the applicant to the competent authority of the Member State of registry, as specified in point 21.A.174(b)(3)(ii) of Annex I (Part 21) or, as applicable, point 21L.A.143(f) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, unless the airworthiness review is carried out by the competent authority in accordance with point M.A.901(j) of this Annex.
+
+(c) In the case that an evaluation programme is required in accordance with point 21.A.174(b)(3)(ii)(G)(b) or point 21.A.174(d) of Annex I (Part 21) or, as applicable, point 21L.A.143(f)(6)(b) or 21L.A.143(h) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, the evaluation report referred to in point 21.A.174(d)(4) of Annex I (Part 21) or point 21L.A.143(h)(4) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 shall be taken into consideration by the organisation or competent authority carrying out the airworthiness review. The evaluation report shall be submitted together with the recommendation referred to in point (b) of this point, unless the airworthiness review is carried out by the competent authority in accordance with point M.A.901(j) of this Annex.
+
+M.A.907 Findings
+
+Following receipt of the notification of findings from the competent authority in accordance with point M.B.907, the person or organisation responsible for the continuing airworthiness of the aircraft pursuant to point M.A.201 shall establish a corrective action plan including corrections and corrective actions and, within the agreed period, demonstrate the implementation of the correction to the competent authority.
+
+**SECTION B**
+
+**PROCEDURE FOR COMPETENT AUTHORITIES**
+
+**SUBPART A**
+
+**GENERAL**
+
+M.B.101 Scope
+
+This Section establishes the administrative requirements to be followed by the competent authorities in charge of the application and the enforcement of Section A of this Part.
+
+M.B.102 Competent authority
+
+(a) General
+
+A Member State shall designate a competent authority with allocated responsibilities for the issuance, continuation, change, suspension or revocation of certificates and for the oversight of continuing airworthiness. This competent authority shall establish documented procedures and an organisational structure.
+
+(b) Resources
+
+The number of staff shall be appropriate to carry out the requirements as detailed in this Section.
+
+(c) Qualification and training
+
+All staff involved in activities dealt with in this Annex shall be appropriately qualified and have appropriate knowledge, experience, initial training and continuation training to perform their allocated tasks.
+
+(d) Procedures
+
+The competent authority shall establish procedures detailing how compliance with this Annex (Part-M) is accomplished.
+
+The procedures shall be reviewed and amended to ensure continued compliance.
+
+M.B.103 Findings and enforcement measures — persons
+
+If, during oversight or by any other means, evidence is found by the competent authority responsible for oversight in accordance with this Annex that shows a non-compliance with the applicable requirements of Regulation (EU) 2018/1139 by a person holding a licence, certificate, rating or attestation issued in accordance with Regulation (EU) 2018/1139, the competent authority that identified the non-compliance shall take any enforcement measures necessary to prevent the continuation of that non-compliance.
+
+M.B.104 Record-keeping
+
+(a) The competent authorities shall establish a system of record-keeping that allows adequate traceability of the process to issue, continue, change, suspend or revoke each certificate.
+
+(b) The records for the oversight of organisations approved in accordance with this Annex shall include as a minimum:
+
+1\. the application for an organisation approval;
+
+2\. the organisation approval certificate including any changes;
+
+3\. a copy of the audit programme listing the dates when audits are due and when audits were carried out;
+
+4\. the competent authority continued oversight records including all audit records;
+
+5\. copies of all relevant correspondence;
+
+6\. details of any exemption and enforcement actions;
+
+7\. any report from other competent authorities relating to the oversight of the organisation;
+
+8\. organisation exposition or manual and amendments;
+
+9\. copy of any other document directly approved by the competent authority.
+
+(c) The retention period for the point (b) records shall be at least 5 years.
+
+(d) The minimum records for the oversight of each aircraft shall include, at least, a copy of:
+
+1\. the aircraft certificate of airworthiness;
+
+2\. airworthiness review certificates;
+
+3\. airworthiness review recommendations issued by CAO or CAMO;
+
+4\. the reports from the airworthiness reviews carried out directly by the competent authority;
+
+5\. all relevant correspondence relating to the aircraft;
+
+6\. the details of any exemption and enforcement action(s);
+
+7\. any document approved by the competent authority pursuant to this Annex or Annex II to Regulation (EU) No 965/2012 (Part-ARO).
+
+(e) The records specified in point (d) shall be retained until 2 years after the aircraft has been permanently withdrawn from service.
+
+(f) All records shall be made available upon request by another Member State or the Agency.
+
+(g) The competent authority shall maintain records of all airworthiness review staff and authorised personnel assessing recommendations, if applicable, for 3 years after that staff have left the competent authority. Those records shall include details of any appropriate qualification held together with a summary of relevant continuing airworthiness management experience and training.
+
+M.B.105 Mutual exchange of information
+
+(a) In order to contribute to the improvement of air safety, the competent authorities shall participate in a mutual exchange of all necessary information in accordance with Article 72 of Regulation (EU) 2018/1139.
+
+(b) Without prejudice to the competencies of the Member States, in the case of a potential safety threat involving several Member States, the concerned competent authorities shall assist each other in carrying out the necessary oversight action.
+
+**SUBPART B**
+
+**ACCOUNTABILITY**
+
+M.B.201 Responsibilities
+
+The competent authorities as specified in point M.1 are responsible for conducting audits, inspections and investigations in order to verify that the requirements of this Annex are complied with.
+
+M.B.202 Information to the Agency
+
+(a) The competent authority of the Member State shall notify the Agency in case of any significant problems with the implementation of Regulation (EU) 2018/1139 and its delegated and implementing acts within 30 days from the time the authority became aware of the problems.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the competent authority shall provide the Agency as soon as possible with any safety-significant information stemming from the occurrence reports stored in the national database pursuant to Article 6(6) of Regulation (EU) No 376/2014.
+
+**SUBPART C**
+
+**CONTINUING AIRWORTHINESS**
+
+M.B.301 Aircraft maintenance programme
+
+(a) The competent authority shall verify that the AMP is in compliance with point M.A.302.
+
+(b) Unless stated otherwise in point (c) of point M.A.302, the AMP and its amendments shall be approved directly by the competent authority. The competent authority shall have access to all the data required by points (d), (e) and (f) of point M.A.302.
+
+(c) In the case of indirect approval as provided for in point M.A.302(c), the competent authority shall approve the AMP approval procedure of the CAO or CAMO through that organisation’s exposition referred to in point CAO.A.025 of Annex Vd, point M.A.704 of this Annex, or point CAMO.A.300 of Annex Vc, as applicable.
+
+M.B.302 Exemptions
+
+All exemptions granted in accordance with Article 71 of Regulation (EU) 2018/1139 shall be recorded and retained by the competent authority.
+
+M.B.303 Aircraft continuing airworthiness monitoring
+
+(a) The competent authority shall develop a survey programme on a risk-based approach to monitor the airworthiness status of the fleet of aircraft on its register.
+
+(b) The survey programme shall include sample product surveys of aircraft and shall cover all aspects of airworthiness key risk elements.
+
+(c) The product survey shall sample the airworthiness standards achieved, on the basis of the applicable requirements, and identify any findings.
+
+(d) Any findings identified shall be categorised against the requirements of this Part and confirmed in writing to the person or organisation accountable according to M.A.201. The competent authority shall have a process in place to analyse findings for their safety significance.
+
+(e) The competent authority shall record all findings and closure actions.
+
+(f) If during aircraft surveys evidence is found showing non-compliance with this Part or with any other Part, the finding shall be dealt with as prescribed by the relevant Part.
+
+(g) If so required to ensure appropriate enforcement action, the competent authority shall exchange information on non-compliances identified in accordance with point (f) with other competent authorities.
+
+M.B.304 Revocation and suspension
+
+The competent authority shall:
+
+(a) suspend an ARC on reasonable grounds in the case of a potential safety threat; or
+
+(b) suspend or revoke an ARC pursuant to point M.B.907(c), second paragraph.
+
+M.B.305 Aircraft technical log system
+
+(a) The competent authority shall approve the initial aircraft technical log system required by point M.A.306.
+
+(b) To enable the organisation to implement changes to the aircraft technical log system without prior competent authority approval, the competent authority shall approve the relevant procedure referred to in point CAMO.A.300(c) of Annex Vc, or point M.A.704(c) of this Annex or point CAO.A.025(c) of Annex Vd.
+
+**SUBPART D**
+
+**MAINTENANCE STANDARDS**
+
+(to be developed as appropriate)
+
+**SUBPART E**
+
+**COMPONENTS**
+
+(to be developed as appropriate)
+
+**SUBPART F**
+
+**MAINTENANCE ORGANISATION**
+
+M.B.601 Application
+
+Where maintenance facilities are located in more than one Member State the investigation and continued oversight of the approval shall be carried out in conjunction with the competent authorities designated by the Member States in whose territory the other maintenance facilities are located.
+
+M.B.602 Initial Approval
+
+(a) Provided the requirements of points M.A.606(a) and (b) are complied with, the competent authority shall formally indicate its acceptance of the M.A.606(a) and (b) personnel to the applicant in writing.
+
+(b) The competent authority shall establish that the procedures specified in the maintenance organisation manual comply with Subpart F of this Annex, and shall ensure that the accountable manager signs the commitment statement.
+
+(c) The competent authority shall verify that the organisation is in compliance with the requirements laid down in Subpart F of this Annex.
+
+(d) A meeting with the accountable manager shall be convened at least once during the investigation for approval to ensure that he/she fully understands the significance of the approval and the reason for signing the commitment of the organisation to compliance with the procedures specified in the manual.
+
+(e) All findings shall be confirmed in writing to the applicant organisation.
+
+(f) The competent authority shall record all findings, closure actions (actions required to close a finding) and recommendations.
+
+(g) For initial approval all findings shall be corrected by the organisation and closed by the competent authority before the approval can be issued.
+
+M.B.603 Issue of approval
+
+(a) The competent authority shall issue to the applicant an EASA Form 3 approval certificate (Appendix V to this Annex), which includes the extent of the approval, when the maintenance organisation is in compliance with the applicable points of this Annex.
+
+(b) The competent authority shall indicate the conditions attached to the approval on the EASA Form 3 approval certificate.
+
+(c) The reference number shall be included on the EASA Form 3 approval certificate in a manner specified by the Agency.
+
+M.B.604 Continuing oversight
+
+(a) The competent authority shall keep and update a programme listing, for each maintenance organisation approved in accordance with Subpart F of Section B of this Annex under its supervision, the dates when audit visits are due and when such visits were carried out.
+
+(b) Each organisation shall be completely audited at periods not exceeding 24 months.
+
+(c) All findings shall be confirmed in writing to the applicant organisation.
+
+(d) The competent authority shall record all findings, closure actions (actions required to close a finding) and recommendations.
+
+(e) A meeting with the accountable manager shall be convened at least once every 24 months to ensure he/she remains informed of significant issues arising during audits.
+
+M.B.605 Findings
+
+(a) When during audits or by other means evidence is found showing non-compliance with a requirement laid down in this Annex or Annex Vb (Part-ML), the competent authority shall take the following actions:
+
+1\. For level 1 findings, immediate action shall be taken by the competent authority to revoke, limit or suspend in whole or in part, depending upon the extent of the level 1 finding, the maintenance organisation approval, until successful corrective action has been taken by the organisation.
+
+2\. For level 2 findings, the competent authority shall grant a corrective action period appropriate to the nature of the finding that shall not be more than three months. In certain circumstances, at the end of this first period and subject to the nature of the finding, the competent authority can extend the three month period subject to a satisfactory corrective action plan.
+
+(b) Action shall be taken by the competent authority to suspend in whole or part the approval in case of failure to comply within the timescale granted by the competent authority.
+
+M.B.606 Changes
+
+(a) The competent authority shall comply with the applicable elements of the initial approval for any change to the organisation notified in accordance with point M.A.617.
+
+(b) The competent authority may prescribe the conditions under which the approved maintenance organisation may operate during such changes, unless it determines that the approval should be suspended due to the nature or the extent of the changes.
+
+(c) For any change to the maintenance organisation manual:
+
+1\. in the case of direct approval of changes in accordance with point (b) of point M.A.604, the competent authority shall verify that the procedures specified in the manual are in compliance with this Annex before formally notifying the approved organisation of the approval;
+
+2\. in the case of an indirect approval of changes in accordance with point (c) of point M.A.604, the competent authority shall ensure that:
+
+(i) the changes remain minor;
+
+(ii) it has adequate control over the approval of the changes to ensure they remain in compliance with the requirements of this Annex.
+
+M.B.607 Revocation, suspension and limitation of an approval
+
+The competent authority shall:
+
+(a) suspend an approval on reasonable grounds in the case of potential safety threat, or;
+
+(b) suspend, revoke or limit an approval pursuant to point M.B.605.
+
+**SUBPART G**
+
+**CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATION**
+
+M.B.701 Application
+
+(a) For licenced air carriers in accordance with Regulation (EC) No 1008/2008 the competent authority shall receive for approval with the initial application for the air operator's certificate and where applicable any variation applied for and for each aircraft type to be operated:
+
+1\. the continuing airworthiness management exposition;
+
+2\. the operator's aircraft maintenance programmes;
+
+3\. the aircraft technical log;
+
+4\. where appropriate the technical specification of the maintenance contracts between the CAMO and Part-145 approved maintenance organisation.
+
+(b) Where facilities are located in more than one Member State the investigation and continued oversight of the approval shall be carried out in conjunction with the competent authorities designated by the Member States in whose territory the other facilities are located.
+
+M.B.702 Initial approval
+
+(a) Provided the requirements of points M.A.706(a), (c), (d) and M.A.707 are complied with, the competent authority shall formally indicate its acceptance of the M.A.706(a), (c), (d) and M.A.707 personnel to the applicant in writing.
+
+(b) The competent authority shall establish that the procedures specified in the continuing airworthiness management exposition comply with Section A, Subpart G of this Annex (Part-M) and ensure the accountable manager signs the commitment statement.
+
+(c) The competent authority shall verify the organisation's compliance with requirements laid down in Section A, Subpart G of this Annex (Part-M).
+
+(d) A meeting with the accountable manager shall be convened at least once during the investigation for approval to ensure that he/she fully understands the significance of the approval and the reason for signing the exposition commitment of the organisation to compliance with the procedures specified in the continuing airworthiness management exposition.
+
+(e) All findings shall be confirmed in writing to the applicant organisation.
+
+(f) The competent authority shall record all findings, closure actions (actions required to close a finding) and recommendations.
+
+(g) For initial approval all findings shall be corrected by the organisation and closed by the competent authority before the approval can be issued.
+
+M.B.703 Issue of approval
+
+(a) The competent authority shall issue to the applicant an EASA Form 14-MG approval certificate (Appendix VI to this Annex) which includes the extent of approval, when the continuing airworthiness management organisation is in compliance with Section A, Subpart G of this Annex (Part-M).
+
+(b) The competent authority shall indicate the validity of the approval on the EASA Form 14 MG approval certificate.
+
+(c) The reference number shall be included on the Form 14 MG approval certificate in a manner specified by the Agency.
+
+(d) In the case of licenced air carriers in accordance with Regulation (EC) No 1008/2008, the information contained on an EASA Form 14 MG will be included on the air operator's certificate.
+
+M.B.704 Continuing oversight
+
+(a) The competent authority shall keep and update a program listing, for each continuing airworthiness organisation approved under Section A, Subpart G of this Annex (Part-M) under its supervision, the dates when audit visits are due and when such visits were carried out.
+
+(b) Each organisation shall be completely audited at periods not exceeding 24 months.
+
+(c) A relevant sample of the aircraft managed by the organisation approved under Section B, Subpart G of this Annex (Part-M) shall be surveyed in every 24 month period. The size of the sample will be decided by the competent authority based on the result of prior audits and earlier product surveys.
+
+(d) All findings shall be confirmed in writing to the applicant organisation.
+
+(e) The competent authority shall record all findings, closure actions (actions required to close a finding) and recommendations.
+
+(f) A meeting with the accountable manager shall be convened at least once every 24 months to ensure he/she remains informed of significant issues arising during audits.
+
+M.B.705 Findings
+
+(a) When during audits or by other means, evidence is found showing non-compliance to a requirement laid down in this Annex (Part-M) or Annex Vb (Part-ML), as applicable, the competent authority shall take the following actions:
+
+1\. For level 1 findings, immediate action shall be taken by the competent authority to revoke, limit or suspend in whole or in part, depending upon the extent of the level 1 finding, the continuing airworthiness management organisation approval, until successful corrective action has been taken by the organisation.
+
+2\. For level 2 findings, the competent authority shall grant a corrective action period appropriate to the nature of the finding that shall not be more than three months. In certain circumstances, at the end of this first period, and subject to the nature of the finding the competent authority can extend the three month period subject to a satisfactory corrective action plan.
+
+(b) Action shall be taken by the competent authority to suspend in whole or part the approval in case of failure to comply within the timescale granted by the competent authority.
+
+M.B.706 Changes
+
+(a) The competent authority shall comply with the applicable elements of the initial approval for any change to the organisation notified in accordance with point M.A.713.
+
+(b) The competent authority may prescribe the conditions under which the approved continuing airworthiness management organisation may operate during such changes unless it determines that the approval should be suspended due to the nature or the extent of the changes.
+
+(c) For any change to the continuing airworthiness management exposition:
+
+1\. In the case of direct approval of changes in accordance with point M.A.704(b) of this Annex (Part-M), the competent authority shall verify that the procedures specified in the exposition are in compliance with this Annex (Part-M) or Annex Vb (Part-ML), as applicable, before formally notifying the approved organisation of the approval.
+
+2\. In the case an indirect approval procedure is used for the approval of the changes in accordance with point M.A.704(c) of this Annex (Part-M), the competent authority shall ensure all of the following:
+
+(i) that the changes remain minor;
+
+(ii) that it has an adequate control over the approval of the changes to ensure they remain in compliance with the requirements of this Annex (Part-M) or Annex Vb (Part-ML), as applicable.
+
+M.B.707 Revocation, suspension and limitation of an approval
+
+The competent authority shall:
+
+(a) suspend an approval on reasonable grounds in the case of potential safety threat, or;
+
+(b) suspend, revoke or limit an approval pursuant to point M.B.705.
+
+**SUBPART H**
+
+**CERTIFICATE OF RELEASE TO SERVICE — CRS**
+
+(to be developed as appropriate)
+
+**SUBPART I**
+
+**AIRWORTHINESS REVIEW CERTIFICATE**
+
+M.B.901 Airworthiness review certificate issued by the competent authority
+
+(a) The competent authority shall issue an ARC using the template in Appendix III (EASA Form 15a) in one of the following cases:
+
+(1) after a satisfactory completion of the airworthiness review by that competent authority in accordance with point M.A.903;
+
+(2) after the satisfactory assessment of a recommendation in accordance with point M.B.902;
+
+(3) in the case of a new aircraft.
+
+(b) The competent authority shall carry out the airworthiness review in accordance with point M.A.903 whenever circumstances reveal the existence of a potential safety threat.
+
+(c) The competent authority shall have appropriate airworthiness review staff to carry out the airworthiness reviews.
+
+(1) For all aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, and for aircraft above 2 730 kg MTOM, such staff shall have:
+
+(i) acquired at least 5 years of experience in continuing airworthiness;
+
+(ii) acquired either an appropriate licence in compliance with Annex III (Part-66), or an aeronautical degree or national equivalent;
+
+(iii) received formal aeronautical maintenance training.
+
+The requirement laid down in the first paragraph, point (ii), may be replaced with 5 years of experience in continuing airworthiness additional to those already required by the first paragraph, point (i).
+
+(2) For aircraft not used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, and for aircraft of 2 730 kg MTOM and below, such staff shall have:
+
+(i) acquired at least 3 years of experience in continuing airworthiness;
+
+(ii) acquired either an appropriate licence in compliance with Annex III (Part-66), or an aeronautical degree or national equivalent;
+
+(iii) received appropriate aeronautical maintenance training.
+
+The requirement laid down in the first paragraph, point (ii), may be replaced by 4 years of experience in continuing airworthiness additional to those already required by the first paragraph, point (i).
+
+M.B.902 Assessment of recommendations
+
+(a) Upon receiving an application and the associated recommendation for the issuance of an ARC, the competent authority shall conduct an assessment. That assessment shall be a two-step process, as set out in points (b) and (c).
+
+(b) The competent authority shall first verify that the recommendation contains all relevant information and that it is correct and accurate. The verification shall ensure that an airworthiness review in accordance with point M.A.903 has been conducted, and that the airworthiness review was carried out with a sufficient level of verification.
+
+(c) Following the verification referred to in point (b), the competent authority shall perform sufficient investigation activities, which may include requesting further information from the applicant to support the assessment of the recommendation or conducting a physical survey of the aircraft.
+
+(d) The competent authority shall ensure that the personnel authorised to assess recommendations are qualified to perform the tasks referred to in point (b) or point (c) or in both those points.
+
+(e) The competent authority shall notify the applicant of the findings raised during the assessment of the recommendation.
+
+(f) The competent authority shall not issue the ARC if the findings notified in accordance with point (e) are not corrected within a reasonable period as determined by the competent authority, or if there are serious discrepancies between the information provided in the recommendation and the assessment conducted by the competent authority. In such cases, the competent authority shall inform, if different, the competent authority of the organisation that carried out the airworthiness review.
+
+M.B.905 Transfer of aircraft registration within the Union
+
+(a) Upon receipt of a notification of aircraft transfer between the Member States in accordance with point M.A.905:
+
+(1) the competent authority of the Member State where the aircraft is currently registered shall inform the competent authority of the Member State where the aircraft will be registered of any known problems with the aircraft being transferred;
+
+(2) the competent authority of the Member State where the aircraft will be registered shall ensure that the competent authority of the Member State where the aircraft is currently registered has been properly notified about the transfer.
+
+(b) The competent authority of the new Member State of registry shall amend the existing ARC as specified in point M.A.905(b)(1)(ii) or issue a new ARC in accordance with point M.B.901(a)(1) or point M.B.901(a)(2).
+
+M.B.906 Airworthiness review of aircraft without an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012
+
+In the case of an application for an airworthiness certificate in accordance with point M.A.906(a), if the former airworthiness certificate was issued in accordance with Regulation (EU) No 748/2012, but it was revoked or surrendered:
+
+(a) upon receipt of a notification in accordance with point M.A.906(a)(4), the competent authority of the Member State that issued the former airworthiness certificate shall inform, if different, the competent authority of the Member State where the aircraft will be registered of any known problems with the aircraft;
+
+(b) the competent authority of the Member State where the aircraft will be registered shall ensure, if different, that the competent authority of the Member State that issued the former airworthiness certificate has been properly notified.
+
+M.B.907 Findings
+
+(a) A level 1 finding shall be issued by the competent authority when any significant non-compliance is detected with the applicable requirements of this Annex, which lowers safety or seriously endangers flight safety.
+
+(b) A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of this Annex, which is not classified as a level 1 finding.
+
+(c) If during aircraft surveys or by other means evidence is found showing non-compliance with requirements of this Annex, the competent authority shall require appropriate correction of the non-compliance to be implemented:
+
+(1) for level 1 findings, before further flight;
+
+(2) for level 2 findings, within a time period accepted or extended by the competent authority.
+
+The ARC shall be revoked or suspended if the correction in accordance with the first paragraph, point (1), is not implemented immediately.
+
+(d) If the appropriate correction of the non-compliance required under point (c)(2) is not implemented within the time period accepted or extended by the competent authority, the competent authority shall consider raising the level 2 finding to a level 1 finding and if the correction is not implemented immediately, shall revoke or suspend the ARC.
+
+(e) When a level 1 finding is raised, the competent authority shall inform, if different and as applicable:
+
+(1) the competent authority of the organisation responsible for the aircraft continuing airworthiness pursuant to point M.A.201;
+
+(2) the competent authority of the organisation that issued the current ARC.
+
+## Appendix I
+
+**Continuing airworthiness management contract**
+
+1\. When an owner or operator contracts in accordance with point M.A.201 a CAMO or CAO to carry out continuing airworthiness management tasks, upon request by the competent authority, a copy of the contract signed by both parties shall be sent by the owner or operator to the competent authority of the Member State of registry.
+
+2\. The contract shall be developed taking into account the requirements of this Annex and shall define the obligations of the signatories in relation to the continuing airworthiness of the aircraft.
+
+3\. It shall contain as a minimum the following information:
+
+— aircraft registration, type and serial number;
+
+— aircraft owner's or registered lessee's name or company details including the address,
+
+— details of the contracted CAMO or CAO, including the address, and
+
+— the type of operation.
+
+4\. It shall state the following:
+
+The owner or operator entrusts the CAMO or CAO with the management of the continuing airworthiness of the aircraft, including but not limited to the development of an AMP that shall be approved by the competent authority as detailed in point M.1 and the organisation of the maintenance of the aircraft according to said AMP.
+
+According to the present contract, both signatories undertake to follow the respective obligations of this contract.
+
+The owner or operator declares to the best of their knowledge that all the information given to the CAMO or CAO concerning the continuing airworthiness of the aircraft is and will continue to be accurate, and that the aircraft will not be repaired or modified without prior agreement of the CAMO or CAO.
+
+In case of any non-conformity with this contract, by either of the signatories, the CAMO or CAO and the owner or operator shall assess if it impacts the continuation of the contract and shall inform the competent authority(ies) of such organisations. The assessment carried out by the organisations shall consider the safety significance of the non-conformity and if it is of repetitive nature. If either of the signatories concludes after this assessment that they cannot fulfil their responsibilities due to their own limitations or due to the failures of the signatory, the contract shall be cancelled and the competent authority(ies) of the organisations shall be informed immediately. In such a case, the owner or operator will retain full responsibility for every task linked to the continuing airworthiness of the aircraft, and the owner or operator will inform the competent authorities of the Member State of registry within 2 weeks about such non-conformity with the contract. In the case of contract concluded in accordance with M.A.201(ea), the competent authority of the Member State of registry shall be informed immediately.
+
+5\. When an owner or operator contracts a CAMO or a CAO in accordance with point M.A.201, the contract shall specify the obligations of each party as follows:
+
+5.1. Obligations of the CAMO or CAO:
+
+1\. have the aircraft type included in its terms of approval;
+
+2\. respect the conditions listed below with regard to maintaining the continuing airworthiness of the aircraft:
+
+(a) develop an AMP for the aircraft, including any reliability programme developed, if applicable;
+
+(b) declare the maintenance tasks (in the AMP) that may be carried out by the pilot-owner in accordance with point (c) of point M.A.803;
+
+(c) organise the approval of the AMP;
+
+(d) once it has been approved, provide the owner or operator with a copy of the AMP;
+
+(e) establish and order the necessary maintenance to ensure an appropriate bridging with the former aircraft maintenance programme;
+
+(f) organise for all maintenance to be carried out by an approved maintenance organisation;
+
+(g) organise for all applicable ADs to be applied;
+
+(h) organise for all defects discovered during scheduled maintenance, airworthiness reviews or reported by the owner to be rectified by an approved maintenance organisation;
+
+(i) coordinate the accomplishment of scheduled maintenance, including inspection of components, replacement of life-limited parts and the accomplishment of any applicable AD, and ensure compliance with operational requirements having a continuing airworthiness impact, continuing airworthiness requirements established by the Agency and measures required by the competent authority in immediate reaction to a safety problem;
+
+(j) inform the owner or operator each time the aircraft is to be brought to an approved maintenance organisation;
+
+(k) manage and archive the aircraft continuing airworthiness records;
+
+(l) coordinate with the operator or owner on any request to the relevant competent authority for any deviation from the aircraft maintenance programme;
+
+(m) support the operator or pilot-owner as regards the aircraft continuing airworthiness when they conduct maintenance check flights;
+
+3\. organise the approval of any modification to the aircraft in accordance with Annex I (Part 21) or, as applicable, with Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 before it is embodied.
+
+In the case of an aircraft subject to a declaration of design compliance, organise the declaration of compliance for any modification in accordance with Subpart F of Section A of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 before it is embodied;
+
+4\. organise the approval of any repair to the aircraft in accordance with Annex I (Part 21) or, as applicable, with Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 before it is carried out.
+
+In the case of an aircraft subject to a declaration of design compliance, organise the declaration of compliance for any repair in accordance with Subpart N of Section A of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 before it is carried out;
+
+5\. inform the competent authority of the Member State of registry whenever the aircraft is not presented to the approved maintenance organisation by the owner as requested by the approved organisation;
+
+6\. inform the competent authority of the Member State of registry whenever the present contract is not respected;
+
+7\. ensure that the airworthiness review of the aircraft is carried out when necessary, and ensure that the airworthiness review certificate is issued or a recommendation is sent to the competent authority of the Member State of registry;
+
+8\. send within 10 days a copy of any airworthiness review certificate issued or extended to the competent authority of the Member State of registry;
+
+9\. carry out all occurrence reporting mandated by applicable regulations;
+
+10\. inform the competent authority of the Member State of registry when the contract is denounced by either party.
+
+5.2. Obligations of the owner or operator:
+
+1\. have a general understanding of the approved AMP;
+
+2\. have a general understanding of this Annex;
+
+3\. present the aircraft to the approved maintenance organisation agreed with the CAMO or CAO at the due time designated at the CAMO's or CAO's request;
+
+4\. not modify the aircraft without first consulting the CAMO or CAO;
+
+5\. inform the CAMO or CAO of all maintenance exceptionally carried out without the knowledge and control of the CAMO or CAO;
+
+6\. report all defects found during operations to the CAMO or CAO through the logbook;
+
+7\. inform the competent authority of the Member State of registry whenever the present contract is denounced by either party;
+
+8\. inform the CAMO or CAO and competent authority of the Member State of registry whenever the aircraft is sold;
+
+9\. carry out all occurrence reporting mandated by applicable regulations;
+
+10\. inform on a regular basis the CAMO or CAO about the aircraft flying hours and any other utilisation data, as agreed with the CAMO or CAO;
+
+11\. enter the CRS in the logbooks as mentioned in point (d) of point M.A.803 when performing pilot-owner maintenance without exceeding the limits of the maintenance tasks list as declared in the approved AMP as laid down in point (c) of point M.A.803;
+
+12\. inform the CAMO or CAO not later than 30 days after completion of any pilot-owner maintenance task in accordance with point (a) of point M.A.305;
+
+13\. ensure compliance with the approved maintenance programme and coordinate with the CAMO or CAO on any request to the relevant competent authority for any one-time extension to a maintenance programme interval;
+
+14\. inform the CAMO or CAO of any non-compliance with operational requirements that may affect the continuing airworthiness of the aircraft;
+
+15\. inform the CAMO or CAO of any operational requirement (e.g. specific approvals) necessary to be fulfilled in order to maintain the aircraft in the required configuration.
+
+6\. When an owner or operator contracts a CAMO or CAO in accordance with point M.A.201, the obligations of each party in respect of mandatory and voluntary occurrence reporting in accordance with Regulation (EU) No 376/2014 of the European Parliament and of the Council ( 10 ) shall be clearly specified.
+
+7\. Additional requirements in the case of applying point M.A.201(ea).
+
+In addition to the above-listed requirements and obligations in points 5.1 and 5.2, when a contract between the CAMO and the operator is concluded in accordance with point M.A.201(ea), the continuing airworthiness management contract shall also comply with the requirements of points 7.1 to 7.3.
+
+Before the contract is signed, the operator shall assess the CAMO to ensure that the CAMO has the capability and capacity to comply with the contract.
+
+7.1. Eligibility
+
+The continuing airworthiness contract in accordance with M.A.201(ea) shall only be concluded if the air carrier concerned is licensed in accordance with Regulation (EC) No 1008/2008 and the CAMO forms part of the same air carrier business grouping. The continuing airworthiness management contract shall contain a clear description of how the conditions described in M.A.201(ea) are met. It shall in particular describe how the individual management systems of the organisations are harmonised between each other.
+
+7.2. Additional obligations of the CAMO:
+
+1\. become knowledgeable about the operator’s procedure related to the monitoring of the contract;
+
+2\. obtain the agreement from the operator before subcontracting continuing airworthiness tasks;
+
+3\. inform immediately the competent authority of the Member State of registry whenever the aircraft is not presented to the approved maintenance organisation by the operator as requested by the CAMO, when the present contract is not respected or when the contract is denounced by either party;
+
+4\. provide training for the operator’s staff to ensure that they have an understanding of the CAMO’s:
+
+(a) policies and procedures, responsibilities, obligations, duties and areas of interface;
+
+(b) lines of communication (for example aircraft records, exchange of accurate airworthiness information in a timely manner including outside of normal working hours);
+
+(c) procedures pertaining specifically to the CAMO such as customised software utilisation, reliability monitoring, use of the aircraft technical log system, and interoperability provisions.
+
+7.3. Additional obligations of the operator:
+
+1\. develop interface procedures with the CAMO to address the issue and renewal of the airworthiness review certificate;
+
+2\. in case of unexpected maintenance needs in locations where no maintenance organisation approved in accordance with Annex II (Part-145) to this Regulation is contracted, inform immediately the CAMO;
+
+3\. inform immediately the competent authority of the Member State of registry whenever the contract is denounced by either party;
+
+4\. provide training for the CAMO staff in order to ensure that they have an understanding of the operator’s:
+
+(a) policies and procedures, responsibilities, obligations, duties and areas of interface;
+
+(b) lines of communication;
+
+(c) procedures pertaining specifically to the operator such as operational procedures, customised software utilisation, use of the aircraft technical log system, and interoperability provisions.
+
+## Appendix II — Authorised Release Certificate EASA Form 1
+
+These instructions relate only to the use of the EASA Form 1 for maintenance purposes. Attention is drawn to Appendix I to Annex I (Part-21) of Regulation (EU) No 748/2012 which covers the use of the EASA Form 1 for production purposes.
+
+**1\. PURPOSE AND USE**
+
+1.1. The primary purpose of the Certificate is to declare the airworthiness of maintenance work undertaken on products, parts and appliances (hereafter referred to as ‘item(s)’).
+
+1.2. Correlation must be established between the Certificate and the item(s). The originator must retain a Certificate in a form that allows verification of the original data.
+
+1.3. The Certificate is acceptable to many airworthiness authorities, but may be dependent on the existence of bilateral agreements and/or the policy of the airworthiness authority. The ‘approved design data’ mentioned in this Certificate then means approved by the airworthiness authority of the importing country.
+
+1.4. The Certificate is not a delivery or shipping note.
+
+1.5. Aircraft are not to be released using the Certificate.
+
+1.6. The Certificate does not constitute approval to install the item on a particular aircraft, engine, or propeller but helps the end user determine its airworthiness approval status.
+
+1.7. A mixture of production released and maintenance released items is not permitted on the same Certificate.
+
+**2\. GENERAL FORMAT**
+
+2.1. The Certificate must comply with the format attached including block numbers and the location of each block. The size of each block may however be varied to suit the individual application, but not to the extent that would make the Certificate unrecognisable.
+
+2.2. The Certificate must be in ‘landscape’ format but the overall size may be significantly increased or decreased so long as the Certificate remains recognisable and legible. If in doubt consult the Competent Authority.
+
+2.3. The User/Installer responsibility statement can be placed on either side of the form.
+
+2.4. All printing must be clear and legible to permit easy reading.
+
+2.5. The Certificate may either be pre-printed or computer generated but in either case the printing of lines and characters must be clear and legible and in accordance with the defined format.
+
+2.6. The Certificate should be in English, and if appropriate, in one or more other languages.
+
+2.7. The details to be entered on the Certificate may be either machine/computer printed or hand-written using block letters and must permit easy reading.
+
+2.8. Limit the use of abbreviations to a minimum, to aid clarity.
+
+2.9. The space remaining on the reverse side of the Certificate may be used by the originator for any additional information but must not include any certification statement. Any use of the reverse side of the Certificate must be referenced in the appropriate block on the front side of the Certificate
+
+**3\. COPIES**
+
+3.1. There is no restriction in the number of copies of the Certificate sent to the customer or retained by the originator.
+
+**4\. ERROR(S) ON A CERTIFICATE**
+
+4.1. If an end-user finds an error(s) on a Certificate, he must identify it/them in writing to the originator. The originator may issue a new Certificate only if the error(s) can be verified and corrected.
+
+4.2. The new Certificate must have a new tracking number, signature and date.
+
+4.3. The request for a new Certificate may be honoured without re-verification of the item(s) condition. The new Certificate is not a statement of current condition and should refer to the previous Certificate in block 12 by the following statement; ‘This Certificate corrects the error(s) in block(s) [enter block(s) corrected] of the Certificate [enter original tracking number] dated [enter original issuance date] and does not cover conformity/condition/release to service’. Both Certificates should be retained according to the retention period associated with the first.
+
+**5\. COMPLETION OF THE CERTIFICATE BY THE ORIGINATOR**
+
+**Block 1 Approving Competent Authority/Country**
+
+State the name and country of the competent authority under whose jurisdiction this Certificate is issued. When the competent authority is the Agency, only ‘EASA’ must be stated.
+
+**Block 2 EASA Form 1 header**
+
+**‘AUTHORISED RELEASE CERTIFICATE**
+
+**EASA FORM 1’**
+
+**Block 3 Form Tracking Number**
+
+Enter the unique number established by the numbering system/procedure of the organisation identified in block 4; this may include alpha/numeric characters.
+
+**Block 4 Organisation Name and Address**
+
+Enter the full name and address of the approved organisation (refer to EASA form 3) releasing the work covered by this Certificate. Logos, etc., are permitted if the logo can be contained within the block.
+
+**Block 5 Work Order/Contract/Invoice**
+
+To facilitate customer traceability of the item(s), enter the work order number, contract number, invoice number, or similar reference number.
+
+**Block 6 Item**
+
+Enter line item numbers when there is more than one line item. This block permits easy cross-referencing to the Remarks block 12.
+
+**Block 7 Description**
+
+Enter the name or description of the item. Preference should be given to the term used in the instructions for continued airworthiness or maintenance data (e.g. Illustrated Parts Catalogue, Aircraft Maintenance Manual, Service Bulletin, Component Maintenance Manual).
+
+**Block 8 Part Number**
+
+Enter the part number as it appears on the item or tag/packaging. In case of an engine or propeller the type designation may be used.
+
+**Block 9 Quantity**
+
+State the quantity of items.
+
+**Block 10 Serial Number**
+
+If the item is required by regulations to be identified with a serial number, enter it here. Additionally, any other serial number not required by regulation may also be entered. If there is no serial number identified on the item, enter ‘N/A’.
+
+**Block 11 Status/Work**
+
+The following describes the permissible entries for block 11. Enter only one of these terms — where more than one may be applicable, use the one that most accurately describes the majority of the work performed and/or the status of the article.
+
+<table>
+<tbody><tr><td>(i)</td><td>Overhauled</td><td>.</td><td>Means a process that ensures the item is in complete conformity with all the applicable service tolerances specified in the type certificate holder's, or equipment manufacturer's instructions for continued airworthiness, or in the data which is approved or accepted by the Authority. The item will be at least disassembled, cleaned, inspected, repaired as necessary, reassembled and tested in accordance with the above specified data.</td></tr>
+<tr><td>(ii)</td><td>Repaired</td><td>.</td><td>Rectification of defect(s) using an applicable standard (1).</td></tr>
+<tr><td>(iii)</td><td>Inspected/Tested</td><td>.</td><td>Examination, measurement, etc. in accordance with an applicable standard (1) (e.g. visual inspection, functional testing, bench testing etc.).</td></tr>
+<tr><td>(iv)</td><td>Modified</td><td>.</td><td>Alteration of an item to conform to an applicable standard (1).</td></tr>
+<tr><td colspan="4">(1)  Applicable standard means a manufacturing/design/maintenance/quality standard, method, technique or practice approved by or acceptable to the Competent Authority. The applicable standard shall be described in block 12. </td></tr>
+</tbody>
+</table>
+
+**Block 12 Remarks**
+
+Describe the work identified in Block 11, either directly or by reference to supporting documentation, necessary for the user or installer to determine the airworthiness of item(s) in relation to the work being certified. If necessary, a separate sheet may be used and referenced from the main EASA Form 1. Each statement must clearly identify which item(s) in Block 6 it relates to.
+
+Examples of information to be entered in block 12 are:
+
+(i) Maintenance data used, including the revision status and reference.
+
+(ii) Compliance with airworthiness directives or service bulletins.
+
+(iii) Repairs carried out.
+
+(iv) Modifications carried out.
+
+(v) Replacement parts installed.
+
+(vi) Life limited parts status.
+
+(vii) Deviations from the customer work order.
+
+(viii) Release statements to satisfy a foreign Civil Aviation Authority maintenance requirement.
+
+(ix) Information needed to support shipment with shortages or re-assembly after delivery.
+
+(x) For maintenance organisations approved in accordance with Subpart F of Annex I (Part-M) or Annex Vd (Part-CAO), the component CRS statement referred to in point M.A.613 and CAO.A.070, as applicable:
+
+‘Certifies that, unless otherwise specified in this block, the work identified in block 11 and described in this block was accomplished in accordance with the requirements of Section A, Subpart F of Annex I (Part-M) or Annex Vd (Part-CAO) to Regulation (EU) No 1321/2014, and in respect to that work the item is considered ready for release to service. THIS IS NOT A RELEASE UNDER ANNEX II (PART-145) TO REGULATION (EU) No 1321/2014.’
+
+If printing the data from an electronic EASA Form 1, any appropriate data not fit for other blocks should be entered in this block.
+
+If printing the data from an electronic EASA Form 1, any appropriate data not fit for other blocks should be entered in this block.
+
+**Block 13a-13e**
+
+General Requirements for blocks 13a-13e: Not used for maintenance release. Shade, darken, or otherwise mark to preclude inadvertent or unauthorised use.
+
+**Block 14a**
+
+Mark the appropriate box(es) indicating which regulations apply to the completed work. If the box ‘other regulations specified in block 12’ is marked, then the regulations of the other airworthiness authority(ies) must be identified in block 12. At least one box must be marked, or both boxes may be marked, as appropriate.
+
+For all maintenance carried out by maintenance organisations approved in accordance with Section A, Subpart F of Annex I (Part M) or Annex Vd (Part-CAO) to Regulation (EU) No 1321/2014, the box ‘other regulation specified in block 12’ shall be ticked and the CRS statement be entered in block 12. In that case, the certification statement ‘unless otherwise specified in this block’ is intended to address the following cases:
+
+(a) where maintenance could not be completed;
+
+(b) where maintenance deviated from the standard required by Annex I (Part-M) or Annex Vd (Part-CAO);
+
+(c) where maintenance was carried out in accordance with a requirement other than that specified in Annex I (Part-M) or Annex Vd (Part-CAO); in this case, block 12 shall specify the particular national regulation.
+
+For all maintenance carried out by maintenance organisations approved in accordance with Section A of Annex II (Part-145) to Regulation (EU) No 1321/2014, the certification statement ‘unless otherwise specified in block 12’ is intended to address the following cases:
+
+(a) where maintenance could not be completed;
+
+(b) where maintenance deviated from the standard required by Annex II (Part-145);
+
+(c) where maintenance was carried out in accordance with a requirement other than that specified in Annex II (Part-145); in this case, block 12 shall specify the particular national regulation.
+
+**Block 14b Authorised Signature**
+
+This space shall be completed with the signature of the authorised person. Only persons specifically authorised under the rules and policies of the Competent Authority are permitted to sign this block. To aid recognition, a unique number identifying the authorised person may be added.
+
+**Block 14c Certificate/Approval Number**
+
+Enter the Certificate/Approval number/reference. This number or reference is issued by the Competent Authority.
+
+**Block 14d Name**
+
+Enter the name of the person signing block 14b in a legible form.
+
+**Block 14e Date**
+
+Enter the date on which block 14b is signed, the date must be in the format dd = 2 digit day, mmm = first 3 letters of the month, yyyy = 4 digit year
+
+**User/Installer Responsibilities**
+
+Place the following statement on the Certificate to notify end users that they are not relieved of their responsibilities concerning installation and use of any item accompanied by the form:
+
+‘THIS CERTIFICATE DOES NOT AUTOMATICALLY CONSTITUTE AUTHORITY TO INSTALL.
+
+WHERE THE USER/INSTALLER PERFORMS WORK IN ACCORDANCE WITH REGULATIONS OF AN AIRWORTHINESS AUTHORITY DIFFERENT THAN THE AIRWORTHINESS AUTHORITY SPECIFIED IN BLOCK 1, IT IS ESSENTIAL THAT THE USER/INSTALLER ENSURES THAT HIS/HER AIRWORTHINESS AUTHORITY ACCEPTS ITEMS FROM THE AIRWORTHINESS AUTHORITY SPECIFIED IN BLOCK 1.
+
+STATEMENTS IN BLOCKS 13A AND 14A DO NOT CONSTITUTE INSTALLATION CERTIFICATION. IN ALL CASES AIRCRAFT MAINTENANCE RECORDS MUST CONTAIN AN INSTALLATION CERTIFICATION ISSUED IN ACCORDANCE WITH THE NATIONAL REGULATIONS BY THE USER/INSTALLER BEFORE THE AIRCRAFT MAY BE FLOWN.’
+
+Text of image
+
+1\. Approving Competent Authority I Country
+
+2\. AUTHORISED RELEASE CERTIFICATE
+
+EASA FORM 1
+
+3\. Form Tracking Number
+
+4\. Organisation Name and Address:
+
+5\. Work Order/Contrac/Invoice
+
+6\. Item
+
+7\. Description
+
+8\. Part No.
+
+9\. Qty.
+
+10\. Serial No.
+
+11\. Status/Work
+
+12\. Remarks
+
+13a. Certifies that the items identified above were manufactured in conformity to:
+
+approved design data and are in a condition for safe operation
+
+non-approved design data specified in block 12
+
+14a. Part-145.A.50 Release to Service Other regulation specified in block 12
+
+Certifies that unless otherwise specified in block 12, the work identified in block 11 and described in block 12, was accomplished in accordance with Part-145 and in respect to that work the items are considered ready for release to service.
+
+13b. Authorised Signature
+
+13c. Approval/Authorisation Number
+
+14b. Authorised Signature
+
+14c. Certificate/Approval Ref. No.
+
+13d. Name
+
+13e. Date (dd mmm yyyy)
+
+14d. Name
+
+14e. Date (dd mmm yyyy)
+
+USER/INSTALLER RESPONSIBILITIES
+
+This certificate does not automatically constitute authority to install the item(s).
+
+Where the user/installer performs work in accordance with regulations of an airworthiness authority different than the airworthiness authority specified in block 1, it is essential that the user/installer ensures that his/her airworthiness authority accepts items from the airworthiness authority specified in block 1.
+
+Statements in blocks 13a and 14a do not constitute installation certification. In all cases aircraft maintenance records must contain an installation certification issued in accordance with the national regulations by the user/installer before the aircraft may be flown.
+
+EASA Form 1 -MF/145 Issue 2
+
+►(1) M6 ►(2) C1
+
+## Appendix III
+
+**Airworthiness Review Certificate – EASA Form 15**
+
+[MEMBER STATE (***)]
+
+A Member of the European Union (*)
+
+AIRWORTHINESS REVIEW CERTIFICATE (ARC)
+
+ARC reference: …
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council, the following organisation, approved in accordance with Section A of Annex Vc (Part-CAMO) or Section A of Annex Vd (Part-CAO) to Commission Regulation (EU) No 1321/2014,
+
+[NAME OF ORGANISATION APPROVED AND ADDRESS]
+
+[APPROVAL REFERENCE]
+
+hereby certifies that it has performed an airworthiness review, in accordance with point M.A.903 of Annex I to Regulation (EU) No 1321/2014, of the following aircraft:
+
+Aircraft manufacturer: …
+
+Aircraft manufacturer designation: …
+
+Aircraft registration: …
+
+Aircraft serial number: …
+
+and this aircraft is considered airworthy at the time of the review.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of the review (**): …
+
+Name and signature: … Authorisation No: …
+
+First extension: The Airworthiness Review Certificate has been extended in accordance with point M.A.902 of Annex I (Part-M) to Regulation (EU) No 1321/2014.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of issue (**): …
+
+Signed: … Authorisation No: …
+
+Name of approved organisation: … Approval reference: …
+
+Second extension: The Airworthiness Review Certificate has been extended in accordance with point M.A.902 of Annex I (Part-M) to Regulation (EU) No 1321/2014.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of issue (**): …
+
+Signed: … Authorisation No: …
+
+Name of approved organisation: … Approval reference: …
+
+(*) Delete for non-EU Member States or EASA.
+
+(**) Except for airships.
+
+(***) Or EASA if EASA is the competent authority.
+
+When the Form is issued in a language other than English, it shall include an English translation.
+
+EASA Form 15b Issue 7
+
+[MEMBER STATE]
+
+A Member of the European Union (*)
+
+AIRWORTHINESS REVIEW CERTIFICATE (ARC)
+
+ARC reference: …
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council, the [COMPETENT AUTHORITY OF THE MEMBER STATE] hereby certifies that the following aircraft:
+
+Aircraft manufacturer: …
+
+Aircraft manufacturer designation: …
+
+Aircraft registration: …
+
+Aircraft serial number: …
+
+is considered airworthy at the time of the review.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of the review (**): …
+
+Signed: … Authorisation No (if applicable): …
+
+First extension: The Airworthiness Review Certificate has been extended in accordance with point M.A.902 of Annex I (Part-M) to Commission Regulation (EU) No 1321/2014.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of issue (**): …
+
+Signed: … Authorisation No: …
+
+Name of approved organisation: … Approval reference: …
+
+Second extension: The Airworthiness Review Certificate has been extended in accordance with point M.A.902 of Annex I (Part-M) to Regulation (EU) No 1321/2014.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of issue (**): …
+
+Signed: … Authorisation No: …
+
+Name of approved organisation: … Approval reference: …
+
+(*) Delete for non-EU Member States.
+
+(**) Except for airships.
+
+When the Form is issued in a language other than English, it shall include an English translation.’
+
+EASA Form 15a Issue 6
+
+## Appendix IV — Class and rating system for the terms of approval of maintenance organisations referred to in Annex I (Part-M), Subpart F
+
+1\. Except as stated otherwise for the smallest organisations referred to in point 11, the table in point 12 provides for the standard system for the approval of a maintenance organisation referred to in Annex I (Part-M), Subpart F. An organisation must be granted an approval that ranges from a single class and rating with limitations to all classes and ratings with limitations.
+
+2\. In addition to the table referred to in point 12, the approved maintenance organisation is required to indicate its scope of work in its maintenance organisation manual.
+
+3\. Within the approval class(es) and rating(s) granted by the competent authority, the scope of work specified in the maintenance organisation exposition defines the exact limits of approval. It is therefore essential that the approval class(es) and rating(s) and the organisations scope of work are matching.
+
+4\. A category A class rating means that the approved maintenance organisation may carry out maintenance on the aircraft and any component (including engines and/or Auxiliary Power Units (APUs), in accordance with aircraft maintenance data or, if agreed by the competent authority, in accordance with component maintenance data, only whilst such components are fitted to the aircraft. Nevertheless, such A-rated approved maintenance organisation may temporarily remove a component for maintenance, in order to improve access to that component, except when such removal generates the need for additional maintenance not eligible for the provisions of this point. This will be subject to a control procedure in the maintenance organisation exposition to be approved by the competent authority. The limitation section will specify the scope of such maintenance thereby indicating the extent of approval.
+
+5\. A category B class rating means that the approved maintenance organisation may carry out maintenance on the uninstalled engine and/or APU and engine and/or APU components, in accordance with engine and/or APU maintenance data or, if agreed by the competent authority, in accordance with component maintenance data, only whilst such components are fitted to the engine and/or APU. Nevertheless, such B-rated approved maintenance organisation may temporarily remove a component for maintenance, in order to improve access to that component, except when such removal generates the need for additional maintenance not eligible for the provisions of this point. The limitation section will specify the scope of such maintenance thereby indicating the extent of approval. A maintenance organisation approved with a category B class rating may also carry out maintenance on an installed engine during ‘base’ and ‘line’ maintenance subject to a control procedure in the maintenance organisation exposition to be approved by the competent authority. The maintenance organisation exposition scope of work shall reflect such activity where permitted by the competent authority.
+
+6\. A category C class rating means that the approved maintenance organisation may carry out maintenance on uninstalled components (excluding engines and APUs) intended for fitment to the aircraft or engine/APU. The limitation section will specify the scope of such maintenance thereby indicating the extent of approval. A maintenance organisation approved with a category C class rating may also carry out maintenance on an installed component during base and line maintenance or at an engine/APU maintenance facility subject to a control procedure in the maintenance organisation exposition to be approved by the competent authority. The maintenance organisation exposition scope of work shall reflect such activity where permitted by the competent authority.
+
+7\. A category D class rating is a self contained class rating not necessarily related to a specific aircraft, engine or other component. The D1 — Non Destructive Testing (NDT) rating is only necessary for an approved maintenance organisation that carries out NDT as a particular task for another organisation. A maintenance organisation approved with a class rating in A or B or C category may carry out NDT on products it is maintaining subject to the maintenance organisation exposition containing NDT procedures, without the need for a D1 class rating.
+
+8\. The limitation section is intended to give the competent authorities the flexibility to customise the approval to any particular organisation. Ratings shall be mentioned on the approval only when appropriately limited. The table referred to in point 12 specifies the types of limitation possible. Whilst maintenance is listed last in each class rating it is acceptable to stress the maintenance task rather than the aircraft or engine type or manufacturer, if this is more appropriate to the organisation (an example could be avionic systems installations and related maintenance). Such mention in the limitation section indicates that the maintenance organisation is approved to carry out maintenance up to and including this particular type/task.
+
+9\. When reference is made to series, type and group in the limitation section of class A and B, series means a specific type series such as Cessna 150 or Cessna 172 or Beech 55 series or continental O-200 series etc; type means a specific type or model such as Cessna 172RG type; any number of series or types may be quoted; group means for example Cessna single piston engine aircraft or Lycoming non-supercharged piston engines, etc.
+
+10\. When a lengthy capability list is used which could be subject to frequent amendments, then such amendments may be performed in accordance with the indirect approval procedure referred to in points M.A.604(c) and M.B.606(c).
+
+11\. A maintenance organisation which employs only one person to both plan and carry out all maintenance can only hold a limited scope of approval rating. The maximum permissible limits are:
+
+| CLASS | RATING | LIMITATION |
+| --- | --- | --- |
+| CLASS AIRCRAFT | RATING A2 AEROPLANES 5 700 KG AND BELOW | PISTON ENGINE 5 700 KG AND BELOW |
+| CLASS AIRCRAFT | RATING A3 HELICOPTERS | SINGLE PISTON ENGINE 3 175 KG AND BELOW |
+| CLASS AIRCRAFT | RATING A4 AIRCRAFT OTHER THAN A1, A2 AND A3 | NO LIMITATION |
+| CLASS ENGINES | RATING B2 PISTON | LESS THAN 450 HP |
+| CLASS COMPONENTS OTHER THAN COMPLETE ENGINES OR APUs. | C1 TO C22 | AS PER CAPABILITY LIST |
+| CLASS SPECIALISED | D1 NDT | NDT METHOD(S) TO BE SPECIFIED. |
+
+It should be noted that such an organisation may be further limited by the competent authority in the terms of approval depending on the capability of the particular organisation.
+
+12\. Table
+
+<table>
+<tbody><tr><td>CLASS</td><td>RATING</td><td>LIMITATION</td><td>BASE</td><td>LINE</td></tr>
+<tr><td rowspan="3">AIRCRAFT</td><td>A2 Aeroplanes 5 700 kg and below</td><td>[Shall state aeroplane manufacturer or group or series or type and/or the maintenance task(s)] Example: DHC-6 Twin Otter Series  State whether the issue of airworthiness review certificates is authorised </td><td>[YES/NO] (1)</td><td>[YES/NO] (1)</td></tr>
+<tr><td>A3 Helicopters</td><td>[Shall state helicopter manufacturer or group or series or type and/or the maintenance task(s)] Example: Robinson R44 </td><td>[YES/NO] (1)</td><td>[YES/NO] (1)</td></tr>
+<tr><td>A4 Aircraft other than A1, A2 and A3</td><td>[Shall state aircraft category (sailplane, balloon, airship, etc.), manufacturer or group or series or type and/or the maintenance task(s)] State whether the issue of airworthiness review certificates is authorised </td><td>[YES/NO] (1)</td><td>[YES/NO] (1)</td></tr>
+<tr><td rowspan="3">ENGINES</td><td>B1 Turbine</td><td colspan="3">[Shall state engine series or type and/or the maintenance task(s)] Example: PT6A Series </td></tr>
+<tr><td>B2 Piston</td><td colspan="3">[Shall state engine manufacturer or group or series or type and/or the maintenance task(s)]</td></tr>
+<tr><td>B3 APU</td><td colspan="3">[Shall state engine manufacturer or series or type and/or the maintenance task(s)]</td></tr>
+<tr><td rowspan="22">COMPONENTS OTHER THAN COMPLETE ENGINES OR APUs</td><td>C1 Air Cond & Press</td><td colspan="3" rowspan="22">[Shall state aircraft type or aircraft manufacturer or component manufacturer or the particular component and/or cross refer to a capability list in the exposition and/or the maintenance task(s).] Example: PT6A Fuel Control </td></tr>
+<tr><td>C2 Auto Flight</td></tr>
+<tr><td>C3 Comms and Nav</td></tr>
+<tr><td>C4 Doors – Hatches</td></tr>
+<tr><td>C5 Electrical Power & Lights</td></tr>
+<tr><td>C6 Equipment</td></tr>
+<tr><td>C7 Engine – APU</td></tr>
+<tr><td>C8 Flight Controls</td></tr>
+<tr><td>C9 Fuel</td></tr>
+<tr><td>C10 Helicopter – Rotors</td></tr>
+<tr><td>C11 Helicopter – Trans</td></tr>
+<tr><td>C12 Hydraulic Power</td></tr>
+<tr><td>C13 Indicating – recording system</td></tr>
+<tr><td>C14 Landing Gear</td></tr>
+<tr><td>C15 Oxygen</td></tr>
+<tr><td>C16 Propellers</td></tr>
+<tr><td>C17 Pneumatic & Vacuum</td></tr>
+<tr><td>C18 Protection ice/rain/fire</td></tr>
+<tr><td>C19 Windows</td></tr>
+<tr><td>C20 Structural</td></tr>
+<tr><td>C21 Water ballast</td></tr>
+<tr><td>C22 Propulsion Augmentation</td></tr>
+<tr><td>SPECIALISED SERVICES</td><td>D1 Non Destructive Testing</td><td colspan="3">[Shall state particular NDT method(s)]</td></tr>
+<tr><td colspan="5">(1)  Delete as appropriate. </td></tr>
+</tbody>
+</table>
+
+## Appendix V — Maintenance Organisation Certificate referred to in Annex I (Part-M) Subpart F – EASA Form 3-MF
+
+Page 1 of 2
+
+[MEMBER STATE (*)]
+
+A Member of the European Union (**)
+
+MAINTENANCE ORGANISATION CERTIFICATE
+
+Reference: [MEMBER STATE CODE (*)].MF.[XXXX]
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council and to Commission Regulation (EU) No 1321/2014 and subject to the conditions specified below, the [COMPETENT AUTHORITY OF THE MEMBER STATE (*)] hereby certifies:
+
+[COMPANY NAME AND ADDRESS]
+
+as a maintenance organisation in compliance with Section A, Subpart F of Annex I (Part-M) to Commission Regulation (EU) No 1321/2014, approved to maintain the products, parts and appliances listed in the attached terms of approval and issue related certificates of release to service using the above references and, when stipulated, airworthiness review certificates after an airworthiness review as specified in point ML.A.903 of Annex Vb (Part-ML) to Commission Regulation (EU) No 1321/2014 for those aircraft listed in the attached approval schedule.
+
+CONDITIONS:
+
+1\. This certificate is limited to what is specified in the scope of work section of the approved maintenance organisation manual as referred to in Section A, Subpart F of Annex I (Part-M) to Commission Regulation (EU) No 1321/2014; and
+
+2\. This certificate requires compliance with the procedures specified in the approved maintenance organisation manual; and
+
+3\. This certificate is valid whilst the approved maintenance organisation remains in compliance with Annex I (Part-M) and Annex Vb (Part-ML) to Commission Regulation (EU) No 1321/2014.
+
+4\. Subject to compliance with the foregoing conditions, this certificate shall remain valid until 24 March 2022 unless the certificate has been surrendered, superseded, suspended or revoked before that date.
+
+Date of original issue: …
+
+Date of this revision: …
+
+Revision No: …
+
+Signed: …
+
+For the competent authority: [COMPETENT AUTHORITY OF THE MEMBER STATE (*)]
+
+EASA Form 3-MF Issue 6
+
+(*) Or ‘EASA’, if EASA is the competent authority.
+
+(**) Delete for non-EU Member States or EASA.
+
+Page 2 of 2
+
+MAINTENANCE ORGANISATION TERMS OF APPROVAL
+
+Reference: [MEMBER STATE CODE (*)].MF.XXXX
+
+Organisation: [COMPANY NAME AND ADDRESS]
+
+<table>
+<tbody><tr><td>CLASS</td><td>RATING</td><td>LIMITATION</td></tr>
+<tr><td rowspan="2">AIRCRAFT (**)</td><td>(***)</td><td>(***)</td></tr>
+<tr><td>(***)</td><td>(***)</td></tr>
+<tr><td rowspan="2">ENGINES (**)</td><td>(***)</td><td>(***)</td></tr>
+<tr><td>(***)</td><td>(***)</td></tr>
+<tr><td rowspan="6">COMPONENTS OTHER THAN COMPLETE ENGINES OR APUs (**)</td><td>(***)</td><td>(***)</td></tr>
+<tr><td>(***)</td><td>(***)</td></tr>
+<tr><td>(***)</td><td>(***)</td></tr>
+<tr><td>(***)</td><td>(***)</td></tr>
+<tr><td>(***)</td><td>(***)</td></tr>
+<tr><td>(***)</td><td>(***)</td></tr>
+<tr><td rowspan="2">SPECIALISED SERVICES (**)</td><td>(***)</td><td>(***)</td></tr>
+<tr><td>(***)</td><td>(***)</td></tr>
+</tbody>
+</table>
+
+These terms of approval are limited to the products, parts and appliances and to the activities specified in the scope of work section of the approved maintenance organisation manual.
+
+Maintenance Organisation Manual reference: …
+
+Date of original issue: …
+
+Date of last revision approved: … Revision No: …
+
+Signed: …
+
+For the competent authority:[COMPETENT AUTHORITY OF THE MEMBER STATE (*)]
+
+EASA Form 3-MF Issue 6
+
+(*) Or ‘EASA’, if EASA is the competent authority.
+
+(**) Delete as appropriate if the organisation is not approved.
+
+(***) Complete with the appropriate rating and limitation.
+
+(****) Complete with the appropriate limitation and state whether the issue of recommendations and airworthiness review certificates is authorised or not (only possible for ELA1 aircraft not involved in commercial operations when the organisation performs the airworthiness review together with the annual inspection contained in the AMP)
+
+## Appendix VI — Continuing airworthiness management organisation certificate referred to in Annex I (Part-M) Subpart G – EASA Form 14-MG
+
+[MEMBER STATE (*)]
+
+A Member State of the European Union (**)
+
+CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATION
+
+CERTIFICATE
+
+Reference: [MEMBER STATE CODE (*)].MG.XXXX (ref. AOC XX.XXXX)
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council and to Commission Regulation (EU) No 1321/2014 for the time being in force and subject to the condition specified below, the [COMPETENT AUTHORITY OF THE MEMBER STATE (*)] hereby certifies:
+
+[COMPANY NAME AND ADDRESS]
+
+as a continuing airworthiness management organisation in compliance with Section A, Subpart G of Annex I (Part-M) to Regulation (EU) No 1321/2014, approved to manage the continuing airworthiness of the aircraft listed in the attached terms of approval and, when stipulated, to issue recommendations and airworthiness review certificates after an airworthiness review as specified in point M.A.901 of Annex I (Part-M) or ML.A.901 of Annex Vb (Part-ML), and, when stipulated, to issue permits to fly as specified in point M.A.711(c) of Annex I (Part-M) to that Regulation.
+
+CONDITIONS
+
+1\. This certificate is limited to that specified in the scope of work section of the approved continuing airworthiness management exposition as referred to in Section A, Subpart G of Annex I (Part-M) to Regulation (EU) No 1321/2014.
+
+2\. This certificate requires compliance with the procedures specified in the continuing airworthiness management exposition approved in accordance with Subpart G of Annex I (Part-M) to Regulation (EU) No 1321/2014.
+
+3\. This certificate is valid whilst the approved continuing airworthiness management organisation remains in compliance with Annex I (Part-M) and, if applicable, Annex Vb (Part-ML) to Regulation (EU) No 1321/2014.
+
+4\. Where the continuing airworthiness management organisation contracts under its Quality System the service of an organisation or several organisations, this certificate remains valid subject to such organisation(s) fulfilling applicable contractual obligations.
+
+5\. Subject to compliance with the conditions 1 to 4 above, this certificate shall remain valid until 24 March 2022, unless the certificate has previously been surrendered, superseded, suspended or revoked.
+
+If this form is also used for licenced air carriers in accordance with Regulation (EC) No 1008/2008, the Air Operator Certificate (AOC) number shall be added to the reference, in addition to the standard number, and the condition 5 shall be replaced by the following extra conditions 6, 7 and 8:
+
+6\. This certificate does not constitute an authorisation to operate the types of aircraft referred in condition 1. The authorisation to operate the aircraft is the AOC.
+
+7\. Termination, suspension or revocation of the AOC automatically invalidates this certificate in relation to the aircraft registrations specified in the AOC, unless otherwise explicitly stated by the competent authority.
+
+8\. Subject to compliance with conditions 1 to 4, 6 and 7, this certificate shall remain valid until 24 March 2022, unless the certificate has previously been surrendered, superseded, suspended or revoked.
+
+Date of original issue: …
+
+Signed: …
+
+Date of this revision: … Revision No: …
+
+For the Competent Authority: [COMPETENT AUTHORITY OF THE MEMBER STATE (*)]
+
+Page 1 of 2
+
+EASA Form 14-MG Issue 6
+
+Page 2 of 2
+
+CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATION
+
+TERMS OF APPROVAL
+
+Reference: [MEMBER STATE CODE (*)].MG.XXXX
+
+(ref. AOC XX.XXXX)
+
+Organisation: [COMPANY NAME AND ADDRESS]
+
+| Aircraft type/series/group | Airworthiness review authorised | Permits to fly authorised | Organisation(s) working under quality system |
+| --- | --- | --- | --- |
+|  | [YES/NO] (***) | [YES/NO] (***) |  |
+|  | [YES/NO] (***) | [YES/NO] (***) |  |
+|  | [YES/NO] (***) | [YES/NO] (***) |  |
+|  | [YES/NO] (***) | [YES/NO] (***) |  |
+
+These terms of approval are limited to that specified in the scope of work contained in the approved Continuing Airworthiness Management Exposition section …
+
+Continuing Airworthiness Management Exposition Reference: …
+
+Date of original issue: …
+
+Signed: …
+
+Date of this revision: … Revision No: …
+
+For the Competent Authority: [COMPETENT AUTHORITY OF THE MEMBER STATE *]
+
+EASA Form 14-MG Issue 6
+
+(*) Or EASA if EASA is the competent authority.
+
+(**) Delete for non-EU Member State or EASA.
+
+(***) Delete as appropriate if the organisation is not approved.
+
+## Appendix VII — Complex Maintenance Tasks
+
+The following constitutes the complex maintenance tasks referred to in point M.A.801(b):
+
+1\. The modification, repair or replacement by riveting, bonding, laminating, or welding of any of the following airframe parts:
+
+(a) a box beam;
+
+(b) a wing stringer or chord member;
+
+(c) a spar;
+
+(d) a spar flange;
+
+(e) a member of a truss-type beam;
+
+(f) the web of a beam;
+
+(g) a keel or chine member of a flying boat hull or a float;
+
+(h) a corrugated sheet compression member in a wing or tail surface;
+
+(i) a wing main rib;
+
+(j) a wing or tail surface brace strut;
+
+(k) an engine mount;
+
+(l) a fuselage longeron or frame;
+
+(m) a member of a side truss, horizontal truss or bulkhead;
+
+(n) a seat support brace or bracket;
+
+(o) a seat rail replacement;
+
+(p) a landing gear strut or brace strut;
+
+(q) an axle;
+
+(r) a wheel; and
+
+(s) a ski or ski pedestal, excluding the replacement of a low-friction coating.
+
+2\. The modification or repair of any of the following parts:
+
+(a) aircraft skin, or the skin of an aircraft float, if the work requires the use of a support, jig or fixture;
+
+(b) aircraft skin that is subject to pressurization loads, if the damage to the skin measures more than 15 cm (6 inches) in any direction;
+
+(c) a load-bearing part of a control system, including a control column, pedal, shaft, quadrant, bell crank, torque tube, control horn and forged or cast bracket, but excluding
+
+(i) the swaging of a repair splice or cable fitting, and
+
+(ii) the replacement of a push-pull tube end fitting that is attached by riveting; and
+
+(d) any other structure, not listed in (1), that a manufacturer has identified as primary structure in its maintenance manual, structural repair manual or instructions for continuing airworthiness.
+
+3\. The performance of the following maintenance on a piston engine:
+
+(a) dismantling and subsequent reassembling of a piston engine other than (i) to obtain access to the piston/cylinder assemblies; or (ii) to remove the rear accessory cover to inspect and/or replace oil pump assemblies, where such work does not involve the removal and re-fitment of internal gears;
+
+(b) dismantling and subsequent reassembling of reduction gears;
+
+(c) welding and brazing of joints, other than minor weld repairs to exhaust units carried out by a suitably approved or authorised welder but excluding component replacement;
+
+(d) the disturbing of individual parts of units which are supplied as bench tested units, except for the replacement or adjustment of items normally replaceable or adjustable in service.
+
+3a. The performance of maintenance on the power plant that would require disassembly of engine(s), main batteries or fuel cell(s), other than removing them from the aircraft and reinstalling them back (including removal/installation of engine bearings).
+
+3b. The performance of maintenance on high-pressure reservoirs and components belonging to high-pressure lines/systems related to the power plant.
+
+4\. The balancing of a propeller, except:
+
+(a) for the certification of static balancing where required by the maintenance manual;
+
+(b) dynamic balancing on installed propellers using electronic balancing equipment where permitted by the maintenance manual or other approved airworthiness data;
+
+5\. Any additional task that requires:
+
+(a) specialized tooling, equipment or facilities; or
+
+(b) significant coordination procedures because of the extensive duration of the tasks and the involvement of several persons.
+
+## Appendix VIII — limited Pilot-owner maintenance
+
+In addition to the requirements laid down in Annex I (Part-M), the following basic principles are to be complied with before any maintenance task is carried out under the terms of Pilot-owner maintenance:
+
+(a) Competence and responsibility
+
+1\. The Pilot-owner is always responsible for any maintenance that he performs.
+
+2\. Before carrying out any Pilot-owner maintenance tasks, the Pilot-owner must satisfy himself that he is competent to do the task. It is the responsibility of Pilot-owners to familiarize themselves with the standard maintenance practices for their aircraft and with the aircraft maintenance programme. If the Pilot-owner is not competent for the task to be carried out, the task cannot be released by the Pilot-owner.
+
+3\. The Pilot-owner (or his contracted CAMO or CAO) is responsible for identifying the Pilot-owner tasks according to these basic principles in the maintenance programme and for ensuring that the document is updated in a timely manner.
+
+4\. The approval of the maintenance programme has to be carried out in accordance with point M.A.302.
+
+(b) Tasks
+
+The Pilot-owner may carry out simple visual inspections or operations to check for general condition and obvious damage and normal operation of the airframe, engines, systems and components.
+
+Maintenance tasks shall not be carried out by the Pilot-owner when the task:
+
+1\. is a critical maintenance task
+
+2\. requires the removal of major components or major assembly and/or;
+
+3\. is carried out in compliance with an Airworthiness Directive or an Airworthiness Limitation Item, unless specifically allowed in the AD or the ALI and/or;
+
+4\. requires the use of special tools, calibrated tools (except torque wrench and crimping tool) and/or;
+
+5\. requires the use of test equipments or special testing (e.g. NDT, system tests or operational checks for avionic equipment) and/or;
+
+6\. is composed of any unscheduled special inspections (e.g. heavy landing check) and/or;
+
+7\. is effecting systems essential for the IFR operations and/or;
+
+8\. is listed in Appendix VII to this Annex or is a component maintenance task in accordance with points M.A.502(a), (b), (c) or (d).
+
+The criteria 1 to 8 cannot be overridden by less restrictive instructions issued in accordance with ‘M.A.302(d) Maintenance Programme.
+
+Any task described in the aircraft flight manual as preparing the aircraft for flight (Example: assembling the glider wings or pre-flight), is considered to be a pilot task and is not considered a Pilot-owner maintenance task and therefore does not require a Certificate of Release to Service.
+
+(c) Performance of the maintenance Pilot-owner tasks and records
+
+The maintenance data as specified in point M.A.401 must be always available during the conduct of Pilot-owner maintenance and must be complied with. Details of the data referred to in the conduct of Pilot-owner maintenance must be included in the Certificate of Release to Service in accordance with point M.A.803(d).
+
+The Pilot-owner must inform the approved continuing airworthiness management organisation responsible for the continuing airworthiness of the aircraft (if applicable) not later than 30 days after completion of the Pilot-owner maintenance task in accordance with point M.A.305(a).
+
+## ANNEX II — (Part-145)
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td>145.1</td><td>Competent authority</td></tr>
+<tr><td></td><td>SECTION A – TECHNICAL AND ORGANISATION REQUIREMENTS</td></tr>
+<tr><td>145.A.10</td><td>Scope</td></tr>
+<tr><td>145.A.15</td><td>Application for an organisation certificate</td></tr>
+<tr><td>145.A.20</td><td>Terms of approval and scope of work</td></tr>
+<tr><td>145.A.25</td><td>Facility requirements</td></tr>
+<tr><td>145.A.30</td><td>Personnel requirements</td></tr>
+<tr><td>145.A.35</td><td>Certifying staff and support staff</td></tr>
+<tr><td>145.A.37</td><td>Airworthiness review staff</td></tr>
+<tr><td>145.A.40</td><td>Equipment and tools</td></tr>
+<tr><td>145.A.42</td><td>Components</td></tr>
+<tr><td>145.A.45</td><td>Maintenance data</td></tr>
+<tr><td>145.A.47</td><td>Production planning</td></tr>
+<tr><td>145.A.48</td><td>Performance of maintenance</td></tr>
+<tr><td>145.A.50</td><td>Certification of maintenance</td></tr>
+<tr><td>145.A.55</td><td>Record-keeping</td></tr>
+<tr><td>145.A.60</td><td>Occurrence reporting</td></tr>
+<tr><td>145.A.65</td><td>Maintenance procedures</td></tr>
+<tr><td>145.A.70</td><td>Maintenance organisation exposition (MOE)</td></tr>
+<tr><td>145.A.75</td><td>Privileges of the organisation</td></tr>
+<tr><td>145.A.85</td><td>Changes to the organisation</td></tr>
+<tr><td>145.A.90</td><td>Continued validity</td></tr>
+<tr><td>145.A.95</td><td>Findings</td></tr>
+<tr><td>145.A.120</td><td>Means of compliance</td></tr>
+<tr><td>145.A.140</td><td>Access</td></tr>
+<tr><td>145.A.155</td><td>Immediate reaction to a safety problem</td></tr>
+<tr><td>145.A.200</td><td>Management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>145.A.200A</td><td>Information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>145.A.202</td><td>Internal safety reporting scheme</td></tr>
+<tr><td>145.A.205</td><td>Contracting and subcontracting</td></tr>
+<tr><td></td><td>SECTION B – AUTHORITY REQUIREMENTS</td></tr>
+<tr><td>145.B.005</td><td>Scope</td></tr>
+<tr><td>145.B.115</td><td>Oversight documentation</td></tr>
+<tr><td>145.B.120</td><td>Means of compliance</td></tr>
+<tr><td>145.B.125</td><td>Information to the Agency</td></tr>
+<tr><td>145.B.135</td><td>Immediate reaction to a safety problem</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>145.B.135A</td><td>Immediate reaction to an information security incident or vulnerability with an impact on aviation safety</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>145.B.200</td><td>Management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>145.B.205</td><td>Allocation of tasks</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>145.B.210</td><td>Changes in the management system</td></tr>
+<tr><td>145.B.220</td><td>Record-keeping</td></tr>
+<tr><td>145.B.300</td><td>Oversight principles</td></tr>
+<tr><td>145.B.305</td><td>Oversight programme</td></tr>
+<tr><td>145.B.310</td><td>Initial certification procedure</td></tr>
+<tr><td>145.B.330</td><td>Changes – organisations</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>145.B.330A</td><td>Changes to the information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>145.B.350</td><td>Findings and corrective actions; observations</td></tr>
+<tr><td>145.B.355</td><td>Suspension, limitation and revocation</td></tr>
+<tr><td>Appendix I</td><td>– Authorised Release Certificate – EASA Form 1</td></tr>
+<tr><td>Appendix II</td><td>– Class and rating system for the terms of approval of Part-145 maintenance organisations</td></tr>
+<tr><td>Appendix III</td><td>– Maintenance organisation certificate – EASA Form 3-145</td></tr>
+<tr><td>Appendix IV</td><td>– Conditions for the use of staff not qualified in accordance with Annex III (Part-66) referred to in points 145.A.30(j)1 and 2</td></tr>
+</table>
+
+**145.1 Competent authority**
+
+For the purpose of this Annex, the competent authority shall be:
+
+1\. for organisations that have their principal place of business in a territory for which a Member State is responsible under the Convention on International Civil Aviation, signed in Chicago on 7 December 1944 (‘the Chicago Convention’), the authority designated by that Member State, or by another Member State in accordance with Article 64 of Regulation (EU) 2018/1139, or the Agency if the responsibility has been reallocated to the Agency in accordance with Articles 64 or 65 of Regulation (EU) 2018/1139; or
+
+2\. for organisations that have their principal place of business outside a territory for which a Member State is responsible under the Chicago Convention, the Agency.
+
+**SECTION A TECHNICAL AND ORGANISATION REQUIREMENTS**
+
+**145.A.10 Scope**
+
+This Section establishes the requirements to be met by an organisation to qualify for the issue or continuation of an approval certificate for the maintenance of aircraft and components.
+
+**145.A.15 Application for an organisation certificate**
+
+(a) An application for a certificate or an amendment to an existing certificate in accordance with this Annex shall be made in a form and manner established by the competent authority, taking into account the applicable requirements of Annex I (Part-M), Annex Vb (Part-ML) and this Annex.
+
+(b) Applicants for an initial certificate pursuant to this Annex shall provide the competent authority with:
+
+1\. the results of a pre-audit performed by the organisation against the applicable requirements provided for in Annex I (Part-M), Annex Vb (Part-ML) and this Annex;
+
+2\. documentation demonstrating how they will comply with the requirements established in this Regulation.
+
+**145.A.20 Terms of approval and scope of work**
+
+(a) The organisation’s scope of work shall be specified in the maintenance organisation exposition (MOE) in accordance with point 145.A.70.
+
+(b) The organisation shall comply with the terms of approval attached to the organisation certificate issued by the competent authority, and with the scope of work specified in the MOE.
+
+**145.A.25 Facility requirements**
+
+The organisation shall ensure that:
+
+(a) Facilities are provided appropriate for all planned work, ensuring in particular, protection from the weather elements. Specialised workshops and bays are segregated as appropriate, to ensure that environmental and work area contamination is unlikely to occur.
+
+1\. For base maintenance of aircraft, aircraft hangars are both available and large enough to accommodate aircraft on planned base maintenance;
+
+2\. For component maintenance, component workshops are large enough to accommodate the components on planned maintenance.
+
+(b) Office accommodation is provided for the management of the planned work referred to in point (a), and certifying staff so that they can carry out their designated tasks in a manner that contributes to good aircraft maintenance standards.
+
+(c) The working environment including aircraft hangars, component workshops and office accommodation is appropriate for the task carried out and in particular special requirements observed. Unless otherwise dictated by the particular task environment, the working environment must be such that the effectiveness of personnel is not impaired:
+
+1\. temperatures must be maintained such that personnel can carry out required tasks without undue discomfort.
+
+2\. dust and any other airborne contamination are kept to a minimum and not be permitted to reach a level in the work task area where visible aircraft/component surface contamination is evident. Where dust/other airborne contamination results in visible surface contamination, all susceptible systems are sealed until acceptable conditions are re-established.
+
+3\. lighting is such as to ensure each inspection and maintenance task can be carried out in an effective manner.
+
+4\. noise shall not distract personnel from carrying out inspection tasks. Where it is impractical to control the noise source, such personnel are provided with the necessary personal equipment to stop excessive noise causing distraction during inspection tasks.
+
+5\. where a particular maintenance task requires the application of specific environmental conditions different to the foregoing, then such conditions are observed. Specific conditions are identified in the maintenance data.
+
+6\. the working environment for line maintenance is such that the particular maintenance or inspection task can be carried out without undue distraction. Therefore where the working environment deteriorates to an unacceptable level in respect of temperature, moisture, hail, ice, snow, wind, light, dust/other airborne contamination, the particular maintenance or inspection tasks must be suspended until satisfactory conditions are re-established.
+
+(d) Secure storage facilities are provided for components, equipment, tools and material. Storage conditions ensure segregation of serviceable components and material from unserviceable aircraft components, material, equipment and tools. The conditions of storage are in accordance with the manufacturer's instructions to prevent deterioration and damage of stored items. Access to storage facilities is restricted to authorised personnel.
+
+**145.A.30 Personnel requirements**
+
+(a) The organisation shall appoint an accountable manager that has corporate authority to ensure that all maintenance activities of the organisation can be financed and carried out in accordance with Regulation (EU) 2018/1139 and its delegated and implementing acts. The accountable manager shall:
+
+1\. ensure that all necessary resources are available to accomplish maintenance in accordance with this Annex, Annex I (Part-M) and Annex Vb (Part-ML), as applicable, to support the organisation certificate;
+
+2\. establish and promote the safety policy specified in point 145.A.200(a)(2);
+
+3\. demonstrate a basic understanding of this Regulation.
+
+(b) The accountable manager shall nominate a person or group of persons representing the management structure for the maintenance functions and with the responsibility to ensure that the organisation works in accordance with the MOE and approved procedures. It shall be made clear in the procedures who deputises for a particular person in the case of lengthy absence of that person.
+
+(c) The accountable manager shall nominate a person or group of persons with the responsibility to manage the compliance monitoring function as part of the management system.
+
+(ca) The accountable manager shall nominate a person or group of persons with the responsibility to manage the development, administration and maintenance of effective safety management processes as part of the management system.
+
+(cb) The person or group of persons nominated in accordance with points (b), (c) and (ca) shall have a responsibility to the accountable manager and direct access to him/her to keep him/her properly informed on compliance and safety matters.
+
+(cc) The person or persons nominated in accordance with points (b), (c) and (ca) shall be able to demonstrate relevant knowledge, background and satisfactory experience related to aircraft or component maintenance and demonstrate a working knowledge of this Regulation.
+
+(d) The organisation shall have a maintenance man-hour plan to ensure it has sufficient and appropriately qualified staff to plan, perform, supervise, inspect and monitor the organisation’s activities in accordance with the terms of approval. In addition, the organisation shall have a procedure to reassess the work intended to be carried out when the actual staff availability is reduced compared to the planned staffing level for a particular work shift or period.
+
+(e) The organisation shall establish and control the competency of the personnel involved in any maintenance, airworthiness reviews, safety management and compliance monitoring in accordance with a procedure and to a standard agreed with the competent authority. In addition to the necessary expertise related to the job function, the competency of the personnel must include an understanding of the application of safety management principles, including human factors and human performance issues, which is appropriate to their function and responsibilities in the organisation.
+
+(f) The organisation shall ensure that personnel who carry out or control a continued-airworthiness non-destructive test of aircraft structures or components, or both, are appropriately qualified for the particular non-destructive test in accordance with the European or equivalent standard recognised by the Agency. Personnel who carry out any other specialised task shall be appropriately qualified in accordance with officially recognised standards. By derogation from this point, personnel referred to in point (g), points (h)(1) and (h)(2), qualified in category B1, B3 or L in accordance with Annex III (Part-66), may carry out and/or control colour contrast dye penetrant tests.
+
+(g) Any organisation maintaining aircraft, except where stated otherwise in point (j), shall in the case of aircraft line maintenance, have appropriate aircraft-rated certifying staff qualified as category B1, B2, B2L, B3 and L, as appropriate, in accordance with Annex III (Part-66) and point 145.A.35.
+
+In addition such organisations may also use appropriately task-trained certifying staff holding the privileges set out in points 66.A.20(a)(1) and 66.A.20(a)(3)(ii) and qualified in accordance with Annex III (Part-66) and point 145.A.35 to carry out minor scheduled line maintenance and simple defect rectification. The availability of such certifying staff shall not replace the need for category B1, B2, B2L, B3 and L certifying staff, as appropriate.
+
+(h) Any organisation maintaining aircraft, except where stated otherwise in point (j), shall:
+
+1\. in the case of base maintenance of complex motor-powered aircraft, have appropriate aircraft-type-rated certifying staff, qualified as category C in accordance with Annex III (Part-66) and point 145.A.35. In addition, the organisation shall have sufficient aircraft-type-rated staff qualified as category B1 and B2, as appropriate, in accordance with Annex III (Part-66) and point 145.A.35 to support the category C certifying staff.
+
+(i) Category B1 and B2 support staff shall ensure that all relevant tasks or inspections have been carried out to the required standard before the category C certifying staff issues the certificate of release to service.
+
+(ii) The organisation shall maintain a register of any such category B1 and B2 support staff.
+
+(iii) The category C certifying staff shall ensure that compliance with point (i) has been met and that all work required by the customer has been accomplished during the particular base maintenance check or work package, and shall also assess the impact of any work not carried out, with a view to either requiring its accomplishment or agreeing with the operator to defer such work to another specified check or time limit.
+
+2\. in the case of base maintenance of aircraft other than complex motor-powered aircraft, have one of the following:
+
+(i) appropriate aircraft-rated certifying staff, qualified as category B1, B2, B2L, B3 and L, as appropriate, in accordance with Annex III (Part-66) and point 145.A.35;
+
+(ii) appropriate aircraft-rated certifying staff, qualified in category C or L5, as applicable, and assisted by support staff, as set out in point 145.A.35(a)(1);
+
+(i) Component certifying staff shall be qualified in accordance with Article 5(6) and point 145.A.35.
+
+(j) By way of derogation from points (g) and (h), in relation to the obligation to comply with Annex III (Part-66), the organisation may use certifying staff and support staff that are qualified in accordance with the following provisions:
+
+1\. For base maintenance carried out at a location outside a territory for which a Member State is responsible under the Chicago Convention, the certifying staff and support staff may be qualified in accordance with the national aviation regulations of the State in which the base maintenance facility is located, subject to the conditions specified in Appendix IV to this Annex.
+
+2\. For line maintenance carried out at a line station located outside a territory for which a Member State is responsible under the Chicago Convention, the certifying staff may be qualified, subject to the conditions specified in Appendix IV to this Annex, in accordance with the following alternative conditions:
+
+— national aviation regulations of the State in which the line station is located,
+
+— national aviation regulations of the State in which the organisation’s principal place of business is located.
+
+3\. For a repetitive pre-flight airworthiness directive which specifically states that the flight crew may carry out such airworthiness directive, the organisation may issue a limited certification authorisation to the pilot on the basis of the flight crew licence held. In that case, the organisation shall ensure that the pilot has carried out sufficient practical training ensuring that the pilot can accomplish the airworthiness directive.
+
+4\. If an aircraft is operated away from a supported location, the organisation may issue a limited certification authorisation to the pilot on the basis of the flight crew licence held, subject to being satisfied that the pilot has carried out sufficient practical training ensuring that the pilot can accomplish the specified task.
+
+5\. In the following unforeseen cases, where an aircraft is grounded at a location other than the main base where no appropriate certifying staff are available, the organisation contracted to provide maintenance support may issue a one-off certification authorisation:
+
+(i) to one of its employees holding equivalent type authorisations on aircraft of similar technology, construction and systems; or
+
+(ii) to any person with not less than five years maintenance experience and holding a valid ICAO aircraft maintenance licence rated for the aircraft type requiring certification provided there is no organisation appropriately approved under this Part at that location and the contracted organisation obtains and holds on file evidence of the experience and the licence of that person.
+
+All such cases as specified in this point must be reported to the competent authority within seven days after issuing such certification authorisation.  The organisation issuing the one-off authorisation shall ensure that any such maintenance that could affect flight safety is re-checked by an appropriately approved organisation.
+
+(k) If the organisation performs airworthiness reviews and issues the corresponding airworthiness review certificate in accordance with point ML.A.903 of Annex Vb (Part-ML), it shall have airworthiness review staff that are qualified and authorised in accordance with point 145.A.37.
+
+**145.A.35 Certifying staff and support staff**
+
+(a) In addition to the requirements of points 145.A.30(g) and (h), the organisation shall ensure that certifying staff and support staff have an adequate understanding of the relevant aircraft or components, or both, to be maintained and of the associated organisation procedures. In the case of certifying staff, this shall be accomplished before the issue or reissue of the certification authorisation.
+
+1\. ‘Support staff’ means those staff holding an aircraft maintenance licence under Annex III (Part-66) in category B1, B2, B2L, B3 and/or L with the appropriate aircraft ratings, working in a base maintenance environment while not necessarily holding certification privileges.
+
+2\. ‘Relevant aircraft and/or components’, means those aircraft or components specified in the particular certification authorisation.
+
+3\. ‘Certification authorisation’ means the authorisation issued to certifying staff by the organisation and which specifies the fact that those staff may sign certificates of release to service within the limitations stated in such authorisation on behalf of the approved organisation.
+
+(b) Except for the cases listed in points 145.A.30(j) and 66.A.20(a)3(ii), the organisation may only issue a certification authorisation to certifying staff in relation to the basic categories or subcategories and, except for the category A licence, any type rating listed on the aircraft maintenance licence as required by Annex III (Part-66), subject to the licence remaining valid throughout the validity period of the authorisation and to the certifying staff remaining in compliance with Annex III (Part-66).
+
+(c) The organisation shall ensure that all certifying staff and support staff are involved in at least 6 months of actual relevant aircraft or component maintenance experience in any consecutive 2-year period.
+
+For the purpose of this point ‘involved in actual relevant aircraft or component maintenance’ means that the person has worked in an aircraft or component maintenance environment and has either exercised the privileges of the certification authorisation and/or has actually carried out maintenance on at least some of the aircraft type or aircraft group systems specified in the particular certification authorisation.
+
+(d) The organisation shall ensure that all certifying staff and support staff receive sufficient recurrent training in each 2-year period to ensure that they have up-to-date knowledge of relevant technologies, organisation procedures and safety management, including human factor issues.
+
+(e) The organisation shall establish a programme for recurrent training for certifying staff and support staff, including a procedure to ensure compliance with the relevant provisions of this point and a procedure to ensure compliance with Annex III (Part-66).
+
+(f) With the exception of the unforeseen cases specified in point 145.A.30(j)(5), the organisation shall assess all certifying staff for their competency, qualifications and capability to carry out their intended certifying duties in accordance with a procedure in the MOE prior to the issue or reissue of a certification authorisation under this Annex to such staff.
+
+(g) When the conditions of points (a), (b), (d), (f) and, where applicable, point (c) have been fulfilled by the certifying staff, the organisation shall issue a certification authorisation that clearly specifies the scope and limits of such authorisation. Continued validity of the certification authorisation is dependent upon continued compliance with points (a), (b), (d), and where applicable, (c).
+
+(h) The certification authorisation must be in a style that makes its scope clear to the certifying staff and any authorised person who may require to examine the authorisation. Where codes are used to define scope, the organisation shall make a code translation readily available. ‘Authorised person’ means the officials of the competent authorities, the Agency and the Member State who has responsibility for the oversight of the maintained aircraft or component.
+
+(i) The person or persons referred to in point 145.A.30(c) that are responsible for the compliance monitoring function shall also remain responsible for issuing certification authorisations to certifying staff. That personnel may nominate other persons to effectively issue or revoke certification authorisations in accordance with a procedure in the MOE.
+
+(j) The organisation shall provide certifying staff with a copy of their certification authorisation in either a documented or electronic format.
+
+(k) Certifying staff shall produce their certification authorisation to any authorised person within 24 hours.
+
+(l) The minimum age for certifying staff and support staff is 21 years.
+
+(m) The holder of a category A aircraft maintenance licence may only exercise certification privileges on a specific aircraft type following the satisfactory completion of the relevant category A aircraft task training carried out by an organisation appropriately approved in accordance with Annex II (Part-145) or Annex IV (Part-147). This training shall include practical hands on training and theoretical training as appropriate for each task authorised. Satisfactory completion of training shall be demonstrated by an examination or by workplace assessment carried out by the organisation.
+
+(n) The holder of a category B2 aircraft maintenance licence may only exercise the certification privileges described in point 66.A.20(a)(3)(ii) of Annex III (Part-66) following the satisfactory completion of:
+
+(i) the relevant category A aircraft task training; and
+
+(ii) 6 months of documented practical experience covering the scope of the authorisation that will be issued.
+
+The task training shall include practical hands on training and theoretical training as appropriate for each task authorised. Satisfactory completion of training shall be demonstrated by an examination or by workplace assessment. Task training and examination/assessment shall be carried out by the maintenance organisation issuing the certifying staff authorisation. The practical experience shall be also obtained within such maintenance organisation.
+
+**145.A.37 Airworthiness review staff**
+
+(a) In order to be approved to carry out airworthiness reviews and to issue the corresponding airworthiness review certificates (ARC) for aircraft covered by Annex Vb (Part-ML), the organisation shall have airworthiness review staff that comply with all of the following requirements:
+
+(1) they have acquired experience in continuing airworthiness of at least 1 year for sailplanes and balloons and of at least 3 years for all other aircraft;
+
+(2) they hold a certifying staff authorisation for the corresponding aircraft;
+
+(3) they have acquired knowledge of Annex I (Part-M), Subpart C, or of Annex Vb (Part-ML), Subpart C;
+
+(4) they have acquired knowledge of the procedures of the maintenance organisation relevant to the airworthiness review and issue of the airworthiness review certificate.
+
+(b) Before the organisation issues an airworthiness review authorisation to a candidate, that person shall perform an airworthiness review under the supervision of the competent authority or under the supervision of a person that is already authorised as airworthiness review staff by the organisation. If this airworthiness review under supervision is satisfactory, the competent authority shall formally accept that person to become airworthiness review staff.
+
+(c) The organisation shall ensure that the airworthiness review staff can demonstrate appropriate recent continuing airworthiness experience.
+
+**145.A.40 Equipment and tools**
+
+(a) The organisation shall have available and use the necessary equipment and tools to perform the approved scope of work.
+
+(i) Where the manufacturer specifies a particular tool or equipment, the organisation shall use that tool or equipment, unless the use of alternative tooling or equipment is agreed by the competent authority via procedures specified in the exposition.
+
+(ii) Equipment and tools must be permanently available, except in the case of any tool or equipment that is so infrequently used that its permanent availability is not necessary. Such cases shall be detailed in an exposition procedure.
+
+(iii) An organisation approved for base maintenance shall have sufficient aircraft access equipment and inspection platforms/docking as required for the proper inspection of the aircraft.
+
+(b) The organisation shall ensure that all tools, equipment and particularly test equipment, as appropriate, are controlled and calibrated according to an officially recognised standard at a frequency to ensure serviceability and accuracy. Records of such calibrations and traceability to the standard used shall be kept by the organisation.
+
+**145.A.42 Components**
+
+(a) Classification of components. All components shall be classified into the following categories:
+
+(i) Components which are in a satisfactory condition, released on an EASA Form 1 or equivalent and marked in accordance with Subpart Q of Annex I (Part 21) or, as applicable, Subpart Q of Section A of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, unless otherwise specified in point 21.A.307 of Annex I (Part 21) or point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, in point M.A.502 of Annex I (Part-M), in point ML.A.502 of Annex III (Part-ML), or in this Annex (Part-145).
+
+(ii) Unserviceable components which shall be maintained in accordance with this Regulation.
+
+(iii) Components categorised as unsalvageable because they have reached their mandatory life limitation or contain a non-repairable defect.
+
+(iv) Standard parts used on an aircraft, engine, propeller or other aircraft component when specified in the maintenance data and accompanied by evidence of conformity traceable to the applicable standard.
+
+(v) Material, both raw and consumable, used in the course of maintenance when the organisation is satisfied that the material meets the required specification and has appropriate traceability. All material shall be accompanied by documentation clearly relating to the particular material and containing a conformity to specification statement as well as the manufacturing and supplier source.
+
+(b) Components, standard parts and materials for installation
+
+(i) The organisation shall establish procedures for the acceptance of components, standard parts and materials for installation to ensure that components, standard parts and materials are in satisfactory condition and meet the applicable requirements of point (a).
+
+(ii) The organisation shall establish procedures to ensure that components, standard parts and materials shall only be installed on an aircraft or a component when they are in satisfactory condition, meet the applicable requirements of point (a) and the applicable maintenance data specifies the particular component, standard part or material.
+
+(iii) The organisation may fabricate a restricted range of parts to be used in the course of undergoing work within its own facilities, provided procedures are identified in the exposition.
+
+(iv) Components which are referred to in point (b)(2) of point 21.A.307 of Annex I (Part 21) or in point (b)(2) of point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 shall only be installed if considered eligible for installation by the aircraft owner on their own aircraft.
+
+(c) Segregation of components
+
+(i) Unserviceable and unsalvageable components shall be segregated from serviceable components, standards parts and materials.
+
+(ii) Unsalvageable components shall not be permitted to re-enter the component supply system, unless mandatory life limitation have been extended or a repair solution has been approved in accordance with Regulation (EU) No 748/2012.
+
+**145.A.45 Maintenance data**
+
+(a) The organisation shall hold and use applicable current maintenance data which is necessary in the performance of maintenance, including modifications and repairs. ‘Applicable’ means relevant to any aircraft, component or process specified in the organisation’s terms of approval and in any associated capability list.
+
+In the case of maintenance data provided by the person or organisation requesting the maintenance, the organisation shall hold such data when the work is in progress, with the exception of the need to comply with point 145.A.55(a)(3).
+
+(b) Applicable maintenance data is the data specified in point M.A.401(b) of Annex I (Part-M) or in point ML.A.401(b) of Annex Vb (Part-ML), as applicable.
+
+(c) The organisation shall establish procedures to ensure that if inaccurate, incomplete or ambiguous procedure, practice, information or maintenance instruction is found in the maintenance data used by maintenance personnel, it is recorded as part of the internal safety reporting scheme referred to in point 145.A.202 and notified to the author of the maintenance data.
+
+(d) The organisation may only modify maintenance instructions in accordance with a procedure that is specified in the MOE. With respect to changes to maintenance instructions, the organisation shall demonstrate that they result in equivalent or improved maintenance standards, and shall inform the author of the maintenance instructions of such changes. For the purposes of this point, ‘maintenance instructions’ mean instructions on how to carry out a particular maintenance task; they exclude the engineering design of repairs and modifications.
+
+(e) The organisation shall provide a common work card or worksheet system to be used throughout the relevant parts of the organisation. In addition, the organisation shall either accurately transcribe the maintenance data referred to in points (b) and (d) onto such work cards or worksheets, or make precise reference to the particular maintenance task or tasks contained in that maintenance data. Work cards and worksheets may be computer generated and held in an electronic database that is adequately protected against unauthorised alteration, and for which there is a backup electronic database which shall be updated within 24 hours after an entry is made to the main electronic database. Complex or long maintenance tasks shall be transcribed onto the work cards or worksheets and subdivided into clear stages to ensure that there is a record of the accomplishment of the complete maintenance task.
+
+When the organisation provides maintenance services to an aircraft operator which requires its own work card or worksheet system to be used, then such work card or worksheet system may be used. In that case, the organisation shall establish a procedure to ensure that those work cards or worksheets are correctly completed.
+
+(f) The organisation shall ensure that all applicable maintenance data is readily available for use when required by maintenance personnel.
+
+(g) The organisation shall establish a procedure to ensure that maintenance data it controls is kept up to date. In the case of operator/customer controlled and provided maintenance data, the organisation shall be able to show that either it has written confirmation from the operator/customer that all such maintenance data is up to date or it has work orders specifying the amendment status of the maintenance data to be used or it can show that it is on the operator/customer maintenance data amendment list.
+
+**145.A.47 Production planning**
+
+(a) The organisation shall have a system appropriate to the amount and complexity of work to plan the availability of all necessary personnel, tools, equipment, material, maintenance data and facilities in order to ensure the safe completion of the maintenance work.
+
+(b) As part of the management system, the planning of maintenance tasks, and the organising of shifts, shall take into account human performance limitations, including the threat of fatigue for maintenance personnel.
+
+(c) When it is required to hand over the continuation or completion of maintenance tasks for reasons of a shift or personnel changeover, relevant information shall be adequately communicated between outgoing and incoming personnel.
+
+(d) The organisation shall ensure that aviation safety hazards associated with external working teams carrying out maintenance at the organisation’s facilities are considered by the organisation’s management system.
+
+**145.A.48 Performance of maintenance**
+
+(a) The organisation may only carry out maintenance on an aircraft or component for which it is approved when all the necessary facilities, equipment, tooling, material, maintenance data and personnel are available.
+
+(b) The organisation shall be responsible for the maintenance that is performed within the scope of its approval.
+
+(c) The organisation shall ensure that:
+
+(1) after the completion of the maintenance, a general verification is carried out to ensure that the aircraft or component is clear of all tools, equipment and any extraneous parts or material, and that all access panels that were removed have been refitted;
+
+(2) an error-capturing method is implemented after the performance of any critical maintenance task;
+
+(3) the risk of errors during maintenance and the risk of errors being repeated in identical maintenance tasks are minimised;
+
+(4) damage is assessed, and modifications and repairs are carried out using the data specified in point M.A.304 of Annex I (Part-M) or point ML.A.304 of Annex Vb (Part-ML), as applicable;
+
+(5) the assessment of aircraft defects is carried out in accordance with point M.A.403(b) of Annex I (Part-M) or ML.A.403(b) of Annex Vb (Part-ML), as applicable.
+
+**145.A.50 Certification of maintenance**
+
+(a) A certificate of release to service shall be issued by appropriately authorised certifying staff on behalf of the organisation when that certifying staff has verified that all the maintenance that was ordered has been properly carried out by the organisation in accordance with the procedures specified in point 145.A.70, taking into account the availability and use of the maintenance data specified in point 145.A.45, and that there are no known non-compliances which endanger flight safety.
+
+(b) A certificate of release to service shall be issued before flight at the completion of any maintenance.
+
+(c) New defects or incomplete maintenance work orders identified during the maintenance shall be brought to the attention of the person or organisation responsible for the aircraft continuing airworthiness for the specific purpose of obtaining agreement to rectify such defects or completing the missing elements of the maintenance work order. In the case where that person or organisation declines to have such maintenance carried out under this point, point (e) is applicable.
+
+(d) A certificate of release to service shall be issued by appropriately authorised certifying staff on behalf of the organisation after the maintenance that was ordered has been carried out on a component whilst it was off the aircraft. The authorised release certificate ‘EASA Form 1’ referred to in Appendix II of Annex I (Part-M) constitutes the component certificate of release to service except if otherwise specified in point M.A.502 of Annex I (Part-M) or ML.A.502 of Annex Vb (Part-ML), as applicable. When an organisation maintains a component for its own use, the EASA Form 1 may not be necessary if the organisation’s internal release procedures in its MOE so provides.
+
+(e) By derogation to point (a), when the organisation is unable to complete all maintenance ordered, it may issue a certificate of release to service within the approved aircraft limitations. The organisation shall enter such fact in the aircraft certificate of release to service before the issue of such certificate.
+
+(f) By way of derogation from point 145.A.50(a) and point 145.A.42, when an aircraft is grounded at a location other than the main line station or main maintenance base due to the non-availability of a component with the appropriate release certificate, the organisation contracted for the maintenance of that aircraft may temporarily fit a component without the appropriate release certificate for a maximum of 30 flight hours or until the aircraft first returns to the main line station or main maintenance base, whichever is the sooner, subject to the agreement of the person or organisation responsible for the aircraft’s continuing airworthiness and subject to that component having a suitable release certificate but otherwise in compliance with all applicable maintenance and operational requirements. Such components shall be removed by the time limit provided for in the first sentence of this point unless an appropriate release certificate has been obtained in the meantime under points 145.A.50(a) and 145.A.42.
+
+**145.A.55 Record-keeping**
+
+(a) Maintenance records
+
+(1) The organisation shall record the details of the maintenance work that is carried out within the scope of its approval. As a minimum, the organisation shall retain all the records that are necessary to prove that all the requirements have been met for the issue of the certificate of release to service, including, if any, subcontractor's release documents.
+
+(2) The organisation shall provide a copy of each certificate of release to service to the operator or customer, together with copies of the detailed maintenance records that are associated with the work carried out and that are necessary to demonstrate compliance with point M.A.305 of Annex I (Part-M) or ML.A.305 of Annex Vb (Part-ML), as applicable.
+
+(3) The organisation shall retain a copy of all detailed maintenance records (including certificates of release to service) and of any associated maintenance data for 3 years from the date when the aircraft or component to which the work relates was issued with a certificate of release to service.
+
+(4) If an organisation terminates its operation, it shall transfer all the retained maintenance records that cover the last 3 years to the last customer or owner of the respective aircraft or component, or shall store them in the manner specified by the competent authority.
+
+(b) Airworthiness review records
+
+(1) If an organisation has the privilege referred to in point 145.A.75(f), it shall retain a copy of each airworthiness review certificate that it has issued, together with all the supporting documents, and shall make those records available, upon request, to the owner of the aircraft.
+
+(2) The organisation shall retain a copy of all the records referred to in point (1) for 3 years after the issue of the airworthiness review certificate.
+
+(3) If an organisation terminates its operation, it shall transfer all the retained airworthiness review records that cover the last 3 years to the last owner or operator of the respective aircraft, or shall store them in the manner specified by the competent authority.
+
+(c) Management system, contracting and subcontracting records
+
+The organisation shall ensure that the following records are retained for a minimum period of 5 years:
+
+(i) records of management system key processes referred to in point 145.A.200;
+
+(ii) contracts, both for contracting and subcontracting, referred to in point 145.A.205.
+
+(d) Personnel records
+
+(1) The organisation shall ensure that the following records are retained:
+
+(i) records of the qualifications, training and experience of the personnel involved in maintenance, compliance monitoring and safety management;
+
+(ii) records of the qualifications, training and experience of all airworthiness review staff.
+
+(2) The records of all airworthiness review staff shall include details of any appropriate qualifications held, together with a summary of their relevant continuing airworthiness experience and training, and a copy of the airworthiness review authorisation issued to that staff by the organisation.
+
+(3) The records of all the certifying staff and support staff shall include the following:
+
+(i) the details of any aircraft maintenance licence held under Annex III (Part-66) or equivalent;
+
+(ii) the scope of the certification authorisations that were issued to that staff, where relevant;
+
+(iii) the particulars of the staff that held limited or one-off certification authorisations referred to in point 145.A.30(j).
+
+(4) Personnel records shall be kept for as long as a person works for the organisation, and shall be retained for at least 3 years after the person has left the organisation, or after an authorisation issued to that person has been withdrawn.
+
+(5) The organisation shall give to the staff referred to in points (2) and (3), upon their request, access to their personnel records as detailed in those points. In addition, upon their request, the maintenance organisation shall furnish each of them with a copy of their personnel records on leaving the organisation.
+
+(e) The organisation shall establish a record-keeping system that allows adequate storage and reliable traceability of all its activities.
+
+(f) The format of the records shall be specified in the organisation’s procedures.
+
+(g) The records shall be stored in a manner that ensures that they are protected from damage, alteration and theft.
+
+**145.A.60 Occurrence reporting**
+
+(a) As part of its management system, the organisation shall establish and maintain an occurrence-reporting system, including mandatory and voluntary reporting. For organisations that have their principal place of business in a Member State, a single system may be established to meet the requirements of Regulation (EU) No 376/2014 and its implementing acts and of Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) The organisation shall report to its competent authority and to the organisation responsible for the design of the aircraft or component:
+
+(i) any safety-related event or condition of an aircraft or component identified by the organisation which endangers or, if not corrected or addressed, could endanger an aircraft, its occupants or any other person; and
+
+(ii) in particular any accident or serious incident.
+
+(c) The organisation shall also report any such event or condition that affects an aircraft to the person or organisation that is responsible for the continuing airworthiness of that aircraft in accordance with point M.A.201 of Annex I (Part-M) or point ML.A.201 Annex Vb (Part-ML), as applicable. For events or conditions that affect aircraft components, the organisation shall report to the person or organisation that requested the maintenance.
+
+(d) For organisations that do not have their principal place of business in a Member State:
+
+(1) the initial mandatory reports shall:
+
+(i) appropriately safeguard the confidentiality of the identity of the reporter and of the persons mentioned in the report;
+
+(ii) be made as soon as practicable, but in any case within 72 hours after the organisation has become aware of the occurrence unless exceptional circumstances prevent this;
+
+(iii) be made in a form and manner established by the competent authority;
+
+(iv) contain all pertinent information about the condition known to the organisation;
+
+(2) where relevant, a follow-up report that provides details of the actions the organisation intends to take to prevent similar occurrences in the future shall be made as soon as those actions have been identified; those follow-up reports shall:
+
+(i) be sent to the entities referred to in points (b) and (c) to which the initial report was sent;
+
+(ii) be made in a form and manner established by the competent authority.
+
+**145.A.65 Maintenance procedures**
+
+(a) The organisation shall establish procedures which ensure that human factors and good maintenance practices are taken into account during maintenance, including subcontracted activities, and which comply with the applicable requirements of this Annex, Annex I (Part-M) and Annex Vb (Part-ML). Such procedures shall be agreed with the competent authority.
+
+(b) The maintenance procedures established under this point shall:
+
+(1) ensure that a clear maintenance work order or contract has been agreed between the organisation and the person or organisation that requests the maintenance, to clearly establish the maintenance to be carried out so that the aircraft and components may be released to service in accordance with point 145.A.50;
+
+(2) cover all the aspects of carrying out the maintenance, including the provision and control of specialised services, and lay down the standards according to which the organisation intends to work.
+
+**145.A.70 Maintenance organisation exposition (MOE)**
+
+(a) The organisation shall establish and maintain a maintenance organisation exposition (MOE) that includes, directly or by reference, all of the following:
+
+(1) a statement signed by the accountable manager confirming that the maintenance organisation will at all times work in accordance with this Annex, Annex I (Part-M) and Annex Vb (Part-ML), as applicable, and with the approved MOE. If the accountable manager is not the chief executive officer of the organisation, then the chief executive officer shall countersign the statement;
+
+(2) the organisation’s safety policy and the related safety objectives referred to in point 145.A.200(a)(2);
+
+(3) the title(s) and name(s) of the person(s) nominated under points 145.A.30(b), (c) and (ca);
+
+(4) the duties and responsibilities of the persons nominated under points 145.A.30(b), (c) and (ca), including the matters on which they may deal directly with the competent authority on behalf of the organisation;
+
+(5) an organisation chart showing the accountability and associated lines of responsibility, established in accordance with point 145.A.200(a)(1), between all the persons referred to in points 145.A.30(a), (b), (c) and (ca);
+
+(6) a list of the certifying staff and, if applicable, support staff and airworthiness review staff with their scope of authorisation;
+
+(7) a general description of the manpower resources and of the system that is in place to plan the availability of staff, as required by point 145.A.30(d);
+
+(8) a general description of the facilities at each approved location;
+
+(9) a specification of the scope of work of the organisation that is relevant to the terms of approval as required by point 145.A.20;
+
+(10) the procedure that sets out the scope of changes not requiring prior approval and that describes how such changes will be managed and notified to the competent authority, as required by point 145.A.85(c);
+
+(11) the procedure for amending the MOE;
+
+(12) the procedures specifying how the organisation ensures compliance with this Annex;
+
+(13) a list of the commercial operators to which the organisation provides regular aircraft maintenance services, and the associated procedures;
+
+(14) where applicable, a list of the subcontracted organisations referred to in point 145.A.75(b);
+
+(15) a list of the approved locations including, where applicable, line maintenance locations referred to in point 145.A.75(d);
+
+(16) a list of the contracted organisations;
+
+(17) a list of the currently approved alternative means of compliance used by the organisation.
+
+(b) The initial issue of the MOE shall be approved by the competent authority. It shall be amended as necessary so that it remains an up-to-date description of the organisation.
+
+(c) Amendments to the MOE shall be managed as set out in the procedures referred to in points (a)(10) and (a)(11). Any amendments that are not included in the scope of the procedure referred to in point (a)(10), as well as any amendments related to the changes listed in point 145.A.85(a), shall be approved by the competent authority.
+
+**145.A.75 Privileges of the organisation**
+
+In accordance with the MOE, the organisation shall be entitled to carry out the following tasks:
+
+(a) Maintain any aircraft or component for which it is approved at the locations identified in the certificate and in the MOE;
+
+(b) Arrange for the maintenance of any aircraft or component for which it is approved at another subcontracted organisation that works under the management system of the organisation. This is limited to the work permitted under the procedures established in accordance with point 145.A.65 and it shall not include a base maintenance check of an aircraft, or a complete workshop maintenance check or overhaul of an engine or an engine module;
+
+(c) Maintain any aircraft or any component for which it is approved at any location subject to the need for such maintenance arising either from the unserviceability of the aircraft or from the necessity of supporting occasional line maintenance, subject to the conditions specified in the exposition;
+
+(d) Maintain any aircraft and/or component for which it is approved at a location identified as a line maintenance location capable of supporting minor maintenance and only if the organisation exposition both permits such activity and lists such locations;
+
+(e) Issue certificates of release to service in respect of completion of maintenance in accordance with point 145.A.50;
+
+(f) If specifically approved to do so for aircraft covered by Annex Vb (Part-ML) and if it has its principal place of business in one of the Member States, the organisation may perform airworthiness reviews and issue the corresponding airworthiness review certificates under the conditions specified in point ML.A.903 of Annex Vb (Part-ML).
+
+**145.A.85 Changes to the organisation**
+
+(a) The following changes to the organisation shall require prior approval by the competent authority:
+
+(1) changes to the certificate, including the terms of approval of the organisation;
+
+(2) changes of the persons referred to in points 145.A.30(a), (b), (c) and (ca);
+
+(3) changes to the reporting lines between the personnel nominated in accordance with points 145.A.30(b), (c) and (ca), and the accountable manager;
+
+(4) the procedure as regards changes not requiring prior approval referred to in point (c);
+
+(5) additional locations of the organisation other than those that are subject to point 145.A.75(c).
+
+(b) For the changes referred to in point (a) and for all other changes requiring prior approval in accordance with this Annex, the organisation shall apply for and obtain an approval issued by the competent authority. The application shall be submitted before such changes take place in order to enable the competent authority to determine that there is continued compliance with this Annex and to amend, if necessary, the organisation certificate and the related terms of approval that are attached to it.
+
+The organisation shall provide the competent authority with any relevant documentation.
+
+The change shall only be implemented upon the receipt of a formal approval from the competent authority in accordance with point 145.B.330.
+
+The organisation shall operate under the conditions prescribed by the competent authority during such changes, as applicable.
+
+(c) All changes not requiring prior approval shall be managed and notified to the competent authority as set out in a procedure which is approved by the competent authority in accordance with point 145.B.310(h).
+
+**145.A.90 Continued validity**
+
+(a) The organisation’s certificate shall remain valid, subject to compliance with all of the following conditions:
+
+(1) the organisation remaining in compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts, taking into account the provisions of point 145.B.350 of this Annex related to the handling of findings;
+
+(2) the competent authority being granted access to the organisation as specified in point 145.A.140;
+
+(3) the certificate not being surrendered by the organisation, or suspended or revoked by the competent authority under point 145.B.355.
+
+(b) Upon surrender or revocation, the certificate shall be returned to the competent authority without delay.
+
+**145.A.95 Findings and observations**
+
+(a) After the receipt of a notification of findings in accordance with point 145.B.350, the organisation shall:
+
+(1) identify the root cause(s) of, and contributing factor(s) to, the non-compliance;
+
+(2) define a corrective action plan;
+
+(3) demonstrate the implementation of corrective action to the satisfaction of the competent authority.
+
+(b) The actions referred to in point (a) shall be performed within the period agreed with that competent authority in accordance with point 145.B.350.
+
+(c) The observations received in accordance with point 145.B.350(f) shall be given due consideration by the organisation. The organisation shall record the decisions taken in respect of those observations.
+
+**145.A.120 Means of compliance**
+
+(a) An organisation may use any alternative means of compliance to establish compliance with this Regulation.
+
+(b) If an organisation wishes to use an alternative means of compliance, it shall, prior to using it, provide the competent authority with a full description. The description shall include any revisions to manuals or procedures that may be relevant, as well as an explanation indicating how compliance with this Regulation is achieved.
+
+The organisation may use those alternative means of compliance subject to prior approval from the competent authority.
+
+**145.A.140 Access**
+
+For the purpose of determining compliance with the relevant requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, the organisation shall ensure that access to any facility, aircraft, document, records, data, procedures or to any other material relevant to its activity subject to certification, whether it is subcontracted or not, is granted to any person authorised by one of the following authorities:
+
+(a) the competent authority defined in point 145.1;
+
+(b) the authority performing the oversight tasks in accordance with point 145.B.300(d).
+
+**145.A.155 Immediate reaction to a safety problem**
+
+The organisation shall implement:
+
+(a) any safety measures mandated by the competent authority in accordance with point 145.B.135;
+
+(b) any relevant mandatory safety information issued by the Agency.
+
+**145.A.200 Management system**
+
+(a) The organisation shall establish, implement and maintain a management system that includes:
+
+(1) clearly defined accountability and lines of responsibility throughout the organisation, including a direct safety accountability of the accountable manager;
+
+(2) a description of the overall philosophies and principles of the organisation with regard to safety (‘the safety policy’), and the related safety objectives;
+
+(3) the identification of aviation safety hazards entailed by the activities of the organisation, their evaluation and the management of the associated risks, including taking actions to mitigate the risks and verify their effectiveness;
+
+(4) maintaining personnel trained and competent to perform their tasks;
+
+(5) documentation of all management system key processes, including a process for making personnel aware of their responsibilities and the procedure for amending that documentation;
+
+(6) a function to monitor the compliance of the organisation with the relevant requirements. Compliance monitoring shall include a feedback system of findings to the accountable manager to ensure the effective implementation of corrective actions as necessary.
+
+(b) The management system shall correspond to the size of the organisation and the nature and complexity of its activities, taking into account the hazards and the associated risks inherent in those activities.
+
+(c) If the organisation holds one or more additional organisation certificates within the scope of Regulation (EU) 2018/1139, the management system may be integrated with that required under the additional certificate(s) held.
+
+**145.A.200A Information security management system**
+
+In addition to the management system referred to in point 145.A.200, the maintenance organisation shall establish, implement and maintain an information security management system in accordance with Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+**145.A.202 Internal safety reporting scheme**
+
+(a) As part of its management system, the organisation shall establish an internal safety reporting scheme to enable the collection and evaluation of such occurrences that are to be reported under point 145.A.60.
+
+(b) The scheme shall also enable the collection and evaluation of those errors, near misses and hazards reported internally that do not fall under point (a).
+
+(c) Through that scheme, the organisation shall:
+
+(1) identify the causes of, and contributing factors to, the errors, near misses and hazards reported, and address them as part of its safety risk management process in accordance with point 145.A.200(a)(3);
+
+(2) ensure an evaluation of all known, relevant information relating to errors, near misses, hazards and the inability to follow procedures, and a method to circulate the information as necessary.
+
+(d) The organisation shall make arrangements to ensure the collection of safety issues related to subcontracted activities.
+
+**145.A.205 Contracting and subcontracting**
+
+(a) The organisation shall ensure that when contracting or subcontracting any part of its maintenance activities:
+
+(1) the maintenance conforms to the applicable requirements;
+
+(2) any aviation safety hazard associated with such contracting or subcontracting is considered as part of the organisation’s management system.
+
+(b) If the organisation subcontracts any part of its maintenance activities to another organisation, the subcontracted organisation shall work under the scope of approval of the subcontracting organisation.
+
+**SECTION B**
+
+**AUTHORITY REQUIREMENTS**
+
+**145.B.005 Scope**
+
+This section establishes the conditions for conducting the certification, oversight and enforcement tasks as well as the administrative and management system requirements to be followed by the competent authority that is responsible for the implementation and enforcement of Section A.
+
+**145.B.115 Oversight documentation**
+
+The competent authority shall provide all the legislative acts, standards, rules, technical publications, and related documents to the relevant personnel in order to allow them to perform their tasks and to discharge their responsibilities.
+
+**145.B.120 Means of compliance**
+
+(a) The Agency shall develop acceptable means of compliance (‘AMC’) that may be used to establish compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) Alternative means of compliance may be used to establish compliance with this Regulation.
+
+(c) Competent authorities shall inform the Agency of any alternative means of compliance used by organisations under their oversight or by themselves for establishing compliance with this Regulation.
+
+**145.B.125 Information to the Agency**
+
+(a) The competent authority of the Member State shall notify the Agency in case of any significant problems with the implementation of Regulation (EU) 2018/1139 and its delegated and implementing acts within 30 days from the time the authority became aware of the problems.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the competent authority shall provide the Agency as soon as possible with any safety-significant information stemming from the occurrence reports stored in the national database pursuant to Article 6(6) of Regulation (EU) No 376/2014.
+
+(c) The competent authority of the Member State shall provide the Agency as soon as possible with safety-significant information stemming from the information security reports it has received pursuant to point IS.I.OR.230 of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203.
+
+**145.B.135 Immediate reaction to a safety problem**
+
+(a) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the competent authority shall implement a system to appropriately collect, analyse and disseminate safety information.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety information received and, without undue delay, provide the relevant authority of the Member States and the Commission with any information, including recommendations or corrective actions to be taken, that is necessary for them to react in a timely manner to a safety problem involving products, parts, appliances, persons or organisations that are subject to Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority shall take adequate measures to address the safety problem.
+
+(d) The competent authority shall immediately notify measures taken under point (c) to all persons or organisations which need to comply with them under Regulation (EU) 2018/1139 and its delegated and implementing acts. The competent authority shall also notify those measures to the Agency and, when combined action is required, to the other Member States concerned.
+
+**145.B.135A Immediate reaction to an information security incident or vulnerability with an impact on aviation safety**
+
+(a) The competent authority shall implement a system to appropriately collect, analyse, and disseminate information related to information security incidents and vulnerabilities with a potential impact on aviation safety that are reported by organisations. This shall be done in coordination with any other relevant authorities responsible for information security or cybersecurity within the Member State to increase the coordination and compatibility of reporting schemes.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety-significant information received in accordance with point 145.B.125(c), and without undue delay provide the Member States and the Commission with any information, including recommendations or corrective actions to be taken, necessary for them to react in a timely manner to an information security incident or vulnerability with a potential impact on aviation safety involving products, parts, non-installed equipment, persons or organisations subject to Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority shall take adequate measures to address the potential impact on aviation safety of the information security incident or vulnerability.
+
+(d) Measures taken in accordance with point (c) shall immediately be notified to all persons or organisations that shall comply with them under Regulation (EU) 2018/1139 and its delegated and implementing acts. The competent authority of the Member State shall also notify those measures to the Agency and, when combined action is required, the competent authorities of the other Member States concerned.
+
+**145.B.200 Management system**
+
+(a) The competent authority shall establish and maintain a management system, including as a minimum:
+
+(1) documented policies and procedures to describe its organisation, the means and methods for establishing compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts. The procedures shall be kept up to date, and serve as the basic working documents within that competent authority for all its related tasks;
+
+(2) a sufficient number of personnel to perform its tasks and discharge its responsibilities. A system shall be in place to plan the availability of personnel in order to ensure the proper completion of all tasks;
+
+(3) personnel that are qualified to perform their allocated tasks and that have the necessary knowledge and experience and receive initial and recurrent training to ensure continuing competency;
+
+(4) adequate facilities and office accommodation for personnel to perform their allocated tasks;
+
+(5) a function to monitor the compliance of the management system with the relevant requirements, and the adequacy of the procedures, including the establishment of an internal audit process and a safety risk management process. Compliance monitoring shall include a feedback system of audit findings to the senior management of the competent authority to ensure the implementation of corrective actions as necessary;
+
+(6) a person or group of persons having a responsibility to the senior management of the competent authority for the compliance monitoring function.
+
+(b) The competent authority shall, for each field of activity, including the management system, appoint one or more persons with the overall responsibility for the management of the relevant task(s).
+
+(c) The competent authority shall establish procedures for the participation in a mutual exchange of all necessary information and assistance with any other competent authorities concerned, whether from the same Member State or from other Member States, including on:
+
+(1) all findings raised and any follow-up actions taken as a result of the oversight of persons and organisations that carry out activities in the territory of a Member State, but certified by the competent authority of another Member State or by the Agency;
+
+(2) information stemming from mandatory and voluntary occurrence reporting as required by 145.A.60.
+
+(d) A copy of the procedures related to the management system and their amendments shall be made available to the Agency for the purpose of standardisation.
+
+(e) In addition to the requirements contained in point (a), the management system established and maintained by the competent authority shall comply with Annex I (Part-IS.AR) to Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+**145.B.205 Allocation of tasks**
+
+(a) The competent authority may allocate tasks related to the initial certification or to the continuing oversight of organisations subject to Regulation (EU) 2018/1139 and its delegated and implementing acts, to qualified entities. When allocating tasks, the competent authority shall ensure that it has:
+
+(1) put a system in place to initially and continuously assess whether the qualified entity complies with Annex VI to Regulation (EU) 2018/1139. That system and the results of the assessments shall be documented;
+
+(2) established a written agreement with the qualified entity, approved by both parties at the appropriate management level, which stipulates:
+
+(i) the tasks to be performed;
+
+(ii) the declarations, reports and records to be provided;
+
+(iii) the technical conditions to be met when performing such tasks;
+
+(iv) the related liability coverage;
+
+(v) the protection given to the information acquired when carrying out such tasks.
+
+(b) The competent authority shall ensure that the internal audit process and safety risk management process established pursuant to point 145.B.200(a)(5) cover all the certification and continuing oversight tasks performed by the qualified entity on its behalf.
+
+(c) For the certification and oversight of the organisation’s compliance with point 145.A.200A, the competent authority may allocate tasks to qualified entities in accordance with point (a), or to any relevant authority responsible for information security or cybersecurity within the Member State. When allocating tasks, the competent authority shall ensure that:
+
+(1) all aspects related to aviation safety are coordinated and taken into account by the qualified entity or relevant authority;
+
+(2) the results of the certification and oversight activities performed by the qualified entity or relevant authority are integrated in the overall certification and oversight files of the organisation;
+
+(3) its own information security management system established in accordance with point 145.B.200(e) covers all the certification and continuing oversight tasks performed on its behalf.
+
+**145.B.210 Changes in the management system**
+
+(a) The competent authority shall have a system in place to identify the changes that affect its capability to perform its tasks and discharge its responsibilities as defined in Regulation (EU) 2018/1139 and its delegated and implementing acts. That system shall enable the competent authority to take action necessary to ensure that its management system remains adequate and effective.
+
+(b) The competent authority shall update in a timely manner its management system to reflect any changes to Regulation (EU) 2018/1139 and its delegated and implementing acts so as to ensure its effective implementation.
+
+(c) The competent authority shall notify the Agency of any changes affecting its capability to perform its tasks and discharge its responsibilities as provided for in Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+**145.B.220 Record-keeping**
+
+(a) The competent authority shall establish a record-keeping system that allows the adequate storage, accessibility and reliable traceability of:
+
+(1) the management system’s documented policies and procedures;
+
+(2) the training, qualifications and authorisations of its personnel;
+
+(3) the allocation of tasks, covering the elements required by point 145.B.205, as well as the details of tasks allocated;
+
+(4) certification processes and continuing oversight of certified organisations, including:
+
+(i) the application for an organisation certificate;
+
+(ii) the competent authority’s continuing oversight programme, including all the assessments, audits and inspection records;
+
+(iii) the organisation certificate, including any changes to it;
+
+(iv) a copy of the oversight programme, listing the dates when audits are due and when audits were carried out;
+
+(v) copies of all formal correspondence;
+
+(vi) recommendations for the issue or continuation of a certificate, details of findings and actions taken by the organisations to close those findings, including the date of closure, enforcement actions and observations;
+
+(vii) any assessment, audit and inspection report issued by another competent authority pursuant to point 145.B.300(d);
+
+(viii) copies of all the organisation MOEs or manuals, and of any amendments to them;
+
+(ix) copies of any other documents approved by the competent authority;
+
+(5) documents supporting the use of alternative means of compliance;
+
+(6) safety information provided in accordance with point 145.B.125 and follow-up measures;
+
+(7) the use of safeguard and flexibility provisions in accordance with Article 70, Article 71(1) and Article 76(4) of Regulation (EU) 2018/1139.
+
+(b) The competent authority shall maintain a list of all the organisation certificates it has issued.
+
+(c) All the records referred to in points (a) and (b) shall be kept for a minimum period of 5 years, subject to applicable data protection law.
+
+(d) All the records referred to in points (a) and (b) shall be made available, upon request, to a competent authority of another Member State or to the Agency.
+
+**145.B.300 Oversight principles**
+
+(a) The competent authority shall verify:
+
+(1) compliance with the requirements that are applicable to organisations, prior to issuing an organisation certificate;
+
+(2) continued compliance with the applicable requirements of the organisations it has certified;
+
+(3) the implementation of appropriate safety measures mandated by the competent authority in accordance with points 145.B.135(c) and (d).
+
+(b) This verification shall:
+
+(1) be supported by documentation specifically intended to provide personnel responsible for oversight with guidance to perform their functions;
+
+(2) provide the organisations concerned with the results of oversight activities;
+
+(3) be based on assessments, audits and inspections and, if needed, unannounced inspections;
+
+(4) provide the competent authority with the evidence needed in case further action is required, including the measures provided for in point 145.B.350.
+
+(c) The competent authority shall establish the scope of the oversight set out in points (a) and (b) taking into account the results of past oversight activities and the safety priorities.
+
+(d) If the facilities of an organisation are located in more than one State, the competent authority, as defined in point 145.1, may agree to have the oversight tasks performed by the competent authority(ies) of the Member State(s) where the facilities are located, or by the Agency for facilities that are located outside a territory for which Member States are responsible under the Chicago Convention. Any organisation that is subject to such an agreement shall be informed of its existence and of its scope.
+
+(e) For any oversight activities that are performed at facilities located in a Member State other than where the organisation has its principal place of business, the competent authority, as defined in point 145.1, shall inform the competent authority of that Member State before performing any on-site audit or inspection of the facilities.
+
+(f) The competent authority shall collect and process any information deemed necessary for performing oversight activities.
+
+(g) With regard to the certification and oversight of the organisation’s compliance with point 145.A.200A, in addition to complying with points (a) to (f) of this point, the competent authority shall review any approval granted under point IS.I.OR.200(e) of Annex II to Implementing Regulation (EU) 2023/203 following the applicable oversight audit cycle and whenever changes are implemented in the scope of work of the organisation.
+
+**145.B.305 Oversight programme**
+
+(a) The competent authority shall establish and maintain an oversight programme covering the oversight activities required by point 145.B.300.
+
+(b) The oversight programme shall take into account the specific nature of the organisation, the complexity of its activities, the results of past certification or oversight activities, or both, and it shall be based on the assessment of the associated risks. It shall include, within each oversight planning cycle:
+
+(1) assessments, audits and inspections, including, as appropriate:
+
+(i) management system assessments and process audits;
+
+(ii) product audits of a relevant sample of the maintenance carried out by the organisation;
+
+(iii) sampling of the airworthiness reviews performed;
+
+(iv) unannounced inspections;
+
+(2) meetings convened between the accountable manager and the competent authority to ensure that both parties remain informed of all significant issues.
+
+(c) The oversight planning cycle shall not exceed 24 months.
+
+(d) Notwithstanding point (c), the oversight planning cycle may be extended to 36 months if the competent authority has established that during the previous 24 months:
+
+(1) the organisation has demonstrated that it can effectively identify aviation safety hazards and manage the associated risks;
+
+(2) the organisation has continuously demonstrated compliance with point 145.A.85 and it has full control over all changes;
+
+(3) no level 1 findings have been issued;
+
+(4) all corrective actions have been implemented within the time period that was accepted or extended by the competent authority as provided for in point 145.B.350.
+
+Notwithstanding point (c), the oversight planning cycle may be further extended to a maximum of 48 months if, in addition to the conditions provided in points (d)(1) to (4), the organisation has established, and the competent authority has approved, an effective continuous system for reporting to the competent authority on the safety performance and regulatory compliance of the organisation itself.
+
+(e) The oversight planning cycle may be shortened if there is evidence that the safety performance of the organisation has decreased.
+
+(f) The oversight programme shall include records of the dates when assessments, audits, inspections and meetings are due, and when assessments, audits, inspections and meetings have been effectively carried out.
+
+(g) At the completion of each oversight planning cycle, the competent authority shall issue a recommendation report on the continuation of the approval, reflecting the results of the oversight.
+
+**145.B.310 Initial certification procedure**
+
+(a) Upon receiving an application from an organisation for the initial issue of a certificate, the competent authority shall verify the organisation’s compliance with the applicable requirements.
+
+(b) A meeting with the accountable manager of the organisation shall be convened at least once during the investigation for initial certification to ensure that that person understands his or her role and accountability.
+
+(c) The competent authority shall record all the findings issued, closure actions as well as the recommendations for the issue of the certificate.
+
+(d) The competent authority shall confirm to the organisation in writing all the findings raised during the verification. For initial certification, all findings must be corrected to the satisfaction of the competent authority before the certificate can be issued.
+
+(e) When satisfied that the organisation complies with the applicable requirements, the competent authority shall:
+
+(1) issue the certificate as established in Appendix III ‘EASA Form 3-145’ in accordance with the class and rating system provided for in Appendix II;
+
+(2) formally approve the MOE.
+
+(f) The certificate reference number shall be included on the EASA Form 3-145 certificate in a manner specified by the Agency.
+
+(g) The certificate shall be issued for an unlimited duration. The privileges and the scope of the activities that the organisation is approved to conduct, including any limitations as applicable, shall be specified in the terms of approval attached to the certificate.
+
+(h) To enable the organisation to implement changes without prior competent authority approval in accordance with point 145.A.85(c), the competent authority shall approve the relevant MOE procedure that sets out the scope of such changes and describes how such changes will be managed and notified to the competent authority.
+
+**145.B.330 Changes – organisations**
+
+(a) Upon receiving an application for a change that requires prior approval, the competent authority shall verify the organisation’s compliance with the applicable requirements before issuing the approval.
+
+(b) The competent authority shall establish the conditions under which the organisation may operate during the change unless the competent authority determines that the organisation’s certificate needs to be suspended.
+
+(c) When it is satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+(d) Without prejudice to any additional enforcement measures, if the organisation implements changes requiring prior approval without having received the approval of the competent authority pursuant to point (c), the competent authority shall consider the need to suspend, limit or revoke the organisation’s certificate.
+
+(e) For changes not requiring prior approval, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles set forth in point 145.B.300. If any non-compliance is found, the competent authority shall notify the organisation, request further changes, and act in accordance with point 145.B.350.
+
+**145.B.330A Changes to the information security management system**
+
+(a) For changes managed and notified to the competent authority in accordance with the procedure set out in point IS.I.OR.255(a) of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles laid down in point 145.B.300. If any non-compliance is found, the competent authority shall notify the organisation thereof, request further changes and act in accordance with point 145.B.350.
+
+(b) For other changes requiring an application for approval in accordance with point IS.I.OR.255(b) of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203:
+
+(1) upon receiving the application for the change, the competent authority shall check the organisation’s compliance with the applicable requirements before issuing the approval;
+
+(2) the competent authority shall establish the conditions under which the organisation may operate during the implementation of the change;
+
+(3) if it is satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+**145.B.350 Findings and corrective actions; observations**
+
+(a) The competent authority shall have a system in place to analyse findings for their safety significance.
+
+(b) A level 1 finding shall be issued by the competent authority when any significant non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation’s procedures and manuals, or with the organisation’s certificate including the terms of approval, which lowers safety or seriously endangers flight safety.
+
+Level 1 findings shall also include:
+
+(1) any failure to grant the competent authority access to the organisation’s facilities referred to in point 145.A.140 during normal operating hours and after two written requests;
+
+(2) obtaining the organisation certificate or maintaining its validity by falsification of the submitted documentary evidence;
+
+(3) any evidence of malpractice or fraudulent use of the organisation certificate;
+
+(4) the lack of an accountable manager.
+
+(c) A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation’s procedures and manuals, or with the organisation’s certificate including the terms of approval, which is not classified as a level 1 finding.
+
+(d) When a finding is detected during oversight or by any other means, the competent authority shall, without prejudice to any additional action required by Regulation (EU) 2018/1139 and its delegated and implementing acts, communicate in writing the finding to the organisation and request corrective action to address the non-compliance identified. If a level 1 finding directly relates to an aircraft, the competent authority shall inform the competent authority of the Member State in which the aircraft is registered.
+
+(1) If there are any level 1 findings, the competent authority shall take immediate and appropriate action to prohibit or limit the activities of the organisation involved and, if appropriate, it shall take action to revoke the certificate or to limit or suspend it in whole or in part, depending on the extent of the level 1 finding, until successful corrective action has been taken by the organisation.
+
+(2) If there are any level 2 findings, the competent authority shall:
+
+(i) grant the organisation a corrective action implementation period that is appropriate to the nature of the finding, and that in any case shall initially not be more than 3 months. The period shall commence from the date of the written communication of the finding to the organisation requesting corrective action to address the non-compliance identified. At the end of that period, and subject to the nature of the finding, the competent authority may extend the 3-month period provided that a corrective action plan has been agreed with the competent authority;
+
+(ii) assess the corrective action plan and implementation plan proposed by the organisation, and if the assessment concludes that they are sufficient to address the non-compliance, accept them.
+
+(3) If the organisation fails to submit an acceptable corrective action plan, or fails to perform the corrective action within the time period accepted or extended by the competent authority, the finding shall be raised to level 1 and action shall be taken as laid down in point (d)(1).
+
+(4) The competent authority shall record all the findings that it has raised or that have been communicated to it in accordance with point (e) and, where applicable, the enforcement measures it has applied, as well as all corrective actions and the dates of the action closures for all the findings.
+
+(e) Without prejudice to any additional enforcement measures, when an authority performing the oversight tasks pursuant to point 145.B.300(d) identifies any non-compliance with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts by an organisation certified by the competent authority of another Member State or the Agency, it shall inform that competent authority and provide an indication of the level of the finding.
+
+(f) The competent authority may issue observations for any of the following cases not requiring level 1 or level 2 findings:
+
+(1) for any item whose performance has been assessed to be ineffective;
+
+(2) when it has been identified that an item has the potential to cause a non-compliance under points (b) or (c);
+
+(3) when suggestions or improvements are of interest for the overall safety performance of the organisation.
+
+The observations issued under this point shall be communicated in writing to the organisation and recorded by the competent authority.
+
+**145.B.355 Suspension, limitation and revocation**
+
+The competent authority shall:
+
+(a) suspend a certificate when it considers that there are reasonable grounds that such action is necessary to prevent a credible threat to aircraft safety;
+
+(b) suspend, revoke or limit a certificate if such action is required pursuant to point 145.B.350;
+
+(c) suspend or limit in whole or in part a certificate if unforeseeable circumstances outside the control of the competent authority prevent its inspectors from discharging their oversight responsibilities over the oversight planning cycle.
+
+## Appendix I — Authorised Release Certificate — EASA Form 1
+
+The provisions of Appendix II to Annex I (Part-M) apply.
+
+## Appendix II
+
+**Class and rating system for the terms of approval of Part-145 maintenance organisations**
+
+(a) Except as stated otherwise for the smallest organisations referred to in point (m), the table referred to in point (l) provides the possible classes and ratings to be used to establish the terms of approval of the certificate of the organisation approved in accordance with Annex II (Part-145). An organisation must be granted terms of approval that range from a single class and rating with limitations to all classes and ratings with limitations.
+
+(b) In addition to the table in point (l), each maintenance organisation is required to indicate its scope of work in its MOE.
+
+(c) Within the approval class(es) and rating(s) established by the competent authority, the scope of work specified in the MOE defines the exact limits of its approval. It is therefore essential that the approval class(es) and rating(s) and the organisation’s scope of work match.
+
+(d) A category A class rating means that the maintenance organisation may carry out maintenance on aircraft and components (including engines and/or auxiliary power units (APUs)), in accordance with the aircraft maintenance data or, if agreed by the competent authority, in accordance with the component maintenance data, only while such components are fitted to the aircraft. Nevertheless, such an A-rated maintenance organisation may temporarily remove a component for maintenance in order to improve access to that component, except when its removal generates the need for additional maintenance that the organisation is not approved to perform. Such removal of component for maintenance by A-rated maintenance organisation shall be subject to an appropriate control procedure in the MOE.
+
+The limitation column must specify the scope of such maintenance, thereby indicating the extent of the approval.
+
+(e) Category A class ratings are subdivided into ‘Base’ or ‘Line’ maintenance categories. Such an organisation may be approved for either ‘Base’ or ‘Line’ maintenance, or both. It should be noted that a ‘Line’ facility located at a main base facility requires a ‘Line’ maintenance approval.
+
+(f) A category B class rating means that the maintenance organisation may carry out maintenance on uninstalled engines and/or APUs and engine and/or APU components, in accordance with the engine and/or APU maintenance data or, if agreed by the competent authority, in accordance with the component maintenance data, only while such components are fitted to the engine and/or the APU. Nevertheless, such a B-rated approved maintenance organisation may temporarily remove a component for maintenance in order to improve access to that component, except when its removal generates the need for additional maintenance that the organisation is not approved to perform.
+
+The limitation column must specify the scope of such maintenance, thereby indicating the extent of the approval.
+
+A maintenance organisation that is approved with a category B class rating may also carry out maintenance on an installed engine during aircraft base and line maintenance, provided that an appropriate control procedure in the MOE has been approved by the competent authority. The scope of work in the MOE shall reflect those activities if they are permitted by the competent authority.
+
+(g) A category C class rating means that the maintenance organisation may carry out maintenance on uninstalled components (excluding complete engines and APUs) that are intended to be fitted on the aircraft or the engine/APU.
+
+The limitation column must specify the scope of such maintenance, thereby indicating the extent of the approval.
+
+A maintenance organisation that is approved with a category C class rating may also carry out maintenance on an installed component (other than a complete engine/APU) during aircraft base and line maintenance, or at an engine/APU maintenance facility provided that an appropriate control procedure in the MOE has been approved by the competent authority. The scope of work in the MOE shall reflect those activities if they are permitted by the competent authority.
+
+(h) A category D class rating is a self-contained class rating that is not necessarily related to a specific aircraft, engine or other component. The D1 – Non-Destructive Testing (NDT) rating is only necessary for a maintenance organisation that carries out NDT as a particular task for another organisation. A maintenance organisation that is approved with a class rating in the A, B or C category may carry out NDT on products that it maintains without the need for a D1 class rating provided that the MOE contains appropriate NDT procedures.
+
+(i) The limitation column is intended to give competent authorities the flexibility to customise an approval for any particular organisation. Ratings may only be mentioned on the approval if they are appropriately limited. The table in point (l) specifies the types of limitations that are possible. It is acceptable to stress in the limitation column the maintenance task rather than the type or manufacturer of the aircraft or engine, if that is more appropriate to the organisation (an example could be avionics systems installations and the related maintenance). If that is mentioned in the limitation column, it indicates that the maintenance organisation is approved to carry out maintenance up to and including that particular type/task.
+
+(j) When reference is made to the series, type and group in the limitation column of class A and B, it shall be understood as follows:
+
+— ‘series’ means a specific type series such as the Airbus 300, 310 or 319, or the Boeing 737-300 series, the RB211-524 series, the Cessna 150 or Cessna 172, the Beech 55 series, the continental O-200 series, etc.,
+
+— ‘type’ means a specific type or model such as the Airbus 310-240 type, the RB 211-524 B4 type, or the Cessna 172RG type.
+
+Any number of series or types may be quoted,
+
+— ‘group’ means, for example, Cessna single piston engine aircraft or Lycoming non-supercharged piston engines, etc.
+
+(k) By way of derogation from point 145.A.85(a)(1), when a component capability list is used that could be subject to frequent amendments, then the organisation may propose to include such amendments in the procedure referred to in point 145.A.85(c) for changes not requiring prior approval.
+
+(l) Table
+
+<table>
+<tbody><tr><td>CLASS</td><td>RATING</td><td>LIMITATION</td><td>BASE</td><td>LINE</td></tr>
+<tr><td rowspan="4">AIRCRAFT</td><td>A1 Aeroplanes above 5 700 kg maximum take-off mass (MTOM) </td><td>[Shall state the aeroplane manufacturer or the group or series or type and/or the maintenance tasks] Example: Airbus A320 Series </td><td>[YES/NO] (1)</td><td>[YES/NO] (1)</td></tr>
+<tr><td>A2 Aeroplanes of 5 700 kg MTOM and below </td><td>[Shall state the aeroplane manufacturer or the group or series or type and/or the maintenance tasks] Example: DHC-6 Twin Otter Series  State whether the issuing of airworthiness review certificates is authorised (only possible for aircraft covered by Annex Vb (Part-ML)) </td><td>[YES/NO] (1)</td><td>[YES/NO] (1)</td></tr>
+<tr><td>A3 Helicopters </td><td>[Shall state the helicopter manufacturer or the group or series or type and/or the maintenance task(s)] Example: Robinson R44  State whether the issuing of airworthiness review certificates is authorised (only possible for aircraft covered by Annex Vb (Part-ML)) </td><td>[YES/NO] (1)</td><td>[YES/NO] (1)</td></tr>
+<tr><td>A4 Aircraft other than A1, A2 and A3 aircraft </td><td>[Shall state the aircraft category (sailplane, balloon, airship, etc.) when applicable, the manufacturer or group or series or type and/or the maintenance task(s)] State whether the issuing of airworthiness review certificates is authorised (only possible for aircraft covered by Annex Vb (Part-ML)) </td><td>[YES/NO] (1)</td><td>[YES/NO] (1)</td></tr>
+<tr><td rowspan="4">ENGINES</td><td>B1 Turbine </td><td colspan="3">[Shall state the engine series or type and/or the maintenance task(s)] Example: PT6A Series </td></tr>
+<tr><td>B2 Piston </td><td colspan="3">[Shall state the engine manufacturer or group or series or type and/or the maintenance task(s)]</td></tr>
+<tr><td>B3 APU </td><td colspan="3">[Shall state the engine manufacturer or series or type and/or the maintenance task(s)]</td></tr>
+<tr><td>B4 Engines other than B1, B2 and B3 </td><td colspan="3">[Shall state the engine manufacturer or group or series or type and/or the maintenance task(s)]</td></tr>
+<tr><td rowspan="23">COMPONENTS OTHER THAN COMPLETE ENGINES OR APUs</td><td>C1 Air Cond & Press</td><td colspan="3" rowspan="23">[Shall state the aircraft type or aircraft manufacturer or component manufacturer or the particular component and/or cross-refer to a capability list in the exposition and/or the maintenance task(s)] Example: PT6A Fuel Control </td></tr>
+<tr><td>C2 Auto Flight</td></tr>
+<tr><td>C3 Comms and Nav</td></tr>
+<tr><td>C4 Doors – Hatches</td></tr>
+<tr><td>C5 Electrical Power & Lights</td></tr>
+<tr><td>C6 Equipment</td></tr>
+<tr><td>C7 Engine – APU</td></tr>
+<tr><td>C8 Flight Controls</td></tr>
+<tr><td>C9 Fuel</td></tr>
+<tr><td>C10 Rotorcraft – Rotors</td></tr>
+<tr><td>C11 Rotorcraft – Trans</td></tr>
+<tr><td>C12 Hydraulic Power</td></tr>
+<tr><td>C13 Indicating – recording system</td></tr>
+<tr><td>C14 Landing Gear</td></tr>
+<tr><td>C15 Oxygen</td></tr>
+<tr><td>C16 Propellers</td></tr>
+<tr><td>C17 Pneumatic & Vacuum</td></tr>
+<tr><td>C18 Protection ice/rain/fire</td></tr>
+<tr><td>C19 Windows</td></tr>
+<tr><td>C20 Structural</td></tr>
+<tr><td>C21 Water ballast</td></tr>
+<tr><td>C22 Propulsion Augmentation</td></tr>
+<tr><td>C23 Other</td></tr>
+<tr><td>SPECIALISED SERVICES</td><td>D1 Non-Destructive Testing</td><td colspan="3">[Shall state particular NDT method(s)]</td></tr>
+<tr><td colspan="5">(1)  – Delete as appropriate </td></tr>
+</tbody>
+</table>
+
+(m) A maintenance organisation which employs only one person to both plan and carry out all its maintenance activities can only hold limited terms of approval. The maximum permissible limits are as follows:
+
+| CLASS | RATING | LIMITATION |
+| --- | --- | --- |
+| AIRCRAFT | A2 | AEROPLANES of 5 700 KG MTOM OR LESS WITH PISTON ENGINE or ELECTRIC POWER PLANT WITH NO FUEL CELL |
+| AIRCRAFT | A3 | HELICOPTERS of 3 175 KG MTOM OR LESS WITH SINGLE-PISTON ENGINE or ELECTRIC POWER PLANT WITH NO FUEL CELL |
+| AIRCRAFT | A4 | SAILPLANES, BALLOONS, AIRSHIPS AND ANY AIRCRAFT of 3 175 KG MTOM OR LESS WITH SINGLE-PISTON ENGINE or ELECTRIC POWER PLANT WITH NO FUEL CELL |
+| ENGINES | B2 | LESS THAN 450 HP |
+| ENGINES | B4 | ELECTRIC ENGINE |
+| COMPONENTS OTHER THAN COMPLETE ENGINES OR APUs | C1 TO C23 | AS PER CAPABILITY LIST |
+| SPECIALISED SERVICES | D1 NDT | NDT METHOD(S) TO BE SPECIFIED |
+
+It should be noted that such an organisation may be further limited by the competent authority in the terms of approval depending on the capabilities of the particular organisation.
+
+## Appendix III
+
+**Maintenance Organisation Certificate — EASA Form 3-145**
+
+Text of image
+
+Page 1 of 2
+
+[MEMBER STATE] (*)
+
+A Member of the European Union (**)
+
+MAINTENANCE ORGANISATION CERTIFICATE
+
+Reference: [MEMBER STATE CODE (*)].145.XXXX
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council and to Commission Regulation (EU) No 1321/2014 and subject to the condition specified below, the [COMPETENT AUTHORITY OF THE MEMBER STATE (*)] hereby certifies:
+
+[COMPANY NAME AND ADDRESS]
+
+as a maintenance organisation in compliance with Section A of Annex II (Part-145) of Regulation (EU) No 1321/2014, approved to maintain products, parts and appliances listed in the attached terms of approval and issue related certificates of release to service using the above references and, when stipulated, to issue airworthiness review certificates after an airworthiness review as specified in point ML.A.903 of Annex Vb (Part-ML) to Commission Regulation (EU) No 1321/2014 for those aircraft listed in the attached approval schedule.
+
+CONDITIONS:
+
+1\. This approval is limited to that specified in the scope of work section of the approved maintenance organisation exposition as referred to in Section A of Annex II (Part-145), and
+
+2\. This approval requires compliance with the procedures specified in the approved maintenance organisation exposition, and
+
+3\. This approval is valid whilst the approved maintenance organisation remains in compliance with Annex II (Part-145) of Regulation (EU) No 1321/2014.
+
+4\. Subject to compliance with the foregoing conditions, this approval shall remain valid for an unlimited duration unless the approval has previously been surrendered, superseded, suspended or revoked.
+
+Date of original issue:
+
+Date of this revision:
+
+Revision No:
+
+Signed:
+
+For the competent authority: [COMPETENT AUTHORITY OF THE MEMBER STATE(*)]
+
+EASA Form 3-145 Issue 4
+
+(*) Or EASA if EASA is the competent authority.
+
+(**) Delete for non-EU Member States or EASA.
+
+►(1) M8
+
+Text of image
+
+Page 2 of 2
+
+MAINTENANCE ORGANISATION
+
+TERMS OF APPROVAL
+
+Reference: [MEMBER STATE CODE (*)].145.[XXXX]
+
+Organisation: [COMPANY NAME AND ADDRESS]
+
+These terms of approval are limited to those products, parts and appliances and to the activities specified in the scope of work section of the approved maintenance organisation exposition,
+
+Maintenance Organisation Exposition reference:
+
+Date of original issue:
+
+Date of last revision approved: Revision No:
+
+Signed:
+
+For the competent authority: [COMPETENT AUTHORITY OF THE MEMBER STATE (*)]
+
+EASA Form 3-145 Issue 4
+
+(*) Or EASA if EASA is the competent authority.
+
+(**) Delete as appropriate if the organisation is not approved.
+
+(***) Complete with the appropriate rating and limitation.
+
+(****) Complete with appropriate limitation and state whether the issue of airworthiness review certificates is authorised or not.
+
+CLASS
+
+RATING
+
+LIMITATION
+
+BASE
+
+LINE
+
+AIRCRAFT (**)
+
+(***)
+
+(***)
+
+[YES/NO] (**)
+
+[YES/NO] (**)
+
+(***)
+
+(***)
+
+[YES/NO] (**)
+
+[YES/NO] (**)
+
+(***)
+
+(***)
+
+[YES/NO] (**)
+
+[YES/NO] (**)
+
+(***)
+
+(***)
+
+[YES/NO] (**)
+
+[YES/NO] (**)
+
+ENGINES (**)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+COMPONENTS OTHER THAN COMPLETE ENGINES OR APUs (**)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+SPECIALISED SERVICES (**)
+
+(***)
+
+(***)
+
+(***)
+
+(***)
+
+►(1) M8
+
+## Appendix IV — Conditions for the use of staff not qualified in accordance with Annex III (Part-66) referred to in points 145.A.30(j)1 and 2
+
+1\. Certifying staff in compliance with all the following conditions are deemed to meet the intent of point 145.A.30(j)(1) and (2):
+
+(a) The person shall hold a licence or a certifying staff authorisation issued under national regulations in full compliance with ICAO Annex 1.
+
+(b) The scope of work of the person shall not exceed the scope of work defined by the national licence or the certifying staff authorisation, whatever is the most restrictive.
+
+(c) The person shall demonstrate he/she received the training on human factors and aviation legislation referred to in modules 9 and 10 of Appendix I to Annex III (Part-66).
+
+(d) The person shall demonstrate 5 years maintenance experience for line maintenance certifying staff and 8 years for base maintenance certifying staff. However, those persons whose authorised tasks do not exceed those of a Part-66 category A certifying staff, need to demonstrate 3 years maintenance experience only.
+
+(e) Line maintenance certifying staff and base maintenance support staff shall demonstrate he/she received type training and passed examination at the category B1, B2 or B3 level, as applicable, referred to in Appendix III to Annex III (Part-66) for each aircraft type in the scope of work referred to in point (b). Those persons whose scope of work does not exceed those of a category A certifying staff may however receive task training in lieu of a complete type training.
+
+(f) Base maintenance certifying staff shall demonstrate he/she received type training and passed examination at the category C level referred to in Appendix III to Annex III (Part-66) for each aircraft type in the scope of work referred to in point (b), except that for the first aircraft type, training and examination shall be at the category B1, B2 or B3 level of Appendix III.
+
+2\. Protected rights
+
+(a) The personnel having privileges before the entry into force of the relevant requirements of Annex III (Part-66) may continue to exercise them without the need to comply with points 1(c) to 1(f).
+
+(b) However after that date any certifying staff willing to extend the scope of their authorisation to include additional privileges shall comply with point 1.
+
+(c) Notwithstanding point 2(b) above, in the case of additional type training, compliance with points 1(c) and 1(d) is not required.
+
+## ANNEX III — (Part-66)
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td>66.1.</td><td>Competent authority</td></tr>
+<tr><td>SECTION A —</td><td>TECHNICAL REQUIREMENTS</td></tr>
+<tr><td>SUBPART A —</td><td>AIRCRAFT MAINTENANCE LICENCE</td></tr>
+<tr><td>66.A.1</td><td>Scope</td></tr>
+<tr><td>66.A.3</td><td>Licence categories and subcategories</td></tr>
+<tr><td>66.A.5</td><td>Aircraft groups</td></tr>
+<tr><td>66.A.10</td><td>Application</td></tr>
+<tr><td>66.A.15</td><td>Eligibility</td></tr>
+<tr><td>66.A.20</td><td>Privileges</td></tr>
+<tr><td>66.A.25</td><td>Basic knowledge requirements</td></tr>
+<tr><td>66.A.30</td><td>Basic experience requirements</td></tr>
+<tr><td>66.A.40</td><td>Continued validity of the aircraft maintenance licence</td></tr>
+<tr><td>66.A.45</td><td>Endorsement with aircraft ratings</td></tr>
+<tr><td>66.A.50</td><td>Limitations</td></tr>
+<tr><td>66.A.55</td><td>Evidence of qualification</td></tr>
+<tr><td>66.A.70</td><td>Conversion provisions</td></tr>
+<tr><td>SECTION B —</td><td>PROCEDURES FOR COMPETENT AUTHORITIES</td></tr>
+<tr><td>SUBPART A —</td><td>GENERAL</td></tr>
+<tr><td>66.B.1</td><td>Scope</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>66.B.2</td><td>Means of compliance</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>66.B.10</td><td>Competent authority</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>66.B.15</td><td>Information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>66.B.20</td><td>Record-keeping</td></tr>
+<tr><td>66.B.25</td><td>Mutual exchange of information</td></tr>
+<tr><td>66.B.30</td><td>Exemptions</td></tr>
+<tr><td>SUBPART B —</td><td>ISSUE OF AN AIRCRAFT MAINTENANCE LICENCE</td></tr>
+<tr><td>66.B.100</td><td>Procedure for the issue of an aircraft maintenance licence by the competent authority</td></tr>
+<tr><td>66.B.105</td><td>Procedure for the issue of an aircraft maintenance licence via the Part-145 approved maintenance organisation</td></tr>
+<tr><td>66.B.110</td><td>Procedure for the change of an aircraft maintenance licence to include an additional basic category or subcategory</td></tr>
+<tr><td>66.B.115</td><td>Procedure for the change of an aircraft maintenance licence to include an aircraft rating or to remove limitations</td></tr>
+<tr><td>66.B.120</td><td>Procedure for the renewal of an aircraft maintenance licence validity</td></tr>
+<tr><td>66.B.125</td><td>Procedure for the conversion of licences including group ratings</td></tr>
+<tr><td>66.B.130</td><td>Procedure for the direct approval of aircraft type training</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>66.B.135</td><td>Procedure for the approval of multimedia-based training (MBT) courses</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>SUBPART C —</td><td>EXAMINATIONS</td></tr>
+<tr><td>66.B.200</td><td>Examination by the competent authority</td></tr>
+<tr><td>SUBPART D —</td><td>CONVERSION OF CERTIFYING STAFF QUALIFICATIONS</td></tr>
+<tr><td>66.B.300</td><td>General</td></tr>
+<tr><td>66.B.305</td><td>Conversion report for national qualifications</td></tr>
+<tr><td>66.B.310</td><td>Conversion report for approved maintenance organisations authorisations</td></tr>
+<tr><td>SUBPART E —</td><td>EXAMINATION CREDITS</td></tr>
+<tr><td>66.B.400</td><td>General</td></tr>
+<tr><td>66.B.405</td><td>Examination credit report</td></tr>
+<tr><td>66.B.410</td><td>Examination credit validity</td></tr>
+<tr><td>SUBPART F —</td><td>CONTINUING OVERSIGHT</td></tr>
+<tr><td>66.B.500</td><td>Revocation, suspension or limitation of the aircraft maintenance licence</td></tr>
+<tr><td></td><td>APPENDICES</td></tr>
+<tr><td>Appendix I —</td><td>Basic knowledge requirements (except for category L licence)</td></tr>
+<tr><td>Appendix II —</td><td>Basic examination standard (except for category L licence)</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>Appendix III —</td><td>Aircraft type training and type evaluation standard – on-the-job training (OJT)</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>Appendix IV —</td><td>Experience and basic knowledge modules or part modules required for extending a Part-66 aircraft maintenance licence</td></tr>
+<tr><td>Appendix V —</td><td>Application Form — EASA Form 19</td></tr>
+<tr><td>Appendix VI —</td><td>Aircraft Maintenance Licence referred to in Annex III (Part-66) – EASA Form 26</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>Appendix VII —</td><td>Basic knowledge requirements for category L aircraft maintenance licence</td></tr>
+<tr><td>Appendix VIII —</td><td>Basic examination standards for category L aircraft maintenance licence</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>Appendix IX —</td><td>Assessment method for the multimedia-based training (MBT)</td></tr>
+transformed by post treatment<tr><td></td></tr>
+</table>
+
+**66.1 Competent authority**
+
+(a) For the purpose of this Annex (Part-66), the competent authority shall be:
+
+1\. the authority designated by the Member State to whom a person first applies for the issuance of an aircraft maintenance licence; or
+
+2\. the authority designated by another Member State, in case it would be different, subject to agreement with the authority referred to in point 1. In that case, the licence referred to in point 1 shall be revoked, all the records mentioned in point 66.B.20 shall be transferred and a new licence shall be issued on the basis of these records.
+
+(b) The Agency shall be responsible for:
+
+1\. defining the list of aircraft types;
+
+2\. defining what airframe/engine (or powerplant) combinations are included in each particular aircraft type rating;
+
+3\. in respect of an aircraft that is not covered by any licence (sub)category in point 66.A.3, point (a), defining the applicable licence (sub)category(ies) that entitle(s) the holder of the licence to exercise the privileges of point 66.A.20 on that aircraft.
+
+**SECTION A**
+
+**TECHNICAL REQUIREMENTS**
+
+**SUBPART A**
+
+**AIRCRAFT MAINTENANCE LICENCE**
+
+66.A.1 Scope
+
+This section defines the aircraft maintenance licence and establishes the requirements for application, issue and continuation of its validity.
+
+66.A.3 Licence categories and subcategories
+
+(a) Aircraft maintenance licences include the following categories and, where applicable, subcategories and system ratings:
+
+(1) Category A:
+
+(i) Category A, is divided into the following subcategories:
+
+— A1 Aeroplanes Turbine,
+
+— A2 Aeroplanes Piston,
+
+— A3 Helicopters Turbine,
+
+— A4 Helicopters Piston.
+
+(ii) Subcategories A1 and A3 may also be used for aircraft not covered by any A subcategory.
+
+(2) Category B1, is divided into the following subcategories:
+
+— B1.1 Aeroplanes Turbine,
+
+— B1.2 Aeroplanes Piston,
+
+— B1.E Aeroplanes with electric power plant and MTOM below 5 700 kg,
+
+— B1.3 Helicopters Turbine,
+
+— B1.4 Helicopters Piston.
+
+(3) Category B2
+
+The B2 licence is applicable to all aircraft.
+
+(4) Category B2L
+
+The B2L licence is applicable to all aircraft other than those in Group 1 as set out in Point 66.A.5(1) and is divided into the following ‘system ratings’:
+
+— communication/navigation (com/nav),
+
+— instruments,
+
+— autoflight,
+
+— surveillance,
+
+— airframe systems.
+
+A B2L licence shall contain, as a minimum, one system rating.
+
+(5) Category B3
+
+The B3 licence is applicable to piston-engine non-pressurised aeroplanes of 2 000 kg MTOM and below.
+
+(6) Category L, divided into the following subcategories:
+
+— L1C: composite sailplanes,
+
+— L1: sailplanes,
+
+— L2C: composite powered sailplanes and composite ELA1 aeroplanes,
+
+— L2: powered sailplanes and ELA1 aeroplanes,
+
+— L3H: hot-air balloons,
+
+— L3G: gas balloons,
+
+— L4H: hot-air airships,
+
+— L4G: ELA2 gas airships,
+
+— L5: gas airships other than ELA2.
+
+(7) Category C
+
+The C licence is applicable to aeroplanes and helicopters.
+
+(8) When an aircraft can be considered as included in more than one of the above (sub)categories, the Agency, based on the aircraft characteristics, shall establish the (sub)category(ies) of the licence applicable for the aircraft in its type certificate data sheet.
+
+(b) Additionally, for aircraft and combinations of aircraft and power plant not referred to in point (a), the applicable licence (sub)category(ies) shall be the one(s) identified by the Agency.
+
+The Agency shall identify such licence (sub)category(ies) in the operational suitability data established in accordance with Regulation (EU) No 748/2012, taking into consideration a report from the applicant for, or holder of, the aircraft type certificate which assesses the architecture and systems of the aircraft (and power plant) against the syllabus of the basic knowledge modules and knowledge levels, as relevant to the designated licence (sub)category, and the privileges established in 66.A.20.
+
+66.A.5 Aircraft groups
+
+For the purpose of ratings on aircraft maintenance licences, aircraft shall be classified into the following groups:
+
+(1) Group 1 is composed of:
+
+(i) aeroplanes certified for a MTOM exceeding 5 700 kg; aeroplanes certified for a maximum passenger seating configuration of more than 19; aeroplanes certified for operation with a minimum crew of at least two pilots; aeroplanes equipped with (one) turbojet engine(s) or more than one turboprop engine; aeroplanes with maximum certified operating altitude exceeding FL290 powered with a power plant other than piston; aeroplanes with a power plant not being piston, turbine or electric;
+
+(ii) helicopters certified for a MTOM exceeding 3 175 kg; helicopters certified for a maximum passenger seating configuration of more than nine; helicopters certified for operation with a minimum crew of at least two pilots; helicopters equipped with multiple engines; helicopters equipped with a power plant not being piston, turbine or electric;
+
+(iii) gas airships other than ELA2;
+
+(iv) non-conventional aircraft; and
+
+(v) aircraft equipped with fly-by-wire systems.
+
+Notwithstanding the first paragraph, the Agency may decide to classify into a subgroup of Group 2, Group 3 or Group 4, as appropriate, an aircraft which meets the conditions set out in the first paragraph, if it considers that the lower complexity of the particular aircraft justifies so.
+
+(2) Group 2: aircraft other than those in Group 1 belonging to the following subgroups:
+
+(i) subgroup 2a: single turboprop engine aeroplanes;
+
+(ii) subgroup 2b: single turbine engine helicopters;
+
+(iii) subgroup 2c: single piston engine helicopters;
+
+(iv) subgroup 2E: aeroplanes with electric power plant.
+
+(3) Group 3: piston engine aeroplanes other than those in Group 1.
+
+(4) Group 4: sailplanes, powered sailplanes, balloons and airships, other than those in Group 1.
+
+66.A.10 Application
+
+(a) An application for an aircraft maintenance licence or change to such licence shall be made on an EASA Form 19 (see Appendix V) in a manner established by the competent authority and submitted thereto.
+
+(b) An application for the change to an aircraft maintenance licence shall be made to the competent authority of the Member State that issued the aircraft maintenance licence.
+
+(c) In addition to the documents required in points 66.A.10(a), 66.A.10(b) and 66.B.105, as appropriate, the applicant for additional basic categories or subcategories to an aircraft maintenance licence shall submit his/her current original aircraft maintenance licence to the competent authority together with the EASA Form 19.
+
+(d) Where the applicant for change of the basic categories qualifies for such change via the procedure referred to in point 66.B.100 in a Member State other than the Member State which issued the license, the application shall be sent to the competent authority referred to in point 66.1.
+
+(e) Where the applicant for change of the basic categories qualifies for such change via the procedure referred to in point 66.B.105 in a Member State other than the Member State which issued the license, the maintenance organisation approved in accordance with Annex II (Part-145) or Annex Vd (Part-CAO) shall send the aircraft maintenance licence together with the EASA Form 19 to the competent authority referred to in point 66.1 for stamp and signature of the change or reissue of the licence, as appropriate.
+
+(f) Each application shall be supported by documentation to demonstrate compliance with the applicable theoretical knowledge, practical training and experience requirements at the time of application.
+
+66.A.15 Eligibility
+
+An applicant for an aircraft maintenance licence shall be at least 18 years of age.
+
+66.A.20 Privileges
+
+(a) The following privileges shall apply:
+
+1\. A category A aircraft maintenance licence permits the holder to issue certificates of release to service following minor scheduled line maintenance and simple defect rectification within the limits of tasks specifically endorsed on the certification authorisation referred to in point 145.A.35 of Annex II (Part-145). The certification privileges shall be restricted to work that the licence holder has personally performed in the maintenance organisation that issued the certification authorisation.
+
+2\. A category B1 aircraft maintenance licence shall permit the holder to issue certificates of release to service and to act as B1 support staff following:
+
+— maintenance performed on aircraft structure, powerplant and mechanical and electrical systems,
+
+— work on avionic systems requiring only simple tests to prove their serviceability and not requiring troubleshooting.
+
+Category B1 includes the corresponding A subcategory.
+
+3\. A category B2 aircraft maintenance licence shall permit the holder:
+
+(i) to issue certificates of release to service and to act as B2 support staff for following:
+
+— maintenance performed on avionic and electrical systems, and
+
+— electrical and avionics tasks within powerplant and mechanical systems, requiring only simple tests to prove their serviceability; and
+
+(ii) to issue certificates of release to service following minor scheduled line maintenance and simple defect rectification within the limits of tasks specifically endorsed on the certification authorisation referred to in point 145.A.35 of Annex II (Part-145). This certification privilege shall be restricted to work that the licence holder has personally performed in the maintenance organisation which issued the certification authorisation and limited to the ratings already endorsed in the B2 licence.
+
+The category B2 licence does not include any A subcategory.
+
+4\. A category B2L aircraft maintenance licence shall permit the holder to issue certificates of release to service and to act as B2L support staff for the following:
+
+— maintenance performed on electrical systems;
+
+— maintenance performed on avionics systems within the limits of the system ratings specifically endorsed on the licence, and
+
+— when holding the ‘airframe system’ rating, performance of electrical and avionics tasks within power plant and mechanical systems, requiring only simple tests to prove their serviceability.
+
+5\. A category B3 aircraft maintenance licence shall permit the holder to issue certificates of release to service and to act as B3 support staff for the following:
+
+— maintenance performed on aeroplane structure, power plant and mechanical and electrical systems; and
+
+— work on avionics systems requiring only simple tests to prove their serviceability and not requiring troubleshooting.
+
+6\. A category L aircraft maintenance licence shall permit the holder to issue certificates of release to service and to act as L support staff for the following:
+
+— maintenance performed on aircraft structure, power plant and mechanical and electrical systems;
+
+— work on radio, Emergency Locator Transmitters (ELT) and transponder systems; and
+
+— work on other avionics systems requiring simple tests to prove their serviceability.
+
+Subcategory L2 includes subcategory L1. Any limitation to subcategory L2 in accordance with point 66.A.45(h) becomes also applicable to subcategory L1.
+
+Subcategory L2C includes subcategory L1C.
+
+7\. A category C aircraft maintenance licence shall permit the holder to issue certificates of release to service following base maintenance of the aircraft. The privileges apply to the aircraft in its entirety.
+
+A Category C aircraft maintenance licence issued with respect to complex motor-powered aircraft shall include the privileges of category C aircraft maintenance licence also with respect to other than complex motor-powered aircraft.
+
+8\. In addition, the privileges in point 1 to 7 are also extended to aircraft referred to in point (b) of point 66.A.3 for the corresponding licence (sub)category(ies) identified as applicable in the operational suitability data established in accordance with Regulation (EU) No 748/2012 of these aircraft.
+
+(b) The holder of an aircraft maintenance licence may not exercise its privileges unless:
+
+1\. in compliance with the applicable requirements of Annex I (Part-M), Annex II (Part-145), Annex Vb (Part-ML) and Annex Vd (Part-CAO); and
+
+2\. in the preceding 2-year period he/she has, either had 6 months of maintenance experience in accordance with the privileges granted by the aircraft maintenance licence or, met the provision for the issue of the appropriate privileges; and
+
+3\. he/she has the adequate competence to certify maintenance on the corresponding aircraft; and
+
+4\. he/she is able to read, write and communicate to an understandable level in the language(s) in which the technical documentation and procedures necessary to support the issue of the certificate of release to service are written.
+
+66.A.25 Basic knowledge requirements
+
+(a) The applicant for an aircraft maintenance licence shall demonstrate by examination a level of knowledge of the related subject modules in accordance with Appendix I (applicable to category A, B1, B2, B2L, B3 and C licences) or Appendix VII (applicable to category L licences).
+
+(b) The basic knowledge examinations shall comply with the standard set out in Appendix II (applicable to category A, B1, B2, B2L, B3 and C licences) or Appendix VIII (applicable to category L licences) to this Annex and shall be conducted by either of the following:
+
+(1) a training organisation approved in accordance with Annex IV (Part-147);
+
+(2) the competent authority;
+
+(3) for category L licences, another organisation as agreed by the competent authority.
+
+(c) The basic knowledge examinations shall have been passed within 10 years prior to the application for an aircraft maintenance licence or the addition of a category or subcategory to such a licence. If the basic knowledge examinations have not been passed within that 10-year period, credits for basic knowledge examinations may be alternatively obtained by the applicant in accordance with point (d).
+
+The 10 years’ validity requirement applies to each individual module examination, except for those module examinations which were already passed as part of another licence category and the licence has already been issued.
+
+(d) The applicant may apply to the competent authority for full or partial credits for the basic knowledge requirements for:
+
+(1) basic knowledge examinations which were passed more than 10 years before the application for an aircraft maintenance licence was submitted (see point (c));
+
+(2) any other national technical training and examination considered by the competent authority as equivalent to the corresponding basic knowledge requirements of this Annex.
+
+The applicant shall provide evidence of the granted credits by referring to an examination credit report approved by the competent authority in accordance with Section B, Subpart E, of this Annex III (Part-66).
+
+(e) A basic training course without Modules 1 and 2 of Appendix I to this Annex is considered a full basic training course approved in accordance with Annex IV (Part-147) only when knowledge of those Modules is subsequently demonstrated by the applicant by examination and is credited by the competent authority.
+
+(f) The holder of an aircraft maintenance licence applying for the addition of a different category or subcategory shall complement by examination the level of knowledge that is appropriate to the related subject modules in accordance with Appendix I (for category A, B1, B2, B2L, B3 and C licences) or Appendix VII (for category L licences).
+
+Appendix IV details the modules of Appendix I (for category B1, B2, B2L, B3 and C licences) or Appendix VII (for category L licences) required for the addition of a new category or subcategory to an existing licence issued in accordance with this AnnexA.
+
+66.A.30 Basic experience requirements
+
+(a) An applicant for an aircraft maintenance licence shall have acquired:
+
+1\. for category A, subcategories B1.2, B1.E and B1.4 and category B3:
+
+(i) 3 years of practical maintenance experience on operating aircraft, if the applicant has no previous relevant technical training; or
+
+(ii) 2 years of practical maintenance experience on operating aircraft and completion of training considered relevant by the competent authority as a skilled worker, in a technical trade; or
+
+(iii) 1 year of practical maintenance experience on operating aircraft and completion of a basic training course approved in accordance with Annex IV (Part-147);
+
+2\. for category B2 and subcategories B1.1 and B1.3:
+
+(i) 5 years of practical maintenance experience on operating aircraft if the applicant has no previous relevant technical training; or
+
+(ii) 3 years of practical maintenance experience on operating aircraft and completion of training considered relevant by the competent authority as a skilled worker, in a technical trade; or
+
+(iii) 2 years of practical maintenance experience on operating aircraft and completion of a basic training course approved in accordance with Annex IV (Part-147);
+
+2a. for category B2L:
+
+(i) 3 years of practical maintenance experience in operating aircraft, covering the corresponding system rating(s), if the applicant has no previous relevant technical training; or
+
+(ii) 2 years of practical maintenance experience in operating aircraft, covering the corresponding system rating(s), and completion of training, considered relevant by the competent authority, as a skilled worker in a technical trade; or
+
+(iii) 1 year of practical maintenance experience in operating aircraft, covering the corresponding system rating(s), and completion of a Part-147 approved basic training course.
+
+For the addition of (a) new system rating(s) to an existing B2L licence, 3 months of practical maintenance experience relevant to the new system rating(s) shall be required for each system rating added.
+
+2b. for category L:
+
+(i) 2 years of practical maintenance experience in operating aircraft covering a representative cross section of maintenance activities in the corresponding subcategory;
+
+(ii) as a derogation from point (i), 1 year of practical maintenance experience in operating aircraft covering a representative cross section of maintenance activities in the corresponding subcategory, subject to the introduction of the limitation provided for in point 66.A.45(h)(ii)(3).
+
+3\. for category C with respect to complex motor-powered aircraft (CMPA):
+
+(i) 3 years of experience in exercising category B1.1, B1.3 or B2 privileges as support staff, or both support staff and certifying staff, in accordance with point 145.A.35 of Annex II (Part-145), at a maintenance organisation working on CMPA, including 12 months of experience as base maintenance support staff; or
+
+(ii) 5 years of experience in exercising category B1.2, B1.E, B1.4 or L5 privileges as support staff, or both support staff and certifying staff, in accordance with point 145.A.35 of Annex II (Part-145), at a maintenance organisation working on CMPA, including 12 months of experience as base maintenance support staff; or
+
+(iii) for applicants holding an academic degree, 3 years of experience in working at an aircraft maintenance environment, on a representative selection of tasks that are directly associated with aircraft maintenance, including 6 months of participation in the performance of base maintenance tasks in operating CMPA;
+
+(iv) to extend the endorsed category C with respect to other than CMPA to CMPA:
+
+(a) 2 years of experience in exercising category B1.1, B1.2, B1.E, B1.3, B1.4, B2 or L5 privileges as support staff, or both support staff and certifying staff, in accordance with point 145.A.35 of Annex II (Part-145), at a maintenance organisation working on CMPA, including 6 months of experience as base maintenance support staff; or
+
+(b) when holding a category C licence based on an academic degree, 2 years of experience in working at an aircraft maintenance environment on a representative selection of tasks that are directly associated with aircraft maintenance, including 3 months of participation in the performance of base maintenance tasks in operating CMPA;
+
+4\. for category C with respect to other than CMPA:
+
+(i) 3 years of experience in exercising category B1, B2, B2L, B3 or L privileges as support staff, or both support staff and certifying staff, in accordance with point 145.A.35 of Annex II (Part-145), at a maintenance organisation in operating other than CMPA, including 6 months of experience as base maintenance support staff; or
+
+(ii) for holders of an academic degree, 3 years of experience in working at an aircraft maintenance environment, on a representative selection of tasks that are directly associated with aircraft maintenance, including 6 months of participation in the performance of base maintenance tasks in operating other than CMPA;
+
+5\. the academic degree shall be in a relevant technical discipline, issued by a university or any other higher educational institution recognised by the competent authority.
+
+(b) An applicant for an extension to an aircraft maintenance licence shall have a minimum civil aircraft maintenance experience requirement appropriate to the additional category or subcategory of licence applied for as defined in Appendix IV to this Annex (Part-66).
+
+(c) The experience shall be practical and involve a representative cross section of maintenance tasks on aircraft.
+
+(d) At least 1 year of the required experience shall be recent maintenance experience on aircraft of the category/subcategory for which the initial aircraft maintenance licence is sought. For subsequent category/subcategory additions to an existing aircraft maintenance licence, the additional recent maintenance experience required may be less than 1 year, but shall be at least 3 months. The required experience shall be dependent upon the difference between the licence category/subcategory held and applied for. Such additional experience shall be typical of the new licence category/subcategory sought.
+
+(da) Notwithstanding points (a), (b) and (d), practical maintenance experience and recent maintenance experience gained in aircraft referred to in point (b) of point 66.A.3 shall account for a maximum of 50 % of the practical maintenance experience and recent maintenance experience required in points (a), (b) or (d) in respect of the licence (sub)category(ies) on which these aircraft can be endorsed.
+
+(e) Notwithstanding point (a), experience in aircraft maintenance gained in organisations not approved in accordance with Annexes II (Part-145) or Vd (Part-CAO) may be recognised when such maintenance is equivalent to that required by this Annex as established by the competent authority.
+
+However, demonstration of additional experience in organisations approved in accordance with Annexes II or Vd or under the supervision of independent certifying staff, shall be required.
+
+(f) Experience shall have been acquired within the 10 years preceding the application for an aircraft maintenance licence or the addition of a category or subcategory to such a licence.
+
+66.A.40 Continued validity of the aircraft maintenance licence
+
+(a) The aircraft maintenance licence becomes invalid 5 years after its last issue or change, unless the holder submits his/her aircraft maintenance licence to the competent authority that issued it, in order to verify that the information contained in the licence is the same as that contained in the competent authority records, pursuant to point 66.B.120.
+
+(b) The holder of an aircraft maintenance licence shall complete the relevant parts of EASA Form 19 (see Appendix V) and submit it with the holder’s copy of the licence to the competent authority that issued the original aircraft maintenance licence, unless the holder works in a maintenance organisation approved in accordance with Annex II (Part-145) or Annex Vd (Part-CAO) that has a procedure in its exposition whereby such organisation may submit the necessary documentation on behalf of the aircraft maintenance licence holder.
+
+(c) Any certification privilege based upon a aircraft maintenance licence becomes invalid as soon as the aircraft maintenance licence is invalid.
+
+(d) The aircraft maintenance licence is only valid (i) when issued and/or changed by the competent authority and (ii) when the holder has signed the document.
+
+66.A.45 Endorsement with aircraft ratings
+
+(a) In order to be entitled to exercise certification privileges on a specific aircraft type, the holder of an aircraft maintenance licence needs to have their licence endorsed with the relevant aircraft ratings:
+
+— For category B1, B2 or C, the relevant aircraft ratings are the following:
+
+(i) for Group 1 aircraft, the appropriate aircraft type rating;
+
+(ii) for Group 2 aircraft, the appropriate aircraft type rating, manufacturer subgroup rating or full subgroup rating;
+
+(iii) for Group 3 aircraft, the appropriate aircraft type rating or full group rating;
+
+(iv) for Group 4 aircraft, for the category B2 licence, the full group rating.
+
+— For category B2L, the relevant aircraft ratings are the following:
+
+(i) for Group 2 aircraft, the appropriate manufacturer subgroup rating or full subgroup rating;
+
+(ii) for Group 3 aircraft, the full group rating;
+
+(iii) for Group 4 aircraft, the full group rating.
+
+— For category B3, the relevant rating is ‘piston-engine non-pressurised aeroplanes of 2 000 kg MTOM and below’.
+
+— For category L, the relevant aircraft ratings are the following:
+
+(i) for subcategory L1C, the rating ‘composite sailplanes’;
+
+(ii) for subcategory L1, the rating ‘sailplanes’;
+
+(iii) for subcategory L2C, the rating ‘composite powered sailplanes and composite ELA1 aeroplanes’;
+
+(iv) for subcategory L2, the rating ‘powered sailplanes and ELA1 aeroplanes’;
+
+(v) for subcategory L3H, the rating ‘hot-air balloons’;
+
+(vi) for subcategory L3G, the rating ‘gas balloons’;
+
+(vii) for subcategory L4H, the rating ‘hot-air airships’;
+
+(viii) for subcategory L4G, the rating ‘ELA2 gas airships’;
+
+(ix) for subcategory L5, the appropriate airship type rating.
+
+— For category A, no rating is required, subject to compliance with the requirements of point 145.A.35 of Annex II (Part-145).
+
+(b) The endorsement of aircraft type ratings requires the satisfactory completion of one of the following:
+
+— the relevant category B1, B2 or C aircraft type training in accordance with Appendix III to Annex III (Part-66);
+
+— in the case of gas airship type ratings on a B2 or L5 licence, a type training approved by the competent authority in accordance with point 66.B.130.
+
+(c) For other than category C licences, in addition to the requirements of point (b), the endorsement of the first aircraft type rating within a given category/subcategory requires satisfactory completion of the corresponding on-the-job training. This on-the-job training shall comply with Appendix III to Annex III (Part-66), except in the case of gas airships, where it shall be directly approved by the competent authority.
+
+The on-the-job training on an aircraft referred to in point (b) of point 66.A.3 may only be considered for the purpose of endorsement of the licence as the first aircraft type rating within a given (sub)category, as described in the previous paragraph, when so established in the aircraft operational suitability data.
+
+Otherwise, an aircraft referred to in point (b) of point 66.A.3 may be endorsed as a first aircraft type rating within a given (sub)category after satisfactory completion of the corresponding on-the-job training, but in such case, additional on-the-job training will be required for the endorsement on the licence within that (sub)category of the first aircraft type rating belonging to the categories referred in point (a) of point 66.A.3.
+
+(d) By derogation from points (b) and (c), for Group 2 and 3 aircraft, aircraft type ratings may also be endorsed on a licence after completing the following steps:
+
+— satisfactory completion of the relevant category B1, B2 or C aircraft type evaluation in accordance with Appendix III to this Annex (Part-66);
+
+— in the case of B1 and B2 category, demonstration of practical experience in the aircraft type. In that case, the practical experience shall include a representative cross section of maintenance activities relevant to the licence category.
+
+In the case of a category C rating, for a person qualified through the academic route as referred to in point (a)(5) of point 66.A.30, the first relevant aircraft type evaluation shall be at the category B1 or B2 level.
+
+(da) By derogation from points (b) and (d) and only during the first 30 months after a new aircraft type has received its type certificate, an AML may be endorsed with the corresponding aircraft type rating for a given (sub)category based on complete training delivered by the manufacturer, including the on-site practical training element, under the condition that the aircraft type rating is not the first aircraft endorsed for that (sub)category.
+
+Such training shall be carried out at a level and duration that meet the same objectives as those of points 5 (a), (b) and (c) of Appendix III, and shall cover relevant maintenance data at the required knowledge level and scope for the AML (sub)category.
+
+A responsible person of the aircraft manufacturer shall issue a final report declaring fulfilment of the requirements of this point 66.A.45(da).
+
+(e) For Group 2 aircraft:
+
+(i) the endorsement of manufacturer subgroup ratings for category B1 and C licence holders requires complying with the aircraft type rating requirements for at least two aircraft types from the same manufacturer, which combined are representative of the applicable manufacturer subgroup;
+
+(ii) the endorsement of full subgroup ratings for category B1 and C licence holders requires complying with the aircraft type rating requirements for at least three aircraft types from different manufacturers, which combined are representative of the applicable subgroup;
+
+(iii) the endorsement of manufacturer subgroup and full subgroup ratings for category B2 and B2L licence holders requires demonstration of practical experience which shall include a representative cross section of maintenance activities relevant to the licence category and to the applicable aircraft subgroup and, in the case of the B2L licence, relevant to the applicable system rating(s);
+
+(iv) by derogation from point (e)(iii), the holder of a B2 or B2L licence, endorsed with a full subgroup 2b, is entitled to be endorsed with a full subgroup 2c.
+
+(f) For Group 3 and 4 aircraft:
+
+(i) the endorsement of the full Group 3 rating for category B1, B2, B2L and C licence holders and the endorsement of the full Group 4 rating for B2 and B2L licence holders require demonstration of practical experience, which shall include a representative cross section of maintenance activities relevant to the licence category and to Group 3 or 4, as applicable;
+
+(ii) for category B1, unless the applicant provides evidence of appropriate experience, Group 3 rating shall be subject to the following limitations, which shall be endorsed on the licence:
+
+— pressurised aeroplanes,
+
+— metal-structure aeroplanes,
+
+— composite-structure aeroplanes,
+
+— wooden-structure aeroplanes,
+
+— aeroplanes with metal-tubing structure covered with fabric;
+
+(iii) by derogation from point (f)(i), the holder of a B2L licence, endorsed with a full subgroup 2a or 2b, is entitled to be endorsed with Groups 3 and 4.
+
+(g) For the B3 licence:
+
+(i) the endorsement of the rating ‘piston engine non-pressurised aeroplanes of 2 000 kg MTOM and below’ requires demonstration of practical experience, which shall include a representative cross section of maintenance activities relevant to the licence category;
+
+(ii) unless the applicant provides evidence of appropriate experience, the rating referred to in point (i) shall be subject to the following limitations, which shall be endorsed on the licence:
+
+— wooden-structure aeroplanes,
+
+— aeroplanes with metal-tubing structure covered with fabric,
+
+— metal-structure aeroplanes,
+
+— composite-structure aeroplanes.
+
+(h) For all L licence subcategories, other than L5:
+
+(i) the endorsement of ratings requires demonstration of practical experience which shall include a representative cross section of maintenance activities relevant to the licence subcategory;
+
+(ii) unless the applicant provides evidence of appropriate experience, the ratings shall be subject to the following limitations, which shall be endorsed on the licence:
+
+(1) for ratings ‘sailplanes’ and ‘powered sailplanes and ELA1 aeroplanes’:
+
+— wooden-structure aircraft covered with fabric,
+
+— aircraft with metal-tubing structure covered with fabric,
+
+— metal-structure aircraft,
+
+— composite-structure aircraft,
+
+(2) for the rating ‘gas balloons’:
+
+— other than ELA1 gas balloons; and
+
+(3) if the applicant has only provided evidence of 1-year experience in accordance with the derogation contained in point 66.A.30(a)(2b)(ii), the following limitation shall be endorsed on the licence:
+
+‘complex maintenance tasks provided for in Appendix VII to Annex I (Part-M), standard changes provided for in point 21.A.90B of Annex I (Part 21) and points 21L.A.62 and 21L.A.102 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 and standard repairs provided for in point 21.A.431B of Annex I (Part 21) and in point 21L.A.202 or point 21L.A.222 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.’
+
+66.A.50 Limitations
+
+(a) Limitations introduced on an aircraft maintenance licence are exclusions from the certification privileges and, in the case of limitations referred to in point 66.A.45, they affect the aircraft in its entirety.
+
+(b) For limitations referred to in point 66.A.45, limitations shall be removed upon:
+
+1\. demonstration of appropriate experience; or
+
+2\. after a satisfactory practical assessment performed by the competent authority.
+
+(c) For limitations referred to in point 66.A.70, limitations shall be removed upon satisfactory completion of examination on those modules/subjects defined in the applicable conversion report referred to in point 66.B.300.
+
+66.A.55 Evidence of qualification
+
+Personnel exercising certification privileges as well as support staff shall produce their licence, as evidence of qualification, within 24 hours upon request by an authorised person.
+
+66.A.70 Conversion provisions
+
+(a) The holder of a certifying staff qualification valid in a Member State, prior to the date of entry into force of Annex III (Part-66) shall be issued an aircraft maintenance licence by the competent authority of this Member State without further examination subject to the conditions specified in Section B Subpart D.
+
+(b) A person undergoing a certifying staff qualification process valid in a Member State, prior to the date of entry into force of Annex III (Part-66) may continue to be qualified. The holder of a certifying staff qualification gained following such process shall be issued an aircraft maintenance licence by the competent authority of this Member State without further examination subject to the conditions specified in Section B Subpart D.
+
+(c) Where necessary, the aircraft maintenance licence shall contain limitations in accordance with point 66.A.50 to reflect the differences between:
+
+(i) the scope of the certifying staff qualification valid in the Member State before the entry into force of the applicable licence category or subcategory provided for in this Annex (Part-66);
+
+(ii) the basic knowledge requirements and the basic examination standards laid down in Appendices I and II to this Annex (Part-66).
+
+(d) By derogation from point (c), for aircraft not used by licenced air carriers in accordance with Regulation (EC) No 1008/2008, other than complex motor-powered aircraft, and for balloons, sailplanes, motor-powered sailplanes and airships, the aircraft maintenance licence shall contain limitations in accordance with point 66.A.50 to ensure that the certifying staff privileges valid in the Member State before the entry into force of the applicable Part-66 licence category/subcategory and those of the converted Part-66 aircraft maintenance licence remain the same.
+
+**SECTION B**
+
+**PROCEDURES FOR COMPETENT AUTHORITIES**
+
+**SUBPART A**
+
+**GENERAL**
+
+66.B.1 Scope
+
+This section establishes the procedures including the administrative requirements to be followed by the competent authorities in charge of the implementation and the enforcement of Section A of this Annex (Part-66).
+
+66.B.2 Means of compliance
+
+(a) The Agency shall develop acceptable means of compliance (‘AMC’) that may be used to establish compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) Alternative means of compliance may be used to establish compliance with this Regulation.
+
+(c) Competent authorities shall inform the Agency of any alternative means of compliance used by persons under their oversight or by themselves for establishing compliance with this Regulation.
+
+66.B.10 Competent authority
+
+(a) General
+
+The Member State shall designate a competent authority with allocated responsibilities for the issuance, continuation, change, suspension or revocation of aircraft maintenance licences.
+
+This competent authority shall establish an adequate organisational structure to ensure compliance with this Annex (Part-66).
+
+(b) Resources
+
+The competent authority shall be appropriately staffed to ensure the implementation of the requirements of this Annex (Part-66).
+
+(c) Procedures
+
+The competent authority shall establish documented procedures detailing how compliance with this Annex (Part-66) is accomplished. These procedures shall be reviewed and amended to ensure continued compliance.
+
+66.B.15 Information security management system
+
+The competent authority shall establish, implement and maintain an information security management system in accordance with Annex I (Part-IS.AR) to Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+66.B.20 Record-keeping
+
+(a) The competent authority shall establish a system of record-keeping that allows adequate traceability of the process to issue, revalidate, change, suspend or revoke each aircraft maintenance licence.
+
+(b) These records shall include for each licence:
+
+1\. the application for an aircraft maintenance licence or change to that licence, including all supporting documentation;
+
+2\. a copy of the aircraft maintenance licence including any changes;
+
+3\. copies of all relevant correspondence;
+
+4\. details of any exemption and enforcement actions;
+
+5\. any report from other competent authorities relating to the aircraft maintenance licence holder;
+
+6\. the records of examinations conducted by the competent authority;
+
+7\. the applicable conversion report used for conversion;
+
+8\. the applicable credit report used for crediting.
+
+(c) Records referred to in points 1 to 5 of point (b) shall be kept at least 5 years after the end of the licence validity.
+
+(d) Records referred to in points 6, 7 and 8 of point (b) shall be kept for an unlimited period.
+
+66.B.25 Mutual exchange of information
+
+(a) The competent authorities shall participate in a mutual exchange of information in accordance with Article 72(1) of Regulation (EU) 2018/1139.
+
+(b) Without prejudice to the competencies of the Member States, in the case of a potential safety threat involving several Member States, the concerned competent authorities shall assist each other in carrying out the necessary oversight action.
+
+66.B.30 Exemptions
+
+All exemptions granted in accordance with Article 71(1) of Regulation (EU) 2018/1139 shall be recorded and retained by the competent authority.
+
+**SUBPART B**
+
+**ISSUE OF AN AIRCRAFT MAINTENANCE LICENCE**
+
+This Subpart provides the procedures to be followed by the competent authority to issue, change or continue an aircraft maintenance licence.
+
+66.B.100 Procedure for the issue of an aircraft maintenance licence by the competent authority
+
+(a) On receipt of EASA Form 19 and any supporting documentation, the competent authority shall verify EASA Form 19 for completeness and ensure that the experience claimed meets the requirement of this Annex (Part-66).
+
+(b) The competent authority shall verify an applicant's examination status and/or confirm the validity of any credits to ensure that all module requirements of Appendix I or Appendix VII, as applicable, have been met as required by this Annex (Part-66).
+
+(c) When having verified the identity and date of birth of the applicant and being satisfied that the applicant meets the standards of knowledge and experience required by this Annex (Part-66), the competent authority shall issue the relevant aircraft maintenance licence to the applicant. The same information shall be kept on competent authority records.
+
+(d) In the case where aircraft types or groups are endorsed at the time of the issuance of the first aircraft maintenance licence, the competent authority shall verify compliance with point 66.B.115.
+
+66.B.105 Procedure for the issue of an aircraft maintenance licence via a maintenance organisation approved in accordance with Annex II (Part-145) or Annex Vd (Part-CAO)
+
+(a) A maintenance organisation approved in accordance with Annex II (Part-145) or Annex Vd (Part-CAO), when authorised to carry out this activity by the competent authority, may (i) prepare the aircraft maintenance licence on behalf of the competent authority or (ii) make recommendations to the competent authority regarding the application from an individual for a aircraft maintenance licence so that the competent authority may prepare and issue such licence.
+
+(b) Maintenance organisations referred to in point (a) shall ensure compliance with points 66.B.100 (a) and (b).
+
+(c) In all cases, the aircraft maintenance licence can only be issued to the applicant by the competent authority.
+
+66.B.110 Procedure for the change of an aircraft maintenance licence to include an additional basic category or subcategory
+
+(a) At the completion of the procedures specified in points 66.B.100 or 66.B.105, the competent authority shall endorse the additional basic category, subcategory or, for category B2L, system rating(s) on the aircraft maintenance licence by stamp and signature or shall reissue the licence.
+
+(b) The record system of the competent authority shall be changed accordingly.
+
+(c) Upon request by the applicant, the competent authority shall replace a licence in category B2L with a licence in category B2 endorsed with the same aircraft rating(s) when the holder has demonstrated both of the following:
+
+(i) by examination the differences between the basic knowledge corresponding to the B2L licence held and the basic knowledge of the B2 licence, as set out in Appendix I;
+
+(ii) the practical experience required in Appendix IV.
+
+(d) The experience and basic knowledge modules or partial modules required for adding a new licence category or subcategory to an existing licence issued in accordance with this Annex are outlined in the tables of Appendix IV.
+
+66.B.115 Procedure for the change of an aircraft maintenance licence to include an aircraft rating or to remove limitations
+
+(a) On receipt of a satisfactory EASA Form 19 and any supporting documentation demonstrating compliance with the requirements of the applicable rating together with the accompanying aircraft maintenance licence, the competent authority shall either:
+
+1\. endorse the applicant's aircraft maintenance licence with the applicable aircraft rating; or
+
+2\. reissue the said licence to include the applicable aircraft rating; or
+
+3\. remove the applicable limitations in accordance with point 66.A.50.
+
+The competent authority record system shall be changed accordingly.
+
+(b) In the case where the complete type training is not conducted by maintenance training organisation appropriately approved in accordance with Annex IV (Part-147), the competent authority shall be satisfied that all type training requirements are complied with before the type rating is issued.
+
+(c) In the case where the On the Job Training is not required, the aircraft type rating shall be endorsed based on a Certificate of Recognition issued by a maintenance training organisation approved in accordance with Annex IV (part-147).
+
+(d) In the case where the aircraft type training is not covered by a single course, the competent authority shall be satisfied prior to the type rating endorsement that the content and length of the courses fully satisfy the scope of the licence category and that the interface areas have been appropriately addressed.
+
+(e) In the case of differences training, the competent authority shall be satisfied that (i) the applicant's previous qualification, supplemented by (ii) either a course approved in accordance with Annex IV (Part-147) or a course directly approved by the competent authority, are acceptable for type rating endorsement.
+
+(f) The competent authority shall ensure that compliance with the practical elements of the type training is demonstrated by one of the following:
+
+(i) by the provision of detailed practical training records or a logbook provided by the organisation which delivered the course directly approved by the competent authority in accordance with point 66.B.130;
+
+(ii) where available, by a training certificate, covering the practical training element, issued by a maintenance training organisation appropriately approved in accordance with Annex IV (Part-147).
+
+(g) Aircraft type endorsement shall use the aircraft type ratings specified by the Agency.
+
+66.B.120 Procedure for the renewal of an aircraft maintenance licence validity
+
+(a) The competent authority shall compare the holder's aircraft maintenance licence with the competent authority records and verify any pending revocation, suspension or change action pursuant to point 66.B.500. If the documents are identical and no action is pending pursuant to point 66.B.500, the holder's copy shall be renewed for 5 years and the file endorsed accordingly.
+
+(b) If the competent authority records are different from the aircraft maintenance licence held by the licence holder:
+
+1\. the competent authority shall investigate the reasons for such differences and may choose not to renew the aircraft maintenance licence.
+
+2\. the competent authority shall inform the licence holder and any known maintenance organisation approved in accordance with Annex I (Part-M) Subpart F, Annex II (Part-145) or Annex Vd (Part-CAO) that may be directly affected by such fact.
+
+3\. the competent authority shall, if necessary, take action in accordance with point 66.B.500 to revoke, suspend or change the licence in question.
+
+66.B.125 Procedure for the conversion of licences including group ratings
+
+(a) Individual aircraft type ratings already endorsed on the aircraft maintenance licence referred to in point 4 of Article 5 shall remain on the licence and shall not be converted to new ratings unless the licence holder fully meets the requirements for endorsement defined in point 66.A.45 of this Annex (Part-66) for the corresponding group/sub-group ratings.
+
+(b) The conversion shall be performed in accordance with the following conversion table:
+
+1\. for category B1 or C:
+
+— helicopter piston engine, full group: converted to ‘full subgroup 2c’ plus the aircraft type ratings for those single piston engine helicopters which are in Group 1;
+
+— helicopter piston engine, manufacturer group: converted to the corresponding ‘manufacturer subgroup 2c’ plus the aircraft type ratings for those single piston engine helicopters of that manufacturer which are in Group 1;
+
+— helicopter turbine engine, full group: converted to ‘full subgroup 2b’ plus the aircraft type ratings for those single turbine engine helicopters which are in Group 1;
+
+— helicopter turbine engine, manufacturer group: converted to the corresponding ‘manufacturer subgroup 2b’ plus the aircraft type ratings for those single turbine engine helicopters of that manufacturer which are in Group 1;
+
+— aeroplane single piston engine — metal structure, either full group or manufacturer group: converted to ‘full group 3’. For the B1 licence, the following limitations shall be included: composite-structure aeroplanes, wooden-structure aeroplanes, and metal-tubing and fabric aeroplanes;
+
+— aeroplane multiple piston engines — metal structure, either full group or manufacturer group: converted to ‘full group 3’ plus the aircraft type ratings for those aeroplanes with multiple piston engines of the corresponding full/manufacturer group which are in Group 1. For the B1 licence, the following limitations shall be included: composite-structure aeroplanes, wooden-structure aeroplanes and metal-tubing and fabric aeroplanes;
+
+— aeroplane single piston engine — wooden structure, either full group or manufacturer group: converted to ‘full group 3’. For the B1 licence, the following limitations shall be included: pressurised aeroplanes, metal-structure aeroplanes, composite-structure aeroplanes and metal-tubing and fabric aeroplanes;
+
+— aeroplane multiple piston engines — wooden structure, either full group or manufacturer group: converted to ‘full group 3’. For the B1 licence, the following limitations shall be included: pressurised aeroplanes, metal-structure aeroplanes, composite-structure aeroplanes and metal-tubing and fabric aeroplanes;
+
+— aeroplane single piston engine — composite structure, either full group or manufacturer group: converted to ‘full group 3’. For the B1 licence, the following limitations shall be included: pressurised aeroplanes, metal-structure aeroplanes, wooden-structure aeroplanes and metal-tubing and fabric aeroplanes;
+
+— aeroplane multiple piston engines — composite structure, either full group or manufacturer group: converted to ‘full group 3’. For the B1 licence, the following limitations shall be included: pressurised aeroplanes, metal-structure aeroplanes, wooden-structure aeroplanes and metal-tubing and fabric aeroplanes;
+
+— aeroplane turbine — single engine, full group: converted to ‘full sub-group 2a’ plus the aircraft type ratings for those single turboprop aeroplanes which did not require an aircraft type rating in the previous system and are in Group 1;
+
+— aeroplane turbine — single engine, manufacturer group: converted to the corresponding ‘manufacturer subgroup 2a’ plus the aircraft type ratings for those single turboprop aeroplanes of that manufacturer which did not require an aircraft type rating in the previous system and are in Group 1;
+
+— aeroplane turbine — multiple engines, full group: converted to the aircraft type ratings for those aeroplanes with multiple turboprop engines which did not require an aircraft type rating in the previous system.
+
+2\. for category B2:
+
+— aeroplane: converted to ‘full sub-group 2a’ and ‘full group 3’, plus the aircraft type ratings for those aeroplanes which did not require an aircraft type rating in the previous system and are in group 1,
+
+— helicopter: converted to ‘full sub-groups 2b and 2c’, plus the aircraft type ratings for those helicopters which did not require an aircraft type rating in the previous system and are in group 1;
+
+3\. for category C:
+
+— aeroplane: converted to ‘full sub-group 2a’ and ‘full group 3’, plus the aircraft type ratings for those aeroplanes which did not require an aircraft type rating in the previous system and are in group 1,
+
+— helicopter: converted to ‘full sub-groups 2b and 2c’, plus the aircraft type ratings for those helicopters which did not require an aircraft type rating in the previous system and are in group 1.
+
+(c) If the licence was subject to limitations following the conversion process referred to in point 66.A.70, these limitations shall remain on the licence, unless they are removed under the conditions defined in the relevant conversion report referred to in point 66.B.300.
+
+66.B.130 Procedure for the direct approval of aircraft type training
+
+(a) In the case of type training for aircraft other than airships, the competent authority may approve aircraft type training not conducted by a maintenance training organisation approved in accordance with Annex IV (Part-147), pursuant to point 1 of Appendix III to this Annex (Part-66). In such case, the competent authority shall have a procedure to ensure that the aircraft type training complies with Appendix III to this Annex (Part-66).
+
+(b) In the case of type training for airships in Group 1, the courses shall be directly approved by the competent authority in all cases. The competent authority shall have a procedure to ensure that the syllabus of the airship-type training covers all the elements contained in the maintenance data from the design approval holder (DAH) or the declarant of a declaration of design compliance.
+
+(c) The Certificate of Recognition (CoR) (EASA Form 149b) of Appendix III to Annex IV (Part-147) shall be used for the recognition of completion of either the theoretical elements, the practical elements or both the theoretical and practical elements of the type rating training course.
+
+66.B.135 Procedure for the approval of multimedia-based training (MBT) courses
+
+The competent authority, whenever it approves courses, including multimedia-based training (MBT) courses, which are delivered in a physical environment or virtual environment or both, shall verify that the aircraft basic training and the aircraft type training comply with Appendix I and Appendix III respectively.
+
+The approval procedure shall include the principles and criteria of Appendix IX.
+
+**SUBPART C**
+
+**EXAMINATIONS**
+
+This Subpart provides the procedures to be followed for the examinations conducted by the competent authority.
+
+66.B.200 Examination by the competent authority
+
+(a) All examination questions shall be kept in a secure manner prior to an examination, to ensure that candidates will not know which particular questions will form the basis of the examination.
+
+(b) The competent authority shall nominate:
+
+1\. persons who control the questions to be used for each examination;
+
+2\. examiners who shall be present during all examinations to ensure the integrity of the examination.
+
+(c) Basic examinations shall follow the standard specified in Appendices I and II or in Appendices VII and VIII as applicable.
+
+The Certificate of Recognition (CoR) (EASA Form 148b) of Appendix III to Annex IV (Part-147) shall be used to attest completion of basic examinations.
+
+(d) Type training examinations and type evaluations shall follow the standard specified in Appendix III.
+
+The Certificate of Recognition (CoR) (EASA Form 149b) of Appendix III to Annex IV (Part-147) shall be used to attest completion of aircraft type training or type evaluations.
+
+(e) New essay questions shall be raised at least every 6 months and questions already used withdrawn or rested from use. A record of the questions used shall be retained in the records for reference.
+
+(f) All examination papers shall be handed out at the start of the examination to the candidate and handed back to the examiner at the end of the allotted examination time period. No examination paper may be removed from the examination room during the allotted examination time period.
+
+(g) Apart from specific documentation needed for type evaluations, only the examination documents may be available to the candidate during the evaluation.
+
+(h) Examination candidates shall be separated from each other so that they cannot read each other's examination papers. They may not speak to any person other than the examiner.
+
+(i) Candidates who are proven to be cheating shall be banned from taking any further examination within 12 months of the date of the examination in which they were found cheating.
+
+**SUBPART D**
+
+**CONVERSION OF CERTIFYING STAFF QUALIFICATIONS**
+
+This Subpart provides the procedures for the conversion of certifying staff qualifications referred to in point 66.A.70 to aircraft maintenance licences.
+
+66.B.300 General
+
+(a) The competent authority may only convert qualifications (i) obtained in the Member State for which it is competent, without prejudice to bilateral agreements and (ii) valid prior to the entry into force of the applicable requirements of this Annex (Part-66).
+
+(b) The competent authority may only perform the conversion in accordance with a conversion report established pursuant to points 66.B.305 or 66.B.310, as applicable.
+
+(c) Conversion reports shall be either (i) developed by the competent authority or (ii) approved by the competent authority to ensure compliance with this Annex (Part-66).
+
+(d) Conversion reports together with any change of these shall be kept on record by the competent authority in accordance with point 66.B.20.
+
+66.B.305 Conversion report for national qualifications
+
+(a) The conversion report for national certifying staff qualifications shall describe the scope of each type of qualification, including the associated national licence, if any, the associated privileges and include a copy of the relevant national regulations defining these.
+
+(b) The conversion report shall show for each type of qualification referred to in point (a):
+
+1\. to which aircraft maintenance licence it will be converted; and
+
+2\. which limitations shall be added in accordance with points 66.A.70(c) or (d), as applicable; and
+
+3\. the conditions to remove the limitations, specifying the module/subjects on which examination is needed to remove the limitations and obtain a full aircraft maintenance licence, or to include an additional (sub-) category. This shall include the modules defined in Appendix I  to this Annex (Part-66) not covered by the national qualification.
+
+66.B.310 Conversion report for approved maintenance organisations authorisations
+
+(a) For each approved maintenance organisation concerned, the conversion report shall describe the scope of each type of authorisation issued by the maintenance organisation and include a copy of the relevant approved maintenance organisation's procedures for the qualification and the authorisation of certifying staff on which the conversion process is based.
+
+(b) The conversion report shall show for each type of authorisation referred to in point (a):
+
+1\. to which aircraft maintenance licence it will be converted, and
+
+2\. which limitations shall be added in accordance with points 66.A.70(c) or (d), as applicable, and
+
+3\. the conditions to remove the limitations, specifying the module/subjects on which examination is needed to remove the limitations and obtain a full aircraft maintenance licence, or to include an additional (sub-) category. This shall include the modules defined in Appendix III to this Annex (Part-66) not covered by the national qualification.
+
+**SUBPART E**
+
+**EXAMINATION CREDITS**
+
+This Subpart provides the procedures for granting examination credits referred to in point 66.A.25(d).
+
+66.B.400 General
+
+(a) The competent authority may only grant credit on the basis of a credit report prepared in accordance with point 66.B.405.
+
+(b) The credit report shall be either (i) developed by the competent authority or (ii) approved by the competent authority to ensure compliance with this Annex (Part-66).
+
+(c) Credit reports together with any change of these shall be dated and kept on record by the competent authority in accordance with point 66.B.20.
+
+(d) When an applicant refers to a credit report approved by another competent authority, the licencing authority shall consider such credit report and seek advice from the other authority for the use of the credit report.
+
+66.B.405 Examination credit report
+
+(a) The credit report shall include a comparison between the following:
+
+(i) the modules, submodules, subjects and knowledge levels contained in Appendices I or VII to this Annex (Part-66), as applicable;
+
+(ii) the syllabus of the technical qualification concerned, relevant to the particular category being sought.
+
+This comparison shall state whether compliance has been demonstrated and shall contain the justifications for each statement and the possible conditions or additional considerations, or both.
+
+(b) Credits for examinations, other than basic knowledge examinations carried out in maintenance training organisations approved in accordance with Annex IV (Part-147), can only be granted by the competent authority of the Member State in which the qualification has been obtained, unless a formal agreement exists with such competent authority advising otherwise.
+
+(c) No credit can be granted unless there is a statement of compliance for each module and submodule, indicating where the equivalent standard can be found in the technical qualification.
+
+(d) The competent authority shall check on a regular basis whether the following have changed:
+
+(i) the national qualification standard;
+
+(ii) Appendices I or VII to this Annex (Part-66), as applicable.
+
+The competent authority shall also assess if changes to the credit report are consequently required. Such changes shall be documented, dated and recorded.
+
+66.B.410 Examination credit validity
+
+(a) The competent authority shall notify to the applicant in writing any credits granted together with the reference to the credit report used.
+
+(b) Credits shall expire 10 years after they are granted.
+
+(c) Upon expiration of the credits, the applicant may apply for new credits. The competent authority shall extend the validity of the credits for an additional period of 10 years without further consideration if the basic knowledge requirements defined in Appendices I or VII to this Annex (Part-66), as applicable, have not been changed.
+
+**SUBPART F**
+
+**CONTINUING OVERSIGHT**
+
+This Subpart describes the procedures for the continuing oversight of the aircraft maintenance licence and in particular for the revocation, suspension or limitation of the aircraft maintenance licence.
+
+66.B.500 Revocation, suspension or limitation of the aircraft maintenance licence
+
+The competent authority shall suspend, limit or revoke the aircraft maintenance licence where it has identified a safety issue or if it has clear evidence that the person has carried out or been involved in one or more of the following activities:
+
+1\. obtaining the aircraft maintenance licence and/or the certification privileges by falsification of documentary evidence;
+
+2\. failing to carry out requested maintenance combined with failure to report such fact to the organisation or person who requested the maintenance;
+
+3\. failing to carry out required maintenance resulting from own inspection combined with failure to report such fact to the organisation or person for whom the maintenance was intended to be carried out;
+
+4\. negligent maintenance;
+
+5\. falsification of the maintenance record;
+
+6\. issuing a certificate of release to service knowing that the maintenance specified on the certificate of release to service has not been carried out or without verifying that such maintenance has been carried out;
+
+7\. carrying out maintenance or issuing a certificate of release to service when adversely affected by alcohol or drugs;
+
+8\. issuing certificate of release to service while not in compliance with this Regulation.
+
+## Appendix I — Basic Knowledge Requirements — (except for category L licence)
+
+**1\. Knowledge levels for category A, B1, B2, B2L, B3 and C aircraft maintenance licences**
+
+Basic knowledge for categories A, B1, B2, B2L and B3 is indicated by knowledge levels (1, 2 or 3) of each applicable subject. Category C applicants shall meet either the category B1 or the category B2 basic knowledge levels.
+
+The knowledge level indicators are defined on 3 levels as follows:
+
+— LEVEL 1: A familiarisation with the principal elements of the subject.
+
+Objectives:
+
+(a) The applicant should be familiar with the basic elements of the subject.
+
+(b) The applicant should be able to give a simple description of the whole subject, using common words and examples.
+
+(c) The applicant should be able to use typical terms.
+
+— LEVEL 2: A general knowledge of the theoretical and practical aspects of the subject and an ability to apply that knowledge.
+
+Objectives:
+
+(a) The applicant should be able to understand the theoretical fundamentals of the subject.
+
+(b) The applicant should be able to give a general description of the subject using, as appropriate, typical examples.
+
+(c) The applicant should be able to use mathematical formulae in conjunction with physical laws describing the subject.
+
+(d) The applicant should be able to read and understand sketches, drawings and schematics describing the subject.
+
+(e) The applicant should be able to apply his knowledge in a practical manner using detailed procedures.
+
+— LEVEL 3: A detailed knowledge of the theoretical and practical aspects of the subject and a capacity to combine and apply the separate elements of knowledge in a logical and comprehensive manner.
+
+Objectives:
+
+(a) The applicant should know the theory of the subject and interrelationships with other subjects.
+
+(b) The applicant should be able to give a detailed description of the subject using theoretical fundamentals and specific examples.
+
+(c) The applicant should understand and be able to use mathematical formulae related to the subject.
+
+(d) The applicant should be able to read, understand and prepare sketches, simple drawings and schematics describing the subject.
+
+(e) The applicant should be able to apply his knowledge in a practical manner using manufacturer's instructions.
+
+(f) The applicant should be able to interpret results from various sources and measurements and apply corrective action where appropriate.
+
+**2\. Modularisation**
+
+Qualification on basic subjects for each aircraft maintenance licence category or subcategory shall be in accordance with the following matrix, where applicable subjects are indicated by an ‘X’, while ‘n/a’ means that the subject module is neither applicable nor required.
+
+<table>
+<tbody><tr><td rowspan="2">Subject module</td><td>B1.1 A1 </td><td>B1.2 A2 </td><td>B1.E</td><td>B1.3 A3 </td><td>B1.4 A4 </td><td>B3</td><td rowspan="2">B2</td><td rowspan="2">B2L</td><td rowspan="2">C</td></tr>
+<tr><td>Turbine engine</td><td>Piston engine</td><td>Aeroplanes with electric power plant and MTOM below 5 700 kg</td><td>Turbine engine</td><td>Piston engine </td><td>Piston-engine non-pressurised aeroplanes MTOM ≤ 2 t </td></tr>
+<tr><td>1. MATHEMATICS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>2. PHYSICS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>3. ELECTRICAL FUNDAMENTALS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>4. ELECTRONICS FUNDAMENTALS</td><td>X (n/a for A1) </td><td>X (n/a for A2) </td><td>X</td><td>X (n/a for A3) </td><td>X (n/a for A4) </td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>5. DIGITAL TECHNIQUES/ELECTRONIC INSTRUMENT SYSTEMS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>6. MATERIALS AND HARDWARE</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>7. MAINTENANCE PRACTICES</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>8. BASIC AERODYNAMICS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>9. HUMAN FACTORS</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>10. AVIATION LEGISLATION</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>11. AEROPLANE AERODYNAMICS, STRUCTURES AND SYSTEMS</td><td>X</td><td>X</td><td>X</td><td>n/a</td><td>n/a</td><td>X</td><td>n/a</td><td>n/a</td><td rowspan="8">11, 15 & 17 as B1.1  or  11, 16 & 17  as B1.2  or  11, 17 & 18  as B1.E  or  12 & 15  as B1.3  or  12 & 16  as B1.4  or  13 & 14  as B2 </td></tr>
+<tr><td>12. HELICOPTER AERODYNAMICS, STRUCTURES AND SYSTEMS</td><td>n/a</td><td>n/a</td><td>n/a</td><td>X</td><td>X</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>13. AIRCRAFT AERODYNAMICS, STRUCTURES AND SYSTEMS</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>X</td><td>X</td></tr>
+<tr><td>14. PROPULSION</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>X</td><td>X</td></tr>
+<tr><td>15. GAS TURBINE ENGINE</td><td>X</td><td>n/a</td><td>n/a</td><td>X</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>16. PISTON ENGINE</td><td>n/a</td><td>X</td><td>n/a</td><td>n/a</td><td>X</td><td>X</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>17. PROPELLER</td><td>X</td><td>X</td><td>X</td><td>n/a</td><td>n/a</td><td>X</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>18. ELECTRIC POWER PLANT</td><td>n/a</td><td>n/a</td><td>X</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+</tbody>
+</table>
+
+**MODULE 1. MATHEMATICS**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 1. MATHEMATICS</td><td colspan="2">LEVEL</td></tr>
+<tr><td>A</td><td>B1 B2  B2L  B3 </td></tr>
+<tr><td>1.1 Arithmetic</td><td>1</td><td>2</td></tr>
+<tr><td>1.2 Algebra</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Simple algebraic expressions;</td><td>1</td><td>2</td></tr>
+<tr><td>(b) Equations.</td><td>—</td><td>1</td></tr>
+<tr><td>1.3 Geometry</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Simple geometrical constructions;</td><td>—</td><td>1</td></tr>
+<tr><td>(b) Graphical representation;</td><td>2</td><td>2</td></tr>
+<tr><td>(c) Trigonometry.</td><td>—</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 2. PHYSICS**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 2. PHYSICS</td><td colspan="2">LEVEL</td></tr>
+<tr><td>A B3 </td><td>B1 B2  B2L </td></tr>
+<tr><td>2.1 Matter</td><td>1</td><td>2</td></tr>
+<tr><td>2.2 Mechanics</td><td>  </td><td>  </td></tr>
+<tr><td>2.2.1 Statics</td><td>1</td><td>2</td></tr>
+<tr><td>2.2.2 Kinetics</td><td>1</td><td>2</td></tr>
+<tr><td>2.2.3 Dynamics</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Mass, force and energy;</td><td>1</td><td>2</td></tr>
+<tr><td>(b) Momentum and conservation of momentum.</td><td>1</td><td>2</td></tr>
+<tr><td>2.2.4 Fluid dynamics</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Gravity and density;</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Viscosity; compressibility on fluids; static, dynamic, and total pressure.</td><td>1</td><td>2</td></tr>
+<tr><td>2.3 Thermodynamics</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Temperature;</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Heat.</td><td>1</td><td>2</td></tr>
+<tr><td>2.4 Optics (light)</td><td>—</td><td>2</td></tr>
+<tr><td>2.5 Wave motion and sound</td><td>—</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 3. ELECTRICAL FUNDAMENTALS**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 3. ELECTRICAL FUNDAMENTALS</td><td colspan="3">LEVEL</td></tr>
+<tr><td>A</td><td>B1 B2  B2L </td><td>B3</td></tr>
+<tr><td>3.1 Electron theory</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>3.2 Static electricity and conduction</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>3.3 Electrical terminology</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>3.4 Generation of electricity</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>3.5 Sources of DC electricity</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>3.6 DC circuits</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>3.7 Resistance/resistor</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Resistance;</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>(b) Resistors.</td><td>—</td><td>1</td><td>—</td></tr>
+<tr><td>3.8 Power</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>3.9 Capacitance/capacitor</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>3.10 Magnetism</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Theory of magnetism;</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>(b) Magnetomotive force.</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>3.11 Inductance/inductor</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>3.12 DC motor/generator theory</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>3.13 AC theory</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>3.14 Resistive (R), capacitive (C) and inductive (L) circuits</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>3.15 Transformers</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>3.16 Filters</td><td>—</td><td>1</td><td>—</td></tr>
+<tr><td>3.17 AC generators</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>3.18 AC motors</td><td>—</td><td>2</td><td>1</td></tr>
+</tbody>
+</table>
+
+**MODULE 4. ELECTRONICS FUNDAMENTALS**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 4. ELECTRONICS FUNDAMENTALS</td><td colspan="3">LEVEL</td></tr>
+<tr><td>A</td><td>B1 B3 </td><td>B2 B2L </td></tr>
+<tr><td>4.1 Semiconductors</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>4.1.1 Diodes</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Description and characteristics;</td><td>—</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Operation and function.</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>4.1.2 Transistors</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Description and characteristics;</td><td>—</td><td>1</td><td>2</td></tr>
+<tr><td>(b) Construction and operation.</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>4.1.3 Integrated circuits</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Basic description and operation;</td><td>—</td><td>1</td><td>2</td></tr>
+<tr><td>(b) Description and operation.</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>4.2 Printed circuit boards</td><td>—</td><td>1</td><td>2</td></tr>
+<tr><td>4.3 Servomechanisms</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Principles;</td><td>—</td><td>1</td><td>2</td></tr>
+<tr><td>(b) Construction, operation, and use.</td><td>—</td><td>—</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 5. DIGITAL TECHNIQUES/ELECTRONIC INSTRUMENT SYSTEMS**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 5. DIGITAL TECHNIQUES/ELECTRONIC INSTRUMENT SYSTEMS</td><td colspan="4">LEVEL</td></tr>
+<tr><td>A</td><td>B3</td><td>B1</td><td>B2 B2L </td></tr>
+<tr><td>5.1 Electronic instrument systems</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>5.2 Numbering systems</td><td>—</td><td>—</td><td>1</td><td>2</td></tr>
+<tr><td>5.3 Data conversion</td><td>—</td><td>—</td><td>1</td><td>2</td></tr>
+<tr><td>5.4 Data buses</td><td>—</td><td>—</td><td>2</td><td>2</td></tr>
+<tr><td>5.5 Logic circuits</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Identification and applications;</td><td>—</td><td>—</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Interpretation of logic diagrams.</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>5.6 Basic computer structure</td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Computer terminology and technology;</td><td>1</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Computer operation.</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>5.7 Microprocessors</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>5.8 Integrated circuits</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>5.9 Multiplexing</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>5.10 Fibre optics</td><td>—</td><td>—</td><td>1</td><td>2</td></tr>
+<tr><td>5.11 Electronic displays</td><td>1</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>5.12 Electrostatic sensitive devices</td><td>1</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>5.13 Software management control</td><td>—</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>5.14 Electromagnetic environment</td><td>—</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>5.15 Typical electronic/digital aircraft systems</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+</tbody>
+</table>
+
+**MODULE 6. MATERIALS AND HARDWARE**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 6. MATERIALS AND HARDWARE</td><td colspan="3">LEVEL</td></tr>
+<tr><td>A</td><td>B1 B3 </td><td>B2 B2L </td></tr>
+<tr><td>6.1 Aircraft materials – ferrous</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Alloy steels used in aircraft;</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>(b) Testing of ferrous materials;</td><td>—</td><td>1</td><td>1</td></tr>
+<tr><td>(c) Repair and inspection procedures.</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>6.2 Aircraft materials – non-ferrous</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Characteristics;</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>(b) Testing of non-ferrous materials;</td><td>—</td><td>1</td><td>1</td></tr>
+<tr><td>(c) Repair and inspection procedures.</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>6.3 Aircraft materials – composite and non-metallic</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>6.3.1 Composite and non-metallic other than wood and fabric</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Characteristics;</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Detection of defects;</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td>(c) Repairs and inspection procedures.</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>6.3.2 Wooden structures</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td>6.3.3 Fabric covering</td><td>—</td><td>1</td><td>—</td></tr>
+<tr><td>6.4 Corrosion</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Chemical fundamentals;</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>(b) Types of corrosion.</td><td>2</td><td>3</td><td>2</td></tr>
+<tr><td>6.5 Fasteners</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>6.5.1 Screw threads</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>6.5.2 Bolts, studs, and screws</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>6.5.3 Locking devices</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>6.5.4 Aircraft rivets</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>6.6 Pipes and unions</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Identification;</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Standard unions.</td><td>2</td><td>2</td><td>1</td></tr>
+<tr><td>6.7 Springs</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>6.8 Bearings</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>6.9 Transmissions</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>6.10 Control cables</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>6.11 Electrical cables and connectors</td><td>1</td><td>2</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 7. MAINTENANCE PRACTICES**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 7. MAINTENANCE PRACTICES</td><td colspan="3">LEVEL</td></tr>
+<tr><td>A</td><td>B1 B3 </td><td>B2 B2L </td></tr>
+<tr><td>7.1 Safety precautions – aircraft and workshop</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>7.2 Workshop practices</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>7.3 Tools</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>7.4 Potential safety hazards when working with electrical systems and protective equipment</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td colspan="4"></td></tr>
+<tr><td>7.5 Engineering drawings, diagrams and standards</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>7.6 Fits and clearances</td><td>1</td><td>2</td><td>1</td></tr>
+<tr><td>7.7 Electrical wiring interconnection system (EWIS)</td><td>1</td><td>3</td><td>3</td></tr>
+<tr><td>7.8 Riveting</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td>7.9 Pipes and hoses</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td>7.10 Springs</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td>7.11 Bearings</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td>7.12 Transmissions</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td>7.13 Control cables</td><td>1</td><td>2</td><td>—</td></tr>
+<tr><td>7.14 Material handling</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>7.14.1 Sheet metal</td><td>—</td><td>2</td><td>—</td></tr>
+<tr><td>7.14.2 Composite and non-metallic</td><td>—</td><td>2</td><td>—</td></tr>
+<tr><td>7.14.3 Additive manufacturing</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>7.15 (Reserved)</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>7.16 Aircraft weight and balance</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Centre-of-gravity calculation;</td><td>—</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Aircraft weighing.</td><td>—</td><td>2</td><td>—</td></tr>
+<tr><td>7.17 Aircraft handling and storage</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>7.18 Disassembly, inspection, repair and assembly techniques</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Types of defects and visual inspection techniques;</td><td>2</td><td>3</td><td>3</td></tr>
+<tr><td>(b) General repair methods – structural repair manual;</td><td>—</td><td>2</td><td>—</td></tr>
+<tr><td>(c) Non-destructive inspection techniques;</td><td>—</td><td>2</td><td>1</td></tr>
+<tr><td>(d) Disassembly and reassembly techniques;</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>(e) Troubleshooting techniques.</td><td>—</td><td>2</td><td>2</td></tr>
+<tr><td>7.19 Abnormal events</td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Inspections following lightning strikes and HIRF penetration;</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Inspections following abnormal events such as heavy landings and flight through turbulence.</td><td>2</td><td>2</td><td>—</td></tr>
+<tr><td>7.20 Maintenance procedures</td><td>1</td><td>2</td><td>2</td></tr>
+<tr><td>7.21 Documentation & communication</td><td>1</td><td>2</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 8. BASIC AERODYNAMICS**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 8. BASIC AERODYNAMICS</td><td colspan="2">LEVEL</td></tr>
+<tr><td>A B3 </td><td>B1 B2  B2L </td></tr>
+<tr><td>8.1 Physics of the atmosphere</td><td rowspan="2">1</td><td rowspan="2">2</td></tr>
+<tr><td>International Standard Atmosphere (ISA), application to aerodynamics</td></tr>
+<tr><td>8.2 Aerodynamics</td><td>1</td><td>2</td></tr>
+<tr><td>8.3 Theory of flight</td><td>1</td><td>2</td></tr>
+<tr><td>8.4 High-speed airflow</td><td>1</td><td>2</td></tr>
+<tr><td>8.5 Flight stability and dynamics</td><td>1</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 9. HUMAN FACTORS**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 9. HUMAN FACTORS</td><td>LEVEL</td></tr>
+<tr><td>ALL</td></tr>
+<tr><td>9.1 General</td><td>2</td></tr>
+<tr><td>9.2 Human performance and limitations</td><td>2</td></tr>
+<tr><td>9.3 Social psychology</td><td>1</td></tr>
+<tr><td>9.4 Factors that affect performance</td><td>2</td></tr>
+<tr><td>9.5 Physical environment</td><td>1</td></tr>
+<tr><td>9.6 Tasks</td><td>1</td></tr>
+<tr><td>9.7 Communication</td><td>2</td></tr>
+<tr><td>9.8 Human error</td><td>2</td></tr>
+<tr><td>9.9 Safety management</td><td>2</td></tr>
+<tr><td>9.10 The ‘Dirty Dozen’ and risk mitigation</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 10. AVIATION LEGISLATION**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 10. AVIATION LEGISLATION</td><td colspan="2">LEVEL</td></tr>
+<tr><td>A</td><td>B1 B2  B2L  B3 </td></tr>
+<tr><td>10.1 Regulatory framework</td><td>1</td><td>1</td></tr>
+<tr><td>10.2 Certifying staff – maintenance</td><td>2</td><td>2</td></tr>
+<tr><td>10.3 Approved maintenance organisations</td><td>2</td><td>2</td></tr>
+<tr><td>10.4 Independent certifying staff</td><td>—</td><td>3</td></tr>
+<tr><td>10.5 Air operations</td><td>1</td><td>1</td></tr>
+<tr><td>10.6 Certification of aircraft, parts, and appliances</td><td>2</td><td>2</td></tr>
+<tr><td>10.7 Continuing airworthiness</td><td>2</td><td>2</td></tr>
+<tr><td>10.8 Oversight principles in continuing airworthiness</td><td>1</td><td>1</td></tr>
+<tr><td>10.9 Maintenance and certification beyond the current EU regulations (if not superseded by EU requirements)</td><td>-</td><td>1</td></tr>
+<tr><td>10.10 Cybersecurity in aviation maintenance</td><td>1</td><td>1</td></tr>
+</tbody>
+</table>
+
+**MODULE 11. AEROPLANE AERODYNAMICS, STRUCTURES AND SYSTEMS**
+
+<table>
+<tbody><tr><td colspan="6"></td></tr>
+<tr><td rowspan="3">MODULE 11. AEROPLANE AERODYNAMICS, STRUCTURES AND SYSTEMS</td><td colspan="5">LEVEL</td></tr>
+<tr><td>A1</td><td>A2</td><td>B1.1</td><td>B1.2 / B1.E</td><td>B3</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>11.1 Theory of flight</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Aeroplane aerodynamics and flight controls;</td><td>1</td><td>1</td><td>2</td><td>2</td><td>1</td></tr>
+<tr><td>(b) Aeroplane, other aerodynamic devices.</td><td>1</td><td>1</td><td>2</td><td>2</td><td>1</td></tr>
+<tr><td>11.2 Airframe structures(ATA 51)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) General concepts;</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Airworthiness requirements for structural strength;</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>(c) Construction methods.</td><td>1</td><td>1</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>11.3 Airframe structures – aeroplanes</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11.3.1 Fuselage, doors, windows (ATA 52/53/56)</td><td rowspan="2">1</td><td rowspan="2">1</td><td rowspan="2">2</td><td rowspan="2">2</td><td rowspan="2">1</td></tr>
+<tr><td>(a) Construction principles;</td></tr>
+<tr><td>(b) Airborne towing devices;</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>(c) Doors.</td><td>1</td><td>1</td><td>2</td><td>1</td><td>-</td></tr>
+<tr><td>11.3.2 Wings (ATA 57)</td><td>1</td><td>1</td><td>2</td><td>2</td><td>1</td></tr>
+<tr><td>11.3.3 Stabilisers (ATA 55)</td><td>1</td><td>1</td><td>2</td><td>2</td><td>1</td></tr>
+<tr><td>11.3.4 Flight control surfaces (ATA 55/57)</td><td>1</td><td>1</td><td>2</td><td>2</td><td>1</td></tr>
+<tr><td>11.3.5 Nacelles/pylons (ATA 54)</td><td>1</td><td>1</td><td>2</td><td>2</td><td>1</td></tr>
+<tr><td>11.4 Air conditioning and cabin pressurisation (ATA 21)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Pressurisation;</td><td>1</td><td>1</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td>(b) Air supply;</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(c) Air conditioning;</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(d) Safety and warning devices;</td><td>1</td><td>1</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td>(e) Heating and ventilation system.</td><td>—</td><td>1</td><td>—</td><td>3</td><td>1</td></tr>
+<tr><td>11.5 Instruments/avionics systems</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>11.5.1 Instrument systems (ATA 31)</td><td>1</td><td>1</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>11.5.2 Avionics systems</td><td rowspan="2">1</td><td rowspan="2">1</td><td rowspan="2">1</td><td rowspan="2">1</td><td rowspan="2">1</td></tr>
+<tr><td>Fundamentals of system layouts and operation of: Autoflight (ATA 22);  Communications (ATA 23);  Navigation systems (ATA 34). </td></tr>
+<tr><td>11.6 Electrical power (ATA 24)</td><td>1</td><td>1</td><td>3</td><td>3</td><td>3</td></tr>
+<tr><td>11.7 Equipment and furnishings(ATA 25)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Emergency equipment;</td><td>2</td><td>2</td><td>2</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Cabin and cargo layout.</td><td>1</td><td>1</td><td>1</td><td>1</td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>11.8 Fire protection(ATA 26)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Fire and smoke detection system and fire-extinguishing systems;</td><td>1</td><td>1</td><td>3</td><td>3</td><td>—</td></tr>
+<tr><td>(b) Portable fire extinguisher.</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>11.9 Flight controls(ATA 27)</td><td rowspan="2">1</td><td rowspan="2">1</td><td rowspan="2">3</td><td rowspan="2">3</td><td rowspan="2">2</td></tr>
+<tr><td>(a) Primary and secondary flight controls;</td></tr>
+<tr><td>(b) Actuation and protection;</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(c) System operation;</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(d) Balancing and rigging.</td><td>1</td><td>1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>11.10 Fuel systems(ATA 28, ATA 47)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Systems layout;</td><td>1</td><td>1</td><td>3</td><td>3/-</td><td>1</td></tr>
+<tr><td>(b) Fuel handling;</td><td>1</td><td>1</td><td>3</td><td>3/-</td><td>1</td></tr>
+<tr><td>(c) Indication and warnings;</td><td>1</td><td>1</td><td>3</td><td>3/-</td><td>1</td></tr>
+<tr><td>(d) Special systems;</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(e) Balancing.</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td colspan="6"></td></tr>
+<tr><td>11.11 Hydraulic power(ATA 29)</td><td rowspan="2">1</td><td rowspan="2">1</td><td rowspan="2">3</td><td rowspan="2">3</td><td rowspan="2">2</td></tr>
+<tr><td>(a) System description;</td></tr>
+<tr><td>(b) System operation (1);</td><td>1</td><td>1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>(c) System operation (2).</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>11.12 Ice and rain protection(ATA 30)</td><td rowspan="2">1</td><td rowspan="2">1</td><td rowspan="2">3</td><td rowspan="2">3</td><td rowspan="2">1</td></tr>
+<tr><td>(a) Principles;</td></tr>
+<tr><td>(b) De-icing;</td><td>1</td><td>1</td><td>3</td><td>3</td><td>1</td></tr>
+<tr><td>(c) Anti-icing;</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(d) Wipers;</td><td>1</td><td>1</td><td>3</td><td>3</td><td>1</td></tr>
+<tr><td>(e) Rain repellent systems</td><td>1</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>11.13 Landing gear(ATA 32)</td><td rowspan="2">2</td><td rowspan="2">2</td><td rowspan="2">3</td><td rowspan="2">3</td><td rowspan="2">2</td></tr>
+<tr><td>(a) Description;</td></tr>
+<tr><td>(b) System operation;</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>(c) Air-ground sensing;</td><td>2</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(d) Tail protection.</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>11.14 Lights(ATA 33)</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>11.15 Oxygen(ATA 35)</td><td>1</td><td>1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>11.16 Pneumatic/vacuum(ATA 36)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Systems;</td><td>1</td><td>1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>(b) Pumps.</td><td>1</td><td>1</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>11.17 Water/waste(ATA 38)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Systems;</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>(b) Corrosion.</td><td>2</td><td>2</td><td>3</td><td>3</td><td>2</td></tr>
+<tr><td>11.18 On-board maintenance systems(ATA 45)</td><td>1</td><td>—</td><td>2</td><td>—</td><td>—</td></tr>
+<tr><td>11.19 Integrated modular avionics(ATA 42)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Overall system description and theory;</td><td>1</td><td>—</td><td>2</td><td>—</td><td>—</td></tr>
+<tr><td>(b) Typical system layouts.</td><td>1</td><td>—</td><td>2</td><td>—</td><td>—</td></tr>
+<tr><td>11.20 Cabin systems(ATA 44)</td><td>1</td><td>—</td><td>2</td><td>—</td><td>—</td></tr>
+<tr><td>11.21 Information systems(ATA 46)</td><td>1</td><td>—</td><td>2</td><td>—</td><td>—</td></tr>
+</tbody>
+</table>
+
+**MODULE 12. HELICOPTER AERODYNAMICS, STRUCTURES AND SYSTEMS**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 12. HELICOPTER AERODYNAMICS, STRUCTURES AND SYSTEMS</td><td colspan="2">LEVEL</td></tr>
+<tr><td>A3 A4 </td><td>B1.3 B1.4 </td></tr>
+<tr><td>12.1 Theory of flight – rotary wing aerodynamics</td><td>1</td><td>2</td></tr>
+<tr><td>12.2 Flight control systems(ATA 67)</td><td>2</td><td>3</td></tr>
+<tr><td>12.3 Blade tracking and vibration analysis(ATA 18)</td><td>1</td><td>3</td></tr>
+<tr><td>12.4 Transmission</td><td>1</td><td>3</td></tr>
+<tr><td>12.5 Airframe structures(ATA 51)</td><td>  </td><td>  </td></tr>
+<tr><td>(a) General concept;</td><td>2</td><td>2</td></tr>
+<tr><td>(b) Construction methods of the principal elements.</td><td>1</td><td>2</td></tr>
+<tr><td>12.6 Air conditioning(ATA 21)</td><td>  </td><td>  </td></tr>
+<tr><td>12.6.1 Air supply</td><td>1</td><td>2</td></tr>
+<tr><td>12.6.2 Air conditioning</td><td>1</td><td>3</td></tr>
+<tr><td>12.7 Instruments/avionics systems</td><td>  </td><td>  </td></tr>
+<tr><td>12.7.1 Instrument systems(ATA 31)</td><td>1</td><td>2</td></tr>
+<tr><td>12.7.2 Avionics systems</td><td rowspan="2">1</td><td rowspan="2">1</td></tr>
+<tr><td>Fundamentals of system layouts and operation of: Autoflight (ATA 22);  Communications (ATA 23);  Navigation systems (ATA 34). </td></tr>
+<tr><td>12.8 Electrical Power(ATA 24)</td><td>1</td><td>3</td></tr>
+<tr><td>12.9 Equipment and Furnishings(ATA 25)</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Emergency equipment; Seats, harnesses, and belts;  Lifting systems; </td><td>2</td><td>2</td></tr>
+<tr><td>(b) Emergency flotation systems; Cabin layout, cargo retention;  Equipment layout;  Cabin furnishing installation. </td><td>1</td><td>1</td></tr>
+<tr><td>12.10 Fire Protection(ATA 26)</td><td rowspan="2">1</td><td rowspan="2">3</td></tr>
+<tr><td>(a) Fire and smoke detection systems and Fire-extinguishing systems;</td></tr>
+<tr><td>(b) Portable fire extinguishers.</td><td>1</td><td>1</td></tr>
+<tr><td>12.11 Fuel Systems(ATA 28)</td><td>1</td><td>3</td></tr>
+<tr><td>12.12 Hydraulic Power(ATA 29)</td><td>1</td><td>3</td></tr>
+<tr><td>12.13 Ice and Rain Protection(ATA 30)</td><td>1</td><td>3</td></tr>
+<tr><td>12.14 Landing Gear(ATA 32) (a) System description and operation; </td><td>2</td><td>3</td></tr>
+<tr><td>(b) Sensors.</td><td>2</td><td>3</td></tr>
+<tr><td>12.15 Lights(ATA 33)</td><td>2</td><td>3</td></tr>
+<tr><td>12.16 (Reserved)</td><td>2</td><td>3</td></tr>
+<tr><td>12.17 Integrated Modular Avionics(ATA 42)</td><td>  </td><td>  </td></tr>
+<tr><td>(a) Overall system description and theory</td><td>1</td><td>2</td></tr>
+<tr><td>(b) Typical system layouts</td><td>1</td><td>2</td></tr>
+<tr><td>12.18 On-board Maintenance Systems(ATA 45)</td><td rowspan="2">1</td><td rowspan="2">2</td></tr>
+<tr><td>Central maintenance computers; Data-loading system;  Electronic library system. </td></tr>
+<tr><td>12.19 Information Systems(ATA 46)</td><td>1</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 13. AIRCRAFT AERODYNAMICS, STRUCTURES AND SYSTEMS**
+
+C/N: Communication & Navigation; Ins.: Instruments; A/F: Autoflight; Sur.: Surveillance; A/S: Airframe & Systems
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 13. AIRCRAFT AERODYNAMICS, STRUCTURES AND SYSTEMS</td><td colspan="7">LEVEL</td></tr>
+<tr><td>B2</td><td>B2L Basic</td><td>B2L C/N </td><td>B2L Ins. </td><td>B2L A/F </td><td>B2L Sur. </td><td>B2L A/S </td></tr>
+<tr><td>13.1 Theory of Flight</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Aeroplane Aerodynamics and Flight Controls;</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>(b) Rotary Wing Aerodynamics.</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.2 Structures – General Concepts(ATA 51)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) General concept;</td><td>2</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>(b) Fundamentals of structural systems;</td><td>1</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.3 Autoflight(ATA 22)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Fundamentals of automatic flight control;</td><td>3</td><td>—</td><td>—</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(b) Autothrottle systems and automatic landing systems.</td><td>3</td><td>—</td><td>—</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>13.4 Communication/Navigation(ATA 23/34)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Fundamentals of communication and navigation systems;</td><td>3</td><td>—</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>(b) Fundamentals of aircraft surveillance systems.</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>—</td></tr>
+<tr><td>13.5 Electrical power(ATA 24)</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.6 Equipment and furnishings(ATA 25)</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.7 Flight controls</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Primary and secondary flight controls (ATA 27);</td><td>2</td><td>—</td><td>—</td><td>—</td><td>2</td><td>—</td><td>—</td></tr>
+<tr><td>(b) Actuation and protection;</td><td>2</td><td>—</td><td>—</td><td>—</td><td>2</td><td>—</td><td>—</td></tr>
+<tr><td>(c) System operation;</td><td>3</td><td>—</td><td>—</td><td>—</td><td>3</td><td>—</td><td>—</td></tr>
+<tr><td>(d) Rotorcraft flight controls (ATA 67).</td><td>2</td><td>—</td><td>—</td><td>—</td><td>2</td><td>—</td><td>—</td></tr>
+<tr><td>13.8 Instruments(ATA 31)</td><td>3</td><td>—</td><td>—</td><td>3</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.9 Lights(ATA 33)</td><td>3</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.10 On-board maintenance systems(ATA 45)</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.11 Air conditioning and cabin pressurisation(ATA 21)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Pressurisation;</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>(b) Air supply;</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>(c) Air conditioning;</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>(d) Safety and warning devices.</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>13.12 Fire protection(ATA 26)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Fire and smoke detection system and fire-extinguishing systems;</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>(b) Portable fire extinguisher.</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>13.13 Fuel systems(ATA 28, ATA 47)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) System layout;</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>(b) Fuel handling;</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>(c) Indications and warnings;</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>(d) Special systems;</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>(e) Balancing.</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>13.14 Hydraulic power(ATA 29)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) System layout;</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>(b) System operation (1);</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>(c) System operation (2).</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>13.15 Ice and rain protection(ATA 30)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Principles;</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>(b) De-icing;</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>(c) Anti-icing;</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>(d) Wiper systems;</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>(e) Rain repellent.</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>13.16 Landing gear(ATA 32)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>(a) Description;</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>(b) System;</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>(c) Air–ground sensing.</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>13.17 Oxygen(ATA 35)</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>13.18 Pneumatic/vacuum(ATA 36)</td><td>2</td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>13.19 Water/waste(ATA 38)</td><td>2</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>13.20 Integrated modular avionics(ATA 42)</td><td>  </td><td>  </td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>(a) Overall system description and theory;</td><td>3</td><td>-</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>(b) Typical system layouts.</td><td>3</td><td>-</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.21 Cabin systems(ATA 44)</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>13.22 Information systems(ATA 46)</td><td>3</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+</tbody>
+</table>
+
+**MODULE 14. PROPULSION**
+
+<table>
+<tbody><tr><td rowspan="3">MODULE 14. PROPULSION</td><td>LEVEL</td></tr>
+<tr><td>B2 B2L Instruments  B2L Airframe & Systems </td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>14.1 Engines</td><td>  </td></tr>
+<tr><td>(a) Turbine engines;</td><td>1</td></tr>
+<tr><td>(b) Auxiliary power units (APUs);</td><td>1</td></tr>
+<tr><td>(c) Piston engines;</td><td>1</td></tr>
+<tr><td>(d) Electric and hybrid power plants and auxiliar systems;</td><td>2</td></tr>
+<tr><td>(e) Engine control.</td><td>2</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>14.2 Electric/electronic engine indication systems</td><td>2</td></tr>
+<tr><td>14.3 Propeller systems</td><td>2</td></tr>
+<tr><td>14.4 Starting and ignition systems</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 15. GAS TURBINE ENGINE**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 15. GAS TURBINE ENGINE</td><td colspan="2">LEVEL</td></tr>
+<tr><td>A1 A3 </td><td>B1.1 B1.3 </td></tr>
+<tr><td>15.1 Fundamentals</td><td>1</td><td>2</td></tr>
+<tr><td>15.2 Engine performance</td><td>—</td><td>2</td></tr>
+<tr><td>15.3 Inlet</td><td>2</td><td>2</td></tr>
+<tr><td>15.4 Compressors</td><td>1</td><td>2</td></tr>
+<tr><td>15.5 Combustion section</td><td>1</td><td>2</td></tr>
+<tr><td>15.6 Turbine section</td><td>2</td><td>2</td></tr>
+<tr><td>15.7 Exhaust</td><td>1</td><td>2</td></tr>
+<tr><td>15.8 Bearings and seals</td><td>—</td><td>2</td></tr>
+<tr><td>15.9 Lubricants and fuels</td><td>1</td><td>2</td></tr>
+<tr><td>15.10 Lubrication systems</td><td>1</td><td>2</td></tr>
+<tr><td>15.11 Fuel systems</td><td>1</td><td>2</td></tr>
+<tr><td>15.12 Air systems</td><td>1</td><td>2</td></tr>
+<tr><td>15.13 Starting and ignition systems</td><td>1</td><td>2</td></tr>
+<tr><td>15.14 Engine indication systems</td><td>1</td><td>2</td></tr>
+<tr><td>15.15 Alternate turbine constructions</td><td>—</td><td>1</td></tr>
+<tr><td>15.16 Turboprop engines</td><td>1</td><td>2</td></tr>
+<tr><td>15.17 Turboshaft engines</td><td>1</td><td>2</td></tr>
+<tr><td>15.18 Auxiliary power units (APUs)</td><td>1</td><td>2</td></tr>
+<tr><td>15.19 Power plant installation</td><td>1</td><td>2</td></tr>
+<tr><td>15.20 Fire protection systems</td><td>1</td><td>2</td></tr>
+<tr><td>15.21 Engine monitoring and ground operation</td><td>1</td><td>3</td></tr>
+<tr><td>15.22 Engine storage and preservation</td><td>—</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 16. PISTON ENGINE**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 16. PISTON ENGINE</td><td colspan="2">LEVEL</td></tr>
+<tr><td>A2 A4 </td><td>B1.2 B1.4  B3 </td></tr>
+<tr><td>16.1 Fundamentals</td><td>1</td><td>2</td></tr>
+<tr><td>16.2 Engine performance</td><td>1</td><td>2</td></tr>
+<tr><td>16.3 Engine construction</td><td>1</td><td>2</td></tr>
+<tr><td>16.4 Engine fuel systems</td><td>  </td><td>  </td></tr>
+<tr><td>16.4.1 Carburettors</td><td>1</td><td>2</td></tr>
+<tr><td>16.4.2 Fuel injection systems</td><td>1</td><td>2</td></tr>
+<tr><td>16.4.3 Electronic engine control</td><td>1</td><td>2</td></tr>
+<tr><td>16.5 Starting and ignition systems</td><td>1</td><td>2</td></tr>
+<tr><td>16.6 Induction, exhaust and cooling systems</td><td>1</td><td>2</td></tr>
+<tr><td>16.7 Supercharging/turbocharging</td><td>1</td><td>2</td></tr>
+<tr><td>16.8 Lubricants and fuels</td><td>1</td><td>2</td></tr>
+<tr><td>16.9 Lubrication systems</td><td>1</td><td>2</td></tr>
+<tr><td>16.10 Engine indication systems</td><td>1</td><td>2</td></tr>
+<tr><td>16.11 Power plant installation</td><td>1</td><td>2</td></tr>
+<tr><td>16.12 Engine monitoring and ground operation</td><td>1</td><td>3</td></tr>
+<tr><td>16.13 Engine storage and preservation</td><td>—</td><td>2</td></tr>
+<tr><td>16.14 Alternative piston engine constructions</td><td>1</td><td>1</td></tr>
+</tbody>
+</table>
+
+**MODULE 17. PROPELLER**
+
+<table>
+<tbody><tr><td colspan="3"></td></tr>
+<tr><td rowspan="3">MODULE 17. PROPELLER</td><td colspan="2">LEVEL</td></tr>
+<tr><td>A1 A2 </td><td>B1.1 B1.2  B1.E  B3 </td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>17.1 Fundamentals</td><td>1</td><td>2</td></tr>
+<tr><td>17.2 Propeller construction</td><td>1</td><td>2</td></tr>
+<tr><td>17.3 Propeller pitch control</td><td>1</td><td>2</td></tr>
+<tr><td>17.4 Propeller synchronising</td><td>—</td><td>2</td></tr>
+<tr><td>17.5 Propeller ice protection</td><td>1</td><td>2</td></tr>
+<tr><td>17.6 Propeller maintenance</td><td>1</td><td>3</td></tr>
+<tr><td>17.7 Propeller storage and preservation</td><td>1</td><td>2</td></tr>
+</tbody>
+</table>
+
+**MODULE 18. ELECTRIC POWER PLANT**
+
+<table>
+<tbody><tr><td rowspan="2">MODULE 18. ELECTRIC POWER PLANT</td><td>LEVEL</td></tr>
+<tr><td>B1.E</td></tr>
+<tr><td>18.1 Fundamentals</td><td>3</td></tr>
+<tr><td>18.2 Engine performance</td><td>3</td></tr>
+<tr><td>18.3 Engine construction</td><td>3</td></tr>
+<tr><td>18.4 Electric energy system</td><td>3</td></tr>
+<tr><td>18.4.1 Batteries and accessories</td><td>3</td></tr>
+<tr><td>18.4.2 Fuel cells and accessories</td><td>3</td></tr>
+<tr><td>18.4.3 Power distribution systems</td><td>3</td></tr>
+<tr><td>18.4.4 Electronic engine control</td><td>3</td></tr>
+<tr><td>18.5 Engine indication systems</td><td>3</td></tr>
+<tr><td>18.6 Power plant installation</td><td>3</td></tr>
+<tr><td>18.7 Engine monitoring and ground operation</td><td>3</td></tr>
+<tr><td>18.8 Engine storage and preservation</td><td>3</td></tr>
+</tbody>
+</table>
+
+**3\. Basic training methods**
+
+An appropriate training method, or combination of methods, shall be determined for the entire course or for each of its modules or submodules, with regard to the scope and objectives of each training phase and taking into consideration the benefits and limitations of the available training methods.
+
+Multimedia-based training (MBT) methods may be used in order to achieve the training objectives either in a physically or in a virtually controlled environment.
+
+## Appendix II — Basic Examination Standard — (except for category L licence)
+
+**1\. General**
+
+1.1. All basic examinations shall be carried out using the multi-choice question format and essay questions as specified below. The incorrect alternatives shall seem equally plausible to anyone ignorant of the subject. All of the alternatives shall be clearly related to the question and of similar vocabulary, grammatical construction and length. In numerical questions, the incorrect answers shall correspond to procedural errors such as corrections applied in the wrong sense or incorrect unit conversions: they shall not be mere random numbers.
+
+1.2. Each multi-choice question shall have three alternative answers of which only one shall be the correct answer and the candidate shall be allowed a time per module which is based upon a nominal average of 75 seconds per question.
+
+1.3. Each essay question requires the preparation of a written answer and the candidate shall be allowed 20 minutes to answer each such question.
+
+1.4. Suitable essay questions shall be drafted and evaluated using the knowledge syllabus in Appendix I Module 7.
+
+1.5. Each question will have a model answer drafted for it, which will also include any known alternative answers that may be relevant for other subdivisions.
+
+1.6. The model answer will also be broken down into a list of the important points known as Key Points.
+
+1.7. The pass mark for each module and sub-module multi-choice part of the examination is 75 %.
+
+1.8. The pass mark for each essay question is 75 % in that the candidates answer shall contain 75 % of the required key points addressed by the question and no significant error related to any required key point.
+
+1.9. If either the multi-choice part only or the essay part only is failed, then it is only necessary to retake the multi-choice or essay part, as appropriate.
+
+1.10. Penalty marking systems shall not be used to determine whether a candidate has passed.
+
+1.11. An examination in a module may not be retaken earlier than 90 days following the date of a failed examination in that module, except in the case of a maintenance training organisation approved in accordance with Annex IV (Part-147) which delivers a course of retraining tailored to the failed subjects in the particular module; the failed module may be retaken after 30 days.
+
+1.12. Basic knowledge examinations with a maximum allowed time of more than 90 or more than 180 minutes may be split in two or three partial exams respectively.
+
+Each partial exam shall:
+
+(a) be complementary to the other partial exam or exams taken by the candidate, ensuring that the combination of partial exams meets the examination requirements for the subject module;
+
+(b) be of similar allowed time;
+
+(c) be passed with 75 % or more of the questions answered correctly;
+
+(d) contain a number of questions that is multiple of four;
+
+(e) be listed on the same certificate of recognition issued after the last partial exam has been successfully passed. That certificate of recognition shall list the dates and the results of the partial exams – without averaging the results;
+
+(f) be taken within the same organisation, following the normal examination provisions for retaking failed exams.
+
+1.13. The maximum number of attempts for each examination is three in a 12-month period.
+
+The applicant shall provide in a written statement to the approved maintenance training organisation or the competent authority to which they apply for an examination, the number, and dates of attempts during the 12 months preceding the examination, and the organisation or the competent authority where those attempts took place. The approved maintenance training organisation or the competent authority is responsible for checking the number of attempts within the applicable time frames.
+
+1.14. While it is accepted that the subject matter of the questions may be the same, the questions used as part of the MBT learning programme shall not be used in examinations.
+
+**2\. Number of questions per module**
+
+2.1. MODULE 1 – MATHEMATICS
+
+Category A: 16 multiple-choice, no essay questions.
+
+Time allowed: 20 minutes.
+
+Category B1, B2, B2L and B3: 32 multiple-choice, no essay questions.
+
+Time allowed: 40 minutes.
+
+2.2. MODULE 2 – PHYSICS
+
+Category A and B3: 32 multiple-choice, no essay questions.
+
+Time allowed: 40 minutes.
+
+Category B1, B2 and B2L: 52 multiple-choice, no essay questions.
+
+Time allowed: 65 minutes.
+
+2.3. MODULE 3 – ELECTRICAL FUNDAMENTALS
+
+Category A: 20 multiple-choice, no essay questions.
+
+Time allowed: 25 minutes.
+
+Category B3: 24 multiple-choice, no essay questions.
+
+Time allowed: 30 minutes.
+
+Category B1, B2 and B2L: 52 multiple-choice, no essay questions.
+
+Time allowed: 65 minutes.
+
+2.4. MODULE 4 —ELECTRONICS FUNDAMENTALS
+
+Category B1 and B3: 20 multiple-choice, no essay questions.
+
+Time allowed: 25 minutes.
+
+Category B2 and B2L: 40 multiple-choice, no essay questions.
+
+Time allowed: 50 minutes.
+
+2.5. MODULE 5 – DIGITAL TECHNIQUES/ELECTRONIC INSTRUMENT SYSTEMS
+
+Category A and B3: 20 multiple-choice, no essay questions.
+
+Time allowed: 25 minutes.
+
+Category B1: 40 multiple-choice, no essay questions.
+
+Time allowed: 50 minutes.
+
+Category B2 and B2L: 72 multiple-choice, no essay questions.
+
+Time allowed: 90 minutes.
+
+2.6. MODULE 6 – MATERIALS AND HARDWARE
+
+Category A: 52 multiple-choice, no essay questions.
+
+Time allowed: 65 minutes.
+
+Category B1 and B3: 80 multiple-choice, no essay questions.
+
+Time allowed: 100 minutes.
+
+Category B2 and B2L: 60 multiple-choice, no essay questions.
+
+Time allowed: 75 minutes.
+
+2.7. MODULE 7 – MAINTENANCE PRACTICES
+
+Category A: 76 multiple-choice and 2 essay questions.
+
+Time allowed: 95 minutes plus 40 minutes.
+
+Category B1 and B3: 80 multiple-choice and 2 essay questions.
+
+Time allowed: 100 minutes plus 40 minutes.
+
+Category B2 and B2L: 60 multiple-choice and 2 essay questions.
+
+Time allowed: 75 minutes plus 40 minutes.
+
+2.8. MODULE 8 – BASIC AERODYNAMICS
+
+Category A, B3, B1, B2 and B2L: 24 multiple-choice, no essay questions.
+
+Time allowed: 30 minutes.
+
+2.9. MODULE 9 – HUMAN FACTORS
+
+Category A, B1, B3, B2 and B2L: 28 multiple-choice, no essay questions.
+
+Time allowed: 35 minutes.
+
+2.10. MODULE 10 – AVIATION LEGISLATION
+
+Category A: 32 multiple-choice, no essay questions.
+
+Time allowed: 40 minutes.
+
+Category B1, B3, B2 and B2L: 44 multiple-choice, no essay questions.
+
+Time allowed: 55 minutes.
+
+2.11. MODULE 11 AEROPLANE AERODYNAMICS, STRUCTURES AND SYSTEMS
+
+Category A1: 108 multiple-choice, no essay questions.
+
+Time allowed: 135 minutes.
+
+Category A2: 72 multiple-choice, no essay questions.
+
+Time allowed: 90 minutes.
+
+Category B1.1: 140 multiple-choice, no essay questions.
+
+Time allowed: 175 minutes.
+
+Category B1.2 and B1.E: 100 multiple-choice, no essay questions.
+
+Time allowed: 125 minutes.
+
+Category B3: 60 multiple-choice, no essay questions.
+
+Time allowed: 75 minutes.
+
+2.12. MODULE 12 – HELICOPTER AERODYNAMICS, STRUCTURES AND SYSTEMS:
+
+Category A: 100 multiple-choice, no essay questions.
+
+Time allowed: 125 minutes.
+
+Category B1.3 and B1.4: 128 multiple-choice, no essay questions.
+
+Time allowed: 160 minutes.
+
+2.13. MODULE 13 – AIRCRAFT AERODYNAMICS, STRUCTURES AND SYSTEMS
+
+Category B2: 188 multiple-choice, no essay questions.
+
+Time allowed: 235 minutes.
+
+Category B2L:
+
+| System rating | Number of multiple-choice questions | Time allowed (in minutes) |
+| --- | --- | --- |
+| Basic requirements (Submodules 13.1, 13.2, 13.5 and 13.9) | 32 | 40 |
+| COM/NAV (Submodule 13.4(a)) | 24 | 30 |
+| INSTRUMENTS (Submodule 13.8) | 20 | 25 |
+| AUTOFLIGHT (Submodules 13.3 and 13.7) | 28 | 35 |
+| SURVEILLANCE (Submodule 13.4(b)) | 20 | 25 |
+| AIRFRAME SYSTEMS (Submodules 13.11 to 13.19) | 52 | 65 |
+
+2.14. MODULE 14 – PROPULSION
+
+Category B2 and B2L: 32 multiple-choice, no essay questions.
+
+Time allowed: 40 minutes.
+
+NOTE: The B2L examination for Module 14 is only applicable to the ‘Instruments’ and ‘Airframe Systems’ ratings.
+
+2.15. MODULE 15 – GAS TURBINE ENGINE
+
+Category A1 and A3: 60 multiple-choice, no essay questions.
+
+Time allowed: 75 minutes.
+
+Category B1.1 and B1.3: 92 multiple-choice, no essay questions.
+
+Time allowed: 115 minutes.
+
+2.16. MODULE 16 – PISTON ENGINE
+
+Category A2 and A4: 52 multiple-choice, no essay questions.
+
+Time allowed: 65 minutes.
+
+Category B3, B1.2 and B1.4: 76 multiple-choice, no essay questions.
+
+Time allowed: 95 minutes.
+
+2.17. MODULE 17 – PROPELLER
+
+Category A1 and A2: 20 multiple-choice, no essay questions.
+
+Time allowed: 25 minutes.
+
+Category B3, B1.1 and B1.2: 32 multiple-choice, no essay questions.
+
+Time allowed: 40 minutes.
+
+2.18. MODULE 18 – ELECTRIC POWER PLANT
+
+Category B1.E: 76 multiple-choice, no essay questions.
+
+Time allowed: 95 minutes.
+
+## Appendix III — Aircraft type training and type evaluation standard – on-the-job training (OJT)
+
+**On the job training**
+
+**1\. General**
+
+Aircraft type training shall consist of theoretical training and examination, and, except for the category C ratings, practical training and assessment.
+
+(a) Theoretical training and examination shall comply with the following requirements:
+
+(i) Shall be conducted by a maintenance training organisation appropriately approved in accordance with Annex IV (Part-147) or, when conducted by other organisations, as directly approved by the competent authority.
+
+(ii) Shall comply with the standard set out in point 3.1 of this Appendix and, if existing, the elements defined in the operational suitability data (OSD) established in accordance with Regulation (EU) No 748/2012.
+
+(iii) In the case of a category C person qualified by holding an academic degree as specified in point 66.A.30(a)(5), the first relevant aircraft type theoretical training shall be at the category B1 or B2 level.
+
+(iv) Shall have been started and completed within the 3 years preceding the application for a type rating endorsement.
+
+(b) Practical training and assessment shall comply with the following requirements:
+
+(i) Shall be conducted by a maintenance training organisation appropriately approved in accordance with Annex IV (Part-147) or, when conducted by other organisations, as directly approved by the competent authority.
+
+(ii) Shall comply with the standard set out in point 3.2 of this Appendix and, if existing, the elements defined in the OSD established in accordance with Regulation (EU) No 748/2012.
+
+(iii) Shall include a representative cross section of maintenance activities relevant to the aircraft type.
+
+(iv) Shall include demonstrations using equipment, components, maintenance simulation training devices (MSTDs), maintenance training devices (MTDs), or real aircraft.
+
+(v) Shall have been started and completed within the 3 years preceding the application for a type rating endorsement.
+
+(c) Differences training
+
+(i) Differences training is the training required to cover the training differences between:
+
+(a) two different aircraft type ratings of the same manufacturer as determined by the Agency; or
+
+(b) two different licence categories in respect of the same aircraft type rating.
+
+(ii) Differences training has to be defined on a case-to-case basis taking into account the requirements contained in this Appendix III in respect of both theoretical and practical elements of type rating training.
+
+(iii) A type rating shall only be endorsed on a licence after differences training when the applicant also complies with one of the following conditions:
+
+— having already endorsed on the licence the aircraft type rating from which the differences are being identified, or
+
+— having completed the type training requirements for the aircraft from which the differences are being identified.
+
+(iv) The differences training shall have been started and completed within 3 years preceding the application for the new type rating in the same category (case (a)) or in another category (case (b)).
+
+**2\. Aircraft type training levels**
+
+The three levels listed below define the objectives, the depth of training and the level of knowledge that the training is intended to achieve.
+
+— Level 1: A brief overview of the airframe, systems and powerplant as outlined in the Systems Description Section of the Aircraft Maintenance Manual/Instructions for Continued Airworthiness.
+
+Course objectives: Upon completion of Level 1 training, the student will be able to:
+
+(a) provide a simple description of the whole subject, using common words and examples, using typical terms and identify safety precautions related to the airframe, its systems and powerplant;
+
+(b) identify aircraft manuals, maintenance practices important to the airframe, its systems and powerplant;
+
+(c) define the general layout of the aircraft's major systems;
+
+(d) define the general layout and characteristics of the powerplant;
+
+(e) identify special tooling and test equipment used with the aircraft.
+
+— Level 2: Basic system overview of controls, indicators, principal components, including their location and purpose, servicing and minor troubleshooting. General knowledge of the theoretical and practical aspects of the subject.
+
+Course objectives: In addition to the information contained in the Level 1 training, at the completion of Level 2 training, the student will be able to:
+
+(a) understand the theoretical fundamentals; apply knowledge in a practical manner using detailed procedures;
+
+(b) recall the safety precautions to be observed when working on or near the aircraft, powerplant and systems;
+
+(c) describe systems and aircraft handling particularly access, power availability and sources;
+
+(d) identify the locations of the principal components;
+
+(e) explain the normal functioning of each major system, including terminology and nomenclature;
+
+(f) perform the procedures for servicing associated with the aircraft for the following systems: Fuel, Power Plants, Hydraulics, Landing Gear, Water/Waste, and Oxygen;
+
+(g) demonstrate proficiency in use of crew reports and on-board reporting systems (minor troubleshooting) and determine aircraft airworthiness per the MEL/CDL;
+
+(h) demonstrate the use, interpretation and application of appropriate documentation including instructions for continued airworthiness, maintenance manual, illustrated parts catalogue, etc.
+
+— Level 3: Detailed description, operation, component location, removal/installation and bite and troubleshooting procedures to maintenance manual level.
+
+Course objectives: In addition to the information contained in Level 1 and Level 2 training, at the completion of Level 3 training, the student will be able to:
+
+(a) demonstrate a theoretical knowledge of aircraft systems and structures and interrelationships with other systems, provide a detailed description of the subject using theoretical fundamentals and specific examples and to interpret results from various sources and measurements and apply corrective action where appropriate;
+
+(b) perform system, powerplant, component and functional checks as specified in the aircraft maintenance manual;
+
+(c) demonstrate the use, interpret and apply appropriate documentation including structural repair manual, troubleshooting manual, etc.;
+
+(d) correlate information for the purpose of making decisions in respect of fault diagnosis and rectification to maintenance manual level;
+
+(e) describe procedures for replacement of components unique to aircraft type.
+
+**3\. Aircraft type training standard**
+
+Although aircraft type training includes both theoretical and practical elements, courses can be approved for the theoretical element, the practical element or for a combination of both.
+
+An appropriate training method, or combination of training methods, shall be determined for the entire course or for each of its parts with regard to the scope and objectives of each training phase and taking into consideration the benefits and limitations of the available training methods.
+
+Multimedia-based training (MBT) methods may be used in order to achieve the training objectives either in a physically or in a virtually controlled environment.
+
+**3.1. Theoretical element**
+
+(a) Objective:
+
+On completion of a theoretical training course the student shall be able to demonstrate, to the levels identified in the Appendix III syllabus, the detailed theoretical knowledge of the aircraft’s applicable systems, structure, operations, maintenance, repair, and troubleshooting in accordance with maintenance data. The student shall be able to demonstrate the use of manuals and approved procedures, including the knowledge of relevant inspections and limitations.
+
+(b) Level of training:
+
+Training levels are those levels defined in point 2 above.
+
+After the first type course for category C certifying staff all subsequent courses need only be to level 1.
+
+During a level 3 theoretical training, level 1 and 2 training material may be used to teach the full scope of the chapter if required. However, during the training the majority of the course material and training time shall be at the higher level.
+
+(c) Duration:
+
+The theoretical training minimum tuition hours are contained in the following table:
+
+<table>
+<tbody><tr><td>Category</td><td>Hours</td></tr>
+<tr><td colspan="2">Aeroplanes (*1) with a maximum take-off mass above 30 000 kg:</td></tr>
+<tr><td>B1.1</td><td>150 </td></tr>
+<tr><td>B1.2</td><td>120 </td></tr>
+<tr><td>B2</td><td>100 </td></tr>
+<tr><td>C</td><td>30 </td></tr>
+<tr><td colspan="2">Aeroplanes (*1) with a maximum take-off mass equal to or less than 30 000 kg and above 5 700 kg:</td></tr>
+<tr><td>B1.1</td><td>120 </td></tr>
+<tr><td>B1.2</td><td>100 </td></tr>
+<tr><td>B2</td><td>100 </td></tr>
+<tr><td>C</td><td>25 </td></tr>
+<tr><td colspan="2">Aeroplanes (*1) with a maximum take-off mass of 5 700 kg and below (*2)</td></tr>
+<tr><td>B1.1</td><td>80 </td></tr>
+<tr><td>B1.2</td><td>60 </td></tr>
+<tr><td>B1.E</td><td>60 </td></tr>
+<tr><td>B2</td><td>60 </td></tr>
+<tr><td>C</td><td>15 </td></tr>
+<tr><td colspan="2">Helicopters (*1)(*3)</td></tr>
+<tr><td>B1.3</td><td>120 </td></tr>
+<tr><td>B1.4</td><td>100 </td></tr>
+<tr><td>B2</td><td>100 </td></tr>
+<tr><td>C</td><td>25 </td></tr>
+<tr><td colspan="2">Aeroplanes and helicopters not mentioned above and non-conventional aircraft</td></tr>
+<tr><td>B1, B2 and C</td><td>OSD</td></tr>
+<tr><td colspan="2">(*1)  Aeroplane with piston or turbine engine or electric power plant or helicopter with piston or turbine engine.  (*2)  For non-pressurised aeroplanes below 2 000 kg MTOM with piston-engine or electric power plant, the minimum duration can be reduced by 50 %.  (*3)  For helicopters in Group 2 (as defined in point 66.A.5), the minimum duration can be reduced by 30 %. </td></tr>
+</tbody>
+</table>
+
+In the table above, ‘OSD’ means as defined in the operational suitability data established in accordance with Regulation (EU) No 748/2012, taking into consideration a report from the applicant for, or holder of, the aircraft type certificate that contains an assessment of the required theoretical elements of knowledge of the aircraft, considering the applicable licence (sub)category on which the aircraft type would be permitted for endorsement in accordance with point 66.A.3.
+
+For the purpose of the table above, a tuition hour means 60 minutes of teaching and excludes any breaks, examination, revision, preparation and aircraft visit.
+
+These hours apply only to theoretical courses for complete aircraft/ engine combinations according to the type rating as defined by the Agency.
+
+(d) Justification of course duration:
+
+Training courses carried out in a maintenance training organisation approved in accordance with Annex IV (Part-147) and courses directly approved by the competent authority shall justify their hour duration and the coverage of the full syllabus by a training needs analysis based on:
+
+— the design of the aircraft type, its maintenance needs and the types of operation,
+
+— detailed analysis of applicable chapters — see contents table in point 3.1(e) below,
+
+— detailed competency analysis showing that the objectives as stated in point 3.1(a) above are fully met.
+
+Where the training needs analysis shows that more hours are needed, course lengths shall be longer than the minimum specified in the table.
+
+Similarly, tuition hours of differences courses or other training course combinations (such as combined B1/B2 courses), and in cases of theoretical type training courses below the figures given in point 3.1(c) above, these shall be justified to the competent authority by the training needs analysis as described above.
+
+In addition, the course must describe and justify the following:
+
+— The minimum physical and/or virtual classroom attendance required of the trainee, in order to meet the objectives of the course.
+
+— The maximum number of hours of physical and/or virtual classroom training per day, taking into account pedagogical and human factors principles.
+
+If the minimum attendance required is not met, the certificate of recognition shall not be issued. Additional training may be provided by the training organisation in order to meet the minimum attendance time.
+
+(e) Content:
+
+As a minimum, the elements in the Syllabus below that are specific to the aircraft type shall be covered. Additional elements introduced due to type variations, technological changes, etc. shall also be included.
+
+The training syllabus shall be focused on mechanical and electrical aspects for B1 personnel, and electrical and avionic aspects for B2.
+
+If it exists, the minimum syllabus of the operational suitability data (OSD), established in accordance with Regulation (EU) No 748/2012, shall be included.
+
+<table>
+<tbody><tr><td>Level Chapters </td><td colspan="2">Aeroplanes turbine</td><td colspan="2">Aeroplanes piston</td><td colspan="2">Aeroplanes with electric power plant</td><td colspan="2">Helicopter turbine</td><td colspan="2">Helicopter piston</td><td>Avionics</td></tr>
+<tr><td>Licence category</td><td>B1.1</td><td>C</td><td>B1.2</td><td>C</td><td>B1.E</td><td>C</td><td>B1.3</td><td>C</td><td>B1.4</td><td>C</td><td>B2</td></tr>
+<tr><td>Introduction module:</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>05 Time limits/maintenance checks</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>06 Dimensions/areas (MTOM, etc.)</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>07 Lifting and Shoring</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>08 Levelling and weighing</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>09 Towing and taxiing</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>10 Parking/mooring, storing and return to Service</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>11 Placards and markings</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>12 Servicing</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>20 Standard practices – only type particular</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>Helicopter</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>18 Vibration and noise analysis (blade tracking)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td></tr>
+<tr><td>60 Standard practices rotor</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td></tr>
+<tr><td>62 Rotors</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>62A Rotors – monitoring and indicating</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>63 Rotor drives</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>63A Rotor drives – monitoring and indicating</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>64 Tail rotor</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>64A Tail rotor – monitoring and indicating</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>65 Tail rotor drive</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>65A Tail rotor drive – monitoring and indicating</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>66 Folding blades/pylon</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td></tr>
+<tr><td>67 Rotors flight control</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td></tr>
+<tr><td>53 Airframe structure (helicopter)</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td></tr>
+<tr><td>25 Emergency flotation equipment</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>Airframe structures</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>51 Standard practices and structures (damage classification, assessment and repair)</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>53 Fuselage</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>54 Nacelles/pylons</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>55 Stabilisers</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>56 Windows</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>57 Wings</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>52 Doors</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>Zonal and station identification systems</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td></tr>
+<tr><td>Airframe systems</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>21 Air conditioning</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>21A Air supply</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>21B Pressurisation</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>21C Safety and warning devices</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>22 Autoflight</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>3</td></tr>
+<tr><td>23 Communications</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>3</td></tr>
+<tr><td>24 Electrical power</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>25 Equipment and furnishings</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>25A Electronic equipment including emergency equipment</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>1</td><td>3</td></tr>
+<tr><td>26 Fire protection</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>27 Flight controls</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>27A Sys. operation: electrical/fly-by-wire</td><td>3</td><td>1</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>28 Fuel systems</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>28A Fuel systems – monitoring and indicating</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>29 Hydraulic power</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>29A Hydraulic power – monitoring and indicating</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>30 Ice and rain protection</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>31 Indicating/recording systems</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>31A Instrument systems</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>32 Landing gear</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>32A Landing gear – monitoring and indicating</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>33 Lights</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>34 Navigation</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>3</td></tr>
+<tr><td>35 Oxygen</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>36 Pneumatic</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>36A Pneumatic – monitoring and indicating</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>37 Vacuum</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>2</td></tr>
+<tr><td>38 Water/waste</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>41 Water ballast</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>42 Integrated modular avionics</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>3</td></tr>
+<tr><td>44 Cabin systems</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>3</td></tr>
+<tr><td>45 On-board maintenance system (or covered in 31)</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>46 Information systems</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>3</td></tr>
+<tr><td>47 Nitrogen generation system</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>50 Cargo and accessory compartments</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>55/57 Flight control surfaces (All)</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>Turbine engine</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>70 Standard practices – engines</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>70A Constructional arrangement and operation (installation inlet, compressors, combustion section, turbine section, bearings and seals, lubrication systems)</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>70B Engine performance</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>71 Power plant</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>72 Engine turbine/turbo prop/ducted fan/unducted fan</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>73 Engine fuel and control</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>75 Air</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>76 Engine controls</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>78 Exhaust</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>79 Oil</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>80 Starting</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>82 Water injections</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>83 Accessory gear boxes</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>84 Propulsion augmentation</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>73A FADEC</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>74 Ignition</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>77 Engine indicating systems</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>49 Auxiliary power units (APUs)</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>2</td></tr>
+<tr><td>Piston engine</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>70 Standard practices – engines</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>70A Constructional arrangement and operation (installation, carburettors, fuel injection systems, induction, exhaust and cooling systems, supercharging/turbocharging, lubrication systems)</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>70B Engine performance</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>71 Power plant</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>73 Engine fuel and control</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>76 Engine control</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>79 Oil</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>80 Starting</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>81 Turbines</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>82 Water injections</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>83 Accessory gear boxes</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>84 Propulsion augmentation</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>1</td></tr>
+<tr><td>73A FADEC</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>74 Ignition</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>77 Engine indication systems</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>3</td></tr>
+<tr><td>Electric power plant</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Electric engines</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>Fuel cell and related systems</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>Batteries</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>Auxiliary systems to the electric power plant</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>Propellers</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>60A Standard practices – propeller</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>61 Propellers/propulsion</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>61A Propeller construction</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>61B Propeller pitch control</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>61C Propeller synchronising</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>61D Propeller electronic control</td><td>2</td><td>1</td><td>2</td><td>1</td><td>2</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>3</td></tr>
+<tr><td>61E Propeller ice protection</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>61F Propeller maintenance</td><td>3</td><td>1</td><td>3</td><td>1</td><td>3</td><td>1</td><td>—</td><td>—</td><td>—</td><td>—</td><td>1</td></tr>
+<tr><td>Special chapters for aeroplanes with a power plant other than piston/turbine/electric and other than piston/turbine helicopters</td><td colspan="11">Definition of special chapters of the theoretical element of the aircraft type training is available in the OSD of the aircraft, established in accordance with Regulation (EU) No 748/2012. For these aircraft, EASA can also consider as ‘not required’ some of the chapters contained in the above table.</td></tr>
+<tr><td>Special chapters for non-conventional aircraft</td><td colspan="11">Definition of special chapters of the theoretical element of the aircraft type training is available in the OSD of the aircraft, established in accordance with Regulation (EU) No 748/2012. For these aircraft, EASA can also consider as ‘not required’ some of the chapters contained in the above table.</td></tr>
+</tbody>
+</table>
+
+**3.2. Practical element**
+
+(a) Objective:
+
+The objective of practical training is to gain the required competence in performing safe maintenance, inspections and routine work according to the maintenance manual and other relevant instructions and tasks as appropriate for the type of aircraft, for example troubleshooting, repairs, adjustments, replacements, rigging and functional checks. It includes the awareness of the use of all technical literature and documentation for the aircraft, the use of specialist/special tooling and test equipment for performing removal and replacement of components and modules unique to type, including any on-wing maintenance activity.
+
+(b) Content:
+
+At least 50 % of the crossed items in the table below, which are relevant to the particular aircraft type, shall be completed as part of the practical training.
+
+Tasks crossed represent subjects that are important for practical training purposes to ensure that the operation, function, installation and safety significance of key maintenance tasks is adequately addressed; particularly where these cannot be fully explained by theoretical training alone. Although the list details the minimum practical training subjects, other items may be added where applicable to the particular aircraft type.
+
+Tasks to be completed shall be representative of the aircraft and systems both in complexity and in the technical input required to complete that task. While relatively simple tasks may be included, other more complex tasks shall also be incorporated and undertaken as appropriate to the aircraft type.
+
+If it exists, the minimum list of practical tasks of the operational suitability data (OSD), established in accordance with Regulation (EU) No 748/2012, shall be part of the practical elements to be selected.
+
+Glossary of the table: LOC: Location; FOT: Functional/Operational Test; SGH: Service and Ground Handling; R/I: Removal/Installation; MEL: Minimum Equipment List; TS: TroubleShooting.
+
+<table>
+<tbody><tr><td rowspan="11">Chapters</td><td>B1/B2</td><td colspan="5">B1</td><td colspan="5">B2</td></tr>
+<tr><td>LOC</td><td>FOT</td><td>SGH</td><td>R/I</td><td>MEL</td><td>TS</td><td>FOT</td><td>SGH</td><td>R/I</td><td>MEL</td><td>TS</td></tr>
+<tr><td colspan="12">Introduction module:</td></tr>
+<tr><td>5 Time limits/maintenance checks</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>6 Dimensions/Areas (MTOM, etc.)</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>7 Lifting and Shoring</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>8 Levelling and weighing</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>9 Towing and taxiing</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>10 Parking/mooring, Storing and Return to Service</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>11 Placards and Markings</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>12 Servicing</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>20 Standard practices — only type particular</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12">Helicopters:</td></tr>
+<tr><td>18 Vibration and Noise Analysis (Blade tracking)</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>60 Standard Practices Rotor — only type specific</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>62 Rotors</td><td>X/—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>62A Rotors — Monitoring and indicating</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>X</td></tr>
+<tr><td>63 Rotor Drives</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>63A Rotor Drives — Monitoring and indicating</td><td>X/X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>X</td></tr>
+<tr><td>64 Tail Rotor</td><td>X/—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>64A Tail rotor -Monitoring and indicating</td><td>X/X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>X</td></tr>
+<tr><td>65 Tail Rotor Drive</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>65A Tail Rotor Drive — Monitoring and indicating</td><td>X/X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>X</td></tr>
+<tr><td>66 Folding Blades/Pylon</td><td>X/—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>67 Rotors Flight Control</td><td>X/—</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>53 Airframe Structure (Helicopter) Note: covered under Airframe structures </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>25 Emergency Flotation Equipment</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12">Airframe structures:</td></tr>
+<tr><td>51 Standard Practices and Structures (damage classification, assessment and repair)</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>53 Fuselage</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>54 Nacelles/Pylons</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>55 Stabilisers</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>56 Windows</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>57 Wings</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12"> —————</td></tr>
+<tr><td colspan="12"></td></tr>
+<tr><td>52 Doors</td><td>X/X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12">Airframe systems:</td></tr>
+<tr><td>21 Air Conditioning</td><td>X/X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td></tr>
+<tr><td>21A Air Supply</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>21B Pressurisation</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td></tr>
+<tr><td>21C Safety and warning Devices</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>22 Autoflight</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>23 Communications</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>24 Electrical Power</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>25 Equipment and Furnishings</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td></tr>
+<tr><td>25A Electronic Equipment including emergency equipment</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td></tr>
+<tr><td>26 Fire Protection</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>27 Flight Controls</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>27A Sys. Operation: Electrical/Fly-by-Wire</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>—</td><td>X</td><td>—</td><td>X</td></tr>
+<tr><td>28 Fuel Systems</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>—</td></tr>
+<tr><td>28A Fuel Systems — Monitoring and indicating</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>X</td><td>—</td><td>X</td></tr>
+<tr><td>29 Hydraulic Power</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>—</td></tr>
+<tr><td>29A Hydraulic Power — Monitoring and indicating</td><td>X/X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>30 Ice and Rain Protection</td><td>X/X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td></tr>
+<tr><td>31 Indicating/Recording Systems</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>31A Instrument Systems</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>32 Landing Gear</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td></tr>
+<tr><td>32A Landing Gear — Monitoring and indicating</td><td>X/X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>33 Lights</td><td>X/X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td></tr>
+<tr><td>34 Navigation</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>35 Oxygen</td><td>X/—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>36 Pneumatic</td><td>X/—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>36A Pneumatic — Monitoring and indicating</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>37 Vacuum</td><td>X/—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>38 Water/Waste</td><td>X/—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>41 Water Ballast</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>42 Integrated modular avionics</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>44 Cabin Systems</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>45 On-Board Maintenance System (or covered in 31)</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>46 Information Systems</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td colspan="12"></td></tr>
+<tr><td>47 Nitrogen generation system</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>X</td></tr>
+<tr><td colspan="12"></td></tr>
+<tr><td>50 Cargo and Accessory Compartments</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12"></td></tr>
+<tr><td>55/57 Flight control surfaces</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12"></td></tr>
+<tr><td colspan="12">Turbine/Piston Engine Module:</td></tr>
+<tr><td>70 Standard Practices — Engines — only type particular</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>70A Constructional arrangement and operation (Installation Inlet, Compressors, Combustion Section, Turbine Section, Bearings and Seals, Lubrication Systems)</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12">Turbine engines:</td></tr>
+<tr><td>70B Engine Performance</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>71 Power Plant</td><td>X/—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>72 Engine Turbine/Turbo Prop/Ducted Fan/ Unducted fan</td><td>X/—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>73 Engine Fuel and Control</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>73A FADEC Systems</td><td>X/X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>74 Ignition</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>75 Air</td><td>X/—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>76 Engine Controls</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>77 Engine Indicating</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td></tr>
+<tr><td>78 Exhaust</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>79 Oil</td><td>X/—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>80 Starting</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>82 Water Injection</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>83 Accessory Gearboxes</td><td>X/—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>84 Propulsion Augmentation</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12">Auxiliary Power Units (APUs):</td></tr>
+<tr><td>49 Auxiliary Power Units (APUs)</td><td>X/—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12">Piston Engines:</td></tr>
+<tr><td>70 Standard Practices — Engines — only type particular</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>70A Constructional arrangement and operation (Installation Inlet, Compressors, Combustion Section, Turbine Section, Bearings and Seals, Lubrication Systems)</td><td>X/X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>70B Engine Performance</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>71 Power Plant</td><td>X/—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>73 Engine Fuel and Control</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>73A FADEC Systems</td><td>X/X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>74 Ignition</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>76 Engine Controls</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>77 Engine Indicating</td><td>X/X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td></tr>
+<tr><td>78 Exhaust</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>79 Oil</td><td>X/—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>80 Starting</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>81 Turbines</td><td>X/—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>82 Water Injection</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>83 Accessory Gearboxes</td><td>X/—</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>84 Propulsion Augmentation</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td colspan="12"></td></tr>
+<tr><td>Electric power plant</td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
+<tr><td>Electric engines</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td></tr>
+<tr><td>Fuel cell and related systems</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td></tr>
+<tr><td>Batteries</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>X</td><td>—</td></tr>
+<tr><td>Auxiliary systems to the electric power plant</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td colspan="12"></td></tr>
+<tr><td colspan="12">Propellers:</td></tr>
+<tr><td>60A Standard Practices — Propeller</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>61 Propellers/Propulsion</td><td>X/X</td><td>X</td><td>X</td><td>—</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>61A Propeller Construction</td><td>X/X</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>61B Propeller Pitch Control</td><td>X/—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>61C Propeller Synchronising</td><td>X/—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td><td>—</td><td>—</td><td>X</td><td>—</td></tr>
+<tr><td>61D Propeller Electronic control</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>61E Propeller Ice Protection</td><td>X/—</td><td>X</td><td>—</td><td>X</td><td>X</td><td>X</td><td>—</td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
+<tr><td>61F Propeller Maintenance</td><td>X/X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td colspan="12"></td></tr>
+<tr><td>Special chapters for aeroplanes with a power plant other than piston/turbine/electric and other than piston/turbine helicopters</td><td colspan="11">For the relevant aircraft type, definition of special chapters of the theoretical element of the aircraft type training is available in the OSD of the aircraft, established in accordance with Regulation (EU) No 748/2012.</td></tr>
+<tr><td>Special chapters for non-conventional aircraft</td><td colspan="11">For the relevant aircraft type, definition of special chapters of the theoretical element of the aircraft type training is available in the OSD of the aircraft, established in accordance with Regulation (EU) No 748/2012.</td></tr>
+<tr><td colspan="12"></td></tr>
+</tbody>
+</table>
+
+**4\. Type training examination and assessment standard**
+
+**4.1. Theoretical element examination standard**
+
+After the theoretical portion of the aircraft type training has been completed, a written examination shall be performed, which shall comply with the following:
+
+(a) Format of the examination is of the multi-choice type. Each multi-choice question shall have 3 alternative answers of which only one shall be the correct answer. The total time is based on the total number of questions and the time for answering is based upon a nominal average of 90 seconds per question.
+
+(b) The incorrect alternatives shall seem equally plausible to anyone ignorant of the subject. All the alternatives shall be clearly related to the question and of similar vocabulary, grammatical construction and length.
+
+(c) In numerical questions, the incorrect answers shall correspond to procedural errors such as the use of incorrect sense (+ versus -) or incorrect measurement units. They shall not be mere random numbers.
+
+(d) The level of examination for each chapter ( 11 ) shall be the one defined in point 2 ‘Aircraft type training levels’. However, the use of a limited number of questions at a lower level is acceptable.
+
+(e) The examination shall be of the closed book type. No reference material is permitted. An exception will be made for the case of examining a B1 or B2 candidate's ability to interpret technical documents.
+
+(f) The number of questions shall be at least one question per hour of training. The number of questions for each chapter and level shall be proportionate to:
+
+— the effective training hours spent on teaching at that chapter and level; or
+
+— in case of student-centred methods, the anticipated average time to complete the training; and
+
+— the learning objectives as given by the training needs analysis.
+
+The competent authority shall assess the number and the level of the questions when approving the course.
+
+(g) The minimum examination pass mark is 75 %. When the type training examination is split in several examinations, each examination shall be passed with at least a 75 % mark. In order to be possible to achieve exactly a 75 % pass mark, the number of questions in the examination shall be a multiple of 4.
+
+(h) Penalty marking (negative points for failed questions) is not to be used.
+
+(i) End of module phase examinations cannot be used as part of the final examination unless they contain the correct number and level of questions required.
+
+(j) Whilst it is accepted that the subject matter of the questions may be the same, the questions used as part of the MBT learning programme shall not be used in course or phase examinations.
+
+**4.2. Practical element assessment standard**
+
+After the practical element of the aircraft type training has been completed, an assessment must be performed, which must comply with the following:
+
+(a) The assessment shall be performed by designated assessors appropriately qualified.
+
+(b) The assessment shall evaluate the knowledge and skills of the trainee.
+
+**5\. Type evaluation standard for Group 2 and Group 3 aircraft**
+
+Type evaluation relative to aircraft of Group 2 or Group 3 shall be conducted by training organisations appropriately approved in accordance with Annex IV (Part-147) or by the competent authority.
+
+The evaluation shall consist of practical assessment and oral examination and comply with the following requirements:
+
+(a) The practical assessment shall determine the candidate’s competence to perform maintenance tasks applicable to the particular aircraft type.
+
+(b) The oral examination shall be on a sample of chapters drawn from point 3. ‘Aircraft type training standard’, at the indicated level in point 3.1.(e).
+
+(c) Both oral examinations and practical assessments shall ensure that the following objectives are met:
+
+1\. properly discuss with confidence the aircraft type and its systems;
+
+2\. ensure safe performance of maintenance, inspections, and routine work according to the maintenance manual and other relevant instructions and tasks as appropriate for the type of aircraft, for example, troubleshooting, repairs, adjustments, replacements, rigging and functional checks such as engine run, etc., if required;.
+
+3\. correctly use all technical literature and documentation for the aircraft;
+
+4\. correctly use specialist/special tooling and test equipment, perform removal and replacement of components and modules unique to type, including any on-wing maintenance activity.
+
+(d) The following conditions apply to the type evaluation:
+
+1\. The maximum number of attempts for each examination is three in a 12-month period. A waiting period of 30 days is required after the first failed attempt within one set, and a waiting period of 60 days is required after the second failed attempt.
+
+The applicant shall confirm in writing to the maintenance training organisation or the competent authority to which they apply for an examination, the number, and dates of attempts during the last 12-month period and the maintenance training organisation or the competent authority where these attempts took place. The maintenance training organisation or the competent authority is responsible for checking the number of attempts within the applicable time frames.
+
+2\. The type evaluation shall be passed, and the required practical experience shall be completed within the 3 years preceding the application for the rating endorsement on the aircraft maintenance licence.
+
+3\. Type evaluation shall be performed with at least one examiner present. The examiner(s) shall not have been involved in the applicant’s training.
+
+(e) A written and signed report shall be prepared and made available to the candidate by the examiner(s) to explain why the candidate has passed or failed.
+
+**6\. On-the-job training (OJT)**
+
+6.1 General
+
+The OJT is the training that the applicant is given on a particular aircraft type in a real workplace, having the possibility to learn maintenance best practices and correct release-to-service procedures. The OJT shall comply with the following requirements:
+
+(a) The list of the OJT tasks and programme shall be accepted by the competent authority which has issued the maintenance licence before starting the OJT training.
+
+(b) The OJT shall be conducted at one or more maintenance organisations appropriately approved according to this Regulation for the maintenance of that aircraft type. One of those organisations shall control the OJT.
+
+(c) The applicant shall have a category A, B or L5 licence before undergoing the OJT or have finished the theoretical type training and cumulated at least 50 % of the basic experience requirement (point 66.A.30) as regards the category of aircraft he or she is trained for.
+
+(d) The applicant shall start and complete the OJT within 3 years preceding the application for the first type rating endorsement. At least 50 % of the OJT tasks shall take place after the related aircraft theoretical type training has been completed.
+
+(e) The applicant shall undergo the OJT under the mentorship of a qualified mentor or mentors, on a one-to-one supervision basis, during which the mentors verify the technical knowledge, the skills, and responsibilities of a typical certifying staff. During the OJT, the mentors transmit also knowledge and experience to the applicant, providing the necessary advice, support, and guidance.
+
+(f) Each task shall be signed off by the applicant and refer to an actual job card/work sheet, etc. The mentors shall verify and countersign off the tasks performed during the OJT, because they shall assume the responsibility for the tasks at support staff or certifying staff level, as applicable, depending on the release-to-service procedure.
+
+(g) At the satisfactory completion of the OJT programme, the mentors shall issue a recommendation for the final assessment of the applicant to be conducted by designated assessors.
+
+6.2 OJT content and OJT logbook
+
+The OJT shall include a series of activities and tasks representative of the aircraft type rating, systems, and licence category applied for and may cover more than one licence category.
+
+The OJT shall be documented in an OJT logbook reporting the following:
+
+(a) name of the applicant;
+
+(b) date of birth of the applicant;
+
+(c) the approved maintenance organisation(s) where the OJT was carried out;
+
+(d) aircraft rating and licence categories applied for;
+
+(e) list of tasks, including:
+
+(i) task description;
+
+(ii) reference to job card/work order/aircraft tech log, etc.;
+
+(iii) location of task completion;
+
+(iv) date of task completion;
+
+(v) aircraft registration(s).
+
+(f) names of the mentors (including licence number, if applicable);
+
+(g) a signed recommendation of the mentors for the successive final assessment of the applicant.
+
+6.3 Final assessment of the applicant
+
+The final assessment of the applicant may only be performed once the OJT logbook has been completed and the mentors have signed the related recommendation.
+
+The designated assessor(s) conducting the final assessment shall notify the date of the assessment to the licensing authority well in advance to allow a possible participation of the same authority.
+
+The objective of the final assessment is to verify that the applicant has sufficient technical knowledge as well as the appropriate skills and attitude and that he or she is competent to work independently as type-rated certifying staff on a particular aircraft type.
+
+The final assessment shall have a minimum duration of one working day.
+
+(a) The assessment shall sample:
+
+(1) the general technical knowledge required for the particular licence category;
+
+(2) the aircraft-type-specific knowledge and skills for the particular licence category;
+
+(3) the understanding of the licence privileges relevant to the aircraft and to the licence category;
+
+(4) the appropriate behaviour and safety attitude of the applicant in relation to the maintenance environment.
+
+(b) The assessment shall be recorded in a report containing the following information:
+
+(1) identification data of the applicant;
+
+(2) identification data of the assessor(s);
+
+(3) date and time frame of the assessment;
+
+(4) content of the assessment;
+
+(5) result of the assessment: Passed or Failed.
+
+(6) signature of the assessor(s), the candidate and, if applicable, the independent observer(s).
+
+(c) A failed assessment may be retaken after 3 months or, if additional training has been received and a new recommendation by the mentors has been made, earlier than 3 months if agreed by the assessor(s). After three failed attempts, the complete OJT shall be repeated.
+
+6.4 Requirements for mentors and assessors
+
+Mentors and assessors are maintenance staff with the following qualifications:
+
+(i) Mentors:
+
+— hold a valid aircraft maintenance licence (AML) issued in accordance with this Annex or a valid and fully compliant with ICAO Annex 1 AML in accordance with Appendix IV to Annex II (Part-145), which is acceptable to the competent authority;
+
+— have been holding, for at least 1 year, an AML in the same category, when compared to the one for which the OJT is being mentored, that is endorsed with a type rating appropriate to exercise the privileges on the related aircraft;
+
+— have the necessary release or sign-off privileges in the maintenance organisation where the OJT is performed;
+
+— have experience in training other people (such as being apprenticeship instructors, instructors in accordance with Annex IV (Part-147), having received train-the-trainer courses or having any other comparable national qualification, or having a training to do so that is acceptable to the competent authority).
+
+(ii) Assessors of the final assessment:
+
+— hold a valid AML issued in accordance with this Annex or a valid and fully compliant with ICAO Annex 1 AML in accordance with Appendix IV to Annex II (Part-145), which is acceptable to the competent authority;
+
+— have been holding, for at least 3 years, an AML in the same category, when compared to the one for which the OJT is being assessed, endorsed with the same or similar aircraft type rating;
+
+— have experience and/or have received training in assessing others (such as being apprenticeship instructors, examiners in accordance with Annex IV (Part-147), having received train-the-trainer courses, or having any other comparable national qualification, or having a training to do so that is acceptable to the competent authority);
+
+— shall not have been involved as a mentor of the applicant in the OJT; when the assessor has taken part in the OJT performance, then an independent observer shall be present during the OJT assessment.
+
+6.5 OJT documentation and records
+
+The satisfactory accomplishment of the OJT shall be attested to the applicant with the final assessment report and the OJT logbook.
+
+The OJT documentation shall be provided to the competent authority to support the application for the issue or change of the licence as laid down in Section B, Subpart B, of this Annex.
+
+Records of the OJT documentation shall be kept by the maintenance organisation where the OJT is conducted, in accordance with the procedures agreed with the competent authority of the maintenance organisation.
+
+## Appendix IV — Experience and basic knowledge modules or part modules required for extending a Part-66 aircraft maintenance licence
+
+**A. Experience requirements**
+
+Table A below shows the experience requirements, in months, for adding a new category or subcategory to an existing Part-66 licence.
+
+The experience requirements can be reduced by 50 % if the applicant has completed an approved Part-147 basic training course relevant to a particular subcategory.
+
+**Table A**
+
+<table>
+<tbody><tr><td>To: From: </td><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>B1.1</td><td>B1.2</td><td>B1.E</td><td>B1.3</td><td>B1.4</td><td>B2</td><td>B2L</td><td>B3</td><td>L1</td><td>L2</td><td>L3</td><td>L4</td><td>L5</td></tr>
+<tr><td>A1</td><td>—</td><td>6</td><td>6</td><td>6</td><td>24</td><td>6</td><td>6</td><td>24</td><td>12</td><td>24</td><td>12</td><td>6</td><td>12</td><td>12</td><td>12</td><td>12</td><td>24</td></tr>
+<tr><td>A2</td><td>6</td><td>—</td><td>6</td><td>6</td><td>24</td><td>6</td><td>6</td><td>24</td><td>12</td><td>24</td><td>12</td><td>6</td><td>12</td><td>12</td><td>12</td><td>12</td><td>24</td></tr>
+<tr><td>A3</td><td>6</td><td>6</td><td>—</td><td>6</td><td>24</td><td>12</td><td>12</td><td>24</td><td>6</td><td>24</td><td>12</td><td>12</td><td>12</td><td>12</td><td>12</td><td>12</td><td>24</td></tr>
+<tr><td>A4</td><td>6</td><td>6</td><td>6</td><td>—</td><td>24</td><td>12</td><td>12</td><td>24</td><td>6</td><td>24</td><td>12</td><td>12</td><td>12</td><td>12</td><td>12</td><td>12</td><td>24</td></tr>
+<tr><td>B1.1</td><td>—</td><td>6</td><td>6</td><td>6</td><td>—</td><td>6</td><td>6</td><td>6</td><td>6</td><td>12</td><td>12</td><td>6</td><td>6</td><td>6</td><td>12</td><td>12</td><td>12</td></tr>
+<tr><td>B1.2</td><td>6</td><td>—</td><td>6</td><td>6</td><td>24</td><td>—</td><td>6</td><td>24</td><td>6</td><td>24</td><td>12</td><td>—</td><td>—</td><td>—</td><td>12</td><td>12</td><td>12</td></tr>
+<tr><td>B1.E</td><td>6</td><td>6</td><td>6</td><td>6</td><td>24</td><td>6</td><td>—</td><td>24</td><td>12</td><td>24</td><td>12</td><td>6</td><td>6</td><td>6</td><td>12</td><td>12</td><td>12</td></tr>
+<tr><td>B1.3</td><td>6</td><td>6</td><td>—</td><td>6</td><td>6</td><td>6</td><td>6</td><td>—</td><td>6</td><td>12</td><td>12</td><td>6</td><td>6</td><td>6</td><td>12</td><td>12</td><td>12</td></tr>
+<tr><td>B1.4</td><td>6</td><td>6</td><td>6</td><td>—</td><td>24</td><td>6</td><td>12</td><td>24</td><td>—</td><td>24</td><td>12</td><td>6</td><td>6</td><td>6</td><td>12</td><td>12</td><td>12</td></tr>
+<tr><td>B2</td><td>6</td><td>6</td><td>6</td><td>6</td><td>12</td><td>12</td><td>12</td><td>12</td><td>12</td><td>—</td><td>—</td><td>12</td><td>6</td><td>6</td><td>12</td><td>12</td><td>24</td></tr>
+<tr><td>B2L</td><td>6</td><td>6</td><td>6</td><td>6</td><td>12</td><td>12</td><td>12</td><td>12</td><td>12</td><td>12</td><td>—</td><td>12</td><td>6</td><td>6</td><td>12</td><td>12</td><td>24</td></tr>
+<tr><td>B3</td><td>6</td><td>—</td><td>6</td><td>6</td><td>24</td><td>6</td><td>12</td><td>24</td><td>12</td><td>24</td><td>12</td><td>—</td><td>—</td><td>—</td><td>12</td><td>12</td><td>12</td></tr>
+<tr><td>L1</td><td>24</td><td>24</td><td>24</td><td>24</td><td>36</td><td>24</td><td>24</td><td>36</td><td>24</td><td>36</td><td>24</td><td>24</td><td>—</td><td>6 (*1)</td><td>12 (*1)</td><td>12 (*1)</td><td>24</td></tr>
+<tr><td>L2</td><td>24</td><td>12</td><td>24</td><td>24</td><td>36</td><td>12</td><td>12</td><td>36</td><td>24</td><td>36</td><td>24</td><td>12</td><td>—</td><td>—</td><td>12 (*1)</td><td>12 (*1)</td><td>24</td></tr>
+<tr><td>L3</td><td>30</td><td>30</td><td>30</td><td>30</td><td>48</td><td>30</td><td>30</td><td>48</td><td>30</td><td>48</td><td>30</td><td>30</td><td>12 (*1)</td><td>12 (*1)</td><td>—</td><td>6 (*1)</td><td>24</td></tr>
+<tr><td>L4</td><td>30</td><td>30</td><td>30</td><td>30</td><td>48</td><td>30</td><td>30</td><td>48</td><td>30</td><td>48</td><td>30</td><td>30</td><td>12 (*1)</td><td>12 (*1)</td><td>—</td><td>—</td><td>24</td></tr>
+<tr><td>L5</td><td>24</td><td>24</td><td>24</td><td>24</td><td>36</td><td>24</td><td>24</td><td>36</td><td>24</td><td>36</td><td>24</td><td>24</td><td>12 (*1)</td><td>12 (*1)</td><td>12 (*1)</td><td>—</td><td>—</td></tr>
+<tr><td colspan="18">(*1)  Experience may be reduced by 50 % but allowing a licence with limitations in accordance with point 66.A.45(h)(ii)(3). </td></tr>
+</tbody>
+</table>
+
+**B. Basic knowledge modules or part modules required**
+
+The purpose of this table is to outline the examinations required to add a new basic (sub)category to an AML granted in accordance with this Annex.
+
+The syllabi prepared in accordance with Appendix I and Appendix VII require different levels of knowledge for different licence categories within a module; therefore, there are additional examinations applicable to certain modules for licence holders wishing to extend an AML granted in accordance with this Annex to include another (sub)category, and an analysis of the module shall be conducted to determine the subjects missing or passed at a lower level.
+
+**Table B**
+
+| To: From: | A1 | A2 | A3 | A4 | B1.1 | B1.2 | B1.E | B1.3 | B1.4 | B2 | B2L | B3 | L1C | L1 | L2C | L2 | L3H | L3G | L4H | L4G | L5 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A1 | None | 16. | 12. | 12, 16. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 2, 8, 9. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 9. |
+| A2 | 11, 15. | None | 12, 15. | 12. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 2, 8, 9. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 9. |
+| A3 | 11, 17. | 11, 16, 17. | None | 16. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 2, 8, 9. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 9. |
+| A4 | 11, 15, 17. | 11, 17. | 15. | None | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 9. | All except 2, 8, 9. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 2L. | All except 9. |
+| B1.1 | None | 16. | 12. | 12, 16. | None | 16. | 18. | 12. | 12, 16. | 4, 5, 13, 14 | 4, 5, 13SQ, 14SQ | 16. | 12L. | 12L. | 8L2, 12L. | 8L2, 12L. | 9L. | 10L. | 8L2, 9L, 11L, 12L. | 8L2, 10L, 11L, 12L. | 8L2, 10L, 11L, 12L. |
+| B1.2 | 11, 15. | None | 12, 15. | 12. | 11, 15. | None | 18. | 12, 15. | 12. | 4, 5, 13, 14 | 4, 5, 13SQ. 14SQ | None | 12L. | 12L. | 8L1, 12L. | 8L1, 12L. | 9L. | 10L. | 8L1, 9L, 11L, 12L. | 8L1, 10L, 11L, 12L. | 8L1, 10L, 11L, 12L. |
+| B1.E | 11, 15. | 114, 16 | 12, 15. | 12, 16. | 11, 15. | 114, 16 | None | 12, 15. | 12, 16. | 4, 5, 13, 14 | 4, 5, 13SQ, 14SQ | 114, 16. | 12L. | 12L. | 8L3, 12L. | 8L3, 12L. | 9L. | 10L. | 8L3, 9L, 11L, 12L. | 8L3, 10L, 11L, 12L. | 8L3, 10L, 11L, 12L. |
+| B1.3 | 11, 17. | 11, 16, 17. | None | 16. | 11, 17. | 11, 16, 17. | 11, 17, 18. | None | 16. | 4, 5, 13, 14 | 4, 5, 13SQ, 14SQ | 11, 16, 17. | 7L, 12L. | 7L, 12L. | 7L, 8L2, 12L. | 7L, 8L2, 12L. | 9L. | 10L. | 8L2, 9L, 11L, 12L. | 8L2, 10L, 11L, 12L. | 8L2, 10L, 11L, 12L. |
+| B1.4 | 11, 15, 17. | 11, 17. | 15. | None | 11, 15, 17. | 11, 17. | 11, 17, 18. | 15. | None | 4, 5, 13, 14 | 4, 5, 13SQ, 14SQ | 11, 17. | 7L, 12L. | 7L, 12L. | 7L, 8L1, 12L. | 7L, 8L1, 12L. | 9L. | 10L. | 8L1, 9L, 11L, 12L. | 8L1, 10L, 11L, 12L. | 8L1, 10L, 11L, 12L. |
+| B2 | 7, 11, 15, 17. | 7, 11, 16, 17. | 7, 12, 15. | 7, 12, 16. | 6, 7, 11, 15, 17. | 6, 7, 11, 16, 17. | 6, 7, 11, 17, 18. | 6, 7, 12, 15. | 6, 7, 12, 16. | None | None | 6, 7, 11, 16, 17. | 5L, 7L. | 4L, 5L, 6L, 7L. | 5L, 7L, 8L. | 4L, 5L, 6L, 7L, 8L. | 9L. | 10L. | 8L, 9L, 11L. | 8L, 10L, 11L. | 6, 7, [11 or 127], [15, 16 or 18], 17, 8L8, 10L, 11L |
+| B2L | 7, 11, 15, 17. | 7, 11, 16, 17. | 7, 12, 15. | 7, 12, 16. | 6, 7, 11, 15, 17. | 6, 7, 11, 16, 17. | 6, 7, 11, 17, 18. | 6, 7, 12, 15. | 6, 7, 12, 16. | 13SQ, 14SQ. | None | 6, 7, 11, 16, 17. | 5L, 7L, 12LSQ. | 4L, 5L, 6L, 7L, 12LSQ. | 5L, 7L, 8L, 12LSQ. | 4L, 5L, 6L, 7L, 8L, 12LSQ. | 9L. | 10L. | 8L, 9L, 11L,12LSQ. | 8L, 10L, 11L, 12LSQ. | 6, 7, [11 or 127], [15, 16 or 18], 17, 8L8, 10L, 11L, 12LSQ |
+| B3 | 11, 15. | 11 | 12, 15. | 12. | 2, 3, 5, 8, 11, 15. | 2, 3, 5, 8, 11. | 2, 3, 5, 8, 11, 18. | 2, 3, 5, 8, 12, 15. | 2, 3, 5, 8, 12. | 2, 3, 4, 5, 8, 13, 14. | 2, 3, 4, 5, 8, 13SQ, 14SQ. | None | 12L. | 12L. | 8L1, 12L. | 8L1, 12L. | 9L. | 10L. | 8L1,9L, 11L, 12L. | 8L1,10L, 11L, 12L. | 2, 3, 5, 8, [11 or 12], 8L1, 10L, 11L, 12L. |
+
+<table>
+<tbody><tr><td colspan="2">To From </td><td>A1</td><td>A2</td><td>A3</td><td>A4</td><td>B1.1</td><td>B1.2</td><td>B1.E</td><td>B1.3</td><td>B1.4</td><td>B2</td><td>B2L</td><td>B3</td><td>L1C</td><td>L1</td><td>L2C</td><td>L2</td><td>L3H</td><td>L3G</td><td>L4H</td><td>L4G</td><td>L5</td></tr>
+<tr><td colspan="2">L1C</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>None</td><td>4L, 6L.</td><td>8L.</td><td>4L, 6L, 8L.</td><td>9L.</td><td>10L.</td><td>8L, 9L, 11L.</td><td>8L, 10L, 11L.</td><td>All except 12L.</td></tr>
+<tr><td colspan="2">L1</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>None</td><td>None</td><td>8L.</td><td>8L.</td><td>9L.</td><td>10L.</td><td>8L, 9L, 11L.</td><td>8L, 10L, 11L.</td><td>All except 12L.</td></tr>
+<tr><td colspan="2">L2C</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>None</td><td>4L, 6L.</td><td>None</td><td>4L, 6L.</td><td>9L.</td><td>10L.</td><td>9L, 11L.</td><td>10L, 11L.</td><td>All except 8L and 12L.</td></tr>
+<tr><td colspan="2">L2</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>None</td><td>None</td><td>None</td><td>None</td><td>9L.</td><td>10L.</td><td>9L, 11L.</td><td>10L, 11L.</td><td>All except 8L and 12L.</td></tr>
+<tr><td colspan="2">L3H</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>5L, 7L, 12L.</td><td>4L, 5L, 6L, 7L, 12L.</td><td>5L, 7L, 8L, 12L.</td><td>4L, 5L, 6L, 7L, 8L, 12L.</td><td>None</td><td>10L.</td><td>8L, 11L, 12L.</td><td>8L, 10L, 11L, 12L.</td><td>All.</td></tr>
+<tr><td colspan="2">L3G</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>5L, 7L, 12L.</td><td>4L, 5L, 6L, 7L, 12L.</td><td>5L, 7L, 8L, 12L.</td><td>4L, 5L, 6L, 7L, 8L, 12L.</td><td>9L.</td><td>None</td><td>8L, 9L, 11L, 12L.</td><td>8L, 11L, 12L.</td><td>All except 10L.</td></tr>
+<tr><td colspan="2">L4H</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>5L, 7L.</td><td>4L, 5L, 6L, 7L.</td><td>5L, 7L.</td><td>4L, 5L, 6L, 7L.</td><td>None</td><td>10L.</td><td>None</td><td>10L.</td><td>All except 8L, 11L and 12L.</td></tr>
+<tr><td colspan="2">L4G</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>All</td><td>5L, 7L.</td><td>4L, 5L, 6L, 7L.</td><td>5L, 7L.</td><td>4L, 5L, 6L, 7L.</td><td>9L.</td><td>None</td><td>9L.</td><td>None</td><td>All except 8L, 10L, 11L and 12L.</td></tr>
+<tr><td rowspan="5">L510</td><td>B1.1</td><td>None</td><td>None</td><td>12.</td><td>12.</td><td>None</td><td>166.</td><td>18.</td><td>12.</td><td>12, 166.</td><td>4, 5, 13.</td><td>4, 5, 13SQ.</td><td>166.</td><td>None</td><td>None</td><td>None</td><td>None</td><td>9L.</td><td>None</td><td>9L.</td><td>None</td><td>None</td></tr>
+<tr><td>B1.2</td><td>11.</td><td>None</td><td>12.</td><td>12.</td><td>11, 15.</td><td>None</td><td>18.</td><td>12, 15.</td><td>12.</td><td>4, 5, 13.</td><td>4, 5, 13SQ.</td><td>None</td><td>None</td><td>None</td><td>None</td><td>None</td><td>9L.</td><td>None</td><td>9L.</td><td>None</td><td>None</td></tr>
+<tr><td>B1.E</td><td>11.</td><td>None</td><td>12.</td><td>12.</td><td>11, 15.</td><td>114, 166.</td><td>None</td><td>12, 15.</td><td>12, 166.</td><td>4, 5, 13.</td><td>4, 5, 13SQ.</td><td>114, 166.</td><td>None</td><td>None</td><td>None</td><td>None</td><td>9L.</td><td>None</td><td>9L.</td><td>None</td><td>None</td></tr>
+<tr><td>B1.3</td><td>11.</td><td>11.</td><td>None</td><td>None</td><td>11, 175.</td><td>11, 166, 175.</td><td>11, 175, 18.</td><td>None</td><td>166.</td><td>4, 5, 13.</td><td>4, 5, 13SQ.</td><td>11, 166, 175.</td><td>7L.</td><td>7L.</td><td>7L.</td><td>7L.</td><td>9L.</td><td>None</td><td>9L.</td><td>None</td><td>None</td></tr>
+<tr><td>B1.4</td><td>11.</td><td>11.</td><td>None</td><td>None</td><td>11, 15, 175.</td><td>11, 175.</td><td>11, 175, 18.</td><td>15.</td><td>None</td><td>4, 5, 13.</td><td>4, 5, 13SQ.</td><td>11, 175.</td><td>7L.</td><td>7L.</td><td>7L.</td><td>7L.</td><td>9L.</td><td>None</td><td>9L.</td><td>None</td><td>None</td></tr>
+</tbody>
+</table>
+
+Note: ‘All’ means all the relevant elements of the modules identified in point ‘2. Modularisation’ of Appendix I or in point ‘1. Modularisation’ of Appendix VII for the target (sub)category (i.e. the (sub)category mentioned in the row ‘To’).
+
+SQ = it depends on system qualification.
+
+1: excluding the subjects related to piston engines and when ‘From: B1.2’ or ‘From: B3’ excluding also the subjects related to propeller.
+
+2: excluding the subjects related to turbine engines and when ‘From: B1.1’ excluding also the subjects related to propeller.
+
+3: excluding the subjects related to electric engines and propeller.
+
+4: submodule ‘11.10’ only.
+
+5: submodule ‘17.4’ only.
+
+6: submodule ‘16.12’ only.
+
+7: modules 12 and 18 cannot be chosen together.
+
+8: only some applicable subjects of module 8L are required depending on the module [11 or 12] and [15, 16 or 18] chosen.
+
+9: the (sub)module(s) identified in each cell shall be taught to the knowledge level identified in point ‘2. Modularisation’ of Appendix I or in point ‘1. Modularisation’ of Appendix VII corresponding to the target (sub)category (i.e. the (sub)category mentioned in the row ‘To’).
+
+10: Use sub-row B1.x based on the B1 subcategory that provided access to the L5 licence (refer to point ‘1. Modularisation’ of Appendix VII).
+
+## Appendix V
+
+**Application Form — EASA Form 19**
+
+1\. This Appendix contains an example of the form used for applying for the aircraft maintenance licence referred to in Annex III (Part-66).
+
+2\. The competent authority of the Member State may modify the EASA Form 19 only to include additional information necessary to support the case where the national requirements permit or require the aircraft maintenance licence issued in accordance with Annex III (Part-66) to be used outside the requirements of this Regulation.
+
+[image]
+
+[image]
+
+Text of image
+
+I wish to apply for initial/amendment of/renewal of Part-66 AML, as indicated, and confirm that the information contained in this form was correct at the time of application.
+
+I herewith confirm that:
+
+1\. I am not holding any Part-66 AML issued in another Member State;
+
+2\. I have not applied for any Part-66 AML in another Member State; and
+
+3\. I never had a Part-66 AML issued in another Member State which was revoked or suspended in any other Member State.
+
+I also understand that any incorrect information could disqualify me from holding a Part-66 AML.
+
+Signed: Name:
+
+Date:
+
+I wish to claim the following credits (if applicable):
+
+Experience credits for Part-147 training
+
+Examination credits for equivalent exam certificates
+
+Please enclose all relevant certificates
+
+Recommendation (if applicable): It is hereby certified that the applicant has met the relevant Part-66 maintenance knowledge and experience requirements and it is recommended that the competent authority grants or endorses the Part-66 AML.
+
+Signed: Name:
+
+Position: Date:
+
+EASA FORM 19 Issue 5
+
+►(1) M18
+
+## Appendix VI
+
+**Aircraft Maintenance Licence referred to in Annex III (Part-66) – EASA Form 26**
+
+1\. An example of the aircraft maintenance licence referred to in Annex III (Part-66) can be found on the following pages.
+
+2\. The document shall be printed in the standardised form shown but may be reduced in size to allow it being generated by computer. When the size is reduced, care shall be taken to ensure that sufficient space is available in those places where official seals or stamps are required. Computer-generated documents need not have all the boxes incorporated when any such box remains blank, so long as the document can clearly be recognised as an aircraft maintenance licence issued in accordance with Annex III (Part-66).
+
+3\. The document may be filled in either in English or the official language of the Member State of the competent authority. In the latter case, a second copy in English shall be attached to the document for any licence holder who needs to use the licence outside that Member State to ensure understanding for the purpose of mutual recognition.
+
+4\. Each licence holder shall have a unique licence holder number, established on the basis of a national identifier and an alpha-numeric designator.
+
+5\. The document may have the pages in a different order to the one of this example and needs not have some or any divider lines as long as the information contained is positioned in such a manner that each page lay-out can clearly be identified with the format of the example of the aircraft maintenance licence contained herein.
+
+6\. The document shall be prepared by the competent authority. However, it may also be prepared by any maintenance organisation approved in accordance with Annex II (Part-145), where the competent authority agrees to this and the preparation takes place in accordance with a procedure laid down in the maintenance organisation exposition referred to in point 145.A.70 of Annex II (Part-145). In all cases, the competent authority shall issue the document.
+
+7\. The preparation of any change to an existing aircraft maintenance licence shall be carried out by the competent authority. However, it may also be prepared by any maintenance organisation approved in accordance with Annex II (Part- 145), where the competent authority agrees to this and the preparation takes place in accordance with a procedure laid down in the maintenance organisation exposition referred to in point 145.A.70 of Annex II (Part-145). In all cases, the competent authority shall change the document.
+
+8\. The holder of the aircraft maintenance licence shall keep it in good condition and shall ensure that no unauthorised entries are made. Failure to comply with this rule may invalidate the license or lead to the holder not being permitted to hold any certification privilege. It may also result in prosecution under national law.
+
+9\. The aircraft maintenance licence issued in accordance with Annex III (Part-66) shall be recognised in all Member States and it is not required to exchange the document when working in another Member State.
+
+10\. The Annex to EASA Form 26 is optional and may only be used to include national privileges, where such privileges are covered by national law outside the scope of Annex III (Part-66).
+
+11\. With regard to the aircraft type rating page of the aircraft maintenance licence, the competent authority may decide not to issue this page until the first aircraft type rating needs to be endorsed and may need to issue more than one aircraft type rating page depending on the number of type ratings to be listed.
+
+12\. Notwithstanding point 11, each page issued shall be in the format of this example and contain the specified information for that page.
+
+13\. The aircraft maintenance licence shall clearly indicate that the limitations are exclusions from the certification privileges. If there are no limitations applicable, the LIMITATIONS page shall state ‘No limitations’.
+
+14\. Where a pre-printer format is used for issuing the aircraft maintenance licence, any category, subcategory or type rating box which does not contain a rating entry shall be marked to show that the rating is not held.
+
+Text of image
+
+APPLICATION FOR INITIAL/AMENDMENT OF/RENEWAL OF PART-66 AIRCRAFT MAINTENANCE LICENCE (AML)
+
+EASA FORM 19
+
+APPLICANT’S DETAILS:
+
+Name:
+
+Address:
+
+Tel: E-mail:
+
+Nationality: Date and Place of Birth:
+
+PART-66 AML DETAILS (if applicable):
+
+Licence No: Date of Issue:
+
+EMPLOYER’S DETAILS:
+
+Name:
+
+Address:
+
+Maintenance Organisation Approval Reference:
+
+Tel: Fax:
+
+APPLICATION FOR: (Tick relevant boxes)
+
+Initial AML Amendment of AML Renewal of AML
+
+(Sub)categories A B1 B2 B2L B3 C L (see below)
+
+Aeroplane Turbine
+
+Aeroplane Piston
+
+Helicopter Turbine
+
+Helicopter Piston
+
+Avionics See system ratings below
+
+Piston engine non-pressurised aeroplanes of MTOM of 2t and below
+
+Complex motor-powered aircraft
+
+Aircraft other than complex motor-powered aircraft
+
+System ratings for B2L licence:
+
+1\. autoflight,
+
+2\. instruments
+
+3\. com/nav
+
+4\. surveillance
+
+5\. airframe systems
+
+L-licence subcategories:
+
+L1C: Composite sailplanes
+
+L1: Sailplanes
+
+L2C: Composite powered sailplanes and composite ELA1 aeroplanes
+
+L2: Powered sailplanes and ELA1 aeroplanes
+
+L3H: Hot-air balloons
+
+L3G: Gas balloons
+
+L4H: Hot-air airships
+
+L4G: ELA2 gas airships
+
+L5: Gas airships other than ELA2
+
+Type endorsement/Rating endorsement/Limitation removal (if applicable):
+
+►(1) M16
+
+►(2)(3) M18
+
+Text of image
+
+I wish to apply for initial/amendment of/renewal of Part-66 AML, as indicated, and confirm that the information contained in this form was correct at the time of application.
+
+I herewith confirm that:
+
+1\. I am not holding any Part-66 AML issued in another Member State;
+
+2\. I have not applied for any Part-66 AML in another Member State; and
+
+3\. I never had a Part-66 AML issued in another Member State which was revoked or suspended in any other Member State.
+
+I also understand that any incorrect information could disqualify me from holding a Part-66 AML.
+
+Signed: Name:
+
+Date:
+
+I wish to claim the following credits (if applicable):
+
+Experience credits for Part-147 training
+
+Examination credits for equivalent exam certificates
+
+Please enclose all relevant certificates
+
+Recommendation (if applicable): It is hereby certified that the applicant has met the relevant Part-66 maintenance knowledge and experience requirements and it is recommended that the competent authority grants or endorses the Part-66 AML.
+
+Signed: Name:
+
+Position: Date:
+
+EASA FORM 19 Issue 5
+
+►(1) M16
+
+►(2) M18
+
+## Appendix VII
+
+**Basic knowledge requirements for a category L aircraft maintenance licence**
+
+The definitions of the different levels of knowledge required in this Appendix are the same as those set out in point 1 of Appendix I.
+
+**1\. Modularisation**
+
+The modules required for each aircraft licence subcategory/category shall be in accordance with the following matrix. Where applicable, the subject modules are indicated by an ‘X’, while ‘n/a’ means that the subject module is not applicable nor required.
+
+The basic knowledge requirement for L5 shall be the same as for any B1 subcategory (as indicated in Appendix I) plus other modules as shown in the matrix.
+
+<table>
+<tbody><tr><td>  </td><td colspan="9">Licence subcategories</td></tr>
+<tr><td>  </td><td>Composite sailplanes</td><td>Sailplanes</td><td>Composite powered sailplanes and composite ELA1 aeroplanes</td><td>Powered sailplanes and ELA1 aeroplanes</td><td>Hot-air balloons</td><td>Gas balloons</td><td>Hot-air airships</td><td>ELA2 gas airships</td><td>Gas airships above ELA2</td></tr>
+<tr><td>Subject modules</td><td>L1C</td><td>L1</td><td>L2C</td><td>L2</td><td>L3H</td><td>L3G</td><td>L4H</td><td>L4G</td><td>L5</td></tr>
+<tr><td>1L ‘Basic knowledge’</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>n/a</td></tr>
+<tr><td>2L ‘Human factors’</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>n/a</td></tr>
+<tr><td>3L ‘Aviation legislation’</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>X</td><td>n/a</td></tr>
+<tr><td>4L ‘Wooden and/or metal-tube structure covered with fabric’</td><td>n/a</td><td>X</td><td>n/a</td><td>X</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>5L ‘Composite structure’</td><td>X</td><td>X</td><td>X</td><td>X</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>6L ‘Metallic structure’</td><td>n/a</td><td>X</td><td>n/a</td><td>X</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>7L ‘Airframe – general, mechanical and electrical systems’</td><td>X</td><td>X</td><td>X</td><td>X</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>8L ‘Power plant’</td><td>n/a</td><td>n/a</td><td>X</td><td>X</td><td>n/a</td><td>n/a</td><td>X</td><td>X</td><td>X (*1)</td></tr>
+<tr><td>9L ‘Balloons – hot-air balloons’</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>X</td><td>n/a</td><td>X</td><td>n/a</td><td>n/a</td></tr>
+<tr><td>10L ‘Balloons – gas (free/tethered) balloons’</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>X</td><td>n/a</td><td>X</td><td>X</td></tr>
+<tr><td>11L ‘Airships – hot-air/gas AIRSHIPS’</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>n/a</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td>12L ‘Radio Com/ELT/Transponder/Instruments’</td><td>X</td><td>X</td><td>X</td><td>X</td><td>n/a</td><td>n/a</td><td>X</td><td>X</td><td>X</td></tr>
+<tr><td colspan="10">(*1)  Only applicable propulsion subjects of Module 8L are required; these depend on the B1 subcategory the applicant comes from. </td></tr>
+</tbody>
+</table>
+
+**MODULE 1L – BASIC KNOWLEDGE**
+
+| MODULE 1L – BASIC KNOWLEDGE | Level |
+| --- | --- |
+| 1L.1 Mathematics — Arithmetic — Algebra — Geometry | 1 |
+| 1L.2 Physics — Matter — Mechanics — Temperature | 1 |
+| 1L.3 Electrics — AC and DC circuits | 1 |
+| 1L.4 Aerodynamics/aerostatics | 1 |
+| 1L.5 Workplace safety and environmental protection | 2 |
+
+**MODULE 2L – HUMAN FACTORS**
+
+| MODULE 2L – HUMAN FACTORS | Level |
+| --- | --- |
+| 2L.1 General | 1 |
+| 2L.2 Human performance and limitations | 1 |
+| 2L.3 Social psychology | 1 |
+| 2L.4 Factors that affect performance | 1 |
+| 2L.5 Physical environment | 1 |
+| 2L.6 The ‘Dirty Dozen’ and risk mitigation | 2 |
+
+MODULE 3L – AVIATION LEGISLATION
+
+| MODULE 3L – AVIATION LEGISLATION | Level |
+| --- | --- |
+| 3L.1 Regulatory framework | 1 |
+| 3L.2 Continuing airworthiness regulations | 1 |
+| 3L.3 Repairs and modifications (Part-ML) | 2 |
+| 3L.4 Maintenance data (Part-ML) | 2 |
+| 3L.5 Licence privileges and how to exercise them properly (Part-66, Part-ML) | 2 |
+
+**MODULE 4L – WOODEN AND/OR METAL-TUBE STRUCTURE COVERED WITH FABRIC**
+
+| MODULE 4L – WOODEN AND/OR METAL-TUBE STRUCTURE COVERED WITH FABRIC | Level |
+| --- | --- |
+| 4L.1 Airframe wooden/combination of metal tube and fabric | 2 |
+| 4L.2 Materials | 2 |
+| 4L.3 Identifying damages and defects | 3 |
+| 4L.4 Standard repair and maintenance procedures | 3 |
+
+**MODULE 5L – COMPOSITE STRUCTURE**
+
+| MODULE 5L – COMPOSITE STRUCTURE | Level |
+| --- | --- |
+| 5L.1 Airframe fibre-reinforced plastic (FRP) | 2 |
+| 5L.2 Materials | 2 |
+| 5L.3 Identifying damages and defects | 3 |
+| 5L.4 Standard repair and maintenance procedures | 3 |
+
+**MODULE 6L – METALLIC STRUCTURE**
+
+| MODULE 6L – METALLIC STRUCTURE | Level |
+| --- | --- |
+| 6L.1 Metallic airframe | 2 |
+| 6L.2 Materials | 2 |
+| 6L.3 Identifying damages and defects | 3 |
+| 6L.4 Standard repair and maintenance procedures | 3 |
+
+**MODULE 7L – AIRFRAME – GENERAL, MECHANICAL AND ELECTRICAL SYSTEMS**
+
+| MODULE 7L – AIRFRAME – GENERAL, MECHANICAL AND ELECTRICAL SYSTEMS | Level |
+| --- | --- |
+| 7L.1 Theory of flight – gliders and aeroplanes | 1 |
+| 7L.2 Airframe structure – gliders and aeroplanes | 1 |
+| 7L.3 Air conditioning (ATA 21) | 1 |
+| 7L.4 Electrical power, cables and connectors (ATA 24) | 2 |
+| 7L.5 Equipment and furnishing (ATA 25) | 2 |
+| 7L.6 Fire protection and other safety systems (ATA 26) | 2 |
+| 7L.7 Flight controls (ATA 27) | 3 |
+| 7L.8 Fuel system (ATA 28) | 2 |
+| 7L.9 Hydraulic power (ATA 29) | 2 |
+| 7L.10 Ice and rain protection (ATA 30) | 1 |
+| 7L.11 Landing gear (ATA 32) | 2 |
+| 7L.12 Lights (ATA 33) | 2 |
+| 7L.13 Oxygen (ATA 35) | 2 |
+| 7L.14 Pneumatic/vacuum (ATA 36) | 2 |
+| 7L.15 Water ballast (ATA 41) | 2 |
+| 7L.16 Fasteners | 2 |
+| 7L.17 Pipes, hoses and connectors | 2 |
+| 7L.18 Springs | 2 |
+| 7L.19 Bearings | 2 |
+| 7L.20 Transmissions | 2 |
+| 7L.21 Control cables | 2 |
+| 7L.22 Fits and clearances | 2 |
+| 7L.23 Aircraft weight and balance | 2 |
+| 7L.24 Workshop practices and tools | 2 |
+| 7L.25 Disassembly, inspection, repair and assembly techniques | 2 |
+| 7L.26 Abnormal events | 2 |
+| 7L.27 Maintenance procedures | 2 |
+
+**MODULE 8L – POWER PLANT**
+
+| MODULE 8L – POWER PLANT | Piston | Turbine | Electrical | Level |
+| --- | --- | --- | --- | --- |
+| 8L.1 General engine fundamentals | X | X | X | 2 |
+| 8L.2 Piston engine fundamentals and performance | X |  |  | 2 |
+| 8L.3 Piston engine construction | X |  |  | 2 |
+| 8L.4 Piston engine fuel system (non-electronic) | X |  |  | 2 |
+| 8L.5 Starting and ignition system | X |  |  | 2 |
+| 8L.6 Air intake, exhaust and cooling system | X |  |  | 2 |
+| 8L.7 Supercharging/turbocharging | X |  |  | 2 |
+| 8L.8 Lubrication systems of piston engines | X |  |  | 2 |
+| 8L.9 Engine indication systems | X | X | X | 2 |
+| 8L.10 Electric aircraft engines |  |  | X | 2 |
+| 8L.11 Turbine engine fundamentals and performance |  | X |  | 2 |
+| 8L.12 Inlet and compressor |  | X |  | 2 |
+| 8L.13 Combustion chamber, starting and ignition system |  | X |  | 2 |
+| 8L.14 Turbine section and exhaust |  | X |  | 2 |
+| 8L.15 Other turbine engine components and systems |  | X |  | 2 |
+| 8L.16 Turbine engine inspections and ground operation |  | X |  | 2 |
+| 8L.17 Propeller | X | X | X | 2 |
+| 8L.18 Full authority digital engine control (FADEC) | X | X | X | 2 |
+| 8L.19 Lubricants and fuels | X | X | X | 2 |
+| 8L.20 Engine and propeller installation | X | X | X | 2 |
+| 8L.21 Engine monitoring and ground operation | X | X | X | 2 |
+| 8L.22 Engine/propeller storage and preservation | X | X | X | 2 |
+
+**MODULE 9L – BALLOONS – HOT-AIR BALLOONS**
+
+| MODULE 9L – BALLOONS – HOT-AIR BALLOONS | Level |
+| --- | --- |
+| 9L.1 Theory of flight – hot-air balloons | 1 |
+| 9L.2 General airframe of hot-air balloons | 2 |
+| 9L.3 Envelope | 3 |
+| 9L.4 Heater system/burner | 3 |
+| 9L.5 Basket and basket suspension (including alternative devices) | 3 |
+| 9L.6 Instruments | 2 |
+| 9L.7 Equipment | 2 |
+| 9L.8 Hot-air balloon handling and storage | 2 |
+| 9L.9 Disassembly, inspection, repair and assembly techniques | 3 |
+
+**MODULES 10L – BALLOONS – GAS (FREE/TETHERED) BALLOONS**
+
+| MODULES 10L – BALLOONS – GAS (FREE/TETHERED) BALLOONS | Level |
+| --- | --- |
+| 10L.1 Theory of flight – gas balloons | 1 |
+| 10L.2 General airframe of gas balloons | 2 |
+| 10L.3 Envelope | 3 |
+| 10L.4 Netting | 3 |
+| 10L.5 Valves, parachutes and other related systems | 3 |
+| 10L.6 Load ring | 3 |
+| 10L.7 Basket (including alternative devices) | 3 |
+| 10L.8 Ropes and lines | 3 |
+| 10L.9 Instruments | 2 |
+| 10L.10 Tethered gas balloon (TGB) systems | 3 |
+| 10L.11 Equipment | 2 |
+| 10L.12 Gas balloon handling and storage | 2 |
+| 10L.13 Disassembly, inspection, repair and assembly techniques | 3 |
+
+**MODULES 11L – AIRSHIPS – HOT-AIR/GAS AIRSHIPS**
+
+| MODULES 11L – AIRSHIPS – HOT-AIR/GAS AIRSHIPS | Level |
+| --- | --- |
+| 11L.1 Theory of flight and control of airships | 2 |
+| 11L.2 Airship airframe structure – general concepts | 2 |
+| 11L.3 Airship envelope | 2 |
+| 11L.4 Gondola | 3 |
+| 11L.5 Airship flight control (ATA 27/55) | 3 |
+| 11L.6 Electrical power (ATA 24) | 3 |
+| 11L.7 Lights (ATA 33) | 2 |
+| 11L.8 Ice and rain protection | 3 |
+| 11L.9 Fuel systems (ATA 28) | 2 |
+| 11L.10 Engine and propellers in airships | 2 |
+| 11L.11 Airship handling and storage | 2 |
+| 11L.12 Disassembly, inspection, repair and assembly techniques | 2 |
+
+**MODULE 12L – RADIO COM/ELT/TRANSPONDER/INSTRUMENTS**
+
+| MODULE 12L – RADIO COM/ELT/TRANSPONDER/INSTRUMENTS | Level |
+| --- | --- |
+| 12L.1 Radio Com/ELT | 2 |
+| 12L.2 Transponder and FLARM | 2 |
+| 12L.3 Instruments | 2 |
+| 12L.4 Avionics general test equipment | 1 |
+
+## Appendix VIII
+
+**Basic examination standard for category L aircraft maintenance licence**
+
+(a) The standardisation basis for examinations related to the Appendix VII basic knowledge requirements shall be as follows:
+
+(i) all examinations must be carried out using the multiple-choice question format as specified in point (ii). The incorrect alternatives must seem equally plausible to anyone ignorant of the subject. All of the alternatives should be clearly related to the question and of similar vocabulary, grammatical construction and length. In numerical questions, the incorrect answers should correspond to procedural errors such as corrections applied in the wrong sense or incorrect unit conversions: they must not be mere random numbers;
+
+(ii) each multiple-choice question must have three alternative answers of which only one must be the correct answer and the candidate must be allowed a time per module which is based upon a nominal average of 75 seconds per question;
+
+(iii) the pass mark for each module is 75 %;
+
+(iv) penalty marking (negative points for failed questions) is not to be used;
+
+(v) the level of knowledge required in the questions must be proportionate to the level of technology of the aircraft category;
+
+(vi) a failed module may not be retaken for at least 90 days from the date of the failed module examination;
+
+(vii) the maximum number of attempts for each examination is three in a 12-month period.
+
+(b) The number of questions per module shall be as follows:
+
+(i) module 1L ‘BASIC KNOWLEDGE’: 20 questions.
+
+Time allowed: 25 minutes;
+
+(ii) module 2L ‘HUMAN FACTORS’: 20 questions.
+
+Time allowed: 25 minutes;
+
+(iii) module 3L ‘AVIATION LEGISLATION’: 28 questions.
+
+Time allowed: 35 minutes;
+
+(iv) module 4L ‘WOODEN AND/OR METAL-TUBE STRUCTURE COVERED WITH FABRIC’: 40 questions.
+
+Time allowed: 50 minutes;
+
+(v) module 5L ‘COMPOSITE STRUCTURE’: 32 questions.
+
+Time allowed: 40 minutes;
+
+(vi) module 6L ‘METALLIC STRUCTURE’: 32 questions.
+
+Time allowed: 40 minutes;
+
+(vii) module 7L ‘AIRFRAME – GENERAL, MECHANICAL AND ELECTRICAL SYSTEMS’: 60 questions.
+
+Time allowed: 75 minutes;
+
+(viii) module 8L ‘POWER PLANT’: 64 questions.
+
+Time allowed: 80 minutes;
+
+(ix) module 9L ‘BALLOONS – HOT-AIR BALLOONS’: 36 questions.
+
+Time allowed: 45 minutes;
+
+(x) module 10L ‘BALLOONS – GAS (FREE/TETHERED) BALLOONS’: 44 questions.
+
+Time allowed: 55 minutes;
+
+(xi) module 11L ‘AIRSHIPS – HOT-AIR/GAS AIRSHIPS’: 40 questions.
+
+Time allowed: 50 minutes;
+
+(xii) Module 12L ‘RADIO COM/ELT/TRANSPONDER/INSTRUMENTS’: 20 questions.
+
+Time allowed: 25 minutes.
+
+## Appendix IX
+
+**Assessment method for the multimedia-based training (MBT)**
+
+1\. The purpose of this Appendix is to establish the requirements for the assessment and approval by a competent authority of any course that includes MBT in accordance with point 66.B.135.
+
+This Appendix may be used for the assessment of other training courses if the competent authority decides that the assessment method laid down in this Appendix are appropriate for such other courses.
+
+The assessment shall be conducted by the competent authority against all the criteria laid down in Table (A), grouped in four categories from (a) to (d). The competent authority shall clearly identify in the table the MBT product being assessed and its production and update versions.
+
+2\. The competent authority carrying out the assessment shall put itself in the position of the student or the end user and shall rate each criterion listed in Table (A) individually on a rating scale from 1 to 5, as follows:
+
+1: Not acceptable. Does not meet the required criteria.
+
+2: Partially acceptable, but improvement is needed to meet the required criteria.
+
+3: Acceptable. Meets the required criteria.
+
+4: Good. Meets the required criteria with enhancements made.
+
+5: Excellent. Exceeds the required criteria.
+
+3\. If one or more of the criteria is rated below 3, an alternative learning process shall be requested by the competent authority in order to enhance the suitability of the product to an acceptable level.
+
+4\. Once the competent authority has rated each of the individual criteria listed in Table (A), the following combined rating scale shall be used by the competent authority to determine the overall suitability level for each MBT learning resource:
+
+— 100–80: Excellent learning resource. It offers different functionalities and meets the required suitability criteria.
+
+— 79–60: The learning resource meets the required suitability criteria.
+
+— 59–40: The learning resource does not allow for a sufficiently worthy educational use. It can be used for ‘informal’ training only.
+
+— 39–20: The learning resource is below the average. It does not meet several required suitability criteria.
+
+Before approving the product, the competent authority shall check that the final score of the MBT is equal to or above 60, and that there is no single criterion that is rated below 3.
+
+Table (A): Assessment for the multimedia-based training (MBT)
+
+<table>
+<tbody><tr><td colspan="3">Assessment table for the multimedia-based training (MBT)</td></tr>
+<tr><td colspan="3">Product identification:</td></tr>
+<tr><td>Name:</td><td colspan="2">Version:</td></tr>
+<tr><td colspan="2">  </td><td>SCORE (1–5)</td></tr>
+<tr><td colspan="3">Category (a) ‘academic quality’</td></tr>
+<tr><td>Information reliability</td><td>1. The information is reliable.</td><td>  </td></tr>
+<tr><td>Information relevance</td><td>2. The information is relevant.</td><td>  </td></tr>
+<tr><td colspan="3">Category (b) ‘pedagogical quality’</td></tr>
+<tr><td rowspan="4">Pedagogical formulation/construction</td><td>3. The quality of the resource simplification is adequate.</td><td>  </td></tr>
+<tr><td>4. The educational resource presents an appropriate number of overviews and summaries.</td><td>  </td></tr>
+<tr><td>5. The resource is clearly structured (summaries, plans).</td><td>  </td></tr>
+<tr><td>6. The structure promotes its use in the pedagogical context.</td><td>  </td></tr>
+<tr><td rowspan="8">Pedagogical strategies</td><td>7. The learning objectives are stated.</td><td>  </td></tr>
+<tr><td>8. The resource includes stimuli to promote learning.</td><td>  </td></tr>
+<tr><td>9. The resource creates interaction between student and instructor.</td><td>  </td></tr>
+<tr><td>10. The active engagement of the student is fostered.</td><td>  </td></tr>
+<tr><td>11. Student-centred learning is present.</td><td>  </td></tr>
+<tr><td>12. Problem-solving tasks encourage learning.</td><td>  </td></tr>
+<tr><td>13. The resource enables communication between students.</td><td>  </td></tr>
+<tr><td>14. The student is able to see their learning progress.</td><td>  </td></tr>
+<tr><td>Student assessment methods</td><td>15. The resource provides a self-assessment procedure.</td><td>  </td></tr>
+<tr><td colspan="3">Category (c) ‘didactic quality’</td></tr>
+<tr><td>Learning activities</td><td>16. The content refers to real-life situations that the student could possibly face in an actual maintenance environment.</td><td>  </td></tr>
+<tr><td>Learning content</td><td>17. The content is adequate to meet the learning objectives.</td><td>  </td></tr>
+<tr><td colspan="3">Category (d) ‘technical quality’</td></tr>
+<tr><td>Design</td><td>18. The content and organisation of the learning resource includes the appropriate use of colours, interactivity, graphic quality, animations, and illustrations.</td><td>  </td></tr>
+<tr><td>Browsing</td><td>19. Navigation methods are clear, consistent, and intuitive.</td><td>  </td></tr>
+<tr><td>Technological aspects</td><td>20. Multimedia techniques promote the transfer of information.</td><td>  </td></tr>
+<tr><td colspan="2">Final score:</td><td>  </td></tr>
+<tr><td colspan="3">Notes: The following shall be taken into account by the competent authority when assessing the MBT against the individual criteria listed in Table (A):  Categories: </td></tr>
+</tbody>
+</table>
+
+(a) Academic quality
+
+The information presented in the multimedia resource shall have two characteristics:
+
+i. Reliability: the information is reliable, current, and relatively free of errors. The information complies with the current regulatory requirements.
+
+ii. Relevance: the information is relevant to the learning objectives defined for the course. It supports the student in achieving the learning objectives.
+
+(b) Pedagogical quality
+
+The MBT emphasises the activities which promote the development of the required knowledge and skills.
+
+The main criteria for each product are related to three aspects:
+
+i. Pedagogical formulation/construction: it is characterised by the quality of simplification, the presence of summaries as well as the use of diagrams, figures, animations, and illustrations. It evaluates whether the structure of the learning resource promotes its use in a pedagogical context. This refers to the ease of orientation (summary, lesson plan), presence of appropriate interactions, usability (back, forward, scroll boxes, etc.), and communication resources (questions and answers, FAQs, forum, etc.)
+
+ii. Pedagogical strategies: teaching and learning styles should be based on active teaching approaches to build meaningful situations related to learning objectives and to learner motivation.
+
+iii. Student assessment methods: methods are implemented to measure the achievement of learning objectives.
+
+(c) Didactic quality
+
+i. Learning activities: the content refers to real-life situations the student could possibly face in an actual maintenance environment.
+
+ii. Learning content: the content is adequate to meet the learning objectives.
+
+(d) Technical quality
+
+This section assesses the design, browsing and technological aspects of the learning resources:
+
+i. Design: the content and organisation of the learning resource shall promote the appropriate use of colours, interactivity, graphic quality for selected images, animations, and illustrations.
+
+ii. Browsing: while navigating, the student should be able to find a plan, an index, or a detailed table of contents. The suggested choices or guidelines shall be clear and the groupings within the menus shall be consistent.
+
+iii. Technological aspects: multimedia techniques aim to combine and exploit the capacities of any new technology in education to enhance the transfer of knowledge. Therefore, the system shall favour the use of animations, simulations, or any other interactive elements.
+
+## ANNEX IV — (Part-147)
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td colspan="2">147.1</td></tr>
+<tr><td>SECTION A —</td><td>TECHNICAL REQUIREMENTS</td></tr>
+<tr><td>SUBPART A —</td><td>GENERAL</td></tr>
+<tr><td>147.A.05</td><td>Scope</td></tr>
+<tr><td>147.A.10</td><td>General</td></tr>
+<tr><td>147.A.15</td><td>Application</td></tr>
+<tr><td>SUBPART B —</td><td>ORGANISATIONAL REQUIREMENTS</td></tr>
+<tr><td>147.A.100</td><td>Facility requirements</td></tr>
+<tr><td>147.A.105</td><td>Personnel requirements</td></tr>
+<tr><td>147.A.110</td><td>Records of instructors, examiners and assessors</td></tr>
+<tr><td>147.A.115</td><td>Instructional equipment</td></tr>
+<tr><td>147.A.120</td><td>Maintenance training material</td></tr>
+<tr><td>147.A.125</td><td>Records</td></tr>
+<tr><td>147.A.130</td><td>Training procedures and quality system</td></tr>
+<tr><td>147.A.135</td><td>Examinations</td></tr>
+<tr><td>147.A.140</td><td>Maintenance training organisation exposition</td></tr>
+<tr><td>147.A.145</td><td>Privileges of the maintenance training organisation</td></tr>
+<tr><td>147.A.150</td><td>Changes to the maintenance training organisation</td></tr>
+<tr><td>147.A.155</td><td>Continued validity</td></tr>
+<tr><td>147.A.160</td><td>Findings</td></tr>
+<tr><td>SUBPART C —</td><td>APPROVED BASIC TRAINING COURSE</td></tr>
+<tr><td>147.A.200</td><td>The approved basic training course</td></tr>
+<tr><td>147.A.205</td><td>Basic knowledge examinations</td></tr>
+<tr><td>147.A.210</td><td>Basic practical assessment</td></tr>
+<tr><td>SUBPART D —</td><td>AIRCRAFT TYPE/TASK TRAINING</td></tr>
+<tr><td>147.A.300</td><td>Aircraft type/task training</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>147.A.305</td><td>Aircraft type evaluation and task assessment</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>SECTION B —</td><td>PROCEDURES FOR COMPETENT AUTHORITIES</td></tr>
+<tr><td>SUBPART A —</td><td>GENERAL</td></tr>
+<tr><td>147.B.05</td><td>Scope</td></tr>
+<tr><td>147.B.10</td><td>Competent authority</td></tr>
+<tr><td>147.B.20</td><td>Record-keeping</td></tr>
+<tr><td>147.B.25</td><td>Exemptions</td></tr>
+<tr><td>SUBPART B —</td><td>ISSUE OF AN APPROVAL</td></tr>
+<tr><td>147.B.110</td><td>Procedure for approval and changes to the approval</td></tr>
+<tr><td>147.B.120</td><td>Continued validity procedure</td></tr>
+<tr><td>147.B.125</td><td>Maintenance training organisation approval certificate</td></tr>
+<tr><td>147.B.130</td><td>Findings</td></tr>
+<tr><td>SUBPART C —</td><td>REVOCATION, SUSPENSION AND LIMITATION OF THE MAINTENANCE TRAINING ORGANISATION APPROVAL</td></tr>
+<tr><td>147.B.200</td><td>Revocation, suspension and limitation of the maintenance training organisation approval</td></tr>
+<tr><td>Appendix I —</td><td>Basic Training Course Duration</td></tr>
+<tr><td>Appendix II —</td><td>Maintenance Training Organisation Approval — EASA Form 11</td></tr>
+<tr><td>Appendix III —</td><td>Certificates of Recognition referred to in Annex IV (Part-147) — EASA Forms 148 and 149</td></tr>
+</table>
+
+**147.1**
+
+For the purpose of this Part, the competent authority shall be:
+
+1\. for the organisations having their principle place of business located in the territory of a Member State, the authority designated by that Member State;
+
+2\. for the organisations having their principle place of business located in a third country, the Agency.
+
+**SECTION A**
+
+**TECHNICAL REQUIREMENTS**
+
+**SUBPART A**
+
+**GENERAL**
+
+147.A.05 Scope
+
+This section establishes the requirements to be met by organisations seeking approval to conduct training and examination as specified in Annex III (Part-66).
+
+147.A.10 General
+
+A training organisation shall be an organisation or part of an organisation registered as a legal entity.
+
+147.A.15 Application
+
+(a) An application for an approval or for the change of an existing approval shall be made on a form and in a manner established by the competent authority.
+
+(b) An application for an approval or change to an approval shall include the following information:
+
+1\. the registered name and address of the applicant;
+
+2\. the address of the organisation requiring the approval or change to the approval;
+
+3\. the intended scope of approval or change to the scope of approval;
+
+4\. the name and signature of the accountable manager;
+
+5\. the date of application.
+
+**SUBPART B**
+
+**ORGANISATIONAL REQUIREMENTS**
+
+147.A.100 Facility requirements
+
+(a) The size and structure of facilities shall ensure protection from the prevailing weather elements and proper operation of all planned training and examination on any particular day.
+
+(b) Fully enclosed, appropriate accommodation, separate from other facilities, shall be provided for the delivery of the theoretical training and the conduct of knowledge examinations.
+
+(c) The point (b) accommodation environment shall be maintained such that students are able to concentrate on their studies or examination as appropriate, without undue distraction or discomfort.
+
+(d) In the case of a basic training course, basic training workshops and/or maintenance facilities separate from training classrooms shall be provided for practical instruction appropriate to the planned training course. If, however, the organisation is unable to provide such facilities, arrangements may be made with another organisation to provide such workshops and/or maintenance facilities, in which case a written agreement shall be made with such organisation specifying the conditions of access and use thereof. The competent authority shall require access to any such contracted organisation and the written agreement shall specify this access.
+
+(e) In the case of an aircraft type/task training course access, shall be provided to appropriate facilities containing examples of aircraft type as specified in point 147.A.115(d).
+
+(f) The maximum number of students undergoing practical training during any training course shall not exceed 15 per instructor or assessor.
+
+(g) Office accommodation shall be provided for instructors, knowledge examiners and practical assessors of a standard to ensure that they can prepare for their duties without undue distraction or discomfort.
+
+(h) Secure storage facilities shall be provided for examination and training records. The storage environment shall be such that documents remain in good condition for the retention period as specified in point 147.A.125. The storage facilities and office accommodation may be combined, subject to adequate security.
+
+(i) A library shall be provided containing all technical material appropriate to the scope and level of training undertaken.
+
+(j) By derogation from points (a) to (d) and (f), in the case of distance learning performed at a location where the organisation approved under this Annex has no control over the environment where the student is located, the organisation approved under this Annex shall brief the student and raise their awareness regarding the suitability of their learning location. This derogation applies only to distance learning and not to the corresponding examination and/or assessment.
+
+147.A.105 Personnel requirements
+
+(a) The organisation shall appoint an accountable manager who has corporate authority for ensuring that all training commitments can be financed and carried out to the standard required by this Part.
+
+(b) A person or group of persons, whose responsibilities include ensuring that the maintenance training organisation is in compliance the requirements of this Part, shall be nominated. Such person(s) must be responsible to the accountable manager. The senior person or one person from the group of persons may also be the accountable manager subject to meeting the requirements for the accountable manager as defined in point (a).
+
+(c) The maintenance training organisation shall contract with sufficient staff to plan/perform theoretical and practical training, conduct knowledge examinations and practical assessments in accordance with the approval.
+
+(d) By derogation to point (c), when another organisation is used to provide practical training and assessments, such other organisation's staff may be nominated to carry out practical training and assessments.
+
+(e) Any person may carry out any combination of the roles of instructor, examiner and assessor, subject to compliance with point (f).
+
+(f) The experience and qualifications of instructors, knowledge examiners and practical assessors shall be established in accordance with criteria published or in accordance with a procedure and to a standard agreed by the competent authority.
+
+(g) The knowledge examiners and practical assessors shall be specified in the organisation exposition for the acceptance of such staff.
+
+(h) Instructors and knowledge examiners shall undergo updating training at least every 24 months relevant to current technology, practical skills, human factors and the latest training techniques appropriate to the knowledge being trained or examined.
+
+147.A.110 Records of instructors, examiners and assessors
+
+(a) The organisation shall maintain a record of all instructors, knowledge examiners and practical assessors. These records shall reflect the experience and qualification, training history and any subsequent training undertaken.
+
+(b) Terms of reference shall be drawn up for all instructors, knowledge examiners and practical assessors.
+
+147.A.115 Instructional equipment
+
+(a) Each classroom shall have appropriate presentation equipment of a standard that ensures that students can easily read presentation text, drawings, diagrams and figures from any position in the classroom.
+
+For virtual training environments, the training content shall be designed in such a way to assist students in their understanding of the particular subject matter, ensuring that students can easily read presentation text, drawings, diagrams and figures.
+
+The presentation equipment may include representative maintenance simulation training devices (MSTDs) to assist students in their understanding of the particular subject matter where such devices are considered beneficial for such purposes.
+
+(b) The basic training workshops and/or maintenance facilities as specified in point 147.A.100(d) must have all tools and equipment necessary to perform the approved scope of training.
+
+(c) The basic training workshops and/or maintenance facilities as specified in point 147.A.100(d) must have an appropriate selection of aircraft, engines, aircraft parts and avionic equipment.
+
+(d) The aircraft type training organisation as specified in point 147.A.100(e) must have access to the appropriate aircraft type. MSTDs may be used when such training devices ensure adequate training standards.
+
+147.A.120 Maintenance training material
+
+(a) Maintenance training course material shall be provided to the student and cover as applicable:
+
+1\. the basic knowledge syllabus specified in Annex III (Part-66) for the relevant aircraft maintenance licence category or subcategory and,
+
+2\. the type course content required by Annex III (Part-66) for the relevant aircraft type and aircraft maintenance licence category or subcategory.
+
+(b) Students shall have access to examples of maintenance documentation and technical information of the library as specified in point 147.A.100(i).
+
+(c) Access to the maintenance training material relevant to basic or type training courses may be provided as a hard copy or by electronic means provided that the student has the appropriate means to access such material at any given time during the entire duration of the course.
+
+147.A.125 Records
+
+The organisation shall keep all student training, examination and assessment records for an unlimited period
+
+147.A.130 Training procedures and quality system
+
+(a) The organisation shall establish procedures acceptable to the competent authority to ensure proper training standards and compliance with all relevant requirements in this Part.
+
+(b) The organisation shall establish a quality system including:
+
+1\. an independent audit function to monitor training standards, the integrity of knowledge examinations and practical assessments, compliance with and adequacy of the procedures, and
+
+2\. a feedback system of audit findings to the person(s) and ultimately to the accountable manager referred to in point 147.A.105(a) to ensure, as necessary, corrective action.
+
+147.A.135 Examinations
+
+(a) The examination staff shall ensure the security of all questions.
+
+(b) Any student found during a knowledge examination to be cheating or in possession of material pertaining to the examination subject other than the examination papers and associated authorised documentation shall be disqualified from taking the examination and may not take any examination for at least 12 months after the date of the incident. The competent authority shall be informed of any such incident together with the details of any enquiry within one calendar month.
+
+(c) Any examiner found during a knowledge examination to be providing question answers to any student being examined shall be disqualified from acting as an examiner and the examination declared void. The competent authority must be informed of any such occurrence within one calendar month.
+
+(d) The examination shall be performed in a controlled environment by a training organisation approved under this Annex and described in its maintenance training organisation exposition (MTOE).
+
+For examination purposes, a ‘controlled environment’ means an environment where the following can be established and verified: (a) the identity of the students; (b) the proper conduct of the examination process; (c) the integrity of the examination and (d) the security of the examination material.
+
+147.A.140 Maintenance training organisation exposition
+
+(a) The organisation shall provide an exposition for use by the organisation describing the organisation and its procedures and containing the following information:
+
+1\. a statement signed by the accountable manager confirming that the maintenance training organisation exposition and any associated manuals define the maintenance training organisation's compliance with this Part and shall be complied with at all times.
+
+2\. the title(s) and name(s) of the person(s) nominated in accordance with point 147.A.105(b).
+
+3\. the duties and responsibilities of the person(s) specified in point 2, including matters on which they may deal directly with the competent authority on behalf of the maintenance training organisation.
+
+4\. a maintenance training organisation chart showing associated chains of responsibility of the person(s) specified in point (a)(2).
+
+5\. a list of the training instructors, knowledge examiners and practical assessors.
+
+6\. a general description of the training and examination facilities located at each address specified in the maintenance training organisation's approval certificate, and if appropriate any other location, as required by point 147.A.145(b).
+
+7\. a list of the maintenance training courses which form the extent of the approval.
+
+8\. the maintenance training organisation's exposition amendment procedure.
+
+9\. the maintenance training organisation's procedures, as required by point 147.A.130(a).
+
+10\. the maintenance training organisation's control procedure, as required by 147.A.145(c), when authorised to conduct training, examination and assessments in locations different from those specified in point 147.A.145(b).
+
+11\. a list of the locations pursuant to point 147.A.145(b).
+
+12\. a list of organisations, if appropriate, as specified in point 147.A.145(d).
+
+(b) The maintenance training organisation's exposition and any subsequent amendments shall be approved by the competent authority.
+
+(c) Notwithstanding point (b) minor amendments to the exposition may be approved through an exposition procedure (hereinafter called indirect approval).
+
+147.A.145 Privileges of the maintenance training organisation
+
+(a) The maintenance training organisation may carry out the following as permitted by and in accordance with the maintenance training organisation exposition:
+
+(i) basic training courses to the Annex III (Part-66) syllabus, or part thereof;
+
+(ii) aircraft type/task training courses in accordance with Annex III (Part-66);
+
+(iii) the examination of students who attended the basic or aircraft type training course at the maintenance training organisation;
+
+(iv) the examination of students who did not attend the aircraft type training course at the maintenance training organisation;
+
+(v) the examination of students who did not attend the basic training course at the maintenance training organisation, provided that:
+
+(1) the examination is conducted at one of the locations identified in the approval certificate, or
+
+(2) if performed at locations not identified in the approval certificate, as permitted by points (b) and (c), either
+
+— the examination is provided through a European Central Question Bank (ECQB), or
+
+— in the absence of an ECQB, the competent authority selects the questions for the examination;
+
+(vi) the issue of certificates in accordance with Appendix III following successful completion of the approved basic or aircraft type training courses and examinations specified in points (a)(i), (a)(ii), (a)(iii), (a)(iv) and (a)(v), as applicable.
+
+(b) Theoretical training, knowledge examinations, practical training and practical assessments may be carried out only at the locations identified in the approval certificate or at any location specified in the MTOE.
+
+(c) By derogation to point (b), the maintenance training organisation may only conduct training, knowledge examinations and practical assessments in locations different from the point (b) locations in accordance with a control procedure specified in the maintenance training organisation exposition. Such locations need not be listed in the maintenance training organisation exposition.
+
+(d)
+
+1\. The maintenance training organisation may subcontract the conduct of basic theoretical training, type training and related examinations to a non maintenance training organisation only when under the control of the maintenance training organisation quality system.
+
+2\. The subcontracting of basic theoretical training and examination is limited to Annex III (Part-66), Appendix I, Modules 1, 2, 3, 4, 5, 6, 8, 9 and 10.
+
+3\. The subcontracting of type training and examination is limited to powerplant and avionic systems.
+
+(e) An organisation may not be approved to conduct examinations unless approved to conduct the corresponding training.
+
+(f) By derogation from point (e), an organisation approved to provide basic knowledge training or type training may also be approved to provide type examination in the cases where type training is not required.
+
+147.A.150 Changes to the maintenance training organisation
+
+(a) The maintenance training organisation shall notify the competent authority of any proposed changes to the organisation that affect the approval before any such change takes place, in order to enable the competent authority to determine continued compliance with this Part and to amend if necessary the maintenance training organisation approval certificate.
+
+(b) The competent authority may prescribe the conditions under which the maintenance training organisation may operate during such changes unless the competent authority determines that the maintenance training organisation approval must be suspended.
+
+(c) Failure to inform the competent authority of such changes may result in suspension or revocation of the maintenance training organisation approval certificate backdated to the actual date of the changes.
+
+147.A.155 Continued validity
+
+(a) An approval shall be issued for an unlimited duration. It shall remain valid subject to:
+
+1\. the organisation remaining in compliance with this Part, in accordance with the provisions related to the handling of findings as specified in point 147.B.130; and
+
+2\. the competent authority being granted access to the organisation to determine continued compliance with this Annex (Part-147); and
+
+3\. the certificate not being surrendered or revoked.
+
+(b) Upon surrender or revocation, the approval shall be returned to the competent authority.
+
+147.A.160 Findings
+
+(a) A level 1 finding is one or more of the following:
+
+1\. any significant non-compliance with the examination process which would invalidate the examination(s),
+
+2\. failure to give the competent authority access to the organisation's facilities during normal operating hours after two written requests,
+
+3\. the lack of an accountable manager,
+
+4\. a significant non-compliance with the training process.
+
+(b) A level 2 finding is any non-compliance with the training process other than level 1 findings.
+
+(c) After receipt of notification of findings according to point 147.B.130, the holder of the maintenance training organisation approval shall define a corrective action plan and demonstrate corrective action to the satisfaction of the competent authority within a period agreed with this authority.
+
+**SUBPART C**
+
+**APPROVED BASIC TRAINING COURSE**
+
+147.A.200 The approved basic training course
+
+(a) The approved basic training course shall consist of knowledge training, knowledge examination, practical training and a practical assessment.
+
+(b) The knowledge training element shall cover the subject matter for a category or subcategory aircraft maintenance licence as specified in Annex III (Part-66).
+
+(c) The knowledge examination element shall cover a representative cross section of subject matter from the point (b) training element.
+
+(d) The practical training element shall cover the practical use of common tooling/equipment, the disassembly/assembly of a representative selection of aircraft parts and the participation in representative maintenance activities being carried out relevant to the particular Part-66 complete module.
+
+(e) The practical assessment element shall cover the practical training and determine whether the student is competent at using tools and equipment and working in accordance with maintenance manuals.
+
+(f) The duration of basic training courses shall be in accordance with Appendix I.
+
+(g) Notwithstanding point (f), in order to benefit from changes in training technologies and methods (theoretical training), or from credits specified in point 66.A.25(e) of Annex III (Part-66), the number of hours as established in Appendix I (Basic training course duration) may be amended provided that the syllabus content and schedule describe and justify the proposed changes. A procedure shall be included in the MTOE to justify those changes.
+
+(h) The duration of conversion courses between (sub)categories shall be determined through an assessment of the basic training syllabus and the related practical training needs.
+
+147.A.205 Basic knowledge examinations
+
+Basic knowledge examinations shall:
+
+(a) be in accordance with the standard defined in Annex III (Part-66).
+
+(b) be conducted without the use of training notes.
+
+(c) cover a representative cross section of subjects from the particular module of training completed in accordance with Annex III (Part-66).
+
+147.A.210 Basic practical assessment
+
+(a) Basic practical assessments shall be carried out during the basic maintenance training course by the nominated practical assessors at the completion of each visit period to the practical workshops/maintenance facility.
+
+(b) The student shall achieve an assessed pass with respect to point 147.A.200(e).
+
+**SUBPART D**
+
+**AIRCRAFT TYPE/TASK TRAINING**
+
+147.A.300 Aircraft type/task training
+
+A maintenance training organisation shall be approved to carry out Annex III (Part-66) aircraft type and/or task training subject to compliance with the standard specified in point 66.A.45.
+
+147.A.305 Aircraft type evaluation and task assessment
+
+A maintenance training organisation approved in accordance with point 147.A.300 to conduct aircraft type training shall conduct the aircraft type evaluation or aircraft task assessment specified in Annex III (Part-66) subject to compliance with the aircraft type and/or task standard specified in point 66.A.45 of Annex III (Part-66).
+
+**SECTION B**
+
+**PROCEDURES FOR COMPETENT AUTHORITIES**
+
+**SUBPART A**
+
+**GENERAL**
+
+147.B.05 Scope
+
+This section establishes the administrative requirements to be followed by the competent authorities in charge of the application and the enforcement of Section A of this Part.
+
+147.B.10 Competent Authority
+
+(a) General
+
+The Member State shall designate a competent authority with allocated responsibilities for the issuance, continuation, change, suspension or revocation of certificates under this Annex (Part-147). This competent authority shall establish documented procedures and an organisational structure.
+
+(b) Resources
+
+The competent authority shall be appropriately staffed to carry out the requirements of this Part.
+
+(c) Procedures
+
+The competent authority shall establish procedures detailing how compliance with this Annex (Part-147) is accomplished.
+
+The procedures shall be reviewed and amended to ensure continued compliance.
+
+(d) Qualification and training
+
+All staff involved in approvals related to this Annex must:
+
+1\. Be appropriately qualified and have all necessary knowledge, experience and training to perform their allocated tasks.
+
+2\. Have received training and continuation training on Annex III (Part-66) and Annex IV (Part-147) where relevant, including its intended meaning and standard.
+
+147.B.20 Record-keeping
+
+(a) The competent authority shall establish a system of record-keeping that allows adequate traceability of the process to issue, renew, continue, vary, suspend or revoke each approval.
+
+(b) The records for the oversight of maintenance training organisations shall include as a minimum:
+
+1\. the application for an organisation approval.
+
+2\. the organisation approval certificate including any changes.
+
+3\. a copy of the audit program listing the dates when audits are due and when audits were carried out.
+
+4\. continued oversight records including all audit records.
+
+5\. copies of all relevant correspondence.
+
+6\. details of any exemption and enforcement actions.
+
+7\. any report from other competent authorities relating to the oversight of the organisation.
+
+8\. organisation exposition and amendments.
+
+(c) The minimum retention period for the point (b) records shall be four years.
+
+147.B.25 Exemptions
+
+(a) The competent authority may exempt a State education department school from:
+
+1\. being an organisation as specified in point 147.A.10.
+
+2\. having an accountable manager, subject to the limitation that the department appoint a senior person to manage the training organisation and such person has a budget sufficient to operate the organisation to the standard of this Annex (Part-147).
+
+3\. having recourse to the independent audit part of a quality system subject to the department operating an independent schools inspectorate to audit the maintenance training organisation at the frequency required by this Part.
+
+(b) All exemptions granted in accordance with Article 71(1) of Regulation (EU) 2018/1139 shall be recorded and retained by the competent authority.
+
+**SUBPART B**
+
+**ISSUE OF AN APPROVAL**
+
+This Subpart provides the requirements to issue or vary the maintenance training organisation approval.
+
+147.B.110 Procedure for approval and changes to the approval
+
+(a) Upon receipt of an application, the competent authority shall:
+
+1\. review the maintenance training organisation exposition; and
+
+2\. verify the organisation's compliance with the requirement of Annex IV (Part-147).
+
+(b) All findings identified shall be recorded and confirmed in writing to the applicant.
+
+(c) All findings shall be closed in accordance with point 147.B.130 before the approval is issued.
+
+(d) The reference number shall be included on the approval certificate in a manner specified by the Agency.
+
+147.B.120 Continued validity procedure
+
+(a) Each organisation shall be completely audited for compliance with this Annex (Part-147) at periods not exceeding 24 months. This shall include the monitoring of at least one training course and one examination performed by the maintenance training organisation.
+
+(b) Findings shall be processed in accordance with point 147.B.130.
+
+147.B.125 Maintenance training organisation approval certificate
+
+The maintenance training organisation approval certificate format shall be as detailed in Appendix II.
+
+147.B.130 Findings
+
+(a) Failure to complete the rectification of any level 1 finding within three days of written notification shall entail revocation, suspension or limitation by the competent authority, of the maintenance training organisation approval in whole or in part.
+
+(b) Action shall be taken by the competent authority to revoke, limit or suspend in whole or part the approval in case of failure to comply within the time scale granted by the competent authority in the case of a level 2 finding.
+
+**SUBPART C**
+
+**REVOCATION, SUSPENSION AND LIMITATION OF THE MAINTENANCE TRAINING ORGANISATION APPROVAL**
+
+147.B.200 Revocation, suspension and limitation of the maintenance training organisation approval
+
+The competent authority shall:
+
+(a) suspend an approval on reasonable grounds in the case of potential safety threat; or
+
+(b) suspend, revoke or limit an approval pursuant to 147.B.130.
+
+## Appendix I
+
+**Basic training course duration**
+
+The minimum duration of a complete basic training course shall be as follows:
+
+<table>
+<tbody><tr><td>Basic Course</td><td>Duration (in hours)</td><td>Theoretical Training Ratio (in %)</td></tr>
+<tr><td>A1</td><td>800</td><td>30–35</td></tr>
+<tr><td>A2</td><td>650</td><td>30–35</td></tr>
+<tr><td>A3</td><td>800</td><td>30–35</td></tr>
+<tr><td>A4</td><td>800</td><td>30–35</td></tr>
+<tr><td>B1.1</td><td>2 400 </td><td>50–60</td></tr>
+<tr><td>B1.2</td><td>2 000 </td><td>50–60</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>B1.E</td><td>2 000 </td><td>50–60</td></tr>
+<tr><td colspan="3"></td></tr>
+<tr><td>B1.3</td><td>2 400 </td><td>50–60</td></tr>
+<tr><td>B1.4</td><td>2 400 </td><td>50–60</td></tr>
+<tr><td>B2</td><td>2 400 </td><td>50–60</td></tr>
+<tr><td>B2L</td><td>1 500 (1)</td><td>50–60</td></tr>
+<tr><td>B3</td><td>1 000 </td><td>50–60</td></tr>
+<tr><td colspan="3">(1)  This number of hours shall be increased as follows, depending on the additional system ratings selected: <br> <br><table><tbody><tr><td>System Rating</td><td>Duration (in hours)</td><td>Theoretical Training Ratio (in %)</td></tr>
+<tr><td>COM/NAV</td><td>90</td><td rowspan="5">50–60</td></tr>
+<tr><td>INSTRUMENTS</td><td>55</td></tr>
+<tr><td>AUTOFLIGHT</td><td>80</td></tr>
+<tr><td>SURVEILLANCE</td><td>40</td></tr>
+<tr><td>AIRFRAME SYSTEMS</td><td>100</td></tr>
+</tbody>
+</table> </td></tr>
+</tbody>
+</table>
+
+## Appendix II
+
+**Maintenance Training Organisation Approval — EASA Form 11**
+
+Text of image
+
+Page 1 of 2
+
+[MEMBER STATE (*)]
+
+A Member of the European Union (**)
+
+MAINTENANCE TRAINING AND EXAMINATION ORGANISATION APPROVAL CERTIFICATE
+
+Reference: [MEMBER STATE CODE (*)].147.[XXXX]
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council and to Commission Regulation (EU) No 1321/2014, for the time being in force and subject to the condition specified below, the [COMPETENT AUTHORITY OF THE MEMBER STATE (*)] hereby certifies:
+
+[COMPANY NAME AND ADDRESS]
+
+as a maintenance training organisation in compliance with Section A of Annex IV (Part-147) of Regulation (EU) No 1321/2014, approved to provide training and conduct examinations listed in the approval schedule attached and to issue related certificates of recognition to students using the above references.
+
+CONDITIONS:
+
+1\. This approval is limited to what is specified in the scope of work section of the approved maintenance training organisation exposition as referred to in Section A of Annex IV (Part-147); and
+
+2\. this approval requires compliance with the procedures specified in the approved maintenance training organisation exposition; and
+
+3\. this approval is valid whilst the approved maintenance training organisation remains in compliance with Annex IV (Part-147) of Regulation (EU) No 1321/2014; and
+
+4\. subject to compliance with the foregoing conditions, this approval shall remain valid for an unlimited duration unless the approval has previously been surrendered, superseded, suspended or revoked.
+
+Date of original issue:
+
+Date of this revision:
+
+Revision No:
+
+Signed:
+
+For the competent authority: [COMPETENT AUTHORITY OF THE MEMBER STATE (*)]
+
+EASA Form 11 Issue 6
+
+(*) Or EASA if EASA is the competent authority.
+
+(**) Delete for non-EU Member States or EASA.
+
+►(1) M18
+
+[image]
+
+[image]
+
+## Appendix III
+
+**1\. Basic Training and Examination**
+
+The basic training certificate template shall be used for recognition of completion of either the basic training or the basic examination, or both the basic training and basic training examinations.
+
+The training certificate shall clearly identify each individual module examination by date passed together with the corresponding version of Appendix I to Annex III (Part-66).
+
+EASA Form 148a shall be used for training and examinations conducted by a training organisation approved in accordance with Annex IV (Part-147).
+
+EASA Form 148b shall be used for examinations conducted by the competent authority.
+
+Page 1 of 1
+
+CERTIFICATE OF RECOGNITION
+
+Reference: [MEMBER STATE CODE (*)].147.[XXXX].[YYYYY]
+
+This certificate of recognition is issued to:
+
+[NAME]
+
+[DATE and PLACE OF BIRTH]
+
+By:
+
+[COMPANY NAME AND ADDRESS]
+
+Reference: [MEMBER STATE CODE (*)].147.[XXXX]
+
+a maintenance training organisation approved to provide training and conduct examinations within its approval schedule and in accordance with Annex IV (Part-147) to Commission Regulation (EU) No 1321/2014.
+
+This certificate attests that the above-named person has successfully attended and/or passed (**) the approved basic training course(s) (**) and/or the basic examination(s) (**) stated below in compliance with Regulation (EU) 2018/1139 of the European Parliament and of the Council and with Commission Regulation (EU) No 1321/2014.
+
+[BASIC TRAINING COURSE(S) (**)]/[BASIC EXAMINATION(S) (**)]
+
+[LIST OF PART-66 MODULES/LOCATION AND DATE OF EXAMINATION PASSED]
+
+Date: …
+
+Signed: …
+
+For: [COMPANY NAME]
+
+EASA Form 148a Issue 1
+
+(*) Or ‘EASA’, if EASA is the competent authority.
+
+(**) NDelete as appropriate. Possible cases:
+
+— attended and passed the basic training course(s); or
+
+— attended only the basic training course(s); or
+
+— passed only the basic examination(s).
+
+Page 1 of 1
+
+CERTIFICATE OF RECOGNITION
+
+Reference: [Member State Code(*)].CAA.[XXXX].[YYYY]
+
+This certificate of recognition is issued to:
+
+[NAME]
+
+[DATE and PLACE OF BIRTH]
+
+By:
+
+[COMPETENT AUTHORITY NAME]
+
+[COMPETENT AUTHORITY ADDRESS]
+
+after having conducted examination in accordance with Section B, Subpart C of Annex III (Part-66) to Commission Regulation (EU) No 1321/2014.
+
+This certificate attests that the above-named person has successfully passed the basic examination(s) stated below in compliance with Regulation (EU) 2018/1139 of the European Parliament and of the Council and with Commission Regulation (EU) No 1321/2014.
+
+[BASIC EXAMINATION(S)]
+
+[LIST OF PART-66 MODULES/LOCATION AND DATE OF EXAMINATION PASSED]
+
+Date:.…
+
+Signed: …
+
+For: [COMPETENT AUTHORITY NAME]
+
+EASA Form 148b Issue 1
+
+**2\. Type Training Examination and Assessment**
+
+The type training certificate template shall be used for recognition of completion of either the examination of the theoretical element (training included) or the assessment of the practical element (training included), or both elements of the type rating training course (Appendix III to Annex III (Part-66), points 1(a) and (b)).
+
+The certificate shall indicate the airframe/engine (or power plant) combination for which the training was imparted.
+
+The appropriate references shall be deleted as applicable and the course type box shall detail whether only the theoretical elements or the practical elements were covered or whether theoretical and practical elements were covered.
+
+The training certificate shall clearly identify if the course is a complete course or a partial course (such as an airframe or powerplant or avionic/electrical course) or a difference course based upon the applicant previous experience, for instance A340 (CFM) course for A320 technicians. If the course is not a complete one, the certificate shall identify whether the interface areas have been covered or not.
+
+The same form shall be used for the recognition of completion of the aircraft type evaluation (point 66.A.45(d) of Annex III (Part-66) and point 5 of Appendix III to that Annex).
+
+EASA Form 149a shall be used for training and examinations conducted by a training organisation approved in accordance with Annex IV (Part-147).
+
+EASA Form 149b shall be used for type training examinations and type evaluations conducted by the competent authority or as recognition of completion of aircraft type training approved through the direct approval procedure of point 66.B.130 of Annex III (Part-66).
+
+Page 1 of 1
+
+CERTIFICATE OF RECOGNITION
+
+Reference: [MEMBER STATE CODE (*)].147.[XXXX].[YYYYY]
+
+This certificate of recognition is issued to:
+
+[NAME]
+
+[DATE and PLACE OF BIRTH]
+
+By:
+
+[COMPANY NAME AND ADDRESS]
+
+Reference: [MEMBER STATE CODE (*)].147.[XXXX]
+
+a maintenance training organisation approved to provide training and conduct examinations within its approval schedule and in accordance with Annex IV (Part-147) to Commission Regulation (EU) No 1321/2014.
+
+This certificate attests that the above-named person has successfully passed the theoretical (**) and/or the practical elements (**) of the approved aircraft type training course; or completed the aircraft type evaluation (**) stated below in compliance with Regulation (EU) 2018/1139 of the European Parliament and of the Council and with Commission Regulation (EU) No 1321/2014.
+
+[AIRCRAFT TYPE TRAINING COURSE (**)]
+
+[START and END DATES]/[LOCATION]
+
+[SPECIFY THE THEORETICAL/PRACTICAL ELEMENTS]
+
+or
+
+[AIRCRAFT TYPE EVALUATION (**)]
+
+[END DATE]/[LOCATION]
+
+Date:…
+
+Signed:…
+
+For: [COMPANY NAME]
+
+EASA Form 149a Issue 1
+
+(*) Or ‘EASA’, if EASA is the competent authority.
+
+(**) Delete as appropriate. Possible cases:
+
+— completely attended and passed the theoretical elements and positively assessed on the practical elements of the type training course; or
+
+— completely attended and passed only the theoretical elements; or
+
+— positively assessed on the practical elements; or
+
+— positively completed the aircraft type evaluation.
+
+Page 1 of 1
+
+CERTIFICATE OF RECOGNITION
+
+Reference: [MEMBER STATE CODE(*)].CAA.[XXXX].[YYYY]
+
+This certificate of recognition is issued to:
+
+[NAME]
+
+[DATE and PLACE OF BIRTH]
+
+By:
+
+[COMPETENT AUTHORITY NAME]
+
+[COMPETENT AUTHORITY ADDRESS]
+
+after having conducted examination in accordance with Section B, Subpart C of Annex III (Part-66) to Commission Regulation (EU) No 1321/2014 or according to the procedure for the direct approval of aircraft type training of point 66.B.130 of Annex III (Part-66) to Commission Regulation (EU) No 1321/2014.
+
+This certificate attests that the above-named person has successfully passed the theoretical (*) and/or the practical elements (*) of the approved aircraft type training course; or completed the aircraft Type Evaluation (*) stated below in compliance with Regulation (EU) 2018/1139 of the European Parliament and of the Council and with Commission Regulation (EU) No 1321/2014.
+
+[AIRCRAFT TYPE TRAINING COURSE (*)]
+
+[START and END DATES]/[LOCATION]
+
+[SPECIFY THE THEORETICAL/PRACTICAL ELEMENTS]
+
+or
+
+[AIRCRAFT TYPE EVALUATION (*)]
+
+[END DATE]/[LOCATION]
+
+Date: …
+
+Signed: . …
+
+For: [COMPETENT AUTHORITY NAME]
+
+EASA Form 149b Issue 1
+
+(*) Delete as appropriate. Possible cases:
+
+— completely attended and passed the theoretical elements and positively assessed on the practical elements of the type training course; or
+
+— completely attended and passed only the theoretical elements; or
+
+— positively assessed on the practical elements; or
+
+— positively completed the aircraft type evaluation.
+
+## ANNEX V — Repealed Regulation with list of its successive amendments
+
+| Commission Regulation (EC) No 2042/2003 | (OJ L 315, 28.11.2003, p. 1) |
+| --- | --- |
+| Commission Regulation (EC) No 707/2006 | (OJ L 122, 9.5.2006, p. 17) |
+| Commission Regulation (EC) No 376/2007 | (OJ L 94, 4.4.2007, p. 18) |
+| Commission Regulation (EC) No 1056/2008 | (OJ L 283, 28.10.2008, p. 5) |
+| Commission Regulation (EU) No 127/2010 | (OJ L 40, 13.2.2010, p. 4) |
+| Commission Regulation (EU) No 962/2010 | (OJ L 281, 27.10.2010, p. 78) |
+| Commission Regulation (EU) No 1149/2011 | (OJ L 298, 16.11.2011, p. 1) |
+| Commission Regulation (EU) No 593/2012 | (OJ L 176, 6.7.2012, p. 38) |
+
+## ANNEX Va
+
+**PART-T**
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td>Competent authority</td></tr>
+<tr><td colspan="2">Section A —Technical requirements</td></tr>
+<tr><td colspan="2">Subpart A —GENERAL</td></tr>
+<tr><td>T.A.101</td><td>Scope</td></tr>
+<tr><td colspan="2">Subpart B —REQUIREMENTS</td></tr>
+<tr><td>T.A.201</td><td>Responsibilities</td></tr>
+<tr><td colspan="2">Subpart E —MAINTENANCE ORGANISATION</td></tr>
+<tr><td>T.A.501</td><td>Maintenance organisation</td></tr>
+<tr><td colspan="2">Subpart G —ADDITIONAL REQUIREMENTS FOR CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATIONS APPROVED PURSUANT TO ANNEX Vc (Part-CAMO)</td></tr>
+<tr><td>T.A.701</td><td>Scope</td></tr>
+<tr><td>T.A.704</td><td>Continuing airworthiness management exposition</td></tr>
+<tr><td>T.A.706</td><td>Personnel requirements</td></tr>
+<tr><td>T.A.708</td><td>Continuing airworthiness management</td></tr>
+<tr><td>T.A.709</td><td>Documentation</td></tr>
+<tr><td>T.A.711</td><td>Privileges</td></tr>
+<tr><td>T.A.712</td><td>Management system</td></tr>
+<tr><td>T.A.714</td><td>Record-keeping</td></tr>
+<tr><td>T.A.715</td><td>Continued validity</td></tr>
+<tr><td>T.A.716</td><td>Findings</td></tr>
+<tr><td colspan="2">Section B — Additional procedure for competent authorities</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">Subpart A — General</td></tr>
+<tr><td>T.B.101</td><td>Scope</td></tr>
+<tr><td>T.B.102</td><td>Competent authority</td></tr>
+<tr><td>T.B.104</td><td>Record-keeping</td></tr>
+<tr><td>T.B.105</td><td>Mutual exchange of information</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td colspan="2">Subpart B — Accountability</td></tr>
+<tr><td>T.B.201</td><td>Responsibilities</td></tr>
+<tr><td>T.B.202</td><td>Findings</td></tr>
+<tr><td colspan="2">Subpart G —ADDITIONAL REQUIREMENTS FOR CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATIONS APPROVED PURSUANT TO ANNEX Vc (Part-CAMO)</td></tr>
+<tr><td>T.B.702</td><td>Initial certification procedure</td></tr>
+<tr><td>T.B.704</td><td>Continuing oversight</td></tr>
+<tr><td>T.B.705</td><td>Findings and corrective actions</td></tr>
+</table>
+
+**T.1 Competent authority**
+
+For the purpose of this Part, the competent authority for the oversight of the aircraft and the organisations shall be the authority designated by the Member State that has issued the Air Operator Certificate to the operator.
+
+**SECTION A**
+
+**TECHNICAL REQUIREMENTS**
+
+SUBPART A
+
+GENERAL
+
+T.A.101 Scope
+
+This section establishes requirements to ensure that continuing airworthiness of aircraft referred to in point (b) of Article 1 is maintained in compliance with the essential requirements of Annex V to Regulation (EU) No 2018/1139 of the European Parliament and of the Council.
+
+It also specifies the conditions to be met by the persons and organisations responsible for management of the continuing airworthiness and maintenance of such aircraft.
+
+SUBPART B
+
+CONTINUING AIRWORTHINESS
+
+T.A.201 Responsibilities
+
+1.
+
+(a) The operator is responsible for the airworthiness of the aircraft and it shall ensure that it is not operated unless the aircraft has a type certificate issued or validated by the Agency;
+
+(b) the aircraft is in an airworthy condition;
+
+(c) the aircraft holds a valid certificate of airworthiness issued in accordance with ICAO Annex 8;
+
+(d) the maintenance of the aircraft is performed in accordance with a maintenance programme which shall comply with the requirements of the State of Registry and the applicable requirements of ICAO Annex 6.
+
+(e) any defect or damage affecting the safe operation of the aircraft is rectified to a standard acceptable to the State of Registry;
+
+(f) the aircraft complies with any applicable:
+
+(i) airworthiness directive or continued airworthiness requirement issued or adopted by the State of Registry; and
+
+(ii) mandatory safety information issued by the Agency, including airworthiness directives;
+
+(g) a release to service is issued to the aircraft after maintenance by qualified organisations in compliance with the State of Registry requirements. The signed release to service shall contain, in particular, the basic details of the maintenance carried out.
+
+(h) the aircraft is inspected, through a pre-flight inspection, before each flight
+
+(i) all modifications and repairs comply with the airworthiness requirements established by the State of Registry
+
+(j) the following aircraft records are available until the information contained has been superseded by new information equivalent in scope and detail but not less than 24 months:
+
+(1) the total time in service (hours, cycles and calendar time, as appropriate) of the aircraft and all life-limited components;
+
+(2) current status of compliance with T.A.201 (1)(f) requirements;
+
+(3) current status of compliance with the maintenance programme;
+
+(4) current status of modifications and repairs together with appropriate details and substantiating data to demonstrate that they comply with the requirements established by the State of Registry.
+
+2\. The tasks specified in T.A.201 (1) shall be controlled by the operator's continuing airworthiness management organisation. For this purpose the organisation shall comply with the additional requirements of T.A. Subpart G.
+
+3\. The continuing airworthiness management organisation referred to in point (2) shall ensure that the maintenance and release of the aircraft are performed by a maintenance organisation meeting the requirements of Subpart E of this Annex (Part-T). For this purpose, when the continuing airworthiness management organisation does not meet those requirements itself, it shall establish a contract with a maintenance organisation meeting those requirements.
+
+SUBPART E
+
+MAINTENANCE ORGANISATION
+
+T.A. 501 Maintenance Organisation
+
+The continuing airworthiness management organisation shall ensure that the aircraft and its components are maintained by organisations complying with the following requirements:
+
+(1) The organisation holds a maintenance organisation approval issued or acceptable to the State of Registry.
+
+(2) The scope of approval of the organisation includes the appropriate aircraft and/or component capability.
+
+(3) The organisation has established an occurrence reporting system which ensures that any identified condition of an aircraft or component which endangers the flight safety is reported to the operator, the competent authority of the operator, the organisation responsible for the type design or supplemental type design and the continuing airworthiness management organisation.
+
+(4) The organisation has established an organisation's manual providing a description of all the procedures of the organisation.
+
+SUBPART G
+
+ADDITIONAL REQUIREMENTS FOR CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATIONS APPROVED PURSUANT TO ANNEX Vc (Part-CAMO)
+
+T.A.701 Scope
+
+This Subpart establishes the requirements to be met, in addition to the requirements of Annex Vc (Part-CAMO), by an organisation approved in accordance with that Annex, for it to be entitled to control the carrying out of the tasks specified in point T.A.201.
+
+T.A.704 Continuing airworthiness management exposition
+
+In addition to the requirements provided for in point CAMO.A.300, the exposition shall contain procedures specifying how the organisation ensures compliance with this Annex.
+
+T.A.706 Personnel requirements
+
+In addition to the requirements provided for in point CAMO.A.305, the personnel referred to in points (a)(3) to (a)(5) and (b)(2) of point CAMO.A.305 shall have adequate knowledge of the applicable laws of the third countries where the aircraft is registered.
+
+T.A.708 Continuing airworthiness management
+
+Notwithstanding point CAMO.A.315, for aircraft for which the continuing airworthiness is managed in accordance with the requirements of this Annex the organisation shall:
+
+(a) ensure that the aircraft is taken to a maintenance organisation whenever necessary;
+
+(b) ensure that all maintenance is carried out in accordance with the maintenance programme;
+
+(c) ensure the application of the T.A.201 (1)(f) mandatory information;
+
+(d) ensure that all defects discovered during scheduled maintenance or reported are corrected by the maintenance organisation in accordance with the maintenance data acceptable to the State of Registry;
+
+(e) coordinate scheduled maintenance, the application of the T.A.201 (1)(f) mandatory information, the replacement of life-limited parts, and component inspection to ensure the work is carried out properly;
+
+(f) manage and archive the continuing airworthiness records required by T.A.201 (1)(j);
+
+(g) ensure that modifications and repairs are approved in accordance with the requirements of the State of Registry.
+
+T.A.709 Documentation
+
+Notwithstanding point CAMO.A.325, for every aircraft for which the continuing airworthiness is managed in accordance with the requirements of this Annex, the organisation shall hold and use applicable maintenance data acceptable to the State of registry of the aircraft.
+
+T.A.711 Privileges
+
+An organisation approved in accordance with Annex Vc (Part-CAMO) may perform the tasks specified in point T.A.708 for the aircraft included in its air operator certificate, provided that the organisation has established procedures, approved by the competent authority, in order to ensure compliance with the requirements of this Annex.
+
+T.A.712 Management system
+
+In addition to the requirements of point CAMO.A.200, the organisation shall ensure its compliance with the requirements of this Annex.
+
+T.A.714 Record-keeping
+
+In addition to the requirements of point (a) of point CAMO.A.220, the organisation shall keep the records referred to in point (1)(j) of point T.A.201.
+
+T.A.715 Continued validity
+
+For the approval of an organisation managing the continuing-airworthiness to remain valid, the following requirements shall be met in addition to the requirements of point CAMO.A.135:
+
+(a) the organisation complies with the applicable requirements of this Annex; and
+
+(b) the organisation ensures that any person authorised by the competent authority is granted access to any of its facilities, aircraft or documents related to its activities, including any subcontracted activities, to determine compliance with this Annex.
+
+T.A.716 Findings
+
+(a) After having received a notification of findings in accordance with point T.B.705, the organisation shall do the following:
+
+(1) identify the root cause or causes of, and contributing factors to the finding of non-compliance;
+
+(2) prepare, adopt and implement a corrective action plan;
+
+(3) demonstrate to the satisfaction of the competent authority that the necessary corrective action to address the finding has been taken.
+
+(b) The actions referred to in points (1) to (3) of paragraph (a) shall be performed within the time period set by the competent authority in accordance with point T.B.705.
+
+**SECTION B**
+
+**ADDITIONAL PROCEDURE FOR COMPETENT AUTHORITY**
+
+SUBPART A
+
+GENERAL
+
+T.B.101 Scope
+
+This Section establishes the administrative requirements to be followed by the competent authorities in charge of the application and enforcement of Section A of this Part-T.
+
+T.B.102 Competent authority
+
+1\. General
+
+A Member State shall designate a competent authority with allocated responsibilities as referred to in T.1. This competent authority shall establish documented procedures and an organisational structure.
+
+2\. Resources
+
+The number of staff shall be appropriate to carry out the requirements as detailed in this Section
+
+3\. Qualification and training
+
+All staff involved in Part-T activities shall be appropriately qualified and have the appropriate knowledge, experience, initial training and continuation training to perform their allocated tasks.
+
+4\. Procedures
+
+The competent authority shall establish procedures detailing how compliance with this Part is accomplished.
+
+T.B.104 Record-keeping
+
+1\. The requirements of M.B.104(a), (b) and (c) of Annex I shall apply.
+
+2\. The minimum records for the oversight of each aircraft shall include, at least, a copy of:
+
+a) the aircraft's certificate of airworthiness,
+
+b) all relevant correspondence relating to the aircraft,
+
+c) reports from any inspection and survey performed to the aircraft,
+
+d) details of any exemption and enforcement action(s).
+
+3\. All records specified in T.B.104 shall be made available, upon request, to another Member State, the Agency or the State of Registry.
+
+4\. The records specified in (2) shall be retained until 4 years after the end of the dry lease-in period.
+
+T.B.105 Mutual exchange of information
+
+The requirements of M.B.105 of Annex I shall apply.
+
+SUBPART B
+
+ACCOUNTABILITY
+
+T.B.201 Responsibilities
+
+1\. The competent authority as specified in T.1 is responsible for conducting inspections and investigations, including aircraft surveys, in order to verify that the requirements of this Part are complied with.
+
+2\. The competent authority shall perform inspections and investigations before the approval of the dry lease in agreement in accordance with ARO.OPS.110 (a)(1), to verify that the requirements of T.A.201 are then complied with.
+
+3\. The competent authority shall ensure coordination with the State of Registry as necessary to exercise the oversight responsibilities of the aircraft contained in this Annex Va (Part-T).
+
+T.B.202 Findings
+
+1\. A level 1 finding is any significant non-compliance with the Part-T requirements which lowers the safety standard and hazards seriously the flight safety.
+
+2\. A level 2 finding is any non-compliance with the Part-T requirements which could lower the safety standard and possibly hazard the flight safety.
+
+3\. When a finding is detected during inspections, investigations, aircraft surveys or by other means, the competent authority shall:
+
+a) take measures as necessary, such as the grounding of the aircraft, to prevent the continuation of the non-compliance,
+
+b) require corrective actions appropriate to the nature of the finding to be taken.
+
+4\. For level 1 findings, the competent authority shall require appropriate corrective action to be taken before further flight and notify the State of Registry.
+
+SUBPART G
+
+ADDITIONAL REQUIREMENTS FOR CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATIONS APPROVED PURSUANT TO ANNEX Vc (Part-CAMO)
+
+T.B.702 Initial certification procedure
+
+In addition to the requirements of point CAMO.B.310, the competent authority shall verify and establish that those procedures comply with the requirements of this Annex and it shall verify that the organisation complies with the requirements of this Annex.
+
+T.B.704 Continuing oversight
+
+In addition to the requirements of point CAMO.B.305, during each oversight planning cycle, the competent authority shall survey a relevant sample of aircraft referred to in point (b) of Article 1 managed by the organisation.
+
+T.B.705 Findings and corrective actions
+
+For organisations managing the continuing airworthiness of aircraft referred to in point (b) of Article 1, the competent authority shall apply the requirements contained in point CAMO.B.350 when verifying if the organisation complies with the requirements of this Annex.
+
+## ANNEX Vb
+
+**(Part-ML)**
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td colspan="2">ML.1</td></tr>
+<tr><td>SECTION A —</td><td>TECHNICAL REQUIREMENTS</td></tr>
+<tr><td>SUBPART A —</td><td>GENERAL</td></tr>
+<tr><td>ML.A.101</td><td>Scope</td></tr>
+<tr><td>SUBPART B —</td><td>ACCOUNTABILITY</td></tr>
+<tr><td>ML.A.201</td><td>Responsibilities</td></tr>
+<tr><td>ML.A.202</td><td>Occurrence reporting</td></tr>
+<tr><td>SUBPART C —</td><td>CONTINUING AIRWORTHINESS</td></tr>
+<tr><td>ML.A.301</td><td>Continuing airworthiness tasks</td></tr>
+<tr><td>ML.A.302</td><td>Aircraft maintenance programme</td></tr>
+<tr><td>ML.A.303</td><td>Airworthiness directives</td></tr>
+<tr><td>ML.A.304</td><td>Data for modifications and repairs</td></tr>
+<tr><td>ML.A.305</td><td>Aircraft continuing airworthiness record system</td></tr>
+<tr><td>ML.A.307</td><td>Transfer of aircraft continuing airworthiness records</td></tr>
+<tr><td>SUBPART D —</td><td>MAINTENANCE STANDARDS</td></tr>
+<tr><td>ML.A.401</td><td>Maintenance data</td></tr>
+<tr><td>ML.A.402</td><td>Performance of maintenance</td></tr>
+<tr><td>ML.A.403</td><td>Aircraft defects</td></tr>
+<tr><td>SUBPART E —</td><td>COMPONENTS</td></tr>
+<tr><td>ML.A.501</td><td>Classification and installation</td></tr>
+<tr><td>ML.A.502</td><td>Component maintenance</td></tr>
+<tr><td>ML.A.503</td><td>Service-life-limited components</td></tr>
+<tr><td>ML.A.504</td><td>Control of unserviceable components</td></tr>
+<tr><td>SUBPART H —</td><td>CERTIFICATE OF RELEASE TO SERVICE (CRS)</td></tr>
+<tr><td>ML.A.801</td><td>Aircraft certificate of release to service</td></tr>
+<tr><td>ML.A.802</td><td>Component certificate of release to service</td></tr>
+<tr><td>ML.A.803</td><td>Pilot-owner authorisation</td></tr>
+<tr><td>SUBPART I —</td><td>AIRWORTHINESS REVIEW CERTIFICATE (ARC)</td></tr>
+<tr><td>ML.A.901</td><td>Airworthiness review — General</td></tr>
+<tr><td>ML.A.902</td><td>Validity of the airworthiness review certificate</td></tr>
+<tr><td>ML.A.903</td><td>Airworthiness review process</td></tr>
+<tr><td>ML.A.904</td><td>Airworthiness review staff</td></tr>
+<tr><td>ML.A.905</td><td>Transfer of aircraft registration within the Union</td></tr>
+<tr><td>ML.A.906</td><td>Airworthiness review of aircraft without an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012</td></tr>
+<tr><td>ML.A.907</td><td>Findings</td></tr>
+<tr><td>SECTION B —</td><td>PROCEDURE FOR COMPETENT AUTHORITIES</td></tr>
+<tr><td>SUBPART A —</td><td>GENERAL</td></tr>
+<tr><td>ML.B.101</td><td>Scope</td></tr>
+<tr><td>ML.B.102</td><td>Competent authority</td></tr>
+<tr><td>ML.B.104</td><td>Record-keeping</td></tr>
+<tr><td>ML.B.105</td><td>Mutual exchange of information</td></tr>
+<tr><td>SUBPART B —</td><td>ACCOUNTABILITY</td></tr>
+<tr><td>ML.B.201</td><td>Responsibilities</td></tr>
+<tr><td>ML.B.202</td><td>Information to the Agency</td></tr>
+<tr><td>SUBPART C —</td><td>CONTINUING AIRWORTHINESS</td></tr>
+<tr><td>ML.B.302</td><td>Exemptions</td></tr>
+<tr><td>ML.B.303</td><td>Aircraft continuing airworthiness monitoring</td></tr>
+<tr><td>ML.B.304</td><td>Revocation and suspension</td></tr>
+<tr><td>SUBPART I —</td><td>AIRWORTHINESS REVIEW CERTIFICATE (ARC)</td></tr>
+<tr><td>ML.B.901</td><td>Airworthiness review certificate issued by the competent authority</td></tr>
+<tr><td>ML.B.905</td><td>Transfer of aircraft registration within the Union</td></tr>
+<tr><td>ML.B.906</td><td>Airworthiness review of aircraft without an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012</td></tr>
+<tr><td>ML.B.907</td><td>Findings</td></tr>
+<tr><td>Appendix I —</td><td>Continuing airworthiness management contract</td></tr>
+<tr><td>Appendix II —</td><td>Limited Pilot-owner maintenance</td></tr>
+<tr><td>Appendix III —</td><td>Complex maintenance tasks not to be released by the Pilot-owner</td></tr>
+<tr><td>Appendix IV —</td><td>Airworthiness review certificate (EASA Form 15c)</td></tr>
+</table>
+
+**ML.1**
+
+(a) In accordance with Article 3(2), this Annex (Part-ML) applies to the following other than complex motor-powered aircraft not listed in the air operator certificate of an air carrier licensed in accordance with Regulation (EC) No 1008/2008:
+
+(1) aeroplanes of 2 730 kg maximum take-off mass (MTOM) or less;
+
+(2) helicopters of 1 200 kg MTOM or less, certified for a maximum of up to four occupants;
+
+(3) other ELA2 aircraft;
+
+(4) non-conventional aircraft with a MTOM of:
+
+(i) 1 200 kg or less if they can maintain zero horizontal speed in flight; or
+
+(ii) 2 730 kg or less for other than those in point (i).
+
+(b) For the purpose of this Annex, the competent authority shall be the authority designated by the Member State of registry of the aircraft.
+
+(c) For the purpose of this Annex, the following definitions shall apply:
+
+(1) ‘independent certifying staff’ means certifying staff who does not work on behalf of an approved maintenance organisation and who complies with, alternatively:
+
+(i) the requirements of Annex III (Part-66);
+
+(ii) for aircraft to which Annex III (Part-66) does not apply, the certifying staff requirements in force in the Member State of registry of the aircraft;
+
+(2) ‘maintenance organisation’ means an organisation holding an approval issued in accordance with, alternatively:
+
+(i) Subpart F of Annex I (Part-M);
+
+(ii) Section A of Annex II (Part-145);
+
+(iii) Section A of Annex Vd (Part-CAO).
+
+(3) ‘owner’ means the person responsible for the continuing airworthiness of the aircraft, including, alternatively:
+
+(i) the registered owner of the aircraft;
+
+(ii) the lessee in the case of a leasing contract;
+
+(iii) the operator.
+
+**SECTION A**
+
+**TECHNICAL REQUIREMENTS**
+
+SUBPART A
+
+GENERAL
+
+ML.A.101 Scope
+
+This Section establishes the measures to be taken in order to ensure that the aircraft is airworthy. It also specifies the conditions to be met by the persons or organisations involved in the activities related to the airworthiness of the aircraft.
+
+SUBPART B
+
+ACCOUNTABILITY
+
+ML.A.201 Responsibilities
+
+(a) The owner of the aircraft shall be responsible for the continuing airworthiness of the aircraft and shall ensure that no flight takes place unless all of the following requirements are met:
+
+(1) the aircraft is maintained in an airworthy condition;
+
+(2) any operational and emergency equipment fitted is correctly installed and serviceable or clearly identified as unserviceable;
+
+(3) the airworthiness certificate is valid;
+
+(4) the maintenance of the aircraft is performed in accordance with the Aircraft Maintenance Program (‘AMP’) specified in point ML.A.302.
+
+(b) By derogation from point (a), where the aircraft is leased, the responsibilities set out in point (a) shall apply to the lessee, if the lessee is identified either in the registration document of the aircraft or in the leasing contract.
+
+(c) Any person or organisation performing maintenance of aircraft and components shall be responsible for the maintenance tasks being performed.
+
+(d) The pilot-in-command of the aircraft shall be responsible for the satisfactory accomplishment of the preflight inspection. That inspection shall be carried out by the pilot or another qualified person but need not be carried out by an approved maintenance organisation or by certifying staff.
+
+(e) For aircraft operated by commercial Approved Training Organisations (‘ATO’) and commercial Declared Training Organisations (‘DTO’) referred to in Article 10a of Regulation (EU) No 1178/2011 or not operated in accordance with Annex VII to Regulation (EU) No 965/2012 (Part-NCO) or operated in accordance with Subpart-ADD of Annex II (Part-BOP) to Regulation (EU) 2018/395 or Subpart-DEC of Annex II (Part-SAO) to Regulation (EU) 2018/1976 ( 12 ), the operator shall:
+
+(1) be approved as a CAMO or as a CAO for the management of the continuing airworthiness of its aircraft in accordance with Annex Vc (Part-CAMO), Subpart G of Annex I (Part-M) or Annex Vd (Part-CAO), or contract such an organisation using the contract set out in Appendix I to this Annex;
+
+(2) ensure that all maintenance is performed by maintenance organisations approved in accordance with point (c)(2) of point ML.1.;
+
+(3) ensure that the requirements of point (a) are satisfied.
+
+(f) For aircraft not included in point (e), in order to satisfy the requirements of point (a), the owner of the aircraft may contract the tasks associated with continuing airworthiness management to an organisation approved as a CAMO or CAO in accordance with Annex Vc (Part-CAMO), Subpart G of Annex I (Part-M) or Annex Vd (Part-CAO).  In that case, the contracted organisation shall assume responsibility for the proper performance of those tasks and a written contract shall be concluded in accordance with Appendix I to this Annex. If the owner does not contract such an organisation, the owner is responsible for the proper performance of the tasks associated with the continuing airworthiness management.
+
+(g) The owner shall grant the competent authority access to the aircraft and the aircraft records, in order for the competent authority to determine whether the aircraft complies with the requirements of this Annex.
+
+(h) In the case of an aircraft included in an air operator certificate is used for non-commercial or specialised operations under point ORO.GEN.310 of Annex III or point NCO.GEN.104 of Annex VII to Regulation (EU) No 965/2012 ( 13 ), the operator shall ensure that the tasks associated with continuing airworthiness are performed by the CAMO approved in accordance with Annex Vc (Part-CAMO) or Subpart G of Annex I (Part-M) or the combined airworthiness organisation (‘CAO’) approved in accordance with Annex Vd (Part-CAO), whichever applicable, of the air operator certificate holder.
+
+ML.A.202 Occurrence reporting
+
+(a) The following persons shall report any safety-related event or identified condition of an aircraft or component that endangers or, if not corrected or addressed, could endanger an aircraft, its occupants or any other person:
+
+(1) the owner referred to in point ML.A.201(f) carrying out the aircraft continuing airworthiness tasks themselves;
+
+(2) the independent certifying staff referred to in point ML.A.801(b)(2);
+
+(3) the pilot-owner referred to in point ML.A.801(b)(3).
+
+(b) Reports required by point (a) shall:
+
+(1) be made to the competent authority of the Member State of registry of the aircraft and to the organisation responsible for the design of the aircraft or component;
+
+(2) be made as soon as practicable, but in any case, within 72 hours of becoming aware of the event or condition, unless exceptional circumstances prevent this;
+
+(3) be made in a form and manner established by the competent authority of the Member State of registry of the aircraft;
+
+(4) contain all pertinent information about the event or condition known to the person.
+
+(c) In addition to the requirements set out in points (a) and (b), a person carrying out maintenance or airworthiness review shall also report any such event or condition affecting the aircraft to the person or organisation responsible in accordance with point ML.A.201 for the continuing airworthiness of such aircraft.
+
+SUBPART C
+
+CONTINUING AIRWORTHINESS
+
+ML.A.301 Continuing airworthiness tasks
+
+The aircraft continuing airworthiness and the serviceability of operational and emergency equipment shall be ensured by:
+
+(a) the accomplishment of pre-flight inspections;
+
+(b) the rectification of any defect and damage affecting safe operation in accordance with data specified in points ML.A.304 and ML.A.401, as applicable, while taking into account the minimum equipment list (‘MEL’) and configuration deviation list, when they exist;
+
+(c) the accomplishment of all maintenance in accordance with the AMP referred to in point ML.A.302;
+
+(d) the accomplishment of any applicable:
+
+(1) airworthiness directive (‘AD’);
+
+(2) operational directive with a continuing-airworthiness impact;
+
+(3) continuing-airworthiness requirement established by the Agency;
+
+(4) measure required by the competent authority as an immediate reaction to a safety problem;
+
+(e) the accomplishment of modifications and repairs in accordance with point ML.A.304;
+
+(f) maintenance check flights, when necessary.
+
+ML.A.302 Aircraft maintenance programme
+
+(a) The maintenance of each aircraft shall be organised in accordance with an AMP.
+
+(b) The AMP and any subsequent amendments thereto shall be, alternatively:
+
+(1) declared by the owner in accordance with point (c)(7) of point ML.A.302, where the continuing airworthiness of the aircraft is not managed by a CAMO or CAO;
+
+(2) approved by the CAMO or CAO responsible for managing the continuing airworthiness of the aircraft.
+
+The owner declaring the AMP in accordance with point (b)(1) or the organisation approving the AMP in accordance with point (b)(2) shall keep the AMP updated.
+
+(c) The AMP:
+
+(1) shall clearly identify the owner of the aircraft and the aircraft to which it relates, including any installed engine and propeller, as applicable;
+
+(2) shall include, alternatively:
+
+(a) the tasks or inspections contained in the applicable minimum inspection programme (MIP) referred to in point (d);
+
+(b) the instructions for continuing airworthiness (ICA) issued by the design approval holder (DAH);
+
+(c) the ICA issued by the declarant of a declaration of design compliance.
+
+(d) A MIP:
+
+(1) shall contain the following inspection intervals:
+
+(a) for aeroplanes, touring motor gliders (‘TMGs’) and balloons, every annual or 100-h interval, whichever comes first, to which a tolerance of 1 month or 10 h may be applied. The next interval shall be calculated as from the time the inspection takes place;
+
+(b) for sailplanes and powered sailplanes other than TMG, every annual interval to which a tolerance of 1 month may be applied. The next interval shall be calculated as from the time the inspection takes place;
+
+(2) shall contain the following, as applicable to the aircraft type:
+
+(a) servicing tasks as required by the DAH's requirements;
+
+(b) inspection of markings;
+
+(c) review of weighing records and weighing in accordance with Regulation (EU) No 965/2012, Regulation (EU) 2018/395 and Regulation (EU) 2018/1976;
+
+(d) operational test of transponder (if installed);
+
+(e) functional test of the pitot-static system;
+
+(f) in the case of aeroplanes, as applicable to the aircraft power plant:
+
+(i) operational tests for power and revolutions per minute (rpm), magnetos, fuel and oil pressure, engine temperatures;
+
+(ii) for engines equipped with automated engine control, the published run-up procedure;
+
+(iii) for dry-sump engines, engines with turbochargers and liquid-cooled engines, an operational test for signs of disturbed fluid circulation;
+
+(iv) in respect of a power plant other than piston engine, the maintenance tasks as defined in the ICA issued by the DAH of the aeroplane;
+
+(g) inspection of the condition and attachment of the structural items, systems and components corresponding to the following areas:
+
+(i) for aeroplanes:
+
+airframe, cabin and cockpit, landing gear, wing and centre section, flight controls, empennage, avionics and electrics, power plant, clutches and gearboxes, propeller and miscellaneous systems, such as the ballistic rescue system;
+
+(ii) for sailplanes and powered sailplanes:
+
+airframe, cabin and cockpit, landing gear, wing and centre section, empennage, avionics and electrics, power plant (for powered sailplanes) and miscellaneous systems, such as removable ballast and/or drag chute and controls, as well as water ballast system;
+
+(iii) for hot-air balloons:
+
+envelope, burner, basket, fuel containers, equipment and instruments;
+
+(iv) for gas balloons:
+
+envelope, basket, equipment and instruments.
+
+As long as this Annex does not specify an MIP for aircraft other than aeroplanes, sailplanes and balloons, their AMP shall be based on the ICA issued by the DAH, as referred to in point (c)(2)(b).
+
+(e) By derogation from points (b) and (c), a declaration by the owner or an approval by a CAMO or CAO is not required, and an AMP document is not required to be produced when the following conditions are met:
+
+(1) all the ICA issued by the DAH are being followed without any deviations;
+
+(2) all maintenance recommendations, such as TBO intervals, issued through service bulletins, service letters, and other non-mandatory service information, are being followed without any deviations;
+
+(3) there are no additional maintenance tasks to be performed resulting from any of the following:
+
+(a) specific installed equipment and modifications of the aircraft;
+
+(b) repairs carried out in the aircraft;
+
+(c) life-limited components and flight-safety-critical components;
+
+(d) special operational approvals;
+
+(e) use of the aircraft and operational environment.
+
+(4) Pilot-owners are authorised to perform Pilot-owner maintenance.
+
+This derogation is not applicable if the pilot-owner or, in case of jointly-owned aircraft, any of the pilot-owners is not authorised to perform Pilot-owner maintenance because this has to be specified in the declared or approved AMP.
+
+(f) If the conditions provided for in points (e)(1) to (e)(4) are met, the AMP applicable to the aircraft shall consist of the following:
+
+(1) the ICA issued by the DAH;
+
+(2) the maintenance recommendations, such as TBO intervals, issued through service bulletins, service letters, and other non-mandatory service information;
+
+(3) the mandatory continuing airworthiness information, such as repetitive ADs, the ALS of the ICA and specific maintenance requirements contained in the TCDS;
+
+(4) the tasks due to specific operational or airspace directives or requirements in relation to particular instruments and equipment.
+
+ML.A.303 Airworthiness directives
+
+Any applicable AD must be carried out within the requirements of that AD unless otherwise specified by the Agency.
+
+ML.A.304 Data for modifications and repairs
+
+A person or organisation repairing an aircraft or a component shall assess any damage. Modifications and repairs shall be carried out using the applicable data, that is, as appropriate:
+
+(a) approved by the Agency;
+
+(b) approved by a design organisation complying with Annex I (Part 21) to Regulation (EU) No 748/2012;
+
+(c) contained in the requirements referred to in point 21.A.90B or point 21.A.431B of Annex I (Part 21) to Regulation (EU) No 748/2012;
+
+(d) contained in the requirements referred to in point 21L.A.62, 21L.A.102, 21L.A.202 or 21L.A.222 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(e) declared by a declarant complying with Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+ML.A.305 Aircraft continuing airworthiness record system
+
+(a) At the completion of any maintenance, the certificate of release to service (CRS) required by point ML.A.801 shall be entered in the aircraft continuing airworthiness record system. Each entry shall be made as soon as possible but not later than 30 days after the day of the completion of the maintenance task.
+
+(b) The aircraft continuing airworthiness records shall consist of an aircraft logbook, engine logbook(s) or engine module log cards, propeller logbook(s) and log cards, for any service-life-limited component, as appropriate.
+
+(c) The aircraft type and registration mark, the date together with the total flight time and flight cycles and landings, shall be entered in the aircraft logbooks.
+
+(d) The aircraft continuing airworthiness records shall contain:
+
+(1) the current status of ADs and measures mandated by the competent authority in immediate reaction to a safety problem;
+
+(2) the current status of modifications, repairs and other DAH maintenance recommendations;
+
+(3) the current status of compliance with the AMP;
+
+(4) the current status of service-life-limited components;
+
+(5) the current mass and balance report;
+
+(6) the current list of deferred maintenance.
+
+(e) In addition to the authorised release document, EASA Form 1, as set out in Appendix II of Annex I (Part-M), or equivalent, the following information relevant to any component installed, such as engine, propeller, engine module or service-life-limited component, shall be entered in the appropriate engine or propeller logbook, engine module or service-life-limited component log card:
+
+(1) the identification of the component;
+
+(2) the type, serial number and registration, as appropriate, of the aircraft, engine, propeller, engine module or service-life-limited component to which the particular component has been fitted, along with the reference to the installation and removal of the component;
+
+(3) the date together with the component's accumulated total flight time, flight cycles, landings and calendar time, as relevant to the particular component;
+
+(4) the current information referred to in point (d), applicable to the component.
+
+(f) The person or organisation responsible for the management of continuing airworthiness and tasks pursuant to point ML.A.201, shall control the records as detailed in point ML.A.305 and present the records to the competent authority upon request.
+
+(g) All entries made in the aircraft continuing airworthiness records shall be clear and accurate. When it is necessary to correct an entry, the correction shall be made in a manner that clearly shows the original entry.
+
+(h) An owner shall ensure that a system has been established to keep the following records for the periods specified:
+
+(1) all detailed maintenance records in respect of the aircraft and any service-life-limited component fitted thereto, until such time as the information contained therein is superseded by new information equivalent in scope and detail but no less than 36 months after the aircraft or component has been released to service;
+
+(2) the total time in service, this is to say hours, calendar time, cycles and landings, of the aircraft and all service-life-limited components, for at least 12 months after the aircraft or component has been permanently withdrawn from service;
+
+(3) the time in service, this is to say hours, calendar time, cycles and landings, as appropriate, since the last scheduled maintenance of the component subjected to a service life limit, at least until the component scheduled maintenance has been superseded by another scheduled maintenance of equivalent work scope and detail;
+
+(4) the current status of compliance with the AMP at least until the scheduled maintenance of the aircraft or component has been superseded by another scheduled maintenance of equivalent work scope and detail;
+
+(5) the current status of ADs applicable to the aircraft and components, at least 12 months after the aircraft or component has been permanently withdrawn from service;
+
+(6) details of current modifications and repairs to the aircraft, engine(s), propeller(s) and any other component vital to flight safety, at least 12 months after they have been permanently withdrawn from service.
+
+ML.A.307 Transfer of aircraft continuing-airworthiness records
+
+(a) When an aircraft is permanently transferred from one owner to another, the transferring owner shall ensure that the continuing airworthiness records referred to in point ML.A.305 are also transferred.
+
+(b) When the owner contracts the continuing airworthiness management tasks to a CAMO or CAO the owner shall ensure that the continuing airworthiness records referred to in point ML.A.305 are transferred to the contracted organisation.
+
+(c) The time periods for the retention of records set out in point (h) of point ML.A.305 shall continue to apply to the new owner, CAMO or CAO.
+
+SUBPART D
+
+MAINTENANCE STANDARDS
+
+ML.A.401 Maintenance data
+
+(a) The person or organisation maintaining an aircraft shall only use applicable maintenance data during the performance of maintenance.
+
+(b) For the purposes of this Annex, ‘applicable maintenance data’ means any of the following:
+
+1\. any applicable requirement, procedure, standard or information issued by the competent authority or the Agency;
+
+2\. any applicable AD;
+
+3\. the applicable ICA and other maintenance instructions, issued by the type-certificate holder, supplemental type-certificate holder, declarant of a declaration of design compliance and any other organisation that publishes such data in accordance with Annex I (Part 21) or, as applicable, Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+4\. for components approved for installation by the design approval holder or the declarant of a declaration of design compliance, the applicable maintenance instructions published by the component manufacturers and acceptable to the design approval holder or the declarant of a declaration of design compliance;
+
+5\. any applicable data issued in accordance with point 145.A.45(d).
+
+ML.A.402 Performance of maintenance
+
+(a) Maintenance performed by approved maintenance organisations shall be in accordance with Subpart F of Annex I (Part-M), Annex II (Part-145) or Annex Vd (Part-CAO), as applicable.
+
+(b) For maintenance not performed in accordance with point (a), the person performing maintenance shall:
+
+(1) be qualified for the tasks performed, as required by this Annex;
+
+(2) ensure that the area in which maintenance is carried out is well organised and clean with no dirt or contamination;
+
+(3) use the methods, techniques, standards and instructions specified in the maintenance data referred to in point ML.A.401;
+
+(4) use the tools, equipment and material specified in the maintenance data referred to in point ML.A.401. If necessary, tools and equipment shall be controlled and calibrated to an officially recognised standard;
+
+(5) ensure that maintenance is performed within any environmental limitations specified in the maintenance data referred to in point ML.A.401;
+
+(6) ensure that proper facilities are used in case of inclement weather or lengthy maintenance;
+
+(7) ensure that the risk of multiple errors during maintenance and the risk of errors being repeated in identical maintenance tasks are minimised;
+
+(8) ensure that an error-capturing method is implemented after the performance of any critical maintenance task;
+
+(9) perform a general verification after completion of maintenance to ensure that the aircraft or component is clear of all tools, equipment and any extraneous parts and material, and that all access panels removed have been refitted;
+
+(10) ensure that all maintenance performed is properly recorded and documented.
+
+ML.A.403 Aircraft defects
+
+(a) Any aircraft defect that seriously endangers the flight safety shall be rectified before further flight.
+
+(b) The following persons may decide that a defect does not seriously endanger flight safety, and may defer it accordingly:
+
+(1) the pilot in respect of defects affecting non-required aircraft equipment;
+
+(2) the pilot, when using the minimum equipment list, in respect of defects affecting required aircraft equipment — otherwise, these defects may only be deferred by authorised certifying staff;
+
+(3) the pilot in respect of defects other than those referred to in points (b)(1) and (b)(2) if all the following conditions are met:
+
+(i) the aircraft is operated under Annex VII to Regulation (EU) No 965/2012 (Part-NCO) or, in the case of balloons or sailplanes, not operated under Subpart-ADD of Annex II (Part-BOP) to Regulation (EU) 2018/395 or not following Subpart DEC of Annex II (Part-SAO) to Regulation (EU) 2018/1976;
+
+(ii) the pilot defers the defect with the agreement of the aircraft owner or, if applicable, of the contracted CAMO or CAO;
+
+(4) the appropriately qualified certifying staff in respect of other defects than those referred to in points (b)(1) and (b)(2), where the conditions referred to in point 3(i) and (ii) are not met.
+
+(c) Any aircraft defect that does not seriously hazard flight safety shall be rectified as soon as practicable from the date on which the defect was first identified and within the limits specified in the maintenance data.
+
+(d) Any defect not rectified before flight shall be recorded in the aircraft continuing airworthiness record system referred to in point ML.A.305 and a record shall be available to the pilot.
+
+SUBPART E
+
+COMPONENTS
+
+ML.A.501 Classification and installation
+
+(a) Unless otherwise specified in Subpart F of Annex I (Part-M), in Annex II (Part-145), in Annex Vd (Part-CAO) to this Regulation or in point 21.A.307 of Annex I (Part 21) or in point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, a component may be fitted only if all of the following conditions are met:
+
+(i) it is in a satisfactory condition;
+
+(ii) it has been appropriately released to service using an EASA Form 1 as set out in Appendix II to Annex I (Part-M), or equivalent;
+
+(iii) it has been marked in accordance with Subpart Q of Annex I (Part 21) or Subpart Q of Section A of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+(b) Prior to the installation of a component on an aircraft, the person or approved maintenance organisation shall ensure that the particular component is eligible to be fitted if different modifications or AD configurations are applicable.
+
+(c) Standard parts shall only be fitted to an aircraft or component when the maintenance data specifies those particular standard parts. Standard parts shall only be fitted when accompanied by evidence of conformity to the applicable standard and has appropriate traceability.
+
+(d) Raw or consumable material shall only be used on an aircraft or component provided that:
+
+(i) the aircraft or component manufacturer allows for the use of raw or consumable material in relevant maintenance data or as specified in Subpart F of Annex I (Part-M), Annex II (Part-145) or Annex Vd (Part-CAO).
+
+(ii) such material meets the required material specification and has appropriate traceability.
+
+(iii) such material is accompanied by documentation clearly relating to the particular material and containing a conformity-to-specification statement as well as the manufacturing and supplier source.
+
+(e) In case of balloons, where different combinations of baskets, burners and fuel cylinders are possible for a particular envelope, the person installing them shall ensure that:
+
+(1) the basket, burner and/or fuel cylinders are eligible for installation according to the TCDS or other documents referred to in the TCDS;
+
+(2) the basket, burner and/or fuel cylinders are in serviceable condition and have the appropriate maintenance records.
+
+ML.A.502 Component maintenance
+
+(a) Components which are accepted by the owner in accordance with point (b)(2) of point 21.A.307 of Annex I (Part 21) or with point (b)(2) of point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 shall be maintained by any person or organisation, subject to reacceptance by the owner under the conditions of point (b)(2) of point 21.A.307 of Annex I (Part 21) or of point (b)(2) of point 21L.A.193 of Annex Ib (Part 21 Light). This maintenance is not eligible for the issuance of an EASA Form 1, as set out in Appendix II to Annex I (Part-M), and shall be subject to the aircraft release requirements.
+
+(b) Components shall be released in accordance with the following table:
+
+<table>
+<tbody><tr><td>  </td><td>Released using an EASA Form 1 (as set out in Appendix II of Annex I (Part-M))</td><td>Released at aircraft level per point ML.A.801 (not possible to issue an EASA Form 1)</td></tr>
+<tr><td colspan="3">Components maintained in accordance with component maintenance data (data issued by the component manufacturer)</td></tr>
+<tr><td>Maintenance other than overhaul</td><td>Engine-rated (for engine) or component-rated (for other components) maintenance organisations</td><td>(i) Aircraft-rated maintenance organisations; and/or (ii) independent certifying staff </td></tr>
+<tr><td>Overhaul of components other than engines and propellers</td><td>Component-rated maintenance organisations</td><td>Not possible</td></tr>
+<tr><td>Overhaul of engines and propellers for CS-VLA, CS-22 and LSA aircraft</td><td>Engine-rated (for engine) or component-rated (for propeller) maintenance organisations</td><td>(iii) Aircraft-rated maintenance organisations; and/or (iv) independent certifying staff </td></tr>
+<tr><td>Overhaul of engines and propellers for other than CS-VLA, CS-22 and LSA aircraft</td><td>Engine-rated (for engine) or component-rated (for propeller) maintenance organisations</td><td>Not possible</td></tr>
+<tr><td colspan="3">Components maintained in accordance with aircraft maintenance data (data issued by the aircraft manufacturer)</td></tr>
+<tr><td>All components and all types of maintenance</td><td>Engine-rated (for engine) or component-rated (for other components) maintenance organisations</td><td>— Aircraft-rated maintenance organisations; and/or — independent certifying staff </td></tr>
+</tbody>
+</table>
+
+(c) Components which are referred to in points (b)(3) to (b)(6) of point 21.A.307 of Annex I (Part 21) or in points (b)(3) to (b)(6) of point 21L.A.193 of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 may be maintained by any person or organisation. In such case, by way of derogation from point (b), the maintenance of those components shall be released with a ‘declaration of maintenance accomplished’ issued by the person or organisation that performed the maintenance. The ‘declaration of maintenance accomplished’ shall contain at least basic details of the maintenance carried out, the date on which the maintenance was completed, and the identification of the organisation or person that issues it. It shall be considered a maintenance record and equivalent to an EASA Form 1 in respect of the maintained component.
+
+ML.A.503 Service-life-limited components
+
+(a) The term ‘service life-limited components’ contains the following components:
+
+(1) components subject to a certified life limit after which the components should be retired, and;
+
+(2) components subject to a service life limit after which the components shall undergo maintenance to restore their serviceability.
+
+(b) Installed service-life-limited components shall not exceed the approved service life limit as specified in the AMP and ADs, except as provided for in point ML.A.504(c).
+
+(c) The approved service life is expressed in calendar time, flight hours, landings or cycles, as appropriate.
+
+(d) At the end of the approved service life limit, the component must be removed from the aircraft for maintenance, or for disposal in the case of components with a certified life limit.
+
+ML.A.504 Control of unserviceable components
+
+(a) A component shall be considered unserviceable in any of the following circumstances:
+
+(1) expiry of the component's service life limit as defined in the AMP;
+
+(2) non-compliance with the applicable ADs and other continued-airworthiness requirement mandated by the Agency;
+
+(3) absence of the necessary information to determine the airworthiness status of the component or its eligibility for installation;
+
+(4) evidence of component defects or malfunctions;
+
+(5) component involvement in an incident or accident likely to affect its serviceability.
+
+(b) Unserviceable components shall be identified as one of the following:
+
+(1) unserviceable and stored in a secure location under the control of an approved maintenance organisation or independent certifying staff until a decision is made on the future status of such components;
+
+(2) unserviceable by the person or organisation that declared the component unserviceable, and its custody shall be transferred to the aircraft owner after documenting such transfer in aircraft maintenance record system referred to in point ML.A.305.
+
+(c) Components which have reached their certified life limit or contain a non-repairable defect or malfunction shall be classified as unsalvageable and shall not be permitted to re-enter the component supply system unless certified life limits have been extended or a repair solution has been approved in accordance with point ML.A.304.
+
+(d) Any person or organisation responsible pursuant to point ML.A.201 shall in the case of an unsalvageable component, as provided for in point (c), take one of the following actions:
+
+(1) retain such component in a location referred to in point (b)(1);
+
+(2) arrange for the component to be mutilated in a manner that ensures that it is beyond economic salvage or repair before relinquishing responsibility for such a component.
+
+(e) Notwithstanding point (d), a person or organisation responsible pursuant to point ML.A.201 may transfer responsibility of components classified as unsalvageable without mutilation to an organisation for training or research.
+
+SUBPART H
+
+CERTIFICATE OF RELEASE TO SERVICE (CRS)
+
+ML.A.801 Aircraft certificate of release to service
+
+(a) A CRS shall be issued after the required maintenance has been carried out properly on an aircraft.
+
+(b) The CRS shall be issued, alternatively by:
+
+(1) appropriate certifying staff on behalf of the approved maintenance organisation;
+
+(2) independent certifying staff;
+
+(3) the pilot- owner in compliance with point ML.A.803.
+
+(c) By derogation from point (b), in the case of unforeseen circumstances, when an aircraft is grounded at a location where no appropriately approved maintenance organisation and no appropriate certifying staff are available, the owner may authorise any person, with no less than 3 years of appropriate maintenance experience and holding the proper qualifications, to maintain the aircraft according to the standards set out in Subpart D of this Annex and release the aircraft. The owner shall in that case:
+
+(1) obtain and keep in the aircraft records, details of all the work carried out and of the qualifications held by the person issuing the certification;
+
+(2) ensure that any such maintenance is rechecked and released in accordance with point (b) of point ML.A.801 at the earliest opportunity and within a period not exceeding 7 days or, in the case of aircraft operated under Annex VII to Regulation (EU) No 965/2012 (Part-NCO) or, in the case of balloons, not operated under Subpart-ADD of Annex II (Part-BOP) to Regulation (EU) 2018/395 or, in the case of sailplanes not following Subpart DEC of Annex II (Part-SAO) to Regulation (EU) 2018/1976, within a period not exceeding 30 days;
+
+(3) notify the contracted CAMO or CAO, or the competent authority in the absence of such a contract, within 7 days of the issuance of such authorisation.
+
+(d) In the case of a release to service in accordance with points (b)(1) or (b)(2), the certifying staff may be assisted in performing the maintenance tasks by one or more persons subject to his direct and continuous control;
+
+(e) A CRS shall contain at least:
+
+(1) basic details of the maintenance carried out;
+
+(2) the date on which the maintenance was completed;
+
+(3) the identity of the organisation or person issuing the release to service, including, alternatively:
+
+(i) the approval reference of the maintenance organisation and certifying staff issuing the CRS;
+
+(ii) in the case of point (b)(2), the identity and, if applicable, the licence number of the independent certifying staff issuing the CRS;
+
+(4) the limitations to airworthiness or operations, if any.
+
+(f) By derogation from point (a) and notwithstanding point (g), when the required maintenance cannot be completed, a CRS may be issued within the approved aircraft limitations. In that case, the CRS shall indicate that the maintenance could not be completed, as well as indicate any applicable airworthiness or operations limitations, as part of the information required in point (e)(4).
+
+(g) A CRS shall not be issued in the case of any known non-compliance with the requirements of this Annex which endangers flight safety.
+
+ML.A.802 Component certificate of release to service
+
+(a) Except for the cases covered by point (c) of point ML.A.502, a component CRS shall be issued after the required maintenance work has been properly carried out on an aircraft component in accordance with point ML.A.502.
+
+(b) The authorised release certificate identified as EASA Form 1, as set out Appendix II of Annex I (Part-M), constitutes the component CRS, except when such maintenance is released at aircraft level, as indicated in point ML.A.502(b).
+
+ML.A.803 Pilot-owner authorisation
+
+(a) To qualify as a pilot-owner, the person must:
+
+(1) hold a valid pilot licence or equivalent licence issued or validated by a Member State for the aircraft type or class rating;
+
+(2) own the aircraft, either as a sole or joint owner; that owner must be, alternatively:
+
+(i) one of the natural persons on the registration form;
+
+(ii) a member of a non-profit recreational legal entity, where the legal entity is specified on the registration document as owner or operator; that member must be directly involved in the decision-making process of the legal entity and designated by that legal entity to carry out Pilot-owner maintenance.
+
+(b) For aircraft operated under Annex VII (Part-NCO) to Regulation (EU) No 965/2012 or, in the case of balloons, not operated under Subpart-ADD of Annex II (Part-BOP) to Regulation (EU) 2018/395 or, in the case of sailplanes, not following Subpart DEC of Annex II (Part-SAO) to Regulation (EU) 2018/1976, the pilot-owner may issue a CRS after limited Pilot-owner maintenance as provided for in Appendix II to this Annex.
+
+(c) The CRS shall be entered in the logbooks and contain basic details of the maintenance carried out, the maintenance data used, the date on which that maintenance was completed, as well as the identity, the signature and the pilot licence (or equivalent) number of the pilot-owner issuing such a certificate.
+
+SUBPART I
+
+AIRWORTHINESS REVIEW CERTIFICATE (‘ARC’)
+
+ML.A.901 Airworthiness review — General
+
+(a) To ensure the validity of the airworthiness certificate, an aircraft shall periodically undergo an airworthiness review in accordance with point ML.A.903.
+
+(b) The satisfactory completion of an airworthiness review shall result in an airworthiness review certificate (ARC) issued in accordance with Appendix IV (EASA Form 15c).
+
+(c) The airworthiness review and the issuance of the ARC shall be performed in accordance with point ML.A.903, by one of the following:
+
+(1) the competent authority;
+
+(2) an appropriately approved CAO with the privileges specified in point CAO.A.095(c)(1) of Annex Vd or an appropriately approved CAMO with the privileges specified in point CAMO.A.125(e) of Annex Vc;
+
+(3) an appropriately approved CAO with the privileges specified in point CAO.A.095(c)(2) of Annex Vd, or a Part-145 organisation with the privileges specified in point 145.A.75(f) of Annex II, while performing the 100-h/annual inspection contained in the AMP;
+
+(4) for aircraft operated under Annex VII (Part-NCO) to Regulation (EU) No 965/2012 or, in the case of balloons, not operated under Subpart-ADD of Annex II (Part-BOP) to Regulation (EU) 2018/395 or, in the case of sailplanes, not following Subpart DEC of Annex II (Part-SAO) to Implementing Regulation (EU) 2018/1976, an independent certifying staff while performing the 100-h/annual inspection contained in the AMP, when qualified in accordance with point ML.A.904(c) of this Annex.
+
+(d) When the airworthiness review is carried out by the person or organisation specified in points (c)(2), (c)(3) or (c)(4), the ARC shall be signed by the airworthiness review staff who carried out the airworthiness review.
+
+(e) The person or organisation responsible for the continuing airworthiness of the aircraft in accordance with point ML.A.201 shall, upon request and where necessary for those purposes, ensure that the person, organisation or the competent authority carrying out the airworthiness review:
+
+(1) has the required aircraft documentation and records;
+
+(2) has suitable accommodation at the appropriate location for its personnel;
+
+(3) has access to the aircraft;
+
+(4) has the assistance of appropriate certifying staff.
+
+(f) By derogation from point ML.A.902(a), the airworthiness review may be carried out 90 days or less before the expiry date of the ARC, without loss of continuity of the airworthiness review pattern.
+
+(g) The airworthiness review shall not be subcontracted.
+
+(h) An ARC shall not be issued if there is evidence or there are indications that the aircraft is not airworthy.
+
+(i) A copy of any ARC issued or extended for an aircraft shall be sent to the competent authority of the Member State of registry of the aircraft concerned within 10 days of the issuance or extension.
+
+(j) Upon surrender or revocation, the ARC shall be returned to the competent authority of the Member State of registry, when so requested by the respective authority.
+
+ML.A.902 Validity of the airworthiness review certificate
+
+(a) An ARC shall be valid for 1 year and its validity may be extended for another year for a maximum of two consecutive extensions. The extension of the validity of the ARC shall begin on:
+
+(1) the previous expiry date, if:
+
+(i) the extension is carried out within 30 days before the expiry date of the ARC;
+
+(ii) the extension is carried out after the expiry date of the ARC;
+
+(2) the date on which the extension is carried out, if it is carried out more than 30 days before the expiry date of the ARC.
+
+(b) The ARC shall only be extended by the organisation managing the continuing airworthiness of the aircraft, subject to the following conditions:
+
+(1) the continuing airworthiness of the aircraft has been continuously managed by that organisation since the issue of the ARC;
+
+(2) the aircraft has been maintained since the issue of the ARC by a maintenance organisation approved in accordance with Annex II (Part-145) or Annex Vd (Part-CAO);
+
+(3) the organisation managing the continuing airworthiness of the aircraft has no evidence or reason to believe that the aircraft is not airworthy.
+
+The maintenance referred to in the first paragraph, point (2), may include pilot-owner maintenance tasks carried out and released to service either by the pilot-owner or by independent certifying staff.
+
+(c) An ARC shall become invalid if:
+
+(1) it is expired, suspended, surrendered or revoked;
+
+(2) the airworthiness certificate is suspended, surrendered or revoked.
+
+(d) An aircraft shall not fly if the ARC is invalid or if the continuing airworthiness of the aircraft or any component installed on the aircraft does not meet the applicable requirements of this Annex.
+
+ML.A.903 Airworthiness review process
+
+(a) An airworthiness review is a process that comprises all the tasks and activities for evaluating the airworthiness status of an aircraft based on a documented review of the related aircraft continuing airworthiness records and a physical survey.
+
+(b) Through the documented review of the aircraft, the airworthiness review staff shall be satisfied that:
+
+(1) the total in-service life accumulated in the applicable parameter of the aircraft, engine(s), propeller(s), life-limited parts and time-controlled components has been properly recorded;
+
+(2) the flight manual is applicable to the aircraft configuration and is kept up to date;
+
+(3) the maintenance due on the aircraft according to the AMP, as specified in point ML.A.302, has been carried out;
+
+(4) known defects have been rectified or, when applicable, deferred in accordance with point ML.A.403;
+
+(5) the applicable airworthiness directives and the measures mandated by the competent authority have been complied with and properly entered into the aircraft continuing airworthiness record system;
+
+(6) the modifications and repairs applied to the aircraft have been entered into the aircraft continuing airworthiness record system and comply with point ML.A.304;
+
+(7) the life-limited parts and time-controlled components installed on the aircraft are properly identified, entered into the aircraft continuing airworthiness record system and have not exceeded their limitation;
+
+(8) if applicable, the current mass and balance statement reflects the current configuration of the aircraft and is valid;
+
+(9) the aircraft complies with the applicable type design;
+
+(10) if issued, the aircraft holds a valid airworthiness certificate in compliance with Section A, Subpart H, of Annex I (Part 21) or, as applicable, Section A, Subpart H, of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(11) if issued, the aircraft holds a valid noise certificate corresponding to the current configuration of the aircraft in compliance with Section A, Subpart I, of Annex I (Part 21) or, as applicable, Section A, Subpart I, of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(12) maintenance has been released in accordance with any of the following:
+
+(i) the applicable requirements of this Regulation, for the period during which the aircraft is within the scope of this Regulation;
+
+(ii) the appropriate airworthiness requirements of the State which was responsible for the oversight of the aircraft for the period during which the aircraft was not within the scope of this Regulation.
+
+If there is evidence or reason to believe that maintenance in the period referred to in the first paragraph, point (ii), has been inadequate, the airworthiness review staff shall ensure that appropriate actions are taken.
+
+(c) Through the physical survey of the aircraft, the airworthiness review staff shall be satisfied that:
+
+(1) the required markings and placards are properly installed and meet the requirements set out in point 21.A.175 of Annex I (Part 21) or, as applicable, point 21L.A.144(a) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(2) the aircraft complies with its approved flight manual;
+
+(3) the aircraft configuration complies with the documentation;
+
+(4) no evident defect can be found that has not been addressed in accordance with point ML.A.403;
+
+(5) no inconsistencies can be found between the aircraft and the documented review of records as referred to in point (b).
+
+(d) For the physical survey, airworthiness review staff not qualified as certifying staff on the specific aircraft subject to the airworthiness review shall be assisted by such qualified personnel.
+
+(e) The airworthiness review shall be planned and carried out in such a manner that the time elapsed between the review of the aircraft continuing airworthiness records and their corresponding verification during physical survey shall be as short as possible.
+
+(f) If for any reason an airworthiness review cannot be completed, the person or organisation carrying out the airworthiness review shall inform the competent authority of the Member State of registry as soon as possible.
+
+(g) The ARC shall not be issued until all actions to eliminate the detected non-compliance have been implemented.
+
+(h) The details and the outcome of an airworthiness review shall be recorded in an airworthiness review report.
+
+(i) The effectiveness of the AMP may be reviewed in conjunction with the airworthiness review in accordance with point ML.A.302(c)(9). That review shall be completed by the person who carried out the airworthiness review. If the review shows deficiencies of the aircraft linked with deficiencies in the content of the AMP, the AMP shall be amended accordingly. The person carrying out the review shall inform the competent authority of the Member State of registry if he or she does not agree with the measures amending the AMP taken by the owner, CAMO or CAO. In such case the competent authority shall decide which amendments to the AMP are necessary, raising the corresponding findings referred to in point ML.B.907 and, if necessary, reacting in accordance with point ML.B.304.
+
+ML.A.904 Airworthiness review staff
+
+(a) Airworthiness review staff acting on behalf of the competent authority shall be qualified in accordance with point ML.B.901(c).
+
+(b) Airworthiness review staff acting on behalf of an organisation referred to in Annex II (Part-145), Annex Vc (Part-CAMO) or Annex Vd (Part CAO) shall be qualified in accordance with Annex II (Part-145), Annex Vc (Part-CAMO) or Annex Vd (Part-CAO) respectively.
+
+(c) Airworthiness review staff acting on their own behalf, as permitted pursuant to point ML.A.901(c)(4), shall:
+
+(1) hold a licence issued in accordance with Annex III (Part-66) rated for the corresponding aircraft; and
+
+(2) hold an authorisation issued by the competent authority that issued the licence in accordance with Annex III (Part-66).
+
+(d) The authorisation required under point (c)(2) shall be issued by the competent authority when:
+
+(1) the competent authority has assessed that the person has the knowledge of the parts of this Annex relevant to continuing-airworthiness management, performance of airworthiness reviews and issuance of ARCs;
+
+(2) the person has satisfactorily performed an airworthiness review under the supervision of the competent authority.
+
+This authorisation shall remain valid for a duration of 5 years as long as the holder has performed at least 1 airworthiness review every 12-months. If this is not the case, a new airworthiness review shall be satisfactorily performed under the supervision of the competent authority.
+
+Upon expiration of its validity, the authorisation shall be renewed for another 5 years subject to a new compliance with points (d)(1) and (d)(2). There is no limit to the number of renewals.
+
+The holder of the authorisation shall keep records of all the airworthiness reviews performed and shall make them available, upon request, to any competent authority and to any aircraft owner for whom they are performing an airworthiness review.
+
+This authorisation may be revoked by the competent authority at any time if it is not satisfied with the competence of the holder or with the use of such an authorisation.
+
+ML.A.905 Transfer of aircraft registration within the Union
+
+(a) When transferring within the Union an aircraft registration of an aircraft that has, at the time of application, an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012, the applicant shall:
+
+(1) first, notify the competent authority of the Member State of registry where the aircraft is registered of the name of the Member State in which the aircraft will be registered;
+
+(2) subsequently, apply to the competent authority of the new Member State of registry for the issuance of a new airworthiness certificate in accordance with point 21.A.174(b)(3)(i) of Annex I (Part 21) or, as applicable, point 21L.A.143(e) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+(b) At the time of the application to the new Member State of registry:
+
+(1) if the ARC is valid, it shall:
+
+(i) remain valid until its expiry date, unless the conditions set out in point ML.A.902(c) are met;
+
+(ii) be amended with the new nationality and registration marks by the competent authority of the new Member State of registry;
+
+(2) if the ARC is either invalid or becomes invalid during the transfer process, the applicant shall take one of the following steps:
+
+(i) ensure that the validity of the ARC is restored;
+
+(ii) ensure obtaining a new ARC in accordance with point ML.A.901.
+
+ML.A.906 Airworthiness review of aircraft without an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012
+
+(a) When applying for an airworthiness certificate for aircraft not having an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012 at the time of the application, the applicant shall:
+
+(1) apply to the competent authority of the Member State of registry for the issuance of a new airworthiness certificate in accordance with Annex I (Part 21) or, as applicable, Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(2) for aircraft other than new, have an airworthiness review carried out and completed satisfactorily in accordance with point ML.A.903;
+
+(3) have all maintenance carried out to comply with the AMP approved in accordance with point ML.A.302;
+
+(4) if the former airworthiness certificate was issued in accordance with Regulation (EU) No 748/2012, but it was revoked or surrendered, notify the competent authority that issued the former airworthiness certificate, if different, of the name of the Member State in which the aircraft will be registered.
+
+(b) If the aircraft complies with the relevant requirements, the competent authority, the CAMO or CAO, the maintenance organisation or the independent certifying staff carrying out the airworthiness review, as provided for in point ML.A.901(c), shall issue an ARC.
+
+(c) In the case that an evaluation programme is required in accordance with point 21.A.174(b)(3)(ii)(G)(b) or point 21.A.174(d) of Annex I (Part 21) or, as applicable, point 21L.A.143(f)(6)(b) or point 21L.A.143(h) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012, the evaluation report referred to in point 21.A.174(d)(4) of Annex I (Part 21) or 21L.A.143(h)(4) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 shall be taken into consideration by the person, competent authority or organisation carrying out the airworthiness review. The evaluation report shall be submitted together with a copy of the ARC issued as required by point ML.A.901(i) of this Annex, unless the airworthiness review is carried out by the competent authority.
+
+ML.A.907 Findings
+
+Following receipt of the notification of findings from the competent authority in accordance with point ML.B.907, the person or organisation responsible for the continuing airworthiness of the aircraft pursuant to point ML.A.201 shall establish a corrective action plan including corrections and corrective actions and, within the agreed period, demonstrate the implementation of the correction to the competent authority.
+
+**SECTION B**
+
+**PROCEDURE FOR COMPETENT AUTHORITIES**
+
+SUBPART A
+
+GENERAL
+
+ML.B.101 Scope
+
+This Section establishes the administrative requirements to be followed by the competent authorities in charge of the implementation and enforcement of Section A of this Annex.
+
+ML.B.102 Competent authority
+
+(a) General
+
+A Member State shall designate a competent authority with allocated responsibilities for the issuance, continuation, change, suspension or revocation of certificates and for the oversight of continuing airworthiness. This competent authority shall establish documented procedures and an organisational structure.
+
+(b) Resources
+
+The number of staff shall be appropriate to satisfy the requirements detailed in this Section.
+
+(c) Qualification and training
+
+All staff involved in activities covered by this Annex shall be appropriately qualified and have appropriate knowledge, experience, initial and continuation training to perform their allocated tasks.
+
+(d) Procedures
+
+The competent authority shall establish procedures detailing how compliance with this Annex is achieved.
+
+The procedures shall be reviewed and amended to ensure continued compliance.
+
+ML.B.104 Record-keeping
+
+(a) The competent authority shall establish a system of record-keeping that allows adequate traceability of the process for issuing, continuing, changing, suspending or revoking each certificate and authorisation.
+
+(b) The records for the oversight of each aircraft shall include, as a minimum, a copy of:
+
+(1) the aircraft certificate of airworthiness;
+
+(2) ARCs;
+
+(3) reports from the airworthiness reviews carried out directly by the Member State;
+
+(4) all relevant correspondence relating to the aircraft;
+
+(5) details of any exemption and enforcement action(s);
+
+(6) any document approved by the competent authority pursuant to this Annex or Regulation (EU) No 965/2012.
+
+(c) The records specified in point (b) shall be retained until 2 years after the aircraft has been permanently withdrawn from service.
+
+(d) All records specified in point ML.B.104 shall be made available to any other Member State or the Agency upon their request.
+
+(e) The competent authority shall maintain records of all airworthiness review staff for 3 years after that staff have left the competent authority. Those records shall include details of any appropriate qualification held together with a summary of relevant continuing airworthiness management experience and training.
+
+ML.B.105 Mutual exchange of information
+
+(a) In order to contribute to the improvement of aviation safety, the competent authorities shall participate in a mutual exchange of all the necessary information in accordance with Article 72 of Regulation (EC) 2018/1139.
+
+(b) Without prejudice to the competences of the Member States, in the case of a potential safety threat involving several Member States, the competent authorities concerned shall assist each other in carrying out the necessary oversight action.
+
+SUBPART B
+
+ACCOUNTABILITY
+
+ML.B.201 Responsibilities
+
+The competent authority referred to in point (b) of point ML.1 shall be responsible for conducting inspections and investigations in order to verify that the requirements of this Annex are complied with.
+
+ML.B.202 Information to the Agency
+
+(a) The competent authority of the Member State shall notify the Agency in case of any significant problems with the implementation of Regulation (EU) 2018/1139 and its delegated and implementing acts within 30 days from the time the authority became aware of the problems.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the competent authority shall provide the Agency as soon as possible with any safety-significant information stemming from the occurrence reports stored in the national database pursuant to Article 6(6) of Regulation (EU) No 376/2014.
+
+SUBPART C
+
+CONTINUING AIRWORTHINESS
+
+ML.B.302 Exemptions
+
+All exemptions granted in accordance with Article 71 of Regulation (EC) 2018/1139 shall be recorded and retained by the competent authority.
+
+ML.B.303 Aircraft continuing airworthiness monitoring
+
+(a) The competent authority shall develop a survey programme following a risk-based approach to monitor the airworthiness status of the fleet of aircraft on its register.
+
+(b) A survey programme shall include sample product surveys of aircraft and shall cover all aspects of airworthiness key risk elements.
+
+(c) A sample product survey shall sample the airworthiness standards achieved, on the basis of the applicable requirements, and identify any findings.
+
+(d) Any findings identified shall be categorised in accordance with point ML.B.907 and confirmed in writing to the person or organisation responsible pursuant to point ML.A.201. The competent authority shall have a procedure in place to analyse findings as for their safety significance.
+
+(e) The competent authority shall record all findings and closure actions.
+
+(f) If during aircraft monitoring, evidence is found showing non-compliance with this or other Annexes, the finding shall be dealt with as provided for by the relevant Annex.
+
+(g) If so required to ensure appropriate enforcement action, the competent authority shall exchange information on non-compliances identified in accordance with point (f) with other competent authorities.
+
+ML.B.304 Revocation and suspension
+
+(a) The competent authority shall:
+
+(1) suspend an ARC on reasonable grounds in the case of a potential safety threat; or
+
+(2) suspend or revoke an ARC pursuant to point ML.B.907(c), second paragraph.
+
+(b) The competent authority that issued the airworthiness review authorisation pursuant to point ML.A.904(c) for independent certifying staff shall revoke such authorisation if the holder shows poor performance of the airworthiness review or uses such authorisation in an inappropriate manner.
+
+SUBPART I
+
+AIRWORTHINESS REVIEW CERTIFICATE (‘ARC’)
+
+ML.B.901 Airworthiness review certificate issued by the competent authority
+
+(a) The competent authority shall issue an ARC using the template in Appendix IV (EASA Form 15c) in one of the following cases:
+
+(1) after a satisfactory completion of the airworthiness review by that competent authority in accordance with point ML.A.903;
+
+(2) in the case of a new aircraft.
+
+(b) The competent authority shall carry out the airworthiness review in accordance with point ML.A.903 whenever circumstances reveal the existence of a potential safety threat.
+
+(c) The competent authority shall have appropriate airworthiness review staff to carry out the airworthiness reviews. Such staff shall have:
+
+(1) acquired at least 3 years of experience in continuing airworthiness;
+
+(2) acquired either an appropriate licence in compliance with Annex III (Part-66), or an aeronautical degree or national equivalent;
+
+(3) received appropriate aeronautical maintenance training.
+
+The requirement laid down in the first paragraph, point (2), may be replaced by 4 years of experience in continuing airworthiness additional to those already required by the first paragraph, point (1).
+
+ML.B.905 Transfer of aircraft registration within the Union
+
+(a) Upon receipt of a notification of aircraft transfer between the Member States in accordance with point ML.A.905:
+
+(1) the competent authority of the Member State where the aircraft is currently registered shall inform the competent authority of the Member State where the aircraft will be registered of any known problems with the aircraft being transferred;
+
+(2) the competent authority of the Member State where the aircraft will be registered shall ensure that the competent authority of the Member State where the aircraft is currently registered has been properly notified about the transfer.
+
+(b) The competent authority of the new Member State of registry shall amend the existing ARC as specified in point ML.A.905(b)(1)(ii) or issue a new ARC in accordance with point ML.B.901(a)(1).
+
+ML.B.906 Airworthiness review of aircraft without an airworthiness certificate issued in accordance with Regulation (EU) No 748/2012
+
+In the case of an application for an airworthiness certificate in accordance with point ML.A.906(a), if the former airworthiness certificate was issued in accordance with Regulation (EU) No 748/2012, but it was revoked or surrendered:
+
+(a) upon receipt of a notification in accordance with point ML.A.906(a)(4), the competent authority of the Member State that issued the former airworthiness certificate shall inform, if different, the competent authority of the Member State where the aircraft will be registered of any known problems with the aircraft;
+
+(b) the competent authority of the Member State where the aircraft will be registered shall ensure, if different, that the competent authority of the Member State that issued the former airworthiness certificate has been properly notified.
+
+ML.B.907 Findings
+
+(a) A level 1 finding shall be issued by the competent authority when any significant non-compliance is detected with the applicable requirements of this Annex, which lowers safety or seriously endangers flight safety.
+
+(b) A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of this Annex, which is not classified as a level 1 finding.
+
+(c) If during aircraft surveys or by other means evidence is found showing non-compliance with requirements of this Annex, the competent authority shall require appropriate correction of the non-compliance to be implemented:
+
+(1) for level 1 findings, before further flight;
+
+(2) for level 2 findings, within a time period accepted or extended by the competent authority.
+
+The ARC shall be revoked or suspended if the correction in accordance with the first paragraph, point (1), is not implemented immediately.
+
+(d) If the appropriate correction of the non-compliance required under point (c)(2) is not implemented within the time period accepted or extended by the competent authority, the competent authority shall consider raising the level 2 finding to a level 1 finding and if the correction is not implemented immediately, shall revoke or suspend the ARC.
+
+(e) When a level 1 finding is raised, the competent authority shall inform, if different and as applicable:
+
+(1) the competent authority of the organisation responsible for the aircraft continuing airworthiness pursuant to point ML.A.201;
+
+(2) the competent authority of the organisation that issued the current ARC, or the competent authority that issued the authorisation in accordance with point ML.A.904(c)(2), in the case of airworthiness review staff acting on their own behalf.
+
+## Appendix I
+
+**Continuing-airworthiness management contract**
+
+(a) When an owner contracts in accordance with point ML.A.201 a CAMO or CAO to carry out continuing airworthiness management tasks, upon request by the competent authority, a copy of the contract signed by both parties shall be sent by the owner to the competent authority of the Member State of registry.
+
+(b) The contract shall be developed taking into account the requirements of this Annex and shall define the obligations of the signatories in relation to the continuing airworthiness of the aircraft.
+
+(c) It shall contain, as a minimum the following information:
+
+(1) the aircraft registration, type and serial number;
+
+(2) the aircraft owner's or registered lessee's name or company details including the address;
+
+(3) details of the contracted CAMO or CAO, including the address;
+
+(4) the type of operation.
+
+(d) It shall state the following:
+
+‘The owner entrusts the CAMO or CAO with the management of the continuing airworthiness of the aircraft, the development and approval of a maintenance programme, and the organisation of the maintenance of the aircraft according to said maintenance programme.
+
+According to the present contract, both signatories undertake to follow the respective obligations of this contract.
+
+The owner declares, to the best of its knowledge, that all the information given to the CAMO or CAO concerning the continuing airworthiness of the aircraft is and will be accurate, and that the aircraft will not be altered without prior approval of the CAMO or CAO.
+
+In case of any non-conformity with this contract, by either of the signatories, the contract will become null. In such a case, the owner will retain full responsibility for every task linked to the continuing airworthiness of the aircraft, and the owner will inform the competent authoritie(s) of the Member State of registry within 2 weeks about the termination of the contract.’
+
+(e) When an owner contracts a CAMO or CAO in accordance with point ML.A.201, the obligations of each party shall be assigned as follows:
+
+(1) Obligations of CAMO or CAO:
+
+(i) have the aircraft type included in its terms of approval;
+
+(ii) respect all the conditions listed below with regard to maintaining the continuing airworthiness of the aircraft:
+
+(A) develop and approve the AMP for the aircraft;
+
+(B) once it has been approved, provide the owner with a copy of the AMP, as well as a copy of the justifications for any deviations from the DAH's recommendations;
+
+(C) organise a bridging inspection using the aircraft's prior AMP;
+
+(D) organise that all maintenance is carried out by an approved maintenance organisation or, if permitted, by independent certifying staff;
+
+(E) organise that all applicable ADs are applied;
+
+(F) organise that all defects discovered during maintenance, airworthiness reviews or reported by the owner are corrected by an approved maintenance organisation or, if permitted, by independent certifying staff;
+
+(G) coordinate scheduled maintenance, the application of ADs, the replacement of service-life-limited parts, and component inspection requirements;
+
+(H) inform the owner each time the aircraft must be brought to an approved maintenance organisation or, if permitted, to independent certifying staff;
+
+(I) manage and archive all technical records;
+
+(iii) organise the approval of any modification to the aircraft in accordance with Annex I to Regulation (EU) No 748/2012 (Part 21) or, as applicable, Annex Ib (Part 21 Light) before this modification is embodied;
+
+In the case of an aircraft subject to a declaration of design compliance, organise the declaration of compliance for any modification in accordance Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 before it is embodied;
+
+(iv) organise the approval of any repair to the aircraft in accordance with Annex I (Part 21) or, as applicable, Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 (Part 21) before this repair is carried out.
+
+In the case of an aircraft subject to a declaration of design compliance, organise the declaration of compliance for any repair in accordance Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 before it is carried out;
+
+(v) inform the competent authority of the Member State of registry whenever the aircraft is not presented by the owner for maintenance as requested by the contracted CAMO or CAO;
+
+(vi) inform the competent authority of the Member State of registry whenever the present contract has not been respected;
+
+(vii) ensure that the airworthiness review of the aircraft is carried out, when necessary, and ensure that the ARC is issued;
+
+(viii) send within 10 days a copy of any ARC issued or extended to the competent authority of the Member State of registry;
+
+(ix) carry out all occurrence reporting mandated by applicable regulations;
+
+(x) inform the competent authority of the Member State of registry whenever the present contract is denounced by either party.
+
+(2) Obligations of the owner:
+
+(i) have a general understanding of the AMP;
+
+(ii) have a general understanding of this Annex;
+
+(iii) present the aircraft for maintenance as directed by the contracted CAMO or CAO;
+
+(iv) not modify the aircraft without first consulting the contracted CAMO or CAO;
+
+(v) inform the contracted CAMO or CAO of all maintenance exceptionally carried out without the knowledge and control of the contracted CAMO or CAO;
+
+(vi) report to the contracted CAMO or CAO through the logbook all defects found during operations;
+
+(vii) inform the competent authority of the Member State of registry whenever the present contract is denounced by either party;
+
+(viii) inform the competent authority of the Member State of registry and the contracted CAMO or CAO whenever the aircraft is sold;
+
+(ix) carry out all occurrence reporting mandated by applicable regulations;
+
+(x) inform on a regular basis the contracted CAMO or CAO about the aircraft flying-hours and any other utilisation data, as agreed with the contracted CAMO or CAO;
+
+(xi) enter the CRS in the logbooks, as mentioned in point ML.A.803(c), when performing pilot-owner maintenance;
+
+(xii) inform the contracted CAMO or CAO no later than 30 days after completion of any Pilot-owner maintenance task.
+
+(f) When an owner or operator contracts a CAMO or CAO in accordance with point ML.A.201 of this Annex, the obligations of each party in respect of mandatory and voluntary occurrence reporting in accordance with Regulation (EU) No 376/2014 shall be clearly specified.
+
+## Appendix II
+
+**Limited pilot-owner maintenance**
+
+In addition to the requirements laid down in this Annex, the pilot-owner shall comply with the following basic principles before it carries out any maintenance task:
+
+**(a) Competence and responsibility**
+
+(1) The pilot-owner shall always be responsible for any maintenance he performs.
+
+(2) The pilot-owner shall hold satisfactory level of competence to perform the task. It is the responsibility of a pilot-owner to familiarise himself with the standard maintenance practices for his aircraft and with the AMP.
+
+**(b) Tasks**
+
+The Pilot-owner may carry out simple visual inspections or operations to check the airframe, engines, systems and components for general condition, obvious damage and normal operation.
+
+A maintenance task shall not be released by the pilot-owner if any of the following conditions occurs:
+
+(1) it is a critical maintenance task;
+
+(2) it requires the removal of major components o r a major assembly;
+
+(3) it is carried out in compliance with an AD or an airworthiness limitation item (ALI) unless specifically allowed in the AD or the ALI;
+
+(4) it requires the use of special tools or calibrated tools (except for torque wrench and crimping tool);
+
+(5) it requires the use of test equipment or special testing (e.g. non-destructive testing (NDT), system tests or operational checks for avionics equipment);
+
+(6) it is composed of any unscheduled special inspections (e.g. heavy-landing check);
+
+(7) it affects systems essential for the instrumental flight rules (IFR) operations;
+
+(8) it is a complex maintenance task in accordance with Appendix III, or it is a component maintenance task in accordance with point (a) or (b) of point ML.A.502;
+
+(9) it is part of the 100-h/annual check (for those cases the maintenance task is combined with the airworthiness review performed by maintenance organisations or independent certifying staff).
+
+The criteria referred to in points (1) to (9) cannot be overridden by less restrictive instructions issued in accordance with the AMP referred to in point ML.A.302.
+
+Any task described in the aircraft flight manual (or other operational manuals), for example preparing the aircraft for flight (assembling the sailplane wings, or performing a preflight inspection, or assembling a basket, burner, fuel cylinders and an envelope combination for a balloon, etc.), is not considered a maintenance task and, therefore, does not require a CRS. Nevertheless, the person assembling those parts is responsible for ensuring that those parts are eligible for installation and in a serviceable condition.
+
+**(c) Performance and records of the pilot-owner maintenance tasks**
+
+The maintenance data, as specified in point ML.A.401, must always be available during the conduct of pilot-owner maintenance and must be complied with. Details of the data referred to in the conduct of pilot-owner maintenance must be included in the CRS in accordance with point (d) of point ML.A.803.
+
+The pilot-owner must inform the contracted CAMO or CAO (if such contract exists) about the completion of the pilot-owner maintenance tasks no later than 30 days after completion of these tasks in accordance with point (a) of point ML.A.305.
+
+## Appendix III
+
+**Complex maintenance tasks not to be released by the pilot-owner**
+
+All of the following constitutes the complex maintenance tasks which, according to Appendix II, shall not be carried out by the pilot-owner. Those tasks shall be released either by an approved maintenance organisation or by independent certifying staff:
+
+(a) the modification, repair or replacement by riveting, bonding, laminating, or welding of any of the following airframe parts:
+
+(1) a box beam;
+
+(2) a wing stringer or chord member;
+
+(3) a spar;
+
+(4) a spar flange;
+
+(5) a member of a truss type beam;
+
+(6) the web of a beam;
+
+(7) a keel or chine member of a flying boat hull or a float;
+
+(8) a corrugated sheet compression member in a wing or tail surface;
+
+(9) a wing main rib;
+
+(10) a wing or tail surface brace strut;
+
+(11) an engine mount;
+
+(12) a fuselage longeron or frame;
+
+(13) a member of a side truss, horizontal truss or bulkhead;
+
+(14) a seat support brace or bracket;
+
+(15) a seat rail replacement;
+
+(16) a landing-gear strut or brace strut;
+
+(17) an axle;
+
+(18) a wheel; and
+
+(19) a ski or ski pedestal, excluding the replacement of a low-friction coating;
+
+(b) the modification or repair of any of the following parts:
+
+(1) aircraft skin or the skin of an aircraft float if the work requires the use of a support, jig or fixture;
+
+(2) aircraft skin that is subject to pressurisation loads if the damage to the skin measures more than 15 cm (6 in.) in any direction;
+
+(3) a load-bearing part of a control system, including a control column, pedal, shaft, quadrant, bell crank, torque tube, control horn and forged or cast bracket, but excluding:
+
+(i) the swaging of a repair splice or cable fitting; and
+
+(ii) the replacement of a push-pull tube end fitting that is attached by riveting;
+
+(4) any other structure not listed in point (a) that a manufacturer has identified as primary structure in their maintenance manual, structural repair manual or instructions for continuing airworthiness;
+
+(c) the performance of all of the following maintenance on a piston engine:
+
+(1) dismantling and subsequent reassembling of a piston engine other than:
+
+(i) to obtain access to the piston/cylinder assemblies; or
+
+(ii) to remove the rear accessory cover to inspect and/or replace oil pump assemblies, where such work does not involve the removal and refitment of internal gears;
+
+(2) dismantling and subsequent reassembling of reduction gears;
+
+(3) welding and brazing of joints, other-than-minor weld repairs to exhaust units carried out by a suitably approved or authorised welder but excluding component replacement;
+
+(4) the disturbing of individual parts of units which are supplied as bench-tested units except for the replacement or adjustment of items normally replaceable or adjustable in service;
+
+(ca) the performance of maintenance on the power plant that would require disassembly of engine(s), main batteries or fuel cell(s), other than removing them from the aircraft and reinstalling them back (including removal/installation of engine bearings);
+
+(cb) the performance of maintenance on high-pressure reservoirs and components belonging to high-pressure lines/systems related to the power plant;
+
+(d) the balancing of a propeller, except:
+
+(1) for the certification of static balancing where required by the maintenance manual; and
+
+(2) dynamic balancing on installed propellers using electronic balancing equipment where permitted by the maintenance manual or other approved airworthiness data;
+
+(e) any additional task that requires:
+
+(1) specialised tooling, equipment or facilities; or
+
+(2) significant coordination procedures because of the extensive duration of the tasks and the involvement of several persons.
+
+## Appendix IV
+
+**Airworthiness Review Certificate - EASA Form 15c**
+
+NOTE: persons and organisations performing the airworthiness review in combination with the 100-h/annual inspection may use the reverse side of this form in order to issue the CRS referred to in point ML.A.801 corresponding to the 100-h/annual inspection.
+
+**AIRWORTHINESS REVIEW CERTIFICATE (ARC) (for aircraft complying with Part-ML)**
+
+ARC reference: …
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council:
+
+[NAME OF THE COMPETENT AUTHORITY]
+
+hereby certifies that:
+
+□ it has performed an airworthiness review, in accordance with point ML.A.903 of Annex Vb to Commission Regulation (EU) No 1321/2014, of the following aircraft:
+
+[or]
+
+□ the following new aircraft:
+
+Aircraft manufacturer: … Aircraft manufacturer designation: …
+
+Aircraft registration: … Aircraft serial number: …
+
+(and) is considered airworthy at the time of the review.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of the review (*): …
+
+Signed: … Authorisation No (if applicable): …
+
+[OR]
+
+[NAME OF APPROVED ORGANISATION, ADDRESS and APPROVAL REFERENCE] (**)
+
+[or]
+
+[FULL NAME OF THE CERTIFYING STAFF AND PART-66 LICENCE NUMBER (OR NATIONAL EQUIVALENT)] (**)
+
+hereby certifies that it has performed an airworthiness review, in accordance with point ML.A.903 of Annex Vb to Commission Regulation (EU) No 1321/2014, of the following aircraft:
+
+Aircraft manufacturer: … Aircraft manufacturer designation: …
+
+Aircraft registration: … Aircraft serial number: …
+
+and is considered airworthy at the time of the review.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of review (*): …
+
+Name and signature: … Authorisation No (if applicable): …
+
+=================================================================================
+
+First extension: The Airworthiness Review Certificate has been extended in accordance with point ML.A.902 of Annex Vb (Part-ML) to Regulation (EU) No 1321/2014.
+
+Date of issue: … Expiry date: …
+
+Airframe flight hours (FHs) on the date of issue (*): …
+
+Signed: … Authorisation No: …
+
+Name of approved organisation: … Approval reference: …
+
+=================================================================================
+
+Second extension: The Airworthiness Review Certificate has been extended in accordance with point ML.A.902 of Annex Vb (Part-ML) to Regulation (EU) No 1321/2014.
+
+Date of issue: … Date of expiry: …
+
+Airframe flight hours (FH) on the date of issue (*): …
+
+Signed: … Authorisation No: …
+
+Name of approved organisation: … Approval reference: …
+
+(*) Except for balloons and airships.
+
+(**) The issuer of the Form may tailor it to their need by deleting the name, the certifying statement, the reference to the subject aircraft and the issuance details that are not relevant for their use.
+
+When the Form is issued in a language other than English, it shall include an English translation.
+
+EASA Form 15c, Issue 5.
+
+## ANNEX Vc
+
+**(Part-CAMO)**
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td colspan="2">SECTION A — ORGANISATION REQUIREMENTS</td></tr>
+<tr><td>CAMO.A.005</td><td>Scope</td></tr>
+<tr><td>CAMO.A.105</td><td>Competent authority</td></tr>
+<tr><td>CAMO.A.115</td><td>Application for an organisation certificate</td></tr>
+<tr><td>CAMO.A.120</td><td>Means of compliance</td></tr>
+<tr><td>CAMO.A.125</td><td>Terms of approval and privileges of the organisation</td></tr>
+<tr><td>CAMO.A.130</td><td>Changes to the organisation</td></tr>
+<tr><td>CAMO.A.135</td><td>Continued validity</td></tr>
+<tr><td>CAMO.A.140</td><td>Access</td></tr>
+<tr><td>CAMO.A.150</td><td>Findings</td></tr>
+<tr><td>CAMO.A.155</td><td>Immediate reaction to a safety problem</td></tr>
+<tr><td>CAMO.A.160</td><td>Occurrence reporting</td></tr>
+<tr><td>CAMO.A.200</td><td>Management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>CAMO.A.200A</td><td>Information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>CAMO.A.202</td><td>Internal safety reporting scheme</td></tr>
+<tr><td>CAMO.A.205</td><td>Contracting and subcontracting</td></tr>
+<tr><td>CAMO.A.215</td><td>Facilities</td></tr>
+<tr><td>CAMO.A.220</td><td>Record-keeping</td></tr>
+<tr><td>CAMO.A.300</td><td>Continuing airworthiness management exposition (CAME)</td></tr>
+<tr><td>CAMO.A.305</td><td>Personnel requirements</td></tr>
+<tr><td>CAMO.A.310</td><td>Airworthiness review staff qualifications</td></tr>
+<tr><td>CAMO.A.315</td><td>Continuing airworthiness management</td></tr>
+<tr><td>CAMO.A.320</td><td>Airworthiness review</td></tr>
+<tr><td>CAMO.A.325</td><td>Continuing airworthiness management data</td></tr>
+<tr><td colspan="2">SECTION B — AUTHORITY REQUIREMENTS</td></tr>
+<tr><td>CAMO.B.005</td><td>Scope</td></tr>
+<tr><td>CAMO.B.115</td><td>Oversight documentation</td></tr>
+<tr><td>CAMO.B.120</td><td>Means of compliance</td></tr>
+<tr><td>CAMO.B.125</td><td>Information to the Agency</td></tr>
+<tr><td>CAMO.B.135</td><td>Immediate reaction to a safety problem</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>CAMO.B.135A</td><td>Immediate reaction to an information security incident or vulnerability with an impact on aviation safety</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>CAMO.B.200</td><td>Management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>CAMO.B.205</td><td>Allocation of tasks</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>CAMO.B.210</td><td>Changes in the management system</td></tr>
+<tr><td>CAMO.B.220</td><td>Record-keeping</td></tr>
+<tr><td>CAMO.B.300</td><td>Oversight principles</td></tr>
+<tr><td>CAMO.B.305</td><td>Oversight programme</td></tr>
+<tr><td>CAMO.B.310</td><td>Initial certification procedure</td></tr>
+<tr><td>CAMO.B.330</td><td>Changes</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>CAMO.B.330A</td><td>Changes to the information security management system</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>CAMO.B.350</td><td>Findings and corrective actions</td></tr>
+<tr><td>CAMO.B.355</td><td>Suspension, limitation and revocation</td></tr>
+transformed by post treatment<tr><td></td></tr>
+<tr><td>Appendix I —</td><td>Continuing Airworthiness Management Organisation Certificate - EASA Form 14</td></tr>
+transformed by post treatment<tr><td></td></tr>
+</table>
+
+**SECTION A**
+
+**ORGANISATION REQUIREMENTS**
+
+**CAMO.A.005 Scope**
+
+This Section establishes the requirements to be met by an organisation to qualify for the issue or continuation of a certificate for the management of continuing airworthiness of an aircraft and of components for installation.
+
+**CAMO.A.105 Competent authority**
+
+For the purpose of this Annex, the competent authority shall be:
+
+(a) for organisations having their principal place of business in a territory for which a Member State is responsible under the Chicago Convention, one of the following:
+
+(i) the authority designated by that Member State where that organisation’s principal place of business is located, if the approval is not included in an air operator certificate or if the CAMO is contracted in accordance with M.A.201(ea);
+
+(ii) the authority designated by the Member State of the operator, if the approval is included in an air operator certificate;
+
+(iii) the authority designated by a Member State other than (i) or (ii), if the responsibility has been reallocated to that Member State in accordance with Article 64 of Regulation (EU) 2018/1139;
+
+(iv) the Agency if the responsibility has been reallocated to the Agency in accordance with Articles 64 or 65 of Regulation (EU) 2018/1139;
+
+(b) the Agency if the organisation’s principal place of business is located outside a territory for which a Member State is responsible under the Chicago Convention.
+
+**CAMO.A.115 Application for an organisation certificate**
+
+(a) The application for a certificate or an amendment to an existing certificate in accordance with this Annex shall be made in a form and manner established by the competent authority, taking into account the applicable requirements of Annex I (Part-M), Annex Vb (Part-ML) and this Annex.
+
+(b) Applicants for an initial certificate pursuant to this Annex shall provide the competent authority with:
+
+(1) the results of a pre-audit performed by the organisation against the applicable requirements provided for in Annex I (Part-M), Annex Vb (Part-ML) and this Annex;
+
+(2) documentation demonstrating how they will comply with the requirements established in this Regulation.
+
+Such documentation shall include, as provided for in point CAMO.A.130, a procedure describing how changes not requiring prior approval will be managed and notified to the competent authority.
+
+**CAMO.A.120 Means of compliance**
+
+(a) Alternative means of compliance to the AMC adopted by the Agency may be used by an organisation to establish compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) When an organisation wishes to use an alternative means of compliance, it shall, prior to using it, provide the competent authority with a full description of the alternative means of compliance. The description shall include any revisions to manuals or procedures that may be relevant, as well as an assessment demonstrating compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+The organisation may use these alternative means of compliance subject to prior approval by the competent authority, and upon receipt of the notification as provided for in point CAMO.B.120.
+
+**CAMO.A.125 Terms of approval and privileges of the organisation**
+
+(a) The approval is indicated on the certificate, which is included in Appendix I, and is issued by the competent authority.
+
+(b) Notwithstanding point (a), for air carriers licensed in accordance with Regulation (EC) No 1008/2008, the approval shall be part of the air operator certificate issued by the competent authority for the aircraft operated except when, in accordance with point M.A.201(ea) of Annex I (Part-M), the CAMO is contracted by operators forming part of a single air carrier business grouping.
+
+(c) The scope of work shall be specified in the continuing airworthiness management exposition (CAME) in accordance with point CAMO.A.300.
+
+(d) An organisation approved in accordance with this Annex may:
+
+(1) manage the continuing airworthiness of aircraft, except those used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, as listed on the certificate;
+
+(2) manage the continuing airworthiness of aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, when listed both on its certificate and on the air operator certificate or when M.A.201(ea) applies;
+
+(3) arrange to carry out limited continuing airworthiness tasks with any subcontracted organisation, working under its management system, as listed on the certificate;
+
+(4) extend the validity of an existing airworthiness review certificate in accordance with point M.A.902(a) of Annex I (Part-M) or point ML.A.902(a) of Annex Vb (Part-ML), as applicable, subject to the conditions set out in point M.A.902(b) of Annex I (Part-M) or point ML.A.902(b) of Annex Vb (Part-ML), as applicable.
+
+(5) approve the AMP, in accordance with point (b)(2) of point ML.A.302, for aircraft managed in accordance with Annex Vb (Part-ML).
+
+(e) An organisation approved in accordance with this Annex and having its principal place of business in a Member State may additionally be approved to carry out airworthiness reviews in accordance with point M.A.903 of Annex I (Part-M) or point ML.A.903 of Annex Vb (Part-ML), as applicable, and:
+
+(1) issue the related airworthiness review certificate under the conditions set out in point M.A.901(b)(1) of Annex I (Part-M) or in accordance with point ML.A.901(b) of Annex Vb (Part-ML), as applicable;
+
+(2) issue a recommendation for the issuance of an airworthiness review certificate to the competent authority of the Member State of registry, under the conditions set out in point M.A.901(b)(2) of Annex I (Part-M).
+
+(f) An organisation holding the privileges referred to in point (e) of this point may additionally be approved to issue a permit to fly in accordance with point 21.A.711(d) of Annex I (Part 21) to Regulation (EU) No 748/2012 for the aircraft for which the organisation is approved to carry out the airworthiness review, when the organisation attests conformity with the approved flight conditions, subject to an adequate procedure in the CAME referred to in point CAMO.A.300 of this Annex.
+
+In addition, in the case of aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, or for aircraft above 2 730 kg MTOM, that permit to fly may be issued provided that:
+
+(i) the conditions referred to in points M.A.902(b)(1) and M.A.902(b)(2) are met;
+
+(ii) the continuing airworthiness of the aircraft is managed by the CAMO issuing the permit to fly.
+
+(g) An organisation holding the privileges referred to in point (e) may additionally, for the aircraft for which the organisation is approved to carry out the airworthiness review, and subject to an adequate procedure in the CAME referred to in point CAMO.A.300, be approved to:
+
+(1) develop an evaluation programme in accordance with point 21.A.174(d)(3) of Annex I (Part 21) or, as applicable, point 21L.A.143(h)(3) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(2) conduct the investigations activities proposed in the evaluation programme and issue the evaluation report in accordance with point 21.A.174(d)(4) of Annex I (Part 21) or, as applicable, point 21L.A.143(h)(4) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+Tasks referred to in the first paragraph, points (1) and (2), shall be performed by staff who are approved to carry out airworthiness review for that aircraft.
+
+**CAMO.A.130 Changes to the organisation**
+
+(a) The following changes to the organisation shall require prior approval:
+
+(1) changes that affect the scope of the certificate or the terms of approval of the organisation;
+
+(2) changes to personnel nominated in accordance with points (a)(3) to (a)(5) and (b)(2) of point CAMO.A.305;
+
+(3) changes to the reporting lines between the personnel nominated in accordance with points (a)(3) to (a)(5) and (b)(2) of point CAMO.A.305, and the accountable manager;
+
+(4) the procedure as regards changes not requiring prior approval referred to in point (c).
+
+(b) For any changes requiring prior approval in accordance with Regulation (EU) 2018/1139 and its delegated and implementing acts, the organisation shall apply for and obtain an approval issued by the competent authority. The application shall be submitted before any such change takes place, in order to enable the competent authority to determine continued compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts and to amend, if necessary, the organisation certificate and related terms of approval attached to it.
+
+The organisation shall provide the competent authority with any relevant documentation.
+
+The change shall only be implemented upon receipt of formal approval by the competent authority in accordance with point CAMO.B.330.
+
+The organisation shall operate under the conditions established by the competent authority during such changes, as applicable.
+
+(c) All changes not requiring prior approval shall be managed and notified to the competent authority as defined in the procedure referred to in point (b) of point CAMO.A.115 and approved by the competent authority in accordance with point (h) of point CAMO.B.310.
+
+**CAMO.A.135 Continued validity**
+
+(a) The organisation's certificate shall remain valid subject to compliance with all of the following conditions:
+
+(1) the organisation remaining in compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts, taking into account the provisions related to the handling of findings as specified under point CAMO.B.350;
+
+(2) the competent authority being granted access to the organisation as specified in point CAMO.A.140;
+
+(3) the certificate not being surrendered or revoked.
+
+(b) For air carriers licensed in accordance with Regulation (EC) No 1008/2008, termination, suspension or revocation of the air operator certificate automatically invalidates the organisation certificate in relation to the aircraft registrations specified in the air operator certificate, unless otherwise explicitly stated by the competent authority.
+
+(c) Notwithstanding point (b), when the CAMO is contracted by operators forming part of a single air carrier business grouping in accordance with point M.A.201(ea) of Annex I (Part-M), the termination, suspension or revocation of the air operator certificate does not automatically invalidate the CAMO’s certificate. In this case, the contract in accordance with Appendix I to Annex I (Part-M) to this Regulation becomes void.
+
+(d) Upon revocation or surrender, the organisation certificate shall be returned to the competent authority without delay.
+
+**CAMO.A.140 Access**
+
+For the purpose of determining compliance with the relevant requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, the organisation shall grant access at any time to any facility, aircraft, document, records, data, procedures or any other material relevant to its activity subject to certification, whether it is contracted/subcontracted or not, to any person authorised by one of the following authorities:
+
+(a) the competent authority defined in point CAMO.A.105;
+
+(b) the authority acting under the provisions of point (d) of point CAMO.B.300 or point (e) of point CAMO.B.300.
+
+**CAMO.A.150 Findings**
+
+(a) After receipt of notification of findings according to point CAMO.B.350, the organisation shall:
+
+(1) identify the root cause or causes of and contributing factors to the non-compliance;
+
+(2) define a corrective action plan;
+
+(3) demonstrate corrective action implementation to the satisfaction of the competent authority.
+
+(b) Actions referred to in points (a)(1), (a)(2) and (a)(3) shall be performed within the period agreed with that competent authority as defined in point CAMO.B.350.
+
+**CAMO.A.155 Immediate reaction to a safety problem**
+
+The organisation shall implement:
+
+(a) any safety measures mandated by the competent authority in accordance with point CAMO.B.135;
+
+(b) any relevant mandatory safety information issued by the Agency.
+
+**CAMO.A.160 Occurrence reporting**
+
+(a) As part of its management system, the organisation shall establish and maintain an occurrence reporting system, including mandatory and voluntary reporting. For organisations that have their principal place of business in a Member State, a single system may be established to meet the requirements of Regulation (EU) No 376/2014 and its delegated and implementing acts and of Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) The organisation shall report to its competent authority and to the organisation responsible for the design of the aircraft or component any safety-related event or condition of an aircraft or component identified by the organisation which endangers or, if not corrected or addressed, could endanger an aircraft, its occupants or any other person, and in particular any accident or serious incident.
+
+(c) The organisation shall also report any such event or condition that affects an aircraft or component, as applicable:
+
+(1) to the owner or operator of that aircraft, when such event or condition was identified while managing the continuing airworthiness in accordance with point M.A.201 of Annex I (Part-M) or point ML.A.201 of Annex Vb (Part-ML), as applicable;
+
+(2) to the person or organisation that is responsible for the continuing airworthiness of that aircraft in accordance with point M.A.201 of Annex I (Part-M) or point ML.A.201 of Annex Vb (Part-ML), as applicable, when such event or condition was identified while carrying out continuing airworthiness activities requested by that person or organisation.
+
+(d) For organisations that do not have their principal place of business in a Member State:
+
+(1) the initial mandatory report shall:
+
+(i) appropriately safeguard the confidentiality of the identity of the reporter and of the persons mentioned in the report;
+
+(ii) be made as soon as practicable, but in any case, within 72 hours after the organisation has become aware of the occurrence unless exceptional circumstances prevent that;
+
+(iii) be made in a form and manner established by the competent authority;
+
+(iv) contain all pertinent information about the condition known to the organisation;
+
+(2) where relevant, a follow-up report that provides details of the actions that the organisation intends to take to prevent similar occurrences in the future shall be made as soon as those actions have been identified; those follow-up reports shall:
+
+(i) be sent to the entities referred to in points (b) and (c) to which the initial report was sent;
+
+(ii) be made in a form and manner established by the competent authority.
+
+**CAMO.A.200 Management system**
+
+(a) The organisation shall establish, implement, and maintain a management system that includes:
+
+(1) clearly defined lines of responsibility and accountability throughout the organisation, including a direct safety accountability of the accountable manager;
+
+(2) a description of the overall philosophies and principles of the organisation with regard to safety, referred to as the safety policy;
+
+(3) the identification of aviation safety hazards entailed by the activities of the organisation, their evaluation and the management of associated risks, including taking actions to mitigate the risks and verify their effectiveness;
+
+(4) maintaining personnel trained and competent to perform their tasks;
+
+(5) documentation of all management system key processes, including a process for making personnel aware of their responsibilities and the procedure for amending this documentation;
+
+(6) a function to monitor compliance of the organisation with the relevant requirements. Compliance monitoring shall include a feedback system of findings to the accountable manager to ensure effective implementation of corrective actions as necessary;
+
+(7) any additional requirements that are laid down in this Regulation.
+
+(b) The management system shall correspond to the size of the organisation and the nature and complexity of its activities, taking into account the hazards and associated risks inherent in these activities.
+
+(c) Where the organisation holds one or more additional organisation certificates within the scope of Regulation (EU) 2018/1139 and its delegated and implementing acts, the management system may be integrated with that required under the additional certificate(s) held.
+
+(d) Notwithstanding point (c), for air carriers licensed in accordance with Regulation (EC) No 1008/2008, the management system provided for in this Annex shall be an integrated part of the operator's management system.
+
+(e) When, in accordance with point M.A.201(ea) of Annex I (Part-M), a contract is concluded between a CAMO and operators forming part of a single air carrier business grouping, the CAMO shall ensure that its management system is harmonised with the management systems of the operators forming part of that business grouping.
+
+**CAMO.A.200A Information security management system**
+
+In addition to the management system referred to in point CAMO.A.200, the organisation shall establish, implement and maintain an information security management system in accordance with Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+**CAMO.A.202 Internal safety reporting scheme**
+
+(a) As part of its management system, the organisation shall establish an internal safety reporting scheme to enable the collection and evaluation of such occurrences to be reported under point CAMO.A.160.
+
+(b) The scheme shall also enable the collection and evaluation of those errors, near misses, and hazards reported internally that do not fall under point (a).
+
+(c) Through this scheme, the organisation shall:
+
+(1) identify the causes of and contributing factors to any errors, near misses, and hazards reported and address them as part of safety risk management in accordance with point (a)(3) of point CAMO.A.200;
+
+(2) ensure evaluation of all known, relevant information relating to errors, the inability to follow procedures, near misses, and hazards, and a method to circulate the information as necessary.
+
+(d) The organisation shall provide access to its internal safety reporting scheme to any subcontracted organisation.
+
+(e) The organisation shall cooperate on safety investigations with any other organisation having a significant contribution to the safety of its own continuing airworthiness management activities.
+
+**CAMO.A.205 Contracting and subcontracting**
+
+(a) The organisation shall ensure that when contracting maintenance or when subcontracting any part of its continuing airworthiness management activities:
+
+(1) these activities conform to the applicable requirements; and
+
+(2) any aviation safety hazards associated with such contracting or subcontracting are considered as part of the organisation's management system.
+
+(b) When the organisation subcontracts any part of its continuing airworthiness management activities to another organisation, the subcontracted organisation shall work under the approval of the organisation. The organisation shall ensure that the competent authority is given access to the subcontracted organisation, to determine continued compliance with the applicable requirements.
+
+**CAMO.A.215 Facilities**
+
+The organisation shall provide suitable office accommodation at appropriate locations for the personnel specified in point CAMO.A.305.
+
+**CAMO.A.220 Record-keeping**
+
+(a) Continuing airworthiness management records
+
+(1) The organisation shall ensure that records required by points M.A.305, ML.A.305 and, if applicable point M.A.306, are retained.
+
+(2) The organisation shall record all details of work carried out.
+
+(3) The organisation shall retain a copy of each airworthiness review certificate and recommendation that are issued, as applicable, together with the airworthiness review report.
+
+(4) The organisation shall retain a copy of each evaluation programme and evaluation report that are issued in accordance with the provisions of point 21.A.174(d) of Annex I (Part 21) or, as applicable, point 21L.A.143(h) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+(5) The organisation shall retain a copy of each permit to fly that is issued, and the related documents, in accordance with the provisions of point 21.A.5(c)(2) of Annex I (Part 21) or, as applicable, point 21L.A.7(c) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 for a period of 5 years from the date on which the permit to fly was issued.
+
+(6) The organisation shall retain a copy of all records referred to in points (2), (3) and (4) of this point for a period of 3 years after the continuing airworthiness management of the aircraft in accordance with point M.A.201 of Annex I (Part-M) or point ML.A.201 of Annex Vb (Part-ML), as applicable, has been transferred to another person or organisation.
+
+(7) If the organisation issuing the airworthiness review certificate, recommendation, evaluation programme/report or permit to fly is different from the organisation managing the continuing airworthiness of the aircraft, the issuing organisation shall retain a copy of all records referred to in points (3), (4) and (5) and all supporting documents for a period of 5 years from the date on which the airworthiness review certificate, recommendation, evaluation programme/report or permit to fly was issued.
+
+(8) When the organisation ceases operations, all retained records shall be transferred to the owner of the aircraft.
+
+(b) Management system, contracting and subcontracting records
+
+(1) The organisation shall ensure that the following records are retained:
+
+(i) records of management system key processes as defined in point CAMO.A.200;
+
+(ii) contracts, both for contracting and subcontracting, as defined in point CAMO.A.205;
+
+(2) Management system records, as well as any contracts pursuant to point CAMO.A.205, shall be kept for a minimum period of 5 years.
+
+(c) Personnel records
+
+(1) The organisation shall ensure that the following records are retained:
+
+(i) records of qualification and experience of personnel involved in continuing airworthiness management, compliance monitoring and safety management;
+
+(ii) records of qualification and experience of all airworthiness review staff, as well as staff issuing recommendations and permits to fly.
+
+(2) The records of all airworthiness review staff, staff issuing recommendations and staff issuing permits to fly shall include details of any appropriate qualification held together with a summary of the relevant continuing airworthiness management experience and training and a copy of the authorisation.
+
+(3) Personnel records shall be kept as long as the person works for the organisation, and shall be retained until 3 years after the person has left the organisation.
+
+(d) The organisation shall establish a system of record-keeping that allows adequate storage and reliable traceability of all activities developed.
+
+(e) The format of the records shall be specified in the organisation's procedures.
+
+(f) Records shall be stored in a manner that ensures protection from damage, alteration and theft.
+
+**CAMO.A.300 Continuing airworthiness management exposition (CAME)**
+
+(a) The organisation shall provide the competent authority with a CAME and, where applicable, any referenced associated manuals and procedures, containing all of the following information:
+
+(1) a statement signed by the accountable manager confirming that the organisation will at all times work in accordance with this Annex, Annex I (Part-M) and Annex Vb (Part-ML), as applicable, and with the approved CAME. When the accountable manager is not the chief executive officer of the organisation, then such chief executive officer shall countersign the statement;
+
+(2) the organisation's safety policy as defined in point (a)(2) of point CAMO.A.200;
+
+(3) the organisation's scope of work relevant to the terms of approval;
+
+(4) a general description of the manpower resources and of the system in place to plan the availability of staff as required by point (d) of point CAMO.A.305;
+
+(5) the title(s) and name(s) of person(s) referred to in points (a)(3) to (a)(5), (b)(2) and (f) of point CAMO.A.305;
+
+(6) the duties, accountabilities, responsibilities and authorities of the persons nominated under points (a)(3) to (a)(5), (b)(2), (e) and (f) of point CAMO.A.305;
+
+(7) an organisation chart showing the associated chains of accountability and responsibility between all the person(s) referred to in points (a)(3) to (a)(5), (b)(2), (e) and (f) of point CAMO.A.305, and related to point (a)(1) of point CAMO.A.200;
+
+(8) a list of the staff authorised to issue airworthiness review certificates or recommendations as referred to in point CAMO.A.305(e), specifying, where applicable, the staff authorised to issue permits to fly in accordance with point CAMO.A.125(f) as well as the staff authorised to develop an evaluation programme and conduct the corresponding investigation activities in accordance with point CAMO.A.125(g);
+
+(9) a general description and location of the facilities;
+
+(10) the description of the internal safety reporting scheme as required by point CAMO.A.202;
+
+(11) the procedures specifying how the organisation ensures compliance with this Annex, Annex I (Part-M) and Annex Vb (Part-ML), as applicable, including in particular:
+
+(i) the documentation of management system key processes as required by point CAMO.A.200;
+
+(ii) procedures defining how the organisation controls any contracted and subcontracted activities as required by point CAMO.A.205 and point (c) of point CAMO.A.315);
+
+(iii) continuing airworthiness management, airworthiness review, evaluation programme and permit to fly procedures, as applicable;
+
+(iv) the procedure defining the scope of changes not requiring prior approval and describing how such changes will be managed and notified, as required by point (b) of point CAMO.A.115 and point (c) of point CAMO.A.130;
+
+(v) the CAME amendment procedures.
+
+(12) the list of approved aircraft maintenance programmes for those aircraft for which a continuing airworthiness management contract exists in accordance with point M.A.201 or ML.A.201;
+
+(13) the list of maintenance contracts in accordance with point (c) of point CAMO.A.315;
+
+(14) the list of currently approved alternative means of compliance.
+
+(b) The initial issue of the CAME shall be approved by the competent authority. It shall be amended as necessary to remain an up-to-date description of the organisation.
+
+(c) Amendments to the CAME shall be managed as defined in the procedures referred to in points (a)(11)(iv) and (a)(11)(v). Any amendments not included in the scope of the procedure referred to in point (a)(11)(iv), as well as amendments related to the changes listed in point CAMO.A.130(a), shall be approved by the competent authority.
+
+**CAMO.A.305 Personnel requirements**
+
+(a) The organisation shall appoint an accountable manager, who has corporate authority for ensuring that all continuing airworthiness management activities can be financed and carried out in accordance with Regulation (EU) 2018/1139 and delegated and implementing acts adopted on the basis thereof. The accountable manager shall:
+
+(1) ensure that all necessary resources are available to manage continuing airworthiness in accordance with this Annex, Annex I (Part-M) and Annex Vb (Part-ML), as applicable, to support the organisation approval certificate;
+
+(2) establish and promote the safety policy specified in point CAMO.A.200;
+
+(3) nominate a person or group of persons with the responsibility of ensuring that the organisation always complies with the applicable continuing airworthiness management, airworthiness review and permit to fly requirements of this Annex, Annex I (Part-M) and Annex Vb (Part-ML);
+
+(4) nominate a person or group of persons with the responsibility for managing the compliance monitoring function as part of the management system;
+
+(5) nominate a person or group of persons with the responsibility for managing the development, administration, and maintenance of effective safety management processes as part of the management system;
+
+(6) ensure that the person or group of persons nominated in accordance with points (a)(3) to (a)(5) and (b)(2) of point CAMO.A.305 have direct access to keep him/her properly informed on compliance and safety matters;
+
+(7) demonstrate a basic understanding of this Regulation.
+
+(b) For organisations also approved as air carriers licensed in accordance with Regulation (EC) No 1008/2008, the accountable manager shall in addition:
+
+(1) be the person appointed as accountable manager for the air carrier as required by point (a) of point ORO.GEN.210 of Annex III (Part-ORO) to Regulation (EU) No 965/2012;
+
+(2) nominate a person responsible for the management and supervision of continuing airworthiness, who shall not be employed by an organisation approved in accordance with Annex II (Part-145) under contract to the operator, unless specifically agreed by the competent authority.
+
+(ba) If involved in continuing airworthiness management activities related to a contract established in accordance with point M.A.201(ea), the person or persons nominated in accordance with point (a)(3) of point CAMO.A.305 shall not be employed by an organisation approved in accordance with Annex II (Part-145) under contract to the CAMO, unless specifically agreed by the competent authority.
+
+(c) The person or persons nominated in accordance with points (a)(3) to (a)(5) and (b)(2) of point CAMO.A.305 shall be able to demonstrate relevant knowledge, background and satisfactory experience related to aircraft continuing airworthiness management and demonstrate a working knowledge of this Regulation. Such person(s) shall be ultimately responsible to the accountable manager.
+
+(d) The organisation shall have a system in place to plan the availability of staff to ensure that the organisation has sufficient appropriately qualified staff to plan, perform, supervise, inspect and monitor the organisation's activities in accordance with the terms of approval.
+
+(e) To be approved to carry out airworthiness reviews or recommendations in accordance with point (e) of point CAMO.A.125 and, if applicable, to issue permits to fly in accordance with point (f) of point CAMO.A.125, the organisation shall have airworthiness review staff qualified and authorised in accordance with point CAMO.A.310.
+
+(f) For organisations extending airworthiness review certificates in accordance with point (d)(4) of point CAMO.A.125, the organisation shall nominate persons authorised to do so.
+
+(g) The organisation shall establish and control the competency of personnel involved in compliance monitoring, safety management, continuing airworthiness management, airworthiness reviews or recommendations, and, if applicable, issuing permits to fly, in accordance with a procedure and to a standard agreed by the competent authority. In addition to the necessary expertise related to the job function, competency must include an understanding of safety management and human factors principles appropriate to the person's function and responsibilities in the organisation.
+
+**CAMO.A.310 Airworthiness review staff qualifications**
+
+(a) In order to be approved to carry out airworthiness reviews and, if applicable, to issue permits to fly, the organisation shall have airworthiness review staff that comply with all the following requirements:
+
+(1) they have acquired at least 5 years of experience in continuing airworthiness;
+
+(2) they hold an appropriate licence in compliance with Annex III (Part-66), or an aeronautical degree or national equivalent;
+
+(3) they have received formal aeronautical maintenance training;
+
+(4) they have a position within the approved organisation with appropriate responsibilities.
+
+(b) Notwithstanding points (a)(1), (a)(3) and (a)(4), the requirement laid down in point (a)(2) may be replaced with 5 years of experience in continuing airworthiness additional to those already required by point (a)(1).
+
+(c) Before the organisation issues an airworthiness review authorisation to a candidate, that person shall perform an airworthiness review under the supervision of the competent authority or under the supervision of a person that is already authorised as airworthiness review staff by the organisation, in accordance with a procedure approved by the competent authority. If that airworthiness review under supervision is satisfactory, the competent authority shall formally accept that person to become airworthiness review staff.
+
+(d) The organisation shall ensure that airworthiness review staff can demonstrate appropriate recent continuing airworthiness management experience.
+
+**CAMO.A.315 Continuing airworthiness management**
+
+(a) The organisation shall ensure that all continuing airworthiness management is carried out in accordance with Section A, Subpart C of Annex I (Part-M), or Section A Subpart C of Annex Vb (Part-ML), as applicable.
+
+(b) For every aircraft managed, the organisation shall in particular:
+
+(1) ensure that an aircraft maintenance programme including any applicable reliability programme, as required by point M.A.302 or ML.A.302 as applicable, is developed and controlled;
+
+(2) for aircraft not used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, provide a copy of the aircraft maintenance programme to the owner or operator responsible in accordance with point M.A.201 or ML.A.201 as applicable;
+
+(3) ensure that data used for any modification and repairs complies with points M.A.304 or ML.A.304 as applicable;
+
+(4) for all complex motor-powered aircraft or aircraft used by air carriers licensed in accordance with Regulation (EC) No 1008/2008, establish a procedure to assess non-mandatory modifications and/or inspections and decide on their application, making use of the organisation's safety risk management process as required by point (a)(3) of point CAMO.A.200;
+
+(5) ensure that the aircraft, engine(s), propeller(s) and components thereof are taken to an appropriately approved maintenance organisation referred to in Subpart F of Annex I (Part-M), Annex II (Part-145) or Annex Vd (Part-CAO) whenever necessary;
+
+(6) order maintenance, supervise activities, and coordinate related decisions to ensure that any maintenance is carried out properly and is appropriately released for the determination of aircraft airworthiness.
+
+(c) Where the organisation is not appropriately approved in accordance with Subpart F of Annex I (Part-M), Annex II (Part-145) or Annex Vd (Part-CAO) it shall, in consultation with the operator, manage the written maintenance contracts required by points (e)(3), (f)(3), (g)(3) and (h)(3) of M.A.201 or point ML.A.201 to ensure that:
+
+(1) all maintenance is ultimately carried out by an appropriately approved maintenance organisation;
+
+(2) the functions required under points (b), (c), (f) and (g) of point M.A.301 of Annex I (Part-M) or point ML.A.301 of Annex Vb (Part-ML), as applicable, are clearly specified.
+
+(d) Notwithstanding point (c), the contract may be in the form of individual work orders addressed to the maintenance organisation in the case of:
+
+(1) an aircraft requiring unscheduled line maintenance;
+
+(2) component maintenance, including engine and propeller maintenance, as applicable.
+
+(e) The organisation shall ensure that human factors and human performance limitations are taken into account during continuing airworthiness management, including all contracted and subcontracted activities.
+
+**CAMO.A.320 Airworthiness review**
+
+When the organisation approved in accordance with point CAMO.A.125(e) of this Annex carries out airworthiness reviews, they shall be carried out in accordance with point M.A.903 of Annex I (Part-M) or point ML.A.903 of Annex Vb (Part-ML), as applicable.
+
+**CAMO.A.325 Continuing airworthiness management data**
+
+The organisation shall hold and use applicable current maintenance data in accordance with point M.A.401 of Annex I (Part-M) or point ML.A.401 of Annex Vb (Part-ML), as applicable, for the performance of continuing airworthiness tasks referred to in point CAMO.A.315 of this Annex (Part-CAMO). That data may be provided by the owner or the operator, subject to an appropriate contract being established with such an owner or operator. In such case, the continuing airworthiness management organisation shall only keep such data for the duration of the contract, except when otherwise required by point CAMO.A.220(a).
+
+**SECTION B**
+
+**AUTHORITY REQUIREMENTS**
+
+**CAMO.B.005 Scope**
+
+This Section establishes the administrative and management system requirements to be followed by the competent authority in charge of the implementation and enforcement of Section A of this Annex.
+
+**CAMO.B.115 Oversight documentation**
+
+The competent authority shall provide all legislative acts, standards, rules, technical publications, and related documents to relevant personnel in order to allow them to perform their tasks and to discharge their responsibilities.
+
+**CAMO.B.120 Means of compliance**
+
+(a) The Agency shall develop Acceptable Means of Compliance (‘AMC’) that may be used to establish compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) Alternative means of compliance may be used to establish compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts
+
+(c) The competent authority shall establish a system to consistently evaluate that all alternative means of compliance used by itself or by organisations under its oversight allow for the establishment of compliance with Regulation (EU) No 2018/1139 and its delegated and implementing acts.
+
+(d) The competent authority shall evaluate all alternative means of compliance proposed by an organisation in accordance with point CAMO.A.120 by analysing the documentation provided and, if considered necessary, conducting an inspection of the organisation.
+
+When the competent authority finds that the alternative means of compliance are in accordance with Regulation (EU) 2018/1139 and its delegated and implementing acts, it shall without undue delay:
+
+(1) notify the applicant that the alternative means of compliance may be implemented and, if applicable, amend the approval or certificate of the applicant accordingly;
+
+(2) notify the Agency of their content, including copies of all relevant documentation.
+
+(e) When the competent authority itself uses alternative means of compliance to achieve compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts it shall:
+
+(1) make them available to all organisations and persons under its oversight;
+
+(2) without undue delay notify the Agency.
+
+The competent authority shall provide the Agency with a full description of the alternative means of compliance, including any revisions to procedures that may be relevant, as well as an assessment demonstrating that they comply with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+**CAMO.B.125 Information to the Agency**
+
+(a) The competent authority of the Member State shall notify the Agency in case of any significant problems with the implementation of Regulation (EU) 2018/1139 and its delegated and implementing acts within 30 days from the time the authority became aware of the problems.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the competent authority shall provide the Agency as soon as possible with any safety-significant information stemming from the occurrence reports stored in the national database pursuant to Article 6(6) of Regulation (EU) No 376/2014.
+
+(c) The competent authority of the Member State shall provide the Agency as soon as possible with safety-significant information stemming from the information security reports it has received pursuant to point IS.I.OR.230 of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203.
+
+**CAMO.B.135 Immediate reaction to a safety problem**
+
+(a) Without prejudice to Regulation (EU) No 376/2014 and Commission Implementing Regulation (EU) 2015/1018 ( 14 ), the competent authority shall implement a system to appropriately collect, analyse, and disseminate safety information.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety information received, and without undue delay provide to Member States and the Commission any information, including recommendations or corrective actions to be taken, necessary for them to react in a timely manner to a safety problem involving products, parts, appliances, persons or organisations subject to Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority shall take adequate measures to address the safety problem.
+
+(d) Measures taken under point (c) shall immediately be notified to all persons or organisations which need to comply with them under Regulation (EU) 2018/1139 and and its delegated and implementing acts. The competent authority shall also notify those measures to the Agency and, when combined action is required, the other Member States concerned.
+
+**CAMO.B.135A Immediate reaction to an information security incident or vulnerability with an impact on aviation safety**
+
+(a) The competent authority shall implement a system to appropriately collect, analyse, and disseminate information related to information security incidents and vulnerabilities with a potential impact on aviation safety that are reported by organisations. This shall be done in coordination with any other relevant authorities responsible for information security or cybersecurity within the Member State to increase the coordination and compatibility of reporting schemes.
+
+(b) The Agency shall implement a system to appropriately analyse any relevant safety-significant information received in accordance with point CAMO.B.125(c), and without undue delay provide the Member States and the Commission with any information, including recommendations or corrective actions to be taken, necessary for them to react in a timely manner to an information security incident or vulnerability with a potential impact on aviation safety involving products, parts, non-installed equipment, persons or organisations subject to Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(c) Upon receiving the information referred to in points (a) and (b), the competent authority shall take adequate measures to address the potential impact on aviation safety of the information security incident or vulnerability.
+
+(d) Measures taken in accordance with point (c) shall immediately be notified to all persons or organisations that shall comply with them under Regulation (EU) 2018/1139 and its delegated and implementing acts. The competent authority of the Member State shall also notify those measures to the Agency and, when combined action is required, the competent authorities of the other Member States concerned.
+
+**CAMO.B.200 Management system**
+
+(a) The competent authority shall establish and maintain a management system, including as a minimum:
+
+(1) documented policies and procedures to describe its organisation, means and methods to comply with Regulation (EU) 2018/1139 and its delegated and implementing acts. The procedures shall be kept up to date, and serve as the basic working documents within that competent authority for all related tasks;
+
+(2) a sufficient number of personnel to perform its tasks and discharge its responsibilities. A system shall be in place to plan the availability of personnel, in order to ensure the proper completion of all tasks;
+
+(3) personnel qualified to perform their allocated tasks and have the necessary knowledge, experience, initial and recurrent training to ensure continuing competency;
+
+(4) adequate facilities and office accommodation to perform the allocated tasks;
+
+(5) a function to monitor compliance of the management system with the relevant requirements and adequacy of the procedures including the establishment of an internal audit process and a safety risk management process. Compliance monitoring shall include a feedback system of audit findings to the senior management of the competent authority to ensure implementation of corrective actions as necessary;
+
+(6) a person or group of persons ultimately responsible to the senior management of the competent authority for the compliance monitoring function.
+
+(b) The competent authority shall, for each field of activity, including management system, appoint one or more persons with the overall responsibility for the management of the relevant task(s).
+
+(c) The competent authority shall establish procedures for participation in a mutual exchange of all necessary information and assistance with other competent authorities concerned, including all findings raised and follow-up actions taken as a result of oversight of persons and organisations exercising activities in the territory of a Member State, but certified by the competent authority of another Member State or the Agency.
+
+(d) A copy of the procedures related to the management system and their amendments shall be made available to the Agency for the purpose of standardisation and to the organisations subject to this Regulation, if so requested.
+
+(e) In addition to the requirements contained in point (a), the management system established and maintained by the competent authority shall comply with Annex I (Part-IS.AR) to Implementing Regulation (EU) 2023/203 in order to ensure the proper management of information security risks which may have an impact on aviation safety.
+
+**CAMO.B.205 Allocation of tasks**
+
+(a) Tasks related to the initial certification, or continuing oversight of persons, or organisations subject to Regulation (EU) 2018/1139 and its delegated and implementing acts may be allocated by Member States only to qualified entities. When allocating tasks, the competent authority shall ensure that it has:
+
+(1) put a system in place to initially and continuously assess that the qualified entity complies with Annex VI ‘Essential requirements for qualified entities’ to Regulation (EU) 2018/1139. This system and the results of the assessments shall be documented;
+
+(2) established a documented agreement with the qualified entity, approved by both parties at the appropriate management level, which clearly defines:
+
+(i) the tasks to be performed;
+
+(ii) the declarations, reports, and records to be provided;
+
+(iii) the technical conditions to be met in performing such tasks;
+
+(iv) the related liability coverage;
+
+(v) the protection given to information acquired in carrying out such tasks.
+
+(b) The competent authority shall ensure that the internal audit process and safety risk management process required by point (a)(5) of point CAMO.B.200 covers all certification, or continuing oversight tasks performed on its behalf.
+
+(c) With regard to the certification and oversight of the organisation’s compliance with point CAMO.A.200A, the competent authority may allocate tasks to qualified entities in accordance with point (a), or to any relevant authority responsible for information security or cybersecurity within the Member State. When allocating tasks, the competent authority shall ensure that:
+
+(1) all aspects related to aviation safety are coordinated and taken into account by the qualified entity or relevant authority;
+
+(2) the results of the certification and oversight activities performed by the qualified entity or relevant authority are integrated in the overall certification and oversight files of the organisation;
+
+(3) its own information security management system established in accordance with point CAMO.B.200(e) covers all the certification and continuing oversight tasks performed on its behalf.
+
+**CAMO.B.210 Changes in the management system**
+
+(a) The competent authority shall have a system in place to identify changes that affect its capability to perform its tasks and discharge its responsibilities as defined in Regulation (EU) 2018/1139 and its delegated and implementing acts. This system shall enable it to take action as appropriate to ensure that its management system remains adequate and effective.
+
+(b) The competent authority shall update its management system to reflect any change to Regulation (EU) 2018/1139 and its delegated and implementing acts in a timely manner, so as to ensure effective implementation.
+
+(c) The competent authority shall notify the Agency of changes affecting its capability to perform its tasks and discharge its responsibilities as defined in Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+**CAMO.B.220 Record-keeping**
+
+(a) The competent authority shall establish a system of record-keeping that allows adequate storage, accessibility, and reliable traceability of:
+
+(1) the management system's documented policies and procedures;
+
+(2) training, qualification, and authorisation of its personnel;
+
+(3) the allocation of tasks, covering the elements required by point CAMO.B.205, as well as the details of tasks allocated;
+
+(4) certification processes and continuing oversight of certified organisations, including:
+
+(i) the application for an organisation certificate;
+
+(ii) the competent authority's continuing oversight programme, including all assessment, audit and inspection records;
+
+(iii) the organisation certificate, including any changes thereto;
+
+(iv) a copy of the oversight programme listing the dates when audits are due and when audits were carried out;
+
+(v) copies of all formal correspondence;
+
+(vi) details of findings, corrective actions, date of action closure, any exemption and enforcement actions;
+
+(vii) any assessment, audit and inspection reports issued by another competent authority pursuant to point (d) of point CAMO.B.300;
+
+(viii) copies of all organisation CAMEs or manuals and amendments thereto;
+
+(ix) copies of any other document approved by the competent authority;
+
+(5) the evaluation and notification to the Agency of alternative means of compliance proposed by organisations, and the assessment of alternative means of compliance used by the competent authority itself;
+
+(6) safety information and follow-up measures in accordance with point CAMO.B.125;
+
+(7) the use of flexibility provisions in accordance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) The competent authority shall maintain a list of all organisation certificates it issued.
+
+(c) All records referred to in points (a) and (b) shall be kept for a minimum period of 5 years subject to applicable data protection law.
+
+(d) All records referred to in points (a) and (b) shall be made available upon request to a competent authority of another Member State or the Agency.
+
+**CAMO.B.300 Oversight principles**
+
+(a) The competent authority shall verify:
+
+(1) compliance with the requirements applicable to organisations prior to the issue of an organisation certificate, as applicable;
+
+(2) continued compliance with the applicable requirements of organisations it has certified;
+
+(3) implementation of appropriate safety measures mandated by the competent authority as defined in points (c) and (d) of point CAMO.B.135.
+
+(b) This verification shall:
+
+(1) be supported by documentation specifically intended to provide personnel responsible for safety oversight with guidance to perform their functions;
+
+(2) provide the organisations concerned with the results of safety oversight activity;
+
+(3) be based on assessments, audits and inspections, including unannounced inspections;
+
+(4) provide the competent authority with the evidence needed in case further action is required, including the measures provided for in point CAMO.B.350 ‘Findings and corrective actions’.
+
+(c) The scope of oversight defined in points (a) and (b) shall take into account the results of past oversight activities and the safety priorities.
+
+(d) Where organisation facilities are located in more than one State, the competent authority as defined in point CAMO.A.105 may agree to have oversight tasks performed by the competent authority(ies) of the Member State(s) where facilities are located, or by the Agency for facilities located in a third country. Any organisation subject to such agreement shall be informed of its existence and of its scope.
+
+(e) For oversight performed at facilities located in another State, the competent authority as defined in point CAMO.A.105 shall inform the competent authority of such State, or the Agency for facilities of organisations having their principal place of business in a third country, before performing any on-site audit or inspection of such facilities.
+
+(f) The competent authority shall collect and process any information deemed useful for oversight, including for unannounced inspections.
+
+(g) When a contract is concluded in accordance with point M.A.201(ea) of Annex I (Part-M), the competent authority responsible for the oversight of the CAMO and the competent authorities responsible for the oversight of the operators concerned shall cooperate to ensure the exchange of information which is relevant for the performance of their tasks. This cooperation shall include the exchange of information on results of the oversight activities performed by those competent authorities and may include the performance of oversight tasks on the CAMO by the competent authorities responsible for the operators.
+
+(h) With regard to the certification and oversight of the organisation’s compliance with point CAMO.A.200A, in addition to complying with points (a) to (f), the competent authority shall review any approval granted under point IS.I.OR.200(e) of this Regulation or point IS.D.OR.200(e) of Delegated Regulation (EU) 2022/1645 following the applicable oversight audit cycle and whenever changes are implemented in the scope of work of the organisation.
+
+**CAMO.B.305 Oversight programme**
+
+(a) The competent authority shall establish and maintain an oversight programme covering the oversight activities required by point CAMO.B.300.
+
+(b) The oversight programme shall be developed taking into account the specific nature of the organisation, the complexity of its activities, the results of past certification and/or oversight activities, and shall be based on the assessment of associated risks. It shall include within each oversight planning cycle:
+
+(1) assessments, audits and inspections, including unannounced inspections and, as applicable:
+
+(i) management system assessments and process audits;
+
+(ii) product audits of a relevant sample of aircraft managed by the organisation;
+
+(iii) sampling of airworthiness reviews performed;
+
+(iv) sampling of permits to fly issued;
+
+(2) meetings convened between the accountable manager and the competent authority to ensure both remain informed of significant issues.
+
+(c) For organisations certified by the competent authority, an oversight planning cycle not exceeding 24 months shall be applied.
+
+(d) Notwithstanding point (c), the oversight planning cycle may be extended up to 36 months if the competent authority has established that during the previous 24 months:
+
+(1) the organisation has demonstrated an effective identification of aviation safety hazards and management of associated risks;
+
+(2) the organisation has continuously demonstrated under point CAMO.A.130 that it has full control over all changes;
+
+(3) no level 1 findings have been issued;
+
+(4) all corrective actions have been implemented within the time period accepted or extended by the competent authority as defined in point CAMO.B.350.
+
+Notwithstanding point (c), the oversight planning cycle may be further extended to a maximum of 48 months if, in addition to the conditions provided in points (1) to (4) of the first subparagraph, the organisation has established, and the competent authority has approved, an effective continuous reporting system to the competent authority on the safety performance and regulatory compliance of the organisation itself.
+
+(e) The oversight planning cycle may be reduced if there is any evidence that the safety performance of the organisation has decreased.
+
+(f) The oversight programme shall include records of the dates when audits, inspections and meetings are due, and when such audits, inspections and meetings have been carried out.
+
+(g) At the completion of each oversight planning cycle, the competent authority shall issue a recommendation report on the continuation of the approval reflecting the results of oversight.
+
+**CAMO.B.310 Initial certification procedure**
+
+(a) Upon receiving an application for the initial issue of a certificate for an organisation, the competent authority shall verify the organisation's compliance with the applicable requirements.
+
+(b) A meeting with the accountable manager of the organisation shall be convened at least once during the investigation for initial certification to ensure that he/she fully understands the significance of the certification process and the reason for signing the statement of the organisation to comply with the procedures specified in the CAME.
+
+(c) The competent authority shall record all findings, closure actions (actions required to close a finding) and recommendations.
+
+(d) The competent authority shall confirm in writing all the findings raised during the verification to the organisation. For initial certification, all findings must be corrected to the satisfaction of the competent authority before the certificate can be issued.
+
+(e) When satisfied that the organisation complies with the applicable requirements, the competent authority shall:
+
+(1) issue the certificate as established in Appendix I ‘EASA Form 14’ to this Annex;
+
+(2) formally approve the CAME.
+
+(f) The certificate reference number shall be included on the EASA Form 14 certificate in a manner specified by the Agency.
+
+(g) The certificate shall be issued for an unlimited duration. The privileges, scope of the activities that the organisation is approved to conduct, including any limitations as applicable, shall be specified in the terms of approval attached to the certificate.
+
+(h) To enable the organisation to implement changes without prior competent authority approval in accordance with point (c) of point CAMO.A.130, the competent authority shall approve the relevant CAME procedure defining the scope of such changes and describing how such changes will be managed and notified.
+
+**CAMO.B.330 Changes**
+
+(a) Upon receiving an application for a change that requires prior approval, the competent authority shall verify the organisation's compliance with the applicable requirements before issuing the approval.
+
+(b) The competent authority shall establish the conditions under which the organisation may operate during the change unless the competent authority determines that the organisation's certificate needs to be suspended.
+
+(c) When satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+(d) Without prejudice to any additional enforcement measures, when the organisation implements changes requiring prior approval without having received competent authority approval pursuant to point (c), the competent authority shall suspend, limit or revoke the organisation's certificate.
+
+(e) For changes not requiring prior approval, the competent authority shall assess the information provided in the notification sent by the organisation in accordance with point (c) of point CAMO.A.130 to verify compliance with the applicable requirements. In case of any non-compliance, the competent authority shall:
+
+(1) notify the organisation about the non-compliance and request further changes;
+
+(2) in case of level 1 or level 2 findings, act in accordance with point CAMO.B.350.
+
+**CAMO.B.330A Changes to the information security management system**
+
+(a) For changes managed and notified to the competent authority in accordance with the procedure set out in point IS.I.OR.255(a) of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203, the competent authority shall include the review of such changes in its continuing oversight in accordance with the principles laid down in point CAMO.B.300. If any non-compliance is found, the competent authority shall notify the organisation thereof, request further changes and act in accordance with point CAMO.B.350.
+
+(b) For other changes requiring an application for approval in accordance with point IS.I.OR.255(b) of Annex II (Part-IS.I.OR) to Implementing Regulation (EU) 2023/203:
+
+(1) upon receiving the application for the change, the competent authority shall check the organisation’s compliance with the applicable requirements before issuing the approval;
+
+(2) the competent authority shall establish the conditions under which the organisation may operate during the implementation of the change;
+
+(3) if it is satisfied that the organisation complies with the applicable requirements, the competent authority shall approve the change.
+
+**CAMO.B.350 Findings and corrective actions**
+
+(a) The competent authority shall have a system to analyse findings for their safety significance.
+
+(b) A level 1 finding shall be issued by the competent authority when any significant non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation's procedures and manuals, or with the terms of an approval or certificate which lowers safety or seriously endangers flight safety.
+
+The level 1 findings shall include:
+
+(1) failure to give the competent authority access to the organisation's facilities as defined in point CAMO.A.140 during normal operating hours and after two written requests;
+
+(2) obtaining or maintaining the validity of the organisation certificate by falsification of submitted documentary evidence;
+
+(3) evidence of malpractice or fraudulent use of the organisation certificate;
+
+(4) the lack of an accountable manager.
+
+(c) A level 2 finding shall be issued by the competent authority when any non-compliance is detected with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts, with the organisation's procedures and manuals, or with the terms of an approval or certificate which may lower safety or endanger flight safety.
+
+(d) When a finding is detected during oversight or by any other means, the competent authority shall, without prejudice to any additional action required by Regulation (EU) 2018/1139 and its delegated and implementing acts, communicate the finding to the organisation in writing, and request corrective action to address the non-compliance(s) identified. Where a finding directly relates to an aircraft, the competent authority shall inform the State in which the aircraft is registered.
+
+(1) In the case of level 1 findings, the competent authority shall take immediate and appropriate action to prohibit or limit activities and, if appropriate, it shall take action to revoke the certificate or to limit or suspend it in whole or in part, depending upon the extent of the level 1 finding until successful corrective action has been taken by the organisation.
+
+(2) In the case of level 2 findings, the competent authority shall:
+
+(i) grant the organisation a corrective action implementation period appropriate to the nature of the finding, that in any case initially shall not be more than 3 months. It shall commence from the date of the written communication of the finding to the organisation, requesting corrective action to address the non-compliance identified. At the end of this period, and subject to the nature of the finding and past safety performance of the organisation, the competent authority may extend the 3-month period subject to a satisfactory corrective action plan agreed by the competent authority;
+
+(ii) assess the corrective action and implementation plan proposed by the organisation, and if the assessment concludes that they are sufficient to address the non-compliance(s), accept these.
+
+(3) Where an organisation fails to submit an acceptable corrective action plan, or to perform the corrective action within the time period accepted or extended by the competent authority, the finding shall be raised to a level 1 finding and action taken as laid down in point (d)(1).
+
+(4) The competent authority shall record all findings it has raised or that have been communicated to it in accordance with point (e) and, where applicable, the enforcement measures it has applied, as well as all corrective actions and date of action closure for findings.
+
+(e) Without prejudice to any additional enforcement measures, when the authority of a Member State acting under the provisions of point (d) of point CAMO.B.300 identifies any non-compliance with the applicable requirements of Regulation (EU) 2018/1139 and its delegated and implementing acts by an organisation certified by the competent authority of another Member State or the Agency, it shall inform that competent authority and provide an indication of the level of finding.
+
+**CAMO.B.355 Suspension, limitation and revocation**
+
+The competent authority shall:
+
+(a) suspend a certificate on reasonable grounds in the case of potential safety threat;
+
+(b) suspend, revoke or limit a certificate pursuant to point CAMO.B.350;
+
+(c) suspend certificate in case the competent authority's inspectors are unable over a period of 24 months to discharge their oversight responsibilities through on-site audit(s) due to the security situation in the State where the facilities are located.
+
+## Appendix I — Continuing Airworthiness Management Organisation Certificate – EASA Form 14
+
+[MEMBER STATE (*)]
+
+A Member of the European Union (**)
+
+CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATION CERTIFICATE
+
+Reference: [MEMBER STATE CODE *].CAMO.XXXX
+
+(Reference(s): include here the AOC approval(s) AOC XX.XXXX)
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency and to Commission Regulation (EU) No 1321/2014, and subject to the conditions specified below, the [COMPETENT AUTHORITY OF THE MEMBER STATE*] hereby certifies:
+
+[COMPANY NAME AND ADDRESS]
+
+as a continuing airworthiness management organisation in compliance with Section A of Annex Vc (Part-CAMO) to Commission Regulation (EU) No 1321/2014.
+
+CONDITIONS:
+
+1\. This certificate is limited to the scope specified in the scope of work section of the approved continuing airworthiness management exposition (CAME) as referred to in Section A of Annex Vc (Part-CAMO) to Commission Regulation (EU) No 1321/2014.
+
+2\. This certificate requires compliance with the procedures specified in the CAME approved in accordance with Annex Vc (Part-CAMO) to Commission Regulation (EU) No 1321/2014.
+
+3\. This certificate is valid whilst the approved continuing airworthiness management organisation remains in compliance with Annex I (Part-M), Annex Vb (Part-ML) and Annex Vc (Part-CAMO) to Commission Regulation (EU) No 1321/2014.
+
+4\. Where the continuing airworthiness management organisation subcontracts under its management system the service of an (several) organisation(s), this certificate remains valid subject to such organisation(s) fulfilling the applicable contractual obligations.
+
+5\. Subject to compliance with the conditions 1 to 4 above, this certificate shall remain valid for an unlimited duration unless the certificate has previously been surrendered, superseded, suspended or revoked.
+
+If this form is also used for air operator certificate (AOC) holders (air carriers licensed in accordance with Regulation (EC) No 1008/2008), the AOC number, or if in accordance with point M.A.201(ea) of Annex I (Part – M) to Commission Regulation (EU) No 1321/2014, the AOC numbers, shall be added to the reference, in addition to the standard number, and condition 5 shall be replaced with the following additional conditions:
+
+6\. This certificate does not constitute an authorisation to operate the types of aircraft referred to in condition 1. The authorisation to operate the aircraft is the AOC.
+
+7\. Termination, suspension or revocation of the AOC of an air carrier licensed in accordance with Regulation (EC) No 1008/2008 automatically invalidates the present certificate in relation to the aircraft registrations specified in the AOC except when the CAMO is contracted in accordance with point M.A.201(ea) of Annex I (Part – M) to Commission Regulation (EU) No 1321/2014, unless otherwise explicitly stated by the competent authority.
+
+8\. Subject to compliance with the previous conditions, this certificate shall remain valid for an unlimited duration unless the certificate has previously been surrendered, superseded, suspended or revoked.
+
+Date of original issue: ….
+
+Signed: …
+
+Date of this revision: …Revision No: …
+
+For the competent authority: [COMPETENT AUTHORITY OF THE MEMBER STATE (*)]
+
+Page … of …
+
+Page 2 of 2
+
+CONTINUING AIRWORTHINESS MANAGEMENT ORGANISATION
+
+TERMS OF APPROVAL
+
+Reference: [MEMBER STATE CODE *].CAMO.XXXX
+
+(Reference(s) AOC XX.XXXX)
+
+Organisation: [COMPANY NAME AND ADDRESS]
+
+| Aircraft type/series/group | Airworthiness review authorised | Permits to fly authorised | Subcontracted organisations |
+| --- | --- | --- | --- |
+|  | [YES/NO] *** | [YES/NO] *** |  |
+|  | [YES/NO] *** | [YES/NO] *** |  |
+|  | [YES/NO] *** | [YES/NO] *** |  |
+|  | [YES/NO] *** | [YES/NO] *** |  |
+
+The terms of approval are limited to the scope of work contained in the approved CAME section…
+
+CAME reference: …
+
+Date of original issue: …
+
+Signed: …
+
+Date of this revision: … Revision No: …
+
+For the Competent Authority: [COMPETENT AUTHORITY OF THE MEMBER STATE *]
+
+EASA Form 14 Issue 6
+
+(*) or ‘EASA’, if EASA is the competent authority
+
+(**) delete for non-EU Member State or EASA
+
+(***) delete as appropriate if the organisation is not approved.
+
+## ANNEX Vd
+
+**(Part-CAO)**
+
+<table>
+<tr><td colspan="2">CONTENTS</td></tr>
+<tr><td>CAO.1</td><td>General</td></tr>
+<tr><td>SECTION A —</td><td>ORGANISATION REQUIREMENTS</td></tr>
+<tr><td>CAO.A.010</td><td>Scope</td></tr>
+<tr><td>CAO.A.015</td><td>Application</td></tr>
+<tr><td>CAO.A.017</td><td>Means of compliance</td></tr>
+<tr><td>CAO.A.020</td><td>Terms of approval</td></tr>
+<tr><td>CAO.A.025</td><td>Combined airworthiness exposition</td></tr>
+<tr><td>CAO.A.030</td><td>Facilities</td></tr>
+<tr><td>CAO.A.035</td><td>Personnel requirements</td></tr>
+<tr><td>CAO.A.040</td><td>Certifying staff</td></tr>
+<tr><td>CAO.A.045</td><td>Airworthiness review staff</td></tr>
+<tr><td>CAO.A.050</td><td>Components, equipment and tools</td></tr>
+<tr><td>CAO.A.055</td><td>Maintenance data and work orders</td></tr>
+<tr><td>CAO.A.060</td><td>Maintenance standards</td></tr>
+<tr><td>CAO.A.065</td><td>Aircraft certificate of release to service</td></tr>
+<tr><td>CAO.A.070</td><td>Component certificate of release to service</td></tr>
+<tr><td>CAO.A.075</td><td>Continuing airworthiness management</td></tr>
+<tr><td>CAO.A.080</td><td>Continuing airworthiness management data</td></tr>
+<tr><td>CAO.A.085</td><td>Airworthiness review</td></tr>
+<tr><td>CAO.A.090</td><td>Record-keeping</td></tr>
+<tr><td>CAO.A.095</td><td>Privileges of the organisation</td></tr>
+<tr><td>CAO.A.100</td><td>Quality system and organisational review</td></tr>
+<tr><td>CAO.A.105</td><td>Changes to the organisation</td></tr>
+<tr><td>CAO.A.110</td><td>Continued validity</td></tr>
+<tr><td>CAO.A.115</td><td>Findings</td></tr>
+<tr><td>CAO.A.120</td><td>Occurrence reporting</td></tr>
+<tr><td>SECTION B —</td><td>AUTHORITY REQUIREMENTS</td></tr>
+<tr><td>CAO.B.010</td><td>Scope</td></tr>
+<tr><td>CAO.B.017</td><td>Means of compliance</td></tr>
+<tr><td>CAO.B.020</td><td>Record-keeping</td></tr>
+<tr><td>CAO.B.025</td><td>Mutual exchange of information</td></tr>
+<tr><td>CAO.B.030</td><td>Responsibilities</td></tr>
+<tr><td>CAO.B.035</td><td>Exemptions</td></tr>
+<tr><td>CAO.B.040</td><td>Application</td></tr>
+<tr><td>CAO.B.045</td><td>Initial certification procedure</td></tr>
+<tr><td>CAO.B.050</td><td>Issuance of the initial certificate</td></tr>
+<tr><td>CAO.B.055</td><td>Continuing oversight</td></tr>
+<tr><td>CAO.B.060</td><td>Findings</td></tr>
+<tr><td>CAO.B.065</td><td>Changes</td></tr>
+<tr><td>CAO.B.070</td><td>Suspension, limitation and revocation</td></tr>
+<tr><td>CAO.B.075</td><td>Information to the Agency</td></tr>
+<tr><td>Appendix I —</td><td>Combined airworthiness organisation (CAO) certificate — EASA Form 3-CAO</td></tr>
+</table>
+
+**CAO.1 General**
+
+For the purpose of this Annex (Part-CAO):
+
+(1) the competent authority shall be:
+
+(a) for organisations having their principal place of business in a Member State, the authority designated by that Member State;
+
+(b) for organisations having their principal place of business in a third country, the Agency.
+
+(2) ‘owner’ means the person responsible for the continuing airworthiness of the aircraft, including the following persons:
+
+(i) the registered owner of the aircraft;
+
+(ii) the lessee in the case of a leasing contract;
+
+(iii) the operator.
+
+**SECTION A**
+
+**ORGANISATION REQUIREMENTS**
+
+**CAO.A.010 Scope**
+
+This Annex establishes the requirements to be met by a combined airworthiness organisation (CAO) in order to be issued, upon application, an approval for the maintenance and continuing airworthiness management of aircraft and components for installation thereon, and to continue carrying out those activities, where such aircraft are not classified as complex motor-powered aircraft and are not listed in the air operator certificate of an air carrier licensed in accordance with Regulation (EC) No 1008/2008.
+
+**CAO.A.015 Application**
+
+CAOs shall apply for the issuance of, or change to, a CAO approval to the competent authority in a form and manner established by that authority.
+
+**CAO.A.017 Means of compliance**
+
+(a) Alternative means of compliance to the acceptable means of compliance adopted by the Agency may be used by an organisation to demonstrate compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) When an organisation wishes to use alternative means of compliance, it shall, prior to using it, provide the competent authority with a full description of those alternative means of compliance. That description shall include an assessment demonstrating compliance of alternative means of compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+The organisation may use those alternative means of compliance subject to prior approval by the competent authority, and upon receipt of the notification as provided for in point CAO.B.017.
+
+**CAO.A.020 Terms of approval**
+
+(a) The CAO shall specify the approved scope of work in its combined airworthiness exposition (CAE), as provided for in point CAO.A.025.
+
+(1) For aeroplanes of more than 2 730 kg maximum take-off mass (MTOM) and for helicopters of more than 1 200 kg MTOM or certified for more than four occupants and for other aircraft which are not ELA2, the scope of work shall indicate the particular aircraft types. Changes to this scope of work shall be approved by the competent authority in accordance with point (a) of point CAO.A.105 and point (a) of point CAO.B.065.
+
+(2) For engines other than piston or electric, the scope of work shall indicate the engine manufacturer or group or series or type or the maintenance task(s). Changes to this scope of work shall be approved by the competent authority in accordance with point (a) of point CAO.A.105 and point (a) of point CAO.B.065.
+
+(3) A CAO which employs only one person for both planning and carrying out of all maintenance tasks cannot hold privileges for the maintenance of:
+
+(a) aeroplanes, helicopters and other aircraft which are not ELA2, if their power plant is other than electric or piston engine(s) (in the case of aircraft-rated organisations);
+
+(b) helicopters equipped with more than one piston engine (in the case of aircraft-rated organisations);
+
+(c) complete engines other than piston engines with output power below 450 HP or electric engines (in the case of engine-rated organisations).
+
+(4) For aircraft other than those mentioned in point (1), for components different from complete turbine engines and for non-destructive testing (NDT)-specialised services, the scope of work shall be controlled by the CAO in accordance with the procedure set out in point (a)(11) of point CAO.A.025. For maintenance of components different from complete engines, the scope of work shall be classified in accordance with the following system ratings:
+
+(i) C1: air conditioning and pressurisation;
+
+(ii) C2: auto flight;
+
+(iii) C3: communications and navigation;
+
+(iv) C4: doors and hatches;
+
+(v) C5: electrical power and lights;
+
+(vi) C6: equipment;
+
+(vii) C7: engine;
+
+(viii) C8: flight controls;
+
+(ix) C9: fuel;
+
+(x) C10: helicopter and rotors;
+
+(xi) C11: helicopter transmission;
+
+(xii) C12: hydraulic power;
+
+(xiii) C13: indicating and recording system;
+
+(xiv) C14: landing gear;
+
+(xv) C15: oxygen;
+
+(xvi) C16: propellers;
+
+(xvii) C17: pneumatic and vacuum systems;
+
+(xviii) C18: protection from ice/rain/fire;
+
+(xix) C19: windows;
+
+(xx) C20: structural;
+
+(xxi) C21: water ballast;
+
+(xxii) C22: propulsion augmentation;
+
+(xxiii) C23: other.
+
+Organisations obtaining an approval in accordance with this Annex on the basis of an existing organisation approval issued in accordance with Subpart G or Subpart F of Annex I (Part-M) or Annex II (Part-145) in accordance with paragraph 4 of Article 4, shall include in the scope of work all the necessary details to ensure that the privileges are identical to the ones included in the existing approval.
+
+(b) The CAO approval shall be issued on the basis of the template set out in Appendix I to this Annex.
+
+(c) A CAO may fabricate, in conformity with maintenance data, a restricted range of parts for use in the course of undergoing work within its own facilities, as indicated in their CAE.
+
+**CAO.A.025 Combined airworthiness exposition**
+
+(a) The CAO shall provide a manual containing at least the following information:
+
+(1) a statement signed by the accountable manager confirming that the organisation will at all times work in accordance with the requirements of this Annex and the CAE;
+
+(2) the CAE's scope of work;
+
+(3) the title(s) and name(s) of the person(s) referred to in points (a) and (b) of point CAO.A.035;
+
+(4) an organisation chart showing the chains of responsibility between the person(s) referred to in points (a) and (b) of CAO.A.035;
+
+(5) a list of certifying staff with their scope of approval, if such staff exist;
+
+(6) a list of staff responsible for the development and approval of aircraft maintenance programmes (AMPs) with their scope of approval, if such staff exist;
+
+(7) a list of airworthiness review staff with their scope of approval, as well as staff authorised to develop an evaluation programme and conduct the corresponding investigation activities, if such staff exist;
+
+(8) a list of staff responsible for the issuance of permits to fly, if such staff exist;
+
+(9) a general description and location of the facilities;
+
+(10) procedures specifying how the CAO shall ensure compliance with the requirements of this Annex;
+
+(11) the CAE amendment procedure, as provided for in point (b) of point CAO.A.105.
+
+(b) The initial CAE shall be approved by the competent authority.
+
+(c) Amendments to the CAE shall be handled in accordance with point CAO.A.105.
+
+**CAO.A.030 Facilities**
+
+The CAO shall ensure that all necessary facilities, including adequate office accommodation are provided for it to be able to carry out all the planned work.
+
+In addition, where the scope of approval of the organisation includes maintenance activities, the CAO shall ensure that:
+
+(a) specialised workshops, hangars and bays provide adequate protection from contamination and the environment;
+
+(b) secure storage facilities are provided for components, equipment, tools and material, under conditions ensuring that unserviceable components and materials are segregated from all other components, material, equipment and tools, that the manufacturer's instructions for storage are complied with and that access to the storage facilities is restricted to authorised personnel.
+
+**CAO.A.035 Personnel requirements**
+
+(a) The CAO shall appoint an accountable manager, who shall have an authority for ensuring that all activities of the organisation can be financed so that those activities are carried out in accordance with the requirements of this Annex.
+
+(b) The accountable manager shall nominate a person or group of persons who shall be responsible for ensuring that the CAO is always in compliance with the requirements of this Annex. Those person(s) shall ultimately be responsible to the accountable manager.
+
+(c) All persons referred to in point (b) shall have the relevant knowledge, background and experience related to continuing airworthiness management or maintenance, as appropriate for their functions.
+
+(d) The CAO shall have sufficient appropriately qualified staff for it to be able to carry out the planned work. The CAO shall be entitled to use temporarily subcontracted staff.
+
+(e) The CAO shall assess and record the qualification of all personnel.
+
+(f) Personnel who carry out specialised tasks, such as welding, or non-destructive testing (‘NDT’) inspection other than colour contrast inspections shall be qualified in accordance with an officially-recognised standard
+
+**CAO.A.040 Certifying staff**
+
+(a) Certifying staff shall comply with the requirements of Article 5. They shall only exercise their privileges to release maintenance if the CAO has ensured:
+
+(1) that these certifying staff meet the requirements of point (b) of point 66.A.20 of Annex III (Part-66) except when paragraph 6 of Article 5 refers to a national regulation of a Member State, in which case, they shall meet the requirements of such a regulation;
+
+(2) that these certifying staff have an adequate understanding of the relevant aircraft or aircraft component(s) to be maintained, or both, as well as of the organisation procedures required to perform such maintenance.
+
+(b) By derogation from point (a), in unforeseen circumstances where an aircraft is grounded at a location other than the main base where no appropriate certifying staff are available, the CAO contracted to provide maintenance support may issue a one-off certification authorisation, alternatively:
+
+(1) to one of their employees holding type qualifications for aircraft of similar technology, construction and systems;
+
+(2) to any person with no less than 3 years of maintenance experience and holding a valid ICAO aircraft maintenance licence rated for the aircraft type requiring certification, provided that there is no organisation approved in accordance with this Annex at that location and that the contracted CAO obtains and holds on file evidence of the experience and licence of that person.
+
+The issuance of a one-off certification authorisation shall be reported by the CAO to the competent authority within 7 days of the issuance. The CAO issuing the one-off certification authorisation shall ensure that any such maintenance that could affect flight safety is rechecked.
+
+(c) By derogation from point (a), the CAO may use certifying staff qualified in accordance with the following requirements when providing maintenance support to operators involved in commercial operations, subject to appropriate procedures to be approved as part of the CAE:
+
+(1) for a repetitive preflight airworthiness directive (AD) which specifically states that the flight crew may carry out such an AD, the CAO may issue a limited certifying-staff authorisation to the pilot-in-command on the basis of the flight crew licence held, provided that the CAO ensures that sufficient practical training has been carried out by the pilot-in-command so he/she can accomplish the AD to the required standard;
+
+(2) in the case of aircraft operating away from a supported location, the CAO may issue a limited certifying-staff authorisation to the pilot-in-command, on the basis of the flight crew licence held, provided that the organisation ensures that sufficient practical training has been carried out so that such a commander can accomplish the task to the required standard.
+
+(d) The CAO shall record the details concerning certifying staff and maintain an up-to-date list of all certifying staff, together with details on their scope of approval, as part of the organisation's exposition.
+
+**CAO.A.045 Airworthiness review staff**
+
+(a) In order to be approved to carry out airworthiness reviews and, if applicable, to issue permits to fly, the organisation shall have airworthiness review staff that comply with all the following requirements:
+
+(1) they have acquired experience in continuing airworthiness of at least 1 year for sailplanes and balloons and of at least 3 years for all other aircraft;
+
+(2) they hold an appropriate licence in compliance with Annex III (Part-66), or an aeronautical degree or national equivalent, or they have acquired experience in continuing airworthiness in addition to that referred to in point (1) of at least 2 years for sailplanes and balloons and at least 4 years for all other aircraft;
+
+(3) they have received formal aeronautical maintenance training.
+
+(b) Before the organisation issues an airworthiness review authorisation to a candidate, that person shall perform an airworthiness review under the supervision of the competent authority or under the supervision of a person that is already authorised as airworthiness review staff by the organisation, in accordance with a procedure approved by the competent authority. If that airworthiness review under supervision is satisfactory, the competent authority shall formally accept that person to become airworthiness review staff.
+
+(c) The CAO shall ensure that its airworthiness review staff can demonstrate appropriate recent continuing airworthiness experience.
+
+(d) Each airworthiness review staff shall be identified in the CAE in a list that contains the airworthiness review authorisation referred in point (b).
+
+(e) The CAO shall maintain a record of all its airworthiness review staff, which shall include details of any appropriate qualification and a summary of relevant continuing airworthiness experience and training of the person concerned, as well as a copy of his or her authorisation. It shall retain that record for a period of at least 2 years after the date at which the person concerned no longer works for the CAO.
+
+**CAO.A.050 Components, equipment and tools**
+
+(a) The CAO shall:
+
+(1) hold the equipment and tools specified in the maintenance data provided for in point CAO.A.055, or verified equivalents as listed in the CAE, as necessary for day-to-day maintenance within the scope of the organisation's approval;
+
+(2) have a procedure to ensure that it has access to all other equipment and tools necessary to carry out its work, used only on an occasional basis, where needed.
+
+(b) The CAO shall ensure that the tools and equipment it uses are controlled and calibrated to an officially recognised standard. It shall keep records of such calibrations and the standards used and comply with point CAO.A.090.
+
+(c) The CAO shall inspect, classify and appropriately segregate all incoming components in accordance with points M.A.501 and M.A.504 of Annex I (Part-M) or with points ML.A.501 and ML.A.504 of Annex Vb (Part-ML), as applicable.
+
+**CAO.A.055 Maintenance data and work orders**
+
+(a) The CAO shall hold and use applicable current maintenance data specified in point M.A.401 of Annex I (Part-M) or in point ML.A.401 of Annex Vb (Part-ML), as applicable, in the performance of maintenance, including modifications and repairs. However, in the case of customer-provided maintenance data, it shall only be required to hold such data when the work is in progress.
+
+(b) Before the commencement of maintenance, a written work order shall be agreed between the CAO and the person or organisation requesting maintenance, in a manner that clearly establishes the maintenance to be carried out.
+
+**CAO.A.060 Maintenance standards**
+
+When performing maintenance, the CAO shall comply with all of the following requirements:
+
+(a) ensure that any person performing maintenance is qualified in accordance with the requirements of this Annex;
+
+(b) ensure that the area in which maintenance is carried out is well organised and clean (no dirt or contamination);
+
+(c) use the methods, techniques, standards and instructions specified in the maintenance data and work orders referred to in point CAO.A.055;
+
+(d) use the tools, equipment and material specified in point CAO.A.050;
+
+(e) ensure that maintenance is performed in accordance with any environmental limitations specified in the maintenance data referred to in point CAO.A.055;
+
+(f) ensure that proper facilities are used in case of inclement weather or lengthy maintenance;
+
+(g) ensure that the risk of multiple errors during maintenance and the risk of errors being repeated in identical maintenance tasks are minimised;
+
+(h) ensure that an error-capturing method is implemented after the performance of any critical maintenance task;
+
+(i) perform a general verification after completion of maintenance in order to ensure that the aircraft or component is clear of all tools, equipment and any extraneous parts and material and that all access panels removed have been refitted;
+
+(j) ensure that all maintenance performed is properly recorded and documented.
+
+**CAO.A.065 Aircraft certificate of release to service**
+
+At the completion of any aircraft maintenance carried out in accordance with this Annex, an aircraft CRS shall be issued in accordance with point M.A.801 of Annex I (Part-M) or point ML.A.801 of Annex Vb (Part-ML), as applicable.
+
+**CAO.A.070 Component certificate of release to service**
+
+(a) At the completion of all component maintenance in accordance with this Annex, a component CRS shall be issued in accordance with point M.A.802 of Annex I (Part-M) or point ML.A.802 of Annex Vb (Part-ML), as applicable. An EASA Form 1 shall be issued in accordance with Appendix II to Annex I (Part-M), except as provided for in points (b) or (d) of point M.A.502 of Annex I (Part-M) and point ML.A.502 of Annex Vb (Part-ML) and for components fabricated in accordance with point (c) of point CAO.A.020.
+
+(b) The EASA Form 1 referred to in point (a) may be generated from a computer database.
+
+**CAO.A.075 Continuing airworthiness management**
+
+(a) All continuing airworthiness management shall be carried out in accordance with the requirements of Subpart C of Annex I (Part-M) or Subpart C of Annex Vb (Part-ML), as applicable.
+
+(b) For every aircraft managed, the CAO shall:
+
+(1) develop and control the AMP for the aircraft managed and:
+
+(i) in the case of aircraft complying with Annex Vb (Part-ML), approve the AMP and its amendments, or
+
+(ii) in the case of aircraft complying with Annex I (Part-M), present the AMP and its amendments to the competent authority for approval, unless the approval is covered by an indirect approval procedure in accordance with point (c) of point M.A.302 of Annex I (Part-M);
+
+(2) provide a copy of the AMP to the owner;
+
+(3) ensure that data used for any modification and repairs complies with points M.A.304 or ML.A.304, as applicable;
+
+(4) ensure that all maintenance is performed in accordance with the AMP and released in accordance with Section A, Subpart H of Annex I (Part-M), Section A of Annex II (Part-145) or Section A, Subpart H of Annex Vb (Part-ML), as applicable;
+
+(5) ensure that all applicable ADs and all operational directives with a continuing airworthiness impact are implemented;
+
+(6) ensure that all defects discovered during maintenance or reported are corrected by an appropriately approved maintenance organisation or by independent certifying staff;
+
+(7) ensure that the aircraft is brought for maintenance to an appropriately approved organisation or to independent certifying staff, whenever necessary;
+
+(8) coordinate the scheduled maintenance, application of ADs, replacement of service-life-limited parts and component inspection in order to ensure the work is carried out properly;
+
+(9) manage and archive all continuing-airworthiness records and, if applicable, the aircraft technical log;
+
+(10) ensure that the mass-and-balance statement reflects the current status of the aircraft.
+
+**CAO.A.080 Continuing airworthiness management data**
+
+The CAO shall hold and use applicable current maintenance data specified in point M.A.401 of Annex I (Part-M) or point ML.A.401 of Annex Vb (Part-ML), as applicable, for the performance of the continuing airworthiness management tasks referred to in point CAO.A.075 of this Annex (Part-CAO). That data may be provided by the owner, subject to a contract as referred in points M.A.201(h)(2) or M.A.201(i)(1) or M.A.201(i)(3) of Annex I (Part-M), or points ML.A.201(e)(1) or ML.A.201(f) of Annex Vb (Part-ML), in which case the CAO only needs to hold such data for the duration of the contract, unless where it is to retain the data pursuant to point CAO.A.090(b) of this Annex (Part-CAO).
+
+**CAO.A.085 Airworthiness review**
+
+The CAO shall carry out any airworthiness reviews in accordance with point M.A.903 of Annex I (Part-M) or point ML.A.903 of Annex Vb (Part-ML), as applicable.
+
+**CAO.A.090 Record-keeping**
+
+(a) The CAO shall retain the following records:
+
+(1) the maintenance records necessary to demonstrate that all requirements of this Annex have been met for the issuance of the CRS, including the subcontractor's release documents; the CAO shall provide a copy of each CRS to the owner of the aircraft, together with a copy of any specific repair or modification data used for the repairs or modifications carried out;
+
+(2) the continuing airworthiness management records required by any of the following:
+
+(i) point M.A.305 and, if applicable, point M.A.306 of Annex I (Part-M);
+
+(ii) point ML.A.305 of Annex Vb (Part-ML);
+
+(3) a copy of each permit to fly that is issued, and the related documents in accordance with the provisions of point 21.A.5(c)(2) of Annex I (Part 21) or, as applicable, point 21L.A.7(c) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012 for a period of 5 years from the date on which the permit to fly was issued;
+
+(4) a copy of each airworthiness review certificate and recommendation that are issued, as applicable, together with the airworthiness review report;
+
+(5) a copy of each evaluation programme and evaluation report that are issued in accordance with the provisions of point 21.A.174(d) of Annex I (Part 21) or, as applicable, point 21L.A.143(h) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+(b) The CAO shall retain a copy of the records described in point (a)(1), and any associated maintenance data, for a period of 3 years from the date at which it released to service the aircraft or aircraft component to which the work relates.
+
+(c) The organisation shall retain a copy of all records referred to in points (a)(4) and (a)(5) of this point for a period of 3 years after the continuing airworthiness management of the aircraft in accordance with point M.A.201 of Annex I (Part-M) or point ML.A.201 of Annex Vb (Part-ML), as applicable, has been transferred to another person or organisation.
+
+If the organisation issuing the airworthiness review certificate, recommendation, evaluation programme/report or permit to fly is different from the organisation managing the continuing airworthiness of the aircraft, the issuing organisation shall retain a copy of all records referred to in points (a)(3), (a)(4) and (a)(5) and all supporting documents for a period of 5 years from the date on which the airworthiness review certificate, recommendation, evaluation programme/report or permit to fly was issued.
+
+(d) All records shall be stored in a manner that ensures protection from damage, alteration and theft.
+
+(e) All computer hardware used for backup of the maintenance records shall be stored in a different location from that containing those data and in an environment that ensures that they remain in good condition.
+
+(f) When the continuing airworthiness management of an aircraft is transferred to another organisation or person, all the records retained under points (a)(2) to (a)(5) shall be transferred to that organisation or person. From the moment of the transfer, point (c) shall apply to that organisation or person.
+
+(g) Where the CAO terminates its operation, all retained records shall be transferred as follows:
+
+(1) the records referred to in point (a)(1) shall be transferred to the last owner or customer of the respective aircraft or component or shall be stored as specified by the competent authority;
+
+(2) the records referred to in point (a)(2) to (a)(5) shall be transferred to the owner of the aircraft.
+
+**CAO.A.095 Privileges of the organisation**
+
+The CAO shall have the following privileges:
+
+(a) Maintenance
+
+(1) Maintain any aircraft or component for which it is approved at the locations specified in the approval certificate and the CAE.
+
+(2) Arrange for the performance of specialised services at another organisation appropriately qualified under the control of the CAO, in accordance with the appropriate procedures set out in the CAE and approved by the competent authority.
+
+(3) Maintain any aircraft or component for which it is approved at any location, where the need of such maintenance arises either from the unserviceability of the aircraft or the need for supporting occasional maintenance, in accordance with the conditions specified in the CAE.
+
+(4) Issue certificates of release to service upon completion of maintenance, in accordance with point CAO.A.065 or CAO.A.070.
+
+(b) Continuing airworthiness management
+
+(1) Manage the continuing airworthiness of any aircraft for which it is approved.
+
+(2) Approve the AMP, in accordance with point (b)(2) of point ML.A.302, for aircraft managed in accordance with Annex Vb (Part-ML).
+
+(3) Carry out limited continuing airworthiness tasks with any contracted organisation working under their quality system, as listed on the approval certificate.
+
+(4) Extend the validity of an existing airworthiness review certificate in accordance with point M.A.902(a) of Annex I (Part-M) or point ML.A.902(a) of Annex Vb (Part-ML), as applicable, subject to the conditions set out in point M.A.902(b) of Annex I (Part-M) or point ML.A.902(b) of Annex Vb (Part-ML), as applicable.
+
+(c) Airworthiness review:
+
+(1) A CAO with its principal place of business in a Member State, the approval of which includes the privileges referred to in point (b) of this point, may be approved to carry out airworthiness reviews in accordance with point M.A.903 of Annex I (Part-M) or point ML.A.903 of Annex Vb (Part-ML), as applicable, and:
+
+(i) issue the related airworthiness review certificate under the conditions set out in point M.A.901(b)(1) of Annex I (Part-M) or in accordance with point ML.A.901(b) of Annex Vb (Part-ML), as applicable;
+
+(ii) issue a recommendation for the issuance of an airworthiness review certificate to the competent authority of the Member State of registry, under the conditions set out in point M.A.901(b)(2) of Annex I (Part-M).
+
+(2) A CAO with its principal place of business in one of the Member States, the approval of which includes the privileges referred to in point (a), may be approved to carry out airworthiness reviews in accordance with point ML.A.903 of Annex Vb (Part-ML) and issue the related ARC.
+
+(3) A CAO holding the privileges referred to in point (1) or point (2) may additionally, for the aircraft for which the organisation is approved to carry out the airworthiness review, and subject to an adequate procedure in the CAE referred to in point CAO.A.025, be approved to:
+
+(i) develop an evaluation programme in accordance with point 21.A.174(d)(3) of Annex I (Part 21) or, as applicable, point 21L.A.143(h)(3) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012;
+
+(ii) conduct the investigations activities proposed in the evaluation programme and issue the evaluation report in accordance with point 21.A.174(d)(4) of Annex I (Part 21) or, as applicable, point 21L.A.143(h)(4) of Annex Ib (Part 21 Light) to Regulation (EU) No 748/2012.
+
+Tasks referred to in the first paragraph, points (i) and (ii), shall be performed by staff who are approved to carry out airworthiness review for that aircraft.
+
+(d) Permit to fly
+
+A CAO with its principal place of business in one of the Member States, the approval of which includes the privileges referred to in point (c)(1) or point (c)(2) of this point, may be approved to issue a permit to fly in accordance with point 21.A.711(d) of Annex I (Part 21) to Regulation (EU) No 748/2012 for those aircraft for which the CAO can issue the airworthiness review certificate when it attests conformity with the approved flight conditions, subject to an adequate procedure in the CAE referred to in point CAO.A.025 of this Annex.
+
+In addition, in the case of aircraft above 2 730 kg MTOM, that permit to fly may be issued provided that:
+
+(i) the conditions referred to in points M.A.902(b)(1) and M.A.902(b)(2) of Annex I (Part-M) are met;
+
+(ii) the continuing airworthiness of the aircraft is managed by the CAO issuing the permit to fly.
+
+(e) A CAO may be approved for one or more privileges.
+
+**CAO.A.100 Quality system and organisational review**
+
+(a) To ensure that the CAO continues to meet the requirements of this Annex, this organisation shall establish a quality system and designate a quality manager.
+
+(b) The quality system shall monitor the carrying out of the activities of the organisation covered by this Annex. It shall monitor in particular:
+
+(1) that all those activities are performed in accordance with the approved procedures;
+
+(2) that all contracted maintenance tasks are carried out in accordance with the contract;
+
+(3) that the organisation continues to comply with the requirements of this Annex.
+
+(c) The records of that monitoring shall be retained for at least the previous 2 years.
+
+(d) Where the organisation holding a CAO approval is additionally approved in accordance with an Annex other than this Annex, the quality system may be combined with that required by the other Annex.
+
+(e) A CAO shall be considered as a small CAO when one of the following condition is met:
+
+(1) The scope of the CAO does only contain aircraft covered by Part-ML.
+
+(2) The CAO does not exceed 10 full-time equivalent staff involved in maintenance.
+
+(3) The CAO does not exceed 5 full-time equivalent staff involved in continuing airworthiness management.
+
+(f) In the case of a small CAO, the quality system may be replaced by regular organisational reviews, subject to the approval of the competent authority. In that case, the CAO shall not contract continuing airworthiness management tasks to other parties.
+
+**CAO.A.105 Changes to the organisation**
+
+(a) In order to enable the competent authority to determine continued compliance with this Annex, the CAO shall notify the competent authority of any proposal to carry out any of the following changes, before such changes take place:
+
+(1) changes affecting the information contained in the approval certificate laid down in Appendix I and the terms of approval of this Annex;
+
+(2) changes of the persons referred to in points CAO.A.035(a) and (b);
+
+(3) changes in the aircraft types covered by the scope of work referred to in point (a)(1) of point CAO.A.020 in the case of aeroplanes of more than 2 730 kg maximum take-off mass (MTOM), helicopters of more than 1 200 kg MTOM or certified for more than four occupants and for any other aircraft which is not an ELA2;
+
+(4) changes in the scope of work referred to in point (a)(2) of CAO.A.020 in the case of engines other than piston or electric;
+
+(5) changes in the control procedure set out in point (b) of this point.
+
+(b) Any other changes in locations, facilities, equipment, tools, material, procedures, scope of work and staff shall be controlled by the CAO through a control procedure provided for in the CAE. The CAO shall submit a description of those changes and the corresponding CAE amendments to the competent authority within 15 days from the day on which the change took place.
+
+**CAO.A.110 Continued validity**
+
+(a) An approval shall be issued for an unlimited duration and shall remain valid subject to:
+
+(1) the organisation remaining in compliance with the requirements of this Annex, in particular how the findings are handled in accordance with point CAO.A.115;
+
+(2) the competent authority being granted access to the organisation to determine continued compliance with the requirements of this Annex;
+
+(3) the competent authority not having surrendered or revoked the approval.
+
+(b) Upon surrender or revocation of the approval, the organisation shall return the approval certificate to the competent authority.
+
+**CAO.A.115 Findings**
+
+(a) A Level 1 finding is any significant non-compliance with Part-CAO requirements which lowers the safety standard and seriously hazards flight safety.
+
+(b) A Level 2 finding is any non-compliance with the Part-CAO requirements which may lower the safety standard and possibly hazard flight safety.
+
+(c) After receiving a notification of a finding in accordance with point CAO.B.060, the CAO shall adopt a corrective action plan and demonstrate to the satisfaction of the competent authority that it has taken the necessary corrective action to address the finding within the time period set by that authority.
+
+**CAO.A.120 Occurrence reporting**
+
+(a) The organisation shall establish and maintain an occurrence reporting system, including mandatory and voluntary reporting. For organisations that have their principal place of business in a Member State, a single system may be established to meet the requirements of Regulation (EU) No 376/2014 and its delegated and implementing acts and of Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) The organisation shall report to its competent authority and to the organisation responsible for the design of the aircraft or component any safety-related event or condition of an aircraft or component identified by the organisation which endangers or, if not corrected or addressed, could endanger an aircraft, its occupants or any other person, and in particular any accident or serious incident.
+
+(c) The organisation shall also report any such event or condition that affects an aircraft or component, as applicable:
+
+(1) to the owner or operator of that aircraft, when such event or condition was identified while managing the continuing airworthiness in accordance with point M.A.201 of Annex I (Part-M) or point ML.A.201 of Annex Vb (Part-ML), as applicable;
+
+(2) to the person or organisation that is responsible for the continuing airworthiness of that aircraft in accordance with point M.A.201 of Annex I (Part-M) or point ML.A.201 of Annex Vb (Part-ML), as applicable, when such event or condition was identified while carrying out continuing airworthiness activities requested by that person or organisation;
+
+(3) to the person or organisation that requested the component maintenance, if different from point (2), when such event or condition was identified while carrying out component maintenance.
+
+(d) For organisations that do not have their principal place of business in a Member State:
+
+(1) the initial mandatory report shall:
+
+(i) appropriately safeguard the confidentiality of the identity of the reporter and of the persons mentioned in the report;
+
+(ii) be made as soon as practicable, but in any case, within 72 hours after the organisation has become aware of the occurrence unless exceptional circumstances prevent that;
+
+(iii) be made in a form and manner established by the competent authority;
+
+(iv) contain all pertinent information about the condition known to the organisation;
+
+(2) where relevant, a follow-up report that provides details of the actions that the organisation intends to take to prevent similar occurrences in the future shall be made as soon as those actions have been identified; those follow-up reports shall:
+
+(i) be sent to the entities referred to in points (b) and (c) to which the initial report was sent;
+
+(ii) be made in a form and manner established by the competent authority.
+
+**SECTION B**
+
+**AUTHORITY REQUIREMENTS**
+
+**CAO.B.010 Scope**
+
+This Section establishes the administrative requirements to be met by the competent authorities in connection to the requirements for organisations set out in Section A.
+
+**CAO.B.017 Means of compliance**
+
+(a) The Agency shall develop Acceptable Means of Compliance (‘AMC’) that may be used to demonstrate compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts.
+
+(b) Alternative means of compliance may be used to demonstrate compliance with Regulation (EU) 2018/1139 and its delegated and implementing acts
+
+(c) The competent authority shall establish a system to consistently evaluate that all alternative means of compliance used by organisations under its oversight allow for the establishment of compliance with Regulation (EU) No 2018/1139 and its delegated and implementing acts.
+
+(d) The competent authority shall evaluate all alternative means of compliance proposed by an organisation in accordance with point CAO.A.017 by analysing the documentation provided and, if considered necessary, conducting an inspection of the organisation.
+
+When the competent authority finds that the alternative means of compliance are in accordance with Regulation (EU) 2018/1139 and its delegated and implementing acts, it shall without undue delay:
+
+(1) notify the applicant that the alternative means of compliance may be used and, if applicable, amend the approval or certificate of the applicant accordingly;
+
+(2) notify the Agency of their content, including copies of all relevant documentation.
+
+**CAO.B.020 Record-keeping**
+
+(a) The competent authority shall establish a system of record-keeping that allows adequate traceability of the process to keep the records for issuing, continuing, changing, suspending or revoking each issued certificate.
+
+(b) The records of the competent authority for the oversight of organisations approved in accordance with this Annex shall include, as a minimum:
+
+(1) the application for an organisation approval;
+
+(2) the organisation approval certificate, including any changes thereto;
+
+(3) a copy of the audit programme of the organisation, listing the dates at which audits were carried out and when they are due;
+
+(4) the continuing-oversight records, including all audit records, as provide for in point CAO.B.055;
+
+(5) all findings, actions required to close the findings and recommendations;
+
+(6) copies of all relevant correspondence with the organisation;
+
+(7) details of any exemption in accordance with point CAO.B.035 and enforcement actions;
+
+(8) any report from other competent authorities relating to the oversight of the organisation;
+
+(9) CAE and its amendments;
+
+(10) copies of any other document approved by the competent authority.
+
+(c) The retention period for the records listed under point (b) shall be at least 5 years.
+
+(d) All records shall be made available to the competent authority of another Member State or the Agency, upon request.
+
+**CAO.B.025 Mutual exchange of information**
+
+(a) Where necessary for the performance of their tasks under this Regulation, the competent authorities shall exchange information.
+
+(b) In the case of a potential safety threat involving several Member States, the competent authorities concerned shall assist each other in carrying out the necessary oversight action.
+
+**CAO.B.030 Responsibilities**
+
+The competent authority shall conduct the necessary inspections and investigations in order to verify and ensure that the organisations for which it is responsible in accordance with point CAO.1 meets the requirements of Section A of this Annex.
+
+**CAO.B.035 Exemptions**
+
+Where a Member State grants an exemption from the requirements of this Annex in accordance with paragraph 2 of Article 71 of Regulation (EU) 2018/1139, the competent authority shall record the exemption. It shall retain those records as provided for in point (b)(6) of point CAO.B.020.
+
+**CAO.B.040 Application**
+
+Where facilities of the CAO are located in more than one Member State, the initial certification procedure and continued oversight of the approval shall be carried out in cooperation with the competent authorities designated by the Member States in whose territory the other facilities are located.
+
+**CAO.B.045 Initial certification procedure**
+
+(a) Where it has been established that the organisation meets the requirements laid down in points (a) and (b) of CAO.A.035, the competent authority shall formally notify the applicant about the acceptance of the personnel.
+
+(b) The competent authority shall ensure that the procedures specified in the CAE comply with Section A, and that the accountable manager has signed the commitment statement referred to in point (a)(1) of CAO.A.025.
+
+(c) The competent authority shall verify that the organisation complies with Section A.
+
+(d) The competent authority shall convene a meeting with the accountable manager at least once during the investigation for approval to ensure that he or she fully understand the significance of the approval and the statement referred to in point (a)(1) of CAO.A.025
+
+(e) All findings in accordance with point CAO.B.060 shall be confirmed in writing to the applicant organisation.
+
+(g) Before issuing the approval the competent authority shall close all be findings after the organisation has corrected them.
+
+**CAO.B.050 Issuance of the initial certificate**
+
+(a) Where the competent authority has established that the applicant complies with point CAO.B.045, it shall issue the certificate, using the EASA Form 3-CAO template laid down in Appendix I and specifying the terms of approval.
+
+(b) The competent authority shall include the reference number of the CAO as specified in the EASA Form 3-CAO template laid down in Appendix I.
+
+**CAO.B.055 Continuing oversight**
+
+(a) The competent authority shall establish and keep up-to-date, an oversight programme, specifying all CAOs to which it has issued a certificate and the dates at which it has audited and is scheduled to audit those CAOs.
+
+(b) The competent authority shall audit, at, periods not exceeding 24 months each CAO to which it has issued an approval. Those audits shall concentrate, in particular, on the changes to the organisation notified to it in accordance with the procedure specified in point (b) of point CAO.A.105.
+
+(c) A relevant sample of the aircraft managed by the CAO, if the organisation is approved to do so, shall be surveyed at every 24-month period. The size of the sample shall be decided by the competent authority based on the result of prior audits and earlier product surveys.
+
+(d) The competent authority shall confirm in writing any finding during those audits to the CAO.
+
+(e) The competent authority shall record any findings during those audits, any actions required to close the findings and any recommendations issued.
+
+(f) The competent authority shall convey a meeting with the accountable manager of the CAO at least once every 24 months.
+
+**CAO.B.060 Findings**
+
+(a) When during audits or by any other means, evidence is found showing non-compliance to the Part-CAO requirements, the competent authority shall take the following actions:
+
+(1) for Level 1 findings, immediate action shall be taken by the competent authority to revoke, limit or suspend in whole or in part, depending upon the extent of the Level 1 finding, the CAO approval, until successful corrective action has been taken by the organisation; and
+
+(2) for Level 2 findings, the competent authority shall grant a corrective action period of no more than 3 months, appropriate to the nature of the finding — in certain circumstances, at the end of this first period and subject to the nature of the finding, the competent authority can extend this 3-month period subject to a satisfactory corrective action plan.
+
+(b) Action shall be taken by the competent authority to suspend in whole or in part the approval in case of failure to comply within the timescale set out by the competent authority.
+
+**CAO.B.065 Changes**
+
+(a) Upon receiving an application for a change in accordance with point (a) of point CAO.A.105, the competent authority shall verify the organisation's compliance with the applicable requirements before issuing the approval of the change.
+
+(b) The competent authority may indicate the conditions under which the CAO shall operate during the change unless the competent authority determines that the organisation's certificate shall be suspended because of the nature or extent of the changes.
+
+(c) For changes not requiring prior approval, the competent authority shall assess during the oversight activities that the CAO complies with the approved control procedure provided for in point (b) of point CAO.A.105 and complies with the applicable requirements.
+
+**CAO.B.070 Suspension, limitation and revocation**
+
+The competent authority shall:
+
+(a) suspend an approval on reasonable grounds in the case of a potential safety threat; or
+
+(b) suspend, revoke or limit an approval pursuant to point CAO.B.060.
+
+**CAO.B.075 Information to the Agency**
+
+(a) The competent authority of the Member State shall notify the Agency in case of any significant problems with the implementation of Regulation (EU) 2018/1139 and its delegated and implementing acts within 30 days from the time the authority became aware of the problems.
+
+(b) Without prejudice to Regulation (EU) No 376/2014 and its delegated and implementing acts, the competent authority shall provide the Agency as soon as possible with any safety-significant information stemming from the occurrence reports stored in the national database pursuant to Article 6(6) of Regulation (EU) No 376/2014.
+
+## Appendix I
+
+**Combined airworthiness organisation (CAO) certificate — EASA Form 3-CAO**
+
+(a) Within the approval class(es) and rating(s) established by the competent authority, the scope of work specified in the CAE defines the exact limits of approval. It is therefore essential that the approval class(es) and rating(s) and the organisations scope of work are matching.
+
+(b) An aircraft rating, in relation to the maintenance privileges, means that the CAO may carry out maintenance on the aircraft and any component (including engines), in accordance with aircraft maintenance data or, if agreed by the competent authority, in accordance with component maintenance data, only whilst such components are fitted to the aircraft. Nevertheless, such aircraft-rated CAO may temporarily remove a component for maintenance in order to improve access to that component except when such removal creates the need for additional maintenance not eligible for the requirements of point (b). This will be subject to a control procedure in the CAE to be approved by the competent authority.
+
+(c) An engine rating (turbine, piston, electric or other) means that the CAO may carry out maintenance on the uninstalled engine and engine components, in accordance with engine maintenance data or, if agreed by the competent authority, in accordance with component maintenance data, only whilst such components are fitted to the engine. Nevertheless, such engine-rated CAO may temporarily remove a component for maintenance in order to improve access to that component except when such removal creates the need for additional maintenance not eligible for the requirements of point (c). An engine-rated CAO may also carry out maintenance on an installed engine during base and line maintenance subject to a control procedure in the CAE to be approved by the competent authority.
+
+(d) A component rating (other-than-complete engines) means that the CAO may carry out maintenance on uninstalled components (excluding complete engines) intended for fitment to the aircraft or engine. This CAO may also carry out maintenance on an installed component (other-than-complete engines) during base and line maintenance or at an engine maintenance facility subject to a control procedure in the CAE to be approved by the competent authority.
+
+(e) An non-destructive testing (NDT) rating is a self-contained rating not necessarily related to a specific aircraft, engine or other component. The NDT rating is only necessary for a CAO that carries out NDT as a particular task for another organisation. A CAO approved with an aircraft, engine or component rating may carry out NDT on products they are maintaining subject to the CAE containing NDT procedures, without the need for an NDT rating.
+
+Text of image
+
+Page 1 of 2
+
+[MEMBER STATE (*)]
+
+A Member State of the European Union (**)
+
+COMBINED AIRWORTHINESS ORGANISATION CERTIFICATE
+
+Reference: [MEMBER STATE CODE (*)].CAO.[XXXX]
+
+Pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency and to Regulation (EU) No 1321/2014 and subject to the conditions specified below, the [COMPETENT AUTHORITY OF THE MEMBER STATE (*)] hereby certifies:
+
+[COMPANY NAME AND ADDRESS]
+
+as a combined airworthiness organisation in compliance with Section A of Annex Vd (Part-CAO) to Regulation (EU) No 1321/2014.
+
+CONDITIONS:
+
+(a) this approval is limited to that specified in the terms of approval attached, and in the ‘Scope of work’ Section of the approved combined airworthiness exposition, as referred to in Section A of Annex Vd (Part-CAO) to Regulation (EU) No 1321/2014; and
+
+(b) this approval requires compliance with the procedures specified in the approved combined airworthiness exposition; and
+
+(c) this approval is valid whilst the approved combined airworthiness organisation remains in compliance with Annex Vd (Part-CAO) to Regulation (EU) No 1321/2014; and
+
+(d) where the approved combined airworthiness organisation contracts out, under their quality system, the service of one or several organisations, this approval remains valid subject to such organisation(s) fulfilling applicable contractual obligations; and
+
+(e) subject to compliance with the foregoing conditions, this approval shall remain valid for an unlimited duration unless the approval has previously been surrendered, superseded, suspended or revoked.
+
+Date of original issue of the approval certificate:
+
+Date of this revision of the approval certificate:
+
+Revision No:
+
+Signed:
+
+For the competent authority: [COMPETENT AUTHORITY OF THE MEMBER STATE (*)]
+
+(*) Or EASA if EASA is the competent authority.
+
+(**) Delete for non-EU Member States or EASA.
+
+EASA Form 3-CAO, Issue 1.
+
+►(1) M18
+
+[image]
+
+[image]
+
+[image]
+
+## ANNEX VI — Correlation Table
+
+| Regulation (EC) No 2042/2003 | This Regulation |
+| --- | --- |
+| Article 1 | Article 1 |
+| Article 2 | Article 2 |
+| Article 3(1), (2) and (3) | Article 3(1), (2) and (3) |
+| Article 3(4) | — |
+| Article 4 | Article 4 |
+| Article 5 | Article 5 |
+| Article 6 | Article 6 |
+| — | Article 7 |
+| Article 7(1) | Article 8(1) |
+| Article 7(2) | — |
+| Article 7(3), introductory wording | Article 8(2), introductory wording |
+| Article 7(3)(a) to (g) | — |
+| Article 7(3)(h) | Article 8(2)(a) |
+| Article 7(3)(i) | Article 8(2)(b) |
+| Article 7(4) | — |
+| Article 7(5) | Article 8(3) |
+| Article 7(6) | — |
+| Article 7(7) | — |
+| Article 7(8) | Article 8(4) |
+| Article 7(9) | Article 8(5) |
+| Article 8 | Article 9 |
+| Annex I | Annex I |
+| Annex II | Annex II |
+| Annex III | Annex III |
+| Annex IV | Annex IV |
+| — | Annex V |
+| — | Annex VI |
+
+( 1 ) Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.2008, p. 3).
+
+( 2 ) Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 296, 25.10.2012, p. 1).
+
+( 3 ) Commission Regulation (EU) No 1178/2011 of 3 November 2011 laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 311, 25.11.2011, p. 1).
+
+( 4 ) Commission Regulation (EU) No 748/2012 of 3 August 2012 laying down implementing rules for the airworthiness and environmental certification of aircraft and related products, parts and appliances, as well as for the certification of design and production organisations (OJ L 224, 21.8.2012, p. 1).
+
+( 5 ) Council Regulation (EEC) No 3922/91 of 16 December 1991 on the harmonization of technical requirements and administrative procedures in the field of civil aviation (OJ L 373, 31.12.1991, p. 4).
+
+( 6 ) OJ L 400, 12.11.2021, p. 18
+
+( 7 ) Commission Regulation (EU) No 379/2014 of 7 April 2014 amending Commission Regulation (EU) No 965/2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 123, 24.4.2014, p. 1).
+
+( 8 ) Regulation (EC) No 1008/2008 of the European Parliament and of the Council of 24 September 2008 on common rules for the operation of air services in the Community (OJ L 293, 31.10.2008, p. 3).
+
+( 9 ) Commission Regulation (EU) No 1178/2011 of 3 November 2011 laying down technical requirements and administrative procedures related to civil aviation aircrew pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 311, 25.11.2011, p. 1).
+
+( 10 ) Regulation (EU) No 376/2014 of the European Parliament and of the Council of 3 April 2014 on the reporting, analysis and follow-up of occurrences in civil aviation, amending Regulation (EU) No 996/2010 of the European Parliament and of the Council and repealing Directive 2003/42/EC of the European Parliament and of the Council and Commission Regulations (EC) No 1321/2007 and (EC) No 1330/2007 (OJ L 122, 24.4.2014, p. 18).
+
+( 11 ) For the purpose of this point 4, a ‘chapter’ means each one of the rows preceded by a number in the table contained in point 3.1(e).
+
+( 12 ) Commission Implementing Regulation (EU) 2018/1976 of 14 December 2018 laying down detailed rules for the operation of sailplanes pursuant to Regulation (EU) 2018/1139 of the European Parliament and of the Council (OJ L 326, 20.12.2018, p. 64).
+
+( 13 ) Commission Regulation (EU) No 965/2012 of 5 October 2012 laying down technical requirements and administrative procedures related to air operations pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council (OJ L 296, 25.10.2012, p. 1).
+
+( 14 ) Regulation (EU) 2015/1018 of 29 June 2015 laying down a list classifying occurrences in civil aviation to be mandatorily reported according to Regulation (EU) No 376/2014 of the European Parliament and of the Council (OJ L 163, 30.6.2015, p. 1).

@@ -253,6 +253,7 @@ Directive 2005/36/EC is amended as follows:
 
 (b) in the table in point 5.2.2 of Section V.2, the following is inserted after the entry for France:
 
+<table>
 <tbody><tr><td>‘Hrvatska</td><td><table><tbody><tr><td>1.</td><td>Svjedodžba “medicinska sestra opće njege/medicinski tehničar opće njege”</td></tr>
 </tbody>
 </table>
@@ -273,6 +274,7 @@ Directive 2005/36/EC is amended as follows:
 </table>
 </td><td>1 July 2013’</td></tr>
 </tbody>
+</table>
 
 (c) in the table in point 5.3.2 of Section V.3, the following is inserted after the entry for France:
 
@@ -286,6 +288,7 @@ Directive 2005/36/EC is amended as follows:
 
 (e) in the table in point 5.5.2 of Section V.5, the following is inserted after the entry for France:
 
+<table>
 <tbody><tr><td>‘Hrvatska</td><td>Svjedodžba “prvostupnik (baccalaureus) primaljstva/sveučilišna prvostupnica (baccalaurea) primaljstva” </td><td><table><tbody><tr><td>—</td><td>Medicinski fakulteti sveučilišta u Republici Hrvatskoj</td></tr>
 </tbody>
 </table>
@@ -297,9 +300,11 @@ Directive 2005/36/EC is amended as follows:
 </table>
 </td><td>prvostupnik (baccalaureus) primaljstva/prvostupnica (baccalaurea) primaljstva</td><td>1 July 2013’</td></tr>
 </tbody>
+</table>
 
 (f) in the table in point 5.6.2 of Section V.6, the following is inserted after the entry for France:
 
+<table>
 <tbody><tr><td>‘Hrvatska</td><td>Diploma “magistar farmacije/magistra farmacije”</td><td><table><tbody><tr><td>—</td><td>Farmaceutsko-biokemijski fakultet Sveučilišta u Zagrebu</td></tr>
 </tbody>
 </table>
@@ -311,6 +316,7 @@ Directive 2005/36/EC is amended as follows:
 </table>
 </td><td></td><td>1 July 2013’</td></tr>
 </tbody>
+</table>
 
 (g) in the table in point 5.7.1 of Section V.7, the following is inserted after the entry for France:
 
@@ -319,6 +325,7 @@ Directive 2005/36/EC is amended as follows:
 
 (3) in Annex VI, the following is inserted after the entry for France:
 
+<table>
 <tbody><tr><td>‘Hrvatska</td><td><table><tbody><tr><td>—</td><td>Diploma “magistar inženjer arhitekture i urbanizma/magistra inženjerka arhitekture i urbanizma” awarded by the Arhitektonski fakultet Sveučilišta u Zagrebu</td></tr>
 </tbody>
 </table>
@@ -357,6 +364,7 @@ Directive 2005/36/EC is amended as follows:
 </table>
  All diplomas must be accompanied by a certificate of membership of the Croatian Chamber of Architects (Hrvatska komora arhitekata), issued by the Croatian Chamber of Architects, Zagreb </td><td>Third academic year after accession’</td></tr>
 </tbody>
+</table>
 
 **PART B**
 

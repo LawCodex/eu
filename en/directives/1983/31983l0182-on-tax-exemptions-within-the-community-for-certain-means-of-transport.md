@@ -24,10 +24,12 @@ retrieved: 2026-10-11
 
 **(83/182/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2006/98/EC of 20 November 2006 </td><td> L 363</td><td>129</td><td>20.12.2006</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/13/EU of 13 May 2013 </td><td> L 141</td><td>30</td><td>28.5.2013</td></tr>
+</table>
 
 | A1 | ACT concerning the conditions of accession of the Kingdom of Spain and the Portuguese Republic and the adjustments to the Treaties | L 302 | 23 | 15.11.1985 |
 | --- | --- | --- | --- | --- |

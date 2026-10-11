@@ -78,6 +78,7 @@ Jean-Claude JUNCKER
 
 **Materials and components exempt from Article 4(2)(a)**
 
+<table>
 <tbody><tr><td>Materials and components</td><td>Scope and expiry date of the exemption</td><td>To be labelled or made identifiable in accordance with Article 4(2)(b)(iv)</td></tr>
 <tr><td colspan="3">Lead as an alloying element</td></tr>
 <tr></tr>
@@ -244,6 +245,7 @@ Jean-Claude JUNCKER
 </table>
 </td><td>As spare parts for vehicles put on the market before 31 December 2008</td><td></td></tr>
 </tbody>
+</table>
 
 Notes:
 

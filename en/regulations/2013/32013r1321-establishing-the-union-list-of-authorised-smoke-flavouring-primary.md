@@ -1,0 +1,74 @@
+---
+title: "Commission Implementing Regulation (EU) No 1321/2013 of 10 December 2013 establishing the Union list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings Text with EEA relevance"
+identifier: "32013R1321"
+eli: "http://data.europa.eu/eli/reg_impl/2013/1321/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2013-12-10
+entry_into_force: 2014-01-01
+last_amended: 2024-08-21
+consolidated_version: "02013R1321-20240821"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R1321-20240821"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 1321/2013 of 10 December 2013 establishing the Union list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings Text with EEA relevance
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1321/2013**
+
+**of 10 December 2013**
+
+**establishing the Union list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings**
+
+**(Text with EEA relevance)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2022/502 of 29 March 2022 </td><td> L 102</td><td>6</td><td>30.3.2022</td></tr>
+<tr><td> M2</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/952 of 12 May 2023 </td><td> L 128</td><td>79</td><td>15.5.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2067 of 31 July 2024 </td><td> L 2067</td><td>1</td><td>1.8.2024</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1321/2013**
+
+**of 10 December 2013**
+
+**establishing the Union list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings**
+
+**(Text with EEA relevance)**
+
+## Article 1
+
+The list of the smoke flavouring primary products authorised to the exclusion of all others in the Union for use in or on foods and/or for the production of derived smoke flavourings, as referred to in Article 6 of Regulation (EC) No 2065/2003, is laid down in the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+The list of the authorised smoke flavourings is established with the effect from 1 January 2014.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Union list of authorised smoke flavouring primary products for use as such in or on foods and/or for the production of derived smoke flavourings**
+
+Note 1: Maximum levels refer to levels in or on food as marketed. By way of derogation from this principle, for dried and/or concentrated foods which need to be reconstituted the maximum levels shall apply to the food as reconstituted according to the instructions on the label taking into account the minimum dilution factor. If primary products are used for the production of the derived smoke flavourings, the maximum levels shall be adjusted accordingly.
+
+Note 2: When combinations of smoke flavourings are used in or on foodstuffs, the individual levels shall be reduced proportionally.
+
+Note 3: In case smoke flavourings are permitted to be used in processed meat (food category 8.2) or in processed fish and fishery products (food category 9.2) and these foods are smoked in a smoking chamber by regenerating smoke by using these permitted smoke flavourings, the use shall be in accordance with good manufacturing practices.
+
+Note 4: The presence of a smoke flavouring shall be permitted:
+
+(a) in a compound food other than as referred to in the Annex, where the primary product is permitted in one of the ingredients of the compound food;
+
+(b) in a food which is to be used solely in the preparation of a compound food and provided that the compound food complies with this Regulation.
+
+This shall not apply to infant formulae, follow-on formulae, processed cereal-based foods and baby foods and dietary foods for special medical purposes intended for infants and young children as referred to in Directive 2009/39/EC of the European Parliament and of the Council of 6 May 2009 on foodstuffs intended for particular nutritional uses ( 1 ).
+
+( 1 ) OJ L 124, 20.5.2009, p. 21.

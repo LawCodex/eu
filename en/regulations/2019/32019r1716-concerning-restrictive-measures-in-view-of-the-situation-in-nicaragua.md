@@ -1,0 +1,474 @@
+---
+title: "Council Regulation (EU) 2019/1716 of 14 October 2019 concerning restrictive measures in view of the situation in Nicaragua"
+identifier: "32019R1716"
+eli: "http://data.europa.eu/eli/reg/2019/1716/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2019-10-14
+entry_into_force: 2019-10-26
+last_amended: 2025-10-01
+consolidated_version: "02019R1716-20251001"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02019R1716-20251001"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) 2019/1716 of 14 October 2019 concerning restrictive measures in view of the situation in Nicaragua
+
+**COUNCIL REGULATION (EU) 2019/1716**
+
+**of 14 October 2019**
+
+**concerning restrictive measures in view of the situation in Nicaragua**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2020/606 of 04 May 2020 </td><td> L 139I</td><td>1</td><td>4.5.2020</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2021/1276 of 30 July 2021 </td><td> L 277I</td><td>12</td><td>2.8.2021</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/22 of 10 January 2022 </td><td> L 5I</td><td>4</td><td>10.1.2022</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2022/1934 of 13 October 2022 </td><td> L 268</td><td>1</td><td>14.10.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2022/1935 of 13 October 2022 </td><td> L 268</td><td>5</td><td>14.10.2022</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2023/2125 of 9 October 2023 </td><td> L 2125</td><td>1</td><td>10.10.2023</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2023/2694 of 27 November 2023 </td><td> L 2694</td><td>1</td><td>28.11.2023</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2024/2465 of 10 September 2024 </td><td> L 2465</td><td>1</td><td>12.9.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2024/2672 of 8 October 2024 </td><td> L 2672</td><td>1</td><td>9.10.2024</td></tr>
+<tr><td></td><td> COUNCIL IMPLEMENTING REGULATION (EU) 2025/1974 of 29 September 2025 </td><td> L 1974</td><td>1</td><td>30.9.2025</td></tr>
+</table>
+
+**COUNCIL REGULATION (EU) 2019/1716**
+
+**of 14 October 2019**
+
+**concerning restrictive measures in view of the situation in Nicaragua**
+
+## Article 1
+
+For the purposes of this Regulation, the following definitions apply:
+
+(a) ‘claim’ means any claim, whether asserted by legal proceedings or not, made before or after the date of entry into force of this Regulation, under or in connection with a contract or transaction, and includes in particular:
+
+(i) a claim for performance of any obligation arising under or in connection with a contract or transaction;
+
+(ii) a claim for extension or payment of a bond, financial guarantee or indemnity of whatever form;
+
+(iii) a claim for compensation in respect of a contract or transaction;
+
+(iv) a counterclaim;
+
+(v) a claim for the recognition or enforcement, including by the procedure of exequatur, of a judgment, an arbitration award or an equivalent decision, wherever made or given;
+
+(b) ‘contract or transaction’ means any transaction of whatever form and whatever the applicable law, whether comprising one or more contracts or similar obligations made between the same or different parties; for that purpose ‘contract’ includes a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, and credit, whether legally independent or not, as well as any related provision arising under, or in connection with, the transaction;
+
+(c) ‘competent authorities’ means the competent authorities of the Member States as identified on the websites listed in Annex II;
+
+(d) ‘economic resources’ means assets of every kind, whether tangible or intangible, movable or immovable, which are not funds, but may be used to obtain funds, goods or services;
+
+(e) ‘freezing of economic resources’ means preventing the use of economic resources to obtain funds, goods or services in any way, including, but not limited to, by selling, hiring or mortgaging them;
+
+(f) ‘freezing of funds’ means preventing any move, transfer, alteration, use of, access to or dealing with funds in any way that would result in any change in their volume, amount, location, ownership, possession, character, destination or other change that would enable the funds to be used, including portfolio management;
+
+(g) ‘funds’ means financial assets and benefit of every kind, including, but not limited to:
+
+(i) cash, cheques, claims on money, drafts, money orders and other payment instruments;
+
+(ii) deposits with financial institutions or other entities, balances on accounts, debts and debt obligations;
+
+(iii) publicly and privately-traded securities and debt instruments, including stocks and shares, certificates representing securities, bonds, notes, warrants, debentures and derivatives contracts;
+
+(iv) interest, dividends or other income on or value accruing from or generated by assets;
+
+(v) credit, right of set-off, guarantees, performance bonds or other financial commitments;
+
+(vi) letters of credit, bills of lading, bills of sale; and
+
+(vii) documents showing evidence of an interest in funds or financial resources;
+
+(h) ‘territory of the Union’ means the territories of the Member States to which the Treaty is applicable, under the conditions laid down in the Treaty, including their airspace.
+
+## Article 2
+
+1\. All funds and economic resources belonging to, owned, held or controlled by any natural or legal person, entity or body as listed in Annex I shall be frozen.
+
+2\. No funds or economic resources shall be made available, directly or indirectly, to or for the benefit of natural or legal persons, entities or bodies listed in Annex I.
+
+3\. Annex I shall include natural or legal persons, entities and bodies which, in accordance with Articles 1(1) and 2(1) of Decision (CFSP) 2019/1720, have been identified by the Council as:
+
+(a) being responsible for serious human rights violations or abuses or for the repression of civil society and democratic opposition in Nicaragua;
+
+(b) undermining democracy and the rule of law in Nicaragua;
+
+(c) being associated with the natural or legal persons, entities or bodies referred to in points (a) and (b).
+
+## Article 3
+
+1\. By way of derogation from Article 2, the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the funds or economic resources concerned are:
+
+(a) necessary to satisfy the basic needs of natural or legal persons listed in Annex I and dependent family members of such natural persons, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;
+
+(b) intended exclusively for payment of reasonable professional fees or reimbursement of incurred expenses associated with the provision of legal services;
+
+(c) intended exclusively for payment of fees or service charges for routine holding or maintenance of frozen funds or economic resources;
+
+(d) necessary for extraordinary expenses, provided that the relevant competent authority has notified the competent authorities of the other Member States and the Commission of the grounds on which it considers that a specific authorisation should be granted, at least two weeks prior to authorisation; or
+
+(e) to be paid into or from an account of a diplomatic or consular mission or an international organisation enjoying immunities in accordance with international law, insofar as such payments are intended to be used for official purposes of the diplomatic or consular mission or international organisation.
+
+2\. The Member State concerned shall inform within two weeks the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+## Article 4
+
+1\. By way of derogation from Article 2(1), the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, if the following conditions are met:
+
+(a) the funds or economic resources are subject to an arbitral decision rendered prior to the date on which the natural or legal person, entity or body referred to in Article 2 was listed in Annex I, or of a judicial or administrative decision rendered in the Union, or a judicial decision enforceable in the Member State concerned, prior to or after that date;
+
+(b) the funds or economic resources will be used exclusively to satisfy claims secured by such a decision or recognised as valid in such a decision, within the limits set by applicable laws and regulations governing the rights of persons having such claims;
+
+(c) the decision is not for the benefit of a natural or legal person, entity or body listed in Annex I; and
+
+(d) recognition of the decision is not contrary to public policy in the Member State concerned.
+
+2\. The Member State concerned shall inform within two weeks the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+## Article 5
+
+1\. By way of derogation from Article 2(1) and provided that a payment by a natural or legal person, entity or body listed in Annex I is due under a contract or agreement that was concluded by, or an obligation that arose for, the natural or legal person, entity or body concerned before the date on which that natural or legal person, entity or body was included in Annex I, the competent authorities of the Member States may authorise, under such conditions as they deem appropriate, the release of certain frozen funds or economic resources, provided that the competent authority concerned has determined that:
+
+(a) the funds or economic resources will be used for a payment by a natural or legal person, entity or body listed in Annex I; and
+
+(b) the payment is not in breach of Article 2(2).
+
+2\. The Member State concerned shall inform within two weeks the other Member States and the Commission of any authorisation granted under paragraph 1.
+
+## Article 6
+
+1\. Article 2(1) and (2) shall not apply to the making available of funds or economic resources necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs where such assistance and other activities are carried out by:
+
+(a) the United Nations (UN), including its programmes, funds and other entities and bodies, as well as its specialised agencies and related organisations;
+
+(b) international organisations;
+
+(c) humanitarian organisations having observer status with the UN General Assembly and members of those humanitarian organisations;
+
+(d) bilaterally or multilaterally funded non-governmental organisations participating in the UN Humanitarian Response Plans, UN Refugee Response Plans, other UN appeals or humanitarian clusters coordinated by the UN Office for the Coordination of Humanitarian Affairs;
+
+(e) organisations and agencies to which the Union has granted the Humanitarian Partnership Certificate or which are certified or recognised by a Member State in accordance with national procedures;
+
+(f) Member States’ specialised agencies; or
+
+(g) the employees, grantees, subsidiaries or implementing partners of the entities referred to in points (a) to (f) while and to the extent that they are acting in those capacities.
+
+2\. Without prejudice to paragraph 1, and by way of derogation from Article 2(1) and (2), the competent authorities of the Member States may authorise the release of certain frozen funds or economic resources, or the making available of certain funds or economic resources, under such conditions as they deem appropriate, after having determined that the provision of such funds or economic resources is necessary to ensure the timely delivery of humanitarian assistance or to support other activities that support basic human needs.
+
+3\. In the absence of a negative decision, a request for information or a notification for additional time from the relevant competent authority within five working days of the date of receipt of a request for authorisation under paragraph 2, that authorisation shall be considered granted.
+
+4\. The Member State concerned shall inform the other Member States and the Commission of any authorisations granted under paragraphs 2 and 3 within four weeks of such authorisation.
+
+## Article 7
+
+1\. Article 2(2) shall not prevent the crediting of the frozen accounts by financial or credit institutions that receive funds transferred by third parties onto the account of a natural or legal person, entity or body listed in Annex I, provided that any additions to such accounts are also frozen. The financial or credit institution shall inform the relevant competent authority of any such transaction without delay.
+
+2\. Article 2(2) shall not apply to the addition to frozen accounts of:
+
+(a) interest or other earnings on those accounts;
+
+(b) payments due under contracts, agreements or obligations that were concluded or arose before the date on which the natural or legal person, entity or body referred to in Article 2 was included in Annex I; or
+
+(c) payments due under judicial, administrative or arbitral decisions rendered in a Member State or enforceable in the Member State concerned;
+
+provided that any such interest, other earnings and payments remain subject to the measures provided for in Article 2(1).
+
+## Article 8
+
+1\. Without prejudice to the applicable rules concerning reporting, confidentiality and professional secrecy, natural and legal persons, entities and bodies shall:
+
+(a) supply immediately any information which would facilitate compliance with this Regulation, such as information on accounts and amounts frozen in accordance with Article 2, to the competent authority of the Member State where they are resident or located, and they shall transmit such information, directly or through the Member State, to the Commission; and
+
+(b) cooperate with the competent authority in any verification of this information.
+
+2\. Any additional information received directly by the Commission shall be made available to the Member States.
+
+3\. Any information provided or received in accordance with this Article shall be used only for the purposes for which it was provided or received.
+
+## Article 9
+
+It shall be prohibited to participate, knowingly and intentionally, in activities the object or effect of which is to circumvent the measures referred to in Article 2.
+
+## Article 10
+
+1\. The freezing of funds and economic resources or the refusal to make funds or economic resources available, carried out in good faith on the basis that such action is in accordance with this Regulation, shall not give rise to liability of any kind on the part of the natural or legal person or entity or body implementing it, or its directors or employees, unless it is proved that the funds and economic resources were frozen or withheld as a result of negligence.
+
+2\. Actions by natural or legal persons, entities or bodies shall not give rise to any liability of any kind on their part if they did not know, and had no reasonable cause to suspect, that their actions would infringe the measures set out in this Regulation.
+
+## Article 11
+
+1\. No claims in connection with any contract or transaction the performance of which has been affected, directly or indirectly, in whole or in part, by the measures imposed under this Regulation, including claims for indemnity or any other claim of this type, such as a claim for compensation or a claim under a guarantee, notably a claim for extension or payment of a bond, guarantee or indemnity, particularly a financial guarantee or financial indemnity, of whatever form, shall be satisfied, if they are made by:
+
+(a) designated natural or legal persons, entities or bodies listed in Annex I;
+
+(b) any natural or legal person, entity or body acting through or on behalf of one of the persons, entities or bodies referred to in point (a).
+
+2\. In any proceedings for the enforcement of a claim, the onus of proving that satisfying the claim is not prohibited by paragraph 1 shall be on the natural or legal person, entity or body seeking the enforcement of that claim.
+
+3\. This Article is without prejudice to the right of the natural or legal persons, entities and bodies referred to in paragraph 1 to judicial review of the legality of the non-performance of contractual obligations in accordance with this Regulation.
+
+## Article 12
+
+1\. The Commission and Member States shall inform each other of the measures taken under this Regulation and share any other relevant information at their disposal in connection with this Regulation, in particular information:
+
+(a) in respect of funds frozen under Article 2 and authorisations granted under Articles 3 to 6;
+
+(b) in respect of violation and enforcement problems and judgments handed down by national courts.
+
+2\. The Member States shall immediately inform each other and the Commission of any other relevant information at their disposal which might affect the effective implementation of this Regulation.
+
+## Article 13
+
+1\. Where the Council decides to subject a natural or legal person, entity or body to the measures referred to in Article 2, it shall amend Annex I accordingly.
+
+2\. The Council shall communicate the decision referred to in paragraph 1, including the grounds for the listing, to the natural or legal person, entity or body concerned, either directly, if the address is known or through the publication of a notice in the Official Journal of the European Union, providing that natural or legal person, entity or body with an opportunity to present observations.
+
+3\. Where observations are submitted or where substantial new evidence is presented, the Council shall review the decision referred to in paragraph 1 and inform the natural or legal person, entity or body accordingly.
+
+## Article 14
+
+1\. Annex I shall include the grounds for the listing of natural or legal persons, entities or bodies concerned.
+
+2\. Annex I shall include available information necessary to identify the natural or legal persons, entities or bodies concerned. With regard to natural persons, such information may include names and aliases, date and place of birth, nationality, passport and identity card numbers, gender, address, if known, and function or profession. With regard to legal persons, entities and bodies, such information may include names, place and date of registration, registration number and place of business.
+
+## Article 15
+
+1\. Member States shall lay down the rules on penalties applicable to infringements of the provisions of this Regulation and shall take all measures necessary to ensure that they are implemented. The penalties provided for must be effective, proportionate and dissuasive.
+
+2\. Member States shall notify those rules to the Commission without delay after the entry into force of this Regulation, and shall notify it without delay of any subsequent amendment.
+
+## Article 16
+
+1\. The Council, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’) shall process personal data in order to carry out their tasks under this Regulation. These tasks include:
+
+(a) as regards the Council, preparing and making amendments to Annex I;
+
+(b) as regards the High Representative, preparing amendments to Annex I;
+
+(c) as regards the Commission:
+
+(i) adding the contents of Annex I in the electronic, consolidated list of persons, groups and entities subject to Union financial sanctions and in the interactive sanctions map, both publicly available;
+
+(ii) processing information on the impact of the measures of this Regulation such as the value of frozen funds and information on authorisations granted by the competent authorities.
+
+2\. The Council, the Commission and the High Representative may process where applicable relevant data relating to criminal offences committed by listed natural persons, and to criminal convictions or security measures concerning such persons, only to the extent that such processing is necessary for the preparation of Annex I.
+
+3\. For the purposes of this Regulation, the Council, the Commission service listed in Annex II and the High Representative are designated as ‘controller’ within the meaning of Article 3(8) of Regulation (EU) 2018/1725, in order to ensure that the natural persons concerned can exercise their rights under Regulation (EU) 2018/1725.
+
+## Article 17
+
+1\. Member States shall designate the competent authorities referred to in this Regulation and identify them on the websites listed in Annex II. Member States shall notify the Commission of any changes in the addresses of their websites listed in Annex II.
+
+2\. Member States shall notify the Commission of their competent authorities, including the contact details of those competent authorities, without delay after the entry into force of this Regulation, and shall notify it of any subsequent amendment.
+
+3\. Where this Regulation sets out a requirement to notify, inform or otherwise communicate with the Commission, the address and other contact details to be used for such communication shall be those indicated in Annex II.
+
+4\. The Commission shall be empowered to amend Annex II on the basis of information supplied by Member States.
+
+## Article 18
+
+This Regulation shall apply:
+
+(a) within the territory of the Union, including its airspace;
+
+(b) on board of any aircraft or any vessel under the jurisdiction of a Member State;
+
+(c) to any natural person inside or outside the territory of the Union who is a national of a Member State;
+
+(d) to any legal person, entity or body, inside or outside the territory of the Union, which is incorporated or constituted under the law of a Member State;
+
+(e) to any legal person, entity or body in respect of any business done in whole or in part within the Union.
+
+## Article 19
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**A. Natural persons referred to in Article 2**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td>1.</td><td>Ramón Antonio AVELLÁN MEDAL</td><td>Date of birth: 11 November 1954 Place of birth: Jinotepe, Nicaragua  Passport number: A0008696  Issued: 17 October 2011  Expires: 17 October 2021  Gender: male </td><td>Deputy Director-General of the Nicaraguan National Police (NNP) and former chief of the police in Masaya. Responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua, including by coordinating the repression of protesters in Masaya in 2018.</td><td>4.5.2020</td></tr>
+<tr><td>2.</td><td>Sonia CASTRO GONZÁLEZ</td><td>Date of birth: 29 September 1967 Place of birth: Carazo, Nicaragua  Passport number: A00001526  Issued: 19 November 2019  Expires: 19 November 2028  ID number: 0422909670000N  Gender: female </td><td>Special advisor to the President of Nicaragua on health issues and former Minister of Health. Responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua, including by hindering access to emergency medical assistance for injured civilians involved in demonstrations and ordering hospital staff to report demonstrators who have been brought to hospital by the police.</td><td>4.5.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>3.</td><td>Francisco Javier DÍAZ MADRIZ</td><td>Date of birth: 3 August 1961 Gender: male </td><td>General Director of the Nicaraguan National Police (NNP) since 23 August 2018 and former Deputy General Director of NNP. Responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua, including by leading police forces committing violence against civilians, including excessive use of force, arbitrary arrests and detentions and torture. In 2021, he carried out the investigations to set up cases against the opposition leaders arrested before the elections.</td><td>4.5.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>4.</td><td>Néstor MONCADA LAU</td><td>Date of birth: 2 March 1954 Gender: male </td><td>Personal advisor to the President of Nicaragua on national security matters. In this capacity, he has been directly involved in and responsible for decision-making on national security matters and the establishment of repressive policies carried out by the State of Nicaragua against people taking part in demonstrations, opposition representatives and journalists in Nicaragua from April 2018 onwards.</td><td>4.5.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>5.</td><td>Luís PÉREZ OLIVAS</td><td>Date of birth: 8.1.1956 Gender: male </td><td>Head of District Three Police Station in Managua since 2023. Former General Commissioner and Legal Assistance Main Officer (DAEJ) in the ‘El Chipote’ penitentiary centre. Responsible for serious human rights violations, including torture, use of extensive force, mistreatment of detainees and other forms of degrading treatment.</td><td>4.5.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>6.</td><td>Justo PASTOR URBINA</td><td>Date of birth: 29 January 1956 Gender: male </td><td>Head of Police Special Operations Unit (DOEP). He has been directly involved in the implementation of repressive policies against demonstrators and the opposition in Nicaragua, particularly in Managua. In this context, he is responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua.</td><td>4.5.2020</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>7.</td><td>Rosario María MURILLO ZAMBRANA Alias: Rosario María MURILLO DE ORTEGA </td><td>Position(s): Co-President of the Republic of Nicaragua (since February 2025, previously Vice President, since 2017). Wife of President Daniel Ortega Date of birth: 22 June 1951  Place of birth: Managua, Nicaragua  Gender: female  Nationality: Nicaraguan  Passport number: A00000106 (Nicaragua) </td><td>Co-President of Nicaragua since February 2025, First Lady of Nicaragua and a leader of the Sandinista Youth. Vice President of Nicaragua from January 2017 to February 2025. She played an instrumental role in encouraging and justifying the repression of opposition demonstrations by the Nicaraguan National Police in 2018. In June 2021, she publicly threatened the Nicaraguan opposition and discredited independent journalists. Those threats have been repeated since then. In February 2023, Daniel Ortega revealed that Rosario María Murillo Zambrana is the instigator of new repressions, namely related to the expulsion and deprivation of citizenship of 222 political prisoners. She is therefore responsible for serious human rights violations, for the repression of civil society and democratic opposition, and for undermining democracy in Nicaragua. </td><td>2.8.2021</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>8.</td><td>Gustavo Eduardo PORRAS CORTÉS</td><td>Position(s): President of the National Assembly of the Republic of Nicaragua (since January 2017) Date of birth: 11 October 1954  Place of birth: Managua, Nicaragua  Gender: male  Nationality: Nicaraguan </td><td>President of the National Assembly of Nicaragua since January 2017 and member of the national direction of the Sandinista National Liberation Front (FSLN) since 1996. In his position as the President of the National Assembly of Nicaragua, he is responsible for promoting the adoption of several repressive legal acts, among them an amnesty law that precludes any investigation into the perpetrators of massive human rights violations in 2018, laws undermining freedom and democratic process in Nicaragua, and laws depriving the civil rights of civilians, including the Bishop of Matagalpa, Rolando José Álvarez Lagos.  He is therefore responsible for the repression of civil society, democratic opposition, representatives of the Church, as well as for seriously undermining democracy and the rule of law in Nicaragua. </td><td>2.8.2021</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>9.</td><td>Juan Antonio VALLE VALLE</td><td>Position(s): Leader in Nicaraguan National Police Rank: General/Senior Commissioner  Date of birth: 4 May 1963  Place of birth: Matagalpa, Nicaragua  Gender: male  Nationality: Nicaraguan </td><td>As leader in the rank of senior commissioner (second highest rank) of the Nicaraguan National Police (NNP) and until February 2025 in a leading position in the police in Managua, Juan Antonio Valle Valle is responsible for repeated acts of police brutality and the excessive use of force which resulted in the deaths of hundreds of civilians, for arbitrary arrests and detentions, for violations of freedom of expression and for preventing demonstrations against the government. He is therefore responsible for serious human rights violations and for the repression of civil society and democratic opposition in Nicaragua. </td><td>2.8.2021</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>10.</td><td>Ana Julia GUIDO OCHOA Alias: Ana Julia GUIDO DE ROMERO </td><td>Position(s): Attorney General of the Republic of Nicaragua Date of birth: 16 February 1959  Place of birth: Matagalpa, Nicaragua  Gender: female  Nationality: Nicaraguan </td><td>In her position as Attorney General, the highest civil servant in the Prosecutor’s Office, Ana Julia Guido Ochoa, who is loyal to the Ortega regime, is responsible for the politically motivated prosecution of numerous protesters and members of the political opposition. She created a specialised unit that fabricated allegations against protesters and brought charges against them. She is moreover responsible for the disqualification from public office of the main opposition candidate for the general elections. She is therefore responsible for serious human rights violations, for the repression of civil society and democratic opposition, and for undermining democracy and the rule of law in Nicaragua. </td><td>2.8.2021</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>11.</td><td>Fidel de Jesús DOMÍNGUEZ ÁLVAREZ</td><td>Position(s): Chief of police in Leon, General Commissioner of the National Police Date of birth: 21 March 1960  Gender: male  Nationality: Nicaraguan </td><td>In his position as Chief of police in Leon since 23 August 2018 and then General Commissioner of the National Police since September 2020, Fidel de Jesús Domínguez Alvarez is responsible for numerous serious violations of human rights, in particular arbitrary arrests and detention including the kidnapping of members of a political opponent’s family, death threats, the excessive use of force and violations of freedom of expression and freedom of the media. He is considered as one of the main figures of repression against the democratic opposition in the region of Leon. He is therefore responsible for serious human rights violations and the repression of civil society and democratic opposition. </td><td>2.8.2021</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>12.</td><td>Alba Luz RAMOS VANEGAS </td><td>Date of birth: 3.6.1949 Gender: female  Nationality: Nicaraguan  Passport number: A0009864 (Nicaragua) </td><td>Former President of the Supreme Court of Justice of Nicaragua. Responsible for instrumentalisation of the judiciary in favour of the interests of the Ortega regime, through the selective criminalisation of opposition activities, perpetuating the pattern of violations of rights of due process, arbitrary arrests, and the disqualification of political parties and opposition candidates. She is therefore responsible for serious human rights violations, for the repression of civil society and democratic opposition, and for seriously undermining the rule of law in Nicaragua </td><td>2.8.2021</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>13.</td><td>Juan Carlos ORTEGA MURILLO</td><td>Position(s): Director at Canal 8 and Difuso Comunicaciones. Leader of the 4th of May Sandinista Movement, Son of the President and Vice President of the Republic of Nicaragua Date of birth: 17 October 1982  Nationality: Nicaraguan </td><td>Son of president Daniel Ortega and the First Lady and Vice President Rosario Murillo. Director of one of the main propaganda TV stations, Canal 8, and the leader of the 4th of May Sandinista Movement. In his position, he has contributed to restricting freedom of expression and freedom of the media. He has publicly threatened Nicaraguan businesspersons who oppose the Ortega regime. He is therefore responsible for undermining democracy and the repression of civil society in Nicaragua. Because he is the son of Vice President Rosario Murillo, he is associated with persons responsible for serious human rights violations and the repression of civil society in Nicaragua.</td><td>2.8.2021</td></tr>
+<tr><td>14.</td><td>Bayardo ARCE CASTAÑO</td><td>Position(s): Economic Advisor to the President of the Republic of Nicaragua Date of birth: 21 March 1950  Gender: male  Nationality: Nicaraguan </td><td>In his position as Economic Advisor to President Daniel Ortega, Bayardo Arce Castano holds significant influence over the policies of the Ortega regime. He is therefore associated with persons responsible for serious violations of human rights in Nicaragua. He supported the development of legislation preventing opposition candidates from taking part in elections. He is therefore responsible for repression against civil society and democratic opposition in Nicaragua. </td><td>2.8.2021</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>15.</td><td>Camila Antonia ORTEGA MURILLO</td><td>Position: Daughter of Daniel Ortega and Rosario Murillo, Advisor to the Presidency, Coordinator of the Creative Economy Commission, Director of TV station Canal 13 Date of birth: 4.11.1987  Place of birth: Managua, Nicaragua  Gender: female  Nationality: Nicaraguan  Passport number: A00000114 (Nicaragua)  ID number: 0010411870001B </td><td>Camila Antonia Ortega Murillo is closely involved in actions supporting the presidential couple Daniel Ortega and Rosario Murillo, as an advisor to the Presidency, personal assistant to the Vice-President and Coordinator of the Creative Economy National Commission. She is also the Director of the platform Nicaragua Diseña and TV station Canal 13. She is responsible for using Nicaragua Diseña to support the fraudulent presidential and parliamentary elections, which took place on 7 November 2021, by creating fake accounts on different social media platforms.  As the Director of Canal 13, she has contributed to disseminating the Ortega regime’s hate speech against the civic opposition, while restricting editorial plurality and persecuting independent journalists and media outlets in Nicaragua, eliminating freedom of expression and actual electoral competition. She has played a central role in the suppression of political pluralism and the definitive disarticulation of Nicaraguan democracy.  She is therefore associated with persons responsible for undermining democracy and for serious human rights violations and she is supporting such repression and violations. </td><td>10.1.2022</td></tr>
+<tr><td>16.</td><td>Laureano Facundo ORTEGA MURILLO</td><td>Son of Daniel Ortega and Rosario Murillo, Advisor to the Presidency Date of birth: 20.11.1982  Place of birth: Managua, Nicaragua  Gender: male  Nationality: Nicaraguan  Passport number: A00000684 (Nicaragua)  ID number: 0012011820046M </td><td>Laureano Facundo Ortega Murillo is closely involved in actions supporting the presidential couple Daniel Ortega and Rosario Murillo, as an advisor to the Presidency. He has justified and supported the arbitrary and illegal imprisonment of Nicaraguan political opposition leaders and presidential pre-candidates, student and rural leaders or independent journalists, all of whom he has referred to as ‘terrorists’. By contributing to the elimination of actual electoral competition, he has played a central role in the suppression of political pluralism and the definitive disarticulation of Nicaraguan democracy. He has acted as an economic advisor to his father Daniel Ortega and the Ortega regime through the governmental agency ProNicaragua. Additionally, he is responsible for operating BanCorp – an entity whose main purpose is to assist, sponsor and financially support the repressive activities of his mother, Vice-President Rosario Murillo.  He is therefore associated with persons responsible for the repression of civil society and for serious human rights violations, and he is supporting such repression and violations. </td><td>10.1.2022</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>17.</td><td>Brenda Isabel ROCHA CHACÓN</td><td>Position(s): President of the Supreme Electoral Council Date of birth: 10.2.1967  Place of birth: Bonanza, Nicaragua  Gender: female  Nationality: Nicaraguan </td><td>Brenda Isabel Rocha Chacón has been since May 2021 President of the Supreme Electoral Council (SEC) – a body responsible for the preparation, holding and certification of the general elections of 7 November 2021 and local elections of 6 November 2022, which, by their lack of transparency, true opposition and democratic debate, undermined democratic institutions and processes. The SEC deprived the opposition of the opportunity to stand for free elections and ensured the organisation of polls in non-democratic conditions. She is therefore responsible for the repression of democratic opposition and for undermining democracy and the rule of law in Nicaragua. </td><td>10.1.2022</td></tr>
+<tr><td>18.</td><td>Cairo Melvin AMADOR ARRIETA</td><td>Position(s): Vice-President of the Supreme Electoral Council Date of birth: 1952  Gender: male  Nationality: Nicaraguan </td><td>Cairo Melvin Amador Arrieta has been since May 2021 the Vice-President of the Supreme Electoral Council (SEC) – a body responsible for the preparation, holding and certification of the general elections of 7 November 2021 and local elections of 6 November 2022, which, by their lack of transparency, true opposition and democratic debate, undermined democratic institutions and processes. The SEC deprived the opposition of the opportunity to stand for free elections and ensured the organisation of polls in non-democratic conditions. He is therefore responsible for the repression of democratic opposition and for undermining democracy and the rule of law in Nicaragua. </td><td>10.1.2022</td></tr>
+<tr><td>19.</td><td>Lumberto Ignacio CAMPBELL HOOKER</td><td>Position(s): Member of the Supreme Electoral Council, acting President of the Supreme Electoral Council in 2018 Date of birth: 3.12.1949  Place of birth: Raas, Nicaragua  Gender: male  Nationality: Nicaraguan  Passport number: A00001109 (Nicaragua)  ID number: 6010302490003J </td><td>Lumberto Ignacio Campbell Hooker has been since 2014 a member of the Supreme Electoral Council (SEC) – a body responsible for the preparation, holding and certification of the general elections of 7 November 2021 and local elections of 6 November 2022, which, by their lack of transparency, true opposition and democratic debate, undermined democratic institutions and processes. The SEC deprived the opposition of the opportunity to stand for free elections and ensured the organisation of polls in non-democratic conditions. His mandate as member of the SEC was renewed by the General Assembly in May 2021. He spoke to the media during the general elections of 7 November 2021 and local elections of 6 November 2022, justifying and praising their organisation.  He is therefore responsible for the repression of democratic opposition and for undermining democracy and the rule of law in Nicaragua. </td><td>10.1.2022</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>20.</td><td>Nahima Janett DÍAZ FLORES</td><td>Director of the Nicaraguan Institute of Telecommunications and Postal Services, daughter of the General Director of the Nicaraguan National Police Francisco Javier Díaz Madriz Date of birth: 28.6.1989  Gender: female  Nationality: Nicaraguan </td><td>Nahima Janett Díaz Flores is the Director of the Nicaraguan Institute of Telecommunications and Postal Services (TELCOR), the regulatory entity for telecommunications and postal services. TELCOR has been used by the Nicaraguan authorities to silence independent media, including three news organisations since 2018. During the 2021 general elections campaign, TELCOR was implementing disinformation campaigns on a large scale. As the institution in charge of the implementation of the ‘cybersecurity law’, TELCOR has been commanding and operating surveillance actions regarding civil society and democratic opposition. In her position, Nahima Díaz Flores has acted as a supporter of the Ortega regime, and has commanded and operated actions of disinformation and surveillance through TELCOR of civil society and democratic opposition. She is therefore responsible for serious violations of human rights, repression of civil society and democratic opposition, and undermining democracy in Nicaragua. </td><td>10.1.2022</td></tr>
+<tr><td>21.</td><td>Luis Ángel MONTENEGRO ESPINOZA</td><td>Superintendent of the Superintendency of Banks and other Financial Institutions of Nicaragua Date of birth: 1.1.1949  Place of birth: Esteli, Nicaragua  Gender: male  Address: Planes De Puntaldia Casa #16, Managua, Nicaragua  Nationality: Nicaraguan  ID number: 1610101490000S </td><td>Luis Ángel Montenegro Espinoza is the Superintendent of the Superintendency of Banks and other Financial Institutions of Nicaragua (SIBOIF). In that position he is responsible for the persecution of financial actors that resisted the Ortega regime’s policies, as well as for enforcing the regime’s control over the financial sector. He was appointed to that position directly by Daniel Ortega, as a reward for his loyalty. In his previous role as Controller General of the Republic he ensured that Ortega’s corrupt financial activities would not be audited and equally contributed to Ortega’s control of the regime.  He is therefore responsible for undermining the rule of law in Nicaragua as well as for the repression of civil society and democratic opposition. </td><td>10.1.2022</td></tr>
+</tbody>
+</table>
+
+**B. Legal persons, entities and bodies referred to in Article 2**
+
+<table>
+<tbody><tr><td>  </td><td>Name</td><td>Identifying information</td><td>Reasons</td><td>Date of listing</td></tr>
+<tr><td>1.</td><td>National Police of Nicaragua La Policía Nacional Nicaragüense </td><td>Headquarters: Managua, Nicaragua Date of establishment: 22.8.1979  Website: http://www.policia.gob.ni/ </td><td>The National Police of Nicaragua is responsible for the degrading treatment, including physical and psychological torture, of those who opposed the Ortega regime. It is responsible for the unlawful imprisonment of presidential pre-candidates, civil society leaders, student and rural leaders or independent journalists without any legal and democratic guarantees. The National Police was instrumental in Daniel Ortega avoiding facing any real democratic opposition during the general elections of 7 November 2021. Prior to those elections, the National Police conducted continuous surveillance and persecution of opposition leaders, unlawful residential break-ins and arbitrary arrests of opposition members, and it systematically threatened public employees.  In 2018, the National Police was involved in killings of peaceful protesters across Nicaragua.  The National Police of Nicaragua is therefore responsible for serious violations of human rights, repression of civil society and democratic opposition, and undermining democracy and the rule of law in Nicaragua. </td><td>10.1.2022</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>2.</td><td>Supreme Electoral Council Consejo Supremo Electoral </td><td>Address: Pista Juan Pablo II, Managua 14005, Nicaragua Website: https://www.cse.gob.ni/  Email: info@cse.gob.ni </td><td>The Supreme Electoral Council (SEC) is the body responsible for the preparation, holding and certification of the general elections of 7 November 2021, which by their lack of transparency, true opposition and democratic debate, undermined democratic institutions and processes. The SEC deprived the opposition of the opportunity to stand for free elections and ensured the organisation of polls in non-democratic conditions. On 3 October 2023, the SEC cancelled the legal status of Yatama, the main indigenous political party in Nicaragua, hindering its participation in the March 2024 elections in two autonomous regions of the country (Costa Caribe and Costa Caribe Norte).  The SEC is therefore responsible for the repression of democratic opposition and for undermining democracy and the rule of law in Nicaragua. </td><td>10.1.2022</td></tr>
+<tr><td colspan="5"></td></tr>
+<tr><td>3.</td><td>Nicaraguan Institute of Telecommunications and Postal Services</td><td>Address: Avenida Bolívar, Esquina diagonal al edifico de la Cancillería, Aptdo 2664, Managua 10000, Nicaragua Date of registration: 12.6.1982  Website: https://www.telcor.gob.ni </td><td>The Nicaraguan Institute of Telecommunications and Postal Services (TELCOR) is the regulatory entity for telecommunications and postal services. It has been used by the Nicaraguan authorities to silence independent media, including three news organisations since 2018, during the repression of 2018 and after the general elections of 2021. During the general elections campaign, TELCOR was implementing a disinformation campaign on a large scale. As the institution in charge of the implementation of the ‘cybersecurity law’, TELCOR has been commanding and operating surveillance actions regarding civil society and democratic opposition. In addition, TELCOR continues its campaign of tight media control by shutting down radio stations close to the democratic opposition. TELCOR is therefore responsible for serious violations of human rights, and the repression of civil society and democratic opposition. </td><td>10.1.2022</td></tr>
+</tbody>
+</table>
+
+## ANNEX II
+
+**Websites for information on the competent authorities and address for notifications to the Commission**
+
+BELGIUM
+
+https://diplomatie.belgium.be/en/policy/policy_areas/peace_and_security/sanctions
+
+BULGARIA
+
+https://www.mfa.bg/en/EU-sanctions
+
+CZECHIA
+
+www.financnianalytickyurad.cz/mezinarodni-sankce.html
+
+DENMARK
+
+https://um.dk/udenrigspolitik/sanktioner/ansvarlige-myndigheder
+
+GERMANY
+
+https://www.bmwi.de/Redaktion/DE/Artikel/Aussenwirtschaft/embargos-aussenwirtschaftsrecht.html
+
+ESTONIA
+
+https://vm.ee/sanktsioonid-ekspordi-ja-relvastuskontroll/rahvusvahelised-sanktsioonid
+
+IRELAND
+
+https://www.dfa.ie/our-role-policies/ireland-in-the-eu/eu-restrictive-measures/
+
+GREECE
+
+http://www.mfa.gr/en/foreign-policy/global-issues/international-sanctions.html
+
+SPAIN
+
+https://www.exteriores.gob.es/es/PoliticaExterior/Paginas/SancionesInternacionales.aspx
+
+FRANCE
+
+http://www.diplomatie.gouv.fr/fr/autorites-sanctions/
+
+CROATIA
+
+https://mvep.gov.hr/vanjska-politika/medjunarodne-mjere-ogranicavanja/22955
+
+ITALY
+
+https://www.esteri.it/it/politica-estera-e-cooperazione-allo-sviluppo/politica_europea/misure_deroghe/
+
+CYPRUS
+
+https://mfa.gov.cy/themes/
+
+LATVIA
+
+https://www.fid.gov.lv/en
+
+LITHUANIA
+
+https://www.urm.lt/en/lithuania-in-the-region-and-the-world/lithuanias-security-policy/international-sanctions/997
+
+LUXEMBOURG
+
+https://maee.gouvernement.lu/fr/directions-du-ministere/affaires-europeennes/organisations-economiques-int/mesures-restrictives.html
+
+HUNGARY
+
+https://kormany.hu/kulgazdasagi-es-kulugyminiszterium/ensz-eu-szankcios-tajekoztato
+
+MALTA
+
+https://smb.gov.mt/
+
+NETHERLANDS
+
+https://www.rijksoverheid.nl/onderwerpen/internationale-sancties
+
+AUSTRIA
+
+https://www.bmeia.gv.at/themen/aussenpolitik/europa/eu-sanktionen-nationale-behoerden/
+
+POLAND
+
+https://www.gov.pl/web/dyplomacja/sankcje-miedzynarodowe
+
+https://www.gov.pl/web/diplomacy/international-sanctions
+
+PORTUGAL
+
+https://portaldiplomatico.mne.gov.pt/politica-externa/medidas-restritivas
+
+ROMANIA
+
+http://www.mae.ro/node/1548
+
+SLOVENIA
+
+http://www.mzz.gov.si/si/omejevalni_ukrepi
+
+SLOVAKIA
+
+https://www.mzv.sk/europske_zalezitosti/europske_politiky-sankcie_eu
+
+FINLAND
+
+https://um.fi/pakotteet
+
+SWEDEN
+
+https://www.regeringen.se/sanktioner
+
+Address for notifications to the European Commission:
+
+European Commission
+
+Directorate-General for Financial Stability, Financial Services and Capital Markets Union (DG FISMA)
+
+Rue de Spa 2/Spastraat 2
+
+B-1049 Bruxelles/Brussel,
+
+E-mail: relex-sanctions@ec.europa.eu

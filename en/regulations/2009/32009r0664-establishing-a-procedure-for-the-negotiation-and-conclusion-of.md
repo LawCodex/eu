@@ -1,0 +1,177 @@
+---
+title: "Council Regulation (EC) No 664/2009 of 7 July 2009 establishing a procedure for the negotiation and conclusion of agreements between Member States and third countries concerning jurisdiction, recognition and enforcement of judgments and decisions in matrimonial matters, matters of parental responsibility and matters relating to maintenance obligations, and the law applicable to matters relating to maintenance obligations"
+identifier: "32009R0664"
+eli: "http://data.europa.eu/eli/reg/2009/664/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2009-07-07
+entry_into_force: 2009-04-08
+last_amended: 2009-08-20
+consolidated_version: "02009R0664-20090820"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0664-20090820"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 664/2009 of 7 July 2009 establishing a procedure for the negotiation and conclusion of agreements between Member States and third countries concerning jurisdiction, recognition and enforcement of judgments and decisions in matrimonial matters, matters of parental responsibility and matters relating to maintenance obligations, and the law applicable to matters relating to maintenance obligations
+
+**COUNCIL REGULATION (EC) No 664/2009**
+
+**of 7 July 2009**
+
+**establishing a procedure for the negotiation and conclusion of agreements between Member States and third countries concerning jurisdiction, recognition and enforcement of judgments and decisions in matrimonial matters, matters of parental responsibility and matters relating to maintenance obligations, and the law applicable to matters relating to maintenance obligations**
+
+**COUNCIL REGULATION (EC) No 664/2009**
+
+**of 7 July 2009**
+
+**establishing a procedure for the negotiation and conclusion of agreements between Member States and third countries concerning jurisdiction, recognition and enforcement of judgments and decisions in matrimonial matters, matters of parental responsibility and matters relating to maintenance obligations, and the law applicable to matters relating to maintenance obligations**
+
+## Article 1 — Subject-matter and scope
+
+1\. This Regulation establishes a procedure to authorise a Member State to amend an existing agreement or to negotiate and conclude a new agreement with a third country, subject to the conditions laid down in this Regulation.
+
+This procedure is without prejudice to the respective competencies of the Community and of the Member States.
+
+2\. This Regulation shall apply to agreements concerning matters falling, entirely or partly, within the scope of Council Regulation (EC) No 2201/2003 of 27 November 2003 concerning jurisdiction and the recognition and enforcement of judgments in matrimonial matters and the matters of parental responsibility ( 4 ) and Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 5 ), to the extent that those matters fall within the exclusive competence of the Community.
+
+3\. This Regulation shall not apply if the Community has already concluded an agreement with the third country concerned on the same subject-matter.
+
+## Article 2 — Definitions
+
+1\. For the purposes of this Regulation, the term ‘agreement’ shall mean:
+
+(a) a bilateral agreement between a Member State and a third country;
+
+(b) the regional agreements referred to in Article 59(2)(a) of Regulation (EC) No 2201/2003, without prejudice to Article 59(2)(c) and Article 59(3) of that Regulation, and in Article 69(3) of Regulation (EC) No 4/2009.
+
+2\. In the context of regional agreements as referred to in paragraph 1(b), any reference in this Regulation to a Member State or a third country shall be read as referring to the Member States or the third countries concerned, respectively.
+
+## Article 3 — Notification to the Commission
+
+1\. Where a Member State intends to enter into negotiations in order to amend an existing agreement or to conclude a new agreement falling within the scope of this Regulation, it shall notify the Commission in writing of its intention at the earliest possible moment before the envisaged opening of formal negotiations.
+
+2\. The notification shall include, as appropriate, a copy of the existing agreement, the draft agreement or the draft proposal, and any other relevant documentation. The Member State shall describe the subject-matter of the negotiations and specify the issues which are to be addressed in the envisaged agreement, or the provisions of the existing agreement which are to be amended. The Member State may provide any other additional information.
+
+## Article 4 — Assessment by the Commission
+
+1\. Upon receipt of the notification referred to in Article 3, the Commission shall assess whether the Member State may open formal negotiations.
+
+2\. In making that assessment, the Commission shall first check whether any relevant negotiating mandate with a view to concluding a Community agreement with the third country concerned is specifically envisaged within the next 24 months. If this is not the case, the Commission shall assess whether all of the following conditions are met:
+
+(a) the Member State concerned has provided information showing that it has a specific interest in concluding the agreement due to economic, geographic, cultural, historical, social or political ties between the Member State and the third country concerned;
+
+(b) on the basis of the information provided by the Member State, the envisaged agreement appears not to render Community law ineffective and not to undermine the proper functioning of the system established by that law; and
+
+(c) the envisaged agreement would not undermine the object and purpose of the Community’s external relations policy as decided by the Community.
+
+3\. If the information provided by the Member State is not sufficient for the purposes of the assessment, the Commission may request additional information.
+
+## Article 5 — Authorisation to open formal negotiations
+
+1\. If the envisaged agreement meets the conditions set out in Article 4(2), the Commission shall, within 90 days of receipt of the notification referred to in Article 3, give a reasoned decision on the application of the Member State authorising it to open formal negotiations on that agreement.
+
+If necessary, the Commission may propose negotiating guidelines and may request the inclusion of particular clauses in the envisaged agreement.
+
+2\. The envisaged agreement shall contain a clause providing for either:
+
+(a) full or partial denunciation of the agreement in the event of the conclusion of a subsequent agreement between the Community or the Community and its Member States, on the one hand, and the same third country, on the other hand, on the same subject-matter; or
+
+(b) direct replacement of the relevant provisions of the agreement by the provisions of a subsequent agreement concluded between the Community or the Community and its Member States, on the one hand, and the same third country, on the other hand, on the same subject-matter.
+
+The clause referred to in point (a) of the first subparagraph should be worded along the following lines: ‘(name(s) of the Member State(s)) shall denounce this Agreement, in part or in full, if and when the European Community or the European Community and its Member States conclude an Agreement with (name(s) of the third country(ies)) on the same matters of civil justice as those governed by this Agreement’.
+
+The clause referred to in point (b) of the first subparagraph should be worded along the following lines: ‘This Agreement or certain provisions of this Agreement shall cease to be applicable on the day when an Agreement between the European Community or the European Community and its Member States, on the one hand, and (name(s) of the third country(ies)), on the other hand, has entered into force, in respect of the matters governed by the latter Agreement’.
+
+## Article 6 — Refusal to authorise the opening of formal negotiations
+
+1\. If, on the basis of its assessment under Article 4, the Commission intends not to authorise the opening of formal negotiations on the envisaged agreement, it shall give an opinion to the Member State concerned within 90 days of receipt of the notification referred to in Article 3.
+
+2\. Within 30 days of receipt of the opinion of the Commission, the Member State concerned may request the Commission to enter into discussions with it with a view to finding a solution.
+
+3\. If the Member State concerned does not request the Commission to enter into discussions with it within the time-limit provided for in paragraph 2, the Commission shall give a reasoned decision on the application of the Member State within 130 days of receipt of the notification referred to in Article 3.
+
+4\. In the event of the discussions referred to in paragraph 2, the Commission shall give a reasoned decision on the application of the Member State within 30 days of the closure of the discussions.
+
+## Article 7 — Participation of the Commission in the negotiations
+
+The Commission may participate as an observer in the negotiations between the Member State and the third country as far as matters falling within the scope of this Regulation are concerned. If the Commission does not participate as an observer, it shall be kept informed of the progress and results throughout the different stages of the negotiations.
+
+## Article 8 — Authorisation to conclude the agreement
+
+1\. Before signing a negotiated agreement, the Member State concerned shall notify the outcome of the negotiations to the Commission and shall transmit to it the text of the agreement.
+
+2\. Upon receipt of that notification the Commission shall assess whether the negotiated agreement:
+
+(a) meets the condition set out in Article 4(2)(b);
+
+(b) meets the condition set out in Article 4(2)(c), in so far as there are new and exceptional circumstances in relation to that condition; and
+
+(c) fulfils the requirement under Article 5(2).
+
+3\. If the negotiated agreement fulfils the conditions and requirements referred to in paragraph 2, the Commission shall, within 90 days of receipt of the notification referred to in paragraph 1, give a reasoned decision on the application of the Member State authorising it to conclude that agreement.
+
+## Article 9 — Refusal to authorise the conclusion of the agreement
+
+1\. If, on the basis of its assessment under Article 8(2), the Commission intends not to authorise the conclusion of the negotiated agreement, it shall give an opinion to the Member State concerned, as well as to the European Parliament and to the Council, within 90 days of receipt of the notification referred to in Article 8(1).
+
+2\. Within 30 days of receipt of the opinion of the Commission, the Member State concerned may request the Commission to enter into discussions with it with a view to finding a solution.
+
+3\. If the Member State concerned does not request the Commission to enter into discussions with it within the time-limit provided for in paragraph 2, the Commission shall give a reasoned decision on the application of the Member State within 130 days of receipt of the notification referred to in Article 8(1).
+
+4\. In the event of the discussions referred to in paragraph 2, the Commission shall give a reasoned decision on the application of the Member State within 30 days of the closure of the discussions.
+
+5\. The Commission shall notify its decision to the European Parliament and to the Council within 30 days of the decision.
+
+## Article 10 — Confidentiality
+
+When providing information to the Commission under Articles 3, 4(3) and 8, the Member State may indicate whether any of the information is to be regarded as confidential and whether the information provided can be shared with other Member States.
+
+## Article 11 — Provision of information to the Member States
+
+The Commission shall send to the Member States the notifications received under Articles 3 and 8 and, if necessary, the accompanying documents, as well as all its reasoned decisions under Articles 5, 6, 8 and 9, subject to the confidentiality requirements.
+
+## Article 12 — Transitional provisions
+
+1\. Where, at the time of entry into force of this Regulation, a Member State has already started the process of negotiating an agreement with a third country, Articles 3 to 11 shall apply.
+
+Where the stage of the negotiations so permits, the Commission may propose negotiating guidelines or request the inclusion of particular clauses, as referred to in the second subparagraph of Article 5(1) and Article 5(2) respectively.
+
+2\. Where, at the time of entry into force of this Regulation, a Member State has already completed the negotiations but has not yet concluded the agreement, Article 3, Article 8(2) and (3) and Article 9 shall apply.
+
+## Article 13 — Review
+
+1\. No earlier than 7 July 2017 the Commission shall submit to the European Parliament, the Council and the European Economic and Social Committee a report on the application of this Regulation.
+
+2\. That report shall either:
+
+(a) confirm that it is appropriate for this Regulation to expire on the date determined in accordance with Article 14(1); or
+
+(b) recommend that this Regulation be replaced as of that date by a new Regulation.
+
+3\. If the report recommends a replacement of the Regulation as referred to in paragraph 2(b), it shall be accompanied by an appropriate legislative proposal.
+
+## Article 14 — Expiry
+
+1\. This Regulation shall expire three years after the submission by the Commission of the report referred to in Article 13.
+
+The period of three years referred to in the first subparagraph shall start to run on the first day of the month following the submission of the report to either the European Parliament or the Council, whichever is the later.
+
+2\. Notwithstanding the expiry of this Regulation on the date determined in accordance with paragraph 1, all negotiations ongoing on that date which have been entered into by a Member State under this Regulation shall be allowed to continue and to be completed in accordance with this Regulation.
+
+## Article 15 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaty establishing the European Community.
+
+( 1 ) Opinion of 7 May 2009 (not yet published in the Official Journal).
+
+( 2 ) OJ L 12, 16.1.2001, p. 1.
+
+( 3 ) OJ L 145, 31.5.2001, p. 43.
+
+( 4 ) OJ L 338, 23.12.2003, p. 1.
+
+( 5 ) OJ L 7, 10.1.2009, p. 1.

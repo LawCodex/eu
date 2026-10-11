@@ -1,0 +1,4310 @@
+---
+title: "Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations"
+identifier: "32009R0004"
+eli: "http://data.europa.eu/eli/reg/2009/4(1)/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-12-18
+entry_into_force: 2010-01-01
+last_amended: 2026-07-16
+consolidated_version: "02009R0004-20260716"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02009R0004-20260716"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations
+
+**COUNCIL REGULATION (EC) No 4/2009**
+
+**of 18 December 2008**
+
+**on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 1142/2011 of 10 November 2011 </td><td> L 293</td><td>24</td><td>11.11.2011</td></tr>
+<tr><td> M2</td><td> COUNCIL REGULATION (EU) No 517/2013 of 13 May 2013 </td><td> L 158</td><td>1</td><td>10.6.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/228 of 17 February 2015 </td><td> L 49</td><td>1</td><td>20.2.2015</td></tr>
+<tr><td> M4</td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2018/1937 of 10 December 2018 </td><td> L 314</td><td>36</td><td>11.12.2018</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1397 of 25 June 2026 </td><td> L 1397</td><td>1</td><td>26.6.2026</td></tr>
+</table>
+
+**COUNCIL REGULATION (EC) No 4/2009**
+
+**of 18 December 2008**
+
+**on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations**
+
+## CHAPTER I — SCOPE AND DEFINITIONS
+
+#### Article 1 — Scope of application
+
+1\. This Regulation shall apply to maintenance obligations arising from a family relationship, parentage, marriage or affinity.
+
+2\. In this Regulation, the term ‘Member State’ shall mean Member States to which this Regulation applies.
+
+#### Article 2 — Definitions
+
+1\. For the purposes of this Regulation:
+
+1\. the term ‘decision’ shall mean a decision in matters relating to maintenance obligations given by a court of a Member State, whatever the decision may be called, including a decree, order, judgment or writ of execution, as well as a decision by an officer of the court determining the costs or expenses. For the purposes of Chapters VII and VIII, the term ‘decision’ shall also mean a decision in matters relating to maintenance obligations given in a third State;
+
+2\. the term ‘court settlement’ shall mean a settlement in matters relating to maintenance obligations which has been approved by a court or concluded before a court in the course of proceedings;
+
+3\. the term ‘authentic instrument’ shall mean:
+
+(a) a document in matters relating to maintenance obligations which has been formally drawn up or registered as an authentic instrument in the Member State of origin and the authenticity of which:
+
+(i) relates to the signature and the content of the instrument, and
+
+(ii) has been established by a public authority or other authority empowered for that purpose; or,
+
+(b) an arrangement relating to maintenance obligations concluded with administrative authorities of the Member State of origin or authenticated by them;
+
+4\. the term ‘Member State of origin’ shall mean the Member State in which, as the case may be, the decision has been given, the court settlement has been approved or concluded, or the authentic instrument has been established;
+
+5\. the term ‘Member State of enforcement’ shall mean the Member State in which the enforcement of the decision, the court settlement or the authentic instrument is sought;
+
+6\. the term ‘requesting Member State’ shall mean the Member State whose Central Authority transmits an application pursuant to Chapter VII;
+
+7\. the term ‘requested Member State’ shall mean the Member State whose Central Authority receives an application pursuant to Chapter VII;
+
+8\. the term ‘2007 Hague Convention Contracting State’ shall mean a State which is a contracting party to the Hague Convention of 23 November 2007 on the International Recovery of Child Support and other Forms of Family Maintenance (hereinafter referred to as the 2007 Hague Convention) to the extent that the said Convention applies between the Community and that State;
+
+9\. the term ‘court of origin’ shall mean the court which has given the decision to be enforced;
+
+10\. the term ‘creditor’ shall mean any individual to whom maintenance is owed or is alleged to be owed;
+
+11\. the term ‘debtor’ shall mean any individual who owes or who is alleged to owe maintenance.
+
+2\. For the purposes of this Regulation, the term ‘court’ shall include administrative authorities of the Member States with competence in matters relating to maintenance obligations provided that such authorities offer guarantees with regard to impartiality and the right of all parties to be heard and provided that their decisions under the law of the Member State where they are established:
+
+(i) may be made the subject of an appeal to or review by a judicial authority; and
+
+(ii) have a similar force and effect as a decision of a judicial authority on the same matter.
+
+These administrative authorities shall be listed in Annex X. That Annex shall be established and amended in accordance with the management procedure referred to in Article 73(2) at the request of the Member State in which the administrative authority concerned is established.
+
+3\. For the purposes of Articles 3, 4 and 6, the concept of ‘domicile’ shall replace that of ‘nationality’ in those Member States which use this concept as a connecting factor in family matters.
+
+For the purposes of Article 6, parties which have their ‘domicile’ in different territorial units of the same Member State shall be deemed to have their common ‘domicile’ in that Member State.
+
+## CHAPTER II — JURISDICTION
+
+#### Article 3 — General provisions
+
+In matters relating to maintenance obligations in Member States, jurisdiction shall lie with:
+
+(a) the court for the place where the defendant is habitually resident, or
+
+(b) the court for the place where the creditor is habitually resident, or
+
+(c) the court which, according to its own law, has jurisdiction to entertain proceedings concerning the status of a person if the matter relating to maintenance is ancillary to those proceedings, unless that jurisdiction is based solely on the nationality of one of the parties, or
+
+(d) the court which, according to its own law, has jurisdiction to entertain proceedings concerning parental responsibility if the matter relating to maintenance is ancillary to those proceedings, unless that jurisdiction is based solely on the nationality of one of the parties.
+
+#### Article 4 — Choice of court
+
+1\. The parties may agree that the following court or courts of a Member State shall have jurisdiction to settle any disputes in matters relating to a maintenance obligation which have arisen or may arise between them:
+
+(a) a court or the courts of a Member State in which one of the parties is habitually resident;
+
+(b) a court or the courts of a Member State of which one of the parties has the nationality;
+
+(c) in the case of maintenance obligations between spouses or former spouses:
+
+(i) the court which has jurisdiction to settle their dispute in matrimonial matters; or
+
+(ii) a court or the courts of the Member State which was the Member State of the spouses’ last common habitual residence for a period of at least one year.
+
+The conditions referred to in points (a), (b) or (c) have to be met at the time the choice of court agreement is concluded or at the time the court is seised.
+
+The jurisdiction conferred by agreement shall be exclusive unless the parties have agreed otherwise.
+
+2\. A choice of court agreement shall be in writing. Any communication by electronic means which provides a durable record of the agreement shall be equivalent to ‘writing’.
+
+3\. This Article shall not apply to a dispute relating to a maintenance obligation towards a child under the age of 18.
+
+4\. If the parties have agreed to attribute exclusive jurisdiction to a court or courts of a State party to the Convention on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters ( 1 ), signed on 30 October 2007 in Lugano (hereinafter referred to as the Lugano Convention), where that State is not a Member State, the said Convention shall apply except in the case of the disputes referred to in paragraph 3.
+
+#### Article 5 — Jurisdiction based on the appearance of the defendant
+
+Apart from jurisdiction derived from other provisions of this Regulation, a court of a Member State before which a defendant enters an appearance shall have jurisdiction. This rule shall not apply where appearance was entered to contest the jurisdiction.
+
+#### Article 6 — Subsidiary jurisdiction
+
+Where no court of a Member State has jurisdiction pursuant to Articles 3, 4 and 5 and no court of a State party to the Lugano Convention which is not a Member State has jurisdiction pursuant to the provisions of that Convention, the courts of the Member State of the common nationality of the parties shall have jurisdiction.
+
+#### Article 7 — Forum necessitatis
+
+Where no court of a Member State has jurisdiction pursuant to Articles 3, 4, 5 and 6, the courts of a Member State may, on an exceptional basis, hear the case if proceedings cannot reasonably be brought or conducted or would be impossible in a third State with which the dispute is closely connected.
+
+The dispute must have a sufficient connection with the Member State of the court seised.
+
+#### Article 8 — Limit on proceedings
+
+1\. Where a decision is given in a Member State or a 2007 Hague Convention Contracting State where the creditor is habitually resident, proceedings to modify the decision or to have a new decision given cannot be brought by the debtor in any other Member State as long as the creditor remains habitually resident in the State in which the decision was given.
+
+2\. Paragraph 1 shall not apply:
+
+(a) where the parties have agreed in accordance with Article 4 to the jurisdiction of the courts of that other Member State;
+
+(b) where the creditor submits to the jurisdiction of the courts of that other Member State pursuant to Article 5;
+
+(c) where the competent authority in the 2007 Hague Convention Contracting State of origin cannot, or refuses to, exercise jurisdiction to modify the decision or give a new decision; or
+
+(d) where the decision given in the 2007 Hague Convention Contracting State of origin cannot be recognised or declared enforceable in the Member State where proceedings to modify the decision or to have a new decision given are contemplated.
+
+#### Article 9 — Seising of a court
+
+For the purposes of this Chapter, a court shall be deemed to be seised:
+
+(a) at the time when the document instituting the proceedings or an equivalent document is lodged with the court, provided that the claimant has not subsequently failed to take the steps he was required to take to have service effected on the defendant; or
+
+(b) if the document has to be served before being lodged with the court, at the time when it is received by the authority responsible for service, provided that the claimant has not subsequently failed to take the steps he was required to take to have the document lodged with the court.
+
+#### Article 10 — Examination as to jurisdiction
+
+Where a court of a Member State is seised of a case over which it has no jurisdiction under this Regulation it shall declare of its own motion that it has no jurisdiction.
+
+#### Article 11 — Examination as to admissibility
+
+1\. Where a defendant habitually resident in a State other than the Member State where the action was brought does not enter an appearance, the court with jurisdiction shall stay the proceedings so long as it is not shown that the defendant has been able to receive the document instituting the proceedings or an equivalent document in sufficient time to enable him to arrange for his defence, or that all necessary steps have been taken to this end.
+
+2\. Article 19 of Regulation (EC) No 1393/2007 shall apply instead of the provisions of paragraph 1 of this Article if the document instituting the proceedings or an equivalent document had to be transmitted from one Member State to another pursuant to that Regulation.
+
+3\. Where the provisions of Regulation (EC) No 1393/2007 are not applicable, Article 15 of the Hague Convention of 15 November 1965 on the service abroad of judicial and extrajudicial documents in civil or commercial matters shall apply if the document instituting the proceedings or an equivalent document had to be transmitted abroad pursuant to that Convention.
+
+#### Article 12 — Lis pendens
+
+1\. Where proceedings involving the same cause of action and between the same parties are brought in the courts of different Member States, any court other than the court first seised shall of its own motion stay its proceedings until such time as the jurisdiction of the court first seised is established.
+
+2\. Where the jurisdiction of the court first seised is established, any court other than the court first seised shall decline jurisdiction in favour of that court.
+
+#### Article 13 — Related actions
+
+1\. Where related actions are pending in the courts of different Member States, any court other than the court first seised may stay its proceedings.
+
+2\. Where these actions are pending at first instance, any court other than the court first seised may also, on the application of one of the parties, decline jurisdiction if the court first seised has jurisdiction over the actions in question and its law permits the consolidation thereof.
+
+3\. For the purposes of this Article, actions are deemed to be related where they are so closely connected that it is expedient to hear and determine them together to avoid the risk of irreconcilable judgments resulting from separate proceedings.
+
+#### Article 14 — Provisional, including protective, measures
+
+Application may be made to the courts of a Member State for such provisional, including protective, measures as may be available under the law of that State, even if, under this Regulation, the courts of another Member State have jurisdiction as to the substance of the matter.
+
+## CHAPTER III — APPLICABLE LAW
+
+#### Article 15 — Determination of the applicable law
+
+The law applicable to maintenance obligations shall be determined in accordance with the Hague Protocol of 23 November 2007 on the law applicable to maintenance obligations (hereinafter referred to as the 2007 Hague Protocol) in the Member States bound by that instrument.
+
+## CHAPTER IV — RECOGNITION, ENFORCEABILITY AND ENFORCEMENT OF DECISIONS
+
+#### Article 16 — Scope of application of this Chapter
+
+1\. This Chapter shall govern the recognition, enforceability and enforcement of decisions falling within the scope of this Regulation.
+
+2\. Section 1 shall apply to decisions given in a Member State bound by the 2007 Hague Protocol.
+
+3\. Section 2 shall apply to decisions given in a Member State not bound by the 2007 Hague Protocol.
+
+4\. Section 3 shall apply to all decisions.
+
+### SECTION 1 — Decisions given in a Member State bound by the 2007 Hague Protocol
+
+#### Article 17 — Abolition of exequatur
+
+1\. A decision given in a Member State bound by the 2007 Hague Protocol shall be recognised in another Member State without any special procedure being required and without any possibility of opposing its recognition.
+
+2\. A decision given in a Member State bound by the 2007 Hague Protocol which is enforceable in that State shall be enforceable in another Member State without the need for a declaration of enforceability.
+
+#### Article 18 — Protective measures
+
+An enforceable decision shall carry with it by operation of law the power to proceed to any protective measures which exist under the law of the Member State of enforcement.
+
+#### Article 19 — Right to apply for a review
+
+1\. A defendant who did not enter an appearance in the Member State of origin shall have the right to apply for a review of the decision before the competent court of that Member State where:
+
+(a) he was not served with the document instituting the proceedings or an equivalent document in sufficient time and in such a way as to enable him to arrange for his defence; or
+
+(b) he was prevented from contesting the maintenance claim by reason of force majeure or due to extraordinary circumstances without any fault on his part;
+
+unless he failed to challenge the decision when it was possible for him to do so.
+
+2\. The time limit for applying for a review shall run from the day the defendant was effectively acquainted with the contents of the decision and was able to react, at the latest from the date of the first enforcement measure having the effect of making his property non-disposable in whole or in part. The defendant shall react promptly, in any event within 45 days. No extension may be granted on account of distance.
+
+3\. If the court rejects the application for a review referred to in paragraph 1 on the basis that none of the grounds for a review set out in that paragraph apply, the decision shall remain in force.
+
+If the court decides that a review is justified for one of the reasons laid down in paragraph 1, the decision shall be null and void. However, the creditor shall not lose the benefits of the interruption of prescription or limitation periods, or the right to claim retroactive maintenance acquired in the initial proceedings.
+
+#### Article 20 — Documents for the purposes of enforcement
+
+1\. For the purposes of enforcement of a decision in another Member State, the claimant shall provide the competent enforcement authorities with:
+
+(a) a copy of the decision which satisfies the conditions necessary to establish its authenticity;
+
+(b) the extract from the decision issued by the court of origin using the form set out in Annex I;
+
+(c) where appropriate, a document showing the amount of any arrears and the date such amount was calculated;
+
+(d) where necessary, a transliteration or a translation of the content of the form referred to in point (b) into the official language of the Member State of enforcement or, where there are several official languages in that Member State, into the official language or one of the official languages of court proceedings of the place where the application is made, in accordance with the law of that Member State, or into another language that the Member State concerned has indicated it can accept. Each Member State may indicate the official language or languages of the institutions of the European Union other than its own which it can accept for the completion of the form.
+
+2\. The competent authorities of the Member State of enforcement may not require the claimant to provide a translation of the decision. However, a translation may be required if the enforcement of the decision is challenged.
+
+3\. Any translation under this Article must be done by a person qualified to do translations in one of the Member States.
+
+#### Article 21 — Refusal or suspension of enforcement
+
+1\. The grounds of refusal or suspension of enforcement under the law of the Member State of enforcement shall apply in so far as they are not incompatible with the application of paragraphs 2 and 3.
+
+2\. The competent authority in the Member State of enforcement shall, on application by the debtor, refuse, either wholly or in part, the enforcement of the decision of the court of origin if the right to enforce the decision of the court of origin is extinguished by the effect of prescription or the limitation of action, either under the law of the Member State of origin or under the law of the Member State of enforcement, whichever provides for the longer limitation period.
+
+Furthermore, the competent authority in the Member State of enforcement may, on application by the debtor, refuse, either wholly or in part, the enforcement of the decision of the court of origin if it is irreconcilable with a decision given in the Member State of enforcement or with a decision given in another Member State or in a third State which fulfils the conditions necessary for its recognition in the Member State of enforcement.
+
+A decision which has the effect of modifying an earlier decision on maintenance on the basis of changed circumstances shall not be considered an irreconcilable decision within the meaning of the second subparagraph.
+
+3\. The competent authority in the Member State of enforcement may, on application by the debtor, suspend, either wholly or in part, the enforcement of the decision of the court of origin if the competent court of the Member State of origin has been seised of an application for a review of the decision of the court of origin pursuant to Article 19.
+
+Furthermore, the competent authority of the Member State of enforcement shall, on application by the debtor, suspend the enforcement of the decision of the court of origin where the enforceability of that decision is suspended in the Member State of origin.
+
+#### Article 22 — No effect on the existence of family relationships
+
+The recognition and enforcement of a decision on maintenance under this Regulation shall not in any way imply the recognition of the family relationship, parentage, marriage or affinity underlying the maintenance obligation which gave rise to the decision.
+
+### SECTION 2 — Decisions given in a Member State not bound by the 2007 Hague Protocol
+
+#### Article 23 — Recognition
+
+1\. A decision given in a Member State not bound by the 2007 Hague Protocol shall be recognised in the other Member States without any special procedure being required.
+
+2\. Any interested party who raises the recognition of a decision as the principal issue in a dispute may, in accordance with the procedures provided for in this Section, apply for a decision that the decision be recognised.
+
+3\. If the outcome of proceedings in a court of a Member State depends on the determination of an incidental question of recognition, that court shall have jurisdiction over that question.
+
+#### Article 24 — Grounds of refusal of recognition
+
+A decision shall not be recognised:
+
+(a) if such recognition is manifestly contrary to public policy in the Member State in which recognition is sought. The test of public policy may not be applied to the rules relating to jurisdiction;
+
+(b) where it was given in default of appearance, if the defendant was not served with the document which instituted the proceedings or with an equivalent document in sufficient time and in such a way as to enable him to arrange for his defence, unless the defendant failed to commence proceedings to challenge the decision when it was possible for him to do so;
+
+(c) if it is irreconcilable with a decision given in a dispute between the same parties in the Member State in which recognition is sought;
+
+(d) if it is irreconcilable with an earlier decision given in another Member State or in a third State in a dispute involving the same cause of action and between the same parties, provided that the earlier decision fulfils the conditions necessary for its recognition in the Member State in which recognition is sought.
+
+A decision which has the effect of modifying an earlier decision on maintenance on the basis of changed circumstances shall not be considered an irreconcilable decision within the meaning of points (c) or (d).
+
+#### Article 25 — Staying of recognition proceedings
+
+A court of a Member State in which recognition is sought of a decision given in a Member State not bound by the 2007 Hague Protocol shall stay the proceedings if the enforceability of the decision is suspended in the Member State of origin by reason of an appeal.
+
+#### Article 26 — Enforceability
+
+A decision given in a Member State not bound by the 2007 Hague Protocol and enforceable in that State shall be enforceable in another Member State when, on the application of any interested party, it has been declared enforceable there.
+
+#### Article 27 — Jurisdiction of local courts
+
+1\. The application for a declaration of enforceability shall be submitted to the court or competent authority of the Member State of enforcement notified by that Member State to the Commission in accordance with Article 71.
+
+2\. The local jurisdiction shall be determined by reference to the place of habitual residence of the party against whom enforcement is sought, or to the place of enforcement.
+
+#### Article 28 — Procedure
+
+1\. The application for a declaration of enforceability shall be accompanied by the following documents:
+
+(a) a copy of the decision which satisfies the conditions necessary to establish its authenticity;
+
+(b) an extract from the decision issued by the court of origin using the form set out in Annex II, without prejudice to Article 29;
+
+(c) where necessary, a transliteration or a translation of the content of the form referred to in point (b) into the official language of the Member State of enforcement or, where there are several official languages in that Member State, into the official language or one of the official languages of court proceedings of the place where the application is made, in accordance with the law of that Member State, or into another language that the Member State concerned has indicated it can accept. Each Member State may indicate the official language or languages of the institutions of the European Union other than its own which it can accept for the completion of the form.
+
+2\. The court or competent authority seised of the application may not require the claimant to provide a translation of the decision. However, a translation may be required in connection with an appeal under Articles 32 or 33.
+
+3\. Any translation under this Article must be done by a person qualified to do translations in one of the Member States.
+
+#### Article 29 — Non-production of the extract
+
+1\. If the extract referred to in Article 28(1)(b) is not produced, the competent court or authority may specify a time for its production or accept an equivalent document or, if it considers that it has sufficient information before it, dispense with its production.
+
+2\. In the situation referred to in paragraph 1, if the competent court or authority so requires, a translation of the documents shall be produced. The translation shall be done by a person qualified to do translations in one of the Member States.
+
+#### Article 30 — Declaration of enforceability
+
+The decision shall be declared enforceable without any review under Article 24 immediately on completion of the formalities in Article 28 and at the latest within 30 days of the completion of those formalities, except where exceptional circumstances make this impossible. The party against whom enforcement is sought shall not at this stage of the proceedings be entitled to make any submissions on the application.
+
+#### Article 31 — Notice of the decision on the application for a declaration
+
+1\. The decision on the application for a declaration of enforceability shall forthwith be brought to the notice of the applicant in accordance with the procedure laid down by the law of the Member State of enforcement.
+
+2\. The declaration of enforceability shall be served on the party against whom enforcement is sought, accompanied by the decision, if not already served on that party.
+
+#### Article 32 — Appeal against the decision on the application for a declaration
+
+1\. The decision on the application for a declaration of enforceability may be appealed against by either party.
+
+2\. The appeal shall be lodged with the court notified by the Member State concerned to the Commission in accordance with Article 71.
+
+3\. The appeal shall be dealt with in accordance with the rules governing procedure in contradictory matters.
+
+4\. If the party against whom enforcement is sought fails to appear before the appellate court in proceedings concerning an appeal brought by the applicant, Article 11 shall apply even where the party against whom enforcement is sought is not habitually resident in any of the Member States.
+
+5\. An appeal against the declaration of enforceability shall be lodged within 30 days of service thereof. If the party against whom enforcement is sought has his habitual residence in a Member State other than that in which the declaration of enforceability was given, the time for appealing shall be 45 days and shall run from the date of service, either on him in person or at his residence. No extension may be granted on account of distance.
+
+#### Article 33 — Proceedings to contest the decision given on appeal
+
+The decision given on appeal may be contested only by the procedure notified by the Member State concerned to the Commission in accordance with Article 71.
+
+#### Article 34 — Refusal or revocation of a declaration of enforceability
+
+1\. The court with which an appeal is lodged under Articles 32 or 33 shall refuse or revoke a declaration of enforceability only on one of the grounds specified in Article 24.
+
+2\. Subject to Article 32(4), the court seised of an appeal under Article 32 shall give its decision within 90 days from the date it was seised, except where exceptional circumstances make this impossible.
+
+3\. The court seised of an appeal under Article 33 shall give its decision without delay.
+
+#### Article 35 — Staying of proceedings
+
+The court with which an appeal is lodged under Articles 32 or 33 shall, on the application of the party against whom enforcement is sought, stay the proceedings if the enforceability of the decision is suspended in the Member State of origin by reason of an appeal.
+
+#### Article 36 — Provisional, including protective measures
+
+1\. When a decision must be recognised in accordance with this Section, nothing shall prevent the applicant from availing himself of provisional, including protective, measures in accordance with the law of the Member State of enforcement without a declaration of enforceability under Article 30 being required.
+
+2\. The declaration of enforceability shall carry with it by operation of law the power to proceed to any protective measures.
+
+3\. During the time specified for an appeal pursuant to Article 32(5) against the declaration of enforceability and until any such appeal has been determined, no measures of enforcement may be taken other than protective measures against the property of the party against whom enforcement is sought.
+
+#### Article 37 — Partial enforceability
+
+1\. Where a decision has been given in respect of several matters and the declaration of enforceability cannot be given for all of them, the competent court or authority shall give it for one or more of them.
+
+2\. An applicant may request a declaration of enforceability limited to parts of a decision.
+
+#### Article 38 — No charge, duty or fee
+
+In proceedings for the issue of a declaration of enforceability, no charge, duty or fee calculated by reference to the value of the matter at issue may be levied in the Member State of enforcement.
+
+### SECTION 3 — Common provisions
+
+#### Article 39 — Provisional enforceability
+
+The court of origin may declare the decision provisionally enforceable, notwithstanding any appeal, even if national law does not provide for enforceability by operation of law.
+
+#### Article 40 — Invoking a recognised decision
+
+1\. A party who wishes to invoke in another Member State a decision recognised within the meaning of Article 17(1) or recognised pursuant to Section 2 shall produce a copy of the decision which satisfies the conditions necessary to establish its authenticity.
+
+2\. If necessary, the court before which the recognised decision is invoked may ask the party invoking the recognised decision to produce an extract issued by the court of origin using the form set out in Annex I or in Annex II, as the case may be.
+
+The court of origin shall also issue such an extract at the request of any interested party.
+
+3\. Where necessary, the party invoking the recognised decision shall provide a transliteration or a translation of the content of the form referred to in paragraph 2 into the official language of the Member State concerned or, where there are several official languages in that Member State, into the official language or one of the official languages of court proceedings of the place where the recognised decision is invoked, in accordance with the law of that Member State, or into another language that the Member State concerned has indicated it can accept. Each Member State may indicate the official language or languages of the institutions of the European Union other than its own which it can accept for the completion of the form.
+
+4\. Any translation under this Article must be done by a person qualified to do translations in one of the Member States.
+
+#### Article 41 — Proceedings and conditions for enforcement
+
+1\. Subject to the provisions of this Regulation, the procedure for the enforcement of decisions given in another Member State shall be governed by the law of the Member State of enforcement. A decision given in a Member State which is enforceable in the Member State of enforcement shall be enforced there under the same conditions as a decision given in that Member State of enforcement.
+
+2\. The party seeking the enforcement of a decision given in another Member State shall not be required to have a postal address or an authorised representative in the Member State of enforcement, without prejudice to persons with competence in matters relating to enforcement proceedings.
+
+#### Article 42 — No review as to substance
+
+Under no circumstances may a decision given in a Member State be reviewed as to its substance in the Member State in which recognition, enforceability or enforcement is sought.
+
+#### Article 43 — No precedence for the recovery of costs
+
+Recovery of any costs incurred in the application of this Regulation shall not take precedence over the recovery of maintenance.
+
+## CHAPTER V — ACCESS TO JUSTICE
+
+#### Article 44 — Right to legal aid
+
+1\. Parties who are involved in a dispute covered by this Regulation shall have effective access to justice in another Member State, including enforcement and appeal or review procedures, in accordance with the conditions laid down in this Chapter.
+
+In cases covered by Chapter VII, effective access to justice shall be provided by the requested Member State to any applicant who is resident in the requesting Member State.
+
+2\. To ensure such effective access, Member States shall provide legal aid in accordance with this Chapter, unless paragraph 3 applies.
+
+3\. In cases covered by Chapter VII, a Member State shall not be obliged to provide legal aid if and to the extent that the procedures of that Member State enable the parties to make the case without the need for legal aid, and the Central Authority provides such services as are necessary free of charge.
+
+4\. Entitlements to legal aid shall not be less than those available in equivalent domestic cases.
+
+5\. No security, bond or deposit, however described, shall be required to guarantee the payment of costs and expenses in proceedings concerning maintenance obligations.
+
+#### Article 45 — Content of legal aid
+
+Legal aid granted under this Chapter shall mean the assistance necessary to enable parties to know and assert their rights and to ensure that their applications, lodged through the Central Authorities or directly with the competent authorities, are fully and effectively dealt with. It shall cover as necessary the following:
+
+(a) pre-litigation advice with a view to reaching a settlement prior to bringing judicial proceedings;
+
+(b) legal assistance in bringing a case before an authority or a court and representation in court;
+
+(c) exemption from or assistance with the costs of proceedings and the fees to persons mandated to perform acts during the proceedings;
+
+(d) in Member States in which an unsuccessful party is liable for the costs of the opposing party, if the recipient of legal aid loses the case, the costs incurred by the opposing party, if such costs would have been covered had the recipient been habitually resident in the Member State of the court seised;
+
+(e) interpretation;
+
+(f) translation of the documents required by the court or by the competent authority and presented by the recipient of legal aid which are necessary for the resolution of the case;
+
+(g) travel costs to be borne by the recipient of legal aid where the physical presence of the persons concerned with the presentation of the recipient’s case is required in court by the law or by the court of the Member State concerned and the court decides that the persons concerned cannot be heard to the satisfaction of the court by any other means.
+
+#### Article 46 — Free legal aid for applications through Central Authorities concerning maintenance to children
+
+1\. The requested Member State shall provide free legal aid in respect of all applications by a creditor under Article 56 concerning maintenance obligations arising from a parent-child relationship towards a person under the age of 21.
+
+2\. Notwithstanding paragraph 1, the competent authority of the requested Member State may, in relation to applications other than those under Article 56(1)(a) and (b), refuse free legal aid if it considers that, on the merits, the application or any appeal or review is manifestly unfounded.
+
+#### Article 47 — Cases not covered by Article 46
+
+1\. Subject to Articles 44 and 45, in cases not covered by Article 46, legal aid may be granted in accordance with national law, particularly as regards the conditions for the means test or the merits test.
+
+2\. Notwithstanding paragraph 1, a party who, in the Member State of origin, has benefited from complete or partial legal aid or exemption from costs or expenses, shall be entitled, in any proceedings for recognition, enforceability or enforcement, to benefit from the most favourable legal aid or the most extensive exemption from costs or expenses provided for by the law of the Member State of enforcement.
+
+3\. Notwithstanding paragraph 1, a party who, in the Member State of origin, has benefited from free proceedings before an administrative authority listed in Annex X, shall be entitled, in any proceedings for recognition, enforceability or enforcement, to benefit from legal aid in accordance with paragraph 2. To that end, he shall present a statement from the competent authority in the Member State of origin to the effect that he fulfils the financial requirements to qualify for the grant of complete or partial legal aid or exemption from costs or expenses.
+
+Competent authorities for the purposes of this paragraph shall be listed in Annex XI. That Annex shall be established and amended in accordance with the management procedure referred to in Article 73(2).
+
+## CHAPTER VI — COURT SETTLEMENTS AND AUTHENTIC INSTRUMENTS
+
+#### Article 48 — Application of this Regulation to court settlements and authentic instruments
+
+1\. Court settlements and authentic instruments which are enforceable in the Member State of origin shall be recognised in another Member State and be enforceable there in the same way as decisions, in accordance with Chapter IV.
+
+2\. The provisions of this Regulation shall apply as necessary to court settlements and authentic instruments.
+
+3\. The competent authority of the Member State of origin shall issue, at the request of any interested party, an extract from the court settlement or the authentic instrument using the forms set out in Annexes I and II or in Annexes III and IV as the case may be.
+
+## CHAPTER VII — COOPERATION BETWEEN CENTRAL AUTHORITIES
+
+#### Article 49 — Designation of Central Authorities
+
+1\. Each Member State shall designate a Central Authority to discharge the duties which are imposed by this Regulation on such an authority.
+
+2\. Federal Member States, Member States with more than one system of law or Member States having autonomous territorial units shall be free to appoint more than one Central Authority and shall specify the territorial or personal extent of their functions. Where a Member State has appointed more than one Central Authority, it shall designate the Central Authority to which any communication may be addressed for transmission to the appropriate Central Authority within that Member State. If a communication is sent to a Central Authority which is not competent, the latter shall be responsible for forwarding it to the competent Central Authority and for informing the sender accordingly.
+
+3\. The designation of the Central Authority or Central Authorities, their contact details, and where appropriate the extent of their functions as specified in paragraph 2, shall be communicated by each Member State to the Commission in accordance with Article 71.
+
+#### Article 50 — General functions of Central Authorities
+
+1\. Central Authorities shall:
+
+(a) cooperate with each other, including by exchanging information, and promote cooperation amongst the competent authorities in their Member States to achieve the purposes of this Regulation;
+
+(b) seek as far as possible solutions to difficulties which arise in the application of this Regulation.
+
+2\. Central Authorities shall take measures to facilitate the application of this Regulation and to strengthen their cooperation. For this purpose the European Judicial Network in civil and commercial matters established by Decision 2001/470/EC shall be used.
+
+#### Article 51 — Specific functions of Central Authorities
+
+1\. Central Authorities shall provide assistance in relation to applications under Article 56 and shall in particular:
+
+(a) transmit and receive such applications;
+
+(b) initiate or facilitate the institution of proceedings in respect of such applications.
+
+2\. In relation to such applications Central Authorities shall take all appropriate measures:
+
+(a) where the circumstances require, to provide or facilitate the provision of legal aid;
+
+(b) to help locate the debtor or the creditor, in particular pursuant to Articles 61, 62 and 63;
+
+(c) to help obtain relevant information concerning the income and, if necessary, other financial circumstances of the debtor or creditor, including the location of assets, in particular pursuant to Articles 61, 62 and 63;
+
+(d) to encourage amicable solutions with a view to obtaining voluntary payment of maintenance, where suitable by use of mediation, conciliation or similar processes;
+
+(e) to facilitate the ongoing enforcement of maintenance decisions, including any arrears;
+
+(f) to facilitate the collection and expeditious transfer of maintenance payments;
+
+(g) to facilitate the obtaining of documentary or other evidence, without prejudice to Regulation (EC) No 1206/2001;
+
+(h) to provide assistance in establishing parentage where necessary for the recovery of maintenance;
+
+(i) to initiate or facilitate the institution of proceedings to obtain any necessary provisional measures which are territorial in nature and the purpose of which is to secure the outcome of a pending maintenance application;
+
+(j) to facilitate the service of documents, without prejudice to Regulation (EC) No 1393/2007.
+
+3\. The functions of the Central Authority under this Article may, to the extent permitted under the law of the Member State concerned, be performed by public bodies, or other bodies subject to the supervision of the competent authorities of that Member State. The designation of any such public bodies or other bodies, as well as their contact details and the extent of their functions, shall be communicated by each Member State to the Commission in accordance with Article 71.
+
+4\. Nothing in this Article or in Article 53 shall impose an obligation on a Central Authority to exercise powers that can be exercised only by judicial authorities under the law of the requested Member State.
+
+#### Article 52 — Power of attorney
+
+The Central Authority of the requested Member State may require a power of attorney from the applicant only if it acts on his behalf in judicial proceedings or before other authorities, or in order to designate a representative so to act.
+
+#### Article 53 — Requests for specific measures
+
+1\. A Central Authority may make a request, supported by reasons, to another Central Authority to take appropriate specific measures under points (b), (c), (g), (h), (i) and (j) of Article 51(2) when no application under Article 56 is pending. The requested Central Authority shall take such measures as are appropriate if satisfied that they are necessary to assist a potential applicant in making an application under Article 56 or in determining whether such an application should be initiated.
+
+2\. Where a request for measures under Article 51(2)(b) and (c) is made, the requested Central Authority shall seek the information requested, if necessary pursuant to Article 61. However, the information referred to in points (b), (c) and (d) of Article 61(2) may be sought only when the creditor produces a copy of the decision, court settlement or authentic instrument to be enforced, accompanied by the extract provided for in Articles 20, 28 or 48, as appropriate.
+
+The requested Central Authority shall communicate the information obtained to the requesting Central Authority. Where that information was obtained pursuant to Article 61, this communication shall specify only the address of the potential defendant in the requested Member State. In the case of a request with a view to recognition, declaration of enforceability or enforcement, the communication shall, in addition, specify merely whether the debtor has income or assets in that State.
+
+If the requested Central Authority is not able to provide the information requested it shall inform the requesting Central Authority without delay and specify the grounds for this impossibility.
+
+3\. A Central Authority may also take specific measures at the request of another Central Authority in relation to a case having an international element concerning the recovery of maintenance pending in the requesting Member State.
+
+4\. For requests under this Article, the Central Authorities shall use the form set out in Annex V.
+
+#### Article 54 — Central Authority costs
+
+1\. Each Central Authority shall bear its own costs in applying this Regulation.
+
+2\. Central Authorities may not impose any charge on an applicant for the provision of their services under this Regulation save for exceptional costs arising from a request for a specific measure under Article 53.
+
+For the purposes of this paragraph, costs relating to locating the debtor shall not be regarded as exceptional.
+
+3\. The requested Central Authority may not recover the costs of the services referred to in paragraph 2 without the prior consent of the applicant to the provision of those services at such cost.
+
+#### Article 55 — Application through Central Authorities
+
+An application under this Chapter shall be made through the Central Authority of the Member State in which the applicant resides to the Central Authority of the requested Member State.
+
+#### Article 56 — Available applications
+
+1\. A creditor seeking to recover maintenance under this Regulation may make applications for the following:
+
+(a) recognition or recognition and declaration of enforceability of a decision;
+
+(b) enforcement of a decision given or recognised in the requested Member State;
+
+(c) establishment of a decision in the requested Member State where there is no existing decision, including where necessary the establishment of parentage;
+
+(d) establishment of a decision in the requested Member State where the recognition and declaration of enforceability of a decision given in a State other than the requested Member State is not possible;
+
+(e) modification of a decision given in the requested Member State;
+
+(f) modification of a decision given in a State other than the requested Member State.
+
+2\. A debtor against whom there is an existing maintenance decision may make applications for the following:
+
+(a) recognition of a decision leading to the suspension, or limiting the enforcement, of a previous decision in the requested Member State;
+
+(b) modification of a decision given in the requested Member State;
+
+(c) modification of a decision given in a State other than the requested Member State.
+
+3\. For applications under this Article, the assistance and representation referred to in Article 45(b) shall be provided by the Central Authority of the requested Member State directly or through public authorities or other bodies or persons.
+
+4\. Save as otherwise provided in this Regulation, the applications referred to in paragraphs 1 and 2 shall be determined under the law of the requested Member State and shall be subject to the rules of jurisdiction applicable in that Member State.
+
+#### Article 57 — Application contents
+
+1\. An application under Article 56 shall be made using the form set out in Annex VI or in Annex VII.
+
+2\. An application under Article 56 shall as a minimum include:
+
+(a) a statement of the nature of the application or applications;
+
+(b) the name and contact details, including the address, and date of birth of the applicant;
+
+(c) the name and, if known, address and date of birth of the defendant;
+
+(d) the name and the date of birth of any person for whom maintenance is sought;
+
+(e) the grounds upon which the application is based;
+
+(f) in an application by a creditor, information concerning where the maintenance payment should be sent or electronically transmitted;
+
+(g) the name and contact details of the person or unit from the Central Authority of the requesting Member State responsible for processing the application.
+
+3\. For the purposes of paragraph 2(b), the applicant’s personal address may be replaced by another address in cases of family violence, if the national law of the requested Member State does not require the applicant to supply his or her personal address for the purposes of proceedings to be brought.
+
+4\. As appropriate, and to the extent known, the application shall in addition in particular include:
+
+(a) the financial circumstances of the creditor;
+
+(b) the financial circumstances of the debtor, including the name and address of the employer of the debtor and the nature and location of the assets of the debtor;
+
+(c) any other information that may assist with the location of the defendant.
+
+5\. The application shall be accompanied by any necessary supporting information or documentation including, where appropriate, documentation concerning the entitlement of the applicant to legal aid. Applications under Article 56(1)(a) and (b) and under Article 56(2)(a) shall be accompanied, as appropriate, only by the documents listed in Articles 20, 28 and 48, or in Article 25 of the 2007 Hague Convention.
+
+#### Article 58 — Transmission, receipt and processing of applications and cases through Central Authorities
+
+1\. The Central Authority of the requesting Member State shall assist the applicant in ensuring that the application is accompanied by all the information and documents known by it to be necessary for consideration of the application.
+
+2\. The Central Authority of the requesting Member State shall, when satisfied that the application complies with the requirements of this Regulation, transmit the application to the Central Authority of the requested Member State.
+
+3\. The requested Central Authority shall, within 30 days from the date of receipt of the application, acknowledge receipt using the form set out in Annex VIII, and inform the Central Authority of the requesting Member State what initial steps have been or will be taken to deal with the application, and may request any further necessary documents and information. Within the same 30-day period, the requested Central Authority shall provide to the requesting Central Authority the name and contact details of the person or unit responsible for responding to inquiries regarding the progress of the application.
+
+4\. Within 60 days from the date of acknowledgement, the requested Central Authority shall inform the requesting Central Authority of the status of the application.
+
+5\. Requesting and requested Central Authorities shall keep each other informed of:
+
+(a) the person or unit responsible for a particular case;
+
+(b) the progress of the case;
+
+and shall provide timely responses to enquiries.
+
+6\. Central Authorities shall process a case as quickly as a proper consideration of the issues will allow.
+
+7\. Central Authorities shall employ the most rapid and efficient means of communication at their disposal.
+
+8\. A requested Central Authority may refuse to process an application only if it is manifest that the requirements of this Regulation are not fulfilled. In such a case, that Central Authority shall promptly inform the requesting Central Authority of its reasons for refusal using the form set out in Annex IX.
+
+9\. The requested Central Authority may not reject an application solely on the basis that additional documents or information are needed. However, the requested Central Authority may ask the requesting Central Authority to provide these additional documents or this information. If the requesting Central Authority does not do so within 90 days or a longer period specified by the requested Central Authority, the requested Central Authority may decide that it will no longer process the application. In this case, it shall promptly notify the requesting Central Authority using the form set out in Annex IX.
+
+#### Article 59 — Languages
+
+1\. The request or application form shall be completed in the official language of the requested Member State or, if there are several official languages in that Member State, in the official language or one of the official languages of the place of the Central Authority concerned, or in any other official language of the institutions of the European Union which that Member State has indicated it can accept, unless the Central Authority of that Member State dispenses with translation.
+
+2\. The documents accompanying the request or application form shall not be translated into the language determined in accordance with paragraph 1 unless a translation is necessary in order to provide the assistance requested, without prejudice to Articles 20, 28, 40 and 66.
+
+3\. Any other communication between Central Authorities shall be in the language determined in accordance with paragraph 1 unless the Central Authorities agree otherwise.
+
+#### Article 60 — Meetings
+
+1\. In order to facilitate the application of this Regulation, Central Authorities shall meet regularly.
+
+2\. These meetings shall be convened in compliance with Decision 2001/470/EC.
+
+#### Article 61 — Access to information for Central Authorities
+
+1\. Under the conditions laid down in this Chapter and by way of exception to Article 51(4), the requested Central Authority shall use all appropriate and reasonable means to obtain the information referred to in paragraph 2 necessary to facilitate, in a given case, the establishment, the modification, the recognition, the declaration of enforceability or the enforcement of a decision.
+
+The public authorities or administrations which, in the course of their ordinary activities, hold, within the requested State, the information referred to in paragraph 2 and which control the processing thereof within the meaning of Directive 95/46/EC shall, subject to limitations justified on grounds of national security or public safety, provide the information to the requested Central Authority at its request in cases where the requested Central Authority does not have direct access to it.
+
+Member States may designate the public authorities or administrations able to provide the requested Central Authority with the information referred to in paragraph 2. Where a Member State makes such a designation, it shall ensure that its choice of authorities and administrations permits its Central Authority to have access, in accordance with this Article, to the information requested.
+
+Any other legal person which holds within the requested Member State the information referred to in paragraph 2 and controls the processing thereof within the meaning of Directive 95/46/EC shall provide the information to the requested Central Authority at the latter’s request if it is authorised to do so by the law of the requested Member State.
+
+The requested Central Authority shall, as necessary, transmit the information thus obtained to the requesting Central Authority.
+
+2\. The information referred to in this Article shall be the information already held by the authorities, administrations or persons referred to in paragraph 1. It shall be adequate, relevant and not excessive and shall relate to:
+
+(a) the address of the debtor or of the creditor;
+
+(b) the debtor’s income;
+
+(c) the identification of the debtor’s employer and/or of the debtor’s bank account(s);
+
+(d) the debtor’s assets.
+
+For the purpose of obtaining or modifying a decision, only the information listed in point (a) may be requested by the requested Central Authority.
+
+For the purpose of having a decision recognised, declared enforceable or enforced, all the information listed in the first subparagraph may be requested by the requested Central Authority. However, the information listed in point (d) may be requested only if the information listed in points (b) and (c) is insufficient to allow enforcement of the decision.
+
+#### Article 62 — Transmission and use of information
+
+1\. The Central Authorities shall, within their Member State, transmit the information referred to in Article 61(2) to the competent courts, the competent authorities responsible for service of documents and the competent authorities responsible for enforcement of a decision, as the case may be.
+
+2\. Any authority or court to which information has been transmitted pursuant to Article 61 may use this only to facilitate the recovery of maintenance claims.
+
+Except for information merely indicating the existence of an address, income or assets in the requested Member State, the information referred to in Article 61(2) may not be disclosed to the person having applied to the requesting Central Authority, subject to the application of procedural rules before a court.
+
+3\. Any authority processing information transmitted to it pursuant to Article 61 may not store such information beyond the period necessary for the purposes for which it was transmitted.
+
+4\. Any authority processing information communicated to it pursuant to Article 61 shall ensure the confidentiality of such information, in accordance with its national law.
+
+#### Article 63 — Notification of the data subject
+
+1\. Notification of the data subject of the communication of all or part of the information collected on him shall take place in accordance with the national law of the requested Member State.
+
+2\. Where there is a risk that it may prejudice the effective recovery of the maintenance claim, such notification may be deferred for a period which shall not exceed 90 days from the date on which the information was provided to the requested Central Authority.
+
+## CHAPTER VIII — PUBLIC BODIES
+
+#### Article 64 — Public bodies as applicants
+
+1\. For the purposes of an application for recognition and declaration of enforceability of decisions or for the purposes of enforcement of decisions, the term ‘creditor’ shall include a public body acting in place of an individual to whom maintenance is owed or one to which reimbursement is owed for benefits provided in place of maintenance.
+
+2\. The right of a public body to act in place of an individual to whom maintenance is owed or to seek reimbursement of benefits provided to the creditor in place of maintenance shall be governed by the law to which the body is subject.
+
+3\. A public body may seek recognition and a declaration of enforceability or claim enforcement of:
+
+(a) a decision given against a debtor on the application of a public body which claims payment of benefits provided in place of maintenance;
+
+(b) a decision given between a creditor and a debtor to the extent of the benefits provided to the creditor in place of maintenance.
+
+4\. The public body seeking recognition and a declaration of enforceability or claiming enforcement of a decision shall upon request provide any document necessary to establish its right under paragraph 2 and to establish that benefits have been provided to the creditor.
+
+## CHAPTER IX — GENERAL AND FINAL PROVISIONS
+
+#### Article 65 — Legalisation or other similar formality
+
+No legalisation or other similar formality shall be required in the context of this Regulation.
+
+#### Article 66 — Translation of supporting documents
+
+Without prejudice to Articles 20, 28 and 40, the court seised may require the parties to provide a translation of supporting documents which are not in the language of proceedings only if it deems a translation necessary in order to give a decision or to respect the rights of the defence.
+
+#### Article 67 — Recovery of costs
+
+Without prejudice to Article 54, the competent authority of the requested Member State may recover costs from an unsuccessful party having received free legal aid pursuant to Article 46, on an exceptional basis and if his financial circumstances so allow.
+
+#### Article 68 — Relations with other Community instruments
+
+1\. Subject to Article 75(2), this Regulation shall modify Regulation (EC) No 44/2001 by replacing the provisions of that Regulation applicable to matters relating to maintenance obligations.
+
+2\. This Regulation shall replace, in matters relating to maintenance obligations, Regulation (EC) No 805/2004, except with regard to European Enforcement Orders on maintenance obligations issued in a Member State not bound by the 2007 Hague Protocol.
+
+3\. In matters relating to maintenance obligations, this Regulation shall be without prejudice to the application of Directive 2003/8/EC, subject to Chapter V.
+
+4\. This Regulation shall be without prejudice to the application of Directive 95/46/EC.
+
+#### Article 69 — Relations with existing international conventions and agreements
+
+1\. This Regulation shall not affect the application of bilateral or multilateral conventions and agreements to which one or more Member States are party at the time of adoption of this Regulation and which concern matters governed by this Regulation, without prejudice to the obligations of Member States under Article 307 of the Treaty.
+
+2\. Notwithstanding paragraph 1, and without prejudice to paragraph 3, this Regulation shall, in relations between Member States, take precedence over the conventions and agreements which concern matters governed by this Regulation and to which Member States are party.
+
+3\. This Regulation shall not preclude the application of the Convention of 23 March 1962 between Sweden, Denmark, Finland, Iceland and Norway on the recovery of maintenance by the Member States which are party thereto, since, with regard to the recognition, enforceability and enforcement of decisions, that Convention provides for:
+
+(a) simplified and more expeditious procedures for the enforcement of decisions relating to maintenance obligations, and
+
+(b) legal aid which is more favourable than that provided for in Chapter V of this Regulation.
+
+However, the application of the said Convention may not have the effect of depriving the defendant of his protection under Articles 19 and 21 of this Regulation.
+
+#### Article 70 — Information made available to the public
+
+The Member States shall provide within the framework of the European Judicial Network in civil and commercial matters established by Decision 2001/470/EC the following information with a view to making it available to the public:
+
+(a) a description of the national laws and procedures concerning maintenance obligations;
+
+(b) a description of the measures taken to meet the obligations under Article 51;
+
+(c) a description of how effective access to justice is guaranteed, as required under Article 44, and
+
+(d) a description of national enforcement rules and procedures, including information on any limitations on enforcement, in particular debtor protection rules and limitation or prescription periods.
+
+Member States shall keep this information permanently updated.
+
+#### Article 71 — Information on contact details and languages
+
+1\. By 18 September 2010, the Member States shall communicate to the Commission:
+
+(a) the names and contact details of the courts or authorities with competence to deal with applications for a declaration of enforceability in accordance with Article 27(1) and with appeals against decisions on such applications in accordance with Article 32(2);
+
+(b) the redress procedures referred to in Article 33;
+
+(c) the review procedure for the purposes of Article 19 and the names and contact details of the courts having jurisdiction;
+
+(d) the names and contact details of their Central Authorities and, where appropriate, the extent of their functions, in accordance with Article 49(3);
+
+(e) the names and contact details of the public bodies or other bodies and, where appropriate, the extent of their functions, in accordance with Article 51(3);
+
+(f) the names and contact details of the authorities with competence in matters of enforcement for the purposes of Article 21;
+
+(g) the languages accepted for translations of the documents referred to in Articles 20, 28 and 40;
+
+(h) the languages accepted by their Central Authorities for communication with other Central Authorities referred to in Article 59.
+
+The Member States shall apprise the Commission of any subsequent changes to this information.
+
+2\. The Commission shall publish the information communicated in accordance with paragraph 1 in the Official Journal of the European Union, with the exception of the addresses and other contact details of the courts and authorities referred to in points (a), (c) and (f).
+
+3\. The Commission shall make all information communicated in accordance with paragraph 1 publicly available through any other appropriate means, in particular through the European Judicial Network in civil and commercial matters established by Decision 2001/470/EC.
+
+#### Article 72 — Amendments to the forms
+
+Any amendment to the forms provided for in this Regulation shall be adopted in accordance with the advisory procedure referred to in Article 73(3).
+
+#### Article 73 — Committee
+
+1\. The Commission shall be assisted by the committee established by Article 70 of Regulation (EC) No 2201/2003.
+
+2\. Where reference is made to this paragraph, Articles 4 and 7 of Decision 1999/468/EC shall apply.
+
+The period laid down in Article 4(3) of Decision 1999/468/EC shall be set at three months.
+
+3\. Where reference is made to this paragraph, Articles 3 and 7 of Decision 1999/468/EC shall apply.
+
+#### Article 74 — Review clause
+
+By five years from the date of application determined in the third subparagraph of Article 76 at the latest, the Commission shall submit to the European Parliament, the Council and the European Economic and Social Committee a report on the application of this Regulation, including an evaluation of the practical experiences relating to the cooperation between Central Authorities, in particular regarding those Authorities’ access to the information held by public authorities and administrations, and an evaluation of the functioning of the procedure for recognition, declaration of enforceability and enforcement applicable to decisions given in a Member State not bound by the 2007 Hague Protocol. If necessary the report shall be accompanied by proposals for adaptation.
+
+#### Article 75 — Transitional provisions
+
+1\. This Regulation shall apply only to proceedings instituted, to court settlements approved or concluded, and to authentic instruments established as from its date of application, subject to paragraphs 2 and 3.
+
+2\. Sections 2 and 3 of Chapter IV shall apply:
+
+(a) to decisions given in the Member States before the date of application of this Regulation for which recognition and the declaration of enforceability are requested as from that date;
+
+(b) to decisions given as from the date of application of this Regulation following proceedings begun before that date,
+
+in so far as those decisions fall with the scope of Regulation (EC) No 44/2001 for the purposes of recognition and enforcement.
+
+Regulation (EC) No 44/2001 shall continue to apply to procedures for recognition and enforcement under way on the date of application of this Regulation.
+
+The first and second subparagraphs shall apply mutatis mutandis to court settlements approved or concluded and to authentic instruments established in the Member States.
+
+3\. Chapter VII on cooperation between Central Authorities shall apply to requests and applications received by the Central Authority as from the date of application of this Regulation.
+
+#### Article 76 — Entry into force
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+Articles 2(2), 47(3), 71, 72 and 73 shall apply from 18 September 2010.
+
+Except for the provisions referred to in the second paragraph, this Regulation shall apply from 18 June 2011, subject to the 2007 Hague Protocol being applicable in the Community by that date. Failing that, this Regulation shall apply from the date of application of that Protocol in the Community.
+
+This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaty establishing the European Community.
+
+## ANNEX I
+
+**EXTRACT FROM A DECISION/COURT SETTLEMENT IN MATTERS RELATING TO MAINTENANCE OBLIGATIONS NOT SUBJECT TO PROCEEDINGS FOR RECOGNITION OR A DECLARATION OF ENFORCEABILITY**
+
+(Articles 20 and 48 of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 2 ))
+
+**IMPORTANT**
+
+To be issued by the court of origin
+
+To be issued only if the decision or court settlement is enforceable in the Member State of origin
+
+Mention only information which is given in the decision or court settlement or of which the court of origin has been made aware
+
+**1\. NATURE OF THE DOCUMENT**
+
+|  | Decision |  | Court settlement |
+| --- | --- | --- | --- |
+
+Date and reference number: …
+
+The decision/court settlement is recognised and enforceable in another Member State without any possibility of opposing its recognition and without the need for a declaration of enforceability (Articles 17 and 48 of Regulation (EC) No 4/2009).
+
+**2\. COURT OF ORIGIN**
+
+2.1. Name: …
+
+2.2. Address:
+
+2.2.1. Street and number/PO box: …
+
+2.2.2. Place and postal code: …
+
+2.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden
+
+2.3. Telephone/Fax/E-mail: …
+
+**3\. CLAIMANT(S) ( 3 ) ( 4 )**
+
+**3.1. Person A**
+
+3.1.1. Surname and given name(s): …
+
+3.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.1.3. Identity number or social security number: …
+
+3.1.4. Address:
+
+3.1.4.1. Street and number/PO box: …
+
+3.1.4.2. Place and postal code: …
+
+3.1.4.3. Country: …
+
+3.1.5. Has benefited from
+
+3.1.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.1.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.1.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**3.2. Person B**
+
+3.2.1. Surname and given name(s): …
+
+3.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.2.3. Identity number or social security number: …
+
+3.2.4. Address:
+
+3.2.4.1. Street and number/PO box: …
+
+3.2.4.2. Place and postal code: …
+
+3.2.4.3. Country: …
+
+3.2.5. Has benefited from
+
+3.2.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.2.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.2.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**3.3. Person C**
+
+3.3.1. Surname and given name(s): …
+
+3.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.3.3. Identity number or social security number: …
+
+3.3.4. Address:
+
+3.3.4.1. Street and number/PO box: …
+
+3.3.4.2. Place and postal code: …
+
+3.3.4.3. Country: …
+
+3.3.5. Has benefited from
+
+3.3.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.3.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.3.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**4\. DEFENDANT(S) ( 5 ) ( 6 )**
+
+**4.1. Person A**
+
+4.1.1. Surname and given name(s): …
+
+4.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.1.3. Identity number or social security number: …
+
+4.1.4. Address:
+
+4.1.4.1. Street and number/PO box: …
+
+4.1.4.2. Place and postal code: …
+
+4.1.4.3. Country: …
+
+4.1.5. Has benefited from
+
+4.1.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.1.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.1.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**4.2. Person B**
+
+4.2.1. Surname and given name(s): …
+
+4.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.2.3. Identity number or social security number: …
+
+4.2.4. Address:
+
+4.2.4.1. Street and number/PO box: …
+
+4.2.4.2. Place and postal code: …
+
+4.2.4.3. Country: …
+
+4.2.5. Has benefited from
+
+4.2.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.2.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.2.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**4.3. Person C**
+
+4.3.1. Surname and given name(s): …
+
+4.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.3.3. Identity number or social security number: …
+
+4.3.4. Address:
+
+4.3.4.1. Street and number/PO box: …
+
+4.3.4.2. Place and postal code: …
+
+4.3.4.3. Country: …
+
+4.3.5. Has benefited from
+
+4.3.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.3.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.3.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**5\. TERMS OF THE DECISION/COURT SETTLEMENT**
+
+**5.1. Currency**
+
+ Euro (EUR)  Lev (BGN)  Czech koruna (CZK)  Kuna (HRK)  Forint (HUF)  Zloty (PLN)  Leu (RON)  Krona (SEK)  Other (please specify ISO code): …
+
+**5.2. Maintenance claim ( 7 )**
+
+5.2.1. Maintenance claim A
+
+5.2.1.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.1.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.1.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.1.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event): …
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+…
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.1.5.  Amount due retroactively
+
+Period covered: … ([dd/mm/yyyy] to [dd/mm/yyyy])
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.1.6.  Interest (if specified in the decision/court settlement)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.1.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.1.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+5.2.2. Maintenance claim B
+
+5.2.2.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.2.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.2.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.2.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event): …
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.2.5.  Amount due retroactively
+
+Period covered: … ([dd/mm/yyyy] to [dd/mm/yyyy])
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.2.6.  Interest (if specified in the decision/court settlement)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.2.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.2.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+5.2.3. Maintenance claim C
+
+5.2.3.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.3.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.3.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.3.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.3.5.  Amount due retroactively
+
+Period covered: … ([dd/mm/yyyy] to [dd/mm/yyyy])
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.3.6.  Interest (if specified in the decision/court settlement)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.3.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.3.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+**5.3. Costs and expenses**
+
+The decision/court settlement provides that
+
+… (surname and given name(s))
+
+must pay the sum of …
+
+to: … [surname and given name(s)].
+
+If additional pages have been attached, state the number of pages: …
+
+Done at: … on: … (dd/mm/yyyy)
+
+Signature and/or stamp of the court of origin:
+
+…
+
+## ANNEX II
+
+**EXTRACT FROM A DECISION/COURT SETTLEMENT IN MATTERS RELATING TO MAINTENANCE OBLIGATIONS SUBJECT TO PROCEEDINGS FOR RECOGNITION AND A DECLARATION OF ENFORCEABILITY**
+
+(Articles 28 and 75(2) of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 8 ))
+
+**IMPORTANT**
+
+To be issued by the court of origin
+
+To be issued only if the decision or court settlement is enforceable in the Member State of origin
+
+Mention only information which is given in the decision or court settlement or of which the court of origin has been made aware
+
+**1\. NATURE OF THE DOCUMENT**
+
+|  | Decision |  | Court settlement |
+| --- | --- | --- | --- |
+
+Date and reference number: …
+
+**2\. COURT OF ORIGIN**
+
+2.1. Name: …
+
+2.2. Address:
+
+2.2.1. Street and number/PO box: …
+
+2.2.2. Place and postal code: …
+
+2.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Denmark  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+2.3. Telephone/Fax/E-mail: …
+
+**3\. CLAIMANT(S) ( 9 ) ( 10 )**
+
+**3.1. Person A**
+
+3.1.1. Surname and given name(s): …
+
+3.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.1.3. Identity number or social security number: …
+
+3.1.4. Address:
+
+3.1.4.1. Street and number/PO box: …
+
+3.1.4.2. Place and postal code: …
+
+3.1.4.3. Country: …
+
+3.1.5. Has benefited from
+
+3.1.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.1.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.1.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009 ( 11 ):
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**3.2. Person B**
+
+3.2.1. Surname and given name(s): …
+
+3.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.2.3. Identity number or social security number: …
+
+3.2.4. Address:
+
+3.2.4.1. Street and number/PO box: …
+
+3.2.4.2. Place and postal code: …
+
+3.2.4.3. Country: …
+
+3.2.5. Has benefited from
+
+3.2.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.2.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.2.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009 ( 12 ):
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**3.3. Person C**
+
+3.3.1. Surname and given name(s): …
+
+3.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.3.3. Identity number or social security number: …
+
+3.3.4. Address:
+
+3.3.4.1. Street and number/PO box: …
+
+3.3.4.2. Place and postal code: …
+
+3.3.4.3. Country: …
+
+3.3.5. Has benefited from
+
+3.3.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.3.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+3.3.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009 ( 13 ):
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**4\. DEFENDANT(S) ( 14 ) ( 15 )**
+
+**4.1. Person A**
+
+4.1.1. Surname and given name(s): …
+
+4.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.1.3. Identity number or social security number: …
+
+4.1.4. Address:
+
+4.1.4.1. Street and number/PO box: …
+
+4.1.4.2. Place and postal code: …
+
+4.1.4.3. Country: …
+
+4.1.5. Has benefited from
+
+4.1.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.1.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.1.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009 ( 16 ):
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**4.2. Person B**
+
+4.2.1. Surname and given name(s): …
+
+4.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.2.3. Identity number or social security number: …
+
+4.2.4. Address:
+
+4.2.4.1. Street and number/PO box: …
+
+4.2.4.2. Place and postal code: …
+
+4.2.4.3. Country: …
+
+4.2.5. Has benefited from
+
+4.2.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.2.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.2.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009 ( 17 ):
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**4.3. Person C**
+
+4.3.1. Surname and given name(s): …
+
+4.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.3.3. Identity number or social security number: …
+
+4.3.4. Address:
+
+4.3.4.1. Street and number/PO box: …
+
+4.3.4.2. Place and postal code: …
+
+4.3.4.3. Country: …
+
+4.3.5. Has benefited from
+
+4.3.5.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.3.5.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+4.3.5.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009 ( 18 ):
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+**5\. TERMS OF THE DECISION/COURT SETTLEMENT**
+
+**5.1. Currency**
+
+ Euro (EUR)  Lev (BGN)  Czech koruna (CZK)  Danish krone (DKK)  Pound sterling (GBP)  Kuna (HRK)  Forint (HUF)  Zloty (PLN)  Leu (RON)  Krona (SEK)  Other (please specify ISO code): …
+
+**5.2. Maintenance claim ( 19 )**
+
+5.2.1. Maintenance claim A
+
+5.2.1.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.1.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.1.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.1.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated:
+
+…
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.1.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.1.6.  Interest (if specified in the decision/court settlement)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.1.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.1.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+5.2.2. Maintenance claim B
+
+5.2.2.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.2.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.2.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.2.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.2.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.2.6.  Interest (if specified in the decision/court settlement)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.2.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.2.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+5.2.3. Maintenance claim C
+
+5.2.3.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.3.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.3.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.3.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.3.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.3.6.  Interest (if specified in the decision/court settlement)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.3.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.3.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+**5.3. Costs and expenses**
+
+The decision/court settlement provides that
+
+… (surname and given name(s))
+
+must pay the sum of …
+
+to: … (surname and given name(s)).
+
+If additional pages have been attached, state the number of pages: …
+
+Done at: … on: … (dd/mm/yyyy)
+
+Signature and/or stamp of the court of origin:
+
+…
+
+## ANNEX III
+
+**EXTRACT FROM AN AUTHENTIC INSTRUMENT IN MATTERS RELATING TO MAINTENANCE OBLIGATIONS NOT SUBJECT TO PROCEEDINGS FOR RECOGNITION OR A DECLARATION OF ENFORCEABILITY**
+
+(Article 48 of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 20 ))
+
+**IMPORTANT**
+
+To be issued by the competent authority in the Member State of origin
+
+To be issued only if the authentic instrument is enforceable in the Member State of origin
+
+Mention only information which is given in the authentic instrument or of which the competent authority has been made aware
+
+1\. DATE AND REFERENCE NUMBER OF THE AUTHENTIC INSTRUMENT: …
+
+The authentic instrument is recognised and enforceable in another Member State without any possibility of opposing its recognition and without the need for a declaration of enforceability (Article 48 of Regulation (EC) No 4/2009).
+
+2\. NATURE OF THE AUTHENTIC INSTRUMENT
+
+2.1. Instrument formally drawn up or registered on: … (dd/mm/yyyy)
+
+ Agreement concluded or authenticated on: … (dd/mm/yyyy)
+
+2.2. Competent authority:
+
+2.2.1. Name: …
+
+2.2.2. Address:
+
+2.2.2.1. Street and number/PO box: …
+
+2.2.2.2. Place and postal code: …
+
+2.2.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden
+
+2.2.3. Telephone/Fax/E-mail: …
+
+3\. CREDITOR(S) (
+
+21
+
+)
+
+**3.1. Person A**
+
+3.1.1. Surname and given name(s): …
+
+3.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.1.3. Identity number or social security number: …
+
+3.1.4. Address:
+
+3.1.4.1. Street and number/PO box: …
+
+3.1.4.2. Place and postal code: …
+
+3.1.4.3. Country: …
+
+**3.2. Person B**
+
+3.2.1. Surname and given name(s): …
+
+3.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.2.3. Identity number or social security number: …
+
+3.2.4. Address:
+
+3.2.4.1. Street and number/PO box: …
+
+3.2.4.2. Place and postal code: …
+
+3.2.4.3. Country: …
+
+**3.3. Person C**
+
+3.3.1. Surname and given name(s): …
+
+3.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.3.3. Identity number or social security number: …
+
+3.3.4. Address:
+
+3.3.4.1. Street and number/PO box: …
+
+3.3.4.2. Place and postal code: …
+
+3.3.4.3. Country: …
+
+4\. DEBTOR(S) (
+
+22
+
+)
+
+**4.1. Person A**
+
+4.1.1. Surname and given name(s): …
+
+4.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.1.3. Identity number or social security number: …
+
+4.1.4. Address:
+
+4.1.4.1. Street and number/PO box: …
+
+4.1.4.2. Place and postal code: …
+
+4.1.4.3. Country: …
+
+**4.2. Person B**
+
+4.2.1. Surname and given name(s): …
+
+4.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.2.3. Identity number or social security number: …
+
+4.2.4. Address:
+
+4.2.4.1. Street and number/PO box: …
+
+4.2.4.2. Place and postal code: …
+
+4.2.4.3. Country: …
+
+**4.3. Person C**
+
+4.3.1. Surname and given name(s): …
+
+4.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.3.3. Identity number or social security number: …
+
+4.3.4. Address:
+
+4.3.4.1. Street and number/PO box: …
+
+4.3.4.2. Place and postal code: …
+
+4.3.4.3. Country: …
+
+5\. CONTENTS OF THE AUTHENTIC INSTRUMENT
+
+**5.1. Currency**
+
+ Euro (EUR)  Lev (BGN)  Czech koruna (CZK)  Kuna (HRK)  Forint (HUF)  Zloty (PLN)  Leu (RON)  Krona (SEK)  Other (please specify ISO code): …
+
+**5.2. Maintenance claim ( 23 )**
+
+5.2.1. Maintenance claim A
+
+5.2.1.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.1.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.1.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.1.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated:
+
+…
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.1.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.1.6.  Interest (if specified in the authentic instrument)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.1.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.1.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+5.2.2. Maintenance claim B
+
+5.2.2.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.2.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.2.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.2.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated:
+
+…
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.2.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.2.6.  Interest (if specified in the authentic instrument)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.2.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.2.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+5.2.3. Maintenance claim C
+
+5.2.3.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.3.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.3.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.3.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.3.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.3.6.  Interest (if specified in the authentic instrument)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.3.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.3.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+**5.3. Costs**
+
+The authentic instrument provides that
+
+… (surname and given name(s))
+
+must pay the sum of …
+
+to: … (surname and given name(s)).
+
+If additional pages have been attached, state the number of pages: …
+
+Done at: … on: … (dd/mm/yyyy)
+
+Signature and/or stamp of the competent authority:
+
+…
+
+## ANNEX IV
+
+**EXTRACT FROM AN AUTHENTIC INSTRUMENT IN MATTERS RELATING TO MAINTENANCE OBLIGATIONS SUBJECT TO PROCEEDINGS FOR RECOGNITION AND A DECLARATION OF ENFORCEABILITY**
+
+(Articles 48 and 75(2) of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 24 ))
+
+**IMPORTANT**
+
+To be issued by the competent authority in the Member State of origin
+
+To be issued only if the authentic instrument is enforceable in the Member State of origin
+
+Mention only information which is given in the authentic instrument or of which the competent authority has been made aware
+
+1\. DATE AND REFERENCE NUMBER OF THE AUTHENTIC INSTRUMENT: …
+
+2\. NATURE OF THE AUTHENTIC INSTRUMENT
+
+2.1.  Instrument formally drawn up or registered on: … (dd/mm/yyyy)
+
+ Agreement concluded or authenticated on: … (dd/mm/yyyy)
+
+2.2. Competent authority:
+
+2.2.1. Name: …
+
+2.2.2. Address:
+
+2.2.2.1. Street and number/PO box: …
+
+2.2.2.2. Place and postal code: …
+
+2.2.2.3. Member State:
+
+ Belgium  Bulgaria  Czech Republic  Denmark  Germany  Estonia Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+2.2.3. Telephone/Fax/E-mail: …
+
+3\. CREDITOR(S) (
+
+25
+
+)
+
+**3.1. Person A**
+
+3.1.1. Surname and given name(s): …
+
+3.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.1.3. Identity number or social security number: …
+
+3.1.4. Address:
+
+3.1.4.1. Street and number/PO box: …
+
+3.1.4.2. Place and postal code: …
+
+3.1.4.3. Country: …
+
+**3.2. Person B**
+
+3.2.1. Surname and given name(s): …
+
+3.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.2.3. Identity number or social security number: …
+
+3.2.4. Address:
+
+3.2.4.1. Street and number/PO box: …
+
+3.2.4.2. Place and postal code: …
+
+3.2.4.3. Country: …
+
+**3.3. Person C**
+
+3.3.1. Surname and given name(s): …
+
+3.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+3.3.3. Identity number or social security number: …
+
+3.3.4. Address:
+
+3.3.4.1. Street and number/PO box: …
+
+3.3.4.2. Place and postal code: …
+
+3.3.4.3. Country: …
+
+4\. DEBTOR(S) (
+
+26
+
+)
+
+**4.1. Person A**
+
+4.1.1. Surname and given name(s): …
+
+4.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.1.3. Identity number or social security number: …
+
+4.1.4. Address:
+
+4.1.4.1. Street and number/PO box: …
+
+4.1.4.2. Place and postal code: …
+
+4.1.4.3. Country: …
+
+**4.2. Person B**
+
+4.2.1. Surname and given name(s): …
+
+4.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.2.3. Identity number or social security number: …
+
+4.2.4. Address:
+
+4.2.4.1. Street and number/PO box: …
+
+4.2.4.2. Place and postal code: …
+
+4.2.4.3. Country: …
+
+**4.3. Person C**
+
+4.3.1. Surname and given name(s): …
+
+4.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+4.3.3. Identity number or social security number: …
+
+4.3.4. Address:
+
+4.3.4.1. Street and number/PO box: …
+
+4.3.4.2. Place and postal code: …
+
+4.3.4.3. Country: …
+
+5\. CONTENTS OF THE AUTHENTIC INSTRUMENT
+
+**5.1. Currency**
+
+ Euro (EUR)  Lev (BGN)  Czech koruna (CZK)  Danish krone (DKK)  Pound sterling (GBP)  Kuna (HRK)  Forint (HUF)  Zloty (PLN)  Leu (RON)  Krona (SEK)  Other (please specify ISO code): …
+
+**5.2. Maintenance claim ( 27 )**
+
+5.2.1. Maintenance claim A
+
+5.2.1.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+Person for whom maintenance is owed:
+
+… (surname and given name(s))
+
+5.2.1.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.1.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.1.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+…
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.1.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.1.6.  Interest (if specified in the authentic instrument)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+…
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.1.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.1.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+5.2.2. Maintenance claim B
+
+5.2.2.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+…
+
+Person for whom maintenance is owed: … (surname and given name(s))
+
+5.2.2.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.2.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.2.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.2.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.2.6.  Interest (if specified in the authentic instrument)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.2.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.2.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+5.2.3. Maintenance claim C
+
+5.2.3.1. The maintenance is to be paid
+
+by … (surname and given name(s))
+
+to … (surname and given name(s) of the person to whom the sum must actually be paid)
+
+…
+
+Person for whom maintenance is owed: … (surname and given name(s))
+
+5.2.3.2.  Amount to be paid in one sum
+
+Period covered, where applicable:
+
+…
+
+(from date (dd/mm/yyyy) to date (dd/mm/yyyy) or event)
+
+Due date: … (dd/mm/yyyy)
+
+Amount: …
+
+5.2.3.3.  Amount to be paid in instalments
+
+| Maturity date (dd/mm/yyyy) | Amount |
+| --- | --- |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+
+5.2.3.4.  Sum to be paid regularly
+
+ Once a week
+
+ Once a month
+
+ Other (state frequency): …
+
+Amount: …
+
+From: … (dd/mm/yyyy)
+
+Due day/date: …
+
+ If applicable, until (date (dd/mm/yyyy) or event):
+
+…
+
+If the maintenance claim is subject to indexation, please indicate how that indexation is to be calculated: …
+
+…
+
+Indexation applicable as from: … (dd/mm/yyyy)
+
+5.2.3.5.  Amount due retroactively
+
+Period covered: … ((dd/mm/yyyy) to (dd/mm/yyyy))
+
+Amount: …
+
+Form of payment: …
+
+…
+
+…
+
+5.2.3.6.  Interest (if specified in the authentic instrument)
+
+If the maintenance claim is subject to interest, please indicate the rate: …
+
+Interest due as from: … (dd/mm/yyyy)
+
+5.2.3.7.  Payment in kind (please specify): …
+
+…
+
+…
+
+…
+
+5.2.3.8.  Other form of payment (please specify): …
+
+…
+
+…
+
+…
+
+**5.3. Costs**
+
+The authentic instrument provides that
+
+… (surname and given name(s))
+
+must pay the sum of …
+
+to … (surname and given name(s)).
+
+If additional pages have been attached, state the number of pages: …
+
+Done at: … on: … (dd/mm/yyyy)
+
+Signature and/or stamp of the competent authority:
+
+…
+
+## ANNEX V
+
+**REQUEST FOR SPECIFIC MEASURES**
+
+(Article 53 of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 28 ))
+
+**PART A**
+
+**To be completed by the requesting Central Authority**
+
+**1\. REQUESTING CENTRAL AUTHORITY**
+
+1.1. Name: …
+
+1.2. Address:
+
+1.2.1. Street and number/PO box: …
+
+1.2.2. Place and postal code: …
+
+1.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+1.3. Telephone: …
+
+1.4. Fax …
+
+1.5. E-mail: …
+
+1.6. Reference number: …
+
+1.7. Person responsible for following up the request:
+
+1.7.1. Surname and given name(s): …
+
+1.7.2. Telephone: …
+
+1.7.3. E-mail: …
+
+**2\. REQUESTED CENTRAL AUTHORITY**
+
+2.1. Name: …
+
+2.2. Address:
+
+2.2.1. Street and number/PO box: …
+
+2.2.2. Place and postal code: …
+
+2.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+**3\. REQUEST**
+
+3.1. The purpose of the specific measure requested is to:
+
+3.1.1.  help locate the debtor or the creditor (see points 3.3. and 3.4.)
+
+3.1.2.  facilitate the search for information on the income or assets of the debtor or the creditor (see points 3.3. and 3.4.)
+
+3.1.3.  facilitate the obtaining of documentary or other evidence
+
+3.1.4.  obtain assistance in establishing parentage
+
+3.1.5.  initiate or facilitate the institution of proceedings to obtain a necessary provisional measure which is territorial in nature
+
+3.1.6.  facilitate service of a document
+
+3.2. Grounds for the request:
+
+…
+
+…
+
+…
+
+…
+
+…
+
+3.3. The information requested relates to:
+
+3.3.1.  the following debtor
+
+3.3.1.1. Surname and given name(s): …
+
+3.3.1.2. Date (dd/mm/yyyy) and place of birth ( 29 ): …
+
+3.3.1.3. Last known address: …
+
+3.3.1.4. Identity number or social security number ( 30 ): …
+
+3.3.1.5. Any other information which may be useful ( 31 ):
+
+…
+
+…
+
+3.3.2.  the following creditor
+
+3.3.2.1. Surname and given name(s): …
+
+3.3.2.2. Date (dd/mm/yyyy) and place of birth ( 32 ): …
+
+3.3.2.3. Last known address: …
+
+3.3.2.4. Identity number or social security number ( 33 ): …
+
+3.3.2.5. Any other information which may be useful ( 34 ):
+
+…
+
+…
+
+3.4. Information requested
+
+3.4.1.  Current address of the debtor/creditor
+
+3.4.2.  Income of the debtor/creditor
+
+3.4.3.  Assets of the debtor/creditor, including the location of the assets of the debtor/creditor
+
+The creditor has produced a copy of the decision, court settlement or authentic instrument to be enforced, if appropriate accompanied by the relevant form.
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+ There is a risk that notifying the person concerned by the collection of this information may prejudice the effective recovery of the maintenance claim (Article 63(2) of Regulation (EC) No 4/2009).
+
+Done at …, on … (dd/mm/yyyy)
+
+Name and signature of the authorised official of the requesting Central Authority:
+
+…
+
+**PART B**
+
+**To be completed by the requested Central Authority**
+
+**4\. REFERENCE NUMBER OF THE REQUESTED CENTRAL AUTHORITY:**
+
+**5\. PERSON RESPONSIBLE FOR FOLLOWING UP THE REQUEST: …**
+
+5.1. Surname and given name(s): …
+
+5.2. Telephone: …
+
+5.3. Fax …
+
+5.4. E-mail: …
+
+**6\. MEASURES TAKEN AND RESULTS OBTAINED**
+
+…
+
+…
+
+…
+
+…
+
+**7\. INFORMATION COLLECTED:**
+
+7.1. Without recourse to Articles 61, 62 and 63 of Regulation (EC) No 4/2009:
+
+7.1.1. Debtor’s/creditor’s address:
+
+|  | No |  | Yes (please specify): |
+| --- | --- | --- | --- |
+
+…
+
+…
+
+7.1.2. Debtor’s/creditor’s revenue:
+
+|  | No |  | Yes (please specify): |
+| --- | --- | --- | --- |
+
+…
+
+…
+
+7.1.3. Debtor’s/creditor’s assets:
+
+|  | No |  | Yes (please specify): |
+| --- | --- | --- | --- |
+
+…
+
+…
+
+7.2. Pursuant to Articles 61, 62 and 63 of Regulation (EC) No 4/2009:
+
+7.2.1. Debtor’s/creditor’s address:
+
+|  | No |  | Yes (please specify): |
+| --- | --- | --- | --- |
+
+…
+
+…
+
+…
+
+7.2.2. Existence of debtor’s income:
+
+|  | No |  | Yes |
+| --- | --- | --- | --- |
+
+7.2.3. Existence of debtor’s assets:
+
+|  | No |  | Yes |
+| --- | --- | --- | --- |
+
+**IMPORTANT**
+
+(In the event of the application of Articles 61, 62 and 63 of Regulation (EC) No 4/2009)
+
+Except for information merely indicating the existence of an address, income or assets in the requested Member State, the information referred to in Article 61(1) may not be disclosed to the person having applied to the requesting Central Authority, subject to the application of procedural rules before a court (Article 62(2), second subparagraph, of Regulation (EC) No 4/2009).
+
+**8\. INABILITY TO COMMUNICATE THE REQUESTED INFORMATION**
+
+The requested Central Authority is not able to provide the information requested, for the following reasons:
+
+…
+
+…
+
+…
+
+Done at …, on … (dd/mm/yyyy)
+
+Name and signature of the authorised official of the requested Central Authority:
+
+…
+
+## ANNEX VI
+
+**APPLICATION FORM WITH A VIEW TO THE RECOGNITION, DECLARATION OF ENFORCEABILITY OR ENFORCEMENT OF A DECISION IN MATTERS RELATING TO MAINTENANCE OBLIGATIONS**
+
+(Articles 56 and 57 of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 35 ))
+
+**PART A**
+
+**To be completed by the requesting Central Authority**
+
+**1\. APPLICATION**
+
+ Application for recognition or for recognition and declaration of enforceability of a decision (Article 56(1)(a))
+
+ Application for recognition of a decision (Article 56(2)(a))
+
+ Application for enforcement of a decision given or recognised in the requested Member State (Article 56(1)(b))
+
+**2\. REQUESTING CENTRAL AUTHORITY**
+
+2.1. Name: …
+
+2.2. Address:
+
+2.2.1. Street and number/PO box: …
+
+2.2.2. Place and postal code: …
+
+2.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+2.3. Telephone: …
+
+2.4. Fax …
+
+2.5. E-mail: …
+
+2.6. Reference number of the application: …
+
+Application to be handled with the application(s) bearing the following reference number(s): …
+
+2.7. Person responsible for following up the application:
+
+2.7.1. Surname and given name(s): …
+
+2.7.2. Telephone: …
+
+2.7.3. E-mail: …
+
+**3\. REQUESTED CENTRAL AUTHORITY**
+
+3.1. Name: …
+
+3.2. Address:
+
+3.2.1. Street and number/PO box: …
+
+3.2.2. Place and postal code: …
+
+3.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+**4\. DOCUMENTS ATTACHED ( 36 ) TO THE APPLICATION IN THE CASE OF A DECISION MADE IN A MEMBER STATE**
+
+ A copy of the decision/court settlement/authentic instrument
+
+ An extract from the decision/court settlement/authentic instrument using the form set out in Annex I, Annex II, Annex III or Annex IV
+
+ A transliteration or translation of the contents of the form set out in Annex I, Annex II, Annex III or Annex IV
+
+ Where appropriate, a copy of the decision on the declaration of enforceability
+
+ A document showing the amount of any arrears and the date such amount was calculated
+
+ A document indicating that the applicant has benefited from legal aid or from exemption from costs and expenses
+
+ A document indicating that the applicant has benefited from free proceedings before an administrative authority in the Member State of origin, and confirming that the applicant fulfils the financial requirements to qualify for legal aid or exemption from costs and expenses
+
+ A document establishing the right of the public body to apply for reimbursement of benefits paid to the creditor and justifying the payment of such benefits
+
+ Other (please specify): …
+
+…
+
+…
+
+…
+
+**5\. DOCUMENTS ATTACHED ( 37 ) TO THE APPLICATION IN THE CASE OF A DECISION MADE IN A THIRD STATE**
+
+ The complete text of the decision.
+
+ A summary of or extract from the decision drawn up by the competent authority of the State of origin.
+
+ A document stating that the decision is enforceable in the State of origin and, in the case of a decision by an administrative authority, a document stating that the requirements of Article 19(3) of the 2007 Hague Convention are met.
+
+ If the defendant did not appear and was not represented in the proceedings in the State of origin, a document or documents attesting, as appropriate, either that the defendant had proper notice of the proceedings and an opportunity to be heard, or that the defendant had proper notice of the decision and the opportunity to challenge it or appeal it in fact and law.
+
+ A document showing the amount of any arrears and the date such amount was calculated.
+
+ A document providing the information necessary to make appropriate calculations in the case of a decision providing for automatic adjustment by indexation.
+
+ A document showing the extent to which the applicant received free legal assistance in the State of origin.
+
+ Other (please specify): …
+
+…
+
+…
+
+…
+
+Total number of documents attached to the application form: …
+
+Done at: … on … (dd/mm/yyyy)
+
+Name and signature of the authorised official of the requesting Central Authority: …
+
+**PART B**
+
+**To be completed by the applicant or, as appropriate, by the person/authority authorised in the requesting Member State to complete the form on the applicant’s behalf**
+
+**6\. APPLICATION**
+
+6.1.  Application for recognition or for recognition and declaration of enforceability of a decision
+
+The application is based on:
+
+6.1.1.  Chapter IV, Section 2, of Regulation (EC) No 4/2009
+
+6.1.2.  The 2007 Hague Convention
+
+6.1.2.1. Indicate the basis for recognition and enforcement under Article 20 of the 2007 Hague Convention:
+
+6.1.2.2. The defendant has appeared or been represented in the proceedings in the State of origin:
+
+| Yes |  | No |  |
+| --- | --- | --- | --- |
+
+6.1.3.  The national law of the requested Member State
+
+6.1.4.  Other (please specify): …
+
+…
+
+…
+
+6.2.  Application for enforcement of a decision given or recognised in the requested Member State
+
+**7\. DECISION**
+
+7.1. Date and reference number: …
+
+7.2. Name of the court of origin: …
+
+**8\. APPLICANT**
+
+8.1. Natural person
+
+8.1.1. Surname and given name(s): …
+
+8.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+8.1.3. Identity number or social security number ( 38 ): …
+
+8.1.4. Nationality: …
+
+8.1.5. Occupation: …
+
+8.1.6. Civil status: …
+
+8.1.7. Address:
+
+ The address given below is the applicant’s personal address.
+
+ The applicant is in a situation of family violence ( 39 ). The address given below is an address care of: … (surname and given name(s))
+
+8.1.7.1. Street and number/PO box: …
+
+8.1.7.2. Place and postal code: …
+
+8.1.7.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+8.1.8. Telephone/E-mail: …
+
+8.1.9. Has benefited from:
+
+8.1.9.1. legal aid:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+8.1.9.2. exemption from costs and expenses:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+8.1.9.3. free proceedings before an administrative authority listed in Annex X to Regulation (EC) No 4/2009:
+
+|  | Yes |  | No |
+| --- | --- | --- | --- |
+
+8.1.10. If applicable, surname, given name(s) and contact details of the applicant’s representative (lawyer, etc. …): …
+
+…
+
+8.2. Public body:
+
+8.2.1. Name: …
+
+8.2.2. Address:
+
+8.2.2.1. Street and number/PO box: …
+
+8.2.2.2. Place and postal code: …
+
+8.2.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+8.2.3. Telephone/Fax/E-mail: …
+
+8.2.4. Name of the person representing the body in the proceedings ( 40 ):
+
+…
+
+8.2.5. Person responsible for following up the application:
+
+8.2.5.1. Surname and given name(s): …
+
+8.2.5.2. Telephone: …
+
+8.2.5.3. Fax …
+
+8.2.5.4. E-mail: …
+
+**9\. DEFENDANT**
+
+9.1. Surname and given name(s): …
+
+9.2. Date (dd/mm/yyyy) and place of birth ( 41 ): …
+
+9.3. Identity number or social security number ( 42 ): …
+
+9.4. Nationality ( 43 ): …
+
+9.5. Occupation ( 44 ): …
+
+9.6. Civil status ( 45 ): …
+
+9.7. Address ( 46 ):
+
+9.7.1. Street and number/PO box: …
+
+9.7.2. Place and postal code: …
+
+9.7.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+**10\. ANY OTHER INFORMATION THAT MAY HELP LOCATE THE DEFENDANT: …**
+
+…
+
+…
+
+…
+
+**11\. PERSON(S) FOR WHOM MAINTENANCE IS SOUGHT OR OWED ( 47 )**
+
+11.1.  The person is the same as the applicant named in point 8
+
+11.2.  The person is the same as the defendant named in point 9
+
+11.3.
+
+|  | The applicant |  | The defendant |
+| --- | --- | --- | --- |
+
+is the representative ( 48 ) defending the interests of the following person(s):
+
+11.3.1. Person A
+
+11.3.1.1. Surname and given name(s): …
+
+11.3.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+11.3.1.3. Identity number or social security number ( 49 ): …
+
+11.3.1.4. Nationality ( 50 ): …
+
+11.3.1.5. Occupation ( 51 ): …
+
+11.3.1.6. Civil status ( 52 ): …
+
+11.3.2. Person B
+
+11.3.2.1. Surname and given name(s): …
+
+11.3.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+11.3.2.3. Identity number or social security number ( 53 ): …
+
+11.3.2.4. Nationality ( 54 ): …
+
+11.3.2.5. Occupation ( 55 ): …
+
+11.3.2.6. Civil status ( 56 ): …
+
+11.3.3. Person C
+
+11.3.3.1. Surname and given name(s): …
+
+11.3.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+11.3.3.3. Identity number or social security number ( 57 ): …
+
+11.3.3.4. Nationality ( 58 ): …
+
+11.3.3.5. Occupation ( 59 ): …
+
+11.3.3.6. Civil status ( 60 ): …
+
+**12\. DEBTOR**
+
+12.1.  The person is the same as the applicant named in point 8
+
+12.2.  The person is the same as the defendant named in point 9
+
+12.3.
+
+|  | The applicant |  | The defendant |
+| --- | --- | --- | --- |
+
+is the representative ( 61 ) defending the interests of the following person:
+
+12.3.1. Surname and given name(s): …
+
+12.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+12.3.3. Identity number or social security number ( 62 ): …
+
+12.3.4. Nationality ( 63 ): …
+
+12.3.5. Occupation ( 64 ): …
+
+12.3.6. Civil status ( 65 ): …
+
+**13\. INFORMATION REGARDING PAYMENT, IF THE APPLICATION IS MADE BY THE CREDITOR**
+
+13.1. Payment by electronic means
+
+13.1.1. Name of bank: …
+
+13.1.2. BIC or other relevant bank code: …
+
+13.1.3. Account holder: …
+
+13.1.4. International Bank Account Number (IBAN): …
+
+13.2. Payment by cheque
+
+13.2.1. Cheque payable to: …
+
+13.2.2. Cheque to be sent to
+
+13.2.2.1. Surname and given name(s): …
+
+13.2.2.2. Address:
+
+13.2.2.2.1. Street and number/PO box: …
+
+13.2.2.2.2. Place and postal code: …
+
+13.2.2.2.3. Country: …
+
+**14\. ADDITIONAL INFORMATION (WHERE APPLICABLE):**
+
+…
+
+…
+
+…
+
+Done at: … on … (dd/mm/yyyy)
+
+Applicant’s signature: …
+
+and/or, where appropriate:
+
+Name and signature of the person/authority authorised in the requesting Member State to complete the form on the applicant’s behalf:
+
+…
+
+## ANNEX VII
+
+**APPLICATION FORM TO OBTAIN OR HAVE MODIFIED A DECISION IN MATTERS RELATING TO MAINTENANCE OBLIGATIONS**
+
+(Articles 56 and 57 of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 66 ))
+
+**PART A**
+
+**To be completed by the requesting Central Authority**
+
+**1\. APPLICATION**
+
+ Application to obtain a decision (Article 56(1)(c))
+
+ Application to obtain a decision (Article 56(1)(d))
+
+ Application for the modification of a decision (Article 56(1)(e))
+
+ Application for the modification of a decision (Article 56(1)(f))
+
+ Application for the modification of a decision (Article 56(2)(b))
+
+ Application for the modification of a decision (Article 56(2)(c))
+
+**2\. REQUESTING CENTRAL AUTHORITY**
+
+2.1. Name: …
+
+2.2. Address:
+
+2.2.1. Street and number/PO box: …
+
+2.2.2. Place and postal code: …
+
+2.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+2.3. Telephone: …
+
+2.4. Fax …
+
+2.5. E-mail: …
+
+2.6. Reference number of the application: …
+
+Application to be handled with the application(s) bearing the following reference number(s): …
+
+2.7. Person responsible for following up the application:
+
+2.7.1. Surname and given name(s): …
+
+2.7.2. Telephone: …
+
+2.7.3. E-mail: …
+
+**3\. REQUESTED CENTRAL AUTHORITY**
+
+3.1. Name: …
+
+3.2. Address:
+
+3.2.1. Street and number/PO box: …
+
+3.2.2. Place and postal code: …
+
+3.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+**4\. DOCUMENTS ATTACHED ( 67 ) TO THE APPLICATION, AS APPROPRIATE**
+
+ Decision of the requested Member State refusing recognition or a declaration of enforceability
+
+ Copy of the decision to be modified
+
+ Extract from the decision to be modified
+
+ Document(s) proving a change in income or any other change in circumstances
+
+ Birth certificate(s) or equivalent
+
+ Debtor’s acknowledgement of parentage
+
+ Document(s) proving biological parentage
+
+ Decision by a competent authority in relation to parentage
+
+ Results of genetic tests
+
+ Adoption certificate
+
+ Certificate of marriage or similar relationship
+
+ Document(s) proving the date of divorce/separation
+
+ Document(s) proving that the parties live together
+
+ Certificate(s) regarding schooling
+
+ Document(s) relevant to the financial situation
+
+ Other (please specify): …
+
+…
+
+…
+
+…
+
+Total number of documents attached to the application form: …
+
+Done at: … on … (dd/mm/yyyy)
+
+Name and signature of the authorised official of the requesting Central Authority:
+
+…
+
+**PART B**
+
+**To be completed by the applicant or, as appropriate, by the person/authority authorised in the requesting Member State to complete the form on the applicant’s behalf**
+
+**5\. APPLICATION**
+
+5.1.  Application to obtain a decision
+
+5.1.1.  Parentage has not been established
+
+5.1.2.  No decision exists
+
+5.1.3.  Recognition and a declaration of enforceability of an existing decision are not possible
+
+5.1.4.  Amount requested:
+
+…
+
+…
+
+…
+
+5.2.  Application for modification of a decision
+
+5.2.1.  The decision was given in the requested Member State
+
+5.2.2.  The decision was given in a State other than the requested Member State
+
+5.2.3. Date (dd/mm/yyyy) and reference number of the decision: …
+
+5.2.4. Name of the court of origin: …
+
+5.2.5. Changes in circumstances which have occurred:
+
+ Change in income:
+
+ of the person(s) for whom maintenance is sought or owed
+
+ of the person primarily responsible for the person(s) for whom maintenance is sought or owed
+
+ of the debtor
+
+ Change in expenses and charges:
+
+ of the person(s) for whom maintenance is sought or owed
+
+ of the person primarily responsible for the person(s) for whom maintenance is sought or owed
+
+ of the debtor
+
+ Change in the situation of the child/children
+
+ Change in civil status:
+
+ of the person(s) for whom maintenance is sought or owed
+
+ of the person primarily responsible for the person(s) for whom maintenance is sought or owed
+
+ of the debtor
+
+ Other (please specify): …
+
+…
+
+…
+
+5.2.6. Modification(s) requested:
+
+ Increase in the amount of maintenance:
+
+ The amount of maintenance should be increased by (please specify): …
+
+ The new amount of maintenance should be (please specify):
+
+Currency
+
+ Euro (EUR)  Lev (BGN)  Czech koruna (CZK)  Pound sterling (GBP)  Kuna (HRK)  Forint (HUF)  Zloty (PLN)  Leu (RON)  Krona (SEK)  Other (please specify ISO code): …
+
+ Reduction in the amount of maintenance:
+
+ The amount of maintenance should be reduced by (please specify): …
+
+ The new amount of maintenance should be (please specify):
+
+Currency
+
+ Euro (EUR)  Lev (BGN)  Czech koruna (CZK)  Pound sterling (GBP)  Kuna (HRK)  Forint (HUF)  Zloty (PLN)  Leu (RON)  Krona (SEK)  Other (please specify ISO code): …
+
+ Modification of the frequency of payments (please specify): …
+
+ Modification of the arrangements for payment (please specify): …
+
+ Modification of the nature of payments (please specify): …
+
+ Termination of the maintenance obligation (please specify): …
+
+ Other (please specify): …
+
+…
+
+**6\. APPLICANT**
+
+6.1. Surname and given name(s): …
+
+6.2. Address:
+
+ The address given below is the applicant’s personal address.
+
+ The applicant is in a situation of family violence ( 68 ). The address given below is an address care of: … (surname and given name(s))
+
+6.2.1. Street and number/PO box: …
+
+6.2.2. Place and postal code: …
+
+6.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+6.3. Telephone/E-mail: …
+
+6.4. Date (dd/mm/yyyy) and place of birth: …
+
+6.5. Identity number or social security number ( 69 ): …
+
+6.6. Nationality: …
+
+6.7. Occupation: …
+
+6.8. Civil status: …
+
+6.9. If applicable, surname, given name(s) and contact details of the applicant’s representative (lawyer, etc. …):
+
+…
+
+…
+
+**7\. DEFENDANT**
+
+7.1. Surname and given name(s): …
+
+7.2. Address ( 70 ):
+
+7.2.1. Street and number/PO box: …
+
+7.2.2. Place and postal code: …
+
+7.2.3. Member State
+
+ Belgium  Bulgaria  Czech Republic  Germany  Estonia  Ireland  Greece  Spain  France  Croatia  Italy  Cyprus  Latvia  Lithuania  Luxembourg  Hungary  Malta  Netherlands  Austria  Poland  Portugal  Romania  Slovenia  Slovakia  Finland  Sweden  United Kingdom
+
+7.3. Date (dd/mm/yyyy) and place of birth ( 71 ): …
+
+7.4. Identity number or social security number ( 72 ): …
+
+7.5. Nationality ( 73 ): …
+
+7.6. Occupation ( 74 ): …
+
+7.7. Civil status ( 75 ): …
+
+**8\. ANY OTHER INFORMATION THAT MAY HELP LOCATE THE DEFENDANT:**
+
+…
+
+…
+
+…
+
+**9\. PERSON(S) FOR WHOM MAINTENANCE IS SOUGHT OR OWED ( 76 )**
+
+9.1.  The person is the same as the applicant named in point 6
+
+9.2.  The person is the same as the defendant named in point 7
+
+9.3.
+
+|  | The applicant |  | The defendant |
+| --- | --- | --- | --- |
+
+is the representative ( 77 ) defending the interests of the following person(s):
+
+9.3.1. Person A
+
+9.3.1.1. Surname and given name(s): …
+
+9.3.1.2. Date (dd/mm/yyyy) and place of birth: …
+
+9.3.1.3. Identity number or social security number ( 78 ): …
+
+9.3.1.4. Nationality ( 79 ): …
+
+9.3.1.5. Occupation ( 80 ): …
+
+9.3.1.6. Civil status ( 81 ): …
+
+9.3.1.7. Maintenance is on the basis of the following relationship:
+
+ Parentage (please specify relationship): …
+
+ Marriage
+
+ Analogous relationship to marriage
+
+ Alliance (please specify relationship): …
+
+ Other (please specify): …
+
+9.3.2. Person B
+
+9.3.2.1. Surname and given name(s): …
+
+9.3.2.2. Date (dd/mm/yyyy) and place of birth: …
+
+9.3.2.3. Identity number or social security number ( 82 ): …
+
+9.3.2.4. Nationality ( 83 ): …
+
+9.3.2.5. Occupation ( 84 ): …
+
+9.3.2.6. Civil status ( 85 ): …
+
+9.3.2.7. Maintenance is on the basis of the following relationship:
+
+ Parentage (please specify relationship): …
+
+ Marriage
+
+ Analogous relationship to marriage
+
+ Alliance (please specify relationship): …
+
+ Other (please specify): …
+
+9.3.3. Person C
+
+9.3.3.1. Surname and given name(s): …
+
+9.3.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+9.3.3.3. Identity number or social security number ( 86 ): …
+
+9.3.3.4. Nationality ( 87 ): …
+
+9.3.3.5. Occupation ( 88 ): …
+
+9.3.3.6. Civil status ( 89 ): …
+
+9.3.3.7. Maintenance is on the basis of the following relationship:
+
+ Parentage (please specify relationship): …
+
+ Marriage
+
+ Analogous relationship to marriage
+
+ Alliance (please specify relationship): …
+
+ Other (please specify): …
+
+**10\. DEBTOR**
+
+10.1.  The person is the same as the applicant named in point 6
+
+10.2.  The person is the same as the defendant named in point 7
+
+10.3.
+
+|  | The applicant |  | The defendant |
+| --- | --- | --- | --- |
+
+is the representative ( 90 ) defending the interests of the following person:
+
+10.3.1. Surname and given name(s): …
+
+10.3.2. Date (dd/mm/yyyy) and place of birth: …
+
+10.3.3. Identity number or social security number ( 91 ): …
+
+10.3.4. Nationality ( 92 ): …
+
+10.3.5. Occupation ( 93 ): …
+
+10.3.6. Civil status ( 94 ): …
+
+10.3.7. Maintenance is on the basis of the following relationship:
+
+ Parentage (please specify relationship): …
+
+ Marriage
+
+ Analogous relationship to marriage
+
+ Alliance (please specify relationship): …
+
+ Other (please specify): …
+
+**11\. INFORMATION ON THE FINANCIAL SITUATION OF THE PERSONS CONCERNED BY THE APPLICATION (ONLY GIVE INFORMATION WHICH IS RELEVANT FOR THE PURPOSE OF OBTAINING OR MODIFYING A DECISION)**
+
+11.1. Currency
+
+ Euro (EUR)  Lev (BGN)  Czech koruna (CZK)  Pound sterling (GBP)  Kuna (HRK)  Forint (HUF)  Zloty (PLN)  Leu (RON)  Krona (SEK)  Other (please specify ISO code): …
+
+11.2. The person(s) for whom maintenance is sought or owed and the person primarily responsible for that person (those persons)
+
+11.2.1. Gross income
+
+|  Monthly  Annual | Person primarily responsible for the person(s) for whom maintenance is sought or owed | Spouse or current partner of the person primarily responsible for the person(s) for whom maintenance is sought or owed | Person for whom maintenance is sought or owed (Person A) | Person for whom maintenance is sought or owed (Person B) | Person for whom maintenance is sought or owed (Person C) |
+| --- | --- | --- | --- | --- | --- |
+| Salary (including payments in kind), pensions, disability pensions, maintenance payments, allowances, annuities, unemployment benefits |  |  |  |  |  |
+| Income from non-salaried occupations |  |  |  |  |  |
+| Income from securities/floating capital/real property |  |  |  |  |  |
+| Other sources of income |  |  |  |  |  |
+| TOTAL |  |  |  |  |  |
+
+11.2.2. Expenses and charges
+
+|  Monthly  Annual | Person primarily responsible for the person(s) for whom maintenance is sought or owed | Spouse or current partner of the person primarily responsible for the person(s) for whom maintenance is sought or owed | Person for whom maintenance is sought or owed (Person A) | Person for whom maintenance is sought or owed (Person B) | Person for whom maintenance is sought or owed (Person C) |
+| --- | --- | --- | --- | --- | --- |
+| Taxes |  |  |  |  |  |
+| Insurance premiums, mandatory social security and professional contributions |  |  |  |  |  |
+| Rent/cost of co-ownership, mortgage payments |  |  |  |  |  |
+| Food and clothing |  |  |  |  |  |
+| Medical expenses |  |  |  |  |  |
+| Maintenance paid to a third party by virtue of a legal obligation and/or expenditure for other dependent persons not covered by the application |  |  |  |  |  |
+| Education costs of children |  |  |  |  |  |
+| Loan repayments, other debts |  |  |  |  |  |
+| Other expenditure |  |  |  |  |  |
+| TOTAL |  |  |  |  |  |
+
+11.2.3. Other assets
+
+…
+
+…
+
+…
+
+11.3. The debtor
+
+11.3.1. Gross income
+
+|  Monthly  Annual | Debtor | Current spouse or partner of the debtor |
+| --- | --- | --- |
+| Salary (including payments in kind), pensions, disability pensions, maintenance payments, allowances, annuities, unemployment benefits |  |  |
+| Income from non-salaried occupations |  |  |
+| Income from securities/floating capital/real property |  |  |
+| Other sources of income |  |  |
+| TOTAL |  |  |
+
+11.3.2. Expenses and charges
+
+|  Monthly  Annual | Debtor | Current spouse or partner of the debtor |
+| --- | --- | --- |
+| Taxes |  |  |
+| Insurance premiums, mandatory social security and professional contributions |  |  |
+| Rent/cost of co-ownership, mortgage payments |  |  |
+| Food and clothing |  |  |
+| Medical expenses |  |  |
+| Maintenance paid to a third party by virtue of a legal obligation and/or expenditure for other dependent persons not covered by the application |  |  |
+| Education costs of children |  |  |
+| Loan repayments, other debts |  |  |
+| Other expenditure |  |  |
+| TOTAL |  |  |
+
+11.3.3. Other assets
+
+…
+
+…
+
+…
+
+**12\. INFORMATION REGARDING PAYMENT, IF THE APPLICATION IS MADE BY THE CREDITOR**
+
+12.1. Payment by electronic means
+
+12.1.1. Name of bank: …
+
+12.1.2. BIC or other relevant bank code: …
+
+12.1.3. Account holder: …
+
+12.1.4. International Bank Account Number (IBAN): …
+
+12.2. Payment by cheque
+
+12.2.1. Cheque payable to: …
+
+12.2.2. Cheque to be sent to
+
+12.2.2.1. Surname and given name(s): …
+
+12.2.2.2. Address:
+
+12.2.2.2.1. Street and number/PO box: …
+
+12.2.2.2.2. Place and postal code: …
+
+12.2.2.2.3. Country: …
+
+**13\. ADDITIONAL INFORMATION (WHERE APPLICABLE):**
+
+…
+
+…
+
+…
+
+Done at: … on … (dd/mm/yyyy)
+
+Applicant’s signature: …
+
+and/or, where appropriate:
+
+Name and signature of the person/authority authorised in the requesting Member State to complete the form on the applicant’s behalf:
+
+…
+
+## ANNEX VIII
+
+**ACKNOWLEDGEMENT OF RECEIPT OF AN APPLICATION**
+
+(Article 58(3) of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 95 ))
+
+This acknowledgement of receipt must be sent within 30 days from the date of receipt of the application.
+
+**1\. Requesting Central Authority**
+
+1.1. Reference number of the requesting Central Authority: …
+
+1.2. Surname and given name(s) of the person responsible for following up the application:
+
+…
+
+**2\. Requested Central Authority**
+
+2.1. Reference number of the requested Central Authority: …
+
+2.2. Person responsible for following up the application:
+
+2.2.1. Surname and given name(s): …
+
+2.2.2. Telephone: …
+
+2.2.3. Fax: …
+
+2.2.4. E-mail: …
+
+3\. Date received: … (dd/mm/yyyy)
+
+4\. Initial steps which have been or will be taken to deal with the application
+
+…
+
+…
+
+…
+
+…
+
+5\.  Further necessary documents or information (please specify)
+
+…
+
+…
+
+…
+
+A status report will be sent within 60 days.
+
+Done at: … on: … (dd/mm/yyyy)
+
+Name and signature of the authorised official of the requested Central Authority:
+
+…
+
+## ANNEX IX
+
+**NOTIFICATION OF REFUSAL OR OF DECISION NO LONGER TO PROCESS AN APPLICATION**
+
+(Article 58(8) and (9) of Council Regulation (EC) No 4/2009 of 18 December 2008 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations ( 96 ))
+
+**1\. Requesting Central Authority**
+
+1.1. Reference number of the requesting Central Authority: …
+
+1.2. Surname and given name(s) of the person responsible for following up the application:
+
+…
+
+**2\. Requested Central Authority**
+
+2.1. Reference number of the requested Central Authority: …
+
+2.2. Person responsible for following up the application:
+
+2.2.1. Surname and given name(s): …
+
+2.2.2. Telephone: …
+
+2.2.3. Fax: …
+
+2.2.4. E-mail: …
+
+3\.  The requested Central Authority refuses to process the application because it is manifest that the required conditions have not been met
+
+Reasons (please specify):
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+…
+
+4\.  The requested Central Authority is no longer processing the application because the requesting Central Authority has not supplied the additional information sought by the requested Central Authority within 90 days or a longer period specified by the latter
+
+Done at: … on: … (dd/mm/yyyy)
+
+Name and signature of the authorised official of the requested Central Authority:
+
+…
+
+## ANNEX X
+
+The administrative authorities referred to in Article 2(2) of Regulation (EC) No 4/2009 are as follows:
+
+— in Latvia, the Maintenance Guarantee Fund (‘Uzturlīdzekļu Garantiju Fonds’),
+
+— in Finland, for proceedings initiated until 31 December 2022 the Social Welfare Board (‘Sosiaalilautakunta/Socialnämnd’); for proceedings initiated from 1 January 2023 onwards the Wellbeing services county (‘Hyvinvointialue/Välfärdsområden’), the City of Helsinki (‘Helsingin kaupunki/Helsingfors stad’) and in the province of Åland Municipality (‘kunta/kommun’),
+
+— in Sweden, the Enforcement Authority (‘Kronofogdemyndigheten’),
+
+— in the United Kingdom ( 97 ):
+
+(a) in England and Wales and Scotland, The Department for Work and Pensions (DWP) including its administrative branches the Child Support Agency (CSA) and the Child Maintenance Service (CMS);
+
+(b) in Northern Ireland, the Child Maintenance Service (CMS).
+
+## ANNEX XI
+
+The competent authorities referred to in Article 47(3) of Regulation (EC) No 4/2009 are as follows:
+
+— in Finland, the Legal Aid Office (‘Oikeusaputoimisto/Rättshjälpsbyrå’).
+
+( 1 ) OJ L 339, 21.12.2007, p. 3.
+
+( 2 ) OJ L 7, 10.1.2009, p. 1.
+
+( 3 ) If the parties are not the claimant or defendant in the decision/court settlement, indicate either of the parties as claimant or defendant.
+
+( 4 ) If the decision/court settlement concerns more than three claimants or three defendants, attach an additional sheet.
+
+( 5 ) If the parties are not the claimant or defendant in the decision/court settlement, indicate either of the parties as claimant or defendant.
+
+( 6 ) If the decision/court settlement concerns more than three claimants or three defendants, attach an additional sheet.
+
+( 7 ) If the decision/court settlement concerns more than three maintenance claims, attach an additional sheet.
+
+( 8 ) OJ L 7, 10.1.2009, p. 1.
+
+( 9 ) If the parties are not the claimant or defendant in the decision/court settlement, indicate either of the parties as claimant or defendant.
+
+( 10 ) If the decision/court settlement concerns more than three claimants or three defendants, attach an additional sheet.
+
+( 11 ) For Denmark, the administrative authorities listed in the agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 251, 21.9.2013, p. 1).
+
+( 12 ) For Denmark, the administrative authorities listed in the agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 251, 21.9.2013, p. 1).
+
+( 13 ) For Denmark, the administrative authorities listed in the agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 251, 21.9.2013, p. 1).
+
+( 14 ) If the parties are not the claimant or defendant in the decision/court settlement, indicate either of the parties as claimant or defendant.
+
+( 15 ) If the decision/court settlement concerns more than three claimants or three defendants, attach an additional sheet.
+
+( 16 ) For Denmark, the administrative authorities listed in the agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 251, 21.9.2013, p. 1).
+
+( 17 ) For Denmark, the administrative authorities listed in the agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 251, 21.9.2013, p. 1).
+
+( 18 ) For Denmark, the administrative authorities listed in the agreement between the European Community and the Kingdom of Denmark on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters (OJ L 251, 21.9.2013, p. 1).
+
+( 19 ) If the decision/court settlement concerns more than three maintenance claims, attach an additional sheet.
+
+( 20 ) OJ L 7, 10.1.2009, p. 1.
+
+( 21 ) If the authentic instrument concerns more than three creditors or three debtors, attach an additional sheet.
+
+( 22 ) If the authentic instrument concerns more than three creditors or three debtors, attach an additional sheet.
+
+( 23 ) If the authentic instrument concerns more than three maintenance claims, attach an additional sheet.
+
+( 24 ) OJ L 7, 10.1.2009, p. 1.
+
+( 25 ) If the authentic instrument concerns more than three creditors or three debtors, attach an additional sheet.
+
+( 26 ) If the authentic instrument concerns more than three creditors or three debtors, attach an additional sheet.
+
+( 27 ) If the authentic instrument concerns more than three maintenance claims, attach an additional sheet.
+
+( 28 ) OJ L 7, 10.1.2009, p. 1.
+
+( 29 ) If available.
+
+( 30 ) If available.
+
+( 31 ) For example, the name of a previous employer, names and addresses of family members, details of a vehicle or property which the person in question might own.
+
+( 32 ) If available.
+
+( 33 ) If available.
+
+( 34 ) For example, the name of a previous employer, names and addresses of family members, details of a vehicle or property which the person in question might own.
+
+( 35 ) OJ L 7, 10.1.2009, p. 1.
+
+( 36 ) Tick the relevant boxes and number the documents in the order in which they are attached.
+
+( 37 ) Tick the relevant boxes and number the documents in the order in which they are attached.
+
+( 38 ) If available.
+
+( 39 ) The national law of the requested Member State may, however, require the applicant to provide his/her personal address for the purposes of the proceedings (see Article 57(3) of Regulation (EC) No 4/2009].
+
+( 40 ) If relevant.
+
+( 41 ) If available.
+
+( 42 ) If available.
+
+( 43 ) If available.
+
+( 44 ) If available.
+
+( 45 ) If available.
+
+( 46 ) If available.
+
+( 47 ) If more than three persons, attach an additional sheet.
+
+( 48 ) For example, the person with parental responsibility or the guardian of a protected adult.
+
+( 49 ) If available and/or relevant.
+
+( 50 ) If available and/or relevant.
+
+( 51 ) If available and/or relevant.
+
+( 52 ) If available and/or relevant.
+
+( 53 ) If available and/or relevant.
+
+( 54 ) If available and/or relevant.
+
+( 55 ) If available and/or relevant.
+
+( 56 ) If available and/or relevant.
+
+( 57 ) If available and/or relevant.
+
+( 58 ) If available and/or relevant.
+
+( 59 ) If available and/or relevant.
+
+( 60 ) If available and/or relevant.
+
+( 61 ) For example, the person with parental responsibility or the guardian of a protected adult.
+
+( 62 ) If available.
+
+( 63 ) If available.
+
+( 64 ) If available.
+
+( 65 ) If available.
+
+( 66 ) OJ L 7, 10.1.2009, p. 1.
+
+( 67 ) Tick the relevant boxes and number the documents in the order in which they are attached.
+
+( 68 ) The national law of the requested Member State may, however, require the applicant to provide his/her personal address for the purposes of the proceedings (see Article 57(3) of Regulation (EC) No 4/2009).
+
+( 69 ) If available.
+
+( 70 ) If available.
+
+( 71 ) If available.
+
+( 72 ) If available.
+
+( 73 ) If available.
+
+( 74 ) If available.
+
+( 75 ) If available.
+
+( 76 ) If more than three persons, attach an additional sheet.
+
+( 77 ) For example the person with parental responsibility or the guardian of a protected adult.
+
+( 78 ) If available and/or relevant.
+
+( 79 ) If available and/or relevant.
+
+( 80 ) If available and/or relevant.
+
+( 81 ) If available and/or relevant.
+
+( 82 ) If available and/or relevant.
+
+( 83 ) If available and/or relevant.
+
+( 84 ) If available and/or relevant.
+
+( 85 ) If available and/or relevant.
+
+( 86 ) If available and/or relevant.
+
+( 87 ) If available and/or relevant.
+
+( 88 ) If available and/or relevant.
+
+( 89 ) If available and/or relevant.
+
+( 90 ) For example the person with parental responsibility or the guardian of a protected adult.
+
+( 91 ) If available.
+
+( 92 ) If available.
+
+( 93 ) If available.
+
+( 94 ) If available.
+
+( 95 ) OJ L 7, 10.1.2009, p. 1.
+
+( 96 ) OJ L 7, 10.1.2009, p. 1.
+
+( 97 ) Only in respect of proceedings instituted before the end of the transition period in accordance with Article 67 of the Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community (OJ C 384I, 12.11.2019, p. 1).

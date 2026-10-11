@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(70/157/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td> M1</td><td> COMMISSION DIRECTIVE of 7 November 1973</td><td> L 321</td><td>33</td><td>22.11.1973</td></tr>
@@ -39,6 +40,7 @@ retrieved: 2026-10-11
 <tr><td> M11</td><td> COUNCIL DIRECTIVE 2006/96/EC of 20 November 2006 </td><td> L 363</td><td>81</td><td>20.12.2006</td></tr>
 <tr><td></td><td> COMMISSION DIRECTIVE 2007/34/EC of 14 June 2007 </td><td> L 155</td><td>49</td><td>15.6.2007</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2013/15/EU of 13 May 2013 </td><td> L 158</td><td>172</td><td>10.6.2013</td></tr>
+</table>
 
 | A1 | ACT concerning the Conditions of Accession and the Adjustments to the Treaties | L 73 | 14 | 27.3.1972 |
 | --- | --- | --- | --- | --- |
@@ -89,11 +91,13 @@ This Directive is addressed to the Member States.
 
 ## List of Annexes
 
+<table>
 <tbody><tr><td>ANNEX I:</td><td>Provisions for ec type-approval in respect of the sound level of a type of motor vehicle Appendix 1: Information document No … pursuant to Annex I of Council Directive 70/156/EEC (*1) The item numbers and footnotes used in this information document correspond to those set out in Annex I to Directive 70/156/EEC. Items not relevant for the purpose of this Directive are omitted. relating to EC type-approval of a vehicle with respect to the permissible sound level and the exhaust system (Directive 70/157/EEC, as last amended by Directive /EC)  Appendix 2: Model  Addendum to EC type-approval certificate: concerning the type-approval of a vehicle with regard to Directive 70/157/EEC as last amended by Directive …/…/EC </td></tr>
 <tr><td>ANNEX II:</td><td>Administrative provisions for ec type-approval of exhaust systems as separate technical units (replacement exhaust systems) Appendix 1: Information document No . . . pursuant to Annex I of Council Directive 70/156/EEC (*1) relating to EC type-approval of a vehicle with respect to the permissible sound level and the exhaust system (Directive 70/157/EEC, as last amended by Directive /EC)  Appendix 2: Model  Addendum to EC type-approval certificate: concerning the separate technical unit type-approval of exhaust systems for motor vehicles with regard to Directive 70/157/EEC as last amended by Directive …/…/EC  Appendix 3: Model for the EC type-approval mark </td></tr>
 <tr><td>ANNEX III:</td><td>Checks on conformity of production</td></tr>
 <tr><td colspan="2">(*1)  The item numbers and footnotes used in this information document correspond to those set out in Annex I to Directive 70/156/EEC. Items not relevant for the purpose of this Directive are omitted. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX I
 
@@ -115,6 +119,7 @@ This Directive is addressed to the Member States.
 
 The sound level measured in accordance with the provisions of Annex III shall not exceed the following limits:
 
+<table>
 <tbody><tr><td>Vehicle categories</td><td>Values expressed in dB(A) (decibels(A)) </td></tr>
 <tr><td>2.1.1. Vehicles intended for the carriage of passengers, and comprising not more than nine seats including the driver's seat</td><td>74 </td></tr>
 <tr><td colspan="2">2.1.2. Vehicles intended for the carriage of passengers and equipped with more than nine seats, including the driver's seat; and having a maximum permissible mass of more than 3,5 tonnes and:</td></tr>
@@ -128,6 +133,7 @@ The sound level measured in accordance with the provisions of Annex III shall no
 <tr><td>2.1.4.2. with an engine power of not less than 75 kW but less than 150 kW</td><td>78 </td></tr>
 <tr><td>2.1.4.3. with an engine power of not less than 150 kW</td><td>80 </td></tr>
 </tbody>
+</table>
 
 However
 
@@ -313,10 +319,12 @@ For front, centre, rear silencer: construction, type, marking, where relevant fo
 
 4.6. Gear ratios
 
+<table>
 <tbody><tr><td>Gear</td><td>Internal gearbox ratios (ratios of engine to gearbox output shaft revolutions) </td><td>Final drive ratio(s) (ratio of gearbox output shaft to driven wheel revolutions) </td><td>Total gear ratios</td></tr>
 <tr><td>Maximum for CVT (*1) 1  2  3  …  Minimum for CVT (*1)  Reverse </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td colspan="4">(*1)  Continuously variable transmission </td></tr>
 </tbody>
+</table>
 
 4.7. Maximum vehicle speed (and gear in which this is achieved) (in km/h) (w):
 
@@ -498,6 +506,7 @@ Reason for extension:
 
 1.6.1. Sound level of moving vehicle:
 
+<table>
 <tbody><tr><td colspan="4">Measurement results</td></tr>
 <tr><td>  </td><td>Left-hand side dB(A) (1) </td><td>Right-hand side dB(A) (1) </td><td>Position of gear lever</td></tr>
 <tr><td>first measurement</td><td>  </td><td>  </td><td>  </td></tr>
@@ -507,9 +516,11 @@ Reason for extension:
 <tr><td colspan="4">Test result: dB(A)/E (2)</td></tr>
 <tr><td colspan="4">(1)  The measurement values are given with the 1 dB(A) deduction in accordance with provisions of item 2.2.1 of Annex I.  (2)  ‘E’ indicates that the measurements in question were conducted in accordance with this Directive. </td></tr>
 </tbody>
+</table>
 
 1.6.2. Sound level of stationary vehicle:
 
+<table>
 <tbody><tr><td colspan="3">Measurement results</td></tr>
 <tr><td>  </td><td>dB(A)</td><td>Engine</td></tr>
 <tr><td>first measurement</td><td>  </td><td>  </td></tr>
@@ -518,9 +529,11 @@ Reason for extension:
 <tr><td colspan="3">Test result: dB(A)/E (1)</td></tr>
 <tr><td colspan="3">(1)  ‘E’ indicates that the measurements in question were conducted in accordance with this Directive. </td></tr>
 </tbody>
+</table>
 
 1.6.3. Sound level of compressed air noise:
 
+<table>
 <tbody><tr><td colspan="3">Measurement results</td></tr>
 <tr><td>  </td><td>Left-hand side dB(A) (1) </td><td>Right-hand side dB(A) (1) </td></tr>
 <tr><td>first measurement</td><td>  </td><td>  </td></tr>
@@ -530,6 +543,7 @@ Reason for extension:
 <tr><td colspan="3">Test result: dB(A)</td></tr>
 <tr><td colspan="3">(1)  The measurement values are given with the 1 dB(A) deduction in accordance with provision of item 2.2.1 of Annex I. </td></tr>
 </tbody>
+</table>
 
 5\. Remarks:
 

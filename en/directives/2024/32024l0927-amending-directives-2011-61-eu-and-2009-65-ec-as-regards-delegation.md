@@ -1390,6 +1390,7 @@ Side pockets: side pockets means separating certain assets, whose economic or le
 
 In Annex I, Schedule A, point 1.13 is replaced by the following:
 
+<table>
 <tbody><tr><td><table><tbody><tr><td>‘1.13.</td><td>Procedures and conditions for repurchase and redemption of units, and circumstances in which subscription, repurchase and redemption may be suspended or other liquidity management tools may be activated.</td></tr>
 </tbody>
 </table>
@@ -1398,6 +1399,7 @@ In Annex I, Schedule A, point 1.13 is replaced by the following:
 </table>
 </td></tr>
 </tbody>
+</table>
 
 ## ANNEX IV — ‘ANNEX IIA — LIQUIDITY MANAGEMENT TOOLS AVAILABLE TO UCITS
 

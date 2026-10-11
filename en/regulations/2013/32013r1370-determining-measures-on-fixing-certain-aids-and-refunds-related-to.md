@@ -1,0 +1,386 @@
+---
+title: "Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products"
+identifier: "32013R1370"
+eli: "http://data.europa.eu/eli/reg/2013/1370/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2013-12-16
+entry_into_force: 2013-07-11
+last_amended: 2018-10-19
+consolidated_version: "02013R1370-20181019"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02013R1370-20181019"
+retrieved: 2026-10-11
+---
+
+# Council Regulation (EU) No 1370/2013 of 16 December 2013 determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products
+
+**COUNCIL REGULATION (EU) No 1370/2013**
+
+**of 16 December 2013**
+
+**determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td> M1</td><td> COUNCIL REGULATION (EU) 2016/591 of 15 April 2016 </td><td> L 103</td><td>3</td><td>19.4.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2016/795 of 11 April 2016 </td><td> L 135</td><td>115</td><td>24.5.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2016/1042 of 24 June 2016 </td><td> L 170</td><td>1</td><td>29.6.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2016/2145 of 1 December 2016 </td><td> L 333</td><td>1</td><td>8.12.2016</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2018/147 of 29 January 2018 </td><td> L 26</td><td>6</td><td>31.1.2018</td></tr>
+<tr><td></td><td> COUNCIL REGULATION (EU) 2018/1554 of 15 October 2018 </td><td> L 261</td><td>1</td><td>18.10.2018</td></tr>
+</table>
+
+**COUNCIL REGULATION (EU) No 1370/2013**
+
+**of 16 December 2013**
+
+**determining measures on fixing certain aids and refunds related to the common organisation of the markets in agricultural products**
+
+## Article 1 — Scope
+
+This Regulation provides for measures on fixing prices, levies, aid and quantitative limitations related to the common organisation of agricultural markets established by Regulation (EU) No 1308/2013.
+
+## Article 1a — Reference thresholds
+
+1\. The following reference thresholds are fixed:
+
+(a) for the cereals sector: EUR 101,31/tonne, related to the wholesale stage for goods delivered to the warehouse, before unloading;
+
+(b) for paddy rice: EUR 150/tonne for the standard quality as defined in point A of Annex III to Regulation (EU) No 1308/2013, related to the wholesale stage for goods delivered to the warehouse, before unloading;
+
+(c) for sugar of standard quality as defined in point B of Annex III to Regulation (EU) No 1308/2013, related to unpacked sugar, ex-factory:
+
+(i) for white sugar: EUR 404,4/tonne;
+
+(ii) for raw sugar: EUR 335,2/tonne;
+
+(d) for the beef and veal sector: EUR 2 224 /tonne for carcasses of male bovine animals of conformation/fat cover class R3 as laid down in the Union scale for the classification of carcasses of bovine animals aged eight months or more referred to in point A of Annex IV to Regulation (EU) No 1308/2013;
+
+(e) for the milk and milk products sector:
+
+(i) EUR 246,39 per 100 kg for butter;
+
+(ii) EUR 169,80 per 100 kg for skimmed milk powder;
+
+(f) for pigmeat: EUR 1 509,39 /tonne for pig carcasses of a standard quality defined in terms of weight and lean meat content as laid down in the Union scale for the classification of pig carcasses referred to in point B of Annex IV to Regulation (EU) No 1308/2013, as follows:
+
+(i) carcasses weighing from 60 to less than 120 kg: class E;
+
+(ii) carcasses weighing from 120 to 180 kg: class R;
+
+(g) for the olive oil sector:
+
+(i) EUR 1 779 /tonne for extra virgin olive oil;
+
+(ii) EUR 1 710 /tonne for virgin olive oil;
+
+(iii) EUR 1 524 /tonne for lampante olive oil with two degrees of free acidity; this amount shall be reduced by EUR 36,70/tonne for each additional degree of acidity.
+
+2\. The reference thresholds provided for in paragraph 1 shall be kept under review by the Commission, taking account of objective criteria, in particular developments in production, costs of production (particularly inputs) and market trends. When necessary, the reference thresholds shall be updated in accordance with the procedure laid down in Article 43(3) TFEU in the light of developments in production and markets.
+
+3\. References to reference thresholds in Regulation (EU) No 1308/2013 shall be construed as references to the thresholds fixed in paragraph 1 of this Article.
+
+## Article 2 — Public intervention prices
+
+1\. The level of the public intervention price:
+
+(a) for common wheat, durum wheat, barley, maize, paddy rice and skimmed milk powder shall be equal to the respective reference threshold set out in Article 1a in the case of buying-in at a fixed price and shall not exceed the respective reference threshold in the case of buying-in by tendering;
+
+(b) for butter shall be equal to 90 % of the reference threshold set out in Article 1a in the case of buying-in at a fixed price and shall not exceed 90 % of that reference threshold in the case of buying-in by tendering;
+
+(c) for beef and veal shall not exceed 85 % of the reference threshold set out in Article 1a.
+
+2\. The public intervention prices for common wheat, durum wheat, barley, maize and paddy rice referred to in paragraph 1 shall be adjusted by price increases or reductions to those prices based on the main quality criteria for the products.
+
+3\. The Commission shall adopt implementing acts determining the increases or reductions to the public intervention prices of the products referred to in paragraph 2 of this Article under the conditions laid down therein. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+## Article 3 — Buying-in prices and applicable quantitative limitations
+
+1\. Where public intervention is open pursuant to point (a) of Article 13(1) of Regulation (EU) No 1308/2013, buying-in shall be carried out at the fixed price referred to in Article 2 of this Regulation and shall not exceed the following quantitative limitations for each period referred to in Article 12 of Regulation (EU) No 1308/2013 respectively:
+
+(a) for common wheat, 3 million tonnes;
+
+(b) for butter, 50 000 tonnes;
+
+(c) for skimmed milk powder, 109 000 tonnes.
+
+By way of derogation from the first subparagraph, in the year 2016, the quantitative limitations for the buying-in of butter and skimmed milk powder at fixed price shall be 100 000 tonnes for butter and 350 000 tonnes for skimmed milk powder. Any volumes bought in under a tendering procedure ongoing on 29 June 2016 shall not be counted against those quantitative limitations.
+
+By way of derogation from the first subparagraph, in the year 2018, the quantitative limitation for buying-in skimmed milk powder at fixed price shall be 0 tonnes.
+
+By way of derogation from the first subparagraph, the quantitative limitation for buying-in skimmed milk powder at a fixed price shall be 0 tonnes for the year 2019.
+
+2\. Where public intervention is open pursuant to Article 13(1) of Regulation (EU) No 1308/2013:
+
+(a) for common wheat, butter and skimmed milk powder beyond the quantitative limitations referred to in paragraph 1 of this Article; and
+
+(b) for durum wheat, barley, maize, paddy rice and beef and veal,
+
+buying-in shall be carried out by way of a tendering procedure to determine the maximum buying-in price.
+
+The maximum buying-in price shall not exceed the relevant level referred to in Article 2(1) of this Regulation and shall be fixed by means of implementing acts.
+
+3\. In special and duly justified circumstances, the Commission may adopt implementing acts:
+
+(a) restricting tendering procedures to a Member State or to a region of a Member State, or
+
+(b) subject to Article 2(1), determining the buying-in prices for public intervention, per Member State or per region of a Member State on the basis of recorded average market prices.
+
+4\. The buying-in prices referred to in paragraphs 2 and 3 for common wheat, durum wheat, barley, maize and paddy rice shall be adjusted by increases or reductions to those prices based on the main quality criteria for those products.
+
+The Commission shall adopt implementing acts determining such increases or reductions.
+
+5\. The implementing acts referred to in paragraphs 2, 3 and 4 of this Article shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+6\. The Commission shall adopt, without applying the procedure referred to in Article 15(2), the implementing acts necessary in order to:
+
+(a) respect the intervention limitations set out in paragraph 1 of this Article; and
+
+(b) apply the tendering procedure referred to in paragraph 2 of this Article for common wheat, butter and skimmed milk powder beyond the quantitative limitations set out in paragraph 1 of this Article.
+
+## Article 4 — Aid for private storage
+
+1\. To establish the amount of aid for private storage for the products listed in Article 17 of Regulation (EU) No 1308/2013, where aid is granted in accordance with Article 18(2) of that Regulation, either a tendering procedure shall be opened for a limited period or the aid shall be fixed in advance. The aid may be fixed per Member State or per region of a Member State.
+
+2\. The Commission shall adopt implementing acts:
+
+(a) where a tendering procedure applies, establishing the maximum amount of aid for private storage;
+
+(b) where the aid is fixed in advance, fixing the amount of aid based on the storage costs and/or other relevant market elements.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+## Article 5 — Aid for the supply of school fruit and vegetables and of school milk, accompanying educational measures and related costs
+
+1\. Union aid for the financing of accompanying educational measures as referred to in point (b) of Article 23(1) of Regulation (EU) No 1308/2013 shall not exceed 15 % of Member States' annual definitive allocations as referred to in paragraph 6 of this Article.
+
+2\. Union aid for related costs as referred to in point (c) of Article 23(1) of Regulation (EU) No 1308/2013 shall in total not exceed 10 % of Member States' annual definitive allocations as referred to in paragraph 6 of this Article.
+
+The Commission shall adopt implementing acts fixing the maximum level of Union aid per category of such costs as a percentage of Member States' annual definitive allocations or as a percentage of the costs of the products concerned.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+3\. The amount of Union aid for the milk component of the products referred to in Article 23(5) of Regulation (EU) No 1308/2013 shall not exceed EUR 27/100 kg.
+
+4\. The aid referred to in Article 23(1) of Regulation (EU) No 1308/2013 shall be allocated to each Member State in accordance with this paragraph and taking into account the criteria laid down in the first subparagraph of Article 23a(2) of Regulation (EU) No 1308/2013.
+
+From 1 August 2017 until 31 July 2023, the indicative allocations of the aid referred to in points (a) and (b) of the second subparagraph of Article 23a(1) of Regulation (EU) No 1308/2013 for each Member State shall be as set out in Annex I. During that period, point (c) of the first subparagraph of Article 23a(2) of Regulation (EU) No 1308/2013 shall not apply to Croatia.
+
+From 1 August 2023, the Commission shall adopt implementing acts fixing, on the basis of the criteria referred to in the first subparagraph of Article 23a(2) of Regulation (EU) No 1308/2013, the indicative allocations to each Member State of the aid referred to in points (a) and (b) of the second subparagraph of Article 23a(1) of that Regulation. However, Member States shall each receive at least EUR 290 000 of Union aid for the distribution of school fruit and vegetables and at least EUR 193 000 of Union aid for the distribution of school milk, as defined in Article 23(2) of Regulation (EU) No 1308/2013.
+
+The Commission shall subsequently assess at least every 3 years whether those indicative allocations remain consistent with the criteria laid down in Article 23a(2) of Regulation (EU) No 1308/2013. Where necessary, the Commission shall adopt implementing acts fixing new indicative allocations.
+
+The implementing acts referred to in this paragraph shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+5\. Where, for a given year, a Member State has not submitted a request for Union aid in accordance with Article 23a(3) of Regulation (EU) No 1308/2013 or has requested only part of its indicative allocation as referred to in paragraph 4 of this Article, the Commission shall reallocate that indicative allocation or the unrequested part thereof to those Member States who have notified it of their willingness to use more than their indicative allocation.
+
+The Commission shall, by means of implementing acts, adopt the measures necessary for carrying out such a reallocation, which shall be based on the criterion referred to in point (a) of the first subparagraph of Article 23a(2) of Regulation (EU) No 1308/2013 and limited according to the level of use of the definitive allocation of Union aid as referred to in paragraph 6 of this Article by the Member State concerned for the school year that ended prior to the annual request for Union aid.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+6\. Following the requests submitted by the Member States in accordance with Article 23a(3) of Regulation (EU) No 1308/2013, the Commission shall each year adopt implementing acts fixing the definitive allocation of aid for school fruit and vegetables and for school milk among participating Member States within the limits set out in Article 23a(1) of Regulation (EU) No 1308/2013, taking account of the transfers referred to in Article 23a(4) of that Regulation.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+## Article 7 — Sugar sector production charge
+
+1\. The production charge on sugar quota, isoglucose quota and inulin syrup quotas provided for in Article 128 of Regulation (EU) No 1308/2013 shall be set at EUR 12,00 per tonne for the quota sugar and quota inulin syrup. For isoglucose, the production charge shall be set at 50 % of the charge applicable to sugar.
+
+2\. The totality of the production charge paid in accordance with paragraph 1 shall be charged by the Member State to undertakings on its territory on the basis of the quota held during the marketing year concerned.
+
+Payments shall be made by those undertakings by the end of February of the relevant marketing year at the latest.
+
+3\. Union sugar and inulin syrup undertakings may require sugar beet or sugar cane growers or chicory suppliers to bear up to 50 % of the production charge concerned.
+
+## Article 8 — Sugar sector production refund
+
+The production refund for the products of the sugar sector provided for in Article 129 of Regulation (EU) No 1308/2013 shall be fixed by the Commission by means of implementing acts based on:
+
+(a) the costs arising from the use of imported sugar that the industry would have to bear in the event of supply from the world market; and
+
+(b) the price of surplus sugar available on the Union market or, if there is no surplus sugar on that market, the reference threshold for sugar fixed in point (c) of Article 1a.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+## Article 9 — Minimum beet price
+
+1\. The minimum price for quota beet provided for in Article 135 of Regulation (EU) No 1308/2013 shall be EUR 26,29 per tonne until the end of the 2016/2017 marketing year for sugar on 30 September 2017.
+
+2\. The minimum price referred to in paragraph 1 shall apply to sugar beet of the standard quality defined in Part B of Annex III to Regulation (EU) No 1308/2013.
+
+3\. Sugar undertakings buying quota beet suitable for processing into sugar and intended for processing into quota sugar shall be required to pay at least the minimum price, adjusted by price increases or reductions to allow for deviations from the standard quality. Such increases or reductions shall be determined by the Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+4\. For the quantities of sugar beet corresponding to the quantities of industrial sugar or surplus sugar that are subject to the surplus levy provided for in Article 11, the sugar undertaking concerned shall adjust the purchase price so that it is at least equal to the minimum price for quota beet.
+
+## Article 10 — Adjustment of the national sugar quotas
+
+The Council may, in accordance with Article 43(3) of the Treaty, on a proposal by the Commission, adjust the quotas set out in Annex XII to Regulation (EU) No 1308/2013 as a result of any decisions by Member States taken in accordance with Article 138 of that Regulation.
+
+## Article 11 — Surplus levy in the sugar sector
+
+1\. A surplus levy, including as provided for in Article 142 of Regulation (EU) No 1308/2013, shall be fixed at a level which is sufficiently high so as to avoid the accumulation of quantities referred to in that Article. That levy shall be fixed by the Commission by means of implementing acts. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+2\. The surplus levy referred to in paragraph 1 shall be charged by the Member State to the undertakings on its territory on the basis of the quantities of production referred to in that paragraph that have been established for those undertakings for the marketing year concerned.
+
+## Article 12 — Temporary market management mechanism in the sugar sector
+
+With a view to ensuring a sufficient and balanced supply of sugar to the Union market, until the end of the 2016/2017 marketing year for sugar on 30 September 2017, notwithstanding Article 142 of Regulation (EU) No 1308/2013, the Commission may, for the quantity and time necessary, apply temporarily by means of implementing acts a surplus levy on out-of-quota production referred to in point (e) of Article 139(1) of that Regulation.
+
+The Commission shall fix the amount of such levy by means of implementing acts.
+
+The implementing acts referred to in this Article shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+## Article 13 — Fixing of export refunds
+
+1\. Under the conditions laid down in Article 196 of Regulation (EU) No 1308/2013 and as provided for in Article 198 of that Regulation, the Commission may adopt implementing acts fixing export refunds:
+
+(a) at regular intervals, for products from the list in Article 196(1) of Regulation (EU) No 1308/2013;
+
+(b) by tendering procedures for cereals, rice, sugar and milk and milk products.
+
+Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+2\. One or more of the following shall be taken into account when export refunds for a product are being fixed:
+
+(a) the existing situation and future trends with regard to:
+
+(i) prices and availabilities of that product on the Union market,
+
+(ii) prices of that product on the world market;
+
+(b) the aims of the common market organisation, which are to ensure equilibrium and the natural development of prices and trade on that market;
+
+(c) the need to avoid disturbances likely to cause a prolonged imbalance between supply and demand on the Union market;
+
+(d) the economic aspect of the proposed exports;
+
+(e) the limits resulting from international agreements concluded in accordance with the Treaty;
+
+(f) the need to establish a balance between the use of Union basic products in the manufacture of processed goods for export to third countries and the use of third country products brought in under processing arrangements;
+
+(g) the most favourable marketing costs and transport costs from Union markets to Union ports or other places of export together with forwarding costs to the countries of destination;
+
+(h) demand on the Union market;
+
+(i) in respect of the pigmeat, eggs and poultrymeat sectors, the difference between prices within the Union and prices on the world market for the quantity of feed grain input required for the production in the Union of products of those sectors.
+
+3\. The amount of the refund may, where necessary to ensure a swift response to fast changing market situations, be adjusted by the Commission, by means of implementing acts, either at the request of a Member State or on its own initiative. Those implementing acts shall be adopted without applying the procedure referred to in Article 15(2).
+
+## Article 14 — Specific measures on export refunds for cereals and rice
+
+1\. The Commission may adopt implementing acts fixing corrective amounts applicable to the export refunds fixed in respect of the cereals and rice sectors. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 15(2).
+
+Where necessary to ensure a swift response to fast changing market situations, the Commission may adopt implementing acts, without applying the procedure referred to in Article 15(2), amending such corrective amounts.
+
+The Commission may apply this paragraph to products of the cereals and rice sectors that are exported in the form of processed goods in accordance with Council Regulation (EC) No 1216/2009 ( 1 ).
+
+2\. For the first three months of the marketing year, the refund applicable to exports of malt, either in storage at the end of the previous marketing year or made from barley in stock at that time, shall be that which would have applied in respect of the export licence in question to exports made during the last month of the preceding marketing year.
+
+3\. The refund on products listed in points (a) and (b) of Part I of Annex I to Regulation (EU) No 1308/2013, established in accordance with Article 199(2) of that Regulation, may be adjusted by the Commission, by means of implementing acts, in line with any changes in the level of the intervention price.
+
+The first subparagraph may be applied, in whole or in part, to products listed in points (c) and (d) of Part I of Annex I to Regulation (EU) No 1308/2013 as well as to products listed in Part I of that Annex and exported in the form of processed goods in accordance with Regulation (EC) No 1216/2009. In that case, the Commission shall, by means of implementing acts, correct the adjustment referred to in the first subparagraph of this paragraph by applying a coefficient expressing the ratio between the quantity of basic product and the quantity thereof contained in the processed product exported or used in the goods exported.
+
+The implementing acts referred to in this paragraph shall be adopted in accordance with the examination procedure referred to in Article 15(2) of this Regulation.
+
+## Article 15 — Committee procedure
+
+1\. The Commission shall be assisted by the Committee for the Common Organisation of the Agricultural Markets, established by Article 229 of Regulation (EU) No 1308/2013. That Committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 16 — Correlation table
+
+References to the relevant provisions of Regulation (EC) No 1234/2007 following its repeal by Regulation (EU) No 1308/2013 shall be construed as references to this Regulation and be read in accordance with the correlation table set out in the Annex to this Regulation.
+
+## Article 17 — Entry into force and application
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2014.
+
+Articles 7 to 12 shall apply until the end of the 2016/17 marketing year for sugar on 30 September 2017.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX II
+
+**CORRELATION TABLE**
+
+**referred to in Article 16**
+
+<table>
+<tbody><tr><td>Regulation (EC) No 1234/2007</td><td>This Regulation</td></tr>
+<tr><td>Article 18(1) and (3)</td><td>Article 2</td></tr>
+<tr><td>Article 18(2)(a)</td><td>Article 3(1)(a)</td></tr>
+<tr><td>Article 13(1)(c)</td><td>Article 3(1)(b)</td></tr>
+<tr><td>Article 13(1)(d)</td><td>Article 3(1)(c)</td></tr>
+<tr><td>Article 18(2), first subparagraph</td><td>Article 3(2)</td></tr>
+<tr><td>Article 18(2), second subparagraph</td><td>Article 3(3)</td></tr>
+<tr><td>Article 18(4)</td><td>Article 3(4)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Article 43(aa)</td><td>Article 3(6)</td></tr>
+<tr><td colspan="2"></td></tr>
+<tr><td>Article 31(2)</td><td>Article 4</td></tr>
+<tr><td>Article 103ga(4)</td><td>Article 5(1)</td></tr>
+<tr><td>Article 103ga(5)</td><td>Article 5(2)</td></tr>
+<tr><td>Article 102(4)</td><td>Article 6(1)</td></tr>
+<tr><td>Article 102(3)</td><td>Article 6(2) and (3)</td></tr>
+<tr><td>Article 51(2)</td><td>Article 7(1)</td></tr>
+<tr><td>Article 51(3)</td><td>Article 7(2)</td></tr>
+<tr><td>Article 51(4)</td><td>Article 7(3)</td></tr>
+<tr><td>Article 97</td><td>Article 8</td></tr>
+<tr><td>Article 49</td><td>Article 9</td></tr>
+<tr><td>Article 64(2)</td><td>Article 11(1)</td></tr>
+<tr><td>Article 64(3)</td><td>Article 11(2)</td></tr>
+<tr><td>Article 164(2)</td><td>Article 13(1) and (3)</td></tr>
+<tr><td>Article 164(3)</td><td>Article 13(2)</td></tr>
+<tr><td>Article 164(4)</td><td>Article 14(1)</td></tr>
+<tr><td>Article 165</td><td>Article 14(2)</td></tr>
+<tr><td>Article 166</td><td>Article 14(3)</td></tr>
+</tbody>
+</table>
+
+## ANNEX I
+
+**INDICATIVE ALLOCATIONS**
+
+**for the period 1 August 2017 to 31 July 2023**
+
+**(as referred to in the second subparagraph of Article 5(4))**
+
+| Member State | Indicative allocation for school fruit and vegetables | Indicative allocation for school milk |
+| --- | --- | --- |
+| Belgium | 3 367 930 | 1 650 729 |
+| Bulgaria | 2 093 779 | 1 020 451 |
+| Czech Republic | 3 123 230 | 1 600 707 |
+| Denmark | 1 807 661 | 1 460 645 |
+| Germany | 19 696 932 | 9 404 154 |
+| Estonia | 439 163 | 700 309 |
+| Ireland | 1 757 779 | 900 398 |
+| Greece | 3 218 885 | 1 550 685 |
+| Spain | 12 932 647 | 6 302 784 |
+| France | 22 488 086 | 12 625 577 |
+| Croatia | 1 360 232 | 800 354 |
+| Italy | 16 711 302 | 8 003 535 |
+| Cyprus | 290 000 | 500 221 |
+| Latvia | 633 672 | 700 309 |
+| Lithuania | 900 888 | 1 032 456 |
+| Luxembourg | 290 000 | 193 000 |
+| Hungary | 3 029 587 | 1 756 776 |
+| Malta | 290 000 | 193 000 |
+| Netherlands | 5 431 641 | 2 401 061 |
+| Austria | 2 238 064 | 1 100 486 |
+| Poland | 11 639 985 | 10 204 507 |
+| Portugal | 3 283 397 | 2 220 981 |
+| Romania | 6 866 848 | 10 399 594 |
+| Slovenia | 554 020 | 320 141 |
+| Slovakia | 1 708 720 | 900 398 |
+| Finland | 1 599 047 | 3 824 689 |
+| Sweden | 2 854 972 | 8 427 723 |
+| United Kingdom | 19 391 534 | 9 804 331 |
+| Total | 150 000 000 | 100 000 000 |
+
+( 1 ) Council Regulation (EC) No 1216/2009 of 30 November 2009 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products (OJ L 328, 15.12.2009, p. 10).

@@ -1,0 +1,83 @@
+---
+title: "Commission Regulation (EC) No 93/2007 of 30 January 2007 amending Regulation (EC) No 2099/2002 of the European Parliament and of the Council establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) (Text with EEA relevance)"
+identifier: "32007R0093"
+eli: "http://data.europa.eu/eli/reg/2007/93/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2007-01-30
+entry_into_force: 2007-07-11
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32007R0093"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 93/2007 of 30 January 2007 amending Regulation (EC) No 2099/2002 of the European Parliament and of the Council establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) (Text with EEA relevance)
+
+**COMMISSION REGULATION (EC) No 93/2007**
+
+**of 30 January 2007**
+
+**amending Regulation (EC) No 2099/2002 of the European Parliament and of the Council establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS)**
+
+**(Text with EEA relevance)**
+
+THE COMMISSION OF THE EUROPEAN COMMUNITIES,
+
+Having regard to the Treaty establishing the European Community,
+
+Having regard to Regulation (EC) No 2099/2002 of the European Parliament and the Council of 5 November 2002 establishing a Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) and amending the Regulations on maritime safety and the prevention of pollution from ships (1), and in particular Article 7 thereof,
+
+Whereas:
+
+(1) Regulation (EC) No 2099/2002 has established the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS).
+
+(2) The role of the COSS is to centralise the tasks of the committees set up under the Community legislation on maritime safety, the prevention of pollution from ships and the protection of shipboard living and working conditions.
+
+(3) All new Community legislation adopted in the field of maritime safety should provide for recourse to the COSS.
+
+(4) Article 7 of Regulation (EC) No 789/2004 of the European Parliament and of the Council of 21 April 2004 on the transfer of cargo and passenger ships between registers within the Community and repealing Council Regulation (EEC) No 613/91 (2), Article 13 of Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on ship-source pollution and on the introduction of penalties for infringements (3) and Article 12 of Regulation (EC) No 336/2006 of the European Parliament and the Council of 15 February 2006 on the implementation of the International Safety Management Code within the Community and repealing Council Regulation (EC) No 3051/95 (4) provides that the Commission shall be assisted by the COSS for the implementation of those Regulations.
+
+(5) Regulation (EC) No 2099/2002 should therefore be amended accordingly.
+
+(6) The measures provided for in this Regulation are in accordance with the opinion of the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS),
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The following points shall be added to Article 2(2) of Regulation (EC) No 2099/2002:
+
+‘(t) Regulation (EC) No 789/2004 of the European Parliament and of the Council of 21 April 2004 on the transfer of cargo and passenger ships between registers within the Community and repealing Council Regulation (EEC) No 613/91 (*1);
+
+(u) Directive 2005/35/EC of the European Parliament and of the Council of 7 September 2005 on ship-source pollution and on the introduction of penalties for infringements (*2);
+
+(v) Regulation (EC) No 336/2006 of the European Parliament and of the Council of 15 February 2006 on the implementation of the International Safety Management Code within the Community and repealing Council Regulation (EC) No 3051/95 (*3).
+
+(*1) OJ L 138, 30.4.2004, p. 19."
+
+(*2) OJ L 255, 30.9.2005, p. 11."
+
+(*3) OJ L 64, 4.3.2006, p. 1.’ "
+
+## Article 2
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 30 January 2007.
+
+For the Commission
+
+Jacques BARROT
+
+Vice-President
+
+(1) OJ L 324, 29.11.2002, p. 1. Regulation as amended by Commission Regulation (EC) No 415/2004 (OJ L 68, 6.3.2004, p. 10).
+
+(2) OJ L 138, 30.4.2004, p. 19.
+
+(3) OJ L 255, 30.9.2005, p. 11.
+
+(4) OJ L 64, 4.3.2006, p. 1.

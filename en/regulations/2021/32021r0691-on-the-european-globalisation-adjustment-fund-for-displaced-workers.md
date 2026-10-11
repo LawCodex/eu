@@ -1,0 +1,643 @@
+---
+title: "Regulation (EU) 2021/691 of the European Parliament and of the Council of 28 April 2021 on the European Globalisation Adjustment Fund for Displaced Workers (EGF) and repealing Regulation (EU) No 1309/2013"
+identifier: "32021R0691"
+eli: "http://data.europa.eu/eli/reg/2021/691/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2021-04-28
+entry_into_force: 2021-12-20
+last_amended: 2026-05-21
+consolidated_version: "02021R0691-20260521"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02021R0691-20260521"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2021/691 of the European Parliament and of the Council of 28 April 2021 on the European Globalisation Adjustment Fund for Displaced Workers (EGF) and repealing Regulation (EU) No 1309/2013
+
+**REGULATION (EU) 2021/691 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 28 April 2021**
+
+**on the European Globalisation Adjustment Fund for Displaced Workers (EGF) and repealing Regulation (EU) No 1309/2013**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2026/1139 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 20 May 2026 </td><td> L 1139</td><td>1</td><td>20.5.2026</td></tr>
+</table>
+
+**REGULATION (EU) 2021/691 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 28 April 2021**
+
+**on the European Globalisation Adjustment Fund for Displaced Workers (EGF) and repealing Regulation (EU) No 1309/2013**
+
+## Article 1 — Subject matter and scope
+
+1\. This Regulation establishes the European Globalisation Adjustment Fund for Displaced Workers (EGF) for the period of the MFF 2021 to 2027.
+
+It lays down the objectives of the EGF, the forms of Union funding and the rules for providing such funding, including applications by the Member States for financial contributions from the EGF for measures targeting the beneficiaries referred to in Article 6.
+
+2\. In accordance with Article 4, the EGF shall offer support to displaced workers and self-employed persons whose activity has ceased in the course of major restructuring events and to workers affected by imminent job displacement in enterprises undergoing restructuring.
+
+## Article 2
+
+Mission and objectives
+
+1\. The EGF shall support socioeconomic transformations that are the result of globalisation and of technological and environmental changes by helping displaced workers and self-employed persons whose activity has ceased to adapt to structural change. The EGF shall also support workers at risk of imminent job displacement. The EGF shall constitute an emergency fund that operates reactively. As such, the EGF shall contribute to the implementation of the principles set out in the European Pillar of Social Rights, promote sustainable employment and enhance social and economic cohesion among regions and Member States.
+
+2\. The objectives of the EGF are to demonstrate solidarity and promote decent and sustainable employment in the Union by offering assistance in the case of major restructuring events, in particular those caused by challenges related to globalisation, such as changes in world trade patterns, trade disputes, significant changes in the trade relations of the Union or the composition of the internal market and financial or economic crises, as well as the transition to a low-carbon economy as part of the twin green and just transition, or as a consequence of digitisation or automation. The EGF shall support beneficiaries in returning to decent and sustainable employment as soon as possible. Particular emphasis shall be placed on measures that help the most disadvantaged groups. The EGF shall also support workers affected by imminent job displacement in acquiring the skills needed to help them transfer either to a different role within their current enterprise or to a different enterprise.
+
+## Article 3 — Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘displaced worker’ means a worker, regardless of the type or duration of his or her employment relationship, whose employment contract or relationship is ended prematurely by redundancy, or whose employment contract or relationship is not renewed, for economic reasons;
+
+(1a) ‘worker affected by imminent job displacement’ means a worker in an enterprise undergoing restructuring whose employment contract or relationship, regardless of its type or duration, is expected to be ended by redundancy following a written communication from the employer to the workers’ representatives informing them, during the course of consultations, of, inter alia, the number and categories of workers to be made redundant in accordance with Article 2(3), point (b), of Directive 98/59/EC;
+
+(2) ‘self-employed person’ means a natural person who employs fewer than 10 workers;
+
+(3) ‘beneficiary’ means a natural person who participates in EGF co-funded measures;
+
+(4) ‘irregularity’ means a breach of applicable law, resulting from an act or omission by an economic operator involved in the implementation of the EGF, which has, or would have, the effect of prejudicing the budget of the Union by charging unjustified expenditures to that budget;
+
+(5) ‘implementation period’ means the period beginning on the dates referred to in point (j) of Article 8(7) and ending 24 months after the date of entry into force of the decision on the financial contribution pursuant to Article 15(2);
+
+(6) ‘enterprise undergoing restructuring’ means an enterprise undergoing a process that involves ‘collective redundancies’, as defined in Article 1(1), point (a), of Directive 98/59/EC.
+
+## Article 4 — Intervention criteria
+
+1\. Member States may apply for financial contributions from the EGF for measures targeting displaced workers and self-employed persons in accordance with the provisions laid down in this Article. In the event of requests from enterprises undergoing restructuring concerning measures targeting workers affected by imminent job displacement, Member States shall apply for financial contributions from the EGF.
+
+2\. In the case of major restructuring events, a financial contribution from the EGF shall be provided where one of the following circumstances applies:
+
+(a) the cessation of activity of at least 200 displaced workers or self-employed persons, over a reference period of four months, in an enterprise in a Member State, including where that cessation of activity applies to its suppliers or downstream producers;
+
+(b) the cessation of activity of at least 200 displaced workers or self-employed persons, over a reference period of six months, particularly in SMEs, where all operate in the same economic sector defined at NACE Revision 2 division level and are located in one region or two contiguous regions defined at NUTS 2 level or in more than two contiguous regions defined at NUTS 2 level provided that there are at least 200 workers or self-employed persons affected in two of the regions combined;
+
+(c) the cessation of activity of at least 200 displaced workers or self-employed persons, over a reference period of four months, particularly in SMEs, where all operate in the same or different economic sectors defined at NACE Revision 2 division level and located in the same region defined at NUTS 2 level;
+
+(d) the existence of projected collective redundancies concerning at least 200 workers affected by imminent job displacement in a single enterprise undergoing restructuring in a single Member State.
+
+3\. In small labour markets, in duly substantiated cases, and in particular with regard to applications involving SMEs, an application for a financial contribution under this Article shall be deemed to be admissible even if some of the criteria set out in the circumstances listed in paragraph 2 are not entirely met, provided that the redundancies or projected collective redundancies have a serious impact on employment and the local, regional or national economy.
+
+For applications under Article 8, the Member State shall duly substantiate the application, and shall indicate which of the criteria set out in the circumstances listed in paragraph 2 of this Article are not entirely met.
+
+For applications under Article 8a, following a duly substantiated request from the enterprise, including the indication of the criteria set out in the circumstances listed in paragraph 2 of this Article which are not entirely met, the Member State shall submit the application.
+
+4\. In exceptional circumstances, and in particular with regard to applications involving SMEs, paragraph 3 shall also apply to labour markets other than small labour markets. The aggregated amount of financial contributions in such cases shall not exceed 15 % of the annual ceiling of the EGF.
+
+5\. The EGF shall not be mobilised where public-sector employees are dismissed as a result of budgetary cuts by a Member State.
+
+## Article 5 — Calculation of displacements and of cessation of activity
+
+The applicant Member State shall specify the method used for calculating the number of displaced workers and self-employed persons whose activity has ceased for the purposes of Article 4 as at one or more of the following dates:
+
+(a) the date on which the employer notifies the competent public authority in writing of the projected collective redundancies in accordance with Article 3(1) of Council Directive 98/59/EC ( 1 );
+
+(b) the date of the employer’s individual notice to make the worker redundant or to terminate the employment contract or relationship of the worker;
+
+(c) the date of the de facto termination or the expiry of the employment contract or relationship;
+
+(d) the date of the end of the assignment of the worker to the user undertaking;
+
+(e) with regard to self-employed persons, the date of cessation of the activities as determined in accordance with national law or administrative provisions.
+
+In the cases referred to in point (a) of the first paragraph of this Article, the applicant Member State shall provide the Commission with additional information about the actual number of redundancies effected in accordance with Article 4, prior to the completion of the assessment by the Commission.
+
+## Article 5a
+
+Communication of the number of workers affected by imminent job displacement
+
+For the purposes of Article 4 of this Regulation, the applicant Member State shall communicate to the Commission the number of workers affected by imminent job displacement who have been identified in one or more written communications from the employer to the workers’ representatives in accordance with Article 2(3), second subparagraph, of Directive 98/59/EC.
+
+## Article 6 — Eligible beneficiaries
+
+The applicant Member State may provide eligible beneficiaries with a coordinated package of personalised services (‘coordinated package’) in accordance with Article 7 that is co-financed by the EGF. Such eligible beneficiaries may include:
+
+(a) displaced workers and self-employed persons whose activity has ceased, determined in accordance with Article 5, within the reference periods provided for in Article 4(1) to (4);
+
+(b) displaced workers and self-employed persons whose activity has ceased, determined in accordance with Article 5, outside the reference period provided for in Article 4, namely six months before the start of the reference period or between the end of the reference period and the last day before the date of the completion of the assessment by the Commission;
+
+(c) workers affected by imminent job displacement in an enterprise undergoing restructuring, including, where applicable, in the direct suppliers or downstream producers of that enterprise.
+
+Workers and self-employed persons as referred to in point (b) of the first paragraph shall be considered to be eligible beneficiaries provided that a clear causal link can be established with the event which triggered the redundancies during the reference period.
+
+The workers referred to in point (c) of the first paragraph shall remain eligible as part of the workers affected by imminent job displacement even if their employment contract or relationship has ended. Only restructuring events, including, where applicable, restructuring events in the direct suppliers and downstream producers of an enterprise undergoing restructuring, that qualify as collective redundancies under Directive 98/59/EC shall be eligible.
+
+Workers referred to in point (c) of the first paragraph shall be eligible regardless of the support measures provided by the Member State concerned and financed exclusively from its resources, provided that those measures are not part of the coordinated package.
+
+The workers referred to in point (c) of the first paragraph shall be considered to be eligible beneficiaries if they are identified in the written communications referred to in Article 5a concerning imminent job displacements or in subsequent written communications of additional projected collective redundancies in the requesting enterprise or in its direct suppliers or downstream producers, where applicable, provided that the relevant information is communicated by the last day before the date of the completion of the assessment by the Commission.
+
+The workers of direct suppliers and downstream producers referred to in point (c), of the first paragraph shall be considered to be eligible beneficiaries, provided that:
+
+(a) they are part of projected collective redundancies taking place within the same Member State as the projected collective redundancies by the requesting enterprise; and
+
+(b) a clear causal link is established between the projected collective redundancies by the requesting enterprise and the projected collective redundancies in its direct suppliers or downstream producers.
+
+## Article 7 — Eligible measures
+
+1\. A financial contribution from the EGF may be made for active labour market policy measures that form part of a coordinated package, designed to facilitate the reintegration of the targeted beneficiaries, in particular the most disadvantaged among them, into employment or self-employment, or to help the workers referred to in Article 6, first paragraph, point (c), update or acquire the skills they need to transfer either to a different role with their current enterprise or to a different enterprise.
+
+2\. Given the importance of skills required in the digital industrial age and in a resource-efficient economy, the dissemination of such skills shall be considered to be a horizontal element for the design of coordinated packages. The need for and level of training shall be adapted to the qualifications and skills of each beneficiary.
+
+The coordinated package may include:
+
+(a) tailor-made training and retraining, including with regard to information and communication technology and other skills required in the digital age, certification of acquired knowledge and skills, individual job-search assistance services and targeted group activities, occupational guidance, advisory services, mentoring, outplacement assistance, entrepreneurship promotion, aid for self-employment, business creation, employee take-overs, and cooperation activities;
+
+(b) special time-limited measures, such as job-search allowances, employers’ recruitment incentives, mobility allowances, childcare allowances, training allowances, subsistence allowances, and allowances for carers;
+
+(c) for the beneficiaries referred to in Article 6, first paragraph, point (c), the coordinated package may include training and retraining, complementing existing forms of support available under national measures or requirements under collective agreements, tailored to the individual worker’s needs, including on skills required for a resource-efficient and sustainable economy, information and communication technology and other skills required in the digital age, certification of acquired knowledge and skills, individual job-search assistance services and targeted group activities, occupational guidance, advisory services, mentoring, outplacement assistance, entrepreneurship promotion and cooperation activities.
+
+The costs of the measures referred to in point (b) of the second subparagraph shall not exceed 35 % of the total cost of the coordinated package.
+
+The investments for self-employment, business creation and employee take-overs shall not exceed EUR 22 000 per beneficiary.
+
+The design of the coordinated package shall anticipate future labour market perspectives and required skills. The coordinated package shall be compatible with the shift towards a resource-efficient and sustainable economy, shall focus on the dissemination of skills required in the digital industrial age, and shall take into account the demand on the local labour market.
+
+The coordinated package shall not include short-time work schemes, allowances or start-up grants.
+
+3\. The following measures shall not be eligible for a financial contribution from the EGF:
+
+(a) special time-limited measures, as referred to in point (b) of the second subparagraph of paragraph 2, if those measures are not conditional on the active participation of the targeted beneficiaries in job-search or training activities;
+
+(b) measures which are the responsibility of enterprises by virtue of national law or collective agreements.
+
+The measures supported by the EGF shall not replace passive social protection measures.
+
+4\. The coordinated package shall be drawn up in consultation with the targeted beneficiaries, their representatives or the social partners, as applicable.
+
+5\. At the initiative of the applicant Member State, a financial contribution from the EGF may be made for preparatory, management, information and publicity, and control and reporting activities.
+
+## Article 8 — Applications for EGF assistance for displaced workers and self-employed persons whose activity has ceased
+
+1\. The applicant Member State shall submit an application for a financial contribution from the EGF to the Commission within 12 weeks of the date on which the criteria set out in Article 4(2), (3) or (4) are met.
+
+2\. The time limit referred to in paragraph 1 shall be suspended between 1 January 2021 and 3 May 2021.
+
+3\. If requested by the applicant Member State, the Commission shall provide guidance throughout the application procedure.
+
+4\. Within 10 working days of the date of submission of the application, or, where applicable, within 10 working days of the date on which the Commission is in possession of a translation of the application, whichever is the later, the Commission shall acknowledge receipt of the application and request from the applicant Member State any additional information that it requires in order to assess the application.
+
+5\. Where the Commission requests additional information, the Member State shall reply within 15 working days of the date of the request. The Commission shall extend that deadline by 10 working days at the request of the applicant Member State. Any such requests for extension shall be duly reasoned.
+
+6\. On the basis of the information provided by the applicant Member State, the Commission shall complete its assessment of the compliance of the application with the conditions for providing a financial contribution within 50 working days of the receipt of the complete application or, where applicable, of the translation of the application.
+
+Where the Commission is not able to meet that deadline, it shall inform the applicant Member State before that deadline, explaining the reasons for the delay and setting a new date for the completion of its assessment. That new date shall be no later than 20 working days after the deadline under the first subparagraph.
+
+7\. An application shall contain the following information:
+
+(a) an assessment of the number of redundancies in accordance with Article 5, as well as the method of calculation;
+
+(b) where the dismissing enterprise has continued its activities after the redundancies, confirmation that it has complied with its legal obligations governing those redundancies and has provided for its workers accordingly;
+
+(c) an explanation of the extent to which the recommendations set out in the EU Quality Framework for anticipation of change and restructuring were taken into account, and how the coordinated package complements actions funded by other Union or national funds, including information about measures that are mandatory for the dismissing enterprises concerned by virtue of national law or collective agreements, and information about the activities already undertaken by the Member State for the assistance of displaced workers;
+
+(d) a brief description of the events that led to the displacement of the workers;
+
+(e) where applicable, the identification of the dismissing enterprises, suppliers or downstream producers and sectors;
+
+(f) an estimated breakdown of the composition of the targeted beneficiaries by gender, age group and educational level, used in the design of the coordinated package;
+
+(g) the expected impact of the redundancies as regards the local, regional or national economy and employment;
+
+(h) a detailed description of the coordinated package and related expenditure, including, in particular, any measures in support of employment initiatives for disadvantaged, young and older beneficiaries;
+
+(i) the estimated budget for each of the components of the coordinated package in support of the targeted beneficiaries and for any preparatory, management, information and publicity, control and reporting activities;
+
+(j) the dates on which the provision of the coordinated package to the targeted beneficiaries and the activities to implement the EGF, as set out in Article 7, were started or are due to be started;
+
+(k) the procedures followed for consulting the targeted beneficiaries or their representatives or the social partners as well as local and regional authorities or other relevant stakeholders as applicable;
+
+(l) a statement outlining why the coordinated package does not replace measures that are the responsibility of employers by virtue of national law or collective agreements;
+
+(m) the sources of national pre-financing or national co-funding and other co-funding, if applicable.
+
+## Article 8a
+
+Applications for EGF assistance for workers affected by imminent job displacement
+
+1\. Enterprises undergoing restructuring may request the Member State concerned to submit an application for a financial contribution from the EGF if the intervention criteria set out in Article 4(2), point (d), are met, and if the enterprise wishes to offer EGF-co-financed assistance for workers affected by imminent job displacement, in accordance with Article 6, first paragraph, point (c), for the entire implementation period. Such a request may be submitted by the enterprise within 14 weeks from the date on which it forwarded to the competent public authority, in accordance with Article 2(3), second subparagraph, of Directive 98/59/EC, the first written communication to the workers’ representatives containing, inter alia, the number and categories of workers to be made redundant.
+
+2\. A requesting enterprise may agree to include in its request workers affected by imminent job displacement in its direct suppliers and downstream producers who are eligible in accordance with Article 6, first paragraph, point (c), provided that all collective redundancies covered by the request, regardless of whether in the requesting enterprise, or in its direct suppliers or downstream producers, take place within the same Member State.
+
+A requesting enterprise that agrees to include in its request workers affected by imminent job displacement in its direct suppliers or downstream producers in accordance with the first subparagraph shall remain fully responsible under this Regulation for the request. In particular, it shall continue to have full responsibility for:
+
+(a) the submission of the request;
+
+(b) the provision of all the necessary information to the Member States;
+
+(c) the provision of the national co-financing; and
+
+(d) the implementation of the coordinated package.
+
+The requesting enterprise may arrange to receive financial contributions from its direct suppliers and downstream producers in proportion to the support received by their workers.
+
+3\. For the purposes of this Article, the Commission shall provide non-binding guidelines, checklists and templates for request forms in coordination with Member States. The Member States may decide to make such templates mandatory for the submission of requests.
+
+Member States shall publish online guidelines and templates to support the enterprises in preparing their requests.
+
+The information to be provided by the enterprise through the templates referred to in the first subparagraph of this paragraph shall cover all the information necessary for an application for a financial contribution from the EGF, in accordance with paragraph 12.
+
+4\. Member States shall submit their applications on the basis of the requests referred to in paragraph 1. Without prejudice to the Commission’s independent assessment of the application for a financial contribution from the EGF in accordance with paragraph 11, the applicant Member State may carry out ex ante checks to verify:
+
+(a) the requesting enterprise’s financial and administrative capacity to implement the financial contribution from the EGF for the workers affected by imminent job displacement concerned;
+
+(b) the information provided in accordance with paragraph 12, points (g), (k) and (o);
+
+(c) whether the coordinated package is expected to be carried out in accordance with national law; and
+
+(d) whether there are financial risks for the applicant Member State, including potentially fraudulent activity and the risk of double funding.
+
+Where they carry out such ex ante checks, Member States shall communicate the results thereof, together with their assessment of the request submitted by the enterprise, when submitting the application to the Commission. The Commission shall take that information into account in its assessment of the application. If the Commission’s assessment differs from the results of the ex ante checks, the Commission shall include explanations in that regard in the summary of information referred to in Article 15(3), point (a).
+
+5\. Member States shall treat all requests equally and deal with them in the order that they receive them, without exercising any discretion with regard to their admissibility or eligibility and shall submit applications in respect of those requests to the Commission. Member States shall not introduce any additional requirements or alter the requirements set out in this Regulation.
+
+6\. The applicant Member State shall submit to the Commission the application for a financial contribution from the EGF within 15 working days of the date on which it received the complete request.
+
+7\. If requested to do so by the enterprise, the Member State concerned shall provide guidance throughout the procedure for a request as referred to in paragraph 1, taking into account the size and the administrative capacity of the enterprise.
+
+8\. If requested to do so by the applicant Member State, the Commission shall provide guidance throughout the application procedure.
+
+9\. Within 10 working days of the date of submission of the application, or, where applicable, within 10 working days of the date on which the Commission is in possession of a translation of the application, whichever is the later, the Commission shall acknowledge receipt of the application, and shall request from the applicant Member State any additional information that it requires in order to assess the application. If the requested additional information includes information that can be provided by the enterprise, the enterprise shall provide that information to the Member State.
+
+10\. Where the Commission requests additional information pursuant to paragraph 9, the Member State shall reply within 15 working days of the date of the request. The Commission shall extend that deadline by 10 working days at the request of the applicant Member State. Any request for extension shall be duly substantiated.
+
+11\. On the basis of the information provided in the application, the Commission shall complete its assessment of the compliance of the application with the conditions for providing a financial contribution within 50 working days of the receipt of the complete application or, where applicable, of the translation of the application. The Commission shall evaluate the information provided in accordance with paragraph 12. In its evaluation, the Commission shall also assess the adequacy of the consultation process referred to in Article 7(4), as well as of the coordinated package.
+
+Where the Commission is not able to meet that deadline, it shall inform the applicant Member State before that deadline, explaining the reasons for the delay and setting a new date for the completion of its assessment. That new date shall be no later than 20 working days after the deadline laid down in the first subparagraph.
+
+12\. An application shall contain the following information:
+
+(a) the identification of the requesting enterprise, including, where applicable, its affected direct suppliers and downstream producers;
+
+(b) the number of workers affected by imminent job displacement in the requesting enterprise undergoing restructuring, in accordance with Article 5a;
+
+(c) the number of eligible beneficiaries referred to in Article 6, first paragraph, point (c), and the number of targeted beneficiaries among them to benefit, in accordance with the intentions of the requesting enterprise, under measures from the coordinated package;
+
+(d) where applicable, and as soon as it is available, any written agreement between the requesting enterprise and its direct suppliers or downstream producers;
+
+(e) a brief description of the events that led to the restructuring;
+
+(f) where the application includes workers affected by imminent job displacement in the direct suppliers or downstream producers of the requesting enterprise, a reasoned analysis provided by the requesting enterprise establishing a clear causal link between the projected collective redundancies in the direct suppliers or downstream producers and those in the requesting enterprise;
+
+(g) a confirmation, based on information provided by the enterprise, that the enterprise has complied, and continues to comply, with its legal obligations, including those set out in Article 2 of Directive 98/59/EC, and any collective agreements governing these projected collective redundancies and that it is providing for its workers accordingly;
+
+(h) a description of the procedures followed by the enterprise for the consultation of the targeted beneficiaries or their representatives, as applicable, on the design of the coordinated package, as well as the description of the procedures followed for the consultation on the measures included in the coordinated package of the local and regional authorities or other relevant stakeholders, as applicable;
+
+(i) an explanation of the extent to which the recommendations set out in the EU Quality Framework for anticipation of change and restructuring have been taken into account and, where applicable, how the coordinated package complements actions funded by other Union or national funds;
+
+(j) an estimated breakdown of the composition of the targeted beneficiaries by gender, age group and educational level, used in the design of the coordinated package;
+
+(k) a detailed description of the coordinated package and related expenditure, including any measures in support of employment initiatives for disadvantaged, young and older beneficiaries;
+
+(l) the estimated budget for each of the components of the coordinated package in support of the targeted beneficiaries;
+
+(m) the dates on which the provision of the coordinated package to the targeted beneficiaries and the activities to implement the EGF, as set out in Article 7, were started or are due to be started;
+
+(n) the estimated budget for any preparatory activities, including ex ante checks, as well as management, information and publicity, control and reporting activities by the applicant Member State in relation to the application;
+
+(o) a statement outlining why the coordinated package does not replace measures that are the responsibility of employers by virtue of national law or collective agreements;
+
+(p) the confirmation from the enterprise concerned that it will co-finance the measures of the coordinated package and that its co-financing is the only source for the national co-funding , except for any contributions from the direct suppliers or downstream producers of that enterprise;
+
+(q) a confirmation from the applicant Member State that it has not provided any funding for the coordinated package.
+
+Where the numbers referred to in points (c) and (l) of the first subparagraph change before the completion of the assessment by the Commission, those changes shall be communicated to the Commission.
+
+The information set out in points (a) to (f), (j) to (m), and (o) and (p) of the first subparagraph shall be provided to the applicant Member State by the requesting enterprise.
+
+## Article 9 — Complementarity, compliance and coordination
+
+1\. A financial contribution from the EGF shall not replace measures which are the responsibility of employers by virtue of national law or collective agreements.
+
+2\. Support for targeted beneficiaries shall complement measures of the Member States at national, regional and local level, including such measures that also receive other financial support from the Union budget, in line with the recommendations set out in the EU Quality Framework for anticipation of change and restructuring.
+
+3\. The financial contribution from the EGF shall be limited to what is necessary to provide temporary, one-off support for targeted beneficiaries. The measures supported by the EGF shall comply with Union and national law, including State aid rules.
+
+4\. In accordance with their respective responsibilities, the Commission and the applicant Member State shall ensure the coordination of the assistance from other financial support from the Union budget.
+
+5\. The applicant Member State shall ensure that the specific measures receiving a financial contribution from the EGF do not receive other financial support from the Union budget.
+
+## Article 10 — Equality between men and women, and non-discrimination
+
+The Commission and the Member States shall ensure that equality between men and women and the integration of the gender perspective are an integral part of and are promoted throughout the implementation period.
+
+The Commission and the Member States shall take all appropriate steps to prevent any discrimination based on gender, gender identity, racial or ethnic origin, religion or belief, disability, age or sexual orientation in access to the EGF and during the various stages of the implementation period.
+
+## Article 11 — Technical assistance at the initiative of the Commission
+
+1\. At the initiative of the Commission, a maximum of 1,5 % of the maximum annual amount of the EGF may be used for technical and administrative expenditure for its implementation, such as preparatory, monitoring, control, audit and evaluation activities, as well as data gathering, including in relation to corporate information technology systems, communication activities and those enhancing the EGF’s visibility as a fund or for specific projects and other technical assistance measures. Such measures may cover future and previous programming periods.
+
+2\. Subject to the ceiling set out in paragraph 1 of this Article, the Commission shall submit a request for a transfer of appropriations for technical assistance to the relevant budgetary lines in accordance with Article 31 of the Financial Regulation.
+
+3\. The Commission shall implement technical assistance at its own initiative under direct or indirect management in accordance with points (a) and (c) of Article 62(1) of the Financial Regulation.
+
+Where the Commission implements technical assistance under indirect management, it shall ensure a transparent procedure for designating the third party responsible for carrying out the tasks assigned to it in accordance with the Financial Regulation. It shall inform the European Parliament and the Council as well as the public of the subcontractor selected for that purpose.
+
+4\. The Commission’s technical assistance shall include the provision of information and guidance to the Member States on using, monitoring and evaluating the EGF as well as dedicated outreach to Member States that have had no or have had only low uptake of EGF support. The Commission shall also provide the social partners at Union and national level with information and clear guidance on the use of the EGF. Guidance measures may also include the creation of taskforces in cases of severe economic disruptions in a Member State.
+
+## Article 12 — Information, communication and publicity
+
+1\. The Member States shall acknowledge the origin and ensure the visibility of the Union funding and highlight the Union added value of the intervention, by providing coherent, effective and targeted information to multiple audiences, including targeted information to beneficiaries, local and regional authorities, the social partners, the media and the public.
+
+Member States shall use the EU emblem in accordance with Annex IX to the Regulation of the European Parliament and of the Council laying down common provisions on the European Regional Development Fund, the European Social Fund Plus, the Cohesion Fund, the Just Transition Fund and the European Maritime, Fisheries and Aquaculture Fund and financial rules for those and for the Asylum, Migration and Integration Fund, the Internal Security Fund and the Instrument for Financial Support for Border Management and Visa Policy (the ‘Common Provisions Regulation for 2021-2027’) together with the simple funding statement, ‘co-funded by the European Union’.
+
+2\. The Commission shall maintain and update regularly an online presence, accessible in all official languages of the institutions of the Union, to provide updated information about the EGF, guidance on the submission of applications, examples of eligible measures and a regularly updated list of Member State contacts as well as information about accepted and rejected applications and on the role of the European Parliament and the Council in the budgetary procedure.
+
+3\. The Commission shall promote the broad dissemination of existing best practices and shall carry out information and communication actions with the aim of raising the awareness of Union citizens and workers, including people who have difficulties in accessing information, of the EGF.
+
+The Member States shall ensure that communication and visibility material is made available upon request to Union institutions, bodies or agencies and that a royalty-free, non-exclusive and irrevocable licence to use such material and any pre-existing rights attached to it is granted to the Union, to publicise the EGF or in relation to reporting on the use of the Union budget. That obligation shall not require Member States to take on significant additional costs or significant administrative burdens.
+
+The licence shall grant the Union the rights set out in Annex I.
+
+4\. The resources allocated to communication actions under this Regulation shall also contribute to covering the corporate communication of the political priorities of the Union provided that such priorities are related to the objectives laid down in Article 2.
+
+## Article 13 — Determination of the financial contribution
+
+1\. On the basis of the assessment carried out in accordance with Article 8 or 8a, in particular taking into account the number of targeted beneficiaries, the proposed measures and the estimated costs, the Commission shall evaluate and determine the amount of a financial contribution from the EGF, if any, that may be made within the limits of the resources available.
+
+2\. The co-financing rate of the EGF for the measures offered shall be the highest co-financing rate of ESF+ in the relevant Member State, as set out in Article 112(3) of the Common Provisions Regulation for 2021-2027 or 60 %, whichever is the higher.
+
+2a. The co-financing rate for expenditure incurred by the Member State for beneficiaries referred to in Article 6, first paragraph, point (c), and relating to measures set out in Article 7(5) shall be 100 %.
+
+3\. Where, on the basis of the assessment carried out in accordance with Article 8 or 8a, the Commission concludes that the conditions for a financial contribution under this Regulation are met, it shall immediately initiate the procedure set out in Article 15.
+
+4\. Where, on the basis of the assessment carried out in accordance with Article 8, the Commission concludes that the conditions for a financial contribution under this Regulation are not met, it shall immediately notify the applicant Member State, the European Parliament and the Council.
+
+5\. A minimum of 40 % of the annual maximum amount of the EGF shall be reserved for applications concerning the cessation of activity of displaced workers or self-employed persons referred to in Article 8. Any portion of that amount not used or not reserved by 30 June of each year may also be used for applications concerning workers affected by imminent job displacement referred to in Article 8a. Any financial contribution to workers affected by the imminent job displacement referred to in Article 4(2), point (d), shall not exceed EUR 4 000 000 per enterprise, per Member State, for any financial year.
+
+## Article 14 — Eligibility period
+
+1\. Expenditure shall be eligible for a financial contribution from the EGF from the dates set out in the application in accordance with Article 8(7), point (j), or Article 8a(12), point (m), on which the Member State or the enterprise concerned starts, or is due to start, providing the coordinated package to the targeted beneficiaries or on which the Member State incurs administrative expenditure to implement the EGF in accordance with Article 7(1) and (5).
+
+2\. The Member State or the enterprise shall start implementing the eligible measures set out in Article 7 without undue delay and shall carry out those measures as soon as possible, and in any event within 24 months of the date of entry into force of the decision on the financial contribution.
+
+3\. Where a beneficiary accesses an education or training course the duration of which is at least two years, the expenditure for that course shall be eligible for EGF co-funding up to the date on which the final report referred to in Article 20(1) is due, provided that the relevant expenditure is incurred before that date.
+
+4\. Expenditure pursuant to Article 7(5) shall be eligible for EGF co-funding until the deadline for submission of the final report in accordance with Article 20(1).
+
+## Article 15 — Budgetary procedure and implementation
+
+1\. Where the Commission has concluded that the conditions for providing a financial contribution from the EGF are met, it shall submit a proposal to mobilise the EGF to the European Parliament and to the Council. The decision to mobilise the EGF shall be taken jointly by the European Parliament and the Council within six weeks of the submission of the Commission’s proposal to them.
+
+At the same time as it submits its proposal for a decision to mobilise the EGF, the Commission shall submit to the European Parliament and to the Council a proposal for a transfer to the relevant budgetary lines.
+
+Transfers related to the EGF shall be made in accordance with Article 31 of the Financial Regulation.
+
+2\. The Commission shall adopt a decision on a financial contribution, which shall enter into force on the date on which the Commission is notified of the approval of the budgetary transfer by the European Parliament and the Council.
+
+That decision shall constitute a financing decision within the meaning of Article 110 of the Financial Regulation.
+
+3\. A proposal by the Commission for a decision to mobilise the EGF pursuant to paragraph 1 shall include the following:
+
+(a) the assessment carried out in accordance with Article 8(6) or Article 8a(11), together with a summary of the information on which that assessment is based; and
+
+(b) the reasons for the amounts proposed in accordance with Article 13(1).
+
+## Article 16
+
+Insufficient funds
+
+By way of derogation from the deadlines set out in Articles 8, 8a and 15, provided that the remaining commitment appropriations available in the EGF are not sufficient to cover the amount of assistance that is necessary according to the Commission proposal, the Commission may, in exceptional cases, postpone the proposal to mobilise the EGF and the subsequent budgetary transfer request until commitment appropriations are available in the year following the application. The annual budgetary ceiling of the EGF shall be respected in all circumstances.
+
+## Article 17 — Payment and use of the financial contribution
+
+1\. The Commission shall pay the financial contribution to the Member State concerned in a single 100 % pre-financing payment, in principle within 15 working days of the entry into force of a decision on a financial contribution in accordance with Article 15(2). The pre-financing shall be cleared once the Member State submits the certified statement of expenditure in accordance with Article 20(1). The unspent amount shall be reimbursed to the Commission.
+
+2\. The financial contribution referred to in paragraph 1 of this Article shall be implemented under shared management in accordance with Article 63 of the Financial Regulation.
+
+3\. Detailed technical terms of the financing shall be determined by the Commission in the decision on a financial contribution referred to in Article 15(2).
+
+4\. When carrying out the measures contained in the coordinated package, the Member State concerned may submit a proposal to the Commission to amend the actions by adding other eligible measures as listed in points (a) and (b) of Article 7(2), provided that such amendments are duly justified and the total does not exceed the financial contribution referred to in Article 15(2). The Commission shall assess the proposed amendments and, if it agrees, shall amend the decision on the financial contribution accordingly.
+
+5\. The Member State concerned may reallocate amounts between the budget items laid down in the decision on a financial contribution pursuant to Article 15(2). If such a reallocation exceeds a 20 % increase for one or more of the items specified, the Member State shall notify the Commission beforehand.
+
+6\. With regard to applications under Article 8a, the Member State concerned, without undue delay, and at the latest ten working days after receipt of the Commission’s pre-financing payment, shall make available to the enterprise concerned the part of the pre-financing payment that relates to the coordinated package implemented by the enterprise. Member States may make the pre-financing payment available in instalments, in which case the first instalment shall be made available without undue delay and within ten working days at the latest. The detailed arrangements for payment shall be set out in the document governing the financial contribution from the Member State to the enterprise. The Member States may, where appropriate, direct the funds to the enterprise through the relevant regional or other public authority, provided that this does not delay the payment. The Member State shall retain or direct to regional or other public authority the part of the pre-financing that relates to measures referred to in Article 7(5).
+
+## Article 18 — Use of the euro
+
+Amounts referred to in applications, decisions on financial contributions and reports under this Regulation, as well as any other related documents, shall be expressed in euro.
+
+## Article 19 — Indicators
+
+1\. Indicators to report on the progress of the EGF towards the achievement of the objectives laid down in Article 2 are set out in Annex II. Personal data relating to those indicators shall be collected on the basis of this Regulation solely for the purposes of this Regulation. They shall be processed in compliance with Regulation (EU) 2016/679 of the European Parliament and of the Council ( 2 ).
+
+2\. The performance reporting system shall ensure that data for monitoring the implementation and the results of the EGF are collected efficiently, effectively and in a timely manner.
+
+To that end, proportionate reporting requirements shall be imposed on Member States.
+
+## Article 20 — Final report and closure
+
+1\. Not later than at the end of the seventh month after the expiry of the implementation period, the Member State concerned shall present a final report to the Commission on the implementation of the relevant financial contribution, including information about:
+
+(a) the type of measures and results, explaining the challenges, the lessons learned, synergies and complementarities with other Union funds, particularly ESF+, and indicating, where possible, the complementarity of the measures with measures funded by other Union or national programmes in line with the EU Quality Framework for anticipation of change and restructuring;
+
+(b) the names of the bodies that delivered the coordinated package in the Member State;
+
+(c) the indicators set out in points (1) and (2) of Annex II;
+
+(d) whether the dismissing enterprise, except where it is a microenterprise or an SME, has been a beneficiary of State aid or previous funding from Union cohesion or structural funds in the preceding five years; and
+
+(e) a statement justifying the expenditure.
+
+2\. No later than six months after the Commission has received all the information required under paragraph 1 of this Article, it shall wind up the financial contribution by determining the final amount of the financial contribution from the EGF and the balance due, if any, by the Member State concerned in accordance with Article 24.
+
+3\. In cases where an enterprise is implementing a financial contribution from the EGF for workers affected by imminent job displacement, the enterprise shall, by the end of the sixth month after the expiry of the implementation period, provide the Member State concerned with all relevant information specified in paragraph 1.
+
+## Article 21 — Biennial report
+
+1\. By 1 August 2021 and every two years thereafter, the Commission shall submit to the European Parliament and to the Council a comprehensive, quantitative and qualitative report on the activities under this Regulation and Regulation (EU) No 1309/2013 in the preceding two years. The report shall focus mainly on the results achieved by the EGF and in particular shall contain information relating to applications submitted, processing time, decisions adopted, measures funded, including statistics on the indicators set out in Annex II, and the complementarity of such measures with measures funded by other Union funds, in particular ESF+, and information relating to the winding-up of financial contributions made. The report shall also document applications that have been rejected due to non-eligibility or for which the amount has been reduced due to insufficient appropriations.
+
+2\. The report shall also be submitted for information to the Court of Auditors, the European Economic and Social Committee, the Committee of the Regions and the social partners.
+
+## Article 22 — Evaluations
+
+1\. On its own initiative and in close cooperation with the Member States, the Commission shall carry out:
+
+(a) a mid-term evaluation by 30 June 2025; and
+
+(b) a retrospective evaluation by 31 December 2029.
+
+2\. The results of the evaluations referred to in paragraph 1 shall be submitted to the European Parliament, the Council, the Court of Auditors, the European Economic and Social Committee, the Committee of the Regions and the social partners for information. The recommendations of the evaluations shall be taken into account for the design of new programmes in the area of employment and social affairs or the further development of existing programmes.
+
+3\. The evaluations referred to in paragraph 1 shall include relevant statistics on the financial contributions, broken down by sector and Member State.
+
+4\. A beneficiary survey shall be launched by the Commission during the sixth month after the end of each implementation period. The beneficiary survey shall be open to participation for at least four weeks. Member States shall distribute the beneficiary survey to the beneficiaries, send out at least one reminder and inform the Commission of the distribution and reminder sent.
+
+In cases involving assistance implemented by an enterprise for beneficiaries under Article 6, first paragraph, point (c), that enterprise is responsible for distributing the survey referred to in the first subparagraph of this paragraph to the beneficiaries that have participated in the measures, and to workers’ representatives for information, for sending out at least one reminder and for informing the Member State of the distribution and reminder sent. The responses to the beneficiary surveys shall be collated and analysed by the Commission for use in future evaluations.
+
+5\. Beneficiary surveys shall be used to collect data on the perceived change in the employability of beneficiaries, or, for those who have already found employment, on the quality of the employment found, such as changes in working hours, the type of employment contract or relationship (full time or part time; fixed term or open-ended), the level of responsibility or change of salary level in comparison to previous employment, and the sector in which the person found employment. For cases under Article 6, first paragraph, point (c), this shall also include information on a possible new role within the same enterprise, where applicable. That information shall be broken down by gender, age group, education level and level of professional experience.
+
+6\. In order to ensure uniform conditions for the implementation of this Article, the Commission shall adopt an implementing act setting out when and how a beneficiary survey is to be conducted and the template to be used.
+
+That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 26(2).
+
+## Article 23 — Management and financial control
+
+1\. Without prejudice to the Commission’s responsibility for implementing the general budget of the Union, Member States shall take responsibility for the management of measures supported by the EGF and for the financial control of the measures. They shall take at least the following steps:
+
+(a) verifying that management and control arrangements have been set up and are being implemented in such a way as to ensure that Union funds are being used efficiently and correctly, in accordance with the principle of sound financial management;
+
+(b) ensuring that the delivery of monitoring data is a mandatory requirement in contracts with bodies delivering the coordinated packages;
+
+(c) verifying that the financed measures have been properly carried out;
+
+(d) ensuring that expenditure funded is based on verifiable supporting documents, and is legal and regular;
+
+(e) preventing, detecting and correcting irregularities including fraud and recovering amounts unduly paid together with interest on late payments where appropriate.
+
+The Member States shall report irregularities including fraud, as referred to in point (e) of the first subparagraph, to the Commission.
+
+2\. Member States shall ensure the legality and regularity of expenditure included in the accounts submitted to the Commission and shall take all required actions to prevent, detect and correct and report on irregularities, including fraud. Such actions shall include the collection of information about the beneficial owners of the recipients of funding in accordance with Annex XVII to the Common Provisions Regulation for 2021-2027. The rules related to the collection and processing of such data shall comply with applicable data protection rules. The Commission, OLAF and the Court of Auditors shall have the necessary access to that information.
+
+3\. For the purposes of Article 63(3) of the Financial Regulation, Member States shall identify bodies responsible for the management and control of the measures supported by the EGF. Those bodies shall provide the Commission with the information set out in Article 63(5), (6) and (7) of the Financial Regulation on the implementation of the financial contribution when submitting the final report referred to in Article 20(1) of this Regulation.
+
+Where authorities designated in accordance with Regulation (EU) No 1309/2013 have provided sufficient guarantees that payments are legal and regular, and properly accounted for, the Member State concerned may notify to the Commission that those authorities are confirmed under this Regulation. On making such a notification, that Member State shall indicate which authorities are confirmed and their functions.
+
+4\. Member States shall make the required financial corrections where an irregularity is ascertained. The corrections made by the Member States shall consist of cancelling all or part of the financial contribution. The Member States shall recover any amount unduly paid as a result of an irregularity detected and repay that amount to the Commission. Where the amount is not repaid by the relevant Member State in the time allowed, default interest shall be due.
+
+5\. The Commission, in its responsibility for the implementation of the general budget of the Union, shall take every step necessary to verify that the actions financed are carried out in accordance with the principle of sound financial management. It is the responsibility of the Member State concerned to ensure that it has smoothly functioning management and control systems. The Commission shall satisfy itself that such systems are in place.
+
+To that end, without prejudice to the powers of the Court of Auditors or the checks carried out by the Member State in accordance with national laws, regulations and administrative provisions, Commission officials or servants may carry out on-the-spot checks, including sample checks, on the measures financed by the EGF with a minimum notice of 12 working days. The Commission shall give notice to the Member State concerned with a view to obtaining all the assistance necessary. Officials or servants of the Member State concerned may take part in such checks.
+
+6\. The Commission is empowered to adopt delegated acts in accordance with Article 25 in order to supplement point (e) of paragraph 1 of this Article by setting out the criteria for determining the cases of irregularity to be reported and the data to be provided.
+
+7\. In order to ensure uniform conditions for the implementation of this Article, the Commission shall adopt an implementing act setting out the format to be used for reporting of irregularities.
+
+That implementing act shall be adopted in accordance with the advisory procedure referred to in Article 26(2).
+
+8\. Member States shall ensure that all supporting documents regarding expenditure incurred are kept available for the Commission and the Court of Auditors for a period of three years following the winding-up of a financial contribution received from the EGF.
+
+## Article 24 — Recovery of the financial contribution
+
+1\. Where the actual cost of the coordinated package is less than the amount of the financial contribution pursuant to Article 15, the Commission shall recover the corresponding amount after having given the Member State concerned the possibility to submit its observations.
+
+2\. If, after completing the necessary verifications, the Commission concludes that a Member State either has failed to comply with the obligations stated in the decision on a financial contribution or is not complying with its obligations under Article 23(1), it shall give the Member State concerned the possibility to submit its observations.
+
+If no agreement has been reached, the Commission shall, within 12 months of receipt of the observations from the Member State, adopt a decision to make the financial corrections required by cancelling all or part of the financial contribution of the EGF to the measure in question.
+
+The Member State concerned shall recover any amount unduly paid as a result of an irregularity and, where the amount is not repaid by that Member State in the time allowed, default interest shall be due.
+
+## Article 25 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 23(6) shall be conferred on the Commission for the duration of the EGF.
+
+3\. The delegation of power referred to in Article 23(6) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the power specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 23(6) shall enter into force only if no objection has been expressed either by the European Parliament or by the Council within a period of two months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by two months at the initiative of the European Parliament or of the Council.
+
+## Article 26 — Committee procedure
+
+1\. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.
+
+## Article 27 — Repeal
+
+1\. Regulation (EU) No 1309/2013 is repealed with effect from 1 January 2021.
+
+2\. Notwithstanding paragraph 1 of this Article, point (b) of Article 20(1) of Regulation (EU) No 1309/2013 shall continue to apply until the ex post evaluation referred to in that point has been carried out.
+
+## Article 28 — Transitional provisions
+
+1\. This Regulation shall not affect the continuation of or modification of actions initiated pursuant to Regulation (EU) No 1309/2013, which shall continue to apply to those actions until their closure.
+
+2\. The financial envelope for the EGF may also cover the technical assistance expenses necessary to ensure the transition between the EGF and the measures adopted pursuant to Regulation (EU) No 1309/2013.
+
+3\. If necessary, appropriations may be entered in the Union budget beyond 2027 to cover the eligible measures provided for in Article 7(1) and (5), to enable the management of actions not completed by 31 December 2027.
+
+## Article 29 — Entry into force
+
+This Regulation shall enter into force on the day of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2021, with the exception of Article 15, which shall apply from 3 May 2021.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**COMMUNICATION AND VISIBILITY**
+
+The licence referred to in the second subparagraph of Article 12(3) shall grant the Union at least the following rights:
+
+(1) internal use, namely the right to reproduce, copy and make available the communication and visibility materials to Union and Member State institutions and agencies and their staff;
+
+(2) the reproduction of the communication and visibility materials by any means and in any form, in whole or in part;
+
+(3) the communication to the public of the communication and visibility materials by any and all means of communication;
+
+(4) the distribution to the public of the communication and visibility materials (or copies thereof) in any and all forms;
+
+(5) the storage and archiving of the communication and visibility materials;
+
+(6) the sublicensing of the rights on the communication and visibility materials to third parties.
+
+## ANNEX II
+
+**COMMON OUTPUT AND RESULT INDICATORS FOR EGF APPLICATIONS (referred to in Article 19(1), in point (c) of Article 20(1) and in Article 21(1))**
+
+All personal data ( 3 ) are to be broken down by gender (female, male, non-binary ( 4 )) ( 5 ).
+
+(1) Common output indicators on beneficiaries:
+
+(a) unemployed*;
+
+(b) inactive*;
+
+(c) employed*;
+
+(d) self-employed*;
+
+(e) below 30 years of age*;
+
+(f) above 54 years of age*;
+
+(g) with lower secondary education or less (ISCED 0-2)*;
+
+(h) with upper secondary (ISCED 3) or post-secondary education (ISCED 4)*;
+
+(i) with tertiary education (ISCED 5-8)*.
+
+The total number of beneficiaries is to be calculated automatically on the basis of the common output indicators relating to employment status ( 6 ).
+
+(2) Common long-term result indicators for beneficiaries:
+
+(a) percentage of EGF beneficiaries in employment and self-employment six months after the end of the implementation period*;
+
+(b) percentage of EGF beneficiaries who gained a qualification by six months after the end of the implementation period*;
+
+(c) percentage of EGF beneficiaries in education or training six months after the end of the implementation period*.
+
+For cases under Article 6, first paragraph, point (c), the indicator under the first paragraph, point (a), of this point is to be broken down by the following employment:
+
+(a) in a different enterprise;
+
+(b) in the same enterprise:
+
+(i) in the same role;
+
+(ii) in a different role.
+
+Those data are to cover the calculated total number of beneficiaries as reported under the common output indicators set out in point (1). The percentages shall thus also relate to this calculated total.
+
+( 1 ) Council Directive 98/59/EC of 20 July 1998 on the approximation of the laws of the Member States relating to collective redundancies (OJ L 225, 12.8.1998, p. 16).
+
+( 2 ) Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).
+
+( 3 ) Managing authorities are to establish a system that records and stores individual participant data in computerised form. The data processing arrangements put in place by the Member States are to be in line with the provisions of Regulation (EU) 2016/679, in particular Articles 4, 6 and 9 thereof.
+
+( 4 ) According to national legislation.
+
+( 5 ) Data reported under the indicators marked with an asterisk (*) are personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679. Their processing is necessary for compliance with the legal obligation to which the controller is subject (point (c) of Article 6(1) of Regulation (EU) 2016/679).
+
+( 6 ) Unemployed, inactive, employed, self-employed.

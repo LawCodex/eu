@@ -1,0 +1,521 @@
+---
+title: "Commission Regulation (EC) No 88/97 of 20 January 1997 on the authorization of the exemption of imports of certain bicycle parts originating in the People's Republic of China from the extension by Council Regulation (EC) No 71/97 of the anti-dumping duty imposed by Council Regulation (EEC) No 2474/93"
+identifier: "31997R0088"
+eli: "http://data.europa.eu/eli/reg/1997/88/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1997-01-20
+entry_into_force: 1997-04-01
+last_amended: 2023-03-21
+consolidated_version: "01997R0088-20230321"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01997R0088-20230321"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 88/97 of 20 January 1997 on the authorization of the exemption of imports of certain bicycle parts originating in the People's Republic of China from the extension by Council Regulation (EC) No 71/97 of the anti-dumping duty imposed by Council Regulation (EEC) No 2474/93
+
+**COMMISSION REGULATION (EC) No 88/97**
+
+**of 20 January 1997**
+
+**on the authorization of the exemption of imports of certain bicycle parts originating in the People's Republic of China from the extension by Council Regulation (EC) No 71/97 of the anti-dumping duty imposed by Council Regulation (EEC) No 2474/93**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 512/2013 of 4 June 2013 </td><td> L 152</td><td>1</td><td>5.6.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2015/831 of 28 May 2015 </td><td> L 132</td><td>32</td><td>29.5.2015</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2020/1296 of 16 September 2020 </td><td> L 303</td><td>20</td><td>17.9.2020</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2023/611 of 17 March 2023 </td><td> L 80</td><td>67</td><td>20.3.2023</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 88/97**
+
+**of 20 January 1997**
+
+**on the authorization of the exemption of imports of certain bicycle parts originating in the People's Republic of China from the extension by Council Regulation (EC) No 71/97 of the anti-dumping duty imposed by Council Regulation (EEC) No 2474/93**
+
+## Article 1 — Definitions
+
+For the purpose of this Regulation:
+
+— ‘bicycle parts’ means bicycle parts and accessories falling within CN codes 8714 91 10 to 8714 99 90 ,
+
+— ‘extended duty’ means the anti-dumping duty imposed by Regulation (EEC) No 2474/93, as extended by Article 2 of Regulation (EC) No 71/97 (hereinafter ‘the Reference Regulation’), and as maintained by subsequent Regulations,
+
+— ‘essential bicycle parts’ means the bicycle parts defined in Article 1 of the Reference Regulation,
+
+— ‘assembly operation’ means an operation in which essential bicycle parts are brought in for the assembly or completion of bicycles or of bicycle parts,
+
+— ‘request’ means any step taken by a party carrying out assembly operations with a view to obtaining authorization for exemption from the Commission pursuant to Article 3,
+
+— ‘party under examination’ means a party carrying out assembly operations in respect of which an examination has been initiated pursuant to Article 4 (5) or Article 11 (1), and
+
+— ‘exempted party’ means any party whose assembly operations have been found to fall outside the scope of Article 13(2) of Regulation (EU) 2016/1036 ( 1 ) and which has been exempted pursuant to Article 7 or 12 of this Regulation,
+
+— ‘assembler’ means any party that performs an assembly operation,
+
+— ‘the remedial effects of the duty are being undermined’ as referred to in Article 13(2)(c) of Regulation (EU) 2016/1036, in terms of quantities, means that, on a monthly basis, sales of the products resulting from the assembly operations exceed 299 bicycles or 299 units of a single type of essential bicycle parts.
+
+## Article 2 — Exemption and suspension of imports from the extended duty
+
+1\. Imports of essential bicycle parts shall be exempt from the extended duty where:
+
+— they are declared for free circulation by, or on behalf of, an exempted party, or
+
+— they are declared for free circulation under the provisions on end-use control in Article 14.
+
+2\. The payment of the extended duty on imports of essential bicycle parts shall be suspended where they are declared for free circulation by, or on behalf of, a party under examination.
+
+## Article 3 — Request for exemption
+
+1\. Requests shall be made in writing in one of the official languages of the Union and must be signed by a person authorised to represent the applicant. The request must be sent to the following address:
+
+European Commission
+
+Directorate-General for Trade
+
+Directorate G Trade Defence
+
+Rue de la Loi/Wetstraat 200
+
+1049 Bruxelles/Brussel
+
+BELGIQUE/BELGIË
+
+Email: trade-bicycle-parts@ec.europa.eu
+
+2\. Upon receipt of a request, the Commission shall acknowledge receipt forthwith.
+
+## Article 4 — Admissibility of requests
+
+1\. A request shall be admissible where:
+
+(a) it contains evidence that the applicant is using essential bicycle parts for the production or assembly of bicycles or bicycle parts in quantities above the threshold set out in Article 14(c) or that the applicant has entered into an irrevocable contractual obligation to do so;
+
+(b) it provides prima facie evidence that the applicant’s assembly operations fall outside the scope of Article 13(2) of Regulation (EU) 2016/1036; and
+
+(c) the applicant has not, within the 36 months preceding the request, been refused authorisation of exemption pursuant to this Article or Article 7(3) or (4), or had an exemption revoked pursuant to Article 10.
+
+2\. A reasonable period may be prescribed for the submission of any additional information required for the determination of the admissibility of a request. Where such evidence is not forthcoming within the period specified, the request shall be considered inadmissible.
+
+3\. The admissibility of a request which is duly substantiated pursuant to paragraphs 1 and 2 shall normally be determined within 45 days of its receipt. The applicant shall first be given an opportunity to comment on the Commission's conclusions as to the admissibility of the request.
+
+4\. Where a request is held inadmissible, it shall be rejected by a Decision in accordance with the procedure referred to in Article 13(4) of Regulation (EU) 2016/1036.
+
+5\. Where a request is held admissible, an examination shall be initiated immediately and the applicant and the Member States shall be notified.
+
+## Article 5 — Suspension of payment of the duties
+
+1\. As from the date of receipt of a request that has been declared admissible pursuant to Article 4, and pending a decision on its merits pursuant to Articles 6 and 7, payment of the customs debt in respect of the extended duty pursuant to Article 2(1) of the Reference Regulation shall be suspended in respect of any imports of essential bicycle parts declared for free circulation by the party under examination. A period of not less than 6 months prior to the receipt of the request is taken into consideration in order to establish prima facie compliance with the conditions set out in Article 4(1) and (2).
+
+2\. The competent authorities of the Member States shall make the suspension of payment of the extended duty subject to the provision of a guarantee of the extended duty in accordance with Title III, chapter 2 of the Union Customs Code ( 2 ), in the event that the request is subsequently held inadmissible pursuant to Article 4(4), withdrawn pursuant to Article 7(5), or rejected pursuant to Article 7(3) or (4).
+
+## Article 6 — Examination of the request
+
+1\. The Commission will identify an investigation period in order to decide whether to grant an exemption which will normally cover a period of 12, but not less than 6 months as of the date of suspension of payment of the extended duty on essential bicycle parts. In conducting its examination, the Commission may request additional information from the applicant for the examination period and/or carry out on-the-spot verifications.
+
+2\. Any party under examination shall ensure that, at any time, essential bicycle parts which it declares for free circulation are either used in its assembly operations, or assembly of other products, destroyed, or re-exported. It shall keep records of the essential bicycle parts delivered to it – and of the use made of them. These records shall be retained for 5 years from the date of suspension. The records and any necessary additional evidence and information shall be communicated to the Commission upon request.
+
+3\. The examination of the merits of a request shall normally be concluded within 12 months after the receipt of all information as referred to in Article 6(1).
+
+4\. Before a decision is adopted pursuant to Article 7, the applicant shall be informed of the Commission's conclusions on the merits of the request and shall be given an opportunity to comment thereon.
+
+## Article 7 — Decision
+
+1\. Where the facts as finally ascertained show that the applicant’s assembly operations do not fall within the scope of Article 13(2) of Regulation (EU) 2016/1036, the applicant’s exemption from the extended duty shall be authorised in accordance with the procedure referred to in Article 13(4) of Regulation (EU) 2016/1036.
+
+2\. The decision shall have retroactive effect as from the date of receipt of the duly substantiated request referred to in Article 4(1). The applicant’s customs debt pursuant to Article 2(1) of the Reference Regulation shall be considered void from that date.
+
+3\. Where the criteria for exemption are not fulfilled, the request shall be rejected in accordance with the procedure referred to in Article 13(4) of Regulation (EU) 2016/1036 and the suspension of the payment of the extended duty referred to in Article 5 shall be lifted.
+
+4\. Any breach of obligations under Article 6(2) or any false declaration relating to a decision may constitute a reason for rejecting the request.
+
+5\. Where a request for exemption is withdrawn, it shall be considered not to have been lodged and the suspension of the payment of the extended duty referred to in Article 5 shall be lifted.
+
+## Article 8 — Obligations of exempted parties
+
+1\. An exempted party shall ensure that, at all times:
+
+(a) its assembly operations remain outside the scope of Article 13(2) of Regulation (EU) 2016/1036;
+
+(b) where it receives deliveries of essential bicycle parts which have been exempted from the extended duty pursuant to Article 2, those parts are either used in its assembly operations or assembly of other products, destroyed, re-exported, or resold to another exempted party.
+
+2\. An exempted party shall keep records of the essential bicycle parts of which it receives deliveries and of the use made of them. It shall retain those records and appropriate supporting evidence for 5 years. Those records shall be made available to the Commission on request.
+
+## Article 9 — Review
+
+1\. The Commission may on its own initiative review the situation of an exempted party to verify that it respects its obligations under Article 8, including any matters related thereto.
+
+2\. A review shall consist of an examination covering a period which may be shorter than 6 months.
+
+3\. A review shall be initiated by Commission regulation after informing Member States. As of the date of the initiation of the review, imports from the party under review shall be registered pursuant to Article 14(5) of the basic Regulation, to ensure that, should the review result in a revocation of the exemption, measures may subsequently be applied against those imports from the date of such registration.
+
+4\. If an exempted party engages in customs misdeclaration of essential bicycle parts of Chinese origin, the Commission may initiate a review within the meaning of the first paragraph.
+
+5\. Investigations shall be carried out by the Commission. The Commission may be assisted by customs authorities and the investigation shall be concluded by Commission regulation acting in accordance with the examination procedure referred to in Article 15(3) of Regulation (EU) 2016/1036.
+
+## Article 10 — Revocation of an exemption
+
+An exemption shall be revoked in accordance with the procedure referred to in Article 13(4) of Regulation (EU) 2016/1036, after the exempted party has been given an opportunity to comment:
+
+— where a review has shown that the exempted party’s assembly operations fall within the scope of Article 13(2) of Regulation (EU) 2016/1036, or
+
+— where the exempted party is not using essential bicycle parts for the assembly operations in quantities above the threshold set out in Article 14(c), including where the party has been wound up or has otherwise ceased its assembly operations, or
+
+— at any rate, in the event of a repeated customs misdeclaration of any bicycle part, or
+
+— in the event of a breach of the party’s obligations pursuant to Article 8, or
+
+— in the event of a lack of cooperation after the adoption of the exemption decision.
+
+## Article 11 — Pending requests
+
+1\. The requests of the parties listed in Annex I are admissible and examinations pursuant to Article 6 are hereby initiated.
+
+2\. The date of receipt within the meaning of Article 5 (1) of the requests referred to in paragraph 1 of this Article shall be deemed to be the date of entry into force of this Regulation.
+
+3\. Pending a decision on the merits of the requests of the parties listed in Annex I, the payment of the customs debt incurred for the extended duty pursuant to Article 2 of the Reference Regulation shall be suspended with effect from the date of the entry into force of that Regulation.
+
+4\. Decisions pursuant to Article 7 (2) in respect of the parties listed in Annex I shall have retroactive effect as from 20 April 1996. The applicant's customs debts in respect of the extended duty shall therefore be considered void from that date.
+
+## Article 12 — Exempted parties
+
+The parties listed in Annex II are hereby exempted from the extended duty with effect form 20 April 1996, or the day on which the exemption was granted by Commission decision, whichever is later.
+
+## Article 13 — Procedural provisions
+
+The relevant provisions of Regulation (EU) 2016/1036 concerning:
+
+— the conduct of investigations (Article 6(2), (3), (4) and (5)),
+
+— verification visits (Article 16),
+
+— non-cooperation (Article 18), and
+
+— confidentiality (Article 19),
+
+shall apply to examinations pursuant to this Regulation.
+
+## Article 14 — Exemption subject to end-use control
+
+Where imports of essential bicycle parts are declared for free circulation by a person other than an exempted party or a party under examination pursuant to Article 5, as from the date of entry into force of the Reference Regulation, they shall be exempted from the application of the extended duty if declared in accordance with the TARIC structure in Annex III and subject to the conditions laid down in Article 254 of the Union Customs Code, which shall be applicable mutatis mutandis, where:
+
+(a) the essential bicycle parts are delivered to a party exempted pursuant to Articles 7 or 12; or
+
+(b) the essential bicycle parts are delivered to another holder of an authorisation for the end-use procedure within the meaning of Article 254 of the Union Customs Code; or
+
+(c) on a monthly basis, less than 300 units per type of essential bicycle parts are, on average, either declared for free circulation by a party or are delivered to it. The time limit to calculate that average will not exceed 12 months, whereby the first period starts from the date of entry into force of the concerned end-use authorisation, and will in no case exceed its period of validity.  The number of parts declared by or delivered to any party shall be calculated by reference to the number of parts declared by or delivered to all parties which are associated with or have compensatory arrangements with that party; or
+
+(d) the essential bicycle parts are used in the assembly of cycles fitted with an auxiliary motor (TARIC additional code 8835) or of vehicles other than cycles, whether or not fitted with an auxiliary motor (TARIC additional code C549).
+
+## Article 15 — Special provision for parties receiving de minimis deliveries
+
+1\. The Commission or the competent authorities of the Member States may decide, on their own initiative, to examine parties which declare essential bicycle parts for free circulation or receive deliveries pursuant to Article 14 (c).
+
+2\. Where the parties referred to in paragraph 1 are found to have declared for free circulation or received deliveries of quantities of essential bicycle parts above the threshold set out in Article 14(c), or where they fail to cooperate with the examination, they shall no longer be presumed to fall outside the scope of Article 13(2) of Regulation (EU) 2016/1036, and any exemption authorisation granted to such parties shall be revoked retrospectively. After the party concerned has been given an opportunity to comment, those findings shall be notified to the competent authorities of the Member States.
+
+3\. Where the parties referred to in paragraph 1 abused Article 14 (c) in order to circumvent the extended duty, the extended duty not levied on any essential bicycle parts declared for free circulation by those parties or delivered to them after the entry into force of this Regulation shall  be reclaimed.
+
+## Article 16 — Exchange of information
+
+1\. The particulars of parties in respect of which an examination has been initiated pursuant to Article 4 or in respect of which a decision has been taken pursuant to Articles 7 or 10 shall be communicated to the competent authorities of the Member States.
+
+2\. A notice will be published, from time to time as appropriate, containing updated lists of parties under examination and exempted parties, which will also be communicated forthwith to any interested party upon demand.
+
+## Article 17 — Provisions on customs duties
+
+Unless otherwise specified, the provisions concerning customs duties shall apply.
+
+## Article 18 — Entry into force
+
+This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union  .
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I
+
+**Parties under examination**
+
+| TARIC additional code | Name | Address | Date of effect |
+| --- | --- | --- | --- |
+| C557 | Berria Bike SL | Calle Blasco de Garay 19, 02600 Villarrobledo, Spain | 30.3.2022 |
+| C720 | Propain Bicycles GmbH | Schachenstraße 39, 88267 Vogt, Germany | 1.7.2021 |
+| C860 | Profil Bicycles CZ s.r.o. | Hněvotín 31, 783 47 Hněvotín, Czechia | 20.2.2022 |
+| C863 | Decathlon Sp. Z.o.o. | ul. Geodezyjna 76, 03-290 Warszawa, Poland | 21.3.2022 |
+
+## ANNEX II
+
+**Updated list of exempted parties**
+
+| TARIC additional code | Name | Address | Date of effect |
+| --- | --- | --- | --- |
+| 8005 | Gruppo Bici S.p.A. | Via Pitagora 15, 47521 Cesena (FO), Italy | 27.2.1998 |
+| 8062 | Nikos Maniatopoulos S.A. | Kosti Palama & Solonos, 26504 Agios Vasileios-Patras, Greece | 22.1.1997 |
+| 8065 | Arcade Cycles | 78 Impasse Philippe Gozola ZA Acti Est Parc Eco, 85000 La Roche-sur-Yon, France | 27.1.1997 |
+| 8068 | Cicli Esperia S.p.a. | Viale Enzo Ferrari 8/10/12 30014 Cavarzere (VE), Italy | 30.1.1997 |
+| 8069 | Orbea S. Coop Ltd. | Poligono Industrial Goitondo s/n, 48269 Mallabia-Bizkaia, Spain | 31.1.1997 |
+| 8071 | Yakari S.p.A. | Via Kennedy 44, 25028 Verolanuova (BS), Italy | 6.2.1997 |
+| 8073 | Van den Berghe N.V. | Industriepark noord 24, 9100 Sint-Niklaas, Belgium | 11.2.1997 |
+| 8075 | Alpina di Montevecchi Manolo & C. s.a.s. | Via Archimede 485, 47521 Cesena (FO), Italy | 13.2.1997 |
+| 8078 | Jan Janssen Fietsen B.V. | Voltweg 11, 4631SR Hoogerheide, Netherlands | 19.2.1997 |
+| 8079 | F.I.V. Edoardo Bianchi S.p.A. | Via delle Battaglie 5, 24047 Treviglio (BG), Italy | 20.2.1997 |
+| 8080 | Etablissements Savoye et Cie | Rue de l’industrie, 01470 Serrières de Briord, France | 5.3.1997 |
+| 8081 | Scout s.n.c | Via Pogliano 36, 20020 Lainate (MI), Italy | 6.3.1997 |
+| 8082 | Órbita-Bicicletas Portuguesas Lda | Rua da Fonta Nova 616, Povoa da Carvalha, 3750-720 Recardães, Portugal | 12.3.1997 |
+| 8083 | Établissements René Valdenaire S.A. | Rue des Poncées, 88200Saint-les-Remiremont, France | 13.3.1997 |
+| 8084 | Schiano S.r.l. | Via Viggiano 44, 80020 Frattaminore (NA), Italy | 14.3.1997 |
+| 8085 | Decathlon Produzione Italia S.r.l. | Via Buonarroti 39, 20145 Milano, Italy | 3.4.1997 |
+| 8088 | Denver S.r.l. | Via Primo Maggio 32, 12025 Dronero (CN), Italy | 28.2.1997 |
+| 8091 | Azor Bike B.V. | Marconistraat 7a, 7903AG Hoogeveen, Netherlands | 30.6.1997 |
+| 8205 | Cicli Frera S.n.c. di Antonio e Vittorio Fontana & C. | Viale dell’industria 6, 35020 Arzergrande (PD), Italy | 18.2.1998 |
+| 8296 | Inter bike – Importação e Exportação Lda | Zona Industrial de Vagos Lote 27, PO Box 132, 3840 385 Vagos, Portugal | 17.6.1998 |
+| 8328 | Giant Europe Manufacturing B.V. | Pascallaan 66, 8218 Lelystad, Netherlands | 10.7.1997 |
+| 8330 | NV Minerva | Schoebroekstraat 38, 3583 Paal-Beringen, Belgium | 9.7.1997 |
+| 8489 | Cycle-Union GmbH | An der Schmiede 4, 26135 Oldenburg, Germany | 6.1.1998 |
+| 8490 | ZPG GmbH & Co. KG | Ludwig-Hüttner Straße 5-7, 95679 Waldershof, Germany | 16.3.1998 |
+| 8491 | Thompson | Lessensestraat 110, 9500 Geraardsbergen, Belgium | 22.4.1998 |
+| 8522 | Flanders NV | Daalkouterlaan 1, 9550 Herzele, Belgium | 30.9.1997 |
+| 8523 | Ghost-Bikes GmbH | An der Tongrube 3, 95652 Waldsassen, Germany | 19.9.1997 |
+| 8524 | Kurt Gudereit GmbH & Co. KG Fahrradfabrik | Am Strebkamp 14, 33607 Bielefeld, Germany | 22.9.1997 |
+| 8604 | Giubilato Cicli S.r.l. | Via Pavane 6/A, 36065 Mussolente (VI), Italy | 27.11.2003 |
+| 8605 | Cicli Elios S.r.l. (*) | Via G. Ferraris 996/1030, 45021 Badia Polesine (RO), Italy | 15.10.1998 |
+| 8609 | Koninklijke Gazelle N.V. | Wilhelminaweg 8, 6951BP Dieren, Netherlands | 29.6.2005 |
+| 8612 | Tecno Bike S.r.l. | Via del Lavoro 22, 61029 Canavaccio di Urbino (PU), Italy | 13.1.1999 |
+| 8624 | Berg Toys B.V. | Stevinlaan 2, 6716WB Ede, Netherlands | 12.3.1999 |
+| 8748 | All Bike’ s S.r.l. | Via Caduti sul Don 15, 12020 Villar S. Costanzo (CN), Italy | 28.10.1997 |
+| 8749 | Bikkel Bikes Group B.V. | Magnesiumstraat 45, 6031RV Nederweert, Netherlands | 18.11.1997 |
+| 8750 | Ludo N.V. | Karel Van Miertstraat 7, 3070 Kortenberg, Belgium | 24.11.1997 |
+| 8767 | Planet’Fun S.A. | les 4 chevaliers, Rond-point de la Republique, 17180 Périgny, France | 12.2.1998 |
+| 8768 | Cyclopodilatiki S.A. | Minotaurou 16, 54627 Thessaloniki, Greece | 9.2.1998 |
+| 8973 | Fahrradfabrik Schauff GmbH & Co. KG | Wässerscheidt 56, 53424 Remagen, Germany | 24.1.1997 |
+| 8979 | W.S.B. Hi-Tech Bicycle Europe B.V. | De Roef 15, 9206AK Drachten, Netherlands | 5.2.1997 |
+| 8981 | Olmo Giuseppe S.p.A. | Via Poggi 22, 17015 Celle Ligure (SV), Italy | 6.7.1998 |
+| 8983 | Mandelli s.r.l. | Via Tommaso Grossi 5, 20841 Carate Brianza (MB), Italy | 12.2.1997 |
+| A045 | Simplon Fahrrad GmbH | Oberer Achdamm 22, 6971 Hard, Austria | 29.9.1999 |
+| A087 | Bottecchia Cicli S.r.l. | Viale Enzo Ferrari, 15/17 30014 Cavarzere (VE), Italy | 10.8.2005 |
+| A088 | Cicli Adriatica S.r.l. Uninominale | Via Toscana 13, 61122 Pesaro (PS), Italy | 14.12.1999 |
+| A090 | Intersens Bikes & Parts B.V. | Bedrijvenpark Twente 170, 7602KE Almelo, Netherlands | 10.12.1999 |
+| A162 | Fratelli Zanoni S.r.l. | Via Castiglioni 27, 20010 Arluno (MI), Italy | 7.3.2000 |
+| A163 | Speedcross s.r.l. | Corso Italia 20, 20020 Vanzaghello (MI), Italy | 30.3.2000 |
+| A167 | Cicli Olympia S.r.l. | Via Galileo Galilei 12/A, 35028 Piove di Sacco (PD), Italy | 30.5.2000 |
+| A168 | EGC s.r.l. | Corso Ventidue Marzo 32/1, 20135 Milano (MI), Italy | 19.5.2000 |
+| A172 | Lenardon Lida | Via Provinciale 5, 33098 San Martino al Tagliamento (PN), Italy | 3.5.2000 |
+| A201 | Kokotis A. Bros S.A. | 5th klm of Larissa-Falani, 41500 Larissa, Greece | 3.7.2000 |
+| A221 | GTA My Bicycle s.a.a. | Via Borgo Rossi 22, 35028 Piove di Sacco (PD), Italy | 5.12.2001 |
+| A227 | IKO Sportartikel Handels GmbH | Kufsteiner Strasse 72, 83064 Raubling, Germany | 7.9.2000 |
+| A231 | Velomarche di Giunta Giancarlo & C. s.n.c. | Via Piemonte 5/7, 61022 fraz. Montecchio, Vallefoglia (PS), Italy | 13.12.2000 |
+| A232 | Fabbrica Biciclette Trubbiani S.r.l. | Via Arno,1, Santa Maria in Selva, 62010 Treia (MC), Italy | 3.1.2001 |
+| A233 | VICINI di Vicini Ottavio e Figli s.n.c. | via dell’Artigianato 284, 47521 Cesena (FO), Italy | 1.1.2000 |
+| A247 | AT Zweirad GmbH | Zur Steinkuhle 2, 48341 Altenberge, Germany | 15.1.2001 |
+| A249 | F.A.R.A.M. S.r.l. | Località Nucleo Industriale, 02015 Cittaducale (RI), Italy | 22.2.2001 |
+| A271 | Cicli Lombardo S.p.A. | Via Roma 223, 91012 Buseto Palizollo (TP), Italy | 23.5.2001 |
+| A288 | Paul Lange & Co. OHG | Hofener Strasse 114, 70372 Stuttgart, Germany | 27.4.2000 |
+| A320 | RGVS Ibérica Unipessoal Lda | Rua Central de Mandim- Barca, Castelo da Maia, 4475-023 Maia, Portugal | 22.5.2001 |
+| A326 | Cicli Casadei S.r.l. | Via dei Mestieri 23, 44020 fraz. San Giuseppe, Comacchio (FE), Italy | 1.1.2002 |
+| A327 | Dino Bikes S.p.A. | Via Cuneo 11, 12011 Borgo San Dalmazzo (CN), Italy | 1.1.2002 |
+| A346 | Diamant Fahrradwerke GmbH | Schönaicher Straße 1, 09232 Hartmannsdorf, Germany | 1.9.2001 |
+| A359 | Biciclasse C.S. S.r.l. | Localita’ Staglioni Area Industriale SNC, 84020 Oliveto Citra (SA), Italy | 1.3.2002 |
+| A360 | G.F.M. Bike di Franco Ingarao | Contrada Consolazione, 94011 Agira (EN), Italy | 18.3.2002 |
+| A377 | F.A.A.C. s.n.c. di Sbrissa F.lli & C. | Via Monte Antelao 11, 31037 Loria (TV), Italy | 23.4.2002 |
+| A384 | Toim S.L. | Calle Rio Jarama 90, Poligono Industrial de Toledo 45007 Toledo, Spain | 7.5.2002 |
+| A402 | Cicli Roveco di Veronese Paolo & C. s.a.s. | Via Umberto I 508, 45023 Costa Di Rovigo (RO), Italy | 12.1.2002 |
+| A403 | Telai Olagnero S.r.l. | Strada Valle Maira 141, 12020 Roccabruna (CN), Italy | 18.7.2002 |
+| A407 | Sangal – Indústria de Veículos Lda | Rua do Serrado, Apartado 21, 3781-908 Sangalhos, Portugal | 15.10.2001 |
+| A412 | Atala S.p.A. | Via della Guerrina 108, 20900, Monza (MB), Italy | 23.9.2002 |
+| A413 | Norta N.V. | Stradsestraat 39, 2250 Olen, Belgium | 24.9.2002 |
+| A415 | Böttcher Fahrräder GmbH | Waldstraße 3, 25746 Wesseln, Germany | 7.3.2001 |
+| A432 | Star Due S.r.l. | Via De Gasperi 55, 31010 fraz. Coste, Maser (TV), Italy | 31.1.2003 |
+| A436 | Motomur S.L. | Avda. Castillo de la asomada 6, 30120 El Palmar (Murcia), Spain | 11.2.2003 |
+| A445 | Star Ciclo, Montagem Comercializaçaõ de Bicicletas Lda | Zona industrial de Barro 402, 3750-353 Águeda, Portugal | 13.5.2003 |
+| A469 | Kettler Alu-Rad GmbH | Longericher Straße 2, 50739 Köln, Germany | 20.6.2003 |
+| A485 | SFM GmbH | Strawinskystraße 27b, 90455 Nürnberg, Germany | 4.6.2003 |
+| A487 | IMACYCLES – Acessorios Para Bicicletas e Motociclos Lda | Zona Industrial de Oiã, Apartado 117 Lote 5, Oiã 3770 059 Oliveira do Bairro, Portugal | 25.9.2003 |
+| A500 | Bicicletas de Castilla y León S.L. | Barrio Gimeno 5, 09001 Burgos, Spain | 9.10.2003 |
+| A533 | Special Bike Società Cooperativa | Via Nizza 20, 71042, Cerignola (FG), Italy | 22.1.2008 |
+| A534 | Accell Hunland Kft. | Parkoló tér 1, 5091 Tószeg, Hungary | 1.5.2004 |
+| A535 | BELVE s.r.o. | Holubyho 295, 916 01 Stará Turá, Slovakia | 4.5.2004 |
+| A536 | Bike Fun International s.r.o. | Areál Tatry 1445/2, 74221 Kopřivnice, Czechia | 1.5.2004 |
+| A537 | BPS Bicycle Industrial s.r.o. | Šumavská 779/2, 787 01 Šumperk, Czechia | 1.5.2004 |
+| A539 | IB Sp. z o.o. Zakład Pracy Chronionej | ul. Miłośników Podhala 1, 34-425 Biały Dunajec, Poland | 1.5.2004 |
+| A540 | Ideal Europe Sp. z.o.o. | Ul. Bohaterów walk nad bzurą 2, 99-300 Kutno, Poland | 1.5.2004 |
+| A542 | Biuro Ekonomiczno-Handlowe Jan Zasada Sp. z o.o. | ul. Fabryczna 6, 98-300 Wieluń, Poland | 1.5.2004 |
+| A543 | KROSS S.A. | ul. Leszno 46, 06-300 Przasnysz, Poland | 1.5.2004 |
+| A545 | Neuzer Kerékpar Kereskedelmi és Szolgáltató Kft. | Mátyás király u. 45, 2500 Esztergom, Hungary | 1.5.2004 |
+| A546 | OLPRAN Spol. s.r.o. | Libušina 526/101, 772-11 Olomouc- Chválkovice, Czechia | 1.5.2004 |
+| A547 | UAB Baltik Vairas | Pramonės g. 3, 78138 Śiauliai, Lithuania | 1.5.2004 |
+| A548 | FHMM Sp. z o.o. | ul. Ciecholowicka 29, 55-120 Oborniki Śląskie, Poland | 1.5.2004 |
+| A551 | Kellys Bicycles s.r.o. | Slnečná cesta 374, 922 01 Veľké Orvište, Slovakia | 1.5.2004 |
+| A552 | Master Bike s.r.o. | Sadová 2205/2, 789 01 Zábřeh, Czechia | 1.5.2004 |
+| A553 | Novus Bike s.r.o. | Vančurova 2985/20, 746 01 Předměstí Opava, Czechia | 1.5.2004 |
+| A554 | Olimpia Kerékpár Kft. | Ostorhegy u 4, 1164 Budapest, Hungary | 1.5.2004 |
+| A555 | Csepel Bicycle Manufacturing and Sales Company LTD | Duna Lejáró 7, 1211 Budapest, Hungary | 1.5.2004 |
+| A556 | UNIBIKE K. Orłowska, P. Drobotowski Sp.J. | ul. Przemysłowa 28B, 85-758 Bydgoszcz, Poland | 1.5.2004 |
+| A557 | KENZEL s.r.o. | Novozámocká 182, 94701 Hurbanovo, Slovakia | 1.5.2004 |
+| A558 | 4EVER s.r.o. | Moravská 842, Butovice, 742 13 Studénka, Czechia | 1.5.2004 |
+| A565 | Romet Sp. z o.o. | Podgrodzie 32 C, 39-200 Dębica, Poland | 1.6.2005 |
+| A566 | Zweirad Paulsen | Industriestraße 30, 49565, Bramsche, Germany | 22.6.2004 |
+| A571 | Sprick Rowery Sp. z o.o. | ul. Zachodnia 76, 66-200 Świebodzin, Poland | 7.6.2004 |
+| A576 | N.V. Race Productions (*) | Beverlosesteenweg 85, 3583 Beringen, Belgium | 15.9.2004 |
+| A586 | Tolin Przedsiebiorstwo Prywatne Jerzy Topolski | Łeg Witoszyn 5a, 87-811 Fabianki, Poland | 10.9.2004 |
+| A589 | Bike Mate s.r.o. | Dlhá 248/43, 905 01 Senica, Slovakia | 8.10.2004 |
+| A605 | Bohemia Bike a.s. | Pujmanové 1753/10a Nusle, 140 00 Praha 4, Czechia | 8.11.2004 |
+| A616 | Koliken MAGYAR-CSEH és SZLOVÁK Kereskedelmi Korlátolt Felelősségű Társaság | Széchenyi u. 103, 6400 Kiskunhalas, Hungary | 8.11.2004 |
+| A630 | CULT d.o.o. | Tržaška cesta 77, 1370 Logatec, Slovenia | 24.1.2005 |
+| A662 | CREDAT Holding a.s. | Priemyselný areál 3415, 946 03 Kolárovo, Slovakia | 10.2.2005 |
+| A664 | Maxbike s.r.o. | Svatoplukova 2771/1, 700 30 Vitkovice, Ostrava, Czechia | 3.1.2005 |
+| A668 | PFIFF Vertriebs GmbH | Wilhelmstrasse 49-51, 49610 Quakenbrück, Germany | 6.4.2005 |
+| A686 | Cycling Sports Group Europe B.V. | Hanzepoort 27, 7575DB Oldenzaal, Netherlands | 21.6.2005 |
+| A697 | Artur Nowak Firma Wielobranż Mexller | ul. Romera 4/20, 42-215 Częstochowa, Poland | 22.9.2005 |
+| A726 | Unibike OEM Factory S.A. | Zona Industrial de Oiã Lote C21, Oiã 3770 059 Oliveira do Barrio, Portugal | 10.11.2005 |
+| A730 | Alubike – Bicicletas S.A. | Zona Industrial de Aveiro Sul, lote 11, Mamodeiro, Aveiro Concelho, Freguesia, 3810 783 Aveiro, Portugal | 12.12.2005 |
+| A732 | Bonaventure BVBA | Stoomtuigstraat 16, 8830 Hooglede, Belgium | 19.1.2006 |
+| A737 | Prestige Rijwielen N.V. | Zuiderdijk 25, 9230 Wetteren, Belgium | 16.2.2006 |
+| A745 | Skeppshultcykeln AB | Storgatan 78, 333 03 Skeppshult, Sweden | 29.3.2005 |
+| A746 | TRENGA DE Vertriebs GmbH | Großmoordamm 63-67, 21079 Hamburg, Germany | 10.5.2006 |
+| A774 | Stevens Vertriebs GmbH | Asbrookdamm 35, 22115 Hamburg, Germany | 3.7.2006 |
+| A776 | Ing. Jaromír Březina | Foglarova 2896/11, 787 01 Šumperk, Czechia | 20.7.2006 |
+| A777 | Goldbike – Industria de Bicicletas Lda | Rua das Flores, 3780 594 Poutena-Vilarinho do Bairro, Anadia, Portugal | 9.8.2006 |
+| A778 | Puky GmbH & Co. KG | Fortunastraße 11, 42489 Wülfrath, Germany | 21.8.2006 |
+| A781 | Look Cycle International S.A. | 27 rue du Docteur Léveillé, 58000 Nevers, France | 14.9.2006 |
+| A794 | TG Supplies GmbH | Gablonzer Straße 10, 76185 Karlsruhe, Germany | 6.11.2006 |
+| A810 | CROSS Ltd | Hadji Dimitar Street 1, 3400 Montana, Bulgaria | 1.1.2007 |
+| A811 | Balkanvelo AD | Mizia Boulevard 1, 5500 Lovech, Bulgaria | 1.1.2007 |
+| A812 | Maxcom | Golyamokonarsko Shose Str. 1, 4204 Tsaratsovo, Plovdiv, Bulgaria | 1.1.2007 |
+| A813 | Leader-96 Ltd | Sedyanka 19, 4003 Plovdiv, Bulgaria | 1.1.2007 |
+| A814 | Velomania Ltd | Dimitar Nestorov Street bl. 120, 1612 Sofia, Bulgaria | 1.1.2007 |
+| A815 | Robifir Bike Ltd. | Kosta Bosilkov Street 3A, 2700 Blagoevgrad, Bulgaria | 1.1.2007 |
+| A817 | Eurosport DHS SA | Santuhalm Street 35A, 330004 Judet Hunedoara Deva, Romania | 1.1.2007 |
+| A824 | Fratelli Schiano S.r.l. | Via Ferdinando Del Carretto 26, 80133 Napoli, Italy | 31.1.2007 |
+| A825 | Helkama Velox Oy | Santalantie 22, 10960 Hanko Pohjoinen, Finland | 29.1.2007 |
+| A826 | Rijwielen en bromfietsen L’Avenir | Posthoornstraat 1, 2500 Lier, Belgium | 21.3.2007 |
+| A838 | KOVL spol. sro | Choceradská 3042/20, 14100 Praha 4, Czechia | 29.3.2007 |
+| A849 | Euro Bike Products | ul. Ostrowska 498, 498A, 61-324 Poznań, Poland | 6.8.2007 |
+| A850 | Radsportvertrieb Ditmar Bayer GmbH | Zum Acker 1, 56244 Freirachdorf, Germany | 25.6.2007 |
+| A856 | Canyon Bicycles GmbH | Karl-Tesche-Straße 12, 56073 Koblenz, Germany | 4.12.2007 |
+| A894 | Winora Staiger GmbH | Max-Planck-Straße 6, 97526 Sennfeld, Germany | 19.1.1997 |
+| A896 | S.C. Madirom Prod S.r.l. | Bd. Liviu Rebreanu nr. 130, 300748 Timișoara, Timiș, Romania | 11.8.2008 |
+| A897 | ROSE Bikes GmbH | Schersweide 4, 46395 Bocholt, Germany | 16.9.2008 |
+| A963 | Wilier Triestina S.p.A. | Via Fratel M. Venzo 11, 36028 Rossano Veneto (VI), Italy | 3.11.2009 |
+| A966 | Skilledbike Sp. z o.o. | Brzezna 420, 33-386 Podegrodzie, Poland | 22.1.2010 |
+| A967 | Unicykel AB | Aröds Industriväg 14, 422 43 Hisings Backa, Sweden | 11.1.2010 |
+| A968 | JETLANE S.A.S. | 4 boulevard de Mons, 59650 Villeneuve d’Ascq, France | 18.2.2010 |
+| A970 | Sintema Sport S.r.l. | Via delle Valli 7, 20847 Albiate (MB), Italy | 22.2.2010 |
+| A979 | New Metelli di Metelli Maria Rosa & C. s.a.s. | Via Trento 68, 25030 Trenzano (BS), Italy | 13.4.2010 |
+| A984 | Blue Factory Team S.L. | Calle Nicolás Copérnico 4, Elche Parque Empresarial, 03203 Elche-Alicante, Spain | 16.7.2010 |
+| A991 | Maxtec Ltd | Golyamokonarsko shose Str. 1, 4204 Tsaratsovo, Plovdiv, Bulgaria | 15.10.2010 |
+| A993 | Kwasny & Diekhöner GmbH | Herforder Straße 331, 33609 Bielefeld, Germany | 5.7.2011 |
+| B294 | Etablissements Th. Brasseur S.A. | Rue des Steppes 13, 4000 Liège, Belgium | 29.5.2012 |
+| B934 | C2g-engineering GmbH | Schlesische Straße 27, 10997, Berlin, Germany | 16.12.2013 |
+| B935 | Longway Poland Sp. z o.o. | ul. Parzniewska 4a, 05-800, Pruszków, Poland | 16.12.2013 |
+| B936 | BBF Bike GmbH | Carena Allee 8, 15366, Hoppegarten, Germany | 14.1.2014 |
+| B940 | Solo International Oy | Komeetankatu 1, 02210 Espoo, Finland | 26.7.2013 |
+| B960 | In Cycles – Montagem e Comércio de Bicicletas Lda | Zona Industrial de Barrô Norte/Sul, N.o 976, Fracçao A/B e D, AP. 52, 3750-353 Barrô Águeda, Portugal | 2.5.2014 |
+| B963 | Panex Dinamic d.o.o. | Dr.Tome Bratkoviča 1, 40000 Čakovec, Croatia | 13.8.2014 |
+| C001 | Cicli Europa S.r.l. | 34 Via Portella Bifuto, 93017 San Cataldo (CL), Italy | 10.11.2014 |
+| C002 | OLYMPIQUE SARL | ZA Les Epalits, 42610 Saint-Romain-le-Puy, France | 28.10.2014 |
+| C003 | Interbike Spólka z o.o. | ul. Śląska 6/5, 42-200 Częstochowa, Poland | 18.12.2014 |
+| C004 | Accell Nederland B.V. | Industrieweg 4, 8444AR Heerenveen, Netherlands | 20.4.1996 |
+| C005 | Cycles France Loire | Avenue de l’industrie, 42160 Saint-Cyprien, France | 20.4.1996 |
+| C006 | Cycles Lapierre | 6-10 Rue Edmond Voisenet, 21000 Dijon Cedex, France | 28.1.1997 |
+| C007 | Cycleurope Industries | 161 Rue Gabriel Péri, 10100 Romilly-sur-Seine, France | 20.4.1996 |
+| C008 | Cycleurope Sverige AB (mentioned as Monrak Crescent) | c/o Monark AB, 432 82 Varberg, Sweden | 19.1.1997 |
+| C009 | Derby Cycle Werke GmbH (*) | Siemensstraße 1-3, 49661 Cloppenburg, Germany | 19.1.1997 |
+| C010 | Engelbert Meyer GmbH | Hauptstraße 31, 49692 Cappeln, Germany | 19.1.1997 |
+| C011 | Esmaltina – Auto ciclos S.A. | Rua do Salgueiro 47, 3780-103 Sangalhos, Portugal | 27.1.1997 |
+| C012 | Fratelli Masciaghi S.p.A. | Via Gramsci 10, 20900 Monza (MB), Italy | 29.1.1997 |
+| C013 | KTM Fahrrad GmbH | Harlochner straß 13, 5230 Mattighofen, Austria | 30.1.1997 |
+| C014 | Manufacture Française Du Cycle | 27 rue Marcel Brunelière, 44270 Machecoul, France | 20.4.1996 |
+| C015 | MBM S.r.l. | Via Emilia Levante 1671/73/75, 47521 Cesena (FC), Italy | 29.1.1997 |
+| C016 | Montana S.r.l. | Via Domenico Rossi 70, 12060 Magliano Alpi (CN), Italy | 30.1.1997 |
+| C017 | Panther International GmbH | Alter Postweg 190, 32584 Löhne, Germany | 20.4.1996 |
+| C018 | Promiles | 4 Boulevard de Mons, 59650 Villeneuve d’Ascq, France | 20.4.1996 |
+| C019 | Prophete GmbH & Co. KG | Lindenstrasse 50, 33378 Rheda-Wiedenbrück, Germany | 19.1.1997 |
+| C020 | TNT Cycles S.L. | C/Mosquerola 61-63, 17180 Vilablareix (Girona), Spain | 19.1.1997 |
+| C021 | Kuisle & Kuisle GmbH | Gewerbe Straße 14, 87675 Stötten, Germany | 17.2.2015 |
+| C053 | Trans- Rower Roman Tylec | Dąbie 54d, 39-311 Zdziarzec, Poland | 1.7.2015 |
+| C102 | Uno Bike B.V. | Bovendijk 213, 3045PD Rotterdam, Netherlands | 24.11.2015 |
+| C128 | Slavomir Sladek Velosprint S | Trnavská 40, 949 01, Nitra, Slovakia | 14.4.2016 |
+| C202 | Vanmoof B.V. | Mauritskade 55, 1092AD Amsterdam, Netherlands | 1.1.2018 |
+| C307 | Merida Polska Sp. Z o.o. | ul. M.C. Skłodowskiej 35, 41-800 Zabrze, Poland | 14.6.2017 |
+| C311 | Juan Luna Cabrera | Calle Alhama 64, 14900 Lucena (Cordoba), Spain | 4.10.2017 |
+| C481 | FJ Bikes Europe Unipessoal, Lda | Praça do Município 8, Sala 1D, 3750 111 Águeda, Portugal | 8.5.2018 |
+| C492 | MOTOKIT Veiculos e Acessórios Lda | Rua Alto do Vale do Grou 36 3750-870 Borralha/Águeda, Portugal | 25.9.2020 |
+| C527 | FIRMA ADAM Adam Ziętek | Muchy 56, 63-524 Czajków, Poland | 29.8.2019 |
+| C559 | Northtec sp. z.o.o. | ul. Dworcowa 15a, 43-502 Czechowice-Dziedzice, Poland | 27.7.2020 |
+| C560 | Giant Gyártó Hungary Kft. | Jedlik Ányos utca 1, 3200 Gyöngyös, Hungary | 15.7.2020 |
+
+## ANNEX III
+
+**TARIC structure**
+
+<table>
+<tbody><tr><td>8714 91 10 </td><td>– – – Frames:</td></tr>
+<tr><td>  </td><td>– – – – Painted, anodized, polished and/or lacquered:</td></tr>
+<tr><td>  </td><td>– – – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month, or  — to be transferred to another holder of an end-use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714911021 </td><td>– – – – – – Constructed from carbon fibres and artificial resin, for use in the manufacture of bicycles (including e-bikes)</td></tr>
+<tr><td>8714911025 </td><td>– – – – – – Frame, constructed from aluminium or aluminium and carbon fibres and artificial resin, for the use in the manufacture of bicycles (including electric bicycles)</td></tr>
+<tr><td>8714911029 </td><td>– – – – – – Other</td></tr>
+<tr><td>  </td><td>– – – – – Other (2)(3)</td></tr>
+<tr><td>8714911031 </td><td>– – – – – – Constructed from carbon fibres and artificial resin, for use in the manufacture of bicycles (including e-bikes)</td></tr>
+<tr><td>8714911035 </td><td>– – – – – – Frame, constructed from aluminium or aluminium and carbon fibres, for the use in the manufacture of bicycles (including e-bikes)</td></tr>
+<tr><td>8714911039 </td><td>– – – – – – Other</td></tr>
+<tr><td>  </td><td>– – – – Other</td></tr>
+<tr><td>8714911070 </td><td>– – – – – Frame, constructed from aluminium or aluminium and carbon fibres, for the use in the manufacture of bicycles (including e-bikes)</td></tr>
+<tr><td>8714911075 </td><td>– – – – – Constructed from carbon fibres and artificial resin, for use in the manufacture of bicycles (including e-bikes)</td></tr>
+<tr><td>8714911089 </td><td>– – – – – Other</td></tr>
+<tr><td>8714 91 30 </td><td>– – – Front forks:</td></tr>
+<tr><td>  </td><td>– – – – Painted, anodized, polished and/or lacquered:</td></tr>
+<tr><td>  </td><td>– – – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month; or  — to be transferred to another holder of an end–use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714913025 </td><td>– – – – – –Front forks, except rigid (non–telescopic) front forks made entirely of steel, for use in the manufacture of bicycles (including electric bicycles)</td></tr>
+<tr><td>8714913029 </td><td>– – – – – –Other</td></tr>
+<tr><td>  </td><td>– – – – – Other (2)(3)</td></tr>
+<tr><td>8714913035 </td><td>– – – – – –Front forks, except rigid (non–telescopic) front forks made entirely of steel, for use in the manufacture of bicycles (including electric bicycles)</td></tr>
+<tr><td>8714913039 </td><td>– – – – – –Other</td></tr>
+<tr><td>  </td><td>– – – – Other</td></tr>
+<tr><td>8714913072 </td><td>– – – – –Front forks, except rigid (non-telescopic) front forks made entirely of steel, for use in the manufacture of bicycles (including electric bicycles)</td></tr>
+<tr><td>8714913089 </td><td>– – – – –Other</td></tr>
+<tr><td>  </td><td>– – – Free-wheel sprocket-wheels:</td></tr>
+<tr><td>8714930011 </td><td>– – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month, or  — to be transferred to another holder of an end-use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714930019 </td><td>– – – – Other (2)(3)</td></tr>
+<tr><td>  </td><td>– – – – Other brakes:</td></tr>
+<tr><td>8714942091 </td><td>– – – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month, or  — to be transferred to another holder of an end-use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714942099 </td><td>– – – – – Other (2)(3)</td></tr>
+<tr><td>8714 94 90 </td><td>– – – Parts:</td></tr>
+<tr><td>  </td><td>– – – – Brake levers:</td></tr>
+<tr><td>8714949011 </td><td>– – – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month, or  — to be transferred to another holder of an end-use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714949019 </td><td>– – – – – Other (2)(3)</td></tr>
+<tr><td>8714949090 </td><td>– – – – Other</td></tr>
+<tr><td>8714 96 30 </td><td>– – – Crank-gear:</td></tr>
+<tr><td>8714963010 </td><td>– – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month, or  — to be transferred to another holder of an end-use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714963090 </td><td>– – – – Other (2)(3)</td></tr>
+<tr><td>8714 99 10 </td><td>– – – Handlebars:</td></tr>
+<tr><td>  </td><td>– – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month, or  — to be transferred to another holder of an end-use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714991020 </td><td>– – – – – Bicycle handlebars: — with or without integrated stem,  — either made out of carbon fibres and synthetic resin or made of aluminium, for use in the manufacture of bicycles (including electric bicycles) </td></tr>
+<tr><td>8714991029 </td><td>– – – – – Other</td></tr>
+<tr><td>  </td><td>– – – – Other (2)(3)</td></tr>
+<tr><td>8714991089 </td><td>– – – – – Bicycle handlebars: — with or without integrated stem,  — either made out of carbon fibres and synthetic resin or made of aluminium, for use in the manufacture of bicycles (including electric bicycles) </td></tr>
+<tr><td>8714991099 </td><td>– – – – – Other</td></tr>
+<tr><td>8714 99 50 </td><td>– – – Derailleur gears:</td></tr>
+<tr><td>  </td><td>– – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month, or  — to be transferred to another holder of an end-use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714995011 </td><td>– – – – – Derailleur gears, consisting of: — rear derailleur and mounting articles,  — with or without front derailleur, for use in the manufacture of bicycles (including electric bicycles) </td></tr>
+<tr><td>8714995019 </td><td>– – – – – Other</td></tr>
+<tr><td>  </td><td>– – – – Other (2)(3)</td></tr>
+<tr><td>8714995091 </td><td>– – – – Derailleur gears, consisting of: — rear derailleur and mounting articles,  — with or without front derailleur, for use in the manufacture of bicycles (including electric bicycles) </td></tr>
+<tr><td>8714995099 </td><td>– – – – – Other</td></tr>
+<tr><td>8714 99 90 </td><td>– – – Other, parts:</td></tr>
+<tr><td>  </td><td>– – – – Complete wheels with or without tubes, tyres and sprockets:</td></tr>
+<tr><td>8714999011 </td><td>– – – – – Originating in or consigned from China: (1) — in quantities below 300 units per month or to be transferred to a party in quantities below 300 units per month, or  — to be transferred to another holder of an end-use authorisation or to exempted parties (2) </td></tr>
+<tr><td>8714999019 </td><td>– – – – – Other (2)(3)</td></tr>
+<tr><td>8714999030 </td><td>– – – – Seat posts, for use in the manufacture of bicycles (including electric bicycles)</td></tr>
+<tr><td>8714999040 </td><td>– – – – Stem for bicycle handlebars, for use in the manufacture of bicycles (including electric bicycles)</td></tr>
+<tr><td>8714999089 </td><td>– – – – Other</td></tr>
+<tr><td colspan="2">(1)  The rules for end-use control (Article 254 of Regulation No 952/2013) shall apply mutatis mutandis.  (2)  The exempted parties whose assembly operations do not constitute circumvention since they fall outside the scope of Article 13(2) of Regulation (EU) 2016/1036 are the following: (see Annex II).  (3)  The parties under examination concerning the criteria of Article 13(2) of Regulation (EU) 2016/1036, for which the anti-dumping duty is suspended pending a Commission decision and from which a security shall be requested by the competent authorities of the Member States, are the following: (see Annex I). </td></tr>
+</tbody>
+</table>
+
+( 1 ) Regulation (EU) 2016/1036 of the European Parliament and of the Council of 8 June 2016 on protection against dumped imports from countries not members of the European Union (OJ L 176, 30.6.2016, p. 21).
+
+( 2 ) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (OJ L 269, 10.10.2013, p. 1).

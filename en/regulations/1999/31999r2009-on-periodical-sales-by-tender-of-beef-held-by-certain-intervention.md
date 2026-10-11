@@ -1,0 +1,235 @@
+---
+title: "Commission Regulation (EC) No 2009/1999 of 20 September 1999 on periodical sales by tender of beef held by certain intervention agencies for export and repealing Regulation (EC) No 1587/1999"
+identifier: "31999R2009"
+eli: "http://data.europa.eu/eli/reg/1999/2009/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 1999-09-20
+entry_into_force: 1999-03-09
+last_amended: 1999-09-22
+consolidated_version: "01999R2009-19990922"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:01999R2009-19990922"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 2009/1999 of 20 September 1999 on periodical sales by tender of beef held by certain intervention agencies for export and repealing Regulation (EC) No 1587/1999
+
+This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents COMMISSION REGULATION (EC) No 2009/1999 of 20 September 1999 onperiodicalsalesbytenderofbeefheldbycertaininterventionagenciesforexportandrepealing Regulation (EC) No 1587/1999 (OJ L 248, 21.9.1999, p. 15) Amended by:
+
+Official Journal No page date Commission Regulation (EC) No 2753/1999 of 22 December 1999 L 331 35 23.12.1999 COMMISSION REGULATION (EC) No 2009/1999 of 20 September 1999 on periodical sales by tender of beef held by certain intervention agencies for export and repealing Regulation (EC) No 1587/1999 THE COMMISSION OF THE EUROPEAN COMMUNITIES, Havingreg ard to the Treaty establishingthe European Community,
+
+Having regard to Council Regulation (EEC) No 805/68 of 27 June 1968 on the common organisation of the market in beef and veal (1), as last amended by Regulation (EC) No 1633/98 (2), and in particular Article 7(3) thereof,
+
+(1) Whereas the application of intervention measures in respect of beef has resulted in a build-up of stocks in several Member States; whereas outlets for those products exist in certain third countries; whereas, in order to prevent storage being prolonged excessively, part of those stocks should be put up for sale by periodical tender for export to those countries; whereas, in order to ensure that the products sold are of a uniform quality, the meat put up for sale should have been bought in pursuant to Article 6 of Regulation (EEC) No 805/68;
+
+(2) Whereas the sale should be conducted in accordance with Commission Regulation (EEC) No 2173/79 of 4 October 1979 on detailed rules of application for the disposal of beef bought in by intervention agencies (3), as last amended by Regulation (EC) No 2417/95 (4), and in particular Titles II and III thereof, and Commission Regulation (EEC) No 3002/92 of 16 October 1992 layingdown common detailed rules for verifyingthe use and/or destination of products from intervention (5), as last amended by Regulation (EC) No 770/96 (6), subject to certain special exceptions on account of the particular use to which the products in question are to be put;
+
+(3) Whereas, in order to ensure that the sales by tender are conducted properly and uniformly, measures in addition to those provided for in Article 8(1) of Regulation (EEC) No 2173/79 should be adopted;
+
+(4) Whereas provision should be made for derogations from Article 8(2)(b) of Regulation (EEC) No 2173/79 in view of the administrative difficulties which the application of that point is creating in the Member States concerned; whereas, with a view to better stock management, the Member States should be able to stipulate only certain cold stores or parts thereof for deliveries of the meat sold;
+
+(5) Whereas, for practical reasons, export refunds will not be granted on beef sold under this Regulation; whereas, however, successful tenderers will be required to apply for export licences for the quantity awarded, in accordance with Commission Regulation
+
+(EC) No 1445/95 of 26 June 1995 on rules of application for import and export licences in the beef and veal sector (7), as last amended by Regulation (EC) No 2648/98 (8);
+
+(1) OJ L 148, 28.6.1968, p. 24.
+
+(2) OJ L 210, 28.7.1998, p. 17.
+
+(3) OJ L 251, 5.10.1979, p. 12.
+
+(4) OJ L 248, 14.10.1995, p. 39.
+
+(5) OJ L 301, 17.10.1992, p. 17.
+
+(6) OJ L 104, 27.4.1996, p. 13.
+
+(7) OJ L 143, 27.6.1995, p. 35.
+
+(8) OJ L 335, 10.12.1998, p. 39.
+
+(6) Whereas, in order to ensure that the beef sold is exported to the eligible third countries, provision should be made for a security to be lodged before the goods are taken over and the primary requirements should be determined;
+
+(7) Whereas products from intervention stocks may in certain cases have undergone several handling operations; whereas, to help ensure satisfactory presentation and marketing, the repackaging of the products should be authorised in certain circumstances;
+
+(8) Whereas Commision Regulation (EC) No 1587/1999 (1), should be repealed;
+
+(9) Whereas the measures provided for in this Regulation are in accordance with the opinion of the Management Committee for Beef and Veal,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+1\. The followingapproximate quantities of intervention products bought in pursuant to Article 6 of Regulation (EEC) No 805/68 shall be put up for sale:
+
+— 10 000 tonnes of bone-in beef held by the German intervention agency, to be sold as ‘compensated'quarters,
+
+— 6 000 tonnes of bone-in hindquarters held by the German intervention agency,
+
+— 6 000 tonnes of bone-in forequarters held by the German intervention agency,
+
+— 2 000 tonnes of bone-in beef held by the French intervention agency, to be sold as ‘compensated' quarters,
+
+— 2 000 tonnes of bone-in hindquarters held by the French intervention agency,
+
+— 2 000 tonnes of bone-in forequarters held by the French intervention agency, ‘Compensated'quarters shall comprise an equal number of forequarters and hindquarters.
+
+2\. The beef shall be exported to the zone 08 destinations listed in Annex II to Commission Regulation (EC) No 565/1999 (2)
+
+3\. Subject to the provisions of this Regulation, the sale shall be conducted in accordance with Regulation (EEC) No 2173/79, and in particular Titles II and III thereof, and Regulation (EEC) No 3002/92.
+
+## Article 2
+
+1\. Tenders shall be submitted for the followingdates:
+
+(a) 27 September 1999;
+
+(b) 11 October 1999;
+
+(c) 25 October 1999;
+
+(d) 8 November 1999;
+
+until the quantities put up for sale are used up.
+
+2\. NotwithstandingArticles 6 and 7 of Reg ulation (EEC) No 2173/ 79, this Regulation shall serve as a general notice of invitation to tender.
+
+The intervention agencies concerned shall draw up notices of invitation to tender for each sale, settingout in particular:
+
+(1) OJ L 188, 21.7.1999, p. 20.
+
+(2) OJ L 70, 17.3.1999, p. 3.
+
+— the quantities of beef put up for sale, and
+
+— the deadline and place for the submission of tenders.
+
+3\. Particulars of the quantities and the places where the products are stored may be obtained by the parties concerned at the addresses set out in the Annex. The intervention agencies shall, in addition, display the notices referred to in paragraph 2 at their head offices and may also publish them in other ways.
+
+4\. The intervention agencies concerned shall sell first meat which has been in storage for the longest time. However, with a view to better stock management and after notifying the Commission, the Member States may designate only certain cold stores or parts thereof for deliveries of meat sold under this Regulation.
+
+5\. Only tenders reachingthe intervention ag encies concerned by 12 noon on the relevant closingdate for each sale by tender shall be considered.
+
+6\. Tenders for compensated quarters shall cover an equal number of forequarters and hindquarters and shall quote a single price per tonne for the whole quantity of bone-in beef for which they are submitted.
+
+7\. NotwithstandingArticle 8(1) of Reg ulation (EEC) No 2173/79, tenders must be submitted to the intervention agency concerned in sealed envelopes bearinga reference to this Reg ulation and the relevant date. The sealed envelopes must not be opened by the intervention agency before the deadline for submission as referred to in paragraph 5 has expired.
+
+8\. NotwithstandingArticle 8(2)(b) of Reg ulation (EEC) No 2173/79, tenders shall not specify the store or stores where the products are held.
+
+9\. NotwithstandingArticle 15(1) of Reg ulation (EEC) No 2173/79, the security shall be EUR 12/100 kg.
+
+The submission of an application for an export licence as referred to in
+
+Article 4(2) shall constitute a primary requirement in addition to the requirements laid down in Article 15(3) of Regulation (EEC) No 2173/ 79.
+
+## Article 3
+
+1\. Not later than the day followingthe closingdate for the submission of tenders, the Member States shall send the Commission details of tenders received.
+
+2\. Followingscrutiny of the tenders, a minimum sellingprice shall be set or no award shall be made.
+
+## Article 4
+
+1\. The intervention agency shall send each tenderer the information referred to in Article 11 of Regulation (EEC) No 2173/79 by fax.
+
+2\. Within five workingdays of the date on which the information as referred to in paragraph 1 is forwarded, the successful tenderers shall apply for one or more export licences as referred to in the first indent of
+
+Article 8(2) of Regulation (EC) No 1445/95 in respect of the quantity awarded. Applications shall be accompanied by the fax as referred to in paragraph 1 and shall contain in box 7 the name of one of the zone 08 countries referred to in Article 1(2). In addition, one of the following shall be entered in box 20 of applications:
+
+— Productos de intervención sin restitución [Reglamento (CE) no 2009/ 1999]
+
+— Interventionsvarer uden restitution [Forordning(EF) nr. 2009/1999]
+
+— Interventionserzeugnisse ohne Erstattung [Verordnung (EG) Nr.
+
+2009/1999]
+
+— Προϊόντα παρέµβασης χωρίς επιστροφή [κανονισµός (ΕΚ) αριθ. 2009/1999]
+
+— Intervention products without refund (Regulation (EC) No 2009/ 1999)
+
+— Produits d’intervention sans restitution [règlement (CE) no 2009/ 1999]
+
+— Prodotti d’intervento senza restituzione [Regolamento (CE) n. 2009/ 1999]
+
+— Producten uit interventievoorraden zonder restitutie [Verordening
+
+(EG) nr. 2009/1999]
+
+— Produtos de intervenção sem restituição [Regulamento (CE) n. o 2009/1999]
+
+— Interventiotuotteita − ei vientitukea [Asetus (EY) N:o 2009/1999]
+
+— Interventionsprodukt utan exportbidrag[Förordning(EG) nr 2009/ 1999].
+
+## Article 5
+
+1\. NotwithstandingArticle 18(1) of Reg ulation (EEC) No 2173/79, the delivery period shall run forthree months  from the date of the notification as referred to in Article 4(1) of this Regulation.
+
+2\. Notwithstandingthe first indent of Article 8(2) of Reg ulation (EC) No 1445/95, export licences applied for in accordance with Article 4(2) of this Regulation shall be valid for 90 days .
+
+## Article 6
+
+1\. A security shall be lodged by the buyer before the goods are taken over to ensure they are exported to the third countries referred to in
+
+Article 1(2). Import into one of those countries shall constitute a primary requirement within the meaningof Article 20 of Commission Regulation (EEC) No 2220/85 (1).
+
+2\. The security provided for in paragraph 1 shall be equal to the difference between the price tendered per tonne and
+
+— EUR 2 000 for ‘compensated' quarters,
+
+— EUR 2 000 for hindquarters,
+
+— EUR 1 300 for forequarters.
+
+## Article 7
+
+The competent authorities may permit intervention products with torn or soiled packaging to be put up in new packaging of the same type, under their supervision and before beingpresented for dispatch at the customs office of departure.
+
+## Article 8
+
+No export refund shall be granted on meat sold under this Regulation.
+
+Removal orders as referred to in Article 3(1)(b) of Regulation (EEC) No 3002/92, export declarations and, where appropriate, T5 control copies shall contain one of the followingentries:
+
+— Productos de intervención sin restitución [Reglamento (CE) no 2009/ 1999]
+
+— Interventionsvarer uden restitution [Forordning(EF) nr. 2009/1999]
+
+— Interventionserzeugnisse ohne Erstattung [Verordnung (EG) Nr.
+
+2009/1999]
+
+— Προϊόντα παρέµβασης χωρίς επιστροφή [κανονισµός (ΕΚ) αριθ. 2009/1999]
+
+— Intervention products without refund (Regulation (EC) No 2009/ 1999)
+
+— Produits d’intervention sans restitution [règlement (CE) no 2009/ 1999]
+
+— Prodotti d’intervento senza restituzione [Regolamento (CE) n. 2009/ 1999]
+
+(1) OJ L 205, 3.8.1985, p. 5.
+
+— Producten uit interventievoorraden zonder restitutie [Verordening
+
+(EG) nr. 2009/1999]
+
+— Produtos de intervenção sem restituição [Regulamento (CE) n. o 2009/1999]
+
+— Interventiotuotteita − ei vientitukea [Asetus (EY) N:o 2009/1999]
+
+— Interventionsprodukt utan exportbidrag[Förordning(EG) nr 2009/ 1999].
+
+## Article 9
+
+Regulation (EC) No 1587/1999 is hereby repealed.
+
+## Article 10
+
+This Regulation shall enter into force on the day following its publication in the Official Journal of the European Communities.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+ANEXO — BILAG — ANHANG —ΠΑΡΑΡΤΗΜΑ — ANNEX— ANNEX E — ALLEGATO — BIJLAGE — ANEXO — LIITE — BILAGA Direcciones de los organismos de intervención — Interventionsorganernes adresser — Anschriften der Interventionsstellen —∆ιευθύνσεις των οργα νισµών παρεµβάσεως —Addressesoftheinterventionagencies—Adresses des organismes d’intervention — Indirizzi degli organismi d’intervento — Adressen van de interventiebureaus — Endereços dos organismos de intervenção — Interventioelinten osoitteet — Interventionsorganens adresser BUNDESREPUBLIK DEUTSCHLAND Bundesanstalt für Landwirtschaft und Ernährung(BLE) Postfach 180203, D-60083 Frankfurt am Main Adickesallee 40 D-60322 Frankfurt am Main Tel.: (49) 69 1564-704/772; Telex: 411727; Telefax: (49) 69 15 64-790/791 FRANCE Ofival 80, avenue des Terroirs-de-France F-75607 Paris Cedex 12 Téléphone: (33-1) 44 68 50 00; télex: 215330; télécopieur: (33-1) 44 68 52 33

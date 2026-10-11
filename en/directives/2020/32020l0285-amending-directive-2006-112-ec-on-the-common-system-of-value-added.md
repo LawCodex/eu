@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **amending Directive 2006/112/EC on the common system of value added tax as regards the special scheme for small enterprises and Regulation (EU) No 904/2010 as regards the administrative cooperation and exchange of information for the purpose of monitoring the correct application of the special scheme for small enterprises**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE (EU) 2022/542 of 5 April 2022 </td><td> L 107</td><td>1</td><td>6.4.2022</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE (EU) 2020/285**
 

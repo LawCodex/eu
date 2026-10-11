@@ -1,0 +1,215 @@
+---
+title: "Commission Implementing Regulation (EU) No 1176/2012 of 7 December 2012 entering a name in the register of protected designations of origin and protected geographical indications [Μανταρίνι Χίου (Mandarini Chiou) (PGI)]"
+identifier: "32012R1176"
+eli: "http://data.europa.eu/eli/reg_impl/2012/1176/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2012-12-07
+entry_into_force: 2013-01-03
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R1176"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 1176/2012 of 7 December 2012 entering a name in the register of protected designations of origin and protected geographical indications [Μανταρίνι Χίου (Mandarini Chiou) (PGI)]
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 1176/2012**
+
+**of 7 December 2012**
+
+**entering a name in the register of protected designations of origin and protected geographical indications [Μανταρίνι Χίου (Mandarini Chiou) (PGI)]**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 510/2006 of 20 March 2006 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs (1), and in particular the first subparagraph of Article 7(4) thereof,
+
+Whereas:
+
+(1) Pursuant to the first subparagraph of Article 6(2) of Regulation (EC) No 510/2006, Greece's application to register the name ‧Μανταρίνι Χίου (Mandarini Chiou)‧ was published in the Official Journal of the European Union (2).
+
+(2) No categorical objection under Article 7 of the said Regulation was raised against the registration of the name in question.
+
+(3) However, Commission Implementing Regulation (EU) No 543/2011 (3), which entered into force after the application for registration had been submitted, lays down a minimum sugar-acid ratio of 7,5:1 for fruit of this species (Annex I, Part B, Part 2, Section II, point B). For reasons of clarity and legal certainty, the Greek authorities have amended the Single Document accordingly.
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+The name contained in the Annex to this Regulation is hereby entered in the register.
+
+## Article 2
+
+The updated Single Document is contained in Annex II to this Regulation.
+
+## Article 3
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 7 December 2012.
+
+For the Commission, On behalf of the President,
+
+Dacian CIOLOȘ
+
+Member of the Commission
+
+(1) OJ L 93, 31.3.2006, p. 12.
+
+(2) OJ C 19, 24.1.2012, p. 11.
+
+(3) OJ L 157, 15.6.2011, p.1.
+
+## ANNEX I
+
+Agricultural products intended for human consumption listed in Annex I to the Treaty:
+
+**1.6. Fruit, vegetables and cereals, fresh or processed**
+
+**GREECE**
+
+Μανταρίνι Χίου (Mandarini Chiou) (PGI)
+
+## ANNEX II
+
+**SINGLE DOCUMENT**
+
+**COUNCIL REGULATION (EC) No 510/2006**
+
+**‧ΜΑΝΤΑΡΙΝΙ ΧΙΟΥ‧ (MANDARINI CHIOU)**
+
+**EC No: EL-PGI-0005-0709-27.06.2008**
+
+**PGI ( X ) PDO ( )**
+
+**1\. Name**
+
+‧Μανταρίνι Χίου‧ (Mandarini Chiou)
+
+**2\. Member state or third country**
+
+Greece
+
+**3\. Description of the agricultural product or foodstuff**
+
+**3.1. Type of product**
+
+|  | Class 1.6 — | Fruit, vegetables and cereals, fresh or processed |
+| --- | --- | --- |
+
+**3.2. Description of product to which the name in (1) applies**
+
+‧Mandarini Chiou‧ is a mandarin of the common Chios variety (common Mediterranean variety) of the species Citrus deliciosa Tenore and has the following properties:
+
+**Physical properties:**
+
+| Shape | : | flattened spherical shape |
+| --- | --- | --- |
+| Weight | : | 60 - 150 g |
+| Size | : | 55 - 70 mm |
+| Peel | : | 1,5 – 3,5 mm, easily separated from the flesh |
+| Number of carpels | : | 7 - 14, easily separated |
+| Number of pips | : | 8 - 24 small, polyembryonic endosperms |
+
+**Organoleptic characteristics:**
+
+The fruit is an orangey-yellow colour with tender, tasty, slightly orange flesh with an intense aroma and a fairly rough membrane.
+
+**Chemical properties:**
+
+| Juice content | : | 33 - 45% |
+| --- | --- | --- |
+| Sugar content | : | > 9,0 Brix |
+| Acidity | : | 0,7 – 1,75% |
+| Sugar/acid (maturity index) | : | 7,5:1 |
+
+**Essential oils:**
+
+These include α-Thujene, α-Pinene, Camphene, β-Pinene, β-Myrcene, ο-Methylanisol, p-Cymene, d-Limonene, γ-Terpinene, Linalol and β-Caryophyllene. The main constituent, with the highest concentration, is d-Limonene, followed by γ-Terpinene. The essential oils are extracted from the whole fruit or exclusively from the peel using mechanical means and the quantity produced depends on a number of factors, such as the degree of ripeness of the fruit, its size and the method used.
+
+**3.3. Raw materials (for processed products only)**
+
+—
+
+**3.4. Feed (for products of animal origin only)**
+
+—
+
+**3.5. Specific steps in production that must take place in the identified geographical area**
+
+‧Mandarini Chiou‧ must be grown, harvested, sorted and graded on the islands of Chios, Psara and Inousses.
+
+**3.6. Specific rules on slicing, grating, packaging, etc.**
+
+—
+
+**3.7. Specific rules concerning labelling**
+
+‧Mandarini Chiou‧ processed into confectionery, juices and other products such as essential oils must be labelled in accordance with the ‧Commission Communication - Guidelines on the labelling of foodstuffs using protected designations of origin (PDOs) or protected geographical indications (PGIs) as ingredients‧ (OJ C 341, 16.12.2010, pp. 3 and 4).
+
+**4\. Concise definition of the geographical area**
+
+Protection of the name is requested for the islands of Chios, Psara and Inousses.
+
+**5\. Link with the geographical area**
+
+**5.1. Specificity of the geographical area**
+
+Soil – the geological substratum is made up of alluvial deposits from the disintegration of limestone. Most of the soils are loamy and rich in total and active calcium (CaCO3), two favourable factors for the growing of ‧Mandarini Chiou‧.
+
+Climate – the area’s climate is characterised by:
+
+annual Etesian winds (Meltemi winds, which in the Mediterranean area are found only in the Aegean) that help maintain stable temperatures (producing a milder climate and generally protecting the fruit from frost) and disperse any clouds,
+
+a high level of sunshine throughout the year (Chios has more hours without cloud than anywhere else in Greece) and particularly during the period of the annual winds, when the hours of sunshine are greatest, and
+
+a small temperature range throughout the year and, consequently, short, mild winters and cool summers.
+
+The climate described above together with (a) the maintenance of high surface-water temperatures (>22 °C), even in autumn, (b) the terrain, which allows greater exposure to the sun, and (c) the properties of the soils, as described in the previous point, have influenced the size and quality of the fruit grown, since a high sugar content due to the high exposure to the sun and high daytime temperatures that promote photosynthesis, as well as the rapid breakdown of acids due to high night-time temperatures, lead to an increased maturity index.
+
+Sugar
+
+Acidity as citric acid
+
+and consequently a sweet taste and an intense aroma.
+
+Human factors – ‧Mandarini Chiou‧ has been grown continually over many decades, with practices being adapted as necessary, and this has led to the construction of suitable buildings and the development of practices totally adapted to production. These can be summarised as follows:
+
+— the special architecture of many of the buildings/homes of the owners of agricultural holdings, which stand inside the orchards and are usually two-storied to permit better monitoring of the crop.
+
+— the irrigation system, which uses ditches and capstans to draw water of excellent quality from wells. It should be noted that the island’s irrigation system was developed in the 14th century by the Genoese, who also built drainage systems not found anywhere else in the world at that time.
+
+— the intelligent harvesting methods that were developed. According to many sources, the growers of Chios were alone among the Greeks in knowing the correct method of cutting the fruit from the tree, i.e. using shears and then cutting the stalks close to the fruit, leaving only the peduncle, so as to avoid long stalks causing any damage to the fruit during their transportation in buckets and crates.
+
+— the techniques and practices for applying fertiliser that were developed, inter alia, the general use of manure from the cattle, sheep, goats and poultry that the citrus-fruit growers farmed together with their fruit trees. The use of manure, although remaining one of the main methods for nourishing the trees, is tending to disappear as manure is no longer available in sufficient quantities.
+
+— the techniques and practices adopted to protect the trees against frost, including controlled fires, ‧tichoyiria‧ (enclosure walls) and the high planting density used, with a minimum distance between trees of 2 to 2,5 m (around 100 trees per 1 000 m2).
+
+**5.2. Specificity of the product**
+
+‧Mandarini Chiou‧ is one of the most celebrated traditional agricultural products of Greece and, together with ‧Mastiha Chiou PDO‧ (Chios mastic) is the Prefecture’s most important product. It is greatly sought after for its particular flavour and its characteristic intense aroma. The variety of mandarins grown in Chios is unique. It is said to be among the best and most aromatic in the world. Even unripe mandarins are so fragrant that anyone eating them is amazed by the persistence of their aroma. The aroma from orchards planted with ‧Mandarini Chiou‧ is so intense that Chios has become known both in Greece and abroad as ‧fragrant‧ Chios. This comes as no surprise to visitors, since it is said that the perfumes arising from the district of Kampos can be smelled even out at sea, from the very first moment visitors begin their journey to the green heart of the island.
+
+The application for ‧Mandarini Chiou‧ to be registered as a PGI product is based on its reputation, which derives from a particular quality. The term ‧Mandarini Chiou‧ was established on the fresh-fruit market at the end of the 19th century to identify and request an original, sought-after product with a characteristic intense aroma and a particular flavour, grown on Chios in a way that contributed to the product’s special commercial value.
+
+In order to preserve the fruit’s special properties ‧Mandarini Chiou‧ used to be wrapped in paper after harvesting. This procedure was invented by growers in Chios and was used nowhere else in Greece. The earliest written evidence for wrapping the mandarins in paper in Chios is from the French writer A. Testevuide in the French travel review ‧Le Tour du Monde‧ in 1878.
+
+**5.3. Causal link between the geographical area and the quality or characteristics of the product (for PDO) or a specific quality, the reputation or another characteristic of the product (for PGI)**
+
+The product’s excellent reputation is the result of a combination of its innate properties and effective human intervention.
+
+In any case, ‧Mandarini Chiou‧ is held in great esteem by consumers, both in Greece and abroad, principally because of its characteristic aroma and its special flavour, factors that in the past were instrumental in the flowering of the local economy and the development of trade with European countries (Czechoslovakia, Bulgaria, Romania, Serbia, Poland and Germany). References to the above can be found in the writings of many famous travellers (Galland, Testevuide, Ζοlontas, Τοmbazis, Sgouros and Sotiriadou).
+
+The physical environment has also made an important contribution to the product’s reputation, particularly the area’s soil and climate, while the propagation of the product’s special characteristics has been greatly facilitated by the integration of mandarin growing into the islands' wider economic and commercial environment.
+
+Finally, it should be noted that the reputation of ‧Mandarini Chiou‧ is due, to a great extent, to the special characteristics of the agricultural area in which it is grown - it is not by chance that the island is known as ‧fragrant‧ Chios.
+
+**Publication reference of the specification**
+
+[Article 5(7) of Regulation (EC) No 510/2006]
+
+http://www.minagric.gr/greek/data/Allin1_for%20CD01.pdf

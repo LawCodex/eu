@@ -150,6 +150,7 @@ In Annex III to Directive 91/676/EEC, in point 2, second subparagraph, the follo
 
 (iv) pathogens in the fertilising materials containing more than 1 % organic carbon do not exceed the following upper limits:
 
+<table>
 <tbody><tr><td rowspan="2">Micro-organisms to be tested</td><td colspan="3">Sampling plans</td><td>Limit</td></tr>
 <tr><td>n</td><td>c</td><td>m</td><td>M</td></tr>
 <tr><td>Salmonella spp.</td><td>5</td><td>0</td><td>0</td><td>Absence in 25 g or 25 ml</td></tr>
@@ -162,6 +163,7 @@ In Annex III to Directive 91/676/EEC, in point 2, second subparagraph, the follo
 </table>
 </td></tr>
 </tbody>
+</table>
 
 (v) Member States implement strict quality standards to ensure a consistent nutrient content in fertilising materials across production batches in line with the criteria set out in point (ii);
 

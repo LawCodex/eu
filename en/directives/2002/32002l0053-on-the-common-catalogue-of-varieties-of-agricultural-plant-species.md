@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on the common catalogue of varieties of agricultural plant species**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 1829/2003 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 22 September 2003 </td><td> L 268</td><td>1</td><td>18.10.2003</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 2002/53/EC**
 
@@ -357,6 +359,7 @@ This Directive is addressed to the Member States.
 
 **(referred to by Article 26)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Deadline for transposition</td></tr>
 <tr><td>70/457/EEC</td><td>1 July 1972 (1)(2)</td></tr>
 <tr><td rowspan="2">70/274/EEC</td><td>1 July 1972 (Article 1)</td></tr>
@@ -376,9 +379,11 @@ This Directive is addressed to the Member States.
 <tr><td>98/96/EC</td><td>1 February 2000</td></tr>
 <tr><td colspan="2">(1)  For Denmark, Ireland and the United Kingdom, 1 July 1973; for Greece 1 January 1986; for Spain 1 March 1986; and for Portugal 1 January 1989 for specific species referred to in the Directive on the marketing of fodder plant seeds — Lolium multiflorum Lam, Lolium perenne L. and Vicia sativa, L. and the Directive on the marketing of cereal seed — Hordeum vulgare L., Oryza sativa, Triticum aestivum L. emend. Fiori and Paol, and Trisicum durum Desf. Zea mays L. — and for the other species referred to by this Directive 1 January 1991.  (2)  1 January 1995 for Austria, Finland and Sweden. <br> However:  — Finland and Sweden may postpone until 31 December 1995 at the latest, the application in their territories of this Directive with regard to the marketing in their territories of seeds of varieties listed in their respective national catalogues of varieties of agricultural plant species and vrieties of vegetable plant species which have not been officially accepted in accordance with the provisions of this Directive. Seeds of such varieties shall not be allowed to be marketed in the territory of the other Member States during this period,  — varieties of agricultural and vegetable plant species which, at the date of accession or subsequently, are listed in both the respective national catalogues of Finland and Sweden and in the common catalogues, shall not be subject to any marketing restrictions as regards variety,  — throughout the period mentioned in the first indent, those varieties in the respective national catalogues of Finland and Sweden which have been officially accepted in accordance with the provisions of the abovementioned Directive shall be included in the common catalogue of varieties of agricultural or vegetable plant species, respectively. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX II — CORRELATION TABLE
 
+<table>
 <tbody><tr><td>Directive 70/457/EEC</td><td>This Directive</td></tr>
 <tr><td>Article 1(1)</td><td>Article 1(1)</td></tr>
 <tr><td>Article 1(2)</td><td>Article 1(2)</td></tr>
@@ -423,6 +428,7 @@ This Directive is addressed to the Member States.
 <tr><td>—</td><td>  </td></tr>
 <tr><td colspan="2">(1)  98/95/EC Article 9(2) and 98/96/EC Article 8(2). </td></tr>
 </tbody>
+</table>
 
 ( 1 ) Opinion delivered on 9 April 2002 (not yet published in the Official Journal).
 

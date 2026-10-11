@@ -22,9 +22,11 @@ retrieved: 2026-10-11
 
 **on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> REGULATION (EC) No 596/2009 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 18 June 2009 </td><td> L 188</td><td>14</td><td>18.7.2009</td></tr>
+</table>
 
 **DIRECTIVE 2004/23/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 

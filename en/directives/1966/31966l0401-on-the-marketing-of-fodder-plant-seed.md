@@ -24,6 +24,7 @@ retrieved: 2026-10-11
 
 **(66/401/EEC)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Council Directive of 18 February 1969 </td><td> L 48</td><td>8</td><td>26.2.1969</td></tr>
@@ -68,6 +69,7 @@ retrieved: 2026-10-11
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2020/177 of 11 February 2020 </td><td> L 41</td><td>1</td><td>13.2.2020</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2021/415 of 8 March 2021 </td><td> L 81</td><td>65</td><td>9.3.2021</td></tr>
 <tr><td></td><td> COMMISSION IMPLEMENTING DIRECTIVE (EU) 2021/971 of 16 June 2021 </td><td> L 214</td><td>62</td><td>17.6.2021</td></tr>
+</table>
 
 |  | ACT concerning the Conditions of Accession and the Adjustments to the Treaties | L 73 | 14 | 27.3.1972 |
 | --- | --- | --- | --- | --- |
@@ -121,6 +123,7 @@ The conditions for the application of this provision shall be determined in acco
 
 A. Fodder plants: plants of the following genera and species:
 
+<table>
 <tbody><tr><td>(a)</td><td>Poaceae (Gramineae)  </td><td>Grasses</td></tr>
 <tr><td colspan="3"></td></tr>
 <tr><td>  </td><td>Agrostis canina L.</td><td>Velvet bent</td></tr>
@@ -226,6 +229,7 @@ A. Fodder plants: plants of the following genera and species:
 <tr><td>  </td><td>Raphanus sativus L. var. oleiformis Pers.  </td><td>Fodder radish.</td></tr>
 <tr><td colspan="3"></td></tr>
 </tbody>
+</table>
 
 B. Basic Seed:
 
@@ -795,6 +799,7 @@ This Directive is addressed to the Member States.
 
 2\. The crop shall conform to the following standards as regards distances from neighbouring sources of pollen which may result in undesirable foreign pollination:
 
+<table>
 <tbody><tr><td>Crop</td><td>Minimum distance</td></tr>
 <tr><td>1</td><td>2</td></tr>
 <tr><td colspan="2">Brassica spp.,Phacelia tanacetifolia  :</td></tr>
@@ -806,6 +811,7 @@ This Directive is addressed to the Member States.
 <tr><td>— for the production of seed intended for the production of fodder plants, fields up to two hectares</td><td>100 m</td></tr>
 <tr><td>— for the production of seed intended for the production of fodder plants, fields over two hectares</td><td>50 m</td></tr>
 </tbody>
+</table>
 
 These distances can be disregarded if there is sufficient protection from any undesirable foreign pollination.
 
@@ -888,6 +894,7 @@ The minimum varietal purity shall be examined mainly in field inspections carrie
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="3">Species</td><td colspan="2">Germination</td><td colspan="8">Analytical purity</td><td colspan="3">Maximum content of seeds of other plant species in a sample of the weight specified in column 4 of Annex III (total per column)</td><td rowspan="3">Conditions as regards content of seeds of Lupinus spp. of another colour and of bitter lupin seeds</td></tr>
 <tr><td rowspan="2">Minimum germination (% of pure seed) </td><td rowspan="2">Maximum content of hard seed (% of pure seed) </td><td rowspan="2">Minimum analytical purity (% by weight) </td><td colspan="7">Maximum content of seeds of other plant species (% by weight) </td><td rowspan="2">Avena fatua, Avena sterilis</td><td rowspan="2">Cuscuta spp.</td><td rowspan="2">Rumex spp. other than Rumex acetosella and Rumex maritimus</td></tr>
 <tr><td>Total</td><td>A single species</td><td>Elymus repens  </td><td>Alopecurus myosuroides</td><td>Melilotus spp.</td><td>Raphanus raphanistrum</td><td>Sinapis arvensis</td></tr>
@@ -973,6 +980,7 @@ A. Table:
 <tr><td>Plantago lanceolata</td><td>75 </td><td>  </td><td>85 </td><td>1,5 </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>  </td><td>0 (i)</td><td>0 (j) (k)</td><td>10 </td><td>  </td></tr>
 <tr><td>Raphanus sativus var. oleiformis</td><td>80 (a)</td><td>  </td><td>97 </td><td>1,0 </td><td>0,5 </td><td>  </td><td>  </td><td>  </td><td>0,3 </td><td>0,3 </td><td>0 </td><td>0 (j)</td><td>5 </td><td>  </td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section I (2) (A) of this Annex:
 
@@ -1037,6 +1045,7 @@ The minimum varietal purity shall be examined mainly in field inspections carrie
 
 A. Table:
 
+<table>
 <tbody><tr><td rowspan="3">Species</td><td colspan="6">Maximum content of seeds of other plant species</td><td rowspan="3">Other standards or conditions</td></tr>
 <tr><td rowspan="2">Total (% by weight) </td><td colspan="5">Content by number in a sample of the weight specified in column 4 of Annex III (total per column) </td></tr>
 <tr><td>A single species</td><td>Rumex spp. other than Rumex acetosella and Rumex maritimus</td><td>Elymus repens  </td><td>Alopecurus myosuroides</td><td>Melilotus spp.</td></tr>
@@ -1122,6 +1131,7 @@ A. Table:
 <tr><td>Plantago lanceolata</td><td>0,3 </td><td>20 </td><td>3 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 <tr><td>Raphanus sativus var. oleiformis</td><td>0,3 </td><td>20 </td><td>2 </td><td>  </td><td>  </td><td>  </td><td>  </td></tr>
 </tbody>
+</table>
 
 B. Other standards or conditions applicable where reference is made to them in the table under Section II (2) (A) of this Annex:
 
@@ -1183,6 +1193,7 @@ Subject to the provisions below, the conditions laid down in Section I (2) and (
 
 **LOT AND SAMPLE WEIGHTS**
 
+<table>
 <tbody><tr><td>Species</td><td>Maximum weight of a lot (tonnes) </td><td>Minimum weight of a sample to be drawn from a lot (grams) </td><td>Weight of the sample for the determination by number provided for in columns 12 to 14 of Annex II (I) (2) (A) and columns 3 to 7 of Annex II (II) (2) (A) (grams) </td></tr>
 <tr><td>1</td><td>2</td><td>3</td><td>4</td></tr>
 <tr><td colspan="4"></td></tr>
@@ -1273,6 +1284,7 @@ Subject to the provisions below, the conditions laid down in Section I (2) and (
 <tr><td>Raphanus sativus var. oleiformis</td><td>10 </td><td>300 </td><td>300 </td></tr>
 <tr><td colspan="4">(1)  The maximum lot weight may be increased to 25 tonnes if the supplier has been authorised for this purpose by the competent authority. </td></tr>
 </tbody>
+</table>
 
 The maximum lot weight shall not be exceeded by more than 5 %.
 

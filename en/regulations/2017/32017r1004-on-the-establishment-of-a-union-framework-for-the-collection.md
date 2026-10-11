@@ -1,0 +1,459 @@
+---
+title: "Regulation (EU) 2017/1004 of the European Parliament and of the Council of 17 May 2017 on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and repealing Council Regulation (EC) No 199/2008 (recast)"
+identifier: "32017R1004"
+eli: "http://data.europa.eu/eli/reg/2017/1004/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2017-05-17
+entry_into_force: 2018-01-01
+last_amended: 2021-07-14
+consolidated_version: "02017R1004-20210714"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R1004-20210714"
+retrieved: 2026-10-11
+---
+
+# Regulation (EU) 2017/1004 of the European Parliament and of the Council of 17 May 2017 on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and repealing Council Regulation (EC) No 199/2008 (recast)
+
+**REGULATION (EU) 2017/1004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 May 2017**
+
+**on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and repealing Council Regulation (EC) No 199/2008**
+
+**(recast)**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> REGULATION (EU) 2021/1139 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 July 2021 </td><td> L 247</td><td>1</td><td>13.7.2021</td></tr>
+</table>
+
+**REGULATION (EU) 2017/1004 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
+
+**of 17 May 2017**
+
+**on the establishment of a Union framework for the collection, management and use of data in the fisheries sector and support for scientific advice regarding the common fisheries policy and repealing Council Regulation (EC) No 199/2008**
+
+**(recast)**
+
+## CHAPTER I — GENERAL PROVISIONS
+
+#### Article 1 — Subject matter and scope
+
+1\. With a view to contributing to the objectives of the common fisheries policy set out in Article 2 of Regulation (EU) No 1380/2013, this Regulation establishes rules on the collection, management and use of biological, environmental, technical and socioeconomic data in the fisheries sector as provided for in Article 25 of Regulation (EU) No 1380/2013.
+
+2\. The data referred to in paragraph 1 shall only be collected if no obligation to collect them exists under Union legal acts other than this Regulation.
+
+3\. For data necessary for fisheries management which are collected under other Union legal acts, this Regulation only defines rules for the use and transmission of those data.
+
+#### Article 2 — Data protection
+
+Where relevant, the processing, management and use of data collected under this Regulation shall comply with, and be without prejudice to, Directive 95/46/EC and Regulations (EC) No 45/2001 and (EC) No 223/2009.
+
+#### Article 3 — Definitions
+
+For the purposes of this Regulation, the definitions referred to in Article 4 of Regulation (EU) No 1380/2013 apply. In addition, the following definitions apply:
+
+(1) ‘fisheries sector’ means activities related to commercial fisheries, recreational fisheries, aquaculture and industries processing fisheries products;
+
+(2) ‘recreational fisheries’ means non-commercial fishing activities exploiting marine biological resources for recreation, tourism or sport;
+
+(3) ‘marine region’ means a geographical area set out in Article 4(2) of Regulation (EU) No 1380/2013, an area established by regional fisheries management organisations or an area defined in the implementing act referred to in Article 9(11);
+
+(4) ‘primary data’ means data associated with individual vessels, natural or legal persons or individual samples;
+
+(5) ‘metadata’ means data giving qualitative and quantitative information on the collected primary data;
+
+(6) ‘detailed data’ means data based on primary data in a form which does not allow natural persons or legal entities to be identified directly or indirectly;
+
+(7) ‘aggregated data’ means the output resulting from summarising the primary or detailed data for specific analytic purposes;
+
+(8) ‘scientific observer’ means a person appointed to observe fishing operations in the context of data collection for scientific purposes and designated by a body in charge of the implementation of the national work plans for data collection;
+
+(9) ‘scientific data’ means data referred to in Article 1(1) that are collected, managed or used under this Regulation.
+
+## CHAPTER II — COLLECTION AND MANAGEMENT OF DATA IN THE FRAMEWORK OF MULTIANNUAL UNION PROGRAMMES
+
+### SECTION 1 — Multiannual Union programmes
+
+#### Article 4 — Establishment of a multiannual Union programme
+
+1\. The Commission shall establish a multiannual Union programme for the collection and management of data referred to in Article 1(1), in accordance with the content and the criteria set out in Article 5.
+
+The Commission shall adopt the part of the multiannual Union programme covering matters provided for in point (a) of Article 5(1) by means of delegated acts in accordance with Article 24.
+
+The Commission shall adopt the part of the multiannual Union programme covering matters provided for in points (b) and (c) of Article 5(1) by means of implementing acts in accordance with the examination procedure referred to in Article 25(2).
+
+2\. Before adopting the delegated and implementing acts provided for in paragraph 1 of this Article, the Commission shall consult the regional coordination groups referred to in Article 9, STECF and any other appropriate scientific bodies referred to in Article 26 of Regulation (EU) No 1380/2013.
+
+#### Article 5 — Content and criteria for the establishment of the multiannual Union programme
+
+1\. The multiannual Union programme shall establish:
+
+(a) a detailed list of the data requirements to achieve the objectives set out in Articles 2 and 25 of Regulation (EU) No 1380/2013;
+
+(b) a list of mandatory research surveys at sea;
+
+(c) thresholds below which it is not mandatory for Member States to collect data based on their fishing and aquaculture activities or carry out research surveys at sea.
+
+2\. The data referred to in point (a) of paragraph 1 shall include:
+
+(a) biological data on all stocks caught or by-caught in Union commercial and, where appropriate, recreational fisheries in and outside Union waters, including eels and salmon in relevant inland waters, as well as other diadromous fish species of commercial interest, to enable an ecosystem-based approach to fisheries management and conservation as necessary for the operation of the common fisheries policy;
+
+(b) data to assess the impact of Union fisheries on the marine ecosystem in and outside Union waters, including data on by-catch of non-target species, in particular species protected under Union or international law, data on impacts of fisheries on marine habitats, including vulnerable marine areas, and data on impacts of fisheries on food webs;
+
+(c) data on the activity of Union fishing vessels in and outside Union waters, including levels of fishing, and on effort and capacity of the Union fleet;
+
+(d) socioeconomic data on fisheries to enable the socioeconomic performance of the Union fisheries sector to be assessed;
+
+(e) socioeconomic data and sustainability data on marine aquaculture to enable the socioeconomic performance and the sustainability of the Union aquaculture sector, including its environmental impact, to be assessed;
+
+(f) socioeconomic data on the fish processing sector to enable the socioeconomic performance of that sector to be assessed.
+
+3\. In addition, the data referred to in point (a) of paragraph 1 may include socioeconomic data and sustainability data on freshwater aquaculture to enable the socioeconomic performance and the sustainability of the Union aquaculture sector, including its environmental impact, to be assessed.
+
+4\. For the purpose of establishing the multiannual Union programme, the Commission shall take into account:
+
+(a) the information needs for the management and efficient implementation of the common fisheries policy, with a view to reaching its objectives as set out in Article 2 of Regulation (EU) No 1380/2013. Such information shall also allow the targets required for the implementation of the multiannual plans referred to in Article 9 of that Regulation to be determined;
+
+(b) the need for data that are relevant, comprehensive and reliable for the purpose of decisions on fisheries management and protection of ecosystems including vulnerable species and habitats;
+
+(c) the need for and relevance of data for the sustainable development of aquaculture at Union level, taking account of the predominantly local character of its impacts;
+
+(d) the need to support impact assessments of policy measures;
+
+(e) costs and benefits, taking account of the most cost-effective solutions to achieve the objective of data collection;
+
+(f) the need to avoid disruption of existing time-series;
+
+(g) the need for simplification and to avoid duplication of data collection, in accordance with Article 1;
+
+(h) where relevant, the need for data to cover data-deficient fisheries;
+
+(i) regional specificities and regional agreements concluded in regional coordination groups;
+
+(j) the international obligations of the Union and its Member States;
+
+(k) spatial and temporal coverage of the data collection activities.
+
+5\. The list of mandatory research surveys at sea referred to in point (b) of paragraph 1 shall be drawn up taking into account the following requirements:
+
+(a) information needs for the management of the common fisheries policy, with a view to reaching its objectives as set out in Article 2 of Regulation (EU) No 1380/2013;
+
+(b) information needs arising from internationally agreed coordination and harmonisation;
+
+(c) information needs for the evaluation of management plans;
+
+(d) information needs for the monitoring of ecosystems variables;
+
+(e) information needs for an adequate coverage of stock areas;
+
+(f) the need to avoid duplication between research surveys at sea; and
+
+(g) the need to avoid disruption of time-series.
+
+6\. For stocks that are subject to catch limits, the rules on participation by different Member States in the research surveys at sea referred to in point (b) of paragraph 1 shall be based upon the share of the relevant Member States in the total allowable catches that are available for the Union for the stocks concerned. For stocks that are not subject to catch limits, those rules shall be based upon the relative share of the relevant Member States in the total exploitation of the stock concerned.
+
+7\. For stocks that are subject to catch limits, the threshold referred to in point (c) of paragraph 1 shall be set on the basis of the share of the relevant Member State in the total allowable catches that are available for the Union for the stock concerned. For stocks that are not subject to catch limits, that threshold shall be set on the basis of the relative share of the relevant Member State in the total exploitation of the stock concerned. Regarding the aquaculture and the processing sector such thresholds shall be proportionate to the size of those sectors of a Member State.
+
+### SECTION 2 — Implementation of the multiannual Union programme by the Member States
+
+#### Article 6 — National work plans
+
+1\. Without prejudice to their current data collection obligations under Union law, Member States shall collect data within the framework of a work plan drawn up in accordance with the multiannual Union programme (the ‘national work plan’). Member States shall submit to the Commission by electronic means their national work plans by 15 October of the year preceding the year from which the national work plan is to apply, unless an existing plan still applies, in which case they shall notify the Commission thereof.
+
+2\. The Commission shall adopt implementing acts approving the national work plans referred to in paragraph 1 by 31 December of the year preceding the year from which the national work plan is to apply. When approving the national work plans, the Commission shall take into account the evaluation conducted by STECF in accordance with Article 10. If such evaluation indicates that the national work plan does not comply with this Article or does not ensure the scientific relevance of the data or sufficient quality of the proposed methods and procedures, the Commission shall immediately inform the Member State concerned and indicate amendments to that work plan that the Commission considers necessary. Subsequently, the Member State concerned shall submit a revised national work plan to the Commission.
+
+3\. National work plans shall contain a detailed description of the following:
+
+(a) data to be collected in accordance with the multiannual Union programme;
+
+(b) the temporal and spatial distribution and the frequency by which the data will be collected;
+
+(c) the source of the data, the procedures and methods to collect and process the data into the data sets that will be provided to end-users of scientific data;
+
+(d) the quality assurance and quality control framework to ensure adequate quality of the data in accordance with Article 14;
+
+(e) in what format and when data are to be made available to end-users of scientific data, taking into account the needs defined by the end-users of scientific data, where known;
+
+(f) the international and regional cooperation and coordination arrangements, including bilateral and multilateral agreements concluded to achieve the objectives of this Regulation; and
+
+(g) how the international obligations of the Union and its Member States have been taken into account.
+
+4\. In preparing its national work plan, each Member State shall, in the framework of the regional coordination groups referred to in Article 9, cooperate and coordinate its efforts with other Member States, in particular those in the same marine region, to ensure sufficient and efficient coverage and avoid duplication of data collection activities. In that process, Member States shall also aim to involve relevant stakeholders at the appropriate level. Where appropriate, such cooperation and coordination may also take place outside the framework of the regional coordination groups.
+
+5\. The Commission may adopt implementing acts laying down rules on procedures, format and timetables for the submission of the national work plans referred to in paragraph 1. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 25(2).
+
+#### Article 7 — National correspondents
+
+1\. Each Member State shall designate a national correspondent and shall inform the Commission thereof. The national correspondent shall serve as the focal point for exchange of information between the Commission and the Member State regarding the preparation and implementation of the national work plans.
+
+2\. Furthermore, the national correspondent shall, in particular, carry out the following tasks:
+
+(a) coordinate the preparation of the annual report referred to in Article 11;
+
+(b) ensure the transmission of information within the Member State; and
+
+(c) coordinate attendance of relevant experts in expert group meetings organised by the Commission and participation in the relevant regional coordination groups referred to in Article 9.
+
+3\. If several bodies in a Member State are participating in the implementation of the national work plan, the national correspondent shall be responsible for the coordination of that work.
+
+4\. Each Member State shall ensure that its national correspondent has a sufficient mandate to represent its Member State in the regional coordination groups referred to in Article 9.
+
+#### Article 8 — Cooperation within the Union
+
+Member States shall cooperate and coordinate their actions to further improve the quality, timeliness and coverage of data enabling the reliability of data collection methods to be further improved, with a view to improving their data collection activities.
+
+#### Article 9 — Regional coordination and cooperation
+
+1\. As provided for in Article 25 of Regulation (EU) No 1380/2013, Member States shall coordinate their data collection activities with other Member States in the same marine region and shall make every effort to coordinate their actions with third countries having sovereignty or jurisdiction over waters in the same marine region.
+
+2\. In order to facilitate regional coordination, regional coordination groups shall be established by the relevant Member States for each marine region.
+
+3\. Regional coordination groups shall aim at developing and implementing procedures, methods, quality assurance and quality control for collecting and processing data with a view to enabling the reliability of scientific advice to be further improved. For that purpose, regional coordination groups shall aim to develop and implement regional databases.
+
+4\. Regional coordination groups shall consist of experts appointed by Member States, including national correspondents, and the Commission.
+
+5\. Regional coordination groups shall draw up and agree on rules of procedures for their activities.
+
+6\. Regional coordination groups shall coordinate with each other and with the Commission, where issues affect several marine regions.
+
+7\. Representatives of relevant end-users of scientific data, including the appropriate scientific bodies as referred to in Article 26 of Regulation (EU) No 1380/2013, regional fisheries management organisations, Advisory Councils and third countries shall be invited to attend the meetings of the regional coordination groups as observers, where necessary.
+
+8\. Regional coordination groups may prepare draft regional work plans, which shall be compatible with this Regulation and with the multiannual Union programme. Those draft regional work plans may include procedures, methods, quality assurance and quality control for collecting and processing data as referred to in points (a) and (b) of paragraph 2 and in paragraph 5 of Article 5, regionally coordinated sampling strategies and conditions for delivery of data in regional databases. They may also contain cost-sharing arrangements for participation in research surveys at sea.
+
+9\. Where a draft regional work plan is prepared, the Member States concerned shall submit it to the Commission by 31 October of the year preceding the year from which the regional work plan is to apply, unless an existing plan still applies, in which case the Member States concerned shall notify the Commission thereof. The Commission may approve a draft regional work plan by means of an implementing act. Such implementing act shall be adopted in accordance with the examination procedure referred to in Article 25(2). For that purpose, the Commission shall take into account, where relevant, the evaluation of STECF as referred to in Article 10. If such evaluation indicates that a draft regional work plan does not comply with this Article or does not ensure the scientific relevance of the data or sufficient quality of the proposed methods and procedures, the Commission shall immediately inform the Member States concerned and indicate amendments to that draft work plan that the Commission considers necessary. Subsequently, the Member States concerned shall submit a revised draft regional work plan to the Commission.
+
+10\. A regional work plan shall be considered to replace or supplement the relevant parts of the national work plans of each of the Member States concerned.
+
+11\. The Commission may adopt implementing acts laying down rules on procedures, cost-sharing arrangements for participation in research surveys at sea, the area of marine region for the purpose of data collection, and format and timetables for the submission and approval of regional work plans, as referred to in paragraph 8 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 25(2).
+
+#### Article 10 — Evaluation of work plans by STECF
+
+STECF shall evaluate the national and draft regional work plans referred to in Articles 6 and 9. When doing so it shall take into account:
+
+(a) the conformity of the work plans and any amendments thereto with Articles 6 and 9; and
+
+(b) the scientific relevance of the data covered by the work plans for the purposes laid down in Article 1(1) and the quality of the proposed methods and procedures.
+
+#### Article 11 — Evaluation and approval of the outcomes of the national work plans
+
+1\. Member States shall on an annual basis submit to the Commission a report on the implementation of their national work plans. The Commission may adopt implementing acts laying down rules on procedures, format and timetables for the submission and approval of annual reports. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 25(2).
+
+2\. In accordance with Article 10, STECF shall evaluate:
+
+(a) the execution of the national work plans; and
+
+(b) the quality of the data collected by the Member States.
+
+3\. The Commission shall assess the implementation of the national work plans on the basis of:
+
+(a) the evaluation by STECF; and
+
+(b) the consultation of appropriate regional fisheries management organisations to which the Union is contracting party or observer and relevant international scientific bodies.
+
+### SECTION 3 — Requirements for the data collection process
+
+#### Article 12 — Access to the sampling sites
+
+1\. Member States shall ensure that, in order to carry out their duties, data collectors designated by the body in charge of the implementation of the national work plan have access to all catches, vessels and other sampling sites, business registers and any necessary data.
+
+2\. The masters of Union fishing vessels shall accept on board scientific observers and cooperate with them in order to allow them to discharge their duties while on board Union fishing vessels, as well as the use of alternative data collection methods, where appropriate, set out in national work plans, without prejudice to international obligations.
+
+3\. The masters of Union fishing vessels may refuse to accept on board the scientific observers operating under the at-sea monitoring scheme only on the basis of an obvious lack of space on the vessel or for safety reasons in accordance with national law. In such cases, data shall be collected through alternative data collection methods which are set out in the national work plan and designed and controlled by the body in charge of the implementation of the national work plan.
+
+### SECTION 4 — Data management process
+
+#### Article 13 — Data storage
+
+Member States shall:
+
+(a) ensure that primary data collected under national work plans are safely stored in computerised databases and take all necessary measures to ensure that they are treated as confidential;
+
+(b) ensure that metadata relating to the primary socioeconomic data collected under national work plans are safely stored in computerised databases;
+
+(c) take all necessary technical measures to protect such data against any accidental or illicit destruction, accidental loss, deterioration, or unauthorised consultation or distribution.
+
+#### Article 14 — Data quality control and validation
+
+1\. Member States shall be responsible for the quality and completeness of the primary data collected under national work plans, and for the detailed and aggregated data derived therefrom which are transmitted to end-users of scientific data.
+
+2\. Member States shall ensure that:
+
+(a) primary data collected under national work plans are properly checked for errors by appropriate quality control procedures;
+
+(b) detailed and aggregated data derived from primary data collected under national work plans are validated before their transmission to end-users of scientific data;
+
+(c) the quality assurance procedures applied to the primary, detailed and aggregated data referred to in points (a) and (b) are developed in accordance with the procedures adopted by the international scientific bodies, regional fisheries management organisations, STECF and regional coordination groups.
+
+## CHAPTER III — USE OF DATA
+
+#### Article 15 — Access to and transmission of primary data
+
+1\. For the purpose of the verification of the existence of the primary data collected in accordance with Article 6(1), other than socioeconomic data, Member States shall ensure that the Commission has access to the national computerised databases referred to in point (a) of Article 13.
+
+2\. For the purpose of the verification of the socioeconomic data collected in accordance with Article 6(1), Member States shall ensure that the Commission has access to the national computerised databases referred to in point (b) of Article 13.
+
+3\. Member States shall conclude agreements with the Commission to ensure effective and unhindered access for the Commission to their national computerised databases referred to in paragraphs 1 and 2, without prejudice to the obligations established by other Union rules.
+
+4\. Member States shall ensure that the primary data collected under the research surveys at sea are transmitted to international scientific organisations and appropriate scientific bodies within regional fisheries management organisations in accordance with the international obligations of the Union and the Member States.
+
+#### Article 16 — Processing of primary data
+
+1\. Member States shall process the primary data into sets of detailed or aggregated data in accordance with:
+
+(a) relevant international standards, where applicable;
+
+(b) protocols agreed at international or regional level, where applicable.
+
+2\. The Member State shall provide to the end-users of scientific data and the Commission, whenever necessary, a description of the methods applied to process the requested data and their statistical properties.
+
+#### Article 17 — Procedure for ensuring availability of detailed and aggregated data
+
+1\. Member States shall set up adequate processes and electronic technologies to ensure an effective application of Article 25 of Regulation (EU) No 1380/2013 and of this Regulation. They shall refrain from any unnecessary restrictions to the dissemination of detailed and aggregated data to end-users of scientific data and other interested parties.
+
+2\. Member States shall ensure appropriate safeguards, in case data include information relating to identified or identifiable natural persons or legal entities. A Member State may refuse to transmit the relevant detailed and aggregated data if there is a risk of natural persons or legal entities being identified, in which case the Member State concerned shall propose alternative means to meet the needs identified by the end-users of scientific data which ensure anonymity.
+
+3\. In the case of requests made by end-users of scientific data in order to serve as a basis for advice to fisheries management, Member States shall ensure that relevant detailed and aggregated data are updated and made available to the relevant end-users of scientific data within the deadlines set in the request, which shall not be shorter than 1 month from the date of receipt of a request for those data.
+
+4\. In the case of requests other than those referred to in paragraph 3, Member States shall ensure that the relevant data are updated and made available to the relevant end-users of scientific data and other interested parties within a reasonable period of time. Within 2 months from the date of receipt of the request, the Member States shall inform the requesting party of the duration of such time, which shall be proportionate to the scope of the request, and of the possible need of additional processing of the data requested.
+
+5\. In cases where the data request by other end-users of scientific data than those referred to in paragraph 3 or other interested parties requires additional processing of already collected data, Member States may charge the requesting party the actual costs of the additional processing of data needed before their transmission.
+
+6\. In duly justified cases, the Commission may authorise the extension of the deadline referred to in paragraph 3.
+
+7\. Where detailed data are requested for scientific publication, Member States may, in order to protect the professional interests of data collectors designated by the body in charge of the implementation of the national work plan, require that the publication of data be delayed by 3 years from the date to which the data refer. Member States shall inform the end-users of scientific data and the Commission of any such decision and of the reasons therefor.
+
+#### Article 18 — Compatible data storage and exchange systems
+
+1\. With a view to reducing costs and facilitating access to detailed and aggregated data for end-users of scientific data and other interested parties, Member States, the Commission, scientific advisory bodies and any relevant end-users of scientific data shall cooperate to develop compatible data storage and exchange systems, taking into account the provisions of Directive 2007/2/EC. Those systems shall also facilitate dissemination of information to other interested parties. Such systems may take the form of regional databases. Regional work plans referred to in Article 9(8) of this Regulation may serve as a basis for agreement on such systems.
+
+2\. The Commission shall be empowered to adopt implementing acts laying down rules on procedures, formats, codes and timetables to be used to ensure the compatibility of data storage and exchange systems, and to establish safeguards, where appropriate, in the event that the data storage and exchange systems referred to in paragraph 1 of this Article include information relating to identified or identifiable natural persons. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 25(2).
+
+#### Article 19 — Review of refusal to provide data
+
+If a Member State refuses to provide data under Article 17(7), the end-user of scientific data may request the Commission to review the refusal. If the Commission finds that the refusal is not duly justified, it may require the Member State to supply the data to the end-user of scientific data within 1 month.
+
+#### Article 20 — Obligations for end-users of scientific data and other interested parties
+
+1\. The end-users of scientific data and other interested parties shall:
+
+(a) use the data only for the purpose stated in their information request in accordance with Article 17;
+
+(b) duly acknowledge the data sources;
+
+(c) be responsible for correct and appropriate use of the data with regard to scientific ethics;
+
+(d) inform the Commission and the Member States concerned of any suspected problems with the data;
+
+(e) provide the Member States concerned and the Commission with references to the results of the use of the data;
+
+(f) not forward the requested data to third parties without consent from the Member State concerned;
+
+(g) not sell the data to any third party.
+
+2\. The Member States shall inform the Commission of any non-compliance by the end-users of scientific data or other interested parties.
+
+3\. Where the end-users of scientific data or other interested parties fail to comply with any of the requirements set out in paragraph 1, the Commission may allow the Member State concerned to limit or refuse those data users’ access to the data.
+
+## CHAPTER IV — SUPPORT FOR SCIENTIFIC ADVICE
+
+#### Article 21 — Participation in meetings of international bodies
+
+Member States shall ensure that their national experts participate in relevant meetings of regional fisheries management organisations to which the Union is contracting party or observer and of international scientific bodies.
+
+#### Article 22 — International coordination and cooperation
+
+1\. Member States and the Commission shall coordinate their efforts and cooperate in order to further improve the quality, timeliness and coverage of data enabling further improvement of the reliability of scientific advice, the quality of the work plans and the working methods of the regional fisheries management organisations to which the Union is contracting party or observer and of international scientific bodies.
+
+2\. Such coordination and cooperation shall take place without prejudice to open scientific debate and shall aim to promote impartial scientific advice.
+
+## CHAPTER V — FINAL PROVISIONS
+
+#### Article 23 — Monitoring
+
+1\. The Commission, in association with STECF, shall monitor the progress of the work plans in the Committee for fisheries and aquaculture referred to in Article 25.
+
+2\. By 11 July 2020, the Commission shall submit to the European Parliament and to the Council a report on the implementation and functioning of this Regulation.
+
+#### Article 24 — Exercise of the delegation
+
+1\. The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in this Article.
+
+2\. The power to adopt delegated acts referred to in Article 4(1) shall be conferred on the Commission for a period of 3 years from 10 July 2017. The Commission shall draw up a report in respect of the delegation of power not later than 9 months before the end of the 3-year period. The delegation of power shall be tacitly extended for periods of an identical duration, unless the European Parliament or the Council opposes such extension not later than 3 months before the end of each period.
+
+3\. The delegation of power referred to in Article 4(1) may be revoked at any time by the European Parliament or by the Council. A decision to revoke shall put an end to the delegation of the powers specified in that decision. It shall take effect the day following the publication of the decision in the Official Journal of the European Union or at a later date specified therein. It shall not affect the validity of any delegated acts already in force.
+
+4\. Before adopting a delegated act, the Commission shall consult experts designated by each Member State in accordance with the principles laid down in the Interinstitutional Agreement of 13 April 2016 on Better Law-Making.
+
+5\. As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and to the Council.
+
+6\. A delegated act adopted pursuant to Article 4(1) shall enter into force only if no objection has been expressed either by the European Parliament or the Council within a period of 2 months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by 2 months at the initiative of the European Parliament or of the Council.
+
+#### Article 25 — Committee procedure
+
+1\. When implementing this Regulation the Commission shall be assisted by the Committee for fisheries and aquaculture established by Article 47 of Regulation (EU) No 1380/2013. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2\. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+#### Article 26 — Repeal and transitional provisions
+
+1\. Regulation (EC) No 199/2008 is repealed with effect from 10 July 2017.
+
+2\. Notwithstanding paragraph 1:
+
+(a) the repealed provisions shall remain applicable for national programmes approved before 10 July 2017;
+
+(b) the multiannual Union programme in force on 10 July 2017, as referred to in Article 3 of Regulation (EC) No 199/2008, shall remain applicable for the period of its duration or until a new multiannual Union programme has been adopted under this Regulation, whichever occurs first.
+
+3\. References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table set out in the Annex hereto.
+
+#### Article 27 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Correlation table**
+
+| Regulation (EC) No 199/2008 | This Regulation |
+| --- | --- |
+| Article 1(1) | Article 1(1) |
+| Article 1(2) | Article 1(1) |
+| — | Article 1(2) |
+| — | Article 1(3) |
+| Article 1(3) | Article 2 |
+| Article 2(a), (c) to (h) | Article 3(1) to (7) |
+| Article 2(b), (i), (j), (k) | — |
+| — | Article 3(8) and (9) |
+| Article 3 | Articles 4 and 5 |
+| Article 4 | Article 6 |
+| Article 5 | Articles 8 and 9 |
+| — | Article 7 |
+| Article 6 | Article 10 |
+| Article 7 | Article 11 |
+| Article 8 | — |
+| Article 9 | — |
+| Article 10 | Article 12(1) |
+| Article 11 | Article 12(2) and (3) |
+| Article 12 | Article 5(1)(b) and (5) |
+| Article 13 | Article 13 |
+| Article 14 | Article 14 |
+| Article 15 | — |
+| Article 16 | Article 15 |
+| Article 17 | Article 16 |
+| Articles 18, 19 and 20 | Article 17 |
+| Article 21 | Article 19 |
+| Article 22 | Article 20 |
+| Article 23 | Article 21 |
+| Article 24 | Article 22 |
+| Articles 25 and 27 | Articles 24 and 25 |
+| Article 26 | Article 23(1) |
+| — | Article 23(2) |
+| Article 28 | Article 26 |
+| Article 29 | Article 27 |
+| Annex | Annex |

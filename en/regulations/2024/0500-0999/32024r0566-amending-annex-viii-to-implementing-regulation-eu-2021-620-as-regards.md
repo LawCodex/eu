@@ -1,0 +1,106 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/566 of 14 February 2024 amending Annex VIII to Implementing Regulation (EU) 2021/620 as regards the approval or withdrawal of the disease-free status of certain zones of Germany and Spain as regards infection with bluetongue virus (serotypes 1-24) and the approval of the extension of an eradication programme for infection with that virus"
+identifier: "32024R0566"
+eli: "http://data.europa.eu/eli/reg_impl/2024/566/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-02-14
+entry_into_force: 2024-05-08
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R0566"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/566 of 14 February 2024 amending Annex VIII to Implementing Regulation (EU) 2021/620 as regards the approval or withdrawal of the disease-free status of certain zones of Germany and Spain as regards infection with bluetongue virus (serotypes 1-24) and the approval of the extension of an eradication programme for infection with that virus
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/566**
+
+**of 14 February 2024**
+
+**amending Annex VIII to Implementing Regulation (EU) 2021/620 as regards the approval or withdrawal of the disease-free status of certain zones of Germany and Spain as regards infection with bluetongue virus (serotypes 1-24) and the approval of the extension of an eradication programme for infection with that virus**
+
+**(Text with EEA relevance)**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (‘Animal Health Law’) (1), and in particular Articles 31(4), second subparagraph, 36(4) and 42(4) thereof,
+
+Whereas:
+
+(1) Regulation (EU) 2016/429 lays down disease-specific rules for the diseases listed in accordance with Article 5(1) thereof, and how those rules are to be applied to different categories of listed diseases. In addition, it provides for the Member States to establish compulsory eradication programmes for the listed diseases referred to in Article 9(1), point (b), thereof, and for optional eradication programmes for the listed diseases referred to in Article 9(1), point (c), thereof, and for the approval of such programmes by the Commission. That Regulation also provides for the approval or withdrawal by the Commission of the disease-free status of Member States or zones or compartments thereof regarding certain listed diseases referred to in Article 9(1), points (b) and (c), thereof.
+
+(2) Commission Delegated Regulation (EU) 2020/689 (2) supplements Regulation (EU) 2016/429 and lays down the criteria for granting, maintaining, suspending, and withdrawing disease-free status for Member States or zones or compartments thereof, and the requirements for the approval of compulsory or optional eradication programmes for Member States or zones or compartments thereof.
+
+(3) Commission Implementing Regulation (EU) 2021/620 (3) lays down implementing rules for the listed diseases, referred to in Article 9(1), points (a), (b) and (c), of Regulation (EU) 2016/429, of animals, as regards the disease-free and non-vaccination status of certain Member States or zones or compartments thereof, and the approval of eradication programmes for those listed diseases. More particularly, it lists in the Annexes thereto, the Member States or zones or compartments thereof with disease-free status, and it also lists the existing approved compulsory or optional eradication programmes. The changing epidemiological situation as regards infection with bluetongue virus (serotypes 1-24) (BTV) in certain Member States makes it necessary to amend Annex VIII to Implementing Regulation (EU) 2021/620 to reflect the current situation.
+
+(4) As regards infection with BTV, Spain has submitted to the Commission information demonstrating that the conditions for recognition of disease-free status from infection with BTV are fulfilled for the Autonomous Community of the Balearic Islands. Following the assessment by the Commission, that application has been shown to comply with the criteria laid down in Part II, Chapter 4, of Delegated Regulation (EU) 2020/689 for the granting of disease-free status from infection with BTV. Therefore, that area should be added to the territory of Spain which is listed as free from infection with BTV, in Part I of Annex VIII to Implementing Regulation (EU) 2021/620, and should be deleted from the territory of Spain which is listed as having an approved eradication programme for infection with BTV, in Part II of that Annex VIII.
+
+(5) As regards infection with BTV, Germany has notified the Commission of an outbreak of infection with BTV serotype 3 affecting the states of Lower Saxony and Bremen, and Spain has notified the Commission of several outbreaks of infection with BTV serotype 4 in the province of La Coruña and also affecting the province of Lugo in the Autonomous Community of Galicia; in the Autonomous Community of Asturias and also affecting the Autonomous Community of Cantabria; in the Community of Madrid and affecting also the province of Ávila and the municipalities of Cantalejo, Carbonero El Mayor, Santa María la Real de Nieva, Segovia and Villacastín in the province of Segovia, in the Autonomous Community of Castilla y León. In addition, Spain has also notified the Commission of several outbreaks of infection with BTV serotype 4 in the Autonomous Community of Murcia, and also affecting the provinces of Almería and Granada in the Autonomous Community of Andalusia. As those states in Germany and those areas of the autonomous communities in Spain are recognised as having disease-free status and are listed in Part I of Annex VIII to Implementing Regulation (EU) 2021/620, such disease-free status from infection with BTV should be withdrawn, and the entries for Germany and Spain in that list should be amended accordingly.
+
+(6) As regards infection with BTV, Spain has also informed the Commission that it has extended the territorial scope of the optional eradication programme already approved for the zone listed in Part II of Annex VIII to Implementing Regulation (EU) 2021/620 with the addition of a zone comprising certain areas of the province of La Coruña, and the province of Lugo in the Autonomous Community of Galicia, the Autonomous Community of Asturias, the Autonomous Community of Cantabria, certain areas of the Community of Madrid, certain areas of the province of Ávila and of the province of Segovia, in the Autonomous Community of Castilla y León, the provinces of Almería and Granada in the Autonomous Community of Andalusia, and the Autonomous Community of Murcia. Therefore, these areas should be added to the entry for Spain in Part II of Annex VIII to Implementing Regulation (EU) 2021/620, to the zone with an approved eradication programme for infection with BTV.
+
+(7) Annex VIII to Implementing Regulation (EU) 2021/620 should, therefore, be amended accordingly.
+
+(8) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+Annex VIII to Implementing Regulation (EU) 2021/620 is amended in accordance with the Annex to this Regulation.
+
+## Article 2
+
+This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 14 February 2024.
+
+For the Commission
+
+The President
+
+Ursula VON DER LEYEN
+
+(1) OJ L 84, 31.3.2016, p. 1, ELI: http://data.europa.eu/eli/reg/2016/429/oj.
+
+(2) Commission Delegated Regulation (EU) 2020/689 of 17 December 2019 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for surveillance, eradication programmes, and disease-free status for certain listed and emerging diseases (OJ L 174, 3.6.2020, p. 211, ELI: http://data.europa.eu/eli/reg_del/2020/689/oj).
+
+(3) Commission Implementing Regulation (EU) 2021/620 of 15 April 2021 laying down rules for the application of Regulation (EU) 2016/429 of the European Parliament and of the Council as regards the approval of the disease-free and non-vaccination status of certain Member States or zones or compartments thereof as regards certain listed diseases and the approval of eradication programmes for those listed diseases (OJ L 131, 16.4.2021, p. 78, ELI: http://data.europa.eu/eli/reg_impl/2021/620/oj).
+
+## ANNEX
+
+Annex VIII to Implementing Regulation (EU) 2021/620 is amended as follows:
+
+(1) Part I is amended as follows:
+
+(a) the entry for Germany is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Germany | Whole territory except Bundesland Bremen, Niedersachsen, Nordrhein-Westfalen’ |
+
+(b) the entry for Spain is replaced by the following:
+
+| Member State | Territory |
+| --- | --- |
+| ‘Spain | Comunidad Autónoma de Aragón Comunidad Autónoma de Canarias Comunidad Autónoma de Castilla-La Mancha: Province of Guadalajara Comunidad Autónoma de Castilla y León, except the following areas: Province of Ávila Province of Salamanca Cantalejo, Carbonero El Mayor, Santa María la Real de Nieva, Segovia, Villacastín in the Province of Segovia Alcañices, Bermillo de Sayago, Puebla de Sanabria in the Province of Zamora Comunidad Autónoma de Cataluña Comunidad Autónoma de La Rioja Comunidad Autónoma de las Islas Baleares Comunidad Autónoma de Navarra Comunidad Autónoma del País Vasco Comunidad Autónoma de Valencia’ |
+
+(2) Part II is replaced by the following:
+
+**‘PART II**
+
+**Member States or zones thereof with an approved eradication programme for infection with BTV**
+
+| Member State | Territory | Date of initial approval as referred to in Article 15(2) of Delegated Regulation (EU) 2020/689 |
+| --- | --- | --- |
+| Spain | Comunidad Autónoma de Andalucía Comunidad Autónoma de Castilla-La Mancha, except the Province of Guadalajara Comunidad Autónoma de Asturias Comunidad Autónoma de Cantabria Comunidad Autónoma de Castilla y León: Province of Ávila Province of Salamanca Province of Segovia, the following districts: Cantalejo, Carbonero El Mayor, Santa María la Real de Nieva, Segovia, Villacastín Province of Zamora, the following districts: Alcañices, Bermillo de Sayago, Puebla de Sanabria Comunidad Autónoma de Extremadura Comunidad Autónoma de Galicia Comunidad Autónoma de Madrid Comunidad Autónoma de Murcia | 21 February 2022’ |
+
+ELI: http://data.europa.eu/eli/reg_impl/2024/566/oj
+
+ISSN 1977-0677 (electronic edition)

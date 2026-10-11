@@ -22,11 +22,13 @@ retrieved: 2026-10-11
 
 **on the marketing of propagating material of ornamental plants**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> COUNCIL REGULATION (EC) No 806/2003 of 14 April 2003</td><td> L 122</td><td>1</td><td>16.5.2003</td></tr>
 <tr><td></td><td> COUNCIL DIRECTIVE 2003/61/EC of 18 June 2003</td><td> L 165</td><td>23</td><td>3.7.2003</td></tr>
 <tr><td></td><td> REGULATION (EU) No 652/2014 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 15 May 2014 </td><td> L 189</td><td>1</td><td>27.6.2014</td></tr>
+</table>
 
 **COUNCIL DIRECTIVE 98/56/EC**
 

@@ -134,6 +134,7 @@ Member of the Commission
 
 **INDICATIVE OCCUPATIONAL EXPOSURE LIMIT VALUES**
 
+<table>
 <tbody><tr><td rowspan="3">EINECS (1)</td><td rowspan="3">CAS (2)</td><td rowspan="3">Name of agent</td><td colspan="4">Limit values</td><td rowspan="3">Notation (3)</td></tr>
 <tr><td colspan="2">8 hours (4)</td><td colspan="2">Short term (5)</td></tr>
 <tr><td>mg/m3 (6)</td><td>ppm (7)</td><td>mg/m3 (6)</td><td>ppm (7)</td></tr>
@@ -171,6 +172,7 @@ Member of the Commission
 <tr><td>8003-34-7</td><td>Pyrethrum (purified of sensitising lactones)</td><td>1 </td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
 <tr><td>233-060-3</td><td>10026-13-8</td><td>Phosphorus pentachloride</td><td>1 </td><td>—</td><td>—</td><td>—</td><td>—</td></tr>
 </tbody>
+</table>
 
 (1) EINECS: European Inventory of Existing Chemical Substances.
 

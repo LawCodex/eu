@@ -1,0 +1,68 @@
+---
+title: "Commission Implementing Regulation (EU) No 510/2012 of 15 June 2012 amending Regulation (EC) No 1238/95 as regards the application fee payable to the Community Plant Variety Office"
+identifier: "32012R0510"
+eli: "http://data.europa.eu/eli/reg_impl/2012/510/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2012-06-15
+entry_into_force: 2012-01-01
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32012R0510"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) No 510/2012 of 15 June 2012 amending Regulation (EC) No 1238/95 as regards the application fee payable to the Community Plant Variety Office
+
+**COMMISSION IMPLEMENTING REGULATION (EU) No 510/2012**
+
+**of 15 June 2012**
+
+**amending Regulation (EC) No 1238/95 as regards the application fee payable to the Community Plant Variety Office**
+
+THE EUROPEAN COMMISSION,
+
+Having regard to the Treaty on the Functioning of the European Union,
+
+Having regard to Council Regulation (EC) No 2100/94 of 27 July 1994 on Community plant variety rights (1), and in particular Article 113 thereof,
+
+After consulting the Administrative Council of the Community Plant Variety Office,
+
+Whereas:
+
+(1) Commission Regulation (EC) No 1238/95 of 31 May 1995 establishing implementing rules for the application of Council Regulation (EC) No 2100/94 as regards the fees payable to the Community Plant Variety Office (2), sets out the fees payable to the Community Plant Variety Office (‘the Office’), and the levels of those fees.
+
+(2) The reserve of the Office has exceeded the level necessary to maintain a balanced budget and to safeguard the continuity of its operations. For this reason the application fee should be reduced.
+
+(3) Regulation (EC) No 1238/95 should therefore be amended accordingly.
+
+(4) The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Community Plant Variety Rights,
+
+HAS ADOPTED THIS REGULATION:
+
+## Article 1
+
+In Article 7 of Regulation (EC) No 1238/95, paragraph 1 is replaced by the following:
+
+‘1. The applicant for a Community plant variety right (the applicant) shall pay an application fee of EUR 650 for the processing of the application as referred to in Article 113(2)(a) of the Basic Regulation.’
+
+## Article 2
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 1 January 2013.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+Done at Brussels, 15 June 2012.
+
+For the Commission
+
+The President
+
+José Manuel BARROSO
+
+(1) OJ L 227, 1.9.1994, p. 1.
+
+(2) OJ L 121, 1.6.1995, p. 31.

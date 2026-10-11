@@ -1,0 +1,506 @@
+---
+title: "Commission Implementing Regulation (EU) 2024/2982 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards protocols and interfaces to be supported by the European Digital Identity Framework"
+identifier: "32024R2982"
+eli: "http://data.europa.eu/eli/reg_impl/2024/2982/oj"
+type: regulation
+subtype: implementing
+jurisdiction: eu
+language: en
+date: 2024-11-28
+entry_into_force: 2025-01-06
+last_amended: 2026-08-11
+consolidated_version: "02024R2982-20260811"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02024R2982-20260811"
+retrieved: 2026-10-11
+---
+
+# Commission Implementing Regulation (EU) 2024/2982 of 28 November 2024 laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards protocols and interfaces to be supported by the European Digital Identity Framework
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2982**
+
+**of 28 November 2024**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards protocols and interfaces to be supported by the European Digital Identity Framework**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2026/1731 of 15 July 2026 </td><td> L 1731</td><td>1</td><td>22.7.2026</td></tr>
+</table>
+
+**COMMISSION IMPLEMENTING REGULATION (EU) 2024/2982**
+
+**of 28 November 2024**
+
+**laying down rules for the application of Regulation (EU) No 910/2014 of the European Parliament and of the Council as regards protocols and interfaces to be supported by the European Digital Identity Framework**
+
+## Article 1 — Subject matter and scope
+
+This Regulation lays down rules on the protocols and interfaces of wallet solutions for:
+
+(1) the issuance of person identification data and electronic attestations of attributes to wallet units;
+
+(2) the presentation of attributes of person identification data and electronic attestations of attributes to wallet-relying parties;
+
+(3) the communication of data erasure requests to wallet-relying parties;
+
+(4) the reporting of wallet-relying parties to supervisory authorities established under Article 51 of Regulation (EU) 2016/679;
+
+to be updated on a regular basis to keep in line with technology and standards developments and with the work carried out on the basis of Recommendation (EU) 2021/946, and in particular the Architecture and Reference Framework.
+
+## Article 2 — Definitions
+
+For the purpose of this Regulation, the following definitions apply:
+
+(1) ‘wallet-relying party’ means a relying party that intends to rely upon wallet units for the provision of public or private services by means of digital interaction;
+
+(2) ‘wallet user’ means a user who is in control of the wallet unit;
+
+(3) ‘wallet solution’ means a combination of software, hardware, services, settings, and configurations, including wallet instances, one or more wallet secure cryptographic applications and one or more wallet secure cryptographic devices;
+
+(4) ‘wallet unit’ means a unique configuration of a wallet solution that includes wallet instances, wallet secure cryptographic applications and wallet secure cryptographic devices provided by a wallet provider to an individual wallet user;
+
+(5) ‘wallet provider’ means a natural or legal person who provides wallet solutions;
+
+(6) ‘wallet instance’ means the application installed and configured on a wallet user’s device or environment, which is part of a wallet unit, and that the wallet user uses to interact with the wallet unit;
+
+(7) ‘wallet secure cryptographic application’ means an application that manages critical assets by being linked to and using the cryptographic and non-cryptographic functions provided by the wallet secure cryptographic device;
+
+(8) ‘wallet secure cryptographic device’ means a tamper-resistant device that provides an environment that is linked to and used by the wallet secure cryptographic application to protect critical assets and provide cryptographic functions for the secure execution of critical operations;
+
+(9) ‘critical assets’ means assets within or in relation to a wallet unit of such extraordinary importance that where their availability, confidentiality or integrity are compromised, this would have a very serious, debilitating effect on the ability to rely on the wallet unit;
+
+(10) ‘wallet-relying party access certificate’ means a certificate for electronic seals or signatures authenticating and validating the wallet-relying party issued by a provider of wallet-relying party access certificates;
+
+(11) ‘provider of wallet-relying party access certificates’ means a natural or legal person mandated by a Member State to issue relying party access certificates to wallet-relying parties registered in that Member State;
+
+(12) ‘wallet unit attestation’ means a data object that describes the components of the wallet unit or allows authentication and validation of those components;
+
+(13) ‘embedded disclosure policy’ means a set of rules, embedded in an electronic attestation of attributes by its provider, that indicates the conditions that a wallet-relying party has to meet to access the electronic attestation of attributes;
+
+(14) ‘wallet-relying party registration certificate’ means a data object that indicates the attributes the relying party has registered to intend to request from users;
+
+(15) ‘provider of person identification data’ means a natural or legal person responsible for issuing and revoking the person identification data and ensuring that the person identification data of a user is cryptographically bound to a wallet unit;
+
+(16) ‘cryptographic binding’ means the method to link person identification data or electronic attestations of attributes to wallet units through cryptographic means.
+
+## Article 3 — General provisions
+
+Regarding the protocols and interfaces referred to in Articles 4 and 5, wallet providers shall ensure that wallet units:
+
+(1) authenticate and validate the wallet-relying party access certificates where interacting with wallet-relying parties without delegating execution of these processes to an operating system browser or other intermediary application;
+
+(3) authenticate and validate requests made using wallet-relying party access certificates;
+
+(4) authenticate and validate the wallet-relying party registration certificate;
+
+(5) display to wallet users information contained in the wallet-relying party access certificates;
+
+(6) display to wallet users, where applicable, the attributes that wallet users are requested to present;
+
+(7) display to wallet users, where applicable, information contained in the wallet-relying party registration certificate;
+
+(9) do not present any requested attributes to wallet-relying parties until the following steps have been completed:
+
+(a) verification that embedded disclosure policies have been processed within the wallet unit in accordance with Article 10 of Implementing Regulation (EU) 2024/2979;
+
+(b) verification that wallet users have partially or in full approved the presentation;
+
+(10) enable privacy preserving techniques which ensure unlinkability where the electronic attestations of attributes do not require the identification of the wallet user, when presenting attestations or person identification data across different wallet-relying parties.
+
+## Article 4 — Issuance of person identification data and electronic attestations of attributes to wallet units
+
+1\. Wallet providers shall ensure that wallet solutions support the protocols and interfaces set out in Annex I for the issuance of person identification data and electronic attestations of attributes to wallet units.
+
+2\. Wallet providers shall ensure that wallet units request issuance of person identification data and electronic attestations of attributes only from parties having an authentic and valid wallet-relying party access certificate attesting them as:
+
+(a) a provider of person identification data;
+
+(b) a provider of a qualified electronic attestation of attributes;
+
+(c) a provider of an electronic attestation of attributes issued by or on behalf of a public sector body responsible for an authentic source; or
+
+(d) a provider of non-qualified electronic attestations of attributes.
+
+3\. In relation to the issuance of person identification data and electronic attestations of attributes to a wallet unit, wallet providers shall ensure that the following requirements are complied with:
+
+(a) where wallet users use their wallet unit to request the issuance of person identification data or of electronic attestations of attributes from providers of person identification data or providers of electronic attestations of attributes that enable issuance of person identification data or electronic attestations in more than one format, the wallet unit shall request it in all formats referred to in Article 8 of Implementing Regulation (EU) 2024/2979 laying down rules for the application of Regulation (EU) No 910/2014 as regards the integrity and core functionalities of European Digital Identity Wallets;
+
+(b) where wallet users use their wallet unit to interact with providers of person identification data or electronic attestations of attributes, wallet units shall enable authentication and validation of the wallet unit components by presenting the wallet unit attestations to those providers upon their request;
+
+(c) wallet solutions shall support mechanisms that enable providers of person identification data to verify issuance, delivery and activation in compliance with assurance level high requirements set out in Commission Implementing Regulation (EU) 2015/1502 ( 1 );
+
+(d) wallet units shall verify the authenticity and validity of person identification data and electronic attestations of attributes.
+
+## Article 5 — Presentation of attributes to wallet-relying parties
+
+1\. Wallet providers shall ensure that wallet solutions support protocols and interfaces for the presentation of attributes to wallet-relying parties, remotely, and, where appropriate, in proximity, in accordance with the technical specifications set out in Annex II.
+
+2\. Wallet providers shall ensure that, at the request of users, wallet units respond to successfully authenticated and validated requests from wallet-relying parties referred to in Article 3, in accordance with the technical specifications set out in Annex II.
+
+3\. Wallet providers shall ensure that wallet units support proving the possession of private keys corresponding to public keys used in cryptographic bindings.
+
+4\. Wallet providers shall ensure that wallet solutions support the selective disclosure of attributes of personal identification data and of electronic attestations of attributes.
+
+## Article 6 — Communication of data erasure requests
+
+1\. Wallet providers shall ensure that wallet units support protocols and interfaces allowing wallet users to request from wallet-relying parties, with whom they have interacted through those wallet units, the erasure of their personal data provided through those wallet units, in accordance with Article 17 of Regulation (EU) 2016/679.
+
+2\. The protocols and interfaces referred to in paragraph 1 shall allow wallet users to select the wallet-relying parties to which data erasure requests are to be submitted.
+
+3\. Wallet units shall display to the wallet user previously submitted data erasure requests made through those wallet units.
+
+## Article 7 — Reporting of wallet-relying parties to supervisory authorities established under Article 51 of Regulation (EU) 2016/679
+
+1\. Wallet providers shall ensure that wallet units allow wallet users to easily report wallet-relying parties to supervisory authorities established under Article 51 of Regulation (EU) 2016/679.
+
+2\. Wallet providers shall implement the protocols and interfaces for reporting wallet-relying parties in compliance with national procedural laws of the Member States.
+
+3\. Wallet providers shall ensure that wallet units allow wallet users to substantiate the reports, including by attaching relevant information to identify the wallet-relying parties, and the wallet users’ claims in machine-readable format.
+
+## Article 8 — Entry into force
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+Article 3(4) shall apply from 11 August 2028.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX I — Protocols and interfaces referred to in Article 4
+
+The technical specification ETSI TS 119 472 -3 V1.1.1 (2026-03) shall apply with the following adaptations:
+
+1.
+
+4.1 General requirements
+
+— GEN-REQ-4.1-05: Void
+
+— NOTE: Void
+
+2.
+
+4.2.3 Provision of registration certificates of PID/EAA Provider to EUDI Wallet
+
+— ISS-MDATA-REG_CERT-4.2.3-04: One of the elements in the issuer_info array parameter shall contain the PID/EAA Provider's registration certificate.
+
+— ISS-MDATA-REG_CERT-4.2.3-07: void
+
+— ISS-MDATA-REG_CERT-4.2.3-08: void
+
+— ISS-MDATA-REG_CERT-4.2.3-09: void
+
+— ISS-MDATA-REG_CERT-4.2.3-10: void
+
+— ISS-MDATA-REG_CERT-4.2.3-11: void
+
+— ISS-MDATA-REG_CERT-4.2.3-12: void
+
+— ISS-MDATA-REG_CERT-4.2.3-13: void
+
+3\. 4.2.4.2 ARF pre-defined PID/EAA reuse policy
+
+— ISS-MDATA-EAA-REUSE-POL-4.2.4.2-09: Where the id member has the value 'arf_annex_ii' and the array mapped to the label 'details' contains the value 'once_only' or the value 'per-relying-party', then the JSON Object that contains this array mapped to the label 'details' shall also contain a JSON number mapped to the label 'reissue_trigger_unused'.
+
+4\. Annex A shall not apply.
+
+## ANNEX II — Technical specifications referred to in Article 5
+
+The technical specification in Annex C to ISO/IEC 18013-7:2025 shall apply.
+
+The technical specifications in clauses 4.1, 4.2, 5, and 6 of ETSI TS 119 472 -2 V1.2.1 (2026-03), shall apply with the following adaptations, including the insertion of a new clause 4.3:
+
+(1)
+
+1 Scope
+
+— The present document specifies two profiles of protocols for allowing Relying Parties (RP hereinafter) to request EAAPs or Personal Identification Data (PID hereinafter) to the EUDI Wallet, and the EUDI Wallet to send the requested EAAPs/PIDs to the RP. Each of the profiles supports two transmission mechanisms, namely: API-mediated and non-API mediated, as shown below:
+
+(a) A profile is built on:
+
+— ISO/IEC 18013-5 [10] for non-API mediated transmission mechanism only, and
+
+— Annex C of ISO/IEC 18013-7 [16] for API-mediated transmission mechanism.
+
+This profile is named ISO/IEC-mdoc profile and it is defined in clause 5 of the present document.
+
+(b) A profile is built on:
+
+OpenID4VC-HAIP [11] for both API-mediated and non-API mediated transmission mechanisms, as follows:
+
+— Sections 5, 5.1, 5.3, 7, and 8 of [11] for transmission via Redirects or non-API mediated transmission mechanism, and
+
+— Sections 5, 5.2, 5.3, 7, and 8 of [11] for API-mediated transmission mechanism.
+
+This profile is named OpenID4VC-HAIP profile and it is defined in clause 6 of the present document.
+
+(2)
+
+2.1 Normative references
+
+— [15] ISO 639: 'Language code'.
+
+— [16] ISO/IEC 18013-7:2025 'Personal identification – ISO – compliant driving licence – Part 7: Mobile driving licence (mDL) add-on functions'.
+
+(3)
+
+4.1 EAAP implementation based on SD-JWT VC
+
+— EAAP-SD-JWT VC-04: void.
+
+(4)
+
+4.2 EAAP implementation based on ISO/IEC-mdoc
+
+— EAAP-ISO/IEC-mdoc-01: void.
+
+— Note2: void.
+
+— EAAP-ISO/IEC-mdoc-02: void.
+
+(5)
+
+4.3 EAAP implementation with mediating API
+
+— EAAP-API-GEN-01: The EUDI Wallet shall support a mediating API that supports both protocols defined in clause 5.2 of [11] and in Annex C of [16].
+
+— NOTE: Where the device on which the EUDI Wallet is installed does not support both protocols, this requirement cannot be met and triggers a non-conformity due to underlying operating systems and browsers not implementing the necessary interoperability features.
+
+— EAAP-API-GEN-02: The EUDI Wallet shall support a mediating API at least for PIDs and EAA types registered in the catalogue of schemes as defined in Implementing Regulation (EU) 2025/1569, and at least for all the formats defined in Annex II to Implementing Regulation (EU) 2024/2979.
+
+— NOTE 1: Where the underlying operating system, browser, mediating APIs, or any other technical layer outside the control of the EUDI Wallet restricts, filters, preselects, or otherwise constrains the credential formats, and the PID and EAA types registered in the catalogue of schemes, this requirement cannot be met. Where such a restriction prevents the EUDI Wallet from supporting a registered credential type or format, the resulting non-conformity is attributable to the failure of those underlying operating systems, browsers, mediating API, or other relevant technical layer to provide the necessary interoperability features.
+
+(6)
+
+4.4 Wallet-relying party validation and overasking checks
+
+— WRP-VALIDATION-01: The EUDI Wallet shall validate the wallet-relying party registration certificate received in the request before presenting any requested PID or electronic attestation of attributes to the wallet user for approval.
+
+— WRP-VALIDATION-02: Where the validation of the wallet-relying party registration certificate fails, including where the certificate is expired, revoked, not issued by a valid trusted provider of wallet-relying party registration certificates, malformed, or cannot be cryptographically verified, the EUDI Wallet shall warn the wallet user that the wallet-relying party could not be validated and shall not present the request as successfully validated. The wallet user shall explicitly approve the request of the relying party. Silence or pre-ticked boxes shall not suffice for explicit approval.
+
+— WRP-VALIDATION-03: The wallet provider shall determine, based on its risk analysis and security policy, whether and under which conditions specific failed validation checks may be bypassed by the wallet user.
+
+— WRP-OVERASKING-01: The EUDI Wallet shall compare the attestations and attributes requested by the wallet-relying party with the registered attestations and attributes in the wallet-relying party registration certificate.
+
+— WRP-OVERASKING-02: Where the wallet-relying party requests PID or electronic attestations of attributes or claims that are not covered by the wallet-relying party registration certificate, the EUDI Wallet shall clearly warn the wallet user before any disclosure. The warning shall identify that the wallet-relying party is requesting more information than it has registered. The wallet user shall explicitly approve the request of the relying party. Silence or pre-ticked boxes shall not suffice for explicit approval.
+
+— WRP-OVERASKING-03: The wallet provider shall determine, based on its risk analysis, security policy and applicable law, whether the wallet user may continue despite such warning, whether only the subset of requested data covered by the registration certificate may be disclosed, or whether the request shall be rejected.
+
+(7)
+
+5.1 Introduction
+
+— Clause 5 and its subclauses define a profile for a protocol allowing a RP to request EAAPs or PIDs to the EUDI Wallet, and the EUDI Wallet to send the requested EAAPs/PIDs to the RP using either a non-API mediated transmission mechanism, built on ISO/IEC 18013-5 [10] or an API-mediated transmission mechanism built on Annex C of ISO/IEC 18013-7 [16] for transferring the data structures defined in ISO/IEC 18013-5 [10] suitably encapsulated.
+
+— The rest of clause 5 is organised as follows:
+
+— Clause 5.2 defines requirements on support of the profile and transmission mechanisms by RPs and EUDI Wallet;
+
+— Clause 5.3 specifies requirements that are specific for the non-API mediated transmission mechanism;
+
+— Clause 5.4 and its subclauses specify requirements that are specific for the API-mediated transmission mechanism.
+
+(8)
+
+5.2 Requirements on EUDI Wallet and RP support
+
+— ISO/IEC 18013-SUPPORT-01: Wallet Units, PID Providers, Attestation Providers, Wallet Providers, and Relying Parties shall not support server retrieval as specified in ISO/IEC 18013-5 [10] for requesting and presenting PID or attestation attributes.
+
+— ISO/IEC 18013-SUPPORT-02: The EUDI Wallet shall meet the requirements defined in clauses 5.3 and 5.4 of the present document.
+
+— ISO/IEC 18013-SUPPORT-04: A Relying Party should implement the profile defined in clause 5.4 of the present document.
+
+(9)
+
+5.3.2 ISO/IEC-mdoc EAAP Request contents
+
+— ISO/IEC 18013-5-REQ-04: Device requests sent to EUDI Wallets shall contain the 'requestInfo' key-value pair specified in clause 8.3.2.1.2.1 of [10]. The value of this pair shall be of type RequestInfo.
+
+— ISO/IEC 18013-5-REQ-05: The RequestInfo type shall be as the CDDL definition shows below.
+
+RequestInfo = {
+
+'euWrprc': bstr ; contains a registration certificate (see requirements below)
+
+}
+
+— ISO/IEC 18013-5-REQ-06: The mentioned requestInfo member shall contain a member with label 'euWrprc'
+
+— ISO/IEC 18013-5-REQ-07: The value of the 'euWrprc' shall be a CBOR-encoded registration certificate.
+
+— ISO/IEC 18013-5-REQ-08: void.
+
+— NOTE 3: void.
+
+— ISO/IEC 18013-5-REQ-09: void.
+
+— ISO/IEC 18013-5-REQ-10: void.
+
+— ISO/IEC 18013-5-REQ-11: void.
+
+(10)
+
+5.3.3 ISO/IEC-mdoc EAAP Response profile
+
+— The present clause defines requirements for the DeviceResponse message type, common to the two types of transmission mechanisms (API-mediated and non-API mediated).
+
+— NOTE 1: Where a non-API mediated mechanism built on ISO/IEC 18013-5 [10] is used, an EAAP Response is exactly an instance of DeviceResponse as profiled in the present clause, Where an API-mediated mechanism built on Annex C of ISO/IEC 18013-7 [16] is used, the instance of DeviceRequest is encapsulated as specified in Annex C of [16].
+
+— ISO/IEC 18013-5-RESP-02: The provider of person identification data and electronic attestations of attributes shall not include any data elements in the KeyAuthorizations map in the Mobile Security Object of the person identification data and electronic attestations of attributes they issue, except for data elements that are provided by the wallet-relying party in the transactional data in the mdoc request to be signed or sealed by the wallet unit using the private key of the person identification data or electronic attestations of attributes.
+
+— NOTE 2: As a result, wallet units cannot present any device-signed data elements to wallet-relying parties, except to signing data that the wallet-relying party provided, for example in use cases for secure user authentication.
+
+— NOTE 3: ISO/IEC 18013-5:2021 does not specify how wallet-relying parties can include transactional data in an mdoc request. The inclusion of transactional data in an mdoc request shall take place with the addition of technical specifications.
+
+— ISO/IEC 18013-5-RESP-03: Providers of person identification data shall not allow the private key of the person identification data to sign data elements that are provided by the wallet-relying party in the transactional data in the mdoc request.
+
+(11)
+
+5.4 Requirements for API mediated mechanism
+
+5.4.1 ISO/IEC 18013-7-related requirements
+
+The present clause defines requirements for API-mediated transmission mechanism related to the requirements defined in Annex C of [16].
+
+— ISO/IEC 18013-7-API-01: The profile supporting API-mediated presentations shall comply with the requirements in Annex C of ISO/IEC 18013-7 [16] as further profiled in clauses 5.3 and 5.4 of the present document.
+
+— ISO/IEC 18013-7-API-02: All the mandatory requirements defined in Annex C of [16] shall apply as further profiled in clauses 5.3 and 5.4 of the present document.
+
+— ISO/IEC 18013-7-API-03: All the optional requirements defined in Annex C of [16] shall remain optional unless stated otherwise in the present document.
+
+(12)
+
+5.4.2 Additional requirements
+
+— The present clause specifies additional requirements for API-mediated transmission mechanism.
+
+— ISO/IEC 18013-ADD-API-01: The EUDI Wallet shall by default disclose the presence of all stored electronic attestations of attributes’ type to the mediating API that works in accordance with Annex C of [16], but it shall not disclose the attributes and their values in these electronic attestations of attributes.
+
+— NOTE 1: The attribute value restriction applies even if such disclosure would enhance the services provided by the Operating System to the EUDI Wallet, for example, attestation selection in the context of the mediating API.
+
+— There are the considerations related to operating systems and browsers which fall out of the control of implementers, which can be taken into account as indicated in the following notes 2 to 4:
+
+— NOTE 2: A presentation request from a Relying Party supporting Annex C of [16] can be processed by the browser and/or the Operating System for searching available EAAs, for preventing fraud targeting the User, or for troubleshooting purposes.
+
+— NOTE 3: A presentation request from a Relying Party supporting Annex C of [16] is expected to be processed by the browser and/or the Operating System for User security purposes.
+
+— NOTE 4: A presentation request from a Relying Party supporting Annex C of [16] is expected not to be processed by the browser and/or the Operating System for market analysis purposes (including as a secondary purpose) or for the browser's and/or the Operating System's internal purposes.
+
+— ISO/IEC 18013-ADD-API-02: Where an EUDI Wallet deletes on the User's request a PID or EAA previously disclosed to the mediating API that works in accordance with Annex C of [16], the EUDI Wallet shall disclose the fact that it no longer stores this PID or EAA to the mediating API.
+
+— ISO/IEC 18013-ADD-API-03: If the User uninstalls their EUDI Wallet, the EUDI Wallet shall disclose the fact that it no longer stores any previously disclosed PID(s) or EAA(s) to the mediating API that works in accordance with Annex C of [16].
+
+— ISO/IEC 18013-ADD-API-04: The EUDI Wallet shall provide a global user setting to disable the disclosure of stored EAAs via a mediating API that works as is specified in ISO/IEC 18013-ADD-API-01. When this setting is disabled, the EUDI Wallet shall not advertise or respond to the API-mediated presentation or issuance requests.
+
+— ISO/IEC 18013-ADD-API-05: EUDI Wallets shall verify in cross-device flows, using the mediating API, that the interacting device is in close physical proximity to the EUDI Wallet using a secure, direct, and user-mediated local communication channel, such as a short-range wireless communication technology to perform the physical proximity check.
+
+— NOTE: CTAP 2.3 enables to use BLE to perform the close physical proximity check and when implemented by both devices, also enables to transport the data between the devices via short-range transmission technologies. Performing both the physical proximity check and data transfer between the two devices using a local communication channel as enabled by CTAP 2.3, should be preferred by underlying operating systems, browsers, mediating APIs, or any other technical layer outside the control of the EUDI Wallet over the use of CTAP Hybrid tunnel services.
+
+(13)
+
+6.2 Requirements on EUDI Wallet and RP support
+
+— OIDFVP-HAIP-SUPPORT-02: The EUDI Wallet shall meet the requirements specified in clause 6.5 of the present Annex.
+
+— OIDFVP-HAIP-SUPPORT-03: The EUDI Wallet should not support the redirects-based mechanism specified in clause 6.4 for cross-device presentation flows.
+
+— NOTE 3: Using this mechanism is vulnerable to attacks, such as session fixation. Mitigating such attacks is up to relying parties. Implementing this mechanism should not trigger non-compliance.
+
+— OIDFVP-HAIP-SUPPORT-05: A Relying Party shall meet the requirements specified in clauses 6.5 of the present Annex.
+
+— NOTE 5: void.
+
+(14)
+
+6.3.1. General requirements
+
+— OIDFVP-HAIP-GEN-01: All the mandatory requirements specified in clauses 5, 5.3, 7, and 8 of HAIP [11] shall apply.
+
+— NOTE 1: 'HAIP [11] Section 5' refers only to the requirements directly under the Section 5 heading. This does not include sections 5.1, 5.2, and 5.3.
+
+— OIDFVP-HAIP-GEN-03: If the present Annex modifies a requirement in OpenID4VC-HAIP [11], the modified requirement specified by the present Annex shall prevail.
+
+— NOTE 2: This would allow, for instance, to convert in mandatory an optional requirement from OpenID4VC-HAIP [11] or to extend mandatory requirements.
+
+— OIDFVP-HAIP-GEN-04: When the format of the requested attestation complies with [10] Relying Parties and EUDI Wallets shall comply with the 'ISO mdocs' profile in [11] Section 6.
+
+— NOTE 3: For clarity: the 'ISO mdocs profile' in HAIP implies that Relying Parties and EUDI Wallets must comply with the applicable requirements in [7] Annex B.2.
+
+— OIDFVP-HAIP-GEN-05: When the format of the requested attestation complies with [2], Relying Parties and EUDI Wallets shall comply with the 'IETF SD-JWT VCs' profile in [11] Section 6.
+
+— NOTE 4: For clarity: the 'IETF SD-JWT VCs profile' implies that Relying Parties and EUDI Wallets must comply with the requirements in [7] Annex B.3, as well as with the requirements in [11] Section 6.1.
+
+(15)
+
+6.3.2.1 General requirements
+
+— OIDFVP-HAIP-COMMON-REQ-01: void.
+
+(16)
+
+6.3.2.2 Requirements for the Request Object
+
+— OIDFVP-HAIP-COMMON-REQ-RO-02: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-03: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-04: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-05: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-06: void.
+
+— OIDFVP-HAIP-COMMON-REQ-RO-07: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-08: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-09: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-10: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-11: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-12: void
+
+— Note 2: void
+
+— OIDFVP-HAIP-COMMON-REQ-RO-13: One of the elements of the verifier_info parameter shall include the registration certificate.
+
+— OIDFVP-HAIP-COMMON-REQ-RO-23: The leaf certificate mentioned in OpenID4VP section 5.9.3 for use with the x509_hash Client Identifier Prefix shall be a RP access certificate as specified in ETSI TS 119 475 [14].
+
+(17)
+
+6.3.3 Authorization Response (EAAP response) profile
+
+— OIDFVP-HAIP-COMMON-RESP-01: void.
+
+(18)
+
+6.4.1 General requirements
+
+— OIDFVP-HAIP-REDIRECTS-04: void.
+
+— NOTE: void.
+
+(19)
+
+6.5.2 Additional requirements
+
+— OIDFVP-HAIP-ADD-API-01: The EUDI Wallet shall by default disclose the presence of all stored EAA types to the mediating API that works in accordance with clause 5.2 of [11], but it shall not disclose the attributes and their values in these EAAs.
+
+— OIDFVP-HAIP-ADD-API-04: If the EUDI Wallet supports a mediating API that works as is specified in OIDFVP-HAIP-ADD-API-01, it shall provide a global user setting to disable the disclosure of stored EAAs via the mediating API. When this setting is set to disabled disclosure, the EUDI Wallet should subsequently enable the User to select individual attestations to be disclosed to the mediating API.
+
+— OIDFVP-HAIP-ADD-API-05: EUDI Wallets shall verify, in cross-device flows, using the mediating API, that the interacting device is in close physical proximity to the EUDI Wallet using a secure, direct, and user-mediated local communication channel, such as a short-range wireless communication technology to perform the physical proximity check.
+
+— NOTE 5: CTAP 2.3, enables to use BLE to perform the close physical proximity check and when implemented by both devices, also enables to transport the data between the devices via short-range transmission technologies. Performing both the physical proximity check and data transfer between the two devices using a local communication channel as enabled by CTAP 2.3, should be preferred by underlying operating systems, browsers, mediating APIs, or any other technical layer outside the control of the EUDI Wallet over the use of CTAP Hybrid tunnel services.
+
+(20)
+
+6.5.3 Specific requirements when requesting ISO/IEC 18013-5 EAAP
+
+— OIDFVP-HAIP-ISO/IEC_18013_5_REQ-02: All requirements specified in this document applicable to Device Request and Device Response structures specified in ISO/IEC 18013-5 also apply when the EUDI Wallet receives a request for ISO/IEC mdoc presentation through an API-transmitted mechanism specified in clause C.1 of [16].
+
+( 1 ) Commission Implementing Regulation (EU) 2015/1502 of 8 September 2015 on setting out minimum technical specifications and procedures for assurance levels for electronic identification means pursuant to Article 8(3) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market (OJ L 235, 9.9.2015, p. 7, ELI: http://data.europa.eu/eli/reg_impl/2015/1502/oj).

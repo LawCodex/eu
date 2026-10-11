@@ -26,9 +26,11 @@ retrieved: 2026-10-11
 
 **(Text with EEA relevance)**
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td> DIRECTIVE (EU) 2024/2749 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 9 October 2024 </td><td> L 2749</td><td>1</td><td>8.11.2024</td></tr>
+</table>
 
 **DIRECTIVE 2014/68/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL**
 
@@ -2915,10 +2917,12 @@ Signed for and on behalf of:
 
 **(referred to in Article 49)**
 
+<table>
 <tbody><tr><td>Directive</td><td>Time-limit for transposition</td><td>Date of application</td></tr>
 <tr><td>97/23/EC</td><td>29 May 1999</td><td>29 November 1999 (1)</td></tr>
 <tr><td colspan="3">(1)  In accordance with Article 20(3) of Directive 97/23/EC, Member States shall permit the putting into service of pressure equipment and assemblies which comply with the regulations in force in their territory at the date of application of the Directive beyond that date. </td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI
 

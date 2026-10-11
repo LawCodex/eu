@@ -32,10 +32,12 @@ laying down the basic rules necessary for testing migration of the constituents 
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Commission Directive 93/8/EEC of 15 March 1993</td><td> L 90</td><td>22</td><td>14.4.1993</td></tr>
 <tr><td></td><td>Commission Directive 97/48/EC Text with EEA relevance of 29 July 1997</td><td> L 222</td><td>10</td><td>12.8.1997</td></tr>
+</table>
 
 COUNCIL DIRECTIVE
 
@@ -169,6 +171,7 @@ Table 1
 
 Food types and food simulants
 
+<table>
 <tbody><tr><td>Food type</td><td>Conventional classification</td><td>Food simulant</td><td>Abbreviation</td></tr>
 <tr><td>Aqueous foods (i.e. aqueous foods having a pH &gt;4,5)</td><td>Foodstuffs for which test with the simulant A only is prescribed in Directive 85/572/EEC (1)</td><td>Distilled water or water of equivalent quality</td><td>Simulant A</td></tr>
 <tr><td>Acidic foods (i.e. aqueous foods having a pH ≤4,5)</td><td>Foodstuffs for which test with the simulant B only is prescribed in Directive 85/572/EEC</td><td>Acetic acid 3 % (w/v)</td><td>Simulant B</td></tr>
@@ -177,6 +180,7 @@ Food types and food simulants
 <tr><td>Dry foods</td><td>  </td><td>None</td><td>None</td></tr>
 <tr><td colspan="4"> (1) OJ No L 372, 31. 12. 1985, p. 14. </td></tr>
 </tbody>
+</table>
 
 2\. Selection of food simulants
 
@@ -277,6 +281,7 @@ Conventional conditions for migration tests with food simulants
 | 4 hours< t≤24 hours | 24 hours |
 | t >24 hours | 10 days |
 
+<table>
 <tbody><tr><td>Contact temperature</td><td>Test temperature</td></tr>
 <tr><td>T≤5 °C</td><td>5 °C</td></tr>
 <tr><td>5 °C&lt; T≤20 °C</td><td>20 °C</td></tr>
@@ -289,6 +294,7 @@ Conventional conditions for migration tests with food simulants
 <tr><td>T &gt;150 °C</td><td>175 °C (1)</td></tr>
 <tr><td colspan="2"> (*) This temperature shall be used only for simulant D. For simulants A, B or C the test may be replaced by a test at 100 °C or at reflux temperature for a duration of four times the time selected according to the general rules of paragraph 1. </td></tr>
 </tbody>
+</table>
 
 ### CHAPTER III
 
@@ -308,6 +314,7 @@ Table 4
 
 Conventional conditions for substitute tests
 
+<table>
 <tbody><tr><td>Test condition with simulant D</td><td>Test conditions with isooctane</td><td>Test conditions with ethanol 95 %</td><td>Test conditions with MPPO (1)</td></tr>
 <tr><td>10 d at 5 °C</td><td>0,5 d at 5 °C</td><td>10 d at 5 °C</td><td>—</td></tr>
 <tr><td>10 d at 20 °C</td><td>1 d at 20 °C</td><td>10 d at 20 °C</td><td>—</td></tr>
@@ -325,6 +332,7 @@ Conventional conditions for substitute tests
 <tr><td>2 h at 175 °C</td><td>4,0 h at 60 °C (2)</td><td>6,0 h at 60 °C (2)</td><td>2 h at 175 °C</td></tr>
 <tr><td colspan="4"> (*) MPPO = Modified polyphenylene oxide  (**) The volatile tests media are used up to a maximum temperature of 60 °C. A precondition of using the substitute tests is that the material or article will withstand the test conditions that would otherwise be used with simulant D. Immerse a test specimen in olive oil under the appropriate conditions. If the physical properties are changed (e.g. melting, deformation) then the material is considered unsuitable for use at that temperature. If the physical properties are not changed, then proceed with the substitute tests using new specimens. </td></tr>
 </tbody>
+</table>
 
 ### CHAPTER IV
 

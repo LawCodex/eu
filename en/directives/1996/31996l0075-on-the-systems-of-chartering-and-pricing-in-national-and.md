@@ -30,9 +30,11 @@ on the systems of chartering and pricing in national and international inland wa
 
 Amended by:
 
+<table>
 <tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
 <tr><td> No</td><td>page</td><td>date</td></tr>
 <tr><td></td><td>Regulation (EC) No 1882/2003 of the European Parliament and of the Council of 29 September 2003</td><td> L 284</td><td>1</td><td>31.10.2003</td></tr>
+</table>
 
 COUNCIL DIRECTIVE 96/75/EC
 

@@ -88,6 +88,7 @@ Member of the Commission
 
 Annex I to Directive 2002/32/EC is amended, replacing row 19, Camphechlor (toxaphene), by the following:
 
+<table>
 <tbody><tr><td>Undesirable substances</td><td>Products intended for animal feed</td><td>Maximum content in mg/kg (ppm) relative to a feedingstuff with a moisture content of 12 %</td></tr>
 <tr><td>(1)</td><td>(2)</td><td>(3)</td></tr>
 <tr><td rowspan="3"><table><tbody><tr><td>‘19.</td><td>Camphechlor (toxaphene) — sum of indicator congeners CHB 26, 50 and 62 (*1)</td></tr>
@@ -106,6 +107,7 @@ Annex I to Directive 2002/32/EC is amended, replacing row 19, Camphechlor (toxap
 </table>
 </td><td>0,05 </td></tr>
 </tbody>
+</table>
 
 (*1) Numbering system according to Parlar, prefixed by either “CHB” or “Parlar #”:
 

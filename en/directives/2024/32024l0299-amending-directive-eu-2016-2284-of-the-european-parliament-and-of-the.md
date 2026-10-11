@@ -89,6 +89,7 @@ Annexes I and IV to Directive (EU) 2016/2284 are amended as follows:
 
 **Reporting requirements for emissions and projections as referred to in Article 8(2)**
 
+<table>
 <tbody><tr><td>Element</td><td>Pollutants</td><td>Time series/target years</td><td>Reporting dates</td></tr>
 <tr><td>National gridded data of emissions by source category (GNFR)</td><td><table><tbody><tr><td>—</td><td>SO2, NOx, NMVOC, CO, NH3, PM10, PM2,5</td></tr>
 </tbody>
@@ -121,6 +122,7 @@ Annexes I and IV to Directive (EU) 2016/2284 are amended as follows:
 </table>
 </td><td>Biennial, covering projection years 2020, 2025, 2030 and, where available, 2040 and 2050 as from 2017 </td><td>15 March</td></tr>
 </tbody>
+</table>
 
 (2) In Annex IV, Part 2 (‘National emission projections’), point 2, is replaced by the following:
 

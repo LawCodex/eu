@@ -498,6 +498,7 @@ Plastic material and articles shall not release primary aromatic amines in a det
 
 (2) In Part B, the following new specifications are inserted, in the appropriate numerical order:
 
+<table>
 <tbody><tr><td>Ref. No</td><td>OTHER SPECIFICATIONS</td></tr>
 <tr><td>‘42080</td><td>Carbon black Specifications:  — Toluene extractables: maximum 0,1 %, determined according to ISO method 6209.  — UV absorption of cyclohexane extract at 386 nm: &lt; 0,02 AU for a 1 cm cell or &lt; 0,1 AU for a 5 cm cell, determined according to a generally recognised method of analysis.  — Benzo(a)pyrene content: max 0,25 mg/kg carbon black.  — Maximum use level of carbon black in the polymer: 2,5 % w/w </td></tr>
 <tr><td>72081/10</td><td>Petroleum hydrocarbon resins (hydrogenated) Specifications:  Petroleum hydrocarbon resins, hydrogenated are produced by the catalytic or thermal polymerisation of dienes and olefins of the aliphatic, alicyclic and/or monobenzenoid arylalkene types from distillates of cracked petroleum stocks with a boiling range not greater than 220 °C, as well as the pure monomers found in these distillation streams, subsequently followed by distillation, hydrogenation and additional processing.  Properties:  Viscosity: &gt; 3 Pa.s at 120 °C.  Softening point: &gt; 95 °C as determined by ASTM Method E 28-67.  Bromine number: &lt; 40 (ASTM D1159)  The colour of a 50 % solution in toluene &lt; 11 on the Gardner scale  Residual aromatic monomer ≤ 50 ppm </td></tr>
@@ -506,6 +507,7 @@ Plastic material and articles shall not release primary aromatic amines in a det
 <tr><td>88640</td><td>Soybean oil, epoxidized Oxirane &lt; 8 %, iodine number &lt; 6 </td></tr>
 <tr><td colspan="2">(1) OJ L 339, 30.12.1996, p. 1.’</td></tr>
 </tbody>
+</table>
 
 ## ANNEX VI
 

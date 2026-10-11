@@ -1,0 +1,121 @@
+---
+title: "Commission Regulation (EC) No 180/2008 of 28 February 2008 concerning the Community reference laboratory for equine diseases other than African horse sickness and amending Annex VII to Regulation (EC) No 882/2004 of the European Parliament and of the Council"
+identifier: "32008R0180"
+eli: "http://data.europa.eu/eli/reg/2008/180/oj"
+type: regulation
+jurisdiction: eu
+language: en
+date: 2008-02-28
+entry_into_force: 2008-07-03
+last_amended: 2017-05-31
+consolidated_version: "02008R0180-20170531"
+status: in_force
+source: "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02008R0180-20170531"
+retrieved: 2026-10-11
+---
+
+# Commission Regulation (EC) No 180/2008 of 28 February 2008 concerning the Community reference laboratory for equine diseases other than African horse sickness and amending Annex VII to Regulation (EC) No 882/2004 of the European Parliament and of the Council
+
+**COMMISSION REGULATION (EC) No 180/2008**
+
+**of 28 February 2008**
+
+**concerning the Community reference laboratory for equine diseases other than African horse sickness and amending Annex VII to Regulation (EC) No 882/2004 of the European Parliament and of the Council**
+
+<table>
+<tr><td rowspan="2"></td><td rowspan="2"></td><td colspan="3">Official Journal</td></tr>
+<tr><td> No</td><td>page</td><td>date</td></tr>
+<tr><td></td><td> COMMISSION REGULATION (EU) No 208/2011 of 2 March 2011 </td><td> L 58</td><td>29</td><td>3.3.2011</td></tr>
+<tr><td> M2</td><td> COMMISSION IMPLEMENTING REGULATION (EU) No 72/2013 of 25 January 2013 </td><td> L 26</td><td>9</td><td>26.1.2013</td></tr>
+<tr><td></td><td> COMMISSION IMPLEMENTING REGULATION (EU) 2017/793 of 10 May 2017 </td><td> L 120</td><td>5</td><td>11.5.2017</td></tr>
+</table>
+
+**COMMISSION REGULATION (EC) No 180/2008**
+
+**of 28 February 2008**
+
+**concerning the Community reference laboratory for equine diseases other than African horse sickness and amending Annex VII to Regulation (EC) No 882/2004 of the European Parliament and of the Council**
+
+## Article 1
+
+1\. Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail (ANSES) with its laboratories for animal health and equine diseases, France, is hereby designated as the EU Reference Laboratory for equine diseases other than African horse sickness from 1 July 2008 to 30 June 2023  .
+
+2\. The functions, tasks and procedures regarding collaboration with laboratories responsible for diagnosing infectious diseases of equidae in the Member States of the EU Reference Laboratory referred to in paragraph 1 are set out in the Annex to this Regulation.
+
+## Article 2
+
+In Chapter II of Annex VII to Regulation (EC) No 882/2004, the following point 14 is added:
+
+‘14. Community reference laboratory for equine diseases other than African horse sickness
+
+AFSSA — Laboratoire d’études et de recherches en pathologie animale et zoonoses/Laboratoire d’études et de recherche en pathologie équine
+
+F-94700 Maisons-Alfort
+
+France.’
+
+## Article 3
+
+This Regulation shall enter into force on the 20th day following its publication in the Official Journal of the European Union.
+
+This Regulation shall be binding in its entirety and directly applicable in all Member States.
+
+## ANNEX
+
+**Functions, tasks and procedures of the Community reference laboratory for equine diseases other than the African horse sickness regarding collaboration with laboratories responsible for diagnosing infectious diseases of equidae in the Member States**
+
+Without prejudice to the general functions and duties of Community Reference Laboratories in the animal health sector pursuant to Article 32(2) of Regulation (EC) No 882/2004, the Community reference laboratory (CRL) for equine diseases other than African horse sickness shall have the following duties and functions:
+
+1\. The CRL shall ensure liaison between the national/central laboratories of the Member States for equine diseases, or with branches of diagnostic laboratories dealing with individual pathogens or groups of pathogens of the equine diseases listed in Annex A to Directive 90/426/EEC and referred to in Annex D(II)(A) to Directive 92/65/EEC, with the exception of African horse sickness, where necessary, specifically by:
+
+(a) being at the forefront of the equine industry in close contact with the relevant structures for race and competition horses, in order to:
+
+(i) ensure an early warning, estimate and where possible predict the risk evolving from emerging diseases and particular epidemiological situations;
+
+(ii) monitor the disease situation globally and regionally by regularly receiving field samples from Member States and third countries geographically or commercially linked to the Community in terms of trade in equidae or products derived from such animals;
+
+(b) typing and antigenic and genomic characterisation of pathogens, where relevant and necessary, for example for epidemiological follow-ups or verification of diagnosis, from the samples referred to in point (a)(ii), and
+
+(i) communicating without delay the results of such investigations to the Commission, the Member State and the national/central laboratory concerned;
+
+(ii) determining the identity of the causative pathogens, where necessary in close collaboration with regional reference laboratories designated by the World Organisation for Animal Health (OIE);
+
+(c) building up and maintaining an up-to-date collection of pathogens and their strains and an up-to-date collection of specific sera against equine diseases;
+
+(d) being entrusted to carry out an inventory of the currently used techniques in the various laboratories in order to:
+
+(i) propose standardised tests and test procedures or reference sera for internal quality control;
+
+(ii) develop new diagnostic procedures to make imports of equidae safer and exports of equidae more competitive;
+
+(e) advising the Commission on all aspects related to equine diseases listed in Annex A to Directive 90/426/EEC or referred to in Annex D(II)(A) to Directive 92/65/EEC or subject to other Community animal health legislation; that task includes advising on possible vaccination, on the most appropriate health tests required for trade and imports, or the evaluation of newly developed vaccines and on questions pertaining to the epidemiology of the various equine diseases.
+
+2\. The CRL shall support the functions of national/central laboratories, in particular by:
+
+(a) storing and supplying national/central laboratories with reagents and materials for use in diagnosis of equine diseases such as virus or other pathogens and/or inactivated antigens, standardised sera, cell lines and other reference reagents;
+
+(b) retaining expertise on equine diseases, including emerging disease, to enable rapid differential diagnosis;
+
+(c) promoting harmonisation of diagnosis and ensuring proficiency of testing within the Community by organising and operating periodic comparative trials and external quality assurance exercises on equine disease diagnosis at Community level and by periodic transmission of the results of such trials to the Commission, the Member States and national/central laboratories;
+
+(d) gradually introducing and then continuing to carry out inter-laboratory proficiency tests;
+
+(e) carrying out research studies with the objective of developing improved methods of disease control in collaboration with national/central laboratories and as agreed in its annual work plan and providing optimal methods for the diagnosis and differential diagnosis.
+
+3\. The CRL shall provide information and carry out further training, in particular by:
+
+(a) gathering data and information on the methods of diagnosis and differential diagnosis used in national/central laboratories and the distribution of such information to the Commission and the Member States;
+
+(b) making and implementing the necessary arrangements for the further training of experts in laboratory diagnosis with a view to harmonising diagnostic techniques;
+
+(c) keeping abreast of developments in equine disease epidemiology;
+
+(d) organising an annual meeting where representatives of the national/central laboratories may review diagnostic techniques and the progress of coordination.
+
+4\. The CRL shall also:
+
+(a) perform experiments and field trials in consultation with the Commission directed towards an improved control of specific equine diseases;
+
+(b) review at the annual meeting of national/central reference laboratories the relevant requirements for testing laid down in the OIE Terrestrial Animals Manual of Standards for Diagnostic Tests and Vaccines;
+
+(c) assist the Commission in reviewing the recommendations of the OIE (Terrestrial Animal Health Code and Manual of Standards for tests and vaccines).
